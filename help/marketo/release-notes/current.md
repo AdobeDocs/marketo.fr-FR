@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
+source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '337'
 ht-degree: 7%
 
 ---
@@ -64,4 +64,4 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 * **Marketo Engage Forms jQuery 1.x**: dans notre version de janvier 2024, nous allons mettre à jour jQuery pour Marketo Engage Forms vers jQuery 3.x. Cela peut avoir un impact sur l’implémentation personnalisée du formulaire basée sur des versions plus anciennes de jQuery.
 
-* **Obsolescence des événements Marketo et des moments Marketo**: à compter du 2 octobre 2023, Adobe supprimera les événements Marketo et les moments Marketo de toutes les boutiques d’applications. Utilisateurs existants : vous pouvez continuer à utiliser ces applications jusqu’à ce que vous migriez votre instance de Marketo Engage vers Adobe Identity. Ces applications ne prennent pas en charge la connexion avec Adobe ID.
+* **Obsolescence des événements Marketo et des moments Marketo**: l’Adobe est [suppression des événements Marketo et des moments Marketo](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} à partir de toutes les boutiques d’applications à compter du 2 octobre 2023. Utilisateurs existants : vous pouvez continuer à utiliser ces applications jusqu’à ce que vous migriez votre instance de Marketo Engage vers Adobe Identity. Ces applications ne prennent pas en charge la connexion avec Adobe ID.
