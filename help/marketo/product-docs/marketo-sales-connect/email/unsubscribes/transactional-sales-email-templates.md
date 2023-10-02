@@ -4,9 +4,9 @@ title: Modèles d’e-mail de vente transactionnelle
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: ee0f005bb00a7233725d788c318630af90616174
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -17,42 +17,40 @@ Si votre équipe envoie des emails transactionnels ou non commerciaux, vous pouv
 
 ## Informations à noter {#things-to-note}
 
-* Les emails non commerciaux contourneront les désabonnements aux ventes et [Vérification du désabonnement du Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Les emails non commerciaux contourneront les désabonnements aux ventes et [Vérification du désabonnement du Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
-* Les messages de désabonnement ne sont pas automatiquement ajoutés aux emails non commerciaux, même si la variable [ajout du paramètre d’administration des messages de désabonnement](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} renseignera toujours le message de désabonnement de votre équipe.
+* Les messages de désabonnement ne sont pas automatiquement ajoutés aux emails non commerciaux, même si la variable [ajout du paramètre d’administration des messages de désabonnement](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} renseignera toujours le message de désabonnement de votre équipe.
 
 ## Configuration d’un modèle de courrier électronique à des fins non commerciales {#configure-an-email-template-for-non-commercial-use}
 
 1. Dans l’en-tête, cliquez sur **Modèles**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. Recherchez le modèle que vous souhaitez mettre à jour.
+1. Recherchez et sélectionnez le modèle à mettre à jour.
 
-PICC
-
-1. Sélectionnez le modèle.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. Activez le bouton d’activation/désactivation d’email non commercial sous Paramètres du modèle.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## Envoyer un email non commercial {#send-a-non-commercial-email}
 
-Lorsqu’une personne désabonnée est sélectionnée, elle est mise en surbrillance orange.
+>[!NOTE]
+>
+>Lorsqu’une personne désabonnée est sélectionnée, elle est mise en surbrillance orange.
 
-1. Dans la fenêtre de composition, sélectionnez le modèle non commercial que vous souhaitez afficher.
+1. Dans l’en-tête, cliquez sur **Composer**. Recherchez et sélectionnez le modèle non commercial souhaité.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
 1. Une bannière indique aux utilisateurs qu’ils ont sélectionné un modèle d’email non commercial.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. Cliquez sur **Envoyer**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 L&#39;email sera toujours envoyé même si la personne est désinscrite.
