@@ -4,16 +4,20 @@ description: Présentation d’Analytics Cards - Documents Marketo - Documentati
 title: Présentation des cartes Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '288'
 ht-degree: 2%
 
 ---
 
 # Présentation des cartes Analytics {#understanding-analytics-cards}
 
-Au début de chaque mois, Marketo Moments fournit trois rapports différents : Pistes acquises, nouvelles pistes et désabonnements. Chacun d’eux vous présente les performances mensuelles et la tendance sur une période de six mois.
+Au début de chaque mois, Marketo Moments fournit trois cartes de rapports différentes : Pistes achetées, Nouvelles pistes et Désabonnements. Chacun d’eux vous présente les performances mensuelles et la tendance sur une période de six mois.
+
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Analytics Cards {#analytics-cards}
 
@@ -37,7 +41,7 @@ Dans cet exemple, le rouge indique que la valeur a diminué au cours de la péri
 
 ## Pistes acquises {#acquired-leads}
 
-Le **Pistes acquises** vous présente un rapport de tendance d’un mois à l’autre du nombre de nouvelles pistes.
+La variable **Pistes acquises** vous présente un rapport de tendance d’un mois à l’autre du nombre de nouvelles pistes.
 
 >[!NOTE]
 >
@@ -47,13 +51,13 @@ Le **Pistes acquises** vous présente un rapport de tendance d’un mois à l’
 
 ## Nouveaux leads {#new-leads}
 
-Le **Nouvelles pistes** vous présente un rapport de tendance d’un mois à l’autre du nombre total de nouveaux prospects dans votre instance au cours des six derniers mois.
+La variable **Nouvelles pistes** vous présente un rapport de tendance d’un mois à l’autre du nombre total de nouveaux prospects dans votre instance au cours des six derniers mois.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Désabonnements {#unsubscribes}
 
-Le **Désabonne** vous présente un rapport de tendance d’un mois à l’autre de votre taux de désabonnement au cours des six derniers mois.
+La variable **Désabonne** vous présente un rapport de tendance d’un mois à l’autre de votre taux de désabonnement au cours des six derniers mois.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 

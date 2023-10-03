@@ -4,18 +4,22 @@ description: Présentation des cartes de campagne dynamique - Documents Marketo 
 title: Présentation des cartes de campagne intelligente
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # Présentation des cartes de campagne intelligente {#understanding-smart-campaign-cards}
 
-Utilisez les moments Marketo pour afficher chaque exécution de vos campagnes intelligentes à partir de votre smartphone ou iPad. La carte de campagne dynamique Marketo Moments représente une seule exécution d’une campagne ; une nouvelle carte s’affiche chaque fois que la campagne dynamique s’exécute. Les cartes de campagne dynamiques sont marquées d’une ampoule en haut à gauche.
+Utilisez les moments Marketo pour afficher chaque exécution de vos campagnes intelligentes à partir de votre smartphone ou iPad. La carte Campagne dynamique des moments Marketo représente une seule exécution d’une campagne ; une nouvelle carte s’affiche chaque fois que la campagne dynamique s’exécute. Les cartes de campagne dynamique sont marquées d’une ampoule en haut à gauche.
 
-Pour les futures campagnes intelligentes planifiées mais qui ne sont pas encore exécutées, la carte Moments Marketo n’affiche pas encore les statistiques de la campagne. Elles apparaîtront dans une prochaine version.
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+Pour les futures campagnes dynamiques planifiées mais pas encore exécutées, la carte Moments Marketo n’affiche pas encore les statistiques de la campagne. Elles apparaîtront dans une prochaine version.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -61,9 +65,9 @@ Pour les futures campagnes intelligentes planifiées mais qui ne sont pas encore
 
 ## Création d’exemples et d’aperçus d’email {#creating-email-samples-and-previews}
 
-C&#39;est une bonne idée de jeter un coup d&#39;oeil à un email avant qu&#39;il ne sorte. Ou bien, envoyez un échantillon à quelqu&#39;un d&#39;autre pour qu&#39;il y ait un deuxième regard dessus.
+C&#39;est une bonne idée de jeter un oeil à un email avant qu&#39;il ne sorte. Ou bien, envoyez un échantillon à quelqu&#39;un d&#39;autre pour qu&#39;il y ait un deuxième regard dessus.
 
-1. Appuyez sur le menu d’action à trois points d’un courrier électronique.
+1. Appuyez sur le menu d’action à trois points sur un email.
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
@@ -73,9 +77,9 @@ C&#39;est une bonne idée de jeter un coup d&#39;oeil à un email avant qu&#39;i
 
 ## Confirmation d’une exécution de campagne dynamique {#confirming-a-smart-campaign-run}
 
-Les cartes des campagnes intelligentes non confirmées sont grises jusqu’à ce que vous les confirmiez. Ensuite, ils deviennent orange.
+Les cartes des campagnes intelligentes non confirmées sont grisées jusqu’à ce que vous les confirmiez. Ensuite, ils prennent l&#39;orange.
 
-1. Pour confirmer une carte de campagne dynamique non confirmée, appuyez sur le menu d’action à trois points.
+1. Pour confirmer une carte Campagne dynamique non confirmée, appuyez sur le menu d’action à trois points.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -103,7 +107,7 @@ Vous pouvez annuler une exécution de campagne dynamique planifiée confirmée.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Appuyer **Annuler l’exécution**. Si vous décidez à la dernière minute de ne pas annuler l’exécution, appuyez sur **Ne vous souciez Jamais**, et la campagne dynamique s’exécute comme prévu.
+1. Appuyer **Annuler l’exécution**. Si vous décidez à la dernière minute de ne pas annuler l’exécution, appuyez sur **Ne vous souciez Jamais**, et la campagne dynamique s’exécutera comme prévu.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,7 +123,7 @@ Vous pouvez replanifier une campagne dynamique confirmée qui ne s’est pas enc
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Sélectionnez une date dans le calendrier, puis appuyez sur **Replanifier**.
+1. Sélectionnez une date du calendrier et appuyez sur **Replanifier**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 

@@ -4,10 +4,10 @@ description: Archivage des personnes dans votre événement à partir de votre t
 title: Archivage des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 0%
+source-wordcount: '859'
+ht-degree: 1%
 
 ---
 
@@ -15,12 +15,15 @@ ht-degree: 0%
 
 Lorsque des personnes se présentent à votre événement, vous pouvez trouver leurs informations dans l’application. Après l’archivage, ils sont promus au statut Participant lorsque vous vous synchronisez avec Marketo.
 
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Events de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 L’application fonctionne de la même manière sur iPad et Android, à l’exception des différences mineures de mise en page et de conception.
 
 >[!PREREQUISITES]
 >
 >* Créez un événement dans Marketo et renseignez-le avec des personnes invitées et enregistrées.
->* Téléchargez l’application pour tablette [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) ou [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 ## Archivage des invités enregistrés {#check-in-registered-guests}
 
@@ -48,11 +51,11 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 
    * Faire défiler pour trouver un nom
    * Saisissez un nom dans le champ de recherche.
-   * Accédez à une lettre initiale spécifique du nom en appuyant sur celle-ci sur le côté droit de la liste.
+   * Accédez à une lettre initiale spécifique du nom en appuyant dessus sur la partie droite de la liste.
 
    >[!NOTE]
    >
-   >Le processus est le même sur iPad et Android, mais les écrans diffèrent et les éléments peuvent se trouver à des emplacements différents. Cet article présente l’interface d’iPad. Comparez l’écran Android de cette section à titre de référence.
+   >Le processus est le même sur iPad et Android, mais les écrans diffèrent et les éléments peuvent se trouver à des emplacements différents. Cet article présente l’interface d’iPad. Comparez l’écran Android de cette section pour référence.
 
    **iPad**
 
@@ -104,7 +107,7 @@ Vous pouvez ajouter manuellement des invités qui ne sont pas des personnes exis
 
    >[!CAUTION]
    >
-   >Vérifiez deux fois l&#39;adresse email. D&#39;autres champs peuvent être corrigés ultérieurement, mais l&#39;adresse email est la méthode Principale pour contacter l&#39;invité.
+   >Vérifiez deux fois l&#39;adresse email. D’autres champs peuvent être corrigés ultérieurement, mais l’adresse électronique est la méthode principale pour contacter l’invité.
 
 La nouvelle personne est enregistrée comme archivée dans votre événement et sera ajoutée à la base de données Marketo avec le statut Participant lors de la synchronisation avec Marketo.
 
@@ -156,7 +159,7 @@ L’application Marketo Events fonctionne indépendamment jusqu’à ce que vous
 
 Certains lieux ont un accès internet pourri. Vous avez besoin d’une bonne connexion à :
 
-* Télécharger et installer l’application
+* Téléchargement et installation de l’application
 * Se connecter
 * Sélection d’un événement
 * Synchronisation de l’application avec Marketo

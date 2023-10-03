@@ -4,9 +4,9 @@ description: Accorder aux utilisateurs l’accès à l’application d’archiva
 title: Octroi aux utilisateurs de l’accès à l’application d’archivage
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Octroi aux utilisateurs de l’accès à l’application d’archivage {#grant-users-access-to-the-check-in-app}
 
 Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’archivage des événements. Voici comment créer un nouveau rôle avec l’autorisation d’utiliser l’application.
+
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Events de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Création d’un rôle d’utilisateur pour Mobile {#create-a-new-user-role-for-mobile}
 

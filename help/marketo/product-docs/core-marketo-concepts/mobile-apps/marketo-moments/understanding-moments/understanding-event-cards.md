@@ -4,10 +4,10 @@ description: Présentation des cartes d’événements - Documents Marketo - Doc
 title: Présentation des cartes d’événements
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,11 @@ ht-degree: 0%
 
 Utilisez Moments Marketo pour afficher vos programmes d’événement sur votre téléphone ou dans iPad.
 
-Lorsque vous appuyez sur une carte du programme de messagerie, vous pouvez :
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+Lorsque vous appuyez sur n’importe quelle carte du programme de messagerie, vous pouvez :
 
 * [Faire d’un événement un favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [Marquage d’un événement comme prévu](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)

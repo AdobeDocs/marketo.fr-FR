@@ -4,9 +4,9 @@ description: Préparation de votre événement - Documents Marketo - Documentati
 title: Préparation de votre événement
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Préparation de votre événement {#prepare-for-your-event}
 
 Il y a plusieurs choses que vous devez faire pour vous préparer à l&#39;événement.
+
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Events de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Création d’un rôle Marketo {#create-a-new-marketo-role}
 
@@ -41,7 +45,7 @@ Il est instantané de définir les dates de votre événement.
 
    >[!CAUTION]
    >
-   >Si la date de l’événement est supérieure ou égale à une semaine avant ou après la date actuelle, votre événement n’apparaîtra pas dans l’application. **Conseil**: Pour le tester, définissez temporairement les dates sur dans une semaine. N’oubliez pas de renvoyer l’événement aux dates correctes après l’avoir testé.
+   >Si la date de l’événement est supérieure ou égale à une semaine avant ou après la date actuelle, votre événement n’apparaîtra pas dans l’application. **Conseil**: pour le tester, définissez temporairement les dates sur dans une semaine. N’oubliez pas de renvoyer l’événement aux dates correctes après l’avoir testé.
 
 ## Ajout de personnes à votre événement {#add-people-to-your-event}
 
@@ -75,7 +79,7 @@ Maintenant que vous connaissez le *when*, il est temps d’ajouter la variable *
 
    ![](assets/image2016-4-7-16-3a49-3a7.png)
 
-1. ...et indique le moment où la tâche est terminée.
+1. ...et indique quand la tâche est terminée.
 
    ![](assets/ten.png)
 

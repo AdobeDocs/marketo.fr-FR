@@ -4,9 +4,9 @@ description: Présentation des cartes du programme de messagerie électronique -
 title: Présentation des cartes du programme de messagerie
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,16 @@ ht-degree: 0%
 
 Utilisez Moments Marketo pour afficher vos programmes de messagerie à partir de votre téléphone ou d’iPad.
 
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 ## Email Program Cards {#email-program-cards}
 
-Lorsque vous appuyez sur une carte du programme de messagerie, vous pouvez :
+Lorsque vous appuyez sur n’importe quelle carte du programme de messagerie, vous pouvez :
 
 * [Créer un email comme favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marquer un email comme terminé](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Marquage d’un email comme terminé](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Partage d’une carte de moment de courrier électronique](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Sur une carte du programme de messagerie pour un courrier électronique qui n’est pas encore envoyé, vous trouverez des informations sur l’état et l’audience de ce programme de messagerie.
@@ -33,7 +37,7 @@ Une fois l&#39;email envoyé, la carte affiche d&#39;autres informations utiles,
 
 ## Confirmation d’une carte électronique {#confirming-an-email-card}
 
-1. Pour confirmer une carte électronique non confirmée, appuyez sur le menu à trois points.
+1. Pour confirmer une carte de messagerie non confirmée, appuyez sur le menu à trois points.
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
@@ -75,7 +79,7 @@ Vous pouvez replanifier les cartes électroniques confirmées ou non confirmées
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Sélectionnez une date dans le calendrier, puis appuyez sur **Replanifier**.
+1. Sélectionnez une date du calendrier et appuyez sur **Replanifier**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 

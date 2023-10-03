@@ -4,16 +4,20 @@ description: Aperçu d’un courrier électronique - Documents Marketo - Documen
 title: Aperçu d’un email
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 1%
 
 ---
 
 # Aperçu d’un email {#previewing-an-email}
 
-Cliquez avec le bouton droit de la souris sur une carte électronique pour la prévisualiser, avant d’appuyer sur la gâchette.
+Cliquez avec le bouton droit de la souris sur une carte de courrier électronique pour la prévisualiser, avant d’appuyer sur la gâchette.
+
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Sur une carte de courrier électronique, appuyez sur le menu d’action à trois points.
 

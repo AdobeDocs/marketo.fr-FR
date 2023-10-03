@@ -4,9 +4,9 @@ description: Présentation de Marketo Moments - Documents Marketo - Documentatio
 title: Présentation des moments Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '612'
 ht-degree: 5%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 5%
 
 La puissance de Marketo est désormais à votre disposition ! Prévisualisez les e-mails et planifiez à nouveau leur envoi à partir de votre téléphone ou de votre iPad.
 
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->L’autorisation Accéder aux applications mobiles est requise. Contactez votre administrateur Marketo pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
->[!AVAILABILITY]
->
->Cette application n’est pas compatible avec [Authentification des identités d’Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} à ce moment-là.
+>_Accès aux applications mobiles_ autorisation requise. Contactez votre administrateur Marketo pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 

@@ -4,16 +4,20 @@ description: Partage d’un moment - Documents Marketo - Documentation du produi
 title: Partager un moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '157'
 ht-degree: 2%
 
 ---
 
 # Partager un moment {#sharing-a-moment}
 
-Vous souhaitez mettre à jour votre équipe ? Vous avez deux choix pour sélectionner le partage :
+Vous souhaitez mettre à jour votre équipe ? Vous avez deux choix pour sélectionner le partage.
+
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Appuyez sur le bouton **Partager** sur la carte.
 

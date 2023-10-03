@@ -4,16 +4,20 @@ description: Marquer comme terminé - Documents Marketo - Documentation du produ
 title: Marquer comme terminé
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 1%
 
 ---
 
 # Marquer comme terminé {#marking-it-done}
 
 Marquez un programme de messagerie, un événement ou une carte d’analyse comme Terminé pour le supprimer de votre flux. Il y a deux façons de le faire.
+
+>[!IMPORTANT]
+>
+>Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Appuyez sur le menu Action.
 
@@ -23,7 +27,7 @@ Marquez un programme de messagerie, un événement ou une carte d’analyse comm
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
-1. Ou faites glisser la carte dans les deux sens.
+1. Vous pouvez également faire glisser la carte dans les deux sens.
 
    ![](assets/image2015-9-25-9-3a46-3a6.png)
 
