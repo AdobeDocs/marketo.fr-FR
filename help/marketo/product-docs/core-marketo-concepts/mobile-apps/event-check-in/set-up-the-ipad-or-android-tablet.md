@@ -4,7 +4,7 @@ description: Configuration de la tablette iPad ou Android - Documents Marketo - 
 title: Configuration de la tablette iPad ou Android
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -31,11 +31,11 @@ Si l’application Marketo Events n’est pas encore installée sur votre iPad, 
 
 1. Ouvrez votre iPad et lancez App Store.
 
-   ![](assets/image2016-4-14-15-3a52-3a19.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-1.png)
 
 1. Dans la zone de recherche, saisissez **Marketo** et dans Suggestions, appuyez sur **événements marketo**.
 
-   ![](assets/image2016-4-14-16-3a0-3a3.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-2.png)
 
 1. Suivez les procédures pour télécharger et installer l’application sur votre iPad.
 
@@ -47,7 +47,7 @@ Si l’application Marketo Events n’est pas encore installée sur votre tablet
 1. Dans la zone Rechercher, saisissez **Marketo** et appuyez sur **Retour**.
 1. Dans les résultats de la recherche, appuyez sur la **Événements Marketo** application.
 
-   ![](assets/image2016-4-15-14-3a42-3a11.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-3.png)
 
 1. Suivez les procédures pour télécharger et installer l’application sur votre tablette.
 
@@ -58,7 +58,7 @@ Avant d’affecter des iPad ou des tablettes au personnel du salon, vérifiez qu
 1. Suivez les procédures de connexion d’iPad ou de la tablette pour vous connecter.
 1. Vérifiez que votre événement s’affiche dans l’écran Accueil . Souvenez-vous qu’elle n’apparaît que si ses dates se situent dans la semaine précédant la date actuelle et dans la semaine qui suit cette date.
 
-   ![](assets/image2016-4-15-15-3a29-3a0.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-4.png)
 
    >[!NOTE]
    >
@@ -73,11 +73,11 @@ Synchroniser pour être sûr que les personnes que vous avez ajoutées sont là.
 
    **iPad**
 
-   ![](assets/image2016-4-12-14-3a25-3a13.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-5.png)
 
    **Android**
 
-   ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-6.png)
 
 ## Confirmation que les check-ins fonctionnent {#confirm-check-ins-are-working}
 
@@ -87,11 +87,11 @@ Veillez à confirmer que les check-ins fonctionnent à partir d’iPad ou de la 
 1. Appuyez sur le bouton **Synchronisation** pour synchroniser l’application.
 1. Dans Marketo, ouvrez l’événement, puis cliquez sur **Membres**.
 
-   ![](assets/image2016-4-15-15-3a32-3a42.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-7.png)
 
 1. Confirmez que l’état de la personne est modifié en **Attaché** et l’option Réussite est cochée.
 
-   ![](assets/image2016-4-18-14-3a11-3a36.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-8.png)
 
    >[!TIP]
    >

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
-source-wordcount: '9111'
+source-wordcount: '9104'
 ht-degree: 5%
 
 ---
@@ -481,7 +481,6 @@ ht-degree: 5%
             + [Archivage des personnes dans votre événement à partir de votre tablette](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Octroi aux utilisateurs de l’accès à l’application d’archivage](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Préparation de votre événement](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [Configuration de la tablette iPad ou Android](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo Moments {#marketo-moments}
             + Présentation des moments {#understanding-moments}
                + [Présentation des moments Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
