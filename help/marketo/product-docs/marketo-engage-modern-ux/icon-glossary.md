@@ -3,16 +3,16 @@ description: Glossaire des icônes - Documents Marketo - Documentation du produi
 title: Glossaire des icônes
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 53%
+source-wordcount: '239'
+ht-degree: 52%
 
 ---
 
 # Glossaire des icônes {#new-icon-glossary}
 
-Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [ici](/help/marketo/getting-started/classic-icon-glossary.md).
+Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [se trouve ici](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## Icônes générales {#general-icons}
 
@@ -31,7 +31,7 @@ Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo 
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td> 
    <td><img src="assets/batch-active.png"></td> 
-   <td>Campagne par lots - principale</td> 
+   <td>Campagne par lots - active</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td> 
@@ -86,7 +86,7 @@ Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo 
   <tr>
    <td><strong>s/o</strong></td> 
    <td><img src="assets/filter-active.png"></td> 
-   <td>Filtre - principal</td> 
+   <td>Filtre - actif</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td> 
@@ -97,6 +97,11 @@ Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo 
    <td><img src="assets/classic-archive-folder.png"></td> 
    <td><img src="assets/folder-archive.png"></td> 
    <td>Dossier - archivé</td> 
+  </tr>
+  <tr>
+   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>Dossier - partagé</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
@@ -211,7 +216,7 @@ Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo 
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
    <td><img src="assets/trigger-active.png"></td> 
-   <td>Déclencheur - principal</td> 
+   <td>Déclencheur - actif</td> 
   </tr>
   <tr>
    <td><strong>s/o</strong></td> 
@@ -342,7 +347,7 @@ Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo 
  </tbody>
 </table>
 
-## Programmes d&#39;engagement {#engagement-programs}
+## Programmes d’engagement {#engagement-programs}
 
 <table> 
  <tbody>
