@@ -3,7 +3,7 @@ description: Glossaire des icônes - Documents Marketo - Documentation du produi
 title: Glossaire des icônes
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
+source-git-commit: 3d541d6ba9944dc8b51d2dd45c1f5a2eba35e938
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 52%
@@ -99,7 +99,7 @@ Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo 
    <td>Dossier - archivé</td> 
   </tr>
   <tr>
-   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/classic-shared-folder.png"></td> 
    <td><img src="assets/folder-shared.png"></td> 
    <td>Dossier - partagé</td> 
   </tr>
