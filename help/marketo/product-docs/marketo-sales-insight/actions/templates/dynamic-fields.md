@@ -3,10 +3,10 @@ description: Champs dynamiques - Documents Marketo - Documentation du produit
 title: Champs dynamiques
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 1%
+source-wordcount: '519'
+ht-degree: 0%
 
 ---
 
@@ -54,21 +54,24 @@ Cet outil est utilisé pour `auto-personalize your email` et vous permettent de 
 
 | Champ dynamique | Exemple de ce qui apparaît dans votre email |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Si vous ne voulez plus entendre parler de moi, faites-le-moi savoir ici. |
-| `{{my_name}}` | Alan Bradley |
+| `{{team_unsubscribe}}` | Si vous ne souhaitez plus recevoir d&#39;emails de notre part, cliquez ici |
+| `{{friendly_unsubscribe}}` | Fatigué de tous les emails ? Veuillez me le faire savoir ici |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, rédacteur technique senior - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Rédacteur technique senior |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Remarques :**:
 
 * Si les informations d’un contact sont incorrectement saisies ou sont manquantes dans la page Personnes, elles ne s’affichent pas correctement dans votre modèle.
 * La différence entre `{{company}}` et `{{company_friendly}}` est que `{{company_friendly}}` Supprimera tout titre formel, tel que Inc., LLC, etc., du nom de la société de votre contact.
-* Lors de l’utilisation de `{{company_friendly}}`, veillez à séparer Inc. ou Co. avec une virgule dans les coordonnées. C’est ainsi que les actions Sales Insight savent quoi supprimer lors de l’extraction de la valeur.
+* Lorsque vous utilisez `{{company_friendly}}`, veillez à séparer Inc. ou Co. avec une virgule dans les détails du contact. C’est ainsi que les actions Sales Insight savent quoi supprimer lors de l’extraction de la valeur.
 * Vous pouvez personnaliser vos modèles d’email avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles d’email.
+* Si vous utilisez la variable `{{my_signature}}` dynamique, le système n’ajoute pas automatiquement la signature de l’utilisateur pour éviter les doublons.
 
 >[!TIP]
 >
