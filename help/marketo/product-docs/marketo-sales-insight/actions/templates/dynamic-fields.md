@@ -3,9 +3,9 @@ description: Champs dynamiques - Documents Marketo - Documentation du produit
 title: Champs dynamiques
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Cet outil est utilisé pour `auto-personalize your email` et vous permettent de 
 * La différence entre `{{company}}` et `{{company_friendly}}` est que `{{company_friendly}}` Supprimera tout titre formel, tel que Inc., LLC, etc., du nom de la société de votre contact.
 * Lorsque vous utilisez `{{company_friendly}}`, veillez à séparer Inc. ou Co. avec une virgule dans les détails du contact. C’est ainsi que les actions Sales Insight savent quoi supprimer lors de l’extraction de la valeur.
 * Vous pouvez personnaliser vos modèles d’email avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles d’email.
-* Si vous utilisez la variable `{{my_signature}}` dynamique, le système n’ajoute pas automatiquement la signature de l’utilisateur pour éviter les doublons.
+* Le système ajoute automatiquement la signature de l’utilisateur à chaque e-mail envoyé. Si l’utilisateur utilise un modèle avec la variable `{{my_signature}}` dynamique, le système renseigne la signature dans laquelle la propriété `{{my_signature}}` champ dynamique a été placé. Il n&#39;est ajouté que pour éviter la duplication. Le système va gérer `{{team_unsubscribe}}` de la même manière que lorsque le paramètre de désabonnement global d’append est activé.
 
 >[!TIP]
 >
