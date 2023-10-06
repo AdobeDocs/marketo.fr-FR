@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360333
-description: Masquage et affichage d’un champ - Documents Marketo - Documentation du produit
+description: Masquer et afficher un champ - Documents Marketo - Documentation du produit
 title: Masquage et affichage d’un champ
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 7%
+source-wordcount: '171'
+ht-degree: 8%
 
 ---
 
 # Masquage et affichage d’un champ {#hide-and-unhide-a-field}
 
-Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le masquer dans l’interface utilisateur afin qu’il ne s’affiche plus dans l’application.
+Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous pouvez le masquer de l’interface utilisateur afin qu’il ne s’affiche plus dans l’application.
 
 ## Masquer un champ {#hide-a-field}
 
@@ -35,7 +35,8 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 
    >[!NOTE]
    >
-   >Pour masquer un champ, il ne doit pas être associé à d’autres ressources (y compris les ressources archivées). Veillez à supprimer le champ de toutes les listes intelligentes, les choix d’étape de flux, les formulaires, les courriers électroniques, etc., avant de le masquer.
+   >* Pour masquer un champ, il ne doit pas être associé à d’autres ressources (y compris les ressources archivées). Veillez à supprimer le champ de toutes les listes intelligentes, les choix d’étape de flux, les formulaires, les courriers électroniques, etc., avant de le masquer.
+   >* Vous ne pouvez pas masquer les champs standard (système).
 
 1. Cliquez sur **[!UICONTROL Masquer]** pour confirmer.
 
@@ -59,8 +60,5 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo, vous pouvez le
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   Bon travail ! Vous savez maintenant comment afficher les champs et les rendre à nouveau visibles dans l’interface utilisateur de Marketo.
+   Bon travail ! Vous savez maintenant comment afficher les champs et les rendre à nouveau visibles.
 
-   >[!TIP]
-   >
-   >Doit-on effectuer un masquage/affichage en masse ? Contactez les services professionnels de Marketo : services@marketo.com.
