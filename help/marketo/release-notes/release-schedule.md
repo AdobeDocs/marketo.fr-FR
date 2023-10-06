@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation sur le 
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '142'
+ht-degree: 7%
 
 ---
 
@@ -37,39 +37,45 @@ _Les dates de publication peuvent être modifiées._
    <th width="250px">Date de publication</th>
    <th width="250px">Statut</th>
   </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">22 octobre</a></td>
-   <td>14 octobre 2022</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">23 janvier</a></td>
-   <td>20 janvier 2023</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">23 mars</a></td>
-   <td>31 mars 2023</td>
-   <td>Expédié</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-may-23.md">23 mai</a></td>
-   <td>12 mai 2023</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">23 juillet</a></td>
-   <td>21 juillet 2023</td>
-   <td>Expédié</td>
-  </tr>
-  <tr>
+
+<tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">23 septembre</a></td>
    <td>8 septembre 2023</td>
-   <td>En cours</td>
+   <td>Expédié</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">23 octobre</a></td>
    <td>6 octobre 2023</td>
+   <td>En cours</td>
+  </tr>
+  <tr> 
+   <td>24 janvier</td>
+   <td>12 janvier 2024</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>24 mars</td>
+   <td>8 mars 2024</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>24 avril</td>
+   <td>26 avril 2024</td>
+   <td>À la planification</td>
+  </tr>
+  <tr>
+   <td>24 juin</td>
+   <td>7 juin 2024</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>24 août</td>
+   <td>9 août 2024</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>24 octobre</td>
+   <td>4 octobre 2024</td>
    <td>À la planification</td>
   </tr>
  </tbody>
