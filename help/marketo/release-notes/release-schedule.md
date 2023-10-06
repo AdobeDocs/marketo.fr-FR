@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation sur le 
 title: Calendrier des versions
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
+source-git-commit: aa7008300a32e3e6e311224ece73200add708e65
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '131'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 **Version**: mois/année de chaque version. Une fois disponibles, les notes de mise à jour seront liées dans le tableau ci-dessous.
 
-**Date de publication**: le déploiement commence généralement le mardi de la semaine de publication, la majeure partie de la mise à niveau étant effectuée vendredi soir. Un courrier électronique est envoyé avec des dates et des détails de mise à jour spécifiques. La date indiquée correspond à la mise à jour du vendredi.
+**Date de publication**: le déploiement commence généralement le mardi de la semaine de publication, avec la mise à niveau plus importante le vendredi soir. La date indiquée correspond à la mise à jour du vendredi.
 
 **Statut**:
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 * En cours - Nous sommes en train de déployer les fonctionnalités de la version.
 * Expédié : la version est terminée.
 
-_Les dates de publication peuvent être modifiées._
+_Les dates et fonctionnalités de publication peuvent être modifiées._
 
 <table> 
  <colgroup> 
