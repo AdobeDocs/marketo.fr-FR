@@ -4,9 +4,9 @@ description: Configuration de LinkedIn Lead Gen Forms - Documentation Marketo - 
 title: Configuration de LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
+
+>[!NOTE]
+>
+>Un prospect LinkedIn n’apparaîtra pas dans Marketo Engage s’il correspond à un enregistrement de personne existant dans Marketo associé à un enregistrement de société créé à l’aide des API de société et que l’abonnement Marketo n’est pas connecté à un CRM.
 
 1. Accéder à Marketo **Administration**.
 
@@ -53,9 +57,9 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
    >[!CAUTION]
    >
-   >Le service expire automatiquement un an après l’autorisation. Pour récupérer l’accès, il vous suffit de cliquer sur **Réautorisation**. Vous devrez peut-être saisir à nouveau votre mot de passe LinkedIn, en fonction des paramètres de votre navigateur.
+   >Le service expire automatiquement un an après l’autorisation. Pour récupérer l’accès, cliquez simplement sur **Réautorisation**. Vous devrez peut-être saisir à nouveau votre mot de passe LinkedIn, en fonction des paramètres de votre navigateur.
 
-1. Sélectionnez le ou les comptes à partir desquels vous souhaitez que les prospects LinkedIn viennent dans Marketo et cliquez sur **Suivant**.
+1. Sélectionnez le ou les comptes desquels vous souhaitez que les prospects LinkedIn viennent dans Marketo et cliquez sur **Suivant**.
 
    >[!TIP]
    >
