@@ -3,9 +3,9 @@ description: Comment résoudre le problème "Nous n’avons pas pu authentifier 
 title: Comment résoudre le problème "Nous n’avons pas pu authentifier votre requête" lors de la connexion à Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Cette erreur indique généralement que vous disposez d’un domaine personnalis
 
 Si l’instance à laquelle vous essayez de vous connecter est un domaine Salesforce Sandbox et que vous obtenez une erreur, vous devrez passer par d’autres étapes pour mettre à jour votre instance afin d’être compatible avec Salesforce Sandbox. [En savoir plus](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## Résolution des problèmes liés aux applications Oauth bloquées et autres types d’erreur {#resolve-oauth-app-blocked-and-other-error-types}
+## Résoudre l’application Oauth bloquée {#resolve-oauth-app-blocked}
 
 Si vous recevez le message d’erreur &quot;Nous n’avons pas pu authentifier votre demande&quot; avec le type d’erreur Oauth App Blocked ou un autre type dans l’URL, il se peut qu’il y ait une restriction de votre accès à l’API de Salesforce. Vérifiez auprès de votre administrateur Salesforce que les éléments suivants sont bien en place.
 
