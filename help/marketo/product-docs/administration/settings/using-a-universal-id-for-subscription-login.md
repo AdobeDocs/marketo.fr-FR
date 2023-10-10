@@ -4,9 +4,9 @@ description: Utilisation d’un ID universel pour la connexion à l’abonnement
 title: Utilisation d’un ID universel pour la connexion à l’abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '580'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Lorsque vous vous connectez pour accepter une invitation à un second abonnement
 
 >[!TIP]
 >
->Les identifiants que vous n’utilisez plus restent sauf si l’administrateur des abonnements les supprime. Nous vous recommandons de les conserver, au cas où, par exemple, un rapport privé, qui ne peut être accessible qu’à l’aide de cet ID, vous est affecté à vous-même. Dans ce cas, il est logique de déplacer ces rapports privés vers votre nouvel ID universel, puis de supprimer votre ID existant.
+>Les identifiants que vous n’utilisez plus restent sauf si l’administrateur des abonnements les supprime. Nous vous recommandons de les conserver, au cas où, par exemple, un rapport privé, qui ne peut être accessible qu’à l’aide de cet identifiant, vous vous êtes attribué. Dans ce cas, il est logique de déplacer ces rapports privés vers votre nouvel ID universel, puis de supprimer votre ID existant.
 
 ## Mots de passe {#passwords}
 
@@ -47,7 +47,7 @@ Avec un ID universel pour plusieurs abonnements, seul vous pouvez modifier le mo
 >
 >Marketo demandera aux utilisateurs qui souhaitent utiliser l’ID universel de réinitialiser leur mot de passe si le mot de passe de l’abonnement actuel ne respecte pas la politique de mot de passe du deuxième abonnement auquel ils sont invités.
 
-## Basculement entre les abonnements {#switching-between-subscriptions}
+## Changement d’abonnement {#switching-between-subscriptions}
 
 À l’aide d’un ID universel, vous pouvez voir l’abonnement auquel vous êtes connecté et sélectionner d’autres abonnements auxquels vous avez accès pour vous connecter. Dans la plupart des cas, vous pouvez basculer entre les deux sans avoir à vous déconnecter puis à vous reconnecter.
 
@@ -57,14 +57,14 @@ Lorsque vous vous déconnectez puis vous reconnectez, Marketo vous connecte auto
 
 ## Profils de communauté {#community-profiles}
 
-Si vous disposez de plusieurs abonnements, vous pouvez disposer de plusieurs profils de communauté. Nous vous recommandons de choisir la connexion liée à votre profil de communauté le plus principal.
+Si vous disposez de plusieurs abonnements, vous pouvez disposer de plusieurs profils de communauté. Nous vous recommandons de choisir la connexion qui est liée à votre profil de communauté le plus actif.
 
 ## Plateforme mobile {#mobile-platform}
 
-Les utilisateurs disposant d’un ID universel peuvent consulter leurs données sur les moments Marketo et l’application d’archivage des événements iPad depuis l’abonnement qu’ils ont ouvert pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plateforme mobile elle-même.
+Les utilisateurs disposant d’un ID universel peuvent afficher leurs données sur [Moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} de l’abonnement auquel ils se sont connectés pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plateforme mobile elle-même.
 
 >[!MORELIKETHIS]
 >
->* [Ajout d’une authentification unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Limiter la connexion de l&#39;utilisateur aux connexions par signature unique](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitation d’utilisateurs Marketo à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Ajout d’une authentification unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [Limiter la connexion de l&#39;utilisateur aux connexions par signature unique](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Invitation d’utilisateurs Marketo à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
