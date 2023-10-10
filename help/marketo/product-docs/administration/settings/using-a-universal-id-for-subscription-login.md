@@ -4,9 +4,9 @@ description: Utilisation d’un ID universel pour la connexion à l’abonnement
 title: Utilisation d’un ID universel pour la connexion à l’abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
+source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
