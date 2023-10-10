@@ -3,7 +3,7 @@ description: Comment résoudre le problème "Nous n’avons pas pu authentifier 
 title: Comment résoudre le problème "Nous n’avons pas pu authentifier votre requête" lors de la connexion à Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Si l’instance à laquelle vous essayez de vous connecter est un domaine Salesf
 
 ## Résoudre l’application Oauth bloquée {#resolve-oauth-app-blocked}
 
-Si vous recevez le message d’erreur &quot;Nous n’avons pas pu authentifier votre demande&quot; avec le type d’erreur Oauth App Blocked ou un autre type dans l’URL, il se peut qu’il y ait une restriction de votre accès à l’API de Salesforce. Vérifiez auprès de votre administrateur Salesforce que les éléments suivants sont bien en place.
+Si vous avez reçu le message d’erreur &quot;Nous n’avons pas pu authentifier votre demande&quot; avec le type d’erreur Oauth App Blocked (ou un autre type) dans l’URL, il se peut qu’une restriction s’applique à votre accès à l’API de Salesforce. Vérifiez auprès de votre administrateur Salesforce que les éléments ci-dessous sont bien en place.
 
 ### Activation de l’API dans les autorisations d’utilisateur {#enable-api-in-user-permissions}
 
