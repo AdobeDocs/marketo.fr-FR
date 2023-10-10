@@ -4,43 +4,45 @@ description: Planification d’une campagne par lots récurrente - Documents Mar
 title: Planification d’une campagne par lots récurrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # Planification d’une campagne par lots récurrente {#schedule-a-recurring-batch-campaign}
 
-La périodicité permet d’exécuter une campagne dynamique par lot de manière régulière. Par exemple : une fois par semaine, le lundi à 12h00.
+La périodicité permet d’exécuter une campagne par lots selon un calendrier régulier. Par exemple : une fois par semaine, le mardi à 10h00.
 
-1. Sélectionnez l&#39;opération, accédez à l&#39;onglet Planning , puis cliquez sur **Périodicité du planning**.
+1. Sélectionnez la campagne dynamique, accédez au **Planification** , puis cliquez sur **Périodicité du planning**.
 
-   ![](assets/recurrencehands-sendemail.png)
+   ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Cliquez sur la liste déroulante Planification et sélectionnez **Hebdomadaire**.
+1. Cliquez sur le bouton **Planification** et sélectionnez **Hebdomadaire**.
 
-   ![](assets/image2014-9-22-11-3a41-3a42.png)
+   ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
-1. Cliquez sur l’icône du calendrier et sélectionnez le jour de la première exécution. Pour cet exemple, nous utilisons le prochain lundi disponible.
+1. Cliquez sur l’icône du calendrier et sélectionnez le jour de votre choix pour la première exécution.
 
-   ![](assets/image2014-9-22-11-3a41-3a46.png)
+   ![](assets/schedule-a-recurring-batch-campaign-3.png)
 
 1. Sélectionnez l’heure à laquelle il doit s’exécuter.
 
-   ![](assets/image2014-9-22-11-3a41-3a49.png)
+   ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Laissez Répéter toutes les fois, sélectionnez le lundi, puis cliquez sur **Enregistrer**.
+1. Laissez Répéter toutes les fois, sélectionnez Mardi, puis cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-22-11-3a41-3a53.png)
+   ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
-1. Vous pouvez voir les récurrences planifiées sous l’onglet Planning à valider.
+   >[!NOTE]
+   >
+   >Pour une durée d’exécution spécifique, vous pouvez cliquer sur l’icône de calendrier en regard de **Fin le** et choisissez la date de fin.
 
-   ![](assets/recurrence.jpg)
+Les récurrences planifiées sont affichées au bas de l&#39;onglet Planning .
+
+![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->L’onglet Planning affiche les trois occurrences suivantes à titre de référence.
-
-Et voilà ! Votre campagne par lots s’exécute désormais tous les lundis à midi.
+>L’onglet Planning affiche les trois occurrences suivantes à titre de référence. Cliquer sur le rouge **X** annule cette exécution spécifique.

@@ -4,9 +4,9 @@ description: Configuration d’une campagne dynamique de déclenchement pour les
 title: Configuration d’une campagne dynamique de déclenchement pour les ventes à l’aide de "Campaign is Requested" (Campaign demandé)
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -17,30 +17,30 @@ L’une des fonctionnalités les plus intéressantes de Marketo est la possibili
 
 >[!NOTE]
 >
->Exemples de campagnes intelligentes à demander :
+>Exemples de campagnes dynamiques à demander :
 >
 >1. **Soutien à long terme** - quand ils n&#39;ont pas de budget cette année et que vous voulez simplement rester sur le radar
->1. **Principal cycle de vente** - lorsque le vendeur ne veut pas de messages à la personne sauf le sien. (utilisez l’indicateur marketing suspendu pour le désabonner temporairement)
+>1. **Cycle de vente actif** - lorsque le vendeur ne veut pas de messages à la personne sauf le sien. (utilisez l’indicateur marketing suspendu pour le désabonner temporairement)
 >
 >Soyez créatifs ! Qu&#39;est-ce que le vendeur aimerait automatiser ? Demandez-leur et branchez-le !
 
 1. Créez un **Campagne dynamique.**
 
-   ![](assets/image2015-5-20-16-3a3-3a25.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Rechercher et faire glisser **La campagne est demandée** dans la zone de travail.
+1. Recherchez et faites glisser le **La campagne est demandée** se déclenche dans la zone de travail.
 
-   ![](assets/campaignfilterdrag.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
 1. Les choix de la source indiquent le type de demande qui sera satisfaite. Pour la fonctionnalité Salesforce, veillez à choisir **Ventes** **Insight**.
 
    >[!TIP]
    >
-   >Les opérateurs sources sont pour la sécurité. Vous pouvez limiter la campagne aux requêtes effectuées uniquement par des sources spécifiques, comme d’autres campagnes ou développeurs intelligents. Choisir **Is** dans la première zone si vous souhaitez autoriser les requêtes provenant de toutes les sources.
+   >Les opérateurs sources sont pour la sécurité. Vous pouvez limiter la campagne aux requêtes effectuées uniquement par des sources spécifiques, comme d’autres campagnes dynamiques ou des développeurs. Choisir **Is** dans la première zone si vous souhaitez autoriser les requêtes provenant de toutes les sources.
    >
    >**Mémoriser**, en choisissant Sales Insight, il apparaît comme par magie dans la boîte pour les ventes. Ne le fais pas trop ! Trop d&#39;entre eux seront ignorés.
 
-   ![](assets/image2015-5-20-17-3a56-3a56.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
 C’est un excellent moyen d’étendre votre portée marketing à d’autres départements. Configurez toutes sortes de campagnes pour les automatiser.
 
