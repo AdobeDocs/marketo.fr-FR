@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 7%
@@ -26,8 +26,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
  <tbody> 
   <tr> 
    <th style="width:65%">Fonctionnalité</th> 
-   <th style="width:15%">Statut</th>
-   <th style="width:20%">Documentation</th>
+   <th style="width:10%">Statut</th>
+   <th style="width:25%">Documentation</th>
   </tr> 
   <tr> 
    <td><strong>Nouvelle conception pour la configuration des rapports dans l’expérience utilisateur moderne</strong>: lors de la configuration d’une ressource de rapport, un <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nouvelle arborescence de ressources</a> dans le menu configuration ainsi que la possibilité de filtrer selon la date de création et de modification.</td> 

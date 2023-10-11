@@ -3,7 +3,7 @@ description: Processus des événements - Documents Marketo - Documentation du p
 title: Workflows des événements
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Le tableau de bord se compose de quatre widgets.
 
 ## Enregistrement de webinaire {#webinar-recording}
 
-Accédez à l’onglet Aperçu pour afficher le webinaire enregistré, obtenir son lien pour le partager et même télécharger une copie.
+Accédez à l’onglet Aperçu pour afficher le webinaire enregistré, obtenir le lien pour le partager et même télécharger une copie.
 
 ![](assets/event-workflows-2.png)
 
