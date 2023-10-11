@@ -2,10 +2,10 @@
 description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
-exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1107'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  </tr>
  <tr>
   <td><strong>Action</strong></td>
-  <td>Comme pour les champs masqués d’un formulaire, vous pouvez remplir n’importe quel attribut de piste ou de société avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste avec la carte d’action. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.</td>
+  <td>Comme pour les champs masqués d’un formulaire, vous pouvez remplir n’importe quel attribut de piste ou de société avec la carte d’action <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">type de données de chaîne</a>) avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.</td>
  </tr>
  <tr>
   <td><strong>Chat en direct</strong></td>
