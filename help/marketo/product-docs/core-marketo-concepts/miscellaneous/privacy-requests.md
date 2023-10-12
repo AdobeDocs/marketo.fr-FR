@@ -1,17 +1,17 @@
 ---
 description: Demandes d’accès à des informations personnelles - Documents Marketo - Documentation du produit
-title: Demandes d’accès à des informations personnelles
+title: Requêtes de confidentialité
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '354'
+ht-degree: 3%
 
 ---
 
-# Demandes d’accès à des informations personnelles {#privacy-requests}
+# Requêtes de confidentialité {#privacy-requests}
 
-Ce document présente la gestion des demandes de confidentialité des données individuelles que vous pouvez envoyer à Marketo Engage via l’interface utilisateur du Privacy Service et l’API du Privacy Service.
+Ce document présente la gestion des demandes de confidentialité des données individuelles que vous pouvez envoyer à Marketo Engage par le biais de l’interface utilisateur du Privacy Service et de l’API du Privacy Service.
 
 >[!NOTE]
 >
@@ -23,13 +23,12 @@ Ce document présente la gestion des demandes de confidentialité des données i
 >
 >* Utilisateurs Marketo Engage utilisant un autre produit Experience Cloud qui se trouve déjà sur le système Identity Management Adobe (par exemple, RT-CDP, éditions B2B et B2P, Audience Manager).
 
-
 Vous pouvez envoyer des requêtes individuelles pour accéder aux données des consommateurs et les supprimer du Marketo Engage de deux manières :
 
-* Par le biais de la [Interface utilisateur du Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}.
-* Par le biais de l’API du Privacy Service. Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} et informations sur l’API [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
+* Par le biais de la [Interface utilisateur du Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=fr){target="_blank"}.
+* Par le biais de l’API du Privacy Service. Consultez la documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-Le [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;} prend en charge deux types de requêtes : accès aux données et suppression des données.
+La variable [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} prend en charge deux types de requêtes : l’accès aux données et la suppression des données.
 
 Découvrez comment créer des demandes d’accès et de suppression.
 
@@ -39,10 +38,10 @@ Pour envoyer des demandes d’accès et de suppression de données à Marketo En
 
 1. Identifiez les éléments suivants :
 
-   a. Identifiant de l’organisation IMS<br/>
+   a. Identifiant de l&#39;organisation IMS<br/>
 b. Adresse électronique de la personne sur laquelle vous souhaitez agir
 
-   Un identifiant de l’organisation IMS est une chaîne alphanumérique de 24 caractères annexée avec @AdobeOrg. Si votre équipe marketing ou votre administrateur système d’Adobes interne ne connaît pas l’identifiant de l’organisation IMS de votre entreprise, contactez l’assistance clientèle Adobe à l’adresse gdprsupport@adobe.com. Vous avez besoin de l’identifiant de l’organisation IMS pour envoyer des requêtes à l’API de confidentialité.
+   Un identifiant de l’organisation IMS est une chaîne alphanumérique de 24 caractères annexée avec @AdobeOrg. Si votre équipe marketing ou votre administrateur système d’Adobes interne ne connaît pas l’identifiant de l’organisation IMS de votre entreprise, contactez l’assistance clientèle Adobe à l’adresse `gdprsupport@adobe.com`. Vous avez besoin de l’identifiant de l’organisation IMS pour envoyer des requêtes à l’API de confidentialité.
 
 1. Dans Privacy Service, vous pouvez envoyer des demandes d’accès et de suppression à Marketo Engage et vérifier le statut des demandes existantes.
 
@@ -51,15 +50,15 @@ b. Adresse électronique de la personne sur laquelle vous souhaitez agir
 &quot;companyContexts&quot;:
 
 * &quot;namespace&quot; : **imsOrgID**
-* “Valeur”: `<Your IMS Org ID Value>`
+* &quot;Valeur&quot;: `<Your IMS Org ID Value>`
 
-“utilisateurs”:
+&quot;utilisateurs&quot;:
 
-* &quot;action&quot; : both **access** ou **delete**
+* &quot;action&quot; : soit **access** ou **delete**
 * &quot;userIDs&quot; :
    * &quot;namespace&quot; : **email**
    * &quot;type&quot;: **standard**
-   * “Valeur”: `<Data Subject’s Email Address>`
+   * &quot;Valeur&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot; :
 
@@ -67,9 +66,9 @@ b. Adresse électronique de la personne sur laquelle vous souhaitez agir
 
 &quot;regulation&quot; :
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl**  (qui est la réglementation sur la confidentialité qui s’applique à la demande)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, ou **nzpa_nzl**  (qui est la réglementation sur la confidentialité qui s’applique à la demande)
 
-## Exemple 1 : Demande de suppression RGPD {#gdpr-delete-request}
+## Exemple 1 : demande de suppression en vertu du RGPD {#gdpr-delete-request}
 
 Requête JSON
 
@@ -132,7 +131,7 @@ Réponse JSON
 }
 ```
 
-## Exemple 2 : Demande d’accès au CCPA {#ccpa-access-request}
+## Exemple 2 : demande d’accès au CCPA {#ccpa-access-request}
 
 Requête JSON
 

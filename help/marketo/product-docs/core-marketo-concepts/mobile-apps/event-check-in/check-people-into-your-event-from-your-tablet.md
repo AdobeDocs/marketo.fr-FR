@@ -4,10 +4,10 @@ description: Archivage des personnes dans votre événement à partir de votre t
 title: Archivage des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 1%
+source-wordcount: '842'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Lorsque des personnes se présentent à votre événement, vous pouvez trouver l
 >
 >Le 2 octobre 2023, Adobe a supprimé l’application Marketo Events de toutes les boutiques d’applications. Si l’application est déjà installée sur votre tablette/périphérique mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance de Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-L’application fonctionne de la même manière sur iPad et Android, à l’exception des différences mineures de mise en page et de conception.
+L’application fonctionne de la même manière sur les deux [!DNL iPad] et [!DNL Android], à l’exception des différences mineures de mise en page et de conception.
 
 >[!PREREQUISITES]
 >
@@ -27,19 +27,19 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 
 ## Archivage des invités enregistrés {#check-in-registered-guests}
 
-1. Appuyez sur l’icône de l’application sur votre tablette iPad ou Android.
+1. Appuyez sur l’icône de l’application sur votre [!DNL iPad] ou [!DNL Android] tablette.
 
-1. Appuyer **Connexion** pour lancer l’application Marketo Event.
+1. Appuyer **[!UICONTROL Connexion]** pour lancer l’application Marketo Event.
 
    ![](assets/1.jpg)
 
-1. Saisissez votre nom d’utilisateur et votre mot de passe Marketo, puis cliquez sur **Connexion**.
+1. Saisissez votre nom d’utilisateur et votre mot de passe Marketo, puis cliquez sur **[!UICONTROL Connexion]**.
 
    >[!NOTE]
    >
    >Vous devez disposer d’un rôle avec accès à la base de données pour voir les personnes dans l’application.
 
-1. Sélectionnez une **Événement**.
+1. Sélectionnez une **[!UICONTROL Événement]**.
 
    ![](assets/2.jpg)
 
@@ -55,49 +55,49 @@ L’application fonctionne de la même manière sur iPad et Android, à l’exce
 
    >[!NOTE]
    >
-   >Le processus est le même sur iPad et Android, mais les écrans diffèrent et les éléments peuvent se trouver à des emplacements différents. Cet article présente l’interface d’iPad. Comparez l’écran Android de cette section pour référence.
+   >Le processus est le même sur [!DNL iPad] et [!DNL Android], mais les écrans diffèrent et les éléments peuvent se trouver à des emplacements différents. Cet article présente les [!DNL iPad] . Comparez la variable [!DNL Android] à titre de référence dans cette section.
 
-   **iPad**
+   **[!DNL iPad]**
 
    ![](assets/image2016-4-15-11-3a55-3a11.png)
 
-   **Android**
+   **[!DNL Android]**
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Appuyez sur le nom sélectionné, puis, sur l’enregistrement de la personne, appuyez sur **Archivage**.
+1. Appuyez sur le nom sélectionné, puis, sur l’enregistrement de la personne, appuyez sur **[!UICONTROL Archivage]**.
 
    ![](assets/img-0068-35-hands.png)
 
-L’invité dispose désormais du statut Participant et reçoit une coche. L’enregistrement de personne est mis à jour lors de la synchronisation avec Marketo. Le compteur rouge sur le bouton Synchroniser s’incrémente pour afficher le nombre d’enregistrements depuis la dernière synchronisation avec Marketo. Le bouton Synchroniser a un aspect différent et se trouve à un autre emplacement pour iPad et Android :
+L’invité dispose désormais du statut Participant et reçoit une coche. L’enregistrement de personne est mis à jour lors de la synchronisation avec Marketo. Le compteur rouge sur le bouton Synchroniser s’incrémente pour afficher le nombre d’enregistrements depuis la dernière synchronisation avec Marketo. Le bouton Synchroniser a un aspect différent et se trouve à un autre emplacement pour [!DNL iPad] et [!DNL Android]:
 
-**iPad**
+**[!DNL iPad]**
 
 ![](assets/image2016-4-12-14-3a25-3a13.png)
 
-**Android**
+**[!DNL Android]**
 
 ![](assets/image2016-4-15-14-3a58-3a6.png)
 
 >[!TIP]
 >
->Si une personne est invitée mais ne s’est pas inscrite, vous pouvez rechercher le nom en cliquant sur **Recherche sur le serveur**, juste en dessous de la zone de recherche. L’état Invité passe à **Attaché** pour l’événement .
+>Si une personne est invitée mais ne s’est pas inscrite, vous pouvez rechercher le nom en cliquant sur **[!UICONTROL Recherche sur le serveur]**, juste en dessous de la zone de recherche. L’état Invité passe à **[!UICONTROL Attaché]** pour l’événement .
 
 ## Création d’une personne sur la tablette {#create-a-new-person-on-the-tablet}
 
 Vous pouvez ajouter manuellement des invités qui ne sont pas des personnes existantes dans votre base de données Marketo. Ils seront automatiquement archivés et ajoutés à votre base de données lors de la synchronisation avec Marketo.
 
-1. Cliquez sur **Ajouter**.
+1. Cliquez sur **[!UICONTROL Ajouter]**.
 
-   **iPad**
+   **[!DNL iPad]**
 
    ![](assets/image2016-4-15-11-3a58-3a51.png)
 
-   **Android**
+   **[!DNL Android]**
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Renseignez autant de champs d’informations de base que possible et appuyez sur **Terminé**.
+1. Renseignez autant de champs d’informations de base que possible et appuyez sur **[!UICONTROL Terminé]**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -115,7 +115,7 @@ La nouvelle personne est enregistrée comme archivée dans votre événement et 
 
 Si vous vous êtes inscrit par erreur dans une personne, _avant la synchronisation avec Marketo_, vous pouvez inverser l’état Participant .
 
-1. Appuyez sur le nom dans la liste, puis, dans l’enregistrement de la personne, appuyez sur . **Annuler**.
+1. Appuyez sur le nom dans la liste, puis, dans l’enregistrement de la personne, appuyez sur . **[!UICONTROL Annuler]**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -125,17 +125,17 @@ Si vous vous êtes inscrit par erreur dans une personne, _avant la synchronisati
 
 Vous pouvez ajouter et modifier des informations sur les invités, directement à l’événement !
 
-1. Appuyez sur le nom dans la liste des personnes, puis appuyez sur **Modifier**.
+1. Appuyez sur le nom dans la liste des personnes, puis appuyez sur **[!UICONTROL Modifier]**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Modifiez et ajoutez des informations aux champs, puis appuyez sur **Terminé**.
+1. Modifiez et ajoutez des informations aux champs, puis appuyez sur **[!UICONTROL Terminé]**.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >Sous Android, la variable **Terminé** peut être masqué. Faites défiler l’écran vers le bas pour le trouver.
+   >Dans [!DNL Android], la variable **[!UICONTROL Terminé]** peut être masqué. Faites défiler l’écran vers le bas pour le trouver.
 
 Les informations sont mises à jour lorsque vous synchronisez l’application avec Marketo.
 
@@ -149,7 +149,7 @@ L’application Marketo Events fonctionne indépendamment jusqu’à ce que vous
 
 1. Sur votre tablette, ouvrez l’application et accédez à votre événement.
 
-1. Appuyer **Synchronisation**.
+1. Appuyer **[!UICONTROL Synchronisation]**.
 
    Votre événement est mis à jour avec de nouveaux check-ins dans la base de données Marketo. Le compteur rouge sur le bouton Synchroniser s’efface, jusqu’à ce que vous identifiiez quelqu’un d’autre.
 

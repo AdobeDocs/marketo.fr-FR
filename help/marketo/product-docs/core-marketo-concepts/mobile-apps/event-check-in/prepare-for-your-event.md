@@ -4,9 +4,9 @@ description: Préparation de votre événement - Documents Marketo - Documentati
 title: Préparation de votre événement
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Il y a plusieurs choses que vous devez faire pour vous préparer à l&#39;évén
 
 ## Création d’un rôle Marketo {#create-a-new-marketo-role}
 
-Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’archivage des événements. [Création d’un rôle Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) pour les utilisateurs d’iPad ou d’Android, avec autorisation d’accès à l’application mobile.
+Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’archivage des événements. [Création d’un rôle Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) pour [!DNL iPad] ou [!DNL Android] utilisateurs, avec autorisation d’accès à l’application mobile.
 
 ## Invitation de nouveaux utilisateurs de tablette à l’événement {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Il est instantané de définir les dates de votre événement.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Glissement vers le haut pour changer **Tentative** to **Confirmé**.
+1. Glissement vers le haut pour changer **[!UICONTROL Tentative]** to **[!UICONTROL Confirmé]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Il est instantané de définir les dates de votre événement.
 
 ## Ajout de personnes à votre événement {#add-people-to-your-event}
 
-Maintenant que vous connaissez le *when*, il est temps d’ajouter la variable *who*.
+Maintenant que vous connaissez le _when_, il est temps d’ajouter la variable *who*.
 
-1. Si vous disposez déjà d’une liste de personnes, cliquez sur le bouton **Base** mosaïque.
+1. Si vous disposez déjà d’une liste de personnes, cliquez sur le bouton **[!UICONTROL Base]** mosaïque.
 
    ![](assets/db.png)
 
-1. Sélectionnez une liste de personnes et cliquez sur le bouton **Personnes** .
+1. Sélectionnez une liste de personnes et cliquez sur le bouton **[!UICONTROL Personnes]** .
 
    ![](assets/four.png)
 
-1. Sélectionnez les personnes pour votre événement dans la liste. Utilisation **Ctrl** (ou **Commande** sur une Mac) pour cliquer sur plusieurs personnes, ou **Tout sélectionner** pour tous les marquer.
+1. Sélectionnez les personnes pour votre événement dans la liste. Utilisation **[!UICONTROL Ctrl]** (ou **[!UICONTROL Commande]** sur une Mac) pour cliquer sur plusieurs personnes, ou **[!UICONTROL Tout sélectionner]** pour tous les marquer.
 
    ![](assets/five.png)
 
-1. Cliquez sur **Actions de personne**, survolez **Programmes** et sélectionnez **Modifier l’état du programme**.
+1. Cliquez sur **[!UICONTROL Actions de personne]**, survolez **[!UICONTROL Programmes]** et sélectionnez **[!UICONTROL Modifier l’état du programme]**.
 
    ![](assets/six.png)
 
-1. Cliquez sur le bouton **Programme** et sélectionnez votre événement.
+1. Cliquez sur le bouton **[!UICONTROL Programme]** et sélectionnez votre événement.
 
    ![](assets/seven.png)
 
-1. Cliquez sur le bouton **Nouveau statut** et sélectionnez **Affichage de la route > Inscrits**. Cliquez sur **Exécuter maintenant**.
+1. Cliquez sur le bouton **[!UICONTROL Nouveau statut]** et sélectionnez **[!UICONTROL Programme] > [!UICONTROL Inscrits]**. Cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/eight.png)
 

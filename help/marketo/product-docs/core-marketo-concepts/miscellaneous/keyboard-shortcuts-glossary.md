@@ -3,10 +3,10 @@ unique-page-id: 1147318
 description: Glossaire des raccourcis clavier - Documents Marketo - Documentation du produit
 title: Glossaire des raccourcis clavier
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 13%
 
 Êtes-vous une personne qui utilise des raccourcis clavier ? Nous vous avons couvert !
 
-## Navigation par zone : {#area-navigation}
+## Navigation par zone {#area-navigation}
 
 | Raccourci clavier | Zone |
 |---|---|
@@ -24,11 +24,10 @@ ht-degree: 13%
 | Alt/Opt + F | Recherche globale |
 | Alt/Opt + L | Base de données |
 | Alt/Opt + M | Activités Marketing |
-| Opt + N | Admin |
+| Opt + N | Administrateur |
 | Opt + O | Mon Marketo |
-| Alt/Opt + S | Menu déroulant Superball |
 
-## Navigation en mode Calendrier/Planification :  {#calendar-schedule-view-navigation}
+## Navigation en mode Calendrier  {#calendar-schedule-view-navigation}
 
 | Raccourci clavier | Action |
 |---|---|
@@ -36,7 +35,7 @@ ht-degree: 13%
 | Alt/Opt + Flèche Bas | Avancer dans le temps |
 | Alt/Opt + T | Accédez à &quot;Aujourd&#39;hui&quot; |
 
-## Divers: {#miscellaneous}
+## Divers {#miscellaneous}
 
 | Raccourci clavier | Action |
 |---|---|

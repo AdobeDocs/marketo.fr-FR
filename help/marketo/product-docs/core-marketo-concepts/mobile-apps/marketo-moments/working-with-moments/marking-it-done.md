@@ -4,16 +4,16 @@ description: Marquer comme terminé - Documents Marketo - Documentation du produ
 title: Marquer comme terminé
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 # Marquer comme terminé {#marking-it-done}
 
-Marquez un programme de messagerie, un événement ou une carte d’analyse comme Terminé pour le supprimer de votre flux. Il y a deux façons de le faire.
+Marquez un programme de messagerie, un événement ou une carte d’analyse comme [!UICONTROL Terminé] pour le supprimer de votre flux. Il y a deux façons de le faire.
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ Marquez un programme de messagerie, un événement ou une carte d’analyse comm
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Appuyer **Terminé**.
+1. Appuyer **[!UICONTROL Terminé]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ Marquez un programme de messagerie, un événement ou une carte d’analyse comm
    >[!NOTE]
    >
    >Le fait de marquer une carte comme Terminé ne supprime pas le courrier électronique, l’événement ou la campagne dynamique. Il le déplace uniquement du flux Moments/Plus tard vers le flux Terminé .
-
-Un morceau de gâteau !

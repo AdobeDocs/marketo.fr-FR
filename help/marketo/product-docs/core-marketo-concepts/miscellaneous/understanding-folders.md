@@ -3,9 +3,9 @@ unique-page-id: 4720779
 description: Présentation des dossiers - Documents Marketo - Documentation du produit
 title: Présentation des dossiers
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Les dossiers d’un programme peuvent être utilisés pour organiser vos campagn
 
 ## Création d’un dossier {#create-a-folder}
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez au **[!UICONTROL Activités marketing]** zone.
 
    ![](assets/ma.png)
 
-1. Cliquez avec le bouton droit de la souris sur un programme et sélectionnez **Nouveau dossier**.
+1. Cliquez avec le bouton droit de la souris sur un programme et sélectionnez **[!UICONTROL Nouveau dossier]**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Nommez le nouveau dossier et appuyez sur **Entrée**.
+1. Nommez le nouveau dossier et appuyez sur **[!UICONTROL Entrée]**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -34,15 +34,13 @@ Fantastique ! Vous disposez maintenant d’un nouveau dossier pour stocker vos 
 
 C&#39;est bon de changer d&#39;avis.
 
-1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Renommer le dossier**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Renommer le dossier]**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Saisissez un nouveau nom et appuyez sur **Entrée**.
+1. Saisissez un nouveau nom et appuyez sur **[!UICONTROL Entrée]**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
-
-   Et Volia ! Le dossier porte un nouveau nom.
 
 ## Suppression d’un dossier {#delete-a-folder}
 
@@ -50,11 +48,9 @@ C&#39;est bon de changer d&#39;avis.
 >
 >Assurez-vous que le dossier est vide avant de le supprimer.
 
-1. Cliquez avec le bouton droit sur le dossier et sélectionnez **Supprimer le dossier**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Supprimer le dossier]**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
-
-   Dossier Adios !
 
 ## Archivage d’un dossier {#archive-a-folder}
 

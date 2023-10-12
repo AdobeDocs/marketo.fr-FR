@@ -3,22 +3,22 @@ unique-page-id: 11386358
 description: Environnement de test Marketo - Documents Marketo - Documentation du produit
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # Marketo Sandbox {#marketo-sandbox}
 
-Un environnement de test Marketo est une instance supplémentaire utilisée à des fins de test avant l’implémentation dans l’environnement de production.
+Un environnement de test de Marketo Engage est une instance supplémentaire utilisée à des fins de test avant l’implémentation dans l’environnement de production.
 
 >[!AVAILABILITY]
 >
 >Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
-Un environnement de test Marketo ne peut pas être synchronisé avec votre système de gestion de la relation client classique s’il est déjà synchronisé avec votre instance de production. Utilisez l’environnement de test de votre CRM pour la synchronisation et suivez toutes les étapes de la synchronisation d’origine.
+Un environnement de test Marketo ne peut pas être synchronisé avec votre système de gestion de la relation client classique s’il est déjà synchronisé avec votre instance de production. Utilisez l’environnement de test de votre CRM pour la synchronisation et procédez comme pour la synchronisation d’origine.
 
 ## Informations à connaître sur les environnements de test {#things-to-know-about-sandboxes}
 
@@ -38,4 +38,4 @@ Vous pouvez soumettre un cas d’assistance demandant une copie d’instance uni
 
 >[!NOTE]
 >
->Si vous modifiez votre CRM natif, une nouvelle instance Marketo est nécessaire et une copie d’instance vers la nouvelle instance Marketo n’est pas possible. Au lieu de cela, contactez le support Marketo pour explorer la fonctionnalité d’importation de programme.
+>Si vous modifiez votre gestion de la relation client native, une nouvelle instance Marketo est nécessaire et une copie d’instance vers la nouvelle instance Marketo n’est pas possible. Au lieu de cela, contactez le support Marketo pour explorer la fonctionnalité d’importation de programme.

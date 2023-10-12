@@ -4,16 +4,16 @@ description: Accorder aux utilisateurs l’accès à l’application d’archiva
 title: Octroi aux utilisateurs de l’accès à l’application d’archivage
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Octroi aux utilisateurs de l’accès à l’application d’archivage {#grant-users-access-to-the-check-in-app}
 
-Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’archivage des événements. Voici comment créer un nouveau rôle avec l’autorisation d’utiliser l’application.
+Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’application d’archivage des événements. Voici comment créer un nouveau rôle avec l’autorisation d’utiliser l’application.
 
 >[!IMPORTANT]
 >
@@ -21,19 +21,19 @@ Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’a
 
 ## Création d’un rôle d’utilisateur pour Mobile {#create-a-new-user-role-for-mobile}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Cliquez sur **Utilisateurs et rôles**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Cliquez sur le bouton **Rôles** , puis cliquez sur **Nouveau rôle**.
+1. Cliquez sur le bouton **[!UICONTROL Rôles]** , puis cliquez sur **[!UICONTROL Nouveau rôle]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Saisissez un nom pour le nouveau rôle et une description facultative. Vérifiez les **Accès à l’application mobile** puis cliquez sur **Créer**.
+1. Saisissez un nom pour le nouveau rôle et une description facultative. Vérifiez les **[!UICONTROL Accès à l’application mobile]** puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’a
 
 ## Invitation de nouveaux utilisateurs pour l’application d’archivage {#invite-new-users-for-the-check-in-app}
 
-1. Cliquez sur le bouton **Utilisateurs** .
+1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Cliquez sur **Inviter un nouvel utilisateur**.
+1. Cliquez sur **[!UICONTROL Inviter un nouvel utilisateur]**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Renseignez les informations du nouvel utilisateur. Cochez les cases correspondant à tous les rôles appropriés et au nouveau rôle avec l’autorisation d’accéder à l’application mobile. Cliquez sur **Invitation** lorsque vous avez fini.
+1. Renseignez les informations du nouvel utilisateur. Cochez les cases correspondant à tous les rôles appropriés et au nouveau rôle avec l’autorisation d’accéder à l’application mobile. Cliquez sur **[!UICONTROL Invitation]** lorsque vous avez fini.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

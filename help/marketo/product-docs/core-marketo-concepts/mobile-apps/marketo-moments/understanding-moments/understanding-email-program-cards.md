@@ -4,9 +4,9 @@ description: Présentation des cartes du programme de messagerie électronique -
 title: Présentation des cartes du programme de messagerie
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Une fois l&#39;email envoyé, la carte affiche d&#39;autres informations utiles,
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Appuyer **Confirmer**.
+1. Appuyer **[!UICONTROL Confirmer]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Appuyer **Confirmer** pour terminer la tâche, ou **Ne vous souciez Jamais** si vous avez réfléchi.
+1. Appuyer **[!UICONTROL Confirmer]** pour terminer la tâche, ou **[!UICONTROL Ne vous souciez Jamais]** si vous avez réfléchi.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Une fois l&#39;email envoyé, la carte affiche d&#39;autres informations utiles,
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Appuyer **Annuler l’envoi**.
+1. Appuyer **[!UICONTROL Annuler l’envoi]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Vous pouvez replanifier les cartes électroniques confirmées ou non confirmées
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Appuyer **Replanifier**.
+1. Appuyer **[!UICONTROL Replanifier]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Sélectionnez une date du calendrier et appuyez sur **Replanifier**.
+1. Sélectionnez une date du calendrier et appuyez sur **[!UICONTROL Replanifier]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Vous pouvez partager un exemple d’un moment d’email directement avec quelqu�
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Appuyer **Envoyer un exemple**.
+1. Appuyer **[!UICONTROL Envoyer un exemple]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Saisissez l’adresse électronique et cliquez sur **Envoyer un exemple**.
+1. Saisissez l’adresse électronique et cliquez sur **[!UICONTROL Envoyer un exemple]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,17 +105,13 @@ Vous pouvez partager un exemple d’un moment d’email directement avec quelqu�
 
 Cliquez avec le bouton droit de la souris sur une carte de courriel pour la prévisualiser.
 
-1. Appuyer **Prévisualiser le message**.
+1. Appuyer **[!UICONTROL Prévisualiser le message]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
    Ainsi, vous savez que votre email est parfait avant d&#39;appuyer sur la gâchette !
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
-
-   Excellent !
-
-Et c&#39;est le scoop pour voir vos campagnes email. Maintenant, tu es un pro !
 
 >[!MORELIKETHIS]
 >
