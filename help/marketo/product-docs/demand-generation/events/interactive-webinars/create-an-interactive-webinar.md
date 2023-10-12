@@ -3,9 +3,9 @@ description: Créer un webinaire interactif - Documents Marketo - Documentation 
 title: Création d’un webinaire interactif
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,10 @@ Créez un webinaire interactif en quelques étapes simples.
 Votre webinaire interactif est créé. Vous pouvez ajouter des présentateurs et/ou des co-hôtes.
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+>[!NOTE]
+>
+>Les co-hôtes et les présentateurs peuvent être des utilisateurs externes et n’ont pas besoin d’accéder à Marketo Engage. Vous devez simplement leur fournir l’URL du webinaire.
 
 <br>
 
