@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 7%
+source-wordcount: '347'
+ht-degree: 6%
 
 ---
 
@@ -42,8 +42,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
    <tr> 
    <td><strong>Service d’étape de flux de formule de calcul</strong>: la formule de calcul est un service d’étape de flux conçu sur la plateforme d’exécution d’E/S d’Adobe pour une utilisation avec les campagnes dynamiques de Marketo Engage. Ceux qui disposent d’un runtime IO peuvent déployer le service et l’installer sur leurs abonnements de Marketo Engage, ce qui leur permet de calculer des formules de type Excel dans les campagnes dynamiques de Marketo Engage.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Guide de l’utilisateur de la formule de calcul</a></td>
   </tr>
   <tr> 
    <td> </td> 
