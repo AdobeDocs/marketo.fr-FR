@@ -4,36 +4,32 @@ description: Ajout d’une étape de flux à une campagne dynamique - Documents 
 title: Ajout d’une étape de flux à une campagne dynamique
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # Ajout d’une étape de flux à une campagne dynamique {#add-a-flow-step-to-a-smart-campaign}
 
-Les étapes de flux indiquent à Marketo ce que vous souhaitez qu’un groupe de personnes soit admissible. Ce sont vos instructions, et la campagne intelligente fera votre affaire !
+Les étapes de flux indiquent à Marketo ce que vous souhaitez qu’un groupe de personnes soit admissible. Ce sont vos instructions, et la campagne intelligente vous fera plaisir !
 
 1. Accédez à **Activités marketing**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
 1. Sélectionnez votre campagne dynamique et cliquez sur **Flux**.
 
-   ![](assets/image2014-9-19-16-3a27-3a1.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
-   Saisissez pour rechercher une étape de flux, puis faites-la glisser sur la zone de travail. Vous pouvez ajouter plusieurs étapes de flux : répétez cette procédure à chaque étape que vous souhaitez que la campagne effectue.
+1. Saisissez pour rechercher une étape de flux, puis faites-la glisser sur la zone de travail. Vous pouvez ajouter plusieurs étapes de flux : répétez cette procédure à chaque étape que vous souhaitez que la campagne effectue.
 
-   ![](assets/image2014-9-19-16-3a27-3a7.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-3.png)
 
-1. Cliquez sur la liste déroulante et sélectionnez une option appropriée.
+1. Cliquez sur l’option et la valeur de votre choix.
 
-   ![](assets/four-1.png)
-
-1. Saisissez la valeur .
-
-   ![](assets/changescorevalue-cursor.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-4.png)
 
 >[!NOTE]
 >
@@ -43,7 +39,7 @@ Les étapes de flux indiquent à Marketo ce que vous souhaitez qu’un groupe de
 >
 >Une ligne rouge écrasante apparaît en cas d’entrée non valide. Passez la souris sur la ligne pour voir comment la corriger.
 
-Super ! Veillez à [révision et validation de la campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) avant de planifier ou d’activer cette opération.
+Super! Veillez à [révision et validation de la campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) avant de planifier ou d’activer cette opération.
 
 >[!MORELIKETHIS]
 >
