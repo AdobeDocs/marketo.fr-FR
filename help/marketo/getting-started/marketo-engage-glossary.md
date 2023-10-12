@@ -4,7 +4,7 @@ description: Glossaire du Marketo Engage - Documents Marketo - Documentation du 
 title: Glossaire du Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 4%
@@ -172,7 +172,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td colspan="1">Dans Marketo, vous pouvez créer des doublons de plusieurs types d’entités différents dans votre instance. Vous pouvez cloner <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programmes</a>, un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">ressource dans un programme</a>, un <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>, etc.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">La partie avant de l’URL. Le seul mot (plus YourCompany.com) est appelé un CNAME (par exemple, <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td colspan="1">Type de programme dans Marketo. Un programme générique que vous utiliserez lorsqu’un email, un événement ou un programme d’engagement n’est pas pertinent. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Assurez la livraison</strong></td> 
+   <td colspan="1"><strong>Délivrabilité</strong></td> 
    <td colspan="1">La capacité d’un email à atteindre la boîte de réception du destinataire prévu, qui peut être affectée par <strong>spam</strong> et filtres côté client. Différent de "Délivrés", qui indique uniquement que l'email a été transmis au serveur destinataire.</td> 
   </tr> 
   <tr> 
