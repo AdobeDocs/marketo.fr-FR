@@ -4,20 +4,20 @@ description: Utilisation de l’onglet Ressources - Documents Marketo - Document
 title: Utilisation de l’onglet Ressources
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 4%
 
 ---
 
 # Utilisation de l’onglet Ressources {#using-the-assets-tab}
 
-Le canevas de ressource est une représentation visuelle de votre programme. Vous pouvez l’utiliser pour ajouter des ressources locales et interagir avec les ressources existantes.
+Le canevas de ressource est une représentation visuelle de votre programme d’événement ou par défaut. Vous pouvez l’utiliser pour ajouter des ressources locales et interagir avec des ressources existantes.
 
 ## Ajout de ressources {#adding-assets}
 
-Dans la **Activités marketing** , cliquez sur la zone **Ressources** . Sélectionnez l’une des ressources ci-dessous et ajoutez-les à votre programme.
+Cliquez sur le bouton **[!UICONTROL Ressources]** dans le programme souhaité. Sélectionnez l’une des ressources ci-dessous et ajoutez-les à votre programme.
 
 ![](assets/programassets.png)
 

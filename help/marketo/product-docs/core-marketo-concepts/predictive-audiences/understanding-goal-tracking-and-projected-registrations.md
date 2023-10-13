@@ -3,7 +3,7 @@ description: Présentation du suivi des objectifs et des inscriptions prévues -
 title: Comprendre le suivi des objectifs et les inscriptions prévues
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Voici comment suivre la progression de votre objectif et comprendre les prédict
 
 >[!PREREQUISITES]
 >
->Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} pour les programmes d’événement.
+>Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule next-gen](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} pour les programmes d’événement.
 
 >[!NOTE]
 >
@@ -44,17 +44,17 @@ Si vous n’avez pas activé le commutateur, voici comment il apparaîtra dans l
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-Tous les membres (enregistrés et non encore enregistrés) sont classés en fonction de leur probabilité d’enregistrement. Passez la souris sur l’icône d’information pour voir comment ces catégories de probabilité sont définies.
+Tous les membres (enregistrés et non encore enregistrés) sont classés en fonction de leur probabilité d’enregistrement. Passez la souris sur l’icône d’information pour voir comment ces catégories de probabilité sont définies.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->Les numéros de prédiction sont mis à jour toutes les 24 heures jusqu’au jour de l’événement. Tous les membres répertoriés comme _Traitement_ sera inclus dans le prochain cycle de calcul.
+>Les numéros de prédiction sont mis à jour toutes les 24 heures jusqu’au jour de l’événement. Tous les membres qui sont répertoriés comme _Traitement_ sera inclus dans le prochain cycle de calcul.
 
 ## Programmes similaires
 
-Vous pouvez mieux comprendre votre événement actuel en observant les performances passées de programmes similaires. Cette section vous présente jusqu’à 5 programmes similaires des 6 derniers mois, avec le nombre/pourcentage de membres qui étaient _Inscrits_ ou supérieur.
+Vous pouvez mieux comprendre votre événement actuel en observant les performances passées de programmes similaires. Cette section vous présente jusqu’à 5 programmes similaires des 6 derniers mois, avec le nombre/pourcentage de membres qui étaient _Inscrits_ ou supérieur.
 
 Dans le calcul de programmes similaires, nous incluons les facteurs suivants, entre autres :
 
@@ -69,13 +69,13 @@ Dans le calcul de programmes similaires, nous incluons les facteurs suivants, en
 
 ## Recommandations
 
-En haut de la page Rapports, vous trouverez des recommandations pilotées par l’IA/ML en fonction de votre progression. Revenez régulièrement pour obtenir des conseils et des informations utiles.
+En haut de la page [!UICONTROL Rapports] , vous trouverez des recommandations pilotées par l’IA/ML en fonction de votre progression. Revenez régulièrement pour obtenir des conseils et des informations utiles.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Prédictions au niveau de la personne
 
-Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres du programme. Passez la souris sur le **[!UICONTROL Probabilité d’enregistrement]** ou **[!UICONTROL Probabilité de présence]** pour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d’une catégorie spécifique (par exemple, tous les membres de la catégorie &quot;Moins susceptibles&quot; d’enregistrer) et les cibler spécifiquement pour augmenter éventuellement vos numéros d’inscription.
+Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres du programme. Passez la souris sur le **[!UICONTROL Probabilité d’enregistrement]** ou **[!UICONTROL Probabilité de présence]** pour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d’une catégorie spécifique (par exemple, tous les membres de la catégorie &quot;Moins susceptibles&quot; d’enregistrer) et les cibler spécifiquement pour augmenter éventuellement vos numéros d’inscription.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -87,7 +87,7 @@ Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres d
 
 **Q : Qu’est-ce que le segment ?**
 
-A : L’enregistrement probable est une valeur comprise entre 0 et 100. Chaque personne membre du programme d’événement aura une valeur de probabilité comprise entre 0 et 100.
+R : La valeur susceptible d’être enregistrée est comprise entre 0 et 100. Chaque personne qui est membre du programme d’événement aura une valeur de probabilité comprise entre 0 et 100.
 
 Nous plaçons les valeurs de probabilité dans trois segments :
 
@@ -95,19 +95,19 @@ Nous plaçons les valeurs de probabilité dans trois segments :
 * Probabilité d’enregistrer plus de 25 % à &lt;50 % = Segment probable
 * Probabilité d’enregistrer &lt;25 % = segment moins probable
 
-Lorsqu’une personne a de la probabilité de s’inscrire, la prédiction tombera dans l’un de ces segments (chaque personne qui est membre d’un programme tombera dans l’un d’entre eux). Par exemple, si un programme d’événement comporte 1 000 membres en fonction des prévisions de probabilité, ces 1 000 seront distribués dans _Très probable_, _Probable_ ou _Moins probable_ segments.
+Lorsqu’une personne a de la probabilité de s’inscrire, la prédiction tombera dans l’un de ces segments (chaque personne qui est membre d’un programme tombera dans l’un d’entre eux). Par exemple, si un programme d’événement comporte 1 000 membres en fonction des prévisions de probabilité, ces 1 000 seront distribués dans _Très probable_, _Probable_, ou _Moins probable_ segments.
 
 Par conséquent, les personnes qui appartiennent au segment à haut risque auront plus de chances de s’inscrire à l’événement.
 
 Conversion pour s’inscrire = nombre de personnes dans le segment enregistré divisé par le nombre de personnes qui font partie du segment (par exemple, si 100 personnes appartiennent au segment hautement probable et que 60 d’entre elles s’inscrivent, le taux de conversion est de 60 %).
 
-Le % de conversion à enregistrer suit ce modèle : Très probable > Probable > Moins probable.
+Le % de conversion à enregistrer suivra ce modèle : très probable > Probable > Moins probable.
 
 **Q : Comment utiliser les insights ?**
 
-A : Les bonnes pratiques comportent les éléments suivants :
+R : Les bonnes pratiques impliquent les éléments suivants :
 
-i. Vous créez un programme, puis une campagne dynamique utilise des filtres prédictifs avec &quot;plus de X&quot;, ce qui entraînerait un certain nombre de personnes (disons 1 000) et vous exécutez la campagne.
+i. Vous créez un programme, puis une campagne dynamique utilise des filtres prédictifs avec &quot;supérieur à X&quot;, ce qui entraînerait un certain nombre de personnes (disons 1 000) et vous exécutez la campagne.
 
 ii. Après 24 heures, dans la variable [!UICONTROL Rapports] vous pouvez voir les enregistrements prévus qui sont calculés en fonction de la probabilité d’enregistrer les valeurs de toutes les personnes actuellement invitées.
 
@@ -121,7 +121,7 @@ v. À tout moment, si vous souhaitez comprendre pourquoi un nombre prévu s’af
 
 **Q : Qu’est-ce que le graphique Segments par enregistrement ?**
 
-A : Trois barres représentent chacune un segment (très probable, probable, moins probable).
+R : Trois barres, chacune représentant un segment (très probable, probable, moins probable).
 
 **Ligne pointillée violette :** Taux de conversion moyen à l’enregistrement dans ce segment, en fonction des programmes similaires passés.
 
@@ -129,11 +129,11 @@ A : Trois barres représentent chacune un segment (très probable, probable, moi
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
-Par exemple, supposons que 100 personnes ont une probabilité d’enregistrement supérieure à 50 % et 60 sur ces 100 personnes enregistrées. La conversion est très probablement de 60 %. Ainsi, tous les membres ajoutés au programme ont la probabilité d’enregistrer des valeurs, puis ils sont placés dans des segments et selon le nombre de personnes enregistrées dans chaque taux de conversion de segment est calculé.
+Par exemple, supposons que 100 personnes ont une probabilité d&#39;enregistrement > 50 % et 60 sur ces 100 personnes enregistrées. La conversion est très probablement de 60 %. Ainsi, tous les membres ajoutés au programme ont la probabilité d’enregistrer des valeurs, puis ils sont placés dans des segments et selon le nombre de personnes enregistrées dans chaque taux de conversion de segment est calculé.
 
-**Q : Que signifie &quot;Registered and Higher&quot; ?**
+**Q : Que signifie &quot;Enregistré et plus élevé&quot; ?**
 
-A : Toute personne répertoriée comme enregistrée ou tout autre statut ayant un numéro égal ou supérieur à l’étape.
+R : Toute personne répertoriée comme enregistrée, ou tout autre statut ayant un numéro égal ou supérieur à l’étape.
 
 Vous pouvez créer de nouveaux statuts de progression pour un programme d’événements, mais nous les associons à des statuts standard. Prenons le cas où une personne est déplacée d’une personne invitée à un rappel, ce qui est une étape plus élevée que l’enregistrement. Cette personne sera également considérée comme enregistrée et affichée dans le suivi de l’objectif.
 
@@ -141,6 +141,6 @@ Vous pouvez créer de nouveaux statuts de progression pour un programme d’év�
 
 **Q : Comment sont calculés les inscriptions prévues ?**
 
-A : Voir ci-dessous.
+R : Voir ci-dessous.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-12.png)

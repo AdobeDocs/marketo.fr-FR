@@ -4,7 +4,7 @@ description: Utilisation de l’onglet Accueil du programme - Documents Marketo 
 title: Utilisation de l’onglet Accueil du programme
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
 ## Mode Résumé {#summary-view}
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Cliquez sur **Exporter** au bas du rapport Résumé à télécharger.
+1. Cliquez sur **[!UICONTROL Exporter]** au bas du rapport Résumé à télécharger.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Utilisé par la vue {#used-by-view}
 
-1. Dans Activités marketing, sélectionnez un programme.
+1. Dans **[!UICONTROL Activités marketing]**, sélectionnez un programme.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Cliquez sur le bouton **Affichage** menu déroulant. Sélectionner **Utilisé par**.
+1. Cliquez sur le bouton **[!UICONTROL Affichage]** menu déroulant. Sélectionner **[!UICONTROL Utilisé par]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
 ## Affichage de l’appartenance {#membership-view}
 
-1. Dans Activités marketing, sélectionnez un programme.
+1. Dans **[!UICONTROL Activités marketing]**, sélectionnez un programme.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Cliquez sur le bouton **Affichage** menu déroulant. Sélectionner **Abonnement**.
+1. Cliquez sur le bouton **[!UICONTROL Affichage]** menu déroulant. Sélectionner **[!UICONTROL Abonnement]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
    >[!NOTE]
    >
-   >**Historique** désigne toute personne qui a déjà suivi le programme, tandis que **Actuel** inclut uniquement les personnes actuellement présentes dans le programme.
+   >**[!UICONTROL Historique]** désigne toute personne qui a déjà suivi le programme, tandis que **[!UICONTROL Actuel]** inclut uniquement les personnes actuellement présentes dans le programme.
 
    >[!MORELIKETHIS]
    >
-   >[Compréhension de l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Compréhension de l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
