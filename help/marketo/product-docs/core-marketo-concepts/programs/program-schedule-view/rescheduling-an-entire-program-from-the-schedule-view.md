@@ -4,7 +4,7 @@ description: Replanification d’un programme entier à partir de la vue Planifi
 title: Replanification d’un programme entier à partir de la vue de planification
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Lorsque vous clonez un programme ou un événement avec des dates, il est probab
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Sélectionnez la liste déroulante Action d’événement . Choisir **Replanifier les entrées**.
+1. Sélectionnez la liste déroulante Action d’événement . Choisir **[!UICONTROL Replanifier les entrées]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ Lorsque vous clonez un programme ou un événement avec des dates, il est probab
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Cliquez sur **Replanifier**.
+1. Cliquez sur **[!UICONTROL Replanifier]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

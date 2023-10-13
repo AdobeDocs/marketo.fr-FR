@@ -4,7 +4,7 @@ description: Présentation des dates de test/confirmation - Documents Marketo - 
 title: Comprendre les dates provisoires/confirmées
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Comprendre les dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
 
-Les campagnes intelligentes et les programmes de messagerie électronique disposent d’une puissante fonctionnalité à marquer comme **Tentative** ou **Confirmé**. Voici comment ils fonctionnent.
+Les campagnes intelligentes et les programmes de messagerie électronique disposent d’une puissante fonctionnalité à marquer comme **[!UICONTROL Tentative]** ou **[!UICONTROL Confirmé]**. Voici comment ils fonctionnent.
 
 ## Tentative {#tentative}
 
@@ -47,7 +47,7 @@ Les entrées confirmées seront certainement exécutées. Ils disposent de règl
 
 ## Terminé  {#finished}
 
-Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu’une entrée a été exécutée et est **Terminé**, vous ne pouvez pas le déplacer ni le faire titiller. (Pas de changement de la réalité ni de rupture dans le continuum du flux temporel.)
+Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu’une entrée a été exécutée et est **[!UICONTROL Terminé]**, vous ne pouvez pas le déplacer ni le faire titiller. (Pas de changement de la réalité ni de rupture dans le continuum du flux temporel.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

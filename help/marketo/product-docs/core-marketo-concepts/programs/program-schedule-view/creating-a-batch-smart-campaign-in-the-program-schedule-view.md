@@ -4,30 +4,30 @@ description: Création d’une campagne dynamique par lots en mode Planification
 title: Création d’une campagne dynamique par lots en mode Planification du programme
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
 # Création d’une campagne dynamique par lots en mode Planification du programme {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Vous pouvez créer des campagnes intelligentes et [Réexécuter les instances existantes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) dans votre programme à partir de la vue planning du programme.
+Vous pouvez créer des campagnes dynamiques et [Réexécuter les instances existantes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} dans votre programme à partir de la vue planning du programme.
 
 >[!NOTE]
 >
->Seules les campagnes dynamiques par lot peuvent être créées dans cette vue. Les campagnes de déclenchement ne sont pas prises en charge.
+>Seules les campagnes par lots peuvent être créées dans cette vue. Les campagnes de déclenchement ne sont pas prises en charge.
 
 1. Sélectionnez la date d’exécution de votre nouvelle campagne dynamique.
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Choisissez un nom pour votre entrée, qui deviendra votre nouvelle campagne dynamique. Appuyez sur la touche **Entrée/Retour** pour confirmer le nom.
+1. Choisissez un nom pour votre entrée, qui deviendra votre nouvelle campagne dynamique. Appuyez sur la touche **[!UICONTROL Entrée/Retour]** pour confirmer le nom.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Cliquez sur le bouton **Type** et choisissez **Campagne dynamique**.
+1. Cliquez sur le bouton **[!UICONTROL Type]** et choisissez **[!UICONTROL Campagne dynamique]**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Vous pouvez créer des campagnes intelligentes et [Réexécuter les instances ex
 
    ![](assets/four.png)
 
-1. Choisissez votre [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) règles.
+1. Choisissez votre [Campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} règles.
 
    ![](assets/changeprogramstatus-hands.png)
 

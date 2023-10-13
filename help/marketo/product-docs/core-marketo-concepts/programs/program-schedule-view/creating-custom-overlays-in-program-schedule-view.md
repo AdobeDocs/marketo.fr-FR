@@ -4,10 +4,10 @@ description: Création de recouvrements personnalisés en mode Planification du 
 title: Création de recouvrements personnalisés en mode Planification du programme
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez créer des superpositions personnalisées pour afficher les entrées pertinentes à vos besoins.
 
-1. Cliquez sur le bouton **Agenda** menu déroulant.
+1. Cliquez sur le bouton **[!UICONTROL Agenda]** menu déroulant.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Sélectionner **Recouvrements**.
+1. Sélectionner **[!UICONTROL Recouvrements]**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ Vous pouvez créer des superpositions personnalisées pour afficher les entrées
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Vous pouvez également filtrer par [balises de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. Vous pouvez également filtrer par [balises de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

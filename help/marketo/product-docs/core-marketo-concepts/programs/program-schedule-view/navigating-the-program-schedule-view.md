@@ -4,7 +4,7 @@ description: Navigation dans la vue Planification du programme - Documents Marke
 title: Navigation dans la vue Planification du programme
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 
 ## Recherche du mode Planification {#find-the-schedule-view}
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre programme. Cliquez sur le bouton **Affichage** menu déroulant. Sélectionner **Planification**.
+1. Sélectionnez votre programme. Cliquez sur le bouton **[!UICONTROL Affichage]** menu déroulant. Sélectionner **[!UICONTROL Planification]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -33,7 +33,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 >
 >La vue de la planification du programme est collante. Une fois que vous l’avez défini, tous les programmes sont définis par défaut sur la vue de planification.
 
-## Changement d’entrée {#switching-between-entries}
+## Intervalle entre les entrées {#switching-between-entries}
 
 1. Dans les détails de l’entrée, cliquez sur les flèches pour passer à l’entrée planifiée suivante.
 
@@ -51,7 +51,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 
 ## Modification entre les modes {#changing-between-modes}
 
-1. Cliquez sur **3 semaines** ou **Mois** modifie les dates visibles sur votre écran.
+1. Cliquer sur **[!UICONTROL 3 semaines]** ou **[!UICONTROL Mois]** modifie les dates visibles sur votre écran.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Fantastique ! Maintenant que vous savez comment voir votre programme, apprenons
 
 >[!MORELIKETHIS]
 >
->[Création d’une entrée dans la vue Planification du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Création d’une entrée dans la vue Planification du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

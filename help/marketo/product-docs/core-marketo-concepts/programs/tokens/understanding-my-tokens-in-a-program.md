@@ -4,7 +4,7 @@ description: Présentation de mes jetons dans un programme - Documents Marketo -
 title: Présentation de mes jetons dans un programme
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 3%
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 Un jeton est une variable que vous pouvez utiliser dans les emails, les landing pages et les campagnes intelligentes pour faciliter votre vie.
 
-Outre Mes jetons, vous pouvez également utiliser n’importe quel jeton intégré dans vos programmes. Consultez la section [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+Outre Mes jetons, vous pouvez également utiliser n’importe quel jeton intégré dans vos programmes. Consultez la section [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Mes jetons  {#my-tokens}
 
-Mes jetons sont des variables personnalisées que n’importe qui peut créer. Ils sont [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) dans des dossiers de campagne ou des programmes.
+Mes jetons sont des variables personnalisées que n’importe qui peut créer. Ils sont [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} dans des dossiers de campagne ou des programmes.
 
 Mes jetons s’affichent comme suit : `{{my.Name Of Token}}`
 
@@ -77,7 +77,7 @@ Exemples:
 
 ## Imbrication de jetons {#nesting-tokens}
 
-Lorsque vous créez un jeton, il peut être référencé par d’autres objets de l’arborescence. Il existe une structure de nommage pour l’emplacement où le jeton a été créé pour une gestion facile.
+Lorsque vous créez un jeton, il peut être référencé par d’autres objets de l’arborescence. Il existe une structure d’affectation des noms pour l’emplacement où le jeton a été créé pour une gestion facile.
 
 * **Jeton local :** Le jeton a été créé directement dans ce programme ou dossier.
 * **Jeton hérité :** Le jeton a été créé dans l’arborescence dans un dossier ou un programme de niveau supérieur.
@@ -93,5 +93,5 @@ Le déplacement de programmes et de dossiers affecte également les jetons. Vér
 
 >[!MORELIKETHIS]
 >
->* [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Gestion de mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Gestion de mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

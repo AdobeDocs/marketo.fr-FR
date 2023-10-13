@@ -4,9 +4,9 @@ description: Création d’un programme de courrier électronique en mode Planif
 title: Création d’un programme de courrier électronique en mode Planification
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '102'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Vous pouvez créer un programme de messagerie à partir de la vue de planification du programme. Voici comment.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ Vous pouvez créer un programme de messagerie à partir de la vue de planificati
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Saisir un nom. Sélectionner **Programme Email**.
+1. Saisir un nom. Sélectionner **[!UICONTROL Programme Email]**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +35,8 @@ Vous pouvez créer un programme de messagerie à partir de la vue de planificati
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configuration de votre programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) et cliquez sur **Programme d’approbation**.
+1. [Configuration de votre programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} et cliquez sur **[!UICONTROL Programme d’approbation]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Outre le tableau de bord détaillé, l’utilisation d’un [programme de messagerie électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) au lieu d’une campagne dynamique, il s’agit de la possibilité de mettre en oeuvre facilement une [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Bon appétit !
+   Outre le tableau de bord détaillé, l’utilisation d’un [programme email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Bon appétit !

@@ -4,9 +4,9 @@ description: Utilisation d’une superposition globale - Documents Marketo - Doc
 title: Utilisation d’une superposition globale
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La superposition globale dans la vue de planification du programme vous permet d
 
 >[!PREREQUISITES]
 >
->Vous devez disposer d’un [Licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) pour utiliser cette fonctionnalité.
+>Vous devez disposer d’un [Licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} pour utiliser cette fonctionnalité.
 
 ## Utilisation de la superposition globale {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ La superposition globale dans la vue de planification du programme vous permet d
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Sélectionner **Incrustation** dans le coin inférieur droit.
+1. Sélectionner **[!UICONTROL Incrustation]** dans le coin inférieur droit.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,16 +39,16 @@ La superposition globale dans la vue de planification du programme vous permet d
 
 ## Utilisation d’un filtre enregistré comme superposition {#use-a-saved-filter-as-an-overlay}
 
-Si vous avez [enregistrement d’un filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), vous pouvez l’utiliser comme superposition dans la vue planning du programme.
+Si vous avez [enregistrement d’un filtre dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, vous pouvez l’utiliser comme superposition dans la vue planning du programme.
 
-1. Cliquez sur le bouton **Incrustation** et sélectionnez votre définition de filtre.
+1. Cliquez sur le bouton **[!UICONTROL Incrustation]** et sélectionnez votre définition de filtre.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   C&#39;est facile ! Vous voyez maintenant une superposition définie par le filtre que vous avez enregistré et sélectionné.
+   Vous verrez maintenant une superposition définie par le filtre que vous avez enregistré et sélectionné.
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >[Création de recouvrements personnalisés en mode Planification du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[Création de recouvrements personnalisés en mode Planification du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

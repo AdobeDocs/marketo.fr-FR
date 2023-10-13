@@ -4,10 +4,10 @@ description: Masquage et affichage des types d’entrée personnalisés - Docume
 title: Masquage et affichage des types d’entrée personnalisés
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,11 +17,11 @@ Les types d’entrée personnalisés peuvent être masqués dans la section Admi
 
 ## Masquer un type d’entrée personnalisé {#hide-a-custom-entry-type}
 
-1. Accédez au **Administration** et cliquez sur **Entrée du calendrier** **Types**.
+1. Accédez au **[!UICONTROL Administration]** et cliquez sur **[!UICONTROL Types d’entrée du calendrier]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Cliquez avec le bouton droit de la souris sur votre entrée personnalisée, puis cliquez sur **Masquer**.
+1. Cliquez avec le bouton droit sur votre entrée personnalisée, puis cliquez sur **[!UICONTROL Masquer]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ Les types d’entrée personnalisés peuvent être masqués dans la section Admi
 
 Si vous souhaitez afficher un type d’entrée personnalisé, c’est également facile.
 
-1. Cliquez avec le bouton droit de la souris sur votre entrée et sélectionnez **Afficher**.
+1. Cliquez avec le bouton droit de la souris sur votre entrée et sélectionnez **[!UICONTROL Afficher]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

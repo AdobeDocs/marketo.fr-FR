@@ -4,9 +4,9 @@ description: Création d’une entrée dans la vue Planification du programme - 
 title: Création d’une entrée dans la vue Planification du programme
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vous pouvez créer des entrées depuis la vue de planification du programme pour compléter un programme existant.
 
-## Création d’une entrée de base {#create-a-basic-entry}
+## Créer une entrée de base {#create-a-basic-entry}
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre programme. Cliquez sur le bouton **Affichage** menu déroulant. Sélectionner **Planification**.
+1. Sélectionnez votre programme. Cliquez sur le bouton **[!UICONTROL Affichage]** menu déroulant. Sélectionner **[!UICONTROL Planification]**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ Vous pouvez créer des entrées depuis la vue de planification du programme pour
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Nommez l’entrée. Press **Entrée** pour confirmer le nom.
+1. Nommez l’entrée. Presse **[!UICONTROL Entrée]** pour confirmer le nom.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +41,7 @@ Vous pouvez créer des entrées depuis la vue de planification du programme pour
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Saisissez votre description, puis cliquez sur **Enregistrer**.
+1. Saisissez votre description, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,15 +51,15 @@ Vous pouvez créer des entrées depuis la vue de planification du programme pour
 
 ## Modifier le type d’entrée {#change-entry-type}
 
-1. Sélectionnez une entrée de base dans le **Agenda** vue.
+1. Sélectionnez une entrée de base dans le **[!UICONTROL Agenda]** vue.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Sélectionnez la **Type** menu déroulant. Choisissez un nouveau type d’entrée.
+1. Sélectionnez la variable **[!UICONTROL Type]** menu déroulant. Choisissez un nouveau type d’entrée.
 
    >[!NOTE]
    >
-   >La tâche est une [entrée personnalisée](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Vous pouvez créer des tâches et d’autres entrées personnalisées pour vous aider à effectuer le suivi des éléments de programme autres que Marketo.
+   >La tâche est une [entrée personnalisée](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. Vous pouvez créer des tâches et d’autres entrées personnalisées pour vous aider à effectuer le suivi des éléments de programme autres que Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +69,4 @@ Vous pouvez créer des entrées depuis la vue de planification du programme pour
 
 >[!NOTE]
 >
-> Vous pouvez également créer une [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) ou [programme de messagerie électronique](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) dans la vue planning.
+> Vous pouvez également créer une [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} or [email program](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} dans la vue planning.
