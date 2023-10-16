@@ -4,9 +4,9 @@ description: Bonnes pratiques pour les listes dynamiques - Documents Marketo - D
 title: Bonnes pratiques relatives aux listes intelligentes
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Pour les rendre faciles à utiliser et optimiser les performances, nous avons cr
 
 >[!NOTE]
 >
->**Chaque client est différent.** Plus la base de données est grande, plus le traitement est important. Plus vous avez d’activités stockées, plus la recherche prend du temps.
+>**Chaque utilisateur Marketo Engage est différent.** Plus la base de données est grande, plus le traitement est important. Plus vous avez d’activités stockées, plus la recherche prend du temps.
 >
 >Si vous rencontrez une lenteur, essayez les conseils ci-dessous. Si le problème persiste, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
