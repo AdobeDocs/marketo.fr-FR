@@ -3,10 +3,10 @@ unique-page-id: 2359807
 description: Personnalisation des styles de tirage - Documents Marketo - Documentation du produit
 title: Personnalisation des styles de tirage
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '160'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Lorsque vous [création d’un tirage](/help/marketo/product-docs/demand-generat
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Accédez à **Activités marketing**.
 

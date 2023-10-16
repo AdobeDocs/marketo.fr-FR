@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359763
 description: Affichage des performances de Social - Documents Marketo - Documentation du produit
-title: Affichage des performances des réseaux sociaux
+title: Affichage des performances sociales
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 1%
+source-wordcount: '482'
+ht-degree: 0%
 
 ---
 
-# Affichage des performances des réseaux sociaux {#view-social-performance}
+# Affichage des performances sociales {#view-social-performance}
 
 Découvrez les activités sociales générées par vos applications sociales. Le tableau de bord Social vous donne des informations sur les différentes interactions sociales générées par vos applications sociales et vous permet d’effectuer le suivi des performances d’une application sociale.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Accédez à **Activités marketing**.
 
@@ -39,13 +39,13 @@ Découvrez les activités sociales générées par vos applications sociales. Le
    >
    >Si vous sélectionnez **24 dernières heures**, les mesures sont calculées toutes les heures, en haut de l’heure. Pour tous les autres intervalles, les mesures sont exécutées tous les jours, à minuit du jour précédent.
 
-1. Utilisez la variable **Entonnoir social** pour examiner la progression et l’efficacité sociales de votre promotion.
+1. Utilisez la variable **Entonnoir social** pour examiner l’avancement social et l’efficacité de votre promotion.
 
-   * **Visites de campagne**: Nombre de chargements de prospects d’une page contenant votre application sociale.
-   * **Interactions**: Nombre de fois où des prospects ont interagi avec votre application sociale, comme par exemple s’inscrire à un événement [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), le vote dans une [sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [partage d’une vidéo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), etc.
-   * **Partages**: Nombre de fois où des prospects partagent un message sur leur réseau social à partir de votre application sociale.
-   * **Clics résultants**: Nombre de fois où des prospects ont cliqué sur des liens dans des partages à partir de votre application sociale.
-   * **Enregistrement**: Nombre de prospects qui s’inscrivent à votre promotion après avoir suivi un lien partagé vers votre application.
+   * **Visites de campagne**: nombre de fois où les prospects chargent une page contenant votre application sociale.
+   * **Interactions**: nombre de fois où des prospects ont interagi avec votre application sociale, comme par exemple s’abonner à une [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), le vote dans une [sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [partager une vidéo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), etc.
+   * **Partages**: nombre de fois où des prospects partagent un message sur leur réseau social à partir de votre application sociale.
+   * **Clics résultants**: nombre de fois où des prospects ont cliqué sur des liens dans des partages à partir de votre application sociale.
+   * **Enregistrement**: nombre de prospects qui s’inscrivent à votre promotion après avoir suivi un lien partagé vers votre application.
 
    >[!NOTE]
    >
@@ -55,18 +55,18 @@ Découvrez les activités sociales générées par vos applications sociales. Le
 
 1. Utilisez la variable **Audience** pour examiner comment vos prospects vous aident à faire connaître votre message.
 
-   * **Profils totaux**: Nombre total de prospects qui se sont connectés aux réseaux sociaux à partir de votre application sociale.
-   * **Influenceurs**: Nombre de prospects qui ont généré au moins un clic obtenu à partir d’un partage d’application.
-   * **Portée sociale**: La somme de toutes les connexions de prospects. Pour les prospects qui partagent sur les réseaux sociaux, il s’agit du nombre d’amis qu’ils ont au moment où ils ont partagé depuis votre application sociale. Pour le partage des emails, il s’agit du nombre de destinataires de l’email qu’ils génèrent à partir de votre application.
-   * **Impressions sociales**: Nombre total de fois où votre application sociale est apparue dans les flux des connexions de prospects.
+   * **Profils totaux**: nombre total de prospects qui se sont connectés aux réseaux sociaux à partir de votre application sociale.
+   * **Influenceurs**: nombre de prospects qui ont généré au moins un clic résultant d’un partage d’application.
+   * **Portée sociale**: somme de toutes les connexions de prospects. Pour les prospects qui partagent sur les réseaux sociaux, il s’agit du nombre d’amis qu’ils ont au moment où ils ont partagé depuis votre application sociale. Pour le partage des emails, il s’agit du nombre de destinataires de l’email qu’ils génèrent à partir de votre application.
+   * **Impressions sociales**: nombre total de fois où votre application sociale est apparue dans les flux des connexions de prospects.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
 1. Utilisez la variable **Partager des mesures** pour passer en revue l’activité sociale agrégée générée par votre application sociale.
 
-   * **Taux de partage**: Pourcentage de visites de votre application qui génèrent un partage.
-   * **Taux de clics**: Nombre de clics résultants par partage.
-   * **Effet élévateur social**: Le ratio des visites sur votre application (provenant du lien dans les partages) par rapport au nombre de visites non sociales (provenant de sources autres que votre application sociale).
+   * **Taux de partage**: pourcentage de visites de votre application qui génèrent un partage.
+   * **Taux de clics**: nombre de clics résultants par partage.
+   * **Effet élévateur social**: ratio des visites sur votre application (provenant du lien dans les partages) par rapport au nombre de visites non sociales (provenant de sources autres que votre application sociale).
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 

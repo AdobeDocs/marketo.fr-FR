@@ -4,10 +4,10 @@ description: Déclencheurs et filtres pour les activités sociales - Documents M
 title: Déclencheurs et filtres pour les activités sociales
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 28%
+source-wordcount: '164'
+ht-degree: 23%
 
 ---
 
@@ -17,17 +17,17 @@ Dans Marketo, les applications sociales disposent de leurs propres déclencheurs
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Pour utiliser les réseaux sociaux _triggers_, sélectionnez votre campagne dynamique, puis cliquez sur le bouton **Liste dynamique** . Sur la droite, cliquez sur le signe + pour développer **Triggers**, puis **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Pour utiliser les réseaux sociaux _filtres_, cliquez sur le bouton **+** pour développer la variable **Filtres**.
+1. Pour utiliser les réseaux sociaux _filtres_, cliquez sur le **+** pour développer la variable **Filtres**.
 
    ![](assets/two-282-29.png)
 
-1. Consultez le tableau ci-dessous pour savoir quels déclencheurs et filtres fonctionnent avec chaque application sociale.
+1. Référencez le tableau ci-dessous pour savoir quels déclencheurs et filtres fonctionnent avec chaque application sociale.
 
    | Déclencheurs/filtres | Boutons Réseaux sociaux | Sondages | Vidéos | Offres de parrainage | Loteries |
    |---|---|---|---|---|---|
@@ -44,4 +44,4 @@ Dans Marketo, les applications sociales disposent de leurs propres déclencheurs
 
    >[!MORELIKETHIS]
    >
-   >[Affichage des performances des réseaux sociaux](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
+   >[Affichage des performances sociales](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)

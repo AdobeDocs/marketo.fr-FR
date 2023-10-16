@@ -4,10 +4,10 @@ description: Créez un [!DNL Webhook] - Documents Marketo - Documentation du pro
 title: Créez un [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 6%
+source-wordcount: '221'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Utilisation [!DNL Webhooks] pour tirer parti des services web tiers pour envoyer
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
@@ -39,15 +39,15 @@ Utilisation [!DNL Webhooks] pour tirer parti des services web tiers pour envoyer
    >
    >Cela inclut souvent la saisie de vos informations d’identification de service tiers en tant que paramètre d’URL ou dans le modèle de POST.
 
-   * **[!UICONTROL URL]**: Saisissez l’URL que vous utilisez dans votre requête au service Web. Pour insérer un jeton, tel que l’adresse électronique de la personne (**`{{lead.Email Address}}`**), dans votre requête, cliquez sur **[!UICONTROL Insérer un jeton]**.
+   * **[!UICONTROL URL]**: saisissez l’URL que vous utilisez dans votre requête au service Web. Pour insérer un jeton, tel que l’adresse électronique de la personne (**`{{lead.Email Address}}`**), dans votre requête, cliquez sur **[!UICONTROL Insérer un jeton]**.
 
-   * **[!UICONTROL Modèle]**: Si vous souhaitez transmettre des informations dans le corps de la requête, saisissez depuis le modèle de payload. Modèles autorisés pour les types de requête suivants : POST, DELETE, PATCH ou PUT. Vous pouvez utiliser des formats de données tels que JSON ou XML. Pour insérer un jeton dans votre modèle, cliquez sur **[!UICONTROL Insérer un jeton]**.
+   * **[!UICONTROL Modèle]**: si vous souhaitez transmettre des informations dans le corps de la requête, saisissez depuis le modèle de payload. Modèles autorisés pour les types de requête suivants : POST, DELETE, PATCH ou PUT. Vous pouvez utiliser des formats de données tels que JSON ou XML. Pour insérer un jeton dans votre modèle, cliquez sur **[!UICONTROL Insérer un jeton]**.
 
-   * **[!UICONTROL Encodage du jeton de demande]**: Si les valeurs de jeton incluent des caractères spéciaux (comme une esperluette, &#39;&amp;&#39;), indiquez le format de votre requête (**JSON** ou **Form/Url**).
+   * **[!UICONTROL Encodage du jeton de demande]**: si les valeurs de jeton incluent des caractères spéciaux (comme une esperluette, &#39;&amp;&#39;), indiquez le format de votre requête (**JSON** ou **Form/Url**).
 
-   * **[!UICONTROL Type de réponse]**: Sélectionnez le format de la réponse que vous recevez du service (**JSON** ou **XML**).
+   * **[!UICONTROL Type de réponse]**: sélectionnez le format de la réponse que vous recevez du service (**JSON** ou **XML**).
 
-   * **[!UICONTROL Type de requête]**: Sélectionnez la méthode HTTP à utiliser (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Type de requête]**: sélectionnez la méthode HTTP à utiliser (DELETE, GET, PATCH, POST, PUT).
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 

@@ -4,10 +4,10 @@ description: Modifier les paramètres de publication enrichie Facebook - Documen
 title: Modification des paramètres de publication enrichie Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 1%
+source-wordcount: '316'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Personnalisez les publications lorsque des personnes vous partagent sur Facebook
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 Marketo [applications sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) autorisez vos prospects à partager vos landing pages avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre page d’entrée qui sont incluses dans les publications Facebook.
 
@@ -31,11 +31,11 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
 1. Sélectionnez l’une des options suivantes pour votre message Facebook.
 
-   * Ajouter du contenu statique : Sélectionnez cette option pour saisir manuellement le titre, la légende et la description.
+   * Ajouter du contenu statique : sélectionnez cette option pour saisir manuellement le titre, la légende et la description.
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Ajouter du contenu dynamique : Votre application sociale peut utiliser les `<TITLE>`, `<CAPTION>`, et `<DESCRIPTION>` balises pour renseigner votre publication enrichie.
+   * Ajouter du contenu dynamique : votre application sociale peut utiliser les `<TITLE>`, `<CAPTION>`, et `<DESCRIPTION>` balises pour renseigner votre publication enrichie.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -43,7 +43,7 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
    >
    >Elles doivent déjà exister dans la source de la page. Pour un meilleur contrôle, vous pouvez ajouter des balises Facebook OG spécifiques à votre page d’entrée.
 
-   * Ne pas ajouter de contenu riche : Limite les publications Facebook de votre page d’entrée au message principal et au lien.
+   * Ne pas ajouter de contenu riche : limite les publications Facebook de votre landing page au message principal et au lien.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
@@ -55,7 +55,7 @@ Pour contrôler les éléments de page qui seront inclus dans les partages Faceb
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Le **Concepteur de page d’entrée** s’ouvre dans une nouvelle fenêtre.
+   La variable **Concepteur de page d’entrée** s’ouvre dans une nouvelle fenêtre.
 
 1. Sélectionner **Actions de page d’entrée** > **Modification des métadonnées de page**.
 

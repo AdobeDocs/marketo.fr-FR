@@ -4,10 +4,10 @@ description: Ajout d’un bouton Social à une page d’entrée de forme libre -
 title: Ajout d’un bouton Social à une page d’entrée de forme libre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '249'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Un bouton social encourage les gens à partager votre contenu avec leurs amis. D
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Accédez à votre page d’entrée de formulaire libre et cliquez sur **Modifier le brouillon**.
 
    ![](assets/scoring.jpg)
 
-1. Faites glisser le curseur **Bouton Social** des éléments sur la droite.
+1. Effectuez un glisser-déposer **Bouton Social** des éléments sur la droite.
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
@@ -31,7 +31,7 @@ Un bouton social encourage les gens à partager votre contenu avec leurs amis. D
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Une fois votre page d’entrée principale, consultez l’activité générée par votre bouton de réseau social (avec Analytics) sur la page [Tableau de bord des réseaux sociaux](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Une fois votre page d’entrée active, consultez l’activité générée par votre bouton de réseau social (avec Analytics) sur la page [Tableau de bord des réseaux sociaux](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
    Si vous ajoutez plutôt un bouton J’aime/Recommander (Lite), reportez-vous au nombre de partages dans la variable [rapport sur les performances des landing pages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 

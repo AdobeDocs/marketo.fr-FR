@@ -4,10 +4,10 @@ description: Création d’une offre de référence - Documents Marketo - Docume
 title: Création d’une offre de référent
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 2%
+source-wordcount: '270'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Dans votre programme, sélectionnez **Nouveau** > **Nouvelle ressource locale**.
 
@@ -57,7 +57,7 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
 
    >[!TIP]
    >
-   >Pour modifier les valeurs par défaut de votre offre de parrainage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
+   >Pour modifier les valeurs par défaut de votre offre de parrainage, cliquez sur **Précédent**. Pour enregistrer votre travail ultérieurement sans approbation, cliquez sur **Fermer**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 

@@ -4,10 +4,10 @@ description: Lancement d’une présentation - Documents Marketo - Documentation
 title: Lancement d’une présentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 5%
+source-wordcount: '107'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Une fois que vous avez défini les vues et la fréquence de rotation de votre pr
 >[!AVAILABILITY]
 >
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 >[!PREREQUISITES]
 >

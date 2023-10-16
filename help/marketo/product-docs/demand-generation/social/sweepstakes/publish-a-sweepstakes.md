@@ -3,10 +3,10 @@ unique-page-id: 2359799
 description: Publication d’un tirage - Documents Marketo - Documentation du produit
 title: Publication d’un tirage
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 3%
+source-wordcount: '183'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Après vous [création d’un tirage](/help/marketo/product-docs/demand-generati
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Après vous [création d’un tirage](/help/marketo/product-docs/demand-generati
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Recherchez la section Insérer des éléments sur le côté droit de la page. Faites glisser le curseur **Tirage**.
+1. Recherchez la section Insérer des éléments sur le côté droit de la page. Effectuez un glisser-déposer **Tirage**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
@@ -38,7 +38,7 @@ Après vous [création d’un tirage](/help/marketo/product-docs/demand-generati
    >
    >Vous devez approuver votre tirage pour le rendre disponible ici.
 
-   Félicitations ! Validez la landing page et votre tirage est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer les tirages sur votre site web ;](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Félicitations ! Validez la landing page et votre tirage est actif. Vous pouvez également [publier la landing page sur Facebook ;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [placer les tirages sur votre site web ;](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >

@@ -4,21 +4,21 @@ description: Personnalisation d’une présentation - Documents Marketo - Docume
 title: Personnalisation d’une présentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 2%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
 # Personnalisation d’une présentation {#customize-a-presentation}
 
-Configurez votre présentation du calendrier pour refléter les objectifs et activités qui comptent le plus pour votre équipe.
+Configurez votre présentation du calendrier pour refléter les objectifs et les activités qui comptent le plus pour votre équipe.
 
 >[!AVAILABILITY]
 >
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Configurez votre présentation du calendrier pour refléter les objectifs et act
 
 ## Choix des vues {#choosing-the-views}
 
-Cycle Presentations à travers différents [définitions de filtre](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} vous choisissez. Récupérez autant de vues que vous le souhaitez et personnalisez la fréquence.
+Cycle Presentations à l’aide de [définitions de filtre](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} vous choisissez. Récupérez autant de vues que vous le souhaitez et personnalisez la fréquence.
 
 1. Dans l’arborescence de droite, faites glisser les différentes vues que vous souhaitez faire pivoter dans votre présentation.
 
@@ -62,15 +62,15 @@ Une fois que vous avez extrait les vues souhaitées dans la présentation, défi
 
 L’affichage du calendrier peut être défini sur une vue de trois semaines ou mensuelles.
 
-1. Sélectionnez la **[!UICONTROL Affichage du calendrier]** et choisissez entre **[!UICONTROL 3 semaines]** ou **[!UICONTROL Mois]**.
+1. Sélectionnez la variable **[!UICONTROL Affichage du calendrier]** et choisissez entre **[!UICONTROL 3 semaines]** ou un **[!UICONTROL Mois]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Super ! Prêt à voir votre présentation ?
+   Super! Prêt à voir votre présentation ?
 
 >[!TIP]
 >
->Définir une [image d&#39;arrière-plan](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} pour votre présentation. Nous suggérons des chatons ou des arcs-en-ciel.
+>Définir une [image de fond](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} pour votre présentation. Nous suggérons des chatons ou des arcs-en-ciel.
 
 ## Aperçu d’une présentation {#preview-a-presentation}
 

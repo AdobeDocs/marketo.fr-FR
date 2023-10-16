@@ -4,10 +4,10 @@ description: Gérer les données de profil social - Documents Marketo - Document
 title: Gestion des données de profil Social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 8%
+source-wordcount: '310'
+ht-degree: 6%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 8%
 
 Lorsqu’une personne interagit avec un Marketo [application sociale](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)ou autorise leur réseau social à préremplir un formulaire Marketo avec [remplissage de formulaire social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo capture toutes les données disponibles à partir de leur profil social. Vous pouvez afficher ces informations sur la variable [Page Détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)ou l’ajouter en tant que colonne dans une [vue personnalisée d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
-le remplissage de formulaires sociaux et les applications sociales capturent des ensembles de champs légèrement différents ; consultez la section pour chacun des éléments ci-dessous.
+Le remplissage de formulaires sociaux et les applications sociales capturent des ensembles de champs légèrement différents ; reportez-vous à la section pour chacun des champs ci-dessous.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 ## Capturé via l’application sociale {#captured-via-social-app}
 
@@ -29,7 +29,7 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 >
 >Les informations supplémentaires provenant des réseaux sociaux apparaissent sur la page Détails de la personne environ cinq minutes après l’autorisation de la personne.
 
-## Depuis Twitter : {#from-twitter}
+## Par Twitter : {#from-twitter}
 
 * Prénom (analysé à partir du nom d’affichage)
 * Nom (analysé à partir du nom d’affichage)
@@ -58,7 +58,7 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 >
 >Les données capturées par le remplissage de formulaires sur les réseaux sociaux remplacent les champs correspondants, sauf si vous [bloquer les mises à jour de ces champs au niveau du formulaire ;](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## Depuis Twitter : {#from-twitter-1}
+## Par Twitter : {#from-twitter-1}
 
 * Prénom (analysé à partir du nom d’affichage)
 * Nom (analysé à partir du nom d’affichage)

@@ -4,10 +4,10 @@ description: Présentation des objets personnalisés Marketo - Documents Marketo
 title: Présentation des objets personnalisés Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 2%
+source-wordcount: '678'
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ Utilisez des objets personnalisés pour effectuer le suivi de mesures propres à
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 Utilisez des objets personnalisés comme filtres et déclencheurs dans vos campagnes dynamiques. Par exemple :
 
-* **Filtrer**: Envoyer des emails uniquement aux propriétaires d’une marque spécifique de véhicule
-* **Déclencheur**: Envoyez un courrier électronique lorsqu’un objet personnalisé est ajouté à une personne ou à une entreprise.
+* **Filtrer**: envoyer des emails uniquement aux propriétaires d’une marque spécifique de véhicule ;
+* **Déclencheur**: envoie un courrier électronique lorsqu’un objet personnalisé est ajouté à une personne ou à une entreprise.
 
-Vous pouvez configurer des objets personnalisés dans une relation de type &quot;un à plusieurs&quot; ou &quot;plusieurs à plusieurs&quot;. Par exemple :
+Vous pouvez configurer des objets personnalisés dans une relation un-à-plusieurs ou plusieurs-à-plusieurs. Par exemple :
 
-* **De un à plusieurs**: Une personne possède plusieurs voitures.
-* **De plusieurs à plusieurs**: Plusieurs étudiants sont inscrits à plusieurs cours à partir d’un catalogue de cours
+* **De un à plusieurs**: une personne possède plusieurs voitures ;
+* **Multiple-à-multiple**: plusieurs étudiants inscrits à plusieurs cours à partir d’un catalogue de cours
 
 Une structure de type &quot;un à plusieurs&quot; utilise un champ de lien unique pour connecter l’objet personnalisé à une personne ou à une entreprise.
 

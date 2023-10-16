@@ -4,10 +4,10 @@ description: Ajout d’une vidéo - Documents Marketo - Documentation du produit
 title: Ajout d’une vidéo
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 3%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Placez des vidéos avec des options de partage sur vos pages d’entrée.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Accédez à votre landing page et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-23-16-3a49-3a49.png)
 
-1. Faites glisser le curseur **Vidéo** des éléments sur la droite.
+1. Effectuez un glisser-déposer **Vidéo** des éléments sur la droite.
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 

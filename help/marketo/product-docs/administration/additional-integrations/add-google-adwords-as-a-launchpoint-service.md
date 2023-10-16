@@ -4,22 +4,22 @@ description: "Ajouter [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - Do
 title: "Ajouter [!DNL Google AdWords] as a [!DNL LaunchPoint] Service"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '287'
 ht-degree: 4%
 
 ---
 
 # Ajouter [!DNL Google AdWords] as a [!DNL LaunchPoint] Service {#add-google-adwords-as-a-launchpoint-service}
 
-Liez vos [!DNL Google AdWords] compte vers Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir du [!DNL AdWords] Une fois que vous aurez effectué le suivi des clics, vous pourrez identifier facilement les prospects qualifiés, les opportunités et les nouveaux clients (ou les étapes de recettes dont vous souhaitez effectuer le suivi). [ajout de colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
+Liez vos [!DNL Google AdWords] compte vers Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir du [!DNL AdWords] Une fois que vous aurez effectué le suivi des clics, vous pourrez identifier facilement les prospects qualifiés, les opportunités et les nouveaux clients (ou quelles que soient les phases de recettes). [ajout de colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
 
 En savoir plus sur [Fonctionnalité d’importation de conversion hors ligne Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ En savoir plus sur [Fonctionnalité d’importation de conversion hors ligne Goo
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
-1. Chargement des conversions hors ligne de Marketo vers [!DNL Google AdWords] **[!UICONTROL Hebdomadaire]** ou **[!UICONTROL Quotidien]**.
+1. Chargement des conversions hors ligne de Marketo vers [!DNL Google AdWords] **[!UICONTROL Hebdomadaire]** ou **[!UICONTROL Qualité]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
@@ -88,7 +88,7 @@ En savoir plus sur [Fonctionnalité d’importation de conversion hors ligne Goo
 
    >[!NOTE]
    >
-   >[Balisage automatique](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} doit être sélectionné pour que cette fonction fonctionne. La désactivation doit être effectuée dans [!DNL AdWords].
+   >[Balisage automatique](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} doit être sélectionné pour que cette fonction fonctionne. La désactivation doit être effectuée à l’intérieur [!DNL AdWords].
 
 Fantastique ! Consultez maintenant l’article connexe ci-dessous pour savoir comment mapper [!DNL AdWords] conversions hors ligne dans votre modèle de revenu.
 

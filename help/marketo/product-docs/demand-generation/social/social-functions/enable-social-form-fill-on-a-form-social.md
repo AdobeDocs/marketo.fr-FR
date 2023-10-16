@@ -4,20 +4,20 @@ description: Activer le remplissage de formulaires sur un formulaire (Social) - 
 title: Activation de l’option Remplir un formulaire pour les réseaux sociaux
 exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 0%
 
 ---
 
 # Activation de l’option Remplir un formulaire pour les réseaux sociaux {#enable-social-form-fill-on-a-form-social}
 
-Permet aux visiteurs de remplir le formulaire à l’aide de leur réseau social. Vous obtenez automatiquement des données supplémentaires et elles bénéficient d’une expérience plus rapide. Voici comment.
+Permet à vos visiteurs de remplir le formulaire à l’aide de leur réseau social. Vous obtenez automatiquement des données supplémentaires et elles bénéficient d’une expérience plus rapide. Voici comment.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Accédez à **Activités marketing**.
 
@@ -51,4 +51,4 @@ Permet aux visiteurs de remplir le formulaire à l’aide de leur réseau social
 
    ![](assets/image2016-4-28-16-3a45-3a58.png)
 
-Plutôt génial, hein ?
+C&#39;est assez génial, hein ?

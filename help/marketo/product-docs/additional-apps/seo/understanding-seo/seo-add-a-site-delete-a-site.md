@@ -4,10 +4,10 @@ description: SEO - Ajout d’un site/suppression d’un site - Documents Marketo
 title: SEO - Ajout/suppression d’un site
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 3%
+source-wordcount: '196'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Pour que Marketo puisse extraire des données (liens entrants et recommandations
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 ## [!UICONTROL Ajout d’un site] {#add-a-site}
 

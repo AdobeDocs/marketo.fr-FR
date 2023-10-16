@@ -4,10 +4,10 @@ description: Créez un rapport Analyse de l’appartenance à un programme qui r
 title: Création d’un rapport d’analyse de l’appartenance à un programme qui répertorie les pistes
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 4%
+source-wordcount: '153'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Suivez ces étapes pour créer un rapport Analyse de l’appartenance à un prog
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Lancez l’Explorateur de recettes.
 

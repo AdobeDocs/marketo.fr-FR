@@ -3,10 +3,10 @@ unique-page-id: 2359795
 description: Créer des tirages - Documents Marketo - Documentation du produit
 title: Créer des loteries
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 3%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange de leur a
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Dans votre programme, sélectionnez **Nouveau** > **Nouvelle ressource locale**.
 
@@ -72,11 +72,11 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange de leur a
 
    >[!TIP]
    >
-   >Pour modifier l’un des paramètres par défaut de votre tirage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
+   >Pour modifier l’un des paramètres par défaut de votre tirage, cliquez sur **Précédent**. Pour enregistrer votre travail ultérieurement sans approbation, cliquez sur **Fermer**.
 
 Si le tirage présente des problèmes, vous serez invité à les résoudre avant que le tirage ne soit approuvé.
 
-Félicitations ! Vous avez créé un tirage.
+Félicitations ! Vous avez créé un tirage.
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: Ajout d’une vidéo à une page d’entrée de forme libre - Docum
 title: Ajout d’une vidéo à une page d’entrée de forme libre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 2%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Placez des vidéos avec des options de partage sur vos pages d’entrée.
 
 >[!AVAILABILITY]
 >
->Tous les clients n’ont pas acheté cette fonctionnalité. Contactez votre représentant commercial pour plus d&#39;informations.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 1. Accédez à votre page d’entrée de formulaire libre et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. Faites glisser le curseur **Vidéo** des éléments sur la droite.
+1. Effectuez un glisser-déposer **Vidéo** des éléments sur la droite.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
@@ -33,7 +33,7 @@ Placez des vidéos avec des options de partage sur vos pages d’entrée.
 
    >[!NOTE]
    >
-   >Le **Créer** s’affiche uniquement dans les activités marketing ; il n’est pas disponible dans Design Studio. Seules les vidéos déjà créées sont disponibles dans Design Studio. Cependant, vous pouvez créer un partage vidéo. _dans un programme_ en sélectionnant **Nouveau** > **Nouvelle ressource locale**. Vous pouvez ensuite la sélectionner dans la liste déroulante, comme illustré ici.
+   >La variable **Créer** apparaît uniquement dans les activités marketing ; elle n’est pas disponible dans Design Studio. Seules les vidéos déjà créées sont disponibles dans Design Studio. Cependant, vous pouvez créer un partage vidéo. _dans un programme_ en sélectionnant **Nouveau** > **Nouvelle ressource locale**. Vous pouvez ensuite la sélectionner dans la liste déroulante, comme illustré ici.
 
 1. Saisissez l’URL de la vidéo YouTube, puis attribuez un nom à votre vidéo. Sous la liste déroulante Cloner à partir de , sélectionnez **Aucun**, puis cliquez sur **Insérer**.
 
