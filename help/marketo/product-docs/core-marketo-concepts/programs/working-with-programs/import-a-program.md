@@ -4,7 +4,7 @@ description: Importation d’un programme - Documents Marketo - Documentation du
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par 
 
 ## Importation d’un programme {#importing-a-program}
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/import-a-program-1.png)
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Programme d’importation**.
+1. Cliquez sur le bouton **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Programme d’importation]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,19 +31,19 @@ Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par 
    >
    >Pour connecter un compte sandbox à votre abonnement en direct, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Sélection d’une Marketo **Abonnement** et un programme à importer. Cliquez sur **Suivant**.
+1. Sélection d’une Marketo **[!UICONTROL Abonnement]** et un programme à importer. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Spécifiez un **Dossier Campaign** pour le programme importé. Cliquez sur **Suivant.**
+1. Spécifiez un **[!UICONTROL Dossier Campaign]** pour le programme importé. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Assurez-vous de **Utiliser le conflit par défaut** règles est sélectionnée. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les ressources portent le même nom.
+   >Assurez-vous de **[!UICONTROL Utiliser le conflit par défaut]** règles est sélectionnée. Des règles de conflit sont nécessaires lorsque vous importez des programmes dans une instance dont les ressources portent le même nom.
 
-1. Sélectionnez les détails de conflit de votre choix, puis cliquez sur **Suivant**.
+1. Sélectionnez les détails de conflit de votre choix, puis cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -51,7 +51,7 @@ Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par 
    >
    >Si vous importez un programme qui utilise des étapes de flux personnalisées ou des règles de liste dynamique dérivées d’un service d’étape de flux dans une instance de destination où il existe plusieurs fournisseurs de services compatibles, l’utilisateur importateur sera invité à affecter des étapes ou des règles au bon fournisseur dans l’instance de destination.
 
-1. Aperçu des détails et **Importer** le programme.
+1. Aperçu des détails et **[!UICONTROL Importer]** le programme.
 
    ![](assets/import-a-program-6.png)
 
@@ -75,7 +75,7 @@ Les programmes utilisent des ressources externes telles que des modèles de cour
 
 >[!CAUTION]
 >
->Le type d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme de type image mes jetons est importé, **non** les jetons passeront.
+>Le type d’image que mes jetons ne sont pas pris en charge pour les importations de programme. Si un programme de type image mes jetons est importé, _non_ les jetons passeront.
 
 **Balises de programme :** Vous pouvez utiliser des règles de conflit pour contrôler la manière dont les balises de programme qui n’existent pas dans le compte de destination seront traitées. L’utilisation de la règle par défaut crée les balises de programme ou vous pouvez choisir d’ignorer les balises.
 

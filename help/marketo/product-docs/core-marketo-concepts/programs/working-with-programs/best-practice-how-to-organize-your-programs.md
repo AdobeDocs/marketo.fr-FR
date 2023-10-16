@@ -4,20 +4,20 @@ description: Bonne pratique - Comment organiser vos programmes - Documents Marke
 title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '844'
 ht-degree: 4%
 
 ---
 
-# Bonne pratique : Organisation de vos programmes {#best-practice-how-to-organize-your-programs}
+# Bonne pratique : comment organiser vos programmes {#best-practice-how-to-organize-your-programs}
 
 Il existe de nombreuses façons d’organiser l’arborescence dans les activités marketing ainsi que le contenu d’un seul programme. Cependant, certaines solutions sont meilleures et aideront les personnes de votre service marketing.
 
 >[!TIP]
 >
->Un jour, (quand vous êtes promu !) quelqu&#39;un d&#39;autre essaiera de comprendre vos programmes. Une bonne organisation les aidera à être productifs rapidement.
+>Un jour (quand vous serez promu !), quelqu&#39;un d&#39;autre essaiera de donner du sens à vos programmes. Une bonne organisation les aidera à être productifs rapidement.
 
 ## Dossiers {#folders}
 
@@ -34,7 +34,7 @@ Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos p
 >      * Salons professionnels
 >      * Webinaires
 >   * Bulletins d’information
->   * Fidélisation
+>   * Nurture
 >   * Contenu Web
 >   * Formulaires Web
 >* Apprentissage
@@ -55,7 +55,7 @@ Chacun des éléments mentionnés dans l’exemple est un dossier. Remarquez com
 
 >[!TIP]
 >
->Le dossier &quot;Archive&quot; est un type spécial de dossier conçu pour supprimer des éléments des listes sélectionnées ainsi que des rapports. Cela permettra à votre système de s’exécuter plus rapidement. En savoir plus [en savoir plus sur les dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>Le dossier &quot;Archive&quot; est un type spécial de dossier conçu pour supprimer des éléments des listes sélectionnées ainsi que des rapports. Cela permettra à votre système de s’exécuter plus rapidement. Formation [en savoir plus sur les dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Vous pouvez certainement ajouter d’autres dossiers à votre gré. Gardez simplement à l’esprit que les futures générations de spécialistes du marketing de votre entreprise accompagneront vos décisions sur la manière de nommer/organiser des choses.
 
@@ -63,7 +63,7 @@ Vous pouvez certainement ajouter d’autres dossiers à votre gré. Gardez simpl
 
 Le nommage est essentiel, car les fonctions de Marketo utilisent toutes une langue commune pour communiquer. Pour les programmes, vous devez leur attribuer un nom unique. **Aucun programme ne peut porter le même nom.**. Il est recommandé d’utiliser le format suivant :
 
-[Abréviation du type de programme] [AAAA]-[MM]-[DD facultatif] [Description brève]
+[Abréviation du type de programme] [AAAA]-[MM]-[DD facultatif] [Description succincte]
 
 >[!NOTE]
 >
@@ -75,11 +75,11 @@ Le nommage est essentiel, car les fonctions de Marketo utilisent toutes une lang
 >1. Newsletter NL 2015-06
 >1. Le webinaire WBN 2015-12-01 ici
 
-Les noms de programme doivent être uniques dans votre abonnement, même en différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Pour les ressources locales dans les programmes, la règle est de **conserver le nom simple ;**. Il suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Puisqu’il s’agit d’un programme, le programme parent fait automatiquement partie du nom lorsqu’il est sélectionné ailleurs. En d’autres termes, les ressources locales ne doivent être uniques que dans le programme. Vous pouvez avoir des centaines de ressources nommées &quot;Invitation&quot;, chacune dans un programme différent et ça ne vous fera pas de mal.
+Les noms de programme doivent être uniques dans votre abonnement, même en différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Pour les ressources locales dans les programmes, la règle est de **conserver le nom simple**. Il suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Puisqu’il s’agit d’un programme, le programme parent fait automatiquement partie du nom lorsqu’il est sélectionné ailleurs. En d’autres termes, les ressources locales ne doivent être uniques que dans le programme. Vous pouvez avoir des centaines de ressources nommées &quot;Invitation&quot;, chacune dans un programme différent et ça ne vous fera pas de mal.
 
 ## Jetons {#tokens}
 
-Les jetons utilisent des dossiers et des programmes comme véhicule pour définir les variables à utiliser par les landing pages, les emails et autres ressources.
+Les jetons utilisent des dossiers et des programmes comme véhicule pour définir les variables à utiliser par les landing pages, les emails et d’autres ressources.
 
 L’organisation mentionnée ci-dessus vous permet de placer des jetons dans le dossier Événement afin qu’il soit ventilé en tous les événements.
 
@@ -91,13 +91,13 @@ L’organisation mentionnée ci-dessus vous permet de placer des jetons dans le 
 
 ## Événements {#events}
 
-Un événement comporte généralement de nombreux éléments mobiles, notamment : invitations, landing pages, formulaires, widgets sociaux et campagnes dynamiques. La bonne pratique pour les organiser pour en faciliter l’utilisation est d’abord la phase de l’événement. Voici un exemple de la manière dont votre arborescence de dossiers doit rechercher un événement.
+Un événement comporte généralement de nombreuses parties mobiles, notamment : invitations, landing pages, formulaires, widgets sociaux et campagnes intelligentes. La bonne pratique pour les organiser pour en faciliter l’utilisation est d’abord la phase de l’événement. Voici un exemple de la manière dont votre arborescence de dossiers doit rechercher un événement.
 
 ![](assets/capture.png)
 
-## Programmes d&#39;engagement {#engagement-programs}
+## Programmes d’engagement {#engagement-programs}
 
-En savoir plus [tout sur les programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). La meilleure façon d’organiser votre programme d’engagement est d’utiliser les dossiers. Créez un dossier pour chaque flux, puis placez les emails ou les programmes dans ce dossier. Incluez un dossier d’archive dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
+Formation [tout sur les programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. La meilleure façon d’organiser votre programme d’engagement est d’utiliser les dossiers. Créez un dossier pour chaque flux, puis placez les emails ou les programmes dans ce dossier. Incluez un dossier d’archive dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
 
 ## Programmes opérationnels {#operational-programs}
 
@@ -121,4 +121,4 @@ Certaines personnes abstraient même la plupart du texte des emails et des landi
 
 ## Sommaire {#summary}
 
-Comme vous pouvez le voir, Marketo a beaucoup de pouvoir. Nous avons traité des principes de base ici, mais considérez quelques-uns [Services supplémentaires des experts Marketo](https://www.marketo.com/services/) pour affiner et vous préparer à la réussite.
+Comme vous pouvez le voir, Marketo a beaucoup de pouvoir. Nous avons traité des principes de base ici, mais considérons les services supplémentaires de [Experts Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} pour parfaire et vous préparer à la réussite.

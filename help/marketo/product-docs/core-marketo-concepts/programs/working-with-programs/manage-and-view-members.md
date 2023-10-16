@@ -4,7 +4,7 @@ description: Gestion et affichage des membres - Documents Marketo - Documentatio
 title: Gestion et affichage des membres
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Vous pouvez gérer et afficher vos membres dans vos programmes à l’aide de l�
 
 >[!NOTE]
 >
->Exploration plus approfondie [abonnement au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Explorez plus en détail [abonnement au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Recherche d’un membre {#search-for-a-member}
 
 Au bas de la section Membres , utilisez le champ de recherche pour rechercher des membres du programme par nom, adresse électronique, titre de la tâche ou société.
 
-1. Cliquez sur le bouton **Membres** de votre programme.
+1. Cliquez sur le bouton **[!UICONTROL Membres]** de votre programme.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,21 +49,21 @@ Cliquez avec le bouton droit de la souris sur l’en-tête de colonne pour trier
 
 ## Sélectionner les colonnes visibles dans la grille {#choose-which-columns-are-visible-in-the-grid}
 
-1. Cliquez sur le bouton **Affichage** et sélectionnez **Créer une vue**.
+1. Cliquez sur le bouton **[!UICONTROL Affichage]** et sélectionnez **[!UICONTROL Créer une vue]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Nommez votre vue personnalisée. Sélectionnez les titres des colonnes. Cliquez sur **Ajouter** et **Supprimer** pour déplacer des colonnes et créer une vue.
+1. Nommez votre vue personnalisée. Sélectionnez les titres des colonnes. Cliquez sur **[!UICONTROL Ajouter]** et **[!UICONTROL Supprimer]** pour déplacer des colonnes et créer une vue.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Cliquez sur **Créer**.
+1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## Filtrage de la grille Membres  {#filter-the-members-grid}
 
-1. Cliquez sur le bouton **Filtrer** et sélectionnez une étape de progression à trier.
+1. Cliquez sur le bouton **[!UICONTROL Filtrer]** et sélectionnez une étape de progression à trier.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Cliquez avec le bouton droit de la souris sur l’en-tête de colonne pour trier
 
 Vous pouvez modifier le statut de vos personnes dans la grille membres.
 
-1. Maintenir enfoncée **Ctrl/Cmd** et sélectionnez les personnes.
+1. Maintenir enfoncée **[!UICONTROL Ctrl/Cmd]** et sélectionnez les personnes.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Cliquez sur le bouton **Modifier l’état** et sélectionnez un état.
+1. Cliquez sur le bouton **[!UICONTROL Modifier l’état]** et sélectionnez un état.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ Tant de fonctions, mais elles sont toutes assez simples. Bon appétit !
 
 >[!MORELIKETHIS]
 >
->[Création d’un rapport Performance de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[Création d’un rapport Performance de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

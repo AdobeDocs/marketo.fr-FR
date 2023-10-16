@@ -3,9 +3,9 @@ description: Synchronisation des champs personnalisés des membres du programme 
 title: Synchronisation des champs personnalisés des membres du programme
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '353'
 ht-degree: 7%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 7%
 
 ## Faire correspondre les champs Salesforce aux champs personnalisés des membres du programme {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Cliquez sur **Salesforce**, puis cliquez sur **Modifier** en regard de Synchronisation des champs personnalisés des membres du programme.
+1. Cliquez sur **[!DNL Salesforce]**, puis cliquez sur **[!UICONTROL Modifier]** en regard de Synchronisation des champs personnalisés des membres du programme.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Utilisez la zone de recherche pour localiser les champs Salesforce que vous souhaitez mapper. Dans cet exemple, nous utilisons Ne pas appeler.
+1. Utilisez la zone de recherche pour localiser les champs Salesforce à mapper. Dans cet exemple, nous utilisons Ne pas appeler.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 7%
 
 1. Pour d’autres mappages de champ, désélectionnez la zone de recherche et répétez les étapes 3 à 5.
 
-1. Cliquez sur **Enregistrer** une fois terminé.
+1. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 7%
 
 Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter une modification générale, vous devez d’abord effectuer un démapping. Voici comment.
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Cliquez sur **Salesforce**, puis cliquez sur **Modifier** en regard de Synchronisation des champs personnalisés des membres du programme.
+1. Cliquez sur **[!DNL Salesforce]**, puis cliquez sur **[!UICONTROL Modifier]** en regard de Synchronisation des champs personnalisés des membres du programme.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
 
    >[!TIP]
    >
-   >Vous pouvez sélectionner la variable **Mappé** pour afficher uniquement les champs mappés.
+   >Vous pouvez sélectionner la variable **[!UICONTROL Mappé]** pour afficher uniquement les champs mappés.
 
 1. Annuler le mappage en cliquant sur le bouton **X** en regard du champ .
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. Le mappage est maintenant supprimé. Cliquez sur **Enregistrer**.
+1. Le mappage est maintenant supprimé. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 

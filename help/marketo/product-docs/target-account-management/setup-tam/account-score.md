@@ -4,7 +4,7 @@ description: Score de compte - Documents Marketo - Documentation du produit
 title: Évaluation du compte
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 1%
@@ -59,7 +59,7 @@ Une fois que vous avez configuré le score de piste, procédez comme suit.
 
 1. Cliquez sur **Administration**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. Cliquez sur **Gestion de compte Target**.
 
@@ -75,12 +75,12 @@ Une fois que vous avez configuré le score de piste, procédez comme suit.
 
 1. Saisissez le nom du score du compte, puis cliquez sur le bouton **Sélectionner le score de personne** et sélectionnez le score correspondant.
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
 1. Cliquez sur **+Ajouter** pour ajouter d’autres scores.
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. Ajoutez tous les scores souhaités. Cliquez sur **Enregistrer** une fois terminé.
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)

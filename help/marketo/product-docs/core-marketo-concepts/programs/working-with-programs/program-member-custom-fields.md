@@ -4,7 +4,7 @@ description: Champs personnalisés des membres du programme - Documents Marketo 
 title: Champs personnalisés des membres du programme
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -13,19 +13,19 @@ ht-degree: 1%
 
 # Champs personnalisés des membres du programme {#program-member-custom-fields}
 
-Les champs personnalisés Membres du programme vous permettent de collecter des données spécifiques au programme pour chaque membre. Ils peuvent être utilisés dans : Formulaires Marketo, filtres et déclencheurs de liste dynamique et actions de flux de campagne dynamique. Les données sont visibles dans l’onglet Membres du programme.
+Les champs personnalisés Membres du programme vous permettent de collecter des données spécifiques au programme pour chaque membre. Ils peuvent être utilisés dans les formulaires Marketo, les filtres et déclencheurs de liste dynamique et les actions de flux de campagne dynamique. Les données sont visibles dans l’onglet Membres du programme.
 
 ## Créer un champ personnalisé de membre de programme {#create-a-program-member-custom-field}
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Gestion des champs**.
+1. Cliquez sur **[!UICONTROL Gestion des champs]**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Nouveau champ personnalisé**.
+1. Cliquez sur **[!UICONTROL Nouveau champ personnalisé]**.
 
    ![](assets/three.png)
 
@@ -37,13 +37,13 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
    >
    >Les champs personnalisés Personne et Membre du programme ne peuvent pas partager le même nom.
 
-1. Renseignez les champs restants et cliquez sur **Créer**.
+1. Renseignez les champs restants et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Les types pris en charge pour les champs personnalisés des membres du programme sont les suivants : booléen, date, datetime, float, entier, chaîne, URL. [En savoir plus sur les types de champ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Les types pris en charge pour les champs personnalisés des membres du programme sont les suivants : booléen, date, date et heure, réel, entier, chaîne, URL. [En savoir plus sur les types de champ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Descriptions des objets {#object-descriptions}
 
@@ -52,7 +52,7 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 | Société | Nom de la société associée à la personne. |
 | Opportunité | Une opportunité peut être associée à une personne ou à un compte en tant que vente future potentielle. Ils accèdent généralement à Marketo par le biais d’un CRM ou d’une API. |
 | Individu | Personne de la base de données Marketo avec laquelle vous interagissez par le biais de campagnes marketing. |
-| Membre du programme | Personne qui est également membre d’un programme |
+| Membre du programme | Personne également membre d’un programme |
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 

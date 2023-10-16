@@ -4,9 +4,9 @@ description: Suppression d’un programme - Documents Marketo - Documentation du
 title: Suppression d’un programme
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Vous pouvez archiver un programme, mais parfois vous voulez simplement vous en d
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Cliquez sur **Actions de programme**. Cliquez sur **Supprimer**.
+1. Cliquez sur le bouton **[!UICONTROL Actions de programme]** et sélectionnez **[!UICONTROL Supprimer]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Sélectionnez l&#39;option Tout supprimer . Vérifiez les effets secondaires de la suppression du programme, puis cliquez sur **Supprimer** pour confirmer.
+1. Sélectionnez le bouton radio &quot;Tout supprimer&quot;. Vérifiez les effets de la suppression du programme, puis cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
 
 >[!TIP]
 >
->**Archivage des programmes** conserve les données du programme mais met le programme hors de votre chemin. Sélectionnez cette option, puis cliquez sur **Suivant** pour en savoir plus sur l’archivage.
+>L’archivage des programmes conserve les données du programme mais met le programme hors de votre portée. Sélectionnez cette option, puis cliquez sur **[!UICONTROL Suivant]** pour en savoir plus sur l’archivage.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -37,13 +37,13 @@ Fait. C&#39;est comme si le programme n&#39;avait jamais existé.
 
 Les programmes peuvent contenir des ressources utilisées ailleurs dans le système, ce qui vous empêchera de supprimer un programme.
 
-Pour résoudre le problème, vous devrez peut-être descendre dans la hiérarchie et annuler/supprimer l’approbation. Suivez ces étapes.
+Pour résoudre le problème, vous devrez peut-être effectuer une analyse approfondie et annuler/supprimer l’approbation. Suivez ces étapes.
 
 1. Cliquez sur le lien pour accéder à la ressource.
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Cliquez sur **Utilisé par** pour voir où la ressource est utilisée.
+1. Cliquez sur **[!UICONTROL Utilisé par]** pour voir où la ressource est utilisée.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

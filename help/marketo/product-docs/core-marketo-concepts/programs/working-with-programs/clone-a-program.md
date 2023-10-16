@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147110
-description: Clonage d’un programme - Documents Marketo - Documentation du produit
+description: Cloner un programme - Documents Marketo - Documentation du produit
 title: Clonage d’un programme
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cloner rapidement et facilement un programme entier et tous ses actifs au lieu de tout recréer manuellement.
 
-1. Recherchez et sélectionnez le programme à cloner, puis sous **Actions de programme** click **Cloner**.
+1. Recherchez et sélectionnez le programme que vous souhaitez cloner. Dans le **[!UICONTROL Actions de programme]** menu déroulant, cliquez sur **[!UICONTROL Cloner]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -31,7 +31,7 @@ Cloner rapidement et facilement un programme entier et tous ses actifs au lieu d
    >
    >Voir cette REMARQUE dans la capture d’écran ci-dessus ? Cela signifie que si vous cloner un programme avec 1 000 personnes ou plus dans une liste, la liste elle-même sera clonée, mais elle sera vide. Si vous clonez un programme avec une liste contenant 999 personnes ou moins, cette liste, ainsi que tous ses membres, s’affichera dans le programme cloné.
 
-1. Saisissez un Nom.
+1. Saisissez un [!UICONTROL Nom].
 
    ![](assets/cloneprogramname.png)
 
@@ -39,13 +39,13 @@ Cloner rapidement et facilement un programme entier et tous ses actifs au lieu d
 
    ![](assets/choosefolderclone.png)
 
-1. Ajoutez une description facultative, puis cliquez sur **Créer**. Regardez à quelle vitesse vous avez pu créer un nouveau programme avec toutes ses ressources prêtes à l’emploi !
+1. Ajoutez une description facultative, puis cliquez sur **[!UICONTROL Créer]**. Regardez à quelle vitesse vous avez pu créer un nouveau programme avec toutes ses ressources prêtes à l’emploi !
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >Utilisez cette technique avec les jetons pour accélérer la création de programmes.
+   >Utilisez cette technique avec les jetons pour accélérer la création d’un programme.
 
    >[!CAUTION]
    >
