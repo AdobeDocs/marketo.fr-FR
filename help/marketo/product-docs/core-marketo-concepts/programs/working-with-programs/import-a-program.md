@@ -4,32 +4,32 @@ description: Importation d’un programme - Documents Marketo - Documentation du
 title: Importation d’un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # Importation d’un programme {#import-a-program}
 
-Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par exemple, vous pouvez créer un programme dans un environnement de test, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme prédéfini à partir de la bibliothèque de programmes Marketo.
+Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par exemple, vous pouvez créer un programme dans un environnement de test, puis l’importer dans votre abonnement en direct. En outre, vous pouvez importer un programme prédéfini à partir du [Bibliothèque de programmes Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## Importation d’un programme {#importing-a-program}
 
-1. Accédez à **Activités marketing.**
+1. Accédez à **Activités marketing**.
 
    ![](assets/import-a-program-1.png)
 
-1. Cliquez sur **Nouveau** déroulant. Sélectionner **Programme d’importation**.
+1. Cliquez sur le bouton **Nouveau** et sélectionnez **Programme d’importation**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation Importer un programme est activée. En savoir plus sur [gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >L’importation de programme n’est disponible que pour les utilisateurs pour lesquels l’autorisation Importer un programme est activée. En savoir plus sur [gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Pour connecter un compte sandbox à votre abonnement en direct, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Pour connecter un compte sandbox à votre abonnement en direct, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Sélection d’une Marketo **Abonnement** et un programme à importer. Cliquez sur **Suivant**.
 
@@ -63,13 +63,13 @@ Une fois l&#39;import terminé, vous recevrez une confirmation par email.
 
 ## Impact sur les ressources externes lors des importations de programme {#impact-on-external-assets-during-program-imports}
 
-Les programmes utilisent des ressources externes telles que des modèles d’email, des modèles de landing page, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de landing page et les balises de programme sont traités, et Marketo gère automatiquement le reste.
+Les programmes utilisent des ressources externes telles que des modèles de courrier électronique, des modèles de page d’entrée, des images, des formulaires, des jetons et des balises de programme. Vous pouvez configurer la manière dont les modèles de page d’entrée et les balises de programme sont traités, et Marketo gère automatiquement le reste.
 
-**Modèles de courrier électronique/page d’entrée :** Les modèles Email/Landing Page sont importés dans Design Studio. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. Avec la règle par défaut, un nombre sera ajouté à un modèle s’il existe un modèle portant le même nom. Par exemple, si vous disposez déjà d’un modèle nommé &quot;Modèle standard&quot;, le nouveau modèle sera nommé &quot;Modèle standard - 1&quot;.
+**Modèles de courrier électronique/page d’entrée :** Les modèles Email/Landing Page sont importés dans Design Studio. Vous pouvez utiliser des règles de conflit pour configurer le comportement lorsqu’il existe un modèle portant le même nom. Avec la règle par défaut, un nombre sera ajouté à un modèle s’il existe un modèle portant le même nom. Par exemple, si vous disposez déjà d’un modèle nommé &quot;Modèle standard&quot;, le nouveau modèle s’intitule &quot;Modèle standard - 1&quot;.
 
-**Pages d’entrée/Forms :** Si un formulaire ou une landing page portant le même nom existe dans Design Studio, ils seront toujours importés, mais avec un numéro ajouté à leur nom (ex : Page d’entrée - 1).
+**Pages d’entrée/Forms :** S’il existe un formulaire ou une page d’entrée portant le même nom dans Design Studio, ils seront toujours importés, mais un numéro sera ajouté à leur nom (ex : Page d’entrée - 1).
 
-**Images :** Les images utilisées par les landing pages sont importées dans le studio de conception, sauf si elles portent le même nom.
+**Images :** Les images utilisées par les landing pages sont importées dans l’atelier de conception, sauf si elles portent le même nom.
 
 **Jetons :** Les jetons qui se trouvent en dehors d’un programme sont convertis en jetons locaux lors du processus d’importation.
 
@@ -81,4 +81,4 @@ Les programmes utilisent des ressources externes telles que des modèles d’ema
 
 >[!CAUTION]
 >
->Lors de l&#39;import d&#39;un programme, les emails/landing pages contenant [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) sera ignorée.
+>Lors de l&#39;import d&#39;un programme, les emails/landing pages contenant [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} sera ignorée.
