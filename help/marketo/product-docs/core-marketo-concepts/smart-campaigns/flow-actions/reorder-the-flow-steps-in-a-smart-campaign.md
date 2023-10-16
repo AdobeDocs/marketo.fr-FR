@@ -4,7 +4,7 @@ description: Réorganiser les étapes de flux dans une campagne dynamique - Docu
 title: Réorganiser les étapes de flux dans une campagne dynamique
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 17662d6c45ced21053fe18506ee79bb4b8f10c10
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Les étapes de flux s’exécutent de haut en bas. Voici comment réorganiser le
 
 1. Dans l’onglet Flux de campagne dynamique , faites glisser l’étape de flux vers l’emplacement de votre choix.
 
-![](assets/image2014-9-22-13-3a49-3a11.png)
+![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
