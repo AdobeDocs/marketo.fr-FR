@@ -4,16 +4,16 @@ description: Présentation des balises - Documents Marketo - Documentation du pr
 title: Présentation des balises
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 3%
 
 ---
 
 # Présentation des balises {#understanding-tags}
 
-Vous savez probablement maintenant que les programmes sont comme des blocs de construction dans Marketo. L’utilisation de balises et de canaux vous aidera à filtrer les données à des fins de création de rapports.
+Vous savez probablement maintenant que les programmes sont comme des blocs de construction en Marketo Engage. L’utilisation de balises et de canaux vous aidera à filtrer les données à des fins de création de rapports.
 
 Les balises sont utilisées pour décrire les programmes. Vous pouvez en créer autant que nécessaire, chacun avec des valeurs uniques. Les canaux identifient le mécanisme de diffusion dans un programme, tel qu’un webinaire, un parrainage ou une publicité en ligne.
 
@@ -23,7 +23,7 @@ Les types de balises identifient le type d’informations que vous souhaitez tri
 
 >[!TIP]
 >
->Contactez votre [Administration de Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md) si vous souhaitez créer des balises personnalisées.
+>Contactez votre administrateur Marketo si vous souhaitez créer [balises personnalisées](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Chaque type de balise comporte des valeurs.
 
 ## Canal {#channel}
 
-Les canaux sont utilisés pour créer des rapports sur la manière dont vos [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) a suivi votre programme. Chaque canal comporte un ensemble d’états de progression et un état défini sur une réussite égale.
+Les canaux sont utilisés pour créer des rapports sur la manière dont vos [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} a suivi votre programme. Chaque canal comporte un ensemble d’états de progression et un état défini sur une réussite égale.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ Les canaux sont utilisés pour créer des rapports sur la manière dont vos [mem
 
 >[!MORELIKETHIS]
 >
->* [Créer des balises personnalisées](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [Création d’un canal de programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [Créer des balises personnalisées](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [Création d’un canal de programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

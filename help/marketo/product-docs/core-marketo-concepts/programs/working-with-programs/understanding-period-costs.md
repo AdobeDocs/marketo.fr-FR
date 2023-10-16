@@ -4,9 +4,9 @@ description: Présentation des coûts de la période - Documents Marketo - Docum
 title: Présentation des coûts de la période
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Les coûts par période se rapportent à l’argent que vous dépensez au cours 
 >
 >Si vous dépensez 1 000 $ pour engager un illustrateur dans un livre électronique lancé en juillet, le programme eBook aura un coût de 1 000 $ en juillet.
 >
->Si vous dépensez 200 $ par mois dans Google AdWords, le programme Google AdWords aura un coût de 200 $ **chaque mois**.
+>Si vous dépensez 200 $ par mois pour [!DNL Google Adwords] - le [!DNL Google Adwords] Le programme aurait un coût de 200 $ pour une période _chaque mois_.
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ Les coûts par période se rapportent à l’argent que vous dépensez au cours 
 
 Imaginez un événement, comme un webinaire, qui se produit en mars. De nouvelles personnes sont acquises à l&#39;avance grâce à la publicité en janvier et février. De nouveaux contacts sont également acquis après l&#39;événement, lorsque les téléspectateurs téléchargent le webinaire dans les mois d&#39;avril et mai.
 
-1. Avec un coût de période unique attribué au mois de mars...
+1. Avec un coût de période unique attribué à mars...
 
    ![](assets/graph1.png)
 
-   ...Les contacts ajoutés dans les mois précédant et suivant seront *only* comptez jusqu&#39;à mars.
+   ...les contacts ajoutés dans les mois précédant et suivant seront *only* comptez jusqu&#39;au mois de mars.
 
    ![](assets/graph2.png)
 
@@ -47,7 +47,7 @@ Imaginez un événement, comme un webinaire, qui se produit en mars. De nouvelle
 
    ![](assets/graph3.png)
 
-   ...Les contacts ajoutés uniquement dans les mois qui suivent le mois de mars seront pris en compte pour le mois de mars.
+   ...les contacts ajoutés uniquement dans les mois qui suivent le mois de mars seront pris en compte pour le mois de mars.
 
    ![](assets/graph4.png)
 
@@ -55,13 +55,13 @@ Imaginez un événement, comme un webinaire, qui se produit en mars. De nouvelle
 
    ![](assets/graph5.png)
 
-   ...Les contacts ajoutés dans les mois de janvier à mars seront pris en compte pour janvier. Les contacts ajoutés au mois d&#39;avril et mai seront pris en compte jusqu&#39;au mois d&#39;avril.
+   ...les contacts ajoutés dans les mois de janvier à mars seront pris en compte pour janvier. Les contacts ajoutés au mois d&#39;avril et mai seront pris en compte jusqu&#39;au mois d&#39;avril.
 
    ![](assets/graph6.png)
 
    >[!NOTE]
    >
-   >En résumé : les mois sans période définie sont décalés vers l’arrière vers le dernier mois défini. S’il n’y a aucun coût de période précédente, les mois seront reportés à la période suivante qui a été définie. Si un coût de période n’a pas été défini pour _any_ Les mois suivants, les rapports du RCE ne seront pas disponibles pour le programme.
+   >En résumé : les mois sans période définie sont décalés vers l’arrière vers le dernier mois défini. S’il n’y a aucun coût de période précédente, les mois seront reportés à la période suivante qui a été définie. Si un coût de période n’a pas été défini pour _any_ Les mois suivants, les rapports dans le RCE ne seront pas disponibles pour le programme.
 
    >[!MORELIKETHIS]
    >

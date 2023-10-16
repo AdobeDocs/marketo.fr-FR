@@ -4,7 +4,7 @@ description: Présentation des campagnes dynamiques par lots et par déclencheme
 title: Présentation des campagnes dynamiques par lots et par déclenchement
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 3%
@@ -27,14 +27,14 @@ Les campagnes par lots ne comportent que des filtres dans la section Liste dynam
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Cliquez sur le bouton **Planification** confirme que la campagne dynamique est définie sur &quot;Lot&quot;.
+Cliquez sur le bouton **[!UICONTROL Planification]** confirme que la campagne dynamique est définie sur &quot;Lot&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campagnes dynamiques par lots**
 
 * Peuvent être planifiées pour des récurrences, telles que quotidiennes, hebdomadaires et mensuelles. Vous pouvez également les faire exécuter une seule fois.
-* sont visibles dans la variable [vue planning du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Tout ce qui suit une étape &quot;Attente&quot; dans la campagne dynamique ne sera pas inclus dans la vue.
+* sont visibles dans la variable [vue planning du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Tout ce qui suit une étape &quot;Attente&quot; dans la campagne dynamique ne sera pas inclus dans la vue.
 
 <br> 
 
@@ -50,7 +50,7 @@ Si une campagne dynamique utilise au moins un déclencheur dans la section Liste
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Cliquez sur le bouton **Planification** confirme que la campagne dynamique est définie sur &quot;Déclenchée&quot;.
+Cliquez sur le bouton **[!UICONTROL Planification]** confirme que la campagne dynamique est définie sur &quot;Déclenchée&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
@@ -61,4 +61,4 @@ Cliquez sur le bouton **Planification** confirme que la campagne dynamique est d
 
 >[!TIP]
 >
->Utilisez la variable [journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) pour savoir ce qui s’est passé pas à pas dans vos campagnes dynamiques. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.
+>Utilisez la variable [journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} pour savoir ce qui s’est passé pas à pas dans vos campagnes dynamiques. Le journal des activités se trouve dans le dernier onglet de la page des détails d’une personne.

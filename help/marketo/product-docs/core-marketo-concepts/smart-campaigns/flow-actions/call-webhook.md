@@ -4,7 +4,7 @@ description: Appel de Webhook - Documents Marketo - Documentation du produit
 title: Appeler le Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->[Création d’un webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[Création d’un webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
 ## Vue d’ensemble {#overview}
 
@@ -25,11 +25,11 @@ Les webhooks vous permettent d’interagir avec des services tiers. Envoyez/rece
 
 >[!NOTE]
 >
->Découvrez les nombreuses choses fascinantes qui [Webhooks](https://developers.marketo.com/documentation/webhooks/) peut le faire pour vous.
+>Apprenez-en plus sur les nombreuses choses fascinantes qui [Webhooks](https://developers.marketo.com/documentation/webhooks/){target="_blank"} peut le faire pour vous.
 
 ## Utilisation {#usage}
 
-Sélectionnez une **Webhook** dans la liste déroulante.
+Sélectionnez un webhook dans la liste déroulante.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
@@ -37,4 +37,4 @@ C&#39;est tout ! Votre webhook sera désormais appelé chaque fois que des perso
 
 >[!MORELIKETHIS]
 >
->[Utilisation d’un webhook dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[Utilisation d’un webhook dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md){target="_blank"}

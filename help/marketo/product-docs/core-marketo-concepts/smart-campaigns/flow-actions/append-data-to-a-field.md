@@ -4,7 +4,7 @@ description: Ajout de données à un champ - Documents Marketo - Documentation d
 title: Ajout de données à un champ
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
 
 >[!PREREQUISITES]
 >
->[Création d’une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Création d’une campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->Les étapes ci-dessous s’appliquent également à [Modification des données des membres du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>Les étapes ci-dessous s’appliquent également à [Modification des données des membres du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. Sous , **Flux** , effectuez un glisser-déposer dans la **Modifier la valeur des données** étape de flux.
+1. Sous , **[!UICONTROL Flux]** , effectuez un glisser-déposer dans la **[!UICONTROL Modifier la valeur des données]** étape de flux.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

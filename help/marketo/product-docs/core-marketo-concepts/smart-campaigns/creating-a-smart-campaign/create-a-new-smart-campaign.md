@@ -4,9 +4,9 @@ description: Création d’une campagne dynamique - Documents Marketo - Document
 title: Création d’une campagne dynamique
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Les campagnes intelligentes sont l’outil le plus important en Marketo Engage. 
 >
 >En savoir plus sur [Campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Cliquez avec le bouton droit de la souris sur le programme de votre choix, puis sélectionnez **Nouvelle campagne dynamique**.
+1. Cliquez avec le bouton droit de la souris sur le programme de votre choix, puis sélectionnez **[!UICONTROL Nouvelle campagne dynamique]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,11 +31,11 @@ Les campagnes intelligentes sont l’outil le plus important en Marketo Engage. 
    >
    >Vous pouvez créer des campagnes dynamiques en tant qu’actifs locaux de n’importe quel programme.
 
-1. Saisissez le nom de la campagne dynamique et cliquez sur **Créer**.
+1. Saisissez le nom de la campagne dynamique et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 
-   Ensuite, apprenez à définir les personnes à exécuter dans la campagne dynamique avec une liste dynamique.
+   Ensuite, apprenez à définir les personnes à exécuter par le biais de la campagne dynamique avec une liste dynamique.
 
    >[!MORELIKETHIS]
    >

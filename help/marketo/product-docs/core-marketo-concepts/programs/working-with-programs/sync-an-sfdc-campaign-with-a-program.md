@@ -4,9 +4,9 @@ description: Synchronisation d’une campagne SFDC avec un programme - Documents
 title: Synchronisation d’une campagne SFDC avec un programme
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage vous permet de synchroniser vos programmes avec [!DNL Salesforce]
 
 >[!PREREQUISITES]
 >
->Vous devrez [enable [!DNL Salesforce] synchronisation des campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) en premier.
+>Vous devrez [enable [!DNL Salesforce] synchronisation des campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} en premier.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketo Engage vous permet de synchroniser vos programmes avec [!DNL Salesforce]
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Sélectionner **[!UICONTROL Créer]** ou sélectionnez une campagne Salesforce existante.
+1. Sélectionner **[!UICONTROL Créer]** ou choisir un [!DNL Salesforce] campaign.
 
    >[!TIP]
    >
-   >Si vous sélectionnez une campagne Salesforce existante, veillez à [correspondent aux états de programme de la campagne Salesforce et du programme Marketo.](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Si vous sélectionnez un [!DNL Salesforce] campaign, veillez à [correspondent aux états du programme de la fonction [!DNL Salesforce] campaign et le programme Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Saisissez le nom de la nouvelle campagne, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
