@@ -3,7 +3,7 @@ description: Exécuter Campaign - Documents Marketo - Documentation du produit
 title: Lancer la campagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 1%
@@ -32,17 +32,17 @@ Exécuter Campaign est une amélioration de la fonctionnalité [Demande de campa
 
 ## Création d’une campagne exécutable {#how-to-create-an-executable-campaign}
 
-1. Cliquez avec le bouton droit sur le programme de votre choix et sélectionnez **Nouvelle campagne dynamique**.
+1. Cliquez avec le bouton droit sur le programme de votre choix et sélectionnez **[!UICONTROL Nouvelle campagne dynamique]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Attribuez-lui un nom, sélectionnez la variable **Exécutable** puis cliquez sur **Créer**.
+1. Attribuez-lui un nom, sélectionnez la variable **[!UICONTROL Exécutable]** puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Définissez la liste dynamique et le flux, comme toute autre campagne dynamique.
 
-Vous pouvez également cloner une campagne dynamique existante. Si vous clonez une campagne exécutable existante, vous devrez toujours sélectionner la variable **Exécutable** après l’avoir nommée.
+Vous pouvez également cloner une campagne dynamique existante. Si vous clonez une campagne exécutable existante, vous devrez toujours sélectionner la variable **[!UICONTROL Exécutable]** après l’avoir nommée.
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ Lors de l’utilisation d’une planification ou d’une requête de campagne [d
 
 >[!CAUTION]
 >
->Ne laissez jamais vos listes dynamiques pour les campagnes exécutables non valides, sinon **personne** est admissible pour cette modification. La bonne pratique consiste à créer des ressources de liste dynamique distinctes, à les définir complètement et à s’assurer qu’elles sont valides. Ensuite, utilisez le filtre &quot;Membre de la liste dynamique&quot; dans la campagne exécutable afin de pouvoir échanger votre définition de liste dynamique.
+>Ne laissez jamais vos listes dynamiques pour les campagnes exécutables non valides, sinon _personne_ est admissible pour cette modification. La bonne pratique consiste à créer des ressources de liste dynamique distinctes, à les définir complètement et à s’assurer qu’elles sont valides. Ensuite, utilisez le filtre &quot;Membre de la liste dynamique&quot; dans la campagne exécutable afin de pouvoir échanger votre définition de liste dynamique.
 
 ## Exemple d’héritage du jeton {#token-inheritance-example}
 
-Vous trouverez ci-dessous un exemple visuel de l’héritage du jeton dans une campagne exécutable et deux campagnes parents : l’une avec le contexte du jeton défini sur **True**, l’autre **False**.
+Vous trouverez ci-dessous un exemple visuel de l’héritage du jeton dans une campagne exécutable et deux campagnes parents : l’une avec le contexte du jeton défini sur **[!UICONTROL True]**, l’autre **[!UICONTROL False]**.
 
 Campagne enfant avec une note de changement symbolique.
 
@@ -87,7 +87,7 @@ La campagne enfant est Mes jetons.
 
 ![](assets/execute-campaign-4.png)
 
-**Exemple 1 - Vrai**
+### Exemple 1 - Vrai {#example-one-true}
 
 À l’étape du flux Exécuter la campagne de la première campagne parente, le paramètre &quot;Utiliser le contexte du jeton de campagne parent&quot; est défini sur **True**.
 
@@ -101,7 +101,7 @@ Résultats : le score a changé de +10.
 
 ![](assets/execute-campaign-7.png)
 
-**Exemple 2 : False**
+### Exemple 2 : False {#example-two-false}
 
 À l’étape du flux Exécuter la campagne du second parent, le paramètre &quot;Utiliser le contexte du jeton de campagne parent&quot; est défini sur **False**.
 

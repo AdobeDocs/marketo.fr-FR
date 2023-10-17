@@ -1,28 +1,28 @@
 ---
-description: Service d’étape de flux - Documents Marketo - Documentation du produit
+description: Service Flux - Documents Marketo - Documentation du produit
 title: Service d’étape de flux
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
 
 # Service d’étape de flux {#flow-step-service}
 
-Les étapes de flux en libre-service constituent une structure et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous à la section [Référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Les étapes de flux en libre-service constituent une structure et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous au [Référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Intégration et gestion des services {#onboarding-and-managing-services}
 
-L’installation d’une étape de flux personnalisé nécessite des autorisations d’administrateur dans Marketo (**Gestion des webhooks** dans la version du 21 janvier, Modification dans la version du 11 mars). Outre l’URL d’installation, tous les autres aspects d’un service peuvent être modifiés après l’intégration initiale en parcourant l’écran des détails du service dans la grille Fournisseurs de service .
+L’installation d’une étape de flux personnalisé nécessite des autorisations d’administrateur dans Marketo. Outre l’URL d’installation, tous les autres aspects d’un service peuvent être modifiés après l’intégration initiale en parcourant l’écran des détails du service dans la grille Fournisseurs de service .
 
 ## URL d’installation {#installation-url}
 
 Pour commencer l’installation, vous devez d’abord obtenir l’URL du document OpenAPI qui définit votre service. Votre fournisseur de services doit être en mesure de vous fournir cette information et aura généralement une URL se terminant par `/openapi.json`. Les URL complètes ressembleront à `https://www.example.com/OpenAPI.json`. Une fois que vous disposez de cette URL, accédez au menu Fournisseurs de services de votre section d’administration.
 
-Cliquez sur **Suivant** pour accéder à la section Entrer les informations d’identification du service .
+Cliquez sur **[!UICONTROL Suivant]** pour accéder à la section Entrer les informations d’identification du service .
 
 ![](assets/flow-step-service-1.png)
 
@@ -48,7 +48,7 @@ Les mappages de champs facultatifs peuvent être désactivés sans interruption 
 
 ## Mappages pilotés par le service {#service-driven-mappings}
 
-Les services qui disposent d’un ensemble fixe d’entrées et de sorties, comme une étape de flux d’enregistrement d’événement, utilisent **Mappages pilotés par le service**. Pour ce type de mappage, le fournisseur de services fournira un type de données et un indice sous la forme d’un nom d’API. Si l’indice correspond au nom de l’API d’un champ de piste existant, ce champ est automatiquement renseigné dans la section de mappage. Pour les champs sans indice correspondant, vous devez renseigner manuellement le mappage à partir de la liste des champs avec le type de données correspondant. Les mappages requis doivent être renseignés pour terminer l’intégration.
+Les services qui comportent un ensemble fixe d’entrées et de sorties, comme une étape de flux d’enregistrement d’événement, utilisent **Mappages pilotés par le service**. Pour ce type de mappage, le fournisseur de services fournira un type de données et un indice sous la forme d’un nom d’API. Si l’indice correspond au nom de l’API d’un champ de piste existant, ce champ est automatiquement renseigné dans la section de mappage. Pour les champs sans indice correspondant, vous devez renseigner manuellement le mappage à partir de la liste des champs avec le type de données correspondant. Les mappages requis doivent être renseignés pour terminer l’intégration.
 
 ![](assets/flow-step-service-2.png)
 
@@ -74,7 +74,7 @@ Certains services disposent d’options de configuration globales facultatives o
 
 ## Retrait d’un service {#retiring-a-service}
 
-Pour faciliter la transition vers de nouvelles versions ou des versions alternatives d’un service, sans perturber l’utilisation principale, les services peuvent être retirés du menu Fournisseurs de services . **Retrait d’un service** supprime l’étape de flux correspondante de la palette Flux de campagne dynamique, de sorte qu’aucune nouvelle utilisation ne puisse être créée. Dans la plupart des cas, un service de remplacement doit être prêt à remplacer le service existant lorsque vous choisissez de retirer un service.
+Pour faciliter la transition vers des versions nouvelles ou alternatives d’un service, sans interrompre l’utilisation active, les services peuvent être retirés du menu Fournisseurs de services . **Retrait d’un service** supprime l’étape de flux correspondante de la palette Flux de campagne dynamique, de sorte qu’aucune nouvelle utilisation ne puisse être créée. Dans la plupart des cas, un service de remplacement doit être prêt à remplacer le service existant lorsque vous choisissez de retirer un service.
 
 ## Abandon de service {#service-deprecation}
 

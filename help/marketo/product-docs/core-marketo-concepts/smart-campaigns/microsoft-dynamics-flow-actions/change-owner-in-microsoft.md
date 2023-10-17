@@ -4,7 +4,7 @@ description: Modifier le propriétaire dans Microsoft - Documents Marketo - Docu
 title: Changer de propriétaire dans Microsoft
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Si des personnes existantes sont déjà affectées à un propriétaire, vous pou
 
 >[!NOTE]
 >
->Cette étape de flux va **fonctionne uniquement lorsqu’il est utilisé avec des déclencheurs**, et non les filtres, dans votre campagne dynamique.
+>Cette étape de flux va _fonctionne uniquement lorsqu’il est utilisé avec des déclencheurs_, et non les filtres, dans votre campagne dynamique.
 
 ![](assets/one-1.png)
 

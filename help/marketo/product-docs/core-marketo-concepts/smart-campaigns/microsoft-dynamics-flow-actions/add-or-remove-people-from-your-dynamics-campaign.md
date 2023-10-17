@@ -3,9 +3,9 @@ description: Ajouter ou supprimer des personnes de votre campagne Dynamics - Doc
 title: Ajouter ou supprimer des personnes de votre campagne Dynamics
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Ajouter à Dynamics Campaign {#add-to-dynamics-campaign}
 
-Cette étape de flux peut être utilisée dans les campagnes dynamiques Marketo pour ajouter des personnes comme pistes ou contacts dans une campagne Microsoft. Si la piste n’existe pas encore dans Dynamics, elle sera automatiquement synchronisée et ajoutée à la campagne.
+Cette étape de flux peut être utilisée dans les campagnes dynamiques Marketo Engage pour ajouter des personnes comme pistes ou contacts dans une campagne Microsoft. Si la piste n’existe pas encore dans Dynamics, elle sera automatiquement synchronisée et ajoutée à la campagne.
 
 >[!NOTE]
 >
@@ -28,8 +28,8 @@ Dans votre campagne dynamique, recherchez et sélectionnez la campagne Dynamics 
 >
 >Si vous ne voyez pas de campagne Dynamics dans la liste des campagnes :
 >
->* Assurez-vous que la synchronisation de campagne est fonctionnelle
->* La campagne n’est pas principale dans Microsoft Dynamics
+>* Vérifiez que la synchronisation de campagne est fonctionnelle.
+>* La campagne n’est pas active dans [!DNL Microsoft Dynamics]
 
 Le système crée automatiquement une liste de marketing statique propre aux campagnes, qui regroupe les pistes et les contacts, afin d’ajouter la personne. Il s’agit d’une action ponctuelle. Une fois pour les synchronisations suivantes de la campagne, la même liste marketing est utilisée. La norme de dénomination adoptée pour le nom statique de la liste marketing est la suivante : `Mkto-leads-<uniqueID>` pour les pistes et `Mkto-contacts-<uniqueID>` pour les contacts.
 
@@ -51,5 +51,5 @@ Dans votre campagne dynamique, recherchez et sélectionnez la campagne Dynamics 
 >
 >Si vous ne voyez pas de campagne Dynamics dans la liste des campagnes :
 >
->* Assurez-vous que la synchronisation de campagne est fonctionnelle
->* La campagne n’est pas principale dans Microsoft Dynamics
+>* Vérifiez que la synchronisation de campagne est fonctionnelle.
+>* La campagne n’est pas active dans [!DNL Microsoft Dynamics]

@@ -4,9 +4,9 @@ description: Attribuer du crédit au référent - Documents Marketo - Documentat
 title: Créditer le référent
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '134'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 ## Vue d’ensemble {#overview}
 
-Lors de l’exécution d’une [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez accorder du crédit au référent à l’aide de différentes méthodes :
+Lorsque vous exécutez un événement [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, vous pouvez accorder du crédit au référent à l’aide de différentes méthodes :
 
 * Visites sur recommandation
 * Inscription sur parrainage
@@ -34,6 +34,6 @@ Si vous choisissez d’utiliser la variable **Déclencheur de liste dynamique** 
 
    >[!NOTE]
    >
-   >Assurez-vous que votre application sociale est configurée pour utiliser le déclencheur de liste dynamique. Voir  [Définition de l’objectif pour l’offre de référent](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) pour plus d’informations.
+   >Assurez-vous que votre application sociale est configurée pour utiliser le déclencheur de liste dynamique. Voir [Définition de l’objectif pour l’offre de référent](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} pour plus d’informations.
 
 Excellent ! Toute personne traitée par cette étape de flux crédite désormais son référent.

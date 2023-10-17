@@ -1,22 +1,22 @@
 ---
-description: Actions de flux unique à partir de la page Détails de la personne - Documents Marketo - Documentation du produit
-title: Actions de flux unique à partir de la page Détails de la personne
+description: Actions de flux unique depuis la page Détails de la personne - Documents Marketo - Documentation du produit
+title: Actions de flux unique depuis la page Détails de la personne
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Actions de flux unique à partir de la page Détails de la personne {#single-flow-actions-from-person-detail-page}
+# Actions de flux unique depuis la page Détails de la personne {#single-flow-actions-from-person-detail-page}
 
 Outre l’exécution d’actions de flux uniques à partir d’une liste dynamique, vous pouvez également les exécuter directement sur une page Détails de la personne.
 
-1. Cliquez sur **Base**.
+1. Cliquez sur **[!UICONTROL Base]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,14 +24,14 @@ Outre l’exécution d’actions de flux uniques à partir d’une liste dynamiq
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Cliquez sur le bouton **Actions de personne** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Envoyer un courrier électronique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Cliquez sur le bouton **[!UICONTROL Actions de personne]** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Envoyer un courrier électronique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Sélectionnez l’adresse électronique de votre choix, puis cliquez sur **Exécuter maintenant**.
+1. Sélectionnez l’adresse électronique de votre choix, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
 >[!NOTE]
 >
->Si votre instance contient des espaces de travail/partitions et que vous accédez à une page Détails de la personne directement (par l’intermédiaire d’un lien, par exemple) au lieu de provenir d’une page/ressource liée à un espace de travail, vous devrez également choisir un espace de travail à l’étape 4.
+>Si votre instance contient des espaces de travail/partitions et que vous accédez à une page Détails de la personne directement (par exemple, via un lien) au lieu de provenir d’une page/ressource liée à un espace de travail, vous devrez également choisir un espace de travail à l’étape 4.
