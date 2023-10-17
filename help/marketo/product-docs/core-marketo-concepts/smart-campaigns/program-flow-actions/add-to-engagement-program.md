@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147011
 description: Ajout au programme Engagement - Documents Marketo - Documentation du produit
-title: Ajouter au programme d'engagement
+title: Ajouter au programme d’engagement
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 14%
 
 ---
 
-# Ajouter au programme d&#39;engagement {#add-to-engagement-program}
+# Ajouter au programme d’engagement {#add-to-engagement-program}
 
 ## Vue d’ensemble {#overview}
 

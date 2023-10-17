@@ -4,7 +4,7 @@ description: Supprimer une personne de SFDC - Documents Marketo - Documentation 
 title: Supprimer individu de SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 8%
@@ -13,21 +13,21 @@ ht-degree: 8%
 
 # Supprimer individu de SFDC {#delete-person-from-sfdc}
 
-Si vous devez supprimer un ensemble spécifique de pistes de Salesforce tout en les laissant comme des personnes dans Marketo, vous pouvez utiliser l’action Supprimer la personne de flux SFDC .
+Si vous devez supprimer un ensemble spécifique de pistes de Salesforce tout en les laissant comme des personnes en Marketo Engage, vous pouvez utiliser l’action Supprimer la personne de flux SFDC .
 
 >[!NOTE]
 >
 >Disponible uniquement lorsqu’il est intégré à Salesforce.
 
-1. Dans la base de données, cliquez sur la personne à supprimer de Salesforce. Cliquez ensuite sur **Actions de personne** et sélectionnez **Salesforce**.
+1. Dans la base de données, cliquez sur la personne à supprimer de Salesforce. Cliquez ensuite sur **[!UICONTROL Actions de personne]** et sélectionnez **[!DNL Salesforce]**.
 
    ![](assets/person-actions-salesforce.png)
 
-1. Sélectionner **Supprimer une personne de SFDC**.
+1. Sélectionner **[!UICONTROL Supprimer une personne de SFDC]**.
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Assurez-vous que la variable **Supprimer dans Marketo** paramètre **false**, puis cliquez sur **Exécuter maintenant**.
+1. Assurez-vous que la variable **[!UICONTROL Supprimer dans Marketo]** paramètre **[!UICONTROL false]**, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,4 +35,4 @@ Si vous devez supprimer un ensemble spécifique de pistes de Salesforce tout en 
 
    >[!CAUTION]
    >
-   >Si vous définissez **Supprimer dans Marketo** to **true** et supprimez les personnes de Marketo et les prospects de Salesforce, ils sont partis pour toujours. Cette ne peut pas être annulée.
+   >Si vous définissez **[!UICONTROL Supprimer dans Marketo]** to **[!UICONTROL true]** et supprimez les personnes de Marketo et les prospects de Salesforce, ils sont partis pour toujours. Cette ne peut pas être annulée.

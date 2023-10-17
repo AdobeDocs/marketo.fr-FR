@@ -4,9 +4,9 @@ description: Glossaire du Marketo Engage - Documents Marketo - Documentation du 
 title: Glossaire du Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 4%
 
 ---
@@ -118,10 +118,6 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo est en train de modifier des termes tels que Liste noire et Liste blanche pour Placer sur la liste bloquée et Placer sur la liste autorisée dans notre produit. Au cours de cette mise à jour, il se peut que les anciens termes apparaissent dans les captures d’écran de l’interface utilisateur et de la documentation, ainsi que les nouveaux termes dans le texte de la documentation. Nous nous excusons pour toute confusion.
 
 ## C {#c}
 

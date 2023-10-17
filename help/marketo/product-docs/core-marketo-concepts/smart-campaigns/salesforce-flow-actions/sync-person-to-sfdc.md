@@ -4,26 +4,22 @@ description: Synchronisation de la personne avec SFDC - Documents Marketo - Docu
 title: Synchroniser individu dans SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
 # Synchroniser individu dans SFDC {#sync-person-to-sfdc}
 
->[!NOTE]
->
->Disponible uniquement lorsqu’il est intégré à Salesforce.
-
-## Vue d’ensemble {#overview}
-
 Cette étape de flux insère les personnes créées par Marketo comme prospects dans votre Salesforce CRM.
 
 ![](assets/sync-person-to-sfdc.png)
 
-## Utilisation {#usage}
+>[!NOTE]
+>
+>Disponible uniquement lorsqu’il est intégré à Salesforce.
 
 1. Par défaut, cette étape de flux assignera les propriétaires de prospect en fonction des règles d’affectation automatique Salesforce.
 
