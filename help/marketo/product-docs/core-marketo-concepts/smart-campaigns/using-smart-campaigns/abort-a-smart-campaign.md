@@ -4,9 +4,9 @@ description: Abandon d’une campagne dynamique - Documents Marketo - Documentat
 title: Abandon d’une campagne dynamique
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -19,30 +19,30 @@ ht-degree: 0%
 
 Parfois, vous lancez une campagne dynamique et vous réalisez immédiatement que c’était une erreur. Voici comment tirer le frein d’urgence et arrêter la campagne dynamique à moyen terme.
 
-1. Sélectionnez la campagne dynamique souhaitée, puis cliquez sur le bouton **Planification** .
+1. Sélectionnez la campagne dynamique souhaitée, puis cliquez sur le bouton **[!UICONTROL Planification]** .
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Cliquez sur le bouton **Actions de campagne** menu déroulant. Sélectionner **Abandonner une campagne**.
+1. Cliquez sur le bouton **[!UICONTROL Actions de campagne]** menu déroulant. Sélectionner **[!UICONTROL Abandonner une campagne]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Cliquez sur **Abandonner** pour confirmer.
+1. Cliquez sur **[!UICONTROL Abandonner]** pour confirmer.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >L’annulation n’annule pas les étapes déjà terminées, mais arrête simplement d’autres actions (exemple : Les emails ne peuvent pas être non diffusés).
+   >L’annulation n’annule pas les étapes déjà terminées. Elle empêche simplement d’autres actions de se produire (par exemple : les emails ne peuvent pas être non diffusés).
 
    ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >
-   >Jetez un coup d’oeil au **Résultats** de la campagne dynamique pour voir les actions qui ont eu lieu avant l’abandon. Vous trouverez également un  [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) avec des détails supplémentaires.
+   >Regardez la **[!UICONTROL Résultats]** de la campagne dynamique pour voir les actions qui ont eu lieu avant l’abandon. Vous trouverez également un  [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} avec des détails supplémentaires.
 
    >[!TIP]
    >
-   >Vous souhaitez supprimer une personne du flux dans une campagne de déclenchement ? Consulter [Supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Vous souhaitez supprimer une personne du flux dans une campagne de déclenchement ? Consulter [Supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
-Vérifiez toujours deux fois votre travail, mais ce frein d&#39;urgence peut s&#39;avérer utile à l&#39;avenir.
+Vérifiez toujours deux fois votre travail, mais ce frein d&#39;urgence peut s&#39;avérer utile.

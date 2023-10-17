@@ -4,7 +4,7 @@ description: Activation d’une campagne dynamique de déclenchement | Onglet Pl
 title: Activation d’une campagne dynamique de déclenchement | Onglet Planification
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 L’activation d’un déclencheur de campagne dynamique est comme son activation. Voici ce qu&#39;il faut faire.
 
-1. Dans la section **Planification** , cliquez sur **Activer**.
+1. Dans le rapport de la campagne dynamique **[!UICONTROL Planification]** , cliquez sur **[!UICONTROL Activer]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,12 +23,12 @@ L’activation d’un déclencheur de campagne dynamique est comme son activatio
    >
    >Vérifiez la campagne dynamique avant de l’activer.
 
-1. Cliquez sur **Activer** encore une fois.
+1. Cliquez sur **[!UICONTROL Activer]** encore une fois.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-   >[!CAUTION]
+   >[!TIP]
    >
    >Assurez-vous que la campagne est prête avant de l’activer.
 
-À partir de ce moment, toute personne admissible pour la liste dynamique passera par le flux défini par votre campagne dynamique.
+À partir de ce moment, toute personne qui se qualifie pour la liste dynamique passera par le flux défini par votre campagne dynamique.
