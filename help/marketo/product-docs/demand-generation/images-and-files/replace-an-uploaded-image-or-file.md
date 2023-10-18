@@ -1,53 +1,49 @@
 ---
 unique-page-id: 2359876
-description: Remplacement d’une image ou d’un fichier téléchargé - Documents Marketo - Documentation du produit
-title: Remplacement d’une image ou d’un fichier téléchargé
+description: Remplacement d’une image ou d’un fichier téléchargé - Documents Marketo - Documentation produit
+title: Remplacer une image ou un fichier téléchargé
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Remplacement d’une image ou d’un fichier téléchargé {#replace-an-uploaded-image-or-file}
+# Remplacer une image ou un fichier téléchargé {#replace-an-uploaded-image-or-file}
 
-1. Accédez au **Design Studio**.
+1. Accédez au **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-6.png)
+   ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Cliquez sur **Images et fichiers**, puis sélectionnez le fichier à remplacer.
+1. Cliquez sur **[!UICONTROL Images et fichiers]**.
 
-   ![](assets/image2014-9-16-11-3a21-3a48.png)
+   ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-   >[!TIP]
-   >
-   >Vous pouvez également [rechercher des images ou des fichiers téléchargés ;](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
+1. Sélectionnez la ressource à remplacer. Cliquez sur le bouton **[!UICONTROL Actions d’image et de fichier]** et sélectionnez **[!UICONTROL Remplacer une image ou un fichier]**.
 
-1. Cliquez sur **Actions de fichier** et sélectionnez **Remplacer une image ou un fichier**.
+   ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-   ![](assets/image2014-9-16-11-3a21-3a55.png)
+1. Faites glisser et déposez ou parcourez votre ordinateur pour rechercher le fichier de remplacement.
 
-1. Accédez au fichier sur votre ordinateur qui remplacera le fichier actuel, puis sélectionnez-le.
-
-   ![](assets/image2014-9-16-11-3a22-3a2.png)
+   ![](assets/replace-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >Si vous ne pouvez pas sélectionner un fichier dans un dossier partagé, enregistrez ce fichier sur votre disque dur et choisissez-le.
+   >Le type de fichier de remplacement doit être identique à l’original (par exemple, .jpg).
 
-1. Vérifiez que le fichier s’affiche en regard de **Choisir un fichier** est correct, puis cliquez sur **Remplacer**.
+1. Après avoir sélectionné le fichier de remplacement, cliquez sur **[!UICONTROL Remplacer]**.
 
-   ![](assets/image2014-9-16-11-3a22-3a12.png)
+   ![](assets/replace-an-uploaded-image-or-file-5.png)
 
->[!NOTE]
->
->Le nom du fichier de remplacement change pour correspondre au nom de fichier précédent.
+   >[!NOTE]
+   >
+   >Le nom du fichier de remplacement change pour correspondre au nom du fichier précédent.
 
-Tu l&#39;as fait !
+Bon boulot !
 
 >[!MORELIKETHIS]
 >
->* [Recherche d’images et de fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Recherche de l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Recherche d’images et de fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Recherche de l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

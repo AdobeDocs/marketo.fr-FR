@@ -4,22 +4,22 @@ description: Recherche d’images et de fichiers téléchargés - Documents Mark
 title: Recherche d’images et de fichiers téléchargés
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Recherche d’images et de fichiers téléchargés {#search-uploaded-images-and-files}
 
-Dans Marketo, la recherche d’images et de fichiers est un jeu d’enfant.
+Découvrez comment effectuer une recherche pour une image ou un fichier.
 
-1. Accédez au **Design Studio**.
+1. Accédez au **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Cliquez sur **Images et fichiers** pour obtenir la liste complète de tous les fichiers chargés.
+1. Cliquez sur **[!UICONTROL Images et fichiers]** pour obtenir la liste complète de tous les fichiers chargés.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 

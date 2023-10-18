@@ -4,31 +4,33 @@ description: Recherchez l’URL d’une image ou d’un fichier téléchargé - 
 title: Recherche de l’URL d’une image ou d’un fichier téléchargé
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Recherche de l’URL d’une image ou d’un fichier téléchargé {#find-the-url-of-an-uploaded-image-or-file}
 
-Vous recherchez l&#39;adresse web (URL) d&#39;une image ou d&#39;un fichier que vous avez téléchargé ? Marketo vous a couvert.
+Vous recherchez l&#39;adresse web (URL) d&#39;une image ou d&#39;un fichier que vous avez téléchargé ?
 
-1. Accédez au **Design Studio**.
+1. Accédez au **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-4.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Cliquez sur **Images et fichiers** dans le menu de gauche, puis sélectionnez le fichier pour lequel vous souhaitez obtenir l’URL.
+1. Cliquez sur **[!UICONTROL Images et fichiers]**.
 
-   ![](assets/image2014-9-25-14-3a47-3a53.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. Le **URL** s’affiche sur la page de détails. Cliquez avec le bouton droit de la souris sur le **URL** et cliquez sur **Copier** dans le menu qui s’affiche.
+1. Sélectionnez la ressource souhaitée.
 
-   ![](assets/image2014-9-25-14-3a48-3a16.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-Donnez-vous une tape sur le dos pour un travail bien fait !
+1. La variable **[!UICONTROL URL]** s’affiche sur la page de détails.
+
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Remplacement d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[Remplacer une image ou un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
