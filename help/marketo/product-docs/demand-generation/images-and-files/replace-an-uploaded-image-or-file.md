@@ -4,9 +4,9 @@ description: Remplacement d’une image ou d’un fichier téléchargé - Docume
 title: Remplacer une image ou un fichier téléchargé
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. Faites glisser et déposez ou parcourez votre ordinateur pour rechercher le fichier de remplacement.
+1. Faites glisser et déposez ou parcourez votre ordinateur pour rechercher l’image/le fichier de remplacement.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Le type de fichier de remplacement doit être identique à l’original (par exemple, .jpg).
 
-1. Après avoir sélectionné le fichier de remplacement, cliquez sur **[!UICONTROL Remplacer]**.
+1. Après avoir sélectionné l’image/le fichier de remplacement, cliquez sur **[!UICONTROL Remplacer]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
