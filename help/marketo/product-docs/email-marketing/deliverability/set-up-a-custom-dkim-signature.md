@@ -4,9 +4,9 @@ description: Configuration d’une signature DKIM personnalisée - Documents Mar
 title: Configuration d’une signature DKIM personnalisée
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '290'
 ht-degree: 1%
 
 ---
@@ -23,31 +23,36 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
 
 1. Accédez au **Administration** .
 
-   ![](assets/adminhand.png)
+   ![](assets/set-up-a-custom-dkim-signature-1.png)
 
    >[!NOTE]
    >
    >Si vous configurez une signature DKIM personnalisée à l’ancienne, elle continuera à fonctionner et devrait s’afficher ici.
 
-1. Cliquez sur **Email**, puis la variable **DKIM** et enfin **Ajouter un domaine**.
+1. Cliquez sur **Email**.
 
-   ![](assets/image2014-9-18-15-3a39-3a30.png)
+   ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Saisissez le domaine que vous utiliserez dans les emails Marketo en tant qu’adresse de l’expéditeur et cliquez sur **Ajouter**.
+1, cliquez sur **SPF/DKIM** , puis **Ajouter un domaine**.
+
+![](assets/set-up-a-custom-dkim-signature-3.png)
+
+1. Saisissez le domaine que vous utiliserez dans les emails Marketo comme Adresse de l’expéditeur. Choisissez un sélecteur et une taille de clé. Cliquez sur **Ajouter** une fois terminé.
+
+   ![](assets/set-up-a-custom-dkim-signature-4.png)
 
    >[!TIP]
    >
-   >Si vous utilisez un autre domaine dans votre adresse de l’expéditeur, nous utiliserons la signature DKIM partagée par Marketo.
-
-   ![](assets/image2014-9-18-15-3a40-3a28.png)
+   >* Nous vous recommandons une taille de clé de 2048.
+   >* Si vous utilisez un autre domaine dans votre adresse de l’expéditeur, nous utiliserons la signature DKIM partagée par Marketo.
 
 1. Envoyez la variable **Enregistrement d’hôte** et **Valeur TXT** à votre service informatique. Demandez-leur de créer l’enregistrement à votre place et de s’assurer qu’il se propage à tous les serveurs de noms associés au domaine d’ . La vérification DKIM Marketo requiert que la clé DKIM soit propagée à tous les serveurs de noms associés au domaine signé DKIM.
 
-   ![](assets/image2014-9-18-15-3a40-3a44.png)
+   ![](assets/set-up-a-custom-dkim-signature-5.png)
 
 1. Une fois qu’ils ont confirmé avoir créé l’enregistrement, revenez à Marketo, sélectionnez votre domaine, puis cliquez sur **Vérifier le DNS**.
 
-   ![](assets/check.png)
+   ![](assets/set-up-a-custom-dkim-signature-6.png)
 
    >[!NOTE]
    >
