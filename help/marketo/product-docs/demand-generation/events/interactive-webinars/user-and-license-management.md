@@ -3,7 +3,7 @@ description: Gestion des utilisateurs et des licences - Documents Marketo - Docu
 title: Gestion des utilisateurs et des licences
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 3%
@@ -67,32 +67,32 @@ Les webinaires interactifs offrent des licences spécifiques pour la création d
    ![](assets/user-and-license-management-11.png)
 
 <table> 
-  <tr> 
-   <td><b>Date de début</b></td>
+  <tr>
+   <td width="20%"><b>Date de début</b></td>
    <td>Date à laquelle la licence commence.</td>
   </tr>
   <tr> 
-   <td><b>Date d’expiration</b></td>
+   <td width="20%"><b>Date d’expiration</b></td>
    <td>Date d’expiration de la licence.</td>
   </tr>
   <tr> 
-   <td><b>Type</b></td>
+   <td width="20%"><b>Type</b></td>
    <td>Type de licence achetée. Il existe trois types de licence : Shared Events License, Shared Room License, Additional Storage License.</td>
   </tr>
   <tr> 
-   <td><b>Capacité de l’événement</b></td>
+   <td width="20%"><b>Capacité de l’événement</b></td>
    <td>Nombre maximum de participants pouvant être pris en charge dans un événement.</td>
   </tr>
   <tr> 
-   <td><b>Nombre total d’événements</b></td>
+   <td width="20%"><b>Nombre total d’événements</b></td>
    <td>Le nombre total d’événements qui ont été configurés avec cette licence.</td>
   </tr>
   <tr> 
-   <td><b>Événements utilisés</b></td>
+   <td width="20%"><b>Événements utilisés</b></td>
    <td>Nombre total d’événements terminés.</td>
   </tr>
   <tr> 
-   <td><b>Capacité de stockage</b></td>
+   <td width="20%"><b>Capacité de stockage</b></td>
    <td>Quantité de stockage disponible pour le stockage des enregistrements, des collatéraux, des heros images, de la documentation et d’autres ressources.</td>
   </tr>
   </tbody>
