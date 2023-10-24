@@ -3,7 +3,7 @@ description: Connexion à l’aide d’OAuth 2.0 - Documents Marketo - Documenta
 title: Connexion à l’aide d’OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 3a60db261cb6bb8b04b22abaa531b31fbc148493
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
 >[!CAUTION]
 >
->Pendant que vous êtes toujours sur la page Nouvelle application connectée, faites défiler l’écran vers le bas et assurez-vous que la case &quot;Require BAT Key for Code Exchange (PKCE)&quot; (Exiger la clé de bon à tirer pour l’échange de code) est cochée. _NOT_ coché, car cela entraverait la configuration.
+>Pendant que vous êtes toujours sur la page Nouvelle application connectée, faites défiler l’écran vers le bas et assurez-vous que la case &quot;Require BAT Key for Code Exchange (PKCE)&quot; (Exiger la clé de bon à tirer pour l’échange de code) est cochée. _NOT_ coché, car cela interférerait avec la configuration.
 
 ## Configuration de Marketo {#set-up-marketo}
 

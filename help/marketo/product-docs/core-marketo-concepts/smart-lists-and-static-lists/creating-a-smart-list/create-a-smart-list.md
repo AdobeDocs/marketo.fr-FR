@@ -4,18 +4,18 @@ description: Création d’une liste dynamique - Documents Marketo - Documentati
 title: Création d’une liste dynamique
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 15%
+ht-degree: 0%
 
 ---
 
 # Création d’une liste dynamique {#create-a-smart-list}
 
-Les listes intelligentes vous permettent de trouver des groupes de personnes spécifiques en utilisant de simples filtres. Voici comment en créer un.
+Les listes dynamiques vous permettent de trouver des groupes de personnes spécifiques à l’aide de filtres simples. Voici comment en créer un.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,15 +23,15 @@ Les listes intelligentes vous permettent de trouver des groupes de personnes sp�
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Sous **Nouveau**, cliquez sur **Nouvelle ressource locale**.
+1. Sous **[!UICONTROL Nouveau]**, cliquez sur **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Sélectionner **Liste dynamique**.
+1. Sélectionner **[!UICONTROL Liste dynamique]**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Saisissez un **Nom** et cliquez sur **Créer**.
+1. Saisissez un **[!UICONTROL Nom]** et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
@@ -39,4 +39,4 @@ Les listes intelligentes vous permettent de trouver des groupes de personnes sp�
 
    >[!MORELIKETHIS]
    >
-   >[Recherche et ajout de filtres à une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+   >[Recherche et ajout de filtres à une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
