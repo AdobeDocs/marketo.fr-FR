@@ -4,7 +4,7 @@ description: Configuration d’une signature DKIM personnalisée - Documents Mar
 title: Configuration d’une signature DKIM personnalisée
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -57,6 +57,8 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. Envoyez la variable **Enregistrement d’hôte** et **Valeur TXT** à votre service informatique. Demandez-leur de créer l’enregistrement à votre place et de s’assurer qu’il se propage à tous les serveurs de noms associés au domaine d’ . La vérification DKIM Marketo requiert que la clé DKIM soit propagée à tous les serveurs de noms associés au domaine signé DKIM.
 

@@ -4,7 +4,7 @@ description: Configuration d’une campagne dynamique de déclenchement pour les
 title: Configuration d’une campagne dynamique de déclenchement pour les ventes à l’aide de "Campaign is Requested" (Campaign demandé)
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -24,21 +24,21 @@ L’une des fonctionnalités les plus intéressantes de Marketo est la possibili
 >
 >Soyez créatifs ! Qu&#39;est-ce que le vendeur aimerait automatiser ? Demandez-leur et branchez-le !
 
-1. Créez un **Campagne dynamique.**
+1. Créez une campagne dynamique.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Recherchez et faites glisser le **La campagne est demandée** se déclenche dans la zone de travail.
+1. Recherchez et faites glisser le **[!UICONTROL La campagne est demandée]** se déclenche dans la zone de travail.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Les choix de la source indiquent le type de demande qui sera satisfaite. Pour la fonctionnalité Salesforce, veillez à choisir **Ventes** **Insight**.
+1. Les choix de la source indiquent le type de demande qui sera satisfaite. Pour la fonctionnalité Salesforce, veillez à choisir **[!UICONTROL Statistiques des ventes]**.
 
    >[!TIP]
    >
-   >Les opérateurs sources sont pour la sécurité. Vous pouvez limiter la campagne aux requêtes effectuées uniquement par des sources spécifiques, comme d’autres campagnes dynamiques ou des développeurs. Choisir **Is** dans la première zone si vous souhaitez autoriser les requêtes provenant de toutes les sources.
+   >Les opérateurs sources sont pour la sécurité. Vous pouvez limiter la campagne aux requêtes effectuées uniquement par des sources spécifiques, comme d’autres campagnes dynamiques ou des développeurs. Choisir **[!UICONTROL Is]** dans la première zone si vous souhaitez autoriser les requêtes provenant de toutes les sources.
    >
-   >**Mémoriser**, en choisissant Sales Insight, il apparaît comme par magie dans la boîte pour les ventes. Ne le fais pas trop ! Trop d&#39;entre eux seront ignorés.
+   >_Mémoriser_, en choisissant Sales Insight, il apparaît comme par magie dans la boîte pour les ventes. Ne le fais pas trop ! Trop d&#39;entre eux seront ignorés.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

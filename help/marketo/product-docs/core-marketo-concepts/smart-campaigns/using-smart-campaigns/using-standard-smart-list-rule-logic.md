@@ -4,7 +4,7 @@ description: Utilisation de la logique de règle de liste dynamique standard - D
 title: Utilisation de la logique de règle de liste dynamique standard
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Vous avez peut-être remarqué l’option &quot;Utiliser des filtres&quot; lors 
 
 >[!NOTE]
 >
->La modification de la logique des règles de liste dynamique s’applique uniquement aux filtres, **not** déclencheurs.
+>La modification de la logique des règles de liste dynamique s’applique uniquement aux filtres, _not_ déclencheurs.
 
 Les déclencheurs sont toujours évalués en tant que OU même si le paramètre ci-dessus est défini sur ALL. Voici un exemple :
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Ainsi, si une personne remplit le formulaire **ou** visite la page, la campagne évalue ensuite cette personne en fonction de **all** ou **any** des filtres suivants, en fonction du paramètre utilisé.
+Ainsi, si une personne remplit le formulaire _ou_ visite la page, la campagne évalue ensuite cette personne en fonction de _all_ ou _any_ des filtres suivants, en fonction du paramètre utilisé.
 
 >[!MORELIKETHIS]
 >
->[Utilisation de la logique de règle de liste dynamique avancée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[Utilisation de la logique de règle de liste dynamique avancée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Planification d’une campagne par lots récurrente - Documents Mar
 title: Planification d’une campagne par lots récurrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 La périodicité permet d’exécuter une campagne par lots selon un calendrier régulier. Par exemple : une fois par semaine, le mardi à 10h00.
 
-1. Sélectionnez la campagne dynamique, accédez au **Planification** , puis cliquez sur **Périodicité du planning**.
+1. Sélectionnez la campagne dynamique, accédez au **[!UICONTROL Planification]** , puis cliquez sur **[!UICONTROL Périodicité du planning]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Cliquez sur le bouton **Planification** et sélectionnez **Hebdomadaire**.
+1. Cliquez sur le bouton **[!UICONTROL Planification]** et sélectionnez **[!UICONTROL Hebdomadaire]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,13 +31,13 @@ La périodicité permet d’exécuter une campagne par lots selon un calendrier 
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Laissez Répéter toutes les fois, sélectionnez Mardi, puis cliquez sur **Enregistrer**.
+1. Laissez &quot;[!UICONTROL Répétez toutes les]&quot; comme 1, sélectionnez Mardi, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >Pour une durée d’exécution spécifique, vous pouvez cliquer sur l’icône de calendrier en regard de **Fin le** et choisissez la date de fin.
+   >Pour une durée d’exécution spécifique, vous pouvez cliquer sur l’icône de calendrier en regard de **[!UICONTROL Fin le]** et choisissez la date de fin.
 
 Les récurrences planifiées sont affichées au bas de l&#39;onglet Planning .
 
