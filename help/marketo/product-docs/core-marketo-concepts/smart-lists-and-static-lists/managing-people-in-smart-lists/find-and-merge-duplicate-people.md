@@ -4,7 +4,7 @@ description: Rechercher et fusionner des personnes en double - Documents Marketo
 title: Rechercher et fusionner des personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rechercher et fusionner des personnes en double {#find-and-merge-duplicate-people}
 
-Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le système. Cependant, votre CRM a peut-être initialement envoyé des doublons à Marketo. Voici comment les fusionner.
+Marketo Engage déduplique automatiquement lorsque de nouvelles personnes entrent dans le système. Cependant, votre CRM a peut-être initialement envoyé sur des doublons. Voici comment les fusionner.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le 
 
 ## Rechercher les doublons {#find-duplicates}
 
-1. Accédez au **Base** zone.
+1. Accédez au **[!UICONTROL Base]** zone.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le 
    >
    >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
 
-1. Sélectionnez la **Doublons possibles** liste dynamique du système et cliquez sur **Personnes** .
+1. Sélectionnez la variable **[!UICONTROL Doublons possibles]** Liste dynamique du système, puis cliquez sur **[!UICONTROL Personnes]** .
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le 
 
 >[!CAUTION]
 >
->Lors de la fusion de personnes, si la personne perdante possède un objet personnalisé Marketo, elle **not** être réassocié à la personne gagnante. Reparent l’objet personnalisé avant d’effectuer la fusion.
+>Lors de la fusion de personnes, si la personne perdante possède un objet personnalisé Marketo, elle _not_ être réassocié à la personne gagnante. Reparent l’objet personnalisé avant d’effectuer la fusion.
 
-1. Sélectionnez les doublons en maintenant la touche Ctrl/Cmd enfoncée, puis cliquez sur **Fusionner les personnes**.
+1. Sélectionnez les doublons en maintenant la touche Ctrl/Cmd enfoncée, puis cliquez sur **[!UICONTROL Fusionner les personnes]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo déduplique automatiquement les nouvelles personnes qui entrent dans le 
    >
    >Vous pouvez avoir deux doublons ou plus pour la même personne, en les sélectionnant tous à la fois.
 
-1. Vous verrez les valeurs entre les enregistrements qui _don&#39;t_ correspond à . Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **Fusion** une fois terminé. Si vous ne souhaitez aucune des valeurs, vous pouvez vérifier **Personnalisé** et saisissez la valeur de votre choix.
+1. Vous verrez les valeurs entre les enregistrements qui _don&#39;t_ correspond à . Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **[!UICONTROL Fusion]** une fois terminé. Si vous ne souhaitez aucune des valeurs, vous pouvez vérifier **[!UICONTROL Personnalisé]** et saisissez la valeur de votre choix.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

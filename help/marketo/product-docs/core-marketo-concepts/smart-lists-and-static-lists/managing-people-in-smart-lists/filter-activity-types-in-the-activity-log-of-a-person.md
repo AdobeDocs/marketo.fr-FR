@@ -4,10 +4,10 @@ description: Filtrage des types d’activité dans le journal d’activité d’
 title: Filtrage des types d’activité dans le journal d’activité d’une personne
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,27 +17,27 @@ Recherchez les activités qui vous intéressent le plus dans le journal des acti
 
 >[!NOTE]
 >
->En savoir plus sur [le journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
+>En savoir plus sur [le journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Accédez au **Détails de la personne** page. Cliquez sur le bouton **Journal d’activité** .
+1. Accédez à la page Détails de la personne . Cliquez sur le bouton **[!UICONTROL Journal d’activité]** .
 
    ![](assets/one.png)
 
-1. Sélectionnez la **Filtrer** menu déroulant.
+1. Sélectionnez la variable **[!UICONTROL Filtrer]** menu déroulant.
 
    ![](assets/two-3.png)
 
 ## Création de filtres personnalisés {#creating-custom-filters}
 
-1. Cliquez sur le bouton **Filtrer** menu déroulant. Sélectionner **Personnalisé**.
+1. Cliquez sur le bouton **[!UICONTROL Filtrer]** menu déroulant. Sélectionner **[!UICONTROL Personnalisé]**.
 
    ![](assets/three-3.png)
 
-1. Sélectionnez les activités par lesquelles filtrer. Cliquez sur **Enregistrer sous**.
+1. Sélectionnez les activités par lesquelles filtrer. Cliquez sur **[!UICONTROL Enregistrer sous]**.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Saisissez un **nom du filtre personnalisé**. Cliquez sur **Enregistrer**.
+1. Saisissez un **[!UICONTROL nom du filtre personnalisé]**. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Recherchez les activités qui vous intéressent le plus dans le journal des acti
 
 ## Filtres enregistrés de référence {#reference-saved-filters}
 
-Les filtres enregistrés sont accessibles à partir du **Filtrer** menu déroulant.
+Les filtres enregistrés sont accessibles à partir du [!UICONTROL Filtrer] menu déroulant.
 
-1. Cliquez sur le bouton **Filtres** menu déroulant. Sélectionner **Personnalisé**.
+1. Cliquez sur le bouton **[!UICONTROL Filtres]** menu déroulant. Sélectionner **[!UICONTROL Personnalisé]**.
 
    ![](assets/seven-1.png)
 
-1. Cliquez sur **Filtres enregistrés**. Les filtres enregistrés sont répertoriés ci-dessous.
+1. Cliquez sur **[!UICONTROL Filtres enregistrés]**. Les filtres enregistrés sont répertoriés ci-dessous.
 
    ![](assets/eight.png)

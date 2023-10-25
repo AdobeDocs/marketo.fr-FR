@@ -4,7 +4,7 @@ description: Utilisation de la page Détails de la personne - Documents Marketo 
 title: Utilisation de la page Détails de la personne
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 50%
@@ -19,8 +19,8 @@ La page des détails de la personne contient toutes les informations que Marketo
 
 Il y a de nombreuses façons d&#39;ouvrir des personnes spécifiques. Voici quelques exemples :
 
-* Dans la **Base**, vous pouvez effectuer une recherche dans la recherche rapide
-* Tout intelligent **list** ou liste
+* Dans la **Base**, vous pouvez effectuer une recherche dans la recherche rapide .
+* Quelconque **Liste dynamique** ou liste
 * **Membres** onglet d’un programme
 * **Affichage des membres de campagne** dans une campagne dynamique
 * Certains **rapports**
@@ -41,8 +41,8 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 | Onglet  | Description |
 |---|---|
 | Infos | Coordonnées et champs personnalisés concernant une personne. |
-| Informations sur la société | Informations et adresse de la société de la personne. |
-| Infos sur l&#39;opportunité | Informations sur les opportunités synchronisées à partir de Salesforce. |
+| Informations sur la société | Informations et adresse de la personne. |
+| Infos sur l&#39;opportunité | Informations sur les opportunités synchronisées depuis Salesforce. |
 | Champ lead SFDC | Champs Salesforce intégrés. |
 | Champ personnalisé SFDC | Champs Salesforce personnalisés. |
 | Journal d&#39;activité | Toutes les activités liées à la personne. |
@@ -52,7 +52,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 | Onglet  | Description |
 |---|---|
 | Infos | Coordonnées et champs personnalisés concernant une personne. |
-| Informations sur la société | Informations et adresse de la société de la personne. |
+| Informations sur la société | Informations et adresse de la personne. |
 | Infos sur l&#39;opportunité | Informations sur les opportunités synchronisées à partir de Microsoft. |
 | Champs personnalisés Microsoft | Champs Microsoft personnalisés. |
 | Champ lead Microsoft | Champs Microsoft intégrés. |
@@ -73,7 +73,7 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 |   |  |  |  |  |
 |---|---|---|---|---|
 | Adresse | Chiffre d&#39;affaires annuel | IP anonyme | Adresse de facturation | Ville de facturation |
-| Pays de facturation | Code postal de facturation | État de facturation | Ville | Nom de la société |
+| Pays de facturation | Code postal de facturation | État de facturation | Ville | Nom de l’entreprise |
 | Pays | Créé à | Date de naissance | Service | Ne pas appeler |
 | Cause Ne pas appeler | Raison Ne pas appeler | Adresse e-mail | E-mail non valide | Cause e-mail non valide |
 | ID de la société externe | ID du commercial externe | Numéro de fax | Prénom | Nom complet |
@@ -100,8 +100,8 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 >* Opportunités de contacts de la DDC
 >* Certains champs spécifiques à Marketo, tels que Date de création et Type source d’origine.
 >
->En savoir plus sur [Champs gérés par le système](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>En savoir plus sur [Champs gérés par le système](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Création d’un onglet personnalisé pour la page Détails de la personne](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Création d’un onglet personnalisé pour la page Détails de la personne](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

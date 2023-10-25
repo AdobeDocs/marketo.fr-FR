@@ -4,7 +4,7 @@ description: Utilisation des membres de la liste dans une liste dynamique - Docu
 title: Utilisation des membres de liste dans une liste dynamique
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Vous pouvez ajouter des personnes à une liste à l’aide de [Importer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou le [Étape Ajouter au flux de liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>Vous pouvez ajouter des personnes à une liste à l’aide de [Importer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou le [Étape Ajouter au flux de liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
 Avec ce filtre, vous pouvez extraire des membres d’une autre liste en y faisant référence dans vos règles de liste dynamique. Voici comment.
 
-1. Sélectionnez une liste dynamique et cliquez sur le bouton **Liste dynamique** .
+1. Sélectionnez une liste dynamique et cliquez sur le bouton **[!UICONTROL Liste dynamique]** .
 
    ![](assets/smartlist-sltab.png)
 
-1. Dans le panneau des filtres sur le côté droit, recherchez et faites glisser le **Membre de la liste** filtre sur la zone de travail.
+1. Dans le panneau des filtres sur le côté droit, recherchez et faites glisser le **[!UICONTROL Membre de la liste]** filtre sur la zone de travail.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

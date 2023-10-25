@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356194
-description: Envoi d’une liste à Adobe Experience Cloud - Documents Marketo - Documentation du produit
+description: Envoyer une liste à Adobe Experience Cloud - Documents Marketo - Documentation du produit
 title: Envoi d’une liste à Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Un déploiement prêt pour la mise en HIPAA d’une instance Marketo ne peut pas utiliser cette fonctionnalité.
+>Un déploiement prêt pour la mise en PAA d’une instance de Marketo Engage ne peut pas utiliser cette fonctionnalité.
 
 >[!PREREQUISITES]
 >
@@ -23,10 +23,10 @@ ht-degree: 1%
 
 ## Applications de destination prises en charge {#supported-destination-applications}
 
-* Adobe Advertising Cloud
-* Adobe Analytics (**only** si vous possédez une licence Adobe Audience Manager)
-* Adobe Audience Manager
-* Adobe Experience Manager
+* Adobe Advertising Cloud
+* ADOBE ANALYTICS (_only_ si vous possédez une licence Adobe Audience Manager)
+* Adobe Audience Manager
+* Adobe Experience Manager
 * Adobe Real-time Customer Data Platform
 * Adobe Target
 
@@ -34,19 +34,19 @@ ht-degree: 1%
 
 Une liste statique est juste statique. Aucune modification ne sera apportée à la liste dans Adobe Experience Cloud, sauf si vous les apportez manuellement.
 
-1. Dans Marketo, recherchez la liste à exporter. Cliquez dessus avec le bouton droit et sélectionnez **Envoyer à l’Experience Cloud**.
+1. Dans Marketo, recherchez la liste à exporter. Cliquez dessus avec le bouton droit de la souris et sélectionnez **[!UICONTROL Envoyer à l’Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Cliquez sur le bouton **Audience Manager Folder** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
+1. Cliquez sur le bouton **[!UICONTROL Audience Manager Folder]** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l’audience et cliquez sur **Envoyer**.
+1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l’audience et cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. Cliquez sur **OK**.
+1. Cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
@@ -58,19 +58,19 @@ Une liste statique est juste statique. Aucune modification ne sera apportée à 
 
 La synchronisation d’une liste signifie que chaque fois que vous mettez à jour une liste dans Marketo, la modification se synchronise automatiquement avec son audience dans Adobe Experience Cloud.
 
-1. Dans Marketo, recherchez la liste à exporter. Cliquez dessus avec le bouton droit et sélectionnez **Envoyer à l’Experience Cloud**.
+1. Dans Marketo, recherchez la liste à exporter. Cliquez dessus avec le bouton droit de la souris et sélectionnez **[!UICONTROL Envoyer à l’Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. Cliquez sur le bouton **Dossier de bibliothèque d’audiences** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
+1. Cliquez sur le bouton **[!UICONTROL Dossier de bibliothèque d’audiences]** et sélectionnez le dossier de destination de votre choix dans l’Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l&#39;audience, puis cochez la case **Synchronisation de l’appartenance à l’audience** puis cliquez sur **Envoyer**.
+1. Choisissez de créer une audience ou d&#39;en remplacer une existante (dans cet exemple, nous en créons une). Saisissez le nouveau nom de l&#39;audience, puis cochez la case **[!UICONTROL Synchronisation de l’appartenance à l’audience]** puis cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Cliquez sur **OK**.
+1. Cliquez sur **Ok**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -78,15 +78,15 @@ La synchronisation d’une liste signifie que chaque fois que vous mettez à jou
 
 Vous pouvez empêcher la synchronisation de votre liste à tout moment.
 
-1. Dans Marketo, recherchez et cliquez avec le bouton droit sur la liste dont vous souhaitez arrêter la synchronisation. Cliquez sur **Arrêter la synchronisation des listes**.
+1. Dans Marketo, recherchez et cliquez avec le bouton droit sur la liste dont vous souhaitez arrêter la synchronisation. Cliquez sur **[!UICONTROL Arrêter la synchronisation des listes]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
 
-1. Sélectionnez la ou les audiences dont vous souhaitez arrêter la synchronisation et cliquez sur **Arrêter**.
+1. Sélectionnez la ou les audiences dont vous souhaitez arrêter la synchronisation et cliquez sur **[!UICONTROL Arrêter]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. Cliquez sur **Arrêter** pour confirmer.
+1. Cliquez sur **[!UICONTROL Arrêter]** pour confirmer.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -94,7 +94,7 @@ Vous pouvez empêcher la synchronisation de votre liste à tout moment.
 
 **Partage vers Adobe Analytics**
 
-Pour les clients qui possèdent à la fois Adobe Audience Manager et Adobe Analytics, cette intégration permettra le partage des audiences de Marketo vers vos suites de rapports Adobe Analytics. Toutefois, d’autres étapes de configuration doivent être effectuées dans Adobe Audience Manager pour activer cette fonctionnalité. Pour plus d’informations sur la configuration de cette configuration, consultez la documentation Adobe Audience Manager : [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Pour les clients qui possèdent à la fois Adobe Audience Manager et Adobe Analytics, cette intégration permettra le partage des audiences de Marketo vers vos suites de rapports Adobe Analytics. Toutefois, d’autres étapes de configuration doivent être effectuées dans Adobe Audience Manager pour activer cette fonctionnalité. Veuillez consulter [Documentation de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} pour plus d’informations sur la configuration.
 
 **Utilisation des caractéristiques pour les clients Adobe Audience Manager**
 
@@ -114,7 +114,7 @@ Sous le capot, l’intégration de l’audience fonctionne en synchronisant les 
 
 Lorsque la synchronisation des cookies est activée pour votre abonnement Marketo, Marketo qui  munchkin.js tente de capturer et de stocker les ECID d’Adobe pour l’organisation IMS Adobe que vous avez spécifiée lors de la configuration de l’intégration et de faire correspondre ces ECID à l’identifiant de cookie Marketo correspondant. Cela permet à Marketo de  des profils utilisateur anonymes afin de les enrichir avec des ECID Adobes.
 
-Une autre étape est nécessaire pour associer le profil utilisateur anonyme à un profil de piste, qui est identifié à l’aide d’un email en texte brut. Fonctionnement exact [décrit ici](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Une autre étape est nécessaire pour associer le profil utilisateur anonyme à un profil de piste, qui est identifié à l’aide d’un email en texte brut. Fonctionnement exact [décrit ici](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Quelles informations sont partagées ?**
 

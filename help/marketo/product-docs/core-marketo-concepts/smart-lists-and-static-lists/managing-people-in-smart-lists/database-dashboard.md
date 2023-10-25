@@ -4,7 +4,7 @@ description: Tableau de bord de la base de données - Documents Marketo - Docume
 title: Tableau de bord de la base de données
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Le tableau de bord de la base de données sert d’instantané pour vous aider �
 >
 >Chaque espace de travail possède son propre tableau de bord de base de données.
 
-Pour y accéder, sélectionnez **Base** de votre Marketo.
+Pour y accéder, sélectionnez **[!UICONTROL Base]** de votre Marketo.
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ Les graphiques indiquent le nombre total de personnes, le nombre de personnes po
 
 >[!TIP]
 >
->Vous souhaitez obtenir des informations plus précises ou plus opportunes sur vos personnes ? Essayez un [Rapport Performance des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Vous souhaitez obtenir des informations plus précises ou plus opportunes sur vos personnes ? Essayez un [Rapport Performances des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Nombre total de personnes :** Nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié.
 
-**Personnes pouvant faire l’objet d’un marketing :** Le nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié, _moins ce qui suit_: les personnes sans adresse électronique, les personnes dont l’adresse électronique a fait l’objet d’un hard bounce, les personnes qui sont placées sur la liste bloquée, les personnes qui se sont désabonnées, les personnes actuellement placées sur Marketing Suspendu.
+**Personnes pouvant faire l’objet de marketing :** Le nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié, _moins ce qui suit_: personnes sans adresse électronique, personnes dont l’adresse électronique a fait l’objet d’un hard bounce, personnes placées sur la liste bloquée, personnes qui se sont désabonnées, personnes actuellement placées sur Marketing Suspendu.

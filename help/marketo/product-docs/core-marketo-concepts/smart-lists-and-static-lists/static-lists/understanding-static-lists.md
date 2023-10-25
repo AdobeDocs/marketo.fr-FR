@@ -4,10 +4,10 @@ description: Présentation des listes statiques - Documents Marketo - Documentat
 title: Présentation des listes statiques
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 3%
+source-wordcount: '212'
+ht-degree: 2%
 
 ---
 
@@ -32,20 +32,20 @@ La différence entre une liste statique et une liste dynamique est essentielle p
 
 ## Méthodes pour ajouter/supprimer des personnes d’une liste {#ways-to-add-remove-people-from-a-list}
 
-1. Étape de flux de campagne dynamique ([Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Supprimer de la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Étape de flux de campagne dynamique ([Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [Étape de flux d’action unique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [Étape de flux d’action unique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Faire glisser des personnes dans une liste de l’arborescence
-1. [Import de la liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+1. [Import de liste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Certaines utilisations d’une liste statique {#some-uses-of-a-static-list}
 
 * Liste qui a été présélectionnée pour recevoir un message marketing.
 * Une liste de &quot;concurrents&quot; que vous utilisez pour envoyer des messages de contre-intelligence espiègles.
-* Liste temporaire des personnes d’un état particulier, qui sont ensuite supprimées par les campagnes intelligentes lorsqu’elles quittent cet état.
+* Liste temporaire des personnes d’un état particulier, qui sont ensuite supprimées par les campagnes dynamiques lorsqu’elles quittent cet état.
 
 Profitez de la puissance de LIST !
 
 >[!MORELIKETHIS]
 >
->[Création d’une liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
+>[Création d’une liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

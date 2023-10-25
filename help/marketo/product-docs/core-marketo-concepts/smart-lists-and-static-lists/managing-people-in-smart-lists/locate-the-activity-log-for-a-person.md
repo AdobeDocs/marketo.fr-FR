@@ -4,30 +4,30 @@ description: Localisation du journal d’activité d’une personne - Documents 
 title: Recherche du journal d’activité d’une personne
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 # Recherche du journal d’activité d’une personne {#locate-the-activity-log-for-a-person}
 
-Le journal d’activité est la source ultime de vérité. C&#39;est l&#39;histoire complète du parcours d&#39;une personne dans Marketo.
+Le journal d’activité est la source ultime de vérité. C&#39;est l&#39;histoire complète du parcours d&#39;une personne en Marketo Engage.
 
-1. Accédez au **Base**.
+1. Accédez au **[!UICONTROL Base]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Sélectionner **Toutes les personnes**.
+1. Sélectionner **[!UICONTROL Toutes les personnes]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Cliquez sur le bouton **Personnes** . Sélection d’une personne **Id** Nombre.
+1. Cliquez sur le bouton **[!UICONTROL Personnes]** . Sélection d’une personne **[!UICONTROL Id]** Nombre.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Cliquez sur **Journal d’activité**.
+1. Cliquez sur **[!UICONTROL Journal d’activité]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ Vous devez exporter le journal des activités d’une personne vers Excel ?
 
    >[!MORELIKETHIS]
    >
-   >En savoir plus sur [filtrage du journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) pour afficher des activités de personne spécifiques.
+   >En savoir plus sur [filtrage du journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} pour afficher des activités de personne spécifiques.
