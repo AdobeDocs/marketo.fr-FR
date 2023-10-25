@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '9098'
+source-wordcount: '9099'
 ht-degree: 5%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 5%
             + [SEO - Optimisation de pages spécifiques avec des mots-clés ciblés](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
             + [SEO - Supprimer un mot-clé](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
             + [SEO - Présentation des mots-clés](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - Afficher les résultats des mots-clés dans le moteur de recherche](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
+            + [SEO - Afficher les résultats des mots-clés dans un moteur de recherche](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Pages {#pages}
             + [SEO - Ajout de notes aux problèmes de page](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
             + [SEO - Ajout de pages](product-docs/additional-apps/seo/pages/seo-add-pages.md)
