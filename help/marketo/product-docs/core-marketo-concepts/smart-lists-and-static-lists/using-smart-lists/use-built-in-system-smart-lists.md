@@ -4,32 +4,32 @@ description: Utilisation de listes dynamiques intégrées/système - Documents M
 title: Utilisation de listes dynamiques intégrées/système
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 7%
 
 ---
 
 # Utilisation de listes dynamiques intégrées/système {#use-built-in-system-smart-lists}
 
-Marketo comporte des listes dynamiques intégrées très utiles. Regardons-les !
+Marketo Engage dispose de listes dynamiques intégrées très utiles. Regardons-les !
 
-1. Accédez au **Base**.
+1. Accédez au **[!UICONTROL Base]**.
 
    ![](assets/db.png)
 
-1. Ouvrez le **Liste dynamique système** pour afficher la collection.
+1. Ouvrez le **[!UICONTROL Liste dynamique système]** pour afficher la collection.
 
    ![](assets/two.png)
 
-1. Pour afficher un exemple : sélectionnez **Toutes les personnes**, puis cliquez sur le bouton **Personnes** .
+1. Pour afficher un exemple : sélectionnez **[!UICONTROL Toutes les personnes]**, puis cliquez sur le bouton **[!UICONTROL Personnes]** .
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Il n’est pas nécessaire d’appliquer les filtres dans les listes dynamiques système à chaque liste/campagne dynamique. Leur contenu est automatiquement reconnu.
+   >Il n’est pas nécessaire d’appliquer les filtres des listes dynamiques système à chaque liste/campagne dynamique. Leur contenu est automatiquement reconnu.
 
 Voici un résumé des actions des listes dynamiques intégrées :
 
@@ -48,4 +48,4 @@ Voici un résumé des actions des listes dynamiques intégrées :
 
 >[!MORELIKETHIS]
 >
->[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

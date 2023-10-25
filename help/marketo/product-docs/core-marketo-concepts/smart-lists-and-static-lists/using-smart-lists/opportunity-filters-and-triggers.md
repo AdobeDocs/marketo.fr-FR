@@ -4,7 +4,7 @@ description: Filtres d’opportunité et Triggers - Documents Marketo - Document
 title: Filtres d’opportunité et Triggers
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%
@@ -17,7 +17,7 @@ Les filtres et déclencheurs d’opportunité vous permettent de suivre les év�
 
 ## Filtres d’opportunités {#opportunity-filters}
 
-Les filtres d’opportunités vous permettent d’analyser les prospects Salesforce qui disposent d’opportunités. Vous pouvez les trouver dans le dossier Opportunités de la palette lors de l’édition d’une liste dynamique. Elles sont en quelques sortes.
+Les filtres d’opportunités vous permettent d’analyser les prospects Salesforce qui disposent d’opportunités. Vous pouvez les trouver dans le dossier Opportunités de la palette lors de la modification d’une liste dynamique. Elles sont en quelques sortes.
 
 * Nombre d&#39;opportunités
 * Montant total de l&#39;opportunité
@@ -37,13 +37,13 @@ Grâce à ces filtres, vous pouvez rechercher des pistes en fonction du nombre t
 
 **L’opportunité a été ajoutée à l’opportunité, a été supprimée de l’opportunité**
 
-Si vous recherchez des prospects qui disposent d’opportunités en fonction d’une combinaison de critères, utilisez la variable **A une opportunité**, **A été ajouté à l’opportunité** ou **A été supprimé de l’opportunité** filtre. Ils vous disent :
+Si vous recherchez des prospects qui disposent d’opportunités en fonction d’une combinaison de critères, utilisez la variable **A une opportunité**, **A été ajouté à l’opportunité**, ou **A été supprimé de l’opportunité** filtre. Ils vous disent :
 
-* **A une opportunité**: Si cette piste présente actuellement une opportunité correspondante
-* **A été ajouté à l’opportunité**: Si cette piste a jamais été ajoutée à une opportunité correspondante
-* **A été supprimé de l’opportunité**: Si cette piste a été supprimée d’une opportunité correspondante
+* **A une opportunité**: si cette piste présente actuellement une opportunité correspondante
+* **A été ajouté à l’opportunité**: si cette piste a jamais été ajoutée à une opportunité correspondante
+* **A été supprimé de l’opportunité**: si cette piste a été supprimée d’une opportunité correspondante
 
-Ajoutez les critères de recherche comme **Contraintes** sur le filtre. Les contraintes incluent vos champs standard et personnalisés d’opportunité :
+Ajoutez les critères de recherche comme **Contrainte** sur le filtre. Les contraintes incluent vos champs standard et personnalisés d’opportunité :
 
 ![](assets/image2015-6-11-12-3a31-3a0.png)
 
@@ -59,7 +59,7 @@ Par exemple, supposons que vous souhaitiez trouver des pistes ayant des opportun
 
 **Opportunité mise à jour**
 
-Le **Mise à jour de l’opportunité** filtre recherche les opportunités lorsqu’un champ d’opportunité spécifique a été mis à jour. Sélectionnez le champ à vérifier avec le menu déroulant Attribut de déclenchement, puis utilisez les contraintes pour réduire l’ensemble de modifications.
+La variable **Mise à jour de l’opportunité** filtre recherche les opportunités lorsqu’un champ d’opportunité spécifique a été mis à jour. Sélectionnez le champ à vérifier avec le menu déroulant Attribut de déclenchement, puis utilisez les contraintes pour réduire l’ensemble de modifications.
 
 Par exemple, ce filtre vous montrera tous les prospects dont la date de clôture a été modifiée au cours des 30 derniers jours :
 
