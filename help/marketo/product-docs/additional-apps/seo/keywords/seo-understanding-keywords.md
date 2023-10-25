@@ -4,18 +4,18 @@ description: SEO - Présentation des mots-clés - Documents Marketo - Documentat
 title: SEO - Présentation des mots-clés
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-# SEO - Compréhension [!UICONTROL Mots-clés] {#seo-understanding-keywords}
+# SEO - Présentation [!UICONTROL Mots-clés] {#seo-understanding-keywords}
 
 [!UICONTROL Mots-clés] sont la colonne vertébrale de votre stratégie d’optimisation pour les moteurs de recherche. Votre but est d&#39;être sur la première page, aussi près que possible de #1 pour les mots-clés en rapport avec votre entreprise.
 
-Le [!UICONTROL Mots-clés] Cette section vous indique le degré de réussite de votre site dans cette tâche et la manière dont vous effectuez l’empilement jusqu’à [votre compétition](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+La variable [!UICONTROL Mots-clés] Cette section vous indique le degré de réussite de votre site dans cette tâche et la manière dont vous effectuez l’empilement jusqu’à [votre compétition](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## [!UICONTROL Mots-clés] - Vue récapitulative {#keywords-summary-view}
 
@@ -51,6 +51,10 @@ Le [!UICONTROL Mots-clés] Cette section vous indique le degré de réussite de 
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Les données s’affichent uniquement pour les mots-clés classés 1 à 100.
 
 ## [!UICONTROL Mots-clés] - Affichage des concurrents {#keywords-competitor-view}
 
