@@ -1,18 +1,18 @@
 ---
-description: Activation de la synchronisation Campaign - Documents Marketo - Documentation du produit
+description: Activer la synchronisation Campaign - Documents Marketo - Documentation du produit
 title: Activer la synchronisation de la campagne
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 5%
 
 ---
 
 # Activer la synchronisation de la campagne {#enable-campaign-sync}
 
-Cette option permet à Marketo d’ajouter et de supprimer des membres de MS Dynamics Campaign.
+Cette option permet au Marketo Engage d’ajouter et de supprimer des membres de MS Dynamics Campaign.
 
 >[!PREREQUISITES]
 >
@@ -22,19 +22,19 @@ Cette option permet à Marketo d’ajouter et de supprimer des membres de MS Dyn
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans votre Marketo, cliquez sur **Administration**.
+1. Dans votre Marketo, cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Cliquez sur **Microsoft Dynamics**.
+1. Cliquez sur **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Sous Options de synchronisation, cliquez sur **Modifier**.
+1. Sous Options de synchronisation, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Sélectionnez la **Activation de la synchronisation de Microsoft Dynamics Campaign** , puis cliquez sur **Enregistrer**.
+1. Sélectionnez la variable **[!UICONTROL Activation de la synchronisation de Microsoft Dynamics Campaign]** case à cocher et clic **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-campaign-sync-4.png)
 

@@ -3,16 +3,16 @@ description: Mappage des champs Dynamics par défaut - Documents Marketo - Docum
 title: Mappage des champs Dynamics par défaut
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 42%
 
 ---
 
 # Mappage des champs Dynamics par défaut {#default-dynamics-field-mapping}
 
-Lors de la synchronisation initiale de votre compte Marketo avec Microsoft, Marketo effectue automatiquement ces associations entre vos champs Dynamics et Marketo intégrés.  Marketo synchronise également vos champs personnalisés sur vos pistes, comptes, opportunités et contacts.
+Lors de la synchronisation initiale de votre compte de Marketo Engage avec Microsoft, Marketo effectue automatiquement ces associations entre vos champs Dynamics et Marketo intégrés.  Marketo synchronise également vos champs personnalisés sur vos pistes, comptes, opportunités et contacts.
 
 ## Champs de leads {#lead-fields}
 
@@ -245,7 +245,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
       <th>Nom de l’API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Détenteur </td>
+      <td>Détenteur</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -433,7 +433,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
     <tr>
       <td>Notes du contact</td>
       <td>Description</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
     <tr>
       <td>Évaluation en tant qu’individu</td>
@@ -443,7 +443,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
     <tr>
       <td>Notes du contact</td>
       <td>Description</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
   </tbody>
 </table>
@@ -461,7 +461,7 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
       <th>Nom de l’API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Détenteur </td>
+      <td>Détenteur</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -581,7 +581,7 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>Société</td>
-      <td>Nom du compte</td>
+      <td>Nom de compte</td>
       <td>name</td>
     </tr>
     <tr>
@@ -605,7 +605,7 @@ Les champs Compte ci-dessous sont synchronisés pour une utilisation interne.
       <th>Nom de l’API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Détenteur </td>
+      <td>Détenteur</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -675,7 +675,7 @@ Les champs Compte ci-dessous sont synchronisés pour une utilisation interne.
       <th>Nom de l’API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Détenteur </td>
+      <td>Détenteur</td>
       <td>ownerid</td>
     </tr>
     <tr>

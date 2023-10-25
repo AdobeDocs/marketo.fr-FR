@@ -4,16 +4,16 @@ description: Filtre de synchronisation Microsoft Dynamics - Qualification - Docu
 title: Filtre de synchronisation Microsoft Dynamics - Qualification
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 6%
 
 ---
 
-# Filtre de synchronisation Microsoft Dynamics : Qualifier {#microsoft-dynamics-sync-filter-qualify}
+# Filtre de synchronisation Microsoft Dynamics : admissible {#microsoft-dynamics-sync-filter-qualify}
 
-Lorsque vous souhaitez convertir un prospect en contact dans Microsoft Dynamics, veillez à utiliser ce processus de qualification par défaut. Ensuite, synchronisez-la avec Marketo.
+Lorsque vous souhaitez convertir un prospect en contact dans Microsoft Dynamics, veillez à utiliser ce processus de qualification par défaut. Ensuite, synchronisez-la avec Marketo Engage.
 
 ## Processus de conversion {#the-conversion-process}
 
