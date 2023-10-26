@@ -4,32 +4,20 @@ description: "Ajouter [!DNL Webex] as a [!DNL LaunchPoint] Service - Documents M
 title: "Ajouter [!DNL Webex] as a [!DNL LaunchPoint] Service"
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 5%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 
 # Ajouter [!DNL Webex] as a [!DNL LaunchPoint] Service {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage gère votre [!DNL Webex] inscription à un webinaire et participation.
+Le Marketo Engage gère votre [!DNL Webex] inscription à un webinaire et participation. Vous devez disposer d’un abonnement existant à [[!UICONTROL Webex]](https://www.webex.com/).
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
-
->[!NOTE]
->
->Un abonnement existant à [!DNL Webex] Les droits d’administration et sont nécessaires pour cette étape. Définissez les paramètres suivants à portée de main : Nom d’utilisateur, mot de passe et nom du site.
-
->[!NOTE]
->
->Le nom du site se trouve à la fin de l’URL utilisée pour se connecter. [!DNL Webex]. Par exemple :
->
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
->
->**Attention :** Ne saisissez pas l’URL entière dans ce champ ; entrez uniquement le nom du site !
 
 1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
@@ -43,22 +31,26 @@ Marketo Engage gère votre [!DNL Webex] inscription à un webinaire et participa
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. Saisissez un **[!UICONTROL Nom d’affichage]**. Sous **[!UICONTROL Service]**, sélectionnez **[!UICONTROL Webex]**.
+1. Saisissez un **[!UICONTROL Nom d’affichage]**. Dans le **[!UICONTROL Service]** , sélectionnez **[!UICONTROL Webinaires Webex]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. Saisissez votre **[!UICONTROL Nom d’utilisateur]** et **[!UICONTROL Mot de passe]**.
+1. Cliquez sur **[!UICONTROL Connexion à des webinaires Webex]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Terminez le processus en saisissant votre **[!UICONTROL Nom du site]** puis cliquez sur **[!UICONTROL Créer]**.
+1. Webex s’ouvre dans un nouvel onglet. Connectez-vous à l’aide de vos informations d’identification Webex.
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
+1. Une fois la connexion établie, l’onglet se ferme et la variable _Nouveau service_ dans Marketo Engage, le modal indique &quot;Le compte de webex Webinars est défini&quot;. Cliquez sur **[!UICONTROL Créer]**.
+
+   ![](assets/add-webex-as-a-launchpoint-service-7.png)
+
 Votre **[!DNL Webex]** est désormais synchronisé avec Marketo.
 
-![](assets/add-webex-as-a-launchpoint-service-7.png)
+![](assets/add-webex-as-a-launchpoint-service-8.png)
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [créer un événement avec [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>[Création d’un événement avec [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
