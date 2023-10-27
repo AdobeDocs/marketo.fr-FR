@@ -4,10 +4,10 @@ title: Nouveau document Ajouter des images
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 10%
+source-wordcount: '262'
+ht-degree: 7%
 
 ---
 
@@ -51,11 +51,15 @@ Texte
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Sélectionnez la variable **Web** .
+1. Sélectionnez la variable **[!UICONTROL Web]** et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. Texte
+1. Saisissez ou collez dans l’URL l’image souhaitée, puis cliquez sur **Suivant**.
+
+PICC
+
+1. Cliquez sur BLANC.
 
 PICC
 
@@ -67,9 +71,27 @@ Texte
 
 1. Cliquez sur le bouton **[!UICONTROL Actions d’image et de fichier]** et sélectionnez **[!UICONTROL Importer une image ou un fichier]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Texte
+1. Sélectionnez la variable **[!UICONTROL Zone]** et cliquez sur **[!UICONTROL Suivant]**.
+
+   ![](assets/add-images-and-files-to-marketo-11.png)
+
+   >[!NOTE]
+   >
+   >Si vous ne l’avez pas déjà fait, vous serez invité à vous connecter à votre compte Box pour y accorder l’accès.
+
+1. Sélectionnez le dossier Box souhaité, puis cliquez sur **[!UICONTROL Suivant]**.
+
+   ![](assets/add-images-and-files-to-marketo-12.png)
+
+1. Sélectionnez une ou plusieurs images, puis cliquez sur **[!UICONTROL Suivant]**.
+
+   ![](assets/add-images-and-files-to-marketo-13.png)
+
+1. Sélectionnez le dossier du Marketo Engage dans lequel vous souhaitez enregistrer l’image. Dans cet exemple, nous le laisserons sous la forme Images et Fichiers (par défaut). Cliquez sur **Importer**.
+
+   ![](assets/add-images-and-files-to-marketo-14.png)
 
 ### Importer depuis Adobe Experience Manager {#import-from-adobe-experience-manager}
 
@@ -78,6 +100,18 @@ Texte
 1. Suivez les étapes 1 et 2 [from above](#upload-image-or-file).
 
 1. Cliquez sur le bouton **[!UICONTROL Actions d’image et de fichier]** et sélectionnez **[!UICONTROL Importer une image ou un fichier]**.
+
+   ![](assets/add-images-and-files-to-marketo-15.png)
+
+1. Texte
+
+PICC
+
+1. Texte
+
+PICC
+
+1. Texte
 
 PICC
 
