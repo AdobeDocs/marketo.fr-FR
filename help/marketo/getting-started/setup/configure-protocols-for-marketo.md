@@ -4,9 +4,9 @@ description: Configuration de protocoles pour Marketo - Documents Marketo - Docu
 title: Configuration de protocoles pour Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 4%
 
 Si vous ou votre entreprise utilisez des paramètres de pare-feu ou de serveur proxy restrictifs, vous ou votre administrateur réseau devrez peut-être placer sur la liste autorisée certains domaines et plages d’adresses IP pour vous assurer que Adobe Marketo Engage fonctionne comme prévu.
 
-## Pages d’entrée et emails de campagne de marque {#branded-campaign-landing-pages-and-emails}
-
-Votre groupe marketing utilise Marketo pour créer des landing pages et des emails de campagne de marque. Pour s’assurer que ces landing pages et ces emails fonctionnent, le service informatique doit les aider un peu. Configurez les protocoles suivants, avec les informations que votre groupe marketing aurait dû vous envoyer par e-mail.
-
-Cet article doit être partagé avec le service informatique de la société souhaitant mettre en oeuvre ces protocoles.
-
-Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets Marketo :
+Pour obtenir de l’aide sur la mise en oeuvre des protocoles ci-dessous, veuillez partager cet article avec votre service informatique. S’ils limitent l’accès web à l’aide d’une liste autorisée, veillez à ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets Marketo :
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
