@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360184
-description: Filtrage d’un rapport d’activité de campagne - Documents Marketo - Documentation du produit
+description: Filtrage d’un rapport Activité de campagne - Documents Marketo - Documentation du produit
 title: Filtrage d’un rapport d’activité de campagne
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrage d’un rapport d’activité de campagne {#filter-a-campaign-activity-report}
 
 Concentrez-vous sur vos [Rapport Activité de campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)sur spécifique [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+
+>[!NOTE]
+>
+>Le filtrage des ressources dans les rapports n’est pas pris en charge en mode satellite (l’icône &quot;Ouvrir dans une nouvelle fenêtre&quot; située à droite de la page des détails de la ressource).
 
 1. Accédez à **Activités marketing** (ou **Analytics**) et sélectionnez votre rapport d’activité de campagne.
 

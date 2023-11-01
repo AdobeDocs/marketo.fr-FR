@@ -4,9 +4,9 @@ description: Filtrage des ressources dans un rapport de messagerie Campaign - Do
 title: Filtrage des ressources dans les rapports de messagerie d’une campagne
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrage des ressources dans les rapports de messagerie d’une campagne {#filter-assets-in-a-campaign-email-reports}
 
 Concentrez-vous sur vos [Performances des emails Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) rapport sur des [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) dans vos programmes (&#39;ressources locales&#39;) ou sur ceux qui ont été archivés.
+
+>[!NOTE]
+>
+>Le filtrage des ressources dans les rapports n’est pas pris en charge en mode satellite (l’icône &quot;Ouvrir dans une nouvelle fenêtre&quot; située à droite de la page des détails de la ressource).
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 
@@ -27,8 +31,8 @@ Concentrez-vous sur vos [Performances des emails Campaign](/help/marketo/product
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Campagnes**: Principales campagnes intelligentes dans votre compte Marketo.
-   * **Campagnes archivées**: Campagnes intelligentes inactives et retirées.
+   * **Campagnes**: campagnes intelligentes actives dans votre compte Marketo.
+   * **Campagnes archivées**: campagnes intelligentes inactives et retirées.
 
 1. Sélectionnez les dossiers et les campagnes intelligentes spécifiques à inclure dans votre rapport.
 

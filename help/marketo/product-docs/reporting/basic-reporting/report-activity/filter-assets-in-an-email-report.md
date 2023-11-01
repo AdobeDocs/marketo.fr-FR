@@ -4,9 +4,9 @@ description: Filtrage des ressources dans un rapport par courrier électronique 
 title: Filtrage des ressources dans un rapport par courriel
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrage des ressources dans un rapport par courriel {#filter-assets-in-an-email-report}
 
 Concentrez-vous sur vos [Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Performances des liens email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapport sur les emails de vos programmes (&#39;ressources locales&#39;), ceux de Design Studio (&#39;ressources globales&#39;) ou ceux qui ont été archivés.
+
+>[!NOTE]
+>
+>Le filtrage des ressources dans les rapports n’est pas pris en charge en mode satellite (l’icône &quot;Ouvrir dans une nouvelle fenêtre&quot; située à droite de la page des détails de la ressource).
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 
@@ -27,9 +31,9 @@ Concentrez-vous sur vos [Performances des emails](/help/marketo/product-docs/ema
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Courriers électroniques de Design Studio**: Ressources globales, gérées dans Design Studio.
-   * **Emails sur les activités marketing**: Ressources locales dans les programmes sous l’onglet Activités marketing .
-   * **Emails archivés**: Emails inactifs et retirés.
+   * **Courriers électroniques de Design Studio**: ressources globales, gérées dans Design Studio.
+   * **Emails sur les activités marketing**: ressources locales dans les programmes sous l’onglet Activités marketing .
+   * **Emails archivés**: emails inactifs et retirés.
 
 1. Sélectionnez les dossiers et emails spécifiques à inclure dans votre rapport.
 
