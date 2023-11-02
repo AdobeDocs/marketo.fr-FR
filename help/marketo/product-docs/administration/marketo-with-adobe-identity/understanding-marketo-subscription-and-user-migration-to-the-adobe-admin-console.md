@@ -3,9 +3,9 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
+source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1169'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Les administrateurs de produit Marketo :
 
 >[!NOTE]
 >
->En raison de la complexité de la migration, les modifications de date ne sont limitées qu’à 30 jours au maximum au-delà de la date planifiée. Envoyez un courrier électronique à marketocares@marketo.com si vous avez besoin d’une date ultérieure.
+>En raison de la complexité de la migration, les modifications de date ne sont limitées qu’à 30 jours au maximum au-delà de la date planifiée. Envoi d’un courrier électronique à `marketocares@marketo.com` si vous avez besoin d’une date ultérieure.
 
 * Dans My Marketo, une bannière s’affiche avec un compte à rebours jusqu’à la date de début de la migration des utilisateurs.
 
@@ -81,7 +81,7 @@ En tant qu’administrateur de produit Marketo, vous êtes invité à vous assur
 
 ### À quoi vous attendre le jour de la migration {#what-to-expect-on-migration-day}
 
-La migration des utilisateurs commencera à minuit du fuseau horaire défini dans l’abonnement à Marketo.
+La migration des utilisateurs commencera à minuit, heure normale du Pacifique, de la date de début de la migration.
 
 **Adobe migrera automatiquement d’abord les administrateurs Marketo**. Lorsque les administrateurs Marketo sont migrés vers Adobe Identity, ils se voient attribuer le rôle d’ administrateur de produit Adobe dans l’application Marketo avec tous les autres rôles qu’ils avaient auparavant.
 
@@ -101,4 +101,4 @@ Adobe avertira tous les administrateurs système et les administrateurs de produ
 
 ## Obtenir une assistance {#get-support}
 
-Pour obtenir une assistance supplémentaire concernant votre abonnement ou la migration des utilisateurs, envoyez un email à l’adresse marketocares@marketo.com.
+Pour une prise en charge supplémentaire concernant votre inscription ou la migration des utilisateurs, envoyez un email à `marketocares@marketo.com`.
