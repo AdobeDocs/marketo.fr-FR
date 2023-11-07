@@ -2,11 +2,11 @@
 description: Notes de mise à jour - Juillet 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Juillet 2023
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 6%
+source-wordcount: '654'
+ht-degree: 5%
 
 ---
 
@@ -92,7 +92,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 </br>
 
-* **Désabonner les paramètres d’ajout**: vous avez désormais plus de contrôle sur vos messages de désabonnement avec de nouvelles options de configuration pour Désabonner l’ajout. Les nouvelles fonctionnalités permettent aux administrateurs de contrôler quand, où et quels messages de désabonnement apparaîtront dans vos emails de vente.
+* **Désabonner les paramètres d’ajout pour les actions Sales Insight**: vous avez désormais plus de contrôle sur vos messages de désabonnement avec de nouvelles options de configuration pour Désabonner l’ajout. Les nouvelles fonctionnalités permettent aux administrateurs de contrôler quand, où et quels messages de désabonnement apparaîtront dans vos emails de vente.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Ajout automatique du paramètre de message de désabonnement</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Invitations De Champ Dynamique**: vous pouvez désormais inviter votre équipe de vente à personnaliser davantage des parties spécifiques d’un email avec de nouvelles invites de champ pouvant être ajoutées aux modèles d’email dans les actions d’aperçu des ventes.
+* **Appels de champ dynamiques pour les actions d’aperçu commercial**: vous pouvez désormais inviter votre équipe de vente à personnaliser davantage des parties spécifiques d’un email avec de nouvelles invites de champ pouvant être ajoutées aux modèles d’email dans les actions d’aperçu des ventes.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Champs dynamiques par défaut**: les champs dynamiques par défaut vous permettent de configurer une valeur de secours à laquelle un champ dynamique peut se résoudre s’il n’existe aucune valeur à renseigner. Cela permet de s’assurer que les emails sont envoyés avec toute la personnalisation renseignée.
+* **Champs dynamiques par défaut pour les actions Sales Insight**: les champs dynamiques par défaut vous permettent de configurer une valeur de secours à laquelle un champ dynamique peut se résoudre s’il n’existe aucune valeur à renseigner. Cela permet de s’assurer que les emails sont envoyés avec toute la personnalisation renseignée.
 
 <table> 
   <tr> 
