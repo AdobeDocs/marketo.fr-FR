@@ -3,14 +3,16 @@ description: Accorder le consentement pour l’ID de client et l’enregistremen
 title: Octroi du consentement pour l’ID de client et l’enregistrement de l’application
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Octroi du consentement pour l’ID de client et l’enregistrement de l’application {#grant-consent-for-client-id-and-app-registration}
+
+Suivez les étapes ci-dessous pour savoir comment accorder le consentement/les autorisations nécessaires.
 
 ## Octroi d’autorisations d’utilisateur déléguées à l’utilisateur de synchronisation {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 0%
    >
    >Si vous êtes déjà connecté à Azure en tant qu’administrateur dans un autre onglet, vous devrez utiliser un autre navigateur ou mode Incognito pour vous connecter en tant qu’utilisateur de synchronisation.
 
-1. Cliquez sur **Accepter**.
+1. Cliquez sur **[!UICONTROL Accepter]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ En tant qu’administrateur, vous pouvez également consentir aux autorisations 
 
 1. Dans votre portail Azure, accédez à la page d’accueil de l’application.
 
-1. Sous Gérer, cliquez sur **Autorisations d’API**.
+1. Sous Gérer, cliquez sur **[!UICONTROL Autorisations d’API]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Cliquez sur le bouton **Autorisation du consentement de l’administrateur** (pour le client).
+1. Cliquez sur le bouton **[!UICONTROL Autorisation du consentement de l’administrateur]** (pour le client).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Cliquez sur **Oui** pour confirmer.
+1. Cliquez sur **[!UICONTROL Oui]** pour confirmer.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

@@ -4,66 +4,66 @@ description: Étape 1 sur 3 - Installation de la solution Marketo dans Dynamics 
 title: Étape 1 sur 3 - Installation de la solution Marketo dans Dynamics (On-Premise 2013)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
-# Étape 1 sur 3 : Installation de la solution Marketo dans Dynamics (2013 On-Premise) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# Étape 1 sur 3 : installation de la solution Marketo dans Dynamics (On-Premise 2013) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo, vous devez installer la solution Marketo dans Dynamics.
+Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, vous devez installer la solution Marketo dans Dynamics.
 
 >[!NOTE]
 >
->Après avoir synchronisé Marketo avec un CRM, vous ne pouvez pas effectuer de nouvelle synchronisation sans remplacer l’instance.
+>Une fois que vous avez synchronisé Marketo avec un CRM, vous ne pouvez pas effectuer une nouvelle synchronisation sans remplacer l’instance.
 
 >[!PREREQUISITES]
 >
->Vous devez avoir [Déploiement Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) avec [Services de fédération principale Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 ou 3.0 (ADFS) configurés. Remarque : Le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
+>Vous devez avoir [Déploiement Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 ou 3.0 (ADFS) configurés. Remarque : le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
->[Téléchargement de la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) avant de commencer.
+>[Téléchargement de la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} avant de commencer.
 
 >[!NOTE]
 >
->**Autorisations d’administrateur Dynamics requises.**
+>**Autorisations d’administrateur Dynamics requises**.
 >
 >Pour effectuer cette synchronisation, vous avez besoin des privilèges d’administrateur CRM.
 
-1. Se connecter **Dynamics**. Cliquez sur le bouton **Microsoft Dynamics CRM** menu déroulant, puis sélectionnez **Paramètres**.
+1. Connectez-vous à Dynamics. Cliquez sur le bouton **[!UICONTROL Microsoft Dynamics CRM]** menu déroulant et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Sous **Paramètres**, sélectionnez **Solutions**.
+1. Sous **[!UICONTROL Paramètres]**, sélectionnez **[!UICONTROL Solutions]**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
-1. Cliquez sur **Importer**.
+1. Cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Cliquez sur **Parcourir** et sélectionnez la variable [solution téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Parcourir]** et sélectionnez la variable [solution téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. Affichez les informations sur la solution et cliquez sur **Afficher les détails du module de solution**.
+1. Affichez les informations sur la solution et cliquez sur **[!UICONTROL Afficher les détails du module de solution]**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. Lorsque vous avez terminé de vérifier tous les détails, cliquez sur **Fermer**.
+1. Lorsque vous avez terminé de vérifier tous les détails, cliquez sur **[!UICONTROL Fermer]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. De retour sur la page Informations sur la solution, cliquez sur **Suivant**.
+1. De retour sur la page Informations sur la solution, cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. Assurez-vous que l’option SDK est cochée. Cliquez sur **Importer**.
+1. Assurez-vous que l’option SDK est cochée. Cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 
-1. Attendez que l’importation se termine.
+1. Patientez jusqu’à la fin de l’importation.
 
    >[!TIP]
    >
@@ -71,7 +71,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo, vous dev
 
    ![](assets/image2014-12-11-10-3a41-3a5.png)
 
-1. Téléchargez un fichier journal (le cas échéant) et cliquez sur **Fermer**.
+1. Téléchargez un fichier journal (le cas échéant) et cliquez sur **[!UICONTROL Fermer]**.
 
    >[!NOTE]
    >
@@ -79,15 +79,13 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo, vous dev
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. La Gestion des leads Marketo apparaîtra désormais sur la page **Toutes les solutions** page.
+1. La Gestion des pistes Marketo apparaît désormais sur la page **[!UICONTROL Toutes les solutions]** page.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Sélectionnez la solution Marketo et cliquez sur **Publier toutes les personnalisations**.
+1. Sélectionnez la solution Marketo et cliquez sur **[!UICONTROL Publier toutes les personnalisations]**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
-
-N&#39;était-ce pas vraiment mal ? Allez, je vais continuer à vous promener à travers le reste.
 
 >[!CAUTION]
 >
@@ -95,4 +93,4 @@ N&#39;était-ce pas vraiment mal ? Allez, je vais continuer à vous promener à 
 
 >[!MORELIKETHIS]
 >
->[Étape 2 sur 3 : Configuration de l’utilisateur de synchronisation pour Marketo (2013 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+>[Étape 2 sur 3 : configuration de l’utilisateur de synchronisation pour Marketo (2013 On-Premise)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md){target="_blank"}
