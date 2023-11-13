@@ -3,9 +3,9 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: '1189'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Dans le cadre de la migration, votre gestion des abonnements et des utilisateurs
 * **Les utilisateurs se connecteront avec l’identité de l’Adobe**. Adobe migre les utilisateurs existants vers Adobe Admin Console. Les utilisateurs se connectent à leurs abonnements Marketo à l’aide de leur nouvelle identité d’Adobe : Adobe ID ou Adobe Federated ID (SSO).
 
 * **La façon dont vous gérez toutes les autres fonctionnalités n’a pas changé** dans l’application Marketo Engage elle-même, notamment la gestion des fonctionnalités, des rôles utilisateur, des espaces de travail, des fonctionnalités et du comportement.
-
 
 ## Chronologie du Parcours de migration {#migration-journey-timeline}
 
@@ -81,7 +80,7 @@ En tant qu’administrateur de produit Marketo, vous êtes invité à vous assur
 
 ### À quoi vous attendre le jour de la migration {#what-to-expect-on-migration-day}
 
-La migration des utilisateurs commencera à minuit, heure normale du Pacifique, de la date de début de la migration.
+Tous les abonnements Marketo avec un fuseau horaire des États-Unis seront migrés à partir de minuit, heure du Pacifique, à partir de la date de début de la migration. La migration des utilisateurs pour tous les autres abonnements commencera à minuit du fuseau horaire spécifié de l’abonnement.
 
 **Adobe migrera automatiquement d’abord les administrateurs Marketo**. Lorsque les administrateurs Marketo sont migrés vers Adobe Identity, ils se voient attribuer le rôle d’ administrateur de produit Adobe dans l’application Marketo avec tous les autres rôles qu’ils avaient auparavant.
 
@@ -93,7 +92,9 @@ La migration des utilisateurs commencera à minuit, heure normale du Pacifique, 
 >
 >L’accès au produit ne sera pas perdu lors de la migration des utilisateurs. Si un utilisateur est connecté au moment de la migration de son utilisateur, il sera déconnecté et invité à se reconnecter dans les minutes qui suivent la fin de la migration à l’aide de l’option Adobe Identity.
 
-Lorsque les utilisateurs sont migrés, ils reçoivent un courrier électronique de l’Adobe les informant de la modification de leur manière de se connecter à Marketo. Les utilisateurs seront invités à accepter une invitation à se connecter à l’aide d’Adobe Identity pour la première fois, soit en se connectant à un Adobe ID existant, soit en configurant une nouvelle Adobe ID à l’aide de la même adresse électronique. Vous trouverez plus d’informations dans notre [Connexion de l’utilisateur avec Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} article.
+Lorsque les utilisateurs sont migrés, ils reçoivent un courrier électronique de l’Adobe les informant de la modification de leur manière de se connecter à Marketo. Les utilisateurs seront invités à accepter une invitation à se connecter à l’aide d’Adobe Identity pour la première fois, soit en se connectant à un Adobe ID existant, soit en configurant une nouvelle Adobe ID à l’aide de la même adresse électronique.
+
+Vous trouverez plus d’informations dans la section [Connexion de l’utilisateur avec Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## Migration des utilisateurs terminée {#user-migration-complete}
 

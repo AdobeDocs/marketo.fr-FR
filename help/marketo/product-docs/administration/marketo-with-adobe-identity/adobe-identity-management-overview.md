@@ -3,22 +3,16 @@ description: Présentation d’Adobe Identity Management - Documentation Marketo
 title: Présentation d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Présentation d’Adobe Identity Management {#adobe-identity-management-overview}
 
-Si vous disposez d’un nouveau compte avec Adobe Marketo Engage (un nouveau compte, et pas seulement une nouvelle instance pour un compte existant) à compter du 15 février 2022, il peut être intégré au système Identity Management d’Adobe, en fonction du package de produits acheté. Pour savoir si vous l’avez, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
-
-Les abonnements Marketo existants commenceront à être migrés vers le système Identity Management Adobe au cours du second semestre 2023.
-
-Si vous avez une [nouveau compte](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (et pas seulement une nouvelle instance pour un compte existant) avec Adobe Marketo Engage à compter du 15 février 2022, il peut être intégré à Adobe Identity Management System (IMS), en fonction du package de produits acheté. Pour savoir si vous l’avez, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
-
-Les abonnements Marketo existants commenceront à être migrés vers le système Identity Management Adobe à la fin de 2023. Au départ, ces migrations ne peuvent avoir lieu qu’après la reprise de votre abonnement Marketo. Adobe prévoit de commencer à migrer les utilisateurs de Marketo en dehors des événements de recontraction vers la mi-2024.
+Tous les nouveaux abonnements Adobe Marketo Engage (du 31 juillet 2023 ou version ultérieure) sont intégrés au système Identity Management Adobe. Les abonnements Marketo existants sont actuellement migrés vers le système Identity Management d’Adobe lors des événements de renouvellement et/ou de recontraction. Pour le moment, les migrations en dehors d’un événement de renouvellement ou de recontraction ne sont pas prises en charge.
 
 >[!NOTE]
 >
