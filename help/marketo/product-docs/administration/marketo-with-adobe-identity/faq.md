@@ -3,10 +3,10 @@ description: FAQ sur Adobe Identity Management - Documentation Marketo - Documen
 title: FAQ sur Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 3%
+source-wordcount: '1180'
+ht-degree: 2%
 
 ---
 
@@ -89,3 +89,23 @@ Oui, vous déterminez le type d’identité à prendre en charge par votre organ
 **Quelles cartes de produits sont prises en charge dans Adobe Admin Console ?**
 
 Les cartes de produits prises en charge sont les suivantes : Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect et Marketo Sales Insight Actions.
+
+**Que se passe-t-il si ma connexion utilisateur ne correspond pas à mon adresse électronique lorsque je suis migré vers une identité d’Adobe ?**
+
+Les utilisateurs Marketo actuels disposant de comptes différents de leur adresse électronique ne se connectent plus avec ces informations d’identification une fois migrées vers une identité d’Adobe. Les identités d’Adobe s’authentifient toujours avec l’adresse électronique d’un utilisateur.
+
+**Que se passe-t-il après la migration Adobe Identity si mon abonnement utilise les paramètres de restriction IP ?**
+
+Lorsque les abonnements sont intégrés à Adobe Identity, les paramètres de restriction d’IP ne sont pas migrés vers Adobe Admin Console. Les paramètres de restriction d’IP de Marketo incluent l’autorisation d’accès uniquement à partir d’adresses IP spécifiques et le blocage d’accès à des adresses IP spécifiques. Actuellement, Adobe Identity Management System ne prend pas en charge les fonctionnalités de restriction d’IP.
+
+À compter de 2024, Adobe Identity Management System lancera une fonctionnalité pour prendre en charge uniquement les adresses IP spécifiques, ce qui prendra en charge une transition pour les utilisateurs Marketo qui utilisent cette fonctionnalité. Les utilisateurs qui utilisent actuellement cette fonctionnalité ne feront pas l’objet d’une migration de l’utilisateur tant qu’elle n’aura pas été publiée. Une fois la fonctionnalité fournie, les utilisateurs sont avertis de la planification de leur migration. Des informations supplémentaires sur la fonctionnalité seront fournies le cas échéant.
+
+Les utilisateurs qui utilisent actuellement la restriction d’IP, empêchant l’accès à des adresses spécifiques, ne pourront plus utiliser cette fonctionnalité après avoir été migrés vers Adobe Identity, car elle n’est pas prise en charge par Adobe Identity Management System.
+
+**Que se passe-t-il après la migration des identités d’Adobe si j’ai des utilisateurs avec un rôle qui dispose de l’option &quot;Contournement de la connexion unique&quot; ?**
+
+Lorsque les abonnements sont intégrés à Adobe Identity, l’authentification unique (SSO) est configurée au niveau de l’organisation Adobe pour tous les utilisateurs. Lorsque l’authentification unique est configurée, elle est appliquée à tous les utilisateurs Marketo/toutes les instances Marketo de cette organisation d’Adobe. Auparavant, Marketo prenait en charge l’autorisation de configurer un rôle utilisateur afin qu’il ait la possibilité de &quot;Contourner l’authentification unique&quot;. Ceci n’est pas pris en charge par Adobe Identity Management System.
+
+**J’ai plusieurs abonnements, mais tous n’ont pas l’authentification unique activée. Que se passe-t-il après la migration Adobe Identity ?**
+
+Lorsque les abonnements sont intégrés à Adobe Identity, l’authentification unique (SSO) est configurée au niveau de l’organisation Adobe. Cela signifie que l’authentification unique s’applique à toutes les instances de produit dans l’organisation Adobe. Lorsque l’authentification unique est configurée, elle s’applique à toutes les instances Marketo de cette organisation d’Adobe. Auparavant, Marketo prenait en charge ce paramètre au niveau de l’instance. Cela n’est pas pris en charge par Adobe Identity Management System.
