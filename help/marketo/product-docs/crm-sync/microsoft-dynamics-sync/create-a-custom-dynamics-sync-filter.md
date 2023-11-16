@@ -4,9 +4,9 @@ description: Créer un filtre de synchronisation Dynamics personnalisé - Docume
 title: Création d’un filtre de synchronisation Dynamics personnalisé
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '799'
 ht-degree: 1%
 
 ---
@@ -20,11 +20,13 @@ Ne souhaitez-vous pas tout synchroniser dans Marketo avec Dynamics CRM ? Ne vous
 Pour configurer un filtre de synchronisation Dynamics :
 
 1. Créez un champ personnalisé Deux options (booléen) nommé new_synctomkto dans votre CRM Dynamics pour tout objet (prospect, contact, compte, opportunité et autres entités personnalisées).
-1. Attribuez à ce champ une valeur Oui/Non ou laissez-la vide.
+1. Attribuez à ce champ une valeur Oui/Non.
 
->[!NOTE]
+Vous devez effectuer ces modifications dans Dynamics CRM, et non dans votre base de données ou votre Marketo.
+
+>[!CAUTION]
 >
->Vous devez effectuer ces modifications dans Dynamics CRM, et non dans votre base de données ou votre Marketo.
+>Si vous n’affectez pas le champ et laissez-le vide/NULL, il se synchronise mais ne se met pas à jour.
 
 Marketo recherche ce champ lors de la synchronisation automatique en arrière-plan et détermine les enregistrements à synchroniser en fonction de cette logique :
 

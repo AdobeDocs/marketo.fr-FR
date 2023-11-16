@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '9099'
 ht-degree: 5%
@@ -565,7 +565,7 @@ ht-degree: 5%
             + [Statut de synchronisation](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Présentation de la synchronisation des campagnes](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Activer la synchronisation de la campagne](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + Détails du filtre de synchronisation Dynamics personnalisé {#custom-dynmaics-sync-filter-details}
+         + Détails du filtre de synchronisation Dynamics personnalisé {#custom-dynamics-sync-filter-details}
             + [Création d’un filtre de synchronisation Dynamics personnalisé](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Règles de filtre de synchronisation personnalisées pour une adresse électronique](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Filtre de synchronisation Microsoft Dynamics : Fusion](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
