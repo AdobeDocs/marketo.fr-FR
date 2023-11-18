@@ -3,9 +3,9 @@ description: État de synchronisation Salesforce - Documents Marketo - Documenta
 title: Statut de synchronisation Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '554'
 ht-degree: 14%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 14%
 
 Utilisez le tableau de bord État de synchronisation pour afficher les statistiques de synchronisation dans le cadre des étapes de synchronisation et de son état de réussite.
 
-Les étapes de synchronisation reflètent les opérations push ou pull de chaque type d’objet pour le schéma d’objet et les données elles-mêmes. Les statistiques couvrent les nouveaux enregistrements, les mises à jour, les suppressions et les échecs de comptage pendant la synchronisation. Les utilisateurs peuvent filtrer par date, type d’opération ou type d’objet. Le tableau de bord État de synchronisation affiche l’état des cycles de synchronisation pour les cinq derniers jours.
+Les étapes de synchronisation reflètent les opérations push ou pull de chaque type d’objet pour le schéma d’objet et les données elles-mêmes. Les statistiques couvrent les nouveaux enregistrements, les mises à jour, les suppressions et les échecs de comptage pendant la synchronisation. Les utilisateurs peuvent filtrer par date, type d’opération ou type d’objet. Le tableau de bord État de synchronisation affiche l’état des cycles de synchronisation pour les cinq derniers jours.
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ Les étapes de synchronisation reflètent les opérations push ou pull de chaque
 
 ## Afficher l’état de synchronisation {#view-sync-status}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Sous Intégration, cliquez sur Salesforce, puis sur l’onglet État de synchronisation .
+1. Sous [!UICONTROL Intégration], cliquez sur **Salesforce**, puis la variable **[!UICONTROL État de la synchronisation]** .
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Sélectionnez la date et l’heure, puis cliquez sur la ou les listes déroulantes à filtrer par type d’objet, type d’opération et/ou type d’état.
+1. Sélectionnez la période et la période, puis cliquez sur la ou les listes déroulantes à filtrer [!UICONTROL Type d’objet], [!UICONTROL Type d’opération], et/ou [!UICONTROL Type d’état].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Cliquez sur **Appliquer**.
+1. Cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**ÉTAPE FACULTATIVE**: Pour exporter les erreurs de synchronisation, cliquez sur **Exporter**. Les données seront exportées au format CSV.
+**ÉTAPE FACULTATIVE**: pour exporter les erreurs de synchronisation, cliquez sur **[!UICONTROL Exporter]**. Les données seront exportées au format CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -78,7 +78,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
   </tr> 
   <tr> 
    <td colspan="1">Objet</td> 
-   <td colspan="1">Type d’objet</td> 
+   <td colspan="1">Type d’objet </td> 
    <td colspan="1">Contact, Personne, tâche, opportunité, prospect, Autres comme ci-dessous</td> 
   </tr>  
   <tr> 
@@ -147,7 +147,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
    <td colspan="1">Contact</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Modèle d'e-mail</td> 
+   <td colspan="1">Modèle d’e-mail</td> 
   </tr>  
   <tr> 
    <td colspan="1">Événement</td> 
@@ -190,12 +190,12 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
    <td colspan="1">Lien Init avec le programme</td> 
    <td colspan="1">Campagne</td> 
    <td colspan="1">Liaison de campagnes à des programmes</td> 
-   <td colspan="1">Mettre à jour</td>
+   <td colspan="1">Mise à jour</td>
   </tr>  
   <tr> 
    <td colspan="1">Extraire les conversions</td> 
    <td colspan="1">Personne (prospect)*</td> 
-   <td colspan="1">Extrayez les actions de conversion de SFDC vers Marketo. Les unités (nombres) sont des Leads convertissant en contacts</td> 
+   <td colspan="1">Extrayez les actions de conversion de SFDC vers Marketo. Les unités (nombres) sont des pistes convertissant en contacts</td> 
    <td colspan="1">Mise à jour, élément en échec ou saut</td>
   </tr> 
   <tr> 

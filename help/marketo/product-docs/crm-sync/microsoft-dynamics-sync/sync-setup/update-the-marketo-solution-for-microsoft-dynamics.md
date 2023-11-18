@@ -4,9 +4,9 @@ description: Mise à jour de la solution Marketo pour Microsoft Dynamics - Docum
 title: Mise à jour de la solution Marketo pour Microsoft Dynamics
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 3%
 
 ---
@@ -23,15 +23,15 @@ Lorsqu’une nouvelle solution Microsoft Dynamics est publiée, vous pouvez tél
 >
 >Vous devez impérativement télécharger la dernière solution Marketo. _before_ effectuer toute mise à jour.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Microsoft Dynamics**.
+1. Cliquez sur **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Sélectionner **Télécharger la solution Marketo**.
+1. Sélectionner **[!UICONTROL Télécharger la solution Marketo]**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -39,16 +39,16 @@ Lorsqu’une nouvelle solution Microsoft Dynamics est publiée, vous pouvez tél
 
    ![](assets/msd-online.png)
 
-   Super ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil. Si vous ne connaissez pas les étapes d’installation, contactez votre administrateur Dynamics.
+   Super! Un fichier zip de la solution sera désormais téléchargé sur votre appareil. Si vous ne connaissez pas les étapes d’installation, contactez votre administrateur Dynamics.
 
-## Exécution de la mise à jour {#performing-the-update}
+## Mise à jour {#performing-the-update}
 
-1. Importez la dernière version de la solution par rapport à la version existante de votre Dynamics CRM (ex : si votre Dynamics CRM dispose de la version 1.4 et que la dernière version est 1.5, vous devez importer _over_ version 1.4).
+1. Importez la dernière version de la solution par rapport à la version existante de votre CRM Dynamics (par exemple, si votre CRM Dynamics dispose de la version 1.4 et que la dernière version est la version 1.5), vous devez importer _over_ version 1.4).
 
-1. La fenêtre contextuelle suivante s’affiche. Sélectionner **Mettre à jour** et **Conserver les personnalisations**, puis cliquez sur **Importer**.
+1. La fenêtre contextuelle suivante s’affiche. Sélectionner **[!UICONTROL Mettre à jour]** et **[!UICONTROL Conserver les personnalisations]**, puis cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->La sélection de la mise à niveau au lieu de la mise à jour peut entraîner une corruption des données dans votre environnement Dynamics. **Veillez à choisir Mettre à jour .** sous Options d’importation.
+>La sélection de la mise à niveau au lieu de la mise à jour peut entraîner une corruption des données dans votre environnement Dynamics. _Veillez à choisir Mettre à jour ._ sous Options d’importation.

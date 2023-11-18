@@ -4,10 +4,10 @@ description: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Enterprise/
 title: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '784'
-ht-degree: 8%
+source-wordcount: '781'
+ht-degree: 9%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->Vous devez avoir accès aux API Salesforce pour la synchronisation entre Marketo et Salesforce.
+>Vous devez avoir accès aux API Salesforce pour effectuer une synchronisation entre Marketo Engage et Salesforce.
 
 Marketo utilise un ensemble de champs pour capturer certains types d’informations marketing. Si vous souhaitez ces données dans Salesforce, veuillez suivre les instructions ci-dessous.
 
-1. Créez trois champs personnalisés dans Salesforce sur les objets prospect et contact : Notation, programme d’acquisition et date d’acquisition.
+1. Créez trois champs personnalisés dans Salesforce sur les objets de piste et de contact : Score, Programme d’acquisition et Date d’acquisition.
 1. Mappez ces champs personnalisés entre les prospects et les contacts afin qu’au moment de la conversion dans Salesforce, les valeurs soient transférées.
 1. Vous pouvez créer d’autres champs supplémentaires, si nécessaire (voir le tableau ci-dessous).
 
@@ -31,27 +31,27 @@ Ajoutez trois champs personnalisés aux objets de piste et de contact dans Sales
 
 Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Commencez par Score.
 
-1. Connectez-vous à Salesforce et cliquez sur **Configuration**.
+1. Connectez-vous à Salesforce et cliquez sur **[!UICONTROL Configuration]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez **Pistes**. Cliquez sur **Champs**.
+1. Dans le [!UICONTROL Build] , cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez **[!UICONTROL Pistes]**. Cliquez sur **[!UICONTROL Champs]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Cliquez sur **Nouveau** dans la section Champs et relations personnalisés au bas de la page.
+1. Cliquez sur **[!UICONTROL Nouveau]** dans la section Champs et relations personnalisés au bas de la page.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Choisissez le type de champ approprié (pour Score — nombre). Programme d’acquisition — texte; Date d’acquisition (Date/Heure).
+1. Choisissez le type de champ approprié (pour Score - nombre ; Programme d’acquisition - texte ; Date d’acquisition - Date/Heure).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Saisissez le libellé du champ, sa longueur et son nom, comme illustré dans le tableau ci-dessous.
+1. Saisissez le [!UICONTROL Libellé du champ], [!UICONTROL Longueur], et [!UICONTROL Nom du champ] pour le champ , comme illustré dans le tableau ci-dessous.
 
 <table> 
  <thead> 
@@ -106,18 +106,18 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 >
 >Les champs Texte et Nombre nécessitent une longueur, mais pas Date/Heure. Une description est facultative.
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Spécifiez les paramètres d’accès et cliquez sur **Suivant**:
+1. Spécifiez les paramètres d’accès et cliquez sur **[!UICONTROL Suivant]**:
 
-   * Définissez tous les rôles sur **Visible** et **Lecture seule**
+   * Définissez tous les rôles sur **[!UICONTROL Visible]** et **[!UICONTROL Lecture seule]**
 
-   * Effacez la variable **Lecture seule** correspondant au profil de votre utilisateur de synchronisation :
+   * Effacez la variable **[!UICONTROL Lecture seule]** correspondant au profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, effacez la variable **Lecture seule** case à cocher du profil Administrateur système (comme illustré ci-dessous)
-      * Si vous avez créé une _profil personnalisé_ pour l’utilisateur de synchronisation, effacez la variable **Lecture seule** case à cocher pour ce profil personnalisé
+      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, effacez le **[!UICONTROL Lecture seule]** case à cocher du profil Administrateur système (comme illustré ci-dessous)
+      * Si vous avez créé une _profil personnalisé_ pour l’utilisateur de synchronisation, effacez la variable **[!UICONTROL Lecture seule]** case à cocher pour ce profil personnalisé
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Cliquez sur **Enregistrer et nouveau** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **Enregistrer** avec vous avez fini avec les trois.
+1. Cliquez sur **[!UICONTROL Enregistrer et nouveau]** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **[!UICONTROL Enregistrer]** avec vous avez fini avec les trois.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez Contacts. Cliquez sur Champs.
+1. Dans le menu Créer à gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez Contacts. Cliquez sur Champs.
 1. Exécutez les étapes 3 à 10 pour les champs Score, Date d’acquisition et Programme d’acquisition sur l’objet de contact, comme vous l’avez fait pour l’objet de piste.
 1. Vous pouvez éventuellement appliquer la procédure ci-dessus pour tout champ personnalisé supplémentaire provenant de ce tableau.
 
@@ -244,15 +244,15 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
 Un champ personnalisé sur l’objet prospect dans Salesforce doit être mappé à un champ de contact sur l’objet contact afin que les données soient reportées lors d’une conversion.
 
-1. Dans le coin supérieur droit, cliquez sur **Configuration**.
+1. Dans le coin supérieur droit, cliquez sur **[!UICONTROL Configuration]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Saisissez &quot;Champs&quot; dans la recherche de navigation sans appuyer sur Entrée. Les champs s’affichent sous différents objets ; Cliquez sur **Champs** sous Pistes.
+1. Saisissez &quot;Fields&quot; dans la recherche de navigation sans appuyer sur Entrée. Les champs s’affichent sous différents objets. Cliquez sur **[!UICONTROL Champs]** sous Pistes.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Accédez à la section Champs et relations personnalisés du prospect et cliquez sur **Faire correspondre les champs de piste**.
+1. Accédez à la section Champs et relations personnalisés du prospect et cliquez sur **[!UICONTROL Faire correspondre les champs de piste]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,10 +266,8 @@ Un champ personnalisé sur l’objet prospect dans Salesforce doit être mappé 
 
 1. Répétez les étapes ci-dessus pour tous les autres champs que vous avez créés.
 
-1. Cliquez sur **Enregistrer** lorsque vous avez fini.
-
-   Assez facile, n&#39;est-ce pas ?
+1. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
 
 >[!MORELIKETHIS]
 >
->[Étape 2 sur 3 : Création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}

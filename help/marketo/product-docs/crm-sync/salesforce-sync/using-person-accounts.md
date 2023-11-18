@@ -4,16 +4,16 @@ description: Utilisation de comptes de personne - Documents Marketo - Documentat
 title: Utilisation de comptes de personne
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # Utilisation de comptes de personne {#using-person-accounts}
 
-Les comptes de personne peuvent être configurés dans Salesforce pour répondre aux besoins de votre entreprise. Voici comment Marketo traite les comptes de personnes.
+Les comptes de personne peuvent être configurés dans Salesforce pour répondre aux besoins de votre entreprise. Voici comment Marketo Engage traite les comptes de personnes.
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ Un compte de personne est synchronisé avec Marketo en tant qu’entreprise et e
 
 ## Comment puis-je différencier les comptes de commerce et de personne ? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilisez la variable **Est un compte de personne** filtrez dans votre liste dynamique pour séparer les comptes de personnes des comptes professionnels standard.
+Utilisez le filtre &quot;Compte de personne&quot; de votre liste dynamique pour séparer les comptes de personne des comptes professionnels standard.
 
 ## Où les informations de mes comptes de personne sont-elles affichées dans Marketo Sales Insight ? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Les activités liées aux comptes de personnes s’affichent dans la variable **Compte** du panneau.
+Les activités liées aux comptes de personnes s’affichent dans la variable **[!UICONTROL Compte]** du panneau.
 
 >[!NOTE]
 >
->Marketo Sales Insight&#39;s **Ajouter à Marketo Campaign** et **Envoyer un courrier électronique** Actuellement, les options ne sont pas disponibles pour les comptes de personnes.
+>Marketo Sales Insight&#39;s **[!UICONTROL Ajouter à Marketo Campaign]** et **[!UICONTROL Envoyer un courrier électronique]** Actuellement, les options ne sont pas disponibles pour les comptes de personnes.
 
 ## Comment associer des opportunités à un compte de personne ? {#how-do-i-associate-opportunities-to-a-person-account}
 

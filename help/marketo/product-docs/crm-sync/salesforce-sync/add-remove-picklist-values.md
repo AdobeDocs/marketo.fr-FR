@@ -4,9 +4,9 @@ description: Ajout/suppression de valeurs de liste de sélection - Documents Mar
 title: Ajout/suppression de valeurs de liste de sélection
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Voici quelques éléments à savoir sur l’ajout et la suppression de valeurs d
 
 ## Ajout de valeurs de liste de sélection {#adding-picklist-values}
 
-1. Si une valeur supplémentaire est ajoutée dans Salesforce à un type de champ de liste de sélection, vous recevrez [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identification des formulaires concernés.
+1. Si une valeur supplémentaire est ajoutée dans Salesforce à un type de champ de liste de sélection, vous recevrez [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identification des formulaires concernés.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Accédez à l’éditeur de formulaires et [ajouter la valeur supplémentaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) à votre liste de suggestions.
+1. Accédez à l’éditeur de formulaires et [ajouter la valeur supplémentaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} à votre liste de suggestions.
 
 ## Supprimer les valeurs de liste de sélection {#remove-picklist-values}
 
@@ -29,7 +29,7 @@ Lorsqu’une valeur de liste de sélection est supprimée d’un champ dans Sale
 
 >[!NOTE]
 >
->Si un champ de piste et un champ de contact dans Salesforce ont des valeurs différentes, les valeurs communes pourront être utilisées dans Marketo.
+>Si un champ de piste et un champ de contact dans Salesforce ont des valeurs différentes, les valeurs communes pourront être utilisées en Marketo Engage.
 
 Si un champ de piste et un champ de contact dans Salesforce ont des valeurs différentes :
 

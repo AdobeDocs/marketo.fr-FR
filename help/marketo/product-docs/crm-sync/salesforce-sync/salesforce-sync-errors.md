@@ -3,7 +3,7 @@ description: Erreurs de synchronisation Salesforce - Documents Marketo - Documen
 title: Erreurs de synchronisation Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 3%
@@ -20,11 +20,11 @@ Affichez un résumé des erreurs rencontrées lors du processus de synchronisati
 
 ## Afficher les erreurs de synchronisation {#view-sync-errors}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **[!UICONTROL Administration]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Sous Intégration, cliquez sur **Salesforce**, puis la variable **Erreurs de synchronisation** .
+1. Sous Intégration, cliquez sur **Salesforce**, puis la variable **[!UICONTROL Erreurs de synchronisation]** .
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +48,10 @@ Affichez un résumé des erreurs rencontrées lors du processus de synchronisati
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Sélectionnez la période et la période, puis filtrez par type d’erreur (niveau de tâche ou niveau d’enregistrement). Cliquez sur **Appliquer** une fois terminé.
+1. Sélectionnez la période et la période, puis filtrez par type d’erreur (niveau de tâche ou niveau d’enregistrement). Cliquez sur **[!UICONTROL Appliquer]** une fois terminé.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**ÉTAPE FACULTATIVE**: Pour exporter les erreurs de synchronisation, cliquez sur **Exporter**. Les données seront exportées au format CSV.
+**ÉTAPE FACULTATIVE**: pour exporter les erreurs de synchronisation, cliquez sur **[!UICONTROL Exporter]**. Les données seront exportées au format CSV.
 
 ![](assets/salesforce-sync-errors-5.png)
