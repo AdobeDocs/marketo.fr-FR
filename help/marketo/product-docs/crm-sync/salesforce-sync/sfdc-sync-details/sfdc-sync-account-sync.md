@@ -4,20 +4,20 @@ description: Synchronisation SFDC - Synchronisation des comptes - Documents Mark
 title: Synchronisation SFDC - Synchronisation des comptes
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
-# Synchronisation SFDC : Synchronisation des comptes {#sfdc-sync-account-sync}
+# Synchronisation SFDC : synchronisation des comptes {#sfdc-sync-account-sync}
 
-Marketo synchronise également les informations de votre compte avec Salesforce. Voici quelques choses spécifiques que vous devriez savoir !
+Marketo Engage synchronise également les informations de votre compte avec Salesforce. Voici quelques choses spécifiques que vous devriez savoir !
 
 ## De quelle manière les informations se synchronisent-elles ? {#which-way-does-the-information-sync}
 
-Une seule manière : de SFDC à Marketo.
+Une seule solution : de la SFDC à Marketo.
 
 ## Comment fonctionnent les mises à jour ? {#how-do-the-updates-work}
 
@@ -25,11 +25,11 @@ Si vous mettez à jour un champ Compte pour un contact dans Marketo, cela modifi
 
 ## Un contact peut-il appartenir à plusieurs comptes ?  {#can-a-contact-belong-to-multiple-accounts}
 
-Nombre Un compte peut avoir de nombreux contacts, un contact ne peut avoir qu&#39;un seul compte.
+Non. Un compte peut avoir de nombreux contacts, un contact ne peut avoir qu&#39;un seul compte.
 
 ## Puis-je créer des comptes à partir de Marketo ? {#can-i-create-accounts-from-marketo}
 
-Surtout, non. Cependant, si vous utilisez la variable [Convertir une personne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) l’étape de flux sur une personne crée un contact, un nouveau compte et une nouvelle opportunité.
+Surtout, non. Cependant, si vous utilisez la variable [Convertir une personne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} l’étape de flux sur une personne crée un contact, un nouveau compte et une nouvelle opportunité.
 
 >[!CAUTION]
 >

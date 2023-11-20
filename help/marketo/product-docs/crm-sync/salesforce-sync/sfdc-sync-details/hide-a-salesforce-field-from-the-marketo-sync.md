@@ -4,10 +4,10 @@ description: Masquer un champ Salesforce de la synchronisation Marketo - Documen
 title: Masquer un champ Salesforce de la synchronisation Marketo
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez optimiser les performances de synchronisation en incluant uniquement les champs dont vous avez besoin. Voici comment masquer un champ de Marketo.
+Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez optimiser les performances de synchronisation en incluant uniquement les champs dont vous avez besoin. Voici comment masquer un champ du Marketo Engage.
 
-1. Cliquez sur le menu Nom et sélectionnez **Configuration**.
+1. Cliquez sur le menu Nom et sélectionnez **[!UICONTROL Configuration]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Entrée **profils** dans la barre de recherche, puis cliquez sur **Profils** under **Gestion des utilisateurs**.
+1. Saisissez &quot;profils&quot; dans la barre de recherche, puis cliquez sur **[!UICONTROL Profils]** under **[!UICONTROL Gestion des utilisateurs]**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Sous , **Sécurité au niveau du champ** , cliquez sur **Affichage** à côté de l’objet qui contient le champ cible.
+1. Sous , **[!UICONTROL Sécurité au niveau du champ]** , cliquez sur **[!UICONTROL Affichage]** à côté de l’objet qui contient le champ cible.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Cliquez sur **Modifier**.
+1. Cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Décochez la case **Visible** en regard du champ que vous souhaitez masquer. Cliquez sur **Enregistrer**.
+1. Décochez la case **[!UICONTROL Visible]** en regard du champ à masquer. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    >[!MORELIKETHIS]
    >
-   >[Masquage et affichage d’un champ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
+   >[Masquage et affichage d’un champ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

@@ -4,16 +4,16 @@ description: Synchronisation SFDC - Synchronisation des champs - Documents Marke
 title: Synchronisation SFDC - Synchronisation des champs
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
-# Synchronisation SFDC : Synchronisation des champs {#sfdc-sync-field-sync}
+# Synchronisation SFDC : synchronisation des champs {#sfdc-sync-field-sync}
 
-Marketo synchronise les informations de champ de Salesforce. Voici les détails.
+Marketo Engage synchronise les informations de champ de Salesforce. Voici les détails.
 
 ## Quels champs sont synchronisés ? {#which-fields-are-synced}
 
@@ -57,8 +57,8 @@ Les champs de recherche dans SFDC synchronisent l’identifiant mais pas le nom 
 
 ## Qu&#39;en est-il des champs de formule de la DDC ? {#what-about-sfdc-formula-fields}
 
-Les champs de formule sont synchronisés. Toutefois, les mises à jour apportées aux références de la formule ne sont pas synchronisées tant qu’une mise à jour n’a pas été effectuée. [Tampon Mod système](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
+Les champs de formule sont synchronisés. Toutefois, les mises à jour apportées aux références de la formule ne sont pas synchronisées tant qu’une mise à jour n’a pas été effectuée. [Tampon Mod système](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
 
 ## Que se passe-t-il lorsque je supprime un champ de Salesforce qui était synchronisé avec Marketo ? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
-Si vous supprimez un champ dans SFDC, il ne supprime pas automatiquement le champ dans Marketo, il arrête simplement la synchronisation.
+Si vous supprimez un champ dans SFDC, il ne supprime pas automatiquement le champ dans Marketo, la synchronisation s’arrête.

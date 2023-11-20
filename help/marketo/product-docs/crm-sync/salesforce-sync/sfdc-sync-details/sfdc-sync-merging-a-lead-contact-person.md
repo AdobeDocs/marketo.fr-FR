@@ -4,18 +4,18 @@ description: Synchronisation SFDC - Fusion d’un prospect/contact/personne - Do
 title: Synchronisation SFDC - Fusion d’un prospect/contact/personne
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
 
-# Synchronisation SFDC : Fusion d’un prospect/contact/personne {#sfdc-sync-merging-a-lead-contact-person}
+# Synchronisation SFDC : fusion d’un prospect/contact/personne {#sfdc-sync-merging-a-lead-contact-person}
 
 Parfois, il est préférable de simplement lister les règles. C&#39;est parti:
 
-* Lorsque vous fusionnez deux pistes dans **Salesforce**, la synchronisation normale indique à Marketo et les pistes sont fusionnées automatiquement en tant que personnes dans Marketo.
+* Lorsque vous fusionnez deux pistes dans **Salesforce**, la synchronisation normale indique à Marketo Engage et les pistes sont fusionnées automatiquement en tant que personnes dans Marketo.
 * Fusion de deux personnes dans **Marketo** invoque le même processus que leur fusion comme prospects dans Salesforce. Il fonctionne toujours automatiquement.
 * Fusion d’une **diriger (personne) vers un contact** fonctionne de la même manière. Vous obtenez un seul contact des deux côtés.
 * Lors de la fusion, le score par défaut est additionné.
@@ -30,4 +30,4 @@ Parfois, il est préférable de simplement lister les règles. C&#39;est parti:
 
 >[!NOTE]
 >
->Exploration approfondie pour plus d’informations sur [fusion de personnes dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Exploration approfondie pour en savoir plus [fusion de personnes dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
