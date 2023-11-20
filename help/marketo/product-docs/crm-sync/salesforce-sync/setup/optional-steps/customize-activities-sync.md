@@ -4,7 +4,7 @@ description: Personnalisation de la synchronisation des activités - Documents M
 title: Personnalisation de la synchronisation des activités
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 12%
@@ -13,17 +13,17 @@ ht-degree: 12%
 
 # Personnalisation de la synchronisation des activités {#customize-activities-sync}
 
-Si vous n’utilisez pas Marketo Sales Insight, Marketo peut créer des enregistrements d’historique des activités Salesforce pour certains événements. Voici comment les activer.
+Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des enregistrements d’historique des activités Salesforce pour certains événements. Voici comment les activer.
 
-1. Accédez à **Administration**.
+1. Accédez à **[!UICONTROL Administration]**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Salesforce**, puis cliquez sur **Modifier les options de synchronisation**.
+1. Cliquez sur **[!DNL Salesforce]**, puis cliquez sur **[!UICONTROL Modifier les options de synchronisation]**.
 
    ![](assets/two-1.png)
 
-1. Cochez les cases en regard des activités que Marketo doit transmettre à Salesforce, puis cliquez sur **Enregistrer**.
+1. Cochez les cases en regard des activités que Marketo doit transmettre à Salesforce, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/three-1.png)
 
@@ -44,16 +44,16 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo peut créer des enregist
  </thead> 
  <tbody> 
   <tr> 
-   <td>A rempli le formulaire</td> 
+   <td>Formulaire rempli</td> 
    <td>Remplir tout formulaire Marketo</td> 
   </tr> 
   <tr> 
    <td>Ajouté à la liste</td> 
-   <td><p>Étape de flux : A été ajouté à une liste statique</p></td> 
+   <td><p>Étape de flux : a été ajoutée à une liste statique</p></td> 
   </tr> 
   <tr> 
    <td>E-mail envoyé</td> 
-   <td>Étape de flux : A été envoyé un email</td> 
+   <td>Étape de flux : a été envoyé un email</td> 
   </tr> 
   <tr> 
    <td>E-mail remis au destinataire</td> 
@@ -64,16 +64,16 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo peut créer des enregist
    <td>A ouvert un email (sans bloquer les images)</td> 
   </tr> 
   <tr> 
-   <td>A Cliqué sur le lien dans l'e-mail</td> 
+   <td>Lien ayant fait l’objet d’un clic dans l’e-mail</td> 
    <td>Clic sur un lien dans un email envoyé par Marketo</td> 
   </tr> 
   <tr> 
    <td>Supprimé de la liste</td> 
-   <td>Étape de flux : A été supprimé d’une liste statique</td> 
+   <td>Étape de flux : a été supprimée d’une liste statique.</td> 
   </tr> 
   <tr> 
-   <td>Supprimer des flux</td> 
-   <td>Étape de flux : Supprimer du flux</td> 
+   <td>Supprimer du flux</td> 
+   <td>Étape de flux : supprimer du flux</td> 
   </tr> 
   <tr> 
    <td>E-mail de vente envoyé</td> 
@@ -96,8 +96,8 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo peut créer des enregist
 
 >[!NOTE]
 >
->&quot;Adresse électronique de vente reçue&quot; **not** moyenne diffusée. L’état Distribué n’est pas capturé pour les emails envoyés via Sales Insight.
+>&quot;Adresse électronique de vente reçue&quot; _not_ moyenne diffusée. L’état Distribué n’est pas capturé pour les emails envoyés via Sales Insight.
 
 >[!TIP]
 >
->Si vous souhaitez obtenir plus d’informations Marketo dans Salesforce, consultez notre [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) produit.
+>Si vous souhaitez obtenir plus d’informations Marketo dans Salesforce, consultez notre [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} produit.

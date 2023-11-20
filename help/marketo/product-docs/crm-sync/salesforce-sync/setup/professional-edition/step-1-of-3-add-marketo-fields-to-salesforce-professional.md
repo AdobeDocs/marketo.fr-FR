@@ -4,10 +4,10 @@ description: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (professionn
 title: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (professionnel)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '782'
-ht-degree: 8%
+source-wordcount: '783'
+ht-degree: 9%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->Votre instance Salesforce doit avoir accès aux API Salesforce pour synchroniser les données entre Marketo et Salesforce.
+>Votre instance Salesforce doit avoir accès aux API Salesforce pour synchroniser les données entre Marketo Engage et Salesforce.
 
 Marketo utilise un ensemble de champs pour capturer certains types d’informations marketing. Si vous souhaitez ces données dans Salesforce, veuillez suivre les instructions ci-dessous.
 
-1. Créez trois champs personnalisés dans Salesforce sur les objets prospect et contact : Notation, programme d’acquisition et date d’acquisition.
+1. Créez trois champs personnalisés dans Salesforce sur les objets de piste et de contact : Score, Programme d’acquisition et Date d’acquisition.
 1. Mappez ces champs personnalisés entre les prospects et les contacts afin qu’au moment de la conversion dans Salesforce, les valeurs soient transférées.
 1. Vous pouvez créer d’autres champs supplémentaires, si nécessaire (voir le tableau ci-dessous).
 
@@ -29,25 +29,25 @@ Tous ces champs personnalisés sont facultatifs et ne sont pas nécessaires pour
 
 Ajoutez trois champs personnalisés aux objets de piste et de contact dans Salesforce répertoriés ci-dessus. Si vous souhaitez en ajouter d’autres, reportez-vous au tableau des champs disponibles à la fin de cette section.
 
-Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Commencer par **Score**.
+Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Commencer par **[!UICONTROL Score]**.
 
-1. Connectez-vous à Salesforce et cliquez sur **Configuration.**
+1. Connectez-vous à Salesforce et cliquez sur **[!UICONTROL Configuration]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez **Pistes**. Cliquez sur **Champs**.
+1. Dans le menu Créer à gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez **[!UICONTROL Pistes]**. Cliquez sur **[!UICONTROL Champs]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Cliquez sur **Nouveau** dans la section Champs et relations personnalisés au bas de la page.
+1. Cliquez sur **[!UICONTROL Nouveau]** dans la section Champs et relations personnalisés au bas de la page.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Choisissez le type de champ approprié (pour Score — **nombre**; Programme d’acquisition — **text**; Date d’acquisition — **Date/heure**).
+1. Choisissez le type de champ approprié (pour Score - **[!UICONTROL nombre]**; Programme d’acquisition - **[!UICONTROL text]**; Date d’acquisition - **Date/heure**).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,19 +106,19 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 >
 >Les champs Texte et Nombre nécessitent une longueur, mais pas Date/Heure. Une description est facultative.
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Spécifiez les paramètres d’accès et cliquez sur **Suivant**:
+1. Spécifiez les paramètres d’accès et cliquez sur **[!UICONTROL Suivant]**:
 
-   * Définissez tous les rôles sur **Visible** et **Lecture seule**
+   * Définissez tous les rôles sur **[!UICONTROL Visible]** et **[!UICONTROL Lecture seule]**
 
-   * Effacez la variable **Lecture seule** correspondant au profil de votre utilisateur de synchronisation :
+   * Effacez la variable **[!UICONTROL Lecture seule]** correspondant au profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, effacez la variable **Lecture seule** case à cocher du profil Administrateur système (comme illustré ci-dessous)
+      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, effacez le **[!UICONTROL Lecture seule]** case à cocher du profil Administrateur système (comme illustré ci-dessous)
 
-      * Si vous avez créé une _profil personnalisé_ pour l’utilisateur de synchronisation, effacez la variable **Lecture seule** case à cocher pour ce profil personnalisé
+      * Si vous avez créé une _profil personnalisé_ pour l’utilisateur de synchronisation, effacez la variable **[!UICONTROL Lecture seule]** case à cocher pour ce profil personnalisé
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -126,11 +126,11 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Cliquez sur **Enregistrer et nouveau** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **Enregistrer** avec vous avez fini avec les trois.
+1. Cliquez sur **[!UICONTROL Enregistrer et nouveau]** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **[!UICONTROL Enregistrer]** avec vous avez fini avec les trois.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Dans le menu Créer à gauche, cliquez sur **Personnaliser** et sélectionnez **Contacts**. Cliquez sur **Champs**.
+1. Dans le menu Créer à gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez **[!UICONTROL Contacts]**. Cliquez sur **[!UICONTROL Champs]**.
 1. Exécutez les étapes 3 à 10 pour les champs Score, Date d’acquisition et Programme d’acquisition sur l’objet de contact, comme vous l’avez fait pour l’objet de piste.
 1. Vous pouvez éventuellement appliquer la procédure ci-dessus pour tout champ personnalisé supplémentaire provenant de ce tableau.
 
@@ -231,15 +231,15 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
 Un champ personnalisé sur l’objet prospect dans Salesforce doit être mappé à un champ de contact sur l’objet contact afin que les données soient reportées lors d’une conversion.
 
-1. Dans le coin supérieur droit, cliquez sur Configuration.
+1. Dans le coin supérieur droit, cliquez sur **[!UICONTROL Configuration]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Saisissez &quot;fields&quot; dans la recherche de navigation sans appuyer sur la touche Entrée. Les champs s’affichent sous différents objets ; Cliquez sur Champs sous Pistes.
+1. Type &quot;[!UICONTROL fields]&quot; dans la recherche de navigation sans appuyer sur la touche Entrée. Les champs s’affichent sous différents objets. Cliquez sur **[!UICONTROL Champs]** sous Pistes.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Accédez à la section Champs personnalisés des pistes et relations , puis cliquez sur Mapper les champs de piste.
+1. Accédez à la section Champs et relations personnalisés du prospect et cliquez sur **[!UICONTROL Faire correspondre les champs de piste]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -253,10 +253,10 @@ Un champ personnalisé sur l’objet prospect dans Salesforce doit être mappé 
 
 1. Répétez les étapes ci-dessus pour tous les autres champs que vous avez créés.
 
-1. Lorsque vous avez terminé, cliquez sur Enregistrer .
+1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez fini.
 
 Assez facile, n&#39;est-ce pas ?
 
 >[!MORELIKETHIS]
 >
->[Étape 2 sur 3 : Création d’un utilisateur Salesforce pour Marketo (professionnel)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (professionnel)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
