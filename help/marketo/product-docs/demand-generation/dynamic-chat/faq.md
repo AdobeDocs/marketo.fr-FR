@@ -3,9 +3,9 @@ description: FAQ sur le Dynamic Chat - Documents Marketo - Documentation du prod
 title: FAQ sur Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Le fragment de code JavaScript du Dynamic Chat peut être installé sur n’impo
 
 **Le Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 
-Oui. Le Dynamic Chat prend en charge les langues suivantes : français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans [Modification de la langue](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Oui. Le Dynamic Chat prend en charge les langues suivantes : allemand, français, espagnol, japonais, néerlandais, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans [Modification de la langue](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Prenez-vous en charge la fonctionnalité AI/NLP ?**
 
@@ -88,4 +88,4 @@ Oui! [Découvrir comment](https://nation.marketo.com/t5/product-blogs/using-dyna
 
 **Puis-je utiliser Dynamic Chat sans Marketo Engage ?**
 
-Nombre Bien que Dynamic Chat soit une application distincte de Marketo Engage, les deux sont inextricablement liés.
+Non. Bien que Dynamic Chat soit une application distincte de Marketo Engage, les deux sont inextricablement liés.
