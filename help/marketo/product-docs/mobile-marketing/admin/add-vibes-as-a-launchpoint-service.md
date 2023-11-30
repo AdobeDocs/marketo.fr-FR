@@ -4,9 +4,9 @@ description: Ajout de vidéos en tant que service LaunchPoint - Documents Market
 title: Ajout de vidéos en tant que service LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -21,24 +21,28 @@ Vous pouvez envoyer des SMS aux personnes de vos listes Vibes et utiliser l’ac
 
 >[!NOTE]
 >
->Vous avez besoin des autorisations d’administrateur Marketo et d’un compte Vibes principal pour terminer cette configuration. Les informations d’identification demandées à l’étape 4 ci-dessous sont celles de votre compte Vibes.
+>Pour terminer cette configuration, vous avez besoin des autorisations d’administrateur Marketo et d’un compte Vibes actif. Les informations d’identification demandées à l’étape 4 ci-dessous sont celles de votre compte Vibes.
 
-1. Dans Mon Marketo, cliquez sur **Administration** puis **LaunchPoint**.
+1. Dans Mon Marketo, accédez au **Administration** zone.
 
-   ![](assets/image2016-7-27-9-3a31-3a17.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-1.png)
+
+1. Cliquez sur **LaunchPoint**.
+
+   ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
 1. Cliquez sur **Nouveau** et **Nouveau service**.
 
-   ![](assets/image2016-7-27-9-3a34-3a25.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
 1. Saisissez un nom d’affichage puis, dans la liste déroulante, sélectionnez **Vibes**.
 
-   ![](assets/new-service-vibes.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
 1. Sous Paramètres, saisissez le nom d’utilisateur, le mot de passe et la clé d’entreprise de l’API Vibes. Cliquez sur **Créer**.
 
-   ![](assets/new-service-vibes-settings-2.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
    Le nouveau service SMS apparaît désormais dans la liste Services installés .
 
-   ![](assets/image2016-7-27-9-3a45-3a1.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-6.png)
