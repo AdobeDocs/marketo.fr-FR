@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378869
-description: Création d’un message SMS Vibes - Documents Marketo - Documentation du produit
+description: Créer un message SMS Vibes - Documents Marketo - Documentation du produit
 title: Création d’un message SMS Vibes
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '377'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Voici comment créer un SMS Vibes.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible en tant que module complémentaire pour votre compte Adobe Marketo Engage. Pour qu’il soit correctement configuré, il doit être acheté via Adobe. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>Cette fonctionnalité est disponible en tant que module complémentaire pour votre compte Adobe Marketo Engage. Pour qu’il soit correctement configuré, il doit être acheté par Adobe. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
 >[!NOTE]
 >

@@ -4,7 +4,7 @@ description: Utiliser des messages SMS de vidéos dans la liste dynamique Trigge
 title: Utiliser des messages SMS de vidéos dans des déclencheurs et des filtres de liste dynamique
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Après vous [créer un SMS Vibes](/help/marketo/product-docs/mobile-marketing/vi
 
 1. Dans Mon Marketo, cliquez sur **Activités marketing**.
 
-   ![](assets/image2016-7-28-9-3a48-3a32.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. Sélectionnez une campagne dynamique dans laquelle vous souhaitez utiliser votre ressource SMS. Faites glisser le curseur sur un déclencheur, tel que le **Remplir le formulaire**.
 
@@ -25,7 +25,7 @@ Après vous [créer un SMS Vibes](/help/marketo/product-docs/mobile-marketing/vi
 
 ## Triggers SMS {#sms-triggers}
 
-D&#39;autres déclencheurs SMS sont disponibles. Les déclencheurs SMS apparaissent uniquement si le service Vibes est activé.
+D&#39;autres déclencheurs de SMS sont disponibles. Les déclencheurs SMS s’affichent uniquement si le service Vibes est activé.
 
 ![](assets/new-sms-search2.png)
 
@@ -35,17 +35,17 @@ Le déclencheur Rebonds de message SMS lance un flux, tel que l’envoi d’un e
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Le **S’abonne à la liste des vidéos** déclenche un flux lorsqu’une personne s’abonne.
+La variable **S’abonne à la liste des vidéos** déclenche un flux lorsqu’une personne s’abonne.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Le **Clics sur le lien dans un message SMS** déclenche un flux lorsqu’une personne clique sur un lien dans le SMS.
+La variable **Clics sur le lien dans un message SMS** déclenche un flux lorsqu’une personne clique sur un lien dans le SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## Filtres SMS {#sms-filters}
 
-Vous pouvez également utiliser des filtres Vibes dans les listes dynamiques. Le **Abonné à la liste des vidéos** filtre recherche quiconque possède *ever* abonné à Vibes. Cela inclut les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre est mieux adapté à la création de rapports.
+Vous pouvez également utiliser des filtres Vibes dans les listes dynamiques. La variable **Abonné à la liste des vidéos** filtre recherche quiconque possède *ever* abonné à Vibes. Cela inclut les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre est mieux adapté à la création de rapports.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 

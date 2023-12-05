@@ -4,16 +4,16 @@ description: Créer un filtre de synchronisation Dynamics personnalisé - Docume
 title: Création d’un filtre de synchronisation Dynamics personnalisé
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '818'
 ht-degree: 1%
 
 ---
 
 # Création d’un filtre de synchronisation Dynamics personnalisé {#create-a-custom-dynamics-sync-filter}
 
-Ne souhaitez-vous pas tout synchroniser dans Marketo avec Dynamics CRM ? Ne vous inquiétez pas ! Marketo vous permet de configurer un filtre de synchronisation et de synchronisation uniquement une partie de vos enregistrements.
+Ne souhaitez-vous pas tout synchroniser dans Marketo Engage dans votre CRM Dynamics ? Ne vous inquiétez pas ! Marketo vous permet de configurer un filtre de synchronisation et de synchronisation uniquement une partie de vos enregistrements.
 
 ## Vue d’ensemble {#overview}
 
@@ -26,7 +26,7 @@ Vous devez effectuer ces modifications dans Dynamics CRM, et non dans votre base
 
 >[!CAUTION]
 >
->Si vous n’affectez pas le champ et laissez-le vide/NULL, il se synchronise mais ne se met pas à jour.
+>Si vous n’affectez pas le champ et laissez-le vide/NULL, il se synchronise mais ne se met pas à jour. Les enregistrements avec une valeur de champ vide/NULL dans Dynamics CRM afficheront cette valeur de champ dans Marketo comme &quot;false&quot;.
 
 Marketo recherche ce champ lors de la synchronisation automatique en arrière-plan et détermine les enregistrements à synchroniser en fonction de cette logique :
 

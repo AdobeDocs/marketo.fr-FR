@@ -4,10 +4,10 @@ description: Ajout d’une étape de flux pour SMS - Documents Marketo - Documen
 title: Ajout d’une étape de flux pour un SMS
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 Marketo comprend trois étapes de flux que vous pouvez utiliser dans vos campagnes SMS intelligentes :
 
 * **Envoyer un message SMS** - Cette action de flux envoie des messages aux personnes de la liste intelligente Marketo qui sont inscrites à une liste d’abonnements Vibes sélectionnée par l’utilisateur. Il ne lance pas le processus d’abonnement.
-* **Abonnement à la liste des vidéos** - Cette action de flux lance le processus d&#39;inscription SMS via une campagne d&#39;acquisition de vidéos sélectionnée par l&#39;utilisateur. Vibes envoie alors un message de confirmation ; le destinataire doit lui répondre pour terminer le processus d&#39;inscription.
+* **Abonnement à la liste des vidéos** - Cette action de flux lance le processus d&#39;inscription SMS via une campagne d&#39;acquisition de vidéos sélectionnée par l&#39;utilisateur. Vibes envoie alors un message de confirmation, auquel le destinataire doit répondre pour terminer le processus d&#39;inscription.
 * **Se désabonner de la liste Vibes** - Cette action de flux désabonne chaque personne d’une liste d’abonnements Vibes sélectionnée par l’utilisateur.
 
 >[!NOTE]
@@ -32,9 +32,9 @@ Voici les principes de base de l’utilisation des SMS.
 
 1. Dans Mon Marketo, cliquez sur **Activités marketing**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
-1. Recherchez la campagne dynamique à laquelle vous souhaitez ajouter le flux SMS. Cliquez sur l&#39;onglet **Flux**.
+1. Recherchez la campagne dynamique à laquelle vous souhaitez ajouter le flux SMS. Cliquez sur le bouton **Flux** .
 
    ![](assets/image2016-7-28-11-3a43-3a41.png)
 
@@ -46,4 +46,4 @@ Voici les principes de base de l’utilisation des SMS.
    >
    >Le sélecteur de liste de vidéos sert de filtre supplémentaire pour l’audience déjà identifiée dans la liste dynamique afin de cibler uniquement les pistes qui appartiennent à cette liste.
    >
-   >Le **Abonnement à la liste des vidéos** et **Se désabonner de la liste Vibes** les flux ont des exigences différentes. Pour **S’abonner**, vous devez sélectionner la liste Vibes et la campagne d&#39;acquisition Vibes . Pour **Désabonner**, seule la liste Vibes est requise.
+   >La variable **Abonnement à la liste des vidéos** et **Se désabonner de la liste Vibes** les flux ont des exigences différentes. Pour **Abonner**, vous devez sélectionner la liste Vibes et la campagne d&#39;acquisition Vibes . Pour **Désabonner**, seule la liste Vibes est requise.

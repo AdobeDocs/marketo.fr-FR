@@ -4,9 +4,9 @@ title: Création d’un message SMS Vibes
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '441'
 ht-degree: 3%
 
 ---
@@ -53,7 +53,7 @@ Voici comment créer un SMS Vibes.
 
    >[!NOTE]
    >
-   >Les limites des États-Unis et du Canada sont différentes, à 160 et 130 caractères respectivement. Si vous dépassez ces limites de caractères, votre message peut être fractionné. Bien que nous l’indiquions lorsque vous dépassez la limite canadienne, l’éditeur est optimisé pour les États-Unis et divise le message en fonction de la limite américaine.
+   >La limite de caractères d&#39;un SMS est de 160 caractères à l&#39;aide du jeu de caractères ASCII standard. Si vous dépassez 160 caractères, votre message sera fractionné en fonction du nombre total de caractères.
 
 1. Cliquez sur **Jeton** dans le menu Insérer pour ajouter un jeton à votre message.
 
@@ -61,7 +61,13 @@ Voici comment créer un SMS Vibes.
 
    >[!NOTE]
    >
-   >L’ajout d’un jeton peut provoquer le dépassement de la limite de caractères du message. Le message sera alors divisé, ce qui entraînera des frais supplémentaires.
+   >L’ajout d’un jeton peut provoquer le dépassement de la limite de caractères du message. Le message se divise alors, ce qui entraîne la création de messages supplémentaires.
+
+   >[!IMPORTANT]
+   >
+   >Conformité SMS : tous les SMS sortants doivent inclure le nom de la marque ou la description du programme. Les instructions HELP et STOP doivent être fournies au moins une fois par mois et par abonné pour les programmes de messages récurrents.
+
+   ?????? L’utilisation du réducteur d’URL Marketo entraîne l’utilisation de X caractères dans votre message ??????
 
 1. Cliquez sur **Lien** dans le menu Insérer pour ajouter un lien vers votre message.
 
@@ -73,11 +79,16 @@ Voici comment créer un SMS Vibes.
 
    >[!NOTE]
    >
-   >Les deux liens de tracking sont sélectionnés par défaut.
+   >* Les deux liens de tracking sont sélectionnés par défaut.
+   >* L’utilisation du réducteur d’URL Marketo entraîne l’utilisation de X caractères dans votre message.??????????????????
 
 1. Si vous souhaitez utiliser une URL externe à la place, cliquez sur le bouton **URL externe** et saisissez l’URL dans le champ URL . Cliquez sur **Insérer**.
 
    ![](assets/insert-link-url-hands.jpg)
+
+   >[!CAUTION]
+   >
+   >Il est recommandé de _not_ utilisez des réducteurs d’URL (par exemple, Bisément), car les opérateurs peuvent signaler votre message comme indésirable.
 
 1. Le lien s’affiche dans le message.
 
@@ -94,3 +105,5 @@ Voici comment créer un SMS Vibes.
    >Le nombre de caractères ne reflète que les caractères contenus dans le message le plus bas.
 
 Si vous insérez plus que la limite E.U., l&#39;éditeur divise votre message en sections. La limite totale absolue est de 900 caractères. Une fois cette limite atteinte, le message sera automatiquement tronqué lorsqu’il sera envoyé à son audience.
+
+LIMIT AMÉRICAIN????????
