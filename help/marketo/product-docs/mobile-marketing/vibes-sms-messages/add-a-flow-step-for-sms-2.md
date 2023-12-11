@@ -4,20 +4,34 @@ title: Ajout d’une étape de flux pour un SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 0%
+source-wordcount: '377'
+ht-degree: 2%
 
 ---
 
 # Ajout d’une étape de flux pour un SMS {#add-a-flow-step-for-sms}
 
-Marketo Engage comprend trois étapes de flux que vous pouvez utiliser dans vos campagnes intelligentes SMS :
+Marketo Engage comprend trois étapes de flux que vous pouvez utiliser dans vos campagnes dynamiques SMS :
 
-* **Envoyer un message SMS** - Cette action de flux envoie des messages aux personnes de la liste dynamique Marketo qui sont inscrites à une liste d’abonnement Vibes de souscription de l’utilisateur. Il ne lance pas le processus d’abonnement.
-* **Abonnement à la liste des vidéos** - Cette action de flux lance le processus d&#39;inscription SMS via une campagne d&#39;acquisition de vidéos sélectionnée par l&#39;utilisateur. Vibes envoie alors un message de confirmation ; le destinataire doit lui répondre &quot;Y&quot; pour confirmer son opt-in dans les 24 heures. Une fois que l’utilisateur s’est inscrit, il deviendra membre de la liste d’abonnements Vibes associée.
-* **Se désabonner de la liste Vibes** - Cette action de flux désabonne chaque personne de la liste d’abonnement Vibes de l’utilisateur. Lorsqu’un utilisateur envoie un texto &quot;stop&quot; à votre code, son enregistrement de personne est mis à jour afin de refléter qu’il n’est plus membre de la liste d’abonnements Vibes.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">Envoyer un message SMS</td>
+    <td>Cette action de flux envoie des messages aux personnes de la liste dynamique Marketo qui sont abonnées à une liste d’abonnements Vibes de souscription de l’utilisateur. Il ne lance pas le processus d’abonnement. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">En savoir plus</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">S’abonner à la liste Vibes</td>
+    <td>Cette action de flux lance le processus d'inscription SMS via une campagne d'acquisition Vibes sélectionnée par l'utilisateur. Vibes envoie alors un message de confirmation, auquel le destinataire doit répondre avec "Y" dans les 24 heures pour confirmer l'opt-in. Une fois que l’utilisateur s’est inscrit, il deviendra membre de la liste d’abonnements Vibes associée.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Se désabonner de la liste Vibes</td>
+    <td>Cette action de flux désabonne chaque personne de la liste d’abonnement Vibes de l’utilisateur. Lorsqu’un utilisateur envoie un SMS "STOP" à votre code, son enregistrement de personne est mis à jour pour indiquer qu’il n’est plus membre de la liste d’abonnement Vibes.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >
