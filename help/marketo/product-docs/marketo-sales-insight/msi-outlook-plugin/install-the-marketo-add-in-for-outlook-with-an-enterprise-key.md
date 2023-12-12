@@ -4,9 +4,9 @@ description: Installation du module complémentaire Marketo pour Outlook avec un
 title: Installation du module complémentaire Marketo pour Outlook avec une clé d’entreprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Souvent, les commerciaux n’ont pas de privilèges d’administrateur sur leurs
 >[!NOTE]
 >
 >Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
+
+>[!IMPORTANT]
+>
+>Microsoft a publié une [nouvelle version d’Outlook pour Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Dans Mon Marketo, cliquez sur **Administration** puis **Statistiques des ventes**.
 
