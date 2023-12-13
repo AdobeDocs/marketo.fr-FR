@@ -4,7 +4,7 @@ title: Utilisation des options SMS dans une campagne dynamique
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -25,10 +25,10 @@ Après vous [créer un SMS ;](/help/marketo/product-docs/mobile-marketing/vibes-
 
 ## Triggers SMS {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ La variable **Clics sur le lien dans un message SMS** déclenche un flux lorsqu�
 
 ## Filtres SMS {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ Il existe trois étapes de flux SMS parmi lesquelles choisir.
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">Envoyer un message SMS</td>
+    <td style="width:20%"><b>Envoyer un message SMS</b></td>
     <td>Cette action de flux envoie des messages aux personnes de la liste dynamique Marketo qui sont abonnées à une liste d’abonnements Vibes de souscription de l’utilisateur. Il ne lance pas le processus d’abonnement. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">En savoir plus</a>.</td>
   </tr>
 
 <tr>
-    <td style="width:25%">S’abonner à la liste Vibes</td>
+    <td style="width:20%"><b>S’abonner à la liste Vibes</b></td>
     <td>Cette action de flux lance le processus d'inscription SMS via une campagne d'acquisition Vibes sélectionnée par l'utilisateur. Vibes envoie alors un message de confirmation, auquel le destinataire doit répondre avec "Y" dans les 24 heures pour confirmer l'opt-in. Une fois que l’utilisateur s’est inscrit, il deviendra membre de la liste d’abonnements Vibes associée.</td>
   </tr>
   <tr>
-    <td style="width:25%">Se désabonner de la liste Vibes</td>
+    <td style="width:20%"><b>Se désabonner de la liste Vibes</b></td>
     <td>Cette action de flux désabonne chaque personne de la liste d’abonnement Vibes de l’utilisateur. Lorsqu’un utilisateur envoie un SMS "STOP" à votre code, son enregistrement de personne est mis à jour pour indiquer qu’il n’est plus membre de la liste d’abonnement Vibes.</td>
   </tr>
   </tbody>
