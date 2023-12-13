@@ -4,16 +4,16 @@ title: Rapports SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 2%
 
 ---
 
 # Rapports SMS {#sms-reporting}
 
-Le tableau de bord des messages SMS fournit des analyses de reporting utiles sur vos messages.
+Le tableau de bord des messages SMS fournit des analyses utiles sur vos messages.
 
 ## Accès au tableau de bord {#access-the-dashboard}
 
