@@ -4,9 +4,9 @@ description: Présentation des espaces de travail et des partitions de personne 
 title: Présentation des espaces de travail et des partitions de personne
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '538'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!CAUTION]
 >
->La configuration des espaces de travail peut être complexe. Contact [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils ont raison pour vous.
+>La configuration des espaces de travail peut s’avérer complexe. Contact [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils ont raison pour vous.
 
 Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des landing pages, des emails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
@@ -27,8 +27,8 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 >
 >Pour certaines raisons, vous pouvez utiliser un espace de travail :
 >
->* Géographie : Les départements marketing d’Europe, d’Asie et d’Amérique du Nord ont chacun un espace de travail
->* Unité opérationnelle : [!DNL Quicken], [!DNL Quickbooks] et [!DNL TurboTax] chaque accès à un espace de travail
+>* Géographie : les départements marketing d’Europe, d’Asie et d’Amérique du Nord ont chacun un espace de travail
+>* Unité opérationnelle : [!DNL Quicken], [!DNL Quickbooks] et [!DNL TurboTax] obtenir un espace de travail
 >
 >Dans chaque cas, la séparation est due au fait que les ressources marketing sont complètement différentes. S’ils partagent des ressources marketing, les espaces de travail peuvent ne pas être l’outil idéal pour vous.
 
@@ -38,7 +38,7 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 
 ## Partage entre espaces de travail {#sharing-across-workspaces}
 
-Voici comment partager des ressources entre espaces de travail. Il fonctionne de la même manière pour tout ce que vous souhaitez partager ; cet exemple présente les segments.
+Voici comment partager des ressources entre espaces de travail. Il fonctionne de la même manière pour tout ce que vous souhaitez partager ; cet exemple affiche des segments.
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ Voici comment partager des ressources entre espaces de travail. Il fonctionne de
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Partager le dossier]**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Share Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
@@ -84,12 +84,16 @@ Vous pouvez partager ces éléments dans plusieurs espaces de travail.
 
 ## Clonage dans les espaces de travail {#cloning-across-workspaces}
 
-Pour les ressources qui ne sont pas des modèles, il est préférable de les cloner en tant que ressources locales au sein d’un programme.  Avec le niveau d’accès approprié, vous pouvez faire glisser ces ressources dans un autre espace de travail :
+Pour les ressources qui ne sont pas des modèles, il est préférable de les cloner en tant que ressources locales au sein d’un programme. Avec le niveau d’accès approprié, vous pouvez faire glisser ces ressources dans un autre espace de travail :
 
 * Programmes
 * E-mails
 * Pages de destination
 * Formulaires
+
+>[!IMPORTANT]
+>
+>Bien que tous les éléments répertoriés ci-dessus puissent être clonés dans des espaces de travail, des emails, des formulaires et des landing pages _doit figurer dans un programme_ au moment du clonage.
 
 >[!NOTE]
 >
