@@ -3,10 +3,10 @@ description: Présentation de la synchronisation CRM Veeva - Documents Marketo -
 title: Présentation de la synchronisation CRM Veeva
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 1%
+source-wordcount: '249'
+ht-degree: 0%
 
 ---
 
@@ -29,14 +29,14 @@ La synchronisation entre Veeva et Marketo Engage est bidirectionnelle uniquement
 ## Ce qui est synchronisé entre Marketo Engage et Veeva {#what-is-synced-between-marketo-engage-and-veeva}
 
 * [Comptes de personne](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
-* Utilisateurs
+* Utilisateurs et utilisatrices
 * [Appeler et appeler des objets clés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 * [Objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## Informations à connaître {#things-to-know}
 
-* Le [informations d’identification que vous saisissez en Marketo Engage pour Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
+* La variable [informations d’identification que vous saisissez en Marketo Engage pour Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
 
-* Veeva CRM est basé sur force.com et le riche Marketo Engage d&#39;expérience avec la plateforme est hérité dans cette synchronisation.
+* Veeva CRM est basé sur force.com et le Marketo Engage d’expérience riche de la plateforme est hérité dans cette synchronisation.
 
-* La Veeva CRM : prospect, contact, compte (comptes d’entreprise, opportunité, campagne et activité). Toutefois, ils ne sont pas pris en charge dans la synchronisation avec Marketo Engage.
+* La Gestion de la relation client Veeva affiche : prospect, contact, comptes, comptes, opportunités, campagne et activité. Toutefois, ils ne sont pas pris en charge dans la synchronisation avec Marketo Engage.

@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Synchronisation des objets personnalisés {#custom-object-sync}
 
-Les objets personnalisés créés dans votre instance CRM Veeva peuvent également faire partie de Marketo Engage. Voici comment le configurer.
+Les objets personnalisés créés dans votre instance CRM Veeva peuvent également faire partie de Marketo Engage. Voici comment le mettre en place.
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ Les objets personnalisés créés dans votre instance CRM Veeva peuvent égaleme
 
 ## Activer l’objet personnalisé {#enable-custom-object}
 
-1. Dans Marketo, cliquez sur **Administration**, puis **Synchronisation des objets Veeva**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**, puis **[!UICONTROL Synchronisation des objets Veeva]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. S’il s’agit de votre premier objet personnalisé, cliquez sur **Schéma de synchronisation**.
+1. S’il s’agit de votre premier objet personnalisé, cliquez sur **[!UICONTROL Schéma de synchronisation]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. Cliquez sur **Désactiver la synchronisation globale**.
+1. Cliquez sur **[!UICONTROL Désactiver la synchronisation globale]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -42,7 +42,7 @@ Les objets personnalisés créés dans votre instance CRM Veeva peuvent égaleme
    >
    >La synchronisation initiale du schéma d’objet personnalisé de Veeva peut prendre quelques minutes.
 
-1. Faites glisser l’objet personnalisé que vous souhaitez synchroniser dans la zone de travail.
+1. Faites glisser l’objet personnalisé à synchroniser dans la zone de travail.
 
    ![](assets/custom-object-sync-4.png)
 
@@ -50,23 +50,23 @@ Les objets personnalisés créés dans votre instance CRM Veeva peuvent égaleme
    >
    >Les objets personnalisés doivent avoir des noms uniques. Marketo ne prend pas en charge deux objets personnalisés différents portant le même nom.
 
-1. Cliquez sur **Activer la synchronisation**.
+1. Cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Cliquez sur **Activer la synchronisation** encore une fois.
+1. Cliquez sur **[!UICONTROL Activer la synchronisation]** encore une fois.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Revenez au **Veeva** .
+1. Revenez au **[!UICONTROL Veeva]** .
 
    ![](assets/custom-object-sync-7.png)
 
-1. Cliquez sur **Activer la synchronisation**.
+1. Cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Pour afficher tous vos objets personnalisés Veeva, cliquez sur Synchronisation des objets Admin et Veeva.
+1. Pour afficher tous vos objets personnalisés Veeva, cliquez sur **[!UICONTROL Administration]** et **[!UICONTROL Synchronisation des objets Veeva]**.
 
    ![](assets/custom-object-sync-9.png)
 
