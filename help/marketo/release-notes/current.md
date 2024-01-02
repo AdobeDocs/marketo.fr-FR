@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
+source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 9%
@@ -59,6 +59,18 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Mise à jour de l’API d’importation de pistes en bloc</strong>: un léger ajustement a été apporté au comportement de l’API Bulk Lead Import lors de la <b>id</b> est spécifié comme <b>lookupField</b> lors de la création de la tâche. Si un enregistrement de personne est lié au <b>id</b> est introuvable dans la base de données du Marketo Engage, aucune mise à jour d’enregistrement ne se produit, car l’enregistrement est introuvable. Le comportement mis à jour inclut désormais l’augmentation du nombre dans la variable <b>numOfRowsFailed</b> dans la réponse, indiquant que l’opération a échoué dans de tels cas.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td>s/o</td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -83,18 +95,6 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
    <td><strong>Fenêtre de composition extensible</strong>: la fenêtre composer un email compresse désormais automatiquement l’espace inutilisé, ce qui permet d’avoir plus d’espace dans l’éditeur. De plus, la fenêtre pourra s’ouvrir et s’étendre davantage, donnant aux utilisateurs autant de place qu’ils le doivent pour apporter des modifications à leurs emails.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Mise à jour de l’API d’importation de pistes en bloc</strong>: un léger ajustement a été apporté au comportement de l’API Bulk Lead Import lors de la <b>id</b> est spécifié comme <b>lookupField</b> lors de la création de la tâche. Si un enregistrement de personne est lié au <b>id</b> est introuvable dans la base de données du Marketo Engage, aucune mise à jour d’enregistrement ne se produit, car l’enregistrement est introuvable. Le comportement mis à jour inclut désormais l’augmentation du nombre dans la variable <b>numOfRowsFailed</b> dans la réponse, indiquant que l’opération a échoué dans de tels cas.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td>s/o</td>
   </tr>
  </tbody> 
 </table>
