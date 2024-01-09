@@ -3,10 +3,10 @@ description: Présentation de la messagerie instantanée - Documents Marketo - D
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 2%
+source-wordcount: '550'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,44 @@ Cliquer sur la carte de conversation en direct dans le flux vous permet de chois
  </tbody> 
 </table>
 
+## Notifications de tchat en direct {#live-chat-notifications}
+
+Pour recevoir des notifications de navigateur pour la messagerie instantanée, tous les agents de messagerie instantanée doivent activer les notifications de navigateur pour le Dynamic Chat lorsqu’ils y sont invités.
+
+### Activation des notifications {#enabling-notifications}
+
+Les agents de messagerie instantanée voient une bannière en haut de l’écran lorsqu’ils se connectent. Celle-ci indique &quot;Veuillez activer les notifications de navigateur pour recevoir des notifications de conversation en direct.&quot; Cliquez sur **Activer**.
+
+![](assets/live-chat-overview-4.png)
+
+Les agents de conversation en direct seront alors invités par le navigateur à afficher les notifications. Cliquez sur **Autoriser**.
+
+![](assets/live-chat-overview-5.png)
+
+Si les agents n’obtiennent pas de notifications du navigateur même après l’avoir autorisé dans le navigateur, ils peuvent avoir besoin d’activer les notifications du navigateur dans les paramètres de notification du système d’exploitation :
+
+[Étapes de Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Étapes pour Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### Lorsqu’une conversation en direct est acheminée vers un agent {#when-a-live-chat-is-routed-to-an-agent}
+
+Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleue s’affiche en haut de l’écran pour lui demander d’accepter.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>Vous avez également la possibilité de configurer des notifications de navigateur qui vous avertiront si vous n’êtes pas connecté à Dynamic Chat.
+>
+>* Activation des notifications de navigateur dans [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Activation des notifications de navigateur dans [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Informations à noter {#things-to-note}
+
+* Les agents disposent de 45 secondes pour répondre avant que le message &quot;Chat Accept&quot; ne expire.
+* Actuellement, il existe une limite de 10 conversations en direct par agent.
+
 >[!MORELIKETHIS]
 >
->[Boîte de réception de l’agent(e)](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
+>[Boîte de réception de l’agent](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
