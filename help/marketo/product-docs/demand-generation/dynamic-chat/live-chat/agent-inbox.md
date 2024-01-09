@@ -2,11 +2,11 @@
 description: Boîte de réception des agents - Documents Marketo - Documentation du produit
 title: Boîte de réception de l’agent(e)
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 2%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -32,21 +32,7 @@ Dans le coin supérieur droit de l’écran de la boîte de réception de l’ag
 
 ## Notifications de tchat en direct {#live-chat-notifications}
 
-Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleue s’affiche en haut de l’écran pour lui demander d’accepter.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->Vous avez également la possibilité de configurer des notifications de navigateur qui vous avertiront si vous n’êtes pas connecté à Dynamic Chat.
->
->* Activation des notifications de navigateur dans [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Activation des notifications de navigateur dans [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Informations à noter {#things-to-note}
-
-* Les agents disposent de 45 secondes pour répondre avant que le message &quot;Chat Accept&quot; n’expire.
-* Actuellement, il existe une limite de 10 conversations en direct par agent.
+En savoir plus sur les notifications dans [Présentation de la messagerie instantanée](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversations {#conversations}
 
