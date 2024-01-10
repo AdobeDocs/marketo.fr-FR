@@ -4,18 +4,18 @@ description: Créer et utiliser un champ de chaîne concaténée (formule) - Doc
 title: Créer et utiliser un champ de chaîne concaténée (formule)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 2%
+source-wordcount: '170'
+ht-degree: 0%
 
 ---
 
 # Créer et utiliser un champ de chaîne concaténée (formule) {#create-and-use-a-concatenated-string-formula-field}
 
-Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une valeur conditionnelle à l’aide d’un champ Formule Marketo .
+Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une valeur conditionnelle à l’aide d’un champ de formule de Marketo Engage.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
@@ -53,6 +53,6 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
 >[!NOTE]
 >
->Les champs de formule peuvent être utilisés dans les landing pages, les emails et les colonnes de liste dynamique (ils ne sont pas exportés). Les emails contenant des champs de formule peuvent _not_ être envoyé à l’aide d’une campagne par lots. Veuillez utiliser un [jeton de script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) dans ce scénario.
+>Les champs de formule peuvent être utilisés dans les colonnes Pages d’entrée, Emails et Liste dynamique . Les emails contenant des champs de formule peuvent _not_ être envoyé à l’aide d’une campagne par lots. Veuillez utiliser un [jeton de script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) dans ce scénario.
 
 Bon travail ! Vous avez maintenant un champ intelligent qui sait quelle formule de salutation inclure en fonction du genre. Amuse-toi bien avec ça et deviens créatif.
