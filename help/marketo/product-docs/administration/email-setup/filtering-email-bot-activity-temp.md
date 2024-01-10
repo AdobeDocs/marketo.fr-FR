@@ -4,9 +4,9 @@ title: Filtrage de l’activité des robots de messagerie
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Choisir pour **[!UICONTROL Correspondance avec la liste IAB]**, **[!UICONTROL Correspondance avec le modèle de proximité]**, ou les deux. Choisissez si vous souhaitez [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage]. Définissez la durée en secondes de **Durée entre les activités** de 0 à 3 secondes (la valeur par défaut est 0).
+1. Vous avez le choix entre deux curseur. Vous ne pouvez activer qu’un seul ou les deux. Si vous activez **[!UICONTROL Correspondance avec la liste IAB]**, choisissez si [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. Si vous activez **[!UICONTROL Correspondance avec le modèle de proximité]**, choisissez si [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage]. Vous pouvez également définir la durée en secondes de la variable **Durée entre les activités** (la valeur par défaut est 0, la valeur maximale est 3).
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >Avec **Durée entre les activités** définie sur 0 seconde, nous identifierons les activités de courrier électronique qui se produisent exactement à la même seconde. Si plusieurs activités de courrier électronique se produisent au cours de la durée indiquée, elles sont identifiées comme une activité de robot.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* Si vous choisissez [!UICONTROL Filtrage de l’activité des robots], vous pouvez constater une baisse des ouvertures et des clics d’email, car les activités erronées sont éliminées.
 
-**ÉTAPE FACULTATIVE**: pour désactiver cette fonction, désélectionnez simplement le ou les curseur(s). Si vous la désactivez, les données ne sont pas réinitialisées.
+**ÉTAPE FACULTATIVE**: pour désactiver l’une des fonctionnalités, désélectionnez simplement le curseur approprié. Si vous le faites, les données ne sont pas réinitialisées.
 
 >[!TIP]
 >
