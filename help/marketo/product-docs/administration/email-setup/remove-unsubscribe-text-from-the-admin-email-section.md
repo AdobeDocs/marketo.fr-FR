@@ -4,18 +4,18 @@ description: Supprimer le texte de désabonnement de la section Admin Email - Do
 title: Supprimer le texte Désabonner de la section Courrier électronique d’administration
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Supprimer le texte Désabonner de la section Courrier électronique d’administration {#remove-unsubscribe-text-from-the-admin-email-section}
+# Supprimer le texte Désabonner de la section Admin > Email {#remove-unsubscribe-text-from-the-admin-email-section}
 
 La seule raison pour laquelle vous devriez supprimer complètement le contenu de désabonnement de **[!UICONTROL Administration]** > **[!UICONTROL Email]** est si vous choisissez de créer le lien de désabonnement dans les modèles d’email eux-mêmes. La zone de texte comporte une validation qui ne vous permet pas d’enregistrer sans contenu. Vous pouvez contourner ce problème en ajoutant un petit commentaire de HTML. Le commentaire de HTML ne s’affiche pas dans le client de messagerie, car il affiche l’email en HTML et les commentaires sont omis. Voici comment le faire.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
@@ -29,7 +29,7 @@ La seule raison pour laquelle vous devriez supprimer complètement le contenu de
    >
    >Avant la suppression, copiez/collez-le dans un document texte en tant que sauvegarde.
 
-1. Saisissez `<!--This is a comment -->`.
+1. Saisissez . `<!--This is a comment -->`.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 

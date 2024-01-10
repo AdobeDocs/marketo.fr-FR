@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '9298'
 ht-degree: 3%
@@ -136,7 +136,8 @@ ht-degree: 3%
          + [Activer les limites de communication](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Activation des restrictions sur les personnes pour les campagnes dynamiques](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Filtrage de l’activité des robots de messagerie](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Supprimer le texte Désabonner de la section &quot;Admin -> Email&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Filtrage du TEMP d’activité des robots de messagerie](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+         + [Supprimer le texte de désabonnement](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Gestion des champs {#field-management}
          + [Mises à jour de champ de bloc pendant l’importation de liste à partir de sources non approuvées](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloquer les mises à jour d’un champ](product-docs/administration/field-management/block-updates-to-a-field.md)
