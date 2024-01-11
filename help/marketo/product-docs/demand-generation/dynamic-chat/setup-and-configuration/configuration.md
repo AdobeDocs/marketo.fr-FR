@@ -3,10 +3,10 @@ description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Découvrez comment personnaliser l’aspect de votre fenêtre de dialogue de chatbot.
 
-Pour commencer, cliquez sur **Configuration**.
+Pour commencer, cliquez sur **Paramètres de chatbot** under **Configuration**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ L’ancre permet aux visiteurs de votre site d’ouvrir/de fermer le cadre de di
 
 ![](assets/configuration-4.png)
 
-### Paramètres de l’agent {#agent-settings}
+### Paramètres des robots {#agent-settings}
 
-Dans Paramètres de l’agent, vous pouvez ajouter un libellé à votre zone de discussion (par exemple : &quot;Adobe robot&quot;) qui apparaîtra en haut de celle-ci. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour charger votre propre image d’avatar, cliquez sur le bouton **+** bouton .
+Dans Paramètres des robots, vous pouvez ajouter un libellé à votre chatbox (par exemple : &quot;Assistant d’Adobe&quot;) qui apparaîtra en haut de celui-ci. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour charger votre propre image d’avatar, cliquez sur le bouton **+** bouton .
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ Pour que le chatterbot s’affiche sur votre site web, vous devez d’abord inst
 
 >[!TIP]
 >
->Si votre site utilise une stratégie de sécurité du contenu, vous devrez peut-être placer sur la liste autorisée les URL suivantes pour que le chatterbot fonctionne comme prévu :
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Consultez le code ci-dessous pour savoir quoi ajouter si votre site utilise la stratégie de sécurité du contenu (CSP).
 
 >[!NOTE]
 >

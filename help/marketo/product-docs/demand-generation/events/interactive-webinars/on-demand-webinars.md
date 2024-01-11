@@ -4,9 +4,9 @@ title: Webinaires On-Demand
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect, la technologie qui alimente les webinaires interactifs, effectue 
 
 Marketo fournit les statistiques de surveillance pour les webinaires à la demande sur l’onglet Tableau de bord à l’aide des widgets suivants :
 
-* Résumé à la demande : il s’agit d’un résumé quotidien du nombre de visiteurs (Aucun affichage) qui regardent l’enregistrement après l’événement.
+* Résumé à la demande : indique le nombre de visiteurs (Aucun affichage) qui regardent l’enregistrement après l’événement un ou plusieurs jours donnés.
 
 * Statistiques On-Demand : ce widget fournit des informations sur :
    * Jours pendant lesquels l’enregistrement à la demande est disponible pour affichage : aide les marketeurs à effectuer des actions, telles que l’exécution des campagnes par e-mail vers la fin de la durée d’enregistrement de disponibilité de 30 jours.
