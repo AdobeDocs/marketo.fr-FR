@@ -3,10 +3,10 @@ description: Filtrage de l’activité des robots de messagerie électronique - 
 title: Filtrage de l’activité des robots de messagerie
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 11%
+source-wordcount: '534'
+ht-degree: 0%
 
 ---
 
@@ -43,15 +43,23 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Choisir pour **[!UICONTROL Correspondance avec la liste IAB]**, **[!UICONTROL Correspondance avec le modèle de proximité]**, ou les deux. Choisissez si vous souhaitez [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage].
+1. Vous avez le choix entre deux curseur. Vous ne pouvez activer qu’un seul ou les deux. Si vous activez **[!UICONTROL Correspondance avec la liste IAB]**, choisissez si [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
+1. Si vous activez **[!UICONTROL Correspondance avec le modèle de proximité]**, choisissez si [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage]. Vous pouvez également définir la durée en secondes de la variable **Durée entre les activités** (la valeur par défaut est 0, la valeur maximale est 3).
+
+   ![](assets/filtering-email-bot-activity-5.png)
+
 >[!NOTE]
 >
->Si vous choisissez [!UICONTROL Filtrage de l’activité des robots], vous pouvez constater une baisse des ouvertures et des clics d’email, car les activités erronées sont éliminées.
+>Avec **Durée entre les activités** définie sur 0 seconde, nous identifierons les activités de courrier électronique qui se produisent exactement à la même seconde. Si plusieurs activités de courrier électronique se produisent au cours de la durée indiquée, elles sont identifiées comme une activité de robot.
 
-**ÉTAPE FACULTATIVE**: pour désactiver cette fonction, désélectionnez simplement le ou les curseur(s). Si vous la désactivez, les données ne sont pas réinitialisées.
+>[!IMPORTANT]
+>
+>* Si vous choisissez [!UICONTROL Filtrage de l’activité des robots], vous pouvez constater une baisse des ouvertures et des clics d’email, car les activités erronées sont éliminées.
+
+**ÉTAPE FACULTATIVE**: pour désactiver l’une des fonctionnalités, désélectionnez simplement le curseur approprié. Si vous le faites, les données ne sont pas réinitialisées.
 
 >[!TIP]
 >

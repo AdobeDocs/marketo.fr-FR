@@ -3,10 +3,10 @@ description: Boîte de réception des agents - Documents Marketo - Documentation
 title: Boîte de réception de l’agent(e)
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 
@@ -50,11 +50,17 @@ Sur le côté droit de l’écran de boîte de réception de l’agent, vous pou
 
 ![](assets/agent-inbox-5.png)
 
+## Fin d’une session {#end-a-session}
+
+Les agents peuvent mettre fin manuellement à une session en cliquant simplement sur le bouton **Fin de session** en regard des informations sur le visiteur.
+
+![](assets/agent-inbox-6.png)
+
 ## Historique de l&#39;activité {#activity-history}
 
 L’historique des activités se trouve sous les informations sur les visiteurs. Affichez les types d’activité et les dates, et même les transcriptions de conversation.
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ Au bas de la fenêtre de conversation en direct se trouve une icône qui vous pe
 
 1. Cliquez sur l’icône du calendrier.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Sélectionnez le calendrier de l’agent de votre choix, puis cliquez sur **Envoyer**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. Le visiteur pourra réserver une réunion.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)
