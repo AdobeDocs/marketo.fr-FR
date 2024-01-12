@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
+source-git-commit: 0180723fdbe8dbf4855666b5c465ce17709afda4
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 9%
+source-wordcount: '646'
+ht-degree: 8%
 
 ---
 
@@ -32,8 +32,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
     <tr> 
    <td><strong>Webinaires à la demande pour les webinaires interactifs</strong>: les webinaires à la demande vous permettent de publier l’enregistrement du webinaire et de suivre ses visites/montres. Vous obtiendrez ainsi plus de pistes grâce à des inscrits qui n’ont pas assisté au webinaire (pas d’affichage) mais qui sont toujours intéressés par la recherche de plus amples détails et l’affichage de l’enregistrement.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinaires On-Demand</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -56,8 +56,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    </tr>
     <tr> 
    <td><strong>Filtrage de l’activité des robots de messagerie</strong>: améliore la capture de l’activité de robot pour l’engagement email en vous permettant de choisir l’agressivité du filtrage de l’identification de l’activité de robot.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrage de l’activité des robots de messagerie</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -125,8 +125,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
    </tr>
     <tr> 
    <td><strong>Options de couleur de police du robot de messagerie</strong>: personnalisez les couleurs de police dans une configuration de chatbot.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">Configuration</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
     </tr>
     <tr> 
    <td><strong>Arrêt manuel d’une conversation en direct</strong>: les visiteurs et les agents peuvent désormais mettre fin manuellement à une session de chat en direct.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Boîte de réception de l’agent(e)</a></td>
   </tr>
   <tr> 
    <td> </td> 
