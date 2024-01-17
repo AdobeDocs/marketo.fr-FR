@@ -4,16 +4,20 @@ description: Création d’un utilisateur API uniquement - Documents Marketo - D
 title: Création d’un utilisateur API uniquement
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 2%
+source-wordcount: '185'
+ht-degree: 0%
 
 ---
 
 # Création d’un utilisateur API uniquement {#create-an-api-only-user}
 
 Si vous souhaitez intégrer Marketo via le [API REST](https://developers.marketo.com/documentation/rest/){target="_blank"}, vous devez créer un utilisateur API uniquement. Voici comment.
+
+>[!NOTE]
+>
+>Si vous créez une API Uniquement pour les utilisateurs dans un abonnement qui a été intégré à Adobe Identity, vos étapes [peut être consulté ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +27,7 @@ Si vous souhaitez intégrer Marketo via le [API REST](https://developers.marketo
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/create-an-api-only-user-1.png)
 
@@ -43,7 +47,7 @@ Si vous souhaitez intégrer Marketo via le [API REST](https://developers.marketo
    >
    >Ajoutez un motif facultatif ou une date d’expiration d’accès. Les dates d’expiration d’accès sont pratiques pour les employés de courte durée.
 
-1. Sélectionnez la **[!UICONTROL API uniquement]** et vérifiez les **[!UICONTROL API uniquement]** . Cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez la variable **[!UICONTROL API uniquement]** et vérifiez les **[!UICONTROL API uniquement]** . Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
@@ -59,4 +63,4 @@ Bon, alors ! Maintenant, allons de l’avant et créons le service personnalisé
 
 >[!MORELIKETHIS]
 >
->[Création d’un service personnalisé à utiliser avec l’API ReST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[Créer un service personnalisé à utiliser avec l’API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
