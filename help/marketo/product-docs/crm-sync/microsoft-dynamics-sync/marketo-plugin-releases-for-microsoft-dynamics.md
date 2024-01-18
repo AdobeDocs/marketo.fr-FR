@@ -4,7 +4,7 @@ description: Versions du module externe Marketo pour Microsoft Dynamics - Docume
 title: Versions du module externe Marketo pour Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,9 +36,9 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
 <table> 
  <tbody> 
   <tr> 
-   <th>Version</th> 
-   <th>Date de publication</th> 
-   <th>Notes</th> 
+   <th style="width:15%">Version</th> 
+   <th style="width:20%">Date de publication</th> 
+   <th style="width:65%">Notes</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
