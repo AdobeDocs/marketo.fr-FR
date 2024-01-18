@@ -3,9 +3,9 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 3%
 
 ---
@@ -304,12 +304,11 @@ Dans le cas contraire, modifiez les autorisations du profil spécifique. </li>
 </ul>
 </li>
 Une fois le contrôle des paramètres Utilisateurs et rôles terminé, connectez-vous à Dynamic Chat pour poursuivre votre audit.  
-<li>Dans l’onglet "Intégrations", votre synchronisation de Marketo Engage et de Dynamic Chat est-elle toujours activée ?</li>
+<li>Avez-vous <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">connecté à votre instance de Marketo Engage</a> à Dynamic Chat ?</li>
 <li>Les cinq profils par défaut avec des autorisations prédéfinies sont-ils applicables à votre organisation ?<br/> 
      Sinon, vous pouvez : <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">les modifier dans Dynamic Chat</a>. Vous pouvez également <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">créer un profil personnalisé</a> avec un ensemble personnalisé d’autorisations.</li>
 <li>Pour permettre à vos utilisateurs d’accéder à Dynamic Chat, avez-vous coché "Dynamic Chat d’accès" sur le rôle de Marketo Engage approprié sous Admin &gt; Utilisateurs et rôles &gt; Rôles ?
 <br/><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Les rôles "Admin" et "Utilisateur marketing" doivent avoir accès au Dynamic Chat.</li>
-<li>Avez-vous <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">connecté à votre instance de Marketo Engage</a> à Dynamic Chat ?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight (le cas échéant)</td> 

@@ -3,16 +3,20 @@ description: Présentation de la messagerie instantanée - Documents Marketo - D
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 1%
+source-wordcount: '618'
+ht-degree: 0%
 
 ---
 
 # Présentation de la messagerie instantanée {#live-chat-overview}
 
 Le chat en direct permet aux visiteurs du site Web de discuter en temps réel avec vos agents de vente.
+
+>[!NOTE]
+>
+>Les flux de conversation et les conversations en direct sont des fonctionnalités d’évaluation partagées qui ont une limite de durée de vie combinée de 100 engagements pour ceux du package Dynamic Chat Select. Lorsque cette limite est atteinte, tous les flux de conversation publiés cesseront de se déclencher et les visiteurs qui demandent à discuter avec un agent en direct recevront le message de secours global. Pour augmenter cette limite, contactez votre gestionnaire de compte pour discuter des options de mise à niveau de package.
 
 ## Ajout d’agents de messagerie instantanée {#add-live-chat-agents}
 
