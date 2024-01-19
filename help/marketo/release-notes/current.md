@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdc13eac0a8f3c57e53ef6352409aab6645ee0f0
+source-git-commit: f49158e8b180641c1202b39b091ef8dd4088074e
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '681'
 ht-degree: 8%
 
 ---
@@ -176,6 +176,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 <br/>
 
 ## Annonces {#announcements}
+
+* **Mise à jour de l’API de piste de synchronisation**: le comportement de l’API de piste de synchronisation a été légèrement ajusté en ce qui concerne les mises à jour apportées à la variable `unsubscribed` champ . Maintenant, quand vous passez `null` comme valeur, c’est égal à transmettre une valeur de `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: dans notre version de janvier 2024, nous allons mettre à jour jQuery pour Marketo Engage Forms vers jQuery 3.x. Cela peut avoir un impact sur l’implémentation personnalisée du formulaire basée sur des versions plus anciennes de jQuery. [En savoir plus ici](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
