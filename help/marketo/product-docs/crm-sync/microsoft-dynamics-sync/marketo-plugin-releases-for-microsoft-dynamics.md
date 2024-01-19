@@ -4,9 +4,9 @@ description: Versions du module externe Marketo pour Microsoft Dynamics - Docume
 title: Versions du module externe Marketo pour Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>10/13/23</td> 
+   <td>1/19/24</td> 
    <td>Correction de bogues : correction de bogues liés à la synchronisation des entités personnalisées.</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
   <tr> 
    <td>5.0.1.8</td> 
    <td>03/27/23</td> 
-   <td>Correction de bogue : empêche le module externe d’écraser d’autres personnalisations sur les éléments d’IU dans MS Dynamics.</td> 
+   <td>Correction de bogue : empêche le module externe d’écraser d’autres personnalisations sur les éléments d’IU dans MS Dynamics.
+   <p>
+   Bug Fix : tuiles de navigation restaurées qui sont devenues manquantes dans la version 5.0.1.1.</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
