@@ -2,7 +2,7 @@
 description: Utilisation des options SMS dans une campagne dynamique - Documents Marketo - Documentation du produit
 title: Utilisation des options SMS dans une campagne dynamique
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Utilisation des options SMS dans une campagne dynamique {#using-sms-options-in-a-smart-campaign}
 
-Après vous [créer un SMS ;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}, vous souhaitez utiliser des déclencheurs et des filtres de liste dynamique dans une campagne dynamique pour en tirer parti.
+Après vous [créer un SMS ;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, vous souhaitez utiliser des déclencheurs et des filtres de liste dynamique dans une campagne dynamique pour en tirer parti.
 
 >[!NOTE]
 >

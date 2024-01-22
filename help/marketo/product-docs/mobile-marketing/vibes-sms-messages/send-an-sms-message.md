@@ -2,7 +2,7 @@
 description: Envoyer un message SMS - Documents Marketo - Documentation du produit
 title: Envoyer un SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -75,5 +75,5 @@ Vous avez [création de votre SMS](/help/marketo/product-docs/mobile-marketing/v
 
 >[!MORELIKETHIS]
 >
->* [Création d’un message vidéo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Création d’un message vidéo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [Utilisation des options SMS dans une campagne dynamique](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

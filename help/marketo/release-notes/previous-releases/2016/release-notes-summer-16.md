@@ -4,23 +4,23 @@ description: Notes de mise à jour - Été 16 - Documents Marketo - Documentatio
 title: Notes de mise à jour - Été 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # Notes de mise à jour : Été 16 {#release-notes-summer}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’été 16. Vérifiez la disponibilité de votre édition Marketo. Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
+Les fonctionnalités suivantes sont incluses dans la version de l’été 16. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo. Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
 
-## [Marketing basé sur les comptes](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Account Based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Marketo Account Based Marketing fournit toutes les informations essentielles sur une seule plateforme unifiée :
 
 * **Cible** - Découverte de compte, correspondance de pistes vers comptes et listes de comptes nommés
-* **Engage** - Personnalisation basée sur les comptes, engagement cross-canal et workflows spécifiques aux comptes
+* **Interagir** - Personnalisation basée sur les comptes, engagement cross-canal et workflows spécifiques aux comptes
 * **Mesure** - Informations au niveau du compte et de la liste, note d’engagement du compte, impact sur le pipeline et les recettes
 
 ![](assets/abm-5-acme.png)
@@ -34,12 +34,12 @@ Marketo Account Based Marketing fournit toutes les informations essentielles sur
 Le journal d’audit fournit un historique complet des modifications apportées à votre abonnement Marketo. Il créera des responsabilités parmi les utilisateurs et les administrateurs, aidera à identifier la cause d&#39;un comportement inattendu, et assurera la sécurité de savoir qui fait quoi et quand. Ces informations seront disponibles à tout moment et pourront être utilisées pour répondre à des questions telles que :
 
 * Qu’est-il advenu de cette ressource ou de ce paramètre et qui l’a mise à jour pour la dernière fois ?
-* Que faisait l&#39;utilisateur X ?
+* Qu&#39;est-ce que l&#39;utilisateur X a fait ?
 * Qui se connecte à notre compte ?
 
 ![](assets/audit-trail.png)
 
-## [Intégration de Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Intégration de Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Créez facilement des SMS directement dans Marketo. Personnalisez et ciblez votre message à l&#39;aide de vos données Marketo riches, et surveillez facilement ses performances à l&#39;aide du tableau de bord des messages SMS.
 
@@ -60,7 +60,7 @@ Auparavant, toutes les variables spécifiées dans les Modèles d’e-mail 2.0 �
 **Mises à jour de la syntaxe**
 
 * Vous pouvez désormais utiliser &quot;mktoAddByDefault&quot; sur les modules spécifiés dans les Modèles d&#39;email 2.0 afin d&#39;indiquer les modules qui doivent être affichés par défaut dans les nouveaux emails. Cela s’avère beaucoup plus pratique si vous créez un modèle d’email avec un grand nombre de modules.
-* Sur les éléments d’image, vous pouvez maintenant spécifier si la variable `<img>` Les propriétés &quot;height&quot; et &quot;width&quot; de l’élément de HTML doivent être verrouillées ou modifiables pour l’utilisateur final. mktoLockImgSize=&quot;true&quot; entraîne le verrouillage de la hauteur/largeur (même si l’image est modifiée). De même, mktoLockImgStyle=&quot;true&quot; entraîne le verrouillage de la propriété &quot;style&quot;.
+* Sur les éléments d’image, vous pouvez maintenant spécifier si la sous-jacente `<img>` Les propriétés &quot;height&quot; et &quot;width&quot; de l’élément de HTML doivent être verrouillées ou modifiables pour l’utilisateur final. mktoLockImgSize=&quot;true&quot; entraîne le verrouillage de la hauteur/largeur (même si l’image est modifiée). De même, mktoLockImgStyle=&quot;true&quot; entraîne le verrouillage de la propriété &quot;style&quot;.
 
 **Recherche de code**
 
@@ -70,7 +70,7 @@ Utilisez la nouvelle fonctionnalité de recherche pour rechercher et remplacer e
 
 **Prise en charge des jetons dans les éléments d’image**
 
-Les jetons peuvent désormais être utilisés dans la zone &quot;URL externe&quot; de l’expérience d’insertion d’image ! Si vous avez spécifié des images avec `{{my.tokens}}`, vous pouvez maintenant référencer ces jetons dans Email Editor 2.0. Notez que l’image apparaîtra toujours rompue dans le canevas Email Editor 2.0. Mais vous verrez qu’elles sont rendues dans Aperçu et Envoyer un exemple avant d’envoyer votre email.
+Les jetons peuvent désormais être utilisés dans la zone &quot;URL externe&quot; de l’expérience d’insertion d’image ! Si vous avez spécifié des images avec `{{my.tokens}}`, vous pouvez désormais référencer ces jetons dans Email Editor 2.0. Notez que l’image apparaîtra toujours rompue dans le canevas de l’éditeur de messagerie 2.0. Mais vous verrez qu’elles sont rendues dans Aperçu et Envoyer un exemple avant d’envoyer votre email.
 
 ## Plusieurs noms de domaine {#multiple-branding-domains}
 
@@ -98,7 +98,7 @@ Spécifiez un délai pour que les campagnes web réagissent sur votre site web.
 
 ## [Analyse de contenu et exportation Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
-Afficher les données des analyses et recommandations de contenu hors ligne.
+Affichez les données d’analyse de contenu et de recommandations hors ligne.
 
 ## [Prise en charge par l’API d’Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
