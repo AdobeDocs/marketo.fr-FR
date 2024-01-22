@@ -4,16 +4,16 @@ description: Notes de mise à jour - Hiver 2017 - Documents Marketo - Documentat
 title: Notes de mise à jour - Hiver 2017
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 8%
+source-wordcount: '381'
+ht-degree: 7%
 
 ---
 
-# Notes de mise à jour : Hiver 17 {#release-notes-winter}
+# Notes de mise à jour : hiver 17 {#release-notes-winter}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’hiver 17. Vérifiez la disponibilité de votre édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version de l’hiver 17. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
 
 Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
 
@@ -45,7 +45,7 @@ Les applications de personnalisation web, de contenu prédictif et de statistiqu
 
 ## Améliorations marketing basées sur les comptes {#account-based-marketing-enhancements}
 
-**[Importer les comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[Importation de comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 Avec l’option Importation de compte nommé , créez ou mettez à jour plusieurs enregistrements à la fois via le transfert CSV.
 
@@ -67,7 +67,7 @@ Filtrez les éléments de contenu prédictif activés pour le courrier électron
 
 **[Filtrage des analyses par source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtrez l’analyse de contenu prédictif pour des sources spécifiques : Email, Média enrichi ou Barre de recommandations.
+Filtrez l’analyse de contenu prédictif pour des sources spécifiques - Email, Média enrichi ou Barre de recommandations.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
@@ -81,11 +81,11 @@ Il existe une expérience d’édition et une mise en page améliorées qui divi
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de découverte automatique du contenu.
 
-## [Améliorations du SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Améliorations apportées au SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Les développeurs disposent désormais d’un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer des jetons push.
 
-## [Intégration de Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Intégration de Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Améliorez votre ciblage grâce à une nouvelle option de filtre, &quot;Membre de la liste des vidéos&quot;.
 
