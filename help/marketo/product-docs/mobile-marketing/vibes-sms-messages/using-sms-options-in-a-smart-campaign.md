@@ -1,10 +1,8 @@
 ---
 description: Utilisation des options SMS dans une campagne dynamique - Documents Marketo - Documentation du produit
 title: Utilisation des options SMS dans une campagne dynamique
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -17,11 +15,11 @@ Après vous [créer un SMS ;](/help/marketo/product-docs/mobile-marketing/vibes-
 
 >[!NOTE]
 >
->Si vous souhaitez envoyer un SMS, nous avons un [article spécifique](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) pour cela.
+>Si vous souhaitez envoyer un SMS, nous avons un [article spécifique](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} pour cela.
 
 >[!PREREQUISITES]
 >
->Les déclencheurs/filtres SMS n’apparaissent que si la variable [Le service Vibes a été activé](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>Les déclencheurs/filtres SMS n’apparaissent que si la variable [Le service Vibes a été activé](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## Triggers SMS {#sms-triggers}
 
@@ -87,6 +85,6 @@ Il existe trois étapes de flux SMS parmi lesquelles choisir.
 
 >[!MORELIKETHIS]
 >
->* [Envoyer un SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [Définition d’une liste dynamique pour Smart Campaign | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Définition d’une liste dynamique pour Smart Campaign | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [Envoyer un SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [Définition d’une liste dynamique pour Smart Campaign | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Définition d’une liste dynamique pour Smart Campaign | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

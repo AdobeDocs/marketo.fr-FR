@@ -1,19 +1,17 @@
 ---
 description: Envoyer un message SMS - Documents Marketo - Documentation du produit
 title: Envoyer un SMS
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # Envoyer un SMS {#send-a-vibes-sms-message}
 
-Vous avez [création de votre SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md), il est maintenant temps de l&#39;envoyer. Vous pouvez l&#39;envoyer par lot ou par campagne de déclenchement.
+Vous avez [création de votre SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, il est maintenant temps de l&#39;envoyer. Vous pouvez l&#39;envoyer par lot ou par campagne de déclenchement.
 
 >[!NOTE]
 >
@@ -77,6 +75,5 @@ Vous avez [création de votre SMS](/help/marketo/product-docs/mobile-marketing/v
 
 >[!MORELIKETHIS]
 >
->* [Création d’un message vidéo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Étapes de flux de vidéos
-
+>* [Création d’un message vidéo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Utilisation des options SMS dans une campagne dynamique](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

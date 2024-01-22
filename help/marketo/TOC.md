@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 482b3b2979bc46c703bfd391538d686a8c3c750f
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '9299'
+source-wordcount: '9262'
 ht-degree: 3%
 
 ---
@@ -1593,7 +1593,6 @@ ht-degree: 3%
       + Administration {#admin}
          + [Ajout d’une application mobile](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Ajout de vidéos en tant que service LaunchPoint](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
-         + [TEMP Ajout de vidéos en tant que service LaunchPoint](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service-2.md)
          + [Authentification de la sécurité d’accès mobile](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Avant de créer des notifications push et des messages In-App](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [Configuration de l’accès push Android à l’application mobile](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
@@ -1629,15 +1628,11 @@ ht-degree: 3%
          + [Présentation des notifications push](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [Affichage du tableau de bord des notifications push](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + Vidéos SMS {#vibes-sms-messages}
-         + [Création d’un message SMS Vibes](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
-         + [Ajout d’une étape de flux pour un SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
-         + [Tableau de bord des messages SMS](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
-         + [Utiliser des messages SMS de vidéos dans des déclencheurs et des filtres de liste dynamique](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
-         + [TEMP Créer un message SMS](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)
-         + [TEMP Envoi d’un SMS](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
-         + [TEMP Utilisation des options SMS dans une campagne dynamique](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
-         + [Glossaire SMS TEMP](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-         + [Rapports SMS TEMP](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting-2.md)
+         + [Créer un message SMS](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md)
+         + [Envoyer un SMS](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
+         + [Utilisation des options SMS dans une campagne dynamique](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
+         + [Rapports SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
+         + [Glossaire SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
    + Personnalisation {#personalization}
       + Segmentation et fragments de code {#segmentation-and-snippets}
          + Segmentation {#segmentation}
