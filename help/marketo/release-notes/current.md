@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 8%
 
 ---
@@ -176,6 +176,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 <br/>
 
 ## Annonces {#announcements}
+
+* [Webinaire de mise à jour de janvier 2024 pour les Marketo Engage](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **Mise à jour de l’API de piste de synchronisation**: la variable [API de piste de synchronisation](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Le comportement de a a été légèrement ajusté en ce qui concerne les mises à jour apportées à la variable `unsubscribed` champ . Maintenant, quand vous passez `null` comme valeur, c’est égal à transmettre une valeur de `false`.
 
