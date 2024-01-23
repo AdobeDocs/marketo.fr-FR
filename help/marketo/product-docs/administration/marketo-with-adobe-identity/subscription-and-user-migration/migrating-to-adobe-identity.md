@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Dans la section Vérification des courriers électroniques utilisateur , un admi
 
 Un administrateur peut afficher l’état de vérification des emails de l’abonnement, le pourcentage d’utilisateurs de l’abonnement ayant terminé la vérification des emails et le nombre d’utilisateurs qui ont été marqués comme ignorés. L’état sera reporté sur l’état de vérification des courriers électroniques de tous les utilisateurs dans l’abonnement. L’administrateur peut cliquer sur le nombre d’utilisateurs ignorés. Il accède alors à l’onglet Migration des utilisateurs pour afficher les utilisateurs ignorés.
 
-L’e-mail de vérification peut être envoyé par un administrateur dans l’onglet Migration des utilisateurs de la console de migration et dans l’onglet Utilisateur et rôles de la zone d’administration de Marketo, ou par l’utilisateur dans les paramètres de son compte. Comme les courriers électroniques d’invitation des utilisateurs, le lien figurant dans le courrier électronique de vérification expire dans 3 jours. Vous trouverez plus d’informations sur la vérification des emails sur la page [Communauté](nation.marketo.com) et dans le [documentation de vérification des emails](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+L’e-mail de vérification peut être envoyé par un administrateur dans l’onglet Migration des utilisateurs de la console de migration et dans l’onglet Utilisateur et rôles de la zone d’administration de Marketo, ou par l’utilisateur dans les paramètres de son compte. Comme les courriers électroniques d’invitation des utilisateurs, le lien figurant dans le courrier électronique de vérification expire dans 3 jours. Vous trouverez plus d’informations sur la vérification des emails sur la page [Communauté](https://nation.marketo.com/) et dans le [documentation de vérification des emails](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
