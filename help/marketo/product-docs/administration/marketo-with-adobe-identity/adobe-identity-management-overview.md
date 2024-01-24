@@ -3,9 +3,9 @@ description: Présentation d’Adobe Identity Management - Documentation Marketo
 title: Présentation d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,15 @@ Tous les nouveaux abonnements Adobe Marketo Engage (du 31 juillet 2023 ou versio
 >[!NOTE]
 >
 >La prise en charge de Marketo ne peut fournir aucune mise à jour concernant la migration d’Adobe IMS. L’équipe Compte d’Adobe atteindra le délai prévu au cours des prochains mois. Pour plus d’informations, voir [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+
+Pour les abonnements intégrés à une identité Adobe, Adobe Admin Console est utilisé pour la gestion des utilisateurs. Les concepts liés aux identités, tels que l’authentification unique, sont également gérés dans le Admin Console.
+
+* En savoir plus sur les [Adobe Admin Console](https://helpx.adobe.com/fr/enterprise/using/admin-console.html){target="_blank"}.
+* En savoir plus sur [configuration de votre organisation d’Adobe associée à votre abonnement Marketo](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
+>[!NOTE]
+>
+>Si vous souhaitez mettre en oeuvre l’authentification unique et que votre abonnement a été intégré à Adobe Identity sans que l’authentification unique soit mise en oeuvre dans l’organisation Adobe, envoyez un ticket à [Prise en charge de Marketo](https://nation.marketo.com/){target="_blank"} et spécifiez la rubrique &quot;Marketo on Admin Console, implémentation de l’authentification unique&quot;.
 
 ## Niveaux de profil {#profile-levels}
 

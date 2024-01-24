@@ -3,9 +3,9 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,11 @@ Les administrateurs système peuvent avoir besoin de suivre certaines étapes n�
 
 * Si vous gérez déjà d’autres produits Adobe dans votre Adobe Admin Console, Adobe peut demander votre consentement pour migrer automatiquement les utilisateurs vers votre console existante. Cliquez sur le bouton &quot;Commencer&quot; dans le courrier électronique pour accéder à la page de consentement.
 
-Pour l’instant, la gestion des utilisateurs n’a pas été modifiée. Les administrateurs de Marketo continueront à gérer les utilisateurs dans la zone d’administration de Marketo et les utilisateurs continueront à se connecter à l’aide de leur identité Marketo jusqu’à ce que la migration des utilisateurs soit terminée.
+Pour l’instant, la gestion des utilisateurs n’a pas été modifiée. Bien que les produits Marketo apparaissent dans le Admin Console, les administrateurs Marketo continueront à gérer les utilisateurs dans la zone d’administration de Marketo, et les utilisateurs continueront à se connecter à l’aide de leur identité Marketo jusqu’à ce que leur migration des utilisateurs soit terminée. Pendant ce temps, les produits Marketo ne peuvent pas être administrés dans Admin Console tant que la migration des utilisateurs n’a pas commencé. Cela inclut l’instance de Dynamic Chat associée à l’abonnement.
+
+>[!NOTE]
+>
+>Si vous n’utilisez pas actuellement SSO mais envisagez de l’implémenter, nous vous conseillons de le faire avant la migration des utilisateurs. Si vous souhaitez mettre en oeuvre l’authentification unique et que votre abonnement a été intégré à Adobe Identity sans que l’authentification unique soit mise en oeuvre dans l’organisation Adobe, envoyez un ticket à [Prise en charge de Marketo](https://nation.marketo.com/){target="_blank"} et spécifiez la rubrique &quot;Marketo on Admin Console, implémentation de l’authentification unique&quot;.
 
 ### Planification de la migration des utilisateurs {#schedule-user-migration}
 

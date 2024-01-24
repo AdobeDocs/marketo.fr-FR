@@ -4,10 +4,10 @@ description: Gestion des utilisateurs de Marketo - Documents Marketo - Documenta
 title: Gestion des utilisateurs Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 6%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 ## Création d’utilisateurs {#create-users}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/managing-marketo-users-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 6%
    >
    >Lorsque la date d’expiration arrive, l’utilisateur reçoit une notification d’expiration et son compte est verrouillé.
 
-1. Sélectionnez la **[!UICONTROL Rôle]** de votre choix et cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez la variable **[!UICONTROL Rôle]** de votre choix et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/managing-marketo-users-7.png)
 
@@ -57,7 +57,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Le courrier électronique/la connexion doit être unique. si vous l’avez déjà utilisé dans une instance sandbox, vous devez en utiliser une autre en production et vice versa.
+   >L’e-mail/la connexion doit être unique. Si vous l’avez déjà utilisé dans une instance sandbox, vous devez en utiliser une autre en production et vice versa.
 
    ![](assets/managing-marketo-users-9.png)
 
@@ -69,7 +69,11 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
 ## Supprimer les utilisateurs {#delete-users}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+>[!NOTE]
+>
+>Si l’utilisateur que vous souhaitez supprimer est également un utilisateur Dynamic Chat, vous devez [les supprimer du Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) dans le Admin Console avant de pouvoir les supprimer dans Marketo Engage.
+
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/managing-marketo-users-10.png)
 
@@ -87,7 +91,7 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
 ## Réinitialisation des mots de passe utilisateur {#reset-user-passwords}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/managing-marketo-users-14.png)
 
@@ -111,7 +115,7 @@ L’utilisateur recevra un courrier électronique contenant des instructions de 
 
 ## Modification des autorisations et modification des informations utilisateur {#change-permissions-and-edit-user-information}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/managing-marketo-users-18.png)
 

@@ -4,10 +4,10 @@ description: Ajout d’une authentification unique à un portail - Documents Mar
 title: Ajout d’une authentification unique à un portail
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 2%
+source-wordcount: '546'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,10 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 >
 >**Autorisations d’administrateur requises**
 
+>[!IMPORTANT]
+>
+>Cela ne s’applique pas aux abonnements intégrés à Adobe Identity. Pour les abonnements intégrés à Adobe Identity, l’authentification unique est configurée au niveau de l’organisation Adobe dans Adobe Admin Console. [En savoir plus ici](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
 >[!NOTE]
 >
 >Êtes-vous un [!DNL Microsoft Azure] utilisateur ? Consultez leur [tutoriel sur l’intégration](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
@@ -30,7 +34,7 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 ## Envoi de la requête {#how-to-send-the-request}
 
 * Envoyez la requête SSO, qui est une réponse SAML, à `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Comme URL d’audience du SP. Utiliser `http://saml.marketo.com/sp`
+* Comme URL d’audience du SP. Utilisation `http://saml.marketo.com/sp`
 * Si vous utilisez l’attribut SPNameQualifier , définissez l’élément NameID de l’objet sur `http://saml.marketo.com/sp`
 * Si vous fédérez plusieurs abonnements Marketo au même fournisseur d’authentification unique, vous pouvez utiliser des url SP uniques pour chaque sous-chaîne Marketo au format `http://saml.marketo.com/sp/<munchkin_id>`
 
@@ -40,7 +44,7 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 
 ## Remarques supplémentaires {#additional-notes}
 
-* **Durée de synchronisation** - Pour un nouvel utilisateur, un délai d’environ 10 minutes est nécessaire avant le traitement d’une demande d’authentification unique initiale.
+* **Durée de synchronisation** - Pour un nouvel utilisateur, un délai d’environ 10 minutes est nécessaire avant le traitement d’une requête SSO initiale.
 * **Configuration des utilisateurs** - Les utilisateurs sont configurés manuellement par Marketo.
 * **Autorisation** - Les autorisations utilisateur sont conservées dans Marketo.
 * **Prise en charge OAuth** - Marketo ne prend actuellement pas en charge OAuth.
@@ -55,7 +59,7 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 
 SSO est désactivé par défaut. Pour activer SAML et le configurer, procédez comme suit.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
@@ -112,5 +116,5 @@ SSO est désactivé par défaut. Pour activer SAML et le configurer, procédez c
 >[!MORELIKETHIS]
 >
 >* [Utilisation d’un ID universel pour la connexion à l’abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
->* [Limiter la connexion de l&#39;utilisateur aux connexions par signature unique](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Limitation de la connexion de l’utilisateur à SSO uniquement](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Invitation d’utilisateurs Marketo à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
