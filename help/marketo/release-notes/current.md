@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 7%
@@ -183,4 +183,4 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 
 * **Vérification par e-mail pour les utilisateurs SSO uniquement**: SSO Seuls les utilisateurs étaient automatiquement vérifiés, ce qui leur permettait d’utiliser un compte de messagerie inaccessible. À compter de la mi-janvier, tous les utilisateurs d’authentification unique existants ne seront plus vérifiés et devront vérifier à nouveau leur adresse électronique via un lien que nous envoyons au compte de messagerie. Tous les nouveaux utilisateurs d’authentification unique devront vérifier à l’avenir leurs adresses électroniques.
 
-* Regardez la [Webinaire de mise à jour de janvier 2024 pour les Marketo Engage](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* Regardez la [Webinaire de mise à jour de janvier 2024 pour les Marketo Engage](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.

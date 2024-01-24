@@ -3,7 +3,7 @@ description: FAQ sur Adobe Identity Management - Documentation Marketo - Documen
 title: FAQ sur Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '1202'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Les personnes intégrées à l’identité Adobe peuvent accéder facilement à 
 
 Oui. L’intégration de Marketo avec Adobe IMS prend en charge les utilisateurs d’ID universels et l’authentification unique. L’authentification unique est désormais pilotée par Adobe IMS et configurée au niveau de l’organisation dans Adobe Admin Console. [En savoir plus ici](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **J’ai déjà été intégré à Adobe Identity et je souhaite maintenant mettre en oeuvre l’authentification unique. Que dois-je faire ?**
+**J’ai déjà été intégré à Adobe Identity et je souhaite maintenant mettre en oeuvre l’authentification unique. Que dois-je faire ?**
 
 Si vous souhaitez mettre en oeuvre l’authentification unique et que votre abonnement a été intégré à Adobe Identity sans que l’authentification unique soit mise en oeuvre dans l’organisation Adobe, envoyez un ticket à [Prise en charge de Marketo](https://nation.marketo.com/){target="_blank"} et spécifiez la rubrique &quot;Marketo on Admin Console, implémentation de l’authentification unique&quot;.
 
