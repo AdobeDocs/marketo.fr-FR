@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
+source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 8%
+source-wordcount: '691'
+ht-degree: 7%
 
 ---
 
@@ -68,7 +68,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    </tr>
     <tr> 
    <td><strong>Mise à jour de l’API d’importation de pistes en bloc</strong>: un léger ajustement a été apporté au comportement de l’API Bulk Lead Import lors de la <b>id</b> est spécifié comme <b>lookupField</b> lors de la création de la tâche. Si un enregistrement de personne est lié au <b>id</b> est introuvable dans la base de données du Marketo Engage, aucune mise à jour d’enregistrement ne se produit, car l’enregistrement est introuvable. Le comportement mis à jour inclut désormais l’augmentation du nombre dans la variable <b>numOfRowsFailed</b> dans la réponse, indiquant que l’opération a échoué dans de tels cas.</td> 
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
    <td>s/o</td>
   </tr>
  </tbody> 
@@ -177,10 +177,10 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 
 ## Annonces {#announcements}
 
-* [Webinaire de mise à jour de janvier 2024 pour les Marketo Engage](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
-
 * **Mise à jour de l’API de piste de synchronisation**: la variable [API de piste de synchronisation](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Le comportement de a a été légèrement ajusté en ce qui concerne les mises à jour apportées à la variable `unsubscribed` champ . Maintenant, quand vous passez `null` comme valeur, c’est égal à transmettre une valeur de `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: dans notre version de janvier 2024, nous allons mettre à jour jQuery pour Marketo Engage Forms vers jQuery 3.x. Cela peut avoir un impact sur l’implémentation personnalisée du formulaire basée sur des versions plus anciennes de jQuery. [En savoir plus ici](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **Vérification par e-mail pour les utilisateurs SSO uniquement**: SSO Seuls les utilisateurs étaient automatiquement vérifiés, ce qui leur permettait d’utiliser un compte de messagerie inaccessible. À compter de la mi-janvier, tous les utilisateurs d’authentification unique existants ne seront plus vérifiés et devront vérifier à nouveau leur adresse électronique via un lien que nous envoyons au compte de messagerie. Tous les nouveaux utilisateurs d’authentification unique devront vérifier à l’avenir leurs adresses électroniques.
+
+* Regardez la [Webinaire de mise à jour de janvier 2024 pour les Marketo Engage](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
