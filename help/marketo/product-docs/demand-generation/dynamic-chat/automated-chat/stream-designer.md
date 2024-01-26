@@ -3,10 +3,10 @@ description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 2%
+source-wordcount: '1108'
+ht-degree: 1%
 
 ---
 
@@ -24,36 +24,36 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
 
 <table>
  <tr>
-  <td><strong>Message</strong></td>
+  <td style="width:25%"><strong>Message</strong></td>
   <td>Utilisez cette option lorsque vous souhaitez faire une déclaration sans qu’aucune réponse ne soit nécessaire (ex : "Bonjour ! Tous les articles ont une remise de 25 % aujourd’hui avec le code SAVE25").
 </td>
  </tr>
  <tr>
-  <td><strong>Question</strong></td>
+  <td style="width:25%"><strong>Question</strong></td>
   <td>A utiliser lorsque vous souhaitez poser une question à choix multiples, à laquelle vous fournissez les réponses disponibles (par exemple : quel type de véhicule vous intéresse ? Réponses = VUS, Compacte, Camion, etc.).</td>
  </tr>
  <tr>
-  <td><strong>Document</strong></td>
+  <td style="width:25%"><strong>Document</strong></td>
   <td>Permet d’incorporer des documents PDF dans les boîtes de dialogue et de suivre l’activité d’engagement des visiteurs dans les documents (nombre de pages consultées, téléchargement du document et/ou tout terme de recherche utilisé).</td>
  </tr>
  <tr>
-  <td><strong>Capture d’informations</strong></td>
+  <td style="width:25%"><strong>Capture d’informations</strong></td>
   <td>Utilisez cette option lorsque vous souhaitez collecter des informations (par exemple, nom, adresse électronique, titre de la tâche, etc.). Après avoir choisi le champ auquel attribuer la réponse, vous pouvez choisir de laisser le visiteur saisir sa réponse ou sélectionner des options dans une liste de sélection que vous déterminez (astuce : cette dernière peut vous aider à nettoyer la base de données). Vous pouvez également choisir de remplacer les données que vous avez actuellement répertoriées pour elles par leur réponse ou, si vous avez déjà une valeur pour vous, ignorer entièrement la question.</td>
  </tr>
  <tr>
-  <td><strong>Réservation Réunion</strong></td>
+  <td style="width:25%"><strong>Réservation Réunion</strong></td>
   <td>Fournit au visiteur un calendrier des dates disponibles pour planifier une réunion. Choisissez la disponibilité du calendrier à l’aide d’un robot d’arrondi, d’un agent spécifique ou de règles personnalisées. Cliquez sur <b>Ajouter un attribut</b> si vous souhaitez capturer le nom ou l’adresse électronique de l’agent et l’affecter à l’enregistrement de personne du visiteur du chat pour une interrogation ultérieure (astuce : créez un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">champ personnalisé</a> pour mapper les informations de l’agent sur de manière à ne pas remplacer un champ de Marketo Engage standard).</td>
  </tr>
  <tr>
-  <td><strong>Objectif</strong></td>
+  <td style="width:25%"><strong>Objectif</strong></td>
   <td>Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple, si la collecte de l’email du visiteur est votre objectif, placez la carte Objectif immédiatement après Capture d’informations dans le flux).</td>
  </tr>
  <tr>
-  <td><strong>Action</strong></td>
+  <td style="width:25%"><strong>Action</strong></td>
   <td>Comme pour les champs masqués d’un formulaire, vous pouvez remplir n’importe quel attribut de piste ou de société avec la carte d’action <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">type de données de chaîne</a>) avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.</td>
  </tr>
  <tr>
-  <td><strong>Chat en direct</strong></td>
+  <td style="width:25%"><strong>Chat en direct</strong></td>
   <td>Utilisez la carte de conversation en direct lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
   <li>La carte de conversation en direct doit être la dernière carte de la branche.</li>
   <li>Les visiteurs sont redirigés vers un agent dès qu’ils atteignent cette carte dans le flux. Il est donc recommandé de précéder cette carte d’une carte de questions demandant aux visiteurs s’ils souhaitent discuter avec un agent en direct.</li></td>
@@ -66,23 +66,23 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>Zoom avant, création de cartes plus grandes</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>Zoom arrière, création de cartes plus petites</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>Ouvre une fenêtre pour que vous puissiez tester votre conversation (appuyez sur le même bouton pour fermer).</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>Permet de rechercher des types de carte ou du contenu dans votre flux.</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>Organise toutes les cartes dans votre flux</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    <table>
     <tr>
-     <td><strong>Type</strong></td>
+     <td style="width:30%"><strong>Type</strong></td>
      <td>Type d’informations que vous souhaitez capturer : téléphone, texte, courrier électronique.</td>
     </tr>
     <tr>
-     <td><strong>Message du chatbot</strong></td>
+     <td style="width:30%"><strong>Message du chatbot</strong></td>
      <td>Le message que le visiteur voit l’invite à fournir les informations.</td>
     </tr>
     <tr>
-     <td><strong>Espace réservé</strong></td>
+     <td style="width:30%"><strong>Espace réservé</strong></td>
      <td>Exemple de texte aidant le visiteur à voir ce qu’il doit entrer.</td>
     </tr>
     <tr>
-     <td><strong>Mapper la réponse à l’attribut</strong></td>
+     <td style="width:30%"><strong>Mapper la réponse à l’attribut</strong></td>
      <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement Personne de votre abonnement Marketo.</td>
     </tr>
    </table>
@@ -209,5 +209,5 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 >[!MORELIKETHIS]
 >
 >* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Critère d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [API Adobe PDF Embed](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [API intégrée Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}

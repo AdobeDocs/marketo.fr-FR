@@ -2,11 +2,11 @@
 description: Analytics - Documents Marketo - Documentation du produit
 title: Analytics
 feature: Dynamic Chat
-exl-id: 8a698f2f-fa1b-4d0f-835c-8d65101c36fb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 8130a970-4cf1-4bf6-9403-998460269843
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -47,3 +47,21 @@ Vérifiez combien de conversations ont eu vos agents de vente en direct et quell
 Afficher les boîtes de dialogue, les flux de conversation, etc. Sélectionnez un paramètre prédéfini ou une période personnalisée. Exportez vos résultats en cliquant sur un bouton.
 
 ![](assets/analytics-7.png)
+
+## Définitions {#definitions}
+
+<table>
+<thead>
+<tbody>
+  <tr>
+    <td><b>Terminé</b></td>
+    <td>Un événement terminé se produit lorsqu’un visiteur atteint la dernière invite d’une conversation. <i>ou</i> lorsqu’un visiteur épuise tout le contenu d’une conversation.
+    <br>Un événement terminé par visiteur, par session.</td>
+  </tr>
+  <tr>
+    <td><b>Personnes acquises</b></td>
+    <td>Se produit lorsqu’un visiteur envoie son adresse électronique.
+    <br>Une acquisition par visiteur, par session.</td>
+  </tr>
+</tbody>
+</table>

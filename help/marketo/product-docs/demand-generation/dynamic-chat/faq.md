@@ -3,9 +3,9 @@ description: FAQ sur le Dynamic Chat - Documents Marketo - Documentation du prod
 title: FAQ sur Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '837'
 ht-degree: 0%
 
 ---
@@ -84,8 +84,15 @@ Un dialogue est une conversation qui s’affiche automatiquement pour les visite
 
 **Existe-t-il un moyen d’utiliser Dynamic Chat pour réserver des réunions directement à partir d’un email ?**
 
-Oui! [Découvrir comment](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Oui. [Découvrez comment](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+
+**Que signifient exactement des termes tels que &quot;Engagé&quot; ou &quot;Personnes achetées&quot; ?**
+
+Plusieurs termes sont utilisés en Dynamic Chat. Les définitions de la plupart d’entre elles sont disponibles dans les articles d’aide de leurs domaines respectifs.
+* Termes d’analyse tels que &quot;Personnes achetées&quot; [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
+* Définitions des déclencheurs/filtres de liste dynamique [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
+* Descriptions des différentes cartes du Concepteur de flux [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
 
 **Puis-je utiliser Dynamic Chat sans Marketo Engage ?**
 
-Non. Bien que Dynamic Chat soit une application distincte de Marketo Engage, les deux sont inextricablement liés.
+Nombre Bien que Dynamic Chat soit une application distincte de Marketo Engage, les deux sont inextricablement liés.
