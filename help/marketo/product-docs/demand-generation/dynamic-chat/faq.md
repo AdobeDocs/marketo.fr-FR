@@ -3,7 +3,7 @@ description: FAQ sur le Dynamic Chat - Documents Marketo - Documentation du prod
 title: FAQ sur Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Oui. [Découvrez comment](https://nation.marketo.com/t5/product-blogs/using-dyna
 **Que signifient exactement des termes tels que &quot;Engagé&quot; ou &quot;Personnes achetées&quot; ?**
 
 Plusieurs termes sont utilisés en Dynamic Chat. Les définitions de la plupart d’entre elles sont disponibles dans les articles d’aide de leurs domaines respectifs.
-* Termes d’analyse tels que &quot;Personnes achetées&quot; [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Définitions des déclencheurs/filtres de liste dynamique [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Descriptions des différentes cartes du Concepteur de flux [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Termes d’analyse tels que &quot;Personnes achetées&quot; [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Définitions des déclencheurs/filtres de liste dynamique [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Descriptions des différentes cartes du Concepteur de flux [peut être consulté ici](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Puis-je utiliser Dynamic Chat sans Marketo Engage ?**
 
