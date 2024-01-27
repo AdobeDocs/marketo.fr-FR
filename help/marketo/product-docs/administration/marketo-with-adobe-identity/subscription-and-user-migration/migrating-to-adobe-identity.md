@@ -5,28 +5,28 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
+source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
 workflow-type: tm+mt
-source-wordcount: '2270'
+source-wordcount: '2249'
 ht-degree: 0%
 
 ---
 
 # Migration vers Adobe Identity {#migrating-to-adobe-identity}
 
-Lorsque Adobe planifie la migration des utilisateurs d’un abonnement, les administrateurs de produit Marketo Engage ont accès à la console de migration, qui se trouve dans le menu de navigation de la zone Admin sous la rubrique Intégration.
+Lorsque Adobe planifie la migration des utilisateurs d’un abonnement, les administrateurs de produit Marketo Engage ont accès à la console de migration, qui se trouve dans le menu de navigation de la zone Admin sous Intégration.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-1.png)
 
 ## Avant migration {#pre-migration}
 
 Avant le début de la migration, un administrateur peut modifier la date de début de la migration de l’utilisateur pour son abonnement en accédant à l’écran de pré-migration dans la console de migration. Pour modifier la date, l’administrateur peut cliquer sur le bouton **Modifier** bouton .
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-2.png)
 
 L’administrateur peut choisir une date comprise entre 8 et 30 jours à l’avenir. Lorsqu’une date est sélectionnée, l’administrateur doit cliquer sur **Enregistrer** pour effectuer la modification.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-3.png)
 
 >[!NOTE]
 >
@@ -40,17 +40,17 @@ Adobe migre automatiquement en premier tous les administrateurs Marketo avec des
 
 **Adresse électronique de l’administrateur du produit Marketo**
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-4.png)
 
 **Marketo Entitlement Email**
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-5.png)
 
 **Si votre abonnement Marketo comporte moins de 75 utilisateurs**, Adobe migre automatiquement le reste de vos utilisateurs. Ce workflow vise à fournir le niveau d’automatisation le plus élevé et aucune action n’est requise pour exécuter la migration. Une fois la migration terminée, la console de migration Marketo n’apparaîtra plus dans la zone de navigation Admin de Marketo et tous les utilisateurs accéderont à Marketo à l’aide d’Adobe ID.
 
 **Si votre abonnement Marketo comporte 75 utilisateurs ou plus**, les administrateurs de produit Marketo auront accès à l’outil de migration des utilisateurs en libre-service de la console de migration au début de la migration des utilisateurs et seront avertis via une bannière lors de leur connexion à la page Mon Marketo. L’administrateur sera chargé d’effectuer la migration des utilisateurs à l’aide de l’outil de migration des utilisateurs en libre-service.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-6.png)
 
 ## Migration des utilisateurs en libre-service de Marketo {#marketo-self-service-user-migration}
 
@@ -63,7 +63,7 @@ L’outil Console de migration des utilisateurs en libre-service de Marketo se c
 
 L’onglet État de migration fournit des mesures générales sur l’état d’avancement des conditions préalables à la vérification des courriers électroniques des utilisateurs, la migration et l’activation des utilisateurs et la fin de la migration des abonnements.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-7.png)
 
 En haut de l’état de migration, l’expiration de la migration des abonnements et le bouton permettant d’étendre l’expiration s’affichent. Vous trouverez plus d’informations sur l’expiration de la migration dans la section [Section Expiration de la migration des utilisateurs](#user-migration-expiration).
 
@@ -99,11 +99,11 @@ Dans la section Confirmation de migration , un administrateur doit confirmer que
 
 Une fois tous les utilisateurs de l’abonnement pris en compte (migrés ou ignorés), le bouton &quot;Terminer la migration&quot; s’affiche.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-8.png)
 
-L’administrateur chargé de la migration doit effectuer la confirmation de migration en cliquant sur le bouton **Migration complète** bouton .
+L’administrateur chargé de la migration doit effectuer la confirmation de migration en cliquant sur le bouton **Migration complète** bouton . Ils seront invités à **Confirmer**.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-9.png)
 
 Une fois la migration des utilisateurs terminée, la console de migration est supprimée du menu de navigation Admin.
 
@@ -111,13 +111,13 @@ Une fois la migration des utilisateurs terminée, la console de migration est su
 
 Adobe exige des clients qu’ils effectuent des migrations en libre-service dans les 30 jours. Les administrateurs ne seront pas empêchés de migrer les utilisateurs ni d’effectuer la migration si la date d’expiration est dépassée. Toutefois, ils ne pourront migrer les utilisateurs que sur demande. Si un administrateur a besoin de plus de temps, il peut prolonger la date d’expiration de l’abonnement.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-10.png)
 
-En cliquant sur le bouton **Extension de l’expiration** , la date sera mise à jour à une semaine plus tard. Un administrateur peut étendre son expiration jusqu’à trois fois.
+Lorsque vous cliquez sur le bouton **Extension de l’expiration** , la date sera mise à jour à une semaine plus tard. Un administrateur peut étendre son expiration jusqu’à trois fois.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-11.png)
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-12.png)
 
 L’Adobe expire si vous ne terminez pas la migration avant la date d’expiration.
 
@@ -133,17 +133,17 @@ Les administrateurs ont la possibilité de :
 * Planification de la migration des utilisateurs pour certains utilisateurs à une date spécifique via le bouton &quot;Planifier la migration&quot;
 * Migration de tous les utilisateurs éligibles à la demande (aucune sélection d’utilisateurs requise) via le bouton &quot;Migrer tous les utilisateurs&quot;
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-13.png)
 
 **Vérifier le courrier électronique**
 
 La vérification des emails est requise pour qu’un utilisateur puisse être migré vers une Adobe ID. Si des utilisateurs n’ont pas vérifié leur adresse électronique et doivent être migrés, l’administrateur peut déclencher l’envoi à nouveau de l’e-mail de vérification. En sélectionnant un utilisateur non vérifié, le bouton &quot;Vérifier l&#39;email&quot; devient cliquable.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-14.png)
 
 Lorsque l’administrateur clique sur le bouton **Vérifier le courrier électronique** , ils recevront une notification indiquant que l’email a été envoyé.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-15.png)
 
 **Ignorer et ignorer la migration des utilisateurs**
 
@@ -155,13 +155,13 @@ Lors de la migration des utilisateurs, tous les utilisateurs doivent être migr�
 
 Pour ignorer un utilisateur, l’administrateur peut sélectionner le ou les utilisateurs souhaités. Le bouton &quot;Ignorer la migration&quot; devient cliquable. Lorsque vous cliquez sur le bouton **Ignorer la migration** , la page s’actualise et l’état de vérification et de migration de l’utilisateur sélectionné est mis à jour sur &quot;Ignoré&quot;.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-16.png)
 
 Un administrateur peut ignorer un utilisateur précédemment ignoré s’il est déterminé que l’utilisateur doit être migré.
 
 Pour ignorer un utilisateur, l’administrateur peut sélectionner l’utilisateur de votre choix. Vous pouvez cliquer sur le bouton &quot;Désélectionner la migration&quot;. Lorsque vous cliquez sur le bouton **Annuler la migration** , la page s’actualise.  L’état de vérification de l’utilisateur sélectionné sera mis à jour vers son état actuel, &quot;vérifié&quot; ou &quot;non vérifié&quot;, et l’état de migration de l’utilisateur sera mis à jour vers &quot;Pas commencé&quot;.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-17.png)
 
 >[!NOTE]
 >
@@ -175,17 +175,17 @@ Par exemple, un administrateur peut sélectionner un groupe d’&quot;utilisateu
 
 Toutes les migrations d’utilisateurs se produisent simultanément et doivent se terminer dans les 60 secondes. Lorsque la migration des utilisateurs se produit pour un utilisateur spécifique, l’utilisateur risque de perdre l’accès pendant une minute au maximum, c’est-à-dire uniquement si l’utilisateur est connecté à l’application. Une fois la migration des utilisateurs terminée, l’utilisateur reçoit un courrier électronique lui indiquant comment se connecter à Marketo Engage avec une identité d’Adobe. L&#39;utilisateur doit accepter l&#39;invitation via le lien du bouton présent dans l&#39;email. Après avoir accepté l’invitation, l’utilisateur doit se connecter avec un Adobe ID. Instructions relatives à la connexion à Marketo Engage avec un Adobe ID [peut être consulté ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-18.png)
 
 Les migrations d’utilisateurs sont traitées indépendamment. Par conséquent, si la migration d’un utilisateur échoue, l’Adobe continue à traiter d’autres migrations d’utilisateurs. Si une migration d’utilisateur échoue, aucune action n’est requise par un administrateur. L’administrateur recevra une notification par e-mail l’informant que l’Adobe s’efforce de résoudre le problème immédiatement. Si la migration d’un utilisateur échoue et qu’il est connecté au Marketo Engage, l’utilisateur risque de perdre l’accès pendant deux minutes au maximum pendant les tentatives de migration. Si la migration d’un utilisateur échoue, l’utilisateur peut continuer à accéder au Marketo Engage avec son identité Marketo jusqu’à ce qu’il reçoive une notification par e-mail lui indiquant que sa migration a réussi, et il est invité à se connecter avec un Adobe ID.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-19.png)
 
 **Migrer maintenant**
 
 Un administrateur peut sélectionner un ou plusieurs utilisateurs à migrer à la demande. Cela déclenche immédiatement la migration des utilisateurs. Pour migrer un ou plusieurs utilisateurs, l&#39;administrateur peut sélectionner le ou les utilisateurs souhaités, et le bouton &quot;Migrer maintenant&quot; devient cliquable.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-20.png)
 
 >[!NOTE]
 >
@@ -193,13 +193,13 @@ CAPTURE D’ÉCRAN
 
 Lorsque vous cliquez sur le bouton **Migrer maintenant** , l’administrateur est invité à confirmer la migration du ou des utilisateurs sélectionnés. Une fois que l’administrateur l’a confirmé, les migrations des utilisateurs commenceront le traitement dès que possible.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-21.png)
 
 **Planification de la migration**
 
 Un administrateur peut sélectionner un ou plusieurs utilisateurs pour planifier la migration à une date ultérieure. Pour planifier la migration d’un ou de plusieurs utilisateurs, l’administrateur sélectionne le ou les utilisateurs souhaités et le bouton &quot;Planifier la migration&quot; devient cliquable.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-22.png)
 
 >[!NOTE]
 >
@@ -207,7 +207,7 @@ CAPTURE D’ÉCRAN
 
 Lorsque vous cliquez sur le bouton **Planification de la migration** , l’administrateur est invité à sélectionner la date de migration de votre choix pour le ou les utilisateurs sélectionnés. L’administrateur ne peut sélectionner que des dates avant la date d’expiration de migration de l’abonnement. Lorsque l’administrateur le confirme, le traitement de la ou des migration des utilisateurs est planifié à la date sélectionnée.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-23.png)
 
 >[!NOTE]
 >
@@ -217,8 +217,8 @@ CAPTURE D’ÉCRAN
 
 A tout moment, un administrateur peut choisir de migrer tous les utilisateurs éligibles dans un abonnement. Cela déclenchera immédiatement la migration des utilisateurs éligibles. Les utilisateurs éligibles sont les utilisateurs disposant d’emails vérifiés qui n’ont pas encore été migrés.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-24.png)
 
-Lorsque vous cliquez sur le bouton **Migrer tous les utilisateurs** , l’administrateur est invité à confirmer la migration de tous les utilisateurs éligibles. Lorsque l’administrateur le confirme, les migrations des utilisateurs commencent le traitement dès que possible.
+Lorsque vous cliquez sur le bouton **Migrer tous les utilisateurs** , l’administrateur est invité à **Confirmer** migration de tous les utilisateurs éligibles. Lorsque l’administrateur le confirme, les migrations des utilisateurs commencent le traitement dès que possible.
 
-CAPTURE D’ÉCRAN
+![](assets/migrating-to-adobe-identity-25.png)
