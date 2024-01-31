@@ -3,9 +3,9 @@ description: Vérification des courriers électroniques - Documents Marketo - Do
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Marketo Engage continue le déploiement de la vérification des courriers élect
 ## Invitation d’utilisateur {#user-invite}
 
 Lorsqu’un administrateur invite un utilisateur, celui-ci est automatiquement vérifié lorsqu’il clique sur le lien d’invitation.
+
+>[!IMPORTANT]
+>
+>L’exception à cette règle est que, dans un abonnement avec authentification unique, les administrateurs recevront une nouvelle invitation d’utilisateur, mais pas les non-administrateurs. Les non-administrateurs doivent passer par le processus de vérification des courriers électroniques pour garantir la migration de leurs enregistrements d’utilisateurs. Un administrateur peut envoyer le lien de vérification d’email en cliquant sur le lien **Renvoyer la vérification des courriers électroniques** en regard de leur nom d’utilisateur.
 
 ## Vérification électronique {#verification-email}
 
