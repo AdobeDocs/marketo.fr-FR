@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Ensuite, trois sections de l’état s’affichent pour l’administrateur.
 * **Migration et activation des utilisateurs**: migration et activation des utilisateurs (migration et droits vers le produit du Marketo Engage) statut des utilisateurs dans l’abonnement.
 * **Confirmation de migration**: état d’achèvement de la migration de l’abonnement.
 
-**Vérification des e-mails de l’utilisateur**
+#### Vérification des e-mails de l’utilisateur {#user-email-verification}
 
 Dans la section Vérification des courriers électroniques utilisateur , un administrateur peut trouver l’état actuel de la vérification des courriers électroniques pour les utilisateurs inclus dans l’abonnement, avant la migration vers Adobe Identity.
 
@@ -87,13 +87,13 @@ L’e-mail de vérification peut être envoyé par un administrateur dans l’on
 >
 >Si un utilisateur Marketo Engage ne vérifie pas son adresse électronique, il ne peut pas être migré vers un Adobe ID et n’aura plus accès à l’abonnement Marketo une fois la migration terminée. Pour récupérer l’accès, un administrateur de produit Marketo doit les ajouter en tant que nouvel utilisateur.
 
-**Migration et activation des utilisateurs**
+#### Migration et activation des utilisateurs {#user-migration-and-activation}
 
 Dans la section Migration et activation des utilisateurs , un administrateur peut trouver l’état actuel de la migration totale des utilisateurs et les droits sur Adobe Identity Management System.
 
 Un administrateur peut afficher le pourcentage d’utilisateurs de son abonnement qui ont été migrés vers une Adobe ID ou marqués comme ignorés. L’état sera reporté à l’état de migration de tous les utilisateurs vers une Adobe ID dans l’abonnement, ou sera marqué comme Ignoré et ne sera pas migré. Lorsque les utilisateurs sont migrés et autorisés à accéder à Marketo Engage, ou ignorés, cet état est mis à jour.
 
-**Confirmation de migration**
+#### Confirmation de migration {#migration-confirmation}
 
 Dans la section Confirmation de migration , un administrateur doit confirmer que la migration des utilisateurs est terminée pour l’abonnement.
 
