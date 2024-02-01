@@ -4,24 +4,28 @@ description: Modification de l’URL de la page d’entrée - Documents Marketo 
 title: Modification de l’URL de la page d’entrée
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Modification de l’URL de la page d’entrée {#change-the-landing-page-url}
 
-Vous pouvez modifier l&#39;URL d&#39;une landing page. Cela peut faciliter la mémoire de l’URL et améliorer le référencement.
+Vous pouvez modifier l’URL d’une landing page. Cela peut faciliter la mise en mémoire et l’optimisation du référencement de l’URL.
 
-1. Sélectionnez votre landing page. Cliquez sur le bouton **Actions de page d’entrée** menu déroulant, faites défiler jusqu’à **Outils d’URL** et sélectionnez **Modifier les paramètres d’URL**.
+1. Recherchez et sélectionnez la Landing Page de votre choix.
 
-   ![](assets/one.png)
+   ![](assets/change-the-landing-page-url-1.png)
+
+1. Cliquez sur le bouton **Actions de page d’entrée** menu déroulant, faites défiler jusqu’à **Outils d’URL** et sélectionnez **Paramètres d’URL**.
+
+   ![](assets/change-the-landing-page-url-2.png)
 
 1. Saisissez le **Nouvelle URL**, choisissez que l’ancienne URL soit ignorée ou redirigée, puis cliquez sur **Enregistrer**.
 
-   ![](assets/two.png)
+   ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
