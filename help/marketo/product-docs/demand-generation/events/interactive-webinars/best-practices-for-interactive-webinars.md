@@ -4,9 +4,9 @@ title: Bonnes pratiques pour les webinaires interactifs
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 
 * Les capsules personnalisées sont des applications tierces qui peuvent être utilisées pour étendre les fonctionnalités d’une salle Adobe Connect. Les capsules personnalisées peuvent être téléchargées à partir de `apps.adobeconnect.com` en tant que fichiers .pod ou .zip pouvant ensuite être partagés dans la capsule de partage.
    * Certaines capsules personnalisées les plus populaires sont Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * Cliquez ici pour une courte vidéo sur l’utilisation des capsules personnalisées.
+   * [Cliquez ici](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} pour regarder une courte vidéo sur l’utilisation de capsules personnalisées.
 
 **Confidentialité : pour que les informations des participants restent confidentielles, vérifiez les paramètres ci-dessous :**
 

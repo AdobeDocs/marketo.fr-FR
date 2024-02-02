@@ -3,9 +3,9 @@ description: Vérification des courriers électroniques - Documents Marketo - Do
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,19 @@ Lorsqu’un administrateur invite un utilisateur, celui-ci est automatiquement v
 
 >[!IMPORTANT]
 >
->L’exception à cette règle est que, dans un abonnement avec authentification unique, les administrateurs recevront une nouvelle invitation d’utilisateur, mais pas les non-administrateurs. Les non-administrateurs doivent passer par le processus de vérification des courriers électroniques pour garantir la migration de leurs enregistrements d’utilisateurs. Un administrateur peut envoyer le lien de vérification d’email en cliquant sur le lien **Renvoyer la vérification des courriers électroniques** en regard de leur nom d’utilisateur.
-
-## Vérification électronique {#verification-email}
-
-Les utilisateurs recevront l’e-mail suivant lorsque la vérification par e-mail est activée pour un abonnement ou si elle est déclenchée par un administrateur/utilisateur :
+>L’exception à cette règle est : _dans un abonnement SSO uniquement_, les administrateurs recevront une nouvelle invitation d’utilisateur, mais pas les utilisateurs non-administrateurs. Les utilisateurs qui ne sont pas administrateurs doivent toujours passer par le processus de vérification des emails pour garantir la migration de leurs enregistrements. Les utilisateurs peuvent envoyer eux-mêmes le lien de vérification d’email en accédant à **Administration** > **Mon compte** > **Paramètres du compte** et clic **Vérification du renvoi**.
 
 ![](assets/email-verification-1.png)
 
->[!NOTE]
+## Vérification électronique {#verification-email}
+
+Les utilisateurs recevront l’e-mail ci-dessous lorsque la vérification de l’e-mail est activée pour un abonnement, ou s’il est déclenché par un administrateur/utilisateur.
+
+Une session d’utilisateur active est requise pour la réussite de la vérification d’email. L’utilisateur doit d’abord se connecter à son abonnement Marketo à l’aide de son URL de fournisseur d’identité (IdP). Une fois une session établie, ils _then_ cliquez sur le bouton **Vérifier l’adresse électronique** dans l’email.
+
+![](assets/email-verification-2.png)
+
+>[!TIP]
 >
 >Pour renvoyer un courrier électronique de vérification à un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **[!UICONTROL Vérifier le courrier électronique]** bouton .
 
@@ -40,15 +44,15 @@ Les utilisateurs recevront l’e-mail suivant lorsque la vérification par e-mai
 
 Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est plus vérifiée. Un email leur sera envoyé pour leur permettre de vérifier à nouveau. Les utilisateurs peuvent renvoyer manuellement cet email en cliquant sur **[!UICONTROL Vérification du renvoi]**.
 
-![](assets/email-verification-2.png)
-
 ![](assets/email-verification-3.png)
+
+![](assets/email-verification-4.png)
 
 ## Utilisateurs et rôles {#users-and-roles}
 
 Dans **[!UICONTROL Administration]** > **[!UICONTROL Utilisateurs et rôles]**, la colonne État de l’email indique l’état de vérification de chaque utilisateur.
 
-![](assets/email-verification-4.png)
+![](assets/email-verification-5.png)
 
 ## Plusieurs ID de connexion utilisateur {#multiple-user-login-ids}
 
@@ -58,7 +62,7 @@ Un seul compte utilisateur peut être associé à une seule adresse électroniqu
 * Utiliser un nouveau courrier électronique pour l’ID de connexion de l’utilisateur actuel
 * Retarder la décision jusqu’à la prochaine connexion
 
-  ![](assets/email-verification-5.png)
+  ![](assets/email-verification-6.png)
 
 >[!NOTE]
 >
