@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '718'
 ht-degree: 7%
 
 ---
@@ -176,6 +176,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
 <br/>
 
 ## Annonces {#announcements}
+
+* **Mise à jour List-Unsubscribe en un clic**: Gmail et Yahoo ont mis en place plusieurs nouvelles exigences d’expéditeur qui sont entrées en vigueur le 1er février 2024. Formation [ce qu&#39;ils sont et comment ils vous affectent](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
 * **Mise à jour de l’API de piste de synchronisation**: la variable [API de piste de synchronisation](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Le comportement de a a été légèrement ajusté en ce qui concerne les mises à jour apportées à la variable `unsubscribed` champ . Maintenant, quand vous passez `null` comme valeur, c’est égal à transmettre une valeur de `false`.
 
