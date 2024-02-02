@@ -1,13 +1,12 @@
 ---
-description: Conception de webinaires interactifs - Documents Marketo - Documentation du produit
-title: Conception de webinaires interactifs
-exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
+description: Bonnes pratiques pour les webinaires interactifs - Documents Marketo - Documentation du produit
+title: Bonnes pratiques pour les webinaires interactifs
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
+source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
 workflow-type: tm+mt
-source-wordcount: '1674'
+source-wordcount: '1648'
 ht-degree: 0%
 
 ---
@@ -69,54 +68,54 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 * Activez le rappel d’enregistrement dans les préférences de salle si vous souhaitez enregistrer la session. Si l’enregistrement n’a pas commencé, le rappel s’affichera 5 minutes dans la réunion.
 
 * Activez la zone Hôte et Paramètre prédéfini et configurez-la avec les capsules appropriées. Cette zone n’est visible que par les hôtes et les présentateurs et peut être utilisée pour collaborer en coulisses. Voici quelques capsules à inclure :
-   * Tableau de bord de l’engagement pour suivre l’engagement des participants en temps réel. [Cliquez ici](https://www.youtube.com/watch?v=gf5fu0JK9Hk) pour une courte vidéo sur l’utilisation du tableau de bord Engagement.
+   * Tableau de bord de l’engagement pour suivre l’engagement des participants en temps réel. [Cliquez ici](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} pour regarder une courte vidéo sur l’utilisation du tableau de bord Engagement.
    * Capsule de conversation pour permettre des conversations privées entre les membres de l’équipe de présentation.
    * Remarque Utilisez la capsule pour publier des messages de rappel, des questions à l’intention du présentateur ou des réponses aux questions standard que vous pouvez copier et coller pour obtenir des réponses rapides aux requêtes courantes.
 
-ARRÊT DE MODIFIER ICI
+* Les capsules personnalisées sont des applications tierces qui peuvent être utilisées pour étendre les fonctionnalités d’une salle Adobe Connect. Les capsules personnalisées peuvent être téléchargées à partir de `apps.adobeconnect.com` en tant que fichiers .pod ou .zip pouvant ensuite être partagés dans la capsule de partage.
+   * Certaines capsules personnalisées les plus populaires sont Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
+   * Cliquez ici pour une courte vidéo sur l’utilisation des capsules personnalisées.
 
-* Les capsules personnalisées sont des applications tierces qui peuvent être utilisées pour étendre les fonctionnalités d’une salle Adobe Connect. Les capsules personnalisées peuvent être téléchargées à partir de apps.adobeconnect.com sous forme de fichiers .pod ou .zip qui peuvent ensuite être partagés dans la capsule de partage.
+**Confidentialité : pour que les informations des participants restent confidentielles, vérifiez les paramètres ci-dessous :**
 
-Certaines capsules personnalisées populaires sont : Minuteur de compte à rebours, Horloge, ciseaux de papier rocheux, Nuage de mots, Titler. Cliquez ici pour une courte vidéo sur l’utilisation des capsules personnalisées.
+* **Sélecteur d’activité**: le ticket d’activité affiche des informations sur la personne qui parle en ce moment et des alertes lorsque les participants rejoignent/quittent la salle. Vous pouvez supprimer le marqueur d’activité en décochant &quot;Afficher le marqueur d’activité&quot; sous la section &quot;Barre de menus&quot; dans les préférences de salle.
 
-* Confidentialité : pour que les informations des participants restent confidentielles, vérifiez les paramètres ci-dessous :
+* **Capsule Q&amp;R**: le nom du participant qui a soumis la question et le nom de l’hôte/du présentateur qui a répondu peuvent être masqués. Pour ce faire, désélectionnez les options de confidentialité dans la section &quot;Capsule Q&amp;R&quot; des préférences de salle.
 
-o Ticker d’activité : le Ticker d’activité affiche des informations sur la personne qui parle en ce moment et des alertes sur les participants qui rejoignent/quittent la salle. Le télex d’activité peut être supprimé en décochant &quot;Afficher le télex d’activité&quot; sous la section &quot;Barre de menus&quot; dans les préférences de salle.
+* **Panneau de conversation**: le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les tchats apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu de la capsule. [Cliquez ici](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
 
-o Module Q &amp; A : le nom du participant qui a soumis la question et le nom de l’hôte/du présentateur qui a répondu peuvent être masqués. Pour ce faire, désélectionnez les options de confidentialité dans la section &quot;Capsule Q&amp;R&quot; des préférences de salle.
+* **Chat privé**: désactivez la conversation privée pour empêcher les participants de participer à la ping d’un autre participant. Pour ce faire, décochez &quot;Autoriser les participants à discuter en privé&quot; dans la section &quot;Chat&quot; des préférences de salle.
 
-Panneau de conversation : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les tchats apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu de la capsule. Cliquez ici pour en savoir plus sur l’utilisation du panneau de conversation.
+* **Capsule de participant**: déplacez la capsule de participants vers la zone Hôte et Paramètre prédéfini .
 
-o Conversation privée : désactivez la discussion privée pour empêcher les participants d’envoyer un ping à un autre participant. Pour ce faire, décochez la case &quot;Autoriser les participants à discuter en privé&quot; dans la section &quot;Chat&quot; des Préférences de salle.
+## Livraison {#delivery}
 
-o Capsule de participants : déplacez la capsule de participants vers la zone Hôte et Paramètre prédéfini.
+* Effectuez quelques exécutions préliminaires pour tester votre configuration audio/vidéo et pour vous familiariser avec Adobe Connect si vous ne l’avez pas déjà utilisé. N’oubliez pas d’inclure également vos présentateurs et co-hôtes lors de la répétition.
 
-B. Diffusion
+* Demandez aux hôtes et aux présentateurs d’arriver au moins 30 minutes avant l’heure de début et de s’assurer que tout fonctionne correctement.
+   * Déterminez qui modérera les capsules Q&amp;R et Chat.
+   * Renseignez les capsules Q&amp;R et Chat avec toutes les questions/conversations sources.
 
-* Effectuez quelques exécutions sèches pour tester votre configuration audio-vidéo et pour vous familiariser avec Adobe Connect si vous ne l’avez jamais utilisée auparavant. N’oubliez pas d’inclure également vos présentateurs et co-hôtes lors de la répétition.
+* Affichez les programmes que vous partagez à l’écran dans la fenêtre appropriée et soyez prêt à les démontrer. Évitez de vous lancer et de vous connecter aux programmes lors du partage d’écran.
 
-* Demandez aux hôtes et aux présentateurs d&#39;arriver au moins 30 minutes avant l&#39;heure de début et de s&#39;assurer que tout fonctionne correctement et que toute coordination finale est assurée.
+* Les participants peuvent entrer dans la pièce 15 min avant le début prévu. Basculez vers la disposition du hall 15 minutes avant le début prévu pour les participants qui arrivent tôt.
 
-Déterminez qui modérera les capsules Q &amp; R et Chat.
+* Utilisez la zone d’accueil et de présentation comme zone d’arrière-plan pour une coordination privée. [Cliquez ici](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} pour regarder une courte vidéo sur la zone Hôte et Paramètre prédéfini.
 
-Pour remplir les capsules Q &amp; R et Chat avec toutes les questions/conversations sources.
+* Utilisez le mode de préparation pour effectuer des modifications de dernière minute en privé. [Cliquez ici](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} pour regarder une courte vidéo en mode de préparation.
 
-* Affichez les programmes que vous partagez à l’écran dans la fenêtre appropriée et que vous êtes prêt à présenter. Évitez de lancer et de vous connecter aux programmes lors du partage d’écran.
+* Utilisez le tableau de bord Engagement pour conserver un onglet relatif aux niveaux d’intérêt des participants. Sautez à un sondage, posez une question d’accord ou de désaccord, envoyez une question dans la capsule ou utilisez la capsule personnalisée Nuage de mots pour obtenir les réponses des participants et augmenter les niveaux d’engagement.
 
-* Les participants peuvent entrer dans la pièce 15 min avant le début prévu. Basculez vers la disposition du hall 15 minutes avant le début prévu pour les participants qui arrivent tôt. ・ Utiliser la zone d’accueil et de présentation comme zone d’arrière-scène pour la coordination privée. Cliquez ici pour une courte vidéo sur la zone Hôte et Présentateur. ・ Utilisez le mode de préparation pour effectuer des modifications de dernière minute de manière privée. Cliquez ici pour une courte vidéo sur le mode de préparation.
+* Conservez un onglet sur la conversation du présentateur (capsule dans la zone Hôte et Présentateur) pour une coordination continue avec votre équipe.
 
-* Utilisez le tableau de bord Engagement pour conserver un onglet relatif aux niveaux d’intérêt des participants. Sautez à un sondage, posez une question d’accord/désaccord, envoyez une question dans la capsule ou utilisez la capsule personnalisée Nuage de mots pour obtenir les réponses des participants et augmenter les niveaux d’engagement.
+## Post-diffusion {#post-delivery}
 
-* Conservez un onglet sur la conversation du présentateur (capsule dans la zone Hôte et Présentateur) pour vous coordonner continuellement avec votre équipe.
+* Une fois le webinaire livré, les données d’engagement ainsi que l’enregistrement seront disponibles en Marketo Engage en général dans les 1 à 2 heures. Validez l’enregistrement et vérifiez que la sortie vidéo complète du webinaire a été capturée de manière appropriée afin que la même chose puisse être utilisée pour le partage avec l’audience et le suivi des données du webinaire à la demande.
 
-C. Diffusion Post - Nilesh
-
-* Une fois le webinaire livré, les données d’engagement ainsi que l’enregistrement seront disponibles dans Marketo en général dans un délai de 1 à 2 heures. Validez l’enregistrement et vérifiez si la sortie vidéo complète du webinaire a été capturée de manière appropriée afin que la même chose puisse être utilisée pour le partage avec l’audience et le suivi des données du webinaire à la demande.
-
-* Créez des campagnes de sensibilisation afin de qualifier davantage les pistes des participants en fonction de leur engagement à l’aide des filtres et des déclencheurs des webinaires interactifs. Demandez aux campagnes de remerciement de vous avoir manqué de fournir plus d’informations sur l’événement, d’enregistrer le lien, de statistiques sur les événements et d’autres événements futurs afin d’inciter les &quot;No-Shows&quot; à se connecter à l’organisation. Les activités pour les affichages non visibles qui visitent l’enregistrement peuvent être suivies dans le cadre de webinaires à la demande et d’autres campagnes d’encouragement peuvent être créées pour les affichages non visibles par le biais de filtres et de déclencheurs de webinaires à la demande.
+* Créez des campagnes de soutien pour mieux qualifier les pistes du participant en fonction de leur engagement à l’aide des filtres/déclencheurs des webinaires interactifs. Demandez aux campagnes de remerciement/de disparus de fournir plus d’informations sur l’événement, le lien d’enregistrement, les statistiques d’événement et les futurs événements afin d’inciter les &quot;no-Shows&quot; à se connecter à l’organisation. Les activités pour les affichages non visibles qui visitent l’enregistrement peuvent être suivies dans le cadre de webinaires à la demande et d’autres campagnes de formation peuvent être créées pour les affichages non visibles par le biais de filtres/déclencheurs de webinaires à la demande.
 
 * Utilisez les données du journal d’activité de chaque membre dans l’onglet Membres pour examiner les activités d’engagement effectuées par différents participants au cours du webinaire.
 
-* Téléchargez l&#39;enregistrement et publiez-le sur différentes landing pages, microsites ou portails pour une plus large audience.
+* Téléchargez l’enregistrement et publiez-le sur différentes landing pages, microsites ou portails pour une plus large audience.
 
-* Utilisez le tableau de bord pour obtenir une vue globale des performances du webinaire en termes d’état du programme, de répartition des participants, de réponses aux sondages, de téléchargements de fichiers et de clics sur les liens. Identifiez les domaines positifs et d’amélioration au cours du webinaire et assurez-vous que les leçons peuvent être utilisées dans le prochain webinaire.
+* Utilisez le tableau de bord pour obtenir une vue globale des performances du webinaire en termes d’état du programme, de distribution des participants, de réponses aux sondages, de téléchargements de fichiers et de clics sur les liens. Identifiez les domaines positifs et d’amélioration au cours du webinaire et assurez-vous que les leçons peuvent être utilisées dans le prochain webinaire.
