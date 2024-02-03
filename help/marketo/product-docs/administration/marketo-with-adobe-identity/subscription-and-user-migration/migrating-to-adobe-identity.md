@@ -3,9 +3,9 @@ description: Migration vers Adobe Identity - Documents Marketo - Documentation d
 title: Migration vers Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 1663f2e5fab9c5d5157d0e50d20fe527bd57d31a
+source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
 workflow-type: tm+mt
-source-wordcount: '2253'
+source-wordcount: '2230'
 ht-degree: 0%
 
 ---
@@ -167,7 +167,7 @@ Pour ignorer un utilisateur, l’administrateur peut sélectionner l’utilisate
 
 ### Migration d’utilisateurs Marketo vers des ID d’Adobe {#migrating-marketo-users-to-adobe-ids}
 
-Pour ceux qui souhaitent un meilleur contrôle lors du processus de migration des utilisateurs, Marketo prend en charge une approche en libre-service pour les abonnements avec 75 utilisateurs ou plus. Les administrateurs de produit Marketo pourront sélectionner les utilisateurs à migrer par lots, ou tous les utilisateurs éligibles en même temps. Une fois les utilisateurs sélectionnés, les administrateurs ont la possibilité de &quot;Migrer maintenant&quot; ou &quot;Planifier la migration&quot; à une date ultérieure, ce qui offre aux administrateurs une certaine flexibilité et un contrôle sur les utilisateurs migrés et sur le moment où ils le sont. L’option &quot;Migrer tous les utilisateurs&quot; s’affiche également pour les administrateurs dans un abonnement.
+Les administrateurs de produit Marketo pourront sélectionner les utilisateurs à migrer par lots, ou tous les utilisateurs éligibles en même temps. Une fois les utilisateurs sélectionnés, les administrateurs ont la possibilité de &quot;Migrer maintenant&quot; ou &quot;Planifier la migration&quot; à une date ultérieure, ce qui offre aux administrateurs une certaine flexibilité et un contrôle sur les utilisateurs migrés et sur le moment où ils le sont. L’option &quot;Migrer tous les utilisateurs&quot; s’affiche également pour les administrateurs dans un abonnement.
 
 Par exemple, un administrateur peut sélectionner un groupe d’&quot;utilisateurs experts&quot; qu’il souhaite migrer en premier. Une fois ces migrations d’utilisateurs terminées, ils peuvent sélectionner différents groupes d’utilisateurs en fonction de variables telles que workspace/business ou function/role pour effectuer d’autres migrations d’utilisateurs par lots. Ils peuvent également décider de migrer le reste des utilisateurs dans les abonnements après le succès du premier lot. L’objectif est de fournir la plus grande flexibilité possible pour déployer des identifiants d’Adobe vers les utilisateurs.
 
