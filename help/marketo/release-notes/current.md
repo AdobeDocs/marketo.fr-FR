@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 7%
 
 ---
@@ -28,7 +28,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:65%">Fonctionnalité</th> 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>Webinaires à la demande pour les webinaires interactifs</strong>: les webinaires à la demande vous permettent de publier l’enregistrement du webinaire et de suivre ses visites/montres. Vous obtiendrez ainsi plus de pistes grâce à des inscrits qui n’ont pas assisté au webinaire (pas d’affichage) mais qui sont toujours intéressés par la recherche de plus amples détails et l’affichage de l’enregistrement.</td> 
@@ -40,8 +39,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>Pages d’entrée de conversation</strong>: Incorporez un flux de conversation de Dynamic Chat directement dans une page d’entrée de Marketo Engage afin que les visiteurs puissent planifier une réunion par l’intermédiaire d’un Dynamic Chat sans avoir à remplir un formulaire ou interagir avec un chatterbot.</td> 
    <td><i>Disponible bientôt</i></td>
@@ -52,8 +49,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>Filtrage de l’activité des robots de messagerie</strong>: améliore la capture de l’activité de robot pour l’engagement email en vous permettant de choisir l’agressivité du filtrage de l’identification de l’activité de robot.</td> 
    <td>Expédié</td>
@@ -63,11 +58,29 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>Mise à jour de l’API d’importation de pistes en bloc</strong>: un léger ajustement a été apporté au comportement de l’API Bulk Lead Import lors de la <b>id</b> est spécifié comme <b>lookupField</b> lors de la création de la tâche. Si un enregistrement de personne est lié au <b>id</b> est introuvable dans la base de données du Marketo Engage, aucune mise à jour d’enregistrement ne se produit, car l’enregistrement est introuvable. Le comportement mis à jour inclut désormais l’augmentation du nombre dans la variable <b>numOfRowsFailed</b> dans la réponse, indiquant que l’opération a échoué dans de tels cas.</td> 
+   <td>Expédié</td>
+   <td>s/o</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>Co-hôtes pour les webinaires interactifs</strong>: les co-hôtes de la section Équipe de webinaires des webinaires interactifs permettent au créateur d’événements d’ajouter des utilisateurs internes ou externes au programme de webinaires interactifs afin de partager les responsabilités d’administration et de livraison.</td> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Ajout d’une équipe de webinaires</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Suppression d’un utilisateur dans les webinaires interactifs</strong>: un administrateur de Marketo Engage peut désormais supprimer un ou plusieurs utilisateurs spécifiques dans les webinaires interactifs.</td> 
    <td>Expédié</td>
    <td>s/o</td>
   </tr>
