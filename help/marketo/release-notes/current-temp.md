@@ -4,9 +4,9 @@ title: Notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 11%
 
 ---
@@ -41,7 +41,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Métadonnées d’activité de l’API</strong>: des métadonnées telles que l’agent utilisateur, la plateforme, le navigateur et l’appareil sont désormais incluses dans <i>all</i> activités basées sur un navigateur, ce qui permet d’obtenir des informations cohérentes sur les activités basées sur un navigateur via l’API REST Marketo.</td> 
+   <td><strong>Métadonnées d’activité de l’API</strong>: des métadonnées telles que l’agent utilisateur, la plateforme et l’appareil sont désormais incluses dans les activités web et de courrier électronique, ce qui permet d’obtenir des informations homogènes sur ces activités via l’API REST Marketo.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
