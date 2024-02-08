@@ -4,20 +4,26 @@ title: Ajout d’une équipe de webinaires
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 77300e8d620887b5c1d14a4f979a96488b6eec87
+source-git-commit: 0d09fb0bec3b8fb392e503db13c9ab5b265424a5
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 # Ajout d’une équipe de webinaires {#add-a-webinar-team}
 
+Dans les webinaires interactifs, une équipe de webinaires se compose de tous les rôles qui contribuent à la diffusion réussie du webinaire dans Adobe Connect. Cela inclut les présentateurs et les co-hôtes.
+
 >[!PREREQUISITES]
 >
 >[Création d’un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
 
-Après avoir créé votre webinaire interactif, vous avez la possibilité d’ajouter un co-hôte ou un présentateur.
+Le présentateur est un rôle externe qui participe à la diffusion de l’expérience du webinaire, tandis que les co-hôtes peuvent agir en tant que présentateur et gérer les aspects administratifs de la diffusion du webinaire. Les co-hôtes peuvent être internes et externes. Les co-hôtes externes n’auront pas accès aux programmes d’événement de webinaire interactif dans Marketo, mais ils disposent des autorisations de co-hébergement lors de la diffusion dans Adobe Connect. Les co-hôtes internes auront accès au programme d’événement de webinaire interactif dans Marketo, ainsi qu’aux autorisations de co-hébergement lors de la diffusion. Cela permet de s’assurer que les co-hôtes internes peuvent prendre les rênes du programme d’événement de webinaire interactif lorsque le créateur d’origine du programme de webinaire interactif ne fait plus partie du jeu d’utilisateurs des webinaires interactifs ou n’est même plus un utilisateur Marketo.
+
+>[!NOTE]
+>
+>Les présentateurs et les co-hôtes dans Marketo correspondent exactement aux rôles du présentateur et du co-hôte lors de la diffusion du webinaire dans Adobe Connect.
 
 ## Ajout d’un co-hôte {#add-a-co-host}
 
