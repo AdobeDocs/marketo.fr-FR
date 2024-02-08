@@ -4,9 +4,9 @@ title: Notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 11%
 
 ---
@@ -30,6 +30,27 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
   </tr>
+  <tr> 
+   <td><strong>Logique avancée du flux de conversation</strong>: ajoutez des champs supplémentaires à évaluer dans un seul choix pour le suivi du flux de conversation.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Réorganiser la logique de flux de conversation</strong>: dans Marketo Engage Forms, vous pouvez désormais réorganiser les choix de flux de conversation, au lieu d’avoir à les supprimer et à les ajouter à nouveau.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>Modèles personnalisés dans les webinaires interactifs</strong>: vous pouvez désormais créer des modèles personnalisés pour les dispositions d’espace dans les webinaires interactifs.</td> 
    <td><i>Disponible bientôt</i></td>
@@ -49,42 +70,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 </table>
 <br/>
 
-## Fonctionnalités de version agile {#agile-release-features}
-
-Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonction en regard de celle-ci.
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">Fonctionnalité</th> 
-   <th style="width:15%">Statut</th>
-   <th style="width:20%">Documentation</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>Logique avancée du flux de conversation</strong>: ajoutez des champs supplémentaires à évaluer dans un seul choix pour le suivi du flux de conversation.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Réorganiser la logique de flux de conversation</strong>: vous pouvez désormais réorganiser la logique dans laquelle la logique conditionnelle des flux de conversation est configurée, au lieu d’avoir à supprimer et lire.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## Annonces {#announcements}
 
-* **Abandon du module du navigateur Insight de compte**: l’Adobe supprime la variable [Module externe de navigateur Insight de compte](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) de Chrome Web Store le 18 mars 2024. Utilisateurs existants : vous pouvez continuer à utiliser le plug-in jusqu’à ce que vous migriez votre instance de Marketo Engage vers Adobe Identity et Admin Console.
-
-{target="_blank"}
+* **Abandon du module du navigateur Insight de compte**: Adobe supprime la gestion de compte Target [Module externe de navigateur Insight de compte](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} de Chrome Web Store le 18 mars 2024. Utilisateurs existants : vous pouvez continuer à utiliser le plug-in jusqu’à ce que vous migriez votre instance de Marketo Engage vers Adobe Identity et Admin Console.
