@@ -3,9 +3,9 @@ description: Conception de webinaires interactifs - Documents Marketo - Document
 title: Conception de webinaires interactifs
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 1. L’aperçu de votre webinaire s’affiche.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >Par défaut, le nom de la pièce indiqué dans le champ &quot;Nom de la salle du webinaire interactif&quot; est identique à celui de votre programme d’événement de webinaire interactif. Vous avez la possibilité de la modifier pour refléter le titre du webinaire lui-même, car ce nom est visible pour votre audience.
 
    >[!TIP]
    >
