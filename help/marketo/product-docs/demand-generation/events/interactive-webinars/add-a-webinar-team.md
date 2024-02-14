@@ -1,10 +1,8 @@
 ---
 description: Ajout d’une équipe de webinaires - Documents Marketo - Documentation du produit
 title: Ajout d’une équipe de webinaires
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -17,9 +15,9 @@ Dans les webinaires interactifs, une équipe de webinaires se compose de tous le
 
 >[!NOTE]
 >
->Les présentateurs et les co-hôtes dans Marketo correspondent exactement aux rôles du présentateur et du co-hôte lors de la diffusion du webinaire dans Adobe Connect.
+>Les présentateurs et les co-hôtes dans Marketo correspondent exactement aux rôles du présentateur et de l’hôte lors de la diffusion du webinaire dans Adobe Connect.
 
-Le présentateur est un rôle externe qui participe à la diffusion de l’expérience du webinaire, tandis que les co-hôtes peuvent agir en tant que présentateur et gérer les aspects administratifs de la diffusion du webinaire. Les co-hôtes peuvent être internes et externes. Les co-hôtes externes n’auront pas accès aux programmes d’événement de webinaire interactif dans Marketo, mais ils disposent des autorisations de co-hébergement lors de la diffusion dans Adobe Connect. Les co-hôtes internes auront accès au programme d’événement de webinaire interactif dans Marketo, ainsi qu’aux autorisations de co-hébergement lors de la diffusion. Cela permet de s’assurer que les co-hôtes internes peuvent prendre les rênes du programme d’événement de webinaire interactif lorsque le créateur d’origine du programme de webinaire interactif ne fait plus partie du jeu d’utilisateurs des webinaires interactifs ou n’est même plus un utilisateur Marketo.
+Le présentateur est un rôle externe qui participe à la diffusion de l’expérience du webinaire, tandis que les co-hôtes peuvent agir en tant que présentateur et gérer les aspects administratifs de la diffusion du webinaire. Les co-hôtes peuvent être internes et externes. Les co-hôtes externes n’auront pas accès aux programmes d’événement de webinaire interactif dans Marketo, mais disposent des autorisations d’hébergement lors de la diffusion dans Adobe Connect. Les co-hôtes internes auront accès au programme d’événement de webinaire interactif dans Marketo, ainsi qu’aux autorisations d’hébergement lors de la diffusion. Cela permet de s’assurer que les co-hôtes internes peuvent prendre les rênes du programme d’événement de webinaire interactif lorsque le créateur d’origine du programme de webinaire interactif ne fait plus partie du jeu d’utilisateurs des webinaires interactifs ou n’est même plus un utilisateur Marketo.
 
 >[!PREREQUISITES]
 >
