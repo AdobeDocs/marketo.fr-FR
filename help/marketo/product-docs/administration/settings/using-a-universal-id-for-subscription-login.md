@@ -4,9 +4,9 @@ description: Utilisation d’un ID universel pour la connexion à l’abonnement
 title: Utilisation d’un ID universel pour la connexion à l’abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ Lorsque vous vous déconnectez puis vous reconnectez, Marketo vous connecte auto
 ## Profils de communauté {#community-profiles}
 
 Si vous disposez de plusieurs abonnements, vous pouvez disposer de plusieurs profils de communauté. Nous vous recommandons de choisir la connexion qui est liée à votre profil de communauté le plus actif.
-
-## Plateforme mobile {#mobile-platform}
-
-Les utilisateurs disposant d’un ID universel peuvent afficher leurs données sur [Moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} de l’abonnement auquel ils se sont connectés pour la dernière fois. Vous ne pouvez pas modifier les abonnements à partir de la plateforme mobile elle-même.
 
 >[!MORELIKETHIS]
 >
