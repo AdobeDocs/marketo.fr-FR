@@ -3,9 +3,9 @@ description: Présentation de la messagerie instantanée - Documents Marketo - D
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
+source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleu
 
 ### Informations à noter {#things-to-note}
 
-* Les agents disposent de 45 secondes pour répondre avant que le message &quot;Chat Accept&quot; n’expire. Ensuite, les visiteurs recevront la variable [message de secours](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Pour les abonnés Dynamic Prime dont l’option de routage est définie sur **Équipe**, un autre agent sera tenté avant l’affichage du message de secours.
+* Les agents disposent de 45 secondes pour répondre avant que le message &quot;Chat Accept&quot; n’expire. Ensuite, les visiteurs recevront la variable [message de secours](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Pour les abonnés Dynamic Chat Prime dont l’option de routage est définie sur **Équipe**, un autre agent sera tenté avant l’affichage du message de secours.
 * Il existe actuellement une limite de 10 conversations en direct par agent.
 
 >[!MORELIKETHIS]
