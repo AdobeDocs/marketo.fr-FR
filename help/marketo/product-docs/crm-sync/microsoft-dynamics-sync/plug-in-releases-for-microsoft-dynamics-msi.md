@@ -4,10 +4,10 @@ description: Versions de module externe pour Microsoft Dynamics MSI - Documents 
 title: Versions de module externe pour Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 8%
+source-wordcount: '400'
+ht-degree: 0%
 
 ---
 
@@ -52,66 +52,83 @@ Et c&#39;est tout ! Après la mise à niveau, une seule solution MSI s’affiche
 ## Mises à jour de version {#version-updates}
 
 <table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Date de publication</th> 
-   <th colspan="1">Version</th> 
-   <th colspan="1">Notes</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">02/03/22</td> 
-   <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">Disposition du compte pour les statistiques : moments intéressants, changements de score, activités web, activités de courrier électronique.</td> 
+   <th>Date de publication</th> 
+   <th>Version</th> 
+   <th>Notes</th> 
   </tr>
   <tr> 
-   <td colspan="1">01/05/22</td> 
-   <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">Score d’adoption du programme pour envoyer un courrier électronique</td> 
+   <td>02/14/24</td> 
+   <td>2.00.31</td> 
+   <td>Modifications apportées à la pagination sur l’activité Web anonyme.
+   <p>
+   Chiffrer les informations sur la clé secrète à partir de la vue utilisateur. Le mot de passe doit être modifié après l’importation du nouveau package pour que le chiffrement se produise.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/28/21</td> 
-   <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">Mesures de score d’adoption du produit, nouveau tableau de bord global (activité web, courrier électronique, meilleurs paris)</td> 
+   <td>10/18/23</td> 
+   <td>2.00.30</td> 
+   <td>Consolidation du journal des erreurs MSI et suppression des notifications Info de l’affichage sur l’entité d’erreur Marketo.</td> 
   </tr>
   <tr> 
-   <td colspan="1">02/10/21</td> 
-   <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">Suppression de l’audit automatique activé et modifications de la documentation sur la solution MSI</td> 
+   <td>05/19/23</td> 
+   <td>2.00.29</td> 
+   <td>Correction des problèmes de pagination des activités web et des moments intéressants sur le tableau de bord global.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/01/20</td> 
-   <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">Bug Fix : attribution de l’accès aux champs de configuration de l’API MSI aux utilisateurs qui détiennent le rôle Sales Insight</td> 
+   <td>03/23/23</td> 
+   <td>2.00.28</td> 
+   <td>Création d’une <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">nouveau package</a> pour les MSI pour les connexions non natives au CRM.</td> 
+  </tr>
+  <tr> 
+   <td>02/03/22</td> 
+   <td>2.0.0.27</td> 
+   <td>Disposition du compte pour les statistiques : moments intéressants, changements de score, activités web, activités de messagerie.</td> 
+  </tr>
+  <tr> 
+   <td>01/05/22</td> 
+   <td>2.0.0.26</td> 
+   <td>Score d’adoption du programme pour l’envoi d’un courrier électronique.</td> 
+  </tr>
+  <tr> 
+   <td>10/28/21</td> 
+   <td>2.0.0.25</td> 
+   <td>Mesures de score d’adoption du produit, nouveau tableau de bord global (activité web, courrier électronique, meilleurs paris).</td> 
+  </tr>
+  <tr> 
+   <td>02/10/21</td> 
+   <td>2.0.0.22</td> 
+   <td>Supprimez l’audit automatique activé et les modifications apportées à la documentation sur la solution MSI.</td> 
+  </tr>
+  <tr> 
+   <td>10/01/20</td> 
+   <td>2.0.0.21</td> 
+   <td>Bug Fix : attribution de l’accès aux champs de configuration de l’API MSI aux utilisateurs qui détiennent le rôle Sales Insight.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
-   <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Correction de bogue : ajout d’un message de validation pour les enregistrements non synchronisés</td> 
+   <td>07/20/20</td> 
+   <td>2.0.0.20</td> 
+   <td>Correction de bogue : ajoutez un message de validation pour les enregistrements non synchronisés.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
-   <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Correction de bogue : pour masquer le mot de passe secret MSI sur la configuration de l’API MSD</td> 
+   <td>06/12/20</td> 
+   <td>2.0.0.19</td> 
+   <td>Correction de bogue : pour masquer le mot de passe secret MSI sur la configuration de l’API MSD.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
-   <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Bug Fix : pour modifier la validation de l’ID de rôle MSI pour l’affichage des boutons MSI</td> 
+   <td>05/26/20</td> 
+   <td>2.0.0.18</td> 
+   <td>Correction de bogue : pour modifier la validation de l’ID de rôle MSI pour l’affichage des boutons MSI.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
-   <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">Bug Fix : affichez le champ propriétaire et rendez les champs non obligatoires</td> 
+   <td>05/21/20</td> 
+   <td>2.0.0.17</td> 
+   <td>Bug Fix : affichez le champ propriétaire et rendez les champs non obligatoires.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
-   <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Bug Fix : suppression de la dépendance de lien du paramètre de plan de site MSD CRM</td> 
+   <td>04/28/20</td> 
+   <td>2.0.0.16</td> 
+   <td>Bug Fix : suppression de la dépendance de lien du paramètre de plan de site MSD CRM.</td> 
   </tr> 
  </tbody> 
 </table>
