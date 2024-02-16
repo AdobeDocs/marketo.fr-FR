@@ -4,9 +4,9 @@ description: Ajout de vidéos en tant que service LaunchPoint - Documents Market
 title: Ajout de vidéos en tant que service LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ Vous pouvez envoyer des SMS aux personnes ayant accepté de participer à vos ca
 >
 >**Autorisations d’administrateur requises**
 
->[!PREREQUISITES]
+>[!AVAILABILITY]
 >
->Vous devez disposer d’un compte Vibes actif et d’une licence d’Adobe pour Vibes SMS.
+>Vous devez disposer d’un compte Vibes actif et d’une licence d’Adobe pour Vibes SMS. Marketo Vibes L’intégration native SMS est disponible aux États-Unis et au Canada. Pour les autres pays, une connexion via les webhooks Marketo peut être utilisée par [contact direct de vidéos](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. Dans Mon Marketo, accédez au **[!UICONTROL Administration]** zone.
 
@@ -49,4 +49,4 @@ Vous pouvez envoyer des SMS aux personnes ayant accepté de participer à vos ca
 
 >[!MORELIKETHIS]
 >
->[Vibes video demo](https://vimeo.com/215233767/1ed136adbc)
+>[Vibes video demo](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
