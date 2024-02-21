@@ -4,10 +4,10 @@ description: Configuration de Marketo Sales Insight dans Salesforce Professional
 title: Configuration de Marketo Sales Insight dans Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
 workflow-type: tm+mt
-source-wordcount: '962'
-ht-degree: 4%
+source-wordcount: '850'
+ht-degree: 5%
 
 ---
 
@@ -28,7 +28,8 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 ## Configuration de Sales Insight dans Marketo {#configure-sales-insight-in-marketo}
 
 1. Ouvrez une nouvelle fenêtre de navigateur pour obtenir les informations d’identification Marketo Sales Insight de votre compte Marketo.
-1. Dans la zone Admin, sélectionnez **Statistiques des ventes**.
+
+1. Accédez au **Administration** zone et sélectionnez **Statistiques des ventes**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -48,7 +49,7 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. Une fenêtre contextuelle de confirmation s’affiche. Cliquez sur **OK**.
+1. Vous verrez une fenêtre contextuelle de confirmation. Cliquez sur **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
@@ -75,52 +76,6 @@ Voici les étapes à suivre pour configurer Marketo Sales Insight dans Salesforc
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
 1. Saisissez le nom du site distant (il peut s’agir de &quot;MarketoRestAPI&quot;). Saisissez l’URL du site distant, qui correspond à l’URL de votre API dans le panneau Configuration de l’API REST de Marketo. Cliquez sur **Enregistrer**. Vous avez maintenant créé des paramètres de site distant pour l’API REST.
-
-## Configuration de Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Connectez-vous à votre instance Marketo et cliquez sur **Administration**.
-
-   ![](assets/login-admin-1.png)
-
-1. Cliquez sur **Statistiques des ventes**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. Cliquez sur **Modifier la configuration de l’API**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. Saisissez un **Clé secrète API** et cliquez sur **Enregistrer**.
-
-   >[!CAUTION]
-   >
-   >N’utilisez pas d’esperluette (&amp;) dans votre clé secrète API.
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >Gardez cette fenêtre ouverte. Vous aurez besoin de ces informations plus tard dans Salesforce.
-
-1. Revenez à Salesforce, puis cliquez sur **Configuration**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. Recherchez &quot;site distant&quot; et cliquez sur **Paramètre du site distant** under **Contrôles de sécurité**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Cliquez sur **Nouveau site distant**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Entrée **Nom du site distant** et **URL du site distant**, puis cliquez sur **Enregistrer**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >Vous choisissez votre **Nom du site distant** (MarketoAPI est utilisé ici). La variable **URL du site distant** Vous trouverez des informations dans le champ Hôte Marketo de la boîte de dialogue Modifier la configuration de l’API de l’étape 4.
 
 ## Accorder l’accès au profil des utilisateurs de Sales Insight aux objets Salesforce standard {#grant-sales-insight-users-profile-access}
 

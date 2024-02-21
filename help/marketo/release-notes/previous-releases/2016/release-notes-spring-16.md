@@ -4,20 +4,20 @@ description: Notes de mise à jour - Printemps 2016 - Documents Marketo - Docume
 title: Notes de mise à jour - Printemps 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
 
-# Notes de mise à jour : Printemps 16 {#release-notes-spring}
+# Notes de mise à jour : printemps 16 {#release-notes-spring}
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 16. Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
 
 ## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-Insights est une toute nouvelle expérience historique d’analyse des emails agrégés — repensée de bout en bout pour des performances d’éclair rapides dans le cadre du projet Orion. Il présente une nouvelle interface utilisateur entièrement optimisée pour répondre aux besoins et aux workflows des spécialistes du marketing par e-mail.
+Email Insights est une nouvelle expérience historique d’analyse des emails agrégés - repensée de bout en bout pour offrir des performances étonnantes et rapides. Il présente une nouvelle interface utilisateur entièrement optimisée pour répondre aux besoins et aux workflows des spécialistes du marketing par e-mail.
 
 >[!NOTE]
 >
@@ -63,15 +63,15 @@ Tout comme la fonction d’liste autorisée IP pour les connexions d’utilisate
 
 ## [Nouveau connecteur de synchronisation Microsoft Dynamics à haute vitesse](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Construit sur l’architecture Orion, le nouveau connecteur de dynamique à grande vitesse offre des vitesses jusqu’à 20 fois plus rapides pour la synchronisation initiale et jusqu’à 5 fois plus rapides pour la synchronisation incrémentielle. Tous les nouveaux clients embarqueront sur ce connecteur à la date de publication et nous le déploierons progressivement vers les clients existants au cours de la période de publication d’été.
+Le nouveau connecteur Dynamics à haute vitesse offre des vitesses jusqu’à 20 fois plus rapides pour la synchronisation initiale et jusqu’à 5 fois plus rapides pour la synchronisation incrémentielle. Tous les nouveaux clients embarqueront sur ce connecteur à la date de publication et nous le déploierons progressivement vers les clients existants au cours de la période de publication d’été.
 
-**Actualiser les données des nouveaux champs**: Vous pouvez maintenant activer de nouveaux champs de synchronisation à tout moment et toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM vers Marketo. Plus question de devoir sélectionner tous les champs lors de la configuration initiale. Si vous désactivez un champ de synchronisation existant et le réactivez ultérieurement, toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM vers Marketo.
+**Actualiser les données des nouveaux champs**: vous pouvez maintenant activer de nouveaux champs de synchronisation à tout moment et toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM vers Marketo. Plus question de devoir sélectionner tous les champs lors de la configuration initiale. Si vous désactivez un champ de synchronisation existant et le réactivez ultérieurement, toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM vers Marketo.
 
-**Synchroniser le prospect en tant que contact**: L’action de flux Piste de synchronisation vers Microsoft dispose d’une nouvelle option de synchronisation en tant que prospect ou contact.
+**Synchroniser le prospect en tant que contact**: l’action de flux Piste de synchronisation vers Microsoft dispose d’une nouvelle option de synchronisation en tant que prospect ou contact.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Onglet d’administration des erreurs de synchronisation**: Parcourir, rechercher ou exporter des pistes (et d’autres objets) qui n’ont pas pu être synchronisées avec des détails tels que l’opération, la direction, le code d’erreur et le message d’erreur.
+**Onglet d’administration des erreurs de synchronisation**: pistes de navigation, de recherche ou d’exportation (et autres objets) qui n’ont pas pu être synchronisées avec des détails tels que l’opération, la direction, le code d’erreur et le message d’erreur.
 
 ![](assets/sync-errors.png)
 
@@ -87,7 +87,7 @@ Aujourd’hui, il est difficile de différencier les instances Marketo, par exem
 
 ## [Accès à temps limité pour les abonnements](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-Aujourd’hui, les utilisateurs sont invités à s’abonner à Marketo pour une durée indéterminée. Cette fonctionnalité permet aux administrateurs d’inviter les utilisateurs à s’abonner pendant une période limitée (par exemple, 2 semaines ou 1 mois).
+Aujourd’hui, les utilisateurs sont invités à s’abonner à Marketo pour une durée indéterminée. Cette fonctionnalité permet aux administrateurs d’inviter les utilisateurs à s’abonner pendant une période limitée, par exemple 2 semaines ou 1 mois.
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
@@ -99,4 +99,4 @@ Vous pouvez désormais afficher le nombre d’enregistrements et de champs pour 
 
 ## Activités personnalisées {#custom-activities}
 
-Les administrateurs Marketo peuvent désormais définir et gérer leurs types d’activité personnalisés via le modeleur Définition d’activité personnalisée de Marketo. Tout comme le modèle d’objet personnalisé de Marketo (et conjointement avec lui), les administrateurs peuvent désormais étendre le modèle de données en fonction de leurs besoins professionnels exacts. Pour plus d’informations sur l’utilisation de cette fonctionnalité, voir [Site de documentation de Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Les administrateurs Marketo peuvent désormais définir et gérer leurs types d’activité personnalisés via le modeleur Définition d’activité personnalisée de Marketo. Tout comme le modèle d’objet personnalisé Marketo (et conjointement avec lui), les administrateurs peuvent désormais étendre le modèle de données en fonction de leurs besoins professionnels. Pour plus d’informations sur l’utilisation de cette fonctionnalité, voir [Site de documentation de Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
