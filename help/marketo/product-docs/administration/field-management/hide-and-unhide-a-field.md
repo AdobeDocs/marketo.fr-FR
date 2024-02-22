@@ -4,10 +4,10 @@ description: Masquer et afficher un champ - Documents Marketo - Documentation du
 title: Masquage et affichage d’un champ
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 8%
+source-wordcount: '177'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous po
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -37,6 +37,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous po
    >
    >* Pour masquer un champ, il ne doit pas être associé à d’autres ressources (y compris les ressources archivées). Veillez à supprimer le champ de toutes les listes intelligentes, les choix d’étape de flux, les formulaires, les courriers électroniques, etc., avant de le masquer.
    >* Vous ne pouvez pas masquer les champs standard (système).
+   >* Vous ne pouvez pas masquer les champs d’informations d’opportunité.
 
 1. Cliquez sur **[!UICONTROL Masquer]** pour confirmer.
 
@@ -48,7 +49,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous po
 
 ## Afficher un champ {#unhide-a-field}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
