@@ -2,8 +2,8 @@
 description: Paramètres De Flux De Conversion Pour Marketo Engage Forms - Documents Marketo - Documentation Du Produit
 title: Paramètres De Flux De Conversion Pour Marketo Engage Forms
 feature: Dynamic Chat
-exl-id: 28d509c8-e967-43fa-ba80-c6619c647144
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. Cliquez sur **Modifier le brouillon**.
+1. Cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. Sur la page de modification du formulaire, cliquez sur **Paramètres de formulaire**, puis **Paramètres**.
+1. Sur la page de modification du formulaire, cliquez sur **[!UICONTROL Paramètres de formulaire]**, puis **[!UICONTROL Paramètres]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Cliquez sur le bouton **Paramètres de flux de conversation** curseur à activer.
+1. Cliquez sur le bouton **[!UICONTROL Paramètres de flux de conversation]** curseur à activer.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Un modal Choix par défaut s’affiche. Sélectionnez vos préférences. Dans cet exemple, nous choisissons **Utiliser le flux de conversation**.
+1. Un modal Choix par défaut s’affiche. Sélectionnez vos préférences. Dans cet exemple, nous choisissons **[!UICONTROL Utiliser le flux de conversation]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,6 +54,6 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
    >
    >Le navigateur du visiteur doit être une personne connue en tant que cookie avant l’envoi du formulaire pour être admissible comme membre de la liste statique/dynamique.
 
-1. Cliquez sur **Terminer** une fois terminé.
+1. Cliquez sur **[!UICONTROL Terminer]** une fois terminé.
 
    ![](assets/conversational-flow-settings-8.png)

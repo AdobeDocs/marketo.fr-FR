@@ -2,10 +2,10 @@
 description: API intégrée Adobe PDF - Documents Marketo - Documentation du produit
 title: API Adobe PDF Embed
 feature: Dynamic Chat
-exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
 1. Accédez à [API intégrée Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Cliquez sur **Obtention des informations d’identification**.
+1. Cliquez sur **[!UICONTROL Obtention des informations d’identification]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Saisissez vos informations d’identification, acceptez les conditions, puis cliquez sur **Création d’informations d’identification**.
+1. Saisissez vos informations d’identification, acceptez les conditions, puis cliquez sur **[!UICONTROL Création d’informations d’identification]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,15 +32,15 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
    >
    >Vous devez utiliser le domaine sur lequel vous hébergerez le chatbot (par exemple, si vous hébergez le chatbot sur mycompany.com, veillez à le saisir à l’étape 4).
 
-1. Cliquez sur **Copier** pour copier votre ID de client.
+1. Cliquez sur **[!UICONTROL Copier]** pour copier votre ID de client.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. De retour en Dynamic Chat, cliquez sur **Intégrations**. Dans la carte de l’API intégrée Adobe PDF, cliquez sur **Activer**.
+1. De retour en Dynamic Chat, cliquez sur **[!UICONTROL Intégrations]**. Dans la carte de l’API intégrée Adobe PDF, cliquez sur **[!UICONTROL Activer]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. Collez votre ID client et cliquez sur **Enregistrer**.
+1. Collez vos [!UICONTROL ID client] et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

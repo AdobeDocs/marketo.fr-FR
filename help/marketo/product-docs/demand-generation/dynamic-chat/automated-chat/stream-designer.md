@@ -3,7 +3,7 @@ description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 1%
@@ -91,15 +91,15 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 
 Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Dans cet exemple, nous allons en créer un pour un Dialogue.
 
-1. Après avoir [création de votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, cliquez sur le **Concepteur de diffusion** .
+1. Après avoir [création de votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, cliquez sur le **[!UICONTROL Concepteur de diffusion]** .
 
    ![](assets/stream-designer-6.png)
 
-1. Faites glisser et déposez la carte Question .
+1. Faites glisser et déposez le [!UICONTROL Question] carte.
 
    ![](assets/stream-designer-7.png)
 
-1. Sous Réponse Chatbot, entrez votre question comme vous le souhaitez.
+1. Sous [!UICONTROL Réponse de Chatbot], répondez à votre question comme vous le souhaitez.
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
    >
    >Par défaut, le point est activé, ce qui affiche la question d’ouverture en regard de l’icône de conversation sans que le visiteur ait à cliquer dessus pour l’afficher. Poke n’est disponible que sur la première carte de la conversation.
 
-1. Saisissez vos réponses utilisateur et cliquez sur **Enregistrer**.
+1. Saisissez vos réponses utilisateur et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Modifier les valeurs stockées** est une étape facultative pour ceux qui souhaitent stocker une valeur différente dans la base de données de celle affichée pour les visiteurs dans le chatbot pour les attributs mappés dans la carte Question (par exemple : le visiteur voit &quot;Optimisation du moteur de recherche&quot;, vous stockez cette valeur comme &quot;SEO&quot;).
+   >**[!UICONTROL Modifier les valeurs stockées]** est une étape facultative pour ceux qui souhaitent stocker une valeur différente dans la base de données de celle affichée pour les visiteurs dans le chatbot pour les attributs mappés dans la carte Question (par exemple : le visiteur voit &quot;Optimisation du moteur de recherche&quot;, vous stockez cette valeur comme &quot;SEO&quot;).
 
 1. Pour &quot;Oui&quot;, nous voulons planifier un rendez-vous. Par conséquent, en dessous de cette option, faites glisser sur la carte Planificateur de rendez-vous .
 
    ![](assets/stream-designer-10.png)
 
-1. Dans la colonne de droite, cliquez sur **Enregistrer**.
+1. Dans la colonne de droite, cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Comme il s’agit d’un objectif, faites glisser la carte Objectif sous le Planificateur de rendez-vous.
+1. Comme c’est un objectif, faites glisser le [!UICONTROL Objectif] sous le planificateur de rendez-vous.
 
    ![](assets/stream-designer-12.png)
 
-1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **Enregistrer**.
+1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Pour &quot;Non&quot;, nous voulons voir s’ils vont rejoindre la liste de distribution. Par conséquent, sous cette option, faites glisser sur une autre carte Question .
+1. Pour &quot;Non&quot;, nous voulons voir s’ils vont rejoindre la liste de distribution. Par conséquent, sous cette option, faites glisser sur une autre [!UICONTROL Question] carte.
 
    ![](assets/stream-designer-14.png)
 
-1. Saisissez votre réponse et ajoutez des choix de réponse pour le visiteur. Cliquez sur **Enregistrer** une fois terminé.
+1. Saisissez votre réponse et ajoutez des choix de réponse pour le visiteur. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter d’autres réponses en cliquant sur **Ajouter une réponse**.
+   >Vous pouvez ajouter d’autres réponses en cliquant sur **[!UICONTROL Ajouter une réponse]**.
 
 1. Sous la réponse &quot;Oui&quot;, faites glisser la souris sur la carte Capture d’informations afin de collecter l’email du visiteur.
 
    ![](assets/stream-designer-16.png)
 
-1. Cliquez sur le bouton **Type** et sélectionnez **Email**.
+1. Cliquez sur le bouton **[!UICONTROL Type]** et sélectionnez **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Saisissez un message de chatterbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo et cliquez sur **Enregistrer**.
+1. Saisissez un message de chatterbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
     </tr>
    </table>
 
-1. Puisque la collecte de leur email est un objectif, faites glisser la carte Objectif sous Capture d’informations.
+1. Comme la collecte de leur email est un objectif, faites glisser la variable [!UICONTROL Objectif] sous Capture d’informations.
 
    ![](assets/stream-designer-19.png)
 
-1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **Enregistrer**.
+1. Nommez votre objectif (ou choisissez un objectif existant) et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    ![](assets/stream-designer-21.png)
 
-1. Dans cet exemple, nous allons créer un nouveau document. Attribuez-lui un nom, saisissez l’URL du PDF que vous avez déjà hébergé, puis cliquez sur **Enregistrer**.
+1. Dans cet exemple, nous allons créer un nouveau document. Attribuez-lui un nom, saisissez l’URL du PDF que vous avez déjà hébergé, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Sélectionnez la variable **Aperçu** bascule pour afficher l’aperçu de votre dialogue.
+1. Sélectionnez la variable **[!UICONTROL Aperçu]** bascule pour afficher l’aperçu de votre dialogue.
 
    ![](assets/stream-designer-23.png)
 
-1. Lorsque vous êtes prêt à activer votre dialogue, cliquez sur **Publier**.
+1. Lorsque vous êtes prêt à activer votre dialogue, cliquez sur **[!UICONTROL Publier]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Avant de cliquer sur Publier, n’oubliez pas de vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Avant de cliquer sur [!UICONTROL Publier], pensez à vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

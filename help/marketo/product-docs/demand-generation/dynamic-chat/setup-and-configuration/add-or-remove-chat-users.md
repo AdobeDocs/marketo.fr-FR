@@ -2,11 +2,11 @@
 description: Ajout ou suppression d’utilisateurs de messagerie instantanée - Documents Marketo - Documentation du produit
 title: Ajout ou suppression d’utilisateurs de conversation
 feature: Dynamic Chat
-exl-id: d6fd64d5-25ea-4190-bfb8-8ead9b89c4f1
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 4%
+source-wordcount: '223'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Cliquez sur **Dynamic Chat**.
+1. Cliquez sur **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -28,11 +28,11 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
    >
    >Si vous disposez de plusieurs abonnements Marketo, sélectionnez-les avant l’étape suivante.
 
-1. Cliquez sur le bouton **Utilisateurs** .
+1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Cliquez sur le bouton **Ajouter un utilisateur** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Ajouter un utilisateur]** bouton .
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -52,19 +52,19 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
 Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déjà l’autorisation du Dynamic Chat, voici comment l’ajouter.
 
-1. Dans Marketo, cliquez sur **Administration** et sélectionnez **Utilisateurs et rôles**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Administration]** et sélectionnez **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Cliquez sur le bouton **Rôles** .
+1. Cliquez sur le bouton **[!UICONTROL Rôles]** .
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. Dans la liste, sélectionnez le rôle à modifier, puis cliquez sur **Modifier le rôle**.
+1. Dans la liste, sélectionnez le rôle à modifier, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Sélectionner **Dynamic Chat d’accès** et cliquez sur **Enregistrer**.
+1. Sélectionner **[!UICONTROL Dynamic Chat d’accès]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -74,7 +74,7 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Cliquez sur **Dynamic Chat**.
+1. Cliquez sur **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -82,7 +82,7 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
    >
    >Si vous disposez de plusieurs abonnements Marketo, sélectionnez-les avant l’étape suivante.
 
-1. Cliquez sur le bouton **Utilisateurs** .
+1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -90,11 +90,11 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Cliquez sur le bouton **Supprimer un utilisateur** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Supprimer un utilisateur]** bouton .
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. Cliquez sur **Supprimer un utilisateur** pour confirmer.
+1. Cliquez sur **[!UICONTROL Supprimer un utilisateur]** pour confirmer.
 
    ![](assets/add-or-remove-chat-users-17.png)
 

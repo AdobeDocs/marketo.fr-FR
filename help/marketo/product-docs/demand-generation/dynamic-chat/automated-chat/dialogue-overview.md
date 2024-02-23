@@ -2,8 +2,8 @@
 description: Présentation de dialogue - Documents Marketo - Documentation du produit
 title: Présentation des dialogues
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 5%
@@ -26,7 +26,7 @@ La variable [Concepteur de diffusion](/help/marketo/product-docs/demand-generati
 
 ![](assets/dialogue-overview-2.png)
 
-## Rapports   {#reports}
+## Rapports {#reports}
 
 L’onglet Rapports vous permet d’afficher les mesures relatives à l’efficacité de votre dialogue.
 
@@ -64,10 +64,10 @@ L’onglet Rapports vous permet d’afficher les mesures relatives à l’effica
 
 Vous avez la possibilité de désactiver (et de réactiver) toutes les boîtes de dialogue publiées en même temps.
 
-1. Dans Dynamic Chat, cliquez sur le **Configuration** .
+1. Dans Dynamic Chat, cliquez sur le **[!UICONTROL Configuration]** .
 
    ![](assets/dialogue-overview-4.png)
 
-1. Activez/désactivez la variable **Chat activé** basculez sur pour désactiver (puis réactiver) toutes les boîtes de dialogue.
+1. Activez/désactivez la variable **[!UICONTROL Chat activé]** basculez sur pour désactiver (puis réactiver) toutes les boîtes de dialogue.
 
    ![](assets/dialogue-overview-5.png)

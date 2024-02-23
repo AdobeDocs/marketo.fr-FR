@@ -3,10 +3,10 @@ description: Critères d’audience - Documents Marketo - Documentation du produ
 title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 2%
+source-wordcount: '597'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Tout comme les listes dynamiques de Marketo Engage, les attributs de critères d
 
 ## Priorité {#priority}
 
-La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie la première fois que vous [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **Détails du dialogue** dans l’onglet Critères d’audience .
+La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie la première fois que vous [créer votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **[!UICONTROL Détails du dialogue]** dans l’onglet Critères d’audience .
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit
 
 Les événements vous permettent de cibler les visiteurs en fonction de la durée de leur défilement ou de la durée pendant laquelle ils se trouvent sur votre page/site. Dans l’exemple ci-dessous, nous ciblons les visiteurs qui se trouvent sur une page spécifique depuis plus de 20 secondes.
 
-1. Attrapez le **Durée sur la page** et faites-le glisser vers la droite.
+1. Attrapez le **[!UICONTROL Durée sur la page]** et faites-le glisser vers la droite.
 
    ![](assets/audience-criteria-3.png)
 
@@ -40,9 +40,9 @@ Les événements vous permettent de cibler les visiteurs en fonction de la duré
 
 **Personnes connues**
 
-Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans l’exemple ci-dessous, nous ciblons tous les **personnes connues** en Californie, qui travaille dans une entreprise de plus de 50 employés.
+Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans l’exemple ci-dessous, nous ciblons toutes les personnes connues en Californie qui travaillent dans une entreprise de plus de 50 employés.
 
-1. Attrapez le **État de la personne** et faites-le glisser vers la droite.
+1. Attrapez le **[!UICONTROL État de la personne]** et faites-le glisser vers la droite.
 
    ![](assets/audience-criteria-7.png)
 
@@ -50,7 +50,7 @@ Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans l’exem
 
    ![](assets/audience-criteria-8.png)
 
-1. Attrapez le **Taille de l’entreprise** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
+1. Attrapez le **[!UICONTROL Taille de l’entreprise]** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -58,7 +58,7 @@ Il y a _many_ combinaisons d’attributs parmi lesquelles choisir. Dans l’exem
    >
    >Vous pouvez également choisir un attribut en cliquant sur son **+** Icône
 
-1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **Supérieur à**.
+1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **[!UICONTROL Supérieur à]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -70,17 +70,17 @@ Et c&#39;est tout !
 
 **Personnes anonymes**
 
-Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons tous les **anonymes** situé dans le quartier de New York.
+Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les personnes anonymes situées dans la région de New York.
 
-1. Attrapez le **Email de personne** et faites-le glisser vers la droite.
+1. Attrapez le **[!UICONTROL Email de personne]** et faites-le glisser vers la droite.
 
    ![](assets/audience-criteria-12.png)
 
-1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **Est vide**.
+1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **[!UICONTROL Est vide]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Attrapez le **État déduit** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
+1. Attrapez le **[!UICONTROL État déduit]** Attribuez-le et faites-le glisser à l’endroit où il indique _faire glisser un attribut ici ;_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -100,7 +100,7 @@ Utilisez des listes dynamiques Marketo Engage pour l’audience cible de votre d
 >
 >Un membre de la liste dynamique ou un membre de la liste nécessite Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
-1. Sous Adhésion, accédez à **Membre de la liste dynamique** et déposez-le sur la zone de travail.
+1. Sous Adhésion, accédez à **[!UICONTROL Membre de la liste dynamique]** et déposez-le sur la zone de travail.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -133,11 +133,11 @@ Formats acceptables :
 
 **Exclusions**
 
-Utilisez les exclusions pour vous assurer que votre dialogue fonctionne **not** s’affichent sur une page/zone spécifique de votre site. Les exclusions suivent le même format que les inclusions.
+Utilisez les exclusions pour vous assurer que votre dialogue fonctionne _not_ s’affichent sur une page/zone spécifique de votre site. Les exclusions suivent le même format que les inclusions.
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
 >* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Designer de flux](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
