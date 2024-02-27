@@ -4,9 +4,9 @@ description: Ajout d’une authentification unique à un portail - Documents Mar
 title: Ajout d’une authentification unique à un portail
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: f8fa8781d2b1e96ffda038f2f2e28cd242dcfead
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,7 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 >[!NOTE]
 >
 >Êtes-vous un [!DNL Microsoft Azure] utilisateur ? Consultez leur [tutoriel sur l’intégration](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
+Pour votre information, il existe une faute de frappe à l’étape 5c de leur tutoriel. Veuillez utiliser `https://<munchkinid>.mktoweb.com`, _not_ `https://<munchkinid>.marketo.com`.
 
 ## Envoi de la requête {#how-to-send-the-request}
 
