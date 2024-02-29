@@ -3,9 +3,9 @@ description: Migration vers Adobe Identity - Documents Marketo - Documentation d
 title: Migration vers Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '2230'
+source-wordcount: '2252'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ Adobe migre automatiquement en premier tous les administrateurs Marketo avec des
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Si votre abonnement Marketo comporte moins de 75 utilisateurs**, Adobe migre automatiquement le reste de vos utilisateurs. Ce workflow vise à fournir le niveau d’automatisation le plus élevé et aucune action n’est requise pour exécuter la migration. Une fois la migration terminée, la console de migration Marketo n’apparaîtra plus dans la zone de navigation Admin de Marketo et tous les utilisateurs accéderont à Marketo à l’aide d’Adobe ID.
+**Si votre abonnement Marketo comporte moins de 75 utilisateurs et ne dispose pas de l’authentification unique dans Marketo et/ou votre organisation d’Adobe**, Adobe migre automatiquement le reste de vos utilisateurs. Ce workflow vise à fournir le niveau d’automatisation le plus élevé et aucune action n’est requise pour exécuter la migration. Une fois la migration terminée, la console de migration Marketo n’apparaîtra plus dans la zone de navigation Admin de Marketo et tous les utilisateurs accéderont à Marketo à l’aide d’Adobe ID.
 
-**Si votre abonnement Marketo comporte 75 utilisateurs ou plus**, les administrateurs de produit Marketo auront accès à l’outil de migration des utilisateurs en libre-service de la console de migration au début de la migration des utilisateurs et seront avertis via une bannière lors de leur connexion à la page Mon Marketo. L’administrateur sera chargé d’effectuer la migration des utilisateurs à l’aide de l’outil de migration des utilisateurs en libre-service.
+**Si votre abonnement Marketo comporte 75 utilisateurs ou plus ou dispose d’une authentification unique dans Marketo et/ou votre organisation d’Adobe**, les administrateurs de produit Marketo auront accès à l’outil de migration des utilisateurs en libre-service de la console de migration au début de la migration des utilisateurs et seront avertis via une bannière lors de leur connexion à la page Mon Marketo. L’administrateur sera chargé d’effectuer la migration des utilisateurs à l’aide de l’outil de migration des utilisateurs en libre-service.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
