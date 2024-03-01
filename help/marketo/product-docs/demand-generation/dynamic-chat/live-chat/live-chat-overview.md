@@ -3,7 +3,7 @@ description: Présentation de la messagerie instantanée - Documents Marketo - D
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ Cliquer sur la carte de conversation en direct dans le flux vous permet de chois
 
 ## Notifications de tchat en direct {#live-chat-notifications}
 
-Pour recevoir des notifications de navigateur pour la messagerie instantanée, tous les agents de messagerie instantanée doivent activer les notifications de navigateur pour le Dynamic Chat lorsqu’ils y sont invités.
+>[!IMPORTANT]
+>
+>Pour recevoir des notifications de navigateur pour la messagerie instantanée, tous les agents de messagerie instantanée doivent activer les notifications de navigateur pour le Dynamic Chat lorsqu’ils y sont invités.
 
 ### Activation des notifications {#enabling-notifications}
 
