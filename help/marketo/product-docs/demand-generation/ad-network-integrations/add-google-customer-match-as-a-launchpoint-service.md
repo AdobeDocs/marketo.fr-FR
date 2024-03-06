@@ -4,16 +4,20 @@ description: Ajout de la correspondance client Google en tant que service Launch
 title: Ajout de la correspondance client Google en tant que service LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 2%
+source-wordcount: '226'
+ht-degree: 1%
 
 ---
 
 # Ajout de la correspondance client Google en tant que service LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
 Avec cette intégration, vous pouvez envoyer une audience Marketo Engage à Google pour qu’elle soit ciblée à l’aide de Google AdWords, ainsi que re-cibler les audiences dans YouTube, Search et Gmail.
+
+>[!IMPORTANT]
+>
+>En raison de la mise à jour récente de l’API Google Ads, la fonctionnalité de synchronisation entre Adobe et Google est temporairement désactivée.  Adobe examine actuellement les exigences de Google liées à la mise à jour.
 
 >[!NOTE]
 >

@@ -1,20 +1,24 @@
 ---
-description: Tutorials de suivi de boîte de réception - Documents Marketo - Documentation du produit
+description: Testez, surveillez et comprenez les problèmes de délivrabilité avec Marketo Engage Email Deliverability Powerpack.
 title: Tutorials de suivi de la boîte de réception
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Tutorials de suivi de la boîte de réception {#inbox-tracker-tutorials.md}
+# Tutorials de suivi de la boîte de réception {#inbox-tracker-tutorials}
 
-Testez, surveillez et comprenez les problèmes de délivrabilité avec Marketo Email Deliverability Powerpack, optimisé par la plateforme de suivi de boîte de réception MessageBird. Inbox Tracker est une application unique qui combine l’intelligence de votre programme et la prévoyance du rendu des emails/des tests de boîte de réception pour optimiser les performances de vos emails.
+Testez, surveillez et comprenez les problèmes de délivrabilité avec le module PowerPack de délivrabilité des emails Marketo Engage, optimisé par la plateforme de suivi de boîte de réception Bird (anciennement MessageBird). Inbox Tracker est une application unique qui combine l’intelligence de votre programme et la prévoyance du rendu des emails/des tests de boîte de réception pour optimiser les performances de vos emails.
 
-MessageBird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleur parti de cet outil puissant.
+>[!AVAILABILITY]
+>
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
+
+Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleur parti de cet outil puissant.
 
 ## Présentation du suivi de la boîte de réception {#inbox-tracker-overview}
 

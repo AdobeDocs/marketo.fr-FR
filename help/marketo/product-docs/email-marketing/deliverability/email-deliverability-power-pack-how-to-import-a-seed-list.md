@@ -4,9 +4,9 @@ description: Email Deliverability Power Pack - Comment importer une liste de con
 title: Email Deliverability - Import d’une liste de contrôle
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Une liste de contrôle est une liste de comptes de messagerie de plusieurs fournisseurs de messagerie, y compris Google Apps, Hotmail, Yahoo!, etc., qui sont utilisés pour déterminer le taux de délivrabilité des dossiers de messages électroniques par rapport aux spams. Voici comment placer cette liste dans votre instance Marketo.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
+>Cet article est destiné à ceux qui ont actuellement un abonnement à Everest actif. Si vous utilisez Inbox Tracker par Bird (anciennement MessageBird), vos tutoriels [peut être consulté ici](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importation d’une liste de contrôle {#import-a-seed-list}
 
