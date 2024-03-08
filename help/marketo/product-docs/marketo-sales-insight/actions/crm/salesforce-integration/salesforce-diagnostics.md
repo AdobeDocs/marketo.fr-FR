@@ -3,9 +3,9 @@ description: Diagnostics Salesforce - Documents Marketo - Documentation du produ
 title: Diagnostics Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1374'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Une partie de notre intégration Salesforce inclut une page de diagnostic Salesforce dans l’application web. Cette page capture les erreurs provenant de la journalisation des données ayant échoué dans Salesforce. Les erreurs peuvent s’avérer utiles, mais ne sont pas toujours lisibles. Ainsi, nous avons mis en place une feuille de tricherie qui aide à expliquer les messages d&#39;erreur.
 
-## Accéder aux diagnostics {#access-diagnostics}
+## Diagnostics d’accès {#access-diagnostics}
 
 1. Cliquez sur l’icône d’engrenage et choisissez **Paramètres**.
 
@@ -29,12 +29,12 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Erreur :** API_CURRENTLY_DISABLED\
 **Catégorie :** Accès/Validation\
 **Message :** L’API est désactivée pour cet utilisateur\
-**Ce qui se passe :** L’utilisateur ne dispose pas d’un accès à l’API\
+**Ce qui se passe :** L’utilisateur ne dispose pas d’un accès API\
 **Étapes de dépannage :** L’administrateur Salesforce doit accorder l’accès à l’API utilisateur.
 
 **Erreur :** AUTHENTICATION_FAILURE\
 **Catégorie :** Authentification\
-**Message :** invalid_grant : échec d’authentification\
+**Message :** invalid_grant : échec de l’authentification\
 **Ce qui se passe :** Échec de l’authentification\
 **Étapes de dépannage :** Déconnectez-vous de Salesforce, puis reconnectez-vous.
 
@@ -96,13 +96,13 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Erreur :** INACTIVE_ORGANIZATION\
 **Catégorie :** Authentification\
 **Message :** invalid_grant : organisation inactive\
-**Ce qui se passe :** Votre organisation Salesforce n’est plus principale.
+**Ce qui se passe :** Votre organisation Salesforce n’est plus active.
 **Étapes de dépannage :** Déconnectez-vous puis reconnectez-vous de Salesforce.
 
 **Erreur :** INACTIVE_USER
 **Catégorie :** Authentification
 **Message :** invalid_grant : utilisateur inactif
-**Ce qui se passe :** L’utilisateur Salesforce n’est plus principal
+**Ce qui se passe :** L’utilisateur Salesforce n’est plus actif
 **Étapes de dépannage :** Déconnectez-vous puis reconnectez-vous de Salesforce.
 
 **Erreur :** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE\
@@ -131,7 +131,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Catégorie :** Accès/Validation\
-**Message :** Impossible de créer/mettre à jour les champs : MSE_Replied__c. Vérifiez les paramètres de sécurité de ce champ.
+**Message :** Impossible de créer/mettre à jour les champs : MSE_Response__c. Vérifiez les paramètres de sécurité de ce champ.
 **Ce qui se passe :** Les utilisateurs ne disposent pas d’un accès en écriture aux champs personnalisés Actions de statistiques sur les ventes nécessaires pour effectuer la transaction de journalisation de l’activité la plus récente. L’équipe a peut-être installé le package mais n’a pas activé les champs appropriés pour les utilisateurs.\
 **Étapes de dépannage :** L’administrateur Salesforce doit accorder l’accès aux champs personnalisés OU désactiver la journalisation de l’activité la plus récente.
 
@@ -143,9 +143,9 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** INVALID_TYPE\
 **Catégorie :** Accès/Validation\
-**Message :** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Colonne : 53sType d’objet &quot;Lead&quot; n’est pas pris en charge. Si vous essayez d’utiliser un objet personnalisé, assurez-vous d’ajouter « __c » après le nom de l’entité. Référencez votre WSDL ou l’appel de description pour connaître les noms appropriés.
+**Message :** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` Le type &quot;Lead&quot; n’est pas pris en charge. Si vous essayez d’utiliser un objet personnalisé, assurez-vous d’ajouter « __c » après le nom de l’entité. Veuillez référencer votre WSDL ou l’appel de description pour connaître les noms appropriés
 **Ce qui se passe :** Nous tentons d’interroger un type d’objet de Salesforce auquel l’utilisateur n’a pas accès. Cela est probablement lié au fait que l’utilisateur n’a pas le droit d’accéder à l’objet de piste.\
-**Étapes de dépannage :** Accordez l’accès en lecture et en mise à jour à l’objet Lead dans Salesforce ou désactivez la journalisation des emails et la journalisation des activités les plus récentes pour créer des enregistrements de piste.
+**Étapes de dépannage :** Accordez l’accès en lecture et en mise à jour à l’objet Lead dans Salesforce ou désactivez la journalisation des emails et la journalisation de l’activité la plus récente pour créer des enregistrements de piste.
 
 **Erreur :** QUERY_TIMEOUT\
 **Catégorie :** Intermittent\
@@ -180,13 +180,13 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** TXN_SECURITY_NO_ACCESS\
 **Catégorie :** Accès/Validation\
-**Message :** L’opération que vous avez demandée n’est pas autorisée en raison d’une stratégie de sécurité de votre entreprise. Contactez l’administration.
+**Message :** L’opération que vous avez demandée n’est pas autorisée en raison d’une stratégie de sécurité de votre entreprise. Contactez votre administrateur.
 **Ce qui se passe :** Une certaine restriction de sécurité a été configurée - voir https://developer.salesforce.com/forums/?id=&quot;enregistrement ID&quot;\
 **Étapes de dépannage :** Adressez-vous à votre administrateur Salesforce pour voir quelle est la restriction spécifique.
 
 **Erreur :** UNABLE_TO_LOCK_ROW\
 **Catégorie :** Intermittent\
-**Message :** impossible d&#39;obtenir un accès exclusif à cet enregistrement ou à 1 enregistrement : &quot;enregistrement ID&quot;\
+**Message :** impossible d’obtenir un accès exclusif à cet enregistrement ou à 1 enregistrement : &quot;ID d’enregistrement&quot;\
 **Ce qui se passe :** Il est probable qu’un déclencheur provoque plusieurs tentatives d’accès au même enregistrement, éventuellement dans le cas d’un email de groupe.\
 **Étapes de dépannage :** La logique de reprise doit gérer cela. Si cela ne fonctionne toujours pas, travaillez avec votre administrateur Salesforce pour résoudre un problème de déclencheur.
 
@@ -194,4 +194,4 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Catégorie :** Autre\
 **Message :** Une exception inconnue s’est produite\
 **Ce qui se passe :** Exception non gérée dans Salesforce.\
-**Étapes de dépannage :** Placez une casse avec Salesforce et copiez les valeurs numériques dans le message d’erreur. Ce code Salesforce ne gère pas correctement une erreur.
+**Étapes de dépannage :** Placez une casse avec Salesforce et copiez les valeurs numériques dans le message d’erreur. Il s’agit du code Salesforce qui ne gère pas correctement une erreur.
