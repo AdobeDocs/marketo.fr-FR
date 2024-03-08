@@ -1,18 +1,18 @@
 ---
-description: Testez, surveillez et comprenez les problèmes de délivrabilité avec Marketo Engage Email Deliverability Powerpack.
+description: Testez, surveillez et comprenez les problèmes de délivrabilité avec Inbox Tracker.
 title: Tutorials de suivi de la boîte de réception
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Tutorials de suivi de la boîte de réception {#inbox-tracker-tutorials}
 
-Testez, surveillez et comprenez les problèmes de délivrabilité avec le module PowerPack de délivrabilité des emails Marketo Engage, optimisé par la plateforme de suivi de boîte de réception Bird (anciennement MessageBird). Inbox Tracker est une application unique qui combine l’intelligence de votre programme et la prévoyance du rendu des emails/des tests de boîte de réception pour optimiser les performances de vos emails.
+Testez, surveillez et comprenez les problèmes de délivrabilité avec les outils de délivrabilité des emails optimisés par la plateforme de suivi de boîte de réception Bird (anciennement MessageBird). Inbox Tracker est une application unique qui combine l’intelligence de votre programme et la prévoyance du rendu des emails/des tests de boîte de réception pour optimiser les performances de vos emails.
 
 >[!AVAILABILITY]
 >

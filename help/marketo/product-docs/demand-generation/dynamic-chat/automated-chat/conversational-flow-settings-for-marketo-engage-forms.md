@@ -3,9 +3,9 @@ description: Paramètres De Flux De Conversion Pour Marketo Engage Forms - Docum
 title: Paramètres De Flux De Conversion Pour Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Sélectionnez le flux de conversation et le type de diffusion de votre choix.
+1. Sélectionnez la **[!UICONTROL Flux de conversation]** et **[!UICONTROL Type de diffusion]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
    >
    >[En savoir plus sur les flux de conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **ÉTAPE FACULTATIVE**: vous pouvez cliquer sur Ajouter un choix pour cibler les visiteurs du chat qui répondent à un critère spécifique.
+   **ÉTAPE FACULTATIVE**: cliquez sur **[!UICONTROL Ajouter un choix]** pour cibler les visiteurs qui répondent à des critères spécifiques. Vous pouvez ajouter jusqu&#39;à neuf choix pour un total de dix.
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >Le navigateur du visiteur doit être une personne connue en tant que cookie avant l’envoi du formulaire pour être admissible comme membre de la liste statique/dynamique.
 
-1. Cliquez sur **[!UICONTROL Terminer]** une fois terminé.
+   **ÉTAPE FACULTATIVE**: cliquez sur le bouton **+** connectez-vous au cours de chaque étape pour ajouter d’autres attributs, ce qui vous permet de restreindre votre audience ciblée (les attributs disponibles sont les champs que vous avez choisis pour le formulaire). Dans cet exemple, nous ciblons les rédacteurs techniques Adobes en Californie.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >La logique de critère définie sur &quot;tous&quot; signifie que chaque attribut doit être rempli pour être admissible. La logique de critère définie sur &quot;any&quot; signifie que l’un des attributs suffit.
+
+   **ÉTAPE FACULTATIVE**: si vous ajoutez plusieurs options, vous pouvez les réorganiser en cliquant sur leurs flèches haut/bas.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. Cliquez sur **[!UICONTROL Terminer]** une fois terminé.
+
+   ![](assets/conversational-flow-settings-10.png)
