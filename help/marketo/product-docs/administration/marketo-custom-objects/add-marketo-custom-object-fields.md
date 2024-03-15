@@ -4,10 +4,10 @@ description: Ajout de champs d’objet personnalisés Marketo - Documents Market
 title: Ajout de champs d’objet personnalisés Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour
 
 Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont une tâche spéciale, permettant de connecter des objets personnalisés, et sont couverts par une [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
@@ -49,7 +49,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Extrayez le [!UICONTROL Dédupliquer] placez le curseur au-dessus si vous souhaitez utiliser le nouveau champ comme identifiant unique. Cliquez sur **[!UICONTROL Enregistrer]** à la fin.
+1. Extrayez le [!UICONTROL Déduplication] placez le curseur au-dessus si vous souhaitez utiliser le nouveau champ comme identifiant unique. Cliquez sur **[!UICONTROL Enregistrer]** à la fin.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 
