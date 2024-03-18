@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: cfbf9206bcb0e54abdbd962e52844bba11b07197
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 6%
 
 ---
@@ -61,6 +61,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 ## Annonces {#announcements}
 
-* **Obtenir le correctif de l’API des membres du programme**: une modification a été apportée récemment pour corriger le comportement de la variable [Obtention des membres du programme](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} point de terminaison . Auparavant, lors de l’utilisation du type de filtre updateAt pour spécifier une période, il était possible que les enregistrements d’adhésion au programme mis à jour au cours de cette période ne soient pas inclus dans la réponse. En outre, il était possible que les enregistrements d’adhésion au programme mis à jour en dehors de la période spécifiée soient incorrectement inclus dans la réponse. Les deux problèmes ont été résolus.
+* **Obtenir le correctif de l’API des membres du programme**: une modification a été apportée récemment pour corriger le comportement de la variable [Obtention des membres du programme](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} point de terminaison . Auparavant, lors de l’utilisation de la variable `updatedAt` type de filtre pour spécifier une période, il était possible que les enregistrements d’appartenance au programme mis à jour au cours de cette période n’aient pas été inclus dans la réponse. En outre, il était possible que les enregistrements d’adhésion au programme mis à jour en dehors de la période spécifiée soient incorrectement inclus dans la réponse. Les deux problèmes ont été résolus.
 
 * **Abandon du module du navigateur Insight de compte**: Adobe supprime la gestion de compte Target [Module externe de navigateur Insight de compte](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
