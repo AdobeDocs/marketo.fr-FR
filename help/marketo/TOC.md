@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: abfdda5b42df9d01e1ad723c58fe6128048d4023
+source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
 workflow-type: tm+mt
-source-wordcount: '9282'
+source-wordcount: '9286'
 ht-degree: 3%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 3%
    + Zone de prise en main TEMP {#temp-getting-started-area}
       + [Administrateur](getting-started/temp-getting-started-area/admin.md)
       + [Base de données](getting-started/temp-getting-started-area/database.md)
-      + [Activités Marketing](getting-started/temp-getting-started-area/marketing-activities.md)
+      + [Activités marketing](getting-started/temp-getting-started-area/marketing-activities.md)
 + Documents sur les produits {#product-docs}
    + Applications supplémentaires {#additional-apps}
       + SEO {#seo}
@@ -190,7 +190,7 @@ ht-degree: 3%
             + [Migration vers Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Paramètres {#settings}
-         + [Informations sur l’API d’exportation en bloc](product-docs/administration/settings/bulk-export-api-information.md)
+         + [Informations sur l&#39;API d&#39;exportation en masse](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspecteur de campagne](product-docs/administration/settings/campaign-inspector.md)
          + [Modification des paramètres d’attribution pour Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Modification du mot de passe Marketo](product-docs/administration/settings/change-your-marketo-password.md)
@@ -204,7 +204,7 @@ ht-degree: 3%
          + [Modifier les paramètres d’abonnement](product-docs/administration/settings/edit-subscription-settings.md)
          + [Activation ou désactivation des fonctionnalités Treasure Chest](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Activation des URL personnalisées pour votre compte](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
-         + [Règles de validation de formulaire globales](product-docs/administration/settings/global-form-validation-rules.md)
+         + [Règles générales de validation du formulaire](product-docs/administration/settings/global-form-validation-rules.md)
          + [En-têtes de page d’entrée](product-docs/administration/settings/landing-page-headers.md)
          + [Limitation des connexions Marketo en fonction des adresses IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Sélectionner votre langue, langue et fuseau horaire](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
@@ -291,9 +291,9 @@ ht-degree: 3%
             + [Modifier évaluation](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
             + [Convertir individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [Suppression d’une étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
-            + [Supprimer l’individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [Supprimer individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [Lancer la campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
-            + [Service d’étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
+            + [Étape de déroulement du service](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [Créditer le référent](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Moment intéressant](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Supprimer des flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -321,13 +321,13 @@ ht-degree: 3%
             + [Modifier les données du membre du programme](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Actions de flux Microsoft Dynamics {#microsoft-dynamics-flow-actions}
             + [Ajouter ou supprimer des personnes de votre campagne Dynamics](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-            + [Changer de propriétaire dans Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
+            + [Modifier le propriétaire dans Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Créer une tâche dans Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Synchroniser individu dans Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Actions de flux Salesforce {#salesforce-flow-actions}
             + [Ajouter à la campagne SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
-            + [Modifier détenteur](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
-            + [Modifier statut dans une campagne SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
+            + [Modifier le détenteur](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+            + [Modifier le statut dans une campagne SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
             + [Créer une tâche](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
             + [Supprimer individu de SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
             + [Supprimer de la campagne SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
@@ -515,7 +515,7 @@ ht-degree: 3%
          + [Onglet Paramètres](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Audiences prédictives {#predictive-audiences}
          + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
-         + [Modèles et informations](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [Modèles et perspectives](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Filtres prédictifs](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
          + [Comprendre le suivi des objectifs et les inscriptions prévues](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + Synchronisation CRM {#crm-sync}
@@ -649,7 +649,7 @@ ht-degree: 3%
          + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Comportement de chatterbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Liste des réunions](product-docs/demand-generation/dynamic-chat/meeting-list.md)
-         + [Activités Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Activités de discussion dynamiques](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Questions fréquentes](product-docs/demand-generation/dynamic-chat/faq.md)
          + Chat automatisé {#automated-chat}
@@ -1223,7 +1223,7 @@ ht-degree: 3%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un courrier électronique à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installation de Sales Connect pour Office365 Mac OS, Windows et Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
-      + Email {#email}
+      + E-mail {#email}
          + Centre de commandes {#command-center}
             + [Présentation du centre de commandes](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Aperçu de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
@@ -1400,7 +1400,7 @@ ht-degree: 3%
             + Actions dans Salesforce {#actions-in-salesforce}
                + [Utilisation de l’envoi groupé de courriers électroniques de vente dans Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [Utilisation de l’ajout en bloc à la campagne de ventes dans Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
-         + Email {#email}
+         + E-mail {#email}
             + Centre de commandes {#command-center}
                + [Aperçu de la recherche avancée](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Affectation de tâches aux membres de l’équipe](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
@@ -1540,7 +1540,7 @@ ht-degree: 3%
          + Fonctionnalités {#features}
             + [Présentation des fonctionnalités MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Présentation des fonctionnalités du tableau de bord des insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Intégration de Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Intégration du Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Envoi d’un courrier électronique à plusieurs enregistrements dans Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Actions dans le panneau MSI {#actions-in-the-msi-panel}
                + [Choisir une action dans Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
@@ -1897,7 +1897,7 @@ ht-degree: 3%
          + [Mise en oeuvre de la méthode RTP à l’aide de Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Mise en oeuvre de la méthode RTP à l’aide de Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
       + Reporting pour la personnalisation web {#reporting-for-web-personalization}
-         + [Envoyer les rapports par e-mail](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
+         + [Rapports par e-mail](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [Activer/Désactiver les abonnements aux rapports](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [Exclure du suivi des adresses IP spécifiques](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
          + [Veille commerciale](product-docs/web-personalization/reporting-for-web-personalization/sales-intelligence.md)
@@ -1957,6 +1957,7 @@ ht-degree: 3%
    + Versions précédentes {#previous-releases}
       + 2024 {#2024}
          + [Notes de mise à jour : 24 janvier](release-notes/previous-releases/2024/release-notes-jan-24.md)
+         + [Notes de mise à jour : 24 mars](release-notes/previous-releases/2024/release-notes-mar-24.md)
       + 2023 {#2023}
          + [Notes de mise à jour : 23 janvier](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Notes de mise à jour : 23 mars](release-notes/previous-releases/2023/release-notes-mar-23.md)

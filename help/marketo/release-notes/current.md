@@ -3,16 +3,16 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cfbf9206bcb0e54abdbd962e52844bba11b07197
+source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 6%
+source-wordcount: '271'
+ht-degree: 10%
 
 ---
 
-# Notes de mise à jour : mars 2024 {#release-notes-mar-24}
+# Notes de mise à jour : avril 2024 {#release-notes-apr-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 mars. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 avril. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -20,7 +20,7 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **8 mars 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonction en regard de celle-ci.
+Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **26 avril 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonction en regard de celle-ci.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -29,10 +29,10 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
   </tr>
-  <tr> 
-   <td><strong>Logique avancée du flux de conversation</strong>: ajoutez des champs supplémentaires à évaluer dans un seul choix pour le suivi du flux de conversation.</td> 
-   <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux de conversation pour Marketo Engage Forms</a></td>
+   <tr> 
+   <td><strong>Modèles de webinaires interactifs</strong>: gagnez du temps en créant des modèles personnalisés pour les mises en page d’salles dotées de spécifications adaptées à votre entreprise.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -40,27 +40,31 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td>
   </tr>
    </tr>
-    <tr> 
-   <td><strong>Réorganiser la logique de flux de conversation</strong>: dans Marketo Engage Forms, vous pouvez désormais réorganiser les choix de flux de conversation, au lieu d’avoir à les supprimer et à les ajouter à nouveau.</td> 
-   <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux de conversation pour Marketo Engage Forms</a></td>
-   </tr>
+     <tr> 
+   <td><strong>Améliorations des webinaires interactifs</strong>: vous pouvez désormais fournir aux hôtes et aux présentateurs la possibilité d’ajouter un titre de webinaire, de renommer une salle et de synchroniser manuellement les données d’engagement après la diffusion de l’événement.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Métadonnées d’activité de l’API</strong>: des métadonnées telles que l’agent utilisateur, la plateforme et l’appareil sont désormais incluses dans les activités web et de courrier électronique, ce qui permet d’obtenir des informations homogènes sur ces activités via l’API REST Marketo.</td> 
+   <td><strong>Améliorations du journal d’audit</strong>: de nouveaux types d’actions peuvent désormais être capturés dans le journal d’audit pour les modifications apportées à la gestion des champs, les modifications apportées aux utilisateurs et aux rôles, ainsi que le nombre de personnes exportées à partir de listes et de listes dynamiques.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Nouvelles autorisations d’utilisateurs et de rôles</strong>: de nouvelles autorisations sont disponibles, ce qui donne aux utilisateurs un accès plus granulaire à Marketo Engage. Les parties de contrôle de l’administrateur qui n’étaient pas jusque-là sécurisées, telles que Nouvelle expérience et Audiences prédictives, partagent les autorisations pour accorder l’accès au journal d’audit des ressources et au journal d’audit de l’administrateur séparément, et utilisent de nouvelles autorisations de création et de déplacement pour les ressources et les dossiers afin d’empêcher les utilisateurs en lecture seule d’apporter des modifications.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
  </tbody> 
 </table>
 <br/>
-
-## Annonces {#announcements}
-
-* **Obtenir le correctif de l’API des membres du programme**: une modification a été apportée récemment pour corriger le comportement de la variable [Obtention des membres du programme](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} point de terminaison . Auparavant, lors de l’utilisation de la variable `updatedAt` type de filtre pour spécifier une période, il était possible que les enregistrements d’appartenance au programme mis à jour au cours de cette période n’aient pas été inclus dans la réponse. En outre, il était possible que les enregistrements d’adhésion au programme mis à jour en dehors de la période spécifiée soient incorrectement inclus dans la réponse. Les deux problèmes ont été résolus.
-
-* **Abandon du module du navigateur Insight de compte**: Adobe supprime la gestion de compte Target [Module externe de navigateur Insight de compte](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
