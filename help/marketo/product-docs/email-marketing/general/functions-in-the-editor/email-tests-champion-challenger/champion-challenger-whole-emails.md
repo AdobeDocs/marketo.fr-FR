@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359555
 description: Champion/Challenger - Emails entiers - Documents Marketo - Documentation du produit
-title: Champion/Challenger - Emails complets
+title: Champion/Challenger - Emails entiers
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Champion/Challenger : Emails complets {#champion-challenger-whole-emails}
+# Champion/Challenger : Emails entiers {#champion-challenger-whole-emails}
 
 Testez des emails entiers les uns par rapport aux autres. Lorsque le test est terminé, envoyez le meilleur performant.
 
@@ -25,7 +25,7 @@ Testez des emails entiers les uns par rapport aux autres. Lorsque le test est te
 
    >[!NOTE]
    >
-   >Souvenez-vous : L&#39;email d&#39;origine est le champion. Les concurrents sont en compétition.
+   >Rappel : L&#39;email d&#39;origine est le champion. Les concurrents sont en compétition.
 
 1. Recherchez et sélectionnez la variable **Challengers** Courriel(s), puis cliquez sur **Cloner**.
 
@@ -43,18 +43,16 @@ Testez des emails entiers les uns par rapport aux autres. Lorsque le test est te
    >
    >**Exemple**
    >
-   >Dans la distribution ci-dessus, 15 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des emails des concurrents et 85 % reçoivent le courriel du champion. Les 15 % d’adresses électroniques concurrentes sont également répartis. Lorsque le test est terminé, vous pouvez désigner un gagnant manuellement. À partir de ce moment, toutes les futures personnes recevront le contenu le plus performant.
+   >Dans la distribution ci-dessus, 15 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des emails des concurrents et 85 % reçoivent le courriel du champion. Les 15 % d’adresses électroniques concurrentes sont également répartis. Lorsque le test est terminé, vous pouvez désigner un gagnant manuellement. À partir de ce moment, toutes les futures personnes recevront le contenu le plus performant. Dans les campagnes de déclenchement, le pourcentage réalisé peut différer du pourcentage sélectionné, car la distribution peut ne pas correspondre exactement aux pourcentages choisis. Cela peut se produire lorsqu&#39;une variante traite un nombre important de personnes désinscrites ou lorsqu&#39;une variante est un email opérationnel alors que les autres ne le sont pas.
 
    Pour obtenir un degré de confiance statistique, assurez-vous que le pourcentage assigné aux challengers inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.
-
-   [Plus d’informations que jamais sur la fiabilité statistique](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
-1. Progression! Continuons !
+1. Progression ! Continuons !
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

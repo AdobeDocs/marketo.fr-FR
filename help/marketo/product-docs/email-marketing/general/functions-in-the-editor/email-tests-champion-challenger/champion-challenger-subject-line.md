@@ -4,9 +4,9 @@ description: Champion/Challenger - Objet - Documents Marketo - Documentation du 
 title: Champion/Challenger - Objet
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Vous pouvez facilement tester plusieurs objets. Lorsque le test est terminé, en
 
    >[!NOTE]
    >
-   >Dans un test d’objet, la première ligne d’objet saisie est désignée comme **Champion**. Les lignes d’objet suivantes sont appelées **Challengers**.
+   >Dans un test d’objet, la première ligne d’objet saisie est désignée comme **Champion**. Les objets suivants sont appelés **Challengers**.
 
-1. Entrez l’objet de la ou des lignes **Challengers**.
+1. Entrez l’objet du **Challengers**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -43,16 +43,16 @@ Vous pouvez facilement tester plusieurs objets. Lorsque le test est terminé, en
    >
    >**Exemple**
    >
-   >Dans la distribution illustrée ci-dessus, 10 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des emails avec l’objet challenger et 90 % des emails avec l’objet champion. Les emails avec plusieurs objets challenger partagent les 10 % de partage égal. Lorsque le test est terminé, vous pouvez désigner un gagnant manuellement. À partir de ce moment, toutes les futures personnes recevront le contenu le plus performant.
+   >Dans la distribution illustrée ci-dessus, 10 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des emails avec l’objet challenger et 90 % des emails avec l’objet champion. Les emails avec plusieurs objets challenger partagent les 10 % de partage égal. Lorsque le test est terminé, vous pouvez désigner un gagnant manuellement. À partir de ce moment, toutes les futures personnes recevront le contenu le plus performant. Dans les campagnes de déclenchement, le pourcentage réalisé peut différer du pourcentage sélectionné, car la distribution peut ne pas correspondre exactement aux pourcentages choisis. Cela peut se produire lorsqu&#39;une variante traite un nombre important de personnes désinscrites ou lorsqu&#39;une variante est un email opérationnel alors que les autres ne le sont pas.
 
-   Pour obtenir une fiabilité statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, afin que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants. [Plus d’informations que jamais sur la fiabilité statistique](https://en.wikipedia.org/wiki/Confidence_interval).
+   Pour obtenir une fiabilité statistique, assurez-vous que le pourcentage choisi inclut suffisamment de personnes, afin que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.
 
 1. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
-   Progression! Continuons !
+   Progression ! Continuons !
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
