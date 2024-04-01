@@ -4,7 +4,7 @@ title: NOUVEAU STUDIO DE CONCEPTION DE ZONE
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 11%
@@ -141,7 +141,7 @@ TABLE
 <tbody>
   <tr>
     <td>Structure de dossier</td>
-    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organisation des ressources globales</a>(c’est-à-dire des modèles d’email, d’emails, de formulaires, d’images et de fichiers, de landing page et de landing page) adaptés et faciles à rechercher.</li></td>
+    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organisation des ressources globales</a> (c’est-à-dire des modèles d’email, d’emails, de formulaires, d’images et de fichiers, de landing page et de landing page) adaptés et faciles à rechercher.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organisation des images et des fichiers à l’aide de dossiers</a></td>
   </tr>
 </tbody>
