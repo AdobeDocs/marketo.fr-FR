@@ -3,9 +3,9 @@ description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -156,7 +156,7 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    ![](assets/stream-designer-17.png)
 
-1. Saisissez un message de chatterbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un message de chatterbot et un espace réservé. Assurez-vous que l’attribut est mappé sur le champ approprié dans Marketo Engage et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
     </tr>
     <tr>
      <td style="width:30%"><strong>Mapper la réponse à l’attribut</strong></td>
-     <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement Personne de votre abonnement Marketo.</td>
+     <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement Personne de votre abonnement Marketo Engage.</td>
     </tr>
    </table>
 
