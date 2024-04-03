@@ -3,9 +3,9 @@ description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
 workflow-type: tm+mt
-source-wordcount: '1108'
+source-wordcount: '1126'
 ht-degree: 1%
 
 ---
@@ -50,7 +50,8 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  </tr>
  <tr>
   <td style="width:25%"><strong>Action</strong></td>
-  <td>Comme pour les champs masqués d’un formulaire, vous pouvez remplir n’importe quel attribut de piste ou de société avec la carte d’action <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">type de données de chaîne</a>) avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.</td>
+  <td>Comme pour les champs masqués d’un formulaire, vous pouvez remplir n’importe quel attribut de piste ou de société avec la carte d’action <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">type de données de chaîne</a>) avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.
+  <p><i>La carte Action nécessite Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat en direct</strong></td>
