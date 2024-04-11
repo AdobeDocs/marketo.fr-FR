@@ -4,9 +4,9 @@ description: Activer la synchronisation pour une entité personnalisée - Docume
 title: Activation de la synchronisation pour une entité personnalisée
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
    >
    >Vous devez désactiver temporairement la synchronisation globale pour activer ou désactiver une entité personnalisée.
 
-1. Sous Database Management, cliquez sur le bouton **[!UICONTROL Synchronisation des entités Dynamics]** lien.
+1. Sous Database Management, cliquez sur **[!UICONTROL Synchronisation des entités Dynamics]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Schéma de synchronisation]** lien.
+1. Cliquez sur **[!UICONTROL Schéma de synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser comme [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} et/ou se déclenchent dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser comme [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs (pour les enregistrements ajoutés, _not_ mise à jour) dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
@@ -60,7 +60,7 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
    >
    >Au cours du processus de synchronisation, vous pouvez remarquer que la variable[!UICONTROL Synchronisation des entités dynamiques]&quot; disparaît de l’arborescence de navigation. Ce comportement est attendu et réapparaîtra une fois la synchronisation terminée.
 
-1. L’entité comporte désormais une coche verte.
+1. L’entité dispose désormais d’une coche verte.
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
