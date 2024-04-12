@@ -1,16 +1,16 @@
 ---
-description: Présentation - Documents Marketo - Documentation du produit
-title: Vue d’ensemble
+description: Présentation de l’expérience utilisateur moderne de Marketo Engage - Documents Marketo - Documentation du produit
+title: Présentation de l’expérience utilisateur moderne Marketo Engage
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 8%
+source-wordcount: '447'
+ht-degree: 1%
 
 ---
 
-# Vue d’ensemble {#overview}
+# Présentation de l’expérience utilisateur moderne Marketo Engage {#overview}
 
 Bienvenue dans l’expérience utilisateur moderne de Adobe Marketo Engage, une interface mise à jour qui offre une convivialité améliorée et un nouvel aspect sur la plateforme du Marketo Engage.
 
