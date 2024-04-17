@@ -3,10 +3,10 @@ description: Présentation des webinaires interactifs - Documents Marketo - Docu
 title: Présentation des webinaires interactifs
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 1%
+source-wordcount: '454'
+ht-degree: 0%
 
 ---
 
@@ -47,6 +47,10 @@ Oui, vous pouvez contrôler quels utilisateurs Marketo disposent des autorisatio
 **Dois-je associer à nouveau le webinaire optimisé par Adobe Connect au programme d’événement de webinaire interactif comme avec les programmes d’événement Launchpoint ?**
 
 Non, les programmes d’événement de webinaire interactif créent l’association pour vous.
+
+**Pourquoi certains de mes prospects ont-ils un statut &quot;Erreur d’enregistrement&quot; au lieu de &quot;Enregistré&quot; ?**
+
+Si le champ &quot;prénom&quot; du prospect est vide, il ne peut pas s’inscrire au webinaire. Vous pouvez résoudre ce problème en saisissant un prénom valide.
 
 **Mes webinaires interactifs sont-ils enregistrés automatiquement ?**
 
