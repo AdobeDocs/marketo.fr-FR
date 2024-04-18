@@ -3,9 +3,9 @@ description: Présentation du flux de conversation - Documents Marketo - Documen
 title: Aperçu du flux de conversation
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 Concevez un flux de conversation et déclenchez-le pour n’importe quel visiteur en fonction d’une action spécifique (par exemple, en cliquant sur un bouton d’appel à l’action, au chargement de la page, au temps passé sur la page, etc.).
 
 ![](assets/conversational-flow-overview-1.png)
-
->[!NOTE]
->
->Les flux de conversation et les conversations en direct sont des fonctionnalités d’évaluation partagées qui ont une limite de durée de vie combinée de 100 engagements pour ceux du package Dynamic Chat Select. Lorsque cette limite est atteinte, tous les flux de conversation publiés cesseront de se déclencher et les visiteurs qui demandent à discuter avec un agent en direct recevront le message de secours global. Pour augmenter cette limite, contactez votre gestionnaire de compte pour discuter des options de mise à niveau de package.
 
 ## Dialogues et flux de conversation {#dialogues-vs-conversational-flows}
 

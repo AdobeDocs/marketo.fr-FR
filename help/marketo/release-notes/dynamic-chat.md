@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Page des notes de mise à jour standard pour Marketo Engage [peut être consult�
 
 **Date de publication : 16 avril 2024**
 
-### Les flux de conversation sont désormais disponibles pour les utilisateurs de Sélectionner un module. {#conversational-flows-select-package}
+### Flux de conversation désormais disponibles pour tous les utilisateurs {#conversational-flows-available-to-all-users}
 
-Lorsque nous avons lancé Conversational Flows l’an dernier, les membres du package Dynamic Chat Select ne pouvaient tirer parti de cette fonctionnalité qu’en testant 100 engagements de durée de vie. Désormais, tous les membres du module Sélectionner ont accès aux flux de conversation.
+Rendez vos formulaires et vos pages d’entrée plus conversationnels et raccourcissez l’entonnoir de vente en permettant aux prospects qualifiés de réserver une réunion ou discuter avec les ventes immédiatement après l’envoi d’un formulaire avec Conversational Forms, désormais entièrement disponible.&#42; pour tous les utilisateurs Dynamic Chat.
 
-Les engagements Flux de conversation vont être comptabilisés dans la limite mensuelle de 250 conversations en cours pour les utilisateurs du package Sélectionner .
+_&#42;Anciennement disponible en tant que fonctionnalité d’évaluation avec 100 engagements de durée de vie. Les engagements de flux de conversation vont désormais être pris en compte dans la limite mensuelle de 250 conversations ouvertes pour les utilisateurs du package Sélectionner ._
 
 ### Fonctions de rappel {#callback-functions}
 

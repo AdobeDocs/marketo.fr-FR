@@ -3,16 +3,16 @@ description: Présentation d’Adobe Identity Management - Documentation Marketo
 title: Présentation d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 6f9790c2243407f2622970d228c9de6be7697df6
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # Présentation d’Adobe Identity Management {#adobe-identity-management-overview}
 
-Tous les nouveaux abonnements Adobe Marketo Engage (du 31 juillet 2023 ou version ultérieure) sont intégrés au système Identity Management Adobe. Les abonnements Marketo existants sont actuellement migrés vers le système Identity Management d’Adobe lors des événements de renouvellement et/ou de recontraction. Pour le moment, les migrations en dehors d’un événement de renouvellement ou de recontraction ne sont pas prises en charge.
+Tous les nouveaux abonnements Adobe Marketo Engage (du 31 juillet 2023 ou version ultérieure) sont intégrés au système Identity Management Adobe. Les abonnements de Marketo Engage existants sont actuellement migrés vers le système Identity Management Adobe lors de tout événement de vente, qui inclut les renouvellements, les événements de recontraction et/ou les ajouts. Pour le moment, les migrations en dehors d’un événement de vente ne sont pas prises en charge.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Tous les nouveaux abonnements Adobe Marketo Engage (du 31 juillet 2023 ou versio
 Pour les abonnements intégrés à une identité Adobe, Adobe Admin Console est utilisé pour la gestion des utilisateurs. Les concepts liés aux identités, tels que l’authentification unique, sont également gérés dans le Admin Console.
 
 * En savoir plus sur les [Adobe Admin Console](https://helpx.adobe.com/fr/enterprise/using/admin-console.html){target="_blank"}.
-* En savoir plus sur [configuration de votre organisation d’Adobe associée à votre abonnement Marketo](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+* En savoir plus sur [configuration de votre organisation d’Adobe associée à votre abonnement Marketo](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >

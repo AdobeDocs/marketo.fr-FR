@@ -3,9 +3,9 @@ description: Présentation de la messagerie instantanée - Documents Marketo - D
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Le chat en direct permet aux visiteurs du site Web de discuter en temps réel av
 
 >[!NOTE]
 >
->Les flux de conversation et les conversations en direct sont des fonctionnalités d’évaluation partagées qui ont une limite de durée de vie combinée de 100 engagements pour ceux du package Dynamic Chat Select. Lorsque cette limite est atteinte, tous les flux de conversation publiés cesseront de se déclencher et les visiteurs qui demandent à discuter avec un agent en direct recevront le message de secours global. Pour augmenter cette limite, contactez votre gestionnaire de compte pour discuter des options de mise à niveau de package.
+>Pour les utilisateurs du module Sélection du Dynamic Chat, le chat en direct est une fonctionnalité d’évaluation dont la durée de vie est limitée à 100 engagements. Lorsque cette limite est atteinte, les visiteurs qui souhaitent discuter avec un agent en direct ne sont pas connectés et recevront à la place le message de secours global. Pour augmenter cette limite, contactez votre gestionnaire de compte Adobe pour discuter des options de mise à niveau du package.
 
 ## Ajout d’agents de messagerie instantanée {#add-live-chat-agents}
 
