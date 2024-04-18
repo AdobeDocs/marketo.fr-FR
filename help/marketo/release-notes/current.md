@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '356'
 ht-degree: 14%
 
 ---
@@ -29,17 +29,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
   </tr>
-   <tr> 
-   <td><strong>Modèles de webinaires interactifs</strong>: gagnez du temps en créant des modèles personnalisés pour les mises en page d’salles dotées de spécifications adaptées à votre entreprise.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Améliorations des webinaires interactifs</strong>: vous pouvez désormais fournir aux hôtes et aux présentateurs la possibilité d’ajouter un titre de webinaire, de renommer une salle et de synchroniser manuellement les données d’engagement après la diffusion de l’événement.</td> 
    <td><i>Disponible bientôt</i></td>

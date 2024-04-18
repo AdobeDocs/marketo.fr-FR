@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 3%
@@ -135,7 +135,7 @@ Les activités marketing hébergent toutes les ressources et le contenu qui cons
   <tr>
     <td>Confidentialité et conformité</td>
     <td><li>Créez des programmes pour vous assurer que vous êtes conforme aux lois sur la confidentialité des données et sur le spam, telles que <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">RGPD, CASL, CAN-SPAM, CCPA, etc.</a></li>
-    <br>Remarque : pensez toujours à consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications. </td>
+    <br>Remarque : pensez toujours à consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
   <tr>
     <td>Cycle de vie</td>
