@@ -4,9 +4,9 @@ title: NOUVEAU STUDIO DE CONCEPTION DE ZONE
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '309'
 ht-degree: 7%
 
 ---
@@ -28,8 +28,7 @@ Texte...
   <tr>
     <td>Pages de destination internationales</td>
     <td><li>Créer des pages d’entrée globales (forme libre/guidée).</li>
-    <li>Créez une page de test pour tester A/B avec le modèle de page d’entrée gagnante (le cas échéant).</li>
-    <li>Configurez la Landing Page de votre centre d’abonnements dans Marketo Engage (le cas échéant).</li></td>
+    <li>Créez une page de test pour tester A/B avec le modèle de page d’entrée gagnante (le cas échéant).</li></td>
   </tr>
   <tr>
     <td>Modèles</td>
@@ -37,7 +36,7 @@ Texte...
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Inclure le pied de page approprié à l’aide <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Extraits de code</a> ou Jetons dans les landing pages pour la conformité en matière de confidentialité.</li></td>
+    <td><li>Créez un pied de page à l’aide de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Extraits de code</a> ou Jetons dans vos pages d’entrée pour respecter la confidentialité.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +53,7 @@ Texte...
 <tbody>
   <tr>
     <td>Formulaires internationaux</td>
-    <td><li>Configuration <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">formulaires globaux</a> pour des cas d’utilisation tels que les préférences d’abonnement, le téléchargement de contenu sécurisé, la demande de démonstration, l’enregistrement de webinaires, etc.</li></td>
+    <td><li>Configuration <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formulaires globaux</a> pour des cas d’utilisation tels que les préférences d’abonnement, les téléchargements de contenu sécurisé, les demandes de démonstration, les inscriptions au webinaire, etc.</li></td>
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
@@ -62,7 +61,7 @@ Texte...
   </tr>
   <tr>
     <td>Normalisation des données</td>
-    <td><li>Envisagez d’appliquer des listes de sélection à la variable <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">champs de formulaire</a> plutôt que d’ouvrir des champs de texte pour empêcher les données désordonnées.</li></td>
+    <td><li>Envisagez d’appliquer des listes de sélection à la variable <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">champs de formulaire</a> plutôt que d’ouvrir des champs de texte pour empêcher les données désordonnées.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,12 +82,12 @@ Texte...
   </tr>
   <tr>
     <td>Modèles</td>
-    <td><li>Conception d’un module <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">modèle de courrier électronique</a> avec un concepteur/développeur ou insérez votre propre HTML.</li>
-    <li>Créez un modèle d’email testé afin de tester le modèle d’email gagnant (le cas échéant).</li></td>
+    <td><li>Conception d’un module <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">modèle de courrier électronique</a> avec un concepteur/développeur ou utilisez votre propre HTML.</li>
+    <li>Créez un modèle d’email testé afin de tester le modèle gagnant (le cas échéant).</li></td>
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">Ajout de fragments de code</a> vos modèles de courrier électronique pour contrôler les blocs réutilisables tels que l’année de copyright, l’emplacement global et la langue spécifique à la conformité. Ajoutez des jetons pour personnaliser le contenu en fonction de l’audience cible.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Ajout de fragments de code</a> à vos modèles de courrier électronique pour contrôler les blocs réutilisables tels que l’année de copyright, l’emplacement global et la langue spécifique à la conformité. Ajoutez des jetons pour personnaliser le contenu en fonction de l’audience cible.</li></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +104,7 @@ Texte...
 <tbody>
   <tr>
     <td>Extraits</td>
-    <td><li>Créer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Extraits de code</a> pour créer des blocs de contenu réutilisables pouvant être utilisés pour plusieurs cas d’utilisation, tels que des coordonnées, des liens vers les médias sociaux, des informations sur la marque, ainsi que des notes de confidentialité et de conformité dans vos emails et landing pages.</li></td>
+    <td><li>Créer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Extraits de code</a> afin de disposer de blocs de contenu réutilisables pouvant être utilisés pour plusieurs cas d’utilisation, tels que les coordonnées, les liens vers les médias sociaux, les informations sur la marque, ainsi que les notes de confidentialité et de conformité dans vos emails et vos landing pages.</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +141,7 @@ Texte...
 <tbody>
   <tr>
     <td>Structure de dossier </td>
-    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organisation des ressources globales</a> (par exemple, flux conversationnel, modèles d’email, emails, formulaires, images et fichiers, pages d’entrée, modèles de page d’entrée, fragments de code) de manière appropriée et facile à rechercher.</li></td>
+    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organisation des ressources globales</a> (par exemple, flux de conversation, modèles d’email, emails, formulaires, images et fichiers, pages d’entrée, modèles de page d’entrée, fragments de code, etc.) de manière appropriée.</li></td>
   </tr>
 </tbody>
 </table>
