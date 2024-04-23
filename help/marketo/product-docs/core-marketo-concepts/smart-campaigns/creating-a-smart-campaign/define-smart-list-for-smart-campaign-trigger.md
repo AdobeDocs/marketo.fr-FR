@@ -4,9 +4,9 @@ description: Définition d’une liste dynamique pour Smart Campaign | Déclench
 title: Définition d’une liste dynamique pour Smart Campaign | Déclencheur
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Définition d’une liste dynamique pour Smart Campaign | Déclencheur {#define-smart-list-for-smart-campaign-trigger}
 
 Effectuez une exécution de campagne dynamique sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs.
+
+>[!CAUTION]
+>
+>La modification d’une campagne active à l’étape Liste dynamique ou Flux peut potentiellement interrompre ses fonctionnalités. Si vous choisissez de le faire, faites preuve de prudence.
 
 1. Dans votre campagne dynamique, cliquez sur le bouton **[!UICONTROL Liste dynamique]** .
 

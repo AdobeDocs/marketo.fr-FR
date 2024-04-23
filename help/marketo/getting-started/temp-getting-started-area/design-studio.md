@@ -4,7 +4,7 @@ title: NOUVEAU STUDIO DE CONCEPTION DE ZONE
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 7%
@@ -20,8 +20,8 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Éléments d’action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>
@@ -47,8 +47,8 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Éléments d’action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>
@@ -72,8 +72,8 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>
@@ -98,8 +98,8 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>
@@ -115,8 +115,8 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Éléments d’action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>
@@ -135,8 +135,8 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Éléments d’action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>

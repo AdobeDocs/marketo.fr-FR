@@ -4,9 +4,9 @@ description: Définition d’une liste dynamique pour Smart Campaign | Lot - Doc
 title: Définition d’une liste dynamique pour Smart Campaign | Lot
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Définition d’une liste dynamique pour Smart Campaign | Lot {#define-smart-list-for-smart-campaign-batch}
 
 Les listes dynamiques sont le mécanisme qui permet, dans tout le Marketo Engage, de définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne dynamique. Voici comment définir une liste dynamique pour une campagne par lots.
+
+>[!CAUTION]
+>
+>La modification d’une campagne active à l’étape Liste dynamique ou Flux peut potentiellement interrompre ses fonctionnalités. Si vous choisissez de le faire, faites preuve de prudence.
 
 1. Choisissez une campagne dynamique, puis cliquez sur **[!UICONTROL Liste dynamique]**.
 

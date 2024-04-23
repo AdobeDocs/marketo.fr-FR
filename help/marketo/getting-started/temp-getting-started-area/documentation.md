@@ -4,7 +4,7 @@ title: NOUVELLE DOCUMENTATION DE L’INSTANCE DE ZONE
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 2%
@@ -20,15 +20,15 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Éléments d’action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Importer une liste</td>
-    <td><li>Collecte d’une liste de sources de données dont les enregistrements seront extraits de vers <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people" target="_blank" rel="noopener noreferrer">import dans Marketo Engage</a>.</li>
-    <li>Si vous importez depuis plusieurs sources de données, pensez à utiliser des listes de Principal ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank" rel="noopener noreferrer">création d’un champ personnalisé</a> sur l’enregistrement de la personne pour indiquer la source de données.</li></td>
+    <td><li>Collecte d’une liste de sources de données dont les enregistrements seront extraits de vers <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people" target="_blank">import dans Marketo Engage</a>.</li>
+    <li>Si vous importez depuis plusieurs sources de données, pensez à utiliser des listes de Principal ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">création d’un champ personnalisé</a> sur l’enregistrement de la personne pour indiquer la source de données.</li></td>
   </tr>
   <tr>
     <td>Intégration de base de données</td>
@@ -42,28 +42,28 @@ Texte...
 <table>
 <thead>
   <tr>
-    <th>Zone</th>
-    <th>Éléments d’action</th>
+    <th style="width:20%">Zone</th>
+    <th style="width:80%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Utilisateurs et utilisatrices</td>
-    <td><li>Document <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank" rel="noopener noreferrer">utilisateurs actuels</a> dans votre instance pour des raisons de sécurité. Les détails suivants doivent être inclus au minimum (et sont tous visibles en accédant à Adobe Admin Console &gt; Utilisateurs) :</li>
+    <td><li>Document <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utilisateurs actuels</a> dans votre instance pour des raisons de sécurité. Les détails suivants doivent être inclus au minimum (et sont tous visibles en accédant à Adobe Admin Console &gt; Utilisateurs) :</li>
     <br>Nom
     <br>Email
     <br>Type d’ID
     <br>Profil(s) de produit
     <p>
-    <li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, envisagez <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank" rel="noopener noreferrer">chargement du fichier .csv</a> en bloc.</li></td>
+    <li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, envisagez <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank">chargement du fichier .csv</a> en bloc.</li></td>
   </tr>
   <tr>
     <td>Entreprise</td>
-    <td><li>Documentez la structure de dossiers convenue, les conventions d’attribution de noms standard pour les programmes, les ressources, etc., et les raisons pour lesquelles les décisions ont été prises. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank" rel="noopener noreferrer">Découvrez les bonnes pratiques ici.</a></li></td>
+    <td><li>Documentez la structure de dossiers convenue, les conventions d’attribution de noms standard pour les programmes, les ressources, etc., et les raisons pour lesquelles les décisions ont été prises. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Découvrez les bonnes pratiques ici.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Créez un fichier de modification dans lequel vous pouvez documenter les modifications apportées à votre instance et les raisons de ces modifications. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank" rel="noopener noreferrer">Découvrez les bonnes pratiques ici.</a></li></td>
+    <td><li>Créez un fichier de modification dans lequel vous pouvez documenter les modifications apportées à votre instance et les raisons de ces modifications. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Découvrez les bonnes pratiques ici.</a></li></td>
   </tr>
   <tr>
     <td>Livres</td>
