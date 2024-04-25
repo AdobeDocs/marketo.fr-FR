@@ -3,9 +3,9 @@ description: Présentation des webinaires interactifs - Documents Marketo - Docu
 title: Présentation des webinaires interactifs
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
+source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ Non, les programmes d’événement de webinaire interactif créent l’associat
 **Pourquoi certains de mes prospects ont-ils un statut &quot;Erreur d’enregistrement&quot; au lieu de &quot;Enregistré&quot; ?**
 
 Si le champ &quot;prénom&quot; du prospect est vide, il ne peut pas s’inscrire au webinaire. Vous pouvez résoudre ce problème en saisissant un prénom valide.
+
+**Je rencontre des problèmes audio/vidéo lors de la présentation d’un webinaire lors de l’accès au VPN de mon entreprise. Que dois-je faire ?**
+
+Adobe Connect, la plateforme de diffusion des webinaires interactifs, utilise WebRTC pour le partage audio/vidéo/écran. Il est probable que le pare-feu réseau de votre entreprise bloque les adresses/ports IP que nous utilisons pour la communication basée sur WebRTC. Votre équipe informatique doit autoriser ces ports pour que WebRTC fonctionne. [En savoir plus](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Mes webinaires interactifs sont-ils enregistrés automatiquement ?**
 
