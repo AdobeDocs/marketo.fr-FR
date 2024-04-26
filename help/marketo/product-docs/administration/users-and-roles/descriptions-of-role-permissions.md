@@ -4,10 +4,10 @@ description: Descriptions des autorisations de rôle - Documents Marketo - Docum
 title: Descriptions des autorisations de rôle
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
 workflow-type: tm+mt
-source-wordcount: '1137'
-ht-degree: 19%
+source-wordcount: '1421'
+ht-degree: 16%
 
 ---
 
@@ -23,20 +23,26 @@ Informations supplémentaires sur les autorisations :
 
 ## Autorisations disponibles {#available-permissions}
 
-Lorsque vous [création ou modification d’un rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), vous pouvez sélectionner l’une des autorisations suivantes pour autoriser ce rôle en cochant les cases appropriées.
+Lorsque vous [créer ou modifier un rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), vous pouvez sélectionner l’une des autorisations suivantes pour autoriser ce rôle en cochant les cases appropriées.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
-## Accès admin  {#access-admin}
+## Accès administrateur  {#access-admin}
 
 Affichez et apportez des modifications aux paramètres dans la section Mon compte de l’administrateur.
 
+* Accès à Adobe Connect : permet aux utilisateurs d’accéder à l’écran Adobe Connect.
+* Accès à Adobe Experience Manager&#42; - Donne aux utilisateurs l’accès à l’écran Adobe Experience Manager
+* Mappage de l’organisation d’accès&#42; - Donne aux utilisateurs l’accès à l’écran Mappage de l’organisation Adobe
+* Accéder au journal d’audit de l’administrateur&#42; - Donne aux utilisateurs l’accès à l’écran Journal d’audit d’administration
+* Accéder au journal d’audit d’accès&#42; - Donne aux utilisateurs l’accès au journal d’audit d’accès
 * Accéder au journal d’audit : permet aux utilisateurs d’accéder au journal d’audit des ressources et au journal d’audit de l’administrateur.
+* Accès à CAPTCHA - Accès à l’écran CAPTCHA
 * Accès aux canaux : permet aux utilisateurs d’accéder uniquement à la balise Channel et non à d’autres balises personnalisées.
 * Limite de communication d’accès : permet aux utilisateurs d’activer une limite de communication dans Admin
 * Accès au CRM : permet aux utilisateurs d’accéder au CRM, tel que [!DNL Salesforce] ou [!DNL Microsoft Dynamics], dans Admin
-* Accès [[!DNL Data.com]](https://Data.com) - Donne aux utilisateurs l’accès à l’action de flux Data.com
-* Accès à l’administrateur des courriers électroniques : permet aux utilisateurs de modifier les paramètres par défaut, tels que le désabonnement et les domaines de marque.
+* Accès [[!DNL Data.com]](https://data.com) - Donne aux utilisateurs l’accès à l’action de flux Data.com
+* Accès à l’administrateur des courriers électroniques : permet aux utilisateurs d’accéder à l’administrateur des courriers électroniques pour modifier les paramètres par défaut, tels que le désabonnement et les domaines de marque.
 * Accès aux partenaires d’événement : permet aux utilisateurs d’accéder à LaunchPoint dans Admin.
 * Gestion des champs d’accès : permet aux utilisateurs d’accéder à la gestion des champs dans Admin.
 * Accéder au téléchargement de fichier : permet aux utilisateurs de charger des images et des fichiers dans Design Studio.
@@ -44,20 +50,24 @@ Affichez et apportez des modifications aux paramètres dans la section Mon compt
 * Emplacement d’accès : permet aux utilisateurs d’accéder à l’emplacement dans l’administration pour définir la langue, le paramètre régional, le fuseau horaire et la devise par défaut.
 * Historique de connexion des accès : permet aux utilisateurs d’accéder à l’historique de connexion des utilisateurs dans le journal d’audit
 * Paramètres de connexion d’accès : permet aux utilisateurs d’accéder aux paramètres de connexion dans les paramètres Administration pour la sécurité, les restrictions d’IP et les rapports de liste dynamique.
+* Accès à une nouvelle expérience&#42; - Donne aux utilisateurs l’accès à l’écran Nouvelle expérience
 * Accès à l’activité personnalisée Marketo - Donne aux utilisateurs l’accès aux activités personnalisées Marketo dans Admin
 * Accès à l’objet personnalisé de Marketo - Donne aux utilisateurs l’accès aux objets personnalisés de Marketo dans Admin
 * Accès [!DNL Munchkin] - Accès des utilisateurs GI à [!DNL Munchkin] dans Admin, pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API
+* Accès aux audiences prédictives&#42; - Donne aux utilisateurs l’accès à l’écran Predictive Audiences
 * Accès à Revenue Cycle Analytics : permet aux utilisateurs d’accéder à Revenue Cycle Analytics dans l’administration pour définir le résumé de synchronisation et l’attribution.
-* Rôles d’accès : donne aux utilisateurs l’accès à la gestion et à la modification des rôles, mais pas aux utilisateurs.
+* Rôles d’accès : permet aux utilisateurs de gérer et de modifier des rôles, mais pas aux utilisateurs.
 * Accès à Sales Insight : permet aux utilisateurs de gérer Sales Insight dans Admin pour définir l’état, la configuration de l’API, la notation des personnes et d’autres paramètres.
 * Connexion unique : permet aux utilisateurs de gérer l’authentification unique dans Admin pour activer SAML et utiliser les paramètres SAML et les URL de page de redirection.
 * Accéder à la campagne dynamique : permet aux utilisateurs d’accéder à la campagne dynamique dans l’administration pour limiter les limitations sur les personnes qualifiées.
 * Accès à l’API SOAP : permet aux utilisateurs d’accéder à la gestion des API SOAP dans les services web dans Admin.
 * Accéder aux balises : permet aux utilisateurs d’accéder à toutes les balises personnalisées, à l’exception de la balise Canal.
-* Accéder à la poitrine au trésor : donne aux utilisateurs l’accès aux fonctionnalités expérimentales de la poitrine au trésor dans l’administration
+* Accéder à la poitrine au trésor : donne aux utilisateurs accès aux fonctionnalités expérimentales de la poitrine au trésor dans l’administration
 * Accès aux utilisateurs : donne aux utilisateurs l’accès à la modification et à la gestion des utilisateurs (mais pas aux rôles) dans l’administration.
 * Accès aux webhooks : permet aux utilisateurs de se connecter aux webhooks dans Admin pour définir les détails et les mappages de réponse.
 * Accéder aux espaces de travail et aux partitions : permet aux utilisateurs de créer, modifier et supprimer des espaces de travail et des partitions dans Admin.
+
+_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
 
 ## Accéder à l’API  {#access-api}
 
@@ -91,8 +101,11 @@ Donne aux utilisateurs l’accès au **API uniquement** **Rôle** accès aux dif
 Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques sur les e-mails, aux rapports et aux trois éléments ci-dessous, sauf s’ils ne sont pas cochés.
 
 * Accéder à l’Explorateur des recettes : la désactivation supprime l’accès de l’utilisateur à l’Explorateur des recettes.
+* Créer un rapport&#42; - Permet aux utilisateurs d’accéder à la création, au clonage, à la lecture, à la mise à jour et au déplacement de ressources de rapport dans Analytics et les activités marketing, ainsi que dans les ressources de modélisation de cycle du revenu.
 * Supprimer le rapport : la désélection supprime la possibilité pour l’utilisateur de supprimer des rapports.
 * Exportation des données Analytics : la désélection supprime la possibilité pour l’utilisateur d’exporter des données Analytics.
+
+_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
 
 ## Accéder aux présentations du calendrier {#access-calendar-presentations}
 
@@ -104,50 +117,50 @@ Donne aux utilisateurs l’accès aux présentations du calendrier : permet d’
 
 Permet aux utilisateurs d’accéder à l’onglet Design Studio et à la vue de l’arborescence, mais pas aux détails.
 
-* Accès e-mail
+* Accès aux e-mails
    * Modifier le courrier électronique : permet aux utilisateurs de modifier, créer et cloner des courriers électroniques.
       * Rendre le message électronique opérationnel : permet aux utilisateurs de rendre un message électronique opérationnel. Voir : [Rendre un message électronique opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Valider le courrier électronique : permet aux utilisateurs d’approuver les courriers électroniques.
       * Supprimer le courrier électronique : permet aux utilisateurs de supprimer des courriers électroniques.
-      * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajout d’un domaine de marque supplémentaire](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajouter un domaine de marque supplémentaire](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
-* Accès modèle d&#39;e-mail
+* Accès au modèle d&#39;e-mail
 
-   * Approuver modèle d&#39;e-mail
-   * Supprimer modèle d&#39;e-mail
+   * Approuver le modèle d&#39;e-mail
+   * Supprimer le modèle d&#39;e-mail
    * Modifier le modèle de courrier électronique : modifiez, créez et clonez des modèles de courrier électronique.
 
-* Accès formulaire
+* Accès au formulaire
 
    * Approuver le formulaire
-   * Supprimer formulaire
+   * Supprimer le formulaire
    * Modifier le formulaire : modifiez, créez et clonez des formulaires.
 
-* Accès image
+* Accès aux images
 
-   * Supprimer image
+   * Supprimer l&#39;image
    * Télécharger l&#39;image
 
-* Accès page de destination
+* Accès à la page de destination
 
-   * Approuver page de destination
-   * Supprimer page de destination
+   * Approuver la page de destination
+   * Supprimer la page de destination
    * Modifier la page d’entrée : modifiez, créez et clonez des pages d’entrée.
 
-* Accès modèle de page de destination
+* Accès au modèle de page de destination
 
-   * Approuver modèle page de destination
-   * Supprimer modèle page de destination
-   * Modifier le modèle de page d’entrée : modifiez, créez et clonez des modèles de page d’entrée.
+   * Approuver le modèle de page de destination
+   * Supprimer le modèle de page de destination
+   * Modifier le modèle de landing page : modifiez, créez et clonez des modèles de landing page.
 
-* Accès extrait
+* Accès à l&#39;extrait
 
-   * Approuver extrait
-   * Supprimer extrait
-   * Modifier extrait
+   * Approuver l&#39;extrait
+   * Supprimer l’extrait
+   * Modifier l’extrait
 
-* Accéder à l&#39;application sociale
+* Accès à l&#39;application sociale
 
    * Approuver l&#39;application sociale
    * Supprimer l&#39;application sociale
@@ -157,24 +170,29 @@ Permet aux utilisateurs d’accéder à l’onglet Design Studio et à la vue de
 
 Visualisez la base de données et affichez et modifiez des listes dynamiques/statiques.
 
-* Accès segmentation
+* Accès à la segmentation
 
-   * Approuver segmentation
-   * Supprimer segmentation
-   * Modifier segmentation
+   * Approuver la segmentation
+   * Supprimer la segmentation
+   * Modifier la segmentation
 
 * Supprimer individu
-* Supprimer liste
-* Modifier la personne : empêche la modification et l’exécution manuelles d’étapes à flux unique ; vous pouvez toujours modifier des personnes en exécutant des campagnes contre elles.
+* Créer une liste&#42;
+   * Accès à la création d’une ressource de liste dans la base de données et les activités marketing
+   * Accès à la création d’une ressource de liste dynamique dans la base de données et les activités marketing
+* Supprimer une liste
+* Modifier la personne : empêche la modification manuelle et l’exécution des étapes d’un seul flux ; vous pouvez toujours modifier les personnes en exécutant des campagnes contre elles.
 * Exporter une personne : exportez des feuilles de calcul à partir de vos listes de base de données.
 * Importer l’objet personnalisé
-* Importer la Liste
+* Importer la liste
 * Fusionner les personnes
 * Exécuter des actions de flux unique : permet aux utilisateurs de s’exécuter. **Modifier la valeur des données** étape de flux sur les personnes de la base de données
 
 * Afficher les données d’opportunité : masque les informations d’opportunité sur la page des détails de la personne.
 
-## Accès activité marketing {#access-marketing-activities}
+_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+
+## Accès aux activités marketing {#access-marketing-activities}
 
 Affichez l’onglet Activités marketing, les campagnes et les dossiers de campagnes.
 
@@ -187,16 +205,17 @@ Affichez l’onglet Activités marketing, les campagnes et les dossiers de campa
 * Accéder à la notification Push
 
    * Approuver la notification Push
-   * Supprimer une notification Push
+   * Supprimer la notification Push
    * Modifier la notification Push
 
 * Accéder aux récompenses
 * Activer la campagne à déclencheurs
 * Approuver le programme de messagerie électronique
 * Reproduire une ressource marketing
-* Supprimer ressource marketing
+* Supprimer la ressource marketing
 * Modifier les restrictions de la campagne
-* Modifier ressource marketing
+* Modifier la ressource marketing
+* Exporter l’activité de campagne&#42;
 * Importer le programme
 * Importer une liste
 * Programmer une campagne par lot
@@ -204,7 +223,9 @@ Affichez l’onglet Activités marketing, les campagnes et les dossiers de campa
 Accéder à la SEO
 
 * Gérer une SEO
-* SEO standard
+* Standard SEO
+
+_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
 
 ## Ciblage et personnalisation {#targeting-and-personalization}
 
