@@ -4,9 +4,9 @@ description: Descriptions des autorisations de rôle - Documents Marketo - Docum
 title: Descriptions des autorisations de rôle
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
+source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 16%
 
 ---
@@ -67,7 +67,7 @@ Affichez et apportez des modifications aux paramètres dans la section Mon compt
 * Accès aux webhooks : permet aux utilisateurs de se connecter aux webhooks dans Admin pour définir les détails et les mappages de réponse.
 * Accéder aux espaces de travail et aux partitions : permet aux utilisateurs de créer, modifier et supprimer des espaces de travail et des partitions dans Admin.
 
-_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
 
 ## Accéder à l’API  {#access-api}
 
@@ -105,7 +105,7 @@ Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques sur le
 * Supprimer le rapport : la désélection supprime la possibilité pour l’utilisateur de supprimer des rapports.
 * Exportation des données Analytics : la désélection supprime la possibilité pour l’utilisateur d’exporter des données Analytics.
 
-_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
 
 ## Accéder aux présentations du calendrier {#access-calendar-presentations}
 
@@ -190,7 +190,7 @@ Visualisez la base de données et affichez et modifiez des listes dynamiques/sta
 
 * Afficher les données d’opportunité : masque les informations d’opportunité sur la page des détails de la personne.
 
-_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
 
 ## Accès aux activités marketing {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Accéder à la SEO
 * Gérer une SEO
 * Standard SEO
 
-_&#42;Cette autorisation est introduite en mode passif et n’est pas accessible pour le moment, afin d’éviter toute interruption pour les utilisateurs existants. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
 
 ## Ciblage et personnalisation {#targeting-and-personalization}
 
