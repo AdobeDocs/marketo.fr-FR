@@ -2,10 +2,10 @@
 description: Promotion d’un webinaire interactif - Documents Marketo - Documentation du produit
 title: Promotion d’un webinaire interactif
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ Vous pouvez utiliser des jetons pour inclure l’URL du webinaire aux membres in
 Des liens sont disponibles sur le côté droit de l’onglet Aperçu de votre programme d’événement pour créer une page d’entrée ainsi qu’une campagne par courrier électronique. Le reste des promotions liées à un événement reste identique aux webinaires des partenaires qui utilisent l’intégration Launchpoint.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+Les webinaires interactifs vous permettent de solliciter une inscription avant, pendant ou après un webinaire. Dans tous les cas, il vous suffit de partager l’URL du webinaire avec l’prospect. Un clic sur le lien avant le début du webinaire les envoie à une page d’entrée de pré-webinaire. Un clic dessus pendant le webinaire les conduit au webinaire en cours. Cliquez dessus après le webinaire pour enregistrer le webinaire.

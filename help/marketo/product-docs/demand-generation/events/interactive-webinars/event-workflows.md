@@ -3,9 +3,9 @@ description: Processus des événements - Documents Marketo - Documentation du p
 title: Workflows des événements
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Une fois le webinaire terminé, accédez à l’onglet Tableau de bord pour affi
 >[!NOTE]
 >
 >Si le webinaire n&#39;a pas été terminé ou que les données n&#39;ont pas été reçues pour une raison quelconque, l&#39;onglet Tableau de bord ne sera pas encore disponible.
+
+## Synchronisation manuelle {#manual-sync}
+
+Les webinaires interactifs vous permettent d’obtenir les données d’engagement de votre webinaire auprès d’Adobe Connect si vous ne les avez pas reçues automatiquement dans les deux heures suivant la fin du webinaire. Un bouton &quot;Synchroniser maintenant&quot; s’affiche dans la page Aperçu. Cliquer **Synchroniser maintenant** déclenche une extraction à partir d’Adobe Connect pour renseigner les données dans Marketo Engage. Une fois la synchronisation effectuée, le bouton disparaît et l’onglet Tableau de bord devient renseigné.
 
 ## Widgets de tableau de bord {#dashboard-widgets}
 
