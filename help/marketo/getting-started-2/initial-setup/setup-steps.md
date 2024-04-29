@@ -4,9 +4,9 @@ title: Étapes de configuration
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
+source-wordcount: '1735'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ La première partie (en gras) est la `[LandingPageCNAME]`. Vous en aurez besoin 
 
 Pour récupérer l’ID Munchkin que vous allez remplacer par votre CNAME de page d’entrée, accédez à la zone d’administration.
 
-![](assets/setup-steps-9.png)
+CAPTURE D’ÉCRAN : setup-steps-9.png
 
 Cliquez sur **Mon compte**.
 
-![](assets/setup-steps-10.png)
+CAPTURE D’ÉCRAN : setup-steps-10.png
 
 Copiez le [!UICONTROL Chaîne de compte] dans les paramètres de la landing page.
 
-![](assets/setup-steps-11.png)
+CAPTURE D’ÉCRAN : setup-steps-11.png
 
 Il s’agit de la variable `[Munchkin ID]`. Enregistrez-le. Vous devrez le donner au service informatique à l’étape 5.
 
@@ -100,17 +100,17 @@ La première partie est le CNAME de tracking des emails, `[EmailTrackingCNAME]`.
 
 Pour trouver votre lien de suivi Marketo, accédez au **[!UICONTROL Administration]** zone.
 
-![](assets/setup-steps-12.png)
+CAPTURE D’ÉCRAN : setup-steps-12.png
 
 Cliquez sur **[!UICONTROL Email]**.
 
-![](assets/setup-steps-13.png)
+CAPTURE D’ÉCRAN : setup-steps-13.png
 
 Copiez le [!UICONTROL Lien de suivi] de vos paramètres de courrier électronique.
 
 La variable [!UICONTROL Lien de suivi] est au format : `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+CAPTURE D’ÉCRAN : setup-steps-14.png
 
 C&#39;est votre `[MktoTrackingLink]`. Enregistrez-le. Vous devrez le donner au service informatique à l’étape 5.
 
@@ -215,35 +215,35 @@ Une fois les tâches du service informatique terminées, procédez comme suit po
 
 Accédez au **[!UICONTROL Administration]** zone pour ajouter votre CNAME de page d’entrée
 
-![](assets/setup-steps-15.png)
+CAPTURE D’ÉCRAN : setup-steps-15.png
 
 Sélectionnez Landing Pages , puis cliquez sur **[!UICONTROL Modifier]** dans le [!UICONTROL Paramètres] zone.
 
-![](assets/setup-steps-16.png)
+CAPTURE D’ÉCRAN : setup-steps-16.png
 
 Entrez votre nouveau nom de domaine dans le champ . **[!UICONTROL Nom de domaine pour les pages d’entrée]**. Cela doit se présenter comme suit :
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+CAPTURE D’ÉCRAN : setup-steps-17.png
 
 Dans le **[!UICONTROL Secours]** , saisissez l’URL à laquelle vous souhaitez que les utilisateurs accèdent en cas d’indisponibilité d’une landing page. Vous pouvez utiliser la page d’accueil de votre société si vous ne disposez pas d’une page de secours. Dans le **[!UICONTROL Page d’accueil]** , saisissez le site web de votre société.
 
-![](assets/setup-steps-18.png)
+CAPTURE D’ÉCRAN : setup-steps-18.png
 
 Dans le [!UICONTROL Administration] zone, sélectionnez **[!UICONTROL Email]** pour ajouter votre CNAME de messagerie
 
-![](assets/setup-steps-19.png)
+CAPTURE D’ÉCRAN : setup-steps-19.png
 
 Faites défiler jusqu’à [!UICONTROL Domaines de marque]. Sélectionnez votre domaine et cliquez sur **[!UICONTROL Modifier]**.
 
-![](assets/setup-steps-20.png)
+CAPTURE D’ÉCRAN : setup-steps-20.png
 
 Dans le champ Domaine , saisissez votre domaine de tracking email. Cela doit se présenter comme suit :
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**.
 
-![](assets/setup-steps-21.png)
+CAPTURE D’ÉCRAN : setup-steps-21.png
 
 ## Intégration de votre CRM {#integrate-your-crm}
 
