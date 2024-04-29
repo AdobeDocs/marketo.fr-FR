@@ -1,11 +1,12 @@
 ---
-description: Centre d’aide - Documents Marketo - Documentation du produit
+description: Centre d’aide - Documents Marketo Engage - Documentation du produit
 title: Centre dʼaide
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
@@ -18,39 +19,39 @@ Le centre d’aide de Adobe Marketo Engage est un emplacement centralisé où vo
 
 Une fois connecté à Marketo Engage, cliquez sur l’icône Aide .
 
-![](assets/help-center-1.png)
+CAPTURE D’ÉCRAN
 
 ### Guides {#guides}
 
 Les guides permettent de découvrir rapidement les fonctionnalités les plus populaires.
 
-![](assets/help-center-2.png)
+CAPTURE D’ÉCRAN
 
 1. Cliquez sur le guide de votre choix pour l’afficher.
 
-   ![](assets/help-center-3.png)
+CAPTURE D’ÉCRAN
 
 1. Cliquez sur **Prise en main**.
 
-   ![](assets/help-center-4.png)
+CAPTURE D’ÉCRAN
 
 1. Cliquez sur **Suivant** pour continuer.
 
-   ![](assets/help-center-5.png)
+CAPTURE D’ÉCRAN
 
 1. Cliquez sur **Terminé** pour quitter la présentation.
 
-   ![](assets/help-center-6.png)
+CAPTURE D’ÉCRAN
 
-   >[!TIP]
-   >
-   >Quittez le guide à tout moment en cliquant sur **Ignorer**.
+>[!TIP]
+>
+>Quittez le guide à tout moment en cliquant sur **Ignorer**.
 
 ### Nouveautés {#whats-new}
 
 L’onglet Nouveautés contient les détails complets de la dernière version du Marketo Engage.
 
-![](assets/help-center-7.png)
+CAPTURE D’ÉCRAN
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ L’onglet Nouveautés contient les détails complets de la dernière version du
 
 L’onglet Ressources vous donne un accès rapide et direct à différentes méthodes pour obtenir de l’aide supplémentaire sur votre instance de Marketo Engage.
 
-![](assets/help-center-8.png)
+CAPTURE D’ÉCRAN
