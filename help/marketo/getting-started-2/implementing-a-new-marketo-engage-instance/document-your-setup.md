@@ -1,17 +1,17 @@
 ---
 description: Documentez la configuration de votre nouvelle instance de Marketo Engage.
-title: Nouvelle instance - Document de votre configuration
+title: Bonnes pratiques relatives aux nouvelles instances - Document de votre configuration
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
-# Nouvelle instance : Document de votre configuration {#new-instancei-document-your-setup}
+# Bonnes pratiques relatives à la nouvelle instance : documenter votre configuration {#new-instance-best-practices-document-your-setup}
 
 Maintenant que vous avez appris les principales zones de produit à configurer pour une nouvelle instance de Marketo Engage, l’étape suivante consiste à créer la documentation pour la configuration de votre instance et la pile technique. Que vous le créiez au moyen d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre l’avancement et enregistrer les détails, ainsi que pour préserver la structure et la durabilité de votre instance pour les futurs marketeurs de votre entreprise.
 

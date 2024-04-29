@@ -4,9 +4,9 @@ title: Où commencer
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bienvenue dans votre nouvelle instance Adobe Marketo Engage. Préparez-vous à rationaliser, automatiser et mesurer les tâches et les workflows marketing grâce à de puissantes fonctionnalités d’automatisation du marketing.
 
-Dans ce guide &quot;Implémentation d’une nouvelle instance de Marketo Engage&quot;, apprenez à mettre en oeuvre votre instance de manière transparente afin d’assurer une hygiène à long terme et une efficacité opérationnelle. Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les listes de contrôle téléchargeables pour documenter votre travail en cours de route pour les futurs audits d’instances et l’intégration.
+Dans ce guide &quot;Implémentation d’une nouvelle instance de Marketo Engage&quot;, découvrez les bonnes pratiques pour mettre en oeuvre votre instance de manière transparente, afin d’assurer une hygiène à long terme et une efficacité opérationnelle. Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les listes de contrôle téléchargeables pour documenter votre travail en cours de route pour les futurs audits d’instances et l’intégration.
 
 ## Listes de contrôle des bonnes pratiques pour votre nouvelle instance de Marketo Engage {#best-practice-checklists-new-instance}
 

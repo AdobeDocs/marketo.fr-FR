@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 3%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 3%
       + [Configuration de l’utilisateur](getting-started-2/initial-setup/user-setup.md)
    + Implémentation d’une nouvelle instance de Marketo Engage {#implementing-a-new-marketo-engage-instance}
       + [Où commencer](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [Nouvelle instance : liste de contrôle de section d’administration](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [Nouvelle instance : liste de contrôle de la base de données](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Nouvelle instance : liste de contrôle des activités marketing](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [Nouvelle instance : Liste de contrôle de Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Nouvelle instance : Document de votre configuration](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle des sections d’administration](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle de la base de données](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle des activités marketing](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Bonnes pratiques relatives aux nouvelles instances : Liste de contrôle de Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Bonnes pratiques relatives à la nouvelle instance : documenter votre configuration](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informations à connaître {#things-to-know}
       + [Glossaire du Marketo Engage](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [Glossaire des icônes](getting-started-2/things-to-know/icon-glossary.md)

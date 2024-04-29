@@ -1,17 +1,17 @@
 ---
 description: Configurez la section Base de données pour votre nouvelle instance de Marketo Engage.
-title: Nouvelle instance - Liste de contrôle de la base de données
+title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle des bases de données
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 9%
 
 ---
 
-# Nouvelle instance : liste de contrôle de la base de données {#new-instance-database-checklist}
+# Bonnes pratiques relatives aux nouvelles instances : liste de contrôle de la base de données {#new-instance-best-practices-database-checklist}
 
 La section Base de données vous donne un aperçu des attributs clés concernant les personnes de votre instance. En savoir plus sur les étapes nécessaires pour parcourir différentes listes et segments dans votre base de données, ainsi que sur la gestion des enregistrements de personnes.
 

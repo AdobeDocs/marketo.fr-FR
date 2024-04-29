@@ -1,17 +1,17 @@
 ---
 description: Configurez la section Activités marketing pour votre nouvelle instance de Marketo Engage.
-title: Nouvelle instance - Liste de contrôle des activités marketing
+title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle des activités marketing
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 3%
 
 ---
 
-# Nouvelle instance : liste de contrôle des activités marketing {#new-instance-marketing-activities-checklist}
+# Bonnes pratiques relatives aux nouvelles instances : liste de contrôle des activités marketing {#new-instance-best-practices-marketing-activities-checklist}
 
 Les activités marketing hébergent toutes les ressources et le contenu qui constituent vos programmes marketing automatisés. Lorsque vous configurez une nouvelle instance de Marketo Engage, une organisation claire et nette garantit que tous les utilisateurs peuvent facilement trouver et gérer divers programmes.
 

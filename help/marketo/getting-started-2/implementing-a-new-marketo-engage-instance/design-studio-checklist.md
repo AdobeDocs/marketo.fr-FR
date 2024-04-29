@@ -1,17 +1,17 @@
 ---
 description: Configurez la section Design Studio pour votre nouvelle instance de Marketo Engage.
-title: Nouvelle instance - Liste de contrôle de Design Studio
+title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle de Design Studio
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 6%
 
 ---
 
-# Nouvelle instance : Liste de contrôle de Design Studio {#new-instance-design-studio-checklist}
+# Bonnes pratiques relatives aux nouvelles instances : Liste de contrôle de Design Studio {#new-instance-best-practices-design-studio-checklist}
 
 La section Design Studio indique où doivent résider les &quot;ressources globales&quot; réutilisables. Créez les ressources globales que votre organisation prévoit d’utiliser dans les programmes, utilisez une convention d’affectation des noms cohérente et organisez-les dans les sous-dossiers pour des recherches faciles.
 
