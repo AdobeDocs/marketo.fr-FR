@@ -3,9 +3,9 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '1327'
+source-wordcount: '1370'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dans le cadre de la migration, votre gestion des abonnements et des utilisateurs
 
 * **Les administrateurs système gèrent les abonnements sur Adobe Admin Console.**. Consultez tous vos produits Adobe dans une seule console.
 
-* **Les administrateurs de produit gèrent les utilisateurs et leur accès sur Adobe Admin Console**. Ajoutez et supprimez des utilisateurs pour tous vos abonnements Adobe.
+* **Les administrateurs de produit gèrent les utilisateurs et leur accès sur Adobe Admin Console**. Ajoutez et supprimez des utilisateurs pour tous vos abonnements Adobe. Adobe Admin Console ne prend pas en charge l’expiration de l’accès basée sur l’utilisateur. Les utilisateurs disposant d’un accès Marketo Engage dont l’expiration est planifiée après la migration seront toujours migrés et un accès non expirant leur sera accordé. Après la migration, ils doivent être supprimés manuellement à la date d’expiration souhaitée (ou avant).
 
 * **Les utilisateurs se connecteront avec l’identité de l’Adobe**. Adobe migre les utilisateurs existants vers Adobe Admin Console. Les utilisateurs se connectent à leurs abonnements Marketo à l’aide de leur nouvelle identité d’Adobe : Adobe ID ou Adobe Federated ID (SSO).
 
