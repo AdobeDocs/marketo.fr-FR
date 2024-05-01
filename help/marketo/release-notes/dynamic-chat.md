@@ -3,7 +3,7 @@ description: Notes de mise à jour du Dynamic Chat - Documents Marketo - Documen
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
+source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ _&#42;Anciennement disponible en tant que fonctionnalité d’évaluation avec 1
 
 ### Fonctions de rappel {#callback-functions}
 
-Les fonctions de rappel vous permettent de collecter des événements d’analyse de Dynamic Chat dans des systèmes externes, tels qu’Adobe Analytics ou les Google Analytics, lorsque les visiteurs interagissent avec des conversations de Dynamic Chat. Vous activez les événements Dynamic Chat Analytics en enregistrant un rappel avec l’API pour écouter les événements. Cela vous permet d’avoir une vision plus globale de votre engagement Dynamic Chat en ce qui concerne d’autres données clés, telles que le trafic web.
+[Fonctions de rappel](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} vous permettent de collecter des événements Dynamic Chat analytics dans des systèmes externes, tels qu’Adobe Analytics ou les Google Analytics, lorsque les visiteurs interagissent avec les conversations des Dynamic Chat. Vous activez les événements Dynamic Chat Analytics en enregistrant un rappel avec l’API pour écouter les événements. Cela vous permet d’avoir une vision plus globale de votre engagement Dynamic Chat en ce qui concerne d’autres données clés, telles que le trafic web.
 
 ### Conditions de disponibilité de l’agent en direct ajoutées à l’embranchement conditionnel {#live-agent-availability-conditional-branching}
 

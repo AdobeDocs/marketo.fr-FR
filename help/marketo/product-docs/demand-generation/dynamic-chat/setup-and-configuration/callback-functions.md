@@ -1,12 +1,11 @@
 ---
 description: Fonctions de rappel - Documents Marketo - Documentation du produit
 title: Fonctions de rappel
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 7%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L’argument &quot;event&quot; dans l’événement est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder aux métadonnées par event.data
+La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Vous trouverez ci-dessous quelques valeurs de métadonnées clés auxquelles vous pouvez accéder :
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L’argument &quot;event&quot; dans l’événement est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder aux métadonnées par event.data
+La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Vous trouverez ci-dessous quelques valeurs de métadonnées clés auxquelles vous pouvez accéder.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L’argument &quot;event&quot; dans l’événement est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder aux métadonnées par event.data
+La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Vous trouverez ci-dessous quelques valeurs de métadonnées clés auxquelles vous pouvez accéder.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L’argument &quot;event&quot; dans l’événement est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder aux métadonnées par event.data
+La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Vous trouverez ci-dessous quelques valeurs de métadonnées clés auxquelles vous pouvez accéder.
 
@@ -338,7 +337,7 @@ Vous trouverez ci-dessous quelques valeurs de métadonnées clés auxquelles vou
 </tbody>
 </table>
 
-Si vous souhaitez envoyer l’un de ces événements à une plateforme tierce telle qu’Adobe Analytics ou Google Analytics, vous devez ajouter leur appel de suivi respectif dans ces événements de Dynamic Chat. Cela ressemblerait à l’exemple ci-dessous.
+Si vous souhaitez envoyer l’un de ces événements à une plateforme d’analyse telle qu’Adobe Analytics ou Google Analytics, vous devez ajouter leur appel de suivi respectif dans ces événements de Dynamic Chat. Cela ressemblerait à l’exemple ci-dessous.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
