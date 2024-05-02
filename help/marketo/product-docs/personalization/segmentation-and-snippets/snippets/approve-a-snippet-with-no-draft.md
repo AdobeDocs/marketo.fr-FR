@@ -4,7 +4,7 @@ description: Approuver un fragment de code sans brouillon - Documents Marketo - 
 title: Approuver un fragment de code sans brouillon
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
+source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aucun brouillon n’est déclenché chaque fois qu’un fragment de code est approuvé. Cela inclut un extrait de code qui est partagé ou référencé par des ressources dans d’autres espaces de travail.
 
-1. Accédez au **Design Studio**.
+1. Accédez au **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ Aucun brouillon n’est déclenché chaque fois qu’un fragment de code est app
 
    ![](assets/approve-the-snippet-2.png)
 
-1. Dans le **Actions de fragment de code** menu déroulant, choisissez **Approuver le brouillon**.
+1. Dans le **[!UICONTROL Actions de fragment de code]** menu déroulant, choisissez **[!UICONTROL Approuver le brouillon]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Sélectionnez une option dans la boîte de dialogue Approuver le fragment de code, puis cliquez sur **Approuver**:
+1. Sélectionnez une option dans la boîte de dialogue Approuver le fragment de code, puis cliquez sur **[!UICONTROL Approuver]**:
 
-   * **Mettre à jour tout**: cette option ne crée pas de brouillons des ressources approuvées à l’aide du fragment de code. Toutes les ressources obtiennent les mises à jour et conservent leurs états antérieurs. Un module de progression s’affiche en haut à droite de l’écran ; il peut être fermé à tout moment. Pour le restaurer, cliquez avec le bouton droit de la souris sur le nom du fragment de code et sélectionnez Afficher le statut d’approbation.
-   * **Création de brouillons**: cette option crée des brouillons des ressources approuvées à l’aide du fragment de code. Sélectionnez cette option si les modifications de fragment de code doivent d’abord être examinées. Tous les brouillons doivent être approuvés manuellement.
+   * **[!UICONTROL Mettre à jour tout]**: cette option ne crée pas de brouillons des ressources approuvées à l’aide du fragment de code. Toutes les ressources obtiennent les mises à jour et conservent leurs états antérieurs. Un module de progression s’affiche en haut à droite de l’écran ; il peut être fermé à tout moment. Pour le restaurer, cliquez avec le bouton droit de la souris sur le nom du fragment de code et sélectionnez Afficher le statut d’approbation.
+   * **[!UICONTROL Création de brouillons]**: cette option crée des brouillons des ressources approuvées à l’aide du fragment de code. Sélectionnez cette option si les modifications de fragment de code doivent d’abord être examinées. Tous les brouillons doivent être approuvés manuellement.
 
    ![](assets/approve-the-snippet-4.png)
 
