@@ -1,36 +1,40 @@
 ---
 unique-page-id: 10095644
-description: Approbation d’un fragment de code sans brouillon - Documents Marketo - Documentation du produit
-title: Approbation d’un fragment de code sans brouillon
+description: Approuver un fragment de code sans brouillon - Documents Marketo - Documentation du produit
+title: Approuver un fragment de code sans brouillon
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
 
-# Approbation d’un fragment de code sans brouillon {#approve-a-snippet-with-no-draft}
+# Approuver un fragment de code sans brouillon {#approve-a-snippet-with-no-draft}
 
 ## Approuver le fragment de code {#approve-the-snippet}
 
 Aucun brouillon n’est déclenché chaque fois qu’un fragment de code est approuvé. Cela inclut un extrait de code qui est partagé ou référencé par des ressources dans d’autres espaces de travail.
 
-1. Accédez à **Design Studio**.
+1. Accédez au **Design Studio**.
 
-   ![](assets/go-to-design-studio.png)
+   ![](assets/approve-the-snippet-1.png)
 
-1. Sélectionnez un fragment de code et dans le **Actions de fragment de code** menu déroulant, choisissez **Approuver**.
+1. Recherchez et sélectionnez l’extrait de code souhaité.
 
-   ![](assets/approve-snippet.png)
+   ![](assets/approve-the-snippet-2.png)
+
+1. Dans le **Actions de fragment de code** menu déroulant, choisissez **Approuver le brouillon**.
+
+   ![](assets/approve-the-snippet-3.png)
 
 1. Sélectionnez une option dans la boîte de dialogue Approuver le fragment de code, puis cliquez sur **Approuver**:
 
-   * **Mettre à jour tout**: Cette option ne crée pas de brouillons des ressources approuvées à l’aide du fragment de code. Toutes les ressources obtiennent les mises à jour et conservent leurs états antérieurs. Un module de progression s’affiche en haut à droite de l’écran. il peut être fermé à tout moment. Pour le restaurer, cliquez avec le bouton droit de la souris sur le nom du fragment de code et sélectionnez Afficher le statut d’approbation.
-   * **Création de brouillons**: Cette option crée des brouillons des ressources approuvées à l’aide du fragment de code. Sélectionnez cette option si les modifications de fragment de code doivent d’abord être examinées. Tous les brouillons doivent être approuvés manuellement.
+   * **Mettre à jour tout**: cette option ne crée pas de brouillons des ressources approuvées à l’aide du fragment de code. Toutes les ressources obtiennent les mises à jour et conservent leurs états antérieurs. Un module de progression s’affiche en haut à droite de l’écran ; il peut être fermé à tout moment. Pour le restaurer, cliquez avec le bouton droit de la souris sur le nom du fragment de code et sélectionnez Afficher le statut d’approbation.
+   * **Création de brouillons**: cette option crée des brouillons des ressources approuvées à l’aide du fragment de code. Sélectionnez cette option si les modifications de fragment de code doivent d’abord être examinées. Tous les brouillons doivent être approuvés manuellement.
 
-   ![](assets/snippet-dialog-box.png)
+   ![](assets/approve-the-snippet-4.png)
 
    >[!NOTE]
    >
@@ -38,8 +42,8 @@ Aucun brouillon n’est déclenché chaque fois qu’un fragment de code est app
 
 >[!CAUTION]
 >
->Cette fonctionnalité est conçue pour gagner du temps avec le processus d’approbation des fragments de code. Il existe toutefois quelques limites à connaître. Veuillez consulter [ce document](https://nation.marketo.com/docs/DOC-4415) pour plus d’informations. Le document contient également des informations de gestion et de dépannage des erreurs.
+>Cette fonctionnalité est conçue pour gagner du temps avec le processus d’approbation des fragments de code. Il existe toutefois quelques limites à connaître. Veuillez consulter [cet article](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} pour plus d’informations.
 
 >[!MORELIKETHIS]
 >
->[Activation de l’option Aucun brouillon pour les fragments de code](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
+>[Activation de l’option Aucun brouillon pour les fragments de code](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
