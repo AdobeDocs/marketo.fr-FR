@@ -4,9 +4,10 @@ title: Bonnes pratiques relatives aux nouvelles instances - Document de votre co
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 2%
 
 ---
@@ -55,7 +56,7 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
     <br>Type d’ID
     <br>Profil(s) de produit
     <p>
-    <li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, envisagez <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank">chargement du fichier .csv</a> en bloc.</li></td>
+    <li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, envisagez <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank">actions en bloc</a>, comme charger un fichier .CSV, à l’aide de l’API REST User Management, etc.</li></td>
   </tr>
   <tr>
     <td>Entreprise</td>

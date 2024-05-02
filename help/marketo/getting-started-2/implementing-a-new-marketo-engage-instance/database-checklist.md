@@ -4,16 +4,17 @@ title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle d
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 9%
 
 ---
 
 # Bonnes pratiques relatives aux nouvelles instances : liste de contrôle de la base de données {#new-instance-best-practices-database-checklist}
 
-La section Base de données vous donne un aperçu des attributs clés concernant les personnes de votre instance. En savoir plus sur les étapes nécessaires pour parcourir différentes listes et segments dans votre base de données, ainsi que sur la gestion des enregistrements de personnes.
+La section Base de données vous permet de trouver les attributs clés des personnes de votre instance. En savoir plus sur les étapes nécessaires pour parcourir différentes listes et segments dans votre base de données, ainsi que sur la gestion des enregistrements de personnes.
 
 N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos progrès.
 
@@ -38,7 +39,7 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
   </tr>
   <tr>
     <td>Marketing interrompu</td>
-    <td><li>Définir <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">Marketing suspendu</a> critères.</li></td>
+    <td><li>Définir <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing suspendu</a> critères.</li></td>
   </tr>
   <tr>
     <td>Adresses e-mail renvoyées </td>
@@ -49,7 +50,7 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
     <td>Doublons possibles</td>
     <td><li>Vérifiez les personnes dans la liste Doublons possibles .</li> 
     <li>Définissez votre stratégie de gestion des doublons pour déterminer si vous souhaitez <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">fusionner des personnes manuellement</a>.</li>  
-    <li>Si vous disposez d’une intégration CRM, définissez un processus et un compte pour <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">l'effet de la fusion des pistes dans votre CRM ;</a>.</li></td>
+    <li>Si vous disposez d’une intégration CRM, définissez un processus et un compte pour <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">l'effet de la fusion des pistes dans votre CRM ;</a>.</li></td>
   </tr>
   <tr>
     <td>Pas de programme d'acquisition</td>

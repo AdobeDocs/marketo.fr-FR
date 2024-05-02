@@ -4,9 +4,10 @@ title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle d
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 6%
 
 ---
@@ -29,8 +30,8 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
 <tbody>
   <tr>
     <td>Pages de destination internationales</td>
-    <td><li>Créer des pages d’entrée globales (forme libre/guidée).</li>
-    <li>Créez une page de test pour tester A/B avec le modèle de page d’entrée gagnante (le cas échéant).</li></td>
+    <td><li>Créer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">pages d’entrée globales (forme libre/guidée)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Créer une page de test</a> Pour tester A/B le modèle de page d’entrée gagnante (le cas échéant).</li></td>
   </tr>
   <tr>
     <td>Modèles</td>
@@ -38,7 +39,7 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Créez un pied de page à l’aide de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Extraits de code</a> ou Jetons dans vos pages d’entrée pour respecter la confidentialité.</li></td>
+    <td><li>Créez un pied de page à l’aide de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Extraits de code</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Jetons</a> dans vos pages d’entrée pour la conformité en matière de confidentialité.</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
     <td>Conventions de dénomination</td>
     <td><li>Utilisez des conventions d’appellation cohérentes pour les images et les fichiers.</li>  
     <br>Exemples :  
-    <br>Convention d’affectation de nom de fichier : Type de ressource - Nom de ressource (par exemple : Livre blanc-Evaluating-Cloud-Computing-Get-Your-board-board) 
-    <p>Convention d’appellation des images : Type d’image-Type de ressource-Nom de ressource (par exemple : Miniature-Livre-Blanc-Article-Évaluation-Cloud-Informatique-Obtenir-Votre-Panorama)</td>
+    <br><ul><li>Convention d’affectation de nom de fichier : Type de ressource - Nom de ressource (par exemple : Livre blanc-Evaluating-Cloud-Computing-Get-Your-board-board)</li>
+    <p><li>Convention d’appellation des images : Type d’image-Type de ressource-Nom de ressource (par exemple : Miniature-Livre-Blanc-Article-Évaluation-Cloud-Informatique-Obtenir-Votre-Panorama)</li></td>
   </tr>
 </tbody>
 </table>
