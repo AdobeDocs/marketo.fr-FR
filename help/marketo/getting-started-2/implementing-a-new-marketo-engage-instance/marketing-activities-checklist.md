@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 3%
 
 ---
@@ -54,9 +54,9 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
 
 ## Ressources {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->Pour stocker des ressources marketing telles que des programmes, des landing pages et des emails dans des zones distinctes, consultez la liste de contrôle &quot;Section d’administration&quot;. [LIEN] pour savoir comment configurer des espaces de travail.
+>Pour stocker des ressources marketing telles que des programmes, des pages d’entrée et des emails dans des zones distinctes, reportez-vous à la section [Liste de contrôle de la section d’administration](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) pour savoir comment configurer des espaces de travail.
 
 <table>
 <thead>

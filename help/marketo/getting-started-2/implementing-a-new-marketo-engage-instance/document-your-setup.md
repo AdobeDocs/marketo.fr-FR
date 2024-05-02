@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---
@@ -53,11 +53,16 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
     <td><li>Document <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utilisateurs actuels</a> dans votre instance pour des raisons de sécurité. Les détails suivants doivent être inclus au minimum (et sont tous visibles en accédant à Adobe Admin Console &gt; Utilisateurs) :</li>
     <br>Nom
     <br>Email
-    <br>Type d’ID
-    <br>Profil(s) de produit
-    <p>
-    <li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, envisagez <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank">actions en bloc</a>, comme charger un fichier .CSV, à l’aide de l’API REST User Management, etc.</li></td>
-  </tr>
+    <br>Connexion
+    <br>Rôle
+    <br>Date d’expiration de l’accès
+    <br>Date de création de l’utilisateur
+    <br>Date de connexion la plus récente
+
+REMARQUE : les clients peuvent également développer cette documentation pour inclure de la documentation sur les rôles/autorisations.
+<p>
+<li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, envisagez <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank">actions en bloc</a>, comme charger un fichier .CSV, à l’aide de l’API REST User Management, etc.</li></td>
+</tr>
   <tr>
     <td>Entreprise</td>
     <td><li>Documentez la structure de dossiers convenue, les conventions d’attribution de noms standard pour les programmes, les ressources, etc., et les raisons pour lesquelles les décisions ont été prises. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Découvrez les bonnes pratiques ici.</a></li></td>
