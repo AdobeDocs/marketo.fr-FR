@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ Bienvenue dans votre nouvelle instance Adobe Marketo Engage. Préparez-vous à r
 
 Dans ce guide &quot;Implémentation d’une nouvelle instance de Marketo Engage&quot;, découvrez les bonnes pratiques pour mettre en oeuvre votre instance de manière transparente, afin d’assurer une hygiène à long terme et une efficacité opérationnelle. Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les listes de contrôle téléchargeables pour documenter votre travail en cours de route pour les futurs audits d’instances et l’intégration des utilisateurs.
 
-## Étapes requises
+## Configuration initiale {#initial-setup}
 
-PARLER CETTE SECTION ET RENOMMER
+Avant de passer aux listes de contrôle des bonnes pratiques ci-dessous, vérifiez que vous avez suivi les étapes de la zone Configuration initiale .
+
+* [Tâches de configuration initiales](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [Configuration de l’utilisateur](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## Listes de contrôle des bonnes pratiques pour votre nouvelle instance de Marketo Engage {#best-practice-checklists-new-instance}
 

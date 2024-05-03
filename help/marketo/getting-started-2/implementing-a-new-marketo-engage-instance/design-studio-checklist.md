@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 6%
@@ -30,8 +30,8 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
 <tbody>
   <tr>
     <td>Pages de destination internationales</td>
-    <td><li>Créer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">pages d’entrée globales (forme libre/guidée)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Créer une page de test</a> Pour tester A/B le modèle de page d’entrée gagnante (le cas échéant).</li></td>
+    <td><li>Créer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">pages d’entrée globales (forme libre/guidée)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Créer une page de test</a> Pour tester A/B le modèle de page d’entrée gagnante (le cas échéant).</li></td>
   </tr>
   <tr>
     <td>Modèles</td>
@@ -39,7 +39,7 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Créez un pied de page à l’aide de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Extraits de code</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Jetons</a> dans vos pages d’entrée pour la conformité en matière de confidentialité.</li></td>
+    <td><li>Créez un pied de page à l’aide de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Extraits de code</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Jetons</a> dans vos pages d’entrée pour la conformité en matière de confidentialité.</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ N’oubliez pas de télécharger les listes de contrôle. [LIEN] et suivez vos p
 <tbody>
   <tr>
     <td>Structure de dossier </td>
-    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organisation des ressources globales</a> (par exemple, flux de conversation, modèles d’email, emails, formulaires, images et fichiers, pages d’entrée, modèles de page d’entrée, fragments de code, etc.) de manière appropriée.</li></td>
+    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organisation des ressources globales</a> (par exemple, flux de conversation, modèles d’email, emails, formulaires, images et fichiers, pages d’entrée, modèles de page d’entrée, fragments de code, etc.) de manière appropriée.</li></td>
   </tr>
 </tbody>
 </table>

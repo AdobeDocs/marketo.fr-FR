@@ -3,9 +3,9 @@ description: Conception de webinaires interactifs - Documents Marketo - Document
 title: Conception de webinaires interactifs
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
    >* Une salle est un espace en ligne utilisé pour organiser des réunions.
    >
    >* Si vous choisissez une salle de webinaire existante et devez la renommer, cliquez simplement sur le bouton **Renommer la salle de webinaire** à droite.
+   >
+   >* La liste déroulante affiche uniquement les pièces existantes que vous avez créées précédemment, et non les autres hôtes.
 
 1. Choisissez un modèle.
 
