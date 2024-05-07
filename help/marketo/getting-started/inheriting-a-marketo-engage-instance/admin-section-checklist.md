@@ -3,7 +3,7 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 3%
@@ -16,7 +16,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
 
 >[!TIP]
 >
->Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire du Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>Si vous êtes un nouvel utilisateur Marketo Engage et que vous ne connaissez pas beaucoup des termes, consultez la section [Glossaire du Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -83,7 +83,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   </tr>
   <tr> 
    <td>Utilisateurs de l’assistance</td> 
-   <td><li>Demandez-vous de configurer les <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contacts autorisés</a> sur le portail d’assistance ?</li></td>
+   <td><li>Demandez-vous de configurer les <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contacts autorisés</a> sur le portail d’assistance ?</li></td>
   </tr>
   <tr> 
    <td>Documentation interne</td> 
@@ -99,7 +99,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
  </tbody> 
 </table>
 
-## Journal d&#39;audit {#audit-trail}
+## Piste d&#39;audit {#audit-trail}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -108,13 +108,13 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>Journal d'audit</td> 
+   <td>Piste d'audit</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Qui travaille ?</a> dans l’instance ?</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Espaces de travail et partitions {#workspaces-and-partitions}
+## Espaces de travail &amp; Divisions {#workspaces-and-partitions}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -123,7 +123,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>Espaces de travail et partitions</td> 
+   <td>Espaces de travail &amp; Divisions</td> 
    <td><li>Combien <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Espaces de travail et/ou partitions</a> l'avez-vous ?</li>
 <li>Quel est l’objectif principal de chaque espace de travail et de chaque partition ?</li>
 <li>Effectuez l’une des opérations suivantes : <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Espaces de travail</a> ou <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitions</a> doivent être contrôlés/modifiés ?</li>
@@ -285,7 +285,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : si vous ne disposez pas de documentation sur l’emplacement du code de la serviette sur votre site web, vous pouvez afficher toutes les URL en créant un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport Activité de la page web</a>.</li></td>
   </tr>
   <tr> 
-   <td>Services web</td> 
+   <td>Services Web</td> 
    <td><li>Are <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">Restrictions IP</a> activé ? Devraient-ils l'être ?</li>
 <li>Quels utilisateurs/applications effectuent des appels API dans votre instance ?</li>
 <li>Êtes-vous en train d’atteindre ou êtes-vous sur le point d’atteindre votre limite d’API ?

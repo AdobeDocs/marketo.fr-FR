@@ -1,11 +1,11 @@
 ---
 description: Notes de mise à jour - Mai 2023 - Documents Marketo - Documentation du produit
 title: Notes de mise à jour - Mai 2023
-exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 3%
+source-wordcount: '345'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Vue d’ensemble de l’interface  Experience Cloud</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Présentation de l’interface Experience Cloud</a></td>
   </tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Centre dʼaide</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centre dʼaide</a></td>
   </tr>
   </tbody>
 </table>

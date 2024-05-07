@@ -1,18 +1,18 @@
 ---
-description: Glossaire des icônes - Documents Marketo - Documentation du produit
+description: Glossaire des icônes - Documents du Marketo Engage - Documentation du produit
 title: Glossaire des icônes
-exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-feature: Modern UX
+feature: Getting Started
+exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 52%
 
 ---
 
-# Glossaire des icônes {#new-icon-glossary}
+# Glossaire des icônes de Marketo Engage {#icon-glossary}
 
-Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [se trouve ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actuelle. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [se trouve ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Icônes générales {#general-icons}
 

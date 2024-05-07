@@ -3,7 +3,7 @@ description: Présentation de l’expérience utilisateur moderne de Marketo Eng
 title: Présentation de l’expérience utilisateur moderne Marketo Engage
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Il existe de nombreuses nouvelles fonctionnalités dans l’expérience utilisat
 
 **Icônes**
 
-La nouvelle interface présente une iconographie améliorée et développée. En savoir plus ici : [Glossaire des icônes](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+La nouvelle interface présente une iconographie améliorée et développée. En savoir plus ici : [Glossaire des icônes](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
