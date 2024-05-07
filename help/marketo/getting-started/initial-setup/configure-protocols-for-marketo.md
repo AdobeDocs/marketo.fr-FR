@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720433
-description: Configuration de protocoles pour Marketo - Documents Marketo - Documentation du produit
-title: Configuration de protocoles pour Marketo
+description: Configuration de protocoles pour Marketo Engage - Documentation du Marketo Engage - Documentation du produit
+title: Configuration de protocoles pour Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2136'
 ht-degree: 0%
 
 ---
 
-# Configuration de protocoles pour Marketo {#configure-protocols-for-marketo}
+# Configuration de protocoles pour Marketo Engage{#configure-protocols-for-marketo-engage}
 
 Si vous ou votre entreprise utilisez des paramètres de pare-feu ou de serveur proxy restrictifs, vous ou votre administrateur réseau devrez peut-être placer sur la liste autorisée certains domaines et plages d’adresses IP pour vous assurer que Adobe Marketo Engage fonctionne comme prévu.
 
-Pour obtenir de l’aide sur la mise en oeuvre des protocoles ci-dessous, veuillez partager cet article avec votre service informatique. S’ils limitent l’accès web à l’aide d’une liste autorisée, veillez à ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets Marketo :
+Pour obtenir de l’aide sur la mise en oeuvre des protocoles ci-dessous, veuillez partager cet article avec votre service informatique. S’ils limitent l’accès web à l’aide d’une liste autorisée, veillez à ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets du Marketo Engage :
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ Pour obtenir de l’aide sur la mise en oeuvre des protocoles ci-dessous, veuill
 
 **Suivi des CNAME de lien**
 
-Votre équipe marketing aurait dû vous envoyer deux demandes de nouveaux enregistrements CNAME. La première concerne les URL de page d’entrée, de sorte que les pages d’entrée apparaissent dans les URL qui reflètent votre domaine et non dans Marketo (l’hôte réel). La seconde concerne les liens de tracking inclus dans les emails qu’ils envoient à partir de Marketo.
+Votre équipe marketing aurait dû vous envoyer deux demandes de nouveaux enregistrements CNAME. La première concerne les URL de page d’entrée, de sorte que les landing pages apparaissent dans les URL qui représentent votre domaine et non le Marketo Engage (l’hôte réel). La seconde concerne les liens de tracking inclus dans les emails qu’ils envoient depuis Marketo Engage.
 
 `1` **Ajout d’un CNAME pour les pages d’entrée**
 
-Ajoutez le CNAME de page d’entrée qu’il vous a envoyé à votre enregistrement DNS, de sorte que `[YourLandingPageCNAME]` pointe vers la chaîne de compte unique attribuée à vos pages d’entrée Marketo. Connectez-vous au site du serveur d’inscriptions de votre domaine et saisissez la landing page CNAME et la chaîne de compte. En règle générale, cela implique trois champs :
+Ajoutez le CNAME de page d’entrée qu’il vous a envoyé à votre enregistrement DNS, de sorte que `[YourLandingPageCNAME]` pointe vers la chaîne de compte unique attribuée à vos pages d’entrée de Marketo Engage. Connectez-vous au site du serveur d’inscriptions de votre domaine et saisissez la landing page CNAME et la chaîne de compte. En règle générale, cela implique trois champs :
 
 * Alias : Entrée `[YourLandingPageCNAME]` (fourni par le marketing)
 * Type : CNAME
@@ -39,7 +39,7 @@ Ajoutez le CNAME de page d’entrée qu’il vous a envoyé à votre enregistrem
 
 `2` **Ajout d’un CNAME pour les liens de suivi des emails**
 
-Ajoutez l’e-mail marketing CNAME qui vous a été envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo, au format :\
+Ajoutez l’e-mail marketing CNAME qui vous a été envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], lien de suivi par défaut attribué par le Marketo Engage, au format :\
 `[YourEmailCNAME].[YourDomain].com` DANS CNAME `[MktoTrackingLink]`
 
 Par exemple :
@@ -58,9 +58,9 @@ Avertissez votre équipe marketing lorsque vous avez terminé ce processus.
 
 Ce processus peut prendre jusqu’à 3 jours ouvrables.
 
-## Étape 2 : Placer sur la liste autorisée les adresses IP Marketo {#step-allowlist-marketo-ips}
+## Étape 2 : Placer sur la liste autorisée les adresses IP des Marketo Engage {#step-allowlist-marketo-ips}
 
-Lorsque votre groupe marketing utilise Marketo pour envoyer des emails de test (une bonne pratique avant d’envoyer des messages indésirables), les emails de test sont parfois bloqués par des systèmes anti-spam qui reposent sur des adresses IP d’expéditeur pour vérifier que l’email est valide. Pour vous assurer que ces courriers électroniques de test arrivent, ajoutez Marketo à votre liste autorisée.
+Lorsque votre groupe marketing utilise Marketo Engage pour envoyer des emails de test (une bonne pratique avant d’envoyer des messages indésirables), les emails de test sont parfois bloqués par des systèmes anti-spam qui reposent sur des adresses IP d’expéditeur pour vérifier que l’email est valide. Pour vous assurer que ces emails de test arrivent, ajoutez Marketo Engage à votre liste autorisée.
 
 Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 
@@ -82,7 +82,7 @@ Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 
 199.15.212.0/22
 
-Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ce cas, la meilleure approche consiste à placer sur la liste autorisée &quot;&quot;&#42;.mktomail.com&#39;, car Marketo utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
+Certains systèmes anti-spam utilisent le champ Chemin d’accès au retour de l’email au lieu de l’adresse IP pour la mise en liste autorisée. Dans ce cas, la meilleure approche consiste à placer sur la liste autorisée &quot;&quot;&#42;.mktomail.com&#39;, car Marketo Engage utilise plusieurs sous-domaines de boîte aux lettres. D’autres systèmes anti-spam placent sur la liste autorisée en fonction de l’adresse de l’expéditeur. Dans ce cas, veillez à inclure tous les domaines d’envoi (&quot;De&quot;) que votre groupe marketing utilise pour communiquer avec les personnes/prospects.
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Votre équipe marketing doit également vous avoir envoyé les informations DKIM
    Si nous avons déjà un enregistrement SPF existant dans notre entrée DNS, ajoutez-y simplement les éléments suivants :\
    include : mktomail.com
 
-   Remplacez CompanyDomain par le domaine principal de votre site web (par exemple : &quot;`(company.com/)`&quot;) et CorpIP avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous allez envoyer des emails à partir de plusieurs domaines via Marketo, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).
+   Remplacez CompanyDomain par le domaine principal de votre site web (par exemple : &quot;`(company.com/)`&quot;) et CorpIP avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous allez envoyer des emails à partir de plusieurs domaines par le biais de Marketo Engage, votre personnel informatique doit ajouter cette ligne pour chaque domaine (sur une seule ligne).
 
 1. Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que nous souhaitons configurer. Vous trouverez ci-dessous les enregistrements d’hôte et les valeurs TXT pour chaque domaine pour lequel nous allons signer :
 
@@ -253,7 +253,7 @@ Il existe deux types d&#39;alignement pour l&#39;alignement DMARC—DKIM et l&#3
 
 >[!NOTE]
 >
->Il est recommandé d’effectuer un alignement DMARC sur DKIM par rapport à SPF pour Marketo.
+>Il est recommandé d’effectuer un alignement DMARC sur DKIM par rapport à SPF pour Marketo Engage.
 
 * DMARC aligné sur DKIM : pour configurer DMARC aligné sur DKIM, vous devez :
 
@@ -268,15 +268,15 @@ Il existe deux types d&#39;alignement pour l&#39;alignement DMARC—DKIM et l&#3
 
    * Configuration de DMARC pour le domaine de chemin d’accès retour de marque
 
-* Si vous envoyez des courriers électroniques à partir de Marketo par le biais d’une adresse IP dédiée et que vous n’avez pas encore mis en oeuvre de chemin de retour de marque, ou que vous n’êtes pas sûr de l’avoir fait, veuillez ouvrir un ticket avec [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Si vous envoyez du courrier du Marketo Engage par le biais d’une adresse IP dédiée et que vous n’avez pas encore mis en oeuvre de chemin de retour de marque, ou que vous n’êtes pas sûr de l’avoir fait, veuillez ouvrir un ticket avec [Prise en charge des Adobes](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Si vous envoyez des courriers électroniques à partir de Marketo par le biais d’un pool partagé d’adresses IP, vous pouvez voir si vous êtes éligible aux adresses IP de confiance en [appliquer ici](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Le chemin de retour de marque est proposé gratuitement aux envois depuis Marketo qui  des adresses IP approuvées. Si ce programme est approuvé, contactez le support Marketo pour configurer le chemin de retour de marque.
+* Si vous envoyez du courrier du Marketo Engage par le biais d’un pool partagé d’adresses IP, vous pouvez voir si vous êtes admissible pour les adresses IP approuvées par [appliquer ici](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Le chemin de retour de marque est proposé gratuitement aux envois à partir des adresses IP approuvées du Marketo Engage. Si ce programme est approuvé, contactez le support Adobe pour configurer le chemin de retour de marque.
 
    * Adresses IP approuvées : groupe d’adresses IP partagées réservé aux utilisateurs à volume inférieur qui envoient &lt;75 K/mois et qui ne remplissent pas les critères pour une adresse IP dédiée. Ces utilisateurs doivent également respecter les exigences relatives aux bonnes pratiques.
 
-* Si vous envoyez des courriers électroniques à partir de Marketo par le biais d’adresses IP partagées et que vous ne remplissez pas les critères pour les adresses IP de confiance et que vous envoyez plus de 100 000 messages par mois, vous devrez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) pour acheter une adresse IP dédiée.
+* Si vous envoyez des courriers électroniques de Marketo Engage par le biais d’adresses IP partagées et que vous ne remplissez pas les critères pour les adresses IP de confiance et que vous envoyez plus de 100 000 messages par mois, vous devrez contacter l’équipe du compte Adobe (votre gestionnaire de compte) pour acheter une adresse IP dédiée.
 
-* L’alignement Strict SPF n’est ni pris en charge ni recommandé dans Marketo.
+* L’alignement Strict SPF n’est ni pris en charge ni recommandé dans Marketo Engage.
 
 ## Étape 5 : configuration des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
 
