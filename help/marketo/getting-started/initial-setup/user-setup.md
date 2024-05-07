@@ -3,7 +3,7 @@ description: Avant de vous plonger dans votre nouvelle instance de Marketo Engag
 title: Liste de contrôle de configuration de l’utilisateur
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '776'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Maintenant que vous avez terminé toutes les [étapes de configuration initiales
 
 >[!NOTE]
 >
->Vous pouvez également télécharger cette liste de contrôle, [ainsi qu’une liste des bonnes pratiques](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) pour votre nouvelle instance, et vérifiez les étapes au fur et à mesure.
+>Vous pouvez également télécharger cette liste de contrôle, [ainsi qu’une liste des bonnes pratiques](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) pour votre nouvelle instance, et vérifiez les étapes au fur et à mesure.
 
 ## Marketo Engage sur Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 

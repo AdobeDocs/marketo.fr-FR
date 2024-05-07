@@ -3,7 +3,7 @@ description: Configurez la section Base de données pour votre nouvelle instance
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle des bases de données
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 9%
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 La section Base de données vous permet de trouver les attributs clés des personnes de votre instance. En savoir plus sur les étapes nécessaires pour parcourir différentes listes et segments dans votre base de données, ainsi que sur la gestion des enregistrements de personnes.
 
-N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
+N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 ## Listes intelligentes du système {#system-smart-lists}
 

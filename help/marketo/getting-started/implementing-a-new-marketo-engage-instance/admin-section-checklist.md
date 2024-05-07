@@ -3,7 +3,7 @@ description: Configurez la section Admin pour votre nouvelle instance de Marketo
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle des sections d’administration
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 6%
@@ -12,7 +12,7 @@ ht-degree: 6%
 
 # Bonnes pratiques relatives aux nouvelles instances : liste de contrôle des sections d’administration {#new-instance-best-practices-admin-section-checklist}
 
-En tant que nouvel administrateur naviguant dans une nouvelle instance de Marketo Engage, appliquez la liste de contrôle ci-dessous pour vous aider à accomplir le processus de mise en oeuvre. Comme avec tous ces guides, vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
+En tant que nouvel administrateur naviguant dans une nouvelle instance de Marketo Engage, appliquez la liste de contrôle ci-dessous pour vous aider à accomplir le processus de mise en oeuvre. Comme avec tous ces guides, vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 ## Rôles {#roles}
 

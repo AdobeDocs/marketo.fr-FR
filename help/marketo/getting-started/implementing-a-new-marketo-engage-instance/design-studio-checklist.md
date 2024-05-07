@@ -3,7 +3,7 @@ description: Configurez la section Design Studio pour votre nouvelle instance de
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle de Design Studio
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 6%
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 La section Design Studio indique où doivent résider les &quot;ressources globales&quot; réutilisables. Créez les ressources globales que votre organisation prévoit d’utiliser dans les programmes, utilisez une convention d’affectation des noms cohérente et organisez-les dans les sous-dossiers pour des recherches faciles.
 
-N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
+N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 ## Pages de destination {#landing-pages}
 

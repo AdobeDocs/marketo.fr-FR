@@ -3,7 +3,7 @@ description: Configurez la section Activités marketing pour votre nouvelle inst
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle des activités marketing
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Les activités marketing hébergent toutes les ressources et le contenu qui constituent vos programmes marketing automatisés. Lorsque vous configurez une nouvelle instance de Marketo Engage, une organisation claire et nette garantit que tous les utilisateurs peuvent facilement trouver et gérer divers programmes.
 
-N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
+N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) et suivez vos progrès.
 
 ## Entreprise {#organization}
 
