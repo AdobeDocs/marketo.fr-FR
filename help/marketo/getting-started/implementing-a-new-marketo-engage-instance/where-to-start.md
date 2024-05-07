@@ -3,7 +3,7 @@ description: Découvrez les bonnes pratiques lors de la mise en oeuvre d’une n
 title: Où commencer
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -20,9 +20,9 @@ Dans ce guide &quot;Implémentation d’une nouvelle instance de Marketo Engage&
 
 Avant de passer aux listes de contrôle des bonnes pratiques ci-dessous, vérifiez que vous avez suivi les étapes de la zone Configuration initiale .
 
-* [Étapes de configuration](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Étapes de configuration](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-* [Configurer des protocoles](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Configurer des protocoles](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
 * [Liste de contrôle de configuration de l’utilisateur](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
 

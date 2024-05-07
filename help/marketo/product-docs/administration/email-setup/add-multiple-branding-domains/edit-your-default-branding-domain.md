@@ -4,10 +4,10 @@ description: Modification de votre domaine de marque par défaut - Documents Mar
 title: Modification de votre domaine de marque par défaut
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -17,9 +17,9 @@ La modification de votre domaine de branding par défaut est la première étape
 
 >[!PREREQUISITES]
 >
->Assurez-vous que vous avez [configurer un CNAME dans votre DNS ;](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) avant d’ajouter vos domaines de marque dans Marketo.
+>Vérifiez que vous avez [configurer un CNAME dans votre DNS ;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) avant d’ajouter vos domaines de marque dans Marketo.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 

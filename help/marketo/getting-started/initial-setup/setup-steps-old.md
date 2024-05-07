@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2071'
 ht-degree: 0%
@@ -206,7 +206,7 @@ Vous disposez maintenant de toutes les informations dont vous avez besoin pour e
 
 Une fois que vous avez collecté toutes les informations nécessaires, vous êtes prêt à envoyer une demande au service informatique. Vous pouvez utiliser le texte ci-dessous comme modèle, en remplaçant le texte en gras par vos propres informations.
 
-[Inclure un lien vers cet article](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[Inclure un lien vers cet article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 Collez ce texte dans l’email et remplacez les espaces réservés en gras :
 
