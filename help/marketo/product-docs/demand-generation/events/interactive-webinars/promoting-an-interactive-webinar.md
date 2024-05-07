@@ -3,9 +3,9 @@ description: Promotion d’un webinaire interactif - Documents Marketo - Documen
 title: Promotion d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,11 @@ La promotion d’un webinaire interactif est similaire à la promotion d’un we
 
 Une fois les membres ajoutés ou importés dans le programme, vous pouvez créer une campagne par e-mail dans le programme d’événement webinaire interactif pour envoyer une invitation à tous les membres du programme et modifier leur statut &quot;invité&quot; une fois le message envoyé.
 
-L&#39;email peut contenir des détails spécifiques sur le programme, ainsi qu&#39;une URL de landing page qui redirigerait le destinataire vers une page spécifique où plus d&#39;informations concernant le webinaire (contenu, informations sur le présentateur, etc.). peut être ajouté. Cette page d’entrée peut être créée en tant que ressource locale dans le programme d’événements de webinaires interactifs.
+>[!NOTE]
+>
+>Si vous souhaitez ajouter un co-hôte ou un présentateur en tant que membre de l’audience au programme d’événement de webinaire interactif, vous devez utiliser un autre ID d’adresse électronique pour celui-ci, sans quoi il recevra une erreur &quot;cet email est déjà enregistré&quot;.
+
+L’email peut contenir des détails spécifiques sur le programme, ainsi qu’une URL de page d’entrée qui redirigerait le destinataire vers une page spécifique où plus d’informations sur le webinaire (contenu, informations sur le présentateur, etc.). peut être ajouté. Cette page d’entrée peut être créée en tant que ressource locale dans le programme d’événements de webinaires interactifs.
 
 Vous pouvez solliciter l’enregistrement pour ce webinaire en activant un formulaire sur la page d’entrée et en liant les clics sur le formulaire à l’enregistrement activé dans le programme d’événement de webinaire interactif. Une campagne peut ensuite être créée en utilisant les envois de formulaire comme déclencheur et en remplaçant l’état du programme &quot;invité&quot; par &quot;enregistré&quot;.
 
