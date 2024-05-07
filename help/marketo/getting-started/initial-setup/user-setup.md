@@ -3,9 +3,9 @@ description: Avant de vous plonger dans votre nouvelle instance de Marketo Engag
 title: Liste de contrôle de configuration de l’utilisateur
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Vos nouveaux abonnements à Marketo Engage sont intégrés à [Adobe Identity Ma
     <td>Administration des produits d’abonnement et de Marketo Engage</td>
     <td><li>Vérifiez que l’administrateur système de votre organisation d’Adobe vous a accordé un rôle d’administrateur de produit Adobe.</li>  
     <ul>
-    <li>Contactez l’équipe Compte d’Adobe (votre gestionnaire de compte) ou envoyez un courrier électronique à l’adresse <code>customercare@marketo.com</code> ou envoyez un courrier électronique à l’adresse customercare@marketo.comto pour savoir qui de votre entreprise possède <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrateur système Adobe Admin Console</a> des privilèges.</li></ul>
+    <li>Contactez l’équipe Compte d’Adobe (votre gestionnaire de compte) ou envoyez un courrier électronique à l’adresse <code>customercare@marketo.com</code> pour savoir qui au sein de votre organisation possède <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrateur système Adobe Admin Console</a> des privilèges.</li></ul>
     <li>Acceptez l’invitation "Administrateur de produit Marketo Engage" pour activer votre Adobe ID. La variable <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">courrier électronique de bienvenue</a> est envoyé lorsque le rôle est affecté dans Adobe Admin Console.</li></td>
   </tr>
   <tr>
