@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 11%
+source-wordcount: '428'
+ht-degree: 10%
 
 ---
 
@@ -53,7 +53,18 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Nouvelles autorisations d’utilisateurs et de rôles</strong>: de nouvelles autorisations sont disponibles, ce qui donne aux utilisateurs un accès plus granulaire à Marketo Engage. Les parties de contrôle de l’administrateur qui n’étaient pas jusque-là sécurisées, telles que Nouvelle expérience et Audiences prédictives, partagent les autorisations pour accorder l’accès au journal d’audit des ressources et au journal d’audit de l’administrateur séparément, et utilisent de nouvelles autorisations de création et de déplacement pour les ressources et les dossiers afin d’empêcher les utilisateurs en lecture seule d’apporter des modifications. Bien que les nouvelles autorisations s’affichent dans votre instance de Marketo Engage à compter du 26 avril, elles sont passives pour l’instant et deviennent accessibles plus tard ce trimestre.</td> 
+   <td><strong>Nouvelles autorisations d’utilisateurs et de rôles</strong>: de nouvelles autorisations sont disponibles, ce qui donne aux utilisateurs un accès plus granulaire à Marketo Engage. Les parties de contrôle de l’administrateur qui n’étaient pas jusque-là sécurisées, telles que Nouvelle expérience et Audiences prédictives, partagent les autorisations pour accorder l’accès au journal d’audit des ressources et au journal d’audit de l’administrateur séparément, et utilisent de nouvelles autorisations de création et de déplacement pour les ressources et les dossiers afin d’empêcher les utilisateurs en lecture seule d’apporter des modifications. 
+   <p>Bien que les nouvelles autorisations s’affichent dans votre instance de Marketo Engage à compter du 26 avril, elles sont passives pour l’instant et deviennent accessibles plus tard ce trimestre.
+   <li>Accès à Adobe Experience Manager</li>
+   <li>Mappage de l’organisation d’accès</li>
+   <li>Accéder au journal d’audit de l’administrateur</li>
+   <li>Accéder au journal d’audit des ressources</li>
+   <li>Accès à une nouvelle expérience</li>
+   <li>Accès aux audiences prédictives</li>
+   <li>Créer un rapport</li>
+   <li>Créer une liste</li>
+   <li>Exporter l’activité de campagne</li>
+   </td> 
    <td>Expédié</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions des autorisations de rôle</a></td>
   </tr>
