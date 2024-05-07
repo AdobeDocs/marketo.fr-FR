@@ -4,9 +4,9 @@ description: Envoi d’un e-mail de vente Marketo à partir de Microsoft Dynamic
 title: Envoi d’un e-mail de vente Marketo à partir de Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Votre équipe commerciale peut envoyer des emails et les faire suivre pour les o
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Cliquez sur le bouton **...** , puis cliquez sur **Envoyer un courrier électronique Marketo**.
+1. Cliquez sur le bouton **..** , puis cliquez sur **Envoyer un courrier électronique Marketo**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -39,7 +39,13 @@ Votre équipe commerciale peut envoyer des emails et les faire suivre pour les o
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   Vous pouvez cliquer sur **Envoyer un courrier électronique de test** d’abord, et l’e-mail vous sera envoyé (adresse électronique Principale dans Microsoft Dynamics) avant d’envoyer l’e-mail réel.
+   >[!TIP]
+   >
+   >Cliquez sur **Envoyer un courrier électronique de test** d’abord, et l’e-mail vous sera envoyé (adresse électronique principale dans Microsoft Dynamics) avant d’envoyer l’e-mail réel.
+
+   >[!NOTE]
+   >
+   >Vous pouvez envoyer jusqu’à 2 000 emails Marketo à la fois.
 
 C&#39;est joli ! Vous savez maintenant comment envoyer des emails trackés Marketo directement depuis Microsoft Dynamics.
 
