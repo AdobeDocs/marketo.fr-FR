@@ -4,9 +4,9 @@ description: Désabonnement durable - Documents Marketo - Documentation du produ
 title: Désabonnement durable
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo a amélioré le comportement de la fonctionnalité de désabonnement pour la rendre &quot;durable&quot;. Nous avons ajouté un état d’email principal, qui est distinct de l’indicateur de désabonnement visible dans l’enregistrement des détails de la personne.
 
-Si l’indicateur unsubscribe est défini sur false sur true, l’état de l’email principal est mis à jour et la modification est propagée à d’autres personnes ayant la même adresse email. Si une personne est supprimée et recréée, ou si un nouvel enregistrement est créé avec la même adresse électronique, l’indicateur de désabonnement s’affiche. **not** être écrasée.
+Si l’indicateur unsubscribe est défini sur false sur true, l’état de l’email principal est mis à jour et la modification est propagée à d’autres personnes ayant la même adresse email. Si une personne est supprimée et recréée, ou si un nouvel enregistrement est créé avec la même adresse électronique, l’indicateur de désabonnement s’affiche **not** être écrasée.
 
 >[!NOTE]
 >
@@ -52,10 +52,6 @@ Si vous remplacez une adresse email désabonnée par une adresse qui est abonné
 ## Réabonnement {#re-subscribing}
 
 Tout comme un désabonnement provoquait la désinscription de toutes les personnes ayant la même adresse email, un réabonnement réabonnait en fait chaque personne ayant la même adresse email.
-
-## Journal d&#39;activité {#activity-log}
-
-Définitions des changements de valeur de données pour _updateLeadEmailStatus_ et _resetLeadEmailStatus_ se trouve dans [cet article de la communauté](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
