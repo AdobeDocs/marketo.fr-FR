@@ -3,9 +3,9 @@ description: Glossaire du Marketo Engage - Documents Marketo - Documentation du 
 title: Glossaire du Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 4%
 
 ---
@@ -129,11 +129,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   <tr> 
    <td colspan="1"><strong>Campagne</strong></td> 
    <td colspan="1">"Campaign" peut signifier quelques éléments dans Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> est un terme plus court pour les campagnes intelligentes. Dans <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagnes</a> sont une série d’étapes de correspondance multicanal. Dans <strong>Personnalisation web</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagnes</a> sont des réactions personnalisées associées à un segment spécifique.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Rapport Activité de campagne</a></strong></td> 
-   <td colspan="1">Type de rapport qui indique comment <strong>campagnes intelligentes</strong> sont performantes.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Rapport Performances des emails de campagne</a></strong></td> 
    <td colspan="1">Type de rapport qui affiche les mesures de performances des emails regroupées par <strong>campagne dynamique</strong>.</td> 

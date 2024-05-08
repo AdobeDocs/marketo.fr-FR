@@ -4,16 +4,16 @@ description: Courriel du rapport, Performances de Campaign dans tous les espaces
 title: Courriel du rapport, Performances des campagnes dans les espaces de travail
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Courriel du rapport, Performances des campagnes dans les espaces de travail {#report-email-campaign-performance-across-workspaces}
 
-Activez la création de rapports globaux pour inclure les données de tous vos Marketo. [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) dans votre [Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Performances des liens du courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), et [Activité de campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) rapports.
+Activez la création de rapports globaux pour inclure les données de tous vos Marketo. [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) dans votre [Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) et [Performances des liens du courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapports.
 
 1. Accédez à **Analytics** (ou **Activités marketing**).
 

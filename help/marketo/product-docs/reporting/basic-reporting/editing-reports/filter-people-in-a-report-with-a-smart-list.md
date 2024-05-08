@@ -4,10 +4,10 @@ description: Filtrage des personnes dans un rapport avec une liste dynamique - D
 title: Filtrage des personnes dans un rapport avec une liste dynamique
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 21%
+source-wordcount: '132'
+ht-degree: 20%
 
 ---
 
@@ -20,13 +20,12 @@ Vous pouvez utiliser des listes dynamiques avec les types de rapports suivants :
 * [Performance des individus](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Individus par statut](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
 * [Individus par étape de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-* [Envoyer la performance par e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [Envoyer la performance lien par e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [Performance des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [Performance du lien par e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Performance du stream d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Activité campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 * [Performance campagne e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [Activité Web Société](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Activité page Internet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [Activité Web de la société](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [Activité de page Internet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. Accédez au **Activités marketing** zone.
 
