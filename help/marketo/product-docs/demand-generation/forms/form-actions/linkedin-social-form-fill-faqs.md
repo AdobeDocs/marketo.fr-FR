@@ -2,11 +2,13 @@
 unique-page-id: 10098238
 description: FAQ sur le remplissage de formulaires linkedIn Social - Documents Marketo - Documentation du produit
 title: FAQ sur le remplissage de formulaires linkedIn Social
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ La politique d’API révisée de linkedIn nous obligeait à supprimer LinkedIn 
 
 ## Pourquoi cette fonctionnalité a-t-elle été supprimée de mon abonnement Marketo ? {#why-was-this-functionality-removed-from-my-marketo-subscription}
 
-linkedIn a apporté des modifications importantes à son programme de développement. Dans le cadre de ces modifications, Marketo ne peut plus prendre en charge cette fonctionnalité pour les clients.
+LinkedIn a apporté des modifications importantes à son programme de développement. Dans le cadre de ces modifications, Marketo ne peut plus prendre en charge cette fonctionnalité pour les clients.
 
 ## Que se passe-t-il si je n’ai pas supprimé les boutons Remplir le formulaire Social LinkedIn de mes formulaires pour lesquels le formulaire Social était activé ? {#what-happened-if-i-didnt-remove-the-linkedin-social-form-fill-buttons-from-my-forms-that-had-social-form-enabled}
 
@@ -37,7 +39,7 @@ Avant d’apporter cette modification, nous avons envoyé des notifications hebd
 
 Oui. La modification n’a un impact que sur la fonctionnalité Remplir le formulaire LinkedIn Social .
 
-## Le remplissage de formulaires sociaux Facebook et Twitter fonctionne-t-il toujours ? {#do-facebook-and-twitter-social-form-fill-still-work}
+## Facebook et le remplissage de Twitter sociaux fonctionnent-ils toujours ? {#do-facebook-and-twitter-social-form-fill-still-work}
 
 Oui. Le remplissage des formulaires sociaux facebook et Twitter n’a pas été modifié.
 
@@ -45,7 +47,7 @@ Oui. Le remplissage des formulaires sociaux facebook et Twitter n’a pas été 
 
 Non, ces données étaient déjà stockées dans l’enregistrement de la personne dans Marketo et n’ont pas été affectées par cette modification.
 
-## Où puis-je trouver plus d’informations sur la politique d’API de LinkedIn ? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
+## Où puis-je trouver plus d’informations sur la stratégie de l’API LinkedIn ? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
 Suivez ce lien pour en savoir plus sur les modifications apportées à la stratégie d’API de LinkedIn : [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
@@ -61,11 +63,11 @@ Non, vos formulaires dont nous avons supprimé cette fonctionnalité sont toujou
 
 Non, nous ne supprimerons que le bouton LinkedIn de votre formulaire. Chaque fois que l’option Remplissage du formulaire pour les réseaux sociaux est appliquée à un formulaire, un conteneur est créé au-dessus de celui-ci et contient les boutons Remplissage du formulaire pour les réseaux sociaux . Avant le 28 avril 2016, si LinkedIn était la seule option, l’aspect du conteneur ressemblait à cette image :
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Après le 28 avril 2016, un conteneur vide reste maintenant en haut de tout formulaire pour lequel le remplissage de formulaire LinkedIn Social a été supprimé :
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
