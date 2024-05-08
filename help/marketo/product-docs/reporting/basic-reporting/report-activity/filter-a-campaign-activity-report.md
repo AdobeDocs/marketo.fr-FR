@@ -4,7 +4,7 @@ description: Filtrage d’un rapport Activité de campagne - Documents Marketo -
 title: Filtrage d’un rapport d’activité de campagne
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ Concentrez-vous sur vos [Rapport Activité de campagne](/help/marketo/product-do
 
 1. Accédez à **Activités marketing** (ou **Analytics**) et sélectionnez votre rapport d’activité de campagne.
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. Cliquez sur le bouton **Configuration** et double-cliquez **Campagnes**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. Sélectionnez les dossiers et les campagnes intelligentes spécifiques à inclure dans votre rapport. Cliquez sur **Appliquer**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ Concentrez-vous sur vos [Rapport Activité de campagne](/help/marketo/product-do
 
 1. Vous avez fini ! Cliquez sur le bouton **Rapport** pour voir _just_ les campagnes intelligentes sélectionnées dans votre rapport.
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
