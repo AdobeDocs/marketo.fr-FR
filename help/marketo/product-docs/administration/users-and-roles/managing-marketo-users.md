@@ -4,14 +4,18 @@ description: Gestion des utilisateurs de Marketo - Documents Marketo - Documenta
 title: Gestion des utilisateurs Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---
 
 # Gestion des utilisateurs Marketo {#managing-marketo-users}
+
+>[!IMPORTANT]
+>
+>Cet article est destiné uniquement à ceux qui le font. _not_ use [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} au lieu de .
 
 ## Création d’utilisateurs {#create-users}
 
@@ -71,7 +75,7 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
 >[!NOTE]
 >
->Si l’utilisateur que vous souhaitez supprimer est également un utilisateur Dynamic Chat, vous devez [les supprimer du Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) dans le Admin Console avant de pouvoir les supprimer dans Marketo Engage.
+>Si l’utilisateur que vous souhaitez supprimer est également un utilisateur Dynamic Chat, vous devez [les supprimer du Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} dans le Admin Console avant de pouvoir les supprimer dans Marketo Engage.
 
 1. Accédez au **[!UICONTROL Administration]** zone.
 
