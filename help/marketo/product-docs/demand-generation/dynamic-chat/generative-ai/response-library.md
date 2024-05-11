@@ -4,10 +4,10 @@ title: Bibliothèque de réponses
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 4%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -57,24 +57,49 @@ Au même endroit, affichez toutes vos questions, leur état d’approbation et l
 
 ## Modification et téléchargement en masse de questions/réponses {#bulk-edit-and-upload-questions-responses}
 
-1. Texte
+Vous trouverez ci-dessous des instructions sur la manière d’effectuer des modifications en bloc dans le fichier Excel téléchargé. Elles sont également visibles dans l’onglet Détails de la tâche du fichier.
 
-CAPTURE D’ÉCRAN
+<table>
+<thead>
+  <tr>
+    <th>Action</th>
+    <th>Instructions</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Modifier une question</td>
+    <td>Saisissez la nouvelle question dans la colonne "edouedQuestion" (colonne H).</td>
+  </tr>
+  <tr>
+    <td>Modification d’une réponse</td>
+    <td>Saisissez la nouvelle réponse dans la colonne "editResponse" (colonne I)</td>
+  </tr>
+  <tr>
+    <td>Ajouter une nouvelle question</td>
+    <td>Saisissez la nouvelle question dans la colonne "edouedQuestion" (colonne H) et laissez questionResponseld vide. Vous devez également saisir une rubrique appropriée dans la colonne "rubriques" (colonne C) et une URL source dans la colonne "sourceUr!".</td>
+  </tr>
+  <tr>
+    <td>Ajouter une question et une réponse</td>
+    <td>Saisissez la nouvelle question dans la colonne "edouedQuestion" (colonne H), la nouvelle réponse dans la colonne "edouedResponse" (colonne I), et laissez questionResponseld vide. Vous devez également saisir une rubrique appropriée dans la colonne "Rubriques" (colonne C).</td>
+  </tr>
+</tbody>
+</table>
 
-1. Texte
+1. Une fois les modifications apportées au fichier, revenez à l’onglet Bibliothèque de réponses et cliquez sur Charger les réponses.
 
-CAPTURE D’ÉCRAN
+   ![](assets/response-library-9.png)
 
-1. Texte
+1. Saisissez le nom de la tâche concernée. Effectuez un glisser-déposer de votre fichier ou recherchez-le sur votre périphérique et sélectionnez-le. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
-CAPTURE D’ÉCRAN
+   ![](assets/response-library-10.png)
 
-1. Texte
+1. La confirmation s&#39;affiche et vous êtes tous prêts.
 
-CAPTURE D’ÉCRAN
+   ![](assets/response-library-11.png)
 
 ## Filtrage des questions {#filter-your-questions}
 
 Par défaut, les questions sont répertoriées par date/heure de création, les questions les plus récentes étant affichées en premier. Si vous recherchez une question spécifique, appliquez des filtres pour affiner votre recherche. Filtrez par rubriques, nom de la tâche et/ou état d’approbation.
 
-CAPTURE D’ÉCRAN
+![](assets/response-library-12.png)

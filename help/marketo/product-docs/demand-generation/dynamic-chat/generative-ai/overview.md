@@ -4,10 +4,10 @@ title: Présentation de l’IA générique
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -17,24 +17,24 @@ L’intelligence artificielle générée dans Adobe Dynamic Chat permet d’acc�
 
 ## Génération de questions {#question-generation}
 
-Élever les expériences entrantes avec des conversations assistées par l’IA pour les visiteurs qui utilisent une interface formée à la vente, au marketing et aux connaissances sur les produits.
+[Élever les expériences entrantes](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) avec des conversations assistées par l’IA pour les visiteurs qui utilisent une interface formée à la vente, au marketing et aux connaissances produit.
 
-CAPTURE D’ÉCRAN
+![](assets/generative-ai-overview-1.png)
 
 ## Bibliothèque de réponses {#response-library}
 
-Produisez une collection personnalisée de questions et réponses, toutes prévalidées par vous, à utiliser dans les campagnes de discussion Generative AI.
+[Génération d’une collection personnalisée](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de questions et réponses, toutes prévalidées par vous, à utiliser dans les campagnes de discussion Generative AI.
 
-CAPTURE D’ÉCRAN
+![](assets/generative-ai-overview-2.png)
 
 ## Journal d’activités {#activity-log}
 
-Consultez la liste de toutes les tâches et les détails associés, notamment le nom, le propriétaire, le type, les personnes qui les ont modifiées et quand.
+[Afficher la liste de toutes les tâches](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) et les détails qui les accompagnent, notamment le nom, le propriétaire, le type, et la personne qui les a modifiés et quand.
 
-CAPTURE D’ÉCRAN
+![](assets/generative-ai-overview-3.png)
 
 ## Questions sans réponse {#unanswered-questions}
 
-Créez d’autres réponses préapprouvées pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel de questions sans réponse issues des conversations précédentes.
+[Créer des réponses prévalidées supplémentaires](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel de questions sans réponse issues de conversations précédentes.
 
-CAPTURE D’ÉCRAN
+![](assets/generative-ai-overview-4.png)
