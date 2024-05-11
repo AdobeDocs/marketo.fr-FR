@@ -4,16 +4,16 @@ title: Questions sans réponse
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 3%
 
 ---
 
 # Questions sans réponse {#unanswered-questions}
 
-Découvrez toutes les questions auxquelles le chatterbot n’a pas répondu ou celles que les visiteurs ont marquées comme &quot;non utiles&quot; et utilisez ces informations précieuses pour créer d’autres réponses pré-approuvées.
+Consultez toutes les questions auxquelles le chatterbot n’a pas pu répondre et/ou celles que les visiteurs ont marquées comme &quot;non utiles&quot; et utilisez ces informations précieuses pour créer des réponses prévalidées supplémentaires.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Découvrez toutes les questions auxquelles le chatterbot n’a pas répondu ou c
 
    ![](assets/unanswered-questions-2.png)
 
-1. Sélectionnez la question sans réponse pour laquelle vous souhaitez générer une réponse.
+1. Sélectionnez la question sans réponse pour laquelle vous souhaitez créer une réponse.
 
    ![](assets/unanswered-questions-3.png)
 

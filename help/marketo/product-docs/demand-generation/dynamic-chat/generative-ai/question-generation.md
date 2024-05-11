@@ -4,16 +4,16 @@ title: Génération de questions
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # Génération de questions {#question-generation}
 
-Affichez toutes vos tâches et leurs détails de persévérance, tels que le moment où elles ont été générées, le nombre total de questions, l’état d’approbation, etc.
+Affichez toutes vos tâches et leurs détails pertinents, tels que le moment où elles ont été générées, le nombre total de questions, l’état d’approbation, etc.
 
 ## Générer des questions {#generate-questions}
 
@@ -37,11 +37,11 @@ Affichez toutes vos tâches et leurs détails de persévérance, tels que le mom
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->L’état de la page n’est pas mis à jour en temps réel. Actualisez l’accès pour savoir quand l’accès passe de &quot;Traitement&quot; à &quot;Terminé&quot;.
+   >[!TIP]
+   >
+   >L’état de la page n’est pas mis à jour en temps réel. Actualisez l’accès pour savoir quand l’accès passe de &quot;Traitement&quot; à &quot;Terminé&quot;.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## Téléchargement des questions et réponses {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ Affichez toutes vos tâches et leurs détails de persévérance, tels que le mom
 
    ![](assets/question-generation-6.png)
 
-1. Recherchez le dossier de téléchargements dans votre navigateur et sélectionnez le fichier. Cela peut avoir un aspect différent selon votre navigateur.
+1. Recherchez le dossier de téléchargements dans votre navigateur et sélectionnez le fichier. Cela peut avoir un aspect différent selon le navigateur que vous utilisez.
 
    ![](assets/question-generation-7.png)
 
