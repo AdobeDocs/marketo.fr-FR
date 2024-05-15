@@ -4,9 +4,10 @@ title: Questions sans réponse
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 3%
 
 ---
@@ -17,13 +18,13 @@ Consultez toutes les questions auxquelles le chatterbot n’a pas pu répondre e
 
 >[!NOTE]
 >
->La liste des questions sans réponse est actualisée automatiquement toutes les 24 heures.
+>La liste des questions sans réponse est actualisée automatiquement toutes les 24 heures, à minuit (heure du Pacifique).
 
-1. Sous Generative AI, cliquez sur **Réponses assistées**.
+1. Sous Generative AI, cliquez sur **[!UICONTROL Réponses assistées]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Cliquez sur le bouton **Questions sans réponse** .
+1. Cliquez sur le bouton **[!UICONTROL Questions sans réponse]** .
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ Consultez toutes les questions auxquelles le chatterbot n’a pas pu répondre e
 
    ![](assets/unanswered-questions-3.png)
 
-1. Saisissez votre réponse. Attribuez une rubrique et ajoutez une URL facultative que les utilisateurs peuvent partager avec les visiteurs. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Saisissez votre réponse. Attribuez une rubrique et ajoutez une URL facultative que les utilisateurs peuvent partager avec les visiteurs. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/unanswered-questions-4.png)
 

@@ -4,16 +4,29 @@ title: Présentation de l’IA générique
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 6%
+source-wordcount: '354'
+ht-degree: 3%
 
 ---
 
 # Présentation de l’IA générique {#generative-ai-overview}
 
-L’intelligence artificielle générée dans Adobe Dynamic Chat permet d’accélérer la création de campagnes pour le marketing, d’améliorer les réponses des agents de vente en direct et de répondre à pratiquement toutes les questions à l’aide d’un référentiel de contenu auto-géré.
+Dans Adobe Dynamic Chat, l’IA générique traite les signaux d’intention, les préférences de l’utilisateur et le comportement passé en temps réel afin de générer des messages pertinents et personnalisés pour les visiteurs du chat.
+
+## Carte de réponse de génération {#generation-response-card}
+
+Créez un message à l’intention du visiteur lorsqu’il atteint un certain point de la conversation. Définissez un certain nombre de questions qu’ils peuvent poser en une seule fois pour atteindre l’indicateur de performance clé souhaité. Ajoutez jusqu’à 5 questions de relance et insérez un message de secours lorsqu’aucune réponse n’est disponible pour la question d’un visiteur.
+
+(assets/generative-ai-overview-1.png
+
+## Résumé de conversation {#conversation-summary}
+
+En règle générale, pour obtenir le contexte complet d’une conversation de visiteur, vous devez parcourir la transcription complète de la conversation. Le résumé de la conversation génère un résumé en temps réel à votre intention et inclut même des sujets qui intéressent le visiteur. Ceci est particulièrement utile pour les agents de conversation qui ont besoin d’un contexte rapide d’une conversation lorsqu’ils basculent entre des tchats avec plusieurs visiteurs.
+
+(assets/generative-ai-overview-2.png
 
 ## Génération de questions {#question-generation}
 
@@ -35,6 +48,33 @@ L’intelligence artificielle générée dans Adobe Dynamic Chat permet d’acc�
 
 ## Questions sans réponse {#unanswered-questions}
 
-[Créer des réponses prévalidées supplémentaires](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel de questions sans réponse issues de conversations précédentes.
+[Créer des réponses prévalidées supplémentaires](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel UTILISEZ DIFFÉRENTS MOTS DES questions sans réponse des conversations précédentes.
 
 ![](assets/generative-ai-overview-4.png)
+
+>[!IMPORTANT]
+>
+>Lorsque vous utilisez l’IA générative, vous devez respecter les [Directives d’utilisation de Adobe Experience Cloud Generator AI](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) nous pouvons donc nous assurer que les fonctionnalités de Adobe Experience Cloud qui intègrent l’IA générative sont utilisées de manière sûre et responsable.
+
+## Questions fréquentes {#faq}
+
+**L’IA générative est-elle disponible pour tous les utilisateurs Dynamic Chat ?**
+
+Generative AI est uniquement disponible pour les abonnés Prime Dynamic Chat.
+
+**Y a-t-il une limite à la quantité de questions et réponses que je peux générer ?**
+
+Oui. Il existe actuellement une limite de vie de 1 000.
+
+**Quelles langues sont disponibles dans l’IA générique ?**
+
+Actuellement, seul l’anglais est pris en charge dans l’IA générative.
+
+
+
+POUR KG CI-DESSOUS...
+
+VIDÉO - 13:09 - RACCOURCIS
+
+
+
