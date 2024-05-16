@@ -1,11 +1,12 @@
 ---
 description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 2%
 
 ---
@@ -41,7 +42,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
   <td>Utilisez cette option lorsque vous souhaitez collecter des informations (par exemple, nom, adresse électronique, titre de la tâche, etc.). Après avoir choisi le champ auquel attribuer la réponse, vous pouvez choisir de laisser le visiteur saisir sa réponse ou sélectionner des options dans une liste de sélection que vous déterminez (astuce : cette dernière peut vous aider à nettoyer la base de données). Vous pouvez également choisir de remplacer les données que vous avez actuellement répertoriées pour elles par leur réponse ou, si vous avez déjà une valeur pour vous, ignorer entièrement la question.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Réservation de réunion</strong></td>
+  <td style="width:25%"><strong>Réservation Réunion</strong></td>
   <td>Fournit au visiteur un calendrier des dates disponibles pour planifier une réunion. Choisissez la disponibilité du calendrier à l’aide d’un robot d’arrondi, d’un agent spécifique ou de règles personnalisées. Cliquez sur <b>Ajouter un attribut</b> si vous souhaitez capturer le nom ou l’adresse électronique de l’agent et l’affecter à l’enregistrement de personne du visiteur du chat pour une interrogation ultérieure (astuce : créez un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">champ personnalisé</a> pour mapper les informations de l’agent sur de manière à ne pas remplacer un champ de Marketo Engage standard).</td>
  </tr>
  <tr>
@@ -51,22 +52,13 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  <tr>
   <td style="width:25%"><strong>Action*</strong></td>
   <td>Comme pour les champs masqués d’un formulaire, vous pouvez remplir n’importe quel attribut de piste ou de société avec la carte d’action <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">type de données de chaîne</a>) avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.
-  <p><i>* Cette carte nécessite Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).</i></td>
+  <p><i>* La carte Action nécessite Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat en direct</strong></td>
   <td>Utilisez la carte de conversation en direct lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
   <li>La carte de conversation en direct doit être la dernière carte de la branche.</li>
   <li>Les visiteurs sont redirigés vers un agent dès qu’ils atteignent cette carte dans le flux. Il est donc recommandé de précéder cette carte d’une carte de questions demandant aux visiteurs s’ils souhaitent discuter avec un agent en direct.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Réponses générées*</strong></td>
-  <td>Créez un message à l’intention du visiteur lorsqu’il atteint un certain point de la conversation. Définissez un certain nombre de questions qu’ils peuvent poser en une seule fois pour atteindre l’indicateur de performance clé souhaité.
-  <p><i>* Cette carte nécessite Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Branche conditionnelle</strong></td>
-  <td>Créez des branches dans vos flux de dialogue en fonction de différentes conditions. Présenter un contenu différent à différentes personnes dans le même dialogue en fonction des attributs de prospect et de société dans Marketo Engage.</td>
  </tr>
 </table>
 

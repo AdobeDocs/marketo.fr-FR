@@ -1,11 +1,12 @@
 ---
 description: Boîte de réception des agents - Documents Marketo - Documentation du produit
 title: Boîte de réception de l’agent(e)
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '301'
 ht-degree: 2%
 
 ---
@@ -56,45 +57,11 @@ Les agents peuvent mettre fin manuellement à une session en cliquant simplement
 
 ![](assets/agent-inbox-6.png)
 
-## Raccourcis {#shortcuts}
-
->[!NOTE]
->
->Cette fonctionnalité fait partie de l’IA générative, disponible via l’abonnement Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
-
-Raccourcis, optimisés par l’IA générative [Bibliothèque de réponses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), est un excellent moyen d’obtenir de l’aide à la volée lorsque vous discutez avec un visiteur. Il vous suffit de saisir une barre oblique (`/`) dans la zone de texte et choisissez `ask` ou `search`.
-
-![](assets/agent-inbox-7.png)
-
-**Poser** est destiné à obtenir de l’aide sur les réponses à une question.
-
-1. Type ou choix `/ask` dans la zone de texte. Saisissez votre question et appuyez sur Entrée sur votre clavier.
-
-   ![](assets/agent-inbox-8.png)
-
-1. Une réponse apparaît. Cliquez sur l’icône de copie pour qu’elle soit collée dans la zone de texte. Vous pouvez modifier le texte avant de l’envoyer au visiteur.
-
-   ![](assets/agent-inbox-9.png)
-
-**Rechercher** est destiné à vous aider à trouver des pages liées à du texte spécifique.
-
-1. Type ou choix `/search` dans la zone de texte.
-
-   ![](assets/agent-inbox-10.png)
-
-1. Saisissez ce que vous souhaitez rechercher et appuyez sur Entrée sur votre clavier.
-
-   ![](assets/agent-inbox-11.png)
-
-1. Les liens applicables s’affichent. Cliquez sur l’icône de copie pour les coller dans la zone de texte. Vous pouvez apporter des modifications avant d’envoyer les informations au visiteur.
-
-   ![](assets/agent-inbox-12.png)
-
 ## Historique de l&#39;activité {#activity-history}
 
 L’historique des activités se trouve sous les informations sur les visiteurs. Affichez les types d’activité et les dates, et même les transcriptions de conversation.
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ Au bas de la fenêtre de conversation en direct se trouve une icône qui vous pe
 
 1. Cliquez sur l’icône du calendrier.
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Sélectionnez le calendrier de l’agent de votre choix, puis cliquez sur **Envoyer**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. Le visiteur pourra réserver une réunion.
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## Résumé de conversation {#conversation-summary}
-
->[!NOTE]
->
->Cette fonctionnalité fait partie de l’IA générative, disponible via l’abonnement Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
-
-Le résumé de conversation génère un résumé rapide en temps réel à votre intention, y compris les sujets qui intéressent le visiteur. Il est disponible en bas à droite de chaque écran de conversation.
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->Vous trouverez également un résumé de conversation terminé dans le journal d’activité de l’enregistrement de personne du visiteur dans votre base de données de Marketo Engage.
