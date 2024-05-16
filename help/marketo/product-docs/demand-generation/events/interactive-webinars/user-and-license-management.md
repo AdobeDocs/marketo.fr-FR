@@ -3,10 +3,10 @@ description: Gestion des utilisateurs et des licences - Documents Marketo - Docu
 title: Gestion des utilisateurs et des licences
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
 workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Découvrez comment ajouter et supprimer des utilisateurs et afficher vos licence
 
 ## Ajout d’un utilisateur {#add-a-user}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Accédez au **Administration** zone.
 
    ![](assets/user-and-license-management-1.png)
 
@@ -34,7 +34,7 @@ Découvrez comment ajouter et supprimer des utilisateurs et afficher vos licence
 
 ## Suppression d’un utilisateur {#remove-a-user}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Accédez au **Administration** zone.
 
    ![](assets/user-and-license-management-5.png)
 
@@ -54,7 +54,7 @@ Découvrez comment ajouter et supprimer des utilisateurs et afficher vos licence
 
 Les webinaires interactifs offrent des licences spécifiques pour la création d’événements optimisés par Adobe Connect. Chaque fois qu’une licence est ajoutée, une nouvelle boîte d’utilisation de licence s’affiche. Les administrateurs de Marketo peuvent afficher (et non modifier) les licences en suivant les étapes ci-dessous. Contactez l’équipe du compte Adobe (votre gestionnaire de compte) pour obtenir des licences supplémentaires.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Accédez au **Administration** zone.
 
    ![](assets/user-and-license-management-9.png)
 
@@ -69,31 +69,31 @@ Les webinaires interactifs offrent des licences spécifiques pour la création d
 <table> 
   <tr>
    <td width="20%"><b>Date de début</b></td>
-   <td>Date à laquelle la licence commence.</td>
+   <td width="80%">Date à laquelle la licence commence.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Date d’expiration</b></td>
-   <td>Date d’expiration de la licence.</td>
+   <td width="80%">Date d’expiration de la licence.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Type</b></td>
-   <td>Type de licence achetée. Il existe trois types de licence : Shared Events License, Shared Room License, Additional Storage License.</td>
+   <td width="80%">Type de licence achetée. Il existe trois types de licence : Shared Events License, Shared Room License, Additional Storage License.</td>
   </tr>
   <tr> 
-   <td width="20%"><b>Capacité de l’événement</b></td>
-   <td>Nombre maximum de participants pouvant être pris en charge dans un événement.</td>
+   <td width="20%"><b>Capacité de l'événement</b></td>
+   <td width="80%">Nombre maximum de participants pouvant être pris en charge dans un événement.</td>
   </tr>
   <tr> 
-   <td width="20%"><b>Nombre total d’événements</b></td>
-   <td>Le nombre total d’événements qui ont été configurés avec cette licence.</td>
+   <td width="20%"><b>Nombre total d'événements</b></td>
+   <td width="80%">Le nombre total d’événements qui ont été configurés avec cette licence.</td>
   </tr>
   <tr> 
-   <td width="20%"><b>Événements utilisés</b></td>
-   <td>Nombre total d’événements terminés.</td>
+   <td width="20%"><b>Événements consommés</b></td>
+   <td width="80%">Nombre total d’événements terminés.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Capacité de stockage</b></td>
-   <td>Quantité de stockage disponible pour le stockage des enregistrements, des collatéraux, des heros images, de la documentation et d’autres ressources.</td>
+   <td width="80%">Quantité de stockage disponible pour le stockage des enregistrements, des collatéraux, des heros images, de la documentation et d’autres ressources.</td>
   </tr>
   </tbody>
 </table>
