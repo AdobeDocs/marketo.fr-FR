@@ -3,9 +3,9 @@ description: Présentation de Generator AI - Documents Marketo - Documentation d
 title: Présentation de l’IA générique
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -58,7 +58,7 @@ En règle générale, pour obtenir le contexte complet d’une conversation de v
 
 ## Questions sans réponse {#unanswered-questions}
 
-[Créer des réponses prévalidées supplémentaires](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel UTILISEZ DIFFÉRENTS MOTS DES questions sans réponse des conversations précédentes.
+[Créer des réponses prévalidées supplémentaires](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel de questions sans réponse issues de conversations précédentes.
 
 ![](assets/generative-ai-overview-8.png)
 
