@@ -1,13 +1,11 @@
 ---
 description: Envoyer une liste à Google - Documents Marketo - Documentation du produit
 title: Envoi d’une liste à Google
-hide: true
-hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -40,7 +38,7 @@ Pour ceux qui utilisent la correspondance client Google, suivez les étapes ci-d
    >
    >* Sélection **Synchronisation de l’appartenance à l’audience** maintient la liste à jour au fur et à mesure qu’elle change dans votre instance. Nous ajoutons/supprimons des personnes de l’audience lorsqu’elles sont ajoutées/supprimées de la liste statique.
    >
-   >* Si vous cochez la case en bas de l’écran, l’état du consentement est GRANTED pour les données utilisateur envoyées à Google Ads à des fins de publicité et de personnalisation publicitaire. Si vous ne cochez pas cette option, l’état du consentement est NON SPÉCIFIÉ. Pour ceux qui prévoient de télécharger des données pour les utilisateurs de l’Espace économique européen (EEE), Google a établi une liste de [Questions fréquentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Si vous cochez la case en bas de l’écran, l’état du consentement est GRANTED pour les données utilisateur envoyées à Google Ads à des fins de publicité et de personnalisation publicitaire. Si vous ne cochez pas cette option, l’état du consentement est NON SPÉCIFIÉ. Pour ceux qui prévoient de télécharger des données pour les utilisateurs de l’Espace économique européen (EEE), Google a établi une liste de [Questions fréquentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, ainsi que des détails supplémentaires décrivant la [Politique de consentement des utilisateurs de l’UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Cliquez sur **Mettre à jour**.
 
