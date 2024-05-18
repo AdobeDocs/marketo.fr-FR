@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 3%
 
 ---
@@ -1497,7 +1497,7 @@ ht-degree: 3%
             + [Ajouter du texte lié à un hyperlien](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Champs dynamiques](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [Invite de champ](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
-            + [Gestion des modèles](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
+            + [Gérer les modèles](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Gestion des catégories de modèles](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [Modèles recommandés](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
             + [Utilisation du HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
@@ -1728,7 +1728,6 @@ ht-degree: 3%
             + [Affichage des personnes ou des visiteurs anonymes dans les rapports web](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [Analyse en profondeur d’un rapport sur les performances des personnes](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Exportation d’un rapport vers Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
-            + [Filtrage d’un rapport d’activité de campagne](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtrage des ressources dans les rapports de messagerie d’une campagne](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtrage des ressources dans un rapport par courriel](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Rapports de personnes de groupe par attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1742,7 +1741,6 @@ ht-degree: 3%
             + [Abonnement à un rapport de base](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Abonnement à une liste dynamique](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Types de rapports {#report-types}
-            + [Rapport Activité de campagne](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Rapport Performances des emails de campagne](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Rapport Activité Web d’entreprise](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapport Personnes par état](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
