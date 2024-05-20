@@ -4,16 +4,20 @@ description: Sélectionnez votre langue, langue et fuseau horaire - Documents Ma
 title: Sélectionner votre langue, langue et fuseau horaire
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 8%
+source-wordcount: '156'
+ht-degree: 5%
 
 ---
 
 # Sélectionner votre langue, langue et fuseau horaire {#select-your-language-locale-and-time-zone}
 
-L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nous t&#39;avons couvert. Voici comment modifier votre langue, vos paramètres régionaux et votre fuseau horaire.
+L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nous t&#39;avons couvert. Voici comment modifier la langue, les paramètres régionaux et le fuseau horaire de votre instance de Marketo Engage.
+
+>[!IMPORTANT]
+>
+>Cet article est destiné uniquement à ceux qui le font. _not_ use [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si vous le faites, les paramètres décrits ci-dessous sont accessibles dans votre [Profil du compte Adobe](https://account.adobe.com/profile).
 
 ## Langues prises en charge {#supported-languages}
 
@@ -21,12 +25,12 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 * Français
 * Allemand
 * Japonais
-* Portugais
+* portugais
 * Espagnol
 
 ## Modification de la langue, de la langue et du fuseau horaire de l’utilisateur {#change-user-language-locale-and-time-zone}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
@@ -44,7 +48,7 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 
    >[!TIP]
    >
-   >Vous avez également la possibilité de modifier uniquement votre langue en cliquant sur la liste déroulante des langues en haut de la page de connexion.
+   >Vous avez également la possibilité de modifier uniquement votre langue en cliquant sur la liste déroulante des langues située en haut de la page de connexion.
 
 1. Modifiez votre **[!UICONTROL Paramètres régionaux]**.
 

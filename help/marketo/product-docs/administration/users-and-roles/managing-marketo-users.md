@@ -4,10 +4,10 @@ description: Gestion des utilisateurs de Marketo - Documents Marketo - Documenta
 title: Gestion des utilisateurs Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '402'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement à ceux qui le font. _not_ use [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} au lieu de .
+>Cet article est destiné uniquement à ceux qui le font. _not_ use [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si vous le faites, suivez les étapes de la section [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Création d’utilisateurs {#create-users}
 
