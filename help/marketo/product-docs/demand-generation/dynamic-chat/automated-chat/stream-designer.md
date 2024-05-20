@@ -3,7 +3,7 @@ description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
 workflow-type: tm+mt
 source-wordcount: '1212'
 ht-degree: 2%
