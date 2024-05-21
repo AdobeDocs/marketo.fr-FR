@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 7%
+source-wordcount: '257'
+ht-degree: 6%
 
 ---
 
@@ -42,4 +42,4 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 ## Annonces {#announcements}
 
-* **Réauthentification linkedIn requise**: LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint de votre **Administration** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, pour éviter l’interruption de service. Vous trouverez des instructions sur la manière d’y parvenir. [ici pour Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **Réauthentification linkedIn requise**: LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint de votre **Administration** > **LaunchPoint** du 26 juillet au 15 décembre 2024, pour éviter l’interruption de service. Vous trouverez des instructions sur la manière d’y parvenir. [ici pour Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} et [ici pour les audiences mises en correspondance](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Le service Lead Gen Form possède un type &quot;LinkedIn Lead Gen&quot; et le service de correspondance d’audience a un type &quot;LinkedIn Matched Audiences&quot;. Pour plus d’informations, voir la section [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
