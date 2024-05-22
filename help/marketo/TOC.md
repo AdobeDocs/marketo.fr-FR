@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9350'
 ht-degree: 3%
 
 ---
@@ -26,12 +26,14 @@ ht-degree: 3%
       + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle de la base de données](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
       + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle des activités marketing](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Bonnes pratiques relatives aux nouvelles instances : Liste de contrôle de Design Studio](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle Analytics](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Bonnes pratiques relatives à la nouvelle instance : documenter votre configuration](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informations à connaître {#things-to-know}
       + [Glossaire du Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Glossaire des icônes](getting-started/things-to-know/icon-glossary.md)
       + [Glossaire des icônes classiques](getting-started/things-to-know/classic-icon-glossary.md)
       + [Centre dʼaide](getting-started/things-to-know/help-center.md)
+      + [Communauté de nations marketing](getting-started/things-to-know/community.md)
    + Quick Wings {#quick-wins}
       + [Configuration et ajout d’une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Envoyer un courrier électronique](getting-started/quick-wins/send-an-email.md)

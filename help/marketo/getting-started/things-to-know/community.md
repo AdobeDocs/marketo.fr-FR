@@ -4,40 +4,68 @@ title: Communauté Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
 # Communauté Marketo Engage {#marketo-engage-community}
 
-La variable [Communauté de nations marketing](https://nation.marketo.com/){target="_blank"} est l’endroit où vous pouvez en savoir plus sur votre instance de Marketo Engage auprès des employés de Marketo Engage ainsi que d’autres utilisateurs.
+La variable [Communauté de nations marketing](https://nation.marketo.com/){target="_blank"} est l’endroit où vous pouvez en savoir plus sur votre instance de Marketo Engage auprès d’autres utilisateurs ainsi que des employés de Marketo. Avant d&#39;entrer, prenez quelques instants pour vous familiariser avec le [Instructions de la communauté](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+## Enregistrer votre nom d’utilisateur {#register-your-username}
+
+-enregistrement d’un nom d’utilisateur
+
+CAPTURE D’ÉCRAN
 
 ## Configuration de votre profil {#set-up-your-profile}
 
--enregistrement d’un nom d’utilisateur -ajout d’une photo
+Lorsque vous êtes connecté à Marketing Nation, cliquez sur l’icône de votre avatar par défaut et sélectionnez Mes paramètres pour mettre à jour vos préférences, modifiez votre photo d’avatar, contrôlez le balisage, etc.
 
-## Soumettre une question {#submit-a-question}
-
-Texte
-
-## Lire les billets de blog {#read-blog-posts}
-
--champions -marketo PM
-
-## Soumettre une idée {#submit-an-idea}
-
-Texte
+CAPTURE D’ÉCRAN
 
 ## Utilisation de la recherche {#using-the-search}
 
--filtering
+Avant d’envoyer une question, utilisez la fonction de recherche robuste pour vérifier si la question a déjà été posée/à laquelle vous avez répondu. Utilisez les options de filtrage pour limiter les résultats de la recherche.
+
+CAPTURE D’ÉCRAN
+
+>[!TIP]
+>
+>Pour obtenir des résultats plus généraux, utilisez une recherche par mot-clé ciblée plutôt qu’une recherche longue (par exemple, recherchez &quot;Dynamic Chat&quot; au lieu de &quot;Comment ajouter un agent en Dynamic Chat&quot;).
+
+## Soumettre une question {#submit-a-question}
+
+C&#39;est là que vous allez généralement chercher de l&#39;aide. Commencez un fil de discussion (ou recherchez un fil existant) lorsque vous recherchez des commentaires sur un problème particulier, ou entrez dans le fil de discussion de quelqu’un d’autre pour l’aider à résoudre un problème que vous connaissez.
+
+CAPTURE D’ÉCRAN
+
+## Lire les billets de blog {#read-blog-posts}
+
+Cette section contient de nombreuses informations utiles sur les utilisateurs Marketo Engage (dont plusieurs champions) et les employés de Marketo. Laissez les commentaires en bas lorsque vous avez besoin d’informations supplémentaires.
+
+CAPTURE D’ÉCRAN
+
+## Soumettre une idée {#submit-an-idea}
+
+Si vous trouvez un jour une idée qui, selon vous, améliorerait le Marketo Engage, envoyez-la dans cette section. Vous pouvez également voter sur les idées existantes.
+
+CAPTURE D’ÉCRAN
+
+## Groupes d&#39;utilisateurs Marketo {#marketo-user-groups}
+
+Les groupes d’utilisateurs de Marketo (MUG) sont des rencontres qui se déroulent dans différentes régions du monde. Ils vous donnent la possibilité de créer des réseaux, de discuter des dernières tendances, d’en savoir plus sur les nouvelles fonctionnalités, etc. Vérifiez s&#39;il y en a un dans votre zone. Si ce n’est pas le cas, rejoignez un groupe d’utilisateurs virtuels !
+
+CAPTURE D’ÉCRAN
 
 ## Abonnez-vous au résumé hebdomadaire {#subscribe-to-the-weekly-digest}
 
 Texte
+
+CAPTURE D’ÉCRAN
 
 ## Fusion des abonnements de Marketo Engage {#merging-marketo-engage-subscriptions}
 
@@ -57,22 +85,6 @@ Dans votre requête, veuillez spécifier les détails suivants :
 
 Notre équipe Communauté fusionnera vos profils de la communauté dans 4 à 6 jours ouvrables. Une fois l’opération terminée, l’historique de vos engagements s’affiche dans le profil de la communauté principale lors de la connexion. Dans le cas contraire, déconnectez-vous de votre compte et reconnectez-vous pour confirmer.
 
+<p>
 
-
-Jonathan post :
-
-Bienvenue dans la communauté des nations marketing !
-
-Si vous êtes nouveau dans les environs, n’oubliez pas de consulter nos Directives pour vous assurer que vous tirez le meilleur parti de notre communauté.
-
-Vous ne connaissez pas l’utilisation de Marketo ? Posez une question sur notre page Discussions sur les produits ou rendez-vous sur notre page Assistance pour parler à notre équipe d’assistance. Vous pouvez également consulter notre documentation de Marketo Engage ou nos pages de documentation Marketo Measure pour commencer. N’oubliez pas d’utiliser notre barre de recherche pour voir si d’autres ont déjà eu une question similaire auparavant.
-
-Nos groupes d’utilisateurs de Marketo (MUG) sont des rencontres locales organisées par des leaders passionnés du MUG pour offrir l’occasion à tous de mettre en réseau, de discuter des dernières tendances, de découvrir de nouvelles fonctionnalités, de présenter des opportunités locales, etc. Consultez les plus de 70 chapitres Groupes d’utilisateurs de Marketo disponibles et vérifiez s’il existe une réunion MUG dans votre zone !
-
-Avez-vous une idée brûlante qui pourrait améliorer notre produit ? Envoyez votre idée sur notre page Idées ; vous pouvez également parcourir et voter sur les idées soumises par vos pairs.
-
-Enfin, Marketo offre une grande variété de formations et de certifications pour améliorer votre expertise avec notre produit. Pour plus d’informations, vous pouvez consulter la page de l’Experience League Marketo Engage .
-
-
-
-- Configurer un profil/enregistrer un nom d’utilisateur -ajouter une photo -soumettre une question (fil de discussion) -lire les blogs des champions -soumettre une idée -utiliser la recherche (filtrage) -s’abonner au résumé hebdomadaire (être connecté)
+Bienvenue dans le Marketo Engage et profitez de la nation marketing !
