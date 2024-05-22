@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 6%
+source-wordcount: '280'
+ht-degree: 7%
 
 ---
 
@@ -30,6 +30,17 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:65%">Fonctionnalité</th> 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
+  </tr>
+     <tr> 
+   <td><strong>Modèles de webinaires interactifs</strong>: les marketeurs peuvent désormais créer des modèles personnalisés pour les dispositions d’espace dans les webinaires interactifs.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Champs déduits dans Forms</strong>: la source de données utilisée pour renseigner les champs déduits lorsqu’une personne est créée par l’intermédiaire d’un formulaire sans activité web préalable a été mise à jour afin d’utiliser la même source de données que les autres méthodes de collecte de personnes. Les données de champ déduites sont désormais cohérentes entre tous les points de collection.</td> 

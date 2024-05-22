@@ -4,16 +4,16 @@ description: Présentation des programmes de messagerie électronique - Document
 title: Présentation des programmes de messagerie
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
 
 # Présentation des programmes de messagerie {#understanding-email-programs}
 
-Dites bonjour à votre nouvel ami Marketo, le programme de messagerie électronique. Envoyez des emails, créez des tests A/B et effectuez le suivi de vos résultats au même endroit.
+Envoyez des emails, créez des tests A/B et effectuez le suivi de vos résultats au même endroit.
 
 ## Panneau de contrôle {#control-panel}
 
@@ -21,13 +21,13 @@ Quatre boîtes vous tiennent concentré. **Audience** définit le &quot;qui,&quo
 
 ![](assets/emailprogram.png)
 
-## Tests A/B {#a-b-testing}
+## Les tests A/B {#a-b-testing}
 
 Les tests A/B vous permettent de prouver quel email est le meilleur.
 
 Découvrez les tests A/B suivants :
 
-* [Test A/B &quot;Objet&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [Tests A/B &quot;Objet&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
 * [Test A/B &quot;E-mail entier&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
 * [Tests A/B &quot;From Address&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
 * [Tests A/B &quot;Date/Heure&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
@@ -72,7 +72,7 @@ Maintenant que vous comprenez les programmes de messagerie, commencez par l’un
 
 >[!MORELIKETHIS]
 >
->* [Création d’un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Création d’un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
 >* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
