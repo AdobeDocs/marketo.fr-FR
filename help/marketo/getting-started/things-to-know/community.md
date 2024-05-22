@@ -4,9 +4,9 @@ title: Communauté Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ CAPTURE D’ÉCRAN
 
 ## Configuration de votre profil {#set-up-your-profile}
 
-Lorsque vous êtes connecté à Marketing Nation, cliquez sur l’icône de votre avatar par défaut et sélectionnez Mes paramètres pour mettre à jour vos préférences, modifiez votre photo d’avatar, contrôlez le balisage, etc.
+Lorsque vous êtes connecté à Marketing Nation, cliquez sur l’icône d’avatar par défaut et sélectionnez **[!UICONTROL Mes paramètres]** pour mettre à jour vos préférences, modifiez votre photo d’avatar, contrôlez le balisage, etc.
 
 CAPTURE D’ÉCRAN
 
@@ -57,7 +57,7 @@ CAPTURE D’ÉCRAN
 
 ## Groupes d&#39;utilisateurs Marketo {#marketo-user-groups}
 
-Les groupes d’utilisateurs de Marketo (MUG) sont des rencontres qui se déroulent dans différentes régions du monde. Ils vous donnent la possibilité de créer des réseaux, de discuter des dernières tendances, d’en savoir plus sur les nouvelles fonctionnalités, etc. Vérifiez s&#39;il y en a un dans votre zone. Si ce n’est pas le cas, rejoignez un groupe d’utilisateurs virtuels !
+Les groupes d’utilisateurs de Marketo (MUG) sont des rencontres qui se déroulent dans différentes régions du monde. Ils vous donnent la possibilité de créer des réseaux, de discuter des dernières tendances, d’en savoir plus sur les nouvelles fonctionnalités, etc. Vérifiez s&#39;il y en a un dans votre zone. S’il n’y en a pas, vous pouvez rejoindre un groupe d’utilisateurs virtuels !
 
 CAPTURE D’ÉCRAN
 
@@ -85,6 +85,6 @@ Dans votre requête, veuillez spécifier les détails suivants :
 
 Notre équipe Communauté fusionnera vos profils de la communauté dans 4 à 6 jours ouvrables. Une fois l’opération terminée, l’historique de vos engagements s’affiche dans le profil de la communauté principale lors de la connexion. Dans le cas contraire, déconnectez-vous de votre compte et reconnectez-vous pour confirmer.
 
-<p>
+<br>
 
 Bienvenue dans le Marketo Engage et profitez de la nation marketing !
