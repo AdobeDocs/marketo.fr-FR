@@ -4,10 +4,10 @@ description: Présentation des programmes de messagerie électronique - Document
 title: Présentation des programmes de messagerie
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '303'
+ht-degree: 1%
 
 ---
 
@@ -36,15 +36,19 @@ Découvrez les tests A/B suivants :
 
 ## Tableaux de bord {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Certains préfèrent utiliser des programmes de messagerie plutôt que d&#39;envoyer un email par le biais d&#39;une campagne dynamique en raison du tableau de bord de reporting détaillé du programme.
+>Pour des rapports précis, évitez de réutiliser un email précédemment utilisé dans un programme de messagerie par le biais d’une campagne dynamique ou de déplacer la ressource du programme de messagerie lancé vers un nouveau. Vous ajouterez ainsi les numéros des rapports dans le tableau de bord du programme de messagerie d’origine. Si vous devez réutiliser le même email, [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} au lieu de .
 
 Profitez des fruits de votre labeur. Les tableaux de bord vous montrent en un coup d’oeil les performances du programme de messagerie et du test A/B.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Certains préfèrent utiliser des programmes de messagerie plutôt que d&#39;envoyer un email par le biais d&#39;une campagne dynamique en raison du tableau de bord détaillé des rapports du programme.
 
 ## Imbrication {#nesting}
 

@@ -4,9 +4,9 @@ description: Utilisation du tableau de bord du programme de messagerie électron
 title: Utilisation du tableau de bord du programme de messagerie
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Vérifiez les performances de vos programmes de messagerie avec cette vue de tableau de bord.
 
+>[!CAUTION]
+>
+>Pour des rapports précis, évitez de réutiliser un email précédemment utilisé dans un programme de messagerie par le biais d’une campagne dynamique ou de déplacer la ressource du programme de messagerie lancé vers un nouveau. Vous ajouterez ainsi les numéros des rapports dans le tableau de bord du programme de messagerie d’origine. Si vous devez réutiliser le même email, [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} au lieu de .
+
 >[!NOTE]
 >
->Si votre programme comporte un test A/B, consultez la [Tableau de bord du programme de messagerie électronique - Mode Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Si votre programme comporte un test A/B, consultez la [Tableau de bord du programme de messagerie électronique - Mode Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ Ce graphique montre le nombre d&#39;emails ouverts/cliqués pendant des période
 
 ## Résumé - Engagement {#summary-engagement}
 
-Vous pouvez ainsi visualiser l’ensemble des [score d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Vous pouvez ainsi visualiser l’ensemble [score d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -59,7 +63,7 @@ Le reste des données affichera les options Ouvertures, Clics, Ratio clic/ouvert
 
 >[!TIP]
 >
->Le **Désabonner** Le taux dans l’exemple ci-dessus était si faible que Marketo a zoomé pour vous donner un meilleur aperçu. Le deuxième numéro de la barre est simplement ajouté à l’échelle.
+>La variable **Désabonner** Le taux dans l’exemple ci-dessus était si faible que Marketo a zoomé pour vous donner un meilleur aperçu. Le deuxième numéro de la barre est simplement ajouté à l’échelle.
 
 >[!NOTE]
 >
@@ -77,4 +81,4 @@ Pour afficher les données les plus récentes, il vous suffit de cliquer sur l�
 
 >[!MORELIKETHIS]
 >
->[Utilisation du tableau de bord du programme de messagerie électronique - vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Utilisation du tableau de bord du programme de messagerie électronique - vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

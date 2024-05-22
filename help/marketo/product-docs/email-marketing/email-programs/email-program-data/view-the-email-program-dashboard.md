@@ -4,9 +4,9 @@ description: Afficher le tableau de bord du programme de messagerie électroniqu
 title: Afficher le tableau de bord du programme de messagerie
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Afficher le tableau de bord du programme de messagerie {#view-the-email-program-dashboard}
 
 Vérifiez les performances de votre programme de messagerie (avec ou sans test A/B) avec ce tableau de bord.
+
+>[!CAUTION]
+>
+>Pour des rapports précis, évitez de réutiliser un email précédemment utilisé dans un programme de messagerie par le biais d’une campagne dynamique ou de déplacer la ressource du programme de messagerie lancé vers un nouveau. Vous ajouterez ainsi les numéros des rapports dans le tableau de bord du programme de messagerie d’origine. Si vous devez réutiliser le même email, [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} au lieu de .
 
 ## Sélectionner votre programme de messagerie {#select-your-email-program}
 
@@ -29,7 +33,7 @@ Vérifiez les performances de votre programme de messagerie (avec ou sans test A
    >
    >Si votre test A/B ou votre programme de messagerie n’a pas encore commencé, aucun tableau de bord ne s’affiche.
 
-## Vue Test A/B du programme de messagerie {#email-program-a-b-test-view}
+## Affichage du test A/B du programme de messagerie {#email-program-a-b-test-view}
 
 Si vous avez ajouté un test A/B à votre programme de messagerie et que le test est en cours d’exécution, les éléments suivants s’affichent :
 

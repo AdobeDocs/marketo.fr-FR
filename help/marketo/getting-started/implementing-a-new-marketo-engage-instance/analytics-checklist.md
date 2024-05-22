@@ -4,7 +4,7 @@ title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle A
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 1%
@@ -109,7 +109,7 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <td>REMARQUE : pour ce rapport, les canaux, les états de progression et les étapes de succès doivent être définis dans la variable <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Admin &gt; Zone Balises</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Mesurer l’efficacité de vos tactiques marketing</a> dans des programmes sélectifs.</li>
     <li>Gérez l’appartenance au programme (à l’aide des campagnes intelligentes pour mettre à jour le programme d’acquisition, l’état, l’état de réussite) en fonction des bonnes pratiques des activités marketing.</li>
     <li>Mesure basée sur les coûts de l'année en cours et variable de 12 mois.
-    <ul><li>N’oubliez pas que la maintenance <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Coûts de la période</a> est essentiel pour tirer parti du rapport Performance du programme.</li>
+    <ul><li>N’oubliez pas que la maintenance <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Coûts de la période</a> est essentiel pour tirer parti du rapport Performance du programme.</li></ul>
     <br>CONSEIL : pour agréger et afficher toute <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listes importées</a> dans les rapports de performances du programme, assurez-vous que vos équipes sélectionnent le programme d’acquisition approprié pour le balisage. Étudier <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">création d’un programme par défaut</a> à sélectionner comme programme d’acquisition lorsque les listes importées ne s’appliquent à aucun canal. Ainsi, toute personne importée dispose d’un programme d’acquisition valide lié à sa source, son unité opérationnelle, son canal, etc. au lieu d’une valeur vide.</td>
   </tr>
   <tr>
