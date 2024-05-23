@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
 workflow-type: tm+mt
-source-wordcount: '9350'
+source-wordcount: '9358'
 ht-degree: 3%
 
 ---
@@ -1730,6 +1730,7 @@ ht-degree: 3%
             + [Affichage des personnes ou des visiteurs anonymes dans les rapports web](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [Analyse en profondeur d’un rapport sur les performances des personnes](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Exportation d’un rapport vers Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
+            + [Filtrage d’un rapport d’activité de campagne](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtrage des ressources dans les rapports de messagerie d’une campagne](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtrage des ressources dans un rapport par courriel](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Rapports de personnes de groupe par attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1743,6 +1744,7 @@ ht-degree: 3%
             + [Abonnement à un rapport de base](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Abonnement à une liste dynamique](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Types de rapports {#report-types}
+            + [Rapport Activité de campagne](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Rapport Performances des emails de campagne](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Rapport Activité Web d’entreprise](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapport Personnes par état](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
