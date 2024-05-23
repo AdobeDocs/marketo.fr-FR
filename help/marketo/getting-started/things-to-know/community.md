@@ -4,16 +4,16 @@ title: Communauté Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
 
-# Communauté Marketo Engage {#marketo-engage-community}
+# Communauté Adobe Marketo Engage {#marketo-engage-community}
 
-La variable [Communauté de nations marketing](https://nation.marketo.com/){target="_blank"} est l’endroit où vous pouvez en savoir plus sur votre instance de Marketo Engage auprès d’autres utilisateurs ainsi que des employés de Marketo. Avant d&#39;entrer, prenez quelques instants pour vous familiariser avec le [Instructions de la communauté](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+La variable [Communauté Adobe Marketo Engage](https://nation.marketo.com/) (également connu sous le nom de nation marketing) est l’endroit où vous pouvez en savoir plus sur votre instance de Marketo Engage auprès d’autres utilisateurs ainsi que d’employés de Marketo. Avant d&#39;entrer, prenez quelques instants pour vous familiariser avec le [Instructions de la communauté](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Enregistrer votre nom d’utilisateur {#register-your-username}
 
