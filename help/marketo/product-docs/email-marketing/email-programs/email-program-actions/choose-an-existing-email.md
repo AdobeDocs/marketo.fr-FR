@@ -4,9 +4,9 @@ description: Sélection d’un courrier électronique existant - Documents Marke
 title: Choisir un email existant
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Pour des rapports précis, évitez de réutiliser un email précédemment utilisé dans un programme de messagerie par le biais d’une campagne dynamique ou de déplacer la ressource du programme de messagerie lancé vers un nouveau. Vous ajouterez ainsi les numéros des rapports dans le tableau de bord du programme de messagerie d’origine. Si vous devez réutiliser le même email, [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} au lieu de .
+>Pour des rapports précis, évitez les _réutiliser_ un email provenant d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, veuillez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} car copie le courrier électronique, mais en crée un avec un nouvel ID de courrier électronique.
 
 Une fois que vous [création d’un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) et défini votre audience, vous devez choisir l&#39;email que vous envoyez. Vous pouvez [création d’un email pour un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à partir de zéro ou sélectionnez un qui existe déjà. Voici comment en choisir un qui existe déjà.
 

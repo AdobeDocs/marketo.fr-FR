@@ -4,9 +4,9 @@ description: Utilisation du tableau de bord du programme de messagerie électron
 title: Utilisation du tableau de bord du programme de messagerie
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Vérifiez les performances de vos programmes de messagerie avec cette vue de tab
 
 >[!CAUTION]
 >
->Pour des rapports précis, évitez de réutiliser un email précédemment utilisé dans un programme de messagerie par le biais d’une campagne dynamique ou de déplacer la ressource du programme de messagerie lancé vers un nouveau. Vous ajouterez ainsi les numéros des rapports dans le tableau de bord du programme de messagerie d’origine. Si vous devez réutiliser le même email, [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} au lieu de .
+>Pour des rapports précis, évitez les _réutiliser_ un email provenant d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, veuillez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} car copie le courrier électronique, mais en crée un avec un nouvel ID de courrier électronique.
 
 >[!NOTE]
 >

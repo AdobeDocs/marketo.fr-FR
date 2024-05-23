@@ -4,9 +4,9 @@ description: Présentation des programmes de messagerie électronique - Document
 title: Présentation des programmes de messagerie
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Découvrez les tests A/B suivants :
 
 >[!CAUTION]
 >
->Pour des rapports précis, évitez de réutiliser un email précédemment utilisé dans un programme de messagerie par le biais d’une campagne dynamique ou de déplacer la ressource du programme de messagerie lancé vers un nouveau. Vous ajouterez ainsi les numéros des rapports dans le tableau de bord du programme de messagerie d’origine. Si vous devez réutiliser le même email, [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} au lieu de .
+>Pour des rapports précis, évitez les _réutiliser_ un email provenant d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, veuillez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} car copie le courrier électronique, mais en crée un avec un nouvel ID de courrier électronique.
 
 Profitez des fruits de votre labeur. Les tableaux de bord vous montrent en un coup d’oeil les performances du programme de messagerie et du test A/B.
 
