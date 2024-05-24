@@ -3,7 +3,7 @@ description: Configurez la section Base de données pour votre nouvelle instance
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle des bases de données
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 9%
@@ -84,8 +84,8 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <table>
 <thead>
   <tr>
-    <th style="width:20%">Zone</th>
-    <th style="width:80%">Éléments d’action</th>
+    <th style="width:21%">Zone</th>
+    <th style="width:79%">Éléments d’action</th>
   </tr>
 </thead>
 <tbody>

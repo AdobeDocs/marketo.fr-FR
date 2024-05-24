@@ -4,7 +4,7 @@ title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle A
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 1%
@@ -31,9 +31,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   <tr>
     <td>Organisation : dénomination, dossiers et archivage</td>
     <td><li>Utilisez une convention d’affectation des noms de rapport pour différencier les rapports dans l’onglet Rapports globaux .</li>
-    <ul>
-    <li>Un exemple de bonne pratique de convention d’affectation des noms est [Type de rapport] [Balise globale ou spécifique à une unité d’exploitation] [Description du rapport], par exemple [Performance de messagerie]-[Global]-[Engagement de messagerie de 180 jours].</li>
-    </ul> 
+    <ul><li>Un exemple de bonne pratique de convention d’affectation des noms est [Type de rapport] [Balise globale ou spécifique à une unité d’exploitation] [Description du rapport], par exemple [Performance de messagerie]-[Global]-[Engagement de messagerie de 180 jours].</li></ul><br>
     <li>Identifiez les rapports qui doivent être partagés avec différents groupes d’utilisateurs au sein de votre organisation (par exemple, l’équipe commerciale, la direction marketing) et organisez les rapports par dossier dans le dossier Rapports de groupe d’Analytics pour les rapports globaux.</li> 
     <li>L’archivage doit être limité au dossier Rapports globaux, car il s’agit de rapports toujours actifs.   <ul>
     <li>Limitez l’archivage aux modifications organisationnelles, telles que la réduction ou l’ajout d’unités opérationnelles pertinentes si vous créez des rapports en fonction d’une structure d’unités opérationnelles.</li>
@@ -104,7 +102,7 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <td>Rapport Performances des personnes</td>
     <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Il est recommandé d’avoir une <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">stratégie de canal et de balise</a> pour chaque mise en oeuvre de Marketo Engage avant de pouvoir suivre les personnes acquises et le retour sur investissement de vos investissements marketing par canal.
     <p>
-    <li>Déterminez les critères que vous utiliserez pour mesurer les performances de vos programmes d’acquisition de prospects et créez vos rapports standard en fonction du temps (année en cours, 12 derniers mois en continu, ou 180 jours) en fonction de ces mesures :</li> <ul><li>Programme d’acquisition : programme de Marketo Engage crédité pour l’acquisition de la personne.
+    <li>Déterminez les critères que vous utiliserez pour mesurer les performances de vos programmes d’acquisition de prospects et créez vos rapports standard en fonction du temps (année en cours, 12 derniers mois en continu, ou 180 jours) en fonction de ces mesures :</li> <ul><li>Programme d’acquisition : programme de Marketo Engage crédité pour l’acquisition de la personne.</li>
     <li>Source de personne : catégorie source de la manière dont l’enregistrement a été connu pour votre base de données (en fonction de la liste source des valeurs dans votre CRM).
     </li></ul>
     <li>Mesure les personnes créées par semaine ou par mois. Ce rapport vous fournira une mesure du taux de croissance de votre base de données et vous indiquera si vous approchez de la limite de taille de la base de données.</li>
