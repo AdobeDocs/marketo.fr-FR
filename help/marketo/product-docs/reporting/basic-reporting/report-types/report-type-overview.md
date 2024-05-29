@@ -4,9 +4,9 @@ description: Présentation du type de rapport - Documents Marketo - Documentatio
 title: Présentation du type de rapport
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '216'
 ht-degree: 11%
 
 ---
@@ -64,11 +64,7 @@ Lorsque vous [créer un rapport dans un programme](/help/marketo/product-docs/re
   <tr> 
    <td><strong><a href="web-page-activity-report.md">Activité de page Internet</a></strong></td> 
    <td>Signalez l’activité web à vos landing pages et à votre site web public.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Influence des réseaux sociaux</strong></td> 
-   <td>Passez en revue l’activité sociale que vous générez et voyez la fréquence à laquelle vos personnes vous parlent de vous.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapport Performances du flux d’engagement</a> </strong></td> 
    <td>Consultez les <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d'engagement</a> fonctionne.</td> 

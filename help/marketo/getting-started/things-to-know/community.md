@@ -4,9 +4,9 @@ title: Communauté Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,17 @@ La variable [Communauté Adobe Marketo Engage](https://nation.marketo.com/) (ég
 
 ## Enregistrer votre nom d’utilisateur {#register-your-username}
 
--enregistrement d’un nom d’utilisateur
+1. Connectez-vous à votre instance de Marketo Engage.
+
+1. Dans Mon Marketo, cliquez sur la mosaïque Communauté .
+
+1. Si c’est la première fois que vous vous connectez, vous serez invité à enregistrer un nom d’utilisateur de la communauté.
+
+   >[!NOTE]
+   >
+   >Votre nom d’utilisateur peut être modifié à tout moment, mais doit être enregistré à ce stade.
+
+1. Après avoir enregistré votre nom d’utilisateur, vous accédez à la page d’accueil de la communauté et pouvez interagir et publier dans la communauté.
 
 CAPTURE D’ÉCRAN
 
@@ -87,4 +97,4 @@ Notre équipe Communauté fusionnera vos profils de la communauté dans 4 à 6 j
 
 <br>
 
-Bienvenue dans le Marketo Engage et profitez de la nation marketing !
+Bienvenue dans le Marketo Engage, et amusez-vous à explorer Marketing Nation !
