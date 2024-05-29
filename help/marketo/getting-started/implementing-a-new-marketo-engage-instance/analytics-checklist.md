@@ -4,9 +4,9 @@ title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle A
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
+source-git-commit: 00656b2167435d51da55537d251d84910002e46d
 workflow-type: tm+mt
-source-wordcount: '1615'
+source-wordcount: '1393'
 ht-degree: 1%
 
 ---
@@ -30,12 +30,11 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <tbody>
   <tr>
     <td>Organisation : dénomination, dossiers et archivage</td>
-    <td><li>Utilisez une convention d’affectation des noms de rapport pour différencier les rapports dans l’onglet Rapports globaux .</li>
+    <td><li>Utilisez une convention d’affectation des noms de rapport pour différencier les rapports dans l’onglet Rapports globaux .
     <ul><li>Un exemple de bonne pratique de convention d’affectation des noms est [Type de rapport] [Balise globale ou spécifique à une unité d’exploitation] [Description du rapport], par exemple [Performance de messagerie]-[Global]-[Engagement de messagerie de 180 jours].</li></ul><br>
     <li>Identifiez les rapports qui doivent être partagés avec différents groupes d’utilisateurs au sein de votre organisation (par exemple, l’équipe commerciale, la direction marketing) et organisez les rapports par dossier dans le dossier Rapports de groupe d’Analytics pour les rapports globaux.</li> 
-    <li>L’archivage doit être limité au dossier Rapports globaux, car il s’agit de rapports toujours actifs.   <ul>
-    <li>Limitez l’archivage aux modifications organisationnelles, telles que la réduction ou l’ajout d’unités opérationnelles pertinentes si vous créez des rapports en fonction d’une structure d’unités opérationnelles.</li>
-    </ul></td>
+    <li>L’archivage doit être limité au dossier Rapports globaux, car il s’agit de rapports toujours actifs.   <ul><li>Limitez l’archivage aux modifications organisationnelles, telles que la réduction ou l’ajout d’unités opérationnelles pertinentes si vous créez des rapports en fonction d’une structure d’unités opérationnelles.</li></ul>
+    </td>
   </tr>
   <tr>
     <td>Espaces de travail (le cas échéant)</td>
@@ -102,7 +101,7 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <td>Rapport Performances des personnes</td>
     <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Il est recommandé d’avoir une <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">stratégie de canal et de balise</a> pour chaque mise en oeuvre de Marketo Engage avant de pouvoir suivre les personnes acquises et le retour sur investissement de vos investissements marketing par canal.
     <p>
-    <li>Déterminez les critères que vous utiliserez pour mesurer les performances de vos programmes d’acquisition de prospects et créez vos rapports standard en fonction du temps (année en cours, 12 derniers mois en continu, ou 180 jours) en fonction de ces mesures :</li> <ul><li>Programme d’acquisition : programme de Marketo Engage crédité pour l’acquisition de la personne.</li>
+    <li>Déterminez les critères que vous utiliserez pour mesurer les performances de vos programmes d’acquisition de prospects et créez vos rapports standard en fonction du temps (année en cours, 12 derniers mois en continu, ou 180 jours) en fonction de ces mesures : <ul><li>Programme d’acquisition : programme de Marketo Engage crédité pour l’acquisition de la personne.</li>
     <li>Source de personne : catégorie source de la manière dont l’enregistrement a été connu pour votre base de données (en fonction de la liste source des valeurs dans votre CRM).
     </li></ul>
     <li>Mesure les personnes créées par semaine ou par mois. Ce rapport vous fournira une mesure du taux de croissance de votre base de données et vous indiquera si vous approchez de la limite de taille de la base de données.</li>
@@ -116,9 +115,9 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Mesurer l’efficacité de vos tactiques marketing</a> dans des programmes sélectifs.</li>
     <li>Gérez l’appartenance au programme (à l’aide des campagnes intelligentes pour mettre à jour le programme d’acquisition, l’état, l’état de réussite) en fonction des bonnes pratiques des activités marketing.</li>
     <li>Mesure basée sur les coûts pour l'année en cours et 12 mois en cours.
-    <ul><li>N’oubliez pas que la maintenance <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Coûts de la période</a> est essentiel pour tirer parti du rapport Performance du programme.</li></ul>
-    <br>
-    <br><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : pour agréger et afficher toute <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listes importées</a> dans les rapports de performances du programme, assurez-vous que vos équipes sélectionnent le programme d’acquisition approprié pour le balisage. Étudier <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">création d’un programme par défaut</a> à sélectionner comme programme d’acquisition lorsque les listes importées ne s’appliquent à aucun canal. Ainsi, toute personne importée dispose d’un programme d’acquisition valide lié à la source, l’unité opérationnelle, le canal, etc., au lieu d’une valeur vide.</td>
+    <ul><li>N’oubliez pas que la maintenance <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Coûts de la période</a> est essentiel pour tirer parti du rapport Performance du programme.</li></ul></li>
+    <p>
+    <img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : pour agréger et afficher toute <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listes importées</a> dans les rapports de performances du programme, assurez-vous que vos équipes sélectionnent le programme d’acquisition approprié pour le balisage. Étudier <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">création d’un programme par défaut</a> à sélectionner comme programme d’acquisition lorsque les listes importées ne s’appliquent à aucun canal. Ainsi, toute personne importée dispose d’un programme d’acquisition valide lié à la source, l’unité opérationnelle, le canal, etc., au lieu d’une valeur vide.</td>
   </tr>
   <tr>
     <td>Rapport Performance de page d’entrée</td>
@@ -161,41 +160,4 @@ Il est préférable de déployer certains rapports de Marketo Engage en tant que
     <li>Envisagez d’utiliser la variable <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">Filtre "Segmentation" dans l’onglet Configuration du rapport</a> et regrouper les données du rapport par le <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segment</a> (source de personnes, secteur d’activité, par exemple) utilisé dans votre programme d’engagement. Vous obtiendrez ainsi des informations plus approfondies sur les schémas d’engagement de chaque segment, en vous guidant pour apporter des modifications stratégiques afin d’améliorer votre programme d’engagement (contenu, diffusion en continu, cadence de diffusion, etc.).</li></td>
   </tr>
 </tbody>
-</table>
-
-TABLEAU AVEC BULLETS DE TRAVAIL
-
-<table>
-<tbody>
-<tr>
-    <td>Rapports de groupe</td>
-    <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : TEXT.
-    <p>
-    <li>TEXTE</li>
-    <li>TEXTE
-    <ul><li>TEXTE</li>
-    <li>TEXTE</li></ul>
-    <li>TEXTE</li>
-    <li>TEXTE</li>
-    <p><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : TEXT.</td>
-  </tr>
-  </tbody>
-</table>
-
-CORRECTIF 1 DU TEST
-
-<table>
-<tbody>
-<tr>
-    <td>Rapport Performances des personnes</td>
-    <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Il est recommandé d’avoir une <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">stratégie de canal et de balise</a> pour chaque mise en oeuvre de Marketo Engage avant de pouvoir suivre les personnes acquises et le retour sur investissement de vos investissements marketing par canal.
-    <p>
-    <li>Déterminez les critères que vous utiliserez pour mesurer les performances de vos programmes d’acquisition de prospects et créez vos rapports standard en fonction du temps (année en cours, 12 derniers mois en continu, ou 180 jours) en fonction de ces mesures :</li>
-    <ul><li>Programme d’acquisition : programme de Marketo Engage crédité pour l’acquisition de la personne</li>
-    <li>Source de personne : catégorie source de la manière dont l’enregistrement a été connu pour votre base de données (en fonction de la liste source des valeurs dans votre CRM).</li></ul>
-    <li>Mesure les personnes créées par semaine ou par mois. Ce rapport vous fournira une mesure du taux de croissance de votre base de données et vous indiquera si vous approchez de la limite de taille de la base de données.</li>
-    <li>Filtrez les mesures dans les rapports sur les performances des personnes en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">en utilisant vos listes dynamiques comme colonnes personnalisées.</a></li>
-    <p><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : créez des listes dynamiques pour les colonnes personnalisées que vous souhaitez ajouter au rapport Performance des personnes dans la base de données au lieu d’activités marketing afin que vous puissiez afficher le nom de liste dynamique correctement et clairement lorsqu’il est sélectionné dans le rapport.</td>
-  </tr>
-  </tbody>
 </table>
