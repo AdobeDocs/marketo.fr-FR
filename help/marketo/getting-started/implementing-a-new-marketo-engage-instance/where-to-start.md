@@ -3,7 +3,7 @@ description: Découvrez les bonnes pratiques lors de la mise en oeuvre d’une n
 title: Où commencer
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,3 +51,4 @@ Prise en main dans la communauté :
 1. Cliquez sur **Continuer avec Adobe ID** et sélectionnez votre abonnement principal sur la page de connexion.
 1. Une fois connecté, complétez votre profil de communauté.
 1. Après avoir envoyé l&#39;information, vous accédez à la page d&#39;accueil de la communauté et n&#39;hésitez pas à y aller !
+
