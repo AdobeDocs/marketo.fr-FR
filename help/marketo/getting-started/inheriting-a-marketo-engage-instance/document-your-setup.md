@@ -2,10 +2,10 @@
 description: Document d’instance hérité Votre configuration - Documents Marketo - Documentation du produit
 title: Document d’instance hérité de votre configuration
 feature: Getting Started
-exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
    <th>Objectif de la révision</th>
   </tr> 
   <tr> 
-   <td>Saisie</td> 
+   <td>Entrée</td> 
    <td><li>Quels systèmes transmettent des données dans Marketo Engage ?</li>
    <li>Les données sont-elles chargées dans des programmes ou dans la base de données ? Si des programmes, lesquels ?</li>
    <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Élément d’action : créez un tableau de mappage dictionnaire de données/champ entre les systèmes.</td>
@@ -49,7 +49,7 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
    <br/>     Si ce n’est pas le cas, envisagez d’en créer un dans un dossier accessible à votre équipe des opérations marketing.</li></td>
   </tr>
   <tr> 
-   <td>Organisation</td> 
+   <td>Entreprise</td> 
     <td><li>Disposez-vous d’une documentation robuste sur l’organisation de votre instance de Marketo Engage et pourquoi ?</li>
    <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : créez une documentation qui contient la structure de dossiers, la convention d’affectation des noms et les canaux utilisés dans votre instance.</td>
   </tr>
@@ -71,5 +71,3 @@ Maintenant que vous avez appris les domaines de produit clés à contrôler lors
   </tr>
  </tbody> 
 </table>
-
-[◄ Audit d’une instance héritée : Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

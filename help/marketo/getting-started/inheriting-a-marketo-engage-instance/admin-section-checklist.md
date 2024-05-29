@@ -3,9 +3,9 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
 
 >[!NOTE]
 >
->Cela s’applique uniquement aux abonnements de Marketo Engage intégrés à [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} dans Marketo Engage > Admin > Utilisateurs et rôles.
+>Cela s’applique uniquement aux abonnements de Marketo Engage intégrés à [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si votre abonnement n’est pas encore intégré à Adobe IMS, passez à la [rôles utilisateur et expérience d’autorisations hérités](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} dans Marketo Engage > Admin > Utilisateurs et rôles.
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ Une fois le contrôle des paramètres Utilisateurs et rôles terminé, connectez
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Audit d’une instance héritée : ► de base de données](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

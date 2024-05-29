@@ -2,10 +2,10 @@
 description: Liste de contrôle des activités marketing d’instance héritées - Documents Marketo - Documentation du produit
 title: Liste de contrôle des activités marketing d’instance héritées
 feature: Getting Started
-exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '809'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Organisez correctement votre section Activités marketing pour aider d’autres personnes à trouver et gérer divers programmes au sein de votre instance de Marketo Engage et pour vous assurer que les personnes sont traitées pour passer de Marketing à Ventes. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
 
-## Organisation {#organization}
+## Entreprise {#organization}
 
 <table> 
  <tbody> 
@@ -74,7 +74,7 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
 <li>Si des jetons sont implémentés, existe-t-il des jetons de dossier globaux ? Comment sont-ils utilisés ?</li></td>
   </tr>
   <tr> 
-   <td>Programmes d’engagement</td> 
+   <td>Programmes d'engagement</td> 
    <td><li>Y a-t-il de la vie ? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programmes d'engagement</a> en cours ?</li>
 <li>Combien <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">les gens sont épuisés</a>? 
 <br/>     S'il y a beaucoup de gens épuisés, pensez <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">ajout de contenu</a>.</li>
@@ -165,9 +165,3 @@ Organisez correctement votre section Activités marketing pour aider d’autres 
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ Audit d’une instance héritée : base de données](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-
-[Audit d’une instance héritée : Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

@@ -2,10 +2,10 @@
 description: Liste de contrôle de la base de données des instances héritées - Documents Marketo - Documentation du produit
 title: Liste de contrôle de la base de données des instances héritées
 feature: Getting Started
-exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '420'
 ht-degree: 7%
 
 ---
@@ -30,13 +30,13 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
 <br/>     Si le vôtre tombe sous ce seuil, consultez les autres listes intelligentes du système (Liste bloquée, Marketing suspendu, Doublons, Désabonner) avec une plus grande attention.</li></td>
   </tr>
   <tr> 
-   <td>Personnes désabonnées</td> 
+   <td>Personnes désinscrites</td> 
    <td><li>Quels sont vos critères pour <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">personnes désabonnées</a>? Y a-t-il trop de personnes désinscrites ?</li>
 <li>Vos méthodes de désabonnement sont-elles conformes à vos exigences en matière de confidentialité des données ?</li>
 <li>Votre préférence de désabonnement est-elle à jour ? Combien de temps les enregistrements sont-ils restés dans votre base de données comme non commercialisables ?</li></td>
   </tr>
   <tr> 
-   <td>Suspension du marketing</td> 
+   <td>Marketing interrompu</td> 
    <td><li>Quels sont vos critères pour <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspendu</a>? Trop de personnes sont-elles suspendues dans le marketing ?</li>
 <li>Combien de temps les enregistrements sont-ils restés dans l’état Marketing suspendu ?</li>
 <p>Exemple de cas d’utilisation Marketing suspendu : enregistrements de personnes qui sont activement impliquées dans les ventes à des stade avancé pour lesquels vous souhaitez supprimer les communications marketing.</td>
@@ -56,7 +56,7 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
    <br/>     Envisagez de les supprimer ou de les fusionner.</li></td>
   </tr>
    <tr> 
-   <td>Hormis programme d’acquisition</td> 
+   <td>Pas de programme d'acquisition</td> 
    <td><li>Combien de personnes n’ont pas de <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programme d'acquisition</a>?
    <br/>     S'il y a beaucoup de choses, réfléchissez à pourquoi.</li></td>
   </tr>
@@ -115,9 +115,3 @@ Comprenez le nombre total de personnes, de personnes pouvant faire l’objet d�
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ Audit d’une instance héritée : Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[Audit d’une instance héritée : activités marketing ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

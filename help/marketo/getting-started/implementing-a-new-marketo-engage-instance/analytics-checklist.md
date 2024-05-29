@@ -1,10 +1,8 @@
 ---
 description: Configurez la section Analytics pour votre nouvelle instance de Marketo Engage.
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle Analytics
-hide: true
-hidefromtoc: true
 feature: Getting Started
-source-git-commit: 00656b2167435d51da55537d251d84910002e46d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 1%

@@ -3,9 +3,9 @@ description: Liste de contrôle de l’instance héritée de Design Studio - Doc
 title: Liste de contrôle de Inherited Instance Design Studio
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '561'
 ht-degree: 4%
 
 ---
@@ -166,9 +166,3 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ Audit d’une instance héritée : activités marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
-
-[Audit d’une instance héritée : documenter la configuration de votre instance héritée ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
