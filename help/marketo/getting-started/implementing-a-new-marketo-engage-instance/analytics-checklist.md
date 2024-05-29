@@ -4,9 +4,9 @@ title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle A
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 1%
 
 ---
@@ -117,7 +117,8 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <li>Gérez l’appartenance au programme (à l’aide des campagnes intelligentes pour mettre à jour le programme d’acquisition, l’état, l’état de réussite) en fonction des bonnes pratiques des activités marketing.</li>
     <li>Mesure basée sur les coûts pour l'année en cours et 12 mois en cours.
     <ul><li>N’oubliez pas que la maintenance <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Coûts de la période</a> est essentiel pour tirer parti du rapport Performance du programme.</li></ul>
-    <p><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : pour agréger et afficher toute <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listes importées</a> dans les rapports de performances du programme, assurez-vous que vos équipes sélectionnent le programme d’acquisition approprié pour le balisage. Étudier <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">création d’un programme par défaut</a> à sélectionner comme programme d’acquisition lorsque les listes importées ne s’appliquent à aucun canal. Ainsi, toute personne importée dispose d’un programme d’acquisition valide lié à la source, l’unité opérationnelle, le canal, etc., au lieu d’une valeur vide.</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : pour agréger et afficher toute <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listes importées</a> dans les rapports de performances du programme, assurez-vous que vos équipes sélectionnent le programme d’acquisition approprié pour le balisage. Étudier <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">création d’un programme par défaut</a> à sélectionner comme programme d’acquisition lorsque les listes importées ne s’appliquent à aucun canal. Ainsi, toute personne importée dispose d’un programme d’acquisition valide lié à la source, l’unité opérationnelle, le canal, etc., au lieu d’une valeur vide.</td>
   </tr>
   <tr>
     <td>Rapport Performance de page d’entrée</td>
@@ -152,7 +153,7 @@ Il est préférable de déployer certains rapports de Marketo Engage en tant que
   <tr>
     <td>Rapport Activité de campagne</td>
     <td><li>Créez le <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">Rapport Activité de campagne</a> et sélectionnez une période dans votre dossier opérationnel dans Activités marketing.</li>
-    <li>Configuration de rapports pour surveiller les déclencheurs pour chaque cas d’utilisation et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">appliquer des filtres de campagne ;</a> (par exemple, déclencheurs de notation de comportement, déclencheurs de qualification de cycle de vie, déclencheurs de moments intéressants).</li></td>
+    <li>Configuration de rapports pour surveiller les déclencheurs pour chaque cas d’utilisation et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">appliquer des filtres de campagne ;</a> (par exemple, déclencheurs de notation de comportement, déclencheurs de qualification de cycle de vie, déclencheurs de moments intéressants).</li></td>
   </tr>
   <tr>
     <td>Rapport Performances du flux d’engagement (le cas échéant)</td>
@@ -160,4 +161,41 @@ Il est préférable de déployer certains rapports de Marketo Engage en tant que
     <li>Envisagez d’utiliser la variable <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">Filtre "Segmentation" dans l’onglet Configuration du rapport</a> et regrouper les données du rapport par le <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segment</a> (source de personnes, secteur d’activité, par exemple) utilisé dans votre programme d’engagement. Vous obtiendrez ainsi des informations plus approfondies sur les schémas d’engagement de chaque segment, en vous guidant pour apporter des modifications stratégiques afin d’améliorer votre programme d’engagement (contenu, diffusion en continu, cadence de diffusion, etc.).</li></td>
   </tr>
 </tbody>
+</table>
+
+TABLEAU AVEC BULLETS DE TRAVAIL
+
+<table>
+<tbody>
+<tr>
+    <td>Rapports de groupe</td>
+    <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : TEXT.
+    <p>
+    <li>TEXTE</li>
+    <li>TEXTE
+    <ul><li>TEXTE</li>
+    <li>TEXTE</li></ul>
+    <li>TEXTE</li>
+    <li>TEXTE</li>
+    <p><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : TEXT.</td>
+  </tr>
+  </tbody>
+</table>
+
+CORRECTIF 1 DU TEST
+
+<table>
+<tbody>
+<tr>
+    <td>Rapport Performances des personnes</td>
+    <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Il est recommandé d’avoir une <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">stratégie de canal et de balise</a> pour chaque mise en oeuvre de Marketo Engage avant de pouvoir suivre les personnes acquises et le retour sur investissement de vos investissements marketing par canal.
+    <p>
+    <li>Déterminez les critères que vous utiliserez pour mesurer les performances de vos programmes d’acquisition de prospects et créez vos rapports standard en fonction du temps (année en cours, 12 derniers mois en continu, ou 180 jours) en fonction de ces mesures :</li>
+    <ul><li>Programme d’acquisition : programme de Marketo Engage crédité pour l’acquisition de la personne</li>
+    <li>Source de personne : catégorie source de la manière dont l’enregistrement a été connu pour votre base de données (en fonction de la liste source des valeurs dans votre CRM).</li></ul>
+    <li>Mesure les personnes créées par semaine ou par mois. Ce rapport vous fournira une mesure du taux de croissance de votre base de données et vous indiquera si vous approchez de la limite de taille de la base de données.</li>
+    <li>Filtrez les mesures dans les rapports sur les performances des personnes en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">en utilisant vos listes dynamiques comme colonnes personnalisées.</a></li>
+    <p><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : créez des listes dynamiques pour les colonnes personnalisées que vous souhaitez ajouter au rapport Performance des personnes dans la base de données au lieu d’activités marketing afin que vous puissiez afficher le nom de liste dynamique correctement et clairement lorsqu’il est sélectionné dans le rapport.</td>
+  </tr>
+  </tbody>
 </table>
