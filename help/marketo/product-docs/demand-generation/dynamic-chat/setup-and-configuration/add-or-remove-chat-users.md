@@ -3,10 +3,10 @@ description: Ajout ou suppression d’utilisateurs de messagerie instantanée - 
 title: Ajout ou suppression d’utilisateurs de conversation
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 2%
+source-wordcount: '251'
+ht-degree: 1%
 
 ---
 
@@ -47,6 +47,10 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-or-remove-chat-users-7.png)
+
+   >[!NOTE]
+   >
+   >Une fois que vous avez ajouté un utilisateur dans la console d’administration Adobe, il peut s’écouler jusqu’à deux heures avant qu’il n’apparaisse dans la page Gestion des agents du Dynamic Chat.
 
 ## Ajout d’un accès Dynamic Chat au rôle Marketo {#add-dynamic-chat-access-to-marketo-role}
 
