@@ -4,10 +4,10 @@ description: Utilisation des balises dans un programme - Documents Marketo - Doc
 title: Utilisation de balises dans un programme
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 5%
 
 ---
 
@@ -19,50 +19,50 @@ Les balises sont des attributs qui décrivent vos programmes et qui sont utilis�
 
 1. Sélectionnez votre programme. Cliquez sur **Configuration**.
 
-   ![](assets/image2014-9-23-15-3a45-3a0.png)
+   ![](assets/use-tags-in-a-program-1.png)
 
 1. Faites glisser une balise sur la zone de travail.
 
-   ![](assets/image2014-9-23-15-3a45-3a13.png)
+   ![](assets/use-tags-in-a-program-2.png)
 
 1. Sélectionnez une valeur dans la liste déroulante.
 
-   ![](assets/image2014-9-23-15-3a45-3a30.png)
+   ![](assets/use-tags-in-a-program-3.png)
 
 1. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-23-15-3a45-3a36.png)
+   ![](assets/use-tags-in-a-program-4.png)
 
 1. Tout de suite. La nouvelle balise s’affiche dans la zone de travail.
 
-   ![](assets/image2014-9-23-15-3a45-3a47.png)
+   ![](assets/use-tags-in-a-program-5.png)
 
 ## Modification d’une balise {#edit-a-tag}
 
 1. Accédez au **Configuration** . Cliquez avec le bouton droit de la souris sur la balise. Sélectionner **Modifier**.
 
-   ![](assets/image2014-9-23-15-3a45-3a53.png)
+   ![](assets/use-tags-in-a-program-6.png)
 
 1. Cliquez sur la liste déroulante. Sélectionnez une nouvelle valeur.
 
-   ![](assets/image2014-9-23-15-3a46-3a12.png)
+   ![](assets/use-tags-in-a-program-7.png)
 
 1. Cliquez sur **Enregistrer**.
 
-   ![](assets/image2014-9-23-15-3a46-3a25.png)
+   ![](assets/use-tags-in-a-program-8.png)
 
 1. Fantastique ! Les modifications doivent être répercutées dans la zone de travail.
 
-   ![](assets/image2014-9-23-15-3a46-3a35.png)
+   ![](assets/use-tags-in-a-program-9.png)
 
 ## Suppression d’une balise  {#delete-a-tag}
 
 1. Accédez au **Configuration** . Cliquez avec le bouton droit de la souris sur la balise et sélectionnez **Supprimer**.
 
-   ![](assets/image2014-9-23-15-3a46-3a55.png)
+   ![](assets/use-tags-in-a-program-10.png)
 
 1. Cliquez sur **Supprimer** pour confirmer.
 
-   ![](assets/image2014-9-23-15-3a47-3a8.png)
+   ![](assets/use-tags-in-a-program-11.png)
 
-Cinq heures de haut ! C&#39;est parti. Les programmes avec des balises cohérentes facilitent l’exécution des rapports.
+Beau travail ! Les programmes avec des balises cohérentes facilitent l’exécution des rapports.
