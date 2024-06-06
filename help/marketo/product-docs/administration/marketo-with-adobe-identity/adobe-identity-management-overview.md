@@ -3,9 +3,9 @@ description: Présentation d’Adobe Identity Management - Documentation Marketo
 title: Présentation d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Tous les nouveaux abonnements Adobe Marketo Engage (du 31 juillet 2023 ou versio
 
 >[!NOTE]
 >
->La prise en charge de Marketo ne peut fournir aucune mise à jour concernant la migration d’Adobe IMS. L’équipe Compte d’Adobe atteindra le délai prévu au cours des prochains mois. Pour plus d’informations, voir [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>La prise en charge de Marketo ne peut fournir aucune mise à jour concernant la migration d’Adobe IMS. L’équipe Compte d’Adobe atteindra le délai prévu au cours des prochains mois. Pour plus d’informations, voir [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, et la variable [Questions fréquentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 Pour les abonnements intégrés à une identité Adobe, Adobe Admin Console est utilisé pour la gestion des utilisateurs. Les concepts liés aux identités, tels que l’authentification unique, sont également gérés dans le Admin Console.
 
@@ -46,8 +46,8 @@ Les abonnements Adobe Marketo Engage intégrés à Adobe Identity Management Sys
 </td>
  </tr>
  <tr>
-  <td><strong>Administrateur de produit Marketo Engage</strong></td>
-  <td>Personne ayant accès à un Marketo Engage avec des privilèges d’administrateur. Rôle attribué en Marketo Engage, pas en Adobe Admin Console.</td>
+  <td><strong>Administrateur Marketo Engage</strong></td>
+  <td>Personne ayant accès à un Marketo Engage avec des privilèges d’administrateur. Rôle attribué dans Marketo Engage et non dans Adobe Admin Console (apparaît simplement comme "Admin" dans la variable <b>Modifier l’utilisateur</b> modal).</td>
  </tr>
  <tr>
   <td><strong>Utilisateur Marketo Engage</strong></td>
