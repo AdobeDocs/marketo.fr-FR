@@ -4,16 +4,16 @@ title: Modèles de webinaires interactifs
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 51ba08f4f38ddbf0f382dbc99b76b4ffd2d60a37
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 2%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
 # Modèles de webinaires interactifs {#templates-for-interactive-webinars}
 
-Texte
+Créez des modèles simples d’utilisation dans des webinaires interactifs afin de produire du contenu plus rapidement et/ou de rester en conformité avec les directives de la marque lorsque vous travaillez en équipe.
 
 ## Création d’un modèle {#create-a-template}
 
@@ -25,7 +25,7 @@ CAPTURE D’ÉCRAN
 
 CAPTURE D’ÉCRAN
 
-1. Cliquez sur [!UICONTROL Gestion des modèles].
+1. Cliquez sur **[!UICONTROL Gestion des modèles]**.
 
 CAPTURE D’ÉCRAN
 
