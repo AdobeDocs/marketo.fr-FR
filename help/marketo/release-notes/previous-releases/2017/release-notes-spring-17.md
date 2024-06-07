@@ -4,18 +4,18 @@ description: Notes de mise à jour - Printemps 2017 - Documents Marketo - Docume
 title: Notes de mise à jour - Printemps 2017
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : Printemps 17 {#release-notes-spring}
+# Notes de mise à jour : printemps 17 {#release-notes-spring}
 
-Les fonctionnalités suivantes sont incluses dans la version du printemps 17. Vérifiez la disponibilité de votre édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version du printemps 17. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
 
-Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque**: Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
+Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque**: si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
 ## [Forms linkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
@@ -35,7 +35,7 @@ Les jours de nettoyage des modèles obsolètes dans Sales Insight sont révolus.
 
 ![](assets/four-281-29.png)
 
-## [API d’extraction en bloc pour les personnes et les activités](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [API d’extraction en bloc pour les personnes et les activités](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Transférez facilement de grandes quantités de données sur les personnes et les activités de Marketo vers vos systèmes externes.
 
@@ -49,7 +49,7 @@ Marketo ABM vous permet désormais de créer jusqu’à 10 champs personnalisés
 
 Les scores du compte nommé peuvent varier sensiblement. Marketo ABM calcule désormais automatiquement un centile pour chacun de vos scores, de sorte que vous pouvez voir en un coup d’oeil où chaque compte nommé est classé parmi vos autres comptes nommés.
 
-**[API de liste de comptes ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[API de liste de comptes ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Profitez des intégrations riches et robustes de partenaires ABM avec une prise en charge améliorée des API pour les listes de comptes nommés.
 
@@ -83,7 +83,7 @@ Personnalisez le bouton Fermer pour les boîtes de dialogue. Effectuez une séle
 
 **[Archiver les campagnes Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
-L’option Archiver est un nouvel état des campagnes Web qui permet d’archiver les campagnes Web et de les masquer dans la vue Campagne Web par défaut. Vous pouvez ainsi vous concentrer sur vos campagnes les plus pertinentes et les plus principales, et récupérer à la demande les campagnes archivées plus anciennes.
+L’option Archiver est un nouvel état des campagnes Web qui permet d’archiver les campagnes Web et de les masquer dans la vue Campagne Web par défaut. Vous pouvez ainsi vous concentrer sur vos campagnes actives les plus pertinentes et récupérer à la demande les anciennes campagnes archivées.
 
 ![](assets/archive-campaign-5b2-5d.png)
 
@@ -91,7 +91,7 @@ L’option Archiver est un nouvel état des campagnes Web qui permet d’archive
 
 La personnalisation web est désormais proposée dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
-## Améliorations prédictives {#predictive-enhancements}
+## Amélioration prédictive {#predictive-enhancements}
 
 **[Localisation](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 

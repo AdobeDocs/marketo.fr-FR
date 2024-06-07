@@ -4,7 +4,7 @@ description: Déclencheurs et filtres pour les campagnes dynamiques mobiles - Do
 title: Déclencheurs et filtres pour les campagnes dynamiques mobiles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '820'
 ht-degree: 1%
@@ -61,7 +61,7 @@ Certains déclencheurs et filtres offrent des contraintes supplémentaires, tell
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 
-**A une application mobile**
+**Avec application mobile**
 
 Utilisez ce filtre pour découvrir toutes les personnes qui ont déjà installé votre application. Cette option est disponible uniquement sous la forme d’un filtre.
 
@@ -103,7 +103,7 @@ L’application mobile est/a été ouverte
 
 A/A eu une activité d’application mobile
 
-Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez collaborer avec votre développeur pour configurer le suivi. [pour Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
+Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez collaborer avec votre développeur pour configurer le suivi. [pour Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Avec activité d’application mobile - déclencheur
 

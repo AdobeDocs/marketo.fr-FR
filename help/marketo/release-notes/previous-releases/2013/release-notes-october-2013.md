@@ -4,14 +4,14 @@ description: Notes de mise à jour - Octobre 2013 - Documentation Marketo - Docu
 title: Notes de mise à jour - Octobre 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
 
-# Notes de mise à jour : Octobre 2013 {#release-notes-october}
+# Notes de mise à jour : octobre 2013 {#release-notes-october}
 
 Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013.
 
@@ -21,11 +21,11 @@ Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) est destiné aux développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, notamment les API JavaScript Munchkin, des exemples de code d’API SOAP, des webhooks et des scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) est destiné aux développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, notamment les API JavaScript Munchkin, des exemples de code d’API SOAP, des webhooks et des scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Mise à jour de l&#39;adaptateur d&#39;événement BrightTALK {#updated-brighttalk-event-adapter}
 
-Synchronisez davantage de champs de BrightTALK dans Marketo, notamment le nom de la société, l&#39;intitulé du poste, le secteur et la taille de l&#39;entreprise..
+Synchronisez les champs supplémentaires de BrightTALK avec Marketo, y compris le nom de la société, le titre de la tâche, le secteur industriel et la taille de la société.
 
 ## Application d’archivage d’événements pour tablette Android {#android-tablet-event-check-in-app}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360181
-description: Suivi de l’activité anonyme et des personnes - Documents Marketo - Documentation du produit
+description: Suivi des personnes et des activités anonymes - Documents Marketo - Documentation du produit
 title: Suivi de l’activité anonyme et des personnes
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Première visite d’un visiteur dans Marketo [landing page](/help/marketo/produ
 
    >[!NOTE]
    >
-   >Contrairement aux autres liens des emails Marketo, l’option Afficher comme page web n’est pas suivie en tant que clic sur un email.
+   >Contrairement à d’autres liens dans les emails Marketo, l’option Afficher comme page web n’est pas suivie en tant que clic sur un email.
 
    Une activité anonyme est fusionnée en une nouvelle personne ou une personne existante lorsqu’une personne :
 
    * Cliquez sur un [lien dans un email Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Remplissage d’un Marketo [formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-   * Utilise Marketo [API REST](https://developers.marketo.com/rest-api/lead-database/leads/) ou [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
+   * Utilise Marketo [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) ou [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
 
    Un nom de la base de données peut être lié à de nombreux cookies, car les visiteurs utilisent souvent différents appareils et navigateurs pour consulter votre site.
 

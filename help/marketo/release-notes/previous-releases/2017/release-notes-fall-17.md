@@ -4,16 +4,16 @@ description: Notes de mise à jour - Automne 17 - Documents Marketo - Documentat
 title: Notes de mise à jour - Automne 17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 11%
+source-wordcount: '588'
+ht-degree: 5%
 
 ---
 
-# Notes de mise à jour : Automne 17 {#release-notes-fall}
+# Notes de mise à jour : automne 17 {#release-notes-fall}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’automne 17. Vérifiez la disponibilité de votre édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version de l’automne 17. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
 
 Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. Remarque : Certaines des fonctionnalités incluses dans cette version n’ont pas d’articles associés. Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
@@ -31,7 +31,7 @@ Les récentes améliorations de l’infrastructure offrent une disponibilité et
 
 ## [Fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
-Grâce à cette nouvelle fonctionnalité, vous pouvez désormais conserver et envoyer des emails en fonction des fuseaux horaires locaux. Les programmes de messagerie et d’engagement peuvent être configurés pour être diffusés dans les fuseaux horaires des destinataires, éliminant ainsi la nécessité de créer plusieurs programmes : envoyer une fois et Marketo contiendra automatiquement l’email jusqu’à l’heure locale correcte. Effacez les mesures des courriers électroniques, observez les pratiques locales et gagnez du temps en utilisant globalement un seul programme.
+Grâce à cette nouvelle fonctionnalité, vous pouvez désormais conserver et envoyer des emails en fonction des fuseaux horaires locaux. Les programmes de messagerie et d’engagement peuvent être configurés pour être diffusés dans les fuseaux horaires des destinataires, éliminant ainsi la nécessité de créer plusieurs programmes : envoyer une fois et Marketo contiendra automatiquement l’email jusqu’à l’heure locale correcte. Effet élévateur des mesures de courrier électronique, observez les pratiques locales et gagnez du temps en utilisant globalement un seul programme.
 
 ![](assets/image2017-11-29-8-3a45-3a47.png)
 
@@ -39,20 +39,20 @@ Grâce à cette nouvelle fonctionnalité, vous pouvez désormais conserver et en
 >
 >Si vous ne pouvez pas encore activer le Fuseau horaire du destinataire dans vos programmes d’email et d’engagement, ne paniquez pas ! Cette fonctionnalité est progressivement activée pour tous les clients.
 
-## [Revoyez les exemples d’e-mails par segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Vérification d’exemples d’emails par segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo dispose d’une nouvelle option pour sélectionner un segment lors de l’envoi d’exemples d’emails pour révision. Il n’est plus nécessaire de déterminer manuellement le segment auquel appartient une piste, ce qui facilite l’envoi d’emails contenant du contenu dynamique à différents segments.
 
-## [Questions personnalisées pour la génération de leads LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Questions personnalisées sur la génération de pistes linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Personnalisez vos formulaires de génération de leads LinkedIn pour collecter les attributs des leads personnalisés. Vous pouvez désormais poser jusqu’à trois questions personnalisées par formulaire, choisir entre une saisie de texte sur une seule ligne ou des questions à choix multiples et revenir aux champs de piste Marketo.
+Personnalisez vos formulaires de génération de pistes LinkedIn pour collecter des attributs de pistes personnalisés. Vous pouvez désormais poser jusqu’à trois questions personnalisées par formulaire, choisir entre une saisie de texte sur une seule ligne ou des questions à choix multiples et revenir aux champs de piste Marketo.
 
 ## Intégration de Slack {#slack-integration}
 
 Nous avons publié deux fonctionnalités dans le cadre de notre nouvelle intégration de Slack :
 
-* Notifications système : Recevez des notifications Slack sur les événements importants de votre instance Marketo, par exemple des alertes sur les états de la campagne en cours et les problèmes qui nécessitent une attention immédiate.
-* Moments intéressants : Lorsqu’un insight Marketo a été déclenchée par une personne connue à partir d’un compte de vente, les propriétaires de prospect peuvent être avertis via Slack. Les notifications comprennent des informations de piste ainsi que des détails sur le compte de vente.
+* Notifications système : Recevez des notifications Slack concernant des événements importants dans votre instance Marketo, tels que des alertes concernant les états de la campagne en cours et tout problème nécessitant une attention immédiate.
+* Moments intéressants : lorsqu’un insight Marketo a été déclenché par une personne connue à partir d’un compte de vente, les propriétaires de prospect peuvent être avertis via Slack. Les notifications incluent des informations de piste ainsi que des détails sur le compte de vente.
 
 ## Améliorations ABM {#abm-enhancements}
 
@@ -62,7 +62,7 @@ Marketo ABM se synchronise désormais et affiche les comptes CRM sans contacts. 
 
 ## Analyse ContentAI {#contentai-analytics}
 
-**[Nouveau filtre de liste de compte ABM](https://docs.marketo.com/x/1BPG)**
+**[Nouveau filtre de liste de comptes ABM](https://docs.marketo.com/x/1BPG)**
 
 Affichez et comparez les performances du contenu sur les listes de comptes ABM afin d’optimiser le contenu existant. ContentAI vous présente :
 
@@ -86,10 +86,10 @@ Gagnez du temps en réutilisant les ressources créatives et les images sur plus
 
 ## Intégration  {#integration}
 
-**[Aperçu d’e-mail API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API Email Preview](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Vous pouvez désormais prévisualiser un email à distance en dehors de Marketo, ce qui simplifie le processus de localisation du contenu d&#39;un email et réduit les erreurs.
 
-**[Remplacer l’HTML API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Remplacer l’API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Les développeurs peuvent mettre à jour le contenu HTML des ressources de courrier électronique à distance, ce qui leur permet de travailler sur un seul système pour gérer les ressources.

@@ -4,10 +4,10 @@ description: Configuration de vos paramètres d’API SOAP - Documents Marketo -
 title: Configuration des paramètres de votre API SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 5%
+source-wordcount: '81'
+ht-degree: 0%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Nous vous suggérons d’utiliser l’API REST. En savoir plus sur [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>Nous vous suggérons d’utiliser l’API REST. En savoir plus sur [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
@@ -35,8 +35,8 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->Votre point d’entrée SOAP et [!UICONTROL Identifiant utilisateur] sera unique ; n’envoyez pas la capture d’écran de cet article à votre développeur.
+>Votre point d’entrée SOAP et [!UICONTROL Identifiant utilisateur] sera unique. N’envoyez pas la capture d’écran de cet article à votre développeur.
 
 >[!MORELIKETHIS]
 >
->[Documentation de l’API SOAP](https://developers.marketo.com/documentation/soap/)
+>[Documentation de l’API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

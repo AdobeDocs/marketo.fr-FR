@@ -4,20 +4,20 @@ description: Notes de mise à jour - Décembre 2014 - Documents Marketo - Docume
 title: Notes de mise à jour - Décembre 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 2%
 
 ---
 
-# Notes de mise à jour : Décembre 2014 {#release-notes-december}
+# Notes de mise à jour : décembre 2014 {#release-notes-december}
 
 Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Après la publication de la version, veillez à revenir à la page de liens vers des articles détaillés pour chaque fonctionnalité.
 
 ## Rapports de statistiques de ventes {#sales-insight-reports}
 
-Le [Rapport Performance des emails de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) vous permet d’afficher les mesures de courrier électronique par courrier électronique et par représentant commercial. Il prend en charge les emails envoyés par l’intermédiaire de Salesforce, Microsoft Dynamics, le module externe Outlook et le module externe Gmail.
+La variable [Rapport Performance des emails de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) vous permet d’afficher les mesures de courrier électronique par courrier électronique et par représentant commercial. Il prend en charge les emails envoyés par l’intermédiaire de Salesforce, Microsoft Dynamics, le module externe Outlook et le module externe Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -61,11 +61,11 @@ Trois nouveaux appels pour l’API Lead &amp; Activity ReST :
 
 ・ Obtenir des partitions de piste
 
-· Associer le lead
+・ Associer le prospect
 
 ・ Fusionner le prospect
 
-Des détails complets seront disponibles après cette version à l’adresse [developers.marketo.com](https://developers.marketo.com/)
+Des détails complets seront disponibles après cette version à l’adresse [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Améliorations de la compatibilité Javascript Munchkin {#munchkin-javascript-compatibility-enhancements}
 
@@ -89,7 +89,7 @@ Gérez et surveillez vos comptes à haut rendement clés dans la nouvelle page C
 
 ![](assets/image2014-12-5-11-3a9-3a10.png)
 
-## RTP : Effet glissant pour les campagnes dans les zones {#rtp-sliding-effect-for-in-zone-campaigns}
+## RTP : effet glissant pour les campagnes dans les zones {#rtp-sliding-effect-for-in-zone-campaigns}
 
 Nous avons ajouté un nouvel effet Sliding pour les campagnes In Zone afin que votre contenu personnalisé puisse glisser en place au chargement de la page.
 

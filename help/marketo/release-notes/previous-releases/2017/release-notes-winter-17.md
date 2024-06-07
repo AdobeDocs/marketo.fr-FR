@@ -4,7 +4,7 @@ description: Notes de mise à jour - Hiver 2017 - Documents Marketo - Documentat
 title: Notes de mise à jour - Hiver 2017
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 7%
@@ -27,7 +27,7 @@ La correspondance de base utilise uniquement des adresses électroniques, tandis
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API d’importation de l’objet personnalisé](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API d’importation de l’objet personnalisé](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 Cette API fournit une interface plus rapide pour synchroniser les objets personnalisés dans Marketo. Vous pouvez importer des fichiers de feuille de calcul CSV, TSV ou SSV dans Marketo sous la forme d’objets personnalisés.
 
@@ -81,7 +81,7 @@ Il existe une expérience d’édition et une mise en page améliorées qui divi
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de découverte automatique du contenu.
 
-## [Améliorations apportées au SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Améliorations apportées au SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Les développeurs disposent désormais d’un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer des jetons push.
 

@@ -4,14 +4,14 @@ description: Notes de mise à jour - Janvier 2015 - Documentation Marketo - Docu
 title: Notes de mise à jour - Janvier 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '356'
 ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : Janvier 2015 {#release-notes-january}
+# Notes de mise à jour : janvier 2015 {#release-notes-january}
 
 Les fonctionnalités suivantes sont incluses dans la version de janvier 2015. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Après la publication de la version, veillez à revenir à la page de liens vers des articles détaillés pour chaque fonctionnalité.
 
@@ -27,11 +27,11 @@ Vous pouvez désormais [création de vues mobiles pour les landing pages](/help/
 
 Trois nouveaux appels pour l’API Lead &amp; Activity ReST :
 
-* Supprimer lead
+* Supprimer un lead
 * Obtenir des pistes par identifiant de programme
 * Obtenir les pistes supprimées
 
-Il existe également une nouvelle option pour le pistes de synchronisation, qui permet d’écrire le changement de piste de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après cette version à l’adresse [developers.marketo.com](https://developers.marketo.com)
+Il existe également une nouvelle option pour le pistes de synchronisation, qui permet d’écrire le changement de piste de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après cette version à l’adresse [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **Prise en charge des objets personnalisés dans le script d’e-mail**
 
@@ -62,6 +62,6 @@ Les options de balise RTP sous Paramètres du compte ont été mises à jour afi
 1. Balise asynchrone sans CDN
 1. Balise synchrone sans CDN
 
-Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser la variable [API RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Pour plus d’informations sur le déploiement de la balise RTP, voir [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser la variable [API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

@@ -3,9 +3,9 @@ description: Exécuter Campaign - Documents Marketo - Documentation du produit
 title: Lancer la campagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '706'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ Vous pouvez également cloner une campagne dynamique existante. Si vous clonez u
 >
 >Vous ne pouvez pas cloner une campagne qui contient des déclencheurs.
 
-## Utiliser le contexte de jeton de la campagne parent {#use-parent-campaign-token-context}
+## Utiliser le contexte de jeton de la campagne parente {#use-parent-campaign-token-context}
 
 Lorsque la valeur est définie sur true, les contextes de jeton suivants sont envoyés dans la campagne enfant (celle en cours d’exécution) :
 
@@ -60,7 +60,7 @@ Lorsque la valeur est définie sur true, les contextes de jeton suivants sont en
 
 **Interaction API**
 
-Lors de l’utilisation d’une planification ou d’une requête de campagne [dans l’API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), vous permettent de transmettre des valeurs pour Mes jetons, qui remplacent les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit &quot;Utiliser le contexte parent sur True&quot;, elle utilisera les valeurs transmises par le biais de l’API, plutôt que les valeurs définies dans l’application.
+Lors de l’utilisation d’une planification ou d’une requête de campagne [dans l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), vous permettent de transmettre des valeurs pour Mes jetons, qui remplacent les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit &quot;Utiliser le contexte parent sur True&quot;, elle utilisera les valeurs transmises par le biais de l’API, plutôt que les valeurs définies dans l’application.
 
 ## Informations à noter {#things-to-note}
 

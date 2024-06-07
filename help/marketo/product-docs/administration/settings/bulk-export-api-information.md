@@ -1,24 +1,24 @@
 ---
 description: Informations sur l’API d’exportation en bloc - Documents Marketo - Documentation du produit
-title: Informations sur l’API d’exportation en bloc
+title: Informations sur l'API d'exportation en masse
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 5%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
-# Informations sur l’API d’exportation en bloc {#bulk-export-api-information}
+# Informations sur l&#39;API d&#39;exportation en masse {#bulk-export-api-information}
 
-Découvrez comment vérifier combien [API d’extraction en bloc](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} votre instance de Marketo Engage a pris en charge la capacité au cours des sept derniers jours.
+Découvrez comment vérifier combien [API d’extraction en bloc](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} votre instance de Marketo Engage a pris en charge la capacité au cours des sept derniers jours.
 
 >[!NOTE]
 >
 >Si vous avez besoin de capacités supplémentaires, contactez votre gestionnaire de compte.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -34,4 +34,4 @@ Découvrez comment vérifier combien [API d’extraction en bloc](https://develo
 
 >[!NOTE]
 >
->L’allocation de votre instance de Marketo Engage est réinitialisée tous les jours à 00h00 heure de la côte Est.
+>L’allocation pour votre instance de Marketo Engage est réinitialisée tous les jours à 00h00 (heure de la côte Est).

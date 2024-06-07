@@ -4,10 +4,10 @@ description: Créez un [!DNL Webhook] - Documents Marketo - Documentation du pro
 title: Créez un [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Utilisation [!DNL Webhooks] pour tirer parti des services web tiers pour envoyer
 >
 >Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez au **[!UICONTROL Administration]** zone.
 
    ![](assets/create-a-webhook-1.png)
 
@@ -55,4 +55,4 @@ Utilisation [!DNL Webhooks] pour tirer parti des services web tiers pour envoyer
 
 >[!NOTE]
 >
->En savoir plus dans la section [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} plongée profonde.
+>En savoir plus dans la section [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} plongée profonde.

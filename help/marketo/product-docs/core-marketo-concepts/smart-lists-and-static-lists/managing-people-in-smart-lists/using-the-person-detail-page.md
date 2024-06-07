@@ -4,9 +4,9 @@ description: Utilisation de la page Détails de la personne - Documents Marketo 
 title: Utilisation de la page Détails de la personne
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 50%
 
 ---
@@ -38,18 +38,18 @@ Il y a de nombreuses façons d&#39;ouvrir des personnes spécifiques. Voici quel
 
 Les informations sur les personnes sont classées dans les onglets suivants :
 
-| Onglet  | Description |
+| Onglet | Description |
 |---|---|
 | Infos | Coordonnées et champs personnalisés concernant une personne. |
 | Informations sur la société | Informations et adresse de la personne. |
 | Infos sur l&#39;opportunité | Informations sur les opportunités synchronisées depuis Salesforce. |
-| Champ lead SFDC | Champs Salesforce intégrés. |
+| Champ du lead SFDC | Champs Salesforce intégrés. |
 | Champ personnalisé SFDC | Champs Salesforce personnalisés. |
 | Journal d&#39;activité | Toutes les activités liées à la personne. |
 
 ## Organisation de page - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Onglet  | Description |
+| Onglet | Description |
 |---|---|
 | Infos | Coordonnées et champs personnalisés concernant une personne. |
 | Informations sur la société | Informations et adresse de la personne. |
@@ -60,7 +60,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 
 >[!NOTE]
 >
->Vous pouvez également afficher les informations sur les opportunités [inséré via l’API](https://developers.marketo.com/rest-api/lead-database/opportunities/) pour les instances qui ne sont pas synchronisées avec un CRM.
+>Vous pouvez également afficher les informations sur les opportunités [inséré via l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
 
 ## Modification d’un champ {#editing-a-field}
 
@@ -77,7 +77,7 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 | Pays | Créé à | Date de naissance | Service | Ne pas appeler |
 | Cause Ne pas appeler | Raison Ne pas appeler | Adresse e-mail | E-mail non valide | Cause e-mail non valide |
 | ID de la société externe | ID du commercial externe | Numéro de fax | Prénom | Nom complet |
-| Secteur | Ville déduite | Société déduite | Pays déduit | Aire métropolitaine déduite |
+| Industrie | Ville déduite | Société déduite | Pays déduit | Aire métropolitaine déduite |
 | Indicatif téléphonique local déduit | Code postal déduit | Région déduite | Est anonyme | Est client |
 | Est partenaire | Intitulé du poste | Nom | Classement | Évaluation |
 | Source de personne | Statut | Téléphone principal | Nom d&#39;affichage Marketo pour Facebook | ID Marketo via Facebook |
@@ -89,7 +89,7 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 | Deuxième prénom | Numéro téléphone mobile | Nombre d&#39;employés | Numéro de téléphone | Code postal |
 | Priorité | Évaluation relative | Rôle | Titre | Code SIC |
 | Site | État | Non abonné | Raison désabonnement | Mis à jour à |
-| Urgence | Site Internet |  |  |  |
+| Urgence | Site web |  |  |  |
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Création d’un jeton de script de courrier électronique - Docume
 title: Création d’un jeton de script de courrier électronique
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Pour les développeurs avancés, vous pouvez utiliser [Scripts Velocity](https:/
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Utilisez l’arborescence à droite pour effectuer un glisser-déposer. **Personne, opportunité** ou **Objet personnalisé** jetons.
+1. Utilisez l’arborescence à droite pour effectuer un glisser-déposer **Personne, opportunité**, ou **Objet personnalisé** jetons.
 
    ![](assets/five-2.png)
 
@@ -39,7 +39,7 @@ Pour les développeurs avancés, vous pouvez utiliser [Scripts Velocity](https:/
    >
    >Lors de l’accès à un tableau (opportunité ou objet personnalisé), vous êtes limité aux 10 éléments les plus récents associés à la personne.
 
-1. Notez que le jeton est coché/principal après l’avoir fait glisser dans l’éditeur de script.
+1. Notez que le jeton est coché/actif après l’avoir fait glisser dans l’éditeur de script.
 
    ![](assets/image2014-9-17-22-3a22-3a33.png)
 
@@ -49,7 +49,7 @@ Pour les développeurs avancés, vous pouvez utiliser [Scripts Velocity](https:/
 
 1. Écrivez votre script dans Velocity. Voici quelques ressources utiles :
 
-   * [Documentation sur les scripts de courrier électronique des développeurs Marketo](https://developers.marketo.com/email-scripting/)
+   * [Documentation sur les scripts de courrier électronique des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Guide de l’utilisateur Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Guide de référence Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

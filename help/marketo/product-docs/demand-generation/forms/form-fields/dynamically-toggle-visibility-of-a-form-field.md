@@ -4,10 +4,10 @@ description: Activer/désactiver dynamiquement la visibilité d’un champ de fo
 title: Activer/désactiver dynamiquement la visibilité d’un champ de formulaire
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 0%
+source-wordcount: '242'
+ht-degree: 1%
 
 ---
 
@@ -59,16 +59,16 @@ L’une des fonctionnalités les plus intéressantes des formulaires Marketo est
 
    >[!NOTE]
    >
-   >Nous avons auparavant converti le Pays en un type de champ de liste de sélection et [ajout de tous les pays en tant que valeurs ;](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Nous avons auparavant converti le Pays en un type de champ de liste de sélection et [ajout de tous les pays en tant que valeurs](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-Et voilà ! Désormais, lorsque des personnes remplissent ce formulaire et sélectionnent Etats-Unis pour le pays, le champ Etat s’affiche de manière dynamique avec les choix spécifiés.
+Et c&#39;est tout ! Désormais, lorsque des personnes remplissent ce formulaire et sélectionnent Etats-Unis pour le pays, le champ Etat s’affiche de manière dynamique avec les choix spécifiés.
 
 >[!IMPORTANT]
 >
->Le comportement des champs de formulaire fonctionne parfaitement lorsque les valeurs de champ sont définies/mises à jour au moyen d’un script personnalisé utilisant [Fonctions d’API](https://developers.marketo.com/javascript-api/forms/){target="_blank"} dans Forms 2.0.
+>Le comportement des champs de formulaire fonctionne parfaitement lorsque les valeurs de champ sont définies/mises à jour au moyen d’un script personnalisé utilisant [Fonctions d’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
 >
 >Les champs conditionnels peuvent ne pas fonctionner comme prévu si les valeurs de champ sont modifiées par des scripts externes autres que l’API JavaScript Forms 2.0.

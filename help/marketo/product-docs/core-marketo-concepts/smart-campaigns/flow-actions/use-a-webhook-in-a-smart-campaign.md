@@ -4,16 +4,16 @@ description: Utilisation d’un webhook dans une campagne dynamique - Documents 
 title: Utilisation d’un webhook dans une campagne dynamique
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Utilisation d’un webhook dans une campagne dynamique {#use-a-webhook-in-a-smart-campaign}
 
-Pour utiliser une [webhook](https://developers.marketo.com/documentation/webhooks/){target="_blank"}, add it to a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} comme action de flux.
+Pour utiliser une [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, ajoutez-le à un [Campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} comme action de flux.
 
 >[!AVAILABILITY]
 >

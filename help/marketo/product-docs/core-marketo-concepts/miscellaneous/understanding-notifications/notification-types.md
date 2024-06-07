@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: Types de notification - Documents Marketo - Documentation du produit
 title: Types de notification
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 4%
+source-wordcount: '237'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 Il existe plusieurs types de notification.
 
-## Erreur de la campagne   {#campaign-failure}
+## Erreur de la campagne  {#campaign-failure}
 
 Les échecs de campagne vous informent des erreurs dans vos campagnes dynamiques.
 
@@ -54,10 +54,10 @@ Lorsque Marketo ne parvient pas à créer une audience, à se connecter ou à en
 
 ![](assets/linkedin.png)
 
-## Services web {#web-services}
+## Services Web {#web-services}
 
 Vous en serez informé lorsque vous atteindrez votre quota quotidien. Le quota est réinitialisé chaque nuit à minuit, heure du centre.
 
 >[!NOTE]
 >
->Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation destinée aux développeurs](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation destinée aux développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

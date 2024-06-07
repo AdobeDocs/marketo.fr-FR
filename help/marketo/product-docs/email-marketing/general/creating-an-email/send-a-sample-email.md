@@ -4,9 +4,9 @@ description: Envoyer un exemple de courrier électronique - Documents Marketo - 
 title: Envoyer un exemple de courrier électronique
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer 
 
 >[!NOTE]
 >
->Vous devez avoir la variable **Accès à la base de données - Exécuter des actions de flux unique** autorisation d’envoyer des exemples d’emails.
+>Vous devez disposer de la variable **Accès à la base de données - Exécuter des actions de flux unique** autorisation d’envoyer des exemples d’emails.
 
 ## Envoyer un exemple de courrier électronique {#send-a-sample-email-1}
 
@@ -56,7 +56,7 @@ Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer 
 
    >[!NOTE]
    >
-   >Le champ déclencheur ne s&#39;applique qu&#39;aux utilisateurs [script de courrier électronique](https://developers.marketo.com/documentation/velocity-script/).
+   >Le champ déclencheur ne s&#39;applique qu&#39;aux utilisateurs [script de courrier électronique](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Envoi d’un exemple de courrier électronique basé sur un segment {#send-a-sample-email-based-on-a-segment}
 
@@ -90,6 +90,6 @@ Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer 
 
    >[!TIP]
    >
-   >Vous pouvez également envoyer un exemple d’email basé sur un segment en mode d’édition de votre email. Cliquez sur le bouton **Actions de courrier électronique** menu déroulant, sélectionnez **Envoyer un exemple**, puis sélectionnez votre segment.
+   >Vous pouvez également envoyer un exemple d’email basé sur un segment en mode d’édition de votre email. Cliquez sur le bouton **Actions de courrier électronique** , sélectionnez **Envoyer un exemple**, puis sélectionnez votre segment.
 
 L’échantillonnage de votre contenu avant le lancement d’une campagne est très important. Mesurez deux fois, coupez une fois !

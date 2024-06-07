@@ -4,14 +4,14 @@ description: Notes de mise à jour - Juillet 2014 - Documentation Marketo - Docu
 title: Notes de mise à jour - Juillet 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : Juillet 2014 {#release-notes-july}
+# Notes de mise à jour : juillet 2014 {#release-notes-july}
 
 Les fonctionnalités suivantes sont incluses dans la version de juillet 2014. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Revenez après la version pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
@@ -47,7 +47,7 @@ Outre le calendrier marketing avec lequel vous gérez vos événements et progra
 
 ## Liste des opérations dans l’API ReST {#list-operations-in-the-rest-api}
 
-Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [developers.marketo.com](https://developers.marketo.com/documentation/rest/) pour consulter la documentation complète.
+Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) pour consulter la documentation complète.
 
 * Obtenir la liste par identifiant
 * Obtenir plusieurs listes
@@ -60,15 +60,15 @@ Over **50 fois plus rapide**, vos fichiers effectueront un zoom sur Marketo. Les
 
 L’option &quot;Ignorer les nouvelles pistes et mises à jour&quot; reste inchangée.
 
-## Nouveau Munchkin amélioré! {#new-improved-munchkin}
+## Nouveau Munchkin amélioré ! {#new-improved-munchkin}
 
 Le déploiement débutera à la mi-juillet et se poursuivra au cours des prochains mois.
 
 * Supprime la dépendance jQuery pour une compatibilité complète et future.
-* Plus compatible avec d’autres scripts JavaScript de votre site
+* Plus compatible avec les autres JavaScript de votre site
 * Entièrement testé sur de nombreux sites au cours de l’année passée !
 
-## RTP : Modèles de campagne de personnalisation en temps réel {#rtp-real-time-personalization-campaign-templates}
+## RTP : modèles de campagne de personnalisation en temps réel {#rtp-real-time-personalization-campaign-templates}
 
 La page Définir la campagne RTP est maintenant [inclut des modèles prêts à l’emploi ;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Choisissez parmi une variété de styles, notamment des webinaires, des études de cas et des livres électroniques.
 
@@ -76,12 +76,12 @@ La page Définir la campagne RTP est maintenant [inclut des modèles prêts à l
 
 ![](assets/image2014-9-22-14-3a25-3a47.png)
 
-## RTP : Améliorations de l’API JavaScript {#rtp-javascript-api-enhancements}
+## RTP : améliorations de l’API JavaScript {#rtp-javascript-api-enhancements}
 
-Nouvel appel de l’API RTP pour obtenir des données sur les visiteurs en temps réel telles que l’organisation, le secteur, l’emplacement et la correspondance de code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle présentant le code segment. Voir notre [site des développeurs](https://developers.marketo.com/documentation/websites/rtp-js-api/) pour obtenir une documentation complète.
+Nouvel appel de l’API RTP pour obtenir des données sur les visiteurs en temps réel telles que l’organisation, le secteur, l’emplacement et la correspondance de code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle présentant le code segment. Voir notre [site des développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP : Prise en charge de HTML5 dans l’éditeur de contenu de Campaign {#rtp-html-support-in-campaign-content-editor}
+## RTP : prise en charge de HTML5 dans l’éditeur de contenu de Campaign {#rtp-html-support-in-campaign-content-editor}
 
 L’éditeur WYSIWYG de contenu de la page Définir des campagnes est désormais compatible avec HTML5. Cliquez sur l&#39;icône &quot;HTML&quot; dans l&#39;éditeur pour insérer du code HTML5.

@@ -3,7 +3,7 @@ description: Liste de contrôle de l’administrateur d’instance hérité - Do
 title: Liste de contrôle de l’administrateur d’instance hérité
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 3%
@@ -281,7 +281,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
    <td>Munchkin</td> 
    <td><li>Est-ce que <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Code de suivi Munchkin</a> sur votre site web (et non une page d’entrée de Marketo Engage) ?</li>
 <li>Est un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Ne pas effectuer de suivi</a> Demande de navigateur activée ?</li>
-<li>Est-ce que <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API Munchkin</a> configuré ? 
+<li>Est-ce que <a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">API Munchkin</a> configuré ? 
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : si vous ne disposez pas de documentation sur l’emplacement du code de la serviette sur votre site web, vous pouvez afficher toutes les URL en créant un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport Activité de la page web</a>.</li></td>
   </tr>
   <tr> 

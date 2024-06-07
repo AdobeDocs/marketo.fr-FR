@@ -4,7 +4,7 @@ description: Notes de mise à jour - Printemps 2018 - Documents Marketo - Docume
 title: Notes de mise à jour - Printemps 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 5%
@@ -45,9 +45,9 @@ Accédez à la version bêta ouverte du Marketo Sky pour accéder à plus de 100
 * Guides in-app et aide contextuelle
 * Étiquettes de ressources et vues de calendrier plus flexibles
 
-## Informations sur les performances {#performance-insights}
+## Performance Insights {#performance-insights}
 
-[Informations sur les performances](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Comparaison d’une période d’une année à l’autre**
 
@@ -77,12 +77,12 @@ Définissez l’objectif de l’algorithme d’optimisation de ContentAI pour g�
 
 ## Intégration et API {#integration-and-apis}
 
-[API de liste statique](https://developers.marketo.com/rest-api/assets/static-lists/)
+[API de liste statique](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Gérez plus facilement les listes entre Marketo et d’autres systèmes à l’aide de nouvelles API bidirectionnelles pour créer, lire, mettre à jour et supprimer des listes statiques à distance sans avoir à effectuer aucune action dans l’interface utilisateur de Marketo.
 
 ## Améliorations de la confidentialité {#privacy-enhancements}
 
-[Confidentialité quant au suivi Web](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Confidentialité quant au suivi Web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Le suivi amélioré de Munchkin est conforme aux réglementations de confidentialité locales et internationales en anonymisant les adresses IP des visiteurs web et en leur permettant d’exclure définitivement le suivi web.

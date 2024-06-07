@@ -4,7 +4,7 @@ description: Notes de mise à jour - Été 16 - Documents Marketo - Documentatio
 title: Notes de mise à jour - Été 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 3%
@@ -100,16 +100,16 @@ Spécifiez un délai pour que les campagnes web réagissent sur votre site web.
 
 Affichez les données d’analyse de contenu et de recommandations hors ligne.
 
-## [Prise en charge par l’API d’Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [Prise en charge par l’API d’Email Editor 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 Les API Asset préexistantes, auparavant uniquement compatibles avec les modèles et les emails v1.0, sont désormais activées pour les ressources de messagerie v2.0.
 
-## [Site des développeurs Marketo](https://developers.marketo.com/) {#marketo-developers-site}
+## [Site des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nouveau et amélioré !
 
 ## [Paramètres de confidentialité](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Les marketeurs peuvent utiliser les paramètres de confidentialité pour décider d’effectuer le suivi des visiteurs à l’aide des fonctionnalités Munchkin et de personnalisation web. Le niveau de suivi est contrôlé à l’aide du paramètre Ne pas suivre du navigateur, d’un cookie d’exclusion ou d’une adresse IP non spécifique. Ces méthodes peuvent affecter la valeur et les fonctionnalités de Marketo dans des zones spécifiques, mais si le marketeur ne change rien, la fonctionnalité de Marketo reste la même.
+Les marketeurs peuvent utiliser les paramètres de confidentialité pour décider d’effectuer le suivi des visiteurs à l’aide des fonctionnalités Munchkin et de personnalisation web. Le niveau de suivi est contrôlé à l’aide du paramètre Ne pas suivre du navigateur, d’un cookie d’exclusion ou d’une adresse IP non spécifique. Ces méthodes peuvent avoir une incidence sur la valeur et la fonctionnalité de Marketo dans des zones spécifiques, mais si le marketeur ne change rien, la fonctionnalité de Marketo reste la même.
 
 Cette fonctionnalité sera diffusée progressivement aux clients sur une période de six semaines. Si vous en avez besoin immédiatement, contactez le support Marketo.

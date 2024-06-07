@@ -4,16 +4,16 @@ description: Notes de mise à jour - Automne 16 - Documents Marketo - Documentat
 title: Notes de mise à jour - Automne 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 2%
+source-wordcount: '661'
+ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : Automne 16 {#release-notes-fall}
+# Notes de mise à jour : automne 16 {#release-notes-fall}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’automne 16. Vérifiez la disponibilité de votre édition Marketo. Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
+Les fonctionnalités suivantes sont incluses dans la version de l’automne 16. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo. Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
 
 ## Contenu prédictif dans un email {#predictive-content-in-email}
 
@@ -53,7 +53,7 @@ Désormais, vous pouvez affecter des équipes de compte à des comptes nommés d
 
 **API REST**
 
-Cette version vous permet également de gérer des attributs de compte et des scores de comptes nommés dans ABM à l’aide de l’API REST Marketo. Pour plus d’informations sur les opérations de l’API, consultez le [Site web des développeurs Marketo](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Cette version vous permet également de gérer des attributs de compte et des scores de comptes nommés dans ABM à l’aide de l’API REST Marketo. Pour plus d’informations sur les opérations de l’API, consultez le [Site web des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Améliorations du journal d’audit](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -61,11 +61,11 @@ Le journal d’audit fournit un historique complet des modifications apportées 
 
 ## [Nouvelles autorisations](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
-**Rendre l’e-mail opérationnel**
+**Rendre le courrier électronique opérationnel**
 
 L’époque où vous deviez vous inquiéter de l’envoi d’emails transactionnels à des personnes de votre base de données qui se sont désabonnées était révolue. Vous pouvez maintenant spécifier quels utilisateurs peuvent rendre un email opérationnel ou modifier des emails opérationnels.
 
-**Modifier les restrictions de la campagne**
+**Modification des restrictions de campagne**
 
 Pourquoi définir [restrictions de campagne](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) si vous ne pouvez pas les appliquer ? Lorsque vous définissez Paramètres de limite de campagne pour limiter le nombre de personnes dans votre base de données pouvant être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
 
@@ -84,11 +84,11 @@ Donnez à votre notification push iOS une plus grande richesse en activant le so
 
 Market Sales Insight est désormais compatible avec Salesforce Shield Encryption. Tous les clients Sales Insight doivent effectuer une mise à niveau vers ce dernier package géré (version 1.4359.2), à savoir : [disponible sur Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API de comptes nommés](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [API de comptes nommés](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Avec cette version, les utilisateurs de Marketo ABM peuvent gérer des comptes nommés via l’API des comptes nommés. Les utilisateurs peuvent créer, mettre à jour et supprimer des comptes nommés, ainsi que lire et mettre à jour des scores de compte nommé ABM.
 
-## [Prise en charge de l’API de l’éditeur de messagerie v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Prise en charge de l’API de l’éditeur de messagerie v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Gérez les variables et les modules pour les emails au format v2.0 à l’aide de l’API REST Marketo.
 

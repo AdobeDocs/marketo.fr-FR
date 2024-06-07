@@ -3,7 +3,7 @@ description: Envoyer un segment Adobe Experience Platform vers une liste statiqu
 title: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    >[!NOTE]
    >
-   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la variable [Description de la requête API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
+   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la variable [Description de la requête API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
 
 1. Faites correspondre le nom et le nom de la société en cliquant sur **[!UICONTROL Ajouter un nouveau mappage]** et répétez deux fois l’étape 15, en choisissant **[!UICONTROL lastName]** puis **[!UICONTROL companyName]**.
 

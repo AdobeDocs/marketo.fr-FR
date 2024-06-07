@@ -4,9 +4,9 @@ description: Présentation des activités personnalisées - Documents Marketo - 
 title: Présentation des activités personnalisées
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 6%
 
 ---
@@ -25,16 +25,16 @@ Les activités personnalisées vous aident à effectuer le suivi d’une activit
 
 >[!NOTE]
 >
->Les activités personnalisées diffèrent des objets personnalisés. Utilisez des objets personnalisés lorsque la valeur peut changer (c.-à-d. &quot;couleur de la voiture&quot; passe du bleu au rouge). Utilisez des activités personnalisées lors du suivi des moments qui se sont produits et leurs détails ne peuvent pas changer (c.-à-d. &quot;voiture achetée&quot;).
+>Les activités personnalisées diffèrent des objets personnalisés. Utilisez des objets personnalisés lorsque la valeur peut changer (c’est-à-dire que la &quot;couleur de la voiture&quot; passe du bleu au rouge). Utilisez des activités personnalisées lors du suivi des moments qui se sont produits et leurs détails ne peuvent pas changer (c’est-à-dire &quot;voiture achetée&quot;).
 
-**Champs** Vous pouvez ajouter [Champs supplémentaires](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que vous souhaitez associer à votre activité. Comme le champ Principal, ils peuvent être utilisés comme critères de filtrage dans une liste dynamique.
+**Champs** Vous pouvez ajouter [Champs supplémentaires](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que vous souhaitez associer à votre activité. Comme le champ principal, ils peuvent être utilisés comme critères de filtrage dans une liste dynamique.
 
-**Premiers pas**
+**Prise en main**
 
 Les activités personnalisées fonctionnent comme des activités standard. Toutefois, leur configuration est un processus en deux parties.
 
 Étape 1 : [Création d’une activité personnalisée](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) dans votre compte Marketo
 
-Étape 2 : L’employé de votre entreprise qui travaille avec notre API peut alors commencer l’implémentation. Vous trouverez plus d’informations ici : [API d’activité personnalisée](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+Étape 2 : l’employé de votre entreprise qui travaille avec notre API peut alors commencer la mise en oeuvre. Vous trouverez plus d’informations ici : [API d’activité personnalisée](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 Amuse-toi bien !

@@ -4,9 +4,9 @@ description: Activation du contenu prédictif pour Web Rich Media - Documentatio
 title: Activation du contenu prédictif pour le contenu multimédia Web enrichi
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,14 +47,14 @@ Une fois que vous avez préparé le titre, la description et l’image du conten
 
 ## Personnalisation du code JavaScript et incorporation de celui-ci dans votre site web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Média enrichi . [sur le site Marketo Developers](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. Cela explique comment personnaliser le modèle de votre site web.
+Reportez-vous à la documentation du modèle de recommandation Média enrichi . [sur le site Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle de votre site web.
 
 Collez le code JavaScript dans votre site web à l’emplacement où vous souhaitez que le modèle s’affiche.
 
 **Exemples de modèles**
 
-* Template1 : Trois éléments de contenu horizontal avec des images, un en-tête et une description
-* Template2 : Trois éléments de contenu vertical avec des images, un en-tête et une description
+* Modèle 1 : trois éléments de contenu horizontal avec des images, un en-tête et une description
+* Modèle 2 : trois éléments de contenu verticaux avec des images, un en-tête et une description
 
 Voici un exemple du modèle de recommandation pour les médias riches 1 :
 

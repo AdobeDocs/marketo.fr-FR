@@ -4,14 +4,14 @@ description: Notes de mise à jour - Hiver 16 - Documents Marketo - Documentatio
 title: Notes de mise à jour - Hiver 2016
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 6%
+source-wordcount: '497'
+ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : Hiver 16 {#release-notes-winter}
+# Notes de mise à jour : hiver 16 {#release-notes-winter}
 
 Les fonctionnalités suivantes sont incluses dans la version de l’hiver 16. Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
 
@@ -49,23 +49,23 @@ Pour utiliser cette fonctionnalité, le programme de messagerie électronique do
 
 ## [Améliorations du marketing mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Prise en charge de PhoneGap :** Nous offrons désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Prise en charge de PhoneGap :** Nous offrons désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Prise en charge des applications Sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Programmation et API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [Programmation et API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
-Créez, mettez à jour et clonez des programmes par le biais de l’API REST. Cela n’inclut pas la création ou la mise à jour de listes dynamiques et de campagnes dynamiques dans un programme.
+Créez, mettez à jour et clonez des programmes via l’API REST. Cela n’inclut pas la création ou la mise à jour de listes dynamiques et de campagnes dynamiques dans un programme.
 
 ## [Améliorations de Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[État de synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Conservez des onglets sur le débit et le journal actuels du processus de synchronisation. Ventilez-la selon le nombre d’insertions et de mises à jour par objet.
+**[État de la synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: conservez des onglets sur le débit et le journal actuels du processus de synchronisation. Ventilez-la selon le nombre d’insertions et de mises à jour par objet.
 
 ![](assets/pending-backog-cropped.png)
 
-**[Notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Recevez des notifications pour les erreurs de synchronisation courantes, ainsi qu’une liste des pistes qui comportent cette erreur.
+**[Notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: soyez averti des erreurs de synchronisation courantes, ainsi que de la liste des pistes qui comportent cette erreur.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 

@@ -4,10 +4,10 @@ description: Segments web - Documents Marketo - Documentation du produit
 title: Segments web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
-ht-degree: 6%
+source-wordcount: '2051'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-L’onglet Segments affiche tous les segments définis personnalisés que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page &quot;Définir un segment&quot;.**  Un segment peut être des visiteurs provenant d’un secteur industriel, d’un emplacement ou d’une activité sur site spécifique du visiteur.
+L’onglet Segments affiche tous les segments définis personnalisés que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page &quot;Définir un segment&quot;.**  Un segment peut être des visiteurs provenant d’un secteur industriel, d’un emplacement ou d’une activité sur site spécifique.
 
 Dans la personnalisation web, un visiteur peut correspondre à plusieurs segments. Par exemple, s’il existe un segment pour les visiteurs E.U. et un segment pour les sociétés financières, un visiteur web de Bank of America correspondra à **both** le segment pour les visiteurs aux États-Unis et le segment pour les sociétés financières.
 
@@ -36,7 +36,7 @@ Dans la personnalisation web, un visiteur peut correspondre à plusieurs segment
    <td colspan="1" rowspan="1">Titre du segment</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Correspondances</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Correspond</strong></p></td> 
    <td colspan="1" rowspan="1">Nombre de visiteurs répondant aux critères personnalisés et définis du segment.</td> 
   </tr> 
   <tr> 
@@ -96,8 +96,8 @@ Définissez les paramètres généraux de votre segment :
 * **Logique de règle de segment :**  Sélectionnez une logique ET/OU pour créer chaque attribut de segmentation.
 * **Minutage :** Définition du niveau d’engagement des visiteurs souhaité dans votre campagne
 
-   * **À l’entrée**: L’interaction du visiteur arrive sur le site web
-   * **Après le 1er au 9e clic**: Interagir avec le visiteur après un nombre spécifique de clics sur le site web
+   * **À l’entrée**: l’engagement du visiteur arrive sur le site web.
+   * **Après le 1er au 9e clic**: engage le visiteur après un nombre spécifique de clics sur le site web
 
 >[!TIP]
 >
@@ -149,16 +149,16 @@ Une fois le pays ajouté, vous pouvez également spécifier l’état, la ville 
 
 >[!TIP]
 >
->**Quelles conditions de segment dois-je choisir ? &quot;ET&quot; ou &quot;OU&quot; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects n’ont besoin de remplir qu’un seul critère parmi les multiples critères sélectionnés dans chaque champ pour être éligibles au segment. (Par exemple, les prospects peuvent provenir soit des États-Unis, *ou* de l&#39;industrie de la Défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être rempli pour ce segment. (Par exemple, les perspectives doivent venir à la fois des États-Unis et de l&#39;industrie de la Défense). Au sein de chaque profil de segmentation, chaque champ distinct peut fonctionner comme les deux, soit un &quot;ET&quot;, soit un &quot;OU&quot; selon la condition de segment sélectionnée.
+>**Quelles conditions de segment dois-je choisir ? &quot;ET&quot; ou &quot;OU&quot; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects n’ont besoin de remplir qu’un seul critère parmi les multiples critères sélectionnés dans chaque champ pour être éligibles au segment. (Par exemple, les prospects peuvent provenir soit des États-Unis, *ou* de l&#39;industrie de la Défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être rempli pour ce segment. (Par exemple, les perspectives doivent venir à la fois des États-Unis et de l&#39;industrie de la Défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme les deux, soit comme &quot;AND&quot;, soit comme &quot;OR&quot; selon la condition de segment sélectionnée.
 
 **Industries** Sous , **Segmentation des profils** , cochez la case en regard de **Secteur industriel**.
 
 * Sélectionnez l’un des paramètres suivants :
 
    * **Inclut** - Indiquez si vous souhaitez que le segment inclut ou exclue un secteur d’activité.
-   * **Sélectionner les secteurs à ajouter** - Sélectionnez le secteur que vous souhaitez inclure dans le segment. Le secteur apparaît sous la liste déroulante. Vous pouvez choisir plusieurs secteurs.
+   * **Sélectionner les secteurs à ajouter** - Sélectionnez le secteur que vous souhaitez inclure dans le segment. Le secteur apparaît sous la liste déroulante. Vous pouvez choisir plusieurs secteurs d’activité.
 
-**Groupe de l’entreprise**
+**Groupe d’organisations**
 
 Sous , **Segmentation des profils** , cochez la case en regard de **Groupe d’organisations.**
 
@@ -170,14 +170,14 @@ Sous , **Segmentation des profils** , cochez la case en regard de **Groupe d’o
    * Entreprise : comprend les entreprises de plus de 1 000 employés et dont les recettes sont supérieures à 250 millions de dollars.
    * PME - Inclut uniquement les petites et moyennes entreprises dans ce segment
 
-**-Comptes nommés-**
+**-Comptes nommés**
 
-**Entreprises**
+**Organisations**
 
 * **provient de ces sociétés (noms spécifiques) ;**
 
    * Sélectionnez la société à cibler dans la liste déroulante &quot;Sélectionner la société à ajouter&quot;.
-   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *C’est _always_ Il est recommandé d’utiliser des listes de comptes nommés au lieu de saisir les noms manuellement pour obtenir de meilleures correspondances (voir ci-dessous).
+   * Vous pouvez saisir le nom exact de l’organisation à cibler. *C’est _always_ Il est recommandé d’utiliser des listes de comptes nommés au lieu de saisir les noms manuellement pour obtenir de meilleures correspondances (voir ci-dessous).
 
 **Liste des comptes nommés**
 
@@ -187,19 +187,19 @@ Effectuez une sélection depuis un [Liste des comptes nommés](/help/marketo/pro
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom Liste des comptes nommés est utilisé comme référence d’index pour la liste de personnalisation web. [API de lecture](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Le nombre entre crochets en regard du nom Liste des comptes nommés est utilisé comme référence d’index pour la liste de personnalisation web. [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
-**Exclure FAI**
+**Exclure le FAI**
 
 Exclut les fournisseurs de services Internet (FAI) du segment.
 
 ### Personnes connues {#known-people}
 
-**Base de données**
+**Base**
 
 La personnalisation web s’intègre à votre base de données Marketo, ce qui vous permet de segmenter et de personnaliser les campagnes en fonction d’attributs et de données de personnes connues.
 
-Sélectionnez Base de données et sélectionnez un champ de données de personne dans la liste déroulante. Sélectionnez la **+** pour ajouter des champs dans la liste déroulante.
+Sélectionnez Base de données et sélectionnez un champ de données de personne dans la liste déroulante. Sélectionnez la variable **+** pour ajouter des champs dans la liste déroulante.
 
 ![](assets/seven.png)
 
@@ -207,17 +207,17 @@ Vous pouvez ajouter ou supprimer des champs de données de personne dans Paramè
 
 >[!TIP]
 >
->Créez vos critères de segment en fonction de tous les champs de données de personne provenant de personnes Marketo telles que le titre de la tâche ; Score ; Rôle; etc...
+>Créez vos critères de segment en fonction de tous les champs de données de personnes de Marketo tels que le titre de la tâche, la note, le rôle, etc.
 >
->Par exemple, &quot;Le titre de la tâche est égal à CMO&quot; et &quot;le score est inférieur ou égal à 50&quot;
+>Par exemple, &quot;Titre de la tâche = CMO&quot; et &quot;Le score est inférieur ou égal à 50&quot;
 
-**Marketo Email Campaign** Segmentez et personnalisez des campagnes à l’aide du renvoi d’un courrier électronique par un visiteur qui clique sur un courrier électronique Marketo et arrive sur le site. Segmentez par nom de programme ou nom de campagne Marketo et continuez la conversation en passant de l’e-mail au web. Sélectionnez le + pour ajouter des champs dans la liste déroulante.
+**Marketo Email Campaign** Segmentez et personnalisez des campagnes à l’aide du renvoi d’un courrier électronique par un visiteur qui clique sur un courrier électronique Marketo et arrive sur le site. Segmenter par nom de programme ou nom de campagne Marketo et poursuivre la conversation du courrier électronique au web. Sélectionnez le + pour ajouter des champs dans la liste déroulante.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
-**Statut**
+**État**
 
-Définissez votre segment en fonction de l’état d’un prospect : connu ou anonyme.
+Définissez votre segment en fonction du statut d’un prospect : connu ou anonyme.
 
 * Connu : sélectionnez cette option dans la liste déroulante pour les visiteurs connus. Un visiteur est connu lorsqu’il envoie un formulaire sur votre site Web et apparaît sur la page Personnes de personnalisation Web.
 * Anonyme : sélectionnez cette option dans la liste déroulante pour les visiteurs anonymes.
@@ -238,7 +238,7 @@ Définissez votre segment en fonction de l’état d’un prospect : connu ou an
 
 **Termes de recherche** - Définissez un segment en fonction des termes de recherche d’un prospect.
 
-* Le visiteur a recherché : dans la liste déroulante, sélectionnez les termes dont vous souhaitez effectuer le suivi dans votre recherche de visiteurs ou ajoutez vos propres termes de recherche. (Il n’est pas nécessaire que la variable &#42; caractère générique sur les termes de recherche, dans la mesure où il est défini par défaut pour inclure des expressions contenant le terme de recherche).
+* Le visiteur a recherché : dans la liste déroulante, sélectionnez les termes dont vous souhaitez effectuer le suivi dans votre recherche de visiteurs ou ajoutez vos propres termes de recherche. (Il n’est pas nécessaire que la variable &#42; caractère générique sur les termes de recherche, dans la mesure où il est défini par défaut pour inclure les expressions qui contiennent le terme de recherche).
 
 **Références** - Ajoutez des URL auxquelles le visiteur a été référencé.
 
@@ -256,18 +256,18 @@ Définissez votre segment en fonction de l’état d’un prospect : connu ou an
 
 ### Appareil / navigateur {#device-browser}
 
-**OS mobile**
+**SE Mobile**
 
-Faites glisser et déposez le SE Mobile dans l’éditeur de segments
+Faites glisser et déposez le SE Mobile dans l’éditeur de segments.
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Type de visiteur ou visiteuse**<br />
+* **Type de visiteur**<br />
   **SE Mobile** - Dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche en dessous.
 
    * Le visiteur utilise n’importe quel appareil mobile.
    * Le visiteur utilise ce périphérique/système d’exploitation spécifique
-   * Le visiteur n’utilise aucun appareil mobile
+   * Le visiteur n’utilise aucun appareil mobile.
 
 * **Appareil**  - Dans la liste déroulante, sélectionnez un ou plusieurs appareils (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Les périphériques sélectionnés s’affichent en dessous.
 
@@ -284,15 +284,15 @@ Visiteur Target qui utilise des types et/ou versions de navigateur spécifiques.
 
 Ajoutez la valeur Event que vous souhaitez cibler. Par exemple, à partir de sources de données tierces.
 
-**API contexte utilisateur**
+**API de contexte d’utilisateur**
 
-Appel de l’API de personnalisation web  [pour en savoir plus, cliquez ici .](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Appel de l’API de personnalisation web  [pour en savoir plus, cliquez ici .](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Utilisation de caractères génériques -** Lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose à l’intérieur, c’est-à-dire : &quot;[google.com](https://google.com)&quot; ou &quot;produit de terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi avec un astérisque - ce petit gars&#42; - à chaque extrémité. Donc tout vient de [google.com](https://google.com) doit être saisi en tant que &#42; [google.com](https://google.com)&#42;
+>**Utilisation de caractères génériques -** Lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient un élément, c’est-à-dire &quot;[google.com](https://google.com)&quot; ou &quot;produit de terme de recherche&quot;, nous appelons cela un caractère générique et il devrait être saisi avec un astérisque - ce petit gars&#42; - à chaque extrémité. Donc tout vient de [google.com](https://google.com) doit être saisi en tant que &#42; [google.com](https://google.com)&#42;
 
-## Modifier segments {#edit-segments}
+## Modifier les segments {#edit-segments}
 
 Vous pouvez modifier un segment qui a été créé.
 
@@ -300,7 +300,7 @@ Vous pouvez modifier un segment qui a été créé.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. Dans le **Segments** , cliquez sur l’icône d’édition ( ![](assets/segment-edit.png)) du segment que vous souhaitez modifier. Le **Définir un segment** s’ouvre avec le segment sélectionné.
+1. Dans le **Segments** , cliquez sur l’icône d’édition ( ![](assets/segment-edit.png)) du segment que vous souhaitez modifier. La variable **Définir un segment** s’ouvre avec le segment sélectionné.
 1. Appliquez les modifications que vous souhaitez apporter au segment.
 1. Cliquez sur **Enregistrer**.
 
@@ -314,13 +314,13 @@ Vous pouvez supprimer les segments que vous avez créés.
 
 >[!NOTE]
 >
->Vous ne pouvez pas supprimer un segment associé à une campagne. Vous devez d’abord supprimer la campagne, puis le segment.
+Vous ne pouvez pas supprimer un segment associé à une campagne. Vous devez d’abord supprimer la campagne, puis le segment.
 
 Fantastique ! Maintenant que vous comprenez la section Segments , découvrons les campagnes.
 
 >[!MORELIKETHIS]
 >
->* [Création d’un segment web de base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Créer une campagne web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Créer une campagne web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Créer une campagne web de widgets](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Création d’un segment web de base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Créer une campagne web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Créer une campagne web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Créer une campagne web de widgets](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

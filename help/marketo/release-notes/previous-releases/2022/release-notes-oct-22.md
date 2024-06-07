@@ -3,10 +3,10 @@ description: Notes de mise à jour - Octobre 2022 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 5%
+source-wordcount: '603'
+ht-degree: 6%
 
 ---
 
@@ -116,12 +116,12 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Importation de pistes en bloc</a></td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Importation de pistes en bloc</a></td>
   </tr>
   </tbody>
 </table>
 
-### Sales Insight {#sales-insight}
+### Sales Insight {#sales-insight}
 
 </br>
 
@@ -136,7 +136,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Intégration de Dynamic Chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Intégration du Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>
