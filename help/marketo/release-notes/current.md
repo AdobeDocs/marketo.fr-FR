@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 7%
+source-wordcount: '277'
+ht-degree: 6%
 
 ---
 
@@ -33,8 +33,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
      <tr> 
    <td><strong>Modèles de webinaires interactifs</strong>: les marketeurs peuvent désormais créer des modèles personnalisés pour les dispositions d’espace dans les webinaires interactifs.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Modèles</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
      <tr> 
    <td><strong>Champs déduits dans Forms</strong>: la source de données utilisée pour renseigner les champs déduits lorsqu’une personne est créée par l’intermédiaire d’un formulaire sans activité web préalable a été mise à jour afin d’utiliser la même source de données que les autres méthodes de collecte de personnes. Les données de champ déduites sont désormais cohérentes entre tous les points de collection.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
  </tbody> 
 </table>
