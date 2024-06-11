@@ -4,14 +4,14 @@ description: Présentation de l’éditeur de courrier électronique v2.0 - Docu
 title: Présentation de l’éditeur de messagerie v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 2%
+source-wordcount: '426'
+ht-degree: 0%
 
 ---
 
-# Présentation de l’éditeur de messagerie v2.0 {#email-editor-v-overview}
+# Présentation de l’éditeur de messagerie v2.0 {#email-editor-v2-overview}
 
 Lorsque vous décidez d’activer l’éditeur de courrier électronique v2.0, plusieurs nouvelles fonctionnalités s’affichent.
 
@@ -19,63 +19,63 @@ Lorsque vous décidez d’activer l’éditeur de courrier électronique v2.0, p
 
 Lorsque vous créez un email, vous accédez à la [Sélecteur de modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
-![](assets/starter-templates-1.png)
+![](assets/email-editor-v2-overview-1.png)
 
-**Éditeur d&#39;e-mail**
+**Éditeur de messagerie électronique**
 
 Lorsque vous commencez à éditer votre email, vous remarquerez que l&#39;éditeur a une toute nouvelle apparence.
 
-![](assets/two-4.png)
+![](assets/email-editor-v2-overview-2.png)
 
 **Modules**
 
 Ces éléments du côté droit de l&#39;éditeur sont appelés modules. Découvrez comment [ajouter des modules à votre email ;](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-![](assets/three-4.png)
+![](assets/email-editor-v2-overview-3.png)
 
-**Version texte**
+**Version du texte**
 
 Le passage de la version par HTML à la version texte de votre email se fait désormais dans un onglet pratique en bas de la page. Découvrez comment [modifier la version texte d’un email ;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
-![](assets/four-3.png)
+![](assets/email-editor-v2-overview-4.png)
 
 **En-tête de message électronique**
 
 Vous voulez plus d&#39;espace design ? Une fois que vous avez terminé, l’en-tête de l’email peut être masqué. [modification](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône...
 
-![](assets/five-4.png)
+![](assets/email-editor-v2-overview-5.png)
 
-...et l’en-tête s’effondre.
+...et l’en-tête se réduit.
 
-![](assets/six-3.png)
+![](assets/email-editor-v2-overview-6.png)
 
 **Prévisualiser votre email**
 
 Par défaut, l’email affiche l’apparence qu’il aurait sur un bureau, comme l’indique l’icône bleue en surbrillance. Si vous cliquez sur l’icône à sa droite...
 
-![](assets/seven-3.png)
+![](assets/email-editor-v2-overview-7.png)
 
 ...vous verrez comment votre email sera rendu sur un appareil mobile.
 
-![](assets/eight-3.png)
+![](assets/email-editor-v2-overview-8.png)
 
 Pour obtenir un aperçu plus grand, cliquez sur **Aperçu** dans l’angle supérieur droit de l’email.
 
-![](assets/preview1.png)
+![](assets/email-editor-v2-overview-9.png)
 
 La vue par défaut est Bureau...
 
-![](assets/preview2.png)
+![](assets/email-editor-v2-overview-10.png)
 
-...mais vous pouvez également voir son aspect sur un appareil mobile. Vous pouvez également prévisualiser la version texte. Cliquez simplement sur **Modifier le brouillon** dans l’angle supérieur droit pour reprendre l’édition.
+...mais vous pouvez également voir à quoi il ressemblera sur un appareil mobile. Vous pouvez également prévisualiser la version texte. Cliquez simplement sur **Modifier le brouillon** dans l’angle supérieur droit pour reprendre l’édition.
 
-![](assets/preview3.png)
+![](assets/email-editor-v2-overview-11.png)
 
-**Actions E-mail**
+**Actions de courrier électronique**
 
 Sous **Actions de courrier électronique**, vous remarquerez de nouvelles fonctionnalités. **Téléchargement d’une image ou d’un fichier**, et **Capture d&#39;images à partir du web**. Vous pouvez également enregistrer l’email lui-même en tant que nouveau modèle d’email. Tout ce que vous avez à faire est de lui donner un nom et une destination.
 
-![](assets/nine-3.png)
+![](assets/email-editor-v2-overview-12.png)
 
 >[!CAUTION]
 >
@@ -87,13 +87,13 @@ Sous **Actions de courrier électronique**, vous remarquerez de nouvelles foncti
 
 **Désactiver le suivi des ouvertures** Sous **Paramètres de messagerie électronique**, vous pouvez désactiver le suivi des ouvertures si nécessaire.
 
-![](assets/thirteen-1.png)
+![](assets/email-editor-v2-overview-13.png)
 
-**Paramètres e-mail**
+**Paramètres de messagerie électronique**
 
 Vous avez la possibilité d’ajouter un pré-titre. Un pré-titre est le texte de résumé court suivant l’objet lorsque les emails sont affichés dans votre boîte de réception.
 
-![](assets/edit-settings-preheader-2.png)
+![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
@@ -103,7 +103,7 @@ Beaucoup de nouvelles fonctionnalités géniales ! Amuse-toi bien !
 
 >[!NOTE]
 >
->Si vous souhaitez approfondir encore votre connaissance, consultez cette section [vidéo utile](https://nation.marketo.com/videos/1463).
+>Si vous souhaitez approfondir encore votre connaissance, consultez cette section [video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >

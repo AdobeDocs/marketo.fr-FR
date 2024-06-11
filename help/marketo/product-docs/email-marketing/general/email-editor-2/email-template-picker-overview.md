@@ -4,7 +4,7 @@ description: Présentation du sélecteur de modèle de courrier électronique - 
 title: Présentation du sélecteur de modèle de courrier électronique
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Lorsque vous [créer un email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), vous avez le choix entre plusieurs modèles gratuits. Vous pouvez également créer votre propre modèle et l’enregistrer pour une utilisation ultérieure.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **Nom** sera le nom de l’email que vous créez à partir du modèle, et non du modèle lui-même. **Description** s’applique également à l’email et est facultatif.
 
 ![](assets/two-2.png)
 
-Si votre email est critique et que vous souhaitez qu&#39;il contourne les limites de communication, [rendre opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) en cochant la case. **Ouvrir dans l’éditeur** est sélectionné par défaut et signifie simplement que vous souhaitez commencer immédiatement à modifier votre nouvel email. **Créer** signifie créer !
+Si votre email est critique et que vous souhaitez qu&#39;il contourne les limites de communication, [rendre opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) en cochant la case. **Ouvrir dans l’éditeur** est sélectionné par défaut et signifie simplement que vous souhaitez commencer à éditer votre nouvel email immédiatement. **Créer** signifie créer !
 
 ![](assets/three-2.png)
 
 **Modèles de démarrage** comprend une collection de modèles d’email réactif prêts à l’emploi. Vous pouvez les utiliser en l’état ou les personnaliser à votre gré.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **Mes modèles** se compose de tous les modèles que vous avez créés. Vous pouvez également avoir des dossiers.
 
@@ -37,7 +37,7 @@ Tous les dossiers qui apparaissent sous Emails > Modèles dans votre arborescenc
 
 ![](assets/six-1.png)
 
-Pour prévisualiser un modèle, passez la souris sur sa miniature et cliquez sur **Aperçu**. Vous pouvez également double-cliquer dessus.
+Pour prévisualiser un modèle, passez la souris sur sa miniature, puis cliquez sur **Aperçu**. Vous pouvez également double-cliquer dessus.
 
 ![](assets/seven-1.png)
 
@@ -53,7 +53,7 @@ Si vous souhaitez ce modèle, choisissez-le en cliquant sur **Sélectionner** en
 
 ![](assets/ten-1.png)
 
-Vous pouvez également cliquer avec le bouton droit de la souris sur une miniature de modèle pour afficher d’autres options.
+Vous pouvez également cliquer avec le bouton droit de la souris sur une miniature de modèle pour accéder à d’autres options.
 
 ![](assets/eleven-1.png)
 
@@ -66,4 +66,4 @@ Plutôt chouette !
 >[!MORELIKETHIS]
 >
 >* [Syntaxe du modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
->* [Création d’un courrier électronique](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [Créer un email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
