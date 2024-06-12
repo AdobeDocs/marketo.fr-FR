@@ -4,9 +4,9 @@ description: Moments intéressants dans Sales Connect - Documents Marketo - Docu
 title: Moments intéressants dans Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,12 @@ Les moments intéressants sont essentiels pour communiquer avec votre équipe co
 >[!AVAILABILITY]
 >
 >Ils sont disponibles pour [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) et clients Marketo Sales Connect uniquement.
+
+>[!PREREQUISITES]
+>
+>* Vous devez disposer d’un [connexion à Salesforce CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* Vous devez être le responsable ou le propriétaire du contact dans Salesforce.
+>* Vous devez avoir accès à [accorder l’accès à la connexion du Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 
 ## Quel est un moment intéressant ? {#what-is-an-interesting-moment}
 
