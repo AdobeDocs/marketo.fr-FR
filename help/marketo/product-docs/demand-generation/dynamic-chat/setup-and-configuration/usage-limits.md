@@ -1,10 +1,8 @@
 ---
 description: Paramètres de sécurité - Documents Marketo - Documentation du produit
 title: Paramètres de sécurité
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 68962b2cc0132194852da2081b8577f732d4b497
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 3%

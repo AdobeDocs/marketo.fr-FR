@@ -3,9 +3,9 @@ description: Notes de mise à jour du Dynamic Chat - Documents Marketo - Documen
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Les versions d’Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive du déploiement des fonctionnalités. Parfois, il existe plusieurs versions en un mois. Par conséquent, veuillez consulter régulièrement les informations les plus récentes.
 
 Page des notes de mise à jour standard pour Marketo Engage [peut être consulté ici](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version de juin 2024 {#june-release}
+
+**Date de publication : 6 juin 2024**
+
+### Carte de flux de conversation {#conversational-flow-card}
+
+Rationalisez plusieurs étapes dans un flux de vos boîtes de dialogue en utilisant la carte Flux de conversation .
+
+Exemple : si votre objectif est de générer des inscriptions pour votre webinaire via plusieurs Dialogues, vous devrez recréer le même flux dans tous les Dialogues ayant cet objectif. Et si vous devez mettre à jour n&#39;importe quel détail, vous devez modifier chaque Dialogue individuellement un par un. Ce n&#39;est plus le cas, grâce à la carte Flux de conversation .
+
+En plus de réaffecter les flux à plusieurs boîtes de dialogue, vous pouvez également utiliser le même flux de transition pour le déclencher via d’autres canaux, tels que les formulaires et les pages d’entrée.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Limites d’utilisation {#usage-limits}
+
+La page Limites d’utilisation affiche des informations importantes, telles que les détails du module et l’état de votre limite d’utilisation.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## Version de mai 2024 {#may-release}
 

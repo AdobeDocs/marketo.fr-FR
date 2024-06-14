@@ -3,9 +3,9 @@ description: Stream Designer - Documents Marketo - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1229'
 ht-degree: 2%
 
 ---
@@ -67,6 +67,10 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  <tr>
   <td style="width:25%"><strong>Branche conditionnelle</strong></td>
   <td>Créez des branches dans vos flux de dialogue en fonction de différentes conditions. Présenter un contenu différent à différentes personnes dans le même dialogue en fonction des attributs de prospect et de société dans Marketo Engage.</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Flux conversationnel</strong></td>
+  <td>Rationalisez plusieurs étapes dans un flux de vos boîtes de dialogue à l’aide de la carte Flux de conversation .</td>
  </tr>
 </table>
 
