@@ -4,9 +4,9 @@ description: Créer un rapport sur l’Explorateur des recettes - Documents Mark
 title: Créer un rapport Explorateur de recettes
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ Le rapport Explorateur de recettes vous permet de suivre le retour sur investiss
 >[!AVAILABILITY]
 >
 >Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
+
+>[!IMPORTANT]
+>
+>Le dossier Corbeille de l’Explorateur Revenue Cycle a été temporairement masqué en raison d’un bogue. Nous travaillons actuellement sur un correctif et vos fichiers sont sûrs. Veuillez contacter [Prise en charge des Adobes](https://nation.marketo.com/t5/support/ct-p/Support) si des fichiers doivent être restaurés,
 
 1. Accédez au **Explorateur de recettes** zone.
 
