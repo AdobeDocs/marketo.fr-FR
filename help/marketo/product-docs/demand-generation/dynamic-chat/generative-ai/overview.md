@@ -3,16 +3,16 @@ description: Présentation de Generator AI - Documents Marketo - Documentation d
 title: Présentation de l’IA générique
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '437'
 ht-degree: 3%
 
 ---
 
 # Présentation de l’IA générique {#generative-ai-overview}
 
-Dans Adobe Dynamic Chat, l’IA générique traite les signaux d’intention, les préférences de l’utilisateur et le comportement passé en temps réel afin de générer des messages pertinents et personnalisés pour les visiteurs du chat.
+Dans Adobe Dynamic Chat, l’IA générique traite les signaux d’intention, les préférences utilisateur et le comportement passé en temps réel afin de générer des messages personnalisés pertinents pour les visiteurs du chat.
 
 ## Permissions {#permissions}
 
@@ -76,7 +76,7 @@ Les rubriques discutées sont disponibles sous forme de contrainte dans les trig
 
 **L’IA générative est-elle disponible pour tous les utilisateurs Dynamic Chat ?**
 
-Generative AI est uniquement disponible pour les abonnés Prime Dynamic Chat.
+Generative AI est uniquement disponible pour les abonnés Prime Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
 **Y a-t-il une limite à la quantité de questions et réponses que je peux générer ?**
 
