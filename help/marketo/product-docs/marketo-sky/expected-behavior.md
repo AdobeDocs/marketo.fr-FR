@@ -4,9 +4,9 @@ title: Comportement attendu
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -28,19 +28,19 @@ Dans cet article, vous trouverez des informations sur le comportement attendu as
    * Prédictions de probabilité au niveau de l’piste - [!DNL Sky/Classic]
    * Objectifs et suivi - [!DNL Sky] only
    * Statistiques et recommandations - [!DNL Sky] only
-* [Activation initiale](/help/marketo/product-docs/marketo-sky/getting-started-with-predictive-audiences.md) take **24-48 heures** pour tous les processus à terminer une fois que l’option PA a été activée. Toutes les fonctionnalités d’ Audiences prédictives et de filtres prédictifs s’affichent dans l’interface, mais il peut s’écouler jusqu’à 24 heures avant que ces fonctionnalités ne commencent à fonctionner.
+* Les tâches d’activation initiales **24-48 heures** pour tous les processus à terminer une fois que l’option PA a été activée. Toutes les fonctionnalités d’ Audiences prédictives et de filtres prédictifs s’affichent dans l’interface, mais il peut s’écouler jusqu’à 24 heures avant que ces fonctionnalités ne commencent à fonctionner.
 * **Les prédictions ne seront générées que pour les nouvelles campagnes créées une fois la fonctionnalité activée.**
 
-**Il existe d’autres considérations spécifiques aux filtres prédictifs.**:
+**Il existe d’autres considérations spécifiques aux filtres prédictifs**:
 
 * Les filtres de probabilité d’inscription et de présence ne peuvent être utilisés qu’avec des programmes d’événement ou de webinaire. Les filtres Lookalike et Unsubscribe peuvent être utilisés dans les programmes de messagerie, d’événement et de webinaire.
 * Vous pouvez appliquer des filtres prédictifs à une campagne dynamique même si le programme parent est créé avant l’activation des filtres prédictifs.
 * Les filtres prédictifs ne sont pas disponibles pour les campagnes de déclenchement.
 * Pour exécuter une campagne dynamique, les filtres de probabilité doivent être utilisés conjointement avec d’autres filtres standard.
-* La fonction Règles enregistrées n’est pas disponible pour les campagnes qui contiennent des filtres prédictifs.
-* Vous pouvez utiliser **jusqu’à 5** filtres prédictifs dans une liste dynamique.
+* La fonction Règles enregistrées n’est pas disponible pour être utilisée dans les campagnes qui contiennent des filtres prédictifs.
+* Vous pouvez utiliser **jusqu’à 5** filtres prédictifs dans une liste dynamique.
 * Les filtres prédictifs peuvent traiter une **1 million de pistes qualifiées au maximum**.
-* Vous pouvez **jusqu’à 50 programmes principaux** avec des filtres prédictifs. Un programme principal est un programme qui utilise des filtres prédictifs et qui a été planifié au moins une fois.
+* Vous pouvez **jusqu’à 50 programmes actifs** avec des filtres prédictifs. Un programme actif est un programme qui utilise des filtres prédictifs et qui a été planifié au moins une fois.
 
 ## Quand les inscriptions prévues ne sont-elles pas disponibles ?
 
