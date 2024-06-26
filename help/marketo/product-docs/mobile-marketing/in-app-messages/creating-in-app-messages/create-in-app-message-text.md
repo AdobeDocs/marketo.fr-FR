@@ -4,9 +4,9 @@ description: Créer un texte de message in-app - Documents Marketo - Documentati
 title: Créer un texte de message in-app
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Créer un texte de message in-app {#create-in-app-message-text}
 
 Cliquez sur la zone de texte pour travailler sur le style et le contenu de votre texte.
+
+>[!CAUTION]
+>
+>Nous vous recommandons de ne pas utiliser d’émoticônes dans votre texte, car ils ne sont pas entièrement pris en charge pour le moment.
 
 1. Cliquez sur le texte principal à modifier en ligne.
 
@@ -35,7 +39,7 @@ Cliquez sur la zone de texte pour travailler sur le style et le contenu de votre
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
-1. Choisir l’alignement du texte : Gauche, Centré, Droite. La valeur par défaut est Centré.
+1. Choisissez Alignement du texte : Gauche, Centré, Droite. La valeur par défaut est Centré.
 
    ![](assets/image2016-5-6-10-3a18-3a45.png)
 
@@ -73,7 +77,7 @@ Cliquez sur la zone de texte pour travailler sur le style et le contenu de votre
 
    >[!TIP]
    >
-   >Veillez à tenir compte de la longueur des caractères à laquelle un jeton sera résolu lorsqu’il sera affiché par votre audience. Laissez suffisamment d’espace pour tenir compte des valeurs potentiellement plus longues, afin de les empêcher d’être coupées.
+   >Veillez à tenir compte de la longueur des caractères à laquelle un jeton sera résolu lorsqu’il sera affiché par votre audience. Laissez suffisamment d’espace pour prendre en compte les valeurs potentiellement plus longues, afin de les empêcher d’être coupées.
 
    Les modifications que vous apportez aux jetons utilisés dans un programme de messages in-app approuvé ne prennent effet dans le message in-app que lorsque le programme est mis en pause puis repris.
 
