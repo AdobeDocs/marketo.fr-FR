@@ -2,9 +2,10 @@
 description: Webinaires à la demande - Documents Marketo - Documentation du produit
 title: Webinaires On-Demand
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ Les webinaires à la demande capturent et affinent les pistes enregistrées pour
 
 L’URL de jointure du webinaire qui a été partagée avec les inscrits avant l’événement peut être utilisée pour regarder l’enregistrement à la demande. Une fois qu’un inscrit qui n’a pas assisté à l’événement en direct (par exemple, un prospect dont le statut de programme est &quot;Non-affichage&quot;), clique sur l’URL de jointure du webinaire, l’état du programme de cette piste passe de &quot;Pas de programme&quot; à &quot;Participé à la demande&quot;. L’état du programme des responsables ayant visionné l’événement en direct et ayant le statut &quot;Participé&quot; ne serait pas affecté s’ils décidaient de visiter l’URL de jointure et de regarder l’enregistrement à la demande.
 
-Adobe Connect, la technologie qui alimente les webinaires interactifs, effectue le suivi de la visite, ainsi que de la durée de la montre relative aux pistes qui regardent l’enregistrement, et rapporte les informations à Marketo quotidiennement. L’enregistrement est disponible à l’adresse URL de jointure pendant 30 jours après l’événement. La durée ne peut pas être modifiée.
+Adobe Connect, la technologie qui alimente les webinaires interactifs, effectue le suivi de la visite, ainsi que de la durée de la montre relative aux pistes qui regardent l’enregistrement, et rapporte les informations au Marketo Engage tous les jours. Le suivi des webinaires On-Demand s’arrête 30 jours après l’événement. La durée ne peut pas être modifiée.
 
-Marketo fournit les statistiques de surveillance pour les webinaires à la demande sur l’onglet Tableau de bord à l’aide des widgets suivants :
+Marketo Engage fournit les statistiques de surveillance pour les webinaires à la demande dans l’onglet Tableau de bord à l’aide des widgets suivants :
 
 * Résumé à la demande : indique le nombre de visiteurs (Aucun affichage) qui regardent l’enregistrement après l’événement un ou plusieurs jours donnés.
 
