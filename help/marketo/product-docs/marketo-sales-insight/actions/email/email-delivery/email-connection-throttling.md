@@ -3,22 +3,18 @@ description: Limitation de la connexion par e-mail - Documents Marketo - Documen
 title: Limitation de la connexion aux e-mails
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
 # Limitation de la connexion aux e-mails {#email-connection-throttling}
 
-L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Cependant, pour garantir la sécurité des systèmes et des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
+L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Cependant, pour préserver la santé des systèmes et la sécurité des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
 
-## Limitation de la connexion aux e-mails (version bêta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->Cette fonctionnalité est actuellement en version bêta. Pour vous inscrire, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
+## Limitation de la connexion aux e-mails (Beta) {#email-connection-throttling-beta}
 
 Le contrôle de connexion par e-mail permet aux administrateurs de Sales Connect de configurer le taux d’envoi des e-mails lors de l’utilisation de Gmail ou Exchange comme canal de diffusion, de sorte que le taux auquel les e-mails sont remis au fournisseur de canal de diffusion ne dépasse pas les limites appliquées.
 
@@ -26,9 +22,9 @@ Lorsque les limites sont régulièrement dépassées, cela peut parfois être co
 
 **Remarques/points forts**
 
-* Activé automatiquement lorsqu’un utilisateur se connecte à Gmail ou Exchange
+* Activé automatiquement lorsqu’un utilisateur se connecte à Gmail ou à Exchange
 * Peut être personnalisé si vous souhaitez augmenter ou diminuer les paramètres des recommandations en fonction de vos besoins.
-* Ralentit uniquement les emails envoyés par Gmail ou Exchange ; ne ralentit pas pour le canal de diffusion personnalisé
+* Ralentit uniquement les emails envoyés par Gmail ou par Exchange, ne ralentit pas pour le canal de diffusion personnalisé
 * Le ralentissement de la connexion par e-mail place chaque utilisateur dans des files d’attente distinctes, car chaque utilisateur a sa propre connexion avec son fournisseur de messagerie.
 
 **Configuration des paramètres de limitation de la connexion par e-mail**
@@ -79,7 +75,7 @@ Informations supplémentaires [peut être consulté ici](https://docs.microsoft.
 
 Informations supplémentaires [peut être consulté ici](https://support.google.com/a/answer/166852?hl=en).
 
-**Microsoft Exchange Server (2010, 2013)**
+**Serveur Microsoft Exchange (2010, 2013)**
 
 Les limites sont définies par le service informatique de l’organisation, car le serveur est hébergé par l’organisation. Pour plus d’informations, contactez l’administrateur réseau ou système.
 

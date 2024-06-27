@@ -3,7 +3,7 @@ description: Modification ou suppression d’un webinaire interactif - Documents
 title: Modification ou suppression d’un webinaire interactif
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 
 ## Modification d’un webinaire interactif {#modify-an-interactive-webinar}
 
-1. Sélectionnez le programme d’événements de votre choix, puis cliquez sur **Modifier la salle/le modèle**.
+1. Sélectionnez le programme d’événements souhaité, puis cliquez sur **Modifier la salle/le modèle**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
@@ -64,7 +64,7 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
    >
    >Vous pouvez également cliquer avec le bouton droit sur le programme d’événements dans l’arborescence et sélectionner **Cloner** de là.
 
-1. Donnez un nom au programme cloné, définissez l’espace de travail et la destination (si vous souhaitez que le programme vive ailleurs), puis cliquez sur **Enregistrer**.
+1. Attribuez un nom au programme cloné, définissez Workspace et Destination (si vous souhaitez que le programme vive ailleurs), puis cliquez sur **Enregistrer**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
@@ -74,7 +74,7 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 
    >[!NOTE]
    >
-   >Actuellement, vous ne pouvez enregistrer un webinaire interactif cloné qu’en tant que webinaire interactif. Enregistrement d’un webinaire cloné en tant que webinaire partenaire (par exemple, Zoom, ON24, etc.) sera bientôt disponible.
+   >Actuellement, vous ne pouvez enregistrer un webinaire interactif cloné qu’en tant que webinaire interactif. Enregistrement d’un webinaire cloné comme webinaire partenaire (par exemple, Zoom, ON24, etc.) sera bientôt disponible.
 
 1. Choisissez les paramètres de votre webinaire cloné, puis cliquez sur **Cloner**.
 
