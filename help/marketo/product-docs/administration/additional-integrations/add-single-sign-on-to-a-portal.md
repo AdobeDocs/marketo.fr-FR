@@ -4,9 +4,9 @@ description: Ajout d’une authentification unique à un portail - Documents Mar
 title: Ajout d’une authentification unique à un portail
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
+source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Une fois l’authentification unique activée, l’IdP peut valider les informat
 
 >[!IMPORTANT]
 >
->Cela ne s’applique pas aux abonnements intégrés à Adobe Identity. Pour les abonnements intégrés à Adobe Identity, l’authentification unique est configurée au niveau de l’organisation Adobe dans Adobe Admin Console. [En savoir plus ici](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>Cela ne s’applique pas aux abonnements intégrés à Adobe Identity. Pour les abonnements intégrés à Adobe Identity, l’authentification unique est configurée au niveau de l’organisation Adobe dans Adobe Admin Console. [En savoir plus ici](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Êtes-vous un [!DNL Microsoft Azure] utilisateur ? Consultez leur [tutoriel sur l’intégration](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Pour votre information, il existe une faute de frappe à l’étape 5c de leur tutoriel. Veuillez utiliser `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
+>Êtes-vous un [!DNL Microsoft Azure] utilisateur ? Consultez leur [tutoriel sur l’intégration](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Pour votre information, il existe une faute de frappe à l’étape 5c de leur tutoriel. Définissez l’état du relais sur `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## Envoi de la requête {#how-to-send-the-request}
 
