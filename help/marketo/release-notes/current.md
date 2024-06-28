@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 4%
+source-wordcount: '465'
+ht-degree: 6%
 
 ---
 
@@ -30,6 +30,39 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:65%">Fonctionnalité</th> 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
+  </tr>
+     <tr> 
+   <td><strong>Tableau de bord des engagements pour les webinaires interactifs</strong>: obtenez une vue globale des performances des webinaires ainsi qu’une vue complète de l’engagement pour chaque participant au cours du webinaire afin que vous puissiez décider quel conduit à cibler par le biais des outils d’orchestration de Marketo Engage.</td> 
+    <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Gestion des salles pour les webinaires interactifs</strong>: accédez aux pièces individuelles créées (et apportez des modifications si nécessaire) ainsi qu’au contenu et à l’enregistrement (et effacez-les si nécessaire pour optimiser le stockage).</td> 
+    <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Personnalisation de webinaires pour les webinaires interactifs</strong>: proposez une expérience de marque unique approuvée par l’organisation grâce à l’utilisation d’une interface de salle commune, d’écrans intermédiaires (tels que les arrière-plans d’écran d’entrée des participants) et d’arrière-plans vidéo personnalisés, de sorte que la stratégie du webinaire puisse s’aligner plus facilement sur la stratégie de la marque.</td> 
+    <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Modification de l’API REST Marketo</strong>: nous introduisons une modification mineure au <a href="https://developers.marketo.com/rest-api/user-management/">API User Management</a>. Les deux <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Parcourir les utilisateurs</a> et <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Supprimer un utilisateur</a> Prise en charge des points de fin <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gestion de compte Target</a> utilisateurs.</td> 
