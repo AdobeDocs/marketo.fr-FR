@@ -4,16 +4,20 @@ description: Utilisation des balises dans un programme - Documents Marketo - Doc
 title: Utilisation de balises dans un programme
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
 # Utilisation de balises dans un programme {#use-tags-in-a-program}
 
 Les balises sont des attributs qui décrivent vos programmes et qui sont utilisés pour regrouper les types de programmes dans les rapports.
+
+>[!NOTE]
+>
+>Si vous utilisez l’explorateur Revenue Cycle, un coût par période doit être défini (même s’il est de 0) pour que les rapports soient disponibles pour le programme.
 
 ## Utilisation d’une balise dans un programme {#use-a-tag-in-a-program}
 
