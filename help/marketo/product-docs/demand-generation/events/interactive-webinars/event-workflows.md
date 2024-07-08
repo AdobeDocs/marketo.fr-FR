@@ -3,9 +3,9 @@ description: Processus des événements - Documents Marketo - Documentation du p
 title: Workflows des événements
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ Accédez à l’onglet Aperçu pour afficher le webinaire enregistré, obtenir l
 >[!NOTE]
 >
 >* Les webinaires interactifs ne sont pas enregistrés automatiquement. Une fois le webinaire lancé, cliquez sur la liste déroulante en regard du nom du webinaire et sélectionnez **Session d’enregistrement**.
+>* Si la session est enregistrée, l’hôte doit mettre fin manuellement à l’enregistrement ou sélectionner &quot;Terminer la session pour tous&quot; pour arrêter l’enregistrement. Sinon, l&#39;enregistrement s&#39;arrêtera automatiquement dans les 10 minutes suivant le dernier participant qui quittera la pièce.
 >* L’enregistrement est téléchargé au format MP4.
 >* Lorsque vous partagez l’enregistrement, toute personne disposant du lien peut le voir. Assurez-vous donc qu’il est partagé avec l’audience prévue.
 
