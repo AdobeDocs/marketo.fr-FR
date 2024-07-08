@@ -3,16 +3,16 @@ description: Génération de questions - Documents Marketo - Documentation du pr
 title: Génération de questions
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # Génération de questions {#question-generation}
 
-Affichez toutes vos tâches et leurs détails pertinents, tels que le moment où elles ont été générées, le nombre total de questions, l’état d’approbation, etc.
+Affichez toutes vos tâches et leurs détails pertinents, tels que la date de leur génération, le nombre total de questions, l’état d’approbation, etc.
 
 ## Générer des questions {#generate-questions}
 
@@ -32,21 +32,25 @@ Affichez toutes vos tâches et leurs détails pertinents, tels que le moment où
    >
    >Pour vous assurer que Marketo Engage peut extraire du contenu des URL fournies, vous devez d’abord placer sur la liste autorisée plusieurs adresses IP. [Voir ci-dessous pour plus de détails](#ip-addresses-to-allowlist).
 
+   >[!NOTE]
+   >
+   >Les sites/pages doivent être publics (c’est-à-dire qu’ils ne doivent pas être masqués derrière une connexion) pour que leurs informations soient mises au rebut.
+
 1. En fonction de votre contenu, la génération de questions et de réponses peut prendre jusqu’à 30 minutes. Cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/question-generation-4.png)
 
    >[!TIP]
    >
-   >Actualisez l’accès pour afficher le dernier état de la génération de questions.
+   >Appuyez sur Actualiser pour voir le dernier état de votre génération de questions.
 
    ![](assets/question-generation-5.png)
 
-## Téléchargement des questions et réponses {#download-questions-and-responses}
+## Télécharger les questions et réponses {#download-questions-and-responses}
 
 >[!NOTE]
 >
->Les questions et réponses générées sont également visibles dans la variable [Bibliothèque de réponses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Les questions et réponses générées sont également visibles dans la bibliothèque de [réponses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Recherchez la tâche souhaitée et cliquez sur l’icône de téléchargement en regard de son nom.
 
@@ -77,7 +81,7 @@ Pour permettre l’extraction de contenu de vos URL web lors de la génération 
   <tr>
     <th>Amérique du Nord</th>
     <th>Europe</th>
-    <th>APAC</th>
+    <th>Asie-Pacifique</th>
   </tr>
 </thead>
 <tbody>
