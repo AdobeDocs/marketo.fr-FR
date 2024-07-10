@@ -4,18 +4,18 @@ description: Présentation des campagnes dynamiques - Documents Marketo - Docume
 title: Présentation des campagnes intelligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '249'
 ht-degree: 4%
 
 ---
 
 # Présentation des campagnes intelligentes {#understanding-smart-campaigns}
 
-Si Marketo est une voiture puissante, la campagne intelligente est véritablement le moteur. C&#39;est simple de commencer, mais vous pouvez faire tout ce que vous voulez.
+Si Marketo Engage est une voiture, la campagne dynamique est son moteur. Les campagnes intelligentes peuvent faire plus que vous ne pouvez l’imaginer et il est facile de commencer à les utiliser.
 
-La campagne dynamique comporte trois principaux domaines : Le [Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} onglets.
+La campagne dynamique comporte trois principaux domaines : [Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} et [Planification](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} onglets.
 
 ## Liste intelligente {#smart-list}
 
@@ -45,13 +45,13 @@ Vous pouvez combiner des filtres de différentes manières et les utiliser conjo
 
 ## Flux {#flow}
 
-Le flux comprend les étapes que vous souhaitez que la campagne dynamique effectue, y compris les étapes d’attente et les choix de partage.
+Le flux comprend les étapes que vous souhaitez que la campagne dynamique effectue, y compris les étapes d’attente et les choix de division.
 
 ## Planning {#schedule}
 
 Enfin, cela contrôle lorsque vous exécutez votre campagne dynamique. Vous pouvez même configurer la périodicité de sorte qu’elle s’exécute selon un planning répété.
 
-Il y a énormément de choses que la campagne intelligente peut faire. Comprenez-en le et vous trouverez que tout dans Marketo devient beaucoup plus simple à comprendre.
+Il y a énormément de choses que la campagne dynamique peut faire. Comprenez-en le et vous trouverez que tout dans Marketo est beaucoup plus simple à comprendre.
 
 >[!CAUTION]
 >
