@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documentation de Marketo - Docume
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
+source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 6%
@@ -12,7 +12,7 @@ ht-degree: 6%
 
 # Notes de mise à jour : juillet 2024 {#release-notes-july-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 juin. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 juillet. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
 
 Notes de mise à jour spécifiques à Adobe Dynamic Chat [peut être consulté ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
