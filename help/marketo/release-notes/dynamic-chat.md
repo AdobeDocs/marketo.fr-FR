@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Notes de mise à jour de Dynamic Chat {#dynamic-chat-release}
 
-Les versions d’Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive du déploiement des fonctionnalités. Parfois, il existe plusieurs versions en un mois. Par conséquent, veuillez consulter régulièrement les informations les plus récentes.
+Les versions de Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive du déploiement des fonctionnalités. Parfois, il existe plusieurs versions en un mois. Par conséquent, veuillez consulter régulièrement les informations les plus récentes.
 
 Page des notes de mise à jour standard pour Marketo Engage [peut être consulté ici](/help/marketo/release-notes/current.md){target="_blank"}.
 
@@ -135,9 +135,9 @@ Les utilisateurs ont signalé que les visiteurs web réservaient des réunions s
 
 Certains utilisateurs ont indiqué qu’ils rencontraient des problèmes lors de l’ajout et de la suppression d’agents dans Dynamic chat. Nous avons donc apporté des modifications pour résoudre ces problèmes.
 
-Lorsqu’un utilisateur est ajouté à un Admin Console avec l’autorisation de clavardage en direct ou de réservation de réunion, il apparaît immédiatement dans la liste Gestion des agents et peut être ajouté à des boîtes de dialogue, des flux de conversation, des règles de routage et des équipes.
+Lorsqu’un utilisateur est ajouté à un Admin Console avec une autorisation de conversation en direct ou de réservation de réunion, il apparaît immédiatement dans la liste Gestion des agents et peut être ajouté à des boîtes de dialogue, des flux de conversation, des règles de routage et des équipes.
 
-Lorsqu’un utilisateur disposant d’autorisations de réservation de réunions ou de conversation en direct est supprimé du Admin Console, il est immédiatement supprimé du Dynamic Chat, il n’est plus disponible pour les conversations en direct ou le routage de réunions, et il ne sera plus pris en compte dans les limites de licence.
+Lorsqu’un utilisateur disposant d’autorisations de réservation de réunions ou de conversation en direct est supprimé de l’Admin Console, il est immédiatement supprimé de l’Dynamic Chat, il n’est plus disponible pour le chat en direct ou le routage de réunions, et il ne sera plus pris en compte dans les limites de licence.
 
 ### Amélioration des performances des rapports sur les niveaux de conversation {#improved-conversation-level-report-performance}
 
