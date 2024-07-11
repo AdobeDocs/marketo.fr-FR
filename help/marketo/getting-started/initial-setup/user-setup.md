@@ -1,11 +1,12 @@
 ---
 description: Avant de vous plonger dans votre nouvelle instance de Marketo Engage, vous devez suivre quelques étapes fondamentales pour une utilisation continue. Ces étapes incluent la configuration du compte utilisateur, la configuration de l’administrateur et l’abonnement aux mises à jour système en cours.
+short-description: Après avoir terminé les étapes de configuration initiales, apprenez à établir des éléments fondamentaux pour garantir une utilisation continue fluide.
 title: Liste de contrôle de configuration de l’utilisateur
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
