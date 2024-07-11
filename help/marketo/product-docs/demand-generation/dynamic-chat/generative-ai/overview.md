@@ -3,16 +3,16 @@ description: Présentation de Generator AI - Documents Marketo - Documentation d
 title: Présentation de l’IA générique
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 3%
 
 ---
 
 # Présentation de l’IA générique {#generative-ai-overview}
 
-Dans Adobe Dynamic Chat, l’IA générique traite les signaux d’intention, les préférences utilisateur et le comportement passé en temps réel afin de générer des messages personnalisés pertinents pour les visiteurs du chat.
+Les fonctionnalités de Adobe Dynamic Chat optimisées par l’IA générique vous permettent d’optimiser la productivité de vos agents de vente, d’obtenir des informations sur l’intention des visiteurs de votre site web et de répondre aux questions des visiteurs en toute sécurité.
 
 ## Permissions {#permissions}
 
