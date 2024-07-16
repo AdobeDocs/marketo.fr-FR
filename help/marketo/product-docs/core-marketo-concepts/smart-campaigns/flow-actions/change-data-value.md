@@ -1,37 +1,37 @@
 ---
 unique-page-id: 1146960
 description: Modification de la valeur des données - Documents Marketo - Documentation du produit
-title: Modifier valeur des données
+title: Modifier la valeur des données
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 7%
 
 ---
 
-# Modifier valeur des données {#change-data-value}
+# Modifier la valeur des données {#change-data-value}
 
 ## Vue d’ensemble {#overview}
 
-Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce faire, vous utiliserez la variable **[!UICONTROL Modifier la valeur des données]** action de flux.
+Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce faire, vous utiliserez l’action de flux **[!UICONTROL Modifier la valeur de données]**.
 
-![](assets/image2014-9-22-11-3a15-3a34.png)
+![](assets/change-data-value-1.png)
 
 >[!NOTE]
 >
->Vous pouvez également empêcher la mise à jour d’un champ. Voir [Bloquer les mises à jour d’un champ](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} pour plus d’informations.
+>Vous pouvez également empêcher la mise à jour d’un champ. Pour plus d’informations, voir [Bloquer les mises à jour d’un champ](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} .
 
 ## Utilisation {#usage}
 
 1. Recherchez et sélectionnez le champ dont vous souhaitez modifier la valeur.
 
-   ![](assets/image2014-9-22-11-3a18-3a29.png)
+   ![](assets/change-data-value-2.png)
 
 1. Saisissez la valeur souhaitée, et vous avez terminé !
 
-   ![](assets/image2014-9-22-11-3a18-3a38.png)
+   ![](assets/change-data-value-3.png)
 
    >[!NOTE]
    >
@@ -39,9 +39,9 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce
 
    >[!TIP]
    >
-   >Vous pouvez saisir &quot;NULL&quot; (sans guillemets, toutes les majuscules) dans la variable **[!UICONTROL Nouvelle valeur]** pour effacer le champ. Voir [Effacer les valeurs de champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md){target="_blank"} pour plus d’informations.
+   >Vous pouvez saisir &quot;NULL&quot; (sans guillemets, toutes majuscules) dans **[!UICONTROL Nouvelle valeur]** pour effacer le champ. Pour plus d’informations, voir [Effacer les valeurs de champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"} .
 
    >[!NOTE]
    >
    >* [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
-   >* [Ajout de données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}
+   >* [Ajouter des données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}
