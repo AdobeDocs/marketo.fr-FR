@@ -3,9 +3,9 @@ description: Webinaires à la demande - Documents Marketo - Documentation du pro
 title: Webinaires On-Demand
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage fournit les statistiques de surveillance pour les webinaires à l
    * Durée moyenne de visionnage en minutes pour tous les visiteurs : donne aux marketeurs une idée de la quantité d’enregistrement visualisée et des campagnes intelligentes pouvant être utilisées pour cibler les pistes au-dessus d’une certaine durée de visionnage.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>Les vues ne sont comptabilisées que lorsque la durée de la montre dépasse une minute.
 
 Les filtres et déclencheurs des webinaires interactifs ont été modifiés pour prendre en charge les webinaires à la demande. Le déclencheur &quot;Assiste à l’événement&quot; et le filtre &quot;A assisté à l’événement&quot; sont ajoutés avec une contrainte supplémentaire (&quot;Mode événement&quot;), où un marketeur peut choisir si la cible est une audience en ligne ou une audience à la demande. Si la contrainte &quot;Mode événement&quot; n’est pas sélectionnée, les audiences On-Demand et On-Demand sont ciblées. D’autres contraintes, telles que &quot;Date de contrôle&quot; et &quot;Durée de contrôle&quot;, peuvent être utilisées avec le mode d’événement &quot;On-Demand&quot;. Le filtre d’inactivité &quot;N’a pas assisté à un événement&quot; peut également être utilisé pour les webinaires à la demande avec le mode d’événement &quot;On-Demand&quot;.
