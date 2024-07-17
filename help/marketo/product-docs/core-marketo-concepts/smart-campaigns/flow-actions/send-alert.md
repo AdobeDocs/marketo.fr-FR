@@ -4,50 +4,46 @@ description: Envoyer une alerte - Documents Marketo - Documentation du produit
 title: Envoyer une alerte
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '153'
+ht-degree: 2%
 
 ---
 
 # Envoyer une alerte {#send-alert}
 
-## Vue d’ensemble {#overview}
+Marketo Engage peut envoyer une alerte par courrier électronique contenant des informations personnelles à tout le monde, au propriétaire du commerce, à un partenaire ou à une autre personne. Utilisez l’étape de flux &quot;[!UICONTROL Envoyer une alerte]&quot;.
 
-Marketo peut envoyer une alerte par courrier électronique contenant des informations sur la personne de tout le monde, à tout le monde (propriétaire commercial, partenaire ou autre). Utilisez le[!UICONTROL Envoyer une alerte]&quot; étape de flux.
-
-![](assets/one-1.png)
-
-## Utilisation {#usage}
+![](assets/send-alert-1.png)
 
 1. Recherchez et sélectionnez l’email que vous souhaitez envoyer.
 
-   ![](assets/two-1.png)
+   ![](assets/send-alert-2.png)
 
    >[!NOTE]
    >
-   >Votre alerte par e-mail doit contenir toutes les informations d’en-tête et figurer dans la variable **[!UICONTROL Approuvé]** état.
+   >Votre alerte par e-mail doit contenir toutes les informations d’en-tête et être à l’état **[!UICONTROL Approuvé]**.
 
 1. Vous pouvez cliquer sur l’icône d’aperçu pour vous assurer que vous avez sélectionné l’email correct.
 
-   ![](assets/three-1.png)
+   ![](assets/send-alert-3.png)
 
    >[!NOTE]
    >
-   >Veillez à utiliser le[!UICONTROL Envoyer les informations d’alerte]&quot; dans votre email.
+   >Veillez à utiliser le jeton &quot;[!UICONTROL Send Alert Info]&quot; dans votre email.
 
 1. Sélectionnez le destinataire de l’alerte. Vous pouvez choisir [!UICONTROL Propriétaire des ventes] ou [!UICONTROL Propriétaire du compte].
 
-   ![](assets/four-2.png)
+   ![](assets/send-alert-4.png)
 
 1. Vous pouvez éventuellement ajouter toute autre adresse électronique (séparée par une virgule ou un point-virgule).
 
-   ![](assets/five.png)
+   ![](assets/send-alert-5.png)
 
    >[!TIP]
    >
-   >Pour déclencher des campagnes, vous pouvez utiliser des jetons dans **[!UICONTROL À d’autres courriers électroniques]** par exemple `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}` tant que les valeurs sont des adresses électroniques valides. Jetons dans **[!UICONTROL À d’autres courriers électroniques]** ne fonctionnera pas dans une campagne par lots.
+   >Dans les campagnes de déclenchement, vous pouvez utiliser des jetons dans **[!UICONTROL To Other Emails]** tels que `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}` tant que les valeurs sont des adresses électroniques valides. Les jetons de **[!UICONTROL vers d’autres emails]** ne fonctionneront pas dans une campagne par lots.
 
 >[!MORELIKETHIS]
 >

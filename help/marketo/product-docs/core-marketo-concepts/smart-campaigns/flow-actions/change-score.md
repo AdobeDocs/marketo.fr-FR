@@ -4,40 +4,36 @@ description: Score de modification - Documents Marketo - Documentation du produi
 title: Modifier évaluation
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 6%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
 # Modifier évaluation {#change-score}
 
-## Vue d’ensemble {#overview}
+La notation des personnes est facile et puissante et permet à votre équipe commerciale de hiérarchiser les priorités.
 
-La notation des personnes est facile et puissante pour aider votre équipe commerciale à établir des priorités.
-
-![](assets/flowstep-changescore.png)
-
-## Utilisation {#usage}
+![](assets/change-score-1.png)
 
 1. Sélectionnez le champ de score à modifier.
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
-   >Vous pouvez créer plusieurs champs de score. Voir [Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} pour plus d’informations.
+   >Vous pouvez créer plusieurs champs de score. Pour plus d’informations, voir [Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} .
 
 1. Saisissez le changement de score souhaité.
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    Modifications :
 
-   * **+5** pour incrémenter
-   * **-5** réduit (nombres négatifs autorisés) ;
-   * **=5** fera le score qui est un nombre exact
-   * **=-5** rendra le score qui contient un nombre négatif exact.
+   * **+5** à incrémenter
+   * **-5** décrétera (nombres négatifs autorisés)
+   * **=5** effectue le score qui correspond au nombre exact
+   * **=-5** effectue le score correspondant à un nombre négatif exact
 
-Mettez rapidement en place une notation de base, puis affinez les résultats au fil du temps. C&#39;est ce que nous avons fait !
+Mettez rapidement en place une notation de base, puis affinez les résultats au fil du temps.

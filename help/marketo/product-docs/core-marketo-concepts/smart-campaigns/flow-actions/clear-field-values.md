@@ -4,9 +4,9 @@ description: Effacer les valeurs de champ - Documents Marketo - Documentation du
 title: Effacer les valeurs de champ
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/clear-field-values-1.png)
 
-1. Boum ! Je parie que tu ne savais pas ça ! Une fois l’étape de flux terminée, la valeur du champ que vous choisissez est effacée.
+1. Une fois l’étape de flux terminée, la valeur du champ que vous choisissez est effacée.
 
    ![](assets/clear-field-values-2.png)
 

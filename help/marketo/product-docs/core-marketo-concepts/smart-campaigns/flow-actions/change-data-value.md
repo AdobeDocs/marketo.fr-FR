@@ -4,16 +4,14 @@ description: Modification de la valeur des données - Documents Marketo - Docume
 title: Modifier la valeur des données
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 7%
+source-wordcount: '110'
+ht-degree: 5%
 
 ---
 
 # Modifier la valeur des données {#change-data-value}
-
-## Vue d’ensemble {#overview}
 
 Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce faire, vous utiliserez l’action de flux **[!UICONTROL Modifier la valeur de données]**.
 
@@ -22,8 +20,6 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce
 >[!NOTE]
 >
 >Vous pouvez également empêcher la mise à jour d’un champ. Pour plus d’informations, voir [Bloquer les mises à jour d’un champ](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} .
-
-## Utilisation {#usage}
 
 1. Recherchez et sélectionnez le champ dont vous souhaitez modifier la valeur.
 
