@@ -4,7 +4,7 @@ description: Créer une tâche - Documents Marketo - Documentation du produit
 title: Créer une tâche
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 3%
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 En tant que marketeur, vous disposez d’informations qui peuvent vous aider à conclure des transactions. Vous pouvez créer des tâches pour leur indiquer ce qu’ils doivent faire et quand ils doivent le faire.
 
-![](assets/image2014-9-22-14-3a54-3a46.png)
+![](assets/create-task-1.png)
 
 >[!NOTE]
 >
@@ -23,12 +23,12 @@ En tant que marketeur, vous disposez d’informations qui peuvent vous aider à 
 
 Par défaut, l’étape de flux se présente comme suit :
 
-![](assets/image2014-9-22-14-3a54-3a49.png)
+![](assets/create-task-2.png)
 
 Personnalisez tous les champs pour créer la tâche comme vous le souhaitez.
 
-![](assets/image2014-9-22-14-3a54-3a52.png)
+![](assets/create-task-3.png)
 
 >[!TIP]
 >
->Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans le **[!UICONTROL Objet]** et **[!UICONTROL Description]**. Voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} pour plus d’informations.
+>Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans les **[!UICONTROL Sujet]** et **[!UICONTROL Description]**. Pour plus d’informations, voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} .

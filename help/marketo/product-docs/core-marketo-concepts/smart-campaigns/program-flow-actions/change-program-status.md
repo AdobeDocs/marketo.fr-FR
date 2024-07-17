@@ -4,32 +4,28 @@ description: Modifier l’état du programme - Documents Marketo - Documentation
 title: Modifier le statut du programme
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 6%
+source-wordcount: '129'
+ht-degree: 4%
 
 ---
 
 # Modifier le statut du programme {#change-program-status}
 
-## Vue d’ensemble {#overview}
-
-Les statuts de programme vous aident à suivre l’avancement des personnes dans un programme ou un événement. En savoir plus dans [Personnalisation, Création Et Gestion Des Canaux](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Les statuts de programme vous aident à suivre l’avancement des personnes dans un programme ou un événement. Pour plus d’informations, voir [Personnaliser, Créer Et Gérer Des Canaux](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >
 >La modification de l’état du programme dans un programme d’engagement les ajoute automatiquement dans le premier flux. Ils vont commencer à recevoir du contenu.
 
-## Utilisation {#usage}
+1. Faites glisser l’étape de flux **[!UICONTROL Modifier l’état du programme]** .
 
-1. Faites glisser le **[!UICONTROL Modifier l’état du programme]** étape de flux.
+   ![](assets/change-program-status-1.png)
 
-   ![](assets/image2014-9-22-14-3a43-3a34.png)
+1. Sélectionnez le **[!UICONTROL nouvel état]** que vous souhaitez définir. La personne sera également inscrite au programme si ce n&#39;était pas déjà le cas.
 
-1. Sélectionnez la variable **[!UICONTROL Nouveau statut]** vous voulez définir. La personne sera également inscrite au programme si ce n&#39;était pas déjà le cas.
-
-   ![](assets/image2014-9-22-14-3a43-3a45.png)
+   ![](assets/change-program-status-2.png)
 
 Les choix sont limités à des états valides pour ce programme.
 

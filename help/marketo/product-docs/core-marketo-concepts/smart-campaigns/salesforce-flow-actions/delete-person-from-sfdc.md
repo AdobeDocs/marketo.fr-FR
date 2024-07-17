@@ -4,10 +4,10 @@ description: Supprimer une personne de SFDC - Documents Marketo - Documentation 
 title: Supprimer individu de SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 8%
+ht-degree: 5%
 
 ---
 
@@ -21,18 +21,18 @@ Si vous devez supprimer un ensemble spécifique de pistes de Salesforce tout en 
 
 1. Dans la base de données, cliquez sur la personne à supprimer de Salesforce. Cliquez ensuite sur **[!UICONTROL Actions de personne]** et sélectionnez **[!DNL Salesforce]**.
 
-   ![](assets/person-actions-salesforce.png)
+   ![](assets/delete-person-from-sfdc-1.png)
 
-1. Sélectionner **[!UICONTROL Supprimer une personne de SFDC]**.
+1. Sélectionnez **[!UICONTROL Supprimer la personne de SFDC]**.
 
-   ![](assets/delete-person-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-2.png)
 
-1. Assurez-vous que la variable **[!UICONTROL Supprimer dans Marketo]** paramètre **[!UICONTROL false]**, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
+1. Assurez-vous que le paramètre **[!UICONTROL Supprimer dans Marketo]** est **[!UICONTROL false]**, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
-   ![](assets/run-action-delete-lead-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-3.png)
 
    Une fois l’étape de flux exécutée, votre personne ne sera plus une piste dans Salesforce, mais restera dans Marketo.
 
    >[!CAUTION]
    >
-   >Si vous définissez **[!UICONTROL Supprimer dans Marketo]** to **[!UICONTROL true]** et supprimez les personnes de Marketo et les prospects de Salesforce, ils sont partis pour toujours. Cette ne peut pas être annulée.
+   >Si vous définissez **[!UICONTROL Supprimer dans Marketo]** sur **[!UICONTROL true]** et supprimez les personnes de Marketo et les prospects de Salesforce, elles disparaissent pour toujours. Cela ne peut pas être défait.
