@@ -4,9 +4,9 @@ description: Définition de filtres de liste dynamique - Documents Marketo - Doc
 title: Définition des filtres de liste dynamique
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [Recherche et ajout de filtres aux listes dynamiques](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [Rechercher et ajouter des filtres aux listes dynamiques](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Maintenant que vous avez [création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} and [added filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} définissez les filtres. Voici comment.
+Maintenant que vous avez [ créé une liste dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} et [ ajouté des filtres](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}, définissons les filtres. Voici comment.
 
 Dans notre exemple, définissez ces filtres pour trouver toutes les personnes en Californie ayant un score supérieur à 50.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/define-smart-list-filters-1.png)
 
-1. Sélectionnez la liste dynamique, puis cliquez sur le bouton **[!UICONTROL Liste dynamique]** .
+1. Sélectionnez la liste dynamique souhaitée et cliquez sur l’onglet **[!UICONTROL Liste dynamique]** .
 
-   ![](assets/smarlist-choosefilters.png)
+   ![](assets/define-smart-list-filters-2.png)
 
-1. Recherchez et sélectionnez &quot;CA&quot; pour le **[!UICONTROL État]** filtre.
+1. Recherchez et sélectionnez &quot;CA&quot; pour le filtre **[!UICONTROL State]**.
 
-   ![](assets/smartlistdefinefilters.png)
+   ![](assets/define-smart-list-filters-3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez stocker &quot;Californie&quot; et &quot;CA&quot;. Pour filtrer les deux valeurs et inclure _all_ des gens de Californie, apprenez à  [ajout de plusieurs valeurs à un filtre Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}.
+   >Vous pouvez stocker &quot;Californie&quot; et &quot;CA&quot;. Pour filtrer les deux valeurs et inclure _tous_ les habitants de Californie, apprenez à [ajouter plusieurs valeurs à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}.
 
-1. Sélectionnez la variable **[!UICONTROL supérieur à]** et saisissez &quot;50&quot;.
+1. Sélectionnez l’opérateur **[!UICONTROL supérieur à]** et saisissez &quot;50&quot;.
 
-   ![](assets/smartlistfilter-personscore.png)
+   ![](assets/define-smart-list-filters-4.png)
 
 >[!TIP]
 >

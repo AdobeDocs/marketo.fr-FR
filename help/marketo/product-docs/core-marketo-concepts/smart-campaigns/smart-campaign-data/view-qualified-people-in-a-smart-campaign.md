@@ -4,7 +4,7 @@ description: Affichage des personnes qualifiées dans une campagne dynamique - D
 title: Affichage des personnes qualifiées dans une campagne dynamique
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Affichez les personnes pouvant accéder au flux lorsque vous exécutez une campagne dynamique.
 
-1. Dans votre campagne dynamique, cliquez sur le bouton **[!UICONTROL Planification]** . Dans État de liste dynamique, cliquez sur le premier lien.
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planning]** . Dans État de liste dynamique, cliquez sur le premier lien.
 
-![](assets/qualifedpeople-hands.png)
+![](assets/view-qualified-people-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
 >Les campagnes de déclenchement n’affichent pas les personnes qualifiées, puisqu’elles s’exécutent sur la base d’événements en direct.
 
-1. La variable **[!UICONTROL Personnes qualifiées]** tab répertorie les personnes qui peuvent accéder au flux lorsque la campagne s’exécute.
+1. L’onglet **[!UICONTROL Personnes qualifiées]** répertorie les personnes qui peuvent accéder au flux lorsque la campagne s’exécute.
 
-   ![](assets/qualifiedpeople-tab.png)
+   ![](assets/view-qualified-people-in-a-smart-campaign-2.png)
 
    >[!CAUTION]
    >
@@ -33,12 +33,12 @@ Affichez les personnes pouvant accéder au flux lorsque vous exécutez une campa
 
    >[!NOTE]
    >
-   >Le nombre de personnes qualifiées dépend également des règles de qualification de la campagne dynamique. Découvrez comment [modification des règles de qualification](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
+   >Le nombre de personnes qualifiées dépend également des règles de qualification de la campagne dynamique. Découvrez comment [modifier les règles de qualification](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
 Beau ! Vous pouvez utiliser cette liste pour vérifier les personnes qui peuvent traverser le flux avant d’exécuter une campagne dynamique.
 
 >[!MORELIKETHIS]
 >
->* [Affichage des membres de campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
->* [Affichage des personnes bloquées dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+>* [Afficher les membres de campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+>* [Afficher les personnes bloquées dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
 >* [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
