@@ -4,32 +4,32 @@ description: Affichage des membres de campagne dynamique - Documents Marketo - D
 title: Affichage des membres de campagne dynamique
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Affichage des membres de campagne dynamique {#view-smart-campaign-members}
 
-Affichez les personnes qui ont déjà parcouru le flux de campagne dynamique, c’est-à-dire les membres de la campagne dynamique.
+Affichez les personnes qui ont déjà parcouru le flux de campagne dynamique.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
-![](assets/login-marketing-activities.png)
+   ![](assets/view-smart-campaign-members-1.png)
 
-1. Dans votre campagne dynamique, cliquez sur **[!UICONTROL Affichage des membres de campagne]**.
+1. Dans votre campagne dynamique, cliquez sur **[!UICONTROL Afficher les membres de campagne]**.
 
-   ![](assets/changescore-hands.png)
+   ![](assets/view-smart-campaign-members-2.png)
 
->[!TIP]
->
->Vous pouvez afficher les membres de la campagne n’importe où dans une campagne dynamique.
+   >[!TIP]
+   >
+   >Vous pouvez afficher les membres de la campagne n’importe où dans une campagne dynamique.
 
-1. La variable **[!UICONTROL Membres de la campagne]** Cet onglet affiche les personnes qui ont déjà parcouru le flux de campagne dynamique.
+1. L’onglet **[!UICONTROL Membres de la campagne]** affiche les personnes qui ont déjà parcouru le flux de la campagne dynamique.
 
-   ![](assets/smartcampaignheader-complete.jpg)
+   ![](assets/view-smart-campaign-members-3.png)
 
    >[!NOTE]
    >
@@ -37,4 +37,4 @@ Affichez les personnes qui ont déjà parcouru le flux de campagne dynamique, c�
 
    >[!MORELIKETHIS]
    >
-   >[Affichage des personnes bloquées dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+   >[Afficher les personnes bloquées dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
