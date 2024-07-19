@@ -2,10 +2,8 @@
 description: Glossaire des icônes - Documents du Marketo Engage - Documentation du produit
 title: Glossaire des icônes
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 52%
@@ -14,16 +12,16 @@ ht-degree: 52%
 
 # Glossaire des icônes de Marketo Engage {#icon-glossary}
 
-Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actuelle. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [se trouve ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actuelle. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [trouvées ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Icônes générales {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th>
+   <th style="width:25%">Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><strong>s/o</strong></td> 
@@ -243,9 +241,9 @@ Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actu
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th> 
+   <th style="width:25%"> Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actu
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th> 
+   <th style="width:25%"> Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actu
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th> 
+   <th style="width:25%"> Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actu
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th> 
+   <th style="width:25%"> Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actu
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th> 
+   <th style="width:25%"> Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actu
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th> 
+   <th style="width:25%"> Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ Vous trouverez ci-dessous les icônes de l’interface Adobe Marketo Engage actu
 <table> 
  <tbody>
   <tr>
-   <th>Ancienne icône</th> 
-   <th> Nouvelle icône</th> 
-   <th>Description</th> 
+   <th style="width:25%">Ancienne icône</th> 
+   <th style="width:25%"> Nouvelle icône</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><strong>s/o</strong></td> 
