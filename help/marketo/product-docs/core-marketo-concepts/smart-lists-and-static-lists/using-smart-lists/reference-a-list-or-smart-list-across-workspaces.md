@@ -4,9 +4,9 @@ description: Référencer une liste ou une liste dynamique dans tous les espaces
 title: Référencer une liste ou une liste dynamique dans tous les espaces de travail
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,39 @@ Les listes et les listes intelligentes peuvent être partagées et référencée
 
 >[!NOTE]
 >
->Les règles de partition de personne s’appliquent (les listes dynamiques et les listes statiques d’un espace de travail affichent uniquement les personnes qui sont toutes deux membres de la liste). _et_ membres de l’espace de travail actuel).
+>Les règles de partition de personne s’appliquent (les listes dynamiques et les listes statiques d’un espace de travail affichent uniquement les personnes qui sont toutes deux membres de la liste _et_ membres de l’espace de travail actuel).
 
 ## Partage d’une liste ou d’une liste dynamique {#share-a-list-or-smart-list}
 
-1. Accédez au **[!UICONTROL Base]**.
+1. Accédez à la **[!UICONTROL base de données]**.
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Cliquez avec le bouton droit sur un dossier de campagne. Sélectionner **Nouveau dossier**.
+1. Cliquez avec le bouton droit sur un dossier de campagne. Sélectionnez **Nouveau dossier**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
-   >Les ressources ne peuvent être partagées qu’entre des espaces de travail si elles sont imbriquées dans un dossier.
+   >Assets ne peut être partagé entre les espaces de travail que s’ils sont imbriqués dans un dossier.
 
-   ![](assets/two-4.png)
+1. Nommez votre dossier et cliquez sur **[!UICONTROL Créer]**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
 1. Faites glisser et déposez une liste ou une liste dynamique que vous souhaitez partager dans le nouveau dossier.
 
-   ![](assets/three-4.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Clic droit **[!UICONTROL Nouveau dossier]** et sélectionnez **[!UICONTROL Share Folder]**.
+1. Cliquez avec le bouton droit sur votre nouveau dossier et sélectionnez **[!UICONTROL Partager le dossier]**.
 
-   ![](assets/four-3.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Choisissez une **[!UICONTROL Workspace]** à partager avec . Sélectionner **[!UICONTROL Enregistrer]**.
+1. Sélectionnez un **[!UICONTROL Workspace]** à partager avec et cliquez sur **[!UICONTROL Enregistrer]**.
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
-   Super! Cette liste sera désormais disponible dans les deux espaces de travail.
+   Super ! Cette liste sera désormais disponible dans les deux espaces de travail.
 
    >[!NOTE]
    >
