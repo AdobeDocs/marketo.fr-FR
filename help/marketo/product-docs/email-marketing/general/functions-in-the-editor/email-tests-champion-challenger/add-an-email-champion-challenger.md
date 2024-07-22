@@ -21,12 +21,12 @@ Voici comment commencer.
 
 >[!PREREQUISITES]
 >
->* [Création d’un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Création d’un courrier électronique](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [Créer un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Créer un email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
->Les emails Champion/Challenger fonctionnent uniquement avec les campagnes de déclenchement et les flux de programme d’engagement. Pour les envois par lots, utilisez le [Fonctionnalité de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Les emails Champion/Challenger fonctionnent uniquement avec les campagnes de déclenchement et les flux de programme d’engagement. Pour les envois par lots, utilisez la [fonctionnalité de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) du programme de messagerie.
 
 1. Accédez à **Activités marketing**.
 
@@ -38,7 +38,7 @@ Voici comment commencer.
 
    >[!NOTE]
    >
-   >Pour les explosions ponctuelles de courriers électroniques, en savoir plus sur [programmes de messagerie électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >Pour les explosions de mails ponctuelles, découvrez les [programmes de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
 1. Sous **Actions de courrier électronique**, cliquez sur **Nouveau test**.
 
@@ -48,6 +48,6 @@ Voici comment commencer.
 
    >[!MORELIKETHIS]
    >
-   >* [Champion/Challenger : Emails complets](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger : Objet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [Champion/Challenger : Adresse de l’expéditeur](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [Champion/Challenger : Emails Complets](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [ Champion/Challenger : Objet ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger : De L&#39;Adresse](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

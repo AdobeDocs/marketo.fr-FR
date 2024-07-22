@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Découvrez comment incorporer un formulaire Marketo dans une campagne web (boîte de dialogue, dans une zone ou un widget).
 
-1. Cliquez avec le bouton droit sur un formulaire approuvé. Sélectionner **Code incorporé**.
+1. Cliquez avec le bouton droit sur un formulaire approuvé. Sélectionnez **Code incorporé**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,7 +23,7 @@ Découvrez comment incorporer un formulaire Marketo dans une campagne web (boît
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Dans Personnalisation Web, accédez à **Campagnes Web**.
+1. Dans Web Personalization, accédez à **Campagnes Web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
@@ -35,7 +35,7 @@ Découvrez comment incorporer un formulaire Marketo dans une campagne web (boît
 
    ![](assets/five-1.png)
 
-1. Collez le code incorporé du formulaire dans l’éditeur de source de HTML. Cliquez sur **Mettre à jour**.
+1. Collez le code incorporé du formulaire dans l’éditeur Source HTML. Cliquez sur **Mettre à jour**.
 
    ![](assets/six-1.png)
 
@@ -55,7 +55,7 @@ Pour ajouter une image d’arrière-plan à votre formulaire, vous pouvez :
 * Modifier les couleurs de la boîte de dialogue ou du widget dans Définir la campagne
 * Ajout du code CSS au script
 
-Pour modifier la page CSS d’un thème de formulaire, reportez-vous à la section [cet article](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Pour modifier le CSS d’un thème de formulaire, reportez-vous à [cet article](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Pour modifier les couleurs de la boîte de dialogue ou du widget dans Définir la campagne :
 
@@ -73,16 +73,16 @@ Pour ajouter du code CSS au script :
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Collez le code incorporé du formulaire avec le code de style d’arrière-plan dans l’éditeur de source de HTML. Cliquez sur **Mettre à jour**.
+1. Collez le code incorporé du formulaire avec le code de style d’arrière-plan dans l’éditeur Source HTML. Cliquez sur **Mettre à jour**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Cliquez sur **Aperçu** pour visualiser le rendu dans une campagne (le formulaire ne s’affiche pas dans la vue de l’éditeur). Voici un exemple de la manière dont le code de formulaire ci-dessus s’affiche dans une campagne avec une image d’arrière-plan.
+1. Cliquez sur **Aperçu** pour afficher le rendu dans une campagne (le formulaire ne s’affichera pas dans la vue de l’éditeur). Voici un exemple de la manière dont le code de formulaire ci-dessus s’affiche dans une campagne avec une image d’arrière-plan.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Modification de la page CSS d’un thème de formulaire](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Modifier le CSS d’un thème de formulaire](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Afficher le message de remerciement sans page d’entrée de relance](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Formulaires 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

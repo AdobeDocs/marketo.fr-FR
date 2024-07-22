@@ -27,7 +27,7 @@ Sales Connect stocke un cookie dans votre navigateur afin d’empêcher le suivi
 
 ## Bureau (Windows) {#desktop-windows}
 
-Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire de manière significative le nombre d’auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Vous trouverez ci-dessous les étapes à suivre.
+Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire considérablement le nombre d’auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Vous trouverez ci-dessous les étapes à suivre.
 
 1. Dans Outlook, cliquez sur **Fichier** dans la barre de menus.
 
@@ -37,7 +37,7 @@ Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans
 
    ![](assets/win-2.png)
 
-1. Dans la boîte de dialogue Options Outlook, cliquez sur **Centre de gestion**.
+1. Dans la boîte de dialogue Options Outlook, cliquez sur **Centre de gestion de la confidentialité**.
 
    ![](assets/win-3.png)
 
@@ -45,7 +45,7 @@ Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans
 
    ![](assets/win-4.png)
 
-1. Cliquez sur Téléchargement automatique dans le menu de gauche, puis sélectionnez l’option **Ne téléchargez pas automatiquement des images dans un email de HTML ou des éléments RSS** .
+1. Cliquez sur Téléchargement automatique dans le menu de gauche, puis cochez la case **Ne pas télécharger automatiquement d’images dans un email d’HTML ou des éléments RSS** .
 
    ![](assets/win-5.png)
 
@@ -59,16 +59,16 @@ Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans
 
 ## Bureau (Mac) {#desktop-mac}
 
-Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire de manière significative le nombre d’auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Vous trouverez ci-dessous les étapes à suivre.
+Les vues sont suivies en téléchargeant un petit pixel d’image invisible dans votre client de messagerie. Vous pouvez réduire considérablement le nombre d’auto-vues dans Outlook en désactivant les images à télécharger automatiquement. Vous trouverez ci-dessous les étapes à suivre.
 
-1. Dans Outlook, cliquez sur **Outlook** dans la barre de menus, puis sélectionnez **Préférences**.
+1. Dans Outlook, cliquez sur **Outlook** dans la barre de menus et sélectionnez **Préférences**.
 
    ![](assets/mac-1.png)
 
-1. Sous Courrier électronique, choisissez **Lire**.
+1. Sous Email, sélectionnez **Lecture**.
 
    ![](assets/mac-2.png)
 
-1. Sous Sécurité, cliquez sur le **Jamais** bouton radio.
+1. Sous Sécurité, cliquez sur le bouton radio **Never** .
 
    ![](assets/mac-3.png)

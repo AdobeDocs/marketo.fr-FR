@@ -6,7 +6,7 @@ exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Définissez une priorité pour vos campagnes web lorsque plusieurs campagnes web
 
 >[!NOTE]
 >
->**Campagnes se chevauchant**
+>**Campagnes de chevauchement**
 >
 >Un chevauchement de campagnes web se produit lorsque :
 >
@@ -32,7 +32,7 @@ Définissez une priorité pour vos campagnes web lorsque plusieurs campagnes web
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne web de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne web de votre choix, utilisez la [fonction de filtrage](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Dans la page Modifier la campagne, définissez le score de priorité (9999 = Priorité la plus élevée 1 = Priorité la plus faible).
 

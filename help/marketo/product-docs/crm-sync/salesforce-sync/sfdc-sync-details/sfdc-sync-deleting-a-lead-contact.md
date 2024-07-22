@@ -16,7 +16,7 @@ ht-degree: 0%
 Voici quelques détails :
 
 * Marketo Engage ne supprime pas automatiquement les personnes simplement parce que les pistes ont été supprimées dans Salesforce. L’indicateur &quot;SFDC Is Deleted&quot; du champ est défini sur true. Si vous le souhaitez, vous pouvez déclencher la suppression de ce champ dans Marketo.
-* [Supprimer une personne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"} action de flux. Cela supprime une personne dans MKTO, mais vous avez le choix de la supprimer dans `Salesforce` trop.
+* Action de flux [Supprimer la personne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"}. Cela supprime une personne dans MKTO, mais vous avez également le choix de la supprimer dans `Salesforce`.
 
-* [Supprimer de SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"} action de flux : supprime une piste dans SFDC mais vous avez le choix de supprimer une personne dans Marketo également.
-* Si une piste est supprimée dans Salesforce (mais qu’une personne n’est pas supprimée dans Marketo), elle passe ensuite par [Synchroniser avec Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} d’une action de flux, qui créerait un nouveau prospect dans Salesforce.
+* Action de flux [Supprimer de SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"} : supprime un prospect dans SFDC, mais vous avez également le choix de supprimer une personne dans Marketo.
+* Si une piste est supprimée dans Salesforce (mais qu’une personne n’est pas supprimée dans Marketo) et qu’elle passe ensuite par l’action de flux [Synchroniser avec Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, elle crée une piste dans Salesforce.

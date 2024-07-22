@@ -19,7 +19,7 @@ Les étapes de flux s’exécutent de haut en bas. Voici comment réorganiser le
 >
 >[Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. Dans votre campagne dynamique **[!UICONTROL Flux]** , il vous suffit de faire glisser et de déposer l’étape de flux vers l’emplacement de votre choix.
+1. Dans l’onglet **[!UICONTROL Flux]** de votre campagne dynamique, faites glisser et déposez simplement l’étape de flux vers l’emplacement de votre choix.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

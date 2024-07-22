@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Vous pouvez désactiver les notifications électroniques automatiques envoyées aux propriétaires de piste dans Salesforce lors de l’attribution des pistes. Voici comment.
 
-1. Accédez à **[!UICONTROL Administration]**.
+1. Accédez à **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
@@ -27,6 +27,6 @@ Vous pouvez désactiver les notifications électroniques automatiques envoyées 
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Décochez la case **[!UICONTROL Envoyer une notification par courrier électronique au propriétaire dans Salesforce lors de l’affectation de piste]** de la boîte. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Décochez la case **[!UICONTROL Envoyer une notification par courrier électronique au propriétaire dans Salesforce lors de l’affectation de piste]** . Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/new-screen.png)

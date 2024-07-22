@@ -22,9 +22,9 @@ ht-degree: 16%
 
 ## Articles les plus consultés
 
-* [Présentation de la fonction [!DNL Salesforce] Synchronisation](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Présentation de la synchronisation  [!DNL Salesforce] ](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Présentation de la fonction [!DNL Microsoft Dynamics] Synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Présentation de la synchronisation  [!DNL Microsoft Dynamics] ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Présentation des campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

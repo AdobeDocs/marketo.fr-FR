@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Votre équipe commerciale peut envoyer des emails et les faire suivre pour les ouvertures et les clics directement depuis Microsoft Dynamics. Voici comment.
 
-1. Dans Dynamics, accédez au **Ventes** zone.
+1. Dans Dynamics, accédez à la zone **Sales** .
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Sélectionnez une **Vue du système**.
+1. Sélectionnez une **vue système**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,13 +27,13 @@ Votre équipe commerciale peut envoyer des emails et les faire suivre pour les o
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Cliquez sur le bouton **..** , puis cliquez sur **Envoyer un courrier électronique Marketo**.
+1. Cliquez sur l’onglet **...**, puis sur **Envoyer un courrier électronique Marketo**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >Vous pouvez [publier des emails en tant que modèles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) pour que votre équipe de vente l’utilise.
+   >Vous pouvez [ publier des emails en tant que modèles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) pour que votre équipe commerciale les utilise.
 
 1. Ajoutez un objet, rédigez votre email et cliquez sur **Envoyer un courrier électronique**. (Choisissez un modèle si vous en avez besoin.)
 
@@ -41,7 +41,7 @@ Votre équipe commerciale peut envoyer des emails et les faire suivre pour les o
 
    >[!TIP]
    >
-   >Cliquez sur **Envoyer un courrier électronique de test** d’abord, et l’e-mail vous sera envoyé (adresse électronique principale dans Microsoft Dynamics) avant d’envoyer l’e-mail réel.
+   >Vous pouvez d’abord cliquer sur **Envoyer le courrier électronique de test** et le courrier électronique vous sera envoyé (adresse électronique principale dans Microsoft Dynamics) avant d’envoyer le courrier électronique réel.
 
    >[!NOTE]
    >
@@ -51,4 +51,4 @@ C&#39;est joli ! Vous savez maintenant comment envoyer des emails trackés Marke
 
 >[!MORELIKETHIS]
 >
->[Ajout d’un prospect/contact à une campagne Marketo à partir de Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Ajouter un prospect/contact à une campagne Marketo à partir de Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

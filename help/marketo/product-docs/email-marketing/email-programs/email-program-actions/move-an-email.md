@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098691
-description: Déplacement d’un courrier électronique - Documents Marketo - Documentation du produit
+description: Déplacer un courrier électronique - Documents Marketo - Documentation du produit
 title: Déplacer un email
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
@@ -19,11 +19,11 @@ Vous devez déplacer un email d&#39;un programme à un autre ? Voici comment.
 
    ![](assets/move-an-email-1.png)
 
-1. Localisez l&#39;email à déplacer, cliquez avec le bouton droit dessus et sélectionnez **Déplacer**.
+1. Recherchez l&#39;email que vous souhaitez déplacer, cliquez dessus avec le bouton droit et sélectionnez **Déplacer**.
 
    ![](assets/move-an-email-2.png)
 
-1. Sélectionnez la **Destination**, **Programme**, et facultatif **Dossier**. Sélectionner **Déplacer**.
+1. Sélectionnez les options **Destination**, **Program** et **Folder** facultatives. Sélectionnez **Déplacer**.
 
    ![](assets/move-an-email-3.png)
 

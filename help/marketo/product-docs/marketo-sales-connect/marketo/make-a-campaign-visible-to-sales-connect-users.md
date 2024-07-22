@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -19,19 +19,19 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/one.png)
 
-1. Cliquez sur l&#39;onglet **Liste intelligente**.
+1. Cliquez sur l’onglet **Liste dynamique** .
 
    ![](assets/two.png)
 
-1. Ajoutez le déclencheur Campaign is Requested (La campagne est demandée).
+1. Ajoutez le déclencheur Campagne demandée.
 
    ![](assets/three.png)
 
-1. Pour la source, choisissez &quot;is&quot; **API Web Service**.
+1. Pour la source, choisissez &quot;is&quot; **Web Service API**.
 
    ![](assets/4.png)
 
-1. Cliquez sur l&#39;onglet **Flux**.
+1. Cliquez sur l’onglet **Flux** .
 
    ![](assets/five.png)
 
@@ -47,6 +47,6 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/eight.png)
 
-1. Cliquez sur le bouton **Planification** et **Activer** la campagne.
+1. Cliquez sur l&#39;onglet **Planning** et **Activer** de la campagne.
 
    ![](assets/nine.png)

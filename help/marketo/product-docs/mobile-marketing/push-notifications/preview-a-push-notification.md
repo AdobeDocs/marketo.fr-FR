@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il est facile de prévisualiser votre notification push, que ce soit pour Android ou iOS. Il y a quatre façons de le faire.
 
-Dans l&#39;arborescence de navigation, cliquez avec le bouton droit sur le fichier de la notification à prévisualiser, puis cliquez sur **Aperçu**.
+Dans l’arborescence de navigation, cliquez avec le bouton droit sur le fichier de notification à prévisualiser, puis cliquez sur **Aperçu**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Dans l&#39;arborescence de navigation, cliquez avec le bouton droit sur le fichi
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Ou, sur la page de vue Notification push, cliquez sur **Actions de notifications push** puis **Aperçu**. Ou cliquez sur **Aperçu** à l&#39;extrême-droite.
+Ou, sur la page de vue Notification push, cliquez sur **Actions de notification push**, puis sur **Aperçu**. Ou cliquez sur **Aperçu** à l’extrême droite.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Enfin, dans l’éditeur, vous pouvez cliquer sur le bouton **Aperçu du brouillon** en haut à droite lorsque vous travaillez sur la notification.
+Enfin, dans l’éditeur, vous pouvez cliquer sur l’onglet **Aperçu préliminaire** en haut à droite lorsque vous travaillez sur la notification.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -49,9 +49,9 @@ Sur l’écran Verrouillage, il s’affiche à mi-chemin, sous l’heure.
 
 ## Aperçus iOS {#ios-previews}
 
-Comme pour Android, cliquez ou utilisez les flèches du clavier pour basculer entre les vues.
+Comme avec Android, cliquez ou utilisez les flèches du clavier pour basculer d’une vue à l’autre.
 
-Dans l’écran Accueil , la notification s’affiche en haut de l’écran.
+Dans l’écran Accueil , la notification s’affiche en haut.
 
 ![](assets/image2015-9-17-17-3a0-3a28.png)
 
@@ -67,5 +67,5 @@ Ainsi, avec la prévisualisation des notifications push, vous savez toujours ce 
 
 >[!MORELIKETHIS]
 >
->* [Création d’une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->* [Configuration de la notification push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+>* [Créer une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Configurer la notification push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

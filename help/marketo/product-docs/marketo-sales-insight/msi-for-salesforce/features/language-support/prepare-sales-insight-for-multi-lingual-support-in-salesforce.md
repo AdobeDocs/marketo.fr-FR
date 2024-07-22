@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -31,11 +31,11 @@ Marketo Sales Insight est stocké par langue. Ainsi, si vous souhaitez qu’il f
 
 ## Ajout d’une nouvelle langue pour Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
 
-1. Connectez-vous à Salesforce. Dans la liste déroulante sous votre nom située dans le coin supérieur droit, cliquez sur **Configuration**.
+1. Connectez-vous à Salesforce. Dans la liste déroulante sous votre nom dans le coin supérieur droit, cliquez sur **Configuration**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Sous **Mes informations personnelles**, cliquez sur **Informations personnelles**.
+1. Sous **My Personal Information**, cliquez sur **Personal Information**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -47,19 +47,19 @@ Marketo Sales Insight est stocké par langue. Ainsi, si vous souhaitez qu’il f
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. Votre interface Salesforce est maintenant dans la langue sélectionnée. Vous pouvez cliquer sur le bouton **+** pour afficher tous les onglets disponibles.
+1. Votre interface Salesforce est maintenant dans la langue sélectionnée. Vous pouvez cliquer sur l’icône **+** pour afficher tous les onglets disponibles.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Cliquez sur **Configuration de Marketo Sales Insight** (dans la langue sélectionnée).
+1. Cliquez sur **Configurer Marketo Sales Insight** (dans la langue sélectionnée).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Aller à Marketo. Recherchez votre [Marketo Sales Insight **Configuration des API** détails](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Accédez à Marketo. Localisez la [ configuration de l&#39;API **Marketo Sales Insight** details](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Saisissez les détails de l’API dans Marketo, puis cliquez sur **Enregistrer**.
+1. Saisissez les détails de l’API dans Marketo et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
@@ -75,7 +75,7 @@ Lorsque vous avez terminé de personnaliser votre organisation Salesforce, voici
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Cliquez sur **Informations personnelles** under **Mes informations personnelles**.
+1. Cliquez sur **Informations personnelles** sous **Mes informations personnelles**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
@@ -83,7 +83,7 @@ Lorsque vous avez terminé de personnaliser votre organisation Salesforce, voici
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. Sélectionner **Anglais** dans la liste déroulante Langue , puis cliquez sur **Enregistrer**.
+1. Sélectionnez **Anglais** dans la liste déroulante Langue et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 

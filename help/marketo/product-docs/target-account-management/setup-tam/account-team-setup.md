@@ -6,8 +6,8 @@ exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Une équipe de compte est un groupe de parties prenantes qui travaillent ensemble sur un compte nommé. Suivez ces étapes pour choisir les rôles de compte CRM à ajouter.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/one-3.png)
 
@@ -31,7 +31,7 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
    >
    >Pour Rôle du compte, attribuez-lui un nom et faites-le correspondre au champ de recherche d’utilisateur de votre choix dans le CRM.
 
-1. Saisissez le nom de votre rôle de compte et sélectionnez **CRM** champ . Ajoutez jusqu’à 10.
+1. Saisissez le nom de votre rôle de compte et sélectionnez le champ **CRM**. Ajoutez jusqu’à 10.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
    >
    >Vous ne pouvez pas sélectionner Propriétaire du compte. Il est sélectionné par défaut au niveau du compte dans votre CRM.
 
-1. Cliquez sur **Enregistrer** une fois terminé.
+1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/five-2.png)
 

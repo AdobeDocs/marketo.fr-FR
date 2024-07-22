@@ -22,6 +22,6 @@ C&#39;est quand un enregistrement est vrai et qu&#39;un enregistrement est faux 
 | Si le filtre de synchronisation pour l’enregistrement perdu est : | et le filtre de synchronisation pour l’enregistrement gagnant est : | Résultat dans Marketo |
 |---|---|---|
 | Vrai | Vrai | L’enregistrement gagnant se synchronise toujours avec Marketo. |
-| false | false | Le record de la victoire continue _not_ synchronisation avec Marketo |
+| false | false | L’enregistrement gagnant continue à _ne pas_ synchroniser avec Marketo |
 | false | Vrai | L’enregistrement gagnant sera synchronisé avec Marketo. |
 | Vrai | false | L’enregistrement gagnant ne sera pas synchronisé avec Marketo. |

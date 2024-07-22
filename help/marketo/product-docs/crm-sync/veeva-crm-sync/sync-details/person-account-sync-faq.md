@@ -5,7 +5,7 @@ exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Des comptes de personnes peuvent être configurés à Veeva pour répondre aux b
 >
 >Nous synchronisons uniquement les comptes de niveau &quot;professionnel&quot; en tant que comptes de personne.
 
-**Qu&#39;est-ce qu&#39;un compte de personne ?**
+**Qu’est-ce qu’un compte de personne ?**
 
 Un compte de personne est très similaire à l’objet de compte dans le CRM Veeva. Cependant, un compte de personne a accès aux champs du compte et aux champs de contact.
 
@@ -32,7 +32,7 @@ Un compte de personne est synchronisé avec Marketo en tant qu’entreprise et e
 >
 >Les champs personnalisés d’un compte de personne sont copiés dans la société et dans la personne dans Marketo.
 
-**Comment puis-je différencier les comptes de commerce et de personne ?**
+**Comment puis-je différencier les comptes professionnels et les comptes de personnes ?**
 
 Utilisez le filtre de compte &quot;Is Person&quot; dans votre liste dynamique pour séparer les comptes de personnes des comptes professionnels standard.
 
@@ -44,11 +44,11 @@ Il existe deux champs de courrier électronique pour un compte de personne. Util
 
 La synchronisation des champs associés aux contacts du compte de personne est bidirectionnelle. Si vous apportez des modifications à un contact dans Veeva CRM ou Marketo, vos mises à jour seront répercutées dans les deux systèmes. Les champs du compte ne se synchronisent que dans une seule direction, de la gestion de la relation client Veeva à Marketo.
 
-**Que se passe-t-il si des modifications sont effectuées simultanément dans les deux systèmes pour les champs Contact du compte Personne ?**
+**Que se passe-t-il si des modifications sont effectuées simultanément dans les deux systèmes pour contacter les champs du compte de personne ?**
 
 Nous serions gentils et laisserions Veeva CRM gagner. Il est toutefois rare que ce type de collision de données se produise.
 
-**Les enregistrements de type Plate-forme ou Contact sont-ils synchronisés avec le CRM Veeva ?**
+**Les enregistrements de type Plate-forme ou Contact sont-ils synchronisés avec Veeva CRM ?**
 
 Veeva CRM traite uniquement des objets de compte personnel et possède aussi des comptes professionnels. Les types CRM traditionnels de Lead, de contacts et d’opportunités ne sont pas vraiment utilisés dans les systèmes CRM traditionnels de Veeva. Ils peuvent être créés dans Veeva CRM, mais ils ne sont pas officiellement pris en charge à l’aide de ce connecteur.
 
@@ -56,13 +56,13 @@ Veeva CRM traite uniquement des objets de compte personnel et possède aussi des
 
 Non, puisque les types Prospect et Contact ne sont pas pris en charge pour la synchronisation avec la gestion de la relation client Veeva. Par conséquent, la conversion n’est pas prise en charge.
 
-**Puis-je forcer manuellement la synchronisation d’un contact ?**
+**Puis-je forcer manuellement la synchronisation d&#39;un contact ?**
 
 Non, puisque Contact n’est pas un type d’enregistrement indépendant, la synchronisation d’une personne avec Veeva n’est pas prise en charge.
 
 **Chaque champ standard est-il synchronisé avec Marketo ?**
 
-Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés peuvent faire partie de la synchronisation.
+Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés peuvent être synchronisés.
 
 >[!NOTE]
 >
@@ -74,5 +74,5 @@ Oui, en cas de conflit, nous consignerons le résultat dans le journal d’activ
 
 >[!MORELIKETHIS]
 >
->* [Mappage des champs Veeva par défaut](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [Mappage de champ Veeva par défaut](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
 >* [Synchronisation des messages clés d’appel et d’appel](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

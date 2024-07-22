@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Présentation des dossiers {#understanding-folders}
 
-Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Ils sont différents de [dossiers de campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Les dossiers d’un programme peuvent être utilisés pour organiser vos campagnes et ressources intelligentes. Ils sont différents des [dossiers de campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Création d’un dossier {#create-a-folder}
 
-1. Accédez au **[!UICONTROL Activités marketing]** zone.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/ma.png)
 
-1. Cliquez avec le bouton droit de la souris sur un programme et sélectionnez **[!UICONTROL Nouveau dossier]**.
+1. Cliquez avec le bouton droit de la souris sur un programme et sélectionnez **[!UICONTROL New Folder]**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
@@ -65,7 +65,7 @@ Lorsque vous archivez un dossier :
 * Les modèles archivés ne sont pas disponibles lors de la création d’un email ou d’une page d’entrée dans Design Studio
 * Les pages archivées ne peuvent pas être utilisées dans les groupes de test de page d’entrée.
 
-Fonctionnalités qui **not** modifier lors de l’archivage :
+Fonctionnalité qui **not** change lors de l’archivage :
 
 * La recherche globale recherche toujours les résultats dans les dossiers archivés
 * Une ressource en cours d’utilisation continuera à fonctionner même après son archivage.

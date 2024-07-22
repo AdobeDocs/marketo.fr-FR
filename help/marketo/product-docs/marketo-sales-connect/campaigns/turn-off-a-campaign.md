@@ -21,7 +21,7 @@ Vous devez mettre fin automatiquement à une campagne lorsqu&#39;un destinataire
 
 ## Désactivation d’une campagne pour une personne {#turn-off-a-campaign-for-one-person}
 
-Une fois votre campagne créée, accédez simplement à la **Paramètres** et choisissez le comportement que vous souhaitez que la campagne se comporte si quelqu’un répond.
+Après avoir créé votre campagne, accédez simplement à l’onglet **Paramètres** et choisissez le comportement souhaité de la campagne si quelqu’un répond.
 
 Les deux options mettront fin à la campagne et le destinataire ne recevra plus d&#39;emails de votre part.
 

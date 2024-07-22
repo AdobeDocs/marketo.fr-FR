@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Comprendre les dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
 
-Les campagnes intelligentes et les programmes de messagerie électronique disposent d’une puissante fonctionnalité à marquer comme **[!UICONTROL Tentative]** ou **[!UICONTROL Confirmé]**. Voici comment ils fonctionnent.
+Les campagnes dynamiques et les programmes de messagerie électronique ont une puissante fonctionnalité à marquer comme **[!UICONTROL Tentative]** ou **[!UICONTROL Confirmé]**. Voici comment ils fonctionnent.
 
 ## Tentative {#tentative}
 
-Les dates provisoires véhiculent l’intention. Pensez à ceci comme _crayon_ quelque chose dans le calendrier. Les entrées provisoires ne s’exécuteront pas, il s’agit uniquement d’espaces réservés.
+Les dates provisoires véhiculent l’intention. Considérez cela comme un élément _penceling_ dans le calendrier. Les entrées provisoires ne s’exécuteront pas, il s’agit uniquement d’espaces réservés.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -47,7 +47,7 @@ Les entrées confirmées seront certainement exécutées. Ils disposent de règl
 
 ## Terminé  {#finished}
 
-Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu’une entrée a été exécutée et est **[!UICONTROL Terminé]**, vous ne pouvez pas le déplacer ni le faire titiller. (Pas de changement de la réalité ni de rupture dans le continuum du flux temporel.)
+Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé (évidemment). Une fois qu’une entrée s’est exécutée et qu’elle est **[!UICONTROL Terminée]**, vous ne pouvez pas la déplacer ni la faire titiller. (Pas de changement de la réalité ni de rupture dans le continuum du flux temporel.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

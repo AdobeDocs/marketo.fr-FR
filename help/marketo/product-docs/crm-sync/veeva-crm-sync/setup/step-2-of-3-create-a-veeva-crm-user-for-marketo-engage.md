@@ -5,8 +5,8 @@ exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 4%
+source-wordcount: '641'
+ht-degree: 6%
 
 ---
 
@@ -26,21 +26,21 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
 
 Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo de mettre à jour les champs personnalisés.
 
-1. Cliquez sur les dispositions de la page Compte (compte de personne) dans la barre de recherche de navigation sans appuyer sur Entrée, puis cliquez sur **[!UICONTROL Disposition de page]** sous Contacts.
+1. Cliquez sur les mises en page de la page Compte (compte de personne) dans la barre de recherche de navigation sans appuyer sur Entrée, puis cliquez sur **[!UICONTROL Mise en page de page]** sous Contacts.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-1.png)
 
-1. Cliquez sur **[!UICONTROL Disposition de page]**.
+1. Cliquez sur **[!UICONTROL Dispositions de page]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-2.png)
 
-1. Cliquez sur **[!UICONTROL HP - Professionnel]**.
+1. Cliquez sur **[!UICONTROL Career - Professional]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-3.png)
 
-1. Cliquez et faites glisser un nouveau **[!UICONTROL Section]** dans la mise en page.
+1. Cliquez et faites glisser une nouvelle **[!UICONTROL Section]** dans la mise en page.
 
-1. Saisissez &quot;Marketo&quot; pour le nom de la section, puis cliquez sur **[!UICONTROL OK]**.
+1. Saisissez &quot;Marketo&quot; pour le nom de la section et cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
@@ -80,11 +80,11 @@ Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo 
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. Saisissez &quot;profils&quot; dans la barre de recherche de navigation, puis cliquez sur le bouton **[!UICONTROL Profils]** lien.
+1. Saisissez &quot;profils&quot; dans la barre de recherche de navigation et cliquez sur le lien **[!UICONTROL Profils]** .
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
-1. Cliquez sur **[!UICONTROL Nouveau]**.
+1. Cliquez sur **[!UICONTROL New]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
@@ -98,7 +98,7 @@ Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo 
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-11.png)
 
-1. Dans la section Autorisations d’administration , assurez-vous que **[!UICONTROL API activée]** est sélectionnée.
+1. Dans la section Autorisations d’administration, assurez-vous que l’option **[!UICONTROL API activée]** est sélectionnée.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-12.png)
 
@@ -106,15 +106,15 @@ Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo 
    >
    >Veillez à cocher la case Mot de passe n’expire jamais .
 
-1. Dans la section Autorisations utilisateur générales, assurez-vous que **[!UICONTROL Modifier des événements]** et **[!UICONTROL Modifier les tâches]** sont sélectionnées.
+1. Dans la section Autorisations des utilisateurs générales, assurez-vous que les options **[!UICONTROL Modifier les événements]** et **[!UICONTROL Modifier les tâches]** sont sélectionnées.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Dans la section Autorisations d’objet standard , assurez-vous que la variable **[!UICONTROL Lecture]**, **[!UICONTROL Créer]**, **[!UICONTROL Modifier]**, et **[!UICONTROL Supprimer]** les autorisations sont vérifiées pour les comptes et les contacts.
+1. Dans la section Autorisations d’objet standard , assurez-vous que les autorisations **[!UICONTROL Lecture]**, **[!UICONTROL Créer]**, **[!UICONTROL Modifier]** et **[!UICONTROL Supprimer]** sont vérifiées pour les autorisations Comptes et contacts.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Dans la section Autorisations d’objet personnalisé , assurez-vous que les autorisations de lecture sont vérifiées pour **[!UICONTROL Appeler]**, **[!UICONTROL Message de clé d’appel]**, ainsi que tout autre objet personnalisé de votre choix.
+1. Dans la section Autorisations d’objet personnalisé , assurez-vous que les autorisations de lecture sont cochées pour **[!UICONTROL Appel]**, **[!UICONTROL Message de clé d’appel]** et tous les autres objets personnalisés de votre choix.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
@@ -130,7 +130,7 @@ Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo 
    >
    >Cette étape permet d’éviter que les champs dont vous n’avez pas besoin ne s’affichent dans Marketo, ce qui réduit l’encombrement et accélère la synchronisation.
 
-1. Dans la page des détails du profil, accédez à [!UICONTROL Sécurité au niveau du champ] . Cliquez sur **[!UICONTROL Affichage]** pour modifier l’accessibilité des objets Contact et Compte .
+1. Dans la page des détails du profil, accédez à la section [!UICONTROL Sécurité au niveau du champ] . Cliquez sur **[!UICONTROL Afficher]** pour modifier l’accessibilité des objets Contact et Compte.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
@@ -142,7 +142,7 @@ Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo 
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-1. Recherchez les champs inutiles, assurez-vous que les options Lecture d’accès et Modifier l’accès sont _unchecked_. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Localisez les champs inutiles, assurez-vous que les options Lecture de l’accès et Modifier l’accès sont _non coché_. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -150,7 +150,7 @@ Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo 
    >
    >Modifiez uniquement l’accessibilité pour les champs personnalisés.
 
-1. Une fois tous les champs inutiles désactivés, cochez les cases Lecture de l’accès et Modification de l’accès pour les champs d’objet suivants. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Une fois tous les champs inutiles désactivés, cochez les cases Lecture de l’accès et Modification de l’accès pour les champs d’objet suivants. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
 <table>
  <tbody>
@@ -181,15 +181,15 @@ Marketo nécessite des informations d’identification pour accéder à la gesti
 >
 >Si votre entreprise ne dispose d’aucune licence CRM Veeva supplémentaire, vous pouvez utiliser un utilisateur marketing existant avec le profil Administrateur système.
 
-1. Saisissez &quot;Utilisateurs&quot; dans la barre de recherche de navigation, puis cliquez sur **[!UICONTROL Utilisateurs]** sous Gérer les utilisateurs.
+1. Saisissez &quot;users&quot; dans la barre de recherche de navigation, puis cliquez sur **[!UICONTROL Users]** sous Gérer les utilisateurs.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
-1. Cliquez sur **[!UICONTROL Nouvel utilisateur]**.
+1. Cliquez sur **[!UICONTROL New User]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-21.png)
 
-1. Renseignez les champs obligatoires, sélectionnez Licence utilisateur : Salesforce, définissez Profil : utilisateur de synchronisation Marketo et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Renseignez les champs obligatoires, sélectionnez la Licence utilisateur : Salesforce, définissez le profil : utilisateur de synchronisation Marketo et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-22.png)
 
@@ -201,4 +201,4 @@ Excellent ! Vous disposez à présent d’un compte que Marketo Engage peut util
 
 >[!MORELIKETHIS]
 >
->[Étape 3 sur 3 : connexion Marketo et Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}
+>[Étape 3 sur 3 : Connecter Marketo et Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

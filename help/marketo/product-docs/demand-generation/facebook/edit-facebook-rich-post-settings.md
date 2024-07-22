@@ -19,13 +19,13 @@ Personnalisez les publications lorsque des personnes vous partagent sur Facebook
 >
 >Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
-Marketo [applications sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) autorisez vos prospects à partager vos landing pages avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre page d’entrée qui sont incluses dans les publications Facebook.
+Les [applications sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) de Marketo permettent à vos prospects de partager vos landing pages avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre page d’entrée qui sont incluses dans les publications Facebook.
 
 ## Sélectionner les options de publication enrichie {#select-rich-post-options}
 
 Vous pouvez spécifier les types d’informations de page à utiliser dans les publications enrichies Facebook générées par des partages provenant de votre page d’entrée.
 
-1. Sélectionner **Message facebook** dans l’éditeur de votre **YouTube** vidéo ou bouton social.
+1. Sélectionnez **Message Facebook** dans l’éditeur pour votre vidéo ou bouton social **YouTube**.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,7 +35,7 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Ajouter du contenu dynamique : votre application sociale peut utiliser les `<TITLE>`, `<CAPTION>`, et `<DESCRIPTION>` balises pour renseigner votre publication enrichie.
+   * Ajouter du contenu dynamique : votre application sociale peut utiliser les balises `<TITLE>`, `<CAPTION>` et `<DESCRIPTION>` de votre page d’entrée pour remplir votre publication enrichie.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -51,17 +51,17 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
 Pour contrôler les éléments de page qui seront inclus dans les partages Facebook à partir de votre page d’entrée, vous pouvez ajouter des balises Facebook OG (Open Graph) pour le titre, la légende et la description de votre page d’entrée.
 
-1. Ouvrez la landing page qui contient votre **Vidéo YouTube** ou bouton social.
+1. Ouvrez la page d’entrée contenant la **vidéo YouTube** ou le bouton social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   La variable **Concepteur de page d’entrée** s’ouvre dans une nouvelle fenêtre.
+   Le **Designer de page d’entrée** s’ouvre dans une nouvelle fenêtre.
 
-1. Sélectionner **Actions de page d’entrée** > **Modification des métadonnées de page**.
+1. Sélectionnez **Actions de page d’entrée** > **Modifier les balises de métadonnées de page**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. Ajoutez le HTML qui définit og:title, og:caption et og:description. Copiez et collez ces lignes et remplacez le texte de l’espace réservé :
+1. Ajoutez l’HTML qui définit og:title, og:caption et og:description. Copiez et collez ces lignes et remplacez le texte de l’espace réservé :
 
    `<meta property="og:title" content="My Post Title"/>`
 
@@ -73,4 +73,4 @@ Pour contrôler les éléments de page qui seront inclus dans les partages Faceb
 
 >[!NOTE]
 >
->Veillez à utiliser la syntaxe de HTML appropriée lors de l’ajout des balises OG.
+>Veillez à utiliser la syntaxe d’HTML appropriée lors de l’ajout des balises OG.

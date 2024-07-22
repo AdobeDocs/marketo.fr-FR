@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Configuration du flux de progression du suivi pour une offre de référent {#configure-track-progress-flow-for-a-referral-offer}
 
-Lorsque vous [créer une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez paramétrer les invites qui montrent aux participants leur progression vers la récompense.
+Lorsque vous [créez une offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez configurer les invites qui montrent aux participants leur progression vers la récompense.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Sélectionnez l’offre de parrainage, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’offre de référence, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. Dans l&#39;éditeur d&#39;offres de parrainage, accédez à **Flux de progression du suivi** > **Réseaux sociaux**.
+1. Dans l’éditeur d’offres de référence, accédez à **Suivi du flux de progression** > **Réseaux sociaux**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Dans le **Afficher et modifier** éditez l&#39;invite qui rappelle aux participants de se connecter au même réseau social qu&#39;avant pour s&#39;inscrire à votre offre.
+1. Dans la fenêtre **Afficher et modifier** , modifiez l’invite qui rappelle aux participants de se connecter au même réseau social que celui utilisé pour s’inscrire à votre offre.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,4 +49,4 @@ Lorsque vous [créer une offre de référence](/help/marketo/product-docs/demand
 
 >[!MORELIKETHIS]
 >
->Cliquez ensuite sur **Terminer** > **Approuver et fermer** et [publier votre offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Cliquez ensuite sur **Terminer** > **Approuver et fermer** et [publier votre offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

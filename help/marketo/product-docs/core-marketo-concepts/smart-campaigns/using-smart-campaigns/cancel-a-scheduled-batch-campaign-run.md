@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si vous avez planifié une exécution pour l’une de vos campagnes par lots et souhaitez l’annuler, voici comment procéder.
 
-1. Sélectionnez la campagne et accédez au **[!UICONTROL Planification]** .
+1. Sélectionnez la campagne et accédez à l&#39;onglet **[!UICONTROL Planning]** .
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Recherchez l’exécution planifiée que vous souhaitez annuler, puis cliquez sur le bouton **x** à côté.
+1. Recherchez l’exécution planifiée que vous souhaitez annuler et cliquez sur le **x** en regard de celle-ci.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 

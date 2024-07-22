@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lorsque vous apportez des modifications majeures à vos paramètres de synchronisation ou de champ, vous devez désactiver la synchronisation pendant la configuration. Voici comment :
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 

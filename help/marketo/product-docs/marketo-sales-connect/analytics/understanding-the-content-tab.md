@@ -17,7 +17,7 @@ L’onglet Contenu concerne l’engagement email de votre équipe lors de l’ut
 
 ## arme secrète {#secret-weapon}
 
-Il s’agit d’un modèle d’email qui n’a pas encore été partagé avec l’équipe, mais qui reçoit un haut niveau d’engagement. Nous vous montrons l’objet du modèle et son créateur. C&#39;est une excellente opportunité pour contacter ce représentant et lui recommander de partager le modèle !
+Il s’agit d’un modèle d’email qui n’a pas encore été partagé avec l’équipe, mais qui reçoit un haut niveau d’engagement. Nous vous montrons l’objet du modèle et son créateur. C&#39;est une excellente occasion de contacter ce représentant et de lui recommander de partager le modèle !
 
 ## Engagement le plus élevé {#highest-engagement}
 

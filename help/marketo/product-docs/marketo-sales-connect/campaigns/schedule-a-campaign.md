@@ -23,4 +23,4 @@ Ouvrez le modal Ajouter à Campaign en ajoutant des individus, un groupe ou des 
 
 Après avoir cliqué sur **Suivant**, vous pouvez prévisualiser le premier email.
 
-Après avoir cliqué sur **Suivant** encore une fois, vous aurez la possibilité de choisir le moment où vous souhaitez que votre campagne sorte. Vous pouvez le faire démarrer maintenant ou programmer une heure pour que la campagne commence plus tard.
+Après avoir cliqué de nouveau sur **Suivant**, vous serez redirigé vers une option pour le moment où vous souhaitez que votre campagne sorte. Vous pouvez le faire démarrer maintenant ou programmer une heure pour que la campagne commence plus tard.

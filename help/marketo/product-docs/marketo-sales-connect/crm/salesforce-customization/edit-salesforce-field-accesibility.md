@@ -19,4 +19,4 @@ Si vous ne voyez pas de journal d’activité de courrier électronique à Sales
 
 * Contactez votre administrateur Salesforce pour vous assurer que ces paramètres de sécurité n’interférent pas avec Sales Connect.
 
-* Si vous êtes un administrateur Salesforce, vous pouvez voir votre accessibilité des champs sous l’onglet Contrôles de sécurité . Les principaux champs avec lesquels Sales Connect interagira sont les suivants : Compte, contacts, opportunité, prospect et tâche.
+* Si vous êtes un administrateur Salesforce, vous pouvez voir votre accessibilité des champs sous l’onglet Contrôles de sécurité . Les principaux champs avec lesquels Sales Connect interagira sont les suivants : Compte, Contacts, Opportunité, Lead et Tâche.

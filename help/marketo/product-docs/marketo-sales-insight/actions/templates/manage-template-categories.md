@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## Création d’une catégorie {#create-a-category}
 
-1. Cliquez sur le bouton **Modèles** .
+1. Cliquez sur l’onglet **Modèles** .
 
    ![](assets/manage-template-categories-1.png)
 
-1. Cliquez sur le bouton **+** en regard de **Catégories**.
+1. Cliquez sur l’icône **+** en regard de **Catégories**.
 
    ![](assets/manage-template-categories-2.png)
 
-1. Saisissez le nom de la nouvelle catégorie, puis cliquez sur **Créer**.
+1. Saisissez un nom pour votre nouvelle catégorie, puis cliquez sur **Créer**.
 
    ![](assets/manage-template-categories-3.png)
 
 ## Renommer une catégorie de modèles {#rename-a-template-category}
 
-1. Cliquez sur le bouton **Modèles** .
+1. Cliquez sur l’onglet **Modèles** .
 
    ![](assets/manage-template-categories-4.png)
 
-1. Pointez sur le modèle à renommer, puis cliquez sur le point (trois points). Sélectionner **Renommer**.
+1. Pointez sur le modèle à renommer, puis cliquez sur le point (trois points). Sélectionnez **Renommer**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 ## Suppression d’une catégorie de modèle {#delete-a-template-category}
 
-1. Cliquez sur le bouton **Modèles** .
+1. Cliquez sur l’onglet **Modèles** .
 
    ![](assets/manage-template-categories-7.png)
 
-1. Pointez sur le modèle à renommer, puis cliquez sur le point (trois points). Sélectionner **Supprimer**.
+1. Pointez sur le modèle à renommer, puis cliquez sur le point (trois points). Sélectionnez **Supprimer**.
 
    ![](assets/manage-template-categories-8.png)
 

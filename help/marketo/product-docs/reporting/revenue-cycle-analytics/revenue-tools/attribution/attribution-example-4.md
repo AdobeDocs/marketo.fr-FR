@@ -6,8 +6,8 @@ exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 5%
+source-wordcount: '204'
+ht-degree: 3%
 
 ---
 
@@ -16,16 +16,16 @@ ht-degree: 5%
 Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se trouver dans la grille.
 
 * 11 avril | Michelle télécharge eBook (Content) - Succès
-* 15 avril | John assiste (webinaire) - Succès
+* 15 avril | John assiste (webinaire) - Réussite
 * 22 avril | (Opportunité 1) créée pour 3 000 $
 * 24 avril | (Opportunité 2) créée pour 5 000 $
-* 25 avril | John et Michelle sont associés à **both** Optys
-* 29 avril | [Opt 1] is Closed-Won
+* 25 avril | John et Michelle sont associés à **deux** Optys
+* 29 avril | [Opty 1] is Closed-Won
 
 | Nom du programme | (Contenu) | (Webinaire) |
 |---|---|---|
 |   | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
-| (MT) Opty Created | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
+| (MT) Option créée | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipeline créé | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0</pre>` | `<pre>0.5</pre>` | `<pre>0</pre>` |
 | (MT) Chiffre d’affaires confirmé | `<pre>$1,500</pre>` | `<pre>$0</pre>` | `<pre>$1,500</pre>` | `<pre>$0</pre>` |

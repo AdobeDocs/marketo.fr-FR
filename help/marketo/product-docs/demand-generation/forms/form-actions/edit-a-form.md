@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ Si vous souhaitez apporter des modifications à un formulaire existant, voici co
 
    ![](assets/editform.png)
 
-Simple!
+Simple !

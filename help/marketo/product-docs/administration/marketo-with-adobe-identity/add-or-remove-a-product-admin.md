@@ -5,8 +5,8 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 0%
+source-wordcount: '286'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Système** Les administrateurs ne sont créés qu’au niveau de l’organisation Adobe. Si vous pensez que vous avez besoin de plus d’une personne, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>**Système** Les administrateurs ne sont créés qu’au niveau de l’organisation d’Adobe. Si vous pensez que vous avez besoin de plusieurs services, contactez le [support Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Ajout d’un administrateur de produit {#add-a-product-admin}
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Un administrateur doit être ajouté à un profil de produit pour accéder à Marketo Engage.
 
-1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -30,15 +30,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
-1. Sélectionnez l’abonnement souhaité (si vous en avez plusieurs).
+1. Sélectionnez un abonnement (si vous en avez plusieurs).
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Administrateurs]** .
+1. Cliquez sur l’onglet **[!UICONTROL Admins]** .
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Ajouter un administrateur]** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Ajouter un administrateur]** .
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Cliquez sur le bouton **+** signe. Cliquez sur le chevron en regard de l’abonnement de Marketo Engage souhaité (s’il en existe plusieurs) et sélectionnez le profil de produit souhaité.
+1. Cliquez sur le signe **+**. Cliquez sur le chevron en regard de l’abonnement de Marketo Engage souhaité (s’il en existe plusieurs) et sélectionnez le profil de produit souhaité.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
@@ -70,7 +70,7 @@ L’utilisateur recevra alors deux e-mails. Le premier courrier électronique le
 
 ## Suppression d’un administrateur {#remove-a-user}
 
-1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
@@ -78,15 +78,15 @@ L’utilisateur recevra alors deux e-mails. Le premier courrier électronique le
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
-1. Sélectionnez l’abonnement souhaité (si vous en avez plusieurs).
+1. Sélectionnez un abonnement (si vous en avez plusieurs).
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Administrateurs]** .
+1. Cliquez sur l’onglet **[!UICONTROL Admins]** .
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Sélectionnez l’administrateur à supprimer, puis cliquez sur le bouton **[!UICONTROL Supprimer l’administrateur]** bouton .
+1. Sélectionnez l’administrateur que vous souhaitez supprimer et cliquez sur le bouton **[!UICONTROL Supprimer l’administrateur]** .
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 

@@ -19,11 +19,11 @@ Suivez ces étapes simples pour planifier un email.
 >
 >Pour mettre à jour votre fuseau horaire par défaut, accédez à la page Paramètres .
 
-1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
+1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
 
    ![](assets/one-1.png)
 
-1. Lorsque vous avez terminé de composer votre email, cliquez sur **Planification** en bas à droite
+1. Lorsque vous avez fini de composer votre email, cliquez sur **Planifier** en bas à droite.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ Suivez ces étapes simples pour planifier un email.
 
    ![](assets/three-1.png)
 
-1. Saisissez l’heure à laquelle vous souhaitez que l’email soit envoyé. Sélectionnez le fuseau horaire de votre choix, puis cliquez sur **Enregistrer**. Fermez le planificateur lorsque vous avez terminé.
+1. Saisissez l’heure à laquelle vous souhaitez que l’email soit envoyé. Sélectionnez le fuseau horaire de votre choix et cliquez sur **Enregistrer**. Fermez le planificateur lorsque vous avez terminé.
 
    ![](assets/four-1.png)
 

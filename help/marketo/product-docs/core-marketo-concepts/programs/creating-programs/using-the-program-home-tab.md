@@ -33,7 +33,7 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Cliquez sur **[!UICONTROL Exporter]** au bas du rapport Résumé à télécharger.
+1. Cliquez sur **[!UICONTROL Exporter]** au bas du résumé pour télécharger le rapport.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -43,7 +43,7 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Affichage]** menu déroulant. Sélectionner **[!UICONTROL Utilisé par]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Afficher]** . Sélectionnez **[!UICONTROL Used By]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +57,7 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Affichage]** menu déroulant. Sélectionner **[!UICONTROL Abonnement]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Afficher]** . Sélectionnez **[!UICONTROL Adhésion]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ L’onglet Accueil du programme vous donne une vue d’ensemble de ce qui se pas
 
    >[!NOTE]
    >
-   >**[!UICONTROL Historique]** désigne toute personne qui a déjà suivi le programme, tandis que **[!UICONTROL Actuel]** inclut uniquement les personnes actuellement présentes dans le programme.
+   >**[!UICONTROL Historique]** signifie toute personne qui a jamais suivi le programme, tandis que **[!UICONTROL Actuel]** inclut uniquement les personnes actuellement présentes dans le programme.
 
    >[!MORELIKETHIS]
    >
-   >[Compréhension de l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Comprendre l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

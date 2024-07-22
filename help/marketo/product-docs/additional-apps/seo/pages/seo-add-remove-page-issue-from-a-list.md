@@ -17,11 +17,11 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
 ## Ajout de problèmes de page à une liste {#add-page-issues-to-a-list}
 
-1. Accédez au **[!UICONTROL Pages]** .
+1. Accédez à la section **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Sur le **[!UICONTROL Pages]** , cliquez sur **[!UICONTROL Problèmes]**.
+1. Sur l’onglet **[!UICONTROL Pages]**, cliquez sur **[!UICONTROL Problèmes]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
@@ -35,19 +35,19 @@ Vous pouvez organiser vos problèmes de page en listes. Vous pouvez également s
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans **[!UICONTROL Créer une nouvelle liste]**.
+   >Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans **[!UICONTROL Créer une liste]**.
 
 ## Supprimer un problème de page d’une liste {#remove-page-issue-from-a-list}
 
-1. Accédez au **[!UICONTROL Pages]** .
+1. Accédez à la section **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Dans l’onglet Pages , cliquez sur **[!UICONTROL Problèmes]**.
+1. Dans l’onglet Pages, cliquez sur **[!UICONTROL Problèmes]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Cliquez sur la liste à organiser.
+1. Cliquez sur la liste que vous souhaitez organiser.
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 

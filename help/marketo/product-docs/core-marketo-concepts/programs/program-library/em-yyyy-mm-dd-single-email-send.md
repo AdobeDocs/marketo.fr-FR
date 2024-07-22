@@ -2,11 +2,11 @@
 description: AEM-AAAA-MM-JJ-Envoi de courrier électronique unique - Documents Marketo - Documentation du produit
 title: AEM-AAAA-MM-JJ-Envoi de courrier électronique unique
 feature: Programs
-exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 19%
+source-wordcount: '280'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Cet exemple envoie un seul courrier électronique à l’aide d’un programme de courrier électronique de Marketo Engage. Le courrier électronique peut inclure ou non un test A/B.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -36,7 +36,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -53,12 +53,12 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Envoyer la performance par e-mail</td>
+   <td>Performance des e-mails</td>
   </tr>
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Envoyer la performance lien par e-mail</td>
+   <td>Performance du lien par e-mail</td>
   </tr>
   <tr>
   <tr> 
@@ -69,8 +69,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Ressources : héberge toutes les ressources créatives 
-<br/>(sous-dossiers pour les pages d’entrée et de messagerie)  </td>
+   <td>Assets : héberge toutes les ressources créatives 
+<br/> (sous-dossiers pour les pages d’entrée et de messagerie)  </td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -80,7 +80,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Rapports  </td>
+   <td>Rapports</td>
   </tr>
  </tbody> 
 </table>
@@ -116,17 +116,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
-   * Copier le modèle d’origine
+* **Modèle de page d’entrée avec le même nom**
+   * Copier le modèle d&#39;origine
    * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
    * Conserver les deux fichiers
-   * Remplacer l’élément de cet abonnement - _Recommandé_
+   * Remplacer un élément de cet abonnement - _Recommandé_
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles
@@ -144,4 +144,4 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;01-Engaged&quot; (engagement 01) pour suivre les performances ! Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;01-Engaged&quot; (engagement 01) pour suivre les performances ! Effectuez cette opération _avant_ que votre formulaire soit actif et que les courriers électroniques soient envoyés.

@@ -19,12 +19,12 @@ Vous trouverez ci-dessous sept scénarios et résultats possibles à connaître 
 
 ## Scénarios {#scenarios}
 
-| L’email est envoyé à partir de | La personne est | La personne reçoit un courrier électronique |
+| L’email est envoyé à partir de | La personne est | Personne reçoit un email |
 |---|---|---|
 | Une campagne dans un programme distinct, autonome et par défaut | Pas membre du programme par défaut | Oui |
 | Une campagne dans un programme distinct, autonome et par défaut | Un membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’une diffusion dans le **same** programme CEE | Un membre du programme par défaut | Non |
-| Une campagne dans un programme par défaut qui est déclenchée à partir d’une diffusion dans le **same** programme CEE | Pas membre du programme par défaut | Oui |
-| Une campagne au sein d’un programme par défaut qui est déclenchée à partir d’une diffusion dans un **différent** programme CEE | Un membre du programme par défaut | Non |
-| Une campagne au sein d’un programme par défaut qui est déclenchée à partir d’une diffusion dans un **différent** programme CEE | Pas membre du programme par défaut | Oui |
-| A **différent** Programme CEE utilisant un flux dynamique | Un membre des deux programmes du CEE | Non |
+| Une campagne dans un programme par défaut qui est déclenché à partir d’un cast dans le programme **same** CEE | Un membre du programme par défaut | Non |
+| Une campagne dans un programme par défaut qui est déclenché à partir d’un cast dans le programme **same** CEE | Pas membre du programme par défaut | Oui |
+| Une campagne dans un programme par défaut qui est déclenché à partir d’un diffusion dans un programme **différent** CEE | Un membre du programme par défaut | Non |
+| Une campagne dans un programme par défaut qui est déclenché à partir d’un diffusion dans un programme **différent** CEE | Pas membre du programme par défaut | Oui |
+| Un programme CEE **différent** utilisant un flux dynamique | Un membre des deux programmes du CEE | Non |

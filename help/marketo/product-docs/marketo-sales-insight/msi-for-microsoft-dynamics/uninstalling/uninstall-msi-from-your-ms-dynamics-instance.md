@@ -6,7 +6,7 @@ exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Pour désinstaller MSI de votre instance MS Dynamics, vous devez effectuer les �
 >
 >[Désactiver la synchronisation globale MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Statistiques des ventes**.
+1. Cliquez sur **Sales Insight**.
 
    ![](assets/six.png)
 
@@ -31,11 +31,11 @@ Pour désinstaller MSI de votre instance MS Dynamics, vous devez effectuer les �
 
    ![](assets/seven.png)
 
-1. Sélectionnez la **Désactiver la synchronisation** , puis cliquez sur **Enregistrer**.
+1. Cochez la case **Désactiver la synchronisation** et cliquez sur **Enregistrer**.
 
    >[!NOTE]
    >
-   >Assurez-vous que vous [désactiver la synchronisation globale MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) avant de désactiver la synchronisation des champs.
+   >Assurez-vous de [désactiver la synchronisation globale MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) avant de désactiver la synchronisation des champs.
 
    ![](assets/eight.png)
 
@@ -45,9 +45,9 @@ Pour désinstaller MSI de votre instance MS Dynamics, vous devez effectuer les �
 
 1. Cliquez sur **Solutions**.
 
-1. Sélectionner **Marketo Sales Insight** et cliquez sur l’icône de suppression.
+1. Sélectionnez **Marketo Sales Insight** et cliquez sur l’icône de suppression.
 
-1. Lorsque le modal de désinstallation de la solution s’affiche, cliquez sur **OK**.
+1. Lorsque le modal Désinstaller la solution s’affiche, cliquez sur **OK**.
 
    La désinstallation complète de la solution MS Dynamics prend généralement environ 20 minutes. Cependant, si vous disposez d’une instance MS Dynamics volumineuse, cela peut prendre un peu plus de temps.
 

@@ -21,9 +21,9 @@ Dans l’exemple ci-dessous, vous créez une mesure calculée pour les soft boun
 >
 >Vous avez besoin d’au moins une mesure dans votre rapport, mais il n’est pas nécessaire qu’il s’agisse de l’une des mesures que vous utilisez pour définir votre mesure personnalisée.
 
-1. Extrayez les champs dont vous avez besoin pour votre rapport. Voir [Ajout de champs à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) pour plus d’informations.
+1. Extrayez les champs dont vous avez besoin pour votre rapport. Pour plus d’informations, voir [Ajout de champs à un rapport de l’explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) .
 
-1. Cliquez avec le bouton droit de la souris sur une mesure existante (cellule bleue), puis cliquez sur **Mesure définie par l’utilisateur** et sélectionnez **Mesure calculée**.
+1. Cliquez avec le bouton droit de la souris sur une mesure existante (cellule bleue), cliquez sur **Mesure définie par l’utilisateur** et sélectionnez **Mesure calculée**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ Dans l’exemple ci-dessous, vous créez une mesure calculée pour les soft boun
    >
    >Vous pouvez saisir vous-même les symboles mathématiques ou utiliser la zone de sélection.
 
-1. Lorsque vous avez terminé, cliquez sur **OK**.
+1. Une fois que vous avez terminé, cliquez sur **OK**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

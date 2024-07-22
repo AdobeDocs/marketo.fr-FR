@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Découvrez comment personnaliser l’aspect de votre fenêtre de dialogue de chatbot.
 
-Pour commencer, cliquez sur **Paramètres de chatbot** under **Configuration**.
+Pour commencer, cliquez sur **Paramètres Chatbot** sous **Configuration**.
 
 ![](assets/configuration-1.png)
 
@@ -38,7 +38,7 @@ L’ancre permet aux visiteurs de votre site d’ouvrir/de fermer le cadre de di
 
 ### Paramètres des robots {#agent-settings}
 
-Dans Paramètres des robots, vous pouvez ajouter un libellé à votre chatbox (par exemple : &quot;Assistant d’Adobe&quot;) qui apparaîtra en haut de celui-ci. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour charger votre propre image d’avatar, cliquez sur le bouton **+** bouton .
+Dans Paramètres des robots, vous pouvez ajouter un libellé à votre chatbox (par exemple : &quot;Assistant d’Adobe&quot;) qui apparaîtra en haut de celui-ci. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour télécharger votre propre image d’avatar, cliquez sur le bouton **+** .
 
 ![](assets/configuration-5.png)
 
@@ -46,13 +46,13 @@ Dans Paramètres des robots, vous pouvez ajouter un libellé à votre chatbox (p
 >
 >Les avatars personnalisés doivent être des images carrées inférieures à 256 Ko et inférieures à 200 x 200 pixels. Les types de fichiers pris en charge sont les suivants : .jpg, .png, .gif, .webp, .svg.
 
-Une fois les modifications effectuées, pensez à cliquer sur **Enregistrer**.
+Lorsque vous avez terminé d’apporter des modifications, n’oubliez pas de cliquer sur **Enregistrer**.
 
 ![](assets/configuration-6.png)
 
 ## Onglet Confidentialité {#privacy-tab}
 
-Cliquez sur le bouton **Privacy** pour ajouter/modifier l’URL de la politique de confidentialité de votre site (facultatif).
+Cliquez sur l’onglet **Confidentialité** pour ajouter/modifier l’URL de la politique de confidentialité de votre site (facultatif).
 
 ![](assets/configuration-7.png)
 
@@ -68,4 +68,4 @@ Pour que le chatterbot s’affiche sur votre site web, vous devez d’abord inst
 
 >[!NOTE]
 >
->La prise en charge de Marketo n’est pas configurée pour faciliter le HTML de dépannage. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
+>La prise en charge de Marketo n’est pas configurée pour faciliter le dépannage de l’HTML. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.

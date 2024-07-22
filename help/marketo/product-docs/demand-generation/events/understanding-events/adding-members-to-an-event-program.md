@@ -19,11 +19,11 @@ Cet article s’applique uniquement aux utilisateurs qui utilisent la limite d�
 >
 >L’importation d’une liste de personnes directement dans un programme d’événements empêche ces enregistrements d’être comptabilisés dans les inscriptions réelles dans le rapport Suivi des objectifs et dans le rapport Progression de la limite de l’événement . Suivez les instructions ci-dessous pour vous assurer que vos enregistrements sont comptabilisés.
 
-1. Créez et [ajouter des personnes à une liste statique ;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Créez et [ajoutez des personnes à une liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [Créez une campagne dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Dans la liste dynamique de la campagne dynamique que vous avez créée à l’étape 2, recherchez et ajoutez le **Membre de la liste** filtre.
+1. Dans la liste dynamique de la campagne dynamique que vous avez créée à l’étape 2, recherchez et ajoutez le filtre **Membre de la liste** .
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Cet article s’applique uniquement aux utilisateurs qui utilisent la limite d�
 
    ![](assets/four.png)
 
-1. Dans le flux, recherchez et ajoutez le **Modifier l’état du programme** étape de flux.
+1. Dans Flux, recherchez et ajoutez l’étape de flux **Modifier l’état du programme** .
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ Cet article s’applique uniquement aux utilisateurs qui utilisent la limite d�
 
    ![](assets/eight.png)
 
-1. Sélectionner **Exécuter maintenant** et cliquez sur **Exécuter**.
+1. Sélectionnez **Run Now** et cliquez sur **Run**.
 
    ![](assets/nine.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lorsque vous avez activé Facebook Lead Ads, vous pouvez les utiliser dans vos campagnes intelligentes pour connaître le succès du programme. Lorsque les utilisateurs envoient leurs informations dans une unité de piste Facebook, elles sont immédiatement transmises à Marketo.
 
-1. Utilisez la variable **Remplit le formulaire de publicité de piste** filtre ou déclencheur.
+1. Utilisez le filtre ou le déclencheur **Remplit le formulaire de publicité de piste**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

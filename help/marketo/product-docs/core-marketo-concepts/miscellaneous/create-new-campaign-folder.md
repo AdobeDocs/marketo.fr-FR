@@ -18,19 +18,19 @@ Les dossiers de Campaign vous aident à conserver un espace de travail ordonné.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionner **[!UICONTROL Nouveau]**.
+1. Sélectionnez **[!UICONTROL New]**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Sélectionner **[!UICONTROL Nouveau dossier Campaign]**.
+1. Sélectionnez **[!UICONTROL Nouveau dossier Campaign]**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Saisissez un **[!UICONTROL Nom]** pour le dossier campaign.
+1. Saisissez un **[!UICONTROL Nom]** pour le dossier de campagne.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facultatif : saisissez une **[!UICONTROL Description]** et cliquez sur **[!UICONTROL Créer]**.
+1. Facultatif : Saisissez une **[!UICONTROL description]** et cliquez sur **[!UICONTROL Créer]**.
 
    >[!TIP]
    >
@@ -38,13 +38,13 @@ Les dossiers de Campaign vous aident à conserver un espace de travail ordonné.
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Super! Vous venez de créer un dossier de campagne. Regarde-le dans l&#39;arbre.
+   Super ! Vous venez de créer un dossier de campagne. Regarde-le dans l&#39;arbre.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Maintenant que [création d&#39;un nouveau programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vous verrez ce dossier de campagne comme une option.
+   Désormais, lorsque [vous créerez un nouveau programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vous verrez ce dossier de campagne comme une option.
 
 >[!MORELIKETHIS]
 >
->* [Création d’un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Créer un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Créer une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

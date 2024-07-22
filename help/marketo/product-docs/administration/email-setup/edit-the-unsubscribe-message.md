@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés au bas de la page. Vous pouvez modifier les valeurs par défaut. Voici comment.
+Lorsque vous envoyez des emails marketing (non-[opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés en bas de la page. Vous pouvez modifier les valeurs par défaut. Voici comment.
 
-## Où effectuer la modification {#where-to-make-the-edit}
+## Où modifier {#where-to-make-the-edit}
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
@@ -36,24 +36,24 @@ Lorsque vous envoyez des emails marketing (non[opérationnel](/help/marketo/prod
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. Modifiez la variable **[!UICONTROL Désabonner le HTML]** et **[!UICONTROL Désabonner le texte]** versions à votre convenance et cliquez sur **[!UICONTROL Enregistrer les modifications]**.
+1. Modifiez les versions **[!UICONTROL Désabonner l’HTML]** et **[!UICONTROL Désabonner le texte]** à votre convenance et cliquez sur **[!UICONTROL Enregistrer les modifications]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   Voilà. _Assurez-vous de tester !_ Vous ne souhaitez pas que vos emails marketing aient rompu les liens de désabonnement.
+   Voilà. _Assurez-vous de tester !_ Vous ne souhaitez pas que vos emails marketing aient des liens de désabonnement rompus.
 
 >[!TIP]
 >
->Vous pouvez personnaliser la position du HTML de désabonnement dans votre email à l’aide de l’option [jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Vous pouvez personnaliser la position de l’HTML de désabonnement dans votre email à l’aide de [jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Texte de désabonnement par défaut {#default-unsubscribe-text}
 
 Si vous devez revenir au désabonnement du système par défaut, copiez/collez les éléments suivants :
 
-[!UICONTROL Désabonner le HTML]:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Désabonner le texte]:
+[!UICONTROL Désabonner l’HTML] :
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Désabonner le texte] :
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]
 >
->[Modifier le message &quot;Afficher comme page Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[Modifier le message &quot;Afficher comme page web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)

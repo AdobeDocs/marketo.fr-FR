@@ -27,7 +27,7 @@ Il arrive que vous ne souhaitiez plus que les visiteurs du site envoient des for
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Sous Paramètres du formulaire, cliquez sur **Paramètres**.
+1. Sous Paramètres de formulaire, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 

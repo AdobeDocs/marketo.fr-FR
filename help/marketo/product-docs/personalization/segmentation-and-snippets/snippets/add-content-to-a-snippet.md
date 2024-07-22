@@ -15,19 +15,19 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[Création d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Créer un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Vous pouvez ajouter des jetons, des images, des fichiers ou du texte enrichi à un fragment de code.
 
 >[!NOTE]
 >
->Vous ne pouvez pas incorporer de [Syntaxe des emails Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) dans des fragments de code; it **not** travailler dans un email. Les fragments de code doivent être simplement du contenu du corps (HTML + TEXTE).
+>Vous ne pouvez pas incorporer de [syntaxe d’email Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) dans des fragments de code ; il **ne fonctionnera pas** dans un email. Les fragments de code doivent être simplement du contenu du corps (HTML + TEXTE).
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Sélectionnez votre **Fragment de code** et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre **extrait de code** et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,17 +35,17 @@ Vous pouvez ajouter trois types de contenu à un fragment de code.
 
 ## Ajouter un jeton {#add-token}
 
-1. Faites glisser et déposez le **Jeton** élément .
+1. Faites glisser et déposez l’élément **Token** .
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Entrée **Jeton** et cliquez sur **Insérer**.
+1. Saisissez **Jeton** et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Ajouter une image/un fichier {#add-image-file}
 
-1. Faites glisser et déposez le **Image/Fichier** élément .
+1. Faites glisser et déposez l’élément **Image/File** .
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Vous pouvez ajouter trois types de contenu à un fragment de code.
    >
    >Vous pouvez ajouter vos propres images ou fichiers à Marketo. En savoir plus sur [images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Sélectionnez la **Image** à utiliser et cliquez sur **Insérer**.
+1. Sélectionnez l&#39;**Image** à utiliser et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -63,7 +63,7 @@ Vous pouvez ajouter trois types de contenu à un fragment de code.
 
 ## Ajouter un texte {#add-text}
 
-1. Saisissez dans la zone Version du HTML pour ajouter du texte.
+1. Saisissez dans la zone HTML version pour ajouter du texte.
 
    ![](assets/image2014-9-16-9-3a35-3a43.png)
 
@@ -71,11 +71,11 @@ Vous pouvez ajouter trois types de contenu à un fragment de code.
    >
    >Utilisez les outils de formatage pour personnaliser votre texte.
 
-1. Pour les emails, cliquez sur le bouton **Version du texte** .
+1. Pour les emails, cliquez sur l’onglet **Version de texte** .
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Cliquez sur **Copier à partir du HTML**.
+1. Cliquez sur **Copier depuis l’HTML**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 
@@ -88,4 +88,4 @@ Super ! Vous pouvez désormais créer un large éventail de contenu pour votre e
 >[!MORELIKETHIS]
 >
 >* [Aperçu d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
->* [Approbation d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
+>* [Approuver un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

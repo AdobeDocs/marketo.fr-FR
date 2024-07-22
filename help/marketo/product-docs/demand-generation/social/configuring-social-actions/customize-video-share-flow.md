@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Personnalisation du flux de partage vidéo {#customize-video-share-flow}
 
-Lorsque vous [création d’un partage vidéo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), vous pouvez personnaliser quand et où l’invite de partage s’affiche.
+Lorsque vous [créez un partage vidéo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), vous pouvez personnaliser quand et où l’invite de partage s’affiche.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez l’application, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’application et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 

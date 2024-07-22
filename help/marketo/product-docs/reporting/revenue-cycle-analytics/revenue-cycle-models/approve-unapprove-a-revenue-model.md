@@ -17,11 +17,11 @@ Vous ne pouvez avoir qu’un seul modèle approuvé à un moment donné.
 
 >[!CAUTION]
 >
->[Les différentes étapes doivent être approuvées](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) et des personnes ajoutées avant que vous n’approuviez un modèle entier.
+>[Les différentes étapes doivent être approuvées](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) et les personnes ajoutées avant d’approuver un modèle entier.
 
 ## Approuver {#approve}
 
-1. Accédez au **Analytics** zone.
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Vous ne pouvez avoir qu’un seul modèle approuvé à un moment donné.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Dans la **Actions de modèle** menu, choisissez **Approuver le modèle**.
+1. Dans le menu **Actions de modèle**, choisissez **Approuver le modèle**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Une boîte de dialogue s’affiche pour confirmer votre choix. Cliquez sur **Approuver**.
+1. Une boîte de dialogue s’affiche pour confirmer votre choix. Cliquez sur **Approve**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Votre modèle est maintenant en ligne !
 >
 >Si vous n’approuvez pas votre modèle, toutes vos personnes sont retirées du modèle, et leur historique dans le modèle est supprimé !
 
-1. Accédez au **Analytics** zone.
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Votre modèle est maintenant en ligne !
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Cliquez sur le bouton **Actions de modèle** et choisissez **Modèle non approuvé**.
+1. Cliquez sur le menu **Actions du modèle** et sélectionnez **Ne plus approuver le modèle**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Dans la boîte de dialogue qui s’affiche, cliquez sur **Modèle non approuvé**.
+1. Dans la boîte de dialogue qui s’affiche, cliquez sur **Annuler l’approbation du modèle**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

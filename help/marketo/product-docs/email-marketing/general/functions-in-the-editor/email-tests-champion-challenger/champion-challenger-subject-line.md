@@ -17,17 +17,17 @@ Vous pouvez facilement tester plusieurs objets. Lorsque le test est terminé, en
 
 >[!PREREQUISITES]
 >
->[Ajout d’un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Dans l’éditeur de test d’email, sélectionnez **Objet** dans le **Type de test** menu déroulant.
+1. Dans l’éditeur de test d’email, sélectionnez **Objet** dans la liste déroulante **Type de test**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Dans un test d’objet, la première ligne d’objet saisie est désignée comme **Champion**. Les objets suivants sont appelés **Challengers**.
+   >Dans un test d’objet, la première ligne d’objet entrée est désignée comme **Champion**. Les lignes d’objet suivantes sont appelées **Challengers**.
 
-1. Entrez l’objet du **Challengers**.
+1. Saisissez l’objet pour le **Challengers**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -55,4 +55,4 @@ Vous pouvez facilement tester plusieurs objets. Lorsque le test est terminé, en
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : Définir les critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

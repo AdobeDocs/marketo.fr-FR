@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Vous pouvez activer/désactiver CAPTCHA par formulaire.
 
-1. Recherchez et sélectionnez le formulaire de votre choix.
+1. Recherchez et sélectionnez le formulaire souhaité.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Cliquez sur **Modifier le brouillon** (si le formulaire est déjà approuvé, cliquez sur Créer un brouillon).
+1. Cliquez sur **Modifier le brouillon** (si le formulaire est déjà approuvé, cliquez sur Créer le brouillon).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Cliquez sur **Paramètres de formulaire**, puis **Paramètres**.
+1. Cliquez sur **Paramètres de formulaire**, puis sur **Paramètres**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 

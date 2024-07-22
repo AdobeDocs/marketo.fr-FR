@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377958
 description: Historique de connexion des utilisateurs - Documents Marketo - Documentation du produit
-title: Historique de connexion des utilisateurs
+title: Historique de connexion de l’utilisateur
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '179'
+ht-degree: 2%
 
 ---
 
-# Historique de connexion des utilisateurs {#user-login-history}
+# Historique de connexion de l’utilisateur {#user-login-history}
 
 L’ historique de connexion des utilisateurs permet de garantir la responsabilité et la sécurité en vous indiquant précisément qui s’est connecté à votre abonnement, y compris les tentatives de connexion ayant échoué.
 
@@ -29,7 +29,7 @@ L’ historique de connexion des utilisateurs identifie les personnes qui se con
 
 Pour afficher l’historique de connexion de l’utilisateur :
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/user-login-history-1.png)
 
@@ -37,7 +37,7 @@ Pour afficher l’historique de connexion de l’utilisateur :
 
    ![](assets/user-login-history-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Historique de connexion]** . La liste affiche les connexions les plus récentes.
+1. Cliquez sur l’onglet **[!UICONTROL Historique de connexion]** . La liste affiche les connexions les plus récentes.
 
    ![](assets/user-login-history-3.png)
 
@@ -53,15 +53,15 @@ Pour afficher l’historique de connexion de l’utilisateur :
 
    ![](assets/user-login-history-6.png)
 
-1. Sélectionnez les utilisateurs dans le **[!UICONTROL Utilisateurs]** menu déroulant.
+1. Sélectionnez les utilisateurs dans la liste déroulante **[!UICONTROL Utilisateurs]** .
 
    ![](assets/user-login-history-7.png)
 
-1. Vérifiez les **[!UICONTROL Uniquement les connexions ayant échoué]** pour afficher uniquement les connexions ayant échoué dans votre recherche.
+1. Cochez la case **[!UICONTROL Uniquement les connexions ayant échoué]** pour afficher uniquement les connexions ayant échoué dans votre recherche.
 
    ![](assets/user-login-history-8.png)
 
-1. Cliquez sur **[!UICONTROL Appliquer]**.
+1. Cliquez sur **[!UICONTROL Apply]**.
 
    ![](assets/user-login-history-9.png)
 
@@ -71,4 +71,4 @@ Pour afficher l’historique de connexion de l’utilisateur :
 
    >[!MORELIKETHIS]
    >
-   >[Présentation du journal d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[Aperçu du journal d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

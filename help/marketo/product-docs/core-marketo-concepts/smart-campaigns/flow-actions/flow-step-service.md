@@ -1,18 +1,18 @@
 ---
 description: Service Flux - Documents Marketo - Documentation du produit
-title: Service d’étape de flux
+title: Étape de déroulement du service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
 
-# Service d’étape de flux {#flow-step-service}
+# Étape de déroulement du service {#flow-step-service}
 
-Les étapes de flux en libre-service constituent une structure et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous au [Référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Les étapes de flux en libre-service constituent une structure et un ensemble de fonctionnalités permettant de créer, de publier et d’intégrer des services web dans des campagnes dynamiques Adobe Marketo Engage. Ce guide est destiné aux utilisateurs finaux Marketo Engage qui souhaitent installer et utiliser des services qui ont déjà été créés et publiés. Pour plus d’informations sur la création et la publication de votre propre service, reportez-vous au [référentiel GitHub pour l’interface du fournisseur de services](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Une implémentation de table de recherche de preuve de concept se trouve [ici](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Intégration et gestion des services {#onboarding-and-managing-services}
 
@@ -20,7 +20,7 @@ L’installation d’une étape de flux personnalisé nécessite des autorisatio
 
 ## URL d’installation {#installation-url}
 
-Pour commencer l’installation, vous devez d’abord obtenir l’URL du document OpenAPI qui définit votre service. Votre fournisseur de services doit être en mesure de vous fournir cette information et aura généralement une URL se terminant par `/openapi.json`. Les URL complètes ressembleront à `https://www.example.com/OpenAPI.json`. Une fois que vous disposez de cette URL, accédez au menu Fournisseurs de services de votre section d’administration.
+Pour commencer l’installation, vous devez d’abord obtenir l’URL du document OpenAPI qui définit votre service. Votre fournisseur de services doit être en mesure de vous le fournir et aura généralement une URL se terminant par `/openapi.json`. Les URL complètes ressembleront à `https://www.example.com/OpenAPI.json`. Une fois que vous disposez de cette URL, accédez au menu Fournisseurs de services de votre section d’administration.
 
 Cliquez sur **[!UICONTROL Suivant]** pour accéder à la section Entrer les informations d’identification du service .
 
@@ -28,7 +28,7 @@ Cliquez sur **[!UICONTROL Suivant]** pour accéder à la section Entrer les info
 
 ## Entrer les informations d’identification du service {#enter-service-credentials}
 
-Pour accéder au service en cours d’installation, Marketo doit disposer d’informations d’identification d’API valides. Ces informations d’identification doivent vous être fournies par votre fournisseur de services. Les services disposent de trois options d’authentification différentes. Vous pouvez donc voir l’une des trois invites d’identification différentes : **Clé API** qui ne comporte qu&#39;un seul champ de saisie, **Authentification de base** qui nécessite un nom d’utilisateur et un mot de passe et peut également nécessiter un champ appelé Domaine, et **OAuth2** en utilisant la variable _Informations d’identification client_ qui nécessite une _ID client_ et _Secret du client_.
+Pour accéder au service en cours d’installation, Marketo doit disposer d’informations d’identification d’API valides. Ces informations d’identification doivent vous être fournies par votre fournisseur de services. Les services disposent de trois options d’authentification différentes. Vous pouvez donc voir l’une des trois invites d’identification : **Clé API** qui ne comporte qu’un seul champ d’entrée, **Authentification de base** qui nécessite un nom d’utilisateur et un mot de passe, ainsi qu’un champ appelé Realm, et **OAuth2** à l’aide de l’octroi _Informations d’identification client_ qui nécessite un _ID client ID} et un_} ID  _Client Secret_.
 
 Lorsque vous enregistrez vos informations d’identification, Marketo tente d’appeler le point de terminaison d’état du service pour vérifier qu’elles sont valides. Si les informations d’identification fournies sont incorrectes, une erreur s’affiche pour vous l’indiquer.
 
@@ -38,7 +38,7 @@ Certains fournisseurs de services incluent une étape facultative du guide d’i
 
 ## Appariement des champs {#field-mapping}
 
-Pour recevoir ou renvoyer des données d’un champ de piste spécifique, ce champ doit être mappé. Bien que le mappage soit une étape requise lors de l’intégration, vous pouvez toujours revenir à la modification ultérieure des mappages. Deux types de mappages sont configurés dans des écrans distincts : **Champs sortants**, qui sont envoyés au service lorsque Marketo appelle l’étape de flux, et **Champs entrants** qui sont des champs pouvant recevoir des données du service lorsqu’il renvoie des données à Marketo.
+Pour recevoir ou renvoyer des données d’un champ de piste spécifique, ce champ doit être mappé. Bien que le mappage soit une étape requise lors de l’intégration, vous pouvez toujours revenir à la modification ultérieure des mappages. Il existe deux types de mappages configurés dans des écrans distincts : **Champs sortants**, qui sont envoyés au service lorsque Marketo appelle l’étape de flux, et **Champs entrants** qui sont des champs pouvant recevoir des données du service lorsqu’il renvoie des données à Marketo.
 
 >[!NOTE]
 >
@@ -48,13 +48,13 @@ Les mappages de champs facultatifs peuvent être désactivés sans interruption 
 
 ## Mappages pilotés par le service {#service-driven-mappings}
 
-Les services qui comportent un ensemble fixe d’entrées et de sorties, comme une étape de flux d’enregistrement d’événement, utilisent **Mappages pilotés par le service**. Pour ce type de mappage, le fournisseur de services fournira un type de données et un indice sous la forme d’un nom d’API. Si l’indice correspond au nom de l’API d’un champ de piste existant, ce champ est automatiquement renseigné dans la section de mappage. Pour les champs sans indice correspondant, vous devez renseigner manuellement le mappage à partir de la liste des champs avec le type de données correspondant. Les mappages requis doivent être renseignés pour terminer l’intégration.
+Les services qui comportent un ensemble fixe d’entrées et de sorties, comme une étape de flux d’enregistrement d’événement, utilisent des **mappages pilotés par le service**. Pour ce type de mappage, le fournisseur de services fournira un type de données et un indice sous la forme d’un nom d’API. Si l’indice correspond au nom de l’API d’un champ de piste existant, ce champ est automatiquement renseigné dans la section de mappage. Pour les champs sans indice correspondant, vous devez renseigner manuellement le mappage à partir de la liste des champs avec le type de données correspondant. Les mappages requis doivent être renseignés pour terminer l’intégration.
 
 ![](assets/flow-step-service-2.png)
 
 ## Mappages pilotés par l’utilisateur {#user-driven-mappings}
 
-Les services qui n’ont pas de jeu fixe d’entrées et de sorties, comme un service de formatage de date, utilisent **Mappages pilotés par l’utilisateur**. Cela signifie que chaque champ entrant et sortant doit être configuré par un administrateur.
+Les services qui n’ont pas de jeu fixe d’entrées et de sorties, comme un service de mise en forme de date, utilisent des **mappages pilotés par l’utilisateur**. Cela signifie que chaque champ entrant et sortant doit être configuré par un administrateur.
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +74,7 @@ Certains services disposent d’options de configuration globales facultatives o
 
 ## Retrait d’un service {#retiring-a-service}
 
-Pour faciliter la transition vers des versions nouvelles ou alternatives d’un service, sans interrompre l’utilisation active, les services peuvent être retirés du menu Fournisseurs de services . **Retrait d’un service** supprime l’étape de flux correspondante de la palette Flux de campagne dynamique, de sorte qu’aucune nouvelle utilisation ne puisse être créée. Dans la plupart des cas, un service de remplacement doit être prêt à remplacer le service existant lorsque vous choisissez de retirer un service.
+Pour faciliter la transition vers des versions nouvelles ou alternatives d’un service, sans interrompre l’utilisation active, les services peuvent être retirés du menu Fournisseurs de services . **Le retrait d’un service** supprime l’étape de flux correspondante de la palette Flux de campagne dynamique, de sorte qu’aucune nouvelle utilisation ne puisse être créée. Dans la plupart des cas, un service de remplacement doit être prêt à remplacer le service existant lorsque vous choisissez de retirer un service.
 
 ## Abandon de service {#service-deprecation}
 
@@ -102,6 +102,6 @@ Contrairement à la plupart des autres étapes de flux, celles implémentées av
 
 Chaque service d’étape de flux est associé à plusieurs types de journalisation afin de surveiller l’intégrité et de résoudre les problèmes liés à l’intégration.
 
-## Statistiques de service {#service-statistics}
+## Service Statistics {#service-statistics}
 
 Le journal des statistiques de service regroupe les résultats des appels et des rappels pour chaque service. Ils sont regroupés par heure, niveau (bloc ou enregistrement) et code, et fournissent les décomptes et le message de journal le plus récent pour chaque code reçu. Ce tableau de bord est principalement conçu pour faciliter la surveillance de l’intégrité des services.

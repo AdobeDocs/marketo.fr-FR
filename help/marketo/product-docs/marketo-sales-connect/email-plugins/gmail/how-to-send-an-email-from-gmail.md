@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Sélectionnez un modèle d&#39;email ou écrivez un nouveau message.
 
-1. Lorsque votre email est prêt à être envoyé, cliquez sur le **Send &amp; Connect** bouton . En cliquant sur ce bouton au lieu du bouton d’envoi normal, vous vous assurez que votre email est envoyé avec le suivi appliqué. Sales Connect effectue le suivi à l’ouverture de votre email et lorsqu’un utilisateur clique sur un lien.
+1. Lorsque votre email est prêt à être envoyé, cliquez sur le bouton **Send &amp; Connect** . En cliquant sur ce bouton au lieu du bouton d’envoi normal, vous vous assurez que votre email est envoyé avec le suivi appliqué. Sales Connect effectue le suivi à l’ouverture de votre email et lorsqu’un utilisateur clique sur un lien.

@@ -5,8 +5,8 @@ exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 19%
+source-wordcount: '233'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via l’ [Package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
+>Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via le [package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 <table>
   <th>Fonctionnalité</th>
@@ -28,9 +28,9 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
   <td>1 500 000 personnes</td>
  </tr>
  <tr>
-  <td>Courrier électronique commercial envoyé</td>
+  <td>Courriers électroniques de vente envoyés</td>
   <td>par utilisateur/par jour</td>
-  <td>1000</td>
+  <td>1 000</td>
  </tr>
  <tr>
   <td>Courrier électronique de vente en bloc</td>
@@ -40,7 +40,7 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
  <tr>
   <td>Modèles d'e-mail</td>
   <td>par instance</td>
-  <td>2,000</td>
+  <td>2 000</td>
  </tr>
  <tr>
   <td>Catégories de modèles de courrier électronique</td>
@@ -102,7 +102,7 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
   <td>25</td>
  </tr>
  <tr>
-  <td>Sièges d’utilisateur</td>
+  <td>Sièges utilisateur</td>
   <td>par instance</td>
   <td>100</td>
  </tr>

@@ -14,7 +14,7 @@ ht-degree: 52%
 
 # Glossaire des icônes {#new-icon-glossary}
 
-Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [se trouve ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Vous trouverez ci-dessous les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous devez référencer les icônes de Marketo Classic, elles peuvent être [trouvées ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Icônes générales {#general-icons}
 

@@ -18,7 +18,7 @@ Marketo Engage offre un contrôle spécifique sur la synchronisation des objets 
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **[!UICONTROL Administration]**, puis **[!UICONTROL Synchronisation des objets Veeva]**.
+1. Cliquez sur **[!UICONTROL Admin]**, puis sur **[!UICONTROL Synchronisation des objets Veeva]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -38,7 +38,7 @@ Marketo Engage offre un contrôle spécifique sur la synchronisation des objets 
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. Cochez les cases en regard des contraintes de filtre/déclenchement souhaitées, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez les cases en regard des contraintes de filtre/déclenchement souhaitées et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ Marketo Engage offre un contrôle spécifique sur la synchronisation des objets 
    >
    >Tous les champs sont sélectionnés par défaut pour être des contraintes sur les filtres.
 
-1. Cliquez sur le bouton **[!UICONTROL Champs]** pour confirmer vos modifications.
+1. Cliquez sur l’onglet **[!UICONTROL Champs]** pour confirmer vos modifications.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 
@@ -58,4 +58,4 @@ Vos listes intelligentes et campagnes intelligentes disposent désormais d’une
 
 >[!MORELIKETHIS]
 >
->[Activer/Désactiver la synchronisation d’objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}
+>[Activer/Désactiver la synchronisation d’objet personnalisé](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}

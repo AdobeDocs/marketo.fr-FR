@@ -25,7 +25,7 @@ Dans le coin supérieur droit de l’écran de la boîte de réception de l’ag
 
 >[!IMPORTANT]
 >
->**Cette opération remplace** la valeur [disponibilité du chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que vous avez défini dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
+>**Cela remplacera** la [disponibilité de la conversation en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que vous avez définie dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Dans le coin supérieur droit de l’écran de la boîte de réception de l’ag
 
 ## Notifications de tchat en direct {#live-chat-notifications}
 
-En savoir plus sur les notifications dans [Présentation de la messagerie instantanée](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Pour en savoir plus sur les notifications, consultez la [présentation de la messagerie instantanée](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversations {#conversations}
 
@@ -53,7 +53,7 @@ Sur le côté droit de l’écran de boîte de réception de l’agent, vous pou
 
 ## Fin d’une session {#end-a-session}
 
-Les agents peuvent mettre fin manuellement à une session en cliquant simplement sur le bouton **Fin de session** en regard des informations sur le visiteur.
+Les agents peuvent mettre fin manuellement à une session en cliquant simplement sur le bouton **Terminer la session** en regard des informations sur le visiteur.
 
 ![](assets/agent-inbox-6.png)
 
@@ -75,7 +75,7 @@ Au bas de la fenêtre de conversation en direct se trouve une icône qui vous pe
 
    ![](assets/agent-inbox-8.png)
 
-1. Sélectionnez le calendrier de l’agent de votre choix, puis cliquez sur **Envoyer**.
+1. Choisissez le calendrier de l&#39;agent désiré et cliquez sur **Envoyer**.
 
    ![](assets/agent-inbox-9.png)
 

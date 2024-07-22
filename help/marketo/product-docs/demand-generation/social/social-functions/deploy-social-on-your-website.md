@@ -19,17 +19,17 @@ Incorporez les applications sociales à vos pages autres que Marketo.
 >
 >Pour plus d’informations, contactez votre représentant commercial.
 
-Vous pouvez déployer des applications sociales sur votre propre site web afin d’impliquer votre audience et de faire participer tout le monde à la conversation générale sur les réseaux sociaux. Lorsque des personnes partagent vos promotions et vos contenus avec leurs amis sur les réseaux sociaux, vous générez plus de trafic sur votre site.
+Vous pouvez déployer des applications sociales sur votre propre site web afin d’impliquer votre audience et de faire participer tout le monde à la conversation générale sur les réseaux sociaux. À mesure que les visiteurs partagent vos promotions et vos contenus avec leurs amis sur les réseaux sociaux, vous générez plus de trafic sur votre site.
 
 1. Sélectionnez une application sociale approuvée, telle qu’une vidéo YouTube ou un bouton Social .
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Sélectionner **Code incorporé** dans les actions de l’application Social.
+1. Sélectionnez **Code incorporé** dans les actions de l’application sociale.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copiez le code de l’en-tête de page de votre site (`<head>`) et corps (`<body>`).
+1. Copiez le code de l’en-tête de page de votre site (`<head>`) et du corps (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +41,7 @@ Vous pouvez déployer des applications sociales sur votre propre site web afin d
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Si vous devez définir la taille de l’application sociale sur des dimensions spécifiques de votre page, ajoutez la variable **outerHeight** et **outerWidth** options du deuxième fragment de code. Par exemple, vous pouvez ajouter `options='{"outerHeight":400, "outerWidth":600}'`, comme dans :
+1. Si vous devez définir la taille de l’application sociale sur des dimensions spécifiques de votre page, ajoutez les options **outerHeight** et **outerWidth** au deuxième fragment de code. Par exemple, vous pouvez ajouter `options='{"outerHeight":400, "outerWidth":600}'`, comme dans :
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -49,6 +49,6 @@ Vous pouvez déployer des applications sociales sur votre propre site web afin d
 
    >[!MORELIKETHIS]
    >
-   >* [Bouton Personnaliser l’application sociale](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [ Bouton Personnaliser l’application sociale ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
    >* [Définition de l’exigence de partage sur les réseaux sociaux](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [Publication de pages d’entrée sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Pages d’entrée Publish vers Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)

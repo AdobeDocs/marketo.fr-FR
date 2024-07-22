@@ -5,7 +5,7 @@ exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '259'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Voici comment configurer votre intégration d’événement ON24.
 
 ## Création d’un rôle API uniquement {#create-an-api-only-role}
 
-1. Dans Mon Marketo, cliquez sur **Administration**.
+1. Dans Mon Marketo, cliquez sur **Admin**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
@@ -24,17 +24,17 @@ Voici comment configurer votre intégration d’événement ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. Cliquez sur le bouton **Rôles** puis **Nouveau rôle**.
+1. Cliquez sur l’onglet **Rôles** , puis sur **Nouveau rôle**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. Saisissez un Nom de rôle. Ouvrez le **Accès à l’API** et sélectionnez &quot;Lecture-Écriture d’objet personnalisé&quot; et &quot;Lecture-Écriture de personne&quot;. Cliquez sur **Créer**.
+1. Saisissez un Nom de rôle. Ouvrez le menu **Access API** et sélectionnez &quot;Read-Write Custom Object&quot; et &quot;Read-Write Persson&quot;. Cliquez sur **Créer**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## Création d’un utilisateur {#create-a-new-user}
 
-1. Toujours dans Utilisateurs et rôles, cliquez sur **Utilisateurs** et cliquez sur **Inviter un nouvel utilisateur**.
+1. Toujours dans Utilisateurs et rôles, cliquez sur l’onglet **Utilisateurs** et cliquez sur **Inviter un nouvel utilisateur**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
@@ -42,11 +42,11 @@ Voici comment configurer votre intégration d’événement ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Sélectionnez le rôle API uniquement ON24 que vous venez de créer. Sélectionnez la **API uniquement** . Cliquez sur **Suivant**.
+1. Sélectionnez le rôle API uniquement ON24 que vous venez de créer. Cochez la case **API Only** . Cliquez sur **Suivant**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. Cliquez sur **Envoyer**.
+1. Cliquez sur **Send**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -60,11 +60,11 @@ Voici comment configurer votre intégration d’événement ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. Cliquez sur **Nouveau** then **Nouveau service**.
+1. Cliquez sur **New** , puis sur **New Service**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Choisissez un nom d’affichage. Cliquez sur le bouton **Service** et sélectionnez **Personnalisé**. Saisissez une description. Cliquez sur le menu déroulant API Only User et sélectionnez l’utilisateur que vous avez créé. [dans les étapes ci-dessus](#create-a-new-user). Cliquez sur **Créer**.
+1. Choisissez un nom d’affichage. Cliquez sur la liste déroulante **Service** et sélectionnez **Personnalisé**. Saisissez une description. Cliquez sur le menu déroulant API Only User et sélectionnez l’utilisateur que vous avez créé [dans les étapes ci-dessus](#create-a-new-user). Cliquez sur **Créer**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -84,4 +84,4 @@ Voici comment configurer votre intégration d’événement ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. Avec votre identifiant client enregistré, votre secret client et votre identité, accédez à votre compte ON24. Le reste des étapes y est exécuté et sont [présenté ici](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. Avec votre identifiant client enregistré, votre secret client et votre identité, accédez à votre compte ON24. Le reste des étapes y sont effectuées et sont [décrites ici](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.

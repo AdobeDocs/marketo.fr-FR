@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajout d’un rectangle à une page d’entrée de forme libre {#adding-a-rectangle-to-a-free-form-landing-page}
 
-Les rectangles sur les landing pages sont idéaux pour mettre en surbrillance une zone du texte.
+Les rectangles sur les landing pages permettent de mettre en surbrillance une zone du texte.
 
 1. Sélectionnez une landing page de forme libre et cliquez sur **Modifier le brouillon**.
 
@@ -23,15 +23,15 @@ Les rectangles sur les landing pages sont idéaux pour mettre en surbrillance un
    >
    >Le concepteur de landing page de forme libre s’ouvre dans une nouvelle fenêtre.
 
-1. Faites glisser le curseur de la souris **Rectangle** élément .
+1. Faites glisser le pointeur de la souris sur l’élément **Rectangle** .
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Sélectionnez votre rectangle et utilisez le **Feuille de propriété** pour apporter les modifications nécessaires.
+1. Sélectionnez votre rectangle et utilisez la **feuille de propriétés** pour apporter les modifications nécessaires.
 
    >[!TIP]
    >
-   >Vous pouvez déplacer et redimensionner le rectangle par glisser-déplacer. Essayez également les flèches du clavier ! Conseil : Appuyez sur la touche Maj enfoncée pour déplacer le rectangle de 10 px à la fois.
+   >Vous pouvez déplacer et redimensionner le rectangle par glisser-déplacer. Essayez également les flèches du clavier ! Conseil : appuyez sur la touche Maj pour déplacer le rectangle de 10 px à la fois.
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 

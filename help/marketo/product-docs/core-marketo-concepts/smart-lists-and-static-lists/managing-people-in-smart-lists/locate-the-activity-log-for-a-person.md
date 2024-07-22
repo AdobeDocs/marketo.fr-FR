@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Le journal d’activité est la source ultime de vérité. C&#39;est l&#39;histoire complète du parcours d&#39;une personne en Marketo Engage.
 
-1. Accédez au **[!UICONTROL Base]**.
+1. Accédez à la **[!UICONTROL base de données]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Sélectionner **[!UICONTROL Toutes les personnes]**.
+1. Sélectionnez **[!UICONTROL Toutes les personnes]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Personnes]** . Sélection d’une personne **[!UICONTROL Id]** Nombre.
+1. Cliquez sur l’onglet **[!UICONTROL Personnes]** . Sélectionnez un numéro de personne **[!UICONTROL Id]**.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
@@ -49,4 +49,4 @@ Vous devez exporter le journal des activités d’une personne vers Excel ?
 
    >[!MORELIKETHIS]
    >
-   >En savoir plus sur [filtrage du journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} pour afficher des activités de personne spécifiques.
+   >En savoir plus sur le [filtrage du journal des activités](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} pour afficher des activités de personnes spécifiques.

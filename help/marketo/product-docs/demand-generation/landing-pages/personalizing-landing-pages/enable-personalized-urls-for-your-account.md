@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **Administration** et cliquez sur **Pages d’entrée**.
+1. Accédez à la section **Admin** et cliquez sur **Pages d’entrée**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
@@ -27,11 +27,11 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Vérifiez les **Activer les URL personnalisées** puis cliquez sur **Enregistrer**.
+1. Cochez la case **Activer les URL personnalisées** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez l’activer pour des landing pages individuelles.
+Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez l’activer pour des pages d’entrée individuelles.
 
 >[!NOTE]
 >

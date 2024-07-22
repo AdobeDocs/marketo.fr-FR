@@ -6,8 +6,8 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 6%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ Vous devrez télécharger et installer une solution de Marketo Engage dans votre
 
 >[!CAUTION]
 >
->Vous devez impérativement télécharger la dernière solution Marketo. _before_ effectuer toute mise à niveau.
+>Vous devez impérativement télécharger la dernière solution Marketo _avant_ d’effectuer une mise à niveau.
 
 >[!NOTE]
 >
 >Marketo ne prend en charge que les certificats SSL compatibles avec Java 7 pour le moment.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -35,11 +35,11 @@ Vous devrez télécharger et installer une solution de Marketo Engage dans votre
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Sélectionner **[!DNL Microsoft]**.
+1. Sélectionnez **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Sélectionner **[!UICONTROL Télécharger la solution Marketo]**.
+1. Sélectionnez **[!UICONTROL Télécharger la solution Marketo]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
@@ -47,4 +47,4 @@ Vous devrez télécharger et installer une solution de Marketo Engage dans votre
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-Super! Un fichier zip de la solution sera désormais téléchargé sur votre appareil.
+Super ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil.

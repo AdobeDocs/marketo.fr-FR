@@ -5,8 +5,8 @@ exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 1%
+source-wordcount: '224'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,6 @@ Les performances des modèles AI/ML reposent sur les données de votre abonnemen
 
 Les audiences prédictives sont automatiquement incluses et activées pour les instances utilisant des lots de tarification Prime ou Ultimate. Pour en savoir plus sur l’accès à cette fonctionnalité, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
 
-1. Une fois la fonctionnalité ajoutée à votre instance, accédez à la **[!UICONTROL Audiences prédictives]** dans la **[!UICONTROL Administration]** de Marketo.
+1. Une fois la fonctionnalité ajoutée à votre instance, accédez à la page **[!UICONTROL Predictive Audiences]** dans la zone **[!UICONTROL Admin]** de Marketo.
 
-1. Vérifier **[!UICONTROL Activation des audiences prédictives]** pour activer la fonction. Notez que la configuration de tous les processus peut prendre jusqu’à 24 heures.
+1. Cochez **[!UICONTROL Activer les audiences prédictives]** pour activer la fonctionnalité. Notez que la configuration de tous les processus peut prendre jusqu’à 24 heures.

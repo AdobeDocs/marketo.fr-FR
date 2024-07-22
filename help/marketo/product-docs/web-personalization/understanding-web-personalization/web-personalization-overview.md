@@ -1,33 +1,33 @@
 ---
 unique-page-id: 3571900
-description: Présentation de la personnalisation web - Documents Marketo - Documentation du produit
-title: Présentation de la personnalisation web
+description: Présentation de Web Personalization - Documents Marketo - Documentation du produit
+title: Présentation de Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '836'
 ht-degree: 2%
 
 ---
 
-# Présentation de la personnalisation web {#web-personalization-overview}
+# Présentation de Web Personalization {#web-personalization-overview}
 
 ## Introduction {#introduction}
 
-Pour les nouveaux clients Marketo, la personnalisation en temps réel est divisée en quatre applications, accessibles à l’aide de ces deux mosaïques : Personnalisation web et ContentAI.
+Pour les nouveaux clients Marketo, le Personalization en temps réel est divisé en quatre applications, accessibles à l’aide de ces deux mosaïques : Web Personalization et ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->La personnalisation web et ContentAI sont disponibles dans toutes les langues prises en charge par Marketo (anglais, français, allemand, japonais, portugais, espagnol).
+>Web Personalization et ContentAI sont disponibles dans toutes les langues prises en charge par Marketo (anglais, français, allemand, japonais, portugais, espagnol).
 
-Les clients existants continuent d’accéder aux applications par le biais de la mosaïque Personnalisation en temps réel jusqu’au renouvellement, auquel moment ils utiliseront la connexion ci-dessus.
+Les clients existants continuent d’accéder aux applications par le biais de la mosaïque Personalization en temps réel jusqu’au renouvellement, auquel moment ils utiliseront la connexion ci-dessus.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Lorsque vous cliquez sur la mosaïque Personnalisation Web, la page Tableau de bord s’affiche. Cliquez sur la mosaïque ContentAI et accédez directement à la page Content Recommendations.
+Lorsque vous cliquez sur la mosaïque Personalization Web, la page Tableau de bord s’affiche. Cliquez sur la mosaïque ContentAI et accédez directement à la page Content Recommendations.
 
 Les quatre applications sont les suivantes :
 
@@ -36,17 +36,17 @@ Les quatre applications sont les suivantes :
 * Reciblage de site Web
 * ContentAI
 
-Le **Personnalisation web** La mosaïque est votre point d’accès pour créer des campagnes web personnalisées. Marketing Web basé sur les comptes et reciblage Web. Vous pouvez ajouter du contenu à la page Content Analytics.
+La mosaïque **Personalization Web** est votre point d’accès pour créer des campagnes Web personnalisées. Marketing Web basé sur les comptes et reciblage Web. Vous pouvez ajouter du contenu à la page Content Analytics.
 
-**Marketing web basé sur un compte** fonctionne avec la personnalisation web et les fonctions Comptes nommés. La page Comptes nommés fournit des informations graphiques sur les clients existants, le total des engagements et les tendances organisationnelles, ainsi qu’une liste des comptes. Vous pouvez également y créer des comptes nommés.
+**Le marketing web basé sur un compte** fonctionne avec le Personalization web et dispose de comptes nommés. La page Comptes nommés fournit des informations graphiques sur les clients existants, le total des engagements et les tendances organisationnelles, ainsi qu’une liste des comptes. Vous pouvez également y créer des comptes nommés.
 
-**Reciblage de site web** vous donne la possibilité de recommercialiser des audiences segmentées. Vous pouvez définir des segments, mais pas utiliser de comptes nommés dans le filtre.
+**Le reciblage de site web** vous donne la possibilité de remarketing vers des audiences segmentées. Vous pouvez définir des segments, mais pas utiliser de comptes nommés dans le filtre.
 
 **ContentAI** est l’emplacement où donner des recommandations de contenu. Vous pouvez ajouter facilement du contenu à la page Recommendations de contenu.
 
 >[!NOTE]
 >
->Pour accéder au marketing web basé sur un compte ou au reciblage de site web, vous devez cliquer sur la mosaïque Personnalisation web , même si vous ne disposez pas de l’application de personnalisation web.
+>Pour accéder au marketing web basé sur un compte ou au reciblage de site web, vous devez cliquer sur la mosaïque Personalization web , même si vous ne disposez pas de l’application Web Personalization.
 
 ## Entreprises {#organizations}
 
@@ -56,11 +56,11 @@ L’onglet Organisations affiche tous les détails (nom, emplacement, activité 
 
 >[!TIP]
 >
->&quot;Le plus Principal&quot; par rapport à &quot;Dernière heure&quot; : la table est organisée par les organisations identifiées, puis par les fournisseurs de services Internet (identifiés par une icône de FAI). Il peut être trié en fonction des éléments suivants :
+>&quot;Le plus actif&quot; par rapport à &quot;Le plus récent&quot; : le tableau est organisé par les organisations identifiées, puis par les fournisseurs de services Internet (identifiés par une icône de FAI). Il peut être trié en fonction des éléments suivants :
 >
->* Le plus Principal : les organisations les plus principales du tableau, en fonction du nombre de pages vues ;
->* Dernière version : les organisations les plus récentes dans le tableau (par défaut)
->* Pour obtenir des informations précieuses, filtrez selon les plus principaux
+>* Les plus actifs : organisations les plus actives du tableau, en fonction du nombre de pages vues
+>* Dernière : les organisations les plus récentes dans le tableau (par défaut)
+>* Pour obtenir des informations précieuses, filtrez selon les
 
 **Organisations - Panneau de droite**
 
@@ -69,13 +69,13 @@ Le panneau de droite de la page Organisations offre les fonctions et information
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Icône Feuille de calcul</strong>: Situé en haut à droite du panneau, l’icône télécharge le tableau Organisations au format CSV pour une utilisation hors ligne.</p><p><strong>Définir une alerte par courriel</strong>: Envoie à l’utilisateur connecté un courrier électronique chaque fois que l’organisation sélectionnée visite le site web.</p><p><strong>Pistes</strong>: Ouvre le tableau des pistes pour l’organisation sélectionnée.</p><p><strong>Partager</strong>: Ouvre une fenêtre contextuelle pour envoyer des e-mails et partager les détails de l’organisation qui a visité la page web.</p><p><strong>Icône Emplacement</strong>: Affiche le pays et la ville de l’organisation sélectionnée.</p><p><strong>Liens</strong>: Jigscie, Whois, Linkedin, Google, Twitter ouvre une nouvelle fenêtre avec des informations supplémentaires de la page web correspondante, offrant des informations supplémentaires sur l’organisation sélectionnée.</p><p><strong>Rechercher</strong>: Affiche le mot-clé utilisé si le visiteur est arrivé par l’intermédiaire d’un moteur de recherche.</p><p><strong>Référents</strong>: Affiche le lien URL de la page qui a renvoyé le trafic vers votre site.</p><p><strong>Visiteurs</strong>: Affiche le nombre de visites, le nombre de pages vues par l’organisation sélectionnée et leur adresse électronique (si un formulaire d’envoi a été rempli), ainsi que l’heure et la date de la dernière visite.</p><p><strong>Clickstream</strong>: Affiche un tableau de l’activité de l’utilisateur et du chemin d’URL sur le site, ainsi que la durée de visite de chaque page.</p></td> 
+   <td><p><strong>Icône de feuille de calcul</strong> : située en haut à droite du panneau, l’icône télécharge le tableau Organisations au format CSV pour une utilisation hors ligne.</p><p><strong>Définir l’alerte par courrier électronique</strong> : envoie un courrier électronique à l’utilisateur connecté chaque fois que l’organisation sélectionnée visite le site web.</p><p><strong>Pistes</strong> : ouvre la table des pistes pour l’organisation sélectionnée</p><p><strong>Partager</strong> : ouvre une fenêtre contextuelle pour envoyer des emails et partager les détails de l’organisation qui a visité la page web.</p><p><strong>Icône d’emplacement</strong> : affiche le pays et la ville de l’organisation sélectionnée</p><p><strong>Liens</strong> : Jigscie, à qui, Linkedin, Google, Twitter ouvre une nouvelle fenêtre avec des informations supplémentaires de la page web respective, offrant des informations supplémentaires sur l’organisation sélectionnée.</p><p><strong>Recherche</strong> : affiche le mot-clé utilisé si le visiteur est arrivé par l’intermédiaire d’un moteur de recherche.</p><p><strong>Référents</strong> : affiche le lien URL de la page qui a renvoyé le trafic vers votre site.</p><p><strong>Visiteurs</strong> : affiche le nombre de visites, le nombre de pages vues par l’organisation sélectionnée et leur adresse électronique (s’ils ont rempli un formulaire d’envoi) ainsi que l’heure et la date de la dernière visite</p><p><strong>Clickstream</strong> : affiche un tableau de l’activité de l’utilisateur et du chemin d’URL sur le site, ainsi que la durée de visite de chaque page.</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Partage d’organisations**
+**Partager des organisations**
 
 Vous souhaitez partager les informations du visiteur de votre site web avec un collègue ? Cliquez sur une organisation, puis sur le lien Partager dans le panneau de droite.
 
@@ -114,7 +114,7 @@ Le panneau de droite de la page Visiteurs fournit les informations suivantes :
    <td colspan="1" rowspan="1">Permet de configurer une CTA de campagne associée au visiteur sélectionné</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Emplacement</strong></td> 
+   <td colspan="1"><strong>Localisation</strong></td> 
    <td colspan="1">Affiche le pays, l’état et la ville du visiteur.</td> 
   </tr> 
   <tr> 

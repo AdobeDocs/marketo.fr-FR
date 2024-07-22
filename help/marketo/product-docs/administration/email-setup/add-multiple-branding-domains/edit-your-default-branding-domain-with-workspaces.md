@@ -7,13 +7,13 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
 # Modification de votre domaine de marque par défaut avec des espaces de travail {#edit-your-default-branding-domain-with-workspaces}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
@@ -41,6 +41,6 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->Lors de l’ajout de domaines de marque supplémentaires, vous pouvez choisir de le faire comme Principal domaine pour un ou plusieurs espaces de travail. Tous les emails non envoyés existants sont alors définis sur &quot;Par défaut&quot; et tous les emails nouvellement créés sont définis par défaut sur le domaine Principal. Vous pouvez le remplacer par email.
+>Lors de l’ajout de domaines de marque supplémentaires, vous pouvez choisir de le faire comme domaine principal pour un ou plusieurs espaces de travail. Tous les emails non envoyés existants sont alors définis sur &quot;Par défaut&quot; et tous les emails nouvellement créés sont définis par défaut sur le domaine principal. Vous pouvez le remplacer par email.
 
-Maintenant, vous pouvez [ajout de domaines de marque supplémentaires](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) vous avez besoin des espaces de travail.
+Désormais, vous pouvez [ajouter des domaines de marque](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) supplémentaires dont vous avez besoin pour les espaces de travail.

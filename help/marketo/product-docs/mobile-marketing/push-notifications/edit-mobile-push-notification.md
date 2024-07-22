@@ -13,14 +13,14 @@ ht-degree: 21%
 
 # Modifier la notification Push pour mobile {#edit-mobile-push-notification}
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. Sélectionnez votre application mobile, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre application mobile et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 
 >[!MORELIKETHIS]
 >
->En savoir plus sur [configuration des notifications push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) ici.
+>Pour en savoir plus sur la [configuration des notifications push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) ici.

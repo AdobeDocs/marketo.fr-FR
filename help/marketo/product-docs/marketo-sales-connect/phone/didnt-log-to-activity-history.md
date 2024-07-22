@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Si vos appels ne s’affichent pas dans Salesforce, c’est peut-être parce que nous ne pouvons pas localiser un prospect/contact dans Salesforce.
 
-Pour que les appels se connectent au prospect/contact correct, Sales Connect doit disposer de l’identifiant Salesforce. La meilleure façon d’ajouter l’identifiant Salesforce à Sales Connect consiste à utiliser notre [Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) fonction . Lorsque vous utilisez Push to Sales Connect, nous incluons l’identifiant Salesforce dans la migration des contacts.
+Pour que les appels se connectent au prospect/contact correct, Sales Connect doit disposer de l’identifiant Salesforce. La meilleure façon d’ajouter l’identifiant Salesforce à Sales Connect consiste à utiliser notre fonction [Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) . Lorsque vous utilisez Push to Sales Connect, nous incluons l’identifiant Salesforce dans la migration des contacts.

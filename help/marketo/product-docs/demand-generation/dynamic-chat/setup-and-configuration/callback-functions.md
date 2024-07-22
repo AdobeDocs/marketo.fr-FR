@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
+Le paramètre `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Voici quelques valeurs de métadonnées clés auxquelles vous pouvez accéder :
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
+Le paramètre `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Voici quelques valeurs de métadonnées clés auxquelles vous pouvez accéder :
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
+Le paramètre `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Voici quelques valeurs de métadonnées clés auxquelles vous pouvez accéder :
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-La variable `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
+Le paramètre `event` est un objet avec des métadonnées liées à la conversation. Vous pouvez accéder à ces métadonnées en accédant à `event.data`.
 
 Voici quelques valeurs de métadonnées clés auxquelles vous pouvez accéder :
 

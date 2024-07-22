@@ -7,19 +7,19 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Comment installer les boutons de connexion aux ventes dans Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 
-Installez facilement l’appel avec Marketo Sales Connect, Send Marketo Sales Email et Add to Campaign. Pour installer ces champs, vous devez disposer de droits d’administrateur dans Salesforce.
+Installez facilement Call avec Marketo Sales Connect, Send Marketo Sales Email et Add vers Campaign. Pour installer ces champs, vous devez disposer de droits d’administrateur dans Salesforce.
 
 1. Connectez-vous à [Salesforce.com.](https://salesforce.com)
 1. Cliquez sur **Personnaliser**.
 1. Cliquez sur **Pistes**.
-1. Cliquez sur **Disposition de page**.
-1. Cliquez sur **Modifier** en regard de la mise en page de piste dans laquelle vous souhaitez ajouter les boutons.
+1. Cliquez sur **Dispositions de page**.
+1. Cliquez sur **Modifier** en regard de la Disposition de piste à laquelle vous souhaitez ajouter les boutons.
 1. Cliquez sur **Boutons**.
 1. Faites glisser les boutons Connexion commerciale et déposez-les dans la section Détails de la piste .
 1. Cliquez sur **Enregistrer**.

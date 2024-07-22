@@ -6,7 +6,7 @@ exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Mais lorsque vous l’importez dans Marketo, il se peut que les caractères non 
 
 ![](assets/image2015-2-10-9-3a35-3a49.png)
 
-En effet, le fichier n’est pas enregistré correctement pour que Marketo reconnaisse tous les caractères non latins. La bonne nouvelle, c&#39;est qu&#39;il y a quelques étapes simples que vous pouvez suivre pour y remédier.
+Cela est dû au fait que le fichier n’est pas enregistré correctement pour que Marketo reconnaisse tous les caractères non latins. La bonne nouvelle, c&#39;est qu&#39;il y a quelques étapes simples que vous pouvez suivre pour y remédier.
 
-1. Sélectionner **Enregistrer sous...** de la **Fichier** dans Excel.
+1. Sélectionnez **Enregistrer sous...** dans le menu **Fichier** dans Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Choisir **UTF-16 Unicode Text (.txt)** comme la propriété **Format** . Le fichier sera alors codé de la manière dont Marketo peut les afficher.
+1. Choisissez **UTF-16 Unicode Text (.txt)** comme option **Format**. Le fichier sera alors codé de la manière dont Marketo peut les afficher.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ En effet, le fichier n’est pas enregistré correctement pour que Marketo recon
 
    >[!TIP]
    >
-   >Vous pouvez ouvrir le fichier texte à l’aide de la commande **Notepad** si vous utilisez Windows ou **TextEdit** si vous utilisez un Mac.
+   >Vous pouvez ouvrir le fichier texte à l’aide de **Notepad** si vous utilisez Windows ou **TextEdit** si vous utilisez un Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ En effet, le fichier n’est pas enregistré correctement pour que Marketo recon
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Sélectionner **Rechercher et remplacer...** de la **Modifier** .
+1. Sélectionnez **Rechercher et remplacer...** dans le menu **Modifier**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >L’action équivalente pour les utilisateurs de Windows est la suivante : **Edition > Remplacer...**
+   >L’action équivalente pour les utilisateurs de Windows est : **Modifier > Remplacer...**.
 
-1. Collez l’onglet que vous avez copié à l’étape 4 dans la première zone (à remplacer), puis saisissez une virgule dans la seconde zone (remplacer par). Cliquez sur **Tous**.
+1. Collez l’onglet que vous avez copié à l’étape 4 dans la première zone (à remplacer), puis saisissez une virgule dans la seconde zone (remplacer par). Cliquez ensuite sur **All**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

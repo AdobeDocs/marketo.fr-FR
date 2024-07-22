@@ -7,21 +7,21 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Modifier des éléments dans un email {#edit-elements-in-an-email}
 
-Les emails peuvent contenir quatre éléments différents : Texte enrichi, images, fragments de code et vidéo. Voici comment les modifier.
+Les courriers électroniques peuvent contenir quatre éléments différents : du texte enrichi, des images, des fragments de code et de la vidéo. Voici comment les modifier.
 
 ## Comment modifier l’élément de texte enrichi {#how-to-edit-the-rich-text-element}
 
-1. Recherchez votre email, sélectionnez-le, puis cliquez sur **Modifier le brouillon**.
+1. Recherchez votre email, sélectionnez-le et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-edited.png)
 
-1. L’éditeur de courrier électronique s’ouvre. Sélectionnez le texte enrichi, cliquez sur l’icône d’engrenage, puis sélectionnez **Modifier**.
+1. L’éditeur de courrier électronique s’ouvre. Sélectionnez le texte enrichi, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/two.png)
 
@@ -47,7 +47,7 @@ Les emails peuvent contenir quatre éléments différents : Texte enrichi, image
 
    ![](assets/five.png)
 
-1. Cliquez sur l’élément Image à modifier, puis cliquez sur l’icône représentant un engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Image à modifier, puis sur l’icône représentant un engrenage et sélectionnez **Modifier**.
 
    ![](assets/six.png)
 
@@ -67,11 +67,11 @@ Les emails peuvent contenir quatre éléments différents : Texte enrichi, image
    >
    >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image apparaît rompue dans l’éditeur, mais son rendu est effectué en mode Aperçu et dans l’option Envoyer l’exemple d’email.
 
-   Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Puis appuyez **Permutation**.
+   Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Appuyez ensuite sur **Swap**.
 
    ![](assets/eight.png)
 
-   **Mon ordinateur**
+   **Poste de travail**
 
    Pour télécharger une image depuis votre ordinateur, cliquez sur **Parcourir**.
 
@@ -81,35 +81,35 @@ Les emails peuvent contenir quatre éléments différents : Texte enrichi, image
 
    ![](assets/ten.png)
 
-   Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permutation**.
+   Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permuter**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Si vous remplacez une image, vous devrez cocher la case **Remplacer une image existante** s’affiche sous l’URL/le nom de l’image.
+   >Si vous remplacez une image, vous devrez cocher la case **Remplacer l’image existante** qui s’affiche sous l’URL/le nom de l’image.
 
-   **Studio de conception**
+   **Design Studio**
 
    Pour insérer une image de Design Studio, localisez-la simplement...
 
    ![](assets/twelve.png)
 
-   ...et insérez-le. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permutation**.
+   ...et insérez-le. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permuter**.
 
    ![](assets/thirteen.png)
 
 ## Comment modifier l’élément de fragment de code {#how-to-edit-the-snippet-element}
 
-1. Cliquez à l’intérieur du module avec l’élément Fragment de code .
+1. Cliquez dans le module avec l’élément Fragment de code .
 
    ![](assets/fourteen.png)
 
-1. Cliquez sur l’élément Fragment de code , puis sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Fragment de code, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/fifteen.png)
 
-1. Recherchez votre fragment de code, sélectionnez-le, puis cliquez sur **Enregistrer**.
+1. Recherchez votre extrait de code, sélectionnez-le, puis cliquez sur **Enregistrer**.
 
    ![](assets/sixteen.png)
 
@@ -123,7 +123,7 @@ Les emails peuvent contenir quatre éléments différents : Texte enrichi, image
 
    ![](assets/nineteen.png)
 
-1. Cliquez sur l’élément Vidéo , puis sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Vidéo, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
 
    ![](assets/twenty.png)
 

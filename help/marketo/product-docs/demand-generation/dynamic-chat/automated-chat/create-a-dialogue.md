@@ -18,7 +18,7 @@ Voici comment créer un nouveau dialogue.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Créer]** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Créer nouveau]** .
 
    ![](assets/create-a-dialogue-2.png)
 
@@ -30,9 +30,9 @@ Voici comment créer un nouveau dialogue.
 >
 >La priorité détermine le dialogue qui sera présenté à un visiteur lorsqu’il remplit les conditions requises pour plusieurs dialogues simultanément.
 
-Ensuite, apprenez à [créer un flux ;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+Ensuite, découvrez comment [créer un flux](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
 >* [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

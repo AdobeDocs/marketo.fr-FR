@@ -14,21 +14,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Lorsque vous activez le service MSC, Marketo envoie automatiquement vos informations d’identification à Sales Connect et connecte votre instance à Marketo. Cette étape est requise **uniquement si vous ne voyez pas la connexion établie ;** une fois votre instance Sales Connect configurée. Si votre connexion est établie, vos informations d’identification sont saisies sur la page Paramètres d’administration de Marketo.
+>Lorsque vous activez le service MSC, Marketo envoie automatiquement vos informations d’identification à Sales Connect et connecte votre instance à Marketo. Cette étape n&#39;est requise **que si vous ne voyez pas la connexion établie** après la configuration de votre instance Sales Connect. Si votre connexion est établie, vos informations d’identification sont saisies sur la page Paramètres d’administration de Marketo.
 
 ## Acquisition des informations d’identification avant la connexion des ventes Connexion à Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 Vous devrez obtenir un ensemble d’informations d’identification à partir de Marketo. Ces informations d’identification seront utilisées ultérieurement par l’administrateur de Sales Connect pour connecter Marketo à Sales Connect.
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. Dans l’arborescence, cliquez sur **Connect commercial**.
+1. Dans l’arborescence, cliquez sur **Sales Connect**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
-1. Sélectionnez les informations d’identification Marketo suivantes et envoyez-les à votre administrateur Sales Connect : Munchkin ID, ID client, secret client.
+1. Sélectionnez les informations d’identification Marketo suivantes et envoyez-les à votre administrateur Sales Connect : Munchkin ID, Client ID, Client Secret.
 
    ![](assets/manually-set-up-your-marketo-connection-3.jpg)
 
@@ -46,6 +46,6 @@ Vous devrez obtenir un ensemble d’informations d’identification à partir de
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Saisissez les informations d’identification Marketo fournies par l’administrateur Marketo, puis cliquez sur **Connexion**.
+1. Saisissez les informations d’identification Marketo fournies par l’administrateur Marketo et cliquez sur **Se connecter**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

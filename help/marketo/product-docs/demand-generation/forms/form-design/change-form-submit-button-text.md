@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359649
-description: Modifier le texte du bouton d’envoi de formulaire - Documents Marketo - Documentation du produit
+description: Modifier le texte du bouton Envoyer du formulaire - Documents Marketo - Documentation du produit
 title: Modifier le texte du bouton d’envoi de formulaire
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
@@ -23,7 +23,7 @@ Vous pouvez changer rapidement et facilement un bouton de formulaire de &quot;En
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Sélectionnez le bouton et modifiez la variable **Libellé**.
+1. Sélectionnez le bouton et modifiez le **libellé**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 

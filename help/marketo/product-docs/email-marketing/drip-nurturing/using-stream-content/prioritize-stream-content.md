@@ -19,7 +19,7 @@ Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux** .
 
    ![](assets/cloneasteam-1.jpg)
 

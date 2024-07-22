@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Ce champ d’analyse vous permet d’analyser l’efficacité de programmes individuels ou de voir les résultats résumés par canal. Il fournit des informations sur le nombre de nouveaux noms générés qui ont atteint des étapes de chemin de réussite particulières dans votre modèle de cycle des recettes.
 
-**Voici quelques exemples de questions auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**:
+**Voici des exemples de questions professionnelles auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :** :
 
 Combien de nouveaux noms d’un programme donné ont jamais atteint une étape spécifique dans mon modèle ?
 
@@ -29,9 +29,9 @@ Combien de jours cela prend-il pour mener à leur stade actuel ?
 
 ![](assets/three-3.png)
 
-**Dimensions et mesures d’analyse de l’étape des recettes du programme**
+**Dimensions et mesures d’analyse de l’état des recettes du programme**
 
-Les Dimensions et mesures sont classées par fonctionnalité et représentées par des points jaunes ou bleus dans le système : jaune pour les dimensions et bleu pour les mesures. Utilisez les dimensions et mesures d’analyse de l’étape des recettes du programme pour répondre à des questions spécifiques dans votre rapport.
+Les Dimensions et les mesures sont classées par fonctionnalité et représentées par des points jaunes ou bleus dans le système : en jaune pour les dimensions et en bleu pour les mesures. Utilisez les dimensions et les mesures d’analyse de l’étape des recettes du programme pour répondre à des questions spécifiques dans votre rapport.
 
 Pour afficher les dimensions ou mesures disponibles dans une catégorie, cliquez sur la flèche droite en regard d’un nom de catégorie pour développer la liste des catégories. Cliquez sur la flèche vers le bas pour réduire la liste des catégories.
 
@@ -48,12 +48,12 @@ Pour afficher les dimensions ou mesures disponibles dans une catégorie, cliquez
    <td colspan="1" rowspan="1"><p><strong>Description</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Est Principal de modèle</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit si le modèle est actuellement approuvé et principal.</p></td> 
+   <td colspan="1" rowspan="1"><p>Est actif dans le modèle</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si le modèle est actuellement approuvé et actif.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Est Principal dans l’évaluation</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit si la scène est principale</p></td> 
+   <td colspan="1" rowspan="1"><p>Est actif dans l’état</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si l’étape est active</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Sur le chemin de succès</p></td> 
@@ -69,7 +69,7 @@ Pour afficher les dimensions ou mesures disponibles dans une catégorie, cliquez
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Type d’évaluation</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit le type ; Inventaire, contrat de niveau de service ou point de contrôle pour chaque étape</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit le type, l’inventaire, le contrat de niveau de service ou le portail de chaque étape.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -83,8 +83,8 @@ Pour afficher les dimensions ou mesures disponibles dans une catégorie, cliquez
    <td colspan="1" rowspan="1"><p><strong>Description</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Canal de programme</p></td> 
-   <td colspan="1" rowspan="1"><p>Canal de programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Canal du programme</p></td> 
+   <td colspan="1" rowspan="1"><p>Canal du programme</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nom du programme</p></td> 
@@ -125,12 +125,12 @@ Pour afficher les dimensions ou mesures disponibles dans une catégorie, cliquez
    <td colspan="1" rowspan="1"><p><strong>Description</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Est Principal de modèle</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit si le modèle est actuellement approuvé et principal.</p></td> 
+   <td colspan="1" rowspan="1"><p>Est actif dans le modèle</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si le modèle est actuellement approuvé et actif.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Est Principal dans l’évaluation</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit si la scène est principale</p></td> 
+   <td colspan="1" rowspan="1"><p>Est actif dans l’état</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit si l’étape est active</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Sur le chemin de succès</p></td> 
@@ -146,7 +146,7 @@ Pour afficher les dimensions ou mesures disponibles dans une catégorie, cliquez
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nouveaux noms (jamais)</p></td> 
-   <td colspan="1" rowspan="1"><p>Décrit le type ; Inventaire, contrat de niveau de service ou point de contrôle pour chaque étape</p></td> 
+   <td colspan="1" rowspan="1"><p>Décrit le type, l’inventaire, le contrat de niveau de service ou le portail de chaque étape.</p></td> 
   </tr> 
  </tbody> 
 </table>

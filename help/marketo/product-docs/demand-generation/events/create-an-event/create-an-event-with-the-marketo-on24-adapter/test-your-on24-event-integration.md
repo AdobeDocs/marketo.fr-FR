@@ -18,22 +18,22 @@ Veillez à tester minutieusement votre intégration d’événement.
 ## Séquence De Test Recommandée Avant D’Exécuter Votre Première Campagne {#recommended-test-sequence-before-running-your-first-campaign}
 
 1. Remplissez le formulaire d’enregistrement de l’événement et utilisez une adresse électronique valide pour le test.
-1. Confirmez que le nom du test s’affiche avec une **Inscrits** dans la grille Adhésion de votre événement Marketo.
-1. Vérifiez que le nom du test affiche également la valeur **Inscrits** dans ON24.
+1. Confirmez que le nom du test s’affiche avec un état **Registered** dans la grille Adhésion de votre événement Marketo.
+1. Confirmez que le nom du test s’affiche également comme **Registered** dans ON24.
 1. Vérifiez que l’adresse électronique valide que vous avez utilisée pour enregistrer le nom du test a reçu un email de confirmation pour l’événement et que l’URL unique est résolue dans l’email.
 
    >[!NOTE]
    >
-   >Vous devez utiliser la variable `{{member.webinar url}}` jeton dans votre email de confirmation afin que l’URL unique s’affiche dans l’email de chaque inscrit.
+   >Vous devez utiliser le jeton `{{member.webinar url}}` dans votre email de confirmation pour que l’URL unique s’affiche dans l’email de chaque inscrit.
 
 ## Après l’événement {#after-the-event}
 
 Voici comment les données sont mises à jour après l’événement :
 
 * Marketo récupère toutes les nuits les données des participants sur ON24.
-* Une fois que les données du participant sont synchronisées entre Marketo et ON24, Marketo met à jour l’état de l’adhésion sur Participé, Participé à la demande ou Aucun affichage. Dans le **Résumé** , l’état de l’événement est mis à jour vers **Fin de l’événement**.
+* Une fois que les données du participant sont synchronisées entre Marketo et ON24, Marketo met à jour l’état de l’adhésion sur Participé, Participé à la demande ou Aucun affichage. Dans l’onglet **Summary** de l’événement, l’état de l’événement est mis à jour vers **Event Complete**.
 
 >[!MORELIKETHIS]
 >
 >* [Exemple d’intégration d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
->* [Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [Compréhension des événements d’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

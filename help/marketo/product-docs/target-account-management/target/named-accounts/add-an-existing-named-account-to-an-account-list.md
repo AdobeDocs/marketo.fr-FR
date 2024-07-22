@@ -17,17 +17,17 @@ Il est simple d’ajouter un compte nommé à une liste de comptes.
 
 >[!NOTE]
 >
->Cela s’applique uniquement aux listes de comptes, **not** Listes de comptes dynamiques
+>Cela s’applique uniquement aux listes de comptes, **et non** listes de comptes dynamiques.
 
-1. Sélectionnez la ligne du compte nommé à ajouter.
+1. Sélectionnez la ligne du compte nommé auquel vous souhaitez ajouter du contenu.
 
    ![](assets/four-1.png)
 
-1. Cliquez sur le bouton **Actions de compte nommé** et sélectionnez **Ajouter à la liste des comptes**.
+1. Cliquez sur la liste déroulante **Actions de compte nommé** et sélectionnez **Ajouter à la liste de compte**.
 
    ![](assets/five-1.png)
 
-1. Cliquez sur le bouton **Liste des comptes** , sélectionnez la liste de comptes de votre choix, puis cliquez sur **Ajouter**.
+1. Cliquez sur la liste déroulante **Liste des comptes**, sélectionnez la liste des comptes de votre choix, puis cliquez sur **Ajouter**.
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ Il est simple d’ajouter un compte nommé à une liste de comptes.
 
 >[!MORELIKETHIS]
 >
->[Création d’un compte nommé](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Créer un compte nommé](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

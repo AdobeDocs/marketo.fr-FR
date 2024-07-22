@@ -6,14 +6,14 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
 # Personnalisations de la connexion aux ventes pour le CRM {#sales-connect-customizations-for-crm}
 
-Les champs et boutons ci-dessous sont créés par l’API de métadonnées dans Salesforce CRM. Une fois les champs créés, les administrateurs doivent configurer les mises en page dans leur CRM pour les exposer. Les instructions se trouvent [here](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+Les champs et boutons ci-dessous sont créés par l’API de métadonnées dans Salesforce CRM. Une fois les champs créés, les administrateurs doivent configurer les mises en page dans leur CRM pour les exposer. Les instructions se trouvent [ici](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -29,11 +29,11 @@ Les champs et boutons ci-dessous sont créés par l’API de métadonnées dans 
 
    ![](assets/two.png)
 
-1. Cliquez sur **Personnalisations de Marketo Sales Connect**.
+1. Cliquez sur **Personnalisations Marketo Sales Connect**.
 
    ![](assets/three.png)
 
-1. Cliquez sur **Connexion à Salesforce**.
+1. Cliquez sur **Se connecter à Salesforce**.
 
    ![](assets/four.png)
 
@@ -49,7 +49,7 @@ Les mises à jour du package de personnalisation Salesforce comprennent des amé
 >
 >**Autorisations d’administrateur requises.**
 
-1. Dans le [application web](https://www.toutapp.com), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans l’ [application web](https://www.toutapp.com), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
@@ -57,11 +57,11 @@ Les mises à jour du package de personnalisation Salesforce comprennent des amé
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. La carte de personnalisation de Sales Connect s’affiche si des mises à jour sont disponibles. Cliquez sur **Mise à jour des personnalisations**.
+1. La carte de personnalisation de Sales Connect s’affiche si des mises à jour sont disponibles. Cliquez sur **Mettre à jour les personnalisations**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Cliquez sur **Mettre à niveau**.
+1. Cliquez sur **Upgrade**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,9 +75,9 @@ Une fois que vous avez terminé, votre carte affiche &quot;Vos personnalisations
 
 ## Champs d’activité personnalisés {#custom-activity-fields}
 
-Marketo détectera la création des nouveaux champs, puis effectuera un renvoi unique des données, un re-mappage et une synchronisation continue des valeurs dans la variable **new** uniquement. Les anciens champs ne seront pas mis à jour.
+Marketo détectera la création des nouveaux champs, puis effectuera un renvoi unique des données, un re-mappage et une synchronisation continue des valeurs dans les champs **new** uniquement. Les anciens champs ne seront pas mis à jour.
 
-| **Nom de champ** | **Description** |
+| **Nom du champ** | **Description** |
 |---|---|
 | Identifiant de présence locale de l’appel MSE | En tant qu’utilisateur, vous pouvez choisir l’option Présence locale lorsque vous effectuez des appels à partir du téléphone MSE. Les appels entrants affichent un numéro local pour le récepteur. |
 | URL d’enregistrement des appels MSE | Les appels peuvent être enregistrés et un lien pour l’enregistrement sera consigné ici. |
@@ -88,9 +88,9 @@ Marketo détectera la création des nouveaux champs, puis effectuera un renvoi u
 | MSE Email Cliqué | Consigne une coche lorsque le destinataire clique sur un lien dans un email. |
 | Message électronique MSE répondu | Consigne une coche lorsque le destinataire répond à un email. |
 | Statut de l&#39;email MSE | Indique si un email est envoyé/en cours/rebond (le suivi des emails rebonds dépend du canal de diffusion utilisé). |
-| Modèle de courrier électronique MSE | Nom du journal du modèle MSE utilisé dans l’email envoyé au prospect/contact. |
-| URL du modèle de courrier électronique MSE | Consigne l’URL du modèle créé dans MSE. Cliquer dessus ouvre le modèle dans l’application web MSE. |
-| MSE Email URL | Cliquez sur cette URL pour ouvrir le Centre de commandes dans MSE et extraire l’onglet Historique de l’affichage des détails des personnes où vous pouvez voir l’email envoyé. |
+| Modèle de courrier électronique MSE | Nom du journal du modèle MSE utilisé dans l’e-mail envoyé au prospect/contact. |
+| URL du modèle de courrier électronique MSE | Consigne l’URL du modèle qui a été créé dans MSE. Cliquer dessus ouvre le modèle dans l’application web MSE. |
+| URL de l’email MSE | Cliquez sur cette URL pour ouvrir le Centre de commandes dans MSE et extraire l’onglet Historique de l’affichage des détails des personnes où vous pouvez voir l’email envoyé. |
 | MSE Email Viewed | Consigne une coche lorsque le destinataire affiche un email. |
 
 ## Champs de journalisation de cumul {#roll-up-logging-fields}
@@ -118,7 +118,7 @@ Marketo détectera la création des nouveaux champs, puis effectuera un renvoi u
    <td>Description de l’engagement.</td> 
   </tr> 
   <tr> 
-   <td>MSE - Dernière source d’engagement marketing</td> 
+   <td>MSE - Dernier Source d’engagement marketing</td> 
    <td>Source de l’engagement marketing.</td> 
   </tr> 
   <tr> 

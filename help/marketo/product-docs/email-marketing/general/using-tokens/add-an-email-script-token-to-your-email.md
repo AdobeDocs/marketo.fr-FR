@@ -7,19 +7,19 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Ajout d’un jeton de script de courrier électronique à votre message électronique {#add-an-email-script-token-to-your-email}
 
-Après avoir [création de votre script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), vous souhaitez l’ajouter à un email pour le voir en action. Voici comment.
+Après avoir [créé votre script d&#39;email](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), vous souhaiterez l&#39;ajouter à un email pour le voir en action. Voici comment.
 
 >[!NOTE]
 >
 >La taille totale de tous les jetons de script insérés dans un seul email ne peut pas dépasser 100 Ko.
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/one-2.png)
 
@@ -39,7 +39,7 @@ Après avoir [création de votre script de courrier électronique](/help/marketo
 
    ![](assets/four-2.png)
 
-1. Recherchez et sélectionnez le jeton de script de courrier électronique que vous avez créé précédemment, puis cliquez sur **Insérer**.
+1. Recherchez et sélectionnez le jeton de script de courrier électronique que vous avez créé précédemment et cliquez sur **Insérer**.
 
    ![](assets/five-1.png)
 
@@ -53,6 +53,6 @@ Après avoir [création de votre script de courrier électronique](/help/marketo
 
 >[!NOTE]
 >
->N&#39;oublie pas de [valider l’email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>N’oubliez pas de [approuver l’email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 C&#39;est tout ! Lorsque cet email est envoyé, le script derrière le jeton s’exécute et remplit le contenu.

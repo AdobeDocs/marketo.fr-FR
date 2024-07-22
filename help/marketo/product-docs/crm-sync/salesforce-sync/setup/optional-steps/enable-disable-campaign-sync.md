@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Cette option permet au Marketo Engage de synchroniser son appartenance au programme et ses états avec les campagnes Salesforce et vice versa.
 
-1. Accédez à **[!UICONTROL Administration]** et cliquez sur **[!DNL Salesforce]**.
+1. Accédez à **[!UICONTROL Admin]** et cliquez sur **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
@@ -27,7 +27,7 @@ Cette option permet au Marketo Engage de synchroniser son appartenance au progra
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Vérifier **[!UICONTROL Activation de la synchronisation des campagnes Salesforce]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez **[!UICONTROL Activer la synchronisation des campagnes Salesforce]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
@@ -35,6 +35,6 @@ Voilà. Donnez juste un peu de temps à la synchronisation pour extraire les don
 
 >[!MORELIKETHIS]
 >
->* [Synchronisation SFDC : synchronisation des campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
->* [Définition du nom de piste et des valeurs d’entreprise par défaut](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
->* [Personnalisation de la synchronisation des activités](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"}
+>* [Synchronisation SFDC : synchronisation de campagne](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [Définition du nom de piste par défaut et des valeurs d’entreprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
+>* [Personnaliser la synchronisation des activités](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"}

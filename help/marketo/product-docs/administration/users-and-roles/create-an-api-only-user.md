@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Création d’un utilisateur API uniquement {#create-an-api-only-user}
 
-Si vous souhaitez intégrer Marketo via le [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, vous devez créer un utilisateur API uniquement. Voici comment.
+Si vous souhaitez intégrer Marketo via l’ [ API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, vous devez créer un utilisateur d’API uniquement. Voici comment.
 
 >[!IMPORTANT]
 >
->Si vous créez une API Uniquement pour les utilisateurs dans un abonnement qui a été intégré à Adobe Identity, vos étapes sont différentes et [peut être consulté ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Si vous créez une API Uniquement pour les utilisateurs dans un abonnement qui a été intégré à Adobe Identity, vos étapes sont différentes et [ se trouvent ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Si vous souhaitez intégrer Marketo via le [API REST](https://experienceleague.a
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-1.png)
 
@@ -47,11 +47,11 @@ Si vous souhaitez intégrer Marketo via le [API REST](https://experienceleague.a
    >
    >Ajoutez un motif facultatif ou une date d’expiration d’accès. Les dates d’expiration d’accès sont pratiques pour les employés de courte durée.
 
-1. Sélectionnez la variable **[!UICONTROL API uniquement]** et vérifiez les **[!UICONTROL API uniquement]** . Cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez le rôle **[!UICONTROL API Only]** et cochez la case **[!UICONTROL API Only]** . Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. Cliquez sur **[!UICONTROL Envoyer]**.
+1. Cliquez sur **[!UICONTROL Send]**.
 
    ![](assets/create-an-api-only-user-6.png)
 
@@ -63,4 +63,4 @@ Bon, alors ! Maintenant, allons de l’avant et créons le service personnalisé
 
 >[!MORELIKETHIS]
 >
->[Créer un service personnalisé à utiliser avec l’API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[ Créez un service personnalisé à utiliser avec l’API REST ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

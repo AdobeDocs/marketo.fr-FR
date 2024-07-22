@@ -2,10 +2,10 @@
 description: Paramètres d’agent - Documents Marketo - Documentation du produit
 title: Paramètres de l’agent
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Configurez votre calendrier et définissez la disponibilité du chat en direct o
 
 >[!PREREQUISITES]
 >
->Assurez-vous que les agents ont reçu les [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>Assurez-vous que vos agents ont reçu les [autorisations](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} appropriées.
 
 ![](assets/agent-settings-1.png)
 
@@ -40,7 +40,7 @@ Les utilisateurs peuvent également personnaliser le corps de l’invitation env
 >
 >Utilisez l’icône de jeton (accolades) pour personnaliser les emails de confirmation de réservation de réunions à l’aide des attributs de personne ou de société.
 
-### Autorisations {#permissions}
+### Permissions {#permissions}
 
 La configuration avec Outlook accorde les autorisations suivantes à Dynamic Chat :
 
@@ -78,7 +78,7 @@ Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pou
 
 >[!TIP]
 >
->Vous pouvez sélectionner plusieurs blocs de temps le même jour (par exemple, le vendredi de 8a à 12p). _et_ 1p-5p) en cliquant sur le bouton **+** inscrivez-vous à droite.
+>Vous pouvez sélectionner plusieurs blocs d’heure le même jour (par exemple, le vendredi de 8a à 12p _et_ 1p-5p) en cliquant sur le signe **+** à droite.
 
 ## Disponibilité de la messagerie instantanée {#live-chat-availability}
 
@@ -86,12 +86,12 @@ Définissez le fuseau horaire et l’heure/le jour de la semaine disponibles pou
 
 ![](assets/agent-settings-5.png)
 
-Si vous êtes connecté à l’application, vous recevrez une notification in-app d’une conversation entrante. Si vous n’êtes pas connecté, vous recevrez une notification du navigateur (si vous avez [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Si vous êtes connecté à l’application, vous recevrez une notification in-app d’une conversation entrante. Si vous n’êtes pas connecté, vous recevrez une notification du navigateur (si vous avez [configuré avec ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->La variable [basculement de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} dans la boîte de réception de l’agent **remplace** ce que vous saisissez dans l’onglet Disponibilité de la messagerie instantanée. Ainsi, si vous êtes programmé comme disponible à partir de 1p-5p mais que vous devez effectuer une pause rapide à 3p, vous n’avez pas besoin de modifier les paramètres de votre agent. Le statut de basculement de disponibilité reste tant que vous ne le modifiez pas manuellement ou jusqu’à ce que le bloc de temps suivant de votre disponibilité soit atteint.
+>Le [bouton de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} de la boîte de réception de l’agent **remplacera** ce que vous saisissez dans l’onglet Disponibilité de la messagerie instantanée. Ainsi, si vous êtes programmé comme disponible à partir de 1p-5p mais que vous devez effectuer une pause rapide à 3p, vous n’avez pas besoin de modifier les paramètres de votre agent. Le statut de basculement de disponibilité reste tant que vous ne le modifiez pas manuellement ou jusqu’à ce que le bloc de temps suivant de votre disponibilité soit atteint.
 
 >[!TIP]
 >
->Vous pouvez sélectionner plusieurs blocs de temps le même jour (par exemple, le vendredi de 8a à 12p). _et_ 1p-5p) en cliquant sur le bouton **+** inscrivez-vous à droite.
+>Vous pouvez sélectionner plusieurs blocs d’heure le même jour (par exemple, le vendredi de 8a à 12p _et_ 1p-5p) en cliquant sur le signe **+** à droite.

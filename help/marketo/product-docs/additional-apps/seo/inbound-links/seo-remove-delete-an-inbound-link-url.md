@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Parfois, vous voudrez supprimer les liens entrants. Voici comment :
 
-1. Accédez au **[!UICONTROL Liens entrants]** .
+1. Accédez à la section **[!UICONTROL Liens entrants]** .
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 

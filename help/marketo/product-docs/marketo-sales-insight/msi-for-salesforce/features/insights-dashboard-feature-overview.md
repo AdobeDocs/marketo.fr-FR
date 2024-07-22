@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord S
 
 >[!PREREQUISITES]
 >
->Vous devez disposer du dernier package MSI SFDC et [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Vous devez disposer du dernier package MSI SFDC et de la [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
@@ -28,16 +28,16 @@ En savoir plus sur les fonctionnalités disponibles dans votre tableau de bord S
 * Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours.
 * L’utilisateur peut choisir d’utiliser l’activité &quot;Afficher le compte&quot;, qui va regrouper tous les moments intéressants au niveau du compte, le courrier électronique et l’activité web dans la vue Contact.
 * L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
-* Affichage par défaut : La semaine en cours est sélectionnée.
+* Mode par défaut : semaine en cours sélectionnée
 
-**Analyse et résumé de l’engagement**
+**Analyse en profondeur de l’engagement et résumé**
 
 * Exploration des cartes d’activité pour les moments intéressants, les e-mails et les activités web
 * Carte d’activité Moments intéressants - Inclut l’option S’abonner
-* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte Activité du courrier électronique - Inclut l’option Aperçu
 * Carte d’activité web - Inclut la possibilité de cliquer sur le lien
 * La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
-* Affichage par défaut : Liste des activités de la vue actuelle
+* Vue par défaut : il s’agit d’une liste des activités de la vue actuelle.
 
 **Campagnes et événements de messagerie à venir**
 
@@ -68,17 +68,17 @@ Onglet Événement :
 
 * Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours.
 * L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
-* Affichage par défaut : La semaine en cours est sélectionnée.
+* Mode par défaut : semaine en cours sélectionnée
 * La fonction &quot;Afficher l’activité du compte&quot; n’est pas disponible sur les pistes, puisqu’elle ne fait partie d’aucun compte dans Salesforce tant qu’elle n’a pas été convertie en contact.
 
-**Analyse et résumé de l’engagement**
+**Analyse en profondeur de l’engagement et résumé**
 
-* Cartes d’activité de zoom déroulant pour les moments intéressants, les e-mails et les activités web
+* Cartes d’activité de zoom déroulant pour les moments intéressants, les e-mails et l’activité web
 * Carte d’activité Moments intéressants - Inclut l’option S’abonner
-* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte Activité du courrier électronique - Inclut l’option Aperçu
 * Carte d’activité web - Inclut la possibilité de cliquer sur le lien
 * La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
-* Affichage par défaut : Liste des activités de la vue actuelle
+* Vue par défaut : il s’agit d’une liste des activités de la vue actuelle.
 
 **Campagnes et événements de messagerie à venir :**
 
@@ -109,16 +109,16 @@ Onglet Événement :
 
 * Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours pour tous les contacts du compte.
 * L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
-* Affichage par défaut : La semaine en cours est sélectionnée.
+* Mode par défaut : semaine en cours sélectionnée
 
-**Analyse et résumé de l’engagement**
+**Zoom avant sur l’engagement et résumé**
 
 * Analyse des cartes d’activité pour les moments intéressants, les e-mails et l’activité web, y compris le nom du contact
 * Carte d’activité Moments intéressants - Inclut l’option S’abonner
-* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte Activité du courrier électronique - Inclut l’option Aperçu
 * Carte d’activité web - Inclut la possibilité de cliquer sur le lien
 * La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
-* Affichage par défaut : Liste des activités de la vue actuelle
+* Vue par défaut : il s’agit d’une liste des activités de la vue actuelle.
 
 **Campagnes et événements de messagerie à venir**
 
@@ -145,16 +145,16 @@ Onglet Événement :
 
 * Cette grille dynamique comprend les moments intéressants, les e-mails et l’activité web au cours des 90 derniers jours pour tous les contacts de l’opportunité.
 * L’utilisateur peut mettre en surbrillance une semaine spécifique pour afficher les activités au cours de cette semaine.
-* Affichage par défaut : La semaine en cours est sélectionnée.
+* Mode par défaut : semaine en cours sélectionnée
 
-**Analyse et résumé de l’engagement**
+**Zoom avant sur l’engagement et résumé**
 
 * Analyse des cartes d’activité pour les moments intéressants, les e-mails et l’activité web, y compris le nom du contact
 * Carte d’activité Moments intéressants - Inclut l’option S’abonner
-* Carte Activité du courrier électronique - Inclut l’option d’aperçu
+* Carte Activité du courrier électronique - Inclut l’option Aperçu
 * Carte d’activité web - Inclut la possibilité de cliquer sur le lien
 * La barre de résumé hebdomadaire affiche les moments intéressants, les e-mails et l’activité web pour cette semaine. Chaque icône peut faire l’objet d’un clic et peut être utilisée comme filtre pour afficher une activité spécifique.
-* Affichage par défaut : Liste des activités de la vue actuelle
+* Vue par défaut : il s’agit d’une liste des activités de la vue actuelle.
 
 **Campagnes et événements de messagerie à venir** Onglet Campagnes par e-mail :
 

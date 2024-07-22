@@ -6,20 +6,20 @@ exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Modèle 1E {#template-1e}
 
-Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * inclut un en-tête, du texte de corps et un bouton.
 

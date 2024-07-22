@@ -6,12 +6,12 @@ exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '502'
 ht-degree: 11%
 
 ---
 
-# Notes de mise à jour : Septembre 2013 {#release-notes-september}
+# Notes de mise à jour : septembre 2013 {#release-notes-september}
 
 Les fonctionnalités suivantes sont incluses dans la version de septembre.
 
@@ -61,7 +61,7 @@ Vous pouvez désormais exporter les données dans l’analyseur d’influence d�
 
 Vous pouvez modifier la manière dont Marketo associe les contacts et les opportunités pour les mesures d’attribution Première touche et multipoint, y compris la possibilité d’effectuer une attribution basée sur le compte. Ces paramètres auront un impact sur les mesures d’attribution dans les rapports de l’Explorateur de recettes sous la zone Analyse des opportunités du programme et la zone Analyse des opportunités . Cela aura également une incidence sur les mesures d’attribution dans Program Analyzer.
 
-Vous pouvez définir les paramètres d’attribution du programme sur l’un des trois choix. La modification de ce paramètre ne modifie aucune donnée Marketo ou CRM ; il modifie simplement l’exécution de vos rapports et peut être rétabli à tout moment.
+Vous pouvez définir les paramètres d’attribution du programme sur l’un des trois choix. La modification de ce paramètre ne modifie aucune donnée de Marketo ou de gestion de la relation client ; elle modifie simplement l’exécution des rapports et peut être annulée à tout moment.
 
 Le paramètre Explicite n’examine que les contacts avec des rôles (comportement actuel). Implicit examine tous les contacts associés au compte, quel que soit leur rôle. Si possible, nous vous recommandons vivement d&#39;utiliser le mode Explicite . L’utilisation d’Implicit peut créer des faux positifs, des personnes qui ont le crédit d’une opportunité malgré l’absence d’une réelle influence sur l’opportunité.
 

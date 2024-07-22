@@ -35,18 +35,18 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Que se passe-t-il lorsque vous activez un groupe de champs personnalisé associé à un champ de personne ou d’entreprise personnalisé ?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Le groupe de champs personnalisé est activé pour la création de rapports dans la zone d’analyse des performances du modèle (Leads).</p></td> 
-   <td colspan="1" rowspan="1"><p>Le champ personnalisé lui-même est activé pour la création de rapports dans les zones Analyse de piste, Analyse de campagne et Analyse des opportunités .</p><p><strong>REMARQUE :</strong> Les groupes de champs personnalisés ne sont PAS pris en charge dans ces zones d’analyse. Par conséquent, les associations de groupes ne s’affichent pas dans l’Explorateur de cycles de revenus.<em>only</em> le champ personnalisé.</p></td> 
+   <td colspan="1" rowspan="1"><p>Le champ personnalisé lui-même est activé pour la création de rapports dans les zones Analyse de piste, Analyse de campagne et Analyse des opportunités .</p><p><strong>REMARQUE :</strong> Les groupes de champs personnalisés ne sont PAS pris en charge dans ces zones d’analyse. Par conséquent, les associations de groupes ne s’affichent pas dans l’Explorateur du cycle de revenu.<em>uniquement</em> le champ personnalisé.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 Pour activer un groupe de champs personnalisé pour la création de rapports dans la zone d’analyse des performances du modèle (Leads), procédez comme suit.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Analyse du cycle des recettes**.
+1. Cliquez sur **Revenue Cycle Analytics**.
 
    ![](assets/two-1.png)
 
@@ -54,7 +54,7 @@ Pour activer un groupe de champs personnalisé pour la création de rapports dan
 
    ![](assets/three.png)
 
-1. Cliquez sur le bouton **Champ** et sélectionnez celle qui vous intéresse.
+1. Cliquez sur la liste déroulante **Field** et sélectionnez celui qui vous intéresse.
 
    ![](assets/four-1.png)
 

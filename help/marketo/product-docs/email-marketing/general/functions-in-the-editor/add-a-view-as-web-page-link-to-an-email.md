@@ -23,11 +23,11 @@ Les emails ont des fonctionnalités limitées (CSS limité et pas de JavaScript 
 
    ![](assets/one-5.png)
 
-1. Dans l’éditeur d’email, cliquez sur **Paramètres de messagerie électronique**.
+1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
 
    ![](assets/two-5.png)
 
-1. Vérifiez les **Inclure la vue comme page web** puis cliquez sur **Enregistrer**.
+1. Cochez la case **Inclure la vue comme page web** et cliquez sur **Enregistrer**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Voici un exemple de son aspect :
 >
 >Le lien Afficher comme page Web ne s’affiche pas tant que vous n’avez pas envoyé le courrier électronique. Envoyez-vous un test à afficher.
 
-Pour modifier le texte par défaut, voir [Modifier le message &quot;Afficher comme page Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Pour modifier le texte par défaut, voir [Modification du message &quot;Afficher comme page web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

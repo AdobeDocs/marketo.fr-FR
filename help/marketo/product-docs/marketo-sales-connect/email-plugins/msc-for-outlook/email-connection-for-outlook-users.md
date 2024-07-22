@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -27,23 +27,23 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l’a
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez **Paramètres de messagerie électronique**.
+1. Sous Mon compte, sélectionnez **Paramètres de courrier électronique**.
 
    ![](assets/two.png)
 
-1. Cliquez sur le bouton **Connexion par e-mail** .
+1. Cliquez sur l’onglet **Connexion par e-mail** .
 
    ![](assets/three.png)
 
-1. Cliquez sur **Prise en main**.
+1. Cliquez sur **Commencer**.
 
    ![](assets/four.png)
 
-1. Sélectionner **J’utilise Outlook pour envoyer des emails** et cliquez sur **Suivant**.
+1. Sélectionnez **J&#39;utilise Outlook pour envoyer des emails** et cliquez sur **Suivant**.
 
    ![](assets/five-a.png)
 
-1. Sélectionnez la version d’Outlook que vous utilisez, puis cliquez sur **Suivant**. Dans cet exemple, nous choisissons Outlook Online.
+1. Sélectionnez la version d’Outlook que vous utilisez et cliquez sur **Suivant**. Dans cet exemple, nous choisissons Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -51,7 +51,7 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l’a
     <tbody>
      <tr>
       <td><strong>Outlook en ligne</strong></td> 
-      <td>Également appelé Exchange Online</td> 
+      <td>Également appelé Exchange en ligne</td> 
      </tr>
      <tr>
       <td><strong>Exchange On-premise</strong></td> 
@@ -62,13 +62,13 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l’a
 
    >[!NOTE]
    >
-   >Marketo ne prend actuellement pas en charge les comptes hybrides Exchange.
+   >Marketo ne prend actuellement pas en charge les comptes hybrides d’Exchange.
 
 1. Cliquez sur **OK**.
 
    ![](assets/seven-a.png)
 
-1. Si vous n’êtes pas connecté à Outlook, saisissez les informations de connexion, puis cliquez sur **Suivant**. Si tel est le cas, sélectionnez le compte auquel vous souhaitez vous connecter, puis cliquez sur **Suivant**. Dans cet exemple, nous sommes déjà connectés.
+1. Si vous n’êtes pas connecté à Outlook, saisissez vos informations de connexion et cliquez sur **Suivant**. Si tel est le cas, sélectionnez le compte auquel vous souhaitez vous connecter et cliquez sur **Suivant**. Dans cet exemple, nous sommes déjà connectés.
 
    ![](assets/eight-a.png)
 
@@ -84,29 +84,29 @@ La connexion à Outlook signifie que vous recevrez le suivi des réponses, l’a
 
 ## Connexion à Exchange On-Premise {#connecting-to-exchange-on-premise}
 
-La connexion à Exchange On-Premise signifie que vous recevrez le suivi des réponses, l’accès au canal de diffusion Outlook, la possibilité de planifier des emails dans Outlook et d’envoyer la conformité.
+La connexion à Exchange On-Premise signifie que vous allez recevoir le suivi des réponses, l’accès au canal de diffusion Outlook, la possibilité de planifier des emails dans Outlook et d’envoyer la conformité.
 
 1. Dans Sales Connect, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez **Paramètres de messagerie électronique**.
+1. Sous Mon compte, sélectionnez **Paramètres de courrier électronique**.
 
    ![](assets/two.png)
 
-1. Cliquez sur le bouton **Connexion par e-mail** .
+1. Cliquez sur l’onglet **Connexion par e-mail** .
 
    ![](assets/three.png)
 
-1. Cliquez sur **Prise en main**.
+1. Cliquez sur **Commencer**.
 
    ![](assets/four.png)
 
-1. Sélectionner **J’utilise Outlook pour envoyer des emails** et cliquez sur **Suivant**.
+1. Sélectionnez **J&#39;utilise Outlook pour envoyer des emails** et cliquez sur **Suivant**.
 
    ![](assets/five-a.png)
 
-1. Sélectionnez la version d’Outlook que vous utilisez, puis cliquez sur **Suivant**. Dans cet exemple, nous choisissons Exchange On-premise.
+1. Sélectionnez la version d’Outlook que vous utilisez et cliquez sur **Suivant**. Dans cet exemple, nous choisissons Exchange On-premise.
 
    ![](assets/six-b.png)
 
@@ -114,7 +114,7 @@ La connexion à Exchange On-Premise signifie que vous recevrez le suivi des rép
     <tbody>
      <tr>
       <td><strong>Outlook en ligne</strong></td> 
-      <td>Également appelé Exchange Online</td> 
+      <td>Également appelé Exchange en ligne</td> 
      </tr>
      <tr>
       <td><strong>Exchange On-premise</strong></td> 
@@ -123,16 +123,16 @@ La connexion à Exchange On-Premise signifie que vous recevrez le suivi des rép
     </tbody>
    </table>
 
-1. Saisissez vos informations d’identification, puis cliquez sur **Connexion**.
+1. Saisissez vos informations d’identification et cliquez sur **Se connecter**.
 
    ![](assets/seven-b.png)
 
    >[!NOTE]
    >
-   >Si vous désactivez la détection automatique dans la liste déroulante Version d’Exchange, vous devrez demander à votre service informatique l’URL d’Exchange.
+   >Si vous désactivez la détection automatique dans la liste déroulante Version de l’Exchange , vous devrez demander à votre service informatique l’URL de l’Exchange.
 
    Vous pouvez utiliser cette connexion pour effectuer le suivi des emails, mais aussi comme canal de diffusion.
 
    >[!NOTE]
    >
-   >Lors de l’utilisation d’Exchange On-premise, votre équipe informatique établira votre limite d’envoi des emails.
+   >Lorsque vous utilisez Exchange On-premise, votre équipe informatique fixera votre limite d&#39;envoi des emails.

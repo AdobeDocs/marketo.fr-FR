@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Création d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Créer un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 Lorsque vous créez votre modèle et que vous sélectionnez et organisez vos phases d’inventaire, il est temps de définir les transitions.
 
@@ -65,4 +65,4 @@ Bien joué ! Vous avez réussi à modifier vos transitions de modèle.
 
 >[!MORELIKETHIS]
 >
->[Approbation/désapprobation d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>[Approuver/Ne plus approuver un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

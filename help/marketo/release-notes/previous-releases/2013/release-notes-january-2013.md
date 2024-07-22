@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : Janvier 2013 {#release-notes-january}
+# Notes de mise à jour : janvier 2013 {#release-notes-january}
 
-La version de janvier étend notre offre de réseaux sociaux avec **Offres de référent**. En outre, les utilisateurs de la gestion des pistes de Marketo peuvent définir leur fuseau horaire, leur langue et leurs préférences locales. Veuillez noter que les fonctions marquées d’une &#42; sont disponibles uniquement dans l’édition sélectionnée.
+La version de janvier étend notre offre sociale avec les **offres de parrainage**. En outre, les utilisateurs de la gestion des pistes de Marketo peuvent définir leur fuseau horaire, leur langue et leurs préférences locales. Notez que les fonctionnalités marquées d’un &#42; sont disponibles uniquement dans l’édition Sélectionner.
 
 ## Offres de parrainage {#referral-offers}
 
-A **Offre de référent** incite vos prospects à renvoyer leurs amis. Créer des objectifs et des récompenses pour les parrainages réussis. Vous pouvez l’utiliser sur les landing pages, votre site web et même Facebook.
+Une **offre de parrainage** encourage vos prospects à contacter leurs amis. Créer des objectifs et des récompenses pour les parrainages réussis. Vous pouvez l’utiliser sur les landing pages, votre site web et même Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

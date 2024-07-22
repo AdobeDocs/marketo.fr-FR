@@ -22,15 +22,15 @@ Ajoutez une identité lorsque vous souhaitez envoyer plusieurs adresses électro
 
    ![](assets/add-identity-1.png)
 
-1. Cliquez sur **Paramètres de messagerie électronique**.
+1. Cliquez sur **Paramètres de l’e-mail**.
 
    ![](assets/add-identity-2.png)
 
-1. Cliquez sur **Ajout d’une identité**.
+1. Cliquez sur **Ajouter une identité**.
 
    ![](assets/add-identity-3.png)
 
-1. Saisissez les informations (champs obligatoires de nom et d’adresse électronique) et cliquez sur **Créer**.
+1. Saisissez les informations (les champs de nom et d’adresse électronique sont obligatoires) et cliquez sur **Créer**.
 
    ![](assets/add-identity-4.png)
 
@@ -42,8 +42,8 @@ Lorsque vous envoyez un email dans Marketo Sales et que vous disposez de plusieu
 
 >[!NOTE]
 >
->La quantité d’identités de courrier électronique que vous pouvez configurer n’est pas limitée.
+>Il n’existe aucune limite au nombre d’identités de courrier électronique que vous pouvez configurer.
 
 >[!MORELIKETHIS]
 >
->[Ajouter ou mettre à jour votre signature de courrier électronique](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).
+>[Ajoutez ou mettez à jour votre signature de courrier électronique](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).

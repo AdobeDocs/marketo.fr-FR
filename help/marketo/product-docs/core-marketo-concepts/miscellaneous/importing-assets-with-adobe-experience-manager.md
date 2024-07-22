@@ -1,16 +1,16 @@
 ---
 unique-page-id: 37355768
-description: Importation de ressources avec Adobe Experience Manager - Documents Marketo - Documentation du produit
-title: Importation de ressources avec Adobe Experience Manager
+description: Importation d’Assets avec Adobe Experience Manager - Documents Marketo - Documentation du produit
+title: Importation d’Assets avec Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-# Importation de ressources avec Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
+# Importation d’Assets avec Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
 Le sélecteur de ressources permet aux clients Marketo d’accéder à des ressources Marketo Design Studio, de les sélectionner et de les importer AEM. **Les autorisations d’administrateur sont requises**.
 
@@ -20,7 +20,7 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
 >[!PREREQUISITES]
 >
->Assurez-vous que vous avez déjà effectué la [Configuration AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Vérifiez que vous avez déjà effectué la [configuration AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
@@ -30,7 +30,7 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Cliquez sur la liste déroulante Nouveau et sélectionnez **[!UICONTROL Importation depuis Adobe Experience Manager]**.
+1. Cliquez sur la liste déroulante Nouveau et sélectionnez **[!UICONTROL Importer depuis Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -42,7 +42,7 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Sélectionnez votre dossier. Sélectionnez ensuite les images de votre choix en cliquant sur la miniature (vous pouvez choisir jusqu’à 10). Cliquez sur **[!UICONTROL Sélectionner]** une fois terminé.
+1. Sélectionnez votre dossier. Sélectionnez ensuite les images de votre choix en cliquant sur la miniature (vous pouvez choisir jusqu’à 10). Cliquez sur **[!UICONTROL Sélectionner]** lorsque vous avez terminé.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 

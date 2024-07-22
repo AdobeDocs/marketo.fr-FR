@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360020
-description: Exportation d’un rapport vers Excel - Documents Marketo - Documentation du produit
+description: Exporter un rapport vers Excel - Documents Marketo - Documentation du produit
 title: Exportation d’un rapport vers Excel
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Vous pouvez exporter n’importe quel rapport vers un fichier Excel afin d’utiliser les données d’autres logiciels.
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Rapport** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **Rapport** .
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Cliquez sur le bouton **Exporter** bouton .
+1. Cliquez sur le bouton **Exporter** .
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -31,4 +31,4 @@ Vous pouvez exporter n’importe quel rapport vers un fichier Excel afin d’uti
 
    >[!MORELIKETHIS]
    >
-   >Si le fichier téléchargé est trop volumineux, vous pouvez [modification de la taille du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Si le fichier téléchargé est trop volumineux, vous pouvez [modifier la taille du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

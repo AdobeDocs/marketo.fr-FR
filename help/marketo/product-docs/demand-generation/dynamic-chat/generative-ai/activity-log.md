@@ -18,7 +18,7 @@ Consultez la liste de toutes les tâches et les détails associés, notamment le
 
    ![](assets/activity-log-1.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Journal d’activité]** .
+1. Cliquez sur l’onglet **[!UICONTROL Journal d’activité]** .
 
    ![](assets/activity-log-2.png)
 

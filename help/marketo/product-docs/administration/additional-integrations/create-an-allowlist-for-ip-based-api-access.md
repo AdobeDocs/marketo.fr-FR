@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -19,19 +19,19 @@ Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Cliquez sur **[!UICONTROL Services web]**.
+1. Cliquez sur **[!UICONTROL Services Web]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Dans le **[!UICONTROL Restrictions IP]** zone, cliquez sur **[!UICONTROL Modifier],** ou cliquez sur **[!UICONTROL Modification des restrictions IP]** en haut à gauche.
+1. Dans la zone **[!UICONTROL Restrictions d’IP]**, cliquez sur **[!UICONTROL Modifier],** ou cliquez sur **[!UICONTROL Modifier les restrictions d’IP]** dans le coin supérieur gauche.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Vérifiez les **[!UICONTROL Activer les restrictions IP]** et saisissez les adresses IP à Placer sur la liste autorisée.
+1. Cochez la case **[!UICONTROL Activer les restrictions d’IP]** et saisissez les adresses IP à Placer sur la liste autorisée.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 

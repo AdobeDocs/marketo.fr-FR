@@ -15,7 +15,7 @@ ht-degree: 0%
 
 1. Vous pouvez [ajouter des mots-clés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuellement, [obtenir des suggestions de mots-clés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) et même importer des mots-clés à partir d’un fichier CSV. Voici comment effectuer l’importation.
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [Présentation des mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Ajouter/supprimer des mots-clés d’une liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Comprendre les mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Ajouter/Supprimer des mots-clés d’une liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

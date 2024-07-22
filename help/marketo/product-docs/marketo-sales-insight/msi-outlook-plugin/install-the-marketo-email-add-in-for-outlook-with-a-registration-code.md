@@ -6,8 +6,8 @@ exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 4%
+source-wordcount: '532'
+ht-degree: 3%
 
 ---
 
@@ -19,11 +19,11 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
 >[!PREREQUISITES]
 >
->Vous devez être [Envoi d’une licence de module complémentaire de messagerie Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Vous devez [recevoir une licence de module complémentaire de messagerie Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!IMPORTANT]
 >
->L’installation n’est pas prise en charge sur les PC où le dossier des utilisateurs Windows contient des caractères non anglais. Ce dossier est généré automatiquement par Windows sous `<System Root>\Users\` en fonction du nom d’utilisateur Windows et peut contenir des caractères non anglais si le nom d’utilisateur Windows n’est pas anglais. Contactez votre équipe informatique pour vérifier si vous rencontrez des problèmes d’installation.
+>L’installation n’est pas prise en charge sur les PC où le dossier des utilisateurs Windows contient des caractères non anglais. Ce dossier est généré automatiquement par Windows sous `<System Root>\Users\` en fonction du nom d’utilisateur Windows et peut contenir des caractères non anglais si le nom d’utilisateur Windows est un nom non anglais. Contactez votre équipe informatique pour vérifier si vous rencontrez des problèmes d’installation.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
 ## Télécharger le programme {#download-installer}
 
-1. Identifiez votre [Version de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identifiez votre [version de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. Cliquez sur le lien pour télécharger le programme d’installation approprié à votre version de Microsoft Outlook.
 
@@ -56,7 +56,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
    >[!IMPORTANT]
    >
-   >Microsoft a publié une [nouvelle version d’Outlook pour Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+   >Microsoft a publié une [nouvelle version d’Outlook pour Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Cette nouvelle version ne prend pas en charge le module externe MSI Outlook existant. Le module externe MSI Outlook continuera à fonctionner pour les ordinateurs de bureau Windows exécutant la version classique d’Outlook. Pour en savoir plus sur les nouveaux Outlook pour Windows pour les organisations, [cliquez ici](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Copie de votre code d’enregistrement {#copy-your-registration-code}
 
@@ -82,7 +82,7 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Remplir **Prénom**, **Nom**, **Adresse électronique**, puis copiez et collez le **Code d’enregistrement** dans le formulaire, puis cliquez sur **Suivant**.
+1. Renseignez les champs **Prénom**, **Nom**, **Adresse électronique**, puis copiez et collez le **Code d&#39;enregistrement** de l&#39;email dans le formulaire et cliquez sur **Suivant**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -100,9 +100,9 @@ Si vous n’avez pas reçu de courrier électronique d’invitation, demandez à
 
    >[!NOTE]
    >
-   >Si vous recevez une invite de sécurité concernant un éditeur inconnu, cliquez sur **Oui**.
+   >Si vous obtenez une invite de sécurité concernant un éditeur inconnu, cliquez sur **Oui**.
 
-1. L’installation est maintenant terminée, cliquez sur **Fermer**.
+1. L&#39;installation est maintenant terminée, cliquez sur **Fermer**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 

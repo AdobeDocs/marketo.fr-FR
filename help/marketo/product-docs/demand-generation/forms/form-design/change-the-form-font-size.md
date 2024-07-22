@@ -27,11 +27,11 @@ Marketo facilite la personnalisation de l’apparence de vos formulaires. Vous p
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Sous **Paramètres de formulaire**, Sélectionner **Paramètres**.
+1. Sous **Paramètres de formulaire**, Sélectionnez **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Sélectionnez la **Taille de police** vous voulez.
+1. Sélectionnez la **taille de police** de votre choix.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 

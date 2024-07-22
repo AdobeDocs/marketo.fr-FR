@@ -32,14 +32,14 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
   </tr> 
   <tr> 
    <td>Groupes dynamiques</td> 
-   <td>Mes contacts : Tous les contacts que vous détenez.<br>Désabonne : Les contacts qui se sont désinscrits de la réception de la correspondance.</td> 
+   <td>Mes contacts : tous les contacts que vous détenez.<br>Se désabonne : contacts qui se sont désabonnés de la réception de la correspondance.</td> 
   </tr> 
   <tr> 
    <td>Mes groupes</td> 
    <td>Groupes que vous avez créés. Ils peuvent contenir vos contacts ou des contacts qui ont été partagés avec vous.</td> 
   </tr> 
   <tr> 
-   <td>Équipes</td> 
+   <td>Groupes d’équipes</td> 
    <td>Groupes qui ont été partagés avec et/ou par vous. Ils peuvent contenir des contacts personnels ou des contacts que vous avez partagés avec vos collègues.</td> 
   </tr> 
  </tbody> 
@@ -47,7 +47,7 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
 ## Création d’un groupe {#create-a-group}
 
-1. Dans la page Personnes, cliquez sur le **+** en regard de Groupes .
+1. Dans la page Personnes, cliquez sur le **+** en regard de Groupes.
 
    ![](assets/manage-groups-1.png)
 
@@ -63,7 +63,7 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
    ![](assets/manage-groups-3.png)
 
-1. Cliquez sur **Actions de groupe** et sélectionnez **Créer un contact et l’ajouter au groupe**.
+1. Cliquez sur **Actions de groupe** et sélectionnez **Créer un contact et ajouter au groupe**.
 
    ![](assets/manage-groups-4.png)
 
@@ -71,7 +71,7 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
    >
    >Un contact à la fois sera ainsi ajouté. Pour ajouter plusieurs contacts en même temps, suivez [ces étapes](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et ajouter** pour en ajouter un autre).
+1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et ajouter un nouveau** pour en ajouter un autre).
 
    ![](assets/manage-groups-5.png)
 
@@ -91,11 +91,11 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
    ![](assets/manage-groups-7.png)
 
-1. Cliquez sur la liste déroulante, sélectionnez l’équipe avec laquelle vous souhaitez partager le groupe, puis cliquez sur **Partager**.
+1. Cliquez sur la liste déroulante, sélectionnez l’équipe avec laquelle vous souhaitez partager le groupe et cliquez sur **Partager**.
 
    ![](assets/manage-groups-8.png)
 
-   Vous êtes toujours propriétaire du groupe, mais il apparaîtra désormais sous _Groupes d’équipes_.
+   Vous êtes toujours propriétaire du groupe, mais il apparaîtra désormais sous _Groupe d’équipes_.
 
 ## Annulation du partage d’un groupe {#unshare-a-group}
 
@@ -107,7 +107,7 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
    ![](assets/manage-groups-10.png)
 
-1. Cliquez sur le bouton **X** en regard de l’équipe avec laquelle vous avez partagé le groupe, puis cliquez sur hors du modal.
+1. Cliquez sur le **X** en regard de l’équipe avec laquelle vous avez partagé le groupe, puis cliquez en dehors du modal.
 
    ![](assets/manage-groups-11.png)
 
@@ -123,7 +123,7 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
 
    ![](assets/manage-groups-13.png)
 
-1. Saisissez le nouveau nom, puis cliquez sur **Enregistrer**.
+1. Saisissez le nouveau nom et cliquez sur **Enregistrer**.
 
    ![](assets/manage-groups-14.png)
 

@@ -1,5 +1,5 @@
 ---
-description: Stream Designer - Documents Marketo - Documentation du produit
+description: Stream Designer - Marketo Docs - Documentation du produit
 title: Designer de flux
 hide: true
 hidefromtoc: true
@@ -13,15 +13,15 @@ ht-degree: 2%
 
 # Designer de flux {#stream-designer}
 
-Il y a _many_ combinaisons de diffusion possibles. Cet article contient un exemple dans lequel le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur un produit. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. On leur offre aussi un PDF gratuit. L’objectif final est de planifier un rendez-vous ou de collecter l’email du visiteur.
+Il existe _de nombreuses_ combinaisons de flux possibles. Cet article contient un exemple dans lequel le spécialiste du marketing demande au visiteur du site s’il lui pose des questions sur un produit. Si oui, le visiteur peut planifier un rendez-vous. Si ce n’est pas le cas, le visiteur a la possibilité de s’inscrire à une liste de distribution pour une correspondance ultérieure. On leur offre aussi un PDF gratuit. L’objectif final est de planifier un rendez-vous ou de collecter l’email du visiteur.
 
 >[!PREREQUISITES]
 >
->Avant de pouvoir utiliser la carte Document, vous devez d’abord [configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} dans votre compte d’Adobe.
+>Avant de pouvoir utiliser la carte Document, vous devez d&#39;abord [la configurer](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} dans votre compte Adobe.
 
 ## Diffusion en continu de cartes Designer {#stream-designer-cards}
 
-Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour façonner la conversation de conversation.
+Le Designer de diffusion en continu contient plusieurs cartes que vous pouvez ajouter pour façonner la conversation de conversation.
 
 <table>
  <tr>
@@ -43,7 +43,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  </tr>
  <tr>
   <td style="width:25%"><strong>Réservation Réunion</strong></td>
-  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier une réunion. Choisissez la disponibilité du calendrier à l’aide d’un robot d’arrondi, d’un agent spécifique ou de règles personnalisées. Cliquez sur <b>Ajouter un attribut</b> si vous souhaitez capturer le nom ou l’adresse électronique de l’agent et l’affecter à l’enregistrement de personne du visiteur du chat pour une interrogation ultérieure (astuce : créez un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">champ personnalisé</a> pour mapper les informations de l’agent sur de manière à ne pas remplacer un champ de Marketo Engage standard).</td>
+  <td>Fournit au visiteur un calendrier des dates disponibles pour planifier une réunion. Choisissez la disponibilité du calendrier à l’aide d’un robot d’arrondi, d’un agent spécifique ou de règles personnalisées. Cliquez sur <b>Ajouter un attribut</b> si vous souhaitez capturer le nom ou l’adresse électronique de l’agent et l’affecter à l’enregistrement de personne du visiteur du chat pour une interrogation ultérieure (astuce : créez un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">champ personnalisé</a> pour mapper les informations de l’agent sur afin de ne pas remplacer un champ de Marketo Engage standard).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Objectif</strong></td>
@@ -51,7 +51,7 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  </tr>
  <tr>
   <td style="width:25%"><strong>Action*</strong></td>
-  <td>Comme pour les champs masqués d’un formulaire, vous pouvez remplir n’importe quel attribut de piste ou de société avec la carte d’action <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">type de données de chaîne</a>) avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.
+  <td>Comme pour les champs masqués d’un formulaire, avec la carte d’action, vous pouvez renseigner n’importe quel attribut de piste ou de société (ayant un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">type de données de chaîne</a>) avec des valeurs implicites que vous souhaitez capturer par rapport à un enregistrement de piste. Vous pouvez ajouter la carte d’action à tout moment de la conversation et mettre à jour les attributs respectifs avec une valeur ou des jetons natifs qui renseignent automatiquement la valeur correspondante.
   <p><i>* La carte Action nécessite Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).</i></td>
  </tr>
  <tr>
@@ -62,9 +62,9 @@ Le concepteur de flux contient plusieurs cartes que vous pouvez ajouter pour fa�
  </tr>
 </table>
 
-## Icônes du concepteur de diffusion en continu {#stream-designer-icons}
+## Icônes de diffusion Designer {#stream-designer-icons}
 
-Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icônes. Voici ce qu&#39;ils font.
+Dans l’angle supérieur droit du Designer de diffusion en continu, vous verrez une poignée d’icônes. Voici ce qu&#39;ils font.
 
 <table>
  <tr>
@@ -91,23 +91,23 @@ Dans le coin supérieur droit du concepteur de flux, vous verrez quelques icône
 
 ## Création d’un flux {#create-a-stream}
 
-Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Dans cet exemple, nous allons en créer un pour un Dialogue.
+Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Dans cet exemple, nous allons en créer un pour un Dialogue.
 
-1. Après avoir [création de votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, cliquez sur le **[!UICONTROL Concepteur de diffusion]** .
+1. Après avoir [créé votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, cliquez sur l’onglet **[!UICONTROL Stream Designer]** .
 
    ![](assets/stream-designer-6.png)
 
-1. Faites glisser et déposez le [!UICONTROL Question] carte.
+1. Faites glisser et déposez la carte [!UICONTROL Question] .
 
    ![](assets/stream-designer-7.png)
 
-1. Sous [!UICONTROL Réponse de Chatbot], répondez à votre question comme vous le souhaitez.
+1. Sous [!UICONTROL Réponse de Chatbot], entrez votre question comme vous le souhaitez.
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >Vous pouvez personnaliser l’expérience des visiteurs connus du chat à l’aide de jetons (par exemple : Bonjour). `{{lead.leadFirstName:""}}`). Il vous suffit de cliquer sur l’icône d’accolade à droite pour effectuer votre sélection. Ajoutez une valeur par défaut entre les guillemets si vous souhaitez que les visiteurs anonymes voient quelque chose de générique (par exemple : Hello `{{lead.leadFirstName:"there"}}`).
+   >Vous pouvez personnaliser l’expérience des visiteurs connus de chat à l’aide de jetons (par exemple : Hello `{{lead.leadFirstName:""}}`). Il vous suffit de cliquer sur l’icône d’accolade à droite pour effectuer votre sélection. Ajoutez une valeur par défaut entre les guillemets si vous souhaitez que les visiteurs anonymes voient quelque chose de générique (ex : Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    >[!NOTE]
    >
-   >**[!UICONTROL Modifier les valeurs stockées]** est une étape facultative pour ceux qui souhaitent stocker une valeur différente dans la base de données de celle affichée pour les visiteurs dans le chatbot pour les attributs mappés dans la carte Question (par exemple : le visiteur voit &quot;Optimisation du moteur de recherche&quot;, vous stockez cette valeur comme &quot;SEO&quot;).
+   >**[!UICONTROL Modifier les valeurs stockées]** est une étape facultative pour ceux qui souhaitent stocker une valeur différente dans la base de données de celle affichée pour les visiteurs dans le chatterbot pour les attributs mappés dans la carte de question (par exemple : le visiteur voit &quot;Optimisation du moteur de recherche&quot;, vous stockez cette valeur comme &quot;SEO&quot;).
 
 1. Pour &quot;Oui&quot;, nous voulons planifier un rendez-vous. Par conséquent, en dessous de cette option, faites glisser sur la carte Planificateur de rendez-vous .
 
@@ -129,7 +129,7 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    ![](assets/stream-designer-11.png)
 
-1. Comme c’est un objectif, faites glisser le [!UICONTROL Objectif] sous le planificateur de rendez-vous.
+1. Comme c’est un objectif, faites glisser la carte [!UICONTROL Objectif] sous le Planificateur de rendez-vous.
 
    ![](assets/stream-designer-12.png)
 
@@ -137,7 +137,7 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    ![](assets/stream-designer-13.png)
 
-1. Pour &quot;Non&quot;, nous voulons voir s’ils vont rejoindre la liste de distribution. Par conséquent, sous cette option, faites glisser sur une autre [!UICONTROL Question] carte.
+1. Pour &quot;Non&quot;, nous voulons voir s’ils vont rejoindre la liste de publipostage. Par conséquent, sous cette option, faites glisser sur une autre carte [!UICONTROL Question].
 
    ![](assets/stream-designer-14.png)
 
@@ -153,7 +153,7 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    ![](assets/stream-designer-16.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Type]** et sélectionnez **[!UICONTROL Email]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Type]** et sélectionnez **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
@@ -180,7 +180,7 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
     </tr>
    </table>
 
-1. Comme la collecte de leur email est un objectif, faites glisser la variable [!UICONTROL Objectif] sous Capture d’informations.
+1. Puisque la collecte de leurs emails est un objectif, faites glisser la carte [!UICONTROL Objectif] sous Capture d’informations.
 
    ![](assets/stream-designer-19.png)
 
@@ -192,21 +192,21 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversation 
 
    ![](assets/stream-designer-21.png)
 
-1. Dans cet exemple, nous allons créer un nouveau document. Attribuez-lui un nom, saisissez l’URL du PDF que vous avez déjà hébergé, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Dans cet exemple, nous allons créer un nouveau document. Donnez-lui un nom, saisissez l’URL du PDF que vous avez déjà hébergé, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Sélectionnez la variable **[!UICONTROL Aperçu]** bascule pour afficher l’aperçu de votre dialogue.
+1. Sélectionnez la bascule **[!UICONTROL Aperçu]** pour prévisualiser votre dialogue.
 
    ![](assets/stream-designer-23.png)
 
-1. Lorsque vous êtes prêt à activer votre dialogue, cliquez sur **[!UICONTROL Publier]**.
+1. Lorsque vous êtes prêt à activer votre dialogue, cliquez sur **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Avant de cliquer sur [!UICONTROL Publier], pensez à vous assurer que vous avez [ont saisi votre ou vos URL cibles.](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Avant de cliquer sur [!UICONTROL Publish], pensez à [renseigner vos URL cibles](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

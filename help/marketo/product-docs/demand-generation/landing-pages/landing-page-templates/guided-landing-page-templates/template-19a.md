@@ -6,20 +6,20 @@ exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
 # Modèle 19A {#template-19a}
 
-Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * comprend le titre de la héroïne, le texte de la héroïne et le bouton
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+[Modèle 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)

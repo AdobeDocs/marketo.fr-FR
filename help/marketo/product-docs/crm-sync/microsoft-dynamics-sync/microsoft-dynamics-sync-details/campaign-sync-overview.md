@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 10%
+ht-degree: 0%
 
 ---
 
@@ -20,19 +20,19 @@ Dans le cadre de la synchronisation de Campaign, les utilisateurs peuvent config
 
 Les actions de flux suivantes sont disponibles :
 
-* [!UICONTROL Ajouter à la campagne Microsoft]
-* [!UICONTROL Supprimer de la campagne Microsoft]
+* [!UICONTROL Ajouter à Microsoft Campaign]
+* [!UICONTROL Supprimer de Microsoft Campaign]
 
 >[!NOTE]
 >
->**[!UICONTROL Supprimer de Microsoft Campaign]** supprime uniquement les personnes ajoutées à l’aide d’actions de flux dans Marketo.
+>**[!UICONTROL Supprimer de Microsoft Campaign]** supprimera uniquement les personnes qui ont été ajoutées à l’aide d’actions de flux dans Marketo.
 
 Il existe également deux déclencheurs :
 
 * [!UICONTROL Ajout à Microsoft Campaign]
-* [!UICONTROL Supprimé de la campagne Microsoft]
+* [!UICONTROL Supprimé de Microsoft Campaign]
 
-Les déclencheurs s’exécuteront en fonction des actions de l’ action de flux Marketo &quot;[!UICONTROL Ajouter à Microsoft Campaign]&quot; et &quot;[!UICONTROL Supprimé de Microsoft Campaign].&quot;
+Les déclencheurs s’exécuteront en fonction des actions de l’action de flux Marketo &quot;[!UICONTROL Ajouter à la campagne Microsoft]&quot; et &quot;[!UICONTROL Supprimé de la campagne Microsoft]&quot;.
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ Les déclencheurs s’exécuteront en fonction des actions de l’ action de flu
 
 >[!MORELIKETHIS]
 >
->* [Activer la synchronisation de la campagne](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [Activer la synchronisation Campaign](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
 >* [Ajouter ou supprimer des personnes de votre campagne Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

@@ -18,7 +18,7 @@ Aidez votre équipe commerciale à réussir en l’empêchant d’envoyer par co
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/blocked-domains-1.png)
 
@@ -26,10 +26,10 @@ Aidez votre équipe commerciale à réussir en l’empêchant d’envoyer par co
 
    ![](assets/blocked-domains-2.png)
 
-1. Saisissez le domaine que vous souhaitez bloquer, puis cliquez sur **Domaine du bloc**.
+1. Saisissez le domaine que vous souhaitez bloquer et cliquez sur **Bloquer le domaine**.
 
    ![](assets/blocked-domains-3.png)
 
    >[!NOTE]
    >
-   >Les emails qui font partie d’un envoi de messagerie de groupe qui échoue en raison de l’envoi à un domaine de messagerie bloqué échouent en silence et n’apparaissent pas dans le dossier de messagerie en échec.
+   >Les emails qui font partie d’un envoi de courrier électronique de groupe qui échoue en raison de l’envoi à un domaine de courrier électronique bloqué échouent en silence et n’apparaissent pas dans le dossier de courrier électronique en échec.

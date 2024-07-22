@@ -1,5 +1,5 @@
 ---
-description: Onglet Courrier électronique - Documents Marketo - Documentation du produit
+description: Onglet Email - Documents Marketo - Documentation du produit
 title: Onglet Email
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights

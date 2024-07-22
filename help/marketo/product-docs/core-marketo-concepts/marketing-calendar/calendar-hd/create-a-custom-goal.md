@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504130
-description: Création d’un objectif personnalisé - Documents Marketo - Documentation du produit
+description: Créer un objectif personnalisé - Documents Marketo - Documentation du produit
 title: Création d’un objectif personnalisé
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Une fois créés, ils doivent être mis à jour manuellement.
 
-Comme les présentations, les objectifs sont [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)spécifique à .
+Comme les présentations, les objectifs sont spécifiques à [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Accédez au **[!UICONTROL Calendrier]**.
+1. Accédez au **[!UICONTROL calendrier]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -25,23 +25,23 @@ Comme les présentations, les objectifs sont [workspace](/help/marketo/product-d
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Sélectionnez la **[!UICONTROL Objectifs]** .
+1. Sélectionnez l’onglet **[!UICONTROL Objectifs]** .
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Glisser-déposer **[!UICONTROL Objectif personnalisé]** dans la zone de travail.
+1. Faites glisser **[!UICONTROL Objectif personnalisé]** dans la zone de travail.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Saisissez un nom pour l’objectif. Sélectionnez une **[!UICONTROL Devise]**.
+1. Saisissez un nom pour l’objectif. Sélectionnez une **[!UICONTROL devise]**.
 
    >[!NOTE]
    >
-   >Si l’objectif n’est pas une valeur monétaire, vous pouvez sélectionner **[!UICONTROL Aucun]**.
+   >Si l’objectif n’est pas une valeur monétaire, vous pouvez sélectionner **[!UICONTROL None]**.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Saisissez une valeur pour le champ **[!UICONTROL Objectif cible]** et le **[!UICONTROL Valeur actuelle]** (s’il n’y en a pas, saisissez **0**). Cliquez ensuite sur **[!UICONTROL Créer]**.
+1. Saisissez une valeur pour **[!UICONTROL Objectif cible]** et la **[!UICONTROL Valeur actuelle]** (s’il n’en existe pas, saisissez **0**). Cliquez ensuite sur **[!UICONTROL Créer]**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 

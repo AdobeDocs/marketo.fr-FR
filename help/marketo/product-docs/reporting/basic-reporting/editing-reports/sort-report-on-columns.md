@@ -19,7 +19,7 @@ Utilisez des colonnes pour trier les données de votre rapport et faciliter la r
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Rapport** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur l’onglet **Rapport** .
 
    ![](assets/reports2.jpg)
 

@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec l
 
    ![](assets/editform-1.png)
 
-1. Cliquez sur le bouton **+** signe.
+1. Cliquez sur le signe **+**.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Rechercher et sélectionner **Pays**.
+1. Recherchez et sélectionnez **Country**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Avec le **Pays** champ sélectionné pour modifier **Type de champ** to **Sélectionner**.
+1. Avec le champ **Country** sélectionné, remplacez le **Field Type** par **Select**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Modifier** la valeur **Valeurs** pour ajouter la liste des pays dans lesquels les utilisateurs peuvent effectuer un choix.
+1. **Modifiez** les **valeurs** pour ajouter la liste des pays dans lesquels les utilisateurs peuvent choisir.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 

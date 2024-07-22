@@ -25,7 +25,7 @@ Le tableau de bord Engagement vous permet de mesurer l’efficacité de vos prog
 
 Mesure de l’engagement de l’audience
 
-Choisissez la **Succès** mesure pour mesurer l’engagement de l’audience dans vos programmes d’éducation. Le succès est une mesure de l’interaction significative dans Marketo.
+Sélectionnez la mesure **Successes** pour mesurer l’engagement de l’audience dans vos programmes de formation. Le succès est une mesure de l’interaction significative dans Marketo.
 
 ![](assets/3-4.png)
 
@@ -33,11 +33,11 @@ Le but d&#39;un programme est de créer une interaction significative avec la pe
 
 >[!NOTE]
 >
->Dans un programme de webinaire, il peut y avoir plusieurs états, tels que : Invité, enregistré et assisté. Invité ou Enregistré ne sont pas des interactions significatives parce que les gens ne regardent pas vraiment le webinaire. Participé est considéré comme une réussite dans ce cas.
+>Dans un programme de webinaire, plusieurs statuts peuvent être associés, par exemple : Invité, Enregistré et Participant. Invité ou Enregistré ne sont pas des interactions significatives parce que les gens ne regardent pas vraiment le webinaire. Participé est considéré comme une réussite dans ce cas.
 
 Mesure de l’acquisition d’un nouveau nom
 
-Choisissez la **Nouveaux noms** mesure pour mesurer l’efficacité de vos nouveaux programmes d’acquisition de noms.
+Sélectionnez la mesure **Nouveaux noms** pour mesurer l’efficacité de vos nouveaux programmes d’acquisition de noms.
 
 ![](assets/4-3.png)
 

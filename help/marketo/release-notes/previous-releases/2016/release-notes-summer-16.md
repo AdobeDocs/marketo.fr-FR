@@ -19,8 +19,8 @@ Les fonctionnalités suivantes sont incluses dans la version de l’été 16. V�
 
 Marketo Account Based Marketing fournit toutes les informations essentielles sur une seule plateforme unifiée :
 
-* **Cible** - Découverte de compte, correspondance de pistes vers comptes et listes de comptes nommés
-* **Interagir** - Personnalisation basée sur les comptes, engagement cross-canal et workflows spécifiques aux comptes
+* **Target** - Découverte de compte, correspondance de piste vers compte et listes de comptes nommés
+* **Engage** - Personalization basé sur les comptes, engagement cross-canal et workflows spécifiques aux comptes
 * **Mesure** - Informations au niveau du compte et de la liste, note d’engagement du compte, impact sur le pipeline et les recettes
 
 ![](assets/abm-5-acme.png)
@@ -39,7 +39,7 @@ Le journal d’audit fournit un historique complet des modifications apportées 
 
 ![](assets/audit-trail.png)
 
-## [Intégration de Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Intégration Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Créez facilement des SMS directement dans Marketo. Personnalisez et ciblez votre message à l&#39;aide de vos données Marketo riches, et surveillez facilement ses performances à l&#39;aide du tableau de bord des messages SMS.
 
@@ -57,10 +57,10 @@ Auparavant, toutes les variables spécifiées dans les Modèles d’e-mail 2.0 �
 
 ![](assets/module-level-variables.png)
 
-**Mises à jour de la syntaxe**
+**Mises à jour de syntaxe**
 
 * Vous pouvez désormais utiliser &quot;mktoAddByDefault&quot; sur les modules spécifiés dans les Modèles d&#39;email 2.0 afin d&#39;indiquer les modules qui doivent être affichés par défaut dans les nouveaux emails. Cela s’avère beaucoup plus pratique si vous créez un modèle d’email avec un grand nombre de modules.
-* Sur les éléments d’image, vous pouvez maintenant spécifier si la sous-jacente `<img>` Les propriétés &quot;height&quot; et &quot;width&quot; de l’élément de HTML doivent être verrouillées ou modifiables pour l’utilisateur final. mktoLockImgSize=&quot;true&quot; entraîne le verrouillage de la hauteur/largeur (même si l’image est modifiée). De même, mktoLockImgStyle=&quot;true&quot; entraîne le verrouillage de la propriété &quot;style&quot;.
+* Sur les éléments d’image, vous pouvez maintenant spécifier si les propriétés &quot;height&quot; et &quot;width&quot; de l’élément d’HTML sous-jacent `<img>` doivent être verrouillées ou modifiables pour l’utilisateur final. mktoLockImgSize=&quot;true&quot; entraîne le verrouillage de la hauteur/largeur (même si l’image est modifiée). De même, mktoLockImgStyle=&quot;true&quot; entraîne le verrouillage de la propriété &quot;style&quot;.
 
 **Recherche de code**
 
@@ -70,7 +70,7 @@ Utilisez la nouvelle fonctionnalité de recherche pour rechercher et remplacer e
 
 **Prise en charge des jetons dans les éléments d’image**
 
-Les jetons peuvent désormais être utilisés dans la zone &quot;URL externe&quot; de l’expérience d’insertion d’image ! Si vous avez spécifié des images avec `{{my.tokens}}`, vous pouvez désormais référencer ces jetons dans Email Editor 2.0. Notez que l’image apparaîtra toujours rompue dans le canevas de l’éditeur de messagerie 2.0. Mais vous verrez qu’elles sont rendues dans Aperçu et Envoyer un exemple avant d’envoyer votre email.
+Les jetons peuvent désormais être utilisés dans la zone &quot;URL externe&quot; de l’expérience d’insertion d’image ! Si vous avez spécifié des images avec `{{my.tokens}}`, vous pouvez désormais référencer ces jetons dans l’éditeur de messagerie 2.0. Notez que l’image apparaîtra toujours rompue dans le canevas de l’éditeur de messagerie 2.0. Mais vous verrez qu’elles sont rendues dans Aperçu et Envoyer un exemple avant d’envoyer votre email.
 
 ## Plusieurs noms de domaine {#multiple-branding-domains}
 
@@ -96,7 +96,7 @@ Spécifiez un délai pour que les campagnes web réagissent sur votre site web.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Analyse de contenu et exportation Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Exportation de contenu Analytics et Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Affichez les données d’analyse de contenu et de recommandations hors ligne.
 
@@ -110,6 +110,6 @@ Nouveau et amélioré !
 
 ## [Paramètres de confidentialité](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Les marketeurs peuvent utiliser les paramètres de confidentialité pour décider d’effectuer le suivi des visiteurs à l’aide des fonctionnalités Munchkin et de personnalisation web. Le niveau de suivi est contrôlé à l’aide du paramètre Ne pas suivre du navigateur, d’un cookie d’exclusion ou d’une adresse IP non spécifique. Ces méthodes peuvent avoir une incidence sur la valeur et la fonctionnalité de Marketo dans des zones spécifiques, mais si le marketeur ne change rien, la fonctionnalité de Marketo reste la même.
+Les marketeurs peuvent utiliser les paramètres de confidentialité pour décider d’effectuer le suivi des visiteurs à l’aide des fonctionnalités Munchkin et Web Personalization. Le niveau de suivi est contrôlé à l’aide du paramètre Ne pas suivre du navigateur, d’un cookie d’exclusion ou d’une adresse IP non spécifique. Ces méthodes peuvent avoir une incidence sur la valeur et la fonctionnalité de Marketo dans des zones spécifiques, mais si le marketeur ne change rien, la fonctionnalité de Marketo reste la même.
 
 Cette fonctionnalité sera diffusée progressivement aux clients sur une période de six semaines. Si vous en avez besoin immédiatement, contactez le support Marketo.

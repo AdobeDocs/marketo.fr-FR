@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Vous pouvez configurer des déclencheurs et des filtres pour une campagne dynamique d’application mobile.
 
-Pour la plupart des activités, il existe un trigger, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour effectuer le suivi d’une action, comme appuyer sur une notification push, selon laquelle _ne l&#39;a pas fait_ survient.
+Pour la plupart des activités, il existe un trigger, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour effectuer le suivi d’une action, comme appuyer sur une notification push, qui n’a pas eu lieu _._
 
 * L’Application Mobile Est/A Été Installée
 * L’application mobile est/a été ouverte
@@ -41,13 +41,13 @@ Tous les déclencheurs et filtres, à l’exception de la notification push de l
 
 * Type de périphérique : iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablette Android, Inconnu (il s’agit d’une liste de paramètres prédéfinis)
 
-* Platform - iPhone ou Android
+* Plateforme - iPhone ou Android
 
 Certains déclencheurs et filtres offrent des contraintes supplémentaires, telles que :
 
 * Version de l’application - Un moyen de cibler les personnes qui ne disposent pas de la dernière version. Par exemple, si la dernière version de l’application est 2.0, vous pouvez l’utiliser pour rechercher les personnes qui ne sont PAS sur la version 2.0 de l’application.
 
-* Installer la source : actuellement, la seule option est API
+* Installer Source : actuellement, la seule option est API
 
 * Paramètre régional : paramètre défini sur l’appareil.
 
@@ -57,11 +57,11 @@ Certains déclencheurs et filtres offrent des contraintes supplémentaires, tell
 
 * Durée de la session (secondes) : durée de la session lorsque l’application est au premier plan.
 
-* Push activé - **True** signifie que les notifications push peuvent être envoyées. **False** signifie qu’ils ne le peuvent pas ; par exemple, la personne peut avoir choisi de ne pas recevoir de notifications push.
+* Is Push Enabled - **True** signifie que les notifications push peuvent être envoyées. **False** signifie qu’ils ne peuvent pas ; par exemple, la personne peut avoir choisi de ne pas recevoir de notifications push.
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 
-**Avec application mobile**
+**Possède Une Application Mobile**
 
 Utilisez ce filtre pour découvrir toutes les personnes qui ont déjà installé votre application. Cette option est disponible uniquement sous la forme d’un filtre.
 
@@ -69,7 +69,7 @@ Utilisez ce filtre pour découvrir toutes les personnes qui ont déjà installé
 >
 >Le filtre trouvera les installations actuelles et antérieures, car Marketo ne suit pas les désinstallations d’application.
 
-**Contrainte** - Type d’appareil, plateforme, application mobile, version d’application mobile, type d’appareil, source d’installation, Push activé et paramètres régionaux
+**Contraintes** - Type d’appareil, plateforme, application mobile, version d’application mobile, type d’appareil, installer Source, Est activé et paramètre régional
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ L’Application Mobile Est/A Été Installée
 
 * NOT Mobile App a été installé - filtre d’inactivité
 
-**Contrainte** - Type de périphérique, plateforme, version d’application, paramètres régionaux et source d’installation
+**Contraintes** - Type de périphérique, plateforme, version d’application, paramètres régionaux et installation de Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -97,13 +97,13 @@ L’application mobile est/a été ouverte
 
 * NOT Mobile App was Opening - filtre d’inactivité
 
-**Contrainte** - Type d’appareil et plateforme
+**Contraintes** - Type de périphérique et plateforme
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 A/A eu une activité d’application mobile
 
-Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez collaborer avec votre développeur pour configurer le suivi. [pour Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Avec activité d’application mobile - déclencheur
 
@@ -111,7 +111,7 @@ Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vou
 
 * Activité de l’application mobile NON présente - filtre d’inactivité
 
-**Contrainte** - Type de périphérique, plateforme, version d’application mobile, paramètres régionaux, version de plateforme, plus cinq autres éléments :
+**Contraintes** - Type de périphérique, plateforme, version d’application mobile, paramètre régional, version de plateforme, plus cinq autres :
 
 * Action - Activité mobile personnalisée
 
@@ -129,7 +129,7 @@ Les contraintes Action vous permettent d’utiliser le déclencheur et les filtr
 >
 >**Exemple**
 >
->Sous le type d’action de *Magasin*, voici une action très spécifique, avec les autres contraintes qui la définissent :
+>Sous le type d’action *Shopping*, voici une action très spécifique, avec les autres contraintes qui la définissent :
 >
 >* Achat d&#39;une chemise
 >   * C&#39;était rouge.
@@ -152,7 +152,7 @@ Voici à quoi ressemble le filtre dans Marketo :
 >| Détails de l’action | Couleur | Couleur |
 >| Mesure de l’action | Prix | Prix |
 
-**A/A eu une session d’application mobile**
+**Dispose/A eu une session d’application mobile**
 
 * Dispose d’une session d’application mobile - trigger
 
@@ -160,7 +160,7 @@ Voici à quoi ressemble le filtre dans Marketo :
 
 * Session d’application mobile NON présente - filtre d’inactivité
 
-**Contrainte** - Type d’appareil, plateforme et durée de session (secondes)
+**Contraintes** - Type de périphérique, plateforme et durée de session (secondes)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -172,7 +172,7 @@ Notification Push Appuyée/Appuyée
 
 * Notification push non activée - filtre d’inactivité
 
-**Contrainte** - Type de périphérique, plateforme, version d’application mobile, notification push et version de plateforme
+**Contraintes** - Type de périphérique, plateforme, version d’application mobile, notification push et version de plateforme
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,17 +180,17 @@ Notification Push Appuyée/Appuyée
 >
 >Utilisez le filtre d’inactivité Notification push non sélectionnée pour rechercher les personnes qui n’ont pas appuyé sur une notification push récemment envoyée, afin que vous puissiez effectuer un suivi par courrier électronique.
 
-**Envoi d’une notification push** Cette activité est disponible uniquement sous forme de filtre.
+**Notification push envoyée** Cette activité est disponible uniquement sous forme de filtre.
 
 * Notification push envoyée - filtre
 
 * Notification push NON envoyée - filtre d’inactivité
 
-**Contrainte** - Notification push et application mobile
+**Contraintes** - Notification push et application mobile
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
 >* [Ajout d’une contrainte à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [Utilisation des filtres d’inactivité dans une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [Utiliser des filtres d’inactivité dans une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

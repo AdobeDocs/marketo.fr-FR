@@ -7,23 +7,23 @@ feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Filtrage d’un rapport de programme par balise {#filter-a-program-report-by-tag}
 
-Concentrez-vous sur vos [rapport performance du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) sur spécifique [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
+Concentrez votre [rapport de performances du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) sur des [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"} spécifiques.
 
 1. Accédez à **[!UICONTROL Activités marketing]** (ou **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre **[!UICONTROL Performances du programme]** rapport.
+1. Sélectionnez votre rapport **[!UICONTROL Performances du programme]**.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Configuration]** et faites glisser sur l’un des **[!UICONTROL Balises]** filtres.
+1. Cliquez sur l’onglet **[!UICONTROL Configuration]** et faites glisser le pointeur de la souris sur l’un des filtres **[!UICONTROL Balises]**.
 
    ![](assets/prospects.jpg)
 
@@ -31,14 +31,14 @@ Concentrez-vous sur vos [rapport performance du programme](/help/marketo/product
 
    ![](assets/prospect1.jpg)
 
-1. Cliquez sur **[!UICONTROL Appliquer]**.
+1. Cliquez sur **[!UICONTROL Apply]**.
 
    ![](assets/prospect2.jpg)
 
-1. Fait! Cliquez sur le bouton **[!UICONTROL Rapport]** pour voir _just_ programmes qui correspondent aux balises sélectionnées dans votre rapport.
+1. C&#39;est fait ! Cliquez sur l&#39;onglet **[!UICONTROL Rapport]** pour afficher _uniquement_ les programmes qui correspondent aux balises sélectionnées dans votre rapport.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
 >[!NOTE]
 >
->[Filtrage d’un rapport de programme par coût par période](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>[Filtrage d’un rapport de programme par coût de période](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

@@ -2,10 +2,11 @@
 description: Rapports SMS - Documents Marketo - Documentation du produit
 title: Rapports SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -15,7 +16,7 @@ Le tableau de bord des messages SMS fournit des analyses utiles sur vos messages
 
 ## Accès au tableau de bord {#access-the-dashboard}
 
-1. Pour afficher le rapport, sélectionnez le SMS souhaité. Cliquez sur le bouton **Affichage** et sélectionnez **Tableau de bord**.
+1. Pour afficher le rapport, sélectionnez le SMS souhaité. Cliquez sur la liste déroulante **Afficher** et sélectionnez **Tableau de bord**.
 
    ![](assets/sms-reporting-1.png)
 
@@ -31,13 +32,13 @@ Affiche le total envoyé et le total diffusé. Les montants sont à droite. Si v
 
 ![](assets/sms-reporting-3.png)
 
-### Sommaire {#summary}
+### Résumé {#summary}
 
 Affiche le taux de rebond calculé sous forme de pourcentage. Passez la souris sur la barre supérieure pour afficher le taux de diffusion par montant et pourcentage. Passez la souris sur la section Taux de rebond orange de la barre pour afficher les montants/pourcentages des taux de rebond (soft et hard).
 
 ![](assets/sms-reporting-4.png)
 
-### Activité au fil du temps {#activity-over-time}
+### Activity Over Time {#activity-over-time}
 
 Permet de sélectionner Total envoyé ou Total diffusé. Sélectionnez une plage appropriée dans le sélecteur de période.
 

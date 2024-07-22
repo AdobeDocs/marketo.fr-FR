@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Étiqueter vos campagnes web {#label-your-web-campaigns}
 
-Avez-vous tant de campagnes que le défilement devient encombrant ? Utilisez des étiquettes pour baliser vos campagnes afin de pouvoir les trier et les retrouver rapidement.
+Avez-vous tellement de campagnes que le défilement devient encombrant ? Utilisez des étiquettes pour baliser vos campagnes afin de pouvoir les trier et les retrouver rapidement.
 
 ## Ajouter un libellé à une campagne web {#add-a-label-to-a-web-campaign}
 
-1. Connectez-vous à la personnalisation web et accédez à la zone Campagnes web .
+1. Connectez-vous à Web Personalization et accédez à la zone Campagnes Web .
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne de votre choix, utilisez la [fonction de filtrage](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Sélectionnez les campagnes que vous souhaitez baliser avec un libellé.
 
@@ -51,4 +51,4 @@ Super ! Vous savez maintenant comment créer des libellés et les affecter à de
 
 >[!MORELIKETHIS]
 >
->[Étiquetage d’un segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>[Étiqueter un segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

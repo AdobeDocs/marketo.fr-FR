@@ -7,15 +7,15 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Activer/Désactiver les abonnements aux rapports {#enable-disable-report-subscriptions}
 
-La personnalisation web comporte plusieurs rapports utiles qui sont envoyés par email. Voici comment s&#39;y abonner.
+Web Personalization comporte plusieurs rapports utiles qui sont envoyés par email. Voici comment s&#39;y abonner.
 
-1. Connectez-vous à la personnalisation web. Sous votre nom de connexion, cliquez sur **Paramètres utilisateur**.
+1. Connectez-vous à Web Personalization. Sous votre nom de connexion, cliquez sur **Paramètres utilisateur**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 

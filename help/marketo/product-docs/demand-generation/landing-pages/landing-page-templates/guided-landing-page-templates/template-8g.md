@@ -6,21 +6,21 @@ exl-id: d34d7d73-ccca-4083-a9da-f8b5630ed581
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # Modèle 8G {#template-8g}
 
-Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
 Ce modèle comprend le contenu suivant :
 
 * Un en-tête (facultatif)
-* Une section Principale
+* Une section principale
 
    * inclut une image à forte identification et un bouton ;
 

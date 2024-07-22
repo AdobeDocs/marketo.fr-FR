@@ -27,7 +27,7 @@ Si votre équipe marketing a mis des modèles à votre disposition, voici commen
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Effectuez toutes vos modifications, puis cliquez sur **Envoi et suivi**.
+1. Effectuez toutes vos modifications, puis cliquez sur **Envoyer et suivre**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -43,4 +43,4 @@ Si votre équipe marketing a mis des modèles à votre disposition, voici commen
 
 >[!MORELIKETHIS]
 >
->[Connexion au courrier entrant à partir de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Log Inbound Mail From Your Leads in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

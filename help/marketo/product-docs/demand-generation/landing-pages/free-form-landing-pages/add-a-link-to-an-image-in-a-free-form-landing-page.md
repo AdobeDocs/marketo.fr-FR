@@ -17,21 +17,21 @@ Vous souhaitez faire d’une image de votre landing page un lien vers une autre 
 
 >[!PREREQUISITES]
 >
->[Ajout d’une image à une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Ajouter une image à une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Cliquez sur l’image à laquelle vous souhaitez ajouter un lien.
 
    ![](assets/click-on-image.png)
 
-1. Développez l’objet **Feuille de propriété**.
+1. Développez la **feuille de propriétés**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copiez ou saisissez le lien dans le champ **linkUrl** de la boîte.
+1. Copiez ou saisissez le lien dans la zone **linkUrl**.
 
    ![](assets/add-link.png)
 
-   Félicitations ! Vous avez maintenant correctement ajouté un lien vers une image sur votre page d’entrée. Vous pouvez désormais [prévisualiser la page ;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) pour le voir en action.
+   Félicitations ! Vous avez maintenant correctement ajouté un lien vers une image sur votre page d’entrée. Vous pouvez maintenant [prévisualiser la page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) pour la voir en action.
 
 >[!TIP]
 >

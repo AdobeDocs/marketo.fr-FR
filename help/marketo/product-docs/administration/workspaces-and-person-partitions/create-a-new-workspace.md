@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360311
-description: Création d’un espace de travail - Documents Marketo - Documentation du produit
-title: Création d’un espace de travail
+description: Création d’une documentation Workspace - Documents Marketo - Documentation du produit
+title: Création d’un Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 3%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
-# Création d’un espace de travail {#create-a-new-workspace}
+# Création d’un Workspace {#create-a-new-workspace}
 
 Les espaces de travail sont utiles pour subdiviser votre entreprise. Voici quelques raisons de configurer des espaces de travail :
 
-* Géographie : Opérations marketing en Europe et opérations marketing en Amérique du Nord
+* Géographie : Opérations marketing en Europe et Opérations marketing en Amérique du Nord
 * Unité opérationnelle A et unité opérationnelle B
 
 Voici comment créer un espace de travail.
@@ -26,13 +26,13 @@ Voici comment créer un espace de travail.
 
 >[!NOTE]
 >
->Comprendre d’abord avec [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Commencez par [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
->Pour en savoir plus sur les bonnes pratiques relatives à Workspace, veuillez contacter [Services professionnels Marketo](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Pour en savoir plus sur les bonnes pratiques de Workspace, contactez les [Services professionnels Marketo](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-workspace-1.png)
 
@@ -40,23 +40,23 @@ Voici comment créer un espace de travail.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Cliquez sur **[!UICONTROL Nouvel espace de travail]**.
+1. Cliquez sur **[!UICONTROL New Workspace]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Saisissez un **[!UICONTROL Nom]**, puis sélectionnez la variable **[!UICONTROL Partitions de personne]** vous voulez utiliser. Choisissez une **[!UICONTROL Partition de personne Principal]**. Veillez à [créer des partitions pour personnes](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} si vous ne l&#39;avez pas déjà fait.
+1. Saisissez un **[!UICONTROL Nom]**, puis sélectionnez le **[!UICONTROL Person Partitions]** que vous souhaitez utiliser. Sélectionnez une **[!UICONTROL partition de personne de Principal]**. Veillez à [créer des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} si ce n&#39;est déjà fait.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* Le **[!UICONTROL Toutes les partitions de personne]** signifie que cet espace de travail peut utiliser toutes les partitions de personne dans le système.
+   >* La case à cocher **[!UICONTROL Toutes les partitions de personne]** signifie que cet espace de travail peut utiliser toutes les partitions de personne dans le système.
    >
-   >* Le **[!UICONTROL Partition de personne Principal]** agit comme valeur par défaut et est l’emplacement où toutes les personnes seront affectées.
+   >* La **[!UICONTROL partition de personne de Principal]** agit comme valeur par défaut et c’est là que toutes les personnes seront affectées.
 
    >[!IMPORTANT]
    >
-   >Si vous avez activé plusieurs domaines de marque, vous devez choisir un domaine de marque Principal.
+   >Si vous avez activé plusieurs domaines de marque, vous devez choisir un domaine de marque principale.
 
 1. Sélectionnez la langue de l&#39;espace de travail.
 

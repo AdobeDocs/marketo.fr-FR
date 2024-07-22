@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10096400
 description: Création d’un modèle de courrier électronique - Documents Marketo - Documentation du produit
-title: Création d’un modèle de courrier électronique
+title: Créer un modèle de courrier électronique
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-# Création d’un modèle de courrier électronique {#create-an-email-template}
+# Créer un modèle de courrier électronique {#create-an-email-template}
 
 Pour créer un modèle d’email, procédez comme suit.
 
 >[!NOTE]
 >
->La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés aux HTMLS personnalisés. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
+>La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés à l’HTML personnalisé. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
 
 >[!CAUTION]
 >
@@ -57,15 +57,15 @@ Si vous avez créé un email que vous souhaitez enregistrer en tant que modèle 
 
    ![](assets/two-1.png)
 
-1. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Enregistrer en tant que modèle**.
+1. Cliquez sur la liste déroulante **Actions de courrier électronique** et sélectionnez **Enregistrer comme modèle**.
 
    ![](assets/four-1.png)
 
-1. Cliquez sur le bouton **Dossier** , sélectionnez l’emplacement dans lequel vous souhaitez que le modèle soit installé, puis cliquez sur **Enregistrer**.
+1. Cliquez sur la liste déroulante **Dossier**, sélectionnez l’emplacement où vous souhaitez que le modèle soit actif, puis cliquez sur **Enregistrer**.
 
    ![](assets/five-1.png)
 
-   Et voilà !
+   Et c&#39;est tout !
 
    >[!CAUTION]
    >

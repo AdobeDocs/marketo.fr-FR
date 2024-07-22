@@ -6,8 +6,8 @@ exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 0%
+source-wordcount: '230'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Pour configurer les paramètres d’événement Marketo et connecter Marketo et 
 
 ## Définition de l’événement {#set-the-event}
 
-1. Sélectionnez l’événement que vous souhaitez associer à un webinaire ON24, puis cliquez sur le bouton **Actions d’événement** et sélectionnez **Paramètres d’événement**.
+1. Sélectionnez l’événement que vous souhaitez associer à un webinaire ON24, puis cliquez sur la liste déroulante **Actions d’événement** et sélectionnez **Paramètres d’événement**.
 
    ![](assets/one.png)
 
@@ -41,20 +41,20 @@ Pour configurer les paramètres d’événement Marketo et connecter Marketo et 
 
 Lorsque vous configurez un événement associé à un webinaire ON24, la planification des événements est renseignée avec les données issues de ON24. Pour accéder à la boîte de dialogue Event Schedule, procédez comme suit.
 
-1. Sélectionnez l’événement. Cliquez sur le bouton **Actions d’événement** et sélectionnez **Planifiez.**
+1. Sélectionnez l’événement. Cliquez sur la liste déroulante **Actions d’événement** et sélectionnez **Planifier.**
 
    ![](assets/five.png)
 
-1. Choisissez votre **Date de début, Date de fin**, et **Fuseau horaire**. Cliquez sur **Enregistrer**.
+1. Sélectionnez vos **Date de début, Date de fin** et **Fuseau horaire**. Cliquez sur **Enregistrer**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Si vous mettez à jour des informations d’événement dans ON24, vous devez cliquer sur **Actualisation à partir du fournisseur de webinaire** dans le menu Actions de l’événement pour afficher les nouvelles données.
+   >Si vous mettez à jour des informations sur les événements dans ON24, vous devez cliquer sur **Actualiser à partir du fournisseur de webinaires** dans le menu Actions sur les événements pour voir le nouveau remplissage de données.
 
 Vous pouvez passer à l’étape suivante : [création de campagnes enfants et de ressources locales](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Présentation des événements de l’adaptateur Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[ Compréhension des événements d’adaptateur Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

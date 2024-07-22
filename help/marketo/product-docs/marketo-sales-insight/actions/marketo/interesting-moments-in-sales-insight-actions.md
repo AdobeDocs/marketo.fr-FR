@@ -1,5 +1,5 @@
 ---
-description: Moments intéressants dans les actions de Sales Insight - Documents Marketo - Documentation du produit
+description: Moments intéressants dans les actions d’aperçu des ventes - Documents Marketo - Documentation du produit
 title: Moments intéressants dans les actions d’aperçu commercial
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
@@ -24,19 +24,19 @@ C&#39;est à toi de décider ! Vous décidez quelles informations sont pertinent
 
 ## Comment créer un moment intéressant ? {#how-do-i-create-an-interesting-moment}
 
-1. Choisissez une [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, de préférence une que votre équipe de vente trouverait intéressante si elle était déclenchée.
+1. Choisissez une [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, de préférence une campagne que votre équipe commerciale trouvera intéressante si elle est déclenchée.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Faites glisser le curseur de la souris **Moments intéressants** étape de flux.
+1. Faites glisser l’étape de flux **Moments intéressants** .
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
-1. Sélectionnez une **type** (Courrier électronique, jalon ou Web).
+1. Sélectionnez un **type** (Email, Jalon ou Web).
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Écrivez un message à votre équipe commerciale dans la variable **Description** qui explique pourquoi cette action est importante.
+1. Ecrivez un message à votre équipe commerciale dans le champ **Description** qui explique pourquoi cette action est importante.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -46,7 +46,7 @@ C&#39;est à toi de décider ! Vous décidez quelles informations sont pertinent
 
 ## À quoi ressemble un moment intéressant dans Marketo ?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Les moments intéressants seront affichés dans une [journal des activités du prospect](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+Les moments intéressants seront affichés dans le [journal d’activité de la piste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

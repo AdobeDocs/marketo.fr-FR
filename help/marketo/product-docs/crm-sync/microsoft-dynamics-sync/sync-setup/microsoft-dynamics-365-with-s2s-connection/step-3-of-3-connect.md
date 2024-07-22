@@ -6,8 +6,8 @@ exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 4%
+source-wordcount: '438'
+ht-degree: 2%
 
 ---
 
@@ -17,8 +17,8 @@ C’est la dernière étape de la synchronisation. Nous y sommes presque !
 
 >[!PREREQUISITES]
 >
->* [Étape 1 sur 3 : installation de la solution Marketo avec connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
->* [Étape 2 sur 3 : configuration de la solution Marketo avec connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
+>* [Étape 1 sur 3 : installation de la solution Marketo avec la connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>* [Étape 2 sur 3 : configuration de la solution Marketo avec la connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ C’est la dernière étape de la synchronisation. Nous y sommes presque !
 
 >[!IMPORTANT]
 >
->Si vous effectuez une mise à niveau de l’authentification de base vers OAuth, vous devrez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur la mise à jour des paramètres supplémentaires. L’activation de cette fonction interrompt temporairement la synchronisation jusqu’à ce que de nouvelles informations d’identification soient saisies et que la synchronisation soit réactivée. La fonctionnalité peut être désactivée (jusqu’à avril 2022) si vous souhaitez revenir à l’ancien mode d’authentification.
+>Si vous effectuez une mise à niveau de l’authentification de base vers OAuth, vous devrez contacter le [support Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur la mise à jour des paramètres supplémentaires. L’activation de cette fonction interrompt temporairement la synchronisation jusqu’à ce que de nouvelles informations d’identification soient saisies et que la synchronisation soit réactivée. La fonctionnalité peut être désactivée (jusqu’à avril 2022) si vous souhaitez revenir à l’ancien mode d’authentification.
 
 >[!NOTE]
 >
->Avant de saisir de nouvelles informations d’identification, vous pouvez [valider ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+>Avant de saisir de nouvelles informations d’identification, vous pouvez [les valider ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 ## Entrer les informations sur l’utilisateur de synchronisation Dynamics {#enter-dynamics-sync-user-information}
 
-1. Connectez-vous à Marketo et cliquez sur **[!UICONTROL Administration]**.
+1. Connectez-vous à Marketo et cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/login-admin.png)
 
@@ -42,29 +42,29 @@ C’est la dernière étape de la synchronisation. Nous y sommes presque !
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. Sélectionner **[!DNL Microsoft]**.
+1. Sélectionnez **[!DNL Microsoft]**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Cliquez sur **[!UICONTROL Modifier]** in **[!UICONTROL Saisie des informations d’identification]**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Entrer les informations d’identification]**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >Assurez-vous que votre URL d’organisation est correcte, car nous ne pouvons pas annuler les modifications de schéma suivantes après envoi. Si une URL d’organisation incorrecte est utilisée, vous devrez obtenir un nouvel abonnement Marketo. Si vous ne connaissez pas l’URL, [découvrez comment le trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Assurez-vous que votre URL d’organisation est correcte, car nous ne pouvons pas annuler les modifications de schéma suivantes après envoi. Si une URL d’organisation incorrecte est utilisée, vous devrez obtenir un nouvel abonnement Marketo. Si vous ne connaissez pas l&#39;URL, [ découvrez comment la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
-1. Saisissez les informations de l’utilisateur de synchronisation Dynamics et cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Saisissez les informations utilisateur de synchronisation Dynamics et cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Le nom d’utilisateur dans Marketo doit correspondre à la variable [adresse email](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} de l’utilisateur de l’application dans le CRM. Le format peut être `user@domain.com` ou DOMAIN\user.
+   >Le nom d’utilisateur dans Marketo doit correspondre à l’[ adresse électronique](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} de l’utilisateur d’application dans le CRM. Le format peut être `user@domain.com` ou DOMAIN\user.
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
-1. Cliquez sur **[!UICONTROL Modifier]** in **[!UICONTROL Sélectionner les champs à synchroniser]**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Sélectionner les champs à synchroniser]**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -74,7 +74,7 @@ C’est la dernière étape de la synchronisation. Nous y sommes presque !
 
 >[!NOTE]
 >
->Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la variable [sync désactivé](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant le [champ de sélection à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
 ## Champs de synchronisation pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
@@ -84,7 +84,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et sélectionner 
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **[!UICONTROL Modifier]** sur Détails de synchronisation du champ.
+1. Cliquez sur **[!UICONTROL Modifier]** sur Détails de la synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -94,7 +94,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et sélectionner 
 
 ## Activer la synchronisation {#enable-sync}
 
-1. Cliquez sur **[!UICONTROL Modifier]** in **[!UICONTROL Activer la synchronisation]**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -102,7 +102,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et sélectionner 
    >
    >Marketo ne procède pas automatiquement à la déduplication par rapport à une synchronisation Microsoft Dynamics, ou lorsque vous saisissez manuellement des personnes ou des pistes.
 
-1. Lisez tout ce qui se trouve dans la fenêtre contextuelle, entrez votre adresse électronique, puis cliquez sur **[!UICONTROL Démarrer la synchronisation]**.
+1. Lisez tout ce qui se trouve dans la fenêtre contextuelle, saisissez votre adresse électronique, puis cliquez sur **[!UICONTROL Démarrer la synchronisation]**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 

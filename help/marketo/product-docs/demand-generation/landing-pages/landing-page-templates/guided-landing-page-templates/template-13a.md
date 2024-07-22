@@ -6,20 +6,20 @@ exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
 # Modèle 13A {#template-13a}
 
-Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * inclut un titre de héros et une image ;
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+[Modèle 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)

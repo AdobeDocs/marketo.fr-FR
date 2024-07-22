@@ -6,7 +6,7 @@ exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Les clients disposant de Salesforce Professional Edition devront suivre ces éta
 
 ## Installation {#installation}
 
-1. Dans Sales Connect, cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Paramètres**.
+1. Dans Sales Connect, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-4.png)
 
@@ -34,14 +34,14 @@ Les clients disposant de Salesforce Professional Edition devront suivre ces éta
 
    >[!CAUTION]
    >
-   >Si vous êtes connecté, un bouton vert &quot;Installer&quot; s’affiche. **NE PAS** cliquez sur ce bouton, passez à l’étape 4 à la place.
+   >Si vous êtes connecté, un bouton vert &quot;Installer&quot; s’affiche. **DO NOT** cliquez sur ce bouton, passez à l&#39;étape 4 à la place.
 
 1. Connectez-vous au compte Salesforce auquel vous êtes connecté, puis cliquez sur [ce lien](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Vous serez envoyé à la page d’installation de Sales Connect.
 
    ![](assets/install-package.png)
 
-1. Sélectionnez les utilisateurs pour lesquels vous souhaitez installer des personnalisations : Administrateur uniquement, tous les utilisateurs ou des profils spécifiques.
+1. Sélectionnez les utilisateurs pour lesquels vous souhaitez installer des personnalisations : Administrateur uniquement, tous les utilisateurs ou certains profils.
 1. Cliquez sur le bouton **Installer** pour installer la personnalisation.
 1. Pour confirmer la réussite de l’installation, connectez-vous à votre compte Salesforce.
 1. Cliquez sur **Configuration**, recherchez &quot;Packages installés&quot; dans la barre de recherche, puis cliquez sur **Packages installés**.
@@ -56,6 +56,6 @@ Les clients disposant de Salesforce Professional Edition devront suivre ces éta
 
 ## Guides {#guides}
 
-[Guide d’installation de Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[ Guide d’installation pour Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Guide d’installation pour Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Guide d&#39;installation pour Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

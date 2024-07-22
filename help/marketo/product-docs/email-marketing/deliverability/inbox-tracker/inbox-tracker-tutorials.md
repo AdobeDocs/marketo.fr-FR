@@ -26,21 +26,21 @@ Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleu
 
 * [Navigation de base](https://veed.io/view/263a0e5e-3b0c-40a4-98a7-945fe28173a1){target="_blank"}
 
-* [Paramètres des utilisateurs et des comptes](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
+* [Paramètres utilisateur et compte](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
-* [Intelliseed (Configuration et téléchargement)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
+* [Intelliseed (Configure and Download)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Section Délivrabilité du dispositif de suivi des boîtes de réception {#inbox-tracker-deliverability-section}
 
 ![](assets/inbox-tracker-tutorials-2.png)
 
-* [Présentation du tableau de bord](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
+* [Aperçu du tableau de bord](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
 * [Tableau de bord (délivrabilité)](https://veed.io/view/f5dc2e22-3ed1-4024-b6c5-bf346adcc07d){target="_blank"}
 
-* [Tableau de bord (Réputation et authentification)](https://veed.io/view/ec237f9d-7923-4ddc-8a58-15d58774d382){target="_blank"}
+* [Tableau de bord (réputation et authentification)](https://veed.io/view/ec237f9d-7923-4ddc-8a58-15d58774d382){target="_blank"}
 
-* [Pondération des FAI](https://veed.io/view/bec80e1d-66f2-462c-8470-60610c8a07f7){target="_blank"}
+* [Pondération de FAI](https://veed.io/view/bec80e1d-66f2-462c-8470-60610c8a07f7){target="_blank"}
 
 * [Alertes](https://veed.io/view/1d968a33-e565-4cd2-b25f-53cca61b4823){target="_blank"}
 
@@ -50,7 +50,7 @@ Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleu
 
 * [Analytics Tracker](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
-* [Surveiller le profil](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
+* [ {Profile Monitor](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 
 * [Spam Trap Monitor](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
 
@@ -64,7 +64,7 @@ Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleu
 
 ## Outils Postmaster de suivi de boîte de réception {#inbox-tracker-postmaster-tools}
 
-* [Outils de postmaster Google](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
+* [Google Postmaster Tools](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Suivi de conception {#design-tracker}
 

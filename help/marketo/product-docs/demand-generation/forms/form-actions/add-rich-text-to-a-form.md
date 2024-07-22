@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,11 +23,11 @@ Utilisez le texte enrichi d’un formulaire pour ajouter des instructions ou d�
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Cliquez sur le bouton **+** signe.
+1. Cliquez sur le signe **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Sélectionner **Texte enrichi**.
+1. Sélectionnez **Texte enrichi**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 

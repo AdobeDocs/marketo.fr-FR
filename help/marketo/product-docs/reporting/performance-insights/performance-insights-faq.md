@@ -6,7 +6,7 @@ exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1346'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Le succès est une mesure de l’interaction significative dans Marketo. Le but 
 
 >[!NOTE]
 >
->Dans un programme de webinaire, il peut y avoir plusieurs états, tels que : Invité, enregistré et assisté. Invité ou Enregistré ne sont pas des interactions significatives parce que les gens ne regardent pas vraiment le webinaire. Participé est considéré comme une réussite dans ce cas.
+>Dans un programme de webinaire, plusieurs statuts peuvent être associés, par exemple : Invité, Enregistré et Participant. Invité ou Enregistré ne sont pas des interactions significatives parce que les gens ne regardent pas vraiment le webinaire. Participé est considéré comme une réussite dans ce cas.
 
 ## Les MPI fonctionneront-ils avec n’importe quel CRM ? {#will-mpi-work-with-any-crm}
 
@@ -39,7 +39,7 @@ Vous pouvez contrôler la visibilité de vos programmes en définissant le compo
 
 >[!NOTE]
 >
->En savoir plus sur la définition du comportement d’analyse [here](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>En savoir plus sur la définition du comportement d’analyse [ici](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## J’exécute une campagne multicanal pour un nouveau lancement de produit. Comment puis-je visualiser les performances de cette campagne sur tous les différents canaux au même endroit ? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -63,7 +63,7 @@ Il se peut également que vous manquiez des opportunités en raison de l’absen
 
 >[!NOTE]
 >
->Coût de la période **has** à configurer pour la création de rapports Succès et Noms dans le tableau de bord Engagement . Ce tableau de bord utilise les données de coût de période pour agréger les succès et les nouveaux noms. Si le coût de la période n’est pas configuré, le tableau de bord de l’engagement ne sera pas correctement reporté, quels que soient les paramètres de comportement d’Analytics ci-dessus.
+>Le coût de la période **doit être configuré pour la création de rapports Succès et Noms dans le tableau de bord Engagement.** Ce tableau de bord utilise les données de coût de période pour agréger les succès et les nouveaux noms. Si le coût de la période n’est pas configuré, le tableau de bord de l’engagement ne sera pas correctement reporté, quels que soient les paramètres de comportement d’Analytics ci-dessus.
 
 ## Pourquoi manque-t-il certaines opportunités dans MPI ? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Les champs personnalisés, le type d’opportunité et les filtres ABM sont tous
 
 ## Je souhaite utiliser un champ Opportunité Salesforce personnalisé pour la création de rapports de recettes au lieu du champ Montant d’opportunité Salesforce standard. Est-ce que MPI me permettra de faire ça ? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Oui. [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) peut remapper le champ Montant de l’opportunité de Marketo à un champ Opportunité Salesforce personnalisé tant que le type de champ est monétaire. Puisque MPI pointe vers le champ Montant d’opportunité Marketo, MPI peut utiliser les données du champ personnalisé Salesforce mappé.
+Oui. [ L’assistance de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) peut mapper le champ Montant de l’opportunité de Marketo sur un champ Opportunité Salesforce personnalisé tant que le type de champ est une devise. Puisque MPI pointe vers le champ Montant d’opportunité Marketo, MPI peut utiliser les données du champ personnalisé Salesforce mappé.
 
 >[!NOTE]
 >
@@ -100,17 +100,17 @@ MPI est conçu pour vous permettre de mesurer les performances du programme du h
 
 ## Puis-je mesurer le succès des stratégies basées sur les comptes dans MPI ? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Oui. MPI s’intègre à [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) pour extraire en toute transparence les listes de comptes ABM dans MPI. Vous pouvez utiliser le filtre Liste des comptes ABM pour choisir la liste ABM dont vous souhaitez filtrer les données.
+Oui. MPI s’intègre à [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) pour extraire en toute transparence les listes de comptes ABM en MPI. Vous pouvez utiliser le filtre Liste des comptes ABM pour choisir la liste ABM dont vous souhaitez filtrer les données.
 
 ## L’attribution est-elle instantanément disponible lorsque j’achète des MPI ? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Les fonctionnalités d’attribution Marketo sont disponibles pour nos clients lorsqu’ils achètent des MPI. Cependant, [configuration appropriée](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) est requis pour s’assurer que les opportunités et les données de programme se déplacent correctement dans les MPI.
+Les fonctionnalités d’attribution Marketo sont disponibles pour nos clients lorsqu’ils achètent des MPI. Cependant, la [configuration appropriée](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) est requise pour s’assurer que les opportunités et les données de programme se déplacent correctement dans MPI.
 
 ## Que dois-je faire pour configurer l’attribution ? {#what-do-i-have-to-do-to-set-up-attribution}
 
 1. Configuration de l’opportunité
 
-   1. Assurez-vous que les opportunités sont synchronisées avec votre CRM
+   1. Vérifiez que les opportunités sont synchronisées avec votre CRM
    1. Si vos paramètres d’attribution sont définis sur Explicite, assurez-vous que les rôles de contact sur les opportunités sont renseignés.
    1. Nous vous recommandons de modifier le paramètre d’attribution en Hybride.
    1. Configuration du programme
@@ -125,7 +125,7 @@ Les fonctionnalités d’attribution Marketo sont disponibles pour nos clients l
 
 >[!TIP]
 >
->Toutes les étapes de configuration requises sont présentées dans la section [cet article](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>Toutes les étapes de configuration requises sont détaillées dans [cet article](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Quelle est la différence entre MPI et l’analyseur de programme ? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

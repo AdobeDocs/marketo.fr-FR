@@ -1,6 +1,6 @@
 ---
 unique-page-id: 37356590
-description: Ajout de contenu de zone réactive à votre message électronique - Documents Marketo - Documentation du produit
+description: Ajout de contenu Highspot à votre message électronique - Documents Marketo - Documentation du produit
 title: Ajout de contenu de zone réactive à votre message électronique
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si vous êtes un client de zone réactive, vous pouvez facilement insérer du contenu de zone réactive dans vos e-mails de connexion aux ventes.
 
-1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
+1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
 
    ![](assets/one-5.png)
 
@@ -23,7 +23,7 @@ Si vous êtes un client de zone réactive, vous pouvez facilement insérer du co
 
    ![](assets/two-5.png)
 
-1. Cliquez sur l&#39;emplacement dans l&#39;email où vous souhaitez insérer le contenu Zone réactive. Cliquez sur la liste déroulante de flèche (en regard de l’icône de pièce jointe) et sélectionnez **Zone réactive**.
+1. Cliquez sur l&#39;emplacement dans l&#39;email où vous souhaitez insérer le contenu Zone réactive. Cliquez sur la liste déroulante des flèches (en regard de l’icône de la pièce jointe) et sélectionnez **Zone réactive**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Si vous êtes un client de zone réactive, vous pouvez facilement insérer du co
 
    ![](assets/four-5.png)
 
-1. Sélectionnez le contenu souhaité, puis cliquez sur le bouton **Ajouter du contenu** bouton .
+1. Sélectionnez le contenu de votre choix et cliquez sur le bouton **Ajouter du contenu** .
 
    ![](assets/five-3.png)
 

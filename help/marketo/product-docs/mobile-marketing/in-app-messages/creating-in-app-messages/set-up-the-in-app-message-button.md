@@ -19,7 +19,7 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou charger
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Pour modifier la couleur du bouton standard, cliquez sur le bouton **Couleur** bouton .
+1. Pour modifier la couleur du bouton standard, cliquez sur le bouton **Color** .
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou charger
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Si vous souhaitez utiliser votre propre image pour un bouton, cliquez sur le bouton Image , puis sur **Sélectionner une image**.
+1. Si vous souhaitez utiliser votre propre image pour un bouton, cliquez sur le bouton Image, puis sur **Sélectionner l&#39;image**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Sélectionnez l’image et cliquez sur **Sélectionner**.
+1. Sélectionnez l&#39;image et cliquez sur **Sélectionner**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -51,11 +51,11 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou charger
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Choisissez le style de police pour mettre l’accent : **Gras**, _Italique_ ou Souligner.
+1. Choisissez le style de police pour mettre l’accent : **Bold**, _Italic_ ou Souligné.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
-1. Cliquez sur le texte du bouton pour l’éditer en ligne.
+1. Cliquez sur le texte du bouton pour le modifier en ligne.
 
    ![](assets/image2016-5-6-16-3a46-3a17.png)
 
@@ -71,9 +71,9 @@ Vous pouvez utiliser la conception de bouton par défaut, la modifier ou charger
    >
    >Le bouton comporte toujours une action d’appui. Par conséquent, la case à cocher Appuyer sur l’action est automatiquement sélectionnée, avec le message par défaut &quot;Ignorer le message&quot;.
 
-Presque là. La dernière étape consiste à [configurer l’arrière-plan de votre message in-app et le bouton Ignorer](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Presque là. Votre dernière étape est de [configurer l’arrière-plan de votre message in-app et d’ignorer le bouton ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Compréhension des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

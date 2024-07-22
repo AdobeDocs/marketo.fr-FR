@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Comment partager un modèle {#how-to-share-a-template}
 
-Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent privés par défaut. Cliquez sur le vert **Partager** dans la partie supérieure de votre modèle pour le partager avec le reste de votre équipe.
+Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent privés par défaut. Cliquez sur le bouton vert **Partager** en haut de votre modèle pour le partager avec le reste de votre équipe.
 
 ## Comment trouver des modèles partagés  {#how-to-find-shared-templates}
 
-Les modèles qui ont été partagés avec vous s’affichent sous le **Modèles d’équipe** en-tête sur le côté gauche de la page Modèles .
+Les modèles qui ont été partagés avec vous s’affichent sous l’en-tête **Modèles d’équipe** sur le côté gauche de la page Modèles.
 
 >[!NOTE]
 >

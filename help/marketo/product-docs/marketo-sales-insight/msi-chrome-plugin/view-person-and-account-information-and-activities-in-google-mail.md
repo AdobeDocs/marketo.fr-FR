@@ -41,7 +41,7 @@ Cliquez sur l’icône Marketo pour développer le volet.
 
 ## Affichage des activités dans Google Chrome {#view-activities-in-google-chrome}
 
-Vous pouvez également utiliser le volet Activité globale dans Google Chrome pour afficher la liste complète des activités les plus récentes qui se sont produites pour toutes les personnes avec lesquelles vous avez correspondu récemment. Il s’agit d’un flux mis à jour en temps réel qui affiche en permanence le nombre d’activités non lues sur l’icône.
+Vous pouvez également utiliser le volet Activité globale de Google Chrome pour afficher la liste complète des activités les plus récentes qui se sont produites pour toutes les personnes avec lesquelles vous avez correspondu récemment. Il s’agit d’un flux mis à jour en temps réel qui affiche en permanence le nombre d’activités non lues sur l’icône.
 
 Cliquez sur l’icône Marketo pour ouvrir le volet.
 

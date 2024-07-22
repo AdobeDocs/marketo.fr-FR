@@ -5,7 +5,7 @@ exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Les administrateurs peuvent remplacer la priorité déterminée par le Marketo E
 
 >[!NOTE]
 >
->Cette fonctionnalité est disponible uniquement pour les campagnes de déclenchement et pour les utilisateurs qui ont reçu l’autorisation [Autorisation &quot;Modifier la priorité de la campagne du déclencheur&quot;](#grant-priority-override-access).
+>Cette fonctionnalité est disponible uniquement pour les campagnes de déclenchement et pour les utilisateurs qui ont reçu l’autorisation [&quot;Modifier la priorité de la campagne de déclenchement&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -28,15 +28,15 @@ Les administrateurs peuvent remplacer la priorité déterminée par le Marketo E
 >
 >Seuls les administrateurs ou les utilisateurs avec des responsabilités d’administrateur doivent disposer d’un accès de priorité de campagne de remplacement.
 
-1. Dans le [!UICONTROL Administration] zone, cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
+1. Dans la zone [!UICONTROL Admin], cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Rôles]** , sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
+1. Cliquez sur l’onglet **[!UICONTROL Rôles]** , sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Sous [!UICONTROL Accès aux activités marketing], sélectionnez **[!UICONTROL Modifier la priorité de la campagne de déclenchement]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sous [!UICONTROL Accéder aux activités marketing], sélectionnez **[!UICONTROL Modifier la priorité de la campagne de déclenchement]**. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -46,7 +46,7 @@ Les administrateurs peuvent remplacer la priorité déterminée par le Marketo E
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Remplacer la priorité de la campagne]** curseur à activer. Sélectionnez un nouveau niveau de priorité et cliquez sur **[!UICONTROL Confirmer]**.
+1. Cliquez sur le curseur **[!UICONTROL Remplacer la priorité de la campagne]** pour l’activer. Choisissez un nouveau niveau de priorité et cliquez sur **[!UICONTROL Confirmer]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
@@ -56,6 +56,6 @@ Les administrateurs peuvent remplacer la priorité déterminée par le Marketo E
 
 >[!NOTE]
 >
->* Vous pouvez afficher la priorité par défaut de votre campagne dans la [!UICONTROL File d’attente de campagne] under [!UICONTROL Activités marketing]. Pour augmenter le taux d&#39;exécution, nous vous recommandons de définir la priorité de votre campagne à un niveau supérieur à son niveau par défaut.
+>* Vous pouvez afficher la priorité par défaut de votre campagne dans la [!UICONTROL file d’attente de campagne] sous [!UICONTROL Activités marketing]. Pour augmenter le taux d&#39;exécution, nous vous recommandons de définir la priorité de votre campagne à un niveau supérieur à son niveau par défaut.
 >* La priorité définie par l’utilisateur s’applique uniquement aux nouvelles personnes qui remplissent les critères de la campagne ; les personnes déjà en file d’attente ne seront pas affectées.
->* Les remplacements de priorité sont capturés dans [Suivi](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.
+>* Les remplacements de priorité sont capturés dans le [journal d’audit](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

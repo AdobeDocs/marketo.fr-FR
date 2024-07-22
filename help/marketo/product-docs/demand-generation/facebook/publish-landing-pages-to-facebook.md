@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359823
-description: Publication de pages d’entrée sur Facebook - Documents Marketo - Documentation du produit
-title: Publication de pages d’entrée sur Facebook
+description: Pages d’entrée Publish vers Facebook - Documents Marketo - Documentation du produit
+title: Publish Landing Pages vers Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Publication de pages d’entrée sur Facebook {#publish-landing-pages-to-facebook}
+# Publish Landing Pages vers Facebook {#publish-landing-pages-to-facebook}
 
 Vous pouvez publier vos landing pages sur Facebook, rencontrer votre audience là où ils se trouvent déjà et générer plus de trafic sur vos programmes.
 
@@ -29,7 +29,7 @@ Disons que vous lancez un nouveau livre, vous pourriez atteindre certains de vos
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Sélectionner **Publication sur Facebook** à partir des actions de page d’entrée.
+1. Sélectionnez **Publish to Facebook** dans Actions de page d’entrée.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -49,13 +49,13 @@ Disons que vous lancez un nouveau livre, vous pourriez atteindre certains de vos
    >
    >Vous devez utiliser un compte doté des autorisations d’administrateur pour la page Facebook sur laquelle vous souhaitez publier votre page d’entrée Marketo.
 
-1. Sélectionnez la **Page facebook** où vous souhaitez publier la landing page et y saisir le nom sous lequel votre landing page Marketo doit apparaître.
+1. Sélectionnez la **page Facebook** où vous souhaitez publier la landing page et saisissez le nom sous lequel votre landing page Marketo doit y apparaître.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Pour remplacer les landing pages Marketo que vous avez précédemment publiées dans Facebook, sélectionnez **Remplacer l’onglet existant** et sélectionnez l’onglet à remplacer dans la liste déroulante. Notez que cela ne remplacera pas les onglets autres que Marketo.
+   >Pour remplacer les landing pages Marketo que vous avez précédemment publiées sur Facebook, sélectionnez **Remplacer l’onglet existant** et choisissez l’onglet à remplacer dans la liste déroulante. Notez que cela ne remplacera pas les onglets autres que Marketo.
 
 1. Les pistes peuvent désormais accéder à votre page d’entrée directement sur votre page Facebook. Cliquez simplement sur le nom de l’onglet sous votre image de couverture.
 

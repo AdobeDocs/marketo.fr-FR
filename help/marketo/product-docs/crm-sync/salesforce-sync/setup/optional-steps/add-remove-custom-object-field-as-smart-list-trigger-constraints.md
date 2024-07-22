@@ -19,11 +19,11 @@ Marketo Engage offre un contrôle de grain fin sur la synchronisation des objets
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Cliquez sur **[!UICONTROL Administration]** puis **[!UICONTROL Synchronisation des objets Salesforce]**.
+1. Cliquez sur **[!UICONTROL Admin]**, puis sur **[!UICONTROL Synchronisation des objets Salesforce]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
@@ -39,7 +39,7 @@ Marketo Engage offre un contrôle de grain fin sur la synchronisation des objets
 
    >[!TIP]
    >
-   >Si la variable **[!UICONTROL Modifier les champs visibles]** est grisé, l’objet est actuellement utilisé dans une liste dynamique ou dans une campagne dynamique. Supprimez toutes les associations pour continuer.
+   >Si le bouton **[!UICONTROL Modifier les champs visibles]** est grisé, l’objet est actuellement utilisé dans une liste dynamique ou une campagne dynamique. Supprimez toutes les associations pour continuer.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
@@ -47,7 +47,7 @@ Marketo Engage offre un contrôle de grain fin sur la synchronisation des objets
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Cochez les cases en regard des contraintes de filtre/déclenchement nécessaires, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez les cases en regard des contraintes de filtre/déclenchement nécessaires et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo Engage offre un contrôle de grain fin sur la synchronisation des objets
    >
    >Tous les champs sont sélectionnés par défaut pour être des contraintes sur les filtres.
 
-1. Cliquez sur le bouton **[!UICONTROL Champs]** pour confirmer vos modifications.
+1. Cliquez sur l’onglet **[!UICONTROL Champs]** pour confirmer vos modifications.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
@@ -67,4 +67,4 @@ Vos listes intelligentes et campagnes intelligentes disposent désormais d’une
 
 >[!MORELIKETHIS]
 >
->[Activer/Désactiver la synchronisation d’objets personnalisés](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}
+>[Activer/Désactiver la synchronisation d’objet personnalisé](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}

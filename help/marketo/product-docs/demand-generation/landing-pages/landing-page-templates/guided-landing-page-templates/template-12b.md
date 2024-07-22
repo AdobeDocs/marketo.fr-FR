@@ -6,21 +6,21 @@ exl-id: 47d18c27-ff60-4f22-b590-8739e6352b13
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # Modèle 12B {#template-12b}
 
-Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 
 Ce modèle comprend le contenu suivant :
 
 * Un en-tête (facultatif)
-* Une section Principale
+* Une section principale
 
    * comprend le titre de la héroïne, le texte de la bannière et l’image de la bannière
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 12B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
+[Modèle 12B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)

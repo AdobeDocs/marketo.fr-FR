@@ -19,11 +19,11 @@ Dans les applications de type bouton social, partage vidéo et sondage, vous pou
 
    ![](assets/ma.png)
 
-1. Sélectionnez l’application, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’application et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application** puis **Options avancées**.
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application**, puis **Options avancées**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -32,13 +32,13 @@ Dans les applications de type bouton social, partage vidéo et sondage, vous pou
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
    * **Message de confirmation :** Une fois la personne partagée, affichez une confirmation.
-   * **Capture d’email :** Une fois que la personne a partagé, demandez son adresse électronique.
+   * **Capture de l’email :** Une fois que la personne a partagé, demandez son adresse électronique.
 
    >[!NOTE]
    >
    >Si vous choisissez **Capture d’email**, la demande ne s’affiche que si la personne n’a pas déjà fourni ses informations.
 
-1. Si vous choisissez **Message de confirmation :** Accédez à **Flux de partage** puis **Message de confirmation**.
+1. Si vous avez choisi **Message de confirmation :**, accédez à **Partager le flux**, puis **Message de confirmation**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +46,11 @@ Dans les applications de type bouton social, partage vidéo et sondage, vous pou
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Si vous choisissez **Capture d’email** (au lieu de confirmer) : Accédez à **Flux de partage** puis **Capture d’email**.
+1. Si vous choisissez **Capture d’email** (au lieu d’une confirmation) : accédez à **Partager le flux**, puis **Capture d’email**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Indiquez si vous souhaitez inclure une invite marketing et si cette case à cocher est sélectionnée par défaut (**Exclusion**) ou non (**Inclusion**).
+1. Indiquez si vous souhaitez inclure une invite marketing et si cette case à cocher est sélectionnée par défaut (**Opt Out**) ou non (**Opt In**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 

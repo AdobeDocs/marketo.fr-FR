@@ -19,7 +19,7 @@ Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affecta
 >
 >Vous pouvez uniquement affecter des tâches aux contacts partagés.
 
-1. Cliquez sur le bouton **Centre de commandes**.
+1. Cliquez sur le **Centre de commandes**.
 
    ![](assets/one-1.png)
 
@@ -51,6 +51,6 @@ Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affecta
 
    ![](assets/eight.png)
 
-1. Ajoutez des détails importants pertinents pour votre partenaire d’équipe (facultatif), puis cliquez sur **Créer**.
+1. Ajoutez tous les détails importants pertinents pour votre partenaire d’équipe (facultatif), puis cliquez sur **Créer**.
 
    ![](assets/nine.png)

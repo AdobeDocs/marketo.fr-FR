@@ -6,29 +6,29 @@ exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '456'
-ht-degree: 6%
+source-wordcount: '468'
+ht-degree: 4%
 
 ---
 
 # Marketing goutte à goutte et fidélisation {#drip-drip-nurture}
 
-## Mission : Nouer les personnes qui ont assisté à votre récente exposition {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Mission : familiariser les personnes qui ont assisté à votre récente exposition {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 Vous pouvez facilement créer un système d’alimentation avancé et sophistiqué dans Marketo. Voilà comment !
 
 >[!PREREQUISITES]
 >
->* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [Configurer et ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Importer une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
-## Étape 1 : Création d’un programme d’engagement {#step-create-an-engagement-program}
+## Étape 1 : création d’un programme d’engagement {#step-create-an-engagement-program}
 
-1. Accédez au **[!UICONTROL Activités marketing]** zone.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Sélectionnez la **Formation** , cliquez sur le dossier **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouveau programme]**.
+1. Sélectionnez le dossier **Learning**, cliquez sur la liste déroulante **[!UICONTROL New]** et sélectionnez **[!UICONTROL New Program]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
@@ -36,7 +36,7 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Assurez-vous que la variable **[!UICONTROL Canal]** est **[!UICONTROL Infirmière]** et cliquez sur **[!UICONTROL Créer]**.
+1. Assurez-vous que le champ **[!UICONTROL Channel]** est **[!UICONTROL Nurture]** et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -44,7 +44,7 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
 ## Étape 2 : Créer un e-mail {#step-create-an-email}
 
-1. Sélectionnez votre programme d’engagement, puis cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
+1. Sélectionnez votre programme d’engagement, cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
@@ -52,19 +52,19 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. Saisissez un **[!UICONTROL Nom]**, sélectionnez la variable **[!UICONTROL Modèle]** à utiliser, puis cliquez sur **[!UICONTROL Créer]**.
+1. Saisissez un **[!UICONTROL Nom]**, sélectionnez le **[!UICONTROL Modèle]** à utiliser, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >Vous ne voyez pas l’éditeur d’email ? Votre navigateur a probablement bloqué la fenêtre. Activation des fenêtres contextuelles à partir de `app.marketo.com` dans votre navigateur, puis cliquez sur **[!UICONTROL Modifier le brouillon]** dans la barre de menu supérieure.
+   >Vous ne voyez pas l’éditeur d’email ? Votre navigateur a probablement bloqué la fenêtre. Activez les fenêtres contextuelles de `app.marketo.com` dans votre navigateur et cliquez sur **[!UICONTROL Modifier le brouillon]** dans la barre de menu supérieure.
 
-1. Entrer l’objet.
+1. Saisissez un objet.
 
    ![](assets/drip-drip-nurture-8.png)
 
-1. Sélectionnez la zone de l&#39;email à modifier, cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **[!UICONTROL Modifier]**.
+1. Sélectionnez la zone de l&#39;email que vous souhaitez modifier, cliquez sur l&#39;icône d&#39;engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/drip-drip-nurture-9.png)
 
@@ -88,7 +88,7 @@ Vous pouvez facilement créer un système d’alimentation avancé et sophistiqu
 
 Il est maintenant temps de créer un flux de contenu pour votre programme d’engagement à l’aide des emails que vous avez créés.
 
-1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **[!UICONTROL Flux]** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **[!UICONTROL Flux]** .
 
    ![](assets/drip-drip-nurture-13.png)
 
@@ -98,15 +98,15 @@ Il est maintenant temps de créer un flux de contenu pour votre programme d’en
 
    >[!TIP]
    >
-   >Vous pouvez également utiliser la variable **+** icône .
+   >Vous pouvez également utiliser l’icône **+** .
 
 1. Laissez le type &quot;Email&quot; sélectionné. Recherchez et sélectionnez les deux emails que vous avez créés.
 
    ![](assets/drip-drip-nurture-15.png)
 
-## Étape 4 : Activation du contenu de diffusion {#step-activate-stream-content}
+## Étape 4 : activation du contenu de diffusion {#step-activate-stream-content}
 
-1. Activez tout le contenu à la fois en cliquant sur l’icône d’engrenage de la diffusion, puis cliquez sur **[!UICONTROL Activer tout le contenu]**.
+1. Activez tout le contenu en même temps en cliquant sur l’icône représentant un engrenage de flux, puis cliquez sur **[!UICONTROL Activer tout le contenu]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -116,13 +116,13 @@ Il est maintenant temps de créer un flux de contenu pour votre programme d’en
 
    Bon travail ! Une étape de plus et le programme d&#39;engagement est prêt.
 
-## Étape 5 : Définition de l’cadence de diffusion {#step-set-the-stream-cadence}
+## Étape 5 : définition de la fréquence de diffusion {#step-set-the-stream-cadence}
 
-1. Cliquez sur **[!UICONTROL Définition de la cadence de diffusion]**.
+1. Cliquez sur **[!UICONTROL Définir la cadence de diffusion]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Modifiez les paramètres pour qu’ils correspondent à la planification souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Modifiez les paramètres pour qu&#39;ils correspondent à la planification souhaitée et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -134,7 +134,7 @@ Il est maintenant temps de créer un flux de contenu pour votre programme d’en
 
 ## Étape 6 : Ajout d’une personne test à votre programme d’engagement {#step-add-a-test-person-to-your-engagement-program}
 
-1. Accédez au **[!UICONTROL Base]** zone.
+1. Accédez à la zone **[!UICONTROL Base de données]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -150,22 +150,22 @@ Il est maintenant temps de créer un flux de contenu pour votre programme d’en
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Sélectionnez votre **[!UICONTROL Programme]** et **[!UICONTROL Diffusion]**, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
+1. Sélectionnez vos **[!UICONTROL Programme]** et **[!UICONTROL Diffusion]**, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
-1. Mission accomplie!
+1. Mission terminée !
 
 1. Vous devriez recevoir un courrier électronique à l’heure et à la cadence que vous avez spécifiées.
 
    >[!NOTE]
    >
-   >En savoir plus sur [Programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
+   >En savoir plus sur les [programmes d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
-## Mission accomplie! {#mission-complete}
+## Mission terminée ! {#mission-complete}
 
 <br> 
 
-[◄ Mission 5 : Importation d’une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Mission 5 : Importer une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Mission 7 : Personnaliser un e-mail ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Mission 7 : personnaliser un ► de courrier électronique](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

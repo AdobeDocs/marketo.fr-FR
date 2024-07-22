@@ -5,8 +5,8 @@ exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 0%
+source-wordcount: '461'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Si vous souhaitez consigner les résultats des appels et les raisons des appels à Salesforce à des fins de reporting ou de visibilité, vous pouvez créer un champ d’activité personnalisé pour chacun d’eux. Chaque champ doit utiliser un nom d’API spécifique (appelé &quot;Nom de champ&quot; dans Salesforce).
 
-* Nom du champ des résultats de l’appel : mktosales_call_result
+* Appeler les résultats Nom du champ : mktosales_call_result
 * Nom du champ Raisons de l’appel : mktosales_call_reason
 
 Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ d’activité personnalisé. Pour le rendre visible par les utilisateurs, vous devez l’ajouter à la mise en page de la page de l’objet de tâche.
@@ -23,7 +23,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
 ### Créer un champ d’activité personnalisé dans Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -31,11 +31,11 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. Cliquez sur **Champs personnalisés d’une activité**.
+1. Cliquez sur **Champs personnalisés de l’activité**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. Cliquez sur **Nouveau**.
+1. Cliquez sur **New**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
@@ -51,7 +51,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. Sélectionnez les paramètres de sécurité au niveau du champ de votre choix pour ce champ, puis cliquez sur **Suivant** (l’image ci-dessous n’est qu’un exemple).
+1. Sélectionnez les paramètres de sécurité au niveau du champ de votre choix pour ce champ et cliquez sur **Suivant** (l’image ci-dessous n’est qu’un exemple).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
@@ -59,7 +59,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
    >
    >Assurez-vous que le champ personnalisé est visible pour le profil que vos utilisateurs utilisent pour les actions d’aperçu des ventes, ainsi que tout autre champ que vous souhaitez voir.
 
-1. Sélectionnez les mises en page auxquelles vous souhaitez ajouter le champ, puis cliquez sur **Enregistrer** (Si vous le souhaitez, vous pouvez cliquer sur **Enregistrer et nouveau** et répétez le processus pour le champ Motif de l’appel .)
+1. Sélectionnez les mises en page auxquelles vous souhaitez ajouter le champ et cliquez sur **Enregistrer** (vous pouvez éventuellement cliquer sur **Enregistrer et nouveau** et répéter le processus pour le champ Motif de l’appel ).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -67,9 +67,9 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
 >[!NOTE]
 >
->Vous devrez suivre ces étapes uniquement si vous n’avez pas sélectionné la mise en page souhaitée à l’étape 9 ci-dessus.
+>Vous n’aurez à suivre ces étapes que si vous n’avez pas sélectionné la mise en page souhaitée à l’étape 9 ci-dessus.
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -77,7 +77,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. Cliquez sur **Mises en page de tâche**.
+1. Cliquez sur **Task Page Layouts**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
@@ -109,7 +109,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Cliquez sur le bouton **Activité** libellé.
+1. Cliquez sur le libellé **Activité** .
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
@@ -117,7 +117,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. Cliquez sur **Nouveau**.
+1. Cliquez sur **New**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
@@ -135,11 +135,11 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Cliquez sur le bouton **Tâche** libellé.
+1. Cliquez sur le libellé **Task** .
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Cliquez sur **Disposition de page**.
+1. Cliquez sur **Dispositions de page**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 

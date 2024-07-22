@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo vous permet de partager un ou plusieurs modèles dans plusieurs espaces de travail. Voici comment.
 
-1. Accédez au **Analytics** .
+1. Accédez à la section **Analytics** .
 
    ![](assets/analytics.png)
 
-1. Cliquez avec le bouton droit de la souris **Mes modèles** et cliquez sur **Nouveau dossier**.
+1. Cliquez avec le bouton droit sur le dossier **My Models** et cliquez sur **New Folder**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ Marketo vous permet de partager un ou plusieurs modèles dans plusieurs espaces 
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Faites glisser le ou les modèles que vous souhaitez partager dans le **Partager le dossier**.
+1. Faites glisser le ou les modèles que vous souhaitez partager dans le **dossier de partage**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Cliquez avec le bouton droit de la souris sur votre dossier, puis cliquez sur **Partager le dossier**.
+1. Cliquez avec le bouton droit sur votre dossier et cliquez sur **Partager le dossier**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -39,7 +39,7 @@ Marketo vous permet de partager un ou plusieurs modèles dans plusieurs espaces 
    >
    >Le partage d’un modèle avec un autre espace de travail permet à ces utilisateurs d’exécuter des rapports basés sur le modèle.
 
-1. Sélectionnez les espaces de travail avec lesquels vous souhaitez partager le dossier, puis cliquez sur **Enregistrer**.
+1. Sélectionnez les espaces de travail avec lesquels vous souhaitez partager le dossier et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

@@ -11,29 +11,29 @@ ht-degree: 1%
 
 ---
 
-# Champion/Challenger : Définition des critères de champion {#champion-challenger-define-champion-criteria}
+# Champion/Challenger : définition des critères de champion {#champion-challenger-define-champion-criteria}
 
 Une fois que vous avez configuré votre type de test, vous devez définir les critères de champion. Voici comment.
 
 >[!PREREQUISITES]
 >
->[Ajout d’un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Critères de championne standard {#standard-champion-criteria}
 
-1. Sélectionnez l’une des options disponibles. **Critères de champion**.
+1. Sélectionnez l&#39;un des **critères champions** disponibles.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
    >[!NOTE]
    >
-   >Nous allons effectuer le suivi de cette mesure et vous envoyer un rapport avec les données par courrier électronique.
+   >Nous allons effectuer le suivi de cette mesure et vous envoyer un rapport avec les données par courriel.
 
-1. Si vous avez sélectionné l’une des valeurs par défaut **Critères de champion**, allez-y et passez à [Champion/Challenger : Configurer des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Si vous avez sélectionné l’un des **critères champions** par défaut, passez à [Champion/Challenger : Configurer les alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md) !
 
 ## Critères de champion personnalisés {#custom-champion-criteria}
 
-1. Si vous souhaitez être plus élégant, vous pouvez personnaliser en sélectionnant **Conversion personnalisée** et clic **Modifier**.
+1. Si vous souhaitez obtenir un style soigné, vous pouvez personnaliser en sélectionnant **Conversion personnalisée** et en cliquant sur **Modifier**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -59,4 +59,4 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Configurer des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[Champion/Challenger : Configuration des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

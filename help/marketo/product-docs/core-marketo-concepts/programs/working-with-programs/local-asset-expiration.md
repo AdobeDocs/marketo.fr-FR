@@ -5,7 +5,7 @@ exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -22,25 +22,25 @@ Avant de pouvoir planifier l’expiration d’une ressource, l’autorisation ap
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans le [!UICONTROL Administration] zone, cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
+1. Dans la zone [!UICONTROL Admin], cliquez sur **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/local-asset-expiration-1.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Rôles]** , sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
+1. Cliquez sur l’onglet **[!UICONTROL Rôles]** , sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Sous [!UICONTROL Accès aux activités marketing], sélectionnez **[!UICONTROL Planification de l’expiration des ressources locales]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sous [!UICONTROL Accéder aux activités marketing], sélectionnez **[!UICONTROL Planifier l’expiration des ressources locales]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/local-asset-expiration-3.png)
 
-## Définition d’une date d’expiration {#set-an-expiration-date}
+## Définir une date d’expiration {#set-an-expiration-date}
 
-1. Cliquez avec le bouton droit de la souris sur le programme de votre choix, puis sélectionnez **[!UICONTROL Définition de l’expiration des ressources locales]**.
+1. Cliquez avec le bouton droit sur le programme de votre choix et sélectionnez **[!UICONTROL Définir l’expiration des ressources locales]**.
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Vérifiez la ou les ressources pour lesquelles vous souhaitez définir une date d’expiration, puis cliquez sur **[!UICONTROL Définition de l’expiration]**.
+1. Vérifiez la ou les ressources pour lesquelles vous souhaitez définir une date d’expiration, puis cliquez sur **[!UICONTROL Définir l’expiration]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -48,19 +48,19 @@ Avant de pouvoir planifier l’expiration d’une ressource, l’autorisation ap
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Définissez une heure. Vous devez planifier une heure à au moins 15 minutes à l’avenir (veillez à entrer le matin/l’après-midi). Cliquez sur **[!UICONTROL Confirmer]** une fois terminé.
+1. Définissez une heure. Vous devez programmer une heure au moins 15 minutes à l’avenir (veillez à entrer le matin/l’après-midi). Cliquez sur **[!UICONTROL Confirmer]** une fois terminé.
 
    ![](assets/local-asset-expiration-7.png)
 
 >[!NOTE]
 >
->* Pour modifier une date d’expiration existante, vérifiez simplement la ou les ressources et cliquez sur **[!UICONTROL Définition de l’expiration]**.
->* Une fois qu’une ressource a expiré, elle ne s’affiche plus sur la grille Expiration . La grille affiche uniquement les landing pages publiées, les campagnes à déclenchement principal et les campagnes par lots récurrents.
+>* Pour modifier une date d’expiration existante, vérifiez simplement la ou les ressources et cliquez sur **[!UICONTROL Définir l’expiration]**.
+>* Une fois qu’une ressource a expiré, elle ne s’affiche plus sur la grille Expiration . La grille affiche uniquement les landing pages publiées, les campagnes de déclenchement actives et les campagnes par lots récurrentes.
 >* Les expirations planifiées seront supprimées si la ressource est déplacée vers un autre programme.
 
-## Suppression d’une date d’expiration {#remove-an-expiration-date}
+## Supprimer une date d’expiration {#remove-an-expiration-date}
 
-1. Pour supprimer une date d’expiration, vérifiez la ou les ressources, puis cliquez sur **[!UICONTROL Supprimer l’expiration]**.
+1. Pour supprimer une date d’expiration, vérifiez la ou les ressources et cliquez sur **[!UICONTROL Supprimer l’expiration]**.
 
    ![](assets/local-asset-expiration-8.png)
 

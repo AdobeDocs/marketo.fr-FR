@@ -6,7 +6,7 @@ exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -36,12 +36,12 @@ Les campagnes facebook Lead Ads génèrent des pistes et les envoient à Marketo
 >
 >Sans conversions hors ligne, l’annonceur investirait probablement plus d’argent dans la publicité 3. Avec les données de conversion hors ligne, l’annonceur investira plus probablement dans la publicité 1.
 
-Vous pouvez [configuration des conversions hors ligne de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) pour envoyer les performances des publicités hors ligne à Facebook.
+Vous pouvez [configurer les conversions hors ligne de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) pour envoyer les performances des publicités hors ligne à Facebook.
 
-1. Assurez-vous que les [Intégration de facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) est à jour.
+1. Assurez-vous que votre [intégration Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) est à jour.
 1. Faites correspondre les étapes de votre modèle de cycle de revenu aux étapes de conversion hors ligne sur Facebook.
 1. Lorsqu’une piste Facebook est générée à partir d’une annonce de piste Facebook et atteint une étape mappée, Marketo renvoie les données de conversion hors ligne à Facebook plusieurs fois par jour via une API sécurisée et automatisée. Les données s’affichent dans le rapport Gestionnaire de publicités Facebook .
 
 >[!MORELIKETHIS]
 >
->[Configuration des conversions hors ligne de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[ Configuration de conversions hors ligne Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

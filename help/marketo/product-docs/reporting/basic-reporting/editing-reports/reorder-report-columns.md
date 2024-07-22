@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez modifier l’ordre des colonnes d’un rapport.
 
-1. Accédez au **Activités marketing** (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Rapport** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur l’onglet **Rapport** .
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

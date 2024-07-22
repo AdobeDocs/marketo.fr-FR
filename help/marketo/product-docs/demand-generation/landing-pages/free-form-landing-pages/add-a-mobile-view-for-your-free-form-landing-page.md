@@ -6,8 +6,8 @@ exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Il est facile de rendre vos landing pages de forme libre plus belles sur un smar
 
 >[!NOTE]
 >
->La vue mobile fonctionne sur des écrans de 480 pixels de large (ou moins). En d&#39;autres termes, les smartphones. En savoir plus [informations sur les résolutions des appareils](https://www.mydevice.io/).
+>La vue mobile fonctionne sur des écrans de 480 pixels de large (ou moins). En d&#39;autres termes, les smartphones. Voici plus d&#39;[informations sur les résolutions des appareils](https://www.mydevice.io/).
 
 1. Accédez à **Activités marketing**.
 
@@ -31,7 +31,7 @@ Il est facile de rendre vos landing pages de forme libre plus belles sur un smar
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Cliquez sur le bouton **Mobile** .
+1. Cliquez sur l’onglet **Mobile** .
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
@@ -41,12 +41,12 @@ Il est facile de rendre vos landing pages de forme libre plus belles sur un smar
 
    >[!CAUTION]
    >
-   >Le modèle de forme libre doit peut-être être mis à niveau. Si ce message s’affiche, lisez rapidement la procédure. [rendre compatible avec un modèle de landing page de forme libre existant](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Il se peut que le modèle de forme libre doive être mis à niveau. Si ce message s’affiche, découvrez rapidement comment [rendre compatible un modèle de page d’entrée de forme libre existant ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
 1. Fantastique ! Vous avez maintenant activé la version mobile de votre landing page. Cliquez sur **Fermer**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Vous pouvez désormais [personnalisation de votre vue mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
+   Vous pouvez désormais [personnaliser votre vue mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)

@@ -6,7 +6,7 @@ exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Sales Phone vous permet d’enregistrer et d’enregistrer vos enregistrements d’appels. Si vous souhaitez partager un enregistrement d’appel avec un autre membre de votre équipe, vous pouvez copier le lien à deux endroits.
 
-## Copier le lien d’enregistrement à partir des détails de la personne dans l’application web {#copy-recording-link-from-the-person-details-in-the-web-application}
+## Copie d’un lien d’enregistrement à partir des détails de la personne dans l’application web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Accédez au [application web](https://toutapp.com/login).
+1. Accédez à l’ [application web](https://toutapp.com/login).
 
 1. Ouvrez les détails de la personne.
 

@@ -21,7 +21,7 @@ Parfois, vous devez modifier un champ qui n’est pas encore approuvé.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Dans le [!UICONTROL Champs] , cliquez sur **[!UICONTROL Actions de champ]** et **[!UICONTROL Modifier le champ]**.
+1. Dans l’onglet [!UICONTROL  Fields], cliquez sur **[!UICONTROL Field Actions]** et **[!UICONTROL Edit Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
@@ -41,7 +41,7 @@ Parfois, vous devez modifier un champ qui n’est pas encore approuvé.
 
 Lorsque vous n’avez plus besoin d’un champ dans un objet personnalisé, vous pouvez le supprimer.
 
-1. Dans l’onglet Champs , cliquez sur **[!UICONTROL Actions de champ]** et **[!UICONTROL Supprimer le champ]**.
+1. Dans l’onglet Champs , cliquez sur **[!UICONTROL Field Actions]** et **[!UICONTROL Supprimer le champ]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
@@ -55,4 +55,4 @@ C&#39;est parti !
 
 >[!NOTE]
 >
->[Ajout de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[Ajouter des champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)

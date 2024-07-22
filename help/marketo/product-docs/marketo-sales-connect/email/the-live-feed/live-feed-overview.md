@@ -6,7 +6,7 @@ exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Vérifiez rapidement votre liste de tâches directement dans le flux en direct.
 
 Créez ou gérez des tâches ouvertes.
 
-Filtrez sur aujourd’hui, demain, aujourd’hui *et* demain, ou les 7 prochains jours.
+Filtrez sur aujourd’hui, demain, aujourd’hui *et* demain ou les 7 prochains jours.
 
 >[!NOTE]
 >
@@ -94,7 +94,7 @@ Voir vos meilleures personnes (classées du plus haut au plus bas) classées par
     <div> 
      <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td colspan="1">Toute notification répertoriée sous Moments intéressants, y compris le courrier électronique, le web et les jalons</td> 
+   <td colspan="1">Toute notification répertoriée sous Moments intéressants, y compris Email, Web et Jalons</td> 
   </tr> 
  </tbody> 
 </table>

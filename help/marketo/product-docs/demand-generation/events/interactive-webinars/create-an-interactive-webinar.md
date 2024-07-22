@@ -22,19 +22,19 @@ Créez un webinaire interactif en quelques étapes simples.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. Nommez le programme. Sous Type de programme, sélectionnez **Événement**.
+1. Nommez le programme. Sous Type de programme, sélectionnez **Event**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Cliquez sur la liste déroulante Canal et sélectionnez un canal qui possède _Événement avec le webinaire_ dans sa colonne &quot;S’applique à&quot;. Dans cet exemple, nous choisissons **Webinaire**.
+1. Cliquez sur la liste déroulante Canal et sélectionnez un canal dont la colonne &quot;S’applique à&quot; contient _Événement avec webinaire_. Dans cet exemple, nous choisissons **Webinaire**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >Pour savoir à quels canaux s’appliquent _Événement avec le webinaire_, accédez à **Administration** > **Balises**. La colonne &quot;S’applique à&quot; doit être la colonne centrale. En savoir plus sur &quot;S’applique à&quot; à l’étape 5 de [cet article](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Pour voir quels canaux s’appliquent à _Événement avec webinaire_, accédez à **Admin** > **Balises**. La colonne &quot;S’applique à&quot; doit être la colonne centrale. En savoir plus sur &quot;s’applique à&quot; à l’étape 5 de [cet article](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
-1. Choisir **Webinaires interactifs** et cliquez sur **Suivant**.
+1. Sélectionnez **Webinars interactifs** et cliquez sur **Suivant**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
@@ -54,13 +54,13 @@ Créez un webinaire interactif en quelques étapes simples.
    >
    >* Si vous le souhaitez, vous pouvez modifier le titre du webinaire ultérieurement.
 
-1. Planifiez la date/l’heure de votre webinaire et cliquez sur **Créer**.
+1. Planifiez la date et l’heure de votre webinaire et cliquez sur **Créer**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
 <p>
 
-Maintenant, il est temps de [conception de votre webinaire](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Il est maintenant temps de [concevoir votre webinaire](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

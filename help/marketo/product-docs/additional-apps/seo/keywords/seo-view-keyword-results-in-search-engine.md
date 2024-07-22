@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si vous souhaitez voir à quoi ressemble votre contenu dans un moteur de recherche, nous avons ajouté un raccourci pratique.
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Pointez sur un mot-clé. Cliquez sur **[!UICONTROL Affichage des résultats]**.
+1. Pointez sur un mot-clé. Cliquez sur **[!UICONTROL Afficher les résultats]**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 

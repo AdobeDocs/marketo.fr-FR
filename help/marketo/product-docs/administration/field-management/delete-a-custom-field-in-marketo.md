@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 5%
 >
 >**Autorisations d’administrateur requises**
 
-Si vous n’avez plus d’utilisation, vous pouvez vous débarrasser d’un champ que vous avez créé par le passé. Malheureusement, vous ne pouvez pas supprimer de champs dans Marketo, mais vous _can_ masquez-les dans l’interface utilisateur.
+Si vous n’avez plus d’utilisation, vous pouvez vous débarrasser d’un champ que vous avez créé par le passé. Malheureusement, vous ne pouvez pas supprimer les champs dans Marketo, mais vous _pouvez_ les masquer de l’interface utilisateur.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
@@ -27,8 +27,8 @@ Si vous n’avez plus d’utilisation, vous pouvez vous débarrasser d’un cham
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Actions de champ]** et sélectionnez **[!UICONTROL Masquer le champ]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions de champ]** et sélectionnez **[!UICONTROL Masquer le champ]**.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 
-   Pour obtenir des instructions détaillées, voir [masquer et afficher un champ ;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).
+   Pour obtenir des instructions détaillées, reportez-vous à la section [masquage et affichage d’un champ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).

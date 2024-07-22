@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. 
 
 ## Rapports de statistiques de ventes {#sales-insight-reports}
 
-La variable [Rapport Performance des emails de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) vous permet d’afficher les mesures de courrier électronique par courrier électronique et par représentant commercial. Il prend en charge les emails envoyés par l’intermédiaire de Salesforce, Microsoft Dynamics, le module externe Outlook et le module externe Gmail.
+Le [ rapport Performances des emails de Sales Insight ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) vous permet d’afficher les mesures des emails par email et par représentant commercial. Il prend en charge les emails envoyés par l’intermédiaire de Salesforce, Microsoft Dynamics, le module externe Outlook et le module externe Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ La variable [Rapport Performance des emails de Sales Insight](/help/marketo/prod
 
 ## Audiences personnalisées Facebook {#facebook-custom-audiences}
 
-Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Point de lancement](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [Remplacement d’une audience personnalisée Facebook par des pistes provenant d’une liste statique ou dynamique Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Recherchez la nouvelle icône Facebook au bas de la grille de piste d’une liste statique ou dynamique.
+Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [remplacer une audience personnalisée Facebook par des pistes provenant d’une liste statique ou dynamique Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Recherchez la nouvelle icône Facebook au bas de la grille de piste d’une liste statique ou dynamique.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Amélioration du clonage entre espaces de travail  {#improved-cloning-across-workspaces}
 
-[Clonage d’un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) vers un autre espace de travail n’a jamais été aussi facile ! Lorsque vous cliquez sur cloner, vous sélectionnez l’espace de travail de destination. Finis le clonage dans un dossier, puis le déplacement du dossier !
+[Le clonage d&#39;un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) vers un autre espace de travail n&#39;a jamais été aussi facile ! Lorsque vous cliquez sur cloner, vous sélectionnez l’espace de travail de destination. Finis le clonage dans un dossier, puis le déplacement du dossier !
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Point 
 
 ## Liste dynamique de référence {#reference-smart-list}
 
-[Les listes dynamiques partagées avec un autre espace de travail peuvent être référencées.](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) lors de la création d’une liste ou d’un flux dynamique.
+[Les listes dynamiques partagées avec un autre espace de travail peuvent être référencées](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) lors de la création d’une liste ou d’un flux dynamique.
 
 ## Amélioration de l’importation des listes {#list-import-improvements}
 
-[Importer des fichiers](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) encodé en UTF-16, Shift-JIS ou EUC-JP. Nous continuons à prendre en charge les fichiers codés UTF-8.
+[Importer des fichiers](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codés en UTF-16, Shift-JIS ou EUC-JP. Nous continuons à prendre en charge les fichiers codés UTF-8.
 
 ## Suivi de liens dans les scripts de courrier électronique {#link-tracking-in-email-scripting}
 
@@ -53,7 +53,7 @@ Les liens dans les scripts de courrier électronique seront désormais suivis et
 
 ## Paramètre d’encodage du jeton {#token-encoding-setting}
 
-Nous avons déployé une nouvelle fonctionnalité de sécurité pour coder automatiquement les jetons de HTML, qui sera activée par défaut en mars 2015. Dans l’intervalle, activez cette fonctionnalité dans la gestion des champs pour tester le comportement à l’avance. Tous les jetons de piste et de société seront codés lorsqu’ils seront insérés dans les emails ou les landing pages. Des options seront également disponibles pour les champs individuels.
+Nous avons déployé une nouvelle fonctionnalité de sécurité pour HTML automatiquement les jetons de codage, qui seront activés par défaut en mars 2015. Dans l’intervalle, activez cette fonctionnalité dans la gestion des champs pour tester le comportement à l’avance. Tous les jetons de piste et de société seront codés lorsqu’ils seront insérés dans les emails ou les landing pages. Des options seront également disponibles pour les champs individuels.
 
 ## Nouveaux appels API ReST {#new-rest-api-calls}
 
@@ -65,11 +65,11 @@ Trois nouveaux appels pour l’API Lead &amp; Activity ReST :
 
 ・ Fusionner le prospect
 
-Des détails complets seront disponibles après cette version à l’adresse [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Des détails complets seront disponibles après la version à l’adresse [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Améliorations de la compatibilité Javascript Munchkin {#munchkin-javascript-compatibility-enhancements}
 
-Nous avons apporté plusieurs améliorations mineures à Munchkin afin de garantir qu’il continue à se charger rapidement et de fonctionner comme vous le souhaitez avec d’autres scripts JavaScript sur la page.
+Nous avons apporté plusieurs améliorations mineures à Munchkin afin de garantir qu’il continue à se charger rapidement et de fonctionner comme vous le souhaitez avec d’autres JavaScript sur la page.
 
 Le déploiement débutera à la mi-décembre et se poursuivra au cours des prochains mois.
 

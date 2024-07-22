@@ -20,7 +20,7 @@ Au même endroit, affichez toutes vos questions, leur état d’approbation et l
 
    ![](assets/response-library-1.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Bibliothèque de réponses]** .
+1. Cliquez sur l’onglet **[!UICONTROL Bibliothèque de réponses]** .
 
    ![](assets/response-library-2.png)
 
@@ -32,7 +32,7 @@ Au même endroit, affichez toutes vos questions, leur état d’approbation et l
 
    ![](assets/response-library-4.png)
 
-1. Cliquez sur Actualiser et votre nouvelle question s’affiche en haut de l’écran avec le statut &quot;[!UICONTROL Traitement].&quot;
+1. Cliquez sur Actualiser et votre nouvelle question s’affiche en haut avec l’état &quot;[!UICONTROL Traitement]&quot;.
 
    ![](assets/response-library-5.png)
 
@@ -44,13 +44,13 @@ Au même endroit, affichez toutes vos questions, leur état d’approbation et l
 
 >[!NOTE]
 >
->Toutes les questions et réponses générées se voient attribuer le &quot;[!UICONTROL examen nécessaire]&quot; par défaut. Uniquement &quot;[!UICONTROL approuvé]&quot;les questions et réponses sont mises à la disposition des visiteurs de chat.
+>Par défaut, l’état &quot;[!UICONTROL need review]&quot; est attribué à toutes les questions et réponses générées. Seules les questions et réponses &quot;[!UICONTROL approuvé]&quot; sont mises à la disposition des visiteurs du chat.
 
-1. Dans le **[!UICONTROL Bibliothèque de réponses]**, cliquez sur la question de votre choix.
+1. Dans la **[!UICONTROL bibliothèque de réponses]**, cliquez sur la question de votre choix.
 
    ![](assets/response-library-7.png)
 
-1. Effectuez les modifications et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Effectuez vos modifications et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/response-library-8.png)
 
@@ -85,7 +85,7 @@ Vous trouverez ci-dessous des instructions sur la manière d’effectuer des mod
 </tbody>
 </table>
 
-1. Une fois les modifications apportées au fichier, revenez à la **[!UICONTROL Bibliothèque de réponses]** et cliquez sur **[!UICONTROL Chargement des réponses]**.
+1. Une fois les modifications effectuées dans votre fichier, revenez à l’onglet **[!UICONTROL Bibliothèque de réponses]** et cliquez sur **[!UICONTROL Télécharger les réponses]**.
 
    ![](assets/response-library-9.png)
 

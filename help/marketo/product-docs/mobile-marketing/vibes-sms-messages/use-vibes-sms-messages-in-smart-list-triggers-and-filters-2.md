@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Utiliser des messages SMS de vidéos dans des déclencheurs et des filtres de liste dynamique {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Après vous [créer un SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, vous souhaitez utiliser des déclencheurs et des filtres de liste dynamique dans une campagne dynamique pour en tirer parti. Voici comment.
+Après avoir [ créé un SMS Vibes ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, vous souhaiterez utiliser des triggers et filtres de liste dynamique dans une campagne dynamique pour en tirer les avantages. Voici comment.
 
 1. Dans Mon Marketo, cliquez sur **Activités marketing**.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
-1. Sélectionnez une campagne dynamique dans laquelle vous souhaitez utiliser vos ressources SMS. Faites glisser le curseur sur un déclencheur. Dans cet exemple, nous utilisons **Remplir le formulaire**.
+1. Sélectionnez une campagne dynamique dans laquelle vous souhaitez utiliser vos ressources SMS. Faites glisser le curseur sur un déclencheur. Dans cet exemple, nous utilisons **Remplit le formulaire**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -42,35 +42,35 @@ ENVOYER UN SMS :
 
 Voici quelques exemples :
 
-La variable **SMS Message Bounces** déclenche un flux, tel que l’envoi d’un email, lorsqu’un SMS rebondit.
+Le déclencheur **SMS Message Bounces** initie un flux, comme l&#39;envoi d&#39;un email, lorsqu&#39;un message SMS rebondit.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-La variable **S’abonne à la liste des vidéos** déclenche un flux lorsqu’une personne s’abonne.
+Le déclencheur **S’abonne à la liste des vidéos** lance un flux lorsqu’une personne s’abonne.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-La variable **Clics sur le lien dans un message SMS** déclenche un flux lorsqu’une personne clique sur un lien dans le SMS.
+Le déclencheur **Clics sur le lien dans le message SMS** initie un flux lorsqu’une personne clique sur un lien dans le message SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## Filtres SMS {#sms-filters}
 
-Vous pouvez également utiliser des filtres Vibes dans les listes dynamiques. La variable **Abonné à la liste des vidéos** filtre recherche quiconque possède *ever* abonné à Vibes. Cela inclut les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre est mieux adapté à la création de rapports.
+Vous pouvez également utiliser des filtres Vibes dans les listes dynamiques. Le filtre **Abonné à la liste des vidéos** trouve quiconque a *ever* abonné à Vibes. Cela inclut les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre est mieux adapté à la création de rapports.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-En revanche, la variable **Membre de la liste des vidéos** filter find _any_ actuellement abonné à Vibes et convient le mieux aux campagnes ou listes dynamiques.
+En revanche, le filtre **Member of Vibes List** trouve _n’importe qui_ actuellement abonné à Vibes et est le mieux adapté aux campagnes ou listes dynamiques.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Tous les filtres SMS incluent la variable **Date de l’activité** contrainte par défaut.
+>Tous les filtres SMS incluent par défaut la contrainte **Date of Activity** .
 
-Après avoir configuré les déclencheurs et filtres Vibes dans votre liste dynamique, vous pouvez [définir le flux ;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
+Après avoir configuré les déclencheurs et filtres Vibes dans votre liste dynamique, vous pouvez [définir le flux](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Définition d’une liste dynamique pour Smart Campaign | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Recherche et ajout de filtres à une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [ Définition d’une liste dynamique pour une campagne dynamique | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Rechercher et ajouter des filtres à une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

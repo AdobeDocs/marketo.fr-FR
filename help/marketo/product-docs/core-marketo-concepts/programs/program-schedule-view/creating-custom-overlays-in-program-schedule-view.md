@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez créer des superpositions personnalisées pour afficher les entrées pertinentes à vos besoins.
 
-1. Cliquez sur le bouton **[!UICONTROL Agenda]** menu déroulant.
+1. Cliquez sur la liste déroulante **[!UICONTROL Agenda]** .
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Sélectionner **[!UICONTROL Recouvrements]**.
+1. Sélectionnez **[!UICONTROL Superpositions]**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 

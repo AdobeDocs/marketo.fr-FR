@@ -20,13 +20,13 @@ Ce document décrit les étapes initiales de la configuration de votre nouvelle 
 
 ## Accès à votre nouveau compte Marketo Sales Connect {#accessing-your-new-marketo-sales-connect-account}
 
-Si vous avez acheté Marketo Sales Connect, l’accès à votre instance sera configuré à partir de la section d’administration de Marketo. [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) pour obtenir des instructions sur la façon dont un administrateur Marketo peut donner accès à votre nouvelle instance.
+Si vous avez acheté Marketo Sales Connect, l’accès à votre instance sera configuré à partir de la section d’administration de Marketo. [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) pour voir des instructions sur la façon dont un administrateur Marketo peut configurer l’accès à votre nouvelle instance.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
 ## Invitation et gestion des utilisateurs {#inviting-and-managing-users}
 
-Une fois que vous avez configuré votre compte Marketo Sales Connect à partir de Marketo et invité votre premier utilisateur administrateur, cet utilisateur administrateur peut inviter d’autres utilisateurs sur la page de gestion des utilisateurs de Marketo Sales Connect . [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) pour savoir comment inviter des utilisateurs à partir de la page gestion des utilisateurs.
+Une fois que vous avez configuré votre compte Marketo Sales Connect à partir de Marketo et invité votre premier utilisateur administrateur, cet utilisateur administrateur peut inviter d’autres utilisateurs sur la page de gestion des utilisateurs de Marketo Sales Connect . [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) pour découvrir comment inviter des utilisateurs à partir de la page de gestion des utilisateurs.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
@@ -34,7 +34,7 @@ Une fois que vous avez configuré votre compte Marketo Sales Connect à partir d
 
 Tous les utilisateurs devront se connecter individuellement à Salesforce pour activer les activités de vente de journaux à Salesforce telles que les emails, les appels et les tâches. Cependant, lorsque vous vous connectez à Salesforce en tant qu’administrateur, vous avez la possibilité de configurer les paramètres de journalisation de vos activités pour l’ensemble de votre équipe, de sorte que les paramètres de journalisation globale soient appliqués à tous les utilisateurs de Sales Connect.
 
-Pour connecter votre instance Sales Connect à votre instance Salesforce, en tant qu’administrateur ou non, suivez les étapes de la section [cet article](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
+Pour connecter votre instance Sales Connect à votre instance Salesforce, en tant qu’administrateur ou non, suivez les étapes décrites dans [cet article](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -42,21 +42,21 @@ Pour connecter votre instance Sales Connect à votre instance Salesforce, en tan
 
 La connexion à Marketo permet à vos vendeurs d’exploiter la puissance de l’automatisation du marketing et des informations marketing dans leurs efforts de prospection. Les fonctionnalités suivantes nécessitent la configuration d’une intégration avec Marketo.
 
-* Partager [campagnes marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) avec les vendeurs
-* Push [Moments intéressants](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) au flux en direct
+* Partager des [campagnes marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) avec des vendeurs
+* Pousser les [moments intéressants](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) vers le flux en direct
 * Enregistrement des activités de vente dans Marketo
 
 Pour en savoir plus sur la connexion à Marketo et accorder aux utilisateurs de vente l’accès à la connexion, cliquez ici.
 
 ## Installation du package de personnalisation Salesforce {#installing-salesforce-customization-package}
 
-Pour garantir le succès des ventes, vous devez disposer des fonctionnalités adéquates dans leur Principal espace de travail. Le package de personnalisation de Sales Connect permet d’accéder aux fonctionnalités d’engagement et aux attributs d’activité de vente clés à partir de Salesforce.
+Pour garantir la réussite des ventes, vous devez disposer des fonctionnalités appropriées dans leur espace de travail principal. Le package de personnalisation de Sales Connect permet d’accéder aux fonctionnalités d’engagement et aux attributs clés de l’activité de vente à partir de Salesforce.
 
-Pour en savoir plus sur l’installation de la personnalisation de Sales Connect [cliquez ici](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+Pour en savoir plus sur l&#39;installation de la personnalisation de Sales Connect [cliquez ici](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 ## Test dans Sandbox {#testing-in-sandbox}
 
-Pour les équipes qui souhaitent tester Marketo Sales Connect avec leur environnement de test Marketo, un compte Sales Connect supplémentaire peut être configuré sur demande. Cela est uniquement destiné aux clients qui ont acheté un environnement de test Marketo ou à ceux qui l’ont acheté dans le cadre de leur lot Marketo. Si vous souhaitez acquérir un sandbox, contactez votre gestionnaire de compte Marketo.
+Pour les équipes qui souhaitent tester Marketo Sales Connect avec leur environnement de test Marketo, un compte Sales Connect supplémentaire peut être configuré sur demande. Cela s’applique uniquement aux clients qui ont acheté un environnement de test Marketo ou à ceux qui l’ont intégré à leur lot Marketo. Si vous souhaitez acquérir un sandbox, contactez votre gestionnaire de compte Marketo.
 
 >[!NOTE]
 >

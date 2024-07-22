@@ -1,38 +1,38 @@
 ---
 description: Intégration de Dynamic Chat - Documents Marketo - Documentation du produit
-title: Intégration de Dynamic Chat
+title: Intégration du Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 5%
+source-wordcount: '415'
+ht-degree: 6%
 
 ---
 
-# Intégration de Dynamic Chat {#dynamic-chat-integration}
+# Intégration du Dynamic Chat {#dynamic-chat-integration}
 
 En savoir plus sur l’intégration du Dynamic Chat à Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Votre package SFDC Sales Insight doit être une version [2.4.0 ou version ultérieure](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Votre package SFDC Sales Insight doit être la version [2.4.0 ou ultérieure ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* Vous devez disposer de la variable [Intégration de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} configurer
+>* Vous devez configurer l’ [intégration de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}
 >
->* Assurez-vous de bien dans vos statistiques de vente [Paramètres opérationnels](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Assurez-vous que le champ &quot;Clé secrète API&quot; est renseigné dans vos [Paramètres opérationnels](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"} de Sales Insight. Si ce n&#39;est pas le cas, découvrez comment le récupérer [ici](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Onglet Configuration des statistiques sur les ventes Marketo {#marketo-sales-insight-configuration-tab}
 
 Suivez les étapes ci-dessous pour activer l’intégration du Dynamic Chat.
 
-1. Connectez-vous à votre compte Salesforce, cliquez sur le signe + à la fin de la barre d’onglets, puis cliquez sur **Configuration de Marketo Sales Insight**.
+1. Connectez-vous à votre compte Salesforce, cliquez sur + à la fin de la barre d’onglets et cliquez sur **Marketo Sales Insight Config**.
 
 1. Cliquez sur pour développer le &quot;panneau Visualforce&quot;.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Sélectionnez la variable **Activation des données de Dynamic Chat** .
+1. Cochez la case **Activer les données de Dynamic Chat** .
 
    ![](assets/dynamic-chat-integration-2.png)
 
@@ -42,13 +42,13 @@ Les activités de Dynamic Chat suivantes peuvent être exploitées par les utili
 
 Dialogue engagé : connecté à Marketo et renseigné dans Sales Insight lorsqu’un visiteur clique sur un chatterbot et engage le dialogue.
 
-* Nom de la conversation
+* Nom du dialogue
 * URL de la page
 * État (initié/abandonné/terminé)
 
 Rendez-vous planifié : connecté à Marketo et renseigné dans Sales Insight lorsqu’un visiteur planifie un rendez-vous avec succès via le chatterbot.
 
-* Nom de la conversation
+* Nom du dialogue
 * Agent
 * URL de la page
 * Planifié le (ajout d’un horodatage)
@@ -56,13 +56,13 @@ Rendez-vous planifié : connecté à Marketo et renseigné dans Sales Insight lo
 
 Objectif atteint : Connecté à Marketo et renseigné dans Sales Insight lorsqu’un visiteur atteint un objectif dans n’importe quel flux de dialogue.
 
-* Nom de la conversation
-* Nom de l’objectif
+* Nom du dialogue
+* Nom de l&#39;objectif
 * URL de la page
 
 Interaction avec le document : connecté à Marketo et renseigné dans Sales Insight lorsqu’un visiteur interagit avec un document partagé via le chatterbot.
 
-* Nom de la conversation
+* Nom du dialogue
 * Document
 * Statut
 
@@ -87,7 +87,7 @@ L’onglet Conversation est également inclus dans votre onglet Marketo globale.
 * Individu
 * Compte
 * Type d’activité (Dialogue engagé, Rendez-vous planifié, Objectif atteint)
-* Nom de la conversation
+* Nom du dialogue
 * Date et heure (horodatage)
 
 Encore une fois, vous pouvez en savoir plus sur un type d’activité en cliquant dessus.

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous recherchez l&#39;adresse web (URL) d&#39;une image ou d&#39;un fichier que vous avez téléchargé ?
 
-1. Accédez au **[!UICONTROL Design Studio]**.
+1. Accédez à **[!UICONTROL Design Studio]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
@@ -27,7 +27,7 @@ Vous recherchez l&#39;adresse web (URL) d&#39;une image ou d&#39;un fichier que 
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. La variable **[!UICONTROL URL]** s’affiche sur la page de détails.
+1. La **[!UICONTROL URL]** s’affiche sur la page de détails.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 

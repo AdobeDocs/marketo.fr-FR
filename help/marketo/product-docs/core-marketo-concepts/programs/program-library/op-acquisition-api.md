@@ -2,11 +2,11 @@
 description: OP-Acquisition-API - Documents Marketo - Documentation du produit
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 21%
+ht-degree: 19%
 
 ---
 
@@ -21,7 +21,7 @@ Cet exemple de programme est destiné aux processus opérationnels qui effectuen
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ Cet exemple de programme est destiné aux processus opérationnels qui effectuen
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -64,17 +64,17 @@ Cet exemple de programme est destiné aux processus opérationnels qui effectuen
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
+* **Modèle de page d’entrée avec le même nom**
    * Copier le modèle d’origine - _Recommandé_
    * Utiliser le modèle de destination
 
 * **Images du même nom**
    * Conserver les deux fichiers - _Recommandé_
-   * Remplacer l’élément de cet abonnement
+   * Remplacer l&#39;élément de cet abonnement
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_

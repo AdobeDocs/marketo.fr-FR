@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Ajout d’un fragment de code à une page d’entrée {#add-a-snippet-to-a-landing-page}
 
-Les fragments de code sont de petits bouts de HTML qui peuvent suivre des règles et contenir du contenu personnalisé.
+Les fragments de code sont de petits bouts d’HTML qui peuvent suivre des règles et contenir du contenu personnalisé.
 
 >[!PREREQUISITES]
 >
->[Création d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Créer un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. Sélectionnez votre landing page et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Dans l’éditeur de page d’entrée, faites glisser le curseur sur la **Fragment de code** élément .
+1. Dans l’éditeur de page d’entrée, faites glisser sur l’élément **Fragment de code** .
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Recherchez votre fragment de code, sélectionnez-le, puis cliquez sur **Enregistrer**.
+1. Recherchez votre extrait de code, sélectionnez-le, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -37,6 +37,6 @@ Les fragments de code sont de petits bouts de HTML qui peuvent suivre des règle
 
    >[!NOTE]
    >
-   >Si vous souhaitez ajouter un fragment de code à une page d’entrée guidée, reportez-vous à la section [cet article](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Si vous souhaitez ajouter un fragment de code à une page d’entrée guidée, reportez-vous à [cet article](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Super boulot ! Vous savez maintenant comment ajouter des fragments de code à vos landing pages.

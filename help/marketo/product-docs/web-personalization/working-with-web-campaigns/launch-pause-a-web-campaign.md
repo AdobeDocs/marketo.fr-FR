@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Lancer/mettre en pause une campagne web {#launch-pause-a-web-campaign}
 
-Une campagne web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site web, une [en remplacement de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), une fonction de widget ou une alerte par e-mail.
+Une campagne web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site web, un [remplacement de zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), une fonction de widget ou une alerte par e-mail.
 
 Vous pouvez lancer ou suspendre une campagne web de deux manières différentes à partir de la page Campagnes web ou de la page Définir les campagnes web .
 
-1. Cliquez sur **Personnalisation web**.
+1. Cliquez sur **Web Personalization**.
 
    ![](assets/one-1.png)
 
@@ -47,6 +47,6 @@ Vous pouvez lancer ou suspendre une campagne web de deux manières différentes 
 
 >[!MORELIKETHIS]
 >
->* [Création d’une campagne de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Création d’un RTP dans une campagne de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Création d’une campagne de widgets RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Créer une campagne de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Créer un RTP dans Zone Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Créer une campagne de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

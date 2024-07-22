@@ -17,7 +17,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
 
 >[!TIP]
 >
->En savoir plus sur les jetons déjà disponibles dans [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>Pour en savoir plus sur les jetons déjà disponibles, consultez la [présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Création d’un jeton {#create-a-my-token}
 
@@ -29,7 +29,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Sélectionnez une **[!UICONTROL Mon jeton]** type. Faites-la glisser sur la zone de travail.
+1. Sélectionnez un type **[!UICONTROL My Token]**. Faites-la glisser sur la zone de travail.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -47,7 +47,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
 
 ## Modification d’un jeton {#edit-a-my-token}
 
-1. Double-cliquez sur le **[!UICONTROL Mon jeton]** et apportez vos modifications. Cliquez sur **Enregistrer**.
+1. Double-cliquez sur le **[!UICONTROL My Token]** et apportez vos modifications. Cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,7 +57,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo. Vous pouvez 
 >
 >Lorsque vous supprimez un jeton, assurez-vous de ne le référencer dans aucune ressource. Un espace vierge s’affiche à n’importe quel emplacement référencé s’il est supprimé.
 
-1. Cliquez avec le bouton droit de la souris sur le **[!UICONTROL Mon jeton]**. Sélectionner **[!UICONTROL Supprimer le jeton]**.
+1. Cliquez avec le bouton droit de la souris sur le **[!UICONTROL My Token]**. Sélectionnez **[!UICONTROL Supprimer le jeton]**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 

@@ -43,7 +43,7 @@ Grâce à cette nouvelle fonctionnalité, vous pouvez désormais conserver et en
 
 Marketo dispose d’une nouvelle option pour sélectionner un segment lors de l’envoi d’exemples d’emails pour révision. Il n’est plus nécessaire de déterminer manuellement le segment auquel appartient une piste, ce qui facilite l’envoi d’emails contenant du contenu dynamique à différents segments.
 
-## [Questions personnalisées sur la génération de pistes linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [ Questions personnalisées sur le &quot;Lead Gen LinkedIn&quot;](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Personnalisez vos formulaires de génération de pistes LinkedIn pour collecter des attributs de pistes personnalisés. Vous pouvez désormais poser jusqu’à trois questions personnalisées par formulaire, choisir entre une saisie de texte sur une seule ligne ou des questions à choix multiples et revenir aux champs de piste Marketo.
 
@@ -86,10 +86,10 @@ Gagnez du temps en réutilisant les ressources créatives et les images sur plus
 
 ## Intégration  {#integration}
 
-**[API Email Preview](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[}API d’aperçu d’email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Vous pouvez désormais prévisualiser un email à distance en dehors de Marketo, ce qui simplifie le processus de localisation du contenu d&#39;un email et réduit les erreurs.
 
-**[Remplacer l’API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Remplacer l’API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
-Les développeurs peuvent mettre à jour le contenu HTML des ressources de courrier électronique à distance, ce qui leur permet de travailler sur un seul système pour gérer les ressources.
+Les développeurs peuvent mettre à jour à distance le contenu d’HTML des ressources de courrier électronique, ce qui leur permet de travailler sur un seul système pour gérer les ressources.

@@ -24,7 +24,7 @@ Suivez ces étapes simples pour connecter le compte d’actions d’aperçu des 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Dans l’onglet Connexions et personnalisations , cliquez sur **Salesforce** then **Connexion**.
+1. Dans l’onglet Connexions et personnalisations , cliquez sur **Salesforce** , puis **Se connecter**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -34,7 +34,7 @@ Suivez ces étapes simples pour connecter le compte d’actions d’aperçu des 
 
 1. Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n&#39;est pas le cas, on vous demandera de vous connecter.
 
-## Comment se connecter en tant que non-administrateur {#how-to-connect-as-a-non-admin}
+## Connexion en tant que non-administrateur {#how-to-connect-as-a-non-admin}
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
@@ -42,7 +42,7 @@ Suivez ces étapes simples pour connecter le compte d’actions d’aperçu des 
 
 1. Sous Mon compte, sélectionnez **Salesforce**.
 
-1. Dans l’onglet Connexions et personnalisations , cliquez sur **Salesforce** then **Connexion**.
+1. Dans l’onglet Connexions et personnalisations , cliquez sur **Salesforce** , puis **Se connecter**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 

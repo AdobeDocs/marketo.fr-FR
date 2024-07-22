@@ -15,11 +15,11 @@ ht-degree: 12%
 
 Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des enregistrements d’historique des activités Salesforce pour certains événements. Voici comment les activer.
 
-1. Accédez à **[!UICONTROL Administration]**.
+1. Accédez à **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **[!DNL Salesforce]**, puis cliquez sur **[!UICONTROL Modifier les options de synchronisation]**.
+1. Cliquez sur **[!DNL Salesforce]**, puis sur **[!UICONTROL Modifier les options de synchronisation]**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
 
    >[!NOTE]
    >
-   >Une fois activé, Marketo génère l’historique des activités pour trois mois. Selon la quantité de données, _cela peut prendre plusieurs jours._. Les mises à jour survenant pendant la notification push initiale des activités peuvent être retardées jusqu’à ce que la synchronisation initiale des activités soit terminée.
+   >Une fois activé, Marketo génère l’historique des activités pour trois mois. Selon la quantité de données, _cette opération peut prendre plusieurs jours pour se terminer_. Les mises à jour survenant pendant la notification push initiale des activités peuvent être retardées jusqu’à ce que la synchronisation initiale des activités soit terminée.
 
 <table> 
  <colgroup> 
@@ -38,7 +38,7 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
  </colgroup> 
  <thead> 
   <tr> 
-   <th>Type d'activité</th> 
+   <th>Type d’activité</th> 
    <th>Description</th> 
   </tr> 
  </thead> 
@@ -64,7 +64,7 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
    <td>A ouvert un email (sans bloquer les images)</td> 
   </tr> 
   <tr> 
-   <td>Lien ayant fait l’objet d’un clic dans l’e-mail</td> 
+   <td>Lien cliqué dans l'e-mail</td> 
    <td>Clic sur un lien dans un email envoyé par Marketo</td> 
   </tr> 
   <tr> 
@@ -72,7 +72,7 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
    <td>Étape de flux : a été supprimée d’une liste statique.</td> 
   </tr> 
   <tr> 
-   <td>Supprimer du flux</td> 
+   <td>Supprimer des flux</td> 
    <td>Étape de flux : supprimer du flux</td> 
   </tr> 
   <tr> 
@@ -96,8 +96,8 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
 
 >[!NOTE]
 >
->&quot;Adresse électronique de vente reçue&quot; _not_ moyenne diffusée. L’état Distribué n’est pas capturé pour les emails envoyés via Sales Insight.
+>&quot;Adresse électronique de vente reçue&quot; signifie _pas_ délivré. L’état Distribué n’est pas capturé pour les emails envoyés via Sales Insight.
 
 >[!TIP]
 >
->Si vous souhaitez obtenir plus d’informations Marketo dans Salesforce, consultez notre [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} produit.
+>Si vous souhaitez obtenir plus d’informations sur Marketo dans Salesforce, consultez notre produit [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.

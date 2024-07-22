@@ -2,11 +2,11 @@
 description: NUR-AAAA-MM-Simple Nurture - Documents Marketo - Documentation du produit
 title: NUR-AAAA-MM-Simple Nurture
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 18%
+source-wordcount: '347'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Il s’agit d’un exemple de programme d’aide à la retraite simple, qui utilise le programme d’engagement des Marketo Engage, avec du contenu cadencé pour passer au fil du temps dans votre base de données, tout en utilisant des flux pour guider les enregistrements à travers les parcours en fonction du comportement.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -36,7 +36,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -63,7 +63,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Envoyer la performance par e-mail</td>
+   <td>Performance des e-mails</td>
   </tr>
   <tr> 
    <td>Rapport local</td> 
@@ -94,7 +94,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Ressources : héberge toutes les ressources créatives
+   <td>Assets : héberge toutes les ressources créatives
    <br/>(sous-dossiers pour les emails)</td>
   </tr>
   <tr> 
@@ -105,7 +105,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Rapports  </td>
+   <td>Rapports</td>
   </tr>
  </tbody> 
 </table>
@@ -141,17 +141,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
-   * Copier le modèle d’origine
+* **Modèle de page d’entrée avec le même nom**
+   * Copier le modèle d&#39;origine
    * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
    * Conserver les deux fichiers
-   * Remplacer l’élément de cet abonnement - _Recommandé_
+   * Remplacer un élément de cet abonnement - _Recommandé_
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles
@@ -171,4 +171,4 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;04 - Engaged (Program Success)&quot; pour le suivi du succès. Procédez comme suit : _before_ vos emails sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;04 - Engaged (Program Success)&quot; pour le suivi du succès. Effectuez cette _avant_ l&#39;envoi de vos emails.

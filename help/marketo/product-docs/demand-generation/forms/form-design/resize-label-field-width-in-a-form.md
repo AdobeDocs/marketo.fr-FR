@@ -17,7 +17,7 @@ Il existe deux façons de redimensionner à la fois la largeur de l’étiquette
 
 ## Faites glisser et déposez la largeur {#drag-and-drop-the-width}
 
-1. Dans le [éditeur de formulaires](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), sélectionnez le champ à redimensionner.
+1. Dans l’ [éditeur de formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), sélectionnez le champ à redimensionner.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 

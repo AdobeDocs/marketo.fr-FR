@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrage d’un rapport de programme par programme {#filter-a-program-report-by-program}
 
-Concentrez-vous sur vos [rapport performance du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} sur des programmes spécifiques pour comparer leurs performances.
+Concentrez votre [rapport sur les performances du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} sur des programmes spécifiques pour comparer leurs performances.
 
 1. Accédez à **[!UICONTROL Activités marketing]** (ou **[!UICONTROL Analytics]**).
 
@@ -23,7 +23,7 @@ Concentrez-vous sur vos [rapport performance du programme](/help/marketo/product
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Configuration]** par glisser-déposer ; **[!UICONTROL Programmes]**.
+1. Cliquez sur l’onglet **[!UICONTROL Setup]** et faites glisser le curseur sur **[!UICONTROL Programmes]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ Concentrez-vous sur vos [rapport performance du programme](/help/marketo/product
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu’il contient au moment de l’exécution du rapport.
 
-1. C&#39;est tout ! Cliquez sur le bouton **[!UICONTROL Rapport]** pour voir _just_ les programmes sélectionnés de votre rapport.
+1. C&#39;est tout ! Cliquez sur l&#39;onglet **[!UICONTROL Rapport]** pour afficher _juste_ les programmes sélectionnés dans votre rapport.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
 >[!NOTE]
 >
->[Filtrage d’un rapport de programme par balise](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[Filtrer un rapport de programme par balise](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

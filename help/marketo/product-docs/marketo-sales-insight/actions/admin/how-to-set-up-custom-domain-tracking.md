@@ -36,6 +36,6 @@ Une fois que vous avez confirmé auprès de votre équipe informatique que le CN
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. Dans l’onglet Suivi des domaines personnalisés, saisissez votre CNAME et cliquez sur **Connexion**.
+1. Dans l’onglet Suivi de domaine personnalisé , saisissez votre CNAME et cliquez sur **Se connecter**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

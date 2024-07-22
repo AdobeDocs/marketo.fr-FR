@@ -17,7 +17,7 @@ Marketo SEO peut suggérer les mots-clés dont vous devez effectuer le suivi. No
 
 ## Obtenir des suggestions de mots-clés à l’aide d’un mot-clé {#get-keyword-suggestions-using-a-keyword}
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
@@ -25,13 +25,13 @@ Marketo SEO peut suggérer les mots-clés dont vous devez effectuer le suivi. No
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Saisissez un **[!UICONTROL Mot-clé]**. Cliquez sur **[!UICONTROL Suggérer des mots-clés]**.
+1. Saisissez un **[!UICONTROL Mot-clé]**. Cliquez sur **[!UICONTROL Suggest Keywords]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Savais-tu que tu pouvais ?  [ajouter votre mot-clé à une nouvelle liste ou à une liste existante ;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) juste ici ?
+   >Saviez-vous que vous pouvez [ajouter votre mot-clé à une liste existante ou nouvelle](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ici ?
 
 1. Sélectionnez le ou les mots-clés suggérés. Cliquez sur **[!UICONTROL Ajouter la sélection]**.
 
@@ -45,7 +45,7 @@ Marketo SEO peut suggérer les mots-clés dont vous devez effectuer le suivi. No
 
 ## Obtenir des suggestions de mots-clés à partir d’une URL  {#get-keyword-suggestions-from-a-url}
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
@@ -53,17 +53,17 @@ Marketo SEO peut suggérer les mots-clés dont vous devez effectuer le suivi. No
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Définir **[!UICONTROL Suggérer par]** to **[!UICONTROL URL]**.
+1. Définissez **[!UICONTROL Suggest by]** sur **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Saisissez un **[!UICONTROL URL]** et cliquez sur **[!UICONTROL Suggérer des mots-clés]**.
+1. Saisissez une **[!UICONTROL URL]** et cliquez sur **[!UICONTROL Suggérer des mots-clés]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Savais-tu que tu pouvais ? [ajouter votre mot-clé à une nouvelle liste ou à une liste existante ;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) juste ici ?
+   >Saviez-vous que vous pouvez [ajouter votre mot-clé à une liste existante ou nouvelle](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ici ?
 
 1. Sélectionnez le ou les mots-clés suggérés. Cliquez sur **[!UICONTROL Ajouter la sélection]**.
 
@@ -75,5 +75,5 @@ Fantastique ! Votre mot-clé a été ajouté.
 
 >[!MORELIKETHIS]
 >
->* [Présentation des mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
->* [Ajouter/supprimer des mots-clés d’une liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>* [Comprendre les mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [Ajouter/Supprimer des mots-clés d’une liste](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

@@ -5,7 +5,7 @@ exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Le suivi des réponses s’effectue en examinant un identifiant de message qui s
 
 >[!PREREQUISITES]
 >
->Connexion avec le serveur de messagerie : Sales Connect doit être connecté à votre boîte de réception afin que nous sachions quand une nouvelle réponse est arrivée. Votre compte Sales Connect doit être connecté à Gmail. Si vous utilisez Outlook, nous devrons intégrer votre serveur d’échange.
+>Connexion avec le serveur de messagerie : Sales Connect doit être connecté à votre boîte de réception afin que nous sachions quand une nouvelle réponse est arrivée. Votre compte Sales Connect doit être connecté à Gmail. Si vous utilisez Outlook, nous devrons intégrer votre serveur exchange.
 
 Si Sales Connect ne peut pas suivre la réponse de votre prospect à votre email, il ne pourra pas arrêter une campagne basée sur la détection des réponses ni consigner cette réponse à Salesforce. Que signifie toute adresse email à laquelle on peut répondre ?
 
@@ -26,7 +26,7 @@ Cela signifie que si vous envoyez un email à flynn@flynnsarcade.com et qu’il 
 
 ## Comment effectuer le suivi de vos pièces jointes aux emails {#how-to-track-your-email-attachments}
 
-Sales Connect offre un suivi sur vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez déterminer quand elles ont été ouvertes/téléchargées et voir les pages que votre destinataire consulte. Nous vous permettrons d’utiliser notre fonctionnalité de pièces jointes pouvant faire l’objet d’un suivi à partir des deux [application web](https://toutapp.com/login) et Gmail (ou applications Google).
+Sales Connect offre un suivi sur vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez déterminer quand elles ont été ouvertes/téléchargées et voir les pages que votre destinataire consulte. Nous vous autoriserons à utiliser notre fonctionnalité de pièces jointes pouvant faire l’objet d’un suivi à partir de l’ [application web](https://toutapp.com/login) et de Gmail (ou des applications Google).
 
 >[!NOTE]
 >
@@ -34,11 +34,11 @@ Sales Connect offre un suivi sur vos pièces jointes (.doc, .ppt, .pdf) afin que
 
 **Comment envoyer votre première pièce jointe pouvant faire l’objet d’un suivi**
 
-1. Composer un email ou modifier un modèle, puis cliquez sur le bouton **Contenu** bouton .
+1. Composez un email ou modifiez un modèle, puis cliquez sur le bouton **Contenu** .
 
 1. Téléchargez votre pièce jointe et envoyez-la. Nous prenons en charge les PDF, les documents Word et les présentations PowerPoint.
 
-1. Sélectionner **Ajouter à un courrier électronique**.
+1. Sélectionnez **Ajouter au courrier électronique**.
 
 1. Cliquez sur **Envoyer** et déclenchez votre flux en direct. Vous verrez vos destinataires pendant qu’ils s’ouvrent et parcourent vos pièces jointes.
 
@@ -59,6 +59,6 @@ Quelques conseils pour obtenir de meilleurs statistiques de tracking sur vos ema
 
 ## Test de l’e-mail non affiché comme affiché {#test-email-not-showed-as-viewed}
 
-Même si vous avez envoyé votre message à une autre adresse électronique, nous ne vous consignerons pas l’affichage des courriers électroniques que vous vous êtes envoyés dans le flux en direct. Notre suivi est basé sur les appareils. tant que vous utilisez un ordinateur sur lequel vous vous êtes connecté à Sales Connect, nous allons filtrer cette activité.
+Même si vous avez envoyé votre message à une autre adresse électronique, nous ne vous consignerons pas l’affichage des courriers électroniques que vous vous êtes envoyés dans le flux en direct. Notre suivi est basé sur les appareils. Tant que vous utilisez un ordinateur sur lequel vous êtes connecté à Sales Connect, nous allons filtrer cette activité.
 
-La raison ? Sales Connect est dynamique, et nos principaux utilisateurs ne nous pardonneraient jamais si leurs propres informations apparaissaient dans l’activité Flux en direct chaque fois qu’ils regardaient un email qu’ils envoyaient.
+La raison ? Sales Connect est dynamique et nos utilisateurs actifs ne nous pardonneraient jamais si leurs propres informations s’affichaient dans l’activité Flux en direct chaque fois qu’ils regardaient un email qu’ils envoyaient.

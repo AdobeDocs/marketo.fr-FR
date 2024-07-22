@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359679
-description: Modification de la page CSS d’un thème de formulaire - Documents Marketo - Documentation du produit
+description: Modifier le CSS d’un thème de formulaire - Documents Marketo - Documentation du produit
 title: Modification de la page CSS d’un thème de formulaire
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Modification de la page CSS d’un thème de formulaire {#edit-the-css-of-a-form-theme}
 
-Vous disposez de quelques [vous pouvez choisir parmi des thèmes](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier les CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
+Vous disposez de quelques [thèmes préconfigurés que vous pouvez choisir parmi](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier les CSS, vous pouvez apporter les modifications de votre choix. Voici comment.
 
 >[!NOTE]
 >
@@ -55,11 +55,11 @@ Vous disposez de quelques [vous pouvez choisir parmi des thèmes](/help/marketo/
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. Lorsque vous avez terminé, cliquez sur **Enregistrer**.
+1. Une fois que vous avez terminé, cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Pour afficher votre formulaire personnalisé, cliquez sur **Aperçu du brouillon**.
+1. Pour afficher votre formulaire personnalisé, cliquez sur **Aperçu préliminaire**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

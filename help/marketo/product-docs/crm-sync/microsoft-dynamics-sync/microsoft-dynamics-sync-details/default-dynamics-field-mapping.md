@@ -5,8 +5,8 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 42%
+source-wordcount: '823'
+ht-degree: 45%
 
 ---
 
@@ -49,14 +49,14 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Micro
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Nom</td>
+      <td>Dernier</td>
       <td>Nom</td>
       <td>lastname</td>
     </tr>
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>emailaddress1</td>
+      <td>email address1</td>
     </tr>
     <tr>
       <td>Intitulé du poste</td>
@@ -70,8 +70,8 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Micro
       <td>telephone1</td>
     </tr>
     <tr>
+      <td>Mobile</td>
       <td>Téléphone portable</td>
-      <td>Téléphone mobile</td>
       <td>mobilphone</td>
     </tr>
     <tr>
@@ -141,7 +141,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Micro
     </tr>
     <tr>
       <td>Adresse 2 - Microsoft</td>
-      <td>Rue #2</td>
+      <td>Rue 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
@@ -160,13 +160,13 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Micro
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Ne Pas Envoyer de support marketing - Microsoft</td>
+      <td>Ne pas envoyer de contenu marketing - Microsoft</td>
       <td>Matériel marketing</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
       <td>Téléphone du domicile - Microsoft</td>
-      <td>Téléphone du domicile </td>
+      <td>Téléphone (domicile)</td>
       <td>telephone2</td>
     </tr>
     <tr>
@@ -225,8 +225,8 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Micro
       <td>subject</td>
     </tr>
     <tr>
-      <td>Chiffre d’affaires annuel</td>
-      <td>Chiffre d’affaires annuel</td>
+      <td>Chiffre d'affaires annuel</td>
+      <td>Chiffre d'affaires annuel</td>
       <td>chiffre d’affaires</td>
     </tr>
   </tbody>
@@ -290,14 +290,14 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Nom</td>
+      <td>Dernier</td>
       <td>Nom</td>
       <td>lastname</td>
     </tr>
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>emailaddress1</td>
+      <td>email address1</td>
     </tr>
     <tr>
       <td>Intitulé du poste</td>
@@ -311,8 +311,8 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
       <td>telephone1</td>
     </tr>
     <tr>
+      <td>Mobile</td>
       <td>Téléphone portable</td>
-      <td>Téléphone mobile</td>
       <td>mobilphone</td>
     </tr>
     <tr>
@@ -377,7 +377,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
     </tr>
     <tr>
       <td>Téléphone du domicile - Microsoft</td>
-      <td>Téléphone du domicile </td>
+      <td>Téléphone (domicile)</td>
       <td>telephone2</td>
     </tr>
     <tr>
@@ -406,7 +406,7 @@ Les champs de piste ci-dessous sont synchronisés pour une utilisation interne.
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>Ne Pas Envoyer de support marketing - Microsoft</td>
+      <td>Ne pas envoyer de contenu marketing - Microsoft</td>
       <td>Matériel marketing</td>
       <td>donotsendmm</td>
     </tr>
@@ -545,18 +545,18 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Chiffre d’affaires annuel</td>
-      <td>Chiffre d’affaires annuel</td>
+      <td>Chiffre d'affaires annuel</td>
+      <td>Chiffre d'affaires annuel</td>
       <td>chiffre d’affaires</td>
     </tr>
     <tr>
-      <td>Notes sur société</td>
+      <td>Notes sur la société</td>
       <td>Description</td>
       <td>description</td>
     </tr>
     <tr>
-      <td>Secteur</td>
-      <td>Secteur</td>
+      <td>Industrie</td>
+      <td>Industrie</td>
       <td>industrycode</td>
     </tr>
     <tr>
@@ -565,12 +565,12 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
       <td>sic</td>
     </tr>
     <tr>
-      <td>Site Internet</td>
-      <td>Site Internet</td>
+      <td>Site web</td>
+      <td>Site web</td>
       <td>site web</td>
     </tr>
     <tr>
-      <td>Nombre d’employés</td>
+      <td>Nombre d'employés</td>
       <td>Nombre d’employés</td>
       <td>numberofemployee</td>
     </tr>
@@ -585,7 +585,7 @@ Les champs Contact ci-dessous sont synchronisés pour une utilisation interne.
       <td>name</td>
     </tr>
     <tr>
-      <td>Nombre d’employés</td>
+      <td>Nombre d'employés</td>
       <td>Nombre d’employés</td>
       <td>numberofemployee</td>
     </tr>

@@ -20,23 +20,23 @@ L’ajout d’utilisateurs ou d’administrateurs est rapide et facile !
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion des utilisateurs**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Cliquez sur le bouton **Actions** et sélectionnez **Invitation d’utilisateurs**.
+1. Cliquez sur le bouton **Actions** et sélectionnez **Inviter des utilisateurs**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également sélectionner **Invitation d’utilisateurs via CSV** si vous les avez tous répertoriés dans une feuille de calcul.
+   >Vous pouvez également sélectionner **Inviter des utilisateurs via CSV** si vous les avez tous répertoriés dans une feuille de calcul.
 
 1. Saisissez les adresses électroniques des individus que vous souhaitez ajouter.
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. ÉTAPE FACULTATIVE : Ajoutez le ou les utilisateurs aux équipes auxquelles ils doivent faire partie. Si vous ignorez cette partie, tous les nouveaux membres seront ajoutés à l’équipe Tout le monde.
+1. ÉTAPE FACULTATIVE : Ajoutez le ou les utilisateurs à la ou les équipes auxquelles ils doivent faire partie. Si vous ignorez cette partie, tous les nouveaux membres seront ajoutés à l’équipe Tout le monde.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -64,11 +64,11 @@ Pour transformer un utilisateur existant en administrateur, procédez comme suit
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion des utilisateurs**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Recherchez l’utilisateur que vous souhaitez créer en tant qu’administrateur, cliquez sur la liste déroulante Rôle , puis sélectionnez **Administration**.
+1. Recherchez l’utilisateur que vous souhaitez créer en tant qu’administrateur, cliquez sur la liste déroulante Rôle et sélectionnez **Admin**.
 
    ![](assets/invite-users-and-admins-10.png)
 

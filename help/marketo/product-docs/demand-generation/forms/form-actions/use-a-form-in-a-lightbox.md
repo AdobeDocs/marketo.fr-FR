@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -31,14 +31,14 @@ Une Lightbox est une technique qui permet d’ouvrir un formulaire devant votre 
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Définir **Type de code** to **Lightbox**.
+1. Définissez **Type de code** sur **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Sélectionnez/copiez le code, puis cliquez sur **Fermer**.
+1. Sélectionnez/copiez le code et cliquez sur **Fermer**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
 Remettez le code à votre développeur web et demandez-lui de l’ajouter à votre site web.
 
-Bon travail ! 
+Super travail !

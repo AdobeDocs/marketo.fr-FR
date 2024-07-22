@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Génération de questions {#question-generation}
 
-Affichez toutes vos tâches et leurs détails pertinents, tels que la date de leur génération, le nombre total de questions, l’état d’approbation, etc.
+Affichez toutes vos tâches et leurs détails pertinents, tels que le moment où elles ont été générées, le nombre total de questions, l’état d’approbation, etc.
 
 ## Générer des questions {#generate-questions}
 
@@ -20,11 +20,11 @@ Affichez toutes vos tâches et leurs détails pertinents, tels que la date de le
 
    ![](assets/question-generation-1.png)
 
-1. Cliquez sur **[!UICONTROL Générer des questions]**.
+1. Cliquez sur **[!UICONTROL Générer les questions]**.
 
    ![](assets/question-generation-2.png)
 
-1. Donnez un nom à votre tâche et saisissez une URL source (jusqu’à 10) à partir de laquelle tout le contenu sera extrait. Saisissez les rubriques/mots-clés de votre choix, puis appuyez sur la touche Entrée de votre clavier. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Générer]**.
+1. Donnez un nom à votre tâche et saisissez une URL source (jusqu’à 10) à partir de laquelle tout le contenu sera extrait. Saisissez les rubriques/mots-clés de votre choix, puis appuyez sur la touche Entrée de votre clavier. Une fois que vous avez terminé, cliquez sur **[!UICONTROL Générer]**.
 
    ![](assets/question-generation-3.png)
 
@@ -42,15 +42,15 @@ Affichez toutes vos tâches et leurs détails pertinents, tels que la date de le
 
    >[!TIP]
    >
-   >Appuyez sur Actualiser pour voir le dernier état de votre génération de questions.
+   >Actualisez l’accès pour afficher le dernier état de la génération de questions.
 
    ![](assets/question-generation-5.png)
 
-## Télécharger les questions et réponses {#download-questions-and-responses}
+## Téléchargement des questions et réponses {#download-questions-and-responses}
 
 >[!NOTE]
 >
->Les questions et réponses générées sont également visibles dans la bibliothèque de [réponses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Les questions et réponses générées sont également visibles dans la [bibliothèque de réponses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Recherchez la tâche souhaitée et cliquez sur l’icône de téléchargement en regard de son nom.
 
@@ -60,15 +60,15 @@ Affichez toutes vos tâches et leurs détails pertinents, tels que la date de le
 
    ![](assets/question-generation-7.png)
 
-1. Dans le fichier Excel, **[!DNL Task details]** vous indique précisément cela, divers détails sur la tâche, y compris des instructions sur la façon d’ajouter/de modifier des questions et/ou des réponses.
+1. Dans le fichier Excel, **[!DNL Task details]** affiche précisément cela, divers détails sur la tâche, y compris des instructions sur la façon d&#39;ajouter/modifier des questions et/ou des réponses.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >Si vous décidez d’ajouter/de modifier en masse des questions et/ou des réponses, [découvrez comment les recharger ici](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >Si vous décidez d&#39;ajouter/modifier des questions et/ou des réponses en masse, [apprenez à les transférer ici](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
-1. La variable **[!DNL Q&Rs]** fournit des détails supplémentaires, y compris les questions et réponses générées.
+1. L’onglet **[!DNL Q&Rs]** fournit des détails supplémentaires, y compris les questions et réponses générées.
 
    ![](assets/question-generation-9.png)
 
@@ -81,7 +81,7 @@ Pour permettre l’extraction de contenu de vos URL web lors de la génération 
   <tr>
     <th>Amérique du Nord</th>
     <th>Europe</th>
-    <th>Asie-Pacifique</th>
+    <th>APAC</th>
   </tr>
 </thead>
 <tbody>

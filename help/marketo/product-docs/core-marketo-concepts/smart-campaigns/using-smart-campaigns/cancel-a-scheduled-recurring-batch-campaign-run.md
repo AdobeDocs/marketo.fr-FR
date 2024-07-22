@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Si vous avez une campagne par lots récurrente que vous ne souhaitez plus, vous pouvez annuler les exécutions futures. Voici comment.
 
-1. Sélectionnez la campagne dynamique et cliquez sur le bouton **Planification** .
+1. Sélectionnez la campagne dynamique et cliquez sur l’onglet **Planning** .
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Cliquez sur **Périodicité du planning**.
+1. Cliquez sur **Planifier la périodicité**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Vous pouvez annuler une seule exécution en cliquant sur l’option ![rouge x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) à côté. Découvrez comment [annuler l’exécution d’une campagne par lots planifiée ;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >Vous pouvez annuler une seule exécution en cliquant sur le ![x rouge](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) en regard de celle-ci. Découvrez comment [annuler une opération de campagne par lots planifiée](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Définir la planification sur **[!UICONTROL Aucun]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Définissez la Planification sur **[!UICONTROL Aucun]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -39,4 +39,4 @@ Si vous avez une campagne par lots récurrente que vous ne souhaitez plus, vous 
 
    >[!MORELIKETHIS]
    >
-   >[Annulation d’une exécution de campagne par lots planifiée](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+   >[Annuler une exécution de campagne par lots planifiée](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

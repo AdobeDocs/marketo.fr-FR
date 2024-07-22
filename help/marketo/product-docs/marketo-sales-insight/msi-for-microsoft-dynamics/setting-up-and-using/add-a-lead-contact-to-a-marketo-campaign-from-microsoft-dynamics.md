@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez ajouter rapidement et facilement des pistes/contacts aux campagnes dynamiques Marketo directement depuis Microsoft Dynamics. Voici comment.
 
-1. Dans Dynamics, accédez au **Ventes** zone.
+1. Dans Dynamics, accédez à la zone **Sales** .
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,7 +27,7 @@ Vous pouvez ajouter rapidement et facilement des pistes/contacts aux campagnes d
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Cliquez sur **...** et sélectionnez **Ajouter à Marketo Campaign**.
+1. Cliquez sur **...** et sélectionnez **Ajouter à la campagne Marketo**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Vous pouvez ajouter rapidement et facilement des pistes/contacts aux campagnes d
 
    >[!NOTE]
    >
-   >Pour que la campagne s’affiche dans la liste déroulante, utilisez la variable  [**La campagne est demandée** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), avec Sales Insight comme source, lors de la configuration de la campagne.
+   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**Campaign is Requested**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), avec Sales Insight comme source, lorsque vous configurez la campagne.
 
 Et c&#39;est tout les gars ! Vous disposez désormais de la puissance des campagnes dynamiques Marketo entre vos mains directement à partir de Dynamics.

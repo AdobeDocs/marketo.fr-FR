@@ -6,8 +6,8 @@ exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 17%
+source-wordcount: '399'
+ht-degree: 12%
 
 ---
 
@@ -61,15 +61,15 @@ Sales Phone facilite la communication internationale. Pour les clients qui appel
   </tr> 
   <tr> 
    <td>Grèce </td> 
-   <td>30, 3021</td> 
+   <td>30 3021</td> 
   </tr> 
   <tr> 
    <td>Hongrie</td> 
-   <td>36, 361</td> 
+   <td>36 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irlande </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">353 3531</td> 
   </tr> 
   <tr> 
    <td>Israël</td> 
@@ -113,7 +113,7 @@ Sales Phone facilite la communication internationale. Pour les clients qui appel
   </tr> 
   <tr> 
    <td colspan="1">Pologne </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -146,11 +146,11 @@ Sales Phone facilite la communication internationale. Pour les clients qui appel
 
 {#international-calling-faq}
 
-**Pourquoi le MSE ne soutient-il pas les appels internationaux pour tous les pays ?**
+**Pourquoi le MSE ne prend-il pas en charge les appels internationaux pour tous les pays ?**
 
 Aujourd&#39;hui, nous vous proposons des appels internationaux sans frais supplémentaires avec le téléphone de vente. Nous voulons que vous puissiez communiquer facilement avec vos propres prospects et clients. C&#39;est pourquoi nous avons lancé la prise en charge des appels internationaux à tarifs standard. Nous fournissons une couverture à 34 pays en dehors des États-Unis et du Canada pour des régions d&#39;Europe, d&#39;Asie et d&#39;autres destinations clés. Nous continuerons à nous développer en fonction des commentaires des clients.
 
-**Si je suis en dehors des États-Unis, de quels pays puis-je appeler ?**
+**Si je suis en dehors des États-Unis, de quels pays puis-je appeler et vers ?**
 
 Voici la liste des pays que nous ne prenons actuellement pas en charge les appels depuis et vers . Si le pays que vous appelez est soutenu, vous pourrez appeler n&#39;importe quel autre pays international que nous soutenons.
 
@@ -158,6 +158,6 @@ Voici la liste des pays que nous ne prenons actuellement pas en charge les appel
 
 Oui. Nous ne prenons pas en charge les appels vers des numéros de téléphone à tarif élevé (comme 900 aux États-Unis et +449 au Royaume-Uni). En général, nous ne prenons pas en charge l’appel de numéros de téléphone à coût partagé, ainsi que d’un petit nombre d’autres itinéraires haut de gamme.
 
-**Puis-je utiliser la présence locale lors d&#39;un appel international ?**
+**Puis-je utiliser la présence locale lors de l’appel international ?**
 
 Nombre La présence locale n’est disponible que pour les numéros des États-Unis.

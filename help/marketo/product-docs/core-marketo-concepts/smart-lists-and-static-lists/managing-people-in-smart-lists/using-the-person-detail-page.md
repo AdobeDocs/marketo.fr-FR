@@ -19,11 +19,11 @@ La page des détails de la personne contient toutes les informations que Marketo
 
 Il y a de nombreuses façons d&#39;ouvrir des personnes spécifiques. Voici quelques exemples :
 
-* Dans la **Base**, vous pouvez effectuer une recherche dans la recherche rapide .
-* Quelconque **Liste dynamique** ou liste
-* **Membres** onglet d’un programme
+* À partir de la **base de données**, vous pouvez effectuer une recherche dans la recherche rapide
+* N’importe quelle **liste dynamique** ou liste
+* Onglet **Membres** d’un programme
 * **Affichage des membres de campagne** dans une campagne dynamique
-* Certains **rapports**
+* Quelques **rapports**
   <br> 
 
 1. Double-cliquez sur une personne ou cliquez une seule fois sur l’identifiant à gauche.
@@ -60,7 +60,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 
 >[!NOTE]
 >
->Vous pouvez également afficher les informations sur les opportunités [inséré via l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
+>Vous pouvez également voir les informations d’opportunité [insérées via l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
 
 ## Modification d’un champ {#editing-a-field}
 
@@ -93,14 +93,14 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 
 >[!NOTE]
 >
->Certains champs sont _not_ editable :
+>Certains champs sont _not_ modifiables :
 >
 >* Journal d&#39;activité
 >* Informations sur la société
 >* Opportunités de contacts de la DDC
->* Certains champs spécifiques à Marketo, tels que Date de création et Type source d’origine.
+>* Certains champs spécifiques à Marketo, tels que Date de création et Type de Source original.
 >
->En savoir plus sur [Champs gérés par le système](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>En savoir plus sur les [champs gérés par le système](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

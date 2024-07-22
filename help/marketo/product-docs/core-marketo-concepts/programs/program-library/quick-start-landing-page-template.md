@@ -2,10 +2,10 @@
 description: Modèle de page d’entrée de démarrage rapide - Documents Marketo - Documentation du produit
 title: Modèle de page d’entrée de démarrage rapide
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Certains programmes de démarrage de la bibliothèque de référence des Marketo
 
 >[!TIP]
 >
->En savoir plus sur [Modèles de page d’entrée guidés](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>En savoir plus sur les [modèles de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé des sections {#sections-summary}
 
@@ -49,7 +49,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 * Elément de texte de paragraphe pour mettre à jour la copie de paragraphe
 * Elément de formulaire à ajouter dans un formulaire
 * Elément de texte sous le formulaire pour modifier le texte et les liens de la politique de confidentialité
-* Variables à modifier : couleur d’arrière-plan de la section
+* Variables à modifier :
+Couleur d’arrière-plan de la section
    * Couleur d’arrière-plan directement derrière le formulaire
    * Rayon de bordure de la zone autour du formulaire (ce qui permet d’obtenir des coins incurvés ou, s’il est défini sur &quot;0&quot;, des coins carrés)
    * Afficher ou masquer toute la section
@@ -79,9 +80,9 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ### Variables supplémentaires {#additional-variables}
 
-* **Rayon de la bordure du bouton**: ajuste le bouton de formulaire pour qu’il soit arrondi ou rectangulaire
-* **Couleur du bouton**: met à jour la couleur du bouton sur le formulaire.
-* **Couleur de survol du bouton**: modifie la couleur de l’état de survol du bouton sur le formulaire.
-* **Couleur du lien**: met à jour la couleur des liens sur toute la page
-* **Interlettrage des bords supérieurs des sections**: ajoute de l’espace au-dessus de chaque section, à l’exception de la section logo ;
-* **Interlettrage de la section inférieure**: ajoute de l’espace sous chaque section, à l’exception de la section logos ;
+* **Rayon de bordure des boutons** : ajuste le bouton de formulaire pour qu’il soit arrondi ou rectangulaire
+* **Couleur du bouton** : met à jour la couleur du bouton sur le formulaire
+* **Couleur de survol du bouton** : modifie la couleur de l’état de survol du bouton sur le formulaire.
+* **Couleur du lien** : met à jour la couleur des liens sur toute la page
+* **Interlettrage de la section** : ajoute de l’espace au-dessus de chaque section, à l’exception de la section du logo
+* **Espacement inférieur de la section** : ajoute de l’espace sous chaque section, à l’exception de la section logos

@@ -20,7 +20,7 @@ Créez une présentation pour projeter les vues et les objectifs calendaires de 
 >
 >Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
-1. Accédez au **[!UICONTROL Calendrier]**.
+1. Accédez au **[!UICONTROL calendrier]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -40,4 +40,4 @@ Créez une présentation pour projeter les vues et les objectifs calendaires de 
 
 >[!MORELIKETHIS]
 >
->[Personnalisation d’une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
+>[Personnaliser une présentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)

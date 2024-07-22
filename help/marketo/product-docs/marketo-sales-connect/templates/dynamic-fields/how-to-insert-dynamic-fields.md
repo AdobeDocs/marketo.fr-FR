@@ -6,18 +6,18 @@ exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Comment insérer des champs dynamiques {#how-to-insert-dynamic-fields}
 
-Vous pouvez personnaliser vos modèles d’email avec des attributs prédéfinis tels que `{{first_name}}` ou `{{company}}`. Ces champs vous permettent d’envoyer un email à plusieurs contacts et de les renseigner automatiquement sans avoir à les entrer séparément pour chaque contact.
+Nous vous permettons de personnaliser vos modèles d&#39;email avec des attributs prédéfinis tels que `{{first_name}}` ou `{{company}}`. Ces champs vous permettent d’envoyer un email à plusieurs contacts et de les renseigner automatiquement sans avoir à les entrer séparément pour chaque contact.
 
 >[!TIP]
 >
->Les champs &quot;first_name&quot; et &quot;company&quot; sont les seuls champs qui s’afficheront à la fois pour Sales Connect et Salesforce. Cela signifie que si un contact n’existe pas dans la variable [application web](https://toutapp.com/login), nous recherchons dans Salesforce si nous pouvons trouver un enregistrement de contact/piste avec une adresse électronique correspondante. Nous utilisons ensuite les informations de cet enregistrement pour remplir le champ.
+>Les champs &quot;first_name&quot; et &quot;company&quot; sont les seuls champs qui s’afficheront à la fois pour Sales Connect et Salesforce. Cela signifie que si un contact n’existe pas dans l’ [application web](https://toutapp.com/login), nous recherchons dans Salesforce si nous pouvons trouver un enregistrement de contact/piste avec une adresse électronique correspondante. Nous utilisons ensuite les informations de cet enregistrement pour remplir le champ.
 
 ## Insertion d’un champ dynamique dans un modèle {#insert-a-dynamic-field-into-a-template}
 

@@ -6,7 +6,7 @@ exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '433'
 ht-degree: 9%
 
 ---
@@ -27,23 +27,23 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
 
 Salesforce Professional définit l’accessibilité au niveau du champ avec des mises en page, contrairement aux profils de Salesforce Enterprise/Unlimited. Suivez ces étapes pour permettre à l’utilisateur de synchronisation Marketo de mettre à jour les champs personnalisés.
 
-1. Type &quot;[!UICONTROL dispositions de page]&quot; dans la barre de recherche de navigation sans appuyer sur **[!UICONTROL Entrée]**, puis cliquez sur **[!UICONTROL Disposition de page]** under **[!UICONTROL Pistes]**.
+1. Saisissez &quot;[!UICONTROL dispositions de page]&quot; dans la barre de recherche de navigation sans appuyer sur **[!UICONTROL Entrée]**, puis cliquez sur **[!UICONTROL Mise en page de page]** sous **[!UICONTROL Pistes]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Cliquez sur **[!UICONTROL Modifier]** en regard de l’option Mise en page des pistes.
+1. Cliquez sur **[!UICONTROL Modifier]** en regard de la Disposition de piste.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Cliquez et faites glisser un nouveau **[!UICONTROL Section]** dans la mise en page.
+1. Cliquez et faites glisser une nouvelle **[!UICONTROL Section]** dans la mise en page.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Saisissez &quot;Marketo&quot; pour **[!UICONTROL Nom de la section]** et cliquez sur **[!UICONTROL OK]**.
+1. Saisissez &quot;Marketo&quot; pour **[!UICONTROL Nom de section]** et cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Cliquez et faites glisser le champ. **[!UICONTROL Date d’acquisition]** dans la **Marketo** .
+1. Cliquez et faites glisser le champ **[!UICONTROL Date d’acquisition]** dans la section **Marketo** .
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -74,21 +74,21 @@ Salesforce Professional définit l’accessibilité au niveau du champ avec des 
    >
    >Créez deux colonnes pour les champs en faisant glisser vers le bas à droite de la page. Vous pouvez déplacer les champs d&#39;un côté à l&#39;autre pour équilibrer la longueur des colonnes.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé d’ajouter des champs.
+1. Cliquez sur **[!UICONTROL Enregistrer]** une fois l’ajout de champs terminé.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Répétez toutes les étapes ci-dessus pour Salesforce **[!UICONTROL Disposition de la page de contact]**.
+1. Répétez toutes les étapes ci-dessus pour la **[!UICONTROL disposition de page de contact]** de Salesforce.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. N’oubliez pas de cliquer **[!UICONTROL Enregistrer]** lorsque vous avez terminé avec la variable **[!UICONTROL Disposition de la page de contact]**.
+1. N’oubliez pas de cliquer sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé avec la **[!UICONTROL disposition de page de contact]**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Assurez-vous que la variable **[!UICONTROL Événement de toute la journée]** a été ajouté au champ **[!UICONTROL Disposition de la page Événement]**.
+   >Assurez-vous que le champ **[!UICONTROL Evénement de toute la journée]** a été ajouté à la **[!UICONTROL Disposition de la page de l’événement]**.
 
 ## Créer un utilisateur de synchronisation {#create-sync-user}
 
@@ -98,15 +98,15 @@ Marketo nécessite des informations d’identification pour accéder à Salesfor
 >
 >Si votre entreprise ne dispose d’aucune licence Salesforce supplémentaire, vous pouvez utiliser un utilisateur marketing existant avec le profil Administrateur système.
 
-1. Saisissez &quot;Utilisateurs&quot; dans la barre de recherche de navigation, puis cliquez sur **[!UICONTROL Utilisateurs]** under **[!UICONTROL Gestion des utilisateurs]**.
+1. Saisissez &quot;users&quot; dans la barre de recherche de navigation, puis cliquez sur **[!UICONTROL Users]** sous **[!UICONTROL Gérer les utilisateurs]**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Cliquez sur **[!UICONTROL Nouvel utilisateur]**.
+1. Cliquez sur **[!UICONTROL New User]**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Renseignez les champs obligatoires, puis sélectionnez la variable **[!UICONTROL Licence utilisateur : Salesforce]**, définissez la variable **[!UICONTROL Profil : administrateur système]**, cochez **[!UICONTROL Utilisateur marketing]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Renseignez les champs requis, sélectionnez la **[!UICONTROL licence utilisateur : Salesforce]**, définissez le **[!UICONTROL profil : administrateur système]**, cochez la case **[!UICONTROL Utilisateur marketing]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -118,4 +118,4 @@ Excellent ! Vous disposez maintenant d’un compte que Marketo peut utiliser pou
 
 >[!MORELIKETHIS]
 >
->[Étape 3 sur 3 : connexion de Marketo et Salesforce (professionnel)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}
+>[Étape 3 sur 3 : Connecter Marketo et Salesforce (professionnel)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

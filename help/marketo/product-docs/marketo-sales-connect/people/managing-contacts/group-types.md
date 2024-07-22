@@ -33,14 +33,14 @@ Découvrez les différents types de groupes dans Sales Connect.
   </tr> 
   <tr> 
    <td colspan="1"><p>Groupes dynamiques</p></td> 
-   <td colspan="1">Mes contacts : Tous les contacts que vous détenez.<br>Désabonne : Les contacts qui se sont désinscrits de la réception de la correspondance.</td> 
+   <td colspan="1">Mes contacts : tous les contacts que vous détenez.<br>Se désabonne : contacts qui se sont désabonnés de la réception de la correspondance.</td> 
   </tr> 
   <tr> 
    <td><p>Mes groupes</p></td> 
    <td>Groupes que vous avez créés. Ils peuvent contenir vos contacts ou des contacts qui ont été partagés avec vous.</td> 
   </tr> 
   <tr> 
-   <td><p>Équipes</p></td> 
+   <td><p>Groupes d’équipes</p></td> 
    <td>Groupes qui ont été partagés avec et/ou par vous. Ils peuvent contenir des contacts personnels ou des contacts que vous avez partagés avec vos collègues.</td> 
   </tr> 
  </tbody> 

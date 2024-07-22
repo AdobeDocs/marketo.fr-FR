@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,15 +25,15 @@ Pour empêcher les utilisateurs de CRM de modifier les modèles de vente, les ad
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **Administration**, puis cliquez sur **Statistiques des ventes**.
+1. Accédez à **Admin**, puis cliquez sur **Sales Insight**.
 
    ![](assets/1.png)
 
-1. Sous **Paramètres**, cliquez sur **Modifier**.
+1. Sous **Settings**, cliquez sur **Edit**.
 
    ![](assets/2.png)
 
-1. Vérifier **Activer la possibilité de verrouiller des modèles**. Cliquez sur **Enregistrer**.
+1. Cochez **Activer la possibilité de verrouiller des modèles**. Cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,7 +43,7 @@ Pour empêcher les utilisateurs de CRM de modifier les modèles de vente, les ad
 
 >[!NOTE]
 >
->Si vous modifiez ce paramètre en tant qu’administrateur, **not** affecte rétroactivement les modèles existants ; En d’autres termes, il ne les verrouillera pas automatiquement.
+>Si vous modifiez ce paramètre en tant qu’administrateur, **et non**, les modèles existants seront affectés rétroactivement ; en d’autres termes, ils ne seront pas verrouillés automatiquement.
 
 ## Verrouillage d’un modèle dans l’éditeur de courrier électronique {#lock-template-in-the-email-editor}
 
@@ -51,11 +51,11 @@ Pour empêcher les utilisateurs de CRM de modifier les modèles de vente, les ad
 
    ![](assets/5.png)
 
-1. Dans l’éditeur d’email, cliquez sur **Paramètres de messagerie électronique**.
+1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
 
    ![](assets/6.png)
 
-1. Vérifier **Publication sur Marketo Sales Insight** s’il n’est pas déjà vérifié. Vous pouvez désormais décocher la case **Autoriser un utilisateur CRM à modifier un email** afin de verrouiller le modèle. Cliquez sur **Enregistrer**.
+1. Vérifiez **Publish to Marketo Sales Insight** si ce n’est pas déjà fait. Vous pouvez désormais décocher la case **Autoriser l&#39;utilisateur CRM à modifier l&#39;email** afin de verrouiller le modèle. Cliquez sur **Enregistrer**.
 
    ![](assets/7.png)
 

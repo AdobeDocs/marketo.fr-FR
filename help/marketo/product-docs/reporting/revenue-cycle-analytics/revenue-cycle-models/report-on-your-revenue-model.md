@@ -23,15 +23,15 @@ Pour chaque modèle de cycle des recettes, vous pouvez générer un rapport sur 
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Cliquez sur **Pistes par étape de chiffre d&#39;affaires**.
+1. Cliquez sur **Pistes par étape de chiffre d’affaires**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Cliquez sur le bouton **Configuration** puis sous la section filtre, double-cliquez sur **Modèle Recettes Cycle**.
+1. Cliquez sur l’onglet **Configuration** , puis, sous la section de filtre, double-cliquez sur **Modèle de cycle de revenu**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Sélectionnez la **Modèle**.
+1. Sélectionnez le **Modèle** approuvé.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
@@ -39,7 +39,7 @@ Pour chaque modèle de cycle des recettes, vous pouvez générer un rapport sur 
    >
    >Pour être disponible dans ce menu déroulant, le modèle doit être validé ou au moins avoir des étapes validées.
 
-1. Cliquez sur le bouton **Rapport** pour voir combien de pistes se trouvent à chaque étape de votre modèle de cycle du chiffre d’affaires.
+1. Cliquez sur l’onglet **Rapport** pour voir le nombre de pistes à chaque étape de votre modèle de cycle des recettes.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 

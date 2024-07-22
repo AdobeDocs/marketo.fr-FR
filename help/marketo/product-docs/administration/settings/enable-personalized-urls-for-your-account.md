@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 10%
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Cliquez sur **[!UICONTROL Pages de destination]**.
+1. Cliquez sur **[!UICONTROL Landing Pages]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
@@ -31,11 +31,11 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Vérifiez les **[!UICONTROL Activer les URL personnalisées]** puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Activer les URL personnalisées]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez [les activer pour des landing pages individuelles ;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez [les activer pour des landing pages individuelles](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

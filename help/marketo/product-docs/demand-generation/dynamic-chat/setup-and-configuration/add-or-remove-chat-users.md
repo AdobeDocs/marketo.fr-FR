@@ -20,7 +20,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
 ## Ajout d’un utilisateur de conversation {#add-a-chat-user}
 
-1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -32,11 +32,11 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
    >
    >Si vous disposez de plusieurs abonnements Marketo, sélectionnez-les avant l’étape suivante.
 
-1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
+1. Cliquez sur l’onglet **[!UICONTROL Utilisateurs]** .
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Ajouter un utilisateur]** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Ajouter un utilisateur]** .
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. Cliquez sur le bouton **+** et sélectionnez le profil de produit souhaité.
+1. Cliquez sur l’icône **+** et sélectionnez le profil de produit souhaité.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -60,11 +60,11 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs de chat
 
 Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déjà l’autorisation du Dynamic Chat, voici comment l’ajouter.
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]** et sélectionnez **[!UICONTROL Utilisateurs et rôles]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]** et sélectionnez **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Rôles]** .
+1. Cliquez sur l’onglet **[!UICONTROL Rôles]** .
 
    ![](assets/add-or-remove-chat-users-9.png)
 
@@ -72,13 +72,13 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Sélectionner **[!UICONTROL Dynamic Chat d’accès]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **[!UICONTROL Access Dynamic Chat]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
 ## Suppression d’un utilisateur de conversation {#remove-a-chat-user}
 
-1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -90,7 +90,7 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
    >
    >Si vous disposez de plusieurs abonnements Marketo, sélectionnez-les avant l’étape suivante.
 
-1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
+1. Cliquez sur l’onglet **[!UICONTROL Utilisateurs]** .
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -98,11 +98,11 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Supprimer un utilisateur]** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Supprimer l’utilisateur]** .
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. Cliquez sur **[!UICONTROL Supprimer un utilisateur]** pour confirmer.
+1. Cliquez sur **[!UICONTROL Supprimer l’utilisateur]** pour confirmer.
 
    ![](assets/add-or-remove-chat-users-17.png)
 

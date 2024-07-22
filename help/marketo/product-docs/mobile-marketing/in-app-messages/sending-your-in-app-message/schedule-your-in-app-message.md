@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,12 +23,12 @@ Envoyez votre message maintenant ou programmez-le pour plus tard.
 
    ![](assets/schedule-your-in-app-message-2.png)
 
-1. La date et l’heure de fin sont facultatives ; sélectionnez-les dans les listes déroulantes.
+1. La Date et l’heure de fin sont facultatives ; sélectionnez-les dans les listes déroulantes.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Ou, pour exécuter le programme immédiatement, sélectionnez **Exécuter immédiatement**. Les champs Date de début disparaissent.
+1. Ou, pour exécuter le programme en ce moment, sélectionnez **Exécuter immédiatement**. Les champs Date de début disparaissent.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Easy! Le dernier mais non le moindre est le suivant : [Validation](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) étape .
+Facile ! L’étape [Validation](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) est la dernière mais non la moindre.

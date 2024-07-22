@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 3%
 >
 >**Autorisations d’administrateur requises**
 
-Vous pouvez créer des [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) pour vos programmes et affectez des valeurs à la balise .
+Vous pouvez créer des [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personnalisées pour vos programmes et attribuer des valeurs à la balise.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Balise de programme : Public cible
+>Balise de programme : audience cible
 >
->Valeur de balise du programme : PME, Entreprise, Mid-Marché
+>Valeur de balise de programme : PME, Entreprise, Mid-Market
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
@@ -35,11 +35,11 @@ Vous pouvez créer des [tags](/help/marketo/product-docs/core-marketo-concepts/p
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouveau type de balise]**.
+1. Cliquez sur **[!UICONTROL New]** et sélectionnez **[!UICONTROL New Tag Type]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Saisissez le **[!UICONTROL Type de balise]** et une balise **[!UICONTROL Valeur]**. Cliquez ensuite sur **[!UICONTROL Ajouter un autre]**.
+1. Saisissez le **[!UICONTROL Type de balise]** et une balise **[!UICONTROL Valeur]**. Cliquez ensuite sur **[!UICONTROL Ajouter]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ Vous pouvez créer des [tags](/help/marketo/product-docs/core-marketo-concepts/p
    >
    >Vous pouvez sélectionner plusieurs types de programmes. Lorsqu’un nouveau programme est créé, ce type de balise est disponible.
 
-1. Vérifier **[!UICONTROL Obligatoire]** et cliquez sur **[!UICONTROL Créer]**.
+1. Cochez **[!UICONTROL Obligatoire]** et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Si le type de balise est **[!UICONTROL Obligatoire]**, les utilisateurs devront saisir une valeur pour la balise lors de la création d’un programme.
+   >Si le type de balise est **[!UICONTROL Obligatoire]**, les utilisateurs devront saisir une valeur pour la balise lors de la création d’un nouveau programme.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

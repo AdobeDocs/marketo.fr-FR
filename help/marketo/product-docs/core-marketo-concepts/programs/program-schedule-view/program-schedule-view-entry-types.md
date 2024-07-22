@@ -7,17 +7,17 @@ feature: Programs
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 15%
+ht-degree: 12%
 
 ---
 
 # Types d’entrée de la vue de programme {#program-schedule-view-entry-types}
 
-Il existe huit types d’entrées intégrés différents qui seront visibles et utilisables dans la vue de planification de votre programme. Vous pouvez également [créer des types d’entrée personnalisés ;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) dans la section Admin .
+Il existe huit types d’entrées intégrés différents qui seront visibles et utilisables dans la vue de planification de votre programme. Vous pouvez également [créer des types d’entrée personnalisés](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) dans la section Admin.
 
 >[!NOTE]
 >
->Les campagnes dynamiques récurrentes sont **not** pris en charge dans la vue de planification.
+>Les campagnes dynamiques récurrentes ne sont **pas** prises en charge dans la vue de planification.
 
 <table> 
  <thead> 
@@ -40,7 +40,7 @@ Il existe huit types d’entrées intégrés différents qui seront visibles et 
    <td colspan="1" rowspan="1"><p>Campagne dynamique planifiée avec au moins une étape de flux Envoyer un courrier électronique .</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Programme d'e-mail <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Programme d’e-mail <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Programme de messagerie planifié.</td> 
   </tr> 
   <tr> 

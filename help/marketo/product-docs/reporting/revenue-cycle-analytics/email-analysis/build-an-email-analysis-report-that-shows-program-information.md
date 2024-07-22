@@ -19,7 +19,7 @@ Suivez ces étapes pour créer un rapport d’analyse des emails qui affichera l
 >
 >Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
-1. Launch **Explorateur de recettes**.
+1. Lancez **Revenue Explorer**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
@@ -27,11 +27,11 @@ Suivez ces étapes pour créer un rapport d’analyse des emails qui affichera l
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Sélectionner **Analyse des emails** zone et clic **OK**.
+1. Sélectionnez la zone **Analyse des emails** et cliquez sur **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Recherchez le **Envoyé (Semaine)** point jaune et cliquez dessus avec le bouton droit. Cliquez sur **Filtrer**.
+1. Recherchez le point jaune **Envoyé (Semaine)** et cliquez dessus avec le bouton droit. Cliquez sur **Filter**.
 
    >[!NOTE]
    >
@@ -39,19 +39,19 @@ Suivez ces étapes pour créer un rapport d’analyse des emails qui affichera l
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Vérifier **Semaine d’envoi actuelle** et cliquez sur **OK**.
+1. Cochez **Semaine actuelle envoyée** et cliquez sur **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Recherchez et double-cliquez sur le bouton **Canal de programme** point jaune.
+1. Recherchez le point jaune **Canal de programme** et double-cliquez dessus.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Recherchez et double-cliquez sur le bouton **Nom de l’email** point jaune.
+1. Recherchez et double-cliquez sur le point jaune **Nom de l’email**.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Recherchez et double-cliquez sur le bouton **Envoyé**, **Ayant ouvert** et **Cliqué** points bleus.
+1. Recherchez et double-cliquez sur les points bleus **Envoyé**, **Ayant ouvert** et **Ayant cliqué**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 

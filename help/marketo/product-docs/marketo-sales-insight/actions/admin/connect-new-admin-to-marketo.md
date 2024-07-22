@@ -1,11 +1,11 @@
 ---
-description: Connexion d’un nouvel administrateur à Marketo - Documents Marketo - Documentation du produit
+description: Connexion du nouvel administrateur à Marketo - Documents Marketo - Documentation du produit
 title: Connexion d’un nouvel administrateur à Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Si l’autre administrateur est déjà connecté à Marketo, il doit uniquement 
 
 Si le second administrateur n’est pas connecté à Marketo en tant qu’administrateur...
 
-1. L’Principal administrateur doit déconnecter le second administrateur de Marketo de Paramètres > Marketo > Accès utilisateur.
+1. L’administrateur principal doit déconnecter le second administrateur de Marketo de Paramètres > Marketo > Accès utilisateur.
 
-1. L’administrateur secondaire se connecte à son compte MSC, accède à Paramètres > Marketo, puis clique sur **Connexion**.
+1. L’administrateur secondaire se connecte à son compte MSC, accède à Paramètres > Marketo, puis clique sur **Se connecter**.
 
 1. Désormais, l’utilisateur secondaire est connecté à Marketo en tant qu’administrateur.
 
-1. L’Principal administrateur peut désormais se connecter et se déconnecter de Marketo.
+1. L’administrateur principal peut désormais se connecter et se déconnecter de Marketo.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Si le second administrateur n’est pas connecté à Marketo en tant qu’admini
 
 ## Mettre à jour votre connexion Marketo {#update-your-marketo-connection}
 
-Si vous décidez de supprimer l’administrateur qui configure l’intégration Marketo, consultez cet article pour en savoir plus.
+Si vous décidez de supprimer l’administrateur qui a configuré l’intégration Marketo, consultez cet article pour en savoir plus.
 
 L’intégration de Marketo sera liée à un utilisateur administrateur de Connect de vente/Actions. En règle générale, il s’agit de l’administrateur qui a cliqué pour la première fois sur le bouton &quot;Se connecter&quot; sur la page de connexion de Marketo et qui a établi la connexion.
 
@@ -48,11 +48,11 @@ Pour simplifier les instructions, nous nous référerons à l’administrateur a
 >
 >L’administrateur d’origine responsable de l’intégration Marketo voit apparaître une option &quot;Déconnecter&quot; sur laquelle il est possible de cliquer lors de l’accès à la page d’intégration de Marketo. Les autres administrateurs (qui n’ont pas établi de connexion) ne le feront pas. En outre, les administrateurs qui ont reçu l’accès à l’intégration Marketo ne pourront pas cliquer sur Se connecter. C’est pourquoi vous devez d’abord suivre les étapes pour supprimer l’accès à l’intégration.
 
-**Suppression de l’accès Marketo de l’administrateur B**
+**Supprimer l’accès Marketo de l’administrateur B**
 
 L’administrateur A (administrateur responsable à l’origine de la connexion) doit suivre ces étapes.
 
-1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
 1. Cliquez sur **Marketo**.
 
@@ -66,17 +66,17 @@ L’administrateur A (administrateur responsable à l’origine de la connexion)
 
 Ces étapes doivent être suivies par l’administrateur B (nouvel administrateur).
 
-1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
 1. Cliquez sur **Marketo**.
 
 1. Cliquez sur **Déconnecter**.
 
-**Déconnexion de l’intégration Marketo pour Admin A**
+**Déconnecter l’intégration Marketo pour l’administrateur A**
 
 Ces étapes doivent être suivies par l’administrateur A (administrateur connecté à l’origine).
 
-1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
 1. Cliquez sur **Marketo**.
 

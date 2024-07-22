@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359898
-description: Découvrez Quelles Sont Les Autorisations Dont Vous Disposez - Documents Marketo - Documentation Du Produit
+description: Découvrez Quelles Sont Les Autorisations Dont Vous Disposez - Documents Marketo - Documentation Produit
 title: Découvrez les autorisations dont vous disposez
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration

@@ -18,6 +18,6 @@ En cliquant sur le menu de points sous la colonne Actions , vous pouvez utiliser
 * Envoyer l&#39;e-mail Marketo
 * Ajouter à la campagne Marketo
 
-Vous pouvez également sélectionner plusieurs pistes dans l’onglet Meilleurs parcours et choisir _Envoyer un courrier électronique Marketo_ ou _Ajouter à Marketo Campaign_.
+Vous pouvez également sélectionner plusieurs pistes dans l’onglet Meilleurs jeux et choisir _Envoyer un courrier électronique Marketo_ ou _Ajouter à Marketo Campaign_.
 
 ![](assets/best-bets-1.png)

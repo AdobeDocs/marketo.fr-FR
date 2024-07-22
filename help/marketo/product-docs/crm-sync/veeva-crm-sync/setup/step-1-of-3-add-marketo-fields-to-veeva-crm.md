@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 8%
+source-wordcount: '527'
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,7 @@ Marketo Engage utilise un ensemble de champs pour capturer certains types d’in
 
 `1.` Créez un champ personnalisé dans le CRM Veeva sur les objets contact : Score
 
-`2.` Si vous le souhaitez, vous pouvez créer des champs supplémentaires (voir le tableau ci-dessous).
+`2.` Vous pouvez créer des champs supplémentaires, si vous le souhaitez (voir le tableau ci-dessous).
 
 Tous ces champs personnalisés sont facultatifs et ne sont pas nécessaires pour synchroniser Marketo Engage et Veeva CRM.
 
@@ -30,11 +30,11 @@ Ajoutez un champ personnalisé sur les objets de piste et de contact dans le CRM
 
 Pour ajouter le champ Score , procédez comme suit.
 
-1. Connectez-vous au CRM Veeva et cliquez sur **[!UICONTROL Configuration]**.
+1. Connectez-vous au CRM Veeva et cliquez sur **[!UICONTROL Setup]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets et champs]** et sélectionnez **[!UICONTROL Object Manager]**.
+1. Cliquez sur **[!UICONTROL Objets et champs]** et sélectionnez **[!UICONTROL Gestionnaire d’objets]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,11 +42,11 @@ Pour ajouter le champ Score , procédez comme suit.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Contact]** .
+1. Cliquez sur l’objet **[!UICONTROL Contact]** .
 
-1. Sélectionner **[!UICONTROL Champs et relations]**.
+1. Sélectionnez **[!UICONTROL Champs et relations]**.
 
-1. Cliquez sur **[!UICONTROL Nouveau]**.
+1. Cliquez sur **[!UICONTROL New]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -58,7 +58,7 @@ Pour ajouter le champ Score , procédez comme suit.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Saisissez le **[!UICONTROL Libellé du champ]**, **[!UICONTROL Longueur]**, et **[!UICONTROL Nom du champ]** pour le champ , comme illustré dans le tableau ci-dessous.
+1. Saisissez le **[!UICONTROL libellé du champ]**, la **[!UICONTROL longueur]** et le **[!UICONTROL nom du champ]** pour le champ, comme illustré dans le tableau ci-dessous.
 
 <table>
  <tbody>
@@ -92,7 +92,7 @@ Nombre de décimales 0</td>
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Spécifiez les paramètres d’accès et cliquez sur **[!UICONTROL Suivant]**.
+1. Spécifiez les paramètres d&#39;accès et cliquez sur **[!UICONTROL Suivant]**.
 
 1. Définissez tous les rôles sur Visible et Lecture seule.
 
@@ -107,7 +107,7 @@ Nombre de décimales 0</td>
 
 1. Cliquez sur **[!UICONTROL Enregistrer et nouveau]** pour revenir en arrière et créer chacun des deux autres champs personnalisés.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]** quand vous en aurez fini avec les trois.
+1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé avec les trois.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -126,19 +126,19 @@ FACULTATIF : utilisez la procédure ci-dessus pour tout champ personnalisé supp
    <th>Attributs de champ
   </tr>
   <tr>
-   <td>Ville supposée</td>
+   <td>Ville déduite</td>
    <td>mkto71_Inferred_City</td>
    <td>Texte</td>
    <td>Longueur 255</td>
   </tr>
   <tr>
-   <td>Société supposée</td>
+   <td>Société déduite</td>
    <td>mkto71_Inferred_Company</td>
    <td>Texte</td>
    <td>Longueur 255</td>
   </tr>
   <tr>
-   <td>Pays supposé</td>
+   <td>Pays déduit</td>
    <td>mkto71_Inferred_Country</td>
    <td>Texte</td>
    <td>Longueur 255</td>

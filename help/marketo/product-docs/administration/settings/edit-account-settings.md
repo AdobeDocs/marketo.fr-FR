@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 22%
+ht-degree: 12%
 
 ---
 
@@ -19,18 +19,18 @@ Vous devez modifier l’adresse électronique, le nom ou le numéro de télépho
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-account-settings-1.png)
 
-1. Sélectionner **[!UICONTROL Mon compte]**.
+1. Sélectionnez **[!UICONTROL Mon compte]**.
 
    ![](assets/edit-account-settings-2.png)
 
-1. Sélectionner **[!UICONTROL Modifier les paramètres du compte]**.
+1. Sélectionnez **[!UICONTROL Modifier les paramètres du compte]**.
 
    ![](assets/edit-account-settings-3.png)
 
-1. Effectuez les modifications et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Effectuez vos modifications et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-account-settings-4.png)

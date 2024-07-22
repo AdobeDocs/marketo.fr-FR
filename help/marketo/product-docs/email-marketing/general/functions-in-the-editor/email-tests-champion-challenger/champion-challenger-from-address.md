@@ -17,17 +17,17 @@ Vous souhaitez essayer une adresse de type &quot;De&quot; différente sans probl
 
 >[!PREREQUISITES]
 >
->[Ajout d’un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Dans l’éditeur de test d’email, sélectionnez **Adresse de l’expéditeur** dans le **Type de test** menu déroulant.
+1. Dans l’éditeur de test d’email, sélectionnez **Adresse de l’expéditeur** dans la liste déroulante **Type de test** .
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >La première adresse de l’expéditeur est désignée comme **Champion**. Les adresses suivantes sont appelées **Challengers**.
+   >La première adresse de départ est désignée comme **championne**. Les adresses suivantes sont appelées **Challengers**.
 
-1. Saisissez le **De nom** (à gauche) et **Adresse de l’expéditeur** (à droite) pour les challengers.
+1. Saisissez les **Du nom** (à gauche) et **De l’adresse** (à droite) pour les challengers.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -55,4 +55,4 @@ Vous souhaitez essayer une adresse de type &quot;De&quot; différente sans probl
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : Définir les critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

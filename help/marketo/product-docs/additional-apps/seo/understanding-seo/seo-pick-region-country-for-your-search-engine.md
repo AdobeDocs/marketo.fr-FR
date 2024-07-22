@@ -19,15 +19,15 @@ Les administrateurs d’optimisation pour les moteurs de recherche pourront sél
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Moteurs de recherche]** .
+1. Cliquez sur l’onglet **[!UICONTROL Moteurs de recherche]** .
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Sélectionnez le pays/la ville pour lequel vous souhaitez effectuer l’optimisation, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez le pays/la ville pour lequel vous souhaitez optimiser et cliquez sur **[!UICONTROL Enregistrer]**.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Excellent travail. Vous verrez désormais les classements des mots-clés pour le
 
 >[!MORELIKETHIS]
 >
->* [Présentation du tableau de bord : Instantané SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
->* [Présentation du tableau de bord : SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
+>* [Présentation du tableau de bord : instantané d’optimisation pour les moteurs de recherche](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [Compréhension du tableau de bord : Recommendations SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}

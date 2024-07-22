@@ -6,8 +6,8 @@ exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 3%
+source-wordcount: '150'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Aucun brouillon est automatiquement activé pour tous les rôles d’administrat
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
@@ -33,26 +33,26 @@ Aucun brouillon est automatiquement activé pour tous les rôles d’administrat
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Accédez au **[!UICONTROL Rôles]** , sélectionnez un rôle, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
+1. Accédez à l’onglet **[!UICONTROL Rôles]**, sélectionnez un rôle, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Développez l’objet **[!UICONTROL Accès à Design Studio]** .
+1. Développez l’option **[!UICONTROL Accéder à Design Studio]** .
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Développez l’objet **[!UICONTROL Extrait de code d’accès]** .
+1. Développez l’option **[!UICONTROL Accéder à l’extrait de code]** .
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Développez l’objet **[!UICONTROL Approuver le fragment de code]** et vérifiez les **[!UICONTROL No-Draft]** de la boîte. Cliquez ensuite sur **[!UICONTROL Enregistrer]**.
+1. Développez l’autorisation **[!UICONTROL Approuver le fragment de code]** et cochez la case **[!UICONTROL No-Draft]** . Cliquez ensuite sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Pour désactiver No Draft (Aucun brouillon), suivez les étapes 1 à 4 ci-dessus, décochez la case No Draft (Pas de brouillon), puis cliquez sur **[!UICONTROL Enregistrer]**.
+>Pour désactiver No-Draft, suivez les étapes 1 à 4 ci-dessus, décochez la case No-Draft , puis cliquez sur **[!UICONTROL Enregistrer]**.
 
 >[!MORELIKETHIS]
 >
->[Approbation d’un fragment de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}
+>[Approuver un fragment de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

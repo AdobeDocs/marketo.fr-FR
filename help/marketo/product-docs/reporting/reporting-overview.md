@@ -1,5 +1,5 @@
 ---
-description: Présentation de la création de rapports - Documents Marketo - Documentation du produit
+description: Présentation des rapports - Documents Marketo - Documentation du produit
 title: Présentation des rapports
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
@@ -16,15 +16,15 @@ Marketo propose divers modules de création de rapports en fonction des besoins.
 
 ## Reporting de base {#basic-reporting}
 
-Vous pouvez configurer [rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dans les programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports d’usine, avec la possibilité de filtrer, de trier et d’ajuster les décalages horaires.
+Vous pouvez configurer des [rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dans des programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports d’usine, avec la possibilité de filtrer, de trier et d’ajuster les décalages horaires.
 
 ## Email Insights {#email-insights}
 
-Utilisez Analytics et les envois pour obtenir [informations puissantes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sur les emails provenant de données historiques.
+Utilisez Analytics et les envois pour obtenir des [informations puissantes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sur les emails provenant de données historiques.
 
-## Informations sur les performances {#performance-insights}
+## Performance Insights {#performance-insights}
 
-[Informations sur les performances](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} couvre les performances des canaux et les performances des programmes pour l’engagement, le pipeline et la génération de recettes.
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} couvre les performances des canaux et les performances des programmes pour l’engagement, le pipeline et la génération de recettes.
 
 ## Rapports décisionnels avancés Analytics {#advanced-bi-analytics-reporting}
 
@@ -54,13 +54,13 @@ Voici quelques-uns des avantages avancés de la création de rapports BI Analyti
 
 ## Analyses de Parcours avancées {#advanced-journey-analytics}
 
-Modèles de cycle des recettes : modélisez toutes les étapes de l’entonnoir de chiffre d’affaires entier et la manière dont elles passent d’une étape à l’autre, depuis le moment où vous interagissez tout au long du processus jusqu’à ce que le prospect soit un client unique.
+Modèles de cycle des recettes : modélisez toutes les étapes de l’entonnoir de recettes entier et de la manière dont elles passent d’une étape à l’autre, du moment où vous interagissez pour la première fois avec une piste jusqu’à ce que la piste soit un client unique.
 
-Analyseur de chemins de succès : Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de revenu. L’analyseur de chemins de succès requiert que vous créiez des modèles de cycle de revenus.
+Analyseur de chemins de succès : obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de revenus. L’analyseur de chemins de succès requiert que vous créiez des modèles de cycle de revenus.
 
-Program Analyzer : Identifiez rapidement les programmes qui fonctionnent ou non et affectez vos ressources de manière appropriée. Utilisez l’analyseur de programme pour analyser et comparer chaque coût et retour en détail par programme ou canal.
+Analyseur de programme : identifiez rapidement les programmes qui réussissent ou non et ciblez vos ressources de manière appropriée. Utilisez l’analyseur de programme pour analyser et comparer chaque coût et retour en détail par programme ou canal.
 
-Analyseur d’influence d’opportunité : Démontrez la contribution de Marketing en mesurant l’impact des programmes et des engagements clés qui ont généré des opportunités.
+Analyseur d’influence des opportunités : testez la contribution de Marketing en mesurant l’impact des programmes et des engagements clés qui ont généré des opportunités.
 
 >[!NOTE]
 >

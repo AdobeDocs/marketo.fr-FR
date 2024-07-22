@@ -6,8 +6,8 @@ exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 2%
+source-wordcount: '199'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ Les applications démarrent normalement dans un environnement de test, où le d�
 >
 >Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -34,7 +34,7 @@ Les applications démarrent normalement dans un environnement de test, où le d�
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Saisir un nom. Dans le **Type** , sélectionnez le type d’environnement que vous utilisez : environnement de test ou production. Cliquez sur **Enregistrer**.
+1. Saisissez un nom. Dans la liste déroulante **Type**, sélectionnez le type d’environnement que vous utilisez : environnement de test ou production. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
@@ -46,5 +46,5 @@ Les applications démarrent normalement dans un environnement de test, où le d�
 
 >[!MORELIKETHIS]
 >
->* [Configuration de l’accès push Android à l’application mobile](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
->* [Configuration de l’accès push iOS pour l’application mobile](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>* [Configurer Mobile App Android Push Access](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [Configurer Mobile App iOS Push Access](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

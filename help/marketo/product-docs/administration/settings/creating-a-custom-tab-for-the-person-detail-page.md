@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Si vous recherchez un ensemble spécifique de champs dans le détail de la personne plusieurs fois, envisagez de créer une disposition personnalisée pour faciliter les choses.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
@@ -23,7 +23,7 @@ Si vous recherchez un ensemble spécifique de champs dans le détail de la perso
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Concepteur de mise en page personnalisé]** .
+1. Cliquez sur l’onglet **[!UICONTROL Designer de mise en page personnalisée]** .
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 

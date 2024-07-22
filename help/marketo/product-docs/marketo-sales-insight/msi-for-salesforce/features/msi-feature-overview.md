@@ -46,7 +46,7 @@ Pages Visualforce :
 * Piste : comprend l’option permettant de cliquer sur l’hyperactivité &quot;Atteindre la liste complète&quot;. Vous serez alors dirigé vers un nouvel onglet de Salesforce dans lequel le panneau MSI sera visible en page entière.
 * Liste complète des pistes - N’inclut pas l’option &quot;Aller à la liste complète&quot;
 * Lead Mobile - Visible dans l’application mobile Salesforce
-* Pont Contact de piste : affiche le panneau MSI du contact que vous avez ajouté dans le champ ID de contact MSI.
+* Bridge Contact de piste : affiche le panneau MSI du contact que vous avez ajouté dans le champ ID de contact MSI.
 
 Champs :
 
@@ -62,7 +62,7 @@ Champs :
 * Urgence
 * Valeur d&#39;urgence
 * Afficher dans Marketo : cliquez sur ce champ pour ouvrir une vue non modifiable de la piste dans Marketo. Inclut : Infos sur les pistes, Informations sur la société, Infos sur les pistes de la SFDC, Champs personnalisés de la SFDC, Journal d’activité
-* Identifiant de contact MSI : ajoutez un contact Salesforce à ce champ et incluez le panneau &quot;Pont contact de piste&quot; dans la mise en page de piste pour afficher le panneau MSI du contact.
+* Identifiant de contact MSI : ajoutez un contact Salesforce à ce champ et incluez le panneau &quot;Contact de piste Bridge&quot; dans la disposition de l’avance pour afficher le panneau MSI du contact.
 
 ## Contact Layout {#contact-layout}
 
@@ -107,7 +107,7 @@ Actions :
 * Envoyer l&#39;e-mail Marketo
 * Ajouter/Supprimer de la liste de contrôle
 
-Les fonctionnalités suivantes sont disponibles : **non disponible** sur la page Disposition du compte :
+Les fonctionnalités suivantes sont **non disponibles** dans la page Disposition du compte :
 
 * Etoiles et flammes
 
@@ -130,7 +130,7 @@ Actions :
 * Envoyer l&#39;e-mail Marketo
 * Ajouter/Supprimer de la liste de contrôle
 
-Les fonctionnalités suivantes sont disponibles : **non disponible** sur la page Disposition d’opportunité :
+Les fonctionnalités suivantes sont **non disponibles** dans la page de mise en page des opportunités :
 
 * Etoiles et flammes
 
@@ -184,7 +184,7 @@ Salesforce Classic : boutons d’action en bloc Ajouter à la liste de contrôle
 
 >[!MORELIKETHIS]
 >
->[Onglet Configuration de l’aperçu des ventes Marketo dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[Onglet Configuration des statistiques sur les ventes Marketo dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Rapports sur les performances de Sales Insight {#sales-insight-performance-reports}
 

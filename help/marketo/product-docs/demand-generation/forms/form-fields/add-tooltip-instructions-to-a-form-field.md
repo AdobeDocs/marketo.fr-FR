@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Ajout d’instructions d’info-bulle à un champ de formulaire {#add-tooltip-instructions-to-a-form-field}
 
-[Conseils](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) et les instructions aident les gens à remplir des formulaires. Voici comment ajouter des instructions d’info-bulle.
+[Conseils](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) et instructions aident les personnes à remplir des formulaires. Voici comment ajouter des instructions d’info-bulle.
 
 >[!NOTE]
 >
 >**Définition**
 >
->Formulaire **Conseils** est du texte qui s’affiche dans le champ et qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
+>Le formulaire **Conseils** est du texte qui se trouve à l’intérieur du champ et qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
 >
->Formulaire **Instructions** Il s’agit de petites info-bulles qui s’affichent lorsque le visiteur survole le champ.
+>Les **instructions** de formulaire sont de petites info-bulles qui s’affichent lorsque le visiteur passe la souris sur le champ.
 
 1. Accédez à **Activités marketing**.
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >N&#39;oublie pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N’oubliez pas d’ [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

@@ -6,8 +6,8 @@ exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 4%
 Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se trouver dans la grille.
 
 * 11 avril | Téléchargements Steve (Content) - succès
-* 22 avril | Une opportunité est créée pour 3 000 $ (Steve et Jason ont tous deux des rôles)
-* 25 avril | Jason assiste (webinaire) - succès
-* 30 avril | L’opportunité est close-Won
+* 22 avril | L’opportunité est créée pour 3 000 $ (Steve et Jason ont tous deux des rôles).
+* 25 avril | Jason participe (webinaire) - succès
+* 30 avril | L&#39;opportunité se ferme
 
 | Mesure d’attribution | (Contenu) | (Webinaire) |
 |---|---|---|
-| (MT) Opty Created | `<pre>1</pre>` | `<pre>0</pre>` |
+| (MT) Option créée | `<pre>1</pre>` | `<pre>0</pre>` |
 | (MT) Pipeline créé | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Chiffre d’affaires confirmé | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |

@@ -6,7 +6,7 @@ exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Découvrez les programmes et canaux qui vous donnent le plus de gain marketing. 
 
 >[!NOTE]
 >
->Pour obtenir de bonnes données à partir d’un analyseur de programme, assurez-vous que vos contacts CRM disposent des mêmes opportunités et que vos programmes Marketo sont entièrement configurés, avec [coût par période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), les états du programme et la réussite définis.
+>Pour obtenir de bonnes données à partir d’un analyseur de programme, assurez-vous que vos contacts CRM disposent des mêmes opportunités et que vos programmes Marketo sont entièrement configurés, avec [coûts par période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), états du programme et succès définis.
 
 >[!TIP]
 >
->Pour que les programmes sans frais apparaissent dans l&#39;analyseur de programmes, [définir le coût de la période ;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) à 0 $.
+>Pour que les programmes sans frais apparaissent dans l&#39;analyseur de programmes, [définissez leur coût de période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) sur 0 $.
 
-1. Cliquez sur le bouton **Analytics** mosaïque.
+1. Cliquez sur la mosaïque **Analytics** .
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. Cliquez sur le bouton **Analyseur de programme** mosaïque.
+1. Cliquez sur la mosaïque **Programme Analyzer** .
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -35,7 +35,7 @@ Découvrez les programmes et canaux qui vous donnent le plus de gain marketing. 
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. Cliquez sur le bouton **Configuration** pour ajouter et personnaliser des filtres.
+1. Cliquez sur l’onglet **Configuration** pour ajouter et personnaliser des filtres.
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
@@ -43,13 +43,13 @@ Découvrez les programmes et canaux qui vous donnent le plus de gain marketing. 
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
-1. Sélectionnez la période à analyser, puis cliquez sur **Appliquer**.
+1. Sélectionnez la période que vous souhaitez analyser et cliquez sur **Appliquer**.
 
    ![](assets/image2016-10-31-15-3a30-3a32.png)
 
    >[!TIP]
    >
-   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez la fonction **De** et **À** champs.
+   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez les champs **De** et **À** .
 
 1. Si vous souhaitez enregistrer votre nouvel analyseur personnalisé, dans la liste déroulante Actions Analyzer , sélectionnez **Enregistrer sous**.
 
@@ -65,11 +65,11 @@ Découvrez les programmes et canaux qui vous donnent le plus de gain marketing. 
 
 >[!NOTE]
 >
->De nombreuses mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la variable [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>La plupart des mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
 >* [Comparaison de l’efficacité des canaux avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [Comparaison de l’efficacité du programme avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Comparer l’efficacité du programme à l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 >* [Explorer les détails du programme et du canal avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Clonage d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+>* [Cloner un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)

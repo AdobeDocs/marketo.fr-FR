@@ -1,8 +1,8 @@
 ---
 description: Onglet Paramètres - Documents Marketo - Documentation du produit
 title: Onglet Paramètres
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -15,11 +15,11 @@ L’onglet Paramètres contient tous vos paramètres de campagne, y compris les 
 
 Il comprend les trois sections suivantes.
 
-* **Règles de qualification**: détermine le nombre de fois où chaque personne peut exécuter le flux de campagne dynamique.
+* **Règles de qualification** : détermine le nombre de fois où chaque personne peut exécuter le flux de campagne dynamique.
 
-* **Exécutions individuelles**: peut être utilisé pour planifier des exécutions uniques immédiatement ou à l’avenir.
+* **Exécutions individuelles** : peut être utilisé pour planifier des exécutions uniques immédiatement ou à l’avenir.
 
-* **Périodicité**: utilisé pour planifier une périodicité quotidienne, hebdomadaire ou mensuelle.
+* **Périodicité** : permet de planifier une périodicité quotidienne, hebdomadaire ou mensuelle.
 
   ![](assets/settings-tab-1.png)
 
@@ -47,7 +47,7 @@ L’onglet Paramètres comprend également un aperçu rapide de votre campagne d
 
 * Statut de la campagne :
 * Date de création
-* Dernières modifications
+* Dernière modification
 * Mode Liste dynamique
 * État de la liste dynamique :
    * Estimation du nombre de personnes qui seront affectées

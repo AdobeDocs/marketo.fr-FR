@@ -6,7 +6,7 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '847'
 ht-degree: 4%
 
 ---
@@ -37,16 +37,16 @@ Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos p
 >   * Nurture
 >   * Contenu Web
 >   * Formulaires Web
->* Apprentissage
+>* Learning
 >* Opérationnel
 >   * Cycle de vie
 >   * Évaluation
 >   * Gestion des données
->* Sales Insight
+>* Sales Insight
 >   * Moments significatifs
 >   * E-mails de vente
 >   * Campagnes demandées par les ventes
->* **Archiver**
+>* **Archive**
 >   * Événements d’archivage
 >      * Archive 2012
 >      * Archive 2013
@@ -55,15 +55,15 @@ Chacun des éléments mentionnés dans l’exemple est un dossier. Remarquez com
 
 >[!TIP]
 >
->Le dossier &quot;Archive&quot; est un type spécial de dossier conçu pour supprimer des éléments des listes sélectionnées ainsi que des rapports. Cela permettra à votre système de s’exécuter plus rapidement. Formation [en savoir plus sur les dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>Le dossier &quot;Archive&quot; est un type spécial de dossier conçu pour supprimer des éléments des listes sélectionnées ainsi que des rapports. Cela permettra à votre système de s’exécuter plus rapidement. En savoir plus [sur les dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Vous pouvez certainement ajouter d’autres dossiers à votre gré. Gardez simplement à l’esprit que les futures générations de spécialistes du marketing de votre entreprise accompagneront vos décisions sur la manière de nommer/organiser des choses.
 
 ## Modèles de dénomination {#naming-schemes}
 
-Le nommage est essentiel, car les fonctions de Marketo utilisent toutes une langue commune pour communiquer. Pour les programmes, vous devez leur attribuer un nom unique. **Aucun programme ne peut porter le même nom.**. Il est recommandé d’utiliser le format suivant :
+Le nommage est essentiel, car les fonctions de Marketo utilisent toutes une langue commune pour communiquer. Pour les programmes, vous devez leur attribuer un nom unique. **Aucun programme ne peut porter le même nom**. Il est recommandé d’utiliser le format suivant :
 
-[Abréviation du type de programme] [AAAA]-[MM]-[DD facultatif] [Description succincte]
+[Abréviation du type de programme] [AAAA]-[MM]-[JJ facultatif] [Brève description]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Le nommage est essentiel, car les fonctions de Marketo utilisent toutes une lang
 >1. Newsletter NL 2015-06
 >1. Le webinaire WBN 2015-12-01 ici
 
-Les noms de programme doivent être uniques dans votre abonnement, même en différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Pour les ressources locales dans les programmes, la règle est de **conserver le nom simple**. Il suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Puisqu’il s’agit d’un programme, le programme parent fait automatiquement partie du nom lorsqu’il est sélectionné ailleurs. En d’autres termes, les ressources locales ne doivent être uniques que dans le programme. Vous pouvez avoir des centaines de ressources nommées &quot;Invitation&quot;, chacune dans un programme différent et ça ne vous fera pas de mal.
+Les noms de programme doivent être uniques dans votre abonnement, même dans différents [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Pour les ressources locales dans les programmes, la règle est de **conserver le nom simple**. Il suffit de nommer une invitation &quot;Invitation&quot;, par opposition à &quot;Invitation du webinaire de juin 2015&quot;. Puisqu’il s’agit d’un programme, le programme parent fait automatiquement partie du nom lorsqu’il est sélectionné ailleurs. En d’autres termes, les ressources locales ne doivent être uniques que dans le programme. Vous pouvez avoir des centaines de ressources nommées &quot;Invitation&quot;, chacune dans un programme différent et ça ne vous fera pas de mal.
 
 ## Jetons {#tokens}
 
@@ -95,9 +95,9 @@ Un événement comporte généralement de nombreuses parties mobiles, notamment 
 
 ![](assets/capture.png)
 
-## Programmes d’engagement {#engagement-programs}
+## Programmes d&#39;engagement {#engagement-programs}
 
-Formation [tout sur les programmes d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. La meilleure façon d’organiser votre programme d’engagement est d’utiliser les dossiers. Créez un dossier pour chaque flux, puis placez les emails ou les programmes dans ce dossier. Incluez un dossier d’archive dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
+Découvrez [tous les programmes d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. La meilleure façon d’organiser votre programme d’engagement est d’utiliser les dossiers. Créez un dossier pour chaque flux, puis placez les emails ou les programmes dans ce dossier. Incluez un dossier d’archive dans chaque flux lorsque le contenu devient obsolète et que vous souhaitez le supprimer.
 
 ## Programmes opérationnels {#operational-programs}
 
@@ -119,6 +119,6 @@ L’une des fonctionnalités les plus cool de Marketo est la capacité à cloner
 
 Certaines personnes abstraient même la plupart du texte des emails et des landing pages dans des jetons. Vous pouvez ainsi cloner puis modifier les jetons. Enfin, accédez à la vue du planning du programme et ajustez les dates et vous avez terminé. Voila !
 
-## Sommaire {#summary}
+## Résumé {#summary}
 
-Comme vous pouvez le voir, Marketo a beaucoup de pouvoir. Nous avons traité des principes de base ici, mais considérons les services supplémentaires de [Experts Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} pour parfaire et vous préparer à la réussite.
+Comme vous pouvez le voir, Marketo a beaucoup de pouvoir. Nous avons abordé les principes de base ici, mais nous vous invitons à vous aider des [experts Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} pour vous perfectionner et vous préparer au succès.

@@ -6,7 +6,7 @@ exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
 
    ![](assets/two-1.png)
 
-1. Sous **Nouveau**, sélectionnez **Nouvelle ressource locale**.
+1. Sous **New**, sélectionnez **New Local Asset**.
 
    ![](assets/three-1.png)
 
@@ -33,7 +33,7 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
 
    ![](assets/four-1.png)
 
-1. Saisissez un nom, puis cliquez sur **Créer**.
+1. Saisissez un nom et cliquez sur **Créer**.
 
    ![](assets/five-1.png)
 
@@ -41,11 +41,11 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
 
    ![](assets/six-1.png)
 
-1. Définir le courrier électronique à **est quelconque**.
+1. Définissez Email sur **est n’importe quel**.
 
    ![](assets/seven.png)
 
-1. Cliquez sur **Ajouter une contrainte** et sélectionnez **Plateforme**.
+1. Cliquez sur **Ajouter la contrainte** et sélectionnez **Plateforme**.
 
    ![](assets/eight.png)
 
@@ -53,7 +53,7 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
    >
    >Nous avons utilisé le filtre Courrier électronique ouvert dans cet exemple. Vous pouvez également utiliser le filtre Email cliqué , car il a la contrainte Platform .
 
-1. Définir Platform sur **iOS**.
+1. Définissez Platform sur **iOS**.
 
    ![](assets/nine.png)
 
@@ -65,19 +65,19 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
 
 ## Création d’un rapport Performance des personnes {#create-a-people-performance-report}
 
-1. Sous Activités marketing, sélectionnez le programme qui héberge votre **iOS** et **Android** listes dynamiques.
+1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **iOS** et **Android**.
 
    ![](assets/ten.png)
 
-1. Sous **Nouveau**, sélectionnez **Nouvelle ressource locale**.
+1. Sous **New**, sélectionnez **New Local Asset**.
 
    ![](assets/eleven.png)
 
-1. Cliquez sur **Rapport**.
+1. Cliquez sur **Report**.
 
    ![](assets/twelve.png)
 
-1. Définir le type sur **Performances des personnes**.
+1. Définissez le type sur **Performance des personnes**.
 
    ![](assets/thirteen.png)
 
@@ -97,7 +97,7 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
    >
    >Par défaut, le rapport Performance des personnes examine les 7 derniers jours. Vous pouvez modifier la période en double-cliquant dessus.
 
-1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment, puis cliquez sur **Appliquer**.
+1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment et cliquez sur **Appliquer**.
 
    ![](assets/sixteen.png)
 
@@ -105,4 +105,4 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
 
    ![](assets/seventeen.png)
 
-   Plutôt cool, non ? C&#39;est joli !
+   Plutôt cool, n&#39;est-ce pas ? C&#39;est joli !

@@ -6,18 +6,18 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Champion/Challenger : Configurer des alertes de rapport {#champion-challenger-configure-report-alerts}
+# Champion/Challenger : Configuration des alertes de rapport {#champion-challenger-configure-report-alerts}
 
 Marketo vous enverra des rapports sur le déroulement du test de l’email. Voici comment le planifier.
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger : Définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[Champion/Challenger : Définir les critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Planifions l’envoi du rapport une fois par semaine le vendredi à 9 heures.
 
@@ -39,8 +39,8 @@ Marketo vous enverra des rapports sur le déroulement du test de l’email. Voic
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
-   Le rapport contiendra des détails utiles, tels que : type de test, critères de gagnant, nombre d’ouvertures de courrier électronique, etc. Il existe également un lien direct vers le test lui-même, qui vous permet de déclarer le gagnant ! Des trucs sympas.
+   Le rapport contiendra des détails utiles, tels que : type de test, critères de gagnant, nombre d’ouvertures d’email, etc. Il existe également un lien direct vers le test lui-même, qui vous permet de déclarer le gagnant ! Des trucs sympas.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Approbation de votre test de courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+   >[Champion/Challenger : Approuver Votre Test D&#39;Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)

@@ -31,13 +31,13 @@ Augmentez les pipelines et les recettes en augmentant les ventes grâce à l’i
 
 **ToutApp**
 
-* **Carte de conformité**: garantissez la conformité au RGPD en capturant la source des contacts de vente et les détails du consentement du client pour la réception des communications.
-* **Mise à jour de la stratégie de mot de passe**: garantissez la sécurité de vos données grâce à des exigences plus strictes en matière de création, de réinitialisation et d’expiration de mot de passe (répond aux exigences de conformité Soc II - Type 1).
-* **Expérience de configuration de compte simplifiée**: obtenez plus rapidement votre compte configuré et connecté à Gmail, Outlook et d’autres systèmes.
+* **Carte de conformité** : garantissez la conformité au RGPD en capturant la source des contacts de vente et les détails du consentement du client pour la réception de communications.
+* **Mise à jour de la stratégie de mot de passe** : garantissez la sécurité de vos données grâce à des exigences plus strictes en matière de création, de réinitialisation et d’expiration du mot de passe (répond aux exigences de conformité Soc II - Type 1).
+* **Expérience de configuration de compte rationalisée** : obtenez plus rapidement votre compte configuré et connecté à Gmail, Outlook et d’autres systèmes.
 
 ## Bêta ouverte de Marketo Sky {#marketo-sky-open-beta}
 
-[Marketo Sky Ouvrir la version bêta](https://help.marketo.com/)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
 Accédez à la version bêta ouverte du Marketo Sky pour accéder à plus de 100 nouvelles fonctionnalités d’optimisation de la productivité, notamment :
 
@@ -57,7 +57,7 @@ Obtenez des informations plus pertinentes en comparant les résultats de la mêm
 
 Comparez les performances de plusieurs canaux dans le temps.
 
-**Synchronisation et filtrage des champs personnalisés des opportunités**
+**Synchronisation et filtrage des champs personnalisés d’opportunité**
 
 Filtrez les résultats par champs personnalisés d’opportunité, comme une région de vente spécifique. Pour les champs numériques ou monétaires, définissez des valeurs minimales et maximales, telles qu’un montant d’opportunité minimal, et générez des informations pour des plages de données spécifiques.
 
@@ -65,7 +65,7 @@ Filtrez les résultats par champs personnalisés d’opportunité, comme une ré
 
 Partagez facilement vos graphiques rapides avec d’autres utilisateurs de la fonction d’informations sur les performances.
 
-**Améliorations de la convivialité**
+**Améliorations de l’utilisation**
 
 Une navigation optimisée et des workflows améliorés vous donnent une visibilité aux critères de réussite du programme et un accès aux détails du programme.
 
@@ -77,7 +77,7 @@ Définissez l’objectif de l’algorithme d’optimisation de ContentAI pour g�
 
 ## Intégration et API {#integration-and-apis}
 
-[API de liste statique](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+[ API de liste statique](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Gérez plus facilement les listes entre Marketo et d’autres systèmes à l’aide de nouvelles API bidirectionnelles pour créer, lire, mettre à jour et supprimer des listes statiques à distance sans avoir à effectuer aucune action dans l’interface utilisateur de Marketo.
 

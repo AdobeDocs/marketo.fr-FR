@@ -6,8 +6,8 @@ exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 5%
+source-wordcount: '181'
+ht-degree: 4%
 
 ---
 
@@ -17,10 +17,10 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se 
 
 * 11 avril | Fred est acquis par (Tradeshow)
 * 15 avril | Margo attend (webinaire) - succès
-* 22 avril | Fred est associé (rôle) à l’opportunité
+* 22 avril | Fred est associé (rôle) à l’opportunité.
 * 22 avril | L’opportunité est créée pour 3 000 $
 
-| Nom du programme | (Salon professionnel) | (Webinaire) |
+| Nom du programme | (Tradeshow) | (Webinaire) |
 |---|---|---|
 | (FT) Opty Created | `<pre>1</pre>` | `<pre>0</pre>` |
 | (FT) Pipeline créé | `<pre>$3,000</pre>` | `<pre>$0</pre>` |

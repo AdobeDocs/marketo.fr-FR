@@ -15,17 +15,17 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 >[!AVAILABILITY]
 >
->Fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
+>Les fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **12 mai 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
+Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **12 mai 2023**, avec un déploiement progressif des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Interface de Adobe Experience Cloud**: aligne le Marketo Engage sur l’Experience Cloud afin de créer une expérience de navigation cohérente sur plusieurs solutions Experience Cloud au cours d’une seule session d’utilisateur.
+* **Interface Adobe Experience Cloud** : aligne le Marketo Engage sur l’Experience Cloud pour créer une expérience de navigation cohérente sur plusieurs solutions Experience Cloud au cours d’une seule session utilisateur.
 
 <table> 
   <tr> 
@@ -39,7 +39,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-* **Centre d’aide pour les Marketo Engage**: le centre d’aide fournit aux utilisateurs Marketo Engage un emplacement central pour trouver des ressources d’aide à partir du produit. En outre, le centre d’aide permet aux utilisateurs d’activer des guides intégrés qui expliquent comment tirer parti des fonctionnalités clés.
+* **Centre d’aide pour les Marketo Engage** : le centre d’aide permet aux utilisateurs Marketo Engage de trouver des ressources d’aide depuis le produit. En outre, le centre d’aide permet aux utilisateurs d’activer des guides intégrés qui expliquent comment tirer parti des fonctionnalités clés.
 
 <table> 
   <tr> 
@@ -61,11 +61,11 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 </br>
 
-* **Webinaires interactifs (disponibilité limitée initialement)**:
+* **Webinaires interactifs (disponibilité limitée initialement)** :
 
 Les webinaires interactifs améliorent l’expérience actuelle des événements et des webinaires en offrant une expérience native et transparente aux marketeurs pour leur permettre de créer, gérer et diffuser des événements dans Marketo Engage. Personnalisez des webinaires en fonction du type d’événement et ajoutez même des présentateurs si vous le souhaitez. Obtenez des informations d’engagement riches grâce aux fonctionnalités d’Adobe Connect telles que les sondages en direct, le chat, les sessions Q&amp;R, les clics sur les liens web, les téléchargements de documents, etc. Récupérez l’enregistrement du webinaire directement dans Marketo Engage et évaluez ses performances grâce à des mesures de tableaux de bord enrichies.
 
-Les webinaires interactifs seront déployés progressivement. Pour demander un accès anticipé, veuillez renseigner [ce formulaire](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Les webinaires interactifs seront déployés progressivement. Pour demander un accès anticipé, remplissez [ce formulaire](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
@@ -81,4 +81,4 @@ Les webinaires interactifs seront déployés progressivement. Pour demander un a
 
 ## Annonces {#announcements}
 
-* **_Webinaire sur la version du produit_**: [Webinaire de mise à jour des Marketo Engage de mars et mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinaire sur la version du produit_** : [Webinaire sur la version de Marketo Engage de mars et mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

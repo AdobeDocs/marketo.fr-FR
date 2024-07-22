@@ -17,11 +17,11 @@ Voici quelques éléments à savoir sur l’ajout et la suppression de valeurs d
 
 ## Ajout de valeurs de liste de sélection {#adding-picklist-values}
 
-1. Si une valeur supplémentaire est ajoutée dans Salesforce à un type de champ de liste de sélection, vous recevrez [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identification des formulaires concernés.
+1. Si une valeur supplémentaire est ajoutée dans Salesforce à un type de champ de liste de sélection, vous recevrez une [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identifiant les formulaires qui seront affectés.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Accédez à l’éditeur de formulaires et [ajouter la valeur supplémentaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} à votre liste de suggestions.
+1. Accédez à l’éditeur de formulaire et [ajoutez la valeur supplémentaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} à votre liste de suggestions.
 
 ## Supprimer les valeurs de liste de sélection {#remove-picklist-values}
 

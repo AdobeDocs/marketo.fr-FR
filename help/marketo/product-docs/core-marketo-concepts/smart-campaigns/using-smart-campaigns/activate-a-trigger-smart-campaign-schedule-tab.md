@@ -15,7 +15,7 @@ ht-degree: 0%
 
 L’activation d’un déclencheur de campagne dynamique est comme son activation. Voici ce qu&#39;il faut faire.
 
-1. Dans le rapport de la campagne dynamique **[!UICONTROL Planification]** , cliquez sur **[!UICONTROL Activer]**.
+1. Dans l&#39;onglet **[!UICONTROL Planning]** de la campagne dynamique, cliquez sur **[!UICONTROL Activer]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,7 +23,7 @@ L’activation d’un déclencheur de campagne dynamique est comme son activatio
    >
    >Vérifiez la campagne dynamique avant de l’activer.
 
-1. Cliquez sur **[!UICONTROL Activer]** encore une fois.
+1. Cliquez à nouveau sur **[!UICONTROL Activer]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 

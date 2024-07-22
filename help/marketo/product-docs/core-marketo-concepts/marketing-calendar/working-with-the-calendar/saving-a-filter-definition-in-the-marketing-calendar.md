@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -35,7 +35,7 @@ L’enregistrement d’un filtre permet de basculer entre différentes définiti
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Si vous le voulez, vous pouvez [envoyer une copie ;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} de la définition pour les autres utilisateurs de Marketo.
+   Si vous le souhaitez, vous pouvez [envoyer une copie](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} de la définition à d’autres utilisateurs de Marketo.
 
    >[!NOTE]
    >

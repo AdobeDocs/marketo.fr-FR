@@ -7,7 +7,7 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,9 +25,9 @@ Vous pouvez trier vos campagnes web de différentes manières.
    >
    >**Définition**
    >
-   >**Dernière** - est trié en fonction de la date de création de la campagne. Dernière campagne en haut.
+   >**Dernier(s)** : triera selon la date de création de la campagne. Dernière campagne en haut.
    >
-   >**Meilleures performances** : triera les campagnes en fonction du taux de clics publicitaires. Le clic le plus élevé dans la partie supérieure.
+   >**Meilleures performances** : triera les campagnes en fonction du taux de clics publicitaires. Le clic le plus élevé en haut.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

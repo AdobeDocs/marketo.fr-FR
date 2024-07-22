@@ -23,7 +23,7 @@ Contrairement aux landing pages de forme libre, les landing pages guidées ont d
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. Sélectionnez l’image de votre choix, puis cliquez sur **Insérer**.
+1. Sélectionnez l&#39;image de votre choix et cliquez sur **Insérer**.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +31,7 @@ Contrairement aux landing pages de forme libre, les landing pages guidées ont d
 
    >[!NOTE]
    >
-   >Le redimensionnement de l’image dépend du modèle. En savoir plus sur [Modèles de page d’entrée guidés](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Le redimensionnement de l’image dépend du modèle. En savoir plus sur les [modèles de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

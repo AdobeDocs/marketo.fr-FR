@@ -27,7 +27,7 @@ Voici comment créer un segment à l’aide d’une liste de comptes.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Saisissez le nom du segment. Glisser-déposer **Listes de comptes** de la **Entreprises** .
+1. Saisissez le nom du segment. Faites glisser et déposez **Listes de comptes** depuis la section **Firmographics** .
 
    ![](assets/set-segment-hands.jpg)
 
@@ -37,9 +37,9 @@ Voici comment créer un segment à l’aide d’une liste de comptes.
 
    >[!NOTE]
    >
-   >Les listes de comptes sont synchronisées d’ABM à la personnalisation web pour une utilisation dans la segmentation. Sélectionnez-les dans la liste déroulante. La synchronisation peut prendre jusqu’à cinq minutes. Elle ne se synchronise que s’il existe un ou plusieurs comptes nommés dans la liste des comptes.
+   >Les listes de comptes sont synchronisées d’ABM vers Web Personalization pour une utilisation dans la segmentation. Sélectionnez-les dans la liste déroulante. La synchronisation peut prendre jusqu’à cinq minutes. Elle ne se synchronise que s’il existe un ou plusieurs comptes nommés dans la liste des comptes.
 
-1. Cliquez sur **Enregistrer** ou cliquez sur **Enregistrer et définir une campagne** pour accéder à la page Campagnes .
+1. Cliquez sur **Enregistrer** ou sur **Enregistrer et définir une campagne** pour accéder à la page Campagnes.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ Voici comment configurer des actions en bloc dans Salesforce Lightning.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Cliquez sur le bouton **Object Manager** .
+1. Cliquez sur l’onglet **Gestionnaire d’objets** .
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Recherchez et sélectionnez la variable **prospect** libellé.
+1. Recherchez et sélectionnez l’étiquette **Lead**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
@@ -35,7 +35,7 @@ Voici comment configurer des actions en bloc dans Salesforce Lightning.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. Sous Boutons personnalisés, recherchez et sélectionnez **Ajouter à Marketo Campaign (éclair)** et **Envoyer un courrier électronique Marketo (éclair)**. Cliquez sur le bouton **Ajouter** bouton .
+1. Sous Boutons personnalisés, recherchez et sélectionnez **Ajouter à la campagne Marketo (éclair)** et **Envoyer un courrier électronique Marketo (éclair)**. Cliquez sur le bouton **Ajouter** .
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 

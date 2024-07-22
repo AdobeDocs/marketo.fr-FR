@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Vous avez des pages ! Marketo SEO analyse automatiquement votre site et en effectue le suivi. Au cas où nous en manquerions quelques-uns, incluez-les dans l’application d’optimisation pour les moteurs de recherche comme ceci :
 
-1. Accédez au **[!UICONTROL Pages]** .
+1. Accédez à la section **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
@@ -29,7 +29,7 @@ Vous avez des pages ! Marketo SEO analyse automatiquement votre site et en effec
 
    >[!TIP]
    >
-   >Savais-tu que tu pouvais ? [ajouter votre page à une liste existante ou à une nouvelle liste ;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Découvrez-le ! 
+   >Saviez-vous que vous pouvez [ajouter votre page à une liste existante ou nouvelle](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ? Regardez !
 
    Le chargement de vos données de page peut prendre un certain temps. Attendez le message d’alerte vert et actualisez votre page pour mettre à jour l’affichage.
 

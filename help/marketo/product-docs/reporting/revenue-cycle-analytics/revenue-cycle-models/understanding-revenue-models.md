@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -31,17 +31,17 @@ Le modeleur mesure tous la quantité de pistes dans le compartiment à un moment
 
 Les modèles s’adressent généralement aux clients qui maîtrisent les campagnes et programmes intelligents et qui souhaitent passer leurs analyses au niveau supérieur.
 
-## Prise en main d’un nouveau modèle {#starting-with-a-new-model}
+## Commencer avec un nouveau modèle {#starting-with-a-new-model}
 
 Par défaut, un nouveau modèle vous démarre avec six étapes de recettes. Ce modèle est en fait parfait tout seul, mais il peut être profondément personnalisé.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Remarquez qu&#39;ils sont tous sur un fond vert. Cela s’appelle la variable **Chemin de succès**. En savoir plus sur le chemin de succès [here](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Remarquez qu&#39;ils sont tous sur un fond vert. On l’appelle le **Chemin de succès**. Découvrez le chemin de succès [ici](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Phases** sont les jalons d’une progression vers leurs objectifs.
+**Les étapes** sont les jalons d’une avance sur les progrès vers leurs objectifs.
 
-**Transitions** s’affichent sous la forme de flèches et contrôlent le déplacement des pistes entre les étapes.
+**Les transitions** sont présentées sous la forme de flèches et contrôlent le déplacement des pistes entre les étapes.
 
 >[!NOTE]
 >
@@ -57,9 +57,9 @@ Chaque entreprise est différente. Vous pouvez ajouter des éléments au modèle
 
 Cela ressemble à une boîte et il s’agit des étapes les plus basiques. Analytics effectue le suivi des entrées, des sorties et de l’équilibre de cette étape.
 
-## Évaluation SLA {#sla-stage}
+## Étape SLA {#sla-stage}
 
-Cette valeur est courte pour **Contrat de niveau de service** scène. L’objectif ici est que certaines étapes que vous souhaitez appliquer une limite de temps.
+Ceci est court pour l’étape **Service Level Agreement**. L’objectif ici est que certaines étapes que vous souhaitez appliquer une limite de temps.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Une scène de point de contrôle est conçue pour les situations où vous souhai
 >
 >**Exemple**
 >
->Un point de contrôle peut être utilisé pour les pistes qui font partie d’un **liste de comptes nommés** pour séparer cela du processus normal.
+>Un point de contrôle peut être utilisé pour les pistes qui font partie d’une **liste de comptes nommés** afin de séparer cela du processus normal.
 
 ## Transitions {#transitions}
 
@@ -95,14 +95,14 @@ Lost est une bonne chose à ajouter, mais remarquez qu&#39;il n&#39;est pas sur 
 
 >[!MORELIKETHIS]
 >
->* [Création d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [Créer un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Utilisation des phases du stock du modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Utilisation des phases de l’inventaire des modèles de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
 >* [Utilisation des étapes de point de contrôle du modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Utilisation des étapes du contrat de niveau de service du modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [ Utilisation des étapes du contrat de niveau de service du modèle de revenu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Rapport sur votre modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
->* [Approbation/désapprobation d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>* [Approuver/Ne plus approuver un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

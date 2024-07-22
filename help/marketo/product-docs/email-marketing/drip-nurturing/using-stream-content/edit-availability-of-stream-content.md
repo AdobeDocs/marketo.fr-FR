@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Modification de la disponibilité du contenu de diffusion {#edit-availability-of-stream-content}
 
-Vous pouvez définir une période pour que le contenu soit principal dans votre flux. Voici comment.
+Vous pouvez définir une période pour que le contenu soit actif dans votre flux. Voici comment.
 
-1. Sélectionnez votre programme d’engagement et accédez à la **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -23,14 +23,14 @@ Vous pouvez définir une période pour que le contenu soit principal dans votre 
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Sélectionnez votre **Principal de** date, puis la variable **Principal** date et clic **Enregistrer**.
+1. Sélectionnez la date **Actif à partir de**, puis la date **Actif jusqu’à** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Vous pouvez laisser **Principal** vide pour rendre le contenu disponible indéfiniment.
+   >Vous pouvez laisser **Actif par le biais de** vide pour rendre le contenu disponible pour toujours.
 
-   Mot clé! L’icône de l’horloge s’affiche en regard du contenu planifié. Il sera principal et inactif selon le planning que vous avez défini.
+   Parfait ! L’icône de l’horloge s’affiche en regard du contenu planifié. Il sera actif et inactif selon le planning que vous avez défini.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

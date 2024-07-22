@@ -6,8 +6,8 @@ exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1913'
-ht-degree: 15%
+source-wordcount: '1902'
+ht-degree: 14%
 
 ---
 
@@ -32,7 +32,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="15"><strong>Programme par défaut</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br>ou<br>Cloné à partir de "nom du programme"</td> 
+   <td>Type de canal "type de canal"<br>ou<br>cloné à partir de "nom de programme"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -40,7 +40,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "nom de l’espace de travail" <br>Emplacement "Dossier de campagne" ou "Programme d’engagement" <br>Nom du programme cloné "nouveau nom"</td> 
+   <td>Cloné sur l'espace de travail "nom de l'espace de travail" <br>Emplacement "Dossier de campagne" ou "Programme d'engagement" <br>Nom du programme cloné "nouveau nom"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -93,7 +93,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="19"><strong>E-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Créer</td> 
-   <td>Créé à l’aide du modèle "nom du modèle" <br>ou <br>Cloné à partir de "nom de ressource"</td> 
+   <td>Créé à l'aide du modèle "nom du modèle" <br> ou <br>cloné à partir de "nom de ressource"</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
@@ -129,7 +129,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Les modifications ont interrompu le courrier électronique à partir du modèle "template_name" (REMARQUE : cela se produit aujourd’hui si vous modifiez directement le code)</td> 
+   <td>Les modifications ont interrompu le courrier électronique à partir du modèle "template_name" (REMARQUE : cela se produit aujourd’hui si vous modifiez directement le code).</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
@@ -149,11 +149,11 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Design Studio" dans le dossier "nom de dossier" <br>Nom de la ressource clonée "name"<br>ou<br>Cloné sur "Activités marketing" en "nom du programme"<br>Nom de la ressource clonée "name"</td> 
+   <td>Cloné sur "Design Studio" dans le dossier "nom de dossier" <br>Nom de ressource cloné "nom"<br>ou<br>cloné à "Activités marketing" dans le programme "nom de programme"<br>Nom de ressource cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br>ou<br>Déplacement vers "Activités marketing" en "nom du programme"</td> 
+   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br>ou<br>Déplacé vers "Activités marketing" dans "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Approuver</td> 
@@ -165,11 +165,11 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Brouillon</td> 
-   <td>Le courrier électronique a été rédigé car le fragment de code "nom du fragment de code" a été approuvé.<br>ou<br>Le courrier électronique a été rédigé car le modèle "nom du modèle" a été approuvé.</td> 
+   <td>L'email a été rédigé car le fragment de code "nom du fragment de code" a été approuvé<br>ou<br>L'email a été rédigé car le modèle "nom du modèle" a été approuvé.</td> 
   </tr> 
-   <td rowspan="17">Programme d'e-mail</td> 
+   <td rowspan="17">Programme d’e-mail</td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br>ou<br>Cloné à partir de "nom du programme"</td> 
+   <td>Type de canal "type de canal"<br>ou<br>cloné à partir de "nom de programme"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Renommer</td> 
@@ -177,7 +177,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "nom de l’espace de travail" <br>Emplacement "Dossier de campagne ou programme d’engagement" <br>Nom du programme cloné "nouveau nom"</td> 
+   <td>Cloné sur l'espace de travail "nom de l'espace de travail" <br>Emplacement "Dossier de campagne ou programme d'engagement" <br>Nom du programme cloné "nouveau nom"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -205,7 +205,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modifier le planning du programme</td> 
-   <td>Définissez le planning pour qu’il commence à la "date de début, heure de début" et se termine par "date de fin, heure de fin".</td> 
+   <td>Définir le planning pour qu’il commence à la "date de début, heure de début" et se termine par "date de fin, heure de fin"</td> 
   </tr> 
   <tr> 
    <td>Modifier le planning du programme</td> 
@@ -217,7 +217,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modification de la configuration du programme</td> 
-   <td>Modifier le "nom du comportement" du comportement d’analyse<br>Ancien "nom du comportement"</td> 
+   <td>Modifier le comportement d’analyse "nom du comportement"<br>Ancien comportement "nom du comportement"</td> 
   </tr> 
   <tr> 
    <td>Modification de la configuration du programme</td> 
@@ -258,7 +258,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné en "nom du dossier" <br> Nom de la ressource clonée "name"</td> 
+   <td>Cloné sur "nom du dossier" <br> Nom de ressource cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Approuver</td> 
@@ -271,7 +271,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="23">Programme d’engagement</td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br> ou<br> Cloné à partir de "nom du programme"</td> 
+   <td>Type de canal "type de canal"<br> ou<br> cloné à partir de "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -279,7 +279,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "nom de l’espace de travail" <br>Emplacement "Dossier de campagne ou programme d’engagement" <br>Nom du programme cloné "nouveau nom"</td> 
+   <td>Cloné sur l'espace de travail "nom de l'espace de travail" <br>Emplacement "Dossier de campagne ou programme d'engagement" <br>Nom du programme cloné "nouveau nom"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -291,11 +291,11 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td><p>Ajouter un stream</p><p>Nom "name" Placement "#"</p></td> 
+   <td><p>Ajouter un flux</p><p>Nom "name" Placement "#"</p></td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td><p>Modifier le stream</p><p>New stream Name : "new name" Ancien nom du flux : "old name"</p><p>Nouvel emplacement : "new #" Ancien emplacement : "old #"</p></td> 
+   <td><p>Modification du flux</p><p>Nouveau nom du flux : "nouveau nom" Ancien nom du flux : "ancien nom"</p><p>Nouvel emplacement : "nouveau #" Ancien emplacement : "ancien #"</p></td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
@@ -303,19 +303,19 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Ajouter du contenu<br>Nom de vapeur "nom de flux"<br>Type "Email" ou "Program"<br>Nom "nom de l'email" ou "nom du programme"<br>Campagne dynamique "nom de la campagne dynamique"</td> 
+   <td>Ajoutez du contenu <br>Nom de flux"<br>Type "Email" ou "Program"<br>Nom de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de production"{3<br>Type "Nom de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de flux de</td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Activation du contenu<br>Nom de la diffusion "nom de la diffusion"<br>Nom du contenu "nom de l’email" ou "nom du programme"</td> 
+   <td>Activer le contenu<br>Nom de la diffusion "nom de la diffusion"<br>Nom du contenu "nom de l’email" ou "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Désactiver le contenu<br>Nom de la diffusion "nom de la diffusion"<br>Nom du contenu "nom de l’email" ou "nom du programme"</td> 
+   <td>Désactivez le contenu<br>Nom de la diffusion "nom de la diffusion"<br>Nom du contenu "nom de l’email" ou "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Modification du flux de programme</td> 
-   <td>Supprimer du contenu<br>Nom de la diffusion "nom de la diffusion"<br>Nom du contenu "nom de l’email" ou "nom du programme"</td> 
+   <td>Supprimez le contenu<br>Nom du flux "nom du flux"<br>Nom du contenu "nom de l’email" ou "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Modifier le jeton de programme</td> 
@@ -335,7 +335,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modification de la configuration du programme</td> 
-   <td>Modifier le "nom du comportement" du comportement d’analyse<br>Ancien "nom du comportement"</td> 
+   <td>Modifier le comportement d’analyse "nom du comportement"<br>Ancien comportement "nom du comportement"</td> 
   </tr> 
   <tr> 
    <td>Modification de la configuration du programme</td> 
@@ -364,7 +364,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="18">Programme d’événement</td> 
    <td>Créer</td> 
-   <td>Type de canal "type de canal"<br>ou<br>Cloné à partir de "nom du programme"</td> 
+   <td>Type de canal "type de canal"<br>ou<br>cloné à partir de "nom de programme"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -376,7 +376,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "nom de l’espace de travail" <br>Emplacement "dossier de campagne" ou "programme d’engagement" <br>Nom du programme cloné "nouveau nom"</td> 
+   <td>Cloné sur l'espace de travail "nom de l'espace de travail" <br>Emplacement "dossier de campagne" ou "programme d'engagement" <br>Nom du programme cloné "nouveau nom"</td> 
   </tr> 
   <tr> 
    <td>Modifier le canal</td> 
@@ -396,7 +396,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modifier le planning du programme</td> 
-   <td>Définissez le planning pour qu’il commence à la "date de début, heure de début" et se termine par "date de fin, heure de fin".</td> 
+   <td>Définir le planning pour qu’il commence à la "date de début, heure de début" et se termine par "date de fin, heure de fin"</td> 
   </tr> 
   <tr> 
    <td>Modifier le planning du programme</td> 
@@ -408,7 +408,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modification de la configuration du programme</td> 
-   <td>Modifier le "nom du comportement" du comportement d’analyse<br>Ancien "nom du comportement"</td> 
+   <td>Modifier le comportement d’analyse "nom du comportement"<br>Ancien comportement "nom du comportement"</td> 
   </tr> 
   <tr> 
    <td>Modification de la configuration du programme</td> 
@@ -482,11 +482,11 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Design Studio" dans le dossier "nom de dossier" <br>Nom de la ressource clonée "name"<br>ou<br>Cloné sur "Activités marketing" en "nom du programme"<br>Nom de la ressource clonée "name"</td> 
+   <td>Cloné sur "Design Studio" dans le dossier "nom de dossier" <br>Nom de ressource cloné "nom"<br>ou<br>cloné à "Activités marketing" dans le programme "nom de programme"<br>Nom de ressource cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br>ou<br>Déplacement vers "Activités marketing" en "nom du programme"</td> 
+   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br>ou<br>Déplacé vers "Activités marketing" dans "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Formulaires</td> 
@@ -496,7 +496,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="9">Page de destination</td> 
    <td>Créer</td> 
-   <td>Créé à l’aide du modèle "nom du modèle" <br>ou <br>Cloné à partir de "nom de ressource"</td> 
+   <td>Créé à l'aide du modèle "nom du modèle" <br> ou <br>cloné à partir de "nom de ressource"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -520,11 +520,11 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Design Studio" dans le dossier "nom de dossier"<br>Nom de la ressource clonée "name"<br>URL de la ressource clonée "www.url.com"<br>ou<br>Cloné sur "Activités marketing" en "nom du programme" <br>Nom de la ressource clonée "name"<br>URL de la ressource clonée "www.url.com"</td> 
+   <td>Cloné sur "Design Studio" dans le dossier "foldername"<br>Nom de ressource cloné "name"<br>URL de ressource clonée "www.url.com"<br>ou<br>cloné à "Activités marketing" dans le programme "nom du programme" <br>Nom de ressource cloné "name"<br>URL de ressource clonée "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br> ou<br> Déplacement vers "Activités marketing" en "nom du programme"</td> 
+   <td>Déplacé vers "Design Studio" dans le dossier "nom du dossier"<br> ou<br> Déplacé vers "Activités marketing" vers "nom du programme"</td> 
   </tr> 
   <tr> 
    <td>Approuver</td> 
@@ -541,7 +541,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="8">Modèle de page de destination</td> 
    <td>Créer</td> 
-   <td><p>Vide<br>ou<br>Cloné à partir de "nom de ressource"</p></td> 
+   <td><p>Vierge<br>ou<br>cloné à partir de "nom de ressource"</p></td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -557,7 +557,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné en "nom du dossier" <br>Nom de la ressource clonée "name"</td> 
+   <td>Cloné sur "nom du dossier" <br>Nom de la ressource clonée "nom"</td> 
   </tr> 
   <tr> 
    <td>Exporter</td> 
@@ -582,7 +582,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Clé sur "Base de données de personnes" dans le dossier "nom de dossier" <br>Nom de la ressource clonée "name"<br>ou<br>Cloné sur "Activités marketing" en "nom du programme"<br>Nom de la ressource clonée "name"</td> 
+   <td>Cloné sur "Base de données de personne" dans le dossier "nom de dossier" <br>Nom de ressource cloné "nom"<br>ou<br>Cloné sur "Activités marketing" dans le programme "nom de programme"<br>Nom de ressource cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -611,7 +611,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Déplacer</td> 
-   <td>Passage à "Programmes" en "nom du programme"<br>ou<br>Déplacement vers "Dossiers" dans le dossier "Nom du dossier"</td> 
+   <td>Déplacement vers "Programmes" en "nom du programme"<br>ou<br>Déplacé vers "Dossiers" dans le dossier "nom du dossier"</td> 
   </tr> 
   <tr> 
    <td>Renommer</td> 
@@ -627,7 +627,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné sur "Programmes" en "nom du programme" <br>Nom de la ressource clonée "name"<br>ou<br>Clé sur "Dossier" dans le dossier "Nom du dossier"<br>Nom de la ressource clonée "name"</td> 
+   <td>Cloné sur "Programmes" dans le programme "nom du programme" <br>Nom de ressource cloné "nom"<br>ou<br>Cloné sur "Dossier" dans le dossier "nom du dossier"<br>Nom de ressource cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Modification de la configuration de la liste intelligente</td> 
@@ -664,7 +664,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Clé sur "Base de données de personnes" dans le dossier "nom de dossier" <br>Nom de la ressource clonée "name"<br>ou<br>Cloné sur "Activités marketing" en "nom du programme" <br>Nom de la ressource clonée "name"</td> 
+   <td>Cloné sur "Base de données de personne" dans le dossier "nom de dossier" <br>Nom de ressource cloné "nom"<br>ou<br>cloné à "Activités marketing" dans le programme "nom de programme" <br>Nom de ressource cloné "nom"</td> 
   </tr> 
   <tr> 
    <td>Modification de la configuration de la liste intelligente</td> 
@@ -673,7 +673,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="11">Extrait</td> 
    <td>Créer</td> 
-   <td><p>Vide<br>ou<br>Cloné à partir du "nom de l’extrait de code"</p></td> 
+   <td><p>Blank<br>or<br>Cloner à partir de "nom de fragment de code"</p></td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
@@ -701,7 +701,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Cloner</td> 
-   <td>Cloné en "nom du dossier" <br>Nom du fragment de code cloné "name"</td> 
+   <td>Cloné sur "nom du dossier" <br>Nom du fragment de code cloné"</td> 
   </tr> 
   <tr> 
    <td>Approuver</td> 
@@ -735,12 +735,12 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td>Restrictions IP</td> 
    <td>Modifier</td> 
-   <td>Modification des restrictions d’IP aux suivantes : "Bloc" autorisé/bloqué, adresse IP "#", "Restrictions IP désactivées""</td> 
+   <td>Modification des restrictions d’adresse IP aux suivantes : "block" autorisé/bloqué, "address"#", "disabled IP Restrictions"</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Division</td> 
    <td>Créer</td> 
-   <td>Partition créée avec le nom "nom de la partition"</td> 
+   <td>Partition créée avec le nom "partition name"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
@@ -749,30 +749,30 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td>Niveau de sécurité du mot de passe</td> 
    <td>Modifier</td> 
-   <td>La sécurité du mot de passe a été remplacée par modèle : Sécurité standard, longueur min. : #, lower-upper: #, nombre : #, casse mixte : # , expiration : #, délai d’expiration de la session : #</td> 
+   <td>La sécurité du mot de passe a été remplacée par le modèle : Sécurité standard, longueur min. : #, inférieur-supérieur : #, nombre : #, casse mixte : #, expiration : #, délai d’expiration de la session : #</td> 
   </tr> 
   <tr> 
    <td rowspan="3">Rôle<br><br></td> 
    <td>Créer</td> 
-   <td>Rôle créé avec "nom du rôle" (REMARQUE : si vous avez besoin d’informations sur les autorisations ajoutées, contactez l’assistance) - <br>affiche un instantané des autorisations affectées au rôle</td> 
+   <td>Rôle créé avec "nom du rôle" (REMARQUE : si vous avez besoin de détails sur les autorisations ajoutées, veuillez contacter l’assistance) - <br>affiche un instantané des autorisations affectées au rôle</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 
-   <td>Le rôle "Nom du rôle" a été supprimé.</td> 
+   <td>Suppression du rôle "Nom du rôle"</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>Rôle Modifié du "nom précédent" au "nouveau nom" (REMARQUE : si vous avez besoin de détails sur les autorisations modifiées, contactez l’assistance) - <br>affiche un instantané des autorisations affectées au rôle<br></td> 
+   <td>Rôle Modifié de "nom précédent" en "nouveau nom" (REMARQUE : si vous avez besoin de détails sur les autorisations modifiées, veuillez contacter l’assistance) - <br>affiche un instantané des autorisations affectées au rôle<br></td> 
   </tr> 
   <tr> 
    <td>Rapport des listes intelligentes</td> 
    <td>Modifier</td> 
-   <td>SmarList modifié pour la connexion à télécharger : "true ou false"</td> 
+   <td>SmarList édité pour connexion à télécharger : "true ou false"</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Utilisateur<br><br><br><br></td> 
    <td>Créer (invitation)</td> 
-   <td>L’utilisateur a invité avec : Email "email address", Name "first and last name", Access Date d’expiration "vide ou avec une date", API User "true ou false" - <br>affiche un instantané des rôles et des espaces de travail affectés à l’utilisateur ;</td> 
+   <td>L’utilisateur est invité avec : Email "email address", Name "first and last name", Access Expires "blank or with a date", API User "true or false" - <br> affiche un instantané des rôles et des espaces de travail attribués à l’utilisateur</td> 
   </tr> 
   <tr> 
    <td colspan="1">Supprimer</td> 
@@ -780,11 +780,11 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>L’utilisateur a été renommé "ancien nom" en "nouveau nom" par courrier électronique : "email", apiUser: L’accès "true" ou "false" expire : "vide ou avec une date"</td> 
+   <td>L’utilisateur a été renommé "ancien nom" en "nouveau nom" par email : "email", apiUser: "vrai ou faux" l’accès expire : "vide ou avec une date"</td> 
   </tr> 
   <tr> 
    <td>Modifier</td> 
-   <td>L’utilisateur a été modifié pour recevoir un courrier électronique : "email", apiUser: "true ou false", l’accès expire : "vide ou avec une date"</td> 
+   <td>L’utilisateur a été modifié pour le courrier électronique : "email", apiUser: "true ou false", l’accès expire : "vide ou avec une date"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Modifier</td> 
@@ -792,7 +792,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   </tr> 
   <tr> 
    <td>Problème</td> 
-   <td>Licence de calendrier émise pour le courrier électronique : nom "adresse électronique de l’utilisateur" : "nom de l’utilisateur"</td> 
+   <td>Licence de calendrier émise à l’adresse électronique : nom "adresse électronique de l’utilisateur" : "nom de l’utilisateur"</td> 
   </tr> 
   <tr> 
    <td>Réinitialiser</td> 
@@ -801,7 +801,7 @@ Le journal d’audit offre de nombreuses informations sur les personnes qui effe
   <tr> 
    <td rowspan="2">Espace de travail</td> 
    <td>Créer</td> 
-   <td>Espace de travail créé avec le nom "nom de l’espace de travail"</td> 
+   <td>Workspace créé avec le nom "nom de l’espace de travail"</td> 
   </tr> 
   <tr> 
    <td>Supprimer</td> 

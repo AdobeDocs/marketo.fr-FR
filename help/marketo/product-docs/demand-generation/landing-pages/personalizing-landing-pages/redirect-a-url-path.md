@@ -19,34 +19,34 @@ Marketo facilite la redirection d’un chemin d’URL vers n’importe quelle pa
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous **Administration**, cliquez sur **Pages d’entrée**.
+1. Sous **Admin**, cliquez sur **Pages d’entrée**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Cliquez sur le bouton **Règles** , puis cliquez sur **Nouveau** et **Nouvelle règle de redirection**.
+1. Cliquez sur l’onglet **Rules** , puis sur **New** et **New Redirect Rule**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Cliquez sur le premier **URL d’origine** et sélectionnez votre CNAME Marketo.
+1. Cliquez sur la première liste déroulante **URL d’origine** et sélectionnez votre CNAME Marketo.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
    >[!NOTE]
    >
-   >Pour rappel, vous ne pouvez rediriger que les URL commençant par votre Marketo. [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Souvenez-vous que vous ne pouvez rediriger que les URL commençant par votre Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Saisissez le chemin d’accès à l’URL (ou la page spécifique) que vous souhaitez rediriger dans la seconde **URL d’origine** sur la droite.
+1. Saisissez le chemin d’URL (ou une page spécifique) que vous souhaitez rediriger dans le deuxième champ **URL d’origine** à droite.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Cliquez sur **Utiliser une page d’entrée autre que Marketo**, saisissez la page vers laquelle vous souhaitez rediriger les visiteurs dans le **URL de redirection** puis cliquez sur **Créer**.
+1. Cliquez sur **Utiliser la page d’entrée non Marketo**, tapez la page vers laquelle vous souhaitez rediriger les visiteurs dans le champ **URL de redirection**, puis cliquez sur **Créer**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Vous pouvez [Utilisation des landing pages Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) comme destination également.
+   Vous pouvez également [ utiliser les landing pages Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) comme destination.
 
 Félicitations ! Vous avez correctement redirigé votre chemin d’URL.
 
 >[!MORELIKETHIS]
 >
->[Redirection d’une page d’entrée Marketo vers une autre page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
+>[Rediriger une page d’entrée Marketo vers une autre page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)

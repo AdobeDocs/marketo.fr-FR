@@ -6,7 +6,7 @@ exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Utilisez l’analyseur de programme pour identifier vos programmes les plus et l
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Créer un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. Cliquez sur **Analytics**.
 
@@ -37,7 +37,7 @@ Utilisez l’analyseur de programme pour identifier vos programmes les plus et l
 
    >[!TIP]
    >
-   >Pour filtrer rapidement les programmes sur un seul canal, sélectionnez **Affichage** > **Par canal**, cliquez sur la bulle correspondante, puis sur le nom du canal dans la boîte de dialogue contextuelle.
+   >Pour filtrer rapidement les programmes sur un seul canal, sélectionnez **Afficher** > **Par canal**, cliquez sur la bulle de ce canal, puis cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
 
 1. Utilisez la liste déroulante Axe X pour sélectionner une mesure pour l’axe horizontal. Commençons par le coût du programme.
 
@@ -53,7 +53,7 @@ Utilisez l’analyseur de programme pour identifier vos programmes les plus et l
 
    >[!TIP]
    >
-   >Vous pouvez également essayer d’améliorer votre vue en passant d’une échelle linéaire à une échelle logarithmique, ou vice versa. Utilisez la variable **Échelle** dans la partie supérieure.
+   >Vous pouvez également essayer d’améliorer votre vue en passant d’une échelle linéaire à une échelle logarithmique, ou vice versa. Utilisez le menu **Échelle** en haut.
 
 1. Explorez le graphique obtenu.
 
@@ -67,15 +67,15 @@ Utilisez l’analyseur de programme pour identifier vos programmes les plus et l
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la variable [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >La plupart des mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Observez la taille des bulles dans votre graphique.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   En ajoutant **(FT) Recettes gagnées** Nous voyons rapidement que, alors que l&#39;Exposition Origami a acquis beaucoup de nouveaux noms, elle produit relativement peu de recettes. De plus, nous voyons que le programme de la 12ème Bataille de Papier prend moins de noms, mais de meilleurs noms, car il influence plus de recettes gagnées (plus grande bulle).
+   En ajoutant **(FT) Recettes gagnantes**, nous voyons rapidement que, bien que l’Exposition Origami ait acquis beaucoup de nouveaux noms, elle génère relativement peu de recettes. De plus, nous voyons que le programme de la 12ème Bataille de Papier prend moins de noms, mais de meilleurs noms, car il influence plus de recettes gagnées (plus grande bulle).
 
-1. Utilisez la liste déroulante Couleur pour ajouter une quatrième mesure. Nous allons examiner le rapport Recettes - Investissement (FT).
+1. Utilisez la liste déroulante Couleur pour ajouter une quatrième mesure. Nous allons examiner le rapport Recettes - Investissement.
 
    ![](assets/image2014-9-17-18-3a55-3a33.png)
 
@@ -87,7 +87,7 @@ Nous voyons que le programme Paper Fest 12 influence non seulement plus les reve
 
 >[!TIP]
 >
->Vous pouvez rapidement comparer les programmes d’un canal à ceux d’un autre. Utilisez simplement la variable **Filtre de canal** en haut de la fenêtre pour ajouter d’autres canaux.
+>Vous pouvez rapidement comparer les programmes d’un canal à ceux d’un autre. Utilisez simplement le **filtre de canal** en haut de la fenêtre pour ajouter d’autres canaux.
 
 >[!MORELIKETHIS]
 >

@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Si vous avez accès à plusieurs abonnements Marketo et souhaitez vous assurer de celui que vous utilisez, essayez de donner un nom unique à chacun d’entre eux. Ce nom s’affiche ensuite en haut de votre page d’abonnement.
 
-Par exemple, si vous travaillez à la fois dans des instances de production et d’environnement de test, vous pouvez nommer un abonnement. **Production Marketo** et l’autre **Marketo Sandbox**.
+Par exemple, si vous travaillez à la fois dans des instances de production et d’environnement de test, vous pouvez nommer un abonnement **Marketo Production** et l’autre **Marketo Sandbox**.
 
-1. Accédez à **[!UICONTROL Administration]**.
+1. Accédez à **[!UICONTROL Admin]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
@@ -29,6 +29,6 @@ Par exemple, si vous travaillez à la fois dans des instances de production et d
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Effectuez les modifications et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Effectuez vos modifications et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-subscription-settings-4.png)

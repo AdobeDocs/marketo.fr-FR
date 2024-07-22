@@ -17,7 +17,7 @@ Les balises vous aideront à organiser vos programmes, tandis que les canaux vou
 
 >[!NOTE]
 >
->Consulter [Présentation des balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) pour plus d’informations.
+>Pour plus d’informations, consultez [Présentation des balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) .
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Les balises vous aideront à organiser vos programmes, tandis que les canaux vou
 
 Pour créer un type de balise :
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/create-custom-tags-1.png)
 
@@ -35,7 +35,7 @@ Pour créer un type de balise :
 
    ![](assets/create-custom-tags-2.png)
 
-1. Cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouveau type de balise]**.
+1. Cliquez sur **[!UICONTROL New]** et sélectionnez **[!UICONTROL New Tag Type]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ Pour créer un type de balise :
 
    ![](assets/create-custom-tags-4.png)
 
-1. Saisissez la valeur souhaitée pour le type de balise. Cliquez sur **[!UICONTROL Ajouter un autre]** pour saisir des valeurs supplémentaires.
+1. Saisissez la valeur souhaitée pour le type de balise. Cliquez sur **[!UICONTROL Ajouter]** pour entrer des valeurs supplémentaires.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,12 +57,12 @@ Pour créer un type de balise :
 
    >[!NOTE]
    >
-   >* Sélectionnez &quot;[!UICONTROL Obligatoire]&quot; si vous souhaitez que cette balise soit ajoutée chaque fois qu’un nouveau programme est créé.
-   >* Suppression d’un type de programme du &#39;[!UICONTROL S’applique à]La liste &#39; supprime la balise et ses valeurs de tous les programmes existants de ce type. Si vous souhaitez conserver les valeurs de balise existantes et rendre cette balise facultative, passez à l’étape _all_ types de programme répertoriés, ne cochez pas la case &quot;Obligatoire&quot;.
+   >* Sélectionnez &quot;[!UICONTROL Required]&quot; si vous souhaitez que cette balise soit ajoutée chaque fois qu’un nouveau programme est créé.
+   >* La suppression d’un type de programme de la liste &#39;[!UICONTROL S’applique à]&#39; supprime la balise et ses valeurs de tous les programmes existants de ce type. Si vous souhaitez conserver les valeurs de balise existantes et rendre cette balise facultative à partir de la liste des types de programmes _tous_, laissez la case &quot;Obligatoire&quot; désélectionnée.
 
    >[!TIP]
    >
-   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programmes, mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programmes dont l’une est &quot;.[!UICONTROL Obligatoire]&quot; sélectionné, et l’autre avec &quot;[!UICONTROL Obligatoire]&quot; non sélectionné.
+   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programmes mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programmes dont l’une avec &quot;[!UICONTROL Required]&quot; sélectionné, et l’autre avec &quot;[!UICONTROL Required]&quot; non sélectionnée.
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 

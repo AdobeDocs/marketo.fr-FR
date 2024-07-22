@@ -23,4 +23,4 @@ Le graphique ci-dessous illustre le processus d’intégration.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Prêt à commencer ? Commencer par [Création d’un événement avec l’adaptateur ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+Prêt à commencer ? Commencez par [Créer un événement avec l’adaptateur ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.

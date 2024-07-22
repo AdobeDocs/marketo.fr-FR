@@ -17,13 +17,13 @@ Vous pouvez gérer et afficher vos membres dans vos programmes à l’aide de l�
 
 >[!NOTE]
 >
->Explorez plus en détail [abonnement au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Explorez plus en détail la [appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Recherche d’un membre {#search-for-a-member}
 
 Au bas de la section Membres , utilisez le champ de recherche pour rechercher des membres du programme par nom, adresse électronique, titre de la tâche ou société.
 
-1. Cliquez sur le bouton **[!UICONTROL Membres]** de votre programme.
+1. Cliquez sur l’onglet **[!UICONTROL Membres]** de votre programme.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,7 +49,7 @@ Cliquez avec le bouton droit de la souris sur l’en-tête de colonne pour trier
 
 ## Sélectionner les colonnes visibles dans la grille {#choose-which-columns-are-visible-in-the-grid}
 
-1. Cliquez sur le bouton **[!UICONTROL Affichage]** et sélectionnez **[!UICONTROL Créer une vue]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Afficher]** et sélectionnez **[!UICONTROL Créer une vue]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
@@ -63,7 +63,7 @@ Cliquez avec le bouton droit de la souris sur l’en-tête de colonne pour trier
 
 ## Filtrage de la grille Membres  {#filter-the-members-grid}
 
-1. Cliquez sur le bouton **[!UICONTROL Filtrer]** et sélectionnez une étape de progression à trier.
+1. Cliquez sur la liste déroulante **[!UICONTROL Filtre]** et sélectionnez une étape de progression par laquelle effectuer un tri.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Cliquez avec le bouton droit de la souris sur l’en-tête de colonne pour trier
 
 Vous pouvez modifier le statut de vos personnes dans la grille membres.
 
-1. Maintenir enfoncée **[!UICONTROL Ctrl/Cmd]** et sélectionnez les personnes.
+1. Maintenez la touche **[!UICONTROL Ctrl/Cmd]** enfoncée et sélectionnez les personnes.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Modifier l’état]** et sélectionnez un état.
+1. Cliquez sur la liste déroulante **[!UICONTROL Modifier l’état]** et sélectionnez un état.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ Tant de fonctions, mais elles sont toutes assez simples. Bon appétit !
 
 >[!MORELIKETHIS]
 >
->[Création d’un rapport Performance de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[Créer un rapport Performance de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

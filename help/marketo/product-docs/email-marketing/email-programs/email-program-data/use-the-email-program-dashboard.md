@@ -17,11 +17,11 @@ Vérifiez les performances de vos programmes de messagerie avec cette vue de tab
 
 >[!CAUTION]
 >
->Pour des rapports précis, évitez les _réutiliser_ un email provenant d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, veuillez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} car copie le courrier électronique, mais en crée un avec un nouvel ID de courrier électronique.
+>Pour une création de rapports exacte, évitez de _réutiliser_ un email d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, [clonez-le](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} à la place, car cela copie l&#39;email mais en crée un avec un nouvel ID d&#39;email.
 
 >[!NOTE]
 >
->Si votre programme comporte un test A/B, consultez la [Tableau de bord du programme de messagerie électronique - Mode Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>Si votre programme possède un test A/B, consultez le [Tableau de bord du programme d’email - Vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ Ce graphique montre le nombre d&#39;emails ouverts/cliqués pendant des période
 
 ## Résumé - Engagement {#summary-engagement}
 
-Vous pouvez ainsi visualiser l’ensemble [score d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+Vous voyez alors le [score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"} global.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,15 +63,15 @@ Le reste des données affichera les options Ouvertures, Clics, Ratio clic/ouvert
 
 >[!TIP]
 >
->La variable **Désabonner** Le taux dans l’exemple ci-dessus était si faible que Marketo a zoomé pour vous donner un meilleur aperçu. Le deuxième numéro de la barre est simplement ajouté à l’échelle.
+>Le taux de **désabonnement** dans l’exemple ci-dessus était si faible que Marketo a zoomé pour vous donner un meilleur aperçu. Le deuxième numéro de la barre est simplement ajouté à l’échelle.
 
 >[!NOTE]
 >
 >**Définition**
 >
->**Ouvertures** sont comptabilisés lorsque le destinataire de l’email télécharge les images de l’email, qui incluent un pixel de suivi inséré par Marketo. Si le destinataire consulte l&#39;email mais choisit de ne pas télécharger ses images, cela ne sera pas considéré comme une ouverture. Si les images se chargent dans le volet d&#39;aperçu du destinataire, cela sera généralement compté comme une ouverture, mais cela varie en fonction du client de messagerie.
+>**Les ouvertures** sont comptabilisées lorsque le destinataire de l’email télécharge les images de l’email, ce qui inclut un pixel de suivi inséré par Marketo. Si le destinataire consulte l&#39;email mais choisit de ne pas télécharger ses images, cela ne sera pas considéré comme une ouverture. Si les images se chargent dans le volet d&#39;aperçu du destinataire, cela sera généralement compté comme une ouverture, mais cela varie en fonction du client de messagerie.
 >
->**Cliquez pour ouvrir** mesure le pourcentage d’emails ouverts et sur lesquels un lien a cliqué dans l’email. Nous prenons le nombre de clics uniques divisé par le nombre d’ouvertures uniques, puis multiplions par 100 pour l’afficher en pourcentage.
+>**Cliquez pour ouvrir** mesure le pourcentage des courriers électroniques ouverts et ayant fait l’objet d’un clic sur un lien dans le courrier électronique. Nous prenons le nombre de clics uniques divisé par le nombre d’ouvertures uniques, puis multiplions par 100 pour l’afficher en pourcentage.
 
 ## Actualiser le tableau de bord {#refresh-dashboard}
 
@@ -81,4 +81,4 @@ Pour afficher les données les plus récentes, il vous suffit de cliquer sur l�
 
 >[!MORELIKETHIS]
 >
->[Utilisation du tableau de bord du programme de messagerie électronique - vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
+>[Utiliser le tableau de bord du programme de messagerie électronique - Vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

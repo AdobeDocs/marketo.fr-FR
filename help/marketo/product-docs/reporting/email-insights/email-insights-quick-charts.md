@@ -6,7 +6,7 @@ exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Dans cet exemple, nous allons choisir le taux d’ouverture pour les trois premi
 
    ![](assets/two-2.png)
 
-1. Une fois la période sélectionnée, cliquez sur **Appliquer**.
+1. Lorsque la période est sélectionnée, cliquez sur **Appliquer**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Dans cet exemple, nous allons choisir le taux d’ouverture pour les trois premi
 
    ![](assets/5.png)
 
-1. Dans la partie droite du graphique, cliquez sur l&#39;icône d&#39;export et sélectionnez **Enregistrer en tant que graphique rapide**.
+1. Sur le côté droit du graphique, cliquez sur l’icône d’exportation et sélectionnez **Enregistrer comme graphique rapide**.
 
    ![](assets/six.png)
 
@@ -55,7 +55,7 @@ Dans cet exemple, nous allons choisir le taux d’ouverture pour les trois premi
 
    ![](assets/8.png)
 
-   Et voilà !
+   Et c&#39;est tout !
 
    >[!TIP]
    >
@@ -65,11 +65,11 @@ Dans cet exemple, nous allons choisir le taux d’ouverture pour les trois premi
 
 Vous souhaitez supprimer l’un de vos graphiques rapides ? C&#39;est facile !
 
-1. Cliquez sur le bouton **Graphiques rapides** icône .
+1. Cliquez sur l’icône **Graphiques rapides** .
 
    ![](assets/nine.png)
 
-1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Lorsque vous survolez, un X s’affiche. Cliquez sur le bouton **X**.
+1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Lorsque vous survolez, un X s’affiche. Cliquez sur le **X**.
 
    ![](assets/ten.png)
 

@@ -21,11 +21,11 @@ Le tableau de bord Liste de comptes offre une vue d’informations agrégées pr
 
 ## Tableau de bord de la liste de comptes {#account-list-dashboard}
 
-Pour afficher le tableau de bord d’une liste de comptes, il vous suffit de cliquer sur son nom...
+Pour afficher le tableau de bord d’une liste de comptes, cliquez simplement sur son nom...
 
 ![](assets/one-new.png)
 
-...et le tableau de bord s’affiche.
+...et le tableau de bord apparaît.
 
 ![](assets/two-new-1.png)
 
@@ -44,16 +44,16 @@ Pour afficher le tableau de bord d’une liste de comptes, il vous suffit de cli
 
 ## Onglet Comptes nommés {#named-accounts-tab}
 
-Cliquez sur le bouton **Comptes nommés** pour voir quels comptes nommés appartiennent à cette liste de comptes.
+Cliquez sur l’onglet **Comptes nommés** pour voir quels comptes nommés appartiennent à cette liste de comptes.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Vous pouvez supprimer un compte nommé dans cet onglet en le sélectionnant et en cliquant sur **Suppression des comptes nommés**.
+>Vous pouvez supprimer un compte nommé dans cet onglet en le sélectionnant et en cliquant sur **Supprimer les comptes nommés**.
 
 ## Utilisé Par Onglet {#used-by-tab}
 
-Cliquez sur le bouton **Utilisé par** pour voir quelles ressources font référence à cette liste de comptes.
+Cliquez sur l’onglet **Used By** pour voir les ressources qui référencent cette liste de comptes.
 
 ![](assets/four-2.png)

@@ -17,9 +17,9 @@ Testez des emails entiers les uns par rapport aux autres. Lorsque le test est te
 
 >[!PREREQUISITES]
 >
->[Ajout d’un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Dans l’éditeur de test d’email, sélectionnez **Emails complets** dans le **Type de test** menu déroulant.
+1. Dans l’éditeur de test d’email, sélectionnez **Enmails entiers** dans la liste déroulante **Type de test** .
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Testez des emails entiers les uns par rapport aux autres. Lorsque le test est te
    >
    >Rappel : L&#39;email d&#39;origine est le champion. Les concurrents sont en compétition.
 
-1. Recherchez et sélectionnez la variable **Challengers** Courriel(s), puis cliquez sur **Cloner**.
+1. Recherchez et sélectionnez le ou les courriers électroniques **Challengers**, puis cliquez sur **Clone**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -55,4 +55,4 @@ Testez des emails entiers les uns par rapport aux autres. Lorsque le test est te
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : définition des critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : Définir les critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

@@ -21,13 +21,13 @@ Le rapport Explorateur de recettes vous permet de suivre le retour sur investiss
 
 >[!IMPORTANT]
 >
->Le dossier Corbeille de l’Explorateur Revenue Cycle a été temporairement masqué en raison d’un problème technique. Nous travaillons actuellement sur un correctif et vos fichiers sont sûrs. Veuillez contacter [Prise en charge des Adobes](https://nation.marketo.com/t5/support/ct-p/Support) si des fichiers doivent être restaurés,
+>Le dossier Corbeille de l’Explorateur Revenue Cycle a été temporairement masqué en raison d’un problème technique. Nous travaillons actuellement sur un correctif et vos fichiers sont sûrs. Contactez le [support aux Adobes](https://nation.marketo.com/t5/support/ct-p/Support) si vous devez restaurer des fichiers.
 
-1. Accédez au **Explorateur de recettes** zone.
+1. Accédez à la zone **Explorateur de recettes**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Cliquez sur **Créer** puis sélectionnez **Rapport**.
+1. Cliquez sur **Créer nouveau**, puis sélectionnez **Rapport**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -42,4 +42,4 @@ Le rapport Explorateur de recettes vous permet de suivre le retour sur investiss
 >[!MORELIKETHIS]
 >
 >[Ajout de champs à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Ajout de mesures personnalisées à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>[Ajout de mesures personnalisées à un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

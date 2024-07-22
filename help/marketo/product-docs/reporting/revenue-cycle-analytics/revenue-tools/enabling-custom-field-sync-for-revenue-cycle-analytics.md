@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Les étapes suivantes vous permettront d’utiliser des champs personnalisés dans les rapports RCA.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Analyse du cycle des recettes**, puis **Synchronisation des champs personnalisés**.
+1. Cliquez sur **Revenue Cycle Analytics**, puis sur **Synchronisation des champs personnalisés**.
 
    ![](assets/two.png)
 

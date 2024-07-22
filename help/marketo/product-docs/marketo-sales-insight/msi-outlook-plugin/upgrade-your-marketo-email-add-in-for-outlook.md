@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 10%
+source-wordcount: '335'
+ht-degree: 15%
 
 ---
 
@@ -117,11 +117,11 @@ Téléchargez le programme d’installation approprié à votre version de Micro
  </tbody> 
 </table>
 
-&#42;Version d’Office 365 : Client Windows uniquement (sous Windows 10, Enterprise ou Pro).
+&#42;Version d&#39;Office 365 : client Windows uniquement (sous Windows 10, Enterprise ou Pro).
 
 ## Mettre à niveau {#upgrade}
 
-1. Identifiez votre [Version de Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifiez votre [version Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Sélectionnez votre version dans la liste ci-dessus.
 

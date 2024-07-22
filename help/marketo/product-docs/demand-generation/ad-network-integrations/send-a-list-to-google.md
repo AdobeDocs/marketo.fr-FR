@@ -18,7 +18,7 @@ Pour ceux qui utilisent la correspondance client Google, suivez les étapes ci-d
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. Cliquez sur le bouton **Actions de liste** et sélectionnez **Envoyer au réseau publicitaire**.
+1. Cliquez sur la liste déroulante **Actions de liste** et sélectionnez **Envoyer vers le réseau publicitaire**.
 
    ![](assets/send-a-list-to-google-2.png)
 
@@ -36,9 +36,9 @@ Pour ceux qui utilisent la correspondance client Google, suivez les étapes ci-d
 
    >[!NOTE]
    >
-   >* Sélection **Synchronisation de l’appartenance à l’audience** maintient la liste à jour au fur et à mesure qu’elle change dans votre instance. Nous ajoutons/supprimons des personnes de l’audience lorsqu’elles sont ajoutées/supprimées de la liste statique.
+   >* Si vous sélectionnez **Conserver l’appartenance à l’audience synchronisée**, la liste reste à jour au fur et à mesure qu’elle change dans votre instance. Nous ajoutons/supprimons des personnes de l’audience lorsqu’elles sont ajoutées/supprimées de la liste statique.
    >
-   >* Si vous cochez la case en bas de l’écran, l’état du consentement est GRANTED pour les données utilisateur envoyées à Google Ads à des fins de publicité et de personnalisation publicitaire. Si vous ne cochez pas cette option, l’état du consentement est NON SPÉCIFIÉ. Pour ceux qui prévoient de télécharger des données pour les utilisateurs de l’Espace économique européen (EEE), Google a établi une liste de [Questions fréquentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, ainsi que des détails supplémentaires décrivant la [Politique de consentement des utilisateurs de l’UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Si vous cochez la case en bas de l’écran, l’état du consentement est GRANTED pour les données utilisateur envoyées à Google Ads à des fins de publicité et de personnalisation publicitaire. Si vous ne cochez pas cette option, l’état du consentement est NON SPÉCIFIÉ. Pour ceux qui prévoient de charger des données pour les utilisateurs de l’Espace économique européen (EEE), Google a dressé une liste de [ questions fréquentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, ainsi que des détails supplémentaires décrivant la [politique de consentement de l’utilisateur de l’UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Cliquez sur **Mettre à jour**.
 

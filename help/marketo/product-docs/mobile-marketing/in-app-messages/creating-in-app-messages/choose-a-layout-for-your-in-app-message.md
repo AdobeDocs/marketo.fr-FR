@@ -6,7 +6,7 @@ exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Marketo fournit six dispositions pour la création de messages in-app.
 
 Les trois dispositions de type pop-up proposent toutes des éléments de conception de paramètres prédéfinis, notamment une image, du texte, des boutons et un arrière-plan.
 
-La première disposition de type pop-up est la sélection par défaut pour une bonne raison : Il convient à la plupart des usages. Cela fonctionne bien avec les images à résolution inférieure. Cette disposition utilise les polices standard de votre plateforme (Helvetica pour Apple, Roboto pour Android), de sorte qu’elle s’affiche toujours correctement sur un téléphone ou une tablette. Vous pouvez télécharger et placer les images principales et d’arrière-plan, écrire votre propre texte principal et secondaire, et configurer les boutons principal et Ignorer. Le texte est limité à trois lignes à 24 pixels. Des tailles de type plus grandes réduisent le nombre de lignes.
+La première disposition de type pop-up est la sélection par défaut pour une bonne raison : elle convient à la plupart des utilisations. Cela fonctionne bien avec les images à résolution inférieure. Cette disposition utilise les polices standard de votre plateforme (Helvetica pour Apple, Roboto pour Android). Elle s’affiche donc toujours correctement sur un téléphone ou une tablette. Vous pouvez télécharger et placer les images principales et d’arrière-plan, écrire votre propre texte principal et secondaire, et configurer les boutons principal et Ignorer. Le texte est limité à trois lignes à 24 pixels. Des tailles de type plus grandes réduisent le nombre de lignes.
 
 ![](assets/image2016-5-9-13-3a3-3a48.png)
 
@@ -58,8 +58,8 @@ La troisième mise en page plein écran est la même que la seconde, à l’exce
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Maintenant que vous connaissez les modèles, il est temps d&#39;en choisir un lorsque vous [créer vos images de message in-app ;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+Maintenant que vous connaissez les modèles, il est temps d&#39;en choisir un lorsque vous [créez vos images de message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
->[Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>[Compréhension des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)

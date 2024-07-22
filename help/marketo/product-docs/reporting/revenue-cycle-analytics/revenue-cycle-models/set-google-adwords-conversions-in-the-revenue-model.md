@@ -6,20 +6,20 @@ exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 0%
+source-wordcount: '492'
+ht-degree: 1%
 
 ---
 
 # Définir les conversions AdWords Google dans le modèle de revenu {#set-google-adwords-conversions-in-the-revenue-model}
 
-Liez votre compte Google AdWords à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez facilement identifier les clics qui ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toute étape de recettes dont vous souhaitez effectuer le suivi) après avoir effectué vos recherches. [ajout de colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans AdWords.
+Liez votre compte Google AdWords à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers Google AdWords. Ensuite, à partir de l’interface utilisateur d’AdWords, vous pourrez facilement voir quels clics ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toute étape de recettes dont vous souhaitez effectuer le suivi) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans AdWords.
 
 >[!NOTE]
 >
->Il s’agit d’une intégration push de Marketo vers Google AdWords. Les données de conversion s’affichent. _only_ sur votre portail Google AdWords, _ne se trouve pas dans l’interface utilisateur de Marketo_.
+>Il s’agit d’une intégration push de Marketo vers Google AdWords. Les données de conversion apparaîtront _uniquement_ sur votre portail Google AdWords, _et non dans l’interface utilisateur de Marketo_.
 
-En savoir plus sur [Fonction d’importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en). Mappez les conversions hors ligne AdWords à une ou plusieurs scènes d’un modèle Recettes. Le mappage peut être effectué de trois façons :
+En savoir plus sur la [fonctionnalité d’importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en). Mappez les conversions hors ligne AdWords à une ou plusieurs scènes d’un modèle Recettes. Le mappage peut être effectué de trois façons :
 
 * Conversion AdWords
 * Action d’évaluation
@@ -29,11 +29,11 @@ Vous pouvez créer une conversion hors ligne AdWords à partir de Marketo si vou
 
 >[!PREREQUISITES]
 >
->[Ajout de Google AdWords en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+>[Ajouter Google AdWords as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## Utiliser la conversion AdWords {#use-adwords-conversion}
 
-1. Accédez au **Analytics** zone.
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2015-2-23-18-3a9-3a34.png)
 
@@ -49,7 +49,7 @@ Vous pouvez créer une conversion hors ligne AdWords à partir de Marketo si vou
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Sélectionnez la **Conversion d’AdWords** vous souhaitez mapper sur l’étape Marketo.
+1. Sélectionnez la **conversion AdWords** que vous souhaitez mapper à l’étape Marketo.
 
    ![](assets/image2015-2-26-16-3a46-3a15.png)
 
@@ -63,15 +63,15 @@ Vous pouvez également mapper une conversion AdWords sous Actions intermédiaire
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Sous , **Actions de l’étape** menu déroulant, sélectionnez **Définir la conversion d’AdWords**.
+1. Dans la liste déroulante **Actions intermédiaires**, sélectionnez **Définir la conversion AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Sélectionnez une **Conversion d’AdWords**.
+1. Sélectionnez une **conversion AdWords**.
 
    ![](assets/image2015-2-26-16-3a54-3a47.png)
 
-   **Conseil**: Si vous ne disposez d’aucune conversion AdWords, créez-en une en cliquant sur **+Nouvelle conversion**.
+   **Conseil** : Si vous n’avez aucune conversion AdWords, créez-en une en cliquant sur **+Nouvelle conversion**.
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
@@ -79,11 +79,11 @@ Vous pouvez également mapper une conversion AdWords sous Actions intermédiaire
 
    ![](assets/image2015-2-26-16-3a56-3a2.png)
 
-1. Une fois le mappage de toutes vos conversions AdWords aux phases de recettes terminé, revenez à la page de résumé. Sélectionner **Actions de modèle** et choisissez **Approuver les étapes**.
+1. Une fois le mappage de toutes vos conversions AdWords aux phases de recettes terminé, revenez à la page de résumé. Sélectionnez **Actions de modèle** et choisissez **Approuver les étapes**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-## Conseil : Ajout d’une nouvelle conversion {#pro-tip-add-a-new-conversion}
+## Conseil : Ajouter une nouvelle conversion {#pro-tip-add-a-new-conversion}
 
 Conseil professionnel ! Une nouvelle conversion hors ligne AdWords peut être créée à partir de Marketo.
 
@@ -91,15 +91,15 @@ Conseil professionnel ! Une nouvelle conversion hors ligne AdWords peut être cr
 >
 >Le paramètre &quot;optimisation&quot; est activé pour les nouvelles conversions créées à partir de Marketo. Cela signifie que les stratégies d’offres AdWords sont autorisées à optimiser vos offres pour ces conversions. Vous pouvez modifier ce paramètre à partir de votre compte AdWords.
 
-1. Sous , **Actions de l’étape** menu déroulant, sélectionnez **Définir la conversion d’AdWords**.
+1. Dans la liste déroulante **Actions intermédiaires**, sélectionnez **Définir la conversion AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Sélectionner **Nouvelle conversion**.
+1. Sélectionnez **Nouvelle conversion**.
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
-1. Saisissez un **Nom de la conversion**. Cliquez sur **Enregistrer**.
+1. Saisissez un **Nom de conversion**. Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-2-26-21-3a24-3a7.png)
 
@@ -109,11 +109,11 @@ Conseil professionnel ! Une nouvelle conversion hors ligne AdWords peut être cr
 
 Vous pouvez associer toutes vos scènes de modèle à votre conversion AdWords à un seul emplacement à l’aide des mappages AdWords.
 
-1. Sélectionner **Modifier les mappages AdWords**.
+1. Sélectionnez **Modifier les mappages AdWords**.
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. Sélectionnez la **Conversion d’AdWords** pour chaque étape dont vous souhaitez effectuer le suivi.
+1. Sélectionnez la **conversion AdWords** de votre choix pour chaque étape dont vous souhaitez effectuer le suivi.
 
    ![](assets/image2015-2-26-17-3a6-3a15.png)
 
@@ -121,8 +121,8 @@ Vous pouvez associer toutes vos scènes de modèle à votre conversion AdWords �
 
    ![](assets/image2015-2-26-17-3a7-3a48.png)
 
-1. Une fois le mappage de toutes vos conversions AdWords aux phases de recettes terminé, revenez à la page de résumé. Sélectionner **Actions de modèle** et choisissez **Approuver les étapes**.
+1. Une fois le mappage de toutes vos conversions AdWords aux phases de recettes terminé, revenez à la page de résumé. Sélectionnez **Actions de modèle** et choisissez **Approuver les étapes**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Pour afficher les données de conversion hors ligne, vous devez vous connecter à votre compte AdWords. Nous vous recommandons d’utiliser les [Fonctionnalité Colonnes personnalisées](https://support.google.com/adwords/answer/3073556) pour créer des colonnes de comptage de conversion pour chaque conversion hors ligne que vous importez à partir de Marketo.
+Pour afficher les données de conversion hors ligne, vous devez vous connecter à votre compte AdWords. Nous vous recommandons d’utiliser leur [fonction Colonnes personnalisées](https://support.google.com/adwords/answer/3073556) pour créer des colonnes de nombre de conversions pour chaque conversion hors ligne que vous importez à partir de Marketo.

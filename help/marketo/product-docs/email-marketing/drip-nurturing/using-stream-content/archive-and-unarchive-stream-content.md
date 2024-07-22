@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Archivage et désarchivage du contenu du flux {#archive-and-unarchive-stream-content}
 
-Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous pouvez effectuer l’une des opérations suivantes : [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) il ou archivez-le. Voici comment archiver du contenu.
+Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous pouvez le [supprimer](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) ou l’archiver. Voici comment archiver du contenu.
 
 >[!TIP]
 >
->La suppression détruit tout l&#39;historique associé; l’archivage le préserve.
+>La suppression détruit tout l&#39;historique associé ; l&#39;archivage le préserve.
 
 ## Archivage du contenu de diffusion {#archive-stream-content}
 
-1. Sélectionnez votre programme d’engagement et accédez à la **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Passez la souris sur l’e-mail que vous souhaitez archiver, puis cliquez sur l’icône en forme d’engrenage. **Archiver**.
+1. Passez la souris sur l’e-mail que vous souhaitez archiver, puis cliquez sur **Archiver** sous l’icône représentant un engrenage.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,7 +33,7 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
 ## Désarchiver le contenu du flux {#unarchive-stream-content}
 
-1. Sélectionnez votre programme d’engagement et accédez à la **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
@@ -45,4 +45,4 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   Mot clé! Ce contenu peut maintenant être hiérarchisé et activé.
+   Parfait ! Ce contenu peut maintenant être hiérarchisé et activé.

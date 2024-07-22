@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Vous pouvez regrouper vos rapports de personne selon n’importe quel attribut de personne ou de société.
 
-1. Accédez au **Activités marketing** (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Sélectionnez le rapport de votre personne dans l’arborescence de navigation, puis cliquez sur le bouton **Configuration** .
+1. Sélectionnez le rapport de votre personne dans l’arborescence de navigation et cliquez sur l’onglet **Configuration** .
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Double-cliquez **Regrouper les personnes par**.
+1. Double-cliquez sur **Group People by**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
@@ -37,7 +37,7 @@ Vous pouvez regrouper vos rapports de personne selon n’importe quel attribut d
 
    >[!TIP]
    >
-   >Si vous choisissez un attribut doté d’une valeur numérique, comme _Créé à l’adresse_ ou _Recettes annuelles_, sélectionnez les mesures dans le **Unités** Liste déroulante à droite.
+   >Si vous choisissez un attribut ayant une valeur numérique, tel que _Created At_ ou _Annual Revenue_, sélectionnez les mesures dans la liste déroulante **Units** (Unités) située à droite.
 
    C&#39;est tout ! Cliquez sur l&#39;onglet Rapport pour voir votre rapport regroupé en conséquence.
 

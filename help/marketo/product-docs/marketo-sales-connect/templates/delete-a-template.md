@@ -21,6 +21,6 @@ Pour supprimer un modèle, procédez comme suit.
 
 1. Sélectionnez le modèle à supprimer.
 
-1. Cliquez sur le menu déroulant en haut à droite, puis cliquez sur **Supprimer**.
+1. Cliquez sur la liste déroulante de menu en haut à droite, puis cliquez sur **Supprimer**.
 
 1. Cliquez sur **Supprimer** pour confirmer.

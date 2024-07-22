@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Voici comment créer un nouveau flux de conversation.
 
-1. Sous [!UICONTROL Chat automatisé], cliquez sur **[!UICONTROL Flux de conversation]**.
+1. Sous [!UICONTROL Automated Chat], cliquez sur **[!UICONTROL Flux de conversation]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 
@@ -22,7 +22,7 @@ Voici comment créer un nouveau flux de conversation.
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. Sélectionnez un flux de conversation vide ou l’un des modèles préremplis. Saisissez un nom (la description est facultative), modifiez la langue (facultatif), puis cliquez sur **[!UICONTROL Créer]**.
+1. Sélectionnez un flux de conversation vide ou l’un des modèles préremplis. Saisissez un nom (la description est facultative), modifiez la langue (facultative), puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-a-conversational-flow-3.png)
 
@@ -30,7 +30,7 @@ Voici comment créer un nouveau flux de conversation.
    >
    >La langue du texte système sera alors modifiée uniquement. Vous êtes responsable de la traduction du contenu.
 
-1. Comme dans Dialogs, il est temps à ce stade de [créer un flux ;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Comme dans les Dialogues, il est temps à ce stade de [créer un flux](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

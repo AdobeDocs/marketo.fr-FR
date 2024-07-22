@@ -19,7 +19,7 @@ Aidez votre équipe commerciale à réussir en l’empêchant d’envoyer par co
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-3.png)
 
@@ -27,10 +27,10 @@ Aidez votre équipe commerciale à réussir en l’empêchant d’envoyer par co
 
    ![](assets/two-3.png)
 
-1. Saisissez le domaine que vous souhaitez bloquer, puis cliquez sur **Domaine du bloc**.
+1. Saisissez le domaine que vous souhaitez bloquer et cliquez sur **Bloquer le domaine**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >Emails faisant partie d’un [Courriel du groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) l’envoi qui échoue en raison de l’envoi à un domaine de courrier électronique bloqué échoue en silence et n’apparaît pas dans le dossier de courrier électronique en échec.
+   >Les emails qui font partie d’un envoi [Group Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) qui échoue en raison de l’envoi à un domaine de messagerie bloqué échoueront en silence et n’apparaîtront pas dans le dossier de messagerie en échec.

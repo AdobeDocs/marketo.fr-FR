@@ -19,17 +19,17 @@ Si vous disposez d’une ancienne campagne dynamique dont vous n’avez plus bes
 >
 >Assurez-vous avant de supprimer. Une fois que vous avez supprimé une campagne dynamique, elle ne peut plus être restaurée.
 
-1. Accédez au **[!UICONTROL Activités marketing]** zone.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Accédez à votre campagne dynamique inactive. Dans le **[!UICONTROL Actions de campagne]** , sélectionnez **[!UICONTROL Supprimer]**.
+1. Accédez à votre campagne dynamique inactive. Dans la liste déroulante **[!UICONTROL Actions de campagne]**, sélectionnez **[!UICONTROL Supprimer]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Pour annuler le traitement d’une campagne dynamique active sans la supprimer complètement, apprenez à [abandon d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Pour annuler le traitement d’une campagne dynamique active sans la supprimer complètement, apprenez à [abandonner une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
 1. Cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
 

@@ -2,11 +2,11 @@
 description: OP-Scoring-Demographic - Documents Marketo - Documentation du produit
 title: OP-Scoring-Demographic
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 35%
+source-wordcount: '310'
+ht-degree: 34%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 35%
 
 Il s’agit d’un exemple de programme opérationnel avancé (segmenté en unités), qui utilise un programme par défaut de Marketo Engage pour la notation démographique. Affichez et modifiez les valeurs de notation sous l’onglet &quot;Mes jetons&quot; du programme. Nécessite un champ de score personnalisé appelé &quot;Score démographique&quot;.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -52,7 +52,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -89,12 +89,12 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>Chiffre d’affaires annuel</td>
+   <td>Chiffre d'affaires annuel</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>Secteur</td>
+   <td>Industrie</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
@@ -235,17 +235,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
+* **Modèle de page d’entrée avec le même nom**
    * Copier le modèle d’origine - _Recommandé_
    * Utiliser le modèle de destination
 
 * **Images du même nom**
    * Conserver les deux fichiers - _Recommandé_
-   * Remplacer l’élément de cet abonnement
+   * Remplacer l&#39;élément de cet abonnement
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_

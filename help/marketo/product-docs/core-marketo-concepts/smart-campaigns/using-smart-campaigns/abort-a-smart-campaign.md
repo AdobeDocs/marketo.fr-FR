@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Parfois, vous lancez une campagne dynamique et vous réalisez immédiatement que c’était une erreur. Voici comment tirer le frein d’urgence et arrêter la campagne dynamique à moyen terme.
 
-1. Sélectionnez la campagne dynamique souhaitée, puis cliquez sur le bouton **[!UICONTROL Planification]** .
+1. Choisissez la campagne dynamique souhaitée et cliquez sur l’onglet **[!UICONTROL Planning]** .
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Actions de campagne]** menu déroulant. Sélectionner **[!UICONTROL Abandonner une campagne]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions de campagne]** . Sélectionnez **[!UICONTROL Abandonner la campagne]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
@@ -39,10 +39,10 @@ Parfois, vous lancez une campagne dynamique et vous réalisez immédiatement que
 
    >[!NOTE]
    >
-   >Regardez la **[!UICONTROL Résultats]** de la campagne dynamique pour voir les actions qui ont eu lieu avant l’abandon. Vous trouverez également un  [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} avec des détails supplémentaires.
+   >Consultez l’onglet **[!UICONTROL Résultats]** de la campagne dynamique pour voir les actions qui ont eu lieu avant l’abandon. Vous trouverez également une [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} avec des détails supplémentaires.
 
    >[!TIP]
    >
-   >Vous souhaitez supprimer une personne du flux dans une campagne de déclenchement ? Consulter [Supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
+   >Vous souhaitez supprimer une personne du flux dans une campagne de déclenchement ? Extrayez [Supprimer du flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
 Vérifiez toujours deux fois votre travail, mais ce frein d&#39;urgence peut s&#39;avérer utile.

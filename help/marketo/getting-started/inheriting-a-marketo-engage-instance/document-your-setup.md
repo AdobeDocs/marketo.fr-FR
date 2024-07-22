@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Instance héritée : documenter votre configuration {#inherited-instance-document-your-setup}
 
-Maintenant que vous avez appris les domaines de produit clés à contrôler lors de l’héritage d’une instance établie, l’étape suivante consiste à créer/mettre à jour la documentation sur la configuration de votre instance et la pile technique. Que ce soit par le biais d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre l’avancement et enregistrer les détails, ainsi que pour préserver la structure et la durabilité de votre instance.
+Maintenant que vous avez appris les domaines de produit clés à contrôler lors de l’héritage d’une instance établie, l’étape suivante consiste à créer/mettre à jour la documentation sur la configuration de votre instance et tech stack. Que ce soit par le biais d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre l’avancement et enregistrer les détails, ainsi que pour préserver la structure et la durabilité de votre instance.
 
 ## Données {#data}
 

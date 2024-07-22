@@ -23,7 +23,7 @@ ht-degree: 14%
 | Alt/Opt + D | Studio de conception |
 | Alt/Opt + F | Recherche globale |
 | Alt/Opt + L | Base de données |
-| Alt/Opt + M | Activités Marketing |
+| Alt/Opt + M | Activités marketing |
 | Opt + N | Administrateur |
 | Opt + O | Mon Marketo |
 

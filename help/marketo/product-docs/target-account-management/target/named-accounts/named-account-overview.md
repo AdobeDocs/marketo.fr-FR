@@ -53,15 +53,15 @@ Les comptes nommés contiennent les personnes des entreprises que vous ciblez. L
   </tr> 
   <tr> 
    <td><strong>Domaine</strong></td> 
-   <td>Domaine du compte nommé (par exemple marketo.com)</td> 
+   <td>Domaine du compte nommé (par exemple, marketo.com)</td> 
   </tr> 
   <tr> 
-   <td><strong>Secteur</strong></td> 
+   <td><strong>Industrie</strong></td> 
    <td>Type de secteur industriel attribué au compte nommé</td> 
   </tr> 
   <tr> 
    <td><strong>Code SIC</strong></td> 
-   <td><span><strong>s</strong>standard <strong>I</strong>industriel <strong>C</strong>Classification : code à quatre chiffres pour la classification des industries<br></span></td> 
+   <td><span><strong>S</strong>standard <strong>I</strong>industriial <strong>C</strong>lassification - code à quatre chiffres pour classer les industries<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Recettes</strong></td> 
@@ -88,7 +88,7 @@ Les comptes nommés contiennent les personnes des entreprises que vous ciblez. L
    <td colspan="1">Pays du compte nommé</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Date créée</strong></td> 
+   <td colspan="1"><strong>Date de création</strong></td> 
    <td colspan="1">Date de création du compte nommé</td> 
   </tr> 
   <tr> 

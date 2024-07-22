@@ -17,9 +17,9 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** API_CURRENTLY_DISABLED\
 **Catégorie :** Accès/Validation\
-**Message :** L’API est désactivée pour cet utilisateur\
-**Ce qui se passe :** L’utilisateur ne dispose pas d’un accès API\
-**Étapes de dépannage :** L’administrateur Salesforce doit accorder l’accès à l’API utilisateur.
+L’API **Message:** est désactivée pour cet utilisateur\
+**Ce qui se passe :** L’utilisateur n’a pas accès à l’API\
+**Étapes de dépannage :** L’administrateur Salesforce doit accorder l’accès à l’API de l’utilisateur.
 
 <br> 
 
@@ -33,7 +33,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
 **Catégorie :** Accès/Validation\
-**Message :** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;message&quot;:&quot;Session expirée ou non valide&quot;}\
+**Message:** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;message&quot;:&quot;Session expirée ou non valide&quot;}\
 **Ce qui se passe :**
 
 1 - Le code du déclencheur provoque l’échec de la mise à jour.\
@@ -48,16 +48,16 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** CANNOT_UPDATE_CONVERTED_LEAD\
 **Catégorie :** Autre\
-**Message :** ne peut pas référencer de prospect converti\
-**Ce qui se passe :** Nous tentons de nous connecter à une piste convertie lors de la journalisation des activités les plus récentes pour les contacts et les pistes. J&#39;en ai aussi vu quelques-uns pour les terrains.\
-**Étapes de dépannage :** Veuillez signaler tout cas de ce type à notre [équipe d&#39;assistance](https://nation.marketo.com/t5/Support/ct-p/Support).
+**Message :** ne peut pas référencer de piste convertie\
+**Ce qui se passe :** Nous essayons de nous connecter à un prospect converti lors de la journalisation des activités les plus récentes pour les contacts et les pistes. J&#39;en ai aussi vu quelques-uns pour les terrains.\
+**Étapes de dépannage :** Veuillez en signaler toute instance à notre [équipe d&#39;assistance](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 <br> 
 
 **Erreur :** ENTITY_IS_LOCKED\
 **Catégorie :** Accès/Validation\
-**Message :** l’entité est verrouillée pour modification\
-**Ce qui se passe :** L’enregistrement est dans un processus de validation où il est verrouillé de toute modification supplémentaire jusqu’à ce qu’il soit approuvé ou refusé par une personne propriétaire de la validation.\
+**Message :** l&#39;entité est verrouillée pour modification\
+**Ce qui se passe :** L’enregistrement se trouve dans un processus d’approbation où il est verrouillé de toute modification supplémentaire jusqu’à ce qu’il soit approuvé ou refusé par une personne propriétaire de la validation.\
 **Étapes de dépannage :** Voir ci-dessus.
 
 <br> 
@@ -65,8 +65,8 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Erreur :** EXPIRED_ACCESS
 **Catégorie :** Authentification
 **Message :** invalid_grant : jeton d’accès/d’actualisation expiré
-**Ce qui se passe :** Le jeton d’accès ou d’actualisation a expiré. Les jetons expirent en fonction de [paramètres de session dans Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
-**Étapes de dépannage :** Vous devrez vous authentifier à nouveau. Déconnectez la connexion Salesforce et reconnectez-vous.
+**Ce qui se passe :** Le jeton d’accès ou d’actualisation a expiré. Les jetons expirent en fonction des [paramètres de session dans Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Étapes de dépannage :** vous devrez vous reconnecter. Déconnectez la connexion Salesforce et reconnectez-vous.
 
 <br> 
 
@@ -80,15 +80,15 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** FIELD_CUSTOM_VALIDATION_EXCEPTION
 **Catégorie :** Accès/Validation
-**Message :** Varie d’un client à l’autre.
+**Message :** varie d’un client à l’autre.
 **Ce qui se passe :** Échec d’une règle de validation personnalisée pour l’objet.
-**Étapes de dépannage :** Vérifiez la règle de validation personnalisée à l’origine de cette erreur. Puisqu’il s’agit d’une règle personnalisée, l’erreur doit être traitée ponctuellement.
+**Étapes de dépannage :** Vérifiez la règle de validation personnalisée qui cause cette erreur. Puisqu’il s’agit d’une règle personnalisée, l’erreur doit être traitée ponctuellement.
 
 <br> 
 
 **Erreur :** FIELD_FILTER_VALIDATION_EXCEPTION\
 **Catégorie :** Accès/Validation\
-**Message :** La valeur n’existe pas ou ne correspond pas aux critères de filtre\
+**Message:** La valeur n’existe pas ou ne correspond pas aux critères de filtre\
 **Ce qui se passe :** Les données incorrectes existantes dans Salesforce sont appliquées lors de la mise à jour.\
 **Étapes de dépannage :** Voir ci-dessus.
 
@@ -96,7 +96,7 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** FIELD_INTEGRITY_EXCEPTION\
 **Catégorie :** Accès/Validation\
-**Message :** Le pays/territoire existant ne reconnaît pas la valeur de l’état pour le champ : Code état/province\
+**Message :** Le pays/territoire existant ne reconnaît pas la valeur d’état pour le champ : Code état/province\
 **Ce qui se passe :** Les données incorrectes existantes dans Salesforce sont appliquées lors de la mise à jour.\
 **Étapes de dépannage :** Voir ci-dessus.
 
@@ -112,33 +112,33 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Catégorie :** Authentification
 **Message :** invalid_grant : utilisateur inactif
 **Ce qui se passe :** L’utilisateur Salesforce n’est plus actif
-**Étapes de dépannage :** Déconnectez-vous puis reconnectez-vous de Salesforce.
+**Étapes de dépannage :** Déconnectez-vous de Salesforce, puis reconnectez-vous.
 
 **Erreur :** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE\
 **Catégorie :** Intermittent\
-**Message :** (aucun message supplémentaire)\
-**Ce qui se passe :** L’instance Salesforce est en mode de maintenance.\
-**Étapes de dépannage :** Patientez jusqu’à ce que la maintenance du système soit terminée, puis relancez la journalisation.
+**Message:** (aucun message supplémentaire)\
+**Ce qui se passe :** l’instance Salesforce est en mode de maintenance.\
+**Étapes de dépannage :** Patientez jusqu’à ce que la maintenance du système soit terminée, puis réessayez la journalisation.
 
 **Erreur :** INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
 **Catégorie :** Accès/Validation
-**Message :** droits d’accès insuffisants sur l’identifiant d’objet
-**Ce qui se passe :** Accès à l’enregistrement parent pour une tâche.
+**Message :** droits d’accès insuffisants sur l’ID d’objet
+**Ce qui se passe :** Accès impossible à l’enregistrement parent pour une tâche.
 **Étapes de dépannage :** Voir ci-dessus.
 
 <br> 
 
 **Erreur :** INSUFFICIENT_ACCESS_OR_READONLY\
 **Catégorie :** Accès/Validation
-**Message :** droits d’accès insuffisants sur l’identifiant d’objet
-**Ce qui se passe :** La journalisation de l’activité la plus récente ne peut pas modifier l’enregistrement spécifique, car l’utilisateur ne dispose pas d’un accès en écriture.\
-**Étapes de dépannage :** Accordez à l’utilisateur l’accès dans Salesforce OU désactivez la journalisation de l’activité la plus récente pour cet objet.
+**Message :** droits d’accès insuffisants sur l’ID d’objet
+**Ce qui se passe :** La journalisation de l’activité la plus récente ne peut pas modifier l’enregistrement spécifique car l’utilisateur ne dispose pas d’un accès en écriture.\
+**Étapes de dépannage :** Accordez l’accès utilisateur dans Salesforce OU désactivez la journalisation de l’activité la plus récente pour cet objet pour cet utilisateur.
 
 **Erreur :** INVALID_FIELD\
 **Catégorie :** Intermittent\
-**Message :** Net::ReadTimeout\
-**Ce qui se passe :** La demande expire. Cela est probablement dû à un trop grand nombre de transactions lentes.\
-**Étapes de dépannage :** Examinez les personnalisations existantes pour détecter les éventuels coupables des problèmes de latence et/ou désactivez la journalisation de l’activité la plus récente pour un ou tous les objets afin de réduire la charge.
+**Message:** Net::ReadTimeout\
+**Ce qui se passe :** la demande expire. Cela est probablement dû à un trop grand nombre de transactions lentes.\
+**Étapes de dépannage :** passez en revue les personnalisations existantes pour détecter les éventuels coupables des problèmes de latence et/ou désactivez la journalisation de l’activité la plus récente pour un ou tous les objets afin de réduire la charge.
 
 **Erreur :** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Catégorie :** Accès/Validation\
@@ -149,18 +149,18 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 **Erreur :** INVALID_GRANT\
 **Catégorie :** Authentification\
 **Message :** invalid_grant : ip restricted\
-**Ce qui se passe :** Nous tentons d’accéder à votre Salesforce, mais vous disposez de restrictions de IP qui nous empêchent de le faire.\
+**Ce qui se passe :** Nous essayons d’accéder à votre Salesforce, mais vous disposez de restrictions d’accès aux adresses IP qui nous empêchent de le faire.\
 **Étapes de dépannage :** Votre administrateur Salesforce devra placer sur la liste autorisée nos adresses IP. Les utilisateurs doivent contacter l’assistance pour obtenir les adresses IP.
 
 **Erreur :** INVALID_TYPE\
 **Catégorie :** Accès/Validation\
-**Message :** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` Le type &quot;Lead&quot; n’est pas pris en charge. Si vous essayez d’utiliser un objet personnalisé, assurez-vous d’ajouter « __c » après le nom de l’entité. Veuillez référencer votre WSDL ou l’appel de description pour connaître les noms appropriés
-**Ce qui se passe :** Nous tentons d’interroger un type d’objet de Salesforce auquel l’utilisateur n’a pas accès. Cela est probablement lié au fait que l’utilisateur n’a pas le droit d’accéder à l’objet de piste.\
-**Étapes de dépannage :** Accordez l’accès en lecture et en mise à jour à l’objet Lead dans Salesforce ou désactivez la journalisation des emails et la journalisation de l’activité la plus récente pour créer des enregistrements de piste.
+**Message :** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` type &#39;Lead&#39; n’est pas pris en charge. Si vous essayez d’utiliser un objet personnalisé, assurez-vous d’ajouter « __c » après le nom de l’entité. Veuillez référencer votre WSDL ou l’appel de description pour connaître les noms appropriés
+**Ce qui se passe :** Nous essayons d’interroger un type d’objet de Salesforce auquel l’utilisateur n’a pas accès. Cela est probablement lié au fait que l’utilisateur n’a pas le droit d’accéder à l’objet de piste.\
+**Étapes de dépannage :** Accordez l’accès en lecture et mise à jour à l’objet Lead dans Salesforce ou désactivez la journalisation des emails et de l’activité la plus récente pour créer des enregistrements de piste.
 
 **Erreur :** QUERY_TIMEOUT\
 **Catégorie :** Intermittent\
-**Message :** Votre requête était trop longue.\
+**Message :** Votre requête de requête était trop longue\
 **Ce qui se passe :** Voir ci-dessus.\
 **Étapes de dépannage :** La logique de reprise doit gérer cela. Si cela ne fonctionne toujours pas, travaillez avec votre administrateur Salesforce pour résoudre un problème de déclencheur.
 
@@ -179,9 +179,9 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** REQUIRED_FIELD_MISSING\
 **Catégorie :** Accès/Validation\
-**Message :** Les champs obligatoires sont manquants : `[Amount_Committed_Private_Capital__c]`
+**Message:** Les champs obligatoires sont manquants : `[Amount_Committed_Private_Capital__c]`
 **Ce qui se passe :** Cela se produit généralement pour la journalisation de l’activité la plus récente. Les champs personnalisés ont été configurés pour être obligatoires, mais contiennent des valeurs vides. Cela peut se produire si l’enregistrement a été créé avec une valeur vide du champ personnalisé et a ensuite été rendu obligatoire. L’exigence est appliquée lorsque nous tentons de mettre à jour l’enregistrement, même si nous ne touchons pas au champ personnalisé.\
-**Étapes de dépannage :** Mettez à jour manuellement les valeurs des champs manquants. Vous pouvez ensuite réessayer le message à partir de ToutApp.
+**Étapes de dépannage :** mettez manuellement à jour les valeurs des champs manquants. Vous pouvez ensuite réessayer le message à partir de ToutApp.
 
 **Erreur :** SERVER_UNAVAILABLE\
 **Catégorie :** Intermittent\
@@ -191,9 +191,9 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** TXN_SECURITY_NO_ACCESS\
 **Catégorie :** Accès/Validation\
-**Message :** L’opération que vous avez demandée n’est pas autorisée en raison d’une stratégie de sécurité de votre entreprise. Contactez l’administration.<br/>
-**Ce qui se passe :** Une certaine restriction de sécurité a été configurée - voir https://developer.salesforce.com/forums/?id=&quot;enregistrement ID&quot;\
-**Étapes de dépannage :** Adressez-vous à votre administrateur Salesforce pour voir quelle est la restriction spécifique.
+**Message :** L’opération que vous avez demandée n’est pas autorisée en raison d’une stratégie de sécurité dans votre organisation. Contactez l’administration.<br/>
+**Qu’est-ce qui se passe :** Une restriction de sécurité a été configurée - voir https://developer.salesforce.com/forums/?id=&quot;enregistrement ID&quot;\
+**Étapes de dépannage :** Contactez votre administrateur Salesforce et voyez quelle pourrait être la restriction spécifique.
 
 **Erreur :** UNABLE_TO_LOCK_ROW\
 **Catégorie :** Intermittent\
@@ -203,6 +203,6 @@ Une partie de notre intégration Salesforce inclut une page de diagnostic Salesf
 
 **Erreur :** UNKNOWN_EXCEPTION
 **Catégorie :** Autre\
-**Message :** Une exception inconnue s’est produite\
+**Message :** Une exception inconnue s&#39;est produite\
 **Ce qui se passe :** Exception non gérée dans Salesforce.\
-**Étapes de dépannage :** Placez une casse avec Salesforce et copiez les valeurs numériques dans le message d’erreur. Il s’agit du code Salesforce qui ne gère pas correctement une erreur.
+**Étapes de dépannage :** Créez un dossier avec Salesforce et copiez les valeurs numériques dans le message d’erreur. Il s’agit du code Salesforce qui ne gère pas correctement une erreur.

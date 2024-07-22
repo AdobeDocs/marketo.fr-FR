@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## Modification de votre modèle {#editing-your-model}
 
-1. Sélectionnez le modèle sur lequel vous souhaitez apporter des modifications dans la section Analytics , puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez le modèle sur lequel vous souhaitez apporter des modifications dans la section Analytics et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one.png)
 
-1. Vous ne pouvez pas supprimer de scènes lors de la modification d’un modèle de brouillon (une fois le modèle approuvé). Vous pouvez à la place fusionner cette scène avec une autre dans le modèle. Cliquez avec le bouton droit de la souris sur l’étape à fusionner, puis cliquez sur **Fusion**.
+1. Vous ne pouvez pas supprimer de scènes lors de la modification d’un modèle préliminaire (une fois le modèle approuvé). Vous pouvez à la place fusionner cette scène avec une autre dans le modèle. Cliquez avec le bouton droit de la souris sur l’étape à fusionner, puis cliquez sur **Fusionner**.
 
    ![](assets/two.png)
 
-1. Sélectionnez la nouvelle étape pour les pistes actuellement dans celle sélectionnée, ou sélectionnez **Aucun** pour supprimer les pistes de votre modèle. Lorsque vous avez terminé, cliquez sur **Fusion**.
+1. Choisissez la nouvelle étape pour les pistes actuellement dans celle sélectionnée ou sélectionnez **Aucune** pour supprimer les pistes de votre modèle. Une fois que vous avez terminé, cliquez sur **Fusionner**.
 
    ![](assets/three.png)
 
-1. Lorsque vous avez terminé d’apporter des modifications au modèle, réapprouvez-le en sélectionnant **Approuver le brouillon du modèle** dans le **Actions de modèle** .
+1. Lorsque vous avez terminé d’apporter des modifications au modèle, réapprouvez-le en sélectionnant **Approuver le brouillon du modèle** dans le menu **Actions du modèle** .
 
    ![](assets/four.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 >
 >Si vous annulez l’approbation de votre modèle, toutes ses pistes seront supprimées et leur historique dans le modèle sera supprimé. Envisagez de modifier votre modèle au lieu de l’annuler.
 
-1. Sélectionnez le modèle que vous souhaitez annuler l’approbation. Dans la **Actions de modèle** menu, sélectionnez **Modèle non approuvé**.
+1. Sélectionnez le modèle que vous souhaitez annuler l’approbation. Dans le menu **Actions du modèle**, sélectionnez **Annuler l’approbation du modèle**.
 
    ![](assets/five.png)
 
-1. Cliquez sur **Ne pas approuver**.
+1. Cliquez sur **Non approuvé**.
 
    ![](assets/six.png)
 
@@ -59,4 +59,4 @@ Vous ne pouvez avoir qu’un seul modèle approuvé à la fois. Si vous souhaite
 
 >[!MORELIKETHIS]
 >
->[Création d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Créer un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)

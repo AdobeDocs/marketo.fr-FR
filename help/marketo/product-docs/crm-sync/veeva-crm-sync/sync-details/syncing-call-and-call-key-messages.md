@@ -5,8 +5,8 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 5%
+source-wordcount: '478'
+ht-degree: 9%
 
 ---
 
@@ -27,7 +27,7 @@ Déclencheurs :
 * Ajout à l’appel du message clé
 * Supprimé du message de clé d’appel
 * Appel mis à jour
-* Message de clé d’appel mise à jour
+* Message de la clé d’appel mise à jour
 
 Filtres:
 
@@ -74,7 +74,7 @@ Les champs suivants des messages Appel et Clé d’appel sont synchronisés et p
     <tr>
       <td>Appel</td>
       <td>Type d’appel</td>
-      <td>Type d’appel conservé par le système en fonction du type et du contenu de l’appel. Ce champ est utilisé à des fins de création de rapports. Les valeurs valides sont les suivantes : Détail uniquement, Détail avec exemple, Détails du groupe, Détails du groupe avec exemple, Exemple uniquement. Ces valeurs ne doivent pas être modifiées, mais les traductions de ces listes de sélection peuvent être modifiées. Les participants ont le même type d’appel que l’appel d’en-tête. Pour un appel de groupe avec 3 professionnels, les 4 enregistrements ont tous le type d’appel "Détails du groupe".</td>
+      <td>Type d’appel conservé par le système en fonction du type et du contenu de l’appel. Ce champ est utilisé à des fins de création de rapports. Les valeurs valides sont : Détail uniquement, Détail avec exemple, Détails du groupe, Détails du groupe avec exemple, Exemple uniquement. Ces valeurs ne doivent pas être modifiées, mais les traductions de ces listes de sélection peuvent être modifiées. Les participants ont le même type d’appel que l’appel d’en-tête. Pour un appel de groupe avec 3 professionnels, les 4 enregistrements ont tous le type d’appel "Détails du groupe".</td>
       <td>Call_Type_vod__c</td>
       <td>Liste de sélection</td>
     </tr>
@@ -88,7 +88,7 @@ Les champs suivants des messages Appel et Clé d’appel sont synchronisés et p
     <tr>
       <td>Appel</td>
       <td>Date</td>
-      <td>Date de l’appel au premier enregistrement ou envoi. Ce champ est défini à la date courante via un déclencheur si le champ date ou datetime n’est pas renseigné.</td>
+      <td>Date de l’appel au moment où il a été enregistré ou envoyé pour la première fois. Ce champ est défini à la date courante via un déclencheur si le champ date ou datetime n’est pas renseigné.</td>
       <td>Call_Date_vod__c</td>
       <td>Date</td>
     </tr>
@@ -114,42 +114,42 @@ Les champs suivants des messages Appel et Clé d’appel sont synchronisés et p
       <td>Type d’enregistrement</td>
     </tr>
     <tr>
-      <td>Message de clé d’appel</td>
+      <td>Message clé d'appel</td>
       <td>Appel</td>
       <td>Recherche de l’appel. Chaque message clé est associé à un appel .</td>
       <td>Call2_vod__c</td>
       <td>Principal-Detail(Call)</td>
     </tr>
     <tr>
-      <td>Message de clé d’appel</td>
+      <td>Message clé d'appel</td>
       <td>Catégorie</td>
       <td>Enregistre la catégorie de messages du message. Utilisé principalement à des fins de création de rapports.</td>
       <td>Category_vod__c</td>
       <td>Liste de sélection</td>
     </tr>
     <tr>
-      <td>Message de clé d’appel</td>
+      <td>Message clé d'appel</td>
       <td>Nom de présentation du CLM</td>
       <td>Nom de présentation de la ligne de commande bloquée</td>
       <td>Clm_Presentation_Name_vod__c</td>
       <td>Texte (80)</td>
     </tr>
     <tr>
-      <td>Message de clé d’appel</td>
+      <td>Message clé d'appel</td>
       <td>Nom du message clé</td>
       <td>Nom du message de clé empilée</td>
       <td>Key_Message_Name_vod__c</td>
       <td>Texte (80)</td>
     </tr>
     <tr>
-      <td>Message de clé d’appel</td>
+      <td>Message clé d'appel</td>
       <td>Nom du produit</td>
       <td> </td>
       <td>Product_Name__c</td>
       <td>Formule (Texte)</td>
     </tr>
     <tr>
-      <td>Message de clé d’appel</td>
+      <td>Message clé d'appel</td>
       <td>Réaction</a>
       </td>
       <td>Liste des réactions au message. Modifiez la liste de sélection pour modifier les valeurs de réaction.</td>

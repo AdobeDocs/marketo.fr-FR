@@ -17,11 +17,11 @@ Après avoir créé votre annonce de piste, vous devez la tester.
 
 >[!PREREQUISITES]
 >
->Vous devez [Configuration de l’intégration Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Vous devez [configurer l’intégration Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Dans Facebook Power Editor, sélectionnez une campagne, une publicité, puis cliquez sur **Modifier**.
 
-1. Sous **Liens**, cliquez sur le bouton **Afficher sur l’application mobile** lien.
+1. Sous **Liens**, cliquez sur le lien **Afficher sur l’application mobile** .
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
@@ -29,7 +29,7 @@ Après avoir créé votre annonce de piste, vous devez la tester.
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. Sur votre périphérique mobile, appuyez sur **Notifications** dans l’application mobile Facebook.
+1. Sur votre appareil mobile, appuyez sur **Notifications** dans l’application mobile Facebook.
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
@@ -45,7 +45,7 @@ Après avoir créé votre annonce de piste, vous devez la tester.
    >
    >Ce n’est qu’un exemple qui utilise un appel à l’action En savoir plus. L’appel à l’action de votre unité de piste publicitaire peut être différent.
 
-1. C&#39;est là que la magie se produit ! Une fois votre formulaire envoyé, [création d’une liste dynamique dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données de piste qui utilise la variable **Formulaire de publicité Facebook remplie** filtre. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d’envoyer.
+1. C&#39;est là que la magie se produit ! Une fois que vous avez envoyé votre formulaire, [créez une liste dynamique dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données de piste qui utilise le filtre **Formulaire de publicité de piste Facebook rempli**. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d’envoyer.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 

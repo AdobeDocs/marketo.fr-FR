@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 20%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 20%
 
 La zone Analyse des opportunités de programme vous permet d’analyser l’efficacité de programmes individuels ou de voir les résultats résumés par canal de programme.
 
-**Voici quelques exemples de questions auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :**:
+**Voici des exemples de questions professionnelles auxquelles vous pouvez répondre à l’aide de cette zone d’analyse :** :
 
 Combien d’opportunités ont été associées à un programme donné et combien d’entre elles ont-elles gagné ?
 
@@ -39,7 +39,7 @@ Quelles possibilités le programme a-t-il eu?
 
 Les mesures disponibles dans l’analyse sont généralement des nombres et sont représentées par des points bleus. Les Dimensions sont des attributs qui donnent différentes vues des mesures et sont représentés par des points jaunes.
 
-Toutes les mesures (points bleus) se rapportent à l’attribution : &quot;crédit&quot; pour l’acquisition d’une piste ou pour le succès de ventes associé à une piste.
+Toutes les mesures (points bleus) se rapportent à l’attribution : le &quot;crédit&quot; pour l’acquisition d’une piste ou pour le succès de ventes associé à une piste.
 
 ![](assets/six.five.png) ![](assets/seven-1.png)
 
@@ -90,7 +90,7 @@ Comme pour l’acquisition, la valeur de la contribution aux ventes réalisées 
    <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé la création de l’opportunité. Le chiffre d’affaires attendu correspond à la probabilité d’opportunité multipliée par la valeur de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td> 
   </tr> 
   <tr> 
-   <td>Recettes en investissements</td> 
+   <td>Recettes pour l'investissement</td> 
    <td>Il s’agit du rapport entre la part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé les opportunités confirmées et le coût du programme.</td> 
   </tr> 
   <tr> 
@@ -100,23 +100,23 @@ Comme pour l’acquisition, la valeur de la contribution aux ventes réalisées 
  </tbody> 
 </table>
 
-_&#42;(FT) = Attribution Première touche, utilisée pour les mesures de l’acquisition de pistes ; (MT) = Attribution multipoint, utilisée pour les mesures de succès des pistes_
+_&#42;(FT) = Attribution Première touche, utilisée pour les mesures de l’acquisition de pistes ; (MT) = Attribution multipoint, utilisée pour les mesures de succès de pistes_
 
 Vous trouverez ci-dessous un scénario qui décrit le mode de calcul des unités d’opportunité lorsqu’il existe deux programmes qui ont généré des pistes, mais qu’elles ont conduit à une opportunité à partir du même compte.
 
 **Programme 1**
 
-* Génère une piste : Lead 1
+* Génère une piste : piste 1
 * La piste 1 provient du compte 1
 
 **Programme 2**
 
-* Génère une autre piste : 2e piste
+* Génère une autre piste : Lead 2
 * La piste 2 provient également du compte 1
 
 **Compte 1**
 
-* Génère une opportunité : Opportunité 1
+* Génère une opportunité : opportunité 1
 
 Marketo accorde le crédit de manière appropriée sans double comptage des opportunités dans tous les programmes. Ainsi, dans ce cas, chaque programme reçoit 0,5 unité d’opportunités. En d’autres termes, chaque programme reçoit la moitié du crédit pour l’opportunité générée. En outre, la moitié des recettes associées à l’opportunité est affectée à chaque programme.
 
@@ -169,15 +169,15 @@ Alors que les mesures (points bleus) sont calculées et nécessitent quelques r�
   </tr> 
   <tr> 
    <td>Attributs d'opportunité</td> 
-   <td>Opportunité fermée<br>Nom de l’opportunité*<br>Nom du propriétaire de l’opportunité<br>Étape d’opportunité<br>Type d’opportunité</td> 
+   <td>Opportunité Fermée<br>Nom de l’opportunité*<br>Nom du propriétaire de l’opportunité<br>Étape de l’opportunité<br>Type d’opportunité</td> 
   </tr> 
   <tr> 
    <td>Période d’opportunité</td> 
-   <td>Opportunité Fermée Année/Trimestre/Mois<br>Opportunité créée Année/Trimestre/Mois</td> 
+   <td>Opportunité Fermée Année/Trimestre/Mois<br>Opportunité Créée Année/Trimestre/Mois</td> 
   </tr> 
   <tr> 
    <td>Attributs de programme</td> 
-   <td>Canal de programme<br>Nom du programme</td> 
+   <td>Program Channel<br>Program Name</td> 
   </tr> 
   <tr> 
    <td>Période de coût du programme</td> 

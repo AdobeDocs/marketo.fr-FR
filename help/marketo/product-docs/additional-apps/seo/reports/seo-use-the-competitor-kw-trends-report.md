@@ -6,8 +6,8 @@ exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 3%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ Ce rapport présente le classement de vos concurrents et vous-même en fonction 
 
 ## Recherche de rapports {#find-reports}
 
-1. Accédez à **[!UICONTROL Rapports]**.
+1. Accédez à **[!UICONTROL Reports]**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Cliquez sur **[!UICONTROL Tendances des classements KW des concurrents]**.
+1. Cliquez sur **[!UICONTROL Tendances du classement KW des concurrents]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -35,8 +35,8 @@ Ce graphique peut vous indiquer le pourcentage de vos mots-clés classés dans u
 |---|---|
 | [!UICONTROL Mots-clés] | Nombre de mots-clés dont vous effectuez le suivi. |
 | [!UICONTROL URL de classement] | Le nombre d’URL de votre site classées dans la plage que vous avez définie. |
-| [!UICONTROL % de rang] | Pourcentage de mots-clés classés dans la plage que vous avez définie. |
-| [!UICONTROL Position moyenne recherches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours, lors de la recherche Google US). |
+| [!UICONTROL % dans le rang] | Pourcentage de mots-clés classés dans la plage que vous avez définie. |
+| [!UICONTROL Durée searches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours, lors de la recherche Google US). |
 
 ## Filtrage des données {#filtering-data}
 
@@ -44,7 +44,7 @@ Ce graphique peut vous indiquer le pourcentage de vos mots-clés classés dans u
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Classement]** menu déroulant pour sélectionner la plage de classement pour laquelle vous souhaitez afficher les mots-clés.
+1. Cliquez sur la liste déroulante **[!UICONTROL Classement]** pour choisir la plage de classement pour laquelle vous souhaitez afficher les mots-clés.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
@@ -54,6 +54,6 @@ Ce graphique peut vous indiquer le pourcentage de vos mots-clés classés dans u
 >
 >Vous pouvez exporter ce rapport vers votre bureau.
 
-1. Cliquez sur **[!UICONTROL Exportation CSV]** ou **[!UICONTROL Export PDF]**.
+1. Cliquez sur **[!UICONTROL Exporter CSV]** ou **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)

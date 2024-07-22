@@ -6,7 +6,7 @@ exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ C’est là que vous choisissez et personnalisez vos images de message in-app.
 
    >[!TIP]
    >
-   >Quelle est la différence entre les modèles ? Voir [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) avant de commencer.
+   >Quelle est la différence entre les modèles ? Voir [Choix de la mise en page de votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) avant de commencer.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Cliquez sur le bouton **Style** et cliquez sur la zone image du modèle.
+1. Cliquez sur l’onglet **Style** et cliquez sur la zone image du modèle.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Cliquez sur **Sélectionner une image**.
+1. Cliquez sur **Sélectionner l’image**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Sélectionnez votre image dans Design Studio, puis cliquez sur **Sélectionner**.
+1. Sélectionnez votre image dans Design Studio et cliquez sur **Sélectionner**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,7 +43,7 @@ C’est là que vous choisissez et personnalisez vos images de message in-app.
    >
    >La taille de l’image est limitée à 1 440 x 2 560 pixels et 5 Mo.
 
-1. Changez d&#39;avis et souhaitez utiliser une autre image ? Pas de problème. Cliquez sur le bouton **X** en regard du nom du fichier image.
+1. Changez d&#39;avis et souhaitez utiliser une autre image ? Pas de problème. Cliquez sur le **X** en regard du nom du fichier image.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
@@ -67,7 +67,7 @@ C’est là que vous choisissez et personnalisez vos images de message in-app.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Sélectionnez une marge (activée ou désactivée). **Activé** est le paramètre par défaut.
+1. Sélectionnez une marge (activée ou désactivée). **On** est le paramètre par défaut.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,11 +85,11 @@ C’est là que vous choisissez et personnalisez vos images de message in-app.
 
    >[!NOTE]
    >
-   >Pour les actions d’appui pour les images, les boutons ou les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne concerne qu&#39;une seule plateforme ou l&#39;autre, laissez l&#39;autre dans le paramètre par défaut ou sélectionnez **Aucun**.
+   >Pour les actions d’appui pour les images, les boutons ou les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne concerne qu&#39;une seule plateforme, laissez l&#39;autre dans le paramètre par défaut ou sélectionnez **Aucun**.
 
-Bon travail ! Maintenant, il est temps de [créer le texte de votre message in-app ;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+Bon travail ! Il est maintenant temps de [créer le texte de votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Compréhension des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

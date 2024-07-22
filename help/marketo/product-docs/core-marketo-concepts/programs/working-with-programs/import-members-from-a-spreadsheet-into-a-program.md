@@ -6,7 +6,7 @@ exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
 ## Importation de votre fichier CSV dans Marketo {#import-your-csv-into-marketo}
 
-1. Dans votre programme, accédez à la **[!UICONTROL Membres]** .
+1. Dans votre programme, accédez à la section **[!UICONTROL Membres]** .
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -35,19 +35,19 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Sélectionnez le fichier CSV, puis cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez le fichier CSV et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/importlist1.png)
 
-1. Faites correspondre les valeurs de données de la liste aux champs Marketo correspondants, puis cliquez sur **[!UICONTROL Suivant]**.
+1. Faites correspondre les valeurs de données de la liste aux champs Marketo correspondants et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Si vous ne souhaitez pas importer des champs, sélectionnez **[!UICONTROL IGNORER]** dans le menu déroulant Champ Marketo .
+   >Si vous ne souhaitez pas importer des champs, sélectionnez **[!UICONTROL IGNORER]** dans le menu déroulant Champ Marketo.
 
-1. Sélectionnez la variable **[!UICONTROL État du membre]** pour votre liste.
+1. Sélectionnez le **[!UICONTROL État membre]** de votre liste.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
@@ -65,4 +65,4 @@ Vous pouvez importer une liste de personnes qui deviennent automatiquement membr
 
 >[!MORELIKETHIS]
 >
->[Gestion et affichage des membres](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>[Gérer et afficher les membres](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}

@@ -1,10 +1,10 @@
 ---
 description: Pourquoi mes emails sont-ils marqués comme indésirables ? - Documents Marketo - Documentation du produit
 title: Pourquoi mes emails sont-ils marqués comme indésirables ?
-exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de 
 
 * Suivi des domaines personnalisés : permet d’afficher tous les liens de suivi en cours.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
 
-**Vérifier vos comportements d&#39;email**
+**Vérifiez vos comportements de messagerie**
 
 * Gardez vos emails courts et informels, puis collez vos modèles sous forme d’emails que vous avez déjà écrits.
 
@@ -25,4 +25,4 @@ En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de 
 
 * Assurez-vous d’avoir une signature d’email complète avec une adresse physique.
 
-* Lisez et assurez-vous de respecter les conditions [Lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* Lisez et assurez-vous de respecter les [lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.

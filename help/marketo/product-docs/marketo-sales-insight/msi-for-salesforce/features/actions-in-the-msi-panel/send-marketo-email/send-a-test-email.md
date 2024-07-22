@@ -20,13 +20,13 @@ Avant d’envoyer un email, vous pouvez tester le format de l’email et des jet
 
 1. Cliquez sur **Modifier les destinataires du test**.
 
-1. Vous pouvez choisir une ou plusieurs pistes dans la liste pour voir comment elles seront restituées. Cliquez sur **Appliquer les modifications** une fois terminé.
+1. Vous pouvez choisir une ou plusieurs pistes dans la liste pour voir comment elles seront restituées. Cliquez sur **Appliquer les modifications** lorsque vous avez terminé.
 
    ![](assets/send-a-test-email-1.png)
 
    >[!NOTE]
    >
-   >Pour rappel, la sélection de ces pistes **ne fait pas** leur envoyer le test par email, il vous montre _comment l&#39;email leur sera envoyé_. Si vous choisissez quatre pistes, vous recevrez quatre courriers électroniques de test différents.
+   >Pour rappel, la sélection de ces pistes **ne leur envoie pas** le test d’e-mail, il vous montre _à quoi ressemblera l’e-mail_. Si vous choisissez quatre pistes, vous recevrez quatre courriers électroniques de test différents.
 
 1. Cliquez sur **Envoyer le test**.
 

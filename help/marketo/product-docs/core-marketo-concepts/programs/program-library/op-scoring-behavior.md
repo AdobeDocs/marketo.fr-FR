@@ -2,11 +2,11 @@
 description: OP-Scoring-Behavior - Documents Marketo - Documentation du produit
 title: OP-Scoring-Behavior
 feature: Programs
-exl-id: 7822c362-c134-4471-b9a5-4d4f06e989ed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 30%
+source-wordcount: '347'
+ht-degree: 29%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 30%
 
 Cet exemple est un programme opérationnel avancé (segmenté en unités) pour la notation du comportement à l’aide d’un programme par défaut de Marketo Engage. Affichez et modifiez les valeurs de notation sous l’onglet &quot;Mes jetons&quot; du programme. Nécessite un champ de score personnalisé appelé &quot;score de comportement&quot;.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -52,7 +52,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -245,17 +245,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
+* **Modèle de page d’entrée avec le même nom**
    * Copier le modèle d’origine - _Recommandé_
    * Utiliser le modèle de destination
 
 * **Images du même nom**
    * Conserver les deux fichiers - _Recommandé_
-   * Remplacer l’élément de cet abonnement
+   * Remplacer l&#39;élément de cet abonnement
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_

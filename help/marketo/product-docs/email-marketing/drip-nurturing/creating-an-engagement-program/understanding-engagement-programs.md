@@ -6,8 +6,8 @@ exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 9%
+source-wordcount: '284'
+ht-degree: 8%
 
 ---
 
@@ -17,46 +17,46 @@ Les programmes d&#39;engagement sont conçus pour promouvoir de nouvelles person
 
 >[!NOTE]
 >
->La limite est de 100. **principal** les programmes d’engagement par abonnement.
+>Il existe une limite de 100 programmes d’engagement **actif** par abonnement.
 
 ## Programme d’engagement {#engagement-program}
 
-Un **programme d&#39;engagement** est un type de programme qui peut accomplir facilement une tâche complexe d’entretien.
+Un **programme d&#39;engagement** est un type de programme qui peut facilement réaliser des tâches de développement complexes.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
 >[!MORELIKETHIS]
 >
->[Création d’un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>[Créer un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## Stream {#stream}
 
-A **stream** est un ensemble de contenus prioritaires que le programme d&#39;engagement utilisera pour nourrir les personnes.
+Un **flux** est un ensemble de contenus priorisés que le programme d’engagement utilisera pour nourrir les personnes.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
 >[!MORELIKETHIS]
 >
->* [Ajout d’une diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
->* [Clonage d’un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
+>* [Ajouter un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [Cloner un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## Contenu {#content}
 
-Il existe deux types de **content** vous pouvez ajouter aux flux de programme d’engagement : emails et programmes. Les courriers électroniques seront envoyés aux personnes au moment de la distribution.
+Il existe deux types de **contenu** que vous pouvez ajouter aux flux de programme d’engagement : emails et programmes. Les courriers électroniques seront envoyés aux personnes au moment de la distribution.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
->* [Ajout de contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [Définition de la priorité du contenu en continu](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [Ajouter du contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Définition de la priorité du contenu de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
 >* [Modification de la disponibilité du contenu de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
->* [Suppression de contenu de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
->* [Archivage et désarchivage du contenu du flux](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
+>* [Supprimer le contenu de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+>* [Archiver et ne plus archiver le contenu du flux](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## Cast {#cast}
 
-A **cast** est l’événement d’envoi d’emails à partir d’un programme d’engagement.
+Un **cast** est l’événement d’envoi d’emails à partir d’un programme d’engagement.
 
 >[!NOTE]
 >
@@ -64,29 +64,29 @@ A **cast** est l’événement d’envoi d’emails à partir d’un programme d
 
 ## Rythme du stream {#stream-cadence}
 
-Vous décidez quand une diffusion se produit en configurant **cadence de diffusion en continu**. C’est ainsi que vous planifiez l’affichage du contenu à intervalles réguliers.
+Vous décidez quand une diffusion se produit en configurant la **cadence de diffusion**. C’est ainsi que vous planifiez l’affichage du contenu à intervalles réguliers.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 >[!MORELIKETHIS]
 >
->[Définir le rythme du stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[Définir l’cadence de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## Cadence de personne {#person-cadence}
 
-A **cadence de la personne** est un état qui définit sa capacité à recevoir du contenu d’un programme d’engagement. Vous pouvez utiliser la variable **Modifier l’cadence du programme d’engagement** étape de flux pour passer en pause ou normal.
+Une **cadence de personne** est un état qui définit sa capacité à recevoir du contenu d’un programme d’engagement. Vous pouvez utiliser l’étape de flux **Modifier la cadence du programme d’engagement** pour modifier ce paramètre en En pause ou Normal.
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Épuisé {#exhausted}
 
-Une fois qu&#39;une personne a reçu chaque élément de contenu dans un flux, nous appelons la personne **Exhaustif**.
+Une fois qu’une personne a reçu chaque élément de contenu dans un flux, nous appelons la personne **Exhausted**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[Personnes qui ont extrait du contenu](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[Personnes ayant extrait du contenu](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## Niveau d’engagement du contenu {#content-engagement-level}
 
@@ -94,4 +94,4 @@ Le niveau d’engagement du contenu est un score de 0 à 100 points que Marketo 
 
 >[!MORELIKETHIS]
 >
->[Présentation de la note d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
+>[Comprendre le score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)

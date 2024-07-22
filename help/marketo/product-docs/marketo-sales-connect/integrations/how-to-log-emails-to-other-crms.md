@@ -17,11 +17,11 @@ Si votre CRM vous fournit une adresse en Cci, vous pouvez utiliser la section &q
 
 ## CRM avec lesquels nous intégrons {#crms-we-integrate-with}
 
-**Presque tous les CRM**:
+**Presque tous les CRM** :
 
 * Notre fonctionnalité auto-Cci fonctionne avec presque tous les emails d’enregistrement CRM que vous avez envoyés avec Sales Connect (Connecter aux ventes) à vos pistes. Assurez-vous simplement que le CRM de votre choix vous fournit une adresse Cci pour en profiter.
 
-**Salesforce**:
+**Salesforce** :
 
 * Nous faisons tout ce qui précède et plus encore !
 
@@ -29,8 +29,8 @@ Si votre CRM vous fournit une adresse en Cci, vous pouvez utiliser la section &q
 
 1. Cliquez sur **Paramètres**.
 1. Cliquez sur **CRM**.
-1. Cliquez sur **Connexion** sous Autres CRM.
-1. Cliquez sur **Configurer**, puis collez votre adresse en Cci sous Email en Cci.
+1. Cliquez sur **Se connecter** sous Autres CRM.
+1. Cliquez sur **Configurer**, puis collez votre adresse en Cci sous Email dans Cci.
 1. Cliquez sur **Enregistrer** et votre adresse en Cci sera enregistrée dans Sales Connect.
 
    Les emails seront désormais consignés dans votre CRM via Cci.

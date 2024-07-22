@@ -5,18 +5,18 @@ exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
 source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
 
 # Champs dynamiques {#dynamic-fields}
 
-Vous pouvez personnaliser vos modèles d’email avec des attributs prédéfinis tels que `{{first_name}}` ou `{{company}}`. Ces champs vous permettent d’envoyer un email à plusieurs contacts et de les renseigner automatiquement sans avoir à les entrer séparément pour chaque contact.
+Nous vous permettons de personnaliser vos modèles d&#39;email avec des attributs prédéfinis tels que `{{first_name}}` ou `{{company}}`. Ces champs vous permettent d’envoyer un email à plusieurs contacts et de les renseigner automatiquement sans avoir à les entrer séparément pour chaque contact.
 
 >[!TIP]
 >
->Les champs &quot;first_name&quot; et &quot;company&quot; sont les seuls champs qui se pencheront à la fois sur les actions Sales Insight et sur Salesforce. Cela signifie que si un contact n’existe pas dans la variable [application web](https://toutapp.com/login), nous recherchons dans Salesforce si nous pouvons trouver un enregistrement de contact/piste avec une adresse électronique correspondante. Nous utilisons ensuite les informations de cet enregistrement pour remplir le champ.
+>Les champs &quot;first_name&quot; et &quot;company&quot; sont les seuls champs qui se pencheront à la fois sur les actions Sales Insight et sur Salesforce. Cela signifie que si un contact n’existe pas dans l’ [application web](https://toutapp.com/login), nous recherchons dans Salesforce si nous pouvons trouver un enregistrement de contact/piste avec une adresse électronique correspondante. Nous utilisons ensuite les informations de cet enregistrement pour remplir le champ.
 
 ## Insertion d’un champ dynamique dans un modèle {#insert-a-dynamic-field-into-a-template}
 
@@ -40,7 +40,7 @@ Lors de l’ajout de champs dynamiques à vos modèles d’email, vous pouvez aj
 
 Pour ce faire, ajoutez &quot;|&quot; après le libellé du champ dynamique, puis ajoutez &quot;default:&quot; (les deux sans guillemets). Ajoutez ensuite la valeur à laquelle le champ doit se résoudre (entre guillemets) si aucune autre valeur n’est trouvée.
 
-**Exemple:**
+**Exemple :**
 
 `{{first name | default: "loyal customer"}}`
 
@@ -48,9 +48,9 @@ Pour ce faire, ajoutez &quot;|&quot; après le libellé du champ dynamique, puis
 
 ## Glossaire des champs dynamiques {#dynamic-fields-glossary}
 
-Lors de la création d’un modèle dans les actions Sales Insight, il est toujours recommandé d’intégrer des champs dynamiques à l’aide de la variable **Insérer un champ dynamique** bouton .
+Lors de la création d’un modèle dans les actions Sales Insight, il est toujours recommandé d’intégrer les champs dynamiques à l’aide du bouton **Insérer un champ dynamique** .
 
-Cet outil est utilisé pour `auto-personalize your email` et vous permettent de gagner du temps en `pulling information from the People page`.
+Cet outil est utilisé pour `auto-personalize your email` et vous permet de gagner du temps en `pulling information from the People page`.
 
 | Champ dynamique | Exemple de ce qui apparaît dans votre email |
 |---|---|
@@ -65,14 +65,14 @@ Cet outil est utilisé pour `auto-personalize your email` et vous permettent de 
 | `{{title}}` | Rédacteur technique senior |
 | `{{work_website}}` | https://www.adobe.com |
 
-**Remarques :**:
+**Choses à noter** :
 
 * Si les informations d’un contact sont incorrectement saisies ou sont manquantes dans la page Personnes, elles ne s’affichent pas correctement dans votre modèle.
-* La différence entre `{{company}}` et `{{company_friendly}}` est que `{{company_friendly}}` Supprimera tout titre formel, tel que Inc., LLC, etc., du nom de la société de votre contact.
+* La différence entre `{{company}}` et `{{company_friendly}}` réside dans le fait que `{{company_friendly}}` supprimera tout titre formel, tel que Inc., LLC., etc., du nom de la société de votre contact.
 * Lorsque vous utilisez `{{company_friendly}}`, veillez à séparer Inc. ou Co. avec une virgule dans les détails du contact. C’est ainsi que les actions Sales Insight savent quoi supprimer lors de l’extraction de la valeur.
-* Vous pouvez personnaliser vos modèles d’email avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles d’email.
-* Le système ajoute automatiquement la signature de l’utilisateur à chaque e-mail envoyé. Si l’utilisateur utilise un modèle avec la variable `{{my_signature}}` dynamique, le système renseigne la signature dans laquelle la propriété `{{my_signature}}` champ dynamique a été placé. Il n&#39;est ajouté que pour éviter la duplication. Le système va gérer `{{team_unsubscribe}}` de la même manière que lorsque le paramètre de désabonnement global d’append est activé.
+* Nous vous permettons de personnaliser vos modèles d&#39;email avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles d’email.
+* Le système ajoute automatiquement la signature de l’utilisateur à chaque e-mail envoyé. Si l’utilisateur utilise un modèle avec le champ dynamique `{{my_signature}}`, le système renseigne la signature où le champ dynamique `{{my_signature}}` a été placé. Il n&#39;est ajouté que pour éviter la duplication. Le système gère `{{team_unsubscribe}}` de la même manière que lorsque le paramètre de désabonnement global de l’ajout est activé.
 
 >[!TIP]
 >
->Si vos champs dynamiques ne sont pas renseignés, extrayez [cet article](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
+>Si vos champs dynamiques ne sont pas renseignés, consultez [cet article](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).

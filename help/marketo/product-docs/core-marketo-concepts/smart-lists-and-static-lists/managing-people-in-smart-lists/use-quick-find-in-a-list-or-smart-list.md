@@ -19,13 +19,13 @@ Recherchez une personne dans les résultats d’une liste ou d’une liste dynam
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez la liste dynamique à rechercher, puis cliquez sur le bouton **[!UICONTROL Personnes]** .
+1. Sélectionnez la liste dynamique à rechercher, puis cliquez sur l’onglet **[!UICONTROL Personnes]** .
 
    ![](assets/smartlistpeople.png)
 
 ## Recherche de personnes à l’aide d’informations personnelles {#find-people-using-personal-info}
 
-1. Dans le **[!UICONTROL Recherche rapide]** dans la partie inférieure de l’écran, saisissez un mot-clé (**nom personnel**, **adresse email**, ou **job title**).
+1. Dans la zone **[!UICONTROL Recherche rapide]** située en bas de l’écran, saisissez un mot-clé (**nom personnel**, **adresse électronique** ou **titre de la tâche**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Recherchez une personne dans les résultats d’une liste ou d’une liste dynam
 
 ## Recherche de personnes à l’aide d’un nom d’entreprise {#find-people-using-a-company-name}
 
-1. Pour rechercher une société, saisissez `[company]` dans la zone Recherche rapide , suivie d’une partie du nom de l’entreprise que vous recherchez.
+1. Pour rechercher une société, saisissez `[company]` dans la zone Recherche rapide, suivie d’une partie du nom de la société que vous recherchez.
 
    ![](assets/supersmartlistsearch.jpg)
 

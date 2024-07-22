@@ -1,10 +1,10 @@
 ---
 description: Présentation de la carte de l’engagement - Documents Marketo - Documentation du produit
 title: Présentation de la carte des engagements
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,23 @@ La carte de l’engagement vous permet de visualiser intuitivement vos campagnes
 
 ## Accès à la carte de l’engagement {#accessing-engagement-map}
 
-Accédez à une campagne existante, puis cliquez sur le bouton **Carte d’engagement** bouton .
+Accédez à une campagne existante et cliquez sur le bouton **Carte de l’engagement** .
 
 ![](assets/engagement-map-overview-2.png)
 
-Deux onglets s’affichent une fois dans la carte Engagement : [Carte d’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+Une fois dans la carte Engagement, deux onglets s’affichent : [Carte de l’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} et [Paramètres](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Descriptions des cartes {#card-descriptions}
 
-**Triggers**: dans les campagnes qui incluent des déclencheurs, la carte comporte une carte &quot;Présentation du déclencheur&quot;. Cliquer sur cette option affiche une carte pour chaque déclencheur, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
+**Triggers** : dans les campagnes qui incluent des déclencheurs, la carte comportera une carte &quot;Présentation du déclencheur&quot;. Cliquer sur cette option affiche une carte pour chaque déclencheur, ainsi qu’un panneau déroulant contenant des informations supplémentaires.
 
-**Filtres**: dans les campagnes qui incluent des filtres, la carte contiendra une carte Aperçu du filtre. Si vous cliquez dessus, un panneau de sortie s’affiche avec des informations supplémentaires sur chaque filtre.
+**Filtres** : dans les campagnes qui incluent des filtres, la carte contiendra une carte Aperçu du filtre. Si vous cliquez dessus, un panneau de sortie s’affiche avec des informations supplémentaires sur chaque filtre.
 
-**Étapes de flux**: chaque campagne comprend une carte pour chaque étape de flux. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
+**Étapes du flux** : chaque campagne comprend une carte pour chaque étape du flux. Si vous cliquez dessus, un panneau déroulant contenant des informations supplémentaires s’affiche.
 
-**Choix**: si une étape de flux comprend un ou plusieurs choix, un clic sur la carte de flux affiche une carte pour chaque choix, ainsi qu’un panneau de sortie avec des informations supplémentaires.
+**Choix** : si une étape de flux comprend un ou plusieurs choix, un clic sur la carte de flux affiche une carte pour chaque choix, ainsi qu’un panneau de sortie avec des informations supplémentaires.
 
 ## Campagnes imbriquées {#nested-campaigns}
 
@@ -71,11 +71,11 @@ Le volet de navigation supérieur comprend les fonctionnalités suivantes :
 
 ## Questions fréquentes {#faq}
 
-**Dois-je reconstruire toutes mes campagnes dans la carte de l’engagement ?**
+**Dois-je recréer toutes mes campagnes dans la carte de l’engagement ?**
 
 Nombre La carte des engagements présente une compatibilité descendante complète. Cliquez sur un bouton pour afficher chacune de vos campagnes existantes dans l’interface de la carte de l’engagement visuelle.
 
-**Avoir une carte de l’engagement en Marketo Engage signifie-t-il que je n’aurai plus accès à la structure de dossiers et devront réapprendre à créer une campagne dynamique ?**
+**Le fait d’avoir une carte de l’engagement en Marketo Engage signifie-t-il que je perdrai l’accès à la structure de dossiers et qu’il devra réapprendre à créer une campagne dynamique ?**
 
 Nombre Ce qui est génial avec la carte de l’engagement, c’est qu’elle vous donne le meilleur des deux mondes ; elle est complémentaire à la façon dont vous créez des campagnes actuellement. Tous les utilisateurs disposeront toujours d’un ensemble de fonctionnalités puissantes, désormais complétées par des visuels clairs.
 
@@ -83,7 +83,7 @@ Nombre Ce qui est génial avec la carte de l’engagement, c’est qu’elle vou
 
 Nombre Tous les utilisateurs Marketo Engage existants ou nouveaux sous tous les abonnements auront accès à cette fonctionnalité gratuite.
 
-**En tant qu’administrateur Marketo Engage, suis-je responsable de l’activation/la désactivation de la carte de l’engagement ?**
+**En tant qu’administrateur de Marketo Engage, suis-je responsable de l’activation/désactivation de la carte de l’engagement ?**
 
 Nombre La carte de l’engagement sera disponible pour tous les utilisateurs dans leurs instances. Vous ne pourrez pas l’activer/désactiver pour certains utilisateurs, espaces de travail, etc.
 
@@ -99,5 +99,5 @@ Trois éléments clés distinguent la carte de l’engagement :
 
 >[!MORELIKETHIS]
 >
->* [Onglet Carte d’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [Onglet Carte de l’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
 >* [Onglet Paramètres](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

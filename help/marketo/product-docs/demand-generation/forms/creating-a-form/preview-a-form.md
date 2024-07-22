@@ -27,15 +27,15 @@ Avant de publier, vous pouvez afficher le formulaire dans cet aperçu de formula
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. L’éditeur de formulaire s’ouvre alors dans **aperçu** mode .
+1. L’éditeur de formulaire s’ouvre en mode **aperçu**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Cliquez sur **Modifier le brouillon** pour revenir à **edit** mode .
+1. Cliquez sur **Modifier le brouillon** pour revenir au mode **Modifier**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Revenir facilement en arrière en cliquant sur **Aperçu du brouillon**.
+1. Revenez facilement en arrière en cliquant sur **Aperçu préliminaire**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

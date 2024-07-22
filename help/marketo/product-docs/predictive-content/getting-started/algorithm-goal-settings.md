@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 30%
+ht-degree: 32%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 30%
 
 Les paramètres d’objectif de l’algorithme vous permettent de définir l’objectif final de l’algorithme d’intelligence artificielle du contenu prédictif pour l’aligner sur les objectifs de votre entreprise.
 
-1. Dans Contenu prédictif, cliquez sur le nom de la connexion et sélectionnez **Paramètres Contenu**.
+1. Dans Contenu prédictif, cliquez sur le nom de la connexion et sélectionnez **Paramètres de contenu**.
 
    ![](assets/1.png)
 
-1. Sous Paramètres du contenu, sélectionnez **Algorithme**.
+1. Sous Paramètres de contenu, sélectionnez **Algorithme**.
 
    ![](assets/two-1.png)
 
@@ -31,6 +31,6 @@ Les paramètres d’objectif de l’algorithme vous permettent de définir l’o
    |---|---|
    | **Conversions** | Affichez le contenu le plus susceptible de donner à la personne qui le consulte l’envie de soumettre un formulaire |
 
-1. Cliquez sur **Enregistrer** une fois terminé.
+1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/four.png)

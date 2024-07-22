@@ -20,23 +20,23 @@ La Présence locale vous offre la possibilité de faire passer votre appel à pa
 
    ![](assets/local-presence-1.png)
 
-1. Sélectionnez la **Utilisation de la présence locale** .
+1. Cochez la case **Utiliser la présence locale** .
 
    ![](assets/local-presence-2.png)
 
 ## Questions fréquentes {#faq}
 
-**Mon contact peut-il me rappeler à ce nouveau numéro ?**
+**Mon contact peut-il me rappeler ce nouveau numéro ?**
 
 Non, la présence locale ne fonctionne que pour les appels sortants. L’appelant ne peut pas vous rappeler à ce &quot;nouveau&quot; numéro.
 
-**Puis-je appeler n&#39;importe où avec la présence locale ?**
+**Puis-je appeler n’importe où avec présence locale ?**
 
 Nous proposons toutes les fonctionnalités de téléphone de vente pour les appels aux États-Unis uniquement.
 
 **Le numéro de présence local est-il toujours le même lorsque j&#39;appelle un indicatif régional ?**
 
-Il est probable que le numéro soit toujours le même lorsque vous appelez dans un indicatif régional.
+Le numéro sera probablement toujours le même lorsque vous appelez dans un indicatif régional.
 
 **Mon numéro entier change-t-il ou seulement l&#39;indicatif régional lors de l&#39;utilisation de la présence locale ?**
 

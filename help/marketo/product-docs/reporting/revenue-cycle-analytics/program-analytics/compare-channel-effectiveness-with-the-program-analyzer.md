@@ -17,33 +17,33 @@ Utilisez l’analyseur de programme pour comparer les coûts des canaux, l’acq
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Créer un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Cliquez sur **Analytics** in **Mon Marketo**.
+1. Cliquez sur **Analytics** dans **My Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Sélectionnez votre **Analyseur de programme**.
+1. Sélectionnez votre **analyseur de programme**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Modifiez la vue en **Par canal**.
+1. Remplacez la vue par **Par canal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Utilisez la variable **Axe X** pour sélectionner une mesure pour l’axe horizontal. Commençons par **Coût du programme**.
+1. Utilisez la liste déroulante **Axe X** pour choisir une mesure pour l’axe horizontal. Commençons par **Coût du programme**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Utilisez la liste déroulante Axe Y pour sélectionner une mesure pour l’axe vertical. On y va. **Pipeline (FT) créé**.
+1. Utilisez la liste déroulante Axe Y pour sélectionner une mesure pour l’axe vertical. Ici, nous allons utiliser le pipeline **(FT) créé**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la variable [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >La plupart des mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Utilisez la variable **Axe Y** menu déroulant à choisir **(MT) Pipeline créé**.
+1. Utilisez la liste déroulante **Axe Y** pour choisir le pipeline **(MT) créé**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -51,7 +51,7 @@ Utilisez l’analyseur de programme pour comparer les coûts des canaux, l’acq
 
    Ajoutons maintenant deux dimensions supplémentaires !
 
-1. Utilisez la variable **Taille de la bulle** pour sélectionner une autre mesure, comme **Nouveaux noms**.
+1. Utilisez la liste déroulante **Taille de bulle** pour sélectionner une mesure supplémentaire, telle que **Noms nouveaux**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -71,7 +71,7 @@ Utilisez l’analyseur de programme pour comparer les coûts des canaux, l’acq
 
    À partir des couleurs, nous apprenons que le canal Tradeshow, la bulle la plus verte, a influencé les plus grandes recettes gagnées, comme mesuré par l’attribution Première touche.
 
-1. Maintenant, si nous remplaçons la mesure Couleur par **(MT) Recettes gagnées**, nous voyons que le canal de publicité en ligne, désormais le plus vert, a influencé plus de recettes au fil du temps que les canaux de webinaire et de commerce.
+1. Maintenant, si nous remplaçons la mesure des couleurs par **(MT) Recettes gagnantes**, nous constatons que le canal Advertising en ligne, désormais le plus vert, a influencé plus de recettes au fil du temps que les canaux Webinaire et Tradeshow.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -84,4 +84,4 @@ Dans notre exemple, nous voyons que le canal Tradeshow est à la fois le plus ch
 >[!MORELIKETHIS]
 >
 >* [Explorer les détails du programme et du canal avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Comparaison de l’efficacité du programme avec l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Comparer l’efficacité du programme à l’analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

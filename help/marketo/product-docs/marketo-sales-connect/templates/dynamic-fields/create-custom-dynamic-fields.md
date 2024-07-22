@@ -6,7 +6,7 @@ exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Il existe deux manières de créer des champs dynamiques personnalisés.
 
 1. Créez une feuille de calcul CSV avec vos champs personnalisés dans leur propre colonne.
 
-1. Suivez la [processus de chargement CSV normal](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md), arrêt sur l’écran de mappage des champs.
+1. Suivez le [processus de chargement CSV normal](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md), en s’arrêtant sur l’écran de mappage des champs.
 
-1. Au lieu de l’un des champs prédéfinis, choisissez **Ajouter un nouveau champ personnalisé** dans la liste déroulante.
+1. Au lieu d’un des champs de paramètre prédéfini, sélectionnez **Ajouter un nouveau champ personnalisé** dans la liste déroulante.
 
-1. Saisissez le nom de champ de votre choix, puis cliquez sur **OK**.
+1. Saisissez le nom de champ souhaité et cliquez sur **OK**.
 
 1. Terminez le transfert de votre fichier CSV. Vos contacts recevront le champ personnalisé ajouté.
 
@@ -45,8 +45,8 @@ Il existe deux manières de créer des champs dynamiques personnalisés.
 
 Une fois vos champs personnalisés stockés à l’aide des méthodes ci-dessus, vous pouvez les référencer dans vos modèles.
 
-1. [Créer un modèle](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) et cliquez sur le bouton **Champs dynamiques** comme vous le feriez normalement.
+1. [Créez un modèle](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) et cliquez sur le bouton **Champs dynamiques** comme vous le feriez normalement.
 
-1. Sélectionner **Champs personnalisés** dans la liste déroulante qui s’affiche.
+1. Sélectionnez **Champs personnalisés** dans la liste déroulante qui s’affiche.
 
 1. Vos champs personnalisés préstockés s’affichent et vous pouvez en sélectionner un à remplir dans votre modèle.

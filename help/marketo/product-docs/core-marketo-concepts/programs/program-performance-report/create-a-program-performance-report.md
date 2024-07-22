@@ -6,7 +6,7 @@ exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '126'
 ht-degree: 6%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 6%
 
 Consultez les statistiques détaillées sur vos programmes avec ce rapport.
 
-1. [Créer un rapport dans un programme](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
-1. Cliquez sur le bouton **[!UICONTROL Rapport]** .
+1. [Créez un rapport dans un programme](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} et sélectionnez le **[!UICONTROL Type de rapport]** [Performance du programme](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. Cliquez sur l’onglet **[!UICONTROL Rapport]** .
 1. Vous êtes là ! Consultez votre rapport pour découvrir comment vos programmes fonctionnent.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Pour trouver les programmes ayant le plus faible *Coût par succès*, par exemple : [trier votre rapport ;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} sur cette colonne et choisissez **[!UICONTROL Tri croissant]**.
+>Pour trouver les programmes dont le *coût par succès* est le plus faible, par exemple, [triez votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} sur cette colonne et sélectionnez **[!UICONTROL Tri croissant]**.
 
 Les colonnes d’un rapport Performance de programme incluent :
 

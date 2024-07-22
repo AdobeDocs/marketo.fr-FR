@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359667
-description: Application d’un masquage des entrées à un champ d’un formulaire - Documents Marketo - Documentation du produit
+description: Application du masquage des entrées à un champ d’un formulaire - Documents Marketo - Documentation du produit
 title: Application d’un masquage des entrées à un champ d’un formulaire
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
@@ -23,15 +23,15 @@ Vous pouvez empêcher les entrées de votre visiteur à l’aide d’un masque d
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Sélectionnez votre champ et assurez-vous que la variable **Type de champ** est défini sur **Texte**.
+1. Sélectionnez votre champ et assurez-vous que le **Type de champ** est défini sur **Texte**.
 
    >[!NOTE]
    >
-   >Le masquage des entrées ne fonctionne qu’avec **Types de champ de texte**.
+   >Le masquage des entrées fonctionne uniquement avec les **types de champ de texte**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Cliquez sur le bouton **Entrée du masque** lien.
+1. Cliquez sur le lien **Entrée de masque** .
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 

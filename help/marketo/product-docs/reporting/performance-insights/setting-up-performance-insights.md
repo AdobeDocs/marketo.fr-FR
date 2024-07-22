@@ -6,7 +6,7 @@ exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 3%
 
 ---
@@ -17,17 +17,17 @@ Suivez les étapes ci-dessous pour configurer MPI.
 
 ## Configuration de l’opportunité {#opportunity-setup}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Analyse du cycle des recettes**.
+1. Cliquez sur **Revenue Cycle Analytics**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si vous ne disposez pas d’une autorité de certification, vous devez sélectionner **Analyse de programme** pour l’étape 2.
+   >Si vous ne disposez pas d’une autorité de certification, vous devrez sélectionner **Analyse de programme** pour l’étape 2.
 
 1. Sous Attribution, cliquez sur **Modifier**.
 
@@ -64,15 +64,15 @@ Mettre à jour les coûts du programme pendant au moins 12 mois. Vous pouvez le 
 
    ![](assets/select-program.png)
 
-1. Cliquez sur le bouton **Configuration** .
+1. Cliquez sur l’onglet **Setup** .
 
    ![](assets/setup-tab.png)
 
-1. Faire glisser **Coût de la période** sur la zone de travail.
+1. Faites glisser **Coût de la période** sur la zone de travail.
 
    ![](assets/period-cost.png)
 
-1. Définissez le mois du programme pour il y a au moins 12 mois et cliquez sur **Ok**.
+1. Définissez le Mois du programme pour il y a au moins 12 mois et cliquez sur **Ok**.
 
    ![](assets/set-period.png)
 
@@ -82,7 +82,7 @@ Mettre à jour les coûts du programme pendant au moins 12 mois. Vous pouvez le 
 
 Ensuite, passez en revue le comportement des analyses pour indiquer si un canal particulier doit être inclus dans les analyses. Définissez le comportement d’Analytics (normal, inclusif, opérationnel).
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/admin.png)
 
@@ -90,7 +90,7 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 
    ![](assets/tags.png)
 
-1. Cliquez sur le bouton **+** pour développer la liste Canal .
+1. Cliquez sur **+** pour développer la liste des canaux.
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 
    ![](assets/channel-click.png)
 
-1. Cliquez sur le bouton **Comportement d’Analytics** et sélectionnez le comportement souhaité.
+1. Cliquez sur la liste déroulante **Comportement Analytics** et sélectionnez le comportement souhaité.
 
    ![](assets/edit-channel.png)
 

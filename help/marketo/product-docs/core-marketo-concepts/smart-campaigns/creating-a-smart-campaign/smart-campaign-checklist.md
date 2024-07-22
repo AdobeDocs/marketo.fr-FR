@@ -7,7 +7,7 @@ feature: Smart Campaigns
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Dans votre campagne dynamique, cliquez sur **[!UICONTROL Liste dynamique]**. Dé
 
 >[!NOTE]
 >
->Utilisation **[!UICONTROL Membre de la liste dynamique]** peut contenir des erreurs dans cette autre liste. Vérifiez là aussi.
+>L’utilisation de **[!UICONTROL Member of Smart List]** peut entraîner des erreurs dans cette autre liste. Vérifiez là aussi.
 
 ## Récupération des erreurs de flux {#get-rid-of-flow-errors}
 
@@ -43,24 +43,24 @@ Dans votre campagne dynamique, cliquez sur **[!UICONTROL Flux]**. Débarrassez-v
 
 ## Onglet Planifier {#review-the-schedule-tab}
 
-Dans le **[!UICONTROL Planification]** onglet, vérifier **[!UICONTROL État de liste dynamique]** pour toutes les erreurs dans la campagne dynamique qui doivent être corrigées.
+Dans l’onglet **[!UICONTROL Planning]** , recherchez dans l’onglet **[!UICONTROL État de liste dynamique]** les erreurs dans la campagne dynamique qui doivent être corrigées.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Vérification de la limite des restrictions de personne {#check-person-restrictions-limit}
 
-Dans le **[!UICONTROL Planification]** , assurez-vous que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
+Dans l&#39;onglet **[!UICONTROL Planning]** , assurez-vous que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Si nécessaire, vous pouvez [Remplacer les restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Si nécessaire, vous pouvez [remplacer les restrictions sur les personnes dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
->**Rappel**
+>**Reminder**
 >
->Si votre campagne dynamique échoue toujours, découvrez comment [comprendre les notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) pour comprendre ce qui s&#39;est mal passé et comment le réparer.
+>Si votre campagne dynamique échoue toujours, apprenez à [comprendre les notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) pour comprendre ce qui s’est mal passé et comment le corriger.
 
 Très bon travail ! Conservez cette liste de contrôle à portée de main avant d’exécuter une campagne dynamique.

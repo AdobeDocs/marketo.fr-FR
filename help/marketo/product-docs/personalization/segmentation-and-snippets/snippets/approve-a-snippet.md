@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Ajout de contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Ajouter du contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Un fragment de code doit être approuvé avant utilisation.
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Cliquez sur **Fragment de code**. Sous **Actions de fragment de code**, cliquez sur **Approuver**.
+1. Cliquez sur votre **extrait de code**. Sous **Actions de fragment de code**, cliquez sur **Approuver**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -31,4 +31,4 @@ C&#39;est tout ! L’état de votre extrait de code passe de Brouillon à Approu
 
 >[!MORELIKETHIS]
 >
->[Approbation d’un fragment de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Approuver un fragment de code sans brouillon](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

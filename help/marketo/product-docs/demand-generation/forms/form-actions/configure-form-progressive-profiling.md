@@ -6,7 +6,7 @@ exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulair
 
 >[!NOTE]
 >
->Pour que cette fonction fonctionne correctement, assurez-vous que l’option Préremplir le formulaire est activée pour les champs visibles, et [disabled](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
+>Pour que cette fonction fonctionne correctement, assurez-vous que l’option Form Pre-Fill (Préremplissage de formulaire) est activée pour les champs visibles et que l’option [disabled](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
 
 1. Accédez à **Activités marketing**.
 
@@ -31,11 +31,11 @@ Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulair
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Définir **Profilage progressif** to **Activé**.
+1. Définissez **Profilage progressif** sur **Activé**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Ok, maintenant, on le configure. Accédez à **Détails du champ**.
+1. Ok, maintenant, on le configure. Accédez à **Field Details**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,9 +49,9 @@ Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulair
 
    >[!NOTE]
    >
-   >Les champs en dehors de la fonction **Profilage progressif** s’affiche toujours dans le formulaire, même s’ils sont remplis.
+   >Les champs situés en dehors de la zone **Profilage progressif** s’affichent toujours dans le formulaire, même s’ils sont remplis.
 
-1. Sélectionnez la **Profilage progressif** de la boîte.
+1. Sélectionnez la zone **Profilage progressif** .
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -59,13 +59,13 @@ Les formulaires courts sont bons ! Lorsqu’une personne revient à un formulair
    >
    >Soyez prudent lorsque vous utilisez les champs requis dans le Profilage progressif. Ces champs peuvent toujours être laissés vides si le visiteur saisit une nouvelle adresse électronique (qui créerait une nouvelle personne) après avoir précédemment soumis des données pour les autres champs, car ils seront supprimés dans le dernier formulaire.
 
-1. Maintenant, choisissez combien de champs vierges vous souhaitez que les utilisateurs voient dans le **Profilage progressif** à tout moment.
+1. Sélectionnez maintenant le nombre de champs vierges à afficher dans la zone **Profilage progressif** à un moment donné.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez **Nombre** **de** **Vide** **Champs** comme 1, le visiteur voit les éléments suivants la première fois qu’il voit ce formulaire :
+   >Si vous choisissez **Number** **of** **Blank** **Fields** comme 1, le visiteur verra la première fois qu’il verra ce formulaire :
    >
    >* Prénom (vide)
    >* Nom (vide)

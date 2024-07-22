@@ -18,15 +18,15 @@ ht-degree: 0%
 
 Une fois Sales Connect acheté, une nouvelle page d’intégration s’affiche dans votre instance Marketo. Utilisez cette page pour inviter votre premier utilisateur et configurer son instance Sales Connect.
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Cliquez sur **Connect commercial**.
+1. Cliquez sur **Sales Connect**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Sélectionnez dans la liste des administrateurs Marketo à inviter et cliquez sur **Envoyer une invitation**.
+1. Sélectionnez dans la liste des administrateurs Marketo à inviter et cliquez sur **Envoyer l’invitation**.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 
@@ -34,4 +34,4 @@ L’utilisateur recevra un e-mail lui indiquant les étapes nécessaires pour ac
 
 >[!NOTE]
 >
->Les utilisateurs supplémentaires **not** être ajouté par le biais de Marketo et sera ajouté à la place via la page de gestion des utilisateurs de Sales Connect. [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) pour en savoir plus sur l’ajout d’utilisateurs supplémentaires.
+>D’autres utilisateurs seront **not** ajoutés via Marketo et seront à la place ajoutés via la page de gestion des utilisateurs de Sales Connect. [Cliquez ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) pour en savoir plus sur l’ajout d’utilisateurs supplémentaires.

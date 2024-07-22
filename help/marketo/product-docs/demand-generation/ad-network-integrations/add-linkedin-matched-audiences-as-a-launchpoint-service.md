@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint de votre **Administration** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, pour éviter l’interruption de service. Pour plus d’informations, voir la section [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint de votre menu **Admin** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, afin d’éviter toute interruption de service. Pour plus d’informations, consultez la [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,19 +23,19 @@ ht-degree: 1%
 
 Connectez votre compte de Marketo Engage à des audiences mappées LinkedIn pour utiliser une liste statique Marketo ou une liste dynamique comme segment d’audience LinkedIn.
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/admin.png)
 
-1. Sélectionner **[!UICONTROL LaunchPoint]**.
+1. Sélectionnez **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Sélectionner **[!UICONTROL Nouveau]** et **[!UICONTROL Nouveau service]**.
+1. Sélectionnez **[!UICONTROL New]** et **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Saisissez un **[!UICONTROL Nom d’affichage]** et choisissez **[!UICONTROL Audiences mappées linkedIn]**. Cliquez sur **[!UICONTROL Créer]**.
+1. Saisissez un **[!UICONTROL nom d’affichage]** et choisissez **[!UICONTROL Audiences mappées LinkedIn]**. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -45,7 +45,7 @@ Connectez votre compte de Marketo Engage à des audiences mappées LinkedIn pour
 
    >[!CAUTION]
    >
-   >Pour que Marketo puisse envoyer des audiences sur plusieurs comptes de publicité LinkedIn, l’utilisateur LinkedIn que vous autorisez aux étapes suivantes doit avoir accès à *all* de ces comptes publicitaires dans leur Gestionnaire de campagnes.
+   >Pour que Marketo puisse envoyer des audiences sur plusieurs comptes publicitaires LinkedIn, l’utilisateur LinkedIn que vous autorisez aux étapes suivantes doit avoir accès à *tous* de ces comptes publicitaires dans son gestionnaire de campagnes.
 
 1. LinkedIn s’ouvre dans un nouvel onglet. À partir de là, connectez-vous à votre compte LinkedIn.
 

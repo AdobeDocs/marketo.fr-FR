@@ -19,8 +19,8 @@ déterminer le nombre de personnes qui ont rempli les formulaires dans vos landi
 >
 >Si vous constatez une différence de nombre entre votre rapport de performances Liste dynamique et de Page d’entrée, c’est probablement parce que les listes dynamiques ne filtrent que les données sur les personnes, alors que les rapports de performances de page d’entrée incluent les réseaux sociaux (Facebook, publicités Google, etc.) et les activités anonymes, en plus des données Personnes.
 
-1. [Créer un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez Performances de la page d’entrée. [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Définition de la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet Rapport .
+1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le [ type de rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) Performances de la page d’entrée.
+1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet Rapport.
 1. C&#39;est tout ! Consultez votre rapport pour évaluer les performances de vos landing pages.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
@@ -29,9 +29,9 @@ déterminer le nombre de personnes qui ont rempli les formulaires dans vos landi
 
    >[!TIP]
    >
-   >Recherchez les pages présentant le pourcentage de conversion le plus élevé. [Tri du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) dans cette colonne, puis sélectionnez Tri descendant.
+   >Recherchez les pages présentant le pourcentage de conversion le plus élevé. [Triez votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) sur cette colonne et sélectionnez Tri descendant.
 
-   L’icône AB du rapport indique que les statistiques sont le total de toutes les pages de ce rapport. [groupe de test de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   L’icône AB du rapport indique que les statistiques sont le total de toutes les pages de ce [groupe de test de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Faites défiler vers la droite pour voir le nombre de visites provenant de diverses plateformes de médias sociaux.
 
@@ -39,8 +39,8 @@ déterminer le nombre de personnes qui ont rempli les formulaires dans vos landi
 
 >[!NOTE]
 >
->Activité générée par la variable [bouton social avec analytics](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) n’est pas inclus ici. Pour obtenir ces statistiques, voir la section [Tableau de bord des réseaux sociaux](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+>L’activité générée par le bouton [social avec analytics](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) n’est pas incluse ici. Pour obtenir ces statistiques, consultez le [tableau de bord Social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >
->[Filtrage du rapport de performance de votre landing page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) par des ressources locales ou globales.
+>[Filtrez le rapport de performances de votre page d’entrée ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) par ressources locales ou globales.

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359953
-description: Personnes qui disposent d’un contenu épuisé - Documents Marketo - Documentation du produit
+description: Personnes qui ont du contenu épuisé - Documents Marketo - Documentation du produit
 title: Personnes qui ont extrait du contenu
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
@@ -17,7 +17,7 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
 
 ## Filtre Programme des membres de l’engagement {#member-of-engagement-program-filter}
 
-1. Créez une liste dynamique, puis recherchez et faites glisser dans la **Programme des membres de l’engagement** filtre.
+1. Créez une nouvelle liste dynamique, puis recherchez et faites glisser le filtre **Programme membre de l’engagement**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -29,7 +29,7 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Définir **Contenu extrait** to **true**.
+1. Définissez **Exhausted Content** sur **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -41,11 +41,11 @@ Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à la **Membres** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Membres** .
 
    ![](assets/memberstab.jpg)
 
-1. Notez que la colonne intitulée **Contenu extrait**.
+1. Notez la colonne intitulée **Contenu extrait**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Salesforce requiert (au minimum) un nom de famille et un nom de société pour ses Leads et contacts. Les enregistrements incomplets ne seront pas synchronisés avec Salesforce. Si vous souhaitez synchroniser les enregistrements partiels, vous devez définir les valeurs par défaut que Marketo doit utiliser avec Salesforce.
 
-1. Accédez à **[!UICONTROL Administration]** et cliquez sur **[!DNL Salesforce]**.
+1. Accédez à **[!UICONTROL Admin]** et cliquez sur **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
@@ -23,7 +23,7 @@ Salesforce requiert (au minimum) un nom de famille et un nom de société pour s
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Saisissez un **[!UICONTROL Nom de la personne par défaut]** et un **[!UICONTROL Société de personnes par défaut]**, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un **[!UICONTROL nom de personne par défaut]** et une **[!UICONTROL société par défaut]**, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/sync-options-hands.png)
 

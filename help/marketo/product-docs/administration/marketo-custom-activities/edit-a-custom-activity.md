@@ -7,7 +7,7 @@ feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Vous devez apporter des modifications à une activité personnalisée que vous avez déjà créée ? Voici comment.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 
@@ -35,7 +35,7 @@ Vous devez apporter des modifications à une activité personnalisée que vous a
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Saisissez vos nouvelles informations, puis cliquez sur **[!UICONTROL Envoyer]**.
+1. Saisissez vos nouvelles informations et cliquez sur **[!UICONTROL Submit]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 

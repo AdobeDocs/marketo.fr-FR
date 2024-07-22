@@ -46,7 +46,7 @@ Si vous essayez d’envoyer des personnes vers Facebook sans accepter les condit
 
 ## Nettoyage des campagnes à déclencheurs inexploitées {#idle-trigger-campaign-cleanup}
 
-Désactivez les campagnes dynamiques déclenchées qui n’obtiennent plus aucune activité. En savoir plus sur  [nettoyage automatique de la campagne de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Désactivez les campagnes dynamiques déclenchées qui n’obtiennent plus aucune activité. En savoir plus sur le [nettoyage de campagne de déclencheur automatique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ Vous en serez informé lorsque vous atteindrez votre quota quotidien. Le quota e
 
 >[!NOTE]
 >
->Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation destinée aux développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation développeur](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

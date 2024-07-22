@@ -21,7 +21,7 @@ Les résultats vous montrent tous vos comptes connus, ventilés par note. A est 
 
 ![](assets/results.png)
 
-Bien que cela soit facultatif, nous vous recommandons de cocher la case Convertir automatiquement , car cela vous fera gagner une tonne de temps. Cependant, si vous souhaitez consulter chaque compte et [les ajouter manuellement](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), laissez simplement la case décochée.
+Bien que cela soit facultatif, nous vous recommandons de cocher la case Convertir automatiquement , car cela vous fera gagner une tonne de temps. Cependant, si vous souhaitez parcourir chaque compte et [les ajouter manuellement](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), laissez simplement la case désélectionnée.
 
 <table> 
  <tbody> 
@@ -158,13 +158,13 @@ Cliquez sur la liste déroulante Ajouter un indicateur ICP pour insérer des ind
 
 ![](assets/add-icp.png)
 
-Cochez la case Exporter pour afficher l’indicateur ICP sur la page Détails du compte nommé , ainsi que pour utiliser l’indicateur ICP sélectionné comme contraintes dans [filtres de compte nommés](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Cochez la case Exporter pour afficher l’indicateur ICP sur la page Détails du compte nommé et utiliser l’indicateur ICP sélectionné comme contraintes dans les [filtres de compte nommé](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Les indicateurs ICP sont inclus en tant que contraintes dans **Membre du compte nommé** Filtres et Triggers.
+>Les indicateurs ICP sont inclus en tant que contraintes dans les filtres et déclencheurs **Member of Named Account** .
 
 La pondération de l’indicateur détermine le niveau d’importance que chaque indicateur reçoit dans votre modèle.
 
@@ -174,6 +174,6 @@ Cliquez sur Actualiser le modèle pour que ces modifications soient prises en co
 
 ![](assets/refresh-button.png)
 
-Lorsque vous avez terminé d’ajuster votre modèle (après l’avoir actualisé), revenez à l’onglet Résultats du modèle et cliquez sur **Enregistrer et appliquer des classements**.
+Une fois le modèle paramétré (après l’avoir actualisé), revenez à l’onglet Résultats du modèle et cliquez sur **Enregistrer et appliquer des classements**.
 
 ![](assets/ranks.png)

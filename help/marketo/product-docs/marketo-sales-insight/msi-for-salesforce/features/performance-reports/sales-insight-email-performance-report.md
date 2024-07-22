@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -21,15 +21,15 @@ Affichez les performances des emails envoyés par le biais de Salesforce, Micros
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Cliquez sur **Performances des emails de Sales Insight**.
+1. Cliquez sur **Sales Insight Email Performance**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Cliquez sur le bouton **Configuration** et sélectionnez les valeurs souhaitées.
+1. Cliquez sur l’onglet **Setup** et sélectionnez les valeurs de votre choix.
 
    ![](assets/three.png)
 
-1. Cliquez sur le bouton **Rapport** .
+1. Cliquez sur l’onglet **Rapport** .
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,11 +47,11 @@ Affichez les performances des emails envoyés par le biais de Salesforce, Micros
 
 Vous pouvez afficher ce rapport groupé par représentant commercial en modifiant vos paramètres.
 
-1. Cliquez sur **Configuration**. Double-cliquez **Email**.
+1. Cliquez sur **Configuration**. Double-cliquez sur **Email**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Sélectionner les emails de groupe par **représentant commercial**.
+1. Sélectionnez Group Emails by **Sales Rep**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,7 +59,7 @@ Vous pouvez afficher ce rapport groupé par représentant commercial en modifian
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Cliquez sur le bouton **Rapport** .
+1. Cliquez sur l’onglet **Rapport** .
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

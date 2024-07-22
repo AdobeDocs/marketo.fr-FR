@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -23,13 +23,13 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin d�
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Sélectionnez la **Envoyer** et cliquez sur **Modifier** en regard de Style de bouton.
+1. Sélectionnez le bouton **Envoyer** et cliquez sur **Modifier** en regard du style de bouton.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez faire glisser le bouton d’envoi vers la gauche ou la droite pour modifier sa position ? C&#39;est si facile. Essaie-le !
+   >Saviez-vous que vous pouvez faire glisser le bouton d’envoi vers la gauche ou la droite pour modifier sa position ? C&#39;est si facile. Essayez donc.
 
 1. Sélectionnez un style de bouton de votre choix (faites défiler vers le haut ou vers le bas).
 
@@ -61,4 +61,4 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin d�
 
    >[!NOTE]
    >
-   >Comme de nombreux éléments graphiques, le bouton peut avoir un aspect différent selon le navigateur utilisé.
+   >Comme de nombreux éléments graphiques, le bouton peut avoir un aspect différent selon le navigateur que vous utilisez.

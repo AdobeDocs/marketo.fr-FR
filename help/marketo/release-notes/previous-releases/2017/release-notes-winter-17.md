@@ -31,7 +31,7 @@ La correspondance de base utilise uniquement des adresses électroniques, tandis
 
 Cette API fournit une interface plus rapide pour synchroniser les objets personnalisés dans Marketo. Vous pouvez importer des fichiers de feuille de calcul CSV, TSV ou SSV dans Marketo sous la forme d’objets personnalisés.
 
-## [Exportation des campagnes de personnalisation web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Exportation de campagnes Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 Exportez tous les détails et analyses de vos campagnes web au format CSV. Vous pouvez ensuite afficher vos données dans une disposition pratique.
 
@@ -39,19 +39,19 @@ Exportez tous les détails et analyses de vos campagnes web au format CSV. Vous 
 
 ## Localisation {#localization}
 
-Les applications de personnalisation web, de contenu prédictif et de statistiques sur les emails sont désormais disponibles en allemand, en espagnol, en japonais. You [sélectionner votre langue et votre langue](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) pour afficher votre contenu dans ces langues.
+Les applications Web Personalization, Predictive Content et Email Insights sont désormais disponibles en allemand, en espagnol et en japonais. Vous [sélectionnez votre langue et le paramètre régional](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) pour afficher votre contenu dans ces langues.
 
 ![](assets/japanese-web-personalization.png)
 
 ## Améliorations marketing basées sur les comptes {#account-based-marketing-enhancements}
 
-**[Importation de comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[Importer des comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 Avec l’option Importation de compte nommé , créez ou mettez à jour plusieurs enregistrements à la fois via le transfert CSV.
 
 ![](assets/inatwo.png)
 
-**[Prise en charge des statistiques par e-mail](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
+**[Prise en charge des statistiques de messagerie](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
 Utilisez la liste de comptes ou de comptes nommés comme dimensions dans les statistiques sur les e-mails.
 
@@ -59,13 +59,13 @@ Utilisez la liste de comptes ou de comptes nommés comme dimensions dans les sta
 
 ## Améliorations du contenu prédictif {#predictive-content-enhancements}
 
-**[Filtrer par source activée](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrer par Source activé](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtrez les éléments de contenu prédictif activés pour le courrier électronique, le contenu multimédia enrichi ou la barre de recommandations.
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Filtrage des analyses par source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrage des analyses par Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtrez l’analyse de contenu prédictif pour des sources spécifiques - Email, Média enrichi ou Barre de recommandations.
 
@@ -85,7 +85,7 @@ L’URL de l’image et les métadonnées sont désormais utilisées dans le pro
 
 Les développeurs disposent désormais d’un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer des jetons push.
 
-## [Intégration de Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## [ Intégration de Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Améliorez votre ciblage grâce à une nouvelle option de filtre, &quot;Membre de la liste des vidéos&quot;.
 

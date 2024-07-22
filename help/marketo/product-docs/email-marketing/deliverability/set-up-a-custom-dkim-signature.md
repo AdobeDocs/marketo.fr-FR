@@ -7,7 +7,7 @@ feature: Deliverability
 source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Afin d’assurer une délivrabilité optimale, nous signons automatiquement tout
 
 Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de votre choix. Voici comment.
 
-1. Accédez au **Administration** .
+1. Accédez à la section **Admin** .
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -33,11 +33,11 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Cliquez sur le bouton **SPF/DKIM** , puis **Ajouter un domaine**.
+1. Cliquez sur l&#39;onglet **SPF/DKIM** , puis **Ajouter un domaine**.
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
-1. Saisissez le domaine que vous utiliserez dans les emails Marketo comme Adresse de l’expéditeur. Choisissez un sélecteur et une taille de clé. Cliquez sur **Ajouter** une fois terminé.
+1. Saisissez le domaine que vous utiliserez dans les emails Marketo comme Adresse de l’expéditeur. Choisissez un sélecteur et une taille de clé. Cliquez sur **Ajouter** lorsque vous avez terminé.
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
@@ -47,7 +47,7 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
    <td>Chaîne/identifiant unique utilisé pour localiser la partie clé publique de l’enregistrement DKIM. Il peut s’agir d’une chaîne arbitraire ou d’un identifiant unique pour séparer et identifier l’objectif de cette clé/enregistrement DKIM.</td>
    </tr>
    <tr> 
-   <td width="20%"><b>Taille de clé</b></td>
+   <td width="20%"><b>Longueur de clé</b></td>
    <td>Le niveau de sécurité avec lequel vous souhaitez que votre signature DKIM soit cryptée.</td>
    </tr>
    </tbody>
@@ -66,11 +66,11 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
    >
    >Veuillez noter que lorsque vous procédez de la sorte, DKIM ne sera pas signé pour votre domaine tant que votre nouvel enregistrement n’aura pas été publié et validé par notre système. Planifiez votre modification en conséquence, car il peut s’écouler entre 24 et 48 heures avant que le nouveau record de DKIM ne soit entièrement propagé sur Internet.
 
-1. Envoyez la variable **Enregistrement d’hôte** et **Valeur TXT** à votre service informatique. Demandez-leur de créer l’enregistrement à votre place et de s’assurer qu’il se propage à tous les serveurs de noms associés au domaine d’ . La vérification DKIM Marketo requiert que la clé DKIM soit propagée à tous les serveurs de noms associés au domaine signé DKIM.
+1. Envoyez l’ **enregistrement hôte** et la **valeur TXT** à votre service informatique. Demandez-leur de créer l’enregistrement à votre place et de s’assurer qu’il se propage à tous les serveurs de noms associés au domaine d’ . La vérification DKIM Marketo requiert que la clé DKIM soit propagée à tous les serveurs de noms associés au domaine signé DKIM.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. Une fois qu’ils ont confirmé avoir créé l’enregistrement, revenez à Marketo, sélectionnez votre domaine, puis cliquez sur **Vérifier le DNS**.
+1. Une fois qu’ils ont confirmé avoir créé l’enregistrement, revenez à Marketo, sélectionnez votre domaine et cliquez sur **Vérifier DNS**.
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

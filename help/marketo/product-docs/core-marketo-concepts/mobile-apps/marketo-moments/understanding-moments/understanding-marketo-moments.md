@@ -6,14 +6,14 @@ exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 5%
+source-wordcount: '604'
+ht-degree: 2%
 
 ---
 
 # Présentation des moments Marketo {#understanding-marketo-moments}
 
-La puissance de Marketo est désormais à votre disposition ! Prévisualisez les e-mails et planifiez à nouveau leur envoi à partir de votre téléphone ou de votre iPad.
+La puissance de Marketo est désormais à votre disposition ! Prévisualisez et replanifiez les emails directement depuis votre téléphone ou iPad.
 
 >[!IMPORTANT]
 >
@@ -21,7 +21,7 @@ La puissance de Marketo est désormais à votre disposition ! Prévisualisez le
 
 >[!NOTE]
 >
->_Accès aux applications mobiles_ autorisation requise. Contactez votre administrateur Marketo pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>L’autorisation _Accéder aux applications mobiles_ est requise. Contactez votre administrateur Marketo pour [mettre à jour votre rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -33,10 +33,10 @@ Voici les différents courants dans Moments.
 >
 >**Définition**
 >
->* [!UICONTROL Moments]: tout ce qui vient d’être lancé ou est sur le point de l’être va ici.
->* [!UICONTROL Favoris]: tout ce que vous faites comme favori y est.
->* [!UICONTROL Plus tard]: Tout ce qui se passe plus tard que ce moment se passe ici.
->* [!UICONTROL Terminé]: tout ce qui a fini de s’exécuter ou que vous avez marqué comme terminé s’affiche ici.
+>* [!UICONTROL Moments] : tout ce qui vient d’être exécuté ou est sur le point de l’être va ici.
+>* [!UICONTROL Favoris] : tout ce que vous faites comme favori s’affiche ici.
+>* [!UICONTROL Plus tard] : tout ce qui se passe plus tard que ce moment se passe ici.
+>* [!UICONTROL Terminé] : tout ce qui a fini de s’exécuter ou que vous avez marqué comme terminé s’affiche ici.
 
 OK, maintenant que nous avons tout perdu, jetons un coup d&#39;oeil à Marketo Moments sur un téléphone !
 
@@ -48,17 +48,17 @@ Marketo Moments vous donne trois cartes différentes pour suivre la progression 
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heart-beat]** - Hey, cet email est en train d&#39;être livré maintenant ! Et voici aussi des statistiques. Allez-y et partagez-le.
+**[!UICONTROL Heart-beat]** - Hey - cet email est en cours de diffusion maintenant ! Et voici aussi des statistiques. Allez-y et partagez-le.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Résultats]** - Voici comment s&#39;est déroulé l&#39;email. Une fois l’exécution du courrier électronique terminée, la carte Résultats affiche le score d’engagement et d’autres statistiques.
+**[!UICONTROL Résultats]** - Voici comment s’est déroulé l’e-mail. Une fois l’exécution du courrier électronique terminée, la carte Résultats affiche le score d’engagement et d’autres statistiques.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Flux de moments {#moments-stream}
 
-Lorsque vous ouvrez l’application pour la première fois, appuyez sur **[!UICONTROL Moments]** dans le menu, les cartes pertinentes s’affichent en premier. Chacune d’elles contient des informations sur cette initiative marketing spécifique et ses performances globales.
+Lorsque vous ouvrez l’application pour la première fois ou appuyez sur **[!UICONTROL Moments]** dans le menu, les cartes pertinentes s’affichent en premier. Chacune d’elles contient des informations sur cette initiative marketing spécifique et ses performances globales.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Fantastique ! Maintenant, vous pouvez faire que quelque chose se produise en ap
 >
 >**Définition**
 >
->* [!UICONTROL Favori]: Il est facile d&#39;être attentif aux éléments les plus opportuns et importants si vous les rendez favoris.
->* [!UICONTROL Terminé]: Terminé retire l’affichage de Marketo Moments (mais le laisse dans Marketo, sûr et sonore).
->* [!UICONTROL Partager]: envoyez une image pour motiver ou féliciter votre équipe.
->* [!UICONTROL Envoyer un exemple] (email uniquement) : utilisez cette option pour permettre à d’autres utilisateurs de vérifier l’aspect de vos emails avant de les envoyer.
->* [!UICONTROL Prévisualiser le message] (Emails uniquement) : il est toujours conseillé de consulter vos emails à l’avance.
+>* [!UICONTROL Favori] : il est facile d’accorder de l’attention aux éléments les plus opportuns et importants si vous les rendez favoris.
+>* [!UICONTROL Terminé] : Terminé désactive la vue Moments Marketo (mais la laisse dans Marketo, sûre et son).
+>* [!UICONTROL Partager] : envoyez une image pour motiver ou féliciter votre équipe.
+>* [!UICONTROL Envoyer un exemple] (adresse électronique uniquement) : utilisez cette option pour permettre à d’autres personnes de vérifier l’aspect de vos emails avant de les envoyer.
+>* [!UICONTROL Prévisualiser l’email] (emails uniquement) : il est toujours préférable d’extraire vos emails à l’avance.
 
 ## Moments ultérieurs {#later-moments}
 
@@ -96,7 +96,7 @@ La section Plus tard présente les activités à venir.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Appuyer **[!UICONTROL Plus tard]**.
+1. Appuyez sur **[!UICONTROL Later]**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -134,7 +134,7 @@ Les cartes de campagne dynamiques représentent une seule exécution d’une cam
 
 ## Confirmation ou annulation d’une action {#confirm-or-cancel-an-action}
 
-À chaque étape, vous pouvez confirmer ou annuler une action. Si vous changez d&#39;avis, appuyez simplement **[!UICONTROL Ne vous souciez Jamais]**.
+À chaque étape, vous pouvez confirmer ou annuler une action. Si vous changez d’avis, appuyez simplement sur **[!UICONTROL Never Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -145,11 +145,11 @@ Marketo Moments prend en charge les versions suivantes du système d’exploitat
 * [!DNL Apple] iOS 8.0 et versions ultérieures.
 * [!DNL Android] version 4.1 et ultérieure (en gros Jellybean et up).
 
-Prêt pour la formation ?
+Prêt à en savoir plus ?
 
 >[!MORELIKETHIS]
 >
->* [Présentation des cartes du programme de messagerie](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [Présentation des cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Présentation des cartes Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Présentation des cartes de campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [ Comprendre les cartes du programme de messagerie ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Comprendre les cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Compréhension des cartes Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Comprendre les cartes de campagne dynamiques](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

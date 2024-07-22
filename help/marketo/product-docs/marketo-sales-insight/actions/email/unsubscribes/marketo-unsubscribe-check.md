@@ -24,11 +24,11 @@ La vérification de désabonnement de Marketo utilise la connexion de votre équ
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Désabonne**.
+1. Sous Paramètres d’administration, cliquez sur **Se désabonner**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Cliquez sur le bouton **Intégrations** . Dans la section Vérifier le désabonnement de Marketo , cliquez sur le curseur pour activer la vérification.
+1. Cliquez sur l’onglet **Intégrations** . Dans la section Vérifier le désabonnement de Marketo , cliquez sur le curseur pour activer la vérification.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
@@ -37,6 +37,6 @@ La vérification de désabonnement de Marketo utilise la connexion de votre équ
 Le contrôle Désabonnement de Marketo...
 
 * Ne tient pas compte des limites de votre API
-* Nécessite l’établissement d’une connexion Marketo
+* Nécessite une connexion Marketo
 * est un paramètre global ;
-* Blocage les emails envoyés à partir de l’application web, des clients de messagerie et de Salesforce.
+* Blocage les emails envoyés depuis l’application web, les clients de messagerie et Salesforce

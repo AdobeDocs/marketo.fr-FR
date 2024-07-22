@@ -2,11 +2,11 @@
 description: WR-YYYY-MM-Web Request Program - Marketo Docs - Documentation du produit
 title: WR-YYYY-MM-Web Request Program
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 16%
+source-wordcount: '400'
+ht-degree: 13%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Il s’agit d’un exemple de programme idéal pour les formulaires de demande de contact, de demande de devis, de demande de démonstration ou de demande d’évaluation utilisant un programme par défaut de Marketo Engage. Peut être utilisé avec les landing pages Marketo ou comme formulaire incorporé sur des landing pages non Marketo. Un message d’alerte est envoyé à une personne spécifique lors de l’envoi du formulaire.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -35,7 +35,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -67,7 +67,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Performance page de destination </td>
+   <td>Performance de la page de destination</td>
   </tr>
    <tr> 
    <td>Campagne intelligente</td> 
@@ -82,8 +82,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Ressources : héberge toutes les ressources créatives 
-<br/>(sous-dossiers pour les alertes et les pages d’entrée)</td>
+   <td>Assets : héberge toutes les ressources créatives 
+<br/> (sous-dossiers pour les alertes et les pages d’entrée)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -93,7 +93,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Rapports  </td>
+   <td>Rapports</td>
   </tr>
  </tbody> 
 </table>
@@ -139,17 +139,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
-   * Copier le modèle d’origine
+* **Modèle de page d’entrée avec le même nom**
+   * Copier le modèle d&#39;origine
    * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
    * Conserver les deux fichiers
-   * Remplacer l’élément de cet abonnement - _Recommandé_
+   * Remplacer un élément de cet abonnement - _Recommandé_
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles

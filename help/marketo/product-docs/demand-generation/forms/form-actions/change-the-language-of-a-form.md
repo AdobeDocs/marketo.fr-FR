@@ -27,11 +27,11 @@ Découvrez comment modifier la langue de votre formulaire.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. Sélectionnez la **Langue du formulaire**.
+1. Sélectionnez la **langue du formulaire** de votre choix.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
-   ÉTAPE FACULTATIVE : Sélectionnez la langue/la région de votre langue sélectionnée.
+   ÉTAPE FACULTATIVE : choisissez la langue/la région de votre langue sélectionnée.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
@@ -49,7 +49,7 @@ Découvrez comment modifier la langue de votre formulaire.
 
    >[!TIP]
    >
-   >N’oubliez pas de [valider la landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) version préliminaire créée par les modifications du formulaire.
+   >N’oubliez pas d’ [approuver le brouillon de la landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
 Votre formulaire reflète désormais la langue que vous avez sélectionnée.
 

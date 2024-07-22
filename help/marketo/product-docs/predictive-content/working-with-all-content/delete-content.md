@@ -19,7 +19,7 @@ Quand vous n&#39;avez plus besoin d&#39;un élément de contenu, c&#39;est facil
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Cliquez sur le bouton **Actions de contenu** et sélectionnez **Supprimer du contenu**.
+1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Supprimer le contenu**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 

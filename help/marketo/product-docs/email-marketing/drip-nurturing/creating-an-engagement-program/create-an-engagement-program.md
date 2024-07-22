@@ -7,7 +7,7 @@ feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Vous pouvez utiliser des programmes d’engagement dans Marketo pour réaliser f
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez le dossier dans lequel vous souhaitez créer le programme d’engagement, puis cliquez sur **Nouveau** et **Nouveau programme**.
+1. Sélectionnez le dossier dans lequel vous souhaitez créer le programme d&#39;engagement, puis cliquez sur **Nouveau** et **Nouveau programme**.
 
    ![](assets/newprogramlifecycle.jpg)
 
@@ -33,5 +33,5 @@ Vous pouvez utiliser des programmes d’engagement dans Marketo pour réaliser f
 
    >[!MORELIKETHIS]
    >
-   >* [Ajout de contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Définir le rythme du stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Ajouter du contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+   >* [Définir l’cadence de diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

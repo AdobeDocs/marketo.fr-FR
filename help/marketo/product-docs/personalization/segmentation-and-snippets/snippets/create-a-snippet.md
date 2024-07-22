@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Création d’un fragment de code {#create-a-snippet}
 
-Les fragments de code peuvent être utilisés comme blocs de contenu dynamique sur **emails** et **landing pages**.
+Les fragments de code peuvent être utilisés comme blocs de contenu dynamique sur les **emails** et les **landing pages**.
 
-1. Accédez au **Design Studio.**
+1. Accédez à **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Cliquez sur **Nouveau** puis **Nouveau fragment de code**.
+1. Cliquez sur **New** , puis sur **New Snippet**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Saisissez les informations requises, puis cliquez sur **Créer**.
+1. Saisissez les détails requis et cliquez sur **Créer**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bon travail ! Simplifiez votre travail en créant des fragments de code pour votre contenu dynamique. Maintenant, vous pouvez avancer et [ajouter du contenu à votre nouveau fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Bon travail ! Simplifiez votre travail en créant des fragments pour votre contenu dynamique. Vous pouvez maintenant poursuivre et [ajouter du contenu à votre nouveau fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [Ajout de contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Ajouter du contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 >* [Compréhension du contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

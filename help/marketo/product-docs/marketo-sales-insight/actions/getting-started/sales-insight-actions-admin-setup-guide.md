@@ -1,11 +1,11 @@
 ---
-description: Guide de configuration de l’administrateur des actions Sales Insight - Documents Marketo - Documentation du produit
+description: Guide de configuration des actions Sales Insight - Documents Marketo - Documentation du produit
 title: Guide de configuration des actions Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '655'
 ht-degree: 1%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via l’ [Package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
+>Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via le [package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 >[!PREREQUISITES]
 >
->* Confirmez avec l’équipe du compte d’Adobe (votre gestionnaire de compte) que les actions MSI ont été activées pour votre compte de Marketo Engage (si vous ne disposez pas d’un gestionnaire de compte, contactez [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
+>* Confirmez auprès de l’équipe du compte d’Adobe (votre gestionnaire de compte) que les actions MSI ont été activées pour votre compte de Marketo Engage (si vous n’avez pas de gestionnaire de compte, contactez l’[assistance Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Votre synchronisation Marketo/Salesforce doit être configurée.
 
 <table>
@@ -31,7 +31,7 @@ ht-degree: 1%
   <td>Configuration du compte de ventes Marketo</td>
  </tr>
  <tr>
-  <td>Administrateur Marketo ou <br/>Administration Salesforce</td>
+  <td>Administrateur Marketo ou <br/> administrateur Salesforce</td>
   <td>Connexion du compte Ventes Marketo à Salesforce</td>
  </tr>
  <tr>
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 ## Configuration du compte de vente Marketo {#set-up-marketo-sales-account}
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/msi-actions-admin-guide-1.png)
 
@@ -66,7 +66,7 @@ ht-degree: 1%
    >
    >Si vous ne voyez pas d’ID de client et de secret de client sur la carte Informations sur l’intégration, activez votre instance Actions en invitant le premier utilisateur. L’ID de client et le secret de client s’affichent alors.
 
-1. Cliquez sur **Statistiques des ventes**, puis **Configuration des actions**. Sélectionnez dans la liste des administrateurs Marketo à inviter et cliquez sur **Envoyer une invitation**.
+1. Cliquez sur **Sales Insight**, puis sur **Actions Config**. Sélectionnez dans la liste des administrateurs Marketo à inviter et cliquez sur **Envoyer l’invitation**.
 
    ![](assets/msi-actions-admin-guide-2.png)
 
@@ -78,7 +78,7 @@ L’utilisateur recevra un e-mail lui indiquant les étapes pour accéder au com
 
 ## Connexion du compte de ventes Marketo à Salesforce {#connect-marketo-sales-account-to-salesforce}
 
-1. Dans votre compte Marketo Sales, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans votre compte Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/msi-actions-admin-guide-3.png)
 
@@ -86,7 +86,7 @@ L’utilisateur recevra un e-mail lui indiquant les étapes pour accéder au com
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. Dans l’onglet Connexions et personnalisations , cliquez sur **Connexion**.
+1. Dans l’onglet Connexions et personnalisations , cliquez sur **Se connecter**.
 
    ![](assets/msi-actions-admin-guide-5.png)
 
@@ -98,7 +98,7 @@ Si vous êtes déjà connecté à Salesforce, vous serez connecté. Si ce n&#39;
 
 ## Connexion de Marketo à votre compte d’applications de vente {#connect-marketo-to-your-sales-apps-account}
 
-1. Dans votre compte Marketo Sales, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans votre compte Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/msi-actions-admin-guide-7.png)
 
@@ -120,17 +120,17 @@ La synchronisation des champs d’unification des données pour les actions d’
 
 >[!CAUTION]
 >
->Une fois la synchronisation des données lancée, vous devez **not** supprimez l’utilisateur d’origine sur votre instance d’actions Sales Insight. Il s’agit de l’utilisateur auquel la première invitation a été envoyée.
+>Une fois que vous avez lancé la synchronisation des données, vous devez **et non** supprimer l’utilisateur d’origine sur votre instance d’actions Sales Insight. Il s’agit de l’utilisateur auquel la première invitation a été envoyée.
 
-1. Dans Marketo, cliquez sur **Administration**.
+1. Dans Marketo, cliquez sur **Admin**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Cliquez sur **Statistiques des ventes**.
+1. Cliquez sur **Sales Insight**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Cliquez sur le bouton **Configuration des actions** . Dans la carte Synchronisation des champs d’action , cliquez sur **Synchronisation**.
+1. Cliquez sur l’onglet **Configuration des actions** . Dans la carte Synchronisation des champs d’action , cliquez sur **Synchroniser**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -142,23 +142,23 @@ Les enregistrements de personne existant dans Marketo et Salesforce seront synch
 
 >[!NOTE]
 >
->Pour en savoir plus sur la manière dont les personnes et les données d’activité se synchronisent entre les actions Sales Insight, Marketo et Salesforce, [cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>Pour en savoir plus sur la façon dont les personnes et les données d’activité se synchronisent entre les actions Sales Insight, Marketo et Salesforce, [ cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Invitation d’utilisateurs individuels dans des actions MSI {#invite-individual-users-to-msi-actions}
 
-1. Dans votre compte Marketo Sales, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans votre compte Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion des utilisateurs**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
 
    ![](assets/msi-actions-admin-guide-15.png)
 
-1. Cliquez sur **Actions** et sélectionnez **Invitation d’utilisateurs**.
+1. Cliquez sur **Actions** et sélectionnez **Inviter des utilisateurs**.
 
    ![](assets/msi-actions-admin-guide-16.png)
 
-1. Saisissez la ou les adresses email et cliquez sur **Invitation**.
+1. Saisissez la ou les adresses email et cliquez sur **Inviter**.
 
    ![](assets/msi-actions-admin-guide-17.png)
 
@@ -170,15 +170,15 @@ Vous recevrez un message de confirmation.
 
 ## Invitation d’utilisateurs via CSV à des actions MSI {#invite-users-via-csv-to-msi-actions}
 
-1. Dans votre compte Marketo Sales, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans votre compte Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion des utilisateurs**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
 
    ![](assets/msi-actions-admin-guide-19.png)
 
-1. Cliquez sur **Actions** et sélectionnez **Invitation d’utilisateurs via CSV**.
+1. Cliquez sur **Actions** et sélectionnez **Inviter des utilisateurs via CSV**.
 
    ![](assets/msi-actions-admin-guide-20.png)
 
@@ -186,12 +186,12 @@ Vous recevrez un message de confirmation.
 
    ![](assets/msi-actions-admin-guide-21.png)
 
-1. Vérifiez que les champs sont correctement mappés et cliquez sur **Invitation**.
+1. Vérifiez que les champs sont correctement mappés et cliquez sur **Invite**.
 
    ![](assets/msi-actions-admin-guide-22.png)
 
-Vous recevrez un message de confirmation une fois les invitations envoyées.
+Vous recevrez un message de confirmation une fois que les invitations seront envoyées.
 
 >[!NOTE]
 >
->Une fois cette opération effectuée, vous pouvez soit mettre à niveau votre package MSI existant, soit en installer un nouveau et passer à [configuration des actions MSI dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>Une fois cela fait, vous pouvez soit mettre à niveau votre package MSI existant, soit en installer un nouveau et passer à la [configuration des actions MSI dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

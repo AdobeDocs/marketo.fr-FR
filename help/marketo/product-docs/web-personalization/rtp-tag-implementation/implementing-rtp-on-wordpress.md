@@ -6,7 +6,7 @@ exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous :
 
-1. Ouvrez le **header.php** de votre fichier **Thème WordPress**.
+1. Ouvrez le fichier **header.php** de votre **thème WordPress**.
 
-   Vous pouvez utiliser un client FTP pour accéder à votre serveur ou modifier vos fichiers de thème directement à partir du tableau de bord WordPress. Votre éditeur de fichiers se trouve sous le **Apparence** dans le menu de la barre latérale.
+   Vous pouvez utiliser un client FTP pour accéder à votre serveur ou modifier vos fichiers de thème directement à partir du tableau de bord WordPress. Votre éditeur de fichiers se trouve sous l’onglet **Apparence** du menu de la barre latérale.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
@@ -29,13 +29,13 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. Sous Domaine, recherchez le domaine approprié, puis cliquez sur **Générer une balise**.
+1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
 1. Copiez la balise JavaScript RTP et collez-la dans les modèles de votre site web.
 
-   a. Assurez-vous qu’il s’agit du premier script dans l’en-tête de la page, entre le **`<head> </head>`** balises.
+   a. Assurez-vous qu’il s’agit du premier script dans l’en-tête de la page, entre les balises **`<head> </head>`**.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
@@ -43,4 +43,4 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
 1. Vérifiez qu’il apparaît sur toutes les pages, y compris les landing pages et les sous-domaines.
 
-   a. Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site web. Accédez à **Afficher la source de la page.** Rechercher **RTP** pour localiser la balise.
+   a. Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site web. Accédez à **Afficher le Source de page.** Recherchez **RTP** pour localiser la balise.

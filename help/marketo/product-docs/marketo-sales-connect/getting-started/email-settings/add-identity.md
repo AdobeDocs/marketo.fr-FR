@@ -21,11 +21,11 @@ Ajoutez une identité lorsque vous souhaitez envoyer plusieurs adresses électro
 
 1. Cliquez sur l’icône Paramètres .
 
-1. Cliquez sur **Paramètres de messagerie électronique**.
+1. Cliquez sur **Paramètres de l’e-mail**.
 
-1. Cliquez sur **Ajout d’une identité**.
+1. Cliquez sur **Ajouter une identité**.
 
-1. Renseignez vos informations (les champs obligatoires sont email et nom), cliquez sur **Créer** une fois terminé.
+1. Renseignez vos informations (les champs obligatoires de nom et d&#39;adresse électronique), cliquez sur **Créer** lorsque vous avez terminé.
 
 1. Cliquez sur le lien contenu dans l’e-mail de vérification que vous avez reçu.
 
@@ -37,4 +37,4 @@ Ajoutez une identité lorsque vous souhaitez envoyer plusieurs adresses électro
 
 >[!MORELIKETHIS]
 >
->[Ajouter votre signature de courrier électronique](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[Ajoutez Votre Signature Email](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -21,13 +21,13 @@ Marketo Sales Connect est une solution d’assistance commerciale à multiples f
 
 ## Flux en direct {#the-live-feed}
 
-Les représentants commerciaux peuvent afficher [engagement en temps réel](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) du contenu marketing et commercial.
+Les représentants commerciaux peuvent afficher l’ [engagement en temps réel](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) du contenu marketing et commercial.
 
 ![](assets/engagement.jpg)
 
 ## Vue Détails de la personne {#person-detail-view}
 
-Accès [statistiques détaillées sur les personnes](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+Accédez aux [statistiques détaillées sur les personnes](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -40,7 +40,7 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
 <table> 
  <tbody> 
   <tr> 
-   <th>Type d'activité</th> 
+   <th>Type d’activité</th> 
    <th>Description</th> 
   </tr> 
   <tr> 
@@ -48,11 +48,11 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
    <td><p>L’utilisateur a envoyé un e-mail de vente à Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Ouvrir e-mail de vente</p></td> 
+   <td><p>Ouvrir l'e-mail de vente</p></td> 
    <td><p>Le prospect a ouvert un e-mail de vente envoyé à partir de Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Cliquer sur e-mail de vente</p></td> 
+   <td><p>Cliquer sur l'e-mail de vente</p></td> 
    <td><p>Le prospect a cliqué sur un lien dans un e-mail de vente envoyé par Sales Connect.</p></td> 
   </tr> 
   <tr> 
@@ -61,7 +61,7 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
   </tr> 
   <tr> 
    <td colspan="1"><p>Recevoir l’appel de vente</p></td> 
-   <td colspan="1"><p>Un prospect a reçu un appel d’un représentant utilisant la variable <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Téléphone des ventes</a>.</p></td> 
+   <td colspan="1"><p>Un responsable a reçu un appel d’un vendeur à l’aide du <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">téléphone commercial</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ajouter à la campagne de ventes</p></td> 
@@ -80,11 +80,11 @@ Découvrez comment vos prospects s’engagent dans vos efforts de vente.
 
 ## Partage des campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne dynamique simple pour donner à vos utilisateurs commerciaux l’accès à [Données de campagne Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Créez une campagne dynamique simple pour donner aux utilisateurs de vente l’accès aux [données de campagne Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
-Prêt à vous lancer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
+Prêt à démarrer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
 
 >[!MORELIKETHIS]
 >

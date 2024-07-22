@@ -24,25 +24,25 @@ Lorsqu’un administrateur invite un utilisateur, celui-ci est automatiquement v
 
 >[!IMPORTANT]
 >
->L’exception à cette règle est : _dans un abonnement SSO uniquement_, les administrateurs recevront une nouvelle invitation d’utilisateur, mais pas les utilisateurs non-administrateurs. Les utilisateurs qui ne sont pas administrateurs doivent toujours passer par le processus de vérification des emails pour garantir la migration de leurs enregistrements. Les utilisateurs peuvent envoyer eux-mêmes le lien de vérification d’email en accédant à **Administration** > **Mon compte** > **Paramètres du compte** et clic **Vérification du renvoi**.
+>L’exception à cette règle est : _dans un abonnement SSO uniquement_, les administrateurs recevront une nouvelle invitation d’utilisateur, mais pas les utilisateurs non-administrateurs. Les utilisateurs qui ne sont pas administrateurs doivent toujours passer par le processus de vérification des emails pour garantir la migration de leurs enregistrements. Les utilisateurs peuvent envoyer eux-mêmes le lien de vérification par e-mail en accédant à **Admin** > **Mon compte** > **Paramètres du compte** et en cliquant sur **Renvoyer la vérification**.
 
 ![](assets/email-verification-1.png)
 
-## Vérification électronique {#verification-email}
+## Vérification de l’e-mail {#verification-email}
 
 Les utilisateurs recevront l’e-mail ci-dessous lorsque la vérification de l’e-mail est activée pour un abonnement, ou s’il est déclenché par un administrateur/utilisateur.
 
-Une session d’utilisateur active est requise pour la réussite de la vérification d’email. L’utilisateur doit d’abord se connecter à son abonnement Marketo à l’aide de son URL de fournisseur d’identité (IdP). Une fois une session établie, ils _then_ cliquez sur le bouton **Vérifier l’adresse électronique** dans l’email.
+Une session d’utilisateur active est requise pour la réussite de la vérification d’email. L’utilisateur doit d’abord se connecter à son abonnement Marketo à l’aide de son URL de fournisseur d’identité (IdP). Une fois une session établie, ils _puis_ cliquent sur le lien **Vérifier l’adresse électronique** dans le courrier électronique.
 
 ![](assets/email-verification-2.png)
 
 >[!TIP]
 >
->Pour renvoyer un courrier électronique de vérification à un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **[!UICONTROL Vérifier le courrier électronique]** bouton .
+>Pour renvoyer un courrier électronique de vérification à un utilisateur non vérifié, sélectionnez simplement son enregistrement et cliquez sur le bouton **[!UICONTROL Vérifier l’adresse électronique]**.
 
 ## Modification d’une adresse électronique {#changing-an-email-address}
 
-Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est plus vérifiée. Un email leur sera envoyé pour leur permettre de vérifier à nouveau. Les utilisateurs peuvent renvoyer manuellement cet email en cliquant sur **[!UICONTROL Vérification du renvoi]**.
+Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est plus vérifiée. Un email leur sera envoyé pour leur permettre de vérifier à nouveau. Les utilisateurs peuvent renvoyer manuellement cet email en cliquant sur **[!UICONTROL Renvoyer la vérification]**.
 
 ![](assets/email-verification-3.png)
 
@@ -50,7 +50,7 @@ Lorsque l’adresse électronique d’un utilisateur est modifiée, elle n’est
 
 ## Utilisateurs et rôles {#users-and-roles}
 
-Dans **[!UICONTROL Administration]** > **[!UICONTROL Utilisateurs et rôles]**, la colonne État de l’email indique l’état de vérification de chaque utilisateur.
+Dans **[!UICONTROL Admin]** > **[!UICONTROL Utilisateurs et rôles]**, la colonne État du courrier électronique affiche l’état de vérification de chaque utilisateur.
 
 ![](assets/email-verification-5.png)
 

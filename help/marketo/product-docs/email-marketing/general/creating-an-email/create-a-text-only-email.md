@@ -17,17 +17,17 @@ Si vous souhaitez envoyer des emails en texte uniquement, voici comment créer u
 
 >[!NOTE]
 >
->Les ouvertures étant suivies par le destinataire téléchargeant les images de l&#39;email (incluant un pixel de suivi invisible), les ouvertures sont **not** peut être suivi pour les emails Texte uniquement.
+>Comme les ouvertures sont suivies par le destinataire qui télécharge les images de l&#39;email (qui inclut un pixel de suivi invisible), les ouvertures sont **not** pouvant être suivies pour les emails Texte uniquement.
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/one-1.png)
 
-1. Sélectionnez votre programme, cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle ressource locale**.
+1. Sélectionnez votre programme, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouvelle ressource locale**.
 
    ![](assets/two-1.png)
 
-1. Sélectionner **Email**.
+1. Sélectionnez **Email**.
 
    ![](assets/three-1.png)
 
@@ -35,23 +35,23 @@ Si vous souhaitez envoyer des emails en texte uniquement, voici comment créer u
 
    ![](assets/four-1.png)
 
-1. Dans l’éditeur d’email, cliquez sur **Paramètres de messagerie électronique**.
+1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
 
    ![](assets/five.png)
 
-1. Vérifier **Texte uniquement** et cliquez sur **Enregistrer**.
+1. Cochez **Texte uniquement** et cliquez sur **Enregistrer**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Les liens ne sont pas automatiquement suivis dans les emails au format texte uniquement. Découvrez comment [Ajout de liens suivis à un message électronique texte](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Les liens ne sont pas automatiquement suivis dans les emails au format texte uniquement. Découvrez comment [Ajouter des liens trackés à un email de texte](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Vous pouvez également modifier un email existant et modifier ce paramètre. N&#39;oubliez pas d&#39;approuver le brouillon.
 
-1. Décochez la case **Copier automatiquement à partir du HTML** .
+1. Décochez la case **Copier automatiquement depuis l’HTML** .
 
    ![](assets/seven.png)
 

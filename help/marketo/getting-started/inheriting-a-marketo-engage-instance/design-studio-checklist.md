@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # Instance héritée : liste de contrôle de Design Studio {#inherited-instance-design-studio-checklist}
 
-La structuration des modèles et la création de formulaires, fragments de code et images et fichiers globaux vous permettent de minimiser les erreurs de données et de rationaliser le workflow de la création de votre programme. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivez vos progrès.
+La structuration des modèles et la création de formulaires, fragments de code et images et fichiers globaux vous permettent de minimiser les erreurs de données et de rationaliser le workflow de la création de votre programme. Pensez à [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivre votre progression.
 
 ## Pages de destination {#landing-pages}
 
@@ -24,17 +24,17 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr> 
   <tr> 
    <td>Pages de destination internationales</td> 
-   <td><li>Combien de global ? <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Pages d’entrée</a> y en a-t-il ? Sont-elles utilisées par des programmes ?</li>
-   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centre d'inscription</a> configuré ?
+   <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">landing pages</a> globales y a-t-il ? Sont-elles utilisées par des programmes ?</li>
+   <li>Avez-vous configuré un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centre d'abonnement</a> ?
    <br/>     Si ce n'est pas le cas, envisagez d'en créer un.</li></td>
   </tr>
   <tr> 
    <td>Modèles</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Modèles de page d’entrée</a> y en a-t-il ? Sont-elles utilisées ?</li></td>
+   <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">modèles de page d’entrée</a> y a-t-il ? Sont-elles utilisées ?</li></td>
   </tr>
   <tr> 
    <td>Groupes de test</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Groupes de tests de page d’entrée</a> sont-ils ? Sont-ils toujours pertinents ?</li></td>
+   <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">groupes de test de page d’entrée</a> sont-ils ? Sont-ils toujours pertinents ?</li></td>
   </tr>
    <tr> 
    <td>Confidentialité et conformité</td> 
@@ -53,16 +53,16 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr> 
   <tr> 
    <td>Conventions de dénomination</td> 
-   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">images et fichiers</a> ont-ils des conventions d’affectation de noms cohérentes ?</li></td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">les images et les fichiers</a> ont-ils des conventions d'appellation cohérentes ?</li></td>
   </tr>
   <tr> 
    <td>Structure de dossier</td> 
-   <td><li>sont des images et des fichiers ; <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organisé de manière appropriée</a> et facile à rechercher ?</li></td>
+   <td><li>Les images et les fichiers <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">sont-ils organisés correctement</a> et faciles à rechercher ?</li></td>
   </tr>
   <tr> 
    <td>Images et fichiers</td> 
-   <td><li>Images ou fichiers <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">référencé sur les pages web</a> doivent être mises à jour ? 
-   <p>Exemple : structure d’URL codée en dur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">peut nécessiter une mise à jour</a>, par exemple <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <td><li>Des images ou des fichiers <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">référencés sur des pages web</a> doivent-ils être mis à jour ? 
+   <p>Exemple : la structure d'URL codée en dur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank"> peut nécessiter une mise à jour </a>, par exemple <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Contactez votre développeur web pour déterminer où vous devrez peut-être effectuer des mises à jour.</li></td>
   </tr>
  </tbody> 
@@ -78,7 +78,7 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr> 
   <tr> 
    <td>Formulaires internationaux</td> 
-   <td><li>Combien de global ? <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulaires</a> y en a-t-il ?</li>
+   <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulaires</a> globaux y a-t-il ?</li>
 <li>La plupart des programmes utilisent-ils des formulaires globaux ou locaux ?</li>
 <li>Tous les formulaires collectent-ils les données appropriées pour le marketing et les ventes ?</li>
 <li>Les valeurs masquées sont-elles correctement utilisées ?</li>
@@ -89,13 +89,13 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr>
   <tr> 
    <td>Normalisation des données</td> 
-   <td><li>Êtes-vous <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">champs de formulaire</a> il s’agit principalement de listes de sélection ou de champs de texte ouverts ?</li>
+   <td><li>Vos <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">champs de formulaire</a> sont-ils principalement des listes de sélection ou des champs de texte ouvert ?</li>
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : S’il s’agit de champs de texte ouvert, envisagez de les basculer vers des listes de sélection afin d’éviter tout désordre dans les données.</td>
   </tr>
   <tr> 
    <td>Confidentialité et conformité</td> 
    <td><li>Votre stratégie de formulaire est-elle conforme à vos exigences en matière de confidentialité des données de l’entreprise et d’inclusion ? 
-   <br/>     Étudier <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a>, la loi canadienne contre le spam (CASL), la loi sur le contrôle de l'agression de la pornographie et du marketing non sollicités de 2003 (CAN-SPAM), la loi sur la protection de la vie privée des consommateurs (CCPA) de Californie, etc., pour la conformité aux réglementations.</li>
+   <br/>     Prenez le <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a>, la loi canadienne contre le spam (CASL), la loi sur le contrôle de l'agression de la pornographie et du marketing non sollicités de 2003 (CAN-SPAM), le California Consumer Privacy Act (CCPA), etc., pour la conformité aux réglementations.</li>
 <p><img src="assets/tip-icon.png" alt="icône de bulle">CONSEIL : N’oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes afin de maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody> 
@@ -111,15 +111,15 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr> 
   <tr> 
    <td>E-mails internationaux</td> 
-   <td><li>Combien de global ? <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md" target="_blank">emails</a> y en a-t-il ? Sont-elles utilisées par des programmes ?</li></td>
+   <td><li>Combien y a-t-il de <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md" target="_blank">emails</a> globaux ? Sont-elles utilisées par des programmes ?</li></td>
   </tr>
   <tr> 
    <td>Modèles</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">modèles d'email</a> y en a-t-il ? Sont-elles utilisées ?</li></td>
+   <td><li>Combien y a-t-il de <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">modèles d'email</a> ? Sont-elles utilisées ?</li></td>
   </tr>
   <tr> 
    <td>Test d'email</td> 
-   <td><li>Comment utiliser <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">test des emails</a>? Votre méthode est-elle encore efficace ?</li></td>
+   <td><li>Comment utilisez-vous le <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">test d'email</a> ? Votre méthode est-elle encore efficace ?</li></td>
   </tr>
   </tr>
   <tr> 
@@ -140,13 +140,13 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr> 
   <tr> 
    <td>Extraits</td> 
-   <td><li>Combien <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragments de code</a> y en a-t-il ? Sont-elles utilisées ? 
-   <br/>     Si ce n’est pas le cas, envisagez de les utiliser pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> et <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Page d’entrée</a> contenu de pied de page, logos, etc.</li></td>
+   <td><li>Combien y a-t-il de <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragments de code</a> ? Sont-elles utilisées ? 
+   <br/>     Si ce n'est pas le cas, envisagez de les utiliser pour le contenu de pied de page, les logos et le contenu de la <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">page d'entrée</a> et de la <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">page d'entrée</a>, etc.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Toutes les ressources {#all-assets}
+## Toutes les Assets {#all-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -156,13 +156,13 @@ La structuration des modèles et la création de formulaires, fragments de code 
   </tr> 
   <tr> 
    <td>État de la ressource</td> 
-   <td><li>Le nombre de ressources dans <i>Version préliminaire</i> et <i>Approuvé avec brouillon</i> (par exemple, <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">emails</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Pages d’entrée</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">formulaires</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">fragments de code</a>) ?
+   <td><li>Combien de ressources se trouvent dans l’état <i>Brouillon</i> et <i>Approuvé avec brouillon</i> (par exemple, <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">emails</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Landing Pages</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">forms</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">fragments de code</a>) ?
    <br/>     S'il y en a beaucoup, envisagez de les supprimer ou de les approuver.</li></td>
   </tr>
   <tr> 
    <td>Partage de ressources</td> 
-   <td><li>Les ressources <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">partagées dans les espaces de travail ;</a>?</li>
-   <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Il est important de le savoir, car les actions entreprises dans un espace de travail peuvent entraîner une ressource inaccessible dans un autre espace de travail pour un autre utilisateur.</td>
+   <td><li>Quelles ressources sont <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank"> partagées dans les espaces de travail </a> ?</li>
+   <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : Il est important de le savoir, car les actions entreprises dans une Workspace peuvent entraîner l’inaccessibilité d’une ressource dans une autre Workspace pour un autre utilisateur.</td>
   </tr>
  </tbody> 
 </table>

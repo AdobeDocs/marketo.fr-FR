@@ -20,11 +20,11 @@ Les objets personnalisés créés dans votre instance CRM Veeva peuvent égaleme
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**, puis **[!UICONTROL Synchronisation des objets Veeva]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**, puis sur **[!UICONTROL Synchronisation des objets Veeva]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. S’il s’agit de votre premier objet personnalisé, cliquez sur Schéma de synchronisation. Sinon, cliquez sur **[!UICONTROL Actualiser le schéma]** pour vous assurer que vous disposez de la dernière version.
+1. S’il s’agit de votre premier objet personnalisé, cliquez sur Schéma de synchronisation. Dans le cas contraire, cliquez sur **[!UICONTROL Actualiser le schéma]** pour vous assurer que vous disposez de la dernière version.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
@@ -48,7 +48,7 @@ Sélectionnez l’objet que vous souhaitez synchroniser, puis cliquez sur Active
 >
 >Marketo ne peut synchroniser un objet personnalisé que s’il a une relation directe avec l’objet Contact ou Compte dans le CRM Veeva.
 
-1. Cliquez sur **[!UICONTROL Activer la synchronisation]** encore une fois.
+1. Cliquez à nouveau sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
@@ -74,4 +74,4 @@ Excellent ! Vous pouvez désormais utiliser les données de cet objet personnali
 
 >[!MORELIKETHIS]
 >
->[Ajouter/Supprimer un champ d’objet personnalisé en tant que contraintes de liste/déclenchement intelligent](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Ajouter/Supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

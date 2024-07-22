@@ -21,7 +21,7 @@ Vous pouvez rapidement voir les membres d’un programme d’engagement. Voici c
 
    >[!NOTE]
    >
-   >Le  [Contenu extrait](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) La valeur de colonne est mise à jour après chaque conversion.
+   >La valeur de colonne [Contenu extrait](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) est mise à jour après chaque conversion.
 
 1. Vous pouvez maintenant voir tous les membres de votre programme.
 

@@ -33,15 +33,15 @@ Les étapes de flux indiquent à Marketo Engage ce que vous souhaitez qu’un gr
 
 >[!NOTE]
 >
->Les étapes de flux sont exécutées dans l’ordre dans lequel elles sont répertoriées. [Réorganiser les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} pour s&#39;assurer qu&#39;ils sont dans la bonne séquence.
+>Les étapes de flux sont exécutées dans l’ordre dans lequel elles sont répertoriées. [Réorganisez les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} pour vous assurer qu’elles se trouvent dans la bonne séquence.
 
 >[!TIP]
 >
 >Une ligne rouge écrasante apparaît en cas d’entrée non valide. Passez la souris sur la ligne pour voir comment la corriger.
 
-Super! Veillez à [révision et validation de la campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} avant de planifier ou d’activer cette opération.
+Super ! Veillez à [passer en revue et valider la campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} avant de la programmer ou de l’activer.
 
 >[!MORELIKETHIS]
 >
->* [Utilisation de l’option Ajouter un choix à une étape de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
+>* [Utiliser Ajouter un choix dans une étape de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
 >* [Réorganiser les étapes de flux dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

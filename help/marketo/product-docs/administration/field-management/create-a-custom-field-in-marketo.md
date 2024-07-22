@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Si vous avez besoin d’un nouveau champ personnalisé dans Marketo Engage pour stocker/capturer des données, voici comment en créer un.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
@@ -35,11 +35,11 @@ Si vous avez besoin d’un nouveau champ personnalisé dans Marketo Engage pour 
 
    >[!TIP]
    >
-   >Consultez la section [Glossaire des types de champ personnalisés](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Consultez le [Glossaire des types de champs personnalisés](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Saisissez le [!UICONTROL Nom] comme vous souhaitez qu’il apparaisse dans Marketo. Le [!UICONTROL Nom de l’API] est généré automatiquement. Vous pouvez le modifier, mais il ne peut pas être renommé une fois défini. Cliquez sur **[!UICONTROL Créer]** une fois terminé.
+1. Saisissez le [!UICONTROL Nom] tel que vous souhaitez le voir apparaître dans Marketo. Le [!UICONTROL nom de l’API] est généré automatiquement. Vous pouvez le modifier, mais il ne peut pas être renommé une fois défini. Cliquez sur **[!UICONTROL Créer]** une fois terminé.
 
 >[!CAUTION]
 >

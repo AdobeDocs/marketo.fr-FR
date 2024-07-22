@@ -17,11 +17,11 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
 
 ## Créer le rapport {#create-the-report}
 
-1. Recherchez et sélectionnez votre programme d’engagement, puis sous **Nouveau** click **Nouvelle ressource locale**.
+1. Recherchez et sélectionnez votre programme d’engagement, puis, sous **Nouveau**, cliquez sur **Nouvelle ressource locale**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Sélectionner **Rapport**.
+1. Sélectionnez **Rapport**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -44,22 +44,22 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Sous , **Configuration** , double-cliquez sur l’onglet **Adresse électronique du programme d’engagement** filtre.
+1. Sous l’onglet **Configuration**, double-cliquez sur le filtre **Email du programme d’engagement**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Sélectionnez le ou les emails sur lesquels vous souhaitez créer un rapport, puis cliquez sur **Appliquer**.
+1. Sélectionnez le ou les emails sur lesquels vous souhaitez créer un rapport et cliquez sur **Appliquer**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Exécuter le rapport {#run-report}
 
-1. Pour exécuter le rapport, il vous suffit de cliquer sur le **Rapport** .
+1. Pour exécuter le rapport, cliquez simplement sur l’onglet **Rapport** .
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Bien qu’elle ne soit pas illustrée, la note d’engagement est une colonne de ce rapport. Voir [Présentation de la note d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) pour plus d’informations.
+   >Bien qu’elle ne soit pas illustrée, la note d’engagement est une colonne de ce rapport. Voir [Présentation de la note d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) pour plus d’informations sur ce qu’elle est.
 
    Très bon travail ! Notez que le rapport est regroupé par programme d’engagement.

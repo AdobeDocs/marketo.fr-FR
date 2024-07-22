@@ -15,19 +15,19 @@ ht-degree: 7%
 
 Si votre identité électronique n’est pas vérifiée, procédez comme suit.
 
-1. Cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/verify-your-email-1.png)
 
-1. Sous Mon compte, cliquez sur **Paramètres de messagerie électronique**.
+1. Sous Mon compte, cliquez sur **Paramètres de courrier électronique**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Sous Adresse et signature, recherchez l’identité électronique à vérifier et cliquez sur **Envoyer un message de vérification**. Un nouvel email de vérification sera envoyé.
+1. Sous Adresse et signature, recherchez l’identité électronique à vérifier et cliquez sur **Renvoyer la vérification du courrier électronique**. Un nouvel email de vérification sera envoyé.
 
    ![](assets/verify-your-email-3.png)
 
-1. Cliquez sur **Réinitialiser**.
+1. Cliquez sur **Resend**.
 
    ![](assets/verify-your-email-4.png)
 

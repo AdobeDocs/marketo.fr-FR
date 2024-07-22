@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >&quot;Ne pas effectuer de suivi&quot; sera défini sur Ignorer par défaut. Par conséquent, si c’est ce que vous souhaitez, vous n’aurez aucune mesure à prendre.
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Sélectionner **[!UICONTROL Assistance]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **[!UICONTROL Support]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Pour en savoir plus sur &quot;Ne pas suivre&quot; et son fonctionnement, consultez la page [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Pour en savoir plus sur &quot;Ne pas suivre&quot; et son fonctionnement, consultez [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).

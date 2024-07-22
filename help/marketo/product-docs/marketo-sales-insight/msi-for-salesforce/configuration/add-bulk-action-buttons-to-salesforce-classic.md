@@ -16,15 +16,15 @@ Vous pouvez ajouter des boutons Marketo à vos mises en page Salesforce. Voici u
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Cliquez sur **Configuration**. Recherchez &quot;mise en page de recherche&quot; et cliquez sur le bouton **Rechercher des mises en page** under **Pistes**.
+1. Cliquez sur **Configuration**. Recherchez &quot;search layout&quot; et cliquez sur **Search Layouts** sous **Leads**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Cliquez sur **Modifier** dans le **Mode Liste des pistes** ligne.
+1. Cliquez sur **Modifier** dans la ligne **Mode Liste des pistes**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Ajouter **Ajouter à Marketo Campaign**, **Envoyer un courrier électronique Marketo**, et **Ajouter à la liste de contrôle** des boutons **Boutons sélectionnés** et **Enregistrer**.
+1. Ajoutez les boutons **Ajouter à Marketo Campaign**, **Envoyer un courrier électronique Marketo** et **Ajouter à la liste de contrôle** aux **boutons sélectionnés** et **Enregistrer**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 
@@ -32,7 +32,7 @@ Vous pouvez ajouter des boutons Marketo à vos mises en page Salesforce. Voici u
    >
    >Maintenez la touche Maj enfoncée pour sélectionner les trois boutons à la fois.
 
-1. Répétez ces étapes pour vos contacts (les trois boutons) et comptes (un seul bouton) : Ajouter à la liste de contrôle).
+1. Répétez ces étapes pour vos contacts (les trois boutons) et comptes (un seul bouton : Ajouter à la liste de contrôle).
 
    >[!NOTE]
    >

@@ -6,21 +6,21 @@ exl-id: 397f5942-70ec-47f4-bfe6-9c6944ed1a3f
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Modèle 12F {#template-12f}
 
-Cliquez avec le bouton droit de la souris sur [téléchargement du modèle 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
 
 ![](assets/image2015-8-4-14-3a51-3a6.png)
 
 Ce modèle comprend le contenu suivant :
 
 * Un en-tête (facultatif)
-* Une section Principale
+* Une section principale
 
    * comprend l’image principale et le lien En savoir plus
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
+[Modèle 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)

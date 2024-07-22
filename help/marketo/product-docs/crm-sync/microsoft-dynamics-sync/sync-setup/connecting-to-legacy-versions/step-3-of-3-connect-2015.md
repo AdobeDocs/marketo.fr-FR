@@ -6,8 +6,8 @@ exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 2%
+source-wordcount: '395'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 ## Entrer les informations sur l’utilisateur de synchronisation Dynamics {#enter-dynamics-sync-user-information}
 
-1. Connectez-vous à Marketo et cliquez sur **[!UICONTROL Administration]**.
+1. Connectez-vous à Marketo et cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/login-admin.png)
 
@@ -32,11 +32,11 @@ ht-degree: 2%
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Sélectionner **[!UICONTROL Microsoft]**.
+1. Sélectionnez **[!UICONTROL Microsoft]**.
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Cliquez sur **[!UICONTROL Modifier]** in **[!UICONTROL Saisie des informations d’identification]**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Entrer les informations d’identification]**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -44,7 +44,7 @@ ht-degree: 2%
    >
    >Assurez-vous que vos informations d’identification sont correctes, car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si des informations d’identification incorrectes sont enregistrées, vous devrez obtenir un nouvel abonnement Marketo.
 
-1. Saisissez le **[!UICONTROL Nom d’utilisateur]**, **[!UICONTROL Password]** Microsoft Dynamics **[!UICONTROL URL]**, et a **Identifiant/secret du client**. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Saisissez le **[!UICONTROL nom d’utilisateur]**, le **[!UICONTROL mot de passe]**, une **[!UICONTROL URL]** de Microsoft Dynamics et un **identifiant/secret client**. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/step-3-of-3-5.png)
 
@@ -52,15 +52,15 @@ ht-degree: 2%
    >
    >* Si votre Marketo a été configuré avant octobre 2020, l’identifiant du client et le secret sont des champs facultatifs. Sinon, elles sont obligatoires. L’obtention de ces informations dépend de la version de MSD que vous utilisez.
    >* Le nom d’utilisateur dans Marketo doit correspondre au nom d’utilisateur de l’utilisateur synchronisé dans le CRM. Le format peut être `user@domain.com` ou DOMAIN\user.
-   >* Si vous ne connaissez pas l’URL, [découvrez comment le trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* Si vous ne connaissez pas l&#39;URL, [ découvrez comment la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!TIP]
    >
-   >Vous ne connaissez pas l&#39;URL ? Nous vous montrerons comment trouver votre [URL du service d’organisation Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} ici.
+   >Vous ne connaissez pas l&#39;URL ? Nous vous montrerons ici comment trouver votre [URL du service d’organisation Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
-1. Cliquez sur **[!UICONTROL Modifier]** in **[!UICONTROL Sélectionner les champs à synchroniser]**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Sélectionner les champs à synchroniser]**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -70,7 +70,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la variable [sync désactivé](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant le [champ de sélection à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
 ## Champs de synchronisation pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
@@ -80,7 +80,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et sélectionner 
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **[!UICONTROL Modifier]** sur Détails de synchronisation du champ.
+1. Cliquez sur **[!UICONTROL Modifier]** sur Détails de la synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -90,7 +90,7 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et sélectionner 
 
 ## Activer la synchronisation {#enable-sync}
 
-1. Cliquez sur **[!UICONTROL Modifier]** in **[!UICONTROL Activer la synchronisation]**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 

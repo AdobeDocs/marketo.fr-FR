@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Les fonctionnalités suivantes sont incluses dans la version de l’hiver 18. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
 
-Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque**: certaines des fonctionnalités incluses dans cette version n’ont pas d’articles associés. Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
+Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque** : Certaines des fonctionnalités incluses dans cette version n’ont pas d’articles associés. Si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
 ## Amélioration des performances et du débit des campagnes {#campaign-performance-and-throughput-enhancements}
 
@@ -25,9 +25,9 @@ Marketo exploite notre architecture de données massives pour augmenter le débi
 
 Deux améliorations ont été apportées à notre intégration Salesforce CRM :
 
-* [Notifications de l’administrateur Marketo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) pour certains échecs de synchronisation CRM (informations d’identification expirées, limites d’API atteintes, etc.)
+* [ Notifications de l’administrateur Marketo ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) pour certains échecs de synchronisation CRM (informations d’identification expirées, limites de l’API atteintes, etc.)
 
-* [Possibilité de désactiver les notifications par e-mail](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) aux propriétaires de piste lors de l’affectation de piste
+* [Possibilité de désactiver les notifications par e-mail](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) pour les propriétaires de piste lors de l’attribution de pistes
 
 Ces améliorations seront déployées en 2018.
 
@@ -55,9 +55,9 @@ Les scripts Velocity sont désormais pris en charge dans les emails utilisant du
 
 **Fuseau horaire du destinataire**
 
-* **[Cadence mensuelle des infirmières](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: nous avons ajouté la possibilité de planifier des programmes d’éducation à un rythme mensuel.
+* **[Cadence mensuelle d’allaitement](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)** : nous avons ajouté la possibilité de planifier des programmes d’éducation en cadence mensuelle.
 
-* **[Arrêter la diffusion](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: vous pouvez désormais arrêter les envois restants en cours d’exécution.
+* **[Arrêter la diffusion](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)** : vous pouvez désormais arrêter tous les envois restants en cours d’exécution.
 
 ## Intégrations de réseaux publicitaires {#ad-network-integrations}
 
@@ -65,19 +65,19 @@ Les scripts Velocity sont désormais pris en charge dans les emails utilisant du
 
 Avec cette intégration, vous pouvez envoyer une audience Marketo à Google pour qu’elle soit ciblée à l’aide de Google AdWords, ainsi que re-cibler les audiences dans YouTube, Search et Gmail.
 
-**[Amélioration de l’API Audiences mappées linkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[Amélioration de l’API d’audiences mappées LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Notre nouvelle API LinkedIn vous permet désormais de recibler des personnes de votre base de données Marketo sur plusieurs comptes LinkedIn Campaign Manager.
 
 ## Personnalisation Web {#web-personalization}
 
-**Source de données japonaise pour la personnalisation web**
+**Source de données japonaises pour Personalization web**
 
-Marketo ajoute une source de données japonaise supplémentaire pour la personnalisation web afin d’améliorer l’identification des visiteurs web (recherche d’adresses IP inversées) et la personnalisation pour les visiteurs venus du Japon. Les noms des organisations s’affichent en japonais.
+Marketo ajoute une source de données japonaise supplémentaire pour le Personalization web afin d’améliorer l’identification des visiteurs web (recherche d’adresses IP inversées) et la personnalisation pour les visiteurs venus du Japon. Les noms des organisations s’affichent en japonais.
 
 **[Création d’un segment Web avec des listes statiques](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-La personnalisation web peut désormais personnaliser le contenu pour un visiteur web connu qui fait partie d’une liste statique définie dans les activités marketing (MLM). Grâce à cette amélioration, vous pouvez désormais commercialiser des listes statiques sur plusieurs canaux et cibler des personnes sur ces listes avec du contenu personnalisé sur votre site web.
+Web Personalization peut désormais personnaliser le contenu pour un visiteur Web connu qui fait partie d’une liste statique définie dans les activités marketing (MLM). Grâce à cette amélioration, vous pouvez désormais commercialiser des listes statiques sur plusieurs canaux et cibler des personnes sur ces listes avec du contenu personnalisé sur votre site web.
 
 ## ContentAI {#contentai}
 
@@ -95,7 +95,7 @@ Cette nouvelle API vous permet d’activer et de désactiver à distance les cam
 
 **Mise à jour de la désinscription**
 
-À compter du 1er mars 2018, tous les emails envoyés depuis [ToutApp.com](https://ToutApp.com) (et en utilisant le bouton &quot;Envoyer un courriel avec tout&quot; dans Salesforce) un lien de désabonnement sera ajouté en bas de la page.
+À compter du 1er mars 2018, tous les emails envoyés à partir de [ToutApp.com](https://ToutApp.com) (et en utilisant le bouton &quot;Envoyer un courriel avec tout&quot; dans Salesforce) auront un lien de désabonnement ajouté en bas de la page.
 
 **Mise à jour du flux en direct**
 

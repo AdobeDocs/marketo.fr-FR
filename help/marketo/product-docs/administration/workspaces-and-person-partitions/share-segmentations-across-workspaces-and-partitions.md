@@ -6,7 +6,7 @@ exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -23,26 +23,26 @@ Marketo est doué pour choisir les personnes appropriées pour un programme ou u
 
 >[!NOTE]
 >
->En savoir plus [comment créer des segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Découvrez [comment créer des segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Une fois ces personnages configurés (_et_ si vous utilisez des espaces de travail), vous souhaiterez les partager dans vos espaces de travail. Voici quelques bonnes choses à savoir :
+Une fois ces personnages configurés (_et_ que vous utilisez des espaces de travail), vous souhaiterez les partager dans vos espaces de travail. Voici quelques bonnes choses à savoir :
 
 ## Règles et conseils {#rules-tips}
 
-* Chaque abonnement Marketo peut contenir jusqu’à 20 segments &quot;totaux&quot; sur plusieurs espaces de travail (**pas 20 par espace de travail**).
+* Chaque abonnement Marketo peut contenir jusqu’à 20 segments &quot;totaux&quot; sur plusieurs espaces de travail (**et non 20 par espace de travail**).
 * Vous pouvez uniquement partager une segmentation avec les espaces de travail auxquels vous avez accès.
-* Veillez à créer et à utiliser une **Espace de travail par défaut ayant une visibilité sur toutes les partitions**.
+* Veillez à créer et à utiliser un **espace de travail par défaut ayant une visibilité sur toutes les partitions**.
 
 * Le traitement de la segmentation s’exécute uniquement sur les personnes de l’espace de travail dans lequel la segmentation est créée.
 
-   * Créez la segmentation que vous souhaitez partager dans l’espace de travail par défaut.
+   * Créez la segmentation que vous souhaitez partager dans le Workspace par défaut.
       * Approuver la segmentation
       * L’espace de travail partagé voit un dossier verrouillé et la segmentation est en lecture seule.
       * La version partagée ne peut pas être modifiée. Vous ne pouvez modifier que la segmentation d’origine dans laquelle elle a été créée.
 
    * Lorsque vous cliquez sur un segment (par exemple, Health Care) dans une segmentation partagée, les personnes que vous voyez ne seront que des personnes dans la partition associée à l’espace de travail que vous visualisez.
-      * Si vous créez une segmentation dans Workspace 1 (WS1) et que vous la partagez avec WS2 et WS1 n’a pas accès à la partition pour WS2, la segmentation NE SERA PAS recalculée.
-      * Si vous créez une Segmentation dans un espace de travail qui comporte des partitions limitées, puis que vous la partagez avec un autre espace de travail, cet espace de travail qui a reçu la Segmentation partagée ne verra les personnes que s’ils se chevauchent.
+      * Si vous créez une Segmentation dans Workspace 1 (WS1) et la partagez avec WS2 et WS1 n’a pas accès à la partition pour WS2, la segmentation NE SERA PAS recalculée.
+      * Si vous créez une Segmentation dans un espace de travail qui comporte des partitions limitées, puis que vous la partagez avec un autre espace de travail, cet espace de travail qui a reçu la Segmentation partagée ne voit les personnes que si elles se chevauchent.
 
 >[!NOTE]
 >
@@ -54,17 +54,17 @@ Une fois ces personnages configurés (_et_ si vous utilisez des espaces de trava
 
 ![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
-## Partage d’une segmentation {#share-a-segmentation}
+## Partager une segmentation {#share-a-segmentation}
 
-1. Accédez au **[!UICONTROL Base]**.
+1. Accédez à la **[!UICONTROL base de données]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Clic droit **[!UICONTROL Segments]** et sélectionnez **[!UICONTROL Nouveau dossier]**.
+1. Cliquez avec le bouton droit de la souris sur **[!UICONTROL Segmentations]** et sélectionnez **[!UICONTROL Nouveau dossier]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Nommez le dossier que vous allez partager dans les espaces de travail (par exemple : Partager des segments) et cliquez sur **[!UICONTROL Créer]**.
+1. Nommez le dossier que vous allez partager dans les espaces de travail (par exemple : Partager les segments) et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 

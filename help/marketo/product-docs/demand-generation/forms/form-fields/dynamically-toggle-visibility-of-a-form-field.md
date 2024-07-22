@@ -15,15 +15,15 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [Ajout d’une liste de pays à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Ajouter une liste de pays à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-L’une des fonctionnalités les plus intéressantes des formulaires Marketo est que vous pouvez masquer/afficher dynamiquement des champs de formulaire ou [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+L’une des fonctionnalités les plus intéressantes des formulaires Marketo est que vous pouvez masquer/afficher dynamiquement les champs de formulaire ou les [jeux de champs](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Dans cet exemple, masquons la variable **État** Champ sauf **Pays** est sélectionné comme &quot;États-Unis&quot;.
+>Dans cet exemple, masquons le champ **State** sauf si **Country** est sélectionné comme &quot;United States&quot;.
 
 1. Accédez à **Activités marketing**.
 
@@ -33,7 +33,7 @@ L’une des fonctionnalités les plus intéressantes des formulaires Marketo est
 
    ![](assets/editform-1.png)
 
-1. Sélectionnez le champ à masquer/afficher dynamiquement, puis cliquez sur le lien pour **Règles de visibilité**.
+1. Sélectionnez le champ que vous souhaitez masquer/afficher dynamiquement et cliquez sur le lien pour **Règles de visibilité**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -59,7 +59,7 @@ L’une des fonctionnalités les plus intéressantes des formulaires Marketo est
 
    >[!NOTE]
    >
-   >Nous avons auparavant converti le Pays en un type de champ de liste de sélection et [ajout de tous les pays en tant que valeurs](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Nous avons précédemment converti Pays en un type de champ de liste de sélection et [ajouté tous les pays en tant que valeurs](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Cliquez sur **Enregistrer**.
 
@@ -69,6 +69,6 @@ Et c&#39;est tout ! Désormais, lorsque des personnes remplissent ce formulaire 
 
 >[!IMPORTANT]
 >
->Le comportement des champs de formulaire fonctionne parfaitement lorsque les valeurs de champ sont définies/mises à jour au moyen d’un script personnalisé utilisant [Fonctions d’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
+>Le comportement des champs de formulaire fonctionne de manière transparente lorsque les valeurs de champ sont définies/mises à jour par le biais d’un script personnalisé à l’aide des [fonctions API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} de Forms 2.0.
 >
 >Les champs conditionnels peuvent ne pas fonctionner comme prévu si les valeurs de champ sont modifiées par des scripts externes autres que l’API JavaScript Forms 2.0.

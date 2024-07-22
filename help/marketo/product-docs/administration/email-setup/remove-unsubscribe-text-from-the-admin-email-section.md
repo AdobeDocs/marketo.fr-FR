@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Supprimer le texte Désabonner de la section Admin > Email {#remove-unsubscribe-text-from-the-admin-email-section}
 
-La seule raison pour laquelle vous devriez supprimer complètement le contenu de désabonnement de **[!UICONTROL Administration]** > **[!UICONTROL Email]** est si vous choisissez de créer le lien de désabonnement dans les modèles d’email eux-mêmes. La zone de texte comporte une validation qui ne vous permet pas d’enregistrer sans contenu. Vous pouvez contourner ce problème en ajoutant un petit commentaire de HTML. Le commentaire de HTML ne s’affiche pas dans le client de messagerie, car il affiche l’email en HTML et les commentaires sont omis. Voici comment le faire.
+La seule raison pour laquelle vous devriez supprimer complètement le contenu de désabonnement de la zone **[!UICONTROL Admin]** > **[!UICONTROL Email]** est si vous choisissez de créer le lien de désabonnement dans les modèles d’email eux-mêmes. La zone de texte comporte une validation qui ne vous permet pas d’enregistrer sans contenu. Vous pouvez contourner ce problème en ajoutant un petit commentaire d’HTML. Le commentaire d’HTML ne s’affiche pas dans le client de messagerie, car il affiche l’email en HTML et les commentaires sont omis. Voici comment le faire.
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
@@ -23,13 +23,13 @@ La seule raison pour laquelle vous devriez supprimer complètement le contenu de
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
-1. Sélectionnez tout le texte et appuyez sur la touche **[!UICONTROL Supprimer]** clé.
+1. Sélectionnez tout le texte et appuyez sur la touche **[!UICONTROL Supprimer]**.
 
    >[!CAUTION]
    >
    >Avant la suppression, copiez/collez-le dans un document texte en tant que sauvegarde.
 
-1. Saisissez . `<!--This is a comment -->`.
+1. Saisissez `<!--This is a comment -->`.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
@@ -39,4 +39,4 @@ La seule raison pour laquelle vous devriez supprimer complètement le contenu de
 
 >[!NOTE]
 >
->Pour le **Désabonner le texte** vous devez ajouter un seul caractère. Utilisez un tiret ou un point.
+>Pour le **texte de désabonnement**, vous devez ajouter un caractère unique. Utilisez un tiret ou un point.

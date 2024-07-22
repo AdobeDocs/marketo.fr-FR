@@ -19,10 +19,10 @@ Voici comment les données sont échangées :
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Lorsque vous créez l’événement Marketo, sélectionnez **Webinaire** comme type de canal. Vous pouvez modifier ce canal dans Admin et en créer un nouveau. Si vous créez un canal, il doit être du type **Événement avec le webinaire** pour que l’intégration fonctionne. Voir [Création d’un canal de programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} pour plus d’informations.
+Lorsque vous créez l’événement Marketo, sélectionnez **Webinaire** comme type de canal. Vous pouvez modifier ce canal dans Admin et en créer un nouveau. Si vous créez un canal, il doit être de type **Événement avec webinaire** pour que l’intégration fonctionne. Pour plus d’informations, voir [Création d’un canal de programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} .
 
-L’étape suivante consiste à [configuration des paramètres d’événement et synchronisation de Marketo avec votre webinaire](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
+L’étape suivante consiste à [configurer les paramètres d’événement et à synchroniser Marketo avec votre webinaire](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Compréhension des événements d’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

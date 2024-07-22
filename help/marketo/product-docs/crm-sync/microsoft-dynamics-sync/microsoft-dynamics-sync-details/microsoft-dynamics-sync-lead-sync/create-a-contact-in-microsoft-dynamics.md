@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Cliquez sur **[!UICONTROL Actions de personne]** et **[!DNL Microsoft]**, puis sélectionnez **[!UICONTROL Synchronisation de la personne avec Microsoft]**.
+1. Cliquez sur **[!UICONTROL Actions de personne]** et **[!DNL Microsoft]**, puis sélectionnez **[!UICONTROL Synchroniser la personne avec Microsoft]**.
 
    ![](assets/two.png)
 
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Lors de l’utilisation de la variable[!UICONTROL Synchronisation de la personne avec Microsoft]&quot;action de flux (dans une campagne de déclenchement uniquement), le prospect/contact sera créé en temps réel dans Dynamics.
+   >Lors de l’utilisation de l’action de flux &quot;[!UICONTROL Synchroniser la personne avec Microsoft]&quot; (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans Dynamics.
 
 1. Marketo qualifie cet enregistrement Lead dans Dynamics en un contact qui n’est associé à aucun compte dans Dynamics.
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Maintenant, vous pouvez sélectionner **[!UICONTROL Contact]** lorsque vous utilisez la contrainte Synchroniser comme dans un filtre de campagne dynamique.
+1. Désormais, vous pouvez sélectionner **[!UICONTROL Contact]** lorsque vous utilisez la contrainte Synchroniser comme dans un filtre de campagne dynamique.
 
    ![](assets/five.png)

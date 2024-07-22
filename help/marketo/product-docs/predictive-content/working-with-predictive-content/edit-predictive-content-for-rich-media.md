@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,9 +17,9 @@ Voici comment configurer votre contenu prédictif pour les médias riches.
 
 >[!PREREQUISITES]
 >
->Le contenu doit être [approuvé pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) sur la page Tout le contenu .
+>Le contenu doit être [ approuvé pour le contenu prédictif ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) sur la page Tous les contenus.
 
-1. Sur le **Contenu prédictif** , cliquez sur un titre pour ouvrir l’éditeur.
+1. Sur la page **Contenu prédictif**, cliquez sur un titre pour ouvrir l’éditeur.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
@@ -31,11 +31,11 @@ Voici comment configurer votre contenu prédictif pour les médias riches.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Saisissez un **Description**.
+1. Saisissez une **description**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Cliquez sur le bouton **Catégories** pour sélectionner ou ajouter une zone [catégories que vous avez déjà configurées](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatif).
+1. Cliquez sur la zone **Catégories** pour sélectionner/ajouter [catégories que vous avez déjà configurées](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatif).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 

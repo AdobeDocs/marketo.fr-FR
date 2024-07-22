@@ -6,7 +6,7 @@ exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ La première étape consiste à décider qui doit recevoir votre message in-app.
    >
    >Plusieurs valeurs pour le champ Application mobile ne sont actuellement pas prises en charge pour les programmes de messages in-app.
 
-1. **Ouverture d’application** est le paramètre Action par défaut, mais vous pouvez sélectionner tout événement personnalisé que vous avez déjà configuré.
+1. **App Open** est le paramètre d’action par défaut, mais vous pouvez sélectionner n’importe quel événement personnalisé que vous avez déjà configuré.
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
@@ -35,11 +35,11 @@ La première étape consiste à décider qui doit recevoir votre message in-app.
    >
    >Le déclencheur par défaut (ouverture de l’application) et les déclencheurs personnalisés ajoutés au code par votre développeur s’affichent automatiquement dans le sélecteur Action. Si un événement personnalisé est manquant, contactez votre développeur pour vous assurer qu’il a ajouté les événements personnalisés à l’application. Gardez à l’esprit que le processus d’approbation et de codage des événements personnalisés peut prendre du temps. Voir [cet article](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) pour plus d’informations.
 
-1. Des contraintes sont disponibles pour la variable **A une activité d’application mobile** se déclencher si vous en avez besoin.
+1. Des contraintes sont disponibles pour le déclencheur **Avec activité d’application mobile** si vous en avez besoin.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. Vous pouvez ajouter des filtres à votre liste dynamique pour limiter la réception de votre message in-app. Dans cet exemple, en utilisant la variable **Date d’acquisition** filtre, seules les personnes acquises le 9 juin 2016 recevront le message in-app.
+1. Vous pouvez ajouter des filtres à votre liste dynamique pour limiter la réception de votre message in-app. Dans cet exemple, en utilisant le filtre **Date d’acquisition**, seules les personnes acquises le 9 juin 2016 recevront le message in-app.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +49,10 @@ La première étape consiste à décider qui doit recevoir votre message in-app.
 
    >[!NOTE]
    >
-   >La limite d’affichage par défaut est : **Une fois par session**. Si vous souhaitez que le message cesse de s’afficher après la réponse du destinataire, sélectionnez **À chaque fois que l’utilisateur n’a pas cliqué**. S&#39;il doit s&#39;afficher à chaque fois, quel que soit le destinataire, choisissez **Chaque heure**.
+   >La limite d’affichage par défaut est **Une fois par session**. Si vous souhaitez que le message cesse de s’afficher après la réponse du destinataire, sélectionnez **A chaque fois que l’utilisateur n’a pas appuyé sur**. S&#39;il doit s&#39;afficher à chaque fois, quel que soit le destinataire, choisissez **Chaque fois**.
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 Beau travail ! Vous avez votre audience définie. Vous avez gagné la barre bleue et la coche verte.
 
-Temps jusqu’à [sélectionner votre message in-app ;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Temps jusqu’à [sélectionner votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md) !

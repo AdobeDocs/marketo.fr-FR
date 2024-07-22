@@ -13,17 +13,17 @@ ht-degree: 9%
 
 # Calendrier des versions {#release-schedule}
 
-**Version**: mois/année de chaque version. Une fois disponibles, les notes de mise à jour seront liées dans le tableau ci-dessous.
+**Version** : mois/année de chaque version. Une fois disponibles, les notes de mise à jour seront liées dans le tableau ci-dessous.
 
-**Date de publication**: le déploiement commence généralement le mardi de la semaine de publication, avec la mise à niveau plus importante le vendredi soir. La date indiquée correspond à la mise à jour du vendredi.
+**Date de publication** : le déploiement commence généralement le mardi de la semaine de publication, et d’autres mises à niveau sont effectuées le vendredi soir. La date indiquée correspond à la mise à jour du vendredi.
 
-**État**:
+**Status** :
 
 * En programmation : nous prévoyons de publier les fonctionnalités et améliorations à la date indiquée.
 * En cours - Nous sommes en train de déployer les fonctionnalités de la version.
 * Expédié : la version est terminée.
 
-_Les dates et fonctionnalités de publication peuvent être modifiées._
+_Les dates/fonctionnalités de publication peuvent être modifiées_
 
 <table>
  <tbody> 

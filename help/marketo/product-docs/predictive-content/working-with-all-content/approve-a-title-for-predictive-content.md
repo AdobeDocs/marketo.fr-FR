@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11384661
-description: Approbation d’un titre pour le contenu prédictif - Documents Marketo - Documentation du produit
+description: Approuver un titre pour le contenu prédictif - Documents Marketo - Documentation du produit
 title: Approbation d’un titre pour le contenu prédictif
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vous pouvez ajouter n’importe quel titre sur votre page Tout le contenu au contenu prédictif en l’approuvant sur la page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu .
 
-## Toute la page de contenu {#all-content-page}
+## Toute la page Contenu {#all-content-page}
 
 1. Cochez la case en regard de l’élément de contenu.
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Cliquez sur le bouton **Actions de contenu** et sélectionnez **Approbation du contenu prédictif**.
+1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Approuver pour le contenu prédictif**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -33,7 +33,7 @@ Vous pouvez également approuver les titres pour le contenu prédictif directeme
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Vérifiez les **Approbation du contenu prédictif** dans la fenêtre contextuelle Modifier le contenu , puis cliquez sur **Enregistrer**.
+1. Cochez la case **Approuver pour le contenu prédictif** dans la fenêtre contextuelle Modifier le contenu et cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

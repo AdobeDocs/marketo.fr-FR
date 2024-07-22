@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Accélérez les efforts de prospection grâce à des outils d’intelligence et 
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via l’ [Package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
+>Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via le [package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement déployée pour tous les utilisateurs de Sales Insight. Si vous souhaitez que la priorité soit établie dans le déploiement, envoyez un e-mail à `sales-insights(at)adobe(dot)com`.
+>Cette fonctionnalité est actuellement déployée pour tous les utilisateurs de Sales Insight. Si vous souhaitez que la priorité soit établie dans le déploiement, envoyez un email à `sales-insights(at)adobe(dot)com`.
 
 Pour une présentation vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
@@ -32,9 +32,9 @@ Les actions suivantes sont disponibles dans la liste déroulante &quot;Choisir l
 
 * Envoyer un e-mail de vente
    * Les emails de vente ont un suivi des affichages, des clics et des réponses (lorsque le canal de diffusion est configuré)
-   * Inclut la personnalisation des emails, la signature personnalisée et les pièces jointes
+   * Inclut le Personalization par courrier électronique, la signature personnalisée et les pièces jointes
    * Partage de modèles et rapports
-   * Partage d’équipe, emails de groupe et fonctionnalité CC/Cci
+   * Partage d’équipe, e-mails de groupe et fonctionnalité CC/Cci
    * L’activité de courrier électronique de vente sera enregistrée dans l’enregistrement de personne Marketo.
    * Filtres et déclencheurs correspondants dans les campagnes dynamiques Marketo (détails ci-dessous)
 
@@ -44,7 +44,7 @@ Les actions suivantes sont disponibles dans la liste déroulante &quot;Choisir l
    * L’activité de campagne sera enregistrée dans l’enregistrement de personne Marketo.
    * Filtres et déclencheurs correspondants dans les campagnes dynamiques Marketo (détails ci-dessous)
 
-* Journal des ventes
+* Dialecte de ventes
    * Lancer des appels de vente à l’aide de la boîte de dialogue dans le CRM
    * Inclut la présence locale, pré-enregistrée
    * Consigner le résultat de l’appel, l’enregistrement des appels dans le panneau et l’historique des activités
@@ -64,7 +64,7 @@ Vous pouvez accéder au flux en direct en cliquant sur l’icône ((0)) dans le 
 Les données suivantes sont disponibles dans les onglets du panneau MSI :
 
 * Tableau de bord des statistiques
-   * La grille de vitesse d’engagement comprend les activités des e-mails de vente, des actions de campagne de vente et du dialecte de vente.
+   * La grille de vitesse d’engagement comprend des activités provenant des e-mails de vente, des actions de campagne de vente et de la boîte de dialogue de vente.
    * Campagnes de vente à venir : lorsqu’un prospect fait partie d’une campagne en cours, ces informations seront disponibles dans l’onglet Campagnes de vente à venir.
    * Tâches à venir : lorsqu’une tâche à venir se rapporte à un prospect, ces informations seront disponibles dans l’onglet Tâches à venir.
 
@@ -84,9 +84,9 @@ Les actions suivantes sont disponibles dans le volet de navigation supérieur :
 
 * Envoyer un e-mail de vente : possibilité d’envoyer des e-mails de groupe personnalisés ou modélisés avec un suivi des vues, des clics et des réponses à tous les contacts associés à un compte/une opportunité.
    * Les emails de vente ont un suivi des affichages, des clics et des réponses (lorsque le canal de diffusion est configuré)
-   * Inclut la personnalisation des emails, la signature personnalisée et les pièces jointes
+   * Inclut le Personalization par courrier électronique, la signature personnalisée et les pièces jointes
    * Partage de modèles et rapports
-   * Partage d’équipe, emails de groupe et fonctionnalité CC/Cci
+   * Partage d’équipe, e-mails de groupe et fonctionnalité CC/Cci
    * L’activité de courrier électronique de vente sera enregistrée dans l’enregistrement de personne Marketo.
    * Filtres et déclencheurs correspondants dans les campagnes dynamiques Marketo (détails ci-dessous)
 
@@ -122,7 +122,7 @@ Les données suivantes sont disponibles dans les onglets :
 
 ## Onglet global Marketo {#marketo-global-tab}
 
-**Onglet Meilleurs paris**
+**Onglet Meilleurs billets**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
@@ -163,7 +163,7 @@ Les actions en ligne suivantes sont disponibles pour les pistes/contacts individ
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
-**Flux en direct**
+**Flux actif**
 
 * Possibilité d’afficher les mises à jour en direct sur les activités de vente, ainsi que la fonctionnalité d’ancrage d’écran
 * Les boutons Incorporer email, appel et cadence permettent à chaque client de disposer d’informations exploitables.
@@ -172,7 +172,7 @@ Les actions en ligne suivantes sont disponibles pour les pistes/contacts individ
 
 Activités commerciales capturées dans Marketo :
 
-* Envoyer un e-mail de vente : l’utilisateur a envoyé un e-mail de vente à un prospect.
+* Envoyer un courrier électronique de vente : l’utilisateur a envoyé un courrier électronique de vente à un prospect.
 * Ouverture d’un courrier électronique de vente : un prospect a ouvert un courrier électronique de vente envoyé
 * Clic sur le courrier électronique de vente : le prospect a cliqué sur un lien dans un courrier électronique de vente
 * Courrier électronique de vente répondu : le prospect a répondu à un courrier électronique de vente.
@@ -185,7 +185,7 @@ Les filtres et déclencheurs incluent :
 * Envoyer un e-mail de vente
 * E-mail de vente ouvert
 * Courrier électronique de vente cliqué
-* Réponse à l’e-mail de vente
+* A répondu à l&#39;e-mail commercial
 * Appel de vente reçu
 * Ajout à la campagne de ventes
 * Supprimé de la campagne SFDC

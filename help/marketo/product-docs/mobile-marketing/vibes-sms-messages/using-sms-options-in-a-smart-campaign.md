@@ -2,7 +2,8 @@
 description: Utilisation des options SMS dans une campagne dynamique - Documents Marketo - Documentation du produit
 title: Utilisation des options SMS dans une campagne dynamique
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -11,7 +12,7 @@ ht-degree: 2%
 
 # Utilisation des options SMS dans une campagne dynamique {#using-sms-options-in-a-smart-campaign}
 
-Après vous [créer un SMS ;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, vous souhaitez utiliser des déclencheurs et des filtres de liste dynamique dans une campagne dynamique pour en tirer parti.
+Après avoir [créé un SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, vous souhaiterez utiliser des triggers et filtres de liste dynamique dans une campagne dynamique pour en tirer les avantages.
 
 >[!NOTE]
 >
@@ -19,7 +20,7 @@ Après vous [créer un SMS ;](/help/marketo/product-docs/mobile-marketing/vibes-
 
 >[!PREREQUISITES]
 >
->Les déclencheurs/filtres SMS n’apparaissent que si la variable [Le service Vibes a été activé](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
+>Les déclencheurs/filtres SMS n’apparaissent que si le service [Vibes a été activé](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## Triggers SMS {#sms-triggers}
 
@@ -32,11 +33,11 @@ Après vous [créer un SMS ;](/help/marketo/product-docs/mobile-marketing/vibes-
 
 Voici quelques exemples :
 
-La variable **SMS Message Bounces** déclenche un flux, tel que l’envoi d’un email, lorsqu’un SMS rebondit.
+Le déclencheur **SMS Message Bounces** initie un flux, comme l&#39;envoi d&#39;un email, lorsqu&#39;un message SMS rebondit.
 
-La variable **S’abonne à la liste des vidéos** déclenche un flux lorsqu’une personne s’abonne.
+Le déclencheur **S’abonne à la liste des vidéos** lance un flux lorsqu’une personne s’abonne.
 
-La variable **Clics sur le lien dans un message SMS** déclenche un flux lorsqu’une personne clique sur un lien dans le SMS.
+Le déclencheur **Clics sur le lien dans le message SMS** initie un flux lorsqu’une personne clique sur un lien dans le message SMS.
 
 ## Filtres SMS {#sms-filters}
 
@@ -47,13 +48,13 @@ La variable **Clics sur le lien dans un message SMS** déclenche un flux lorsqu�
   </tr>
 </table>
 
-La variable **Abonné à la liste des vidéos** filtre recherche quiconque possède *ever* abonné à Vibes. Cela inclut les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre est mieux adapté à la création de rapports.
+Le filtre **Abonné à la liste des vidéos** trouve quiconque a *ever* abonné à Vibes. Cela inclut les personnes désabonnées et supprimées, même si les personnes supprimées sont omises du flux. Ce filtre est mieux adapté à la création de rapports.
 
-En revanche, la variable **Membre de la liste des vidéos** filter find _any_ actuellement abonné à Vibes et convient le mieux aux campagnes ou listes dynamiques.
+En revanche, le filtre **Member of Vibes List** trouve _n’importe qui_ actuellement abonné à Vibes et est le mieux adapté aux campagnes ou listes dynamiques.
 
 >[!NOTE]
 >
->Tous les filtres SMS incluent la variable **Date de l’activité** contrainte par défaut.
+>Tous les filtres SMS incluent par défaut la contrainte **Date of Activity** .
 
 ## Étapes de flux de SMS {#sms-flow-steps}
 
@@ -81,10 +82,10 @@ Il existe trois étapes de flux SMS parmi lesquelles choisir.
 
 >[!NOTE]
 >
->La variable **Abonnement à la liste des vidéos** et **Se désabonner de la liste Vibes** les flux ont des exigences différentes. Pour **Abonner**, vous devez sélectionner la liste Vibes et la campagne d&#39;acquisition Vibes . Pour **Désabonner**, seule la liste Vibes est requise.
+>Les flux **S’abonner à la liste des vidéos** et **Se désabonner de la liste des vidéos** ont des exigences différentes. Pour **S’abonner**, vous devez sélectionner la liste Vibes et la campagne d’acquisition Vibes. Pour **Se désabonner**, seule la liste Vibes est requise.
 
 >[!MORELIKETHIS]
 >
 >* [Envoyer un SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [Définition d’une liste dynamique pour Smart Campaign | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [Définition d’une liste dynamique pour Smart Campaign | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [ Définition d’une liste dynamique pour une campagne dynamique | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [ Définition d’une liste dynamique pour une campagne dynamique | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

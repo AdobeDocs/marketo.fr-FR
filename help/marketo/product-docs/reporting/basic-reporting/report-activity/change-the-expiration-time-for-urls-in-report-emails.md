@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Les liens contenus dans les emails d’abonnement à votre rapport expirent au bout de trois jours. Pour modifier le délai d’expiration de ces liens, procédez comme suit.
 
-1. Sous **Administration**, cliquez sur **Paramètres de connexion**.
+1. Sous **Admin**, cliquez sur **Paramètres de connexion**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Cliquez sur le bouton **Modifier l’expiration de l’URL** bouton .
+1. Cliquez sur le bouton **Edit URL Expiration** (Modifier l’expiration de l’URL).
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 

@@ -7,7 +7,7 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[Création d’une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Créer une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Lors de l’utilisation de partitions de personne, configurez des règles d’affectation pour acheminer les personnes créées à partir de votre CRM vers leurs partitions respectives.
 
@@ -27,7 +27,7 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 >
 >Seules les personnes créées dans Marketo à partir de votre CRM et via l’API SOAP auront des règles d’attribution qui leur seront appliquées.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
@@ -35,11 +35,11 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Sous , **[!UICONTROL Partitions de personne]** , cliquez sur **[!UICONTROL Règles d’affectation]**.
+1. Sous l’onglet **[!UICONTROL Partitions de personne]**, cliquez sur **[!UICONTROL Règles d’affectation]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Cliquez sur **[!UICONTROL Ajouter un choix]** ajouter des conditions pour le routage des personnes dans des partitions individuelles.
+1. Cliquez sur **[!UICONTROL Ajouter un choix]** pour ajouter des conditions de routage des personnes dans des partitions de personne.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 

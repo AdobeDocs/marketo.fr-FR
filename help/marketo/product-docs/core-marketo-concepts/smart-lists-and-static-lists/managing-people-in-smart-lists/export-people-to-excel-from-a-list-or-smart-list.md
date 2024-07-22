@@ -19,7 +19,7 @@ Si vous avez besoin de résultats de liste ou de liste dynamique en dehors de Ma
 
    ![](assets/ma.png)
 
-1. Sélectionnez la liste ou la liste dynamique à exporter et accédez au **[!UICONTROL Personnes]** .
+1. Sélectionnez la liste ou la liste dynamique à exporter et accédez à l’onglet **[!UICONTROL Personnes]**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,7 +27,7 @@ Si vous avez besoin de résultats de liste ou de liste dynamique en dehors de Ma
 
    ![](assets/exportpeople.png)
 
-1. Sélectionner **[!UICONTROL Colonnes visibles]** et cliquez sur **[!UICONTROL Exporter]**.
+1. Sélectionnez **[!UICONTROL Colonnes visibles]** et cliquez sur **[!UICONTROL Exporter]**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
@@ -37,12 +37,12 @@ Si vous avez besoin de résultats de liste ou de liste dynamique en dehors de Ma
 
    >[!TIP]
    >
-   >Si vos enregistrements de personne contiennent des caractères étrangers qui ne sont pas correctement rendus lors de l’exportation, essayez de modifier le type de fichier dans la variable **[!UICONTROL Format]** menu déroulant.
+   >Si vos enregistrements de personne contiennent des caractères étrangers qui ne sont pas correctement rendus lors de l’exportation, essayez de modifier le type de fichier dans la liste déroulante **[!UICONTROL Format]**.
 
-1. L’exportation s’exécute. Une fois que vous avez terminé, cliquez sur **[!UICONTROL Télécharger maintenant]** pour saisir le fichier.
+1. L’exportation s’exécute. Une fois que vous avez terminé, vous pouvez cliquer sur **[!UICONTROL Télécharger maintenant]** pour attraper le fichier.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Si l’exportation prend du temps, vous pouvez toujours vous déconnecter et y revenir ultérieurement. La variable **[!UICONTROL Télécharger maintenant]** est accessible en sélectionnant **[!UICONTROL Afficher l’état d’exportation]** dans le **[!UICONTROL Actions de liste]** et est valide pendant une semaine.
+   >Si l’exportation prend du temps, vous pouvez toujours vous déconnecter et y revenir ultérieurement. Le lien **[!UICONTROL Télécharger maintenant]** est accessible en sélectionnant **[!UICONTROL Afficher l’état d’exportation]** dans le menu **[!UICONTROL Actions de liste]** et est valide pendant une semaine.

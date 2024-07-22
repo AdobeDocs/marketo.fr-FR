@@ -18,7 +18,7 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 ## Panneau Marketo Sales Insight dans la disposition des pistes  {#marketo-sales-insight-panel-in-lead-layout}
 
 * Etoiles et flammes
-* Moment significatif
+* Moment intéressant
 * Activité Web
 * Évaluation
 * Courrier électronique (ouvrir et cliquer)
@@ -43,7 +43,7 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 ## Panneau Marketo Sales Insight dans la disposition Contact  {#marketo-sales-insight-panel-in-contact-layout}
 
 * Etoiles et flammes
-* Moment significatif
+* Moment intéressant
 * Activité Web
 * Évaluation
 * Courrier électronique (ouvrir et cliquer)
@@ -68,7 +68,7 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 ## Panneau Marketo Sales Insight dans la disposition du compte {#marketo-sales-insight-panel-in-account-layout}
 
 * Etoiles et flammes
-* Moment significatif
+* Moment intéressant
 * Activité Web
 * Évaluation
 * Courrier électronique (ouvrir et cliquer)
@@ -78,6 +78,6 @@ Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MS
 * Priorité (étoiles et flammes)
 * Nom (lié à la page Prospect/Contact)
 * Compte
-* Moment significatif
+* Moment intéressant
 * Statut
 * Flux de piste - Inclut la possibilité de s’abonner à la messagerie instantanée

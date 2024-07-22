@@ -6,7 +6,7 @@ exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Pour créer un rapport d’analyse des emails qui vous montrera chaque piste env
 >
 >Le moteur de données qui prend en charge l’analyse des emails ignore plus de 12 clics par personne s’ils proviennent du même email et de la même campagne. Tenez compte de cela lorsque vous comparez des rapports d’analyse des emails à des rapports Marketo Analytics standard.
 
-1. Launch **Explorateur de recettes**.
+1. Lancez **Revenue Explorer**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Cliquez sur **Créer** then **Rapport**.
+1. Cliquez sur **Créer** puis sur **Rapport**.
 
    ![](assets/report-that-lists-leads-2.png)
 
@@ -35,7 +35,7 @@ Pour créer un rapport d’analyse des emails qui vous montrera chaque piste env
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Recherchez le point jaune Nom d’email, cliquez dessus avec le bouton droit et sélectionnez **Filtrer**.
+1. Recherchez le point jaune Nom d’email, cliquez dessus avec le bouton droit et sélectionnez **Filtre**.
 
    ![](assets/report-that-lists-leads-4.png)
 
@@ -43,7 +43,7 @@ Pour créer un rapport d’analyse des emails qui vous montrera chaque piste env
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Faites glisser le **Nom de l’email** point jaune sur **Colonnes**.
+1. Faites glisser le point jaune **Nom de l&#39;email** sur **Colonnes**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ Pour créer un rapport d’analyse des emails qui vous montrera chaque piste env
    >
    >Vous pouvez ajouter de nombreux attributs de prospect/société sous forme de colonnes, vérifiez-les !
 
-1. Recherchez le **Nom complet** point jaune et faites-le glisser sur **Lignes**.
+1. Recherchez le point jaune **Nom complet** et faites-le glisser sur **Lignes**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Ajoutez maintenant la variable **Mesures** vous y êtes intéressé en double-cliquant dessus.
+1. Ajoutez maintenant les **mesures** qui vous intéressent en double-cliquant dessus.
 
    ![](assets/report-that-lists-leads-8.png)
 

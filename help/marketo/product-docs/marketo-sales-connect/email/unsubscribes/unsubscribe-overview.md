@@ -18,5 +18,5 @@ Il devient de plus en plus important pour les organisations de se conformer aux 
 * Les liens de désabonnement sont placés sur tous les emails envoyés par Sales Connect/ToutApp et Salesforce (cela ne s’applique pas aux emails personnalisés envoyés depuis Outlook ou Gmail).
 * Les administrateurs peuvent modifier les messages de désabonnement pour l’ensemble de l’équipe.
 * Les informations de désabonnement sont stockées dans PDV
-* Le désabonnement peut être effectué manuellement : Lien cliqué, synchronisation Salesforce et rebond
+* Les désabonnements peuvent être effectués manuellement : lien cliqué, synchronisation Salesforce et rebond
 * Nouvelle page d’entrée de lien de désabonnement

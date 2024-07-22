@@ -13,17 +13,17 @@ ht-degree: 1%
 
 # Ajout d’un nouveau périphérique de test {#adding-a-new-test-device}
 
-Il est facile d’ajouter un nouvel appareil de test auquel envoyer des notifications push.
+Il est facile d’ajouter un nouveau périphérique de test auquel envoyer des notifications push.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **Administration** puis le **Applications mobiles** lien.
+1. Cliquez sur **Admin** , puis sur le lien **Applications mobiles** .
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Cliquez sur le bouton **Périphériques de test** et **Nouveau périphérique de test**.
+1. Cliquez sur l’onglet **Périphériques de test** et **Nouveau périphérique de test**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -41,14 +41,14 @@ Il est facile d’ajouter un nouvel appareil de test auquel envoyer des notifica
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. L’application s’ouvre. Nommez l’appareil et appuyez sur **Oui**.
+1. L’application s’ouvre. Nommez l’appareil et appuyez sur **Yes**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
-   Succès !
+   Succès!
 
    ![](assets/image2015-7-17-17-3a33-3a5.png)
 
-1. Les mises à jour d’état pour afficher le périphérique sont ajoutées. Félicitations !
+1. Les mises à jour d’état pour afficher le périphérique sont ajoutées. Félicitations!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)

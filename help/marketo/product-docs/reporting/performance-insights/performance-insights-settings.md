@@ -1,6 +1,6 @@
 ---
 unique-page-id: 13795492
-description: Paramètres de statistiques sur les performances - Documents Marketo - Documentation du produit
+description: Paramètres de performances - Documents Marketo - Documentation du produit
 title: Paramètres de statistiques sur les performances
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
@@ -40,13 +40,13 @@ Découvrez les différentes options de paramètres dans MPI.
 
 ## Configuration de la période précédente {#previous-period-configuration}
 
-**Engagement, pipeline, tableaux de bord des recettes - Contribution uniquement**
+**Engagement, pipeline, tableaux de bord des recettes - contribution uniquement**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Période civile</strong></td> 
-   <td>Définissez la période précédente sur : mois, trimestre ou année calendaire précédent.</td> 
+   <td>Définissez la période précédente sur : mois, trimestre ou année du calendrier précédent.</td> 
   </tr> 
   <tr> 
    <td><strong>Période En glissement annuel</strong></td> 
@@ -57,7 +57,7 @@ Découvrez les différentes options de paramètres dans MPI.
 
 ## Opportunités influencées par le marketing {#marketing-influenced-opportunities}
 
-**Tableau de bord des pipelines - Contribution et tendance**
+**Tableau de bord du pipeline - Contribution et tendance**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Découvrez les différentes options de paramètres dans MPI.
  </tbody> 
 </table>
 
-**Tableau de bord des recettes - Contribution et Tendance**
+**Tableau de bord des recettes - Contribution et tendance**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Découvrez les différentes options de paramètres dans MPI.
 
 ## Calcul des coûts {#cost-calculation}
 
-**Tableaux de bord des pipelines et des recettes - Contribution et Tendance**
+**Tableaux de bord Pipeline et Recettes - Contribution et Tendance**
 
 <table> 
  <tbody> 

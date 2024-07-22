@@ -17,22 +17,22 @@ Les valeurs changent et sont mises à jour en permanence dans votre base de donn
 
 >[!PREREQUISITES]
 >
->[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Accédez au **[!UICONTROL Activités marketing]** zone.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez la liste dynamique et cliquez sur le bouton **[!UICONTROL Liste dynamique]** .
+1. Sélectionnez la liste dynamique et cliquez sur l’onglet **[!UICONTROL Liste dynamique]** .
 
    ![](assets/two-1.png)
 
-1. Recherchez le **[!UICONTROL Valeur de données modifiée]** filtrez et faites-le glisser sur la zone de travail.
+1. Recherchez le filtre **[!UICONTROL Valeur de données modifiée]** et faites-le glisser sur la zone de travail.
 
    ![](assets/three-1.png)
 
-1. Définir **[!UICONTROL Attribut]** dans le champ sur lequel vous souhaitez rechercher les modifications de valeur de données.
+1. Définissez **[!UICONTROL Attribut]** sur le champ sur lequel vous souhaitez rechercher les modifications de valeur de données.
 
    ![](assets/four.png)
 
-Ce filtre recherche toutes les personnes qui ont changé (toute modification) leur statut. Si vous voulez devenir encore plus fantaisiste, essayez [ajout d’une contrainte à un filtre Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+Ce filtre recherche toutes les personnes qui ont changé (toute modification) leur statut. Si vous souhaitez être encore plus optimisé, essayez [ d&#39;ajouter une contrainte à un filtre de liste dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

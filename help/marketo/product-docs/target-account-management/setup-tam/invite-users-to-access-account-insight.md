@@ -6,7 +6,7 @@ exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Suivez ces étapes pour permettre aux utilisateurs d’accéder à Account Insight.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles** dans l&#39;arbre. Cliquez ensuite sur le bouton **Utilisateurs commerciaux** et **Inviter un nouvel utilisateur commercial**.
+1. Cliquez sur **Utilisateurs et rôles** dans l’arborescence. Cliquez ensuite sur l’onglet **Utilisateurs commerciaux** et **Inviter de nouveaux utilisateurs commerciaux**.
 
    ![](assets/two-6.png)
 
-   Il existe deux manières d’inviter des utilisateurs : Par CRM ou par email. Dans cet exemple, nous utiliserons Invitation par CRM.
+   Il existe deux manières d&#39;inviter des utilisateurs : par CRM ou par email. Dans cet exemple, nous utiliserons Invitation par CRM.
 
    >[!NOTE]
    >
    >Lors de l’invitation de nouveaux utilisateurs (non Marketo) via la liste d’utilisateurs CRM, vous pouvez inviter plusieurs personnes à la fois. L&#39;invitation par email est 1 pour 1.
 
-1. Cliquez sur le bouton **Utilisateur CRM** et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur la liste déroulante **Utilisateur CRM** et sélectionnez un utilisateur.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez **Invitation d’un utilisateur par courrier électronique**, saisissez simplement leur prénom, nom et adresse électronique, puis passez à l’étape 4.
+   >Si vous choisissez **Inviter un utilisateur par e-mail**, saisissez simplement son prénom, son nom et son adresse e-mail, puis passez à l’étape 4.
 
 1. Pour définir une date d’expiration de l’accès de l’utilisateur (facultatif), cliquez sur l’icône de calendrier. Par défaut, il est défini sur &quot;jamais&quot;.
 
@@ -45,10 +45,10 @@ Suivez ces étapes pour permettre aux utilisateurs d’accéder à Account Insig
 
    ![](assets/five-5.png)
 
-1. Vérifiez les **Informations sur le compte** , puis cliquez sur **Suivant**.
+1. Cochez la case **Account Insight** et cliquez sur **Suivant**.
 
    ![](assets/six-3.png)
 
-1. Recherchez le message envoyé, apportez les modifications souhaitées (facultatif), puis cliquez sur **Envoyer**.
+1. Examinez le message envoyé, apportez les modifications souhaitées (facultatif) et cliquez sur **Envoyer**.
 
    ![](assets/seven-2.png)

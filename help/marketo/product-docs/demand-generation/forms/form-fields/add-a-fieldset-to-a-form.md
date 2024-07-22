@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359594
-description: Ajout d’un jeu de champs à un formulaire - Documents Marketo - Documentation du produit
+description: Ajouter un jeu de champs à un formulaire - Documents Marketo - Documentation du produit
 title: Ajouter un jeu de champs à un formulaire
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
@@ -23,11 +23,11 @@ Les jeux de champs sont sympas. Ils regroupent plusieurs champs. Vous pouvez con
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Cliquez sur le bouton **+** signer et sélectionner **FileSet**.
+1. Cliquez sur le signe **+** et sélectionnez **Jeu de champs**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Sélectionnez la **fieldset** et saisissez un **Libellé**.
+1. Sélectionnez le **champ** et saisissez un **libellé**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
@@ -43,4 +43,4 @@ Voilà !
 
 >[!TIP]
 >
->Vous pouvez masquer/afficher dynamiquement l’ensemble du jeu de champs en fonction d’un autre champ. En savoir plus sur [règles de visibilité](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Vous pouvez masquer/afficher dynamiquement l’ensemble du jeu de champs selon un autre champ. Découvrez les [règles de visibilité](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

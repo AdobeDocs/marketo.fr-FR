@@ -17,7 +17,7 @@ Créez des rapports basés sur les recettes à l’aide de la dimension Compte n
 
 >[!NOTE]
 >
->**Dimensions** : attributs (représentés par des points jaunes) qui donnent différentes vues des mesures.
+>**Dimensions** - attributs (représentés par des points jaunes) qui donnent différentes vues des mesures.
 
 ![](assets/one-2.png)
 
@@ -27,7 +27,7 @@ Créez des rapports basés sur les recettes à l’aide de la dimension Compte n
 
 Les rapports suivants ont accès à la dimension Compte nommé :
 
-* Analyse de l’e-mail
+* Analyse de l&#39;e-mail
 * Analyse de lead
 * Analyse d&#39;opportunité
 * Analyse de l’appartenance à un programme

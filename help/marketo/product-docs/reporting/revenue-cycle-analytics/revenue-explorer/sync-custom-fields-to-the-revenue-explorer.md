@@ -19,27 +19,27 @@ Revenue Cycle Analytics peut créer des rapports sur les champs Marketo personna
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **Administration** .
+1. Accédez à la section **Admin** .
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Sélectionner **Analyse du cycle des recettes**.
+1. Sélectionnez **Revenue Cycle Analytics**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Cliquez sur le bouton **Synchronisation des champs personnalisés** et sélectionnez la zone d’analyse de votre choix.
+1. Cliquez sur l’onglet **Synchronisation de champ personnalisé** et sélectionnez la zone d’analyse de votre choix.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Sélectionnez le champ pour lequel activer la synchronisation, puis cliquez sur **Modifier l’option de synchronisation**.
+1. Sélectionnez le champ pour lequel vous souhaitez activer la synchronisation et cliquez sur **Modifier l’option de synchronisation**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Modifiez la variable **État de synchronisation** to **Activé**.
+1. Remplacez le **État de synchronisation** par **Activé**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Sélectionnez la **Type RCA** de votre choix, puis cliquez sur **Enregistrer**.
+1. Sélectionnez le **type RCA** de votre choix, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 

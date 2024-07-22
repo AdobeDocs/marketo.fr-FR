@@ -21,7 +21,7 @@ Une nouvelle apparence, y compris la navigation pour la gestion des pistes Marke
 
 ## Module externe Sales Insight pour Outlook 2013 {#sales-insight-plugin-for-outlook}
 
-Pour ce faire, vous devrez télécharger le nouveau module externe. Vous pouvez le télécharger à partir de [here](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+Pour ce faire, vous devrez télécharger le nouveau module externe. Vous pouvez le télécharger à partir de [ici](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## Résolution du jeton {#token-resolution}
 
@@ -29,17 +29,17 @@ Lorsque vous envoyez un message électronique de test à partir de Sales Insigh
 
 ## Personnalisation des pourcentages pour les étoiles et les flammes {#customize-percentages-for-stars-and-flames}
 
-[Définir le pourcentage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) de pistes qui ont 1, 2 ou 3 étoiles et flammes.
+[Définissez le pourcentage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) de pistes qui obtiennent 1, 2 ou 3 étoiles et flammes.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## API ReST lead {#lead-rest-api}
 
-Créez, lisez et mettez à jour les leads par programmation grâce à notre nouvelle API ReST. Pour commencer à utiliser ReST, vous devez [création d’un service personnalisé](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) dans Marketo. Puis passez à la [site des développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) pour plus d’informations sur l’utilisation de cette API.
+Créez, lisez et mettez à jour les leads par programmation grâce à notre nouvelle API ReST. Pour commencer à utiliser ReST, vous devez [créer un service personnalisé](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) dans Marketo. Rendez-vous ensuite sur le [site des développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) pour plus d’informations sur l’utilisation de cette API.
 
 ## Mise à jour de la page de campagnes Real-Time Personalization (RTP) de Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-Les campagnes RTP incluent désormais une nouvelle conception avec des vues miniatures et des performances de campagne. En outre, vous pouvez [organiser vos campagnes](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) selon la date ou les meilleures performances.
+Les campagnes RTP incluent désormais une nouvelle conception avec des vues miniatures et des performances de campagne. De plus, vous pouvez [organiser vos campagnes](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) en fonction de la date ou des meilleures performances.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ Les campagnes RTP incluent désormais une nouvelle conception avec des vues mini
 
 Ajoutez toutes vos données RTP dans votre plateforme d’analyse web.
 
-L’intégration avec [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) est désormais activé par défaut. Sous Paramètres du compte, activez le commutateur pour lequel vous souhaitez envoyer des données à des variables et événements personnalisés GA.
+L’intégration avec [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) est désormais activée par défaut. Dès lors, sous Paramètres du compte, activez le commutateur pour lequel vous souhaitez envoyer des données à des variables et événements personnalisés GA.
 
 Nous avons également terminé l’intégration avec [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).

@@ -17,9 +17,9 @@ Marketo effectue le suivi du nombre de pages vues et de remplissages de formulai
 
 >[!PREREQUISITES]
 >
->[Créer deux landing pages ou plus](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), de préférence avec un formulaire.
+>[ Créez plusieurs landing pages](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), de préférence avec un formulaire.
 
-1. Dans Design Studio, cliquez sur **Nouveau**. Dans la liste déroulante, sélectionnez **Nouveau groupe de test**.
+1. Dans Design Studio, cliquez sur **New**. Dans la liste déroulante, sélectionnez **Nouveau groupe test**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -27,10 +27,10 @@ Marketo effectue le suivi du nombre de pages vues et de remplissages de formulai
    >
    >Les autres méthodes pour créer un groupe de test sont les suivantes :
    >
-   >* Cliquez avec le bouton droit sur une landing page dans l&#39;arborescence et sélectionnez **Convertir en groupe de test**
-   >* Créez un groupe de test de page d’entrée dans un programme en choisissant **Groupe de tests AB** dans le **Nouvelle ressource locale** menu
+   >* Cliquez avec le bouton droit sur une page d’entrée dans l’arborescence et sélectionnez **Convertir en groupe de test**
+   >* Créez un groupe de test de page d’entrée dans un programme en choisissant **Groupe de tests AB** dans le menu **Nouvelle ressource locale**.
 
-1. Saisissez un nom et éventuellement une description. Sélectionnez les landing pages à tester, puis cliquez sur **Créer**.
+1. Saisissez un nom et éventuellement une description. Sélectionnez les landing pages que vous souhaitez tester, puis cliquez sur **Créer**.
 
    ![](assets/image2015-8-5-13-3a39-3a10.png)
 
@@ -38,11 +38,11 @@ Marketo effectue le suivi du nombre de pages vues et de remplissages de formulai
    >
    >Seules les landing pages non approuvées seront disponibles.
 
-1. Cliquez avec le bouton droit de la souris sur chaque landing page et sélectionnez **Approuver**.
+1. Cliquez avec le bouton droit sur chaque Landing Page et sélectionnez **Approve** (Approuver).
 
    ![](assets/three-1.png)
 
-1. Cliquez sur le bouton **Options du groupe de test** menu déroulant et sélectionnez **Approuver le groupe de test**.
+1. Cliquez sur la liste déroulante **Options du groupe de test** et sélectionnez **Approuver le groupe de test**.
 
    ![](assets/four-1.png)
 

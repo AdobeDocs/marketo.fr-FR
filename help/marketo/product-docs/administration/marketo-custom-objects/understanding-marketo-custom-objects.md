@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '678'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ Utilisez des objets personnalisés pour effectuer le suivi de mesures propres à
 
 Utilisez des objets personnalisés comme filtres et déclencheurs dans vos campagnes dynamiques. Par exemple :
 
-* **Filtrer**: envoyer des emails uniquement aux propriétaires d’une marque spécifique de véhicule ;
-* **Déclencheur**: envoie un courrier électronique lorsqu’un objet personnalisé est ajouté à une personne ou à une entreprise.
+* **Filtre** : envoyer des emails uniquement aux propriétaires d’une marque de véhicule spécifique
+* **Déclencheur** : envoyez un email lorsqu’un objet personnalisé est ajouté à une personne ou à une entreprise.
 
 Vous pouvez configurer des objets personnalisés dans une relation un-à-plusieurs ou plusieurs-à-plusieurs. Par exemple :
 
-* **De un à plusieurs**: une personne possède plusieurs voitures ;
-* **Multiple-à-multiple**: plusieurs étudiants inscrits à plusieurs cours à partir d’un catalogue de cours
+* **Un à plusieurs** : une personne possède plusieurs voitures
+* **Multiple-à-multiple** : plusieurs étudiants sont inscrits à plusieurs cours depuis un catalogue de cours
 
 Une structure de type &quot;un à plusieurs&quot; utilise un champ de lien unique pour connecter l’objet personnalisé à une personne ou à une entreprise.
 
@@ -43,11 +43,11 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
 ## Accès aux objets personnalisés de Marketo {#accessing-marketo-custom-objects}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,17 +69,17 @@ Plusieurs à plusieurs objets personnalisés utilisent deux champs de lien, fais
 
 ## Affichage des objets personnalisés associés à une personne {#view-custom-objects-associated-to-a-person}
 
-Après avoir créé la structure d’objet personnalisé, lorsque vous chargez les données d’objet personnalisé spécifiques, les objets personnalisés sont automatiquement associés aux personnes dans la base de données à l’aide du champ de lien de l’objet personnalisé. Vous pouvez afficher des informations à partir du [!UICONTROL Objets personnalisés] sur la page détails de la personne.
+Après avoir créé la structure d’objet personnalisé, lorsque vous chargez les données d’objet personnalisé spécifiques, les objets personnalisés sont automatiquement associés aux personnes dans la base de données à l’aide du champ de lien de l’objet personnalisé. Vous pouvez afficher des informations à partir de l’onglet [!UICONTROL Objets personnalisés] sur la page de détails de la personne.
 
-1. Accédez à **[!UICONTROL Base]**.
+1. Accédez à **[!UICONTROL Base de données]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Ouvrez votre base de données et cliquez sur le bouton **[!UICONTROL Personnes]** . Double-cliquez sur l’enregistrement d’une personne que vous avez associée à un objet personnalisé.
+1. Ouvrez votre base de données et cliquez sur l’onglet **[!UICONTROL Personnes]** . Double-cliquez sur l’enregistrement d’une personne que vous avez associée à un objet personnalisé.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Sur la page Détails de la personne, cliquez sur le **[!UICONTROL Objets personnalisés]** . Sélectionnez l’objet dans la liste déroulante.
+1. Sur la page des détails de la personne, cliquez sur l’onglet **[!UICONTROL Objets personnalisés]** . Sélectionnez l’objet dans la liste déroulante.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -95,13 +95,13 @@ Si plusieurs personnes dans Marketo sont des enregistrements dans les enregistre
 
 Les objets personnalisés ne peuvent être associés directement qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par champ d’entreprise, vous devez vous assurer que vos enregistrements de personne sont associés à une entreprise à l’aide de la conversion de contact dans votre CRM ou à l’aide du champ externalCompanyId si vous gérez des entreprises à l’aide des API REST Marketo. Pour les enregistrements de personne qui ne sont pas liés explicitement aux enregistrements de l’entreprise, les objets personnalisés liés à l’aide de l’entreprise sont liés de manière aléatoire à un seul enregistrement, même si la valeur du champ de l’entreprise est partagée par de nombreuses personnes.
 
-Voir [Importer des données d’objet personnalisées](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) pour plus d’informations.
+Pour plus d’informations, voir [Importer des données d’objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) .
 
 >[!MORELIKETHIS]
 >
 >* [Créer des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
->* [Approbation d’un objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [Modification et suppression d’un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Ajout de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Modification et suppression de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Importer les données de l’objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
+>* [Approuver un objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Modifier et supprimer un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Ajouter des champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Modifier et supprimer des champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Importer des données d’objet personnalisées](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)

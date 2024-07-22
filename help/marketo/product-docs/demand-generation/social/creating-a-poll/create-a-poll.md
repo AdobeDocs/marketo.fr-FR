@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359768
-description: Création d’un sondage - Documents Marketo - Documentation du produit
+description: Créer un sondage - Documents Marketo - Documentation du produit
 title: Création d’un sondage
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Dans le **Galerie de ressources locale**, cliquez sur **Sondage**.
+1. Dans la **Galerie de ressources locale**, cliquez sur **Sondage**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -33,7 +33,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    >[!TIP]
    >
-   >Pour gagner du temps, vous pouvez utiliser la variable **Cloner à partir de** pour copier tous les paramètres d’un partage vidéo existant.
+   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’un partage vidéo existant.
 
 1. Donnez un titre à votre sondage (en général une petite question).
 
@@ -43,7 +43,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Pour ajouter une entrée, cliquez sur le bouton **+** et modifiez le titre et la description.
+1. Pour ajouter une entrée, cliquez sur le symbole **+** et modifiez le titre et la description.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -51,7 +51,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Sélectionnez l’image dont vous avez besoin, puis cliquez sur **Sélectionner**.
+1. Sélectionnez l&#39;image dont vous avez besoin, puis cliquez sur **Sélectionner**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
@@ -59,7 +59,7 @@ Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partage
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Cliquez sur **Approuver** et **Fermez.**
+1. Cliquez sur **Approuver** et **Fermer.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -67,7 +67,7 @@ L’éditeur de sondages s’ouvre dans une nouvelle fenêtre. Les paramètres p
 
 >[!TIP]
 >
->Pour modifier l’un des paramètres par défaut de votre sondage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
+>Pour modifier les valeurs par défaut de votre sondage, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
 
 S’il y a des problèmes dans le sondage, vous serez invité à les résoudre avant l’approbation du sondage.
 
@@ -77,4 +77,4 @@ S’il y a des problèmes dans le sondage, vous serez invité à les résoudre a
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [publier votre sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), mais vous pouvez modifier les paramètres de votre sondage si nécessaire. Commencer par [personnalisation des paramètres du sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
+>L’étape suivante consiste à [publier votre sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), mais vous pouvez modifier les paramètres de votre sondage si nécessaire. Commencez par [personnaliser les paramètres du sondage](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).

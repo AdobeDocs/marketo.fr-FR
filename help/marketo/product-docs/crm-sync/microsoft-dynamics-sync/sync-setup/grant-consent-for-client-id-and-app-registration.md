@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Suivez les étapes ci-dessous pour savoir comment accorder le consentement/les a
     </tbody> 
    </table>
 
-   L’URL finale doit ressembler à ceci : `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
+   L&#39;URL finale doit ressembler à ceci : `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
 
 1. Ouvrez l’URI que vous avez créé dans n’importe quel navigateur.
 
@@ -71,15 +71,15 @@ Suivez les étapes ci-dessous pour savoir comment accorder le consentement/les a
 
 ## Octroi du consentement à tous les utilisateurs {#grant-consent-for-all-users}
 
-En tant qu’administrateur, vous pouvez également consentir aux autorisations déléguées d’une application au nom de tous les utilisateurs de votre client. Le consentement administratif empêche l’affichage de la boîte de dialogue de consentement pour chaque utilisateur du client et peut être effectué sur le portail Azure par les utilisateurs dotés du rôle d’administrateur. Découvrez quels rôles d’administrateur peuvent [consentement aux autorisations déléguées ici](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+En tant qu’administrateur, vous pouvez également consentir aux autorisations déléguées d’une application au nom de tous les utilisateurs de votre client. Le consentement administratif empêche l’affichage de la boîte de dialogue de consentement pour chaque utilisateur du client et peut être effectué sur le portail Azure par les utilisateurs dotés du rôle d’administrateur. Découvrez les rôles d’administrateur qui peuvent [consentir à des autorisations déléguées ici](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Dans votre portail Azure, accédez à la page d’accueil de l’application.
 
-1. Sous Gérer, cliquez sur **[!UICONTROL Autorisations d’API]**.
+1. Sous Gérer, cliquez sur **[!UICONTROL Autorisations API]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Autorisation du consentement de l’administrateur]** (pour le client).
+1. Cliquez sur le bouton **[!UICONTROL Autoriser le consentement de l’administrateur]** (pour le client).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 

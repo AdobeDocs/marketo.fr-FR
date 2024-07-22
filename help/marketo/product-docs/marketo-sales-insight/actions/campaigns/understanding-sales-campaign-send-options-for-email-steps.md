@@ -66,7 +66,7 @@ Pour tous les jours/étapes suivants de votre campagne de ventes, vous disposez 
 
 >[!NOTE]
 >
->Cette option de création d’un email en tant que suivi n’est disponible que sur une étape d’email, lorsque l’étape précédente est également un email. Si l’étape précédente est Appel, InMail ou Personnalisé, l’option de création d’un suivi ne s’affiche pas.
+>Cette option de création d’un email en tant que suivi n’est disponible que lors d’une étape d’email, lorsque l’étape précédente est également un email. Si l’étape précédente est Appel, InMail ou Personnalisé, l’option de création d’un suivi ne s’affiche pas.
 
 >[!MORELIKETHIS]
 >

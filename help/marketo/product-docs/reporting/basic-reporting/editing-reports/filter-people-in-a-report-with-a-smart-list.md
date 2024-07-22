@@ -27,11 +27,11 @@ Vous pouvez utiliser des listes dynamiques avec les types de rapports suivants :
 * [Activité Web de la société](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Activité de page Internet](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Liste dynamique** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **Liste dynamique** .
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -43,7 +43,7 @@ Vous pouvez utiliser des listes dynamiques avec les types de rapports suivants :
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Cliquez sur le bouton **Rapport** pour afficher votre rapport filtré.
+1. Cliquez sur l’onglet **Rapport** pour afficher votre rapport filtré.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

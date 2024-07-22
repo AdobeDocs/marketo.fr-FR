@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Pour insérer des paramètres supplémentaires et spécifiques aux personnes dans vos liens, vous pouvez utiliser des jetons. Voici comment.
 
-1. Sélectionnez votre adresse électronique et cliquez sur le bouton **Modifier le brouillon** .
+1. Sélectionnez votre adresse électronique et cliquez sur l’onglet **Edit Draft** (Modifier le brouillon).
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Pour insérer des paramètres supplémentaires et spécifiques aux personnes dan
 
    ![](assets/two.png)
 
-1. Recherchez ou écrivez le texte du lien. Mettez-le en surbrillance, puis cliquez sur le bouton **Insérer/Modifier un lien** icône .
+1. Recherchez ou écrivez le texte du lien. Surlignez-le et cliquez sur l&#39;icône **Insérer/Modifier le lien**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Pour insérer des paramètres supplémentaires et spécifiques aux personnes dan
 
    ![](assets/five.png)
 
-   Et voilà !
+   Et c&#39;est tout !
 
 >[!MORELIKETHIS]
 >

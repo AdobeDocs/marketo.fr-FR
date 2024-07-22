@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Compréhension du contenu dynamique {#understanding-dynamic-content}
 
-La personnalisation est bien plus importante que simplement &quot;Bonjour `{{First_Name}}`&quot;. Avec le contenu dynamique Marketo, vous pouvez personnaliser l’affichage d’une landing page ou d’un email par différentes personnes.
+La personnalisation est bien plus importante que &quot;Bonjour `{{First_Name}}`&quot;. Avec le contenu dynamique Marketo, vous pouvez personnaliser l’affichage d’une landing page ou d’un email par différentes personnes.
 
 ![](assets/artboard-1.png)
 
@@ -25,9 +25,9 @@ Tout d’abord, vous devrez diviser vos personnes en sous-groupes. Cela s’appe
 >
 >**Définition**
 >
->La segmentation classe votre audience en différents sous-groupes en fonction d’une [Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) règle. Ces groupes sont appelés segments.
+>La segmentation classe votre audience en différents sous-groupes en fonction d’une règle [Liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ces groupes sont appelés segments.
 
-Par exemple, si nous avons une segmentation appelée Secteur, certains segments peuvent être : Soins de santé, technologie, finances, biens de consommation, etc.
+Par exemple, si nous avons une segmentation appelée Secteur, certains des segments pourraient être : Santé, Technologie, Financier, Produits de Consommation, etc.
 
 ![](assets/artboard-2.png)
 
@@ -39,7 +39,7 @@ Une fois que vous avez créé différents segments, vous pouvez ajouter des bloc
 
 ## Extraits {#snippets}
 
-[Fragments de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) sont un outil utile dans Marketo. Créez-le une seule fois et utilisez-le à plusieurs endroits ! Si vous mettez à jour le fragment de code, toutes les ressources (landing pages ou emails) qui utilisent le fragment de code sont automatiquement mises à jour.
+[Les fragments de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) sont un outil utile dans Marketo. Créez-le une seule fois et utilisez-le à plusieurs endroits ! Si vous mettez à jour le fragment de code, toutes les ressources (landing pages ou emails) qui utilisent le fragment de code sont automatiquement mises à jour.
 
 >[!NOTE]
 >
@@ -52,5 +52,5 @@ Essayez-le et racontez-nous votre réussite !
 
 >[!MORELIKETHIS]
 >
->* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Création d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Créer un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)

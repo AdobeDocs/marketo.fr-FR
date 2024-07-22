@@ -5,7 +5,7 @@ exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '407'
 ht-degree: 5%
 
 ---
@@ -69,9 +69,9 @@ Pour accéder à toutes les fonctionnalités d’aperçu des ventes, vous devez 
  </tbody> 
 </table>
 
-* Accès à la classe Apex : 159 classes Apex commençant par &quot;mkto_si&quot;
-* Visualforce Page Access : 64 Pages Visualforce commençant par &quot;mkto_si&quot;
-* Définitions des paramètres personnalisés : Paramètres mkto_si.Marketo et préférences de l’utilisateur mkto_si.User
+* Accès aux classes Apex : 159 classes Apex commençant par &quot;mkto_si&quot;
+* Visualforce Page Access : 64 pages Visualforce commençant par &quot;mkto_si&quot;
+* Définitions des paramètres personnalisés : paramètres de mkto_si.Marketo et préférences de mkto_si.User
 
 ## Suppression de l’accès à Sales Insight {#removing-access-to-sales-insight}
 
@@ -81,7 +81,7 @@ Pour accéder à toutes les fonctionnalités d’aperçu des ventes, vous devez 
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Sous Administrateur, cliquez sur **Gestion des utilisateurs**, puis **Profils**.
+1. Sous Administrateur, cliquez sur **Gérer les utilisateurs**, puis sur **Profils**.
 
 1. Cliquez sur le profil que vous souhaitez mettre à jour, puis **Modifier**.
 
@@ -113,15 +113,15 @@ Pour accéder à toutes les fonctionnalités d’aperçu des ventes, vous devez 
 
 1. Dans la section &quot;Classes Apex activées&quot;, sélectionnez toutes les classes commençant par &quot;mkto_si&quot;. Cela devrait ajouter jusqu’à 159 classes.
 
-1. Cliquez sur **Supprimer**, puis **Enregistrer**.
+1. Cliquez sur **Supprimer**, puis sur **Enregistrer**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Faites défiler l’écran jusqu’à la section &quot;Accès à la page activé&quot;. Cliquez sur **Modifier**.
+1. Faites défiler l’écran jusqu’à la section &quot;Accès à la page Visualforce activé&quot;. Cliquez sur **Modifier**.
 
 1. Dans la section &quot;Pages Visualforce activées&quot;, sélectionnez toutes les pages commençant par &quot;mkto_si&quot;. Cela devrait ajouter jusqu’à 64 pages.
 
-1. Cliquez sur **Supprimer**, puis **Enregistrer**.
+1. Cliquez sur **Supprimer**, puis sur **Enregistrer**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
@@ -129,8 +129,8 @@ Pour accéder à toutes les fonctionnalités d’aperçu des ventes, vous devez 
 
 1. Sélectionnez &quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot; et &quot;Marketo Sales Insight.mkto_si.User Preferences&quot;.
 
-1. Cliquez sur **Supprimer**, puis **Enregistrer**.
+1. Cliquez sur **Supprimer**, puis sur **Enregistrer**.
 
    ![](assets/remove-sales-insight-access-6.png)
 
-C&#39;est tout! Vous avez supprimé l’accès à Sales Insight. Répétez les mêmes étapes pour tout autre profil dont vous souhaitez supprimer l’accès.
+C&#39;est tout ! Vous avez supprimé l’accès à Sales Insight. Répétez les mêmes étapes pour tout autre profil dont vous souhaitez supprimer l’accès.

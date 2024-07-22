@@ -6,7 +6,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '454'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Elles sont dérivées du score de piste — une mesure de l’intérêt de la pe
 
 ## Urgence {#urgency}
 
-Les flammes représentent l&#39;urgence — combien le score de cette personne a changé récemment. Une urgence accrue (plus de flammes) signifie que le score de ce plomb a beaucoup augmenté ces derniers temps. c&#39;est un bon signe que cette piste s&#39;intéresse à votre offre. Tu devrais suivre cette personne rapidement !
+Les flammes représentent l&#39;urgence — combien le score de cette personne a changé récemment. Une urgence élevée (plus de flammes) signifie que le score de cette piste a beaucoup augmenté ces derniers temps ; c&#39;est un bon signe que cette piste s&#39;intéresse à votre offre. Tu devrais suivre cette personne rapidement !
 
 Par exemple, un prospect qui a demandé une démonstration et consulté plusieurs pages web aura probablement une urgence très élevée. Un prospect qui n’a pas consulté votre page web ou ouvert vos emails a une faible urgence. Utilisez l’urgence pour prioriser les personnes à contacter ensuite.
 
@@ -43,14 +43,14 @@ Vos meilleurs paris sont vos pistes et vos contacts avec la plus grande urgence 
 
 >[!NOTE]
 >
->Si vos meilleurs paris ne correspondent pas aux meilleurs prospects et contacts que vous détenez, contactez un membre de votre société qui a accès à Marketo au sujet de la mise à jour de votre [Règles de notation](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Si vos paris ne correspondent pas aux meilleurs prospects et contacts que vous détenez, contactez un membre de votre société qui a accès à Marketo au sujet de la mise à jour de vos [règles de notation](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Méthode de calcul de l’urgence et de la note relative
 
-Pour calculer le nombre d’étoiles et de flammes, vos pistes et contacts sont d’abord triés par note ou changement de score (respectivement pour Score relatif et Urgence). Ensuite ils sont divisés en niveaux — le niveau supérieur reçoit le plus d&#39;étoiles ou de flammes, le suivant reçoit moins, et ainsi de suite.
+Pour calculer le nombre d’étoiles et de flammes, vos pistes et contacts sont d’abord triés par note ou changement de score (respectivement pour Score relatif et Urgence). Ensuite ils sont divisés en niveaux — le niveau supérieur reçoit le plus d&#39;étoiles ou de flammes, le suivant reçoit moins, etc.
 
 À mesure que les scores changent, l’urgence, la priorité et les valeurs de score relatif sont immédiatement recalculées. Les niveaux d’urgence et de score relatif sont automatiquement calculés chaque nuit sur les serveurs Marketo.
 
 >[!NOTE]
 >
->Les nombres d’urgence relative (flammes) et de score relatif (étoiles) sont des entiers dans Marketo. Les valeurs possibles sont 0 à 3.
+>Les nombres d’urgence relative (flammes) et de score relatif (étoiles) sont des entiers dans Marketo. Les valeurs possibles pour chacune d’elles sont 0 à 3.

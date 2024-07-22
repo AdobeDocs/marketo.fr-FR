@@ -19,7 +19,7 @@ Vous avez peut-être remarqué l’option &quot;Utiliser des filtres&quot; lors 
 
 >[!NOTE]
 >
->La modification de la logique des règles de liste dynamique s’applique uniquement aux filtres, _not_ déclencheurs.
+>La modification de la logique de règle de liste dynamique s’applique uniquement aux filtres, déclencheurs _not_.
 
 Les déclencheurs sont toujours évalués en tant que OU même si le paramètre ci-dessus est défini sur ALL. Voici un exemple :
 
@@ -38,7 +38,7 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Ainsi, si une personne remplit le formulaire _ou_ visite la page, la campagne évalue ensuite cette personne en fonction de _all_ ou _any_ des filtres suivants, en fonction du paramètre utilisé.
+Ainsi, si une personne remplit le formulaire _ou_ visite la page, la campagne évalue cette personne en fonction de _all_ ou _any_ des filtres suivants, selon le paramètre utilisé.
 
 >[!MORELIKETHIS]
 >

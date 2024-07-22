@@ -21,11 +21,11 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification push foncti
 
 1. Vous pouvez envoyer un exemple de trois façons :
 
-   Dans l’arborescence de gauche, cliquez avec le bouton droit de la souris sur la ressource de notification push, puis cliquez sur **Envoyer un exemple**.
+   Dans l’arborescence de gauche, cliquez avec le bouton droit sur la ressource de notification push et cliquez sur **Envoyer l’exemple**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Ou, dans le menu d’actions Notification push , cliquez sur **Envoyer un exemple**.
+   Ou, dans le menu des actions Notification push , cliquez sur **Envoyer l’exemple**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
@@ -37,26 +37,26 @@ Vous pouvez envoyer un exemple pour vérifier que votre notification push foncti
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Ou cliquez sur **Ajout d’un périphérique** to [ajout d’un nouveau périphérique de test](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) pour envoyer l’exemple à .
+   Ou cliquez sur **Ajouter un périphérique** pour [ajouter un nouvel appareil de test](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) pour envoyer l’exemple.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Vous pouvez connecter votre appareil à l’application de deux manières différentes.
 
-   Avec la première option, cliquez sur le bouton **URL de visite avec appareil** , copiez l’URL à partir du champ et envoyez-la dans un message électronique ou texte sur votre appareil. Sur l’appareil, appuyez sur l’URL. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
+   Avec la première option, cliquez sur le bouton **Visiter l’URL avec l’appareil** , copiez l’URL du champ et envoyez-la dans un message électronique ou texte sur votre appareil. Sur l’appareil, appuyez sur l’URL. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Ou, avec la deuxième option, cliquez sur le bouton **Analyse du code QR avec l’appareil** et analysez le code QR avec votre appareil. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
+   Ou, avec la deuxième option, cliquez sur le bouton **Analyser le code QR avec l’appareil** et analysez le code QR avec votre appareil. Lorsque l’état affiche la connexion, cliquez sur **Envoyer**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Avez-vous correctement ajouté un périphérique de test, mais ne le voyez pas répertorié dans la **Envoyer à** champ ? Pour résoudre les problèmes, vérifiez les points suivants :
+   >Avez-vous correctement ajouté un périphérique de test, mais ne le voyez pas répertorié dans le champ **Envoyer à** ? Pour résoudre les problèmes, vérifiez les points suivants :
    >
    >* Les notifications push sont activées pour l’application associée à la notification push.
    >
    >* La notification push est configurée pour la plateforme de votre appareil de test. Par exemple, si vous venez d’ajouter iPhone en tant qu’appareil de test, assurez-vous que la notification push est activée pour iOS.
 
-Easy!
+Facile !

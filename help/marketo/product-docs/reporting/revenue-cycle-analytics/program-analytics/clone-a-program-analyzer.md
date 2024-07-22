@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Clonage d’un analyseur de programme {#clone-a-program-analyzer}
 
-Après avoir enregistré un analyseur, il est facile de le cloner pour en créer un nouveau. Ensuite, accédez à et modifiez le nouveau fichier s’il nécessite des modifications.
+Après avoir enregistré un analyseur, il est facile de le cloner pour en créer un nouveau. Ensuite, accédez à et modifiez le nouveau fichier s’il a besoin de modifications.
 
-1. Cliquez sur le bouton **Analytics** mosaïque.
+1. Cliquez sur la mosaïque **Analytics** .
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Cliquez sur le bouton **Analyseur de programme** mosaïque.
+1. Cliquez sur la mosaïque **Programme Analyzer** .
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Lorsque l’analyseur enregistré est ouvert, ouvrez la liste déroulante Actions Analyzer et sélectionnez **Clonage Analyzer**.
+1. Pendant que l’analyseur enregistré est ouvert, ouvrez la liste déroulante Actions Analyzer et sélectionnez **Cloner l’analyseur**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Sélectionnez l’emplacement de l’analyseur cloné dans le **Cloner vers** et **Dossier** des listes déroulantes.
+1. Sélectionnez l’emplacement de l’analyseur cloné dans les listes déroulantes **Cloner vers** et **Dossier** .
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
@@ -41,4 +41,4 @@ Après avoir enregistré un analyseur, il est facile de le cloner pour en créer
 
    >[!MORELIKETHIS]
    >
-   >[Création d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Créer un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

@@ -6,8 +6,8 @@ exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '992'
-ht-degree: 2%
+source-wordcount: '1000'
+ht-degree: 3%
 
 ---
 
@@ -26,10 +26,10 @@ Lorsque vous sélectionnez un champ standard ou personnalisé dans la liste dér
 | Référence | Non pris en charge |
 | Devise | Entier |
 | DateHeure | Date |
-| Booléen | Non pris en charge |
+| Booléenne | Non pris en charge |
 | Téléphone | Chaîne |
 | Date | Date |
-| Flottant | Entier |
+| Flottante | Entier |
 | Calculé | Non pris en charge |
 
 Les trois sections suivantes décrivent comment créer un groupe de champs personnalisé pour un type chaîne, entier ou date.
@@ -40,11 +40,11 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouvel Organisateur de champ**.
+1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Champ** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). Le pays est utilisé ici.
+1. Cliquez sur **Field** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). Le pays est utilisé ici.
 
    ![](assets/three.png)
 
@@ -52,7 +52,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/four.png)
 
-   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe Nom du champ (par exemple : Pays > Groupe de pays).
+   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe de noms de champ (exemple : Pays > Groupe de pays).
 
    ![](assets/4.5.png)
 
@@ -80,7 +80,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    >[!NOTE]
    >
-   >Pour supprimer une valeur de données d’un sous-groupe, réaffectez-la au groupe par défaut Autre.
+   >Pour supprimer une valeur de données d’un sous-groupe, réaffectez la valeur de données au groupe par défaut Autre.
 
 1. Utilisez l’option de filtrage située dans le coin supérieur gauche directement au-dessus de la zone de travail pour sélectionner et afficher les valeurs des données dans un ou plusieurs sous-groupes. Les valeurs de données basées sur votre sélection de filtre s’affichent dans la zone de travail.
 
@@ -96,11 +96,11 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouvel Organisateur de champ**.
+1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Champ** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). Les recettes annuelles sont utilisées ici.
+1. Cliquez sur **Field** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). Les recettes annuelles sont utilisées ici.
 
    ![](assets/nine.png)
 
@@ -108,7 +108,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/9.5.png)
 
-   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe Nom du champ (par exemple : Chiffre d’affaires annuel > Chiffre d’affaires annuel).
+   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe Nom du champ (par exemple : Recettes annuelles > Groupe Recettes annuelles).
 
    ![](assets/9.6.png)
 
@@ -116,13 +116,13 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/eleven.png)
 
-   L’éditeur d’entiers vous permet de créer plusieurs sous-groupes afin de définir chaque sous-groupe par taille. Dans cet exemple, trois groupes seront créés pour les petites, moyennes et grandes entreprises.
+   L’éditeur d’entiers vous permet de créer plusieurs sous-groupes afin de définir chaque sous-groupe par taille. Dans cet exemple, trois groupes seront créés pour les PME, Medium et Enterprise.
 
-1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** field (exemple : Petit) et saisissez une valeur maximale dans la variable **Plage de groupe** field (exemple : 200000). Cliquez sur **Ajouter un groupe**.
+1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** (exemple : Petit) et saisissez une valeur maximale dans le champ **Plage du groupe** (exemple : 200000). Cliquez sur **Ajouter un groupe**.
 
    ![](assets/twelve.png)
 
-   Une entrée de groupe vide s’affiche sous le groupe qui vient d’être saisi. L’exemple ci-dessous illustre une entrée pour les petites, moyennes et grandes entreprises.
+   Une entrée de groupe vide s’affiche sous le groupe qui vient d’être saisi. L’exemple ci-dessous illustre une entrée pour les PME, Medium et Enterprise.
 
    >[!NOTE]
    >
@@ -150,11 +150,11 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/one.png)
 
-1. Cliquez sur **Nouveau**, puis sélectionnez **Nouvel Organisateur de champ**.
+1. Cliquez sur **New**, puis sélectionnez **New Field Organizer**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Champ** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). La date d’acquisition est utilisée ici.
+1. Cliquez sur **Field** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau de la section précédente). La date d’acquisition est utilisée ici.
 
    ![](assets/fourteen.png)
 
@@ -162,7 +162,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/14.5.png)
 
-   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe Nom du champ (par exemple : Date d’acquisition > Groupe de dates d’acquisition).
+   Le nouveau groupe personnalisé s’affiche dans l’arborescence de la base de données de piste, sous la forme Nom du champ > Groupe de noms de champ (exemple : Date d’acquisition > Groupe de dates d’acquisition).
 
    ![](assets/14.6.png)
 
@@ -170,9 +170,9 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/fifteen.png)
 
-   L&#39;éditeur de date permet de créer plusieurs sous-groupes et de définir chaque sous-groupe par date. Dans cet exemple, trois groupes seront créés : Pistes 1-15, Pistes 2-15 et Pistes 15.
+   L&#39;éditeur de date permet de créer plusieurs sous-groupes et de définir chaque sous-groupe par date. Dans cet exemple, trois groupes seront créés : Q1-15 Leads, Q2-15 Leads et Q3-15 Leads.
 
-1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** field (exemple : T1-15 Leads) et saisissez une date dans le champ de date qui représente la date à laquelle la piste a été acquise au plus tôt (exemple : 3/31/2015 pour le dernier jour du premier trimestre - 15). Cliquez sur **Ajouter un groupe**.
+1. Pour ajouter votre premier groupe, saisissez un nom dans le champ **Nom du groupe** (par exemple : Q1-15 Pistes) et saisissez une date dans le champ de date qui représente la date à laquelle la piste a été acquise au plus tôt (par exemple : 3/31/2015 pour le dernier jour du 1er-15). Cliquez sur **Ajouter un groupe**.
 
    ![](assets/sixteen.png)
 
@@ -184,4 +184,4 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/16.5.png)
 
-   Et voilà ! Bon boulot.
+   Et c&#39;est tout ! C&#39;est bien.

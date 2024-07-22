@@ -6,7 +6,7 @@ exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Nous avons toujours autorisé les équipes à personnaliser leurs messages de li
 
 ## Personnalisation de la messagerie pour vous-même {#customize-messaging-for-yourself}
 
-1. Connectez-vous au [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’ [application web](https://toutapp.com/login), cliquez sur l’icône en forme d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez **Désabonne**.
+1. Sous Mon compte, sélectionnez **Se désabonner**.
 
    ![](assets/two-1.png)
 
@@ -47,18 +47,18 @@ Nous avons toujours autorisé les équipes à personnaliser leurs messages de li
 
 ## Définition de la messagerie de désabonnement pour votre équipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Connectez-vous au [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **Paramètres**.
+1. Connectez-vous à l’ [application web](https://toutapp.com/login), cliquez sur l’icône en forme d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/six.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Désabonne**.
+1. Sous Paramètres d’administration, sélectionnez **Se désabonner**.
 
    ![](assets/eight.png)
 
-1. Personnalisez votre message, puis cliquez sur **Enregistrer** une fois terminé.
+1. Personnalisez votre message et cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/seven.png)
 
-1. Sélectionner **Je définis le message par défaut pour mon équipe** pour que le message s’applique à tous les utilisateurs.
+1. Sélectionnez **Je suis en train de définir le message par défaut pour mon équipe** afin que le message s’applique à tous les utilisateurs.
 
    ![](assets/eleven.png)

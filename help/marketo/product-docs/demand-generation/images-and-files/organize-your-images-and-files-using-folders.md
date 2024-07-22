@@ -15,11 +15,11 @@ ht-degree: 0%
 
 La création de dossiers vous permet de déplacer des images et des fichiers, de voir uniquement l’ensemble des images de votre choix et de les télécharger directement vers un dossier spécifique.
 
-1. Accédez au **[!UICONTROL Design Studio]**.
+1. Accédez à **[!UICONTROL Design Studio]**.
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Clic droit sur **[!UICONTROL Images et fichiers]** et sélectionnez **[!UICONTROL Nouveau dossier]**.
+1. Cliquez avec le bouton droit de la souris sur **[!UICONTROL Images et fichiers]** et sélectionnez **[!UICONTROL Nouveau dossier]**.
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
@@ -27,7 +27,7 @@ La création de dossiers vous permet de déplacer des images et des fichiers, de
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Revenir à **[!UICONTROL Images et fichiers]** et sélectionnez la ressource à déplacer. Cliquez sur le bouton **[!UICONTROL Actions d’image et de fichier]** et sélectionnez **[!UICONTROL Déplacer]**.
+1. Revenez à **[!UICONTROL Images et fichiers]** et sélectionnez la ressource à déplacer. Cliquez sur la liste déroulante **[!UICONTROL Actions image et fichier]** et sélectionnez **[!UICONTROL Déplacer]**.
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 

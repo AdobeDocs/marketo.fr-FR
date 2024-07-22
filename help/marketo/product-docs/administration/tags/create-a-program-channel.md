@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 >
 >En savoir plus sur [programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l’élément le plus important de Marketo.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-a-program-channel-1.png)
 
@@ -35,11 +35,11 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
    >
    >Pourquoi les balises ? Un canal est une manière de décrire un programme, tout comme les autres balises. Le canal a juste des fonctionnalités supplémentaires spéciales.
 
-1. Cliquez sur le bouton **+** signe en regard de [!UICONTROL Canal] pour développer et afficher les canaux existants.
+1. Cliquez sur le signe **+** en regard de [!UICONTROL Canal] pour développer et afficher les canaux existants.
 
    ![](assets/create-a-program-channel-3.png)
 
-1. Sous **[!UICONTROL Nouveau]**, cliquez sur **[!UICONTROL Nouveau canal]**.
+1. Sous **[!UICONTROL New]**, cliquez sur **[!UICONTROL New Channel]**.
 
    ![](assets/create-a-program-channel-4.png)
 
@@ -47,21 +47,21 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
    >
    >**Exemple**
    >
-   >Canal : Panneau
+   >Canal : Billboard
    >
-   >* Appliquer à : Par défaut
-   >* Progression : Membre, engagé (en cas de doute, cela fonctionne bien)
-   >* Succès : Engagé
+   >* Appliquer à : par défaut
+   >* Progression : membre, engagé (en cas de doute, cela fonctionne bien)
+   >* Succès : engagé
    >
-   >Canal : Parti
+   >Canal : Party
    >
    >* Appliquer à : Événement
-   >* Progression : Invités, enregistrés, aucun affichage et participants
-   >* Succès : Attaché
+   >* Progression : invité, enregistré, sans affichage et assisté
+   >* Succès : Atteinte
    >
    >Consultez la section Progressions des canaux existants pour savoir comment les utiliser.
 
-1. Examinons l’exemple du canal Parti. Nommez votre nouveau **Canal** et sélectionnez le type de programme auquel il s&#39;appliquera.
+1. Examinons l’exemple du canal Parti. Nommez votre nouveau **Canal** et sélectionnez le type de programme auquel il s’appliquera.
 
    ![](assets/create-a-program-channel-5.png)
 
@@ -71,49 +71,49 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
    >[!NOTE]
    >
-   >Lors de l’utilisation de[!UICONTROL Événement avec le webinaire],&quot; les mappages système seront verrouillés (comme requis par les intégrations de webinaires) et ne peuvent pas être modifiés.
+   >Lors de l’utilisation de &quot;[!UICONTROL Event with Webinar]&quot;, les mappages système sont verrouillés (comme requis par les intégrations de webinaires) et ne peuvent pas être modifiés.
 
-1. Saisissez les deux premiers noms d’état du programme, puis cliquez sur **[!UICONTROL Ajouter une étape]**.
+1. Saisissez les deux premiers noms d’état du programme, puis cliquez sur **[!UICONTROL Ajouter l’étape]**.
 
    ![](assets/create-a-program-channel-6.png)
 
-1. Entrer un autre programme **[!UICONTROL État]** et **[!UICONTROL Étape]** number, puis cliquez sur **[!UICONTROL Ajouter une étape]**.
+1. Saisissez un autre numéro de programme **[!UICONTROL Status]** et **[!UICONTROL Step]**, puis cliquez sur **[!UICONTROL Add Step]**.
 
    ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
-   >Le **[!UICONTROL Étape]** est utilisé pour trier les états du programme. Gardez à l’esprit que les gens ne peuvent pas revenir en arrière dans ces étapes de progression. Ils peuvent uniquement modifier l’état à un état de valeur supérieur ou égal. Utilisez les valeurs égales lorsque les états sont destinés à basculer d’un état à l’autre plutôt qu’à une progression.
+   >Le numéro **[!UICONTROL Step]** est utilisé pour le tri des états du programme. Gardez à l’esprit que les gens ne peuvent pas revenir en arrière dans ces étapes de progression. Ils peuvent uniquement modifier l’état à un état de valeur supérieur ou égal. Utilisez les valeurs égales lorsque les états sont destinés à basculer d’un état à l’autre plutôt qu’à une progression.
 
-1. Entrer le dernier programme **[!UICONTROL État]** et **[!UICONTROL Étape]** Nombre.
+1. Saisissez le dernier numéro de programme **[!UICONTROL Status]** et **[!UICONTROL Step]**.
 
    ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
-   >Lors de l’utilisation du type &quot;[!UICONTROL Événement],&quot; le mappage système pour les états Registered, Waitlisted et Attending est requis. Ces états ne peuvent donc pas être masqués.
+   >Lors de l’utilisation du type &quot;[!UICONTROL Event]&quot;, le mappage système pour les états Registered, Waitlisted et Attending est requis. Ces états ne peuvent donc pas être masqués.
 
-1. Sélectionnez la variable **[!UICONTROL État de l’archivage mobile]** pour **[!UICONTROL Inscrits]**.
+1. Sélectionnez l’ **[!UICONTROL état d’archivage mobile]** pour **[!UICONTROL Registered]**.
 
    ![](assets/create-a-program-channel-9.png)
 
-1. Sélectionnez la variable **[!UICONTROL État de l’archivage mobile]** pour **[!UICONTROL Attaché]**.
+1. Sélectionnez l’ **[!UICONTROL État d’archivage mobile]** pour **[!UICONTROL Participé]**.
 
    ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL État de l’archivage mobile]** Les options ne seront disponibles que si le canal sera destiné aux programmes d’événement.
+   >Les options **[!UICONTROL État d’archivage mobile]** ne seront disponibles que si le canal sera destiné aux programmes d’événements.
 
    >[!NOTE]
    >
-   >Uniquement les personnes avec un **[!UICONTROL État de l’archivage mobile]** de **[!UICONTROL Inscrits]** et **[!UICONTROL Attaché]** est visible dans la variable [Applications d’archivage mobiles](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
+   >Seules les personnes avec un **[!UICONTROL état d’archivage mobile]** de **[!UICONTROL Registered]** et **[!UICONTROL Attending]** seront visibles dans les [applications d’archivage mobile](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
    >Si une nouvelle personne est créée dans l’application d’enregistrement mobile, elle est définie sur Inscrits dans le programme d’événement. Si une personne est archivée dans l’événement de l’application, elle est définie sur Participé dans le programme d’événements.
 
-1. Sélectionnez la **[!UICONTROL Succès]** état du programme, puis cliquez sur **[!UICONTROL Créer]**.
+1. Sélectionnez l’état du programme **[!UICONTROL Success]**, puis cliquez sur **[!UICONTROL Create]**.
 
    ![](assets/create-a-program-channel-11.png)
 

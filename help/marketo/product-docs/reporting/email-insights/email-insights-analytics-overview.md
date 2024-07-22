@@ -45,7 +45,7 @@ Le graphique affiche vos critères filtrés. Pour masquer l’un de vos filtres,
 
 ![](assets/chart2.png)
 
-Si vous créez un graphique que vous souhaitez réutiliser, définissez [graphique rapide](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Si vous créez un graphique que vous souhaitez réutiliser, transformez-le en [graphique rapide](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -63,4 +63,4 @@ Vous pouvez également spécifier ce que vous voyez (de gauche à droite) : Tous
 
 >[!MORELIKETHIS]
 >
->[Présentation des informations sur les emails](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Présentation des envois de statistiques d’email](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

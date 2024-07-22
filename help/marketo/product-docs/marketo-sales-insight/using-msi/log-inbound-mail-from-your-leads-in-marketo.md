@@ -23,7 +23,7 @@ Vous pouvez consigner les réponses de vos pistes directement dans Outlook à l�
 
 >[!TIP]
 >
->Vous pouvez également cliquer avec le bouton droit sur un message et cliquer sur **Connexion à Marketo**.
+>Vous pouvez également cliquer avec le bouton droit sur un message et cliquer sur **Log With Marketo**.
 
 Vous devriez voir une confirmation.
 

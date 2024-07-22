@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Attribution vous aide à mesurer le succès du programme. Certains programmes so
 
 ## Attribution Première touche (FT) {#first-touch-ft-attribution}
 
-L’attribution Première touche (FT) répond à une **simple question commerciale**, &quot;Quels programmes sont bons pour acquérir de nouveaux noms rentables ?&quot;
+L’attribution Première touche (FT) répond à une **question simple**, &quot;Quels programmes sont bons pour acquérir de nouveaux noms rentables ?&quot;
 
 ## Attribution multipoint {#multi-touch-attribution}
 
-Le tactile multipoint répond à une **question commerciale compliquée**, &quot;Quels programmes ont le plus d’influence sur l’évolution des personnes dans le cycle de vente au fil du temps ?&quot;
+Multi-Touch répond à une **question compliquée**, &quot;Quels programmes ont le plus d’influence sur l’évolution des personnes dans le cycle de vente au fil du temps ?&quot;
 
 ## Règles d’attribution {#rules-of-attribution}
 

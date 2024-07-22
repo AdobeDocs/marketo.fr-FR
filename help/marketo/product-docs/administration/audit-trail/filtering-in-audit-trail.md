@@ -6,7 +6,7 @@ exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez filtrer par période, type de ressource, utilisateurs, action entreprise, etc.
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. Sous **[!UICONTROL Sécurité]**, sélectionnez **[!UICONTROL Journal d’audit]**.
+1. Sous **[!UICONTROL Security]**, sélectionnez **[!UICONTROL Suivi trace]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -29,21 +29,21 @@ Vous pouvez filtrer par période, type de ressource, utilisateurs, action entrep
 
    >[!NOTE]
    >
-   >Il existe une multitude de combinaisons de paramètres de recherche possibles. Dans cet exemple, localisez : _tous les emails - édités par n&#39;importe qui - dans les sept jours précédents_.
+   >Il existe une multitude de combinaisons de paramètres de recherche possibles. Dans cet exemple, nous recherchons : _tous les emails - modifiés par n&#39;importe qui - au cours des sept derniers jours_.
 
-1. Cliquez sur le bouton **[!UICONTROL Période]** et sélectionnez **[!UICONTROL 7 derniers jours]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Période]** et sélectionnez **[!UICONTROL 7 derniers jours]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Type de ressource]** et sélectionnez **[!UICONTROL Email]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Type de ressource]** et sélectionnez **[!UICONTROL Email]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Cliquez sur le bouton **Aactions** et sélectionnez **[!UICONTROL Modifier]**.
+1. Cliquez sur la liste déroulante **Aactions** et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Cliquez sur **[!UICONTROL Appliquer]**.
+1. Cliquez sur **[!UICONTROL Apply]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 
@@ -55,7 +55,7 @@ Vous pouvez filtrer par période, type de ressource, utilisateurs, action entrep
 
    >[!NOTE]
    >
-   >Si les espaces de travail sont activés, les données de contrôle s’affichent pour tous les espaces de travail. Si vous appliquez un filtre d’espace de travail, Marketo mémorise la valeur de l’espace de travail précédent chaque fois que vous utilisez le journal d’audit. Les autorisations de Workspace au niveau de la ressource sont appliquées.
+   >Si les espaces de travail sont activés, les données de contrôle s’affichent pour tous les espaces de travail. Si vous appliquez un filtre d’espace de travail, Marketo se souvient de la valeur de l’espace de travail précédent chaque fois que vous utilisez le journal d’audit. Les autorisations Workspace au niveau de la ressource sont appliquées.
 
    >[!MORELIKETHIS]
    >

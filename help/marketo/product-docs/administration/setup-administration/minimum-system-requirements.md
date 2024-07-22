@@ -6,7 +6,7 @@ exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
 source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser M
 >
 >iOS et Android ne sont pas encore pris en charge.
 
-* Ordinateur ou ordinateur portable en cours d’exécution [!DNL Windows], Mac OS X (ou version ultérieure) ou Linux
+* Ordinateur ou ordinateur portable exécutant [!DNL Windows], Mac OS X (ou version ultérieure) ou Linux
 * Clavier et souris
 * Écran avec une résolution minimale de 1 280 x 768
-* Navigateur à jour, voir [Navigateurs pris en charge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} pour plus de détails
+* Navigateur à jour, voir [Navigateurs pris en charge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} pour plus d’informations
 * Connexion Internet
 
 >[!NOTE]
 >
->Si votre équipe informatique restreint l’accès web à l’aide d’une liste autorisée, demandez-lui d’ajouter `*.marketo.com`, `*.adobe.com`, et `*.adobe.net` pour autoriser toutes les ressources de Marketo Engage et tous les websockets.
+>Si votre équipe informatique restreint l&#39;accès web à l&#39;aide d&#39;une liste autorisée, demandez-lui d&#39;ajouter `*.marketo.com`, `*.adobe.com` et `*.adobe.net` pour autoriser toutes les ressources de Marketo Engage et toutes les websockets.

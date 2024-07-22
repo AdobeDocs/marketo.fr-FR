@@ -6,7 +6,7 @@ exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Une méthode rapide pour améliorer les taux de diffusion de vos emails consiste
 
 **Si vous n’avez pas d’enregistrement SPF sur votre domaine**
 
-Demandez à votre administrateur réseau d’ajouter la ligne suivante à vos entrées DNS. Remplacer [domain] avec le domaine principal de votre site web (ex. &quot;company.com&quot;) et [corpIP] avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des emails à partir de plusieurs domaines via Marketo, vous devez les ajouter à chaque domaine (sur une seule ligne).
+Demandez à votre administrateur réseau d’ajouter la ligne suivante à vos entrées DNS. Remplacez [domain] par le domaine principal de votre site web (ex. &quot;company.com&quot;) et [corpIP] avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des emails à partir de plusieurs domaines via Marketo, vous devez les ajouter à chaque domaine (sur une seule ligne).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -52,5 +52,5 @@ Reportez-vous à la section [Configuration d’une signature DKIM personnalisée
 >[!MORELIKETHIS]
 >
 >* [En savoir plus sur SPF et son fonctionnement](http://www.open-spf.org/Introduction/){target="_blank"}
->* [Mon SPF est-il correctement configuré ?](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [Ma configuration SPF est-elle correcte ?](https://www.kitterman.com/spf/validate.html){target="_blank"}
 >* [Ai-je utilisé la syntaxe appropriée ?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}

@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!CAUTION]
 >
->La configuration des espaces de travail peut s’avérer complexe. Contact [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils ont raison pour vous.
+>La configuration des espaces de travail peut s’avérer complexe. Contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;il vous convient.
 
 Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des landing pages, des emails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
@@ -28,13 +28,13 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 >Pour certaines raisons, vous pouvez utiliser un espace de travail :
 >
 >* Géographie : les départements marketing d’Europe, d’Asie et d’Amérique du Nord ont chacun un espace de travail
->* Unité opérationnelle : [!DNL Quicken], [!DNL Quickbooks] et [!DNL TurboTax] obtenir un espace de travail
+>* Unité opérationnelle : [!DNL Quicken], [!DNL Quickbooks] et [!DNL TurboTax] ont chacun un espace de travail
 >
 >Dans chaque cas, la séparation est due au fait que les ressources marketing sont complètement différentes. S’ils partagent des ressources marketing, les espaces de travail peuvent ne pas être l’outil idéal pour vous.
 
 >[!NOTE]
 >
->Découvrez comment créer [créer un espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Découvrez comment créer [un espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Partage entre espaces de travail {#sharing-across-workspaces}
 
@@ -44,11 +44,11 @@ Voici comment partager des ressources entre espaces de travail. Il fonctionne de
 >
 >Le dossier parent contenant vos ressources est le seul dossier qui peut être partagé, et non les dossiers enfants.
 
-1. Cliquez sur **[!UICONTROL Base]**.
+1. Cliquez sur **[!UICONTROL Base de données]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier Segmentation, puis cliquez sur **[!UICONTROL Nouveau dossier]**.
+1. Cliquez avec le bouton droit sur le dossier Segmentation et cliquez sur **[!UICONTROL Nouveau dossier]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
@@ -60,7 +60,7 @@ Voici comment partager des ressources entre espaces de travail. Il fonctionne de
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Share Folder]**.
+1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Partager le dossier]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
@@ -74,7 +74,7 @@ Voici comment partager des ressources entre espaces de travail. Il fonctionne de
 
 Vous pouvez partager ces éléments dans plusieurs espaces de travail.
 
-* Modèles d’e-mail
+* Modèles d&#39;e-mail
 * Modèles de page de destination
 * Modèles
 * Campagnes intelligentes
@@ -93,13 +93,13 @@ Pour les ressources qui ne sont pas des modèles, il est préférable de les clo
 
 >[!IMPORTANT]
 >
->Bien que tous les éléments répertoriés ci-dessus puissent être clonés dans des espaces de travail, des emails, des formulaires et des landing pages _doit figurer dans un programme_ au moment du clonage.
+>Bien que tous les éléments répertoriés ci-dessus puissent être clonés dans des espaces de travail, des emails, des formulaires et des landing pages _, ils doivent figurer dans un programme_ au moment du clonage.
 
 >[!NOTE]
 >
 >Lors du clonage de ressources qui comportent des modèles, ces modèles doivent être partagés avec l’espace de travail de destination.
 
-## Déplacement de ressources vers d’autres espaces de travail {#moving-assets-to-other-workspaces}
+## Déplacement d’Assets vers d’autres espaces de travail {#moving-assets-to-other-workspaces}
 
 Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans un dossier et faites glisser le dossier vers l’autre espace de travail.
 
@@ -109,9 +109,9 @@ Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans 
 
 ## Répartitions de l&#39;individu {#person-partitions}
 
-Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a sa propre population qui ne déduplique pas ou ne mélange pas avec d&#39;autres partitions. Si vous pensez que vous avez un cas d’utilisation commerciale qui peut nécessiter la duplication d’enregistrements avec la même adresse email, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+Les partitions de personne agissent comme des bases de données distinctes. Chaque partition a sa propre population qui ne déduplique pas ou ne mélange pas avec d&#39;autres partitions. Si vous pensez que vous avez un cas d’utilisation commerciale qui peut nécessiter la duplication d’enregistrements avec la même adresse électronique, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Vous pouvez affecter des partitions à des personnes.  [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
+Vous pouvez affecter des partitions de personne à [workspaces](create-a-new-workspace.md) dans les configurations suivantes :
 
 * un espace de travail à une partition par personne (1:1)
 * un espace de travail pour plusieurs partitions (1:x)

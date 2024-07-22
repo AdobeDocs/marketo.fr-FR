@@ -17,7 +17,7 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement à ceux qui le font. _not_ use [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si vous le faites, les paramètres décrits ci-dessous sont accessibles dans votre [Profil du compte Adobe](https://account.adobe.com/profile).
+>Cet article est destiné uniquement à ceux qui n’utilisent _pas_ [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si vous le faites, les paramètres décrits ci-dessous sont accessibles dans votre [profil de compte d’Adobe](https://account.adobe.com/profile).
 
 ## Langues prises en charge {#supported-languages}
 
@@ -30,19 +30,19 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 
 ## Modification de la langue, de la langue et du fuseau horaire de l’utilisateur {#change-user-language-locale-and-time-zone}
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Sélectionner **[!UICONTROL Mon compte]**.
+1. Sélectionnez **[!UICONTROL Mon compte]**.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Sous Mon compte, cliquez sur **[!UICONTROL Modifier les paramètres d’emplacement]**.
+1. Sous Mon compte, cliquez sur **[!UICONTROL Modifier les paramètres de l’emplacement]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Modifiez votre **[!UICONTROL Langue]**.
+1. Modifiez votre **[!UICONTROL langue]**.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,7 +50,7 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
    >
    >Vous avez également la possibilité de modifier uniquement votre langue en cliquant sur la liste déroulante des langues située en haut de la page de connexion.
 
-1. Modifiez votre **[!UICONTROL Paramètres régionaux]**.
+1. Modifiez votre **[!UICONTROL paramètre régional]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 

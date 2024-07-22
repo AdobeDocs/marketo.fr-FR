@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Utilisez les types d’entrée, les balises de programme ou les espaces de travail pour filtrer les informations affichées dans le calendrier.
 
-1. Cliquez sur le bouton **[!UICONTROL Calendrier]** mosaïque.
+1. Cliquez sur la mosaïque **[!UICONTROL Calendrier]** .
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Type d’entrée]** menu déroulant.
+1. Cliquez sur la liste déroulante **[!UICONTROL Entry Type]** (Type d’entrée).
 
    >[!NOTE]
    >
-   >Les types d’entrée par défaut sont les suivants : **[!UICONTROL Email]** **[!UICONTROL Programmes]** et **[!UICONTROL Campagnes intelligentes avec courrier électronique]**.
+   >Les types d’entrée par défaut sont **[!UICONTROL Email]** **[!UICONTROL Programmes]** et **[!UICONTROL Smart Campaigns with Email]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Utilisez les types d’entrée, les balises de programme ou les espaces de trava
 
    >[!TIP]
    >
-   >Pour obtenir des descriptions des types d’entrée standard, extrayez le [Types d’entrée de la vue de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >Pour obtenir des descriptions des types d’entrée standard, consultez les [Types d’entrée de la vue de planification de programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Sélectionnez les balises de programme qui vous intéressent.
 
@@ -43,7 +43,7 @@ Utilisez les types d’entrée, les balises de programme ou les espaces de trava
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Super ! Désormais, seules les entrées qui s’appliquent au filtre que vous venez de définir s’affichent.
+   Super ! Désormais, seules les entrées qui s’appliquent au filtre que vous venez de définir s’affichent.
 
    >[!NOTE]
    >

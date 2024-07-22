@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ## Quelle est la différence entre le contenu et une pièce jointe ? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **pièce jointe** est semblable à une pièce jointe de fichier que vous utiliseriez dans votre client de messagerie classique.
+Une **pièce jointe** est semblable à une pièce jointe que vous utiliseriez dans votre client de messagerie classique.
 
-**Contenu** est ce que nous utilisons pour décrire les fichiers (PPT, PDF, document Word, etc.) que vous souhaitez que le suivi soit effectué par Sales Connect.
+**Contenu** est ce que nous utilisons pour décrire n’importe quel fichier (PPT, PDF, document Word, etc.) que vous souhaitez que le suivi soit effectué par Sales Connect.
 
 Après avoir cliqué sur ce bouton, vous pouvez choisir un fichier déjà téléchargé ou charger un nouveau fichier à tracker. Nous insérons ensuite un lien dans l’email ou le modèle que vous utilisez.
 
 Du côté de la réception, le destinataire clique sur le lien et le contenu sera renseigné dans le navigateur. Cela nous permet de suivre chaque page vue et de la signaler à l’utilisateur de Sales Connect dans le flux en direct.
 
-Les options de fichier et de contenu sont disponibles dans : emails ponctuels, modèles, campagnes, Outlook (Windows et Mac), Gmail et OWA.
+Les options Fichier et Contenu sont disponibles dans : emails, modèles, campagnes, Outlook (Windows et Mac), Gmail et OWA.
 
 ## Qui gère le contenu et où est-il stocké ? {#who-manages-the-content-and-where-is-it-stored}
 

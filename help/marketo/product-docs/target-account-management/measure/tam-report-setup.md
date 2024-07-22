@@ -7,17 +7,17 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Configuration du rapport TAM {#tam-report-setup}
 
-Le rapport Ventes de la gestion des actifs numériques est un courrier électronique hebdomadaire personnalisé envoyé à l’équipe du compte.
+Le rapport Ventes de la gestion des actifs numériques est un courriel personnalisé hebdomadaire envoyé à l’équipe du compte.
 
 ## Configuration des rapports {#report-setup}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/one-3.png)
 
@@ -29,15 +29,15 @@ Le rapport Ventes de la gestion des actifs numériques est un courrier électron
 
    ![](assets/three-3.png)
 
-1. Cliquez sur le bouton **Jour** et sélectionnez le jour de la semaine où vous souhaitez que les destinataires reçoivent l&#39;email.
+1. Cliquez sur la liste déroulante **Jour** et sélectionnez le jour de la semaine où vous souhaitez que les destinataires reçoivent l&#39;email.
 
    ![](assets/four-4.png)
 
-1. Pour déterminer la mise en page de votre email, cliquez sur le bouton **Trier par** et effectuez une sélection.
+1. Pour déterminer la mise en page de votre email, cliquez sur la liste déroulante **Trier par** et effectuez une sélection.
 
    ![](assets/five-3.png)
 
-1. Vérifiez les **Utilisateurs** , puis cliquez sur la liste déroulante et sélectionnez la personne à qui vous souhaitez envoyer l’email.
+1. Cochez la case **Utilisateurs** , puis cliquez sur la liste déroulante et sélectionnez qui vous souhaitez recevoir l’email.
 
    ![](assets/six-2.png)
 
@@ -49,17 +49,17 @@ Le rapport Ventes de la gestion des actifs numériques est un courrier électron
 
    ![](assets/seven-2.png)
 
-Et voilà !
+Et c&#39;est tout !
 
-## Comment se désabonner {#how-to-unsubscribe}
+## Comment se désinscrire {#how-to-unsubscribe}
 
-Chaque rapport est assorti d’une option d’exclusion. Pour ce faire, cliquez simplement sur **Désabonner** au bas de l’email.
+Chaque rapport est assorti d’une option d’exclusion. Pour ce faire, cliquez simplement sur **Se désabonner** au bas de l’e-mail.
 
 ![](assets/eight-1.png)
 
-## Comment se désabonner {#how-to-resubscribe}
+## Comment redémarrer {#how-to-resubscribe}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/one-3.png)
 
@@ -71,10 +71,10 @@ Chaque rapport est assorti d’une option d’exclusion. Pour ce faire, cliquez 
 
    ![](assets/nine.png)
 
-1. Cliquez sur le bouton **Utilisateurs** menu déroulant.
+1. Cliquez sur la liste déroulante **Utilisateurs** .
 
    ![](assets/ten.png)
 
-1. Sélectionnez l’utilisateur pour lequel vous souhaitez recevoir à nouveau des emails et cliquez sur **Resubscribe**.
+1. Sélectionnez l’utilisateur pour lequel vous souhaitez recevoir à nouveau des emails et cliquez sur **Reabonner**.
 
    ![](assets/eleven.png)

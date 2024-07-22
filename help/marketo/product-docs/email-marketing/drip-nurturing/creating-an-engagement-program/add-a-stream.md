@@ -6,7 +6,7 @@ exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Les programmes d’engagement peuvent contenir plusieurs flux. Voici comment en 
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux** .
 
    ![](assets/streamstablifecycle.jpg)
 

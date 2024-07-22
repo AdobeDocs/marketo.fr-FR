@@ -7,7 +7,7 @@ feature: Administration, Landing Pages
 source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 6%
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ Vous pouvez modifier le nom de domaine et la page de secours, activer ou désact
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Cliquez sur **[!UICONTROL Pages de destination]**.
+1. Cliquez sur **[!UICONTROL Landing Pages]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. Dans le **[!UICONTROL Pages d’entrée]** , cliquez sur **[!UICONTROL Modifier]**.
+1. Dans la section **[!UICONTROL Landing Pages]**, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,19 +37,19 @@ Vous pouvez modifier le nom de domaine et la page de secours, activer ou désact
 
    | Terme | Définition |
    |---|---|
-   | [!UICONTROL Nom de domaine des landing pages] | Il s’agit de votre CNAME. Un CNAME est la première partie de l’URL que vous donnez aux personnes pour les landing pages. Par exemple, dans `https://go.yourCompany.com`, le mot &quot;go&quot; est le CNAME. Vous pouvez avoir plusieurs, mais la plupart des gens utilisent seulement celui-ci. |
-   | [!UICONTROL Page de secours] | C’est là que vous pouvez aller si la landing page n’existe pas ou est en panne. En savoir plus sur [pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | [!UICONTROL Page d&#39;accueil] | Saisissez l’URL de votre site d’entreprise. |
+   | [!UICONTROL Nom de domaine pour les landing pages] | Il s’agit de votre CNAME. Un CNAME est la première partie de l’URL que vous donnez aux personnes pour les landing pages. Par exemple, dans `https://go.yourCompany.com`, le mot &quot;go&quot; est le CNAME. Vous pouvez avoir plusieurs, mais la plupart des gens utilisent seulement celui-ci. |
+   | [!UICONTROL Page de secours] | C’est là que vous pouvez aller si la landing page n’existe pas ou est en panne. En savoir plus sur les [pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Page d’accueil] | Saisissez l’URL de votre site d’entreprise. |
 
-1. Vérifiez les **[!UICONTROL Préremplissage de formulaire]** pour permettre aux formulaires de préremplir des informations pour les personnes connues (cookies). Décochez pour bloquer.
+1. Cochez la case **[!UICONTROL Préremplissage de formulaire]** pour permettre aux formulaires de préremplir les informations pour les personnes connues (cookies). Décochez pour bloquer.
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >Si vous souhaitez préremplir la `<script>` s’affiche à la fin de la balise `<head>` dans le code, vérifiez les **[!UICONTROL Injection de script de préremplissage en fin d’en-tête]** de la boîte. Laissez cette option décochée si vous souhaitez qu’elle s’affiche au début.
+   >Si vous souhaitez que la balise `<script>` de préremplissage s’affiche à la fin de la balise `<head>` dans le code, cochez la case **[!UICONTROL Inject Prefill Script at End of Head]** (Injecter le script de préremplissage à la fin de l’en-tête). Laissez cette option décochée si vous souhaitez qu’elle s’affiche au début.
    >
-   >Vérifier **[!UICONTROL Suppression des liens de favicon par défaut]** pour empêcher Marketo d’insérer des liens favicon dans le code.
+   >Cochez la case **[!UICONTROL Supprimer les liens favicon par défaut]** pour empêcher Marketo d’insérer des liens favicon dans le code.
 
 1. Après avoir effectué vos sélections, cliquez sur **[!UICONTROL Enregistrer]**.
 

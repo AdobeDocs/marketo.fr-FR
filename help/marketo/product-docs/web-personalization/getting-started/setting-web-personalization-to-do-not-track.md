@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11382593
-description: Définition de la personnalisation web sur Ne pas suivre - Documents Marketo - Documentation du produit
-title: Définition de la personnalisation Web sur laquelle aucun suivi n’est effectué
+description: Définition de Web Personalization sur lequel ne pas effectuer de suivi - Documents Marketo - Documentation du produit
+title: Configuration de Web Personalization pour un suivi incorrect
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Définition de la personnalisation Web sur laquelle aucun suivi n’est effectué {#setting-web-personalization-to-do-not-track}
+# Configuration de Web Personalization pour un suivi incorrect {#setting-web-personalization-to-do-not-track}
 
 Les visiteurs web peuvent configurer leur navigateur pour empêcher le suivi par n’importe quel site web, en choisissant &quot;Ne pas suivre&quot; (DNT). Cela empêche le suivi pour ce navigateur et cet appareil particulier.
 
-Dans Personnalisation web et Contenu prédictif, un marketeur peut définir une bascule pour indiquer s’il faut prendre en charge ou ignorer le paramètre Ne pas suivre (DNT) du navigateur. Le basculement pour les comptes est désactivé par défaut, ce qui signifie que le DNT n’est pas honoré par l’application.
+Dans Personalization web et contenu prédictif, un marketeur peut définir une bascule pour indiquer s’il faut prendre en charge ou ignorer le paramètre Ne pas suivre (DNT) du navigateur. Le basculement pour les comptes est désactivé par défaut, ce qui signifie que le DNT n’est pas honoré par l’application.
 
 ## Activation ou désactivation du basculement {#enable-or-disable-the-toggle}
 
@@ -23,11 +23,11 @@ Dans Personnalisation web et Contenu prédictif, un marketeur peut définir une 
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Dans Domain and Domain Configuration, sélectionnez **Activé** pour activer le bouton d’activation/désactivation d’Honor DNT.
+1. Dans Configuration du domaine et du domaine, sélectionnez **On** pour activer le bouton d’activation/désactivation du DNT d’honneur.
 
    ![](assets/two-1.png)
 
-   Lorsque le bouton bascule est activé, la personnalisation web respecte et prend en charge le paramètre Ne pas suivre (DNT) du navigateur et ne suit aucune activité web ni n’exécute de campagnes ou de recommandations de contenu sur votre site web.
+   Lorsque le bouton bascule est activé, Web Personalization prend en charge le paramètre Ne pas suivre (DNT) du navigateur et ne suit aucune activité web ni n’exécute de campagnes ou de recommandations de contenu sur votre site web.
 
    >[!NOTE]
    >

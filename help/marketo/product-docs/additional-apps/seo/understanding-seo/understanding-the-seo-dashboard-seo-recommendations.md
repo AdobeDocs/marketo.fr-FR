@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949180
 description: Présentation du tableau de bord SEO - Recommendations SEO - Documents Marketo - Documentation du produit
-title: Présentation du tableau de bord de l’optimisation pour les moteurs de recherche - Recommendations SEO
+title: Présentation du tableau de bord SEO - Recommendations SEO
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,21 +11,21 @@ ht-degree: 0%
 
 ---
 
-# Présentation du tableau de bord de l’optimisation pour les moteurs de recherche : SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# Présentation du tableau de bord de l’optimisation pour les moteurs de recherche : Recommendations SEO {#understanding-the-seo-dashboard-seo-recommendations}
 
 Utilisez le tableau de bord pour obtenir une vue d’ensemble des tendances des classements des mots-clés et de la façon dont votre site est optimisé pour l’optimisation du référencement.
 
-Vous pouvez également découvrir comment améliorer l’utilisation de la variable [!UICONTROL Recommendations] . Plongeons dedans !
+Vous pouvez également découvrir comment améliorer l&#39;utilisation de la section [!UICONTROL Recommendations] . Plongeons !
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## [!UICONTROL Problèmes d’optimisation des pages principales] {#top-page-optimization-issues}
+## [!UICONTROL  Problèmes d’optimisation des principales pages] {#top-page-optimization-issues}
 
-Vous découvrirez ainsi cinq méthodes à fort impact pour commencer immédiatement à optimiser votre site. Il vous suffit de cliquer sur l’un des liens pour afficher le rapport complet [Analyse détaillée des détails de la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+Vous découvrirez ainsi cinq méthodes à fort impact pour commencer immédiatement à optimiser votre site. Cliquez simplement sur l’un des liens pour afficher le [zoom avant sur les détails de la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
->Vous pouvez cliquer sur [!UICONTROL Problèmes d’optimisation des pages principales] pour afficher une liste complète.
+>Vous pouvez cliquer sur [!UICONTROL  Principaux problèmes d’optimisation de la page ] pour afficher une liste complète.
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
@@ -41,4 +41,4 @@ Le fait d’avoir des liens de sites fiables vers votre contenu peut augmenter l
 
 >[!MORELIKETHIS]
 >
->[Analyse détaillée des détails de la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}
+>[Analyse en profondeur des détails de page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

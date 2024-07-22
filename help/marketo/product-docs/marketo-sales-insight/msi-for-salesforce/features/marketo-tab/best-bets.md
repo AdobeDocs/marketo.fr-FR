@@ -27,7 +27,7 @@ Vous pouvez cliquer sur chacun des boutons suivants pour afficher les Meilleurs 
 * Contacts du compte : vous pouvez consulter les Bonnes enchères pour tous les contacts qui appartiennent aux Comptes qui vous sont affectés dans le CRM, même si le contact lui-même ne vous est pas assigné.
 * Contacts d’opportunité : vous pouvez consulter les Bonnes enchères pour tous les contacts qui appartiennent aux Opportunités qui vous sont affectées dans le CRM, même si le contact lui-même ne vous est pas assigné.
 
-**Informations à noter**
+**Choses à noter**
 
 Les boutons &quot;Lead &amp; Contact&quot; sont sélectionnés par défaut. Vous pouvez sélectionner une ou plusieurs options de filtre et au moins une des quatre options devra toujours être sélectionnée.
 
@@ -44,7 +44,7 @@ En cliquant sur le menu de données sous la colonne Actions , vous pouvez attein
 
 ![](assets/best-bets-1.png)
 
-**Actions en bloc**
+**Actions en masse**
 
 Vous pouvez sélectionner un ou plusieurs pistes ou contacts de votre page Meilleurs paris à l’aide de la case à cocher et les atteindre en tant que groupe à l’aide des options d’engagement suivantes :
 

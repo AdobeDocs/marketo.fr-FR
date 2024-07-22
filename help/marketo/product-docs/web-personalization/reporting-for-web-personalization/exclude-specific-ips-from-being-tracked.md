@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Exclure du suivi des adresses IP spécifiques {#exclude-specific-ips-from-being-tracked}
 
-Souhaitez-vous jamais exclure vos propres employés et nom de votre organisation du suivi et de la création de rapports dans la personnalisation web ?
+Souhaitez-vous jamais exclure vos propres employés et nom de votre organisation du suivi et de la création de rapports dans Web Personalization ?
 
-Vous pouvez exclure des adresses IP individuelles et l’ensemble ou une partie d’une plage d’adresses IP.
+Vous pouvez exclure des adresses IP individuelles et tout ou partie d’une plage d’adresses IP.
 
 >[!NOTE]
 >
 >Ce processus peut prendre jusqu’à cinq minutes.
 
-1. Connectez-vous à la personnalisation web et sous votre connexion, cliquez sur **Paramètres du compte**.
+1. Connectez-vous à Web Personalization et sous votre connexion, cliquez sur **Paramètres du compte**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Faites défiler l’écran vers le bas jusqu’à **Exclusion d’IP** zone. Si vous excluez des adresses IP pour la première fois, cliquez dans le champ **Exclure les adresses IP** champ .
+1. Faites défiler l’écran jusqu’à la zone **IP exclude**. Si vous excluez des adresses IP pour la première fois, cliquez dans le champ vide **Exclure les adresses IP** .
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Saisissez les adresses IP individuelles ou les plages d’adresses IP à exclure du suivi et de la création de rapports, puis cliquez sur **Enregistrer**.
+1. Saisissez les adresses IP individuelles ou les plages d’adresses IP que vous souhaitez exclure du suivi et de la création de rapports, puis cliquez sur **Enregistrer**.
 
    ![](assets/exclude-ips-form-hands.png)
 

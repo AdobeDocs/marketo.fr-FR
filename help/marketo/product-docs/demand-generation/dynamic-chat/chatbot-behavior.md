@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -200,7 +200,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
         <p>V1 clique sur D1 et termine D1</p>
         <p>V1 visites WP2</p>
       </td>
-      <td>D1 sera résolu sur WP1 et après la fin<br/>D2 sera résolu sur WP2</td>
+      <td>D1 sera résolu sur WP1 et après achèvement<br/>D2 sera résolu sur WP2</td>
       <td>
         <p>Le nombre de déclencheurs, le nombre d’engagements et le nombre terminé pour D1 seront augmentés de 1.</p>
         <p>Le nombre de déclencheurs pour D2 sera augmenté de 1.</p>
@@ -215,7 +215,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
         <p>V1 visites WP2</p>
         <p>Les clics V1 sur D2 fournissent la première réponse.</p>
       </td>
-      <td>D1 sera résolu sur WP1 et après la fin<br/>D2 sera résolu sur WP2</td>
+      <td>D1 sera résolu sur WP1 et après achèvement<br/>D2 sera résolu sur WP2</td>
       <td>
         <p>Le nombre de déclencheurs, le nombre d’engagements et le nombre terminé pour D1 seront augmentés de 1.</p>
         <p>Le nombre de déclencheurs et d’engagements pour D2 sera augmenté de 1.</p>
@@ -329,7 +329,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
         <p>D2 ciblé pour WP1 avec 2 priorités</p>
         <p>V1 visite pour la première fois WP1</p>
         <p>V1 clique sur D1 et termine D1</p>
-        <p>V1 actualise WP1 et voir D2<br/>V1 clique sur D2 et termine D2.</p>
+        <p>V1 actualise WP1 et voit D2<br/>V1 clique sur D2 et termine D2</p>
         <p>Le marketeur a apporté des modifications à D1 et les a republiées.</p>
         <p>V1 actualise WP1</p>
       </td>

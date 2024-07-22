@@ -6,7 +6,7 @@ exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -25,21 +25,21 @@ Le filtrage est un excellent moyen de réduire rapidement les données.
 
    >[!NOTE]
    >
-   >Il existe plusieurs combinaisons de paramètres de recherche. Dans cet exemple, localisez : _Secteur bancaire, Pays = États-Unis, Max Employees = 10000_.
+   >Il existe plusieurs combinaisons de paramètres de recherche. Dans cet exemple, nous localisons : _Secteur bancaire, Pays = États-Unis, Max Employees = 10000_.
 
-1. Cliquez sur le bouton **Secteur industriel** et sélectionnez **Banques**.
+1. Cliquez sur la liste déroulante **Secteur** et sélectionnez **Banking**.
 
    ![](assets/filter-2.png)
 
-1. Cliquez sur le bouton **Pays** et sélectionnez **États-Unis**.
+1. Cliquez sur la liste déroulante **Country** et sélectionnez **United States**.
 
    ![](assets/filter-3.png)
 
-1. Sous **Employés**, saisissez &quot;0&quot; dans la variable **Min** champ, &quot;10000&quot; dans la variable **Max** , puis cliquez sur **Appliquer**.
+1. Sous **Employees**, saisissez &quot;0&quot; dans le champ **Min**, &quot;10000&quot; dans le champ **Max**, puis cliquez sur **Apply**.
 
    ![](assets/four-2.png)
 
-   Et voilà ! Les résultats filtrés s’affichent dans la partie gauche de l’écran.
+   Et c&#39;est tout ! Les résultats filtrés s’affichent dans la partie gauche de l’écran.
 
    >[!NOTE]
    >

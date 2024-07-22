@@ -6,8 +6,8 @@ exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '181'
+ht-degree: 4%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 6%
 
 Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se trouver dans la grille.
 
-* 11 avril | La facturation est acquise par (Tradeshow)
+* 11 avril | La facturation est acquise par (commerce)
 * 15 avril | Joan est acquis par (webinaire)
 * 22 avril | (Opportunité 1) créée pour 6 000 $
 * 24 avril | (Opportunité 2) créée pour 10 000 $
-* 25 avril | Bill et Joan sont associés à des rôles **LES DEUX** Optys
+* 25 avril | Bill et Joan sont associés à des rôles aux types **BOTH**
 * 29 avril | (Opportunité 1) est terminée
 
-| Nom du programme | (Salon professionnel) | (Webinaire) |
+| Nom du programme | (Tradeshow) | (Webinaire) |
 |---|---|---|
 | (FT) Opty Created | `<pre>1</pre>` | `<pre>1</pre>` |
 | (FT) Pipeline créé | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |
@@ -35,7 +35,7 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se 
 >
 >**Explication**
 >
->Parce que Bill et Joan étaient tous deux associés à des rôles **LES DEUX** opportunités, le système (selon les règles) répartit le crédit uniformément entre elles.
+>Comme Bill et Joan étaient tous deux associés à des rôles pour les opportunités **BOTH** , le système (selon les règles) partageait le crédit uniformément entre eux.
 >
 >Le pipeline créé pour chaque programme (8 000 $) représente la moitié du total (16 000 $) disponible pour donner en tant que crédit.
 

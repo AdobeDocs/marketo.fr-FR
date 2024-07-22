@@ -19,4 +19,4 @@ Passez en revue les dernières activités web de votre piste en citant le nombre
 
 ## Activités Web anonymes {#anonymous-web-activities}
 
-L’onglet Activités Web anonymes affiche toutes les **anonyme** activités web des visiteurs de pages web. Examinez les dernières activités web en citant le nombre de visites de la page.
+L’onglet Activités Web anonymes affiche toutes les activités Web des visiteurs de la page Web **anonymous**. Examinez les dernières activités web en citant le nombre de visites de la page.

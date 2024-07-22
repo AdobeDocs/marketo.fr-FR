@@ -6,7 +6,7 @@ exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Le journal d’audit vous permet d’obtenir un historique complet (six mois) de
 
 ![](assets/audit-trail-overview-1.png)
 
-## Qu’est-ce que le journal d’audit ? {#what-is-audit-trail}
+## Présentation du journal d’audit {#what-is-audit-trail}
 
-Le journal d’audit capture, en temps réel, une liste complète d’actions et d’événements se produisant dans un abonnement Marketo. Il comprend un moyen en libre-service d’accéder à un historique de données de six mois afin de vous aider à répondre à des questions telles que :
+Le journal d’audit capture, en temps réel, une liste complète d’actions et d’événements se produisant dans un abonnement Marketo. Il comprend un moyen en libre-service d’accéder à un historique de données de six mois afin de répondre à des questions telles que :
 
 Qu’est-il advenu de cette ressource ou de ce paramètre et qui l’a mise à jour pour la dernière fois ?
 
@@ -33,7 +33,7 @@ Qui se connecte à notre compte ?
 
 ## Ce que nous vérifions {#what-we-audit}
 
-Marketo effectuera le contrôle de la variable [créer, modifier et supprimer](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) actions pour :
+Marketo effectuera le suivi des actions [créer, modifier et supprimer](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) pour :
 
 * Conception de ressources de studio
 * Tous les programmes Marketo
@@ -41,18 +41,18 @@ Marketo effectuera le contrôle de la variable [créer, modifier et supprimer](/
 * Listes (dynamiques/statiques)
 * Utilisateurs (admin)
 * Rôles et autorisations (admin)
-* Espace de travail et partitions (admin)
+* Workspace et partitions (admin)
 * Historique de connexion des utilisateurs
 
 >[!NOTE]
 >
->Marketo est _not_ contrôler les modifications apportées actuellement à la personnalisation web, au contenu prédictif ou à Sales Insight ;
+>Marketo n’est _pas_ des modifications de contrôle effectuées actuellement dans Web Personalization, Predictive Content ou Sales Insight.
 
-## Composants du journal d’audit {#audit-trail-components}
+## Composants de suivi {#audit-trail-components}
 
 Le journal d’audit se compose de trois composants.
 
-**1) [Journal d’audit des ressources](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [Suivi de la ressource](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Voir l’activité effectuée sur des ressources spécifiques.
 
@@ -60,13 +60,13 @@ Voir l’activité effectuée sur des ressources spécifiques.
 
 Surveillez les détails basés sur l’utilisateur.
 
-**3) [Historique de connexion des utilisateurs](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3) [Historique de connexion de l’utilisateur](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Découvrez qui s’est connecté à votre abonnement et quand. Inclut également les tentatives de connexion ayant échoué.
 
 >[!TIP]
 >
->Il y a tellement de choses que vous pouvez vérifier à l’aide du journal d’audit, veillez à utiliser [Filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Il y a tellement de choses que vous pouvez contrôler à l’aide du journal d’audit, veillez à utiliser [Filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) !
 
 ## Exportation des données {#exporting-data}
 
@@ -78,7 +78,7 @@ Vous ne pouvez afficher que l’équivalent de 30 jours de données dans votre i
 >
 >**Définition**
 >
->**Inconnu :** Dans [!DNL Webhook], le nom et l’adresse électronique d’un utilisateur peuvent s’afficher comme &quot;Inconnu&quot;. Cela se produit lorsque vous modifiez les valeurs de liste de sélection dans le CRM. Ces valeurs apparaissent dans les formulaires Marketo et les landing pages. Cette mise à jour côté CRM génère automatiquement vos landing pages référençant le formulaire. Dans [!DNL Webhook], nous allons capturer que la landing page a été ébauchée, mais le nom et l’email de l’utilisateur s’afficheront comme &quot;Inconnu&quot;, car nous ne sommes pas en mesure de capturer les informations de l’utilisateur du côté CRM.
+>**Inconnu :** Dans [!DNL Webhook], le nom et l’adresse électronique d’un utilisateur peuvent être répertoriés comme &quot;Inconnu&quot;. Cela se produit lorsque vous modifiez les valeurs de liste de sélection dans le CRM. Ces valeurs apparaissent dans les formulaires Marketo et les landing pages. Cette mise à jour côté CRM génère automatiquement vos landing pages référençant le formulaire. Dans [!DNL Webhook], nous allons capturer que la landing page a été ébauchée, mais le nom et l’email de l’utilisateur s’afficheront comme &quot;Inconnu&quot;, car nous ne sommes pas en mesure de capturer les informations de l’utilisateur du côté CRM.
 
 >[!MORELIKETHIS]
 >

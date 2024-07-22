@@ -41,7 +41,7 @@ Vous pouvez filtrer les résultats selon différents attributs/propriétés (par
 
 ![](assets/pca.png)
 
-Cliquez sur l’icône de calendrier pour modifier les dates des données reflétées. Choisissez une durée prédéfinie ou une période spécifique.
+Cliquez sur l’icône du calendrier pour modifier les dates des données reflétées. Choisissez une durée prédéfinie ou une période spécifique.
 
 ![](assets/dates.png)
 
@@ -61,7 +61,7 @@ Affiche le contenu à conversion supérieure par taux de conversion pour la pér
 >
 >**Définition**
 >
->**Taux de conversion**: Pourcentage calculé par conversions directes divisé par le nombre de clics.
+>**Taux de conversion** : pourcentage calculé par conversions directes divisé par le nombre de clics.
 
 ## Contenu tendance {#trending-content}
 
@@ -81,13 +81,13 @@ Passez la souris sur une image dans Contenu suggéré pour afficher les options 
 
 >[!NOTE]
 >
->Vous voyez ces icônes en bas ? De gauche à droite, ils sont : Afficher le contenu, Exporter au format CSV, Approuver le contenu.
+>Vous voyez ces icônes en bas ? Ils sont de gauche à droite : Afficher le contenu, Exporter au format CSV, Approuver le contenu.
 
 ## Contenu {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher des détails supplémentaires, notamment : les visiteurs qui le visualisent, les nouveaux visiteurs par rapport aux visiteurs récurrents, connus et anonymes, les principaux emplacements d’où proviennent les visiteurs lors de l’affichage du contenu et les principaux secteurs d’activité déduits qu’ils proviennent.
+Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher des détails supplémentaires, notamment : les visiteurs qui le visualisent, les nouveaux visiteurs par rapport aux visiteurs réguliers, connus et anonymes, les principaux emplacements d’où proviennent les visiteurs lors de l’affichage du contenu et les principaux secteurs d’activité dont ils proviennent.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 

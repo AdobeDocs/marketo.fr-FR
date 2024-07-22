@@ -6,7 +6,7 @@ exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre programme. Cliquez sur le bouton **[!UICONTROL Affichage]** menu déroulant. Sélectionner **[!UICONTROL Planification]**.
+1. Sélectionnez votre programme. Cliquez sur la liste déroulante **[!UICONTROL Afficher]** . Sélectionnez **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 
 ## Modification entre les modes {#changing-between-modes}
 
-1. Cliquer sur **[!UICONTROL 3 semaines]** ou **[!UICONTROL Mois]** modifie les dates visibles sur votre écran.
+1. Cliquez sur **[!UICONTROL 3 semaines]** ou **[!UICONTROL Mois]** pour modifier les dates visibles sur votre écran.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Fantastique ! Maintenant que vous savez comment voir votre programme, apprenons
 
 >[!MORELIKETHIS]
 >
->[Création d’une entrée dans la vue Planification du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
+>[Création d’une entrée dans la vue de planification du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

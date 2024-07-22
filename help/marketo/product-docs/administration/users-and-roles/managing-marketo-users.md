@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement à ceux qui le font. _not_ use [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si vous le faites, suivez les étapes de la section [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Cet article est destiné uniquement à ceux qui n’utilisent _pas_ [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si vous le faites, suivez les étapes de [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Création d’utilisateurs {#create-users}
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Saisissez le **[!UICONTROL Email]**, **[!UICONTROL Prénom]**, et **[!UICONTROL Nom]**.
+1. Saisissez les **[!UICONTROL Email]**, **[!UICONTROL Prénom]** et **[!UICONTROL Nom]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Vous pouvez éventuellement indiquer un motif pour l’invitation et sélectionner une date d’expiration dans la variable **[!UICONTROL Expiration d’accès]** à l’aide du sélecteur de date.
+1. Si vous le souhaitez, saisissez un motif pour l’invitation et sélectionnez une date d’expiration dans le champ **[!UICONTROL Access Expires]** à l’aide du sélecteur de date.
 
    ![](assets/managing-marketo-users-5.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >Lorsque la date d’expiration arrive, l’utilisateur reçoit une notification d’expiration et son compte est verrouillé.
 
-1. Sélectionnez la variable **[!UICONTROL Rôle]** de votre choix et cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez le **[!UICONTROL rôle]** de votre choix et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/managing-marketo-users-7.png)
 
@@ -75,9 +75,9 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
 >[!NOTE]
 >
->Si l’utilisateur que vous souhaitez supprimer est également un utilisateur Dynamic Chat, vous devez [les supprimer du Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} dans le Admin Console avant de pouvoir les supprimer dans Marketo Engage.
+>Si l’utilisateur que vous souhaitez supprimer est également un utilisateur Dynamic Chat, vous devez [le supprimer de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} dans l’Admin Console avant de pouvoir le supprimer dans Marketo Engage.
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-10.png)
 
@@ -85,17 +85,17 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur **[!UICONTROL Supprimer un utilisateur]**.
+1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur **[!UICONTROL Supprimer l’utilisateur]**.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Confirmer en cliquant sur **[!UICONTROL OK]**.
+1. Confirmez en cliquant sur **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Réinitialisation des mots de passe utilisateur {#reset-user-passwords}
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-14.png)
 
@@ -119,7 +119,7 @@ L’utilisateur recevra un courrier électronique contenant des instructions de 
 
 ## Modification des autorisations et modification des informations utilisateur {#change-permissions-and-edit-user-information}
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-18.png)
 

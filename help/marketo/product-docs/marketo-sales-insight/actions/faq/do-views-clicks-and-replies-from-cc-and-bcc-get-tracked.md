@@ -1,8 +1,8 @@
 ---
 description: Les vues, les clics et les réponses des destinataires répertoriés dans les sections CC et Cci de l’e-mail font-ils l’objet d’un suivi ? - Documents Marketo - Documentation du produit
 title: Les vues, les clics et les réponses des destinataires répertoriés dans les sections CC et Cci de l’e-mail font-ils l’objet d’un suivi ?
-exl-id: 83a76572-7fea-463b-b3fc-b6e9fe58c696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

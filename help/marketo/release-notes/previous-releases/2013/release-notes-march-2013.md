@@ -6,22 +6,22 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 4%
+source-wordcount: '230'
+ht-degree: 3%
 
 ---
 
-# Notes de mise à jour : Mars 2013 {#release-notes-march}
+# Notes de mise à jour : mars 2013 {#release-notes-march}
 
 Les fonctionnalités suivantes sont incluses dans la version de mars.
 
 ## Fichiers de calendrier Marketo {#marketo-calendar-files}
 
-Créer un fichier de calendrier sous la forme d’un **Mon jeton** à utiliser dans vos emails de confirmation et de rappel d’événement. Ce fichier de calendrier intégré (fichier .ics, par exemple) affichera tous les jetons, y compris Mes jetons et le `{{member.webinar URL}}` jeton.
+Créez un fichier de calendrier **My Token** à utiliser dans vos emails de confirmation et de rappel d’événement. Ce fichier de calendrier intégré (par exemple, fichier .ics) affichera tous les jetons, y compris Mes jetons et le jeton `{{member.webinar URL}}`.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
-## Attendre jusqu&#39;à +/- {#wait-until}
+## Attente de +/- {#wait-until}
 
 Créez des étapes d’attente pouvant exécuter un nombre spécifié de jours avant ou après un jeton de date. Par exemple, vous pouvez créer une étape d’attente qui attend 3 jours avant la date de l’événement, puis envoyer un rappel !
 

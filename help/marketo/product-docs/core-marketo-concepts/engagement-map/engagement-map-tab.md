@@ -1,8 +1,8 @@
 ---
 description: Onglet Carte de l’engagement - Documents Marketo - Documentation du produit
 title: Onglet Carte d’engagement
-exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
+exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Filtre : lorsque vous cliquez sur cette carte, un panneau de visualisation s’a
 * Liste des conditions de choix associées à l’étape de flux
 * Étape de flux de modification
 
-Étapes du flux : si une étape de flux fonctionne _not_ incluez tous les choix possibles. Cette carte affiche les attributs associés à l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
+Étapes de flux : si une étape de flux n’inclut _pas_ d’options, cette carte affiche les attributs associés à l’étape de flux. Si vous cliquez dessus, un panneau de visualisation s’affiche avec les informations suivantes :
 
 * Opération à laquelle appartient l’étape de flux
 * Liste des attributs associés à l’étape de flux
@@ -69,7 +69,7 @@ Filtre : lorsque vous cliquez sur cette carte, un panneau de visualisation s’a
    * Liste des conditions de choix associées à l’étape de flux
    * Étape de flux de modification
 
-* Si une campagne Exécuter ou Demander comprend des choix, un clic sur la carte de flux se développe afin d’afficher tous les choix dans des cartes individuelles. Cliquez sur le bouton _choice_ s’agrandit, la campagne associée au choix spécifique et affiche un panneau de visualisation avec les informations suivantes :
+* Si une campagne Exécuter ou Demander comprend des choix, un clic sur la carte de flux se développe afin d’afficher tous les choix dans des cartes individuelles. Cliquez sur la carte _choice_ pour développer la campagne associée au choix spécifique et afficher un panneau déroulant contenant les informations suivantes :
 
    * Campagne à laquelle le choix appartient
    * Modifier le choix

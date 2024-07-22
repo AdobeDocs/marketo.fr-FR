@@ -6,14 +6,14 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Ajout de modules à votre email {#add-modules-to-your-email}
 
-Dans Email Editor 2.0, un module est une section de votre email qui est définie dans le modèle. Les modules peuvent contenir toute combinaison d’éléments, de variables et d’autres contenus de HTML. Les ajouter à votre email est facile.
+Dans Email Editor 2.0, un module est une section de votre email qui est définie dans le modèle. Les modules peuvent contenir toute combinaison d’éléments, de variables et d’autres contenus d’HTML. Les ajouter à votre email est facile.
 
 1. Créez un email. Veillez à choisir (ou à créer) un modèle contenant des modules.
 
@@ -21,7 +21,7 @@ Dans Email Editor 2.0, un module est une section de votre email qui est définie
 
    >[!NOTE]
    >
-   >La plupart des modèles de démarrage Marketo contiennent des modules. Vous pouvez également [créer le vôtre](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La plupart des modèles de démarrage Marketo contiennent des modules. Vous pouvez également [créer votre propre](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. À l’extrême droite de l’e-mail, cliquez sur **Modules**.
 
@@ -43,7 +43,7 @@ Dans Email Editor 2.0, un module est une section de votre email qui est définie
 
 Il existe deux manières de déplacer un module.
 
-1. Identifiez le module à déplacer. Si vous ne savez pas comment il s&#39;appelle, pointez dessus et il sera mis en surbrillance à droite.
+1. Identifiez le module que vous souhaitez déplacer. Si vous ne savez pas comment il s&#39;appelle, pointez dessus et il sera mis en surbrillance à droite.
 
    ![](assets/six-2.png)
 
@@ -51,7 +51,7 @@ Il existe deux manières de déplacer un module.
 
    ![](assets/seven-2.png)
 
-1. ...et faites glisser le module vers l’endroit de votre choix.
+1. ...et faites glisser le module à l’endroit de votre choix.
 
    ![](assets/eight-2.png)
 
@@ -59,7 +59,7 @@ Il existe deux manières de déplacer un module.
 
    ![](assets/nine-2.png)
 
-1. Cliquez sur l’icône d’engrenage, puis sélectionnez **Déplacer vers le haut** ou **Déplacer vers le bas**, selon l’emplacement où vous souhaitez que le module soit installé.
+1. Cliquez sur l’icône d’engrenage, puis sélectionnez **Déplacer vers le haut** ou **Déplacer vers le bas**, selon l’emplacement où doit se rendre le module.
 
    ![](assets/ten-2.png)
 

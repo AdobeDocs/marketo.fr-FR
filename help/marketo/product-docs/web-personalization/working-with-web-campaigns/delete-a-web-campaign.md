@@ -19,9 +19,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne web de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne web de votre choix, utilisez la [fonction de filtrage](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Sur la page Campagnes Web, cliquez sur **Supprimer** sur la campagne que vous souhaitez supprimer.
+1. Sur la page Campagnes Web, cliquez sur **Supprimer** dans la campagne à supprimer.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [Modifier une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
->* [Lancer/mettre en pause une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
+>* [Lancer/Mettre en pause une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)

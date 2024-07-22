@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Les coûts par période se rapportent à l’argent que vous dépensez au cours 
 >
 >Si vous dépensez 1 000 $ pour engager un illustrateur dans un livre électronique lancé en juillet, le programme eBook aura un coût de 1 000 $ en juillet.
 >
->Si vous dépensez 200 $ par mois pour [!DNL Google Adwords] - le [!DNL Google Adwords] Le programme aurait un coût de 200 $ pour une période _chaque mois_.
+>Si vous dépensez 200 $ par mois sur [!DNL Google Adwords], le programme [!DNL Google Adwords] aurait un coût de période de 200 $ _tous les mois_.
 
 >[!NOTE]
 >
 >[Présentation des programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Compréhension de l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Comprendre l’appartenance au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Méthode de calcul des coûts de la période {#how-period-costs-are-calculated}
 
@@ -39,7 +39,7 @@ Imaginez un événement, comme un webinaire, qui se produit en mars. De nouvelle
 
    ![](assets/graph1.png)
 
-   ...les contacts ajoutés dans les mois précédant et suivant seront *only* comptez jusqu&#39;au mois de mars.
+   ...contacts ajoutés dans les mois précédant et suivant seront *seulement* comptabilisés en mars.
 
    ![](assets/graph2.png)
 
@@ -61,9 +61,9 @@ Imaginez un événement, comme un webinaire, qui se produit en mars. De nouvelle
 
    >[!NOTE]
    >
-   >En résumé : les mois sans période définie sont décalés vers l’arrière vers le dernier mois défini. S’il n’y a aucun coût de période précédente, les mois seront reportés à la période suivante qui a été définie. Si un coût de période n’a pas été défini pour _any_ Les mois suivants, les rapports dans le RCE ne seront pas disponibles pour le programme.
+   >En résumé : les mois sans période définie sont décalés vers l’arrière vers le dernier mois défini. S’il n’y a aucun coût de période précédente, les mois seront reportés à la période suivante qui a été définie. Si un coût de période n&#39;a pas été défini pour _n&#39;importe quel_ mois, la création de rapports dans le RCE ne sera pas disponible pour le programme.
 
    >[!MORELIKETHIS]
    >
    >* [Utilisation des coûts de période dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [Filtrage d’un rapport de programme par coût par période](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >* [Filtrage d’un rapport de programme par coût de période](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

@@ -20,11 +20,11 @@ Marketo vous permet de créer des entrées directement dans votre calendrier mar
 * Programmes d&#39;e-mail
 * Campagnes intelligentes
 
-1. Cliquez sur le bouton **[!UICONTROL Calendrier]** mosaïque.
+1. Cliquez sur la mosaïque **[!UICONTROL Calendrier]** .
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Sélectionnez une entrée précédente et cliquez sur **[!UICONTROL Afficher la cible du programme]**.
+1. Sélectionnez une entrée précédente et cliquez sur **[!UICONTROL Afficher le focus du programme]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -38,7 +38,7 @@ Marketo vous permet de créer des entrées directement dans votre calendrier mar
 
    >[!TIP]
    >
-   >Notez que vous pouvez également créer **Campagnes intelligentes**, **Programmes de messagerie électronique** et **Entrées de base** de la même manière.
+   >Vous pouvez également créer des **campagnes dynamiques**, des **programmes de messagerie électronique** et des **entrées de base** de la même manière.
 
 1. Une fois la modification terminée, fermez le mode de mise au point du programme.
 

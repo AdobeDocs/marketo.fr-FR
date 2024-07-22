@@ -6,8 +6,8 @@ exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 2%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ Lorsque vous appuyez sur une carte Analytics, vous pouvez :
 
 * [En faire un favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [Marquer comme terminé](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Faites-le connaître autour de vous](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Partager](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Appuyez sur une carte Analytics pour afficher :
 
@@ -41,7 +41,7 @@ Dans cet exemple, le rouge indique que la valeur a diminué au cours de la péri
 
 ## Pistes acquises {#acquired-leads}
 
-La variable **Pistes acquises** vous présente un rapport de tendance d’un mois à l’autre du nombre de nouvelles pistes.
+La carte **Pistes achetées** vous présente un rapport de tendance d’un mois à l’autre sur le nombre de nouvelles pistes.
 
 >[!NOTE]
 >
@@ -51,18 +51,18 @@ La variable **Pistes acquises** vous présente un rapport de tendance d’un moi
 
 ## Nouveaux leads {#new-leads}
 
-La variable **[!UICONTROL Nouvelles pistes]** vous présente un rapport de tendance d’un mois à l’autre du nombre total de nouveaux prospects dans votre instance au cours des six derniers mois.
+La carte **[!UICONTROL Nouvelles pistes]** vous présente un rapport de tendance d’un mois à l’autre du nombre total de nouvelles pistes dans votre instance au cours des six derniers mois.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Désabonnements {#unsubscribes}
 
-La variable **[!UICONTROL Désabonne]** vous présente un rapport de tendance d’un mois à l’autre de votre taux de désabonnement au cours des six derniers mois.
+La carte **[!UICONTROL Désabonnements]** vous présente un rapport de tendance d’un mois à l’autre de votre taux de désabonnement au cours des six derniers mois.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
 >[!MORELIKETHIS]
 >
->* [Présentation des moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Présentation des cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Présentation des cartes du programme de messagerie](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Comprendre les moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Comprendre les cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [ Comprendre les cartes du programme de messagerie ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

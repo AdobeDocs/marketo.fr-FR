@@ -6,7 +6,7 @@ exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Utilisez l’analyseur d’influence d’opportunité pour montrer la contributi
 
    ![](assets/two.png)
 
-1. Sélectionnez le compte dans la **Paramètres** du panneau.
+1. Sélectionnez le compte dans le panneau **Paramètres**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
@@ -39,7 +39,7 @@ Utilisez l’analyseur d’influence d’opportunité pour montrer la contributi
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Définissez la période. Cliquez sur le bouton **Configuration** et double-cliquez **Période**.
+1. Définissez la période. Cliquez sur l’onglet **Configuration** et double-cliquez sur **Période**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
@@ -50,7 +50,7 @@ Utilisez l’analyseur d’influence d’opportunité pour montrer la contributi
    >[!TIP]
    >
    >
-   >Dans la plupart des cas, **Toutes les heures** est le choix le plus simple.
+   >Dans la plupart des cas, **All Time** est le choix le plus simple.
 
 1. Vous êtes là ! Cliquez sur l&#39;onglet principal pour voir les moments intéressants et les succès impliqués dans l&#39;opportunité.
 
@@ -62,5 +62,5 @@ Utilisez l’analyseur d’influence d’opportunité pour montrer la contributi
 
 >[!MORELIKETHIS]
 >
->* [Analyseur d’influence d’opportunité pour raconter l’histoire marketing](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Racontez l’article marketing avec un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Configuration d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

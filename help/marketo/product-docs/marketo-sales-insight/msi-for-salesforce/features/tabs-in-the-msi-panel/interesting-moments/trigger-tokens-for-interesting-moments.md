@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 23%
+ht-degree: 33%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 23%
 
 >[!PREREQUISITES]
 >
->Découvrez comment utiliser la méthode [Étape intéressante du flux de moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Découvrez comment utiliser l’ [étape de flux de moment intéressant](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Jetons disponibles {#available-tokens}
 
-Consulter [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour voir tous les jetons, vous pouvez mettre dans un moment intéressant.
+Consultez la [présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour voir tous les jetons que vous pouvez mettre à un moment intéressant.
 
 ## Jetons de déclenchement {#trigger-tokens}
 
 En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jetons de déclenchement sont disponibles.
 
-* `{{trigger.Trigger Name}}` qui est toujours le déclencheur réel lui-même. Par exemple : Clics sur le lien dans le courrier électronique.
+* `{{trigger.Trigger Name}}` qui est toujours le déclencheur lui-même. Par exemple : Clics sur le lien dans le courrier électronique.
 * `{{trigger.Name}}` est le nom de la ressource qui a déclenché la campagne. Par exemple : Clics sur le lien sur la page web est l’URL elle-même, l’objet des déclencheurs Salesforce, etc.
 * D’autres déclencheurs sont disponibles en fonction de contraintes, qui sont répertoriées ci-dessous.
 
@@ -67,7 +67,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Clique sur lien dans e-mail</td> 
+   <td>Clique sur le lien dans l’e-mail</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -243,7 +243,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Clique sur lien dans e-mail de vente</td> 
+   <td>Clics sur le lien dans l'e-mail de vente</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -311,7 +311,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Réception de l'e-mail de vente</td> 
+   <td>L'e-mail de vente est réceptionné</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -345,7 +345,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Modifications détenteur</td> 
+   <td>Modifications du détenteur</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -430,7 +430,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Supprimer de la campagne SFDC</td> 
+   <td>Supprimé de la campagne SFDC</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -572,7 +572,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Clique sur lien dans e-mail de vente</td> 
+   <td>Clics sur le lien dans l'e-mail de vente</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -640,7 +640,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Réception de l'e-mail de vente</td> 
+   <td>L'e-mail de vente est réceptionné</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -674,7 +674,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td>
   </tr> 
   <tr>
-   <td>Modifications détenteur</td> 
+   <td>Modifications du détenteur</td> 
    <td>Est supprimé de la campagne de ventes</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -711,7 +711,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
  </tbody> 
 </table>
 
-### Jetons de déclenchement du Dynamic Chat {#dynamic-chat-trigger-tokens}
+### Jetons de déclenchement de Dynamic Chat {#dynamic-chat-trigger-tokens}
 
 <table>
 <thead>
@@ -740,7 +740,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 </thead>
 <tbody>
   <tr>
-    <td>Engagé avec un dialogue</td>
+    <td>A pris contact via une boîte de dialogue</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -762,7 +762,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td></td>
   </tr>
   <tr>
-    <td>Engagé avec un formulaire de conversation</td>
+    <td>A pris contact via un formulaire de conversation</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -784,7 +784,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>Engagé avec un agent dans un dialogue</td>
+    <td>A pris contact avec un agent dans la boîte de dialogue</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -806,7 +806,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td></td>
   </tr>
   <tr>
-    <td>Engagé avec un agent dans un formulaire de conversation</td>
+    <td>A pris contact avec un agent dans le formulaire de conversation</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -828,7 +828,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td></td>
   </tr>
   <tr>
-    <td>Réunion programmée dans le dialogue</td>
+    <td>A planifié une réunion dans la boîte de dialogue</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -850,7 +850,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td></td>
   </tr>
   <tr>
-    <td>Réunion programmée sous forme de conversation</td>
+    <td>Réunion planifiée dans le formulaire de conversation</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -872,7 +872,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td></td>
   </tr>
   <tr>
-    <td>Objectif de dialogue atteint</td>
+    <td>A atteint l'objectif du dialogue</td>
     <td></td>
     <td></td>
     <td></td>
@@ -916,7 +916,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td></td>
   </tr>
   <tr>
-    <td>Interaction avec le document dans le dialogue</td>
+    <td>A interagi avec un document dans la boîte de dialogue</td>
     <td></td>
     <td></td>
     <td></td>
@@ -938,7 +938,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
     <td></td>
   </tr>
   <tr>
-    <td>Interaction avec un document sous forme de conversation</td>
+    <td>A interagi avec le document dans le formulaire de conversation</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1017,7 +1017,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Visite la page Internet</td> 
+   <td>Visites sur la page Internet</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -1034,7 +1034,7 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Clique le lien sur page Web</td> 
+   <td>Clics sur le lien de la page Web</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -1055,9 +1055,9 @@ En fonction du déclencheur utilisé dans une campagne dynamique, d’autres jet
 
 >[!NOTE]
 >
->S’il n’y a pas de vérification ![(coche)](assets/check.png) alors il retournerait une chaîne vide (rien) au moment intéressant.
+>S&#39;il n&#39;a pas de vérification ![(tick)](assets/check.png), il renvoie une chaîne vide (rien) au moment intéressant.
 
-&#42;Déclencheur **Page Web Visites** comporte quelques jetons supplémentaires :
+&#42;La **page web des visites** du déclencheur comporte quelques jetons supplémentaires :
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

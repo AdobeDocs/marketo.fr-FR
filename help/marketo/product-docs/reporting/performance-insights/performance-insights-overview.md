@@ -6,7 +6,7 @@ exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ Pour accéder à Performance Insights, cliquez sur son icône dans l’écran d�
 
 ## Contribution {#contribution}
 
-Évaluation des [contribution aux recettes](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) en fonction de l’acquisition, de l’influence, de la conversion, voire de la croissance de base installée.
+Évaluez la [contribution du marketing au chiffre d’affaires](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) en fonction de l’acquisition, de l’influence, de la conversion des clients, voire de la croissance de base installée.
 
 ![](assets/two.png)
 
@@ -37,19 +37,19 @@ Par défaut, les données affichées reflètent les performances par engagement.
 
 ## Tendance {#trend}
 
-Discover [tendances à long terme](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) pour repérer des stratégies gagnantes cohérentes.
+Découvrez les [tendances à long terme](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) pour repérer des stratégies gagnantes cohérentes.
 
 ![](assets/4.png)
 
 ## Paramètres {#settings}
 
-Dans les tableaux de bord Recettes et Pipeline, cliquez sur le [Paramètres](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) pour définir des paramètres supplémentaires.
+Dans les tableaux de bord Recettes et Pipeline, cliquez sur l’icône [Paramètres](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) pour définir des paramètres supplémentaires.
 
 ![](assets/5.png)
 
 ## Exporter des données {#export-data}
 
-Vous pouvez exporter les données et les graphiques dans PowerPoint ou Excel. Vous pouvez également les enregistrer en tant que [Graphique rapide](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Vous pouvez exporter les données et les graphiques dans PowerPoint ou Excel. Vous pouvez également les enregistrer sous la forme d’un [graphique rapide](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 

@@ -6,8 +6,8 @@ exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 9%
+source-wordcount: '768'
+ht-degree: 8%
 
 ---
 
@@ -29,21 +29,21 @@ Tous ces champs personnalisés sont facultatifs et ne sont pas nécessaires pour
 
 Ajoutez trois champs personnalisés aux objets de piste et de contact dans Salesforce répertoriés ci-dessus. Si vous souhaitez en ajouter d’autres, reportez-vous au tableau des champs disponibles à la fin de cette section.
 
-Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Commencer par **[!UICONTROL Score]**.
+Effectuez les étapes suivantes pour chacun des trois champs personnalisés à ajouter. Commencez par **[!UICONTROL Score]**.
 
 1. Connectez-vous à Salesforce et cliquez sur **[!UICONTROL Configuration]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Dans le menu Créer à gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez **[!UICONTROL Pistes]**. Cliquez sur **[!UICONTROL Champs]**.
+1. Dans le menu Créer à gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez **[!UICONTROL Pistes]**. Cliquez sur **[!UICONTROL Fields]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Cliquez sur **[!UICONTROL Nouveau]** dans la section Champs et relations personnalisés au bas de la page.
+1. Cliquez sur **[!UICONTROL New]** dans la section Champs personnalisés et relations au bas de la page.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Choisissez le type de champ approprié (pour Score - **[!UICONTROL nombre]**; Programme d’acquisition - **[!UICONTROL text]**; Date d’acquisition - **Date/heure**).
+1. Choisissez le type de champ approprié (pour Score - **[!UICONTROL nombre]** ; Programme d’acquisition - **[!UICONTROL texte]** ; Date d’acquisition - **Date/Heure**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -82,9 +82,9 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 10<br>Nombre de décimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Date d’acquisition</td> 
+   <td>Date d'acquisition</td> 
    <td>mkto71_Acquisition_Date</td> 
-   <td>Date/Heure</td> 
+   <td>Date/heure</td> 
    <td> </td> 
   </tr> 
   <tr> 
@@ -110,15 +110,15 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Spécifiez les paramètres d’accès et cliquez sur **[!UICONTROL Suivant]**:
+1. Spécifiez les paramètres d’accès et cliquez sur **[!UICONTROL Suivant]** :
 
    * Définissez tous les rôles sur **[!UICONTROL Visible]** et **[!UICONTROL Lecture seule]**
 
-   * Effacez la variable **[!UICONTROL Lecture seule]** correspondant au profil de votre utilisateur de synchronisation :
+   * Décochez la case **[!UICONTROL Lecture seule]** pour le profil de votre utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, effacez le **[!UICONTROL Lecture seule]** case à cocher du profil Administrateur système (comme illustré ci-dessous)
+      * Si vous avez un utilisateur avec le profil d’un _administrateur système_ comme utilisateur de synchronisation, décochez la case **[!UICONTROL Lecture seule]** pour le profil administrateur système (comme illustré ci-dessous).
 
-      * Si vous avez créé une _profil personnalisé_ pour l’utilisateur de synchronisation, effacez la variable **[!UICONTROL Lecture seule]** case à cocher pour ce profil personnalisé
+      * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, décochez la case **[!UICONTROL Lecture seule]** pour ce profil personnalisé.
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -126,11 +126,11 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer et nouveau]** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **[!UICONTROL Enregistrer]** avec vous avez fini avec les trois.
+1. Cliquez sur **[!UICONTROL Enregistrer et nouveau]** pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur **[!UICONTROL Enregistrer]** avec les trois.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Dans le menu Créer à gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez **[!UICONTROL Contacts]**. Cliquez sur **[!UICONTROL Champs]**.
+1. Dans le menu Créer à gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez **[!UICONTROL Contacts]**. Cliquez sur **[!UICONTROL Fields]**.
 1. Exécutez les étapes 3 à 10 pour les champs Score, Date d’acquisition et Programme d’acquisition sur l’objet de contact, comme vous l’avez fait pour l’objet de piste.
 1. Vous pouvez éventuellement appliquer la procédure ci-dessus pour tout champ personnalisé supplémentaire provenant de ce tableau.
 
@@ -149,49 +149,49 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés à a
    <td>Longueur 18<br>Nombre de décimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Référent d’origine</td> 
+   <td>Référent d'origine</td> 
    <td>mkto71_Original_Referrer</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Moteur de recherche d’origine</td> 
+   <td>Moteur de recherche d'origine</td> 
    <td>mkto71_Original_Search_Engine</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Phrase de recherche d’origine</td> 
+   <td>Phrase de recherche d'origine</td> 
    <td>mkto71_Original_Search_Expression</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Info source d’origine</td> 
+   <td>Informations sur la source d'origine</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Type source d’origine</td> 
+   <td>Type de source d'origine</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Ville supposée</td> 
+   <td>Ville déduite</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Société supposée</td> 
+   <td>Société déduite</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
   </tr> 
   <tr> 
-   <td>Pays supposé</td> 
+   <td>Pays déduit</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Texte</td> 
    <td>Longueur 255</td> 
@@ -235,11 +235,11 @@ Un champ personnalisé sur l’objet prospect dans Salesforce doit être mappé 
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Type &quot;[!UICONTROL fields]&quot; dans la recherche de navigation sans appuyer sur la touche Entrée. Les champs s’affichent sous différents objets. Cliquez sur **[!UICONTROL Champs]** sous Pistes.
+1. Saisissez &quot;[!UICONTROL fields]&quot; dans la recherche de navigation sans appuyer sur la touche Entrée. Les champs s’affichent sous différents objets. Cliquez sur **[!UICONTROL Champs]** sous Pistes.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Accédez à la section Champs et relations personnalisés du prospect et cliquez sur **[!UICONTROL Faire correspondre les champs de piste]**.
+1. Accédez à la section Champs personnalisés des pistes et relations et cliquez sur **[!UICONTROL Mapper les champs de piste]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -253,7 +253,7 @@ Un champ personnalisé sur l’objet prospect dans Salesforce doit être mappé 
 
 1. Répétez les étapes ci-dessus pour tous les autres champs que vous avez créés.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez fini.
+1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
 Assez facile, n&#39;est-ce pas ?
 

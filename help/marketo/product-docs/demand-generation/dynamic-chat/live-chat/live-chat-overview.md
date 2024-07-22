@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Le chat en direct permet aux visiteurs du site Web de discuter en temps réel av
 
 ## Ajout d’agents de messagerie instantanée {#add-live-chat-agents}
 
-Pour commencer à parler en direct, vous devez ajouter vos agents de chat en direct en tant que [utilisateurs dans Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Une fois cette opération terminée, vous pouvez ajouter une [carte de conversation en direct](#using-the-live-chat-card) à un dialogue nouveau ou existant.
+Pour commencer à discuter en direct, vous devez ajouter vos agents de conversation en direct en tant qu’ [utilisateurs dans Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} et leur accorder l’[autorisation de conversation en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Une fois cette opération terminée, vous pouvez ajouter une [carte de conversation en direct](#using-the-live-chat-card) à un dialogue nouveau ou existant.
 
-Lorsque les visiteurs demandent à dialoguer avec un agent via votre dialogue, les agents ont plusieurs [options de notification](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} où ils peuvent commencer à discuter avec le visiteur.
+Lorsque les visiteurs demandent à dialoguer avec un agent via votre dialogue, les agents ont plusieurs [options de notification](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. Lorsqu’ils cliquent sur la notification, ils sont redirigés vers leur [boîte de réception de l’agent](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} où ils peuvent commencer à discuter avec le visiteur.
 
 >[!NOTE]
 >
->L’avatar de l’agent en direct utilise l’image de profil du profil d’Adobe de l’agent. Pour mettre à jour l’image, suivez [ces étapes](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>L’avatar de l’agent en direct utilise l’image de profil du profil d’Adobe de l’agent. Pour mettre à jour l&#39;image, suivez [ces étapes](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Utilisation de la carte de conversation en direct {#using-the-live-chat-card}
 
-Utilisez la carte de conversation en direct dans le [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
+Utilisez la carte de conversation en direct dans le [ flux Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} lorsque vous souhaitez que les visiteurs discutent avec un agent en direct.
 
 ![](assets/live-chat-overview-1.png)
 
@@ -61,7 +61,7 @@ Cliquer sur la carte de conversation en direct dans le flux vous permet de chois
   </tr>
     <tr> 
    <td><b>Règles personnalisées</b></td>
-   <td>Toutes les règles personnalisées sont analysées lors de la prise en compte de l’emplacement du visiteur. Si le visiteur n’est éligible à aucune règle personnalisée, il obtient la variable <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">message de secours de la conversation en direct</a>.</td>
+   <td>Toutes les règles personnalisées sont analysées lors de la prise en compte de l’emplacement du visiteur. Si le visiteur n’est éligible à aucune règle personnalisée, il reçoit le <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">message de secours de conversation en direct</a>.</td>
   </tr> 
   <tr> 
    <td><b>Équipe</b></td>
@@ -88,7 +88,7 @@ Les agents de conversation en direct seront alors invités par le navigateur à 
 
 Si les agents n’obtiennent pas de notifications du navigateur même après l’avoir autorisé dans le navigateur, ils peuvent avoir besoin d’activer les notifications du navigateur dans les paramètres de notification du système d’exploitation :
 
-[Étapes de Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[Étapes pour Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
 [Étapes pour Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
@@ -107,7 +107,7 @@ Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleu
 
 ### Informations à noter {#things-to-note}
 
-* Les agents disposent de 45 secondes pour répondre avant que le message &quot;Chat Accept&quot; n’expire. Ensuite, les visiteurs recevront la variable [message de secours](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Pour les abonnés Dynamic Chat Prime dont l’option de routage est définie sur **Équipe**, un autre agent sera tenté avant l’affichage du message de secours.
+* Les agents disposent de 45 secondes pour répondre avant que le message &quot;Chat Accept&quot; n’expire. Ensuite, les visiteurs recevront le [message de secours](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Pour les abonnés Dynamic Chat Prime dont l’option de routage est définie sur **Team**, un autre agent sera tenté avant l’affichage du message de secours.
 * Il existe actuellement une limite de 10 conversations en direct par agent.
 
 >[!MORELIKETHIS]

@@ -35,7 +35,7 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 
    ![](assets/two.png)
 
-1. Dans **[!UICONTROL Outils]**, cliquez sur **[!UICONTROL Opérations]** et sélectionnez **[!UICONTROL Console web]**.
+1. Dans **[!UICONTROL Tools]**, cliquez sur **[!UICONTROL Operations]** et sélectionnez **[!UICONTROL Web Console]**.
 
    ![](assets/2a.png)
 
@@ -43,11 +43,11 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 
    ![](assets/three.png)
 
-1. Cliquez sur le bouton **+** inscrivez-vous à droite.
+1. Cliquez sur le signe **+** à droite.
 
    ![](assets/four.png)
 
-1. Dans le **[!UICONTROL Origines autorisées (Regexp)]** zone de texte, saisissez `https://.*\.marketo\.com` et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Dans la zone de texte **[!UICONTROL Origines autorisées (Regexp)]**, saisissez `https://.*\.marketo\.com` et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/five-psd.png)
 
@@ -55,7 +55,7 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 
    ![](assets/six.png)
 
-1. Sous Informations sur le serveur, cliquez sur le **[!UICONTROL Redémarrer]** bouton .
+1. Sous Informations sur le serveur, cliquez sur le bouton **[!UICONTROL Redémarrer]** .
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 
    ![](assets/eight.png)
 
-1. Dans Marketo Engage, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/nine.png)
 

@@ -15,14 +15,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Définition d’une audience en important une liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Créer un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Définir une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Définir une audience en important une liste](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >[!CAUTION]
 >
->Pour des rapports précis, évitez les _réutiliser_ un email provenant d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, veuillez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} car copie le courrier électronique, mais en crée un avec un nouvel ID de courrier électronique.
+>Pour une création de rapports exacte, évitez de _réutiliser_ un email d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, [clonez-le](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} à la place, car cela copie l&#39;email mais en crée un avec un nouvel ID d&#39;email.
 
-Une fois que vous [création d’un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) et défini votre audience, vous devez choisir l&#39;email que vous envoyez. Vous pouvez [création d’un email pour un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à partir de zéro ou sélectionnez un qui existe déjà. Voici comment en choisir un qui existe déjà.
+Une fois que vous avez [créé un programme d&#39;email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) et défini votre audience, vous voulez décider de l&#39;email que vous envoyez. Vous pouvez [créer entièrement un email pour un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) ou en choisir un qui existe déjà. Voici comment en choisir un qui existe déjà.
 
 1. Accédez à **Activités marketing**.
 
@@ -32,13 +32,13 @@ Une fois que vous [création d’un programme de messagerie](/help/marketo/produ
 
    ![](assets/selectemailprogram.jpg)
 
-1. Sous , **Email** , sélectionnez celle que vous souhaitez envoyer.
+1. Sous la mosaïque **Email**, sélectionnez celui que vous souhaitez envoyer.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
    >
-   >Seuls les emails locaux peuvent être sélectionnés. Vous devez déplacer un email d&#39;un programme à un autre ? [Découvrez comment](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
+   >Seuls les emails locaux peuvent être sélectionnés. Vous devez déplacer un email d&#39;un programme à un autre ? [Découvrez ici](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
 
    Doux !
 

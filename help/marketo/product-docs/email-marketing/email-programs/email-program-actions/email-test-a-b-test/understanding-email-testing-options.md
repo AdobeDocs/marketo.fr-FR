@@ -15,12 +15,12 @@ ht-degree: 3%
 
 Testez vos emails pour améliorer leur score d’engagement. Il existe deux types de test d’email dans Marketo.
 
-## Tests A/B {#a-b-testing}
+## Les tests A/B {#a-b-testing}
 
-Il s’agit des emails ponctuels utilisant des programmes de messagerie. Ajouter [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) et un petit groupe obtiendra le test et le reste obtiendra le gagnant.
+Il s’agit des emails ponctuels utilisant des programmes de messagerie. Ajoutez [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) et un petit groupe obtiendra le test et le reste obtiendra le gagnant.
 
 ## Champion de l&#39;email/Challenger {#email-champion-challenger}
 
-Pour les emails en cours utilisés pour déclencher des campagnes intelligentes ou des programmes d’engagement, vous pouvez ajouter [champion/challenger email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) test. Cela va introduire des variations à un pourcentage constant de destinataires.
+Pour les emails en cours utilisés pour déclencher des campagnes intelligentes ou des programmes d’engagement, vous pouvez ajouter le test [champion/challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Cela va introduire des variations à un pourcentage constant de destinataires.
 
 Bon test !

@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Comment fonctionne le suivi de l’emplacement ? {#how-does-location-tracking-work}
+# Comment fonctionne le suivi des emplacements ? {#how-does-location-tracking-work}
 
 Si l&#39;emplacement de vos destinataires n&#39;est pas correct, voici trois possibilités :
 

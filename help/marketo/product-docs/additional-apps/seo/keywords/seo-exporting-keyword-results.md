@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vous pouvez exporter les résultats de vos mots-clés pour les partager avec votre équipe ou créer un rapport.
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. Cliquez sur **[!UICONTROL Exporter]**.
+1. Cliquez sur **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 

@@ -7,13 +7,13 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Modification d’un canal d’événement {#edit-an-event-channel}
 
-Vous pouvez modifier le type de canal à partir du **Résumé** ou à partir de **Configuration** .
+Vous pouvez modifier le type de canal à partir de l’onglet **Résumé** de l’événement ou de son onglet **Configuration**.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Vous pouvez modifier le type de canal à partir du **Résumé** ou à partir de 
 
 >[!NOTE]
 >
->Un programme est une initiative marketing spécifique. Le **channel** est conçu pour être le mécanisme de diffusion, comme le webinaire, le commerce ou la publicité en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également  [créer votre propre canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>Un programme est une initiative marketing spécifique. **channel** est conçu pour être le mécanisme de diffusion, comme le webinaire, le commerce ou la publicité en ligne. Vous pouvez voir différentes options de canal dans votre liste déroulante, selon ce qui est disponible dans votre propre instance. Vous pouvez également [créer votre propre canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## Depuis l’onglet Résumé {#from-the-summary-tab}
 
-1. De **Activités marketing**, sélectionnez votre événement dans l’arborescence.
+1. Dans **Activités marketing**, sélectionnez votre événement dans l’arborescence.
 
    ![](assets/eventprogramseelct.png)
 
-1. Accédez au **Résumé** vue.
+1. Accédez à la vue **Summary**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Sous , **Paramètres** , sélectionnez la catégorie actuelle **Canal** affiché sous la forme d’un lien hypertexte.
+1. Sous la catégorie **Paramètres**, sélectionnez le **Canal** actuel affiché en tant que lien hypertexte.
 
    ![](assets/channeltypeevent.png)
 
@@ -47,17 +47,17 @@ Vous pouvez modifier le type de canal à partir du **Résumé** ou à partir de 
 
 ## Dans l’onglet Configuration {#from-the-setup-tab}
 
-Un nouveau type de canal peut également être attribué à partir du **Configuration** .
+Un nouveau type de canal peut également être attribué à partir de l’onglet **Configuration** de l’événement.
 
 1. Sélectionnez votre événement dans l’arborescence.
 
    ![](assets/eventprogramseelct.png)
 
-1. Accédez au **Configuration** . Double-cliquez sur le **Canal**.
+1. Accédez à l’onglet **Setup** (Configuration). Double-cliquez sur le **Canal** actif.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Sélectionnez une nouvelle **Canal**.
+1. Sélectionnez un nouveau **Canal**.
 
    ![](assets/tradeshowchange.png)
 

@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Que se passe-t-il si vous souhaitez envoyer un email à un prospect au nom du propriétaire du prospect ?  Voici comment.
 
-1. Recherchez votre email, sélectionnez-le, puis cliquez sur **Modifier le brouillon**.
+1. Recherchez votre email, sélectionnez-le et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one.png)
 
-1. Cliquez sur dans le **De** (supprimez tout nom existant), puis cliquez sur le bouton **Insérer un jeton** bouton .
+1. Cliquez dans le champ **De** (supprimez tout nom existant), puis cliquez sur le bouton **Insérer un jeton** .
 
    ![](assets/two.png)
 
-1. Commencez à taper &quot;`{{lead.Lead Owner`&quot; et sélectionnez la variable **`{{lead.Lead Owner First Name}}`** jeton.
+1. Commencez à saisir &quot;`{{lead.Lead Owner`&quot; et sélectionnez le jeton **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Saisissez une valeur par défaut si le prospect ne dispose pas encore d’un propriétaire de piste et cliquez sur **Insérer**.
+1. Saisissez une valeur par défaut si le prospect n&#39;a pas encore de propriétaire de prospect et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Cliquez sur après le premier jeton, ajoutez un espace, puis cliquez sur le bouton **Insérer un jeton** bouton .
+1. Cliquez sur après le premier jeton, ajoutez un espace, puis cliquez sur le bouton **Insérer un jeton**.
 
    ![](assets/five.png)
 
-1. Commencez à taper &quot;`{{lead.Lead Owner`&quot; et sélectionnez la variable **`{{lead.Lead Owner Last Name}}`** jeton.
+1. Commencez à saisir &quot;`{{lead.Lead Owner`&quot; et sélectionnez le jeton **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Saisissez une valeur par défaut si le prospect ne dispose pas encore d’un propriétaire de piste et cliquez sur **Insérer**.
+1. Saisissez une valeur par défaut si le prospect n&#39;a pas encore de propriétaire de prospect et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -51,14 +51,14 @@ Que se passe-t-il si vous souhaitez envoyer un email à un prospect au nom du pr
 
    ![](assets/eight.png)
 
-1. Commencez à taper &quot;`{{lead.Lead Owner`&quot; et sélectionnez la variable **`{{lead.Lead Owner Email Address}}`** jeton.
+1. Commencez à saisir &quot;`{{lead.Lead Owner`&quot; et sélectionnez le jeton **`{{lead.Lead Owner Email Address}}`**.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Saisissez une valeur par défaut si le prospect ne dispose pas encore d’un propriétaire de piste et cliquez sur **Insérer**.
+1. Saisissez une valeur par défaut si le prospect n&#39;a pas encore de propriétaire de prospect et cliquez sur **Insérer**.
 
    ![](assets/ten.png)
 
-1. Assurez-vous que la variable **Réponse** et **Objet** sont renseignés, et vous avez terminé !
+1. Assurez-vous que les champs **Réponse** et **Objet** sont renseignés et que vous avez terminé !
 
    ![](assets/eleven.png)

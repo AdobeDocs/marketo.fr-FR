@@ -19,8 +19,8 @@ L’une des fonctionnalités les plus intéressantes de Marketo est la possibili
 >
 >Exemples de campagnes dynamiques à demander :
 >
->1. **Soutien à long terme** - quand ils n&#39;ont pas de budget cette année et que vous voulez simplement rester sur le radar
->1. **Cycle de vente actif** - lorsque le vendeur ne veut pas de messages à la personne sauf le sien. (utilisez l’indicateur marketing suspendu pour le désabonner temporairement)
+>1. **Préparation à long terme** : lorsqu’ils n’ont pas de budget cette année et que vous voulez simplement rester sur le radar
+>1. **Cycle de vente actif** : lorsque le vendeur ne souhaite envoyer aucun message à la personne sauf le sien. (utilisez l’indicateur marketing suspendu pour le désabonner temporairement)
 >
 >Soyez créatifs ! Qu&#39;est-ce que le vendeur aimerait automatiser ? Demandez-leur et branchez-le !
 
@@ -28,17 +28,17 @@ L’une des fonctionnalités les plus intéressantes de Marketo est la possibili
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Recherchez et faites glisser le **[!UICONTROL La campagne est demandée]** se déclenche dans la zone de travail.
+1. Recherchez et faites glisser le déclencheur **[!UICONTROL Campaign is Requested]** sur la zone de travail.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Les choix de la source indiquent le type de demande qui sera satisfaite. Pour la fonctionnalité Salesforce, veillez à choisir **[!UICONTROL Statistiques des ventes]**.
+1. Les choix de la source indiquent le type de demande qui sera satisfaite. Pour la fonctionnalité Salesforce, veillez à choisir **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >Les opérateurs sources sont pour la sécurité. Vous pouvez limiter la campagne aux requêtes effectuées uniquement par des sources spécifiques, comme d’autres campagnes dynamiques ou des développeurs. Choisir **[!UICONTROL Is]** dans la première zone si vous souhaitez autoriser les requêtes provenant de toutes les sources.
+   >Les opérateurs sources sont pour la sécurité. Vous pouvez limiter la campagne aux requêtes effectuées uniquement par des sources spécifiques, comme d’autres campagnes dynamiques ou des développeurs. Sélectionnez **[!UICONTROL Is Any]** dans la première zone si vous souhaitez autoriser les requêtes provenant de toutes les sources.
    >
-   >_Mémoriser_, en choisissant Sales Insight, il apparaît comme par magie dans la boîte pour les ventes. Ne le fais pas trop ! Trop d&#39;entre eux seront ignorés.
+   >_Mémoriser_ : en choisissant Sales Insight, il apparaît comme par magie dans la boîte pour les ventes. Ne le fais pas trop ! Trop d&#39;entre eux seront ignorés.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

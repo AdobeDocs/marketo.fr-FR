@@ -19,7 +19,7 @@ Nous souhaitons que le courrier électronique de Sales Connect soit une expérie
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Sous Mon compte, sélectionnez **Paramètres de messagerie électronique**.
+1. Sous Mon compte, sélectionnez **Paramètres de courrier électronique**.
 
    ![](assets/add-your-email-signature-2.png)
 
@@ -31,7 +31,7 @@ Nous souhaitons que le courrier électronique de Sales Connect soit une expérie
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Saisissez le texte (ou les images) de votre choix, puis cliquez sur **Enregistrer**.
+1. Saisissez le texte (ou les images) de votre choix et cliquez sur **Enregistrer**.
 
    ![](assets/add-your-email-signature-5.png)
 

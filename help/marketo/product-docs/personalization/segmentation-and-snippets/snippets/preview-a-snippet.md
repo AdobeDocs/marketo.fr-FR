@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Ajout de contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Ajouter du contenu à un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
-Les fragments de code sont des blocs de contenu dynamique qui changent selon les règles de segmentation.
+Les fragments de code sont des blocs de contenu dynamique qui changent en fonction des règles de segmentation.
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -31,4 +31,4 @@ L’aperçu est idéal pour vous assurer que votre contenu s’affiche correctem
 
 >[!MORELIKETHIS]
 >
->[Approbation d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
+>[Approuver un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

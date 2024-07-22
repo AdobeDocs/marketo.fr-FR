@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Un administrateur peut choisir d’avoir besoin d’une connexion pour afficher un rapport.
 
-1. Cliquez sur **Administration**, puis **Paramètres de connexion**.
+1. Cliquez sur **Admin**, puis sur **Paramètres de connexion**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Cliquez sur **Modifier** pour les paramètres de rapport Liste dynamique.
+1. Cliquez sur **Modifier** pour Paramètres de rapport de liste dynamique.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Sélectionner **Oui** pour exiger une connexion afin de télécharger des rapports.
+1. Sélectionnez **Oui** pour demander une connexion afin de télécharger les rapports.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

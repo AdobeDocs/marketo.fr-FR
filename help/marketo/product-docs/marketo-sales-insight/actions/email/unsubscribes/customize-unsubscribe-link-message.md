@@ -22,7 +22,7 @@ Nous avons toujours autorisé les équipes à personnaliser leurs messages de li
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Désabonne**.
+1. Sous Paramètres d’administration, cliquez sur **Se désabonner**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Nous avons toujours autorisé les équipes à personnaliser leurs messages de li
    >
    >Quelle que soit l’URL que vous saisissez. Lorsque l&#39;email est envoyé, le premier lien hypertexte (ou uniquement) est automatiquement associé à la page de désabonnement par défaut.
 
-1. Saisissez une URL, déterminez si vous souhaitez que le lien s’ouvre dans la fenêtre active ou nouvelle, puis cliquez sur **Enregistrer**.
+1. Saisissez une URL, déterminez si vous souhaitez que le lien s’ouvre dans la fenêtre active ou dans une nouvelle fenêtre, puis cliquez sur **Enregistrer**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Cliquez sur **Enregistrer** dans la partie inférieure pour enregistrer vos modifications.
+1. Cliquez sur **Enregistrer** en bas pour enregistrer vos modifications.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

@@ -4,7 +4,7 @@ title: Modèles d’e-mail de vente transactionnelle
 feature: Marketo Sales Connect
 source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ Si votre équipe envoie des emails transactionnels ou non commerciaux, vous pouv
 
 ## Informations à noter {#things-to-note}
 
-* Les emails non commerciaux contourneront les désabonnements aux ventes et [Vérification du désabonnement du Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
+* Les emails non commerciaux contourneront les désabonnements aux ventes et la [vérification de désabonnement du Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, mais ne contourneront pas les [domaines bloqués](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
-* Les messages de désabonnement ne sont pas automatiquement ajoutés aux emails non commerciaux, même si la variable [ajout du paramètre d’administration des messages de désabonnement](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} renseignera toujours le message de désabonnement de votre équipe.
+* Les messages de désabonnement ne seront pas automatiquement ajoutés aux emails non commerciaux, même si le paramètre d’administration [ d’ajout de message de désabonnement](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} est activé. Cependant, le `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} continuera à remplir le message de désabonnement de votre équipe.
 
 ## Configuration d’un modèle de courrier électronique à des fins non commerciales {#configure-an-email-template-for-non-commercial-use}
 
@@ -47,7 +47,7 @@ Si votre équipe envoie des emails transactionnels ou non commerciaux, vous pouv
 
    ![](assets/transactional-sales-email-templates-5.png)
 
-1. Cliquez sur **Envoyer**.
+1. Cliquez sur **Send**.
 
    ![](assets/transactional-sales-email-templates-6.png)
 

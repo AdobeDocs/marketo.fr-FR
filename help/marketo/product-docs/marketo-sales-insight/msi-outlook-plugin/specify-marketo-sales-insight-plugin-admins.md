@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Vous pouvez spécifier les contacts que vous souhaitez voir apparaître dans l’e-mail que vous envoyez aux utilisateurs lorsque vous les invitez à configurer MSI sur Outlook.
 
-1. Dans Mon Marketo, cliquez sur **Administration** puis **Statistiques des ventes**.
+1. Dans My Marketo, cliquez sur **Admin**, puis sur **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Cliquez sur le bouton **Module complémentaire Email** .
+1. Cliquez sur l’onglet **Complément d’email** .
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Cliquez sur **Spécification d’un contact de module externe**.
+1. Cliquez sur **Spécifier le contact du module externe**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -39,4 +39,4 @@ Vous pouvez spécifier les contacts que vous souhaitez voir apparaître dans l�
 
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
-   Mot clé!
+   Parfait !

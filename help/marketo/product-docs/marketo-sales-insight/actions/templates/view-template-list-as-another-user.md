@@ -24,7 +24,7 @@ En tant qu’administrateur, vous pouvez afficher les modèles comme n’importe
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. Cliquez sur le bouton **Afficher sous** et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur la liste déroulante **Afficher comme** et sélectionnez un utilisateur.
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -34,4 +34,4 @@ En tant qu’administrateur, vous pouvez afficher les modèles comme n’importe
 
    >[!NOTE]
    >
-   >Vous pouvez également utiliser des filtres ou la fonction de recherche avec _Afficher sous_ pour voir ce qui vous intéresse le plus.
+   >Vous pouvez également utiliser des filtres ou la fonction de recherche avec _Afficher sous_ pour afficher ce qui vous intéresse le plus.

@@ -26,30 +26,30 @@ Le contenu prédictif intéresse vos visiteurs web avec le contenu le plus perti
 >* **Préparation de votre contenu prédictif**
 >
 >   * [Modifier le contenu prédictif pour les emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} ou
->   * [Modification du contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} ou
+>   * [Modifier le contenu prédictif pour le contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} ou
 >   * [Modifier le contenu prédictif pour la barre de recommandations](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Approuver un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 Une fois que vous avez préparé le titre, la description et l’image du contenu pour les médias riches, vous pouvez activer des éléments de contenu individuels ou multiples.
 
-1. Pour activer un titre individuel, cliquez sur un titre pour ouvrir l’éditeur. Cliquez sur Média enrichi, puis cochez la case **Activé pour le contenu prédictif dans les médias riches** puis cliquez sur **Enregistrer**.
+1. Pour activer un titre individuel, cliquez sur un titre pour ouvrir l’éditeur. Cliquez sur Média enrichi, puis cochez la case **Activé pour le contenu prédictif dans Média enrichi** et cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Pour plusieurs éléments de contenu, sur la page **Contenu prédictif** , cochez les cases en regard du ou des titres.
+1. Pour plusieurs éléments de contenu, dans la page **Contenu prédictif**, cochez les cases en regard du ou des titres.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Cliquez sur le bouton **Actions de contenu** et sélectionnez **Activation pour Web Rich Media**.
+1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Activer pour Web Rich Media**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Personnalisation du code JavaScript et incorporation de celui-ci dans votre site web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Média enrichi . [sur le site Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle de votre site web.
+Reportez-vous à la documentation du modèle de recommandation pour les médias riches [ sur le site des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle de votre site web.
 
-Collez le code JavaScript dans votre site web à l’emplacement où vous souhaitez que le modèle s’affiche.
+Collez le code JavaScript sur votre site web à l’emplacement où vous souhaitez que le modèle s’affiche.
 
 **Exemples de modèles**
 

@@ -6,8 +6,8 @@ exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 1%
+source-wordcount: '264'
+ht-degree: 0%
 
 ---
 
@@ -34,11 +34,11 @@ Vérifiez d’abord que les valeurs correctes de liste de sélection sont en pla
 1. Cliquez sur Personnaliser.
 1. Cliquez sur Activités.
 1. Cliquez sur Champs de la tâche.
-1. Cliquez sur un type.
-1. Vous vous trouvez maintenant sur la liste de sélection du type de tâche. Assurez-vous qu’aucun &quot;Par défaut&quot; n’est sélectionné.
+1. Cliquez sur Type.
+1. Vous vous trouvez maintenant sur la liste de sélection du type de tâche. Assurez-vous qu’aucun paramètre &quot;Par défaut&quot; n’est sélectionné.
 1. Assurez-vous qu’une valeur Type est répertoriée pour Email, Call et Reply.
 
-Maintenant que ce champ est en place, vous allez commencer à voir le champ Type renseigner la valeur correspondante pour les emails, les appels et les réponses consignés. Ces valeurs seront _not_ être renseignée lors des tâches de rappel de Sales Connect.
+Maintenant que ce paramètre est en place, le champ Type commence à renseigner la valeur correspondante pour les emails, les appels et les réponses consignés. Ces valeurs seront _not_ renseignées dans les tâches de rappel de Sales Connect.
 
 >[!NOTE]
 >

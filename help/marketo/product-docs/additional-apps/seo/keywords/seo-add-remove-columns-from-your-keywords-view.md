@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Vous pouvez ajuster l’affichage des mots-clés pour afficher les données qui vous intéressent le plus.
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -31,10 +31,10 @@ Vous pouvez ajuster l’affichage des mots-clés pour afficher les données qui 
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Super ! Vous avez maintenant personnalisé la vue des mots-clés.
+   Super ! Vous avez maintenant personnalisé la vue des mots-clés.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[Présentation des mots-clés - Vue récapitulative](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[ Compréhension des mots-clés - Vue récapitulative](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

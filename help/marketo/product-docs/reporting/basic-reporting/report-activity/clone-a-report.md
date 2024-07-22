@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360028
-description: Clonage d’un rapport - Documents Marketo - Documentation du produit
+description: Cloner un rapport - Documents Marketo - Documentation du produit
 title: Clonage d’un rapport
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Créez un double de votre rapport pour le personnaliser davantage sans modifier l’original.
 
-1. Accédez à **Activités marketing** (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Sélectionnez votre rapport. Sélectionner **Actions de rapport** > **Clonage d’un rapport**.
+1. Sélectionnez votre rapport. Sélectionnez **Actions de rapport** > **Cloner un rapport**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,4 +35,4 @@ Créez un double de votre rapport pour le personnaliser davantage sans modifier 
 
    >[!MORELIKETHIS]
    >
-   >[Filtrage des personnes dans un rapport avec une liste dynamique](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+   >[Filtrer les personnes dans un rapport avec une liste dynamique](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)

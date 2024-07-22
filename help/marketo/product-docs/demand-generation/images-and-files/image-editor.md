@@ -1,10 +1,11 @@
 ---
 description: Éditeur d’image - Documents Marketo - Documentation du produit
 title: Éditeur d’image
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+exl-id: fef96635-3011-4549-9c40-e92c3f33c398
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 L’éditeur d’images vous permet d’apporter des modifications rapides et légères à vos images en Marketo Engage.
 
-1. Accédez au **[!UICONTROL Design Studio]**.
+1. Accédez à **[!UICONTROL Design Studio]**.
 
    ![](assets/image-editor-1.png)
 
@@ -20,10 +21,10 @@ L’éditeur d’images vous permet d’apporter des modifications rapides et l�
 
    ![](assets/image-editor-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Modifier l’image]** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Modifier l&#39;image]** .
 
    ![](assets/image-editor-3.png)
 
-1. Effectuez un choix parmi diverses fonctions de la barre d’outils supérieure. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Effectuez un choix parmi diverses fonctions de la barre d’outils supérieure. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/image-editor-4.png)

@@ -13,11 +13,11 @@ ht-degree: 14%
 
 # Supprimer l’application mobile {#delete-mobile-app}
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionner **Applications mobiles**.
+1. Sélectionnez **Applications mobiles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,11 +25,11 @@ ht-degree: 14%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Cliquez sur **Actions de l’application mobile** et sélectionnez **Suppression d’une application**.
+1. Cliquez sur **Mobile App Actions** et sélectionnez **Supprimer l’application**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Confirmer en cliquant sur **Supprimer**.
+1. Confirmez en cliquant sur **Supprimer**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 

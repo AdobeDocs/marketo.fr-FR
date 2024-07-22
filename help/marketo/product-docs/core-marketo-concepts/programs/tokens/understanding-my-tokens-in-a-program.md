@@ -15,11 +15,11 @@ ht-degree: 3%
 
 Un jeton est une variable que vous pouvez utiliser dans les emails, les landing pages et les campagnes intelligentes pour faciliter votre vie.
 
-Outre Mes jetons, vous pouvez également utiliser n’importe quel jeton intégré dans vos programmes. Consultez la section [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+Outre Mes jetons, vous pouvez également utiliser n’importe quel jeton intégré dans vos programmes. Consultez la [présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Mes jetons  {#my-tokens}
 
-Mes jetons sont des variables personnalisées que n’importe qui peut créer. Ils sont [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} dans des dossiers de campagne ou des programmes.
+Mes jetons sont des variables personnalisées que n’importe qui peut créer. Ils sont [créés](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} dans des dossiers de campagne ou des programmes.
 
 Mes jetons s’affichent comme suit : `{{my.Name Of Token}}`
 
@@ -46,19 +46,19 @@ Exemples :
   </tr> 
   <tr> 
    <td>Script de l’e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos emails. En savoir plus <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Lien de suivi" rel="nofollow">here</a>. </td> 
+   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos emails. En savoir plus <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Lien de suivi" rel="nofollow">ici</a>. </td> 
   </tr> 
   <tr> 
-   <td>Nombre<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
+   <td>Number<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
    <td>Tout entier. Il peut même être négatif.</td> 
   </tr> 
   <tr> 
    <td>Texte complet <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>C'est HTML. Utilisez-le dans les emails et les landing pages.</td> 
+   <td>C'est un HTML. Utilisez-le dans les emails et les landing pages.</td> 
   </tr> 
   <tr> 
    <td>Évaluation <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilisez ce jeton dans la variable <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">étape du flux de score de changement</a>. </td> 
+   <td>Utilisez ce jeton dans l’ <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">étape de flux de score de changement</a>. </td> 
   </tr> 
   <tr> 
    <td colspan="1">Campagne SFDC <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
@@ -66,22 +66,22 @@ Exemples :
   </tr> 
   <tr> 
    <td>Texte <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Juste du texte. Utilisez-le lorsque le HTML est sur-tué. La taille maximale des jetons de texte est de 524 288 caractères (UTF-8) ou 2 Mo.</td> 
+   <td>Juste du texte. Utilisez-le lorsque l'HTML est sur-tué. La taille maximale des jetons de texte est de 524 288 caractères (UTF-8) ou 2 Mo.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!CAUTION]
 >
->Mes jetons ne seront pas résolus lors de l’envoi d’un email à partir de Sales Insight sur Microsoft Dynamics ou Salesforce ; seuls les jetons standard seront renseignés (prospect, société, etc.). Valeurs par défaut des jetons _will_ par contre.
+>Mes jetons ne seront pas résolus lors de l’envoi d’un email à partir de Sales Insight sur Microsoft Dynamics ou Salesforce ; seuls les jetons standard seront renseignés (prospect, société, etc.). Les valeurs par défaut des jetons _fonctionneront toutefois._
 
 ## Imbrication de jetons {#nesting-tokens}
 
 Lorsque vous créez un jeton, il peut être référencé par d’autres objets de l’arborescence. Il existe une structure d’affectation des noms pour l’emplacement où le jeton a été créé pour une gestion facile.
 
 * **Jeton local :** Le jeton a été créé directement dans ce programme ou dossier.
-* **Jeton hérité :** Le jeton a été créé dans l’arborescence dans un dossier ou un programme de niveau supérieur.
-* **Jeton remplacé :** Le jeton a été hérité, puis une personne a fait une exception dans ce programme ou dossier.
+* **Jeton hérité :** Le jeton a été créé dans l’arborescence quelque part dans un programme ou un dossier de niveau supérieur.
+* **Jeton remplacé :** Le jeton a été hérité, puis quelqu’un a fait une exception dans ce programme ou dossier.
 
 Vous pouvez créer des variables globales, puis les remplacer aux niveaux inférieurs de l’arborescence.
 

@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version de juillet 2014. V�
 
 ## Calendrier marketing {#marketing-calendar}
 
-Afficher l’ensemble des événements, des e-mails et bien plus dans les programmes. [Ce nouveau produit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) est disponible gratuitement pour les clients qui ont moins de 10 utilisateurs de la gestion des pistes Marketo ou de la boîte de dialogue.
+Afficher l’ensemble des événements, des e-mails et bien plus dans les programmes. [Ce nouveau produit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) sera disponible sans frais pour les clients ayant 10 utilisateurs ou moins de la gestion des pistes Marketo ou de la boîte de dialogue.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -47,7 +47,7 @@ Outre le calendrier marketing avec lequel vous gérez vos événements et progra
 
 ## Liste des opérations dans l’API ReST {#list-operations-in-the-rest-api}
 
-Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) pour consulter la documentation complète.
+Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) pour obtenir la documentation complète.
 
 * Obtenir la liste par identifiant
 * Obtenir plusieurs listes
@@ -56,7 +56,7 @@ Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans 
 
 ## Importation de liste rapide {#fast-list-import}
 
-Over **50 fois plus rapide**, vos fichiers effectueront un zoom sur Marketo. Les anciennes options d’importation &quot;Normale&quot; et &quot;Optimisée pour les nouvelles pistes&quot; ont été remplacées par &quot;Par défaut (importation rapide)&quot;.
+Plus de **50x plus rapide**, vos fichiers effectueront un zoom sur Marketo ! Les anciennes options d’importation &quot;Normale&quot; et &quot;Optimisée pour les nouvelles pistes&quot; ont été remplacées par &quot;Par défaut (importation rapide)&quot;.
 
 L’option &quot;Ignorer les nouvelles pistes et mises à jour&quot; reste inchangée.
 
@@ -68,9 +68,9 @@ Le déploiement débutera à la mi-juillet et se poursuivra au cours des prochai
 * Plus compatible avec les autres JavaScript de votre site
 * Entièrement testé sur de nombreux sites au cours de l’année passée !
 
-## RTP : modèles de campagne de personnalisation en temps réel {#rtp-real-time-personalization-campaign-templates}
+## RTP : modèles de campagne Personalization en temps réel {#rtp-real-time-personalization-campaign-templates}
 
-La page Définir la campagne RTP est maintenant [inclut des modèles prêts à l’emploi ;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Choisissez parmi une variété de styles, notamment des webinaires, des études de cas et des livres électroniques.
+La page Campagne d’ensemble RTP [ comprend désormais des modèles prêts à l’emploi ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Choisissez parmi une variété de styles, notamment des webinaires, des études de cas et des livres électroniques.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -78,10 +78,10 @@ La page Définir la campagne RTP est maintenant [inclut des modèles prêts à l
 
 ## RTP : améliorations de l’API JavaScript {#rtp-javascript-api-enhancements}
 
-Nouvel appel de l’API RTP pour obtenir des données sur les visiteurs en temps réel telles que l’organisation, le secteur, l’emplacement et la correspondance de code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle présentant le code segment. Voir notre [site des développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
+Nouvel appel de l’API RTP pour obtenir des données sur les visiteurs en temps réel telles que l’organisation, le secteur, l’emplacement et la correspondance de code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle présentant le code segment. Consultez notre [site de développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP : prise en charge de HTML5 dans l’éditeur de contenu de Campaign {#rtp-html-support-in-campaign-content-editor}
+## RTP : prise en charge d’HTML5 dans l’éditeur de contenu de Campaign {#rtp-html-support-in-campaign-content-editor}
 
-L’éditeur WYSIWYG de contenu de la page Définir des campagnes est désormais compatible avec HTML5. Cliquez sur l&#39;icône &quot;HTML&quot; dans l&#39;éditeur pour insérer du code HTML5.
+L’éditeur WYSIWYG de contenu de la page Définir des campagnes est désormais entièrement compatible avec HTML5. Cliquez sur l&#39;icône &quot;HTML&quot; dans l&#39;éditeur pour insérer du code HTML5.

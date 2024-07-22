@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo a amélioré le comportement de la fonctionnalité de désabonnement pour la rendre &quot;durable&quot;. Nous avons ajouté un état d’email principal, qui est distinct de l’indicateur de désabonnement visible dans l’enregistrement des détails de la personne.
 
-Si l’indicateur unsubscribe est défini sur false sur true, l’état de l’email principal est mis à jour et la modification est propagée à d’autres personnes ayant la même adresse email. Si une personne est supprimée et recréée, ou si un nouvel enregistrement est créé avec la même adresse électronique, l’indicateur de désabonnement s’affiche **not** être écrasée.
+Si l’indicateur unsubscribe est défini sur false sur true, l’état de l’email principal est mis à jour et la modification est propagée à d’autres personnes ayant la même adresse email. Si une personne est supprimée et recréée, ou si un nouvel enregistrement est créé avec la même adresse électronique, l’indicateur de désabonnement sera **not** remplacé.
 
 >[!NOTE]
 >
@@ -25,19 +25,19 @@ Si l’indicateur unsubscribe est défini sur false sur true, l’état de l’e
 
 Il existe plusieurs façons de réinscrire une personne.
 
-Dans Salesforce, **clear** le champ Email Opt Out dans l&#39;enregistrement de l&#39;prospect/du contact. Cette opération se synchronise avec Marketo.
+Dans Salesforce, **effacez** le champ Email Opt Out sur l&#39;enregistrement de l&#39;prospect/du contact. Cette opération se synchronise avec Marketo.
 
 ![](assets/one.png)
 
-Dans Marketo, **clear** la boîte de désinscription dans l&#39;onglet Informations de l&#39;enregistrement de la personne.
+Dans Marketo, **effacez** la case désabonnée dans l’onglet Informations de l’enregistrement de la personne.
 
 ![](assets/two.png)
 
-Exécutez une **Modifier la valeur des données** étape de flux comme illustré ci-dessous sur une ou plusieurs personnes.
+Exécutez une étape de flux **Modifier la valeur de données** comme illustré ci-dessous sur une ou plusieurs personnes.
 
 ![](assets/three.png)
 
-Mettre à jour une personne existante via l’API SOAP
+Mettre à jour une personne existante via SOAP API.
 
 ## Création d’une personne {#creating-a-new-person}
 

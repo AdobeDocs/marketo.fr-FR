@@ -17,7 +17,7 @@ Il existe trois manières différentes d’ajouter manuellement des personnes à
 
 ## Action à flux unique {#single-flow-action}
 
-1. Cliquez sur **Base**.
+1. Cliquez sur **Base de données**.
 
    ![](assets/one-2.png)
 
@@ -25,11 +25,11 @@ Il existe trois manières différentes d’ajouter manuellement des personnes à
 
    ![](assets/two.png)
 
-1. Cliquez sur la personne pour la sélectionner. Cliquez sur le bouton **Actions de personne** menu déroulant, cliquez sur **Marketing** et sélectionnez **Ajouter à un compte nommé**.
+1. Cliquez sur la personne pour la sélectionner. Cliquez sur la liste déroulante **Actions de personne**, cliquez sur **Marketing** et sélectionnez **Ajouter au compte nommé**.
 
    ![](assets/three.png)
 
-1. Cliquez sur le bouton **Compte nommé** , sélectionnez le compte nommé de votre choix, puis cliquez sur **Exécuter maintenant**.
+1. Cliquez sur la liste déroulante **Compte nommé**, sélectionnez le compte nommé de votre choix, puis cliquez sur **Exécuter maintenant**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Il existe trois manières différentes d’ajouter manuellement des personnes à
 
    ![](assets/seven.png)
 
-1. Cliquez sur le bouton **Compte nommé** et sélectionnez le compte nommé de votre choix.
+1. Cliquez sur la liste déroulante **Compte nommé** et sélectionnez le compte nommé de votre choix.
 
    ![](assets/eight.png)
 
@@ -55,15 +55,15 @@ Il existe trois manières différentes d’ajouter manuellement des personnes à
 
 ## Importer une liste {#list-import}
 
-1. Sélectionnez votre liste, puis cliquez sur le bouton **Actions de liste** et sélectionnez **Liste d’importation**.
+1. Sélectionnez votre liste, cliquez sur la liste déroulante **Actions de liste** et sélectionnez **Importer la liste**.
 
    ![](assets/nine.png)
 
-1. Après avoir choisi le fichier et les paramètres, cliquez sur **Suivant**.
+1. Après avoir choisi votre fichier et vos paramètres, cliquez sur **Suivant**.
 
    ![](assets/ten.png)
 
-1. Faites correspondre les champs de votre choix. Assurez-vous que la variable **Compte nommé** est mappé.
+1. Faites correspondre les champs de votre choix. Assurez-vous que le champ **Compte nommé** est mappé.
 
    ![](assets/eleven.png)
 
@@ -73,4 +73,4 @@ Il existe trois manières différentes d’ajouter manuellement des personnes à
 
 >[!MORELIKETHIS]
 >
->[Correspondance de pistes de comptes](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[ Atteindre des correspondances de comptes ](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

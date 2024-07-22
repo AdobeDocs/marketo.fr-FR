@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Sales Connect est fourni avec deux catégories par défaut pour vous aider à organiser vos modèles.
 
-1. Cliquez sur le bouton **+** en regard de **Catégories**.
+1. Cliquez sur l’icône **+** en regard de **Catégories**.
 
-1. Saisissez le nom de la nouvelle catégorie, puis cliquez sur **Créer**.
+1. Saisissez un nom pour votre nouvelle catégorie, puis cliquez sur **Créer**.
 
 La nouvelle catégorie apparaît désormais dans le menu de navigation.

@@ -22,19 +22,19 @@ Une fois le webinaire terminé, accédez à l’onglet Tableau de bord pour affi
 
 ## Synchronisation manuelle {#manual-sync}
 
-Les webinaires interactifs vous permettent d’obtenir les données d’engagement de votre webinaire auprès d’Adobe Connect si vous ne les avez pas reçues automatiquement dans les deux heures suivant la fin du webinaire. Un bouton &quot;Synchroniser maintenant&quot; s’affiche dans la page Aperçu. Cliquer **Synchroniser maintenant** déclenche une extraction à partir d’Adobe Connect pour renseigner les données dans Marketo Engage. Une fois la synchronisation effectuée, le bouton disparaît et l’onglet Tableau de bord devient renseigné.
+Les webinaires interactifs vous permettent d’obtenir les données d’engagement de votre webinaire auprès d’Adobe Connect si vous ne les avez pas reçues automatiquement dans les deux heures suivant la fin du webinaire. Un bouton &quot;Synchroniser maintenant&quot; s’affiche dans la page Aperçu. Cliquer sur **Synchroniser maintenant** déclenche une extraction d’Adobe Connect pour renseigner les données dans Marketo Engage. Une fois la synchronisation effectuée, le bouton disparaît et l’onglet Tableau de bord devient renseigné.
 
 ## Widgets de tableau de bord {#dashboard-widgets}
 
 Le tableau de bord se compose de quatre widgets.
 
-**État du programme d’événements**: indique les différents statuts de programme pour cet événement et le nombre de membres du programme qui détiennent actuellement cette valeur.
+**Event Program Status** : indique les différents états du programme pour cet événement et le nombre de membres du programme qui détiennent actuellement cette valeur.
 
-**Participation**: met en évidence la durée de participation des différents membres ayant participé au webinaire par rapport à la durée globale du webinaire, en termes de pourcentage.
+**Participation** : présente la durée de participation des différents membres ayant participé au webinaire par rapport à la durée totale du webinaire en termes de pourcentage.
 
-**Performances du sondage**: affiche les différents sondages lancés lors du webinaire proposé par Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
+**Performance du sondage** : affiche divers sondages lancés lors du webinaire optimisé par Adobe Connect et la distribution des membres ayant participé au sondage et y ayant répondu pour chacune des réponses.
 
-**Activité de clic et de téléchargement de fichier**: indique le nombre de téléchargements de fichiers et de liens Web ayant fait l’objet d’un clic au cours du webinaire optimisé par Adobe Connect par différents membres ayant assisté au webinaire et pris cette mesure spécifique.
+**Activité de téléchargement de fichiers et de clics** : fournit le nombre de téléchargements de fichiers et de liens Web sur lesquels l’utilisateur a cliqué au cours du webinaire optimisé par Adobe Connect par divers membres qui ont assisté au webinaire et pris cette mesure spécifique.
 
 ## Enregistrement de webinaire {#webinar-recording}
 
@@ -44,7 +44,7 @@ Accédez à l’onglet Aperçu pour afficher le webinaire enregistré, obtenir l
 
 >[!NOTE]
 >
->* Les webinaires interactifs ne sont pas enregistrés automatiquement. Une fois le webinaire lancé, cliquez sur la liste déroulante en regard du nom du webinaire et sélectionnez **Session d’enregistrement**.
+>* Les webinaires interactifs ne sont pas enregistrés automatiquement. Une fois le webinaire lancé, cliquez sur la liste déroulante en regard du nom du webinaire et sélectionnez **Enregistrer la session**.
 >* Si la session est enregistrée, l’hôte doit mettre fin manuellement à l’enregistrement ou sélectionner &quot;Terminer la session pour tous&quot; pour arrêter l’enregistrement. Sinon, l&#39;enregistrement s&#39;arrêtera automatiquement dans les 10 minutes suivant le dernier participant qui quittera la pièce.
 >* L’enregistrement est téléchargé au format MP4.
 >* Lorsque vous partagez l’enregistrement, toute personne disposant du lien peut le voir. Assurez-vous donc qu’il est partagé avec l’audience prévue.
@@ -57,11 +57,11 @@ Utilisez les déclencheurs et filtres liés au webinaire interactif pour localis
 
 Chaque déclencheur/filtre est associé à des contraintes supplémentaires, ce qui vous permet de capturer un sous-ensemble ciblé de ce groupe.
 
-**Questions lors de l’événement** (Version du filtre : a posé des questions lors de l’événement)
+**Pose des questions pendant l’événement** (Version du filtre : a posé des questions pendant l’événement)
 
 ![](assets/event-workflows-4.png)
 
-**Atteindre l’événement** (Version du filtre : a assisté à l’événement )
+**Participer à l’événement** (Version du filtre : a assisté à l’événement)
 
 ![](assets/event-workflows-5.png)
 
@@ -69,10 +69,10 @@ Chaque déclencheur/filtre est associé à des contraintes supplémentaires, ce 
 
 ![](assets/event-workflows-6.png)
 
-**Téléchargement d’une ressource** (Version du filtre : téléchargement d’une ressource)
+**Télécharge une ressource** (Version du filtre : téléchargement d’une ressource)
 
 ![](assets/event-workflows-7.png)
 
-**Réponses à un sondage** (Version du filtre : réponse à un sondage)
+**Répond à un sondage** (Version du filtre : réponse à un sondage)
 
 ![](assets/event-workflows-8.png)

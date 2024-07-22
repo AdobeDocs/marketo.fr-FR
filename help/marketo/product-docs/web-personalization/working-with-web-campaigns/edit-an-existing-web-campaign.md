@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4719408
-description: Modification d’une campagne web existante - Documents Marketo - Documentation du produit
+description: Modifier une campagne web existante - Documents Marketo - Documentation du produit
 title: Modifier une campagne web existante
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
@@ -17,15 +17,15 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Sur le **Campagnes Web** page, cliquez sur **Modifier** sur la campagne que vous souhaitez modifier.
+1. Sur la page **Campagnes Web**, cliquez sur **Modifier** dans la campagne à modifier.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne web de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne web de votre choix, utilisez la [fonction de filtrage](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
 >* [Supprimer une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [Lancer/mettre en pause une campagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
+>* [Lancer/Suspendre une campagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

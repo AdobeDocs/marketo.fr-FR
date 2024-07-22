@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # Verrouillage de contenu {#content-lockdown}
 
-En activant le verrouillage du contenu, limitez la modification des modèles et/ou des campagnes par les utilisateurs non-administrateurs. Les utilisateurs ne pourront pas : partager, cloner, modifier ou supprimer du contenu. Ils n’auront pas non plus la possibilité d’archiver des modèles.
+En activant le verrouillage du contenu, limitez la modification des modèles et/ou des campagnes par les utilisateurs non-administrateurs. Les utilisateurs ne pourront pas partager, cloner, modifier ou supprimer du contenu. Ils n’auront pas non plus la possibilité d’archiver des modèles.
 
 >[!NOTE]
 >

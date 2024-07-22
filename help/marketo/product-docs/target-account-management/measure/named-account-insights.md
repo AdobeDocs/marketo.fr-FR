@@ -6,8 +6,8 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 4%
+source-wordcount: '424'
+ht-degree: 3%
 
 ---
 
@@ -19,17 +19,17 @@ Le tableau de bord du compte nommé offre une vue à 360 degrés d’un compte c
 
 ## Tableau de bord {#dashboard}
 
-Le tableau de bord rassemble les informations clés au niveau du compte de toutes les personnes d’un compte nommé, évitant ainsi d’avoir à se rendre à chaque personne pour évaluer sa progression. Vous pouvez approfondir davantage l’analyse de l’activité de courrier électronique à l’aide de la rubrique [Informations sur les emails](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Le tableau de bord rassemble les informations clés au niveau du compte de toutes les personnes d’un compte nommé, évitant ainsi d’avoir à se rendre à chaque personne pour évaluer sa progression. Vous pouvez approfondir l’analyse de l’activité de courrier électronique à l’aide de [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
->Les tableaux présentent les informations sur les 90 derniers jours.
+>Les diagrammes présentent les informations sur les 90 derniers jours.
 
-**Engagement du compte dans le temps** Cliquez sur le bouton **Affichage** déroulant à droite pour modifier ce que vous affichez. Outre la note du compte, vous pouvez l’afficher par recettes totales...
+**Engagement du compte dans le temps** Cliquez sur la liste déroulante **Afficher** à droite pour modifier ce que vous affichez. Outre la note du compte, vous pouvez l’afficher par recettes totales...
 
 ![](assets/two-new.png)
 
-...ou Pipeline.
+...ou pipeline.
 
 ![](assets/three-new.png)
 
@@ -50,21 +50,21 @@ Le tableau de bord rassemble les informations clés au niveau du compte de toute
  </tbody> 
 </table>
 
-**Moments significatifs**
+**Moments intéressants**
 
 Disponible pour les utilisateurs de Marketo Sales Insight, découvrez les moments intéressants cumulés au niveau du compte.
 
 ![](assets/int-mom.png)
 
-**Meilleures personnes**
+**Top People**
 
-Ces personnes sont calculées en fonction de priorités basées sur la récence ou l’urgence affichée par les personnes de comptes nommés (comme [Meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight) ou Scores définis par l’utilisateur. **Priorité** n’est disponible que pour les utilisateurs de Marketo Sales Insight.
+Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichées par les personnes de comptes nommés (comme les [meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight) ou les scores définis par l’utilisateur. **Priority** n’est disponible que pour les utilisateurs de Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
-**Inclut les enfants**
+**Inclut Des Enfants**
 
-Cliquez sur **Inclut les enfants** pour afficher et sélectionner les comptes enfants du compte nommé sélectionné et afficher leurs analyses agrégées.
+Cliquez sur **Inclut les enfants** pour afficher et sélectionner les comptes enfants du compte nommé sélectionné et afficher leurs analyses d’agrégats.
 
 ![](assets/abm.png)
 
@@ -92,7 +92,7 @@ La mise en correspondance de piste/compte utilise une logique floue pour trouver
 
 >[!NOTE]
 >
->Pour ajouter l’une des personnes répertoriées, sélectionnez-la, puis cliquez sur **Ajouter des personnes**.
+>Pour ajouter l’une des personnes répertoriées, sélectionnez-les et cliquez sur **Ajouter des personnes**.
 
 ## Utilisé par {#used-by}
 
@@ -108,10 +108,10 @@ Affichez les membres de l’équipe du compte, ajoutez/supprimez des membres, et
 
 >[!NOTE]
 >
->Cliquez sur le bouton **Actions de l’équipe de compte** Menu déroulant permettant d’ajouter ou de supprimer des membres de compte ou d’affecter un propriétaire de compte.
+>Cliquez sur la liste déroulante **Actions de l’équipe de compte** pour ajouter/supprimer des membres du compte ou affecter un propriétaire de compte.
 
 ## Indicateurs ICP {#icp-indicators}
 
-Afficher les indicateurs ICP que vous avez sélectionnés pour l’exportation lorsque vous [optimisation de votre modèle](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Affichez les indicateurs ICP que vous avez sélectionnés pour l’exportation lorsque vous avez [réglé votre modèle](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

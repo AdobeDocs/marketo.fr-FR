@@ -17,7 +17,7 @@ L’incorporation d’un flux de conversation de Dynamic Chat directement dans u
 
 >[!PREREQUISITES]
 >
->Création d’une [Flux de conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) qui ne contient qu’un **Réservation de réunion** carte.
+>Créez un simple [flux de conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) qui contient uniquement une carte **réservation de réunions**.
 
 ## Pages d’entrée guidées {#guided-landing-pages}
 
@@ -27,7 +27,7 @@ Ouvrez votre modèle de page d’entrée guidée dans l’éditeur et sélection
 
 Cliquez sur le menu déroulant Flux de conversation et sélectionnez le CF que vous avez créé à l’étape 1.
 
-Toujours conserver le type de diffusion comme **En ligne**. Cliquez sur **Insérer**.
+Conservez toujours le type de diffusion **En ligne**. Cliquez sur **Insérer**.
 
 Le flux de conversation que vous venez de saisir s’affiche sous la forme d’un élément à droite.
 

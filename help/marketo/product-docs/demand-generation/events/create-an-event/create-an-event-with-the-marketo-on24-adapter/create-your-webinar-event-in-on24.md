@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -22,13 +22,13 @@ Certains paramètres de création de votre webinaire ON24 sont utilisés par Mar
 * Titre de l’événement : nom du webinaire. Vous pourrez le voir dans Marketo.
 * Event Abstract (facultatif) - Description du webinaire. Vous pourrez le voir dans Marketo.
 
-**Date et Heure**
+**Date et heure**
 
 * Début de l’événement en direct : date et heure de début. Vous pourrez le voir dans Marketo.
 * Heure de fin de la vie : date et heure de fin. Vous pourrez le voir dans Marketo.
 
-L’étape suivante consiste à [création d’un événement dans Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
+L’étape suivante consiste à [créer un événement dans Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Présentation des événements de l’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Compréhension des événements d’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

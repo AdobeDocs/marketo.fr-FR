@@ -18,17 +18,17 @@ Il est important de comprendre comment **order** définit la priorité pour l’
 >[!PREREQUISITES]
 >
 >[Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Définition des règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >Vous ne pouvez modifier qu’une segmentation en mode préliminaire.
 
-1. Accédez au **Base**.
+1. Accédez à la **base de données**.
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Sélectionnez votre **Segmentation**. Dans **Actions de segmentation**, cliquez sur **Modifier des segments**.
+1. Sélectionnez votre **Segmentation**. Dans **Actions de segmentation**, cliquez sur **Modifier les segments**.
 
    ![](assets/segmentation-order-priority-2.png)
 

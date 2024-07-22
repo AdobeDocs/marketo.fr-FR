@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajouter le désabonnement automatique à un modèle {#add-auto-unsubscribes-to-a-template}
 
-1. Sélectionnez votre modèle et cliquez sur **Modifier** dans la section Désabonner .
+1. Sélectionnez votre modèle et cliquez sur **Modifier** dans la section Désabonner.
 
 1. Indiquez si vous souhaitez ajouter le désabonnement automatique, le désabonnement automatique ou les deux.
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Vous pouvez également ajuster l’affichage de ces messages de désabonnement à partir de **Fuseau horaire et désabonnements** dans **Paramètres**.
+>Vous pouvez également ajuster l’affichage de ces messages de désabonnement à partir de l’onglet **Fuseau horaire et désabonnements** dans **Paramètres**.

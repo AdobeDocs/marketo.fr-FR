@@ -21,11 +21,11 @@ La vérification de désabonnement de Marketo utilise la connexion de votre équ
 
 ## Activation {#turning-it-on}
 
-1. Dans l’application web, cliquez sur l’icône représentant un engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-2.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Désabonne**.
+1. Sous Paramètres d’administration, cliquez sur **Se désabonner**.
 
    ![](assets/two-3.png)
 
@@ -42,7 +42,7 @@ La vérification de désabonnement de Marketo utilise la connexion de votre équ
 Le contrôle Désabonnement de Marketo...
 
 * Ne tient pas compte des limites de votre API
-* Nécessite l’établissement d’une connexion Marketo
+* Nécessite une connexion Marketo
 * est un paramètre global ;
-* Blocage les emails envoyés à partir de l’application web, des clients de messagerie et de Salesforce.
-* Consigner un message électronique en échec ou empêcher un utilisateur d’envoyer un message lorsqu’il tente d’envoyer pour tous les workflows (envoi de module externe de messagerie, envoi individuel, envoi de campagne de vente, sélection et envoi multiples), à l’exception de [emails de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), dans laquelle nous empêcherons l’envoi silencieux des emails
+* Blocage les emails envoyés depuis l’application web, les clients de messagerie et Salesforce
+* Enregistre un message électronique en échec ou empêche un utilisateur d’envoyer un message lorsqu’il tente d’envoyer pour tous les workflows (envoi de module externe de messagerie, envoi individuel, envoi de campagne de vente, sélection et envoi multiples), à l’exception des [emails de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), dans lesquels nous empêcherons l’envoi silencieux des messages électroniques

@@ -5,7 +5,7 @@ exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 3%
 
 ---
@@ -16,11 +16,11 @@ Procédez comme suit pour ajouter l’accès aux fonctionnalités Sales Insight 
 
 >[!PREREQUISITES]
 >
->[Mettre à jour votre package Salesforce Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} vers la version 1.8000 ou ultérieure pour utiliser cette fonctionnalité.
+>[Mettez à jour votre package Sales Insight Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} vers la version 1.8000 ou ultérieure pour utiliser cette fonctionnalité.
 
 >[!IMPORTANT]
 >
->Si vous avez auparavant donné l’accès à Sales Insight à tous les profils et/ou mis en oeuvre Sales Insight pour tous vos utilisateurs, vous devez [suppression de l’accès au niveau de profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} pour utiliser ce jeu d’autorisations.
+>Si vous avez auparavant donné l’accès à Sales Insight à tous les profils et/ou mis en oeuvre Sales Insight pour tous vos utilisateurs, vous devez [ supprimer l’accès au niveau de profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} pour utiliser ce jeu d’autorisations.
 
 ## Vue d’ensemble {#overview}
 
@@ -77,9 +77,9 @@ L’autorisation &quot;Application Marketo&quot; fait partie du package Salesfor
  </tbody> 
 </table>
 
-* Accès à la classe Apex : 159 classes Apex commençant par &quot;mkto_si&quot;
-* Visualforce Page Access : 64 Pages Visualforce commençant par &quot;mkto_si&quot;
-* Définitions des paramètres personnalisés : Paramètres mkto_si.Marketo et préférences de l’utilisateur mkto_si.User
+* Accès aux classes Apex : 159 classes Apex commençant par &quot;mkto_si&quot;
+* Visualforce Page Access : 64 pages Visualforce commençant par &quot;mkto_si&quot;
+* Définitions des paramètres personnalisés : paramètres de mkto_si.Marketo et préférences de mkto_si.User
 
 ## Ajout d’un jeu d’autorisations d’application Marketo aux utilisateurs {#adding-marketo-app-permission-set-to-users}
 
@@ -89,11 +89,11 @@ L’autorisation &quot;Application Marketo&quot; fait partie du package Salesfor
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. Sous Administrateur, cliquez sur pour effectuer le déploiement. **Gestion des utilisateurs**, puis **Utilisateurs**.
+1. Sous Administrateur, cliquez pour déployer **Gérer les utilisateurs**, puis **Utilisateurs**.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. Sous Tous les utilisateurs, sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **Affectations de jeux d’autorisations**.
+1. Sous Tous les utilisateurs, sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **Attributs du jeu d’autorisations**.
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
@@ -101,7 +101,7 @@ L’autorisation &quot;Application Marketo&quot; fait partie du package Salesfor
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Sélectionner **Accès aux applications Marketo** à partir des jeux d’autorisations disponibles, puis **Ajouter**. Cliquez sur **Enregistrer**.
+1. Sélectionnez **Marketo App Access** parmi les jeux d’autorisations disponibles, puis **Ajouter**. Cliquez sur **Enregistrer**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
@@ -113,4 +113,4 @@ L’autorisation &quot;Application Marketo&quot; fait partie du package Salesfor
 >
 >Les utilisateurs qui n’ont pas accès à Sales Insight verront ce message : &quot;Vous ne disposez pas des privilèges suffisants pour accéder à cet onglet.&quot;
 
-C&#39;est tout! Vous avez correctement ajouté l’accès Sales Insight . Répétez les mêmes étapes pour tout autre profil auquel vous souhaitez ajouter un accès.
+C&#39;est tout ! Vous avez correctement ajouté l’accès Sales Insight . Répétez les mêmes étapes pour tout autre profil auquel vous souhaitez ajouter un accès.

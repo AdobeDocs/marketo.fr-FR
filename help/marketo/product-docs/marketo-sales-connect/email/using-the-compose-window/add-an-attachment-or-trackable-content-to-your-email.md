@@ -21,7 +21,7 @@ Lors de l’envoi d’un courrier électronique via Sales Connect, vous avez la 
 
 ## Ajout d’une pièce jointe {#add-an-attachment}
 
-1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
+1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
 
    ![](assets/one-4.png)
 
@@ -33,13 +33,13 @@ Lors de l’envoi d’un courrier électronique via Sales Connect, vous avez la 
 
    ![](assets/attach-three.png)
 
-1. Sélectionnez le fichier à joindre, puis cliquez sur **Insérer**.
+1. Sélectionnez le fichier à joindre et cliquez sur **Insérer**.
 
    ![](assets/attach-four.png)
 
    >[!NOTE]
    >
-   >Si vous devez télécharger un fichier, cliquez sur le **Chargement du contenu** dans le coin supérieur droit de la fenêtre.
+   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger le contenu** dans le coin supérieur droit de la fenêtre.
 
    ![](assets/attach-five.png)
 
@@ -59,13 +59,13 @@ La pièce jointe apparaît au bas de votre email.
 
    ![](assets/three-4.png)
 
-1. Sélectionnez le contenu à ajouter, puis cliquez sur le bouton **Contenu suivi** curseur, puis cliquez sur **Insérer**.
+1. Sélectionnez le contenu à ajouter, cliquez sur le curseur **Contenu suivi**, puis cliquez sur **Insérer**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Si vous devez télécharger un fichier, cliquez sur le **Chargement du contenu** dans le coin supérieur droit de la fenêtre.
+   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger le contenu** dans le coin supérieur droit de la fenêtre.
 
    Le contenu s’affiche sous la forme d’un lien dans votre email. Le destinataire peut cliquer sur le lien pour télécharger le contenu.
 

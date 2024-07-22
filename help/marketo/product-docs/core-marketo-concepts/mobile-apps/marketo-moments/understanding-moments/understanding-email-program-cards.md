@@ -6,7 +6,7 @@ exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Une fois l&#39;email envoyé, la carte affiche d&#39;autres informations utiles,
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Appuyer **[!UICONTROL Confirmer]**.
+1. Appuyez sur **[!UICONTROL Confirmer]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Appuyer **[!UICONTROL Confirmer]** pour terminer la tâche, ou **[!UICONTROL Ne vous souciez Jamais]** si vous avez réfléchi.
+1. Appuyez sur **[!UICONTROL Confirmer]** pour terminer la tâche ou sur **[!UICONTROL Never Mind]** si vous avez réfléchi de nouveau.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Une fois l&#39;email envoyé, la carte affiche d&#39;autres informations utiles,
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Appuyer **[!UICONTROL Annuler l’envoi]**.
+1. Appuyez sur **[!UICONTROL Annuler l’envoi]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Vous pouvez replanifier les cartes électroniques confirmées ou non confirmées
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Appuyer **[!UICONTROL Replanifier]**.
+1. Appuyez sur **[!UICONTROL Replanifier]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Sélectionnez une date du calendrier et appuyez sur **[!UICONTROL Replanifier]**.
+1. Sélectionnez une date dans le calendrier et appuyez sur **[!UICONTROL Replanifier]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Vous pouvez partager un exemple d’un moment d’email directement avec quelqu�
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Appuyer **[!UICONTROL Envoyer un exemple]**.
+1. Appuyez sur **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Saisissez l’adresse électronique et cliquez sur **[!UICONTROL Envoyer un exemple]**.
+1. Saisissez une adresse électronique et cliquez sur **[!UICONTROL Envoyer un exemple]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,7 +105,7 @@ Vous pouvez partager un exemple d’un moment d’email directement avec quelqu�
 
 Cliquez avec le bouton droit de la souris sur une carte de courriel pour la prévisualiser.
 
-1. Appuyer **[!UICONTROL Prévisualiser le message]**.
+1. Appuyez sur **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -115,6 +115,6 @@ Cliquez avec le bouton droit de la souris sur une carte de courriel pour la pré
 
 >[!MORELIKETHIS]
 >
->* [Présentation des moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Présentation des cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Présentation des cartes Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Comprendre les moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Comprendre les cartes d’événements](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Compréhension des cartes Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

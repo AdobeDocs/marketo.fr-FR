@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Pour garantir la conformité aux lois américaines sur le consentement bipartite
 
 >[!PREREQUISITES]
 >
->Avant de suivre les étapes ci-dessous, vous devez d’abord [activer l’enregistrement des appels](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Avant de suivre les étapes ci-dessous, vous devez d&#39;abord [activer l&#39;enregistrement des appels](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Cliquez sur l’icône Paramètres et sélectionnez **Paramètres**.
 
@@ -27,7 +27,7 @@ Pour garantir la conformité aux lois américaines sur le consentement bipartite
 
    ![](assets/two-1.png)
 
-1. Faites défiler l’écran jusqu’à Paramètres du téléphone de la connexion aux ventes et cliquez sur **Gérer l’avis d’enregistrement**.
+1. Faites défiler l’écran jusqu’à Paramètres du téléphone de Sales Connect et cliquez sur **Gérer l’avis d’enregistrement**.
 
    ![](assets/three-1.png)
 
@@ -39,11 +39,11 @@ Pour garantir la conformité aux lois américaines sur le consentement bipartite
    >
    >Seuls les fichiers Wav et MP3 sont pris en charge. Vous ne pouvez pas charger un fichier de plus de 30 secondes.
 
-1. Sélectionnez le fichier audio de votre choix sur votre disque dur.
+1. Sélectionnez un fichier audio sur votre disque dur.
 
    ![](assets/five.png)
 
-1. Une fois le transfert terminé, sélectionnez les données (trois points) dans le gestionnaire de fichiers, puis cliquez sur **Sélectionner comme avis de consentement**. Cliquez sur **OK** une fois terminé.
+1. Une fois le transfert terminé, sélectionnez les données (trois points) dans le gestionnaire de fichiers, puis cliquez sur **Sélectionner comme avis de consentement**. Cliquez sur **OK** lorsque vous avez terminé.
 
    ![](assets/six.png)
 

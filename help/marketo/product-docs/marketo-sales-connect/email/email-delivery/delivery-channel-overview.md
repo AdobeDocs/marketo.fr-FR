@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Marketo Sales Connect vous offre plusieurs options pour diffuser des emails. Cet article passe en revue les canaux de diffusion que vous pouvez utiliser, comment les sélectionner et quand les choisir.
 
-## Recommandé : Gmail ou Exchange via la connexion par e-mail {#recommended-gmail-or-exchange-via-email-connection}
+## Recommandé : Gmail ou Exchange via connexion par courriel {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect permet une configuration simplifiée et une délivrabilité améliorée grâce à notre service de connexion par e-mail. La connexion par e-mail permet à chaque utilisateur de se connecter à son [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) ou [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) compte à Sales Connect pour être utilisé comme canal de diffusion de votre choix pour tous les emails Sales Connect.
+Sales Connect permet une configuration simplifiée et une délivrabilité améliorée grâce à notre service de connexion par e-mail. La connexion par e-mail permet à chaque utilisateur de se connecter à son compte [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) ou [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) pour la connexion aux ventes afin d’être utilisé comme canal de diffusion de choix pour tous les e-mails de connexion aux ventes.
 
-L’utilisation de Gmail ou Exchange présente des avantages distincts par rapport aux autres options de canal de diffusion :
+L&#39;utilisation de Gmail ou Exchange présente des avantages distincts par rapport aux autres options de canal de diffusion :
 
 * Il s’agit d’un canal de diffusion éprouvé avec une réputation établie qui contribue à maintenir une délivrabilité élevée.
 * Les méthodes d’authentification telles que SPF et DKIM sont déjà configurées et gérées par votre équipe informatique. Il n’y a donc pas de configuration supplémentaire.
-* L’envoi d’emails au sein d’un réseau de messagerie donné (c’est-à-dire l’envoi d’un email en tant qu’utilisateur Exchange à une société qui reçoit des emails via Exchange) peut contribuer à améliorer la délivrabilité.
+* L’envoi d’emails au sein d’un réseau de messagerie donné (c’est-à-dire l’envoi d’un email en tant qu’utilisateur Exchange à une société qui reçoit des emails par Exchange) peut contribuer à améliorer la délivrabilité.
 
-Il est important de noter que ces canaux de diffusion possèdent leurs propres limites d’envoi qui sont appliquées par Microsoft et Google. Pour combattre cela, nous utilisons un mécanisme de ralentissement pour aider les utilisateurs à rester dans ces limites. En savoir plus sur [limitation des emails ici](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Il est important de noter que ces canaux de diffusion possèdent leurs propres limites d’envoi qui sont appliquées par Microsoft et Google. Pour combattre cela, nous utilisons un mécanisme de ralentissement pour aider les utilisateurs à rester dans ces limites. Pour en savoir plus sur le [ralentissement des emails ici](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
->Par défaut, le module externe O365 utilisera toujours votre canal de diffusion d’échange et le module externe Gmail utilisera toujours votre canal de diffusion Gmail pour diffuser des emails à partir des modules externes.
+>Par défaut, le module externe O365 utilisera toujours votre canal de diffusion exchange et le module externe Gmail utilisera toujours votre canal de diffusion Gmail pour diffuser des emails à partir des modules externes.
 
-**Suivi des rebonds**: Le MSC peut détecter les rebonds pour les utilisateurs d’Exchange Online ou de Gmail en détectant le message de rebonds envoyé dans la boîte de réception de l’expéditeur. Ces notifications de rebond seront cumulées aux notifications de modèle, d’analyse de campagne et de flux en direct pour les utilisateurs. Le suivi des rebonds n’est pas pris en charge pour les clients d’Exchange On-Prem.
+**Suivi des bounces** : le MSC peut détecter les bounces pour les utilisateurs Exchange Online ou Gmail en détectant le message de bounce envoyé à la boîte de réception de l’expéditeur. Ces notifications de rebond seront cumulées aux notifications de modèle, d’analyse de campagne et de flux en direct pour les utilisateurs. Le suivi des rebonds n’est pas pris en charge pour les clients Exchange On-Prem.
 
 ## Canal de diffusion personnalisé via SMTP {#custom-delivery-channel-via-smtp}
 
@@ -54,6 +54,6 @@ Les serveurs de messagerie Marketo ne s’intègrent pas à Sales Connect. Les s
 >[!MORELIKETHIS]
 >
 >* [Connexion par e-mail pour les utilisateurs de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Connexion par e-mail pour les utilisateurs Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Connexion par e-mail pour les utilisateurs d’Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [Configuration d’un canal de diffusion personnalisé](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [Limitation de la connexion aux e-mails](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [Limitation de la connexion par e-mail](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

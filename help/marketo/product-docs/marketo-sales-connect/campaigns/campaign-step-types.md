@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 8%
+ht-degree: 2%
 
 ---
 
@@ -23,23 +23,23 @@ Composez un nouvel email ou utilisez un modèle préexistant.
 
 ![](assets/email.png)
 
-| **Utiliser un modèle** | Sélectionnez l’un de vos modèles préexistants. |
+| **Utiliser un modèle** | Sélectionnez l’un de vos modèles préexistants |
 |---|---|
-| **Enregistrer comme modèle** | Enregistrez l&#39;email que vous venez de composer en tant que nouveau modèle. |
+| **Enregistrer comme modèle** | Enregistrez l&#39;email que vous venez de composer en tant que nouveau modèle |
 | **Ajouter du contenu** | Téléchargez un fichier sur notre serveur et recevez une URL (pointant vers le contenu) qui peut être trackée dans votre email. |
 | **Joindre des fichiers** | Joindre un fichier de votre ordinateur au courrier électronique (taille maximale de 23 Mo) |
 
 >[!TIP]
 >
->En savoir plus sur votre [options d’envoi](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Découvrez les détails de vos [options d&#39;envoi](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Appel {#call}
 
-Rappel pour le suivi d&#39;un contact par téléphone. Vous pouvez également enregistrer des notes à utiliser comme suivi de conversation pendant l’appel.
+Définissez un rappel pour le suivi d&#39;un contact par téléphone. Vous pouvez également enregistrer des notes à utiliser comme piste de discussion lors de l’appel.
 
 ![](assets/pic.png)
 
-## Message interne {#inmail}
+## InMail {#inmail}
 
 Le suivi sur plusieurs canaux est un excellent moyen de se connecter aux pistes. Avec les tâches InMail, vous pouvez configurer un rappel pour atteindre l’utilisateur via LinkedIn.
 

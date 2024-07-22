@@ -1,9 +1,9 @@
 ---
-description: Courrier électronique marqué comme indésirable - Documents Marketo - Documentation du produit
+description: Courriel marqué comme indésirable - Documents Marketo - Documentation du produit
 title: Email marqué comme indésirable
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,10 @@ En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de 
 
 **Vérifiez vos paramètres**
 
-* Suivi des domaines personnalisés : Cela vous permet de voir tous vos liens de suivi tels quels.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
-* Canal de diffusion email : Votre équipe aura la possibilité d’utiliser votre canal de diffusion Gmail/Outlook ou de configurer un SMTP personnalisé. [Cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) pour en savoir plus sur la sélection du canal de diffusion approprié à vos besoins.
+* Suivi des domaines personnalisés : permet d’afficher tous les liens de suivi en cours.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
+* Canal de diffusion email : votre équipe aura la possibilité d’utiliser votre canal de diffusion Gmail/Outlook ou de configurer un SMTP personnalisé. [Cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) pour en savoir plus sur la sélection du canal de diffusion approprié à vos besoins.
 
-**Vérifier vos comportements d&#39;email**
+**Vérifiez vos comportements de messagerie**
 
 * Gardez vos emails courts et informels, puis collez vos modèles sous forme d’emails que vous avez déjà écrits.
 
@@ -25,7 +25,7 @@ En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de 
 
 * Assurez-vous d’avoir une signature d’email complète avec une adresse physique.
 
-* Lisez et assurez-vous de respecter les conditions [Lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Lisez et assurez-vous de respecter les [lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
 
 >[!MORELIKETHIS]
 >

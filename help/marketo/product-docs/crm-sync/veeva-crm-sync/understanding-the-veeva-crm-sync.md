@@ -35,7 +35,7 @@ La synchronisation entre Veeva et Marketo Engage est bidirectionnelle uniquement
 
 ## Informations à connaître {#things-to-know}
 
-* La variable [informations d’identification que vous saisissez en Marketo Engage pour Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
+* Les [informations d’identification que vous saisissez en Marketo Engage pour Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
 
 * Veeva CRM est basé sur force.com et le Marketo Engage d’expérience riche de la plateforme est hérité dans cette synchronisation.
 

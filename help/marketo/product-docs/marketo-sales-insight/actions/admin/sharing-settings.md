@@ -5,7 +5,7 @@ exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Lorsque l’option Paramètres de partage est activée, seuls les administrateur
 
 ## Configuration des paramètres de partage {#configure-your-sharing-settings}
 
-1. Dans le [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans l’ [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/sharing-settings-1.png)
 
@@ -28,7 +28,7 @@ Lorsque l’option Paramètres de partage est activée, seuls les administrateur
 
    ![](assets/sharing-settings-2.png)
 
-1. Assurez-vous de **Paramètres de partage** est activée. Cela signifie que, par défaut, seuls les administrateurs pourront partager des modèles dans vos catégories de modèles.
+1. Assurez-vous que **Paramètres de partage** est activé. Cela signifie que, par défaut, seuls les administrateurs pourront partager des modèles dans vos catégories de modèles.
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ Lorsque l’option Paramètres de partage est activée, seuls les administrateur
 
    ![](assets/sharing-settings-4.png)
 
-1. Cliquez sur **Ajout d’équipes pour l’accès**.
+1. Cliquez sur **Ajouter des équipes pour l’accès**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Lorsque l’option Paramètres de partage est activée, seuls les administrateur
    >
    >Si vous ne voyez aucune équipe, vous devrez accéder à la Gestion des équipes et créer une équipe d’utilisateurs.
 
-1. Cliquez sur **Ajout d’équipes pour l’accès** pour enregistrer.
+1. Cliquez sur **Ajouter des équipes pour l’accès** pour enregistrer.
 
    ![](assets/sharing-settings-7.png)
 

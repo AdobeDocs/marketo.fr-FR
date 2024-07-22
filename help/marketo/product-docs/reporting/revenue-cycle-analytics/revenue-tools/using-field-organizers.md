@@ -25,15 +25,15 @@ Les organisateurs de champ sont utilisés dans l’analyse des performances des 
 
 ## Création d’organisateurs de champ {#how-to-create-field-organizers}
 
-1. Cliquez sur **Base**.
+1. Cliquez sur **Base de données**.
 
    ![](assets/db.png)
 
-1. Sous **Nouveau**, sélectionnez **Nouvel Organisateur de champ**.
+1. Sous **New**, sélectionnez **New Field Organizer**.
 
    ![](assets/two-1.png)
 
-1. Sous **Champ**, sélectionnez un attribut. La description est facultative.
+1. Sous **Field**, sélectionnez un attribut. La description est facultative.
 
    ![](assets/three-1.png)
 

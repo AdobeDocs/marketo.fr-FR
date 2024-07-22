@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Les tests sont un excellent moyen d’optimiser vos campagnes web pour un meilleur engagement. Voici comment commencer.
 
-Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campagnes ou plus, les associer à la même **Test de fractionnement** et sélectionnez **Réglage automatique** pour poursuivre automatiquement la campagne la plus performante.
+Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campagnes ou plus, les associer au même groupe **Split Test** et sélectionner **Auto-Tune** pour poursuivre automatiquement la campagne la plus performante.
 
 >[!TIP]
 >
@@ -29,25 +29,25 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 
    >[!NOTE]
    >
-   >Pour faciliter la recherche de la campagne de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Pour faciliter la recherche de la campagne de votre choix, utilisez la [fonction de filtrage](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Sélectionnez la première campagne à tester A/B. Cliquez sur **Modifier**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Dans la page de l&#39;opération, sélectionnez **Test de fractionnement** et cliquez sur **Créer**.
+1. Dans la page de la campagne, sélectionnez **Split Testing** et cliquez sur **Create New**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Saisissez le **Fractionner le nom du groupe de tests**, cliquez sur **Créer**. Sélectionner **Réglage automatique**.
+1. Saisissez le **nom du groupe de test de division**, cliquez sur **Créer**. Sélectionnez **Réglage automatique**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Enregistrer** ou **Launch** la campagne.
+1. **Enregistrez** ou **Lancez** la campagne.
 
    >[!TIP]
    >
-   >Sélection **Réglage automatique** permet à la plateforme de personnalisation web de reconnaître automatiquement la campagne de test partagé la plus performante et de poursuivre avec la campagne de conversion la plus performante tout en mettant les autres en pause.
+   >La sélection de l’option **Réglage automatique** permet à la plateforme Web Personalization de reconnaître automatiquement la campagne de test partagé la plus performante et continue avec la campagne de conversion la plus élevée tout en mettant les autres en pause.
 
 1. Répétez le processus ci-dessus avec la seconde campagne.
 
@@ -55,15 +55,15 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. Dans le **Définir la campagne** page, sélectionnez **Test de fractionnement** et sélectionnez la variable **Groupe** dans la liste déroulante. Sélectionner **Réglage automatique**.
+1. Sur la page **Définir la campagne**, sélectionnez **Split Testing** et choisissez le **Groupe** dans la liste déroulante. Sélectionnez **Réglage automatique**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Enregistrer** ou **Launch** la campagne.
+1. **Enregistrez** ou **Lancez** la campagne.
 
 1. Répétez ce processus pour une troisième ou quatrième campagne à tester.
 
-1. Dans **Campagnes Web** vous pouvez voir les campagnes de test fractionnées signalées par l’icône A/B.
+1. Dans **Campagnes Web**, vous pouvez voir les campagnes de test fractionnées signalées par l’icône A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -76,6 +76,6 @@ Pour tester vos campagnes personnalisées, vous pouvez sélectionner deux campag
 
 >[!MORELIKETHIS]
 >
->* [Création d’une campagne de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Création d’un RTP dans une campagne de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Création d’une campagne de widgets RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Créer une campagne de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Créer un RTP dans Zone Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Créer une campagne de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

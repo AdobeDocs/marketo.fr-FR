@@ -5,14 +5,14 @@ exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 0%
+source-wordcount: '395'
+ht-degree: 1%
 
 ---
 
 # Limitation de la connexion aux e-mails {#email-connection-throttling}
 
-L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Cependant, pour garantir la sécurité des systèmes et des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
+L’intégration de votre compte Sales Connect pour l’envoi par les fournisseurs de messagerie Exchange ou Gmail offre une configuration simplifiée et optimise la délivrabilité des emails pour la communication des ventes 1:1. Cependant, pour préserver la santé des systèmes et la sécurité des comptes, Gmail et Exchange appliquent les limites d’envoi des emails. Ces limites peuvent être augmentées ou diminuées à la discrétion des fournisseurs.
 
 ## Vue d’ensemble {#overview}
 
@@ -20,14 +20,14 @@ Le contrôle de connexion par e-mail permet aux administrateurs de Sales Connect
 
 Lorsque les limites sont régulièrement dépassées, cela peut parfois être considéré comme un comportement suspect de la part du fournisseur de canal de diffusion, ce qui entraîne l’échec des emails et parfois même la désactivation d’un compte.
 
-**Remarques/points forts**
+**Notes/Principales caractéristiques**
 
-* Activé automatiquement lorsqu’un utilisateur se connecte à Gmail ou Exchange
+* Activé automatiquement lorsqu’un utilisateur se connecte à Gmail ou à Exchange
 * Peut être personnalisé si vous souhaitez augmenter ou diminuer les paramètres des recommandations en fonction de vos besoins.
-* Ralentit uniquement les emails envoyés par Gmail ou Exchange ; ne ralentit pas pour le canal de diffusion personnalisé
+* Ralentit uniquement les emails envoyés par Gmail ou par Exchange, ne ralentit pas pour le canal de diffusion personnalisé
 * Le ralentissement de la connexion par e-mail place chaque utilisateur dans des files d’attente distinctes, car chaque utilisateur a sa propre connexion avec son fournisseur de messagerie.
 
-**Configuration des paramètres de limitation de la connexion par e-mail**
+**Configuration des paramètres de limitation de la connexion aux e-mails**
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
@@ -61,7 +61,7 @@ Entreprise/entreprise
 * 30 par minute
 * 500 destinataires par email
 
-Informations supplémentaires [peut être consulté ici](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Vous trouverez plus d&#39;informations [ici](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -69,7 +69,7 @@ Informations supplémentaires [peut être consulté ici](https://docs.microsoft.
 * 2 emails par seconde (limite API)
 * 2 000 destinataires par message (maximum 500 pour les destinataires externes)
 
-Informations supplémentaires [peut être consulté ici](https://support.google.com/a/answer/166852?hl=en).
+Vous trouverez plus d&#39;informations [ici](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 
@@ -79,4 +79,4 @@ Les limites sont définies par le service informatique de l’organisation, car 
 >
 >* [Présentation du canal de diffusion](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Connexion par e-mail pour les utilisateurs de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Connexion par e-mail pour les utilisateurs Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Connexion par e-mail pour les utilisateurs d’Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

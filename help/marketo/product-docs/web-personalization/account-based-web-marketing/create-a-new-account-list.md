@@ -6,18 +6,18 @@ exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 12%
+source-wordcount: '405'
+ht-degree: 7%
 
 ---
 
 # Créer une liste de comptes {#create-a-new-account-list}
 
-Créez et chargez une liste de noms d’organisation et de domaine pour cibler ces comptes clés avec des campagnes personnalisées.
+Créez et téléchargez une liste de noms d’organisation et de domaine pour cibler ces comptes clés avec des campagnes personnalisées.
 
 >[!NOTE]
 >
->Cet article s’applique uniquement aux clients Web ABM hérités. Si vous avez acquis Web ABM après septembre 2016, veuillez suivre les étapes de la section [cet article](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) au lieu de .
+>Cet article s’applique uniquement aux clients Web ABM hérités. Si vous avez acquis Web ABM après septembre 2016, suivez plutôt les étapes décrites dans [cet article](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) .
 
 ## Créer une liste de comptes {#create-a-new-account-list-1}
 
@@ -25,11 +25,11 @@ Créez et chargez une liste de noms d’organisation et de domaine pour cibler c
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Sélectionner **Créer**.
+1. Sélectionnez **Créer**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Sélectionner **Parcourir** et chargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajouter un **Nom** et **Description**. Cliquez sur **Enregistrer**.
+1. Sélectionnez **Parcourir** et téléchargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajoutez un **Nom** et une **Description**. Cliquez sur **Enregistrer**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -41,7 +41,7 @@ Créez et chargez une liste de noms d’organisation et de domaine pour cibler c
    >
    >* Enregistré au format CSV
    >* Ne dépasse pas 10 Mo
-   >* Seulement 4 colonnes avec l’en-tête Colonne A : Nom, Colonne B : Domaine, Colonne C : Pays, colonne D : Etat américain.
+   >* Seulement 4 colonnes avec l’en-tête Colonne A : Nom, Colonne B : Domaine, Colonne C : Pays, Colonne D : Etat américain.
    >* Le fichier téléchargé peut prendre jusqu’à deux jours ouvrables pour être validé.
    >* Vous recevrez un e-mail de notification de validation ou un avis d’état du fichier dans la page des comptes nommés.
    >* Le nombre total d&#39;enregistrements/lignes cumulés pour toutes vos listes téléchargées commence à 10K, avec le plus grand package totalisant 100K.
@@ -64,19 +64,19 @@ Créez et chargez une liste de noms d’organisation et de domaine pour cibler c
 
 ## Modifier une liste de comptes {#edit-an-account-list}
 
-Sur le **Listes de comptes** , cliquez sur la page **Modifier** sur la liste.
+Sur la page **Listes de comptes**, cliquez sur l’icône **Modifier** de la liste.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Sélectionner **Parcourir** et chargez votre nouveau fichier CSV. Ce fichier remplacera le fichier d’origine. Cliquez sur **Enregistrer**. Le nouveau fichier téléchargé restera dans un état en attente jusqu’à ce qu’il soit approuvé par le support Marketo. Dans un état en attente, le fichier d’origine restera principal.
+Sélectionnez **Parcourir** et téléchargez votre nouveau fichier CSV. Ce fichier remplacera le fichier d’origine. Cliquez sur **Enregistrer**. Le nouveau fichier téléchargé restera dans l’état en attente jusqu’à ce qu’il soit approuvé par l’assistance Marketo. Dans l’état en attente, le fichier d’origine restera actif.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
-Le fichier CSV remplacera le fichier existant. La liste existante restera active jusqu’à ce que le traitement du nouveau fichier soit terminé.
+Le fichier CSV remplace le fichier existant. La liste existante reste active jusqu’à ce que le traitement du nouveau fichier soit terminé.
 
 ## Suppression d’une liste de comptes nommés {#delete-a-named-account-list}
 
-1. Sur le **Listes de comptes** , cliquez sur l’icône Supprimer de la liste que vous souhaitez supprimer.
+1. Sur la page **Listes de comptes**, cliquez sur l’icône Supprimer de la liste que vous souhaitez supprimer.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -86,4 +86,4 @@ Le fichier CSV remplacera le fichier existant. La liste existante restera active
 
 >[!MORELIKETHIS]
 >
->[Création d’un segment à l’aide d’une liste de comptes](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[Créer un segment à l’aide d’une liste de comptes](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

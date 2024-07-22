@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une valeur conditionnelle à l’aide d’un champ de formule de Marketo Engage.
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
@@ -27,7 +27,7 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Sélectionner **[!UICONTROL Formule]** pour le **[!UICONTROL Type]**.
+1. Sélectionnez **[!UICONTROL Formule]** pour le **[!UICONTROL Type]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
@@ -35,7 +35,7 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Recherchez et sélectionnez votre champ de formule, puis cliquez sur **[!UICONTROL Modifier des règles]**.
+1. Recherchez et sélectionnez votre champ de formule, puis cliquez sur **[!UICONTROL Modifier les règles]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
    >[!TIP]
    >
-   >En savoir plus sur [jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >En savoir plus sur les [jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Vous pouvez maintenant ajouter le champ de formule en tant que jeton dans un email.
 
@@ -53,6 +53,6 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 
 >[!NOTE]
 >
->Les champs de formule peuvent être utilisés dans les colonnes Pages d’entrée, Emails et Liste dynamique . Les emails contenant des champs de formule peuvent _not_ être envoyé à l’aide d’une campagne par lots. Veuillez utiliser un [jeton de script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) dans ce scénario.
+>Les champs de formule peuvent être utilisés dans les colonnes Pages d’entrée, Emails et Liste dynamique . Les emails contenant des champs de formule peuvent _pas_ être envoyés à l’aide d’une campagne par lots. Utilisez un [jeton de script de courrier électronique](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) dans ce scénario.
 
 Bon travail ! Vous avez maintenant un champ intelligent qui sait quelle formule de salutation inclure en fonction du genre. Amuse-toi bien avec ça et deviens créatif.

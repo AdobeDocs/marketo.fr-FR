@@ -25,7 +25,7 @@ SLA signifie &quot;contrat de niveau de service&quot;. Ces étapes sont utilisé
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans la section Analytics, sélectionnez votre modèle existant, ou [créer une](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Dans la section Analytics, sélectionnez votre modèle existant ou [créez-en un](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -33,27 +33,27 @@ SLA signifie &quot;contrat de niveau de service&quot;. Ces étapes sont utilisé
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Pour ajouter une nouvelle étape SLA, cliquez sur le bouton **SLA** , puis effectuez un glisser-déposer vers n’importe quel emplacement de la zone de travail.
+1. Pour ajouter une nouvelle étape SLA, cliquez sur le bouton **SLA**, puis faites glisser et relâchez-le n’importe où dans la zone de travail.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Vous êtes libre de modifier la variable **Nom**, ajoutez une **Description** et ajustez la variable **Type** après l’ajout d’une étape. Vous pouvez également sélectionner **[Démarrage du suivi par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** à ce moment-là.
+1. Vous pouvez modifier le **Nom**, ajouter une **Description** et ajuster le **Type** après l’ajout d’une étape. Vous pouvez également sélectionner **[Commencer le suivi par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** à ce stade.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Modification d’une étape SLA {#edit-an-sla-stage}
 
-Lorsque vous sélectionnez une icône d’étape SLA, vous pouvez modifier le Nom, ajouter une Description et ajuster le Type. Vous pouvez également sélectionner [Démarrage du suivi par compte](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Lorsque vous sélectionnez une icône d’étape SLA, vous pouvez modifier le Nom, ajouter une Description et ajuster le Type. Vous pouvez également sélectionner [ Commencer le suivi par compte ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Cliquez sur une icône de scène SLA.
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Cliquez dans le **Nom** et **Description** pour modifier leur contenu.
+1. Cliquez dans les champs **Nom** et **Description** pour modifier leur contenu.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Sélectionnez la **Type** Menu déroulant à modifier.
+1. Sélectionnez la liste déroulante **Type** à modifier.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 

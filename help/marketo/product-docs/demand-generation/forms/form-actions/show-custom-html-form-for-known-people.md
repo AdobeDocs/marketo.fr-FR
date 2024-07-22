@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359644
-description: Afficher le formulaire de HTML personnalisé pour les personnes connues - Documents Marketo - Documentation du produit
-title: Afficher le formulaire de HTML personnalisé pour les personnes connues
+description: Afficher le formulaire d’HTML personnalisé pour les personnes connues - Documents Marketo - Documentation du produit
+title: Afficher le formulaire d’HTML personnalisé pour les personnes connues
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Afficher le formulaire de HTML personnalisé pour les personnes connues {#show-custom-html-form-for-known-people}
+# Afficher le formulaire d’HTML personnalisé pour les personnes connues {#show-custom-html-form-for-known-people}
 
 Si un visiteur est cookie (personne connue ayant fourni une adresse email dans le passé), alors pourquoi s’embêter avec le formulaire ? Donne-leur juste le bouton de téléchargement. Voici comment.
 
@@ -27,11 +27,11 @@ Si un visiteur est cookie (personne connue ayant fourni une adresse email dans l
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Définir si **Visiteur connu, Afficher**: to **HTML personnalisé**.
+1. Définissez Si **Visiteur connu, Afficher** : sur **HTML personnalisé**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Cliquez sur le bouton ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier la variable **HTML personnalisé** qui sera montré à des gens connus.
+1. Cliquez sur ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier l’ **HTML personnalisé** qui sera présenté aux personnes connues.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,8 +45,8 @@ Si un visiteur est cookie (personne connue ayant fourni une adresse email dans l
    |---|---|
    | `{{lead.FirstName}}` | Le prénom de la personne s’affiche. |
    | `{{lead.LastName}}` | Le nom de la personne s’affiche alors. |
-   | `{{form.Button:default=Download}}` | Le bouton du formulaire s’affiche alors. Remplacez la zone située après la balise `=` pour modifier le texte du bouton. |
-   | `{{form.NotYou:default=Not you?}}` | Un lien s’affiche alors si la personne est une autre. Remplacez la zone située après la balise `=` pour modifier le texte du lien. |
+   | `{{form.Button:default=Download}}` | Le bouton du formulaire s’affiche alors. Remplacez la zone située après le `=` pour modifier le texte du bouton. |
+   | `{{form.NotYou:default=Not you?}}` | Un lien s’affiche alors au cas où la personne serait une autre. Remplacez la zone située après le `=` pour modifier le texte du lien. |
 
    >[!CAUTION]
    >
@@ -66,7 +66,7 @@ Si un visiteur est cookie (personne connue ayant fourni une adresse email dans l
 
    >[!NOTE]
    >
-   >N’oubliez pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N’oubliez pas d’ [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    Un morceau de gâteau ! Vérifiez ce qu&#39;une personne verrait si elle revenait au même formulaire :
 

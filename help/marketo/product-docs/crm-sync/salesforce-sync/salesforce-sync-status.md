@@ -22,11 +22,11 @@ Les étapes de synchronisation reflètent les opérations push ou pull de chaque
 
 ## Afficher l’état de synchronisation {#view-sync-status}
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Sous [!UICONTROL Intégration], cliquez sur **Salesforce**, puis la variable **[!UICONTROL État de la synchronisation]** .
+1. Sous [!UICONTROL Intégration], cliquez sur **Salesforce**, puis sur l’onglet **[!UICONTROL État de synchronisation]**.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Sélectionnez la période et la période, puis cliquez sur la ou les listes déroulantes à filtrer [!UICONTROL Type d’objet], [!UICONTROL Type d’opération], et/ou [!UICONTROL Type d’état].
+1. Sélectionnez votre période et votre période, puis cliquez sur la ou les listes déroulantes pour filtrer par [!UICONTROL Type d’objet], [!UICONTROL Type d’opération] et/ou [!UICONTROL Type d’état].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Cliquez sur **[!UICONTROL Appliquer]**.
+1. Cliquez sur **[!UICONTROL Apply]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**ÉTAPE FACULTATIVE**: pour exporter les erreurs de synchronisation, cliquez sur **[!UICONTROL Exporter]**. Les données seront exportées au format CSV.
+**ÉTAPE FACULTATIVE** : pour exporter des erreurs de synchronisation, cliquez sur **[!UICONTROL Exporter]**. Les données seront exportées au format CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -78,7 +78,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
   </tr> 
   <tr> 
    <td colspan="1">Objet</td> 
-   <td colspan="1">Type d’objet </td> 
+   <td colspan="1">Type d'objet</td> 
    <td colspan="1">Contact, Personne, tâche, opportunité, prospect, Autres comme ci-dessous</td> 
   </tr>  
   <tr> 
@@ -102,7 +102,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">supprimé</td> 
+   <td colspan="1">Supprimé</td> 
    <td colspan="1">Nombre d'enregistrements supprimés</td> 
    <td colspan="1"></td> 
   </tr> 
@@ -119,9 +119,9 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
  </tbody> 
 </table>
 
-&#42;Les données sont restaurées à l’état d’intégrité précédent après l’échec de l’étape de synchronisation.
+&#42; Les données sont restaurées à l’état d’intégrité précédent après l’échec de l’étape de synchronisation.
 
-## Type d’objet {#object-type}
+## Type d&#39;objet {#object-type}
 
 <table> 
  <colgroup> 
@@ -135,19 +135,19 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
    <td colspan="1">Type de compte</td> 
   </tr> 
   <tr> 
-   <td colspan="1"> objets  personnalisés</td> 
+   <td colspan="1">Objets personnalisés</td> 
   </tr>  
   <tr> 
    <td colspan="1">Campagne</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Statut Membre de la campagne</td> 
+   <td colspan="1">Statut du membre de la campagne</td> 
   </tr>
   <tr> 
    <td colspan="1">Contact</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Modèle d’e-mail</td> 
+   <td colspan="1">Modèle d'e-mail</td> 
   </tr>  
   <tr> 
    <td colspan="1">Événement</td> 
@@ -159,7 +159,7 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
    <td colspan="1">Opportunité</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Rôle Contact d’opportunité</td> 
+   <td colspan="1">Rôle du contact d’opportunité</td> 
   </tr>  
   <tr> 
    <td colspan="1">Tâche</td> 
@@ -249,4 +249,4 @@ Par défaut, les statistiques sont triées selon le tout dernier démarrage. Vou
  </tbody> 
 </table>
 
-&#42;Le paramétrage de l&#39;identité graphique au niveau de l&#39;abonnement décide du libellé &quot;Lead&quot; ou &quot;Person&quot; dans le rapport.
+&#42;Le paramétrage de la marque au niveau de l&#39;abonnement décide du libellé - &quot;Lead&quot; ou &quot;Person&quot; dans le rapport.

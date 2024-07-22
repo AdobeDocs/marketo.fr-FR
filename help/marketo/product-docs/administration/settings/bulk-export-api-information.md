@@ -12,17 +12,17 @@ ht-degree: 8%
 
 # Informations sur l&#39;API d&#39;exportation en masse {#bulk-export-api-information}
 
-Découvrez comment vérifier combien [API d’extraction en bloc](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} votre instance de Marketo Engage a pris en charge la capacité au cours des sept derniers jours.
+Découvrez comment vérifier la capacité de l’ [API d’extraction en bloc](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} prise en charge par votre instance de Marketo Engage au cours des sept derniers jours.
 
 >[!NOTE]
 >
 >Si vous avez besoin de capacités supplémentaires, contactez votre gestionnaire de compte.
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Cliquez sur **[!UICONTROL Services web]**.
+1. Cliquez sur **[!UICONTROL Services Web]**.
 
    ![](assets/bulk-export-api-information-2.png)
 

@@ -17,7 +17,7 @@ Une liste de contrôle est une liste de comptes de messagerie de plusieurs fourn
 
 >[!IMPORTANT]
 >
->Cet article est destiné à ceux qui ont actuellement un abonnement à Everest actif. Si vous utilisez Inbox Tracker par Bird (anciennement MessageBird), vos tutoriels [peut être consulté ici](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>Cet article est destiné à ceux qui ont actuellement un abonnement à Everest actif. Si vous utilisez Inbox Tracker by Bird (anciennement MessageBird), vos tutoriels [ se trouvent ici](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importation d’une liste de contrôle {#import-a-seed-list}
 
@@ -25,15 +25,15 @@ Une liste de contrôle est une liste de comptes de messagerie de plusieurs fourn
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. L’application Everest s’ouvre. Dans le volet de navigation de gauche, cliquez sur **En vol** et sélectionnez **Placement de la boîte de réception**.
+1. L’application Everest s’ouvre. Dans le volet de navigation de gauche, cliquez sur **En vol** et sélectionnez **Inbox Placement**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Cliquez sur le bouton **Gérer la liste de contrôle** .
+1. Cliquez sur l’onglet **Gérer la liste de contrôle** .
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Cliquez sur la liste déroulante Actions et sélectionnez **Télécharger 1 par ligne**.
+1. Cliquez sur la liste déroulante Actions et sélectionnez **Télécharger un par ligne**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ Une liste de contrôle est une liste de comptes de messagerie de plusieurs fourn
    >
    >Utilisez l’outil d’optimisation de la liste de contrôle (en haut de la page) si vous souhaitez qu’Everest optimise votre liste pour vous.
 
-1. Après l’exportation, la liste s’affiche sous forme de fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la, et [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) dans votre instance Marketo sous la forme d’une liste statique.
+1. Après l’exportation, la liste s’affiche sous forme de fichier .txt dans le dossier des téléchargements de votre navigateur. Récupérez-la et [importez](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) dans votre instance Marketo en tant que liste statique.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

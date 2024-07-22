@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Modifier l’étiquette Par défaut De l’email et De {#change-the-default-from-email-and-from-label}
 
-Chaque utilisateur administrateur peut modifier les valeurs par défaut pour **[!UICONTROL À partir du courrier électronique]** et **[!UICONTROL À partir du libellé]** afin que, lors de la création de nouveaux emails, ces valeurs par défaut soient utilisées.
+Chaque utilisateur administrateur a la possibilité de modifier les valeurs par défaut pour **[!UICONTROL From Email]** et **[!UICONTROL From Label]** afin que, lorsqu’ils créent de nouveaux emails, ces valeurs par défaut soient utilisées.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
@@ -27,7 +27,7 @@ Chaque utilisateur administrateur peut modifier les valeurs par défaut pour **[
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Saisissez les valeurs par défaut à **[!UICONTROL À partir du courrier électronique]** et **[!UICONTROL À partir du libellé]** puis cliquez sur **[!UICONTROL Enregistrer les modifications]**.
+1. Saisissez les valeurs par défaut pour **[!UICONTROL From Email]** et **[!UICONTROL From Label]**, puis cliquez sur **[!UICONTROL Save Changes]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

@@ -23,7 +23,7 @@ Informations supplémentaires sur les autorisations :
 
 ## Autorisations disponibles {#available-permissions}
 
-Lorsque vous [créer ou modifier un rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), vous pouvez sélectionner l’une des autorisations suivantes pour autoriser ce rôle en cochant les cases appropriées.
+Lorsque vous [créez ou modifiez un rôle](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), vous pouvez sélectionner l’une des autorisations suivantes pour autoriser ce rôle en cochant les cases appropriées.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -33,15 +33,15 @@ Affichez et apportez des modifications aux paramètres dans la section Mon compt
 
 * Accès à Adobe Connect : permet aux utilisateurs d’accéder à l’écran Adobe Connect.
 * Accès à Adobe Experience Manager&#42; - Donne aux utilisateurs l’accès à l’écran Adobe Experience Manager
-* Mappage de l’organisation d’accès&#42; - Donne aux utilisateurs l’accès à l’écran Mappage de l’organisation Adobe
-* Accéder au journal d’audit de l’administrateur&#42; - Donne aux utilisateurs l’accès à l’écran Journal d’audit d’administration
-* Accéder au journal d’audit d’accès&#42; - Donne aux utilisateurs l’accès au journal d’audit d’accès
+* Accès au mappage de l’organisation Adobe&#42; - Donne aux utilisateurs l’accès à l’écran de mappage de l’organisation Adobe
+* Accéder au journal d’audit de l’administrateur &#42; : permet aux utilisateurs d’accéder à l’écran Journal d’audit d’administration
+* Accéder au journal d’audit d’accès &#42; - Donne aux utilisateurs l’accès au journal d’audit d’accès
 * Accéder au journal d’audit : permet aux utilisateurs d’accéder au journal d’audit des ressources et au journal d’audit de l’administrateur.
 * Accès à CAPTCHA - Accès à l’écran CAPTCHA
 * Accès aux canaux : permet aux utilisateurs d’accéder uniquement à la balise Channel et non à d’autres balises personnalisées.
 * Limite de communication d’accès : permet aux utilisateurs d’activer une limite de communication dans Admin
-* Accès au CRM : permet aux utilisateurs d’accéder au CRM, tel que [!DNL Salesforce] ou [!DNL Microsoft Dynamics], dans Admin
-* Accès [[!DNL Data.com]](https://data.com) - Donne aux utilisateurs l’accès à l’action de flux Data.com
+* Accès à la gestion de la relation client : permet aux utilisateurs d’accéder à la gestion de la relation client, comme [!DNL Salesforce] ou [!DNL Microsoft Dynamics], dans Admin.
+* Accéder à [[!DNL Data.com]](https://data.com) - Donne aux utilisateurs l’accès à l’action de flux Data.com
 * Accès à l’administrateur des courriers électroniques : permet aux utilisateurs d’accéder à l’administrateur des courriers électroniques pour modifier les paramètres par défaut, tels que le désabonnement et les domaines de marque.
 * Accès aux partenaires d’événement : permet aux utilisateurs d’accéder à LaunchPoint dans Admin.
 * Gestion des champs d’accès : permet aux utilisateurs d’accéder à la gestion des champs dans Admin.
@@ -50,28 +50,28 @@ Affichez et apportez des modifications aux paramètres dans la section Mon compt
 * Emplacement d’accès : permet aux utilisateurs d’accéder à l’emplacement dans l’administration pour définir la langue, le paramètre régional, le fuseau horaire et la devise par défaut.
 * Historique de connexion des accès : permet aux utilisateurs d’accéder à l’historique de connexion des utilisateurs dans le journal d’audit
 * Paramètres de connexion d’accès : permet aux utilisateurs d’accéder aux paramètres de connexion dans les paramètres Administration pour la sécurité, les restrictions d’IP et les rapports de liste dynamique.
-* Accès à une nouvelle expérience&#42; - Donne aux utilisateurs l’accès à l’écran Nouvelle expérience
+* Accès à la nouvelle expérience&#42; - Donne aux utilisateurs l’accès à l’écran Nouvelle expérience.
 * Accès à l’activité personnalisée Marketo - Donne aux utilisateurs l’accès aux activités personnalisées Marketo dans Admin
 * Accès à l’objet personnalisé de Marketo - Donne aux utilisateurs l’accès aux objets personnalisés de Marketo dans Admin
-* Accès [!DNL Munchkin] - Accès des utilisateurs GI à [!DNL Munchkin] dans Admin, pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API
-* Accès aux audiences prédictives&#42; - Donne aux utilisateurs l’accès à l’écran Predictive Audiences
+* Accès à [!DNL Munchkin] - Les utilisateurs GI ont accès à [!DNL Munchkin] dans Admin pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API.
+* Accès aux audiences prédictives&#42; - Donne aux utilisateurs l’accès à l’écran des audiences prédictives
 * Accès à Revenue Cycle Analytics : permet aux utilisateurs d’accéder à Revenue Cycle Analytics dans l’administration pour définir le résumé de synchronisation et l’attribution.
 * Rôles d’accès : permet aux utilisateurs de gérer et de modifier des rôles, mais pas aux utilisateurs.
 * Accès à Sales Insight : permet aux utilisateurs de gérer Sales Insight dans Admin pour définir l’état, la configuration de l’API, la notation des personnes et d’autres paramètres.
 * Connexion unique : permet aux utilisateurs de gérer l’authentification unique dans Admin pour activer SAML et utiliser les paramètres SAML et les URL de page de redirection.
 * Accéder à la campagne dynamique : permet aux utilisateurs d’accéder à la campagne dynamique dans l’administration pour limiter les limitations sur les personnes qualifiées.
-* Accès à l’API SOAP : permet aux utilisateurs d’accéder à la gestion des API SOAP dans les services web dans Admin.
+* Accès à SOAP API : donne aux utilisateurs l’accès à la gestion des API SOAP dans les services web dans Admin.
 * Accéder aux balises : permet aux utilisateurs d’accéder à toutes les balises personnalisées, à l’exception de la balise Canal.
 * Accéder à la poitrine au trésor : donne aux utilisateurs accès aux fonctionnalités expérimentales de la poitrine au trésor dans l’administration
 * Accès aux utilisateurs : donne aux utilisateurs l’accès à la modification et à la gestion des utilisateurs (mais pas aux rôles) dans l’administration.
 * Accès aux webhooks : permet aux utilisateurs de se connecter aux webhooks dans Admin pour définir les détails et les mappages de réponse.
 * Accéder aux espaces de travail et aux partitions : permet aux utilisateurs de créer, modifier et supprimer des espaces de travail et des partitions dans Admin.
 
-_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute interruption pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous vous indiquerons comment l’implémenter lorsqu’elle sera active à la mi-2024._
 
 ## Accéder à l’API  {#access-api}
 
-Donne aux utilisateurs l’accès au **API uniquement** **Rôle** accès aux différentes API répertoriées ci-dessous.
+Donne aux utilisateurs disposant de l’**API Only** **Rôle** l’accès aux API individuelles répertoriées ci-dessous.
 
 * Approuver les ressources
 * Lancer la campagne
@@ -101,11 +101,11 @@ Donne aux utilisateurs l’accès au **API uniquement** **Rôle** accès aux dif
 Donne aux utilisateurs l’accès aux onglets Analytics, aux statistiques sur les e-mails, aux rapports et aux trois éléments ci-dessous, sauf s’ils ne sont pas cochés.
 
 * Accéder à l’Explorateur des recettes : la désactivation supprime l’accès de l’utilisateur à l’Explorateur des recettes.
-* Créer un rapport&#42; - Permet aux utilisateurs d’accéder à la création, au clonage, à la lecture, à la mise à jour et au déplacement de ressources de rapport dans Analytics et les activités marketing, ainsi que dans les ressources de modélisation de cycle du revenu.
+* Créer un rapport&#42; - Permet aux utilisateurs d’accéder à la création, au clonage, à la lecture, à la mise à jour et au déplacement des ressources du rapport dans Analytics et les activités marketing, ainsi que dans les ressources Modeler de Recettes Cycle
 * Supprimer le rapport : la désélection supprime la possibilité pour l’utilisateur de supprimer des rapports.
 * Exportation des données Analytics : la désélection supprime la possibilité pour l’utilisateur d’exporter des données Analytics.
 
-_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute interruption pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous vous indiquerons comment l’implémenter lorsqu’elle sera active à la mi-2024._
 
 ## Accéder aux présentations du calendrier {#access-calendar-presentations}
 
@@ -119,7 +119,7 @@ Permet aux utilisateurs d’accéder à l’onglet Design Studio et à la vue de
 
 * Accès aux e-mails
    * Modifier le courrier électronique : permet aux utilisateurs de modifier, créer et cloner des courriers électroniques.
-      * Rendre le message électronique opérationnel : permet aux utilisateurs de rendre un message électronique opérationnel. Voir : [Rendre un message électronique opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Rendre le message électronique opérationnel : permet aux utilisateurs de rendre un message électronique opérationnel. Voir : [Rendre un courrier électronique opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Valider le courrier électronique : permet aux utilisateurs d’approuver les courriers électroniques.
       * Supprimer le courrier électronique : permet aux utilisateurs de supprimer des courriers électroniques.
@@ -186,11 +186,11 @@ Visualisez la base de données et affichez et modifiez des listes dynamiques/sta
 * Importer l’objet personnalisé
 * Importer la liste
 * Fusionner les personnes
-* Exécuter des actions de flux unique : permet aux utilisateurs de s’exécuter. **Modifier la valeur des données** étape de flux sur les personnes de la base de données
+* Exécuter des actions de flux unique : permet aux utilisateurs d’exécuter l’étape de flux **Modifier la valeur de données** sur les personnes de la base de données.
 
 * Afficher les données d’opportunité : masque les informations d’opportunité sur la page des détails de la personne.
 
-_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute interruption pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous vous indiquerons comment l’implémenter lorsqu’elle sera active à la mi-2024._
 
 ## Accès aux activités marketing {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Accéder à la SEO
 * Gérer une SEO
 * Standard SEO
 
-_&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous communiquerons comment la mettre en oeuvre lorsqu&#39;elle sera active à la mi-2024._
+_&#42;Pour éviter toute interruption pour les utilisateurs existants, cette autorisation est introduite en mode passif et est visible, mais pas accessible pour le moment. Nous vous indiquerons comment l’implémenter lorsqu’elle sera active à la mi-2024._
 
 ## Ciblage et personnalisation {#targeting-and-personalization}
 
@@ -237,5 +237,5 @@ _&#42;Pour éviter toute perturbation pour les utilisateurs existants, cette aut
 
 Gestion de l&#39;espace de travail
 
-* Accès administrateur pour un espace de travail spécifique (uniquement si les espaces de travail sont activés).
+* Accès administrateur pour un Workspace spécifique (uniquement si les espaces de travail sont activés).
 * Déplacer des ressources entre les espaces de travail (uniquement si les espaces de travail sont activés)

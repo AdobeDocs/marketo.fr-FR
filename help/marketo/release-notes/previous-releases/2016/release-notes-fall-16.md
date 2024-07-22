@@ -53,7 +53,7 @@ Désormais, vous pouvez affecter des équipes de compte à des comptes nommés d
 
 **API REST**
 
-Cette version vous permet également de gérer des attributs de compte et des scores de comptes nommés dans ABM à l’aide de l’API REST Marketo. Pour plus d’informations sur les opérations de l’API, consultez le [Site web des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Cette version vous permet également de gérer des attributs de compte et des scores de comptes nommés dans ABM à l’aide de l’API REST Marketo. Pour plus d’informations sur les opérations de l’API, consultez le [site web des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Améliorations du journal d’audit](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -65,9 +65,9 @@ Le journal d’audit fournit un historique complet des modifications apportées 
 
 L’époque où vous deviez vous inquiéter de l’envoi d’emails transactionnels à des personnes de votre base de données qui se sont désabonnées était révolue. Vous pouvez maintenant spécifier quels utilisateurs peuvent rendre un email opérationnel ou modifier des emails opérationnels.
 
-**Modification des restrictions de campagne**
+**Modifier les restrictions de campagne**
 
-Pourquoi définir [restrictions de campagne](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) si vous ne pouvez pas les appliquer ? Lorsque vous définissez Paramètres de limite de campagne pour limiter le nombre de personnes dans votre base de données pouvant être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
+Pourquoi définir des [restrictions de campagne](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) si vous ne pouvez pas les appliquer ? Lorsque vous définissez Paramètres de limite de campagne pour limiter le nombre de personnes dans votre base de données pouvant être ciblées avec une seule campagne, vous avez désormais la possibilité de restreindre les utilisateurs qui peuvent remplacer ces paramètres lors de la planification d’une campagne.
 
 ## [Son pour les notifications push mobiles](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -80,18 +80,18 @@ Donnez à votre notification push iOS une plus grande richesse en activant le so
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Sales Insight compatible avec Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [ Sales Insight compatible avec Salesforce Encryption ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight est désormais compatible avec Salesforce Shield Encryption. Tous les clients Sales Insight doivent effectuer une mise à niveau vers ce dernier package géré (version 1.4359.2), à savoir : [disponible sur Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight est désormais compatible avec Salesforce Shield Encryption. Tous les clients Sales Insight doivent effectuer une mise à niveau vers ce dernier package géré (version 1.4359.2), qui est [ disponible sur Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [API de comptes nommés](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Avec cette version, les utilisateurs de Marketo ABM peuvent gérer des comptes nommés via l’API des comptes nommés. Les utilisateurs peuvent créer, mettre à jour et supprimer des comptes nommés, ainsi que lire et mettre à jour des scores de compte nommé ABM.
 
-## [Prise en charge de l’API de l’éditeur de messagerie v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [Prise en charge de l’API de l’éditeur de messagerie électronique v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Gérez les variables et les modules pour les emails au format v2.0 à l’aide de l’API REST Marketo.
 
 ## [Modifications de la synchronisation Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-L’intégration de Marketo Salesforce évolue afin d’améliorer la synchronisation des champs Marketo avec Salesforce. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous avez ou non besoin, vous pouvez choisir les champs que vous souhaitez inclure. Pour plus d’informations, consultez notre documentation ici : [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+L’intégration de Marketo Salesforce évolue afin d’améliorer la synchronisation des champs Marketo avec Salesforce. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous avez ou non besoin, vous pouvez choisir les champs que vous souhaitez inclure. Pour plus d&#39;informations, consultez notre documentation ici : [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

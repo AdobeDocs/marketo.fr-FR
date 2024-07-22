@@ -36,7 +36,7 @@ Les fonctionnalités incluent :
 
    * Par exemple, une personne recherche, voit et clique sur une publicité, puis remplit un formulaire en ligne. Ensuite, il reçoit une démonstration hors ligne et devient une opportunité CRM. C&#39;est là que l&#39;annonceur le cible.
 
-* Reciblage des visiteurs d’un site web à l’aide de [Personnalisation web](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, pour les ramener à votre site web
+* Reciblage des visiteurs d’un site Web, à l’aide de [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, pour les renvoyer vers votre site Web.
 
    * Personnaliser par segment ou par secteur vertical
 
@@ -44,10 +44,10 @@ Les fonctionnalités incluent :
 
 Vous pouvez utiliser les intégrations pour :
 
-* [Ajout de Google AdWords en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [Ajout de pistes à une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Ajouter Google AdWords as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Ajouter des pistes à une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
 * [Création d’une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [Configuration des conversions hors ligne de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [ Configuration de conversions hors ligne Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
 * [Utilisation d’une liste Marketo ou d’une liste dynamique en tant que segment d’audience LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | Données d’audience | Ingestion de piste | Conversion hors ligne |

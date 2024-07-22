@@ -19,19 +19,19 @@ Vous pouvez archiver un programme, mais parfois vous voulez simplement vous en d
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Actions de programme]** et sélectionnez **[!UICONTROL Supprimer]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions de programme]** et sélectionnez **[!UICONTROL Supprimer]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Sélectionnez le bouton radio &quot;Tout supprimer&quot;. Vérifiez les effets de la suppression du programme, puis cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
+1. Sélectionnez le bouton radio &quot;Tout supprimer&quot;. Passez en revue les effets de la suppression du programme, puis cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
 
 >[!TIP]
 >
->L’archivage des programmes conserve les données du programme mais met le programme hors de votre portée. Sélectionnez cette option, puis cliquez sur **[!UICONTROL Suivant]** pour en savoir plus sur l’archivage.
+>L’archivage des programmes conserve les données du programme mais met le programme hors de votre portée. Sélectionnez cette option, puis cliquez sur **[!UICONTROL Suivant]** pour afficher plus de détails sur l’archivage.
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Fait. C&#39;est comme si le programme n&#39;avait jamais existé.
+C&#39;est fait. C&#39;est comme si le programme n&#39;avait jamais existé.
 
 ## Pourquoi ne puis-je pas supprimer mon programme ? {#why-cant-i-delete-my-program}
 
@@ -43,7 +43,7 @@ Pour résoudre le problème, vous devrez peut-être effectuer une analyse approf
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Cliquez sur **[!UICONTROL Utilisé par]** pour voir où la ressource est utilisée.
+1. Cliquez sur **[!UICONTROL Used By]** pour voir où la ressource est en cours d’utilisation.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

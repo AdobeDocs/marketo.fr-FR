@@ -12,7 +12,7 @@ ht-degree: 7%
 
 # Colonnes de courrier électronique et mise en page de la page de courrier électronique {#email-columns-and-email-page-layout}
 
-Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit visible dans la section Email de la fonction [Centre de commandes](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Vos paramètres de configuration seront enregistrés pour chaque sous-dossier de courrier électronique (par exemple, Délivrés, En échec, Planifiés, etc.).
+Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit visible dans la section Email du [Centre de commandes](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Vos paramètres de configuration seront enregistrés pour chaque sous-dossier de courrier électronique (par exemple, Délivrés, En échec, Planifiés, etc.).
 
 ## Colonnes de courriel {#email-columns}
 
@@ -64,7 +64,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
   </tr> 
   <tr> 
    <td><strong>État de l’e-mail</td> 
-   <td>État dans lequel se trouve le courrier électronique. Les états incluent : Brouillon, Planifié, En Cours, Indésirable, Refusé, Échec, Envoyé. Les emails envoyés affichent un flux d’activité qui indique le nombre de consultations, de clics et de réponses qui ont eu lieu sur cet email.</td> 
+   <td>État dans lequel se trouve le courrier électronique. Les états incluent : Version préliminaire, Planifiée, En Cours, Indésirable, Rebond, Échec, Envoyé. Les emails envoyés affichent un flux d’activité qui indique le nombre de consultations, de clics et de réponses qui ont eu lieu sur cet email.</td> 
   </tr> 
   <tr> 
    <td><strong>Date de création</td> 
@@ -75,7 +75,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Date de la dernière mise à jour de l’email.</td> 
   </tr> 
   <tr> 
-   <td><strong>Canal de livraison</td> 
+   <td><strong>Canal d’envoi</td> 
    <td>Nom du canal de diffusion utilisé pour l’envoi de l’email.</td> 
   </tr> 
   <tr> 
@@ -95,12 +95,12 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Affiche une coche si le courrier électronique a été envoyé dans le cadre d’un message électronique de groupe.</td> 
   </tr> 
   <tr> 
-   <td><strong>Échéance de tâche</td> 
+   <td><strong>Échéance de la tâche</td> 
    <td>Affiche la date d’échéance des tâches liées au courrier électronique. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
    <td><strong>Action d’e-mail</td> 
-   <td>Boutons d’action rapide pouvant être utilisés pour exécuter une action sur l’email. Selon l’état de l’email, les actions suivantes peuvent être disponibles : Archivage, Réussite, Suppression, Réessayer Envoi, Désarchivage.</td> 
+   <td>Boutons d’action rapide pouvant être utilisés pour exécuter une action sur l’email. Selon l’état de l’email, les actions suivantes peuvent être disponibles : Archiver, Succès, Supprimer, Réessayer l’envoi, Désarchiver.</td> 
   </tr> 
   <tr> 
    <td><strong>Type de tâche</td> 
@@ -121,11 +121,11 @@ Vous pouvez configurer votre mise en page en procédant comme suit.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. Sélectionnez la **Emails** .
+1. Sélectionnez la section **Emails** .
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 
-1. Cliquez sur le bouton de configuration. Les options disponibles sont les suivantes : choix du nombre de lignes souhaité, sélection des champs à afficher et sélection de l’option permettant de regrouper les emails dans un seul élément de la grille (ou si vous souhaitez que tous les emails faisant partie d’une grille d’email s’affichent comme un seul élément).
+1. Cliquez sur le bouton de configuration. Vos options sont les suivantes : choisir le nombre de lignes souhaité, sélectionner les champs à afficher et choisir si vous souhaitez que les emails de groupe soient regroupés en un seul élément de la grille (ou si vous souhaitez que tous les emails faisant partie d’une grille d’email s’affichent comme un seul élément).
 
    ![](assets/email-columns-and-email-page-layout-3.png)
 

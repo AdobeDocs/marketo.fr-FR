@@ -6,7 +6,7 @@ exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,23 @@ Marketo Sales Insight utilise des étoiles et des flammes pour hiérarchiser les
 >
 >**Autorisations d’administrateur requises**
 
-1. Sous Admin, cliquez sur **Statistiques des ventes**.
+1. Sous Admin, cliquez sur **Sales Insight**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Sous , **Paramètres de notation des pistes** , cliquez sur **Modifier**.
+1. Dans la section **Paramètres de score de piste**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Sélectionnez la variable **Méthode de notation** de votre choix.
+1. Sélectionnez la **Méthode de notation** de votre choix.
 
    >[!NOTE]
    >
    >**Définition**
    >
-   >**Dynamique** - Est une valeur en pourcentage dérivée de [données relatives](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). C&#39;est génial. Cette méthode est recommandée.
+   >**Dynamique** - Valeur en pourcentage dérivée de [données relatives](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). C&#39;est génial. Cette méthode est recommandée.
    >
-   >**Statique** - Permet de définir des scores exacts - plus de pourcentages, plus de sauces secrètes.
+   >**Static** - Permet de définir des scores exacts - plus de pourcentages, plus de sauces secrètes.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 

@@ -15,13 +15,13 @@ ht-degree: 4%
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 17. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
 
-Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque**: si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
+Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité. **Remarque** : si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
-## [Forms linkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[Forms linkedIn Lead Gen](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sont un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de pistes sur LinkedIn. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser avec Marketo, où des processus de suivi automatisés et des activités d’acheminement de piste peuvent se produire.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) est un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de pistes sur LinkedIn. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser avec Marketo, où des processus de suivi automatisés et des activités d’acheminement de piste peuvent se produire.
 
-L’intégration de Marketo avec LinkedIn Lead Gen Forms capture automatiquement les informations fournies par un prospect dans le formulaire Lead Gen. Les actions de suivi et les notifications peuvent alors être automatisées à l’aide de la nouvelle **Remplit le formulaire de génération de piste LinkedIn** déclencher et filtrer.
+L’intégration de Marketo avec LinkedIn Lead Gen Forms capture automatiquement les informations fournies par un prospect dans le formulaire Lead Gen. Les actions de relance et les notifications peuvent ensuite être automatisées à l’aide du nouveau déclencheur et filtre **Remplit le formulaire de piste LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
@@ -41,11 +41,11 @@ Transférez facilement de grandes quantités de données sur les personnes et le
 
 ## Améliorations ABM {#abm-enhancements}
 
-**[Champs personnalisés sur les comptes nommés ABM](https://docs.marketo.com/x/1wnG)**
+**[Champs personnalisés sur des comptes nommés ABM](https://docs.marketo.com/x/1wnG)**
 
 Marketo ABM vous permet désormais de créer jusqu’à 10 champs personnalisés sur vos comptes nommés. Vous pouvez mapper ces champs personnalisés à des champs de votre objet de compte CRM. Marketo ABM synchronisera alors les données, ce qui vous permettra d’étendre vos comptes nommés ABM et de piloter votre marketing.
 
-**[Score centile sur les comptes nommés ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Score centile sur comptes nommés ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Les scores du compte nommé peuvent varier sensiblement. Marketo ABM calcule désormais automatiquement un centile pour chacun de vos scores, de sorte que vous pouvez voir en un coup d’oeil où chaque compte nommé est classé parmi vos autres comptes nommés.
 
@@ -89,7 +89,7 @@ L’option Archiver est un nouvel état des campagnes Web qui permet d’archive
 
 **[Localisation](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-La personnalisation web est désormais proposée dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
+Web Personalization est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
 ## Amélioration prédictive {#predictive-enhancements}
 

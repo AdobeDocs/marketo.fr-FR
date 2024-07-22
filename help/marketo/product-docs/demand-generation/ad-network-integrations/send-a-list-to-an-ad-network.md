@@ -16,7 +16,7 @@ Découvrez comment envoyer une liste statique à LinkedIn, Facebook ou Google.
 
 ## Comment envoyer une liste {#how-to-send-a-list}
 
-1. Dans Marketo Engage, sélectionnez votre liste, puis cliquez sur le bouton **[!UICONTROL Actions de liste]** , puis sélectionnez **[!UICONTROL Envoyer au réseau publicitaire]**.
+1. Dans Marketo Engage, sélectionnez votre liste, cliquez sur la liste déroulante **[!UICONTROL Actions de liste]**, puis sélectionnez **[!UICONTROL Envoyer vers le réseau publicitaire]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
@@ -24,7 +24,7 @@ Découvrez comment envoyer une liste statique à LinkedIn, Facebook ou Google.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Audience]** et sélectionnez l’audience souhaitée.
+1. Cliquez sur la liste déroulante **[!UICONTROL Audience]** et sélectionnez l’audience souhaitée.
 
    ![](assets/send-a-list-to-an-ad-network-3.png)
 
@@ -32,13 +32,13 @@ Découvrez comment envoyer une liste statique à LinkedIn, Facebook ou Google.
    >
    >Si vous avez besoin de vérifier, vous pouvez voir l&#39;audience de destination vers laquelle une liste est synchronisée à partir de l&#39;onglet Statut .
 
-1. Sélectionnez le type push de votre choix, puis cliquez sur **[!UICONTROL Mettre à jour]**.
+1. Choisissez le type push de votre choix et cliquez sur **[!UICONTROL Mettre à jour]**.
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >Si vous sélectionnez &quot;Activer la synchronisation continue de l’audience&quot;, Marketo met la liste à jour dans le réseau publicitaire sélectionné au fur et à mesure que la liste change dans votre instance Marketo. Nous ajoutons tous deux _et_ supprimer des personnes de l’audience si elles sont ajoutées/supprimées de la liste statique ;
+   >Si vous sélectionnez &quot;Activer la synchronisation continue de l’audience&quot;, Marketo met la liste à jour dans le réseau publicitaire sélectionné au fur et à mesure que la liste change dans votre instance Marketo. Nous ajoutons tous deux _et_ supprimons des personnes de l’audience si elles sont ajoutées/supprimées de la liste statique.
 
 1. Et c&#39;est tout ! Cliquez sur **[!UICONTROL OK]** pour quitter.
 

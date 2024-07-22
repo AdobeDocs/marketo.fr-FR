@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Connexion des ventes Connectez-vous à votre environnement de test Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[Connecter les ventes à votre sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. Dans Sales Connect, cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Paramètres**.
+1. Dans Sales Connect, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-3.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Cliquez sur **Installation des personnalisations**.
+1. Cliquez sur **Installer les personnalisations**.
 
    ![](assets/three-3.png)
 

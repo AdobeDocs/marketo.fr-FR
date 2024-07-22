@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Personnalisez les rapports de l’explorateur de recettes en faisant glisser et 
 <table> 
  <tbody> 
   <tr> 
-   <th>Type de champ :</th> 
+   <th>Type de champ</th> 
    <th>Description</th> 
   </tr> 
   <tr> 
@@ -44,7 +44,7 @@ Personnalisez les rapports de l’explorateur de recettes en faisant glisser et 
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
-   Super ! Vous avez maintenant un rapport complet !
+   Super ! Vous avez maintenant un rapport complet !
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 

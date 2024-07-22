@@ -6,14 +6,14 @@ exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
 
 # Créer une campagne web de widgets {#create-a-new-widget-web-campaign}
 
-Une campagne web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site web, une [en remplacement de zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), une fonction de widget ou une alerte par e-mail. La campagne web de widgets est un texte ou une bannière qui s’affiche sur le côté vertical de votre page web avec la possibilité de se développer et de se contracter, tout en restant fixe sur la page du site web tout au long de la visite.
+Une campagne web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site web, un [remplacement de zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), une fonction de widget ou une alerte par e-mail. La campagne web de widgets est un texte ou une bannière qui s’affiche sur le côté vertical de votre page web avec la possibilité de se développer et de se contracter, tout en restant fixe sur la page du site web tout au long de la visite.
 
 ## Créer une campagne web de widgets {#create-a-widget-web-campaign}
 
@@ -21,11 +21,11 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Sélectionner **Créer une campagne web**.
+1. Sélectionnez **Créer une campagne web**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Sélectionnez la **Widget** type de campagne.
+1. Sélectionnez le type de campagne **Widget**.
 
    ![](assets/3.png)
 
@@ -51,7 +51,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
   </tr> 
   <tr> 
    <td colspan="1"><strong>Afficher activée</strong></td> 
-   <td colspan="1">Permet à <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personnaliser quand et comment</a> votre campagne web s’affiche.</td> 
+   <td colspan="1">Permet de <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personnaliser quand et comment </a> votre campagne web s'affiche.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animation d’entrée/sortie</strong></td> 
@@ -59,7 +59,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
   </tr> 
   <tr> 
    <td colspan="1"><strong>Position</strong></td> 
-   <td colspan="1">Sélectionnez l’une des quatre options pour la position du widget sur la page : Droite, Gauche, Haut, Bas. Le % de position correspond au pourcentage de position selon lequel le widget apparaîtra dans la page du navigateur (par exemple, "50 % en bas" fera apparaître le widget à mi-chemin du bas de la page, "10 % à gauche" fera apparaître le widget en haut à gauche de la page, etc.).<br></td> 
+   <td colspan="1">Sélectionnez l’une des quatre options pour la position du widget sur la page : droite, gauche, haut, bas. Le % de position correspond au pourcentage de position selon lequel le widget apparaîtra dans la page du navigateur (par exemple, "50 % en bas" fera apparaître le widget à mi-chemin du bas de la page, "10 % à gauche" fera apparaître le widget en haut à gauche de la page, etc.).<br></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Couleur du widget</strong></td> 
@@ -67,7 +67,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Bouton Widget</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Personnalisez le bouton du widget lui-même.<br>Flèche : Permet de choisir parmi plusieurs icônes différentes dans le menu déroulant de droite. La liste déroulante de gauche détermine sa couleur.<br>Personnalisé : Insérez l’URL de toute image hébergée. Types de fichiers acceptés : .JPEG, .GIF (y compris animé), .PNG, .APNG, .SVG, .BMP.<br>Texte : Le widget peut être du texte : personnalisez sa couleur, sa taille et sa police.</td> 
+   <td colspan="1" rowspan="1">Personnalisez le bouton du widget.<br>Flèche : permet de choisir parmi plusieurs icônes différentes dans le menu déroulant de droite. La liste déroulante de gauche détermine sa couleur.<br>Personnalisé : insérez l’URL de toute image hébergée. Types de fichiers acceptés : .JPEG, .GIF (y compris animé), .PNG, .APNG, .SVG, .BMP.<br>Texte : le widget peut être du texte : personnalisez sa couleur, sa taille et sa police.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Fixe</strong></td> 
@@ -75,7 +75,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
   </tr> 
   <tr> 
    <td colspan="1"><strong>Minimiser le widget sur l’affichage de campagne</strong></td> 
-   <td colspan="1">Insère un widget, mais le conserve réduit, ce qui oblige l’utilisateur à cliquer dessus pour l’agrandir.</td> 
+   <td colspan="1">Insère un widget, mais le conserve réduit, ce qui oblige l’utilisateur à cliquer dessus pour le maximiser.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Restaurer la valeur par défaut </strong></td> 
@@ -83,10 +83,10 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aperçu sur le site </strong></td> 
-   <td colspan="1">Prévisualisez les campagnes avant de les lancer.<br> 
+   <td colspan="1">Prévisualisez les campagnes avant leur lancement.<br> 
     <ul> 
-     <li>URL : saisissez un exemple d’URL où s’exécuterait la campagne pour afficher un exemple d’aperçu de l’aspect de la campagne.</li> 
-     <li>Aperçu - Cliquez sur <strong>Aperçu </strong>pour ouvrir une nouvelle fenêtre de l’exemple d’URL afin de visualiser la réaction de l’opération (Ajouter la variable <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Extension Chrome</a> pour la meilleure expérience de prévisualisation de campagne web.) </li> 
+     <li>URL : saisissez un exemple d’URL où s’exécuterait la campagne pour afficher un exemple d’aperçu de l’aspect réel de la campagne.</li> 
+     <li>Aperçu : cliquez sur <strong>Aperçu </strong> pour ouvrir une nouvelle fenêtre de l’exemple d’URL afin de visualiser la réaction de la campagne (ajoutez l’ <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extension Chrome</a> pour obtenir la meilleure expérience de prévisualisation de campagne Web.) </li> 
      <li>Partager : utilisez le bouton Partager pour envoyer un courrier électronique à un collègue contenant un lien pour afficher la campagne proxy.</li> 
     </ul></td> 
   </tr> 
@@ -95,17 +95,17 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
 >[!NOTE]
 >
->**Vous souhaitez tester vos campagnes web ?** Une ou plusieurs campagnes web peuvent être [A/B testé pour des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité d’optimisation automatique, la plateforme reconnaît automatiquement les campagnes les plus performantes, poursuit avec le taux de conversion le plus élevé et met les autres en pause.
+>**Souhaitez-vous tester vos campagnes web ?** Une ou plusieurs campagnes web peuvent être [A/B testées pour des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité d’optimisation automatique, la plateforme reconnaît automatiquement les campagnes les plus performantes, poursuit avec le taux de conversion le plus élevé et met les autres en pause.
 
 ## Modifier une campagne web {#edit-a-web-campaign}
 
-Sur la page Campagnes Web, cliquez sur **Modifier** sur la campagne.
+Sur la page Campagnes Web, cliquez sur **Modifier** dans la campagne.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Pour faciliter la recherche de la campagne de votre choix, utilisez le [fonction de filtre](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Pour faciliter la recherche de la campagne de votre choix, utilisez la [fonction de filtrage](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Cloner une campagne web {#clone-a-web-campaign}
 
@@ -113,13 +113,13 @@ Voir [Cloner une campagne web](/help/marketo/product-docs/web-personalization/wo
 
 ## Prévisualiser une campagne web {#preview-a-web-campaign}
 
-Sur la page Campagnes Web, cliquez sur **Aperçu** sur la campagne web que vous souhaitez prévisualiser
+Sur la page Campagnes Web, cliquez sur **Aperçu** dans la campagne Web que vous souhaitez prévisualiser.
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Supprimer une campagne web {#delete-a-web-campaign}
 
-1. Sur la page Campagnes Web, cliquez sur **Supprimer** dans la campagne web que vous souhaitez supprimer.
+1. Sur la page Campagnes Web, cliquez sur **Supprimer** dans la campagne Web que vous souhaitez supprimer.
 
    ![](assets/widget-campaign-delete-hand.png)
 
@@ -127,5 +127,5 @@ Sur la page Campagnes Web, cliquez sur **Aperçu** sur la campagne web que vous 
 
 >[!MORELIKETHIS]
 >
->* [Créer une campagne web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Créer une campagne web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Créer une campagne Web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Créer une campagne Web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)

@@ -6,7 +6,7 @@ exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Email CC permet l’envoi de courriers électroniques spécifiés via Marketo pour inclure des destinataires CC.
 
-Cette fonctionnalité est disponible sur toutes les ressources de messagerie Marketo, quelle que soit la manière dont le courrier électronique est envoyé (par lot ou déclencher une campagne). Le destinataire CC recevra une copie exacte de l&#39;email envoyé à la personne Marketo choisie. Ainsi, toute activité d’engagement (ouvertures, clics, etc.) sera consigné dans le journal d’activité de la personne Marketo sur la ligne &quot;À&quot; de l’e-mail. Cependant, l&#39;activité de diffusion (envoyée, diffusée, hard bounce, etc.) _autre que &quot;soft bounce&quot;_ will **not** s’enregistrer, car Marketo ne peut pas distinguer les événements de diffusion pour la personne Marketo des événements des destinataires CC. Marketo ne contiendra que 100 000 personnes à la fois. Si votre liste dynamique dépasse 100 000 et qu&#39;il est impératif que chaque personne y trouve des CC, nous vous recommandons de la diviser.
+Cette fonctionnalité est disponible sur toutes les ressources de messagerie Marketo, quelle que soit la manière dont le courrier électronique est envoyé (par lot ou déclencher une campagne). Le destinataire CC recevra une copie exacte de l&#39;email envoyé à la personne Marketo choisie. Ainsi, toute activité d’engagement (ouvertures, clics, etc.) sera consigné dans le journal d’activité de la personne Marketo sur la ligne &quot;À&quot; de l’email. Cependant, l&#39;activité de diffusion (envoyée, diffusée, hard bounce, etc.) _autre que &quot;soft bounce&quot;_ s&#39;enregistrera **not**, car Marketo n&#39;est pas en mesure de distinguer les événements de diffusion pour la personne Marketo de ceux des destinataires CC. Marketo ne contiendra que 100 000 personnes à la fois. Si votre liste dynamique dépasse 100 000 et qu&#39;il est impératif que chaque personne y trouve des CC, nous vous recommandons de la diviser.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Cette fonctionnalité est disponible sur toutes les ressources de messagerie Mar
 
 ## Configurer Email CC {#set-up-email-cc}
 
-1. Dans Mon Marketo, cliquez sur **Administration**.
+1. Dans Mon Marketo, cliquez sur **Admin**.
 
    ![](assets/one.png)
 
@@ -31,11 +31,11 @@ Cette fonctionnalité est disponible sur toutes les ressources de messagerie Mar
 
    ![](assets/two.png)
 
-1. Cliquez sur **Modifier les paramètres de messagerie électronique CC**.
+1. Cliquez sur **Modifier les paramètres de CC de courrier électronique**.
 
    ![](assets/three.png)
 
-1. Sélectionnez jusqu’à 25 champs Piste Marketo ou Société (de type &quot;Email&quot;) pour les rendre disponibles en tant qu’adresses CC dans les emails. Cliquez sur **Enregistrer** une fois terminé.
+1. Sélectionnez jusqu’à 25 champs Piste Marketo ou Société (de type &quot;Email&quot;) pour les rendre disponibles en tant qu’adresses CC dans les emails. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/four.png)
 
@@ -45,7 +45,7 @@ Cette fonctionnalité est disponible sur toutes les ressources de messagerie Mar
 
    ![](assets/five.png)
 
-1. Cliquez sur **Paramètres de messagerie électronique**.
+1. Cliquez sur **Paramètres de l’e-mail**.
 
    ![](assets/six.png)
 
@@ -63,7 +63,7 @@ Cette fonctionnalité est disponible sur toutes les ressources de messagerie Mar
 
    ![](assets/eight.png)
 
-   Si l&#39;email est approuvé, mais que l&#39;administrateur Marketo désactive un ou plusieurs des champs CC avant l&#39;envoi de l&#39;email, **ces personnes ne recevront pas d’e-mail**. Dans ce scénario, la vue Récapitulatif des emails grisera tous les champs qui ont été désactivés après validation mais avant envoi :
+   Si l&#39;email est approuvé, mais que l&#39;administrateur Marketo désactive un ou plusieurs des champs CC avant l&#39;envoi de l&#39;email, **ces personnes ne recevront pas d&#39;email**. Dans ce scénario, la vue Récapitulatif des emails grisera tous les champs qui ont été désactivés après validation mais avant envoi :
 
    ![](assets/removal.png)
 
@@ -77,8 +77,8 @@ Cette fonctionnalité est disponible sur toutes les ressources de messagerie Mar
 
 >[!TIP]
 >
->Vous avez la possibilité de [désactiver certains ou tous les liens de tracking](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) dans un email.
+>Vous avez la possibilité de [désactiver certains ou tous les liens de suivi](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) dans un email.
 
 * Une fois une campagne par e-mail exécutée, l’activité Envoyer un e-mail inclut une liste de toutes les adresses CC incluses pour chaque destinataire de l’e-mail. Si des adresses CC ont été ignorées en raison d’un désabonnement, elles seront également signalées dans l’activité.
 * Les liens et les pages de désabonnement fonctionnent normalement dans les emails CC. Cela permet aux destinataires CC de se désabonner s&#39;ils le souhaitent (en conformité avec les réglementations anti-spam), et un enregistrement de cette action sera stocké dans la base de données Marketo.
-* Les personnes répertoriées comme désabonnées dans votre base de données Marketo le seront. **not** recevoir des emails via CC.
+* Les personnes répertoriées comme désabonnées dans votre base de données Marketo recevront **not** par e-mail via CC.

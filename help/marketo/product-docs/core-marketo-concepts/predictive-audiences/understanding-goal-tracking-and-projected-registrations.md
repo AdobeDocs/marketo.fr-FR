@@ -5,7 +5,7 @@ exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '1013'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Voici comment suivre la progression de votre objectif et comprendre les prédict
 
 >[!PREREQUISITES]
 >
->Pour accéder à la plupart de ces fonctionnalités, veillez à activer la fonction [bascule next-gen](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} pour les programmes d’événement.
+>Pour accéder à la plupart de ces fonctionnalités, veillez à activer le [bouton d’activation de la nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} pour les programmes d’événement.
 
 >[!NOTE]
 >
@@ -24,11 +24,11 @@ Voici comment suivre la progression de votre objectif et comprendre les prédict
 
 ## Suivi des objectifs et enregistrements prévus
 
-1. Vous trouverez les détails du suivi des objectifs dans la variable **[!UICONTROL Rapports]** de votre programme d’événements. Dans cet exemple particulier, il y a jusqu’à présent 150 membres enregistrés par rapport à un objectif de 200 (75 %).
+1. Vous trouverez les détails du suivi des objectifs dans l’onglet **[!UICONTROL Rapports]** de votre programme d’événements. Dans cet exemple particulier, il y a jusqu’à présent 150 membres enregistrés par rapport à un objectif de 200 (75 %).
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Vous verrez également votre **[!UICONTROL Prévu]** inscriptions. Passez la souris sur l’icône d’information pour afficher une ventilation de ce nombre par segment Probabilité .
+Vous verrez également vos enregistrements **[!UICONTROL Projected]**. Passez la souris sur l’icône d’information pour afficher une ventilation de ce nombre par segment Probabilité .
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -50,17 +50,17 @@ Tous les membres (enregistrés et non encore enregistrés) sont classés en fonc
 
 >[!NOTE]
 >
->Les numéros de prédiction sont mis à jour toutes les 24 heures jusqu’au jour de l’événement. Tous les membres qui sont répertoriés comme _Traitement_ sera inclus dans le prochain cycle de calcul.
+>Les numéros de prédiction sont mis à jour toutes les 24 heures jusqu’au jour de l’événement. Tous les membres répertoriés en tant que _Traitement_ seront inclus dans le cycle de calcul suivant.
 
 ## Programmes similaires
 
-Vous pouvez mieux comprendre votre événement actuel en observant les performances passées de programmes similaires. Cette section vous présente jusqu’à 5 programmes similaires des 6 derniers mois, avec le nombre/pourcentage de membres qui étaient _Inscrits_ ou supérieur.
+Vous pouvez mieux comprendre votre événement actuel en observant les performances passées de programmes similaires. Cette section vous présente jusqu’à 5 programmes similaires des 6 derniers mois, avec le nombre/pourcentage de membres _enregistrés_ ou plus.
 
 Dans le calcul de programmes similaires, nous incluons les facteurs suivants, entre autres :
 
 * Type de programme
 * Canal programme
-* Taille de l&#39;audience
+* Taille de l’audience
 * Balises de programme
 * Durée de la création de l’événement au début de l’événement
 * Durée de l’événement
@@ -69,13 +69,13 @@ Dans le calcul de programmes similaires, nous incluons les facteurs suivants, en
 
 ## Recommandations
 
-En haut de la page [!UICONTROL Rapports] , vous trouverez des recommandations pilotées par l’IA/ML en fonction de votre progression. Revenez régulièrement pour obtenir des conseils et des informations utiles.
+En haut de la page [!UICONTROL Rapports], vous trouverez des recommandations pilotées par l’IA/ML en fonction de votre progression. Revenez régulièrement pour obtenir des conseils et des informations utiles.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Prédictions au niveau de la personne
 
-Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres du programme. Passez la souris sur le **[!UICONTROL Probabilité d’enregistrement]** ou **[!UICONTROL Probabilité de présence]** pour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d’une catégorie spécifique (par exemple, tous les membres de la catégorie &quot;Moins susceptibles&quot; d’enregistrer) et les cibler spécifiquement pour augmenter éventuellement vos numéros d’inscription.
+Cliquez sur l’onglet **[!UICONTROL Membres]** pour afficher tous les membres de votre programme. Passez la souris sur les barres **[!UICONTROL Probabilité d’enregistrement]** ou **[!UICONTROL Probabilité d’assiduité]** pour afficher les pourcentages et les catégories exacts. Vous pouvez ensuite agir sur les membres d’une catégorie spécifique (par exemple, tous les membres de la catégorie &quot;Moins susceptibles&quot; d’enregistrer) et les cibler spécifiquement pour augmenter éventuellement vos numéros d’inscription.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -85,7 +85,7 @@ Cliquez sur le bouton **[!UICONTROL Membres]** pour afficher tous les membres du
 
 ## Questions fréquentes
 
-**Q : Qu’est-ce que le segment ?**
+**Q : Quel est le segment ?**
 
 R : La valeur susceptible d’être enregistrée est comprise entre 0 et 100. Chaque personne qui est membre du programme d’événement aura une valeur de probabilité comprise entre 0 et 100.
 
@@ -95,7 +95,7 @@ Nous plaçons les valeurs de probabilité dans trois segments :
 * Probabilité d’enregistrer plus de 25 % à &lt;50 % = Segment probable
 * Probabilité d’enregistrer &lt;25 % = segment moins probable
 
-Lorsqu’une personne a de la probabilité de s’inscrire, la prédiction tombera dans l’un de ces segments (chaque personne qui est membre d’un programme tombera dans l’un d’entre eux). Par exemple, si un programme d’événement comporte 1 000 membres en fonction des prévisions de probabilité, ces 1 000 seront distribués dans _Très probable_, _Probable_, ou _Moins probable_ segments.
+Lorsqu’une personne a de la probabilité de s’inscrire, la prédiction tombera dans l’un de ces segments (chaque personne qui est membre d’un programme tombera dans l’un d’entre eux). Par exemple, si un programme d’événement comporte 1 000 membres en fonction des prédictions de probabilité, ces 1 000 sont distribués dans les segments _Très probable_, _Probable_ ou _Moins probable_.
 
 Par conséquent, les personnes qui appartiennent au segment à haut risque auront plus de chances de s’inscrire à l’événement.
 
@@ -109,7 +109,7 @@ R : Les bonnes pratiques impliquent les éléments suivants :
 
 i. Vous créez un programme, puis une campagne dynamique utilise des filtres prédictifs avec &quot;supérieur à X&quot;, ce qui entraînerait un certain nombre de personnes (disons 1 000) et vous exécutez la campagne.
 
-ii. Après 24 heures, dans la variable [!UICONTROL Rapports] vous pouvez voir les enregistrements prévus qui sont calculés en fonction de la probabilité d’enregistrer les valeurs de toutes les personnes actuellement invitées.
+ii. Au bout de 24 heures, dans l’onglet [!UICONTROL Rapports], vous pouvez voir les enregistrements prévus qui sont calculés en fonction de la probabilité d’enregistrer les valeurs de toutes les personnes actuellement invitées.
 
 iii. Si les enregistrements prévus sont inférieurs à l’objectif, vous devez inviter plus de personnes. À ce stade, vous pouvez voir les informations qui vous disent quel seuil a été celui qui a fonctionné dans les programmes précédents.
 
@@ -119,11 +119,11 @@ iv. Vous pouvez créer une nouvelle campagne dynamique avec ce seuil pour invite
 
 v. À tout moment, si vous souhaitez comprendre pourquoi un nombre prévu s’affiche, vous pouvez basculer pour afficher la distribution de l’audience entre les segments, leurs taux de conversion du passé, et appliquer ces taux de conversion à l’audience actuelle (voir la capture d’écran ci-dessous).
 
-**Q : Qu’est-ce que le graphique Segments par enregistrement ?**
+**Q : Quels sont les segments par graphique d’enregistrement ?**
 
 R : Trois barres, chacune représentant un segment (très probable, probable, moins probable).
 
-**Ligne pointillée violette :** Taux de conversion moyen à l’enregistrement dans ce segment, en fonction des programmes similaires passés.
+**Ligne en pointillés violette :** Taux moyen de conversation vers l’enregistrement dans ce segment, en fonction des programmes similaires passés.
 
 **Barre bleue :** Pourcentage d’enregistrement de toutes les personnes dans ce segment.
 
@@ -139,7 +139,7 @@ Vous pouvez créer de nouveaux statuts de progression pour un programme d’év�
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
-**Q : Comment sont calculés les inscriptions prévues ?**
+**Q : Comment sont calculés les enregistrements projetés ?**
 
 R : Voir ci-dessous.
 

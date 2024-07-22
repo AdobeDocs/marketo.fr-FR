@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 Modifiez votre mot de passe Marketo en procédant comme suit.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/change-your-marketo-password-1.png)
 

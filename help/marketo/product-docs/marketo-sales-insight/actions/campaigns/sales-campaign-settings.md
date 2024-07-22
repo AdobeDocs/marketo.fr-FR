@@ -30,11 +30,11 @@ Activez l’option Ignorer les week-ends afin que toutes les étapes qui auraien
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Cliquez sur le bouton **Paramètres** .
+1. Cliquez sur l’onglet **Paramètres** .
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Sélectionnez la **Ignorer les week-ends** .
+1. Cochez la case **Ignorer les week-ends** .
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -50,11 +50,11 @@ Si vous utilisez la connexion par e-mail, nous détecterons les rebonds en fonct
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Cliquez sur le bouton **Paramètres** .
+1. Cliquez sur l’onglet **Paramètres** .
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Sélectionnez la **Supprimer lors du rebond** .
+1. Cochez la case **Supprimer lors du rebond** .
 
    ![](assets/sales-campaign-settings-8.png)
 
@@ -70,16 +70,16 @@ Si le suivi des réponses est activé pour Gmail ou Exchange, nous pouvons autom
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Cliquez sur le bouton **Paramètres** .
+1. Cliquez sur l’onglet **Paramètres** .
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Sous **Si une réponse se produit**, effectuez la ou les sélection(s) souhaitée(s).
+1. Sous **Si une réponse se produit**, effectuez la sélection souhaitée.
 
    ![](assets/sales-campaign-settings-12.png)
 
 >[!MORELIKETHIS]
 >
 >* [Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->* [Présentation des options d’envoi de campagne de ventes pour les étapes de courrier électronique](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
->* [Types d’étape de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Comprendre les options d’envoi de campagne de ventes pour les étapes de courrier électronique](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* [ Types d’étape de campagne commerciale et tâches de rappel ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Lors de l’automatisation d’une campagne, vous ne souhaitez probablement pas que vos emails sortent le samedi ou le dimanche. Dans le cas contraire, vous avez la possibilité d’ignorer les week-ends.
 
-1. Dans Sales Connect, cliquez sur le bouton **Campagnes** .
+1. Dans Sales Connect, cliquez sur l’onglet **Campagnes** .
 
    ![](assets/one-2.png)
 
@@ -27,7 +27,7 @@ Lors de l’automatisation d’une campagne, vous ne souhaitez probablement pas 
 
    ![](assets/three-2.png)
 
-1. Sélectionnez la **Ignorer les week-ends** .
+1. Cochez la case **Ignorer les week-ends** .
 
    ![](assets/four-2.png)
 

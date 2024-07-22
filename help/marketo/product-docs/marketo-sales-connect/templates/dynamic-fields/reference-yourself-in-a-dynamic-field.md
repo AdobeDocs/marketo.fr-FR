@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352601
-description: Référencez-vous dans un champ dynamique - Documents Marketo - Documentation du produit
+description: Vous référencer dans un champ dynamique - Documents Marketo - Documentation du produit
 title: Référence dans un champ dynamique
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Les champs dynamiques sont notre forme de fusion de courriers.
 
-Vous pouvez personnaliser vos modèles d’email avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles d’email.
+Nous vous permettons de personnaliser vos modèles d&#39;email avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles d’email.
 
-Pour ajouter un champ dynamique de référencement automatique à un modèle, il vous suffit de sélectionner celui que vous souhaitez utiliser dans la **Champs dynamiques MSE** dans l’éditeur de modèles.
+Pour ajouter un champ dynamique de référencement automatique à un modèle, sélectionnez simplement celui que vous souhaitez utiliser à partir du bouton **Champs dynamiques MSE** de l’éditeur de modèles.

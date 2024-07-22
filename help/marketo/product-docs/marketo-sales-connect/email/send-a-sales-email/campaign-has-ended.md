@@ -21,4 +21,4 @@ Si un message électronique s’affiche dans votre dossier Diffusion en échec i
 * Un contact a répondu et a mis fin à la campagne.
 * La campagne a été terminée manuellement.
 
-Nous cherchons à supprimer ces emails de votre dossier de diffusion en échec afin de les réduire à l’encombrement.
+Nous cherchons à supprimer ces emails de votre dossier de diffusion en échec afin de réduire l’encombrement.

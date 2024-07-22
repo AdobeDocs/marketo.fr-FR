@@ -21,7 +21,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous po
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -29,7 +29,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous po
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. Recherchez le champ, sélectionnez-le, puis sous **[!UICONTROL Actions de champ]** click **[!UICONTROL Masquer le champ]**.
+1. Recherchez le champ, sélectionnez-le, puis, sous **[!UICONTROL Actions de champ]**, cliquez sur **[!UICONTROL Masquer le champ]**.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -49,7 +49,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous po
 
 ## Afficher un champ {#unhide-a-field}
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
@@ -57,7 +57,7 @@ Si vous n’avez plus d’utilisation pour un champ dans Marketo Engage, vous po
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Recherchez et sélectionnez le champ. Dans le [!UICONTROL Actions de champ] menu déroulant, cliquez sur **[!UICONTROL Afficher le champ]**.
+1. Recherchez et sélectionnez le champ. Dans la liste déroulante [!UICONTROL  Field Actions], cliquez sur **[!UICONTROL Afficher le champ]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

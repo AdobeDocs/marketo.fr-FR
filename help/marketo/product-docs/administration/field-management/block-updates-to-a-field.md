@@ -7,19 +7,19 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Bloquer les mises à jour d’un champ {#block-updates-to-a-field}
 
-Le blocage des mises à jour d’un champ vous permet d’écrire sur le champ une seule fois, puis de conserver la valeur d’origine pendant la durée de vie du champ. Cela peut s’avérer utile pour un champ comme [!UICONTROL Source de personne].
+Le blocage des mises à jour d’un champ vous permet d’écrire sur le champ une seule fois, puis de conserver la valeur d’origine pendant la durée de vie du champ. Cela peut s’avérer utile pour un champ tel que [!UICONTROL Person Source].
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/block-updates-to-a-field-1.png)
 
@@ -27,18 +27,18 @@ Le blocage des mises à jour d’un champ vous permet d’écrire sur le champ u
 
    ![](assets/block-updates-to-a-field-2.png)
 
-1. Recherchez le champ, sélectionnez-le, puis sous **[!UICONTROL Actions de champ]**, cliquez sur **[!UICONTROL Mises à jour du champ de bloc]**.
+1. Recherchez le champ, sélectionnez-le, puis sous **[!UICONTROL Actions de champ]**, cliquez sur **[!UICONTROL Bloquer les mises à jour de champ]**.
 
    ![](assets/block-updates-to-a-field-3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez bloquer les mises à jour de [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) ainsi que .
+   >Vous pouvez également bloquer les mises à jour des [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md).
 
-1. Sélectionnez la **[!UICONTROL Sources d’entrée]** vous souhaitez bloquer et cliquer sur **[!UICONTROL Appliquer]**.
+1. Sélectionnez les **[!UICONTROL sources d&#39;entrée]** que vous souhaitez bloquer et cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/block-updates-to-a-field-4.png)
 
    >[!CAUTION]
    >
-   >Lors d&#39;un import de liste, l&#39;état d&#39;un champ bloqué dans l&#39;aperçu de l&#39;import ne s&#39;affiche que si le champ est automatiquement reconnu par Marketo en fonction du nom du champ correspondant. _what_ (ou si des alias sont établis). Si le champ est sélectionné manuellement dans la liste déroulante Champ Marketo , l’état bloqué ne s’affiche pas dans l’ aperçu de l’importation, mais le blocage des mises à jour de ce champ est toujours implémenté.
+   >Lors de l&#39;import d&#39;une liste, l&#39;état d&#39;un champ bloqué dans l&#39;aperçu de l&#39;import ne s&#39;affiche que si le champ est automatiquement reconnu par Marketo en fonction du nom du champ correspondant à _exactement_ (ou si des alias sont définis). Si le champ est sélectionné manuellement dans la liste déroulante Champ Marketo , l’état bloqué ne s’affiche pas dans l’ aperçu de l’importation, mais le blocage des mises à jour de ce champ est toujours implémenté.

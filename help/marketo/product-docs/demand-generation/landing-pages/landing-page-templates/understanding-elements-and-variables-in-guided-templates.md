@@ -6,8 +6,8 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 4%
+source-wordcount: '189'
+ht-degree: 2%
 
 ---
 
@@ -23,10 +23,10 @@ Les éléments sont les différents éléments de contenu qui constituent une pa
 
 Lorsque vous modifiez une landing page guidée, les éléments s’affichent s’ils ont été marqués comme modifiables dans le modèle. Les éléments contiendront les icônes suivantes :
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) Image
+* ![—](assets/image2015-5-20-12-3a30-3a48.png) Image
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Formulaire Marketo
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)Texte
-* ![--](assets/image2015-5-20-12-3a42-3a47.png)Vidéo
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)Texte
+* ![—](assets/image2015-5-20-12-3a42-3a47.png)Vidéo
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)Bouton Partager Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Sondage Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Référence Marketo
@@ -39,25 +39,25 @@ Les variables sont des attributs de type jeton qui peuvent être personnalisés 
 
 ![](assets/image2015-5-20-15-3a0-3a2.png)
 
-Il existe trois types de variables : variables de chaîne, variables de couleur et variables booléennes.
+Il existe trois types de variables : les variables de chaîne, les variables de couleur et les variables booléennes.
 
 <table> 
  <tbody> 
   <tr> 
    <td>Chaîne</td> 
-   <td><p>Texte modifiable</p><p>Exemple : Titres, dates, libellés de boutons</p></td> 
+   <td><p>Texte modifiable</p><p>Exemple : titres, dates, libellés de boutons</p></td> 
   </tr> 
   <tr> 
    <td>Couleur</td> 
-   <td><p>Code hexadécimal modifiable pour la couleur</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemple : Couleur d’arrière-plan, couleur de police, couleur de bordure</p></td> 
+   <td><p>Code hexadécimal modifiable pour la couleur</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemple : couleur de fond, couleur de police, couleur de bordure</p></td> 
   </tr> 
   <tr> 
-   <td>Booléen</td> 
-   <td><p>Un levier qui contrôle les états d’activation/de désactivation des objets ou des formats sur la page d’entrée.</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemples : Afficher le pied de page (Oui/Non), Nombre de colonnes (1/2), Google Analytics incorporés (Vrai/Faux)</p></td> 
+   <td>Booléenne</td> 
+   <td><p>Un levier qui contrôle les états d’activation/de désactivation des objets ou des formats sur la page d’entrée.</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemples : Afficher le pied de page (Oui/Non), Nombre de colonnes (1/2), Google Analytics incorporés (True/False)</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Création d’un modèle de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[Créer un modèle de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

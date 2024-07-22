@@ -2,11 +2,11 @@
 description: Gestion des pistes OP - Documents Marketo - Documentation du produit
 title: Gestion des leads OP
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 14%
+source-wordcount: '265'
+ht-degree: 13%
 
 ---
 
@@ -18,7 +18,7 @@ Il s’agit d’un exemple de workflow de bonnes pratiques de gestion des pistes
 >
 >Dans Marketo Engage, les enregistrements de votre base de données sont appelés personnes/personnes. Dans cet exemple, la gestion des pistes fait référence aux enregistrements de votre CRM.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) .
 
 ## Résumé du canal {#channel-summary}
 
@@ -27,7 +27,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -39,7 +39,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -80,17 +80,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
+* **Modèle de page d’entrée avec le même nom**
    * Copier le modèle d’origine - _Recommandé_
    * Utiliser le modèle de destination
 
 * **Images du même nom**
    * Conserver les deux fichiers - _Recommandé_
-   * Remplacer l’élément de cet abonnement
+   * Remplacer l&#39;élément de cet abonnement
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_

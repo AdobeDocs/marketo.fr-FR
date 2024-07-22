@@ -37,7 +37,7 @@ Permet à vos visiteurs de remplir le formulaire à l’aide de leur réseau soc
 
    >[!TIP]
    >
-   >Découvrez ce que [données que Marketo va capturer](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseaux sociaux.
+   >Découvrez ce que [Marketo de données capturera](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseaux sociaux.
 
 1. Cliquez sur **Terminer**.
 

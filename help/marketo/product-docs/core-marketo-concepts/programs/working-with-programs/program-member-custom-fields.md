@@ -17,7 +17,7 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 
 ## Créer un champ personnalisé de membre de programme {#create-a-program-member-custom-field}
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
@@ -56,7 +56,7 @@ Les champs personnalisés Membres du programme vous permettent de collecter des 
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 
-Vous pouvez exploiter ces données spécifiques au programme dans des listes dynamiques via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} et/ou [filtres](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+Vous pouvez exploiter ces données spécifiques au programme dans des listes dynamiques via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} et/ou [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -64,17 +64,17 @@ Vous pouvez exploiter ces données spécifiques au programme dans des listes dyn
 
 * Les champs personnalisés Membres du programme sont disponibles uniquement dans les ressources locales. Ils ne sont pas pris en charge dans Design Studio, car il n’existe aucun moyen de le lier à un programme spécifique.
 * Vous ne pouvez pas cloner/déplacer un formulaire (ou une landing page avec un formulaire) contenant des champs personnalisés de membre de programme vers Design Studio.
-* [Vous pouvez synchroniser](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} les Champs personnalisés des membres du programme avec des champs personnalisés des membres de campagne.
+* [Vous pouvez synchroniser](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} les champs personnalisés du membre de programme avec les champs personnalisés du membre de campagne.
 * L’objet membre du programme peut comporter jusqu’à 20 champs personnalisés. Ces champs sont disponibles pour tous les programmes.
 * Lorsque vous supprimez un membre d’un programme, si le champ personnalisé Membre du programme contient des données, celles-ci sont supprimées de ce champ.
 * Pour afficher les données, cliquez sur l’onglet Membres du programme et créez une vue personnalisée qui inclut ces champs.
-* Import et export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} et [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} sont prises en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
+* L&#39;import et l&#39;export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} et [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} sont pris en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisé Membre du programme du gagnant sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
 * Le type de modification n’est pas autorisé dans les champs Informations sur les membres du programme.
 * La contrainte Liste dynamique &quot;contient&quot; n’est pas prise en charge pour les champs personnalisés Membres du programme.
 
 >[!MORELIKETHIS]
 >
->* [Création d’un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
+>* [Créer un champ personnalisé dans Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
 >* [Synchronisation des champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

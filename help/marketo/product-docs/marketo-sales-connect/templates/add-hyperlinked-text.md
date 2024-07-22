@@ -6,7 +6,7 @@ exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 1. Cliquez sur le bouton du lien dans l&#39;éditeur.
 
-1. Saisissez l&#39;URL à laquelle vous souhaitez le lier (c.-à-d. &quot;https://www.mywebsite.com&quot;).
+1. Saisissez l&#39;URL à laquelle vous souhaitez qu&#39;il soit lié (c&#39;est-à-dire &quot;https://www.mywebsite.com&quot;).
 
 1. Cliquez sur **OK**.

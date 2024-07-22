@@ -49,7 +49,7 @@ La capsule est utilisée pour communiquer avec d&#39;autres participants dans la
 
 Une capsule ajoutée dans la zone Hôte et Présentateur peut être utilisée pour communiquer en privé avec l’équipe de présentation. Pour en savoir plus sur la capsule, consultez cet article d’aide sur les Adobes et cette vidéo.
 
-REMARQUE : Une capsule est toujours enregistrée. Utilisez un panneau de conversation si vous ne souhaitez pas que les tchats fassent partie de l’enregistrement. Pour en savoir plus sur la capsule, consultez cet article d’aide sur les Adobes. [Liez-le à la section Chats dans l’enregistrement de la nouvelle page Diffuser le webinaire interactif .].
+REMARQUE : Une capsule est toujours enregistrée. Utilisez un panneau de conversation si vous ne souhaitez pas que les tchats fassent partie de l’enregistrement. Pour en savoir plus sur la capsule, consultez cet article d’aide sur les Adobes. [Liez-le à la section Chats dans l’enregistrement de la nouvelle page Diffuser le webinaire interactif].
 
 CAPTURE D’ÉCRAN
 

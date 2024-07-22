@@ -65,6 +65,6 @@ Vous êtes directement dirigé vers l’e-mail souhaité.
  </tbody>
 </table>
 
-**ÉTAPE FACULTATIVE**: Pour utiliser le filtrage, sélectionnez simplement les options souhaitées.
+**ÉTAPE FACULTATIVE** : Pour utiliser le filtrage, sélectionnez simplement les options souhaitées.
 
 ![](assets/using-the-global-search-7.png)

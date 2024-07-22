@@ -17,7 +17,7 @@ Les moments intéressants sont essentiels pour communiquer avec votre équipe co
 
 >[!AVAILABILITY]
 >
->Ils sont disponibles pour Marketo Sales Insight et [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) clients uniquement.
+>Ils sont disponibles uniquement pour les clients Marketo Sales Insight et [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) .
 
 ## Quel est un moment intéressant ? {#what-is-an-interesting-moment}
 
@@ -29,19 +29,19 @@ C&#39;est à toi de décider ! Vous décidez quelles informations sont pertinent
 
 ## Comment créer un moment intéressant ?  {#how-do-i-create-an-interesting-moment}
 
-1. Choisissez une [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), de préférence une que votre équipe de vente trouverait intéressante si elle était déclenchée.
+1. Choisissez une [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), de préférence une campagne que votre équipe commerciale trouvera intéressante si elle est déclenchée.
 
    ![](assets/using-interesting-moments-1.png)
 
-1. Faites glisser le curseur de la souris **Moments intéressants** étape de flux.
+1. Faites glisser l’étape de flux **Moments intéressants** .
 
    ![](assets/using-interesting-moments-2.png)
 
-1. Sélectionnez une **type** (Courrier électronique, jalon ou Web).
+1. Sélectionnez un **type** (Email, Jalon ou Web).
 
    ![](assets/using-interesting-moments-3.png)
 
-1. Écrivez un message à votre équipe commerciale dans la variable **Description** qui explique pourquoi cette action est importante.
+1. Ecrivez un message à votre équipe commerciale dans le champ **Description** qui explique pourquoi cette action est importante.
 
    ![](assets/using-interesting-moments-4.png)
 
@@ -51,7 +51,7 @@ C&#39;est à toi de décider ! Vous décidez quelles informations sont pertinent
 
 ## Comment cela peut-il devenir encore plus intéressant ?  {#how-can-this-get-even-more-interesting}
 
-Jetons! Ajoutez-les dans le champ de description pour fournir à votre équipe de vente des informations plus spécifiques, telles que l’objet de l’email que le prospect a ouvert ou qui l’a envoyé. Déterminez quels jetons sont disponibles dans la variable [Jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) glossaire.
+Jetons ! Ajoutez-les dans le champ de description pour fournir à votre équipe de vente des informations plus spécifiques, telles que l’objet de l’email que le prospect a ouvert ou qui l’a envoyé. Consultez le glossaire [Jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) pour savoir quels jetons peuvent être utilisés.
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Jetons! Ajoutez-les dans le champ de description pour fournir à votre équipe d
 
 ## À quoi ressemble un moment intéressant dans Marketo ?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Les moments intéressants seront affichés dans une [journal des activités du prospect](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Les moments intéressants seront affichés dans le [journal d’activité de la piste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/using-interesting-moments-5.png)
 
 ## À quoi ressemble un moment intéressant dans Salesforce ?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Une fois que vous avez [installation de l’application Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), des moments intéressants s’afficheront sur les pages de piste, de contact, de compte ou d’opportunité. Elles apparaissent également dans le tableau de bord des statistiques de vente dans le flux de piste, les meilleurs paris et la liste de contrôle.
+Une fois que vous avez [installé l’application Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), des moments intéressants s’affichent sur les pages de piste, de contact, de compte ou d’opportunité. Elles apparaissent également dans le tableau de bord des statistiques de vente dans le flux de piste, les meilleurs paris et la liste de contrôle.
 
 ![](assets/using-interesting-moments-6.png)
 
@@ -85,7 +85,7 @@ Vous pouvez vous abonner à un moment intéressant en cliquant sur le bouton S�
 
 1. Choisissez la ou les adresses électroniques auxquelles vous souhaitez envoyer les alertes (membres de votre équipe/vous-même).
 
-1. Cliquez sur **S’abonner**.
+1. Cliquez sur **Abonner**.
 
 >[!NOTE]
 >

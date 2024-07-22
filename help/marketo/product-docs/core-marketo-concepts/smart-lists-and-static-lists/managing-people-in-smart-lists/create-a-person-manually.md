@@ -19,11 +19,11 @@ Il y a de nombreuses façons de faire entrer une personne en Marketo Engage. Si 
 >
 >Marketo ne prend pas en charge les adresses électroniques contenant des émoticônes.
 
-1. Accédez au **[!UICONTROL Base]**.
+1. Accédez à la **[!UICONTROL base de données]**.
 
    ![](assets/db-1.png)
 
-1. Sous **[!UICONTROL Nouveau]**, cliquez sur **[!UICONTROL Nouvelle personne]**.
+1. Sous **[!UICONTROL New]**, cliquez sur **[!UICONTROL New Person]**.
 
    ![](assets/two-2.png)
 

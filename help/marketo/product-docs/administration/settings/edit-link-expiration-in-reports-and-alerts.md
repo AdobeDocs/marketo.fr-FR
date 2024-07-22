@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Les liens contenus dans les emails d’abonnement à votre rapport expirent au b
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
@@ -37,4 +37,4 @@ Les liens contenus dans les emails d’abonnement à votre rapport expirent au b
 
 >[!IMPORTANT]
 >
->Ce paramètre s’applique uniquement aux liens des rapports et alertes. C’est le cas **not** s’appliquer au courrier électronique [rapport de téléchargement](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) lien ou emails marketing.
+>Ce paramètre s’applique uniquement aux liens des rapports et alertes. Il ne s&#39;applique pas **au lien [télécharger le rapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) par courriel ou aux courriers électroniques marketing.**

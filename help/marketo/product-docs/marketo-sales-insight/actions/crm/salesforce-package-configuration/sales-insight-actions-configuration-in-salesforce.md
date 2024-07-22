@@ -5,7 +5,7 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Installer](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) ou [Mettre à niveau](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Package Sales Insight dans votre instance Salesforce
->* [Configuration de Marketo Sales Insight dans Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Installer](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) ou [ Mettre à niveau](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) le package Sales Insight dans votre instance Salesforce
+>* [Configurer Marketo Sales Insight dans Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## Ajouter un nouveau site distant dans Salesforce {#add-new-remote-site-in-salesforce}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
@@ -29,27 +29,27 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight1&quot;). Saisie de l’URL du site distant `https://ims-na1.adobelogin.com` et cliquez sur **Enregistrer**.
+1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight1&quot;). Saisissez l’URL du site distant `https://ims-na1.adobelogin.com` et cliquez sur **Enregistrer**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
-1. Cliquez sur **Nouveau site distant** encore une fois.
+1. Cliquez à nouveau sur **Nouveau site distant**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight2&quot;). Entrée dans l’URL du site distant `https://mkto-sales-connect.adobe.io` et cliquez sur **Enregistrer**.
+1. Saisissez le Nom du site distant (il peut s’agir de &quot;MarketoSalesInsight2&quot;). Saisissez l’URL du site distant `https://mkto-sales-connect.adobe.io` et cliquez sur **Enregistrer**.
 
 ## Activation des actions Sales Insight dans le CRM {#enabling-sales-insight-actions-across-the-crm}
 
-1. Dans Salesforce, cliquez sur l’icône **Configuration de Marketo Sales Insight** .
+1. Dans Salesforce, cliquez sur l’onglet **Marketo Sales Insight Config** .
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >Si vous ne voyez pas &quot;Marketo Sales Insight Config&quot; dans votre barre supérieure, cliquez sur le bouton **+** signez et recherchez-le sous Tous les onglets.
+   >Si vous ne voyez pas &quot;Marketo Sales Insight Config&quot; dans votre barre supérieure, cliquez sur le signe **+** et recherchez-le sous Tous les onglets.
 
-1. Sélectionnez la **Activation des actions MSI** .
+1. Cochez la case **Activer les actions MSI** .
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
@@ -59,9 +59,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Si vous ne disposez pas de votre clé de sécurité API, vous pouvez la trouver en suivant les étapes de la section [cet article](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
+   >Si votre clé de sécurité API n’est pas pratique, vous pouvez la trouver en suivant les étapes décrites dans [cet article](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
 
-1. Cliquez sur **Enregistrer** une fois terminé.
+1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
 Cela activera automatiquement toutes les fonctionnalités des actions MSI décrites dans l’article Présentation des fonctionnalités .
 

@@ -17,9 +17,9 @@ L’utilisation du contenu dynamique dans les pages d’entrée engage votre aud
 
 >[!PREREQUISITES]
 >
->* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Ajouter un nouveau formulaire à une page d’entrée de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Créer une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Ajouter un nouveau formulaire à une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 ## Ajouter une segmentation {#add-segmentation}
 
@@ -31,7 +31,7 @@ L’utilisation du contenu dynamique dans les pages d’entrée engage votre aud
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. Cliquez sur **Segmenter par**.
+1. Cliquez sur **Segment par**.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
@@ -49,17 +49,17 @@ L’utilisation du contenu dynamique dans les pages d’entrée engage votre aud
 
 ## Rendre l’élément dynamique {#make-element-dynamic}
 
-1. Faites glisser et déposez les éléments de contenu dynamique sous **Statique** to **Dynamique**.
+1. Faites glisser et déposez les éléments de contenu dynamique de sous **Static** vers **Dynamic**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Vous pouvez également créer des éléments. **Statique** ou **Dynamique** de l’élément **Paramètres**.
+1. Vous pouvez également créer des éléments **Static** ou **Dynamic** à partir de l’élément **Settings**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Appliquer du contenu dynamique {#apply-dynamic-content}
 
-1. Sélectionnez un élément sous un segment, cliquez sur l’icône de paramètres, puis sur **Modifier**. Répétez l’opération pour chaque segment.
+1. Sélectionnez un élément sous un segment, cliquez sur l’icône des paramètres, puis sur **Modifier**. Répétez l’opération pour chaque segment.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 

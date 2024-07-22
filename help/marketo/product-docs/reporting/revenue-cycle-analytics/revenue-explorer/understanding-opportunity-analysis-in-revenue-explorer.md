@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -31,13 +31,13 @@ Voici quelques rapports que vous pouvez créer dans la zone Analyse des opportun
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. Opportunité fermée par source de piste
+1. Opportunité fermée par le Source de piste
 
    Ce rapport présente toutes les opportunités fermées par source de piste et donne un aperçu clair des sources qui fonctionnent et de celles qui ne fonctionnent pas.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Durée de fermeture par source
+1. Durée de fermeture par Source
 
    Ce rapport montre la relation entre le nombre moyen de jours pour fermer une opportunité et la source principale.
 
@@ -63,17 +63,17 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
 
    | Dimension | Description |
    |---|---|
-   | Chiffre d’affaires annuel | Chiffre d’affaires annuel de l’entreprise |
+   | Chiffre d&#39;affaires annuel | Chiffre d’affaires annuel de l’entreprise |
    | Ville | Ville où se trouve l’entreprise |
    | Pays | Le département où se trouve l’entreprise |
-   | Secteur | L&#39;industrie dans laquelle se trouve l&#39;entreprise |
-   | Nom de la société | Nom de la société |
+   | Industrie | L&#39;industrie dans laquelle se trouve l&#39;entreprise |
+   | Nom de l’entreprise | Nom de la société |
    | Nombre d&#39;employés | Nombre d’employés de la société |
    | Code postal | Code postal de la société |
    | Code SIC | Code SIC de l’entreprise |
    | État | État où se trouve la société |
 
-1. Attributs du lead
+1. Attributs de lead
 
    | Dimension | Description |
    |---|---|
@@ -84,12 +84,12 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
    | Adresse e-mail | Adresse électronique du prospect |
    | Intitulé du poste | Fonction du responsable |
    | Nom complet | Nom complet de la piste |
-   | Type source d’origine | Type de source d’origine du prospect |
-   | Type de source d’enregistrement | Type de source enregistré du prospect |
+   | Type de source d&#39;origine | Type de source d’origine du prospect |
+   | Enregistrer le type Source | Type de source enregistré du prospect |
    | Adresse e-mail du détenteur du lead | Adresse électronique du propriétaire du prospect |
    | Poste du détenteur du lead | Fonction du propriétaire du prospect |
    | Nom du propriétaire de piste | Nom du propriétaire du prospect |
-   | Source du lead | Source de lead |
+   | Source du lead | Source du prospect |
    | Statut du lead | Etat de piste |
 
 1. Période créée de piste
@@ -111,7 +111,7 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
    | Nom de l&#39;opportunité | Nom de l’opportunité |
    | Étape de l’opportunité | Étape d’opportunité |
    | Type de l&#39;opportunité | Type d’opportunité |
-   | Opportunité confirmée | Cette opportunité est-elle close et gagnée ? |
+   | Opportunité gagnée | Cette opportunité est-elle close et gagnée ? |
    | Opportunité influencée par le marketing | Cet indicateur indique si l’un des prospects/contacts a été acquis ou a réussi dans un programme marketing. Seuls les programmes pour lesquels un coût par période est défini sont pris en compte. |
 
 1. Période de fermeture de l’opportunité
@@ -146,7 +146,7 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
    | Nombre d’opportunités (perdues) | Nombre total d’opportunités perdues |
    | Nombre d’opportunités (ouvertes) | Nombre total d’opportunités qui sont encore ouvertes |
    | Nombre d’opportunités (gagnant) | Nombre total d’opportunités gagnées |
-   | Quantité d&#39;opportunités | Total du montant de l&#39;opportunité. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
+   | Quantité d&#39;opportunités | Montant total des opportunités. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
    | Montant de l&#39;opportunité (perdu) | Montant total des opportunités perdues. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
    | Montant de l&#39;opportunité (ouvert) | Montant total pour les opportunités ouvertes. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
    | Montant de l&#39;opportunité (gagné) | Montant total des opportunités gagnées. Si plusieurs pistes sont associées à une opportunité, le montant de l’allocation est basé sur le score de piste. |
@@ -155,4 +155,4 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
 >
 >* [Créer un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
 >* [Ajout de champs à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [S’abonner à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

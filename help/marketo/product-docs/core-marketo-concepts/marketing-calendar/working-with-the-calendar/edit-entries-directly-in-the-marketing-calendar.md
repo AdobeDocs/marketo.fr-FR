@@ -17,11 +17,11 @@ Une fois en mode de mise au point du programme, vous pouvez rapidement apporter 
 
 ## Activer la cible du programme {#enable-program-focus}
 
-1. Cliquez sur le bouton **[!UICONTROL Calendrier]** mosaïque.
+1. Cliquez sur la mosaïque **[!UICONTROL Calendrier]** .
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Sélectionnez une entrée appartenant au programme sur lequel vous souhaitez vous concentrer et cliquez sur **[!UICONTROL Afficher la cible du programme]**.
+1. Sélectionnez une entrée appartenant au programme sur lequel vous souhaitez vous concentrer et cliquez sur **[!UICONTROL Afficher le focus du programme]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -67,4 +67,4 @@ C&#39;est tout ! Comme vous pouvez le constater, vous pouvez réaliser de nombre
 
 >[!MORELIKETHIS]
 >
->[Suppression directe des entrées dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[Supprimer Des Entrées Directement Dans Le Calendrier Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

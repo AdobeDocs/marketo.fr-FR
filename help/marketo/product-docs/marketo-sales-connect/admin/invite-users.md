@@ -19,11 +19,11 @@ L’ajout d’utilisateurs est rapide et facile !
 
    ![](assets/one.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion des utilisateurs**.
+1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
 
    ![](assets/invite-team-members-2.png)
 
-1. Cliquez sur **Invitation d’utilisateurs**.
+1. Cliquez sur **Inviter des utilisateurs**.
 
    ![](assets/invite-team-members-3.png)
 

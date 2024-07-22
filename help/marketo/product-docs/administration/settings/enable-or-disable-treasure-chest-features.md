@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Le Treasure Chest contient des fonctionnalités expérimentales amusantes qui ne
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. Cliquez sur **[!UICONTROL Poitrine au trésor]**.
+1. Cliquez sur **[!UICONTROL Treasure Chest]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
@@ -31,7 +31,7 @@ Le Treasure Chest contient des fonctionnalités expérimentales amusantes qui ne
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Vérifiez les **[!UICONTROL Activé]** pour activer ou décocher la case à désactiver, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Activé]** pour activer ou décocher pour désactiver, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

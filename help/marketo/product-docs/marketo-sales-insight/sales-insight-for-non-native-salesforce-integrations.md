@@ -17,10 +17,10 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
 
 >[!PREREQUISITES]
 >
->* La fonction &quot;MSI Non natif&quot; est activée pour votre instance Marketo avant de commencer à configurer MSI. Si ce n’est pas le cas, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Si vous n’avez pas encore acheté cette fonctionnalité, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
->* Un compte Salesforce avec [Configuration du package MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* API REST MARKETO [configuration réussie](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Les API CRUD exposées seront la base de la synchronisation non native.
->* Lecture [billet de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} afin d’obtenir une compréhension de l’objet et des relations.
+>* La fonction &quot;MSI Non natif&quot; est activée pour votre instance Marketo avant de commencer à configurer MSI. Si ce n&#39;est pas le cas et que vous avez déjà acheté la fonctionnalité, contactez le [support Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Si vous n’avez pas encore acheté cette fonctionnalité, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Un compte Salesforce avec [MSI Package configuré](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+>* API REST Marketo [ configurée avec succès ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Les API CRUD exposées seront la base de la synchronisation non native.
+>* Lisez [cet article de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} afin de mieux comprendre l’objet et les relations.
 >* Configurez les objets Salesforce pour qu’ils affichent l’identifiant unique global non sensible à la casse de 18 caractères plutôt que l’identifiant unique global sensible à la casse de 15 caractères.
 
 >[!NOTE]
@@ -31,7 +31,7 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
 
 1. Synchroniser l’utilisateur commercial Salesforce avec Marketo.
 
-   L’utilisateur commercial Salesforce est un utilisateur externe propriétaire des Leads/Contacts dans Salesforce. Un représentant commercial Marketo doit être mis à jour pour l’utilisateur commercial Salesforce. La variable *externalSalesPersonId* est obligatoire pour l’insertion de la personne commerciale.
+   L’utilisateur commercial Salesforce est un utilisateur externe propriétaire des Leads/Contacts dans Salesforce. Un représentant commercial Marketo doit être mis à jour pour l’utilisateur commercial Salesforce. Le champ *externalSalesPersonId* est obligatoire pour l’insertion de la personne chargée des ventes.
 
    <table> 
     <colgroup> 
@@ -54,11 +54,11 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
    </table>
 
    * Documentation de l’API pour le représentant commercial : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
-   * Documentation de l’API pour la synchronisation de la personne commerciale : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
+   * Documentation de l’API pour la synchronisation de la personne chargée des ventes : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchronisation des comptes Salesforce avec Marketo.
 
-   Une société Marketo doit être mise à niveau pour le compte Salesforce. La variable _externalCompanyId_ et _externalSalesPersonId_ Les champs sont obligatoires pour l’insertion de la société.
+   Une société Marketo doit être mise à niveau pour le compte Salesforce. Les champs _externalCompanyId_ et _externalSalesPersonId_ sont obligatoires pour la configuration de la société.
 
    <table> 
     <colgroup> 
@@ -86,11 +86,11 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
    </table>
 
    * Documentation API pour les entreprises : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
-   * Documentation de l’API pour la synchronisation des entreprises : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
+   * Documentation API pour la synchronisation des entreprises : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synchronisez les contacts/prospects Salesforce avec Marketo.
 
-   Vous devez insérer un prospect Marketo pour le prospect/contact Salesforce. La variable _externalPersonId_, _externalSalesPersonId_, et _externalCompanyId_ Les champs sont obligatoires pour l’insertion du prospect.
+   Vous devez insérer un prospect Marketo pour le prospect/contact Salesforce. Les champs _externalPersonId_, _externalSalesPersonId_ et _externalCompanyId_ sont obligatoires pour l’insertion du prospect.
 
    <table> 
     <colgroup> 
@@ -107,27 +107,27 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
      <tr> 
       <td>externalPersonId</td> 
       <td>Identifiant unique global non sensible à la casse des leads/contacts Salesforce</td> 
-      <td>Identifie l’enregistrement de piste Marketo à un objet de piste/contact Salesforce externe.<br><br>Il s’agit d’un nouveau champ qui est introduit pour MSI Non-Native.</td> 
+      <td>Identifie l’enregistrement de piste Marketo à un objet de piste/contact Salesforce externe.<br><br>Il s’agit d’un nouveau champ introduit pour MSI Non-Native.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
       <td>Identifiant unique global sensible à la casse des utilisateurs Salesforce Sales</td> 
-      <td>Identifie l’objet externe Salesforce Sales User propriétaire de ce prospect/contact.<br><br>Fait également le lien entre le prospect et la personne qui effectue les ventes dans Marketo. Il est obligatoire que la personne commerciale soit synchronisée correctement en premier.</td> 
+      <td>Identifie l’objet externe Salesforce Sales User propriétaire de ce prospect/contact.<br><br>Correspond également au prospect avec le représentant commercial dans Marketo. Il est obligatoire que la personne commerciale soit synchronisée correctement en premier.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
       <td>Identifiant unique global sensible à la casse du compte Salesforce</td> 
-      <td>Identifie l’objet de compte Salesforce externe auquel le prospect/contact appartient.<br><br>Associe également l’enregistrement de piste à une société dans Marketo. Il est obligatoire que le compte Salesforce soit correctement synchronisé en premier.</td> 
+      <td>Identifie l’objet de compte Salesforce externe auquel le prospect/contact appartient.<br><br>Fait également référence à l’enregistrement de piste à une société dans Marketo. Il est obligatoire que le compte Salesforce soit correctement synchronisé en premier.</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * Documentation de l’API pour Leads : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
-   * Documentation de l’API pour la synchronisation des pistes : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
+   * Documentation API pour Leads : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * Documentation API pour la synchronisation des pistes : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synchronisation des opportunités Salesforce avec Marketo.
 
-   Vous devez insérer une opportunité Marketo pour l’opportunité Salesforce. La variable _externalOpportunityId_, _externalCompanyId_, et _externalSalesPersonId_ Les champs sont obligatoires pour la promotion de l’opportunité.
+   Vous devez insérer une opportunité Marketo pour l’opportunité Salesforce. Les champs _externalOpportunityId_, _externalCompanyId_ et _externalSalesPersonId_ sont obligatoires pour l’insertion de l’opportunité.
 
    <table> 
     <colgroup> 
@@ -159,12 +159,12 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
     </tbody> 
    </table>
 
-   * Documentation de l’API pour Opportunity : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentation de l’API pour l’opportunité : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentation de l’API pour la synchronisation des opportunités : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniser les rôles de contact Salesforce avec Marketo.
 
-   Les rôles de contact Salesforce pour une opportunité Salesforce peuvent ensuite être synchronisés via le rôle d’opportunité Marketo. L’enregistrement Rôle d’opportunité requiert le _externalOpportunityId_, _rôle_, et _leadId_ des champs.
+   Les rôles de contact Salesforce pour une opportunité Salesforce peuvent ensuite être synchronisés via le rôle d’opportunité Marketo. L’enregistrement Rôle d’opportunité requiert les champs _externalOpportunityId_, _role_ et _leadId_.
 
    <table> 
     <colgroup> 
@@ -196,14 +196,14 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
     </tbody> 
    </table>
 
-   * Documentation de l’API pour Opportunity : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentation de l’API pour l’opportunité : [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentation de l’API pour la synchronisation des opportunités : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniser les champs de notation MSI/Dernier moment intéressant avec SFDC.
 
    Une fois vos objets Salesforce correctement synchronisés avec Marketo, vous pouvez profiter des fonctionnalités MSI. Les champs MSI Last intéressant Moment/Score seront exposés dans l’API REST pour Leads. Ces champs sont calculés par MSI et sont en lecture seule.
 
-   Les champs Dernier moment/Score intéressant d’un prospect Marketo doivent être régulièrement synchronisés avec Salesforce à l’aide du point de terminaison de l’API REST. Interrogez ce point de terminaison pour un prospect Marketo à l’aide de la variable _externalPersonId_ comme filterType et transmission du GUID de prospect Salesforce en tant que filterValue.
+   Les champs Dernier moment/Score intéressant d’un prospect Marketo doivent être régulièrement synchronisés avec Salesforce à l’aide du point de terminaison de l’API REST. Interrogez ce point de terminaison pour un prospect Marketo à l’aide de _externalPersonId_ en tant que filterType et transmettez le GUID de prospect Salesforce en tant que filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -224,7 +224,7 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
      </tr> 
      <tr> 
       <td>msiLastInterestingMomentType</td> 
-      <td>Libellé : Dernier type de moment intéressant<br>Nom : Last_Interesting_Moment_Type__c</td> 
+      <td>Libellé : Dernier moment intéressant Type<br>Nom : Last_Intégrant_Moment_Type__c</td> 
       <td>Type du dernier moment intéressant pour l'affaire</td> 
      </tr> 
      <tr> 
@@ -239,8 +239,8 @@ Si votre compte Adobe Marketo Engage est connecté à Salesforce par le biais d�
      </tr> 
      <tr> 
       <td>msiLastInterestingMomentSource</td> 
-      <td><p>Libellé : Dernière source de moment intéressant</p><p>Nom : Last_Interesting_Moment_Source__c</p></td> 
-      <td>Source du dernier moment intéressant pour l'affaire</td> 
+      <td><p>Étiquette : Dernier moment intéressant Source</p><p>Nom : Last_Interesting_Moment_Source__c</p></td> 
+      <td>Source du dernier moment intéressant pour la piste</td> 
      </tr> 
      <tr> 
       <td>priorité</td> 

@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Une fois la création de votre campagne par lots terminée, vous pouvez choisir de l’exécuter maintenant ou ultérieurement. Voici comment l&#39;exécuter immédiatement.
 
-1. Sélectionnez la campagne par lots, accédez à la **[!UICONTROL Planification]** , puis cliquez sur **[!UICONTROL Exécuter une fois]**.
+1. Sélectionnez la campagne par lots, accédez à l’onglet **[!UICONTROL Planning]**, puis cliquez sur **[!UICONTROL Exécuter une fois]**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
-1. Assurez-vous de **[!UICONTROL Exécuter maintenant]** est sélectionné et cliquez sur **[!UICONTROL Exécuter]**.
+1. Assurez-vous que **[!UICONTROL Exécuter maintenant]** est sélectionné et cliquez sur **[!UICONTROL Exécuter]**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
-1. Confirmer en cliquant sur **[!UICONTROL Exécuter]** encore une fois.
+1. Confirmez en cliquant une fois de plus sur **[!UICONTROL Exécuter]**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Faciles poitrine ! Vous pouvez également [planifie les exécutions pour plus tard](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} si vous préférez.
+   Faciles poitrine ! Vous pouvez également [planifier des exécutions pour plus tard](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} si vous préférez.
 
    >[!NOTE]
    >
-   >* [Planification de l’exécution d’une campagne dynamique par lots ultérieurement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
+   >* [Planifier une campagne dynamique par lots à exécuter ultérieurement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
    >* [Planification d’une campagne par lots récurrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

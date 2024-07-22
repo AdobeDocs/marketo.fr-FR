@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >Pour ajouter une personne à une campagne Marketo à partir de Sales Connect, Sales Connect doit avoir l’ID de prospect Marketo de la personne.
 
-1. Cliquez sur le bouton **Personnes** Onglet.
+1. Cliquez sur l&#39;onglet **Personnes** .
 
    ![](assets/add-to-marketing-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-2.png)
 
-1. Cochez la case pour sélectionner votre ou vos contacts, puis cliquez sur **Ajouter la sélection à la campagne**.
+1. Cochez la case pour sélectionner votre ou vos contacts, puis cliquez sur **Ajouter la sélection à Campaign**.
 
    ![](assets/add-to-marketing-campaign-3.png)
 
@@ -56,17 +56,17 @@ PICC
 >
 >Si vous ne voyez pas l’espace de travail que vous souhaitez, assurez-vous que l’administrateur le configure via la page Accès à l’équipe Marketo .
 
-1. Sélectionnez la campagne souhaitée, puis cliquez sur **Suivant**.
+1. Sélectionnez la campagne souhaitée et cliquez sur **Suivant**.
 
 PICC
 
-1. Les contacts qui remplissent les critères s&#39;affichent. Cliquez sur **Début** pour les ajouter.
+1. Les contacts qui remplissent les critères s&#39;affichent. Cliquez sur **Démarrer** pour les ajouter.
 
 PICC
 
 ## Ajout d’un groupe à une campagne {#add-a-group-to-a-campaign}
 
-1. Cliquez sur le bouton **Personnes** Onglet.
+1. Cliquez sur l&#39;onglet **Personnes** .
 
 PICC
 
@@ -82,7 +82,7 @@ PICC
 
 PICC
 
-1. Sélectionner **Campagne marketing**.
+1. Sélectionnez **Campagne marketing**.
 
 PICC
 
@@ -98,10 +98,10 @@ PICC
 >
 >Si vous ne voyez pas l’espace de travail que vous souhaitez, assurez-vous que l’administrateur le configure via la page Accès à l’équipe Marketo .
 
-1. Sélectionnez la campagne souhaitée, puis cliquez sur **Suivant**.
+1. Sélectionnez la campagne souhaitée et cliquez sur **Suivant**.
 
 PICC
 
-1. Les contacts qui remplissent les critères s&#39;affichent. Cliquez sur **Début** pour les ajouter.
+1. Les contacts qui remplissent les critères s&#39;affichent. Cliquez sur **Démarrer** pour les ajouter.
 
 PICC

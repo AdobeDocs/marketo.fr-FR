@@ -22,11 +22,11 @@ En tant qu’administrateur, vous pouvez activer l’enregistrement des appels p
 
    ![](assets/enable-call-recording-2.png)
 
-1. Sélectionnez la **Activer l’enregistrement des appels** bascule.
+1. Sélectionnez la bascule **Activer l’enregistrement des appels** .
 
    ![](assets/enable-call-recording-3.png)
 
-1. Si vous souhaitez permettre à vos vendeurs d’activer ou de désactiver eux-mêmes l’enregistrement des appels, cliquez sur **Enregistrement facultatif pour tous les membres de l’équipe**. Si vous souhaitez que tous les appels soient enregistrés automatiquement, cliquez sur **Enregistrer tous les appels**.
+1. Si vous souhaitez offrir à vos vendeurs la possibilité d’activer ou de désactiver l’enregistrement des appels pour eux-mêmes, cliquez sur **Enregistrement facultatif pour tous les membres de l’équipe**. Si vous souhaitez que tous les appels soient enregistrés automatiquement, cliquez sur **Enregistrer tous les appels**.
 
    ![](assets/enable-call-recording-4.png)
 

@@ -6,7 +6,7 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '311'
 ht-degree: 4%
 
 ---
@@ -57,7 +57,7 @@ Vous pouvez supprimer un filtre à tout moment en cliquant sur le X en regard de
   </tr> 
   <tr> 
    <td colspan="1"><strong>Attributs personnalisés</strong></td> 
-   <td colspan="1"><p>Celles-ci sont déterminées par vous. Tous les champs <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">vous activez</a> pour que l’analyse des opportunités puisse être filtrée dans les statistiques sur les performances.</p></td> 
+   <td colspan="1"><p>Celles-ci sont déterminées par vous. Tous les champs <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">que vous activez</a> pour l’analyse des opportunités peuvent être filtrés dans Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Période d’investissement</strong></p></td> 
@@ -73,7 +73,7 @@ Vous pouvez supprimer un filtre à tout moment en cliquant sur le X en regard de
   </tr> 
   <tr> 
    <td><strong>Espace de travail</strong></td> 
-   <td><p>Les espaces de travail sont des zones distinctes dans Marketo qui contiennent des ressources marketing, telles que : programmes, landing pages, emails, etc. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Pour en savoir plus sur les espaces de travail, cliquez ici.</a></p></td> 
+   <td><p>Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing, telles que des programmes, des landing pages, des emails, etc. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">En savoir plus sur les espaces de travail ici.</a></p></td> 
   </tr> 
  </tbody> 
 </table>

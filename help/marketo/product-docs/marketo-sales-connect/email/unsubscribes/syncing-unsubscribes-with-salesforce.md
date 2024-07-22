@@ -6,8 +6,8 @@ exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 5%
+source-wordcount: '436'
+ht-degree: 1%
 
 ---
 
@@ -31,11 +31,11 @@ Lorsque vous avez activé la synchronisation de désabonnement (Étape 3 ci-dess
 
 Les utilisateurs peuvent décider s’ils souhaitent synchroniser leurs désabonnements avec le champ Email Opt Out standard avec lequel Marketo peut également se synchroniser, ou s’ils peuvent se synchroniser avec le champ Opposition de vente de Marketo afin que les désabonnements des ventes et les désabonnements marketing puissent être différenciés.
 
-1. Accédez au [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Accédez à l’ [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Désabonne**.
+1. Sous Paramètres d’administration, sélectionnez **Se désabonner**.
 
    ![](assets/two-2.png)
 
@@ -49,12 +49,12 @@ Les utilisateurs peuvent décider s’ils souhaitent synchroniser leurs désabon
 
    | Champ | Description |
    |---|---|
-   | **Synchroniser avec le champ de désabonnement dans Salesforce** | Sélectionné par défaut, met uniquement à jour le champ Option d’Opt-out Salesforce. |
-   | **Synchroniser avec le champ Désabonnement de Marketo Sales** | Si vous souhaitez séparer les ventes et les désabonnements marketing, sélectionnez cette option pour mettre à jour d’autres [Champ d’exclusion des ventes Marketo.](#msoo) |
+   | **Champ d’exclusion de la synchronisation avec Salesforce** | Sélectionné par défaut, met uniquement à jour le champ Option d’Opt-out Salesforce. |
+   | **Champ d’exclusion de la synchronisation avec les ventes Marketo** | Si vous souhaitez séparer les ventes et les désabonnements marketing, sélectionnez cette option pour mettre à jour le [champ d&#39;exclusion des ventes Marketo.](#msoo) |
 
 ## Installation du champ Exclusion dans la mise en page {#installing-the-opt-out-field-in-the-page-layout}
 
-**Désabonnement par e-mail**
+**Email Opt Out**
 
 Opt-out des emails est un champ standard de Salesforce qui peut être installé à partir de Salesforce. Vous devez être un administrateur Salesforce pour l’installer.
 
@@ -62,7 +62,7 @@ Opt-out des emails est un champ standard de Salesforce qui peut être installé 
 
    ![](assets/five-1.png)
 
-1. Cliquez sur votre nom d’utilisateur et sélectionnez **Configuration**.
+1. Cliquez sur votre nom d&#39;utilisateur et sélectionnez **Setup**.
 
    ![](assets/six-1.png)
 
@@ -70,15 +70,15 @@ Opt-out des emails est un champ standard de Salesforce qui peut être installé 
 
    ![](assets/seven-1.png)
 
-1. Sélectionner **Disposition de page**.
+1. Sélectionnez **Mise en page**.
 
    ![](assets/eight-1.png)
 
-1. Sélectionner **Modifier** en regard de la mise en page à laquelle vous souhaitez ajouter le champ.
+1. Sélectionnez **Modifier** en regard de la mise en page à laquelle vous souhaitez ajouter le champ.
 
    ![](assets/nine.png)
 
-1. Sélectionner **Champs**.
+1. Sélectionnez **Fields**.
 
    ![](assets/ten.png)
 

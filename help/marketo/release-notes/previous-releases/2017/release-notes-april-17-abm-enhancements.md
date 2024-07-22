@@ -6,14 +6,14 @@ exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # Notes de mise à jour : Améliorations apportées à ABM le 17 avril {#release-notes-april-abm-enhancements}
 
-Les fonctionnalités suivantes sont incluses dans la version améliorée ABM du 17 avril. Vérifiez la disponibilité de votre édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version améliorée ABM du 17 avril. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
 
 ## Synchronisation des champs standard associés à la gestion de la relation client {#synching-of-crm-mapped-standard-fields}
 

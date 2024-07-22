@@ -16,11 +16,11 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 
 ## Modification d’un webinaire interactif {#modify-an-interactive-webinar}
 
-1. Sélectionnez le programme d’événements souhaité, puis cliquez sur **Modifier la salle/le modèle**.
+1. Sélectionnez le programme Événement de votre choix et cliquez sur **Changer de chambre/modèle**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. La pièce va charger. Si vous souhaitez modifier la pièce, sélectionnez-en une dans la liste déroulante Chambres . Pour simplement mettre à jour votre modèle, cliquez sur **Utilisation de la salle**.
+1. La pièce va charger. Si vous souhaitez modifier la pièce, sélectionnez-en une dans la liste déroulante Chambres . Pour simplement mettre à jour votre modèle, cliquez sur **Utiliser la salle**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -28,11 +28,11 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 >
 >La modification de votre chambre est facultative et n’est pas nécessaire pour mettre à jour votre modèle.
 
-1. Cliquez sur **Affinage de votre webinaire maintenant**.
+1. Cliquez sur **Affiner votre webinaire maintenant**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. Sélectionnez vos préférences audio/vidéo, puis cliquez sur **Entrée dans la salle**.
+1. Sélectionnez vos préférences audio/vidéo et cliquez sur **Entrée dans la salle**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
@@ -62,9 +62,9 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 
    >[!TIP]
    >
-   >Vous pouvez également cliquer avec le bouton droit sur le programme d’événements dans l’arborescence et sélectionner **Cloner** de là.
+   >Vous pouvez également cliquer avec le bouton droit sur le programme d’événements dans l’arborescence et sélectionner **Clone** dans l’arborescence.
 
-1. Attribuez un nom au programme cloné, définissez Workspace et Destination (si vous souhaitez que le programme vive ailleurs), puis cliquez sur **Enregistrer**.
+1. Donnez un nom au programme cloné, définissez Workspace et Destination (si vous souhaitez que le programme vive ailleurs), puis cliquez sur **Enregistrer**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
@@ -76,7 +76,7 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
    >
    >Actuellement, vous ne pouvez enregistrer un webinaire interactif cloné qu’en tant que webinaire interactif. Enregistrement d’un webinaire cloné comme webinaire partenaire (par exemple, Zoom, ON24, etc.) sera bientôt disponible.
 
-1. Choisissez les paramètres de votre webinaire cloné, puis cliquez sur **Cloner**.
+1. Choisissez les paramètres de votre webinaire cloné et cliquez sur **Cloner**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
@@ -92,7 +92,7 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 
    >[!TIP]
    >
-   >Vous pouvez également cliquer avec le bouton droit sur le programme d’événements dans l’arborescence et sélectionner **Supprimer** de là.
+   >Vous pouvez également cliquer avec le bouton droit sur le programme d’événements dans l’arborescence et sélectionner **Supprimer** dans l’arborescence.
 
 1. Cliquez sur **Supprimer**.
 

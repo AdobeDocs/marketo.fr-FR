@@ -2,10 +2,10 @@
 description: Gestion des données OP - Documents Marketo - Documentation du produit
 title: Gestion des données OP
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '319'
 ht-degree: 26%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 26%
 
 Il s’agit d’un exemple de processus simples de bonnes pratiques de gestion opérationnelle des données utilisant un programme par défaut, afin de vous aider à gérer la cohérence des données pour les enregistrements dans votre base de données de Marketo Engage.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -35,7 +35,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -112,7 +112,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Campagne intelligente</td> 
    <td> </td>
-   <td>Nouvelle personne issue de la publicité en ligne</td>
+   <td>Nouvelle personne d’Advertising en ligne</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
@@ -137,7 +137,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Lot de nuit source de la personne (pour les instances à trafic élevé)</td>
+   <td>Lot de nuit de la personne Source (pour les instances à trafic élevé)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -147,7 +147,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Capturer la source de la personne</td>
+   <td>Capture de la personne Source</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -171,17 +171,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
+* **Modèle de page d’entrée avec le même nom**
    * Copier le modèle d’origine - _Recommandé_
    * Utiliser le modèle de destination
 
 * **Images du même nom**
    * Conserver les deux fichiers - _Recommandé_
-   * Remplacer l’élément de cet abonnement
+   * Remplacer l&#39;élément de cet abonnement
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles - _Recommandé_

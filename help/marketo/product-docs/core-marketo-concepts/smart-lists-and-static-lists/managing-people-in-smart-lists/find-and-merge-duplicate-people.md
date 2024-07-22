@@ -6,7 +6,7 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage déduplique automatiquement lorsque de nouvelles personnes entren
 
 >[!PREREQUISITES]
 >
->La recherche et la fusion de doublons impliquent l&#39;utilisation de [listes dynamiques intégrées/système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>La recherche et la fusion de doublons impliquent l’utilisation de [listes dynamiques intégrées/système](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Marketo Engage déduplique automatiquement lorsque de nouvelles personnes entren
 
 ## Rechercher les doublons {#find-duplicates}
 
-1. Accédez au **[!UICONTROL Base]** zone.
+1. Accédez à la zone **[!UICONTROL Base de données]**.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ Marketo Engage déduplique automatiquement lorsque de nouvelles personnes entren
    >
    >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne Salesforce. Si possible, fusionnez les enregistrements dans Salesforce.
 
-1. Sélectionnez la variable **[!UICONTROL Doublons possibles]** Liste dynamique du système, puis cliquez sur **[!UICONTROL Personnes]** .
+1. Sélectionnez la liste dynamique du système **[!UICONTROL Doublons possibles]** et cliquez sur l’onglet **[!UICONTROL Personnes]** .
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également [Recherche de personnes en double avec une logique personnalisée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >Vous pouvez également [Rechercher des personnes en double avec une logique personnalisée](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Fusionner les personnes manuellement {#merge-people-manually}
 
 >[!CAUTION]
 >
->Lors de la fusion de personnes, si la personne perdante possède un objet personnalisé Marketo, elle _not_ être réassocié à la personne gagnante. Reparent l’objet personnalisé avant d’effectuer la fusion.
+>Lors de la fusion de personnes, si la personne perdante possède un objet personnalisé Marketo, il _et non_ sera réassocié à la personne gagnante. Reparent l’objet personnalisé avant d’effectuer la fusion.
 
-1. Sélectionnez les doublons en maintenant la touche Ctrl/Cmd enfoncée, puis cliquez sur **[!UICONTROL Fusionner les personnes]**.
+1. Sélectionnez les doublons en maintenant la touche Ctrl/Cmd enfoncée et en cliquant, puis cliquez sur **[!UICONTROL Fusionner les personnes]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo Engage déduplique automatiquement lorsque de nouvelles personnes entren
    >
    >Vous pouvez avoir deux doublons ou plus pour la même personne, en les sélectionnant tous à la fois.
 
-1. Vous verrez les valeurs entre les enregistrements qui _don&#39;t_ correspond à . Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **[!UICONTROL Fusion]** une fois terminé. Si vous ne souhaitez aucune des valeurs, vous pouvez vérifier **[!UICONTROL Personnalisé]** et saisissez la valeur de votre choix.
+1. Vous verrez les valeurs entre les enregistrements qui _ne correspondent pas_. Sélectionnez la valeur à conserver pour chaque champ. Cliquez sur **[!UICONTROL Fusionner]** une fois terminé. Si vous ne souhaitez aucune des valeurs, vous pouvez cocher **[!UICONTROL Personnalisé]** et saisir une valeur de votre choix.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

@@ -6,8 +6,8 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
@@ -17,11 +17,11 @@ Ce rapport présente le classement des mots-clés au fil du temps.
 
 ## Charger le rapport {#load-report}
 
-1. Accédez à **[!UICONTROL Rapports]**.
+1. Accédez à **[!UICONTROL Reports]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Cliquez sur **[!UICONTROL Tendances des classements de mots-clés]**.
+1. Cliquez sur **[!UICONTROL Tendances de classement de mots-clés]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -35,8 +35,8 @@ Ce rapport présente le classement des mots-clés au fil du temps.
    |---|---|
    | [!UICONTROL Mots-clés] | Nombre de mots-clés dont vous effectuez le suivi. |
    | [!UICONTROL URL de classement] | Le nombre d’URL de votre site classées dans la plage que vous avez définie. |
-   | [!UICONTROL Position moyenne rank] | Classement moyen des mots-clés dans la plage que vous avez définie. |
-   | [!UICONTROL Position moyenne recherches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours), dans une recherche Google US |
+   | [!UICONTROL Durée rank] | Classement moyen des mots-clés dans la plage que vous avez définie. |
+   | [!UICONTROL Durée searches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours), dans une recherche Google US |
 
 ## Filtrage des données {#filtering-data}
 
@@ -54,7 +54,7 @@ Ce rapport présente le classement des mots-clés au fil du temps.
 >
 >Vous pouvez exporter ce rapport vers votre bureau.
 
-1. Cliquez sur **[!UICONTROL Exportation CSV]** ou **[!UICONTROL Export PDF]**.
+1. Cliquez sur **[!UICONTROL Exporter CSV]** ou **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
@@ -62,4 +62,4 @@ Ce rapport présente le classement des mots-clés au fil du temps.
 
    >[!NOTE]
    >
-   >[Utilisation du rapport Tendances des classements de KW compétitifs](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[Utilisation du rapport Tendances de classement de KW compétitif](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

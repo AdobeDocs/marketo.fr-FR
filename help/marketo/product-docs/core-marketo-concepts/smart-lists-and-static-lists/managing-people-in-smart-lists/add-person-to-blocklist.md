@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 L’ajout de personnes à votre Liste bloquée les empêche de recevoir votre correspondance.
 
-1. Créer [programme par défaut](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} et donnez-lui le nom &quot;Ajouter à la Liste bloquée&quot;.
+1. Créez un [programme par défaut](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} et nommez-le &quot;Ajouter à la Liste bloquée&quot;.
 
-1. Cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
+1. Cliquez sur **[!UICONTROL New]** et sélectionnez **[!UICONTROL New Local Asset]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Sélectionner **[!UICONTROL Liste dynamique]**.
+1. Sélectionnez **[!UICONTROL Liste dynamique]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
@@ -41,7 +41,7 @@ L’ajout de personnes à votre Liste bloquée les empêche de recevoir votre co
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle campagne dynamique]**.
+1. Cliquez sur **[!UICONTROL New]** et sélectionnez **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
@@ -49,7 +49,7 @@ L’ajout de personnes à votre Liste bloquée les empêche de recevoir votre co
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Glisser-déposer **[!UICONTROL Membre de la liste dynamique]**.
+1. Effectuez un glisser-déposer de **[!UICONTROL Member of Smart List]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ L’ajout de personnes à votre Liste bloquée les empêche de recevoir votre co
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Cliquez sur l&#39;onglet **[!UICONTROL Flux.]** Faites glisser et déposez le **[!UICONTROL Modifier la valeur des données]** Action de flux.
+1. Cliquez sur l’onglet **[!UICONTROL Flux]** . Faites glisser et déposez l’action Flux **[!UICONTROL Modifier la valeur de données]**.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. Dans le **[!UICONTROL Attribut]** menu déroulant **[!UICONTROL Liste bloquée]** et défini **[!UICONTROL Nouvelle valeur]** to **[!UICONTROL true]**.
+1. Dans la liste déroulante **[!UICONTROL Attribute]** , sélectionnez **[!UICONTROL Block Listed]** et définissez **[!UICONTROL New Value]** sur **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Planification]** et sélectionnez **[!UICONTROL Exécuter une fois]**.
+1. Cliquez sur l’onglet **[!UICONTROL Planning]** et sélectionnez **[!UICONTROL Exécuter une fois]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Sélectionner **[!UICONTROL Exécuter maintenant]** et cliquez sur **[!UICONTROL Exécuter]**.
+1. Sélectionnez **[!UICONTROL Run Now]** et cliquez sur **[!UICONTROL Run]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Cliquez sur **[!UICONTROL Exécuter]** encore une fois.
+1. Cliquez de nouveau sur **[!UICONTROL Exécuter]**.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Ces personnes ne recevront plus d’e-mails.
 
 >[!TIP]
 >
->Créez un [Campagne de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} using **Modifier la valeur des données** avec **La liste bloquée est vraie** pour toutes les personnes qui, à l’avenir, auront des attributs qui leur permettront de placer sur la liste bloquée.
+>Créez une [campagne de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} à l’aide de **Modifier la valeur des données** avec **La liste bloquée est vraie** pour toutes les personnes qui, à l’avenir, auront des attributs pouvant bénéficier d’une liste bloquée.

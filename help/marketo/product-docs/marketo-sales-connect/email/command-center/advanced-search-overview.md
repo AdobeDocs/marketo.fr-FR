@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 1%
 
 ---
 
@@ -41,7 +41,7 @@ Sélectionnez la période de votre recherche. Les dates prédéfinies sont mises
 
 ![](assets/date.png)
 
-**Qui**
+**Who**
 
 Filtrez par destinataire/expéditeur d’email dans la section Qui .
 
@@ -49,11 +49,11 @@ Filtrez par destinataire/expéditeur d’email dans la section Qui .
 
 | Liste déroulante | Description |
 |---|---|
-| **Afficher comme** | Vous pouvez filtrer par un expéditeur spécifique dans votre instance Sales Connect (cette option est disponible uniquement pour les administrateurs). |
+| **Afficher sous** | Vous pouvez filtrer par un expéditeur spécifique dans votre instance Sales Connect (cette option est disponible uniquement pour les administrateurs). |
 | **Par groupe** | Filtrez les emails selon un groupe spécifique de destinataires. |
-| **Par individu** | Filtrer par destinataire spécifique. |
+| **Par Personne** | Filtrer par destinataire spécifique. |
 
-**Quand**
+**When**
 
 Choisissez par date de création, date de diffusion, date d’échec ou date planifiée. Les options disponibles changent en fonction de l’état de l’email que vous choisissez (Envoyé, Non livré, En attente).
 
@@ -65,9 +65,9 @@ Filtrez les emails par participation à une campagne.
 
 ![](assets/campaigns.png)
 
-**Statut**
+**Status**
 
-Vous avez le choix entre trois statuts d&#39;email. Les options de type/activité changent en fonction de l’état sélectionné.
+Vous avez le choix entre trois statuts d&#39;un email. Les options de type/activité changent en fonction de l’état sélectionné.
 
 ![](assets/status.png)
 
@@ -81,15 +81,15 @@ Filtre par activité d’email envoyée. Vous pouvez choisir des vues/aucun affi
 
 ![](assets/status-pending.png)
 
-Filtre tous les emails en attente.
+Filtre par tous les emails en attente.
 
 | Statut | Description |
 |---|---|
-| **Programmé** | Emails programmés à partir de la fenêtre de composition (Salesforce ou application web), des modules externes de messagerie ou d’une campagne. |
-| **Avant-projets** | Courriers électroniques actuellement en état de brouillon. Les emails nécessitent un objet et un destinataire pour être enregistrés en tant que brouillon. |
+| **Planifié** | Emails programmés à partir de la fenêtre de composition (Salesforce ou l’application web), des modules externes de messagerie ou d’une campagne. |
+| **Brouillons** | Courriers électroniques actuellement en état de brouillon. Les emails nécessitent un objet et un destinataire pour être enregistrés en tant que brouillon. |
 | **En cours** | Emails en cours d’envoi. Les emails ne doivent pas rester dans cet état pendant plus de quelques secondes. |
 
-***État : Non remis***
+***État : non livré***
 
 ![](assets/status-undelivered.png)
 
@@ -97,8 +97,8 @@ Filtre les messages par message électronique qui n’ont jamais été remis.
 
 | Statut | Description |
 |---|---|
-| **Échec** | Lorsqu’un courrier électronique ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les suivantes : des emails sont envoyés aux contacts désabonnés/bloqués, ou en cas de problème lors du remplissage des champs dynamiques). |
-| **e-mails renvoyés** | Un email est marqué comme rebonds lorsqu&#39;il est rejeté par le serveur du destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici. |
+| **Failed** | Lorsqu’un email ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les emails envoyés aux contacts désabonnés/bloqués, ou si un problème s’est produit lors du remplissage des champs dynamiques). |
+| **Bounce** | Un email est marqué comme rebonds lorsqu&#39;il est rejeté par le serveur du destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici. |
 | **Spam** | Lorsque l&#39;email a été marqué comme spam (terme courant pour désigner les emails non sollicités) par le destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici. |
 
 ## Recherches enregistrées {#saved-searches}
@@ -109,7 +109,7 @@ Voici comment créer une recherche enregistrée.
 
    ![](assets/save-search-1.png)
 
-1. Attribuez un nom à votre recherche et cliquez sur **Enregistrer**.
+1. Donnez un nom à votre recherche et cliquez sur **Enregistrer**.
 
    ![](assets/save-search-2.png)
 

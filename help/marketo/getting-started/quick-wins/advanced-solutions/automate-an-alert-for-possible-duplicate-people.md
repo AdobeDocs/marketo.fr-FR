@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7513680
 description: Automatisation d’une alerte pour les personnes pouvant être dupliquées - Documents Marketo - Documentation du produit
-title: Automatisation d’une alerte pour les personnes pouvant être dupliquées
+title: Automatisation d’une alerte pour les personnes potentiellement en double
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Automatisation d’une alerte pour les personnes pouvant être dupliquées {#automate-an-alert-for-possible-duplicate-people}
+# Automatisation d’une alerte pour les personnes potentiellement en double {#automate-an-alert-for-possible-duplicate-people}
 
 Souhaitez-vous qu’une alerte soit affichée chaque fois qu’une personne en double est créée ? Voici comment configurer une campagne dynamique pour ce faire.
 
-1. [Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Définissez la liste dynamique suivante :
+1. [Créez une campagne dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Définissez la liste dynamique suivante :
 
-* Déclencheur : **[!UICONTROL Personne créée]**
-* Filtre : **[!UICONTROL Dupliquer les champs]**. Nom du champ **[!UICONTROL is] [!UICONTROL Nom complet]**
+* Déclencheur : **[!UICONTROL La personne est créée]**
+* Filtre : **[!UICONTROL Champs En Double]**. Nom du champ **[!UICONTROL is] [!UICONTROL Nom complet]**
 
   ![](assets/automate-an-alert-1.png)
 
@@ -26,13 +26,13 @@ Souhaitez-vous qu’une alerte soit affichée chaque fois qu’une personne en d
   >
   >Soyez créatifs ! Testez différents champs pour obtenir de meilleurs résultats de filtrage.
 
-1. Dans l’étape de flux, choisissez [[!UICONTROL Envoyer une alerte]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} action de flux.
+1. À l’étape de flux, choisissez l’action de flux [[!UICONTROL Envoyer une alerte]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"}.
 
    ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
-   >En utilisant la variable [Envoyer le jeton Informations d’alerte](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} pour inclure un lien vers la personne dans le CRM.
+   >Utilisation du [jeton Send Alert Info](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} pour inclure un lien vers la personne dans votre CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Souhaitez-vous qu’une alerte soit affichée chaque fois qu’une personne en d
    >
    >De plus, deux personnes portant le même nom ne signifient pas automatiquement qu&#39;elles sont la même personne.
 
-1. Activez l’opération dans la variable **[!UICONTROL Planification]** .
+1. Activez la campagne dans l’onglet **[!UICONTROL Planning]** .
 
    ![](assets/automate-an-alert-3.png)
 

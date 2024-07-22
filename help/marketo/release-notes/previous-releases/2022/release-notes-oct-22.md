@@ -16,17 +16,17 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 >[!AVAILABILITY]
 >
->Fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
+>Les fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **14 octobre 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
+Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **14 octobre 2022**, avec un déploiement progressif des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 ### Environnement de données marketing {#marketing-data-environment}
 
 </br>
 
-* **Synchronisation des champs personnalisés des membres du programme**: possibilité de synchroniser de manière bidirectionnelle les champs extensibles capturés pour un membre du programme (par exemple, les préférences du participant lors de l’enregistrement de l’événement, tels que la nourriture, les sessions, les suivis, etc.) avec des champs de membre Campaign dans Salesforce.
+* **Synchronisation des champs personnalisés des membres du programme** : possibilité de synchroniser de manière bidirectionnelle les champs extensibles capturés pour un membre du programme (par exemple, les préférences du participant lors de l’enregistrement de l’événement, comme la nourriture, les sessions, les suivis, etc.) avec des champs de membre Campaign dans Salesforce.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-* **Intégration d’Adobe Privacy Service**: harmonisation avec Privacy Service afin d’automatiser la conformité aux réglementations de confidentialité des données dans les produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage intégrés au système Identity Management Adobe.
+* **Intégration de Privacy Service Adobe** : harmonisation avec Privacy Service pour automatiser la conformité aux réglementations de confidentialité des données dans les produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage intégrés au système Identity Management Adobe.
 
 <table> 
   <tr> 
@@ -58,7 +58,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Mise à jour d’Screens dans l’expérience de nouvelle génération**: nous fournissons des écrans supplémentaires actualisés dans l’expérience de nouvelle génération qui offrent des améliorations de conception et d’utilisation mises à jour accessibles par le biais d’un bouton d’activation/désactivation :
+* **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons des écrans supplémentaires actualisés dans l’expérience de nouvelle génération qui offrent une mise à jour de la conception et de la convivialité, accessibles par basculement :
 
    * Détails du modèle de page d’entrée
    * Liste des modèles de courrier électronique
@@ -75,7 +75,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-* **Amélioré Utilisé par l’onglet Détails du modèle de courrier électronique**: dans la nouvelle expérience, vous verrez des informations supplémentaires relatives aux ressources à l’aide du modèle de courrier électronique, notamment Asset Status (État de la ressource), Last Modified (Dernière modification) et Last Modified by (Dernière modification par). Vous pouvez également rechercher, trier et filtrer la liste des ressources utilisées.
+* **Onglet Utilisation améliorée par dans les détails du modèle de courrier électronique** : dans la nouvelle expérience, vous verrez des informations supplémentaires relatives aux ressources à l’aide du modèle de courrier électronique, notamment l’état des ressources, la dernière modification et la dernière modification par. Vous pouvez également rechercher, trier et filtrer la liste des ressources utilisées.
 
 <table> 
   <tr> 
@@ -89,7 +89,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-* **Modèles de filtre de ressources de rapport**: nouvelle conception pour les modèles de configuration de rapport affichant une nouvelle arborescence de ressources dans le menu de configuration et un filtre pour Date de création et de modification.
+* **Modèles de filtre de ressources de rapport** : nouvelle conception des modèles de configuration de rapport affichant une nouvelle arborescence de ressources dans le menu de configuration et un filtre pour la date de création et de modification.
 
 <table> 
   <tr> 
@@ -107,7 +107,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Importation de pistes en bloc : association de vendeurs**: parité avec l’API REST Lead pour pouvoir associer des prospects aux vendeurs au cours du processus d’importation de prospects en masse, ce qui réduit la complexité et le nombre d’appels API requis.
+* **Importation de pistes en bloc : association de vendeurs** : parité avec l’API REST de piste pour pouvoir associer des pistes aux vendeurs au cours du processus d’importation de pistes en bloc, ce qui réduit la complexité et le nombre d’appels d’API requis.
 
 <table> 
   <tr> 
@@ -125,9 +125,9 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-![(étoile)](assets/yellow-star.png)
+![(star)](assets/yellow-star.png)
 
-* **Intégration de Sales Insight à Dynamic Chat**: le tableau de bord des insights inclut désormais les activités de Dynamic Chat dans la grille dynamique, ainsi qu’un résumé hebdomadaire et des cartes détaillées.
+* **Intégration de Sales Insight avec Dynamic Chat** : le tableau de bord Insights inclut désormais les activités de Dynamic Chat dans la grille dynamique, ainsi qu’un résumé hebdomadaire et des cartes détaillées.
 
 <table> 
   <tr> 
@@ -145,7 +145,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à diverses dates avant ou après la date de publication standard. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
-* **Réorganiser automatiquement les flux de dialogue pour les Dynamic Chat**: améliorez votre canevas de dialogue surchargé en organisant tout le contenu de la zone de travail dans un format propre et facile à lire en appuyant sur un bouton via l’option Réorganiser automatiquement .
+* **Réorganiser automatiquement les flux de dialogue pour les Dynamic Chat** : améliorez votre canevas de dialogue surpeuplé en organisant tout sur la zone de travail dans un format propre et facile à lire en appuyant sur un bouton via Réorganiser automatiquement.
 
 <table> 
   <tr> 
@@ -154,12 +154,12 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Icônes du concepteur de diffusion en continu</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Icônes de diffusion Designer</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Liens de réunion pour le Dynamic Chat**: option permettant d’inclure automatiquement un lien de réunion ou de réunion pour Google et Outlook dans chaque invitation à calendrier envoyée aux visiteurs.
+* **Liens de réunion pour Dynamic Chat** : option permettant d’inclure automatiquement un lien de réunion ou de réunion pour Google et Outlook dans chaque invitation à calendrier envoyée aux visiteurs.
 
 <table> 
   <tr> 
@@ -173,7 +173,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Prise en charge des types de données supplémentaires pour Dynamic Chat**: trois nouveaux types de données (booléen, entier, flottant) vous permettent d’exploiter davantage de champs de Marketo Engage existants dans Dynamic Chat pour des tâches telles que le ciblage en fonction des scores ou la question &quot;oui/non&quot; aux visiteurs.
+* **Prise en charge de types de données supplémentaires pour Dynamic Chat** : trois nouveaux types de données (booléen, entier, flottant) vous permettent d’exploiter davantage de champs de Marketo Engage existants dans Dynamic Chat pour des tâches telles que le ciblage en fonction des scores ou la question &quot;oui/non&quot; aux visiteurs.
 
 <table> 
   <tr> 
@@ -189,6 +189,6 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 ## Annonces {#announcements}
 
-* **Forms 1.0**: l’obsolescence de Forms 1.0 sera terminée avec la version d’octobre. Les ressources Forms 1.0 ne pourront plus envoyer de données à Marketo Engage et renverront des erreurs si elles sont tentées.
+* **Forms 1.0** : l’obsolescence de Forms 1.0 sera terminée avec la version d’octobre. Les ressources Forms 1.0 ne pourront plus envoyer de données à Marketo Engage et renverront des erreurs si elles sont tentées.
 
-* **Forms sans script**: Forms ne fonctionnera plus lorsque JavaScript est désactivé dans le navigateur. L’envoi du formulaire nécessite l’activation de JavaScript.
+* **Forms sans script** : Forms ne fonctionnera plus lorsque JavaScript est désactivé dans le navigateur. L’envoi du formulaire nécessite l’activation de JavaScript.

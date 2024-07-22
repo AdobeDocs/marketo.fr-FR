@@ -43,7 +43,7 @@ Les balises sont des attributs qui décrivent vos programmes et qui sont utilis�
 
 ## Modification d’une balise {#edit-a-tag}
 
-1. Accédez au **Configuration** . Cliquez avec le bouton droit de la souris sur la balise. Sélectionner **Modifier**.
+1. Accédez à l’onglet **Setup** (Configuration). Cliquez avec le bouton droit de la souris sur la balise. Sélectionnez **Edit**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,7 +61,7 @@ Les balises sont des attributs qui décrivent vos programmes et qui sont utilis�
 
 ## Suppression d’une balise  {#delete-a-tag}
 
-1. Accédez au **Configuration** . Cliquez avec le bouton droit de la souris sur la balise et sélectionnez **Supprimer**.
+1. Accédez à l’onglet **Setup** (Configuration). Cliquez avec le bouton droit de la souris sur la balise et sélectionnez **Supprimer**.
 
    ![](assets/use-tags-in-a-program-10.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
-description: Création d’un événement avec GotoWebinar - Documents Marketo - Documentation du produit
+description: Créer un événement avec GotoWebinar - Documents Marketo - Documentation du produit
 title: Création d’un événement avec GotoWebinar
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ajout de GoToWebinar en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
->* [Création d’un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définissez les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)pour suivre l’engagement
+>* [Ajouter GoToWebinar en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Définissez les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour effectuer le suivi de l’engagement
 
 Commencez par créer votre webinaire dans GoToWebinar. Certains paramètres de création de votre GoToWebinar sont utilisés par Marketo et d’autres uniquement par GoToWebinar.
 
@@ -29,21 +29,21 @@ Vous trouverez ci-dessous une liste des paramètres utilisés par Marketo.
 
 **Nom du webinaire** : saisissez le nom du webinaire. Ce nom sera visible dans Marketo.
 
-**Description** (facultatif) : saisissez la description du webinaire. La description peut être affichée dans Marketo.
+**Description** (facultatif) - saisissez la description du webinaire. La description peut être affichée dans Marketo.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## Date et Heure {#date-time}
 
-Renseignez les informations suivantes pour votre webinaire et il sera transmis dans Marketo via l’adaptateur. Si vous apportez des modifications à ces informations, vous devez cliquer sur le lien &quot;**Actualisation à partir du fournisseur de webinaire**&quot; sous **Actions d’événement**, afin que Marketo puisse voir les modifications.
+Renseignez les informations suivantes pour votre webinaire et il sera transmis dans Marketo via l’adaptateur. Si vous apportez des modifications à ces informations, vous devez cliquer sur le lien &quot;**Actualiser à partir du fournisseur de webinaires**&quot; sous **Actions d’événement**, afin que Marketo puisse afficher les modifications.
 
-**Date de début** - saisissez votre date de début. Vous pourrez le voir dans Marketo.
+**Date de début** - entrez votre date de début. Vous pourrez le voir dans Marketo.
 
 **Heure de début** : saisissez l’heure de début. Vous pourrez le voir dans Marketo.
 
-**Heure de fin** - saisissez l’heure de fin. Vous pourrez le voir dans Marketo.
+**Heure de fin** : saisissez l’heure de fin. Vous pourrez le voir dans Marketo.
 
-**Fuseau horaire** - sélectionnez le fuseau horaire applicable. Il sera visible dans Marketo.
+**Fuseau horaire** : sélectionnez le fuseau horaire applicable. Il sera visible dans Marketo.
 
 **Type -** défini sur **Une session**.
 
@@ -55,19 +55,19 @@ Renseignez les informations suivantes pour votre webinaire et il sera transmis d
 
 >[!TIP]
 >
->Si vous avez besoin d’une aide supplémentaire sur GoToWebinar, veuillez consulter leur [Site d’aide](https://support.logmeininc.com/gotowebinar).
+>Si vous avez besoin d’aide supplémentaire sur GoToWebinar, consultez leur [site d’aide](https://support.logmeininc.com/gotowebinar).
 
 Maintenant, passons à Marketo !
 
-1. Sélectionnez un événement. Cliquez sur **Actions d’événement** et choisissez **Paramètres d’événement**.
+1. Sélectionnez un événement. Cliquez sur **Actions d’événement** et sélectionnez **Paramètres d’événement**.
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
    >[!NOTE]
    >
-   >Le type de canal de l’événement sélectionné doit être **webinaire**.
+   >Le type de canal de l’événement sélectionné doit être **webinar**.
 
-1. Choisir **GoToWebinar** de la **Partenaire d’événement** Liste.
+1. Sélectionnez **GoToWebinar** dans la liste **Event Partner**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -83,7 +83,7 @@ Maintenant, passons à Marketo !
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Excellent ! Désormais, l’événement est synchronisé et planifié par **GoToWebinar**.
+1. Excellent ! L’événement est maintenant synchronisé et planifié par **GoToWebinar**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -95,7 +95,7 @@ Maintenant, passons à Marketo !
    >
    >Pour renseigner votre email de confirmation avec cette URL unique, utilisez le jeton suivant dans votre email : `{{member.webinar url}}`. Lorsque l’URL de confirmation est envoyée, ce jeton correspond automatiquement à l’URL de confirmation unique de la personne.
    >
-   >Définissez votre adresse électronique de confirmation sur **Opérationnel** afin de s&#39;assurer que les personnes qui s&#39;inscrivent et peuvent se désinscrire reçoivent toujours leurs informations de confirmation.
+   >Définissez votre email de confirmation sur **Operational** pour vous assurer que les personnes qui s&#39;inscrivent et peuvent se désabonner reçoivent toujours leurs informations de confirmation.
 
    ![](assets/goto-webinar.png)
 
@@ -105,7 +105,7 @@ Maintenant, passons à Marketo !
 
    >[!TIP]
    >
-   >L’affichage des données dans Marketo peut prendre jusqu’à 48 heures. Si, après avoir attendu si longtemps, vous ne voyez toujours rien, sélectionnez **Actualisation à partir du fournisseur de webinaire** à partir du menu Actions d’événement dans la **Résumé** de votre événement.
+   >L’affichage des données dans Marketo peut prendre jusqu’à 48 heures. Si, après avoir attendu aussi longtemps que vous ne voyez toujours rien, sélectionnez **Actualiser à partir du fournisseur de webinaires** dans le menu Actions d’événement dans l’onglet **Résumé** de votre événement.
 
 Les personnes qui s’inscrivent à votre webinaire seront transférées à votre fournisseur de webinaires via l’étape de flux Modifier l’état du programme lorsque le nouvel état est défini sur &quot;Enregistré&quot;. Aucun autre statut ne repoussera la personne. Assurez-vous également d’effectuer l’étape de flux Modifier l’état du programme #1 et l’étape Envoyer un courrier électronique #2.
 

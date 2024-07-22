@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Un jeton Fichier de calendrier vous permet d’ajouter un lien d’événement de calendrier (.ics) à vos courriers électroniques et landing pages Marketo.
 
-1. Dans votre programme, accédez à **Mes jetons** .
+1. Dans votre programme, accédez à l’onglet **Mes jetons**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Faites glisser un **Fichier de calendrier** jeton sur la zone de travail.
+1. Faites glisser un jeton **Fichier de calendrier** sur la zone de travail.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
@@ -35,5 +35,5 @@ Mission accomplie ! Assurez-vous de le tester.
 
 >[!MORELIKETHIS]
 >
->* [Inclure un événement de calendrier (.ics) dans un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [Inclure un événement de calendrier (.ics) dans un email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
 >* [Inclure un fichier ICS d’événement de calendrier dans une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

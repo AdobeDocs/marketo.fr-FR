@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Les canaux de programme sont un ensemble d’états ou de points de contrôle qu
 
 Si vous en faites une par accident ou si vous n&#39;en avez plus besoin, vous pouvez la supprimer.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-channel-1.png)
 
@@ -25,7 +25,7 @@ Si vous en faites une par accident ou si vous n&#39;en avez plus besoin, vous po
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Sélectionnez le canal à supprimer. Dans le **[!UICONTROL Actions de balise]** menu déroulant, cliquez sur **[!UICONTROL Supprimer]**.
+1. Sélectionnez le canal à supprimer. Dans la liste déroulante **[!UICONTROL Tag Actions]**, cliquez sur **[!UICONTROL Supprimer]**.
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ Si vous en faites une par accident ou si vous n&#39;en avez plus besoin, vous po
 
    ![](assets/delete-a-program-channel-3.png)
 
-Vous pouvez également [supprimer des états spécifiques des canaux ;](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+Vous pouvez également [supprimer des états spécifiques des canaux](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).

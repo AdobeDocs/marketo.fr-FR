@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,19 +17,19 @@ Pour recevoir les mises à jour automatiques d’un rapport de base ou les parta
 
 >[!NOTE]
 >
->Pour les abonnements aux rapports de l’Explorateur Recettes Cycle, voir [Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Pour les abonnements aux rapports de l’explorateur de recettes, voir [S’abonner à un rapport de l’explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Abonnements** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **Abonnements** .
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également vous abonner aux rapports à partir du **Analytics** .
+   >Vous pouvez également vous abonner aux rapports à partir de l’onglet **Analytics** .
 
 1. Cliquez sur **Nouvel abonnement au rapport**.
 
@@ -43,10 +43,10 @@ Pour recevoir les mises à jour automatiques d’un rapport de base ou les parta
    >
    >N’importe qui peut se désabonner du rapport dans l’e-mail qu’il reçoit.
 
-   C&#39;est tout ! Consultez votre boîte de réception !
+   C&#39;est tout ! Vérifiez votre boîte de réception !
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]
    >
-   >Découvrez comment [gérer tous les abonnements aux rapports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) à un seul endroit.
+   >Découvrez comment [gérer tous vos abonnements aux rapports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) à un seul endroit.

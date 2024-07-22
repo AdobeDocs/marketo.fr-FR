@@ -2,7 +2,8 @@
 description: Bonnes pratiques pour les webinaires interactifs - Documents Marketo - Documentation du produit
 title: Bonnes pratiques pour les webinaires interactifs
 feature: Interactive Webinars
-source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
+exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '1650'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 
 * Créez un exemple de webinaire interactif (IW) et clonez-le à chaque fois, afin d’éviter de repartir de zéro.
 
-* Réutilisez les salles Adobe Connect si vous diffusez à nouveau le même contenu ultérieurement. Accédez à **Effacer le contenu des capsules** depuis le menu Pods pour effacer l’historique des conversations et les résultats des sondages/quiz de la dernière session. Cela efface le contenu de la pièce. Toutes les données des sessions précédentes seront toujours disponibles en Marketo Engage.
+* Réutilisez les salles Adobe Connect si vous diffusez à nouveau le même contenu ultérieurement. Accédez à **Effacer le contenu des capsules** dans le menu Pods pour effacer l’historique de conversation et les résultats du sondage/quiz de la dernière session. Cela efface le contenu de la pièce. Toutes les données des sessions précédentes seront toujours disponibles en Marketo Engage.
 
 * Évitez de planifier des sessions de retour en arrière. Assurez-vous d’avoir au moins 30 minutes de préparation avant le début de votre webinaire. Cela vous permet de charger les modifications de présentation de dernière minute, d’ajuster votre microphone et votre appareil photo, et de mettre à l’aise les nouveaux présentateurs avec l’interface.
 
@@ -41,7 +42,7 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 
 * Utilisez votre site web/blog, les médias sociaux, la publicité payante et les promotions de partenaire pour atteindre un public plus large et générer des inscriptions.
 
-* Envoyer des emails de rappel aux invités enregistrés 2 à 3 jours avant le webinaire _et_ le jour de l&#39;événement pour s&#39;assurer qu&#39;ils ne l&#39;oublient pas et qu&#39;ils puissent y assister.
+* Envoyez des e-mails de rappel aux invités enregistrés 2 à 3 jours avant le webinaire _et_ le jour de l’événement pour vous assurer qu’ils ne l’oublient pas et qu’ils puissent y assister.
 
 ### Conception d’une salle {#designing-a-room}
 
@@ -70,23 +71,23 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
    * Capsule de conversation pour permettre des conversations privées entre les membres de l’équipe de présentation.
    * Remarque Utilisez la capsule pour publier des messages de rappel, des questions à l’intention du présentateur ou des réponses aux questions standard que vous pouvez copier et coller pour obtenir des réponses rapides aux requêtes courantes.
 
-* Les capsules personnalisées sont des applications tierces qui peuvent être utilisées pour étendre les fonctionnalités d’une salle Adobe Connect. Les capsules personnalisées peuvent être téléchargées à partir de `apps.adobeconnect.com` en tant que fichiers .pod ou .zip pouvant ensuite être partagés dans la capsule de partage.
+* Les capsules personnalisées sont des applications tierces qui peuvent être utilisées pour étendre les fonctionnalités d’une salle Adobe Connect. Les capsules personnalisées peuvent être téléchargées à partir de `apps.adobeconnect.com` sous la forme de fichiers .pod ou .zip qui peuvent ensuite être partagés dans la capsule de partage.
    * Certaines capsules personnalisées les plus populaires sont Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * [Cliquez ici](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} pour regarder une courte vidéo sur l’utilisation de capsules personnalisées.
+   * [Cliquez ici](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} pour regarder une courte vidéo sur l’utilisation des capsules personnalisées.
 
-**Confidentialité : pour que les informations des participants restent confidentielles, vérifiez les paramètres ci-dessous :**
+**Confidentialité : pour garder confidentielles les informations des participants, vérifiez les paramètres ci-dessous :**
 
-* **Sélecteur d’activité**: le ticket d’activité affiche des informations sur la personne qui parle en ce moment et des alertes lorsque les participants rejoignent/quittent la salle. Vous pouvez supprimer le marqueur d’activité en décochant &quot;Afficher le marqueur d’activité&quot; sous la section &quot;Barre de menus&quot; dans les préférences de salle.
+* **Sélecteur d’activité** : le sélecteur d’activité affiche des informations sur la personne qui parle en ce moment et des alertes lorsque les participants rejoignent/quittent la pièce. Vous pouvez supprimer le marqueur d’activité en décochant &quot;Afficher le marqueur d’activité&quot; sous la section &quot;Barre de menus&quot; dans les préférences de salle.
 
-* **Capsule Q&amp;R**: le nom du participant qui a soumis la question et le nom de l’hôte/du présentateur qui a répondu peuvent être masqués. Pour ce faire, désélectionnez les options de confidentialité dans la section &quot;Capsule Q&amp;R&quot; des préférences de salle.
+* **Module Q&amp;R** : le nom du participant qui a soumis la question et le nom de l’hôte/du présentateur qui a répondu peuvent être masqués. Pour ce faire, désélectionnez les options de confidentialité dans la section &quot;Capsule Q&amp;R&quot; des préférences de salle.
 
-* **Panneau de conversation**: le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les tchats apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu de la capsule. [Cliquez ici](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
+* **Panneau de conversation** : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les tchats apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu de la capsule. [Cliquez ici](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
 
-* **Chat privé**: désactivez la conversation privée pour empêcher les participants de participer à la ping d’un autre participant. Pour ce faire, décochez &quot;Autoriser les participants à discuter en privé&quot; dans la section &quot;Chat&quot; des préférences de salle.
+* **Chat privé** : désactivez la conversation privée pour empêcher les participants de faire un ping à un autre participant. Pour ce faire, décochez &quot;Autoriser les participants à discuter en privé&quot; dans la section &quot;Chat&quot; des préférences de salle.
 
-* **Capsule de participant**: déplacez la capsule de participants vers la zone Hôte et Paramètre prédéfini .
+* **Capsule de participants** : déplacez la capsule de participants vers la zone Hôte et Paramètre prédéfini.
 
-## Livraison {#delivery}
+## Diffusion {#delivery}
 
 * Effectuez quelques exécutions préliminaires pour tester votre configuration audio/vidéo et pour vous familiariser avec Adobe Connect si vous ne l’avez pas déjà utilisé. N’oubliez pas d’inclure également vos présentateurs et co-hôtes lors de la répétition.
 
@@ -98,7 +99,7 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 
 * Les participants peuvent entrer dans la pièce 15 min avant le début prévu. Basculez vers la disposition du hall 15 minutes avant le début prévu pour les participants qui arrivent tôt.
 
-* Utilisez la zone d’accueil et de présentation comme zone d’arrière-plan pour une coordination privée. [Cliquez ici](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} pour regarder une courte vidéo sur la zone Hôte et Paramètre prédéfini.
+* Utilisez la zone d’accueil et de présentation comme zone d’arrière-plan pour une coordination privée. [Cliquez ici](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} pour regarder une courte vidéo sur la zone Hôte et Présentateur.
 
 * Utilisez le mode de préparation pour effectuer des modifications de dernière minute en privé. [Cliquez ici](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} pour regarder une courte vidéo en mode de préparation.
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352470
-description: Création d’un rapport d’appel de priorité Salesforce avec les données de connexion aux ventes - Documents Marketo - Documentation du produit
+description: Créer un rapport d’appel de priorité Salesforce avec les données de connexion aux ventes - Documents Marketo - Documentation du produit
 title: Créer un rapport d’appel de priorité Salesforce avec les données de connexion des ventes
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect

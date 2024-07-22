@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >Cette fonctionnalité est disponible uniquement :
 >
->* À utiliser uniquement avec les objets personnalisés Marketo, et non avec les objets personnalisés synchronisés via le [!DNL Salesforce] ou [!DNL Microsoft Dynamics] integration
+>* Pour une utilisation uniquement avec des objets personnalisés Marketo, pas avec des objets personnalisés synchronisés via l’intégration native [!DNL Salesforce] ou [!DNL Microsoft Dynamics]
 >* Comme déclencheur, pas comme filtre
 >
->Veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour activer les déclencheurs de modification d’objet personnalisés.
+>Contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour activer les déclencheurs de modification d’objet personnalisé.
 
-Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une action de flux lorsqu’un objet personnalisé est ajouté à une personne ou à une entreprise. Vous pouvez également créer une liste dynamique qui utilise une _change_ dans un objet personnalisé comme déclencheur. Par exemple, utilisez-le pour envoyer un email lorsqu’un nom de cours est mis à jour.
+Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une action de flux lorsqu’un objet personnalisé est ajouté à une personne ou à une entreprise. Vous pouvez également créer une liste dynamique qui utilise un _changement_ dans un objet personnalisé comme déclencheur. Par exemple, utilisez-le pour envoyer un email lorsqu’un nom de cours est mis à jour.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une 
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Sélectionnez la variable [!UICONTROL attribut trigger].
+1. Sélectionnez l’ [!UICONTROL attribut déclencheur].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
@@ -54,5 +54,5 @@ Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une 
 
    >[!NOTE]
    >
-   >* [Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [Compréhension des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

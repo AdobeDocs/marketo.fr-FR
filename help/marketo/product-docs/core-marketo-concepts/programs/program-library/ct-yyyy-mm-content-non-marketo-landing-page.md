@@ -2,11 +2,11 @@
 description: CT-YYYY-MM-Content Page d’entrée autre que Marketo - Documents Marketo - Documentation du produit
 title: Page d’entrée CT-AAAA-MM-Contenu non Marketo
 feature: Programs
-exl-id: 22b53312-ac62-4172-a719-c98fe1547d45
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 15%
+source-wordcount: '395'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Il s’agit d’un exemple de programme de contenu avec un formulaire de Marketo Engage pour télécharger du contenu sur une page d’entrée non Marketo Engage utilisant un programme par défaut de Marketo Engage. Ce programme est conçu pour fonctionner avec un formulaire de Marketo Engage intégré à votre site web. Le lien vers l’offre/le contenu peut être envoyé dans un email de remerciement.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -36,7 +36,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -58,7 +58,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Envoyer la performance par e-mail</td>
+   <td>Performance des e-mails</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
@@ -78,8 +78,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Ressources : héberge toutes les ressources créatives. 
-<br/>(sous-dossiers pour les emails et les landing pages)  </td>
+   <td>Assets : héberge toutes les ressources créatives. 
+<br/> (sous-dossiers pour les emails et les landing pages)  </td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -89,7 +89,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Rapports  </td>
+   <td>Rapports</td>
   </tr>
  </tbody> 
 </table>
@@ -140,17 +140,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
-   * Copier le modèle d’origine
+* **Modèle de page d’entrée avec le même nom**
+   * Copier le modèle d&#39;origine
    * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
    * Conserver les deux fichiers
-   * Remplacer l’élément de cet abonnement - _Recommandé_
+   * Remplacer un élément de cet abonnement - _Recommandé_
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles
@@ -171,4 +171,4 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;2002-Engaged&quot; pour suivre le succès de la campagne. Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;2002-Engaged&quot; pour suivre le succès de la campagne. Effectuez cette opération _avant_ que votre formulaire soit actif et que les courriers électroniques soient envoyés.

@@ -6,8 +6,8 @@ exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
 >[!PREREQUISITES]
 >
->Vous devez avoir [Déploiement Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 ou 3.0 (ADFS) configurés. **Remarque**: le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
+>Vous devez avoir [Déploiement Internet Face](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) avec [ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 ou 3.0 (ADFS) configuré. **Remarque** : le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
->[Téléchargement de la solution de gestion des leads Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} avant de commencer.
+>[Téléchargez la solution de gestion des pistes Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} avant de commencer.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. Sélectionner **[!UICONTROL Solutions]** dans l&#39;arbre.
+1. Sélectionnez **[!UICONTROL Solutions]** dans l’arborescence.
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
@@ -43,11 +43,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Cliquez sur **[!UICONTROL Parcourir]**. Sélectionnez la solution de gestion des pistes Marketo que vous souhaitez [téléchargé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Cliquez sur **[!UICONTROL Suivant]**.
+1. Cliquez sur **[!UICONTROL Parcourir]**. Sélectionnez la solution Marketo Lead Management que vous avez [ téléchargée ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. Affichez les informations sur la solution et cliquez sur **[!UICONTROL Afficher les détails du module de solution]**.
+1. Affichez les informations sur la solution et cliquez sur **[!UICONTROL Afficher les détails du package de solution]**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -79,11 +79,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. La Gestion des pistes Marketo apparaît désormais sur la page **Toutes les solutions** page.
+1. La gestion des pistes Marketo apparaît désormais sur la page **Toutes les solutions**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Sélectionnez Gestion des pistes Marketo et cliquez sur **[!UICONTROL Publier toutes les personnalisations]**.
+1. Sélectionnez Gestion des pistes Marketo et cliquez sur **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 

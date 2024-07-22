@@ -21,23 +21,23 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
 ## Préparation des données {#prepare-your-data}
 
-1. [Création d’un champ personnalisé](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) nommé &quot;Langue préférée&quot;. (Configurez-le dans votre CRM si vous souhaitez que ce champ soit synchronisé).
+1. [Créez un champ personnalisé](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) nommé &quot;Langue préférée&quot;. (Configurez-le dans votre CRM si vous souhaitez que ce champ soit synchronisé).
 
    >[!TIP]
    >
-   >À l’avenir, utilisez ce champ lorsque vous [création d’un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) pour capturer les préférences linguistiques.
+   >À l’avenir, utilisez ce champ lorsque vous [ créez un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) pour capturer les préférences linguistiques.
 
 ## Créer une segmentation {#create-segmentation}
 
-1. Accédez au **[!UICONTROL Base]**.
+1. Accédez à la **[!UICONTROL base de données]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. Dans le **[!UICONTROL Nouveau]** menu déroulant, cliquez sur **[!UICONTROL Nouvelle segmentation]**.
+1. Dans la liste déroulante **[!UICONTROL Nouveau]**, cliquez sur **[!UICONTROL Nouvelle segmentation]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Nommer la segmentation **[!UICONTROL Langue préférée]**. Cliquez sur **[!UICONTROL Ajouter un segment]**. Saisissez une langue.
+1. Nommez la segmentation **[!UICONTROL Langue préférée]**. Cliquez sur **[!UICONTROL Ajouter un segment]**. Saisissez une langue.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -53,7 +53,7 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Cliquez sur l&#39;onglet **[!UICONTROL Liste intelligente.]** Entrée **[!UICONTROL Langue préférée]** dans le champ de recherche. Faites glisser et déposez le filtre sur la zone de travail.
+1. Accédez à l’onglet **[!UICONTROL Liste dynamique]** . Saisissez la **[!UICONTROL langue préférée]** dans le champ de recherche. Faites glisser le filtre sur la zone de travail.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -61,21 +61,21 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. Répétez cette opération pour toutes vos langues. Sélectionnez ensuite le **[!UICONTROL Actions de segmentation]** menu déroulant et clic **[!UICONTROL Approuver]**.
+1. Répétez cette opération pour toutes vos langues. Sélectionnez ensuite la liste déroulante **[!UICONTROL Actions de segmentation]** et cliquez sur **[!UICONTROL Approuver]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
 ## Création d’un fragment de code {#create-a-snippet}
 
-1. Accédez au **[!UICONTROL Design Studio]**.
+1. Accédez à **[!UICONTROL Design Studio]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. Dans le **[!UICONTROL Nouveau]** menu déroulant, cliquez sur **[!UICONTROL Nouveau fragment de code]**.
+1. Dans la liste déroulante **[!UICONTROL New]**, cliquez sur **[!UICONTROL New Snippet]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. Nommer le fragment de code **Désabonner le message**. Cliquez sur **[!UICONTROL Créer]**.
+1. Nommez le fragment de code **Unsubscribe Message**. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
@@ -83,15 +83,15 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Copiez et collez ce jeton : `{{system.unsubscribeLink}}` dans la **[!UICONTROL URL]** champ . Cliquez sur **[!UICONTROL Insérer]**.
+1. Copiez et collez ce jeton : `{{system.unsubscribeLink}}` dans le champ **[!UICONTROL URL]** . Cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Sélectionner **[!UICONTROL Segmenter par]** dans le **[!UICONTROL Segmentation]** .
+1. Sélectionnez **[!UICONTROL Segment par]** dans la section **[!UICONTROL Segmentation]** .
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. Dans la **[!UICONTROL Segmentation]** menu déroulant, saisissez **[!UICONTROL Préféré]** et sélectionnez **[!UICONTROL Langue préférée]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Dans la liste déroulante **[!UICONTROL Segmentation]**, saisissez **[!UICONTROL Préféré]** et sélectionnez **[!UICONTROL Langue préférée]**. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
@@ -99,19 +99,19 @@ Le message de désabonnement et le lien par défaut sont en anglais. Vous pouvez
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Assurez-vous de `{{system.unsubscribeLink}}` est toujours dans la variable **[!UICONTROL URL]** champ . Modifiez la variable **[!UICONTROL Afficher le texte]** pour correspondre à la langue que vous avez sélectionnée. Cliquez sur **[!UICONTROL Appliquer]**.
+1. Assurez-vous que `{{system.unsubscribeLink}}` se trouve toujours dans le champ **[!UICONTROL URL]** . Modifiez le **[!UICONTROL texte d’affichage]** pour qu’il corresponde à la langue que vous avez sélectionnée. Cliquez sur **[!UICONTROL Apply]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. Répétez l’opération pour tous vos segments. Ensuite, revenez à la **[!UICONTROL Design Studio]**, cliquez sur le bouton **[!UICONTROL Actions de fragment de code]** , puis cliquez sur **[!UICONTROL Approuver]**.
+1. Répétez l’opération pour tous vos segments. Ensuite, revenez à **[!UICONTROL Design Studio]**, cliquez sur la liste déroulante **[!UICONTROL Actions de fragment de code]**, puis cliquez sur **[!UICONTROL Approuver]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-Super. Presque là !
+C&#39;est génial. Presque là !
 
 ## Utiliser un fragment de code dans un courrier électronique {#use-snippet-in-an-email}
 
-1. Dans l&#39;éditeur d&#39;email, cliquez sur l&#39;élément éditable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **[!UICONTROL Remplacer par un fragment de code]**. Si vous sélectionnez un élément de fragment de code modifiable, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
+1. Dans l&#39;éditeur d&#39;email, cliquez sur l&#39;élément éditable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **[!UICONTROL Remplacer par l’extrait de code]**. Si vous sélectionnez un élément de fragment de code modifiable, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -123,7 +123,7 @@ Super. Presque là !
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...puis la fonction **[!UICONTROL Dynamique]** .
+1. ...puis l’onglet **[!UICONTROL Dynamique]** .
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
@@ -139,11 +139,11 @@ Super. Presque là !
 
 Si vous souhaitez que vos visiteurs consultent une page de désabonnement dans la langue de leur choix, vous pouvez utiliser du contenu dynamique sur la landing page et la page de confirmation.
 
-1. Accédez au **[!UICONTROL Design Studio]**.
+1. Accédez à **[!UICONTROL Design Studio]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Saisissez _Désabonner_ dans le champ de recherche et sélectionnez la page Désabonner de votre choix.
+1. Saisissez _Unsubscribe_ dans le champ de recherche et sélectionnez la page Unsubscribe de votre choix.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
@@ -151,11 +151,11 @@ Si vous souhaitez que vos visiteurs consultent une page de désabonnement dans l
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. Sélectionner **[!UICONTROL Segmenter par]**.
+1. Sélectionnez **[!UICONTROL Segment Par]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. Recherchez le **[!UICONTROL Langue préférée]** segment. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Recherchez le segment **[!UICONTROL Langue préférée]** . Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 

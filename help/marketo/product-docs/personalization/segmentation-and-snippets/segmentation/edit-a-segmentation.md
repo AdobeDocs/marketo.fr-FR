@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359474
 description: Modification d’une segmentation - Documents Marketo - Documentation du produit
-title: Modification d’une segmentation
+title: Modifier une segmentation
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,27 +11,27 @@ ht-degree: 0%
 
 ---
 
-# Modification d’une segmentation {#edit-a-segmentation}
+# Modifier une segmentation {#edit-a-segmentation}
 
 Il est facile d’apporter des modifications à vos segments existants. Voici le bas.
 
-## Création d’un brouillon de segmentation {#create-a-segmentation-draft}
+## Créer un brouillon de segmentation {#create-a-segmentation-draft}
 
-1. Accédez au **Base**.
+1. Accédez à la **base de données**.
 
    ![](assets/db.png)
 
-1. Dans votre segmentation, cliquez sur **Actions de segmentation** puis **Créer un brouillon**.
+1. Dans votre segmentation, cliquez sur **Actions de segmentation**, puis sur **Créer un brouillon**.
 
    ![](assets/two.png)
 
-1. Le **État** passe à Approuvé avec brouillon. A **Version préliminaire** est créé dans votre segmentation.
+1. Le **Statut** passe à Approuvé avec brouillon. Un dossier **Draft** est créé dans votre segmentation.
 
    ![](assets/three.png)
 
 ## Ajout, modification ou suppression de segments {#add-edit-or-delete-segments}
 
-1. Dans votre segmentation, cliquez sur **Actions de segmentation** puis **Modifier des segments**.
+1. Dans votre segmentation, cliquez sur **Actions de segmentation**, puis sur **Modifier les segments**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
    >
    >Vous pouvez uniquement modifier les segments d’un brouillon et non la segmentation approuvée.
 
-1. **Ajouter un segment**, **Modifier** existant (renommez ou modifiez l’ordre) ou **Supprimer** tout segment.
+1. **Ajouter un segment**, **Modifier** existant (renommer ou changer l’ordre) ou **Supprimer** tout segment.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
    >[!CAUTION]
    >
-   >La suppression a un impact sur l’ensemble du contenu dynamique associé dans les emails, les pages d’entrée et les fragments de code. **Aucune annulation**. Vérifiez les **Utilisé par** pour voir ce qui utilise ce segment.
+   >La suppression a un impact sur l’ensemble du contenu dynamique associé dans les emails, les pages d’entrée et les fragments de code. **Il n’y a aucune annulation**. Consultez l’onglet **Utilisé par** pour voir quelle est l’utilisation de ce segment.
 
 ## Modifier des règles de segment {#edit-segment-rules}
 
-1. Dans votre version préliminaire **Segment**, accédez à **Liste dynamique**. Appliquer des règles similaires à [Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Dans votre **segment** préliminaire, accédez à la **liste dynamique**. Appliquez des règles similaires à la [définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

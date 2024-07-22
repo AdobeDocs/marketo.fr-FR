@@ -17,7 +17,7 @@ Voici comment créer un segment à l’aide des valeurs Données de personne con
 
 >[!PREREQUISITES]
 >
->[Gérer les données personnelles](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
+>[Gérer les données de personne](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Accédez à **Segments**.
 
@@ -31,7 +31,7 @@ Voici comment créer un segment à l’aide des valeurs Données de personne con
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Dans la segmentation des profils, faites glisser **Base** sur la zone de travail.
+1. Dans la segmentation du profil, faites glisser **Base de données** vers la zone de travail.
 
    ![](assets/four-1.png)
 
@@ -57,7 +57,7 @@ Voici comment créer un segment à l’aide des valeurs Données de personne con
 
    ![](assets/nine.png)
 
-1. Cliquez sur **Enregistrer** pour enregistrer le segment ou **Enregistrer et définir une campagne** pour enregistrer et accéder à la page Campagnes .
+1. Cliquez sur **Enregistrer** pour enregistrer le segment ou sur **Enregistrer et définir la campagne** pour enregistrer et accéder à la page Campagnes.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

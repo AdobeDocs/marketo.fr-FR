@@ -2,10 +2,10 @@
 description: Paramètres de sécurité - Documents Marketo - Documentation du produit
 title: Paramètres de sécurité
 feature: Dynamic Chat
-exl-id: 9d5818ab-d8ab-435e-901e-250334fe2ebf
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ Dans les paramètres de sécurité, vous avez la possibilité d’ajouter des do
 
 S’il existe des visiteurs avec des domaines de courriel avec lesquels vous ne souhaitez pas que vos agents interagissent (par exemple, un concurrent), ajoutez leur domaine de courriel à la liste bloquée.
 
-1. Sélectionnez la variable **Activer la validation** curseur pour activer votre liste bloquée. Saisissez jusqu’à 50 domaines et cliquez sur **Enregistrer**.
+1. Sélectionnez le curseur **Activer la validation** pour activer votre liste bloquée. Saisissez jusqu’à 50 domaines et cliquez sur **Enregistrer**.
 
    ![](assets/security-settings-2.png)
 
@@ -28,6 +28,6 @@ S’il existe des visiteurs avec des domaines de courriel avec lesquels vous ne 
 
 L’ajout de domaines autorisés permet de s’assurer que les tiers ne peuvent pas extraire le code JavaScript de votre site et l’ajouter à leur propre code.
 
-1. Sélectionnez la variable **Activer la validation** curseur pour activer votre liste autorisée. Saisissez les domaines autorisés et cliquez sur **Enregistrer**.
+1. Sélectionnez le curseur **Activer la validation** pour activer votre liste autorisée. Saisissez les domaines autorisés et cliquez sur **Enregistrer**.
 
    ![](assets/security-settings-3.png)

@@ -21,7 +21,7 @@ En outre, vous pouvez supprimer des personnes de la campagne elle-même, des per
 
 ## Suppression directe d’une personne d’une campagne {#remove-a-person-directly-from-a-campaign}
 
-1. Dans Sales Connect, cliquez sur le bouton **Campagnes** .
+1. Dans Sales Connect, cliquez sur l’onglet **Campagnes** .
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ En outre, vous pouvez supprimer des personnes de la campagne elle-même, des per
 
    ![](assets/three.png)
 
-1. Recherchez la personne à supprimer, puis cliquez sur **Supprimer**.
+1. Recherchez la personne que vous souhaitez supprimer, puis cliquez sur **Supprimer**.
 
    ![](assets/four.png)
 
-1. (ÉTAPE FACULTATIVE) Vous pouvez également supprimer plusieurs personnes à la fois en cochant les cases en regard de leur nom et en cliquant sur l’icône **Supprimer** en haut.
+1. (ÉTAPE FACULTATIVE) Vous pouvez également supprimer plusieurs personnes à la fois en cochant les cases en regard de leur nom et en cliquant sur le bouton **Supprimer** en haut.
 
    ![](assets/five.png)
 
 ## Suppression d’une personne d’une campagne dans la page Personnes {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Dans Sales Connect, cliquez sur le bouton **Personnes** .
+1. Dans Sales Connect, cliquez sur l’onglet **People** .
 
    ![](assets/one-a.png)
 
@@ -51,13 +51,13 @@ En outre, vous pouvez supprimer des personnes de la campagne elle-même, des per
 
    ![](assets/two-a.png)
 
-1. Le panneau Vue Détails de la personne s’ouvre à droite. Cliquez sur le bouton **Histoire** , suivie de la fonction **Supprimer** bouton .
+1. Le panneau Vue Détails de la personne s’ouvre à droite. Cliquez sur l&#39;onglet **Historique** suivi du bouton **Supprimer** .
 
    ![](assets/three-a.png)
 
 ## Suppression d’un groupe de personnes d’une campagne {#remove-a-group-of-people-from-a-campaign}
 
-1. Dans Sales Connect, cliquez sur le bouton **Personnes** .
+1. Dans Sales Connect, cliquez sur l’onglet **People** .
 
    ![](assets/one-b.png)
 

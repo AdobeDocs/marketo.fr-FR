@@ -6,7 +6,7 @@ exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 3%
 
 ---
@@ -23,11 +23,11 @@ Une fois par trimestre, Marketo trouvera les campagnes intelligentes qui sont re
 
 Bien sûr ! Une fois par trimestre, vous recevrez une notification une semaine à l’avance indiquant chaque campagne que nous prévoyons de désactiver.
 
-1. Cliquez sur le bouton **[!UICONTROL Notifications]** Icône
+1. Cliquez sur l’icône **[!UICONTROL Notifications]** .
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Cliquez sur **[!UICONTROL Nettoyage inactif des campagnes de déclenchement planifié]**. Cliquez ensuite sur le bouton **[!UICONTROL Ces campagnes de déclenchement inactives seront désactivées.]** lien.
+1. Cliquez sur **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**. Cliquez ensuite sur le lien **[!UICONTROL Ces campagnes de déclenchement inactives seront désactivées]** .
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -52,7 +52,7 @@ Réinitialise le compteur de 6 mois.
 
 Absolument : une semaine après la notification d’origine, nous désactiverons les campagnes répertoriées (moins celles qui ont qualifié au moins une personne ou qui ont été désactivées/réactivées) et publierons une notification de confirmation.
 
-1. Sélectionnez la variable **[!UICONTROL Nettoyage inactif des campagnes de déclenchement planifié]** notification. Cliquez sur le bouton **[!UICONTROL Ces campagnes de déclenchement inactives]** lien.
+1. Sélectionnez la notification **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]** . Cliquez sur le lien **[!UICONTROL This Idle Trigger Campaigns]** .
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

@@ -17,17 +17,17 @@ Les fragments de code sont des blocs réutilisables de texte enrichi et de graph
 
 >[!PREREQUISITES]
 >
->[Création d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Créer un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 >[!NOTE]
 >
->Vous ne pouvez pas incorporer de [Syntaxe des emails Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)dans des fragments de code; it **not** travailler dans un email. Les fragments de code doivent être simplement du contenu du corps (HTML + TEXTE).
+>Vous ne pouvez pas incorporer de [syntaxe d’email Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)dans les fragments de code ; il **ne fonctionnera pas** dans un email. Les fragments de code doivent être simplement du contenu du corps (HTML + TEXTE).
 
-1. Recherchez votre email, sélectionnez-le, puis cliquez sur **Modifier le brouillon**.
+1. Recherchez votre email, sélectionnez-le et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-2.png)
 
-1. Sélectionnez la zone modifiable à convertir en fragment de code, cliquez sur l’icône d’engrenage, puis sélectionnez **Remplacer par un fragment de code**.
+1. Sélectionnez la zone modifiable à convertir en fragment de code, cliquez sur l’icône d’engrenage et sélectionnez **Remplacer par extrait de code**.
 
    ![](assets/two-2.png)
 

@@ -19,7 +19,7 @@ Le tableau de bord de la base de données sert d’instantané pour vous aider �
 >
 >Chaque espace de travail possède son propre tableau de bord de base de données.
 
-Pour y accéder, sélectionnez **[!UICONTROL Base]** de votre Marketo.
+Pour y accéder, sélectionnez **[!UICONTROL Base de données]** dans votre My Marketo.
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ Les graphiques indiquent le nombre total de personnes, le nombre de personnes po
 
 >[!TIP]
 >
->Vous souhaitez obtenir des informations plus précises ou plus opportunes sur vos personnes ? Essayez un [Rapport Performances des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Vous souhaitez obtenir des informations plus précises ou plus opportunes sur vos personnes ? Essayez un [rapport Performance des personnes](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
-**Nombre total de personnes :** Nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié.
+**Nombre total de personnes :** nombre de personnes travaillant tout le temps pour l’espace de travail répertorié.
 
-**Personnes pouvant faire l’objet de marketing :** Le nombre de personnes qui travaillent tout le temps pour l’espace de travail répertorié, _moins ce qui suit_: personnes sans adresse électronique, personnes dont l’adresse électronique a fait l’objet d’un hard bounce, personnes placées sur la liste bloquée, personnes qui se sont désabonnées, personnes actuellement placées sur Marketing Suspendu.
+**Personnes pouvant faire l’objet d’un marketing :** nombre de personnes ayant passé leur vie dans l’espace de travail répertorié, _moins les suivantes_ : personnes sans adresse électronique, personnes dont l’adresse électronique a fait l’objet d’un hard bounce, personnes placées sur la liste bloquée, personnes qui se sont désabonnées, personnes actuellement définies sur Marketing Suspendu.

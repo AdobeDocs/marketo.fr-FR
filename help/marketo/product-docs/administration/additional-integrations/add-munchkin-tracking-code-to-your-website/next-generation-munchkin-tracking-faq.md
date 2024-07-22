@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096583
-description: "Génération suivante [!DNL Munchkin] FAQ sur le suivi - Documents Marketo - Documentation du produit"
-title: "Génération suivante [!DNL Munchkin] FAQ sur le suivi"
+description: "Prochaine génération [!DNL Munchkin] FAQ sur le suivi - Documents Marketo - Documentation du produit"
+title: "Prochaine génération [!DNL Munchkin] FAQ sur le suivi"
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
 
-# Génération suivante [!DNL Munchkin] FAQ sur le suivi {#next-generation-munchkin-tracking-faq}
+# FAQ sur le suivi de génération suivante [!DNL Munchkin] {#next-generation-munchkin-tracking-faq}
 
 Nous sommes ravis d’annoncer que nous allons bientôt lancer un déploiement progressif de notre nouvelle technologie de tracking Web.
 
@@ -19,35 +19,35 @@ Voici les éléments les plus importants à savoir :
 
 * Nous supprimons le filtre Liste dynamique &quot;Is Anonymous&quot; avec notre version du 1er trimestre (déjà terminée).
 * Nous augmentons le nombre d’événements web (Page web de la visite, Lien cliqué sur la page web) que nous pouvons ingérer.
-* Votre [!DNL Munchkin] Le code ne change pas. Aucune mise à jour n’est donc requise sur votre site web.
+* Votre code [!DNL Munchkin] ne changera pas. Aucune mise à jour n’est donc requise sur votre site web.
 
-## Quand mon abonnement Marketo sera-t-il activé ? [!DNL Munchkin] V2 ? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## Quand mon abonnement Marketo sera-t-il sur [!DNL Munchkin] V2 ? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 Nous n&#39;avons pas encore de date exacte, mais veuillez consulter les mises à jour ici.
 
-## Dois-je apporter des modifications à mon [!DNL Munchkin] suivi sur mon site web ? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Dois-je apporter des modifications à mon suivi [!DNL Munchkin] sur mon site web ? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Nombre Le [!DNL Munchkin] le code de suivi reste le même. Aucune modification ne doit être apportée à votre site web.
+Nombre Le code de suivi [!DNL Munchkin] reste le même. Aucune modification ne doit être apportée à votre site web.
 
 >[!NOTE]
 >
->Cette modification n’a aucune incidence sur la personnalisation web (personnalisation en temps réel). Il continue à identifier les visiteurs anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
+>Cette modification n’a aucune incidence sur Web Personalization (Real-Time Personalization). Il continue à identifier les visiteurs anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
 
 ## Pourquoi Marketo a-t-il supprimé le filtre &quot;Is Anonymous&quot; des listes dynamiques ? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 Nous avons modifié la manière dont les personnes anonymes interagissent avec les campagnes intelligentes. Avant, ils ont traversé une campagne intelligente, tout comme les gens connus. Le filtre &quot;Est anonyme&quot; a été utilisé pour indiquer que seules les personnes connues ou anonymes circulent dans la campagne.
 
-Avec [!DNL Munchkin] V2, nous poursuivrons le suivi de toutes les activités anonymes ; cependant, vous ne pouvez plus appliquer de filtres aux personnes anonymes. Au point de conversion (lorsque la personne est connue dans Marketo), toutes les activités survenues lorsque la personne était anonyme sont ajoutées au journal d’activité de la personne et, à ce moment, elles transitent par les campagnes pour lesquelles elles remplissent les critères.
+Avec [!DNL Munchkin] V2, nous continuerons à suivre toutes les activités anonymes ; cependant, vous ne pourrez plus appliquer de filtres aux personnes anonymes. Au point de conversion (lorsque la personne est connue dans Marketo), toutes les activités survenues lorsque la personne était anonyme sont ajoutées au journal d’activité de la personne et, à ce moment, elles transitent par les campagnes pour lesquelles elles remplissent les critères.
 
 Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans une campagne dynamique ou un rapport), il n’est pas automatiquement supprimé de la liste dynamique. Voir ci-dessous pour plus de détails.
 
 >[!NOTE]
 >
->**Déclencheur**: Page web Visites, page web = page des tarifs\
->**Flux**: Score de changement +10 et moment intéressant
->**Web**: Page de tarification consultée
+>**Déclencheur** : page web des visites, page web = page de tarification\
+>**Flux** : modifiez le score +10 et le moment intéressant
+>**Web** : page de tarification affichée
 >
->Avec [!DNL Munchkin] V2, si une personne anonyme consulte la page des tarifs, elle ne rentre pas immédiatement dans l&#39;opération. Au moment où la personne anonyme sera connue, nous lui lancerons cette campagne. Elle :
+>Avec [!DNL Munchkin] V2, si une personne anonyme consulte la page de tarification, elle n’entre pas immédiatement dans la campagne. Au moment où la personne anonyme sera connue, nous lui lancerons cette campagne. Elle :
 >
 >* Obtenir un score de 10
 >
@@ -80,14 +80,14 @@ Consultez les liens suivants :
 
 [Mises à niveau de pistes anonymes - Action client requise](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[Mises à niveau des pistes anonymes - Rapports Analytics](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
+[Mises à niveau de pistes anonymes - Rapports Analytics](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[Mises à niveau de piste anonymes - Calendrier des versions](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
+[Mises à niveau de pistes anonymes - Calendrier des versions](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Mises À Niveau Des Pistes Anonymes - Sous Le Bois](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[Mises À Niveau Des Prospects Anonymes - Sous Le Capsule](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
 [Promotion de piste anonyme vers piste connue - [!DNL Munchkin] Comportement V2](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## J&#39;ai plus de questions ! Comment puis-je leur faire répondre ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Veuillez contacter le [communauté](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Ils seront heureux de répondre à vos questions.
+Contactez la [communauté](https://nation.marketo.com/){target="_blank"}. Vous pouvez également contacter le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Ils seront heureux de répondre à vos questions.

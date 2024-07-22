@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vous pouvez annuler l’approbation de n’importe quel titre pour le contenu prédictif sur votre page Tout le contenu ou dans la fenêtre contextuelle Modifier le contenu .
 
-## Toute la page de contenu {#all-content-page}
+## Toute la page Contenu {#all-content-page}
 
 1. Sur la page Tout le contenu , cochez la case en regard de l’élément de contenu pour le sélectionner.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Cliquez sur le bouton **Actions de contenu** et sélectionnez **Non approuvé pour le contenu prédictif**.
+1. Cliquez sur la liste déroulante **Actions de contenu** et sélectionnez **Non approuvé pour le contenu prédictif**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -33,7 +33,7 @@ Vous pouvez annuler l’approbation d’un titre lorsque vous le modifiez.
 
    ![](assets/click-icon-hand.png)
 
-1. Décochez la case **Approbation du contenu prédictif** puis cliquez sur **Enregistrer**.
+1. Décochez la case **Approuver pour le contenu prédictif** et cliquez sur **Enregistrer**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

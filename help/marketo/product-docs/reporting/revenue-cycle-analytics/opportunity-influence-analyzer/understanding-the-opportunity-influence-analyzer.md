@@ -19,7 +19,7 @@ L’analyseur d’influence d’opportunité vous permet de voir l’ensemble de
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Remarquez les coches vertes.**. Ils indiquent la réussite du programme pour l’un des noms cochés à droite. La zone verte indique le début et la fin de l&#39;opportunité.
+**Notez les vérifications vertes**. Ils indiquent la réussite du programme pour l’un des noms cochés à droite. La zone verte indique le début et la fin de l&#39;opportunité.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Si vous souhaitez conserver ce comportement, pensez à dédupliquer vos données
 
 >[!MORELIKETHIS]
 >
->* [Analyseur d’influence d’opportunité pour raconter l’histoire marketing](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Création d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [Racontez l’article marketing avec un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Créer un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

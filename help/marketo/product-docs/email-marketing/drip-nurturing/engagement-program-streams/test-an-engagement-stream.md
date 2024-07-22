@@ -27,7 +27,7 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    ![](assets/three.png)
 
-1. Sélectionnez votre personne dans la **Personne de test** menu déroulant. Rappelez-vous, le contenu va sortir, alors gardez cela à l&#39;esprit lorsque vous choisissez.
+1. Sélectionnez votre personne dans la liste déroulante **Tester la personne** . Rappelez-vous, le contenu va sortir, alors gardez cela à l&#39;esprit lorsque vous choisissez.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +37,12 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    >[!TIP]
    >
-   >Si la personne que vous recherchez n’existe pas, utilisez la variable **Créer une personne** pour en créer une à la volée.
+   >Si la personne de test que vous recherchez n’existe pas, utilisez l’option **Créer une personne** pour en créer une à la volée.
 
    Cliquez sur Flux initial, sélectionnez le flux à tester, puis cliquez sur Exécuter le flux.
    ![](assets/five-rubiks.png)
 
-1. Une fois que la personne passe par le [règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) Si vous avez précédemment configuré l’application, cliquez sur l’icône Actualiser .
+1. Une fois que la personne a consulté les [règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que vous avez précédemment configurées, cliquez sur l’icône Actualiser .
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +54,4 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    >[!NOTE]
    >
-   >Aucun autre contenu ne sera envoyé, sauf si vous cliquez sur **Exécuter à nouveau**.
+   >Aucun autre contenu ne sera envoyé, sauf si vous cliquez sur **Exécuter à nouveau la diffusion**.

@@ -5,7 +5,7 @@ exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Permettez à vos équipes commerciales de sélectionner les résultats des appel
 
    ![](assets/call-outcomes-2.png)
 
-1. Sélectionner **Activer les résultats des appels**.
+1. Sélectionnez **Activer les résultats des appels**.
 
    ![](assets/call-outcomes-3.png)
 
@@ -70,7 +70,7 @@ Une fois les résultats de l’appel activés. Les utilisateurs peuvent en séle
 
    ![](assets/call-outcomes-10.png)
 
-1. Saisissez les informations d’appel dans la boîte de dialogue, puis cliquez sur **Appeler**.
+1. Saisissez les informations d’appel dans la boîte de dialogue et cliquez sur **Call**.
 
    ![](assets/call-outcomes-11.png)
 

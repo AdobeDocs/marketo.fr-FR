@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Bien que la création de rapports soit disponible au niveau de la boîte de dialogue, vérifiez l’engagement global à l’aide des trois tableaux de bord ci-dessous.
 
-Accéder à chaque tableau de bord sous **Analytics** dans le volet de navigation de gauche.
+Accédez à chaque tableau de bord sous **Analytics** dans le volet de navigation de gauche.
 
 ![](assets/analytics-1.png)
 
@@ -55,13 +55,13 @@ Afficher les boîtes de dialogue, les flux de conversation, etc. Sélectionnez u
 <tbody>
   <tr>
     <td style="width:25%"><b>Terminé</b></td>
-    <td>Un événement terminé se produit lorsqu’un visiteur atteint la dernière invite d’une conversation. <i>ou</i> lorsqu’un visiteur épuise tout le contenu d’une conversation.
+    <td>Un événement terminé se produit lorsqu’un visiteur atteint la dernière invite d’une conversation <i>ou</i> lorsqu’un visiteur épuise tout le contenu d’une conversation.
     <br>Un événement terminé par visiteur, par session.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Personnes acquises</b></td>
     <td>Se produit lorsqu’un visiteur envoie son adresse électronique.
-    <br>Une acquisition par visiteur, par session.</td>
+    <br> Une acquisition par visiteur, par session.</td>
   </tr>
 </tbody>
 </table>

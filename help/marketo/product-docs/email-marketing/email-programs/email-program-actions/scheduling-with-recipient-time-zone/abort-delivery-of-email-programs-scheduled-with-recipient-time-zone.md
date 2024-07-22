@@ -6,7 +6,7 @@ exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Comme les programmes de messagerie programmés avec le fuseau horaire des destin
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Après l’annulation, la variable **Résultats** La grille de votre programme email ressemblera à celle ci-dessous. Tous les envois suivants sont annulés et s’affichent comme &quot;Email Bounce Soft&quot; dans la variable **Type d’activité** colonne .
+1. Après l&#39;annulation, la grille **Résultats** de votre programme de messagerie ressemblera à celle ci-dessous. Tous les envois suivants sont annulés et s’afficheront comme &quot;Email Bounce Soft&quot; dans la colonne **Type d’activité**.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
    >[!NOTE]
    >
-   >Les emails annulés seront **not** s’afficher en tant que soft bounce *Jusqu’à* l’heure initialement prévue pour leur livraison dans leurs fuseaux horaires respectifs. Jusqu’à ce moment-là, ils s’afficheront toujours comme &quot;Envoyer un courrier électronique&quot;.
+   >Les emails annulés **not** s’affichent en tant que soft bounce *jusqu’à* la date initialement prévue pour leur diffusion dans leurs fuseaux horaires respectifs. Jusqu’à ce moment-là, ils s’afficheront toujours comme &quot;Envoyer un courrier électronique&quot;.
 
 1. Dans la grille, vous pouvez cliquer sur n’importe quel email pour afficher les détails de l’activité. Pour un envoi annulé, la fenêtre contextuelle des détails se présente comme suit :
 
@@ -40,4 +40,4 @@ Comme les programmes de messagerie programmés avec le fuseau horaire des destin
 >[!MORELIKETHIS]
 >
 >* [Comprendre le fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Planification des programmes de messagerie avec un fuseau horaire de destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Planification de programmes de messagerie avec fuseau horaire de destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

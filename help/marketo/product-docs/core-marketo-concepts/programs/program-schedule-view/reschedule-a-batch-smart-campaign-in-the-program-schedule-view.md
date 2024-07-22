@@ -23,10 +23,10 @@ Vous souhaitez replanifier une exécution de campagne par lots ? Faites-les glis
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Fantastique ! La campagne dynamique a été replanifiée. L’heure peut également être modifiée à partir de la variable **[!UICONTROL Date]** menu déroulant dans les détails de l’entrée.
+1. Fantastique ! La campagne dynamique a été replanifiée. L’heure peut également être modifiée à partir de la liste déroulante **[!UICONTROL Date]** dans les détails de l’entrée.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Replanification d’un programme entier à partir de la vue de planification](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[ Replanification d’un programme entier à partir de la vue de planification ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

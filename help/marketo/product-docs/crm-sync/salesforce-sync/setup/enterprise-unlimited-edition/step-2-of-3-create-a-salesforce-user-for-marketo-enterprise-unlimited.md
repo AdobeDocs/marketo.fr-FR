@@ -6,8 +6,8 @@ exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 4%
+source-wordcount: '428'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[Étape 1 sur 3 : Ajout de champs Marketo à Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[ Étape 1 sur 3 : Ajout de champs Marketo à Salesforce (Enterprise/Unlimited){1](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
 Dans cet article, vous allez configurer des autorisations utilisateur dans le profil Salesforce et créer un compte d’intégration Marketo-Salesforce.
 
@@ -29,15 +29,15 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Saisissez &quot;profils&quot; dans la barre de recherche de navigation, puis cliquez sur le **[!UICONTROL Profils]** lien.
+1. Saisissez &quot;profils&quot; dans la barre de recherche de navigation et cliquez sur le lien **[!UICONTROL Profils]** .
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. Cliquez sur **[!UICONTROL Nouveau]**.
+1. Cliquez sur **[!UICONTROL New]**.
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Sélectionner **[!UICONTROL Utilisateur standard]**, nommez le profil &quot;Marketo-Salesforce Sync&quot; et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **[!UICONTROL Standard User]**, nommez le profil &quot;Marketo-Salesforce Sync&quot; et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -47,10 +47,10 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Sous , **[!UICONTROL Autorisations administratives]** , vérifiez que les cases suivantes sont cochées :
+1. Dans la section **[!UICONTROL Autorisations administratives]** , assurez-vous que les cases suivantes sont cochées :
 
    * API activée
-   * Modifier les modèles de HTML
+   * Modifier les modèles d’HTML
    * Gérer les documents publics
    * Gérer les modèles publics
 
@@ -58,7 +58,7 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
 
    >[!TIP]
    >
-   >Veillez à vérifier la variable **[!UICONTROL Le mot de passe n’expire jamais]** de la boîte.
+   >Assurez-vous de cocher la case **[!UICONTROL Password Never Expires]** .
 
 1. Dans la section Autorisations des utilisateurs générales , assurez-vous que les cases suivantes sont cochées :
 
@@ -73,7 +73,7 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
    * Comptes
    * Campagnes
    * Contacts
-   * Leads
+   * Prospects
    * Opportunités
 
    >[!NOTE]
@@ -94,9 +94,9 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
    >
    >Cette étape permet d’éviter que les champs dont vous n’avez pas besoin ne s’affichent dans Marketo, ce qui réduit l’encombrement et accélère la synchronisation.
 
-1. Dans la page des détails du profil, accédez à **[!UICONTROL Sécurité au niveau du champ]** . Cliquez sur **[!UICONTROL Affichage]** pour modifier l’accessibilité des objets :
+1. Dans la page des détails du profil, accédez à la section **[!UICONTROL Sécurité au niveau du champ]** . Cliquez sur **[!UICONTROL Afficher]** pour modifier l’accessibilité des objets :
 
-   * Prospect
+   * Lead
    * Contact
    * Compte
    * Opportunité
@@ -111,7 +111,7 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Recherchez les champs inutiles, assurez-vous que la variable **[!UICONTROL Accès en lecture]** et **[!UICONTROL Modifier l’accès]** ne sont pas cochées. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Recherchez les champs inutiles, assurez-vous que les options **[!UICONTROL Lecture de l’accès]** et **[!UICONTROL Modifier l’accès]** ne sont pas cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Après avoir désactivé tous les champs superflus, vous devez vérifier **[!UICONTROL Accès en lecture et accès en modification]** pour les champs d’objet suivants. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Après avoir désactivé tous les champs superflus, vous devez cocher **[!UICONTROL Accès en lecture et accès en édition]** pour les champs d’objet suivants. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
 <table> 
  <tbody> 
@@ -150,11 +150,11 @@ Dans cet article, vous allez configurer des autorisations utilisateur dans le pr
 >
 >Créez un compte Salesforce dédié (par exemple, `marketo@yourcompany.com`) pour distinguer les modifications effectuées par Marketo des autres utilisateurs Salesforce.
 
-1. Saisissez &quot;Gérer les utilisateurs&quot; dans la barre de recherche de navigation, puis cliquez sur **[!UICONTROL Utilisateurs]**. Cliquez sur **[!UICONTROL Nouvel utilisateur]**.
+1. Saisissez &quot;Gérer les utilisateurs&quot; dans la barre de recherche de navigation, puis cliquez sur **[!UICONTROL Utilisateurs]**. Cliquez sur **[!UICONTROL New User]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Renseignez les champs requis. Sélectionnez ensuite le **[!UICONTROL Licence utilisateur : Salesforce]** et le profil que vous avez créé précédemment. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez fini.
+1. Renseignez les champs requis. Sélectionnez ensuite la **[!UICONTROL Licence utilisateur : Salesforce]** et le profil que vous avez créé précédemment. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

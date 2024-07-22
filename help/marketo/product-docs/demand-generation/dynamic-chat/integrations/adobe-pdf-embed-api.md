@@ -14,9 +14,9 @@ ht-degree: 5%
 
 La vignette Document permet d’incorporer des documents PDF dans les boîtes de dialogue et de suivre l’activité d’engagement des visiteurs dans les documents. Voici comment le mettre en place.
 
-1. Accédez à [API intégrée Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. Accédez à l’ [ API intégrée Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Cliquez sur **[!UICONTROL Obtention des informations d’identification]**.
+1. Cliquez sur **[!UICONTROL Obtenir les informations d’identification]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Saisissez vos informations d’identification, acceptez les conditions, puis cliquez sur **[!UICONTROL Création d’informations d’identification]**.
+1. Saisissez vos informations d’identification, acceptez les termes et cliquez sur **[!UICONTROL Créer des informations d’identification]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,7 +32,7 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
    >
    >Vous devez utiliser le domaine sur lequel vous hébergerez le chatbot (par exemple, si vous hébergez le chatbot sur mycompany.com, veillez à le saisir à l’étape 4).
 
-1. Cliquez sur **[!UICONTROL Copier]** pour copier votre ID de client.
+1. Cliquez sur **[!UICONTROL Copier]** pour copier votre ID client.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
@@ -40,8 +40,8 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. Collez vos [!UICONTROL ID client] et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Collez votre [!UICONTROL ID client] et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Vous pouvez maintenant utiliser la carte Document dans vos boîtes de dialogue&#39; [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+Vous pouvez désormais utiliser la carte Document dans vos boîtes de dialogue [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} !

@@ -15,32 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Création d’un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Créer un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Utilisez la segmentation dans les fragments de code pour gérer facilement le contenu dynamique de vos emails et landing pages.
 
 ## Ajouter une segmentation {#add-segmentation}
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Cliquez sur **Fragment de code** puis **Modifier le brouillon**.
+1. Cliquez sur votre **extrait de code**, puis sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Cliquez sur **Segmenter par**.
+1. Cliquez sur **Segment par**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Entrée **Segmentation** et cliquez sur **Enregistrer**.
+1. Saisissez **Segmentation** et cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Appliquer du contenu dynamique {#apply-dynamic-content}
 
-1. Cliquez sur un **Segment** puis modifiez le contenu. Répéter pour chaque segment
+1. Cliquez sur un **segment**, puis modifiez le contenu. Répéter pour chaque segment
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -48,9 +48,9 @@ Utilisez la segmentation dans les fragments de code pour gérer facilement le co
 >
 >N’oubliez pas d’approuver votre fragment de code avant de l’utiliser.
 
-N&#39;était-ce pas simple ? Vous êtes maintenant prêt à utiliser ces fragments de code sur les emails et les landing pages.
+N&#39;était-ce pas si simple ? Vous êtes maintenant prêt à utiliser ces fragments de code sur les emails et les landing pages.
 
 >[!MORELIKETHIS]
 >
->* [Ajout d’un fragment de code à un courrier électronique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
->* [Ajout d’un fragment de code à une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+>* [Ajouter un fragment de code à un email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
+>* [Ajouter un fragment de code à une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

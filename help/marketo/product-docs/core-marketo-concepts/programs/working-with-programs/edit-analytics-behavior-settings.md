@@ -7,13 +7,13 @@ feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
 # Modifier les paramètres de comportement d’analyse {#edit-analytics-behavior-settings}
 
-Vous pouvez définir la variable [comportement des analyses au niveau administrateur sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mais vous pouvez également la modifier au niveau du programme. Voici comment.
+Vous pouvez définir le comportement [des analyses au niveau de l’administrateur sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mais vous pouvez également le modifier au niveau du programme. Voici comment.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -23,7 +23,7 @@ Vous pouvez définir la variable [comportement des analyses au niveau administra
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Dans le **[!UICONTROL Configuration]** onglet, faites glisser [!UICONTROL Comportement Analytics] sur la zone de travail.
+1. Dans l’onglet **[!UICONTROL Configuration]**, faites glisser [!UICONTROL Comportement Analytics] sur la zone de travail.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ Vous pouvez définir la variable [comportement des analyses au niveau administra
 >
 >**Définition**
 >
->**[!UICONTROL Inclusif]** - Cette option garantit que le programme est disponible pour la création de rapports dans l’explorateur et les analyseurs de recettes, que vous ayez inclus ou non un coût par période.
+>**[!UICONTROL Inclusif]** - Cette option garantit que le programme est disponible pour la création de rapports dans l’explorateur et les analyseurs de recettes, que vous ayez inclus ou non un coût de période.
 >
->**[!UICONTROL Fonctionnement]** - Avec cette option, le programme ne s’affiche ni dans l’explorateur de recettes ni dans les analyseurs.
+>**[!UICONTROL Opérationnel]** : cette option empêche le programme de s’afficher dans l’explorateur de recettes ou les analyseurs.
 
 >[!NOTE]
 >

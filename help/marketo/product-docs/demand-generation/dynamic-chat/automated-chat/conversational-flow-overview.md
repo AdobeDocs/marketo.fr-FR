@@ -41,14 +41,14 @@ Bien que les dialogues et les flux de conversation présentent plusieurs similit
   </tr>
   <tr>
    <td>Les conversations sur les chatbots sont alimentées par des dialogues.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversation Forms</a> en Marketo Engage sont alimentés par des flux de conversation.</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Forms</a> en Marketo Engage est alimenté par des flux de conversation.</td>
   </tr>
  </tbody> 
 </table>
 
-## Onglet Concepteur de flux {#stream-designer-tab}
+## Onglet Diffusion Designer {#stream-designer-tab}
 
-Le concepteur de flux pour les flux de conversation est presque identique à celui pour les dialogues. [En savoir plus ici](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+Le Stream Designer for Conversational Flows est presque identique à celui des Dialogues. [Découvrez-en plus ici](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,7 +82,7 @@ Dans la moitié inférieure de l’onglet Paramètres , personnalisez le déclen
 
 >[!TIP]
 >
->Voir [SDK Conversations](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en action !
+>Voir [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en action !
 
 >[!MORELIKETHIS]
 >

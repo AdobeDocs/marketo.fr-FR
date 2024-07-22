@@ -17,15 +17,15 @@ Vous pouvez le faire à deux endroits : l’éditeur de modèles et l’éditeur
 
 ## Mise à niveau à partir de l’éditeur de modèles {#upgrade-from-the-template-editor}
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Sélectionner **Modèles**.
+1. Sélectionnez **Modèles**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Sélectionnez un modèle dans lequel **Compatible mobile** is **Non**.
+1. Sélectionnez un modèle pour lequel **Mobile Compatible** est **Non**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -33,15 +33,15 @@ Vous pouvez le faire à deux endroits : l’éditeur de modèles et l’éditeur
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Cliquez sur **Compatibilité Mobile**.
+1. Cliquez sur **Rendre mobile compatible**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Cliquez sur **Mettre à niveau**.
+1. Cliquez sur **Upgrade**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
-   Votre modèle de landing page est désormais compatible avec les mobiles !
+   Votre modèle de landing page est désormais compatible avec les appareils mobiles.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Si vous apportez des modifications au modèle, cliquez sur Actions de modèle et
 
 Lorsque vous modifiez une landing page et que vous cliquez sur l&#39;onglet mobile, vous remarquerez parfois que le modèle n&#39;a pas été mis à niveau. N&#39;ayez pas peur ! Vous pouvez le mettre à niveau juste ici.
 
-1. Cliquez sur le bouton **Mobile** .
+1. Cliquez sur l’onglet **Mobile** .
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
@@ -81,4 +81,4 @@ Lorsque vous modifiez une landing page et que vous cliquez sur l&#39;onglet mobi
    >
    >L’activation de la version mobile d’un modèle crée des brouillons de toutes les landing pages qui l’utilisent.
 
-Super ! Vous pouvez désormais [personnaliser la vue mobile ;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de toutes vos landing pages qui utilisent ce modèle.
+Super ! Vous pouvez désormais [personnaliser la vue mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de toutes vos landing pages qui utilisent ce modèle.

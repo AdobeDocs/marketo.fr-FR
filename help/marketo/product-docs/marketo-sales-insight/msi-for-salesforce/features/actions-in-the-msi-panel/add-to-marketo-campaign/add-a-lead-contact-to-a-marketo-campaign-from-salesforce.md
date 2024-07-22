@@ -20,34 +20,35 @@ Les actions suivantes sont disponibles dans la liste déroulante Sales Insight d
 
 Chacune de ces fonctions est accessible à partir des éléments suivants :
 
-**Disposition de page avec une seule action**
+**Mise en page avec une seule action**
 
-* Panneau Mise en page des pistes : Action unique et peut être contrôlée par le profil utilisateur
-* Contact Layout Panel : Action unique et peut être contrôlée par le profil utilisateur
-* Bouton Mise en page des pistes : Action unique et ne peut pas être contrôlée par le profil utilisateur
-* Bouton Contact Disposition : Action unique et ne peut pas être contrôlée par le profil utilisateur
+* Panneau Disposition de piste : action unique pouvant être contrôlée par le profil utilisateur
+* Panneau de disposition Contact : action unique et peut être contrôlée par le profil utilisateur
+* Bouton Mise en page de piste : action unique qui ne peut pas être contrôlée par le profil utilisateur
+* Bouton Contact avec la mise en page : action unique et ne peut pas être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-**Disposition de page avec action de groupe**
+**Mise en page avec action de groupe**
 
-Panneau Disposition du compte : Action de groupe et peut être contrôlée par le panneau Disposition des opportunités du profil utilisateur : Action de groupe et peut être contrôlée par le profil utilisateur
+Panneau Disposition du compte : Action de groupe et peut être contrôlé par le profil utilisateur
+Panneau Disposition des opportunités : action de groupe et peut être contrôlée par le profil utilisateur
 
 ![](assets/-.png)
 
-**Bons billets, onglet**
+**Onglet Meilleurs billets**
 
-* Onglet Meilleures actions en bloc : Action de groupe et peut être contrôlée par le profil utilisateur
+* Onglet Meilleures actions en bloc des paris : action de groupe et peut être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-* Onglet Meilleures actions intégrées : Action unique et peut être contrôlé par le profil utilisateur
+* Onglet Meilleures actions intégrées : action unique et peut être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-**Mode Liste avec action en bloc**
+**Mode Liste avec action en masse**
 
-* En mode Liste de pistes : Action en bloc et ne peut pas être contrôlée par le profil utilisateur
-* Contact List View : Action en bloc et ne peut pas être contrôlée par le profil utilisateur
+* Affichage Liste de pistes : action en bloc et ne peut pas être contrôlée par le profil utilisateur
+* Affichage liste de contacts : action en bloc et ne peut pas être contrôlée par le profil utilisateur
 
-   ![](assets/-.png)
+  ![](assets/-.png)

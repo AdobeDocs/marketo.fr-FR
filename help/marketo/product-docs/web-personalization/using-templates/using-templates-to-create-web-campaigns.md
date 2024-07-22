@@ -7,13 +7,13 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Utilisation de modèles pour créer des campagnes web {#using-templates-to-create-web-campaigns}
 
-Accélérez et simplifiez votre processus de création de campagnes web en utilisant nos modèles intégrés ou en [enregistrement de votre propre](save-your-campaign-as-a-template.md).
+Accélérez et simplifiez votre processus de création de campagnes web en utilisant nos modèles intégrés ou en [enregistrant vos propres](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Accélérez et simplifiez votre processus de création de campagnes web en utili
 
    >[!TIP]
    >
-   >Pour les campagnes mobiles, sélectionnez un modèle dans le **mobile** .
+   >Pour les campagnes mobiles, sélectionnez un modèle dans la section **mobile** .
 
 1. Personnalisez le modèle.
 
@@ -63,4 +63,4 @@ C&#39;est joli ! Avez-vous vu combien de temps vous avez économisé en utilisan
 
 >[!MORELIKETHIS]
 >
->[Enregistrement d’une campagne en tant que modèle](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
+>[Enregistrer une campagne en tant que modèle](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)

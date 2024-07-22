@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Les campagnes intelligentes et les programmes de messagerie électronique peuvent être créés comme des entrées provisoires et doivent être confirmés pour que quoi que ce soit se produise réellement. Voici comment.
 
-1. Accédez au **[!UICONTROL Calendrier]**.
+1. Accédez au **[!UICONTROL calendrier]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Sélectionnez l’entrée à confirmer, puis cliquez sur **[!UICONTROL Afficher la cible du programme]**.
+1. Sélectionnez l’entrée que vous souhaitez confirmer, puis cliquez sur **[!UICONTROL Afficher le focus du programme]**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 

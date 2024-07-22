@@ -23,7 +23,7 @@ S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il p
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Sélectionnez votre champ et cliquez sur le bouton **delete** icône .
+1. Sélectionnez votre champ et cliquez sur l&#39;icône **supprimer** .
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
@@ -37,4 +37,4 @@ S’il existe un champ dont vous n’avez plus besoin sur votre formulaire, il p
 
 >[!NOTE]
 >
->N&#39;oublie pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+>N’oubliez pas d’ [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.

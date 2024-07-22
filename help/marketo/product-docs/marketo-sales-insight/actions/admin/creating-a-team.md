@@ -5,7 +5,7 @@ exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ La création d’une équipe vous permet d’assembler un groupe d’utilisateur
 
 ## Créer une équipe {#create-a-team}
 
-1. Dans le [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans l’ [application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/creating-a-team-1.png)
 
@@ -24,11 +24,11 @@ La création d’une équipe vous permet d’assembler un groupe d’utilisateur
 
    ![](assets/creating-a-team-2.png)
 
-1. En regard de l’option Equipe, cliquez sur **+** icône .
+1. En regard de Équipes, cliquez sur l’icône **+** .
 
    ![](assets/creating-a-team-3.png)
 
-1. Saisissez le nom de l’équipe et cliquez sur **Créer**.
+1. Saisissez le nom de l&#39;équipe et cliquez sur **Créer**.
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ La création d’une équipe vous permet d’assembler un groupe d’utilisateur
 
 ## Ajout de personnes à une équipe {#add-people-to-a-team}
 
-1. Toujours en gestion d’équipe, sélectionnez **Tous les membres**.
+1. Toujours dans la gestion des équipes, sélectionnez **Tous les membres**.
 
    ![](assets/creating-a-team-5.png)
 
@@ -54,6 +54,6 @@ La création d’une équipe vous permet d’assembler un groupe d’utilisateur
 
    ![](assets/creating-a-team-8.png)
 
-1. Cliquez sur **Ajouter** une fois terminé.
+1. Cliquez sur **Ajouter** lorsque vous avez terminé.
 
    ![](assets/creating-a-team-9.png)

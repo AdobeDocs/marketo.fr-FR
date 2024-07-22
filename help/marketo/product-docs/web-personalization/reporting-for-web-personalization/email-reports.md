@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719338
 description: Rapports par e-mail - Documents Marketo - Documentation du produit
-title: Envoyer les rapports par e-mail
+title: Rapports par e-mail
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '416'
 ht-degree: 2%
 
 ---
 
-# Envoyer les rapports par e-mail {#email-reports}
+# Rapports par e-mail {#email-reports}
 
-Pour personnaliser le rapport de messagerie automatisé que l’utilisateur reçoit, reportez-vous à la section  [Section Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Pour personnaliser le rapport de messagerie automatisé que l’utilisateur reçoit, reportez-vous à la [section Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
-## Rapports d’e-mail de personnalisation web {#web-personalization-email-reports}
+## Rapports de messagerie Web Personalization {#web-personalization-email-reports}
 
 Les rapports par courriel quotidiens ou hebdomadaires sont envoyés à l’adresse électronique de l’utilisateur, ce qui fournit les dernières données de performances sur l’organisation, la personne, la campagne et les ressources.
 
@@ -31,25 +31,25 @@ Le rapport quotidien/hebdomadaire envoie à l’utilisateur un courrier électro
 
 ![](assets/two.png)
 
-Le rapport Personnes quotidien/hebdomadaire envoie à l’utilisateur un e-mail des 100 dernières personnes à partir du site Web, en fonction des éléments suivants : adresse électronique de la personne, nom de l’organisation, emplacement, état, date de capture de la personne et segments auxquels cette personne appartient.
+Le rapport Personnes quotidien/hebdomadaire envoie à l’utilisateur un courrier électronique contenant les 100 dernières personnes sur le site Web, en fonction de : l’adresse électronique de la personne, le nom de l’organisation, l’emplacement, l’état, la date de capture de la personne et des segments auxquels elle appartient.
 
-## Meilleures performances des campagnes en temps réel {#top-performing-real-time-campaigns}
+## Meilleures campagnes en temps réel {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
 Le rapport Campagnes en temps réel les plus performantes envoie à l’utilisateur un e-mail des campagnes en temps réel les plus performantes, indiquant le nom, les impressions, les clics, le segment auquel la campagne a réagi et le taux de conversion de la campagne.
 
-## Rapport des ressources les plus performantes {#top-performing-assets-report}
+## Rapport Assets les plus performants {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-Le rapport Ressources les plus performantes envoie à l’utilisateur un courrier électronique des ressources de contenu les plus performantes, indiquant le nom de la ressource et le pourcentage de correspondances par rapport aux autres ressources.
+Le rapport Assets les plus performantes envoie à l’utilisateur un e-mail des ressources de contenu les plus performantes, indiquant le nom et le pourcentage des correspondances de la ressource par rapport aux autres ressources.
 
 ## Rapport des ressources recommandées {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
-Le rapport Ressources recommandées envoie à l’utilisateur un courrier électronique indiquant tout le contenu et le nombre de clics issus du contenu affiché dans le moteur de recommandation de contenu.
+Le rapport Assets recommandé envoie à l’utilisateur un e-mail indiquant tout le contenu et le nombre de clics issus du contenu affiché dans le moteur de recommandation de contenu.
 
 ## Rapport de synthèse {#summary-report}
 
@@ -61,12 +61,12 @@ Le rapport de synthèse envoie à l&#39;utilisateur un email (mensuel ou trimest
 >
 >**Définitions**
 >
->**Conversion directe**: Un visiteur web qui clique sur une campagne personnalisée ou une ressource de contenu recommandé et, au cours de la même session de visite, remplit n’importe quel formulaire du site web avec son adresse électronique.
+>**Conversion directe** : un visiteur web qui clique sur une campagne personnalisée ou une ressource de contenu recommandé et au cours de la même session de visite remplit n’importe quel formulaire du site web avec son adresse électronique.
 >
->**Conversion assistée**: Un visiteur web qui remplit n’importe quel formulaire sur le site web et laisse son adresse électronique, tandis que, lors d’une visite précédente (au cours des 6 derniers mois), il a cliqué sur une campagne personnalisée ou une ressource de contenu recommandée.
+>**Conversion assistée** : visiteur web qui remplit n’importe quel formulaire sur le site web et laisse son adresse électronique, tandis que, lors d’une visite précédente (au cours des 6 derniers mois), il a cliqué sur une campagne personnalisée ou une ressource de contenu recommandée.
 
 >[!NOTE]
 >
->La personnalisation web de Marketo capture l’adresse électronique du visiteur web pour tout formulaire complété sur le site web. Il s’agit de la personne qui est utilisée dans le rapport de synthèse, affiché sur la page Personnes de la personnalisation Web.
+>Marketo Web Personalization capture l’adresse électronique du visiteur Web pour tout formulaire complété sur le site Web. Il s’agit de la personne qui est utilisée dans le rapport de synthèse, affichée sur la page Personnes de Web Personalization.
 
-Pour personnaliser le rapport de messagerie automatisé que l’utilisateur reçoit, reportez-vous à la section [Section Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Pour personnaliser le rapport de messagerie automatisé que l’utilisateur reçoit, reportez-vous à la [section Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

@@ -13,11 +13,11 @@ ht-degree: 3%
 
 # Verrouillage de contenu {#content-lockdown}
 
-En activant le verrouillage du contenu, limitez la modification des modèles et/ou des campagnes par les utilisateurs non-administrateurs. Les utilisateurs ne pourront pas : partager, cloner, modifier ou supprimer du contenu. Ils n’auront pas non plus la possibilité d’archiver des modèles.
+En activant le verrouillage du contenu, limitez la modification des modèles et/ou des campagnes par les utilisateurs non-administrateurs. Les utilisateurs ne pourront pas partager, cloner, modifier ou supprimer du contenu. Ils n’auront pas non plus la possibilité d’archiver des modèles.
 
 >[!NOTE]
 >
->Utilisateurs **will** être toujours en mesure d&#39;éditer le contenu d&#39;un email au moment de l&#39;envoi, ou lors du lancement d&#39;une campagne ;
+>Les utilisateurs **pourront toujours modifier le contenu d’un email au moment de l’envoi ou lors du lancement d’une campagne.**
 
 1. Dans Sales Connect, cliquez sur l’icône des paramètres et sélectionnez **Paramètres**.
 
@@ -27,6 +27,6 @@ En activant le verrouillage du contenu, limitez la modification des modèles et/
 
    ![](assets/two-4.png)
 
-1. Faites défiler l’écran jusqu’à Verrouillage de contenu. L’activation de l’un ou l’autre curseur est activée. _disable_ la possibilité pour les membres de votre équipe de créer/modifier des modèles et/ou des campagnes.
+1. Faites défiler l’écran jusqu’à Verrouillage de contenu. Si vous activez un curseur, _désactiver_ la capacité des membres de votre équipe à créer/modifier des modèles et/ou des campagnes.
 
    ![](assets/three-4.png)

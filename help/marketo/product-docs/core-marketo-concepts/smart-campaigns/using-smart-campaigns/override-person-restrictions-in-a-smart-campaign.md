@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Remplacement des restrictions de personne dans une campagne dynamique {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo Engage vous permet de définir le nombre maximal de personnes pouvant être qualifiées pour une campagne dynamique, ce qui vous permet d’éviter d’envoyer accidentellement par courrier électronique l’ensemble de votre base de données. Si vous voulez _override_ cette limite, voilà comment.
+Marketo Engage vous permet de définir le nombre maximal de personnes pouvant être qualifiées pour une campagne dynamique, ce qui vous permet d’éviter d’envoyer accidentellement par courrier électronique l’ensemble de votre base de données. Si vous souhaitez _remplacer_ cette limite, voici comment procéder.
 
 >[!PREREQUISITES]
 >
->Veillez à [Activation des restrictions de personne pour les campagnes dynamiques](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} dans l’administration Marketo.
+>Veillez à [activer les restrictions de personne pour les campagnes dynamiques](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} dans l’administration Marketo.
 
-1. Dans **[!UICONTROL Activités marketing]**, accédez à votre campagne dynamique et cliquez sur **[!UICONTROL Planification]**.
+1. Dans **[!UICONTROL Activités marketing]**, accédez à votre campagne dynamique et cliquez sur **[!UICONTROL Planifier]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 

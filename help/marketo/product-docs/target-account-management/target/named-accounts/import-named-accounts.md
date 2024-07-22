@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Vous disposez déjà d’un fichier CSV contenant de nombreux comptes cibles potentiels ? Importez-les directement dans TAM !
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Importation de comptes nommés**.
+1. Cliquez sur la liste déroulante **New** et sélectionnez **Importer les comptes nommés**.
 
    ![](assets/inaone.png)
 
@@ -25,9 +25,9 @@ Vous disposez déjà d’un fichier CSV contenant de nombreux comptes cibles pot
 
    >[!TIP]
    >
-   >Dans votre fichier , fournissez [quantité d’informations](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) dans la mesure du possible. Vous pouvez uniquement ajouter des informations démographiques ; rien de Marketo ne calcule (c’est-à-dire Pipeline). Pour créer des comptes nommés basés sur des comptes CRM, il vous suffit d’exporter le nom du compte et l’identifiant CRM de votre CRM dans un fichier CSV, d’utiliser l’option Nom du compte et de mapper l’identifiant CRM au cours du processus d’importation. Pour lier correctement un compte CRM à un compte nommé, vous devez indiquer le nom exact du compte CRM.
+   >Dans votre fichier, fournissez [autant d&#39;informations](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) que possible. Vous pouvez uniquement ajouter des informations démographiques ; aucune analyse Marketo (c’est-à-dire Pipeline). Pour créer des comptes nommés basés sur des comptes CRM, il vous suffit d’exporter le nom du compte et l’identifiant CRM de votre CRM dans un fichier CSV, d’utiliser l’option Nom du compte et de mapper l’identifiant CRM au cours du processus d’importation. Pour lier correctement un compte CRM à un compte nommé, vous devez indiquer le nom exact du compte CRM.
 
-1. Choisissez l’un des deux modes de déduplication : Nom du compte ou nom de domaine. Dans cet exemple, nous choisirons Compte . Cliquez sur le bouton **Modes** et sélectionnez **Par nom de compte**.
+1. Choisissez l’un des deux modes de déduplication : Nom du compte ou Nom de domaine. Dans cet exemple, nous choisirons Compte . Cliquez sur la liste déroulante **Modes** et sélectionnez **Par nom de compte**.
 
    ![](assets/inathree.png)
 
@@ -35,7 +35,7 @@ Vous disposez déjà d’un fichier CSV contenant de nombreux comptes cibles pot
    >
    >Si vous choisissez **Par mode de domaine**, les champs de compte et de domaine nommés doivent être inclus.
 
-1. Pour sélectionner la liste des comptes auxquels votre compte nommé est ajouté, cliquez sur le bouton **Liste des comptes** et effectuez votre sélection.
+1. Pour choisir la liste des comptes auxquels votre compte nommé sera ajouté, cliquez sur la liste déroulante **Liste des comptes** et effectuez votre sélection.
 
    ![](assets/inafour.png)
 
@@ -43,7 +43,7 @@ Vous disposez déjà d’un fichier CSV contenant de nombreux comptes cibles pot
    >
    >Vous pouvez également créer une nouvelle liste de comptes en saisissant simplement son nom dans la liste déroulante.
 
-1. Pour envoyer une notification de l&#39;import, cliquez sur le bouton **Envoyer une alerte à** et sélectionnez un utilisateur Marketo. You _cannot_ saisissez manuellement une adresse électronique.
+1. Pour envoyer une notification de l’importation, cliquez sur la liste déroulante **Envoyer une alerte à** et sélectionnez un utilisateur Marketo. Vous _ne pouvez pas_ saisir manuellement une adresse électronique.
 
    ![](assets/inafive-2.png)
 
@@ -51,11 +51,11 @@ Vous disposez déjà d’un fichier CSV contenant de nombreux comptes cibles pot
 
    ![](assets/inasix-2.png)
 
-1. Mappez chaque champ en double-cliquant sur le **Champ Marketo** , puis sélectionnez le champ approprié. Cliquez sur **Suivant** une fois terminé.
+1. Faites correspondre chaque champ en double-cliquant sur la liste déroulante **Champ Marketo** et en sélectionnant le champ approprié. Cliquez sur **Suivant** une fois terminé.
 
    ![](assets/inaseven.png)
 
-   Succès !
+   Succès!
 
    ![](assets/inanine.png)
 
@@ -72,7 +72,7 @@ Scénarios de déduplication par nom de compte :
    <td><p>Nous mettrons à jour l’enregistrement existant</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Importer un enregistrement avec un nouveau nom de compte nommé</strong></td> 
+   <td><strong>Importation d’un enregistrement avec un nouveau nom de compte nommé</strong></td> 
    <td>Nous allons créer un nouvel enregistrement</td> 
   </tr> 
  </tbody> 
@@ -103,6 +103,6 @@ Scénarios de déduplication par nom de domaine :
 
 >[!NOTE]
 >
->Lorsque Marketo ajoute un compte nommé, nous mettons à jour une règle (en arrière-plan) qui nous permet d’identifier les personnes qui doivent faire partie du compte nommé. Exemple : Si vous mettez à jour &quot;IBM&quot; vers &quot;IBM, Etats-Unis&quot;, les personnes qui portent l’un ou l’autre nom de société seront associées au compte nommé.
+>Lorsque Marketo ajoute un compte nommé, nous mettons à jour une règle (en arrière-plan) qui nous permet d’identifier les personnes qui doivent faire partie du compte nommé. Exemple : si vous mettez à jour &quot;IBM&quot; vers &quot;IBM, Etats-Unis&quot;, les personnes qui portent l’un ou l’autre nom de société seront associées au compte nommé.
 
 Si Marketo trouve des enregistrements que nous voyons comme des doublons, nous traiterons uniquement le premier.

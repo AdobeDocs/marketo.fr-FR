@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## Mise à jour de l’éditeur de texte enrichi {#rich-text-editor-update}
 
-Mise à jour de l’éditeur de texte avec une apparence moderne, notamment la mise en forme simplifiée du texte, la modification d’images, l’insertion de liens et la modification de HTMLS. L’éditeur de HTML présente désormais une validation minimale, ce qui permet une modification du code moins restrictive.
+Mise à jour de l’éditeur de texte avec une apparence moderne, notamment la mise en forme simplifiée du texte, la modification d’images, l’insertion de liens et la modification d’HTMLS. L’éditeur d’HTML présente désormais une validation minimale, ce qui permet une modification du code moins restrictive.
 `<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Cette mise à jour sera automatiquement déployée dans les quelques jours suivant la publication de juillet. Ensuite, vous pourrez basculer entre les versions nouvelles et héritées de l’éditeur à partir de **Admin > Email > Modifier les paramètres de l’éditeur**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
@@ -48,10 +48,10 @@ Avez-vous configuré plusieurs campagnes RTP personnalisées et remarqué que ce
 
 ## API de société {#company-api}
 
-**Accès aux objets de la société via l’API REST**: l’API REST permet désormais d’accéder à l’objet Société Marketo (alias Compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer les objets d’entreprise que vous avez créés dans Marketo et associer des pistes à ces sociétés à l’aide de l’API de piste mise à jour.
+**Accès à l’objet de la société via l’API REST** : l’API REST permet désormais d’accéder à l’objet Société Marketo (alias Compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer les objets d’entreprise que vous avez créés dans Marketo et associer des pistes à ces sociétés à l’aide de l’API de piste mise à jour.
 
-Formation [more]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) dans notre guide de référence pour l’API d’entreprise.
+Découvrez [plus]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) dans notre guide de référence pour l’API de la société.
 
 ## Accès à la délivrabilité des emails {#access-email-deliverability}
 
-**Accès à l’outil de délivrabilité des emails**: cette nouvelle autorisation permet aux administrateurs d’accorder aux utilisateurs l’accès à l’outil de délivrabilité des emails.
+**Accéder à l’outil de délivrabilité des emails** : cette nouvelle autorisation permet aux administrateurs d’accorder aux utilisateurs l’accès à l’outil de délivrabilité des emails.

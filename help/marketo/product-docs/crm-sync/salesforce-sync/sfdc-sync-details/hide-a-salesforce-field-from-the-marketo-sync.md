@@ -19,11 +19,11 @@ ht-degree: 1%
 
 Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez optimiser les performances de synchronisation en incluant uniquement les champs dont vous avez besoin. Voici comment masquer un champ du Marketo Engage.
 
-1. Cliquez sur le menu Nom et sélectionnez **[!UICONTROL Configuration]**.
+1. Cliquez sur le menu de votre nom et sélectionnez **[!UICONTROL Configuration]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Saisissez &quot;profils&quot; dans la barre de recherche, puis cliquez sur **[!UICONTROL Profils]** under **[!UICONTROL Gestion des utilisateurs]**.
+1. Saisissez &quot;profiles&quot; dans la barre de recherche, puis cliquez sur **[!UICONTROL Profiles]** sous **[!UICONTROL Gérer les utilisateurs]**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,7 +31,7 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Sous , **[!UICONTROL Sécurité au niveau du champ]** , cliquez sur **[!UICONTROL Affichage]** à côté de l’objet qui contient le champ cible.
+1. Dans la section **[!UICONTROL Sécurité au niveau du champ]**, cliquez sur **[!UICONTROL Afficher]** en regard de l’objet qui contient le champ cible.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
@@ -39,7 +39,7 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Décochez la case **[!UICONTROL Visible]** en regard du champ à masquer. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Décochez la case **[!UICONTROL Visible]** en regard du champ que vous souhaitez masquer. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    >[!MORELIKETHIS]
    >
-   >[Masquage et affichage d’un champ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}
+   >[Masquer et afficher un champ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

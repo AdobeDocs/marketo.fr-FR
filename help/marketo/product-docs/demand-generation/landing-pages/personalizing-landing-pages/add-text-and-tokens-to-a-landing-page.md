@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >Le concepteur de landing page s’ouvre dans une nouvelle fenêtre.
 
-1. Faites glisser le curseur de la souris **Texte enrichi** élément .
+1. Faites glisser le pointeur de la souris sur l’élément **Texte enrichi** .
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Saisissez le texte de votre choix, puis cliquez sur **Enregistrer**.
+1. Saisissez le texte de votre choix et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -65,7 +65,7 @@ Les jetons sont des blocs de texte dynamiques qui peuvent personnaliser votre la
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Saisissez un **Valeur par défaut** et cliquez sur **Insérer**.
+1. Saisissez une **valeur par défaut** et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
@@ -73,4 +73,4 @@ Les jetons sont des blocs de texte dynamiques qui peuvent personnaliser votre la
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Mission terminée ! Vous disposez maintenant d’un jeton sur votre page d’entrée.
+   Mission terminée ! Votre page d’entrée contient maintenant un jeton.

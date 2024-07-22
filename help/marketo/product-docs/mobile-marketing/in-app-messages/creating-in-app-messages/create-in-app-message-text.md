@@ -35,7 +35,7 @@ Cliquez sur la zone de texte pour travailler sur le style et le contenu de votre
    >
    >Une taille de texte trop grande peut pousser le contenu au-delà des trois lignes visibles de texte maximum.
 
-1. Choisissez un style de type optionnel, en mettant l’accent : **Gras**, _Italique_ ou Souligner.
+1. Choisissez un style de type facultatif, en mettant l’accent : **Bold**, _Italic_ ou Souligné.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -85,5 +85,5 @@ Tu es dorée. Ensuite, vous devez [configurer votre bouton de message in-app](/h
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Compréhension des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

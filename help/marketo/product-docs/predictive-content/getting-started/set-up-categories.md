@@ -17,7 +17,7 @@ Créez des catégories dans Contenu prédictif pour regrouper vos résultats pr�
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Lorsque vous modifiez du contenu découvert, ajoutez des catégories dans l’écran de modification. Cliquez sur le bouton **Catégories** et sélectionnez-les dans la liste déroulante.
+Lorsque vous modifiez du contenu découvert, ajoutez des catégories dans l’écran de modification. Cliquez sur le champ **Catégories** et sélectionnez-les dans la liste déroulante.
 
 ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Lorsque vous ajoutez du contenu, vous pouvez le baliser avec les catégories sé
 
 Voici comment créer des balises de catégorie.
 
-1. Accédez à **Paramètres Contenu**.
+1. Accédez à **Paramètres de contenu**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
@@ -41,11 +41,11 @@ Voici comment créer des balises de catégorie.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Vous pouvez supprimer une balise de catégorie en cliquant sur le bouton **x** à côté.
+1. Vous pouvez supprimer une balise de catégorie en cliquant sur le **x** en regard de celle-ci.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Cliquez sur **Enregistrer** lorsque vous avez fini.
+1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/save-new.png)
 

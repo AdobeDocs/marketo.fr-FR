@@ -19,15 +19,15 @@ Lorsque les utilisateurs épuisent tout le contenu d’un flux, Marketo peut vou
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez un programme d’engagement et cliquez sur le bouton **Configuration** .
+1. Sélectionnez un programme d&#39;engagement et cliquez sur l&#39;onglet **Configuration** .
 
    ![](assets/setuptab.jpg)
 
-1. Double-cliquez **Notifications de contenu extraites**.
+1. Double-cliquez sur **Exhausted Content Notifications**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Sélectionner **Off** (ou **Activé**) et cliquez sur **Enregistrer**.
+1. Sélectionnez **Off** (ou **On**) et cliquez sur **Save**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

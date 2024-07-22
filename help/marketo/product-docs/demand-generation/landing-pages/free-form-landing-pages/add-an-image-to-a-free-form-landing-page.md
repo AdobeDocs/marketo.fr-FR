@@ -17,11 +17,11 @@ ht-degree: 5%
 >
 >[Ajout d’images et de fichiers à Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Sélectionnez votre page d’entrée de forme libre et cliquez sur **Modifier** **Version préliminaire**.
+1. Sélectionnez votre page d’entrée de forme libre et cliquez sur **Modifier** **Brouillon**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Dans l’éditeur, faites glisser le pointeur de la souris sur l’objet **Image** élément .
+1. Dans l’éditeur, faites glisser sur l’élément **Image** .
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 

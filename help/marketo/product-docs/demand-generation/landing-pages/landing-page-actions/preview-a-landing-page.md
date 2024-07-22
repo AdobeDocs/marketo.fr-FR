@@ -17,7 +17,7 @@ Vous souhaitez probablement voir à quoi ressemble votre landing page avant de l
 
 ## Aperçu d’une page d’entrée {#preview-a-landing-page-1}
 
-1. Sélectionnez une landing page et cliquez sur **Aperçu de la page**.
+1. Sélectionnez une landing page et cliquez sur **Preview Page**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -25,13 +25,13 @@ Vous souhaitez probablement voir à quoi ressemble votre landing page avant de l
    >
    >Le brouillon est la version sur laquelle vous travaillez, et non la version en direct que voient les clients.
 
-1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et sélectionner **Aperçu**.
+1. Vous pouvez également cliquer avec le bouton droit de la souris sur votre landing page et sélectionner **Preview**.
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
 ## Aperçu d’un brouillon de page d’entrée {#preview-a-landing-page-draft}
 
-1. Cliquez avec le bouton droit de la souris sur une page d’entrée approuvée contenant une version préliminaire, puis cliquez sur **Aperçu du brouillon**.
+1. Cliquez avec le bouton droit de la souris sur une page d’entrée approuvée dont la version est préliminaire et cliquez sur **Aperçu préliminaire**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
@@ -41,7 +41,7 @@ Vous souhaitez probablement voir à quoi ressemble votre landing page avant de l
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. À tout moment au cours de votre travail dans l’éditeur de page d’entrée, vous pouvez cliquer sur **Aperçu du brouillon**.
+1. À tout moment pendant votre travail dans l’éditeur de page d’entrée, vous pouvez cliquer sur **Aperçu préliminaire**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 

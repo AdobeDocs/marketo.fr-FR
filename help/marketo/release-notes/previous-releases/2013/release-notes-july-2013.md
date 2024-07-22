@@ -6,12 +6,12 @@ exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '202'
 ht-degree: 2%
 
 ---
 
-# Notes de mise à jour : Juillet 2013 {#release-notes-july}
+# Notes de mise à jour : juillet 2013 {#release-notes-july}
 
 Les fonctionnalités suivantes sont incluses dans la version de juillet, qui est programmée pour un déploiement le vendredi 26 juillet.
 
@@ -29,7 +29,7 @@ Vous souhaitez arrêter les pistes de sur-courrier électronique ? Il est mainte
 
 ## Interface utilisateur cobalt {#cobalt-user-interface}
 
-Au cours des prochains mois, vous remarquerez que notre nouveau thème se déploie dans différentes parties de l’application. Aucune fonctionnalité ne sera déplacée ou supprimée.
+Au cours des prochains mois, vous remarquerez que notre nouveau thème se déploiera dans différentes parties de l’application. Aucune fonctionnalité ne sera déplacée ou supprimée.
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 

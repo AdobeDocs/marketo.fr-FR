@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512607
-description: "Télécharger [!DNL GoogleAdwords Activity Log] - Documents Marketo - Documentation du produit"
-title: "Téléchargement [!DNL GoogleAdwords Activity Log]"
+description: "Télécharger [!DNL GoogleAdwords Activity Log]  - Documents Marketo - Documentation du produit"
+title: "Download [!DNL GoogleAdwords Activity Log]"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 13%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Des trucs se produisent. Parfois, vous devez télécharger le journal des activités pour résoudre les problèmes.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/download-googleadwords-activity-log-1.png)
 
@@ -23,7 +23,7 @@ Des trucs se produisent. Parfois, vous devez télécharger le journal des activi
 
    ![](assets/download-googleadwords-activity-log-2.png)
 
-1. Recherchez votre [!DNL Google AdWords] service et cliquez sur **[!UICONTROL Téléchargement du journal d’activité]**.
+1. Recherchez votre service [!DNL Google AdWords] et cliquez sur **[!UICONTROL Télécharger le journal d’activité]**.
 
    ![](assets/download-googleadwords-activity-log-3.png)
 

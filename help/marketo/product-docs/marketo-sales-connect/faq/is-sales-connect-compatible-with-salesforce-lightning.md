@@ -6,7 +6,7 @@ exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Oui, Sales Connect est compatible avec Salesforce Lightning.
 
-Veuillez [cliquez ici](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) pour le guide d’installation et de réussite.
+Veuillez [cliquer ici](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) pour accéder au Guide d’installation et de réussite.
 
 >[!NOTE]
 >

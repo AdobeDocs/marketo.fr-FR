@@ -6,7 +6,7 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,11 @@ Vous pouvez conserver des onglets sur le débit et le journal actuels du process
 
 ## Onglet État de synchronisation {#sync-status-tab}
 
-1. Cliquez sur **[!UICONTROL Administration]**, puis **[!UICONTROL Microsoft Dynamics]**.
+1. Cliquez sur **[!UICONTROL Admin]**, puis sur **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Cliquez sur le bouton **[!UICONTROL État de la synchronisation]** .
+1. Cliquez sur l’onglet **[!UICONTROL État de synchronisation]** .
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ Vous pouvez conserver des onglets sur le débit et le journal actuels du process
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Affichage]** et sélectionnez **[!UICONTROL Dernière heure]** pour afficher les informations de débit.
+1. Cliquez sur la liste déroulante **[!UICONTROL Afficher]** et sélectionnez **[!UICONTROL Dernière heure]** pour afficher les informations de débit.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

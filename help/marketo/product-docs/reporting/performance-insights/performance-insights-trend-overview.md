@@ -6,7 +6,7 @@ exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La tendance affiche les performances des canaux sur une période donnée.
 
-Cliquez sur le bouton **Tendance** pour accéder à cette vue.
+Cliquez sur l&#39;onglet **Tendance** pour accéder à cette vue.
 
 ![](assets/1.png)
 
@@ -23,11 +23,11 @@ Cliquez sur le bouton **Tendance** pour accéder à cette vue.
 
 ![](assets/2-1.png)
 
-Sélectionnez la mesure dont vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via [Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Sélectionnez la mesure en fonction de laquelle vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via [Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
-Les mesures sont présentées sous la forme de deux graphiques : beignet et ligne.
+Les mesures sont présentées sous la forme de deux graphiques : un anneau et une ligne.
 
 ![](assets/4-1.png)
 

@@ -18,11 +18,11 @@ Nous souhaitons que le courrier électronique envoyé par le service commercial 
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. Sous Mon compte, sélectionnez **Paramètres de messagerie électronique**.
+1. Sous Mon compte, sélectionnez **Paramètres de courrier électronique**.
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. Dans le **Adresse et signature** sélectionnez l’identité électronique pour laquelle vous souhaitez créer une signature.
+1. Dans l’onglet **Address and Signature** (Adresse et signature), sélectionnez l’identité électronique pour laquelle vous souhaitez créer une signature.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
@@ -30,7 +30,7 @@ Nous souhaitons que le courrier électronique envoyé par le service commercial 
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. Saisissez le texte (ou les images) de votre choix, puis cliquez sur **Enregistrer**.
+1. Saisissez le texte (ou les images) de votre choix et cliquez sur **Enregistrer**.
 
    ![](assets/add-or-update-your-email-signature-5.png)
 

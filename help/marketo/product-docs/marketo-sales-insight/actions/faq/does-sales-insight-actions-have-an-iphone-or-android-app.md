@@ -12,4 +12,4 @@ ht-degree: 0%
 
 # Les actions Sales Insight possèdent-elles une application iPhone ou Android ? {#does-sales-insight-actions-have-an-iphone-or-android-app}
 
-À l’heure actuelle, les actions Sales Insight ne disposent pas d’une application iPhone ou Android. C&#39;est quelque chose que nous espérons ajouter dans le futur.
+À l’heure actuelle, les actions d’aperçu des ventes ne disposent pas d’une application iPhone ou Android. C&#39;est quelque chose que nous espérons ajouter dans le futur.

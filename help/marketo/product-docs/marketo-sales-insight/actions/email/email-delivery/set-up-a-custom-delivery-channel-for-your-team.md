@@ -18,11 +18,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Outre la configuration de votre serveur SMTP, votre [l&#39;identité de l&#39;email doit être vérifiée](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) avant de pouvoir envoyer des emails.
+>* Outre la configuration de votre serveur SMTP, votre [ identité email doit être vérifiée ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) avant de pouvoir envoyer des emails.
 >* Nous vous recommandons de travailler avec votre équipe informatique ou votre fournisseur de serveur SMTP pour obtenir les informations d’identification de serveur appropriées pour votre serveur SMTP.
 >* Vous ne pouvez pas connecter votre serveur Gmail et Exchange à l’aide des informations d’identification du serveur SMTP. Utilisez notre service Email Connection pour vous intégrer à ces fournisseurs.
 
-1. Cliquez sur l’icône d’engrenage et choisissez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Cliquez sur le bouton **Canal de diffusion de l’équipe** .
+1. Cliquez sur l’onglet **Canal de diffusion de l’équipe** .
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. Saisissez vos informations d’identification SMTP Server, puis cliquez sur **Connexion**.
+1. Saisissez vos informations d’identification SMTP Server et cliquez sur **Connect**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [Connexion par e-mail pour les utilisateurs de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [Connexion par e-mail pour les utilisateurs Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Connexion par e-mail pour les utilisateurs d’Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

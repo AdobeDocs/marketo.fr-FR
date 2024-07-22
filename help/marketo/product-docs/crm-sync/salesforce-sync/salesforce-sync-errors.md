@@ -6,7 +6,7 @@ feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -20,11 +20,11 @@ Affichez un résumé des erreurs rencontrées lors du processus de synchronisati
 
 ## Afficher les erreurs de synchronisation {#view-sync-errors}
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Sous Intégration, cliquez sur **Salesforce**, puis la variable **[!UICONTROL Erreurs de synchronisation]** .
+1. Sous Intégration, cliquez sur **Salesforce**, puis sur l’onglet **[!UICONTROL Erreurs de synchronisation]** .
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +34,7 @@ Affichez un résumé des erreurs rencontrées lors du processus de synchronisati
 
 | Champ | Description |
 |---|---|
-| Échec de | Record Level _ou_ Niveau de tâche |
+| Échec de | Niveau d’enregistrement _ou_ Niveau de tâche |
 | Date/heure de l’échec | Détails de l’erreur |
 | Type d&#39;erreur | Message de retour SFDC |
 
@@ -48,10 +48,10 @@ Affichez un résumé des erreurs rencontrées lors du processus de synchronisati
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Sélectionnez la période et la période, puis filtrez par type d’erreur (niveau de tâche ou niveau d’enregistrement). Cliquez sur **[!UICONTROL Appliquer]** une fois terminé.
+1. Sélectionnez la période et la période, puis filtrez par type d’erreur (niveau de tâche ou niveau d’enregistrement). Cliquez sur **[!UICONTROL Apply]** lorsque vous avez terminé.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**ÉTAPE FACULTATIVE**: pour exporter les erreurs de synchronisation, cliquez sur **[!UICONTROL Exporter]**. Les données seront exportées au format CSV.
+**ÉTAPE FACULTATIVE** : pour exporter des erreurs de synchronisation, cliquez sur **[!UICONTROL Exporter]**. Les données seront exportées au format CSV.
 
 ![](assets/salesforce-sync-errors-5.png)

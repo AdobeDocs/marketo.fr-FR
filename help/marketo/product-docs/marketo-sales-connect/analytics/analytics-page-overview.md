@@ -27,7 +27,7 @@ Tous les statistiques contenues dans le tableau seront calculés en examinant le
 
 ## Onglets Analytics {#analytic-tabs}
 
-Nous divisons vos statistiques en trois onglets distincts : Moi, l&#39;équipe et le contenu. Vous pouvez les utiliser pour obtenir une perspective différente de l’information que nous fournissons.
+Vos statistiques sont divisées en trois onglets distincts : Moi, Équipe et Contenu. Vous pouvez les utiliser pour obtenir une perspective différente de l’information que nous fournissons.
 
 Lorsque vous passez d’un onglet à l’autre sur la page d’analyse, vous pouvez trier vos statistiques en cliquant sur les icônes d’affichage, de clic ou de réponse.
 
@@ -45,6 +45,6 @@ Ici vous pouvez voir les statistiques et les classements de toute votre équipe.
 
 L’onglet Contenu contient des statistiques sur les modèles, le contenu et les liens. Vous pouvez filtrer par tout le monde ou par équipes créées par vos administrateurs.
 
-Si du texte bleu s’affiche sous la colonne Objet, cela signifie que le modèle est partagé. Vous pouvez cliquer sur le texte bleu à insérer dans ce modèle. Afficher son utilisation en cliquant sur **Analyses de modèles**.
+Si du texte bleu s’affiche sous la colonne Objet, cela signifie que le modèle est partagé. Vous pouvez cliquer sur le texte bleu à insérer dans ce modèle. Affichez son utilisation en cliquant sur **Template Analytics**.
 
 Les &quot;clics sur le contenu&quot; sont comptabilisés lorsqu’un destinataire clique sur un lien dans votre email.

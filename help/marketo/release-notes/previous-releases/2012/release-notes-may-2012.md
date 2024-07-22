@@ -6,16 +6,16 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
 
-# Notes de mise à jour : Mai 2012 {#release-notes-may}
+# Notes de mise à jour : mai 2012 {#release-notes-may}
 
 ## Refonte du rapport Performance des emails {#email-performance-report-redesign}
 
-Remarque : il s’agira d’un déploiement par étapes, à compter de la version de mai
+Remarque : Il s’agira d’un déploiement intermédiaire, à compter de la version de mai.
 
 Les rapports Performances des emails et Performances des emails de Campaign ont été générés plus rapidement. Nous avons également amélioré les définitions de certaines mesures et consolidé les mesures &quot;Messages envoyés&quot; et &quot;Pistes envoyées&quot; à une mesure unique, &quot;Envoyés&quot;. Nous avons fusionné &quot;Messages délivrés&quot; et &quot;Leads Délivrés&quot; en &quot;Delivered&quot;.
 
@@ -27,7 +27,7 @@ Les nouvelles propriétés d’attente avancées vous permettent de configurer l
 
 Figure 1. Définition de l’étape d’attente pour qu’elle se termine un jour ouvré
 
-## Ressources archivées masquées {#archived-assets-hidden}
+## Assets archivé masqué {#archived-assets-hidden}
 
 Les ressources archivées sont automatiquement filtrées à partir des suggestions automatiques, des listes déroulantes et des rapports, ce qui facilite la recherche de ce que vous recherchez.
 
@@ -39,7 +39,7 @@ Figure 2. Exemple de filtre d’email archivé
 
 Simplifiez le processus d’archivage des événements à l’aide de notre nouvelle application iPad ! L’application d’archivage des événements se synchronise avec votre programme Marketo et vous permet d’archiver facilement les inscrits dans un événement, ainsi que d’ajouter de nouvelles pistes à la volée.
 
-Requiert iOS 5.1 ou version ultérieure ; iPad uniquement.
+Nécessite iOS 5.1 ou version ultérieure ; iPad uniquement.
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
@@ -47,7 +47,7 @@ Figure 3. Page d’accueil de l’enregistrement d’événement
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
-Figure 4. Event Check In : Sélectionnez votre événement .
+Figure 4. Archivage des événements : sélectionnez votre événement .
 
 ![](assets/image2014-9-23-10-3a15-3a27.png)
 
@@ -55,7 +55,7 @@ Figure 5. Archivez-les
 
 ## URL de confirmation améliorée du webinaire {#enhanced-webinar-confirmation-url}
 
-Maintenant disponible pour ON24 et Adobe Connect ! Inclure un lien unique dans l’email de confirmation pour chaque participant enregistré à l’aide de la nouvelle `{{member.webinar URL}}` jeton. Les améliorations apportées à Adobe Connect incluent également la possibilité d’activer/désactiver l’e-mail d’informations de compte d’Adobe contenant l’ID de connexion et le mot de passe de l’utilisateur.
+Maintenant disponible pour ON24 et Adobe Connect ! Incluez un lien unique dans l&#39;email de confirmation pour chaque participant enregistré à l&#39;aide du nouveau jeton `{{member.webinar URL}}`. Les améliorations apportées à Adobe Connect incluent également la possibilité d’activer/désactiver l’e-mail d’informations de compte d’Adobe contenant l’ID de connexion et le mot de passe de l’utilisateur.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -117,7 +117,7 @@ Figure 13. Choisir un dossier pour vos emails
 
 ## Accès à l’analyseur d’opportunités à partir de Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Fournissez à vos représentants commerciaux des informations sur les activités marketing qui favorisent l’engagement, en utilisant l’accès direct à l’analyseur d’opportunités à partir de Marketo Sales Insight. Noter. Nécessite une licence Revenue Cycle Analytics.
+Fournissez à vos représentants commerciaux des informations sur les activités marketing qui favorisent l’engagement, en utilisant l’accès direct à l’analyseur d’opportunités à partir de Marketo Sales Insight. Remarque : Nécessite une licence Revenue Cycle Analytics.
 
 ## Champ personnalisé pour le statut du contact {#custom-field-for-contact-status}
 
@@ -127,7 +127,7 @@ Vous pouvez maintenant mapper un champ personnalisé dans Salesforce pour rensei
 
 Figure 14. Mappage d’un champ personnalisé à des contacts
 
-Voir Pages visitées par des pistes anonymes
+Voir Pages vues par pistes anonymes
 
 Explorez les pages consultées par un prospect anonyme depuis la vue Activité Web anonyme .
 

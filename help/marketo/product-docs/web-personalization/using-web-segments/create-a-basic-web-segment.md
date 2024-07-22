@@ -6,7 +6,7 @@ exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Créons un segment de base ciblant tous les visiteurs du Web en provenance des �
 
    ![](assets/segment-name.png)
 
-1. Faire glisser **Emplacement** dans le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faites glisser **Emplacement** depuis le menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez la **États-Unis**.
+1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez les **États-Unis**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -39,17 +39,17 @@ Créons un segment de base ciblant tous les visiteurs du Web en provenance des �
    >
    >Le nombre de villes est limité à 300 par segment.
 
-1. Faire glisser **Industries** dans le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faites glisser **Industries** depuis le menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/industries-hand.jpg)
 
-1. Sélectionnez Industries à ajouter dans la liste déroulante. Sélectionnez la **Secteur des services financiers**.
+1. Sélectionnez Industries à ajouter dans la liste déroulante. Sélectionnez le **secteur des services financiers**.
 
    ![](assets/segment-industries.png)
 
    Vous avez maintenant configuré un segment de base pour tous les prospects qui visitent votre site web en provenance des Etats-Unis et du secteur financier.
 
-1. Cliquez sur **Enregistrer** pour enregistrer le segment ou **Enregistrer et définir une campagne** pour accéder à la page Campagnes .
+1. Cliquez sur **Enregistrer** pour enregistrer le segment ou sur **Enregistrer et définir la campagne** pour accéder à la page Campagnes.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
@@ -57,4 +57,4 @@ Vous avez maintenant segmenté vos visiteurs en provenance des États-Unis et aj
 
 >[!MORELIKETHIS]
 >
->[Segments web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+>[Segments Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)

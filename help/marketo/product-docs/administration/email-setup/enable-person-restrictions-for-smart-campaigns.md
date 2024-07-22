@@ -7,13 +7,13 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
 # Activation des restrictions sur les personnes pour les campagnes dynamiques {#enable-person-restrictions-for-smart-campaigns}
 
-Il existe une fonctionnalité dans Marketo pour limiter la variable _maximum_ Nombre de personnes pouvant être qualifiées pour une campagne dynamique. Cela évite d’envoyer accidentellement par courrier électronique votre base de données entière.
+Il existe une fonctionnalité dans Marketo pour limiter le nombre _maximum_ de personnes pouvant être qualifiées pour une campagne dynamique. Cela évite d’envoyer accidentellement par courrier électronique votre base de données entière.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Il existe une fonctionnalité dans Marketo pour limiter la variable _maximum_ No
 >
 >Cela s’applique uniquement aux campagnes par lots et aux programmes de messagerie.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
@@ -49,10 +49,10 @@ Il existe une fonctionnalité dans Marketo pour limiter la variable _maximum_ No
 
    >[!CAUTION]
    >
-   >Cette limite s’applique à toutes les campagnes intelligentes, mais elle peut être remplacée au niveau de la campagne. Découvrez comment [Remplacer les restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Cette limite s’applique à toutes les campagnes intelligentes, mais elle peut être remplacée au niveau de la campagne. Découvrez comment [ remplacer les restrictions de personne dans une campagne dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
-Fait! Vous venez d&#39;allumer l&#39;interrupteur de sécurité.
+C&#39;est fait ! Vous venez d&#39;allumer l&#39;interrupteur de sécurité.
 
 >[!MORELIKETHIS]
 >
->[Remplacement des restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+>[Remplacer les restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)

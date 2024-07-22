@@ -27,7 +27,7 @@ Avez-vous déjà passé du temps à créer la campagne web parfaite ? Vous pouve
 
    ![](assets/my-campaign-edit.jpg)
 
-1. Cochez la case Utiliser comme modèle et cliquez sur **Enregistrer**.
+1. Cochez Utiliser comme modèle et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 

@@ -23,7 +23,7 @@ Suivez ces étapes rapides pour supprimer un compte nommé.
    >
    >Ctrl+clic (Windows) ou Cmd+clic (Mac) pour sélectionner plusieurs comptes nommés.
 
-1. Cliquez sur le bouton **Actions de compte nommé** et sélectionnez **Supprimer le compte nommé**.
+1. Cliquez sur la liste déroulante **Actions de compte nommé** et sélectionnez **Supprimer le compte nommé**.
 
    ![](assets/eight-1.png)
 

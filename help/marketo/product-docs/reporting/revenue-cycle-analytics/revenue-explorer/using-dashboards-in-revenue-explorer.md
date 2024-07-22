@@ -6,7 +6,7 @@ exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Un tableau de bord est une combinaison de rapports de l’Explorateur des recett
 
 ## Création d’un tableau de bord {#creating-a-new-dashboard}
 
-1. Cliquez sur **Explorateur de recettes**.
+1. Cliquez sur **Revenue Explorer**.
 
    ![](assets/one.png)
 
-1. Cliquez sur **Créer**, puis **Tableau de bord**.
+1. Cliquez sur **Créer**, puis sur **Tableau de bord**.
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ Un tableau de bord est une combinaison de rapports de l’Explorateur des recett
 
    >[!NOTE]
    >
-   >Vous pouvez personnaliser davantage l’apparence de votre tableau de bord en cliquant sur **Thèmes** et en choisissant votre préféré.
+   >Vous pouvez personnaliser davantage l’aspect de votre tableau de bord en cliquant sur **Thèmes** et en choisissant votre préféré.
 
-1. Dans la première section de votre tableau de bord, cliquez sur le bouton **Insérer** et sélectionnez **Fichier**.
+1. Dans la première section de votre tableau de bord, cliquez sur l&#39;icône **Insérer** et sélectionnez **Fichier**.
 
    ![](assets/four.png)
 
-1. Double-cliquez **Explorateur de recettes**.
+1. Double-cliquez sur **Revenue Explorer**.
 
    ![](assets/five.png)
 
-1. Double-cliquez **Tous les rapports et tableaux de bord**.
+1. Double-cliquez sur **Tous les rapports et tableaux de bord**.
 
    ![](assets/six.png)
 
@@ -49,7 +49,7 @@ Un tableau de bord est une combinaison de rapports de l’Explorateur des recett
 
    ![](assets/seven.png)
 
-1. Sélectionnez votre rapport et cliquez sur **Sélectionner**.
+1. Choisissez votre rapport et cliquez sur **Sélectionner**.
 
    ![](assets/eight.png)
 
@@ -67,11 +67,11 @@ Un tableau de bord est une combinaison de rapports de l’Explorateur des recett
 
 ## Modification d’un tableau de bord {#editing-a-dashboard}
 
-1. Cliquez sur **Explorateur de recettes**.
+1. Cliquez sur **Revenue Explorer**.
 
    ![](assets/one.png)
 
-1. Double-cliquez sur le **Explorateur de recettes** dossier. Accédez à l’emplacement de votre tableau de bord.
+1. Double-cliquez sur le dossier **Revenue Explorer**. Accédez à l’emplacement de votre tableau de bord.
 
    ![](assets/thirteen.png)
 
@@ -81,14 +81,14 @@ Un tableau de bord est une combinaison de rapports de l’Explorateur des recett
 
 ## Suppression d’un tableau de bord {#deleting-a-dashboard}
 
-1. Cliquez sur **Explorateur de recettes**.
+1. Cliquez sur **Revenue Explorer**.
 
    ![](assets/one.png)
 
-1. Double-cliquez sur le **Explorateur de recettes** dossier. Accédez à l’emplacement de votre tableau de bord.
+1. Double-cliquez sur le dossier **Revenue Explorer**. Accédez à l’emplacement de votre tableau de bord.
 
    ![](assets/thirteen.png)
 
-1. Sélectionnez le tableau de bord à supprimer, puis cliquez sur **Déplacer vers la corbeille**.
+1. Sélectionnez le tableau de bord que vous souhaitez supprimer, puis cliquez sur **Déplacer vers la corbeille**.
 
    ![](assets/fifteen.png)

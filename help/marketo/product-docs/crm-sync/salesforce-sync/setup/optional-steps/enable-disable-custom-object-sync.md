@@ -21,7 +21,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/two-2.png)
 
-1. S’il s’agit de votre premier objet personnalisé, cliquez sur **[!UICONTROL Schéma de synchronisation]**. Sinon, cliquez **[!UICONTROL Actualiser le schéma]** pour vous assurer que vous disposez de la dernière version.
+1. S’il s’agit de votre premier objet personnalisé, cliquez sur **[!UICONTROL Schéma de synchronisation]**. Sinon, cliquez sur **[!UICONTROL Actualiser le schéma]** pour vous assurer que vous disposez de la dernière version.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
@@ -45,7 +45,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Sélectionnez l’objet à synchroniser, puis cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Sélectionnez l’objet que vous souhaitez synchroniser et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    >[!TIP]
    >
@@ -53,11 +53,11 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Cliquez sur **[!UICONTROL Activer la synchronisation]** encore une fois.
+1. Cliquez à nouveau sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Revenez au **[!DNL Salesforce]** et cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Revenez à l’onglet **[!DNL Salesforce]** et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 >
 >Vous ne pouvez pas utiliser d’objets personnalisés dans les campagnes dynamiques avec des déclencheurs.
 
-1. Dans votre liste dynamique, faites glisser le curseur sur la **[!UICONTROL A une opportunité]** filtrer et définir sur **[!UICONTROL true]**.
+1. Dans votre liste dynamique, faites glisser le pointeur de la souris sur le filtre **[!UICONTROL Avec opportunité]** et définissez sur **[!UICONTROL true]**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -79,4 +79,4 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
 >[!MORELIKETHIS]
 >
->[Ajouter/Supprimer un champ d’objet personnalisé en tant que contraintes de liste/déclenchement intelligent](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Ajouter/Supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

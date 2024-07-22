@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Rapport Personnes par état {#people-by-status-report}
 
-Vérifiez comment vous déplacez les personnes dans le processus en vérifiant combien d’entre elles apparaissent dans chacune des _État de la personne_ chaque mois.
+Vérifiez si vous déplacez des personnes dans le processus en vérifiant combien d’entre elles apparaissent dans chaque valeur _État de la personne_ chaque mois.
 
-1. [Créer un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez la variable **Personnes par statut** [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **type de rapport Personnes par état** [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Définition de la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur le bouton **Rapport** .
+1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
 
 1. Fantastique ! Maintenant, vous pouvez voir combien de personnes se trouvaient dans chaque statut de personne, d’un mois à l’autre.
 
@@ -29,4 +29,4 @@ Vérifiez comment vous déplacez les personnes dans le processus en vérifiant c
 
    >[!MORELIKETHIS]
    >
-   >[Utiliser une liste dynamique pour filtrer votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) à des personnes spécifiques.
+   >[Utilisez une liste dynamique pour filtrer votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) sur des personnes spécifiques.

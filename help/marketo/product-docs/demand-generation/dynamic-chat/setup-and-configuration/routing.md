@@ -2,11 +2,11 @@
 description: Routage - Documents Marketo - Documentation du produit
 title: Routage
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Règle personnalisée : vous pouvez choisir des agents spécifiques pour recevoi
 
 >[!NOTE]
 >
->Routage de compte a la priorité la plus élevée. Lorsqu’un visiteur atteint le point de la conversation pour réserver une réunion ou lancer une conversation en direct, [Routage de compte](#account-routing) est vérifié avant que d’autres options de routage ne soient prises en compte.
+>Routage de compte a la priorité la plus élevée. Lorsqu’un visiteur atteint le point de la conversation pour réserver une réunion ou lancer une conversation en direct, [Routage du compte](#account-routing) est vérifié avant que d’autres options de routage ne soient prises en compte.
 
 ## Création d’une règle personnalisée {#create-a-custom-rule}
 
@@ -30,7 +30,7 @@ Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, 
 
    ![](assets/routing-1.png)
 
-1. Cliquez sur le bouton **Règles personnalisées** .
+1. Cliquez sur l’onglet **Règles personnalisées** .
 
    ![](assets/routing-2.png)
 
@@ -68,13 +68,13 @@ Identifiez et chargez votre compte cible et les propriétaires de ventes respect
 
 Dans cet exemple, nous acheminerons tous les employés de Lego directement vers l’agent Steven.
 
-1. Dans l’onglet Routage de compte , cliquez sur **+ Ajouter un compte**.
+1. Dans l’onglet Routage de compte, cliquez sur **+ Ajouter un compte**.
 
    ![](assets/routing-10.png)
 
    >[!TIP]
    >
-   >Vous pouvez créer plusieurs comptes en même temps en cliquant sur **Télécharger la liste des comptes** et télécharger un fichier CSV.
+   >Vous pouvez créer plusieurs comptes à la fois en cliquant sur **Télécharger la liste des comptes** et en téléchargeant un fichier CSV.
 
 1. Saisissez le nom, le domaine et l’agent de votre choix.
 

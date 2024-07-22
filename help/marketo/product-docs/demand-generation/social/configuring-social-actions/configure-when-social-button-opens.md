@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Configuration à l’ouverture du bouton Social {#configure-when-social-button-opens}
 
-Lorsque vous créez une [bouton social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), vous pouvez configurer lorsque le bouton présente l’invite de partage.
+Lorsque vous créez un [bouton social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), vous pouvez configurer le moment où le bouton présente l’invite de partage.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/ma-3.png)
 
-1. Sélectionnez l’application, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’application et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-22-16-3a35-3a50.png)
 
@@ -31,10 +31,10 @@ Lorsque vous créez une [bouton social](/help/marketo/product-docs/demand-genera
 
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
-   * **Au clic :** Lorsqu’une personne clique sur le bouton social.
+   * **Au clic :** lorsqu’une personne clique sur le bouton social.
    * **Au chargement de la page :** Dès que la page d’entrée contenant le bouton social se charge dans le navigateur d’une personne.
-   * **Sur Mouseover :** Lorsqu’une personne passe la souris sur le bouton social.
+   * **Sur le pointeur de la souris :** lorsqu’une personne survole le bouton social.
 
    >[!MORELIKETHIS]
    >
-   >Une fois la personne partagée, vous pouvez demander son adresse électronique ou présenter un message de confirmation. Découvrez comment [configuration des messages après partage](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+   >Une fois la personne partagée, vous pouvez demander son adresse électronique ou présenter un message de confirmation. Découvrez comment [configurer les invites après partage](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

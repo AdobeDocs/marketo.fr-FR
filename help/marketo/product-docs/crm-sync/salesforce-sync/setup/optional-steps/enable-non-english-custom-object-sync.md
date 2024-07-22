@@ -21,7 +21,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une autre langue
 
 ## Comment le contourner {#getting-around-it}
 
-1. Connexion à [!DNL Salesforce] à l’aide de l’utilisateur marketo sync.
+1. Connectez-vous à [!DNL Salesforce] à l’aide de l’utilisateur de synchronisation Marketo.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -29,7 +29,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une autre langue
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Sous **[!UICONTROL Informations personnelles]**, cliquez sur **[!UICONTROL Mes informations personnelles]**.
+1. Sous **[!UICONTROL Personal Information]**, cliquez sur **[!UICONTROL My Personal Information]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -37,7 +37,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une autre langue
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Modifiez la variable **[!UICONTROL Langue]** to **[!UICONTROL Anglais]**.
+1. Remplacez la **[!UICONTROL langue]** par **[!UICONTROL anglais]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,7 +45,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une autre langue
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Retour à Marketo, sous **[!UICONTROL Administration]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objets]**, cliquez sur **[!UICONTROL Actualiser le schéma]**.
+1. De retour dans Marketo, sous **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objets]**, cliquez sur **[!UICONTROL Actualiser le schéma]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 

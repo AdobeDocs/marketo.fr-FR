@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configuration de la notification push mobile {#configure-mobile-push-notification}
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >Il existe trois types d’actions Appuyez sur :
    >
-   >**Lancer l’application** - **Cette application** ouvre la page d’accueil de votre application lorsque la notification est activée. **Personnalisé** utilise un lien profond pour ouvrir d’autres zones de l’application ou de toute autre application à laquelle vous avez le lien (voir [URI de lien profond](#Deeplink) ci-dessous pour plus de détails).
+   >**Lancer l’application** - **Cette application** ouvre la page d’accueil de votre application lorsque la notification est activée. **Personnalisé** utilise un lien profond pour ouvrir d’autres zones de votre application ou de toute autre application à laquelle vous avez le lien (voir [URI de lien profond](#Deeplink) ci-dessous pour plus d’informations).
    >
-   >**Page d’entrée** - vous conduit à une page d’entrée Marketo spécifiée.
+   >**Landing Page** - Permet d’accéder à une page d’entrée Marketo spécifiée.
    >
-   >**URL externe** - vous conduit à une page d’entrée non Marketo.
+   >**URL externe** - Permet d’accéder à une page d’entrée non Marketo.
 
-1. Pour insérer un lien profond pour une action d’appui personnalisée, cliquez sur Personnalisé et saisissez la variable [URI de lien profond](#Deeplink) dans le champ .
+1. Pour insérer un lien profond pour une action d’appui personnalisée, cliquez sur Personnalisé et saisissez l’ [URI de lien profond](#Deeplink) dans le champ.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -93,8 +93,8 @@ Un URI de lien profond se compose de trois parties : nom du schéma, chemin et i
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Cela dit, la structure des liens profonds de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir les URI de lien profond. Demandez donc à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons emplacements. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Cela dit, la structure des liens profonds de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir les URI de lien profond. Demandez donc à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons emplacements. Votre développeur peut [trouver plus d&#39;informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
->[Envoi d’une notification push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+>[Envoyer une notification push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

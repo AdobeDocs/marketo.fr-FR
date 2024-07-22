@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949251
 description: SEO - Ajout/suppression d’une URL de lien entrant d’une liste - Documents Marketo - Documentation du produit
-title: SEO - Ajout/suppression d’une URL de lien entrant d’une liste
+title: SEO - Ajouter/Supprimer une URL de lien entrant d’une liste
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# SEO - Ajout/suppression d’une URL de lien entrant d’une liste {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO - Ajouter/Supprimer une URL de lien entrant d’une liste {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 Vous pouvez organiser vos URL de lien entrantes vers le contenu de votre coeur.
 
 ## Ajout d’une URL de lien entrant à une liste {#add-an-inbound-link-url-to-a-list}
 
-1. Accédez au **[!UICONTROL Liens entrants]** .
+1. Accédez à la section **[!UICONTROL Liens entrants]** .
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
@@ -31,9 +31,9 @@ Vous pouvez organiser vos URL de lien entrantes vers le contenu de votre coeur.
 
 >[!TIP]
 >
->Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans [!UICONTROL Créer une nouvelle liste].
+>Vous pouvez également créer une nouvelle liste pour votre mot-clé. Saisissez simplement le nom de votre choix dans [!UICONTROL Créer une liste].
 
-## Suppression d’une URL de lien entrant d’une liste {#remove-an-inbound-link-url-from-a-list}
+## Supprimer une URL de lien entrant d’une liste {#remove-an-inbound-link-url-from-a-list}
 
 Parfois, vous souhaiterez supprimer une URL de lien entrant d’une liste.
 
@@ -41,7 +41,7 @@ Parfois, vous souhaiterez supprimer une URL de lien entrant d’une liste.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Filtrer par liste]** menu déroulant. Cliquez sur la liste à nettoyer.
+1. Cliquez sur la liste déroulante **[!UICONTROL Filtrer par liste]** . Cliquez sur la liste à nettoyer.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 

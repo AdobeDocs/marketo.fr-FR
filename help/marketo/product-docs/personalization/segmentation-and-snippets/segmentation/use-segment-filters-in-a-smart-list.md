@@ -15,12 +15,12 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Optimisez les performances de vos listes intelligentes à l’aide de filtres de segments.
 
-1. Dans la liste dynamique que vous avez créée, recherchez le mot **Segment**, effectuez un glisser-déposer du filtre.
+1. Dans la liste dynamique que vous avez créée, recherchez le mot **Segment**, faites glisser et déposez le filtre.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 

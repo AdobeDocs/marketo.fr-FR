@@ -7,13 +7,13 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # Configuration pour les clients existants {#configuration-for-existing-customers}
 
-Configurez la configuration suivante pour commencer à utiliser le nouveau tableau de bord des statistiques.
+Configurez la configuration suivante afin de commencer à utiliser le nouveau tableau de bord des statistiques.
 
 >[!PREREQUISITES]
 >
@@ -23,15 +23,15 @@ Configurez la configuration suivante pour commencer à utiliser le nouveau table
 
 1. Ouvrez un nouvel onglet dans votre navigateur pour obtenir les informations d’identification Marketo Sales Insights de votre compte Marketo.
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Accédez à la zone **Admin**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Cliquez sur **Statistiques des ventes**.
+1. Cliquez sur **Sales Insight**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Cliquez sur **Affichage** pour renseigner les informations d’identification de l’API REST.
+1. Cliquez sur **Afficher** pour renseigner les informations d’identification de l’API REST.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
@@ -39,7 +39,7 @@ Configurez la configuration suivante pour commencer à utiliser le nouveau table
 
 ## Configuration de Sales Insight dans Salesforce {#configure-sales-insight-in-salesforce}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 

@@ -17,9 +17,9 @@ La modification de votre domaine de branding par défaut est la première étape
 
 >[!PREREQUISITES]
 >
->Vérifiez que vous avez [configurer un CNAME dans votre DNS ;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) avant d’ajouter vos domaines de marque dans Marketo.
+>Assurez-vous d’avoir [configuré un CNAME dans votre DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) avant d’ajouter vos domaines de marque dans Marketo.
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
@@ -27,7 +27,7 @@ La modification de votre domaine de branding par défaut est la première étape
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Dans le [!UICONTROL Domaines de marque] , sélectionnez le domaine générique et cliquez sur Modifier pour le remplacer par le domaine de marque de votre entreprise.
+1. Dans la table [!UICONTROL  Domaines de marque ], sélectionnez le domaine générique et cliquez sur Modifier pour le remplacer par le domaine de marque de votre entreprise.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -39,4 +39,4 @@ La modification de votre domaine de branding par défaut est la première étape
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-Maintenant, vous pouvez [ajouter des domaines de marque supplémentaires ;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) vous avez besoin.
+Désormais, vous pouvez [ajouter tout domaine de marque supplémentaire](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) dont vous avez besoin.

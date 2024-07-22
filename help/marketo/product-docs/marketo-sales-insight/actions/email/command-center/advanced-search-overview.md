@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
@@ -40,7 +40,7 @@ Sélectionnez la période de votre recherche. Les dates prédéfinies sont mises
 
 ![](assets/advanced-search-overview-5.png)
 
-**Qui**
+**Who**
 
 Filtrez par destinataire/expéditeur d’email dans la section Qui .
 
@@ -65,7 +65,7 @@ Filtrez par destinataire/expéditeur d’email dans la section Qui .
  </tr>
 </table>
 
-**Quand**
+**When**
 
 Choisissez par date de création, date de diffusion, date d’échec ou date planifiée. Les options disponibles changent en fonction de l’état de l’email que vous choisissez (Envoyé, Non livré, En attente).
 
@@ -77,9 +77,9 @@ Filtrez les emails par participation à une campagne.
 
 ![](assets/advanced-search-overview-8.png)
 
-**Statut**
+**Status**
 
-Vous avez le choix entre trois statuts d&#39;email. Les options de type/activité changent en fonction de l’état sélectionné.
+Vous avez le choix entre trois statuts d&#39;un email. Les options de type/activité changent en fonction de l’état sélectionné.
 
 ![](assets/advanced-search-overview-9.png)
 
@@ -93,7 +93,7 @@ _**État : En attente**_
 
 ![](assets/advanced-search-overview-11.png)
 
-Filtre tous les emails en attente.
+Filtre par tous les emails en attente.
 
 <table>
  <tr>
@@ -102,7 +102,7 @@ Filtre tous les emails en attente.
  </tr>
  <tr>
   <td><strong>Programmé</strong></td>
-  <td>Emails programmés à partir de la fenêtre de composition (Salesforce ou application web), des modules externes de messagerie ou d’une campagne.</td>
+  <td>Emails programmés à partir de la fenêtre de composition (Salesforce ou l’application web), des modules externes de messagerie ou d’une campagne.</td>
  </tr>
  <tr>
   <td><strong>Avant-projets</strong></td>
@@ -114,7 +114,7 @@ Filtre tous les emails en attente.
  </tr>
 </table>
 
-_**État : Non remis**_
+_**État : non livré**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -127,10 +127,10 @@ Filtre les messages par message électronique qui n’ont jamais été remis.
  </tr>
  <tr>
   <td><strong>Échec</strong></td>
-  <td>Lorsqu’un courrier électronique ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les suivantes : des emails sont envoyés aux contacts désabonnés/bloqués, ou en cas de problème lors du remplissage des champs dynamiques).</td>
+  <td>Lorsqu’un email ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les emails envoyés aux contacts désabonnés/bloqués, ou si un problème s’est produit lors du remplissage des champs dynamiques).</td>
  </tr>
  <tr>
-  <td><strong>e-mails renvoyés</strong></td>
+  <td><strong>Renvoi</strong></td>
   <td>Un email est marqué comme rebonds lorsqu’il est rejeté par le serveur du destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici.</td>
  </tr>
  <tr>
@@ -147,7 +147,7 @@ Voici comment créer une recherche enregistrée.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Attribuez un nom à votre recherche et cliquez sur **Enregistrer**.
+1. Donnez un nom à votre recherche et cliquez sur **Enregistrer**.
 
    ![](assets/advanced-search-overview-14.png)
 

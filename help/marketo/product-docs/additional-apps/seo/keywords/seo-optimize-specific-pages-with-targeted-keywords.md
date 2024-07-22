@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Certains mots-clés fonctionnent très bien avec certaines pages. C’est ainsi que vous associez le mot-clé parfait à sa page parfaite. Vous obtiendrez ainsi les données les plus précises et les meilleures recommandations d’amélioration.
 
-1. Accédez au **[!UICONTROL Pages]** .
+1. Accédez à la section **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)
 

@@ -17,7 +17,7 @@ Cet article décrit comment corriger une erreur d’état incompatible et mapper
 
 ## Que faire si vous avez reçu un message d’erreur {#what-do-you-do-if-you-received-an-error-message}
 
-Si vous essayez de vous synchroniser avec une campagne Salesforce existante qui contient des pistes et que la campagne contient un ou plusieurs statuts incompatibles, un message d’erreur s’affiche. Un programme Marketo et une campagne Salesforce *will not* synchroniser si les états ne correspondent pas exactement.
+Si vous essayez de vous synchroniser avec une campagne Salesforce existante qui contient des pistes et que la campagne contient un ou plusieurs statuts incompatibles, un message d’erreur s’affiche. Un programme Marketo et une campagne Salesforce *ne se synchronisent pas* si les états ne correspondent pas exactement.
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 

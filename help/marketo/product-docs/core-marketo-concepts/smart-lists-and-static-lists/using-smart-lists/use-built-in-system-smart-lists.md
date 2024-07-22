@@ -15,15 +15,15 @@ ht-degree: 7%
 
 Marketo Engage dispose de listes dynamiques intégrées très utiles. Regardons-les !
 
-1. Accédez au **[!UICONTROL Base]**.
+1. Accédez à la **[!UICONTROL base de données]**.
 
    ![](assets/db.png)
 
-1. Ouvrez le **[!UICONTROL Liste dynamique système]** pour afficher la collection.
+1. Ouvrez le dossier **[!UICONTROL System Smart List]** pour afficher la collection.
 
    ![](assets/two.png)
 
-1. Pour afficher un exemple : sélectionnez **[!UICONTROL Toutes les personnes]**, puis cliquez sur le bouton **[!UICONTROL Personnes]** .
+1. Pour voir un exemple : sélectionnez **[!UICONTROL Toutes les personnes]**, puis cliquez sur l’onglet **[!UICONTROL Personnes]** .
 
    ![](assets/three.png)
 
@@ -36,8 +36,8 @@ Voici un résumé des actions des listes dynamiques intégrées :
 | Nom de la liste | Description |
 |---|---|
 | Toutes les personnes | Toutes les personnes dans votre base de données Marketo |
-| Personnes désabonnées | Ces personnes ne peuvent être envoyées que par e-mail opérationnel ; celui-ci est généralement contrôlé par la personne elle-même. |
-| Suspension du marketing | Ces personnes ne peuvent être envoyées que par e-mail opérationnel. En règle générale, c’est vous, marketeur, qui les contrôlez. |
+| Personnes désinscrites | Ces personnes ne peuvent être envoyées que par e-mail opérationnel ; celui-ci est généralement contrôlé par la personne elle-même. |
+| Marketing interrompu | Ces personnes ne peuvent être envoyées que par e-mail opérationnel. En règle générale, c’est vous, marketeur, qui les contrôlez. |
 | Liste de blocage | Ces personnes ne recevront aucun e-mail. |
 | Adresses e-mail renvoyées | Personnes avec une adresse email en échec ou qui rejettent votre email. |
 | Doublons possibles | Personnes pouvant être dupliquées dans la base de données Marketo. |
@@ -48,4 +48,4 @@ Voici un résumé des actions des listes dynamiques intégrées :
 
 >[!MORELIKETHIS]
 >
->[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

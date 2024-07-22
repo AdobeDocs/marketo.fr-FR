@@ -6,30 +6,30 @@ exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 5%
+source-wordcount: '500'
+ht-degree: 4%
 
 ---
 
 # Importation d’une liste de personnes {#import-a-list-of-people}
 
-## Mission : Importez dans votre base de données une feuille de calcul contenant les participants aux salons professionnels. {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Mission : importez dans votre base de données une feuille de calcul de participants à un salon {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
->[Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[Configurer et ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à partir d’un fichier de feuille de calcul.
 
-## Étape 1 : Téléchargement et modification d’une feuille de calcul {#step-download-and-edit-a-spreadsheet}
+## Étape 1 : téléchargement et modification d’une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
-1. Pour commencer, téléchargez notre fichier de feuille de calcul pratique ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) à votre ordinateur.
+1. Pour commencer, téléchargez notre fichier de feuille de calcul pratique ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) sur votre ordinateur.
 
    ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
-   >Lors de l&#39;import d&#39;une date, utilisez le format suivant : **9/21/20** (Mois/Jour/Année).
+   >Lors de l&#39;import d&#39;une date, utilisez ce format : **9/21/20** (mois/jour/année).
 
    >[!NOTE]
    >
@@ -41,45 +41,45 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    >[!CAUTION]
    >
-   >Marketo **not** prennent en charge les adresses électroniques contenant des emojis.
+   >Marketo ne prend pas **en charge les adresses électroniques contenant des émoticônes.**
 
 ## Étape 2 : Créer un programme {#step-create-a-program}
 
-1. Accédez au **[!UICONTROL Activités marketing]** zone.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Sélectionnez votre **Formation** , puis sous **[!UICONTROL Nouveau]** click **[!UICONTROL Nouveau programme]**.
+1. Sélectionnez votre dossier **Learning**, puis sous **[!UICONTROL New]**, cliquez sur **[!UICONTROL New Program]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Nom** le programme &quot;Mon programme de commerce&quot; et sélectionnez &quot;Événement&quot; pour le **[!UICONTROL Type de programme]**.
+1. **Nommez** le programme &quot;My Tradeshow Program&quot; et sélectionnez &quot;Event&quot; pour le **[!UICONTROL Program Type]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Sélectionner **[!UICONTROL Commerce]** pour le **[!UICONTROL Canal]** et cliquez sur **[!UICONTROL Créer]**.
+1. Sélectionnez **[!UICONTROL Tradeshow]** pour le **[!UICONTROL Canal]** et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur [**Events**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## Étape 3 : Importation de votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Dans **Mon programme de commerce**, cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
+1. Dans **My Tradeshow Program**, cliquez sur **[!UICONTROL New]** et sélectionnez **[!UICONTROL New Local Asset]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. Sélectionner **[!UICONTROL Liste]**.
+1. Sélectionnez **[!UICONTROL Liste]**.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Nom** Dans la liste &quot;Trafic des participants&quot;, cliquez sur **[!UICONTROL Créer]**.
+1. **Nommez** la liste &quot;Participant(e) de commerce&quot; et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. Dans votre **[!UICONTROL Traiter les participants]** liste, cliquez sur **[!UICONTROL Actions de liste]** et sélectionnez **[!UICONTROL Liste d’importation]**.
+1. Dans la liste **[!UICONTROL des participants de commerce]**, cliquez sur **[!UICONTROL Actions de liste]** et sélectionnez **[!UICONTROL Importer la liste]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -91,31 +91,31 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
    >
    >La taille des fichiers CSV est limitée à 100 Mo.
 
-1. **[!UICONTROL Parcourir]** au **tradeshow-attendees.csv** fichier de feuille de calcul sur votre ordinateur, puis cliquez sur **[!UICONTROL Suivant]**.
+1. **[!UICONTROL Accédez au fichier de feuille de calcul** tradeshow-attendees.csv **sur votre ordinateur et cliquez sur**[!UICONTROL  Suivant ]**.]**
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >En mode d’importation de liste, en sélectionnant **[!UICONTROL Ignorer les nouvelles personnes et les mises à jour]** signifie que vous n’affecterez pas les enregistrements de personne existants ni n’enregistrez aucune activité. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode permet d’effectuer les opérations suivantes :
+   >En mode d’importation de liste, le fait de choisir **[!UICONTROL Ignorer les nouvelles personnes et les mises à jour]** signifie que vous n’aurez aucune incidence sur les enregistrements de personne existants ni sur les activités enregistrées. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode permet d’effectuer les opérations suivantes :
    >
-   > * Ignorer la création d’une nouvelle personne
+   > * Ignorer la création de nouvelles personnes
    > * Ignorer les mises à jour du champ individu
    > * Ignorer la journalisation d&#39;activité
 
-1. Mappez vos [!UICONTROL Colonne de liste] dans le champ Marketo correspondant, puis cliquez sur **[!UICONTROL Suivant]**.
+1. Mappez vos champs [!UICONTROL Colonne de liste] avec leur champ Marketo respectif et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créer les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} ils peuvent devenir des options.
+   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensible à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créez-les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} afin qu’elles puissent devenir des options.
 
    >[!NOTE]
    >
-   >Si vous ne souhaitez pas importer des champs, sélectionnez **Ignorer** dans le menu déroulant Champ Marketo .
+   >Si vous ne souhaitez pas importer des champs, sélectionnez **Ignorer** dans le menu déroulant Champ Marketo.
 
-1. Sélectionner **Mon programme de commerce** pour le **[!UICONTROL Programme d’acquisition]**, puis cliquez sur **[!UICONTROL Importer]**.
+1. Sélectionnez **My Tradeshow Program** pour le **[!UICONTROL Programme d’acquisition]**, puis cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,7 +123,7 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Retour à **Mon programme de commerce**, cliquez sur le bouton **[!UICONTROL Membres]** . Vous verrez toutes les personnes que vous venez d&#39;importer.
+1. De retour dans **My Tradeshow Program**, cliquez sur l’onglet **[!UICONTROL Members]** . Vous verrez toutes les personnes que vous venez d&#39;importer.
 
    ![](assets/import-a-list-of-people-15.png)
 
@@ -137,6 +137,6 @@ Les participants au salon sont désormais membres de votre programme Marketo !
 
 <br> 
 
-[◄ Mission 4 : Réponse automatique aux e-mails](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ Mission 4 : réponse automatique aux e-mails](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Mission 6 : Marketing goutte à goutte et fidélisation ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Mission 6 : évacuation, évacuation, soins ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

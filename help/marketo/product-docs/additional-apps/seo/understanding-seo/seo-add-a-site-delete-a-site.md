@@ -19,9 +19,9 @@ Pour que Marketo puisse extraire des données (liens entrants et recommandations
 >
 >Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
-## [!UICONTROL Ajout d’un site] {#add-a-site}
+## [!UICONTROL Ajouter un site] {#add-a-site}
 
-1. Cliquez sur la liste déroulante Admin et sélectionnez **[!UICONTROL Administration]**.
+1. Cliquez sur la liste déroulante Admin et sélectionnez **[!UICONTROL Admin]**.
 
    >[!NOTE]
    >
@@ -33,11 +33,11 @@ Pour que Marketo puisse extraire des données (liens entrants et recommandations
 
    ![](assets/two.png)
 
-1. Saisissez le **[!UICONTROL Nom], [!UICONTROL URL du site Web]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez le **[!UICONTROL Nom], l&#39;[!UICONTROL URL du site Web]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    >[!TIP]
    >
-   >Vous pouvez également ajouter une **[!UICONTROL URL du blog]** si vous en avez un.
+   >Vous pouvez également ajouter une **[!UICONTROL URL du blog]** si vous en avez une.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -49,7 +49,7 @@ Pour que Marketo puisse extraire des données (liens entrants et recommandations
 
 Si vous effectuez le suivi de plusieurs sites, vous pouvez également supprimer un site qui n’est plus intéressé par l’optimisation.
 
-1. Cliquez sur la liste déroulante Admin et sélectionnez **[!UICONTROL Administration]**.
+1. Cliquez sur la liste déroulante Admin et sélectionnez **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
@@ -67,4 +67,4 @@ Si vous effectuez le suivi de plusieurs sites, vous pouvez également supprimer 
 
    >[!NOTE]
    >
-   >Vous ne pouvez supprimer un site que si vous en avez plusieurs. Si vous n’en avez qu’un seul, vous pouvez réinitialiser en sélectionnant le site et en cliquant sur **[!UICONTROL Réinitialiser]**. La réinitialisation d’un site _supprimer toutes les données du site ;_ et recréez le site.
+   >Vous ne pouvez supprimer un site que si vous en avez plusieurs. Si vous n’en avez qu’un seul, vous pouvez effectuer une réinitialisation en sélectionnant le site et en cliquant sur **[!UICONTROL Réinitialiser]**. La réinitialisation d’un site _supprime toutes les données du site_ et recrée le site.

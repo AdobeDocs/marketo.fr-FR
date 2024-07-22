@@ -5,7 +5,7 @@ exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Autorisez vos équipes commerciales à sélectionner les motifs des appels lors 
 
    ![](assets/call-reasons-2.png)
 
-1. Sélectionner **Activer les raisons d’appel**.
+1. Sélectionnez **Activer les motifs d’appel**.
 
    ![](assets/call-reasons-3.png)
 
@@ -50,15 +50,15 @@ Autorisez vos équipes commerciales à sélectionner les motifs des appels lors 
 
    ![](assets/call-reasons-6.png)
 
-1. Cliquez sur **Gestion des motifs d’appel**.
+1. Cliquez sur **Gérer les motifs d’appel**.
 
    ![](assets/call-reasons-7.png)
 
-1. Entrez le nom de la raison de l’appel de votre choix dans le champ de texte, puis cliquez sur **Ajouter**.
+1. Entrez le nom de la raison de l’appel dans le champ de texte et cliquez sur **Ajouter**.
 
    ![](assets/call-reasons-8.png)
 
-## Sélectionner un motif d’appel {#select-a-call-reason}
+## Sélection d’un motif d’appel {#select-a-call-reason}
 
 Une fois les raisons d’appel activées. Les utilisateurs peuvent en sélectionner un tout en effectuant un appel .
 
@@ -66,7 +66,7 @@ Une fois les raisons d’appel activées. Les utilisateurs peuvent en sélection
 
    ![](assets/call-reasons-9.png)
 
-1. Saisissez les informations d’appel dans la boîte de dialogue, puis cliquez sur **Appeler**.
+1. Saisissez les informations d’appel dans la boîte de dialogue et cliquez sur **Call**.
 
    ![](assets/call-reasons-10.png)
 

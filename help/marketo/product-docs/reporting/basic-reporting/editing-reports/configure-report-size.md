@@ -6,7 +6,7 @@ exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, mais vous pouvez modifier cette limite.
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation, puis cliquez sur le bouton **Configuration** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **Configuration** .
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Double-cliquez **Exporter les lignes disponibles**.
+1. Double-cliquez sur **Exporter les lignes disponibles**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,4 +43,4 @@ Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, m
 
    >[!MORELIKETHIS]
    >
-   >Vous pouvez [export de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) avec la nouvelle limite.
+   >Vous pouvez [exporter votre rapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) avec la nouvelle limite.

@@ -5,7 +5,7 @@ title: Créer des loteries
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -32,11 +32,11 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange de leur a
 
    >[!TIP]
    >
-   >Pour gagner du temps, vous pouvez utiliser la variable **Cloner à partir de** pour copier tous les paramètres d’un tirage existant.
+   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’un tirage existant.
 
    L’éditeur de tirage s’ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont corrects, mais vous devez tout de même configurer quelques détails. Nous vous montrerons comment procéder dans les étapes suivantes.
 
-1. Cliquez sur **Détails des jeux de balayage**.
+1. Cliquez sur **Détails des tirages**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -72,7 +72,7 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange de leur a
 
    >[!TIP]
    >
-   >Pour modifier l’un des paramètres par défaut de votre tirage, cliquez sur **Précédent**. Pour enregistrer votre travail ultérieurement sans approbation, cliquez sur **Fermer**.
+   >Pour modifier les valeurs par défaut de vos tirages, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
 
 Si le tirage présente des problèmes, vous serez invité à les résoudre avant que le tirage ne soit approuvé.
 
@@ -80,4 +80,4 @@ Félicitations ! Vous avez créé un tirage.
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [publier vos tirages](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), mais vous pouvez modifier l’aspect et les paramètres de votre tirage. Commencer par [personnalisation des styles de vos tirages](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>L’étape suivante consiste à [publier votre tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), mais vous pouvez modifier l’aspect et les paramètres de votre tirage. Commencez par [personnaliser les styles de vos tirages](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

@@ -19,7 +19,7 @@ Effectuez une exécution de campagne dynamique sur une personne à la fois en fo
 >
 >La modification d’une campagne active à l’étape Liste dynamique ou Flux peut potentiellement interrompre ses fonctionnalités. Si vous choisissez de le faire, faites preuve de prudence.
 
-1. Dans votre campagne dynamique, cliquez sur le bouton **[!UICONTROL Liste dynamique]** .
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Liste dynamique]** .
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -29,7 +29,7 @@ Effectuez une exécution de campagne dynamique sur une personne à la fois en fo
 
    >[!NOTE]
    >
-   >Une campagne dynamique avec des déclencheurs s’exécute dans _Déclencheur_ mode . Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres supplémentaires.
+   >Une campagne dynamique avec des déclencheurs s&#39;exécute en mode _Déclencheur_ . Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres supplémentaires.
 
    >[!IMPORTANT]
    >
@@ -55,7 +55,7 @@ Effectuez une exécution de campagne dynamique sur une personne à la fois en fo
    >
    >Avec plusieurs déclencheurs, une personne passe par le flux si _ANY_ l’un des déclencheurs est activé.
 
-Pour exécuter la campagne sur un ensemble de personnes simultanément, apprenez à [Définition d’une liste dynamique pour Smart Campaign | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Pour exécuter la campagne sur un ensemble de personnes en même temps, apprenez à [Définir une liste dynamique pour une campagne dynamique | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

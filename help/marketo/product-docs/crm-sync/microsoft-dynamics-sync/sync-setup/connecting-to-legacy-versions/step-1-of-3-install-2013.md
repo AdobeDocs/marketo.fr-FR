@@ -6,7 +6,7 @@ exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
 >[!PREREQUISITES]
 >
->Vous devez avoir [Déploiement Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 ou 3.0 (ADFS) configurés. Remarque : le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
+>Vous devez avoir [Déploiement Internet Face](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) avec [ Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 ou 3.0 (ADFS) configuré. Remarque : le document IFD se télécharge automatiquement lorsque vous cliquez sur le lien.
 >
->[Téléchargement de la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} avant de commencer.
+>[Téléchargez la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} avant de commencer.
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 >
 >Pour effectuer cette synchronisation, vous avez besoin des privilèges d’administrateur CRM.
 
-1. Connectez-vous à Dynamics. Cliquez sur le bouton **[!UICONTROL Microsoft Dynamics CRM]** menu déroulant et sélectionnez **[!UICONTROL Paramètres]**.
+1. Connectez-vous à Dynamics. Cliquez sur le menu déroulant **[!UICONTROL Microsoft Dynamics CRM]** et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Sous **[!UICONTROL Paramètres]**, sélectionnez **[!UICONTROL Solutions]**.
+1. Sous **[!UICONTROL Settings]**, sélectionnez **[!UICONTROL Solutions]**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
@@ -43,11 +43,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Cliquez sur **[!UICONTROL Parcourir]** et sélectionnez la variable [solution téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Cliquez sur **[!UICONTROL Suivant]**.
+1. Cliquez sur **[!UICONTROL Parcourir]** et sélectionnez la [solution téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. Affichez les informations sur la solution et cliquez sur **[!UICONTROL Afficher les détails du module de solution]**.
+1. Affichez les informations sur la solution et cliquez sur **[!UICONTROL Afficher les détails du package de solution]**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -71,7 +71,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2014-12-11-10-3a41-3a5.png)
 
-1. Téléchargez un fichier journal (le cas échéant) et cliquez sur **[!UICONTROL Fermer]**.
+1. Téléchargez un fichier journal (si vous le souhaitez) et cliquez sur **[!UICONTROL Fermer]**.
 
    >[!NOTE]
    >
@@ -79,11 +79,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. La Gestion des pistes Marketo apparaît désormais sur la page **[!UICONTROL Toutes les solutions]** page.
+1. La gestion des pistes Marketo apparaît désormais sur la page **[!UICONTROL Toutes les solutions]**.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Sélectionnez la solution Marketo et cliquez sur **[!UICONTROL Publier toutes les personnalisations]**.
+1. Sélectionnez la solution Marketo et cliquez sur **[!UICONTROL Publish all Customizations]**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 

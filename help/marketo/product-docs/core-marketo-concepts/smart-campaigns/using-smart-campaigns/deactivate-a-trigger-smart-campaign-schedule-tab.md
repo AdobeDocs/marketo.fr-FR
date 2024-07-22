@@ -23,10 +23,10 @@ Si vous devez désactiver une ancienne campagne de déclenchement, procédez com
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. Confirmer en cliquant sur **[!UICONTROL Désactiver]**.
+1. Confirmez en cliquant sur **[!UICONTROL Désactiver]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
->Cela va s’arrêter. _new_ les personnes ne peuvent pas entrer dans le flux, mais les personnes qui suivent les étapes d’attente ou toute autre étape de flux continueront à se déplacer dans le flux jusqu’à ce qu’ils aient terminé.
+>Cela empêchera les _nouvelles_ personnes d’entrer dans le flux, mais les personnes qui suivent des étapes d’attente ou toute autre étape de flux continueront à se déplacer dans le flux jusqu’à ce qu’il soit terminé.

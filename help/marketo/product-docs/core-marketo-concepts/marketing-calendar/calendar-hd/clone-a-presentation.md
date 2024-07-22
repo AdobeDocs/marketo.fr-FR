@@ -19,11 +19,11 @@ Cloner une présentation pour la réutiliser à différents endroits.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Cliquez avec le bouton droit de la souris sur la présentation et sélectionnez **[!UICONTROL Cloner]**.
+1. Cliquez avec le bouton droit de la souris sur la présentation et sélectionnez **[!UICONTROL Clone]**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 
-1. Saisissez le nom de la présentation clonée, puis cliquez sur **[!UICONTROL Cloner]**.
+1. Saisissez le nom de la présentation clonée et cliquez sur **[!UICONTROL Cloner]**.
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 

@@ -17,7 +17,7 @@ Si vous avez exécuté une liste dynamique et que quelques minutes se sont écou
 
 ## Actualiser les résultats {#refresh-results}
 
-1. Pour mettre à jour les données dans le **[!UICONTROL Personnes]** d’une liste dynamique, cliquez sur l’icône d’actualisation.
+1. Pour mettre à jour les données dans l’onglet **[!UICONTROL Personnes]** d’une liste dynamique, cliquez sur l’icône d’actualisation.
 
    ![](assets/refreshbutton.png)
 
@@ -31,4 +31,4 @@ Si vous avez exécuté une liste dynamique et que quelques minutes se sont écou
 
 >[!MORELIKETHIS]
 >
->[Exportation de personnes vers Excel à partir d’une liste ou d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}
+>[Exporter des personnes vers Excel à partir d’une liste ou d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

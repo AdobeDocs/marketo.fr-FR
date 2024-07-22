@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Présentation des pages d’entrée libres ou guidées {#understanding-free-form-vs-guided-landing-pages}
 
-Le modèle que vous choisissez détermine le mode d’édition de la landing page dans lequel vous travaillerez. Deux chemins sont possibles : [free-form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) et [guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Vous trouverez ci-dessous un résumé rapide des différences importantes.
+Le modèle que vous choisissez détermine le mode d’édition de la landing page dans lequel vous travaillerez. Il existe deux chemins possibles : [free-form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) et [guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Vous trouverez ci-dessous un résumé rapide des différences importantes.
 
 ## Pages de forme libre {#free-form-pages}
 

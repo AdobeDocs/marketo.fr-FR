@@ -21,7 +21,7 @@ Par défaut, le contenu de la diffusion est désactivé. Activez le contenu pour
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux** .
 
    ![](assets/cloneasteam.jpg)
 
@@ -41,7 +41,7 @@ Par défaut, le contenu de la diffusion est désactivé. Activez le contenu pour
 
 ## Désactivation du contenu de diffusion {#deactivate-stream-content}
 
-1. Sélectionnez votre programme d’engagement et cliquez sur le bouton **Flux** .
+1. Sélectionnez votre programme d’engagement et cliquez sur l’onglet **Flux** .
 
    ![](assets/cloneasteam.jpg)
 

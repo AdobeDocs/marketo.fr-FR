@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -22,7 +22,7 @@ Vous avez la possibilité de personnaliser les informations de contact que vous 
 
    ![](assets/people-page-columns-1.png)
 
-1. Faites défiler et sélectionnez les colonnes de votre choix (vous pouvez également cliquer sur **Tout sélectionner** si vous souhaitez chaque colonne). Lorsque vous avez terminé, cliquez en dehors de la liste.
+1. Faites défiler et sélectionnez les colonnes de votre choix (vous pouvez également cliquer sur **Sélectionner tout** si vous souhaitez chaque colonne). Lorsque vous avez terminé, cliquez en dehors de la liste.
 
    ![](assets/people-page-columns-2.png)
 
@@ -60,26 +60,26 @@ Vous avez la possibilité de personnaliser les informations de contact que vous 
   </tr> 
   <tr> 
    <td>Société (par défaut)</td> 
-   <td>Nom de société</td> 
+   <td>Nom de la société</td> 
   </tr> 
   <tr> 
    <td>Campaign (par défaut)</td> 
    <td>Campagne de ventes sur laquelle se trouve actuellement la personne</td> 
   </tr> 
   <tr> 
-   <td># Campagnes</td> 
+   <td>Nbre de campagnes</td> 
    <td>Nombre total de campagnes de ventes auxquelles la personne a participé</td> 
   </tr> 
   <tr> 
-   <td>Nb d’appels</td> 
+   <td>Nbre d’appels</td> 
    <td>Nombre total d’appels qui ont été passés à cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nb d’e-mails</td> 
+   <td>Nbre d’e-mails</td> 
    <td>Nombre total d'emails envoyés à cette personne</td> 
   </tr> 
   <tr> 
-   <td>Échéance de tâche</td> 
+   <td>Échéance de la tâche</td> 
    <td>Date d’échéance de la tâche</td> 
   </tr> 
   <tr> 
@@ -95,19 +95,19 @@ Vous avez la possibilité de personnaliser les informations de contact que vous 
    <td><p>Intérêt légitime, exécution d'un contrat, respect de l'obligation légale, protection des intérêts vitaux, intérêt public/autorité officielle et autres</p></td> 
   </tr> 
   <tr> 
-   <td>Ouvrir Tâches</td> 
+   <td>Ouvrir les tâches</td> 
    <td>Nombre de tâches ouvertes pour cette personne</td> 
   </tr> 
   <tr> 
-   <td># Vues</td> 
+   <td>Nbre de vues</td> 
    <td>Nombre total de vues par cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nb de clics</td> 
+   <td>Nbre de clics</td> 
    <td>Nombre total de clics effectués par cette personne</td> 
   </tr> 
   <tr> 
-   <td>Nb de réponses</td> 
+   <td>Nbre de réponses</td> 
    <td>Nombre total de réponses de cette personne</td> 
   </tr> 
   <tr> 
@@ -120,7 +120,7 @@ Vous avez la possibilité de personnaliser les informations de contact que vous 
   </tr> 
   <tr> 
    <td>Source</td> 
-   <td>Source de l’emplacement de création de la personne</td> 
+   <td>Source à partir duquel la personne a été créée</td> 
   </tr> 
   <tr> 
    <td>Groupes (par défaut)</td> 

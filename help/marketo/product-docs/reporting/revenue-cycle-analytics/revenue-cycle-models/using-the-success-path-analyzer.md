@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Utilisation de l’analyseur de chemin de succès {#using-the-success-path-analyzer}
 
-Utilisez un analyseur de chemins de succès pour explorer les détails spécifiques qui reflètent à la fois le flux (la quantité) et la vitesse (la vitesse, en termes de jours) des personnes au cours des étapes de votre [Modèle Recettes Cycle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Utilisez un analyseur de chemins de succès pour explorer les détails spécifiques qui reflètent à la fois le flux (la quantité) et la vitesse (la vitesse, en termes de jours) des personnes à travers les étapes de votre [modèle de cycle du chiffre d’affaires](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur de chemin de succès](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[Créer un analyseur de chemin de succès](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Accédez à **Analytics** et sélectionnez votre **Analyseur de chemins de succès**.
+1. Accédez à **Analytics** et sélectionnez votre **analyseur de chemins de succès**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    Le graphique à droite représente les données du bouton sélectionné à gauche. Par défaut, il s’agit de Balance.
 
-1. Cliquez sur **Dans le flux** pour tracer un graphique du nombre de personnes qui sont entrées dans la scène au cours de la période sélectionnée.
+1. Cliquez sur **Dans le flux** pour tracer le graphique du nombre de personnes qui sont entrées sur la scène au cours de la période sélectionnée.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,15 +33,15 @@ Utilisez un analyseur de chemins de succès pour explorer les détails spécifiq
    * Cliquez sur % de conversion pour représenter graphiquement le taux de conversion de cette étape à l’étape suivante.
    * Cliquez sur Durée moyenne pour voir combien de temps les visiteurs ont passé au cours de cette étape avant de passer à l’étape suivante.
 
-1. Cliquez sur **Actions du graphique** > Comparer la période pour comparer les données à une autre période de longueur égale.
+1. Cliquez sur **Actions de graphique** > Comparer la période pour comparer les données à une autre période de longueur égale.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Sélectionnez la **De** date de la période de comparaison.
+1. Sélectionnez la date **De** pour la période de comparaison.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   Le **À** La date est automatiquement définie pour correspondre à la durée de la période d’origine.
+   La date **À** est automatiquement définie pour correspondre à la durée de votre période d’origine.
 
 1. Cliquez sur **Comparer**.
 
@@ -51,11 +51,11 @@ Utilisez un analyseur de chemins de succès pour explorer les détails spécifiq
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Pour modifier l’échelle de temps du graphique, cliquez sur l’une des **Graphique de** boutons : quotidien (par défaut), hebdomadaire et mensuel
+1. Pour modifier l’échelle de temps du graphique, cliquez sur l’un des boutons **Graphique par** : quotidien (par défaut), hebdomadaire et mensuel.
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Pour les étapes avec des contrats de niveau de service, cliquez sur **Actions du graphique** > **Afficher l’échéance du contrat de niveau de service** pour montrer à chaque personne qui a manqué une cible SLA pendant la période spécifiée.
+1. Pour les étapes avec des contrats de niveau de service (SLA), cliquez sur **Actions de graphique** > **Afficher l’échéance du SLA** pour afficher chaque personne qui a manqué une cible SLA pendant la période spécifiée.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Utilisez un analyseur de chemins de succès pour explorer les détails spécifiq
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   Les personnes indiquées en orange peuvent *ou peut-être pas* être toujours dans l’étape SLA.
+   Les personnes indiquées en orange peuvent *ou ne pas être* sur la scène SLA.
 
-1. Cliquez sur **Actions du graphique** > **Afficher l’échéance du contrat de niveau de service** pour afficher toutes les personnes avec des cibles SLA expirées qui se trouvent toujours à l’étape du SLA à la fin de la période spécifiée.
+1. Cliquez sur **Actions de graphique** > **Afficher l’échéance du contrat de niveau de service dépassé** pour afficher toutes les personnes avec des cibles SLA expirées qui se trouvent encore à l’étape du contrat de niveau de service à la fin de la période spécifiée.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Utilisez un analyseur de chemins de succès pour explorer les détails spécifiq
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Pour imprimer le graphique, cliquez sur **Actions du graphique** > **Graphique d’impression**.
+1. Pour imprimer le graphique, cliquez sur **Actions de graphique** > **Graphique d’impression**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

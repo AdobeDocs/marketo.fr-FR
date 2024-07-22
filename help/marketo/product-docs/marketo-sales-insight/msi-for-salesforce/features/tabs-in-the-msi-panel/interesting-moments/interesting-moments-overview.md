@@ -27,7 +27,7 @@ Vous pouvez utiliser l’étape intéressante du flux d’un moment pour donner 
 
 >[!TIP]
 >
->**Moins c’est plus**. Collaborez avec votre équipe de vente pour vous assurer que les moments intéressants sont réellement intéressants.
+>**Moins est plus**. Collaborez avec votre équipe de vente pour vous assurer que les moments intéressants sont réellement intéressants.
 
 Vous pouvez également utiliser des jetons dans des moments intéressants pour créer des descriptions dynamiques vraiment utiles.
 

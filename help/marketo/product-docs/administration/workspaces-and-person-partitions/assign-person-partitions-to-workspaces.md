@@ -6,8 +6,8 @@ exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 1%
 
 ---
 
@@ -21,13 +21,13 @@ Voici comment modifier les affectations de partition/espace de travail de la per
 
 >[!PREREQUISITES]
 >
->[Création d’un espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>[Créer un nouveau Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->Les espaces de travail et les partitions de personne peuvent être complexes. Veuillez contacter  [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur leur configuration.
+>Les espaces de travail et les partitions de personne peuvent être complexes. Contactez l’ [assistance Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur la configuration.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 
@@ -35,7 +35,7 @@ Voici comment modifier les affectations de partition/espace de travail de la per
 
    ![](assets/assign-person-partitions-to-workspaces-2.png)
 
-1. Sélectionnez votre espace de travail et cliquez sur **[!UICONTROL Modifier l’espace de travail]**.
+1. Sélectionnez votre espace de travail et cliquez sur **[!UICONTROL Modifier Workspace]**.
 
    ![](assets/assign-person-partitions-to-workspaces-3.png)
 
@@ -45,9 +45,9 @@ Voici comment modifier les affectations de partition/espace de travail de la per
 
    >[!NOTE]
    >
-   >* Le &quot;[!UICONTROL Toutes les partitions de personne]&quot; indique que cet espace de travail a accès à toutes les partitions individuelles dans le système.
+   >* La case à cocher &quot;[!UICONTROL Toutes les partitions de personne]&quot; indique que cet espace de travail a accès à toutes les partitions de personne dans le système.
    >
-   >* Les partitions pour personnes Principal sont les partitions par défaut où tous les peuples seront entrés. Utilisation [étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [règles d’attribution](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} pour déplacer les gens.
+   >* Les partitions par personne Principal sont la valeur par défaut où tous les peuples seront entrés. Utilisez les [étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou les [règles d’affectation](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} pour déplacer des personnes.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
 

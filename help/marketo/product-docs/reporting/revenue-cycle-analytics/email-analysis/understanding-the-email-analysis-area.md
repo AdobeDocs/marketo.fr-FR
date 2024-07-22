@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ La zone d’analyse des emails est axée sur les mesures des emails. Cet article
 
 >[!AVAILABILITY]
 >
->Cette option est disponible pour les utilisateurs disposant de l’option Select Edition ou [Analyse du cycle des recettes](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) module complémentaire . Contactez votre représentant commercial pour plus d&#39;informations.
+>Cette option est disponible pour les utilisateurs disposant du module complémentaire Select Edition ou [ Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Contactez votre représentant commercial pour plus d&#39;informations.
 
 ## Grille de chaleur de l’activité des clics par e-mail {#email-click-activity-heat-grid}
 
@@ -39,7 +39,7 @@ Ce rapport présente le pourcentage du nombre total de clics par courrier élect
 
 ## Grille de chaleur de l’activité d’ouverture de courrier électronique {#email-open-activity-heat-grid}
 
-Ce rapport vous indique le jour de la semaine et l’heure de la journée où vos pistes ouvrent des emails. Plus la boîte est verte, plus elle s’ouvre un jour et une heure spécifiques. Le filtre en cours inclut tous les emails envoyés au cours des 7 derniers jours. Le temps est compté dans le CST.
+Ce rapport présente le jour de la semaine et l’heure d’ouverture des emails par vos prospects. Plus la boîte est verte, plus elle s’ouvre un jour et une heure spécifiques. Le filtre en cours inclut tous les emails envoyés au cours des 7 derniers jours. Le temps est compté dans le CST.
 
 ![](assets/image2015-5-6-17-3a30-3a35.png)
 

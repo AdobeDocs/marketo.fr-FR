@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rendre un champ de formulaire obligatoire {#make-a-form-field-required}
 
-When [ajout de champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) vous voudrez peut-être en faire quelques-uns requis par la personne qui les remplit. Voici comment.
+Lorsque [vous ajoutez des champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), vous souhaiterez peut-être en rendre certains obligatoires pour la personne qui les remplit. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -37,6 +37,6 @@ When [ajout de champs à un formulaire](/help/marketo/product-docs/demand-genera
 
 >[!NOTE]
 >
->N&#39;oublie pas de [valider une landing page ;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ce formulaire est actif pour que les modifications soient mises en ligne.
+>N’oubliez pas d’ [approuver toutes les landing pages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) pour que les modifications soient mises en service.
 
-Avez-vous besoin de [réorganiser les champs que vous avez ajoutés à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Devez-vous [réorganiser les champs que vous avez ajoutés à votre formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md) ?

@@ -19,7 +19,7 @@ Oups ! Touche les freins ! Ce programme de messagerie ne devrait pas sortir.
 >
 >Cet article a pour but de vous aider à empêcher les emails de sortir avant qu’ils ne soient envoyés. Il n’existe aucun moyen de rappeler les emails envoyés.
 
-1. Dans un programme de messagerie, cliquez sur **Programme d’abandon**.
+1. Dans un programme de messagerie, cliquez sur **Abort Program**.
 
    ![](assets/dashboardleads.jpg)
 

@@ -1,7 +1,8 @@
 ---
 description: Instructions de champ - Documents Marketo - Documentation du produit
 title: Invite de champ
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -14,7 +15,7 @@ Les invites de champ vous permettent d’ajouter une chaîne de texte aux emails
 
 Pour ajouter une invite de champ, saisissez le texte de votre choix. Préfacez-la avec un point d’exclamation et entourez-la de accolades (voir ci-dessous).
 
-**Exemples:**
+**Exemples :**
 
 `{{! Introduce yourself}}`
 

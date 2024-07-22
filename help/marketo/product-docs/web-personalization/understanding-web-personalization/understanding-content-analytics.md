@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -49,7 +49,7 @@ Le tableau Analytics fournit les détails suivants :
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Recommandation </strong><strong>Icône</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Indique si l’élément de contenu a été ajouté pour <a href="#">Recommendations de contenu</a>.</td> 
+   <td colspan="1">Indique si l’élément de contenu a été ajouté pour <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vues</strong></p></td> 
@@ -84,13 +84,13 @@ Les analyses de contenu supplémentaires incluent :
 
 **Analytics**
 
-* **Vues**: Affichages de cet élément de contenu pour la période sélectionnée
-* **Conversions directes**: Visiteurs web qui ont consulté le contenu et rempli un formulaire au cours de la même visite.
-* **Taux de conversion****:** Taux de conversion en pourcentage calculé par les conversions directes divisé par les clics
+* **Vues** : vues de cette partie de contenu pour la période sélectionnée
+* **Conversions directes** : visiteurs Web qui ont affiché le contenu et rempli un formulaire au cours de la même visite.
+* **Taux de conversion****:** Taux de conversion en pourcentage calculé par conversions directes divisé par les clics
 
-**Tendances**
+**Trends**
 
-* A **Tendances** graphique montrant les 30 derniers jours d’affichages de l’élément de contenu spécifique. Passez la souris sur le graphique linéaire pour afficher le nombre de consultations de contenu d’un jour spécifique.
+* Graphique **Trends** présentant les 30 derniers jours d’affichages de l’élément de contenu spécifique. Passez la souris sur le graphique linéaire pour afficher le nombre de consultations de contenu d’un jour spécifique.
 
 ## Supprimer le contenu {#delete-content}
 
@@ -100,5 +100,5 @@ Dans la page Content Analytics, cliquez sur l’icône de suppression du contenu
 
 >[!MORELIKETHIS]
 >
->* [Activation de la barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Activation du contenu prédictif pour le contenu multimédia Web enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Activer la barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Activer le contenu prédictif pour le contenu multimédia Web enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

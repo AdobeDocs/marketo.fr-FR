@@ -6,7 +6,7 @@ exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Vous pouvez également créer une &quot;tâche à envoyer&quot; avec un contact 
 
 Les tâches seront toujours associées à chaque individu de la campagne. Cela signifie que vous devez entrer en contact avec chaque personne et fermer la tâche pour que sa campagne individuelle se poursuive.
 
-Vous pouvez gérer vos tâches dans : l’onglet Tâches de votre campagne dans Campaign 2.0, directement depuis votre centre de commandes ou la section Tâches du flux en direct. Vous pouvez également gérer vos tâches à partir de Salesforce.
+Vous pouvez gérer vos tâches dans : l’onglet Tâches de votre campagne dans Campaign 2.0, directement depuis votre Centre de commandes ou la section Tâches du flux en direct. De plus, vous pouvez également gérer vos tâches à partir de Salesforce.

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez choisir les colonnes qui sont et ne sont pas incluses dans votre rapport.
 
-1. Accédez au **Analytics** (ou **Activités marketing**).
+1. Accédez à la zone **Analytics** (ou **Activités marketing**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,10 +23,10 @@ Vous pouvez choisir les colonnes qui sont et ne sont pas incluses dans votre rap
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Cliquez sur le bouton **Rapport** puis cliquez sur un en-tête de colonne et sélectionnez **Colonnes**, puis sélectionnez les colonnes à inclure.
+1. Cliquez sur l’onglet **Rapport**, cliquez sur l’en-tête d’une colonne, sélectionnez **Colonnes**, puis sélectionnez les colonnes à inclure.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
    >[!MORELIKETHIS]
    >
-   >[Tri du rapport sur les colonnes](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[Trier le rapport sur les colonnes](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

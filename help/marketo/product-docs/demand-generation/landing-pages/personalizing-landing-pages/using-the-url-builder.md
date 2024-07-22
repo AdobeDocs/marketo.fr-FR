@@ -17,9 +17,9 @@ Le générateur d’URL vous permet de créer des URL pouvant renseigner des cha
 
 >[!PREREQUISITES]
 >
->Découvrez comment créer des champs masqués dans les formulaires et modifier leurs paramètres dans [Définir le champ de formulaire comme masqué](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
+>Découvrez comment créer des champs masqués dans les formulaires et modifier leurs paramètres dans [Définir un champ de formulaire comme masqué](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Sélectionnez une landing page, puis cliquez sur **Actions de page d’entrée**, survolez **Outils d’URL**, puis cliquez sur **Générateur d’URL**.
+1. Sélectionnez une page d’entrée, cliquez sur **Actions de page d’entrée**, survolez **Outils d’URL** avec la souris, puis cliquez sur **Générateur d’URL**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
@@ -29,6 +29,6 @@ Le générateur d’URL vous permet de créer des URL pouvant renseigner des cha
 
    >[!NOTE]
    >
-   >Si aucun champ n’est disponible dans le créateur, vérifiez que les champs masqués de votre formulaire sont bien les mêmes. [définie sur accepter les paramètres d’URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Si vous ne voyez aucun champ disponible dans le créateur, assurez-vous que votre formulaire comporte des champs masqués et qu’ils sont [définis pour accepter les paramètres d’URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Bon travail ! Vous pouvez désormais copier et coller l’URL et l’utiliser sur le Web.

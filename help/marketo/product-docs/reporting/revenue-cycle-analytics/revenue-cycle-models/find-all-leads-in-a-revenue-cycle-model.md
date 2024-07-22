@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360423
-description: Rechercher toutes les pistes dans un modèle de cycle de revenu - Documents Marketo - Documentation du produit
+description: Recherche de toutes les pistes dans un modèle de cycle de revenu - Documents Marketo - Documentation du produit
 title: Recherche de toutes les pistes dans un modèle de cycle du revenu
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
@@ -17,31 +17,31 @@ En utilisant des listes dynamiques, vous pouvez facilement trouver tous les memb
 
 >[!PREREQUISITES]
 >
->[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Lorsque la liste dynamique est sélectionnée, cliquez sur le **Liste dynamique** .
+1. Une fois la liste dynamique sélectionnée, cliquez sur l’onglet **Liste dynamique**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Recherchez le **Membre du modèle de revenu** filtrez et faites-le glisser dans la zone de travail.
+1. Recherchez le filtre **Member of Revenue Model** et faites-le glisser dans la zone de travail.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Sélectionnez une **Modèle**.
+1. Sélectionnez un **modèle**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Cela vous donnerait toutes les pistes de ce modèle, indépendamment de l&#39;étape. En règle générale, vous souhaitez une étape spécifique. Utilisez plutôt le filtre suivant.
 
-1. Recherchez le **Évaluation des recettes** filtrez et faites-le glisser dans la zone de travail.
+1. Recherchez le filtre **Évaluation des recettes** et faites-le glisser dans la zone de travail.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Sélectionnez une **Évaluation**.
+1. Sélectionnez un **Stage**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Accédez au **Pistes** pour afficher les résultats.
+1. Accédez à l&#39;onglet **Leads** pour afficher les résultats.
 
    ![](assets/2.png)
 

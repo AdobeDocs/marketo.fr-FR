@@ -17,13 +17,13 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
 >[!PREREQUISITES]
 >
->[Activation des URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>[Activer les URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. Sélectionnez une landing page et cliquez sur les paramètres pour **URL personnalisée**.
+1. Sélectionnez une landing page et cliquez sur les paramètres de **URL personnalisée**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Maintenant, vous pouvez vérifier **Activer les URL personnalisées** et cliquez sur **Enregistrer**.
+1. Maintenant, vous pouvez cocher **Activer les URL personnalisées** et cliquer sur **Enregistrer**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

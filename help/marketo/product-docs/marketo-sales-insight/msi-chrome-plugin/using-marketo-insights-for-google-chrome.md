@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512944
-description: Utilisation de Marketo Insights pour Google Chrome - Documentation Marketo - Documentation du produit
+description: Utilisation de Marketo Insights pour Google Chrome - Documents Marketo - Documentation du produit
 title: Utilisation de Marketo Insights pour Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utilisation de Marketo Insights pour Google Chrome {#using-marketo-insights-for-google-chrome}
 
-Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo Insights pour Google Chrome.
+Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo Insights for Google Chrome.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
 >
 >Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
 
-## Envoi d’un e-mail avec Marketo Insights {#send-an-email-with-marketo-insights}
+## Envoi d’un courrier électronique avec des statistiques Marketo {#send-an-email-with-marketo-insights}
 
 1. Dans la fenêtre Composer , cliquez sur l’icône Marketo .
 
@@ -45,7 +45,7 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Sélectionnez une **Modèle disponible** et cliquez sur **Ok**.
+1. Sélectionnez un **modèle disponible** et cliquez sur **Ok**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -55,7 +55,7 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
 
    >[!NOTE]
    >
-   >Le suivi des messages s’effectue uniquement lorsque la variable **Envoyer** est violet.
+   >Le suivi des messages est effectué uniquement lorsque le bouton **Envoyer** est violet.
 
 1. L’e-mail apparaîtra bientôt dans Marketo Sales Insight , et tout ouverture et clic fait l’objet d’un suivi.
 
@@ -65,15 +65,15 @@ Envoyez et effectuez le suivi de tout courrier électronique Google avec Marketo
 
 Vous pouvez consigner les réponses et l’ancienne activité dans l’historique des activités d’une piste.
 
-1. Dans le volet d’aperçu de Google Mail, cliquez sur **Connexion à Marketo**.
+1. Dans le volet d’aperçu de Google Mail, cliquez sur **Log with Marketo**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. C&#39;est tout ! L’email apparaîtra bientôt dans Marketo Sales Insight.
+1. C&#39;est tout ! L’e-mail apparaîtra bientôt dans Marketo Sales Insight.
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
    >* [Installation de Marketo Insights pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [Affichage des informations et des activités de personne et de compte dans Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [ Afficher les informations et activités de personne et de compte dans Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

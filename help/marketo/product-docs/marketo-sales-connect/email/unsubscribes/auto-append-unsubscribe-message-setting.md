@@ -18,7 +18,7 @@ Assurez-vous que chaque email envoyé comprend un message de désabonnement afin
 
 * Pour les emails envoyés à partir des modules externes, le désabonnement n’est annexé qu’à l’utilisation d’un modèle.
 
-* Si vous utilisez la variable `{{team_unsubscribe}}` champ dynamique dans un modèle d’email et que le paramètre d’ajout de message de désabonnement est activé, le champ dynamique de désabonnement de l’équipe renseignera votre message de désabonnement. _au lieu de_ ajout de votre message de désabonnement.
+* Si vous utilisez le champ dynamique `{{team_unsubscribe}}` dans un modèle de courrier électronique et que le paramètre d’ajout de message de désabonnement est activé, le champ dynamique de désabonnement de l’équipe renseignera votre message de désabonnement _au lieu d’ajouter_ à votre message de désabonnement.
 
 ## Activer/Désactiver Désabonner Ajouter {#enable-disable-unsubscribe-append}
 
@@ -26,7 +26,7 @@ Assurez-vous que chaque email envoyé comprend un message de désabonnement afin
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Désabonne**.
+1. Sous Paramètres Admin, Cliquez Sur **Se Désabonner**.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -36,4 +36,4 @@ Assurez-vous que chaque email envoyé comprend un message de désabonnement afin
 
 >[!TIP]
 >
->Si vous désactivez le paramètre d’ajout de message de désabonnement, il est recommandé d’ajouter un pied de page de désabonnement à vos modèles afin de vous assurer que votre communication dispose d’une option d’exclusion. Vous pouvez le faire en ajoutant votre propre message personnalisé à chaque modèle ou en utilisant la variable `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
+>Si vous désactivez le paramètre d’ajout de message de désabonnement, il est recommandé d’ajouter un pied de page de désabonnement à vos modèles afin de vous assurer que votre communication dispose d’une option d’exclusion. Pour ce faire, ajoutez votre propre message personnalisé à chaque modèle ou utilisez le `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.

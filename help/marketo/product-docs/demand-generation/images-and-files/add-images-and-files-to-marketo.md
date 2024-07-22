@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Découvrez comment ajouter de nouvelles images ou de nouveaux fichiers à votre instance de Marketo Engage.
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Sélectionner **[!UICONTROL Images et fichiers]**
+1. Sélectionnez **[!UICONTROL Images et fichiers]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Actions d’image et de fichier]** et sélectionnez **[!UICONTROL Chargement d’une image ou d’un fichier]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions image et fichier]** et sélectionnez **[!UICONTROL Télécharger l’image ou le fichier]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -45,4 +45,4 @@ Découvrez comment ajouter de nouvelles images ou de nouveaux fichiers à votre 
 
    >[!MORELIKETHIS]
    >
-   >[Organisation des images et des fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+   >[Organisation de vos images et fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

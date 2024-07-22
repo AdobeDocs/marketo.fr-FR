@@ -6,14 +6,14 @@ exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '441'
 ht-degree: 2%
 
 ---
 
-# Notes de mise à jour : Jan/Février 2012 {#release-notes-jan-feb}
+# Notes de mise à jour : janvier/février 2012 {#release-notes-jan-feb}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier/février. Vérifiez la disponibilité de votre édition Marketo. Revenez après la version pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de janvier/février. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo. Revenez après la version pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
 ## Contenu dynamique avancé {#advanced-dynamic-content}
 
@@ -49,11 +49,11 @@ Grâce aux URL personnalisées (PURL), les marketeurs peuvent désormais créer 
 
 ## Compatibilité avec la directive UE sur la confidentialité {#eu-privacy-directive-support}
 
-Les nouvelles fonctionnalités permettant de respecter les paramètres &quot;Ne pas suivre&quot; du navigateur incluent la possibilité de désactiver le suivi des pistes anonymes ; cela facilite le respect de la réglementation plus stricte de l&#39;UE sur le suivi de la vie privée.
+Les nouvelles fonctionnalités permettant de respecter les paramètres &quot;Ne pas suivre&quot; du navigateur incluent la possibilité de désactiver le suivi des pistes anonymes ; cela facilite le respect des réglementations de suivi de la confidentialité plus strictes de l’UE.
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## Authentification unique {#single-sign-on}
+## Signature unique {#single-sign-on}
 
 Les entreprises peuvent désormais prendre en charge une connexion transparente à l’application Marketo à l’aide de SAML 2.0 pour l’authentification unique à partir d’un portail d’entreprise.
 
@@ -61,7 +61,7 @@ Les entreprises peuvent désormais prendre en charge une connexion transparente 
 
 Les éditeurs de courrier électronique et de page d’entrée ont été reconçus avec une interface plus conviviale, une navigation intuitive et une expérience utilisateur considérablement améliorée, ce qui inclut :
 
-Une vue côte à côte HTML et texte
+HTML et affichage de texte côte à côte
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -72,7 +72,7 @@ Les champs De nom, De courrier électronique, Réponse (NOUVEAU) et Objet sont a
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 et 9
-* **Remarque**: Nous ne prenons plus en charge Internet Explorer 7
+* **Remarque** : Internet Explorer 7 ne prend plus en charge
 
 ## Gestion des programmes {#program-management}
 

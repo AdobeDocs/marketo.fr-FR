@@ -6,7 +6,7 @@ exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Lorsque les paramètres de partage sont activés, seuls les administrateurs peuv
 
 ## Configuration des paramètres de partage {#configure-your-sharing-settings}
 
-1. Dans le [application web](https://toutapp.com/login), accédez à la page Paramètres .
+1. Dans l’ [application web](https://toutapp.com/login), accédez à la page Paramètres .
 
    ![](assets/one-2.png)
 
@@ -31,7 +31,7 @@ Lorsque les paramètres de partage sont activés, seuls les administrateurs peuv
 
    ![](assets/two-2.png)
 
-1. Assurez-vous de **Paramètres de partage** sont activées. Cela signifie que, par défaut, seuls les administrateurs pourront partager des modèles dans vos catégories de modèles.
+1. Assurez-vous que les **paramètres de partage** sont activés. Cela signifie que, par défaut, seuls les administrateurs pourront partager des modèles dans vos catégories de modèles.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Lorsque les paramètres de partage sont activés, seuls les administrateurs peuv
 
    ![](assets/four-2.png)
 
-1. Cliquez sur **Ajout d’équipes pour l’accès**.
+1. Cliquez sur **Ajouter des équipes pour l’accès**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Lorsque les paramètres de partage sont activés, seuls les administrateurs peuv
    >
    >Si vous ne voyez aucune équipe, vous devrez accéder à la Gestion des équipes et créer une équipe d’utilisateurs.
 
-1. Cliquez sur **Ajout d’équipes pour l’accès** pour enregistrer.
+1. Cliquez sur **Ajouter des équipes pour l’accès** pour enregistrer.
 
    ![](assets/seven-1.png)
 

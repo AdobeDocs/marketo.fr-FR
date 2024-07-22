@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Vous pouvez exporter n’importe quel rapport de l’explorateur de recettes et le partager avec n’importe qui.
 
-1. Cliquez sur l’icône représentant un engrenage, puis sélectionnez **Exporter** et sélectionnez un format de fichier.
+1. Cliquez sur l&#39;icône représentant un engrenage, sélectionnez **Export** et sélectionnez un format de fichier.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ Vous pouvez exporter n’importe quel rapport de l’explorateur de recettes et 
    >* Excel
    >* CSV
 
-1. Sélectionnez la **Format de page** et **Orientation**, puis cliquez sur **Exporter**.
+1. Sélectionnez les **Format de page** et **Orientation** de votre choix, puis cliquez sur **Exporter**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ Vous pouvez exporter n’importe quel rapport de l’explorateur de recettes et 
 
 >[!MORELIKETHIS]
 >
->[Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[S’abonner à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -6,21 +6,21 @@ exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Modèle 14C {#template-14c}
 
-Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 
 Ce modèle comprend le contenu suivant :
 
 * Un en-tête (facultatif)
-* Une section Principale
+* Une section principale
 
    * inclut le titre de la principale, le texte de la principale et le questionnaire ;
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
+[Modèle 14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)

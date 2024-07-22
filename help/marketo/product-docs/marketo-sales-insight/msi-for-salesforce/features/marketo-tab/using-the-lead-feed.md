@@ -49,7 +49,7 @@ Lors de son affichage dans Salesforce, chaque élément possède :
   </tr> 
   <tr> 
    <td><p>C. Nom du compte</p></td> 
-   <td><p>Nom de société</p></td> 
+   <td><p>Nom de la société</p></td> 
   </tr> 
   <tr> 
    <td><p>D. Heure</p></td> 
@@ -75,17 +75,17 @@ Lors de son affichage dans Salesforce, chaque élément possède :
 Vous pouvez également obtenir des mises à jour de flux de piste par flux RSS.  Un flux RSS vous permet de recevoir des mises à jour sur vos pistes même si vous n’êtes pas connecté à Salesforce. Le flux contient les mêmes informations que le flux de piste dans Salesforce, ainsi que les informations suivantes (le cas échéant) :
 
 * adresse e-mail
-* numéro de téléphone
+* Numéro de téléphone
 * numéro de mobile
-* numéro de fax
+* fax
 * adresse de l&#39;entreprise
 * URL de la société
 
 >[!NOTE]
 >
->L’administrateur Marketo de votre entreprise doit [activation des flux RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) pour que cela fonctionne.
+>L’administrateur Marketo de votre entreprise doit [activer les flux RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) pour que cela fonctionne.
 
-Pour obtenir des mises à jour RSS, vous avez besoin de deux éléments : le lien RSS et un lecteur de flux RSS. Vous pouvez obtenir le lien RSS en cliquant sur l’icône RSS dans le flux de piste :
+Pour obtenir des mises à jour RSS, vous aurez besoin de deux éléments : le lien RSS et un lecteur de flux RSS. Vous pouvez obtenir le lien RSS en cliquant sur l’icône RSS dans le flux de piste :
 
 ![](assets/using-the-lead-feed-3.png)
 

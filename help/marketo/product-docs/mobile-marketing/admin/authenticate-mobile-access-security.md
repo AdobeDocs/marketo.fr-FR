@@ -7,13 +7,13 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Authentification de la sécurité d’accès mobile {#authenticate-mobile-access-security}
 
-Pour améliorer la sécurité des utilisateurs de Mobile, Marketo fournit deux nouveaux identifiants : la clé d’accès et le secret d’accès. Ces informations permettent de s’assurer que les utilisateurs qui se connectent à votre application sont ceux qu’ils semblent être.
+Pour améliorer la sécurité des utilisateurs mobiles, Marketo fournit deux nouveaux identifiants : la clé d’accès et le secret d’accès. Ces informations permettent de s’assurer que les utilisateurs qui se connectent à votre application sont ceux qu’ils semblent être.
 
 Pour activer les identifiants, vous devez acquérir les codes et les fournir à votre service informatique afin qu’ils puissent configurer une correspondance sécurisée.
 
@@ -21,7 +21,7 @@ Pour activer les identifiants, vous devez acquérir les codes et les fournir à 
 >
 >Pour activer cette fonctionnalité, contactez l’assistance et demandez &quot;Vespa Secure Mode&quot;.
 
-1. Dans Marketo, sélectionnez **Administration** et cliquez sur **Applications et périphériques mobiles**.
+1. Dans Marketo, sélectionnez **Admin** et cliquez sur **Applications mobiles et périphériques**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,11 +29,11 @@ Pour activer les identifiants, vous devez acquérir les codes et les fournir à 
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Faites défiler la page vers le bas et, dans la section Sécurité d’accès, cliquez sur **Modifier**.
+1. Faites défiler l’écran vers le bas et, dans la section Sécurité d’accès, cliquez sur **Modifier**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Vérifiez les **Enable Security** . Cliquez sur **Enregistrer**.
+1. Cochez la case **Activer la sécurité** . Cliquez sur **Enregistrer**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

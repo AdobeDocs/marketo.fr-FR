@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez la dernière version des modules externes de Marketo. Régulièrement, Marketo met à jour ces modules externes afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
-[Télécharger le dernier module externe](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} correspondant à votre version Dynamics.
+[Téléchargez le dernier module externe](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} correspondant à votre version Dynamics.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Mise à jour de votre solution Dynamics {#updating-your-dynamics-solution}
 
-1. Importez la dernière version de la solution par rapport à la version existante de votre CRM Dynamics (par exemple, si votre CRM Dynamics dispose de la version 1.4 et que la dernière version est la version 1.5), vous devez importer _over_ version 1.4).
+1. Importez la dernière version de la solution par rapport à la version existante de votre CRM Dynamics (par exemple : si votre CRM Dynamics dispose de la version 1.4 et que la dernière version est 1.5, vous importez _over_ version 1.4).
 
-1. La fenêtre contextuelle suivante s’affiche. Sélectionner **Mettre à jour** et **Conserver les personnalisations**, puis cliquez sur **Importer**.
+1. La fenêtre contextuelle suivante s’affiche. Sélectionnez **Mettre à jour** et **Conserver les personnalisations**, puis cliquez sur **Importer**.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
@@ -137,4 +137,4 @@ Lors de la première synchronisation avec Microsoft Dynamics, vous téléchargez
 
 >[!MORELIKETHIS]
 >
->[Téléchargement de la solution de gestion des leads Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[Télécharger la solution Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

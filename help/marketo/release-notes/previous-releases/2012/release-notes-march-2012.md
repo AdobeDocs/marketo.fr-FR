@@ -6,12 +6,12 @@ exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
-# Notes de mise à jour : Mars 2012 {#release-notes-march}
+# Notes de mise à jour : mars 2012 {#release-notes-march}
 
 ## Résoudre Mes Jetons {#resolve-my-tokens}
 

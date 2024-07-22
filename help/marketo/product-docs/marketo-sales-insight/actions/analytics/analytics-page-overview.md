@@ -26,7 +26,7 @@ Tous les statistiques contenues dans le tableau seront calculés en examinant le
 
 ## Onglets Analytics {#analytic-tabs}
 
-Nous divisons vos statistiques en trois onglets distincts : Moi, l&#39;équipe et le contenu. Vous pouvez les utiliser pour obtenir une perspective différente de l’information que nous fournissons.
+Vos statistiques sont divisées en trois onglets distincts : Moi, Équipe et Contenu. Vous pouvez les utiliser pour obtenir une perspective différente de l’information que nous fournissons.
 
 Lorsque vous passez d’un onglet à l’autre sur la page d’analyse, vous pouvez trier vos statistiques en cliquant sur les icônes d’affichage, de clic ou de réponse.
 
@@ -34,16 +34,16 @@ Dans les onglets Moi et Équipe, vous trouverez des informations sur les offres 
 
 ## Onglet Moi {#me-tab}
 
-Le [Onglet Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} est un excellent endroit pour vérifier l’engagement de vos emails, modèles et liens. Si vous êtes administrateur des actions Sales Insight, vous pouvez filtrer par n’importe quel utilisateur de votre équipe pour afficher ses statistiques.
+L’onglet [Moi](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} est un excellent endroit pour vérifier l’engagement de vos emails, modèles et liens. Si vous êtes administrateur des actions Sales Insight, vous pouvez filtrer par n’importe quel utilisateur de votre équipe pour afficher ses statistiques.
 
 ## Onglet Équipe {#team-tab}
 
-Dans le [Onglet Équipe](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, voir statistiques et classements pour l’ensemble de l’équipe. Vous pouvez également filtrer selon les sous-équipes que vous avez créées.
+Dans l’ [onglet Équipe](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, consultez les statistiques et les classements de l’ensemble de l’équipe. Vous pouvez également filtrer selon les sous-équipes que vous avez créées.
 
 ## Onglet Contenu {#content-tab}
 
-Le [Onglet Contenu](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contient des statistiques sur les modèles, le contenu et les liens. Vous pouvez filtrer par tout le monde ou par équipes créées par vos administrateurs.
+L’ [ onglet Contenu](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contient des statistiques sur les modèles, le contenu et les liens. Vous pouvez filtrer par tout le monde ou par équipes créées par vos administrateurs.
 
-Si du texte bleu s’affiche sous la colonne Objet, cela signifie que le modèle est partagé. Vous pouvez cliquer sur le texte bleu à insérer dans ce modèle. Afficher son utilisation en cliquant sur **Analyses de modèles**.
+Si du texte bleu s’affiche sous la colonne Objet, cela signifie que le modèle est partagé. Vous pouvez cliquer sur le texte bleu à insérer dans ce modèle. Affichez son utilisation en cliquant sur **Template Analytics**.
 
 Les &quot;clics sur le contenu&quot; sont comptabilisés lorsqu’un destinataire clique sur un lien dans votre email.

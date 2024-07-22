@@ -5,8 +5,8 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 7%
+source-wordcount: '355'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 >[!PREREQUISITES]
 >
 >* Création de [Champs personnalisés des membres du programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Synchronisation d’une campagne Salesforce avec un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Synchroniser une campagne Salesforce avec un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 7%
 
 ## Faire correspondre les champs Salesforce aux champs personnalisés des membres du programme {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Cliquez sur **[!DNL Salesforce]**, puis cliquez sur **[!UICONTROL Modifier]** en regard de Synchronisation des champs personnalisés des membres du programme.
+1. Cliquez sur **[!DNL Salesforce]**, puis sur **[!UICONTROL Modifier]** en regard de Synchronisation des champs personnalisés des membres du programme.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 7%
 
 1. Pour d’autres mappages de champ, désélectionnez la zone de recherche et répétez les étapes 3 à 5.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 7%
 
 Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter une modification générale, vous devez d’abord effectuer un démapping. Voici comment.
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Cliquez sur **[!DNL Salesforce]**, puis cliquez sur **[!UICONTROL Modifier]** en regard de Synchronisation des champs personnalisés des membres du programme.
+1. Cliquez sur **[!DNL Salesforce]**, puis sur **[!UICONTROL Modifier]** en regard de Synchronisation des champs personnalisés des membres du programme.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
 
    >[!TIP]
    >
-   >Vous pouvez sélectionner la variable **[!UICONTROL Mappé]** pour afficher uniquement les champs mappés.
+   >Vous pouvez cocher la case **[!UICONTROL Mapped]** pour afficher uniquement les champs mappés.
 
-1. Annuler le mappage en cliquant sur le bouton **X** en regard du champ .
+1. Annuler le mappage en cliquant sur le **X** en regard du champ.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -98,7 +98,7 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
   </colgroup>
   <tbody>
     <tr>
-      <th>Type de données SFDC</th>
+      <th>Type de donnés SFDC</th>
       <th>Type de données de champ personnalisé du membre du programme</th>
     </tr>
     <tr>
@@ -127,11 +127,11 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
     </tr>
     <tr>
       <td>Number(m,n)</td>
-      <td>Flottant</td>
+      <td>Flottante</td>
     </tr>
     <tr>
       <td>Case à cocher</td>
-      <td>Booléen</td>
+      <td>Booléenne</td>
     </tr>
     <tr>
       <td>URL</td>
@@ -158,6 +158,6 @@ Si vous souhaitez libérer un champ afin de le remplacer, ou simplement apporter
 
 >[!MORELIKETHIS]
 >
->* [Modifier les données du membre du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
->* [Affichage des données sur la grille Programme Member](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [Synchronisation SFDC - Synchronisation des campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [Modifier les données des membres du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [Afficher les données sur la grille Programme Member](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [Synchronisation SFDC - Synchronisation de campagne](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

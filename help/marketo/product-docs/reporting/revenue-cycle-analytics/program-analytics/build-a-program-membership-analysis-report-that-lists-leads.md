@@ -23,11 +23,11 @@ Suivez ces étapes pour créer un rapport Analyse de l’appartenance à un prog
 
    ![](assets/one.png)
 
-1. Cliquez sur **Créer** then **Rapport**.
+1. Cliquez sur **Créer** puis sur **Rapport**.
 
    ![](assets/two.png)
 
-1. Sélectionner **Analyse de l’appartenance à un programme** et cliquez sur **OK**.
+1. Sélectionnez **Analyse de l’appartenance au programme** et cliquez sur **OK**.
 
    ![](assets/three.png)
 
@@ -47,13 +47,13 @@ Vous voyez comme c&#39;était facile ?
 
 ![](assets/seven.png)
 
-Vous pouvez ajouter rapidement un attribut de piste, tel que _Nom complet_ pour voir qui sont les membres.
+Vous pouvez ajouter rapidement un attribut de piste tel que _Nom complet_ pour voir quels sont les membres.
 
 >[!TIP]
 >
 >Il y a de nombreux attributs de prospect/société à sélectionner. Regardez-les !
 
-1. Recherchez et double-cliquez sur le **Nom complet** point jaune.
+1. Recherchez le point jaune **Nom complet** et double-cliquez dessus.
 
    ![](assets/eight.png)
 

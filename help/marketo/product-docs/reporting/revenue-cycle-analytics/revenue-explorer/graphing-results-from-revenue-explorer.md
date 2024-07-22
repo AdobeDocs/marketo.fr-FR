@@ -6,7 +6,7 @@ exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,61 +15,61 @@ ht-degree: 0%
 
 Par défaut, les rapports dans l’Explorateur de recettes s’affichent sous forme de tableau. Vous avez également la possibilité d’afficher les résultats sous forme de graphique dans divers formats.
 
-1. Cliquez sur la flèche dans le **Afficher sous** menu déroulant de votre rapport. Différentes options de représentation s’affichent.
+1. Cliquez sur la flèche dans le menu déroulant **Afficher sous** de votre rapport. Différentes options de représentation s’affichent.
 
    ![](assets/one-1.png)
 
 ## Exemples de graphiques {#graph-examples}
 
-**Colonne**: Chaque ligne et chaque colonne du tableau s’affichent sous la forme d’une colonne verticale.
+**Colonne** : chaque ligne et colonne du tableau s’affiche sous la forme d’une colonne verticale.
 
 ![](assets/column.png)
 
-**Colonne empilée**: Chaque ligne du tableau comporte une colonne dans le graphique.
+**Colonne empilée** : chaque ligne du tableau comporte une colonne dans le graphique.
 
 ![](assets/stacked-column.png)
 
-**Colonne empilée à 100 %**: Chaque ligne du tableau comporte une colonne dans le graphique et est mise à l’échelle à 100 %.
+**Colonne empilée à 100 %** : chaque ligne du tableau comporte une colonne dans le graphique et est mise à l’échelle à 100 %.
 
 ![](assets/100-stacked-column.png)
 
-**Ligne**: Chaque colonne est affichée sous forme de ligne et chaque ligne sous la forme d’un point de données sur la ligne.
+**Ligne** : chaque colonne est affichée sous forme de ligne et chaque ligne sous forme de point de données sur la ligne.
 
 ![](assets/line.png)
 
-**Combo ligne de colonne**: Combinaison de graphiques en colonnes et en lignes.
+**Combo-ligne-colonne** : combinaison de graphiques en colonnes et en lignes.
 
 ![](assets/column-line-combo.png)
 
-**Barre**: Chaque ligne et chaque colonne du tableau s’affichent sous la forme d’une barre horizontale.
+**Barre** : chaque ligne et colonne du tableau s’affiche sous la forme d’une barre horizontale.
 
 ![](assets/bar.png)
 
-**Barre empilée**: Chaque ligne du tableau comporte une ligne dans le graphique.
+**Barre empilée** : chaque ligne du tableau comporte une ligne dans le graphique.
 
 ![](assets/stacked-bar.png)
 
-**Barre empilée à 100 %**: Chaque ligne du tableau comporte une ligne dans le graphique et est mise à l’échelle à 100 %.
+**Barre empilée à 100 %** : chaque ligne du tableau comporte une ligne dans le graphique et est mise à l’échelle à 100 %.
 
 ![](assets/100-stacked-bar.png)
 
-**Zone**: Les données s’affichent comme une barre empilée, mais sont remplies.
+**Area** : les données s’affichent comme une barre empilée, mais sont remplies.
 
 ![](assets/area.png)
 
-**Diagramme**: Chaque colonne est présentée sous forme de graphique en secteurs, chaque ligne sous la forme d’une tranche.
+**Graphique en secteurs** : chaque colonne est présentée sous forme de graphique en secteurs, chaque ligne sous forme de tranche.
 
 ![](assets/pie.png)
 
-**Rayon**: Graphique radial qui représente les attributs en tranches.
+**Sunburst** : graphique radial qui représente les attributs en tranches.
 
 ![](assets/sunburst.png)
 
-**Diagramme**: Bulles basées sur les attributs utilisés. Utilisez des mesures pour coder par couleur la bulle et/ou déterminer sa taille.
+**Graphique de dispersion** : bulles basées sur les attributs utilisés. Utilisez des mesures pour coder par couleur la bulle et/ou déterminer sa taille.
 
 ![](assets/scatter.png)
 
-**Grille de chaleur**: Personnalisez les couleurs et les formes pour identifier les modèles de performances positifs et négatifs.
+**Grille de chaleur** : personnalisez des couleurs et des formes pour identifier des schémas de performances positifs et négatifs.
 
 ![](assets/heat-grid.png)
 

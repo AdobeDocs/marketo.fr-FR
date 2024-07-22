@@ -6,8 +6,8 @@ exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 1%
+source-wordcount: '126'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Cliquez avec le bouton droit de la souris sur une carte de courrier électroniqu
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Appuyer **[!UICONTROL Prévisualiser le message]**.
+1. Appuyez sur **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

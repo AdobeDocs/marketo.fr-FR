@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359685
-description: Tableau de bord de l’engagement - Documents Marketo - Documentation du produit
+description: Tableau de bord des engagements - Documents Marketo - Documentation du produit
 title: Tableau de bord de l’engagement
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Le tableau de bord Engagement est le moyen le plus simple de voir les performanc
 
 >[!NOTE]
 >
->Le score d’engagement comprend les données de vos trois dernières diffusions. Un nouveau est calculé 72 heures après chaque diffusion. En savoir plus sur les [score d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Le score d’engagement comprend les données de vos trois dernières diffusions. Un nouveau est calculé 72 heures après chaque diffusion. En savoir plus sur le [score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Affichage du tableau de bord de l’engagement {#view-the-engagement-dashboard}
 
-Sélectionnez votre programme d’engagement et cliquez sur **Affichage** > **Tableau de bord**.
+Sélectionnez votre programme d’engagement et cliquez sur **Afficher** > **Tableau de bord**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Consultez la section [rapport sur les performances du flux d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour des statistiques plus détaillées.
+>Consultez le [rapport sur les performances du flux d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour obtenir des statistiques plus détaillées.
 
 ## Comprendre le widget d’épuisement {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ Ce widget vous permet d’anticiper le moment où les pistes auront épuisé tou
 
 >[!NOTE]
 >
->Vous devez accéder à l’onglet Configuration et vous assurer que les notifications de contenu extrait sont **Activé** pour voir le graphique ci-dessus. S’ils sont désactivés, le graphique aura un aspect différent.
+>Vous devez accéder à l’onglet Configuration et vous assurer que les notifications de contenu expurgé sont **On** pour voir le graphique ci-dessus. S’ils sont désactivés, le graphique aura un aspect différent.
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ Pour modifier le tri, cliquez sur l’icône représentant un engrenage, puis s�
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_Plus récent_ et _Plus ancien_ sont basés sur l’heure de la dernière validation.
+_Le plus récent_ et _Le plus ancien_ sont basés sur l’heure de la dernière approbation.
 
 >[!NOTE]
 >
->En savoir plus dans la section [Création d’un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) plongée profonde.
+>Pour en savoir plus, consultez la section approfondie [Créer un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) .

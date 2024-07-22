@@ -6,14 +6,14 @@ exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 2%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
 
 # Paramètres d’utilisateur {#user-settings}
 
-Modifiez les paramètres tels que le fuseau horaire ou les rapports d’e-mail de personnalisation web.
+Modifiez les paramètres tels que le fuseau horaire ou les rapports de messagerie Web Personalization.
 
 ## Profil utilisateur / Mots de passe / Fuseaux horaires {#user-profile-passwords-time-zones}
 
@@ -31,7 +31,7 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports d’e-mail d
    * Ajout de détails personnels (prénom et nom, numéro de mobile et fuseau horaire)
    * Sélectionnez le nombre de lignes que vous souhaitez exporter lors de l&#39;export de tableaux dans la plateforme. Voir champ : &quot;Nombre maximal de lignes dans l’exportation Excel (limité à 10 000)&quot;
    * Sélectionnez vos notifications mobiles pour une nouvelle personne ou une liste de contrôle associée à l’application mobile.
-   * Ajuster les paramètres de la région personnelle en cliquant sur **Modifier les régions**.
+   * Réglez les paramètres de la région personnelle en cliquant sur **Modifier les régions**.
    * Modifier votre mot de passe
    * Sélectionnez les paramètres de notification des rapports par courriel pour les rapports par courriel sur les organisations, les personnes, les campagnes et les performances des ressources.
 
@@ -43,14 +43,14 @@ Modifiez les paramètres tels que le fuseau horaire ou les rapports d’e-mail d
 
 ## Sélectionner Rapports par courriel {#select-email-reports}
 
-Sélectionnez laquelle [rapport email](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) pour l’associer à votre utilisateur, ainsi que la fréquence (quotidienne, hebdomadaire ou trimestrielle) d’envoi du rapport.
+Sélectionnez le [rapport par courriel](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) à associer à votre utilisateur, ainsi que la fréquence (quotidienne, hebdomadaire ou trimestrielle) d’envoi du rapport.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Cliquer **Enregistrer** ne vous quittera pas des Paramètres utilisateur. Pour quitter Marketo, cliquez sur le logo dans le coin supérieur gauche et sélectionnez votre destination.
+>Si vous cliquez sur **Enregistrer**, vous ne quitterez pas les Paramètres utilisateur. Pour quitter Marketo, cliquez sur le logo dans le coin supérieur gauche et sélectionnez votre destination.
 
 >[!MORELIKETHIS]
 >
->[Modifier les régions](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)
+>[Modifier des régions](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)

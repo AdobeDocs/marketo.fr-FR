@@ -29,15 +29,15 @@ Voici comment identifier rapidement et précisément vos comptes à forte valeur
 
    ![](assets/account-smart-lists-2.png)
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Nouvelle ressource locale**.
+1. Cliquez sur la liste déroulante **New** et sélectionnez **New Local Asset**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Cliquez sur **Liste dynamique de comptes**.
+1. Cliquez sur **Liste dynamique de compte**.
 
    ![](assets/account-smart-lists-4.png)
 
-1. Saisissez un nom et cliquez sur **Créer** (La description et les étiquettes sont facultatives).
+1. Saisissez un nom et cliquez sur **Créer** (la description et les libellés sont facultatifs).
 
    ![](assets/account-smart-lists-5.png)
 
@@ -45,13 +45,13 @@ Votre liste dynamique de comptes a été créée. Voir ci-dessous les étapes de
 
 ## Règles de la liste intelligente des comptes {#account-smart-list-rules}
 
-Les listes dynamiques de compte fonctionnent de la même manière que les listes dynamiques standard, à une exception notable : conteneurs.
+Les listes dynamiques de compte fonctionnent de la même manière que les listes dynamiques standard, à une exception notable : les conteneurs.
 
-1. Pour définir votre liste dynamique de comptes, cliquez sur le bouton **Règles de liste intelligente des comptes** .
+1. Pour définir votre liste dynamique de comptes, cliquez sur l’onglet **Règles de liste dynamique de comptes** .
 
    ![](assets/account-smart-lists-6.png)
 
-1. Sélectionnez le ou les filtres de compte de votre choix. Dans cet exemple, nous choisissons _L&#39;industrie est la santé_.
+1. Sélectionnez le ou les filtres de compte de votre choix. Dans cet exemple, nous choisissons _Industry is Healthcare_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -59,13 +59,13 @@ Les listes dynamiques de compte fonctionnent de la même manière que les listes
 
    >[!NOTE]
    >
-   >Données d’indicateur ICP utilisées dans votre [Classement et réglage des profils de compte](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) s’affichent sous la forme d’attributs de compte personnalisés à utiliser dans votre liste dynamique de comptes. Ces données d’attribut personnalisé sont basées sur le moment où le modèle de profil de compte a été créé/mis à jour.
+   >Les données d’indicateur ICP utilisées dans le classement et le réglage de profil de compte [ s’affichent sous la forme d’attributs de compte personnalisés à utiliser dans votre liste dynamique de comptes. ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) Ces données d’attribut personnalisé sont basées sur la date de création/mise à jour du modèle de profil de compte.
 
-1. Sélectionnez votre ou vos filtres de personne(s) mappée(s). Dans cet exemple, nous choisissons _État de Californie_.
+1. Sélectionnez votre ou vos filtres de personne(s) mappée(s). Dans cet exemple, nous choisissons _State is California_.
 
    ![](assets/account-smart-lists-9.png)
 
-**ÉTAPE FACULTATIVE**: C&#39;est là que les conteneurs entrent. Si vous choisissez un autre filtre de personne mise en correspondance, vous pouvez le déposer sous le premier, ou _in_ créer un conteneur. Dans cet exemple, nous allons créer un conteneur en ajoutant _Titre de la tâche : CFO_.
+**ÉTAPE FACULTATIVE** : voici où les conteneurs entrent. Si vous choisissez un autre filtre de personne mise en correspondance, vous pouvez le déposer sous le premier, ou _dans_, en créant un conteneur. Dans cet exemple, nous allons créer un conteneur en ajoutant _Le titre de la tâche est CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -75,9 +75,9 @@ Voici à quoi ressemblera le conteneur.
 
 >[!NOTE]
 >
->La création d’un conteneur de filtres crée une règle &quot;et&quot;, ce qui signifie qu’elle ne renverra que tous les résultats combinés. Dans cet exemple, tient compte d’un secteur de la santé et se trouve en Californie. _et_ avec quelqu&#39;un qui est listé comme directeur financier. Si vous ne souhaitez pas utiliser de conteneurs, déposez simplement le filtre en dessous/au-dessus de celui existant.
+>La création d’un conteneur de filtres crée une règle &quot;et&quot;, ce qui signifie qu’elle ne renverra que tous les résultats combinés. Dans cet exemple, des comptes avec un secteur de la santé, ainsi que des comptes situés en Californie _et_ avec une personne répertoriée comme CFO. Si vous ne souhaitez pas utiliser de conteneurs, déposez simplement le filtre en dessous/au-dessus de celui existant.
 
-Et voilà ! Consultez la section ci-dessous pour découvrir comment tirer parti de votre liste dynamique de comptes.
+Et c&#39;est tout ! Consultez la section ci-dessous pour découvrir comment tirer parti de votre liste dynamique de comptes.
 
 >[!TIP]
 >
@@ -87,13 +87,13 @@ Et voilà ! Consultez la section ci-dessous pour découvrir comment tirer parti 
 
 Dans l’onglet Aperçu de votre liste dynamique de comptes, vous remarquerez quelques options d’action.
 
-**Exporter**: Cette opération exporte les résultats de votre liste dynamique de comptes au format CSV.
+**Export** : cette option exporte les résultats de votre liste dynamique de compte au format CSV.
 
-**Cloner**: Effectue une copie de votre liste dynamique de compte.
+**Cloner** : effectue une copie de votre liste dynamique de compte.
 
-**Envoyer au réseau publicitaire**: Envoie la liste à LinkedIn en tant que nouvelle audience mise en correspondance.
+**Envoyer vers le réseau publicitaire** : envoie la liste à LinkedIn en tant que nouvelle audience mise en correspondance.
 
-Vous pouvez également référencer votre liste dynamique de compte dans une liste/campagne dynamique standard à l’aide de la variable _Liste dynamique des personnes membres du compte_ filtre.
+Vous pouvez également référencer votre liste dynamique de compte dans une liste/campagne dynamique standard à l’aide du filtre _Personnes membres de la liste dynamique de compte_ .
 
 ![](assets/account-smart-lists-12.png)
 
@@ -105,4 +105,4 @@ Vous pouvez également référencer votre liste dynamique de compte dans une lis
 >
 >**Définition**
 >
->**Liste dynamique des personnes membres du compte**: Dans ce cas, le mot &quot;membre&quot; fait référence au compte lui-même, de sorte que &quot;membre du peuple&quot; signifie les personnes réelles (enregistrements Marketo) dans ces comptes.
+>**Personnes membres de la liste dynamique des comptes** : dans ce cas, le mot &quot;membre&quot; fait référence au compte lui-même. Par conséquent, &quot;membre du compte&quot; signifie les personnes réelles (enregistrements Marketo) dans ces comptes.

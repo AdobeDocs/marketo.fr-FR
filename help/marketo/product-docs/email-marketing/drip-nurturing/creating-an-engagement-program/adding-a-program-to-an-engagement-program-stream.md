@@ -18,9 +18,9 @@ ht-degree: 0%
 Il est facile d’ajouter un email à un flux dans un programme d’engagement, et cela fonctionne bien. Cependant, si les besoins de votre entreprise sont plus complexes, il peut être logique de placer l’email dans un programme. Par exemple, vous pouvez :
 
 * Envoyer un courrier électronique à un sous-groupe de personnes dans le flux
-* Envoyer *différent* emails vers des sous-groupes dans le flux
+* Envoyez des *messages électroniques différents* aux sous-groupes dans le flux
 * Inclure des landing pages, des formulaires ou d’autres ressources dans la culture
-* Activation de l’attribution multi-tactile
+* Activation de l’attribution multi-touch
 * Ajout d’étapes de flux supplémentaires, telles que les emails d’alerte
 
 ## Que se passe-t-il quand vous utilisez un programme dans un flux ? {#what-happens-when-you-use-a-program-in-a-stream}
@@ -31,23 +31,23 @@ Lors de l’utilisation d’un programme imbriqué, la décision d’envoyer un 
 * Si vous êtes membre du programme, vous ne recevrez pas l&#39;email.
 * Si vous n’êtes plus membre mais que vous avez reçu l’e-mail plus tôt via ce programme, vous ne recevrez pas l’e-mail.
 
-Lorsque vous utilisez un programme dans un flux, cela n’a pas d’importance si vous avez déjà reçu cet email spécifique. Tant que l&#39;email n&#39;a pas été envoyé avant *dans le programme spécifique*, vous pouvez le recevoir à nouveau.
+Lorsque vous utilisez un programme dans un flux, cela n’a pas d’importance si vous avez déjà reçu cet email spécifique. Tant que l&#39;email n&#39;a pas été envoyé avant *dans ce programme spécifique*, vous pouvez le recevoir à nouveau.
 
 Il peut être difficile de mélanger les emails et les programmes dans un programme d&#39;engagement. Il se peut que vous vouliez utiliser l&#39;un ou l&#39;autre.
 
 >[!TIP]
 >
->Veillez à utiliser un **Programme des membres de l’engagement** filtre dans votre liste dynamique.
+>Veillez à utiliser un filtre **Programme membre de l’engagement** dans votre liste dynamique.
 
 ## Qu’advient-il des personnes qui ne répondent pas aux critères de la liste dynamique ? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Dans le cas où une personne est filtrée hors de la liste dynamique de la campagne dynamique d’un programme imbriqué, elle ne passe pas à l’élément de contenu suivant pendant la diffusion actuelle. Ils passeront à l’élément de contenu suivant dans le flux pour la *following* cast.
+Dans le cas où une personne est filtrée hors de la liste dynamique de la campagne dynamique d’un programme imbriqué, elle ne passe pas à l’élément de contenu suivant pendant la diffusion actuelle. Ils passeront à l’élément de contenu suivant dans le flux pour la diffusion *suivant*.
 
 ## Que contient un programme imbriqué ? {#what-does-a-nested-program-contain}
 
 Un programme imbriqué bien conçu contient des emails, des rapports et des campagnes intelligentes. Il est logique de les garder ensemble.
 
-L’e-mail que vous utilisez peut se trouver dans le programme, dans un autre programme ou même dans Design Studio. L&#39;endroit où il habite dépendra de la manière dont vous voulez l&#39;utiliser.
+L’email que vous utilisez peut se trouver dans le programme, dans un autre programme ou même dans Design Studio. L&#39;endroit où il habite dépendra de la manière dont vous voulez l&#39;utiliser.
 
 Modification des rapports avec l’emplacement du courrier électronique. Ainsi, par exemple, si le courrier électronique se trouve dans Design Studio, dans le rapport Performance du courrier électronique, toutes les mesures sont affichées sur une seule ligne : les différentes diffusions sont combinées. Toutefois, dans le rapport Performance du flux d’engagement , les différents envois s’affichent séparément.
 
@@ -57,5 +57,5 @@ Modification des rapports avec l’emplacement du courrier électronique. Ainsi,
 
 >[!MORELIKETHIS]
 >
->* [Ajout de contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Ajouter du contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Présentation des programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

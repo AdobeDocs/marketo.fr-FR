@@ -6,8 +6,8 @@ exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 1%
+source-wordcount: '355'
+ht-degree: 3%
 
 ---
 
@@ -57,7 +57,7 @@ Dans le monde complexe des processus d’achat B2B, il est rare qu’une seule p
 
 Une fois que vous avez configuré le score de piste, procédez comme suit.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/account-score-1.png)
 
@@ -71,9 +71,9 @@ Une fois que vous avez configuré le score de piste, procédez comme suit.
 
    >[!NOTE]
    >
-   >Vous pouvez choisir jusqu’à **cinq** pour calculer la note du compte.
+   >Vous pouvez choisir jusqu’à **cinq** champs pour calculer la note du compte.
 
-1. Saisissez le nom du score du compte, puis cliquez sur le bouton **Sélectionner le score de personne** et sélectionnez le score correspondant.
+1. Saisissez le nom du score du compte, cliquez sur la liste déroulante **Sélectionner le score de la personne** et sélectionnez le score correspondant.
 
    ![](assets/account-score-4.png)
 
@@ -81,6 +81,6 @@ Une fois que vous avez configuré le score de piste, procédez comme suit.
 
    ![](assets/account-score-5.png)
 
-1. Ajoutez tous les scores souhaités. Cliquez sur **Enregistrer** une fois terminé.
+1. Ajoutez tous les scores souhaités. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/account-score-6.png)

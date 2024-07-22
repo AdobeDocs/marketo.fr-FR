@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Bonnes pratiques relatives à la nouvelle instance : documenter votre configuration {#new-instance-best-practices-document-your-setup}
 
-Maintenant que vous avez appris les principales zones de produit à configurer pour une nouvelle instance de Marketo Engage, l’étape suivante consiste à créer la documentation pour la configuration de votre instance et la pile technique. Que vous le créiez au moyen d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre l’avancement et enregistrer les détails, ainsi que pour préserver la structure et la durabilité de votre instance pour les futurs marketeurs de votre entreprise.
+Maintenant que vous avez appris les principales zones de produit à configurer pour une nouvelle instance de Marketo Engage, l’étape suivante consiste à créer la documentation pour la configuration de votre instance et tech stack. Que vous le créiez au moyen d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre l’avancement et enregistrer les détails, ainsi que pour préserver la structure et la durabilité de votre instance pour les futurs marketeurs de votre entreprise.
 
 ## Données {#data}
 
@@ -26,8 +26,8 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
 <tbody>
   <tr>
     <td>Importer une liste</td>
-    <td><li>Collecte d’une liste de sources de données dont les enregistrements seront extraits de vers <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">import dans Marketo Engage</a>.</li>
-    <li>Si vous importez depuis plusieurs sources de données, pensez à utiliser des listes de Principal ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">création d’un champ personnalisé</a> sur l’enregistrement de la personne pour indiquer la source de données.</li></td>
+    <td><li>Rassemblez une liste des sources de données à partir desquelles les enregistrements seront extraits vers <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">import dans Marketo Engage</a>.</li>
+    <li>Si vous importez à partir de plusieurs sources de données, pensez à utiliser des listes de Principal ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">la création d’un champ personnalisé</a> sur l’enregistrement de la personne pour désigner la source de données.</li></td>
   </tr>
   <tr>
     <td>Intégration de base de données</td>
@@ -48,7 +48,7 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
 <tbody>
   <tr>
     <td>Utilisateurs et utilisatrices</td>
-    <td><li>Document <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utilisateurs actuels</a> dans votre instance pour des raisons de sécurité. Les détails suivants doivent être inclus au minimum (et sont tous visibles dans Admin &gt; Utilisateurs et rôles) :</li>
+    <td><li>Documentez les <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utilisateurs actuels</a> de votre instance pour des raisons de sécurité. Les détails suivants doivent être inclus au minimum (et sont tous visibles dans Admin &gt; Utilisateurs et rôles) :</li>
     <ul>
     <li>Nom</li>
     <li>E-mail</li>
@@ -59,15 +59,15 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
     <li>Date de connexion la plus récente</li></ul>
     <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : vous pouvez également développer cette section afin d’inclure de la documentation sur les rôles/autorisations.
     <p>
-    <li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, envisagez <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank">actions en bloc</a>, comme charger un fichier .CSV, à l’aide de l’API REST User Management, etc.</li></td>
+    <li>En tant qu’administrateur de produit Marketo Engage, développez un processus interne pour contrôler et mettre à jour la liste des utilisateurs Marketo Engage à une cadence normale. Pour apporter des modifications à la liste des utilisateurs dans Adobe Admin Console, pensez à <a href="https://helpx.adobe.com/fr/enterprise/using/users.html" target="_blank">des actions en masse</a>, comme télécharger un fichier .CSV, à l’aide de l’API REST User Management, etc.</li></td>
   </tr>
   <tr>
     <td>Entreprise</td>
-    <td><li>Documentez la structure de dossiers convenue, les conventions d’attribution de noms standard pour les programmes, les ressources, etc., et les raisons pour lesquelles les décisions ont été prises. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Découvrez les bonnes pratiques ici.</a></li></td>
+    <td><li>Documentez la structure de dossiers convenue, les conventions d’attribution de noms standard pour les programmes, les ressources, etc., et les raisons pour lesquelles les décisions ont été prises. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">En savoir plus sur les bonnes pratiques ici.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Créez un fichier de modification dans lequel vous pouvez documenter les modifications apportées à votre instance et les raisons de ces modifications. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Découvrez les bonnes pratiques ici.</a></li></td>
+    <td><li>Créez un fichier de modification dans lequel vous pouvez documenter les modifications apportées à votre instance et les raisons de ces modifications. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">En savoir plus sur les bonnes pratiques ici.</a></li></td>
   </tr>
   <tr>
     <td>Livres</td>

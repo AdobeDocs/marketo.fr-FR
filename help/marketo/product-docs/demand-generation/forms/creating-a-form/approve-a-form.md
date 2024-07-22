@@ -35,7 +35,7 @@ Voici comment approuver un formulaire existant prêt à l’emploi.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Il est approuvé et prêt à être [ajouté à une landing page ;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Il est approuvé et prêt à être [ajouté à une landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >

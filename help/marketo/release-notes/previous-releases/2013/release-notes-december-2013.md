@@ -6,30 +6,30 @@ exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '312'
 ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : Décembre 2013 {#release-notes-december}
+# Notes de mise à jour : décembre 2013 {#release-notes-december}
 
 Les fonctionnalités suivantes sont incluses dans la version de décembre.
 
 Après la publication de cette version, consultez l’onglet Nouvelle version de la communauté pour consulter des articles détaillés de la base de connaissances pour chaque fonctionnalité.
 
-## Programme d&#39;e-mail {#email-program}
+## Programme d’e-mail {#email-program}
 
-L&#39;envoi d&#39;un email n&#39;a jamais été aussi facile. Utilisez la nouvelle [programme de messagerie électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) pour envoyer un courrier électronique par lot, au lieu du programme par défaut. Définissez la liste dynamique, envoyez un email, planifiez-la, et vous êtes désactivé !
+L&#39;envoi d&#39;un email n&#39;a jamais été aussi facile. Utilisez le nouveau [programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) pour envoyer un courrier électronique par lot, au lieu du programme par défaut. Définissez la liste dynamique, envoyez un email, planifiez-la, et vous êtes désactivé !
 
 ![](assets/image2014-9-22-17-3a19-3a55.png)
 
-Consultez également la nouvelle [Tableau de bord des mesures de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) pour voir les performances de votre email.
+Consultez également le nouveau [tableau de bord des mesures de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) pour découvrir les performances de votre courriel.
 
 ![](assets/image2014-9-22-17-3a20-3a14.png)
 
-## A/B testing pour l&#39;e-mail {#email-a-b-testing}
+## A/B Testing pour l&#39;email {#email-a-b-testing}
 
-Dans le nouveau programme de messagerie, exécutez un [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) sur un pourcentage de la population totale d&#39;envois d&#39;emails. Choisissez parmi 4 types de tests différents : Objet, Adresse, Date/Heure et Courrier électronique complet. Vous pouvez même choisir de promouvoir manuellement le gagnant ou de laisser le système le promouvoir en fonction de critères de victoire prédéfinis. Le nouveau programme de messagerie, y compris le test A/B, peut être imbriqué dans les événements et dans le programme par défaut pour rendre l’envoi de courrier électronique si simple !
+Dans le nouveau programme Email, exécutez un [test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) sur un pourcentage de la population globale d&#39;envoi d&#39;emails. Faites votre choix parmi 4 types de tests différents : Objet, Adresse de l’expéditeur, Date/Heure et Email entier. Vous pouvez même choisir de promouvoir manuellement le gagnant ou de laisser le système le promouvoir en fonction de critères de victoire prédéfinis. Le nouveau programme de messagerie, y compris le test A/B, peut être imbriqué dans les événements et dans le programme par défaut pour rendre l’envoi de courrier électronique si simple !
 
 ## Test d&#39;email du champion/du challenger {#email-champion-challenger-testing}
 
@@ -37,7 +37,7 @@ Dans le nouveau programme de messagerie, exécutez un [Test A/B](/help/marketo/p
 
 ## Informations du lead dans l&#39;analyse de l&#39;e-mail {#lead-details-in-email-analysis}
 
-Nous avons introduit des attributs de prospect et de société supplémentaires dans l’analyse des emails. Vous pouvez désormais consulter vos statistiques d’email regroupées par de nouveaux attributs tels que le secteur et la source de piste.
+Nous avons introduit des attributs de prospect et de société supplémentaires dans l’analyse des emails. Vous pouvez désormais consulter vos statistiques d’email regroupées par de nouveaux attributs tels que le Source de secteur et de prospect.
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 

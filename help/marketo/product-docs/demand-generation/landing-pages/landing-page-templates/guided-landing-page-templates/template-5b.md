@@ -6,21 +6,21 @@ exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Modèle 5B {#template-5b}
 
-Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 
 Ce modèle comprend le contenu suivant :
 
 * Un en-tête (facultatif)
-* Une section Principale
+* Une section principale
 
    * inclut le titre de la héroïne et le texte de la héroïne.
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+[Modèle 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

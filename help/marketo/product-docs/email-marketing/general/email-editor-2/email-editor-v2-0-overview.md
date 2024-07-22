@@ -17,11 +17,11 @@ Lorsque vous décidez d’activer l’éditeur de courrier électronique v2.0, p
 
 **Sélectionneur de modèle d’e-mail**
 
-Lorsque vous créez un email, vous accédez à la [Sélecteur de modèle de courrier électronique](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Lorsque vous créez un email, vous êtes dirigé vers le [sélecteur de modèle d&#39;email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**Éditeur de messagerie électronique**
+**Éditeur de messagerie**
 
 Lorsque vous commencez à éditer votre email, vous remarquerez que l&#39;éditeur a une toute nouvelle apparence.
 
@@ -29,19 +29,19 @@ Lorsque vous commencez à éditer votre email, vous remarquerez que l&#39;édite
 
 **Modules**
 
-Ces éléments du côté droit de l&#39;éditeur sont appelés modules. Découvrez comment [ajouter des modules à votre email ;](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Ces éléments du côté droit de l&#39;éditeur sont appelés modules. Découvrez comment [ajouter des modules à votre email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**Version du texte**
+**Version de texte**
 
-Le passage de la version par HTML à la version texte de votre email se fait désormais dans un onglet pratique en bas de la page. Découvrez comment [modifier la version texte d’un email ;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Le passage de la version HTML à la version Texte de votre email se fait désormais dans un onglet pratique en bas de la page. Découvrez comment [modifier la version texte d’un email](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**En-tête de message électronique**
+**En-tête de courrier électronique**
 
-Vous voulez plus d&#39;espace design ? Une fois que vous avez terminé, l’en-tête de l’email peut être masqué. [modification](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône...
+Vous voulez plus d&#39;espace design ? L&#39;en-tête de l&#39;email peut être masqué lorsque vous avez [terminé de le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Cliquez simplement sur cette icône...
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -59,7 +59,7 @@ Par défaut, l’email affiche l’apparence qu’il aurait sur un bureau, comme
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Pour obtenir un aperçu plus grand, cliquez sur **Aperçu** dans l’angle supérieur droit de l’email.
+Pour obtenir un aperçu plus grand, cliquez sur **Preview** dans le coin supérieur droit de l&#39;email.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ La vue par défaut est Bureau...
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...mais vous pouvez également voir à quoi il ressemblera sur un appareil mobile. Vous pouvez également prévisualiser la version texte. Cliquez simplement sur **Modifier le brouillon** dans l’angle supérieur droit pour reprendre l’édition.
+...mais vous pouvez également voir à quoi il ressemblera sur un appareil mobile. Vous pouvez également prévisualiser la version texte. Cliquez simplement sur **Modifier le brouillon** dans le coin supérieur droit pour reprendre la modification.
 
 ![](assets/email-editor-v2-overview-11.png)
 
 **Actions de courrier électronique**
 
-Sous **Actions de courrier électronique**, vous remarquerez de nouvelles fonctionnalités. **Téléchargement d’une image ou d’un fichier**, et **Capture d&#39;images à partir du web**. Vous pouvez également enregistrer l’email lui-même en tant que nouveau modèle d’email. Tout ce que vous avez à faire est de lui donner un nom et une destination.
+Sous **Actions de courrier électronique**, vous remarquerez de nouvelles fonctionnalités. **Télécharger une image ou un fichier** et **Images de capture à partir du Web**. Vous pouvez également enregistrer l’email lui-même en tant que nouveau modèle d’email. Tout ce que vous avez à faire est de lui donner un nom et une destination.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,13 +83,13 @@ Sous **Actions de courrier électronique**, vous remarquerez de nouvelles foncti
 
 >[!NOTE]
 >
->**[Capture d&#39;images à partir du web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fonctionne comme dans Design Studio.
+>**[Grab Images from Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fonctionne comme dans Design Studio.
 
-**Désactiver le suivi des ouvertures** Sous **Paramètres de messagerie électronique**, vous pouvez désactiver le suivi des ouvertures si nécessaire.
+**Désactiver le suivi des ouvertures** Sous **Paramètres des emails**, vous pouvez désactiver le suivi des ouvertures si nécessaire.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**Paramètres de messagerie électronique**
+**Paramètres de courrier électronique**
 
 Vous avez la possibilité d’ajouter un pré-titre. Un pré-titre est le texte de résumé court suivant l’objet lorsque les emails sont affichés dans votre boîte de réception.
 
@@ -103,7 +103,7 @@ Beaucoup de nouvelles fonctionnalités géniales ! Amuse-toi bien !
 
 >[!NOTE]
 >
->Si vous souhaitez approfondir encore votre connaissance, consultez cette section [video](https://nation.marketo.com/videos/1463).
+>Si vous souhaitez approfondir davantage encore, regardez cette [vidéo](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >

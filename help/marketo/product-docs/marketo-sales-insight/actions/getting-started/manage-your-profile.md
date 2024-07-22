@@ -3,8 +3,8 @@ description: Gestion de votre profil - Documents Marketo - Documentation du prod
 title: Gestion de votre profil
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 2%
+source-wordcount: '258'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ C’est là que vous pouvez mettre à jour votre nom et/ou mot de passe.
 
 >[!NOTE]
 >
->Votre adresse électronique est définie pour une vue uniquement. Si vous avez également besoin de modifier ce paramètre, veuillez contacter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Votre adresse électronique est définie pour une vue uniquement. Si vous avez également besoin de cette modification, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez également modifier votre mot de passe dans cette section. Les étapes sont décrites dans ce document.
 
@@ -46,25 +46,25 @@ Voici comment modifier la langue, les paramètres régionaux et/ou le fuseau hor
 
 >[!NOTE]
 >
->Langues prises en charge : allemand, anglais, français, japonais, portugais, espagnol.
+>Langues prises en charge : anglais, français, allemand, japonais, portugais, espagnol.
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Pour modifier votre langue, cliquez sur le bouton **Langue** et faites votre choix.
+1. Pour modifier votre langue, cliquez sur la liste déroulante **Langue** et faites votre choix.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Le paramètre régional ici fait référence à la région dans laquelle cette langue est parlée. L’une d’elles sera choisie par défaut lorsque vous changerez votre langue, mais pour la modifier manuellement, cliquez sur l’icône **Paramètres régionaux** et faites votre choix.
+1. Le paramètre régional ici fait référence à la région dans laquelle cette langue est parlée. L’une d’elles sera choisie par défaut lorsque vous changerez votre langue, mais pour la modifier manuellement, cliquez sur la liste déroulante **Paramètre régional** et faites votre choix.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Cliquez sur le bouton **Votre fuseau horaire** et faites votre choix.
+1. Cliquez sur la liste déroulante **Votre fuseau horaire** et faites votre choix.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Cliquez sur **Enregistrer** une fois terminé.
+1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/manage-your-profile-8.png)
 

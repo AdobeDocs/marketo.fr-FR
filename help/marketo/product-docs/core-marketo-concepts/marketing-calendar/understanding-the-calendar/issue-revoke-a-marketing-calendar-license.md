@@ -6,7 +6,7 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Pour utiliser votre [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} sièges, vous devez accorder des licences aux utilisateurs qui ont besoin d’accès. Voici comment.
+Pour utiliser vos sièges [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, vous devez accorder des licences aux utilisateurs qui doivent y avoir accès. Voici comment.
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/adminhand.png)
 
@@ -27,15 +27,15 @@ Pour utiliser votre [Calendrier marketing](/help/marketo/product-docs/core-marke
 
    ![](assets/2.png)
 
-1. Sélectionnez le ou les utilisateurs et cliquez sur **[!UICONTROL Licence de publication]**.
+1. Sélectionnez le ou les utilisateurs et cliquez sur **[!UICONTROL Problème de licence]**.
 
    >[!TIP]
    >
-   >Utilisation **Ctrl/Cmd+clic** pour sélectionner plusieurs utilisateurs en une seule fois.
+   >Utilisez **Ctrl/Cmd+clic** pour sélectionner plusieurs utilisateurs en une seule fois.
 
    ![](assets/3.png)
 
-1. Vérifier **[!UICONTROL Activer la licence]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez **[!UICONTROL Activer la licence]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    >[!NOTE]
    >

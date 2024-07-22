@@ -1,16 +1,16 @@
 ---
 description: Autorisations - Documents Marketo - Documentation du produit
-title: Autorisations
+title: Permissions
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 10%
+ht-degree: 5%
 
 ---
 
-# Autorisations {#permissions}
+# Permissions {#permissions}
 
 Il existe cinq profils par défaut avec des autorisations prédéfinies que vous pouvez modifier en Dynamic Chat. Vous pouvez également créer un profil personnalisé avec un ensemble personnalisé d’autorisations. Passons en revue les deux.
 
@@ -20,11 +20,11 @@ Il existe cinq profils par défaut avec des autorisations prédéfinies que vous
 
    ![](assets/permissions-1.png)
 
-1. Dans le **Profils de produit** , sélectionnez le profil à modifier. Dans cet exemple, nous choisissons **Live Agent**.
+1. Dans l’onglet **Profils de produit**, sélectionnez le profil à modifier. Dans cet exemple, nous choisissons **Live Agent**.
 
    ![](assets/permissions-2.png)
 
-1. Cliquez sur le bouton **Autorisations** .
+1. Cliquez sur l’onglet **Autorisations** .
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Il existe cinq profils par défaut avec des autorisations prédéfinies que vous
 
    ![](assets/permissions-4.png)
 
-1. Les éléments d’autorisation disponibles sont répertoriés à gauche. Vous pouvez choisir d’ajouter les autorisations une par une ou toutes à la fois. Dans cet exemple, il n’y en a qu’un seul disponible, nous ajoutons celui-ci. Cliquez sur le bouton **+** signe.
+1. Les éléments d’autorisation disponibles sont répertoriés à gauche. Vous pouvez choisir d’ajouter les autorisations une par une ou toutes à la fois. Dans cet exemple, il n’y en a qu’un seul disponible, nous ajoutons celui-ci. Cliquez sur le signe **+**.
 
    ![](assets/permissions-5.png)
 
@@ -54,11 +54,11 @@ Vous pouvez désormais répéter ce processus pour toutes les autres zones de Dy
 
    ![](assets/permissions-8.png)
 
-1. Dans le **Profils de produit** , cliquez sur **Nouveau profil**.
+1. Dans l’onglet **Profils de produit**, cliquez sur **Nouveau profil**.
 
    ![](assets/permissions-9.png)
 
-1. **Nom** votre profil de produit. Vous pouvez éventuellement lui attribuer un nom d’affichage et/ou une description, et choisir de faire en sorte que les utilisateurs soient informés lorsqu’ils sont ajoutés/supprimés. Cliquez sur **Enregistrer** une fois terminé.
+1. **Nommez** votre profil de produit. Vous pouvez éventuellement lui attribuer un nom d’affichage et/ou une description, et choisir de faire en sorte que les utilisateurs soient informés lorsqu’ils sont ajoutés/supprimés. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ Vous pouvez désormais répéter ce processus pour toutes les autres zones de Dy
 
    ![](assets/permissions-11.png)
 
-1. Suivez maintenant les étapes 3 à 6 de la [section ci-dessus](#edit-existing-permissions) pour chaque zone souhaitée.
+1. Suivez maintenant les étapes 3 à 6 de la [section ci-dessus](#edit-existing-permissions) pour chaque zone de votre choix.
 
 ## Liste des autorisations {#list-of-permissions}
 
@@ -76,7 +76,7 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
 <thead>
   <tr>
     <th style="width:25%">Zone de Dynamic Chat</th>
-    <th>Autorisations</th>
+    <th>Permissions</th>
   </tr>
 </thead>
 <tbody>
@@ -84,10 +84,10 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
     <td>Gestion des conversations</td>
     <td><li>Afficher les boîtes de dialogue</li>
     <li>Gérer les boîtes de dialogue (créer, supprimer)</li>
-    <li>Publier les boîtes de dialogue</li>
+    <li>Dialogues Publish</li>
     <li>Afficher les flux de conversation</li>
     <li>Gérer les flux de conversation (créer, supprimer)</li>
-    <li>Publier les flux de conversation</li></td>
+    <li>Flux de conversation Publish</li></td>
   </tr>
   <tr>
     <td>Chat en direct</td>
@@ -123,8 +123,8 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
     <li>Gérer la confidentialité et la sécurité</li>
     <li>Gestion des intégrations</li>
     <li>Gestion des agents</li>
-    <li>Affichage des équipes d’agents <b>*</b></li>
-    <li>Gérer les équipes d’agents (ajout, modification, suppression) <b>*</b></li></td>
+    <li>Afficher les équipes d’agents <b>*</b></li>
+    <li>Gérer les équipes d’agents (ajouter, modifier, supprimer) <b>*</b></li></td>
   </tr>
 </tbody>
 </table>
@@ -150,10 +150,10 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <td><i>Gestion des conversations</i>
     <li>Afficher les boîtes de dialogue</li>
     <li>Gérer les boîtes de dialogue (créer, supprimer)</li>
-    <li>Publier les boîtes de dialogue</li>
+    <li>Dialogues Publish</li>
     <li>Afficher les flux de conversation</li>
     <li>Gérer les flux de conversation (créer, supprimer)</li>
-    <li>Publier les flux de conversation</li>
+    <li>Flux de conversation Publish</li>
     <br>
     <i>Chat en direct</i>
     <li>s/o</li>
@@ -166,14 +166,14 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
     <br>
-    <i>Paramètres de l’agent</i>
+    <i>Paramètres d’agent</i>
     <li>s/o</li>
     <br>
     <i>Paramètres d’administration</i>
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
-    <li>Affichage des équipes d’agents <b>*</b></li>
+    <li>Afficher les équipes d’agents <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -193,7 +193,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
     <br>
-    <i>Paramètres de l’agent</i>
+    <i>Paramètres d’agent</i>
     <li>Gérer la disponibilité de la messagerie instantanée</li>
     <li>Connexion à votre calendrier</li>
     <li>Gestion de la disponibilité du calendrier</li>
@@ -202,7 +202,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
-    <li>Affichage des équipes d’agents <b>*</b></li>
+    <li>Afficher les équipes d’agents <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -222,7 +222,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher les rapports de tchat en direct</li>
     <li>Afficher les rapports sur les réunions</li>
     <br>
-    <i>Paramètres de l’agent</i>
+    <i>Paramètres d’agent</i>
     <li>Connexion à votre calendrier</li>
     <li>Gestion de la disponibilité du calendrier</li>
     <br>
@@ -230,7 +230,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Affichage d’un tour</li>
     <li>Afficher des règles personnalisées</li>
     <li>Afficher la liste des comptes <b>*</b></li>
-    <li>Affichage des équipes d’agents <b>*</b></li>
+    <li>Afficher les équipes d’agents <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -238,10 +238,10 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <td><i>Gestion des conversations</i>
     <li>Afficher les boîtes de dialogue</li>
     <li>Gérer les boîtes de dialogue (créer, supprimer)</li>
-    <li>Publier les boîtes de dialogue</li>
+    <li>Dialogues Publish</li>
     <li>Afficher les flux de conversation</li>
     <li>Gérer les flux de conversation (créer, supprimer)</li>
-    <li>Publier les flux de conversation</li>
+    <li>Flux de conversation Publish</li>
     <br>
     <i>Chat en direct</i>
     <li>s/o</li>
@@ -255,7 +255,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher les rapports sur les réunions</li>
     <li>Exporter des rapports</li>
     <br>
-    <i>Paramètres de l’agent</i>
+    <i>Paramètres d’agent</i>
     <li>s/o</li>
     <br>
     <i>Paramètres d’administration</i>
@@ -268,7 +268,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Gérer les paramètres de flux de conversation</li>
     <li>Gérer la confidentialité et la sécurité</li>
     <li>Gestion des intégrations</li>
-    <li>Affichage des équipes d’agents <b>*</b></li>
+    <li>Afficher les équipes d’agents <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -290,7 +290,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher les rapports sur les réunions</li>
     <li>Exporter des rapports</li>
     <br>
-    <i>Paramètres de l’agent</i>
+    <i>Paramètres d’agent</i>
     <li>Gérer la disponibilité de la messagerie instantanée</li>
     <li>Connexion à votre calendrier</li>
     <li>Gestion de la disponibilité du calendrier</li>
@@ -302,7 +302,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
     <li>Afficher la liste des comptes <b>*</b></li>
     <li>Gestion des comptes (ajout, modification, suppression) <b>*</b></li>
     <li>Gestion des agents</li>
-    <li>Affichage des équipes d’agents <b>*</b></li>
+    <li>Afficher les équipes d’agents <b>*</b></li>
     <li>Gérer les équipes d’agents <b>*</b></li>
     </td>
   </tr>

@@ -5,8 +5,8 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 0%
+source-wordcount: '230'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Ajout d’un utilisateur {#add-a-user}
 
-1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-1.png)
 
@@ -22,15 +22,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-2.png)
 
-1. Sélectionnez l’abonnement souhaité (si vous en avez plusieurs).
+1. Sélectionnez un abonnement (si vous en avez plusieurs).
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
+1. Cliquez sur l’onglet **[!UICONTROL Utilisateurs]** .
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Ajouter un utilisateur]** bouton .
+1. Cliquez sur le bouton **[!UICONTROL Ajouter un utilisateur]** .
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. Cliquez sur le bouton **+** et sélectionnez le profil de produit souhaité.
+1. Cliquez sur l’icône **+** et sélectionnez le profil de produit souhaité.
 
    ![](assets/add-or-remove-a-user-7.png)
 
    >[!IMPORTANT]
    >
-   >Un utilisateur _must_ être ajouté à un profil de produit afin d’accéder à Marketo Engage.
+   >Un utilisateur _doit_ être ajouté à un profil de produit pour accéder à Marketo Engage.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -54,11 +54,11 @@ L’utilisateur recevra alors un e-mail pour se connecter à Marketo Engage.
 
 >[!NOTE]
 >
->Lorsque l’utilisateur est ajouté au Marketo Engage via Adobe Admin Console, il se voit attribuer le rôle &quot;Utilisateur standard&quot; dans l’espace de travail par défaut de l’abonnement. Si le rôle de l’utilisateur dans l’espace de travail doit être ajusté, cela se fait en Marketo Engage, [comme décrit ici](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Lorsque l’utilisateur est ajouté au Marketo Engage via Adobe Admin Console, il se voit attribuer le rôle &quot;Utilisateur standard&quot; dans l’espace de travail par défaut de l’abonnement. Si le rôle de l’utilisateur dans l’espace de travail doit être ajusté, cela se fait dans Marketo Engage, [ comme décrit ici](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Suppression d’un utilisateur {#remove-a-user}
 
-1. Connectez-vous au [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
 
@@ -66,19 +66,19 @@ L’utilisateur recevra alors un e-mail pour se connecter à Marketo Engage.
 
    ![](assets/add-or-remove-a-user-10.png)
 
-1. Sélectionnez l’abonnement souhaité (si vous en avez plusieurs).
+1. Sélectionnez un abonnement (si vous en avez plusieurs).
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
+1. Cliquez sur l’onglet **[!UICONTROL Utilisateurs]** .
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur le bouton **[!UICONTROL Supprimer]** bouton .
+1. Sélectionnez l’utilisateur à supprimer et cliquez sur le bouton **[!UICONTROL Supprimer]** .
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Cliquez sur **[!UICONTROL Supprimer un utilisateur]** pour confirmer.
+1. Cliquez sur **[!UICONTROL Supprimer l’utilisateur]** pour confirmer.
 
    ![](assets/add-or-remove-a-user-14.png)
 
@@ -86,5 +86,5 @@ L’utilisateur recevra alors un e-mail l’informant qu’il n’a plus accès 
 
 >[!MORELIKETHIS]
 >
->* [Utilisateurs de Adobe Admin Console](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Utilisateurs de Adobe Admin Console](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
 >* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

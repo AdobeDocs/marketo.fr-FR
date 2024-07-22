@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Explorez un rapport Performance des personnes afin d’afficher des informations supplémentaires sur les personnes.
 
-1. Cliquez sur le bouton **Rapport** pour afficher n’importe quel rapport existant.
+1. Cliquez sur l’onglet **Rapport** pour afficher un rapport existant.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Explorez un rapport Performance des personnes afin d’afficher des informations
 
    ![](assets/two.png)
 
-1. Cliquez sur **Zoom avant**.
+1. Cliquez sur **Drill-Down**.
 
    ![](assets/three.png)
 
-1. Dans le **Zoom avant** s’affiche, sélectionnez l’attribut vers lequel vous souhaitez effectuer une analyse. Cliquez ensuite sur **Zoom avant**.
+1. Dans la fenêtre contextuelle **Zoom avant**, sélectionnez l’attribut vers lequel vous souhaitez effectuer une analyse. Cliquez ensuite sur **Zoom avant**.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Explorez un rapport Performance des personnes afin d’afficher des informations
 
    ![](assets/five.png)
 
-1. Pour enregistrer vos résultats (facultatif), cliquez sur le bouton **Exporter** en bas à gauche.
+1. Pour enregistrer vos résultats (facultatif), cliquez sur l’icône **Exporter** en bas à gauche.
 
    ![](assets/six.png)

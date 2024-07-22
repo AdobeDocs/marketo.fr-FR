@@ -31,11 +31,11 @@ Créez de beaux emails à l’aide de nos nouveaux modèles de démarrage ! De p
 
 >[!NOTE]
 >
->La version 2.0 de l’éditeur de courrier électronique (avec le sélecteur de modèle) sera progressivement déployée à partir du 3 juin. Nous allons terminer le déploiement d’ici le 30 juin. Contrairement à Email Insights, vous ne serez pas averti lorsque vous y aurez accès. Pour voir si vous le faites, suivez les étapes de la section [cet article](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
+>La version 2.0 de l’éditeur de courrier électronique (avec le sélecteur de modèle) sera progressivement déployée à partir du 3 juin. Nous allons terminer le déploiement d’ici le 30 juin. Contrairement à Email Insights, vous ne serez pas averti lorsque vous y aurez accès. Pour voir si vous le faites, suivez les étapes de [cet article](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [Modification des emails : repensée](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## [Edition d&#39;emails—Réinventé](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
 
 C&#39;est vrai, un nouvel éditeur d&#39;email ! Utilisez la fonction de glisser-déposer légère pour ajouter et réorganiser du contenu. Les nouveaux éléments, y compris les images, les vidéos, les variables et les modules, ne manqueront pas d’améliorer votre expérience d’édition. Consultez également la prise en charge mise à jour de l’éditeur de code, de l’aperçu et du pré-titre.
 
@@ -53,31 +53,31 @@ C&#39;est fini le jour où vous devez tout réapprouver chaque fois qu&#39;un fr
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Page d’entrée, modèle de page d’entrée et API de formulaire](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [Landing Page, Landing Page Template et API de formulaire](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Les API REST Marketo prennent désormais en charge le contrôle des landing pages, des modèles de landing page et des formulaires Marketo. Les utilisateurs peuvent désormais créer, mettre à jour du contenu, approuver et supprimer ces ressources directement via l’API REST Marketo.
 
-## [PLACÉ SUR LA LISTE AUTORISÉE IP pour l’accès aux API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## [Liste autorisée IP pour l’accès à l’API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Tout comme la fonction d’liste autorisée IP pour les connexions d’utilisateurs Marketo, les administrateurs Marketo peuvent désormais configurer une liste autorisée d’adresses IP qui peuvent accéder aux API SOAP et REST Marketo, bloquant ainsi l’accès à partir d’adresses IP non autorisées. Cela offre une couche de sécurité supplémentaire à votre instance Marketo et garantit que l’accès à l’API ne peut se produire que depuis le réseau de votre entreprise. Pour plus d’informations sur la configuration, voir [Site de documentation de Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Tout comme la fonction d’liste autorisée d’adresses IP pour les connexions d’utilisateurs Marketo, les administrateurs Marketo peuvent désormais configurer une liste autorisée d’adresses IP qui peuvent accéder aux API Marketo SOAP et REST, bloquant ainsi l’accès à partir d’adresses IP non autorisées. Cela offre une couche de sécurité supplémentaire à votre instance Marketo et garantit que l’accès à l’API ne peut se produire que depuis le réseau de votre entreprise. Vous trouverez des détails sur la configuration sur le [site de documentation Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [Nouveau connecteur de synchronisation Microsoft Dynamics à haute vitesse](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [Nouveau connecteur de synchronisation Microsoft à haute vitesse ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Le nouveau connecteur Dynamics à haute vitesse offre des vitesses jusqu’à 20 fois plus rapides pour la synchronisation initiale et jusqu’à 5 fois plus rapides pour la synchronisation incrémentielle. Tous les nouveaux clients embarqueront sur ce connecteur à la date de publication et nous le déploierons progressivement vers les clients existants au cours de la période de publication d’été.
 
-**Actualiser les données des nouveaux champs**: vous pouvez maintenant activer de nouveaux champs de synchronisation à tout moment et toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM vers Marketo. Plus question de devoir sélectionner tous les champs lors de la configuration initiale. Si vous désactivez un champ de synchronisation existant et le réactivez ultérieurement, toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM vers Marketo.
+**Actualiser les données pour les nouveaux champs** : vous pouvez désormais activer de nouveaux champs de synchronisation à tout moment et toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM dans Marketo. Plus question de devoir sélectionner tous les champs lors de la configuration initiale. Si vous désactivez un champ de synchronisation existant et le réactivez ultérieurement, toutes les valeurs de données de ce champ seront actualisées de Dynamics CRM vers Marketo.
 
-**Synchroniser le prospect en tant que contact**: l’action de flux Piste de synchronisation vers Microsoft dispose d’une nouvelle option de synchronisation en tant que prospect ou contact.
+**Piste de synchronisation en tant que contact** : l’action de flux Piste de synchronisation vers Microsoft dispose d’une nouvelle option de synchronisation en tant que piste ou contact.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Onglet d’administration des erreurs de synchronisation**: pistes de navigation, de recherche ou d’exportation (et autres objets) qui n’ont pas pu être synchronisées avec des détails tels que l’opération, la direction, le code d’erreur et le message d’erreur.
+**Onglet d’administration des erreurs de synchronisation** : pistes de navigation, de recherche ou d’exportation (et autres objets) qui n’ont pas pu être synchronisées avec des détails tels que l’opération, la direction, le code d’erreur et le message d’erreur.
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: Connector est entièrement certifié pour les versions Dynamics 2016 en ligne et On-premise.
+**Microsoft Dynamics 2016** : le connecteur est entièrement certifié pour les versions Dynamics 2016 en ligne et On-premise.
 
-**Les mises à jour du module externe sont maintenant documentées :** Voir [article sur les docs concernant les mises à jour de plug-in](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+**Les mises à jour de plug-in sont maintenant documentées :** Voir l’ [ article sur la documentation des mises à jour de plug-in](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [Nom d’instance convivial](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -99,4 +99,4 @@ Vous pouvez désormais afficher le nombre d’enregistrements et de champs pour 
 
 ## Activités personnalisées {#custom-activities}
 
-Les administrateurs Marketo peuvent désormais définir et gérer leurs types d’activité personnalisés via le modeleur Définition d’activité personnalisée de Marketo. Tout comme le modèle d’objet personnalisé Marketo (et conjointement avec lui), les administrateurs peuvent désormais étendre le modèle de données en fonction de leurs besoins professionnels. Pour plus d’informations sur l’utilisation de cette fonctionnalité, voir [Site de documentation de Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Les administrateurs Marketo peuvent désormais définir et gérer leurs types d’activité personnalisés via le modeleur Définition d’activité personnalisée de Marketo. Tout comme (et conjointement avec) le Modeler d’objet personnalisé de Marketo, les administrateurs peuvent désormais étendre le modèle de données en fonction de leurs besoins professionnels exacts. Pour plus d&#39;informations sur l&#39;utilisation de cette fonctionnalité, consultez le [site de documentation Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).

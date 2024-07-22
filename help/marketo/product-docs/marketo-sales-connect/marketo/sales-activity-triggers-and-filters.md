@@ -20,7 +20,7 @@ Suivez les étapes ci-dessous pour savoir comment utiliser les filtres et décle
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. Dans le **Liste dynamique** , recherchez &quot;Applications commerciales&quot;.
+1. Dans l’onglet **Liste dynamique**, recherchez &quot;Applications commerciales&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Suivez les étapes ci-dessous pour savoir comment utiliser les filtres et décle
 
 >[!NOTE]
 >
->Pour obtenir une liste complète des activités, des contraintes et des définitions, consultez notre [Glossaire des activités de vente](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Pour obtenir une liste complète des activités, des contraintes et des définitions, consultez notre [Glossaire des activités commerciales](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

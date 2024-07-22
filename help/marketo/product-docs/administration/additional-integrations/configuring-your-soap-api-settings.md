@@ -21,21 +21,21 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Cliquez sur **[!UICONTROL Services web]**.
+1. Cliquez sur **[!UICONTROL Services Web]**.
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
-1. Définissez les **[!UICONTROL Clé de chiffrement]**, cliquez sur **[!UICONTROL Enregistrer les modifications]** et transmettez toutes les informations à votre développeur.
+1. Définissez une **[!UICONTROL clé de chiffrement]** appropriée, cliquez sur **[!UICONTROL Enregistrer les modifications]** et transmettez toutes les informations à votre développeur.
 
    ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->Votre point d’entrée SOAP et [!UICONTROL Identifiant utilisateur] sera unique. N’envoyez pas la capture d’écran de cet article à votre développeur.
+>Votre point de terminaison SOAP et l’[!UICONTROL ID utilisateur] seront uniques ; n’envoyez pas la capture d’écran de cet article à votre développeur.
 
 >[!MORELIKETHIS]
 >

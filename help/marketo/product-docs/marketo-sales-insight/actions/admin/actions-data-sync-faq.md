@@ -23,8 +23,8 @@ Cette synchronisation peut être activée à partir de l’onglet Configuration 
 Le diagramme ci-dessus montre comment l’activité des personnes et les données de tâche peuvent se synchroniser entre les systèmes. Quelques éléments à noter :
 
 * Les enregistrements de personnes sont synchronisés avec les actions d’aperçu des ventes du Marketo Engage, ce qui rend Marketo Engage la source de vérité pour les données des personnes dans les actions d’aperçu des ventes
-* Actions Marketo Engage et d’aperçu des ventes [avoir un mécanisme ;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) pour collecter et synchroniser l’état de désabonnement à Salesforce
-* L’état de désabonnement ne se synchronise pas des actions de vente avec le Marketo Engage, mais les actions de statistiques sur les ventes peuvent être configurées pour vérifier l’état de désabonnement Marketo des personnes avant de permettre aux vendeurs d’envoyer un email avec [Vérification du désabonnement Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Les actions Marketo Engage et Sales Insight [ ont un mécanisme](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) pour collecter et synchroniser l’état de désabonnement à Salesforce
+* L’état de désabonnement ne se synchronise pas des actions de vente avec le Marketo Engage, mais les actions de statistiques de vente peuvent être configurées pour vérifier l’état de désabonnement Marketo des personnes avant de permettre aux vendeurs d’envoyer un email avec la [vérification de désabonnement Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Vous trouverez ci-dessous quelques questions fréquentes relatives au fonctionnement de la synchronisation de l’unification des données.
 
@@ -72,7 +72,7 @@ La configuration des champs de Marketo Engage synchronisés avec les actions d�
 
 ## Pourquoi les actions d’aperçu des ventes ont-elles leur propre base de données ? {#why-does-actions-have-its-own-database}
 
-Les actions Sales Insight possèdent leur propre application web avec une base de données dédiée de personnes et d’activités afin de fournir un espace de travail optimisé conçu et conçu pour les équipes commerciales. Cela permet aux responsables commerciaux et aux vendeurs de disposer d’un espace pour élaborer et gérer leur stratégie d’engagement sans accorder d’accès ou de privilèges à l’espace de travail du Marketo Engage principal, qui est optimisé pour les spécialistes des opérations marketing.
+Les actions Sales Insight possèdent leur propre application web avec une base de données dédiée de personnes et d’activités afin de fournir un espace de travail optimisé conçu et conçu pour les équipes commerciales. Cela permet aux responsables commerciaux et aux vendeurs de disposer d’un espace pour élaborer et gérer leur stratégie d’engagement.   sans accorder d’accès ou de privilèges à l’espace de travail principal du Marketo Engage, qui est optimisé pour les spécialistes des opérations marketing.
 
 ## Comment les doublons sont-ils traités ? {#how-are-duplicates-handled}
 
@@ -113,12 +113,12 @@ Les actions Sales Insight permettent aux administrateurs de configurer les activ
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Le diagramme ci-dessus montre les informations consignées à Salesforce. Les activités telles que les e-mails et les appels sont consignées dans Salesforce dans une [synchronisation unidirectionnelle](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Désabonne](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) et [Tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) sont tenus à jour avec une synchronisation bidirectionnelle. Chacune de ces synchronisations de données peut être configurée à partir de l’interface de l’application web Actions d’aperçu commercial.
+Le diagramme ci-dessus montre les informations consignées à Salesforce. Les activités telles que les emails et les appels sont consignées dans Salesforce dans une [synchronisation unidirectionnelle](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Se désabonne](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) et [Tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) sont mises à jour avec une synchronisation bidirectionnelle. Chacune de ces synchronisations de données peut être configurée à partir de l’interface de l’application web Actions d’aperçu commercial.
 
 >[!MORELIKETHIS]
 >
 >* [Synchronisation des désabonnements avec Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
->* [Vérification du désabonnement Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+>* [Vérification de désabonnement Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Paramètres de synchronisation Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Synchronisation de la tâche de rappel avec Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Lancer la synchronisation des données](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)

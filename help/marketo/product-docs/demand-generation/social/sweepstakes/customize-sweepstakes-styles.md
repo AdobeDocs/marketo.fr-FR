@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Personnalisation des styles de tirage {#customize-sweepstakes-styles}
 
-Lorsque vous [création d’un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez personnaliser son aspect sur votre page d’entrée.
+Lorsque vous [créez un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez personnaliser son aspect sur votre page d’entrée.
 
 >[!AVAILABILITY]
 >
@@ -38,15 +38,15 @@ Lorsque vous [création d’un tirage](/help/marketo/product-docs/demand-generat
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Exemple de CSS pour **Bouton Entrée**:
+   Exemple de CSS pour **Enter Button** :
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Exemple d’image pour **Bouton Entrée**:
+   Exemple d’image pour **Bouton Entrée** :
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Si vous utilisez une image avec du texte dessus, pensez à supprimer le texte de la variable **Bouton Entrée** sous Texte ci-dessus.
+   >Si vous utilisez une image avec du texte dessus, pensez à supprimer le texte du champ **Bouton d’entrée** sous Texte ci-dessus.
 
 1. A chaque modification, le résultat s’affiche dans l’aperçu Afficher et modifier .
 
@@ -58,4 +58,4 @@ Lorsque vous [création d’un tirage](/help/marketo/product-docs/demand-generat
 
    >[!MORELIKETHIS]
    >
-   >L’étape suivante consiste à ajouter [e-mails d’inscription et d’exécution à votre tirage](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >L’étape suivante consiste à ajouter des [emails d’inscription et d’exécution à vos tirages](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

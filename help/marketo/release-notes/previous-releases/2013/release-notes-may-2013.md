@@ -6,18 +6,18 @@ exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '135'
 ht-degree: 2%
 
 ---
 
-# Notes de mise à jour : Mai 2013 {#release-notes-may}
+# Notes de mise à jour : mai 2013 {#release-notes-may}
 
 Les fonctionnalités suivantes sont incluses dans la version de mai.
 
 ## Fichiers de calendrier pour les pages d’entrée {#calendar-files-for-landing-pages}
 
-Créez un fichier de calendrier appelé Mon jeton qui peut être ajouté à votre landing page. Ce fichier de calendrier intégré (par ex. fichier .ics) effectue le rendu de tous les jetons, y compris Mes jetons sur les pages d’entrée des ressources locales.
+Créez un fichier de calendrier appelé Mon jeton qui peut être ajouté à votre landing page. Ce fichier de calendrier intégré (fichier .ics, par exemple) effectuera le rendu de tous les jetons, y compris Mes jetons sur les pages d’entrée des ressources locales.
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 

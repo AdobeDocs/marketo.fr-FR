@@ -18,11 +18,11 @@ En tant qu’administrateur, vous pouvez afficher les campagnes comme n’import
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans l’application web, cliquez sur **Campagnes**.
+1. Dans l&#39;application web, cliquez sur **Campagnes**.
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. Cliquez sur le bouton **Afficher sous** et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur la liste déroulante **Afficher comme** et sélectionnez un utilisateur.
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 

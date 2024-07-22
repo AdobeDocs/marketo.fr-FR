@@ -6,26 +6,26 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 18%
+source-wordcount: '200'
+ht-degree: 23%
 
 ---
 
 # Gérer les données personnelles {#manage-person-data}
 
-Tirez parti des données personnelles pour la personnalisation web en sélectionnant les champs de personne à utiliser dans votre segmentation.
+Tirez parti des données personnelles du Personalization web en sélectionnant les champs de personne à utiliser dans votre segmentation.
 
 1. Accédez à **Paramètres du compte**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Accédez à **Base**.
+1. Accédez à **Base de données**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Ajout d’un champ Personne {#adding-a-new-person-field}
 
-1. Sélectionner **Champ à ajouter** dans la liste déroulante pour ajouter un champ de données de personne à la liste.
+1. Sélectionnez **Champ à ajouter** dans la liste déroulante pour ajouter un champ de données de personne à la liste.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -52,8 +52,8 @@ Tirez parti des données personnelles pour la personnalisation web en sélection
 <table> 
  <tbody> 
   <tr> 
-   <th><p>Nom de l’API REST</p></th> 
-   <th><p>Nom de l’API SOAP</p></th> 
+   <th><p>REST API Nom</p></th> 
+   <th><p>SOAP API Nom</p></th> 
    <th><p>Nom convivial</p></th> 
   </tr> 
   <tr> 
@@ -99,8 +99,8 @@ Tirez parti des données personnelles pour la personnalisation web en sélection
  </tbody> 
 </table>
 
-Les champs de piste suivants sont fournis prêts à l’emploi pour les nouveaux comptes de personnalisation web :
+Les champs de piste suivants sont fournis prêts à l’emploi pour les nouveaux comptes Web Personalization :
 
 >[!MORELIKETHIS]
 >
->[Création d’un segment à l’aide de données de personne connues](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[Créer un segment à l’aide de données de personne connues](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

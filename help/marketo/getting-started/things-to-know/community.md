@@ -4,7 +4,8 @@ title: Communauté Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Communauté Adobe Marketo Engage {#marketo-engage-community}
 
-La variable [Communauté Adobe Marketo Engage](https://nation.marketo.com/) (également connu sous le nom de nation marketing) est l’endroit où vous pouvez en savoir plus sur votre instance de Marketo Engage auprès d’autres utilisateurs ainsi que d’employés de Marketo. Avant d&#39;entrer, prenez quelques instants pour vous familiariser avec le [Instructions de la communauté](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+La [communauté Adobe Marketo Engage](https://nation.marketo.com/) (également connue sous le nom de nation marketing) est l’endroit où vous pouvez en savoir plus sur votre instance de Marketo Engage auprès d’autres utilisateurs ainsi que d’employés de Marketo. Avant de vous lancer, prenez quelques instants pour vous familiariser avec les [directives de la communauté](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Enregistrer votre nom d’utilisateur {#register-your-username}
 
@@ -33,7 +34,7 @@ CAPTURE D’ÉCRAN
 
 ## Configuration de votre profil {#set-up-your-profile}
 
-Lorsque vous êtes connecté à Marketing Nation, cliquez sur l’icône d’avatar par défaut et sélectionnez **[!UICONTROL Mes paramètres]** pour mettre à jour vos préférences, modifiez votre photo d’avatar, contrôlez le balisage, etc.
+Lorsque vous êtes connecté à Marketing Nation, cliquez sur l’icône de votre avatar par défaut et sélectionnez **[!UICONTROL Mes paramètres]** pour mettre à jour vos préférences, modifiez votre photo d’avatar, contrôlez le balisage, etc.
 
 CAPTURE D’ÉCRAN
 
@@ -85,7 +86,7 @@ CAPTURE D’ÉCRAN
 
 Suivez les étapes ci-dessous pour fusionner l’historique entre plusieurs profils de communauté. Il est recommandé d’écraser le profil communautaire qui comporte moins d’activités communautaires, car les données de profil remplacées ne peuvent pas être récupérées.
 
-Envoi d’un courrier électronique à `ccare@marketo.com` pour demander la fusion des données de vos différents profils de la communauté dans le profil associé à votre abonnement à la production principale. Lors de la fusion des profils, vous perdrez l’activité historique du profil remplacé de votre choix.
+Envoyez un email à `ccare@marketo.com` pour demander que les données de vos différents profils de la communauté soient fusionnées dans le profil associé à votre abonnement à la production principale. Lors de la fusion des profils, vous perdrez l’activité historique du profil remplacé de votre choix.
 
 Dans votre requête, veuillez spécifier les détails suivants :
 

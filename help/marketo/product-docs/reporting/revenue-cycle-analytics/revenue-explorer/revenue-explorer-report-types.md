@@ -13,7 +13,7 @@ ht-degree: 10%
 
 # Types de rapports de l’Explorateur des recettes {#revenue-explorer-report-types}
 
-Vous trouverez ci-dessous les types de rapports que vous rencontrerez si vous utilisez les rapports de cycle du chiffre d’affaires d’Analytics.
+Vous trouverez ci-dessous les types de rapports que vous rencontrerez si vous utilisez les rapports de cycle du chiffre d’affaires Analytics.
 
 <table> 
  <thead> 
@@ -24,7 +24,7 @@ Vous trouverez ci-dessous les types de rapports que vous rencontrerez si vous ut
  </thead> 
  <tbody> 
   <tr> 
-   <td>Analyse de l’e-mail</td> 
+   <td>Analyse de l'e-mail</td> 
    <td>Mesures et attributs liés à des emails spécifiques envoyés</td> 
   </tr> 
   <tr> 
@@ -57,7 +57,7 @@ Vous trouverez ci-dessous les types de rapports que vous rencontrerez si vous ut
   </tr> 
   <tr> 
    <td>Analyse de l’état des recettes du programme</td> 
-   <td>Mesures et attributs en fonction de votre modèle de cycle du chiffre d’affaires</td> 
+   <td>Mesures et attributs en fonction de votre modèle de cycle du revenu</td> 
   </tr> 
  </tbody> 
 </table>

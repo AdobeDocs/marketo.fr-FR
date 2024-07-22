@@ -7,15 +7,15 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
 # SEO - Obtenir des suggestions de lien entrant {#seo-get-inbound-link-suggestions}
 
-Marketo peut suggérer les liens entrants qui sont utiles à vos [optimisation hors page](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo peut suggérer les liens entrants qui sont utiles à l’ [optimisation hors page](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Accédez au **[!UICONTROL Liens entrants]** .
+1. Accédez à la section **[!UICONTROL Liens entrants]** .
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
@@ -23,7 +23,7 @@ Marketo peut suggérer les liens entrants qui sont utiles à vos [optimisation h
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. Saisissez un mot-clé. Cliquez sur **[!UICONTROL Liens de suggestion]**.
+1. Saisissez un mot-clé. Cliquez sur **[!UICONTROL Suggest Links]**.
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
@@ -33,10 +33,10 @@ Marketo peut suggérer les liens entrants qui sont utiles à vos [optimisation h
 
    >[!TIP]
    >
-   >Savais-tu que tu pouvais ?  [ajouter votre lien à une liste existante ou à une nouvelle liste](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? Découvrez-le ! 
+   >Saviez-vous que vous pouvez [ajouter votre lien à une liste existante ou nouvelle](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md) ? Regardez !
 
-Super ! Ces liens ajoutés seront désormais suivis.
+Super ! Ces liens ajoutés seront désormais suivis.
 
 >[!NOTE]
 >
->[Présentation des liens entrants](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>[Comprendre les liens entrants](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

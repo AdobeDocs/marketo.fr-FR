@@ -6,7 +6,7 @@ exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ La connexion à Gmail signifie que vous recevrez le suivi des réponses, l’acc
 
 >[!CAUTION]
 >
->Si vous êtes [utilisation des filtres](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} ou les règles de votre compte Gmail pour marquer automatiquement les emails comme étant lus, ce qui peut entraîner des problèmes avec le suivi des réponses. Nous vous recommandons de désactiver toutes les règles qui marquent automatiquement les emails comme lus lors de l&#39;utilisation du suivi des réponses avec Gmail.
+>Si vous [utilisez des filtres](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} ou des règles dans votre compte Gmail pour marquer automatiquement les emails comme lus, cela peut entraîner des problèmes avec le suivi des réponses. Nous vous recommandons de désactiver toutes les règles qui marquent automatiquement les emails comme lus lors de l&#39;utilisation du suivi des réponses avec Gmail.
 
 1. Dans Sales Connect, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/one.png)
 
-1. Sous Mon compte, sélectionnez **Paramètres de messagerie électronique**.
+1. Sous Mon compte, sélectionnez **Paramètres de courrier électronique**.
 
    ![](assets/two.png)
 
-1. Cliquez sur le bouton **Connexion par e-mail** .
+1. Cliquez sur l’onglet **Connexion par e-mail** .
 
    ![](assets/three.png)
 
-1. Cliquez sur **Prise en main**.
+1. Cliquez sur **Commencer**.
 
    ![](assets/four.png)
 
-1. Sélectionner **J&#39;utilise Gmail pour envoyer des emails** et cliquez sur **Suivant**.
+1. Sélectionnez **J&#39;utilise Gmail pour envoyer des emails** et cliquez sur **Suivant**.
 
    ![](assets/five.png)
 

@@ -5,8 +5,8 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 17%
+source-wordcount: '395'
+ht-degree: 12%
 
 ---
 
@@ -60,15 +60,15 @@ Sales Dialer facilite la communication internationale. Pour les clients qui appe
   </tr> 
   <tr> 
    <td>Grèce </td> 
-   <td>30, 3021</td> 
+   <td>30 3021</td> 
   </tr> 
   <tr> 
    <td>Hongrie</td> 
-   <td>36, 361</td> 
+   <td>36 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irlande </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">353 3531</td> 
   </tr> 
   <tr> 
    <td>Israël</td> 
@@ -112,7 +112,7 @@ Sales Dialer facilite la communication internationale. Pour les clients qui appe
   </tr> 
   <tr> 
    <td colspan="1">Pologne </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -143,18 +143,18 @@ Sales Dialer facilite la communication internationale. Pour les clients qui appe
 
 ## FAQ sur l’appel international {#international-calling-faq}
 
-**Pourquoi les actions de Sales Insight ne prennent-elles pas en charge les appels internationaux pour tous les pays ?**
+**Pourquoi les actions Sales Insight ne prennent-elles pas en charge les appels internationaux pour tous les pays ?**
 
 Aujourd’hui, nous vous proposons d’appeler le service de dialecte de vente à l’étranger sans frais supplémentaires. Nous voulons que vous puissiez communiquer facilement avec vos propres prospects et clients. C&#39;est pourquoi nous avons lancé la prise en charge des appels internationaux à tarifs standard. Nous fournissons une couverture à 34 pays en dehors des États-Unis et du Canada pour des régions d&#39;Europe, d&#39;Asie et d&#39;autres destinations clés. Nous continuerons à nous développer en fonction des commentaires des clients.
 
-**Si je suis en dehors des États-Unis, de quels pays puis-je appeler ?**
+**Si je suis en dehors des États-Unis, de quels pays puis-je appeler et vers ?**
 
 Voici la liste des pays que nous ne prenons actuellement pas en charge les appels depuis et vers . Si le pays que vous appelez est soutenu, vous pourrez appeler n&#39;importe quel autre pays international que nous soutenons.
 
-**Existe-t-il des types spécifiques de nombres que je ne peux pas appeler avec le Dialer de ventes ?**
+**Existe-t-il des types de nombres spécifiques que je ne peux pas appeler avec le dialecte de ventes ?**
 
 Oui. Nous ne prenons pas en charge les appels vers des numéros de téléphone à tarif élevé (comme 900 aux États-Unis et +449 au Royaume-Uni). En général, nous ne prenons pas en charge l’appel de numéros de téléphone à coût partagé, ainsi que d’un petit nombre d’autres itinéraires haut de gamme.
 
-**Puis-je utiliser la présence locale lors d&#39;un appel international ?**
+**Puis-je utiliser la présence locale lors de l’appel international ?**
 
-Nombre [Présence locale](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) est disponible uniquement pour les numéros aux États-Unis.
+Nombre [La présence locale](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) n’est disponible que pour les numéros des États-Unis.

@@ -23,7 +23,7 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Dans le **Galerie de ressources locale**, cliquez sur **Offre de référent**.
+1. Dans la **Galerie de ressources locale**, cliquez sur **Offre de référence**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,7 +33,7 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
 
    >[!TIP]
    >
-   >Pour gagner du temps, vous pouvez utiliser la variable **Cloner à partir de** pour copier tous les paramètres d’une offre de référence existante.
+   >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’une offre de référence existante.
 
    L&#39;éditeur d&#39;offres de parrainage s&#39;ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont bons, mais vous devez ajouter un lien aux règles de votre offre (conditions générales). Le lien apparaît au bas des écrans de partage de messages. Nous vous montrerons comment procéder à l’étape suivante.
 
@@ -41,13 +41,13 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Ajoutez un lien vers les règles de votre offre. Saisissez le **URL**.
+1. Ajoutez un lien vers les règles de votre offre. Saisissez l’ **URL**.
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >Sur cet écran, vous pouvez également ajouter un lien de politique de confidentialité. Voir  [Ajout de votre politique de confidentialité à une application Social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Sur cet écran, vous pouvez également ajouter un lien de politique de confidentialité. Voir [Ajout de votre politique de confidentialité à une application Social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Cliquez sur **Terminer**.
 
@@ -57,7 +57,7 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
 
    >[!TIP]
    >
-   >Pour modifier les valeurs par défaut de votre offre de parrainage, cliquez sur **Précédent**. Pour enregistrer votre travail ultérieurement sans approbation, cliquez sur **Fermer**.
+   >Pour modifier les valeurs par défaut de votre offre de référence, cliquez sur **Précédent**. Pour enregistrer votre travail pour plus tard sans approbation, cliquez sur **Fermer**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ Félicitations ! Vous avez créé votre offre de parrainage.
 
 >[!MORELIKETHIS]
 >
->L’étape suivante consiste à [publier votre offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) sur une page d’entrée, sur votre site web ou sur Facebook.
+>L’étape suivante consiste à [publier votre offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) sur une page d’entrée, sur votre site web ou sur Facebook.

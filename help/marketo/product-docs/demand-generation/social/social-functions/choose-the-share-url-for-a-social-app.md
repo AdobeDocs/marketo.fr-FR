@@ -19,11 +19,11 @@ Lorsque vous créez une application sociale, vous pouvez choisir l’URL qui ser
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez l’application, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’application et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application** puis **Options avancées**.
+1. Dans l’éditeur d’applications sociales, accédez à **Paramètres de l’application**, puis **Options avancées**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -37,10 +37,10 @@ Lorsque vous créez une application sociale, vous pouvez choisir l’URL qui ser
    >
    >Partager des publications peut renvoyer à trois endroits :
    >
-   >* **Page de référence**: Page contenant l’application.
-   >* **Autres pages d’entrée**: Une page d’entrée Marketo différente de celles de la liste déroulante.
-   >* **URL externe**: Page d’entrée non Marketo.
+   >* **Page de référence** : page contenant l’application.
+   >* **Autre page d’entrée** : une page d’entrée Marketo différente de celles de la liste déroulante.
+   >* **URL externe** : page d’entrée non Marketo.
 
 >[!MORELIKETHIS]
 >
->[Ajout de votre politique de confidentialité à une application Social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+>[Ajout de votre politique de confidentialité à une application sociale](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)

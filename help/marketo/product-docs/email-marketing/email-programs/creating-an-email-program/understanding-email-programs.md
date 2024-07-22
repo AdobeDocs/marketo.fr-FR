@@ -17,7 +17,7 @@ Envoyez des emails, créez des tests A/B et effectuez le suivi de vos résultats
 
 ## Panneau de contrôle {#control-panel}
 
-Quatre boîtes vous tiennent concentré. **Audience** définit le &quot;qui,&quot; **Email** fournit le &quot;quoi&quot;, **Planification** définit &quot;quand&quot; et **Validation** le rend prêt à partir.
+Quatre boîtes vous tiennent concentré. **Audience** définit le &quot;qui&quot;, **Email** fournit le &quot;quoi&quot;, **Planning** définit &quot;quand&quot; et **Approbation** la rend prête à être activée.
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ Découvrez les tests A/B suivants :
 
 >[!CAUTION]
 >
->Pour des rapports précis, évitez les _réutiliser_ un email provenant d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, veuillez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} car copie le courrier électronique, mais en crée un avec un nouvel ID de courrier électronique.
+>Pour une création de rapports exacte, évitez de _réutiliser_ un email d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, [clonez-le](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} à la place, car cela copie l&#39;email mais en crée un avec un nouvel ID d&#39;email.
 
 Profitez des fruits de votre labeur. Les tableaux de bord vous montrent en un coup d’oeil les performances du programme de messagerie et du test A/B.
 
@@ -68,7 +68,7 @@ Utilisez un programme de messagerie dans un programme par défaut pour que les c
 
 >[!NOTE]
 >
->Les programmes de messagerie ne peuvent pas être imbriqués dans [programmes d&#39;engagement](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Ils ne peuvent pas non plus être renvoyés et ne peuvent exécuter qu’un seul test à la fois.
+>Les programmes de messagerie ne peuvent pas être imbriqués dans les [programmes d&#39;engagement](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Ils ne peuvent pas non plus être renvoyés et ne peuvent exécuter qu’un seul test à la fois.
 
 ## Paramètres de planification {#schedule-settings}
 
@@ -76,8 +76,8 @@ Maintenant que vous comprenez les programmes de messagerie, commencez par l’un
 
 >[!MORELIKETHIS]
 >
->* [Création d’un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Créer un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
 >* [Définition d’une audience avec une liste dynamique](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Créer un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >* [Planification de votre programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

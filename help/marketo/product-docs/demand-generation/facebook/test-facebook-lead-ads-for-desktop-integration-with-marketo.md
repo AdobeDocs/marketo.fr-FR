@@ -17,11 +17,11 @@ Après avoir créé votre annonce de piste, vous devez la tester. Voici comment 
 
 >[!PREREQUISITES]
 >
->Vous devez [Configuration de l’intégration Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Vous devez [configurer l’intégration Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Dans Facebook Power Editor, sélectionnez une campagne, une publicité, puis cliquez sur **Modifier**.
 
-1. Sous **Liens**, cliquez sur le bouton **Afficher dans le flux d’actualités** lien.
+1. Sous **Liens**, cliquez sur le lien **Afficher dans le flux d’actualités** .
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -33,7 +33,7 @@ Après avoir créé votre annonce de piste, vous devez la tester. Voici comment 
    >
    >Ce n’est qu’un exemple qui utilise un appel à l’action En savoir plus. L’appel à l’action de votre unité de piste publicitaire peut être différent.
 
-1. Envoyez votre unité de piste de test en remplissant le formulaire sur votre bureau. Cliquez sur **Envoyer**.
+1. Envoyez votre unité de piste de test en remplissant le formulaire sur votre bureau. Cliquez sur **Submit**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ Après avoir créé votre annonce de piste, vous devez la tester. Voici comment 
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. C&#39;est là que la magie se produit ! Une fois votre formulaire envoyé, [création d’une liste dynamique dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou de la base de données qui utilise le filtre Formulaire de publicités avec piste Facebook renseigné . Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d’envoyer.
+1. C&#39;est là que la magie se produit ! Une fois que vous avez envoyé votre formulaire, [créez une liste dynamique dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données qui utilise le filtre Formulaire de publicité de piste Facebook rempli. Insérez le nom du formulaire de piste publicitaire du formulaire que vous venez d’envoyer.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Cliquez maintenant sur le bouton **Personnes** pour vérifier que la synchronisation fonctionne correctement.
+1. Cliquez maintenant sur l’onglet **Personnes** pour vérifier que la synchronisation fonctionne correctement.
 
    ![](assets/people.png)
 
@@ -53,4 +53,4 @@ Après avoir créé votre annonce de piste, vous devez la tester. Voici comment 
 
 >[!MORELIKETHIS]
 >
->[Configuration de publicités Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configuration de publicités Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -6,12 +6,12 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
 
-# Notes de mise à jour : Juin 2012 {#release-notes-june}
+# Notes de mise à jour : juin 2012 {#release-notes-june}
 
 ## Améliorations de la gestion des leads Marketo {#marketo-lead-management-enhancements}
 
@@ -25,7 +25,7 @@ En outre, nous avons amélioré la saisie et l’affichage du texte de descripti
 
 ## Importer l&#39;appariement des champs {#import-field-mapping}
 
-Nous avons facilité l&#39;import d&#39;une liste dans Marketo ! Au cours du processus d&#39;import, vous pouvez associer le nom du champ Marketo au nom de l&#39;en-tête de colonne dans le fichier d&#39;import. De plus, dans Admin, vous pouvez configurer des noms d’alias associés au nom du champ dans Marketo, en vous assurant que vos utilisateurs sélectionnent le champ approprié à chaque fois.
+Nous avons facilité l&#39;import d&#39;une liste dans Marketo ! Au cours du processus d&#39;import, vous pouvez associer le nom du champ Marketo au nom de l&#39;en-tête de colonne dans le fichier d&#39;import. En outre, dans Admin, vous pouvez configurer des noms d’alias mappés au nom du champ dans Marketo, en vous assurant que vos utilisateurs sélectionnent le champ approprié à chaque fois.
 
 Au fur et à mesure que vous continuez à importer et mapper des champs, Marketo mémorisera et affichera les mappages lors de l’importation, afin de faciliter leur utilisation. Et pour simplifier la vie, vous pouvez cliquer sur l’en-tête Exemple de valeur pour afficher les différentes valeurs qui seront renseignées dans le champ. Cela vous permet de vous assurer que vous mappez le champ approprié à chaque fois.
 
@@ -47,7 +47,7 @@ Nous avons ajouté un nouvel onglet à nos pages récapitulatives de ressources,
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Exemple : Utilisé par pour les listes statiques
+Exemple : utilisé par pour les listes statiques
 
 ## Grilles de page d’entrée {#landing-page-gridlines}
 
@@ -65,7 +65,7 @@ Lors de la planification d’une campagne, vous pouvez cliquer sur le lien pour 
 
 ## Étape d’attente - Jeton de piste et mon jeton {#wait-step-lead-token-and-my-token}
 
-Dans notre version de mai, nous avons ajouté des options avancées à l’étape du flux d’attente. Grâce à ces modifications, vous pouvez définir un jour ouvré, une date et une heure. Dans cette version, nous avons ajouté la possibilité d’utiliser un jeton à l’étape d’attente. Par exemple, vous pouvez utiliser `{{lead.Birthday}}` pour envoyer un courrier électronique le jour de leur anniversaire, ou utilisez `{{my.Event Date}}` pour envoyer un dernier rappel de webinaire.
+Dans notre version de mai, nous avons ajouté des options avancées à l’étape du flux d’attente. Grâce à ces modifications, vous pouvez définir un jour ouvré, une date et une heure. Dans cette version, nous avons ajouté la possibilité d’utiliser un jeton à l’étape d’attente. Par exemple, vous pouvez utiliser `{{lead.Birthday}}` pour envoyer un courrier électronique le jour de l’anniversaire ou `{{my.Event Date}}` pour envoyer un rappel de webinaire final.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
@@ -77,7 +77,7 @@ Basculez votre vue d’une liste d’images vers une vue miniature !
 
 Remarque : À compter de cette version, le tri précédent sur les grilles de liste dynamique ne s’appliquera pas à la prochaine liste dynamique que vous affichez. Par exemple, si vous triez une liste dynamique par nom de société, nous ne trierons pas automatiquement la prochaine liste dynamique affichée par ce même champ.
 
-Rappel : Mise à niveau du rapport Performance des emails en cours !
+Rappel : la mise à niveau du rapport Performances des emails est en cours !
 
 ## Améliorations apportées à Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics-enhancements}
 

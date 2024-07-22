@@ -6,7 +6,7 @@ exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Créer un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Une fois que vous avez créé un programme de messagerie, vous pouvez lui indiquer à qui envoyer l’email. Vous pouvez effectuer cette opération en [création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou en important une liste. Pour ce faire, importez une liste.
+Une fois que vous avez créé un programme de messagerie, vous pouvez lui indiquer à qui envoyer l’email. Vous pouvez le faire en [créant une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ou en important une liste. Pour ce faire, importez une liste.
 
 >[!NOTE]
 >
@@ -71,15 +71,15 @@ Une fois que vous avez créé un programme de messagerie, vous pouvez lui indiqu
 >
 >Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquées lors de l&#39;envoi du courrier.
 >
->Utilisez la variable ![—](assets/image2014-10-23-16-3a32-3a36-1.png) sur le bouton **Audience** pour voir le nombre de personnes qualifiées pour recevoir l’e-mail en fonction de critères de liste dynamique. Soustrayez le numéro bloqué du numéro Personnes pour obtenir le nombre total de personnes qui recevront l&#39;email.
+>Utilisez le bouton ![—](assets/image2014-10-23-16-3a32-3a36-1.png) de la mosaïque **Audience** pour voir combien de personnes sont qualifiées pour recevoir l’email en fonction de critères de liste dynamique. Soustrayez le numéro bloqué du numéro Personnes pour obtenir le nombre total de personnes qui recevront l&#39;email.
 
 >[!TIP]
 >
->Vous n’avez pas à attendre la fin de l’importation de la liste. Tu peux continuer à travailler si tu veux.
+>Il n’est pas nécessaire d’attendre la fin de l’importation de la liste. Tu peux continuer à travailler si tu veux.
 
 Fantastique ! Il est maintenant temps de choisir un email déjà existant ou de créer un nouvel email à envoyer à ces personnes.
 
 >[!MORELIKETHIS]
 >
 >* [Choisir un email existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Créer un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

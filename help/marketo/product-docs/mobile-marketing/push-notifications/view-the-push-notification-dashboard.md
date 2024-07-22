@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il est facile de voir comment se comportent vos notifications push.
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -33,9 +33,9 @@ Il est facile de voir comment se comportent vos notifications push.
 
    >[!NOTE]
    >
-   >Le _Envoyé_ peut refléter plus d’envois que le nombre exact de personnes à qui la notification push a été envoyée. C&#39;est parce qu&#39;elle est calculée en fonction de la variable *nombre d’appareils* qui peuvent recevoir votre notification push. Par exemple, si une seule personne possède trois appareils, le tableau de bord en enregistre trois, et non un.
+   >La mesure _Envoyé_ peut refléter plus d&#39;envois que le nombre exact de personnes à qui la notification push a été envoyée. En effet, il est calculé en fonction du *nombre d’appareils* qui peuvent recevoir votre notification push. Par exemple, si une seule personne possède trois appareils, le tableau de bord en enregistre trois, et non un.
 
    >[!MORELIKETHIS]
    >
-   >* [Présentation des notifications push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-   >* [Envoi d’une notification push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+   >* [Comprendre les notifications push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Envoyer une notification push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

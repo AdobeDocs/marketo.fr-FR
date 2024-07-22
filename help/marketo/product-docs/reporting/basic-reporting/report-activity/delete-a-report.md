@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Suppression d’un rapport {#delete-a-report}
 
-Une fois que vous commencez [création de rapports](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), vous pouvez rapidement en obtenir beaucoup. N’oubliez pas de supprimer les rapports dont vous n’avez plus besoin.
+Une fois que vous avez commencé à [créer des rapports](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), vous pouvez rapidement en obtenir beaucoup. N’oubliez pas de supprimer les rapports dont vous n’avez plus besoin.
 
-1. Cliquez avec le bouton droit sur le rapport non nécessaire dans l’arborescence et sélectionnez **Supprimer le rapport**.
+1. Cliquez avec le bouton droit sur le rapport superflu dans l’arborescence et sélectionnez **Supprimer le rapport**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

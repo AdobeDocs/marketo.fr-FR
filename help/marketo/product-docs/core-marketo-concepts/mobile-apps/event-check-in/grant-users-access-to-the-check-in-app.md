@@ -6,7 +6,7 @@ exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’applicatio
 
 ## Création d’un rôle d’utilisateur pour Mobile {#create-a-new-user-role-for-mobile}
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
@@ -29,11 +29,11 @@ Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’applicatio
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Rôles]** , puis cliquez sur **[!UICONTROL Nouveau rôle]**.
+1. Cliquez sur l’onglet **[!UICONTROL Rôles]** , puis sur **[!UICONTROL Nouveau rôle]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Saisissez un nom pour le nouveau rôle et une description facultative. Vérifiez les **[!UICONTROL Accès à l’application mobile]** puis cliquez sur **[!UICONTROL Créer]**.
+1. Saisissez un nom pour le nouveau rôle et une description facultative. Cochez la case **[!UICONTROL Accéder à l’application mobile]** et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,7 +41,7 @@ Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’applicatio
 
 ## Invitation de nouveaux utilisateurs pour l’application d’archivage {#invite-new-users-for-the-check-in-app}
 
-1. Cliquez sur le bouton **[!UICONTROL Utilisateurs]** .
+1. Cliquez sur l’onglet **[!UICONTROL Utilisateurs]** .
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
@@ -49,7 +49,7 @@ Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’applicatio
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Renseignez les informations du nouvel utilisateur. Cochez les cases correspondant à tous les rôles appropriés et au nouveau rôle avec l’autorisation d’accéder à l’application mobile. Cliquez sur **[!UICONTROL Invitation]** lorsque vous avez fini.
+1. Renseignez les informations du nouvel utilisateur. Cochez les cases correspondant à tous les rôles appropriés et au nouveau rôle avec l’autorisation d’accéder à l’application mobile. Cliquez sur **[!UICONTROL Invitation]** lorsque vous avez terminé.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

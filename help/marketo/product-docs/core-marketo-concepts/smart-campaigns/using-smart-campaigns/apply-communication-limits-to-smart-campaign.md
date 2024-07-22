@@ -23,11 +23,11 @@ Ce n&#39;est pas une bonne idée d&#39;envoyer des emails à quelqu&#39;un plusi
 >
 >Lorsqu’une personne dépasse les limites de communication définies, Marketo bloque les emails non opérationnels (les emails opérationnels sont toujours envoyés).
 
-1. Dans votre campagne dynamique, cliquez sur le bouton **[!UICONTROL Planification]** puis **[!UICONTROL Modifier les paramètres]**.
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planning]** , puis **[!UICONTROL Modifier les paramètres]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Vérifiez les **[!UICONTROL Bloquer les emails non opérationnels]** , puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Bloquer les emails non opérationnels]** , puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ Ce n&#39;est pas une bonne idée d&#39;envoyer des emails à quelqu&#39;un plusi
 
 >[!TIP]
 >
->Pour définir cette valeur par défaut, modifiez la variable [limites de communication](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} dans la section Admin .
+>Pour définir cette valeur par défaut, modifiez les [limites de communication](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} dans la section Admin.
 
 Maintenant, vous pouvez être certain que vous n&#39;envoyez pas accidentellement trop d&#39;emails à votre audience.

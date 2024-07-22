@@ -17,29 +17,29 @@ Utilisez un analyseur d’influence d’opportunité pour illustrer le rôle du 
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[Créer un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Accédez à **Analytics** et sélectionnez la variable **Analyseur d’influence d’opportunité**.
+1. Accédez à **Analytics** et sélectionnez l’ **analyseur d’influence d’opportunité**.
 
    ![](assets/analytics-opportunityhand.png)
 
    L’analyseur d’influence d’opportunité est une représentation visuelle des interactions et des succès de programme et d’événement impliqués dans cette opportunité. Explorons le graphique :
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Points orange** représentent des moments intéressants dans l&#39;opportunité (emails ouverts, commerce, visites à la fois, téléchargements de livres blancs, etc.). Les points plus grands indiquent davantage d’interactions.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Les points orange** représentent des moments intéressants de l’opportunité (emails ouverts, commerce, visites de commerce, téléchargements de livres blancs, etc.). Les points plus grands indiquent davantage d’interactions.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Icônes de liaison** indiquer les succès du programme.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Les icônes de liaison** indiquent les succès du programme.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Icônes du calendrier** indiquent les succès de l’événement.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Les icônes du calendrier** indiquent les succès de l’événement.
 
-   * **Période des opportunités**. La zone verte représente l&#39;opportunité elle-même, de la création d&#39;opportunités à la fermeture des opportunités (gagnées ou perdues).
+   * **Période d’opportunité**. La zone verte représente l&#39;opportunité elle-même, de la création d&#39;opportunités à la fermeture des opportunités (gagnées ou perdues).
 
-   * **Cycle de vie d&#39;une opportunité**. Les zones grises avant et après la période d&#39;opportunité verte montrent les interactions qui ont conduit et suivi l&#39;opportunité.
+   * **Cycle de vie de l’opportunité**. Les zones grises avant et après la période d&#39;opportunité verte montrent les interactions qui ont conduit et suivi l&#39;opportunité.
 
-   Le **Paramètres** panel répertorie les personnes du compte :
+   Le panneau **Paramètres** répertorie les personnes du compte :
 
-   * Le **nombre entre parenthèses** est le nombre d’interactions avec ce contact.
+   * Le nombre **entre parenthèses** est le nombre d’interactions avec ce contact.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Le **étoile jaune** indique le Principal contact.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)L’ **étoile jaune** indique le contact principal.
 
 1. Passez la souris sur un nom pour voir le titre de l’emploi de cette personne et la source de son implication dans l’opportunité.
 

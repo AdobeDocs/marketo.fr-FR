@@ -17,15 +17,15 @@ Les landing pages sont en mode préliminaire jusqu’à ce que vous les approuvi
 
 ## Approuver une page d’entrée {#approve-a-landing-page}
 
-1. Sélectionnez une landing page, accédez à **Actions de page d’entrée** et cliquez sur **Approuver**.
+1. Sélectionnez une landing page, accédez à **Landing Page Actions** et cliquez sur **Approve**.
 
    >[!TIP]
    >
-   >Vous pouvez [approuver plusieurs pages à la fois](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) pour rendre ta vie plus facile.
+   >Vous pouvez [approuver plusieurs pages à la fois](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) pour faciliter votre vie.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et cliquer sur **Approuver**.
+1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et cliquer sur **Approve**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -33,23 +33,23 @@ Les landing pages sont en mode préliminaire jusqu’à ce que vous les approuvi
    >
    >Une fois approuvé, l’icône de page d’entrée comporte une coche verte.
 
-## Annulation de l’approbation d’une page d’entrée {#unapprove-a-landing-page}
+## Désapprobation d’une page d’entrée {#unapprove-a-landing-page}
 
-1. Sélectionnez une landing page, accédez à **Actions de page d’entrée** et cliquez sur **Ne pas approuver**.
+1. Sélectionnez une page d’entrée, accédez à **Actions de page d’entrée** et cliquez sur **Ne plus approuver**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et cliquer sur **Ne pas approuver**.
+1. Vous pouvez également cliquer avec le bouton droit sur votre landing page et cliquer sur **Ne plus approuver**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->Votre landing page non approuvée n’est plus publiée sur le web et ne génère aucune activité supplémentaire. Les visiteurs des landing pages non approuvées et de leurs onglets Facebook verront le [Page de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>Votre landing page non approuvée n’est plus publiée sur le web et ne génère aucune activité supplémentaire. Les visiteurs des pages d’entrée non approuvées et de leurs onglets Facebook verront la [page de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Suppression d’une page d’entrée {#delete-a-landing-page}
 
-1. Sélectionnez une landing page, accédez à **Actions de page d’entrée** et cliquez sur **Supprimer**.
+1. Sélectionnez une landing page, accédez à **Landing Page Actions** et cliquez sur **Supprimer**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -65,7 +65,7 @@ Les landing pages sont en mode préliminaire jusqu’à ce que vous les approuvi
 
 Vous souhaitez supprimer plusieurs landing pages à la fois ? Voici comment.
 
-1. Dans Design Studio, cliquez sur **Pages d’entrée**.
+1. Dans Design Studio, cliquez sur **Landing Pages**.
 
    ![](assets/one.png)
 
@@ -77,7 +77,7 @@ Vous souhaitez supprimer plusieurs landing pages à la fois ? Voici comment.
    >
    >Vous pouvez également utiliser la touche ctrl+clic pour supprimer plusieurs landing pages qui ne sont pas séquentielles.
 
-1. Cliquez sur le bouton **Actions de page d’entrée** et sélectionnez **Supprimer**.
+1. Cliquez sur la liste déroulante **Actions de page d’entrée** et sélectionnez **Supprimer**.
 
    ![](assets/three.png)
 
@@ -85,4 +85,4 @@ Vous souhaitez supprimer plusieurs landing pages à la fois ? Voici comment.
 
    ![](assets/four.png)
 
-Super ! Vous savez maintenant comment approuver, annuler l’approbation et supprimer des landing pages.
+Super ! Vous savez maintenant comment approuver, annuler l’approbation et supprimer des landing pages.

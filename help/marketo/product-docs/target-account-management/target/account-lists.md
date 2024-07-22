@@ -6,7 +6,7 @@ exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 1%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 1%
 
 Une liste de comptes est un ensemble de comptes nommés qui peuvent être ciblés ensemble. Les listes de comptes vous permettent de cibler des comptes nommés par secteur, emplacement ou taille de l’entreprise.
 
-Outre les listes de comptes, vous pouvez créer des listes de comptes dynamiques générées à partir des vues de compte CRM publiques. Une vue de compte CRM est un ensemble de règles qui agit comme un filtre lors de l’affichage de comptes. Par exemple, vous pouvez l’utiliser pour rechercher des comptes où le secteur est celui des soins de santé. *et* Les recettes sont supérieures à 100 millions de dollars.
+Outre les listes de comptes, vous pouvez créer des listes de comptes dynamiques générées à partir des vues de compte CRM publiques. Une vue de compte CRM est un ensemble de règles qui agit comme un filtre lors de l’affichage de comptes. Vous pouvez, par exemple, l’utiliser pour rechercher des comptes pour lesquels le secteur industriel est le secteur des soins de santé *et où le chiffre d’affaires est supérieur à 100 millions de dollars.*
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Les listes de compte créées dans la gestion de compte Marketo Target sont automatiquement disponibles lors de la création de listes intelligentes et de campagnes web dans [Personnalisation web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Les listes de compte créées dans la gestion de compte Marketo Target sont automatiquement disponibles lors de la création de listes dynamiques et de campagnes web dans [Personalization web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Créer une liste de comptes {#create-a-new-account-list}
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Créer une liste de comptes**.
+1. Cliquez sur la liste déroulante **New** et sélectionnez **Create New Account List**.
 
    ![](assets/1a.png)
 
-1. Attribuez un nom à votre liste et cliquez sur **Créer**.
+1. Donnez un nom à votre liste et cliquez sur **Créer**.
 
    ![](assets/three-0.png)
 
-1. Après avoir créé votre liste de comptes, commencez à [l’ajout de comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
+1. Après avoir créé votre liste de comptes, commencez à [y ajouter des comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -41,11 +41,11 @@ Outre les listes de comptes, vous pouvez créer des listes de comptes dynamiques
 
 ## Création d’une liste de comptes dynamiques {#create-a-new-dynamic-account-list}
 
-1. Cliquez sur le bouton **Nouveau** et sélectionnez **Créer une liste dynamique**.
+1. Cliquez sur la liste déroulante **New** et sélectionnez **Create New Dynamic List**.
 
    ![](assets/1.png)
 
-1. Dans la boîte de dialogue, sélectionnez une **Vue du compte CRM** dans la liste déroulante ou saisissez le nom pour le rechercher.
+1. Dans la boîte de dialogue, sélectionnez une **vue de compte CRM** dans la liste déroulante ou saisissez le nom pour la rechercher.
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -61,9 +61,9 @@ Outre les listes de comptes, vous pouvez créer des listes de comptes dynamiques
 
 >[!NOTE]
 >
->Ces étapes s&#39;appliquent uniquement aux listes de comptes. _Dynamique_ Les listes de comptes utilisent le nom de leurs vues de compte CRM associées.
+>Ces étapes s&#39;appliquent uniquement aux listes de comptes. Les listes de comptes _dynamiques_ utilisent le nom de leurs vues de compte CRM associées.
 
-1. Sélectionnez le compte à renommer, puis cliquez sur le bouton **Actions de liste de comptes** et sélectionnez **Renommer la liste des comptes**.
+1. Sélectionnez le compte à renommer, cliquez sur la liste déroulante **Actions de liste de comptes** et sélectionnez **Renommer la liste de comptes**.
 
    ![](assets/three.png)
 
@@ -81,7 +81,7 @@ Outre les listes de comptes, vous pouvez créer des listes de comptes dynamiques
 >
 >Ces étapes sont les mêmes pour les listes de comptes et les listes de comptes dynamiques.
 
-1. Sélectionnez le compte à supprimer, puis cliquez sur le bouton **Actions de liste de comptes** et sélectionnez **Supprimer la liste de comptes**.
+1. Sélectionnez le compte à supprimer, cliquez sur la liste déroulante **Actions de liste de comptes** et sélectionnez **Supprimer la liste de comptes**.
 
    ![](assets/five.png)
 
@@ -91,5 +91,5 @@ Outre les listes de comptes, vous pouvez créer des listes de comptes dynamiques
 
 >[!MORELIKETHIS]
 >
->* [Ajout d’un compte nommé existant à une liste de comptes](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Informations sur la liste de comptes](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
+>* [Ajouter un compte nommé existant à une liste de comptes](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [ Statistiques sur la liste de comptes ](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

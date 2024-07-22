@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modifier la position du libellé du formulaire {#change-form-label-position}
 
-When [création d’un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), vous pouvez facilement changer le positionnement des libellés des champs de formulaire. Voici comment.
+Lors de la [création d’un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), vous pouvez changer très facilement le positionnement des libellés de champ de formulaire. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -23,11 +23,11 @@ When [création d’un formulaire](/help/marketo/product-docs/demand-generation/
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Sélectionner **Paramètres**.
+1. Sélectionnez **Paramètres**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Sélectionnez la **Position de l’étiquette** vous voulez.
+1. Sélectionnez la **Position du libellé** de votre choix.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -56,4 +56,4 @@ Bien joué ! Voyez comme il était facile de modifier la position des libellés 
 
 >[!MORELIKETHIS]
 >
->[Modification de la famille de polices du formulaire](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[Modification de la famille de polices de formulaire](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

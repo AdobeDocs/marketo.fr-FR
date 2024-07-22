@@ -17,24 +17,24 @@ Pour commencer à utiliser le profilage de compte, procédez comme suit.
 
 >[!CAUTION]
 >
->Les champs suivants doivent être **not** être masqué pour que le Profilage de compte fonctionne correctement.
+>Les champs suivants doivent **et non** être masqués pour que le Profilage de compte fonctionne correctement.
 >
->* Site Internet
+>* Site web
 >* Société
 >* E-mail
 >* Pays
 >
->Découvrez comment [Afficher un champ ici](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Découvrez comment [afficher un champ ici](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. Dans Mon Marketo, ouvrez **Gestion de compte Target**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Cliquez sur le bouton **Profilage de compte** .
+1. Cliquez sur l’onglet **Profilage de compte** .
 
    ![](assets/two-1.png)
 
-1. L’onglet Modèle s’ouvre par défaut. Cliquez sur **Prise en main**.
+1. L’onglet Modèle s’ouvre par défaut. Cliquez sur **Commencer**.
 
    ![](assets/three.png)
 
@@ -56,4 +56,4 @@ Pour commencer à utiliser le profilage de compte, procédez comme suit.
 
    >[!TIP]
    >
-   >Maintenant que votre modèle est créé, [découvrez comment l’ajuster](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Maintenant que votre modèle est créé, [apprenez à le régler](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).

@@ -6,20 +6,20 @@ exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : Août 2014 {#release-notes-august}
+# Notes de mise à jour : août 2014 {#release-notes-august}
 
-Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Vérifiez la disponibilité de votre édition Marketo. Revenez après la version pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo. Revenez après la version pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
 ## Licences de calendrier marketing {#marketing-calendar-licenses}
 
-Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [Problème/révocation d’une licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aux utilisateurs de votre choix pour un accès ininterrompu.
+Après le 5 septembre 2014, seuls 5 utilisateurs peuvent accéder gratuitement au calendrier marketing. Veillez à [Émettre/Révoquer une licence de calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aux utilisateurs de votre choix avant cela pour un accès ininterrompu.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nouvelles autorisations d’utilisateurs {#new-user-permissions}
 
@@ -28,14 +28,14 @@ Les nouvelles autorisations utilisateur suivantes ont été ajoutées :
 | Autorisation | Description |
 |---|---|
 | Accéder à l’explorateur de recettes | Si vous avez acheté une RCA, vous aurez désormais le contrôle de qui peut y accéder. |
-| Importer la Liste | Limite l’importation des listes par les utilisateurs dans la base de données de piste. |
+| Importer la liste | Limite l’importation des listes par les utilisateurs dans la base de données de piste. |
 | Importer une liste | Restreindre les utilisateurs à importer des listes via un programme sous des activités marketing. |
 | Activer la campagne à déclencheurs | Contrôlez qui peut ou ne peut pas activer les campagnes de déclenchement. |
 | Programmer une campagne par lot | Permet de contrôler qui peut et ne peut pas planifier les exécutions de campagne par lots. |
 
 ## Exportation des utilisateurs et des rôles à partir de l’administrateur {#export-users-and-roles-from-admin}
 
-Vous pouvez désormais [Exportation d’une liste d’utilisateurs et de rôles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) de Marketo. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
+Vous pouvez désormais [exporter une liste d’utilisateurs et de rôles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) depuis Marketo. Vous pouvez également inclure un horodatage &quot;Dernière connexion&quot; dans l’exportation.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ Pour une meilleure délivrabilité, tous les emails sortants seront signés DKIM
 >
 >DKIM sera déployé lentement, vous ne le verrez peut-être pas avant quelques semaines.
 
-## Mises à jour de la personnalisation en temps réel {#real-time-personalization-updates}
+## Mises à jour Personalization en temps réel {#real-time-personalization-updates}
 
 Nous avons ajouté des étiquettes à la page de la campagne afin que vous puissiez baliser le contenu de vos coeurs.
 
@@ -87,12 +87,12 @@ Nous avons ajouté un nouveau rapport de moteur de recommandations de contenu po
 
 ![](assets/image2014-9-16-12-3a24-3a42.png)
 
-## Amélioration de l’administration des utilisateurs {#enhanced-user-administration}
+## Administration des utilisateurs améliorée {#enhanced-user-administration}
 
 Les utilisateurs administrateurs peuvent désormais verrouiller les utilisateurs en raison de plusieurs échecs de connexion. Vous pouvez également déverrouiller ces utilisateurs si vous le souhaitez.
 
 ## Contrôle de suivi {#tracking-control}
 
-Vous pouvez désormais exclure des adresses IP spécifiques de tout suivi et reporting dans la personnalisation en temps réel.
+Vous pouvez désormais exclure des adresses IP spécifiques de tout suivi et reporting dans Real-Time Personalization.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

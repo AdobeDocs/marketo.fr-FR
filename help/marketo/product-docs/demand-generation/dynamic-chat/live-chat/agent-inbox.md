@@ -24,7 +24,7 @@ Dans le coin supérieur droit de l’écran de la boîte de réception de l’ag
 
 >[!IMPORTANT]
 >
->**Cette opération remplace** la valeur [disponibilité du chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que vous avez défini dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
+>**Cela remplacera** la [disponibilité de la conversation en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que vous avez définie dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Dans le coin supérieur droit de l’écran de la boîte de réception de l’ag
 
 ## Notifications de tchat en direct {#live-chat-notifications}
 
-En savoir plus sur les notifications dans [Présentation de la messagerie instantanée](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Pour en savoir plus sur les notifications, consultez la [présentation de la messagerie instantanée](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversations {#conversations}
 
@@ -52,7 +52,7 @@ Sur le côté droit de l’écran de boîte de réception de l’agent, vous pou
 
 ## Fin d’une session {#end-a-session}
 
-Les agents peuvent mettre fin manuellement à une session en cliquant simplement sur le bouton **Fin de session** en regard des informations sur le visiteur.
+Les agents peuvent mettre fin manuellement à une session en cliquant simplement sur le bouton **Terminer la session** en regard des informations sur le visiteur.
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,13 +62,13 @@ Les agents peuvent mettre fin manuellement à une session en cliquant simplement
 >
 >Cette fonctionnalité fait partie de l’IA générative, disponible via l’abonnement Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe Compte d’Adobe (votre gestionnaire de compte).
 
-Raccourcis, optimisés par l’IA générative [Bibliothèque de réponses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), est un excellent moyen d’obtenir de l’aide à la volée lorsque vous discutez avec un visiteur. Il vous suffit de saisir une barre oblique (`/`) dans la zone de texte et choisissez `ask` ou `search`.
+Les raccourcis, optimisés par la [bibliothèque de réponse](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de l’IA générative, sont un excellent moyen d’obtenir de l’aide à la volée lorsque vous discutez avec un visiteur. Il vous suffit de saisir une barre oblique (`/`) dans la zone de texte et de choisir `ask` ou `search`.
 
 ![](assets/agent-inbox-7.png)
 
-**Poser** est destiné à obtenir de l’aide sur les réponses à une question.
+**Poser des questions** est utile pour obtenir de l’aide sur les réponses à une question.
 
-1. Type ou choix `/ask` dans la zone de texte. Saisissez votre question et appuyez sur Entrée sur votre clavier.
+1. Saisissez ou sélectionnez `/ask` dans la zone de texte. Saisissez votre question et appuyez sur Entrée sur votre clavier.
 
    ![](assets/agent-inbox-8.png)
 
@@ -76,9 +76,9 @@ Raccourcis, optimisés par l’IA générative [Bibliothèque de réponses](/hel
 
    ![](assets/agent-inbox-9.png)
 
-**Rechercher** est destiné à vous aider à trouver des pages liées à du texte spécifique.
+**La recherche** sert à rechercher de l’aide sur les pages liées à du texte spécifique.
 
-1. Type ou choix `/search` dans la zone de texte.
+1. Saisissez ou sélectionnez `/search` dans la zone de texte.
 
    ![](assets/agent-inbox-10.png)
 
@@ -108,7 +108,7 @@ Au bas de la fenêtre de conversation en direct se trouve une icône qui vous pe
 
    ![](assets/agent-inbox-14.png)
 
-1. Sélectionnez le calendrier de l’agent de votre choix, puis cliquez sur **Envoyer**.
+1. Choisissez le calendrier de l&#39;agent désiré et cliquez sur **Envoyer**.
 
    ![](assets/agent-inbox-15.png)
 

@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Même si Marketo héberge vos landing pages, l&#39;URL peut être entièrement p
 
 ## Choisir un CNAME {#choose-a-cname}
 
-Sélectionnez un mot pour accéder au début de l’URL de vos landing pages. Ce n&#39;est qu&#39;un mot et devrait être relativement court. Exemples:
+Sélectionnez un mot pour accéder au début de l’URL de vos landing pages. Ce n&#39;est qu&#39;un mot et devrait être relativement court. Exemples :
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
@@ -33,7 +33,7 @@ Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus 
 
 ## Trouvez votre Munchkin ID {#find-your-munchkin-id}
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Accédez à la zone **Admin**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
@@ -51,25 +51,25 @@ Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus 
 
 ## Envoyer la demande au service informatique {#send-request-to-it}
 
-Demandez à votre personnel informatique de configurer le CNAME suivant : (Remplacer le mot [CNAME] et [Munchkin ID] avec le texte de l’étape précédente.)
+Demandez à votre personnel informatique de configurer le CNAME suivant : (remplacez le mot [CNAME] et [Munchkin ID] par le texte de l’étape précédente.)
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Configuration CNAME terminée {#complete-cname-setup}
 
-1. Une fois que le service informatique a créé le CNAME, accédez à la **Administration** zone.
+1. Une fois que le service informatique a créé le CNAME, accédez à la zone **Admin** .
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Cliquez sur **Pages de destination**.
+1. Cliquez sur **Landing Pages**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Sous , **Paramètres** , cliquez sur **Modifier**.
+1. Sous la section **Paramètres**, cliquez sur **Modifier**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Saisissez votre CNAME dans **Nom de domaine pour les pages d’entrée**, saisissez votre **Page de secours**, saisissez votre **Page d’accueil** et cliquez sur **Enregistrer**.
+1. Saisissez votre CNAME dans **Nom de domaine pour les pages d’entrée**, saisissez votre **page de secours**, saisissez votre **page d’accueil** et cliquez sur **Enregistrer**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

@@ -22,19 +22,19 @@ Utilisez les messages in-app pour interagir directement avec vos clients lorsqu�
 
 >[!NOTE]
 >
->**Exemple 1**: la promotion &quot;Solde d’été&quot; s’affiche lors de l’ouverture de l’application.
+>**Exemple 1** : la promotion &quot;Vente d’été&quot; s’affiche lors de l’ouverture de l’application.
 >
->**Exemple 2**: lorsque vous regardez une vidéo médicale, planifiez une visite médicale, et cela déclenche un coupon de 40 $ de réduction.
+>**Exemple 2** : pendant que vous regardez une vidéo médicale, planifiez une visite de médecin, et cela déclenche un coupon de 40 $ de réduction.
 
 Avant de pouvoir créer et envoyer des messages in-app pour votre application mobile, vous aurez besoin de votre administrateur Marketo et de votre développeur d’applications mobiles pour effectuer certaines configurations.  Le processus de production de messages in-app comprend trois étapes :
 
 ## Étape 1 : administrateur et développeur réalisent les configurations initiales {#step-admin-and-developer-perform-initial-setups}
 
-Les administrateurs Marketo et les développeurs d’applications mobiles travaillent ensemble pour vous configurer. Voir [Avant de créer des notifications push et des messages In-App](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) pour plus d’informations.
+Les administrateurs Marketo et les développeurs d’applications mobiles travaillent ensemble pour vous configurer. Pour plus d’informations, voir [Avant de créer des notifications push et des messages In-App](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) .
 
 ## Étape 2 : création d’un message in-app {#step-create-an-in-app-message}
 
-You [création d’un message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) à l’aide de l’éditeur en ligne.
+Vous [créez un message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) à l’aide de l’éditeur en ligne.
 
 ## Étape 3 : Envoyer ! {#step-send}
 

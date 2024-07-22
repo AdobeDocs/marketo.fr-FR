@@ -6,7 +6,7 @@ exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ La sélection de l’arrière-plan d’un message est une étape importante pour
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Pour définir une couleur, cliquez sur **Couleur**, puis le carré de sélection des couleurs. Sélectionnez la couleur en cliquant dessus ou en saisissant les codes hexadécimaux ou RGB dans le sélecteur de couleurs.
+1. Pour définir une couleur, cliquez sur **Color**, puis sur le carré de sélection des couleurs. Sélectionnez la couleur en cliquant dessus ou en saisissant les codes hexadécimaux ou RGB dans le sélecteur de couleurs.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,7 +31,7 @@ La sélection de l’arrière-plan d’un message est une étape importante pour
    >
    >Le blanc brut, la valeur par défaut, est généralement gagnant.
 
-1. Si vous souhaitez utiliser un arrière-plan, cliquez sur **Image** puis le **Sélectionner une image** lien.
+1. Si vous souhaitez utiliser un arrière-plan, cliquez sur **Image** , puis sur le lien **Sélectionner l&#39;image** .
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
@@ -43,7 +43,7 @@ La sélection de l’arrière-plan d’un message est une étape importante pour
    >
    >La taille de l’image est limitée à 1 440 x 2 560 pixels et 5 Mo.
 
-1. Évaluez les résultats. Oops-peut-être qu&#39;une couleur, une texture ou un dégradé brut fonctionneront mieux !
+1. Évaluez les résultats. Oups-peut-être qu&#39;une couleur, une texture ou un dégradé brut fonctionneront mieux !
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
@@ -65,12 +65,12 @@ La sélection de l’arrière-plan d’un message est une étape importante pour
 
    >[!NOTE]
    >
-   >Pour les actions d’appui pour les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne concerne qu&#39;une seule plateforme ou l&#39;autre, laissez l&#39;autre dans le paramètre par défaut ou sélectionnez **Aucun**.
+   >Pour les actions d’appui pour les arrière-plans, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne concerne qu&#39;une seule plateforme, laissez l&#39;autre dans le paramètre par défaut ou sélectionnez **Aucun**.
 
-   Pour terminer la tâche, la dernière étape consiste à [Configuration du bouton Ignorer](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Pour terminer la tâche, la dernière étape consiste à [configurer le bouton Ignorer](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >* [Envoi d’un message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Compréhension des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Envoyer un message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
    >* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

@@ -6,8 +6,8 @@ exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '152'
+ht-degree: 0%
 
 ---
 
@@ -25,12 +25,12 @@ Lorsque vous appuyez sur n’importe quelle carte du programme de messagerie, vo
 * [Marquage d’un événement comme prévu](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Partage d’une carte de moment d’événement](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Il existe deux cartes d’événement. La variable [!UICONTROL On-Deck] La carte, envoyée quelques heures avant l’événement, indique le nombre de personnes inscrites. La variable [!UICONTROL Résultats] carte, envoyée par la suite, affiche le nombre d’utilisateurs réellement présents.
+Il existe deux cartes d’événement. La carte [!UICONTROL On-Deck], envoyée quelques heures avant l’événement, indique le nombre de personnes inscrites. La carte [!UICONTROL Résultats], envoyée par la suite, affiche le nombre réel de participants.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 
 >[!MORELIKETHIS]
 >
->* [Présentation des moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Présentation des cartes du programme de messagerie](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Comprendre les moments Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [ Comprendre les cartes du programme de messagerie ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Présentation des programmes d’événements](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)

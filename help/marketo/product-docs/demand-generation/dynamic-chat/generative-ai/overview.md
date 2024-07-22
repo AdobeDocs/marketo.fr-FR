@@ -16,7 +16,7 @@ Les fonctionnalités de Adobe Dynamic Chat optimisées par l’IA générique vo
 
 ## Permissions {#permissions}
 
-Pour utiliser l’IA générative, veillez à octroyer aux utilisateurs souhaités les [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+Pour utiliser l’IA générative, veillez à octroyer aux utilisateurs souhaités les [autorisations](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) appropriées.
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ En règle générale, pour obtenir le contexte complet d’une conversation de v
 
 ## Génération de questions {#question-generation}
 
-[Élever les expériences entrantes](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) avec des conversations assistées par l’IA pour les visiteurs qui utilisent une interface formée à la vente, au marketing et aux connaissances produit.
+[ Élever les expériences entrantes](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) avec des conversations assistées par l’IA pour les visiteurs qui utilisent une interface formée à la vente, au marketing et aux connaissances produit.
 
 ![](assets/generative-ai-overview-5.png)
 
 ## Bibliothèque de réponses {#response-library}
 
-[Génération d’une collection personnalisée](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de questions et réponses, toutes prévalidées par vous, à utiliser dans les campagnes de discussion Generative AI.
+[ Créez une collection personnalisée](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de questions et réponses, toutes préapprouvées par vous, à utiliser dans les campagnes de discussion Generative AI.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Journal d’activités {#activity-log}
 
-[Afficher la liste de toutes les tâches](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) et les détails qui les accompagnent, notamment le nom, le propriétaire, le type, et la personne qui les a modifiés et quand.
+[Consultez la liste de toutes les tâches ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) et les détails associés, y compris le nom, le propriétaire, le type, et qui les a modifiées et quand.
 
 ![](assets/generative-ai-overview-7.png)
 
 ## Questions sans réponse {#unanswered-questions}
 
-[Créer des réponses prévalidées supplémentaires](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel de questions sans réponse issues de conversations précédentes.
+[Créez d’autres réponses préapprouvées](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) pour votre bibliothèque de réponses à l’aide de l’IA basée sur un référentiel de questions sans réponse issues de conversations précédentes.
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -70,18 +70,18 @@ Les rubriques discutées sont disponibles sous forme de contrainte dans les trig
 
 >[!IMPORTANT]
 >
->Lorsque vous utilisez l’IA générative, vous devez respecter les [Directives d’utilisation de Adobe Experience Cloud Generator AI](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) nous pouvons donc nous assurer que les fonctionnalités de Adobe Experience Cloud qui intègrent l’IA générative sont utilisées de manière sûre et responsable.
+>Lors de l’utilisation de l’IA générative, vous devez respecter les [ instructions d’utilisation de l’IA générique Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) afin que nous puissions nous assurer que les fonctionnalités de Adobe Experience Cloud qui intègrent l’IA générative sont utilisées de manière sûre et responsable.
 
 ## Questions fréquentes {#faq}
 
-**L’IA générative est-elle disponible pour tous les utilisateurs Dynamic Chat ?**
+**L’IA générative est-elle disponible pour tous les utilisateurs de Dynamic Chat ?**
 
 Generative AI est uniquement disponible pour les abonnés Prime Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
 
-**Y a-t-il une limite à la quantité de questions et réponses que je peux générer ?**
+**Y a-t-il une limite au nombre de questions et réponses que je peux avoir générées ?**
 
 Oui. Il existe actuellement une limite de vie de 1 000.
 
-**Quelles langues sont disponibles dans l’IA générique ?**
+**Quelles langues sont disponibles dans l’IA générée ?**
 
 Actuellement, seul l’anglais est pris en charge dans l’IA générative.

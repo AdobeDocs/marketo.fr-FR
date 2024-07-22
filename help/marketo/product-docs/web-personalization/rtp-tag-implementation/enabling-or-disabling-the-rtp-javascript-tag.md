@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Activation ou désactivation de la balise JavaScript RTP {#enabling-or-disabling-the-rtp-javascript-tag}
 
-La balise JavaScript RTP contrôle si la personnalisation web suit ou non l’activité web ou exécute des campagnes ou des recommandations de contenu sur votre site web.
+La balise JavaScript RTP contrôle si le Personalization web suit ou non l’activité web ou exécute des campagnes ou des recommandations de contenu sur votre site web.
 
 >[!NOTE]
 >
->**Il n’est pas nécessaire de supprimer la balise de votre code HTML sur votre site web.** Contrôlez-la via Paramètres du compte.
+>**Il n’est pas nécessaire de supprimer la balise de votre code HTML sur votre site web.** Contrôlez-le via les paramètres du compte.
 
 ## Activation ou désactivation de la balise {#enable-or-disable-the-tag}
 
@@ -25,12 +25,12 @@ La balise JavaScript RTP contrôle si la personnalisation web suit ou non l’ac
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Dans Configuration du domaine et du domaine, sous Balise, sélectionnez **Off** pour désactiver la balise JavaScript.
+1. Dans Domain and Domain Configuration, sous Tag, sélectionnez **Off** pour désactiver la balise JavaScript.
 
    ![](assets/account-settings-domain-tag.jpg)
 
-   Lorsque la balise est désactivée, le code JavaScript est désactivé et la personnalisation web ne suit aucune activité web ni n’exécute de campagnes ou de recommandations de contenu sur votre site web.
+   Lorsque la balise est désactivée, le code JavaScript est désactivé et Web Personalization ne suit aucune activité web ni n’exécute de campagnes ou de recommandations de contenu sur votre site web.
 
-1. Pour activer la balise RTP, dans Domain et Domain Configuration, sous Tag, sélectionnez la balise **Activé** bascule.
+1. Pour activer la balise RTP, dans Domain and Domain Configuration, sous Tag, sélectionnez le bouton d’activation **On** .
 
    Easy.

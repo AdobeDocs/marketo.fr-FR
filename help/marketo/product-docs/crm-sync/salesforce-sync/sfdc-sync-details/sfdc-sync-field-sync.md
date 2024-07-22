@@ -6,7 +6,7 @@ exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Les champs de recherche dans SFDC synchronisent l’identifiant mais pas le nom 
 
 ## Qu&#39;en est-il des champs de formule de la DDC ? {#what-about-sfdc-formula-fields}
 
-Les champs de formule sont synchronisés. Toutefois, les mises à jour apportées aux références de la formule ne sont pas synchronisées tant qu’une mise à jour n’a pas été effectuée. [Tampon Mod système](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
+Les champs de formule sont synchronisés. Toutefois, les mises à jour apportées aux références de la formule ne sont pas synchronisées tant qu’une mise à jour n’a pas été effectuée sur l’[horodatage de la mémoire système](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
 
 ## Que se passe-t-il lorsque je supprime un champ de Salesforce qui était synchronisé avec Marketo ? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

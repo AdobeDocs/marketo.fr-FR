@@ -16,13 +16,13 @@ Les dialogues sont des conversations individuelles. Dans chaque dialogue, vous d
 
 ## Critère d’audience {#audience-criteria}
 
-La variable [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} d’un dialogue : c’est là que vous définissez où et à qui votre conversation de conversation s’affichera.
+La section [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} d’un dialogue vous permet de définir où et à qui votre conversation de conversation s’affichera.
 
 ![](assets/dialogue-overview-1.png)
 
 ## Designer de flux {#stream-designer}
 
-La variable [Concepteur de diffusion](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} dans une section Dialogue, vous allez concevoir la conversation que vous souhaitez avoir avec les visiteurs de votre site web.
+La section [ Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} d’un dialogue vous permet de concevoir la conversation que vous souhaitez avoir avec les visiteurs de votre site web.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -39,7 +39,7 @@ L’onglet Rapports vous permet d’afficher les mesures relatives à l’effica
 </td>
  </tr>
  <tr>
-  <td><strong>Engagement</strong></td>
+  <td><strong>Engagé</strong></td>
   <td>S’incrémente lorsqu’un visiteur interagit avec au moins une carte dans un dialogue (par exemple, question, capture d’informations, etc.)</td>
  </tr>
  <tr>
@@ -64,10 +64,10 @@ L’onglet Rapports vous permet d’afficher les mesures relatives à l’effica
 
 Vous avez la possibilité de désactiver (et de réactiver) toutes les boîtes de dialogue publiées en même temps.
 
-1. Dans Dynamic Chat, cliquez sur le **[!UICONTROL Configuration]** .
+1. Dans Dynamic Chat, cliquez sur l’onglet **[!UICONTROL Configuration]** .
 
    ![](assets/dialogue-overview-4.png)
 
-1. Activez/désactivez la variable **[!UICONTROL Chat activé]** basculez sur pour désactiver (puis réactiver) toutes les boîtes de dialogue.
+1. Activez/désactivez l’option **[!UICONTROL Chat activé]** pour désactiver (puis réactiver) toutes les boîtes de dialogue.
 
    ![](assets/dialogue-overview-5.png)

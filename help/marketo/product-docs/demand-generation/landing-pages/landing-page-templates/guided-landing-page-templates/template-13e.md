@@ -6,20 +6,20 @@ exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
 # Modèle 13E {#template-13e}
 
-Cliquez avec le bouton droit de la souris sur [télécharger le modèle 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * inclut l’image principale et le bouton En savoir plus
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+[Modèle 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)

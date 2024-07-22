@@ -6,21 +6,21 @@ exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 15%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
 # Synchronisation SFDC : file d’attente des pistes {#sfdc-sync-lead-queue}
 
-Marketo Engage vous permet d’ajouter des personnes à [Files d’attente de prospect Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} pour faciliter la distribution des pistes. Voici les détails.
+Marketo Engage vous permet d’ajouter des personnes aux [files d’attente de prospect Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} pour faciliter la distribution de prospects. Voici les détails.
 
 ## Comment affecter une personne à une file d’attente dans Marketo ? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 Vous pouvez affecter une personne à une file d’attente de prospect Salesforce à l’aide de l’une des actions de flux suivantes :
 
-* [Synchroniser individu dans SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
-* [Modifier détenteur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
+* [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [Changer de propriétaire](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >

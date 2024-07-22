@@ -19,6 +19,6 @@ Vous pouvez personnaliser vos préférences d’e-mail pour déterminer quand vo
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indiquez les informations sur lesquelles vous souhaitez être alerté par email, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Indiquez les informations que vous souhaitez voir vous alerter par email et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)

@@ -17,7 +17,7 @@ Vous pouvez conserver tous vos mots-clés et les organiser à l’aide de listes
 
 ## Ajouter à une liste {#add-to-a-list}
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
@@ -31,7 +31,7 @@ Vous pouvez conserver tous vos mots-clés et les organiser à l’aide de listes
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour vos mots-clés. Saisissez simplement le nom dans **[!UICONTROL Créer une nouvelle liste]**.
+   >Vous pouvez également créer une nouvelle liste pour vos mots-clés. Saisissez simplement le nom dans **[!UICONTROL Créer une liste]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,7 +41,7 @@ Ouah ! Sélectionnez votre liste pour afficher les nouveaux mots-clés.
 
 Vous pouvez également supprimer des mots-clés d’une liste.
 
-1. Accédez au **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]** .
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
@@ -53,7 +53,7 @@ Vous pouvez également supprimer des mots-clés d’une liste.
 
    >[!NOTE]
    >
-   >Toutes les listes auxquelles le mot-clé appartient actuellement sont cochées. Une fois supprimée de la liste, la vérification disparaît.
+   >Toutes les listes auxquelles le mot-clé appartient actuellement comportent une coche. Une fois supprimée de la liste, la vérification disparaît.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
@@ -61,4 +61,4 @@ Vous pouvez également supprimer des mots-clés d’une liste.
 
    >[!MORELIKETHIS]
    >
-   >[Présentation des mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Comprendre les mots-clés (vue récapitulative)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

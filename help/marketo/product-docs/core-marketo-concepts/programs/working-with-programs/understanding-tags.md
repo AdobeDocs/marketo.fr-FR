@@ -17,13 +17,13 @@ Vous savez probablement maintenant que les programmes sont comme des blocs de co
 
 Les balises sont utilisées pour décrire les programmes. Vous pouvez en créer autant que nécessaire, chacun avec des valeurs uniques. Les canaux identifient le mécanisme de diffusion dans un programme, tel qu’un webinaire, un parrainage ou une publicité en ligne.
 
-## Type de Variable {#tag-type}
+## Type de variable {#tag-type}
 
 Les types de balises identifient le type d’informations que vous souhaitez trier.
 
 >[!TIP]
 >
->Contactez votre administrateur Marketo si vous souhaitez créer [balises personnalisées](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>Contactez votre administrateur Marketo si vous souhaitez créer [des balises personnalisées](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Chaque type de balise comporte des valeurs.
 
 ## Canal {#channel}
 
-Les canaux sont utilisés pour créer des rapports sur la manière dont vos [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} a suivi votre programme. Chaque canal comporte un ensemble d’états de progression et un état défini sur une réussite égale.
+Les canaux sont utilisés pour créer des rapports sur la façon dont vos [membres](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} ont été déplacés dans votre programme. Chaque canal comporte un ensemble d’états de progression et un état défini sur une réussite égale.
 
 >[!NOTE]
 >
@@ -62,4 +62,4 @@ Les canaux sont utilisés pour créer des rapports sur la manière dont vos [mem
 >[!MORELIKETHIS]
 >
 >* [Créer des balises personnalisées](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
->* [Création d’un canal de programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+>* [Créer un canal de programme](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

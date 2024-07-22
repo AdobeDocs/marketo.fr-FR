@@ -6,8 +6,8 @@ exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 2%
+source-wordcount: '207'
+ht-degree: 0%
 
 ---
 
@@ -23,13 +23,13 @@ Les courriers électroniques de vente placent automatiquement le pied de page de
 >
 >**Définition**
 >
->**Courriers électroniques de vente** sont ceux envoyés à partir de Sales Insight (il n’inclut pas ceux envoyés à partir du module externe Marketo Outlook).
+>**Les e-mails de vente** sont ceux envoyés par Sales Insight (ils n’incluent pas ceux envoyés par le module externe Marketo Outlook).
 
-1. Cliquez sur l&#39;icône **Admin**.
+1. Accédez à la zone **Admin**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Statistiques des ventes**, puis **Modifier les paramètres**.
+1. Cliquez sur **Sales Insight**, puis **Modifier les paramètres**.
 
    ![](assets/two-1.png)
 
@@ -37,19 +37,19 @@ Les courriers électroniques de vente placent automatiquement le pied de page de
 
    ![](assets/three-1.png)
 
-   * **Aucun modèle** - Composée manuellement par l’utilisateur commercial.
-   * **Courrier électronique standard** - Emails basés sur un modèle.
-   * **E-mail opérationnel** - Les emails qui ignorent les limites de désabonnement, de Marketing suspendu et de communication (ils envoient quoi qu’il arrive).
+   * **Aucun modèle** - Composé manuellement par un utilisateur commercial.
+   * **Courrier électronique standard** - Courriers électroniques basés sur un modèle.
+   * **E-mail opérationnel** : e-mails ignorant les limites de désabonnement, de marketing suspendu et de communication (qu’ils envoient quoi qu’il arrive).
 
    Vous avez la possibilité de définir un comportement différent pour chaque type.
 
    >[!CAUTION]
    >
-   >**Paramètres de désabonnement du respect**: les prospects désabonnés ne recevront PAS l&#39;email même si l&#39;email publié est &quot;opérationnel&quot;.
+   >**Respecter les paramètres de désabonnement** : les pistes désabonnées ne recevront PAS l’email même si l’email publié est &quot;opérationnel&quot;.
    >
-   >**Ignorer les paramètres de désabonnement**: les prospects désabonnés recevront l&#39;email
+   >**Ignorer les paramètres de désabonnement** : les pistes désabonnées recevront le courrier électronique.
 
-1. Apportez les modifications souhaitées, puis cliquez sur **Enregistrer**.
+1. Effectuez les modifications de votre choix, puis cliquez sur **Enregistrer**.
 
    >[!TIP]
    >

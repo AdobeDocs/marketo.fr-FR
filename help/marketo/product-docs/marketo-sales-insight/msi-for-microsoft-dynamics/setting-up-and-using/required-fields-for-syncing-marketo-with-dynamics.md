@@ -6,20 +6,20 @@ exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
 # Champs requis pour la synchronisation de Marketo avec Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Ces champs *must* être synchronisé avec Marketo pour que le prospect et le contact de Sales Insight fonctionnent :
+Ces champs *doivent* être synchronisés avec Marketo pour que le prospect et le contact de Sales Insight fonctionnent :
 
 * Priorité
 * Urgence
 * Évaluation relative
 
-Si l’un de ces champs est manquant, un message d’erreur s’affiche dans Marketo avec le nom des champs manquants. Pour corriger ce problème, archivez votre instance pour vous assurer que les champs sont synchronisés pour les deux **prospect** et **Contact**. Si ce n’est pas le cas, ajoutez-les.
+Si l’un de ces champs est manquant, un message d’erreur s’affiche dans Marketo avec le nom des champs manquants. Pour résoudre ce problème, archivez votre instance pour vous assurer que les champs sont synchronisés pour **Lead** et **Contact**. Dans le cas contraire, ajoutez-les.
 
 Voici comment vérifier et ajouter des champs de synchronisation.
 
@@ -27,7 +27,7 @@ Voici comment vérifier et ajouter des champs de synchronisation.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **Modifier** sur Détails de synchronisation du champ.
+1. Cliquez sur **Modifier** sur Détails de la synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 

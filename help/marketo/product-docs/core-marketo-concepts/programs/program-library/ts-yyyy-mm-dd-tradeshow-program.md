@@ -2,11 +2,11 @@
 description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Documentation du produit
 title: Programme TS-YYYY-MM-DD-Tradeshow
 feature: Programs
-exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 17%
+source-wordcount: '410'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 17%
 
 Il s’agit d’un exemple de programme de commerce avec des emails d’invitation et de suivi utilisant un programme d’événement de Marketo Engage.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -32,7 +32,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <br/>02-Waitlisted
    <br/>03-Registered
    <br/>04-Visited Booth
-   <br/>05-Engagé au programme - Succès
+   <br/>05-Engagés à l’émission - Succès
    <br/>06-Engagé à la publication - Réussite</td>
    <td>Inclusif</td>
    <td>Événement</td>
@@ -40,7 +40,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -63,12 +63,12 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Envoyer la performance par e-mail</td>
+   <td>Performance des e-mails</td>
   </tr>
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Performances des programmes</td>
+   <td>Performance du programme</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
@@ -93,8 +93,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Ressources : héberge toutes les ressources créatives 
-<br/>(sous-dossiers pour les pages d’entrée et de messagerie)</td>
+   <td>Assets : héberge toutes les ressources créatives 
+<br/> (sous-dossiers pour les pages d’entrée et de messagerie)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -104,7 +104,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Rapports  </td>
+   <td>Rapports</td>
   </tr>
  </tbody> 
 </table>
@@ -180,17 +180,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
-   * Copier le modèle d’origine
+* **Modèle de page d’entrée avec le même nom**
+   * Copier le modèle d&#39;origine
    * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
    * Conserver les deux fichiers
-   * Remplacer l’élément de cet abonnement - _Recommandé_
+   * Remplacer un élément de cet abonnement - _Recommandé_
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles
@@ -211,7 +211,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;03 - Engagé par un message électronique de relance (succès du programme)&quot; pour le suivi de la réussite. Procédez comme suit : _before_ vos emails sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;03 - Engagé par un message électronique de relance (succès du programme)&quot; pour le suivi de la réussite. Effectuez cette _avant_ l&#39;envoi de vos emails.
 
 >[!IMPORTANT]
 >

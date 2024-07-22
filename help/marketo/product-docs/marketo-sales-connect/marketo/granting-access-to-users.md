@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Suivez les étapes de cet article pour accorder à vos utilisateurs Sales Connect l’accès à la connexion Marketo. Cela permet de déverrouiller des fonctionnalités telles que les moments intéressants dans le flux en direct et l’accès aux campagnes marketing.
 
-Vous devrez inviter des utilisateurs à rejoindre Sales Connect [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), avant qu’elles ne soient visibles dans la page Marketo > Accès à l’équipe (dans Sales Connect), où l’accès à la connexion Marketo est accordé.
+Vous devez inviter des utilisateurs à se connecter aux ventes [ici](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), avant qu’ils ne soient visibles dans la page Marketo > Accès d’équipe (dans Sales Connect), où l’accès à la connexion Marketo est accordé.
 
 >[!CAUTION]
 >
 >Patientez dix minutes après la connexion de Sales Connect à Marketo avant d’effectuer ces étapes.
 
-1. Sélectionnez un ou plusieurs utilisateurs, puis cliquez sur **Connexion**.
+1. Sélectionnez un ou plusieurs utilisateurs, puis cliquez sur **Se connecter**.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Vous devrez inviter des utilisateurs à rejoindre Sales Connect [here](/help/mar
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Cliquez sur la liste déroulante Espace de travail , sélectionnez un ou plusieurs espaces de travail, puis cliquez sur **Connexion**.
+1. Cliquez sur la liste déroulante Workspace, sélectionnez un ou plusieurs espaces de travail, puis cliquez sur **Se connecter**.
 
    ![](assets/granting-access-to-users-3.png)
 

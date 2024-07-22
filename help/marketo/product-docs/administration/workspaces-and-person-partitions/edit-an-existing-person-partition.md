@@ -7,7 +7,7 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Une partition de personne, c&#39;est comme avoir une deuxième (ou une troisièm
 
 >[!PREREQUISITES]
 >
->[Création d’une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
+>[Créer une partition de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
@@ -31,11 +31,11 @@ Une partition de personne, c&#39;est comme avoir une deuxième (ou une troisièm
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Sous , **[!UICONTROL Partitions de personne]** , sélectionnez la partition de personne à modifier, puis cliquez sur **[!UICONTROL Modifier la partition de personne]**.
+1. Sous l’onglet **[!UICONTROL Partitions de personne]**, sélectionnez la partition de personne à modifier, puis cliquez sur **[!UICONTROL Modifier la partition de personne]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Saisie de la partition de personne **[!UICONTROL Nom]**, la variable **[!UICONTROL Espaces de travail]** auquel ils appartiennent, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez la partition de personne **[!UICONTROL Name]**, les **[!UICONTROL espaces de travail]** auxquels ils appartiennent, puis cliquez sur **[!UICONTROL Save]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Les états du programme sont les points de contrôle par le biais d’un chemin du programme (canal). Si vous créez un statut par erreur ou que vous n’en avez plus besoin, n’hésitez pas à le supprimer.
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
@@ -23,11 +23,11 @@ Les états du programme sont les points de contrôle par le biais d’un chemin 
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Sélectionnez le canal duquel vous souhaitez supprimer un état, puis sous **[!UICONTROL Actions de balise]**, cliquez sur **[!UICONTROL Modifier]**.
+1. Sélectionnez le canal duquel vous souhaitez supprimer un état puis, sous **[!UICONTROL Actions de balise]**, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Cliquez sur le rouge **X** pour supprimer l’état, cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur le caractère rouge **X** pour supprimer l’état, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
@@ -35,4 +35,4 @@ Les états du programme sont les points de contrôle par le biais d’un chemin 
    >
    >Si une personne est actuellement affectée au statut en question, vous ne pouvez pas la supprimer, mais vous pouvez toutefois la masquer.
 
-C&#39;est joli ! Vous pouvez également [suppression d’un canal entier](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si nécessaire.
+C&#39;est joli ! Vous pouvez également [supprimer un canal entier](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si nécessaire.

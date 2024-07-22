@@ -5,8 +5,8 @@ exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 4%
+source-wordcount: '318'
+ht-degree: 1%
 
 ---
 
@@ -24,23 +24,23 @@ Composez un nouvel email ou utilisez un modèle préexistant.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Utiliser un modèle** | Sélectionnez l’un de vos modèles préexistants. |
+| **Utiliser un modèle** | Sélectionnez l’un de vos modèles préexistants |
 |---|---|
-| **Enregistrer comme modèle** | Enregistrez l&#39;email que vous venez de composer en tant que nouveau modèle. |
+| **Enregistrer comme modèle** | Enregistrez l&#39;email que vous venez de composer en tant que nouveau modèle |
 | **Ajouter du contenu** | Téléchargez un fichier sur notre serveur et recevez une URL (pointant vers le contenu) qui peut être trackée dans votre email. |
 | **Joindre des fichiers** | Joindre un fichier de votre ordinateur au courrier électronique (taille maximale de 23 Mo) |
 
 >[!TIP]
 >
->En savoir plus sur votre [options d’envoi](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Découvrez les détails de vos [options d&#39;envoi](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Appel {#call}
 
-Rappel pour le suivi d&#39;un contact par téléphone. Vous pouvez également enregistrer des notes à utiliser comme suivi de conversation pendant l’appel.
+Définissez un rappel pour le suivi d&#39;un contact par téléphone. Vous pouvez également enregistrer des notes à utiliser comme piste de discussion lors de l’appel.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-3.png)
 
-### Message interne {#inmail}
+### InMail {#inmail}
 
 Le suivi sur plusieurs canaux est un excellent moyen de se connecter aux pistes. Avec les tâches InMail, vous pouvez configurer un rappel pour atteindre l’utilisateur via LinkedIn.
 

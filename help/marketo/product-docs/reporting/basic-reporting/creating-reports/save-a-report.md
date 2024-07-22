@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Il peut arriver que vous deviez enregistrer un rapport par défaut pour le réafficher ultérieurement. Voici comment vous pouvez faire cela :
 
-1. Accédez au **Analytics** zone.
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Sélectionnez une [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Sélectionnez un [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -31,7 +31,7 @@ Il peut arriver que vous deviez enregistrer un rapport par défaut pour le réaf
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Nom** le rapport, puis cliquez sur **Enregistrer**.
+1. **Nommez** le rapport et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 

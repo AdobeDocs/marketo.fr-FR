@@ -1,12 +1,12 @@
 ---
-description: Exportation de rôles et d’autorisations - Documents Marketo - Documentation du produit
+description: Exportation des rôles et autorisations - Documents Marketo - Documentation du produit
 title: Exportation de rôles et d’autorisations
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -18,15 +18,15 @@ Voici comment exporter tous les rôles et leurs autorisations.
 >
 >Autorisations d’administrateur requises
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. Sélectionner **[!UICONTROL Utilisateurs et rôles]**.
+1. Sélectionnez **[!UICONTROL Utilisateurs et rôles]**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Rôles]** .
+1. Cliquez sur l’onglet **[!UICONTROL Rôles]** .
 
    ![](assets/export-roles-and-permissions-3.png)
 

@@ -33,6 +33,6 @@ Vous pouvez facilement créer de nouvelles exécutions d’une campagne dynamiqu
 
    >[!TIP]
    >
-   >Vous pouvez également effectuer cette opération à partir de la fonction [mise au point du programme](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Vous pouvez également effectuer cette opération à partir de la [cible d&#39;action](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boum ! De la même manière, vous avez planifié une autre opération pour cette campagne dynamique. Si cette campagne dynamique contenait des étapes d’envoi d’email, vous verrez également ces étapes !

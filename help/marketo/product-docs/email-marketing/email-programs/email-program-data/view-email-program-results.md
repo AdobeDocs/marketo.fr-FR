@@ -27,11 +27,11 @@ Tout comme l’onglet Résultats des campagnes intelligentes, vous pouvez voir l
    >
    >Si le programme de messagerie a déjà été exécuté, vous accédez directement au tableau de bord du programme de messagerie.
 
-1. Sous **Affichage**, sélectionnez **Panneau de Contrôle**.
+1. Sous **View**, sélectionnez **Panneau de Contrôle**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Sous , **Audience** mosaïque, cliquez sur **Affichage des résultats**.
+1. Sous la mosaïque **Audience**, cliquez sur **Afficher les résultats**.
 
    ![](assets/audiencetile.jpg)
 

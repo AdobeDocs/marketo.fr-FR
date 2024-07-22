@@ -5,7 +5,7 @@ title: Présentation des notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '209'
 ht-degree: 1%
 
 ---
@@ -28,20 +28,20 @@ Les notifications vous permettent de rester informé des événements système q
 
 Vous pouvez vous abonner aux notifications pour les recevoir dans votre email.
 
-1. Accédez à Notifications et cliquez sur **[!UICONTROL Abonner]**.
+1. Accédez à Notifications et cliquez sur **[!UICONTROL S’abonner]**.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Sélectionnez le Type de notification et saisissez la ou les adresses électroniques auxquelles vous souhaitez envoyer les notifications (séparées par une virgule). Cliquez sur **[!UICONTROL Abonner]** une fois terminé.
+1. Sélectionnez le Type de notification et saisissez la ou les adresses électroniques auxquelles vous souhaitez envoyer les notifications (séparées par une virgule). Cliquez sur **[!UICONTROL S’abonner]** lorsque vous avez terminé.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->La variable **[!UICONTROL envoyer à]** pour que vous puissiez entrer votre email uniquement, elle n&#39;affichera pas de liste des abonnés existants.
+>La zone **[!UICONTROL envoyer à]** est réservée à la saisie de votre email ; elle n’affiche pas de liste des abonnés existants.
 
 Dans certains cas, une notification fournit un lien &quot;Voir la liste complète&quot; pour télécharger un fichier CSV (valeurs séparées par des virgules), par exemple, le fichier des erreurs de synchronisation de Microsoft Dynamics. Marketo conserve ces fichiers CSV pendant 30 jours. Si vous tentez de télécharger le fichier au bout de 30 jours, vous obtiendrez une erreur 404.
 
 >[!TIP]
 >
->Vous souhaitez vous désabonner des emails de notification ? Pas de problème. Il vous suffit de cliquer sur **[!UICONTROL se désabonner des notifications]** lien au bas de l’email.
+>Vous souhaitez vous désabonner des emails de notification ? Pas de problème. Cliquez simplement sur le lien **[!UICONTROL se désabonner des notifications]** au bas de l’e-mail.

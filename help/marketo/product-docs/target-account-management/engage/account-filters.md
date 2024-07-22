@@ -21,11 +21,11 @@ Identifiez et interagissez avec les comptes nommés et les personnes qui les com
 
    ![](assets/one.png)
 
-1. Cliquez sur le bouton **+** pour développer la variable **Filtres de compte** dossier.
+1. Cliquez sur **+** pour développer le dossier **Filtres de compte**.
 
    ![](assets/two.png)
 
-1. Faites glisser le ou les filtres que vous souhaitez utiliser sur la zone de travail.
+1. Faites glisser le ou les filtres à utiliser sur la zone de travail.
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ Pour utiliser ce filtre, cliquez sur la liste déroulante Compte ...
 
 >[!NOTE]
 >
->Pour le filtre Liste des membres du compte , il n’y a qu’un seul qualificateur : &quot;is&quot; - D’autres qualificateurs (tels que &quot;is not&quot; et &quot;is any&quot;) ne sont pas disponibles.
+>Pour le filtre Liste des membres du compte, il n’y a qu’un seul qualificateur : &quot;is&quot; - Les qualificateurs supplémentaires (tels que &quot;is not&quot; et &quot;is any&quot;) ne sont pas disponibles.
 
 ## Membre du compte nommé {#member-of-named-account}
 
-Tout d’abord, choisissez un qualificateur. **Is** pour un ou plusieurs comptes nommés spécifiques ou **est quelconque** pour tout compte nommé.
+Tout d’abord, choisissez un qualificateur. **Is** pour un ou plusieurs comptes nommés spécifiques ou **is any** pour tout compte nommé(e).
 
 ![](assets/six.png)
 
@@ -57,7 +57,7 @@ Cliquez sur le menu déroulant du compte nommé...
 
 ![](assets/eight.png)
 
-Si vous utilisez le qualificateur &quot;is any&quot;, vous pouvez utiliser [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) pour limiter les résultats de la recherche. Ajoutez autant que vous le souhaitez !
+Si vous utilisez le qualificateur &quot;is any&quot;, vous pouvez utiliser [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) pour limiter vos résultats de recherche. Ajoutez autant que vous le souhaitez !
 
 ![](assets/nine.png)
 

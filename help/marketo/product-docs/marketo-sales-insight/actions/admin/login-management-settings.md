@@ -16,7 +16,7 @@ Les paramètres de gestion de la connexion permettent aux administrateurs de dé
 
 >[!NOTE]
 >
->Par défaut, l’option Salesforce uniquement est sélectionnée pour les instances d’actions Sales Insight. Nous recommandons ce paramètre afin que les utilisateurs puissent [connexion automatique](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) de Salesforce.
+>Par défaut, l’option Salesforce uniquement est sélectionnée pour les instances d’actions Sales Insight. Nous recommandons ce paramètre afin que les utilisateurs puissent [se connecter automatiquement](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) à partir de Salesforce.
 
 ## Mise à jour des paramètres de gestion de la connexion {#update-login-management-settings}
 
@@ -34,7 +34,7 @@ Pour mettre à jour vos préférences de gestion de connexion, procédez comme s
 
    ![](assets/login-management-settings-2.png)
 
-1. Faites défiler l’écran jusqu’à la carte Gestion de connexion et sélectionnez le paramètre souhaité (dans cet exemple, nous choisissons Salesforce uniquement). Cliquez sur **Enregistrer** une fois terminé.
+1. Faites défiler l’écran jusqu’à la carte Gestion de connexion et sélectionnez le paramètre souhaité (dans cet exemple, nous choisissons Salesforce uniquement). Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/login-management-settings-3.png)
 
@@ -44,7 +44,7 @@ Salesforce uniquement signifie que les utilisateurs peuvent uniquement s’authe
 
 ### Comment un nouvel utilisateur de mon instance active-t-il son compte lorsque &quot;Salesforce uniquement&quot; est sélectionné ? {#activate-when-salesforce-only-is-selected}
 
-Lorsque vous cliquez sur le bouton **Prise en main** dans l’e-mail d’invitation, les nouveaux utilisateurs seront envoyés vers l’écran d’activation du compte, où ils devront se connecter à leur instance Salesforce pour activer leur compte d’actions de statistiques de vente.
+Lorsque vous cliquez sur le bouton **Prise en main** dans le courrier électronique d’invitation, les nouveaux utilisateurs sont envoyés vers l’écran d’activation d’un compte, où ils devront se connecter à leur instance Salesforce pour activer leur compte d’actions de statistiques sur les ventes.
 
 ![](assets/login-management-settings-4.png)
 
@@ -54,7 +54,7 @@ Lorsque vous accédez à notre écran de connexion, les utilisateurs saisissent 
 
 >[!NOTE]
 >
->Cela concerne uniquement les utilisateurs qui accèdent directement à l’écran de connexion. Les utilisateurs qui accèdent aux actions à partir de Salesforce sont connectés avec [Connexion automatique](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+>Cela concerne uniquement les utilisateurs qui accèdent directement à l’écran de connexion. Les utilisateurs qui accèdent aux actions à partir de Salesforce seront connectés à l’aide de l’option [Connexion automatique](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ![](assets/login-management-settings-5.png)
 
@@ -66,7 +66,7 @@ Lorsqu’un utilisateur clique sur l’une des actions (Appel, Email, Campagne, 
 
 ### Comment un nouvel utilisateur de mon instance active-t-il son compte lorsqu’il sélectionne &quot;Toutes les méthodes de connexion&quot; ? {#activate-when-all-login-methods-is-selected}
 
-Lorsqu’un nouvel utilisateur est invité à rejoindre une instance, il reçoit un courrier électronique d’activation de compte. Ils cliqueront sur le bouton &quot;Commencer&quot; qui les mènera alors à une page leur demandant de créer et confirmer un mot de passe. Une fois créés, leur compte sera activé et ils seront pris en charge via le workflow d&#39;intégration.
+Lorsqu’un nouvel utilisateur est invité à rejoindre une instance, il reçoit un courrier électronique d’activation de compte. Ils cliqueront sur le bouton &quot;Commencer&quot; qui les mènera alors à une page leur demandant de créer et confirmer un mot de passe. Une fois créés, leur compte sera activé et ils seront pris en charge via le workflow d’intégration.
 
 ![](assets/login-management-settings-6.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Définition de valeurs dans une radio ou un champ sélectionné d’un formulaire {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Une fois que vous avez [définir un type de champ ;](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) pour être un bouton radio ou un type de sélection, vous souhaitez définir les valeurs que l’utilisateur peut sélectionner. Voici comment.
+Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) comme bouton radio ou type sélectionné, vous souhaitez définir les valeurs que l’utilisateur peut sélectionner. Voici comment.
 
 1. Accédez à **Activités marketing**.
 
@@ -29,7 +29,7 @@ Une fois que vous avez [définir un type de champ ;](/help/marketo/product-docs/
 
    >[!NOTE]
    >
-   >La première valeur et la valeur par défaut sont toujours &quot;Sélectionner...&quot;. N&#39;hésitez pas à modifier cela. Si vous définissez le bouton radio par défaut sur une autre ligne, sélectionnez &quot;Sélectionner...&quot;. ne s’affiche pas comme choix dans le formulaire.
+   >La première valeur et la valeur par défaut sont toujours &quot;Sélectionner...&quot;. N&#39;hésitez pas à modifier cela. Si vous définissez le bouton radio par défaut sur une autre ligne, l’option &quot;Sélectionner...&quot; ne s’affichera pas comme choix dans le formulaire.
 
 1. Cliquez sur pour ajouter votre valeur.
 
@@ -39,9 +39,9 @@ Une fois que vous avez [définir un type de champ ;](/help/marketo/product-docs/
    >
    >**Définition**
    >
-   >**Valeur d’affichage :** Ce qui est présenté au visiteur.
+   >**Valeur d’affichage :** ce qui est présenté au visiteur.
    >
-   >**Valeur stockée :** Éléments enregistrés dans Marketo.
+   >**Valeur stockée :** ce qui est enregistré dans Marketo.
 
 1. Ajoutez autant de valeurs que nécessaire, puis cliquez sur **Enregistrer**.
 
@@ -53,7 +53,7 @@ Une fois que vous avez [définir un type de champ ;](/help/marketo/product-docs/
 
    >[!TIP]
    >
-   >Cliquez sur **Éditeur avancé** pour copier/coller une liste de valeurs, le cas échéant. Cela peut être un gain en temps réel.
+   >Cliquez sur **Éditeur avancé** pour copier/coller une liste de valeurs si vous le souhaitez. Cela peut être un gain en temps réel.
 
 1. Cliquez sur **Terminer**.
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4718636
-description: Présentation de la zone d’analyse des coûts de programme - Documents Marketo - Documentation du produit
+description: Présentation de la zone Analyse des coûts de programme - Documents Marketo - Documentation du produit
 title: Présentation de la zone d’analyse des coûts de programme
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
@@ -76,22 +76,22 @@ Combien ai-je dépensé par programme et par mois ?
 
 | Dimension | Description |
 |---|---|
-| Canal de programme | Canal de programme |
+| Canal du programme | Canal du programme |
 | Nom du programme | Nom du programme |
 
 ## Période de coût du programme {#program-cost-timeframe}
 
 | Dimension | Description |
 |---|---|
-| Année | Période de coût du programme |
+| an | Période de coût du programme |
 | Trimestre | Période de coût du programme |
 | Mois | Période de coût du programme |
 
-## Étiquettes du programme {#program-tags}
+## Variables du programme {#program-tags}
 
 | Mesurer | Description |
 |---|---|
-| Secteur | Étiquette de programme |
+| Industrie | Étiquette de programme |
 | Ligne de produit | Étiquette de programme |
 | Propriétaire du programme | Étiquette de programme |
 | Région | Étiquette de programme |

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Prévisualisez votre email après l&#39;ajout de contenu dynamique afin de le vérifier.
 
-1. Sélectionnez votre adresse électronique et cliquez sur **Prévisualiser le message**.
+1. Sélectionnez votre email et cliquez sur **Preview Email**.
 
    ![](assets/one-3.png)
 
@@ -33,7 +33,7 @@ Prévisualisez votre email après l&#39;ajout de contenu dynamique afin de le v�
 
 Vous pouvez également prévisualiser le contenu dynamique directement dans l&#39;éditeur d&#39;email.
 
-1. Sous **Contenu**, cliquez sur le bouton **Dynamique** .
+1. Sous **Contenu**, cliquez sur l’onglet **Dynamique** .
 
    ![](assets/five-1.png)
 

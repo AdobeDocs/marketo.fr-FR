@@ -6,20 +6,20 @@ exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
 # Modèle 20D {#template-20d}
 
-Cliquez avec le bouton droit de la souris sur [télécharger le modèle 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * inclut des tirages à main levée et du texte ;
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+[Modèle 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)

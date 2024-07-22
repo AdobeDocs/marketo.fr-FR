@@ -6,7 +6,7 @@ exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -59,10 +59,10 @@ Effectuez un choix parmi des plages de dates prédéfinies courantes, sélection
 
 >[!NOTE]
 >
->Les plages de dates s’appliquent aux pages Analytics et Envois . Le **Comparer** s’applique uniquement à la page Analytics.
+>Les plages de dates s’appliquent aux pages Analytics et Envois . L’option **Comparer** ne s’applique toutefois qu’à la page Analytics.
 
 ## Marketing basé sur les comptes {#account-based-marketing}
 
-Si vous utilisez [Gestion de compte Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), il existe des filtres spécifiques pour vous.
+Si vous utilisez la [gestion de compte Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), il existe des filtres spécifiquement destinés à vous.
 
 ![](assets/abm.png)

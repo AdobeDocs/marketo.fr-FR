@@ -5,7 +5,7 @@ title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Un environnement de test Marketo ne peut pas être synchronisé avec votre syst�
 ## Informations à connaître sur les environnements de test {#things-to-know-about-sandboxes}
 
 * Une fois que l’équipe du compte Adobe a configuré votre environnement de test et vous a envoyé l’invitation, vous devez utiliser une adresse électronique différente de celle de votre instance de production Marketo pour vous connecter.
-* Si vous souhaitez ajouter des utilisateurs, le processus est le même que [ajout d’utilisateurs en production](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Là encore, ils doivent utiliser une autre adresse électronique s’ils disposent déjà d’une connexion Marketo.
+* Si vous souhaitez ajouter des utilisateurs, le processus est identique à [l’ajout d’utilisateurs en production](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Là encore, ils doivent utiliser une autre adresse électronique s’ils disposent déjà d’une connexion Marketo.
 * Votre environnement de test Marketo va commencer vide, mais dispose des mêmes fonctionnalités que votre instance de production.
-* Si vous créez un programme dans votre environnement de test et souhaitez le déplacer en production, vous pouvez exécuter une [import de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* Si vous créez un programme dans votre environnement de test et souhaitez le déplacer en production, vous pouvez effectuer un [import de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Les environnements de test sont ralentis afin que les instances de production ne soient pas affectées négativement par les environnements de test. Vous pouvez envoyer jusqu’à 20 emails par exécution de campagne.
 
 >[!CAUTION]
@@ -34,7 +34,7 @@ Un environnement de test Marketo ne peut pas être synchronisé avec votre syst�
 
 ## Copie de l’instance {#instance-copy}
 
-Vous pouvez soumettre un cas d’assistance demandant une copie d’instance unique pour remplir votre environnement de test. La copie de l’instance ne sera pas récupérée. _tout_, cependant. Veuillez consulter [Prise en charge de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour plus d’informations.
+Vous pouvez soumettre un cas d’assistance demandant une copie d’instance unique pour remplir votre environnement de test. Cependant, la copie d’instance n’apporte pas _tout_. Pour plus d’informations, consultez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) .
 
 >[!NOTE]
 >

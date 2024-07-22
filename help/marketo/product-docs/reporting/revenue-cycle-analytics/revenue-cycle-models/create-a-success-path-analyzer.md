@@ -17,19 +17,19 @@ Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle
 
 >[!PREREQUISITES]
 >
->[Création d’un modèle de recette](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Créer un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Cliquez sur le bouton **Analytics** mosaïque.
+1. Cliquez sur la mosaïque **Analytics** .
 
    ![](assets/one.png)
 
-1. Cliquez sur le bouton **Analyseur de chemins de succès** icône .
+1. Cliquez sur l’icône **Success Path Analyzer** .
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Si vous recevez un avertissement indiquant qu’aucune donnée n’a été trouvée dans la période spécifiée, cliquez simplement sur **Fermer** pour modifier votre période. Si vous n’êtes pas invité, mais que vous souhaitez modifier la période, accédez à **Configuration** et double-cliquez **Période**.
+   >Si vous recevez un avertissement indiquant qu’aucune donnée n’a été trouvée dans la période spécifiée, cliquez simplement sur **Fermer** pour modifier la période. Si vous n’y êtes pas invité, mais que vous souhaitez modifier votre période, accédez à **Configuration** et double-cliquez sur **Période**.
 
 1. Si vous n’aviez aucune donnée ou que vous modifiez votre période, sélectionnez-en une dans la liste déroulante, puis cliquez sur Enregistrer.
 
@@ -37,17 +37,17 @@ Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle
 
    >[!TIP]
    >
-   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez la fonction **De** et **À** champs.
+   >Pour sélectionner une plage spécifique, sélectionnez **Personnalisé** et utilisez les champs **De** et **À** .
 
-1. Si vous disposez de plusieurs modèles de cycle du revenu, sélectionnez celui qui vous intéresse dans la **Configuration** .
+1. Si vous disposez de plusieurs modèles de cycle du revenu, sélectionnez celui que vous souhaitez dans l’onglet **Configuration**.
 
    ![](assets/four.png)
 
-1. Sélectionnez le modèle approprié, puis cliquez sur **Appliquer**.
+1. Sélectionnez le modèle approprié et cliquez sur **Apply**.
 
    ![](assets/five.png)
 
-1. Cliquez sur le bouton **Analyseur de chemins de succès** .
+1. Cliquez sur l’onglet **Success Path Analyzer** .
 
    ![](assets/success-tab.png)
 
@@ -55,7 +55,7 @@ Maintenant, vous pouvez explorer le mouvement de chaque étape à la suivante !
 
 >[!TIP]
 >
->Voulez-vous enregistrer votre rapport ? Cliquez sur le bouton **Actions de l’analyseur** et sélectionnez **Enregistrer sous**.
+>Voulez-vous enregistrer votre rapport ? Cliquez sur la liste déroulante **Actions Analyzer** et sélectionnez **Enregistrer sous**.
 
 >[!MORELIKETHIS]
 >

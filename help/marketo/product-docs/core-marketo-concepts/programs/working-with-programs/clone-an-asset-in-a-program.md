@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Clonage d’une ressource dans un programme {#clone-an-asset-in-a-program}
 
-Clonage des clones d’un programme _tout_. Parfois, vous voulez simplement cloner une ressource. Voici comment.
+Le clonage d&#39;un programme clone _tout_. Parfois, vous voulez simplement cloner une ressource. Voici comment.
 
 >[!NOTE]
 >
->Vous devrez effectuer d’autres étapes pour [cloner un groupe de test de landing page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
+>Vous devrez effectuer des étapes supplémentaires pour [cloner un groupe de test de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
 
 ## Clonage d’une ressource locale {#clone-a-local-asset}
 
@@ -39,7 +39,7 @@ Clonage des clones d’un programme _tout_. Parfois, vous voulez simplement clon
 
    >[!TIP]
    >
-   >Vous pouvez également cloner une ressource vers un autre programme. Utilisez la variable **[!UICONTROL Programme]** pour effectuer votre sélection.
+   >Vous pouvez également cloner une ressource vers un autre programme. Utilisez la liste déroulante **[!UICONTROL Program]** pour effectuer votre sélection.
 
 1. Fantastique ! Vous devriez maintenant voir la nouvelle ressource clonée.
 
@@ -47,4 +47,4 @@ Clonage des clones d’un programme _tout_. Parfois, vous voulez simplement clon
 
    >[!NOTE]
    >
-   >[Clonage d’un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md){target="_blank"}
+   >[Cloner un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md){target="_blank"}

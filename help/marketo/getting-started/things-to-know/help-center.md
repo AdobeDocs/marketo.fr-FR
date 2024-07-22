@@ -12,7 +12,7 @@ ht-degree: 5%
 
 # Centre dʼaide {#help-center}
 
-Le centre d’aide de Adobe Marketo Engage est un emplacement centralisé où vous pouvez obtenir de l’aide. Outre la liaison à diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [informations de mise à jour](/help/marketo/release-notes/current.md){target="_blank"}, la variable [Communauté de nations marketing](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des visites guidées internes utiles au produit organisées par niveau d’expérience.
+Le centre d’aide de Adobe Marketo Engage est un emplacement centralisé où vous pouvez obtenir de l’aide. Outre la possibilité de créer des liens vers diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [informations de mise à jour](/help/marketo/release-notes/current.md){target="_blank"}, la [communauté Marketing Nation](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des présentations in-product utiles organisées par niveau d’expérience.
 
 ## Accès {#how-to-access}
 
@@ -30,7 +30,7 @@ Les guides permettent de découvrir rapidement les fonctionnalités les plus pop
 
    ![](assets/help-center-3.png)
 
-1. Cliquez sur **Prise en main**.
+1. Cliquez sur **Commencer**.
 
    ![](assets/help-center-4.png)
 

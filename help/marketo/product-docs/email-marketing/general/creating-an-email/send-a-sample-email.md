@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Envoyer un exemple de courrier électronique {#send-a-sample-email}
 
-Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer un email de contenu dynamique, voir [Prévisualisation d’un email avec du contenu dynamique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer un email de contenu dynamique, voir [Prévisualisation d&#39;un email avec du contenu dynamique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->Vous devez disposer de la variable **Accès à la base de données - Exécuter des actions de flux unique** autorisation d’envoyer des exemples d’emails.
+>Vous devez disposer de l’autorisation **Accéder à la base de données - Exécuter des actions de flux unique** pour envoyer des exemples d’emails.
 
 ## Envoyer un exemple de courrier électronique {#send-a-sample-email-1}
 
-1. Recherchez et sélectionnez votre email. Cliquez sur le bouton **Actions de courrier électronique** et sélectionnez **Envoyer un exemple**.\
+1. Recherchez et sélectionnez votre email. Cliquez sur la liste déroulante **Actions de courrier électronique** et sélectionnez **Envoyer un exemple**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -38,11 +38,11 @@ Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer 
 
    >[!TIP]
    >
-   >Si vous souhaitez résoudre les jetons en tant que personne spécifique, sélectionnez cette personne dans la variable **menu déroulant personne** à l’étape 2.
+   >Si vous souhaitez résoudre les jetons en tant que personne spécifique, sélectionnez cette personne dans la **liste déroulante de personne** de l’étape 2.
 
 ## Envoyer un exemple de courrier électronique lors de la modification {#send-a-sample-email-while-editing}
 
-1. Recherchez votre email, sélectionnez-le et cliquez sur le bouton **Modifier le brouillon** .
+1. Recherchez votre email, sélectionnez-le et cliquez sur l’onglet **Modifier le brouillon** .
 
    ![](assets/three-281-29.jpg)
 
@@ -50,21 +50,21 @@ Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer 
 
    ![](assets/four.png)
 
-1. Saisissez l&#39;adresse email à diffuser et cliquez sur **Envoyer**.
+1. Saisissez une adresse email pour la diffusion et cliquez sur **Envoyer**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Le champ déclencheur ne s&#39;applique qu&#39;aux utilisateurs [script de courrier électronique](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >Le champ déclencheur ne s’applique qu’aux utilisateurs de [script de courrier électronique](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Envoi d’un exemple de courrier électronique basé sur un segment {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Appliquer la segmentation à votre email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
+>[Appliquez une segmentation à votre email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Recherchez votre email, sélectionnez-le et cliquez sur le bouton **Modifier le brouillon** .
+1. Recherchez votre email, sélectionnez-le et cliquez sur l’onglet **Modifier le brouillon** .
 
    ![](assets/three-281-29.jpg)
 
@@ -72,7 +72,7 @@ Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer 
 
    ![](assets/1.png)
 
-1. Cliquez sur le bouton **Afficher par** et sélectionnez **Segmentation**.
+1. Cliquez sur la liste déroulante **Afficher par** et sélectionnez **Segmentation**.
 
    ![](assets/2.png)
 
@@ -90,6 +90,6 @@ Il est rapide et facile d&#39;envoyer des exemples d&#39;un email. Pour envoyer 
 
    >[!TIP]
    >
-   >Vous pouvez également envoyer un exemple d’email basé sur un segment en mode d’édition de votre email. Cliquez sur le bouton **Actions de courrier électronique** , sélectionnez **Envoyer un exemple**, puis sélectionnez votre segment.
+   >Vous pouvez également envoyer un exemple d’email basé sur un segment en mode d’édition de votre email. Cliquez sur la liste déroulante **Actions de courrier électronique**, sélectionnez **Envoyer un exemple**, puis choisissez votre segment.
 
 L’échantillonnage de votre contenu avant le lancement d’une campagne est très important. Mesurez deux fois, coupez une fois !

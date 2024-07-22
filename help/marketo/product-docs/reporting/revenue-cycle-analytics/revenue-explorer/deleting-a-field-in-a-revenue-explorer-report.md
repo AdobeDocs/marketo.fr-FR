@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez parfois faire glisser un champ incorrect dans le rapport. Pour le supprimer, procédez comme suit :
 
-1. Faites glisser le champ à supprimer vers le **corbeille** en bas à droite du rapport.
+1. Faites glisser le champ à supprimer vers l’icône **corbeille** située en bas à droite du rapport.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ Vous pouvez parfois faire glisser un champ incorrect dans le rapport. Pour le su
 
 >[!MORELIKETHIS]
 >
->[Enregistrement d’un rapport Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Enregistrement d’un rapport d’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

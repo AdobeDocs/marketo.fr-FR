@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Saisissez &quot;Compte nommé&quot; dans la zone de recherche pour rechercher le
 
 ![](assets/two-1.png)
 
-Faites glisser le déclencheur de votre choix sur la zone de travail. Dans cet exemple, nous utilisons _Ajout à un compte nommé_.
+Faites glisser le déclencheur de votre choix sur la zone de travail. Dans cet exemple, nous utilisons _ajouté au compte nommé_.
 
 ![](assets/three-1.png)
 

@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Votre compte Sales Connect ne peut pas déjà être connecté à Salesforce lors de l’établissement d’une connexion à l’environnement de test. Si c’est le cas, [assurez-vous de vous déconnecter](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) avant de suivre les étapes décrites dans cet article.
+>Votre compte Sales Connect ne peut pas déjà être connecté à Salesforce lors de l’établissement d’une connexion à l’environnement de test. Si c&#39;est le cas, [assurez-vous de vous déconnecter](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) avant de suivre les étapes de cet article.
 
-1. Dans Sales Connect, cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Paramètres**.
+1. Dans Sales Connect, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Au bas de la page, cliquez sur **Connexion à Sandbox**.
+1. Au bas de la page, cliquez sur **Se connecter à Sandbox**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Comment installer des personnalisations dans votre environnement de test Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[Comment installer des personnalisations dans votre sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

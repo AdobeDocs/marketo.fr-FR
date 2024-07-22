@@ -6,7 +6,7 @@ exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Trackez et associez les coûts d’acquisition de prospects pour un programme ou
 
 ## Définition d’un coût de période {#define-a-period-cost}
 
-1. Accédez au **Configuration** de votre programme ou événement.
+1. Accédez à l’onglet **Setup** de votre programme ou de votre événement.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Glisser-déposer **Coût de la période** sur la zone de travail et la **Nouveau coût** s’affiche.
+1. Faites glisser **Coût de la période** vers la zone de travail et la boîte de dialogue **Nouveau coût** s’affiche.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Saisissez le **Mois du programme** vous souhaitez l’associer au coût défini.
+1. Saisissez le **Mois du programme** que vous souhaitez associer au coût défini.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Saisissez un **Coût de la période** sous la forme d’un nombre entier sans décimales ni virgules (limite maximale : 99999999)
+1. Saisissez un nombre entier **Coût de la période** sans décimales ni virgules (limite maximale : 99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -47,13 +47,13 @@ Trackez et associez les coûts d’acquisition de prospects pour un programme ou
    >
    >La devise (par ex. USD, EUR, etc.) est un paramètre global géré par un administrateur Marketo.
 
-1. Saisissez un texte descriptif. **Remarque** (facultatif) puis cliquez sur **Enregistrer**.
+1. Saisissez une **note** descriptive (facultatif) et cliquez sur **Enregistrer**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
 ## Modification d’un coût de période {#edit-a-period-cost}
 
-1. Cliquez avec le bouton droit de la souris sur Coût de la période et sélectionnez **Modifier** dans le menu contextuel pour ouvrir la **Modifier le coût** de la boîte de dialogue
+1. Cliquez avec le bouton droit de la souris sur le coût de la période et sélectionnez **Modifier** dans le menu contextuel pour ouvrir la boîte de dialogue **Modifier le coût** .
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,10 +63,10 @@ Trackez et associez les coûts d’acquisition de prospects pour un programme ou
 
 ## Suppression d’un coût de période {#delete-a-period-cost}
 
-1. Cliquez avec le bouton droit de la souris sur le coût de la période que vous souhaitez supprimer, puis sélectionnez **Supprimer** dans le menu contextuel pour afficher la variable **Supprimer le coût** .
+1. Cliquez avec le bouton droit de la souris sur le coût de la période que vous souhaitez supprimer, puis sélectionnez **Supprimer** dans le menu contextuel pour afficher l’invite **Supprimer le coût**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Cliquez sur **Supprimer** pour supprimer définitivement le coût de la période, ou **Annuler** pour revenir en arrière.
+1. Cliquez sur **Supprimer** pour supprimer définitivement le coût de la période, ou sur **Annuler** pour revenir en arrière.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

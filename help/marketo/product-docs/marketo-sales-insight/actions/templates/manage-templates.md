@@ -1,20 +1,20 @@
 ---
 description: Gérer les modèles - Documents Marketo - Documentation du produit
-title: Gestion des modèles
+title: Gérer les modèles
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '525'
 ht-degree: 1%
 
 ---
 
-# Gestion des modèles {#manage-templates}
+# Gérer les modèles {#manage-templates}
 
-## Créer un modèle {#create-a-new-template}
+## Création d’un modèle {#create-a-new-template}
 
-1. Accédez au **Modèles** .
+1. Accédez à l’onglet **Modèles** .
 
    ![](assets/manage-templates-1.png)
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
    ![](assets/manage-templates-2.png)
 
-1. Choisissez une **Nom** et **Catégorie** pour votre modèle d’email, puis cliquez sur **Créer**.
+1. Choisissez un **nom** et une **catégorie** pour votre modèle de courrier électronique, puis cliquez sur **Créer**.
 
    ![](assets/manage-templates-3.png)
 
@@ -63,27 +63,27 @@ La zone Détails du modèle contient plusieurs onglets.
 
 Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent privés par défaut.
 
-1. Accédez au **Modèles** .
+1. Accédez à l’onglet **Modèles** .
 
    ![](assets/manage-templates-5.png)
 
-1. Recherchez et sélectionnez le modèle souhaité.
+1. Recherchez et sélectionnez le modèle de votre choix.
 
    ![](assets/manage-templates-6.png)
 
-1. Cliquez sur le bouton **Partager** bouton .
+1. Cliquez sur le bouton **Partager** .
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Les modèles qui ont été partagés avec vous s’affichent sous le **Modèles d’équipe** en-tête sur le côté gauche de la page Modèles . Les équipes ne sont disponibles que pour les utilisateurs Premium.
+   >Les modèles qui ont été partagés avec vous s’affichent sous l’en-tête **Modèles d’équipe** sur le côté gauche de la page Modèles. Les équipes ne sont disponibles que pour les utilisateurs Premium.
 
 1. Cliquez sur la liste déroulante Partager avec et sélectionnez la ou les équipes avec lesquelles vous souhaitez partager.
 
    ![](assets/manage-templates-8.png)
 
-1. Vous avez la possibilité de conserver le modèle dans la catégorie actuelle ou de le déplacer vers une autre catégorie. Dans cet exemple, nous le conservons dans la version actuelle. Cliquez sur **Partager** une fois terminé.
+1. Vous avez la possibilité de conserver le modèle dans la catégorie actuelle ou de le déplacer vers une autre catégorie. Dans cet exemple, nous le conservons dans la version actuelle. Cliquez sur **Partager** lorsque vous avez terminé.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent pr
 
 Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste Favoris. Cette opération génère automatiquement une nouvelle catégorie en haut de votre liste afin que vous puissiez accéder rapidement aux modèles que vous utilisez le plus.
 
-1. Accédez au **Modèles** .
+1. Accédez à l’onglet **Modèles** .
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste
 
 ## Personnalisation de l’affichage des modèles {#customize-template-view}
 
-Dans la **Affichage** , vous pouvez choisir d’afficher : tous les modèles, vos modèles, vos modèles favoris, les modèles partagés, les modèles non partagés ou les modèles inutilisés (modèles qui n’ont pas été utilisés au cours des 90 derniers jours).
+Dans la liste déroulante **Affichage**, vous pouvez choisir d’afficher : tous les modèles, vos modèles, vos modèles favoris, les modèles partagés, les modèles non partagés ou les modèles inutilisés (modèles qui n’ont pas été utilisés au cours des 90 derniers jours).
 
 ![](assets/manage-templates-13.png)
 

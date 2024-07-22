@@ -6,7 +6,7 @@ feature: Administration, Landing Pages
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 2%
 
 Suivez les étapes ci-dessous pour personnaliser certains en-têtes HTTP de vos domaines de page d’entrée.
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/landing-page-headers-1.png)
 
-1. Cliquez sur **[!UICONTROL Pages de destination]**.
+1. Cliquez sur **[!UICONTROL Landing Pages]**.
 
    ![](assets/landing-page-headers-2.png)
 
@@ -26,7 +26,7 @@ Suivez les étapes ci-dessous pour personnaliser certains en-têtes HTTP de vos 
 
    ![](assets/landing-page-headers-3.png)
 
-1. Sélectionnez les paramètres de votre choix, puis cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Choisissez les paramètres souhaités et cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
 
    ![](assets/landing-page-headers-4.png)
 

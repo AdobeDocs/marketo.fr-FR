@@ -49,7 +49,7 @@ Non, ces données étaient déjà stockées dans l’enregistrement de la person
 
 ## Où puis-je trouver plus d’informations sur la stratégie de l’API LinkedIn ? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-Suivez ce lien pour en savoir plus sur les modifications apportées à la stratégie d’API de LinkedIn : [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+Suivez ce lien pour en savoir plus sur les modifications apportées à la stratégie d’API par LinkedIn : [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## Comment puis-je contacter LinkedIn pour toute question ? {#how-can-i-contact-linkedin-with-questions}
 

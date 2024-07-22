@@ -2,7 +2,8 @@
 description: Découvrez comment créer et mettre en oeuvre des modèles dans des webinaires interactifs.
 title: Modèles de webinaires interactifs
 feature: Interactive Webinars
-source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
+exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -19,11 +20,11 @@ Créez des modèles simples d’utilisation dans des webinaires interactifs afin
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. Cliquez sur **[!UICONTROL Webinaires interactifs]**.
+1. Cliquez sur **[!UICONTROL Webinars interactifs]**.
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
-1. Cliquez sur **[!UICONTROL Gestion des modèles]**.
+1. Cliquez sur **[!UICONTROL Gérer les modèles]**.
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
@@ -31,7 +32,7 @@ Créez des modèles simples d’utilisation dans des webinaires interactifs afin
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. Dans l’onglet Modèles standard , sélectionnez le modèle de votre choix, puis cliquez sur **Suivant**.
+1. Dans l&#39;onglet Modèles standard , sélectionnez le modèle de votre choix et cliquez sur **Suivant**.
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
@@ -39,11 +40,11 @@ Créez des modèles simples d’utilisation dans des webinaires interactifs afin
    >
    >Les modèles d’organisation sont les modèles que vous ou votre équipe avez déjà créés.
 
-1. Saisissez un nom et une description. Cliquez sur **Enregistrer et ouvrir**.
+1. Saisissez un nom et une description. Cliquez sur **Enregistrer et ouvrez**.
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. Un nouvel onglet s’ouvre. Pour modifier/enregistrer votre modèle, vous devez entrer dans une pièce. Comme il ne s’agit pas d’une véritable salle de webinaire, il n’est pas nécessaire de faire des sélections audio/vidéo. Cliquez sur **Entrée dans la salle**.
+1. Un nouvel onglet s’ouvre. Pour modifier/enregistrer votre modèle, vous devez entrer dans une pièce. Comme il ne s’agit pas d’une véritable salle de webinaire, il n’est pas nécessaire de faire des sélections audio/vidéo. Cliquez sur **Enter Room**.
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
@@ -51,7 +52,7 @@ Créez des modèles simples d’utilisation dans des webinaires interactifs afin
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
-1. Dans le menu Quitter en haut à droite, sélectionnez **Session de fin pour tous**.
+1. Dans le menu Quitter en haut à droite, sélectionnez **Terminer la session pour tous les**.
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
@@ -69,11 +70,11 @@ Suivez les étapes ci-dessous pour modifier un modèle existant.
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. Cliquez sur **[!UICONTROL Webinaires interactifs]**.
+1. Cliquez sur **[!UICONTROL Webinars interactifs]**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
-1. Cliquez sur **[!UICONTROL Gestion des modèles]**.
+1. Cliquez sur **[!UICONTROL Gérer les modèles]**.
 
    ![](assets/templates-for-interactive-webinars-13.png)
 
@@ -81,7 +82,7 @@ Suivez les étapes ci-dessous pour modifier un modèle existant.
 
    ![](assets/templates-for-interactive-webinars-14.png)
 
-1. Un nouvel onglet s’ouvre. Pour éditer votre modèle, vous devez entrer dans une pièce. Comme il ne s’agit pas d’une véritable salle de webinaire, il n’est pas nécessaire de faire des sélections audio/vidéo. Cliquez sur **Entrée dans la salle**.
+1. Un nouvel onglet s’ouvre. Pour éditer votre modèle, vous devez entrer dans une pièce. Comme il ne s’agit pas d’une véritable salle de webinaire, il n’est pas nécessaire de faire des sélections audio/vidéo. Cliquez sur **Enter Room**.
 
    ![](assets/templates-for-interactive-webinars-15.png)
 
@@ -89,7 +90,7 @@ Suivez les étapes ci-dessous pour modifier un modèle existant.
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. Dans le menu Quitter en haut à droite, sélectionnez **Session de fin pour tous**.
+1. Dans le menu Quitter en haut à droite, sélectionnez **Terminer la session pour tous les**.
 
    ![](assets/templates-for-interactive-webinars-17.png)
 

@@ -14,7 +14,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Pour savoir comment activer l’extraction de synchronisation des tâches [Synchroniser les tâches/rappels des actions Sales Insight avec les tâches Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Pour savoir comment activer la synchronisation des tâches, consultez [Synchroniser les tâches/rappels des actions d’aperçu des ventes avec les tâches Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Une fois les paramètres de synchronisation des tâches activés, les utilisateurs verront leurs tâches de rappel synchronisées de manière bidirectionnelle avec Salesforce. Cela signifie que les utilisateurs peuvent gérer les tâches à partir des actions Salesforce ou Sales Insight et se fier à l’alignement des systèmes.
 
@@ -63,7 +63,7 @@ Vous trouverez ci-dessous une liste des champs de tâche de rappel dans les acti
 
 ## Synchronisation des tâches d’actions Sales Insight avec Salesforce pour la première fois {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-Lorsque vous activez la synchronisation pour la première fois entre les actions Sales Insight et les tâches Salesforce, nous importons vos tâches Salesforce. Nous allons **not** Passez en revue toutes les tâches en cours dans les actions Sales Insight vers Salesforce. Pour réduire l’encombrement et les doublons, les seules tâches synchronisées des actions Sales Insight dans Salesforce sont les tâches créées. *after* Vous synchronisez les actions Sales Insight avec SFDC.
+Lorsque vous activez la synchronisation pour la première fois entre les actions Sales Insight et les tâches Salesforce, nous importons vos tâches Salesforce. Nous **n’allons pas** passer en revue toutes les tâches en cours dans les actions Sales Insight à Salesforce. Pour réduire l’encombrement et les doublons, les seules tâches qui sont synchronisées des actions Sales Insight dans Salesforce sont les tâches créées *après* que vous synchronisez les actions Sales Insight avec SFDC.
 
 Voici ce qui se passe lorsque vous synchronisez les actions Sales Insight et les tâches SFDC :
 
@@ -77,8 +77,8 @@ Voici ce qui se passe lorsque vous synchronisez les actions Sales Insight et les
 
 Après la synchronisation initiale, toutes les tâches que vous créez, modifiez, terminez ou supprimez dans les actions Sales Insight se synchronisent avec votre liste de tâches dans Salesforce. De plus, tout élément créé, modifié, terminé ou supprimé dans Salesforce mettra à jour votre liste de tâches dans les actions Sales Insight.
 
-Pour activer cette synchronisation, cochez simplement la case de synchronisation dans votre [Page Paramètres](https://toutapp.com/login) dans l’application web.
+Pour activer cette synchronisation, cochez simplement la case de synchronisation dans la [page Paramètres](https://toutapp.com/login) de l’application web.
 
 >[!NOTE]
 >
->Le champ d’objet d’une tâche peut être mis à jour dans les actions d’aperçu des ventes et cette mise à jour sera synchronisée dans le champ d’objet Salesforce pour la tâche synchronisée correspondante, si vous utilisez l’ `{{activity_subject}}` champ dynamique dans votre [Personnalisation des détails de l’activité](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) paramètres. Inversement, toute mise à jour apportée au champ d’objet dans Salesforce sera _not_ synchronisation avec le champ Objet de la tâche de rappel des actions de statistiques sur les ventes .
+>Le champ d’objet d’une tâche peut être mis à jour dans les actions d’aperçu des ventes et cette mise à jour sera synchronisée dans le champ d’objet Salesforce pour la tâche synchronisée correspondante, si vous utilisez le champ dynamique `{{activity_subject}}` dans vos paramètres de [personnalisation des détails de l’activité](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Inversement, toutes les mises à jour apportées au champ d’objet dans Salesforce se synchronisent _et non_ dans le champ d’objet de la tâche de rappel des actions de statistiques sur les ventes .

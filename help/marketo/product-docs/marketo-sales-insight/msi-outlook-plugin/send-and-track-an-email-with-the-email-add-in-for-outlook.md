@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949716
 description: Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook - Documents Marketo - Documentation du produit
-title: Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook
+title: Envoi et suivi d’un courrier électronique à l’aide du module complémentaire de messagerie pour Outlook
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie pour Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Envoi et suivi d’un courrier électronique à l’aide du module complémentaire de messagerie pour Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 Vous pouvez envoyer des emails et en effectuer le suivi avec Marketo directement depuis Outlook.
 
 >[!PREREQUISITES]
 >
->Si vous ne l’avez pas encore fait, installez le [Module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Si vous ne l’avez pas encore fait, installez le [module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -29,9 +29,9 @@ Vous pouvez envoyer des emails et en effectuer le suivi avec Marketo directement
 
    >[!CAUTION]
    >
-   >Si vous incluez plusieurs destinataires dans l&#39;email, toutes les activités seront trackées sous le premier destinataire.
+   >Si vous incluez plusieurs destinataires dans l&#39;email, toutes les activités seront suivies sous le premier destinataire.
 
-1. Composer votre email comme vous le feriez normalement, puis cliquez sur **Envoi et suivi**.
+1. Composez votre email comme vous le feriez normalement, puis cliquez sur **Envoyer et suivre**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -43,7 +43,7 @@ Vous pouvez envoyer des emails et en effectuer le suivi avec Marketo directement
    >
    >Si vous souhaitez utiliser un modèle Marketo, reportez-vous à la section [Envoi et suivi depuis Outlook à l’aide d’un modèle](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Consultez l’aperçu et cliquez sur **Envoyer**.
+1. Regardez l&#39;aperçu et cliquez sur **Envoyer**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
@@ -59,4 +59,4 @@ C&#39;est si facile ! Même si cet email a été envoyé par Outlook d’un vend
 
 >[!MORELIKETHIS]
 >
->[Connexion au courrier entrant à partir de vos pistes dans Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Log Inbound Mail From Your Leads in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

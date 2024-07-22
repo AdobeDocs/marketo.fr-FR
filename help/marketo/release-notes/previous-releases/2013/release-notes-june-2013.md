@@ -6,12 +6,12 @@ exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : Juin 2013 {#release-notes-june}
+# Notes de mise à jour : juin 2013 {#release-notes-june}
 
 Les fonctionnalités suivantes sont incluses dans la version de juin.
 
@@ -23,7 +23,7 @@ Affichez l’interface de gestion des prospects Marketo dans la langue de votre 
 
 ## Interface utilisateur cobalt {#cobalt-user-interface}
 
-Au cours des prochains mois, un nouveau thème sera déployé dans différentes parties de l’application ; a un impact sur les fenêtres modales, par exemple.
+Au cours des prochains mois, vous remarquerez qu’un nouveau thème a été déployé dans différentes parties de l’application, ce qui a un impact sur les fenêtres modales, par exemple.
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 

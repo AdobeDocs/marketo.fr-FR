@@ -19,17 +19,17 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons afin d&#39;insérer des U
 
    ![](assets/one-4.png)
 
-1. Sélectionnez la **Texte** Mon jeton, faites-le glisser sur la zone de travail.
+1. Sélectionnez le **Texte** Mon jeton, faites-le glisser sur la zone de travail.
 
    ![](assets/two-4.png)
 
-1. Attribuez un nom unique au jeton, saisissez une URL (sans le https://) et cliquez sur **Enregistrer**.
+1. Donnez un nom unique au jeton, saisissez une URL (sans le https://) et cliquez sur **Enregistrer**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Pour vous assurer que les clics sont suivis dans votre email, procédez comme suit : **not** saisissez https:// dans la valeur du jeton.
+   >Pour vous assurer que les clics sont suivis dans votre email, **not** enter https:// dans la valeur du jeton.
 
 1. Sélectionnez l&#39;email dans votre programme.
 
@@ -63,7 +63,7 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons afin d&#39;insérer des U
 
    ![](assets/ten.png)
 
-1. Appuyez sur Ctrl/Cmd+V pour coller le contenu dans le **URL** puis cliquez sur **Insérer**.
+1. Appuyez sur Ctrl/Cmd+V pour coller le contenu dans la zone **URL** et cliquez sur **Insérer**.
 
    ![](assets/eleven.png)
 

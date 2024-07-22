@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Création d’une campagne dynamique par lots en mode Planification du programme {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Vous pouvez créer des campagnes dynamiques et [Réexécuter les instances existantes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} dans votre programme à partir de la vue planning du programme.
+Vous pouvez créer de nouvelles campagnes intelligentes et [réexécuter des campagnes existantes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} dans votre programme à partir de la vue de planification du programme.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Vous pouvez créer des campagnes dynamiques et [Réexécuter les instances exist
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Type]** et choisissez **[!UICONTROL Campagne dynamique]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Type]** et sélectionnez **[!UICONTROL Campagne dynamique]**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Vous pouvez créer des campagnes dynamiques et [Réexécuter les instances exist
 
    ![](assets/four.png)
 
-1. Choisissez votre [Campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} règles.
+1. Sélectionnez vos règles [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    ![](assets/changeprogramstatus-hands.png)
 

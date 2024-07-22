@@ -33,9 +33,9 @@ Le contact/compte peut être associé à l’opportunité de deux manières :
 
 * Lors de la création d’une opportunité, les champs Contact (champ de recherche sur le formulaire à contacter) et/ou Compte (champ de recherche sur le formulaire à mettre en compte) peuvent être définis. Dans les deux cas, ces valeurs sont stockées dans le champ Client potentiel (customerid) de Dynamics. Ce champ ne s’affiche pas dans le formulaire d’opportunité, mais il peut être ajouté à partir des paramètres. Ce champ ne peut contenir que 1 valeur, contact ou compte. Marketo effectue les opérations suivantes :
 
-   * Si la valeur de contact est définie et que le compte est vide, Marketo crée une `opportunitycontactrole` et fixe le compte sur l&#39;opportunité pour le compte du contact. Si le contact n&#39;a pas de compte, ce champ est vide.
+   * Si la valeur de contact est définie et que le compte est vide, Marketo crée un `opportunitycontactrole` et définit le compte sur l’opportunité d’accéder au compte du contact. Si le contact n&#39;a pas de compte, ce champ est vide.
    * Si la valeur du compte est définie et que le contact est vide, Marketo définit uniquement le compte sur l’opportunité d’accès à ce compte.
    * Si les deux valeurs sont définies, Dynamics sélectionne le compte comme valeur de customerid, de sorte que le comportement serait le même que ci-dessus.
 
 
-* Grâce aux parties prenantes : Dynamics utilise des connexions pour connecter l’opportunité de contacter les parties prenantes à partir de la page de création d’opportunité. Pour ce faire, nous allons créer une `opportunitycontactrole` enregistrement pour chaque nouvelle partie prenante.
+* Grâce aux parties prenantes : Dynamics utilise des connexions pour connecter l’opportunité de contacter les parties prenantes à partir de la page de création d’opportunité. Pour ce faire, nous allons créer un enregistrement `opportunitycontactrole` pour chaque nouvelle partie prenante.

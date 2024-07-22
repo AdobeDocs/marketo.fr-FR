@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359671
-description: Ajout d’un texte d’indice à un champ de formulaire - Documents Marketo - Documentation du produit
+description: Ajout de texte d’indice à un champ de formulaire - Documents Marketo - Documentation du produit
 title: Ajout d’un texte d’indice à un champ de formulaire
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
 # Ajout d’un texte d’indice à un champ de formulaire {#add-hint-text-to-a-form-field}
 
-Conseils et [instructions](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) aider les gens à remplir les formulaires ; Voici comment ajouter un indice.
+Les conseils et les [instructions](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) aident les personnes à remplir des formulaires. Voici comment ajouter un indice.
 
 >[!NOTE]
 >
 >**Définition**
 >
->Formulaire **Conseils** est du texte à l’intérieur du champ qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
+>Le formulaire **Conseils** contient du texte qui disparaît lorsque le visiteur commence à saisir du texte dans le champ.
 >
->Formulaire **Instructions** sont de petites info-bulles qui s’affichent lorsque le visiteur passe la souris sur le champ.
+>Les **instructions** de formulaire sont de petites info-bulles qui s’affichent lorsque le visiteur passe la souris sur le champ.
 
 1. Accédez à **Activités marketing**.
 
@@ -45,8 +45,8 @@ Conseils et [instructions](/help/marketo/product-docs/demand-generation/forms/fo
 
    >[!NOTE]
    >
-   >N&#39;oublie pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N’oubliez pas d’ [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Découvrez-le ! Allons-y et ajoutons un peu. [instructions](add-tooltip-instructions-to-a-form-field.md) maintenant.
+Découvrez-le ! Allons de l&#39;avant et ajoutons quelques [instructions](add-tooltip-instructions-to-a-form-field.md) maintenant.

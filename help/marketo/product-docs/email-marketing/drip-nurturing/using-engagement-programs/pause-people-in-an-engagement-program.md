@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Mettre les personnes en pause dans un programme d’engagement {#pause-people-in-an-engagement-program}
 
-Lorsqu’une personne est membre d’un programme d’engagement, elle reçoit du contenu jusqu’à ce qu’elle l’ait fait. [contenu épuisé](people-who-have-exhausted-content.md). Vous pouvez utiliser la variable [Modifier l’cadence du programme d’engagement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) étape de flux pour empêcher les personnes de recevoir du contenu même si le contenu n’a pas encore été épuisé.
+Lorsqu’une personne est membre d’un programme d’engagement, elle reçoit du contenu jusqu’à ce qu’elle [ait épuisé tout le contenu](people-who-have-exhausted-content.md). Vous pouvez utiliser l’étape de flux [Modifier la cadence du programme d’engagement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) pour empêcher les personnes de recevoir du contenu même si le contenu n’est pas encore épuisé.
 
 1. Sélectionnez le programme d’engagement.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Sélectionner **En pause** comme la propriété **Nouvelle valeur** pour empêcher la personne de recevoir du contenu.
+1. Sélectionnez **En pause** comme **Nouvelle valeur** pour empêcher la personne de recevoir du contenu.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Vous pouvez redéfinir la personne sur **Normal** si vous souhaitez qu’ils commencent à recevoir du contenu. Ils reprendront là où ils se sont arrêtés.
+   Vous pouvez redéfinir la personne sur **Normal** si vous souhaitez qu’elle recommence à recevoir du contenu. Ils reprendront là où ils se sont arrêtés.
 
    >[!NOTE]
    >

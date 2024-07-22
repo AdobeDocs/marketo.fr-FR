@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Qui a voté pour quoi dans votre sondage ? Allons le découvrir.
 
-1. Dans **Activités marketing**, sélectionnez le sondage, puis cliquez sur l’icône **Participants** .
+1. Dans **Activités marketing**, sélectionnez le sondage, puis cliquez sur l’onglet **Participants** .
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Cliquez sur le nombre indiqué dans la variable **Votes** colonne .
+1. Cliquez sur le numéro dans la colonne **Votes** .
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +29,4 @@ Qui a voté pour quoi dans votre sondage ? Allons le découvrir.
 
    >[!MORELIKETHIS]
    >
-   >En savoir plus sur la portée sociale et l’impact de vos applications dans [Affichage des performances des réseaux sociaux](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Pour en savoir plus sur la portée sociale et l’impact de vos applications, voir [Affichage des performances sociales](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

@@ -17,9 +17,9 @@ Lors de la conception d’une landing page de forme libre, vous pouvez utiliser 
 
 >[!NOTE]
 >
->Les guides sont disponibles uniquement sur la page **Libre-forme** éditeur de page d’entrée.
+>Les guides ne sont disponibles que dans l&#39;éditeur de page d&#39;entrée **Free-form**.
 
-1. Sélectionnez une **Page d’entrée** et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez une **Landing Page** et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 

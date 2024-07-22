@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ En tant qu’administrateur, vous avez la possibilité d’exporter les ressourc
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
@@ -31,11 +31,11 @@ En tant qu’administrateur, vous avez la possibilité d’exporter les ressourc
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Actions de champ]** et sélectionnez **[!UICONTROL Exporter utilisée par]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Field Actions]** et sélectionnez **[!UICONTROL Export Used By]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Un [!DNL Excel] est exporté. Ouvrez-le pour en afficher le contenu.
+1. Un fichier [!DNL Excel] sera exporté. Ouvrez-le pour en afficher le contenu.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

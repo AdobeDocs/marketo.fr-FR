@@ -38,7 +38,7 @@ Adieu super-ballon. Vous avez maintenant un accès rapide à toutes les sections
 
 ![](assets/overview-5.png)
 
-**URL de l’instance**
+**URL d’instance**
 
 Vous avez également un accès rapide à votre ID de munchkin, qui se reflète désormais dans l’URL de votre instance (encore plus utile pour les abonnés multiples).
 
@@ -50,9 +50,9 @@ Une tonne de nouvelles fonctions d’arborescence sont disponibles.
 
 >[!NOTE]
 >
->L’exécution d’une recherche dans l’arborescence affiche uniquement les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la variable [Recherche globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) de la fonction
+>L’exécution d’une recherche dans l’arborescence affiche uniquement les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la fonction [Recherche globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
-**Marketo Classic et le nouveau Marketo**
+**Marketo Classic vs. the New Marketo**
 
 <table> 
  <tbody>

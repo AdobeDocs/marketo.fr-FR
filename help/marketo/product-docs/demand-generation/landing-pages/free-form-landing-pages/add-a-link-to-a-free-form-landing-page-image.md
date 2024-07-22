@@ -15,17 +15,17 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[Ajout d’une image à une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Ajouter une image à une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
 >Cela s’applique uniquement aux landing pages de forme libre.
 
-1. Sélectionnez l’image que vous avez ajoutée à votre landing page et développez l’ **Feuille de propriété.**
+1. Sélectionnez l&#39;image que vous avez ajoutée à votre landing page et développez la **feuille de propriétés.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Saisissez le lien mailto dans la zone **URL du lien.**
+1. Saisissez votre lien mailto dans l&#39; **URL du lien.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

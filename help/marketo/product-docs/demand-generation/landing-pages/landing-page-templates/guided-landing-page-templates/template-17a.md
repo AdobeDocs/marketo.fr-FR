@@ -6,20 +6,20 @@ exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Modèle 17A {#template-17a}
 
-Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * comprend un titre de héros, un texte de héros et deux boutons.
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template 17A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
+[Modèle 17A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)

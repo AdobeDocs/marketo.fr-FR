@@ -17,8 +17,8 @@ Récompensez vos clients avec des coupons et des codes de réduction à l&#39;ai
 
 >[!PREREQUISITES]
 >
->* [Utilisation des courriers électroniques dans les promotions sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Création d’une offre de référent](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Utiliser des courriers électroniques dans les promotions sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Créer une offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 ## Configuration de la diffusion d’exécution {#set-up-fulfillment-delivery}
 
@@ -30,19 +30,19 @@ Récompensez vos clients avec des coupons et des codes de réduction à l&#39;ai
 
    ![](assets/image2015-4-23-12-3a53-3a16.png)
 
-1. Sélectionnez une **E-mail d’inscription**.
+1. Sélectionnez un **e-mail d’inscription**.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Sélectionnez une **Courrier électronique d’exécution**.
+1. Sélectionnez un **email d’exécution**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
    >[!NOTE]
    >
-   >En savoir plus sur [utilisation des emails dans les promotions sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >En savoir plus sur [l’utilisation des emails dans les promotions sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Cliquez sur le bouton **Diffusion d’exécution** et sélectionnez **auto sur l’objectif**.
+1. Cliquez sur la liste déroulante **Diffusion d’exécution** et sélectionnez **auto sur l’objectif**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
@@ -52,11 +52,11 @@ Récompensez vos clients avec des coupons et des codes de réduction à l&#39;ai
 
 Vous pouvez envoyer un email d’exécution manuellement à une personne une fois qu’elle a atteint l’objectif.
 
-1. Sélectionnez l&#39;offre de parrainage et cliquez sur le bouton **Participants** .
+1. Sélectionnez l&#39;offre de parrainage et cliquez sur l&#39;onglet **Participants** .
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Cliquez sur le bouton **Filtrer par** et sélectionnez **Objectif**.
+1. Cliquez sur l’option **Filtrer par** et sélectionnez **Objectif**.
 
    >[!NOTE]
    >
@@ -68,8 +68,8 @@ Vous pouvez envoyer un email d’exécution manuellement à une personne une foi
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Cliquez avec le bouton droit et sélectionnez **Envoyer un courrier électronique d’exécution**.
+1. Cliquez avec le bouton droit de la souris et sélectionnez **Envoyer un courrier électronique d’exécution**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
-Super ! Ces personnes vont maintenant recevoir un e-mail d&#39;exécution et être alimentées par leur récompense.
+Super ! Ces personnes vont maintenant recevoir un e-mail d&#39;exécution et être alimentées par leur récompense.

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Création d’une notification push {#create-a-push-notification}
 
-Il est facile de créer une notification push. Toutefois, avant de commencer, votre administrateur Marketo et votre développeur d’applications mobiles doivent configurer certains éléments dont vous aurez besoin pendant que vous le faites. Voir [Présentation des notifications push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) pour plus d’informations.
+Il est facile de créer une notification push. Toutefois, avant de commencer, votre administrateur Marketo et votre développeur d’applications mobiles doivent configurer certains éléments dont vous aurez besoin pendant que vous le faites. Pour plus d’informations, voir [Présentation des notifications push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) .
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,16 +23,16 @@ Il est facile de créer une notification push. Toutefois, avant de commencer, vo
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. Sous **Nouveau**, cliquez sur **Nouvelle ressource locale**.
+1. Sous **New**, cliquez sur **New Local Asset**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Sélectionner **Notification push**.
+1. Sélectionnez **Notification push**.
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Saisissez un **Nom de la notification push** et cliquez sur **Créer**.
+1. Saisissez un **nom de notification push** et cliquez sur **Créer**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Doux ! Maintenant que la notification push est créée, allons de l’avant et [habiller](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   Doux ! Maintenant que la notification push est créée, allons-y et [habillons-la](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Configuration des étoiles et des flammes pour les enregistrements de piste/contact {#setting-up-stars-and-flames-for-lead-contact-records}
 
-Les étoiles et les flammes des enregistrements de prospect/contact dépendent des éléments suivants : Champs Score de piste, Score relatif, Urgence et Priorité. Ces champs sont disponibles par défaut après l’installation et la configuration de la solution MSI. Si vous n’avez pas d’étoiles et de flammes, une configuration/personnalisation antérieure aurait pu les faire supprimer. Pour les ajouter, procédez comme suit.
+Les étoiles et les flammes des enregistrements de piste/contact dépendent des champs suivants : score de piste, score relatif, urgence et priorité. Ces champs sont disponibles par défaut après l’installation et la configuration de la solution MSI. Si vous n’avez pas d’étoiles et de flammes, une configuration/personnalisation antérieure aurait pu les faire supprimer. Suivez les étapes ci-dessous pour les ajouter.
 
-1. Dans Microsoft Dynamics, cliquez sur la liste déroulante Ventes et sélectionnez **Paramètres**. Cliquez sur **Personnalisations**, puis **Personnalisation du système**.
+1. Dans Microsoft Dynamics, cliquez sur la liste déroulante Ventes et sélectionnez **Paramètres**. Cliquez sur **Personnalisations**, puis **Personnaliser le système**.
 
 1. Dans le panneau de gauche, cliquez sur **Entités**.
 
-1. Rechercher et cliquer sur **prospect**, puis **Forms**, puis sélectionnez le formulaire à modifier.
+1. Recherchez et cliquez sur **Lead**, puis sur **Forms**, puis sélectionnez le formulaire à modifier.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
@@ -27,6 +27,6 @@ Les étoiles et les flammes des enregistrements de prospect/contact dépendent d
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
-1. Effectuez un glisser-déposer des éléments suivants : Champs Score de piste, Score relatif, Urgence et Priorité. Organisez-les de manière à ce qu&#39;elles vous conviennent le mieux. Vous pouvez également mettre en forme n’importe quel champ en double-cliquant dessus.
+1. Faites glisser les champs suivants : Score de piste, Score relatif, Urgence et Priorité. Organisez-les de manière à ce qu&#39;elles fonctionnent le mieux pour vous. Vous pouvez également mettre en forme n’importe quel champ en double-cliquant dessus.
 
-1. Lorsque vous avez terminé, cliquez sur **Enregistrer et fermer**.
+1. Une fois que vous avez terminé, cliquez sur **Enregistrer et fermer**.

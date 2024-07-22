@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Dans Marketo Performance Insights, la vue Contribution s’affiche par défaut.
 
 ![](assets/one-1.png)
 
-Sélectionnez la mesure dont vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via l’option Multi-Touch dans le tableau de bord Recettes.
+Sélectionnez la mesure en fonction de laquelle vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via l’option Multi-Touch dans le tableau de bord Recettes.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->En savoir plus sur [Première touche et Multi-touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Découvrez [Première touche et Multi-touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Sélectionnez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (année à jour).
 
@@ -33,7 +33,7 @@ Sélectionnez la période pour laquelle vous souhaitez afficher les mesures. Dan
 >
 >Nous avons temporairement supprimé la sélection &quot;Année précédente&quot;. Vous avez toujours la possibilité d’afficher l’ensemble des données de performances de l’année précédente à l’aide de la sélection Plage personnalisée .
 
-Les mesures sont présentées sous la forme de deux graphiques : beignet et bar.
+Les mesures sont présentées sous la forme de deux graphiques : en beignet et en barres.
 
 ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Le graphique à barres affiche les performances du programme sur tous les canaux
 
 >[!TIP]
 >
->Si vous souhaitez que les barres du graphique s’adaptent au fur et à mesure que vous faites défiler les groupes, sélectionnez l’option **Ajuster l’axe Y à l’échelle** .
+>Si vous souhaitez que les barres du graphique s’ajustent à mesure que vous faites défiler les groupes, cochez la case **Ajuster l’axe Y à l’échelle** .
 
 Pointez sur une barre pour afficher des détails supplémentaires.
 
@@ -61,12 +61,12 @@ La grille de données ci-dessous fonctionne comme une feuille de calcul, afficha
 
 ![](assets/9.png)
 
-| **Opportunités confirmées** | La partie du crédit (en valeur numérique) que le programme a reçue pour avoir influencé l’opportunité gagnée |
+| **Opportunités remportées** | La partie du crédit (en valeur numérique) que le programme a reçue pour avoir influencé l’opportunité gagnée |
 |---|---|
-| **Chiffre d’affaires confirmé** | La part du crédit (en valeur monétaire) reçue par le programme pour avoir influencé l’opportunité gagnée |
-| **Coût** | Coût total du programme |
-| **Coût par opportunité confirmée** | Le ratio du coût du programme et la part du crédit (en valeur numérique) que le programme a reçue pour influer sur la création de nouvelles opportunités |
-| **Ratio des recettes obtenues par rapport aux coûts** | Le ratio de la part du crédit (en valeur monétaire) reçue par le programme pour influencer les opportunités gagnées et le coût du programme |
+| **Recettes remportées** | La part du crédit (en valeur monétaire) reçue par le programme pour avoir influencé l’opportunité gagnée |
+| **Cost** | Coût total du programme |
+| **Coût par opportunité Won** | Le ratio du coût du programme et la part du crédit (en valeur numérique) que le programme a reçue pour influer sur la création de nouvelles opportunités |
+| **Recettes Gérées Par Rapport Aux Coûts** | Le ratio de la part du crédit (en valeur monétaire) reçue par le programme pour influencer les opportunités gagnées et le coût du programme |
 
 Développez un canal pour afficher ses dix premiers programmes, les autres étant combinés.
 

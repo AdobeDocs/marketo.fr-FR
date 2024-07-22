@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ajout d’un élément de contenu {#attaching-a-piece-of-content}
 
-Ajoutez du contenu pouvant faire l’objet d’un suivi en cliquant sur le bouton **Contenu** et télécharger un fichier. Tout contenu précédemment suivi s’affiche pour que vous puissiez sélectionner dans la fenêtre contextuelle sans avoir à effectuer à nouveau le chargement.
+Ajoutez du contenu pouvant faire l’objet d’un suivi en cliquant sur le bouton **Contenu** et téléchargez un fichier. Tout contenu précédemment suivi s’affiche pour que vous puissiez sélectionner dans la fenêtre contextuelle sans avoir à effectuer à nouveau le chargement.
 
 >[!NOTE]
 >

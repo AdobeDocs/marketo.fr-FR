@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Connexion automatique à partir de Salesforce {#auto-login-from-salesforce}
 
-La connexion automatique permet aux utilisateurs des actions d’aperçu des ventes de s’authentifier automatiquement aux actions d’aperçu des ventes lorsqu’ils travaillent à partir de Salesforce.
+La connexion automatique permet aux utilisateurs des actions d’aperçu commercial de s’authentifier automatiquement aux actions d’aperçu commercial lorsqu’ils travaillent à partir de Salesforce.
 
-Pour utiliser la connexion automatique :
+Pour utiliser la fonction de connexion automatique :
 
-* [Paramètres de gestion de la connexion](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) doit être défini sur &quot;Salesforce uniquement&quot;.
+* [ Les paramètres de gestion de connexion ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) doivent être définis sur &quot;Salesforce Only&quot;
 
 * L’utilisateur doit avoir été invité à utiliser les actions d’aperçu des ventes
 

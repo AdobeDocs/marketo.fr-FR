@@ -6,7 +6,7 @@ exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Les modèles recommandés de Sales Connect vous aident à obtenir le bon message
 
 1. Sélectionnez le modèle que vous souhaitez recommander, puis cliquez sur **Modifier**.
 
-1. Pour activer la fonctionnalité Modèle recommandé dans la vérification de modèle **Suggérer automatiquement ce modèle lors de la**.
+1. Pour activer la fonctionnalité Modèle recommandé sur votre modèle, cochez la case **Déclencher automatiquement ce modèle lorsque**.
 
 ## Tous et n’importe quel {#all-vs-any}
 
-Il est maintenant temps de sélectionner les paramètres de vos critères. Sélectionner **Tous** si vous souhaitez que votre modèle soit recommandé lorsque tous les critères sont satisfaits. Sélectionner **Quelconque** si vous souhaitez que votre modèle soit recommandé lorsque l’un des critères est satisfait.
+Il est maintenant temps de sélectionner les paramètres de vos critères. Sélectionnez **Tous** si vous souhaitez que votre modèle soit recommandé lorsque tous les critères sont satisfaits. Sélectionnez **Any** si vous souhaitez que votre modèle soit recommandé lorsque l’un des critères est satisfait.
 
 ## Définition de critères {#setting-criteria}
 
@@ -33,13 +33,13 @@ Vos critères vont définir les conditions pour lesquelles les modèles seront r
 
 Maintenant, sélectionnez votre condition. Lorsque vos conditions pour votre champ dynamique sont remplies, le modèle est recommandé. Choisissez parmi 4 conditions différentes.
 
-**Est égal à**: La valeur doit correspondre exactement (par exemple, Marketo est égal à Marketo).
+**Est égal à** : la valeur doit correspondre exactement (par exemple, Marketo est égal à Marketo)
 
-**N’est pas égal à**: La valeur doit être autre chose qu’une correspondance exacte (par exemple, Marketing Nation n’est pas égal à Marketing).
+**N’est pas égal à** : la valeur doit être autre chose qu’une correspondance exacte (par exemple, Marketing Nation n’est pas égal à Marketing)
 
-**Contient**: Seule la valeur doit être contenue (par exemple, Marketo Rocks ! contient Marketo)
+**Contains** : ne doit contenir que la valeur (par exemple, Marketo Rocks ! contient Marketo)
 
-**Ne contient pas**: La valeur ne doit pas se trouver dans le champ dynamique (par exemple, Marketo Rocks ! ne contient pas Awesome)
+**Ne contient pas** : la valeur ne doit pas se trouver dans le champ dynamique (par exemple, Marketo Rocks ! ne contient pas Awesome)
 
 ## À quoi ressemble un modèle recommandé {#what-a-recommended-template-looks-like}
 

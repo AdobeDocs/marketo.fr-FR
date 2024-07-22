@@ -5,7 +5,7 @@ exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '699'
 ht-degree: 1%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Actions Salesforce et Sales Insight [doit être connecté](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Connexion de l’activité d’email via l’API [doit être activé](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* Les actions Salesforce et Sales Insight [ doivent être connectées](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* La journalisation de l&#39;activité de courrier électronique via l&#39;API [ doit être activée](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 La personnalisation des détails de l’activité permet aux administrateurs de configurer les informations qui se connecteront au champ Tâche Salesforce - Objet lorsqu’une tâche d’action/de rappel d’aperçu des ventes est synchronisée dans Salesforce.
 
 >[!NOTE]
 >
->* Les mises à jour apportées au champ d’objet dans les actions d’aperçu des ventes d’une tâche de rappel sont répercutées dans le champ d’objet de la tâche Salesforce correspondante, si vous utilisez le `{{activity_subject}}` champ dynamique de la personnalisation des détails de l’activité.
+>* Les mises à jour apportées au champ d’objet dans les actions d’aperçu des ventes d’une tâche de rappel seront répercutées dans le champ d’objet de la tâche Salesforce correspondante, si vous utilisez le champ dynamique `{{activity_subject}}` dans votre personnalisation des détails de l’activité.
 >* Les sauts de ligne ne sont pas pris en charge lors de la journalisation des informations dans le champ d’objet Salesforce. Tout saut de ligne dans l’éditeur de personnalisation des détails de l’activité est supprimé lorsqu’un objet de tâche de vente est mis à jour.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -35,7 +35,7 @@ La personnalisation des détails de l’activité permet aux administrateurs de 
  </tr>
  <tr>
   <td><strong>2</td>
-  <td>Activité e-mail</td>
+  <td>Activité d’e-mail</td>
  </tr>
  <tr>
   <td><strong>3</td>
@@ -52,7 +52,7 @@ Cette fonctionnalité peut être utilisée pour déverrouiller les avantages sui
 
 >[!NOTE]
 >
->Si vous enregistrez des réponses par courrier électronique en tant qu’activités dans Salesforce, ils n’utiliseront pas les paramètres de personnalisation des détails de l’activité Salesforce. À la place, se connecte comme suit : &quot;Répondre : Objet du message électronique.&quot;
+>Si vous enregistrez des réponses par courrier électronique en tant qu’activités dans Salesforce, ils n’utiliseront pas les paramètres de personnalisation des détails de l’activité Salesforce. Au lieu de cela, ils se connectent en tant que &quot;Réponse : objet de l’email&quot;.
 
 ## Champs dynamiques d’activité pris en charge {#activity-dynamic-fields-supported}
 
@@ -125,9 +125,9 @@ Lors de la configuration des détails de votre activité, tenez compte des donn�
 
    >[!TIP]
    >
-   >Bien qu’il ne soit pas obligatoire, l’encapsulation du texte ajouté entre crochets peut faciliter la distinction entre les données lorsqu’elles sont renseignées dans un champ d’objet de Salesforce. Exemple: `[Sales Insight Actions] - {{Activity_type}}`
+   >Bien qu’il ne soit pas obligatoire, l’encapsulation du texte ajouté entre crochets peut faciliter la distinction entre les données lorsqu’elles sont renseignées dans un champ d’objet de Salesforce. Exemple : `[Sales Insight Actions] - {{Activity_type}}`
 
-1. Ajoutez d’autres champs dynamiques en cliquant sur le **Ajouter un champ dynamique** bouton .
+1. Ajoutez d’autres champs dynamiques en cliquant sur le bouton **Ajouter un champ dynamique** .
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 

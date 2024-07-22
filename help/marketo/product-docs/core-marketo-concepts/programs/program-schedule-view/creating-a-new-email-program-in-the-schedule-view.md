@@ -6,8 +6,8 @@ exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 2%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Vous pouvez créer un programme de messagerie à partir de la vue de planificati
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Saisir un nom. Sélectionner **[!UICONTROL Programme Email]**.
+1. Saisissez un nom. Sélectionnez **[!UICONTROL Programme de messagerie électronique]**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +35,8 @@ Vous pouvez créer un programme de messagerie à partir de la vue de planificati
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configuration de votre programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} et cliquez sur **[!UICONTROL Programme d’approbation]**.
+1. [ Configurez votre programme de messagerie, puis cliquez sur **[!UICONTROL Approuver le programme]**.](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 
    ![](assets/learnaboutthespeaker.png)
 
-   Outre le tableau de bord détaillé, l’utilisation d’un [programme email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Bon appétit !
+   Outre le tableau de bord détaillé, l’utilisation d’un [programme d’email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} au lieu d’une campagne dynamique présente l’avantage de pouvoir facilement mettre en oeuvre un [test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Bon appétit !

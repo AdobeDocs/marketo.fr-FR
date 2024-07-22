@@ -16,15 +16,15 @@ Découvrez comment ajouter et supprimer des utilisateurs et afficher vos licence
 
 ## Ajout d’un utilisateur {#add-a-user}
 
-1. Accédez au **Administration** zone.
+1. Accédez à la zone **Admin**.
 
    ![](assets/user-and-license-management-1.png)
 
-1. Cliquez sur **Webinaires interactifs**.
+1. Cliquez sur **Webinars interactifs**.
 
    ![](assets/user-and-license-management-2.png)
 
-1. Cliquez sur **Ajout/suppression d’utilisateurs**.
+1. Cliquez sur **Ajouter/Supprimer des utilisateurs**.
 
    ![](assets/user-and-license-management-3.png)
 
@@ -34,19 +34,19 @@ Découvrez comment ajouter et supprimer des utilisateurs et afficher vos licence
 
 ## Suppression d’un utilisateur {#remove-a-user}
 
-1. Accédez au **Administration** zone.
+1. Accédez à la zone **Admin**.
 
    ![](assets/user-and-license-management-5.png)
 
-1. Cliquez sur **Webinaires interactifs**.
+1. Cliquez sur **Webinars interactifs**.
 
    ![](assets/user-and-license-management-6.png)
 
-1. Cliquez sur **Ajout/suppression d’utilisateurs**.
+1. Cliquez sur **Ajouter/Supprimer des utilisateurs**.
 
    ![](assets/user-and-license-management-7.png)
 
-1. Mettez en surbrillance le ou les utilisateurs que vous souhaitez supprimer, puis appuyez sur la touche Suppr de votre clavier. Cliquez sur **OK** une fois terminé.
+1. Mettez en surbrillance le ou les utilisateurs que vous souhaitez supprimer, puis appuyez sur la touche Suppr de votre clavier. Cliquez sur **OK** lorsque vous avez terminé.
 
    ![](assets/user-and-license-management-8.png)
 
@@ -54,11 +54,11 @@ Découvrez comment ajouter et supprimer des utilisateurs et afficher vos licence
 
 Les webinaires interactifs offrent des licences spécifiques pour la création d’événements optimisés par Adobe Connect. Chaque fois qu’une licence est ajoutée, une nouvelle boîte d’utilisation de licence s’affiche. Les administrateurs de Marketo peuvent afficher (et non modifier) les licences en suivant les étapes ci-dessous. Contactez l’équipe du compte Adobe (votre gestionnaire de compte) pour obtenir des licences supplémentaires.
 
-1. Accédez au **Administration** zone.
+1. Accédez à la zone **Admin**.
 
    ![](assets/user-and-license-management-9.png)
 
-1. Cliquez sur **Webinaires interactifs**.
+1. Cliquez sur **Webinars interactifs**.
 
    ![](assets/user-and-license-management-10.png)
 
@@ -98,9 +98,9 @@ Les webinaires interactifs offrent des licences spécifiques pour la création d
   </tbody>
 </table>
 
-**Informations à noter**
+**Choses à noter**
 
-* Le type &quot;Licence de stockage supplémentaire&quot; fournit uniquement du stockage, par conséquent la valeur de chaque champ. _besides_ La capacité de stockage sera simplement répertoriée comme &quot;-&quot;.
+* Le type &quot;Licence de stockage supplémentaire&quot; fournit uniquement du stockage. Par conséquent, la valeur de chaque champ _outre_ Storage Capacity sera simplement répertoriée comme &quot;-&quot;.
 
 * Le type &quot;Licence de salle partagée&quot; contient un nombre illimité d’événements et &quot;Licence de stockage supplémentaire&quot; fournit uniquement du stockage. Le champ Total d’événements pour ces licences sera donc simplement répertorié comme &quot;-&quot;.
 
@@ -114,7 +114,7 @@ Les webinaires interactifs permettent de réguler l’utilisation en autorisant 
 
 Les utilisateurs de Marketo qui ont reçu des autorisations de webinaires interactifs et qui sont propriétaires d’un programme d’événement de webinaires interactifs spécifique pourront exécuter toutes les fonctions de webinaires interactifs liées à ce programme. Cela inclut : création, accès, modification, clonage, déplacement et suppression de ce programme. Cependant, une fois que cet utilisateur n’est plus un utilisateur du webinaire interactif, le propriétaire du programme peut accéder au programme et le déplacer, mais n’effectue aucune autre fonction.
 
-Utilisateurs Marketo qui disposent d’autorisations pour les webinaires interactifs et qui sont _not_ les propriétaires d’un programme d’événement de webinaires interactifs particulier pourront exécuter des fonctions limitées sur ces programmes. Les utilisateurs non-administrateurs de Marketo pourront accéder au programme et le cloner, mais ne pourront pas exécuter d’autres fonctions s’ils disposent des autorisations nécessaires pour les webinaires interactifs. Toutefois, les utilisateurs administrateurs de Marketo _will_ être en mesure d’exécuter toutes les fonctions, telles que l’accès, la modification, le clonage, le déplacement et la suppression de ce programme (tant qu’ils disposent des autorisations nécessaires pour les webinaires interactifs) ; Une fois cette autorisation révoquée pour les utilisateurs administrateurs et non-administrateurs de Marketo, ils ne pourront accéder qu’au programme d’événement de webinaire interactif et ne pourront plus exécuter d’autres fonctions.
+Les utilisateurs de Marketo qui ont reçu des autorisations de webinaires interactifs et qui sont _et non_ propriétaires d’un programme d’événement de webinaires interactifs particulier pourront exécuter des fonctions limitées sur ces programmes. Les utilisateurs non-administrateurs de Marketo pourront accéder au programme et le cloner, mais ne pourront pas exécuter d’autres fonctions s’ils disposent des autorisations nécessaires pour les webinaires interactifs. Cependant, les utilisateurs administrateurs de Marketo _pourront_ exécuter toutes les fonctions, telles que l’accès, la modification, le clonage, le déplacement et la suppression de ce programme (tant qu’ils disposent des autorisations pour les webinaires interactifs). Une fois cette autorisation révoquée pour les utilisateurs administrateurs et non-administrateurs de Marketo, ils ne pourront accéder qu’au programme d’événement de webinaire interactif et ne pourront plus exécuter d’autres fonctions.
 
 La restriction des fonctions exploitables est indiquée par un bouton d’action grisé et un message de survol. Voici quelques exemples des boutons d’action grisés : &quot;Concevoir votre webinaire&quot; ou &quot;Saisir votre webinaire&quot;. Pour les fonctions non exploitables, un message mettant en évidence les restrictions est fourni. Voir l’exemple ci-dessous :
 

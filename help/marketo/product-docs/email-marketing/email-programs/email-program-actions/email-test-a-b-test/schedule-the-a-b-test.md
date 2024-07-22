@@ -6,8 +6,8 @@ exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 5%
+source-wordcount: '211'
+ht-degree: 0%
 
 ---
 
@@ -23,19 +23,19 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 >
 >Pour les tests Date/Heure, il vous suffit de définir la date de réception du résumé des résultats du test.
 
-1. Sélectionnez la **Envoyer le test** date.
+1. Sélectionnez la date **Send Test**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Sélectionnez la **Envoyer le test** temps.
+1. Sélectionnez l’heure **Send Test**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
    >[!NOTE]
    >
-   >Envoi du test et Envoi du gagnant doivent être séparés d&#39;au moins 4 heures. Toutefois, pour les envois plus volumineux, vous pouvez attendre 24 heures pour avoir suffisamment de temps pour obtenir de bons résultats.
+   >Send Test and Send Winner doivent être séparés d’au moins 4 heures. Toutefois, pour les envois plus volumineux, vous pouvez attendre 24 heures pour avoir suffisamment de temps pour obtenir de bons résultats.
 
-1. Faites la même chose pour **Envoyer le gagnant**. Saisissez les destinataires de la notification (facultatif) et cliquez sur **Suivant**.
+1. Faites de même pour **Send Winner**. Saisissez les destinataires de la notification (facultatif) et cliquez sur **Suivant**.
 
    >[!NOTE]
    >
@@ -45,13 +45,13 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
    >[!NOTE]
    >
-   >Si vous choisissez de désigner manuellement un gagnant, vous définirez **Envoyer le rapport** date/heure au lieu de **Terminer le courrier** date/heure.
+   >Si vous choisissez de déclarer manuellement un gagnant, vous définirez la date/l’heure **Envoyer le rapport** au lieu de la date/l’heure **Terminer le publipostage**.
 
    Super ! Vous avez terminé, il vous suffit de consulter le résumé, puis de cliquer sur Fermer.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Vous remarquerez que la variable **Planification** est maintenant mise à jour.
+   Vous remarquerez que la mosaïque **Planning** est maintenant mise à jour.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
@@ -63,4 +63,4 @@ Une fois que vous avez ajouté un test A/B à un programme de messagerie et déf
 
    >[!MORELIKETHIS]
    >
-   >[Approbation/désapprobation d’un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[Approuver/Ne plus approuver un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)

@@ -21,7 +21,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) est destiné aux développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, notamment les API JavaScript Munchkin, des exemples de code d’API SOAP, des webhooks et des scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) est destiné aux développeurs qui souhaitent créer des intégrations dans Marketo. Vous pouvez référencer différentes options d’intégration, y compris les API Munchkin JavaScript, SOAP exemples de code API, les webhooks et les scripts de courrier électronique. Un SDK Java est également disponible sur [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Mise à jour de l&#39;adaptateur d&#39;événement BrightTALK {#updated-brighttalk-event-adapter}
 
@@ -29,4 +29,4 @@ Synchronisez les champs supplémentaires de BrightTALK avec Marketo, y compris l
 
 ## Application d’archivage d’événements pour tablette Android {#android-tablet-event-check-in-app}
 
-Archivez les inscrits à votre événement à l’aide de notre nouvelle [Application d’archivage Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponible sur [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Vérifiez les inscrits dans votre événement à l’aide de notre nouvelle [application d’archivage Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponible sur [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

@@ -6,16 +6,16 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
-# Notes de mise à jour : Septembre 2012 {#release-notes-september}
+# Notes de mise à jour : septembre 2012 {#release-notes-september}
 
 Cette version comprend des fonctionnalités sociales très attendues et intégrées, ainsi que des bons de gestion des prospects ! Remarque : les fonctions sociales sont disponibles sous la forme d’un module complémentaire ou d’un regroupement sélectionné.
 
-## Publication d’une vidéo YouTube avec le partage sur les réseaux sociaux {#publish-a-youtube-video-with-social-sharing}
+## Publish d’une vidéo YouTube avec partage sur les réseaux sociaux {#publish-a-youtube-video-with-social-sharing}
 
 Amplifiez le public de vos vidéos en encourageant vos visiteurs à les partager socialement, en utilisant le nouveau partage vidéo sur vos landing pages.
 
@@ -27,13 +27,13 @@ Personnalisez entièrement les messages de partage et l’apparence d’un nouve
 
 ![](assets/image2014-9-23-10-3a39-3a46.png)
 
-## Se connecter aux réseaux sociaux {#social-sign-on}
+## Connexion aux réseaux sociaux {#social-sign-on}
 
 Obtenez des informations et réduisez les frictions en permettant aux prospects de préremplir les formulaires avec des informations provenant de leurs réseaux sociaux.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publication de pages d’entrée sur Facebook {#publish-landing-pages-to-facebook}
+## Publish Landing Pages vers Facebook {#publish-landing-pages-to-facebook}
 
 Étendez la portée de vos landing pages en les publiant directement dans Facebook, avec les applications sociales, les formulaires et toutes les fonctionnalités des landing pages Marketo.
 
@@ -51,7 +51,7 @@ Nous prenons désormais en charge Microsoft Dynamics 2011 on-premise avec un dé
 
 Un webhook est un rappel HTTP défini par l’utilisateur. C’est un excellent moyen de transférer des données de Marketo vers n’importe quel autre service. Cette fonctionnalité est actuellement disponible dans la poitrine au trésor et n’est actuellement prise en charge que dans les campagnes de déclenchement.
 
-Voici quelques exemples d’utilisation des webhooks : la publication des informations de nom d’utilisateur et de mot de passe sur un autre système afin de créer un compte d’évaluation ; envoyer un SMS lorsque vous obtenez une nouvelle piste.
+Voici des exemples d’utilisation de webhooks : publiez des informations de nom d’utilisateur et de mot de passe sur un autre système pour créer un compte d’évaluation ; envoyez un SMS lorsque vous obtenez une nouvelle piste.
 
 ## Mise à jour de l’API getMultipleLeads {#update-to-getmultipleleads-api}
 

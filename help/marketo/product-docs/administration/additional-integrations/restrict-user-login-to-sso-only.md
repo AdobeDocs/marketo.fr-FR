@@ -6,24 +6,24 @@ exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 7%
+source-wordcount: '229'
+ht-degree: 5%
 
 ---
 
 # Limiter la connexion de l&#39;utilisateur aux connexions par signature unique {#restrict-user-login-to-sso-only}
 
-Si vous êtes [utilisation de SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) et assurez-vous que les utilisateurs ne peuvent pas contourner la sécurité d’authentification unique, suivez ces instructions.
+Si vous [ utilisez SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) et souhaitez vous assurer que les utilisateurs ne peuvent pas contourner la sécurité SSO, suivez ces instructions.
 
 >[!IMPORTANT]
 >
->Cet article ne s’applique pas à [Compatibilité Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Abonnements Marketo.
+>Cet article ne s’applique pas aux abonnements Marketo [Adobe IMS-enabled](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
@@ -31,30 +31,30 @@ Si vous êtes [utilisation de SSO](/help/marketo/product-docs/administration/add
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. Cliquez sur **[!UICONTROL Modifier les paramètres de protection]**.
+1. Cliquez sur **[!UICONTROL Modifier les paramètres de sécurité]**.
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. Développez l’objet **[!UICONTROL Avancé]** paramètres, vérifier **[!UICONTROL Requiert SSO]**, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Développez les paramètres **[!UICONTROL Avancé]**, cochez la case **[!UICONTROL Require SSO]**, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->Il est recommandé que le ou les utilisateurs soient invités et acceptent l’invitation. _Après_ Si l’invitation est acceptée, les administrateurs doivent alors la définir sur &quot;[!UICONTROL Requiert SSO].&quot;
+>Il est recommandé que le ou les utilisateurs soient invités et acceptent l’invitation. _Après_ l’invitation est acceptée, les administrateurs doivent ensuite la définir sur &quot;[!UICONTROL Require SSO]&quot;.
 
 >[!TIP]
 >
->Si vous sélectionnez **[!UICONTROL Requiert SSO]**, vous pouvez exclure une [rôle utilisateur](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de cette restriction en cochant la variable **[!UICONTROL Contournement de l’authentification unique]** lors de la configuration du rôle. Cela permet aux utilisateurs de se connecter normalement. Par exemple, les utilisateurs administrateurs peuvent toujours avoir besoin de se connecter à Marketo par le biais de l’écran de connexion.
+>Si vous sélectionnez **[!UICONTROL Require SSO]**, vous pouvez exclure un [rôle d’utilisateur](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de cette restriction en cochant l’option **[!UICONTROL Contournement de l’authentification unique]** lors de la configuration du rôle. Cela permet aux utilisateurs de se connecter normalement. Par exemple, les utilisateurs administrateurs peuvent toujours avoir besoin de se connecter à Marketo par le biais de l’écran de connexion.
 
 >[!CAUTION]
 >
->Lorsque de nouveaux utilisateurs sont invités, ils reçoivent des e-mails d’invitation. Cependant, si **[!UICONTROL Requiert SSO]** est sélectionné, ils ne recevront pas ces e-mails, à moins qu’ils ne soient affectés à un rôle défini sur **[!UICONTROL Contournement de l’authentification unique]**.
+>Lorsque de nouveaux utilisateurs sont invités, ils reçoivent des e-mails d’invitation. Cependant, si **[!UICONTROL Require SSO]** est sélectionné, ils ne recevront pas ces e-mails, sauf s’ils se voient attribuer un rôle défini sur **[!UICONTROL Contourner l’authentification unique]**.
 
 C&#39;est tout ! Désormais, tous les utilisateurs (à l’exception des utilisateurs autorisés à contourner l’authentification unique) seront limités à l’utilisation de la connexion unique.
 
 >[!MORELIKETHIS]
 >
->* [Ajout d’une authentification unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Utilisation d’un ID universel pour la connexion à l’abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [Ajout d’une connexion unique à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [ Utilisation d’un ID universel pour la connexion à l’abonnement ](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Invitation d’utilisateurs Marketo à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

@@ -17,17 +17,17 @@ Déplacez une campagne dynamique entre différents programmes ou dossiers à l�
 
 >[!CAUTION]
 >
->Comme les règles ne changent pas, si la liste dynamique ou les étapes de flux de la campagne font référence au programme d’origine, vous devez mettre à jour manuellement ces informations afin de refléter son nouveau programme, car _not_ mise à jour automatique.
+>Comme les règles ne changent pas, si la liste dynamique ou les étapes de flux de la campagne font référence au programme d’origine, vous devez mettre à jour manuellement ces informations pour refléter son nouveau programme, car il _et non_ se mettra automatiquement à jour.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Localisez la campagne dynamique à déplacer, cliquez dessus avec le bouton droit de la souris et sélectionnez **[!UICONTROL Déplacer]**.
+1. Localisez la campagne dynamique que vous souhaitez déplacer, cliquez dessus avec le bouton droit et sélectionnez **[!UICONTROL Déplacer]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Sélectionnez la variable **[!UICONTROL À]** (destination), **[!UICONTROL Programme]**, et facultatif **[!UICONTROL Dossier]**. Sélectionner **[!UICONTROL Déplacer]**.
+1. Sélectionnez les options **[!UICONTROL To]** (destination), **[!UICONTROL Program]** et facultative **[!UICONTROL Folder]**. Sélectionnez **[!UICONTROL Déplacer]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

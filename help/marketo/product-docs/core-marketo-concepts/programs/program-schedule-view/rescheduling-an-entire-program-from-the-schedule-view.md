@@ -19,7 +19,7 @@ Lorsque vous clonez un programme ou un événement avec des dates, il est probab
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Sélectionnez la liste déroulante Action d’événement . Choisir **[!UICONTROL Replanifier les entrées]**.
+1. Sélectionnez la liste déroulante Action d’événement . Sélectionnez **[!UICONTROL Replanifier les entrées]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -41,7 +41,7 @@ Lorsque vous clonez un programme ou un événement avec des dates, il est probab
 
 >[!NOTE]
 >
->Les ressources déjà exécutées ne se déplacent pas.
+>Les Assets déjà exécutées ne se déplacent pas.
 
 Tout est maintenant reprogrammé. Ajustez des dates spécifiques si nécessaire.
 

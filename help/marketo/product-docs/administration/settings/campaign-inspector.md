@@ -6,7 +6,7 @@ feature: Campaign Inspector
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 7%
+ht-degree: 3%
 
 ---
 
@@ -16,11 +16,11 @@ Utilisez l’ Inspecteur de campagne pour afficher/rechercher toutes vos campagn
 
 ## Activer l’Inspecteur de campagne {#enable-campaign-inspector}
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Cliquez sur **[!UICONTROL Poitrine au trésor]**.
+1. Cliquez sur **[!UICONTROL Treasure Chest]**.
 
    ![](assets/campaign-inspector-2.png)
 
@@ -28,7 +28,7 @@ Utilisez l’ Inspecteur de campagne pour afficher/rechercher toutes vos campagn
 
    ![](assets/campaign-inspector-3.png)
 
-1. Sélectionnez la **[!UICONTROL Activé]** , puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Enabled]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ Une fois activé, l’onglet Inspecteur de campagne se trouve en regard de l’o
 
 ![](assets/campaign-inspector-5.png)
 
-Cliquez sur le bouton **[!UICONTROL Principales campagnes]** pour filtrer selon différents types de campagnes.
+Cliquez sur la liste déroulante **[!UICONTROL Campagnes actives]** pour filtrer par différents types de campagnes.
 
 ![](assets/campaign-inspector-6.png)
 

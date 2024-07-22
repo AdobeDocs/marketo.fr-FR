@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Supprimer la notification Push pour mobile {#delete-mobile-push-notification}
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -25,7 +25,7 @@ ht-degree: 11%
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Confirmer en cliquant sur **Supprimer**.
+1. Confirmez en cliquant sur **Supprimer**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

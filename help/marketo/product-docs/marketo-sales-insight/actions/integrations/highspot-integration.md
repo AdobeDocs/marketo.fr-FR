@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Les ventes peuvent accéder aux fonctionnalités de haut niveau à partir des actions d’aperçu des ventes et obtenir une meilleure visibilité, une efficacité et des performances tout au long du cycle de vente. Les utilisateurs de l’action Sales Insight peuvent sélectionner le contenu commercial stocké sur la plateforme d’activation des ventes de la zone réactive et l’insérer directement dans les emails, les modèles d’email et les campagnes de vente, tout en capturant le suivi et l’analyse de contenu dans les actions Highspot et Sales Insight.
 
-## Activation de l’intégration de zone réactive {#enabling-highspot-integration}
+## Activation de l’intégration de la zone réactive {#enabling-highspot-integration}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Les ventes peuvent accéder aux fonctionnalités de haut niveau à partir des ac
 
    ![](assets/highspot-integration-2.png)
 
-1. Faites défiler jusqu’à **Intégrations** et cliquez sur le curseur pour activer la zone réactive.
+1. Faites défiler l’écran jusqu’à la carte **Intégrations** et cliquez sur le curseur pour activer la zone réactive.
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ Désormais, les utilisateurs auront la possibilité de sélectionner Zone réact
 
 Accédez à la zone réactive et ajoutez du contenu à vos emails à partir de la fenêtre de composition Actions de statistiques sur les ventes , de l’éditeur de modèles et de l’éditeur d’emails de campagne de vente . Vous trouverez ci-dessous la procédure d’accès au contenu à partir de la fenêtre de composition.
 
-1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple, nous sélectionnons **Composer** dans l’en-tête ).
+1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous sélectionnons **Composer** dans l&#39;en-tête).
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ Accédez à la zone réactive et ajoutez du contenu à vos emails à partir de l
 
    ![](assets/highspot-integration-6.png)
 
-1. Écrivez votre message. Cliquez sur l&#39;emplacement dans l&#39;email où vous souhaitez insérer le contenu Zone réactive. Cliquez sur la liste déroulante de flèche (en regard de l’icône d’image) et sélectionnez **Zone réactive**.
+1. Écrivez votre message. Cliquez sur l&#39;emplacement dans l&#39;email où vous souhaitez insérer le contenu Zone réactive. Cliquez sur la liste déroulante des flèches (en regard de l’icône de l’image) et sélectionnez **Zone réactive**.
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ Accédez à la zone réactive et ajoutez du contenu à vos emails à partir de l
 
    ![](assets/highspot-integration-8.png)
 
-1. Sélectionnez le contenu souhaité, puis cliquez sur le bouton **Ajouter du contenu** bouton .
+1. Sélectionnez le contenu de votre choix et cliquez sur le bouton **Ajouter du contenu** .
 
    ![](assets/highspot-integration-9.png)
 

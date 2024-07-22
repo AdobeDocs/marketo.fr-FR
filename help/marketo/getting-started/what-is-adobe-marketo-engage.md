@@ -47,19 +47,19 @@ Ce n&#39;est pas le cas. C&#39;est facile de commencer en Marketo Engage, et ça
 
 ## Dois-je effectuer une configuration ? {#do-i-need-to-do-any-setup}
 
-Oui, il y a quelques étapes à suivre (ou nous vous recommandons vivement), et [on peut les trouver ici](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Oui, il y a quelques étapes que vous devez (ou nous vous recommandons vivement) faire, et [elles sont disponibles ici](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Dois-je attendre que la configuration soit terminée pour apprendre ? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Non ! Nous avons créé un tas de tutoriels faciles. [Prise en main ici](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Ça devrait prendre environ une heure. Vous pouvez commencer à tout moment.
+Non ! Nous avons créé un tas de tutoriels faciles. [Commencez ici](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Ça devrait prendre environ une heure. Vous pouvez commencer à tout moment.
 
 ## Existe-t-il une liste des éléments qui couvrent les limites, comme le nombre total d’emails que je peux envoyer en une semaine ? {#list-of-limits}
 
-Il y en a. Des limites statiques (et d’autres paramètres) sont définies. [dans cet article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Il y en a. Des limites statiques (et d’autres paramètres) sont décrites [dans cet article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Combien de temps Marketo conserve-t-il sur mes données ? {#data-retention-policy}
 
-Veuillez consulter [billet de blog de cette nation marketing](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} pour plus d’informations.
+Pour plus d’informations, consultez [ce billet de blog de Marketing Nation](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} .
 
 <br>
 

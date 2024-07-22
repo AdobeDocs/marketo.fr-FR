@@ -17,7 +17,7 @@ Avez-vous tellement de segments que le défilement devient encombrant ? Utilisez
 
 ## Balisage d’un segment {#tag-a-segment}
 
-1. Connectez-vous à la personnalisation web et accédez à **Segments**.
+1. Connectez-vous à Web Personalization et accédez à **Segments**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Avez-vous tellement de segments que le défilement devient encombrant ? Utilisez
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Pour utiliser une étiquette existante, cliquez sur **Définir le libellé**, cochez une case, puis cliquez sur **Appliquer**.
+1. Pour utiliser un libellé existant, cliquez sur **Définir le libellé**, cochez une case, puis cliquez sur **Appliquer**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Ou, pour créer un libellé, cliquez sur **Définir le libellé**, saisissez le nouveau nom du libellé, puis cliquez sur **Créer**.
+1. Ou, pour créer une nouvelle étiquette, cliquez sur **Définir le libellé**, saisissez le nouveau nom du libellé, puis cliquez sur **Créer nouveau**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

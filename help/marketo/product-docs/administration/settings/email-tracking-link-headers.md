@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Suivez les étapes ci-dessous pour personnaliser les en-têtes de lien de suivi des emails.
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/email-tracking-link-headers-1.png)
 
@@ -22,13 +22,13 @@ Suivez les étapes ci-dessous pour personnaliser les en-têtes de lien de suivi 
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. Faites défiler l’écran jusqu’à Options d’en-tête personnalisées. Sélectionnez les paramètres de votre choix, puis cliquez sur **[!UICONTROL Enregistrer les modifications]**.
+1. Faites défiler jusqu’à Options d’en-tête personnalisé. Choisissez les paramètres voulus et cliquez sur **[!UICONTROL Enregistrer les modifications]**.
 
    ![](assets/email-tracking-link-headers-3.png)
 
 <table>
  <tr>
-  <td><strong>Strict Transport-Security</strong></td>
+  <td><strong>Strict-Transport-Security</strong></td>
   <td>Utilisez cette option pour garantir que les liens de suivi seront toujours diffusés via HTTPS (ne doit être défini que pour les abonnements avec des liens de suivi sécurisés par SSL).</td>
  </tr>
 </table>

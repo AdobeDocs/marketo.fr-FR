@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147124
-description: Utilisation de l’onglet Ressources - Documents Marketo - Documentation du produit
-title: Utilisation de l’onglet Ressources
+description: Utilisation de l’onglet Assets - Documents Marketo - Documentation du produit
+title: Utilisation de l’onglet Assets
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
@@ -11,13 +11,13 @@ ht-degree: 4%
 
 ---
 
-# Utilisation de l’onglet Ressources {#using-the-assets-tab}
+# Utilisation de l’onglet Assets {#using-the-assets-tab}
 
 Le canevas de ressource est une représentation visuelle de votre programme d’événement ou par défaut. Vous pouvez l’utiliser pour ajouter des ressources locales et interagir avec des ressources existantes.
 
-## Ajout de ressources {#adding-assets}
+## Ajout d’Assets {#adding-assets}
 
-Cliquez sur le bouton **[!UICONTROL Ressources]** dans le programme souhaité. Sélectionnez l’une des ressources ci-dessous et ajoutez-les à votre programme.
+Cliquez sur l’onglet **[!UICONTROL Assets]** dans le programme souhaité. Sélectionnez l’une des ressources ci-dessous et ajoutez-les à votre programme.
 
 ![](assets/programassets.png)
 
@@ -37,7 +37,7 @@ Cliquez avec le bouton droit sur l’en-tête si vous souhaitez interagir avec c
 >
 >Effectuez un glisser-déposer pour réorganiser les colonnes de ressources.
 
-Les ressources qui ne sont pas locales à votre programme se présentent comme suit :
+Les Assets qui ne sont pas locales à votre programme se présentent comme suit :
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 

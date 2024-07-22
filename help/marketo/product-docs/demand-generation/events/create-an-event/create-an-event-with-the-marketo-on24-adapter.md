@@ -15,34 +15,34 @@ ht-degree: 0%
 
 Vous devez connaître les blocs de création et la séquence recommandée pour la création d’événements dans Marketo. Vous devez également posséder une connaissance pratique des concepts Marketo suivants :
 
-* [Programmes Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} ainsi que les événements, et les différences entre eux.
+* [Programmes Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} ainsi que des événements, et les différences entre eux
 * [Canaux](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
-* [Ressources locales](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
-* [Campagnes enfants](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} et [Statuts du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
+* [Assets locale](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
+* [Campagnes enfants](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} et [États du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->Reportez-vous à [Documentation de l’API Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} pour plus d’informations sur les API Marketo.
+>Pour plus d’informations sur les API Marketo, reportez-vous à la [documentation de l’API Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 ## Conditions préalables {#prerequisites}
 
 Les éléments suivants sont requis pour utiliser l’intégration Marketo ON24 :
 
-* **Abonnement aux webcasts ON24** - Si vous ne disposez pas d&#39;un abonnement actuel, contactez directement ON24. **REMARQUE**: l’édition hébergée ON24 est requise. La gestion des événements ON24 n’est pas requise.
+* **Abonnement à ON24 webcasts** - Si vous ne disposez pas d’un abonnement actuel, contactez directement ON24. **REMARQUE** : L’édition hébergée ON24 est requise. La gestion des événements ON24 n’est pas requise.
 
-* **Droits d’administrateur sur ON24** - Vous en aurez besoin pour utiliser ce connecteur et créer des invités dans le système ON24.
-* **Identifiants de connexion ON24** - Vous devrez saisir ces informations dans Marketo pour activer l’intégration : nom d’utilisateur, mot de passe, identifiant du client et clé du client. Contactez votre gestionnaire de compte ON24 ou l’assistance ON24 si vous avez besoin d’aide sur vos informations d’identification.
+* **Droits d&#39;administrateur sur ON24** - Vous aurez besoin de ceci pour utiliser ce connecteur et créer des invités dans le système ON24.
+* **Informations d’identification de connexion ON24** - Vous devrez saisir ces informations dans Marketo pour activer l’intégration : nom d’utilisateur, mot de passe, ID client et clé client. Contactez votre gestionnaire de compte ON24 ou l’assistance ON24 si vous avez besoin d’aide sur vos informations d’identification.
 * **Formulaire d’enregistrement** - Utilisez un formulaire Marketo ou un formulaire non Marketo avec l’API appropriée pour vous assurer que les données d’enregistrement et les informations d’enregistrement sont transmises à Marketo.
-* **Campagne d’enregistrement** - Une campagne enfant d’enregistrement dans votre événement Marketo doit être créée et configurée correctement pour que votre intégration de partenaire d’événement fonctionne.
+* **Campagne d’enregistrement enfant** - Une campagne enfant d’enregistrement dans votre événement Marketo doit être créée et configurée correctement pour que votre intégration de partenaire d’événement fonctionne.
 
 ## Flux de processus {#process-flow}
 
 Pour créer un événement avec l’adaptateur Marketo On24, procédez comme suit :
 
-1. [Création de votre événement de webinaire dans ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
+1. [Créer votre événement de webinaire dans ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
 1. [Configuration des paramètres d’événement et synchronisation du Marketo avec votre webinaire](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}
-1. [Créer des campagnes enfants et des ressources locales](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}
+1. [Créer des campagnes enfants et Assets local](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}
 1. [Test de votre intégration d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}
 1. [Exemple d’intégration d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
-1. [Présentation des états du programme du webinaire](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
+1. [Comprendre les états du programme webinaire](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
 1. [Mises à jour de l’enregistrement d’événement ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}

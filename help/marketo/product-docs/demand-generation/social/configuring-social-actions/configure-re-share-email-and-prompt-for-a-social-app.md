@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Configuration de la fonction de repartage de courrier électronique et d’invitation pour une application Social {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Lorsque vous créez une [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez inviter les participants à partager votre offre avec d’autres amis dans le cadre du processus d’inscription, ainsi que fournir le texte par défaut de l’e-mail de partage.
+Lorsque vous créez une [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou un [tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez inviter les participants à partager votre offre avec d’autres amis dans le cadre du processus d’inscription et fournir le texte par défaut pour le message de partage.
 
 >[!NOTE]
 >
->Dans une offre de parrainage, vous pouvez également [rendre obligatoire le partage de l’offre](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) pour vous inscrire.
+>Dans une offre de parrainage, vous pouvez également [ obliger le partage de l&#39;offre](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) à s&#39;inscrire.
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez l’offre de parrainage, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’offre de référence, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. Dans l&#39;éditeur d&#39;offres de parrainage, accédez à **Flux d’inscription** > **Invite de repartage**.
+1. Dans l’éditeur d’offres de référence, accédez à **Flux d’inscription** > **Invite de repartage**.
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,10 +37,10 @@ Lorsque vous créez une [offre de parrainage](/help/marketo/product-docs/demand-
    >
    >L’e-mail inclut automatiquement l’URL de partage unique de votre participant.
 
-1. Dans le **Afficher et modifier** fenêtre, cliquez sur **Afficher les modifications** et modifiez l’invitation à partager ainsi que les instructions de suivi de la progression.
+1. Dans la fenêtre **Afficher et modifier**, cliquez sur **Afficher les modifications** et modifiez l’invitation à partager ainsi que les instructions de suivi de progression.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->Vous pouvez ensuite configurer la variable [suivre le flux de progression dans une offre de référence ;](configure-track-progress-flow-for-a-referral-offer.md)ou cliquez sur **Terminer** > **Approuver et fermer** to [publier votre offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) ou [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
+>Ensuite, vous pouvez configurer le [flux de progression de suivi dans une offre de référence](configure-track-progress-flow-for-a-referral-offer.md), ou cliquer sur **Terminer** > **Approuver et fermer** pour [publier votre offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) ou [tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).

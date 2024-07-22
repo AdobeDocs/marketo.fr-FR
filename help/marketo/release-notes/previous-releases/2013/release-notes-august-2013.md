@@ -6,18 +6,18 @@ exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 15%
+source-wordcount: '209'
+ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : Août 2013 {#release-notes-august}
+# Notes de mise à jour : août 2013 {#release-notes-august}
 
 Les fonctionnalités suivantes sont incluses dans la version d’août 2013.
 
-**E-mails en texte brut**
+**Courriers électroniques textuels uniquement**
 
-Maintenant, vous pouvez envoyer [juste la version texte](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) d’un email. Gardez à l’esprit que les liens ne seront pas décorés lors de l’utilisation de cette option.
+Vous pouvez maintenant envoyer [uniquement la version texte](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) d&#39;un email. Gardez à l’esprit que les liens ne seront pas décorés lors de l’utilisation de cette option.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -25,31 +25,31 @@ Maintenant, vous pouvez envoyer [juste la version texte](/help/marketo/product-d
 
 ### Ignorer le contenu extrait {#ignore-exhausted-content}
 
-Configuration du programme d’engagement pour [ignorer l&#39;épuisement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), y compris la suppression des notifications.
+Configurez le programme d’engagement pour [ignorer l’épuisement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), y compris la suppression des notifications.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Test de flux d’engagement {#engagement-stream-testing}
 
-Utilisez la variable [nouvelle fonctionnalité de test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) pour simuler une diffusion et tester le contenu nouvellement ajouté à un flux en direct.
+Utilisez la [nouvelle fonctionnalité de test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) pour simuler une diffusion et tester le contenu nouvellement ajouté dans un flux en direct.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
 ## Tester un envoi personnalisé {#personalized-send-test}
 
-Lorsque vous envoyez un e-mail test, vous pouvez choisir le nom d&#39;un lead pour personnaliser l&#39;e-mail test.
+Lorsque vous envoyez un test d’email, vous pouvez sélectionner le nom d’une piste pour personnaliser l’email de test.
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 
 ## &quot;Afficher le courrier électronique comme page web&quot; et &quot;Désabonner&quot; jetons système {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Les utiliser [nouveaux jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) pour offrir un meilleur contrôle sur leur placement dans les emails.
+Utilisez ces [nouveaux jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) pour mieux contrôler leur placement dans les emails.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## Nettoyage des campagnes à déclencheurs automatique {#automatic-trigger-campaign-cleanup}
 
-Marketo vous avertira désormais de manière périodique et [désactivation automatique des campagnes de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) qui n&#39;ont pas été exécutés au cours des six derniers mois.
+Marketo vous avertit désormais régulièrement et [désactive automatiquement les campagnes de déclenchement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) qui ne se sont pas exécutées au cours des six derniers mois.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

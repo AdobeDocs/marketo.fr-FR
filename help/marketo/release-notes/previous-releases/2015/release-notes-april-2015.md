@@ -6,12 +6,12 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 10%
+source-wordcount: '326'
+ht-degree: 9%
 
 ---
 
-# Notes de mise à jour : Avril 2015 {#release-notes-april}
+# Notes de mise à jour : avril 2015 {#release-notes-april}
 
 Les fonctionnalités suivantes sont incluses dans la version d’avril 2015. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Après la publication de la version, veillez à revenir à la page de liens vers des articles détaillés pour chaque fonctionnalité.
 
@@ -23,7 +23,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’avril 2015. Vé
 >
 >Cette fonctionnalité sera publiée le mardi 28 avril.
 
-La nouvelle [Page d’accueil d’Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet un accès rapide à l’exécution des rapports ad hoc pour tous les types de rapports disponibles.
+La nouvelle [page d’accueil d’Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet d’accéder rapidement à l’exécution des rapports ad hoc pour tous les types de rapports disponibles.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -31,7 +31,7 @@ En outre, l’organisation de rapports privée et partagée est désormais dispo
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-**Engagement mobile de Marketo**
+**Engagement Marketo Mobile**
 
 Grâce à Marketo Mobile Engagement, il est facile de proposer des expériences mobiles attrayantes. Créez des campagnes hautement personnalisées qui diffusent du contenu attrayant sans jamais avoir à faire appel à une équipe de développement d’applications. Les nouveaux filtres et déclencheurs vous permettent d’écouter et de répondre sur le canal mobile par le biais de notifications push.
 
@@ -41,7 +41,7 @@ Grâce à Marketo Mobile Engagement, il est facile de proposer des expériences 
 
 [Intégration de Lead Accelerator de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Étendez votre stratégie de prise en charge des prospects pour les publicités display et sociales payantes. Le [intégration réseau publicitaire](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) grâce à l’accélérateur de piste LinkedIn, vous pouvez créer en toute sécurité un segment d’audience dans LinkedIn en fonction des membres d’une liste dynamique ou statique. Les membres d’un segment d’audience LinkedIn peuvent ensuite être nourris avec une séquence de publicités pertinentes.
+Étendez votre stratégie de prise en charge des prospects pour les publicités display et sociales payantes. L’ [ intégration réseau de publicités ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) avec l’accélérateur de piste LinkedIn vous permet de créer en toute sécurité un segment d’audience dans LinkedIn en fonction des membres de toute liste dynamique ou statique. Les membres d’un segment d’audience LinkedIn peuvent ensuite être nourris avec une séquence de publicités pertinentes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

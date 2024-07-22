@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## Autorisations des utilisateurs administrateurs {#admin-user-permissions}
 
-Les administrateurs peuvent [afficher tous les modèles ;](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+Les administrateurs peuvent [afficher tous les modèles](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/user-access-details-1.png)
 
-Les administrateurs peuvent [afficher toutes les campagnes ;](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Les administrateurs peuvent [afficher toutes les campagnes](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/user-access-details-2.png)
 
@@ -40,7 +40,7 @@ Les administrateurs peuvent arrêter les campagnes pour le compte des utilisateu
 
 ## Autorisations des utilisateurs non administrateurs {#non-admin-user-permissions}
 
-* Analytics:
+* Analytics :
 
    * Les utilisateurs peuvent voir les analyses de l’équipe
    * Les utilisateurs peuvent uniquement analyser les équipes auxquelles ils appartiennent.

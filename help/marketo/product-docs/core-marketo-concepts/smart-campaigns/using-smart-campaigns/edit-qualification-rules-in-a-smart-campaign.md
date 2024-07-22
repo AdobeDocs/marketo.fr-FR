@@ -6,7 +6,7 @@ exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Les règles de qualification contrôlent le nombre de fois où une personne peut exécuter le flux dans une campagne dynamique. Par défaut, même si une personne déclenche une campagne dynamique plusieurs fois, elle ne sera envoyée qu’une seule fois par le flux. Voici comment modifier ces paramètres.
 
-1. Dans votre campagne dynamique, cliquez sur le bouton **[!UICONTROL Planification]** puis **[!UICONTROL Modifier les paramètres]**.
+1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planning]** , puis **[!UICONTROL Modifier les paramètres]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >Cliquez également sur **[!UICONTROL Modifier]** à droite de Paramètres de campagne dynamique.
+   >Vous pouvez également cliquer sur **[!UICONTROL Modifier]** à droite de &quot;Paramètres de campagne dynamique&quot;.
 
-1. Choisissez la fréquence d’exécution de vos personnes dans le flux de campagne dynamique : **[!UICONTROL only]**, **[!UICONTROL à chaque heure]**, ou **une fois tous les # jours**/**semaines**/**months**.
+1. Choisissez la fréquence d&#39;exécution de vos utilisateurs par le flux de campagne dynamique : **[!UICONTROL une seule fois]**, **[!UICONTROL à chaque fois]** ou **une fois tous les # jours**/**semaines**/**mois**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -33,10 +33,10 @@ Les règles de qualification contrôlent le nombre de fois où une personne peut
 
    >[!NOTE]
    >
-   >Par défaut, les limites de communication ne sont pas appliquées aux campagnes intelligentes. Découvrez comment [appliquer des limites de communication à une campagne dynamique ;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
+   >Par défaut, les limites de communication ne sont pas appliquées aux campagnes intelligentes. Découvrez comment [appliquer des limites de communication à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >[Application de limites de communication aux campagnes dynamiques](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
+   >[Appliquer les limites de communication aux campagnes dynamiques](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
 
 Mission accomplie ! Vous savez maintenant comment contrôler les règles de qualification dans une campagne dynamique.

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10097969
 description: Création d’un modèle de page d’entrée de forme libre - Documents Marketo - Documentation du produit
-title: Créer un modèle de page d’entrée de forme libre
+title: Création d’un modèle de page d’entrée de forme libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Créer un modèle de page d’entrée de forme libre {#create-a-free-form-landing-page-template}
+# Création d’un modèle de page d’entrée de forme libre {#create-a-free-form-landing-page-template}
 
 Les landing pages sans forme nécessitent moins de connaissances techniques que leurs homologues guidés. Pour créer un modèle pour les futures landing pages, procédez comme suit.
 
@@ -33,9 +33,9 @@ Les landing pages sans forme nécessitent moins de connaissances techniques que 
 
    >[!NOTE]
    >
-   >La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés aux HTMLS personnalisés. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
+   >La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés à l’HTML personnalisé. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
 
-1. Une fois les modifications effectuées, cliquez sur **Actions de modèle**, puis sélectionnez **Approuver et fermer**.
+1. Lorsque vous avez terminé d’apporter des modifications, cliquez sur **Actions sur les modèles**, puis sélectionnez **Approuver et fermer**.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Les landing pages sans forme nécessitent moins de connaissances techniques que 
 
    >[!NOTE]
    >
-   >Sélectionner **Désactiver le suivi Munchkin** si vous souhaitez empêcher le préremplissage des formulaires, ou ne souhaitez pas effectuer le suivi du comportement web sur une page spécifique.\
-   >Sélectionner **Validation de la compatibilité mobile** pour vous assurer que votre code est compatible avec les appareils mobiles.
+   >Sélectionnez **Désactiver le suivi Munchkin** si vous souhaitez empêcher le préremplissage des formulaires ou si vous ne souhaitez pas suivre le comportement web sur une page spécifique.\
+   >Sélectionnez **Valider la compatibilité mobile** pour vous assurer que votre code est compatible avec les appareils mobiles.
 
    >[!MORELIKETHIS]
    >
-   >* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >* [Création d’un modèle de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-   >* [Présentation des pages d’entrée libres ou guidées](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+   >* [Créer une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Créer un modèle de page d’entrée guidée](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Comprendre les pages d’entrée libres ou guidées](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

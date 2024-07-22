@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Rendre l’utilisateur de synchronisation Marketo un utilisateur marketing {#make-marketo-sync-user-a-marketing-user}
 
-La variable [Utilisateur de synchronisation Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} doit être un utilisateur marketing pour que la synchronisation des campagnes Salesforce fonctionne correctement. Voici comment faire de l’utilisateur un utilisateur marketing dans Salesforce.
+L’ [ utilisateur de synchronisation Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} doit être un utilisateur marketing pour que la synchronisation de campagne Salesforce fonctionne correctement. Voici comment faire de l’utilisateur un utilisateur marketing dans Salesforce.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Connectez-vous à Salesforce. Recherchez des utilisateurs dans la barre de recherche de gauche, puis cliquez sur **[!UICONTROL Utilisateurs]** under **[!UICONTROL Gestion des utilisateurs]**.
+1. Connectez-vous à Salesforce. Recherchez des utilisateurs dans la barre de recherche de gauche et cliquez sur **[!UICONTROL Users]** sous **[!UICONTROL Gestion des utilisateurs]**.
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 
@@ -31,7 +31,7 @@ La variable [Utilisateur de synchronisation Marketo](/help/marketo/product-docs/
 
    ![](assets/image2015-7-8-14-3a29-3a7.png)
 
-1. Vérifiez les **[!UICONTROL Utilisateur marketing]** , puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Utilisateur marketing]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 

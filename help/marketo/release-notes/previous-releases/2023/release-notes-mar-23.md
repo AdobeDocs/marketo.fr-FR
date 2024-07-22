@@ -16,17 +16,17 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 >[!AVAILABILITY]
 >
->Fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
+>Les fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **31 mars 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
+Les fonctionnalités suivantes entrent dans le cycle de publication standard et commenceront à être publiées le **31 mars 2023**, avec un déploiement progressif des fonctionnalités restantes au cours des semaines suivantes. Les fonctions et dates de publication peuvent faire l’objet de modifications. Vérifiez l’état de chaque fonctionnalité ci-dessous.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Amélioration utilisée par le composant pour les détails du modèle de page d’entrée et les détails du formulaire**: l’onglet Nouveau utilisé par l’interface utilisateur fournit des informations supplémentaires dans les détails du modèle de page d’entrée et les détails du formulaire, y compris des détails supplémentaires sur les ressources qui ont utilisé une ressource sélectionnée. Effectuez une analyse sur de longues listes de ressources par le biais des fonctionnalités de recherche, de tri et de filtrage.
+* **Utilisation améliorée par le composant pour les détails du modèle de page d’entrée et les détails du formulaire** : l’onglet Nouveau utilisé par l’interface utilisateur fournit des informations supplémentaires dans les détails du modèle de page d’entrée et les détails du formulaire, y compris des détails supplémentaires sur les ressources qui ont utilisé une ressource sélectionnée. Effectuez une analyse sur de longues listes de ressources par le biais des fonctionnalités de recherche, de tri et de filtrage.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-* **Supprimer Basculer et Basculer l’expérience classique des pages d’entrée**: l’obsolescence du bouton bascule et de l’expérience classique pour les pages d’entrée vous aidera à complètement adopter la nouvelle expérience. La nouvelle expérience permet une utilisation complète des fonctionnalités fournies avec ces ressources sans avoir à compter sur l’ancienne expérience ou sans devoir constamment basculer entre les deux expériences.
+* **Supprimer le commutateur et l’expérience classique des pages d’entrée** : l’abandon du commutateur et de l’expérience classique de basculement pour les pages d’entrée vous aidera à complètement adopter la nouvelle expérience. La nouvelle expérience permet une utilisation complète des fonctionnalités fournies avec ces ressources sans avoir à compter sur l’ancienne expérience ou sans devoir constamment basculer entre les deux expériences.
 
 <table> 
   <tr> 
@@ -54,7 +54,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tbody>
 </table>
 
-* **Amélioration des performances des noeuds d’arborescence**: les personnes avec un grand nombre de noeuds d’arborescence verront une amélioration significative des performances.
+* **Améliorations des performances des noeuds d’arborescence** : les personnes qui disposent d’un grand nombre de noeuds d’arborescence verront une amélioration significative des performances.
 
 <table> 
   <tr> 
@@ -72,7 +72,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 </br>
 
-* **Mettre à niveau l’intégration de Marketo Facebook pour utiliser la mise à jour de l’API Facebook Graph**: avec la mise à niveau récente de Facebook vers l’API Facebook Graph v15, il existe désormais une limite de 500 audiences personnalisées pouvant être créées pour un compte publicitaire particulier.
+* **Mettre à niveau l’intégration de Marketo Facebook pour utiliser la mise à jour de l’API Facebook Graph** : avec la récente mise à niveau de Facebook vers l’API Facebook Graph v15, il existe désormais une limite de 500 audiences personnalisées pouvant être créées pour un compte publicitaire particulier.
 
 <table> 
   <tr> 
@@ -94,7 +94,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 </br>
 
-* **Rapport Engagement dans le dialogue pour le Dynamic Chat**: fournit une vue de l’engagement Dialogue au fil du temps, y compris la possibilité de filtrer par type de visiteur et type d’engagement afin de fournir une meilleure visibilité aux utilisateurs.
+* **Rapport Engagement dans le dialogue pour le Dynamic Chat** : fournit un aperçu de l’engagement dans le dialogue au fil du temps, y compris la possibilité de filtrer par type de visiteur et type d’engagement pour offrir une meilleure visibilité aux utilisateurs.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Rôles et autorisations pour Dynamic Chat**: introduit des rôles et des autorisations à Dynamic Chat, ce qui permet aux administrateurs de limiter la visibilité et l’utilisation des différentes zones de l’application aux types d’utilisateurs sélectionnés.
+* **Rôles et autorisations pour Dynamic Chat** : introduit des rôles et des autorisations pour Dynamic Chat, ce qui permet aux administrateurs de limiter la visibilité et l’utilisation des différentes zones de l’application aux types d’utilisateurs sélectionnés.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Chat en tant que canal de programme pour Dynamic Chat**: crée un canal de programme &quot;Chat&quot; pour suivre la progression du programme pour les personnes acquises par le Dynamic Chat. Par exemple, un spécialiste du marketing a un programme associé à un dialogue de Dynamic Chat pour capturer de nouvelles pistes. Ils peuvent désormais attribuer à ce programme le canal Chat afin qu’ils puissent suivre quand les prospects sont membres du programme et quand ils ont réussi.
+* **Chat comme canal de programme pour Dynamic Chat** : crée un nouveau canal de programme &quot;Chat&quot; pour suivre la progression du programme pour les personnes acquises par Dynamic Chat. Par exemple, un spécialiste du marketing a un programme associé à un dialogue de Dynamic Chat pour capturer de nouvelles pistes. Ils peuvent désormais attribuer à ce programme le canal Chat afin qu’ils puissent suivre quand les prospects sont membres du programme et quand ils ont réussi.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Attributs déduits pour le Dynamic Chat**: garantit que les données IP déduites (ville, état, pays, etc.) est écrit dans l’enregistrement de la personne pour les nouvelles personnes acquises par le Dynamic Chat.
+* **Attributs déduits pour le Dynamic Chat** : garantit que les données IP déduites (ville, état, pays, etc.) est écrit dans l’enregistrement de la personne pour les nouvelles personnes acquises par le Dynamic Chat.
 
 <table> 
   <tr> 
@@ -150,7 +150,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Prise en charge linguistique supplémentaire pour le Dynamic Chat**: vous pouvez désormais choisir parmi neuf langues prises en charge pour afficher le contenu statique du Dynamic Chat dans .
+* **Prise en charge linguistique supplémentaire pour Dynamic Chat** : vous pouvez désormais choisir parmi neuf langues prises en charge pour afficher le contenu du Dynamic Chat statique dans.
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
   </tbody>
 </table>
 
-* **Accès au noeud dans l’aperçu du concepteur de diffusion pour Dynamic Chat**: accédez directement à un noeud dans le concepteur de flux à partir du panneau d’aperçu.
+* **Accès au noeud dans l’aperçu Designer de diffusion pour Dynamic Chat** : accédez directement à un noeud dans le Designer de diffusion à partir du panneau d’aperçu.
 
 <table> 
   <tr> 
@@ -180,4 +180,4 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à dive
 
 ## Annonces {#announcements}
 
-* **_Webinaire sur la version du produit_**: [Webinaire de mise à jour des Marketo Engage de mars et mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinaire sur la version du produit_** : [Webinaire sur la version de Marketo Engage de mars et mai 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

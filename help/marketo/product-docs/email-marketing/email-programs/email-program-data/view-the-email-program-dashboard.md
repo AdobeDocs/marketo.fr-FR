@@ -17,7 +17,7 @@ Vérifiez les performances de votre programme de messagerie (avec ou sans test A
 
 >[!CAUTION]
 >
->Pour des rapports précis, évitez les _réutiliser_ un email provenant d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, veuillez [le cloner](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} car copie le courrier électronique, mais en crée un avec un nouvel ID de courrier électronique.
+>Pour une création de rapports exacte, évitez de _réutiliser_ un email d’un programme de messagerie, soit en le référençant dans une campagne dynamique, soit en déplaçant la ressource du programme de messagerie lancé vers un nouveau programme. Cela agrégera toutes les données de chaque tableau de bord de rapport joint à cet email. Si vous devez réutiliser un email, [clonez-le](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} à la place, car cela copie l&#39;email mais en crée un avec un nouvel ID d&#39;email.
 
 ## Sélectionner votre programme de messagerie {#select-your-email-program}
 
@@ -41,7 +41,7 @@ Si vous avez ajouté un test A/B à votre programme de messagerie et que le test
 
 ## Programme de messagerie électronique {#email-program-view}
 
-Sinon, si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les éléments suivants doivent s’afficher :
+Si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, les éléments suivants doivent s’afficher :
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -51,5 +51,5 @@ Sinon, si vous n’avez pas ajouté de test A/B *ou* si le test est terminé, le
 
 >[!MORELIKETHIS]
 >
->* [Utilisation du tableau de bord du programme de messagerie électronique - vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Utilisation du tableau de bord du programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Utiliser le tableau de bord du programme de messagerie électronique - Vue de test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Utiliser le tableau de bord du programme de messagerie électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

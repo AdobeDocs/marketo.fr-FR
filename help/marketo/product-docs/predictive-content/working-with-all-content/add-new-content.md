@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Vous pouvez facilement ajouter du contenu manuellement à la page Tout le contenu .
 
-1. Cliquez sur le bouton **Ajouter du contenu** et sélectionnez **Ajouter du contenu**.
+1. Cliquez sur la liste déroulante **Ajouter du contenu** et sélectionnez **Ajouter du contenu**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -31,7 +31,7 @@ Vous pouvez facilement ajouter du contenu manuellement à la page Tout le conten
 
    ![](assets/all-content-add-hand.png)
 
-1. Le nouveau titre s’affiche désormais sur la page **Tout contenu** page. Notez qu’il n’est pas encore approuvé pour le contenu prédictif.
+1. Le nouveau titre apparaît désormais sur la page **Tout le contenu**. Notez qu’il n’est pas encore approuvé pour le contenu prédictif.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

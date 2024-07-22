@@ -24,7 +24,7 @@ Cet onglet répertorie tous les agents de votre instance de Dynamic Chat et incl
 
 >[!NOTE]
 >
->Ne pas voir un agent que vous _just_ ajouté ? Il peut s’écouler jusqu’à deux heures avant qu’ils n’apparaissent ici après leur ajout dans la console d’administration Adobe.
+>Vous ne voyez pas un agent que vous _venez d&#39;ajouter_ ? Il peut s’écouler jusqu’à deux heures avant qu’ils n’apparaissent ici après leur ajout dans la console d’administration Adobe.
 
 ## Équipes {#teams}
 
@@ -46,7 +46,7 @@ Les administrateurs peuvent créer des équipes d’agents pour faciliter le rou
 
    ![](assets/agent-management-5.png)
 
-1. Cliquez sur le bouton **Ajout d’agents** et sélectionnez les agents de votre choix.
+1. Cliquez sur la liste déroulante **Ajouter des agents** et sélectionnez les agents de votre choix.
 
    ![](assets/agent-management-6.png)
 
@@ -70,7 +70,7 @@ Sélectionnez un message standard (système) ou créez-en un personnalisé pour 
 
 >[!NOTE]
 >
->En sélectionnant le **Option de réservation d’une réunion** La case à cocher permet au visiteur de la conversation de réserver une réunion lorsqu’aucun agent n’est disponible pour la discussion en direct.
+>Si vous cochez la case **Inclure l’option de réservation de réunions** , le visiteur du chat aura la possibilité de réserver une réunion lorsqu’aucun agent n’est disponible pour discuter en direct.
 
 >[!TIP]
 >

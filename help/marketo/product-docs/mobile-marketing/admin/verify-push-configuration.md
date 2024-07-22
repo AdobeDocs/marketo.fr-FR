@@ -19,11 +19,11 @@ ht-degree: 7%
 
 Vérifiez la configuration push pour vous assurer que tout est correctement synchronisé.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionner **Applications mobiles**.
+1. Sélectionnez **Applications mobiles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,7 +31,7 @@ Vérifiez la configuration push pour vous assurer que tout est correctement sync
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Cliquez sur **Actions de l’application mobile** et sélectionnez **Vérification de la configuration push**.
+1. Cliquez sur **Actions d’application mobile** et sélectionnez **Vérifier la configuration push**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
@@ -43,4 +43,4 @@ Tout est prêt ! Vous pouvez maintenant commencer à envoyer des notifications p
 
 >[!MORELIKETHIS]
 >
->[Création d’une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>[Créer une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)

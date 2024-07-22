@@ -26,11 +26,11 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. Sur la page de modification du formulaire, cliquez sur **[!UICONTROL Paramètres de formulaire]**, puis **[!UICONTROL Paramètres]**.
+1. Sur la page de modification du formulaire, cliquez sur **[!UICONTROL Paramètres de formulaire]**, puis sur **[!UICONTROL Paramètres]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Paramètres de flux de conversation]** curseur à activer.
+1. Cliquez sur le curseur **[!UICONTROL Paramètres de flux de conversation]** pour l’activer.
 
    ![](assets/conversational-flow-settings-4.png)
 
@@ -38,7 +38,7 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Sélectionnez la **[!UICONTROL Flux de conversation]** et **[!UICONTROL Type de diffusion]**.
+1. Sélectionnez le **[!UICONTROL flux de conversation]** et le **[!UICONTROL type de diffusion]** de votre choix.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,7 +46,7 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
    >
    >[En savoir plus sur les flux de conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **ÉTAPE FACULTATIVE**: cliquez sur **[!UICONTROL Ajouter un choix]** pour cibler les visiteurs qui répondent à des critères spécifiques. Vous pouvez ajouter jusqu&#39;à neuf choix pour un total de dix.
+   **ÉTAPE FACULTATIVE** : Vous pouvez cliquer sur **[!UICONTROL Ajouter un choix]** pour cibler les visiteurs de chat qui répondent à un critère spécifique. Vous pouvez ajouter jusqu&#39;à neuf choix pour un total de dix.
 
    ![](assets/conversational-flow-settings-7.png)
 
@@ -54,7 +54,7 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
    >
    >Le navigateur du visiteur doit être une personne connue en tant que cookie avant l’envoi du formulaire pour être admissible comme membre de la liste statique/dynamique.
 
-   **ÉTAPE FACULTATIVE**: cliquez sur le bouton **+** connectez-vous au cours de chaque étape pour ajouter d’autres attributs, ce qui vous permet de restreindre votre audience ciblée (les attributs disponibles sont les champs que vous avez choisis pour le formulaire). Dans cet exemple, nous ciblons les rédacteurs techniques Adobes en Californie.
+   **ÉTAPE FACULTATIVE** : cliquez sur le signe **+** dans chaque étape pour ajouter d’autres attributs, ce qui vous permet de réduire l’audience ciblée (les attributs disponibles sont les champs que vous avez choisis pour le formulaire). Dans cet exemple, nous ciblons les rédacteurs techniques Adobes en Californie.
 
    ![](assets/conversational-flow-settings-8.png)
 
@@ -62,7 +62,7 @@ Rendez Marketo Engage Forms conversationnel en l’intégrant aux flux de conver
    >
    >La logique de critère définie sur &quot;tous&quot; signifie que chaque attribut doit être rempli pour être admissible. La logique de critère définie sur &quot;any&quot; signifie que l’un des attributs suffit.
 
-   **ÉTAPE FACULTATIVE**: si vous ajoutez plusieurs options, vous pouvez les réorganiser en cliquant sur leurs flèches haut/bas.
+   **ÉTAPE FACULTATIVE** : si vous ajoutez plusieurs choix, vous pouvez les réorganiser en cliquant sur leurs flèches haut/bas.
 
    ![](assets/conversational-flow-settings-9.png)
 

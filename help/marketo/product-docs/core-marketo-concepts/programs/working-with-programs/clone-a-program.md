@@ -6,7 +6,7 @@ exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cloner rapidement et facilement un programme entier et tous ses actifs au lieu de tout recréer manuellement.
 
-1. Recherchez et sélectionnez le programme que vous souhaitez cloner. Dans le **[!UICONTROL Actions de programme]** menu déroulant, cliquez sur **[!UICONTROL Cloner]**.
+1. Recherchez et sélectionnez le programme que vous souhaitez cloner. Dans la liste déroulante **[!UICONTROL Actions de programme]**, cliquez sur **[!UICONTROL Cloner]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 

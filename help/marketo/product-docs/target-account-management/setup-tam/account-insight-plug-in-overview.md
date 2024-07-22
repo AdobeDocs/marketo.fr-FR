@@ -6,7 +6,7 @@ exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Account Insight est un plug-in Chrome qui permet d’afficher des informations e
 >
 >* Account Insight est inclus pour tous les clients qui disposent à la fois de TAM et de Marketo Sales Insight. Pour les clients qui ne disposent que de la gestion des actifs numériques (TAM), Insight de compte est disponible sous la forme d’un module complémentaire acheté. Chaque client est limité à 250 sièges Account Insight. Pour plus d’informations, contactez votre représentant commercial. Il n’est pas disponible pour les clients qui ne disposent pas de la gestion des actifs numériques (TAM).
 >
->* Ce module externe n’est pas compatible avec [Authentification des identités d’Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} à ce moment-là.
+>* Ce module externe n’est pas compatible avec l’ [authentification d’Adobe d’identité](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} pour l’instant.
 
 >[!CAUTION]
 >
->Le plug-in Account Insight ne fonctionnera pas dans les abonnements qui ont [SSO uniquement](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (authentification unique) activée.
+>Le plug-in Account Insight ne fonctionnera pas dans les abonnements pour lesquels [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (authentification unique) est activé.
 
 >[!CAUTION]
 >
@@ -73,7 +73,7 @@ Le flux d’activité affiche l’activité récente, remontant à sept jours.
 
 ![](assets/af1.png)
 
-Cliquez sur le bouton **Filtrer** pour filtrer selon différents types d’activité.
+Cliquez sur la liste déroulante **Filtre** pour filtrer par différents types d’activité.
 
 ![](assets/af2.png)
 
@@ -85,4 +85,4 @@ Plutôt cool !
 
 >[!MORELIKETHIS]
 >
->[Configuration de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+>[Configurer les statistiques de compte](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

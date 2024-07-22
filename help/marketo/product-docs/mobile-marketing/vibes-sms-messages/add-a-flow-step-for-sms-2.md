@@ -40,7 +40,7 @@ Marketo Engage comprend trois étapes de flux que vous pouvez utiliser dans vos 
 >* Marketo déduplique par numéro de téléphone. Ainsi, si plusieurs personnes ont le même numéro de téléphone, une seule personne recevra le message s’ils ne sont membres que d’une seule liste d’inscription Vibes. Le dédoublonnage est effectué au niveau de la liste d’abonnements Vibes, et non au niveau du programme Marketo.
 >* Marketo n’enverra pas aux personnes placées sur la liste bloquée ou Marketing suspendu.
 
-Pour obtenir des informations générales sur la configuration des étapes de flux, voir [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Pour des informations générales sur la configuration des étapes de flux, voir [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Voici les principes de base de l’utilisation des SMS.
 
@@ -56,7 +56,7 @@ Voici les principes de base de l’utilisation des SMS.
 
    CAPTURE D’ÉCRAN
 
-1. Dans le **Flux** , placez le curseur sur l’étape de flux (par exemple, **Envoyer un message SMS**). Sélectionnez le SMS et la liste Vibes dans les listes déroulantes.
+1. Dans l’onglet **Flux**, faites glisser l’étape de flux (par exemple, **Envoyer un message SMS**). Sélectionnez le SMS et la liste Vibes dans les listes déroulantes.
 
    ![](assets/send-sms-message-hands.jpg)
 
@@ -64,4 +64,4 @@ Voici les principes de base de l’utilisation des SMS.
    >
    >Le sélecteur de liste de vidéos sert de filtre supplémentaire pour l’audience déjà identifiée dans la liste dynamique afin de cibler uniquement les pistes qui appartiennent à cette liste.
    >
-   >La variable **Abonnement à la liste des vidéos** et **Se désabonner de la liste Vibes** les flux ont des exigences différentes. Pour **Abonner**, vous devez sélectionner la liste Vibes et la campagne d&#39;acquisition Vibes . Pour **Désabonner**, seule la liste Vibes est requise.
+   >Les flux **S’abonner à la liste des vidéos** et **Se désabonner de la liste des vidéos** ont des exigences différentes. Pour **S’abonner**, vous devez sélectionner la liste Vibes et la campagne d’acquisition Vibes. Pour **Se désabonner**, seule la liste Vibes est requise.

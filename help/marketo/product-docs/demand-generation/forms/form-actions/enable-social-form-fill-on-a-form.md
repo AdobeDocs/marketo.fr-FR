@@ -27,7 +27,7 @@ Permet à vos visiteurs de remplir le formulaire à l’aide de leur réseau soc
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Sous **Formulaire** **Paramètres** cliquer sur **Paramètres**.
+1. Sous **Form** **Settings**, cliquez sur **Settings**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -37,7 +37,7 @@ Permet à vos visiteurs de remplir le formulaire à l’aide de leur réseau soc
 
    >[!TIP]
    >
-   >Découvrez ce que [données que Marketo va capturer](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseaux sociaux.
+   >Découvrez ce que [Marketo de données capturera](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si les utilisateurs utilisent les boutons de réseaux sociaux.
 
 1. Cliquez sur **Terminer**.
 

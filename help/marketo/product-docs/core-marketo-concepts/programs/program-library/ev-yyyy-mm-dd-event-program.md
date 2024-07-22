@@ -2,11 +2,11 @@
 description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Documentation du produit
 title: EV-YYYY-MM-DD-Event Program
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
-ht-degree: 18%
+source-wordcount: '561'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Il s’agit d’un exemple de programme d’événement avec une page d’enregistrement, trois courriers électroniques d’invitation et des courriers électroniques de relance à l’aide d’un programme d’événement de Marketo Engage. Adapté à tous les événements pour lesquels vous avez besoin d’être inscrit, y compris les tranches horaires, les déjeuners, les dîners ou les présentations lors d’événements organisés dans le cadre d’un salon.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe Compte d’Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
+Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ## Résumé du canal {#channel-summary}
 
@@ -23,7 +23,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <th>Canal</th> 
    <th>État d’appartenance</th>
-   <th>Comportement d’analyse</th>
+   <th>Comportement d'analyse</th>
    <th>Type de programme</th>
   </tr> 
   <tr> 
@@ -31,7 +31,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <td>01-Invité 
 <br/>02-Waitlisted
 <br/>03-Registered
-<br/>04 - Aucun affichage
+<br/>04-No Show
 <br/>05-Participded-Success</td>
    <td>Inclusif</td>
    <td>Événement</td>
@@ -39,7 +39,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
  </tbody> 
 </table>
 
-## Le programme contient les ressources suivantes {#program-contains-the-following-assets}
+## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -101,12 +101,12 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Envoyer la performance par e-mail</td>
+   <td>Performance des e-mails</td>
   </tr>
   <tr> 
    <td>Rapport local</td> 
    <td> </td>
-   <td>Performance page de destination </td>
+   <td>Performance de la page de destination</td>
   </tr>
   <tr> 
    <td>Campagne intelligente</td> 
@@ -151,8 +151,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Ressources : héberge toutes les ressources créatives 
-<br/>(sous-dossiers pour les pages d’entrée et de messagerie)</td>
+   <td>Assets : héberge toutes les ressources créatives 
+<br/> (sous-dossiers pour les pages d’entrée et de messagerie)</td>
   </tr>
   <tr> 
    <td>Dossier</td> 
@@ -162,7 +162,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
   <tr> 
    <td>Dossier</td> 
    <td> </td>
-   <td>Rapports  </td>
+   <td>Rapports</td>
   </tr>
  </tbody> 
 </table>
@@ -208,8 +208,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    <td><code>{{my.Content-Description}}</code></td>
    <td>Double-cliquez pour plus de détails  
 <br/><code><--My Content Description Here--></code> 
-<br/>Modifiez cette description du contenu au niveau du programme, sous l’onglet Mes jetons . 
-<br/>Vous allez apprendre : 
+<br/>Modifiez cette description de contenu au niveau du programme, sous l’onglet Mes jetons . 
+<br/>Vous apprendrez : 
 <li>Puce 1</li>
 <li>Puce 2</li>
 <li>Puce 3</li></td>
@@ -299,17 +299,17 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ## Règles de conflit {#conflict-rules}
 
-* **Étiquettes du programme**
+* **Balises de programme**
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée du même nom**
-   * Copier le modèle d’origine
+* **Modèle de page d’entrée avec le même nom**
+   * Copier le modèle d&#39;origine
    * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
    * Conserver les deux fichiers
-   * Remplacer l’élément de cet abonnement - _Recommandé_
+   * Remplacer un élément de cet abonnement - _Recommandé_
 
 * **Modèles d&#39;email portant le même nom**
    * Conserver les deux modèles
@@ -330,7 +330,7 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;606 participants (succès du programme)&quot; pour suivre le succès ! Procédez comme suit : _before_ votre formulaire est actif et des courriers électroniques sont envoyés.
+>N’oubliez pas d’activer la campagne &quot;606 participants (succès du programme)&quot; pour suivre le succès ! Effectuez cette opération _avant_ que votre formulaire soit actif et que les courriers électroniques soient envoyés.
 
 >[!IMPORTANT]
 >

@@ -19,13 +19,13 @@ ht-degree: 13%
 
 Qu&#39;est-ce que le Marketo Engage, me demandes-tu ? Bonne question !
 
-[Marketo Engage de formation](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Découvrez le Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Prise en main de la configuration {#get-set-up}
 
 Avec un peu d&#39;aide de votre équipe informatique, vous pouvez le faire en un rien de temps.
 
-[Configuration de démarrage](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[Commencer la configuration](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Obtenir quelques victoires rapides {#get-some-quick-wins}
 
@@ -38,7 +38,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <img alt="Se connecter" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configuration et ajout d’une personne</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Mise en place et ajout d’une personne</a>
     </div>
     <br>
   </td>
@@ -46,7 +46,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="Importer" src="getting-started/assets/getting-started.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Envoyer un courrier électronique</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Envoyer un email</a>
     </div>
     <br>
   </td>
@@ -55,7 +55,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <img alt="E-mail" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Landing Page avec formulaire</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Page d’entrée avec un formulaire</a>
     </div>
     <br>
   </td>
@@ -64,7 +64,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <img alt="Se connecter" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. Score simple</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. Score simple </a>
     </div>
     <br>
   </td>
@@ -72,7 +72,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="Importer" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Réponse automatique aux e-mails</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Réponse automatique aux e-mails </a>
     </div>
     <br>
   </td>
@@ -92,7 +92,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <img alt="Se connecter" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Infirmière à goutte</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Préparation de la goutte d'eau</a>
     </div>
     <br>
   </td>
@@ -109,7 +109,7 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
       <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alerte au représentant commercial</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alerte du représentant commercial</a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ Terminez ces missions pour découvrir les principales fonctionnalités de Market
 
 ## Félicitations ! Vous êtes prêts pour la Nation  {#congrats-youre-ready-for-the-nation}
 
-Consultez la section [Nation marketing](https://nation.marketo.com){target="_blank"}!
+Consultez le site [Marketing Nation](https://nation.marketo.com){target="_blank"} !

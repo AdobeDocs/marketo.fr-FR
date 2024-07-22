@@ -4,7 +4,7 @@ title: Synchroniser les activités de vente avec Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Ill
 
    ![](assets/sync-sales-activities-to-salesforce-2.png)
 
-1. Cliquez sur le bouton **Paramètres de synchronisation** .
+1. Cliquez sur l’onglet **Paramètres de synchronisation** .
 
    ![](assets/sync-sales-activities-to-salesforce-3.png)
 
@@ -37,7 +37,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Ill
 
    ![](assets/sync-sales-activities-to-salesforce-4.png)
 
-1. Cliquez sur le bouton **API Salesforce** . Dans cette carte, vous pouvez définir vos préférences pour consigner les informations dans Salesforce. Cliquez sur **Enregistrer** une fois terminé.
+1. Cliquez sur l’onglet **API Salesforce** . Dans cette carte, vous pouvez définir vos préférences pour consigner les informations dans Salesforce. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/sync-sales-activities-to-salesforce-5.png)
 
@@ -51,7 +51,7 @@ Une fois que vous avez activé &quot;E-mail à Salesforce (Cci)&quot;, vous rece
 
 **Pour consigner vos emails dans Salesforce par courrier électronique (Cci)**
 
-1. Dans Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans Marketo Sales, cliquez sur l’icône d’engrenage et sélectionnez **Settings**.
 
    ![](assets/sync-sales-activities-to-salesforce-6.png)
 
@@ -59,11 +59,11 @@ Une fois que vous avez activé &quot;E-mail à Salesforce (Cci)&quot;, vous rece
 
    ![](assets/sync-sales-activities-to-salesforce-7.png)
 
-1. Cliquez sur le bouton **Paramètres de synchronisation** .
+1. Cliquez sur l’onglet **Paramètres de synchronisation** .
 
    ![](assets/sync-sales-activities-to-salesforce-8.png)
 
-1. Cliquez sur le bouton **Courriel à Salesforce (Cci)** et cliquez sur **Activer**.
+1. Cliquez sur l&#39;onglet **Email to Salesforce (BCC)** et cliquez sur **Activer**.
 
    ![](assets/sync-sales-activities-to-salesforce-9.png)
 
@@ -71,16 +71,16 @@ Si, pour une raison quelconque, l’adresse Email to Salesforce ne s’affiche p
 
 1. Connectez-vous à votre instance Salesforce.
 1. Recherchez votre nom d’utilisateur dans le coin supérieur droit et sélectionnez la barre déroulante.
-1. Sélectionner **Mes paramètres**.
-1. Sélectionner **Email**.
-1. Sélectionner **Mon courrier électronique à Salesforce**.
+1. Sélectionnez **Mes paramètres**.
+1. Sélectionnez **Email**.
+1. Sélectionnez **Mon e-mail à Salesforce**.
 1. Sur cette page, un champ intitulé &quot;Adresse électronique à Salesforce&quot; s’affiche. Si rien n’est renseigné à côté de celui-ci, faites défiler l’écran jusqu’à &quot;Mes adresses électroniques acceptables&quot;.
 1. Entrez la ou les adresses électroniques auxquelles vous souhaitez obtenir une copie carbone invisible (Cci).
 1. Cliquez sur **Enregistrer les modifications**.
 
 **Impossible de trouver mon courrier électronique à Salesforce dans mes paramètres**
 
-Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètres, il se peut que votre administrateur ne l’ait pas activé. Cela peut se produire si votre équipe est novice à Salesforce, ou si elle n’a jamais utilisé l’adresse Cci fournie par Salesforce.
+Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètres, votre administrateur ne l’a peut-être pas activé. Cela peut se produire si votre équipe est novice à Salesforce, ou si elle n’a jamais utilisé l’adresse Cci fournie par Salesforce.
 
 >[!NOTE]
 >
@@ -88,9 +88,9 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 
 1. Cliquez sur **Configuration**.
 1. Cliquez sur **Administration des emails**.
-1. Cliquez sur **Courrier électronique à Salesforce**.
+1. Cliquez sur **E-mail à Salesforce**.
 1. Cliquez sur **Modifier**.
-1. Cochez la case en regard de &quot;Principal&quot;.
+1. Cochez la case en regard de &quot;Actif&quot;.
 1. Cliquez sur **Enregistrer**.
 
 ## Synchroniser les tâches/rappels des actions Sales Insight avec les tâches Salesforce {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
@@ -103,7 +103,7 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 
    ![](assets/sync-sales-activities-to-salesforce-11.png)
 
-1. Cliquez sur le bouton **Paramètres de synchronisation** .
+1. Cliquez sur l’onglet **Paramètres de synchronisation** .
 
    ![](assets/sync-sales-activities-to-salesforce-12.png)
 

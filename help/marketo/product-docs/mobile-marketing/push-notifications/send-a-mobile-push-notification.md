@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -17,10 +17,10 @@ Envoyez une notification push aux personnes qui utilisent votre application mobi
 
 >[!PREREQUISITES]
 >
->* [Création d’une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [Création d’une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Créer une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Créer une notification push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Accédez au **Activités marketing** zone.
+1. Accédez à la zone **Activités marketing**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
@@ -32,7 +32,7 @@ Envoyez une notification push aux personnes qui utilisent votre application mobi
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Sélectionnez une notification push. Cliquez sur **Planification**.
+1. Sélectionnez une notification push. Cliquez sur **Schedule**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 

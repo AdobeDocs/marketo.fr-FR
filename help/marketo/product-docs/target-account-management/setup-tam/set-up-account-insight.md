@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ Voici comment configurer Account Insight.
 
 >[!PREREQUISITES]
 >
->Score du compte TAM [doit être configuré](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) en premier.
+>Le score du compte TAM [ doit être configuré ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) en premier.
 
-1. Cliquez sur **Administration**.
+1. Cliquez sur **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Cliquez sur **Gestion de compte Target** dans l’arborescence, puis le **Ventes** .
+1. Cliquez sur **Gestion de compte Target** dans l’arborescence, puis sur l’onglet **Ventes** .
 
    ![](assets/set-up-account-insight-2.png)
 
@@ -37,7 +37,7 @@ Voici comment configurer Account Insight.
 
    >[!NOTE]
    >
-   >Si la variable [Paramètres de note de compte](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) est mise à jour à tout moment. La configuration sous Ventes doit être mise à jour par un administrateur afin de s’assurer que les scores reflètent fidèlement les préférences de l’utilisateur. L’utilisateur doit se déconnecter et se reconnecter pour voir les modifications.
+   >Si les [ paramètres de note de compte ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) sont mis à jour à tout moment, la configuration sous Ventes doit être mise à jour par un administrateur pour s’assurer que les scores reflètent fidèlement les préférences de l’utilisateur. L’utilisateur doit se déconnecter et se reconnecter pour voir les modifications.
 
 1. Cliquez sur **Enregistrer**.
 

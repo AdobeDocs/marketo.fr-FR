@@ -20,7 +20,7 @@ Lors de l’envoi d’un email par le biais de Marketo Sales, vous avez la possi
 
 ## Ajout d’une pièce jointe {#add-an-attachment}
 
-1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
+1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
@@ -32,13 +32,13 @@ Lors de l’envoi d’un email par le biais de Marketo Sales, vous avez la possi
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. Sélectionnez le fichier à joindre, puis cliquez sur **Insérer**.
+1. Sélectionnez le fichier à joindre et cliquez sur **Insérer**.
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >Si vous devez télécharger un fichier, cliquez sur le **Chargement du contenu** dans le coin supérieur droit de la fenêtre.
+   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger le contenu** dans le coin supérieur droit de la fenêtre.
 
    La pièce jointe apparaît au bas de votre email.
 
@@ -58,13 +58,13 @@ Lors de l’envoi d’un email par le biais de Marketo Sales, vous avez la possi
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Sélectionnez le contenu à ajouter, puis cliquez sur le bouton **Contenu suivi** curseur, puis cliquez sur **Insérer**.
+1. Sélectionnez le contenu à ajouter, cliquez sur le curseur **Contenu suivi**, puis cliquez sur **Insérer**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Si vous devez télécharger un fichier, cliquez sur le **Chargement du contenu** dans le coin supérieur droit de la fenêtre.
+   >Si vous devez télécharger un fichier, cliquez sur le bouton **Télécharger le contenu** dans le coin supérieur droit de la fenêtre.
 
    Le contenu s’affiche sous la forme d’un lien dans votre email. Le destinataire peut cliquer sur le lien pour télécharger le contenu.
 

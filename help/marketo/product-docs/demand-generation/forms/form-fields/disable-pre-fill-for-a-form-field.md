@@ -17,7 +17,7 @@ Lorsqu’un visiteur web est connu (cookie), les formulaires Marketo préremplis
 
 >[!NOTE]
 >
->**Préremplissage du formulaire** est activé par défaut. Les paramètres de préremplissage au niveau de la page d’entrée et les paramètres de préremplissage au niveau de l’administrateur sont prioritaires sur le paramètre au niveau du formulaire :
+>**Form Pre-fill** est activé par défaut. Les paramètres de préremplissage au niveau de la page d’entrée et les paramètres de préremplissage au niveau de l’administrateur sont prioritaires sur le paramètre au niveau du formulaire :
 >
 >Formulaire > Landing Page > Admin
 
@@ -35,7 +35,7 @@ Lorsqu’un visiteur web est connu (cookie), les formulaires Marketo préremplis
    >
    >Le préremplissage de formulaire ne fonctionne pas lors de l’incorporation d’un formulaire sur vos propres pages. Il ne fonctionne que sur les landing pages Marketo.
 
-1. Sélectionnez l’un des champs et définissez **Préremplissage du formulaire** to **Désactivé**.
+1. Sélectionnez l’un des champs et définissez **Form Pre-fill** sur **Disabled**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -53,6 +53,6 @@ Lorsqu’un visiteur web est connu (cookie), les formulaires Marketo préremplis
 
 ## Champs sensibles {#sensitive-fields}
 
-Lorsque vous [marquer un champ comme sensible](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), afin d’éviter que ses valeurs ne soient préremplies dans les formulaires, l’option Préremplir s’affiche.
+Lorsque vous [marquez un champ comme sensible](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), empêchant ses valeurs d’être préremplies dans les formulaires, l’option Préremplir s’affiche.
 
 ![](assets/disable-pre-fill.png)

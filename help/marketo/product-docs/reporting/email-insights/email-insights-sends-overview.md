@@ -17,7 +17,7 @@ Sur la page Envois , examinez les caractéristiques des communications par e-mai
 
 ![](assets/one.png)
 
-Utilisation [filtrage](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) pour spécifier les courriers électroniques à afficher.
+Utilisez [filter](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) pour spécifier les emails que vous souhaitez voir.
 
 ![](assets/filtering.png)
 
@@ -26,10 +26,10 @@ Sur le côté droit de la page, vous trouverez plusieurs informations concernant
 ![](assets/two-1.png)
 
 **Type** indique le type de ressource utilisé.
-**Destinataire** nombre indique le nombre de personnes qui ont reçu l’email.
-**Mesures de diffusion** vous donne un aperçu rapide du nombre d’emails envoyés, en attente ou qui ont rebondi.\
-**Mesures d’engagement** vous donne un aperçu rapide du nombre de destinataires qui ont ouvert, cliqué et se sont désabonnés d&#39;un email.
-**Score** est votre email [Score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Le numéro **Destinataire** correspond au nombre de personnes qui ont reçu l&#39;email.
+**Mesures de diffusion** vous donne un aperçu rapide du nombre d’emails distribués, en attente ou qui ont rebondi.\
+**Mesures d’engagement** vous donne un aperçu rapide du nombre de destinataires qui ont ouvert, cliqué et se sont désabonnés d’un email.
+**Score** est le [Score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) de votre email.
 
 Par défaut, vos emails sont triés selon les plus récents, mais vous pouvez les trier selon n’importe quelle mesure disponible.
 
@@ -47,4 +47,4 @@ Des trucs sympas !
 
 >[!MORELIKETHIS]
 >
->[Présentation de l’analyse des statistiques sur les emails](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[Présentation de l’analyse des statistiques sur les e-mails](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

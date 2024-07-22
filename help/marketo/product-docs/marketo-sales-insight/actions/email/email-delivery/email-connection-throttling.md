@@ -20,14 +20,14 @@ Le contrôle de connexion par e-mail permet aux administrateurs de Sales Connect
 
 Lorsque les limites sont régulièrement dépassées, cela peut parfois être considéré comme un comportement suspect de la part du fournisseur de canal de diffusion, ce qui entraîne l’échec des emails et parfois même la désactivation d’un compte.
 
-**Remarques/points forts**
+**Notes/Principales caractéristiques**
 
 * Activé automatiquement lorsqu’un utilisateur se connecte à Gmail ou à Exchange
 * Peut être personnalisé si vous souhaitez augmenter ou diminuer les paramètres des recommandations en fonction de vos besoins.
 * Ralentit uniquement les emails envoyés par Gmail ou par Exchange, ne ralentit pas pour le canal de diffusion personnalisé
 * Le ralentissement de la connexion par e-mail place chaque utilisateur dans des files d’attente distinctes, car chaque utilisateur a sa propre connexion avec son fournisseur de messagerie.
 
-**Configuration des paramètres de limitation de la connexion par e-mail**
+**Configuration des paramètres de limitation de la connexion aux e-mails**
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
@@ -37,7 +37,7 @@ Lorsque les limites sont régulièrement dépassées, cela peut parfois être co
 
    ![](assets/email-connection-throttling-2.png)
 
-1. Dans la carte de limitation de la connexion par e-mail à droite, cliquez sur le bouton **Activer le ralentissement des emails** curseur.
+1. Dans la carte Limitation de la connexion par e-mail à droite, cliquez sur le curseur **Activer le ralentissement de la connexion par e-mail** .
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -65,7 +65,7 @@ Entreprise/entreprise
 * 30 par minute
 * 500 destinataires par email
 
-Informations supplémentaires [peut être consulté ici](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Vous trouverez plus d&#39;informations [ici](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -73,9 +73,9 @@ Informations supplémentaires [peut être consulté ici](https://docs.microsoft.
 * 2 emails par seconde (limite API)
 * 2 000 destinataires par message (maximum 500 pour les destinataires externes)
 
-Informations supplémentaires [peut être consulté ici](https://support.google.com/a/answer/166852?hl=en).
+Vous trouverez plus d&#39;informations [ici](https://support.google.com/a/answer/166852?hl=en).
 
-**Serveur Microsoft Exchange (2010, 2013)**
+**Microsoft Exchange Server (2010, 2013)**
 
 Les limites sont définies par le service informatique de l’organisation, car le serveur est hébergé par l’organisation. Pour plus d’informations, contactez l’administrateur réseau ou système.
 
@@ -83,4 +83,4 @@ Les limites sont définies par le service informatique de l’organisation, car 
 >
 >* [Présentation du canal de diffusion](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Connexion par e-mail pour les utilisateurs de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Connexion par e-mail pour les utilisateurs Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Connexion par e-mail pour les utilisateurs d’Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

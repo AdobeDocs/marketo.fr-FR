@@ -19,7 +19,7 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo Engage à Goog
 >
 >**Autorisations d’administrateur requises**
 
-1. Accédez à **[!UICONTROL Administration]**.
+1. Accédez à **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
@@ -27,11 +27,11 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo Engage à Goog
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Sélectionner **[!UICONTROL Nouveau]** then **[!UICONTROL Nouveau service]**.
+1. Sélectionnez **[!UICONTROL New]** puis **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Saisissez un **[!UICONTROL Nom d’affichage]** et sélectionnez **[!UICONTROL Correspondance client Google]** de la **[!UICONTROL Service]** menu déroulant. Cliquez sur **[!UICONTROL Créer]**.
+1. Saisissez un **[!UICONTROL nom d’affichage]** et sélectionnez **[!UICONTROL Google Customer Match]** dans la liste déroulante **[!UICONTROL Service]**. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Avec cette intégration, vous pouvez envoyer une audience Marketo Engage à Goog
 
    >[!CAUTION]
    >
-   >Pour que Marketo puisse envoyer des audiences sur plusieurs comptes AdWords, l’utilisateur Google que vous autorisez aux étapes suivantes doit avoir accès à _all_ de ces comptes.
+   >Pour que Marketo puisse envoyer des audiences sur plusieurs comptes AdWords, l’utilisateur Google que vous autorisez aux étapes suivantes doit avoir accès à _tous_ de ces comptes.
 
    ![](assets/chooseaccount.png)
 

@@ -6,20 +6,20 @@ exl-id: 7bfc6301-f012-4865-a592-6dc5f60469d3
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Modèle 6A {#template-6a}
 
-Cliquez avec le bouton droit de la souris sur [Télécharger le modèle 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * inclut une image principale, un titre, un sous-titre, un texte de corps et un bouton.
 

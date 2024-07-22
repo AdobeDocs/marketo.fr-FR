@@ -47,14 +47,14 @@ Combien de nouveaux noms chaque programme/canal a-t-il générés par mois ?
 
 | Dimension | Description |
 |---|---|
-| Canal de programme | Canal de programme |
+| Canal du programme | Canal du programme |
 | Nom du programme | Nom du programme |
 
 ### Période d’adhésion au programme {#program-membership-timeframe}
 
 | Dimension | Description |
 |---|---|
-| Année | Période d’adhésion au programme |
+| an | Période d’adhésion au programme |
 | Trimestre | Période d’adhésion au programme |
 | Mois | Période d’adhésion au programme |
 | Semaine | Période d’adhésion au programme |

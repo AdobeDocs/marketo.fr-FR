@@ -18,14 +18,14 @@ Il existe deux types de colonnes d’action rapide dans la grille d’email. Act
 
 Les actions rapides des emails sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour l’état de l’email que vous consultez. Au maximum, deux actions rapides de courrier électronique sont visibles pour chaque état d’email. Vous pouvez voir quelles actions rapides de courrier électronique seront disponibles pour chaque état ci-dessous.
 
-**Remis au destinataire**
+**Délivrés**
 
 | Statut | Description |
 |---|---|
 | Archiver | Ajoutera le courrier électronique au dossier archivé et arrêtera toutes les vues désactivées et le suivi des clics pour ce courrier électronique. |
 | Succès | Marque l’email comme ayant réussi à faire l’objet d’un rapport dans les analyses de modèle. |
 
-**Archivé**
+**Archived**
 
 <table> 
  <colgroup> 
@@ -63,7 +63,7 @@ Les actions rapides des emails sont dynamiques et mises à jour en fonction des 
  </tbody> 
 </table>
 
-**Échec, rebond et indésirable**
+**Échec, rebond et spam**
 
 <table> 
  <colgroup> 
@@ -82,7 +82,7 @@ Les actions rapides des emails sont dynamiques et mises à jour en fonction des 
  </tbody> 
 </table>
 
-**Actions de suivi**
+**Actions de relance**
 
 ![](assets/quick-actions-in-the-command-center-1.png)
 
@@ -91,4 +91,4 @@ Les actions rapides des emails sont dynamiques et mises à jour en fonction des 
 | Envoyer un courrier électronique de relance | Ouvre la fenêtre de composition avec le corps d&#39;email intégré sélectionné ajouté et prêt à être envoyé au destinataire. |
 | Passer un appel | Ouvre le téléphone de vente pour effectuer un appel au destinataire de l’email. |
 | Envoyer InMail | Redirige vers LinkedIn pour envoyer à la personne un message InMail. |
-| Créer tâche | Ouvre la fenêtre contextuelle Créer une tâche pour créer une tâche de rappel. |
+| Créer une tâche | Ouvre la fenêtre contextuelle Créer une tâche pour créer une tâche de rappel. |

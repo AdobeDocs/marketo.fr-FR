@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2952678
-description: Utiliser le jeton d’information d’alerte Envoyer {{SP_Send_Alert_Info}} - Documents Marketo - Documentation du produit
+description: Utilisation de l’option Send Alert Info Token {{SP_Send_Alert_Info}} - Documentation Marketo - Documentation du produit
 title: Utiliser le jeton d’information d’alerte Envoyer
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
 
 # Utiliser le jeton d’information d’alerte Envoyer {#use-the-send-alert-info-token-sp-send-alert-info}
 
-Le `{{SP_Send_Alert_Info}}` token est un jeton spécial à utiliser lors de la création d’emails d’alerte pour votre équipe commerciale.
+Le jeton `{{SP_Send_Alert_Info}}` est un jeton spécial à utiliser lors de la création d’emails d’alerte pour votre équipe commerciale.
 
 >[!TIP]
 >
->Ce jeton ne fonctionne que comme prévu lors de l’envoi de l’email le contenant avec le [Envoyer une alerte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) étape de flux. Il ne fonctionnera pas lorsqu’il est utilisé dans une étape de flux Envoyer un courrier électronique .
+>Ce jeton ne fonctionne que comme prévu lors de l&#39;envoi de l&#39;email qui le contient avec l&#39;étape de flux [Envoyer une alerte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) . Il ne fonctionnera pas lorsqu’il est utilisé dans une étape de flux Envoyer un courrier électronique .
 
 Exemple d’alerte :
 
@@ -25,9 +25,9 @@ Exemple d’alerte :
 
 >[!NOTE]
 >
->Tête-toi ! Les URL des alertes ont des dates d’expiration. Assurez-vous donc qu’elles disposent d’une cadence prenant en charge ces types de messages. Les dates d’expiration sont [configuré par un administrateur](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Tête-toi ! Les URL des alertes ont des dates d’expiration. Assurez-vous donc qu’elles disposent d’une cadence prenant en charge ces types de messages. Les dates d&#39;expiration sont [ configurées par un administrateur](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
-Les informations suivantes sont incluses dans la variable `{{SP_Send_Alert_Info}}`:
+Les informations suivantes sont incluses dans le `{{SP_Send_Alert_Info}}` :
 
 * Prénom et nom comme lien vers le détail de la personne dans Marketo
 * Un lien vers la personne dans votre CRM
@@ -48,11 +48,11 @@ Les informations suivantes sont incluses dans la variable `{{SP_Send_Alert_Info}
 
    ![](assets/two-3.png)
 
-1. Placez le curseur à l’endroit où vous souhaitez que le jeton se trouve, puis cliquez sur le bouton **Insérer un jeton** bouton .
+1. Placez le curseur à l’endroit où vous souhaitez que le jeton soit, puis cliquez sur le bouton **Insérer un jeton** .
 
    ![](assets/three-3.png)
 
-1. Recherchez et sélectionnez la variable **`{{SP_Send_Alert_Info}}`** jeton et clic **Insérer**.
+1. Recherchez et sélectionnez le jeton **`{{SP_Send_Alert_Info}}`** et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

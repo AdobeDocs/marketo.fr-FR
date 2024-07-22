@@ -18,7 +18,7 @@ En tant que marketeur, vous disposez d’informations qui peuvent vous aider à 
 
 >[!NOTE]
 >
->Lorsque l’utilisateur de synchronisation Marketo crée des tâches, **Échéance dans** est un champ obligatoire pour la tâche à créer à Veeva. Marketo saisit cinq jours par défaut s’il n’y a aucune valeur.
+>Lorsque l’utilisateur de synchronisation Marketo crée des tâches, **Échéance dans** est un champ obligatoire pour que la tâche soit créée dans Veeva. Marketo saisit cinq jours par défaut s’il n’y a aucune valeur.
 
 Par défaut, l’étape de flux se présente comme suit :
 
@@ -30,4 +30,4 @@ Personnalisez tous les champs pour créer la tâche comme vous le souhaitez.
 
 >[!TIP]
 >
->Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans l’ objet et la description. Voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} pour plus d’informations.
+>Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans l’objet et la description. Pour plus d’informations, voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} .

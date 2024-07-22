@@ -16,7 +16,7 @@ Parfois, l’activité de robots de messagerie peut gonfler par erreur les ouver
 
 Nous utilisons deux méthodes distinctes pour confirmer l’activité des robots :
 
-* Correspondance avec [Liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: les activités qui correspondent à tout élément de la liste UA/IP de l’IAB (Agent utilisateur/Adresse IP) seront marquées comme des robots.
+* Correspondance avec la [liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} : les activités qui correspondent à tout élément de la liste IAB UA/IP (User Agent/IP address) seront marquées comme des robots.
 * Correspondance avec le modèle de proximité : lorsque plusieurs activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
    * Identifiant de piste (doit être le même)
    * Ressource de messagerie électronique (doit être identique)
@@ -31,7 +31,7 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
 ## Sélectionner le type de filtre {#select-filter-type}
 
-1. Cliquez sur **[!UICONTROL Administration]**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
@@ -39,27 +39,27 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Activité des robots]** .
+1. Cliquez sur l’onglet **[!UICONTROL Activité de robot]** .
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Vous avez le choix entre deux curseur. Vous ne pouvez activer qu’un seul ou les deux. Si vous activez **[!UICONTROL Correspondance avec la liste IAB]**, choisissez si [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage].
+1. Vous avez le choix entre deux curseur. Vous ne pouvez activer qu’un seul ou les deux. Si vous activez l’option **[!UICONTROL Correspondance avec la liste IAB]**, choisissez d’activer l’activité  _ou_ [!UICONTROL filtrer l’activité de robot].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Si vous activez **[!UICONTROL Correspondance avec le modèle de proximité]**, choisissez si [!UICONTROL activité des robots de log] _ou_ [!UICONTROL activité de robot de filtrage]. Vous pouvez également définir la durée en secondes de la variable **Durée entre les activités** (la valeur par défaut est 0, la valeur maximale est 3).
+1. Si vous activez l’option **[!UICONTROL Correspondance avec le modèle de proximité]**, choisissez si vous souhaitez  _ou_ [!UICONTROL filtrer l’activité de robot]. Vous pouvez également définir la durée en secondes de **durée entre les activités** (la valeur par défaut est 0, la valeur maximale est 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->Avec **Durée entre les activités** définie sur 0 seconde, nous identifierons les activités de courrier électronique qui se produisent exactement à la même seconde. Si plusieurs activités de courrier électronique se produisent au cours de la durée indiquée, elles sont identifiées comme une activité de robot.
+>**Durée entre les activités** définie sur 0 seconde, nous identifierons les activités de courrier électronique qui se produisent exactement à la même seconde. Si plusieurs activités de courrier électronique se produisent au cours de la durée indiquée, elles sont identifiées comme une activité de robot.
 
 >[!IMPORTANT]
 >
->* Si vous choisissez [!UICONTROL Filtrage de l’activité des robots], vous pouvez constater une baisse des ouvertures et des clics d’email, car les activités erronées sont éliminées.
+>* Si vous choisissez [!UICONTROL Filtrer l’activité des robots], il se peut qu’une baisse des ouvertures d’email et des clics s’affiche, car les fausses activités sont éliminées.
 
-**ÉTAPE FACULTATIVE**: pour désactiver l’une des fonctionnalités, désélectionnez simplement le curseur approprié. Si vous le faites, les données ne sont pas réinitialisées.
+**ÉTAPE FACULTATIVE** : pour désactiver l’une des fonctionnalités, désélectionnez simplement le curseur approprié. Si vous le faites, les données ne sont pas réinitialisées.
 
 >[!TIP]
 >

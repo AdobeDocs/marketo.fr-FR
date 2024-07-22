@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,33 +17,33 @@ ht-degree: 0%
 >
 >**Autorisations d’administrateur requises**
 
-Par défaut, Marketo Sales Insight utilise la variable **Score de piste** pour calculer les étoiles et les flammes. Mais si vous souhaitez sélectionner un autre champ, voici comment :
+Par défaut, Marketo Sales Insight utilise le champ **Score de piste** pour calculer les étoiles et les flammes. Mais si vous souhaitez sélectionner un autre champ, voici comment :
 
 >[!TIP]
 >
->Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment [create](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) eux.
+>Si vous ne disposez pas déjà de vos champs de score personnalisés, voici comment les [créer](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Définition**
 >
->* **Stars**: Les étoiles représentent le score de piste total par rapport aux autres pistes.
->* **Flammes**: Les flammes représentent l&#39;urgence, à quel point le score d&#39;un prospect a changé récemment.
+>* **Stars** : les étoiles représentent le score de piste total par rapport aux autres pistes.
+>* **Flammes** : les flammes représentent l’urgence - l’ampleur de l’évolution récente du score d’un prospect.
 >
 
-1. Sous **Administration**, cliquez sur **Statistiques des ventes**.
+1. Sous **Admin**, cliquez sur **Sales Insight**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Sous **Paramètres de notation des pistes**, cliquez sur **Modifier**.
+1. Sous **Paramètres de score de piste**, cliquez sur **Modifier**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Sélectionnez le champ pour lequel vous souhaitez utiliser **Stars**.
+1. Sélectionnez le champ que vous souhaitez utiliser pour **Stars**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Sélectionnez le champ pour lequel vous souhaitez utiliser **Flammes**.
+1. Sélectionnez le champ à utiliser pour **Flammes**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
@@ -57,4 +57,4 @@ Par défaut, Marketo Sales Insight utilise la variable **Score de piste** pour c
 
    >[!MORELIKETHIS]
    >
-   >[Priorité, urgence, note relative et meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[Priorité, urgence, note relative et meilleurs taux de misère](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

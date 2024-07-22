@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -19,19 +19,19 @@ L’ajout de concurrents vous permet de suivre leurs performances pour les même
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Concurrents]** .
+1. Cliquez sur l’onglet **[!UICONTROL Concurrents]** .
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Cliquez sur **[!UICONTROL Ajout d’un concurrent]**.
+1. Cliquez sur **[!UICONTROL Ajouter un concurrent]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Saisissez dans la variable **[!UICONTROL Nom]** et **[!UICONTROL URL]** de votre concurrent.
+1. Saisissez le **[!UICONTROL Nom]** et l&#39;**[!UICONTROL URL]** de votre concurrent.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
@@ -42,4 +42,4 @@ L’ajout de concurrents vous permet de suivre leurs performances pour les même
    >[!MORELIKETHIS]
    >
    >* [Ajouter des mots-clés](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"}
-   >* [Présentation des mots-clés (affichage des concurrents)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+   >* [Comprendre les mots-clés (affichage des concurrents)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}

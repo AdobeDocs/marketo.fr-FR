@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Les personas sont un excellent moyen de segmenter votre audience et votre march�
 
 ## Ajouter un personnage {#add-a-persona}
 
-1. Dans Mon Marketo, cliquez sur **Administration**.
+1. Dans Mon Marketo, cliquez sur **Admin**.
 
    ![](assets/one.png)
 
@@ -37,7 +37,7 @@ Les personas sont un excellent moyen de segmenter votre audience et votre march�
 
    ![](assets/four.png)
 
-1. Donnez un nom à votre persona et sélectionnez le champ correspondant dans la liste déroulante. Vous pouvez ajouter jusqu’à deux personnages supplémentaires. Cliquez sur **Enregistrer** une fois terminé.
+1. Donnez un nom à votre persona et sélectionnez le champ correspondant dans la liste déroulante. Vous pouvez ajouter jusqu’à deux personnages supplémentaires. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/five.png)
 
@@ -49,11 +49,11 @@ Les personas sont un excellent moyen de segmenter votre audience et votre march�
 
 Affichez vos personnages en consultant un compte nommé spécifique.
 
-1. Sélectionnez le compte nommé de votre choix.
+1. Sélectionnez un compte nommé.
 
    ![](assets/one-a.png)
 
-1. Cliquez sur le bouton **Personas** .
+1. Cliquez sur l’onglet **Personas** .
 
    ![](assets/two-a.png)
 

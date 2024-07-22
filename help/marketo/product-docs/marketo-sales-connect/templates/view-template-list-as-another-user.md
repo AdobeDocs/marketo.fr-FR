@@ -23,7 +23,7 @@ En tant qu’administrateur, vous pouvez afficher les modèles comme n’importe
 
    ![](assets/one.png)
 
-1. Cliquez sur le bouton **Afficher sous** et sélectionnez l’utilisateur de votre choix.
+1. Cliquez sur la liste déroulante **Afficher comme** et sélectionnez un utilisateur.
 
    ![](assets/two.png)
 

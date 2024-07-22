@@ -6,7 +6,7 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 42%
+ht-degree: 44%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 42%
 
 Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva, Marketo effectue automatiquement ces associations entre vos champs intégrés Veeva et Marketo. Marketo synchronise également vos champs personnalisés dans vos comptes et contacts.
 
-## Champs contact {#contact-fields}
+## Champs de contact {#contact-fields}
 
 <table>
   <colgroup>
@@ -33,7 +33,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
       <td>Date de naissance</td>
     </tr>
     <tr>
-      <td>Date créée</td>
+      <td>Date de création</td>
       <td>Date de création SFDC</td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
       <td>Adresse e-mail</td>
     </tr>
     <tr>
-      <td>Fax professionnel</td>
+      <td>Télécopie professionnelle</td>
       <td>Numéro de fax</td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
       <td>Désabonné</td>
     </tr>
     <tr>
-      <td>supprimé</td>
+      <td>Supprimé</td>
       <td>Suppression de SFDC</td>
     </tr>
     <tr>
@@ -93,8 +93,8 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
       <td>Adresse</td>
     </tr>
     <tr>
-      <td>Téléphone mobile</td>
-      <td>Numéro téléphone mobile</td>
+      <td>Téléphone portable</td>
+      <td>Numéro de téléphone mobile</td>
     </tr>
     <tr>
       <td>Téléphone de l'entreprise
@@ -127,8 +127,8 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
   </thead>
   <tbody>
     <tr>
-      <td>Chiffre d’affaires annuel</td>
-      <td>Chiffre d’affaires annuel</td>
+      <td>Chiffre d'affaires annuel</td>
+      <td>Chiffre d'affaires annuel</td>
     </tr>
     <tr>
       <td>Ville de facturation</td>
@@ -152,23 +152,23 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
     </tr>
     <tr>
       <td>Description du compte</td>
-      <td>Notes sur société</td>
+      <td>Notes sur la société</td>
     </tr>
     <tr>
-      <td>Secteur</td>
-      <td>Secteur</td>
+      <td>Industrie</td>
+      <td>Industrie</td>
     </tr>
     <tr>
-      <td>supprimé</td>
+      <td>Supprimé</td>
       <td>Suppression de SFDC</td>
     </tr>
     <tr>
-      <td>Nom du compte</td>
-      <td>Nom de la société</td>
+      <td>Nom de compte</td>
+      <td>Nom de l’entreprise</td>
     </tr>
     <tr>
       <td>Employés</td>
-      <td>Nombre d’employés</td>
+      <td>Nombre d'employés</td>
     </tr>
     <tr>
       <td>Téléphone du compte</td>
@@ -184,11 +184,11 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
     </tr>
     <tr>
       <td>Type de compte</td>
-      <td>Type SFDC</td>
+      <td>Type de SFDC</td>
     </tr>
     <tr>
-      <td>Site Internet</td>
-      <td>Site Internet</td>
+      <td>Site web</td>
+      <td>Site web</td>
     </tr>
   </tbody>
 </table>
@@ -215,7 +215,7 @@ Ces champs sont créés dans Marketo mais ne peuvent pas être ajustés par les 
     </tr>
     <tr>
       <td>Type de Veeva</td>
-      <td>Contact. Si elle est vide, la piste n’existe que comme une personne dans Marketo</td>
+      <td>Contact. S’il est vide, le prospect n’existe que comme une personne dans Marketo</td>
     </tr>
     <tr>
       <td>Date de création de Veeva</td>

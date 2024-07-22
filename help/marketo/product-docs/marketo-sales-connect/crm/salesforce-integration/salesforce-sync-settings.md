@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Ill
 >
 >Salesforce et Sales Connect doivent être connectés.
 
-1. Dans Sales Connect, cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Paramètres**.
+1. Dans Sales Connect, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Ill
 
    ![](assets/two-2.png)
 
-1. Cliquez sur le bouton **Paramètres de synchronisation** .
+1. Cliquez sur l’onglet **Paramètres de synchronisation** .
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Ill
 
    ![](assets/four-1.png)
 
-1. Cliquez sur le bouton **API Salesforce** . Dans cette carte, vous pouvez définir vos préférences pour consigner les informations dans Salesforce. Cliquez sur **Enregistrer** une fois terminé.
+1. Cliquez sur l’onglet **API Salesforce** . Dans cette carte, vous pouvez définir vos préférences pour consigner les informations dans Salesforce. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/five.png)
 
@@ -51,7 +51,7 @@ Une fois que vous avez activé &quot;E-mail à Salesforce (Cci)&quot;, vous rece
 
 **Pour consigner vos emails dans Salesforce par courrier électronique (Cci)**
 
-1. Dans Sales Connect, cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Paramètres**.
+1. Dans Sales Connect, cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-3.png)
 
@@ -59,11 +59,11 @@ Une fois que vous avez activé &quot;E-mail à Salesforce (Cci)&quot;, vous rece
 
    ![](assets/two-3.png)
 
-1. Cliquez sur le bouton **Paramètres de synchronisation** .
+1. Cliquez sur l’onglet **Paramètres de synchronisation** .
 
    ![](assets/three-1.png)
 
-1. Cliquez sur le bouton **Courriel à Salesforce (Cci)** et cliquez sur **Activer**.
+1. Cliquez sur l&#39;onglet **Email to Salesforce (BCC)** et cliquez sur **Activer**.
 
    ![](assets/six-2.png)
 
@@ -71,16 +71,16 @@ Si, pour une raison quelconque, l’adresse Email to Salesforce ne s’affiche p
 
 1. Connectez-vous à votre instance Salesforce.
 1. Recherchez votre nom d’utilisateur dans le coin supérieur droit et sélectionnez la barre déroulante.
-1. Sélectionner **Mes paramètres**.
-1. Sélectionner **Email**.
-1. Sélectionner **Mon courrier électronique à Salesforce**.
+1. Sélectionnez **Mes paramètres**.
+1. Sélectionnez **Email**.
+1. Sélectionnez **Mon e-mail à Salesforce**.
 1. Sur cette page, un champ intitulé &quot;Adresse électronique à Salesforce&quot; s’affiche. Si rien n’est renseigné à côté de celui-ci, faites défiler l’écran jusqu’à &quot;Mes adresses électroniques acceptables&quot;.
 1. Entrez la ou les adresses électroniques auxquelles vous souhaitez obtenir une copie carbone invisible (Cci).
 1. Cliquez sur **Enregistrer les modifications**.
 
 **Impossible de trouver mon courrier électronique à Salesforce dans mes paramètres**
 
-Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètres, il se peut que votre administrateur ne l’ait pas activé. Cela peut se produire si votre équipe est novice à Salesforce, ou si elle n’a jamais utilisé l’adresse Cci fournie par Salesforce.
+Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètres, votre administrateur ne l’a peut-être pas activé. Cela peut se produire si votre équipe est novice à Salesforce, ou si elle n’a jamais utilisé l’adresse Cci fournie par Salesforce.
 
 >[!NOTE]
 >
@@ -88,14 +88,14 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 
 1. Cliquez sur **Configuration**.
 1. Cliquez sur **Administration des emails**.
-1. Cliquez sur **Courrier électronique à Salesforce**.
+1. Cliquez sur **E-mail à Salesforce**.
 1. Cliquez sur **Modifier**.
-1. Cochez la case en regard de &quot;Principal&quot;.
+1. Cochez la case en regard de &quot;Actif&quot;.
 1. Cliquez sur **Enregistrer**.
 
 ## Synchroniser les tâches/rappels Sales Connect avec les tâches Salesforce {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
-1. Cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **Paramètres**.
 
    ![](assets/one-3.png)
 
@@ -103,7 +103,7 @@ Si vous ne voyez pas Mon courrier électronique à Salesforce sous vos paramètr
 
    ![](assets/two-2.png)
 
-1. Cliquez sur le bouton **Paramètres de synchronisation** .
+1. Cliquez sur l’onglet **Paramètres de synchronisation** .
 
    ![](assets/three-1.png)
 

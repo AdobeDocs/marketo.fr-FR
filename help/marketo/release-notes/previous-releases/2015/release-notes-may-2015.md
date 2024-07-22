@@ -6,12 +6,12 @@ exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '255'
 ht-degree: 8%
 
 ---
 
-# Notes de mise à jour : Mai 2015 {#release-notes-may}
+# Notes de mise à jour : mai 2015 {#release-notes-may}
 
 Les fonctionnalités suivantes sont incluses dans la version de mai 2015. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Après la publication de la version, veillez à revenir à la page de liens vers des articles détaillés pour chaque fonctionnalité.
 
@@ -35,11 +35,11 @@ Marketo va désormais exécuter des contrôles SPF et DKIM automatisés hebdomad
 
 ## Modification du comportement du modèle d’e-mail {#email-template-behavior-change}
 
-À compter de cette version, les commentaires de HTML valides sont désormais autorisés et non supprimés lors de la création de nouveaux emails.
+À compter de cette version, les commentaires d’HTML valides sont désormais autorisés et non supprimés lors de la création de nouveaux emails.
 
 ## RTP : éditeur de segments par glisser-déposer {#rtp-drag-and-drop-segment-editor}
 
-RTP : [Éditeur de segment par glisser-déposer](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP : [Éditeur de segment de glisser-déposer](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Faites glisser vos critères et déposez-les dans le créateur de segments, définissez la valeur, et vous êtes bien en train de créer un segment en temps réel.
 

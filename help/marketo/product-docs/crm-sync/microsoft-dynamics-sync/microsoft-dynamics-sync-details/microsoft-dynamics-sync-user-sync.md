@@ -6,7 +6,7 @@ exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ La synchronisation des utilisateurs est un moyen : Dynamics vers Marketo. Si vou
 
 ## Puis-je créer un utilisateur à l’aide de Marketo ? {#can-i-create-an-user-using-marketo}
 
-Non. Marketo ne peut pas créer d’utilisateurs dans Dynamics.
+Nombre Marketo ne peut pas créer d’utilisateurs dans Dynamics.
 
 ## Quels champs seront synchronisés avec Marketo ? {#which-fields-will-sync-to-marketo}
 

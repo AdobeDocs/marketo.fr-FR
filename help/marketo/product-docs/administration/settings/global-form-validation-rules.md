@@ -1,24 +1,24 @@
 ---
 description: Règles de validation de formulaire globales - Documents Marketo - Documentation du produit
-title: Règles de validation de formulaire globales
+title: Règles générales de validation du formulaire
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Règles de validation de formulaire globales {#global-form-validation-rules}
+# Règles générales de validation du formulaire {#global-form-validation-rules}
 
 Cette fonctionnalité vous permet de bloquer l’envoi de domaines spécifiques à des formulaires Marketo Engage.
 
 ## Comment activer l’accès {#how-to-enable-access}
 
-Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation selon le rôle souhaité.
+Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation en fonction du rôle souhaité.
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-1.png)
 
@@ -26,7 +26,7 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Rôles]** .
+1. Cliquez sur l’onglet **[!UICONTROL Rôles]** .
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -34,11 +34,11 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Cliquez sur le bouton **+** Connectez-vous en regard de Accès à l’administrateur.
+1. Cliquez sur le signe **+** en regard de l’option Accéder à l’administrateur.
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Faites défiler la page vers le bas et sélectionnez **[!UICONTROL Accès aux règles de validation de formulaire]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Faites défiler l’écran vers le bas et sélectionnez **[!UICONTROL Accéder aux règles de validation de formulaire]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -48,7 +48,7 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
 >
 >Ces règles s&#39;appliqueront à tous les formulaires de votre ou vos abonnements de Marketo Engage.
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-7.png)
 
@@ -64,24 +64,24 @@ Avant de pouvoir utiliser cette fonction, vous devez activer son autorisation se
    >
    >La liste déroulante Actions de règle de validation de formulaire vous permet de supprimer ou de modifier des règles existantes.
 
-1. Attribuez un nom à votre règle, fournissez-lui une description facultative, puis saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez le ou les domaines que vous souhaitez bloquer dans la zone Règles, puis sélectionnez **[!UICONTROL Activer la règle]**, puis cliquez sur **[!UICONTROL Créer]**.
+1. Attribuez un nom à votre règle, fournissez-lui une description facultative, puis saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez le ou les domaines que vous souhaitez bloquer dans la zone des règles, sélectionnez **[!UICONTROL Activer la règle]**, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engage dispose d’une liste bloquée définie de domaines d’e-mail de consommateur gratuits qui sont bloqués lors de l’utilisation de notre règle &quot;Liste bloquée de domaine d’e-mail de consommateur&quot; préchargée. [Afficher cette liste ici](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engage dispose d’une liste bloquée définie de domaines d’e-mail de consommateur gratuits qui sont bloqués lors de l’utilisation de notre règle &quot;Liste bloquée de domaine d’e-mail de consommateur&quot; préchargée. [Affichez cette liste ici](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
 
 ## Comment désactiver l’accès par formulaire{#how-to-disable-access-per-form}
 
-Une fois activées, les règles s’appliquent à tous les formulaires. Toutefois, si vous disposez d’un formulaire avec des exigences spécifiques et que vous ne souhaitez pas qu’aucun élément soit rejeté, vous pouvez désactiver la fonction [!UICONTROL Règles de validation de formulaire globales] dans les paramètres du formulaire.
+Une fois activées, les règles s’appliquent à tous les formulaires. Toutefois, si vous disposez d’un formulaire avec des exigences spécifiques et que vous ne souhaitez rien refuser, vous pouvez désactiver les [!UICONTROL Règles de validation de formulaire globales] dans les paramètres du formulaire.
 
-1. Dans le formulaire de votre choix, cliquez sur **[!UICONTROL Paramètres de formulaire]**, puis **[!UICONTROL Paramètres]**.
+1. Dans le formulaire de votre choix, cliquez sur **[!UICONTROL Paramètres de formulaire]**, puis sur **[!UICONTROL Paramètres]**.
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Règles de validation de formulaire globales]** et choisissez **[!UICONTROL Désactivé]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Règles de validation de formulaire globales]** et sélectionnez **[!UICONTROL Désactivé]**.
 
    ![](assets/global-form-validation-rules-12.png)
 
-Lorsque vous approuvez et publiez votre formulaire, il ignorera votre [!UICONTROL Règles de validation de formulaire globales].
+Lorsque vous approuvez et publiez votre formulaire, il ignorera vos [!UICONTROL Règles de validation de formulaire globales].

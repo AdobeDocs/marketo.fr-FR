@@ -13,11 +13,11 @@ ht-degree: 2%
 
 # Définition d’une audience avec une liste dynamique {#define-an-audience-with-a-smart-list}
 
-Une fois que [créer un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), vous pouvez lui indiquer à qui envoyer l’email. Vous pouvez effectuer cette opération en [import d&#39;une liste de personnes](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) ou avec une liste dynamique. Voici comment y parvenir avec une liste dynamique.
+Une fois que vous aurez [créé un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), vous voudrez lui indiquer à qui envoyer le message. Vous pouvez le faire en [important une liste de personnes](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) ou avec une liste dynamique. Voici comment y parvenir avec une liste dynamique.
 
 >[!PREREQUISITES]
 >
->[Création d’un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>[Créer un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Une fois que [créer un programme de messagerie](/help/marketo/product-docs/emai
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre programme de messagerie, puis cliquez sur **Modifier la liste dynamique** sous le **Audience** mosaïque.
+1. Sélectionnez votre programme de messagerie, puis cliquez sur **Modifier la liste dynamique** sous la mosaïque **Audience**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -47,7 +47,7 @@ Une fois que [créer un programme de messagerie](/help/marketo/product-docs/emai
 
    ![](assets/myemailprogram.jpg)
 
-   Excellent travail ! Il est maintenant temps de [choisir un email existant ;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [créer un email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à envoyer à ces gens.
+   Excellent travail ! Il est maintenant temps de [choisir un email existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [créer un email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) à envoyer à ces personnes.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Une fois que [créer un programme de messagerie](/help/marketo/product-docs/emai
 >* E-mail non valide
 >* Email vide
 >
->Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquées lors de l&#39;envoi du courrier. **Remarque :** Les emails opérationnels seront toujours envoyés aux personnes marquées comme désabonnées et mises en suspension pour marketing.
+>Cliquez sur le numéro pour obtenir une liste détaillée des personnes bloquées lors de l&#39;envoi du courrier. **Remarque :** Des emails opérationnels seront toujours envoyés aux personnes marquées comme désabonnées et le marketing suspendu.
 >
->Utilisez la variable ![—](assets/image2014-10-23-16-3a32-3a36.png) sur la mosaïque Audience pour voir combien de personnes recevront le courrier électronique.
+>Utilisez le bouton ![—](assets/image2014-10-23-16-3a32-3a36.png) de la mosaïque Audience pour afficher le nombre de personnes qui recevront le courrier électronique.
 
 >[!MORELIKETHIS]
 >
 >* [Choisir un email existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Création d’un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Créer un courrier électronique pour un programme de courrier électronique](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

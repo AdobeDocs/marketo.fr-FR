@@ -6,7 +6,7 @@ exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Le bouton Ignorer propose de nombreuses options pour vous permettre de le config
 
 Toutes vos sélections pour les graphiques, le texte et les boutons ont été automatiquement enregistrées. Maintenant, vous êtes prêt à terminer le travail.
 
-1. Pour prévisualiser votre message in-app, cliquez sur le **Actions de message** et sélectionnez **Aperçu**.
+1. Pour prévisualiser votre message in-app, cliquez sur la liste déroulante **Actions de message** et sélectionnez **Aperçu**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Toutes vos sélections pour les graphiques, le texte et les boutons ont été au
 
    >[!NOTE]
    >
-   >Vous pouvez également sélectionner **Approuver et fermer** directement à partir de la liste déroulante Actions de message (voir l’étape 1), mais pourquoi ne pas prévisualiser d’abord le message, simplement pour être en sécurité ?
+   >Vous pouvez également sélectionner **Approuver et fermer** directement dans la liste déroulante Actions de message (voir l’étape 1), mais pourquoi ne pas prévisualiser d’abord le message, juste pour être sûr ?
 
 1. Pour fermer l’éditeur sans validation, il vous suffit de fermer l’onglet . Il est enregistré automatiquement, vous pouvez le renvoyer et l’approuver ultérieurement.
 
@@ -71,9 +71,9 @@ Toutes vos sélections pour les graphiques, le texte et les boutons ont été au
 
 Tant de choix, mais maintenant vous avez un message in-app magnifique, prêt à partir !
 
-Il est maintenant temps de [envoyer votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Il est maintenant temps d&#39;[envoyer votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [Présentation des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Compréhension des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

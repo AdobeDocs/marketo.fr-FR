@@ -15,27 +15,27 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
 ## Recherche de tous les membres d’une étape de recettes spécifique {#find-all-members-of-a-specific-revenue-stage}
 
-1. Dans une liste dynamique, cliquez sur le bouton **[!UICONTROL Liste dynamique]** , recherchez la variable **[!UICONTROL Évaluation des recettes]** filtrez-la, puis faites-la glisser dans la zone de travail.
+1. Dans une liste dynamique, cliquez sur l’onglet **[!UICONTROL Liste dynamique]**, recherchez le filtre **[!UICONTROL Évaluation des recettes]** et faites-le glisser dans la zone de travail.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Sélectionnez une **[!UICONTROL Évaluation des recettes]**.
+1. Sélectionnez une **[!UICONTROL étape de recette]**.
 
    ![](assets/two.jpg)
 
-1. Accédez au **[!UICONTROL Personnes]** pour afficher les résultats.
+1. Accédez à l’onglet **[!UICONTROL Personnes]** pour afficher les résultats.
 
    ![](assets/peopleresults.jpg)
 
 ## Exécution d’une étape de flux sur les membres d’une étape de recette {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Maintenant que vous savez quelles personnes sont à quel stade de revenu, vous pouvez leur vendre directement. En plus de choisir **[!UICONTROL Évaluation des recettes]** en tant que filtre de liste dynamique, vous pouvez également le sélectionner comme filtre &quot;si&quot; dans le flux.
+Maintenant que vous savez quelles personnes sont à quel stade de revenu, vous pouvez leur vendre directement. Outre le choix de **[!UICONTROL l’étape du chiffre d’affaires]** comme filtre de liste dynamique, vous pouvez également le choisir comme filtre &quot;si&quot; dans le flux.
 
-1. Dans l’étape de flux de votre choix, cliquez sur **[!UICONTROL Ajouter un choix]** et sélectionnez **[!UICONTROL Évaluation des recettes]** dans la liste déroulante.
+1. À l’étape de flux souhaitée, cliquez sur **[!UICONTROL Ajouter un choix]** et sélectionnez **[!UICONTROL Étape du chiffre d’affaires]** dans la liste déroulante.
 
    ![](assets/six.png)
 

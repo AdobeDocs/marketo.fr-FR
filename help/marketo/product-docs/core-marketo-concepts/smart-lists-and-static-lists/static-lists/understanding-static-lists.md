@@ -6,7 +6,7 @@ exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '215'
 ht-degree: 2%
 
 ---
@@ -23,16 +23,16 @@ La différence entre une liste statique et une liste dynamique est essentielle p
 
 | Type | Logique |
 |---|---|
-| Liste intelligente | Basé sur **règles définies** |
-| Liste statique | Basé sur **ajout/suppression de chaque personne** |
+| Liste intelligente | Basé sur **des règles définies** |
+| Liste statique | Sur la base de **l’ajout/la suppression de chaque personne** |
 
 >[!CAUTION]
 >
->Une des erreurs les plus courantes est de penser que vous pouvez retirer une personne d&#39;une liste en la &quot;supprimant&quot; simplement. **C&#39;est faux.**. La suppression de la personne les supprime de **toute la base**, pas seulement la liste.
+>Une des erreurs les plus courantes est de penser que vous pouvez retirer une personne d&#39;une liste en la &quot;supprimant&quot; simplement. **C&#39;est faux**. La suppression de la personne les supprime de **la base de données entière**, et pas seulement de la liste.
 
 ## Méthodes pour ajouter/supprimer des personnes d’une liste {#ways-to-add-remove-people-from-a-list}
 
-1. Étape de flux de campagne dynamique ([Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. Étape de flux de campagne dynamique ([Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Supprimer de la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
 1. [Étape de flux d’action unique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Faire glisser des personnes dans une liste de l’arborescence
@@ -48,4 +48,4 @@ Profitez de la puissance de LIST !
 
 >[!MORELIKETHIS]
 >
->[Création d’une liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}
+>[Créer une liste statique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

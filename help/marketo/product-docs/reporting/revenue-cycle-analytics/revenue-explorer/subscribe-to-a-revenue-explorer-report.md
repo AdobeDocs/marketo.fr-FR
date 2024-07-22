@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Pour recevoir des mises à jour de vos rapports de l’explorateur Revenue Cycle et les partager, vous pouvez abonner n’importe quelle adresse électronique à un rapport existant.
 
-1. Accédez à **Analytics** et sélectionnez **Nouveau** > **Nouvel abonnement au rapport**.
+1. Accédez à **Analytics** et sélectionnez **New** > **New Report Subscription**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Pour vous abonner à un rapport de base créé dans un programme, reportez-vous à la section [Abonnez-vous à un rapport de base.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Pour vous abonner à un rapport de base que vous avez créé dans un programme, reportez-vous à la section [Abonnement à un rapport de base.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Pour **Source du rapport**, sélectionnez **Explorateur de recettes**.
+1. Pour **Report Source**, sélectionnez **Revenue Explorer**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,4 +45,4 @@ Pour recevoir des mises à jour de vos rapports de l’explorateur Revenue Cycle
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [gérer tous les abonnements aux rapports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) à un seul endroit.
+>Découvrez comment [gérer tous vos abonnements aux rapports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) à un seul endroit.

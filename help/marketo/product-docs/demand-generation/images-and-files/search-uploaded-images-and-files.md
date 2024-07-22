@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Découvrez comment effectuer une recherche pour une image ou un fichier.
 
-1. Accédez au **[!UICONTROL Design Studio]**.
+1. Accédez à **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Cliquez sur **[!UICONTROL Images et fichiers]** pour obtenir la liste complète de tous les fichiers chargés.
+1. Cliquez sur **[!UICONTROL Images et fichiers]** pour obtenir la liste complète de tous les fichiers téléchargés.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
@@ -34,4 +34,4 @@ Découvrez comment effectuer une recherche pour une image ou un fichier.
 >[!MORELIKETHIS]
 >
 >* [Remplacer une image ou un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [Organisation des images et des fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+>* [Organisation de vos images et fichiers à l’aide de dossiers](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Suivez les étapes de cet article pour accorder à vos utilisateurs des actions d’aperçu des ventes l’accès à la connexion Marketo. Cela permet de déverrouiller des fonctionnalités telles que les moments intéressants dans le flux en direct et l’accès aux campagnes marketing.
 
-Vous devrez inviter des utilisateurs à [Actions d’aperçu commercial](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) avant d’être visibles dans la page Marketo > Accès à l’équipe (dans les actions Sales Insight), où l’accès à la connexion Marketo est accordé.
+Vous devrez inviter les utilisateurs à [Actions d’aperçu des ventes](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) avant qu’ils ne soient visibles dans la page Marketo > Accès de l’équipe (dans les actions d’aperçu des ventes), où l’accès à la connexion Marketo est accordé.
 
 >[!CAUTION]
 >
@@ -28,7 +28,7 @@ Vous devrez inviter des utilisateurs à [Actions d’aperçu commercial](/help/m
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Cliquez sur le bouton **Accès utilisateur** . Sélectionnez un ou plusieurs utilisateurs, puis cliquez sur **Connexion**.
+1. Cliquez sur l’onglet **Accès utilisateur** . Sélectionnez un ou plusieurs utilisateurs, puis cliquez sur **Se connecter**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,11 +40,11 @@ Vous devrez inviter des utilisateurs à [Actions d’aperçu commercial](/help/m
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **ÉTAPE FACULTATIVE**: Cliquez sur la liste déroulante Espace de travail et sélectionnez le ou les espaces de travail souhaités.
+   **ÉTAPE FACULTATIVE** : cliquez sur la liste déroulante Workspace et sélectionnez un ou plusieurs espaces de travail.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Cliquez sur **Connexion**.
+1. Cliquez sur **Connect**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

@@ -17,13 +17,13 @@ ht-degree: 0%
 
    ![](assets/one.jpg)
 
-1. Cliquez sur le menu déroulant d&#39;état de la campagne web souhaitée et sélectionnez **Archiver**.
+1. Cliquez sur la liste déroulante d’état de la campagne web souhaitée et sélectionnez **Archiver**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Les campagnes web archivées ne s’afficheront pas dans le filtre par défaut. Pour les afficher, cliquez sur l’icône Filtrer et sous **État**, sélectionnez la variable **Archivé** , puis cliquez sur **Appliquer**.
+   >Les campagnes web archivées ne s’afficheront pas dans le filtre par défaut. Pour les voir, cliquez sur l’icône Filtrer et sous **État**, cochez la case **Archivé** et cliquez sur **Appliquer**.
 
 >[!MORELIKETHIS]
 >

@@ -6,7 +6,7 @@ exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Si vous mettez à jour un champ Compte pour un contact dans Marketo, cela modifi
 
 ## Puis-je créer un compte à l’aide de Marketo ? {#can-i-create-an-account-using-marketo}
 
-Non. Marketo ne peut pas créer de comptes dans Dynamics.
+Nombre Marketo ne peut pas créer de comptes dans Dynamics.
 
 ## Quels champs seront synchronisés avec Marketo ? {#which-fields-will-sync-to-marketo}
 

@@ -6,8 +6,8 @@ exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 5%
+source-wordcount: '387'
+ht-degree: 4%
 
 ---
 
@@ -34,19 +34,19 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
 ## Rapport RTP B2B {#rtp-b-b-report}
 
-1. Nommer le rapport **Rapport RTP B2B**.
+1. Nommez le rapport **Rapport RTP B2B**.
 
-1. Nommer le premier onglet **Secteur industriel**.
+1. Nommez le 1er onglet **Secteur**.
 
 >[!NOTE]
 >
->Vous aurez **Dupliquer cet onglet** et créer d’autres similaires - étape 5)
+>Vous allez **Dupliquer cet onglet** et en créer d’autres similaires - étape 5)
 
-1. Sélectionnez la **Explorateur** type de rapport.
+1. Sélectionnez le type de rapport **Explorateur**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Dans le **Groupes de mesures** , sélectionnez les mesures pertinentes pour votre entreprise.
+1. Dans la section **Groupes de mesures** , sélectionnez les mesures pertinentes pour votre entreprise.
 
    a. Nous vous recommandons ce qui suit :
 
@@ -54,22 +54,22 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
 1. Dupliquez cet onglet 4 fois et nommez-les :
 
-   1. **Secteur**
+   1. **Secteur industriel**
    1. **Groupe**
    1. **Catégorie**
    1. **ABM**
-   1. **Entreprises**
+   1. **Organisations**
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Dans le **Analyse des Dimensions** définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous.
+1. Dans la section **Analyse de Dimension** , définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous.
 
 <table> 
  <thead> 
   <tr> 
    <th> 
     <div>
-      Nom de l'onglet 
+      Nom de l’onglet 
     </div></th> 
    <th> 
     <div>
@@ -79,7 +79,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
  </thead> 
  <tbody> 
   <tr> 
-   <td>Secteur</td> 
+   <td>Industrie</td> 
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -101,7 +101,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
  </tbody> 
 </table>
 
-1. Ne définissez aucun filtre et ne définissez pas ce rapport pour qu’il soit disponible. **Toutes les données de site Web** (ou changez si cela est pertinent pour un compte Analytics spécifique).
+1. Ne définissez aucun filtre et ne configurez pas ce rapport pour qu’il soit disponible pour **Toutes les données du site Web** (ou modifiez-le s’il est pertinent pour un compte Analytics spécifique).
 
 1. Cliquez sur **Enregistrer**.
 
@@ -109,15 +109,15 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
 ## Rapport Engagement RTP {#rtp-engagement-report}
 
-1. Nommer le rapport **Rapport Engagement RTP**.
+1. Nommez le rapport **Rapport Engagement RTP**.
 
-1. Définissez le nom du 1er onglet sur **Tous les engagements**.
+1. Définissez le nom du premier onglet sur **All Engagement**.
 
 >[!NOTE]
 >
 >Vous allez dupliquer cet onglet et en créer d’autres similaires - étape 5)
 
-1. Sélectionnez la **Explorateur** type de rapport.
+1. Sélectionnez le type de rapport **Explorateur**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
@@ -135,14 +135,14 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Dans le **Analyse des Dimensions** définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous :
+1. Dans la section **Analyse de Dimension** , définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous :
 
 <table> 
  <thead> 
   <tr> 
    <th> 
     <div>
-      Nom de l'onglet 
+      Nom de l’onglet 
     </div></th> 
    <th> 
     <div>
@@ -219,7 +219,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
  </tbody> 
 </table>
 
-1. Définir ce rapport pour qu’il soit disponible **Toutes les données de site Web** (ou changez si nécessaire).
+1. Définissez ce rapport de sorte qu’il soit disponible pour **Toutes les données du site Web** (ou modifiez-le si nécessaire).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 

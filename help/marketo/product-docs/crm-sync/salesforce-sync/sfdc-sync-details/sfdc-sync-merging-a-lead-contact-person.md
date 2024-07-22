@@ -6,18 +6,18 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 1%
+source-wordcount: '195'
+ht-degree: 0%
 
 ---
 
 # Synchronisation SFDC : fusion d’un prospect/contact/personne {#sfdc-sync-merging-a-lead-contact-person}
 
-Parfois, il est préférable de simplement lister les règles. C&#39;est parti:
+Parfois, il est préférable de simplement lister les règles. Allons-y :
 
-* Lorsque vous fusionnez deux pistes dans **Salesforce**, la synchronisation normale indique à Marketo Engage et les pistes sont fusionnées automatiquement en tant que personnes dans Marketo.
-* Fusion de deux personnes dans **Marketo** invoque le même processus que leur fusion comme prospects dans Salesforce. Il fonctionne toujours automatiquement.
-* Fusion d’une **diriger (personne) vers un contact** fonctionne de la même manière. Vous obtenez un seul contact des deux côtés.
+* Lorsque vous fusionnez deux pistes dans **Salesforce**, la synchronisation normale indique à Marketo Engage et les pistes sont automatiquement fusionnées en tant que personnes dans Marketo.
+* La fusion de deux personnes dans **Marketo** appelle en fait le même processus que leur fusion comme prospects dans Salesforce. Il fonctionne toujours automatiquement.
+* La fusion d&#39;une **piste (personne) dans un contact** fonctionne de la même manière. Vous obtenez un seul contact des deux côtés.
 * Lors de la fusion, le score par défaut est additionné.
 
 >[!NOTE]
@@ -30,4 +30,4 @@ Parfois, il est préférable de simplement lister les règles. C&#39;est parti:
 
 >[!NOTE]
 >
->Exploration approfondie pour en savoir plus [fusion de personnes dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Exploration approfondie pour plus d’informations sur la [fusion de personnes dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

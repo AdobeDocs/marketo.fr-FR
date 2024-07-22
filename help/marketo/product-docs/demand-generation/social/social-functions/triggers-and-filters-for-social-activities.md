@@ -19,11 +19,11 @@ Dans Marketo, les applications sociales disposent de leurs propres déclencheurs
 >
 >Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
-1. Pour utiliser les réseaux sociaux _triggers_, sélectionnez votre campagne dynamique, puis cliquez sur le bouton **Liste dynamique** . Sur la droite, cliquez sur le signe + pour développer **Triggers**, puis **Social**.
+1. Pour utiliser les _triggers_ de réseaux sociaux, sélectionnez votre campagne dynamique et cliquez sur l’onglet **Liste dynamique**. Sur la droite, cliquez sur + pour développer **Triggers**, puis **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Pour utiliser les réseaux sociaux _filtres_, cliquez sur le **+** pour développer la variable **Filtres**.
+1. Pour utiliser les _filtres_ des réseaux sociaux, cliquez sur **+** pour développer les **filtres**.
 
    ![](assets/two-282-29.png)
 
@@ -31,17 +31,17 @@ Dans Marketo, les applications sociales disposent de leurs propres déclencheurs
 
    | Déclencheurs/filtres | Boutons Réseaux sociaux | Sondages | Vidéos | Offres de parrainage | Loteries |
    |---|---|---|---|---|---|
-   | Objectif atteint en parrainage |  |  |  | ![(coche)](assets/check.png) | |
-   | Partage un contenu | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
-   | Clique sur le lien partagé | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
-   | Disqualifie les loteries |  |  |  |  | ![(coche)](assets/check.png) |
-   | Gagne une entrée dans l&#39;application sociale |  |  |  |  | ![(coche)](assets/check.png) |
-   | Participe à la loterie |  |  |  |  | ![(coche)](assets/check.png) |
-   | Recommande sur l&#39;application sociale |  |  |  | ![(coche)](assets/check.png) | ![(coche)](assets/check.png) |
-   | S&#39;inscrit à une offre de parrainage |  |  |  | ![(coche)](assets/check.png) |  |
-   | Participe au sondage |  | ![(coche)](assets/check.png) |  |  |  |
-   | Remporte la loterie |  |  |  |  | ![(coche)](assets/check.png) |
+   | Objectif atteint en parrainage |  |  |  | ![(tick)](assets/check.png) | |
+   | Partage un contenu | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Clics sur le lien partagé | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Disqualifie les loteries |  |  |  |  | ![(tick)](assets/check.png) |
+   | Gagne une entrée dans l&#39;application sociale |  |  |  |  | ![(tick)](assets/check.png) |
+   | Participe à la loterie |  |  |  |  | ![(tick)](assets/check.png) |
+   | Recommande sur l&#39;application sociale |  |  |  | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | S&#39;inscrit à une offre de parrainage |  |  |  | ![(tick)](assets/check.png) |  |
+   | Participe au sondage |  | ![(tick)](assets/check.png) |  |  |  |
+   | Remporte la loterie |  |  |  |  | ![(tick)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >
-   >[Affichage des performances sociales](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
+   >[Afficher les performances sociales](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)

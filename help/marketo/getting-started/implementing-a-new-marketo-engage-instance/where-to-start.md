@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bienvenue dans votre nouvelle instance Adobe Marketo Engage. Préparez-vous à rationaliser, automatiser et mesurer les tâches et les workflows marketing grâce à de puissantes fonctionnalités d’automatisation du marketing.
 
-Dans ce guide &quot;Implémentation d’une nouvelle instance de Marketo Engage&quot;, découvrez les bonnes pratiques pour mettre en oeuvre votre instance de manière transparente, afin d’assurer une hygiène à long terme et une efficacité opérationnelle. Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez la variable [listes de contrôle téléchargeables](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} pour documenter votre travail en cours de route pour les futurs audits d’instances et l’intégration des utilisateurs.
+Dans ce guide &quot;Implémentation d’une nouvelle instance de Marketo Engage&quot;, découvrez les bonnes pratiques pour mettre en oeuvre votre instance de manière transparente, afin d’assurer une hygiène à long terme et une efficacité opérationnelle. Chaque liste de contrôle fournit des étapes importantes pour vous permettre de suivre l’avancement de votre configuration. Utilisez les [ listes de contrôle téléchargeables](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} pour documenter votre travail en cours de route pour des audits d’instances futurs et l’intégration des utilisateurs.
 
 ## Configuration initiale {#initial-setup}
 
@@ -28,11 +28,11 @@ Avant de passer aux listes de contrôle des bonnes pratiques ci-dessous, vérifi
 
 ## Listes de contrôle des bonnes pratiques pour votre nouvelle instance de Marketo Engage {#best-practice-checklists-new-instance}
 
-Téléchargement de l’instance de Marketo Engage [Nouvelles listes de contrôle d’administration de mise en oeuvre](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}ou consultez les guides en ligne ci-dessous.
+Téléchargez les [nouvelles listes de contrôle d’administration de mise en oeuvre](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} de l’instance de Marketo Engage ou consultez les guides en ligne ci-dessous.
 
 * [Section d’administration](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Base](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
+* [Base de données](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
 * [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
@@ -44,7 +44,7 @@ Téléchargement de l’instance de Marketo Engage [Nouvelles listes de contrôl
 
 ## Connexion avec vos pairs {#connect-with-your-peers}
 
-Visitez le [Communauté Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (également connu sous le nom de nation marketing) pour en savoir plus sur votre instance de Marketo Engage auprès des employés Marketo Engage et d’autres utilisateurs.
+Rendez-vous sur la [communauté Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (également connue sous le nom de nation marketing) pour en savoir plus sur votre instance de Marketo Engage auprès d’employés Marketo Engage ainsi que d’autres utilisateurs.
 
 Prise en main dans la communauté :
 

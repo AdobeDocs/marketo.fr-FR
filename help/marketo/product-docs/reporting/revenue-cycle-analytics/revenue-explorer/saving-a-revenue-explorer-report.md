@@ -23,7 +23,7 @@ Les rapports de l’Explorateur de recettes peuvent être enregistrés dans le f
    >
    >Les modifications que vous apportez à votre rapport ne sont pas enregistrées automatiquement. Alors, fais attention à épargner souvent !
 
-1. Attribuez un nom explicite à votre rapport, sélectionnez un emplacement, puis cliquez sur **Enregistrer**!
+1. Attribuez un nom explicite à votre rapport, sélectionnez un emplacement, puis cliquez sur **Enregistrer** !
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
@@ -33,4 +33,4 @@ Les rapports de l’Explorateur de recettes peuvent être enregistrés dans le f
 
 >[!MORELIKETHIS]
 >
->[Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[S’abonner à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

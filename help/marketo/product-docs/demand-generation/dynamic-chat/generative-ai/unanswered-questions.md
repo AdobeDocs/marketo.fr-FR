@@ -22,7 +22,7 @@ Consultez toutes les questions auxquelles le chatterbot n’a pas pu répondre e
 
    ![](assets/unanswered-questions-1.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Questions sans réponse]** .
+1. Cliquez sur l&#39;onglet **[!UICONTROL Questions sans réponse]** .
 
    ![](assets/unanswered-questions-2.png)
 

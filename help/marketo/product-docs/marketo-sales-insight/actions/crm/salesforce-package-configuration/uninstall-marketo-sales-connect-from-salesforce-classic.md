@@ -1,10 +1,10 @@
 ---
-description: Désinstallation de Marketo Sales Connect à partir de Salesforce Classic - Documents Marketo - Documentation du produit
+description: Désinstaller Marketo Sales Connect de Salesforce Classic - Documents Marketo - Documentation du produit
 title: Désinstallation de Marketo Sales Connect à partir de Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1197'
 ht-degree: 8%
 
 ---
@@ -19,11 +19,11 @@ Voici comment désinstaller le package Marketo Sales Connect de votre compte Sal
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
-1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Pistes. Sélectionnez ensuite **Disposition de page**.
+1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Pistes. Sélectionnez ensuite **Mise en page de page**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. Cliquez sur **Modifier** en regard de l’option Mise en page des pistes.
+1. Cliquez sur **Modifier** en regard de la Disposition de piste.
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 
@@ -41,7 +41,7 @@ Voici comment désinstaller le package Marketo Sales Connect de votre compte Sal
 
 1. Il existe 10 types de champs du MSC qui peuvent être ajoutés à cette section. Supprimez tous les champs que vous avez ajoutés ou supprimez simplement la section entière.
 
-1. Cliquez sur **Enregistrement rapide** une fois terminé.
+1. Cliquez sur **Enregistrement rapide** lorsque vous avez terminé.
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
@@ -59,7 +59,7 @@ Voici comment désinstaller le package Marketo Sales Connect de votre compte Sal
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. Cliquez sur **Enregistrement rapide** une fois terminé.
+1. Cliquez sur **Enregistrement rapide** lorsque vous avez terminé.
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
@@ -69,13 +69,13 @@ Voici comment désinstaller le package Marketo Sales Connect de votre compte Sal
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. Sélectionnez les champs de connexion des ventes dans la zone Champs sélectionnés et cliquez sur la flèche Supprimer . Cliquez sur **OK** une fois terminé.
+1. Sélectionnez les champs de connexion des ventes dans la zone Champs sélectionnés et cliquez sur la flèche Supprimer . Cliquez sur **OK** lorsque vous avez terminé.
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >L&#39;abréviation MSE _is_ Sales Connect. C&#39;est juste le nom précédent, &quot;Marketo Sales Engage&quot;.
+   >L’abréviation MSE _est_ Sales Connect. C&#39;est juste le nom précédent, &quot;Marketo Sales Engage&quot;.
 
 1. Cliquez sur **Enregistrer** lorsque vous avez terminé avec la page Pistes.
 
@@ -85,11 +85,11 @@ Voici comment désinstaller le package Marketo Sales Connect de votre compte Sal
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. En regard du mode Liste des pistes, cliquez sur **Modifier**.
+1. En regard du mode Liste Pistes, cliquez sur **Modifier**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Sélectionner **Ajouter à MSC Campaign (Classic)**, **Courrier électronique avec MSC (Classic)**, et **Push to MSC (Classic)**, puis cliquez sur la flèche Supprimer . Cliquez ensuite sur **Enregistrer**.
+1. Sélectionnez **Ajouter à la campagne MSC (Classic)**, **Email with MSC (Classic)** et **Push to MSC (Classic)**, puis cliquez sur la flèche Supprimer . Cliquez ensuite sur **Enregistrer**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -97,19 +97,19 @@ Vous ne devriez plus voir les boutons en mode Liste de pistes.
 
 ## Suppression de la configuration du MSC pour les contacts {#remove-msc-configuration-for-contacts}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
-1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Contacts. Sélectionnez ensuite **Disposition de page**.
+1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Contacts. Sélectionnez ensuite **Mise en page de page**.
 
 1. En regard de Contact Layout, cliquez sur **Modifier**.
 
 1. Répétez les étapes des trois sections.
 
-## Suppression de la configuration du MSC pour les opportunités {#remove-msc-configuration-for-opportunity}
+## Suppression de la configuration du SMC pour les opportunités {#remove-msc-configuration-for-opportunity}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
-1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Opportunités. Sélectionnez ensuite **Disposition de page**.
+1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Opportunités. Sélectionnez ensuite **Mise en page de page**.
 
 1. En regard de la disposition d’opportunité, cliquez sur **Modifier**.
 
@@ -121,9 +121,9 @@ La vue d’opportunité ne comporte qu’un seul bouton : &quot;Envoyer un email
 
 ## Suppression de la configuration MSC pour un compte {#remove-msc-configuration-for-account}
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
-1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Compte. Sélectionnez ensuite **Disposition de page**.
+1. Dans le volet de navigation de gauche, sous Créer, développez (mais ne cliquez pas sur) Personnaliser, puis Compte. Sélectionnez ensuite **Mise en page de page**.
 
 1. En regard de Disposition du compte, cliquez sur **Modifier**.
 
@@ -135,9 +135,9 @@ La vue Compte ne comporte qu’un seul bouton : &quot;Envoyer un email MSE&quot;
 
 ## Supprimer la boîte d’envoi des ventes Marketo {#remove-marketo-sales-outbox}
 
-1. Dans Salesforce, cliquez sur l’icône **+** dans la partie supérieure de votre écran.
+1. Dans Salesforce, cliquez sur l’onglet **+** en haut de votre écran.
 
-1. Cliquez sur **Personnalisation de mes onglets**.
+1. Cliquez Sur **Personnaliser Mes Onglets**.
 
 1. Sélectionnez l’option Marketo Sales Outbox (Boîte d’envoi des ventes) à droite. Cliquez sur la flèche Supprimer, puis sur **Enregistrer**.
 
@@ -145,13 +145,13 @@ La vue Compte ne comporte qu’un seul bouton : &quot;Envoyer un email MSE&quot;
 
 Une fois que vous avez supprimé tous les objets de votre compte Salesforce, procédez comme suit.
 
-1. Dans Salesforce, cliquez sur **Configuration**.
+1. Dans Salesforce, cliquez sur **Setup**.
 
 1. Dans la zone Recherche rapide, saisissez &quot;Classes Apex&quot;.
 
 1. Cliquez sur **Supprimer** en regard de toutes les entrées &quot;MarketoSalesConnectionCustomization&quot; ou &quot;MarketoSalesEngageCustomization&quot; de votre liste.
 
-Vous êtes toutes prêtes !
+Tout est prêt !
 
 Voici la liste de tous les objets qui doivent être supprimés de votre instance Salesforce :
 
@@ -220,7 +220,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
  </tr>
  <tr>
   <td>Modèle de courrier électronique MSC</td>
-  <td>Nom des journaux du modèle MSC utilisé dans l’e-mail envoyé au prospect/contact</td>
+  <td>Nom des journaux du modèle MSC utilisé dans l’email envoyé au prospect/contact</td>
   <td>Activité</td>
   <td>Texte</td>
  </tr>
@@ -257,7 +257,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -267,7 +267,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -277,27 +277,27 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
  <tr>
-  <td>MSC - Dernière source d’engagement marketing</td>
+  <td>MSC - Dernier Source d’engagement marketing</td>
   <td>Source de l’engagement marketing</td>
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
  <tr>
   <td>MSC - Dernier type d’engagement marketing</td>
-  <td>Type d’engagement (ex : Activité web)</td>
+  <td>Type d’engagement (ex : activité web)</td>
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -307,7 +307,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -317,7 +317,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -327,7 +327,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -337,7 +337,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Données et heure</td>
  </tr>
@@ -347,7 +347,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
   <td>Case à cocher</td>
  </tr>
@@ -365,7 +365,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <td>
   <p>Compte 
   <p>Contact 
-  <p>Lead 
+  <p>Prospect 
   <p>Opportunité</td>
  </tr>
  <tr>
@@ -412,7 +412,7 @@ Voici la liste de tous les objets qui doivent être supprimés de votre instance
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Courrier électronique avec MSC (Classic)</td>
+  <td>Email avec MSC (Classic)</td>
   <td>Courriel du MSC de Salesforce</td>
   <td>
   <p>Contact

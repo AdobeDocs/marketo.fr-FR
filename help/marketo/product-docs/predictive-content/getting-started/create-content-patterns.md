@@ -6,16 +6,16 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
 
 # Créez des modèles de contenu {#create-content-patterns}
 
-Lorsque vous définissez des modèles de contenu, le contenu est automatiquement découvert lorsqu’un visiteur web clique sur la page web de HTML correspondant au modèle de contenu. Il est utilisé pour ajouter des pages de HTML (billets de blog, communiqués de presse, articles d’actualité) en tant que parties de contenu à la page Contenu complet. Lorsque la découverte automatique est basée sur des modèles de contenu, elle détecte et suit les pages de HTML liées au modèle d’URL défini lorsqu’un visiteur web affiche ou clique sur un lien vers la page. Cet élément de contenu (l’URL, le nom de page et les métadonnées, y compris l’URL de l’image et la description) est ajouté à la page Tout le contenu pour préparer le contenu prédictif. Pour découvrir automatiquement d’autres contenus, tels que des PDF et des vidéos incorporées, vous devez : [activation de la découverte de contenu](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Lorsque vous définissez des modèles de contenu, le contenu est automatiquement découvert lorsqu’un visiteur web clique sur la page web d’HTML correspondant au modèle de contenu. Il est utilisé pour ajouter des pages d’HTML (billets de blog, communiqués de presse, articles d’actualité) en tant que parties de contenu à la page Tout le contenu. Lorsque la découverte automatique est basée sur des modèles de contenu, elle détecte et suit les pages d’HTML liées au modèle d’URL défini lorsqu’un visiteur web affiche ou clique sur un lien vers la page. Cet élément de contenu (URL, nom de page et métadonnées, y compris l’URL de l’image et la description) est ajouté à la page Tout le contenu pour préparer le contenu prédictif. Pour découvrir automatiquement d’autres contenus, tels que des PDF et des vidéos incorporées, vous devez [activer la découverte de contenu](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Accédez à **Paramètres Contenu**.
+1. Accédez à **Paramètres de contenu**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
@@ -23,7 +23,7 @@ Lorsque vous définissez des modèles de contenu, le contenu est automatiquement
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Cliquez sur le bouton **+** pour ouvrir une ligne dans laquelle vous pouvez saisir vos informations.
+1. Cliquez sur **+** pour ouvrir une ligne où vous pouvez saisir vos informations.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -33,13 +33,13 @@ Lorsque vous définissez des modèles de contenu, le contenu est automatiquement
 
    >[!NOTE]
    >
-   >Les éléments de la liste déroulante à droite reflètent les catégories que vous configurez lorsque vous [catégories créées](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Les éléments de la liste déroulante à droite reflètent les catégories que vous avez configurées lorsque vous [ avez créé des catégories](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
 1. Cliquez sur **+** pour ajouter un autre chemin.
 
    ![](assets/url-patterns-add2.png)
 
-1. Ajoutez l’extension et la catégorie du chemin d’accès supplémentaire, puis cliquez sur **Enregistrer**.
+1. Ajoutez l’extension et la catégorie du chemin d’accès supplémentaire et cliquez sur **Enregistrer**.
 
    ![](assets/url-patterns-save.png)
 
@@ -47,14 +47,14 @@ Lorsque vous définissez des modèles de contenu, le contenu est automatiquement
 
 * Vous pouvez utiliser un caractère générique n’importe où dans une expression (par exemple : _domain.com/&#42;_, _domain.com/&#42;blog&#42;_)
 
-* Nous vous recommandons d’utiliser /&#42; à la fin d’une expression pour continuer la découverte de motifs (exemple : _domain.com/blog/&#42;_ découvre toutes les publications dans le dossier Blog)
-* Les modèles de contenu ne sont pas sensibles à la casse (exemple : _domain.com/Blog/&#42;_ découvre toutes les pages HTML sur _domain.com/Blog_ et _domain.com/blog_)
+* Nous vous recommandons d’utiliser /&#42; à la fin d’une expression pour continuer la découverte de motifs (par exemple : _domain.com/blog/&#42;_ découvre toutes les publications dans le dossier Blog).
+* Les modèles de contenu ne sont pas sensibles à la casse (par exemple : _domain.com/Blog/&#42;_ découvre toutes les pages HTML sur _domain.com/Blog_ et _domain.com/blog_)
 
 * Les paramètres d’URL ne sont pas découverts (cela évite de découvrir plusieurs éléments avec la même URL de contenu, mais des paramètres différents).
 
 ## Exemples {#examples}
 
-Pour _domain.com_:
+Pour _domain.com_ :
 
 <table> 
  <tbody> 
@@ -76,7 +76,7 @@ Pour _domain.com_:
   </tr> 
   <tr> 
    <td>communiqué de presse</td> 
-   <td><p>Une seule page de HTML de correspondance exacte est découverte :</p><p>domain.com/press-release</p></td> 
+   <td><p>Une seule page d’HTML correspondant exactement est découverte :</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

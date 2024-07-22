@@ -19,7 +19,7 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à l&#39;ami&
 
 ## Ajout d’un lien à un modèle de courrier électronique {#add-the-link-to-an-email-template}
 
-1. Accédez au **Design Studio**.
+1. Accédez à **Design Studio**.
 
    ![](assets/one-8.png)
 
@@ -27,7 +27,7 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à l&#39;ami&
 
    ![](assets/two-7.png)
 
-1. Collez le code de HTML suivant où vous souhaitez que le lien &quot;Transférer vers l’ami&quot; s’affiche (si vous avez besoin d’aide sur cette partie, veuillez contacter votre développeur web) :
+1. Collez le code d’HTML suivant où vous souhaitez que le lien &quot;Transférer vers l’ami&quot; s’affiche (si vous avez besoin d’aide sur cette partie, veuillez contacter votre développeur web) :
 
    `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
 
@@ -42,9 +42,9 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à l&#39;ami&
 
    >[!CAUTION]
    >
-   >Il est déconseillé d’utiliser le style **position:relative** dans votre modèle de courrier électronique. Il peut créer des problèmes avec la position et l&#39;affichage de la boîte &quot;Transférer à l&#39;ami&quot;.
+   >Il est déconseillé d&#39;utiliser le style **position:relative** dans votre modèle de courrier électronique. Il peut créer des problèmes avec la position et l&#39;affichage de la boîte &quot;Transférer à l&#39;ami&quot;.
 
-1. Cliquez sur **Aperçu du brouillon** pour vous assurer que le modèle ressemble à ce que vous souhaitez.
+1. Cliquez sur **Aperçu de la version préliminaire** pour vous assurer que le modèle ressemble à ce que vous souhaitez.
 
    ![](assets/four-5.png)
 
@@ -56,7 +56,7 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à l&#39;ami&
 
    ![](assets/f2afbox.png)
 
-## Ajout du lien à un courrier électronique individuel {#add-the-link-to-an-individual-email}
+## Ajout d’un lien à un courrier électronique individuel {#add-the-link-to-an-individual-email}
 
 Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; directement dans un email.
 
@@ -64,11 +64,11 @@ Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; dire
 
    ![](assets/five-4.png)
 
-1. Placez le curseur à l’endroit où vous souhaitez que le lien s’affiche, puis cliquez sur le bouton **Insérer un jeton** bouton .
+1. Placez le curseur à l’endroit où vous souhaitez que le lien s’affiche et cliquez sur le bouton **Insérer un jeton** .
 
    ![](assets/six-2.png)
 
-1. Sélectionnez la **`{{system.forwardToFriendLink}}`** jeton.
+1. Sélectionnez le jeton **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; dire
 
    ![](assets/seven-1.png)
 
-1. Couper le **`{{system.forwardToFriendLink}}`** jeton utilisant Ctrl+X (Windows) ou Cmd+X (Mac). Sélectionnez &quot;Transférer à un ami&quot; et cliquez sur le bouton **Insérer/Modifier un lien** bouton .
+1. Coupez le jeton **`{{system.forwardToFriendLink}}`** à l’aide de Ctrl+X (Windows) ou Cmd+X (Mac). Sélectionnez &quot;Transférer à un ami&quot; et cliquez sur le bouton **Insérer/Modifier le lien**.
 
    ![](assets/eight-1.png)
 
-1. Collez le **`{{system.forwardToFriendLink}}`** jeton dans le **URL** à l’aide de Ctrl/Cmd+V, puis cliquez sur **Insérer**.
+1. Collez le jeton **`{{system.forwardToFriendLink}}`** dans la zone **URL** à l’aide de Ctrl/Cmd+V, puis cliquez sur **Insérer**.
 
    ![](assets/nine.png)
 
@@ -94,7 +94,7 @@ Vous pouvez également ajouter le lien &quot;Transférer à l&#39;ami&quot; dire
 
    >[!NOTE]
    >
-   >Les nouvelles personnes qui sont ajoutées en recevant un email &quot;Transférer à un ami&quot; sont par défaut désabonnées aux emails marketing.
+   >Les nouvelles personnes qui sont ajoutées par la réception d’un email &quot;Transférer à un ami&quot; sont par défaut désabonnées aux emails marketing.
 
 ## Afficher l’activité de transfert {#view-forwarding-activity}
 
@@ -108,7 +108,7 @@ Vous pouvez voir qui a transféré et reçu les emails dans le journal d’activ
 
    ![](assets/fourteen.png)
 
-1. Accédez au **Journal d’activité** . Double-cliquez **Reçu pour envoyer un courrier électronique à un ami** ou **Transmis au courrier électronique de l’ami** pour afficher les détails.
+1. Accédez à l’onglet **Journal d’activité** . Double-cliquez sur **Reçu pour être envoyé à l’ami par courrier électronique** ou **Envoyé vers l’ami par courrier électronique** pour afficher les détails.
 
    ![](assets/fifteen.png)
 
@@ -122,20 +122,20 @@ Vous pouvez voir qui a transféré et reçu les emails dans le journal d’activ
 
    ![](assets/sixteen.png)
 
-1. Pour afficher une personne par son identifiant, copiez et collez le **ID de personne** à la fin de l’URL (le début de cette URL dépend de votre instance Marketo) :
+1. Pour afficher une personne par identifiant, copiez et collez l’**ID de personne** à la fin de l’URL (le début de cette URL dépend de votre instance Marketo) :
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >Nous ferons le **ID de personne** Cliquez sur et liez directement à la personne dans un correctif à venir.
+   >Nous rendrons le **ID de personne** cliquable et nous le lierons directement à la personne dans un correctif à venir.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Si l’ami recevant l’avant est une personne inconnue, une nouvelle personne est créée avec &quot;Transférer à l’ami&quot; marqué comme étant le **Source**.
-   >Si le courrier électronique est une ressource locale d’un programme, le programme est marqué comme le **Programme d’acquisition**.
+   >Si l’ami recevant le transfert est une personne inconnue, une nouvelle personne est créée avec &quot;Transférer à l’ami&quot; marqué comme **Source** de la personne.
+   >Si le courrier électronique est une ressource locale d’un programme, le programme est marqué comme le **Programme d’acquisition** de la personne.
 
 ## Déclenchement ou filtrage à l’aide de l’activité de transfert {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ Dans la liste dynamique d’une campagne dynamique, si vous recherchez &quot;for
 
 ## Tester vers l’ami {#test-forward-to-friend}
 
-Pour tester &quot;Transférer à l&#39;ami&quot;, envoyez-vous un email avec le lien de transfert. Assurez-vous de l’envoyer via la variable **Envoyer un courrier électronique** étape de flux, *not* through **Envoyer un courrier électronique de test**.
+Pour tester &quot;Transférer à l&#39;ami&quot;, envoyez-vous un email avec le lien de transfert. Assurez-vous de l&#39;envoyer par le biais de l&#39;étape de flux **Envoyer le courrier électronique**, *et non* via **Envoyer le courrier électronique de test**.

@@ -13,36 +13,36 @@ ht-degree: 0%
 
 # Rapports de courriel de groupe par segment {#group-email-reports-by-segmentations}
 
-Les segments ne sont pas réservés au contenu dynamique. Vous pouvez également regrouper votre rapport de performances des emails par segmentation.
+Les segments ne sont pas destinés uniquement au contenu dynamique. Vous pouvez également regrouper votre rapport sur les performances des emails par segmentation.
 
 >[!PREREQUISITES]
 >
->[Approbation d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
+>[Approuver une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Accédez au **Activités marketing** (ou **Analytics**).
+1. Accédez à la zone **Activités marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Sélectionnez votre **Performances des emails** rapport.
+1. Sélectionnez votre rapport **Performance de messagerie**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Cliquez sur le bouton **Configuration** par glisser-déposer ; **Regrouper par segmentation**.
+1. Cliquez sur l’onglet **Configuration** et faites glisser le pointeur de la souris sur **Group by Segmentations**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Sélectionnez une ou deux segments à utiliser pour regrouper votre rapport. Cliquez sur **Appliquer**.
+1. Sélectionnez une ou deux segments à utiliser pour regrouper votre rapport. Cliquez sur **Apply**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. C&#39;est tout ! Cliquez sur le bouton **Rapport** . Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
+1. C&#39;est tout ! Cliquez sur l’onglet **Rapport** . Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Si vous utilisez deux segments, une ligne est affichée pour chaque segment. _combinaison_ de segments.
+1. Si vous utilisez deux segments, une ligne s’affiche pour chaque _combinaison_ de segments.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->[Filtrage des ressources dans un rapport par courriel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[Filtrer Assets dans un rapport par courrier électronique](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

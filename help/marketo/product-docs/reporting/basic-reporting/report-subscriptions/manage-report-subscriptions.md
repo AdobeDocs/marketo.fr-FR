@@ -15,40 +15,40 @@ ht-degree: 1%
 
 Configuration et suppression des abonnements aux rapports.
 
-1. Accédez au **Analytics** zone.
+1. Accédez à la zone **Analytics**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Cliquez sur le bouton **Abonnements** .
+1. Cliquez sur l’onglet **Abonnements** .
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’explorateur de recettes.
+   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [ abonnements aux rapports de base ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’explorateur de recettes.
 
    >[!TIP]
    >
-   >Vous pouvez également gérer les abonnements à un rapport spécifique dans **Activités marketing**. Sélectionnez le rapport et cliquez sur le bouton **Abonnements** .
+   >Vous pouvez également gérer les abonnements à un rapport individuel dans **Activités marketing**. Sélectionnez le rapport et cliquez sur l&#39;onglet **Abonnements** .
 
    Pour modifier la fréquence d&#39;envoi d&#39;un rapport, cliquez sur le champ Fréquence et sélectionnez une nouvelle option dans le menu déroulant.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Pour modifier les adresses électroniques d’un abonnement, cliquez sur le bouton **Destinataires de l’e-mail** et éditez les adresses email.
+1. Pour modifier les adresses électroniques d’un abonnement, cliquez sur le champ **Destinataires d’emails** et modifiez les adresses électroniques.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
    >[!TIP]
    >
    >* Utilisez des virgules entre les adresses électroniques.
-   >* Pour enregistrer vos modifications, cliquez sur dans une zone. _external_ la liste des abonnements.
+   >* Pour enregistrer vos modifications, cliquez sur une zone _en dehors de_ de la liste des abonnements.
 
    Vous pouvez également :
 
-   * Cliquez sur le bouton **Affichage** pour ouvrir un rapport.
-   * Désélectionnez l’option **Principal** pour désactiver l’abonnement.
-   * Cliquez sur et modifiez la variable **Résumé** pour modifier le nombre de lignes d’aperçu qui apparaissent dans l’email.
-   * Désélectionnez l’option **Excel** pour envoyer des résumés de rapports sans la pièce jointe de feuille de calcul.
-   * Cliquez sur le bouton **Envoyer** pour envoyer immédiatement l’email du rapport.
+   * Cliquez sur le bouton **Afficher** pour ouvrir un rapport.
+   * Décochez la case **Active** pour désactiver l’abonnement.
+   * Cliquez et modifiez le champ **Résumé** pour modifier le nombre de lignes d&#39;aperçu qui apparaissent dans le courrier électronique.
+   * Décochez la case **Excel** pour envoyer des résumés de rapports sans pièce jointe de feuille de calcul.
+   * Cliquez sur le bouton **Envoyer** pour envoyer immédiatement le courriel du rapport.
 
 1. Pour supprimer complètement un abonnement, sélectionnez la ligne et cliquez sur **Supprimer l’abonnement**.
 
@@ -60,5 +60,5 @@ Configuration et suppression des abonnements aux rapports.
 
    >[!MORELIKETHIS]
    >
-   >* [Abonnement à un rapport de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [Abonnement à un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >* [S’abonner à un rapport de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [S’abonner à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

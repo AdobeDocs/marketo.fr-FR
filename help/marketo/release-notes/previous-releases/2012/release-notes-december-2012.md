@@ -6,24 +6,24 @@ exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '401'
 ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : Décembre 2012 {#release-notes-december}
+# Notes de mise à jour : décembre 2012 {#release-notes-december}
 
-La version de décembre comprend la **Aller vers l&#39;ami** fonctionnalité, ainsi que plusieurs autres bons ! Notez les fonctionnalités marquées d’un astérisque (&#42;) sont disponibles uniquement dans les options Select Edition et dans RCA (Revenue Cycle Analytics).
+La version de décembre comprend la très attendue fonctionnalité **Transférer vers l’ami**, ainsi que plusieurs autres produits ! Notez que les fonctionnalités marquées d’un astérisque (&#42;) sont disponibles uniquement dans l’édition sélectionnée et dans l’archive RCA (Revenue Cycle Analytics).
 
 ## Transférer à un ami {#forward-to-friend}
 
-Activez le partage de contenu avec d’autres utilisateurs en incluant une **Aller vers l&#39;ami** dans vos emails. L’ajout de nouveaux filtres et déclencheurs vous aidera à identifier vos influenceurs, en identifiant les utilisateurs qui ont transféré un email, ainsi que ceux qui ont reçu les emails transférés.
+Activez le partage de contenu avec d&#39;autres en incluant un lien **Transférer vers l&#39;ami** dans vos emails. L’ajout de nouveaux filtres et déclencheurs vous aidera à identifier vos influenceurs, en identifiant les utilisateurs qui ont transféré un email, ainsi que ceux qui ont reçu les emails transférés.
 
-Pour inclure un **Aller vers l&#39;ami** invitation dans votre email, ouvrez-la dans l&#39;éditeur et insérez le `{{system.forwardToFriendLink}}` jeton.
+Pour inclure une invitation **Transférer à l’ami** dans votre email, ouvrez-la dans l’éditeur et insérez le jeton `{{system.forwardToFriendLink}}`.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Utilisez les déclencheurs et filtres correspondants pour identifier les utilisateurs qui ont utilisé la variable **Aller vers l&#39;ami** et ceux qui ont reçu l’e-mail.
+Utilisez les déclencheurs et filtres correspondants pour identifier les utilisateurs qui ont utilisé le lien **Transférer à l&#39;ami** et ceux qui ont reçu l&#39;email.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -39,7 +39,7 @@ Notre dernière version vous donne un meilleur accès et un meilleur contrôle s
 
 ## Adaptateur BrightTALK {#brighttalk-adapter}
 
-L’adaptateur Marketo BrightTALK vous permet de capturer les informations de participation d’un webcast en direct ou à la demande, directement dans un événement Marketo !
+L’adaptateur Marketo BrightTALK vous permet de capturer les informations de fréquentation d’un webcast en direct ou à la demande, directement dans un événement Marketo !
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
@@ -51,16 +51,16 @@ Sales Insight est désormais disponible pour les clients Microsoft Dynamics.
 
 Synchroniser les données d’opportunité entre Marketo et Microsoft Dynamics.
 
-## Rapport des opportunités d’influence marketing&#42; {#marketing-influenced-opportunities-report}
+## Rapport Opportunités influencées par le marketing&#42; {#marketing-influenced-opportunities-report}
 
-Déterminez le pourcentage du pipeline de votre entreprise et les recettes qui ont été influencées par vos programmes marketing. Dans **Explorateur de recettes**, vous pouvez désormais créer des rapports personnalisés avec le nouveau point jaune &quot;Opportunité influencée par le marketing&quot; dans l’analyse des opportunités. Vous pouvez également utiliser les deux rapports suivants dans le dossier Standard :
+Déterminez le pourcentage du pipeline de votre entreprise et les recettes qui ont été influencées par vos programmes marketing. Dans l’ **Explorateur des recettes**, vous pouvez désormais créer des rapports personnalisés avec le nouveau point jaune &quot;Opportunité influencée par le marketing&quot; dans l’analyse des opportunités. Vous pouvez également utiliser les deux rapports suivants dans le dossier Standard :
 
 * Influence marketing sur les opportunités créées
 * Influence marketing sur les opportunités gagnées
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Champs d’opportunité personnalisés dans l’analyse des opportunités de programme&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Champs d’opportunité personnalisés dans l’analyse des opportunités du programme &#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Ajoutez des champs d’opportunité personnalisés pour enrichir vos rapports Analyse des opportunités de programme dans l’Explorateur des recettes.
 
@@ -68,8 +68,8 @@ Ajoutez des champs d’opportunité personnalisés pour enrichir vos rapports An
 
 ## Inspecteur de campagne {#campaign-inspector}
 
-Vous êtes-vous déjà demandé quelles campagnes utilisent une action de flux spécifique, telle que Modifier le score ou Demander la campagne ? Ou où un certain filtre est utilisé ? Le nouvel Inspecteur de campagne (disponible à partir du coffre à trésor) vous permet d’identifier ces campagnes, ainsi que les campagnes principales et les campagnes en erreur.
+Vous êtes-vous déjà demandé quelles campagnes utilisent une action de flux spécifique, telle que Modifier le score ou Demander la campagne ? Ou où un certain filtre est utilisé ? Le nouvel Inspecteur de campagne (disponible à partir du coffre à trésor) vous permet d’identifier ces campagnes, ainsi que les campagnes actives et les campagnes en erreur.
 
-Accédez à **Administration** > **Poitrine au trésor** pour activer la variable **Inspecteur de campagne**.
+Accédez à **Admin** > **Treasure Chest** pour activer l’ **Inspecteur de campagne**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

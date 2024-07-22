@@ -21,15 +21,15 @@ Lorsque vous créez une offre de référence ou un tirage, vous pouvez envoyer u
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez l’offre de parrainage, puis cliquez sur **Modifier le brouillon**.
+1. Sélectionnez l’offre de référence, puis cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Dans l&#39;éditeur d&#39;offres de parrainage, accédez à **Paramètres de l’application** puis **Détails de l’offre**.
+1. Dans l’éditeur d’offres de référence, accédez à **Paramètres de l’application**, puis **Détails de l’offre**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Sous Emails, sélectionnez **Utiliser des codes promotionnels**, puis sous Télécharger des codes, cliquez sur **Parcourir** pour sélectionner le fichier de codes promotionnels sur votre système.
+1. Sous Emails, sélectionnez **Utiliser des codes promotionnels** et sous Télécharger des codes, cliquez sur **Parcourir** pour sélectionner le fichier de codes promotionnels dans votre système.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -51,16 +51,16 @@ Une fois que les participants commencent à recevoir votre récompense d’offre
 
 >[!NOTE]
 >
->Uniquement les utilisateurs de Marketo avec _Accéder aux prix_ ont accès à ces informations. Voir  [Gestion des rôles et des autorisations des utilisateurs](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Seuls les utilisateurs de Marketo disposant de l’autorisation _Access Awards_ ont accès à ces informations. Voir [Gestion des rôles et des autorisations utilisateur](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Accédez à **Activités marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Sélectionnez votre offre de référence ou votre tirage, puis cliquez sur le bouton **Participants** .
+1. Sélectionnez votre offre de parrainage ou tirage, puis cliquez sur l’onglet **Participants** .
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Vous devriez voir ici quelques entrées. Cliquez sur le nombre indiqué dans la variable **Codes promotionnels** pour afficher les codes promotion qui ont été envoyés à ce participant et le moment où.
+1. Ici, vous devriez voir quelques entrées. Cliquez sur le numéro dans la colonne **Codes promotionnels** pour afficher les codes promotionnels envoyés à ce participant et le moment où ils ont été envoyés.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

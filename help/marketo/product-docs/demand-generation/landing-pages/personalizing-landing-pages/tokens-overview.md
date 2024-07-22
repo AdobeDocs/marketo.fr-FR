@@ -87,7 +87,7 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Les champs de personne personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple : `{{lead.Custom Field Name}}`
+* Les champs de personne personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple `{{lead.Custom Field Name}}`.
 
 ## Jetons d’entreprise {#company-tokens}
 
@@ -122,7 +122,7 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 
 >[!NOTE]
 >
->En savoir plus sur ces jetons dans la section [Glossaire des jetons système](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Pour en savoir plus sur ces jetons, consultez le [glossaire des jetons système](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 
 >[!NOTE]
 >
->En savoir plus sur [jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en fonction des déclencheurs utilisés dans une campagne dynamique.
+>Pour plus d’informations sur les [jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en fonction des déclencheurs utilisés dans une campagne dynamique, reportez-vous à la section
 
 ## Jetons de programme {#program-tokens}
 
@@ -159,14 +159,14 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 
 ## Mes jetons {#my-tokens}
 
-Mes jetons sont définis dans un programme et commencent par `{{my.` suivi du nom que vous avez créé pour le jeton. En savoir plus sur [Mes jetons dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Les jetons Mes sont définis dans un programme et commencent par `{{my.` suivi du nom que vous avez créé pour le jeton. En savoir plus sur [Mes jetons dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Jeton de membre {#member-token}
 
-Les jetons de membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de membre sont couramment utilisés pour les URL uniques des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire qui peut être inséré à l’aide d’une `{{member.webinar url}}` jeton. Le `{{member.webinar url}}` le jeton résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services.
+Les jetons de membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de membre sont couramment utilisés pour les URL uniques des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire qui peut être inséré à l’aide d’un jeton `{{member.webinar url}}`. Le jeton `{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Le `{{member.webinar url}}` jeton ne sera renseigné que si la campagne dynamique qui envoie le courrier électronique est une ressource enfant du programme d’événements.
+>Le jeton `{{member.webinar url}}` ne sera renseigné que si la campagne dynamique qui envoie le courrier électronique est une ressource enfant du programme d’événements.

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour répondre aux besoins de votre entreprise.
 
-Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont une tâche spéciale, permettant de connecter des objets personnalisés, et sont couverts par une [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont une tâche spéciale, pour connecter des objets personnalisés, et sont couverts dans un [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Accédez au **[!UICONTROL Administration]** zone.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -29,7 +29,7 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Champs]** , puis **[!UICONTROL Nouveau champ]**.
+1. Cliquez sur l’onglet **[!UICONTROL Champs]** , puis sur **[!UICONTROL Nouveau champ]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -45,11 +45,11 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
    >
    >Le nom de l’API ne peut être modifié que lorsqu’il a été approuvé.
 
-1. Maintenant, choisissez une [!UICONTROL Type de données] dans la liste.
+1. Maintenant, sélectionnez un [!UICONTROL Type de données] approprié dans la liste.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Extrayez le [!UICONTROL Déduplication] placez le curseur au-dessus si vous souhaitez utiliser le nouveau champ comme identifiant unique. Cliquez sur **[!UICONTROL Enregistrer]** à la fin.
+1. Extrayez le curseur [!UICONTROL Déduplication] si vous souhaitez utiliser le nouveau champ comme identifiant unique. Cliquez sur **[!UICONTROL Enregistrer]** pour terminer.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 
@@ -61,11 +61,11 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
    >[!NOTE]
    >
-   >Si vous créez une structure de type &quot;un à plusieurs&quot;, vous devez ajouter un champ Lien à votre objet personnalisé. Pour une structure de type &quot;plusieurs à plusieurs&quot;, vous n’avez pas besoin d’un champ de lien dans l’objet personnalisé, mais vous devez ajouter deux champs de lien dans l’objet intermédiaire. Voir [Ajout de champs de lien d’objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) pour créer les champs de lien, et [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations sur les types d’objets personnalisés.
+   >Si vous créez une structure de type &quot;un à plusieurs&quot;, vous devez ajouter un champ Lien à votre objet personnalisé. Pour une structure de type &quot;plusieurs à plusieurs&quot;, vous n’avez pas besoin d’un champ de lien dans l’objet personnalisé, mais vous devez ajouter deux champs de lien dans l’objet intermédiaire. Voir [ Ajout de champs de lien d’objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) pour créer les champs de lien, et [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations sur les types d’objets personnalisés.
 
 >[!MORELIKETHIS]
 >
->* [Ajout de champs de lien d’objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Modification et suppression d’un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Modification et suppression de champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Ajouter des champs de lien d’objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Modifier et supprimer un objet personnalisé Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Modifier et supprimer des champs d’objet personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Compréhension des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

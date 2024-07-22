@@ -17,7 +17,7 @@ Recevez un email hebdomadaire contenant vos principaux comptes et leurs tendance
 
 >[!NOTE]
 >
->Découvrez comment configurer ce rapport [here](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Découvrez comment configurer ce rapport [ici](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 Le rapport partage :
 
@@ -47,7 +47,7 @@ Le rapport partage :
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Aperçu pages</strong></td> 
+   <td><strong>Aperçus de pages</strong></td> 
    <td> 
     <div>
       Tendance hebdomadaire des pages vues, suivie du nombre total de pages vues et du nombre de visiteurs uniques 
@@ -57,7 +57,7 @@ Le rapport partage :
    <td><strong>Moments significatifs</strong></td> 
    <td> 
     <div>
-      Nombre total de moments intéressants qui se sont produits au cours de la semaine 
+      Nombre total de moments intéressants qui se sont produits pendant la semaine 
     </div></td> 
   </tr> 
  </tbody> 

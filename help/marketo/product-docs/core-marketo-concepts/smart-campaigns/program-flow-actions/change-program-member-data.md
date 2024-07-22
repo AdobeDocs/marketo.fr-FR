@@ -18,7 +18,7 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ à l’a
 >
 >Vous pouvez également empêcher la mise à jour d’un champ. Pour plus d’informations, voir Bloquer les mises à jour d’un champ .
 
-1. Dans l’onglet Flux de campagne dynamique, placez le pointeur de la souris sur l’onglet **[!UICONTROL Modification des données des membres du programme]** flux et sélectionnez le programme souhaité.
+1. Dans l’onglet Flux de votre campagne dynamique, passez l’étape de flux **[!UICONTROL Modifier les données des membres du programme]** et sélectionnez le programme de votre choix.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -38,9 +38,9 @@ Maintenant, exécutez la campagne dynamique, et vous avez terminé !
 
 >[!TIP]
 >
->Si vous souhaitez effacer les champs au lieu de les mettre à jour, vous pouvez saisir &quot;NULL&quot; (sans guillemets, sans majuscules) comme champ [!UICONTROL Nouvelle valeur].
+>Si vous souhaitez effacer les champs au lieu de les mettre à jour, vous pouvez saisir &quot;NULL&quot; (sans guillemets, toutes les majuscules) comme [!UICONTROL Nouvelle valeur].
 
 >[!MORELIKETHIS]
 >
->* [Utilisation de jetons dans les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
->* [Ajout de données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}
+>* [Utiliser des jetons dans les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [Ajouter des données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

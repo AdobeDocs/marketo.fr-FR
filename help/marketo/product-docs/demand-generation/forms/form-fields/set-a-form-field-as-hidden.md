@@ -23,7 +23,7 @@ Les champs de formulaire masqués peuvent capturer des données en silence sans 
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Sélectionnez le champ et définissez la variable **Type de champ** to **Masqué.**
+1. Sélectionnez le champ et définissez le **Type de champ** sur **Masqué.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
@@ -33,4 +33,4 @@ Les champs de formulaire masqués peuvent capturer des données en silence sans 
 
 >[!MORELIKETHIS]
 >
->[Définition d’une valeur de champ de formulaire masqué](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+>[Définir une valeur de champ de formulaire masqué](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)

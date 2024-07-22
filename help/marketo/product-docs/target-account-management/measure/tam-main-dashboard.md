@@ -25,7 +25,7 @@ Pour filtrer par liste de comptes, cliquez sur le menu déroulant Afficher...
 
 ![](assets/three.png)
 
-Pour afficher la variable [Tableau de bord de la liste de comptes](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), cliquez sur le nom de la liste de comptes que vous avez sélectionnée...
+Pour afficher le [tableau de bord de la liste de comptes](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), cliquez sur le nom de la liste de comptes que vous avez sélectionnée...
 
 ![](assets/four.png)
 
@@ -33,10 +33,10 @@ Pour afficher la variable [Tableau de bord de la liste de comptes](/help/marketo
 
 ![](assets/five.png)
 
-Si, au lieu d’afficher le tableau de bord de la liste de comptes, vous souhaitez accéder à un compte nommé, cliquez sur **Plus de détails** sous son nom...
+Si, au lieu d’afficher le tableau de bord Liste de comptes, vous souhaitez accéder à un compte nommé, cliquez sur **Plus de détails** sous son nom...
 
 ![](assets/six.png)
 
-...et affichez le [informations du compte nommé](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...et afficher les [insights du compte nommé](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

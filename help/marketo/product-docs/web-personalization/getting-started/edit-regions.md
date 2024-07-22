@@ -27,4 +27,4 @@ Vous souhaitez modifier les paramètres régionaux de votre utilisateur afin de 
 
 >[!NOTE]
 >
->Si vous sélectionnez Etats-Unis, toutes les options États-Unis à sélectionner s’affichent en bas de la page.
+>Si vous sélectionnez Etats-Unis, toutes les options de sélection s’affichent en bas de la page.

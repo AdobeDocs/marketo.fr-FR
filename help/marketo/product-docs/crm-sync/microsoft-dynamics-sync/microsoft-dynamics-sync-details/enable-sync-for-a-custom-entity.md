@@ -22,17 +22,17 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
 >[!NOTE]
 >
 >* Lorsque vous activez la synchronisation pour une entité personnalisée, Marketo effectue une synchronisation initiale afin d’importer toutes les données de l’objet personnalisé.
->* Les membres de liste marketing et de liste marketing sont _non pris en charge_ à ce moment-là.
+>* La liste marketing et les membres de la liste marketing ne sont _pas pris en charge_ pour le moment.
 
 >[!IMPORTANT]
 >
 >L’utilisateur de synchronisation Marketo doit disposer d’un accès en lecture à l’objet personnalisé pour le répertorier et y effectuer une synchronisation.
 
-1. Accédez au **[!UICONTROL Administration]** .
+1. Accédez à la section **[!UICONTROL Admin]** .
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Sélectionner **[!UICONTROL Microsoft Dynamics]** et cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
+1. Sélectionnez **[!UICONTROL Microsoft Dynamics]** et cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -40,7 +40,7 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
    >
    >Vous devez désactiver temporairement la synchronisation globale pour activer ou désactiver une entité personnalisée.
 
-1. Sous Database Management, cliquez sur **[!UICONTROL Synchronisation des entités Dynamics]**.
+1. Sous Gestion de la base de données, cliquez sur **[!UICONTROL Synchronisation des entités Dynamics]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
@@ -48,17 +48,17 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. Sélectionnez l’entité à synchroniser, puis cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Sélectionnez l’entité que vous souhaitez synchroniser et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser comme [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs (pour les enregistrements ajoutés, _not_ mise à jour) dans les listes dynamiques. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Sélectionnez les champs que vous souhaitez synchroniser ou utiliser comme [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) et/ou déclencheurs (pour les enregistrements ajoutés, _non_ mis à jour) dans les listes dynamiques. Une fois que vous avez terminé, cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >Au cours du processus de synchronisation, vous pouvez remarquer que la variable[!UICONTROL Synchronisation des entités dynamiques]&quot; disparaît de l’arborescence de navigation. Ce comportement est attendu et réapparaîtra une fois la synchronisation terminée.
+   >Pendant le processus de synchronisation, vous pouvez constater que l’élément &quot;[!UICONTROL Synchronisation des entités dynamiques]&quot; disparaît de l’arborescence de navigation. Ce comportement est attendu et réapparaîtra une fois la synchronisation terminée.
 
 1. L’entité dispose désormais d’une coche verte.
 

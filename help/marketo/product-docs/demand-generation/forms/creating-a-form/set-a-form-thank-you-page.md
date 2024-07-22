@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: Définition d’une page de remerciement de formulaire - Documents Marketo - Documentation du produit
+description: Définir une page de remerciement de formulaire - Documents Marketo - Documentation du produit
 title: Définition d’une page de remerciement de formulaire
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Que se passe-t-il quand quelqu’un remplit un formulaire ? Où sont-ils transférés ? Voici comment le configurer.
 
-## Modifier formulaire {#edit-form}
+## Modifier le formulaire {#edit-form}
 
 1. Accédez à **Activités marketing**.
 
@@ -25,17 +25,17 @@ Que se passe-t-il quand quelqu’un remplit un formulaire ? Où sont-ils transf�
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Sous **Paramètres de formulaire** click **Paramètres**.
+1. Sous **Paramètres de formulaire**, cliquez sur **Paramètres**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Faites défiler l’écran vers le bas jusqu’à **Page de remerciement** .
+1. Faites défiler jusqu’à la section **Page de remerciement**.
 
 ## Rester sur la page {#stay-on-page}
 
 L’option Rester sur la page permet de conserver le visiteur sur la même page une fois le formulaire envoyé.
 
-1. Sélectionner **Rester sur la page** pour **Effectuez Le Suivi Avec**.
+1. Sélectionnez **Rester sur la page** pour **Effectuer un suivi avec**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ L’option Rester sur la page permet de conserver le visiteur sur la même page 
 
 Le paramètre URL externe vous permet de définir n’importe quelle URL comme page de suivi. Une fois le formulaire envoyé, l’utilisateur est redirigé vers l’URL spécifiée.
 
-1. Sélectionner **URL externe** pour **Effectuez Le Suivi Avec**.
+1. Sélectionnez **URL externe** pour **Effectuer un suivi avec**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -59,7 +59,7 @@ Le paramètre URL externe vous permet de définir n’importe quelle URL comme p
 
 Vous pouvez sélectionner n’importe quelle page d’entrée Marketo approuvée comme suivi.
 
-1. Définir **Effectuez Le Suivi Avec** to **Page d’entrée**.
+1. Définissez **Follow Up With** sur **Landing Page**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -91,7 +91,7 @@ Vous pouvez ajouter plusieurs options et intégrer des choix pour afficher aux p
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Sélectionnez la page appropriée pour **Effectuez Le Suivi Avec** type.
+1. Sélectionnez la page appropriée pour le type **Follow Up With** .
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -103,7 +103,7 @@ Vous pouvez ajouter plusieurs options et intégrer des choix pour afficher aux p
    >
    >Vous devez avoir préalablement créé/approuvé ces landing pages.
 
-1. Cliquez sur le bouton **+** signe pour ajouter un autre choix.
+1. Cliquez sur le signe **+** pour ajouter un autre choix.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
@@ -111,7 +111,7 @@ Vous pouvez ajouter plusieurs options et intégrer des choix pour afficher aux p
    >
    >Vous pouvez ajouter plusieurs choix. Si vous en ajoutez trop, toutefois, cela peut avoir une incidence sur la vitesse de chargement du formulaire. Il suffit donc d’ajouter ce dont vous avez besoin.
 
-1. Parcourir et configurer **Choix 2**.
+1. Parcourez et configurez **Choix 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -139,4 +139,4 @@ Vous pouvez ajouter plusieurs options et intégrer des choix pour afficher aux p
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
-Très bon travail !
+Bon boulot !

@@ -17,7 +17,7 @@ Vous pouvez afficher les statistiques détaillées sur les programmes et les can
 
 >[!PREREQUISITES]
 >
->[Création d’un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Créer un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
@@ -31,13 +31,13 @@ Vous pouvez afficher les statistiques détaillées sur les programmes et les can
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Pour afficher les statistiques spécifiques d’un canal ou d’un programme (en fonction de la variable **Affichage** sélectionnez), cliquez sur la bulle correspondante.
+1. Pour afficher les statistiques spécifiques d’un canal ou d’un programme (en fonction de la **Vue** que vous sélectionnez), cliquez sur la bulle correspondante.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la variable [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >La plupart des mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Pour comparer tous les programmes d’un seul canal, cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
 

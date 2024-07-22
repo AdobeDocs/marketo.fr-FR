@@ -17,7 +17,7 @@ Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une
 
 ## Ajouter une page à une liste {#add-page-to-a-list}
 
-1. Accédez au **[!UICONTROL Pages]** .
+1. Accédez à la section **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
@@ -31,7 +31,7 @@ Vous souhaitez gérer vos pages ? Vous pouvez facilement le faire en créant une
 
    >[!TIP]
    >
-   >Vous pouvez également créer une nouvelle liste pour que votre page soit consultée. Saisissez simplement le nom de votre choix dans [!UICONTROL Créer une nouvelle liste].
+   >Vous pouvez également créer une nouvelle liste pour la consultation de votre page. Saisissez simplement le nom de votre choix dans [!UICONTROL Créer une liste].
 
 1. Cliquez sur la liste à laquelle vous venez d’ajouter votre page.
 
@@ -41,11 +41,11 @@ Oui ! Votre page doit maintenant être ajoutée à la liste.
 
 ## Supprimer une page d’une liste {#remove-page-from-a-list}
 
-1. Accédez au **[!UICONTROL Pages]** .
+1. Accédez à la section **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Sur le **[!UICONTROL Pages]** , cliquez sur la liste à nettoyer.
+1. Dans l’onglet **[!UICONTROL Pages]**, cliquez sur la liste à nettoyer.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
@@ -57,8 +57,8 @@ Oui ! Votre page doit maintenant être ajoutée à la liste.
 
    >[!NOTE]
    >
-   >Toutes les listes auxquelles le mot-clé appartient actuellement sont cochées. Une fois supprimée de la liste, la vérification disparaît.
+   >Toutes les listes auxquelles le mot-clé appartient actuellement comportent une coche. Une fois supprimée de la liste, la vérification disparaît.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Fait. Votre page est supprimée de la liste.
+C&#39;est fait. Votre page est supprimée de la liste.

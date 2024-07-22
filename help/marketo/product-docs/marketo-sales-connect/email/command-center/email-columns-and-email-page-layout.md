@@ -65,7 +65,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
   </tr> 
   <tr> 
    <td>État de l’e-mail</td> 
-   <td>État dans lequel se trouve le courrier électronique. Les états incluent : Brouillon, Planifié, En Cours, Indésirable, Refusé, Échec, Envoyé. Les emails envoyés affichent un flux d’activité qui indique le nombre de consultations, de clics et de réponses qui ont eu lieu sur cet email.</td> 
+   <td>État dans lequel se trouve le courrier électronique. Les états incluent : Version préliminaire, Planifiée, En Cours, Indésirable, Rebond, Échec, Envoyé. Les emails envoyés affichent un flux d’activité qui indique le nombre de consultations, de clics et de réponses qui ont eu lieu sur cet email.</td> 
   </tr> 
   <tr> 
    <td>Date de création</td> 
@@ -76,7 +76,7 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Date de la dernière mise à jour de l’email.</td> 
   </tr> 
   <tr> 
-   <td>Canal de livraison</td> 
+   <td>Canal d’envoi</td> 
    <td>Nom du canal de diffusion utilisé pour l’envoi de l’email.</td> 
   </tr> 
   <tr> 
@@ -96,12 +96,12 @@ Vous pouvez configurer n’importe quelle colonne disponible pour qu’elle soit
    <td>Affiche une coche si le courrier électronique a été envoyé dans le cadre d’un message électronique de groupe.</td> 
   </tr> 
   <tr> 
-   <td>Échéance de tâche</td> 
+   <td>Échéance de la tâche</td> 
    <td>Affiche la date d’échéance des tâches liées au courrier électronique. Les tâches peuvent être liées à un email en étant créées à partir des boutons d’action rapide de la liste des emails.</td> 
   </tr> 
   <tr> 
    <td>Action d’e-mail</td> 
-   <td>Boutons d’action rapide pouvant être utilisés pour exécuter une action sur l’email. Selon l’état de l’email, les actions suivantes peuvent être disponibles : Archivage, Réussite, Suppression, Réessayer Envoi, Désarchivage.</td> 
+   <td>Boutons d’action rapide pouvant être utilisés pour exécuter une action sur l’email. Selon l’état de l’email, les actions suivantes peuvent être disponibles : Archiver, Succès, Supprimer, Réessayer l’envoi, Désarchiver.</td> 
   </tr> 
   <tr> 
    <td>Type de tâche</td> 
@@ -122,11 +122,11 @@ Vous pouvez configurer votre mise en page en procédant comme suit.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Sélectionnez la **Emails** .
+1. Sélectionnez la section **Emails** .
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
-1. Cliquez sur le bouton de configuration. Les options disponibles sont les suivantes : choix du nombre de lignes souhaité, sélection des champs à afficher et sélection de l’option permettant de regrouper les emails dans un seul élément de la grille (ou si vous souhaitez que tous les emails faisant partie d’une grille d’email s’affichent comme un seul élément).
+1. Cliquez sur le bouton de configuration. Vos options sont les suivantes : choisir le nombre de lignes souhaité, sélectionner les champs à afficher et choisir si vous souhaitez que les emails de groupe soient regroupés en un seul élément de la grille (ou si vous souhaitez que tous les emails faisant partie d’une grille d’email s’affichent comme un seul élément).
 
    ![](assets/email-columns-and-email-grid-layout-3.png)
 

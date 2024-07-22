@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Lorsque vous importez une liste avec des en-têtes inconnus, vous pouvez créer 
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
@@ -31,7 +31,7 @@ Lorsque vous importez une liste avec des en-têtes inconnus, vous pouvez créer 
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. Dans le **[!UICONTROL Actions de champ]** menu déroulant, cliquez sur **[!UICONTROL Modifier les alias d’importation]**.
+1. Dans la liste déroulante **[!UICONTROL Field Actions]**, cliquez sur **[!UICONTROL Modifier les alias d’importation]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
@@ -41,7 +41,7 @@ Lorsque vous importez une liste avec des en-têtes inconnus, vous pouvez créer 
 
 >[!TIP]
 >
->Cliquez sur **[!UICONTROL Ajouter un autre]** et saisissez d’autres alias si vous en avez besoin.
+>Cliquez sur **[!UICONTROL Ajouter]** et saisissez d’autres alias si vous en avez besoin.
 
 Regarde ça ! Maintenant, si vous importez une feuille de calcul avec une colonne nommée &quot;DOB&quot;, Marketo la reconnaîtra automatiquement comme &quot;Date de naissance&quot; et importera les données dans le champ approprié.
 

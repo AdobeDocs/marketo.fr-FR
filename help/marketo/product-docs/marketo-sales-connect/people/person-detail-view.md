@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ La vue Détails de la personne fournit un profil détaillé de chaque personne d
 
 ## Accès {#how-to-access}
 
-1. Pour accéder à la vue des détails de la personne, cliquez sur le bouton **Personnes** .
+1. Pour accéder à la vue des détails de la personne, cliquez sur l’onglet **Personnes** .
 
    ![](assets/person-detail-view-1.png)
 
@@ -43,12 +43,12 @@ Inclut toutes les coordonnées de la personne.
 
 * Affiche et gère les groupes dont fait partie cette personne.
 
-**Informations du compte**
+**Informations sur le compte**
 
 * Peut ajouter une personne à Salesforce
-* Extraction des informations de compte et de prospect/contact à partir de Salesforce
+* Extraction des informations de compte et de piste/contact de Salesforce
 
-**Champs  personnalisés**
+**Champs personnalisés**
 
 * Ajouter ou supprimer des champs personnalisés qui peuvent être utilisés comme champs dynamiques dans vos modèles et campagnes
 
@@ -62,9 +62,9 @@ Découvrez comment cette personne s’engage dans votre travail de sensibilisati
 
 ![](assets/person-detail-view-4.png)
 
-**Activité Sales Connect**
+**Activité Connect des ventes**
 
-* Voir Activités d’engagement à partir de vos e-mails de vente et de vos campagnes
+* Voir Activités d’engagement à partir de vos emails de vente et campagnes
 
 **Activité marketing**
 
@@ -76,19 +76,19 @@ Affiche votre historique de diffusion. Inclut des emails, des campagnes et des a
 
 ![](assets/person-detail-view-5.png)
 
-**Campagnes de ventes**
+**Campagnes commerciales**
 
-* Afficher les campagnes principales ou terminées auxquelles cette personne appartient
+* Afficher toutes les campagnes actives ou terminées auxquelles cette personne appartient
 
 **Campagnes marketing**
 
 * Afficher toutes les campagnes marketing auxquelles cette personne est membre
 
-**E-mails de vente**
+**Courriers électroniques de vente**
 
 * Afficher les courriers électroniques que vous avez envoyés à cette personne et les mesures d’engagement
 
-**Appels de ventes**
+**Appels de vente**
 
 * Afficher tous les appels que vous avez passés à cette personne
 

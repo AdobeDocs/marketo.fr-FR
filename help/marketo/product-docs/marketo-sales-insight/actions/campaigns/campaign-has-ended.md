@@ -16,6 +16,6 @@ Si un message électronique s’affiche dans votre dossier Diffusion en échec e
 
 ## Raisons possibles de l’échec {#possible-reasons-it-failed}
 
-* L&#39;email avant qu&#39;il ne rebondisse
+* L&#39;email avant son rebond
 * Un contact a répondu et a mis fin à la campagne.
 * La campagne a été terminée manuellement.

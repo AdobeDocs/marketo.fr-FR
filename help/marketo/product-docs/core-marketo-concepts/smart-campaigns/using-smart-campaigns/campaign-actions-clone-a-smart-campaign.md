@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Le clonage des campagnes peut vous faire gagner du temps. Il n’est pas nécessaire de tout créer à partir de zéro : le clonage crée une campagne identique avec les mêmes filtres de liste intelligente et les mêmes étapes de flux.
 
-1. Sélectionnez la campagne à cloner. Dans le **[!UICONTROL Actions de campagne]** , sélectionnez **[!UICONTROL Cloner]**.
+1. Sélectionnez la campagne à cloner. Dans la liste déroulante **[!UICONTROL Actions de campagne]**, sélectionnez **[!UICONTROL Cloner]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-1.png)
 
-1. Choisissez la **[!UICONTROL Cloner vers]** . Dans cet exemple, nous allons choisir **[!UICONTROL Programmes]**.
+1. Choisissez l’option **[!UICONTROL Cloner vers]** appropriée. Dans cet exemple, choisissons **[!UICONTROL Programmes]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-2.png)
 
-1. Choisissez une **[!UICONTROL Programme]**. Saisissez un **[!UICONTROL Nom de la campagne]** et cliquez sur **[!UICONTROL Cloner]**.
+1. Sélectionnez un **[!UICONTROL Programme]**. Saisissez un **[!UICONTROL nom de campagne]** et cliquez sur **[!UICONTROL Cloner]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
 

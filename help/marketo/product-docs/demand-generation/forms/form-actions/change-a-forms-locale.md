@@ -27,7 +27,7 @@ Lorsque vous traitez des formulaires internationaux, vous souhaiterez afficher l
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Sélectionnez la **Paramètres régionaux** de votre choix.
+1. Sélectionnez le **paramètre régional** de votre choix.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
@@ -45,8 +45,8 @@ Lorsque vous traitez des formulaires internationaux, vous souhaiterez afficher l
 
    >[!NOTE]
    >
-   >N’oubliez pas de [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N’oubliez pas d’ [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
-   C&#39;est ça ! Les utilisateurs peuvent voir la date/l’heure affichée dans la langue appropriée.
+   C&#39;est ça ! Les utilisateurs peuvent voir la date/l’heure affichée dans le bon paramètre régional.
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)

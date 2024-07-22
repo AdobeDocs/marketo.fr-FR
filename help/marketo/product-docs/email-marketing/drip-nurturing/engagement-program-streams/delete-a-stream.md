@@ -37,4 +37,4 @@ Si vous devez supprimer un flux de votre programme d’engagement, suivez ces é
 
    >[!NOTE]
    >
-   >Si le flux comporte des personnes, vous serez invité à [move](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) les envoyer en premier.
+   >Si le flux contient des personnes, vous serez d’abord invité à [les déplacer](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md).

@@ -31,7 +31,7 @@ Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est 
    >
    >N’oubliez pas de supprimer le formulaire de toutes les landing pages qui l’utilisent. Vérifiez également que le formulaire n’est pas utilisé sur un site web public.
 
-1. Confirmer en cliquant sur **Supprimer**.
+1. Confirmez en cliquant sur **Supprimer**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -41,4 +41,4 @@ Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est 
 
 >[!CAUTION]
 >
->Si vous supprimez un formulaire utilisé par votre site web public, aucun avertissement ne s’affiche et le formulaire est endommagé. Considérer  [archivage](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) au lieu de .
+>Si vous supprimez un formulaire utilisé par votre site web public, aucun avertissement ne s’affiche et le formulaire est endommagé. Pensez plutôt à [archiver](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).

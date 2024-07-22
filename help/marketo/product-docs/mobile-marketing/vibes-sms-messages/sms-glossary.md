@@ -2,7 +2,8 @@
 description: Glossaire SMS - Documents Marketo - Documentation du produit
 title: Glossaire SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -57,7 +58,7 @@ Vous trouverez ci-dessous quelques termes courants que vous rencontrez lors de l
   </tr>
   <tr>
     <td>Événement</td>
-    <td>Un événement est une occurrence définie qui peut être envoyée à la plateforme Vibes et utilisée pour déclencher des actions déclenchées par l’API, y compris des envois de message. Chaque événement contient des données spécifiques à l’événement, y compris un type event_type, qui est utilisé pour déterminer la campagne de messages déclenchés par l’API à laquelle il correspond. L’API Event peut être déclenchée via Webhook dans Marketo Engage. En savoir plus sur notre <a href="https://developer-platform.vibes.com/reference/event-api">Référence de l’API d’événement</a>.</td>
+    <td>Un événement est une occurrence définie qui peut être envoyée à la plateforme Vibes et utilisée pour déclencher des actions déclenchées par l’API, y compris des envois de message. Chaque événement contient des données spécifiques à l’événement, y compris un type event_type, qui est utilisé pour déterminer la campagne de messages déclenchés par l’API à laquelle il correspond. L’API Event peut être déclenchée via Webhook dans Marketo Engage. En savoir plus sur notre <a href="https://developer-platform.vibes.com/reference/event-api">référence d’API d’événement</a>.</td>
   </tr>
   <tr>
     <td>Mot-clé</td>
@@ -81,7 +82,7 @@ Vous trouverez ci-dessous quelques termes courants que vous rencontrez lors de l
   </tr>
   <tr>
     <td>Enregistrement de personne</td>
-    <td>Un enregistrement de personne est un ensemble de données pour un numéro de téléphone mobile spécifique. Chaque enregistrement de personne se voit également attribuer une clé person_key unique pour identification. Les Marketo ID sont liés à Vibes à l’aide du champ external_person_id. En savoir plus sur les enregistrements de personne dans <a href="https://developer-platform.vibes.com/reference/person-api">Documentation de l’API Vibes Person</a>.</td>
+    <td>Un enregistrement de personne est un ensemble de données pour un numéro de téléphone mobile spécifique. Chaque enregistrement de personne se voit également attribuer une clé person_key unique pour identification. Les Marketo ID sont liés à Vibes à l’aide du champ external_person_id. Pour en savoir plus sur les enregistrements de personne, consultez la <a href="https://developer-platform.vibes.com/reference/person-api">documentation de l’API Vibes Person</a>.</td>
   </tr>
   <tr>
     <td>Numéro court</td>

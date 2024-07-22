@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Remplacer une image ou un fichier téléchargé {#replace-an-uploaded-image-or-file}
 
-1. Accédez au **[!UICONTROL Design Studio]**.
+1. Accédez à **[!UICONTROL Design Studio]**.
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. Sélectionnez la ressource à remplacer. Cliquez sur le bouton **[!UICONTROL Actions d’image et de fichier]** et sélectionnez **[!UICONTROL Remplacer une image ou un fichier]**.
+1. Sélectionnez la ressource à remplacer. Cliquez sur la liste déroulante **[!UICONTROL Actions image et fichier]** et sélectionnez **[!UICONTROL Remplacer l’image ou le fichier]**.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -46,4 +46,4 @@ Bon boulot !
 >[!MORELIKETHIS]
 >
 >* [Recherche d’images et de fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [Recherche de l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [Rechercher l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

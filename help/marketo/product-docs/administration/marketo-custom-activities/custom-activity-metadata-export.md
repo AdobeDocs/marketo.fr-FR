@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Suivez les étapes ci-dessous pour exporter votre schéma de métadonnées d’activité personnalisé.
 
-1. Dans Mon Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
@@ -26,7 +26,7 @@ Suivez les étapes ci-dessous pour exporter votre schéma de métadonnées d’a
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. Cliquez sur le bouton **[!UICONTROL Actions d’activité personnalisées]** et sélectionnez **[!UICONTROL Activité d’exportation]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions d’activité personnalisées]** et sélectionnez **[!UICONTROL Activité d’exportation]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

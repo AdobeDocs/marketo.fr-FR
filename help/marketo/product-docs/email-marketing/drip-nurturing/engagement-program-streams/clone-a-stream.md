@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359789
-description: Clonage d’un flux - Documents Marketo - Documentation du produit
+description: Cloner un flux - Documents Marketo - Documentation du produit
 title: Clonage d’un flux
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Cloner un flux pour diverses raisons, notamment pour tester différents ordres et différentes cadences.
 
-1. Sélectionnez votre programme d’engagement et accédez à la **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
 
    ![](assets/cloneasteam.jpg)
 
-1. Cliquez sur l’icône d’engrenage de la diffusion, puis cliquez sur **Cloner**.
+1. Cliquez sur l’icône d’engrenage de la diffusion puis sur **Cloner**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

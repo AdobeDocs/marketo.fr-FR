@@ -24,21 +24,21 @@ Indiquez des objectifs spécifiques à vos événements et vérifiez leurs perfo
 
    ![](assets/setting-event-goals-1.png)
 
-1. Choisissez la [!UICONTROL Dossier Campaign], attribuez à votre événement un [!UICONTROL Nom], sélectionnez la variable [!UICONTROL Type de programme] et [!UICONTROL Canal]. Cliquez sur **[!UICONTROL Créer]** une fois terminé.
+1. Choisissez le [!UICONTROL dossier Campaign], attribuez à votre événement un [!UICONTROL nom], sélectionnez le [!UICONTROL type de programme] et le [!UICONTROL canal]. Cliquez sur **[!UICONTROL Créer]** une fois terminé.
 
    ![](assets/setting-event-goals-2.png)
 
-1. Dans votre événement, cliquez sur le bouton **[!UICONTROL Rapports]** .
+1. Dans votre événement, cliquez sur l’onglet **[!UICONTROL Rapports]** .
 
    ![](assets/setting-event-goals-3.png)
 
-1. Saisissez l’objectif pour [!UICONTROL Inscrits] en cliquant **[!UICONTROL Définition d’un objectif]**. Saisissez le nombre dans et appuyez sur Entrée.
+1. Saisissez l’objectif pour [!UICONTROL Registered] en cliquant sur **[!UICONTROL Définir un objectif]**. Saisissez le nombre dans et appuyez sur Entrée.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. Répétez les mêmes étapes pour [!UICONTROL Attaché].
+1. Répétez les mêmes étapes pour [!UICONTROL Participé].
 
    ![](assets/setting-event-goals-6.png)
 
@@ -46,4 +46,4 @@ Indiquez des objectifs spécifiques à vos événements et vérifiez leurs perfo
 >
 >Vous ne pouvez pas définir d’objectifs pour un événement une fois qu’il a commencé.
 
-Et voilà ! Vérifiez l’état de l’objectif de l’événement en cliquant sur [!UICONTROL Rapports] .
+Et c&#39;est tout ! Vérifiez l’état de votre objectif d’événement en cliquant sur l’onglet [!UICONTROL Rapports] .

@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Pour les futures campagnes dynamiques planifiées mais pas encore exécutées, l
 
 1. La carte Détails vous donne accès aux informations sur les filtres de liste dynamique, le flux et le résumé des courriers électroniques.
 
-1. Appuyer **Liste dynamique**.
+1. Appuyez sur **Liste dynamique**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Pour les futures campagnes dynamiques planifiées mais pas encore exécutées, l
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Appuyer **Flux**.
+1. Appuyez sur **Flux**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -71,7 +71,7 @@ C&#39;est une bonne idée de jeter un oeil à un email avant qu&#39;il ne sorte.
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Appuyer [Envoyer un exemple](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Prévisualiser le message](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (cliquez sur ces liens pour plus de détails).
+1. Appuyez sur [Send Sample](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Preview Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (cliquez sur ces liens pour plus de détails).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Les cartes des campagnes intelligentes non confirmées sont grisées jusqu’à 
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Appuyer **Confirmer**.
+1. Appuyez sur **Confirmer**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Appuyer **Confirmer** pour terminer la tâche, ou **Ne vous souciez Jamais** si vous avez des doutes.
+1. Appuyez sur **Confirmer** pour terminer la tâche ou sur **Ne vous souciez jamais** si vous avez des réflexions de deuxième main.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ Vous pouvez annuler une exécution de campagne dynamique planifiée confirmée.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Appuyer **Annuler l’exécution**.
+1. Appuyez sur **Annuler l’exécution**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Appuyer **Annuler l’exécution**. Si vous décidez à la dernière minute de ne pas annuler l’exécution, appuyez sur **Ne vous souciez Jamais**, et la campagne dynamique s’exécutera comme prévu.
+1. Appuyez sur **Annuler l’exécution**. Si vous décidez à la dernière minute de ne pas annuler l’exécution, appuyez sur **Never Mind**, et la campagne dynamique s’exécutera comme prévu.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,11 +119,11 @@ Vous pouvez replanifier une campagne dynamique confirmée qui ne s’est pas enc
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Appuyer **Replanifier**.
+1. Appuyez sur **Replanifier**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Sélectionnez une date du calendrier et appuyez sur **Replanifier**.
+1. Sélectionnez une date dans le calendrier et appuyez sur **Replanifier**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -135,13 +135,13 @@ Comme pour les autres cartes Marketo Moments, vous pouvez appuyer sur les trois 
 
 * [En faire un favori](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [Marquer comme terminé](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Faites-le connaître autour de vous](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Partager](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
 >[!NOTE]
 >
->Vous pouvez également appuyer sur le bouton **Partager** sur une carte de campagne dynamique à partager, et la variable **Terminé** et **Favori** sur la carte détails.
+>Vous pouvez également appuyer sur l’icône **Partager** sur une carte de campagne dynamique à partager, ainsi que sur les icônes **Terminé** et **Favori** de la carte de détails.
 
 ## Suppression rapide d’une carte de campagne dynamique {#quickly-delete-a-smart-campaign-card}
 

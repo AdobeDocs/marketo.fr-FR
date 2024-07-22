@@ -32,5 +32,5 @@ Vous souhaitez afficher et filtrer vos campagnes selon un libellé spécifique ?
 >[!MORELIKETHIS]
 >
 >* [Étiqueter vos campagnes web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Affichage de segments à partir d’une étiquette spécifique](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Afficher des segments à partir d’un libellé spécifique](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Étiqueter vos segments](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

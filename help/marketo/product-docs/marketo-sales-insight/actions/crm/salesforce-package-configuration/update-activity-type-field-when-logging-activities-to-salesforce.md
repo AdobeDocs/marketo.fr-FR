@@ -1,11 +1,11 @@
 ---
 description: Mettre à jour le champ Type d’activité lors de la connexion des activités à Salesforce - Documents Marketo - Documentation du produit
 title: Mettre à jour le champ Type d’activité lors de la connexion des activités à Salesforce
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '420'
+ht-degree: 1%
 
 ---
 
@@ -33,24 +33,24 @@ Vérifiez d’abord les valeurs manquantes dans votre liste de sélecteur de typ
 ### Dans Salesforce Lightning {#salesforce-lightning}
 
 1. Accédez à [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Cliquez sur l’icône d’engrenage dans le coin supérieur droit, puis sélectionnez **Configuration** > **Object Manager**.
+1. Cliquez sur l’icône d’engrenage dans le coin supérieur droit et sélectionnez **Configuration** > **Gestionnaire d’objets**.
 1. Saisissez &quot;task&quot; dans la zone &quot;Recherche rapide&quot;.
-1. Dans le panneau de gauche, cliquez sur **Champs et relations**.
-1. Libellé du champ de clic **Type**.
-1. Sous Valeur de liste de sélection du type de tâche, cliquez sur **Nouveau**.
+1. Dans le panneau de gauche, cliquez sur **Fields &amp; Relationships**.
+1. Cliquez sur le libellé du champ **Type**.
+1. Sous Valeur de liste de sélection de type de tâche, cliquez sur **New**.
 1. Saisissez le nom des valeurs de liste de sélection du type de tâche manquantes (&quot;Email, &quot;Call&quot;, &quot;Reply&quot;).
 1. Cliquez sur **Enregistrer**.
 
 ### Dans Salesforce Classic {#salesforce-classic}
 
 1. Accédez à [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Cliquez sur **Configuration** > **Build** > **Personnaliser** > **Activités** > **Champs de tâche**.
+1. Cliquez sur **Configuration** > **Build** > **Customize** > **Activities** > **Task Fields**.
 1. Cliquez sur **Type**.
-1. Sous Valeur de liste de sélection du type de tâche, cliquez sur **Nouveau**.
+1. Sous Valeur de liste de sélection de type de tâche, cliquez sur **New**.
 1. Saisissez le nom des valeurs de liste de sélection du type de tâche manquantes (&quot;Email, &quot;Call&quot;, &quot;Reply&quot;).
 1. Cliquez sur **Enregistrer**.
 
-Maintenant que ce champ est en place, vous allez commencer à voir le champ Type renseigner la valeur correspondante pour les emails, les appels et les réponses consignés. Ces valeurs seront _not_ être renseigné dans les tâches de rappel Actions de statistiques sur les ventes .
+Maintenant que ce champ est en place, vous allez commencer à voir le champ Type renseigner la valeur correspondante pour les emails, les appels et les réponses consignés. Ces valeurs seront _not_ renseignées dans les tâches de rappel des actions de statistiques sur les ventes .
 
 >[!NOTE]
 >
@@ -58,6 +58,6 @@ Maintenant que ce champ est en place, vous allez commencer à voir le champ Type
 
 >[!MORELIKETHIS]
 >
->* [Connexion des attributs d’activité de vente à Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
->* [Configuration de la personnalisation des détails de l’activité Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
+>* [ Connexion des attributs d’activité de vente à Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
+>* [Configurer la personnalisation des détails de l’activité Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
 >* [Synchroniser les activités de vente avec Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

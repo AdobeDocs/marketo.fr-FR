@@ -6,16 +6,16 @@ exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : Octobre 2012 {#release-notes-october}
+# Notes de mise à jour : octobre 2012 {#release-notes-october}
 
 La version d’octobre comprend de nouvelles fonctionnalités plus intéressantes ! Les fonctions sociales sont disponibles sous la forme d’un module complémentaire ou d’un regroupement sélectionné.
 
-## Importation de programmes et échange de programmes {#import-programs-and-program-exchange}
+## Importation de programmes et Exchange de programmes {#import-programs-and-program-exchange}
 
 Un programme peut être importé d&#39;un abonnement Marketo vers un autre. Par exemple, vous pouvez créer un programme dans un environnement de test, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme prédéfini à partir de la bibliothèque de programmes Marketo.
 
@@ -47,7 +47,7 @@ Découvrez qui a partagé votre contenu et voté dans vos sondages en créant de
 
 ## Profils sociaux {#social-profiles}
 
-Vous pouvez désormais collecter des informations sur vos prospects lorsqu’ils partagent du contenu ou remplissent des formulaires à l’aide de leurs profils sociaux. Cela inclut Facebook, LinkedIn et Twitter, le nombre d’amis qu’ils ont, etc.
+Vous pouvez désormais collecter des informations sur vos prospects lorsqu’ils partagent du contenu ou remplissent des formulaires à l’aide de leurs profils sociaux. Cela inclut Facebook, LinkedIn et les gestionnaires de Twitter, le nombre d’amis qu’ils ont, etc.
 
 ## Abonnements aux rapports de l’Explorateur des recettes {#revenue-explorer-report-subscriptions}
 

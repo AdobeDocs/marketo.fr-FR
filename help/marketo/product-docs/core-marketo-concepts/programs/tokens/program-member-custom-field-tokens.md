@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Au verso des fonctionnalités Champs personnalisés des membres de programme , l
 
 Les jetons PMCF seront pris en charge sous le domaine membre de la famille de jetons.
 
-Les jetons de membre sont utilisés pour les champs appartenant au champ Program Member . À partir de l’état actuel, les jetons de membre sont également utilisés pour insérer des valeurs uniques provenant des partenaires de services intégrés. `{{member.webinar url}}` le jeton résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services. {{member.registration code}} correspond au code d’enregistrement fourni par le fournisseur de services.
+Les jetons de membre sont utilisés pour les champs appartenant au champ Program Member . À partir de l’état actuel, les jetons de membre sont également utilisés pour insérer des valeurs uniques provenant des partenaires de services intégrés. Le jeton `{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services. {{member.registration code}} correspond au code d’enregistrement fourni par le fournisseur de services.
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ Les jetons de membre sont utilisés pour les champs appartenant au champ Program
 
 Vous pouvez insérer des jetons de champs personnalisés membres du programme dans les emails, les landing pages, les SMS, les notifications push et les webhooks.
 
-**E-mails**
+**Emails**
 
-1. Sélectionnez l’adresse électronique de votre choix, puis cliquez sur **[!UICONTROL Modifier le brouillon]**.
+1. Sélectionnez l’adresse électronique souhaitée et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -53,9 +53,9 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 >
 >N&#39;oubliez pas d&#39;approuver votre email.
 
-**Pages de destination**
+**Pages d’entrée**
 
-1. Sélectionnez votre page d’entrée, puis cliquez sur **[!UICONTROL Modifier le brouillon]**.
+1. Sélectionnez votre page d’entrée et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Saisissez une valeur par défaut, puis cliquez sur **[!UICONTROL Insérer]**.
+1. Saisissez une valeur par défaut et cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -85,11 +85,11 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
 **SMS**
 
-1. Sélectionnez le SMS souhaité, puis cliquez sur **[!UICONTROL Modifier le brouillon]**.
+1. Sélectionnez le SMS souhaité et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Cliquez sur le bouton **`{{ Token`** bouton .
+1. Cliquez sur le bouton **`{{ Token`** .
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -101,9 +101,9 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
-**Notifications Push**
+**Notifications push**
 
-1. Sélectionnez la notification push souhaitée, puis cliquez sur **[!UICONTROL Modifier le brouillon]**.
+1. Sélectionnez la notification push souhaitée et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
@@ -111,7 +111,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Cliquez sur le message dans l’éditeur, puis sur le bouton `{{` pour obtenir le sélecteur de jetons.
+1. Cliquez sur le message dans l’éditeur et cliquez sur le bouton `{{` pour obtenir le sélecteur de jetons.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
@@ -119,7 +119,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Cliquez sur **[!UICONTROL Terminer]** pour enregistrer et quitter (ou **[!UICONTROL Suivant]** pour la première fois).
+1. Cliquez sur **[!UICONTROL Terminer]** pour enregistrer et quitter (ou **[!UICONTROL Suivant]** pour passer en revue en premier).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

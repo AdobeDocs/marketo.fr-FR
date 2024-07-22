@@ -6,8 +6,8 @@ exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 2%
+source-wordcount: '289'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-La page [!UICONTROL Score d’optimisation] est un classement global de la façon dont votre page est optimisée pour la recherche, sur une échelle de 1 à 100. Elle est basée sur des dizaines de bonnes pratiques d’optimisation pour les moteurs de recherche.
+La [!UICONTROL note d’optimisation] de la page est un classement général de la façon dont votre page est optimisée pour la recherche, sur une échelle de 1 à 100. Elle est basée sur des dizaines de bonnes pratiques d’optimisation pour les moteurs de recherche.
 
 * 0 à 35 = mal optimisé
 * 35 à 70 = Sur la bonne piste
@@ -25,24 +25,24 @@ La page [!UICONTROL Score d’optimisation] est un classement global de la faço
 
 >[!TIP]
 >
->Cliquez sur le bouton [!UICONTROL Impact élevé] dans le [!UICONTROL À faire] , vous serez redirigé vers la [!UICONTROL Onglet Problèmes] et vous montrer les problèmes prioritaires à résoudre.
+>Cliquez sur le lien [!UICONTROL Impact élevé] dans la zone [!UICONTROL À faire]. Vous serez redirigé vers l’onglet [!UICONTROL Problèmes] et vous verrez des problèmes prioritaires à résoudre.
 
-## [!UICONTROL Pages] Onglet {#pages-tab}
+## Onglet [!UICONTROL Pages] {#pages-tab}
 
-Le **[!UICONTROL Pages] tab** vous indique dans quelle mesure les pages individuelles de votre site sont optimisées pour la recherche.
+L’onglet **[!UICONTROL Pages]** vous indique dans quelle mesure les pages individuelles de votre site sont optimisées pour la recherche.
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
 | Nom de la colonne | Description |
 |---|---|
 | [!UICONTROL Titre] | Titre et URL de toutes les pages de votre domaine. Vérifiez votre domaine. |
-| [!UICONTROL Score d’optimisation] | La sauce secrète utilisée pour vous montrer à quel point votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
+| [!UICONTROL Score d’optimisation] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
 | [!UICONTROL Liens] | Nombre de domaines différents avec au moins 1 lien entrant vers votre site. |
-| [!UICONTROL Mots-clés de Target] | Mots-clés pour lesquels vous décidez d’optimiser chaque page. [Cela nécessite votre saisie.](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Mots-clés de la cible] | Mots-clés pour lesquels vous décidez d’optimiser chaque page. [Cela nécessite votre entrée](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## [!UICONTROL Problèmes] Onglet {#issues-tab}
+## Onglet [!UICONTROL Problèmes] {#issues-tab}
 
-Le **[!UICONTROL Problèmes] tab** identifiera les améliorations que vous pouvez apporter pour augmenter votre score et votre classement d’optimisation.
+L’onglet **[!UICONTROL Problèmes]** identifie les améliorations que vous pouvez apporter pour augmenter le score et le classement de l’optimisation.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
@@ -51,6 +51,6 @@ Le **[!UICONTROL Problèmes] tab** identifiera les améliorations que vous pouve
 | [!UICONTROL Problèmes] | Liste des éléments pouvant faire l’objet d’une action qui amélioreront votre score d’optimisation. |
 | [!UICONTROL Impact] | Comme c&#39;est critique pour votre score global. Résolvez d’abord les éléments à fort impact ! |
 | [!UICONTROL Catégorie] | Type de problème signalé. |
-| [!UICONTROL Statut] | La tâche est-elle terminée ou toujours ouverte ? Une fois que vous et votre webmaster avez résolu le problème sur votre site, l’état doit passer à résolu (vérification verte). |
+| [!UICONTROL Status] | La tâche est-elle terminée ou toujours ouverte ? Une fois que vous et votre webmaster avez résolu le problème sur votre site, l’état doit passer à résolu (vérification verte). |
 
-C&#39;est génial, maintenant que vous connaissez les principes de base des pages, découvrez le [Article détaillé de la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) pour apprendre plus de choses sympas que vous pouvez faire.
+C’est génial, maintenant que vous connaissez les principes de base des pages, consultez l’ [article détaillé sur la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) pour découvrir d’autres choses cool que vous pouvez faire.

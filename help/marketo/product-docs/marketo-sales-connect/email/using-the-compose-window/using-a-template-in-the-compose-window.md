@@ -6,7 +6,7 @@ exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Recherche et utilisation des modèles {#finding-and-using-templates}
 
-1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
+1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
 
    ![](assets/one-6.png)
 
@@ -41,21 +41,21 @@ ht-degree: 0%
 
 ## Épinglage de catégories de modèles dans la fenêtre de composition {#pinning-template-categories-in-the-compose-window}
 
-Favori **jusqu’à cinq** catégories de modèles spécifiques pour accéder rapidement à vos modèles les plus utilisés.
+Favoris **jusqu’à cinq** catégories de modèles spécifiques pour accéder rapidement à vos modèles les plus utilisés.
 
-1. Créez votre brouillon d’email (il existe plusieurs façons de le faire, dans cet exemple que nous choisissons. **Composer** dans l’en-tête ).
+1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
 
    ![](assets/one-6.png)
 
-1. Cliquez sur le bouton **+** en regard de Favoris.
+1. Cliquez sur l’icône **+** en regard de Favoris.
 
    ![](assets/pinning-two.png)
 
-1. Cliquez sur le bouton **Epinglage d’une catégorie** et sélectionnez la catégorie souhaitée.
+1. Cliquez sur la liste déroulante **Epingler une catégorie** et sélectionnez la catégorie souhaitée.
 
    ![](assets/pinning-three.png)
 
-1. Cliquez sur **Enregistrer les modifications** une fois terminé (facultatif) : répétez l’étape 3 pour en ajouter d’autres).
+1. Cliquez sur **Enregistrer les modifications** une fois terminé (facultatif : répétez l’étape 3 pour en ajouter d’autres).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ Favori **jusqu’à cinq** catégories de modèles spécifiques pour accéder ra
 
    >[!NOTE]
    >
-   >**Favoris** s’y trouve par défaut. Il contient des modèles d’email favoris, pas des catégories.
+   >**Favoris** est présent par défaut. Il contient des modèles d’email favoris, pas des catégories.
 
    La catégorie sélectionnée est maintenant épinglée.

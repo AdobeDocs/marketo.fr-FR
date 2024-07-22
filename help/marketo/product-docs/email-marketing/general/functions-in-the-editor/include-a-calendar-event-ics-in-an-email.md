@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ Un jeton Fichier de calendrier vous permet d’ajouter un lien d’événement d
 
 >[!PREREQUISITES]
 >
->[Création d’un fichier d’événement de calendrier (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>[Créer un fichier d’événement de calendrier (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. Lors de l&#39;édition de l&#39;email de votre programme, cliquez à l&#39;endroit où vous souhaitez que le jeton se trouve, puis cliquez sur le bouton Insérer un jeton .
+1. Lors de l&#39;édition de l&#39;email de votre programme, cliquez à l&#39;endroit où vous souhaitez que le jeton se rende, puis cliquez sur le bouton Insérer un jeton .
 
 ![](assets/one-6.png)
 
-1. Sélectionnez le jeton de fichier du calendrier, puis cliquez sur **Insérer**.
+1. Sélectionnez le jeton du fichier de calendrier et cliquez sur **Insérer**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 

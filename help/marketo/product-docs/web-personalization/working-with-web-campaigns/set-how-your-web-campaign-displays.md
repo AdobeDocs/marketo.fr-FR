@@ -25,21 +25,21 @@ Sélectionné par défaut, ce choix affiche simplement la campagne au chargement
 
 Spécifiez un délai (en secondes totales) pour que les campagnes web réagissent sur votre site web.
 
-1. Cliquez sur le bouton **Afficher activée** et sélectionnez **Délai**.
+1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Délai**.
 
    ![](assets/d1.png)
 
-1. Cliquez sur le bouton **Attente** et sélectionnez la durée souhaitée.
+1. Cliquez sur la liste déroulante **Attente** et sélectionnez la durée souhaitée.
 
    ![](assets/d2.png)
 
 ## Faire défiler {#scroll}
 
-1. Cliquez sur le bouton **Afficher activée** et sélectionnez **Défilement**.
+1. Cliquez sur la liste déroulante **Afficher sur** et sélectionnez **Faire défiler**.
 
    ![](assets/s1.png)
 
-1. Cliquez sur le bouton **When** et sélectionnez le moment où vous souhaitez que votre campagne web s’affiche.
+1. Cliquez sur la liste déroulante **Lorsque** et sélectionnez le moment où vous souhaitez que votre campagne web s’affiche.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Spécifiez un délai (en secondes totales) pour que les campagnes web réagissen
 
 L’intention de sortie affiche la campagne web lorsque le curseur de la souris quitte le navigateur.
 
-1. Cliquez sur le bouton **Afficher activée** et sélectionnez **Mode de sortie**.
+1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Mode de sortie**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ L’intention de sortie affiche la campagne web lorsque le curseur de la souris 
 
 >[!TIP]
 >
->Voulez-vous voir à l’avance l’aspect des effets que vous choisissez ? Consultez-les via un [Aperçu des campagnes web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Voulez-vous voir à l’avance l’aspect des effets que vous choisissez ? Consultez-les via un [aperçu de campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

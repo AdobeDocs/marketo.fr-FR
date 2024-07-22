@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Vous pouvez renommer un champ personnalisé dans Marketo, mais il y a un seul hic : vous devez supprimer toute son utilisation dans le système avant de le faire. Cela inclut les formulaires, les listes dynamiques et les campagnes dynamiques.
+>Vous pouvez renommer un champ personnalisé dans Marketo, mais il n’y a qu’un seul hic : vous devez supprimer toute son utilisation dans le système avant de le faire. Cela inclut les formulaires, les listes dynamiques et les campagnes dynamiques.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/rename-a-field-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >Cliquez sur le bouton **[!UICONTROL Utilisé par]** lien pour rechercher les ressources qui font référence à ce champ.
+   >Cliquez sur le lien **[!UICONTROL Utilisé par]** pour rechercher les ressources qui référencent ce champ.
 
 1. Renommez le champ et cliquez sur **[!UICONTROL Enregistrer]**.
 

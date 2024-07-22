@@ -5,7 +5,7 @@ exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Parfois, vous pouvez vouloir supprimer des champs dans Dynamics. Marketo Engage conserve la liste des champs en tant que référence pour la synchronisation. Si un champ est supprimé dans Dynamics pendant la synchronisation, la synchronisation peut rencontrer des erreurs. Avant de supprimer des champs, procédez comme suit.
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Administration]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-1.png)
 
@@ -28,7 +28,7 @@ Parfois, vous pouvez vouloir supprimer des champs dans Dynamics. Marketo Engage 
 
 1. Dans un nouvel onglet de votre navigateur, connectez-vous à Dynamics et supprimez les champs de votre choix.
 
-1. De retour dans Marketo, sous Microsoft Dynamics, cliquez sur **[!UICONTROL Modifier]** en regard de &quot;Etape 2 : sélectionnez Champs à synchroniser&quot;.
+1. De retour dans Marketo, sous Microsoft Dynamics, cliquez sur **[!UICONTROL Modifier]** en regard de &quot;Étape 2 : sélectionner les champs à synchroniser&quot;.
 
    ![](assets/sync-before-deleting-them-in-dynamics-4.png)
 
@@ -38,10 +38,10 @@ Parfois, vous pouvez vouloir supprimer des champs dans Dynamics. Marketo Engage 
 
 >[!CAUTION]
 >
->Cliquer **[!UICONTROL Enregistrer]** est nécessaire pour enregistrer le schéma mis à jour pour la synchronisation, même si aucune modification n’a été apportée.
+>Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer le schéma mis à jour pour la synchronisation, même si aucune modification n’a été apportée.
 
 >[!NOTE]
 >
->Si la synchronisation n’est pas arrêtée avant la suppression d’un champ dans Dynamics, la synchronisation peut rencontrer des erreurs. Si c’est le cas, la synchronisation s’arrête. Avant de reprendre, l’administrateur de Marketo doit consulter &quot;Sélectionner les champs à synchroniser&quot; (dont il est question ci-dessus) et cliquer sur **[!UICONTROL Enregistrer]** pour que la synchronisation accepte les modifications du schéma.
+>Si la synchronisation n’est pas arrêtée avant la suppression d’un champ dans Dynamics, la synchronisation peut rencontrer des erreurs. Si c’est le cas, la synchronisation s’arrête. Avant de reprendre, l’administrateur de Marketo doit passer en revue &quot;Sélectionner les champs à synchroniser&quot; (voir ci-dessus) et cliquer sur **[!UICONTROL Enregistrer]** pour que la synchronisation accepte les modifications du schéma.
 
 N’oubliez pas d’activer la synchronisation une fois les modifications enregistrées.

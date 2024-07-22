@@ -33,11 +33,11 @@ La carte d’historique de désabonnement permet aux administrateurs et aux util
   </tr> 
   <tr> 
    <td><strong>Détails</strong></td> 
-   <td><p>Resabonner : Un administrateur de Sales Connect a supprimé manuellement le désabonnement de l’enregistrement de contact. Il peut également indiquer des détails relatifs à la raison de la désinscription du contact.</p><p>Désabonner : Le contact a été désabonné.</p></td> 
+   <td><p>Resabonner : un administrateur de Sales Connect a manuellement supprimé le désabonnement de l’enregistrement de contact. Il peut également indiquer des détails relatifs à la raison de la désinscription du contact.</p><p>Désabonner : le contact a été désabonné.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Source</strong></td> 
-   <td><p>Synchronisation Salesforce : Le désabonnement a été capturé par une synchronisation avec Salesforce.</p><p>Manuel : L’utilisateur a cliqué sur le bouton Se désabonner pour se désabonner.</p><p>Lien cliqué : Le destinataire d'un email a cliqué sur le lien de désabonnement.</p><p>"Nom de l’administrateur" : Le nom d’un administrateur s’affiche lorsque l’action doit réabonner les contacts. Cela permet aux utilisateurs de savoir qui a supprimé le désabonnement.</p></td> 
+   <td><p>Synchronisation Salesforce : le désabonnement a été capturé par une synchronisation avec Salesforce.</p><p>Manuel : l’utilisateur a cliqué sur le bouton de désabonnement pour se désabonner.</p><p>Lien cliqué : le destinataire d’un email a cliqué sur le lien de désabonnement.</p><p>"Nom de l’administrateur" : le nom de l’administrateur s’affiche lorsque l’action a été effectuée pour réabonner les contacts. Cela permet aux utilisateurs de savoir qui a supprimé le désabonnement.</p></td> 
   </tr> 
  </tbody> 
 </table>

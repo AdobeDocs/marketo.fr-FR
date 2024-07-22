@@ -6,7 +6,7 @@ exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Les tableaux rapides sont des miniatures que vous personnalisez et enregistrez, 
 
 ## Création d’un graphique rapide {#create-a-new-quick-chart}
 
-Les graphiques rapides dérivent des données que vous spécifiez. Dans cet exemple, nous allons choisir : **nouvelles opportunités (première touche), type d’opportunité = nouvelle entreprise, année en cours à jour**.
+Les graphiques rapides dérivent des données que vous spécifiez. Dans cet exemple, nous allons choisir : **nouvelles opportunités (Première touche), type d’opportunité = nouvelle entreprise, année à jour**.
 
-1. Cliquez sur le filtre de date et choisissez **Current Year (YTD)**.
+1. Cliquez sur le filtre de date et sélectionnez **Current Year (YTD)**.
 
    ![](assets/1-2.png)
 
-1. Cliquez sur le bouton **+** et sélectionnez vos critères.
+1. Cliquez sur **+** et sélectionnez vos critères.
 
    ![](assets/2-2.png)
 
@@ -49,7 +49,7 @@ Votre graphique rapide est maintenant disponible avec les autres.
 
 ## Affichage des graphiques rapides existants {#view-existing-quick-charts}
 
-1. Pour afficher vos tableaux rapides existants, cliquez simplement sur le **Graphiques rapides** icône .
+1. Pour afficher vos tableaux rapides existants, cliquez simplement sur l’icône **Graphiques rapides** .
 
    ![](assets/7-1.png)
 
@@ -57,11 +57,11 @@ Votre graphique rapide est maintenant disponible avec les autres.
 
 Si vous devez supprimer un graphique rapide, procédez comme suit.
 
-1. Cliquez sur le bouton **Graphiques rapides** icône .
+1. Cliquez sur l’icône **Graphiques rapides** .
 
    ![](assets/8-1.png)
 
-1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Lorsque vous survolez, un X s’affiche. Cliquez sur le bouton **X**.
+1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Lorsque vous survolez, un X s’affiche. Cliquez sur le **X**.
 
    ![](assets/9-2.png)
 

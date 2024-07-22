@@ -19,7 +19,7 @@ Vous pouvez désactiver un programme d’engagement à l’aide d’un bouton d�
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez le programme d’engagement et cliquez sur **Configuration**.
+1. Sélectionnez le programme d&#39;engagement et cliquez sur **Configuration**.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ Vous pouvez désactiver un programme d’engagement à l’aide d’un bouton d�
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Double-cliquez **État du programme**.
+1. Double-cliquez sur **État du programme**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Sélectionner **Off** et cliquez sur **Enregistrer**.
+1. Sélectionnez **Off** et cliquez sur **Save**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

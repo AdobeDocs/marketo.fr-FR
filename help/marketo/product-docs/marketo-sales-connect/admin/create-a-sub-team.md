@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Saisissez un nom d’équipe (et une description facultative), puis cliquez sur **Créer**.
+1. Saisissez un nom d’équipe (et une description facultative) et cliquez sur **Créer**.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Ajout de personnes à votre sous-équipe {#add-people-to-your-sub-team}
 
-1. Toujours en gestion d’équipe, sélectionnez l’option **Tout le monde** groupe.
+1. Toujours dans la gestion d’équipe, sélectionnez le groupe **Tout le monde** .
 
    ![](assets/five-1.png)
 

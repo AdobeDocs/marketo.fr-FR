@@ -6,8 +6,8 @@ exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 2%
+source-wordcount: '172'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur l&#39;icône **[!UICONTROL Admin]**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/change-your-password-security-settings-1.png)
 
@@ -27,11 +27,11 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. Sous **[!UICONTROL Paramètres de protection]**, cliquez sur **[!UICONTROL Modifier]**.
+1. Sous **[!UICONTROL Paramètres de sécurité]**, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. Sélectionnez une **[!UICONTROL Modèle]**. Pour les options avancées, cliquez sur le bouton **[!UICONTROL Avancé]** menu déroulant.
+1. Sélectionnez un **[!UICONTROL Modèle]**. Pour les options avancées, cliquez sur la liste déroulante **[!UICONTROL Avancé]** .
 
    ![](assets/change-your-password-security-settings-4.png)
 
@@ -41,16 +41,16 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment.
 
    >[!TIP]
    >
-   >Dans **[!UICONTROL Personnalisé]**, cochez les cases pour indiquer les caractéristiques que les utilisateurs doivent inclure lorsqu’ils créent des mots de passe.
+   >Dans **[!UICONTROL Custom]**, cochez les cases pour indiquer les caractéristiques que vous souhaitez que les utilisateurs incluent lorsqu’ils créent des mots de passe.
 
-1. Définissez la variable **[!UICONTROL Expiration]**. Cette fonctionnalité nécessite automatiquement que les utilisateurs réinitialisent leurs mots de passe après un certain temps. Cela inclut également l’utilisateur administrateur.
+1. Définissez l’ **[!UICONTROL expiration]**. Cette fonctionnalité nécessite automatiquement que les utilisateurs réinitialisent leurs mots de passe après un certain temps. Cela inclut également l’utilisateur administrateur.
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >Les utilisateurs existants ne seront pas informés des modifications. Définir **[!UICONTROL Expiration]** sur 30 jours dans un premier temps pour vous assurer que tous les utilisateurs ont mis à jour les nouveaux paramètres, puis redéfinissez ce paramètre sur votre cadence d’origine.
+   >Les utilisateurs existants ne seront pas informés des modifications. Définissez d’abord **[!UICONTROL Expiration]** sur 30 jours pour vous assurer que tous les utilisateurs ont effectué la mise à jour vers les nouveaux paramètres, puis redéfinissez ce paramètre sur votre cadence d’origine.
 
-1. Définissez la variable **[!UICONTROL Délai d’expiration de session inactif]**. Cela détermine la durée pendant laquelle un utilisateur peut être inactif avant de devoir se reconnecter à Marketo.
+1. Définissez le **[!UICONTROL Délai d’expiration de session inactif]**. Cela détermine la durée pendant laquelle un utilisateur peut être inactif avant de devoir se reconnecter à Marketo.
 
    ![](assets/change-your-password-security-settings-6.png)

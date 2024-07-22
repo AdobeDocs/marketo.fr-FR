@@ -6,20 +6,20 @@ exl-id: 672c5db7-97e4-4fd4-bbfb-058d2f63f7a8
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # Modèle 9D {#template-9d}
 
-Cliquez avec le bouton droit de la souris sur [modèle de téléchargement 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Une section Principale
+* Une section principale
 
    * comprend une image de logo, un en-tête de héros et un sondage.
 

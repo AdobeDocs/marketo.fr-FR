@@ -17,13 +17,13 @@ Lors de l’utilisation de Marketo Sales Insight (MSI) et Marketo Sales Connect 
 
 >[!NOTE]
 >
->Cela affecte uniquement les clients qui utilisent **both** MSI et MSE, et qui souhaitent utiliser la fonctionnalité Meilleurs paris de MSI. Si vous n’avez pas besoin d’utiliser les meilleurs paris, vous pouvez ignorer.
+>Cela concerne uniquement les clients qui utilisent **à la fois** MSI et MSE, et qui souhaitent utiliser la fonctionnalité Meilleurs paris dans MSI. Si vous n’avez pas besoin d’utiliser les meilleurs paris, vous pouvez ignorer.
 
-## Premiers pas {#getting-started}
+## Prise en main {#getting-started}
 
 La solution de contournement consiste à créer de nouvelles règles de workflow pour copier les valeurs des nouveaux champs MSE dans les anciens champs MSI. Vous devez créer quatre règles de workflow pour l’objet Contact et les mêmes quatre règles de workflow pour l’objet Lead dans votre propre instance Salesforce. Pour ce faire, vous devrez peut-être disposer des droits d’administrateur CRM (en fonction de votre rôle et de votre configuration dans le CRM).
 
-Vous trouverez ci-dessous les noms recommandés des règles de workflow et la description de chacune d’elles. Ils s’appliquent à l’objet Contact et Lead :
+Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur description. Ils s’appliquent à l’objet Contact et Lead :
 
 <table> 
  <colgroup> 
@@ -33,42 +33,42 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et la de
  <tbody> 
   <tr> 
    <td>Mettre à jour le champ Desc Moment intéressant</td> 
-   <td><p>Copier depuis : Dernier engagement Marketo Desc<br>Copier vers : Dernier moment intéressant Desc</p></td> 
+   <td><p>Copier de : Dernier engagement Marketo Desc<br>Copier vers : Dernier moment intéressant Desc</p></td> 
   </tr> 
   <tr> 
    <td>Mettre à jour le champ Type de moment intéressant</td> 
-   <td><p>Copier depuis : Dernier type d’engagement Marketo<br>Copier vers : Dernier type de moment intéressant</p></td> 
+   <td><p>Copier depuis : dernier type d’engagement Marketo<br>Copier vers : dernier type de moment intéressant</p></td> 
   </tr> 
   <tr> 
-   <td>Mettre à jour le champ source du moment intéressant</td> 
-   <td><p>Copier depuis : Dernière source d’engagement Marketo<br>Copier vers : Dernière source intéressante</p></td> 
+   <td>Mettre à jour le champ Source de moment intéressant</td> 
+   <td><p>Copier de : dernier Marketo Engagement Source<br>Copier vers : dernier moment intéressant Source</p></td> 
   </tr> 
   <tr> 
    <td>Mettre à jour le champ Date du moment intéressant</td> 
-   <td><p>Copier depuis : Date de la dernière interaction Marketo<br>Copier vers : Date du dernier moment intéressant</p></td> 
+   <td><p>Copier de : Date du dernier engagement Marketo<br>Copier vers : Date du dernier moment intéressant</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instructions {#instructions}
 
-1. Après avoir cliqué sur **Configuration**, recherchez **Workflow** et sélectionnez **Règles de workflow**.
+1. Après avoir cliqué sur **Setup**, recherchez **Workflow** et sélectionnez **Workflow Rules**.
 
    ![](assets/one-1.png)
 
-1. Sélectionner **Nouvelle règle**.
+1. Sélectionnez **Nouvelle règle**.
 
    ![](assets/two-1.png)
 
-1. Cliquez sur la liste déroulante Objet et sélectionnez **prospect**, puis cliquez sur **Suivant**.
+1. Cliquez sur la liste déroulante Objet et sélectionnez **Lead**, puis cliquez sur **Next**.
 
    ![](assets/three-1.png)
 
-1. Saisissez &quot;Mettre à jour le champ Desc Moment intéressant&quot; comme nom de la règle. Sélectionner le bouton radio **créé et modifié à chaque fois**. Dans la liste déroulante Critères de règle , sélectionnez **la formule renvoie true (vrai)**. Recherchez et sélectionnez la fonction ISCHANGED. Mettez ensuite la valeur de champ par défaut en surbrillance et cliquez sur **Champ d’insertion**.
+1. Saisissez &quot;Mettre à jour le champ Desc Moment intéressant&quot; comme nom de la règle. Sélectionnez le bouton radio **créé, et chaque fois qu’il est modifié**. Dans la liste déroulante Critères de règle , sélectionnez **formule = true**. Recherchez et sélectionnez la fonction ISCHANGED. Mettez ensuite la valeur de champ par défaut en surbrillance et cliquez sur **Insérer le champ**.
 
    ![](assets/four-1.png)
 
-1. Dans la fenêtre contextuelle &quot;Insérer un champ&quot;, choisissez **Dernier engagement Marketo Desc** et cliquez sur **Insérer**.
+1. Dans la fenêtre contextuelle &quot;Insérer un champ&quot;, sélectionnez **Last Marketo Engagement Desc** et cliquez sur **Insérer**.
 
    ![](assets/five-1.png)
 
@@ -76,19 +76,19 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et la de
 
    ![](assets/6.png)
 
-1. Dans la liste déroulante Ajouter une action de processus , sélectionnez **Nouvelle mise à jour des champs**.
+1. Dans la liste déroulante Ajouter une action de workflow , sélectionnez **Nouvelle mise à jour de champ**.
 
    ![](assets/seven.png)
 
-1. Dans le champ Nom , saisissez &quot;Mettre à jour le champ Desc du moment intéressant&quot; (le nom unique est généré automatiquement). Dans la liste déroulante Champ à mettre à jour , choisissez **Dernier moment intéressant Desc**. Sélectionnez la **Utiliser une formule pour définir une nouvelle valeur** bouton radio, puis cliquez sur **Afficher l’éditeur de formules**.
+1. Dans le champ Nom , saisissez &quot;Mettre à jour le champ Desc du moment intéressant&quot; (le nom unique est généré automatiquement). Dans la liste déroulante Champ à mettre à jour , sélectionnez **Dernier moment intéressant Desc**. Sélectionnez le bouton radio **Utiliser une formule pour définir une nouvelle valeur** , puis cliquez sur **Afficher l’éditeur de formule**.
 
    ![](assets/eight.png)
 
-1. Cliquez sur le bouton **Champ d’insertion** bouton .
+1. Cliquez sur le bouton **Insérer un champ** .
 
    ![](assets/9a.png)
 
-1. Sélectionner **Dernier engagement Marketo Desc**, puis cliquez sur **Insérer**. Sur la page suivante, cliquez sur **Enregistrer**.
+1. Sélectionnez **Last Marketo Engagement Desc**, puis cliquez sur **Insérer**. Sur la page suivante, cliquez sur **Enregistrer**.
 
    ![](assets/nine.png)
 

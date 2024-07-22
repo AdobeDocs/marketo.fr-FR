@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meilleurs paris sur Salesforce1 {#best-bets-in-salesforce}
 
-Votre [Meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sont vos prospects et contacts avec la plus grande urgence et le meilleur score relatif. Seules les pistes que vous détenez sont visibles dans cette liste et la liste est mise à jour à mesure que les scores changent.
+Vos [meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sont vos pistes et contacts avec la plus grande urgence et le meilleur score relatif. Seules les pistes que vous détenez sont visibles dans cette liste et la liste est mise à jour à mesure que les scores changent.
 
 1. Accédez à la zone Marketo dans l’application Salesforce.
 
@@ -24,4 +24,4 @@ Votre [Meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for
 >[!MORELIKETHIS]
 >
 >* [Moments intéressants dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Envoyer le courrier électronique Marketo et Campaign et les actions de liste de contrôle dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Envoyer un courrier électronique Marketo et des actions Campaign et Watchlist à Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

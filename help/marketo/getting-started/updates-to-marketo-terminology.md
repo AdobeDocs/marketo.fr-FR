@@ -71,15 +71,15 @@ Dans certains cas, le mot &quot;plomb&quot; est simplement supprimé.
  </tbody> 
 </table>
 
-Responsable et personne **sont identiques**.
+&quot;Lead&quot; et &quot;personne&quot; **sont la même chose**.
 
 ## Jetons {#tokens}
 
-Jetons contenant le mot plomb **ne changent pas**. Nous vous excusons pour toute confusion ; toutefois, modifier tous les jetons pour qu’ils correspondent à la nouvelle terminologie romprait un grand nombre de jetons actuellement utilisés. Vous verrez donc toujours des jetons tels que &quot;`{{lead.First Name}}`.&quot; Il n’existe aucun jeton spécifique à une personne.
+Les jetons contenant le mot &quot;lead&quot; **ne changent pas**. Nous vous excusons pour toute confusion ; toutefois, modifier tous les jetons pour qu’ils correspondent à la nouvelle terminologie romprait un grand nombre de jetons actuellement utilisés. Vous verrez donc toujours des jetons tels que &quot;`{{lead.First Name}}`&quot;. Il n’existe aucun jeton spécifique à une personne.
 
 >[!NOTE]
 >
->Il y a *is* un jeton appelé &quot;Notes de personne&quot;, mais ce jeton était toujours présent. Il est généralement utilisé pour un champ de description dans votre gestion de la relation client (CRM), le cas échéant.
+>*contient un jeton appelé &quot;Person Notes&quot;, mais ce jeton était toujours présent.* Il est généralement utilisé pour un champ de description dans votre gestion de la relation client (CRM), le cas échéant.
 
 ## Gestion des champs {#field-management}
 
@@ -110,9 +110,9 @@ Les champs qui contenaient le terme &quot;piste&quot; ont été remplacés par &
 
 >[!NOTE]
 >
->Pour obtenir la liste complète des noms de champ concernés, veuillez consulter cette [Article de prise en charge](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>Pour obtenir la liste complète des noms de champ concernés, consultez cet [article de support](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## La personnalisation en temps réel (RTP) est désormais la personnalisation web {#real-time-personalization-rtp-is-now-web-personalization}
+## La Personalization en temps réel (RTP) est désormais Personalization web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,10 +139,10 @@ Les champs qui contenaient le terme &quot;piste&quot; ont été remplacés par &
 
 Outre le changement de nom, il se compose désormais de quatre applications distinctes :
 
-| **[Personnalisation web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Comporte une mosaïque sur l’écran d’accueil |
+| **[Personalization Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Comporte une mosaïque sur l’écran d’accueil |
 |---|---|
-| **[Marketing web basé sur un compte](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Accessible via la mosaïque Personnalisation web |
-| **[Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Accessible via la mosaïque Personnalisation web |
+| **[Marketing Web basé sur un compte](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Accessible via la mosaïque Personalization web |
+| **[Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Accessible via la mosaïque Personalization web |
 | **[Contenu prédictif](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Comporte une mosaïque sur l’écran d’accueil |
 
 >[!NOTE]

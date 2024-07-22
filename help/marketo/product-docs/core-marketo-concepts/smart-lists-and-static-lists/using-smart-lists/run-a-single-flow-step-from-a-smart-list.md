@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Si vous souhaitez exécuter une étape de flux unique, vous pouvez utiliser une 
 
 >[!PREREQUISITES]
 >
->[Création d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez une liste ou une liste dynamique contenant des personnes, puis accédez à la **[!UICONTROL Personnes]** .
+1. Sélectionnez une liste ou une liste dynamique contenant des personnes, puis accédez à l’onglet **[!UICONTROL Personnes]** .
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,27 +31,27 @@ Si vous souhaitez exécuter une étape de flux unique, vous pouvez utiliser une 
    >
    >Les listes statiques et les listes dynamiques disposent de cette fonctionnalité.
 
-1. Cliquez sur **[!UICONTROL Tout sélectionner]**. Vous pouvez également utiliser **Ctrl/Cmd** et cliquez sur pour sélectionner quelques enregistrements manuellement.
+1. Cliquez sur **[!UICONTROL Sélectionner tout]**. Vous pouvez également utiliser **Ctrl/Cmd** et cliquer pour sélectionner quelques enregistrements manuellement.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Si les résultats s’étendent sur plusieurs pages, cliquez sur **[!UICONTROL Tout sélectionner]** sélectionne toutes les personnes sur toutes les pages.
+   >Si les résultats s’étendent sur plusieurs pages, cliquez sur **[!UICONTROL Sélectionner tout]** pour sélectionner toutes les personnes sur toutes les pages.
 
 1. Sous **[!UICONTROL Actions de personne]**, sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/personactions-hands.png)
 
-1. Recherchez et sélectionnez un **[!UICONTROL Attribut]**. Dans cet exemple, nous prendrons toutes les personnes qui ont un état &quot;Californie&quot; et le remplacerons par &quot;CA&quot;.
+1. Recherchez et sélectionnez un **[!UICONTROL attribut]**. Dans cet exemple, nous prendrons toutes les personnes qui ont un état &quot;Californie&quot; et le remplacerons par &quot;CA&quot;.
 
    ![](assets/runaction-hands.png)
 
-1. Entrer une nouvelle valeur. Cliquez sur **[!UICONTROL Exécuter maintenant]**.
+1. Saisissez une nouvelle valeur. Cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Si vous modifiez les valeurs des données d’un grand nombre de personnes, vous devrez peut-être confirmer la modification en saisissant le nombre. Cliquez sur **[!UICONTROL Allez-y]**.
+1. Si vous modifiez les valeurs des données d’un grand nombre de personnes, vous devrez peut-être confirmer la modification en saisissant le nombre. Cliquez Sur **[!UICONTROL Aller Pour Ça]**.
 
    ![](assets/changedatavalue.jpg)
 

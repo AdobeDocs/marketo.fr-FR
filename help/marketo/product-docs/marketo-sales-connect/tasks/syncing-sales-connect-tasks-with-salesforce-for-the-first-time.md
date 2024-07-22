@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Synchronisation des tâches Sales Connect avec Salesforce pour la première fois {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Lorsque vous activez la synchronisation pour la première fois entre les tâches Sales Connect et Salesforce, nous importons vos tâches Salesforce. Nous allons **not** Passez en revue toutes les tâches en cours dans Sales Connect à Salesforce. Pour réduire l’encombrement et les doublons, les seules tâches synchronisées de Sales Connect dans Salesforce sont les tâches créées. *after* Vous synchronisez Sales Connect avec SFDC.
+Lorsque vous activez la synchronisation pour la première fois entre les tâches Sales Connect et Salesforce, nous importons vos tâches Salesforce. Nous **n’allons pas** passer en revue toutes les tâches en cours dans Sales Connect to Salesforce. Pour réduire l’encombrement et les doublons, les seules tâches synchronisées de Sales Connect dans Salesforce sont les tâches créées *après* avoir synchronisé Sales Connect avec SFDC.
 
 Voici ce qui se passe lorsque vous synchronisez les tâches Sales Connect et SFDC :
 
@@ -27,4 +27,4 @@ Voici ce qui se passe lorsque vous synchronisez les tâches Sales Connect et SFD
 
 Après la synchronisation initiale, toutes les tâches que vous créez, modifiez, terminez ou supprimez dans Sales Connect se synchroniseront avec votre liste de tâches dans Salesforce. Et tout élément créé, modifié, terminé ou supprimé dans Salesforce mettra à jour votre liste de tâches dans Sales Connect.
 
-Pour activer cette synchronisation, cochez simplement la case de synchronisation dans votre [Page Paramètres](https://toutapp.com/login) dans l’application web.
+Pour activer cette synchronisation, cochez simplement la case de synchronisation dans la [page Paramètres](https://toutapp.com/login) de l’application web.

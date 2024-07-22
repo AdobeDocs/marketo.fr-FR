@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Création d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Création d’une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Ajouter un nouveau formulaire à une page d’entrée de formulaire libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Créer une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Ajouter un nouveau formulaire à une page d’entrée de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 L’utilisation de contenu dynamique dans les landing pages engage les personnes avec des informations ciblées.
 
@@ -49,11 +49,11 @@ L’utilisation de contenu dynamique dans les landing pages engage les personnes
 
 ## Rendre l’élément dynamique {#make-element-dynamic}
 
-1. Effectuez un glisser-déposer d’éléments Statique vers **Dynamique**.
+1. Faites glisser et déposez des éléments de Statique vers **Dynamic**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Vous pouvez également rendre les éléments statiques ou dynamiques à partir de l’élément . **Paramètres**.
+1. Vous pouvez également créer des éléments statiques ou dynamiques à partir de l’élément **Settings**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 

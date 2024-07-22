@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359868
-description: Chargement d’images et de fichiers à partir d’une boîte de dialogue - Documents Marketo - Documentation du produit
+description: Chargement d’images et de fichiers à partir d’une zone - Documents Marketo - Documentation du produit
 title: Chargement d’images et de fichiers d’une zone
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
@@ -19,11 +19,11 @@ Vous pouvez télécharger des fichiers depuis la boîte de dialogue à utiliser 
 
    ![](assets/designstudio-3.png)
 
-1. Accédez à **Images et fichiers**. Cliquez sur **Actions de fichier** et sélectionnez **Capture d&#39;images à partir du web**.
+1. Accédez à **Images et fichiers**. Cliquez sur **Actions de fichier** et sélectionnez **Grab Images from Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Cliquez sur **Zone**.
+1. Cliquez sur **Box**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -35,7 +35,7 @@ Vous pouvez télécharger des fichiers depuis la boîte de dialogue à utiliser 
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Sélectionnez l’emplacement où vous souhaitez enregistrer les fichiers. Sélectionnez ensuite le **Zone** à partir duquel vous souhaitez effectuer le téléchargement. Cliquez sur **Suivant**.
+1. Sélectionnez l’emplacement où vous souhaitez enregistrer les fichiers. Sélectionnez ensuite le dossier **Box** à partir duquel vous souhaitez effectuer le téléchargement. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 

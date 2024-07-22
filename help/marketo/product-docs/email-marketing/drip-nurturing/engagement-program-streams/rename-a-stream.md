@@ -23,7 +23,7 @@ Si vous souhaitez rester organisé, vous pouvez renommer vos diffusions. Voici c
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Entrer dans le nouveau flux **Nom** et cliquez sur **Enregistrer**.
+1. Saisissez le nouveau flux **Name** et cliquez sur **Save**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
