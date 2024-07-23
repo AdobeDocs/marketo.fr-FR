@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Environnement de test Marketo - Documents Marketo - Documentation du produit
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ Un environnement de test Marketo ne peut pas être synchronisé avec votre syst�
 
 ## Informations à connaître sur les environnements de test {#things-to-know-about-sandboxes}
 
-* Une fois que l’équipe du compte Adobe a configuré votre environnement de test et vous a envoyé l’invitation, vous devez utiliser une adresse électronique différente de celle de votre instance de production Marketo pour vous connecter.
 * Si vous souhaitez ajouter des utilisateurs, le processus est identique à [l’ajout d’utilisateurs en production](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Là encore, ils doivent utiliser une autre adresse électronique s’ils disposent déjà d’une connexion Marketo.
 * Votre environnement de test Marketo va commencer vide, mais dispose des mêmes fonctionnalités que votre instance de production.
 * Si vous créez un programme dans votre environnement de test et souhaitez le déplacer en production, vous pouvez effectuer un [import de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
