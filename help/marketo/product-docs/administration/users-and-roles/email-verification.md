@@ -3,9 +3,9 @@ description: Vérification des courriers électroniques - Documents Marketo - Do
 title: Vérification des emails
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Lorsqu’un administrateur invite un utilisateur, celui-ci est automatiquement v
 
 >[!IMPORTANT]
 >
->L’exception à cette règle est : _dans un abonnement SSO uniquement_, les administrateurs recevront une nouvelle invitation d’utilisateur, mais pas les utilisateurs non-administrateurs. Les utilisateurs qui ne sont pas administrateurs doivent toujours passer par le processus de vérification des emails pour garantir la migration de leurs enregistrements. Les utilisateurs peuvent envoyer eux-mêmes le lien de vérification par e-mail en accédant à **Admin** > **Mon compte** > **Paramètres du compte** et en cliquant sur **Renvoyer la vérification**.
+>L’exception à cette règle est : _dans un abonnement SSO uniquement_, les administrateurs recevront une nouvelle invitation d’utilisateur, mais pas les utilisateurs non-administrateurs. Les utilisateurs qui ne sont pas administrateurs doivent toujours passer par le processus de vérification des emails pour garantir la migration de leurs enregistrements. Les utilisateurs peuvent envoyer eux-mêmes le lien de vérification par e-mail en cliquant sur l’icône de leur profil, en accédant à **Mon compte** > **Paramètres du compte** et en cliquant sur **Renvoyer la vérification**.
 
 ![](assets/email-verification-1.png)
 
