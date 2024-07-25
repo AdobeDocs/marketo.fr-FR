@@ -4,7 +4,7 @@ description: Courriel marqué comme indésirable - Documents Marketo - Documenta
 title: Email marqué comme indésirable
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c9816c35187e333d9631ddfe76fea298db09da5
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -18,7 +18,7 @@ En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de 
 **Vérifiez vos paramètres**
 
 * Suivi des domaines personnalisés : permet d’afficher tous les liens de suivi en cours.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
-* Canal de diffusion email : par défaut, vos emails sont envoyés via les serveurs ToutApp. En configurant votre propre message Gmail ou SMTP personnalisé, vous pouvez offrir à vos emails la meilleure opportunité d’accéder à la boîte de réception d’un destinataire. [Cliquez ici](https://nation.marketo.com/docs/DOC-5080) pour en savoir plus sur la sélection du canal de diffusion approprié à vos besoins.
+* Canal de diffusion email : par défaut, vos emails sont envoyés via les serveurs ToutApp. En configurant votre propre message Gmail ou SMTP personnalisé, vous pouvez offrir à vos emails la meilleure opportunité d’accéder à la boîte de réception d’un destinataire. [Cliquez ici](https://nation.marketo.com/docs/DOC-5080){target="_blank"} pour en savoir plus sur la sélection du canal de diffusion approprié à vos besoins.
 
 **Vérifiez vos comportements de messagerie**
 
@@ -28,4 +28,4 @@ En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de 
 
 * Assurez-vous d’avoir une signature d’email complète avec une adresse physique.
 
-* Lisez et assurez-vous de respecter les [lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Lisez et assurez-vous de respecter les [lois CAN-SPAM](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business){target="_blank"}.
