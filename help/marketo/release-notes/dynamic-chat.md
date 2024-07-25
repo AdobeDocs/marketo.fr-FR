@@ -1,24 +1,24 @@
 ---
-description: Notes de mise à jour du Dynamic Chat - Documents Marketo - Documentation du produit
-title: Notes de mise à jour de Dynamic Chat
+description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
+title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
 source-wordcount: '1472'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Notes de mise à jour de Dynamic Chat {#dynamic-chat-release}
+# Notes de mise à jour de Dynamic Chat {#dynamic-chat-release}
 
 Les versions de Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive du déploiement des fonctionnalités. Parfois, il existe plusieurs versions en un mois. Par conséquent, veuillez consulter régulièrement les informations les plus récentes.
 
 La page des notes de mise à jour standard du Marketo Engage [ se trouve ici ](/help/marketo/release-notes/current.md){target="_blank"}.
 
-## Version de juin 2024 {#june-release}
+## Version de juin 2024 {#june-release}
 
-**Date de publication : 6 juin 2024**
+**Date de publication : vendredi 6 juin 2024**
 
 ### Carte de flux de conversation {#conversational-flow-card}
 
@@ -36,9 +36,9 @@ La page Limites d’utilisation affiche des informations importantes, telles que
 
 ![](assets/dynamic-chat-june-2024-release-2.png)
 
-## Version de mai 2024 {#may-release}
+## Version de mai 2024 {#may-release}
 
-**Date de publication : 15 mai 2024**
+**Date de mise à jour : jeudi 15 mai 2024**
 
 ### Bibliothèque de réponses prévalidée {#pre-approved-response-library}
 
@@ -74,9 +74,9 @@ Déplacez les visiteurs web par un appel à l’action pour mener les conversati
 
 <p>
 
-## Version d’avril 2024 {#april-release}
+## Version d’avril 2024 {#april-release}
 
-**Date de publication : 23 avril 2024**
+**Date de publication : mercredi 23 avril 2024**
 
 ### Flux de conversation désormais disponibles pour tous les utilisateurs {#conversational-flows-available-to-all-users}
 
@@ -175,9 +175,9 @@ Quand nous avons lancé Dynamic Chat en 2022, il n&#39;y avait pas de prise en c
 
 ![](assets/dynamic-chat-release-9.png)
 
-## Version de février 2024 {#february-release}
+## Version de février 2024 {#february-release}
 
-**Date de publication : 22 février 2024**
+**Date de mise à jour : vendredi 22 février 2024**
 
 ### Page Conversations {#conversations-page}
 
@@ -193,9 +193,9 @@ Vous avez demandé et nous avons livré. Vous pouvez désormais afficher les don
 
 L’embranchement conditionnel vous permet de créer des branches dans vos flux de dialogue en fonction de différentes conditions. Vous pouvez désormais présenter un contenu différent à différentes personnes dans le même dialogue en fonction des attributs de prospect et de société dans Marketo Engage.
 
-## Version de janvier 2024 {#january-release}
+## Version de janvier 2024 {#january-release}
 
-**Date de publication : 24 janvier 2024**
+**Date de publication : jeudi 24 janvier 2024**
 
 ### Limite concomitante de clics en direct dans la gestion des agents {#Concurrent-live-chat-limit-setting}
 

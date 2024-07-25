@@ -1,17 +1,17 @@
 ---
-description: Glossaire du Marketo Engage - Documents Marketo - Documentation du produit
-short-description: Découvrez les termes du Marketo Engage et leurs définitions pour vous aider à vous familiariser rapidement.
-title: Glossaire du Marketo Engage
+description: Glossaire Marketo Engage - Documents Marketo - Documentation du produit
+short-description: Découvrez les termes de Marketo Engage et leurs définitions pour vous aider à vous familiariser rapidement avec les concepts.
+title: Glossaire Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '4098'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Glossaire du Marketo Engage {#marketo-engage-glossary}
+# Glossaire Marketo Engage {#marketo-engage-glossary}
 
 Vous trouverez ci-dessous des définitions de la plupart des termes que vous pouvez rencontrer lors de l’utilisation de Marketo Engage. Pour demander l&#39;ajout d&#39;un terme, [envoyez-nous un email](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
@@ -210,7 +210,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong> La gestion de la relation client (GRC)</strong></p> 
+     <p><strong> Gestion de la relation client (CRM)</strong></p> 
     </div></td> 
    <td colspan="1">Système qui permet aux entreprises de gérer les informations relatives à leurs clients/clients potentiels. Marketo permet uniquement l’intégration native avec deux CRM : <strong>Salesforce</strong> et <strong>Microsoft Dynamics</strong>.</td> 
   </tr> 
@@ -244,7 +244,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td colspan="1">Type de programme dans Marketo. Un programme générique que vous utiliserez lorsqu’un email, un événement ou un programme d’engagement n’est pas pertinent. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Délivrabilité</strong></td> 
+   <td colspan="1"><strong>Stratégie et définition de la </strong></td> 
    <td colspan="1">La capacité d'un email à atteindre la boîte de réception du destinataire prévu, qui peut être affectée par les filtres <strong>spam</strong> et côté client. Différent de "Délivrés", qui indique uniquement que l'email a été transmis au serveur destinataire.</td> 
   </tr> 
   <tr> 
@@ -593,7 +593,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td>Lorsqu’une personne donne son autorisation pour commencer à recevoir des emails marketing.</td> 
   </tr> 
   <tr> 
-   <td><strong>Exclusion</strong></td> 
+   <td><strong>Désinscription (opt-out)</strong></td> 
    <td>(voir <a href="#u"><strong>unsubscribe</strong></a>)</td> 
   </tr> 
  </tbody> 
@@ -623,7 +623,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td colspan="1">Anciennement connue sous le nom de Marketo Performance Insights (MPI). Fonctionnalité d’analyse complémentaire qui utilise divers outils pour vous aider à découvrir des tendances et à identifier des stratégies gagnantes cohérentes.</td> 
   </tr> 
   <tr> 
-   <td><strong>Individu</strong></td> 
+   <td><strong>Personne</strong></td> 
    <td>Une personne de votre <strong>base de données</strong> Marketo avec laquelle vous interagissez par le biais de campagnes marketing.</td> 
   </tr> 
   <tr> 
@@ -631,7 +631,7 @@ Vous trouverez ci-dessous des définitions de la plupart des termes que vous pou
    <td colspan="1">Les partitions de personne agissent comme des <strong>bases de données</strong> distinctes. Chaque partition a sa propre population qui ne déduplique pas ou ne mélange pas avec d'autres partitions.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Personne</strong></a></td> 
    <td colspan="1">Dans Marketo <strong>Gestion de compte Target</strong>, les personnages sont un sous-ensemble d’une audience, ce qui permet un ciblage plus spécifique.</td> 
   </tr> 
   <tr> 

@@ -1,19 +1,19 @@
 ---
-description: Avant de vous plonger dans votre nouvelle instance de Marketo Engage, vous devez suivre quelques étapes fondamentales pour une utilisation continue. Ces étapes incluent la configuration du compte utilisateur, la configuration de l’administrateur et l’abonnement aux mises à jour système en cours.
-short-description: Après avoir terminé les étapes de configuration initiales, apprenez à établir des éléments fondamentaux pour garantir une utilisation continue fluide.
+description: Avant de vous lancer dans la création de votre nouvelle instance Marketo Engage, suivez ces quelques étapes fondamentales qui assureront la continuité de votre utilisation. Ces étapes incluent la configuration du compte d’utilisation, la configuration de l’administration de support et l’abonnement aux mises à jour du système en cours.
+short-description: Après avoir terminé les étapes de configuration initiales, vous apprendrez à définir les éléments fondamentaux qui assureront la fluidité et la continuité de votre utilisation.
 title: Liste de contrôle de configuration de l’utilisateur
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Liste de contrôle de configuration de l’utilisateur {#user-setup-checklist}
 
-Maintenant que vous avez terminé toutes les [étapes de configuration initiales](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, il est temps d’établir quelques éléments fondamentaux pour garantir une utilisation continue fluide. Cela préparera le terrain pour votre parcours avec Marketo Engage et vous aidera à tirer le meilleur parti de ses fonctionnalités. Commençons !
+Maintenant que vous avez terminé toutes les [étapes de configuration initiales](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, il est temps d’établir quelques éléments fondamentaux pour garantir une utilisation continue fluide. Cela préparera le terrain pour votre parcours avec Marketo Engage et vous aidera à tirer le meilleur parti de ses fonctionnalités. C’est parti !
 
 >[!NOTE]
 >

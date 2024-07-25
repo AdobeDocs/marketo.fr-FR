@@ -1,5 +1,5 @@
 ---
-description: Notes de mise à jour actuelles - Documentation de Marketo - Documentation du produit
+description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
