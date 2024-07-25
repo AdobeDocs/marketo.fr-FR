@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1742'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Affichez l’engagement pour les types de sessions suivants dans un webinaire in
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/engagement-dashboard-1.png)
 
 1. Sélectionnez l’événement souhaité.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/engagement-dashboard-2.png)
 
 1. Dans l’aperçu, cliquez sur **[!UICONTROL Afficher le tableau de bord de l’engagement]**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ Vous pouvez afficher les détails suivants dans le tableau de bord de l’engage
 
 Cette interface fournit une vue consolidée des performances de l’événement pour les sessions en direct et à la demande. Dans le panneau de gauche, sélectionnez Résumé de l’événement pour afficher les mesures globales.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ Fournit un aperçu des performances d’un événement de la session en direct. 
 
 Dans le panneau de gauche, sélectionnez **[!UICONTROL Engagement]** pour afficher les performances de la session en direct. **[!UICONTROL Cliquez sur Synthèse de l’engagement (PDF)]** pour télécharger le résumé des performances de la session en direct. La présentation fournit des données dans différentes sections.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-5.png)
 
 **Mesures clés**
 
 Affichez le nombre d’inscriptions, de participants et d’engagements dans la session en direct.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ CAPTURE D’ÉCRAN
 
 Découvrez l’engagement moyen au fil du temps au cours de la session en direct à partir des graphiques d’engagement. Les hôtes peuvent surveiller la fluctuation des niveaux d’engagement, ce qui leur permet d’identifier les moments critiques d’une interaction élevée ou faible. Voir la quantité de note d’engagement moyenne obtenue par les participants engagés dans différentes dispositions.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-7.png)
 
 Pointez sur le graphique pour afficher les informations suivantes :
 
@@ -161,7 +161,7 @@ Pointez sur le graphique pour afficher les informations suivantes :
 
 Vous pouvez afficher les interactions des participants à partir de différentes capsules. Il fournit des informations telles que Réponses aux questions, Interagir avec le chat, A cliqué sur au moins un lien et Téléchargé au moins un fichier.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-8.png)
 
 Sélectionnez **[!UICONTROL Aller aux interactions]** pour afficher les réponses issues des sondages, des mesures de Q&amp;R et des réactions des participants au cours de la session. Découvrez comment les participants sont engagés dans plusieurs capsules à partir d’ Interactions et téléchargez des rapports d’interaction à partir de la section ci-dessous.
 
@@ -171,7 +171,7 @@ Affichez la manière dont les participants interagissent et participent à la se
 
 Dans le panneau de gauche, sélectionnez **[!UICONTROL Interactions]** pour afficher la façon dont les participants sont engagés dans toutes les capsules.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-9.png)
 
 Sélectionnez l’onglet **[!UICONTROL Sondages]** de la barre de menus pour afficher les questions et réponses ajoutées au sondage. Cet onglet affiche les informations suivantes :
 
@@ -182,7 +182,7 @@ Sélectionnez l’onglet **[!UICONTROL Sondages]** de la barre de menus pour aff
 
 Sélectionnez l’onglet **[!UICONTROL Autres interactions]** dans la barre de menus pour afficher l’engagement dans d’autres capsules et télécharger leurs rapports.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-10.png)
 
 Sélectionnez **[!UICONTROL Télécharger les rapports d’interaction]** dans la liste déroulante pour télécharger les rapports de différentes capsules. Téléchargez le rapport Q&amp;R, le rapport Liens et fichiers et le rapport Réactions à partir de là pour un meilleur suivi.
 
@@ -192,7 +192,7 @@ Les informations sur l’engagement dans les capsules sont disponibles dans diff
 
 Affichez les attributs suivants de la capsule Q&amp;R.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-11.png)
 
 * Nombre total de questions posées.
 * Nombre de questions sans réponse.
@@ -204,7 +204,7 @@ CAPTURE D’ÉCRAN
 
 Vous pouvez voir les réactions des participants d&#39;ici, comme s&#39;accorder, désapprouver, applaudir et rire pendant la session.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-12.png)
 
 Sur le graphique des réactions, vous pouvez voir les détails suivants :
 
@@ -218,7 +218,7 @@ Sur le graphique des réactions, vous pouvez voir les détails suivants :
 
 Afficher les liens ajoutés à la capsule de liens Web au cours de la session et le nombre de clics sur le lien partagé. La capsule de liens Web vous permet d’ajouter des liens à partir de sources en dehors du webinaire pour générer un engagement.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-13.png)
 
 Sur le graphique, affichez les détails suivants :
 
@@ -231,7 +231,7 @@ Sur le graphique, affichez les détails suivants :
 
 Affichez les fichiers ajoutés à la capsule de fichiers au cours de la session et le nombre de téléchargements uniques. La capsule Fichiers vous permet d’ajouter des fichiers et de fournir des ressources pour générer l’engagement.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-14.png)
 
 Sur le graphique, affichez les détails suivants :
 
@@ -243,7 +243,7 @@ Sur le graphique, affichez les détails suivants :
 
 Dans le panneau de gauche, sélectionnez **[!UICONTROL Activité à la demande]** pour afficher la synthèse des enregistrements. Vous pouvez également télécharger un rapport pour l’activité à la demande.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-15.png)
 
 Dans l’activité à la demande, consultez les mesures suivantes :
 
@@ -258,7 +258,7 @@ Dans l’activité à la demande, consultez les mesures suivantes :
 
 Dans le panneau de gauche, sélectionnez **[!UICONTROL Activité de participant]** pour afficher des informations consolidées sur le niveau d&#39;engagement de chaque participant. Découvrez comment cet engagement est classé en niveaux par niveau d’engagement des participants. Cliquez sur **[!UICONTROL Rapport d’activité utilisateur (CSV)]** pour télécharger le rapport afin d’en améliorer le suivi.
 
-CAPTURE D’ÉCRAN
+![](assets/engagement-dashboard-16.png)
 
 Affichez les détails suivants du tableau :
 
@@ -277,7 +277,7 @@ Téléchargez des rapports pour différentes activités et capsules à partir d�
 
 1. Sélectionnez **[!UICONTROL Télécharger tout (.zip)]** pour télécharger simultanément des rapports pour toutes les activités et capsules.
 
-CAPTURE D’ÉCRAN
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >
