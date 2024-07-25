@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,17 @@ Vous pouvez personnaliser les options suivantes :
 
 ## Personnalisation des écrans de webinaire interactif {#customize-interactive-webinar-screens}
 
-1. Cliquez sur **Design Studio**.
+1. Accédez à **Design Studio**.
+
+   ![](assets/interactive-webinars-customization-1.png)
 
 1. Cliquez sur **Webinaires interactifs** et sélectionnez **Personnaliser les webinaires**.
 
-1. Personnalisez l’interface de la salle, les écrans directs ou les arrière-plans vidéo virtuels dans la barre de menus.
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Vous pouvez personnaliser l’interface de la salle, les écrans directs ou les arrière-plans vidéo virtuels.
+
+   ![](assets/interactive-webinars-customization-3.png)
 
 ### Personnalisation de l’interface de la chambre {#customize-the-room-interface}
 
@@ -41,27 +47,25 @@ Pour personnaliser l’aspect d’une pièce, sélectionnez l’onglet Interface
 
 1. Dans le panneau de droite, personnalisez les préférences suivantes :
 
-CAPTURE D’ÉCRAN
+   ![](assets/interactive-webinars-customization-4.png)
 
-**Logo personnalisé** : sélectionnez Télécharger le logo et parcourez l’image à partir de votre appareil. La taille de l’image ne doit pas excéder 50 x 31 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer votre logo.
+   **Logo personnalisé** : sélectionnez Télécharger le logo et parcourez l’image à partir de votre appareil. La taille de l’image ne doit pas excéder 50 x 31 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer votre logo.
 
-**Lien de redirection** : ajoutez une URL pour rediriger vos participants après avoir cliqué sur le logo.
+   **Lien de redirection** : ajoutez une URL pour rediriger vos participants après avoir cliqué sur le logo.
 
-**Texte de remplacement** : ajoutez un texte de remplacement pour les participants à l’aide des fonctions d’accessibilité.
+   **Texte de remplacement** : ajoutez un texte de remplacement pour les participants à l’aide des fonctions d’accessibilité.
 
-**Couleurs** : sélectionnez des couleurs pour la barre de la salle, les icônes de la salle, l’arrière-plan de la salle, la barre de la capsule et les mosaïques/icônes de la capsule pour modifier la couleur de différentes sections.
+   **Couleurs** : sélectionnez des couleurs pour la barre de la salle, les icônes de la salle, l’arrière-plan de la salle, la barre de la capsule et les mosaïques/icônes de la capsule pour modifier la couleur de différentes sections.
 
-Vous pouvez également saisir le code couleur HEX à l’aide de l’option HEX .
+   Vous pouvez également saisir le code couleur HEX à l’aide de l’option HEX .
 
-Sélectionnez **[!UICONTROL Afficher les modèles]** pour modifier le thème de la salle.
+   Sélectionnez **[!UICONTROL Afficher les modèles]** pour modifier le thème de la salle.
 
-Après avoir apporté les modifications, vous pouvez vérifier le logo et les couleurs dans l’aperçu.
+   Après avoir apporté les modifications, vous pouvez vérifier le logo et les couleurs dans l’aperçu.
 
-1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications.
+1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
 
->[!NOTE]
->
->Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
+   ![](assets/interactive-webinars-customization-5.png)
 
 ### Personnalisation des écrans intermédiaires {#customize-intermediate-screens}
 
@@ -71,19 +75,13 @@ Pour personnaliser l’aspect d’une pièce, sélectionnez l’onglet Écrans i
 
 1. Dans le panneau de droite, personnalisez l’image d’arrière-plan en sélectionnant **Télécharger l’image** et recherchez un logo. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer le logo, le cas échéant.
 
-Après avoir apporté les modifications, affichez l’arrière-plan dans Aperçu.
+   ![](assets/interactive-webinars-customization-6.png)
 
-CAPTURE D’ÉCRAN
+   >[!NOTE]
+   >
+   >L’image téléchargée est appliquée dans les écrans Entrée, Sortie et En attente.
 
->[!NOTE]
->
->L’image téléchargée est appliquée dans les écrans Entrée, Sortie et En attente.
-
-1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications.
-
->[!NOTE]
->
->Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
+1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
 
 ### Personnalisation des arrière-plans vidéo virtuels {#Customize-virtual-video-backgrounds}
 
@@ -91,11 +89,11 @@ Utilisez les arrière-plans définis par l’organisation au cours de vos évén
 
 **Arrière-plans personnalisés**
 
-Utilisez le bouton d’activation/désactivation pour activer les arrière-plans personnalisés dans vos événements et salles.
+1. Cliquez sur le bouton bascule pour activer les arrière-plans personnalisés dans vos événements et salles.
+
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Sélectionnez **Télécharger l’arrière-plan** pour charger un arrière-plan personnalisé. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png.
-
-CAPTURE D’ÉCRAN
 
 Passez la souris sur l’image d’arrière-plan personnalisée pour la supprimer des arrière-plans vidéo.
 
@@ -103,11 +101,7 @@ Après avoir apporté les modifications, affichez l’arrière-plan dans Aperçu
 
 Vous pouvez utiliser le curseur de l’écran Aperçu pour effectuer un zoom avant ou arrière afin de tester l’arrière-plan virtuel si l’utilisateur était proche ou éloigné de l’appareil photo. S’il y a du texte en arrière-plan, cela permet de s’assurer qu’il reste visible.
 
-1. Sélectionnez **Apply** pour enregistrer les modifications.
-
->[!NOTE]
->
->Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
+1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
 
 **Arrière-plans Adobe Connect**
 
@@ -115,6 +109,6 @@ Adobe Connect fournit neuf arrière-plans par défaut prêts à l’emploi. Vous
 
 Utilisez le bouton d’activation/désactivation pour contrôler la disponibilité de ces arrière-plans par défaut dans vos événements et salles.
 
-CAPTURE D’ÉCRAN
+![](assets/interactive-webinars-customization-8.png)
 
 Sélectionnez **Apply** pour enregistrer les modifications ou **Reset to default** pour réinitialiser les paramètres par défaut.
