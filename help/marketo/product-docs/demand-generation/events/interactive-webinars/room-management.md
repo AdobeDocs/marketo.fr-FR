@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
+source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Pour afficher la liste de toutes vos chambres, sélectionnez **[!UICONTROL Chamb
 </tbody>
 </table>
 
-CAPTURE D’ÉCRAN
+![](assets/room-management-3.png)
 
 Vous pouvez effectuer les actions suivantes à partir de cette interface centralisée :
 
@@ -82,7 +82,7 @@ L&#39;onglet Contenu permet de visualiser les fichiers chargés, leur type, leur
 </tbody>
 </table>
 
-CAPTURE D’ÉCRAN
+![](assets/room-management-4.png)
 
 Vous pouvez effectuer les actions suivantes dans l’onglet Contenu :
 
@@ -96,14 +96,14 @@ Vous pouvez effectuer les actions suivantes dans l’onglet Contenu :
 
 L&#39;onglet Enregistrements permet de visualiser tous les enregistrements disponibles dans cette salle. Chaque enregistrement s’affiche avec des détails tels que sa taille, sa date et son heure, ainsi que sa durée.
 
-CAPTURE D’ÉCRAN
+![](assets/room-management-5.png)
 
 Vous pouvez effectuer les actions suivantes à partir de ce hub centralisé :
 
 * Cliquez sur le bouton **[!UICONTROL Lancer la salle]** pour lancer et entrer dans la pièce.
 * Utilisez la barre de recherche pour trouver l’enregistrement que vous recherchez.
 * Cliquez sur l’icône Télécharger le fichier pour télécharger un fichier sur votre périphérique. Sélectionnez plusieurs fichiers à télécharger en bloc.
-* Cliquez sur l’icône Copier l’enregistrement pour copier l’URL d’enregistrement.
+* Cliquez sur l&#39;icône Copier le lien d&#39;enregistrement pour copier l&#39;URL d&#39;enregistrement.
 * Cliquez sur l’icône Modifier l’enregistrement pour apporter des modifications à votre enregistrement.
 * Cliquez sur l’icône Supprimer pour supprimer l’enregistrement. Lorsqu’un enregistrement est supprimé, il ne peut pas être récupéré.
 * Sélectionnez un enregistrement pour le lire sur l’appareil.
@@ -112,18 +112,17 @@ Vous pouvez effectuer les actions suivantes à partir de ce hub centralisé :
 
 Les enregistrements sont des ressources inestimables qui capturent l’essence des discussions en direct, des présentations et des séances de questions-réponses. Ils permettent aux participants de revoir à leur propre rythme les principales informations, les détails manqués ou les concepts complexes.
 
-Cliquez sur l’onglet **Enregistrements** pour afficher la liste de tous les enregistrements que vous avez téléchargés.
+Cliquez sur l’onglet **[!UICONTROL Enregistrements]** pour afficher la liste de tous les enregistrements que vous avez téléchargés.
 
-Sous Mon enregistrement, vous trouverez tous les enregistrements disponibles dans la pièce que vous avez créée. Vous pouvez également afficher leur taille, date et heure respectives, ainsi que la durée des enregistrements.
+Sous **[!UICONTROL Mes enregistrements]**, vous pouvez trouver tous les enregistrements disponibles dans la salle que vous avez créée. Vous pouvez également afficher leur taille, date et heure respectives, ainsi que la durée des enregistrements.
 
-CAPTURE D’ÉCRAN
+![](assets/room-management-6.png)
 
 Vous pouvez effectuer les actions suivantes à partir de ce hub centralisé :
 
 * Utilisez la barre de recherche pour trouver l’enregistrement que vous recherchez. Vous pouvez également effectuer des recherches dans une chronologie en sélectionnant une plage de dates.
-* Sélectionner le lien Copier l’enregistrement   pour copier l’URL d’enregistrement.
-* Modifiez l’enregistrement. (ajouter un lien pour éditer l&#39;enregistrement sur le mot &quot;edit&quot;)
-* Sélectionnez Modifier l’enregistrement pour apporter des modifications à votre enregistrement. (ajouter un lien pour éditer l&#39;enregistrement sur le mot &quot;edit&quot;)
-* Sélectionner Afficher la page liée   pour afficher les informations sur la pièce où l’enregistrement sélectionné est disponible.
-* Utilisez Supprimer la pièce pour supprimer l’enregistrement. Une fois un enregistrement supprimé, il ne peut plus être récupéré.
+* Cliquez sur l&#39;icône Copier le lien d&#39;enregistrement pour copier l&#39;URL d&#39;enregistrement.
+* Cliquez sur l’icône Modifier l’enregistrement pour apporter des modifications à votre enregistrement.
+* Cliquez sur l&#39;icône Afficher la page liée pour afficher les informations sur la pièce où l&#39;enregistrement sélectionné est disponible.
+* Cliquez sur l’icône Supprimer pour supprimer l’enregistrement. Lorsqu’un enregistrement est supprimé, il ne peut pas être récupéré.
 * Sélectionnez un enregistrement pour le lire sur l’appareil.
