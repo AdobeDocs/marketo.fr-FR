@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 6%
+source-wordcount: '523'
+ht-degree: 7%
 
 ---
 
@@ -76,6 +76,16 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 ## Annonces {#announcements}
 
 * **Nouveau site de documentation pour les développeurs** : dans le cadre de nos efforts continus pour améliorer l’expérience utilisateur des Marketo Engage, nous migrerons toute la documentation pour les développeurs vers Adobe Experience League et le site web Adobe Developer en juillet 2024. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **Abandon des fonctions sociales** : le mercredi 31 juillet 2024, Marketo Engage commencera à abandonner les fonctions sociales suivantes dans le produit :
+
+   * Sondages
+   * Réseaux sociaux
+   * Offre de parrainage
+   * Partage de vidéos
+   * Loteries
+
+Les utilisateurs ne pourront plus créer, cloner ou incorporer l’une de ces fonctions Social dans Marketo Engage. Les ressources sociales existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Jeton d’accès dans l’obsolescence des paramètres de requête** : la prise en charge de l’authentification à l’aide de jetons d’accès dans un paramètre de requête d’un appel de l’API REST Marketo Engage sera supprimée dans une version ultérieure (date spécifique à déterminer). Les intégrations existantes doivent migrer vers l’utilisation de l’en-tête d’autorisation [décrite ici](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Le nouveau développement ne doit utiliser que l’en-tête d’autorisation pour l’authentification avec Marketo Engage.
 
