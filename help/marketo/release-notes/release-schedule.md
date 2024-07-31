@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472490
 description: Calendrier des versions - Documents Marketo - Documentation sur le produit
-title: Calendrier des versions
+title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: aa04752e471a6bc5fbb78f1e5cdfae199e3134be
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '126'
+ht-degree: 15%
 
 ---
 
-# Calendrier des versions {#release-schedule}
+# Calendrier de publication {#release-schedule}
 
 **Version** : mois/année de chaque version. Une fois disponibles, les notes de mise à jour seront liées dans le tableau ci-dessous.
 
@@ -39,7 +39,7 @@ _Les dates/fonctionnalités de publication peuvent être modifiées_
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-mar-24.md">24 mars</a></td>
-   <td>8 mars 2024</td>
+   <td>samedi 8 mars 2024</td>
    <td>Expédié</td>
   </tr>
   <tr> 
@@ -50,12 +50,12 @@ _Les dates/fonctionnalités de publication peuvent être modifiées_
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">24 juin</a></td>
    <td>7 juin 2024</td>
-   <td>En cours</td>
+   <td>Expédié</td>
   </tr>
   <tr> 
    <td>24 juillet</td>
    <td>26 juillet 2024</td>
-   <td>À la planification</td>
+   <td>En cours</td>
   </tr>
   <tr> 
    <td>24 octobre</td>

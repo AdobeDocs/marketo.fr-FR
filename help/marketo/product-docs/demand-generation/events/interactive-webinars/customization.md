@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,43 @@ Vous pouvez personnaliser les options suivantes :
 * Logo
 * Arrière-plans vidéo virtuels
 
+## Octroi d’autorisations {#grant-permissions}
+
+Avant que des utilisateurs de votre entreprise puissent personnaliser vos webinaires interactifs, un administrateur de Marketo Engage doit d’abord ajouter l’accès au ou aux rôles souhaités.
+
+1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**, puis sur l’onglet **[!UICONTROL Rôles]**.
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Double-cliquez sur le rôle auquel vous souhaitez ajouter les autorisations.
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. Cliquez pour ouvrir **[!UICONTROL Access Design Studio]**.
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. Cochez la case **[!UICONTROL Accéder à la personnalisation des webinaires interactifs]** .
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## Personnalisation des écrans de webinaire interactif {#customize-interactive-webinar-screens}
 
 1. Accédez à **Design Studio**.
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. Cliquez sur **Webinaires interactifs** et sélectionnez **Personnaliser les webinaires**.
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Vous pouvez personnaliser l’interface de la salle, les écrans directs ou les arrière-plans vidéo virtuels.
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### Personnalisation de l’interface de la chambre {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ Pour personnaliser l’aspect d’une pièce, sélectionnez l’onglet Interface
 
 1. Dans le panneau de droite, personnalisez les préférences suivantes :
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **Logo personnalisé** : sélectionnez Télécharger le logo et parcourez l’image à partir de votre appareil. La taille de l’image ne doit pas excéder 50 x 31 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer votre logo.
 
@@ -65,7 +89,7 @@ Pour personnaliser l’aspect d’une pièce, sélectionnez l’onglet Interface
 
 1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### Personnalisation des écrans intermédiaires {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ Pour personnaliser l’aspect d’une pièce, sélectionnez l’onglet Écrans i
 
 1. Dans le panneau de droite, personnalisez l’image d’arrière-plan en sélectionnant **Télécharger l’image** et recherchez un logo. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer le logo, le cas échéant.
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ Utilisez les arrière-plans définis par l’organisation au cours de vos évén
 
 1. Cliquez sur le bouton bascule pour activer les arrière-plans personnalisés dans vos événements et salles.
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. Sélectionnez **Télécharger l’arrière-plan** pour charger un arrière-plan personnalisé. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png.
 
@@ -109,6 +133,6 @@ Adobe Connect fournit neuf arrière-plans par défaut prêts à l’emploi. Vous
 
 Utilisez le bouton d’activation/désactivation pour contrôler la disponibilité de ces arrière-plans par défaut dans vos événements et salles.
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 Sélectionnez **Apply** pour enregistrer les modifications ou **Reset to default** pour réinitialiser les paramètres par défaut.
