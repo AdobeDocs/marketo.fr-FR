@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 7%
+source-wordcount: '521'
+ht-degree: 6%
 
 ---
 
@@ -33,8 +33,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
      <tr> 
    <td><strong>Tableau de bord de l’engagement pour les webinaires interactifs</strong> : obtenez une vue agrégée des performances des webinaires ainsi qu’une vue complète de l’engagement pour chaque participant au cours du webinaire afin que vous puissiez déterminer les pistes à cibler par le biais d’outils d’orchestration de Marketo Engage.</td> 
-    <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+    <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Tableau de bord des engagements</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
      <tr> 
    <td><strong>Gestion de salle pour les webinaires interactifs</strong> : accédez aux salles individuelles créées (et apportez des modifications si nécessaire), accédez au contenu et à l’enregistrement (et effacez-les si nécessaire pour optimiser le stockage).</td> 
-    <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+    <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gestion des salles</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
      <tr> 
    <td><strong>Personnalisation de webinaires pour les webinaires interactifs</strong> : offrez une expérience de marque approuvée par l’organisation de manière uniforme grâce à l’utilisation d’une interface de salle commune, d’écrans intermédiaires (tels que les arrière-plans d’accès aux participants), ainsi que d’arrière-plans vidéo personnalisés, afin que la stratégie des webinaires s’aligne plus facilement sur la stratégie de la marque.</td> 
-    <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+    <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personnalisation des webinaires interactifs</a></td>
   </tr>
   <tr> 
    <td> </td> 

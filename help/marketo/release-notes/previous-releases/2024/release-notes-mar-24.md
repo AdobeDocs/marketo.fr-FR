@@ -1,12 +1,12 @@
 ---
 description: Notes de mise à jour - Mars 2024 - Documents Marketo - Documentation du produit
-title: Notes de mise à jour - Mars 2024
+title: Notes de mise à jour - Mars 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 2%
+source-wordcount: '350'
+ht-degree: 4%
 
 ---
 
@@ -53,8 +53,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
     <tr> 
    <td><strong>Métadonnées d’activité de l’API</strong> : 
    Des métadonnées telles que Agent utilisateur, Plateforme et Appareil sont désormais incluses dans les activités web et de courrier électronique, ce qui permet d’obtenir des informations homogènes sur ces activités via l’API REST Marketo.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
  </tbody> 
 </table>
