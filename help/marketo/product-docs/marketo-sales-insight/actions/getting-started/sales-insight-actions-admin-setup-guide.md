@@ -3,7 +3,7 @@ description: Guide de configuration des actions Sales Insight - Documents Market
 title: Guide de configuration des actions Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via le [package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
+>Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le [ package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 <table>
  <tr>
-  <th>Persona</th>
+  <th>Personne</th>
   <th>Étape</th>
  </tr>
  <tr>

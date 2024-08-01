@@ -3,7 +3,7 @@ description: Limites d’utilisation du produit - Documents Marketo - Documentat
 title: Limites d’utilisation des produits
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 15%
@@ -16,10 +16,10 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions est une application web qui s’intègre à l’interface utilisateur de Salesforce via le [package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
+>Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le [ package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
 
 <table>
-  <th>Fonctionnalité</th>
+  <th>Fonction</th>
   <th>Taux</th>
   <th>Limite</th>
  <tr>
@@ -30,7 +30,7 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
  <tr>
   <td>Courriers électroniques de vente envoyés</td>
   <td>par utilisateur/par jour</td>
-  <td>1 000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Courrier électronique de vente en bloc</td>
@@ -79,7 +79,7 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
  </tr>
   <td>Appels</td>
   <td>par utilisateur/par mois (partagé sur l’instance)</td>
-  <td>50 minutes</td>
+  <td>50 minutes</td>
  </tr>
  <tr>
   <td>Enregistrements d’appels</td>
