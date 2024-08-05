@@ -4,9 +4,9 @@ description: Publish a Referer Offre - Documents Marketo - Documentation du prod
 title: Publish d’une offre de référent
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '165'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Après avoir [créé une offre de référence](/help/marketo/product-docs/demand
 
 >[!IMPORTANT]
 >
->Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Il n’est plus possible de créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Accédez à votre page d’entrée et ouvrez-la pour modification.
 
