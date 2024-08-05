@@ -4,9 +4,9 @@ description: Bouton Personnaliser l’application Social - Documents Marketo - D
 title: Bouton Personnaliser l’application sociale
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Bouton Personnaliser l’application sociale {#customize-social-app-button}
 
 Lorsque vous créez un [bouton social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) ou une [offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez personnaliser l’aspect des boutons.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Accédez à **Activités marketing**.
 

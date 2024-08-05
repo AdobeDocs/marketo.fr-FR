@@ -4,16 +4,20 @@ description: Création d’une offre de référence - Documents Marketo - Docume
 title: Création d’une offre de référent
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # Création d’une offre de référent {#create-a-referral-offer}
 
 Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Créer des objectifs et des récompenses pour les parrainages réussis. Vous pouvez le déposer sur les landing pages, sur votre site web et même sur Facebook.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -35,7 +39,7 @@ Les offres de parrainage incitent les gens à se rapprocher de leurs amis. Crée
    >
    >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’une offre de référence existante.
 
-   L&#39;éditeur d&#39;offres de parrainage s&#39;ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont bons, mais vous devez ajouter un lien aux règles de votre offre (conditions générales). Le lien apparaît au bas des écrans de partage de messages. Nous vous montrerons comment procéder à l’étape suivante.
+   L&#39;éditeur d&#39;offres de parrainage s&#39;ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont bons, mais vous devez ajouter un lien aux règles de votre offre (conditions générales). Le lien apparaît au bas des écrans de partage de messages. Nous vous montrerons comment procéder à l&#39;étape suivante.
 
 1. Cliquez sur **Options avancées**.
 

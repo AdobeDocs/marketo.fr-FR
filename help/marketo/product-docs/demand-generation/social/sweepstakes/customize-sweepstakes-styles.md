@@ -3,16 +3,20 @@ unique-page-id: 2359807
 description: Personnalisation des styles de tirage - Documents Marketo - Documentation du produit
 title: Personnalisation des styles de tirage
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
 # Personnalisation des styles de tirage {#customize-sweepstakes-styles}
 
 Lorsque vous [créez un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez personnaliser son aspect sur votre page d’entrée.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

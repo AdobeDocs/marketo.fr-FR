@@ -4,16 +4,20 @@ description: Ajout d’un bouton Social sur une page d’entrée - Documents Mar
 title: Ajout d’un bouton Social sur une page d’entrée
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # Ajout d’un bouton Social sur une page d’entrée {#add-a-social-button-on-a-landing-page}
 
 Un bouton social encourage les gens à partager votre contenu avec leurs amis. Déposez-le sur les landing pages, Facebook et votre site web.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

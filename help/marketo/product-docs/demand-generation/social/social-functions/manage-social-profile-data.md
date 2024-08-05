@@ -4,9 +4,9 @@ description: Gérer les données de profil social - Documents Marketo - Document
 title: Gestion des données de profil Social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '339'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 5%
 # Gestion des données de profil Social {#manage-social-profile-data}
 
 Lorsqu’une personne interagit avec une [application sociale](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) de Marketo ou autorise son réseau social à préremplir un formulaire Marketo avec le [remplissage de formulaire social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo capture toutes les données disponibles à partir de son profil social. Vous pouvez afficher ces informations sur la [page Détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) ou les ajouter en tant que colonne dans une [ vue personnalisée d’une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Le remplissage de formulaires sociaux et les applications sociales capturent des ensembles de champs légèrement différents ; reportez-vous à la section pour chacun des champs ci-dessous.
 
@@ -47,7 +51,7 @@ Selon les paramètres de confidentialité du réseau et de l’utilisateur, un o
 * Nom
 * URL du profil
 * URL de la photo de profil
-* Sexe
+* Genre
 * Portée sociale (nombre d’amis)
 
 ### Capturé via le remplissage de formulaire Social {#captured-via-social-form-fill}

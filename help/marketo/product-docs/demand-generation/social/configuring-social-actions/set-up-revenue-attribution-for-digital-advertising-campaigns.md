@@ -4,9 +4,9 @@ description: Configuration de l’attribution des recettes pour les campagnes Di
 title: Configuration de l’attribution des recettes pour les campagnes Digital Advertising
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configuration de l’attribution des recettes pour les campagnes Digital Advertising {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 Voici comment configurer l’attribution des recettes pour les canaux et campagnes publicitaires numériques. Une fois que vous l’avez configuré, vous pouvez effectuer l’attribution des recettes Première touche et multipoint pour les publicités numériques de la même manière que dans d’autres programmes Marketo.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Après avoir configuré votre premier programme publicitaire dans Marketo, vous pouvez le cloner et le mettre à jour pour d’autres canaux. Par exemple, clonez un programme LinkedIn à un programme Facebook.
 

@@ -4,9 +4,9 @@ description: Configuration du partage de nouveau courrier électronique et de l�
 title: Configuration de la fonction de repartage de courrier électronique et d’invitation pour une application Social
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configuration de la fonction de repartage de courrier électronique et d’invitation pour une application Social {#configure-re-share-email-and-prompt-for-a-social-app}
 
 Lorsque vous créez une [offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou un [tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez inviter les participants à partager votre offre avec d’autres amis dans le cadre du processus d’inscription et fournir le texte par défaut pour le message de partage.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >

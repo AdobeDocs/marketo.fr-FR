@@ -3,16 +3,20 @@ unique-page-id: 2359795
 description: Créer des tirages - Documents Marketo - Documentation du produit
 title: Créer des loteries
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 1%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
 # Créer des loteries {#create-sweepstakes}
 
 Un tirage donne aux gens la possibilité de gagner un prix en échange de leur avoir parlé de vous à leurs amis. Vous pouvez le déposer sur les landing pages, sur votre site web et même sur Facebook.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -34,7 +38,7 @@ Un tirage donne aux gens la possibilité de gagner un prix en échange de leur a
    >
    >Pour gagner du temps, vous pouvez utiliser l’option **Cloner à partir de** pour copier tous les paramètres d’un tirage existant.
 
-   L’éditeur de tirage s’ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont corrects, mais vous devez tout de même configurer quelques détails. Nous vous montrerons comment procéder dans les étapes suivantes.
+   L’éditeur de tirage s’ouvre dans une nouvelle fenêtre. Les paramètres par défaut sont corrects, mais vous devez tout de même configurer quelques détails. Nous vous montrerons comment dans les prochaines étapes.
 
 1. Cliquez sur **Détails des tirages**.
 

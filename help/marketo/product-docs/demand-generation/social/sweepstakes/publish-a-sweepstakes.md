@@ -3,16 +3,20 @@ unique-page-id: 2359799
 description: Publish a Sweepstakes - Marketo Docs - Documentation du produit
 title: 'Publish : tirage'
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Publish : tirage {#publish-a-sweepstakes}
 
 Après avoir [créé un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), vous pouvez le publier sur vos pages d’entrée Marketo, sur votre site web et sur votre Facebook.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

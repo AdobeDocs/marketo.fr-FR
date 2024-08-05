@@ -4,16 +4,20 @@ description: Script de conversion pour les événements personnalisés - Documen
 title: Script de conversion pour les événements personnalisés
 exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 1%
 
 ---
 
 # Script de conversion pour les événements personnalisés {#conversion-script-for-custom-events}
 
 Vous définissez l’objectif d’exécution lors de la création d’une offre de parrainage. Si l’action qui compte pour l’objectif est un événement spécifique sur votre propre page web, vous pouvez utiliser un script de conversion pour appeler notre API JavaScript.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Récupération du script de conversion {#retrieve-the-conversion-script}
 

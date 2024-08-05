@@ -4,9 +4,9 @@ description: Configuration du flux de progression du suivi pour une offre de ré
 title: Configuration du flux de progression du suivi pour une offre de référent
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configuration du flux de progression du suivi pour une offre de référent {#configure-track-progress-flow-for-a-referral-offer}
 
 Lorsque vous [créez une offre de parrainage](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous pouvez configurer les invites qui montrent aux participants leur progression vers la récompense.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Accédez à **Activités marketing**.
 

@@ -3,16 +3,20 @@ unique-page-id: 2359805
 description: Sélectionnez Tirage - Documents Marketo - Documentation du produit
 title: Sélection des gagnants de tirage
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 1%
 
 ---
 
 # Sélection des gagnants de tirage {#select-sweepstakes-winners}
 
 Lorsque vous [publiez un tirage](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), vous devez sélectionner les gagnants pour chaque tirage. Lorsque vous le faites, votre [email d&#39;exécution](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) leur est automatiquement envoyé.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

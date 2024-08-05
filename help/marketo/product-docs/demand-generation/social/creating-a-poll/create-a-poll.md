@@ -4,9 +4,9 @@ description: Créer un sondage - Documents Marketo - Documentation du produit
 title: Création d’un sondage
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Création d’un sondage {#create-a-poll}
 
 Interagir avec les gens avec un sondage dans lequel ils peuvent voter et partager avec leurs amis sur les réseaux sociaux. Vous pouvez l’ajouter à des endroits tels que vos landing pages, votre site web et Facebook.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

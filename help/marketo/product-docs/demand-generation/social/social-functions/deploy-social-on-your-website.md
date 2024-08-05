@@ -4,9 +4,9 @@ description: Déploiement de Social sur votre site web - Documents Marketo - Doc
 title: Déploiement de Social sur votre site web
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Incorporez les applications sociales à vos pages autres que Marketo.
 
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->Pour plus d’informations, contactez votre représentant commercial.
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
 
 Vous pouvez déployer des applications sociales sur votre propre site web afin d’impliquer votre audience et de faire participer tout le monde à la conversation générale sur les réseaux sociaux. À mesure que les visiteurs partagent vos promotions et vos contenus avec leurs amis sur les réseaux sociaux, vous générez plus de trafic sur votre site.
 

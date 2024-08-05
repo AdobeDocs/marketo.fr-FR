@@ -4,16 +4,20 @@ description: Personnalisation du flux de partage vidéo - Documents Marketo - Do
 title: Personnalisation du flux de partage vidéo
 exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 1%
 
 ---
 
 # Personnalisation du flux de partage vidéo {#customize-video-share-flow}
 
 Lorsque vous [créez un partage vidéo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), vous pouvez personnaliser quand et où l’invite de partage s’affiche.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Accédez à **Activités marketing**.
 

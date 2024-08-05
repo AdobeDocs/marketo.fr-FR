@@ -4,16 +4,20 @@ description: Déclencheurs et filtres pour les activités sociales - Documents M
 title: Déclencheurs et filtres pour les activités sociales
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 23%
+source-wordcount: '193'
+ht-degree: 21%
 
 ---
 
 # Déclencheurs et filtres pour les activités sociales {#triggers-and-filters-for-social-activities}
 
 Dans Marketo, les applications sociales disposent de leurs propres déclencheurs et filtres spéciaux.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

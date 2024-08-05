@@ -4,9 +4,9 @@ description: Envoyer un courrier électronique d’exécution d’offre de réf�
 title: Envoyer un courrier électronique d’exécution d’offre de référent
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Envoyer un courrier électronique d’exécution d’offre de référent {#send-referral-offer-fulfillment-email}
 
 Récompensez vos clients avec des coupons et des codes de réduction à l&#39;aide de l&#39;email d&#39;exécution de l&#39;offre.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

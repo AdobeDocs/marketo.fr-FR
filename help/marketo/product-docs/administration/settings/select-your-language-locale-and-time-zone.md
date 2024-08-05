@@ -4,7 +4,7 @@ description: Sélectionnez votre langue, langue et fuseau horaire - Documents Ma
 title: Sélectionner votre langue, langue et fuseau horaire
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 5%
@@ -17,7 +17,7 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement à ceux qui n’utilisent _pas_ [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si vous le faites, les paramètres décrits ci-dessous sont accessibles dans votre [profil de compte d’Adobe](https://account.adobe.com/profile).
+>Cet article est destiné uniquement à ceux qui n’utilisent _pas_ [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si vous le faites, les paramètres décrits ci-dessous sont accessibles dans votre [profil de compte d’Adobe](https://account.adobe.com/profile){target="_blank"}.
 
 ## Langues prises en charge {#supported-languages}
 
@@ -25,7 +25,7 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 * Français
 * Allemand
 * Japonais
-* portugais
+* brésilien
 * Espagnol
 
 ## Modification de la langue, de la langue et du fuseau horaire de l’utilisateur {#change-user-language-locale-and-time-zone}

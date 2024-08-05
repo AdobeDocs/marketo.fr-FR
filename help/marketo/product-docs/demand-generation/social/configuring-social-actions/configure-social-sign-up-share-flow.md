@@ -4,16 +4,20 @@ description: Configuration de l’inscription à Social/du partage de flux - Doc
 title: Configuration du flux d’inscription/de partage sur les réseaux sociaux
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 0%
+source-wordcount: '508'
+ht-degree: 1%
 
 ---
 
 # Configuration du flux d’inscription/de partage sur les réseaux sociaux {#configure-social-sign-up-share-flow}
 
 Lorsque vous créez une application sociale, vous pouvez configurer les choix de réseau social et les invites qu’un utilisateur rencontre lorsqu’il s’inscrit.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Sélectionner des réseaux à partager {#select-networks-for-sharing}
 
@@ -75,7 +79,7 @@ Lorsque vous créez une application sociale, vous pouvez configurer les choix de
 
 1. Cliquez sur **Suivant**.
 
-Si vous choisissez les valeurs des balises de la page (og:title, og:caption et og:description) et que la miniature est automatiquement ajoutée aux publications Facebook. Voir l’étape suivante.
+Si vous choisissez les valeurs des balises de la page (og:title, og:caption et og:description), la miniature est automatiquement ajoutée aux publications Facebook. Voir l’étape suivante.
 
 ## Configuration du message de Twitter {#configure-the-twitter-message}
 

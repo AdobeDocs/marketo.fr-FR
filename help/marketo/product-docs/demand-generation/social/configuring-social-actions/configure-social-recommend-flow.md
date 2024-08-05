@@ -4,16 +4,20 @@ description: Configuration du flux recommandé par Social - Documents Marketo - 
 title: Configuration du flux recommandé par Social
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 0%
+source-wordcount: '542'
+ht-degree: 1%
 
 ---
 
 # Configuration du flux recommandé par Social {#configure-social-recommend-flow}
 
 Lorsque vous créez une application sociale, vous pouvez configurer les choix de réseau social et les invites qu’un utilisateur rencontre lorsqu’il s’inscrit.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Sélectionner des réseaux à partager {#select-networks-for-sharing}
 

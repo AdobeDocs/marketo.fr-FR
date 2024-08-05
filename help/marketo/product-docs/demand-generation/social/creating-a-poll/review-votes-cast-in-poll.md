@@ -4,16 +4,20 @@ description: Examiner le nombre de votes dans le sondage - Documents Marketo - D
 title: Révision du vote dans le sondage
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 2%
+source-wordcount: '100'
+ht-degree: 4%
 
 ---
 
 # Révision du vote dans le sondage {#review-votes-cast-in-poll}
 
 Qui a voté pour quoi dans votre sondage ? Allons le découvrir.
+
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Dans **Activités marketing**, sélectionnez le sondage, puis cliquez sur l’onglet **Participants** .
 

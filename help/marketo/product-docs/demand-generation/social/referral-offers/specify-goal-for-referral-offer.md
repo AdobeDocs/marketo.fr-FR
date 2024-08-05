@@ -4,9 +4,9 @@ description: Définition de l’objectif pour l’offre de référent - Document
 title: Définition de l’objectif pour l’offre de référent
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,11 @@ ht-degree: 0%
 
 Lorsque vous [créez une offre de référence](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), vous devez définir l’objectif d’exécution. L’objectif peut être défini par l’activité de la personne sur la page web, comme les visites ou les inscriptions. Vous pouvez même utiliser un [événement JavaScript personnalisé](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Vous pouvez également utiliser un déclencheur de liste dynamique dans Marketo pour attendre tout jalon, comme une opportunité créée pour la personne référencée.
+>[!IMPORTANT]
+>
+>Le 31 juillet 2024, nous avons commencé à abandonner cette fonctionnalité. Vous ne pourrez pas créer de nouvelles ressources. Les ressources existantes continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
+Vous pouvez également utiliser un déclencheur de liste dynamique dans Marketo Engage pour attendre tout jalon, par exemple une opportunité créée pour la personne référencée.
 
 Exemples d’objectifs :
 
