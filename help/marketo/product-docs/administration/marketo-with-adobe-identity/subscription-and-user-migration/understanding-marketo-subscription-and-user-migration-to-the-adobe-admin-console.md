@@ -3,9 +3,9 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
 workflow-type: tm+mt
-source-wordcount: '1379'
+source-wordcount: '1440'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ Dans le cadre de la migration, votre gestion des abonnements et des utilisateurs
 * **Les administrateurs de produit gèrent les utilisateurs et leur accès sur Adobe Admin Console**. Ajoutez et supprimez des utilisateurs pour tous vos abonnements Adobe. Adobe Admin Console ne prend pas en charge l’expiration de l’accès basée sur l’utilisateur. Les utilisateurs disposant d’un accès Marketo Engage dont l’expiration est planifiée après la migration seront toujours migrés et un accès non expirant leur sera accordé. Après la migration, ils doivent être supprimés manuellement à la date d’expiration souhaitée (ou avant).
 
 * **Les utilisateurs se connecteront avec l’Adobe Identity**. Adobe migre les utilisateurs existants vers Adobe Admin Console. Les utilisateurs se connectent à leurs abonnements Marketo à l’aide de leur nouvelle identité d’Adobe : Adobe ID ou Adobe Federated ID (SSO).
+
+* **Les URL seront différentes après la migration**. Les numéros d’ID de vos ressources restent toutefois identiques. Les signets enregistrés auparavant doivent toujours vous emmener au bon emplacement. Contactez votre équipe informatique et assurez-vous qu’elle ajoute le domaine ci-dessous (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets du Marketo Engage :
+
+_*.experience.adobe.com_
 
 ## Qu’est-ce qui ne change pas ? {#what-is-not-changing}
 
@@ -116,6 +120,7 @@ Pour une prise en charge supplémentaire concernant votre abonnement ou la migra
 
 >[!MORELIKETHIS]
 >
->* [Migration vers Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Présentation de la migration vers Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Connexion de l’utilisateur avec Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [FAQ sur Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+>* [Tutoriel de migration vers Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
