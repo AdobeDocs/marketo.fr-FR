@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
-ht-degree: 3%
+source-wordcount: '9348'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
    + Configuration initiale {#initial-setup}
       + [Étapes de configuration](getting-started/initial-setup/setup-steps.md)
       + [Configurer des protocoles](getting-started/initial-setup/configure-protocols-for-marketo.md)
-      + [Configuration de l’utilisateur](getting-started/initial-setup/user-setup.md)
+      + [Configuration de l’utilisateur ou de l’utilisatrice](getting-started/initial-setup/user-setup.md)
    + Implémentation d’une nouvelle instance de Marketo Engage {#implementing-a-new-marketo-engage-instance}
       + [Où commencer](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle des sections d’administration](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
@@ -29,7 +29,7 @@ ht-degree: 3%
       + [Bonnes pratiques relatives aux nouvelles instances : liste de contrôle Analytics](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Bonnes pratiques relatives à la nouvelle instance : documenter votre configuration](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informations à connaître {#things-to-know}
-      + [Glossaire du Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Glossaire Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Glossaire des icônes](getting-started/things-to-know/icon-glossary.md)
       + [Glossaire des icônes classiques](getting-started/things-to-know/classic-icon-glossary.md)
       + [Centre dʼaide](getting-started/things-to-know/help-center.md)
@@ -663,7 +663,7 @@ ht-degree: 3%
          + Installation et configuration {#setup-and-configuration}
             + [Configuration initiale](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Ajout ou suppression d’utilisateurs de conversation](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
-            + [Permissions](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
+            + [Autorisations](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Configuration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Paramètres de l’agent](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Gestion des agents](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -726,6 +726,7 @@ ht-degree: 3%
             + [Création d’un webinaire interactif](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Ajout d’une équipe de webinaires](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Conception de webinaires interactifs](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Diffusion d’un webinaire interactif](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Modèles](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Personnalisation](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [Gestion des salles](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1653,7 +1654,7 @@ ht-degree: 3%
          + [Utilisation des options SMS dans une campagne dynamique](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [Rapports SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [Glossaire SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalization {#personalization}
+   + Personnalisation {#personalization}
       + Segmentation et fragments de code {#segmentation-and-snippets}
          + Segmentation {#segmentation}
             + [Approbation d’une segmentation](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1702,7 +1703,7 @@ ht-degree: 3%
          + [Modifier le contenu prédictif pour les emails](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Modification du contenu prédictif pour le contenu multimédia enrichi](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Modifier le contenu prédictif pour la barre de recommandations](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Reporting {#reporting}
+   + Création de rapports {#reporting}
       + [Présentation des rapports](product-docs/reporting/reporting-overview.md)
       + Création de rapports de base {#basic-reporting}
          + Création de rapports {#creating-reports}
@@ -1814,7 +1815,7 @@ ht-degree: 3%
             + [Présentation des modèles de recettes](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Utilisation des étapes de point de contrôle du modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Utilisation des phases du stock du modèle de recette](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Utilisation des étapes du contrat de niveau de service du modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [Utilisation des étapes SLA de modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Utilisation des transitions de modèles de recettes](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [Utilisation de l’analyseur de chemin de succès](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Explorateur de recettes {#revenue-explorer}
@@ -1849,7 +1850,7 @@ ht-degree: 3%
          + [Présentation de la gestion de compte Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Prise en main de la gestion dynamique des balises](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Émission d’une licence](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [Permissions](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Autorisations](product-docs/target-account-management/setup-tam/permissions.md)
          + [Évaluation du compte](product-docs/target-account-management/setup-tam/account-score.md)
          + [Configuration de l’équipe de compte](product-docs/target-account-management/setup-tam/account-team-setup.md)
          + [Création d’un champ personnalisé pour la détection de gestion de la relation client](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
@@ -1964,7 +1965,7 @@ ht-degree: 3%
          + [Utilisation de l’éditeur de texte enrichi de Web Personalization](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Affichage des campagnes web à partir d’un libellé spécifique](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Notes de mise à jour {#release-notes}
-   + [Calendrier des versions](release-notes/release-schedule.md)
+   + [Calendrier de publication](release-notes/release-schedule.md)
    + [Version actuelle](release-notes/current.md)
    + [Version du Dynamic Chat](release-notes/dynamic-chat.md)
    + Versions précédentes {#previous-releases}
