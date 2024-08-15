@@ -2,7 +2,7 @@
 description: Livraison d’un webinaire interactif - Documents Marketo - Documentation du produit
 title: Diffusion d’un webinaire interactif
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ Votre webinaire interactif est prêt à l’emploi. Apprenez tout ce que vous av
 
 1. Si vous êtes co-hôte ou présentateur, cliquez sur le lien personnalisé dans l’e-mail que vous avez reçu pour le webinaire.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. Sélectionnez vos préférences audio/vidéo et cliquez sur **Entrée dans la salle**.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. Sélectionnez la mise en page à afficher aux jointures anticipées.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ Votre webinaire interactif est prêt à l’emploi. Apprenez tout ce que vous av
 
 1. Vous pouvez enregistrer la session si nécessaire. Sélectionnez **Enregistrer la session** dans le menu de la salle. L’enregistrement peut être arrêté ultérieurement à partir du même menu.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. Votre session commence au moment indiqué.
 
 1. Cliquez sur le nom de la pièce. Dans la liste déroulante, sélectionnez **Espace hôte et présentateur** pour discuter ou partager des notes avec l’équipe de présentation en coulisses. La zone hôte et présentateur s’ouvre sur le côté droit de l’écran. Seuls les hôtes/co-hôtes et les présentateurs peuvent voir cette partie de l’écran.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. Une fois la session terminée, cliquez sur l’icône de flèche rouge et sélectionnez **Terminer la session pour tous les**.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ Les participants peuvent participer au webinaire en cliquant sur le lien personn
 
 1. Les participants qui lancent le lien de l’événement plus de 15 minutes avant le début prévu verront une landing page les informant d’attendre le début de l’événement.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. Les participants doivent sélectionner leurs préférences audio, puis cliquer sur Entrée dans la salle. Les participants qui rejoignent une salle Adobe Connect pour la première fois verront également une fenêtre contextuelle pour obtenir une autorisation avec un microphone. Adobe Connect a besoin de cet accès pour que les participants puissent utiliser leur micro plus tard dans la salle.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ Les discussions dans les capsules de conversation sont toujours enregistrées. A
 
 Les discussions dans le panneau de discussion ne sont pas enregistrées. Le panneau de conversation libère également l&#39;espace qui aurait été occupé par la capsule dans la disposition. Donc, si les discussions de chat ne vont pas ajouter de valeur à l&#39;enregistrement des téléspectateurs, utilisez le panneau de discussion au lieu des capsules lors de la conception de la salle.
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 En savoir plus sur [le panneau de conversation](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
@@ -115,7 +113,7 @@ Pour utiliser le mode de préparation :
 
 1. Cliquez sur l’icône de clé à molette située au bas du panneau Disposition.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. Dans le panneau Mises en page, choisissez la mise en page à ajuster. Déplacez, masquez ou affichez des capsules selon vos besoins. Vous pouvez également mettre à jour le contenu des capsules, par exemple charger une nouvelle version de présentation dans une capsule de partage.
 
