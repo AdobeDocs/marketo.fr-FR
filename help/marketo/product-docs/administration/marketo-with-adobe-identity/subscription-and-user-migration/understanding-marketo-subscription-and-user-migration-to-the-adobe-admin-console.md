@@ -3,9 +3,9 @@ description: Présentation de l’abonnement Marketo et de la migration des util
 title: Présentation de l’abonnement Marketo et de la migration des utilisateurs vers Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Dans le cadre de la migration, votre gestion des abonnements et des utilisateurs
 
 * **Les utilisateurs se connecteront avec l’Adobe Identity**. Adobe migre les utilisateurs existants vers Adobe Admin Console. Les utilisateurs se connectent à leurs abonnements Marketo à l’aide de leur nouvelle identité d’Adobe : Adobe ID ou Adobe Federated ID (SSO).
 
-* **Les URL seront différentes après la migration**. Les numéros d’ID de vos ressources restent toutefois identiques. Les signets enregistrés auparavant doivent toujours vous emmener au bon emplacement. Contactez votre équipe informatique et assurez-vous qu’elle ajoute le domaine ci-dessous (y compris l’astérisque) pour autoriser toutes les ressources et tous les websockets du Marketo Engage :
+* **Les URL seront différentes après la migration**. Après la migration, le Marketo Engage passe de experience.adobe.com à Adobe Experience Cloud. Vous devrez travailler avec votre équipe informatique pour placer sur la liste autorisée tous les domaines d’Adobe répertoriés [ en haut de cet article ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} afin d’éviter toute interruption de l’accès des Marketo Engage.
 
-_*.experience.adobe.com_
+Les numéros d’ID de vos ressources restent identiques. Et les liens et signets précédents vers les ressources de Marketo Engage sur le domaine engage-xx.marketo.com _continueront à fonctionner._ Cependant, vous devez d’abord vous connecter à l’instance de Marketo Engage pour l’URL à laquelle vous accédez. Par exemple, pour accéder à un signet pour une campagne dynamique avec l’ID Munchkin 123-ABC-456, vous devez d’abord vous connecter à l’instance de Marketo Engage avec l’ID Munchkin 123-ABC-456.
 
 ## Qu’est-ce qui ne change pas ? {#what-is-not-changing}
 
