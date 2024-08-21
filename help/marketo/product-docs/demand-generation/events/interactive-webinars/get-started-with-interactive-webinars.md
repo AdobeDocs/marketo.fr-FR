@@ -2,9 +2,9 @@
 description: Prise en main des webinaires interactifs - Documents Marketo - Documentation du produit
 title: Prise en main des webinaires interactifs
 feature: Interactive Webinars
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Vous avez donc lu la [présentation des webinaires interactifs](/help/marketo/pr
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
-<p>
+## Que faire {#what-to-do}
 
 **Étape 1** : [Ajouter des utilisateurs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — Découvrez comment ajouter (et supprimer ultérieurement, si vous le souhaitez) utilisateurs pour l’accès aux webinaires interactifs.
 
@@ -29,9 +29,11 @@ Vous avez donc lu la [présentation des webinaires interactifs](/help/marketo/pr
 
 **Étape 6** : [Diffusez votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — Tout ce que vous devez savoir sur la présentation de votre webinaire.
 
-<br>
+C&#39;est tout !
 
-Vous avez terminé. Une fois votre webinaire terminé, consultez ses performances à l’aide du tableau de bord utile dans l’écran Aperçu de l’événement. Vous pouvez voir l’engagement détaillé de votre audience dans le [tableau de bord de l’engagement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Vous pouvez tirer parti de l’engagement du webinaire pour cibler l’audience d’une manière personnalisée grâce aux filtres intelligents et aux déclencheurs dans les [workflows d’événement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Et découvrez comment effectuer le suivi de vos performances On-Demand par le biais de [Webinaires On-Demand](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+## Documentation supplémentaire {#additional-documentation}
+
+Une fois votre webinaire terminé, consultez ses performances à l’aide du tableau de bord utile dans l’écran Aperçu de l’événement. Vous pouvez voir l’engagement détaillé de votre audience dans le [tableau de bord de l’engagement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Vous pouvez tirer parti de l’engagement du webinaire pour cibler l’audience d’une manière personnalisée grâce aux filtres intelligents et aux déclencheurs dans les [workflows d’événement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Et découvrez comment effectuer le suivi de vos performances On-Demand par le biais de [Webinaires On-Demand](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
 Nous avons d’autres articles d’aide sur cette rubrique, notamment [Bonnes pratiques pour les webinaires interactifs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, comment [ personnaliser vos webinaires](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} pour refléter vos besoins/votre marque, créer des modèles à l’échelle de l’entreprise à l’aide de [modèles pour les webinaires interactifs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} et comment gérer les salles et les enregistrements dans la [gestion des salles](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
 
