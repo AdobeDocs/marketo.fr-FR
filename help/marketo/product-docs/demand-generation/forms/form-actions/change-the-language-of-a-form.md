@@ -4,16 +4,20 @@ description: Modification de la langue d’un formulaire - Documents Marketo - D
 title: Modification de la langue d’un formulaire
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 1%
 
 ---
 
 # Modification de la langue d’un formulaire {#change-the-language-of-a-form}
 
 Découvrez comment modifier la langue de votre formulaire.
+
+>[!IMPORTANT]
+>
+>Suivez les étapes de cet article pour modifier la langue des champs standard de Marketo, ainsi que la formulation utilisée dans le libellé du bouton Envoyer. Il ne traduira pas les [champs personnalisés](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
 1. Accédez à **Activités marketing**.
 
@@ -45,11 +49,11 @@ Découvrez comment modifier la langue de votre formulaire.
 
    >[!NOTE]
    >
-   >Le formulaire doit être validé pour être utilisé sur les landing pages.
+   >Le formulaire doit être approuvé pour être utilisé sur les landing pages.
 
    >[!TIP]
    >
-   >N’oubliez pas d’ [approuver le brouillon de la landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N’oubliez pas d’ [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
 Votre formulaire reflète désormais la langue que vous avez sélectionnée.
 
