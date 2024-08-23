@@ -2,19 +2,17 @@
 description: Migration de la prise en charge des Marketo Engage - Documents Marketo - Documentation du produit
 title: Migration de la prise en charge des Marketo Engage
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Migration de la prise en charge des Marketo Engage {#marketo-engage-support-migration}
 
-En savoir plus sur les modifications à venir apportées à votre expérience du support Adobe Marketo Engage. Les modifications sont conçues pour améliorer votre expérience utilisateur et rationaliser vos tâches d’administration.
+Découvrez les modifications à venir de votre processus de prise en charge de Adobe Marketo Engage. Les mises à jour sont conçues pour simplifier vos tâches administratives et améliorer votre expérience globale.
 
 ## Marketo Engage Admin Console {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ La deuxième mise à jour améliore considérablement la manière dont vous soum
 
 ## Comment savoir quand la migration de l’assistance sera terminée ? {#support-migration-has-been-completed}
 
-La migration de l’assistance se produira une fois la migration des utilisateurs terminée pour tous les abonnements. Si vous avez été ajouté en tant qu’administrateur du service d’assistance dans le cadre de la migration, vous recevrez un e-mail une fois la migration des utilisateurs terminée, vous indiquant que vous avez été ajouté en tant qu’administrateur du service d’assistance pour contacter l’assistance pour ces abonnements spécifiques. Cela déclenchera une redirection automatique de la nation marketing vers Adobe Experience League pour toutes les soumissions de cas. Veuillez continuer à soumettre des demandes d’assistance par l’intermédiaire de Marketing Nation jusqu’à ce que la redirection automatique soit activée.
+La migration de l’assistance se produira une fois la migration des utilisateurs terminée pour tous les abonnements. Si vous avez été ajouté en tant qu’administrateur du service d’assistance dans le cadre de la migration vers l’assistance, vous recevrez un e-mail une fois la migration des utilisateurs terminée, vous indiquant que vous avez été ajouté en tant qu’administrateur du service d’assistance pour contacter l’assistance Adobe pour ces abonnements spécifiques. Cela déclenchera une redirection automatique de la nation marketing vers Adobe Experience League pour toutes les soumissions de cas. Veuillez continuer à soumettre des demandes d’assistance par l’intermédiaire de Marketing Nation jusqu’à ce que la redirection automatique soit activée.
 
 ## Ressources supplémentaires {#additional-resources}
 
