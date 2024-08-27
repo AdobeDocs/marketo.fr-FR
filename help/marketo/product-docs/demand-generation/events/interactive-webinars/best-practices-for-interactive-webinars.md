@@ -3,9 +3,9 @@ description: Bonnes pratiques pour les webinaires interactifs - Documents Market
 title: Bonnes pratiques pour les webinaires interactifs
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 ## Préparation de pré-événement {#pre-event-preparation}
 
 ### Création d’un événement {#creating-an-event}
+
+>[!TIP]
+>
+>L’expérience web mobile des webinaires interactifs n’est pas réactive. Nous vous recommandons donc d’utiliser l’application Adobe Connect pour offrir une expérience webinaire transparente sur votre appareil mobile. Notez que l’application Adobe Connect n’est actuellement pas disponible dans les boutiques d’applications en Chine.
 
 * Créez un exemple de webinaire interactif (IW) et clonez-le à chaque fois, afin d’éviter de repartir de zéro.
 
