@@ -3,10 +3,10 @@ description: Présentation de la messagerie instantanée - Documents Marketo - D
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 0%
+source-wordcount: '686'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Lorsque les visiteurs demandent à dialoguer avec un agent via votre dialogue, l
 
 >[!NOTE]
 >
->L’avatar de l’agent en direct utilise l’image de profil du profil d’Adobe de l’agent. Pour mettre à jour l&#39;image, suivez [ces étapes](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>L’avatar de l’agent en direct utilise l’image de profil du profil d’Adobe de l’agent. Pour mettre à jour l&#39;image, suivez [ces étapes](https://helpx.adobe.com/fr/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Utilisation de la carte de conversation en direct {#using-the-live-chat-card}
 
@@ -104,6 +104,12 @@ Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleu
 >
 >* Activation des notifications de navigateur dans [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Activation des notifications de navigateur dans [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Notifications d’action ayant échoué {#failed-action-notifications}
+
+Lorsqu’une action telle qu’une réservation de réunion ou une conversation en direct échoue, les utilisateurs sont avertis par e-mail.
+
+![](assets/live-chat-overview-6.png)
 
 ### Informations à noter {#things-to-note}
 

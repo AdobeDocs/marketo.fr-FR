@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1472'
+source-wordcount: '1869'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,68 @@ ht-degree: 3%
 Les versions de Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive du déploiement des fonctionnalités. Parfois, il existe plusieurs versions en un mois. Par conséquent, veuillez consulter régulièrement les informations les plus récentes.
 
 La page des notes de mise à jour standard du Marketo Engage [ se trouve ici ](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version d’août 2024 {#august-release}
+
+**Date de publication : samedi 23 août 2024**
+
+### Format personnalisé de vos messages de conversation {#custom-format-conversation-messages}
+
+Les concepteurs de diffusions prennent désormais en charge [l’insertion d’HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} pour personnaliser l’aspect de vos conversations.
+
+![](assets/dynamic-chat-aug-2024-release-1.png)
+
+### Défilement du chatbot vers le bas {#chatbot-scroll-to-bottom}
+
+Une icône a été ajoutée dans le chatterbot pour permettre aux visiteurs web d’accéder directement au dernier message. Cela permet aux visiteurs de parcourir le texte pour revenir rapidement à la conversation.
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### Notifications Push principales {#core-pulse-notifications}
+
+Les utilisateurs reçoivent désormais une [ notification par email ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} lorsqu’une réunion de réservation ou un chat en direct échoue.
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### Prise en charge de plusieurs conversations {#support-for-multiple-conversations}
+
+Le chatterbot prend désormais en charge plusieurs conversations. Les visiteurs du site web peuvent engager différentes conversations en même temps sur différentes pages, avec la possibilité de basculer entre elles.
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### Tri par défaut du contenu {#default-sorting-for-content}
+
+Par défaut, les logs de conversation, les questions sans réponse et les tableaux de génération de questions sont triés par date de création (de la plus récente à la plus ancienne).
+
+### Résolution des pistes en temps réel {#real-time-lead-resolution}
+
+Lors d’une conversation avec un prospect anonyme et qu’un ID de courrier électronique est fourni, nous nous résolvons si un enregistrement de piste connu existe avec cet ID de courrier électronique et nous utilisons cet enregistrement pour la personnalisation en temps réel. Si nous trouvons plusieurs enregistrements, nous les fusionnons en temps réel. Ce comportement est implémenté à la fois pour les dialogues et les flux de conversation.
+
+### Synchronisation des pistes sans cookies de Marketo Engage {#syncing-leads-without-cookies}
+
+Auparavant, lorsque la synchronisation du Marketo Engage était activée, Dynamic Chat synchronisait uniquement les pistes connues avec un ou plusieurs identifiants de cookie du Marketo Engage. Désormais, toutes les pistes connues (ID de cookie présent ou non) seront synchronisées dans Dynamic Chat et peuvent être utilisées pour la personnalisation des conversations.
+
+### Transmission de données de visiteur supplémentaires aux flux de conversation {#pass-additional-visitor-data}
+
+Si vous capturez les informations sur les visiteurs par le biais d’autres canaux tels que les formulaires ou la connexion, vous pouvez désormais les transmettre directement à Dynamic Chat.
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### Actualisation des données déduites {#refreshed-inferred-data}
+
+La majorité des conversations sur un site web se font avec des visiteurs anonymes. Vous pouvez toujours les cibler par le biais de données déduites, qui reposent sur les adresses IP des visiteurs. Nous avons mis à jour notre base de données d’adresses IP et de données respectives déduites qui prend désormais en charge quatre fois plus d’adresses IP.
+
+### Son ajouté à la notification du navigateur de l’agent {#sound-added-to-agent-browser-notification}
+
+Lorsqu’une conversation en direct est assignée à un agent, il reçoit une notification du navigateur. Mais parfois ils ne les voient pas. Nous avons ajouté un son de notification afin d’empêcher les notifications manquées de se produire.
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### Possibilité de mettre à jour le profil de prospect lors de la conversation en direct {#update-lead-profile-during-live-chat}
+
+Lors d’une conversation en direct, les agents veulent capturer des informations sur le visiteur et mettre à jour le profil correspondant. Il existe désormais une option permettant de mettre à jour les valeurs d’attribut des objets prospect et société.
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
 
 ## Version de juin 2024 {#june-release}
 

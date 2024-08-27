@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - Documentation du produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1250'
 ht-degree: 2%
 
 ---
@@ -119,7 +119,11 @@ Vous pouvez créer des diffusions pour les boîtes de dialogue ou [Conversationa
 
    >[!TIP]
    >
-   >Vous pouvez personnaliser l’expérience des visiteurs connus de chat à l’aide de jetons (par exemple : Hello `{{lead.leadFirstName:""}}`). Il vous suffit de cliquer sur l’icône d’accolade à droite pour effectuer votre sélection. Ajoutez une valeur par défaut entre les guillemets si vous souhaitez que les visiteurs anonymes voient quelque chose de générique (ex : Hello `{{lead.leadFirstName:"there"}}`).
+   >Vous pouvez personnaliser l’expérience pour les visiteurs de chat !
+   >
+   >* Cliquez sur l&#39;icône &quot;insérer un HTML&quot; `</>` pour insérer votre propre HTML pour l&#39;aspect souhaité de la conversation.
+   >
+   >* Utilisez des jetons pour que les visiteurs connus du chat personnalisent leur expérience (par exemple : Bonjour `{{lead.leadFirstName:""}}`). Cliquez sur l’icône d’accolades `{}` et effectuez votre sélection. Ajoutez une valeur par défaut entre les guillemets si vous souhaitez que les visiteurs anonymes voient quelque chose de générique (ex : Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
