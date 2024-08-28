@@ -4,9 +4,9 @@ description: Mise à jour des données de personne - Documents Marketo - Documen
 title: Mettre à jour les données de personne
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -49,6 +49,12 @@ Imaginons que dans votre salon récent, une personne vous ait donné des coordon
 1. Saisissez les nouvelles informations que vous avez reçues, puis fermez l’onglet.
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* Assurez-vous que les adresses électroniques contiennent uniquement des caractères ASCII.
+>
+>* Marketo ne prend pas **en charge les adresses électroniques contenant des émoticônes.**
 
 >[!NOTE]
 >

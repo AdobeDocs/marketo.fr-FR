@@ -4,9 +4,9 @@ description: Importation d’une liste de personnes - Documents Marketo - Docume
 title: Importation d’une liste de personnes
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '508'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,9 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    >[!CAUTION]
    >
-   >Marketo ne prend pas **en charge les adresses électroniques contenant des émoticônes.**
+   >* Assurez-vous que les adresses électroniques contiennent uniquement des caractères ASCII.
+   >
+   >* Marketo ne prend pas **en charge les adresses électroniques contenant des émoticônes.**
 
 ## Étape 2 : Créer un programme {#step-create-a-program}
 

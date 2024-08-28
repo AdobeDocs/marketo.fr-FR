@@ -4,9 +4,9 @@ description: Configuration et ajout d’une personne - Documents Marketo - Docum
 title: Configuration et ajout d’une personne
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '226'
 ht-degree: 14%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 14%
 
 Il y a quelques choses à faire avant de commencer les missions.
 
-## Étape 1 : connexion à Marketo {#step-log-in-to-marketo}
+## Étape 1 : connexion au Marketo Engage {#step-log-in-to-marketo}
 
-1. [Connectez-vous à Marketo](https://app.marketo.com){target="_blank"} à l’aide des informations d’identification que vous avez reçues par courrier électronique.
+1. [Connectez-vous à Marketo Engage](https://app.marketo.com){target="_blank"} à l’aide des informations d’identification que vous avez reçues par courrier électronique.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -59,7 +59,9 @@ Ajoutez-vous en tant que personne dans Marketo afin de pouvoir vous envoyer ult�
 
    >[!CAUTION]
    >
-   >Marketo ne prend pas **en charge les adresses électroniques contenant des émoticônes.**
+   >* Assurez-vous que les adresses électroniques contiennent uniquement des caractères ASCII.
+   >
+   >* Marketo ne prend pas **en charge les adresses électroniques contenant des émoticônes.**
 
 1. Pour afficher vos utilisateurs, ouvrez vos [!UICONTROL listes dynamiques système] dans le menu de gauche, puis cliquez sur **[!UICONTROL Toutes les personnes]**.
 
