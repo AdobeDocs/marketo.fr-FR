@@ -3,9 +3,9 @@ description: Comportement de chatbot - Documents Marketo - Documentation du prod
 title: Comportement de chatterbot
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -406,3 +406,7 @@ Vous trouverez ci-dessous différents scénarios possibles qui surpassent le com
     </tr>
   </tbody>
 </table>
+
+## Résolution des pistes en temps réel {#real-time-lead-resolution}
+
+Lors d’une conversation avec un prospect anonyme et qu’un ID de courrier électronique est fourni, nous nous résolvons si un enregistrement de piste connu existe avec cet ID de courrier électronique et nous utilisons cet enregistrement pour la personnalisation en temps réel. Si nous trouvons plusieurs enregistrements, nous les fusionnons en temps réel. Ce comportement est implémenté à la fois pour les dialogues et les flux de conversation.

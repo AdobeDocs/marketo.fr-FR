@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
 source-wordcount: '1869'
 ht-degree: 3%
@@ -68,7 +68,7 @@ La majorité des conversations sur un site web se font avec des visiteurs anonym
 
 ### Son ajouté à la notification du navigateur de l’agent {#sound-added-to-agent-browser-notification}
 
-Lorsqu’une conversation en direct est assignée à un agent, il reçoit une notification du navigateur. Mais parfois ils ne les voient pas. Nous avons ajouté un son de notification afin d’empêcher les notifications manquées de se produire.
+Lorsqu’une conversation en direct est assignée à un agent, il reçoit une notification du navigateur. Mais parfois ils ne les voient pas. Nous avons ajouté un [son de notification](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} pour empêcher les notifications manquées de continuer.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 

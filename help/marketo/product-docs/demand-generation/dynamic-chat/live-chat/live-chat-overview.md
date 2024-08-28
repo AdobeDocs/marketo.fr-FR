@@ -3,9 +3,9 @@ description: Présentation de la messagerie instantanée - Documents Marketo - D
 title: Présentation de la messagerie instantanée
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -94,7 +94,7 @@ Si les agents n’obtiennent pas de notifications du navigateur même après l�
 
 ### Lorsqu’une conversation en direct est acheminée vers un agent {#when-a-live-chat-is-routed-to-an-agent}
 
-Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleue s’affiche en haut de l’écran pour lui demander d’accepter.
+Lorsqu’une conversation en direct est envoyée à un agent, une bannière bleue s’affiche en haut de l’écran pour lui demander d’accepter, ainsi qu’un son de notification pour empêcher les notifications manquées.
 
 ![](assets/live-chat-overview-3.png)
 
