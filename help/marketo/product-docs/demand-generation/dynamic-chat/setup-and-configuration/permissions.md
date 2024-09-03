@@ -1,16 +1,16 @@
 ---
 description: Autorisations - Documents Marketo - Documentation du produit
-title: Permissions
+title: Autorisations
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 5%
 
 ---
 
-# Permissions {#permissions}
+# Autorisations {#permissions}
 
 Il existe cinq profils par défaut avec des autorisations prédéfinies que vous pouvez modifier en Dynamic Chat. Vous pouvez également créer un profil personnalisé avec un ensemble personnalisé d’autorisations. Passons en revue les deux.
 
@@ -32,7 +32,7 @@ Il existe cinq profils par défaut avec des autorisations prédéfinies que vous
 
    ![](assets/permissions-4.png)
 
-1. Les éléments d’autorisation disponibles sont répertoriés à gauche. Vous pouvez choisir d’ajouter les autorisations une par une ou toutes à la fois. Dans cet exemple, il n’y en a qu’un seul disponible, nous ajoutons celui-ci. Cliquez sur le signe **+**.
+1. Les éléments d’autorisation disponibles sont répertoriés à gauche. Vous pouvez choisir d’ajouter les autorisations une par une ou toutes à la fois. Cliquez sur le signe **+**.
 
    ![](assets/permissions-5.png)
 
@@ -76,7 +76,7 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
 <thead>
   <tr>
     <th style="width:25%">Zone de Dynamic Chat</th>
-    <th>Permissions</th>
+    <th>Autorisations</th>
   </tr>
 </thead>
 <tbody>
@@ -140,7 +140,7 @@ Vous trouverez ci-dessous les cinq profils par défaut et les autorisations acti
 <table>
 <thead>
   <tr>
-    <th style="width:25%">Profil</th>
+    <th style="width:25%">Profile</th>
     <th>Autorisations par défaut</th>
   </tr>
 </thead>
