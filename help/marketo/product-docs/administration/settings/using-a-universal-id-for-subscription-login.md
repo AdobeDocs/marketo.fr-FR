@@ -4,9 +4,9 @@ description: Utilisation d’un ID universel pour la connexion à l’abonnement
 title: Utilisation d’un ID universel pour la connexion à l’abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Avec un ID universel pour plusieurs abonnements, seul vous pouvez modifier le mo
 ## Changement d’abonnement {#switching-between-subscriptions}
 
 À l’aide d’un ID universel, vous pouvez voir l’abonnement auquel vous êtes connecté et sélectionner d’autres abonnements auxquels vous avez accès pour vous connecter. Dans la plupart des cas, vous pouvez basculer entre les deux sans avoir à vous déconnecter puis à vous reconnecter.
+
+Si [Authentification unique](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) et ID universel sont activés, l’autorisation &quot;Contournement de la connexion unique&quot; doit être définie pour basculer entre les abonnements.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 
