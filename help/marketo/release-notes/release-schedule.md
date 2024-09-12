@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation sur le 
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 15%
+source-wordcount: '130'
+ht-degree: 11%
 
 ---
 
@@ -33,33 +33,33 @@ _Les dates/fonctionnalités de publication peuvent être modifiées_
    <th width="250px">Statut</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">24 janvier</a></td>
-   <td>12 janvier 2024</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-mar-24.md">24 mars</a></td>
-   <td>samedi 8 mars 2024</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-apr-24.md">24 avril</a></td>
-   <td>26 avril 2024</td>
-   <td>Expédié</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/current.md">24 juin</a></td>
-   <td>7 juin 2024</td>
-   <td>Expédié</td>
-  </tr>
-  <tr> 
-   <td>24 juillet</td>
+   <td><a href="/help/marketo/release-notes/current.md">24 juillet</a></td>
    <td>26 juillet 2024</td>
    <td>En cours</td>
   </tr>
   <tr> 
    <td>24 octobre</td>
    <td>4 octobre 2024</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>25 janvier</td>
+   <td>17 janvier 2025</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>25 mars</td>
+   <td>samedi 7 mars 2025</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>25 avril</td>
+   <td>25 avril 2025</td>
+   <td>À la planification</td>
+  </tr>
+  <tr> 
+   <td>25 juin</td>
+   <td>6 juin 2025</td>
    <td>À la planification</td>
   </tr>
  </tbody>
