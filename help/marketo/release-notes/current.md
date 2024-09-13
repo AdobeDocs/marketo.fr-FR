@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
+source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 10%
+source-wordcount: '303'
+ht-degree: 9%
 
 ---
 
@@ -71,3 +71,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
  </tbody> 
 </table>
 <br/>
+
+## Annonces {#announcements}
+
+Le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à se déployer vers les instances de Marketo Engage pour lesquelles le paramètre &quot;Munchkin Beta&quot; est activé dans **Admin** > **Treasure Chest**. Il est prévu qu’il démarre le déploiement sur toutes les autres instances le 29 octobre. Cette version met à jour la création des cookies Munchkin. Les fonctionnalités ne sont pas modifiées.
