@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
+source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 9%
+source-wordcount: '363'
+ht-degree: 7%
 
 ---
 
@@ -74,4 +74,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 
 ## Annonces {#announcements}
 
-Le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à se déployer vers les instances de Marketo Engage pour lesquelles le paramètre &quot;Munchkin Beta&quot; est activé dans **Admin** > **Treasure Chest**. Il est prévu qu’il démarre le déploiement sur toutes les autres instances le 29 octobre. Cette version met à jour la création des cookies Munchkin. Les fonctionnalités ne sont pas modifiées.
+* **Nouvelle version de Munchkin** : le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à se déployer vers les instances de Marketo Engage pour lesquelles le paramètre &quot;Munchkin Beta&quot; est activé dans **Admin** > **Treasure Chest**. Il est prévu qu’il démarre le déploiement sur toutes les autres instances le 29 octobre. Cette version met à jour la création des cookies Munchkin. Les fonctionnalités ne sont pas modifiées.
+
+* **Dépréciation du code QR** : le 4 octobre 2024, la fonctionnalité de code QR utilisée dans les notifications push et les ressources de messagerie in-app sera obsolète. Cela inclut l’utilisation de codes QR pour un nouvel appareil de test, ainsi que la création de nouvelles ressources avec des codes QR. Les fonctionnalités obsolètes avec une utilisation plus faible nous permettent de réaffecter leurs ressources à la maintenance globale de Marketo Engage.
