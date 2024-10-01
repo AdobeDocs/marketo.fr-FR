@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9345'
 ht-degree: 4%
 
 ---
@@ -627,6 +627,7 @@ ht-degree: 4%
          + [Activer/Désactiver la synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Actions Salesforce appliquées](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Connexion à l’aide d’OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Mesures de journal de synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Erreurs de synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Statut de synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Utilisation de comptes de personne](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 4%
             + [Rapport Personnes par état](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Rapport Performances des personnes](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Présentation du type de rapport](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Tableau de bord des mesures d’observabilité de la synchronisation Salesforce](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Rapport Activité de la page web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Pages Web consultées, rapport Activité de page Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + Informations sur les emails {#email-insights}
