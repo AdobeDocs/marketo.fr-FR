@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -32,7 +32,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:25%">Documentation</th>
   </tr>
     <tr> 
-   <td><strong>Tableau de bord des données d’enregistrement améliorées dans l’engagement pour les webinaires interactifs</strong> : Vous pouvez désormais voir quelles entreprises ont le plus fréquenté et obtenir la mise à jour de l’entreprise, du titre et du secteur au niveau de l’avance dans les rapports disponibles dans le tableau de bord de l’engagement.</td> 
+   <td><strong>Tableau de bord des données d’enregistrement améliorées dans l’engagement pour les webinaires interactifs</strong> : Vous pouvez désormais voir quelles entreprises ont eu le plus de fréquentation et obtenir que l’entreprise, le titre et le secteur soient mis à jour au niveau de l’avance dans les rapports disponibles dans le tableau de bord de l’engagement.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
