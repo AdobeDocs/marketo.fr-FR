@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 6%
+source-wordcount: '513'
+ht-degree: 7%
 
 ---
 
@@ -65,6 +65,34 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
    <tr> 
    <td><strong>Bouton Mon compte dans le rail de navigation</strong> : pour ceux qui ont migré vers Adobe Identity Management System, un nouveau bouton "Mon compte" dans le rail de navigation de gauche permet de configurer votre fuseau horaire et d’accéder aux détails de l’abonnement.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Mesures de délai de synchronisation de Salesforce</strong> : vous pouvez désormais surveiller les tendances de débit et de journal de synchronisation pour planifier et planifier des mises à jour de gestion de la relation client pour une expérience de synchronisation optimale.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Améliorations des rapports de performances des emails</strong> : plusieurs améliorations ont été apportées aux mesures de création de rapports par email et au suivi des activités, offrant des informations supplémentaires et améliorant la précision.
+   <ul>
+   <li>Filtrage des personnes supprimées et fusionnées à partir des mesures de performances des emails</li>
+   <li>Les emails sont désormais classés comme <i>avorté</i> après trois jours d’attente d’activité de réponse.</li>
+   <li>Ouverture de courrier électronique de compte au niveau de la campagne</li>
+   <li>Amélioration du suivi des activités de courrier électronique grâce à l’amélioration de l’emplacement des pixels de suivi</li>
+   </td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
