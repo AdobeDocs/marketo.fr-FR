@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 7%
+source-wordcount: '485'
+ht-degree: 6%
 
 ---
 
@@ -72,18 +72,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Mesures de délai de synchronisation de Salesforce</strong> : vous pouvez désormais surveiller les tendances de débit et de journal de synchronisation pour planifier et planifier des mises à jour de gestion de la relation client pour une expérience de synchronisation optimale.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong>Améliorations des rapports de performances des emails</strong> : plusieurs améliorations ont été apportées aux mesures de création de rapports par email et au suivi des activités, offrant des informations supplémentaires et améliorant la précision.
