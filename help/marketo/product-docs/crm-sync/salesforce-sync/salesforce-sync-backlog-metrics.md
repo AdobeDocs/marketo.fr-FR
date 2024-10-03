@@ -4,7 +4,7 @@ title: Mesures de journal de synchronisation Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Que la mise à jour soit effectuée côté Marketo Engage ou côté CRM, l’enr
 
 Lorsqu’un grand nombre de mises à jour sont effectuées (par exemple à partir d’un changement de valeur de champ), de nombreux enregistrements sont modifiés, provoquant de nouveaux SysModStamps. Un grand nombre de mises à jour des enregistrements de personne doivent ensuite être resynchronisées entre Marketo Engage et votre CRM, ce qui crée parfois un retard momentané.
 
-## Bonnes pratiques pour la gestion des retards de synchronisation {#best-practices-for-managing-sync-backlogs}
+## Bonnes pratiques pour la gestion des retards de synchronisation {#best-practices}
 
 **Champs sous synchronisation** : assurez-vous que les champs sous-synchronisés ne sont que ceux qui doivent être synchronisés. Les modifications apportées aux champs augmentent le journal de synchronisation et les champs de priorité inférieure peuvent arrêter ou ralentir les champs plus importants sous synchronisation. Pour supprimer les champs synchronisés, contactez le [support Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
