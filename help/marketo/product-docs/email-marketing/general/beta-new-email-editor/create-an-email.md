@@ -4,10 +4,10 @@ title: Créer un email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 4%
+source-wordcount: '330'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ Texte d&#39;introduction ici.
 
    CAPTURE D’ÉCRAN???
 
-RÉPERTORIEZ CHAQUE ÉTAPE JUSQU’À CE QUE VOUS SOYEZ GET À MARKETO???
+   RÉPERTORIEZ CHAQUE ÉTAPE JUSQU’À CE QUE VOUS SOYEZ GET À MARKETO???
 
 1. Dans My Marketo, sélectionnez **Design Studio**.
 
@@ -37,4 +37,104 @@ RÉPERTORIEZ CHAQUE ÉTAPE JUSQU’À CE QUE VOUS SOYEZ GET À MARKETO???
 
    ![](assets/create-an-email-4.png)
 
-Votre email est créé. Il est maintenant temps de le concevoir. LIEN
+## Concevoir votre email {#design-your-email}
+
+1. Dans l&#39;email que vous venez de créer, cliquez sur **+ Ajouter le contenu de l&#39;email**.
+
+   CAPTURE D’ÉCRAN
+
+1. La page &quot;Créer votre email&quot; se charge. Vous pouvez choisir parmi plusieurs options :
+
+* [Créer en partant de zéro](#design-from-scratch)
+
+* [Importez votre propre HTML](#import-html)
+
+* [Sélectionnez un modèle existant](#choose-a-template) (un de nos échantillons ou un que vous avez déjà enregistré)
+
+### Créer en partant de zéro {#design-from-scratch}
+
+Brève introduction
+
+1. Texte
+
+   CAPTURE D’ÉCRAN
+
+1. Texte
+
+   CAPTURE D’ÉCRAN
+
+1. Texte
+
+   CAPTURE D’ÉCRAN
+
+### Importer du contenu HTML {#import-html}
+
+Vous pouvez importer du contenu d’HTML existant pour concevoir vos modèles d’email. Le contenu peut être :
+
+* Un fichier d’HTML avec une feuille de style intégrée
+
+* Fichier .zip contenant un fichier d’HTML, la feuille de style (.css) et les images
+
+>[!NOTE]
+>
+>Il n’existe aucune contrainte sur la structure des fichiers .zip. Cependant, les références doivent être relatives et s’ajuster à l’arborescence du dossier .zip.
+
+1. Dans la page Concevoir votre modèle, sélectionnez **Importer l&#39;HTML**.
+
+   CAPTURE D’ÉCRAN
+
+1. Faites glisser et déposez le fichier d’HTML ou .zip de votre choix, puis cliquez sur **Importer**.
+
+   CAPTURE D’ÉCRAN
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+### Choisir un modèle {#choose-a-template}
+
+Deux types de modèles sont proposés.
+
+* Exemples de modèles : Marketo Engage propose quatre modèles d&#39;email d&#39;usine.
+
+* Modèles enregistrés : il s’agit de modèles entièrement créés à l’aide du menu Modèles ou d’un email que vous avez créé et que vous avez choisi d’enregistrer en tant que modèle.
+
+>[!BEGINTABS]
+
+>[!TAB Exemples de modèles]
+
+Choisissez l&#39;un des quatre modèles d&#39;usine pour démarrer rapidement votre conception d&#39;email.
+
+1. Dans la page Créer votre email , sélectionnez Exemples de modèles .
+
+   CAPTURE D’ÉCRAN
+
+1. Sélectionnez le modèle de votre choix.
+
+   CAPTURE D’ÉCRAN
+
+1. Un aperçu s’affiche. Pour confirmer votre sélection, cliquez sur **Utiliser ce modèle**.
+
+   CAPTURE D’ÉCRAN
+
+>[!TAB Modèles enregistrés]
+
+Sélectionnez l’un de vos modèles créés précédemment.
+
+1. Dans la page Créer votre email , sélectionnez Modèles enregistrés .
+
+   CAPTURE D’ÉCRAN
+
+1. Sélectionnez le modèle de votre choix.
+
+   CAPTURE D’ÉCRAN
+
+1. Un aperçu s’affiche. Pour confirmer votre sélection, cliquez sur **Utiliser ce modèle**.
+
+   CAPTURE D’ÉCRAN
+
+>[!ENDTABS]
