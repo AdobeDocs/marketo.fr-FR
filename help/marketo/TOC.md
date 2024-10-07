@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9379'
 ht-degree: 4%
 
 ---
@@ -1737,6 +1737,7 @@ ht-degree: 4%
             + [Filtrage d’un rapport d’activité de campagne](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtrage d’Assets dans les rapports de messagerie d’une campagne](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtrage d’Assets dans un rapport par courriel](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [Filtrer les enregistrements supprimés/fusionnés dans un rapport de performances des emails](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [Rapports de personnes de groupe par attribut](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [Courriel du rapport, Performances des campagnes dans les espaces de travail](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [Partage d’un modèle sur plusieurs espaces de travail](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
