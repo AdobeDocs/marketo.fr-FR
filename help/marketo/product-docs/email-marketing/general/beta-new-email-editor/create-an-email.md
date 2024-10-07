@@ -4,10 +4,10 @@ title: Créer un email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 11%
+source-wordcount: '357'
+ht-degree: 10%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 11%
 
 Texte d&#39;introduction ici.
 
-1. Connectez-vous à [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
+>[!IMPORTANT]
+>
+>Cet article est destiné aux membres du nouvel éditeur de messagerie du Marketo Engage fermé en version bêta uniquement. S&#39;il vous plaît, ne diffusez pas.
 
-   CAPTURE D’ÉCRAN???
-
-   RÉPERTORIEZ CHAQUE ÉTAPE JUSQU’À CE QUE VOUS SOYEZ GET À MARKETO???
+1. Connectez-vous à Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Dans My Marketo, sélectionnez **Design Studio**.
 
@@ -36,6 +36,8 @@ Texte d&#39;introduction ici.
 1. Saisissez un nom d’email et un objet. Cliquez sur **Créer**.
 
    ![](assets/create-an-email-4.png)
+
+C&#39;est tout. Il est maintenant temps de concevoir votre email.
 
 ## Concevoir votre email {#design-your-email}
 
@@ -138,3 +140,7 @@ Sélectionnez l’un de vos modèles créés précédemment.
    CAPTURE D’ÉCRAN
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[Accès à un email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}

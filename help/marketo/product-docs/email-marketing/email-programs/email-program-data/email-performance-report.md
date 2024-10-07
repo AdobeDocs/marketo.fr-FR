@@ -4,9 +4,9 @@ description: Rapport Performances des emails - Documents Marketo - Documentation
 title: Rapport des performances des e-mails
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '502'
 ht-degree: 3%
 
 ---
@@ -91,5 +91,6 @@ En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces stat
 
 >[!MORELIKETHIS]
 >
->* [Filtrer Assets dans les rapports Email de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [Rapport Performance de lien de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [Filtrer Assets dans les rapports Email de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
+>* [Filtrer les enregistrements supprimés/fusionnés dans un rapport Performance de messagerie](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
+>* [Rapport Performance de lien de courriel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}
