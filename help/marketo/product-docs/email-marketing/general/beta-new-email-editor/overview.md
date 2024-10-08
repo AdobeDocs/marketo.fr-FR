@@ -4,10 +4,10 @@ title: Vue d’ensemble
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 12%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
@@ -15,14 +15,18 @@ ht-degree: 12%
 
 Texte d&#39;introduction ici.
 
-BALISE IMPORTANTE : documents Beta, ne pas diffuser
+>[!IMPORTANT]
+>
+>Cet article est destiné aux membres du nouvel éditeur de messagerie du Marketo Engage fermé en version bêta uniquement. S&#39;il vous plaît, ne diffusez pas.
 
-LIEN VERS TOUS LES DOCUMENTS
+**Articles disponibles**
 
-* [Créer un e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}
+* [Créer un email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"} : découvrez comment créer et concevoir un email dans le nouvel éditeur.
 
-* [Accès à un email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+* [Comment accéder à un email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"} : découvrez comment accéder aux emails de votre nouvel éditeur à partir de Marketo Engage.
 
-* [Créer un modèle d’email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}
+* [Créer un modèle d’email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"} : découvrez comment créer et concevoir un modèle d’email dans le nouvel éditeur.
 
-* [Comment accéder à un modèle d&#39;email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
+* [Comment accéder à un modèle d’email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"} : découvrez comment accéder aux emails de votre nouvel éditeur à partir de Marketo Engage.
+
+^^^ CE DERNIER DOC EST-IL NÉCESSAIRE ?

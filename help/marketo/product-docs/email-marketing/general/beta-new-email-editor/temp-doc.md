@@ -4,7 +4,7 @@ title: Document temporaire
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 24%
@@ -39,6 +39,7 @@ Insérez des champs de personnalisation pour personnaliser votre contenu à part
 Cliquez sur Activer le contenu des conditions pour ajouter du contenu dynamique et adapter le contenu aux profils ciblés selon des règles conditionnelles.
 Cliquez sur l’onglet Liens du volet de gauche pour afficher toutes les URL de votre contenu qui seront suivies. Vous pouvez modifier leur type de suivi ou libellé et ajouter des balises si nécessaire.
 Si nécessaire, vous pouvez personnaliser davantage votre email en cliquant sur Passer à l’éditeur de code dans le menu avancé. Vous pouvez ainsi modifier le code source de l’email, par exemple pour ajouter des balises d’HTML personnalisées ou de suivi.
+
 ATTENTION
 Vous ne pouvez pas revenir au concepteur visuel de cet email après avoir basculé vers l’éditeur de code.
 
