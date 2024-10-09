@@ -3,9 +3,9 @@ description: Migration vers Adobe Identity - Documents Marketo - Documentation d
 title: Migration vers Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '2252'
+source-wordcount: '2300'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,12 @@ L’outil Console de migration des utilisateurs en libre-service de Marketo se c
 
 * **Onglet État de migration**
 * **Onglet Migration des utilisateurs**
+
+Trois étapes principales sont nécessaires pour effectuer une migration en libre-service.
+
+1. Migrer tous les utilisateurs éligibles désirés avec une adresse email (onglet Migration des utilisateurs)
+1. Ignorer tous les utilisateurs non éligibles et les utilisateurs éligibles non souhaités (onglet Migration des utilisateurs )
+1. Une fois les étapes 1 et 2 terminées, effectuez la confirmation de migration (onglet État de migration).
 
 ### Onglet État de migration {#migration-status-tab}
 
