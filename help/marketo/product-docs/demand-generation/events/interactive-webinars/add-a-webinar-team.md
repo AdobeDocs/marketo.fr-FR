@@ -3,16 +3,20 @@ description: Ajout d’une équipe de webinaires - Documents Marketo - Documenta
 title: Ajout d’une équipe de webinaires
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 0%
 
 ---
 
 # Ajout d’une équipe de webinaires {#add-a-webinar-team}
 
 Dans les webinaires interactifs, une équipe de webinaires se compose de tous les rôles qui contribuent à la diffusion réussie du webinaire dans Adobe Connect. Cela inclut les présentateurs et les co-hôtes.
+
+>[!IMPORTANT]
+>
+>Il est vivement recommandé de [concevoir votre webinaire](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _avant_ d’ajouter des présentateurs ou des co-hôtes.
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ Le présentateur est un rôle externe qui participe à la diffusion de l’expé
 
 >[!PREREQUISITES]
 >
->[Créer un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [Créer un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [Concevoir votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Ajout d’un co-hôte {#add-a-co-host}
 
@@ -70,4 +76,4 @@ Le présentateur est un rôle externe qui participe à la diffusion de l’expé
 
 >[!MORELIKETHIS]
 >
->[Créer un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[Créer un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}

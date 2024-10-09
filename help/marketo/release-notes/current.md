@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 6%
@@ -81,8 +81,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <li>Ouverture de courrier électronique de compte au niveau de la campagne</li>
    <li>Amélioration du suivi des activités de courrier électronique grâce à l’amélioration de l’emplacement des pixels de suivi</li>
    </td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapport des performances des e-mails</a></td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: Bonnes pratiques pour les webinaires interactifs - Documents Market
 title: Bonnes pratiques pour les webinaires interactifs
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '1691'
+source-wordcount: '1704'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 
 * Évitez de planifier des sessions de retour en arrière. Assurez-vous d’avoir au moins 30 minutes de préparation avant le début de votre webinaire. Cela vous permet de charger les modifications de présentation de dernière minute, d’ajuster votre microphone et votre appareil photo, et de mettre à l’aise les nouveaux présentateurs avec l’interface.
 
-* Attribuez des rôles aux membres de votre équipe. Ajoutez-les en tant que co-hôtes et présentateurs. Les hôtes et les présentateurs peuvent entrer dans la salle avant les participants.
+* Attribuez des rôles aux membres de votre équipe. Ajoutez-les en tant que co-hôtes et présentateurs. Les hôtes et les présentateurs peuvent entrer dans la salle avant les participants. Mais veillez à [concevoir votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _avant_ d’ajouter des co-hôtes et des présentateurs.
 
 ### Promotion de votre événement {#promoting-your-event}
 
