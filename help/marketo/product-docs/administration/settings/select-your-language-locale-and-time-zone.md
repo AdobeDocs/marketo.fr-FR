@@ -4,20 +4,20 @@ description: Sélectionnez votre langue, langue et fuseau horaire - Documents Ma
 title: Sélectionner votre langue, langue et fuseau horaire
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 5%
+source-wordcount: '215'
+ht-degree: 4%
 
 ---
 
 # Sélectionner votre langue, langue et fuseau horaire {#select-your-language-locale-and-time-zone}
 
-L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nous t&#39;avons couvert. Voici comment modifier la langue, les paramètres régionaux et le fuseau horaire de votre instance de Marketo Engage.
+L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nous t&#39;avons couvert. Voici comment modifier la langue, les paramètres régionaux et le fuseau horaire de votre abonnement au Marketo Engage.
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement à ceux qui n’utilisent _pas_ [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si vous le faites, les paramètres décrits ci-dessous sont accessibles dans votre [profil de compte d’Adobe](https://account.adobe.com/profile){target="_blank"}.
+>Si votre abonnement de Marketo Engage a été migré vers [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, seul le [fuseau horaire](#change-your-time-zone) de cet article s&#39;applique à vous. Pour modifier votre langue et/ou vos paramètres régionaux, ces paramètres doivent être accessibles dans votre [profil de compte d’Adobe](https://account.adobe.com/profile){target="_blank"}.
 
 ## Langues prises en charge {#supported-languages}
 
@@ -28,7 +28,9 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 * brésilien
 * Espagnol
 
-## Modification de la langue, de la langue et du fuseau horaire de l’utilisateur {#change-user-language-locale-and-time-zone}
+## Modification de la langue, des paramètres régionaux et du fuseau horaire de l’utilisateur {#change-user-language-locale-and-time-zone}
+
+Suivez ces étapes pour accéder à la zone appropriée, puis sélectionnez le paramètre à modifier.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -42,7 +44,9 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Modifiez votre **[!UICONTROL langue]**.
+### Modifier votre langue {#change-your-language}
+
+1. Cliquez sur la liste déroulante **[!UICONTROL Langue]** et effectuez votre sélection.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,18 +54,22 @@ L&#39;anglais n&#39;est pas votre première langue ? Ne t&#39;inquiète pas, nou
    >
    >Vous avez également la possibilité de modifier uniquement votre langue en cliquant sur la liste déroulante des langues située en haut de la page de connexion.
 
-1. Modifiez votre **[!UICONTROL paramètre régional]**.
+### Modifier vos paramètres régionaux {#change-your-locale}
+
+1. Cliquez sur la liste déroulante **[!UICONTROL Locale]** et effectuez votre sélection.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Modifiez votre **[!UICONTROL Fuseau horaire]**.
+### Modifier votre fuseau horaire {#change-your-time-zone}
+
+1. Cliquez sur la liste déroulante **[!UICONTROL Fuseau horaire]** et effectuez votre sélection.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+## Enregistrez. {#save}
+
+1. Après avoir modifié les paramètres souhaités, cliquez simplement sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-Beau boulot ! Votre navigateur s’actualise et les modifications sont répercutées.
-
-![](assets/select-your-language-locale-and-time-zone-8.png)
+Vous avez terminé. Votre navigateur s’actualise et les modifications sont répercutées.
