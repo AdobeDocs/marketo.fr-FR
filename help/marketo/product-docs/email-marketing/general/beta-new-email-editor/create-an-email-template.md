@@ -4,10 +4,10 @@ title: Créer un modèle de courrier électronique
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 16%
+source-wordcount: '432'
+ht-degree: 17%
 
 ---
 
@@ -18,6 +18,10 @@ Texte d&#39;introduction ici.
 >[!IMPORTANT]
 >
 >Cet article est destiné aux membres du nouvel éditeur de messagerie du Marketo Engage fermé en version bêta uniquement. S&#39;il vous plaît, ne diffusez pas.
+
+>[!NOTE]
+>
+>Les modèles de courrier électronique dans le nouvel éditeur de courrier électronique ne peuvent être utilisés que pour créer des courriers électroniques dans le nouvel éditeur de courrier électronique. Ils ne peuvent pas être référencés dans l’ancien éditeur d’email.
 
 1. Connectez-vous à Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -79,17 +83,19 @@ Vous pouvez importer du contenu d’HTML existant pour concevoir vos modèles d�
 
    CAPTURE D’ÉCRAN
 
+   >[!NOTE]
+   >
+   >Lorsque le contenu de l’HTML est chargé, votre contenu est en mode de compatibilité. Dans ce mode, vous pouvez uniquement personnaliser votre texte, ajouter des liens ou inclure des ressources à votre contenu.
+
+1. Pour pouvoir exploiter les composants de contenu Designer par e-mail, accédez à l’onglet Convertisseur d’HTMLS et cliquez sur Convertir.
+
+   CAPTURE D’ÉCRAN
+
    >[!CAUTION]
    >
    >L’utilisation d’une balise `<table>` comme première couche d’un fichier HTML peut entraîner une perte de style, y compris les paramètres d’arrière-plan et de largeur dans la balise de couche supérieure.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Vous pouvez maintenant personnaliser le fichier importé selon vos besoins à l’aide de l’éditeur visuel de messagerie.
 
 ### Choisir un modèle {#choose-a-template}
 
@@ -124,7 +130,3 @@ Choisissez l&#39;un des quatre modèles d&#39;usine pour démarrer rapidement vo
    CAPTURE D’ÉCRAN
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[Comment accéder à un modèle d&#39;email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

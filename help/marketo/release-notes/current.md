@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 6%
 
 ---
@@ -54,8 +54,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
    <tr> 
    <td><strong>Liste dynamique "Définir pour affecter" : nombre</strong> : voir le nombre de personnes qui seront affectées lors de la modification des règles de qualification d’une campagne dynamique.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
    <tr> 
    <td><strong>Bouton Mon compte dans le rail de navigation</strong> : pour ceux qui ont migré vers Adobe Identity Management System, un nouveau bouton "Mon compte" dans le rail de navigation de gauche permet de configurer votre fuseau horaire et d’accéder aux détails de l’abonnement.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   <tr> 
    <td> </td> 
