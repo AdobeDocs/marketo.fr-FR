@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '487'
 ht-degree: 6%
 
 ---
@@ -78,7 +78,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <ul>
    <li>Filtrage des personnes supprimées et fusionnées à partir des mesures de performances des emails</li>
    <li>Les emails sont désormais classés comme <i>avorté</i> après trois jours d’attente d’activité de réponse.</li>
-   <li>Ouverture de courrier électronique de compte au niveau de la campagne</li>
+   <li>Les ouvertures d’email sont comptabilisées comme ouvertes uniques séparément pour chaque campagne dynamique</li>
    <li>Amélioration du suivi des activités de courrier électronique grâce à l’amélioration de l’emplacement des pixels de suivi</li>
    </td> 
    <td>Expédié</td>

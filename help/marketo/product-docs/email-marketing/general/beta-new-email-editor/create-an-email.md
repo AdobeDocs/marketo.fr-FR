@@ -4,9 +4,9 @@ title: Créer un email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 7%
 
 ---
@@ -222,7 +222,7 @@ CAPTURE D’ÉCRAN
 
 ## Référencer un email {#reference-an-email}
 
-Après avoir créé un email dans le nouvel éditeur, vous pouvez le référencer dans les campagnes dynamiques ou les listes dynamiques comme vous le feriez avec tout autre email.
+Après avoir créé un email dans le nouvel éditeur, vous pouvez le référencer dans les campagnes dynamiques et/ou les listes dynamiques comme vous le feriez avec tout autre email.
 
 * Référencez-le dans une liste dynamique en [ suivant les étapes habituelles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
