@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9370'
 ht-degree: 4%
 
 ---
@@ -1100,10 +1100,9 @@ ht-degree: 4%
             + [Présentation de la journalisation des événements de courrier électronique](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Utilisation de l’éditeur de texte enrichi](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Nouvel éditeur de messagerie Beta {#beta-new-email-editor}
-            + [Créer un email](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
-            + [Créer un modèle de courrier électronique](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [Accès à un courrier électronique](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [Accès à un modèle de courrier électronique](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [Nouvelle présentation de l’éditeur d’email (version bêta)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
+            + [Création d’emails](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
+            + [Modèles d’e-mail](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
          + Création d&#39;un email {#creating-an-email}
             + [Valider un email](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Création d’un message électronique Texte uniquement](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
