@@ -4,16 +4,16 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
-ht-degree: 5%
+source-wordcount: '1271'
+ht-degree: 4%
 
 ---
 
 # Création d’emails {#email-authoring}
 
-Texte d&#39;introduction ici.
+Découvrez comment créer, personnaliser et prévisualiser des emails dans le nouveau Designer Marketo Engage Email.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Les erreurs vous empêchent d’envoyer ou de tester l’email jusqu’à ce qu�
 
 * **La version email du message est vide** : cette erreur se produit lorsque le contenu de l&#39;email n&#39;a pas été configuré.
 
-## Tester votre email
+## Tester votre email {#test-your-email}
 
 Lorsque le contenu de votre message est défini, vous pouvez utiliser des profils de test pour le prévisualiser, envoyer des bons à tirer et contrôler le rendu de votre message sur les clients courants de bureau, de mobile et web. Si vous avez inséré du contenu personnalisé, vous pouvez vérifier son affichage dans le message à l’aide des données de profil de test.
 
