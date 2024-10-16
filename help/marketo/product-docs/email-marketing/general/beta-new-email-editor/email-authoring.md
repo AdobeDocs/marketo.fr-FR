@@ -4,9 +4,9 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 4%
 
 ---
@@ -141,7 +141,7 @@ Choisissez l&#39;un des modèles d&#39;usine pour démarrer la conception de vot
    >
    >Sélectionnez le composant n:n colonne pour définir le nombre de colonnes de votre choix (entre trois et dix). Vous pouvez également définir la largeur de chaque colonne en déplaçant les flèches sous la colonne.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ Choisissez l&#39;un des modèles d&#39;usine pour démarrer la conception de vot
 
 1. Dans la section Contenu , faites glisser les éléments de votre choix sur un ou plusieurs composants de structure.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Chaque composant peut être personnalisé à partir des onglets Paramètres ou Style . Modifiez la police, le style de texte, la marge, etc.
-
-CAPTURE D’ÉCRAN
 
 ### Ajout d’Assets {#add-assets}
 
@@ -261,11 +259,13 @@ Il arrive que vous ne souhaitiez pas activer l’URL de suivi Marketo sur un lie
 
 1. Cliquez sur l&#39;icône Liens pour afficher toutes les URL de votre email.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Cliquez sur l’icône représentant un crayon pour modifier le suivi des liens de votre choix.
 
-   CAPTURE D’ÉCRAN
+1. Cliquez sur la liste déroulante **Type de suivi** et effectuez votre sélection.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ Lorsque le contenu de votre message est défini, vous pouvez utiliser des profil
 
 Pour prévisualiser le contenu de votre email, cliquez sur **Simuler le contenu**, puis ajoutez un profil de test pour vérifier votre message à l’aide des données de profil de test.
 
-CAPTURE D’ÉCRAN
+![](assets/test-your-email-1.png)
 
 ## Référencer un email {#reference-an-email}
 

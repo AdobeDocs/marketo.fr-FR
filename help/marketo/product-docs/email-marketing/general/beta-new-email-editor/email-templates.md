@@ -4,9 +4,9 @@ title: Modèles d’e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 5%
 
 ---
@@ -149,8 +149,6 @@ Choisissez l&#39;un des modèles d&#39;usine pour démarrer la conception de vot
 
 1. Chaque composant peut être personnalisé à partir des onglets Paramètres ou Style . Modifiez la police, le style de texte, la marge, etc.
 
-CAPTURE D’ÉCRAN
-
 ### Ajout d’Assets {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ L’exemple ci-dessous décrit les étapes à suivre pour ajuster la marge inté
 
 ### Personnaliser le contenu {#personalize-content}
 
-Les jetons fonctionnent dans le nouvel éditeur de la même manière que dans l’ancien, mais l’icône est différente.
+Les jetons fonctionnent dans le nouvel éditeur de la même manière que dans l’ancien, mais l’icône est différente. L’exemple ci-dessous illustre l’ajout d’un jeton de prénom avec du texte de remplacement.
 
-1. Sélectionnez le composant de texte et cliquez sur l&#39;icône **Ajouter la personnalisation** .
+1. Sélectionnez le composant de texte. Placez le curseur à l’endroit où vous souhaitez que le jeton s’affiche et cliquez sur l’icône **Ajouter une personnalisation** .
 
-   CAPTURE D’ÉCRAN
+   ![](assets/personalize-content-1.png)
 
 1. Cliquez sur le [type de jeton](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} souhaité.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/personalize-content-2.png)
 
-1. Cliquez sur + ou ... pour ajouter un jeton à l’espace vide.
+1. Recherchez le jeton souhaité et cliquez sur l’icône **...** (cliquez sur l’icône + pour ajouter un jeton sans texte de secours).
 
-   CAPTURE D’ÉCRAN
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Texte de rechange&quot; est le nouveau terme de l’éditeur pour la valeur par défaut. Exemple : ``{{lead.First Name:default=Friend}}``
+   >&quot;Texte de rechange&quot; est le nouveau terme de l’éditeur pour la valeur par défaut. Exemple : ``{{lead.First Name:default=Friend}}``. Il est recommandé si la personne n’a pas de valeur dans le champ que vous choisissez.
 
-1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Définissez votre texte de secours et cliquez sur **Ajouter**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Cliquez sur **Enregistrer**.
 
 ### Modifier le suivi des URL {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ Il arrive que vous ne souhaitiez pas activer l’URL de suivi Marketo sur un lie
 
 1. Cliquez sur l&#39;icône Liens pour afficher toutes les URL de votre email.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/edit-url-tracking-1.png)
 
 1. Cliquez sur l’icône représentant un crayon pour modifier le suivi des liens de votre choix.
 
-   CAPTURE D’ÉCRAN
+1. Cliquez sur la liste déroulante **Type de suivi** et effectuez votre sélection.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?
