@@ -4,9 +4,9 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1474'
 ht-degree: 4%
 
 ---
@@ -196,14 +196,38 @@ Une fois prêt, cliquez sur Enregistrer .
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Ouvrez l’arborescence de navigation pour accéder à des structures spécifiques et à leurs colonnes/composants afin d’effectuer des modifications plus granulaires.
+Ouvrez l’arborescence de navigation pour accéder à des structures spécifiques et à leurs colonnes/composants afin d’effectuer des modifications plus granulaires. Pour y accéder, cliquez sur l&#39;icône Arborescence de navigation .
 
-1. Pour y accéder, cliquez sur l&#39;icône Arborescence de navigation .
+![](assets/authoring-layers-settings-styles-1.png)
 
-CAPTURE D’ÉCRAN
+L’exemple ci-dessous décrit les étapes à suivre pour ajuster la marge intérieure et l’alignement vertical à l’intérieur d’un composant de structure composé de colonnes.
 
+1. Sélectionnez la colonne dans le composant de structure directement dans la zone de travail ou à l’aide de l’_Arborescence de navigation_ affichée à gauche.
 
+1. Dans la barre d&#39;outils des colonnes, cliquez sur l&#39;outil _[!UICONTROL Sélectionner une colonne]_ et choisissez celle que vous souhaitez modifier.
 
+   Vous pouvez également la sélectionner dans l&#39;arborescence. Les paramètres modifiables pour cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ à droite.
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. Pour modifier les propriétés de colonne, cliquez sur l’onglet _[!UICONTROL Styles]_ à droite et modifiez-les selon vos besoins :
+
+   * Pour **[!UICONTROL Background]**, modifiez la couleur d’arrière-plan selon les besoins.
+
+     Décochez la case pour un arrière-plan transparent. Activez le paramètre **[!UICONTROL Image d&#39;arrière-plan]** pour utiliser une image comme arrière-plan au lieu d&#39;une couleur unie.
+
+   * Pour **[!UICONTROL Alignement]**, sélectionnez l’icône _Haut_, _Milieu_ ou _Bas_.
+   * Pour **[!UICONTROL Marge intérieure]**, définissez la marge intérieure de tous les côtés.
+
+     Sélectionnez **[!UICONTROL Remplissage différent pour chaque côté]** si vous souhaitez ajuster la marge intérieure. Cliquez sur l’icône _Verrouiller_ pour interrompre la synchronisation.
+
+   * Développez la section **[!UICONTROL Avancé]** pour définir des styles intégrés pour la colonne.
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. Répétez ces étapes si nécessaire pour ajuster l’alignement et la marge intérieure des autres colonnes du composant.
+
+1. Enregistrez vos modifications.
 
 ### Personnaliser le contenu {#personalize-content}
 

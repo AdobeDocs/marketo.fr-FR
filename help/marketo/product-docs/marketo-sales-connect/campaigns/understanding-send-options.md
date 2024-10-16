@@ -4,7 +4,7 @@ description: Présentation des options d’envoi - Documents Marketo - Documenta
 title: Présentation des options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ Pour tous les jours/étapes suivants de votre campagne, vous disposez des option
 **Passez cet email à l&#39;email précédent**
 
 * Cette option d’envoi sera un &quot;relance&quot; de votre email précédent et ajoutera le corps de l’email précédent au bas de cet email.
+
