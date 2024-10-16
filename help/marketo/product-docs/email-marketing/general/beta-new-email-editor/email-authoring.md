@@ -4,10 +4,10 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
-ht-degree: 4%
+source-wordcount: '1259'
+ht-degree: 5%
 
 ---
 
@@ -43,9 +43,9 @@ C&#39;est tout. Il est maintenant temps de concevoir votre email.
 
 ## Choisissez votre type de contenu {#choose-your-content-type}
 
-1. Dans l&#39;email que vous venez de créer, cliquez sur **+ Ajouter le contenu de l&#39;email**.
+1. Dans l&#39;email que vous venez de créer, cliquez sur **Ajouter le contenu de l&#39;email**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/choose-your-content-type-1.png)
 
 1. La page _Créer votre email_ se charge. Vous pouvez choisir parmi plusieurs options :
 
@@ -83,11 +83,9 @@ Vous pouvez importer du contenu d&#39;HTML existant pour concevoir votre email. 
 
 1. Dans la page Concevoir votre modèle, sélectionnez **Importer l&#39;HTML**.
 
-   CAPTURE D’ÉCRAN
+1. Faites glisser et déposez le fichier d’HTML ou .zip souhaité (ou sélectionnez un fichier sur votre ordinateur) et cliquez sur **Importer**.
 
-1. Faites glisser et déposez le fichier d’HTML ou .zip de votre choix, puis cliquez sur **Importer**.
-
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ Deux types de modèles sont proposés.
 
 >[!TAB Exemples de modèles]
 
-Choisissez l&#39;un de nos modèles d&#39;usine pour démarrer rapidement votre conception d&#39;email.
+Choisissez l&#39;un des modèles d&#39;usine pour démarrer la conception de votre modèle d&#39;email.
 
-1. Dans la page Créer votre email, sélectionnez **Exemples de modèles**.
+1. L’onglet Exemples de modèles est ouvert par défaut.
 
-   CAPTURE D’ÉCRAN
+1. Sélectionnez le modèle à utiliser.
 
-1. Sélectionnez le modèle de votre choix.
+   ![](assets/authoring-sample-templates-1.png)
 
-   CAPTURE D’ÉCRAN
+1. Cliquez sur **Utiliser ce modèle**.
 
-1. Un aperçu s’affiche. Pour confirmer votre sélection, cliquez sur **Utiliser ce modèle**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   CAPTURE D’ÉCRAN
+1. Modifiez le contenu suivant vos besoins à l’aide du concepteur de contenu visuel.
 
 >[!TAB Modèles enregistrés]
 
-Sélectionnez l’un de vos modèles créés précédemment.
+1. Cliquez sur l’onglet **Modèles enregistrés** et sélectionnez le modèle de votre choix.
 
-1. Dans la page Créer votre email, sélectionnez **Modèles enregistrés**.
+   ![](assets/authoring-saved-templates-1.png)
 
-   CAPTURE D’ÉCRAN
+1. Cliquez sur **Utiliser ce modèle**.
 
-1. Sélectionnez le modèle de votre choix.
+   ![](assets/authoring-saved-templates-2.png)
 
-   CAPTURE D’ÉCRAN
-
-1. Un aperçu s’affiche. Pour confirmer votre sélection, cliquez sur **Utiliser ce modèle**.
-
-   CAPTURE D’ÉCRAN
+1. Modifiez le contenu suivant vos besoins à l’aide du concepteur de contenu visuel.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ CAPTURE D’ÉCRAN
 
 ### Personnaliser le contenu {#personalize-content}
 
-Les jetons fonctionnent dans le nouvel éditeur de la même manière que dans l’ancien, mais l’icône est différente.
+Les jetons fonctionnent dans le nouvel éditeur de la même manière que dans l’ancien, mais l’icône est différente. L’exemple ci-dessous illustre l’ajout d’un jeton de prénom avec du texte de remplacement.
 
-1. Sélectionnez le composant de texte et cliquez sur l&#39;icône **Ajouter la personnalisation** .
+1. Sélectionnez le composant de texte. Placez le curseur à l’endroit où vous souhaitez que le jeton s’affiche et cliquez sur l’icône **Ajouter une personnalisation** .
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Cliquez sur le [type de jeton](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} souhaité.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Cliquez sur + ou ... pour ajouter un jeton à l’espace vide.
+1. Recherchez le jeton souhaité et cliquez sur l’icône **...** (cliquez sur l’icône + pour ajouter un jeton sans texte de secours).
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Texte de rechange&quot; est le nouveau terme de l’éditeur pour la valeur par défaut. Exemple : ``{{lead.First Name:default=Friend}}``
+   >&quot;Texte de rechange&quot; est le nouveau terme de l’éditeur pour la valeur par défaut. Exemple : ``{{lead.First Name:default=Friend}}``. Il est recommandé si la personne n’a pas de valeur dans le champ que vous choisissez.
 
-1. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Définissez votre texte de secours et cliquez sur **Ajouter**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Cliquez sur **Enregistrer**.
 
 ### Modifier le suivi des URL {#edit-url-tracking}
 

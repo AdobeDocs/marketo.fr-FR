@@ -4,16 +4,16 @@ title: Modèles d’e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
-ht-degree: 6%
+source-wordcount: '1592'
+ht-degree: 7%
 
 ---
 
 # Modèles d’e-mail {#email-templates}
 
-Texte d&#39;introduction ici.
+Pour accélérer et améliorer le processus de conception, vous pouvez créer des modèles d’email autonomes pour réutiliser facilement du contenu personnalisé.
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ Texte d&#39;introduction ici.
 
 Dans la page _Concevoir votre modèle_ , vous pouvez choisir parmi quelques options. [Conception à partir de zéro](#design-from-scratch), [importez votre propre HTML](#import-html) ou [sélectionnez un modèle existant](#choose-a-template) (l’un de nos exemples ou celui que vous avez déjà enregistré).
 
+![](assets/design-your-template-1.png)
+
 ### Créer en partant de zéro {#design-from-scratch}
 
 Définissez votre contenu en ajoutant et en déplaçant des éléments structurels à l’aide d’actions de glisser-déposer simples.
 
 1. Sur la page _Concevez votre modèle_, sélectionnez **Concevoir à partir de zéro**.
-
-   CAPTURE D’ÉCRAN
 
 1. Ajoutez [structure et contenu](#add-structure-and-content).
 
@@ -71,11 +71,9 @@ Vous pouvez importer du contenu d’HTML existant pour concevoir vos modèles d�
 
 1. Dans la page _Concevoir votre modèle_, sélectionnez **Importer l&#39;HTML**.
 
-   CAPTURE D’ÉCRAN
+1. Faites glisser et déposez le fichier d’HTML ou .zip souhaité (ou sélectionnez un fichier sur votre ordinateur) et cliquez sur **Importer**.
 
-1. Faites glisser et déposez le fichier d’HTML ou .zip de votre choix, puis cliquez sur **Importer**.
-
-   CAPTURE D’ÉCRAN
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ Deux types de modèles sont proposés.
 
 >[!TAB Exemples de modèles]
 
-Choisissez l&#39;un des quatre modèles d&#39;usine pour démarrer rapidement votre conception de modèle d&#39;email.
+Choisissez l&#39;un des modèles d&#39;usine pour démarrer la conception de votre modèle d&#39;email.
 
-1. Sélectionnez Exemples de modèles .
+1. L’onglet Exemples de modèles est ouvert par défaut.
 
-   CAPTURE D’ÉCRAN
+1. Sélectionnez le modèle à utiliser.
 
-1. Texte.
+   ![](assets/sample-templates-1.png)
 
-   CAPTURE D’ÉCRAN
+1. Cliquez sur **Utiliser ce modèle**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Modifiez le contenu suivant vos besoins à l’aide du concepteur de contenu visuel.
 
 >[!TAB Modèles enregistrés]
 
-1. Sélectionnez Modèles enregistrés.
+1. Cliquez sur l’onglet **Modèles enregistrés** et sélectionnez le modèle de votre choix.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/saved-templates-1.png)
 
-1. Texte.
+1. Cliquez sur **Utiliser ce modèle**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/saved-templates-2.png)
+
+1. Modifiez le contenu suivant vos besoins à l’aide du concepteur de contenu visuel.
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ Choisissez l&#39;un des quatre modèles d&#39;usine pour démarrer rapidement vo
    >
    >Sélectionnez le composant n:n colonne pour définir le nombre de colonnes de votre choix (entre trois et dix). Vous pouvez également définir la largeur de chaque colonne en déplaçant les flèches sous la colonne.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ Choisissez l&#39;un des quatre modèles d&#39;usine pour démarrer rapidement vo
 
 1. Dans la section Contenu , faites glisser les éléments de votre choix sur un ou plusieurs composants de structure.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/add-structure-and-content-2.png)
 
 1. Chaque composant peut être personnalisé à partir des onglets Paramètres ou Style . Modifiez la police, le style de texte, la marge, etc.
 
@@ -194,6 +198,30 @@ Ouvrez l’arborescence de navigation pour accéder à des structures spécifiqu
 
 CAPTURE D’ÉCRAN
 
+
+L&#39;exemple ci-dessous montre comment ajuster la marge intérieure et l&#39;alignement vertical à l&#39;intérieur d&#39;un composant de structure composé de trois colonnes.
+
+Sélectionnez le composant de structure directement dans l&#39;email ou à l&#39;aide de l&#39;arborescence de navigation disponible dans le menu de gauche.
+
+Dans la barre d’outils, cliquez sur Sélectionner une colonne et choisissez celle que vous souhaitez modifier. Vous pouvez également la sélectionner dans l&#39;arborescence.
+
+Les paramètres éditables pour cette colonne sont affichés dans l&#39;onglet Styles .
+
+
+
+Sous Alignement, sélectionnez Haut, Milieu ou Bas.
+
+
+
+Sous Marge intérieure, définissez la marge intérieure pour tous les côtés.
+
+Sélectionnez une marge intérieure différente pour chaque côté si vous souhaitez affiner la marge intérieure. Cliquez sur l’icône représentant un verrou pour interrompre la synchronisation.
+
+
+
+Procédez de la même façon pour ajuster l’alignement et la marge intérieure des autres colonnes.
+
+Enregistrez vos modifications.
 
 
 
