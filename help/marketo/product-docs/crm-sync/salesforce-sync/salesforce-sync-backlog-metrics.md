@@ -4,30 +4,26 @@ title: Mesures de journal de synchronisation Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 38929abef0f64762c92b153630ce75373ba7a300
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
 # Mesures de journal de synchronisation Salesforce  {#salesforce-sync-backlog-metrics}
 
-Le journal de synchronisation représente les enregistrements en attente de synchronisation de Salesforce vers Marketo Engage, et vice versa. S’assurer que les retards restent sous contrôle permettra des synchronisations régulières et opportunes.
-
->[!NOTE]
->
->Le journal des travaux en souffrance couvre les nombres en attente de post-mises à jour de synchronisation de part et d’autre, et non ceux qui sont effectués par des étapes de flux de synchronisation telles que les étapes de flux [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} ou [Synchroniser la personne avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} .
+Le journal de synchronisation est le nom utilisé pour les enregistrements en attente de synchronisation. Il tient compte des enregistrements en attente de synchronisation de Salesforce vers Marketo Engage, et vice versa. S’assurer que le retard reste sous contrôle entraînera des synchronisations régulières et temporelles. Le journal des logs couvre les nombres en attente de mises à jour de publication de synchronisation de part et d’autre, et non ceux qui sont effectués par les étapes de flux de synchronisation, telles que les étapes de flux Piste de synchronisation vers SFDC .
 
 ## Accès {#how-to-access}
 
 1. En Marketo Engage, accédez à la zone **Admin**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/salesforce-sync-backlog-metrics-1.png)
 
 1. Sélectionnez **Salesforce**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/salesforce-sync-backlog-metrics-2.png)
 
 ## Tendance du journal de synchronisation {#sync-backlog-trend}
 
@@ -35,7 +31,7 @@ La tendance des retards reflète les changements dans les retards enregistrés a
 
 Le journal est observé à un intervalle de temps de 4 heures spécifique sur l’axe X. Cette valeur est destinée à tous les objets synchronisés. Il s’agit du total du journal dans Salesforce et Marketo Engage en attente de synchronisation.
 
-CAPTURE D’ÉCRAN
+![](assets/salesforce-sync-backlog-metrics-3.png)
 
 ## Débit de synchronisation et journal des transactions {#sync-throughput-and-backlog}
 
@@ -45,7 +41,7 @@ Les statistiques reflètent l’état du débit et du journal des travaux pour c
 >
 >Les statistiques sont mises à jour sur une base variable et non par jour calendaire.
 
-CAPTURE D’ÉCRAN
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -95,14 +91,18 @@ Lorsqu’un grand nombre de mises à jour sont effectuées (par exemple à parti
 
 ## Bonnes pratiques pour la gestion des retards de synchronisation {#best-practices}
 
-**Champs sous synchronisation** : assurez-vous que les champs sous-synchronisés ne sont que ceux qui doivent être synchronisés. Les modifications apportées aux champs augmentent le journal de synchronisation et les champs de priorité inférieure peuvent arrêter ou ralentir les champs plus importants sous synchronisation. Pour supprimer les champs synchronisés, contactez le [support Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+**Champs visibles à l’utilisateur de synchronisation** : assurez-vous que les champs visibles à synchroniser sont uniquement ceux qui doivent être synchronisés et qui ont une valeur pour les efforts de marketing. Toute mise à jour d’un enregistrement dans Salesforce qui met à jour l’horodatage de la dernière modification met en file d’attente un enregistrement dans le journal de synchronisation, et la synchronisation des champs inutiles peut ralentir les champs plus importants en cours de synchronisation. Si les champs superflus sont masqués à l’utilisateur de synchronisation, les mises à jour de ces champs entraînent un saut beaucoup plus rapide qu’une mise à jour. Contactez votre administrateur Salesforce pour consulter les bonnes pratiques et mettre à jour les champs visibles par l’utilisateur de synchronisation Marketo.
 
-**Champs sensibles** : certains champs sont sujets à de fréquentes mises à jour (par exemple, les champs de devise sujets à des modifications de devise). Vérifiez si ces champs doivent être synchronisés ou s’ils doivent être conçus différemment.
+**Masquer ou filtrer les enregistrements inutiles** : si un enregistrement n’est pas commercialisable, il se peut qu’il gaspille des ressources de synchronisation. Si l’utilisateur de synchronisation ne peut pas le voir, il ne gaspillera pas de ressources en essayant de le synchroniser. [ La prise en charge des Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} peut vous aider à configurer un filtre de synchronisation afin d’empêcher les enregistrements de se synchroniser en fonction de critères supplémentaires. Vous trouverez plus d’informations sur la configuration d’un filtre de synchronisation personnalisé [ ici](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Il est vivement recommandé d’utiliser les champs d’index dans Salesforce (contactez Salesforce pour plus d’informations).
 
-**Objets personnalisés** : passez régulièrement en revue les objets personnalisés en cours de synchronisation et supprimez ceux qui n’ont plus besoin d’être synchronisés.
+**Planifiez les mises à jour en masse pendant les heures non critiques** : vérifiez vos modèles de synchronisation des données pour identifier les périodes non critiques. Vérifiez si des mises à jour en masse peuvent être planifiées au cours de ces périodes non critiques si possible.
 
-**Activités** : vérifiez s’il existe des activités en cours de synchronisation qui peuvent être supprimées de la synchronisation.
+**Champs fréquemment mis à jour** : certains champs sont sujets à de fréquentes mises à jour. Par exemple, les champs de devise qui font l’objet de modifications de devise. Vérifiez si ces champs doivent être synchronisés ou s’ils doivent être conçus différemment. Si d’autres champs sont fréquemment mis à jour et ne sont pas nécessaires, masquez-les à l’utilisateur de synchronisation. Veillez à discuter avec vos intégrations d’administration SFDC qui peuvent mettre à jour des champs.
 
-**Planifiez les mises à jour en masse pendant les heures non critiques** : vérifiez vos modèles de synchronisation des données pour identifier les périodes non critiques. Vérifiez si des mises à jour en masse peuvent être planifiées pendant ces périodes non critiques.
+**Objets personnalisés** : consultez régulièrement les [objets personnalisés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} activés pour la synchronisation et la désactivation de ceux qui n’ont plus besoin d’être synchronisés.
 
-Si vous suivez toutes les bonnes pratiques ci-dessus et que vous rencontrez toujours des retards importants, contactez le [support Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+**Activités** : [Vérifiez si une synchronisation activée pour les activités](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} peut être supprimée de la synchronisation.  Ces activités ne se synchronisent qu’une fois par jour et par piste.
+
+**Réviser les erreurs de synchronisation** : la gestion des exceptions peut ralentir la synchronisation. La révision des notifications utilisateur et la résolution des erreurs peuvent améliorer l’intégrité de la synchronisation.
+
+**Contactez l’assistance** : si vous suivez toutes les bonnes pratiques ci-dessus et que vous rencontrez toujours des retards importants, contactez l’[assistance Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}.
