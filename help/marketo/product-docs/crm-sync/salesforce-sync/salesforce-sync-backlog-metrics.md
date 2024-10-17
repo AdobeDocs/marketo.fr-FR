@@ -2,9 +2,9 @@
 description: Mesures de journal de synchronisation Salesforce - Documents Marketo - Documentation du produit
 title: Mesures de journal de synchronisation Salesforce
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Lorsqu’un grand nombre de mises à jour sont effectuées (par exemple à parti
 
 ## Bonnes pratiques pour la gestion des retards de synchronisation {#best-practices}
 
-**Champs visibles à l’utilisateur de synchronisation** : assurez-vous que les champs visibles à synchroniser sont uniquement ceux qui doivent être synchronisés et qui ont une valeur pour les efforts de marketing. Toute mise à jour d’un enregistrement dans Salesforce qui met à jour l’horodatage de la dernière modification met en file d’attente un enregistrement dans le journal de synchronisation, et la synchronisation des champs inutiles peut ralentir les champs plus importants en cours de synchronisation. Si les champs superflus sont masqués à l’utilisateur de synchronisation, les mises à jour de ces champs entraînent un saut beaucoup plus rapide qu’une mise à jour. Contactez votre administrateur Salesforce pour consulter les bonnes pratiques et mettre à jour les champs visibles par l’utilisateur de synchronisation Marketo.
+**Champs visibles à l’utilisateur de synchronisation** : assurez-vous que les champs visibles à synchroniser sont uniquement ceux qui doivent être synchronisés et qui ont une valeur pour les efforts de marketing. Toute mise à jour d’un enregistrement dans Salesforce qui met à jour l’horodatage de la dernière modification met en file d’attente un enregistrement dans le journal de synchronisation, et la synchronisation des champs inutiles peut ralentir les champs plus importants en cours de synchronisation. Si les champs superflus sont masqués à l’utilisateur de synchronisation, les mises à jour de ces champs entraînent un saut beaucoup plus rapide qu’une mise à jour. Contactez votre administrateur Salesforce pour passer en revue les bonnes pratiques [ici](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} et mettre à jour les champs visibles par l’utilisateur de synchronisation Marketo.
 
 **Masquer ou filtrer les enregistrements inutiles** : si un enregistrement n’est pas commercialisable, il se peut qu’il gaspille des ressources de synchronisation. Si l’utilisateur de synchronisation ne peut pas le voir, il ne gaspillera pas de ressources en essayant de le synchroniser. [ La prise en charge des Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} peut vous aider à configurer un filtre de synchronisation afin d’empêcher les enregistrements de se synchroniser en fonction de critères supplémentaires. Vous trouverez plus d’informations sur la configuration d’un filtre de synchronisation personnalisé [ ici](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Il est vivement recommandé d’utiliser les champs d’index dans Salesforce (contactez Salesforce pour plus d’informations).
 
