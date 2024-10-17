@@ -4,9 +4,9 @@ description: Configuration de protocoles pour Marketo Engage - Documentation du 
 title: Configuration de protocoles pour Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
+source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
 workflow-type: tm+mt
-source-wordcount: '2149'
+source-wordcount: '2147'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,6 @@ Lorsque votre groupe marketing utilise Marketo Engage pour envoyer des emails de
 
 Ajoutez les adresses IP suivantes à la liste autorisée de votre entreprise :
 
-94.236.119.0/26
-
 103.237.104.0/22
 
 130.248.172.0/24
@@ -112,18 +110,18 @@ Votre équipe marketing doit également vous avoir envoyé les informations DKIM
 
 ## Étape 4 : configuration de DMARC {#set-up-dmarc}
 
-DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) est un protocole d’authentification utilisé pour aider les organisations à protéger leur domaine contre toute utilisation non autorisée. DMARC étend les protocoles d’authentification existants, tels que SPF et DKIM, pour informer les serveurs destinataires des actions qu’ils doivent entreprendre en cas d’échec de l’authentification sur leur domaine. Bien que DMARC soit actuellement facultatif, il est vivement recommandé, car il protège mieux la marque et la réputation de votre entreprise. À compter de février 2024, les principaux fournisseurs tels que Google et Yahoo auront besoin de DMARC pour les expéditeurs en masse.
+DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) est un protocole d’authentification utilisé pour aider les organisations à protéger leur domaine contre toute utilisation non autorisée. DMARC étend les protocoles d’authentification existants, tels que SPF et DKIM, afin d’informer les serveurs des destinataires des actions qu’ils doivent entreprendre en cas d’échec de l’authentification sur leur domaine. Bien que DMARC soit actuellement facultatif, il est vivement recommandé, car il protège mieux la marque et la réputation de votre entreprise. À compter de février 2024, les principaux fournisseurs tels que Google et Yahoo auront besoin de DMARC pour les expéditeurs en masse.
 
-Pour que DMARC fonctionne, vous devez avoir au moins un des enregistrements TXT DNS suivants :
+Pour que DMARC fonctionne, vous devez disposer d’au moins un des enregistrements TXT DNS suivants :
 
 * Un SPF valide
 * Un enregistrement DKIM valide pour votre DE : domaine (recommandé pour le Marketo Engage)
 
 En outre, vous devez disposer d’un enregistrement TXT DNS spécifique à DMARC pour votre domaine FROM : Domain. Vous pouvez éventuellement définir une adresse électronique de votre choix pour indiquer où les rapports DMARC doivent se rendre au sein de votre organisation, afin de pouvoir surveiller les rapports.
 
-Il est recommandé de déployer lentement la mise en oeuvre DMARC en réaffectant votre stratégie DMARC de p=none à p=quarantine, puis de p=reject à mesure que vous comprenez l’impact potentiel de DMARC et de définir votre politique DMARC pour assouplir l’alignement sur SPF et DKIM.
+Il est recommandé de déployer lentement la mise en oeuvre de DMARC en réaffectant la stratégie DMARC de p=none, à p=quarantine, puis à p=reject lorsque vous comprenez l’impact potentiel de DMARC et en définissant votre stratégie DMARC pour relâcher l’alignement sur SPF et DKIM.
 
-### Exemple de workflow DMARC {#dmarc-example-workflow}
+### Exemple de processus DMARC {#dmarc-example-workflow}
 
 1. Si vous êtes configuré pour recevoir des rapports DMARC, procédez comme suit...
 
@@ -145,9 +143,9 @@ Il est recommandé de déployer lentement la mise en oeuvre DMARC en réaffectan
 >
 >Utilisez cette stratégie avec précaution et déterminez si elle convient à votre entreprise.
 
-### Création de rapports DMARC {#dmarc-reporting}
+### Rapports DMARC {#dmarc-reporting}
 
-DMARC permet de recevoir des rapports sur les emails qui échouent SPF/DKIM. Il existe deux rapports différents générés par les services de FAI dans le cadre du processus d’authentification que les expéditeurs peuvent recevoir par le biais des balises RUA/RUF dans leur stratégie DMARC.
+DMARC permet de recevoir des rapports sur les emails qui échouent SPF/DKIM. Il existe deux rapports différents générés par les services de FAI dans le cadre du processus d’authentification que les expéditeurs peuvent recevoir par le biais des balises RUA/RUF de leur stratégie DMARC.
 
 * Rapports d’agrégation (RUA) : ne contient aucune information d’identification personnelle qui serait sensible au RGPD (Règlement général sur la protection des données).
 
@@ -161,7 +159,7 @@ L’utilisation principale de ces rapports consiste à recevoir un aperçu des e
 
 * Enregistrement de la direction vers une adresse électronique pour recevoir des rapports : `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
 
-### Balises DMARC et ce qu’elles font {#dmarc-tags-and-what-they-do}
+### Balises DMARC et leurs actions {#dmarc-tags-and-what-they-do}
 
 Les enregistrements DMARC comportent plusieurs composants appelés balises DMARC. Chaque balise a une valeur qui spécifie un certain aspect de DMARC.
 
@@ -169,7 +167,7 @@ Les enregistrements DMARC comportent plusieurs composants appelés balises DMARC
 <thead>
   <tr>
     <th>Nom de balise </th>
-    <th>Obligatoire/Facultatif </th>
+    <th>Obligatoire / Facultatif </th>
     <th>Fonction </th>
     <th>Exemple </th>
     <th>Valeur par défaut </th>
@@ -178,21 +176,21 @@ Les enregistrements DMARC comportent plusieurs composants appelés balises DMARC
 <tbody>
   <tr>
     <td>v</td>
-    <td>Requis</td>
-    <td>Cette balise DMARC spécifie la version. Il n’existe qu’une seule version à ce jour. Par conséquent, cette valeur sera fixe pour v=DMARC1</td>
+    <td>Obligatoire</td>
+    <td>Cette balise DMARC spécifie la version. Il n’existe qu’une seule version pour l’instant. Par conséquent, cette version aura une valeur fixe v=DMARC1</td>
     <td>V=DMARC1 DMARC1</td>
     <td>DMARC1</td>
   </tr>
   <tr>
     <td>p</td>
-    <td>Requis</td>
-    <td>Affiche la stratégie DMARC sélectionnée et demande au destinataire de signaler, mettre en quarantaine ou rejeter les emails qui ne parviennent pas aux vérifications d’authentification.</td>
+    <td>Obligatoire</td>
+    <td>Affiche la stratégie DMARC sélectionnée et demande au destinataire de signaler, mettre en quarantaine ou rejeter les messages qui ne parviennent pas aux vérifications d’authentification.</td>
     <td>p=aucun, mise en quarantaine ou rejet</td>
     <td>-</td>
   </tr>
   <tr>
     <td>fo</td>
-    <td>En option</td>
+    <td>Facultatif</td>
     <td>Permet au propriétaire du domaine de spécifier des options de création de rapports.</td>
     <td>0 : générer un rapport si tout échoue 
     <br>1 : générer un rapport en cas d’échec 
@@ -202,7 +200,7 @@ Les enregistrements DMARC comportent plusieurs composants appelés balises DMARC
   </tr>
   <tr>
     <td>pct</td>
-    <td>En option</td>
+    <td>Facultatif</td>
     <td>Indique le pourcentage de messages soumis au filtrage.</td>
     <td>pct=20</td>
     <td>100</td>
@@ -223,21 +221,21 @@ Les enregistrements DMARC comportent plusieurs composants appelés balises DMARC
   </tr>
   <tr>
     <td>sp</td>
-    <td>En option</td>
+    <td>Facultatif</td>
     <td>Spécifie la stratégie DMARC pour les sous-domaines du domaine parent.</td>
     <td>sp=reject</td>
     <td>-</td>
   </tr>
   <tr>
     <td>adkim</td>
-    <td>En option</td>
+    <td>Facultatif</td>
     <td>Peut être Strict (s) ou Relaxé ®. Alignement décontracté signifie que le domaine utilisé dans la signature DKIM peut être un sous-domaine de l'adresse "De". Un alignement strict signifie que le domaine utilisé dans la signature DKIM doit correspondre exactement à celui utilisé dans l’adresse de l’expéditeur.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
-    <td>En option</td>
+    <td>Facultatif</td>
     <td>Peut être Strict (s) ou Relaxé ®. Un alignement relâché signifie que le domaine ReturnPath peut être un sous-domaine de l’adresse de l’expéditeur. Un alignement strict signifie que le domaine Return-Path doit correspondre exactement à l’adresse From.</td>
     <td>aspf=r</td>
     <td>r</td>
@@ -249,13 +247,13 @@ Pour plus d’informations sur DMARC et toutes ses options, consultez le site [h
 
 ### DMARC et Marketo Engage {#dmarc-and-marketo-engage}
 
-Il existe deux types d&#39;alignement pour l&#39;alignement DMARC—DKIM et l&#39;alignement SPF.
+Il existe deux types d&#39;alignement pour DMARC : alignement DKIM et alignement SPF.
 
 >[!NOTE]
 >
->Il est recommandé d’effectuer un alignement DMARC sur DKIM par rapport à SPF pour Marketo Engage.
+>Il est recommandé d’aligner DMARC sur DKIM par rapport à SPF pour Marketo Engage.
 
-* DMARC aligné sur DKIM : pour configurer DMARC aligné sur DKIM, vous devez :
+* DMARC aligné sur DKIM : pour configurer un DMARC aligné sur DKIM, vous devez :
 
    * Configurez DKIM pour le formulaire FROM : domaine de votre message. Suivez les instructions [ de cet article ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configuration de DMARC pour le domaine FROM:/DKIM configuré précédemment
@@ -292,7 +290,7 @@ Le Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additiona
 
 **Synchronisation CRM**
 
-Le Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} et [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sont des mécanismes d’intégration qui renvoient des requêtes HTTP aux API publiées par votre fournisseur de gestion de la relation client. Vous devez vous assurer que votre service informatique ne bloque aucun des blocs d’adresses IP ci-dessous pour accéder aux API de votre fournisseur de gestion de la relation client.
+Le Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} et [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sont des mécanismes d’intégration qui effectuent des requêtes HTTP sortantes vers des API publiées par votre fournisseur de gestion de la relation client. Vous devez vous assurer que votre service informatique ne bloque aucun des blocs d’adresses IP ci-dessous pour accéder aux API de votre fournisseur de gestion de la relation client.
 
 **Blocs d’adresses IP sortantes Marketo Engage**
 
