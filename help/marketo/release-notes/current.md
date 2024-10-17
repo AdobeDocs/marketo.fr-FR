@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 6%
 
 ---
@@ -83,6 +83,17 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    </td> 
    <td>Expédié</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapport des performances des e-mails</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Mesures de journal de synchronisation de Salesforce</strong> : surveillez les tendances de débit de synchronisation et de journal de la synchronisation afin de planifier et de planifier des mises à jour CRM pour une expérience de synchronisation optimale.
+   </td> 
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Mesures de journal de synchronisation Salesforce</a></td>
   </tr>
  </tbody> 
 </table>
