@@ -4,7 +4,7 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 4%
@@ -97,9 +97,9 @@ Vous pouvez apporter les modifications souhaitées au contenu importé à l’ai
 
 Deux types de modèles sont proposés.
 
-* Exemples de modèles : Marketo Engage propose quatre modèles d&#39;email d&#39;usine.
+* **Exemples de modèles** : Marketo Engage propose quatre modèles d’email d’usine.
 
-* Modèles enregistrés : il s’agit de modèles entièrement créés à l’aide du menu Modèles ou d’un email que vous avez créé et que vous avez choisi d’enregistrer en tant que modèle.
+* **Modèles enregistrés** : il s’agit de modèles que vous avez créés à partir de zéro à l’aide du menu Modèles ou d’un email que vous avez créé et que vous avez choisi d’enregistrer en tant que modèle.
 
 >[!BEGINTABS]
 
