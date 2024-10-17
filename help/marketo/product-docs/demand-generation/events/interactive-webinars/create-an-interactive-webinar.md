@@ -3,9 +3,9 @@ description: Créer un webinaire interactif - Documents Marketo - Documentation 
 title: Création d’un webinaire interactif
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Créez un webinaire interactif en quelques étapes simples.
    >* Vous ne pouvez pas réutiliser un titre de webinaire. Chacun doit être unique dans votre instance Marketo.
    >
    >* Si vous le souhaitez, vous pouvez modifier le titre du webinaire ultérieurement.
+   >
+   >* Si vous créez un webinaire de test, il doit être supprimé avant son heure de début afin de s’assurer que la licence de ce webinaire n’est pas utilisée.
 
 1. Planifiez la date et l’heure de votre webinaire et cliquez sur **Créer**.
 
