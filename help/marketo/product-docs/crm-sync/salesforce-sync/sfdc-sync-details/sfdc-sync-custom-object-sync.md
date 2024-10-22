@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953471
 description: Synchronisation SFDC - Synchronisation d’objets personnalisés - Documents Marketo - Documentation du produit
-title: Synchronisation SFDC - Synchronisation d’objet personnalisé
+title: Synchronisation SFDC - Synchronisation des objets personnalisés
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    >[!NOTE]
    >
-   >Une synchronisation initiale du schéma d’objet personnalisé Salesforce peut prendre quelques minutes.
+   >Une synchronisation initiale du schéma d’objet personnalisé de Salesforce peut prendre quelques minutes.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -81,7 +81,9 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    >[!NOTE]
    >
-   >Marketo ne prend en charge que les entités personnalisées liées à des entités standard profondes d’un ou deux niveaux.
+   >* Marketo ne prend en charge que les entités personnalisées liées à des entités standard profondes d’un ou deux niveaux.
+   >
+   >* L’arborescence des objets personnalisés peut afficher plusieurs fois le même objet, en raison de ses connexions directes avec l’un des objets principaux (par exemple, les prospects, les contacts, les comptes ou les connexions indirectes via un objet intermédiaire). Dans ce cas, choisissez l’objet le plus proche de l’objet principal et choisissez un seul. Le choix de plusieurs fois d’un même objet peut entraver la synchronisation de cet objet personnalisé.
 
 ### What&#39;s Next : {#whats-next}
 

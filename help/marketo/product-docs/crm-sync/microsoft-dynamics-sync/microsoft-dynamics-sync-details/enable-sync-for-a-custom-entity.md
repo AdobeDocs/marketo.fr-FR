@@ -4,9 +4,9 @@ description: Activer la synchronisation pour une entité personnalisée - Docume
 title: Activation de la synchronisation pour une entité personnalisée
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -67,3 +67,9 @@ Si vous avez besoin que les données d’entité personnalisées de Dynamics soi
 1. N’oubliez pas de réactiver la synchronisation globale !
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo ne prend en charge que les entités personnalisées liées à des entités standard profondes d’un ou deux niveaux.
+   >
+   >* L’arborescence des objets personnalisés peut afficher plusieurs fois le même objet, en raison de ses connexions directes avec l’un des objets principaux (par exemple, les prospects, les contacts, les comptes ou les connexions indirectes via un objet intermédiaire). Dans ce cas, choisissez l’objet le plus proche de l’objet principal et choisissez un seul. Le choix de plusieurs fois d’un même objet peut entraver la synchronisation de cet objet personnalisé.

@@ -3,7 +3,7 @@ description: Migration de la prise en charge des Marketo Engage - Documents Mark
 title: Migration de la prise en charge des Marketo Engage
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
@@ -48,4 +48,4 @@ La migration de l’assistance se produira une fois la migration des utilisateur
 
 ## Vous avez encore des questions ? {#still-have-questions}
 
-Si vous avez encore des questions concernant votre inscription et/ou la migration de votre prise en charge, contactez-nous à l’adresse `marketocares@adobe.com`.
+Si vous avez encore des questions concernant votre inscription et/ou la migration de votre prise en charge, contactez-nous à l’adresse `customercare@marketo.com`.
