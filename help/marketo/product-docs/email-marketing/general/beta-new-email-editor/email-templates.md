@@ -4,7 +4,7 @@ title: Modèles d’e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1728'
 ht-degree: 5%
@@ -156,7 +156,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
 ```
 
 1. Pour accéder à vos images, cliquez sur l’icône Sélecteur de ressources .
@@ -187,7 +187,7 @@ Une fois prêt, cliquez sur Enregistrer .
 ### Calques, paramètres et styles {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH IS CHECKING
 ```
 
 Ouvrez l’arborescence de navigation pour accéder à des structures spécifiques et à leurs colonnes/composants afin d’effectuer des modifications plus granulaires. Pour y accéder, cliquez sur l&#39;icône Arborescence de navigation .
@@ -266,7 +266,7 @@ Il arrive que vous ne souhaitiez pas activer l’URL de suivi Marketo sur un lie
    ```
    LABEL?
    
-   TAGS?
+   TAGS? - NILESH IS LOOKING INTO IT
    ```
 
    <table><tbody>
@@ -342,7 +342,7 @@ Cette action peut être réalisée à partir des éléments suivants :
 * La page de liste _Modèles d’email_ - Cliquez sur l’icône Autres actions (trois points) du modèle d’email souhaité, puis sélectionnez Modifier.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
 ```
 
 Cette action vous conduit à la page _Concevoir votre modèle_ ou à la page de l’éditeur de contenu visuel en fonction du dernier état enregistré du modèle d’email. À partir de là, vous pouvez modifier le contenu de votre modèle d’email selon vos besoins. Voir Création de modèles d’email pour plus d’informations sur les options d’édition.
