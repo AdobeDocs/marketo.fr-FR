@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
+source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
 workflow-type: tm+mt
-source-wordcount: '515'
-ht-degree: 6%
+source-wordcount: '559'
+ht-degree: 5%
 
 ---
 
@@ -100,6 +100,9 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 <br/>
 
 ## Annonces {#announcements}
+
+* **Dépréciation du paramètre access_token de l’API Rest** : le paramètre de requête &#39;access_token&#39; utilisé pour authentifier les appels de l’API REST Marketo est en cours d’abandon et ne sera plus disponible après le 30 juin 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête &#39;Authorization&#39; [, comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+
 
 * **Dépréciation du code QR** : le 4 octobre 2024, la fonctionnalité de code QR utilisée dans les notifications push et les ressources de messagerie in-app sera obsolète. Cela inclut l’utilisation de codes QR pour un nouvel appareil de test, ainsi que la création de nouvelles ressources avec des codes QR. Les fonctionnalités obsolètes avec une utilisation plus faible nous permettent de réaffecter leurs ressources à la maintenance globale de Marketo Engage.
 
