@@ -3,9 +3,9 @@ description: FAQ sur Adobe Identity Management - Documentation Marketo - Documen
 title: FAQ sur Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1484'
 ht-degree: 0%
 
 ---
@@ -129,6 +129,10 @@ Lorsque les abonnements sont intégrés à Adobe Identity, l’authentification 
 **J’ai plusieurs abonnements, mais tous n’ont pas l’authentification unique activée. Que se passe-t-il après la migration des identités des Adobes ?**
 
 Lorsque les abonnements sont intégrés à Adobe Identity, l’authentification unique (SSO) est configurée au niveau de l’organisation Adobe. Cela signifie que l’authentification unique s’applique à toutes les instances de produit dans l’organisation Adobe. Lorsque l’authentification unique est configurée, elle s’applique à toutes les instances Marketo de cette organisation d’Adobe. Auparavant, Marketo prenait en charge ce paramètre au niveau de l’instance. Cela n’est pas pris en charge par Adobe Identity Management System.
+
+**Des modifications sont-elles nécessaires pour les CNAME, SPF ou DKIM que nous utilisons actuellement pour le Marketo Engage après la migration des identités d’Adobe ?**
+
+Non, ces configurations n’ont aucun impact.
 
 **Je dois maintenant accéder à Experience Cloud pour accéder à Marketo Engage. Y a-t-il un moyen de rationaliser ce flux ?**
 
