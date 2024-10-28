@@ -4,9 +4,9 @@ title: Modèles d’e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1683'
 ht-degree: 5%
 
 ---
@@ -81,8 +81,6 @@ Vous pouvez importer du contenu d’HTML existant pour concevoir vos modèles d�
 
 1. Pour pouvoir exploiter les composants de contenu Designer par e-mail, cliquez sur l’onglet **Convertisseur d’HTMLS** et cliquez sur **Convertir**.
 
-   CAPTURE D’ÉCRAN
-
    >[!CAUTION]
    >
    >L’utilisation d’une balise `<table>` comme première couche d’un fichier HTML peut entraîner une perte de style, y compris les paramètres d’arrière-plan et de largeur dans la balise de couche supérieure.
@@ -151,38 +149,23 @@ Choisissez l&#39;un des modèles d&#39;usine pour démarrer la conception de vot
 
 ### Ajout d’Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+Ajoutez des images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance de Marketo Engage.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>Vous pouvez uniquement ajouter des images dans le nouveau concepteur, mais aucun autre type de fichier pour le moment.
 
 1. Pour accéder à vos images, cliquez sur l’icône Sélecteur de ressources .
 
-   CAPTURE D’ÉCRAN
+   ![](assets/add-assets-1.png)
 
 1. Faites glisser et déposez l’image souhaitée dans un composant de structure.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >Pour remplacer une image existante, sélectionnez-la, puis cliquez sur **Sélectionner une ressource** dans l’onglet Paramètres à droite.
-
-Cliquez sur Activer le contenu des conditions pour ajouter du contenu dynamique et adapter le contenu aux profils ciblés selon des règles conditionnelles.
-
-
-
-Si nécessaire, vous pouvez personnaliser davantage votre email en cliquant sur Passer à l’éditeur de code dans le menu avancé. Vous pouvez ainsi modifier le code source de l’email, par exemple pour ajouter des balises d’HTML personnalisées ou de suivi.
-
-ATTENTION
-Vous ne pouvez pas revenir au concepteur visuel de cet email après avoir basculé vers l’éditeur de code.
-
-Une fois votre contenu prêt, cliquez sur le bouton Simuler le contenu pour vérifier le rendu. Vous pouvez choisir la vue bureau ou la vue mobile.
-
-Une fois prêt, cliquez sur Enregistrer .
 
 ### Calques, paramètres et styles {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Tirez parti des options de vue et de validation du contenu disponibles dans l’
 
 À partir des options **Plus** de l’éditeur de contenu, vous pouvez effectuer les actions suivantes :
 
-CAPTURE D’ÉCRAN
+![](assets/more-options-1.png)
 
 * **Réinitialiser le modèle** : sélectionnez cette option pour effacer le canevas visuel du concepteur d’email sur une barre d’outils vide et redémarrer la création de contenu.
 
@@ -307,7 +290,7 @@ CAPTURE D’ÉCRAN
 
 Sur la page de liste _Modèles d&#39;email_, cliquez sur le nom d&#39;un modèle d&#39;email pour afficher ses détails.
 
-CAPTURE D’ÉCRAN
+(assets/view-template-details-1.png
 
 Les détails de base tels que le nom et la description peuvent être modifiés. Cliquez en dehors du champ que vous avez modifié pour enregistrer vos modifications.
 
@@ -323,7 +306,7 @@ Si des alertes sont actives (erreurs/avertissements pour le modèle d&#39;email)
 
 Dans la synthèse du modèle d&#39;email, cliquez sur l&#39;onglet **Utilisé par** pour afficher les détails sur l&#39;emplacement d&#39;utilisation de ce modèle d&#39;email dans Marketo Engage.
 
-CAPTURE D’ÉCRAN
+![](assets/email-template-used-by-references-1.png)
 
 ## Modifier des modèles de courrier électronique {#edit-email-templates}
 
@@ -339,7 +322,7 @@ Il existe deux manières de dupliquer un modèle d&#39;email :
 
 * Dans les détails du modèle d&#39;email sur la droite, cliquez sur **Plus** et sélectionnez **Dupliquer**.
 
-CAPTURE D’ÉCRAN
+  ![](assets/duplicate-email-templates-1.png)
 
 * Sur la page de liste _Modèles d&#39;email_, cliquez sur l&#39;icône Autres actions (trois points) du modèle d&#39;email souhaité et sélectionnez **Dupliquer**.
 
@@ -357,7 +340,7 @@ Il existe deux manières de supprimer un modèle d’email.
 
 * Dans les détails du modèle d&#39;email sur la droite, cliquez sur **Plus** et sélectionnez **Supprimer**.
 
-CAPTURE D’ÉCRAN
+  ![](assets/delete-email-templates-1.png)
 
 * Sur la page de liste _Modèles d&#39;email_, cliquez sur l&#39;icône Autres actions (trois points) du modèle d&#39;email souhaité et choisissez **Supprimer**.
 

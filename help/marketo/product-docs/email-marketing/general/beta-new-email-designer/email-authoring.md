@@ -4,10 +4,10 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1524'
-ht-degree: 4%
+source-wordcount: '1455'
+ht-degree: 3%
 
 ---
 
@@ -155,38 +155,23 @@ Choisissez l&#39;un des modèles d&#39;usine pour démarrer la conception de vot
 
 ### Ajout d’Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+Ajoutez des images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance de Marketo Engage.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>Vous pouvez uniquement ajouter des images dans le nouveau concepteur, mais aucun autre type de fichier pour le moment.
 
 1. Pour accéder à vos images, cliquez sur l’icône Sélecteur de ressources .
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-add-assets-1.png)
 
 1. Faites glisser et déposez l’image souhaitée dans un composant de structure.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >Pour remplacer une image existante, sélectionnez-la, puis cliquez sur **Sélectionner une ressource** dans l’onglet Paramètres à droite.
-
-Cliquez sur Activer le contenu des conditions pour ajouter du contenu dynamique et adapter le contenu aux profils ciblés selon des règles conditionnelles.
-
-
-
-Si nécessaire, vous pouvez personnaliser davantage votre email en cliquant sur Passer à l’éditeur de code dans le menu avancé. Vous pouvez ainsi modifier le code source de l’email, par exemple pour ajouter des balises d’HTML personnalisées ou de suivi.
-
-ATTENTION
-Vous ne pouvez pas revenir au concepteur visuel de cet email après avoir basculé vers l’éditeur de code.
-
-Une fois votre contenu prêt, cliquez sur le bouton Simuler le contenu pour vérifier le rendu. Vous pouvez choisir la vue bureau ou la vue mobile.
-
-Une fois prêt, cliquez sur Enregistrer .
 
 ### Calques, paramètres et styles {#layers-settings-styles}
 
