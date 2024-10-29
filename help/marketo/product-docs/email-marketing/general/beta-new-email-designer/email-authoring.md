@@ -4,7 +4,7 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1455'
 ht-degree: 3%
@@ -17,7 +17,7 @@ Découvrez comment créer, personnaliser et prévisualiser des emails dans le no
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement aux membres de la version bêta du nouveau Designer de messagerie du Marketo Engage. S&#39;il vous plaît, ne diffusez pas.
+>Cet article est destiné uniquement aux membres de la nouvelle version bêta du Designer de messagerie du Marketo Engage. S&#39;il vous plaît, ne diffusez pas.
 
 ## Création d’un e-mail {#create-an-email}
 
