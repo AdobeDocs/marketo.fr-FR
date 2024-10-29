@@ -4,7 +4,7 @@ title: Création d’emails
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
+source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
 workflow-type: tm+mt
 source-wordcount: '1455'
 ht-degree: 3%
