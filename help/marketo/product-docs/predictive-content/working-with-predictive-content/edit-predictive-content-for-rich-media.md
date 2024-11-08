@@ -4,10 +4,10 @@ description: Modifier le contenu prédictif pour le contenu multimédia enrichi 
 title: Modification du contenu prédictif pour le contenu multimédia enrichi
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,10 @@ Voici comment configurer votre contenu prédictif pour les médias riches.
 1. Vous remarquerez que vous pouvez avoir des images distinctes pour Email et Rich Media. Pour ajouter/modifier l’image, collez l’URL de l’image dans sa zone de texte.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >Les images JPEG avec le modèle de couleur CMJN ne sont pas prises en charge pour les médias riches. Les JPEG doivent être convertis en sRVB à l’aide d’un profil colorimétrique. Veillez à choisir ce paramètre lors de l’exportation depuis votre éditeur d’image.
 
 1. Saisissez une **description**.
 
