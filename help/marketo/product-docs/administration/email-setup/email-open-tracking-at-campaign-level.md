@@ -4,10 +4,11 @@ title: Suivi des ouvertures de courriers électroniques au niveau de la campagne
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
+source-git-commit: 6e60b39f12c75269b186573db4120e7dccb119c0
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -42,7 +43,7 @@ Cette fonctionnalité vous permet de contrôler le suivi des ouvertures des emai
   </tr>
   <tr>
     <td><b>Désactivé</b></td>
-    <td>Les ouvertures d’email sont suivies...</td>
+    <td>Les ouvertures de courrier électronique sont comptabilisées uniquement en fonction des ouvertures de personne unique.</td>
   </tr>
 </tbody>
 </table>
