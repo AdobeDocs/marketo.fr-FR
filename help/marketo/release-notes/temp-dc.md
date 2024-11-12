@@ -4,10 +4,10 @@ title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 4%
+source-wordcount: '446'
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Plusieurs améliorations ont été apportées au tableau de bord Analytics, nota
 
 CAPTURE D’ÉCRAN
 
-### Score de conversation
+### Score de conversation {#conversation-scoring}
 
 Quantifiez vos pistes en fonction de la qualité de leur interaction de conversation et utilisez cette mesure comme déclencheur/filtre dans les campagnes dynamiques de Marketo Engage. Utilisez le nouvel attribut _score de conversation_ sur les activités suivantes :
 
@@ -68,3 +68,21 @@ Si une piste remplit un formulaire avec l’email `abc@test.com` et est cookie c
 Ainsi, lorsqu’un visiteur avec cookie abc arrive sur une page et fournit un ID de courrier électronique sous la forme `abc@p.com` :
 
 TABLE
+
+### Optimisation du temps de chargement du flux de conversation {#optimized-conversation-flow-load-time}
+
+Pour améliorer l’expérience utilisateur, un chargeur de minuteur s’affiche maintenant au lieu d’un espace vide pendant le chargement du flux de conversation. CONVERSATION OU CONVERSATION???
+
+**Avant**
+
+GIF
+
+**After**
+
+GIF
+
+### Option d’héritage de la police {#option-to-inherit-font}
+
+En tant qu’utilisateur, je voudrais permettre à mon chatterbot d’hériter directement de la police de la page web où elle est chargée plutôt que de gérer la police de ma marque dans Dynamic Chat.
+
+Remarque : Une fois cette option activée, Chatbot prend la police définie sur la balise body de la page.

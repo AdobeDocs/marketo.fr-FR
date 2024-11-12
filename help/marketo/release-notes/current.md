@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '548'
 ht-degree: 5%
 
 ---
@@ -79,7 +79,6 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <li>Filtrage des personnes supprimées et fusionnées à partir des mesures de performances des emails</li>
    <li>Les emails sont désormais classés comme <i>avorté</i> après trois jours d’attente d’activité de réponse.</li>
    <li>Les ouvertures d’email sont comptabilisées comme ouvertes uniques séparément pour chaque campagne dynamique</li>
-   <li>Amélioration du suivi des activités de courrier électronique grâce à l’amélioration de l’emplacement des pixels de suivi</li>
    </td> 
    <td>Expédié</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapport des performances des e-mails</a></td>
