@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 5%
+source-wordcount: '507'
+ht-degree: 4%
 
 ---
 
@@ -32,19 +32,9 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
    <th style="width:25%">Documentation</th>
   </tr>
     <tr> 
-   <td><strong>Tableau de bord des données d’enregistrement améliorées dans l’engagement pour les webinaires interactifs</strong> : Vous pouvez désormais voir quelles entreprises ont eu le plus de fréquentation et obtenir que l’entreprise, le titre et le secteur soient mis à jour au niveau de l’avance dans les rapports disponibles dans le tableau de bord de l’engagement.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>Tokenization for Interactive Webinars</strong> : vous pouvez désormais utiliser des jetons pour promouvoir des webinaires interactifs dans des emails et des landing pages sans avoir à ajouter manuellement les détails du webinaire.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promotion d’un webinaire interactif</a></td>
   </tr>
   <tr> 
    <td> </td> 
