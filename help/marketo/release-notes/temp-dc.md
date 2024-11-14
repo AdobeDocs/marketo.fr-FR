@@ -4,7 +4,8 @@ title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
+source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 3%
@@ -65,7 +66,7 @@ Si une piste remplit un formulaire avec l’email `abc@test.com` et est cookie c
 
 À partir de ce moment, `abc@test.com` sera une piste sans cookie. LEAD ANONYME??
 
-Ainsi, lorsqu’un visiteur avec cookie abc arrive sur une page et fournit un ID de courrier électronique sous la forme `abc@p.com` :
+Ainsi, lorsqu’un visiteur avec cookie abc arrive sur une page et fournit un ID de courrier électronique sous la forme `abc@test.com` :
 
 TABLE
 
