@@ -4,7 +4,7 @@ description: Champion/Challenger - Définir des critères de champion - Document
 title: Champion/Challenger - Définir les critères de champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
    >
    >Nous allons effectuer le suivi de cette mesure et vous envoyer un rapport avec les données par courriel.
 
-1. Si vous avez sélectionné l’un des **critères champions** par défaut, passez à la [configuration des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts) !
+1. Si vous avez sélectionné l’un des **critères champions** par défaut, passez à la [configuration des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) !
 
 ## Critères de champion personnalisés {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[Champion/Challenger : Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
