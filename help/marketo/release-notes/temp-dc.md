@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 3%
@@ -46,7 +46,7 @@ Quantifiez vos pistes en fonction de la qualité de leur interaction de conversa
 
 * La valeur de score sera comprise entre 0, 1, 2 et 3 (la valeur par défaut est nulle).
 
-* Une fois la conversation terminée ou supprimée, enregistrez dans l’activité la valeur de notation et publiez qu’elle ne peut pas être modifiée????? (que signifie cette phrase ?)
+* Une fois la conversation terminée ou supprimée, enregistrez dans l’activité la valeur de notation et publiez qu’elle ne peut pas être modifiée.   ????? (que signifie cette phrase ?)
 
 * Définir un score :
 
