@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
+source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 2%
