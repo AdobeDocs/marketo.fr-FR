@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 3%
+source-wordcount: '2427'
+ht-degree: 2%
 
 ---
 
@@ -15,6 +15,134 @@ ht-degree: 3%
 Les versions de Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive du déploiement des fonctionnalités. Parfois, il existe plusieurs versions en un mois. Par conséquent, veuillez consulter régulièrement les informations les plus récentes.
 
 La page des notes de mise à jour standard du Marketo Engage [ se trouve ici ](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version de septembre/octobre 2024 {#sep-oct-release}
+
+### Amélioration de l’analyse des conversations en direct {#enhanced-live-chat-analytics}
+
+Plusieurs améliorations ont été apportées au tableau de bord Analytics, notamment :
+
+* Nombre total de discussions en direct demandées : nombre de visiteurs ayant demandé une &quot;discussion avec l’agent&quot;
+
+* Total des tchats en direct connectés : nombre de visiteurs connectés par rapport au total demandé pour une &quot;conversation avec l’agent&quot;
+
+* Nombre total de demandes de messagerie instantanée manquantes : nombre de visiteurs sans assistance par rapport au total demandé pour une &quot;conversation avec l’agent&quot;
+
+* Durée moyenne de la conversation en minutes : analyse de la &quot;durée moyenne de la conversation&quot; entre les visiteurs et vos agents
+
+* Temps moyen de réponse de l’agent en secondes : analysez le &quot;temps moyen&quot; pris par les agents pour répondre à leurs questions et réponses sur le chat en direct.
+
+* Tableau de bord quotidien : demandes de chat en direct connectées correctement, demandes de chat en direct non exécutées, tri et filtrage des activités de chat en direct récentes
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### Score de conversation {#conversation-scoring}
+
+Quantifiez vos pistes en fonction de la qualité de leur interaction de conversation et utilisez cette mesure comme déclencheur/filtre dans les campagnes dynamiques de Marketo Engage. Utilisez le nouvel attribut _score de conversation_ sur les activités suivantes :
+
+* Engagé dans un dialogue
+* Engagé avec un flux de conversation
+* Engagé avec un agent
+
+**Choses à noter :**
+
+* La valeur de score sera comprise entre 0, 1, 2 et 3 (la valeur par défaut est nulle).
+
+* Une fois la conversation terminée ou supprimée, la valeur de notation ne peut pas être modifiée.
+
+* Définir un score :
+
+   * Dans la boîte de réception de l’agent : au cours d’une conversation en direct, l’agent peut mettre à jour ou définir un score pour la conversation, qui est stocké dans l’activité de conversation.
+
+   * Dans le concepteur de flux, dans la carte d’objectif, l’utilisateur peut mettre à jour ou définir un score pour la conversation.
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### Nouvelle logique de création de piste {#new-lead-creation-logic}
+
+Si une piste remplit un formulaire avec l’email `abc@test.com` et est cookie comme xyz, puis remplit par la suite le même formulaire avec l’email `def@test.com`, un nouvel enregistrement de personne est créé, mais le cookie xyz devient associé à la nouvelle personne et supprimé de la personne `abc@test.com`.
+
+Ainsi, lorsqu’un visiteur avec cookie abc arrive sur une page et fournit un ID de courrier électronique sous la forme `abc@test.com` :
+
+<table><thead>
+  <tr>
+    <th>Visitor</th>
+    <th>Cookie</th>
+    <th>Email fourni</th>
+    <th>Comportement attendu</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Anonyme</td>
+    <td>abc</td>
+    <td>N’existe pas dans la base de données</td>
+    <td>Créer une nouvelle personne</td>
+  </tr>
+  <tr>
+    <td>Anonyme</td>
+    <td>abc</td>
+    <td>Existe dans la base de données</td>
+    <td>Fusionner la personne</td>
+  </tr>
+  <tr>
+    <td>Anonyme</td>
+    <td>xyz</td>
+    <td>Existe dans la base de données</td>
+    <td>Fusionner la personne</td>
+  </tr>
+  <tr>
+    <td>Personne connue</td>
+    <td>abc</td>
+    <td>Identique à la personne existante</td>
+    <td>Mettre à jour la personne</td>
+  </tr>
+  <tr>
+    <td>Personne connue</td>
+    <td>abc</td>
+    <td>Différent de la personne existante</td>
+    <td>S’il existe déjà une personne connue, transférez le cookie et résolvez ce profil. S’il n’existe aucune personne avec cet email, créez un nouvel enregistrement de personne et transférez le cookie.</td>
+  </tr>
+  <tr>
+    <td>Personne connue</td>
+    <td>xyz</td>
+    <td>Identique à la personne existante</td>
+    <td>Ajouter un nouveau cookie à la même personne</td>
+  </tr>
+  <tr>
+    <td>Personne connue</td>
+    <td>xyz</td>
+    <td>Différent de la personne existante</td>
+    <td>ce scénario n’est pas possible comme s’il s’agissait d’un nouveau cookie par   valeur par défaut considérée comme nouveau profil anonyme</td>
+  </tr>
+</tbody></table>
+
+### Optimisation du temps de chargement du flux de conversation {#optimized-conversation-flow-load-time}
+
+Pour améliorer l’expérience utilisateur, un chargeur de fuseaux horaires s’affiche maintenant au lieu d’un espace vide pendant le chargement du flux de conversation.
+
+**Avant**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**After**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### Option d’héritage de la police {#option-to-inherit-font}
+
+Vous pouvez désormais activer le chatterbot pour qu’il hérite directement de la police de la page web où il est hébergé plutôt que de gérer la police de marque dans Dynamic Chat. Lorsque vous activez cette option, le chatterbot prend la police définie sur la balise `<body>` de la page.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Intégration de Demandbase avec Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Les utilisateurs de Demandbase peuvent apporter leur propre licence Demandbase et activer l’intégration. Utilisez les attributs de personne Demandbase pour le ciblage de dialogue, la valorisation de marque conditionnelle et le routage personnalisé.
+
+La résolution de ces valeurs d’attribut par rapport à une personne est effectuée en temps réel et est stockée dans le profil de personne respectif.
 
 ## Version d’août 2024 {#august-release}
 
