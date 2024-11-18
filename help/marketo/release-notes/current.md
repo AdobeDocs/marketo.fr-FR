@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '546'
 ht-degree: 4%
 
 ---
@@ -89,6 +89,8 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
 <br/>
 
 ## Annonces {#announcements}
+
+* **Mise à jour de l’API d’extraction en bloc** : correction d’un problème dans l’API d’extraction en bloc impliquant l’option columnHeaderNames , qui vous permettait de spécifier des noms d’en-tête de colonne personnalisés dans le fichier exporté. Auparavant, les noms d’en-tête de colonne contenant des caractères non ASCII pouvaient devenir corrompus.
 
 * **Dépréciation du paramètre access_token de l’API Rest** : le paramètre de requête &#39;access_token&#39; utilisé pour authentifier les appels de l’API REST Marketo est en cours d’abandon et ne sera plus disponible après le 30 juin 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête &#39;Authorization&#39; [, comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
