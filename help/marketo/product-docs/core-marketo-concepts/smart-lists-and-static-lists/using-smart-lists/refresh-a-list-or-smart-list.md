@@ -4,7 +4,7 @@ description: Actualisation d’une liste ou d’une liste dynamique - Documents 
 title: Actualisation d’une liste ou d’une liste dynamique
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Si vous avez exécuté une liste dynamique et que quelques minutes se sont écou
 
 1. Pour mettre à jour les données dans l’onglet **[!UICONTROL Personnes]** d’une liste dynamique, cliquez sur l’icône d’actualisation.
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. La liste dynamique s’exécute à nouveau et vous présente un jeu de résultats plus récent.
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
