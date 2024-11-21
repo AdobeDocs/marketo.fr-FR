@@ -3,20 +3,20 @@ description: Promotion d’un webinaire interactif - Documents Marketo - Documen
 title: Promotion d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Promotion d’un webinaire interactif {#promoting-an-interactive-webinar}
 
-La promotion d’un webinaire interactif est similaire à la promotion d’un webinaire partenaire via Launchpoint. Lors de la création d’un programme d’événement de webinaire interactif, vous pouvez ajouter des membres à un programme en exécutant une campagne ou en important des membres dans le programme. Pour vérifier les membres qui ont été ajoutés au programme d’événements de webinaires interactifs, cliquez sur l’onglet Membres .
+La promotion d’un webinaire interactif est similaire à la promotion d’un webinaire partenaire via Launchpoint. Lors de la création d’un programme d’événement de webinaire interactif, vous pouvez ajouter des membres en exécutant une campagne ou en important des membres dans le programme. Pour vérifier les membres qui ont été ajoutés au programme d’événements de webinaires interactifs, cliquez sur l’onglet **Membres** .
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Une fois les membres ajoutés ou importés dans le programme, vous pouvez créer une campagne par e-mail dans le programme d’événement webinaire interactif pour envoyer une invitation à tous les membres du programme et modifier leur statut &quot;invité&quot; une fois le message envoyé.
+Une fois les membres ajoutés ou importés, vous pouvez créer une campagne par e-mail dans le programme d’événement webinaire interactif pour envoyer une invitation à tous les membres du programme et définir leur statut sur &quot;invité&quot; une fois le message envoyé.
 
 >[!NOTE]
 >
