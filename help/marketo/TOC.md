@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
 workflow-type: tm+mt
-source-wordcount: '9378'
+source-wordcount: '9379'
 ht-degree: 4%
 
 ---
@@ -684,6 +684,7 @@ ht-degree: 4%
          + Intégrations {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [API Adobe PDF Embed](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
+            + [Demandbase](product-docs/demand-generation/dynamic-chat/integrations/demandbase.md)
          + Chat en direct {#live-chat}
             + [Présentation de la messagerie instantanée](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Boîte de réception de l’agent(e)](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
