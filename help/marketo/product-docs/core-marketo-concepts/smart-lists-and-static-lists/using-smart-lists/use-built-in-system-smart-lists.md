@@ -4,7 +4,7 @@ description: Utilisation de listes dynamiques intégrées/système - Documents M
 title: Utilisation de listes dynamiques intégrées/système
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 7%
@@ -17,15 +17,15 @@ Marketo Engage dispose de listes dynamiques intégrées très utiles. Regardons-
 
 1. Accédez à la **[!UICONTROL base de données]**.
 
-   ![](assets/db.png)
+   ![](assets/use-built-in-system-smart-lists-1.png)
 
 1. Ouvrez le dossier **[!UICONTROL System Smart List]** pour afficher la collection.
 
-   ![](assets/two.png)
+   ![](assets/use-built-in-system-smart-lists-2.png)
 
 1. Pour voir un exemple : sélectionnez **[!UICONTROL Toutes les personnes]**, puis cliquez sur l’onglet **[!UICONTROL Personnes]** .
 
-   ![](assets/three.png)
+   ![](assets/use-built-in-system-smart-lists-3.png)
 
    >[!NOTE]
    >
@@ -33,14 +33,38 @@ Marketo Engage dispose de listes dynamiques intégrées très utiles. Regardons-
 
 Voici un résumé des actions des listes dynamiques intégrées :
 
-| Nom de la liste | Description |
-|---|---|
-| Toutes les personnes | Toutes les personnes dans votre base de données Marketo |
-| Personnes désinscrites | Ces personnes ne peuvent être envoyées que par e-mail opérationnel ; celui-ci est généralement contrôlé par la personne elle-même. |
-| Marketing interrompu | Ces personnes ne peuvent être envoyées que par e-mail opérationnel. En règle générale, c’est vous, marketeur, qui les contrôlez. |
-| Liste de blocage | Ces personnes ne recevront aucun e-mail. |
-| Adresses e-mail renvoyées | Personnes avec une adresse email en échec ou qui rejettent votre email. |
-| Doublons possibles | Personnes pouvant être dupliquées dans la base de données Marketo. |
+<table><thead>
+  <tr>
+    <th>Nom de la liste</th>
+    <th>Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Toutes les personnes</td>
+    <td>Toutes les personnes dans votre base de données Marketo</td>
+  </tr>
+  <tr>
+    <td>Personnes désinscrites</td>
+    <td>Ces personnes ne peuvent être envoyées que par e-mail opérationnel ; celui-ci est généralement contrôlé par la personne elle-même.</td>
+  </tr>
+  <tr>
+    <td>Marketing interrompu</td>
+    <td>Ces personnes ne peuvent être envoyées que par e-mail opérationnel. En règle générale, c’est vous, marketeur, qui les contrôlez.</td>
+  </tr>
+  <tr>
+    <td>Liste de blocage</td>
+    <td>Ces personnes ne recevront aucun e-mail.</td>
+  </tr>
+  <tr>
+    <td>Adresses e-mail renvoyées</td>
+    <td>Personnes avec une adresse email en échec ou qui rejettent votre email.</td>
+  </tr>
+  <tr>
+    <td>Doublons possibles</td>
+    <td>Personnes pouvant être dupliquées dans la base de données Marketo.</td>
+  </tr>
+</tbody>
+</table>
 
 >[!NOTE]
 >
