@@ -3,7 +3,7 @@ description: Glossaire des icônes classiques - Documents Marketo - Documentatio
 title: Glossaire des icônes classiques
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 34%
@@ -140,7 +140,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr> 
    <td><img src="assets/image2015-1-8-16-3a34-3a53.png"> 
     </td> 
-   <td>Localisation</td> 
+   <td>Emplacement</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-16-3a36-3a19.png"> 
@@ -220,7 +220,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </td> 
-   <td>Administrateur</td> 
+   <td>Administration</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png"> 
@@ -331,7 +331,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a39-3a56.png"> 
     </td> 
-   <td>Formulaire</td> 
+   <td>Form</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a40-3a19.png"> 
@@ -381,7 +381,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </td> 
-   <td>Code d'incorporation</td> 
+   <td>Code incorporé</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a40.png"> 
@@ -885,3 +885,4 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   </tr> 
  </tbody> 
 </table>
+ 

@@ -4,7 +4,7 @@ description: Transférer vers un lien d’ami dans les emails - Documents Market
 title: Transférer vers un lien d’ami dans les courriers électroniques
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 L&#39;ajout du lien &quot;Transférer à l&#39;ami&quot; à vos emails permet de suivre les personnes qui ont reçu un email transféré via ce lien, et les ajoute automatiquement en tant que nouvelle personne si elle ne se trouve pas déjà dans la base de données.
 
-Par exemple, supposons que Keith utilise le lien &quot;Transférer à l&#39;ami&quot; pour transférer l&#39;email à une personne inconnue, Mark. Mark est automatiquement ajouté en tant que nouvelle personne, se voit attribuer son propre cookie et toute activité email et web qui lui est associée. Cependant, si Keith utilise le bouton de transfert dans son client de messagerie, Mark reçoit un cookie incorrect en tant que Keith et son activité est consignée comme étant celle de Keith.
+Par exemple, supposons que Keith utilise le lien &quot;Transférer à l’ami&quot; pour transférer l’email à une personne inconnue, Mark. Mark est automatiquement ajouté en tant que nouvelle personne, se voit attribuer son propre cookie et toute activité email et web qui lui est associée. Cependant, si Keith utilise le bouton de transfert dans son client de messagerie, Mark reçoit un cookie incorrect en tant que Keith et son activité est consignée comme étant celle de Keith.
 
 ## Ajout d’un lien à un modèle de courrier électronique {#add-the-link-to-an-email-template}
 
@@ -29,7 +29,7 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à l&#39;ami&
 
 1. Collez le code d’HTML suivant où vous souhaitez que le lien &quot;Transférer vers l’ami&quot; s’affiche (si vous avez besoin d’aide sur cette partie, veuillez contacter votre développeur web) :
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -52,7 +52,7 @@ Par exemple, supposons que Keith utilise le lien &quot;Transférer à l&#39;ami&
    >
    >N&#39;oubliez pas de valider le modèle de brouillon pour appliquer les modifications.
 
-   Désormais, tous les emails qui utilisent ce modèle auront le lien &quot;Transférer à l’ami&quot;. Lorsque le destinataire de l&#39;email clique dessus, il est amené dans une version web de l&#39;email avec la boîte &quot;Transférer à un ami&quot; :
+   Désormais, tous les emails qui utilisent ce modèle auront le lien &quot;Transférer à l’ami&quot;. Lorsque le destinataire de l&#39;email clique dessus, il est redirigé vers une version web de l&#39;email avec la boîte &quot;Transférer à un ami&quot; :
 
    ![](assets/f2afbox.png)
 
@@ -122,9 +122,9 @@ Vous pouvez voir qui a transféré et reçu les emails dans le journal d’activ
 
    ![](assets/sixteen.png)
 
-1. Pour afficher une personne par identifiant, copiez et collez l’**ID de personne** à la fin de l’URL (le début de cette URL dépend de votre instance Marketo) :
+1. Pour afficher une personne par identifiant, copiez et collez l’ **ID de personne** à la fin de l’URL (le début de l’URL dépendra de votre instance Marketo) :
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
@@ -147,4 +147,4 @@ Dans la liste dynamique d’une campagne dynamique, si vous recherchez &quot;for
 
 ## Tester vers l’ami {#test-forward-to-friend}
 
-Pour tester &quot;Transférer à l&#39;ami&quot;, envoyez-vous un email avec le lien de transfert. Assurez-vous de l&#39;envoyer par le biais de l&#39;étape de flux **Envoyer le courrier électronique**, *et non* via **Envoyer le courrier électronique de test**.
+Pour tester &quot;Transférer à l’ami&quot;, envoyez-vous un email avec le lien de transfert. Assurez-vous de l&#39;envoyer par le biais de l&#39;étape de flux **Envoyer le courrier électronique**, *et non* via **Envoyer le courrier électronique de test**.
