@@ -3,9 +3,9 @@ description: Promotion d’un webinaire interactif - Documents Marketo - Documen
 title: Promotion d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Une fois qu’un membre a atteint le statut de programme &quot;enregistré&quot;
 
 Dans les quelques minutes qui suivent l’enregistrement, l’URL du webinaire du membre est renseignée dans l’onglet Membres . Si vous ne parvenez pas à localiser la colonne pour l’URL du webinaire, vérifiez que la colonne a été ajoutée à votre affichage. Il s’agit d’une URL personnalisée permettant à chaque membre enregistré de participer au webinaire à un moment planifié sans nécessiter d’authentification. Les jetons échangés en interne prennent en charge l&#39;authentification des membres.
 
-Vous pouvez utiliser des jetons pour inclure l’URL du webinaire aux membres individuels d’une campagne par e-mail afin de signaler qu’ils ont été enregistrés dans l’événement et d’utiliser l’URL de jointure pour entrer dans le webinaire à l’heure planifiée. Les jetons de calendrier peuvent être utilisés dans la même campagne par e-mail pour garantir que la planification des webinaires peut être ajoutée aux calendriers des membres.
+Vous pouvez utiliser le `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} pour inclure l’URL du webinaire aux membres individuels d’une campagne par e-mail afin de signaler qu’ils ont été enregistrés dans l’événement et d’utiliser l’URL de jointure pour entrer dans le webinaire à l’heure planifiée. Les jetons de calendrier peuvent être utilisés dans la même campagne par e-mail pour garantir que la planification des webinaires peut être ajoutée aux calendriers des membres.
 
 Des liens sont disponibles sur le côté droit de l’onglet Aperçu de votre programme d’événement pour créer une page d’entrée ainsi qu’une campagne par courrier électronique. Le reste des promotions liées à un événement reste identique aux webinaires des partenaires qui utilisent l’intégration Launchpoint.
 
