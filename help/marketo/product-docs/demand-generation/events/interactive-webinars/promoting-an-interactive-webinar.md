@@ -3,7 +3,7 @@ description: Promotion d’un webinaire interactif - Documents Marketo - Documen
 title: Promotion d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
+source-git-commit: 88c1e40734a980b54f9d7f056399cf9ec2e0e100
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -16,7 +16,7 @@ La promotion d’un webinaire interactif est similaire à la promotion d’un we
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Une fois les membres ajoutés ou importés, vous pouvez créer une campagne par e-mail dans le programme d’événement webinaire interactif pour envoyer une invitation à tous les membres du programme et définir leur statut sur &quot;invité&quot; une fois le message envoyé.
+Une fois les membres ajoutés ou importés, vous pouvez créer une campagne par e-mail dans le programme d’événement du webinaire interactif pour envoyer une invitation à tous les membres du programme et définir leur statut sur &quot;invité&quot; une fois le message envoyé.
 
 >[!NOTE]
 >
