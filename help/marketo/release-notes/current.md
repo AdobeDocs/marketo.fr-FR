@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 6%
@@ -41,23 +41,21 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>Annuler l’inscription des personnes inscrites à un événement dans les webinaires interactifs</strong> : désormais, si vous ne souhaitez pas qu’une personne inscrite à votre webinaire le soit pour une raison quelconque, vous pouvez l’annuler. Le workflow supprime l’inscrit du programme d’événement Marketo ainsi que d’Adobe Connect.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>Désactiver les campagnes sur l’archive </strong> : désactivez les campagnes de déclenchement actives et annulez toutes les exécutions par lots planifiées des campagnes dans un dossier lorsqu’il est archivé. Dans la mesure où une vérification des autorisations supplémentaires est effectuée pour les dossiers d’archivage contenant des campagnes actives (Activer la campagne de déclenchement et Planifier la campagne par lots), cette fonctionnalité est désactivée par défaut avec cette version et peut être activée en accédant à <b>Admin</b> &gt; <b>Coffre au trésor</b> dans votre abonnement de Marketo Engage.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
