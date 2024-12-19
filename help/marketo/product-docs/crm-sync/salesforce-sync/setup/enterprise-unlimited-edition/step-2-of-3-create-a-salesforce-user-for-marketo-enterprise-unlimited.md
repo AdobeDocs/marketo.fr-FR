@@ -4,7 +4,7 @@ description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marke
 title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 6%
@@ -158,7 +158,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans l
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
-L’étape 2 sur 2 est terminée.
+L’étape 2 sur 3 est terminée.
 
 >[!NOTE]
 >
