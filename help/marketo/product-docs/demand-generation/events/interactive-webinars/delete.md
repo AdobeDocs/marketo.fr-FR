@@ -2,16 +2,17 @@
 description: Promotion d’un webinaire interactif - Documents Marketo - Documentation du produit
 title: Promouvoir un webinaire interactif
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Promouvoir un webinaire interactif {#promoting-an-interactive-webinar}
 
-La promotion d’un webinaire interactif est similaire à la promotion d’un webinaire partenaire via Launchpoint. Lors de la création d’un programme d’événement de webinaire interactif, vous pouvez ajouter des membres en exécutant une campagne ou en important des membres dans le programme. Pour vérifier les membres qui ont été ajoutés au programme d’événement de webinaires interactifs, cliquez sur l’onglet **[!UICONTROL Membres]**.
+La promotion d’un webinaire interactif est similaire à la promotion d’un webinaire partenaire via Launchpoint. Lors de la création d’un programme d’événement de webinaire interactif, vous pouvez ajouter des membres en exécutant une campagne ou en important des membres dans le programme. Pour vérifier les membres qui ont été ajoutés au programme d’événement de webinaires interactifs, cliquez sur l’onglet **Membres**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ Utilisez des jetons pour promouvoir les webinaires interactifs dans les e-mails 
 
 **Liste des jetons**
 
-<table><thead>
-  <tr>
-    <th>Jeton</th>
-    <th>Définition</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>Nombre maximal de participants qui peuvent participer au webinaire interactif.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>Durée pendant laquelle le webinaire interactif est planifié.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>Date de fin du webinaire interactif planifié.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>Heure de fin planifiée du webinaire interactif.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>URL d’enregistrement générique pouvant être partagée avec l’audience après le webinaire. Cette URL ne permet pas d’assister au webinaire en direct et ne suit pas l’activité de l’audience.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>Langue dans laquelle le webinaire doit être organisé.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>Date de début du webinaire interactif planifié.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>Heure de début planifiée du webinaire interactif.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>Fuseau horaire dans lequel le webinaire interactif est planifié.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>Titre du webinaire interactif visible par l’audience sur le Screens d’entrée du webinaire.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
