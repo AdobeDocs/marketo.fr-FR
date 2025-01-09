@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 7%
 
 ---
 
@@ -61,6 +61,16 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 <br/>
 
 ## Annonces {#announcements}
+
+* **Fonctionnalités sociales obsolètes** : le mercredi 31 juillet 2024, Marketo Engage a commencé à abandonner les fonctionnalités sociales suivantes du produit :
+
+   * Sondages
+   * Réseaux sociaux
+   * Offre de parrainage
+   * Partage de vidéos
+   * Loteries
+
+À ce jour, les utilisateurs n’ont pas pu créer, cloner ni incorporer ces fonctionnalités de réseaux sociaux dans Marketo Engage. Les actifs sociaux existants continuent de fonctionner jusqu’au 31 janvier 2025. Le 1er février 2025, les actifs sociaux cesseront de fonctionner. Les fonctionnalités sociales intégrées aux pages de destination devront être supprimées. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Mise à jour de l’API Get Program Members** : nous avons amélioré l’API [ Get Program Members](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} pour permettre de récupérer l’identifiant des membres du programme. Pour ce faire, ajoutez l’ID à la liste des champs spécifiés dans le paramètre fields de la requête API.
 
