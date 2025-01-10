@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512454
-description: Configuration de la notification push mobile - Documents Marketo - Documentation du produit
-title: Configuration de la notification push mobile
+description: Configuration Des Notifications Push Mobiles - Documents Marketo - Documentation Du Produit
+title: Configurer les notifications push mobiles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
 
 ---
 
-# Configuration de la notification push mobile {#configure-mobile-push-notification}
+# Configurer les notifications push mobiles {#configure-mobile-push-notification}
 
 1. Accédez à la zone **Activités marketing**.
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
-1. Sélectionnez l’application souhaitée. Les plateformes Android et Apple sont activées par défaut.
+1. Sélectionnez l’application de votre choix. Les plateformes Android et Apple sont activées par défaut.
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-1. Si votre message push s’applique à une seule plateforme (par exemple, pour les iPhones), vous pouvez exclure l’autre plateforme en glissant son sélecteur sur Désactivé.
+1. Si votre message push s&#39;applique à une seule plateforme (par exemple, les cas pour iPhone), vous pouvez exclure l&#39;autre plateforme en faisant glisser son sélecteur sur Désactivé.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Saisissez le texte du message ou sélectionnez l’icône de jeton à ajouter. Sélectionnez ensuite une **Appuyez sur Action**.
+1. Saisissez le texte du message ou sélectionnez l’icône de jeton pour ajouter des jetons. Sélectionnez ensuite une **Action de clic**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il existe trois types d’actions Appuyez sur :
+   >Il existe trois types d’actions de clic :
    >
-   >**Lancer l’application** - **Cette application** ouvre la page d’accueil de votre application lorsque la notification est activée. **Personnalisé** utilise un lien profond pour ouvrir d’autres zones de votre application ou de toute autre application à laquelle vous avez le lien (voir [URI de lien profond](#Deeplink) ci-dessous pour plus d’informations).
+   >**Lancer l’application** - **Cette application** ouvre la page d’accueil de votre application lorsque vous appuyez sur la notification. **Personnalisé** utilise un lien profond pour ouvrir d’autres zones de votre application ou de toute autre application vers laquelle vous disposez du lien (voir [URI de lien profond](#deep-link-uris) ci-dessous pour plus de détails).
    >
-   >**Landing Page** - Permet d’accéder à une page d’entrée Marketo spécifiée.
+   >**Page de destination** - vous dirige vers une page de destination Marketo spécifiée.
    >
-   >**URL externe** - Permet d’accéder à une page d’entrée non Marketo.
+   >**URL externe** - vous dirige vers une page de destination autre que Marketo.
 
-1. Pour insérer un lien profond pour une action d’appui personnalisée, cliquez sur Personnalisé et saisissez l’ [URI de lien profond](#Deeplink) dans le champ.
+1. Pour insérer un lien profond pour une action d’appui personnalisée, cliquez sur Personnalisé et saisissez l’[URI du lien profond](#deep-link-uris) dans le champ.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -63,13 +63,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Les jetons apparaissent à l’endroit où vous placez le curseur dans la zone de texte. Vous pouvez utiliser plusieurs jetons.
+   >Des jetons apparaissent à l’endroit où vous placez le curseur dans la zone de texte. Vous pouvez utiliser plusieurs jetons.
 
    ![](assets/image2015-8-10-14-3a48-3a52.png)
 
    >[!NOTE]
    >
-   >Les messages et les actions de Appuyez se présentent de la même manière sur les deux plateformes.
+   >Les messages et les actions de clic auront le même aspect sur les deux plateformes.
 
 1. Pour iOS uniquement, cochez la case pour indiquer à l’application de lire un son à l’arrivée du message. Android lit le son automatiquement.
 
@@ -83,17 +83,17 @@ ht-degree: 0%
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
-Félicitations ! La notification push est maintenant prête à être envoyée.
+Félicitations ! Désormais, la notification push est prête à être envoyée.
 
 ## URI de lien profond {#deep-link-uris}
 
-Lorsque les abonnés cliquent sur un bouton dans un message push, ils peuvent être amenés à la page d’accueil de l’application ou directement à une page spécifique de l’application. Un lien profond est une référence unique à une page spécifique de votre application qui ressemble beaucoup à un lien de site web.
+Lorsque les abonnés cliquent sur un bouton dans un message push, ils peuvent être redirigés vers la page d&#39;accueil de votre application ou directement vers une page spécifique de l&#39;application. Un lien profond est une référence unique à une page spécifique de votre application et ressemble beaucoup à un lien de site web.
 
-Un URI de lien profond se compose de trois parties : nom du schéma, chemin et identifiant. Dans l’exemple ci-dessous, &quot;myappname&quot; est le schéma. &quot;products&quot; est le chemin d’accès, et &quot;violet-chemise&quot; est l’identifiant. Lorsque le client clique, il est dirigé spécifiquement vers l’article &quot;T-shirt violet&quot; dans les pages de produits de votre application.
+Un URI de lien profond est constitué de trois parties : nom du schéma, chemin et identifiant. Dans l’exemple ci-dessous, « myappname » est le schéma. « products » est le chemin d’accès, et « purple-shirt » est l’identifiant. Lorsque le client appuie sur, il est dirigé spécifiquement vers l’élément de chemise violet dans les pages de produits de votre application.
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Cela dit, la structure des liens profonds de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir les URI de lien profond. Demandez donc à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons emplacements. Votre développeur peut [trouver plus d&#39;informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Comme votre développeur dispose de nombreuses options pour définir des URI de lien profond, demandez-lui de vous envoyer les URI (liens) des pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
