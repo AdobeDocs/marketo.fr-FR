@@ -1,29 +1,29 @@
 ---
 unique-page-id: 11372054
-description: Modification de la version texte d’un courrier électronique - Documents Marketo - Documentation du produit
-title: Modification de la version texte d’un courrier électronique
+description: Modification de la version texte d’un e-mail - Documents Marketo - Documentation du produit
+title: Modification de la version texte d’un e-mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
-# Modification de la version texte d’un courrier électronique {#edit-the-text-version-of-an-email}
+# Modification de la version texte d’un e-mail {#edit-the-text-version-of-an-email}
 
-Lorsque vous créez un email, vous souhaitez peut-être que sa version texte soit formulée différemment de la version HTML. Par défaut, Marketo copie automatiquement le contenu texte de tout élément de texte enrichi contenu dans votre email vers la version Texte. Voici comment la modifier.
+Lors de la création d’un e-mail, vous pouvez souhaiter que sa version texte soit libellée différemment de la version HTML. Par défaut, Marketo copie automatiquement le contenu textuel de tout élément de texte enrichi qui se trouve dans votre e-mail vers la version Texte. Voici comment le modifier.
 
 >[!NOTE]
 >
->Il ne s’agit pas d’un article sur la création d’un email texte uniquement. Pour plus d’informations à ce sujet, voir [Création d’un message électronique texte uniquement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>Cet article ne traite pas de la création d’un e-mail texte uniquement. Pour plus d’informations à ce sujet, voir [Créer un e-mail en texte uniquement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Dans l&#39;éditeur d&#39;email, cliquez sur l&#39;onglet **Texte** au bas de l&#39;email.
+1. Dans l’éditeur d’e-mail, cliquez sur l’onglet **Texte** au bas de l’e-mail.
 
    ![](assets/one-5.png)
 
-1. Décochez la case **Copier automatiquement depuis l’HTML** pour apporter des modifications.
+1. Décochez **Copier automatiquement à partir de l’HTML** pour apporter des modifications.
 
    ![](assets/two-5.png)
 
@@ -31,12 +31,14 @@ Lorsque vous créez un email, vous souhaitez peut-être que sa version texte soi
 
    ![](assets/three-4.png)
 
-1. Apportez vos modifications. Une fois que vous avez terminé, fermez simplement l’éditeur ou revenez à la version de l’HTML. Les modifications seront automatiquement enregistrées.
+1. Apportez vos modifications. Une fois que vous avez terminé, il vous suffit de fermer l’éditeur ou de revenir à la version HTML. Les modifications seront enregistrées automatiquement.
 
    ![](assets/four-4.png)
 
-   Si vous n’avez que du contenu statique, le texte sera éditable dans un bloc important (voir à l’étape 3). Si vous disposez d’un contenu dynamique, le texte sera divisé en différentes sections modifiables, comme illustré ci-dessous.
+   Si vous n’avez que du contenu statique, le texte sera modifiable dans un grand bloc (comme indiqué à l’étape 3). Si vous disposez de contenu dynamique, le texte sera divisé en différentes sections modifiables, comme illustré ci-dessous.
 
    ![](assets/five-3.png)
 
-Maintenant vous savez !
+>[!CAUTION]
+>
+>Sélectionner **Copier à partir de l’HTML** ou resélectionner **Copier automatiquement à partir de l’HTML** dans les e-mails contenant du contenu dynamique définit l’indicateur Révisé sur _true_ pour tous les segments dans les versions HTML et Texte de l’e-mail.
