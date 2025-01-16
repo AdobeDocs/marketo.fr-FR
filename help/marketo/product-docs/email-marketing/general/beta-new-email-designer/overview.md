@@ -1,30 +1,35 @@
 ---
-description: Présentation - Documents Marketo - Documentation du produit
+description: Présentation - Documents Marketo - Documentation Du Produit
 title: Vue d’ensemble
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
 
 # Vue d’ensemble {#overview}
 
-Bienvenue dans le nouveau Designer de messagerie de Adobe Marketo Engage.
+Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Engage.
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement aux membres de la nouvelle version bêta du Designer de messagerie du Marketo Engage. S&#39;il vous plaît, ne diffusez pas.
+>Cet article est destiné uniquement aux membres de la nouvelle version bêta de Marketo Engage Email Designer. Merci de ne pas diffuser.
 
-Le nouveau Designer d’email est la dernière innovation en matière de Marketo Engage visant à offrir une expérience repensée de création d’email et de modèle d’email afin d’améliorer la productivité et l’efficacité en fournissant un éditeur de glisser-déposer visuel ainsi que des modèles d’usine standard. Créez facilement des modèles d’email personnalisés sans avoir à dépenser de l’argent pour les fournisseurs.
+>[!PREREQUISITES]
+>
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-Les courriers électroniques créés dans le nouveau concepteur peuvent être utilisés dans les listes dynamiques et les campagnes dynamiques. De nombreuses autres améliorations sont prévues pour que le nouveau concepteur soit encore meilleur.
+La nouvelle Designer d’e-mail est la dernière innovation de Marketo Engage. Elle vise à offrir une expérience de création de modèles d’e-mail et d’e-mail repensée pour améliorer la productivité et l’efficacité en fournissant un éditeur visuel par glisser-déposer avec des modèles prêts à l’emploi. Créez facilement des modèles d’e-mail personnalisés sans avoir à dépenser d’argent pour les fournisseurs.
+
+Les e-mails créés dans le nouveau concepteur peuvent être utilisés dans les listes intelligentes et les campagnes intelligentes. De nombreuses autres améliorations sont prévues pour l’avenir afin de rendre le nouveau concepteur encore meilleur.
 
 **Articles disponibles**
 
-* [Création d’emails](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"} : découvrez comment créer, concevoir et référencer un email dans le nouvel éditeur.
+* [Création d’e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"} : découvrez comment créer, concevoir et référencer un e-mail dans le nouvel éditeur.
 
-* [Modèles d’email](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"} : découvrez comment créer, concevoir et accéder à un modèle d’email dans le nouvel éditeur.
+* [Modèles d’e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"} : découvrez comment créer, concevoir et accéder à un modèle d’e-mail dans le nouvel éditeur.
