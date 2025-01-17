@@ -1,38 +1,38 @@
 ---
-description: Critères d’audience - Documents Marketo - Documentation du produit
+description: Critères D’Audience - Documents Marketo - Documentation Du Produit
 title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
 
 # Critère d’audience {#audience-criteria}
 
-Tout comme les listes dynamiques de Marketo Engage, les attributs de critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des personnes connues ou inconnues à l’aide d’attributs déduits, de personnes ou de société (ou d’une combinaison de ces attributs).
+Tout comme les listes dynamiques de Marketo Engage, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des personnes connues ou inconnues à l’aide d’attributs déduits, de personne ou d’entreprise (ou d’une combinaison de ces attributs).
 
 ## Priorité {#priority}
 
-La priorité détermine le dialogue qu’un prospect reçoit lorsqu’il remplit les conditions requises pour plus d’un. Elle est établie lorsque vous [créez votre dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} pour la première fois. Vous pouvez modifier la priorité d’un dialogue existant en l’ouvrant et en accédant à **[!UICONTROL Détails du dialogue]** dans l’onglet Critères d’audience.
+La priorité détermine la boîte de dialogue qu’un prospect reçoit s’il répond aux critères de plusieurs d’entre elles. Il est établi lorsque vous [créez votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} pour la première fois. Vous pouvez modifier la priorité d’une boîte de dialogue existante en l’ouvrant et en accédant à **[!UICONTROL Détails de la boîte de dialogue]** dans l’onglet Critères d’audience.
 
 ![](assets/audience-criteria-1.png)
 
 ## Événements {#events}
 
-Les événements vous permettent de cibler les visiteurs en fonction de la durée de leur défilement ou de la durée pendant laquelle ils se trouvent sur votre page/site. Dans l’exemple ci-dessous, nous ciblons les visiteurs qui se trouvent sur une page spécifique depuis plus de 20 secondes.
+Les événements vous permettent de cibler les visiteurs et visiteuses en fonction de leur niveau de défilement ou de leur durée de présence sur votre page ou site. Dans l’exemple ci-dessous, nous ciblons les visiteurs et visiteuses qui se trouvent sur une page spécifique depuis plus de 20 secondes.
 
-1. Prenez l’événement **[!UICONTROL Time on Page]** et faites-le glisser vers la droite.
+1. Saisissez l’événement **[!UICONTROL Temps passé sur la page]** et faites-le glisser vers la droite.
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure &quot;Supérieur à&quot; sur 20 secondes.
+1. Définissez la durée « Supérieur à » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 
-1. Ajoutez l’URL de la page souhaitée dans la section [Target](#target) .
+1. Ajoutez l’URL de la page souhaitée dans la section [Target](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -40,29 +40,29 @@ Les événements vous permettent de cibler les visiteurs en fonction de la duré
 
 **Personnes connues**
 
-Il existe plusieurs combinaisons d’attributs _many_ parmi lesquelles choisir. Dans l’exemple ci-dessous, nous ciblons toutes les personnes connues en Californie qui travaillent dans une entreprise de plus de 50 employés.
+Vous pouvez choisir parmi de _nombreuses_ combinaisons d’attributs. Dans l&#39;exemple ci-dessous, nous ciblons toutes les personnes connues en Californie qui travaillent dans une entreprise de plus de 50 employés.
 
-1. Saisissez l’attribut **[!UICONTROL Person State]** et faites-le glisser vers la droite.
+1. Saisissez l’attribut **[!UICONTROL État de la personne]** et faites-le glisser vers la droite.
 
    ![](assets/audience-criteria-7.png)
 
-1. _Is_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez CA (vous pouvez également cliquer sur la liste déroulante et sélectionner dans la liste).
+1. _Est_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez dans l’autorité de certification (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
    ![](assets/audience-criteria-8.png)
 
-1. Saisissez l’attribut **[!UICONTROL Taille de la société]** et faites-le glisser jusqu’à l’endroit où il est indiqué _Faites glisser un attribut ici_.
+1. Saisissez l’attribut **[!UICONTROL Taille de l’entreprise]** et faites-le glisser à l’emplacement indiqué _faites glisser un attribut ici_.
 
    ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également choisir un attribut en cliquant sur son icône **+** .
+   >Vous pouvez également choisir un attribut en cliquant sur son icône **+**.
 
 1. Cliquez sur la liste déroulante des opérateurs et sélectionnez **[!UICONTROL Supérieur à]**.
 
    ![](assets/audience-criteria-10.png)
 
-1. Saisissez 50, puis cliquez ailleurs à l’écran pour enregistrer.
+1. Tapez 50 et cliquez ailleurs sur l&#39;écran pour enregistrer.
 
    ![](assets/audience-criteria-11.png)
 
@@ -70,9 +70,9 @@ Et c&#39;est tout !
 
 **Personnes anonymes**
 
-Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trouvent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les personnes anonymes situées dans la région de New York.
+Il existe un moyen facile de cibler spécifiquement les personnes qui ne figurent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les personnes anonymes situées dans la région de New York.
 
-1. Saisissez l’attribut **[!UICONTROL Person Email]** et faites-le glisser vers la droite.
+1. Saisissez l’attribut **[!UICONTROL E-mail de la personne]** et faites-le glisser vers la droite.
 
    ![](assets/audience-criteria-12.png)
 
@@ -80,27 +80,27 @@ Il existe un moyen simple de cibler spécifiquement les personnes qui ne se trou
 
    ![](assets/audience-criteria-13.png)
 
-1. Saisissez l’attribut **[!UICONTROL État déduit]** et faites-le glisser jusqu’à l’endroit où il est indiqué _faites glisser un attribut ici_.
+1. Saisissez l’attribut **[!UICONTROL État déduit]** et faites-le glisser à l’emplacement indiqué _faites glisser un attribut ici_.
 
    ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
-   >Lorsqu’un visiteur se rend sur votre site Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} les cookies et les met dans le système. Nous recherchons leur adresse IP dans une base de données spéciale et en déduisons toutes sortes de bonnes informations.
+   >Lorsqu&#39;une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Nous recherchons leur IP dans une base de données spéciale et déduisons toutes sortes de bonnes informations.
 
-1. _Is_ est défini par défaut. Dans le champ Sélectionner les valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
+1. _Est_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
    ![](assets/audience-criteria-15.png)
 
 ## Adhésion {#membership}
 
-Utilisez des listes dynamiques Marketo Engage pour l’audience cible de votre dialogue.
+Utilisez les listes dynamiques du Marketo Engage pour l’audience cible de votre boîte de dialogue.
 
 >[!AVAILABILITY]
 >
->Un membre de la liste dynamique ou un membre de la liste nécessite Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>Le membre de liste dynamique ou de critère de membre de liste nécessite Prime Dynamic Chat. Veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) pour plus de détails.
 
-1. Sous Adhésion, accédez à **[!UICONTROL Membre de la liste dynamique]** et déposez-le sur la zone de travail.
+1. Sous Abonnement, accédez à **[!UICONTROL Membre de la liste dynamique]** et déposez-la sur la zone de travail.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -108,9 +108,9 @@ Utilisez des listes dynamiques Marketo Engage pour l’audience cible de votre d
 
    ![](assets/audience-criteria-15b.png)
 
-## Ajout de groupes {#add-groups}
+## Ajouter des groupes {#add-groups}
 
-Vous avez également la possibilité de regrouper des attributs, au cas où vous souhaitez tous avoir certains attributs avec &quot;tous ou n’importe lequel&quot; d’un autre. Vous pouvez ajouter plusieurs groupes.
+Vous avez également la possibilité de regrouper les attributs si vous souhaitez que certains attributs soient associés à « tout ou partie » d’un autre. Vous pouvez ajouter plusieurs groupes.
 
 ![](assets/audience-criteria-16.png)
 
@@ -118,7 +118,7 @@ Vous avez également la possibilité de regrouper des attributs, au cas où vous
 
 ## Target {#target}
 
-C’est là que vous saisissez la ou les URL sur lesquelles vous souhaitez afficher un dialogue spécifique. Vous avez également la possibilité d’ajouter des exclusions.
+C’est là que vous saisissez la ou les URL pour lesquelles vous souhaitez afficher une boîte de dialogue spécifique. Vous pouvez également ajouter des exclusions.
 
 Formats acceptables :
 
@@ -129,15 +129,17 @@ Formats acceptables :
 
 >[!NOTE]
 >
->L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. Par conséquent, `https://*.website.com` placerait la boîte de dialogue sur chaque page du site, y compris les sous-domaines (ex : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page d’HTML dans le dossier suivant (par exemple, supposons que le dossier soit &quot;sports&quot;, donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>* L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. Ainsi, `https://*.website.com` placez la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page d’HTML dans le dossier suivant (par exemple, dans ce cas, supposons que le dossier soit « sports », donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>
+>* Les paramètres d’URL ne sont pas pris en charge pour le moment.
 
 **Exclusions**
 
-Utilisez les exclusions pour vous assurer que votre dialogue n’apparaît _pas_ sur une page/zone spécifique de votre site. Les exclusions suivent le même format que les inclusions.
+Utilisez des exclusions pour vous assurer que votre boîte de dialogue n’apparaît _pas_ sur une page ou une zone spécifique de votre site. Les exclusions suivent le même format que les inclusions.
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
->* [Créer un dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Créer une boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
 >* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
