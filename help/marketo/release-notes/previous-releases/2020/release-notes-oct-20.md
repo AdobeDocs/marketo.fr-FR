@@ -1,86 +1,86 @@
 ---
 unique-page-id: 45416698
-description: Notes de mise à jour - 20 octobre - Documents Marketo - Documentation du produit
-title: Notes de mise à jour - 20 octobre
+description: Notes De Mise À Jour - Octobre 20 - Documents Marketo - Documentation Du Produit
+title: Notes De Mise À Jour - Oct 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : 20 octobre {#release-notes-oct}
+# Notes De Mise À Jour : Oct 20 {#release-notes-oct}
 
-Les fonctionnalités suivantes sont incluses dans la version du 20 octobre. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version d’octobre 2020. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, veuillez contacter votre représentant de Marketo Engage.
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes seront publiées le **16 octobre 2020**.
 
 ## Gestion de comptes cibles {#target-account-management}
 
-![(star)](assets/yellow-star.png)
+![(étoile)](assets/yellow-star.png)
 
-* **Liste dynamique de compte (Beta)** : remplacez votre stratégie ABM par la nouvelle fonctionnalité de liste dynamique de compte. Identifiez de manière dynamique les comptes dotés des attributs de compte et de personne souhaités pour exécuter des campagnes cross-canal et envoyer des alertes opportunes aux ventes afin de conclure plus rapidement les offres. Remarque : ceci est disponible uniquement pour les clients de la gestion de compte Target qui ont été intégrés à l’ [expérience utilisateur de nouvelle génération](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
+* **Liste dynamique de compte (Beta)** : enrichissez votre stratégie ABM avec la nouvelle fonctionnalité Liste dynamique de compte. Identifiez de manière dynamique les comptes avec les attributs de compte et de personne souhaités afin d’exécuter des campagnes cross-canal et d’envoyer des alertes opportunes aux ventes pour conclure plus rapidement des affaires. Remarque : cette option est disponible uniquement pour les clients de la gestion de compte Target qui ont intégré l’[expérience utilisateur de nouvelle génération](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## Marketing par e-mail {#email-marketing}
 
-* **Batch Email Boost ![(star)](assets/yellow-star.png)** : envoyez plus d’emails avec un débit augmenté de 5 millions d’emails par heure. Les options de délivrabilité des emails extensives éliminent la nécessité d’attendre entre les lots d’emails : envoyer tous les emails à temps et selon votre planification.
+* **Amplification d’e-mail par lots** ![(étoile)](assets/yellow-star.png) : envoyez plus d’e-mails avec un débit accru de jusqu’à 5 millions d’e-mails par lot et par heure. Des options de délivrabilité des emails évolutives éliminent le besoin d’attendre entre les lots d’emails : envoyez tous les emails à temps et selon votre planning.
 
-## Marketing par site web {#website-marketing}
+## Marketing de site web {#website-marketing}
 
-* **Automatisation d’incorporer un code de formulaire** : achetez plus de pistes avec des formulaires de Marketo Engage incorporés dans vos landing pages sécurisées hébergées en dehors de Marketo. Le code incorporé du formulaire se met automatiquement à jour afin d’inclure le nom de domaine de la page d’entrée et élimine le travail manuel pour les développeurs web. Le domaine personnalisé dans le lien de code améliore les expériences de navigation sur le site web et l’utilisation des formulaires.
+* **Automatisation du code des formulaires intégrés** : achetez plus de prospects avec les formulaires de Marketo Engage intégrés dans vos pages de destination sécurisées hébergées en dehors de Marketo. Le code incorporé du formulaire est automatiquement mis à jour pour inclure le nom de domaine de la page de destination et élimine le travail manuel pour les développeurs web. Le domaine personnalisé dans le lien du code améliore les expériences de navigation sur le site web et l’utilisation des formulaires.
 
-## Intégration d’Experience Cloud {#experience-cloud-integration}
+## Intégration Experience Cloud {#experience-cloud-integration}
 
-* **Synchronisation continue de l’audience de Adobe Experience Cloud vers Marketo Engage** : Target génère des pistes avec Marketo Engage en fonction des données d’intention propriétaires d’Adobe Analytics, Adobe Audience Manager ou Adobe Real-Time CDP. Mettre automatiquement à jour les listes statiques des Marketo Engage par le biais d’une synchronisation continue, ajouter des pistes à des programmes d’engagement ou de messagerie électronique et alerter les ventes lorsque les pistes sont prêtes.
+* **Synchronisation continue de l’audience de Adobe Experience Cloud vers Marketo Engage** : la cible mène avec Marketo Engage en fonction des données d’intention propriétaires d’Adobe Analytics, de Adobe Audience Manager ou d’Adobe Real-Time CDP. Mettez automatiquement à jour les listes statiques du Marketo Engage par une synchronisation continue, ajoutez des prospects aux programmes d’engagement ou d’e-mail et avertissez les ventes lorsque les prospects sont prêts.
 
 ## Intégration CRM {#crm-integration}
 
-* **Synchronisation CRM Salesforce** : identifiez et corrigez les erreurs et échecs de synchronisation avec deux nouveaux tableaux de bord Synchronisation et erreurs Salesforce. Surveillez les nouvelles mises à jour d’enregistrement, les suppressions, les échecs et la fin du processus de synchronisation. Les rapports peuvent être filtrés par date, type d’opération ou type d’objet.
+* **Synchronisation du CRM Salesforce** : identifiez et corrigez les erreurs et les échecs de synchronisation à l’aide de deux nouveaux tableaux de bord des erreurs et de la synchronisation Salesforce. Surveillez les mises à jour, les suppressions et les échecs des nouveaux enregistrements, ainsi que la fin du processus de synchronisation. Les rapports peuvent être filtrés par date, type d’opération ou type d’objet.
 
-* **Intégration de Microsoft Dynamics 365** : Automatisez l’inscription de prospects et de contacts dans les campagnes Microsoft Dynamics 365. Ajoutez ou supprimez facilement des pistes et des contacts de Marketo Engage aux campagnes MS Dynamics avec de nouvelles actions de flux de campagne dynamique. Transférez facilement les pistes du marketing aux ventes et fermez les offres plus rapidement.
+* **Intégration de Microsoft Dynamics 365** : automatisez l’inscription des prospects et des contacts dans les campagnes Microsoft Dynamics 365. Ajoutez ou supprimez facilement des leads et des contacts de Marketo Engage aux campagnes MS Dynamics avec de nouvelles actions de flux de campagne intelligentes. Transmettez facilement les leads du marketing aux ventes et concluez plus rapidement des affaires.
 
 ## Ciblage des médias payants {#paid-media-targeting}
 
-* **Intégrations Facebook Lead Ads** : les paramètres de suivi de formulaire Facebook peuvent désormais être capturés par le biais du service LaunchPoint pour les annonces Facebook. Ces champs masqués peuvent désormais être mappés aux champs Marketo, ce qui permet aux marketeurs de stocker les données de suivi de campagne importantes et d’agir sur celles-ci.
+* **Intégrations des publicités de lead Facebook** : les paramètres de suivi des formulaires Facebook peuvent désormais être capturés par le service LaunchPoint pour les publicités de lead Facebook. Ces champs masqués peuvent désormais être mappés à des champs Marketo, ce qui permet aux spécialistes marketing de stocker et d’agir sur les données de suivi de campagne importantes.
 
 ## Administration {#administration}
 
-* **Exporter les rôles et autorisations** : exportez les rôles et les autorisations dans des feuilles de calcul pour un partage facile entre les équipes de votre entreprise. Exécutez des audits des rôles et des autorisations plus simples et plus rapides.
+* **Exporter des rôles et des autorisations** : exportez les rôles et autorisations dans des feuilles de calcul pour faciliter le partage entre les équipes de votre entreprise. Effectuez des audits des rôles et des autorisations plus facilement et plus rapidement.
 
-* **Suivi amélioré** : grâce aux nouvelles entrées de journal d’audit, obtenez une visibilité plus précise des modifications apportées aux emails et aux landing pages par votre équipe marketing. Capturez les modifications apportées à chaque module dans le corps d’un email et effectuez le suivi des modifications apportées aux éléments de texte enrichi, des modifications d’état, des ajouts et de la suppression des formulaires et des images.
+* **Piste d’audit améliorée** : grâce aux nouvelles entrées de piste d’audit, obtenez une visibilité plus granulaire sur les modifications apportées aux e-mails et aux pages de destination par votre équipe marketing. Capturez les modifications apportées à chaque module dans le corps d’un e-mail et suivez les modifications apportées aux éléments de texte enrichi, les changements de statut, les ajouts et la suppression des formulaires et des images.
 
-* **Gestion de champ** : recherchez facilement les noms de champ de l’API avec la nouvelle fonction d’entrée de métadonnées sur l’enregistrement de champ. Il n’est pas nécessaire d’exporter tous les champs dans des feuilles de calcul pour connaître le nom du champ. Créez des intégrations avec des applications de LaunchPoint, connectez des bases de données ou utilisez nos API ouvertes de n’importe quelle manière adaptée à votre entreprise.
+* **Gestion des champs** : recherchez facilement des noms de champ API avec la nouvelle fonctionnalité de saisie de métadonnées sur l’enregistrement de champ. Il n’est pas nécessaire d’exporter tous les champs dans des feuilles de calcul pour trouver le nom du champ. Créez des intégrations avec des applications à partir de LaunchPoint, connectez des bases de données ou utilisez nos API ouvertes de la manière qui convient à votre entreprise.
 
-* **Nouvelles options d’exportation de métadonnées** : exportez des métadonnées d’objet personnalisé pour les objets personnalisés sélectionnés dans une feuille de calcul pour un partage facile. En outre, toutes les métadonnées des objets d’abonnement peuvent être exportées, telles que les activités de prospect, d’entreprise, standard et personnalisées, les balises et les canaux. Les données peuvent être extraites par les administrateurs et rapidement partagées avec les équipes d’ingénierie à des fins d’analyse et de conception.
+* **Nouvelles options d’exportation des métadonnées** : exportez les métadonnées des objets personnalisés sélectionnés dans une feuille de calcul pour faciliter leur partage. En outre, une partie ou la totalité des métadonnées des objets d’abonnement peuvent être exportées, telles que les prospects, les sociétés, les activités standard et personnalisées, les balises et les canaux. Les données peuvent être extraites par les administrateurs et rapidement partagées avec les équipes d’ingénieurs à des fins d’analyse et de conception.
 
-* **Champ personnalisé d’opportunité** : profitez d’informations supplémentaires sur les enregistrements d’opportunité avec des champs personnalisés d’opportunité affichés dans Marketo Engage. Afficher les données de champs personnalisés d’opportunité de Salesforce CRM, Microsoft Dynamics 365 CRM, des intégrations natives de ventes ou via d’autres intégrations d’API. Disposer d’une visibilité complète sur les détails et le pipeline des opportunités vous permet d’orchestrer l’engagement en coordination avec les ventes, d’augmenter les conversions et d’aider à conclure plus rapidement les offres.
+* **Champ personnalisé d’opportunité** : obtenez plus d’informations sur les enregistrements d’opportunité avec des champs personnalisés d’opportunité affichés dans Marketo Engage. Affichez les données des champs personnalisés d’opportunité provenant de Salesforce CRM, de Microsoft Dynamics CRM 365, des intégrations natives de ventes ou via d’autres intégrations d’API. Disposer d’une visibilité totale sur les détails et le pipeline des opportunités vous permet d’orchestrer l’engagement en coordination avec les ventes, d’augmenter les conversions et de conclure plus rapidement des affaires.
 
-## Sortie pendant tout le trimestre {#releasing-throughout-the-quarter}
+## Sortie sur l&#39;ensemble du trimestre {#releasing-throughout-the-quarter}
 
-Les fonctionnalités suivantes, qui ne sont pas trimestrielles, seront publiées au cours des prochains mois.
+Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et seront publiées au cours des prochains mois.
 
 ## Sales Insight {#sales-insight}
 
-![(star)](assets/yellow-star.png)
+![(étoile)](assets/yellow-star.png)
 
-* **Options de configuration d’optimisation de l’API et de nouvelle gouvernance** : améliorez l’expérience utilisateur de Sales Insight grâce à une optimisation améliorée de l’API et à des fonctionnalités de gouvernance ajoutées. Les paramètres de configuration permettent aux administrateurs de définir le mode de chargement des campagnes et des événements dans le tableau de bord des statistiques sur les ventes. Les options d’affichage souples des activités de calendrier réduisent l’utilisation de l’API et améliorent l’expérience globale.
+* **Options d’optimisation des API et de nouvelle configuration de la gouvernance** : améliorez l’expérience utilisateur de Sales Insight grâce à une optimisation améliorée des API et à des fonctionnalités de gouvernance ajoutées. Les paramètres de configuration permettent aux administrateurs de définir la manière dont les campagnes et les événements sont chargés dans le tableau de bord Informations sur les ventes. Les options d’affichage des activités de calendrier flexibles réduisent l’utilisation des API et améliorent l’expérience globale.
 
-## Annonces et obsolescences {#announcements-deprecations}
+## Annonces et obsolescence {#announcements-deprecations}
 
-* **Nouveau look de Marketo Engage** : les nouvelles versions des graphiques en courbes, à barres, à colonnes et à secteurs fournissent des visualisations mises à jour dans tous les Marketo Engage, y compris les activités marketing et toutes les fonctionnalités de création de rapports, ainsi que la visualisation de données qui apparaît dans les activités marketing. Cette mise à jour fait suite à la fin de vie du Flash Adobe le 31 décembre 2020.
+* **Nouvelle apparence du Marketo Engage** : les nouvelles versions des graphiques en courbes, à barres, à colonnes et en secteurs offrent des visualisations mises à jour dans le Marketo Engage, y compris les activités marketing et toutes les fonctionnalités de création de rapports, ainsi que la visualisation des données qui apparaît dans les activités marketing. Cette mise à jour fait suite à l’arrivée du Flash d’Adobe à son terme le 31 décembre 2020.
 
-* **Mises à jour des rôles et autorisations utilisateur** : l’autorisation d’importation de liste avancée sera abandonnée dans la prochaine version afin de simplifier la gestion des rôles et des autorisations. Les autorisations d’importation de liste existantes dans les activités marketing et la base de données de piste permettent d’activer les options d’importation de liste nécessaires dans leurs zones d’application respectives.
+* **Mises à jour des rôles utilisateur et des autorisations** : l’autorisation Importation de liste avancée sera obsolète dans la prochaine version afin de simplifier la gestion des rôles et des autorisations. Les autorisations d’importation de liste existantes dans les activités marketing et la base de données des prospects permettent d’activer les options d’importation de liste nécessaires dans leurs zones d’application respectives.
 
-* **Gestion de champ** : une restriction pour les modifications synchrones apportées au type de champ personnalisé dans Marketo Engage est introduite afin d’accroître la sécurité de notre infrastructure. Lorsque vous apportez des modifications à plusieurs types de champ, les premières modifications de champ doivent être effectuées avant de passer au champ suivant. Ce nouveau processus assure un environnement plus stable et minimise les risques d’échec des opérations de type changement.
+* **Gestion des champs** : une restriction aux modifications synchrones apportées au type de champ personnalisé dans Marketo Engage est introduite pour accroître la sécurité de notre infrastructure. Lorsque vous apportez des modifications à plusieurs types de champ, les premières modifications de champ doivent être effectuées avant de passer au champ suivant. Ce nouveau processus garantit un environnement plus stable et réduit les risques d’échec des opérations de type modification.
 
-* **Augmentation de la taille de l’URI de l’API de ressource** : la limite de taille de l’URI (Uniform Resource Identifier) est augmentée de 8 Ko à 65 Ko avant la suppression du paramètre &quot;_method&quot;. L’augmentation de la taille limite permet aux clients qui utilisent de longues chaînes de requête de transmettre plus facilement des données. La suppression du paramètre &quot;_method&quot; fait partie d’une mise à niveau de sécurité à venir.
+* **Limite de taille de l’URI de l’API de ressource augmentée** : la limite de taille de l’URI (Uniform Resource Identifier) est augmentée de 8 Ko à 65 Ko avant la suppression du paramètre « _method ». L’augmentation de la limite de taille permet aux clients et clientes qui utilisent des chaînes de requête longues de transmettre plus facilement les données. La suppression du paramètre « _method » fait partie d’une mise à niveau de sécurité à venir.
 
-## Webinaire sur la version du produit {#product-release-webinar}
+## Webinaire de mise à jour du produit {#product-release-webinar}
 
-Regardez l&#39;enregistrement de notre webinaire de mise à jour de produit [ici](https://engage.marketo.com/Oct_20_Release_OnDemand.html).
+Regardez l’enregistrement de notre webinaire sur la sortie des produits [ici](https://engage.marketo.com/Oct_20_Release_OnDemand.html).
