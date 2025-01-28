@@ -3,7 +3,7 @@ title: Fragments
 description: Découvrez comment créer et utiliser des fragments de contenu visuels en tant que composants réutilisables pour les e-mails et les modèles d’e-mail.
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2428'
 ht-degree: 4%
@@ -76,13 +76,13 @@ CAPTURE D’ÉCRAN
 
 ### Filtrer la liste des fragments {#filter-the-fragments-list}
 
-Utilisez la barre de recherche pour rechercher un fragment par nom. Cliquez sur l’icône _Filtrer_ ( ![Afficher ou masquer l’icône des filtres](../assets/do-not-localize/icon-filter.svg) ) pour afficher les options de filtre disponibles et sélectionner les paramètres souhaités.
+Utilisez la barre de recherche pour rechercher un fragment par nom. Cliquez sur l’icône _Filtrer_ ( ![Afficher ou masquer l’icône des filtres](assets/icon-filter.svg) ) pour afficher les options de filtre disponibles et sélectionner les paramètres souhaités.
 
 CAPTURE D’ÉCRAN
 
 ### Personnalisation de l’affichage des colonnes {#customize-the-column-display}
 
-Personnalisez les colonnes à afficher dans le tableau en cliquant sur l’icône _Personnaliser le tableau_ ( ![icône Personnaliser le tableau](../assets/do-not-localize/icon-column-settings.svg) ) en haut à droite.
+Personnalisez les colonnes à afficher dans le tableau en cliquant sur l’icône _Personnaliser le tableau_ ( ![icône Personnaliser le tableau](assets/icon-column-settings.svg) ) en haut à droite.
 
 Dans la boîte de dialogue, sélectionnez les colonnes souhaitées et cliquez sur **[!UICONTROL Appliquer]**.
 
