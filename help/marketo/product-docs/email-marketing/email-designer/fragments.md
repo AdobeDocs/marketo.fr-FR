@@ -3,27 +3,27 @@ title: Fragments
 description: Découvrez comment créer et utiliser des fragments de contenu visuels en tant que composants réutilisables pour les e-mails et les modèles d’e-mail.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '2558'
-ht-degree: 3%
+source-wordcount: '2428'
+ht-degree: 4%
 
 ---
 
 # Fragments
 
-Un fragment est un composant réutilisable pouvant être référencé dans un ou plusieurs e-mails et modèles d’e-mail. Il s’agit généralement d’un bloc de contenu (texte, image ou les deux) qui peut être créé et rapidement inséré dans un e-mail ou un modèle d’e-mail. Grâce à cette fonctionnalité, vous pouvez précréer plusieurs blocs de contenu personnalisés à utiliser par les membres de votre équipe marketing pour assembler les contenus d’e-mail afin d’améliorer le processus de conception. Les cas d’utilisation courants incluent les blocs de contenu d’en-tête/de pied de page pour les e-mails, les bannières d’invitation d’événement, les messages saisonniers, etc.
+Un fragment est un composant réutilisable pouvant être référencé dans un ou plusieurs e-mails et modèles d’e-mail. Il s’agit généralement d’un bloc de contenu (texte, image ou les deux) qui peut être créé et rapidement inséré dans votre projet. Grâce à cette fonctionnalité, vous pouvez précréer plusieurs blocs de contenu personnalisés à utiliser par les membres de votre équipe marketing pour assembler le contenu des e-mails afin d’améliorer le processus de conception. Les cas d’utilisation courants incluent les blocs de contenu d’en-tête/de pied de page pour les e-mails, les bannières d’invitation d’événement, les messages saisonniers, etc.
 
 Pour tirer le meilleur parti des fragments dans vos workflows :
 
 * _Créer vos propres fragments_ - Créez des fragments visuels, en partant de zéro ou en enregistrant du contenu en tant que fragment à partir de l’éditeur de contenu visuel.
 * _Réutiliser des fragments_ - Utilisez-les autant de fois que nécessaire dans votre contenu.
 
-## Fragments visuels
+## Fragments visuels {#visual-fragments}
 
 Les fragments visuels sont des blocs visuels prédéfinis créés à l’aide de l’éditeur visuel de contenu que vous pouvez réutiliser dans plusieurs e-mails ou modèles d’e-mail.
 
-## Accéder aux fragments et les gérer
+## Accéder aux fragments et les gérer {#access-and-manage-fragments}
 
 Pour accéder aux fragments visuels, accédez au volet de navigation de gauche et cliquez sur **[!UICONTROL Gestion de contenu]** > **[!UICONTROL Fragments]**. Cette action ouvre une page de liste répertoriant tous les fragments créés dans l’instance, répertoriés dans un tableau.
 
@@ -49,7 +49,7 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
   </td>
   <tr>
     <td><b>Publié</b></td>
-    <td>Lorsque vous publiez un fragment, il peut être utilisé dans un e-mail ou un modèle d’e-mail. Un contenu de fragment publié ne peut pas être modifié dans le concepteur visuel.
+    <td>Lorsque vous publiez un fragment, il peut être utilisé dans un e-mail ou un modèle d’e-mail. Le contenu du fragment publié ne peut pas être modifié dans le concepteur visuel.
     <p>Actions disponibles :
     <li>Modifier la description</li>
     <li>Ajouter à un e-mail ou un modèle</li>
@@ -74,38 +74,31 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
 
 CAPTURE D’ÉCRAN
 
->[!IMPORTANT]
->
->Le statut du fragment a été introduit dans la version d’août de Journey Optimizer B2B edition. Tous les fragments créés avant cette version ont le statut _Brouillon_, même s’ils sont utilisés dans un e-mail ou un modèle. Si vous apportez des modifications à ces fragments, vous devez publier le fragment pour propager les modifications.
+### Filtrer la liste des fragments {#filter-the-fragments-list}
 
-### Filtrer la liste des fragments
-
-Pour rechercher un fragment par nom, saisissez une chaîne de texte dans la barre de recherche pour rechercher une correspondance. Cliquez sur l’icône _Filtrer_ ( ![Afficher ou masquer l’icône des filtres](../assets/do-not-localize/icon-filter.svg) ) pour afficher les options de filtre disponibles et modifier les paramètres afin de filtrer les éléments affichés en fonction de vos critères spécifiés.
+Utilisez la barre de recherche pour rechercher un fragment par nom. Cliquez sur l’icône _Filtrer_ ( ![Afficher ou masquer l’icône des filtres](../assets/do-not-localize/icon-filter.svg) ) pour afficher les options de filtre disponibles et sélectionner les paramètres souhaités.
 
 CAPTURE D’ÉCRAN
 
-### Personnalisation de l’affichage des colonnes
+### Personnalisation de l’affichage des colonnes {#customize-the-column-display}
 
-Personnalisez les colonnes à afficher dans le tableau en cliquant sur l’icône _Personnaliser le tableau_ ( ![Icône Personnaliser le tableau](../assets/do-not-localize/icon-column-settings.svg) ) en haut à droite.
+Personnalisez les colonnes à afficher dans le tableau en cliquant sur l’icône _Personnaliser le tableau_ ( ![icône Personnaliser le tableau](../assets/do-not-localize/icon-column-settings.svg) ) en haut à droite.
 
-Dans la boîte de dialogue, sélectionnez les colonnes à afficher et cliquez sur **[!UICONTROL Appliquer]**.
+Dans la boîte de dialogue, sélectionnez les colonnes souhaitées et cliquez sur **[!UICONTROL Appliquer]**.
 
 CAPTURE D’ÉCRAN
 
-## Créer des fragments
+## Créer des fragments {#create-fragments}
 
-Vous pouvez créer des fragments visuels dans Journey Optimizer B2B edition en cliquant sur **[!UICONTROL Créer un fragment]** en haut à droite.
+Créez un fragment visuel en cliquant sur **[!UICONTROL Créer un fragment]** en haut à droite.
 
-1. Dans la boîte de dialogue _[!UICONTROL Créer un fragment]_, saisissez un **[!UICONTROL Nom]** et un **[!UICONTROL Description]** utiles (facultatif).
+1. Dans la boîte de dialogue _[!UICONTROL Créer un fragment]_, saisissez un **[!UICONTROL Nom]** et un **[!UICONTROL Description]** facultatif.
 
    Exigences de fragment :
 
-   * Nom : 100 caractères maximum, doit être unique et ne pas respecter la casse.
-
-   * Description - 300 caractères maximum
-
+   * Nom : 100 caractères au maximum, doit être unique et non sensible à la casse.
+   * Description : 300 caractères max.
    * Les caractères Alpha, numériques et spéciaux sont autorisés
-
    * Les caractères réservés ne sont **_pas autorisés_** : `\ / : * ? " < > |`
 
 CAPTURE D’ÉCRAN
@@ -126,7 +119,7 @@ CAPTURE D’ÉCRAN
 
 1. Lorsque vous êtes prêt à rendre le fragment disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, cliquez sur **[!UICONTROL Publish]**.
 
-### Ajouter la structure et le contenu {#design-fragment}
+### Ajouter la structure et le contenu {#add-structure-and-content}
 
 >[!CONTEXTUALHELP]
 >id="ajo-b2b_structure_components_fragment"
@@ -156,13 +149,13 @@ CAPTURE D’ÉCRAN
 
 {{$include /help/_includes/content-design-links.md}}
 
-## Affichage des détails du fragment
+## Affichage des détails du fragment {#view-fragment-details}
 
 Cliquez sur le nom d’un fragment de la page de liste pour ouvrir la page des détails du fragment. Vous pouvez choisir de modifier le fragment, de le renommer ou de mettre à jour sa description. Effectuez des mises à jour et cliquez en dehors du champ de nom ou de description pour enregistrer automatiquement les modifications.
 
 >[!NOTE]
 >
->Si un fragment publié est utilisé par un e-mail ou un modèle d’e-mail, vous ne pouvez pas modifier le nom ni le contenu. Vous pouvez créer un brouillon si vous souhaitez apporter des modifications au fragment.
+>Si un fragment publié est utilisé par un e-mail ou un modèle d’e-mail, vous ne pouvez pas modifier son nom ni le contenu. Vous pouvez créer un brouillon si vous souhaitez apporter des modifications au fragment.
 
 CAPTURE D’ÉCRAN
 
@@ -170,23 +163,23 @@ Cliquez sur **[!UICONTROL Modifier le fragment]** pour ouvrir le fragment dans l
 
 Quittez la vue à tout moment en cliquant sur la flèche _Précédent_ en haut à gauche, qui vous renvoie à la page de liste _Fragments_.
 
-## Afficher les références du fragment utilisé par
+## Afficher les références du fragment utilisé par {#view-fragment-used-by-references}
 
-Dans la page des détails du fragment, cliquez sur l’onglet **[!UICONTROL Utilisé par]** pour afficher des détails sur l’emplacement où le fragment est actuellement utilisé dans Journey Optimizer B2B edition, dans les e-mails, les modèles d’e-mail et les fragments.
+Dans la page des détails du fragment, cliquez sur l’onglet **[!UICONTROL Utilisé par]** pour afficher les détails de l’utilisation du fragment dans Marketo Engage.
 
 >[!IMPORTANT]
 >
->Un fragment actuellement utilisé par un e-mail ou un modèle d’e-mail ne peut pas être supprimé.
+>Impossible de supprimer un fragment actuellement utilisé par un e-mail ou un modèle d’e-mail.
 
-Les références sont affichées selon la catégorie : _E-mail_ ou _Modèle d’e-mail_. Les e-mails dans Journey Optimizer B2B edition sont incorporés et créés dans des parcours de compte. De ce fait, le parcours parent de l’e-mail qui utilise le fragment est affiché dans les références.
+Les références sont affichées selon la catégorie : _E-mail_ ou _Modèle d’e-mail_. Les e-mails dans Journey Optimizer B2B edition sont incorporés et créés dans des parcours de compte. De ce fait, le parcours parent de l’e-mail qui utilise le fragment est affiché dans les références. &lt;— ET CETTE PARTIE, NILESH
 
 CAPTURE D’ÉCRAN
 
 Cliquez sur le lien pour ouvrir l’e-mail ou le modèle d’e-mail correspondant où le fragment est utilisé.
 
-## Suppression de fragments
+## Suppression de fragments {#delete-fragments}
 
-Un fragment actuellement utilisé par un e-mail ou un modèle d’e-mail ne peut pas être supprimé. Assurez-vous donc de vérifier les références _utilisé par_ avant de procéder à la suppression d’un fragment. En outre, une suppression ne peut pas être annulée. Vérifiez-la avant de lancer une action de suppression.
+Étant donné qu’un fragment actuellement utilisé par un e-mail ou un modèle d’e-mail ne peut pas être supprimé, assurez-vous de vérifier les références _utilisé par_ avant de procéder à la suppression d’un fragment. En outre, une suppression ne peut pas être annulée. Vérifiez-la avant de lancer une action de suppression.
 
 Vous pouvez supprimer un fragment à l’aide de l’une des méthodes suivantes :
 
@@ -194,10 +187,6 @@ Vous pouvez supprimer un fragment à l’aide de l’une des méthodes suivantes
 * Dans la page de liste _[!UICONTROL Fragments]_, cliquez sur les points de suspension en regard du fragment et choisissez **[!UICONTROL Supprimer]**.
 
 Cette action ouvre une boîte de dialogue de confirmation. Vous pouvez abandonner le processus en cliquant sur **[!UICONTROL Annuler]** ou sur **[!UICONTROL Supprimer]** pour confirmer la suppression.
-
-CAPTURE D’ÉCRAN
-
-Si le fragment est en cours d’utilisation, l’action ouvre une boîte de dialogue d’information qui vous avertit qu’il ne peut pas être supprimé. Cliquez sur **[!UICONTROL OK]** pour annuler la suppression.
 
 CAPTURE D’ÉCRAN
 
@@ -217,7 +206,7 @@ Les modifications apportées à un fragment dépendent de son statut actuel :
 
    Un aperçu du contenu visuel s’affiche avec les détails du fragment sur la droite.
 
-1. Modifiez l’un des détails, tels que le nom et la description.
+1. Effectuez les modifications souhaitées.
 
 CAPTURE D’ÉCRAN
 
@@ -295,7 +284,7 @@ Pour mettre à jour le contenu :
 
 >[!ENDTABS]
 
-## Fragments dupliqués
+## Fragments dupliqués {#duplicate-fragments}
 
 Vous pouvez dupliquer un fragment à l’aide de l’une des méthodes suivantes :
 
@@ -304,17 +293,17 @@ Vous pouvez dupliquer un fragment à l’aide de l’une des méthodes suivantes
 
 CAPTURE D’ÉCRAN
 
-Dans la boîte de dialogue, saisissez un nom utile (unique) et une description. Cliquez sur **[!UICONTROL Dupliquer]** pour terminer l’action.
+Dans la boîte de dialogue, saisissez un nom unique et une description facultative. Cliquez sur **[!UICONTROL Dupliquer]** pour terminer l’action.
 
 CAPTURE D’ÉCRAN
 
-Le fragment (nouveau) dupliqué apparaît ensuite dans la liste _Fragments_.
+Le fragment dupliqué apparaît ensuite dans la liste _Fragments_.
 
-## Enregistrer un nouveau fragment d’un e-mail ou du contenu de modèle
+## Enregistrer un nouveau fragment d’un e-mail ou du contenu de modèle {#save-a-new-fragment-from-email-or-template-content}
 
 Lorsque vous créez/modifiez un e-mail ou un modèle d’e-mail dans l’éditeur visuel de contenu, vous pouvez choisir d’enregistrer tout ou partie du contenu en tant que fragment afin de le réutiliser.
 
-1. Lorsque vous souhaitez enregistrer du contenu sous forme de fragment, cliquez sur **[!UICONTROL Plus]** et choisissez **[!UICONTROL Enregistrer sous forme de fragment]**.
+1. Pour enregistrer le contenu en tant que fragment, cliquez sur **[!UICONTROL Plus]** et choisissez **[!UICONTROL Enregistrer en tant que fragment]**.
 
 1. Sélectionnez les différents éléments à inclure dans le fragment.
 
@@ -324,19 +313,21 @@ Lorsque vous créez/modifiez un e-mail ou un modèle d’e-mail dans l’éditeu
 
 1. Une fois le contenu sélectionné, cliquez sur **[!UICONTROL Créer]** en haut à droite.
 
-1. Dans la boîte de dialogue, saisissez un nom et une description utiles pour le fragment. Cliquez ensuite sur **[!UICONTROL Créer]**.
+1. Dans la boîte de dialogue, saisissez un nom et une description facultative pour le fragment. Cliquez ensuite sur **[!UICONTROL Créer]**.
 
-   Le nouveau fragment est ensuite affiché dans la page de liste _Fragments_ et peut également être utilisé dans les e-mails et les modèles d’e-mail.
+   Le fragment est ensuite affiché dans la page de liste _Fragments_ et peut également être utilisé dans les e-mails et les modèles d’e-mail.
 
-## Ajouter des fragments visuels au contenu de votre e-mail ou modèle
+## Ajouter des fragments visuels au contenu de votre e-mail ou modèle {#add-visual-fragments-to-your-email-or-template-content}
 
-Les fragments sont conçus pour être réutilisés et peuvent être insérés pour la création de modèles d’e-mail et d’e-mail. Vous pouvez ajouter jusqu’à 30 fragments dans un e-mail ou un modèle. Les fragments peuvent être imbriqués jusqu’à un seul niveau.
+Les fragments sont conçus pour être réutilisés et vous pouvez en ajouter jusqu’à 30 dans un e-mail ou un modèle d’e-mail. Les fragments peuvent être imbriqués jusqu’à un seul niveau.
 
 >[!BEGINTABS]
 
 >[!TAB Ajouter des fragments à un email]
 
-1. Accédez à **[!UICONTROL Parcours de compte]** et ouvrez un parcours parcours existant ou créez-en un.
+1. Accédez à **[!UICONTROL Parcours de compte]** et ouvrez un parcours parcours existant ou créez-en un. &lt;— VÉRIFIEZ DEUX FOIS
+
+----------ARRÊT DES MODIFICATIONS ICI---------
 
 1. Créez un nœud [_[!UICONTROL Envoyer un e-mail ]_](./email-authoring.md#add-an-email-action-in-an-account-journey).
 

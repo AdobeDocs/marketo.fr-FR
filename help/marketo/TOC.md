@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '9394'
+source-wordcount: '9406'
 ht-degree: 4%
 
 ---
@@ -1061,6 +1061,12 @@ ht-degree: 4%
             + [Modifier la disponibilité du contenu de diffusion](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [Hiérarchiser le contenu du flux](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Supprimer le contenu du flux](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + {#email-designer} de Designer par e-mail
+         + [Vue d’ensemble](product-docs/email-marketing/email-designer/overview.md)
+         + [Création d’e-mails](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [Modèles d&#39;e-mail](product-docs/email-marketing/email-designer/email-templates.md)
+         + [Utilisation d’AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
       + {#email-programs} des programmes de messagerie
          + Création d’un {#creating-an-email-program} de programme de messagerie
             + [Créer un programme de messagerie](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
