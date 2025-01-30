@@ -3,10 +3,11 @@ title: Fragments
 description: Découvrez comment créer et utiliser des fragments de contenu visuels en tant que composants réutilisables pour les e-mails et les modèles d’e-mail.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 4%
+source-wordcount: '2371'
+ht-degree: 2%
 
 ---
 
@@ -25,13 +26,13 @@ Les fragments visuels sont des blocs visuels prédéfinis créés à l’aide de
 
 ## Accéder aux fragments et les gérer {#access-and-manage-fragments}
 
-Pour accéder aux fragments visuels, accédez au volet de navigation de gauche et cliquez sur **[!UICONTROL Gestion de contenu]** > **[!UICONTROL Fragments]**. Cette action ouvre une page de liste répertoriant tous les fragments créés dans l’instance, répertoriés dans un tableau.
+Pour accéder aux fragments visuels, accédez à Design Studio. Dans l’arborescence de gauche, cliquez sur **[!UICONTROL Fragments (nouveaux)]**.
 
 CAPTURE D’ÉCRAN
 
-Le tableau est trié selon la colonne _[!UICONTROL Modifié]_, les fragments les plus récemment mis à jour étant en haut par défaut. Cliquez sur le titre de la colonne pour passer d’un ordre croissant à un ordre décroissant.
+Par défaut, le tableau est trié selon la colonne _[!UICONTROL Modifié]_, les fragments les plus récemment mis à jour étant en haut. Cliquez sur d’autres titres de colonne pour modifier le tri. Cliquez de nouveau pour basculer entre ordre croissant et décroissant.
 
-### Statut et cycle de vie du fragment
+### Statut du fragment {#fragment-status}
 
 Le statut du fragment détermine sa disponibilité pour une utilisation dans un e-mail ou un modèle d’e-mail, ainsi que les modifications que vous pouvez y apporter.
 
@@ -121,17 +122,7 @@ CAPTURE D’ÉCRAN
 
 ### Ajouter la structure et le contenu {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Ajout de composants de structure"
->abstract="Les composants de structure définissent la disposition du fragment. Faites glisser et déposez un composant de **structure** dans la zone de travail pour commencer à concevoir le contenu de votre fragment."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="À propos des composants de contenu"
->abstract="Les composants de contenu sont des espaces réservés de contenu vides que vous pouvez utiliser pour créer la disposition d’un fragment."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Ajout de ressources
 
@@ -327,7 +318,7 @@ Les fragments sont conçus pour être réutilisés et vous pouvez en ajouter jus
 
 1. Accédez à **[!UICONTROL Parcours de compte]** et ouvrez un parcours parcours existant ou créez-en un. &lt;— VÉRIFIEZ DEUX FOIS
 
-----------ARRÊT DES MODIFICATIONS ICI---------
+---------ARRÊT DES MODIFICATIONS ICI---------
 
 1. Créez un nœud [_[!UICONTROL Envoyer un e-mail ]_](./email-authoring.md#add-an-email-action-in-an-account-journey).
 
