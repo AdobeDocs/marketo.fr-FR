@@ -4,9 +4,9 @@ description: Découvrez comment créer et utiliser des fragments de contenu visu
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ Les fragments visuels sont des blocs visuels prédéfinis créés (à l’aide d
 
 Pour accéder aux fragments visuels, accédez à Design Studio. Dans l’arborescence de gauche, cliquez sur **[!UICONTROL Fragments (nouveaux)]**.
 
-CAPTURE D’ÉCRAN
+![Accéder aux fragments](assets/fragments-1.png){width="600" zoomable="yes"}
 
 Par défaut, le tableau est trié selon la colonne _[!UICONTROL Modifié]_. Cliquez sur d’autres titres de colonne pour modifier les critères de tri du tableau. Cliquez de nouveau pour basculer entre ordre croissant et décroissant.
 
