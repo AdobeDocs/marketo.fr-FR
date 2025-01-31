@@ -1,11 +1,9 @@
 ---
 description: Création d’e-mails - Documents Marketo - Documentation du produit
 title: Création d’e-mails
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 3%
@@ -22,7 +20,7 @@ Découvrez comment créer, personnaliser et prévisualiser des e-mails dans la n
 
 ## Création d’un e-mail {#create-an-email}
 
-Les e-mails provenant de la Designer d’e-mail ne peuvent être créés que dans Design Studio et référencés dans les campagnes/listes intelligentes, ou créés/utilisés directement dans les programmes d’e-mail pour le moment.
+Les e-mails du concepteur d’e-mail ne peuvent être créés que dans Design Studio et référencés dans les campagnes/listes intelligentes, ou créés/utilisés directement dans les programmes d’e-mail pour le moment.
 
 >[!BEGINTABS]
 

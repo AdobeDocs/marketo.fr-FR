@@ -1,13 +1,11 @@
 ---
 description: Présentation - Documents Marketo - Documentation Du Produit
 title: Vue d’ensemble
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Engage.
 >
 >Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-La nouvelle Designer d’e-mail est la dernière innovation de Marketo Engage. Elle vise à offrir une expérience de création de modèles d’e-mail et d’e-mail repensée pour améliorer la productivité et l’efficacité en fournissant un éditeur visuel par glisser-déposer avec des modèles prêts à l’emploi. Créez facilement des modèles d’e-mail personnalisés sans avoir à dépenser d’argent pour les fournisseurs.
+Le nouveau concepteur d’e-mail est la dernière innovation de Marketo Engage. Il vise à offrir une expérience de création de modèles d’e-mail et d’e-mail repensée pour améliorer la productivité et l’efficacité en fournissant un éditeur visuel par glisser-déposer avec des modèles prêts à l’emploi. Créez facilement des modèles d’e-mail personnalisés sans avoir à dépenser d’argent pour les fournisseurs.
 
 Les e-mails créés dans le nouveau concepteur peuvent être utilisés dans les programmes de messagerie ainsi que dans les listes dynamiques/campagnes. De nouvelles améliorations puissantes du concepteur sont à venir.
 
@@ -55,7 +53,7 @@ modèles dans le concepteur, ce qui réduit le besoin de développeurs web exter
 
 **Le nouveau concepteur d’e-mail prend-il en charge le langage AMP ?**
 
-La version de base ne prend pas en charge AMP pour le moment.
+Actuellement, il ne prend pas en charge AMP.
 
 **Le contenu dynamique par attribut est une bonne chose, mais le contenu dynamique par segment fonctionne-t-il toujours ?**
 
