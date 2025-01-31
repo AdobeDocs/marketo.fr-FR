@@ -3,7 +3,7 @@ description: Présentation - Documents Marketo - Documentation Du Produit
 title: Vue d’ensemble
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau conce
 
 Non, les modèles d’e-mail de l’éditeur classique ne peuvent pas être référencés dans le nouveau concepteur. Vous devrez créer des modèles dans le nouveau concepteur. Cependant, vous _pouvez_ importer l’HTML du modèle dans le nouveau concepteur, puis effectuer les ajustements nécessaires. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
 
-**Existe-t-il un moyen d’appliquer le branding (polices, logo et couleurs) ?**
+**Existe-t-il un moyen d’appliquer l’image de marque (polices, logos et couleurs) ?**
 
 Le verrouillage des sections de contenu fait partie du nouveau concepteur. Le verrouillage des styles, des couleurs, etc. sera disponible dans le courant de l’année.
 
