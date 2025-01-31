@@ -4,10 +4,11 @@ title: Vue d’ensemble
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 3%
+source-wordcount: '543'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +22,45 @@ Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Engage.
 
 La nouvelle Designer d’e-mail est la dernière innovation de Marketo Engage. Elle vise à offrir une expérience de création de modèles d’e-mail et d’e-mail repensée pour améliorer la productivité et l’efficacité en fournissant un éditeur visuel par glisser-déposer avec des modèles prêts à l’emploi. Créez facilement des modèles d’e-mail personnalisés sans avoir à dépenser d’argent pour les fournisseurs.
 
-Les e-mails créés dans le nouveau concepteur peuvent être utilisés dans les listes intelligentes et les campagnes intelligentes. De nombreuses autres améliorations sont prévues pour l’avenir afin de rendre le nouveau concepteur encore meilleur.
+Les e-mails créés dans le nouveau concepteur peuvent être utilisés dans les programmes de messagerie ainsi que dans les listes dynamiques/campagnes. De nouvelles améliorations puissantes du concepteur sont à venir.
 
-**Articles disponibles**
+## Articles disponibles {#available-articles}
 
 * [Création d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"} : découvrez comment créer, concevoir et référencer un e-mail dans le nouvel éditeur.
 
 * [Modèles d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"} : découvrez comment créer, concevoir et accéder à un modèle d’e-mail dans le nouvel éditeur.
 
-* AEM Assets
+## Questions fréquentes {#faq}
 
-* Fragments
+**L’ancien éditeur d’e-mail continuera-t-il à fonctionner ? Si oui, pour combien de temps ?**
+
+Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau concepteur d’e-mail. Les e-mails créés dans l’éditeur classique seront conservés. Il n’existe aucune date quant à la date d’abandon de l’éditeur classique pour le moment, mais il continuera à fonctionner en 2025.
+
+**Nos modèles d’e-mail existants fonctionneront-ils dans le nouveau concepteur ? Dans le cas contraire, devons-nous créer des modèles à l’aide du nouveau concepteur afin que toutes les sections/modules correspondent à l’aspect que nous voulons donner à notre contenu ?**
+
+Non, les modèles d’e-mail de l’éditeur classique ne peuvent pas être référencés dans le nouveau concepteur. Vous devrez créer des modèles dans le nouveau concepteur. Cependant, vous _pouvez_ importer l’HTML du modèle dans le nouveau concepteur, puis effectuer les ajustements nécessaires. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
+
+**Existe-t-il un moyen d’appliquer le branding (polices, logo et couleurs) ?**
+
+Le verrouillage des sections de contenu fait partie du nouveau concepteur. Le verrouillage des styles, des couleurs, etc. sera disponible dans le courant de l’année.
+
+**Les modules destinés aux modèles seront-ils plus personnalisables et plus évolutifs ?**
+
+Oui, absolument, plus personnalisable avec notre éditeur WYSIWYG (ce que vous voyez est ce que vous obtenez).
+
+**Comment fonctionne le processus de création de modèle d’e-mail dans le nouveau concepteur ? S’agit-il de WYSIWYG ou faut-il des connaissances en HTML ?**
+
+Il s’agit de WYSIWYG ; la connaissance de l’HTML n’est pas nécessaire. Vous pouvez facilement créer des
+modèles dans le concepteur, ce qui réduit le besoin de développeurs web externes. Cependant, vous avez toujours la possibilité de mettre à jour CSS et de modifier des sections individuelles par HTML. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
+
+**Le nouveau concepteur d’e-mail prend-il en charge le langage AMP ?**
+
+La version de base ne prend pas en charge AMP pour le moment.
+
+**Le contenu dynamique par attribut est une bonne chose, mais le contenu dynamique par segment fonctionne-t-il toujours ?**
+
+Actuellement, le nouveau concepteur ne prend en charge que les attributs, mais nous travaillons à ajouter des segments dans une prochaine version.
+
+**Comment puis-je savoir si notre abonnement de Marketo Engage a été migré vers IMS (le Adobe Admin Console) ?**
+
+Si vous vous connectez à Marketo Engage via [experience.adobe.com](experience.adobe.com), votre abonnement a été migré.
