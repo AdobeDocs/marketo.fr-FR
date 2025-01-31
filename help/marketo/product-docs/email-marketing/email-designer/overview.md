@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Les e-mails créés dans le nouveau concepteur peuvent être utilisés dans les 
 
 * [Création d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"} : découvrez comment créer, concevoir et référencer un e-mail dans le nouvel éditeur.
 
-* [Modèles d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"} : découvrez comment créer, concevoir et accéder à un modèle d’e-mail dans le nouvel éditeur.
+* [Modèles d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"} : découvrez comment créer, concevoir et accéder à un modèle d’e-mail dans le nouvel éditeur.
 
 ## Questions fréquentes {#faq}
 
@@ -63,4 +63,4 @@ Actuellement, le nouveau concepteur ne prend en charge que les attributs, mais n
 
 **Comment puis-je savoir si notre abonnement de Marketo Engage a été migré vers IMS (le Adobe Admin Console) ?**
 
-Si vous vous connectez à Marketo Engage via [experience.adobe.com](experience.adobe.com), votre abonnement a été migré.
+Si vous vous connectez à Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, votre abonnement a été migré.
