@@ -4,9 +4,9 @@ description: Découvrez comment créer et utiliser des fragments de contenu visu
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 2%
 
 ---
@@ -314,7 +314,7 @@ Les fragments sont conçus pour être réutilisés et vous pouvez en ajouter jus
 
 >[!TAB Ajouter des fragments à un email]
 
-1. Accédez à **[!UICONTROL Parcours de compte]** et ouvrez un parcours parcours existant ou créez-en un. &lt;— VÉRIFIEZ DEUX FOIS
+1. Accédez à **[!UICONTROL Parcours de compte]** et ouvrez un parcours parcours existant ou créez-en un. &lt;— UNIQUEMENT SI DANS L’E-MAIL OU LE MODÈLE D’E-MAIL
 
 ---------ARRÊT DES MODIFICATIONS ICI---------
 

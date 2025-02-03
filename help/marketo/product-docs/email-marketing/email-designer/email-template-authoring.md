@@ -2,15 +2,17 @@
 description: Modèles d’e-mail - Documents Marketo - Documentation du produit
 title: Modèles d’e-mail
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 4%
 
 ---
 
-# Création de modèles d’e-mail {#email-template-authoring}
+# Création d&#39;un modèle d&#39;email {#email-template-authoring}
 
 Pour accélérer et améliorer le processus de conception, vous pouvez créer des modèles d’e-mail autonomes pour réutiliser facilement du contenu personnalisé.
 
@@ -162,7 +164,7 @@ L’éditeur effectue le rendu du fragment dans la section/l’élément de la s
 
 Une fois l’e-mail enregistré, il apparaît dans l’onglet _[!UICONTROL Utilisé par]_ de la page des détails du fragment. Les fragments ajoutés à un modèle d’e-mail ne sont pas modifiables dans le modèle ; le fragment source définit le contenu.
 
-### Ajout d’Assets {#add-assets}
+### Ajout de ressources {#add-assets}
 
 Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance de Marketo Engage.
 
