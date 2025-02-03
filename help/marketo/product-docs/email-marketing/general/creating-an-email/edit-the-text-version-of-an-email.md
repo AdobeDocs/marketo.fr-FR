@@ -4,9 +4,9 @@ description: Modification de la version texte d’un e-mail - Documents Marketo 
 title: Modification de la version texte d’un e-mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Lors de la création d’un e-mail, vous pouvez souhaiter que sa version texte s
 
 >[!CAUTION]
 >
->Sélectionner **Copier à partir de l’HTML** ou resélectionner **Copier automatiquement à partir de l’HTML** dans les e-mails contenant du contenu dynamique définit l’indicateur Révisé sur _true_ pour tous les segments dans les versions HTML et Texte de l’e-mail.
+>Sélectionner **Copier à partir de l’HTML** ou resélectionner **Copier automatiquement à partir de l’HTML** dans les e-mails contenant du contenu dynamique définit l’indicateur Révisé sur _true_ pour tous les segments (produisant la coche verte indiquant qu’il a été révisé) dans les versions HTML et Texte de l’e-mail. Si vous effectuez l’une des actions ci-dessus, veillez à revérifier votre contenu avant de l’envoyer.
