@@ -4,7 +4,7 @@ description: Découvrez comment utiliser des ressources d’image d’un référ
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ Si plusieurs référentiels AEM sont connectés, cliquez sur le bouton **[!UICON
 
 Choisissez le référentiel de votre choix.
 
-![Choisissez un référentiel AEM Assets pour accéder aux ressources d’image](assets/work-with-experience-manager-assets-five.png)
+![Choisissez un référentiel AEM Assets pour accéder aux ressources d’image](assets/work-with-experience-manager-assets-5.png)
 
 Il existe plusieurs méthodes pour ajouter une ressource d’image à la zone de travail visuelle :
 
 * Glissez-déposez une miniature d’image à partir du volet de navigation de gauche.
 
-![Choisissez un référentiel AEM Assets pour accéder aux ressources d’image](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![Choisissez un référentiel AEM Assets pour accéder aux ressources d’image](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * Ajoutez un composant d’image à la zone de travail, puis cliquez sur **[!UICONTROL Parcourir]** pour afficher la boîte de dialogue _[!UICONTROL Sélectionner Assets]_.
 
@@ -67,7 +67,7 @@ Il existe plusieurs méthodes pour ajouter une ressource d’image à la zone de
 
   Plusieurs outils sont disponibles pour vous aider à localiser la ressource dont vous avez besoin.
 
-![utilisez l’outil dans la boîte de dialogue Sélectionner Assets pour rechercher et sélectionner une ressource image](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![utilisez l’outil dans la boîte de dialogue Sélectionner Assets pour rechercher et sélectionner une ressource image](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Modifiez le **[!UICONTROL Référentiel]** en haut à droite.
 
@@ -83,4 +83,4 @@ Il existe plusieurs méthodes pour ajouter une ressource d’image à la zone de
 
 * Saisissez du texte dans le champ Rechercher pour filtrer les éléments affichés afin qu’ils correspondent au nom de la ressource.
 
-![Utilisez les filtres et le champ de recherche pour localiser la ressource](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Utilisez les filtres et le champ de recherche pour localiser la ressource](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
