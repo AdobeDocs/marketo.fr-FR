@@ -4,16 +4,16 @@ description: Découvrez comment utiliser des ressources d’image d’un référ
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
 
 # Utilisation de ressources Experience Manager {#work-with-experience-manager-assets}
 
-Lorsque _Adobe Experience Manager Assets as a Cloud Service_ est intégré à Adobe Marketo Engage, vous pouvez facilement accéder aux ressources numériques à utiliser dans votre contenu marketing. Lorsque vous créez votre contenu, les ressources sont accessibles à partir de l’élément _[!UICONTROL Experience Manager Assets]_ dans le volet de navigation de gauche.
+Lorsque _Adobe Experience Manager Assets as a Cloud Service_ est intégré à Adobe Marketo Engage, vous pouvez facilement accéder aux ressources numériques à utiliser dans votre contenu marketing.
 
 >[!PREREQUISITES]
 >
