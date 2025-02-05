@@ -3,7 +3,7 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
+source-git-commit: 6f2c91d31b1d2ea3f2977aa3c9b1ca40e5459a16
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 6%
@@ -34,8 +34,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
     <tr> 
    <td><strong>Nouveau Designer d’e-mail</strong> : créez des e-mails modernes et efficaces à l’aide du nouveau Designer d’e-mail natif dans Marketo Engage. Accédez à l’un des modèles d’e-mail prêts à l’emploi préconçus ou créez facilement le vôtre. Utilisez du contenu dynamique et accédez aux images à partir des services cloud Adobe Experience Manager. Utilisez la fonctionnalité IA générative de l’accélérateur de contenu pour créer des e-mails innovants et performants à grande échelle.
    <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview"></a>. Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo</a>. Pour accéder à la fonctionnalité IA généralisée de l’accélérateur de contenu, contactez l’équipe du compte d’Adobe.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Présentation d’Email Designer</a></td>
   </tr>
   <tr> 
    <td> </td> 
