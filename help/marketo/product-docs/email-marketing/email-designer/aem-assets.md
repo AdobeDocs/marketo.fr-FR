@@ -1,12 +1,10 @@
 ---
 title: Utiliser Experience Manager Assets
 description: Découvrez comment utiliser des ressources d’image d’un référentiel AEM Assets connecté lors de la création de contenu dans Adobe Marketo Engage.
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,13 +15,13 @@ Lorsque _Adobe Experience Manager Assets as a Cloud Service_ est intégré à Ad
 
 >[!PREREQUISITES]
 >
->Connecter la documentation MKTO/AEM.
+>[Connexion des Cloud Service Adobe Experience Manager à l’instance Adobe Marketo Engage](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->Actuellement, seules les ressources d’image de _Adobe Experience Manager Assets_ sont prises en charge dans Marketo Engage. Les modifications apportées aux ressources doivent être effectuées à partir du référentiel central d’Adobe Experience Manager Assets. [En savoir plus](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Actuellement, seules les ressources d’image de _Adobe Experience Manager Assets_ sont prises en charge dans Marketo Engage. Les modifications apportées aux ressources doivent être effectuées à partir du référentiel central d’Adobe Experience Manager Assets. [En savoir plus](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-Lorsque vous utilisez ces ressources numériques, les dernières modifications apportées à _Assets as a Cloud Service_ se propagent automatiquement aux campagnes par e-mail actives par le biais de références liées. Si des images sont supprimées dans _Adobe Experience Manager Assets as a Cloud Service_, elles apparaissent avec une référence rompue dans les e-mails. Lorsque des ressources actuellement utilisées dans Marketo Engage sont modifiées ou supprimées, les auteurs d’e-mails sont avertis des modifications de l’image. Toutes les modifications apportées aux ressources doivent être effectuées dans le référentiel central d’Adobe Experience Manager Assets.
+Lorsque vous utilisez ces ressources numériques, les dernières modifications apportées à _Assets as a Cloud Service_ se propagent automatiquement aux campagnes par e-mail actives par le biais de références liées. Si des images sont supprimées dans _Adobe Experience Manager Assets as a Cloud Service_, elles apparaissent avec une référence rompue dans vos e-mails. Lorsque des ressources actuellement utilisées dans Marketo Engage sont modifiées ou supprimées, les auteurs d’e-mails sont avertis des modifications de l’image. Toutes les modifications apportées aux ressources doivent être effectuées dans le référentiel central d’Adobe Experience Manager Assets.
 
 ## Utiliser AEM Assets comme source d’images {#use-aem-assets-as-the-image-source}
 
@@ -67,7 +65,7 @@ Il existe plusieurs méthodes pour ajouter une ressource d’image à la zone de
 
   Plusieurs outils sont disponibles pour vous aider à localiser la ressource dont vous avez besoin.
 
-![utilisez l’outil dans la boîte de dialogue Sélectionner Assets pour rechercher et sélectionner une ressource image](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Utilisez l’outil dans la boîte de dialogue Sélectionner Assets pour rechercher et sélectionner une ressource image](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Modifiez le **[!UICONTROL Référentiel]** en haut à droite.
 

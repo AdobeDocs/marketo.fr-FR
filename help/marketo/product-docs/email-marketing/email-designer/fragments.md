@@ -4,9 +4,9 @@ description: Découvrez comment créer et utiliser des fragments de contenu visu
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2052'
 ht-degree: 2%
 
 ---
@@ -26,11 +26,25 @@ Les fragments visuels sont des blocs visuels prédéfinis créés (à l’aide d
 
 ## Accéder aux fragments et les gérer {#access-and-manage-fragments}
 
-Pour accéder aux fragments visuels, accédez au **Design Studio**. Dans l’arborescence de gauche, cliquez sur **[!UICONTROL Fragments (nouveaux)]**.
+Pour accéder aux fragments visuels, accédez à **Design Studio** dans Marketo Engage. Dans l’arborescence de gauche, cliquez sur **[!UICONTROL Fragments (nouveaux)]**.
 
-![Accéder aux fragments](assets/fragments-1.png){width="600" zoomable="yes"}
+![Accéder aux fragments](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 Par défaut, le tableau est trié selon la colonne _[!UICONTROL Modifié]_. Cliquez sur d’autres titres de colonne pour modifier les critères de tri du tableau. Cliquez à nouveau sur le même titre pour basculer entre ordre croissant et décroissant.
+
+### Rechercher et filtrer
+
+Utilisez la barre de recherche pour rechercher un fragment par nom. Cliquez sur l’icône _Filtre_ ( ![Icône Filtrer](assets/icon-filter.svg) ) pour afficher les options de filtre disponibles et choisir les paramètres souhaités.
+
+![Filtrer les fragments affichés](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### Personnaliser les colonnes {#customize-the-column-display}
+
+Personnalisez les colonnes à afficher dans le tableau en cliquant sur l’icône _Personnaliser le tableau_ ( ![icône Personnaliser le tableau](assets/icon-column-settings.svg) ) en haut à droite.
+
+Sélectionnez les colonnes souhaitées et cliquez sur **[!UICONTROL Appliquer]**.
+
+![Boîte de dialogue modale Personnaliser le tableau](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Statut du fragment {#fragment-status}
 
@@ -73,36 +87,30 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
   </tr>
 </tbody></table>
 
-### Filtrer la liste des fragments {#filter-the-fragments-list}
-
-Utilisez la barre de recherche pour rechercher un fragment par nom. Cliquez sur l’icône _Filtre_ ( ![Icône Filtrer](assets/icon-filter.svg) ) pour afficher les options de filtre disponibles et choisir les paramètres souhaités.
-
-![Filtrer les fragments affichés](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### Personnalisation de l’affichage des colonnes {#customize-the-column-display}
-
-Personnalisez les colonnes à afficher dans le tableau en cliquant sur l’icône _Personnaliser le tableau_ ( ![icône Personnaliser le tableau](assets/icon-column-settings.svg) ) en haut à droite.
-
-Dans la boîte de dialogue, sélectionnez les colonnes souhaitées et cliquez sur **[!UICONTROL Appliquer]**.
-
-CAPTURE D’ÉCRAN
-
 ## Créer des fragments {#create-fragments}
 
-Créez un fragment visuel en cliquant sur **[!UICONTROL Créer un fragment]** en haut à droite.
+1. Pour créer un fragment visuel, cliquez sur **[!UICONTROL Créer un fragment]** en haut à droite de la page de liste des fragments.
 
-1. Dans la boîte de dialogue _[!UICONTROL Créer un fragment]_, saisissez un **[!UICONTROL Nom]** et un **[!UICONTROL Description]** facultatif.
+   ![bouton Créer un fragment](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   Exigences de fragment :
+1. Donnez un **[!UICONTROL Nom]** et un **[!UICONTROL Description]** facultatif à votre fragment.
 
-   * Nom : 100 caractères au maximum, doit être unique et non sensible à la casse.
+   _Exigences relatives aux fragments_
+
+   * Nom : 100 caractères au maximum, doit être unique et ne pas respecter la casse
    * Description : 300 caractères max.
-   * Les caractères Alpha, numériques et spéciaux sont autorisés
+   * Caractères : alpha, numérique et caractères spéciaux sont autorisés
    * Les caractères réservés ne sont **_pas autorisés_** : `\ / : * ? " < > |`
 
-CAPTURE D’ÉCRAN
+   ![Boîte de dialogue modale Créer un fragment](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Cliquez sur **[!UICONTROL Créer]**.
+
+   ![Boîte de dialogue modale Créer un fragment](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Le **type** d’un fragment ne peut pas être modifié pour le moment.
 
    Le concepteur visuel s’ouvre avec une zone de travail vide.
 
