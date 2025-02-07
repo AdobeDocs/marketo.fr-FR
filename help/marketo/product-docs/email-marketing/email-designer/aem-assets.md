@@ -2,40 +2,80 @@
 title: Utiliser Experience Manager Assets
 description: Découvrez comment utiliser des ressources d’image d’un référentiel AEM Assets connecté lors de la création de contenu dans Adobe Marketo Engage.
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
 workflow-type: tm+mt
-source-wordcount: '607'
-ht-degree: 1%
+source-wordcount: '791'
+ht-degree: 2%
 
 ---
 
 # Utilisation de ressources Experience Manager {#work-with-experience-manager-assets}
 
-Lorsque _Adobe Experience Manager Assets as a Cloud Service_ est intégré à Adobe Marketo Engage, vous pouvez facilement accéder aux ressources numériques à utiliser dans votre contenu marketing.
-
->[!PREREQUISITES]
->
->[Connexion des Cloud Service Adobe Experience Manager à l’instance Adobe Marketo Engage](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
+Connectez votre compte _Adobe Experience Manager Assets as a Cloud Service_ à votre instance Adobe Marketo Engage afin de pouvoir exploiter votre référentiel de ressources AEM dans Marketo Engage Email Designer.
 
 >[!NOTE]
 >
 >Actuellement, seules les ressources d’image de _Adobe Experience Manager Assets_ sont prises en charge dans Marketo Engage. Les modifications apportées aux ressources doivent être effectuées à partir du référentiel central d’Adobe Experience Manager Assets. [En savoir plus](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
+## Accéder à l’accélérateur de contenu de l’assistant IA {#access-the-ai-assistant-content-accelerator}
+
+Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier les Cloud Service AEM à Adobe Marketo Engage.
+
++++Lier les Cloud Service et Marketo Engage AEM
+
+>[!NOTE]
+>
+>**Autorisations d’administrateur requises**
+
+1. Dans Marketo Engage, accédez à la zone **Admin** et sélectionnez **Adobe Experience Manager** dans l’arborescence de navigation de gauche.
+
+   ![Sélectionnez Adobe Experience Manager dans la section Admin](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
+
+1. Cliquez sur **Modifier** en regard de _Cloud Service Adobe Experience Manager_.
+
+   ![Cliquez sur MODIFIER](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
+
+1. Sélectionnez un ou plusieurs référentiels.
+
+   ![Sélectionner un référentiel](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Seuls les référentiels qui ont été associés à la même organisation IMS que votre abonnement de Marketo Engage sont répertoriés.
+
+1. Vous devez ajouter un [certificat d’identification de service](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) pour configurer le référentiel. Cliquez sur le bouton **+ Ajouter un certificat**.
+
+   ![Ajouter un certificat](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
+
+1. Effectuez un glisser-déposer de votre certificat (fichier JSON uniquement) ou sélectionnez-le depuis votre ordinateur. Cliquez sur **Ajouter** lorsque vous avez terminé.
+
+   ![Recherchez le certificat sur votre ordinateur](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
+
+1. Le référentiel configuré est affiché ci-dessous, ainsi que le statut et l’expiration. Cliquez sur le bouton représentant des points de suspension (**...**) pour afficher le certificat. Sinon, c&#39;est fini.
+
+   ![Le certificat a été ajouté](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
+
+Désormais, toutes les images de la bibliothèque de gestion des ressources numériques de ce référentiel sont accessibles à partir du Designer d’e-mail du Marketo Engage.
+
++++
+
+## Utilisation des ressources AEM {#working-with-aem-assets}
+
 Lorsque vous utilisez ces ressources numériques, les dernières modifications apportées à _Assets as a Cloud Service_ se propagent automatiquement aux campagnes par e-mail actives par le biais de références liées. Si des images sont supprimées dans _Adobe Experience Manager Assets as a Cloud Service_, elles apparaissent avec une référence rompue dans vos e-mails. Lorsque des ressources actuellement utilisées dans Marketo Engage sont modifiées ou supprimées, les auteurs d’e-mails sont avertis des modifications de l’image. Toutes les modifications apportées aux ressources doivent être effectuées dans le référentiel central d’Adobe Experience Manager Assets.
 
-## Utiliser AEM Assets comme source d’images {#use-aem-assets-as-the-image-source}
+### Utiliser AEM Assets comme source d’images {#use-aem-assets-as-the-image-source}
 
 Si votre environnement comporte une ou plusieurs connexions au référentiel de ressources, vous pouvez désigner AEM Assets comme source des ressources lorsque vous créez ou affichez les détails d’un e-mail, d’un modèle d’e-mail ou d’un fragment visuel.
 
 * Lors de la création de contenu, choisissez `AEM Assets` comme élément **[!UICONTROL Image Source]** dans la boîte de dialogue.
 
-![Sélectionnez AEM Assets comme source d’image dans la boîte de dialogue de création](assets/work-with-experience-manager-assets-1.png){width="400"}
+![Sélectionnez AEM Assets comme source d’image dans la boîte de dialogue de création](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
 * Lors de l’ouverture d’une ressource de contenu existante, choisissez `AEM Assets` dans la section _[!UICONTROL Corps]_ à droite.
 
 ![Sélectionnez AEM Assets comme source d’image dans les propriétés](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Accès aux ressources pour la création {#access-assets-for-authoring}
+### Accès aux ressources pour la création {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
@@ -51,7 +91,7 @@ Si plusieurs référentiels AEM sont connectés, cliquez sur le bouton **[!UICON
 
 Choisissez le référentiel de votre choix.
 
-![Choisissez un référentiel AEM Assets pour accéder aux ressources d’image](assets/work-with-experience-manager-assets-5.png)
+![Choisissez un référentiel AEM Assets pour accéder aux ressources d’image](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"}
 
 Il existe plusieurs méthodes pour ajouter une ressource d’image à la zone de travail visuelle :
 
