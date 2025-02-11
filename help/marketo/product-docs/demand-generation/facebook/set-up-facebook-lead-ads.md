@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11379622
-description: Configuration des publicités Facebook - Documents Marketo - Documentation du produit
-title: Configuration de publicités Facebook
+description: Configuration des publicités de lead Facebook - Documents Marketo - Documentation du produit
+title: Configurer les publicités de lead Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
-# Configuration de publicités Facebook {#set-up-facebook-lead-ads}
+# Configurer les publicités de lead Facebook {#set-up-facebook-lead-ads}
 
-Utilisez [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour exécuter des campagnes publicitaires dans Facebook et générer des pistes pour Marketo.
+Utilisez [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"} pour exécuter des campagnes publicitaires sur Facebook et générer des leads pour Marketo.
 
 >[!NOTE]
 >
@@ -21,66 +21,66 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) pour 
 
 >[!AVAILABILITY]
 >
->Pour que les pistes publicitaires Facebook soient ajoutées à votre instance, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>Pour ajouter des annonces de leads Facebook à votre instance, contactez l’équipe de compte Adobe (votre gestionnaire de compte).
 
-1. Accédez à Marketo **Admin**.
+1. Dans Marketo Engage, accédez à la zone **Admin**.
 
-   ![](assets/image2016-11-29-10-3a50-3a29.png)
+   ![](assets/set-up-facebook-lead-ads-1.png)
 
-1. Accédez à **LaunchPoint**, cliquez sur **Nouveau,** et sélectionnez **Nouveau service**.
+1. Accédez à **LaunchPoint**, cliquez sur le menu déroulant **Nouveau** et sélectionnez **Nouveau service**.
 
-   ![](assets/image2016-11-29-10-3a51-3a11.png)
+   ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Saisissez un **nom d’affichage** pour votre service, sélectionnez le service **Facebook Lead Ads** dans la liste déroulante, puis cliquez sur **Créer**.
+1. Saisissez un **Nom d’affichage** pour votre service, sélectionnez le service **Publicités de prospect Facebook** dans la liste déroulante, puis cliquez sur **Créer**.
 
-   ![](assets/image2016-11-29-10-3a51-3a47.png)
+   ![](assets/set-up-facebook-lead-ads-3.png)
 
-1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](https://www.facebook.com). Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
+1. Ouvrez un nouvel onglet dans le même navigateur et accédez à [facebook.com](https://www.facebook.com){target="_blank"}. Connectez-vous à Facebook à l’aide du compte que vous souhaitez utiliser pour l’intégration.
 
    >[!NOTE]
    >
-   >Le compte Facebook devra accéder à toutes les pages d’entreprise de Facebook à partir desquelles vous souhaitez extraire des publicités de piste.
+   >Le compte Facebook devra accéder à toutes les pages commerciales Facebook dont vous souhaitez extraire les publicités de lead.
 
-   ![](assets/image2016-11-29-10-3a52-3a29.png)
+   ![](assets/set-up-facebook-lead-ads-4.png)
 
 1. Une fois connecté à Facebook, revenez à Marketo et cliquez sur **Autoriser**.
 
-   ![](assets/image2016-11-29-10-3a52-3a51.png)
+   ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. Si vous y êtes invité, cliquez sur **OK** pour accepter l’installation de l’application Marketo dans Facebook.
+1. Si vous y êtes invité, cliquez sur **OK** pour accepter l’installation de l’application Marketo sur Facebook.
 
-   ![](assets/image2016-11-29-10-3a56-3a3.png)
+   ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Vous remarquerez que vous êtes maintenant autorisé. Cliquez sur **Suivant**.
+1. Vous remarquerez que vous êtes désormais autorisé. Cliquez sur **Suivant**.
 
-   ![](assets/image2016-11-29-10-3a56-3a28.png)
+   ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Sélectionnez la ou les pages à partir desquelles Marketo doit extraire des publicités Facebook et cliquez sur **Suivant**.
-
-   >[!TIP]
-   >
-   >Si vous ne voyez pas de page que vous attendez, assurez-vous que le compte Facebook utilisé pour vous authentifier est ajouté à la page sur Facebook et réessayez.
-
-   ![](assets/image2016-11-29-10-3a58-3a36.png)
-
-1. Pour accepter les mappages de champ Facebook vers Marketo par défaut, cliquez simplement sur **Créer**.
+1. Sélectionnez la ou les pages à partir desquelles Marketo doit extraire les publicités de prospect Facebook, puis cliquez sur **Suivant**.
 
    >[!TIP]
    >
-   >En modifiant les mappages, vous pouvez personnaliser l’emplacement de stockage des données des publicités principales dans Marketo. Vous pouvez également [ extraire des données des questions personnalisées de pistes publicitaires](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Si vous ne voyez pas une page attendue, assurez-vous que le compte Facebook utilisé pour vous authentifier est ajouté à la page sur Facebook et réessayez.
+
+   ![](assets/set-up-facebook-lead-ads-8.png)
+
+1. Pour accepter les mappages par défaut des champs Facebook et Marketo, cliquez simplement sur **Créer**.
+
+   >[!TIP]
+   >
+   >En modifiant les mappages, vous pouvez personnaliser l’emplacement de stockage des données des annonces de prospects dans Marketo. Vous pouvez également [extraire des données à partir des questions personnalisées des annonces de leads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}.
 
    >[!CAUTION]
    >
-   >Marketo ne prend pas en charge le mappage de deux champs Facebook à un seul champ Marketo, uniquement de 1 à 1. Si vous mappez 2 à 1, il se peut que les prospects ne parviennent pas à entrer dans le système Marketo.
+   >Marketo ne prend pas en charge le mappage de deux champs Facebook à un seul champ Marketo, seulement 1 à 1. Si vous mappez 2 à 1, les prospects peuvent ne pas entrer dans le système Marketo.
 
-   ![](assets/image2016-11-29-11-3a0-3a2.png)
+   ![](assets/set-up-facebook-lead-ads-9.png)
 
-   C&#39;est joli ! Les pistes commenceront à affluer vers Marketo lorsque vous lancez des campagnes publicitaires de piste Facebook réussies.
+   Bien joué ! Les leads commenceront à affluer dans Marketo lorsque vous exécuterez des campagnes publicitaires de leads Facebook réussies.
 
-   ![](assets/image2016-11-29-12-3a32-3a54.png)
+   ![](assets/set-up-facebook-lead-ads-10.png)
 
 >[!MORELIKETHIS]
 >
->* [Attribuer/supprimer des autorisations dans le gestionnaire d’accès Leads (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
->* [Utiliser des filtres et des déclencheurs de piste dans une campagne dynamique](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Mapper des champs personnalisés à Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
+>* [Attribuer/supprimer des autorisations dans le Gestionnaire d’accès des leads (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862){target="_blank"}
+>* [Utilisation des filtres et des triggers des publicités de lead dans une campagne dynamique](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}
+>* [Mapper des champs personnalisés à Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}

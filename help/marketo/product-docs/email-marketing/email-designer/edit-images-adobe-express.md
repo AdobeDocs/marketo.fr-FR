@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -36,11 +36,11 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
 1. Dans Marketo Engage, accédez à **[!UICONTROL Design Studio]** et sélectionnez **[!UICONTROL Images et fichiers]**.
 
-   ![Sélection des images et fichiers dans le volet de navigation de gauche de Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Sélection des images et fichiers dans le volet de navigation de gauche de Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Sélectionnez l’image à modifier (ou créez-en une).
 
-   CAPTURE D’ÉCRAN
+   CAPTURE D’ÉCRAN 2a
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
 1. Dans l&#39;onglet image _Détails_, cliquez sur **Modifier dans Adobe Express**.
 
-   CAPTURE D’ÉCRAN
+   CAPTURE D’ÉCRAN 3a
 
    >[!CAUTION]
    >
@@ -60,7 +60,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
 1. Dans Marketo Engage, accédez à **[!UICONTROL Design Studio]** et sélectionnez **[!UICONTROL Images et fichiers]**.
 
-   ![Sélection des images et fichiers dans le volet de navigation de gauche de Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Sélection des images et fichiers dans le volet de navigation de gauche de Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
 1. Cochez la case en regard de l’image à modifier.
 
-   CAPTURE D’ÉCRAN
+   CAPTURE D’ÉCRAN 2b
 
 1. Dans la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]**, sélectionnez **[!UICONTROL Modifier dans Adobe Express]**.
 
@@ -80,7 +80,9 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
 >[!ENDTABS]
 
-## Utilisateurs disposant d’une licence d’entreprise {#users-with-an-enterprise-license}
+## Licence Adobe Express Enterprise {#adobe-express-enterprise-license}
+
+### Utilisateurs disposant d’une licence d’entreprise {#users-with-an-enterprise-license}
 
 Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès à l’éditeur Express complet. Vous pouvez ajuster les paramètres d’image tels que la couleur, la luminosité, la netteté, le contraste, la taille, etc. L’option Magie de l’IA vous permet de supprimer des arrière-plans, d’insérer et de supprimer des objets, ainsi que d’effacer des parties d’une image.
 
@@ -88,25 +90,56 @@ Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès
 >
 >La licence achetée doit être sous la même organisation IMS que votre abonnement Marketo Engage pour accéder à toutes les fonctionnalités d’édition d’Adobe Express. En outre, chaque utilisateur doit disposer d’une licence dans Adobe Express. Les utilisateurs [sans licence](#users-without-an-enterprise-license) ne peuvent accéder qu’aux actions rapides dans Adobe Express.
 
-Cliquez sur Modifier avec Adobe Express pour afficher l’image.
-
-CAPTURE D’ÉCRAN
-
-Effectuez les modifications requises et enregistrez le fichier.
-
-CAPTURE D’ÉCRAN
-
-Cliquez sur Enregistrer pour terminer l’action.
-
 ## Utilisateurs sans licence d’entreprise {#users-without-an-enterprise-license}
 
 Pour ceux qui ne disposent pas d’une licence Enterprise, vous avez toujours accès à plusieurs fonctionnalités d’édition d’action rapide. Ces fonctionnalités sont les suivantes :
 
-* Redimensionner l’image
-* Supprimer l’arrière-plan
-* Recadrer l’image
-* Convertir en PNG
-* Convertir en JPEG
+* [Redimensionner l’image](#resize-image)
+* [Supprimer l’arrière-plan](#remove-background)
+* [Recadrer l’image](#crop-image)
+* [Convertir en PNG/JPEG](#convert-to-png-jpeg)
+
+Les fonctionnalités sont accessibles dans le coin supérieur gauche de la page d’image.
+
+CAPTURE D’ÉCRAN
+
+### Redimensionner l’image {#resize-image}
+
+Apportez les modifications souhaitées et cliquez sur **Appliquer** lorsque vous avez terminé.
+
+CAPTURE D’ÉCRAN
+
+<table><tbody>
+  <tr>
+    <td><b>Format</b></td>
+    <td>Dans le menu déroulant <b>Format</b>, choisissez <b>Standard</b> à VIDE ou <b>Personnalisé</b> pour définir votre propre largeur/hauteur.</td>
+  </tr>
+  <tr>
+    <td><b>Largeur et Hauteur</b></td>
+    <td>Par défaut, les proportions sont verrouillées, ce qui conserve les proportions de l’image identiques lorsque vous ajustez sa taille. Si vous le souhaitez, vous pouvez sélectionner le bouton de verrouillage pour déverrouiller les proportions.</td>
+  </tr>
+  <tr>
+    <td><b>Réinitialiser</b></td>
+    <td>Cliquez sur <b>Réinitialiser</b> pour supprimer toutes les modifications apportées à l’image et la rétablir à son état d’origine.</td>
+  </tr>
+  <tr>
+    <td><b>Zoom et recadrage</b></td>
+    <td>Cliquez sur Zoom et recadrer pour effectuer un zoom avant sur des zones spécifiques de l’image.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Supprimer l’arrière-plan {#remove-background}
+
+texte
+
+### Recadrer l’image {#crop-image}
+
+Texte
+
+### Convertir en PNG/JPEG {#convert-to-png-jpeg}
 
 Cliquez sur Recadrer l’image sur la page.
 
