@@ -3,13 +3,12 @@ solution: Marketo Engage
 product: marketo engage
 title: Verrouillage de contenu dans les modèles d’e-mails
 description: Découvrez comment verrouiller le contenu dans vos modèles d’e-mail.
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 92%
+source-wordcount: '891'
+ht-degree: 75%
 
 ---
 
@@ -41,8 +40,6 @@ Le verrouillage de contenu peut être appliqué au niveau **structure** ou au ni
 
 Vous pouvez activer le verrouillage de contenu pour un modèle d’e-mail directement dans le Designer d’e-mail, que vous créiez un nouveau modèle ou en modifiiez un existant.
 
-—A ARRÊTÉ DE MODIFIER ICI—
-
 1. Ouvrez ou créez un modèle d’e-mail et accédez à l’écran de modification du contenu dans le Concepteur d’e-mail.
 
 1. Dans le volet **[!UICONTROL Corps]** à droite, activez l’option **[!UICONTROL Gouvernance]**.
@@ -54,18 +51,18 @@ Vous pouvez activer le verrouillage de contenu pour un modèle d’e-mail direct
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. Si vous avez sélectionné le mode **[!UICONTROL Verrouillage de contenu]**, vous pouvez définir plus précisément comment les personnes peuvent interagir avec le modèle. Activez l’option **[!UICONTROL Activer la modification du contenu]** et sélectionnez l’une des options suivantes :
+1. Si vous avez sélectionné le mode **[!UICONTROL Verrouillage de contenu]**, vous pouvez définir plus précisément comment les personnes peuvent interagir avec le modèle. Activez l’option **[!UICONTROL Activer l’édition du contenu]** et choisissez l’une des options suivantes :
 
    * **[!UICONTROL Autoriser l’ajout de structure et de contenu]** : les personnes peuvent ajouter des structures entre des structures existantes et ajouter des composants de contenu ou des fragments dans des structures modifiables.
 
    * **[!UICONTROL Autoriser l’ajout de contenu uniquement]** : les personnes peuvent ajouter des composants de contenu ou des fragments dans des structures modifiables, mais elles ne peuvent pas ajouter ni dupliquer des structures.
 
-1. Après avoir sélectionné le mode de verrouillage, vous pouvez définir les structures et/ou les composants à verrouiller si vous avez sélectionné le mode **[!UICONTROL Verrouillage de contenu]** :
+1. Après avoir sélectionné le mode de verrouillage, vous pouvez définir les structures et/ou composants à verrouiller si vous avez sélectionné le mode **[!UICONTROL Verrouillage du contenu]** :
 
    * [Découvrir comment verrouiller des structures](#lock-structures)
    * [Découvrir comment verrouiller des composants](#lock-components)
 
-   Si vous choisissez le mode **[!UICONTROL Lecture seule]**, vous pouvez terminer et enregistrer votre modèle comme vous le faites habituellement.
+   Si vous avez choisi le mode **[!UICONTROL Lecture seule]**, vous pouvez procéder à la finalisation et à l’enregistrement de votre modèle.
 
 Vous pouvez ajuster les paramètres de **[!UICONTROL Gouvernance]** à tout moment lors de la conception de votre modèle en sélectionnant le corps du modèle. Pour ce faire, cliquez sur le lien **[!UICONTROL Corps]** dans le rail de navigation situé en haut du volet de droite.
 
@@ -126,18 +123,13 @@ Dans l’exemple ci-dessous, la gouvernance est activée pour le corps du modèl
 
 Lors de l’utilisation d’un modèle avec du contenu verrouillé, le message **[!UICONTROL Gouvernance activée]** s’affiche dans le volet de droite.
 
-Selon le type de verrouillage appliqué au modèle, vous pouvez effectuer différentes actions sur les structures et composants du modèle. Pour identifier rapidement toutes les zones modifiables dans le modèle, activez l’option **[!UICONTROL Mettre en surbrillance les zones modifiables]**.
+Selon le type de verrouillage appliqué au modèle, vous pouvez effectuer différentes actions sur les structures et composants du modèle. Pour identifier rapidement toutes les zones modifiables dans le modèle, activez l’option **[!UICONTROL Mettre les zones modifiables en surbrillance]**.
 
-Par exemple, dans le modèle ci-dessous, toutes les zones sont modifiables, à l’exception de l’image du haut qui a été verrouillée, ce qui signifie que vous ne pouvez pas la modifier ni la supprimer.
+Par exemple, dans le modèle ci-dessous, toutes les zones sont modifiables, à l’exception de l’image supérieure qui a été verrouillée, ce qui signifie que vous ne pouvez pas la modifier ni la supprimer.
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
 
-Pour plus d&#39;informations sur les différents types de verrouillage qui peuvent être appliqués, reportez-vous aux sections suivantes :
-
-* [Verrouillage des structures](#lock-structures)
-* [Verrouillage des composants](#lock-components)
-
-Voici quelques exemples de modification d’e-mails et de configuration de verrouillage de contenu associé qui ont été configurés :
+Voici quelques exemples d&#39;édition d&#39;emails et de la configuration de verrouillage de contenu associée qui a été configurée :
 
 <table>
 <thead>
