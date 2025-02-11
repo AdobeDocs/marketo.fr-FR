@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---
@@ -44,11 +44,11 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
    >[!NOTE]
    >
-   >* Pour afficher les ressources par espace de travail et par dossier, ouvrez la structure en cliquant sur l’icône **Afficher les dossiers** en haut à gauche.
+   >* Pour afficher les ressources par espace de travail et par dossier, ouvrez la structure en cliquant sur l’icône **[!UICONTROL Afficher les dossiers]** en haut à gauche.
    >
    >* Pour trier le tableau en fonction de l’une des colonnes, cliquez sur le titre de la colonne. La flèche située dans la ligne de titre indique la colonne de tri et l’ordre actuels.
 
-1. Dans l&#39;onglet image _Détails_, cliquez sur **Modifier dans Adobe Express**.
+1. Dans l&#39;onglet image _Détails_, cliquez sur **[!UICONTROL Modifier dans Adobe Express]**.
 
    CAPTURE D’ÉCRAN 3a
 
@@ -64,7 +64,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
    >[!NOTE]
    >
-   >* Pour afficher les ressources par espace de travail et par dossier, ouvrez la structure en cliquant sur l’icône **Afficher les dossiers** en haut à gauche.
+   >* Pour afficher les ressources par espace de travail et par dossier, ouvrez la structure en cliquant sur l’icône **[!UICONTROL Afficher les dossiers]** en haut à gauche.
    >
    >* Pour trier le tableau en fonction de l’une des colonnes, cliquez sur le titre de la colonne. La flèche située dans la ligne de titre indique la colonne de tri et l’ordre actuels.
 
@@ -90,7 +90,7 @@ Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès
 >
 >La licence achetée doit être sous la même organisation IMS que votre abonnement Marketo Engage pour accéder à toutes les fonctionnalités d’édition d’Adobe Express. En outre, chaque utilisateur doit disposer d’une licence dans Adobe Express. Les utilisateurs [sans licence](#users-without-an-enterprise-license) ne peuvent accéder qu’aux actions rapides dans Adobe Express.
 
-## Utilisateurs sans licence d’entreprise {#users-without-an-enterprise-license}
+### Utilisateurs sans licence d’entreprise {#users-without-an-enterprise-license}
 
 Pour ceux qui ne disposent pas d’une licence Enterprise, vous avez toujours accès à plusieurs fonctionnalités d’édition d’action rapide. Ces fonctionnalités sont les suivantes :
 
@@ -103,9 +103,11 @@ Les fonctionnalités sont accessibles dans le coin supérieur gauche de la page 
 
 CAPTURE D’ÉCRAN
 
-### Redimensionner l’image {#resize-image}
+#### Redimensionner l’image {#resize-image}
 
-Apportez les modifications souhaitées et cliquez sur **Appliquer** lorsque vous avez terminé.
+1. Cliquez sur **Redimensionner l’image**.
+
+1. Apportez les modifications souhaitées et cliquez sur **Appliquer** lorsque vous avez terminé.
 
 CAPTURE D’ÉCRAN
 
@@ -124,22 +126,42 @@ CAPTURE D’ÉCRAN
   </tr>
   <tr>
     <td><b>Zoom et recadrage</b></td>
-    <td>Cliquez sur Zoom et recadrer pour effectuer un zoom avant sur des zones spécifiques de l’image.</td>
+    <td>Cliquez sur <b>Zoom et recadrage</b> pour effectuer un zoom avant sur des zones spécifiques de l’image.</td>
   </tr>
 </tbody>
 </table>
 
+#### Supprimer l’arrière-plan {#remove-background}
 
+1. Cliquez sur **Supprimer l’arrière-plan**.
 
-### Supprimer l’arrière-plan {#remove-background}
+1. Adobe Express affiche l’image sans arrière-plan. Cliquez sur **Appliquer**.
 
-texte
+PIC
 
-### Recadrer l’image {#crop-image}
+>[!TIP]
+>
+>Pour restaurer l’arrière-plan, sélectionnez l’image et sélectionnez à nouveau **Supprimer l’arrière-plan**.
 
-Texte
+#### Recadrer l’image {#crop-image}
 
-### Convertir en PNG/JPEG {#convert-to-png-jpeg}
+1. Cliquez sur Recadrer l’image.
+
+1. Faites glisser les coins de l’image pour créer le recadrage souhaité.
+
+CAPTURE D’ÉCRAN
+
+1. Cliquez sur **Appliquer** lorsque vous avez terminé.
+
+#### Convertir en PNG/JPEG {#convert-to-png-jpeg}
+
+Convertissez un fichier PNG en fichier JPEG ou un fichier JPEG en fichier PNG.
+
+1. Cliquez sur **Convertir en PNG/JPEG**.
+
+1. Cliquez sur **Appliquer**.
+
+RECADRER LES ÉLÉMENTS CI-DESSOUS
 
 Cliquez sur Recadrer l’image sur la page.
 
@@ -151,21 +173,10 @@ Vous pouvez effectuer une mise à jour supplémentaire à l’aide d’une autre
 
 Cliquez sur Enregistrer pour terminer l’action.
 
-Accès à l’éditeur à partir de la page de liste des images et fichiers
-Dans la page de liste, sélectionnez l’image à modifier, puis cliquez sur le bouton d’action chevron sur l’image et les fichiers de la page.
+## Enregistrer votre travail {#save-your-work}
 
-Cliquez sur Modifier avec Adobe Express .
+Une fois toutes vos modifications terminées, cliquez sur Enregistrer pour enregistrer votre travail.
 
-Accès à l’éditeur dans le Designer d’e-mail
+CAPTURE D’ÉCRAN
 
-Dans la nouvelle Designer d’e-mail, sélectionnez une image à modifier.
-
-Une option Modifier avec Adobe Express s’affiche. Cliquez sur le bouton pour continuer.
-
-Remarque : cette action est disponible pour les images provenant à l’origine du référentiel Marketo Design Studio.
-
-Si l’image est en cours d’utilisation, une boîte de dialogue d’alerte s’affiche pour vous informer que toute modification que vous apportez aura une incidence sur ce contenu. Cliquez sur Continuer pour accéder à l’éditeur d’Adobe Express.
-
-Terminez la modification sur Adobe Express
-
-Cliquez sur Enregistrer pour terminer l’action.  L’image modifiée est enregistrée dans le même dossier que l’image d’origine et est également mise à jour dans la zone de travail d’édition de l’e-mail.
+L’image modifiée est enregistrée dans le même dossier que l’image d’origine.
