@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: dbdd1e1f50203e7122219aab55780761d9df99e3
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
 source-wordcount: '9416'
 ht-degree: 4%
@@ -14,13 +14,13 @@ ht-degree: 4%
 # Guide Marketo {#using}
 
 + [Accueil](home.md)
-+ Prise en main des {#getting-started} de Marketo Engage
++ Prise en main de Marketo Engage {#getting-started}
    + [Qu’est-ce que Adobe Marketo Engage ?](getting-started/what-is-adobe-marketo-engage.md)
    + {#initial-setup} de configuration initiale
       + [Étapes de configuration](getting-started/initial-setup/setup-steps.md)
       + [Configurer les protocoles](getting-started/initial-setup/configure-protocols-for-marketo.md)
       + [Configuration de l’utilisateur ou de l’utilisatrice](getting-started/initial-setup/user-setup.md)
-   + Mise en œuvre d’une nouvelle instance de Marketo Engage {#implementing-a-new-marketo-engage-instance}
+   + Mise en œuvre d’un nouveau {#implementing-a-new-marketo-engage-instance} d’instance Marketo Engage
       + [Par où commencer](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Bonnes Pratiques Relatives Aux Nouvelles Instances : Liste De Contrôle De La Section Admin](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [Bonnes Pratiques Relatives Aux Nouvelles Instances : Liste De Contrôle De Base De Données](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
@@ -47,7 +47,7 @@ ht-degree: 4%
       + [Mettre à jour les données de personne](getting-started/quick-wins/update-person-data.md)
       + [Rediriger une page de destination](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatiser une alerte pour les personnes potentiellement en double](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-   + Hériter d’une instance de Marketo Engage {#inheriting-a-marketo-engage-instance}
+   + Hériter d’un {#inheriting-a-marketo-engage-instance} d’instance Marketo Engage
       + [Par où commencer](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [Instance héritée : liste de contrôle de la section Admin](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [Instance héritée : liste de contrôle de la base de données](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
@@ -60,7 +60,7 @@ ht-degree: 4%
       + {#seo} SEO
          + Comprendre les {#understanding-seo} d’optimisation du moteur de recherche
             + [Présentation de l’optimisation du moteur de recherche](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Présentation du tableau de bord d’optimisation du moteur de recherche : SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+            + [Présentation du tableau de bord d’optimisation du moteur de recherche : Recommandations d’optimisation du moteur de recherche](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [Présentation du tableau de bord d’optimisation du moteur de recherche : instantané d’optimisation du moteur de recherche](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
             + [SEO - Ajout d’un site/Suppression d’un site](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
             + [SEO - Ajouter des concurrents](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
@@ -170,7 +170,7 @@ ht-degree: 4%
          + [Ajouter/Modifier/Supprimer des champs d’activité personnalisés Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [Création d’une activité personnalisée](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Modification d’une activité personnalisée](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
-         + [Publish d’une activité personnalisée](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Publication d’une activité personnalisée](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
          + [Exportation de métadonnées d’activité personnalisées](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + {#marketo-custom-objects} d’objets personnalisés Marketo
          + [Présentation des objets personnalisés Marketo](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
@@ -183,7 +183,7 @@ ht-degree: 4%
          + [Importer les données de l’objet personnalisé](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [Déclencher Des Modifications D’Objet Personnalisé](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [Exportation de métadonnées d’objet personnalisé](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
-      + Marketo avec des {#marketo-with-adobe-identity} d’identité Adobe
+      + Marketo avec Adobe Identity {#marketo-with-adobe-identity}
          + [Guide rapide](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
          + [Présentation d’Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Configuration de l’administrateur](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
@@ -194,9 +194,9 @@ ht-degree: 4%
          + [Questions fréquentes](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Connexion utilisateur avec Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + {#subscription-and-user-migration} de migration des abonnements et des utilisateurs
-            + [Migration vers une identité d’Adobe](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
+            + [Migration vers Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Présentation de l’abonnement à Marketo et de la migration des utilisateurs vers Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Migration de la prise en charge de Marketo Engage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
+            + [Migration de la prise en charge Marketo Engage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
       + {#settings} des paramètres
          + [Informations sur l&#39;API d&#39;exportation en masse](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspecteur de campagne](product-docs/administration/settings/campaign-inspector.md)
@@ -253,7 +253,7 @@ ht-degree: 4%
          + [Partage de segmentations sur les espaces de travail et les partitions](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + {#adobe-experience-cloud-integrations} des intégrations Adobe Experience Cloud
       + [Présentation des intégrations Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
-      + [Configurer le mappage de l&#39;organisation d&#39;Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [Configurer le mappage d’organisation Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Synchroniser une audience à partir de Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importation d’Assets avec Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
       + [Présentation De L’Interface De Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
@@ -650,13 +650,13 @@ ht-degree: 4%
    + {#demand-generation} de génération de la demande
       + {#ad-network-integrations} des intégrations de réseau publicitaire
          + [Comprendre Les Intégrations Ad Network](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
-         + [Ajout d’audiences personnalisées Facebook as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
+         + [Ajout d’audiences personnalisées Facebook en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Ajout de Google Customer Match as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [Ajout d’audiences LinkedIn correspondant en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [Ajout d’audiences correspondantes LinkedIn en tant que service LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Envoyer une liste à un réseau publicitaire](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
          + [Envoi d’une liste à Google](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
-      + {#dynamic-chat} du Dynamic Chat
-         + [Présentation du Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+      + {#dynamic-chat} Dynamic Chat
+         + [Présentation de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Comportement du bot conversationnel](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Liste de réunions](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Activités de discussion dynamiques](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
@@ -741,17 +741,17 @@ ht-degree: 4%
             + [Workflows d’événement](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [Tableau de bord des engagements](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
             + [Webinaires interactifs dans Marketo Sales Insight](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
-      + {#facebook} facebook
+      + {#facebook} Facebook
          + [Ajout de leads à une audience personnalisée dans Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Création d’une audience personnalisée dans Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [Modifier les paramètres de publication enrichie Facebook](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Pages de destination de Publish vers Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [Modifier les paramètres de la publication Facebook enrichie](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Publier des pages de destination sur Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [Configurer les publicités de lead Facebook](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Mapper des champs personnalisés à Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-         + [Configuration des conversions hors ligne Facebook](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-         + [Tester les publicités de lead Facebook pour l’intégration des ordinateurs de bureau avec Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
-         + [Tester les publicités de lead de Facebook pour l’intégration mobile avec Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
-         + [Présentation des conversions hors ligne Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+         + [Configurer les conversions hors ligne Facebook](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+         + [Tester les publicités de leads Facebook pour l’intégration des ordinateurs de bureau avec Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
+         + [Tester les publicités de lead Facebook pour l’intégration mobile avec Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
+         + [Comprendre les conversions hors ligne Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Utilisation de filtres et de triggers des publicités de lead dans une campagne dynamique](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + {#forms} Forms
          + Création d’un {#creating-a-form} de formulaire
@@ -775,8 +775,8 @@ ht-degree: 4%
             + [Modification d’un formulaire](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [Incorporation d’un formulaire sur votre site web](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [Activer le remplissage de formulaire social sur un formulaire](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
-            + [FAQ sur le remplissage des formulaires sociaux linkedIn](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
-            + [Afficher le formulaire d&#39;HTML personnalisé pour les personnes connues](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
+            + [Questions fréquentes sur le remplissage des formulaires sociaux LinkedIn](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
+            + [Afficher un formulaire HTML personnalisé pour les personnes connues](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Utilisation d’un formulaire dans un Lightbox](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + {#form-design} de conception de formulaire
             + [Modifier la position du libellé du formulaire](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
@@ -827,7 +827,7 @@ ht-degree: 4%
             + [Ajout d’une vidéo à une page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [Ajout d’une image à une page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [Ajout d’un rectangle à une page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
-            + [Ajout d’un HTML personnalisé à une page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
+            + [Ajout d’HTML personnalisé à une page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [Création d’une page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [Personnalisation de la vue mobile pour votre page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [Utilisation de contenu dynamique dans une page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
@@ -986,11 +986,11 @@ ht-degree: 4%
          + Création d’une {#creating-a-poll} d’interrogation
             + [Créer un sondage](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [Personnaliser les paramètres d’interrogation](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [Publish a Poll](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [Publier un sondage](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [Vérifier les votes exprimés dans le sondage](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + Offres de référence {#referral-offers}
             + [Créer une offre de référence](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [Publish d’une offre de référence](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
+            + [Publier une offre de référence](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [Envoyer un e-mail de mise en œuvre de l’offre de référence](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [Spécifier l’objectif de l’offre de référence](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + {#social-functions} des fonctions sociales
@@ -1005,15 +1005,15 @@ ht-degree: 4%
             + [Définir l’exigence de partage sur les réseaux sociaux](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
             + [Configuration de LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Déclencheurs et filtres pour les activités sociales](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
-            + [Utilisation d’une liste Marketo ou d’une liste dynamique en tant que segment ciblé LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+            + [Utiliser une liste Marketo ou une liste dynamique comme segment d’audience LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Utiliser les e-mails dans les promotions sociales](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
-            + [Utilisation de filtres et de triggers de formulaires gén. de leads LinkedIn dans une campagne dynamique](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Utilisation de filtres et de triggers de formulaires de génération de leads LinkedIn dans une campagne dynamique](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Utiliser des codes promotion pour la réalisation des offres](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Afficher les performances sociales](product-docs/demand-generation/social/social-functions/view-social-performance.md)
          + {#sweepstakes} du concours
             + [Créer des loteries](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Personnalisation des styles de tirage au sort](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [Publish a Sweepstakes](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [Publication d’un tirage au sort](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Sélectionner les gagnants du concours](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + {#email-marketing} de marketing par e-mail
       + Délivrabilité {#deliverability}
@@ -1026,7 +1026,7 @@ ht-degree: 4%
          + [Comprendre le désabonnement](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Utiliser vos adresses IP dédiées pour envoyer des e-mails](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + {#inbox-tracker} du dispositif de suivi de la boîte de réception
-            + [Tutorials du dispositif de suivi de la boîte de réception](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
+            + [Tutoriels sur le dispositif de suivi de la boîte de réception](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Goutte-à-goutte d&#39;{#drip-nurturing}
          + Création d’un {#creating-an-engagement-program} de programme d’engagement
             + [Ajouter un flux](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1069,7 +1069,7 @@ ht-degree: 4%
          + [Modifier des images à l’aide d’Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
          + [Verrouillage de contenu](product-docs/email-marketing/email-designer/content-locking.md)
-         + [Accélérateur de contenu](product-docs/email-marketing/email-designer/content-accelerator.md)
+         + [Assistant IA](product-docs/email-marketing/email-designer/ai-assistant.md)
       + {#email-programs} des programmes de messagerie
          + Création d’un {#creating-an-email-program} de programme de messagerie
             + [Créer un programme de messagerie](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1146,7 +1146,7 @@ ht-degree: 4%
             + [Ajout de liens suivis à un e-mail texte](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [Créer un fichier d’événement de calendrier (.ics)](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [Désactivation du suivi d’un lien e-mail](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [Télécharger l’HTML d’un e-mail](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [Télécharger une HTML d’e-mail](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [Modification de l’HTML d’un e-mail](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + Tests d’e-mail - Champion-Challenger {#email-tests-champion-challenger}
                + [Ajouter un e-mail Champion/Challenger](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
@@ -1167,7 +1167,7 @@ ht-degree: 4%
             + [Utiliser le jeton d’envoi d’informations d’alerte](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Utilisation d’URL dans mes jetons](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Envoyer CC par courrier électronique](product-docs/email-marketing/general/email-cc.md)
-   + {#marketo-engage-modern-ux} d’expérience utilisateur moderne Marketo Engage
+   + {#marketo-engage-modern-ux} d’expérience utilisateur Marketo Engage Modern
       + [Vue d’ensemble](product-docs/marketo-engage-modern-ux/overview.md)
       + [Utilisation de la recherche globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Basculer](product-docs/marketo-engage-modern-ux/toggle-switch.md)
@@ -1374,7 +1374,7 @@ ht-degree: 4%
          + [Modèles recommandés](product-docs/marketo-sales-connect/templates/recommended-templates.md)
          + [Modèles partagés](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Engagement des modèles](product-docs/marketo-sales-connect/templates/template-engagement.md)
-         + [Utilisation de l’HTML](product-docs/marketo-sales-connect/templates/using-html.md)
+         + [Utilisation d’HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Afficher la liste des modèles en tant qu&#39;autre utilisateur](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + {#dynamic-fields} de champs dynamiques
             + [Création de champs dynamiques personnalisés](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
@@ -1526,7 +1526,7 @@ ht-degree: 4%
             + [Gérer les modèles](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Gérer les catégories de modèles](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [Modèles recommandés](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
-            + [Utilisation de l’HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+            + [Utilisation d’HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
             + [Afficher la liste des modèles en tant qu&#39;autre utilisateur](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + Utilisation de MSI {#using-msi}
          + [Enregistrer le courrier entrant provenant de vos leads dans Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
@@ -1583,7 +1583,7 @@ ht-degree: 4%
                + [Choisir une action dans Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Configurer les pieds de page de désabonnement dans Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Verrouiller le modèle de vente](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Publish d’un e-mail à Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Publication d’un e-mail dans Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Envoyer un e-mail de test](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + {#language-support} de prise en charge linguistique
                + [Préparation de Sales Insight pour une prise en charge multilingue dans Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1625,7 +1625,7 @@ ht-degree: 4%
          + [Mettre à niveau votre complément de messagerie Marketo pour Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [Informations commerciales pour les intégrations MS Dynamics non natives](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [Informations commerciales pour les intégrations Salesforce non natives](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
-   + {#marketo-sky} du Marketo Sky
+   + {#marketo-sky} Marketo Sky
       + [Comportement attendu](product-docs/marketo-sky/expected-behavior.md)
    + {#mobile-marketing} marketing mobile
       + Admin {#admin}
@@ -1772,7 +1772,7 @@ ht-degree: 4%
             + [Pages Web Vues, Rapport D&#39;Activité De La Page Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + {#email-insights} des informations sur les e-mails
          + [Présentation des informations sur les e-mails](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [Dimensions personnalisées pour les informations d’e-mail](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [Dimensions personnalisées pour les informations sur les e-mails](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [Présentation d’Email Insights Analytics](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [FAQ sur les informations d’e-mail](product-docs/reporting/email-insights/email-insights-faq.md)
          + [Graphiques rapides d’informations sur les e-mails](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1936,7 +1936,7 @@ ht-degree: 4%
          + Intégrations Web Analytics {#web-analytics-integrations}
             + [Tableaux de bord RTP personnalisés dans Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Rapports RTP personnalisés dans Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
-            + [Intégrer le RTP aux Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
+            + [Intégration du RTP à Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [Intégration du RTP à Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Intégration à Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Présentation des {#understanding-web-personalization} Web Personalization
@@ -1956,7 +1956,7 @@ ht-degree: 4%
          + [Affichage des segments à partir d’un libellé spécifique](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [Segments Web](product-docs/web-personalization/using-web-segments/web-segments.md)
       + {#website-retargeting} de reciblage de site web
-         + [Remarketing personnalisé dans Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+         + [Remarketing personnalisé sur Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personnalisé dans Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Reciblage avec des données Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Utilisation des campagnes web {#working-with-web-campaigns}
@@ -1985,7 +1985,7 @@ ht-degree: 4%
 + Notes de mise à jour {#release-notes}
    + [Calendrier de publication](release-notes/release-schedule.md)
    + [Version actuelle](release-notes/current.md)
-   + [Version du Dynamic Chat](release-notes/dynamic-chat.md)
+   + [Version de Dynamic Chat](release-notes/dynamic-chat.md)
    + Versions précédentes {#previous-releases}
       + 2024 {#2024}
          + [Notes De Mise À Jour : 24 Janvier](release-notes/previous-releases/2024/release-notes-jan-24.md)

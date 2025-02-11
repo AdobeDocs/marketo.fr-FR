@@ -5,9 +5,9 @@ description: Présentation - Documents Marketo - Documentation Du Produit
 title: Vue d’ensemble
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Les e-mails créés dans le nouveau concepteur peuvent être utilisés dans les 
 
 +++Découvrez comment accéder au concepteur d’e-mail.
 
-Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Ajouter des utilisateurs {#add-users}
 
@@ -50,7 +50,7 @@ Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Enga
 
 * [Utiliser des ressources AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"} : découvrez comment accéder facilement à vos ressources numériques AEM pour les utiliser dans Marketo Engage.
 
-* [Utiliser l’accélérateur de contenu de l’assistant d’IA](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"} : tirer parti de la technologie d’IA générative d’Adobe pour ajouter du texte et/ou des images utiles à vos e-mails.
+* [Utiliser l’assistant d’IA](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"} : utilisez la technologie d’IA générative d’Adobe pour ajouter du texte et/ou des images utiles à vos e-mails.
 
 * [Verrouiller le contenu dans des modèles d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"} : découvrez comment verrouiller le contenu de modèles d’e-mail, ce qui contribue à empêcher les modifications ou suppressions involontaires.
 
@@ -62,7 +62,7 @@ Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau conce
 
 **Nos modèles d’e-mail existants fonctionneront-ils dans le nouveau concepteur ? Dans le cas contraire, devons-nous créer des modèles à l’aide du nouveau concepteur afin que toutes les sections/modules correspondent à l’aspect que nous voulons donner à notre contenu ?**
 
-Non, les modèles d’e-mail de l’éditeur classique ne peuvent pas être référencés dans le nouveau concepteur. Vous devrez créer des modèles dans le nouveau concepteur. Cependant, vous _pouvez_ importer l’HTML du modèle dans le nouveau concepteur, puis effectuer les ajustements nécessaires. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
+Non, les modèles d’e-mail de l’éditeur classique ne peuvent pas être référencés dans le nouveau concepteur. Vous devrez créer des modèles dans le nouveau concepteur. Cependant, vous _pouvez_ importer le modèle HTML dans le nouveau concepteur, puis effectuer les ajustements nécessaires. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
 
 **Existe-t-il un moyen d’appliquer l’image de marque (polices, logos et couleurs) ?**
 
@@ -72,10 +72,10 @@ Le verrouillage des sections de contenu fait partie du nouveau concepteur. Le ve
 
 Oui, absolument, plus personnalisable avec notre éditeur WYSIWYG (ce que vous voyez est ce que vous obtenez).
 
-**Comment fonctionne le processus de création de modèle d’e-mail dans le nouveau concepteur ? S’agit-il de WYSIWYG ou faut-il des connaissances en HTML ?**
+**Comment fonctionne le processus de création de modèle d’e-mail dans le nouveau concepteur ? S’agit-il de WYSIWYG ou nécessite-t-il des connaissances HTML ?**
 
-Il s’agit de WYSIWYG ; la connaissance de l’HTML n’est pas nécessaire. Vous pouvez facilement créer des
-modèles dans le concepteur, ce qui réduit le besoin de développeurs web externes. Cependant, vous avez toujours la possibilité de mettre à jour CSS et de modifier des sections individuelles par HTML. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
+Il s’agit de WYSIWYG ; les connaissances HTML ne sont pas nécessaires. Vous pouvez facilement créer des
+modèles dans le concepteur, ce qui réduit le besoin de développeurs web externes. Cependant, vous avez toujours la possibilité de mettre à jour CSS et de modifier des sections individuelles via HTML. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
 
 **Le nouveau concepteur d’e-mail prend-il en charge le langage AMP ?**
 
@@ -85,6 +85,6 @@ Actuellement, il ne prend pas en charge AMP.
 
 Actuellement, le nouveau concepteur ne prend en charge que les attributs, mais nous travaillons à ajouter des segments dans une prochaine version.
 
-**Comment puis-je savoir si notre abonnement de Marketo Engage a été migré vers IMS (le Adobe Admin Console) ?**
+**Comment puis-je savoir si notre abonnement Marketo Engage a été migré vers IMS (le Adobe Admin Console) ?**
 
 Si vous vous connectez à Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, votre abonnement a été migré.
