@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ Adobe Marketo Engage s’intègre de manière native à Adobe Express, ce qui vo
 
 ## Accès à l’éditeur Adobe Express {#access-the-adobe-express-editor}
 
-Il existe deux manières d’accéder à l’éditeur Adobe Express.
+Il existe deux manières d’accéder à l’éditeur Adobe Express :
+
+* Cliquez sur le nom de l’image
+* _Actions relatives aux images et aux fichiers_ menu déroulant
 
 >[!BEGINTABS]
 
@@ -80,15 +83,15 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
 ## Licence Adobe Express Enterprise {#adobe-express-enterprise-license}
 
-### Utilisateurs disposant d’une licence d’entreprise {#users-with-an-enterprise-license}
+### Utilisateurs disposant d’une licence Enterprise {#users-with-an-enterprise-license}
 
-Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès à l’éditeur Express complet. Vous pouvez ajuster les paramètres d’image tels que la couleur, la luminosité, la netteté, le contraste, la taille, etc. L’option Magie de l’IA vous permet de supprimer des arrière-plans, d’insérer et de supprimer des objets, ainsi que d’effacer des parties d’une image.
+Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès à l’éditeur Express complet. Vous pouvez ajuster les paramètres d’image tels que la couleur, la luminosité, la netteté, le contraste, la taille, etc. L’option Magie de l’IA vous permet de supprimer des arrière-plans, d’insérer et de supprimer des objets, ainsi que d’effacer des parties d’une image. Consultez le [Guide de l’utilisateur d’Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"} pour en savoir plus sur chaque paramètre.
 
 >[!IMPORTANT]
 >
 >La licence achetée doit être sous la même organisation IMS que votre abonnement Marketo Engage pour accéder à toutes les fonctionnalités d’édition d’Adobe Express. En outre, chaque utilisateur doit disposer d’une licence dans Adobe Express. Les utilisateurs [sans licence](#users-without-an-enterprise-license) ne peuvent accéder qu’aux actions rapides dans Adobe Express.
 
-### Utilisateurs sans licence d’entreprise {#users-without-an-enterprise-license}
+### Utilisateurs sans licence Entreprise {#users-without-an-enterprise-license}
 
 Pour ceux qui ne disposent pas d’une licence Enterprise, vous avez toujours accès à plusieurs fonctionnalités d’édition d’action rapide. Ces fonctionnalités sont les suivantes :
 
@@ -107,12 +110,12 @@ Les fonctionnalités sont accessibles dans la partie gauche de la page de l’im
 
 1. Apportez les modifications souhaitées et cliquez sur **Appliquer** lorsque vous avez terminé.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Redimensionner la fenêtre d’image affichant toutes les options disponibles](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Format</b></td>
-    <td>Dans le menu déroulant <b>Format</b>, choisissez <b>Standard</b> à VIDE ou <b>Personnalisé</b> pour définir votre propre largeur/hauteur.</td>
+    <td>Dans le menu déroulant <b>Format</b>, choisissez <b>Standard</b> pour effectuer un choix parmi les tailles de photo courantes précalculées, ou <b>Personnalisé</b> pour définir votre propre largeur/hauteur. Vous pouvez également choisir la taille standard d’une plateforme de réseaux sociaux spécifique (Pinterest, Snapchat, etc.).</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Largeur et Hauteur</b></td>
@@ -135,11 +138,11 @@ Les fonctionnalités sont accessibles dans la partie gauche de la page de l’im
 
 1. Adobe Express affiche l’image sans arrière-plan. S&#39;il répond à vos besoins, cliquez sur **Appliquer**.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![Image d’un chien avec un arrière-plan supprimé](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->Pour restaurer l’arrière-plan, sélectionnez l’image et sélectionnez à nouveau **Supprimer l’arrière-plan**.
+>Si le résultat ne vous satisfait pas, il vous suffit de cliquer sur le **X** pour fermer la fenêtre.
 
 #### Recadrer l’image {#crop-image}
 
@@ -147,7 +150,7 @@ Les fonctionnalités sont accessibles dans la partie gauche de la page de l’im
 
 1. Faites glisser les coins de l’image pour créer le recadrage souhaité.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![Faire glisser les coins photo pour recadrer l’image](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. Cliquez sur **[!UICONTROL Appliquer]** lorsque vous avez terminé.
 
@@ -157,26 +160,14 @@ Convertissez un fichier PNG en fichier JPEG ou un fichier JPEG en fichier PNG.
 
 1. Cliquez sur **[!UICONTROL Convertir en PNG/JPEG]**.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![Fenêtre Convertir en PNG/JPEG](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Cliquez sur **[!UICONTROL Appliquer]**.
 
-—RECADRER LES CHOSES EN DESSOUS—
-
-Cliquez sur Recadrer l’image sur la page.
-
-Dans l’éditeur d’Adobe Express, effectuez un recadrage de l’image et cliquez sur Enregistrer.
-
-Remarque : cette action ne remplace pas l’image, mais vous présente l’image pour d’autres modifications.
-
-Vous pouvez effectuer une mise à jour supplémentaire à l’aide d’une autre option du panneau de gauche, cliquer sur Enregistrer pour remplacer l’image existante, ou sur Enregistrer en tant que nouvelle ressource pour enregistrer en tant que nouvelle image.
-
-Cliquez sur Enregistrer pour terminer l’action.
-
 ## Enregistrer votre travail {#save-your-work}
 
-Une fois toutes vos modifications terminées, cliquez sur Enregistrer pour enregistrer votre travail.
+Une fois toutes vos modifications terminées, cliquez sur **Enregistrer** pour enregistrer votre travail.
 
-CAPTURE D’ÉCRAN
+![bouton Enregistrer](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 L’image modifiée est enregistrée dans le même dossier que l’image d’origine.
