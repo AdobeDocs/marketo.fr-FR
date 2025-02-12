@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 1%
 
 ---
@@ -38,9 +38,9 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
    ![Sélection des images et fichiers dans le volet de navigation de gauche de Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. Sélectionnez l’image à modifier (ou créez-en une).
+1. Sélectionnez l’image à modifier.
 
-   CAPTURE D’ÉCRAN 2a
+   ![Cliquant sur le nom de l’image](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
 
 1. Dans l&#39;onglet image _Détails_, cliquez sur **[!UICONTROL Modifier dans Adobe Express]**.
 
-   CAPTURE D’ÉCRAN 3a
+   ![Clic sur le bouton Modifier dans Adobe Express](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express.
    >
    >* Pour trier le tableau en fonction de l’une des colonnes, cliquez sur le titre de la colonne. La flèche située dans la ligne de titre indique la colonne de tri et l’ordre actuels.
 
-1. Cochez la case en regard de l’image à modifier.
+1. Cochez la case en regard de l’image à modifier. Dans la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]**, sélectionnez **[!UICONTROL Modifier dans Adobe Express]**.
 
-   CAPTURE D’ÉCRAN 2b
-
-1. Dans la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]**, sélectionnez **[!UICONTROL Modifier dans Adobe Express]**.
+   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Pour ceux qui ne disposent pas d’une licence Enterprise, vous avez toujours ac
 * [Recadrer l’image](#crop-image)
 * [Convertir en PNG/JPEG](#convert-to-png-jpeg)
 
-Les fonctionnalités sont accessibles dans le coin supérieur gauche de la page d’image.
+Les fonctionnalités sont accessibles dans la partie gauche de la page de l’image.
 
-CAPTURE D’ÉCRAN
+![Page image montrant les options d’édition d’Adobe Express](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Redimensionner l’image {#resize-image}
 
@@ -109,24 +107,24 @@ CAPTURE D’ÉCRAN
 
 1. Apportez les modifications souhaitées et cliquez sur **Appliquer** lorsque vous avez terminé.
 
-CAPTURE D’ÉCRAN
+![TEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>Format</b></td>
+    <td style="width:25%"><b>Format</b></td>
     <td>Dans le menu déroulant <b>Format</b>, choisissez <b>Standard</b> à VIDE ou <b>Personnalisé</b> pour définir votre propre largeur/hauteur.</td>
   </tr>
   <tr>
-    <td><b>Largeur et Hauteur</b></td>
+    <td style="width:25%"><b>Largeur et Hauteur</b></td>
     <td>Par défaut, les proportions sont verrouillées, ce qui conserve les proportions de l’image identiques lorsque vous ajustez sa taille. Si vous le souhaitez, vous pouvez sélectionner le bouton de verrouillage pour déverrouiller les proportions.</td>
   </tr>
   <tr>
-    <td><b>Réinitialiser</b></td>
+    <td style="width:25%"><b>Réinitialiser</b></td>
     <td>Cliquez sur <b>Réinitialiser</b> pour supprimer toutes les modifications apportées à l’image et la rétablir à son état d’origine.</td>
   </tr>
   <tr>
-    <td><b>Zoom et recadrage</b></td>
-    <td>Cliquez sur <b>Zoom et recadrage</b> pour effectuer un zoom avant sur des zones spécifiques de l’image.</td>
+    <td style="width:25%"><b>Zoom et recadrage</b></td>
+    <td>Cliquez sur <b>Zoom et recadrage</b> pour effectuer un zoom avant sur des zones spécifiques de l’image. Cliquez sur <b>Appliquer</b> après avoir effectué un zoom, pour rogner l’image sur ce qui s’affiche actuellement.</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ CAPTURE D’ÉCRAN
 
 1. Cliquez sur **Supprimer l’arrière-plan**.
 
-1. Adobe Express affiche l’image sans arrière-plan. Cliquez sur **Appliquer**.
+1. Adobe Express affiche l’image sans arrière-plan. S&#39;il répond à vos besoins, cliquez sur **Appliquer**.
 
-PIC
+![TEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### Recadrer l’image {#crop-image}
 
-1. Cliquez sur Recadrer l’image.
+1. Cliquez sur **[!UICONTROL Recadrer l’image]**.
 
 1. Faites glisser les coins de l’image pour créer le recadrage souhaité.
 
-CAPTURE D’ÉCRAN
+![TEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Cliquez sur **Appliquer** lorsque vous avez terminé.
+1. Cliquez sur **[!UICONTROL Appliquer]** lorsque vous avez terminé.
 
 #### Convertir en PNG/JPEG {#convert-to-png-jpeg}
 
 Convertissez un fichier PNG en fichier JPEG ou un fichier JPEG en fichier PNG.
 
-1. Cliquez sur **Convertir en PNG/JPEG**.
+1. Cliquez sur **[!UICONTROL Convertir en PNG/JPEG]**.
 
-1. Cliquez sur **Appliquer**.
+![TEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. Cliquez sur **[!UICONTROL Appliquer]**.
 
 —RECADRER LES CHOSES EN DESSOUS—
 
