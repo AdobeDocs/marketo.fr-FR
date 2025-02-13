@@ -8,10 +8,11 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
+source-git-commit: ec442823dde75f071220208a7e8edd24355d063f
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 70%
+source-wordcount: '627'
+ht-degree: 62%
 
 ---
 
@@ -22,10 +23,6 @@ Lorsque des fragments sont utilisés dans un e-mail ou un modèle d’e-mail, il
 En utilisant des fragments paramétrés, vous pouvez gérer et personnaliser efficacement votre contenu sans créer de blocs de contenu entièrement nouveaux ou interrompre l’héritage du fragment d’origine. Cela permet de s’assurer que les modifications apportées au niveau du fragment sont toujours propagées, tout en permettant la personnalisation nécessaire au niveau du modèle d’e-mail/e-mail.
 
 Les fragments visuels et d’expression peuvent être marqués comme personnalisables. Pour obtenir des instructions détaillées sur la manière de procéder pour chaque type de fragment, reportez-vous aux sections ci-dessous.
-
-CAPTURE D’ÉCRAN - GIF ?
-
-—A ARRÊTÉ DE MODIFIER ICI—
 
 ## Ajouter des champs modifiables dans des fragments visuels {#visual}
 
@@ -39,7 +36,7 @@ Pour rendre des parties d’un fragment visuel modifiables, procédez comme suit
 
 1. Sélectionnez le composant de votre fragment dans lequel vous souhaitez configurer des champs modifiables.
 
-1. Le volet des propriétés du composant s’ouvre sur le côté droit. Sélectionnez l’onglet **Champs modifiables**, puis activez l’option **Activer l’édition**.
+1. Le volet des propriétés du composant s’ouvre sur le côté droit. Sélectionnez l’onglet **[!UICONTROL Champs modifiables]**, puis activez l’option **[!UICONTROL Activer l’édition]**.
 
 1. Tous les champs pouvant être modifiés pour le composant sélectionné sont répertoriés dans le volet. Les champs disponibles pour la modification dépendent du type de composant sélectionné.
 
@@ -47,21 +44,21 @@ Pour rendre des parties d’un fragment visuel modifiables, procédez comme suit
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. Cliquez sur la **Vue d’ensemble** pour vérifier tous les champs modifiables et leurs valeurs par défaut.
+1. Cliquez sur **[!UICONTROL Aperçu]** pour vérifier tous les champs modifiables et leurs valeurs par défaut.
 
    Dans cet exemple, le champ URL du bouton s’affiche avec la valeur par défaut définie dans le composant. Cette valeur sera personnalisable par les utilisateurs et utilisatrices après l’ajout du fragment à leur contenu.
 
    ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
-1. Une fois que tout est prêt, enregistrez vos modifications pour mettre à jour le fragment.
+1. Enregistrez vos modifications lorsque vous avez terminé.
 
-1. Après avoir ajouté le fragment dans un e-mail, les utilisateurs et utilisatrices pourront personnaliser tous les champs modifiables configurés dans le fragment.
+Après avoir ajouté le fragment dans un e-mail, les utilisateurs et utilisatrices pourront personnaliser tous les champs modifiables configurés dans le fragment.
 
 ## Ajouter des champs modifiables dans les composants HTML et les fragments d’expression {#expression}
 
-Pour rendre modifiables des parties d’un composant HTML ou d’un fragment d’expression, vous devez utiliser une syntaxe spécifique dans l’éditeur d’expression. Cela implique de déclarer une **variable** avec une valeur par défaut que les utilisateurs et utilisatrices peuvent remplacer après l’ajout du fragment à leur contenu.
+Pour rendre modifiables des parties d’un composant HTML ou d’un fragment d’expression, vous devez utiliser une syntaxe spécifique dans l’éditeur d’expression. Cela implique de déclarer une _variable_ avec une valeur par défaut que les utilisateurs et utilisatrices peuvent remplacer après l’ajout du fragment à leur contenu.
 
-Supposons, par exemple, que vous souhaitiez créer un fragment à ajouter à vos e-mails et permettre aux utilisateurs et utilisatrices de personnaliser une couleur spécifique utilisée à différents emplacements, tels que les cadres ou les couleurs d’arrière-plan des boutons. Lors de la création de votre fragment, vous devez déclarer une variable avec un **ID unique**, par exemple « couleur », puis l’appeler aux emplacements souhaités dans le contenu du fragment où vous souhaitez appliquer cette couleur. Lors de l’ajout du fragment à leur contenu, les utilisateurs et utilisatrices peuvent personnaliser la couleur utilisée partout où la variable est référencée.
+Supposons, par exemple, que vous souhaitiez créer un fragment à ajouter à vos e-mails et permettre aux utilisateurs et utilisatrices de personnaliser une couleur spécifique utilisée à différents emplacements, tels que les cadres ou les couleurs d’arrière-plan des boutons. Lors de la création de votre fragment, vous devez déclarer une variable avec un _ID unique_ (par exemple, « couleur ») et l’appeler aux emplacements souhaités dans le contenu du fragment auquel vous souhaitez appliquer cette couleur. Lors de l’ajout du fragment à leur contenu, les utilisateurs et utilisatrices peuvent personnaliser la couleur utilisée partout où la variable est référencée.
 
 Pour les composants HTML, seuls des éléments spécifiques peuvent devenir des champs modifiables. Pour plus d’informations, développez la section ci-dessous.
 
@@ -78,3 +75,7 @@ Par exemple, dans le code ci-dessous, chaque élément surligné en rouge peut d
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
+
+>[!MORELIKETHIS]
+>
+>[Fragments](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
