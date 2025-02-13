@@ -3,16 +3,16 @@ description: Analytics - Documents Marketo - Documentation du produit
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 2%
+source-wordcount: '242'
+ht-degree: 3%
 
 ---
 
 # Analytics {#analytics}
 
-Bien que la création de rapports soit disponible au niveau de la boîte de dialogue, vérifiez l’engagement global à l’aide des trois tableaux de bord ci-dessous.
+Bien que le compte rendu des performances soit disponible au niveau de la boîte de dialogue, vérifiez l’engagement global en utilisant les trois tableaux de bord ci-dessous.
 
 Accédez à chaque tableau de bord sous **Analytics** dans le volet de navigation de gauche.
 
@@ -20,11 +20,11 @@ Accédez à chaque tableau de bord sous **Analytics** dans le volet de navigatio
 
 ## Tableau de bord des performances globales {#global-performance-dashboard}
 
-Découvrez les performances de vos boîtes de dialogue, notamment les mesures d’engagement et de performance (total et sur une période), les pages les plus performantes et les boîtes de dialogue les plus performantes.
+Découvrez les performances de vos boîtes de dialogue, y compris les mesures d’engagement et de performances (total et sur une période donnée), les pages les plus performantes et les boîtes de dialogue les plus performantes.
 
 ![](assets/analytics-2.png)
 
-Afficher les boîtes de dialogue, les flux de conversation, etc. Tri par visiteurs connus, visiteurs inconnus ou les deux. Sélectionnez un paramètre prédéfini ou une période personnalisée. Exportez vos résultats en cliquant sur un bouton.
+Afficher les boîtes de dialogue, les flux de conversation ou tous les éléments. Triez par visiteurs connus, visiteurs inconnus ou les deux. Sélectionnez un paramètre prédéfini ou une période personnalisée. Exportez vos résultats en cliquant sur un bouton.
 
 ![](assets/analytics-3.png)
 
@@ -34,17 +34,17 @@ Voyez combien de réunions sont réservées et avec qui elles sont réservées.
 
 ![](assets/analytics-4.png)
 
-Afficher les boîtes de dialogue, les flux de conversation, etc. Sélectionnez un paramètre prédéfini ou une période personnalisée. Exportez vos résultats en cliquant sur un bouton.
+Afficher les boîtes de dialogue, les flux de conversation ou tous les éléments. Sélectionnez un paramètre prédéfini ou une période personnalisée. Exportez vos résultats en cliquant sur un bouton.
 
 ![](assets/analytics-5.png)
 
-## Tableau de bord des performances de la messagerie instantanée {#live-chat-performance-dashboard}
+## Tableau de bord des performances de la discussion en direct {#live-chat-performance-dashboard}
 
-Vérifiez combien de conversations ont eu vos agents de vente en direct et quelles équipes ont obtenu les meilleurs résultats.
+Affichez le nombre de conversations que vos agents de vente en direct ont eues et les équipes qui ont les meilleures performances.
 
 ![](assets/analytics-6.png)
 
-Afficher les boîtes de dialogue, les flux de conversation, etc. Sélectionnez un paramètre prédéfini ou une période personnalisée. Exportez vos résultats en cliquant sur un bouton.
+Afficher les boîtes de dialogue, les flux de conversation ou tous les éléments. Sélectionnez un paramètre prédéfini ou une période personnalisée. Exportez vos résultats en cliquant sur un bouton.
 
 ![](assets/analytics-7.png)
 
@@ -54,14 +54,22 @@ Afficher les boîtes de dialogue, les flux de conversation, etc. Sélectionnez u
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Terminé</b></td>
+    <td style="width:30%"><b>Terminé</b></td>
     <td>Un événement terminé se produit lorsqu’un visiteur atteint la dernière invite d’une conversation <i>ou</i> lorsqu’un visiteur épuise tout le contenu d’une conversation.
-    <br>Un événement terminé par visiteur, par session.</td>
+    <br>Un événement terminé par visiteur et par session.</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Personnes acquises</b></td>
-    <td>Se produit lorsqu’un visiteur envoie son adresse électronique.
-    <br> Une acquisition par visiteur, par session.</td>
+    <td style="width:30%"><b>Personnes acquises</b></td>
+    <td>Se produit lorsqu’un visiteur envoie son adresse e-mail.
+    <br>Une acquisition par visiteur, par session.</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Taux d’engagement</b></td>
+    <td>Nombre d’utilisateurs ayant répondu (première entrée par l’utilisateur)/nombre de déclencheurs (chatbot affiché).</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Taux de conversion</b></td>
+    <td>Utilisateur acquis (nouveaux e-mails capturés)/utilisateur engagé.</td>
   </tr>
 </tbody>
 </table>
