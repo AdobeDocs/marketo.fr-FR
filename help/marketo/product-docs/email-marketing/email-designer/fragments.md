@@ -4,10 +4,10 @@ description: Découvrez comment créer et utiliser des fragments de contenu visu
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 2%
+source-wordcount: '1909'
+ht-degree: 1%
 
 ---
 
@@ -114,37 +114,11 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
 
    Le concepteur visuel s’ouvre avec une zone de travail vide.
 
-1. Utilisez les outils de conception de contenu pour créer le contenu du fragment visuel :
-
-   * [Ajouter la structure et le contenu](#add-structure-and-content)
-   * [Ajout d’Assets](#add-assets)
-   * [Parcourir les calques, paramètres et styles](#navigate-the-layers-settings-and-styles)
-   * [Personnaliser le contenu](#personalize-content)
-   * [Modifier le tracking des URL liées](#edit-linked-url-tracking)
+1. Utilisez les [ outils de conception de contenu ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} pour créer le contenu du fragment visuel.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** à tout moment pour enregistrer le brouillon de fragment.
 
 1. Lorsque vous êtes prêt à rendre le fragment disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, cliquez sur **[!UICONTROL Publier]**.
-
-### Ajouter la structure et le contenu {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### Ajout de ressources
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### Parcourir les calques, paramètres et styles
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### Personnaliser le contenu
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### Modifier le tracking des URL liées
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## Affichage des détails du fragment {#view-fragment-details}
 
@@ -205,19 +179,11 @@ Les modifications apportées à un fragment dépendent de son statut actuel :
 
    ![Détails du fragment avec le statut Brouillon ](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. Pour modifier le contenu dans le concepteur visuel, cliquez sur **[!UICONTROL Modifier le fragment]**.
+1. Pour modifier le contenu dans le concepteur visuel, cliquez sur **[!UICONTROL Modifier le fragment]**. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
-   Utilisez les outils du concepteur visuel selon vos besoins :
+1. Cliquez sur **[!UICONTROL Enregistrer]** ou **[!UICONTROL Enregistrer et fermer]** pour revenir aux détails du fragment.
 
-   * [Ajouter la structure et le contenu](#add-structure-and-content)
-   * [Ajout d’Assets](#add-assets)
-   * [Parcourir les calques, paramètres et styles](#navigate-the-layers-settings-and-styles)
-   * [Personnaliser le contenu](#personalize-content)
-   * [Modifier le tracking des URL liées](#edit-linked-url-tracking)
-
-   Cliquez sur **[!UICONTROL Enregistrer]** ou **[!UICONTROL Enregistrer et fermer]** pour revenir aux détails du fragment.
-
-1. Lorsque le fragment répond à vos critères et que vous souhaitez le rendre disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, cliquez sur **[!UICONTROL Publier]**.
+1. Lorsque vous souhaitez rendre le fragment disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, cliquez sur **[!UICONTROL Publier]**.
 
 >[!TAB Publié]
 
@@ -235,19 +201,13 @@ Les modifications apportées à un fragment dépendent de son statut actuel :
 
    ![Boîte de dialogue Créer un brouillon](assets/fragments-create-draft-version.png){width="300"}
 
-   Utilisez les outils du concepteur visuel selon vos besoins :
+1. Cliquez sur **[!UICONTROL Enregistrer]** ou **[!UICONTROL Enregistrer et fermer]** pour revenir aux détails du fragment.
 
-   * [Ajouter la structure et le contenu](#add-structure-and-content)
-   * [Ajout d’Assets](#add-assets)
-   * [Parcourir les calques, paramètres et styles](#navigate-the-layers-settings-and-styles)
-   * [Personnaliser le contenu](#personalize-content)
-   * [Modifier le tracking des URL liées](#edit-linked-url-tracking)
+1. Lorsque vous souhaitez rendre le fragment disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, cliquez sur **[!UICONTROL Publier]**.
 
-   Cliquez sur **[!UICONTROL Enregistrer]** ou **[!UICONTROL Enregistrer et fermer]** pour revenir aux détails du fragment.
-
-1. Lorsque le brouillon répond à vos critères et que vous souhaitez rendre les modifications disponibles pour une utilisation dans un modèle d’e-mail ou de courrier électronique, cliquez sur **[!UICONTROL Publier]**.
-
-   Lorsque vous publiez le brouillon, il remplace la version publiée actuelle et le contenu est mis à jour dans les e-mails et les modèles d’e-mail où il est déjà utilisé.
+>[!NOTE]
+>
+>Lorsque vous publiez le brouillon, il remplace la version publiée actuelle et le contenu est mis à jour dans les e-mails et les modèles d’e-mail où il est déjà utilisé.
 
 >[!TAB Publié avec le brouillon]
 
@@ -259,23 +219,19 @@ Vous pouvez ouvrir le brouillon pour le modifier de deux manières différentes 
 
 * Cliquez sur le nom du fragment pour l’ouvrir. Cliquez ensuite sur **[!UICONTROL Ouvrir le brouillon]** en haut à droite.
 
-  Un aperçu du contenu visuel du brouillon s’affiche avec les détails du fragment à droite.
+Un aperçu du contenu visuel du brouillon s’affiche avec les détails du fragment à droite.
 
 Pour mettre à jour le contenu :
 
-1. Cliquez sur **[!UICONTROL Modifier le fragment]** en haut à droite. Utilisez les outils du concepteur visuel selon vos besoins :
+1. Cliquez sur **[!UICONTROL Modifier le fragment]** en haut à droite. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
-   * [Ajouter la structure et le contenu](#add-structure-and-content)
-   * [Ajout d’Assets](#add-assets)
-   * [Parcourir les calques, paramètres et styles](#navigate-the-layers-settings-and-styles)
-   * [Personnaliser le contenu](#personalize-content)
-   * [Modifier le tracking des URL liées](#edit-linked-url-tracking)
+1. Cliquez sur **[!UICONTROL Enregistrer]** ou **[!UICONTROL Enregistrer et fermer]** pour revenir aux détails du fragment.
 
-   Cliquez sur **[!UICONTROL Enregistrer]** ou **[!UICONTROL Enregistrer et fermer]** pour revenir aux détails du fragment.
+1. Lorsque vous souhaitez rendre le fragment disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, cliquez sur **[!UICONTROL Publier]**.
 
-1. Lorsque le brouillon répond à vos critères et que vous souhaitez rendre les modifications disponibles pour une utilisation dans un modèle d’e-mail ou de courrier électronique, cliquez sur **[!UICONTROL Publier]**.
-
-   Lorsque vous publiez le brouillon, il remplace la version publiée actuelle et le contenu est mis à jour dans les e-mails et les modèles d’e-mail où il est déjà utilisé.
+>[!NOTE]
+>
+>Lorsque vous publiez le brouillon, il remplace la version publiée actuelle et le contenu est mis à jour dans les e-mails et les modèles d’e-mail où il est déjà utilisé.
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ Vous pouvez dupliquer un fragment à l’aide de l’une des méthodes suivantes
 
 ![Dupliquer le fragment](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-Dans la boîte de dialogue, saisissez un nom unique et une description facultative. Cliquez sur **[!UICONTROL Dupliquer]** pour terminer l’action.
+Dans la boîte de dialogue, saisissez un nom unique et une description facultative. Cliquez sur **[!UICONTROL Dupliquer]**.
 
 ![Saisissez un nom et une description pour le fragment dupliqué](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ Le fragment dupliqué apparaît ensuite dans la liste _Fragments_.
 
 ## Enregistrer un nouveau fragment d’un e-mail ou du contenu de modèle {#save-a-new-fragment-from-email-or-template-content}
 
-Lorsque vous créez/modifiez un e-mail ou un modèle d’e-mail dans l’éditeur visuel de contenu, vous pouvez enregistrer tout ou partie du contenu en tant que fragment afin de le réutiliser.
+Lorsque vous créez/modifiez un e-mail ou un modèle d’e-mail dans l’éditeur visuel de contenu, vous pouvez enregistrer tout ou partie du contenu en tant que fragment pour le réutiliser.
 
 1. Pour enregistrer le contenu en tant que fragment, cliquez sur **[!UICONTROL Plus]** et choisissez **[!UICONTROL Enregistrer en tant que fragment]**.
 
@@ -304,13 +260,13 @@ Lorsque vous créez/modifiez un e-mail ou un modèle d’e-mail dans l’éditeu
 
    Sélectionnez plusieurs structures en maintenant le bouton Maj ou Ctrl enfoncé.
 
-   Vous pouvez uniquement sélectionner des structures adjacentes les unes aux autres et l&#39;interface ne vous permet pas de sélectionner des éléments non adjacents.
+   Vous pouvez uniquement sélectionner des structures adjacentes.
 
 1. Une fois le contenu sélectionné, cliquez sur **[!UICONTROL Créer]** en haut à droite.
 
 1. Dans la boîte de dialogue, saisissez un nom et une description facultative pour le fragment et cliquez sur **[!UICONTROL Créer]**.
 
-   Le fragment est ensuite affiché dans la page de liste _Fragments_ et peut également être utilisé dans les e-mails et les modèles d’e-mail.
+Le fragment est ensuite affiché dans la page de liste _Fragments_ et peut être utilisé dans les e-mails et les modèles d’e-mail.
 
 ## Ajouter des fragments visuels au contenu de votre e-mail ou modèle {#add-visual-fragments-to-your-email-or-template-content}
 
