@@ -1,12 +1,12 @@
 ---
 title: Fragments
-description: Découvrez comment créer et utiliser des fragments de contenu visuels en tant que composants réutilisables pour les e-mails et les modèles d’e-mail.
+description: Découvrez comment créer/utiliser des fragments de contenu visuels en tant que composants réutilisables pour les e-mails et les modèles d’e-mail.
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
+source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1908'
 ht-degree: 1%
 
 ---
@@ -53,8 +53,8 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
 <table>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Brouillon</b></td>
-    <td>Lorsque vous créez un fragment, il est à l’état de brouillon. Il reste en version préliminaire jusqu’à ce que vous le publiiez pour l’utiliser dans un e-mail ou un modèle d’e-mail.
+    <td width="25%"><b>Brouillon</b></td>
+    <td width="70%">Lorsque vous créez un fragment, il est à l’état de brouillon. Il reste en version préliminaire jusqu’à ce que vous le publiiez pour l’utiliser dans un e-mail ou un modèle d’e-mail.
     <p>Actions disponibles :
     <li>Modifier tous les détails</li>
     <li>Modifier dans le concepteur visuel</li>
@@ -63,7 +63,7 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
     <li>Supprimer</li>
   </td>
   <tr>
-    <td style="width:25%"><b>Publié</b></td>
+    <td><b>Publié</b></td>
     <td>Lorsque vous publiez un fragment, il peut être utilisé dans un e-mail ou un modèle d’e-mail. Le contenu du fragment publié ne peut pas être modifié dans le concepteur visuel.
     <p>Actions disponibles :
     <li>Modifier la description</li>
@@ -74,7 +74,7 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
     </td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Publié avec le brouillon</b></td>
+    <td><b>Publié avec le brouillon</b></td>
     <td>Lorsque vous créez un brouillon à partir d’un fragment publié, la version publiée reste disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, et le contenu du brouillon peut être modifié dans le concepteur visuel. Si vous publiez le brouillon, il remplace la version publiée actuelle et le contenu est mis à jour dans <i>tous</i> les e-mails et les modèles d’e-mail où il est utilisé. 
     <p>Actions disponibles :
     <li>Modifier la description</li>
