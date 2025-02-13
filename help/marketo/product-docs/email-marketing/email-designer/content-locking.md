@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Verrouillage de contenu dans les modèles d’e-mails
 description: Découvrez comment verrouiller le contenu dans vos modèles d’e-mail.
 level: Beginner, Intermediate
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
 source-wordcount: '891'
 ht-degree: 75%

@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Fragments paramétrés
 description: Découvrez comment personnaliser des fragments en rendant certains de leurs champs modifiables.
 feature: Email Editor
@@ -8,10 +8,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 74%
+source-wordcount: '637'
+ht-degree: 70%
 
 ---
 
@@ -23,7 +23,7 @@ En utilisant des fragments paramétrés, vous pouvez gérer et personnaliser eff
 
 Les fragments visuels et d’expression peuvent être marqués comme personnalisables. Pour obtenir des instructions détaillées sur la manière de procéder pour chaque type de fragment, reportez-vous aux sections ci-dessous.
 
-CAPTURE D’ÉCRAN
+CAPTURE D’ÉCRAN - GIF ?
 
 —A ARRÊTÉ DE MODIFIER ICI—
 
@@ -45,17 +45,17 @@ Pour rendre des parties d’un fragment visuel modifiables, procédez comme suit
 
    Dans l’exemple ci-dessous, nous autorisons la modification de l’URL du bouton « Cliquez ici ».
 
-CAPTURE D’ÉCRAN
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. Cliquez sur la **Vue d’ensemble** pour vérifier tous les champs modifiables et leurs valeurs par défaut.
 
    Dans cet exemple, le champ URL du bouton s’affiche avec la valeur par défaut définie dans le composant. Cette valeur sera personnalisable par les utilisateurs et utilisatrices après l’ajout du fragment à leur contenu.
 
-CAPTURE D’ÉCRAN
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. Une fois que tout est prêt, enregistrez vos modifications pour mettre à jour le fragment.
 
-1. Après avoir ajouté le fragment dans un e-mail, les utilisateurs et utilisatrices peuvent personnaliser tous les champs modifiables configurés dans le fragment. [Découvrir comment personnaliser des champs modifiables dans un fragment visuel](../email/use-visual-fragments.md#customize-fields)
+1. Après avoir ajouté le fragment dans un e-mail, les utilisateurs et utilisatrices pourront personnaliser tous les champs modifiables configurés dans le fragment.
 
 ## Ajouter des champs modifiables dans les composants HTML et les fragments d’expression {#expression}
 
@@ -75,6 +75,6 @@ Les éléments ci-dessous peuvent devenir des champs modifiables dans un composa
 
 Par exemple, dans le code ci-dessous, chaque élément surligné en rouge peut devenir une propriété :
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
