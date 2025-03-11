@@ -5,9 +5,9 @@ description: Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Enga
 title: Vue d’ensemble
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: b7e378af0d606202f022848d2a099d5170061024
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,10 @@ modèles dans le concepteur, ce qui réduit le besoin de développeurs web exter
 **Le nouveau concepteur d’e-mail prend-il en charge le langage AMP ?**
 
 Actuellement, il ne prend pas en charge AMP.
+
+**Les ressources peuvent-elles être modifiées via l’API dans le nouveau concepteur d’e-mail ?**
+
+La modification d’Assets par le biais de l’API n’est pas prise en charge dans le nouveau concepteur d’e-mail pour le moment.
 
 **Le contenu dynamique par attribut est une bonne chose, mais le contenu dynamique par segment fonctionne-t-il toujours ?**
 
