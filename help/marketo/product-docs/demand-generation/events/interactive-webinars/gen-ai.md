@@ -1,0 +1,91 @@
+---
+description: Fonctionnalités de GenAI - Documentation de Marketo - Documentation du produit
+title: Fonctionnalités de GenAI
+feature: Interactive Webinars
+hide: true
+hidefromtoc: true
+source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 0%
+
+---
+
+# Fonctionnalités de GenAI {#gen-ai-features}
+
+Générez automatiquement des chapitres et des résumés pour vos webinaires enregistrés, ce qui les rend plus accessibles et plus faciles à parcourir pour votre audience.
+
+* **Génération automatique de chapitres** : la technologie optimisée par l’IA crée des chapitres pour le contenu de votre webinaire.
+
+* **Résumé généré par l’IA** : obtenez un résumé textuel automatisé de votre webinaire.
+
+* **Contenu modifiable** : modifiez les chapitres et les résumés générés si vous le souhaitez, à l’aide des fonctionnalités de modification manuelle et optimisée par l’IA.
+
+* **Intégration facile** : ajoutez facilement des chapitres et des résumés à vos pages de destination en copiant le code HTML dans l’éditeur de page web de votre choix.
+
+## Accès {#how-to-access}
+
+1. Accédez à la page d’aperçu du webinaire dans les webinaires interactifs Marketo Engage.
+
+1. Après avoir organisé votre webinaire à la demande, attendez 30 à 60 minutes que l’IA traite votre enregistrement. Vous pourrez cliquer sur le bouton Générer lorsqu’il sera disponible.
+
+1. Cliquez sur **Générer**.
+
+   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
+1. Un nouvel onglet s’ouvre, affichant des chapitres générés par l’IA et un résumé textuel.
+
+## Modifier le contenu généré {#edit-generated-content}
+
+1. Consultez les chapitres et le résumé générés.
+
+2. Si des modifications sont nécessaires, cliquez sur le bouton **Modifier**.
+
+   Pour apporter des modifications :
+
+   * Modifiez le texte dans le résumé et/ou les titres des chapitres.
+
+   * Ajustez les horodatages si nécessaire en modifiant les valeurs dans les champs d’horodatage.
+
+   * Supprimez les chapitres indésirables en les sélectionnant et en cliquant sur **Supprimer**.
+
+   * Fusionnez deux chapitres consécutifs en les sélectionnant et en cliquant sur **Fusionner**.
+
+      * AI génère un chapitre composite composé des deux chapitres sélectionnés
+
+      * Pour fusionner plusieurs chapitres, vous devez en faire deux à la fois
+
+     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+
+
+   >[!NOTE]
+   >
+   >Si vous le souhaitez, vous pouvez évaluer la qualité des chapitres/résumés générés à l’aide des icônes _pouces vers le haut_ ![icône Pouces vers le haut](assets/icon-thumbs-up.png) ou _pouces vers le bas_ ![icône Pouces vers le bas](assets/icon-thumbs-down.png). Vous pouvez également signaler tout contenu problématique en cliquant sur l’icône d’indicateur ![Icône d’indicateur](assets/icon-flag.png).
+
+1. Enregistrez vos modifications en cliquant sur le bouton **Enregistrer** en haut à gauche de l’écran.
+
+## Utiliser le contenu généré {#use-generated-content}
+
+Après avoir copié le contenu que vous souhaitez utiliser, collez-le dans l’éditeur de votre choix (par exemple, l’éditeur de la page de destination de Marketo Engage) et apportez les modifications souhaitées.
+
+### Résumé {#summary}
+
+**Copier HTML** - Cliquez sur le bouton **Copier HTML** pour obtenir l’intégralité du texte, avec le code HTML le formatant dans un tableau.
+
+**Texte uniquement** - Si vous souhaitez uniquement le texte, mettez-le simplement en surbrillance et sélectionnez Ctrl/Cmd+C (ou cliquez avec le bouton droit) pour le copier.
+
+### Chapitres {#chapters}
+
+**Copier HTML** - Cliquez sur le bouton **Copier HTML** pour mettre en forme l’ensemble de l’enregistrement et ses chapitres dans un lecteur vidéo.
+
+## Éléments à noter {#things-to-note}
+
+* La suppression ou la fusion de chapitres affecte uniquement la pile de chapitres, et non le contenu vidéo lui-même. Ces actions sont irréversibles
+
+* Les fonctionnalités de GenAI sont flexibles et peuvent être utilisées avec divers éditeurs de page web, pas seulement ceux de Marketo Engage.
+
+* Prévisualisez toujours vos modifications pour vous assurer de bénéficier des fonctionnalités et de l’apparence souhaitées.
+
+* La suppression du webinaire entraîne également la suppression du contenu GenAI.
+
+* Pour plus d’informations ou pour toute demande de suppression de données, contactez l’équipe du compte Adobe (votre gestionnaire de compte) ou envoyez-nous un e-mail à l’adresse suivante : `marketo-webinar-genai-alerts@adobe.com`.
