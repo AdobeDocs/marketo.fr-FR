@@ -4,7 +4,7 @@ title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 
 1. Consultez les chapitres et le résumé générés.
 
-2. Si des modifications sont nécessaires, cliquez sur le bouton **Modifier**.
+1. Si des modifications sont nécessaires, cliquez sur le bouton **Modifier**.
 
    Pour apporter des modifications :
 
