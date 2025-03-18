@@ -4,9 +4,10 @@ title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >Si vous le souhaitez, vous pouvez évaluer la qualité des chapitres/résumés générés à l’aide des icônes _pouces vers le haut_ ![icône Pouces vers le haut](assets/icon-thumbs-up.png) ou _pouces vers le bas_ ![icône Pouces vers le bas](assets/icon-thumbs-down.png). Vous pouvez également signaler tout contenu problématique en cliquant sur l’icône d’indicateur ![Icône d’indicateur](assets/icon-flag.png).
+   >* Si vous le souhaitez, vous pouvez évaluer la qualité des chapitres/résumés générés à l’aide des icônes _pouces vers le haut_ ![icône Pouces vers le haut](assets/icon-thumbs-up.png) ou _pouces vers le bas_ ![icône Pouces vers le bas](assets/icon-thumbs-down.png). Vous pouvez également signaler tout contenu problématique en cliquant sur l’icône d’indicateur ![Icône d’indicateur](assets/icon-flag.png).
+   >
+   >* Si le résumé initial ne vous convient pas, vous pouvez cliquer sur le bouton **Régénérer le résumé** pour générer une autre version.
 
 1. Enregistrez vos modifications en cliquant sur le bouton **Enregistrer** en haut à droite de l’écran.
 
@@ -88,4 +90,4 @@ Après avoir copié le contenu que vous souhaitez utiliser, collez-le dans l’�
 
 * La suppression du webinaire entraîne également la suppression du contenu GenAI.
 
-* Pour plus d’informations ou pour toute demande de suppression de données, contactez l’équipe du compte Adobe (votre gestionnaire de compte) ou envoyez un e-mail à : `marketo-webinar-genai-alerts@adobe.com`.
+* Si vous souhaitez supprimer le contenu GenAI sans supprimer le webinaire, contactez l’équipe du compte Adobe (votre gestionnaire de compte) ou envoyez une demande de suppression de données à : `marketo-webinar-genai-alerts@adobe.com`.
