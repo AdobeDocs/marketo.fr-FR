@@ -4,7 +4,7 @@ title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 
 1. Cliquez sur **Générer**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. Un nouvel onglet s’ouvre, affichant des chapitres générés par l’IA et un résumé textuel.
 
@@ -41,7 +41,7 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 
 1. Si des modifications sont nécessaires, cliquez sur le bouton **Modifier**.
 
-   Pour apporter des modifications :
+   Apporter des modifications :
 
    * Modifiez le texte dans le résumé et/ou les titres des chapitres.
 
@@ -55,14 +55,14 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 
       * Pour fusionner plusieurs chapitres, vous devez en faire deux à la fois
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >Si vous le souhaitez, vous pouvez évaluer la qualité des chapitres/résumés générés à l’aide des icônes _pouces vers le haut_ ![icône Pouces vers le haut](assets/icon-thumbs-up.png) ou _pouces vers le bas_ ![icône Pouces vers le bas](assets/icon-thumbs-down.png). Vous pouvez également signaler tout contenu problématique en cliquant sur l’icône d’indicateur ![Icône d’indicateur](assets/icon-flag.png).
 
-1. Enregistrez vos modifications en cliquant sur le bouton **Enregistrer** en haut à gauche de l’écran.
+1. Enregistrez vos modifications en cliquant sur le bouton **Enregistrer** en haut à droite de l’écran.
 
 ## Utiliser le contenu généré {#use-generated-content}
 
@@ -88,4 +88,4 @@ Après avoir copié le contenu que vous souhaitez utiliser, collez-le dans l’�
 
 * La suppression du webinaire entraîne également la suppression du contenu GenAI.
 
-* Pour plus d’informations ou pour toute demande de suppression de données, contactez l’équipe du compte Adobe (votre gestionnaire de compte) ou envoyez-nous un e-mail à l’adresse suivante : `marketo-webinar-genai-alerts@adobe.com`.
+* Pour plus d’informations ou pour toute demande de suppression de données, contactez l’équipe du compte Adobe (votre gestionnaire de compte) ou envoyez un e-mail à : `marketo-webinar-genai-alerts@adobe.com`.
