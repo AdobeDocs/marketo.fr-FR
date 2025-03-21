@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: c5b05cf7d1131c9d98d89c12a4a8bd04d215886d
+source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -69,8 +69,6 @@ _Si l’utilisateur doit faire l’objet d’une migration_ (et si l’applicati
 _Si l’utilisateur doit faire l’objet d’une migration_ (et si l’application du domaine est activée dans une autre organisation), un administrateur système de l’organisation dans laquelle le domaine a été demandé doit ajouter l’adresse électronique de l’utilisateur à la liste des exceptions. L’administrateur Marketo Engage pour réexécuter ensuite la migration des utilisateurs pour cet utilisateur à partir de la console de migration.
 
 _Si l’utilisateur n’a **besoin**d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
-
-**Les messages d’erreur suivants ont tous la même cause/résolution racine...**
 
 ### Échec de la création de l’utilisateur {#user-creation-failed}
 
