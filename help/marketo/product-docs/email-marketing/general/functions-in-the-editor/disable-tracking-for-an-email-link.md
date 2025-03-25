@@ -1,21 +1,23 @@
 ---
 unique-page-id: 1900579
-description: Désactiver le suivi d’un lien de courrier électronique - Documents Marketo - Documentation du produit
-title: Désactiver le suivi d’un lien de courrier électronique
+description: Désactivation du suivi d’un lien e-mail - Documents Marketo - Documentation du produit
+title: Désactivation du suivi d’un lien e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 0%
+source-wordcount: '266'
+ht-degree: 1%
 
 ---
 
-# Désactiver le suivi d’un lien de courrier électronique {#disable-tracking-for-an-email-link}
+# Désactivation du suivi d’un lien e-mail {#disable-tracking-for-an-email-link}
 
-Parfois, vous ne souhaitez pas activer l’**URL de suivi de Marketo** sur un lien dans un email. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture du lien.
+Il arrive que vous ne souhaitiez pas activer l’URL de tracking **Marketo** sur un lien dans un e-mail. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture d’un lien.
 
-1. Sélectionnez votre adresse électronique et cliquez sur **Modifier le brouillon**.
+En outre, si un e-mail a été envoyé il y a plus de 365 jours **et que personne n’a cliqué sur l’un de ses liens au cours des 180 derniers jours** Marketo Engage élague l’itinéraire vers l’URL de notre base de données, ce qui entraîne la rupture du lien. Ainsi, si vous avez besoin que le lien soit permanent, vous devez désactiver le suivi.
+
+1. Sélectionnez votre e-mail et cliquez sur **Modifier le brouillon**.
 
    ![](assets/one-7.png)
 
@@ -27,17 +29,17 @@ Parfois, vous ne souhaitez pas activer l’**URL de suivi de Marketo** sur un li
 
    ![](assets/three-6.png)
 
-1. Dans la fenêtre contextuelle Modifier le lien , désélectionnez la case à cocher **Lien de suivi** .
+1. Dans le pop-up Modifier le lien , décochez la case **Suivre le lien**.
 
    ![](assets/four-4.png)
 
-1. Vous remarquerez que la **zone Inclure mkt_tok** disparaît. Cliquez sur **Apply**.
+1. Vous remarquerez que la zone **Inclure mkt_tok** disparaît. Cliquez sur **Appliquer**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Si vous décochez uniquement la case **Inclure mkt_tok**, le lien sera toujours suivi, mais après la redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok. Ce paramètre est utilisé par les landing pages Marketo et Munchkin pour assurer un suivi correct des activités des personnes (comme lorsqu’une personne se désabonne d’un email). Évitez d’utiliser cette fonctionnalité, sauf si vous constatez un comportement bizarre sur votre site web en raison du paramètre présent.
+   >En désactivant uniquement la case à cocher **Inclure mkt_tok**, le lien sera toujours suivi, mais après redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok. Ce paramètre est utilisé par Marketo Landing Pages et Munchkin pour assurer un suivi correct des activités des personnes (comme lorsqu’une personne se désinscrit d’un e-mail). Évitez d’utiliser cette fonctionnalité, sauf si vous constatez un comportement bizarre sur votre site web en raison de la présence du paramètre .
 
 1. Cliquez sur **Enregistrer**.
 
@@ -45,8 +47,8 @@ Parfois, vous ne souhaitez pas activer l’**URL de suivi de Marketo** sur un li
 
    >[!TIP]
    >
-   >Voulez-vous désactiver le suivi des clics pour un lien dans un email **template** ? Utilisez ce format :
+   >Vous souhaitez désactiver le suivi des clics pour un lien dans un e-mail **modèle** ? Utilisez le format suivant :
    >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Si vous avez besoin d’aide pour mettre en oeuvre cette méthode, consultez votre développeur web.
+   >Si vous avez besoin d&#39;aide pour la mise en œuvre, veuillez consulter votre développeur web.
 
-Beau ! Vous avez maintenant désactivé le suivi d’un lien.
+Joli ! Vous avez désactivé le suivi d’un lien.

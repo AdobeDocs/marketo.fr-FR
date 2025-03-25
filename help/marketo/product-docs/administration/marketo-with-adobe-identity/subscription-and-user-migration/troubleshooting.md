@@ -1,11 +1,9 @@
 ---
 description: Guide de dépannage de la migration des utilisateurs Adobe IMS - Documents Marketo - Documentation du produit
 title: Guide de dépannage de la migration des utilisateurs Adobe IMS
-hide: true
-hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 1%

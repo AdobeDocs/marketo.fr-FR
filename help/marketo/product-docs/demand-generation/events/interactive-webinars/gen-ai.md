@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -82,7 +82,7 @@ Après avoir copié le contenu que vous souhaitez utiliser, collez-le dans l’�
 
 ## Éléments à noter {#things-to-note}
 
-* La suppression ou la fusion de chapitres affecte uniquement la pile de chapitres, et non le contenu vidéo lui-même. Ces actions sont irréversibles
+* La suppression ou la fusion de chapitres affecte uniquement la pile de chapitres, et non le contenu vidéo lui-même. Ces actions sont permanentes.
 
 * Les fonctionnalités de GenAI sont flexibles et peuvent être utilisées avec divers éditeurs de page web, pas seulement ceux de Marketo Engage.
 
