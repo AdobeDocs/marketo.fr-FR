@@ -1,37 +1,41 @@
 ---
 unique-page-id: 11382535
-description: Utilisation d’URL dans Mes jetons - Documents Marketo - Documentation du produit
+description: Utilisation d’URL dans mes jetons - Documents Marketo - Documentation du produit
 title: Utilisation d’URL dans mes jetons
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Utilisation d’URL dans mes jetons {#using-urls-in-my-tokens}
 
-Suivez les étapes ci-dessous pour utiliser Mes jetons afin d&#39;insérer des URL dans vos emails.
+Suivez les étapes ci-dessous pour utiliser Mes jetons afin d’insérer des URL dans vos e-mails.
 
 1. Sélectionnez votre programme et cliquez sur **Mes jetons**.
 
    ![](assets/one-4.png)
 
-1. Sélectionnez le **Texte** Mon jeton, faites-le glisser sur la zone de travail.
+1. Sélectionnez le **Texte** Mon jeton, faites-le glisser et déposez-le sur la zone de travail.
 
    ![](assets/two-4.png)
 
-1. Donnez un nom unique au jeton, saisissez une URL (sans le https://) et cliquez sur **Enregistrer**.
+1. Attribuez un nom unique au jeton, saisissez une URL (sans le champ https://) et cliquez sur **Enregistrer**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Pour vous assurer que les clics sont suivis dans votre email, **not** enter https:// dans la valeur du jeton.
+   >**Utilisation de http/https...**
+   >
+   >* Pour vous assurer que les clics sont suivis dans votre e-mail, ne saisissez **pas** https:// _à l’intérieur_ la valeur du jeton. Utilisez-le en dehors du jeton, comme indiqué à l’étape 7.
+   >
+   >* Nous vous recommandons vivement de ne pas exclure le http/https. Si vous le faites, la [version web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} de votre e-mail risque de s’afficher incorrectement.
 
-1. Sélectionnez l&#39;email dans votre programme.
+1. Sélectionnez l’e-mail dans votre programme.
 
    ![](assets/four-3.png)
 
@@ -39,31 +43,31 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons afin d&#39;insérer des U
 
    ![](assets/five-3.png)
 
-1. Double-cliquez dans la zone de texte à modifier.
+1. Double-cliquez dans la zone de texte pour modifier.
 
    ![](assets/six-1.png)
 
-1. N&#39;importe où dans votre email, tapez &quot;https://&quot; (sans laisser d&#39;espace après) et cliquez sur l&#39;icône Insérer un jeton .
+1. N’importe où dans votre e-mail, saisissez `https://` (sans laisser d’espace après), puis cliquez sur l’icône Insérer un jeton .
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Vous avez bien sûr la possibilité de saisir &quot;https&quot; si votre site l’utilise.
+   >Vous avez bien sûr également la possibilité de saisir des `http://` si votre site n’utilise pas https.
 
-1. Recherchez votre jeton, sélectionnez-le, puis cliquez sur **Insérer**.
+1. Recherchez votre jeton Mon jeton, sélectionnez-le, puis cliquez sur **Insérer**.
 
    ![](assets/eight.png)
 
-1. Mettez en surbrillance https:// et le jeton, puis appuyez sur Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) pour couper le texte.
+1. Mettez en surbrillance le jeton https:// et , puis appuyez sur Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) pour couper le texte.
 
    ![](assets/nine.png)
 
-1. Mettez en surbrillance le texte que vous souhaitez que le lien s’affiche, puis cliquez sur l’icône Insérer/Modifier le lien .
+1. Mettez en surbrillance le texte que le lien doit afficher et cliquez sur l’icône Insérer/Modifier le lien .
 
    ![](assets/ten.png)
 
-1. Appuyez sur Ctrl/Cmd+V pour coller le contenu dans la zone **URL** et cliquez sur **Insérer**.
+1. Appuyez sur Ctrl/Cmd+V pour coller le contenu dans la zone **URL**, puis cliquez sur **Insérer**.
 
    ![](assets/eleven.png)
 
@@ -71,4 +75,4 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons afin d&#39;insérer des U
 
    ![](assets/twelve.png)
 
-   Et vous avez fini ! Votre URL sera renseignée après l’envoi et, en plaçant https:// devant le jeton, elle produira un lien pouvant faire l’objet d’un suivi.
+   Et c&#39;est fini ! Votre URL sera renseignée après l’envoi, et grâce à votre placement de https:// devant le jeton, un lien trackable sera généré.
