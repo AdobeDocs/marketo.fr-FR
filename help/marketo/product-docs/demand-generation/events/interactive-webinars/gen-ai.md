@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # Fonctionnalités de GenAI {#gen-ai-features}
 
 Générez automatiquement des chapitres et des résumés pour vos webinaires enregistrés, ce qui les rend plus accessibles et plus faciles à parcourir pour votre audience.
+
+>[!PREREQUISITES]
+>
+>Avant d’utiliser ces fonctionnalités, vous devez d’abord accepter les conditions générales d’Adobe GenAI. Si vous ne l’avez pas encore fait, contactez l’équipe chargée de votre compte Adobe (votre gestionnaire de compte) pour plus d’informations.
 
 * **Génération automatique de chapitres** : la technologie optimisée par l’IA crée des chapitres pour le contenu de votre webinaire.
 
