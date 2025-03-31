@@ -4,9 +4,9 @@ description: Désabonnement durable - Documents Marketo - Documentation du produ
 title: Désabonnement durable
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Il existe plusieurs façons de se réabonner.
 
 Dans Salesforce, **effacer** le champ Désinscription par e-mail dans l’enregistrement du prospect/contact. Cette opération va être synchronisée avec Marketo.
 
-![](assets/one.png)
+![Écran Salesforce](assets/durable-unsubscribe-1.png)
 
 Dans Marketo, **désélectionnez** la zone Désabonné dans l’onglet Infos de l’enregistrement de la personne.
 
-![](assets/two.png)
+![Effacement de la zone de désabonnement dans un enregistrement de personne](assets/durable-unsubscribe-2.png)
 
 Exécutez une étape de flux **Modifier la valeur des données** comme illustré ci-dessous pour une ou plusieurs personnes.
 
-![](assets/three.png)
+![Étape de flux Modifier la valeur de données](assets/durable-unsubscribe-3.png)
 
 Mettre à jour une personne existante via l’API SOAP
 
