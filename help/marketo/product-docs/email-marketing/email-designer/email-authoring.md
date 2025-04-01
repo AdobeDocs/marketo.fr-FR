@@ -3,20 +3,20 @@ description: Création d’e-mails - Documents Marketo - Documentation du produi
 title: Création d’e-mails
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1742'
 ht-degree: 3%
 
 ---
 
 # Création d’e-mails {#email-authoring}
 
-Découvrez comment créer, personnaliser et prévisualiser des e-mails dans la nouvelle Designer d’e-mail du Marketo Engage.
+Découvrez comment créer, personnaliser et prévisualiser des e-mails dans le nouveau Designer d’e-mail de Marketo Engage.
 
 >[!PREREQUISITES]
 >
->Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Création d’un e-mail {#create-an-email}
 
@@ -78,7 +78,7 @@ C&#39;est ça. Il est maintenant temps de concevoir votre e-mail.
 
 * [Concevoir en partant de zéro](#design-from-scratch) à l’aide de l’éditeur visuel d’email
 
-* [Importer votre propre HTML ](#import-html) via un fichier HTML ou zip
+* [Importer votre propre HTML](#import-html) via un fichier HTML ou zip
 
 * [Sélectionnez un modèle existant](#choose-a-template) (un de nos exemples ou un que vous avez déjà enregistré)
 
@@ -98,25 +98,25 @@ Lorsque vous commencez à partir de zéro dans l’éditeur d’e-mail, utilisez
 
 ### Importer du contenu HTML {#import-html}
 
-Vous pouvez importer du contenu d’HTML existant pour concevoir votre e-mail. Le contenu peut être :
+Vous pouvez importer du contenu HTML existant pour concevoir votre e-mail. Le contenu peut être :
 
 * Fichier HTML avec feuille de style incorporée
 
-* Un fichier .zip qui comprend un fichier HTML, la feuille de style (.css) et les images
+* Fichier .zip contenant un fichier HTML, la feuille de style (.css) et les images.
 
 >[!NOTE]
 >
 >Il n’existe aucune contrainte sur la structure des fichiers .zip. Cependant, les références doivent être relatives et s’ajuster à l’arborescence du dossier .zip.
 
-1. Sur la page Concevoir votre modèle, sélectionnez **Importer l’HTML**.
+1. Sur la page Concevoir votre modèle , sélectionnez **Importer HTML**.
 
-1. Faites glisser et déposez le fichier .zip ou d’HTML souhaité (ou sélectionnez un fichier sur votre ordinateur), puis cliquez sur **Importer**.
+1. Effectuez un glisser-déposer du fichier HTML ou .zip souhaité (ou sélectionnez un fichier sur votre ordinateur), puis cliquez sur **Importer**.
 
    ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
->Lorsque le contenu de l’HTML est chargé, votre contenu se trouve en mode de compatibilité. Dans ce mode, vous pouvez uniquement personnaliser votre texte, ajouter des liens ou ajouter des ressources à votre contenu.
+>Lorsque le contenu HTML est chargé, votre contenu se trouve en mode de compatibilité. Dans ce mode, vous pouvez uniquement personnaliser votre texte, ajouter des liens ou ajouter des ressources à votre contenu.
 
 Vous pouvez apporter les modifications souhaitées au contenu importé à l’aide des outils [éditeur visuel d’e-mail](#add-structure-and-content).
 
@@ -198,7 +198,7 @@ Une fois l’e-mail enregistré, il apparaît dans l’onglet _[!UICONTROL Utili
 
 ### Ajout d’Assets {#add-assets}
 
-Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance de Marketo Engage.
+Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance Marketo Engage.
 
 >[!NOTE]
 >
@@ -327,7 +327,7 @@ Les avertissements se rapportent aux recommandations et aux bonnes pratiques tel
 >
 >L’ajout d’une option de désabonnement n’est pas nécessaire pour les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
 
-* **Version texte de l’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu de l’HTML ne peut pas être affiché.
+* **Version texte d’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu d’HTML ne peut pas être affiché.
 
 * **Lien vide figurant dans le corps de l’e-mail** : vérifiez que tous les liens de votre e-mail sont corrects.
 
@@ -351,7 +351,7 @@ Pour prévisualiser le contenu de votre e-mail, cliquez sur **Simuler du contenu
 
 ## Référencer un e-mail {#reference-an-email}
 
-Si vous avez créé votre e-mail dans un programme de messagerie, il ne peut être utilisé que dans ce programme. Si vous avez créé votre e-mail dans Design Studio, il peut être référencé à partir de campagnes et/ou listes dynamiques comme vous le feriez avec tout autre e-mail.
+Les e-mails Designer sont accessibles dans les programmes E-mail, Engagement, Par défaut et Événement (à l’exception des programmes de webinaire interactif). Si vous avez créé votre e-mail dans Design Studio, il peut être référencé à partir de campagnes et/ou listes dynamiques comme vous le feriez avec tout autre e-mail.
 
 * Référencez-le dans une liste dynamique en [suivant les étapes habituelles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 

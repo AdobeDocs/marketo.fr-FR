@@ -5,9 +5,9 @@ description: Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Enga
 title: Vue d’ensemble
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Engage.
 
 Le Concepteur d’e-mail est la dernière innovation de Marketo Engage. Il vise à offrir une expérience de création de modèles d’e-mail et d’e-mail repensée pour améliorer la productivité et l’efficacité en fournissant un éditeur visuel par glisser-déposer avec des modèles prêts à l’emploi. Créez facilement des modèles d’e-mail personnalisés sans avoir à dépenser d’argent pour les fournisseurs.
-
-Les e-mails créés dans le nouveau concepteur peuvent être utilisés dans les programmes de messagerie ainsi que dans les listes dynamiques/campagnes. De nouvelles améliorations puissantes du concepteur sont à venir.
 
 ## Accès {#how-to-access}
 
@@ -65,6 +63,10 @@ Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Enga
 **L’ancien éditeur d’e-mail continuera-t-il à fonctionner ? Si oui, pour combien de temps ?**
 
 Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau concepteur d’e-mail. Les e-mails créés dans l’éditeur classique seront conservés. Il n’existe aucune date quant à la date d’abandon de l’éditeur classique pour le moment, mais il continuera à fonctionner en 2025.
+
+**Dans quels programmes puis-je utiliser les nouveaux e-mails de Designer par e-mail ?**
+
+Les nouveaux e-mails Designer sont accessibles dans tous les programmes (à l’exception des programmes de webinaire interactif). Le clonage est également disponible.
 
 **Nos modèles d’e-mail existants fonctionneront-ils dans le nouveau concepteur ? Dans le cas contraire, devons-nous créer des modèles à l’aide du nouveau concepteur afin que toutes les sections/modules correspondent à l’aspect que nous voulons donner à notre contenu ?**
 
