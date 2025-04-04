@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 
 Après avoir accepté les conditions générales d’Adobe GenAI, l’étape suivante consiste à les activer pour les utilisateurs individuels. Pour ce faire, accédez à **[!UICONTROL Admin]** > **[!UICONTROL Webinaires interactifs]** et sélectionnez les utilisateurs qui doivent avoir accès à GenAI.
 
-![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 ## Accès {#how-to-access}
 

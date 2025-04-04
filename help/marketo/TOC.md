@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
-source-wordcount: '9427'
+source-wordcount: '9429'
 ht-degree: 4%
 
 ---
@@ -1065,6 +1065,7 @@ ht-degree: 4%
             + [Supprimer le contenu du flux](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + {#email-designer} de Designer par e-mail
          + [Vue d’ensemble](product-docs/email-marketing/email-designer/overview.md)
+         + [Comparaison des fonctionnalités](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Création d’e-mails](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Création de modèles d’e-mail](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Utilisation d’AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
