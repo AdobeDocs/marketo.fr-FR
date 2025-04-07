@@ -6,10 +6,8 @@ description: Utilisez ce tableau pour comparer la disponibilité des fonctionnal
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -32,7 +30,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
 <tbody>
   <tr>
     <td>Modèles d’e-mail de démarrage d’usine</td>
-    <td>Possibilité d’utiliser des modèles prêts à l’emploi fournis par le Designer de messagerie.</td>
+    <td>Possibilité d’utiliser des modèles prêts à l’emploi fournis par le Designer d’e-mail.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -98,7 +96,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   </tr>
   <tr>
     <td>Assistant IA</td>
-    <td>Possibilité de générer l’objet, une partie du contenu ou l’intégralité de l’e-mail via les modèles d’IA générative.</td>
+    <td>Possibilité de générer l’objet, une partie du contenu ou l’intégralité de l’e-mail via des modèles <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">IA générative</a>.</td>
     <td>Non disponible</td>
     <td>Disponible</td>
   </tr>
@@ -110,7 +108,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   </tr>
   <tr>
     <td>Verrouillage de contenu</td>
-    <td>Possibilité de verrouiller le contenu dans un modèle d’e-mail afin qu’il ne puisse pas être modifié lors de la création d’e-mails.</td>
+    <td>Possibilité de <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">verrouiller le contenu</a> dans un modèle d’e-mail afin qu’il ne puisse pas être modifié lors de la création d’e-mails.</td>
     <td>Non disponible</td>
     <td>Disponible</td>
   </tr>
@@ -164,7 +162,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   </tr>
   <tr>
     <td>Intégration à Adobe Express</td>
-    <td>Possibilité de créer/modifier des images à l’aide d’Adobe Express.</td>
+    <td>Possibilité de créer/modifier des images à l’aide d’<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
     <td>Non disponible</td>
     <td>Disponible</td>
   </tr>
@@ -178,7 +176,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Modules</td>
     <td>Possibilité de précréer des préréglages de structure et de contenu spécifiques à réutiliser dans les e-mails.</td>
     <td>Disponible</td>
-    <td>Disponible en tant que fragment personnalisable</td>
+    <td>Disponible en tant que <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">fragment personnalisable</a></td>
   </tr>
   <tr>
     <td>Intégration d’AEM Assets Cloud Service</td>
@@ -241,6 +239,18 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Bientôt disponible</td>
   </tr>
   <tr>
+    <td>Scripts Velocity</td>
+    <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
+    <td>Disponible</td>
+    <td>Pas nécessaire</td>
+  </tr>
+   <tr>
+    <td>Script Handlebar</td>
+    <td>Possibilité d’utiliser le script Handlebar dans les e-mails.</td>
+    <td>Non disponible</td>
+    <td>Prévu pour le T3-25</td>
+  </tr>
+  <tr>
     <td>Intégration Litmus</td>
     <td>Possibilité de s’intégrer à Litmus pour voir comment vos e-mails seront rendus dans différents clients de messagerie.</td>
     <td>Non disponible</td>
@@ -255,12 +265,6 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   <tr>
     <td>Intégration de Spam Assassin</td>
     <td>Capacité à détecter le potentiel de messages e-mail marqués comme spam avant la diffusion.</td>
-    <td>Non disponible</td>
-    <td>Prévu pour le T3-25</td>
-  </tr>
-  <tr>
-    <td>Script Handlebar</td>
-    <td>Possibilité d’utiliser le script Handlebar dans les e-mails.</td>
     <td>Non disponible</td>
     <td>Prévu pour le T3-25</td>
   </tr>
@@ -300,10 +304,5 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Disponible</td>
     <td>Non disponible</td>
   </tr>
-  <tr>
-    <td>Scripts Velocity</td>
-    <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
-    <td>Disponible</td>
-    <td>Pas nécessaire</td>
-  </tr>
 </tbody></table>
+
