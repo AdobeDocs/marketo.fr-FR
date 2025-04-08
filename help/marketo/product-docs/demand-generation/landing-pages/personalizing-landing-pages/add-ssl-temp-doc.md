@@ -4,9 +4,9 @@ title: Ajouter SSL à vos pages de destination
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ CAPTURE D’ÉCRAN
 
 CAPTURE D’ÉCRAN
 
-Remarque :
-
-La colonne Certificat SSL de la liste affiche le statut du certificat SSL pour tout l’alias de domaine créé après la publication de cette fonctionnalité. Si le SSL est activé pour un domaine via la prise en charge , le certificat SSL correspondant continuera d’exister, mais ce tableau ne reflète que les certificats SSL pour le domaine ajouté à l’aide de cette fonctionnalité
-
-Le statut PRÊT de SSL peut prendre jusqu’à 3 minutes et il faut actualiser la page pour que les modifications se propagent sur l’interface utilisateur.
+>[!NOTE]
+>
+>* La colonne Certificat SSL de la liste indique le statut du certificat pour tous les alias de domaine créés après la publication de cette fonctionnalité (DATE). Si le SSL a été activé pour un domaine via la prise en charge de Marketo, le certificat continuera d’exister, mais ne s’affichera pas dans le tableau. Ce tableau reflète uniquement les certificats SSL pour les domaines ajoutés à l’aide des étapes de cet article.
+>
+>* Le statut PRÊT du SSL peut prendre jusqu’à trois minutes. Vous devez actualiser la page pour que les modifications s’affichent.

@@ -5,9 +5,9 @@ description: Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Enga
 title: Vue d’ensemble
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -57,6 +57,8 @@ Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Enga
 * [Utiliser l’assistant d’IA](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"} : utilisez la technologie d’IA générative d’Adobe pour ajouter du texte et/ou des images utiles à vos e-mails.
 
 * [Verrouiller le contenu dans des modèles d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"} : découvrez comment verrouiller le contenu de modèles d’e-mail, ce qui contribue à empêcher les modifications ou suppressions involontaires.
+
+* [Comparaison des fonctionnalités](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"} : comparez la disponibilité des fonctionnalités de l’éditeur d’e-mail précédent (éditeur d’e-mail 2.0) à celle du nouveau Designer d’e-mail.
 
 ## Questions fréquentes {#faq}
 
