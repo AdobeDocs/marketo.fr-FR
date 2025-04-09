@@ -1,13 +1,11 @@
 ---
 description: Présentation d’Advanced BI Analytics - Documents Marketo - Documentation du produit
 title: Présentation d’Advanced BI Analytics
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 0d9e9e1b2985510b52caf0ca54a1a927e7445ef8
+source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '996'
 ht-degree: 1%
 
 ---
@@ -227,3 +225,7 @@ Vous trouverez ci-dessous les modifications apportées à la nouvelle expérienc
 >[!NOTE]
 >
 >Vous ne pouvez pas inclure plusieurs champs de groupe de champs personnalisés dans une zone de rapports visuelle pour Model Performance Analysis (Leads).
+
+>[!MORELIKETHIS]
+>
+>[Mesures et dimensions](help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
