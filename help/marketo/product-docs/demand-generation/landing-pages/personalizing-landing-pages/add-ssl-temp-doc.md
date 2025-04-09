@@ -1,48 +1,53 @@
 ---
-description: Ajouter SSL à vos pages de destination - Documents Marketo - Documentation du produit
-title: Ajouter SSL à vos pages de destination
+description: Ajout de SSL à vos pages d’entrée - Documentation Marketo - Documentation produit
+title: Ajout de SSL à vos pages d’entrée
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-# Ajouter SSL à vos pages de destination {#add-ssl-to-your-landing-pages}
+# Ajout de SSL à vos pages d’entrée {#add-ssl-to-your-landing-pages}
 
-Découvrez comment ajouter l’alias de votre domaine de marque (par exemple, `http://business.adobe.com`) aux pages de destination créées dans Marketo Engage afin qu’elles soient accessibles sous leurs domaines de marque.
+Le chiffrement SSL (Secure Socket Layer) vous permet de sécuriser toutes vos pages de destination pour une instance Marketo Engage.
+
+Lorsque vous remplissez un formulaire web ou que vous visitez une page de destination hébergée par Marketo Engage, les informations sont envoyées par défaut via un protocole non sécurisé (HTTP). Conformément à la politique de votre entreprise, vous souhaiterez peut-être sécuriser les informations soumises à Marketo via (HTTPS). Par exemple, lors de votre visite `http://info.mydomain.com/` , il sera `https://info.mydomain.com/`désormais .
+
+Marketo Engage suit par défaut « Page Web visitée » et « Cliquer sur le lien sur la page Web » sur un protocole HTTP non sécurisé. Si vous souhaitez que vos liens de suivi soient sécurisés avec leur propre certificat, vous devez demander à Marketo de créer un serveur non partagé distinct pour l’activer. Pour sécuriser tous les aspects de l’interaction d’un contact avec vous, il faut généralement sécuriser à la fois les pages de destination et les liens de suivi.
 
 CAPTURE D’ÉCRAN
 
 ## Activer la certification SSL {#enable-ssl-certification}
 
-Ajoutez automatiquement le protocole SSL pour tous les alias de domaine que vous créez dans le cadre des règles de page de destination.
+Ajoutez automatiquement SSL pour tous les alias de domaine que vous créez dans le cadre des règles de page d’entrée.
 
-1. Accédez à la zone **Admin**.
-
-   CAPTURE D’ÉCRAN
-
-1. Sélectionnez **Pages de destination** dans l’arborescence. Dans l’onglet **Règles**, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouvel alias de domaine**.
+1. Accédez à la **zone Administration** .
 
    CAPTURE D’ÉCRAN
 
-1. Cochez la case **Générer un certificat SSL**.
+1. Sélectionnez **Landing Pages** dans l’arborescence. Dans l’onglet **Règles** , cliquez sur la **liste déroulante Nouveau** et sélectionnez **Nouvel alias de** domaine.
 
    CAPTURE D’ÉCRAN
 
-Un certificat SSL est automatiquement ajouté pour ce domaine.
+1. Cochez la case Générer un **certificat** SSL.
+
+   CAPTURE D’ÉCRAN
+
+Cette opération ajoute automatiquement un certificat SSL pour ce domaine.
 
 CAPTURE D’ÉCRAN
 
-## Activer SSL pour votre domaine par défaut
+## Activation du protocole SSL pour votre domaine par défaut {#enable-ssl-default-domain}
 
 CAPTURE D’ÉCRAN
 
 >[!NOTE]
 >
->* La colonne Certificat SSL de la liste indique le statut du certificat pour tous les alias de domaine créés après la publication de cette fonctionnalité (DATE). Si le SSL a été activé pour un domaine via la prise en charge de Marketo, le certificat continuera d’exister, mais ne s’affichera pas dans le tableau. Ce tableau reflète uniquement les certificats SSL pour les domaines ajoutés à l’aide des étapes de cet article.
+>* La colonne Certificat SSL dans la liste affiche l’état du certificat pour tous les alias de domaine créés après la sortie de cette fonctionnalité (DATE). Si vous aviez activé le SSL pour un domaine via le support Marketo, le certificat continuera d’exister, mais ne s’affichera pas dans le tableau. Ce tableau reflète uniquement les certificats SSL pour les domaines ajoutés à l’aide des étapes décrites dans cet article.
 >
->* Le statut PRÊT du SSL peut prendre jusqu’à trois minutes. Vous devez actualiser la page pour que les modifications s’affichent.
+>* Il peut s’écouler jusqu’à trois minutes avant que le SSL ne soit à l’état PRÊT. Vous devez actualiser la page pour que les modifications s’affichent.
