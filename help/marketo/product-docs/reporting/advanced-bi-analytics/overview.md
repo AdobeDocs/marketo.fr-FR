@@ -3,7 +3,7 @@ description: Présentation d’Advanced BI Analytics - Documents Marketo - Docum
 title: Présentation d’Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
 source-wordcount: '996'
 ht-degree: 1%
@@ -40,33 +40,33 @@ Ces améliorations vous permettent de gagner du temps, de découvrir des informa
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Analytique BI avancée (Beta)]**.
 
-   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
+   ![](assets/advanced-bi-analytics-overview-1.png)
 
 1. Dans l’onglet **[!UICONTROL Rapports]**, cliquez sur **[!UICONTROL Créer un rapport]**.
 
-   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
+   ![](assets/advanced-bi-analytics-overview-2.png)
 
 1. Sélectionnez les mesures souhaitées.
 
-   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
+   ![](assets/advanced-bi-analytics-overview-3.png)
 
 1. Sélectionnez les dimensions souhaitées.
 
-   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
+   ![](assets/advanced-bi-analytics-overview-4.png)
 
 1. Choisissez votre visualisation préférée.
 
-   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
+   ![](assets/advanced-bi-analytics-overview-5.png)
 
 1. Ajoutez des filtres en faisant glisser et en déposant un attribut de dimension.
 
-   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
+   ![](assets/advanced-bi-analytics-overview-6.png)
 
 ## Démonstration vidéo {#video}
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on)
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 
@@ -202,7 +202,7 @@ _Pendant la version bêta publique :_
 
 La nouvelle expérience de visualisation est fournie par le biais du service Power BI intégré.
 
-Pour un tutoriel rapide sur l’expérience de visualisation, consultez la documentation de Microsoft [Utiliser des visuels dans Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}. Il se peut que vous ne puissiez pas voir toutes ces fonctionnalités dans Marketo Engage.
+Pour un tutoriel rapide sur l’expérience de visualisation, consultez la documentation de Microsoft [Utiliser des visuels dans Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/). Il se peut que vous ne puissiez pas voir toutes ces fonctionnalités dans Marketo Engage.
 
 ### Changements d’expérience notables {#notable-experience-changes}
 
@@ -228,4 +228,4 @@ Vous trouverez ci-dessous les modifications apportées à la nouvelle expérienc
 
 >[!MORELIKETHIS]
 >
->[Mesures et dimensions](help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
+>[Mesures et dimensions](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
