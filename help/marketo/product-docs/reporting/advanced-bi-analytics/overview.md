@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: 0d9e9e1b2985510b52caf0ca54a1a927e7445ef8
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '993'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,10 @@ Ces améliorations vous permettent de gagner du temps, de découvrir des informa
 >[!PREREQUISITES]
 >
 >Pour accéder à cette fonctionnalité, vous devez avoir acheté le module complémentaire BI Analytics avancé. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+
+>[!NOTE]
+>
+>Si vous avez des questions sur cette fonctionnalité en version bêta (jusqu’au 1er juin 2025), envoyez un e-mail à : `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Fonctionnalités et avantages clés {#key-features-and-benefits}
 
@@ -36,29 +40,29 @@ Ces améliorations vous permettent de gagner du temps, de découvrir des informa
 
 ## Création d’un rapport {#create-a-report}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Analytique BI avancée (Beta)**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Analytique BI avancée (Beta)]**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. Dans l’onglet **Rapports**, cliquez sur **Créer un rapport**.
+1. Dans l’onglet **[!UICONTROL Rapports]**, cliquez sur **[!UICONTROL Créer un rapport]**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Sélectionnez les mesures souhaitées.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. Sélectionnez les dimensions souhaitées.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. Choisissez votre visualisation préférée.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. Ajoutez des filtres en faisant glisser et en déposant un attribut de dimension.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## Démonstration vidéo {#video}
 
@@ -184,7 +188,7 @@ _Pendant la version bêta publique :_
 
   >[!IMPORTANT]
   >
-  >La réplication des rapports personnalisés s’effectue par cohortes. Une fois vos rapports personnalisés répliqués vers la nouvelle expérience, afin d’assurer la cohérence entre les deux expériences, toutes les modifications apportées à l’expérience classique doivent également être appliquées manuellement aux rapports correspondants dans la nouvelle expérience. Une note d’information sur les points ci-dessus s’affichera dans l’expérience classique lors de la réplication de vos rapports clients.
+  >La réplication des rapports personnalisés s&#39;effectue par groupes. Une fois vos rapports personnalisés répliqués vers la nouvelle expérience, afin d’assurer la cohérence entre les deux expériences, toutes les modifications apportées à l’expérience classique doivent également être appliquées manuellement aux rapports correspondants dans la nouvelle expérience. Une note d’information sur les points ci-dessus s’affichera dans l’expérience classique lors de la réplication de vos rapports clients.
 
    * Les tableaux de bord de l’expérience classique ne sont pas transférables et devront être recréés dans la nouvelle expérience. Ils doivent être recréés sous forme de rapports dans la nouvelle expérience et les filtres de la nouvelle expérience extraient automatiquement les valeurs possibles au lieu de vous obliger à saisir manuellement toutes les valeurs possibles individuellement dans l’expérience classique.
 
@@ -200,7 +204,7 @@ _Pendant la version bêta publique :_
 
 La nouvelle expérience de visualisation est fournie par le biais du service Power BI intégré.
 
-Pour un tutoriel rapide sur l’expérience de visualisation, consultez la documentation de Microsoft [Utiliser des visuels dans Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}.
+Pour un tutoriel rapide sur l’expérience de visualisation, consultez la documentation de Microsoft [Utiliser des visuels dans Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}. Il se peut que vous ne puissiez pas voir toutes ces fonctionnalités dans Marketo Engage.
 
 ### Changements d’expérience notables {#notable-experience-changes}
 
@@ -223,8 +227,3 @@ Vous trouverez ci-dessous les modifications apportées à la nouvelle expérienc
 >[!NOTE]
 >
 >Vous ne pouvez pas inclure plusieurs champs de groupe de champs personnalisés dans une zone de rapports visuelle pour Model Performance Analysis (Leads).
-
->[!MORELIKETHIS]
->
->[Mesures et dimensions](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
