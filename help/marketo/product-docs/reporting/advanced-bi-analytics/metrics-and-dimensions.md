@@ -3,7 +3,7 @@ description: Mesures et dimensions - Documents Marketo - Documentation du produi
 title: Mesures et dimensions
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 27%
@@ -12,11 +12,11 @@ ht-degree: 27%
 
 # Mesures et dimensions {#metrics-and-dimensions}
 
-Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le rapport d’analyse de l’explorateur du cycle des recettes.
+Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le rapport d’analyse de l’Explorateur du cycle du chiffre d’affaires.
 
 >[!TIP]
 >
->Si l’un des tableaux semble trop affiné, vous pouvez développer l’affichage en cliquant sur les flèches gauche (![](assets/icon-left-arrow.png)) et droite (![](assets/icon-right-arrow.png)) vers le haut de cette page, en réduisant les barres latérales gauche et droite.
+>Si l’un des tableaux semble trop étroit, vous pouvez développer l’affichage en cliquant sur les flèches gauche (![](assets/icon-left-arrow.png)) et droite (![](assets/icon-right-arrow.png)) vers le haut de cette page, en réduisant les barres latérales gauche et droite.
 
 ## Dimensions et mesures {#dimensions-and-measures}
 
