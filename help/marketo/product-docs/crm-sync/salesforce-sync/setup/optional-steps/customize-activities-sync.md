@@ -1,35 +1,39 @@
 ---
 unique-page-id: 4719294
-description: Personnalisation de la synchronisation des activités - Documents Marketo - Documentation du produit
-title: Personnalisation de la synchronisation des activités
+description: Personnalisation De La Synchronisation Des Activités - Documents Marketo - Documentation Du Produit
+title: Personnaliser la synchronisation des activités
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 12%
+source-wordcount: '294'
+ht-degree: 11%
 
 ---
 
-# Personnalisation de la synchronisation des activités {#customize-activities-sync}
+# Personnaliser la synchronisation des activités {#customize-activities-sync}
 
 Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des enregistrements d’historique des activités Salesforce pour certains événements. Voici comment les activer.
 
+>[!NOTE]
+>
+>La synchronisation Salesforce/Marketo Engage ne transmet aucune activité à Salesforce qui s’est produite avant que la personne ne soit transmise à Salesforce.
+
 1. Accédez à **[!UICONTROL Admin]**.
 
-   ![](assets/admin.png)
+   ![](assets/customize-activities-sync-1.png)
 
 1. Cliquez sur **[!DNL Salesforce]**, puis sur **[!UICONTROL Modifier les options de synchronisation]**.
 
    ![](assets/two-1.png)
 
-1. Cochez les cases en regard des activités que Marketo doit transmettre à Salesforce, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez les cases en regard des activités que Marketo doit pousser vers Salesforce, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Une fois activé, Marketo génère l’historique des activités pour trois mois. Selon la quantité de données, _cette opération peut prendre plusieurs jours pour se terminer_. Les mises à jour survenant pendant la notification push initiale des activités peuvent être retardées jusqu’à ce que la synchronisation initiale des activités soit terminée.
+   >Une fois activé, Marketo intégrera l’historique de l’activité pendant trois mois. Selon la quantité de données, _cette opération peut prendre plusieurs jours_. Les mises à jour qui se produisent pendant la notification push initiale des activités peuvent être retardées jusqu’à ce que la synchronisation initiale des activités soit terminée.
 
 <table> 
  <colgroup> 
@@ -45,19 +49,19 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
  <tbody> 
   <tr> 
    <td>Formulaire rempli</td> 
-   <td>Remplir tout formulaire Marketo</td> 
+   <td>A rempli un formulaire Marketo</td> 
   </tr> 
   <tr> 
    <td>Ajouté à la liste</td> 
-   <td><p>Étape de flux : a été ajoutée à une liste statique</p></td> 
+   <td><p>Étape de flux : a été ajouté à une liste statique</p></td> 
   </tr> 
   <tr> 
    <td>E-mail envoyé</td> 
-   <td>Étape de flux : a été envoyé un email</td> 
+   <td>Étape de flux : un e-mail a été envoyé</td> 
   </tr> 
   <tr> 
    <td>E-mail remis au destinataire</td> 
-   <td>Réception d’un email (sans rebond)</td> 
+   <td>A reçu un e-mail (sans rebond)</td> 
   </tr> 
   <tr> 
    <td>E-mail ouvert</td> 
@@ -65,11 +69,11 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
   </tr> 
   <tr> 
    <td>Lien cliqué dans l'e-mail</td> 
-   <td>Clic sur un lien dans un email envoyé par Marketo</td> 
+   <td>A cliqué sur un lien dans un e-mail envoyé par Marketo</td> 
   </tr> 
   <tr> 
    <td>Supprimé de la liste</td> 
-   <td>Étape de flux : a été supprimée d’une liste statique.</td> 
+   <td>Étape de flux : a été supprimé d’une liste statique</td> 
   </tr> 
   <tr> 
    <td>Supprimer des flux</td> 
@@ -77,26 +81,26 @@ Si vous n’utilisez pas Marketo Sales Insight, Marketo Engage peut créer des e
   </tr> 
   <tr> 
    <td>E-mail de vente envoyé</td> 
-   <td>A été envoyé par courrier électronique via Marketo Sales Insight</td> 
+   <td>Un e-mail a été envoyé via Marketo Sales Insight.</td> 
   </tr> 
   <tr> 
    <td>E-mail de vente ouvert</td> 
-   <td>Ouverture d’un courrier électronique envoyé par le biais de Marketo Sales Insight</td> 
+   <td>A ouvert un e-mail envoyé via Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Clic sur le lien dans l’email de vente</td> 
-   <td>Clic sur un lien dans un e-mail envoyé via Marketo Sales Insight</td> 
+   <td>Clic sur le lien dans l’e-mail de vente</td> 
+   <td>A cliqué sur un lien dans un e-mail envoyé via Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>E-mail de vente reçu</td> 
-   <td>Un courrier électronique a été reçu et consigné par le représentant commercial dans le module externe MSI Outlook</td> 
+   <td>Un e-mail a été reçu et enregistré par le représentant commercial dans le plug-in MSI Outlook</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->&quot;Adresse électronique de vente reçue&quot; signifie _pas_ délivré. L’état Distribué n’est pas capturé pour les emails envoyés via Sales Insight.
+>« E-mail de vente reçu » ne signifie _envoyé_. Le statut Diffusé n’est pas capturé pour les e-mails envoyés via Sales Insight.
 
 >[!TIP]
 >
