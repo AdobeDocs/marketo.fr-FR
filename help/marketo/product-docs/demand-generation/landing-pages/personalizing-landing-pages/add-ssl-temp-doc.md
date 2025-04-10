@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Landing Pages
 exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
-source-git-commit: c7bf6c7ffca16e95f13a7009897bce6fc39a9ffd
+source-git-commit: d20a560d3ef0a76081787c962e2e9c7276caf5cf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Le chiffrement SSL (Secure Socket Layer) vous permet de sécuriser toutes vos pages de destination pour une instance Marketo Engage.
 
-Lorsque vous remplissez un formulaire web ou que vous visitez une page de destination hébergée par Marketo Engage, les informations sont envoyées par défaut via un protocole non sécurisé (HTTP). Conformément à la politique de votre société, vous pouvez sécuriser les informations envoyées à Marketo via (HTTPS). Par exemple, lorsque vous visitez `http://info.mydomain.com/`, il sera désormais `https://info.mydomain.com/`.
+Lorsque vous remplissez un formulaire web ou que vous visitez une page de destination hébergée par Marketo Engage, les informations sont envoyées via un protocole non sécurisé (HTTP). Conformément à la politique de votre société, vous pouvez sécuriser les informations envoyées à Marketo via (HTTPS). Par exemple, lorsque vous visitez `http://info.mydomain.com/`, il sera désormais `https://info.mydomain.com/`.
 
 Par défaut, Marketo Engage effectue le suivi de la « Page web visitée » et du « Lien de clic sur la page web » via un protocole HTTP non sécurisé. Si vous souhaitez que vos liens de suivi soient sécurisés avec leur propre certificat, vous devez demander à Marketo de créer un serveur non partagé distinct pour l’activer. Pour sécuriser tous les aspects de l’interaction d’un contact avec vous, vous devez généralement sécuriser à la fois les pages de destination et les liens de suivi.
 
@@ -44,7 +44,7 @@ Suivez les étapes ci-dessous pour activer SSL pour votre domaine par défaut.
 
 1. Toujours dans la section **Admin**, sélectionnez **Pages de destination**. Cliquez sur le bouton orange **Modifier** en regard de _Paramètres_.
 
-   ![](assets/add-ssl-to-your-landing-pages-4.png)
+   ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
