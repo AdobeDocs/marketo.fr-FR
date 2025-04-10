@@ -1,53 +1,61 @@
 ---
-description: Ajout de SSL à vos pages d’entrée - Documentation Marketo - Documentation produit
-title: Ajout de SSL à vos pages d’entrée
+description: Ajouter SSL à vos pages de destination - Documents Marketo - Documentation du produit
+title: Ajouter SSL à vos pages de destination
 hide: true
 hidefromtoc: true
 feature: Landing Pages
 exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
-source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
+source-git-commit: c7bf6c7ffca16e95f13a7009897bce6fc39a9ffd
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
 
-# Ajout de SSL à vos pages d’entrée {#add-ssl-to-your-landing-pages}
+# Ajouter SSL à vos pages de destination {#add-ssl-to-your-landing-pages}
 
 Le chiffrement SSL (Secure Socket Layer) vous permet de sécuriser toutes vos pages de destination pour une instance Marketo Engage.
 
-Lorsque vous remplissez un formulaire web ou que vous visitez une page de destination hébergée par Marketo Engage, les informations sont envoyées par défaut via un protocole non sécurisé (HTTP). Conformément à la politique de votre entreprise, vous souhaiterez peut-être sécuriser les informations soumises à Marketo via (HTTPS). Par exemple, lors de votre visite `http://info.mydomain.com/` , il sera `https://info.mydomain.com/`désormais .
+Lorsque vous remplissez un formulaire web ou que vous visitez une page de destination hébergée par Marketo Engage, les informations sont envoyées par défaut via un protocole non sécurisé (HTTP). Conformément à la politique de votre société, vous pouvez sécuriser les informations envoyées à Marketo via (HTTPS). Par exemple, lorsque vous visitez `http://info.mydomain.com/`, il sera désormais `https://info.mydomain.com/`.
 
-Marketo Engage suit par défaut « Page Web visitée » et « Cliquer sur le lien sur la page Web » sur un protocole HTTP non sécurisé. Si vous souhaitez que vos liens de suivi soient sécurisés avec leur propre certificat, vous devez demander à Marketo de créer un serveur non partagé distinct pour l’activer. Pour sécuriser tous les aspects de l’interaction d’un contact avec vous, il faut généralement sécuriser à la fois les pages de destination et les liens de suivi.
-
-CAPTURE D’ÉCRAN
+Par défaut, Marketo Engage effectue le suivi de la « Page web visitée » et du « Lien de clic sur la page web » via un protocole HTTP non sécurisé. Si vous souhaitez que vos liens de suivi soient sécurisés avec leur propre certificat, vous devez demander à Marketo de créer un serveur non partagé distinct pour l’activer. Pour sécuriser tous les aspects de l’interaction d’un contact avec vous, vous devez généralement sécuriser à la fois les pages de destination et les liens de suivi.
 
 ## Activer la certification SSL {#enable-ssl-certification}
 
-Ajoutez automatiquement SSL pour tous les alias de domaine que vous créez dans le cadre des règles de page d’entrée.
+Ajoutez automatiquement le protocole SSL pour tous les alias de domaine que vous créez dans le cadre des règles de page de destination.
 
-1. Accédez à la **zone Administration** .
+1. Accédez à la zone **Admin**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/add-ssl-to-your-landing-pages-1.png)
 
-1. Sélectionnez **Landing Pages** dans l’arborescence. Dans l’onglet **Règles** , cliquez sur la **liste déroulante Nouveau** et sélectionnez **Nouvel alias de** domaine.
+1. Sélectionnez **Pages de destination** dans l’arborescence. Dans l’onglet **Règles**, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouvel alias de domaine**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/add-ssl-to-your-landing-pages-2.png)
 
-1. Cochez la case Générer un **certificat** SSL.
+1. Saisissez vos _Alias de domaine_ et _Page par défaut_. Cochez la case **Générer un certificat SSL**. Cliquez sur **Créer** lorsque vous avez terminé.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/add-ssl-to-your-landing-pages-3.png)
 
-Cette opération ajoute automatiquement un certificat SSL pour ce domaine.
+Un certificat SSL est automatiquement ajouté pour ce domaine.
 
-CAPTURE D’ÉCRAN
+## Activer SSL pour votre domaine par défaut {#enable-ssl-default-domain}
 
-## Activation du protocole SSL pour votre domaine par défaut {#enable-ssl-default-domain}
+Suivez les étapes ci-dessous pour activer SSL pour votre domaine par défaut.
 
-CAPTURE D’ÉCRAN
+1. Toujours dans la section **Admin**, sélectionnez **Pages de destination**. Cliquez sur le bouton orange **Modifier** en regard de _Paramètres_.
+
+   ![](assets/add-ssl-to-your-landing-pages-4.png)
+
+   >[!NOTE]
+   >
+   >Si vous le souhaitez, vous pouvez également modifier le nom de domaine ici (domaine valide requis).
+
+1. Sélectionnez la case à cocher « Générer un certificat SSL » et cliquez sur Enregistrer.
+
+   ![](assets/add-ssl-to-your-landing-pages-5.png)
 
 >[!NOTE]
 >
->* La colonne Certificat SSL dans la liste affiche l’état du certificat pour tous les alias de domaine créés après la sortie de cette fonctionnalité (DATE). Si vous aviez activé le SSL pour un domaine via le support Marketo, le certificat continuera d’exister, mais ne s’affichera pas dans le tableau. Ce tableau reflète uniquement les certificats SSL pour les domaines ajoutés à l’aide des étapes décrites dans cet article.
+>* La colonne Certificat SSL de la liste indique le statut du certificat pour tous les alias de domaine créés après la publication de cette fonctionnalité (DATE). Si le SSL a été activé pour un domaine via la prise en charge de Marketo, le certificat continuera d’exister, mais ne s’affichera pas dans le tableau. Ce tableau reflète uniquement les certificats SSL pour les domaines ajoutés à l’aide des étapes de cet article.
 >
->* Il peut s’écouler jusqu’à trois minutes avant que le SSL ne soit à l’état PRÊT. Vous devez actualiser la page pour que les modifications s’affichent.
+>* Le statut PRÊT du SSL peut prendre jusqu’à trois minutes. Vous devez actualiser la page pour que les modifications s’affichent.
