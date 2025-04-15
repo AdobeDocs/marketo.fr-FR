@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 7%
 
 ---
@@ -53,8 +53,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr> 
    <td><strong>Mes jetons globaux et Workspace</strong> : configurez mes jetons à la fois au niveau de l’espace de travail et au niveau global pour permettre une productivité et un contrôle améliorés de la marque et des dérivés marketing sur les espaces de travail Marketo Engage et même les instances entières.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>S.O.</td>
   </tr>
   </tbody> 
 </table>
