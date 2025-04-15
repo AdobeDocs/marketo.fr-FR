@@ -5,9 +5,9 @@ title: Fragments
 description: Découvrez comment créer et utiliser des fragments de contenu visuels en tant que composants réutilisables pour les e-mails et les modèles d’e-mail.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
-source-wordcount: '1911'
+source-wordcount: '1922'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 1%
 # Fragments
 
 Un fragment est un composant réutilisable pouvant être référencé dans un ou plusieurs e-mails et modèles d’e-mail. Il s’agit généralement d’un bloc de contenu (texte, image ou les deux) qui peut être rapidement inséré dans votre projet. Grâce à cette fonctionnalité, vous pouvez précréer plusieurs blocs de contenu personnalisés pour assembler le contenu des e-mails afin d’améliorer le processus de conception. Les cas d’utilisation courants incluent les blocs de contenu d’en-tête/de pied de page pour les e-mails, les bannières d’invitation d’événement, les messages saisonniers, etc.
+
+>[!NOTE]
+>
+>Les fragments sont l’équivalent de [Fragments de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} dans l’ancien éditeur d’e-mail.
 
 Pour tirer le meilleur parti des fragments dans vos workflows :
 
@@ -69,7 +73,7 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
     <p>Actions disponibles :
     <li>Modifier la description</li>
     <li>Ajouter à un e-mail ou un modèle</li>
-    <li>Créer un brouillon</li>
+    <li>Créer une version brouillon</li>
     <li>Dupliquer</li>
     <li>Supprimer (si non utilisé)</li>
     </td>
