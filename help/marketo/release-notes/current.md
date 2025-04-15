@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 7%
 
 ---
@@ -56,17 +56,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>Jetons pour n’importe quel attribut de déclencheur</strong> : développe la liste des jetons de déclencheur disponibles uniquement à partir de la liste de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">ce document</a> pour prendre en charge l’utilisation de données provenant de n’importe quel attribut d’activité de déclenchement dans les champs de flux de campagne. Imprimer les données d’un attribut d’activité dans un moment intéressant ou définir le dernier ID de transaction d’un prospect à partir d’une activité personnalisée dans un champ de prospect.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
