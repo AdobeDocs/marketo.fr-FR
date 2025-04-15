@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -149,6 +149,12 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Disponible</td>
   </tr>
   <tr>
+    <td>Rapports par e-mail</td>
+    <td>Capacité à afficher les e-mails dans Marketo Engage Analytics.</td>
+    <td>Disponible</td>
+    <td>Disponible</td>
+  </tr>
+  <tr>
     <td>Utilisation des e-mails dans les campagnes et programmes</td>
     <td>Possibilité d’utiliser les nouveaux e-mails Designer dans les campagnes et programmes.</td>
     <td>Disponible</td>
@@ -277,12 +283,6 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   <tr>
     <td>Expérimentation (Test A/B)</td>
     <td>Possibilité de tester les e-mails avant de les envoyer à votre audience.</td>
-    <td>Disponible</td>
-    <td>À déterminer</td>
-  </tr>
-  <tr>
-    <td>Rapports par e-mail</td>
-    <td>Capacité à afficher les e-mails dans Marketo Engage Analytics.</td>
     <td>Disponible</td>
     <td>À déterminer</td>
   </tr>
