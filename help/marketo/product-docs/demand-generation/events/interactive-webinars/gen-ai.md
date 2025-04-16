@@ -3,9 +3,9 @@ description: Fonctionnalités de GenAI - Documentation de Marketo - Documentatio
 title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ Après avoir copié le contenu que vous souhaitez utiliser, collez-le dans l’�
 ### Chapitres {#chapters}
 
 **Copier HTML** - Cliquez sur le bouton **[!UICONTROL Copier HTML]** pour mettre en forme l’ensemble de l’enregistrement et ses chapitres dans un lecteur vidéo.
+
+## Cibler votre audience
+
+Utilisez les filtres et/ou triggers de campagnes/listes intelligentes pour voir ce que chaque visionneuse a regardé, combien de fois, etc., afin d’obtenir des suivis personnalisés.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **Déclencheurs** : _clics sur le lien d’une page web_, _page web des visites_
+
+* **Filtres** : _lien cliqué sur une page web_, _page web visitée_
+
+Le « lien » est le nom du chapitre et la « page web » est la page qui héberge votre webinaire à la demande.
+
+>[!TIP]
+>
+>Utilisez des [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} pour affiner davantage votre audience cible.
 
 ## Éléments à noter {#things-to-note}
 
