@@ -1,10 +1,10 @@
 ---
 unique-page-id: 12976798
-description: Configuration de LinkedIn Lead Gen Forms - Documentation Marketo - Documentation du produit
+description: Configuration de LinkedIn Lead Gen Forms - Documents Marketo - Documentation du produit
 title: Configuration de LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Configuration de LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
 
-Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans LinkedIn et générer des pistes pour Marketo.
+Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans LinkedIn et générer des prospects pour Marketo.
 
 >[!IMPORTANT]
 >
->LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint de votre menu **Admin** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, afin d’éviter toute interruption de service. Pour plus d’informations, consultez la [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn de Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint dans votre menu **Admin** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, afin d’éviter l’interruption du service. Pour plus d’informations, consultez le [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -25,72 +25,72 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
 >[!NOTE]
 >
->Un prospect LinkedIn n’apparaîtra pas dans Marketo Engage s’il correspond à un enregistrement de personne existant dans Marketo associé à un enregistrement de société créé à l’aide des API de société et que l’abonnement Marketo n’est pas connecté à un CRM.
+>Un prospect LinkedIn n’apparaît pas dans Marketo Engage s’il correspond à un enregistrement de personne existant dans Marketo associé à un enregistrement d’entreprise créé à l’aide des API de l’entreprise et si l’abonnement à Marketo n’est pas associé à un CRM.
 
-1. Accédez à Marketo **Admin**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
-   ![](assets/image2016-11-29-10-3a50-3a29.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 
-1. Accédez à **LaunchPoint**, cliquez sur **New** et sélectionnez **New Service**.
+1. Accédez à **[!UICONTROL LaunchPoint]**, cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouveau service]**.
 
-   ![](assets/image2016-11-29-10-3a51-3a11.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. Saisissez un **Nom d’affichage** pour votre service, sélectionnez le service **Gestionnaire de pistes LinkedIn** dans la liste déroulante, puis cliquez sur **Suivant**.
+1. Saisissez un _Nom d’affichage_ pour votre service, sélectionnez le service **[!UICONTROL LinkedIn Lead Gen]** dans la liste déroulante, puis cliquez sur **[!UICONTROL Suivant]**.
 
-   ![](assets/linkedin-lead-gen.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
-1. Marketo ouvre un nouvel onglet dans le même navigateur sur [linkedin.com](https://www.linkedin.com). Connectez-vous à LinkedIn à l’aide du compte que vous souhaitez utiliser pour l’intégration.
+1. Marketo ouvre un nouvel onglet dans le même navigateur sur [linkedin.com](https://www.linkedin.com){target="_blank"}. Connectez-vous à LinkedIn à l’aide du compte que vous souhaitez utiliser pour l’intégration.
 
    >[!NOTE]
    >
-   >Le compte LinkedIn doit avoir accès à tous les comptes commerciaux LinkedIn pour lesquels vous créez des campagnes sponsorisées.
+   >Le compte LinkedIn doit avoir accès à tous les comptes professionnels LinkedIn pour lesquels vous créez des campagnes sponsorisées.
 
-   ![](assets/linkedin-login.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-4.png)
 
-1. Une fois connecté à LinkedIn, revenez à Marketo et cliquez sur **Autoriser**.
+1. Une fois connecté à LinkedIn, revenez à Marketo et cliquez sur **[!UICONTROL Autoriser]**.
 
-   ![](assets/linkedin-lead-gen-authorize.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-5.png)
 
-1. Lorsque vous y êtes invité, cliquez sur **Autoriser** pour accepter l’installation de l’application Marketo dans LinkedIn.
+1. Lorsque vous y êtes invité, cliquez sur **[!UICONTROL Autoriser]** pour accepter l’installation de l’application Marketo dans LinkedIn.
 
-   ![](assets/linkedin-marketo-allow.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. Vous remarquerez que vous êtes maintenant autorisé. Cliquez sur **Suivant**.
+1. Vous remarquerez que vous êtes désormais autorisé. Cliquez sur **[!UICONTROL Suivant]**.
 
-   ![](assets/image2017-9-28-7-3a55-3a14.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 
    >[!CAUTION]
    >
-   >Le service expire automatiquement un an après l’autorisation. Pour récupérer l’accès, cliquez simplement sur **Réautorisation**. Vous devrez peut-être saisir à nouveau votre mot de passe LinkedIn, en fonction des paramètres de votre navigateur.
+   >Le service expire automatiquement un an après l’autorisation. Pour récupérer l’accès, cliquez simplement sur **[!UICONTROL Réautoriser]**. Il se peut que vous deviez saisir à nouveau votre mot de passe LinkedIn, selon les paramètres de votre navigateur.
 
-1. Sélectionnez le ou les comptes à partir desquels vous souhaitez que le prospect LinkedIn vienne dans Marketo et cliquez sur **Suivant**.
+1. Sélectionnez le ou les comptes depuis lesquels vous souhaitez que les leads LinkedIn de génération de leads arrivent dans Marketo et cliquez sur **[!UICONTROL Suivant]**.
 
    >[!TIP]
    >
-   >Si vous ne voyez pas les comptes professionnels que vous attendez, assurez-vous que le compte LinkedIn de l’utilisateur autorisé dispose des autorisations du gestionnaire de formulaires Lead Gen sur le compte professionnel dans LinkedIn.
+   >Si vous ne voyez pas les comptes professionnels attendus, assurez-vous que le compte LinkedIn de l’utilisateur autorisé dispose des autorisations de gestionnaire de formulaires gén. de leads pour le compte professionnel dans LinkedIn.
 
-   ![](assets/linkedin-pages-to-capture.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. Pour accepter les mappages de champ LinkedIn vers Marketo par défaut, cliquez simplement sur **Créer**. Si vous souhaitez modifier le mapping de champ par défaut, supprimer un mapping de champ ou ajouter un nouveau mapping de champ, vous pouvez le faire par champ via le modal ci-dessous.
+1. Pour accepter les mappages LinkedIn/champs Marketo par défaut, cliquez simplement sur **[!UICONTROL Créer]**. Si vous souhaitez modifier le mappage des champs par défaut, supprimer un mappage des champs ou ajouter un nouveau mappage des champs, vous pouvez le faire par champ à l’aide de la boîte de dialogue modale ci-dessous.
 
    >[!CAUTION]
    >
-   >Marketo prend en charge le mappage de deux champs LinkedIn à un seul champ Marketo, **mais uniquement lorsque** les deux champs LinkedIn ne se trouvent pas sur le même formulaire. Si vous mappez deux champs du même formulaire LinkedIn à un seul champ Marketo, il se peut que les utilisateurs ne puissent pas entrer dans votre base de données Marketo.
+   >Marketo prend en charge le mappage de deux champs LinkedIn à un seul champ Marketo, _mais uniquement lorsque_ les deux champs LinkedIn ne se trouvent pas sur le même formulaire. Si vous mappez deux champs du même formulaire LinkedIn à un seul champ Marketo, il se peut que les utilisateurs ne saisissent pas votre base de données Marketo.
 
-   ![](assets/linkedin-lead-gen-mapping.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-9.png)
 
    >[!NOTE]
    >
-   >Seuls les champs LinkedIn qui ont déjà été enregistrés dans un [modèle de formulaire](https://www.linkedin.com/help/lms/answer/79634) dans LinkedIn Campaign Manager s’affichent en tant que champs LinkedIn pouvant être mappés aux champs Marketo.
+   >Seuls les champs LinkedIn qui ont déjà été enregistrés dans un [modèle de formulaire](https://www.linkedin.com/help/lms/answer/79634){target="_blank"} dans LinkedIn Campaign Manager s’affichent sous la forme de champs LinkedIn pouvant être mappés sur des champs Marketo.
 
-   ![](assets/linkedin-installed-services.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-C&#39;est joli ! Les personnes qui envoient des formulaires de génération de pistes LinkedIn commencent à circuler dans Marketo lorsque vous lancez des campagnes réussies du côté LinkedIn.
+Bien joué ! Les personnes qui envoient des formulaires LinkedIn de génération de leads commenceront à affluer dans Marketo lorsque vous exécuterez des campagnes réussies du côté LinkedIn.
 
 >[!NOTE]
 >
->Vous ne pouvez autoriser qu’un seul compte utilisateur LinkedIn. Si vous souhaitez lier plusieurs comptes professionnels à Marketo, assurez-vous que le compte LinkedIn de l’utilisateur autorisé dispose des autorisations du gestionnaire de formulaires Lead Gen sur le compte professionnel dans LinkedIn.
+>Vous ne pouvez autoriser qu’un seul compte utilisateur LinkedIn. Si vous souhaitez lier plusieurs comptes professionnels à Marketo, assurez-vous que le compte LinkedIn de l’utilisateur autorisé dispose des autorisations de gestionnaire de formulaires gén. de leads pour le compte professionnel dans LinkedIn.
 
 >[!MORELIKETHIS]
 >
->[ Utilisation des filtres et des déclencheurs de formulaire de génération de piste LinkedIn dans une campagne dynamique ](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+>[Utilisation de filtres et de triggers de formulaires de génération de leads LinkedIn dans une campagne dynamique](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}

@@ -1,31 +1,33 @@
 ---
 unique-page-id: 2950555
-description: Modifier les paramètres de publication enrichie Facebook - Documents Marketo - Documentation du produit
-title: Modification des paramètres de publication enrichie Facebook
+description: Modifier les paramètres de publication enrichie sur Facebook - Documents Marketo - Documentation du produit
+title: Modifier les paramètres de la publication Facebook enrichie
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+hide: true
+hidefromtoc: true
 feature: Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Modification des paramètres de publication enrichie Facebook {#edit-facebook-rich-post-settings}
+# Modifier les paramètres de la publication Facebook enrichie {#edit-facebook-rich-post-settings}
 
 Personnalisez les publications lorsque des personnes vous partagent sur Facebook.
 
 >[!AVAILABILITY]
 >
->Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte d’Adobe (votre gestionnaire de compte).
+>Tous les utilisateurs de Marketo Engage n’ont pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
-Les [applications sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) de Marketo permettent à vos prospects de partager vos landing pages avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises facebook OpenGraph (balises OG) vous permettent de spécifier les informations de votre page d’entrée qui sont incluses dans les publications Facebook.
+Marketo _applications sociales_ permet à vos prospects de partager vos landing pages avec leurs connexions sur les réseaux sociaux tels que Facebook, Twitter, etc. Les balises OpenGraph de Facebook (balises de journalisation) vous permettent de spécifier quelles informations de votre page de destination sont incluses dans les publications Facebook.
 
-## Sélectionner les options de publication enrichie {#select-rich-post-options}
+## Sélectionner les options de publication enrichies {#select-rich-post-options}
 
-Vous pouvez spécifier les types d’informations de page à utiliser dans les publications enrichies Facebook générées par des partages provenant de votre page d’entrée.
+Vous pouvez spécifier les types d’informations de page à utiliser dans les publications enrichies Facebook générées par des partages de votre page de destination.
 
-1. Sélectionnez **Message Facebook** dans l’éditeur pour votre vidéo ou bouton social **YouTube**.
+1. Sélectionnez **Message Facebook** dans l’éditeur pour votre bouton vidéo ou social **YouTube**.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,29 +37,29 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Ajouter du contenu dynamique : votre application sociale peut utiliser les balises `<TITLE>`, `<CAPTION>` et `<DESCRIPTION>` de votre page d’entrée pour remplir votre publication enrichie.
+   * Ajouter du contenu dynamique : votre application de réseau social peut utiliser les balises `<TITLE>`, `<CAPTION>` et `<DESCRIPTION>` de votre page de destination pour remplir votre publication enrichie.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >Elles doivent déjà exister dans la source de la page. Pour un meilleur contrôle, vous pouvez ajouter des balises Facebook OG spécifiques à votre page d’entrée.
+   >Ces balises doivent déjà exister dans la source de la page. Pour plus de contrôle, vous pouvez toutefois ajouter des balises d’organisation Facebook spécifiques à votre page de destination.
 
-   * Ne pas ajouter de contenu riche : limite les publications Facebook de votre landing page au message principal et au lien.
+   * N’ajoutez pas de contenu riche : limite les publications Facebook de votre page de destination au message et au lien principaux.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Ajout de balises Facebook OG à une page d’entrée {#add-facebook-og-tags-to-a-landing-page}
+## Ajout de balises de connexion Facebook à une page de destination {#add-facebook-og-tags-to-a-landing-page}
 
-Pour contrôler les éléments de page qui seront inclus dans les partages Facebook à partir de votre page d’entrée, vous pouvez ajouter des balises Facebook OG (Open Graph) pour le titre, la légende et la description de votre page d’entrée.
+Pour contrôler les éléments de page qui seront inclus dans les partages Facebook de votre page de destination, vous pouvez ajouter des balises Facebook OSG (Open Graph) pour le titre, la légende et la description à votre page de destination.
 
-1. Ouvrez la page d’entrée contenant la **vidéo YouTube** ou le bouton social.
+1. Ouvrez la page de destination qui contient votre bouton vidéo **ou social** YouTube.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Le **Designer de page d’entrée** s’ouvre dans une nouvelle fenêtre.
+   La **Landing Page Designer** s’ouvre dans une nouvelle fenêtre.
 
-1. Sélectionnez **Actions de page d’entrée** > **Modifier les balises de métadonnées de page**.
+1. Sélectionnez **Actions de la page de destination** > **Modifier les balises de métadonnées de page**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
@@ -73,4 +75,4 @@ Pour contrôler les éléments de page qui seront inclus dans les partages Faceb
 
 >[!NOTE]
 >
->Veillez à utiliser la syntaxe d’HTML appropriée lors de l’ajout des balises OG.
+>Veillez à utiliser la syntaxe HTML appropriée lors de l’ajout des balises de journalisation.
