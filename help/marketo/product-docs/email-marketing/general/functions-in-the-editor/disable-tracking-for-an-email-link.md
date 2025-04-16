@@ -4,9 +4,9 @@ description: Désactivation du suivi d’un lien e-mail - Documents Marketo - Do
 title: Désactivation du suivi d’un lien e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---
@@ -45,10 +45,6 @@ En outre, si un e-mail a été envoyé il y a plus de 365 jours **et que personn
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >Vous souhaitez désactiver le suivi des clics pour un lien dans un e-mail **modèle** ? Utilisez le format suivant :
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Si vous avez besoin d&#39;aide pour la mise en œuvre, veuillez consulter votre développeur web.
-
-Joli ! Vous avez désactivé le suivi d’un lien.
+   >Si vous souhaitez désactiver le suivi des clics pour un lien dans un modèle d’e-mail, ou la [version texte](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} d’un e-mail, ajoutez l’`mktNoTrack` au *début* de la chaîne, et non à la fin, comme dans cet exemple : `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. Dans le cas contraire, le lien pourrait disparaître. Si vous avez besoin d’aide pour mettre en œuvre le code ci-dessus, consultez votre développeur web.
