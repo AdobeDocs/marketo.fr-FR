@@ -2,10 +2,11 @@
 description: Notes De Mise À Jour - Mars 2025 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Mars 2025
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 5%
+source-wordcount: '478'
+ht-degree: 4%
 
 ---
 
@@ -53,7 +54,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr> 
    <td><strong>Mes jetons globaux et Workspace</strong> : configurez mes jetons à la fois au niveau de l’espace de travail et au niveau global pour permettre une productivité et un contrôle améliorés de la marque et des dérivés marketing sur les espaces de travail Marketo Engage et même les instances entières.</td> 
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Créer un jeton Mon global</a></td>
   </tr>
   </tbody> 
 </table>
