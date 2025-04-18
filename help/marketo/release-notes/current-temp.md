@@ -4,10 +4,10 @@ title: Notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 9%
+source-wordcount: '429'
+ht-degree: 7%
 
 ---
 
@@ -43,17 +43,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITRE</strong> : texte.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>TITRE</strong> : texte.</td> 
+   <td><strong>Secure Socket Layer (SSL) Self Service</strong> : le chiffrement SSL vous permet de rendre les pages de destination d’une instance Marketo Engage sécurisées. Avant d’activer cette fonctionnalité, l’équipe d’assistance d’Adobe devait vous aider. Les utilisateurs de Marketo peuvent désormais l’activer eux-mêmes, ce qui leur permet de gagner un temps précieux.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
