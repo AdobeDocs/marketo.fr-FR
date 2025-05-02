@@ -2,12 +2,10 @@
 description: Demandbase - Documents Marketo - Documentation Du Produit
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -33,6 +31,8 @@ Les étapes ci-dessous doivent être effectuées _dans votre compte Demandbase_.
 1. Cliquez sur **Créer**.
 
 1. À l’aide de l’icône _copy_, copiez la chaîne du jeton API au bas de la page.
+
+1. Envoyez un ticket avec la [prise en charge de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) et fournissez la chaîne de jeton API pour activer l’intégration Demandbase.
 
 >[!NOTE]
 >
