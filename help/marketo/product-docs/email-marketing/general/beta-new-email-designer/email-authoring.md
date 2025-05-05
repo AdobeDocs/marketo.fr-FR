@@ -22,7 +22,7 @@ Découvrez comment créer, personnaliser et prévisualiser des e-mails dans la n
 
 >[!PREREQUISITES]
 >
->Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Création d’un e-mail {#create-an-email}
 

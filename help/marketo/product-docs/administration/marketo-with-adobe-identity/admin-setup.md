@@ -20,7 +20,7 @@ Une fois que vous avez été ajouté en tant qu’administrateur système d’Ad
 
    ![](assets/admin-setup-1.png)
 
-1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Sinon, [configurez votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si vous avez déjà accédé à une application avec une Adobe ID, vous serez directement dirigé vers Adobe Admin Console. Sinon, [configurez votre Adobe ID](https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 

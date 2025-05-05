@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 16-E {#template-16e}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=fr)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Modèle 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
+[Modèle 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=fr)

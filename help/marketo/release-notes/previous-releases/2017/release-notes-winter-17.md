@@ -81,7 +81,7 @@ Il existe une expérience d’édition et une mise en page améliorées qui divi
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de découverte automatique du contenu.
 
-## [Améliorations apportées au SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [Améliorations apportées au SDK](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Les développeurs disposent désormais d’un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer des jetons push.
 

@@ -30,7 +30,7 @@ Utilisez l’API pour extraire de nouvelles activités ou des modifications appo
 * Obtention des types d’activité
 * Obtenir le jeton de pagination
 
-Des détails complets seront disponibles après la publication de la version à l’adresse [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+Des détails complets seront disponibles après la publication de la version à l’adresse [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Envoyer le courrier électronique Marketo pour Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Utilisez un nouvel appel qui effectue le suivi de l’historique des visites pas
 * Produits intéressés
 * Quelles campagnes RTP ont-elles vues ?
 
-Visitez le site [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour plus de détails.
+Visitez le site [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour plus de détails.

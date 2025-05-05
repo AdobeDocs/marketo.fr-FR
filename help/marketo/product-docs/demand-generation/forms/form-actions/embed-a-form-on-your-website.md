@@ -47,6 +47,6 @@ Maintenant, donnez simplement le code incorporé à votre développeur web et de
 
 >[!NOTE]
 >
->Si votre développeur souhaite personnaliser l’aspect ou accéder à des fonctions d’API avancées, affichez-lui la [page des développeurs Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Si votre développeur souhaite personnaliser l’aspect ou accéder à des fonctions d’API avancées, affichez-lui la [page des développeurs Forms 2.0](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Très bon travail ! Voulez-vous que le [code incorporé inclut le code Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) ? C&#39;est aussi facile !

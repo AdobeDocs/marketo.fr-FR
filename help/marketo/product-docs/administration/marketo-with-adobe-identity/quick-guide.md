@@ -39,7 +39,7 @@ API Marketo Engage Seuls les utilisateurs doivent être créés et gérés dans 
 
 ## Ajout d’utilisateurs au format CSV {#add-users-via-csv}
 
-[Importer un fichier CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importer un fichier CSV](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Connexion de l’utilisateur {#user-sign-in}
 

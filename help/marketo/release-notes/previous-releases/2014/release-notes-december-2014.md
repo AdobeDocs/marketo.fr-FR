@@ -65,7 +65,7 @@ Trois nouveaux appels pour l’API Lead &amp; Activity ReST :
 
 ・ Fusionner le prospect
 
-Des détails complets seront disponibles après la version à l’adresse [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Des détails complets seront disponibles après la version à l’adresse [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
 ## Améliorations de la compatibilité Javascript Munchkin {#munchkin-javascript-compatibility-enhancements}
 

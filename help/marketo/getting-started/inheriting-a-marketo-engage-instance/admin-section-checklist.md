@@ -33,7 +33,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   <tr> 
    <td>Administration des produits d’abonnement et de Marketo Engage</td> 
    <td><li>Votre abonnement de Marketo Engage a-t-il déjà été migré vers <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ? 
-<br/>     Si tel est le cas, votre "administrateur système Adobe Admin Console" vous a-t-il attribué un rôle "Administrateur de produit Adobe Admin Console" ? Si vous ne savez pas qui dans votre organisation dispose des privilèges d’administrateur dans la console, contactez l’ <a href="https://helpx.adobe.com/contact.html" target="_blank">assistance clientèle Adobe</a>.</li>
+<br/>     Si tel est le cas, votre "administrateur système Adobe Admin Console" vous a-t-il attribué un rôle "Administrateur de produit Adobe Admin Console" ? Si vous ne savez pas qui dans votre organisation dispose des privilèges d’administrateur dans la console, contactez l’ <a href="https://helpx.adobe.com/fr/contact.html" target="_blank">assistance clientèle Adobe</a>.</li>
 <li>Avez-vous accepté l’invitation "Administrateur de produit Marketo Engage" ? L’e-mail est envoyé lorsque le rôle est attribué dans Adobe Admin Console.
 <br/>     Si ce n’est pas le cas, recherchez l’<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">e-mail de bienvenue</a> dans votre boîte de réception et acceptez l’invitation à activer votre Adobe ID.</li></td>
   </tr>
@@ -293,7 +293,7 @@ Les listes de contrôle ci-dessous (listes de contrôle ultérieures liées au b
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (le cas échéant)</td> 
-<td>Suivez les étapes ci-dessous pour accéder à <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si vous n'avez pas encore configuré Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">apprenez à le faire ici</a>.
+<td>Suivez les étapes ci-dessous pour accéder à <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si vous n'avez pas encore configuré Adobe ID, <a href="https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html" target="_blank">apprenez à le faire ici</a>.
 <br/>
 <li>Avez-vous accepté l’invitation <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat Product Admin</a> ? L’e-mail est envoyé lorsque Dynamic Chat est activé dans votre instance de Marketo Engage et que vous êtes désigné comme administrateur système.
 <br/>     Dans le cas contraire, recherchez l’e-mail de bienvenue dans votre boîte de réception et acceptez l’invitation à configurer votre Adobe ID.</li>   

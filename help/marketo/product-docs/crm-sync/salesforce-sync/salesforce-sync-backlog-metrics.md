@@ -97,9 +97,9 @@ Lorsqu’un grand nombre de mises à jour sont effectuées (par exemple à parti
 
 **Champs fréquemment mis à jour** : certains champs sont sujets à de fréquentes mises à jour. Par exemple, les champs de devise qui font l’objet de modifications de devise. Vérifiez si ces champs doivent être synchronisés ou s’ils doivent être conçus différemment. Si d’autres champs sont fréquemment mis à jour et ne sont pas nécessaires, masquez-les à l’utilisateur de synchronisation. Veillez à discuter avec vos intégrations d’administration SFDC qui peuvent mettre à jour des champs.
 
-**Objets personnalisés** : consultez régulièrement les [objets personnalisés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} activés pour la synchronisation et la désactivation de ceux qui n’ont plus besoin d’être synchronisés.
+**Objets personnalisés** : consultez régulièrement les [objets personnalisés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} activés pour la synchronisation et la désactivation de ceux qui n’ont plus besoin d’être synchronisés.
 
-**Activités** : [Vérifiez si une synchronisation activée pour les activités](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} peut être supprimée de la synchronisation.  Ces activités ne se synchronisent qu’une fois par jour et par piste.
+**Activités** : [Vérifiez si une synchronisation activée pour les activités](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} peut être supprimée de la synchronisation.  Ces activités ne se synchronisent qu’une fois par jour et par piste.
 
 **Réviser les erreurs de synchronisation** : la gestion des exceptions peut ralentir la synchronisation. La révision des notifications utilisateur et la résolution des erreurs peuvent améliorer l’intégrité de la synchronisation.
 

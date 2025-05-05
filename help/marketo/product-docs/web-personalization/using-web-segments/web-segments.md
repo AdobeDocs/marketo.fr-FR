@@ -187,7 +187,7 @@ Effectuez une sélection dans une [liste de comptes nommés](/help/marketo/produ
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom Liste des comptes nommés est utilisé comme référence d’index pour la liste des [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization) de Web Personalization.
+>Le nombre entre crochets en regard du nom Liste des comptes nommés est utilisé comme référence d’index pour la liste des [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization) de Web Personalization.
 
 **Exclure un FAI**
 
@@ -286,7 +286,7 @@ Ajoutez la valeur Event que vous souhaitez cibler. Par exemple, à partir de sou
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [ pour en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [ pour en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

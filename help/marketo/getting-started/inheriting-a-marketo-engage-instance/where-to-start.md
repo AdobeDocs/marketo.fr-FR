@@ -66,4 +66,4 @@ Besoin d’aide supplémentaire ? Connectez-vous à nous ou à d’autres utilis
 
 * Pour obtenir une assistance pratique afin de tirer le meilleur parti de votre instance de Marketo Engage, contactez **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Regardez **[des tutoriels vidéo organisés](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** sur différents aspects du Marketo Engage.
+* Regardez **[des tutoriels vidéo organisés](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr){target="_blank"}** sur différents aspects du Marketo Engage.

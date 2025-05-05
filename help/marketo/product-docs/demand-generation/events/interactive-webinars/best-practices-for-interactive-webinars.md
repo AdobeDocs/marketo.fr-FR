@@ -85,7 +85,7 @@ Pour y contribuer, nous avons compilé une liste de bonnes pratiques qui peuvent
 
 * **Module Q&amp;R** : le nom du participant qui a soumis la question et le nom de l’hôte/du présentateur qui a répondu peuvent être masqués. Pour ce faire, désélectionnez les options de confidentialité dans la section &quot;Capsule Q&amp;R&quot; des préférences de salle.
 
-* **Panneau de conversation** : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les tchats apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu de la capsule. [Cliquez ici](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
+* **Panneau de conversation** : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les tchats apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu de la capsule. [Cliquez ici](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
 
 * **Chat privé** : désactivez la conversation privée pour empêcher les participants de faire un ping à un autre participant. Pour ce faire, décochez &quot;Autoriser les participants à discuter en privé&quot; dans la section &quot;Chat&quot; des préférences de salle.
 

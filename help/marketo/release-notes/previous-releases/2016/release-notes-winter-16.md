@@ -49,13 +49,13 @@ Pour utiliser cette fonctionnalité, le programme de messagerie électronique do
 
 ## [Améliorations du marketing mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Prise en charge de PhoneGap :** Nous offrons désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**Prise en charge de PhoneGap :** Nous offrons désormais la prise en charge de PhoneGap pour votre application mobile. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Prise en charge des applications Sandbox** :
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Programmation et API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [Programmation et API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Créez, mettez à jour et clonez des programmes via l’API REST. Cela n’inclut pas la création ou la mise à jour de listes dynamiques et de campagnes dynamiques dans un programme.
 

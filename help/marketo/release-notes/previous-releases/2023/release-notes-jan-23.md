@@ -88,7 +88,7 @@ Les fonctionnalités suivantes entrent dans le cycle de publication standard et 
   </tr>
   <tr> 
    <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=fr">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

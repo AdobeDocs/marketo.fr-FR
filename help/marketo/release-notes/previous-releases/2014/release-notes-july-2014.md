@@ -47,7 +47,7 @@ Outre le calendrier marketing avec lequel vous gérez vos événements et progra
 
 ## Liste des opérations dans l’API ReST {#list-operations-in-the-rest-api}
 
-Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) pour obtenir la documentation complète.
+Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api) pour obtenir la documentation complète.
 
 * Obtenir la liste par identifiant
 * Obtenir plusieurs listes
@@ -78,7 +78,7 @@ La page Campagne d’ensemble RTP [ comprend désormais des modèles prêts à l
 
 ## RTP : améliorations de l’API JavaScript {#rtp-javascript-api-enhancements}
 
-Nouvel appel de l’API RTP pour obtenir des données sur les visiteurs en temps réel telles que l’organisation, le secteur, l’emplacement et la correspondance de code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle présentant le code segment. Consultez notre [site de développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
+Nouvel appel de l’API RTP pour obtenir des données sur les visiteurs en temps réel telles que l’organisation, le secteur, l’emplacement et la correspondance de code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle présentant le code segment. Consultez notre [site de développeurs](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

@@ -261,7 +261,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documents</strong></td> 
-   <td colspan="1">Courts pour les documents, les documents sont des articles d’aide permettant aux clients de mieux comprendre le produit. Marketo comporte différents types de documents : documents sur le produit (le site sur lequel vous vous trouvez actuellement), documents <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">développeur</a> et documents <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">support</a>.</td> 
+   <td colspan="1">Courts pour les documents, les documents sont des articles d’aide permettant aux clients de mieux comprendre le produit. Marketo comporte différents types de documents : documents sur le produit (le site sur lequel vous vous trouvez actuellement), documents <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home" rel="nofollow">développeur</a> et documents <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">support</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Authentification, reporting et conformité des messages basés sur un domaine (DMARC)</strong></td> 

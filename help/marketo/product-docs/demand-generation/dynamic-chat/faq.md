@@ -24,7 +24,7 @@ Le fragment de code JavaScript Dynamic Chat peut être installé sur n’importe
 
 **Combien de temps les données sont-elles stockées pour la création de rapports ?**
 
-90 jours. Pour obtenir la liste complète des limites/paramètres, consultez la [page de description du produit](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} du Marketo Engage.
+90 jours. Pour obtenir la liste complète des limites/paramètres, consultez la [page de description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} du Marketo Engage.
 
 **Le Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 

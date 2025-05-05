@@ -109,4 +109,4 @@ Si le rôle Marketo de l’utilisateur Chat nouvellement ajouté n’a pas déj�
 >[!MORELIKETHIS]
 >
 >* [Utilisateurs de Adobe Admin Console](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
->* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html){target="_blank"}

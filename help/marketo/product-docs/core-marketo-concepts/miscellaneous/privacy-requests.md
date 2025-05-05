@@ -28,7 +28,7 @@ Vous pouvez envoyer des requêtes individuelles pour accéder aux données des c
 * Par le biais de l’ [interface utilisateur de Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [ici](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=fr){target="_blank"}.
 * Par le biais de l’API du Privacy Service. Consultez la documentation [ici](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} et les informations sur l&#39;API [ici](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-Le [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} prend en charge deux types de requêtes : l’accès aux données et la suppression des données.
+Le [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr){target="_blank"} prend en charge deux types de requêtes : l’accès aux données et la suppression des données.
 
 Découvrez comment créer des demandes d’accès et de suppression.
 

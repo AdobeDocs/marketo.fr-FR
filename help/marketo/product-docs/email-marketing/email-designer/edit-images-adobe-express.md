@@ -83,7 +83,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express :
 
 ### Utilisateurs disposant d’une licence Enterprise {#users-with-an-enterprise-license}
 
-Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès à l’éditeur Express complet. Vous pouvez ajuster les paramètres d’image tels que la couleur, la luminosité, la netteté, le contraste, la taille, etc. L’option Magie de l’IA vous permet de supprimer des arrière-plans, d’insérer et de supprimer des objets, ainsi que d’effacer des parties d’une image. Consultez le [Guide de l’utilisateur d’Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"} pour en savoir plus sur chaque paramètre.
+Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès à l’éditeur Express complet. Vous pouvez ajuster les paramètres d’image tels que la couleur, la luminosité, la netteté, le contraste, la taille, etc. L’option Magie de l’IA vous permet de supprimer des arrière-plans, d’insérer et de supprimer des objets, ainsi que d’effacer des parties d’une image. Consultez le [Guide de l’utilisateur d’Adobe Express](https://helpx.adobe.com/fr/express/user-guide.html){target="_blank"} pour en savoir plus sur chaque paramètre.
 
 >[!IMPORTANT]
 >

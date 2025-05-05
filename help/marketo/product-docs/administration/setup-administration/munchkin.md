@@ -15,4 +15,4 @@ ht-degree: 0%
 
 [!DNL Munchkin] est le fragment de code JavaScript que vous avez placé sur votre site web. Il effectue le suivi des visites, des clics et des remplissages de formulaires. Il a aussi une API riche pour faire toutes sortes de trucs sympas.
 
-Consultez la [page développeur sur [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} pour en savoir plus.
+Consultez la [page développeur sur [!DNL Munchkin]](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} pour en savoir plus.

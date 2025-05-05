@@ -60,7 +60,7 @@ Lorsque la valeur est définie sur true, les contextes de jeton suivants sont en
 
 **Interaction API**
 
-Lors de l’utilisation de Schedule ou Request Campaign [ dans l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), les deux permettent de transmettre des valeurs pour My Tokens, qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit &quot;Utiliser le contexte parent sur True&quot;, elle utilisera les valeurs transmises par le biais de l’API, plutôt que les valeurs définies dans l’application.
+Lors de l’utilisation de Schedule ou Request Campaign [ dans l’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), les deux permettent de transmettre des valeurs pour My Tokens, qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit &quot;Utiliser le contexte parent sur True&quot;, elle utilisera les valeurs transmises par le biais de l’API, plutôt que les valeurs définies dans l’application.
 
 ## Informations à noter {#things-to-note}
 

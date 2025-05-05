@@ -81,7 +81,7 @@ Un URI de lien profond est constitué de trois parties : nom du schéma, chemin 
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Comme votre développeur dispose de nombreuses options pour définir des URI de lien profond, demandez-lui de vous envoyer les URI (liens) des pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Comme votre développeur dispose de nombreuses options pour définir des URI de lien profond, demandez-lui de vous envoyer les URI (liens) des pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

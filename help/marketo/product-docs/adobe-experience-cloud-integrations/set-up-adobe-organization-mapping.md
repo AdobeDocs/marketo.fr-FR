@@ -36,7 +36,7 @@ Pour vous synchroniser avec les applications Adobe, telles que l’Audience Mana
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Saisissez votre ID d’organisation Adobe IMS (apprenez à trouver cet [ici](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) et cliquez sur **[!UICONTROL OK]**.
+1. Saisissez votre ID d’organisation Adobe IMS (apprenez à trouver cet [ici](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=fr){target="_blank"}) et cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

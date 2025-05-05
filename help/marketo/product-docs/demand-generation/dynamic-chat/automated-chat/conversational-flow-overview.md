@@ -82,7 +82,7 @@ Dans la moitié inférieure de l’onglet Paramètres , personnalisez le déclen
 
 >[!TIP]
 >
->Voir [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en action !
+>Voir [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=fr){target="_blank"} en action !
 
 >[!MORELIKETHIS]
 >

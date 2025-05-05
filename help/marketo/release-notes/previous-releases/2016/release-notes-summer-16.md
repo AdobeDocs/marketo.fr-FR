@@ -104,7 +104,7 @@ Affichez les données d’analyse de contenu et de recommandations hors ligne.
 
 Les API Asset préexistantes, auparavant uniquement compatibles avec les modèles et les emails v1.0, sont désormais activées pour les ressources de messagerie v2.0.
 
-## [Site des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Site des développeurs Marketo](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nouveau et amélioré !
 

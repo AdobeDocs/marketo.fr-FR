@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Avant de pouvoir créer des messages in-app ou des notifications push, votre développeur doit configurer et initialiser le SDK Mobile App pour les plateformes Android et iOS.
 
-* [Instructions pour Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [Instructions pour iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Instructions pour Android](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Instructions pour iOS](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## Envoi du code du SDK à un développeur {#send-sdk-code-to-a-developer-1}
 

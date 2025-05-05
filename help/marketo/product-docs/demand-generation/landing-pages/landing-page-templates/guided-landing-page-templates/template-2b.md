@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 2B {#template-2b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=fr)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Modèle 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+[Modèle 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=fr)

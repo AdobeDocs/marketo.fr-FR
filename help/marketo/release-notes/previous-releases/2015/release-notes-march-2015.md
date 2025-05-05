@@ -37,7 +37,7 @@ Revenue Explorer dispose d’une nouvelle conception et du nouveau type de tabl
 
 ## Nouvel actif API REST {#new-asset-rest-apis}
 
-[Nouvel actif API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Nouvel actif API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/assets)
 
 La création et la modification d’emails, de modèles, de jetons, de fichiers et de fragments de code [ sont désormais prises en charge via l’API ](https://developer.adobe.com/marketo-apis/api/asset/) !
 

@@ -22,7 +22,7 @@ Vous devez connaître les blocs de création et la séquence recommandée pour l
 
 >[!NOTE]
 >
->Pour plus d’informations sur les API Marketo, reportez-vous à la [documentation de l’API Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+>Pour plus d’informations sur les API Marketo, reportez-vous à la [documentation de l’API Marketo](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 ## Conditions préalables {#prerequisites}
 

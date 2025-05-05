@@ -94,7 +94,7 @@ Vous pouvez arrêter la synchronisation de votre liste à tout moment.
 
 **Partage vers Adobe Analytics**
 
-* Pour les clients qui possèdent à la fois Adobe Audience Manager et Adobe Analytics, cette intégration permet le partage des audiences de Marketo vers vos suites de rapports Adobe Analytics. Toutefois, des étapes de configuration supplémentaires doivent être effectuées dans Adobe Audience Manager pour activer ce partage. Veuillez consulter la [documentation de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} pour plus d&#39;informations sur la configuration.
+* Pour les clients qui possèdent à la fois Adobe Audience Manager et Adobe Analytics, cette intégration permet le partage des audiences de Marketo vers vos suites de rapports Adobe Analytics. Toutefois, des étapes de configuration supplémentaires doivent être effectuées dans Adobe Audience Manager pour activer ce partage. Veuillez consulter la [documentation de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=fr){target="_blank"} pour plus d&#39;informations sur la configuration.
 
 * Si une liste est vide ou ne comporte aucune personne avec des valeurs ECID, le nom de la liste n’est pas transmis pour être référencé en dehors de Marketo Engage.
 

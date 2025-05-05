@@ -51,4 +51,4 @@ Utilisez [!DNL Webhooks] pour tirer parti des services web tiers pour envoyer de
 
 >[!NOTE]
 >
->Pour en savoir plus, consultez la plongée profonde [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Pour en savoir plus, consultez la plongée profonde [[!DNL Webhooks]](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

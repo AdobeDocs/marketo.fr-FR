@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Création d’un rôle d’utilisateur API uniquement {#create-an-api-only-user-role}
 
-Si vous souhaitez intégrer Marketo par le biais de l’ [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api), la bonne pratique consiste à [ attribuer à un utilisateur le rôle API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md), puis à [ créer un service personnalisé à utiliser avec l’API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Voici comment créer le rôle d’utilisateur de l’API uniquement.
+Si vous souhaitez intégrer Marketo par le biais de l’ [API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api), la bonne pratique consiste à [ attribuer à un utilisateur le rôle API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md), puis à [ créer un service personnalisé à utiliser avec l’API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Voici comment créer le rôle d’utilisateur de l’API uniquement.
 
 >[!NOTE]
 >

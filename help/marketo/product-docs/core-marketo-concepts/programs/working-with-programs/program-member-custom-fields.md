@@ -68,7 +68,7 @@ Vous pouvez exploiter ces données spécifiques au programme dans des listes dyn
 * L’objet membre du programme peut comporter jusqu’à 20 champs personnalisés. Ces champs sont disponibles pour tous les programmes.
 * Lorsque vous supprimez un membre d’un programme, si le champ personnalisé Membre du programme contient des données, celles-ci sont supprimées de ce champ.
 * Pour afficher les données, cliquez sur l’onglet Membres du programme et créez une vue personnalisée qui inclut ces champs.
-* L&#39;import et l&#39;export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} et [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} sont pris en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
+* L&#39;import et l&#39;export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} et [API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home){target="_blank"} sont pris en charge. Les exportations ne fonctionnent que sur les listes de membres de programme, et non sur les listes statiques.
 * Lorsque vous fusionnez deux personnes, les données de champ personnalisé Membre du programme du gagnant sont utilisées. Mais si le gagnant n’en a pas, la valeur du perdant sera utilisée.
 * Le type de modification n’est pas autorisé dans les champs Informations sur les membres du programme.
 * La contrainte Liste dynamique &quot;contient&quot; n’est pas prise en charge pour les champs personnalisés Membres du programme.

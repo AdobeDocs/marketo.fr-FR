@@ -100,7 +100,7 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    >[!NOTE]
    >
-   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête de description d’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
+   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête de description d’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
 
 1. Faites correspondre le nom de famille et le nom de la société en cliquant de nouveau sur **[!UICONTROL Ajouter un nouveau mappage]** et en répétant l’étape 15 deux fois, en choisissant **[!UICONTROL lastName]**, puis **[!UICONTROL companyName]**.
 

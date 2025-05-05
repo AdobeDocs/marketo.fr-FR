@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 13C {#template-13c}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=fr)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=fr)

@@ -87,7 +87,7 @@ Le contenu recommandé via les algorithmes optimisés de Marketo ContentAI gén�
 
 ## Intégration {#integration}
 
-**[Activer/Désactiver l’API Campaign](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Activer/Désactiver l’API Campaign](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Cette nouvelle API vous permet d’activer et de désactiver à distance les campagnes de déclenchement. Vous pouvez ainsi créer des modèles de programme entièrement automatisés. Créez un modèle de programme une seule fois, puis automatisez le clonage, les mises à jour des documents marketing et maintenant l’activation/la planification des campagnes intelligentes.
 

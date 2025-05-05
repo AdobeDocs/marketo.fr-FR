@@ -31,7 +31,7 @@ Trois nouveaux appels pour l’API Lead &amp; Activity ReST :
 * Obtenir des pistes par identifiant de programme
 * Obtenir les pistes supprimées
 
-Il existe également une nouvelle option pour le pistes de synchronisation, qui permet d’écrire le changement de piste de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après la version à l’adresse [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Il existe également une nouvelle option pour le pistes de synchronisation, qui permet d’écrire le changement de piste de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après la version à l’adresse [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
 **Prise en charge des objets personnalisés dans le script d’e-mail**
 
@@ -62,6 +62,6 @@ Les options de balise RTP sous Paramètres du compte ont été mises à jour afi
 1. Balise asynchrone sans CDN
 1. Balise synchrone sans CDN
 
-Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête dans votre page web après `<head>`. Toutes les balises permettent d’utiliser l’ [ API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête dans votre page web après `<head>`. Toutes les balises permettent d’utiliser l’ [ API RTP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

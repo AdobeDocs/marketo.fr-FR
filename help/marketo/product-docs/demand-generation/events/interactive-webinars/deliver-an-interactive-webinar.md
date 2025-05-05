@@ -103,7 +103,7 @@ Les discussions dans le panneau de discussion ne sont pas enregistrées. Le pann
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-En savoir plus sur [le panneau de conversation](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+En savoir plus sur [le panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Mode de préparation {#prepare-mode}
 
@@ -126,16 +126,16 @@ En savoir plus sur le mode de préparation [ dans cette vidéo ](https://www.you
 >[!NOTE]
 >
 >* Toute modification apportée aux capsules actives est immédiatement répercutée sur les participants.
->* [Panneau de conversation](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode de préparation et toute modification y est répercutée instantanément sur les participants.
+>* [Panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode de préparation et toute modification y est répercutée instantanément sur les participants.
 
 ### Accessibilité {#accessibility}
 
 Adobe s’efforce d’inclure les présentateurs et les participants présentant un handicap en améliorant l’accessibilité des webinaires interactifs. Le logiciel est continuellement amélioré pour répondre aux besoins de tous les types d’utilisateurs et pour se conformer aux normes mondiales qui incluent les personnes ayant des déficiences visuelles, auditives, mobiles ou autres.
 
-Découvrez comment Adobe Connect fournit de l’aide pour les [besoins visuels, auditifs et de mobilité](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Découvrez comment Adobe Connect fournit de l’aide pour les [besoins visuels, auditifs et de mobilité](https://helpx.adobe.com/fr/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Sous-titres codés {#closed-captions}
 
 Les sous-titres codés sont une représentation textuelle du son dans une salle Adobe Connect et aident les participants sourds ou malentendants à participer aux événements. Vous pouvez intégrer le sous-titrage en temps réel du contenu audio dans les événements et présenter ces sous-titres dans l’affichage Sous-titrage codé.
 
-Découvrez comment [activer les sous-titres fermés](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Découvrez comment [activer les sous-titres fermés](https://helpx.adobe.com/fr/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.

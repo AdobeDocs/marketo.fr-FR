@@ -35,7 +35,7 @@ Les jours de nettoyage des modèles obsolètes dans Sales Insight sont révolus.
 
 ![](assets/four-281-29.png)
 
-## [API d’extraction en bloc pour les personnes et les activités](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [API d’extraction en bloc pour les personnes et les activités](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Transférez facilement de grandes quantités de données sur les personnes et les activités de Marketo vers vos systèmes externes.
 
@@ -49,7 +49,7 @@ Marketo ABM vous permet désormais de créer jusqu’à 10 champs personnalisés
 
 Les scores du compte nommé peuvent varier sensiblement. Marketo ABM calcule désormais automatiquement un centile pour chacun de vos scores, de sorte que vous pouvez voir en un coup d’oeil où chaque compte nommé est classé parmi vos autres comptes nommés.
 
-**[API de liste de comptes ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[API de liste de comptes ABM](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Profitez des intégrations riches et robustes de partenaires ABM avec une prise en charge améliorée des API pour les listes de comptes nommés.
 

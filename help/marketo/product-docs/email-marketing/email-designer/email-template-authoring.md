@@ -16,7 +16,7 @@ Pour accélérer et améliorer le processus de conception, vous pouvez créer de
 
 >[!PREREQUISITES]
 >
->Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >

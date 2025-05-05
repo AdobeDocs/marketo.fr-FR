@@ -27,7 +27,7 @@ Si vous souhaitez intégrer Marketo via l’API ReST, vous souhaiterez créer un
 
 >[!TIP]
 >
->Consultez la documentation destinée aux développeurs pour plus d’informations sur l’ [API REST](https://developer.adobe.com/marketo-apis/). Nous avons également l’ [API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) si c’est ce dont vous avez besoin.
+>Consultez la documentation destinée aux développeurs pour plus d’informations sur l’ [API REST](https://developer.adobe.com/marketo-apis/). Nous avons également l’ [API SOAP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/soap/soap-api) si c’est ce dont vous avez besoin.
 
 ## Créer un service personnalisé {#create-custom-service}
 

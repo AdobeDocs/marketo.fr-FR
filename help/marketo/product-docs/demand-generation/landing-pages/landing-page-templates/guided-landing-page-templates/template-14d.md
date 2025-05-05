@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 14D {#template-14d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html?lang=fr)
 
 ![](assets/image2015-8-13-10-3a36-3a45.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
 
-[Modèle 14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
+[Modèle 14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html?lang=fr)
