@@ -28,7 +28,7 @@ Cliquez sur **[!UICONTROL Suivant]** pour accéder à la section Entrer les info
 
 ## Entrer les informations d’identification du service {#enter-service-credentials}
 
-Pour accéder au service en cours d’installation, Marketo doit disposer d’informations d’identification d’API valides. Ces informations d’identification doivent vous être fournies par votre fournisseur de services. Les services disposent de trois options d’authentification différentes. Vous pouvez donc voir l’une des trois invites d’identification : **Clé API** qui ne comporte qu’un seul champ d’entrée, **Authentification de base** qui nécessite un nom d’utilisateur et un mot de passe, ainsi qu’un champ appelé Realm, et **OAuth2** à l’aide de l’octroi _Informations d’identification client_ qui nécessite un _ID client ID} et un_} ID  _Client Secret_.
+Pour accéder au service en cours d’installation, Marketo doit disposer d’informations d’identification d’API valides. Ces informations d’identification doivent vous être fournies par votre fournisseur de services. Les services disposent de trois options d’authentification différentes. Vous pouvez donc voir l’une des trois invites d’identification : **Clé API** qui ne comporte qu’un seul champ d’entrée, **Authentification de base** qui nécessite un nom d’utilisateur et un mot de passe, ainsi qu’un champ appelé Realm, et **OAuth2** à l’aide de l’octroi _Informations d’identification client_ qui nécessite un _ID client ID&rbrace; et un_&rbrace; ID  _Client Secret_.
 
 Lorsque vous enregistrez vos informations d’identification, Marketo tente d’appeler le point de terminaison d’état du service pour vérifier qu’elles sont valides. Si les informations d’identification fournies sont incorrectes, une erreur s’affiche pour vous l’indiquer.
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Courriel du rapport, Performances des campagnes dans les espaces de travail {#report-email-campaign-performance-across-workspaces}
 
-Activez la création de rapports globale afin d’inclure les données de tous vos [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) Marketo dans vos rapports [ Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) et [ ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
+Activez la création de rapports globale afin d’inclure les données de tous vos [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) Marketo dans vos rapports [ Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) et [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 
 1. Accédez à la zone **Analytics** (ou **Activités marketing**).
 

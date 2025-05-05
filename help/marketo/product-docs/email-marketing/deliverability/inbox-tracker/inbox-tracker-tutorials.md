@@ -50,7 +50,7 @@ Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleu
 
 * [Analytics Tracker](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
-* [ {Profile Monitor](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
+* [ &lbrace;Profile Monitor](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 
 * [Spam Trap Monitor](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
 

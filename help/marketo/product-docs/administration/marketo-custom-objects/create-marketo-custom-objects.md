@@ -41,7 +41,7 @@ Cet exemple présente un objet personnalisé Car, à utiliser dans une structure
 
    >[!NOTE]
    >
-   >L’onglet [!UICONTROL  Objets personnalisés Marketo] affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d’enregistrements et de champs lors de la mise à jour la plus récente.
+   >L’onglet [!UICONTROL &#x200B; Objets personnalisés Marketo] affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d’enregistrements et de champs lors de la mise à jour la plus récente.
 
 1. Saisissez un [!UICONTROL Nom d’affichage]. Les [!UICONTROL Nom de l&#39;API] et [!UICONTROL Nom du pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL Description] (facultatif).
 

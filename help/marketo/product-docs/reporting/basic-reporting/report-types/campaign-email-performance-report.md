@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Pour afficher les statistiques de performances de vos emails regroupées par [campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), exécutez un rapport Performances des emails de campagne.
 
-1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **type de rapport Performances de l’email de campagne** [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **type de rapport Performances de l’email de campagne** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
 

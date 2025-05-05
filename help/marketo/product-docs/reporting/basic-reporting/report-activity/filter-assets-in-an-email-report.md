@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrage d’Assets dans un rapport par courriel {#filter-assets-in-an-email-report}
 
-Concentrez-vous sur votre rapport [Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [ ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les emails de vos programmes (&#39;ressources locales&#39;), sur ceux de Design Studio (&#39;ressources globales&#39;) ou sur ceux qui ont été archivés.
+Concentrez-vous sur votre rapport [Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les emails de vos programmes (&#39;ressources locales&#39;), sur ceux de Design Studio (&#39;ressources globales&#39;) ou sur ceux qui ont été archivés.
 
 >[!NOTE]
 >

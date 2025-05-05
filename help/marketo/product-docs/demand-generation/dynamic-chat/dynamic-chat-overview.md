@@ -20,7 +20,7 @@ Dynamic Chat vous permet d’exploiter une interface conviviale pour cibler à l
 
 ## Intégrations {#integrations}
 
-Un composant clé de Dynamic Chat est sa capacité à interagir de manière native avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Selon la taille de votre base de données Marketo, la synchronisation initiale [unique](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}} peut prendre jusqu’à 24 heures.
+Un composant clé de Dynamic Chat est sa capacité à interagir de manière native avec votre abonnement Marketo. Pour tirer parti de la fonctionnalité complète de cette intégration, vous devez d’abord lancer la synchronisation des données. Selon la taille de votre base de données Marketo, la synchronisation initiale [unique](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} peut prendre jusqu’à 24 heures.
 
 Les éléments suivants sont synchronisés :
 

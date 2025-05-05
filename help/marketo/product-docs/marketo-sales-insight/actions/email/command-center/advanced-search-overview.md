@@ -83,13 +83,13 @@ Vous avez le choix entre trois statuts d&#39;un email. Les options de type/activ
 
 ![](assets/advanced-search-overview-9.png)
 
-_**État : Envoyé**_
+_&#x200B;**État : Envoyé**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtre par activité d’email envoyée. Vous pouvez choisir des vues/aucun affichage, des clics/aucun clic et/ou des réponses/aucune réponse.
 
-_**État : En attente**_
+_&#x200B;**État : En attente**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtre par tous les emails en attente.
  </tr>
 </table>
 
-_**État : non livré**_
+_&#x200B;**État : non livré**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

@@ -37,7 +37,7 @@ Les fonctionnalités suivantes sont incluses dans la version de février 2014. V
 
 [Exportez des mesures d’e-mail vers Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), y compris les données de variante de test AB.
 
-## [!UICONTROL Score d’engagement] dans le rapport [!UICONTROL  Performances du flux d’engagement] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Score d’engagement] dans le rapport [!UICONTROL &#x200B; Performances du flux d’engagement] {#engagement-score-in-engagement-stream-performance-report}
 
 Nous avons ajouté la note d’engagement au rapport [[!UICONTROL Performances du flux d’engagement]](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour vous aider à voir l’efficacité du contenu de votre programme d’engagement.
 

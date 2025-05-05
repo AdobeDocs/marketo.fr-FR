@@ -35,7 +35,7 @@ Vous devrez configurer des autorisations pour que vos utilisateurs puissent util
 
    ![](assets/permissions-4.png)
 
-1. Pour sélectionner toutes les autorisations _1}, cochez simplement la case **Accéder à la gestion de compte Target**._
+1. Pour sélectionner toutes les autorisations _1&rbrace;, cochez simplement la case **Accéder à la gestion de compte Target**._
 
    ![](assets/permissions-5.png)
 

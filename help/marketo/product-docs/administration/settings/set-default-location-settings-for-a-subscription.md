@@ -53,7 +53,7 @@ Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, 
 
 Si vous modifiez les paramètres régionaux par défaut pour vos utilisateurs, vous pouvez également modifier les paramètres de format de devise.
 
-1. Cliquez sur **[!UICONTROL Modifier]** dans [!UICONTROL  Paramètres de devise d’abonnement ].
+1. Cliquez sur **[!UICONTROL Modifier]** dans [!UICONTROL &#x200B; Paramètres de devise d’abonnement &#x200B;].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 

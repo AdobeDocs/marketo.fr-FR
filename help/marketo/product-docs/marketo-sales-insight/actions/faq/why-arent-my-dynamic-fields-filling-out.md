@@ -22,7 +22,7 @@ Il existe trois types de champs dynamiques dans les actions d’aperçu des vent
 
 Champs Salesforce : par exemple `{{sfdc_account_name}}`
 
-* Assurez-vous qu’il est correctement connecté aux actions d’aperçu des ventes. Accédez à la page [Paramètres](https://toutapp.com/login{target="_blank"} et cliquez sur **Gérer** en regard de votre CRM.
+* Assurez-vous qu’il est correctement connecté aux actions d’aperçu des ventes. Accédez à la page [Paramètres] (https://toutapp.com/login{target="_blank"} et cliquez sur **Gérer** en regard de votre CRM.
 
 **Dépannage des champs de base et personnalisés**
 

@@ -77,7 +77,7 @@ En général, nous essayons d&#39;utiliser le bon sens pour enregistrer ces stat
 
 * **Règle 2** : si l’enregistrement de courrier électronique affiche *Ayant ouvert*, il est compté comme *Ayant été diffusé*.
 
-* **Règle 3** : si l’enregistrement de courrier électronique affiche _{Clicked Email_ ou _Unsubscribed_, il est comptabilisé comme _Delivered_ et _Ayant ouvert_.
+* **Règle 3** : si l’enregistrement de courrier électronique affiche _&lbrace;Clicked Email_ ou _Unsubscribed_, il est comptabilisé comme _Delivered_ et _Ayant ouvert_.
 
 * **Règle 4** : si l’email est _Ayant ouvert_, les retours sont ignorés. Si l&#39;email n&#39;a pas été ouvert, _Hard Bounce_ a la priorité sur _Soft Bounce_ et _Delivered_.
 

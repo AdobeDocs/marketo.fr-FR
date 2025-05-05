@@ -34,7 +34,7 @@ Utilisez la section « Sur cette page » sur la droite pour accéder directement
 
 _Si l’utilisateur doit être migré_ - L’adresse e-mail doit être mise à jour dans Marketo Engage pour se conformer à la politique de sécurité d’Adobe et revérifiée. L’administrateur Marketo pour réexécuter ensuite la migration des utilisateurs pour cet utilisateur à partir de la console de migration.
 
-_Si l’utilisateur n’a **besoin**d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
+_Si l’utilisateur n’a **besoin**&#x200B;d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
 
 ### L&#39;utilisateur n&#39;est pas dans le répertoire {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Si l’utilisateur n’a **besoin**d’être migré_ - L’administrateur Marke
 
 _Si l’utilisateur doit être migré_ - L’utilisateur doit être ajouté à Active Directory avec les autorisations appropriées par un administrateur système. L’administrateur Marketo Engage pour réexécuter ensuite la migration des utilisateurs pour cet utilisateur à partir de la console de migration.
 
-_Si l’utilisateur n’a **besoin**d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
+_Si l’utilisateur n’a **besoin**&#x200B;d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
 
 ### Utilisateur inactif {#inactive-user}
 
@@ -54,7 +54,7 @@ _Si l’utilisateur n’a **besoin**d’être migré_ - L’administrateur Marke
 
 _Si l’utilisateur doit être migré_ - Le statut de l’utilisateur et les autorisations appropriées doivent être restaurés par un administrateur système. L’administrateur Marketo Engage pour réexécuter ensuite la migration des utilisateurs pour cet utilisateur à partir de la console de migration.
 
-_Si l’utilisateur n’a **besoin**d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
+_Si l’utilisateur n’a **besoin**&#x200B;d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
 
 ### Domaine non valide {#invalid-domain}
 
@@ -66,7 +66,7 @@ _Si l’utilisateur doit faire l’objet d’une migration_ (et si l’applicati
 
 _Si l’utilisateur doit faire l’objet d’une migration_ (et si l’application du domaine est activée dans une autre organisation), un administrateur système de l’organisation dans laquelle le domaine a été demandé doit ajouter l’adresse électronique de l’utilisateur à la liste des exceptions. L’administrateur Marketo Engage pour réexécuter ensuite la migration des utilisateurs pour cet utilisateur à partir de la console de migration.
 
-_Si l’utilisateur n’a **besoin**d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
+_Si l’utilisateur n’a **besoin**&#x200B;d’être migré_ - L’administrateur Marketo Engage peut ignorer l’utilisateur dans la console de migration. Le bouton « Migration terminée » s’affiche lorsque la migration ou l’omission prend en compte tous les utilisateurs. Cliquez sur le bouton pour terminer le processus de migration des utilisateurs.
 
 ### Échec de la création de l’utilisateur {#user-creation-failed}
 

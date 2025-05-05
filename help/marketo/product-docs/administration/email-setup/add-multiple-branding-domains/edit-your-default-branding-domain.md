@@ -27,7 +27,7 @@ La modification de votre domaine de branding par défaut est la première étape
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Dans la table [!UICONTROL  Domaines de marque ], sélectionnez le domaine générique et cliquez sur Modifier pour le remplacer par le domaine de marque de votre entreprise.
+1. Dans la table [!UICONTROL &#x200B; Domaines de marque &#x200B;], sélectionnez le domaine générique et cliquez sur Modifier pour le remplacer par le domaine de marque de votre entreprise.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 

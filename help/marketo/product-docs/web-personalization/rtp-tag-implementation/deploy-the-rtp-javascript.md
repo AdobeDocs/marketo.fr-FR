@@ -15,8 +15,7 @@ ht-degree: 1%
 
 Pour générer et configurer votre balise RTP, suivez les instructions d’installation ci-dessous.
 
-## Générez un tag
- {#generate-tag}
+## Générez un tag {#generate-tag}
 
 1. Connectez-vous à votre compte RTP. Accédez à **Paramètres du compte**.
 

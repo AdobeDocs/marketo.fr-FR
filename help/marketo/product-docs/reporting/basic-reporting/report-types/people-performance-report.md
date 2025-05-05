@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Utilisez un rapport Performance des personnes pour mesurer la croissance de la base de données au fil du temps. Vous pouvez voir le nombre de personnes que vous avez ajoutées, et à quel moment. En savoir plus sur les personnes et évaluer vos programmes. Regroupez les résultats par attribut de personne ou de société ou par [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **Type de rapport Performances des personnes** [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **Type de rapport Performances des personnes** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
 

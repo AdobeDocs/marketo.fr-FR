@@ -21,7 +21,7 @@ Parfois, vous devez modifier un champ qui n’est pas encore approuvé.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Dans l’onglet [!UICONTROL  Fields], cliquez sur **[!UICONTROL Field Actions]** et **[!UICONTROL Edit Field]**.
+1. Dans l’onglet [!UICONTROL &#x200B; Fields], cliquez sur **[!UICONTROL Field Actions]** et **[!UICONTROL Edit Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 

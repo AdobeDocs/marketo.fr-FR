@@ -17,9 +17,9 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
 1. Connectez-vous à votre compte Gestionnaire de balises Google.
 
-1. Ajoutez une nouvelle balise > Configurations de balises > Balise d’HTML personnalisée**.** Appelez-le **RTP**.
+1. Ajoutez une nouvelle balise > Configurations de balises > Balise d’HTML personnalisée&#x200B;**.** Appelez-le **RTP**.
 
-1. Connectez-vous à votre compte RTP**.**
+1. Connectez-vous à votre compte RTP&#x200B;**.**
 
 1. Accédez à **Paramètres du compte**.
 

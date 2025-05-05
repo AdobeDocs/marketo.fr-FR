@@ -52,9 +52,9 @@ Le moteur de recommandation de contenu utilise des algorithmes d’analyse préd
    >* L’URL d’affichage doit être le chemin du domaine.
    >* N’incluez pas https:// ou https://
    >* Utiliser &#42; pour les caractères génériques
-   * Utiliser un point-virgule comme séparateur
-   * Exemple : /contact_us&#42;; &#42;action=logout&#42;
-   * Ce champ respecte la casse
+   >* Utiliser un point-virgule comme séparateur
+   >* Exemple : /contact_us&#42;; &#42;action=logout&#42;
+   >* Ce champ respecte la casse
 
 ## Observations sur la barre de recommandation {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ Le moteur de recommandation de contenu utilise des algorithmes d’analyse préd
 
 >[!MORELIKETHIS]
 >
-[Activer le contenu prédictif pour le contenu multimédia Web enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Activer le contenu prédictif pour le contenu multimédia Web enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

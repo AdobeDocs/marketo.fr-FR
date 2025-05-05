@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Clonage d’un rapport pour regrouper des rapports {#clone-a-report-to-group-reports}
 
-Tout rapport dans **Mes rapports **n’est visible que par vous. Que se passe-t-il si vous souhaitez rendre le rapport accessible à tous les autres ? Voici comment vous pouvez faire cela :
+Tout rapport dans **Mes rapports &#x200B;** n’est visible que par vous. Que se passe-t-il si vous souhaitez rendre le rapport accessible à tous les autres ? Voici comment vous pouvez faire cela :
 
 1. Dans la zone **Analytics**, cliquez sur le [rapport enregistré](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) souhaité.
 

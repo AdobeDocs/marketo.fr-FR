@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vérifiez si vous déplacez des personnes dans le processus en vérifiant combien d’entre elles apparaissent dans chaque valeur _État de la personne_ chaque mois.
 
-1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **type de rapport Personnes par état** [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **type de rapport Personnes par état** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) et cliquez sur l’onglet **Rapport** .
 

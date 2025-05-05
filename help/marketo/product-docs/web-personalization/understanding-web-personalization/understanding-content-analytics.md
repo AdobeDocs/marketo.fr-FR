@@ -86,7 +86,7 @@ Les analyses de contenu supplémentaires comprennent :
 
 * **Vues** : vues de cet élément de contenu pour la période sélectionnée
 * **Conversions directes** : visiteurs et visiteuses web qui ont consulté le contenu et rempli un formulaire au cours de la même visite.
-* **Taux de conversion****:** Taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
+* **Taux de conversion**&#x200B;**:** Taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
 
 **Tendances**
 

@@ -19,13 +19,13 @@ Vous pouvez également découvrir comment améliorer l&#39;utilisation de la sec
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## [!UICONTROL  Problèmes d’optimisation des principales pages] {#top-page-optimization-issues}
+## [!UICONTROL &#x200B; Problèmes d’optimisation des principales pages] {#top-page-optimization-issues}
 
 Vous découvrirez ainsi cinq méthodes à fort impact pour commencer immédiatement à optimiser votre site. Cliquez simplement sur l’un des liens pour afficher le [zoom avant sur les détails de la page](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
->Vous pouvez cliquer sur [!UICONTROL  Principaux problèmes d’optimisation de la page ] pour afficher une liste complète.
+>Vous pouvez cliquer sur [!UICONTROL &#x200B; Principaux problèmes d’optimisation de la page &#x200B;] pour afficher une liste complète.
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 

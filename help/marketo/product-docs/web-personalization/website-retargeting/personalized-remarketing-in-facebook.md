@@ -18,7 +18,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >[!PREREQUISITES]
 >
 >* Terminez la configuration [Reciblage avec les données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Consultez la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
+>* Consultez la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
 
 ## Création d’une audience dans Facebook {#creating-an-audience-in-facebook}
 

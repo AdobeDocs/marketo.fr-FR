@@ -15,8 +15,7 @@ ht-degree: 1%
 
 Pour utiliser le contenu prédictif, vous devez générer et configurer la balise RTP (Web Personalization).
 
-## Générez un tag
- {#generate-tag}
+## Générez un tag {#generate-tag}
 
 1. Connectez-vous à votre compte de contenu prédictif. Accédez à **Paramètres du compte**.
 

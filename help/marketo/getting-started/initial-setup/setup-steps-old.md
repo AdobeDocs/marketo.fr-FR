@@ -227,6 +227,7 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 `3)` Liste autorisée Marketo.
 
     * Si nous utilisons des adresses IP dans notre Liste autorisée de courriel, ajoutez les adresses IP répertoriées ci-dessous :
+
     199.15.212.0/22
     
     192.28.144.0/20
@@ -241,7 +242,7 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
     
     103.237.104.0/22
     
-    9}4.htm
+    9&rbrace;4.htm
 
 >[!NOTE]
 >

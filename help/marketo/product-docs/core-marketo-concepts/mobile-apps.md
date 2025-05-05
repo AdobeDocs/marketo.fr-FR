@@ -12,4 +12,4 @@ ht-degree: 10%
 
 # Applications mobiles {#mobile-apps}
 
-** ![Enregistrement d’événement](assets/mobile-checkin-icon.png)Archivage d’événement** [Clients Archivage d’événement Archivage d’événements dans vos événements à partir d’une tablette.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Moments Marketo](assets/moments-icon.png)Moments Marketo** [Moments Marketo Découvrez ce qui est important, quand il est important.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**&#x200B; ![Enregistrement d’événement](assets/mobile-checkin-icon.png)Archivage d’événement** [Clients Archivage d’événement Archivage d’événements dans vos événements à partir d’une tablette.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **&#x200B; ![Moments Marketo](assets/moments-icon.png)Moments Marketo** [Moments Marketo Découvrez ce qui est important, quand il est important.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
