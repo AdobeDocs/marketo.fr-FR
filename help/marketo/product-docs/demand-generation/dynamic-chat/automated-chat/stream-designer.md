@@ -3,9 +3,9 @@ description: Stream Designer - Documents Marketo - Documentation Du Produit
 title: Designer de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1199'
 ht-degree: 2%
 
 ---
@@ -141,15 +141,15 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
 
    ![](assets/stream-designer-10.png)
 
-1. Dans la colonne de droite, cliquez sur **[!UICONTROL Enregistrer]**.
+1. Choisissez votre option de routage et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Puisqu’il s’agit d’un objectif, faites glisser la carte [!UICONTROL Objectif] sous le planificateur de rendez-vous.
+1. Comme il s’agit d’un objectif, faites glisser la carte _[!UICONTROL Objectif]_ sous la réservation de la réunion.
 
    ![](assets/stream-designer-12.png)
 
-1. Nommez votre objectif (ou choisissez-en un existant) et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Nommez votre objectif (ou choisissez-en un existant) et cliquez sur **[!UICONTROL Enregistrer]**. Attribuer un score de conversation est facultatif.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
    >
    >Vous pouvez ajouter d’autres réponses en cliquant sur **[!UICONTROL Ajouter une réponse]**.
 
-1. Sous la réponse « Oui », faites glisser sur la carte Capture d’informations pour collecter l’e-mail du visiteur.
+1. Sous la réponse « Oui », faites glisser sur la carte _Capture d’informations_ afin de collecter l’e-mail du visiteur.
 
    ![](assets/stream-designer-16.png)
 
-1. Cliquez sur la liste déroulante **[!UICONTROL Type]** et sélectionnez **[!UICONTROL E-mail]**.
+1. Cliquez sur la liste déroulante et sélectionnez **[!UICONTROL Adresse e-mail]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Saisissez un message de bot conversationnel et un espace réservé. Assurez-vous que l’attribut est mappé au champ approprié dans Marketo Engage et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un message de bot conversationnel et un espace réservé. S’il existe déjà une valeur pour cet attribut dans votre base de données, choisissez si vous souhaitez l’ignorer ou si vous souhaitez que ces données le remplacent. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Type</strong></td>
-     <td>Type d’informations à capturer : téléphone, texte, e-mail.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Message du chatbot</strong></td>
-     <td>Message que le visiteur voit et qui l’invite à fournir les informations.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Espace réservé</strong></td>
-     <td>Exemple de texte aidant le visiteur à voir ce qu’il doit saisir.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Mapper la réponse à l’attribut</strong></td>
-     <td>Permet de synchroniser la réponse du visiteur avec le champ correspondant dans son enregistrement Personne de votre abonnement Marketo Engage.</td>
-    </tr>
-   </table>
-
-1. Puisque la collecte de leur e-mail est un objectif, faites glisser la vignette [!UICONTROL Objectif] sous Capture d’informations.
+1. Puisque la collecte de leur e-mail est un objectif, faites glisser la vignette _[!UICONTROL Objectif]_ sous Capture d’informations.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
 
    ![](assets/stream-designer-22.png)
 
-1. Sélectionnez le bouton (bascule) **[!UICONTROL Aperçu]** pour prévisualiser votre boîte de dialogue.
-
-   ![](assets/stream-designer-23.png)
-
 1. Lorsque vous êtes prêt à activer votre boîte de dialogue, cliquez sur **[!UICONTROL Publier]**.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
