@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9261'
 ht-degree: 6%
 
 ---
@@ -964,7 +964,6 @@ ht-degree: 6%
             + [Ajouter un fragment de code à une page de destination](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Ajout de CNAME de page de destination supplémentaires](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Ajouter SSL à vos pages de destination](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-            + [Ajouter un document temporaire SSL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [Ajout de texte et de jetons à une page de destination](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Activation des URL personnalisées pour une page de destination](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Activation des URL personnalisées pour votre compte](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -980,7 +979,7 @@ ht-degree: 6%
             + [Utiliser une liste Marketo ou une liste dynamique comme segment d’audience LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Utilisation de filtres et de triggers de formulaires de génération de leads LinkedIn dans une campagne dynamique](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + Marketing par e-mail {#email-marketing}
-      + Stratégie et définition de la  {#deliverability}
+      + Délivrabilité {#deliverability}
          + [Désabonnement durable](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Power Pack sur la délivrabilité des e-mails : Importer une liste de contrôle](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Erreurs hard et soft dans les e-mails](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
