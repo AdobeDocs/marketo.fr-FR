@@ -2,26 +2,26 @@
 title: Utiliser Experience Manager Assets
 description: Découvrez comment utiliser des ressources d’image d’un référentiel AEM Assets connecté lors de la création de contenu dans Adobe Marketo Engage.
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
 source-wordcount: '791'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
-# Utilisation de ressources Experience Manager {#work-with-experience-manager-assets}
+# Utilisation des ressources Experience Manager {#work-with-experience-manager-assets}
 
 Connectez votre compte _Adobe Experience Manager Assets as a Cloud Service_ à votre instance Adobe Marketo Engage afin de pouvoir exploiter votre référentiel de ressources AEM dans Marketo Engage Email Designer.
 
 >[!NOTE]
 >
->Actuellement, seules les ressources d’image de _Adobe Experience Manager Assets_ sont prises en charge dans Marketo Engage. Les modifications apportées aux ressources doivent être effectuées à partir du référentiel central d’Adobe Experience Manager Assets. [En savoir plus](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Actuellement, seules les ressources d’image de _Adobe Experience Manager Assets_ sont prises en charge dans Marketo Engage. Les modifications apportées aux ressources doivent être effectuées à partir du référentiel central d’Adobe Experience Manager Assets. [En savoir plus](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-## Accéder à l’accélérateur de contenu de l’assistant IA {#access-the-ai-assistant-content-accelerator}
+## Lien vers vos services cloud AEM {#link-to-your-aem-cloud-services}
 
-Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier les Cloud Service AEM à Adobe Marketo Engage.
+Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier AEM Cloud Services à Adobe Marketo Engage.
 
-+++Lier les Cloud Service et Marketo Engage AEM
++++Lier AEM Cloud Services et Marketo Engage
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier les C
 
    ![Sélectionnez Adobe Experience Manager dans la section Admin](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
 
-1. Cliquez sur **Modifier** en regard de _Cloud Service Adobe Experience Manager_.
+1. Cliquez sur **Modifier** en regard de _Services cloud Adobe Experience Manager_.
 
    ![Cliquez sur MODIFIER](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
@@ -41,7 +41,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier les C
 
    >[!NOTE]
    >
-   >Seuls les référentiels qui ont été associés à la même organisation IMS que votre abonnement de Marketo Engage sont répertoriés.
+   >Seuls les référentiels qui ont été associés dans la même organisation IMS que votre abonnement Marketo Engage sont répertoriés.
 
 1. Vous devez ajouter un [certificat d’identification de service](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) pour configurer le référentiel. Cliquez sur le bouton **+ Ajouter un certificat**.
 
@@ -55,13 +55,13 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier les C
 
    ![Le certificat a été ajouté](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
 
-Désormais, toutes les images de la bibliothèque de gestion des ressources numériques de ce référentiel sont accessibles à partir du Designer d’e-mail du Marketo Engage.
+Désormais, toutes les images de la bibliothèque de gestion des ressources numériques de ce référentiel sont accessibles à partir du Designer de messagerie Marketo Engage.
 
 +++
 
 ## Utilisation des ressources AEM {#working-with-aem-assets}
 
-Lorsque vous utilisez ces ressources numériques, les dernières modifications apportées à _Assets as a Cloud Service_ se propagent automatiquement aux campagnes par e-mail actives par le biais de références liées. Si des images sont supprimées dans _Adobe Experience Manager Assets as a Cloud Service_, elles apparaissent avec une référence rompue dans vos e-mails. Lorsque des ressources actuellement utilisées dans Marketo Engage sont modifiées ou supprimées, les auteurs d’e-mails sont avertis des modifications de l’image. Toutes les modifications apportées aux ressources doivent être effectuées dans le référentiel central d’Adobe Experience Manager Assets.
+Lorsque vous utilisez ces ressources numériques, les dernières modifications apportées à _Assets as a Cloud Service_ se propagent automatiquement aux campagnes par e-mail actives par le biais de références liées. Si des images sont supprimées dans _Adobe Experience Manager Assets as a Cloud Service_, les images s’affichent avec une référence rompue dans vos e-mails. Lorsque des ressources actuellement utilisées dans Marketo Engage sont modifiées ou supprimées, les auteurs d’e-mails sont avertis des modifications de l’image. Toutes les modifications apportées aux ressources doivent être effectuées dans le référentiel central d’Adobe Experience Manager Assets.
 
 ### Utiliser AEM Assets comme source d’images {#use-aem-assets-as-the-image-source}
 
@@ -79,9 +79,9 @@ Si votre environnement comporte une ou plusieurs connexions au référentiel de 
 
 >[!IMPORTANT]
 >
->Un administrateur doit ajouter des utilisateurs qui doivent accéder aux ressources aux profils de produit Utilisateurs consommateurs Assets et/ou Utilisateurs Assets . [En savoir plus](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Un administrateur doit ajouter des utilisateurs qui doivent accéder aux ressources aux profils de produit Utilisateurs consommateurs Assets et/ou Utilisateurs Assets . [En savoir plus](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-Dans l’éditeur de contenu visuel, cliquez sur l’icône Sélecteur de ressources _Experience Manager_ dans la barre latérale gauche. Le panneau Outils devient alors une liste des ressources disponibles dans le référentiel sélectionné.
+Dans l’éditeur de contenu visuel, cliquez sur l’icône _Sélecteur de ressources Experience Manager_ dans la barre latérale gauche. Le panneau Outils devient alors une liste des ressources disponibles dans le référentiel sélectionné.
 
 ![Cliquez sur l’icône du sélecteur Assets pour accéder aux ressources d’image](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
