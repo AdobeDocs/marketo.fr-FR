@@ -2,7 +2,8 @@
 description: Notes De Mise À Jour - Octobre 2024 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Octobre 2024
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 3%
@@ -13,11 +14,11 @@ ht-degree: 3%
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
-Les notes de mise à jour dédiées au Adobe Dynamic Chat [sont disponibles ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Les notes de mise à jour spécifiques à Adobe Dynamic Chat [sont disponibles ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, veuillez contacter votre représentant de Marketo Engage.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
@@ -44,7 +45,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <tr> 
    <td><strong>Nombre de personnes définies pour affecter la liste dynamique</strong> : déterminez le nombre de personnes affectées lors de la modification des règles de qualification d’une campagne dynamique.</td> 
    <td>Expédié</td>
-   <td>s/o</td>
+   <td>S.O.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -53,9 +54,9 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   </tr>
    <tr> 
-   <td><strong>Bouton Mon compte dans le rail de navigation</strong> : pour les personnes qui ont migré vers un système Identity Management d’Adobe, un nouveau bouton « Mon compte » dans le rail de navigation de gauche permet de configurer votre fuseau horaire et d’accéder aux détails de l’abonnement.</td> 
+   <td><strong>Bouton Mon compte dans le rail de navigation</strong> : pour les personnes qui ont migré vers le système Adobe Identity Management, un nouveau bouton « Mon compte » dans le rail de navigation de gauche permet de configurer votre fuseau horaire et d’accéder aux détails de l’abonnement.</td> 
    <td>Expédié</td>
-   <td>s/o</td>
+   <td>S.O.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -91,13 +92,13 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 * **Mise à jour de l’API d’extraction en bloc** : nous avons corrigé un problème dans l’API d’extraction en bloc impliquant l’option columnHeaderNames , qui vous permet de spécifier des noms d’en-tête de colonne personnalisés dans le fichier exporté. Auparavant, les noms d’en-tête de colonne contenant des caractères non-ASCII pouvaient être corrompus.
 
-* **Obsolescence du paramètre access_token de l’API Rest** : le paramètre de requête « access_token » utilisé pour authentifier les appels API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 30 juin 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization » [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Obsolescence du paramètre access_token de l’API Rest** : le paramètre de requête « access_token » utilisé pour authentifier les appels API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization » [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 
-* **Obsolescence du code QR** : le 4 octobre 2024, la fonctionnalité de code QR utilisée dans les notifications push et les ressources de messagerie in-app sera abandonnée. Cela inclut l’utilisation de codes QR pour un nouvel appareil de test et la création de nouvelles ressources avec des codes QR. L’obsolescence des fonctionnalités les moins utilisées nous permet de réaffecter leurs ressources à la maintenance globale du Marketo Engage.
+* **Obsolescence du code QR** : le 4 octobre 2024, la fonctionnalité de code QR utilisée dans les notifications push et les ressources de messagerie in-app sera abandonnée. Cela inclut l’utilisation de codes QR pour un nouvel appareil de test et la création de nouvelles ressources avec des codes QR. L’obsolescence des fonctionnalités les moins utilisées nous permet de réaffecter leurs ressources à la maintenance globale de Marketo Engage.
 
 * **Modifications Munchkin**
 
-   * **Nouvelle version** : le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à être déployé sur les instances de Marketo Engage dont le paramètre « Munchkin Beta » est activé dans **Admin** > **Coffre au trésor**. Son déploiement sur toutes les autres instances est prévu pour le 29 octobre. Cette version met à jour la création du cookie Munchkin. Aucune modification n’a été apportée aux fonctionnalités.
+   * **Nouvelle version** : le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à être déployé sur les instances Marketo Engage dont le paramètre « Munchkin Beta » est activé dans **Admin** > **Coffre au trésor**. Son déploiement sur toutes les autres instances est prévu pour le 29 octobre. Cette version met à jour la création du cookie Munchkin. Aucune modification n’a été apportée aux fonctionnalités.
 
    * **Caractères de l’URL supprimés** : les activités « Page web de visites » et « Lien de clics » créées par Munchkin JS suppriment désormais les caractères de contrôle non codés par une URL de tous les champs d’URL. Cette modification a pour but d’empêcher les erreurs liées à la propagation de ces types de caractères dans des systèmes qui ne les prennent pas en charge et qui n’ont pas une utilisation valide dans Marketo Engage.
