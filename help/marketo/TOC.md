@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9259'
 ht-degree: 6%
 
 ---
@@ -526,7 +526,6 @@ ht-degree: 6%
          + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modèles et perspectives](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Filtres prédictifs](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-         + [Comprendre le suivi des objectifs et les enregistrements prévus](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + Synchronisation CRM {#crm-sync}
       + Synchronisation Microsoft Dynamics {#microsoft-dynamics}
          + [Comprendre la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
