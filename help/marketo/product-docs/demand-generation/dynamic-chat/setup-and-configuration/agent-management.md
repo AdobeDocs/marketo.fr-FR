@@ -1,42 +1,42 @@
 ---
-description: Gestion des agents - Documents Marketo - Documentation du produit
-title: Gestion des agents
+description: Gestion de l’agent - Documents Marketo - Documentation du produit
+title: Gestion de l’agent
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
 
-# Gestion des agents {#agent-management}
+# Gestion de l’agent {#agent-management}
 
-Dans Gestion des agents, affichez une liste des agents dans votre instance de Dynamic Chat, gérez les équipes et définissez vos règles de secours.
+Dans Gestion des agents, affichez une liste d’agents dans votre instance Dynamic Chat, gérez les équipes et définissez vos règles de secours.
 
 ![](assets/agent-management-1.png)
 
 ## Agents {#agents}
 
-Cet onglet répertorie tous les agents de votre instance de Dynamic Chat et inclut des informations telles que leur nom, adresse électronique, état du chat en direct, etc.
+Cet onglet répertorie tous les agents de votre instance Dynamic Chat et inclut des informations telles que leur nom, leur adresse e-mail, le statut du chat en direct, etc.
 
-![](assets/agent-management-2.png)
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
->Vous ne voyez pas un agent que vous _venez d&#39;ajouter_ ? Il peut s’écouler jusqu’à deux heures avant qu’ils n’apparaissent ici après leur ajout dans la console d’administration Adobe.
+>Vous ne voyez pas un agent que vous _venez_ d&#39;ajouter ? Cela peut prendre jusqu’à deux heures pour qu’ils apparaissent ici après les avoir ajoutés dans l’Admin Console d’Adobe.
 
 ## Équipes {#teams}
 
-Les administrateurs peuvent créer des équipes d’agents pour faciliter le routage vers des groupes spécifiques d’agents de vente.
+Les administrateurs peuvent créer des équipes d’agents pour faciliter le routage vers des groupes spécifiques d’agents commerciaux.
 
 >[!AVAILABILITY]
 >
->L’accès aux équipes nécessite un abonnement Dynamic Chat. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>L’accès à Teams nécessite un abonnement à Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 ![](assets/agent-management-3.png)
 
-### Créer une équipe {#create-a-team}
+### Création d’une équipe {#create-a-team}
 
 1. Cliquez sur **+ Créer une équipe**.
 
@@ -46,7 +46,7 @@ Les administrateurs peuvent créer des équipes d’agents pour faciliter le rou
 
    ![](assets/agent-management-5.png)
 
-1. Cliquez sur la liste déroulante **Ajouter des agents** et sélectionnez les agents de votre choix.
+1. Cliquez sur le menu déroulant **Ajouter des agents** et sélectionnez les agents souhaités.
 
    ![](assets/agent-management-6.png)
 
@@ -56,22 +56,24 @@ Les administrateurs peuvent créer des équipes d’agents pour faciliter le rou
 
 ## Règles de secours {#fallback-rules}
 
-### Secours de la réunion {#meeting-fallback}
+### Réunion de secours {#meeting-fallback}
 
-Sélectionnez un message standard (système) ou créez un message personnalisé que les visiteurs verront lorsqu’aucune réservation de réunion n’est disponible.
+Sélectionnez un message standard (système) ou écrivez-en un personnalisé pour que les visiteurs puissent le voir lorsque la réservation de réunion n’est pas disponible.
 
 ![](assets/agent-management-8.png)
 
-### Secours de la conversation en direct {#live-chat-fallback}
+### Secours de la discussion en direct {#live-chat-fallback}
 
-Sélectionnez un message standard (système) ou créez-en un personnalisé pour que les visiteurs puissent voir quand Live Chat n’est pas disponible.
+Sélectionnez un message standard (système) ou écrivez-en un personnalisé pour que les visiteurs puissent le voir lorsque la discussion en direct n’est pas disponible.
 
 ![](assets/agent-management-9.png)
 
 >[!NOTE]
 >
->Si vous cochez la case **Inclure l’option de réservation de réunions** , le visiteur du chat aura la possibilité de réserver une réunion lorsqu’aucun agent n’est disponible pour discuter en direct.
+>* Si vous cochez la case _Inclure l’option de réservation de réunion_, le visiteur du chat aura la possibilité de réserver une réunion lorsqu’aucun agent n’est disponible pour le chat en direct.
+>
+>* **Pour toutes les règles/équipes personnalisées en tant que carte de conversation en direct** : lors de la recherche d’agents, s’ils ne sont pas disponibles ou ne peuvent pas se connecter, il faudra retourner à la table ronde pour essayer de trouver les « agents disponibles » (tous ceux qui sont disponibles à ce moment, quelle que soit la logique/règle de routage placée dans le flux).
 
 >[!TIP]
 >
->Lors de la création d’un message personnalisé, vous pouvez mettre en forme la police, utiliser des liens et même insérer des émoticônes ! `:)`
+>Lors de la création d’un message personnalisé, vous pouvez appliquer un style à la police, utiliser des liens et même insérer des émoticônes ! `:)`

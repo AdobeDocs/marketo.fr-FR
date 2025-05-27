@@ -3,34 +3,34 @@ description: Routage - Documents Marketo - Documentation du produit
 title: Routage
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 0%
+source-wordcount: '270'
+ht-degree: 1%
 
 ---
 
 # Routage {#routing}
 
-Les réunions réservées en Dynamic Chat peuvent être routées de deux façons. Arrondir le robin ou utiliser une règle personnalisée.
+Les réunions réservées dans Dynamic Chat peuvent être acheminées de deux façons. Round-robin ou utilisation d’une règle personnalisée.
 
-Tour à tour : les réunions sont assignées aux agents de manière séquentielle. Donc si vous avez cinq agents et l&#39;agent trois qui ont pris la dernière réunion, l&#39;agent quatre aura le suivant, suivi de l&#39;agent cinq, puis revenir à l&#39;agent un.
+Round-robin : les réunions sont attribuées aux agents de manière séquentielle. Donc, si vous avez cinq agents et que l&#39;agent trois a pris la dernière réunion, l&#39;agent quatre aura la prochaine réunion, suivi de l&#39;agent cinq, puis de l&#39;agent un.
 
 Règle personnalisée : vous pouvez choisir des agents spécifiques pour recevoir des réunions en fonction des attributs que vous sélectionnez.
 
 >[!NOTE]
 >
->Routage de compte a la priorité la plus élevée. Lorsqu’un visiteur atteint le point de la conversation pour réserver une réunion ou lancer une conversation en direct, [Routage du compte](#account-routing) est vérifié avant que d’autres options de routage ne soient prises en compte.
+>Le routage de compte reçoit la priorité la plus élevée. Lorsqu’un visiteur atteint le point de la conversation pour réserver une réunion ou lancer un chat en direct, le [Routage du compte](#account-routing) est d’abord vérifié avant que d’autres options de routage ne soient prises en compte.
 
 ## Création d’une règle personnalisée {#create-a-custom-rule}
 
-Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, OU et WA à l’agent John.
+Dans cet exemple, nous envoyons toutes les réunions des États présumés CA, OR et WA à l&#39;agent John.
 
-1. Sous Configuration, cliquez sur **Règles de routage**.
+1. Sous Configuration, cliquez sur **Règles de transmission**.
 
    ![](assets/routing-1.png)
 
-1. Cliquez sur l’onglet **Règles personnalisées** .
+1. L’onglet **Règles personnalisées** s’ouvre par défaut.
 
    ![](assets/routing-2.png)
 
@@ -42,11 +42,11 @@ Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, 
 
    ![](assets/routing-4.png)
 
-1. Sélectionnez le ou les agents souhaités.
+1. Choisissez le ou les agents souhaités.
 
    ![](assets/routing-5.png)
 
-1. Faites glisser le pointeur de la souris sur le ou les attributs souhaités.
+1. Faites glisser sur le(s) attribut(s) de votre choix.
 
    ![](assets/routing-6.png)
 
@@ -60,22 +60,22 @@ Dans cet exemple, nous envoyons toutes les réunions des états déduits de CA, 
 
 ## Routage de compte {#account-routing}
 
-Identifiez et chargez votre compte cible et les propriétaires de ventes respectifs et acheminez les visiteurs provenant de ces comptes directement vers le propriétaire du compte correspondant.
+Identifiez et chargez votre compte cible et les propriétaires de ventes respectifs, puis acheminez les visiteurs provenant de ces comptes directement vers le propriétaire du compte respectif.
 
 ![](assets/routing-9.png)
 
-### Ajout d’un compte {#add-an-account}
+### Ajouter un compte {#add-an-account}
 
-Dans cet exemple, nous acheminerons tous les employés de Lego directement vers l’agent Steven.
+Dans cet exemple, nous allons acheminer tous les employés de Lego directement à l&#39;agent Steven.
 
-1. Dans l’onglet Routage de compte, cliquez sur **+ Ajouter un compte**.
+1. Dans l’onglet Routage du compte , cliquez sur **+ Ajouter un compte**.
 
    ![](assets/routing-10.png)
 
    >[!TIP]
    >
-   >Vous pouvez créer plusieurs comptes à la fois en cliquant sur **Télécharger la liste des comptes** et en téléchargeant un fichier CSV.
+   >Vous pouvez créer plusieurs comptes à la fois en cliquant sur **Charger la liste des comptes** et en chargeant un fichier CSV.
 
-1. Saisissez le nom, le domaine et l’agent de votre choix.
+1. Saisissez le nom de la société, le domaine et sélectionnez l’agent souhaité.
 
    ![](assets/routing-11.png)

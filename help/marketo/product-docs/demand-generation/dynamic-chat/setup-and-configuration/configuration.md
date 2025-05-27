@@ -3,18 +3,18 @@ description: Configuration - Documents Marketo - Documentation du produit
 title: Configuration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
 
 # Configuration {#configuration}
 
-Découvrez comment personnaliser l’aspect de votre fenêtre de dialogue de chatbot.
+Découvrez comment personnaliser l’aspect de la fenêtre de la boîte de dialogue du bot conversationnel.
 
-Pour commencer, cliquez sur **Paramètres Chatbot** sous **Configuration**.
+Pour commencer, cliquez sur **Chatbot** sous **Configuration**.
 
 ![](assets/configuration-1.png)
 
@@ -26,46 +26,60 @@ Il existe plusieurs options de personnalisation différentes.
 
 ### Style {#style}
 
-C’est là que vous définissez l’aspect du chatbot dans lequel vos Dialogues s’affichent, notamment : les couleurs, les polices, le positionnement du widget de bot et le nom/avatar du chatbot.
+C’est là que vous définissez l’aspect du bot conversationnel où vos boîtes de dialogue s’afficheront, notamment : les couleurs, les polices, l’emplacement du widget de bot conversationnel et le nom/avatar du bot conversationnel.
 
 La couleur de chaque catégorie est déterminée par une [valeur de couleur hexadécimale](https://color.adobe.com/create/color-wheel){target="_blank"} (par exemple, blanc = #ffffff, rouge = #bf1932, etc.).
 
 ![](assets/configuration-3.png)
 
-L’ancre permet aux visiteurs de votre site d’ouvrir/de fermer le cadre de discussion. Vous pouvez choisir si vous souhaitez que cette icône s’affiche en bas à droite ou en bas à gauche. Vous pouvez également augmenter ou diminuer le remplissage (l’espace entre l’icône et le bas de la page web).
+L’ancre permet aux visiteurs de votre site d’ouvrir ou de fermer le chat box. Vous pouvez choisir d’afficher cette icône en bas à droite ou en bas à gauche. Vous pouvez également augmenter ou réduire la marge intérieure (quantité d’espace entre l’icône et le bas de la page web).
 
 ![](assets/configuration-4.png)
 
-### Paramètres des robots {#agent-settings}
+### Paramètres de robots {#agent-settings}
 
-Dans Paramètres des robots, vous pouvez ajouter un libellé à votre chatbox (par exemple : &quot;Assistant d’Adobe&quot;) qui apparaîtra en haut de celui-ci. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de conversation. Pour télécharger votre propre image d’avatar, cliquez sur le bouton **+** .
+Dans Paramètres des robots, vous pouvez ajouter un libellé à votre chatbox (par exemple : « Assistant Adobe ») qui s’affichera en haut de celui-ci. Vous pouvez également déterminer le délai de réponse (en secondes) et modifier votre avatar de chat. Pour télécharger votre propre image d’avatar, cliquez sur le bouton **+**.
 
 ![](assets/configuration-5.png)
 
 >[!NOTE]
 >
->Les avatars personnalisés doivent être des images carrées inférieures à 256 Ko et inférieures à 200 x 200 pixels. Les types de fichiers pris en charge sont les suivants : .jpg, .png, .gif, .webp, .svg.
+>Les avatars personnalisés doivent être des images carrées de moins de 256 ko et inférieures à 200 x 200 px. Les types de fichiers pris en charge sont les suivants : .jpg, .png, .gif, .webp, .svg.
 
-Lorsque vous avez terminé d’apporter des modifications, n’oubliez pas de cliquer sur **Enregistrer**.
+**Son de notification de nouveau message**
+
+Cliquez sur la liste déroulante pour sélectionner un son pour le visiteur chaque fois que le chatbot est déclenché au cours d’une session. Vous avez le choix entre plusieurs sons.
+
+**Activer les messages poke sur mobile**
+
+Sélectionnez le curseur pour activer le « Poke », qui affiche la question d’ouverture à côté de l’icône de conversation sans que le visiteur ait à cliquer dessus pour la voir, pour les visiteurs qui discutent à partir d’un appareil mobile.
 
 ![](assets/configuration-6.png)
+
+>[!NOTE]
+>
+>Poke n&#39;est disponible que sur la première [carte](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} de la conversation.
+
+Lorsque vous avez terminé d’apporter des modifications, pensez à cliquer sur **Enregistrer**.
+
+![](assets/configuration-7.png)
 
 ## Onglet Confidentialité {#privacy-tab}
 
 Cliquez sur l’onglet **Confidentialité** pour ajouter/modifier l’URL de la politique de confidentialité de votre site (facultatif).
 
-![](assets/configuration-7.png)
+![](assets/configuration-8.png)
 
 ## Onglet Installation {#installation-tab}
 
-Pour que le chatterbot s’affiche sur votre site web, vous devez d’abord installer le fragment de code JavaScript du Dynamic Chat. Cliquez sur cet onglet pour rechercher/copier le code nécessaire. Si vous ne connaissez pas cette opération, contactez votre équipe web ou votre service informatique pour obtenir de l’aide.
+Pour que le chatbot s’affiche sur votre site web, vous devez d’abord installer le fragment de code JavaScript de Dynamic Chat. Cliquez sur cet onglet pour rechercher/copier le code nécessaire. Si vous ne connaissez pas cette opération, contactez votre équipe Web ou votre service informatique pour obtenir de l’aide.
 
-![](assets/configuration-8.png)
+![](assets/configuration-9.png)
 
 >[!TIP]
 >
->Consultez le code ci-dessous pour savoir quoi ajouter si votre site utilise la stratégie de sécurité du contenu (CSP).
+>Regardez sous le code pour savoir ce qu’il faut ajouter si votre site utilise Content-Security-Policy (CSP).
 
 >[!NOTE]
 >
->La prise en charge de Marketo n’est pas configurée pour faciliter le dépannage de l’HTML. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
+>La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes d’HTML. Pour obtenir de l’aide sur HTML, consultez un développeur web.
