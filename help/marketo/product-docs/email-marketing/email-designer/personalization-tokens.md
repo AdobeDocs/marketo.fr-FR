@@ -4,18 +4,17 @@ product: marketo
 title: Jetons Personalization
 description: Découvrez comment utiliser les jetons de personnalisation dans le nouveau Designer d’e-mail de Marketo Engage.
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
+source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Jetons Personalization {#personalization-tokens}
 
-Le Designer d’email a un format différent de celui de l’éditeur d’email classique en ce qui concerne les jetons de personnalisation d’email. La modification a été mise en œuvre pour améliorer la compatibilité avec les scripts Handlebar et rationaliser votre processus de création d’e-mail.
+Le Concepteur d’email a un format différent de celui de l’éditeur d’email classique en ce qui concerne les jetons de personnalisation d’email. La modification a été mise en œuvre pour améliorer la compatibilité avec les scripts Handlebar et rationaliser votre processus de création d’e-mail.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +22,7 @@ Le Designer d’email a un format différent de celui de l’éditeur d’email 
 
 ## Cas d’utilisation du Principal {#primary-use-case}
 
-Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau Designer d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
+Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
 
 ## Expérience de jeton {#token-experience}
 
@@ -37,7 +36,7 @@ Dans l’éditeur d’e-mail classique, vous pouvez ajouter des jetons avec des 
 
 ### Nouveau format {#new-format}
 
-Dans le concepteur d’e-mail, vous devez vous adapter à la [casse mixte](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) ou aux traits de soulignement pour les jetons (par exemple, `lead.anonymousIP` ou `member.registration_code`). Le format du texte par défaut est également remplacé par `{%=lead.city ?: "fallback" %}`.
+Dans le concepteur d’e-mail, vous devez utiliser [casse mixte](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) ou des traits de soulignement pour les jetons (par exemple, `lead.anonymousIP` ou `member.registration_code`). Le format du texte par défaut est également remplacé par `{%=lead.city ?: "fallback" %}`.
 
 ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
 
