@@ -3,10 +3,10 @@ description: Présentation du chat en direct - Documents Marketo - Documentation
 title: Aperçu du chat en direct
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '842'
+ht-degree: 0%
 
 ---
 
@@ -115,6 +115,10 @@ Lorsqu’une action telle qu’une réservation de réunion ou un chat en direct
 
 * Les agents ont 100 secondes pour répondre avant l&#39;expiration du message « Accepter le chat ». Ensuite, les visiteurs et visiteuses recevront le [ message de secours ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Pour les abonnés Dynamic Chat Prime dont l’option de routage est définie sur **Équipe**, un agent supplémentaire sera essayé avant l’affichage du message de secours.
 * Il existe actuellement une limite de 10 discussions en direct par agent.
+* La boîte de réception de l’agent est réservée aux conversations en direct. Si le chat n’est pas accepté par un agent, il n’apparaîtra pas dans la boîte de réception de l’agent, car il n’est pas qualifié de chat en direct.
+* L’onglet Conversation affiche toutes les conversations, aussi bien les conversations en direct que les conversations automatisées. Ainsi, si une conversation n’est pas acceptée par l’agent, elle est répertoriée dans l’onglet Conversation . L’onglet Conversation peut prendre jusqu’à 24 heures, car il ne s’agit pas de temps réel. La boîte de réception de l’agent est toutefois en temps réel.
+* S’il n’y a aucune activité de conversation après 10 minutes (par l’agent ou le visiteur), la conversation expire.
+* Si un agent modifie son image de profil (dans account.adobe.com) _pendant_ une discussion en direct, le visiteur verra toujours l’ancienne image jusqu’à la fin de la discussion. Le visiteur verra la nouvelle image la prochaine fois qu’il discutera et obtiendra cet agent.
 
 >[!MORELIKETHIS]
 >
