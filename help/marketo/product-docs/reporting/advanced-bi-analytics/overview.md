@@ -3,9 +3,9 @@ description: Présentation d’Advanced BI Analytics - Documents Marketo - Docum
 title: Présentation d’Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '996'
+source-wordcount: '994'
 ht-degree: 1%
 
 ---
@@ -19,10 +19,6 @@ Ces améliorations vous permettent de gagner du temps, de découvrir des informa
 >[!PREREQUISITES]
 >
 >Pour accéder à cette fonctionnalité, vous devez avoir acheté le module complémentaire BI Analytics avancé. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
-
->[!NOTE]
->
->Si vous avez des questions sur cette fonctionnalité en version bêta (jusqu’au 1er juin 2025), envoyez un e-mail à : `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Fonctionnalités et avantages clés {#key-features-and-benefits}
 
@@ -38,35 +34,35 @@ Ces améliorations vous permettent de gagner du temps, de découvrir des informa
 
 ## Création d’un rapport {#create-a-report}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Analytique BI avancée (Beta)]**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Analyses BI avancées]**.
 
-   ![](assets/advanced-bi-analytics-overview-1.png)
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
 1. Dans l’onglet **[!UICONTROL Rapports]**, cliquez sur **[!UICONTROL Créer un rapport]**.
 
-   ![](assets/advanced-bi-analytics-overview-2.png)
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Sélectionnez les mesures souhaitées.
 
-   ![](assets/advanced-bi-analytics-overview-3.png)
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. Sélectionnez les dimensions souhaitées.
 
-   ![](assets/advanced-bi-analytics-overview-4.png)
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. Choisissez votre visualisation préférée.
 
-   ![](assets/advanced-bi-analytics-overview-5.png)
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. Ajoutez des filtres en faisant glisser et en déposant un attribut de dimension.
 
-   ![](assets/advanced-bi-analytics-overview-6.png)
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## Démonstration vidéo {#video}
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451684/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 
@@ -177,11 +173,8 @@ Les rapports standard suivants sont inclus comme exemples pour vos rapports pers
 
 ## Éléments à noter {#note}
 
-La version Beta publique durera jusqu’au 1er juin 2025, date à laquelle l’expérience classique via « Revenue Explorer » sera définitivement abandonnée.
+* L’expérience classique « Explorateur de revenus » sera définitivement abandonnée le 10 juin 2025. En attendant, vous pouvez accéder aux rapports, en créer, les mettre à jour et les supprimer dans les deux expériences.
 
-_Pendant la version bêta publique :_
-
-* Vous pouvez accéder aux rapports, les créer, les mettre à jour et les supprimer dans les deux expériences.
 * Vos rapports personnalisés seront répliqués de l’expérience classique vers la nouvelle expérience avec les changements de comportement notables mentionnés dans la section [Apprendre la nouvelle expérience](#learning-the-new-experience) ci-dessous.
 
   >[!IMPORTANT]
@@ -194,15 +187,19 @@ _Pendant la version bêta publique :_
      >
      >Le tableau de bord de la nouvelle expérience est simplement un ensemble de rapports sur une seule page. La principale valeur du tableau de bord dans la nouvelle expérience est de vous permettre de présenter des informations analytiques dans différents domaines de création de rapports.
 
-* Vos abonnements par e-mail dans l’expérience classique seront répliqués dans la nouvelle expérience. Les abonnements par e-mail dans l’expérience classique continueront à fonctionner jusqu’à l’obsolescence de l’expérience classique le 1er juin 2025.
+* Vos abonnements par e-mail dans l’expérience classique seront répliqués dans la nouvelle expérience. Les abonnements par e-mail dans l’expérience classique continueront à fonctionner jusqu’à l’obsolescence de l’expérience classique le 10 juin 2025.
 
-* Les utilisateurs et utilisatrices existants de l’Explorateur de revenus ont automatiquement accès à la nouvelle expérience Advanced BI Analytics (Beta) .
+* Les utilisateurs et utilisatrices existants de l’Explorateur de revenus ont automatiquement accès à la nouvelle expérience BI Analytics avancée.
+
+* Vous pouvez créer jusqu’à 700 rapports dans Advanced BI Analytics.
+
+* Une visualisation donnée est limitée à 1 million de lignes par requête. Si votre requête dépasse ce seuil, vous recevrez l’erreur suivante : `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Pour corriger ce problème, réduisez votre période et/ou ajustez les filtres de votre rapport afin de réduire le nombre de lignes dans le résultat de votre requête.
 
 ## Apprendre la nouvelle expérience {#learning-the-new-experience}
 
 La nouvelle expérience de visualisation est fournie par le biais du service Power BI intégré.
 
-Pour un tutoriel rapide sur l’expérience de visualisation, consultez la documentation de Microsoft [Utiliser des visuels dans Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/). Il se peut que vous ne puissiez pas voir toutes ces fonctionnalités dans Marketo Engage.
+Pour un tutoriel rapide sur l’expérience de visualisation, consultez la documentation de Microsoft [Utiliser des visuels dans Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}. Il se peut que vous ne puissiez pas voir toutes ces fonctionnalités dans Marketo Engage.
 
 ### Changements d’expérience notables {#notable-experience-changes}
 
@@ -218,8 +215,6 @@ Vous trouverez ci-dessous les modifications apportées à la nouvelle expérienc
 
 * Le lien profond du rapport n’est pas pris en charge pour le moment.
 
-* L’expérience du dossier de rapports n’est pas disponible pour le moment. Elle a été temporairement remplacée par une liste plate avec recherche semi-automatique. Le nom du rapport répliqué porte le chemin d’accès au dossier, par exemple `/folder1/folder2/report`.
-
 * L’exportation de PDF est synchrone dans la nouvelle expérience, contrairement à une exportation asynchrone dans l’expérience classique.
 
 >[!NOTE]
@@ -228,4 +223,4 @@ Vous trouverez ci-dessous les modifications apportées à la nouvelle expérienc
 
 >[!MORELIKETHIS]
 >
->[Mesures et dimensions](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
+>[Mesures et dimensions](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
