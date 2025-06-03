@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation sur le 
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 14%
 
 ---
 
@@ -53,13 +53,8 @@ _Les dates de publication et les fonctionnalités peuvent changer_
    <td>En cours</td>
   </tr>
   <tr> 
-   <td>25 juin</td>
-   <td>27 Juin 2025</td>
-   <td>Selon le calendrier</td>
-  </tr>
-  <tr> 
    <td>25 juillet</td>
-   <td>25 Juillet 2025</td>
+   <td>11 Juillet 2025</td>
    <td>Selon le calendrier</td>
   </tr>
   <tr> 
