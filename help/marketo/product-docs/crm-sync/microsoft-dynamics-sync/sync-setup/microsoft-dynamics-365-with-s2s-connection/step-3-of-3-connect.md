@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571830
-description: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion du serveur au serveur - Documents Marketo - Documentation du produit
+description: Étape 3 sur 3 - Connexion de la solution Marketo à un serveur - Documents Marketo - Documentation du produit
 title: Étape 3 sur 3 - Connexion de la solution Marketo à la connexion serveur à serveur
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '448'
 ht-degree: 2%
 
 ---
 
-# Étape 3 sur 3 : connexion de la solution Marketo à la connexion serveur à serveur {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# Étape 3 sur 3 : connecter la solution Marketo à l’aide de la connexion serveur à serveur {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-C’est la dernière étape de la synchronisation. Nous y sommes presque !
+Il s’agit de la dernière étape de la synchronisation. On y est presque !
 
 >[!PREREQUISITES]
 >
->* [Étape 1 sur 3 : installation de la solution Marketo avec la connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
->* [Étape 2 sur 3 : configuration de la solution Marketo avec la connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
+>* [Étape 1 de 3 : installer la solution Marketo avec une connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>* [Étape 2 de 3 : configurer la solution Marketo avec une connexion serveur à serveur](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,13 +26,13 @@ C’est la dernière étape de la synchronisation. Nous y sommes presque !
 
 >[!IMPORTANT]
 >
->Si vous effectuez une mise à niveau de l’authentification de base vers OAuth, vous devrez contacter le [support Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur la mise à jour des paramètres supplémentaires. L’activation de cette fonction interrompt temporairement la synchronisation jusqu’à ce que de nouvelles informations d’identification soient saisies et que la synchronisation soit réactivée. La fonctionnalité peut être désactivée (jusqu’à avril 2022) si vous souhaitez revenir à l’ancien mode d’authentification.
+>Si vous effectuez une mise à niveau de l’authentification de base vers OAuth, vous devez contacter le support technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur la mise à jour des paramètres supplémentaires. L’activation de cette fonctionnalité arrête temporairement la synchronisation jusqu’à ce que de nouvelles informations d’identification soient saisies et que la synchronisation soit réactivée. La fonctionnalité peut être désactivée (jusqu’en avril 2022) si vous souhaitez revenir à l’ancien mode d’authentification.
 
 >[!NOTE]
 >
 >Avant de saisir de nouvelles informations d’identification, vous pouvez [les valider ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
-## Entrer les informations sur l’utilisateur de synchronisation Dynamics {#enter-dynamics-sync-user-information}
+## Saisir les informations sur l&#39;utilisateur de synchronisation Dynamics {#enter-dynamics-sync-user-information}
 
 1. Connectez-vous à Marketo et cliquez sur **[!UICONTROL Admin]**.
 
@@ -46,21 +46,21 @@ C’est la dernière étape de la synchronisation. Nous y sommes presque !
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Entrer les informations d’identification]**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans **[!UICONTROL Saisir les informations d’identification]**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >Assurez-vous que votre URL d’organisation est correcte, car nous ne pouvons pas annuler les modifications de schéma suivantes après envoi. Si une URL d’organisation incorrecte est utilisée, vous devrez obtenir un nouvel abonnement Marketo. Si vous ne connaissez pas l&#39;URL, [ découvrez comment la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Assurez-vous que l’URL de votre organisation est correcte, car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si une URL d’organisation incorrecte est utilisée, vous devrez obtenir un nouvel abonnement Marketo. Si vous ne connaissez pas l’URL, [apprenez à la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
-1. Saisissez les informations utilisateur de synchronisation Dynamics et cliquez sur **[!UICONTROL Enregistrer]** une fois terminé.
+1. Saisissez les informations sur l’utilisateur de synchronisation Dynamics et cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Le nom d’utilisateur dans Marketo doit correspondre à l’[ adresse électronique](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} de l’utilisateur d’application dans le CRM. Le format peut être `user@domain.com` ou DOMAIN\user.
+   >Le nom d’utilisateur dans Marketo doit correspondre à l’[adresse e-mail](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} de l’utilisateur de l’application dans le CRM. Le format peut être `user@domain.com` ou DOMAINE\utilisateur.
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
@@ -68,27 +68,27 @@ C’est la dernière étape de la synchronisation. Nous y sommes presque !
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Sélectionnez les champs que vous souhaitez synchroniser avec Marketo afin qu’ils soient pré-sélectionnés. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez les champs que vous souhaitez synchroniser avec Marketo afin qu’ils soient présélectionnés. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Actualisez ensuite le schéma dans Marketo en modifiant et en enregistrant le [champ de sélection à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans Dynamics, nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [ Sélectionner les champs à synchroniser ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
-## Champs de synchronisation pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
+## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
-Si vous avez créé un filtre personnalisé, veillez à entrer et sélectionner les nouveaux champs à synchroniser avec Marketo.
+Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélectionner les nouveaux champs à synchroniser avec Marketo.
 
 1. Accédez à Admin et sélectionnez **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Cliquez sur **[!UICONTROL Modifier]** sur Détails de la synchronisation des champs.
+1. Cliquez sur **[!UICONTROL Modifier]** dans Détails de synchronisation des champs.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Faites défiler l’écran jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto, mais le nom d’affichage peut être de n’importe quel type. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
@@ -100,14 +100,12 @@ Si vous avez créé un filtre personnalisé, veillez à entrer et sélectionner 
 
    >[!CAUTION]
    >
-   >Marketo ne procède pas automatiquement à la déduplication par rapport à une synchronisation Microsoft Dynamics, ou lorsque vous saisissez manuellement des personnes ou des pistes.
+   >Marketo ne déduplique pas automatiquement les données par rapport à une synchronisation Microsoft Dynamics ou lorsque vous saisissez manuellement des personnes ou des prospects.
 
-1. Lisez tout ce qui se trouve dans la fenêtre contextuelle, saisissez votre adresse électronique, puis cliquez sur **[!UICONTROL Démarrer la synchronisation]**.
+1. Lisez tout ce qui se trouve dans le pop-up, saisissez votre adresse e-mail, puis cliquez sur **[!UICONTROL Démarrer la synchronisation]**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. La première synchronisation peut prendre quelques heures. Une fois cette opération terminée, vous recevrez une notification par e-mail.
+1. Selon le nombre d’enregistrements, la synchronisation initiale peut prendre entre quelques heures et quelques jours. Vous recevrez une notification par e-mail une fois l’opération terminée.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Excellent travail !
