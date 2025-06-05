@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -60,11 +60,9 @@ Ici, nous obtenons le décompte des activités au cours des sept jours précéde
 
 >[!NOTE]
 >
->* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **&#x200B;**&#x200B;le jour en cours. Pensez donc à « hier + six jours avant ».
+>* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **** le jour en cours. Pensez donc à « hier + six jours avant ».
 >
 >* Le tableau de bord n’affiche que les 20 principaux types d’activité, les autres étant triés dans une catégorie intitulée « Autre ».
-
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
 
 L’utilisation des activités vous indique le volume de marketing réalisé et vous aide à visualiser la croissance par rapport à identifié pour le niveau de produit pour lequel un contrat a été conclu. Les tableaux de bord peuvent également être utilisés comme guide pour déterminer le niveau d’optimisation qui peut/doit être réalisé en réduisant le nombre de champs mis à jour.
 
@@ -72,13 +70,20 @@ L’utilisation des activités vous indique le volume de marketing réalisé et 
 
 Regroupez les activités selon les types d’activités les plus courants observés au cours des sept derniers jours. Cela peut inclure des catégories telles que _Modifier la valeur des données_, _Ajouter à la liste_ ou _Envoyer un e-mail_. Vous pouvez ainsi identifier les types d’activités qui se produisent le plus souvent dans votre compte Marketo Engage.
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### Par Attribut Modifier La Valeur Des Données {#by-change-data-value-attribute}
 
 _Modifier la valeur des données_ est le type d’activité le plus courant. Indique le moment où une information sur un enregistrement de personne/prospect est mise à jour. Ici, nous regroupons les données par champs qui sont modifiés le plus souvent afin que vous puissiez déterminer les informations utiles à vos opérations marketing, s’il existe des opportunités d’optimiser l’utilisation de la plateforme, etc.
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### Par campagne {#by-campaign}
 
 Groupe par lequel les campagnes produisent le plus d’activités. Cela vous permet de voir si vous avez des campagnes particulièrement « bruyantes » qui créent plus d’activité que nécessaire. Découvrez rapidement les campagnes qui doivent être désactivées ou celles qui font plus de travail que prévu.
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### Par Source (BIENTÔT DISPONIBLE) {#by-source}
 
