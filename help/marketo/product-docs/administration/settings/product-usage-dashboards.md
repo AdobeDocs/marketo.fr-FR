@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Ici, nous obtenons le décompte des activités au cours des sept jours précéde
 
 >[!NOTE]
 >
->* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **&#x200B;**&#x200B;le jour en cours. Pensez donc à « hier + six jours avant ».
+>* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **** le jour en cours. Pensez donc à « hier + six jours avant ».
 >
 >* Le tableau de bord n’affiche que les 20 principaux types d’activité, les autres étant triés dans une catégorie intitulée « Autre ».
 
@@ -84,7 +84,3 @@ _Modifier la valeur des données_ est le type d’activité le plus courant. Ind
 Groupe par lequel les campagnes produisent le plus d’activités. Cela vous permet de voir si vous avez des campagnes particulièrement « bruyantes » qui créent plus d’activité que nécessaire. Découvrez rapidement les campagnes qui doivent être désactivées ou celles qui font plus de travail que prévu.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Par Source (BIENTÔT DISPONIBLE) {#by-source}
-
-Regroupez par source des activités (_Synchronisation CRM_, _Action de flux de campagne_, _Chargement d’API_, _Remplissage de formulaire de page de destination_, etc.). Cela vous permet de comprendre si la plupart de vos activités sont générées par des actions marketing, des synchronisations CRM ou par les personnes/prospects eux-mêmes.
