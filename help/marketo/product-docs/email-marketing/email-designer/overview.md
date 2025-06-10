@@ -5,9 +5,9 @@ description: Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Enga
 title: Vue d’ensemble
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Le Concepteur d’e-mail est la dernière innovation de Marketo Engage. Il vise 
 
 +++Découvrez comment accéder au concepteur d’e-mail.
 
-Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Ajouter des utilisateurs {#add-users}
 
@@ -76,11 +76,19 @@ Les nouveaux e-mails Designer sont accessibles dans tous les programmes (à l’
 
 **Nos modèles d’e-mail existants fonctionneront-ils dans le nouveau concepteur ? Dans le cas contraire, devons-nous créer des modèles à l’aide du nouveau concepteur afin que toutes les sections/modules correspondent à l’aspect que nous voulons donner à notre contenu ?**
 
-Non, les modèles d’e-mail de l’éditeur classique ne peuvent pas être référencés dans le nouveau concepteur. Vous devrez créer des modèles dans le nouveau concepteur. Cependant, vous _pouvez_ importer le modèle HTML dans le nouveau concepteur, puis effectuer les ajustements nécessaires. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
+Les modèles d’e-mail de l’éditeur classique ne peuvent pas être référencés dans le nouveau concepteur. Vous devrez créer des modèles dans le nouveau concepteur. Cependant, vous _pouvez_ importer le modèle HTML dans le nouveau concepteur, puis effectuer les ajustements nécessaires. **Remarque** : la compatibilité des modèles de l’éditeur classique avec le nouveau concepteur sera bientôt disponible.
+
+**Puis-je déplacer facilement de nouvelles ressources de concepteur vers un autre programme ?**
+
+Pas pour le moment. Mais cette fonctionnalité sera bientôt disponible.
+
+**Les ressources peuvent-elles être modifiées via l’API dans le nouveau concepteur d’e-mail ?**
+
+La modification d’Assets par le biais de l’API n’est pas prise en charge dans le nouveau concepteur d’e-mail pour le moment.
 
 **Existe-t-il un moyen d’appliquer l’image de marque (polices, logos et couleurs) ?**
 
-Le verrouillage des sections de contenu fait partie du nouveau concepteur. Le verrouillage des styles, des couleurs, etc. sera disponible dans le courant de l’année.
+Le verrouillage des sections de contenu fait partie du nouveau concepteur. Le verrouillage des styles, des couleurs, etc. sera bientôt disponible.
 
 **Les modules destinés aux modèles seront-ils plus personnalisables et plus évolutifs ?**
 
@@ -88,16 +96,11 @@ Oui, absolument, plus personnalisable avec notre éditeur WYSIWYG (ce que vous v
 
 **Comment fonctionne le processus de création de modèle d’e-mail dans le nouveau concepteur ? S’agit-il de WYSIWYG ou nécessite-t-il des connaissances HTML ?**
 
-Il s’agit de WYSIWYG ; les connaissances HTML ne sont pas nécessaires. Vous pouvez facilement créer des
-modèles dans le concepteur, ce qui réduit le besoin de développeurs web externes. Cependant, vous avez toujours la possibilité de mettre à jour CSS et de modifier des sections individuelles via HTML. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
+Il s’agit de WYSIWYG ; les connaissances HTML ne sont pas nécessaires. Vous pouvez facilement créer des modèles dans le concepteur, ce qui réduit le besoin de développeurs web externes. Cependant, vous avez toujours la possibilité de mettre à jour CSS et de modifier des sections individuelles via HTML. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
 
 **Le nouveau concepteur d’e-mail prend-il en charge le langage AMP ?**
 
 Actuellement, il ne prend pas en charge AMP.
-
-**Les ressources peuvent-elles être modifiées via l’API dans le nouveau concepteur d’e-mail ?**
-
-La modification d’Assets par le biais de l’API n’est pas prise en charge dans le nouveau concepteur d’e-mail pour le moment.
 
 **Le contenu dynamique par attribut est une bonne chose, mais le contenu dynamique par segment fonctionne-t-il toujours ?**
 
