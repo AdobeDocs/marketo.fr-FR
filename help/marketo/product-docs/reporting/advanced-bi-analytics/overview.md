@@ -3,10 +3,10 @@ description: Présentation d’Advanced BI Analytics - Documents Marketo - Docum
 title: Présentation d’Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
+source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 1%
+source-wordcount: '1144'
+ht-degree: 0%
 
 ---
 
@@ -58,11 +58,74 @@ Ces améliorations vous permettent de gagner du temps, de découvrir des informa
 
    ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
+## Exportation d’un rapport {#export-a-report}
+
+Lors de l’exportation d’un rapport complet, les options d’exportation sont PDF et PPT. Si vous avez besoin de vos données dans XLS ou CSV, vous pouvez le faire en exportant des visualisations individuelles ([voir ci-dessous](#export-a-visualization)).
+
+>[!BEGINTABS]
+
+>[!TAB À partir de la page Rapports]
+
+1. Sur la page Rapports , cliquez sur l’icône « plus » (...) du rapport souhaité, puis sélectionnez **Exporter**.
+
+   ![](assets/export-a-report-1a.png)
+
+1. Choisissez PDF ou PPT et cliquez sur **Exporter**.
+
+   ![](assets/export-a-report-2a.png)
+
+>[!TAB  Dans le rapport ]
+
+1. Dans le rapport lui-même, cliquez sur l’icône « plus » (**...**) dans le coin supérieur droit, puis sélectionnez **Exporter**.
+
+   ![](assets/export-a-report-1b.png)
+
+1. Choisissez PDF ou PPT et cliquez sur **Exporter**.
+
+   ![](assets/export-a-report-2b.png)
+
+>[!ENDTABS]
+
+### Exportation d’une visualisation {#export-a-visualization}
+
+Découvrez comment exporter des sections spécifiques de votre rapport.
+
+1. Choisissez le rapport souhaité.
+
+   ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
+
+1. Pointez sur la visualisation affichée pour afficher trois icônes.
+
+   ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
+
+1. Cliquez sur l&#39;icône &#39;plus&#39; (**...**)
+
+   ![](assets/export-a-visualization-3.png)
+
+1. Sélectionnez **Exporter des données**.
+
+   ![](assets/export-a-visualization-4.png)
+
+1. Choisissez le format de données souhaité.
+
+   ![](assets/export-a-visualization-5.png)
+
+   >[!NOTE]
+   >
+   >* _Les données avec la disposition actuelle_ ne sont disponibles que pour les visuels de tableau et de matrice.
+   * _Les données sous-jacentes_ ne sont pas disponibles dans Marketo Engage.
+
+1. Choisissez le format de fichier souhaité (.XLS, .CSV).
+
+   ![](assets/export-a-visualization-6.png)
+
+1. Cliquez sur **Exporter**.
+
 ## Démonstration vidéo {#video}
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451684/?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 
