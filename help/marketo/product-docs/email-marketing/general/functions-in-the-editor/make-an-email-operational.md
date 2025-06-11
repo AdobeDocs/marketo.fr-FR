@@ -1,42 +1,42 @@
 ---
 unique-page-id: 1147354
-description: Rendre un message électronique opérationnel - Documents Marketo - Documentation du produit
-title: Rendre un message électronique opérationnel
+description: Rendre un e-mail opérationnel - Documents Marketo - Documentation du produit
+title: Rendre un e-mail opérationnel
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-# Rendre un message électronique opérationnel {#make-an-email-operational}
+# Rendre un e-mail opérationnel {#make-an-email-operational}
 
-Les emails opérationnels ignorent les états Désabonné et Marketing suspendu . Ils envoient quoi qu&#39;il arrive.
+Les e-mails opérationnels ignorent les statuts Désabonné et Marketing suspendu . Ils ne sont pas non plus soumis à des limites de communication. Ils envoient quoi qu&#39;il arrive.
 
 >[!NOTE]
 >
->Les emails opérationnels ne sont pas soumis à des limites de communication.
+>Les e-mails opérationnels ne sont pas comptabilisés dans les limites de communication. Par exemple, si une personne ne peut recevoir qu’un seul e-mail par semaine et que vous lui avez déjà envoyé un e-mail marketing, vous pouvez toujours lui envoyer un e-mail opérationnel si nécessaire.
 
-1. Recherchez votre email, sélectionnez-le et cliquez sur **Modifier le brouillon**.
+1. Recherchez votre e-mail, sélectionnez-le et cliquez sur **Modifier le brouillon**.
 
 ![](assets/one-1.png)
 
 >[!NOTE]
 >
->Vous ne devez utiliser que les courriers électroniques opérationnels pour les messages critiques et les répondeurs automatiques. Elles ne sont pas destinées aux emails marketing.
+>Vous ne devez utiliser les e-mails opérationnels que pour les e-mails critiques et les répondeurs automatiques. Ils ne sont pas destinés aux e-mails marketing.
 
-1. Une fois l’éditeur ouvert, cliquez sur **Paramètres de l’e-mail**.
+1. Une fois l’éditeur ouvert, cliquez sur **Paramètres d’e-mail**.
 
    ![](assets/two-1.png)
 
-1. Cochez **E-mail opérationnel** et cliquez sur **Enregistrer**.
+1. Cochez la case **E-mail opérationnel** et cliquez sur **Enregistrer**.
 
    ![](assets/three.png)
 
 >[!CAUTION]
 >
->Les courriels opérationnels n&#39;étaient pas conçus pour fonctionner avec les programmes d&#39;engagement. Ainsi, un programme d’engagement ignore le statut opérationnel d’un email. Gardez cela à l&#39;esprit lorsque vous travaillez avec eux, s&#39;il vous plaît.
+>Les e-mails opérationnels n’ont pas été conçus pour fonctionner avec les programmes d’engagement. Par conséquent, un programme d’engagement ignore le statut opérationnel d’un e-mail. Gardez cela à l’esprit lorsque vous travaillez avec eux.
 
-N’oubliez pas d’approuver cet email pour que les modifications soient prises en compte. Découvrez comment [approuver un email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+N&#39;oubliez pas d&#39;approuver cet e-mail pour que les modifications soient prises en compte. Découvrez comment [approuver un e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
