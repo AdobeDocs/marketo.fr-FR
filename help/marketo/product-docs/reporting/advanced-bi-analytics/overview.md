@@ -125,7 +125,7 @@ Découvrez comment exporter des sections spécifiques de votre rapport.
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451684/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 
