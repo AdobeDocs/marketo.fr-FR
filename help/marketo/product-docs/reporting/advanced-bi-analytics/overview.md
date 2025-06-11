@@ -113,7 +113,7 @@ Découvrez comment exporter des sections spécifiques de votre rapport.
    >[!NOTE]
    >
    >* _Les données avec la disposition actuelle_ ne sont disponibles que pour les visuels de tableau et de matrice.
-   * _Les données sous-jacentes_ ne sont pas disponibles dans Marketo Engage.
+   >* _Les données sous-jacentes_ ne sont pas disponibles dans Marketo Engage.
 
 1. Choisissez le format de fichier souhaité (.XLS, .CSV).
 
