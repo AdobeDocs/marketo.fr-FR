@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949279
-description: Mettre à niveau votre module complémentaire de messagerie Marketo pour Outlook - Documents Marketo - Documentation du produit
+description: Mettre à niveau votre complément de messagerie Marketo pour Outlook - Documents Marketo - Documentation du produit
 title: Mettre à niveau votre complément de messagerie Marketo pour Outlook
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 15%
+source-wordcount: '337'
+ht-degree: 16%
 
 ---
 
 # Mettre à niveau votre complément de messagerie Marketo pour Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
-Lorsqu’une nouvelle version du module complémentaire de messagerie Marketo pour Outlook est disponible, suivez ces instructions pour effectuer la mise à niveau.
+Lorsqu&#39;une nouvelle version du complément de messagerie Marketo pour Outlook est disponible, suivez ces instructions de mise à niveau.
 
 >[!NOTE]
 >
->Depuis la version 10/1/20, la dernière version du module externe Outlook ne prend plus en charge le mode hors ligne. Cela prendra effet après l’installation/la mise à niveau sur ou après la version 10/1.
+>Depuis le 10/1/20, la dernière version du plug-in Outlook ne prend plus en charge le mode hors ligne. Cette opération prend effet après l’installation/la mise à niveau sur ou après 10/1.
 
-## Télécharger le programme {#download-installer}
+## Télécharger le programme d’installation {#download-installer}
 
-Téléchargez le programme d’installation approprié à votre version de Microsoft Outlook.
+Téléchargez le programme d’installation correspondant à votre version de Microsoft Outlook.
 
 <table> 
  <colgroup> 
@@ -34,11 +34,11 @@ Téléchargez le programme d’installation approprié à votre version de Micro
  <tbody> 
   <tr> 
    <th><br></th> 
-   <th colspan="2">Installation d’une invitation d’utilisateur unique</th> 
-   <th colspan="2">Installation de clé d’entreprise</th> 
+   <th colspan="2">Installation d’invitations à un utilisateur unique</th> 
+   <th colspan="2">Installation de la clé d’entreprise</th> 
   </tr> 
   <tr> 
-   <td><strong>Version d’Outlook</strong></td> 
+   <td><strong>Version Outlook</strong></td> 
    <td><strong>32 bits</strong></td> 
    <td><strong>64 bits</strong></td> 
    <td><strong>32 bits</strong></td> 
@@ -53,45 +53,45 @@ Téléchargez le programme d’installation approprié à votre version de Micro
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
    <td>S/O</td> 
    <td>Non pris en charge</td> 
    <td>S/O</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
    <td>S/O</td> 
    <td>Non pris en charge</td> 
    <td>S/O</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
   </tr> 
   <tr> 
    <td>Outlook 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
   </tr> 
   <tr> 
    <td>Outlook 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
   </tr> 
   <tr> 
    <td colspan="1">Outlook 2019</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
   </tr> 
   <tr> 
    <td>Outlook pour Mac</td> 
@@ -109,19 +109,19 @@ Téléchargez le programme d’installation approprié à votre version de Micro
   </tr> 
   <tr> 
    <td colspan="1">Office 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Téléchargement</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Téléchargement</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Télécharger</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Télécharger</a></td> 
   </tr> 
  </tbody> 
 </table>
 
-&#42;Version d&#39;Office 365 : client Windows uniquement (sous Windows 10, Enterprise ou Pro).
+&#42;Version Office 365 : client Windows uniquement (sous Windows 10, Windows 11, Enterprise ou Pro).
 
-## Mettre à niveau {#upgrade}
+## Mise à niveau {#upgrade}
 
-1. Identifiez votre [version Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifiez votre [version Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 
 1. Sélectionnez votre version dans la liste ci-dessus.
 
@@ -135,7 +135,7 @@ Téléchargez le programme d’installation approprié à votre version de Micro
 
    >[!NOTE]
    >
-   >Dans certains cas, les données seront manquantes. Copiez-le dans l’email d’enregistrement, puis fermez Outlook.
+   >Dans certains cas, les données seront manquantes. Copiez-le à partir de l&#39;e-mail d&#39;enregistrement, puis fermez Outlook.
 
 1. Fermez Microsoft Outlook.
 
@@ -147,7 +147,7 @@ Téléchargez le programme d’installation approprié à votre version de Micro
 
    >[!TIP]
    >
-   >Si l’installation échoue, travaillez avec votre service informatique pour vous assurer que le trafic HTTPS n’est pas bloqué. Le programme d’installation nécessite l’ouverture du trafic HTTPS.
+   >Si l’installation échoue, contactez votre service informatique pour vous assurer que le trafic HTTPS n’est pas bloqué. Le programme d’installation nécessite l’ouverture du trafic HTTPS.
 
 1. Cliquez sur **Suivant** pour effectuer l’installation à l’emplacement par défaut.
 
@@ -161,11 +161,11 @@ Téléchargez le programme d’installation approprié à votre version de Micro
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. Ouvrez maintenant Microsoft Outlook pour afficher la dernière version des boutons de Marketo.
+1. Ouvrez maintenant Microsoft Outlook pour afficher la dernière version des boutons Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
 >[!MORELIKETHIS]
 >
->* [Envoi et suivi d’un courrier électronique avec le module complémentaire de messagerie Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envoi et suivi depuis Outlook à l’aide d’un modèle Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Envoyer et suivre un e-mail avec le complément d&#39;e-mail Marketo pour Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Envoi et suivi depuis Outlook à l&#39;aide d&#39;un modèle Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

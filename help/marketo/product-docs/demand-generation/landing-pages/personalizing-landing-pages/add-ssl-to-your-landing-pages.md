@@ -4,9 +4,9 @@ description: Ajouter SSL à vos pages de destination - Documents Marketo - Docum
 title: Ajouter SSL à vos pages de destination
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '669'
 ht-degree: 1%
 
 ---
@@ -71,7 +71,7 @@ Vous trouverez ci-dessous les messages d’erreur que vous pouvez recevoir, ains
 <tbody>
   <tr>
     <td><i>Erreur inattendue lors de la création d'un domaine. Contactez l’assistance pour obtenir de l’aide.</i></td>
-    <td>Une erreur inattendue s’est produite. Rassemblez les journaux et les détails de l’erreur, puis signalez le problème à l’assistance.</td>
+    <td>Une erreur inattendue s’est produite. Veuillez rassembler les journaux et les détails de l'erreur, puis signaler le problème à l'assistance de <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo</a>.</td>
   </tr>
   <tr>
     <td><i>Le domaine par défaut est introuvable. Contactez l’assistance pour obtenir de l’aide.</i></td>
@@ -89,22 +89,16 @@ Vous trouverez ci-dessous les messages d’erreur que vous pouvez recevoir, ains
     <td><i>Le domaine existe déjà.</i></td>
     <td>Un domaine du même nom existe déjà.</td>
   </tr>
-  <tr>
-    <td><i>Une configuration IP ponctuelle est requise avant d’ajouter d’autres domaines. Contactez l’assistance pour terminer la configuration et tentez à nouveau d’ajouter un autre domaine.</i></td>
-    <td>Le premier domaine personnalisé après le domaine par défaut nécessite une configuration unique que vous devez initier. Veuillez créer un ticket d’assistance pour terminer la configuration et ajouter le domaine une fois celle-ci terminée.</td>
-  </tr>
 </tbody></table>
 
 ## Éléments à noter {#things-to-note}
 
-* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personnalisés** : si vous avez besoin d’un SSL personnalisé, envoyez un ticket [Support technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. N’utilisez pas la case à cocher en libre-service pour la création SSL.
 
 * **SSL préexistants** : lors de l’ajout d’un domaine, le système recherche les SSL préexistants, qui peuvent avoir été créés manuellement au préalable. Si vous rencontrez cette validation, créez votre domaine sans sélectionner la création SSL, et nous les connecterons pour vous. [Contactez l’assistance](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} plus d’informations/d’options.
 
-* **Premier domaine de suivi** : la première création des domaines de liens de suivi des e-mails nécessitera une intervention manuelle de la part de l’assistance [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. La création ultérieure de sous-domaines sous le même domaine est autorisée dans l’interface utilisateur.
-
 * **Ajout de certificats à des domaines existants** : l’ajout de certificats à des domaines existants n’est pas pris en charge pour le moment. Pour les domaines préexistants ou dans les cas où vous n’avez pas coché la case de certificat SSL, vous devez contacter [l’assistance Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir le certificat ajouté.
 
-* **Suppression de domaines** : la suppression d’un domaine ne supprime pas automatiquement le certificat SSL pour le moment. Ce problème sera résolu dans une version ultérieure.
+* **Suppression de domaines** : la suppression d’un domaine supprime automatiquement le certificat SSL.
