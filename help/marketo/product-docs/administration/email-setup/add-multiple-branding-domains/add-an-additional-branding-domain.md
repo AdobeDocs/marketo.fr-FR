@@ -4,9 +4,9 @@ description: Ajout d’un domaine de marque supplémentaire - Documents Marketo 
 title: Ajout d’un domaine de marque supplémentaire
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '602'
 ht-degree: 3%
 
 ---
@@ -77,7 +77,7 @@ Ajoutez un domaine de branding supplémentaire lorsque vous exécutez plusieurs 
 
 ## Éléments à noter {#things-to-note}
 
-* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personnalisés** : si vous avez besoin d’un SSL personnalisé, envoyez un ticket [Support technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. N’utilisez pas la case à cocher en libre-service pour la création SSL.
 
@@ -86,6 +86,8 @@ Ajoutez un domaine de branding supplémentaire lorsque vous exécutez plusieurs 
 * **Premier domaine de suivi** : la première création des domaines de liens de suivi des e-mails nécessitera une intervention manuelle de la part de l’assistance [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. La création ultérieure de sous-domaines sous le même domaine est autorisée dans l’interface utilisateur.
 
 * **Ajout de certificats à des domaines existants** : l’ajout de certificats à des domaines existants n’est pas pris en charge pour le moment. Pour les domaines préexistants ou dans les cas où vous n’avez pas coché la case de certificat SSL, vous devez contacter [l’assistance Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour obtenir le certificat ajouté.
+
+* **Modification ou suppression de certificats sur des domaines existants** : si vous devez mettre à jour ou supprimer un protocole SSL existant, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Suppression de domaines** : la suppression d’un domaine ne supprime pas automatiquement le certificat SSL pour le moment. Ce problème sera résolu dans une version ultérieure.
 

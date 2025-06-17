@@ -4,9 +4,9 @@ description: Modification De Votre Domaine De Marque Par Défaut - Documents Mar
 title: Modifier Votre Domaine De Marque Par Défaut
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ La modification de votre domaine de marque par défaut est la première étape d
    ![](assets/edit-your-default-branding-domain-4.png)
 
 Vous pouvez désormais [ajouter des domaines de marque supplémentaires](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} si nécessaire.
+
+>[!NOTE]
+>
+>Si vous devez mettre à jour ou supprimer un protocole SSL existant, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
