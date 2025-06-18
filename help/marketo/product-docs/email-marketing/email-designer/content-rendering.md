@@ -18,7 +18,7 @@ ht-degree: 7%
 
 Tirez parti de votre compte [Litmus](https://www.litmus.com/email-testing) dans Marketo Engage pour voir instantanément comment vos e-mails sont rendus dans les clients de messagerie populaires.
 
-## Utilisation {how-to-use}
+## Utilisation &lbrace;how-to-use&rbrace;
 
 1. Dans l’écran de modification du contenu de votre message ou dans le Designer d’e-mail, cliquez sur le bouton Simuler du contenu .
 
