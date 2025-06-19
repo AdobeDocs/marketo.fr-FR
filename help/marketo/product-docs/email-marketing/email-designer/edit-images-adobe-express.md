@@ -4,11 +4,12 @@ product: marketo
 title: Modifier des images à l’aide d’Adobe Express
 description: Découvrez comment modifier des images dans l’éditeur d’email de Adobe Marketo Engage à l’aide d’Adobe Express.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '841'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -79,7 +80,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express :
 
 >[!ENDTABS]
 
-## Licence Adobe Express Enterprise {#adobe-express-enterprise-license}
+## Licence Adobe Express Enterprise {#adobe-express-enterprise-license}
 
 ### Utilisateurs disposant d’une licence Enterprise {#users-with-an-enterprise-license}
 

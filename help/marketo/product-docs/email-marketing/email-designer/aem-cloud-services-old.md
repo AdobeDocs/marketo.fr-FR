@@ -1,18 +1,20 @@
 ---
-title: Connecter un document Experience Manager
-description: Découvrez comment connecter les Cloud Service Adobe Experience Manager à Adobe Marketo Engage afin de pouvoir exploiter vos ressources AEM.
+title: Connecter Experience Manager doc
+description: Découvrez comment connecter les services cloud Adobe Experience Manager à Adobe Marketo Engage afin de pouvoir exploiter vos ressources AEM.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Connexion aux Cloud Service Adobe Experience Manager {#connect-adobe-experience-manager-cloud-services}
+# Connexion aux services cloud Adobe Experience Manager {#connect-adobe-experience-manager-cloud-services}
 
-Découvrez comment connecter votre compte AEM Assets Cloud Service à votre instance Adobe Marketo Engage afin de pouvoir exploiter votre référentiel de ressources AEM dans Marketo Engage Email Designer.
+Découvrez comment connecter votre compte AEM Assets Cloud Services à votre instance Adobe Marketo Engage afin de pouvoir exploiter votre référentiel de ressources AEM dans Marketo Engage Email Designer.
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ Découvrez comment connecter votre compte AEM Assets Cloud Service à votre inst
 
 CAPTURE D’ÉCRAN
 
-1. Cliquez sur **Modifier** en regard de _Cloud Service Adobe Experience Manager_.
+1. Cliquez sur **Modifier** en regard de _Services cloud Adobe Experience Manager_.
 
 CAPTURE D’ÉCRAN
 
@@ -32,7 +34,7 @@ CAPTURE D’ÉCRAN
 
 >[!NOTE]
 >
->Seuls les référentiels qui ont été associés à la même organisation IMS que votre abonnement de Marketo Engage sont répertoriés.
+>Seuls les référentiels qui ont été associés dans la même organisation IMS que votre abonnement Marketo Engage sont répertoriés.
 
 1. Vous devez ajouter un [certificat d’identification de service](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) pour configurer le référentiel. Cliquez sur le bouton **+ Ajouter un certificat**.
 
@@ -46,8 +48,8 @@ CAPTURE D’ÉCRAN
 
 CAPTURE D’ÉCRAN
 
-Désormais, toutes les images de la bibliothèque de gestion des ressources numériques de ce référentiel sont accessibles à partir du Designer d’e-mail du Marketo Engage.
+Désormais, toutes les images de la bibliothèque de gestion des ressources numériques de ce référentiel sont accessibles à partir du Designer de messagerie Marketo Engage.
 
 >[!MORELIKETHIS]
 >
->[Utilisation de ressources Experience Manager ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)
+>[Utilisation des ressources Experience Manager](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)

@@ -3,11 +3,11 @@ solution: Marketo Engage
 product: marketo
 title: Comparaison des fonctionnalités de Designer e-mail et de l’éditeur d’e-mail
 description: Utilisez ce tableau pour comparer la disponibilité des fonctionnalités de notre précédent éditeur d’e-mail (Email Editor 2.0) à celle de notre nouveau Designer d’e-mail.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%

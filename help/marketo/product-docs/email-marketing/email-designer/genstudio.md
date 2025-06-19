@@ -3,10 +3,12 @@ title: Intégration de GenStudio pour Marketo Engage
 description: Découvrez comment utiliser GenStudio dans Marketo Engage.
 hide: true
 hidefromtoc: true
-feature: Email Editor
 solution: Marketo Engage
 product: marketo
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+level: Beginner, Intermediate
+feature: Email Designer
+exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 8%

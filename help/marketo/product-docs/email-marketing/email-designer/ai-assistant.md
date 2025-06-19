@@ -3,12 +3,13 @@ solution: Marketo Engage
 product: marketo
 title: Utiliser l’assistant d’IA
 description: Tirez parti de la technologie d’IA générative d’Adobe pour ajouter du texte et/ou des images utiles à vos e-mails.
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -36,7 +37,7 @@ Une fois l’e-mail créé, l’objet se trouve dans la colonne _Détails_ à dr
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Activez l’option **Utiliser du contenu de référence** pour que l’assistant d’IA personnalise le nouveau contenu en fonction du contenu sélectionné.
+Activez l’option **Utiliser le contenu de référence** de l’Assistant IA afin de personnaliser le nouveau contenu en fonction du contenu sélectionné.
 
 Saisissez l’invite de personnalisation de l’objet. Saisissez les paramètres de texte appropriés et chargez toutes les ressources de marque que vous souhaitez utiliser comme référence pour créer une ligne d&#39;objet appropriée.
 
