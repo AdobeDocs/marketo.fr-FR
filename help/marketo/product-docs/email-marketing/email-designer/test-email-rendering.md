@@ -5,9 +5,10 @@ title: Test du rendu des e-mails avec Litmus
 description: Les utilisateurs de Marketo Engage peuvent intégrer leur compte Litmus pour tester facilement le rendu de contenu dans divers clients de messagerie.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 4%
 
 ---
@@ -54,10 +55,10 @@ Tirez parti de votre compte [Litmus](https://www.litmus.com/email-testing) dans 
    >
    >Découvrez comment [personnaliser votre liste de clients de messagerie par défaut](https://help.litmus.com/article/227-change-your-default-email-clients-list).
 
-1. Une fois le test terminé, cliquez sur la flèche vers l’arrière dans le coin supérieur gauche de l’écran pour revenir à l’écran _Simuler du contenu_.
+1. Une fois le test terminé, cliquez sur la flèche vers l’arrière dans le coin supérieur gauche pour revenir à l’écran _Simuler du contenu_.
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**ÉTAPE FACULTATIVE** : Si vous décidez d&#39;apporter des modifications à votre e-mail, après avoir cliqué sur **Rendre l&#39;e-mail** pour les afficher, veillez également à cliquer sur le bouton **Retester** dans le coin supérieur droit de l&#39;écran Litmus.
+**ÉTAPE FACULTATIVE** : Si vous décidez d&#39;apporter des modifications à votre e-mail, après avoir cliqué sur **Rendu de l&#39;e-mail** pour les afficher, veillez également à cliquer sur le bouton **Retester** dans le coin supérieur droit de l&#39;écran Litmus _Prévisualisations d&#39;e-mail_.
 
 ![](assets/test-email-rendering-with-litmus-7.png)

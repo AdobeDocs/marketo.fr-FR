@@ -3,9 +3,9 @@ description: Promotion d’un webinaire interactif - Documents Marketo - Documen
 title: Promouvoir un webinaire interactif
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ Les webinaires interactifs vous permettent de demander à vous inscrire avant, p
 
 ## Jetons de webinaires interactifs {#interactive-webinars-tokens}
 
-Utilisez des jetons pour promouvoir les webinaires interactifs dans les e-mails et les pages de destination sans avoir à ajouter manuellement les détails du webinaire. Cela améliore l’efficacité globale, car toutes les modifications apportées aux métadonnées du webinaire (telles que le titre du webinaire, la date de début, etc.) sont automatiquement répercutées dans vos ressources.
+Utilisez des jetons pour promouvoir les webinaires interactifs dans les e-mails sans avoir à ajouter manuellement les détails du webinaire. Cela améliore l’efficacité globale, car toutes les modifications apportées aux métadonnées du webinaire (telles que le titre du webinaire, la date de début, etc.) sont automatiquement répercutées dans vos ressources.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>Les jetons de webinaire interactif ne sont pas pris en charge dans les pages de destination pour le moment.
 
 **Liste des jetons**
 
