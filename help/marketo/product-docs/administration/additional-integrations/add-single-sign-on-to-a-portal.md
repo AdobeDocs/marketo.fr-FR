@@ -4,7 +4,7 @@ description: Ajouter l'authentification unique à un portail - Documents Marketo
 title: Ajouter l'authentification SSO à un portail
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '606'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Une fois la connexion unique activée, l’IdP peut valider les informations d�
 
 >[!IMPORTANT]
 >
->Cela ne s’applique pas aux abonnements intégrés à Adobe Identity. Pour les abonnements intégrés à l’identité Adobe, l’authentification unique est configurée au niveau de l’organisation Adobe dans Adobe Admin Console. Pour le moment, Adobe Admin Console ne prend en charge que le démarrage par SP. [En savoir plus ici](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
+>Cela ne s’applique pas aux abonnements intégrés à Adobe Identity. Pour les abonnements intégrés à Adobe Identity, l’authentification unique est configurée au niveau de l’organisation Adobe dans Adobe Admin Console. Pour le moment, Adobe Admin Console ne prend en charge que le démarrage par SP. [En savoir plus ici](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [ tutoriel d’intégration ](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
+>Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [ tutoriel d’intégration ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
 
 ## Envoi de la requête {#how-to-send-the-request}
 

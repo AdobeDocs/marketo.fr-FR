@@ -4,9 +4,9 @@ description: Descriptions des autorisations de rôle - Documents Marketo - Docum
 title: Descriptions des autorisations de rôle
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 15%
 
 ---
@@ -33,7 +33,7 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 
 * Accéder à Adobe Connect : permet aux utilisateurs d’accéder à l’écran Adobe Connect.
 * Accéder à Adobe Experience Manager &#42; : permet aux utilisateurs d’accéder à l’écran Adobe Experience Manager.
-* Accéder au mappage des organisations d’Adobe &#42; permet aux utilisateurs d’accéder à l’écran Mappage des organisations d’Adobe.
+* Accéder au mappage d’organisation Adobe &#42; permet aux utilisateurs d’accéder à l’écran Mappage d’organisation Adobe.
 * Accéder au journal d&#39;audit d&#39;administrateur &#42; - Donne aux utilisateurs l&#39;accès à l&#39;écran Journal d&#39;audit d&#39;administrateur
 * Accéder au journal d’audit &#42; - Donne aux utilisateurs l’accès au journal d’audit
 * Accéder au journal d’audit : permet aux utilisateurs d’accéder au journal d’audit des ressources et au journal d’audit administrateur
@@ -41,10 +41,10 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 * Canaux d’accès : permet aux utilisateurs de modifier uniquement la balise du canal, et non d’autres balises personnalisées
 * Limite de communication d’accès - Donne aux utilisateurs l’accès pour activer une limite de communication dans Admin
 * Accéder au CRM : permet aux utilisateurs d’accéder au CRM, par exemple [!DNL Salesforce] ou [!DNL Microsoft Dynamics], dans Admin
-* [[!DNL Data.com]](https://data.com) d’accès : permet aux utilisateurs d’accéder à l’action de flux Data.com.
+* `Data.com` d’accès : permet aux utilisateurs d’accéder à l’action de flux Data.com.
 * Accéder à l’administrateur de messagerie : permet aux utilisateurs d’accéder à l’administrateur de messagerie pour modifier les paramètres par défaut, tels que le désabonnement et les domaines de marque
 * Accéder aux partenaires d’événement : permet aux utilisateurs d’accéder à LaunchPoint dans Admin.
-* Partage d’audiences d’accès Experience Cloud - Permet aux utilisateurs de synchroniser une audience de Adobe Experience Cloud vers Marketo Engage
+* Partage d’audiences d’accès à Experience Cloud - Permet aux utilisateurs de synchroniser une audience de Adobe Experience Cloud vers Marketo Engage
 * Gestion des champs d’accès - Permet aux utilisateurs d’accéder à la gestion des champs dans Admin
 * Accéder au téléchargement de fichier : permet aux utilisateurs de télécharger des images et des fichiers dans Design Studio
 * Accéder aux pages de destination : permet aux utilisateurs d’accéder aux pages de destination dans Admin
@@ -58,7 +58,7 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 * Accéder aux audiences prédictives &#42; permet aux utilisateurs d’accéder à l’écran Audiences prédictives
 * Accéder à Revenue Cycle Analytics : permet aux utilisateurs d’accéder à Revenue Cycle Analytics dans Admin pour définir le résumé de la synchronisation et l’attribution.
 * Accéder aux rôles : permet aux utilisateurs et utilisatrices d’accéder à la gestion et à la modification des rôles, mais pas aux utilisateurs et utilisatrices
-* Accéder à Sales Insight : permet aux utilisateurs d’accéder à Sales Insight dans Admin, pour le paramétrage du statut, de la configuration de l’API, de la notation des personnes, etc.
+* Accéder à Sales Insight : permet aux utilisateurs de gérer Sales Insight dans Admin, pour définir le statut, la configuration de l’API, la notation de la personne, etc.
 * Accéder à l’authentification unique : permet aux utilisateurs et utilisatrices d’accéder à la gestion de l’authentification unique dans l’administration pour activer SAML et utiliser les paramètres SAML et les URL de page de redirection.
 * Accéder à Smart Campaign : permet aux utilisateurs d’accéder à Smart Campaign dans Admin pour restreindre les limites sur les personnes qualifiées
 * Accéder à l’API SOAP : permet aux utilisateurs de gérer les API SOAP dans les services web d’Admin.
@@ -110,9 +110,9 @@ _&#42;Afin d’éviter toute perturbation des utilisateurs et utilisatrices exis
 
 ## Accéder aux présentations du calendrier {#access-calendar-presentations}
 
-Donne aux utilisateurs l’accès aux présentations du calendrier - active l’affichage du bouton Presentations en bas.
+Donne aux utilisateurs l’accès aux présentations du calendrier - active l’affichage du bouton Présentations au bas de la page.
 
-* Modifier le calendrier Presentations - Permet aux utilisateurs de modifier les présentations dans le calendrier
+* Modifier les présentations du calendrier - Permet aux utilisateurs de modifier des présentations dans le calendrier
 
 ## Accès au studio de conception {#access-design-studio}
 

@@ -4,7 +4,7 @@ short-description: Découvrez les termes de Marketo Engage et leurs définition
 title: Glossaire Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 5%
@@ -244,7 +244,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
    <td colspan="1">Type de programme dans Marketo. Programme générique que vous utiliserez lorsqu’un e-mail, un événement ou un programme d’engagement n’est pas pertinent. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Stratégie et définition de la </strong></td> 
+   <td colspan="1"><strong>Délivrabilité</strong></td> 
    <td colspan="1">Capacité d’un e-mail à atteindre la boîte de réception du destinataire prévu, qui peut être affectée par les filtres <strong>spam</strong> et côté client. Différent de « Diffusé », qui indique uniquement que l’e-mail a été transmis au serveur destinataire.</td> 
   </tr> 
   <tr> 
@@ -444,7 +444,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Individu connu</strong></a></td> 
-   <td><p>Toutes les données de personne de la <strong>base de données</strong> Marketo sont considérées comme des données de personne connues. Quelqu’un peut entrer dans votre base de données de différentes manières, notamment : synchronisation CRM, remplissage d’un formulaire, importation de liste/saisie manuelle, programmation (intégrations API REST/partenaires), etc. Les visiteurs web sont d’abord <strong>cookies</strong> (et sont anonymes) via le suivi web <strong>Munchkin</strong> de Marketo, puis sont mappés à l’enregistrement de personne connue correspondant lorsqu’une action identifiable se produit (par exemple, ils cliquent sur un lien suivi dans un e-mail Marketo, remplissent un formulaire avec leur adresse e-mail ou sont mappés manuellement par le biais des API de prospect associées à Marketo dans <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> et <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">l’API Rest</a></p></td> 
+   <td><p>Toutes les données de personne de la <strong>base de données</strong> Marketo sont considérées comme des données de personne connues. Quelqu’un peut entrer dans votre base de données de différentes manières, notamment : synchronisation CRM, remplissage d’un formulaire, importation de liste/saisie manuelle, programmation (intégrations API REST/partenaires), etc. Les visiteurs web sont d’abord <strong>cookies</strong> (et sont anonymes) via le suivi web <strong>Munchkin</strong> de Marketo, puis sont mappés à l’enregistrement de personne connue correspondant lorsqu’une action identifiable se produit (par exemple, ils cliquent sur un lien suivi dans un e-mail Marketo, remplissent un formulaire avec leur adresse e-mail ou sont mappés manuellement par le biais des API de prospect associées à Marketo dans <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> et <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">l’API Rest</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +535,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
    <td>Également appelé MSD. L’un des deux CRM Marketo a une intégration native à (voir <a href="#c"><strong> CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
    <td>Code de suivi JavaScript personnalisé Marketo. Il suit toutes les personnes qui visitent votre site web. Cela inclut les visiteurs anonymes (ainsi que leurs adresses IP et d’autres informations). </td> 
   </tr> 
   <tr> 
