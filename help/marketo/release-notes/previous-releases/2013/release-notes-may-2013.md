@@ -35,6 +35,6 @@ Recherchez plus rapidement les actions de flux avec l’arborescence d’actions
 
 ## Actions de flux renommées {#renamed-flow-actions}
 
-Modifier le statut de progression est désormais [!UICONTROL Modifier le statut du programme]. Modifier les données du programme est désormais [!UICONTROL  Modifier la réussite du programme ].
+Modifier le statut de progression est désormais [!UICONTROL Modifier le statut du programme]. Modifier les données du programme est désormais [!UICONTROL &#x200B; Modifier la réussite du programme &#x200B;].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
