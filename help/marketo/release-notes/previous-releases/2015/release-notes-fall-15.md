@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10094114
-description: Notes de mise à jour - Automne 2015 - Documents Marketo - Documentation du produit
-title: Notes de mise à jour - Automne 2015
+description: Notes De Mise À Jour - Automne 2015 - Documents Marketo - Documentation Du Produit
+title: Notes De Mise À Jour - Automne 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 2%
+source-wordcount: '967'
+ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : automne 2015 {#release-notes-fall}
+# Notes De Mise À Jour : Automne 2015 {#release-notes-fall}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’automne 15. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition.
+Les fonctionnalités suivantes sont incluses dans la version de l’automne 15. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
-## Abonnement à une liste dynamique {#subscribe-to-a-smart-list}
+## S’abonner à une liste dynamique {#subscribe-to-a-smart-list}
 
-[Abonnement à une liste dynamique](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[S’abonner à une liste dynamique](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-S’abonner à la liste dynamique permet aux marketeurs d’exporter une liste dynamique et de l’envoyer par courrier électronique aux parties prenantes qui n’utilisent pas Marketo, par exemple les équipes de vente ou de télémarketing.
+S’abonner à la liste dynamique permet aux marketeurs d’exporter une liste dynamique et de l’envoyer par e-mail aux parties prenantes qui n’utilisent pas Marketo, par exemple les équipes de vente ou de télémarketing.
 
-L’exportation peut être planifiée tous les jours, toutes les semaines ou tous les mois, avoir une date de fin de remise et être personnalisée pour partager un nombre limité de colonnes.
+L’exportation peut être planifiée tous les jours, toutes les semaines ou tous les mois, comporter une date de fin de diffusion et être personnalisée pour partager un nombre limité de colonnes.
 
 ![](assets/image2015-10-1-17-3a12-3a50.png)
 
-Plusieurs abonnements peuvent être créés sur une liste dynamique. Il existe une limite de 100 abonnements avec 100 000 pistes par abonnement, dans tous les espaces de travail, par instance Marketo.
+Plusieurs abonnements peuvent être créés sur une liste dynamique. Le nombre d’abonnements est limité à 100 avec 100 000 prospects par abonnement, pour tous les espaces de travail et par instance Marketo.
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
@@ -33,7 +33,7 @@ Plusieurs abonnements peuvent être créés sur une liste dynamique. Il existe u
 
 [Objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Créez facilement des objets personnalisés à partir de l’interface utilisateur d’administration. Actuellement, nous prenons en charge la possibilité de créer un objet personnalisé 1:N dans Marketo et de le connecter à un prospect ou une société.
+Créez facilement des objets personnalisés à partir de l’interface utilisateur d’administration. Nous prenons actuellement en charge la possibilité de créer un objet personnalisé 1:N dans Marketo et de le connecter à un prospect ou à une société.
 
 >[!NOTE]
 >
@@ -41,79 +41,79 @@ Créez facilement des objets personnalisés à partir de l’interface utilisate
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights pour Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights pour [!DNL Google Chrome] {#marketo-insights-for-google-chrome}
 
-[Marketo Insights pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights pour  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Nous sommes heureux d’annoncer la publication d’une mise à jour de notre extension Google Mail Sales Insight . Affichez-la dans le [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Nous sommes ravis d’annoncer la publication d’une mise à jour de notre extension [!DNL Google Mail] [!DNL Sales Insight] ! Affichez-le dans la [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Cette mise à jour comprend de nombreuses nouvelles fonctionnalités :
 
-* Avant de participer, les vendeurs peuvent consulter des informations pertinentes sur leurs perspectives directement dans Google Mail, notamment les titres des tâches, les profils de twitter, les informations sur la société, les photos, etc.
-* Les vendeurs peuvent voir en temps réel les perspectives de contenu qui s’offrent à tous les canaux, comme les emails ouverts ou les clics, les événements en ligne ou en personne suivis, les pages web visitées, les eBooks téléchargés, etc.
-* Les courriers électroniques envoyés par le biais de Google Mail sont consignés dans Marketo et suivis en temps réel. Cela permet aux vendeurs de voir quand les prospects regardent leurs emails afin de pouvoir suivre au bon moment. Marketo Sales Insight for Google Mail permet également aux vendeurs d’exploiter facilement les modèles créés par le marketing afin d’envoyer de belles invitations, des offres et d’autres types de contenu.
+* Avant de s’engager, les vendeurs et vendeuses peuvent consulter des informations pertinentes sur leurs prospects directement dans [!DNL Google Mail], notamment les intitulés de poste, les profils Twitter, les informations sur l’entreprise, des photos, etc.
+* Les vendeurs peuvent voir en temps réel avec quel contenu les prospects interagissent sur l’ensemble des canaux, comme les e-mails ouverts ou sur lesquels ils cliquent, les événements en ligne ou en personne auxquels ils assistent, les pages web visitées, les livres électroniques téléchargés, etc.
+* Les e-mails envoyés via [!DNL Google Mail] sont consignés dans Marketo et suivis en temps réel. Cela permet aux vendeurs de voir quand les prospects consultent leurs e-mails afin qu’ils puissent faire un suivi au bon moment. Marketo [!DNL Sales Insight] for [!DNL Google Mail] permet également aux vendeurs de tirer facilement parti des modèles créés par le marketing pour envoyer de belles invitations, offres et autres types de contenu.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Engagement pour Marketo Mobile - Jetons, Envoyer un exemple et Aperçu {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Engagement mobile Marketo - Jetons, exemple d’envoi et prévisualisation {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Jetons](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Envoyer un échantillon](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Prévisualiser](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personnalisez facilement des notifications push avec des [jetons](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Personnalisez facilement les notifications push avec des [jetons](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Vous pouvez également [prévisualiser](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou envoyer un [exemple](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) de notification push avant de le déployer vers les clients.
+Vous pouvez également [prévisualiser](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou envoyer une notification push [exemple](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) avant de la déployer auprès des clients.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-## Campagnes intelligentes à un moment donné {#smart-campaigns-in-moments}
+## Campagnes intelligentes en quelques instants {#smart-campaigns-in-moments}
 
-[Campagnes intelligentes à un moment donné](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[Campagnes intelligentes en quelques instants](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
-Les statistiques sur les emails envoyés par le biais des campagnes dynamiques sont désormais disponibles dans les moments. Les autres fonctionnalités de cette mise à niveau sont les suivantes :
+Les statistiques sur les e-mails envoyés par le biais de campagnes intelligentes sont désormais disponibles dans Moments. Les autres fonctionnalités de cette mise à niveau sont les suivantes :
 
-* Effectuez un balayage jusqu’à la fin. Avez-vous trop de cartes dans votre flux ? Vous pouvez maintenant les balayer !
-* Envoyer un exemple directement depuis l’écran de prévisualisation
-* Ajout de détails de liste dynamique aux cartes de programme de messagerie
-* Ajout de la prise en charge de l’état Avorté pour les programmes de messagerie
+* Balayer vers la fin. Vous avez trop de cartes dans votre flux ? Vous pouvez maintenant les faire glisser !
+* Envoyer un échantillon directement depuis l’écran de prévisualisation
+* Détails de liste dynamique ajoutés aux cartes de programme d’e-mail
+* Ajout de la prise en charge du statut Abandonné pour les programmes de messagerie
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - Content Analytics et Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics et recommandations {#rtp-content-analytics-and-recommendations}
 
 [Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) et Recommendations
 
-L’analyse de contenu HTTP vous montre les performances de vos ressources de contenu web à partir des visites web régulières et des visites générées à partir du moteur de recommandation de contenu de la HTTP.
+RTP Content Analytics vous montre les performances de vos ressources de contenu web lors de visites régulières sur le web, ainsi que les visites générées par le moteur de recommandation de contenu de RTP.
 
-* Identifier le contenu le plus performant et générer le plus de pistes
-* Augmentez votre consommation de contenu en activant le contenu dans le moteur de contenu prédictif de RTP afin de recommander automatiquement le meilleur contenu aux visiteurs appropriés.
-* Explorez chaque ressource de contenu pour afficher des mesures, des graphiques et des performances plus détaillés.
+* Identifiez le contenu qui présente les meilleures performances et qui attire le plus de prospects
+* Augmentez votre consommation de contenu en activant le contenu dans le moteur de contenu prédictif de RTP pour recommander automatiquement le meilleur contenu aux bons visiteurs
+* Explorez chaque ressource de contenu pour afficher des mesures, des graphiques et des performances plus détaillés
 
-La page Assets de RTP est désormais divisée en Content Analytics et Content Recommendations.
+La page Assets de RTP est maintenant divisée en Content Analytics et Recommandations de contenu.
 
-* **Analyse de contenu :** affiche les vues et les pistes directes de tout contenu web découvert et défini, ce qui vous permet d’analyser le contenu le plus performant.
-* **Recommendations de contenu** : affiche les impressions et les clics à partir du contenu recommandé de la HTTP et de l’attribution de piste associée. Vous pouvez également modifier et activer des recommandations de contenu à partir de cette page pour les recommandations [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) et [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
+* **Content Analytics :** affiche les vues et les prospects directs de tout le contenu web découvert et défini, ce qui vous aide à analyser votre contenu le plus performant
+* **Recommandations de contenu** : affiche les impressions et les clics provenant du contenu recommandé par le RTP et de l’attribution de prospect associée. Vous pouvez également modifier et activer les recommandations de contenu de cette page pour les recommandations [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) et [médias riches](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
 
-* Toutes les données de piste directe de ces deux pages ont été mises à jour rétroactivement depuis le début de l’année (1er janvier 2015).
+* Toutes les données de prospect direct de ces deux pages ont été mises à jour rétrospectivement depuis le début de l’année (1er janvier 2015).
 
 ## RTP - Cloner une campagne RTP {#rtp-clone-an-rtp-campaign}
 
 [RTP - Cloner une campagne RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
-Le clonage d’une campagne RTP rend plus rapide et plus efficace la création de campagnes web plus personnalisées. Utilisez la fonction de clonage de la page de campagne de RTP pour copier les paramètres de la campagne et modifier le contenu pour l’optimisation du test partagé, ou cloner une campagne avec le même contenu et la cibler sur un autre segment. Créez des campagnes en secondes !
+Le clonage d’une campagne RTP permet de créer plus rapidement et plus efficacement des campagnes web plus personnalisées. Utilisez la fonction de clonage de la page de campagne de RTP pour copier les paramètres de la campagne et modifier le contenu pour l’optimisation du test de partage, ou clonez une campagne avec le même contenu et ciblez-la vers un autre segment. Créez des campagnes en quelques secondes !
 
 ![](assets/clone2.png)
 
 ## Améliorations de l’éditeur de texte enrichi {#rich-text-editor-improvements}
 
-L’éditeur de texte enrichi a été amélioré de plusieurs façons. Après la publication de l’éditeur mis à jour en juillet, nous avons reçu de nombreux commentaires et avons pu apporter ces modifications à cette mise à niveau. Il y a beaucoup d&#39;autres choses à venir dans les prochains mois. Voici une liste des nouveautés du 4e trimestre :
+Nous apportons plusieurs améliorations à l’éditeur de texte enrichi. Après la publication de la mise à jour de l’éditeur en juillet, nous avons reçu d’excellents commentaires et avons pu appliquer ces modifications à cette mise à niveau. Beaucoup d’autres choses nous attendent au cours des prochains mois. Voici une liste des nouveautés du 4e trimestre :
 
-* Le code VML est désormais pris en charge dans votre code d’HTML :
+* VML est désormais pris en charge dans votre code HTML :
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -121,57 +121,57 @@ L’éditeur de texte enrichi a été amélioré de plusieurs façons. Après la
 </v:background>
 ```
 
-* Tout peut maintenant être inséré dans un commentaire d’HTML valide (certaines syntaxes comme illustré ci-dessous ont été précédemment supprimées) :
+* Tout peut désormais être inséré dans un commentaire HTML valide (certaines syntaxes comme celles présentées ci-dessous ont été supprimées) :
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* Ne pas remplir les cellules de tableau vides avec `&nbsp;`
+* Ne remplissez pas les cellules vides du tableau avec des `&nbsp;`
 
-* Bouton Maximiser/minimiser ajouté à l’éditeur de source d’HTML
+* Bouton Agrandir/Réduire ajouté à l’éditeur source d’HTML
 * Les propriétés de tableau préexistantes sont désormais identifiées et affichées dans la boîte de dialogue Propriétés du tableau .
-* Les deux rangées de boutons s’affichent désormais par défaut.
-* L’éditeur accepte désormais tout élément (même les éléments obsolètes ou non standard) :
+* Les deux lignes de boutons s’affichent désormais par défaut.
+* L’éditeur accepte désormais n’importe quel élément (même les éléments obsolètes ou non standard) :
 
 `<myCustomElement>Hello World!</myCustomElement>`
 
-* L’éditeur accepte désormais tout attribut (même les attributs obsolètes ou non standard) :
+* L’éditeur accepte désormais tous les attributs (même les attributs obsolètes ou non standard) :
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Validation de la synchronisation {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - Valider la synchronisation {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Validation de la synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - Valider la synchronisation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Ce nouvel outil d’administration exécute une série de vérifications pour vérifier si vos configurations de synchronisation ont été correctement configurées.
 
 ![](assets/image2015-10-1-14-3a3-3a12.png)
 
-## Ajouter des champs à la synchronisation des objets personnalisés CRM {#add-fields-to-crm-custom-object-sync}
+## Ajouter des champs à la synchronisation d’objet personnalisé CRM {#add-fields-to-crm-custom-object-sync}
 
-Ajoutez facilement de nouveaux champs aux objets personnalisés synchronisés à partir de Salesforce et Dynamics. Vous pouvez désormais ajouter de nouveaux champs à votre synchronisation d’objet personnalisé sans désactiver ni activer l’ensemble de votre objet personnalisé.
+Ajoutez facilement de nouveaux champs aux objets personnalisés synchronisés à partir de [!DNL Salesforce] et [!DNL Dynamics]. Vous pouvez désormais ajouter de nouveaux champs à la synchronisation de votre objet personnalisé sans désactiver ni activer l’ensemble de votre objet personnalisé.
 
-## Modifications des fonctionnalités de sécurité {#changes-to-security-features}
+## Modification des fonctions de sécurité {#changes-to-security-features}
 
 * Les tentatives de mot de passe sont limitées à 5. Après la cinquième tentative, l’utilisateur sera verrouillé.
-* Le délai d’expiration de la session inactive peut désormais être configuré pour l’abonnement.
+* La temporisation de session inactive peut désormais être configurée pour l’abonnement.
 
 ![](assets/image2015-10-1-15-3a54-3a4.png)
 
-## Prise en charge d’IE 11 (et abandon de la prise en charge d’IE 9) {#ie-support-and-deprecating-support-for-ie}
+## Prise en charge d’IE 11 (et obsolescence de la prise en charge d’IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-Le navigateur Microsoft Internet Explorer 11 est désormais officiellement pris en charge et la prise en charge du navigateur Microsoft Internet Explorer 9 est supprimée.
+Nous prenons désormais officiellement en charge le navigateur [!DNL Microsoft Internet Explorer] 11 et supprimons la prise en charge du navigateur [!DNL Microsoft Internet Explorer] 9.
 
-## Prise en charge de l’interface utilisateur de Lightning pour MSI {#lightning-ui-support-for-msi}
+## Prise en charge de l’interface utilisateur Lightning pour MSI {#lightning-ui-support-for-msi}
 
-Le dernier package MSI sur l’exchange d’application fonctionne avec les versions Lightning et Legacy de l’interface utilisateur de Salesforce.
+Le dernier package MSI sur App Exchange fonctionne avec les versions Lightning et Legacy de l&#39;interface utilisateur de [!DNL Salesforce].
 
-## Nouveau module externe Dynamics {#new-dynamics-plug-in}
+## Nouveau plug-in [!DNL Dynamics] {#new-dynamics-plug-in}
 
 Ce nouveau plug-in exécute diverses actions en mode asynchrone pour améliorer les performances.
 
-## Recherche par URL de page d’entrée dans Design Studio {#search-by-url-of-landing-page-in-design-studio}
+## Recherche par URL de page de destination dans Design Studio {#search-by-url-of-landing-page-in-design-studio}
 
-Dans la grille de page d’entrée de Design Studio, vous pouvez désormais rechercher par URL de page vos pages d’entrée. Il est également exportable.
+Dans la grille de page de destination de Design Studio, vous pouvez désormais rechercher vos pages de destination par URL de page. Il peut également être exporté.

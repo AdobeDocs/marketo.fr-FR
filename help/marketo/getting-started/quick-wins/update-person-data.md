@@ -1,42 +1,42 @@
 ---
 unique-page-id: 2359426
-description: Mise à jour des données de personne - Documents Marketo - Documentation du produit
+description: Mettre À Jour Les Données De Personne - Documents Marketo - Documentation Du Produit
 title: Mettre à jour les données de personne
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---
 
 # Mettre à jour les données de personne {#update-person-data}
 
-## Mission : mise à jour des coordonnées d’une personne ou d’autres données {#mission-update-a-persons-contact-info-or-other-data}
+## Mission : mettre à jour les coordonnées d&#39;une personne ou d&#39;autres données {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Configurer et ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importer une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
-Imaginons que dans votre salon récent, une personne vous ait donné des coordonnées supplémentaires. Voici comment mettre à jour les données de personne.
+Imaginons que lors de votre récent salon professionnel, une personne vous ait donné des coordonnées supplémentaires. Voici comment mettre à jour les données de personne.
 
-## Rechercher la personne que vous devez mettre à jour {#find-the-person-you-need-to-update}
+## Trouver la personne à mettre à jour {#find-the-person-you-need-to-update}
 
-1. Accédez à votre **[!UICONTROL base de données]**.
+1. Accédez à votre [!UICONTROL Base de données].
 
    ![](assets/update-person-data-1.png)
 
-1. Recherchez le nom ou l’adresse électronique de la personne.
+1. Rechercher le nom ou l’adresse e-mail de la personne.
 
    >[!TIP]
    >
-   >L’utilisation de l’adresse électronique pour effectuer des recherches plus rapidement.
+   >L’utilisation de l’adresse e-mail pour la recherche accélère la recherche.
 
    ![](assets/update-person-data-2.png)
 
-1. Double-cliquez pour ouvrir le détail de la personne.
+1. Double-cliquez pour ouvrir les détails de la personne.
 
    ![](assets/update-person-data-3.png)
 
@@ -44,7 +44,7 @@ Imaginons que dans votre salon récent, une personne vous ait donné des coordon
    >
    >Il existe de nombreuses façons de mettre à jour les données de personne dans Marketo. Voir [Importer une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} et [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
-## Mise à jour des données personnelles {#update-the-person-data}
+## Mettre à jour les données de personne {#update-the-person-data}
 
 1. Saisissez les nouvelles informations que vous avez reçues, puis fermez l’onglet.
 
@@ -52,20 +52,20 @@ Imaginons que dans votre salon récent, une personne vous ait donné des coordon
 
 >[!CAUTION]
 >
->* Assurez-vous que les adresses électroniques contiennent uniquement des caractères ASCII.
+>* Assurez-vous que les adresses e-mail contiennent uniquement des caractères ASCII.
 >
->* Marketo ne prend pas **en charge les adresses électroniques contenant des émoticônes.**
+>* Marketo ne prend **pas** en charge les adresses e-mail contenant des émoticônes.
 
 >[!NOTE]
 >
->Une fois les données modifiées, les listes intelligentes et les campagnes intelligentes reconnaissent immédiatement les nouvelles informations.
+>Une fois que vous avez modifié les données, les listes intelligentes et les campagnes intelligentes reconnaissent immédiatement les nouvelles informations.
 
 ## Mission accomplie {#mission-complete}
 
-Beau boulot ! Vous avez mis à jour vos données personnelles.
+Joli travail ! Vous avez mis à jour vos données de personne.
 
 <br> 
 
 [◄ Mission 8 : Alerter le représentant commercial](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Mission 10 : redirection d’une page d’entrée ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Mission 10 : Rediriger une page de destination ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

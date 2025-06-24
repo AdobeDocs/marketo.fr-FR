@@ -1,79 +1,79 @@
 ---
 unique-page-id: 4720253
-description: Notes de mise à jour - Décembre 2014 - Documents Marketo - Documentation du produit
-title: Notes de mise à jour - Décembre 2014
+description: Notes De Mise À Jour - Décembre 2014 - Documents Marketo - Documentation Du Produit
+title: Notes De Mise À Jour - Décembre 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 2%
+source-wordcount: '461'
+ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : décembre 2014 {#release-notes-december}
+# Notes De Mise À Jour : Décembre 2014 {#release-notes-december}
 
-Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Après la publication de la version, veillez à revenir à la page de liens vers des articles détaillés pour chaque fonctionnalité.
+Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité.
 
-## Rapports de statistiques de ventes {#sales-insight-reports}
+## [!DNL Sales Insight] Reports {#sales-insight-reports}
 
-Le [ rapport Performances des emails de Sales Insight ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) vous permet d’afficher les mesures des emails par email et par représentant commercial. Il prend en charge les emails envoyés par l’intermédiaire de Salesforce, Microsoft Dynamics, le module externe Outlook et le module externe Gmail.
+Le [[!DNL Sales Insight]  Rapport sur les performances des e-mails ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permet d’afficher les mesures par e-mail et par représentant commercial. Il prend en charge les e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics], le plug-in [!DNL Outlook] et le plug-in [!DNL Gmail].
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Audiences personnalisées Facebook {#facebook-custom-audiences}
+## [!DNL Facebook] d’audiences personnalisées {#facebook-custom-audiences}
 
-Une fois que votre administrateur Marketo a ajouté [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [remplacer une audience personnalisée Facebook par des pistes provenant d’une liste statique ou dynamique Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Recherchez la nouvelle icône Facebook au bas de la grille de piste d’une liste statique ou dynamique.
+Une fois que votre administrateur Marketo a ajouté des [[!DNL Facebook] via [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), vous pouvez facilement créer, mettre à jour ou [remplacer une audience personnalisée [!DNL Facebook] par des prospects provenant d’une liste dynamique ou statique Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Recherchez la nouvelle icône [!DNL Facebook] au bas de la grille de prospect de toute liste statique ou dynamique.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
-## Amélioration du clonage entre espaces de travail  {#improved-cloning-across-workspaces}
+## Clonage Amélioré Sur Plusieurs Espaces De Travail  {#improved-cloning-across-workspaces}
 
-[Le clonage d&#39;un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) vers un autre espace de travail n&#39;a jamais été aussi facile ! Lorsque vous cliquez sur cloner, vous sélectionnez l’espace de travail de destination. Finis le clonage dans un dossier, puis le déplacement du dossier !
+[Clonage d’un programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) vers un autre espace de travail n’a jamais été aussi facile ! Lorsque vous cliquez sur cloner, vous sélectionnez l’espace de travail de destination. Plus besoin de cloner un dossier, puis de le déplacer !
 
 >[!NOTE]
 >
->Cette nouvelle fonctionnalité de clonage n’est disponible que pour les programmes pour le moment.
+>Actuellement, cette nouvelle fonctionnalité de clonage n’est disponible que pour les programmes.
 
 ![](assets/image2014-12-5-11-3a7-3a13.png)
 
 ## Liste dynamique de référence {#reference-smart-list}
 
-[Les listes dynamiques partagées avec un autre espace de travail peuvent être référencées](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) lors de la création d’une liste ou d’un flux dynamique.
+[Les listes dynamiques partagées avec un autre espace de travail peuvent être référencées](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) lors de la création d’une liste dynamique ou d’un flux.
 
 ## Amélioration de l’importation des listes {#list-import-improvements}
 
-[Importer des fichiers](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codés en UTF-16, Shift-JIS ou EUC-JP. Nous continuons à prendre en charge les fichiers codés UTF-8.
+[Importer des fichiers](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codés en UTF-16, Shift-JIS ou EUC-JP. Nous continuons à prendre en charge les fichiers codés au format UTF-8.
 
-## Suivi de liens dans les scripts de courrier électronique {#link-tracking-in-email-scripting}
+## Suivi des liens dans les scripts d’e-mail {#link-tracking-in-email-scripting}
 
-Les liens dans les scripts de courrier électronique seront désormais suivis et disponibles dans le rapport Performance de lien de courrier électronique .
+Les liens inclus dans les scripts d’e-mail seront désormais suivis et disponibles dans le rapport Performance du lien d’e-mail.
 
-## Paramètre d’encodage du jeton {#token-encoding-setting}
+## Paramètre d’encodage de jeton {#token-encoding-setting}
 
-Nous avons déployé une nouvelle fonctionnalité de sécurité pour HTML automatiquement les jetons de codage, qui seront activés par défaut en mars 2015. Dans l’intervalle, activez cette fonctionnalité dans la gestion des champs pour tester le comportement à l’avance. Tous les jetons de piste et de société seront codés lorsqu’ils seront insérés dans les emails ou les landing pages. Des options seront également disponibles pour les champs individuels.
+Nous avons déployé une nouvelle fonctionnalité de sécurité pour coder automatiquement les jetons HTML, qui sera activée par défaut en mars 2015. D’ici là, activez cette fonctionnalité dans Gestion des champs pour tester le comportement à l’avance. Tous les jetons de prospect et d’entreprise seront codés lorsqu’ils seront insérés dans des e-mails ou des landing pages. Des options seront également disponibles pour chaque champ.
 
-## Nouveaux appels API ReST {#new-rest-api-calls}
+## Nouveaux appels de l’API REST {#new-rest-api-calls}
 
-Trois nouveaux appels pour l’API Lead &amp; Activity ReST :
+Trois nouveaux appels pour l’API REST de lead et d’activité :
 
-・ Obtenir des partitions de piste
+· Obtenir les partitions de lead
 
-・ Associer le prospect
+· Responsable associé
 
-・ Fusionner le prospect
+· Fusionner le prospect
 
-Des détails complets seront disponibles après la version à l’adresse [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
+Des détails complets seront disponibles après la publication sur [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
-## Améliorations de la compatibilité Javascript Munchkin {#munchkin-javascript-compatibility-enhancements}
+## Améliorations de la compatibilité [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 
-Nous avons apporté plusieurs améliorations mineures à Munchkin afin de garantir qu’il continue à se charger rapidement et de fonctionner comme vous le souhaitez avec d’autres JavaScript sur la page.
+Nous avons apporté plusieurs améliorations mineures à [!DNL Munchkin] pour nous assurer qu’il continue à se charger rapidement et à fonctionner comme souhaité dans les cas avec d’autres JavaScript sur la page.
 
-Le déploiement débutera à la mi-décembre et se poursuivra au cours des prochains mois.
+Le déploiement commencera à la mi-décembre et se poursuivra au cours des prochains mois.
 
-## Représentation et ressenti de la mise à niveau de l’explorateur de recettes {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Explorateur de chiffre d’affaires] mise à niveau de l’apparence {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -81,16 +81,16 @@ Le déploiement débutera à la mi-décembre et se poursuivra au cours des proch
 
 ![](assets/image2014-12-5-11-3a8-3a36.png)
 
-## RTP : Module de liste de comptes nommés {#rtp-named-account-list-module}
+## RTP : module de liste de comptes nommés {#rtp-named-account-list-module}
 
-Gérez et surveillez vos comptes à haut rendement clés dans la nouvelle page Comptes nommés . Chargez de nouvelles listes de comptes nommés pour identifier et cibler ces organisations. Nous avons automatisé le processus vous offrant davantage de contrôle et de flexibilité pour mettre en oeuvre vos plans marketing basés sur les comptes et cibler vos comptes clés sur différents canaux (web et publicité).
+Gérez et surveillez vos comptes clés à haut rendement dans la nouvelle page [!UICONTROL Comptes nommés]. Chargez de nouvelles listes de comptes nommés pour identifier et cibler ces organisations. Nous avons automatisé le processus pour vous offrir plus de contrôle et de flexibilité afin de mettre en œuvre vos plans marketing basés sur les comptes et de cibler vos comptes clés sur différents canaux (web et publicité).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
 ![](assets/image2014-12-5-11-3a9-3a10.png)
 
-## RTP : effet glissant pour les campagnes dans les zones {#rtp-sliding-effect-for-in-zone-campaigns}
+## RTP : effet glissant pour les campagnes In Zone {#rtp-sliding-effect-for-in-zone-campaigns}
 
-Nous avons ajouté un nouvel effet Sliding pour les campagnes In Zone afin que votre contenu personnalisé puisse glisser en place au chargement de la page.
+Ajout d’un nouvel effet Glissant pour les campagnes In Zone. Votre contenu personnalisé peut ainsi glisser jusqu’à sa position au chargement de la page.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)

@@ -1,36 +1,36 @@
 ---
 unique-page-id: 2951103
-description: Notes de mise à jour - Février 2013 - Documents Marketo - Documentation du produit
-title: Notes de mise à jour - Février 2013
+description: Notes De Mise À Jour - Février 2013 - Documents Marketo - Documentation Du Produit
+title: Notes De Mise À Jour - Février 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# Notes de mise à jour : février 2013 {#release-notes-february}
+# Notes De Mise À Jour : Février 2013 {#release-notes-february}
 
-La version de février comprend une fonctionnalité très demandée, la prise en charge d’Apple Safari et d’autres petites améliorations.
+La version de février comprend une fonctionnalité très demandée, la prise en charge de [!DNL Apple Safari] et d’autres petites améliorations.
 
-## Assistance officielle pour Apple Safari {#official-support-for-apple-safari}
+## Soutien officiel à [!DNL Apple Safari] {#official-support-for-apple-safari}
 
-Les dernières versions d’Apple Safari pour Mac et Windows sont entièrement prises en charge pour une utilisation avec la gestion des pistes Marketo. Remarque : Safari sur iOS n’est pas entièrement compatible.
+Les dernières versions d’[!DNL Apple Safari] pour Mac et [!DNL Windows] sont entièrement prises en charge pour une utilisation avec la gestion des prospects Marketo. Remarque : [!DNL Safari] sur iOS n’est pas entièrement compatible.
 
-## Améliorations apportées aux webhooks {#webhooks-enhancements}
+## Améliorations des Webhooks {#webhooks-enhancements}
 
-Webhooks est amélioré de manière à ajouter des jetons d’échappement dans l’URL/la payload et peut également mettre à jour les champs de piste Marketo en analysant les réponses XML/JSON provenant de systèmes tiers (non disponibles dans Spark SMB Edition).
+Webhooks est amélioré pour échapper les jetons dans l’URL/la payload et peut également mettre à jour les champs de prospect Marketo en analysant les réponses XML/JSON de systèmes tiers (non disponibles dans le [!DNL Spark SMB Edition]).
 
-## Point de terminaison d’API SOAP mis à jour {#updated-soap-api-endpoint}
+## Point d’entrée de l’API SOAP mis à jour {#updated-soap-api-endpoint}
 
-Le point de terminaison d’API SOAP préféré a été mis à jour, comme illustré dans l’API Admin -> SOAP. Mettez à jour vos appels pour utiliser ce nouveau point de terminaison. Les appels d’API vers l’ancien point de terminaison sont obsolètes, mais continueront à fonctionner. (API SOAP non disponible dans Spark SMB Edition)
+Le point d’entrée préféré de l’API SOAP a été mis à jour. Il est affiché dans [!UICONTROL Admin] -> API SOAP. Mettez à jour vos appels pour utiliser ce nouveau point d’entrée. Les appels d’API vers l’ancien point d’entrée sont obsolètes, mais continueront à fonctionner. (API SOAP non disponible dans le [!DNL Spark SMB Edition])
 
-## Prise en charge mobile des onglets Facebook {#mobile-support-for-facebook-tabs}
+## Prise en charge mobile des onglets [!DNL Facebook] {#mobile-support-for-facebook-tabs}
 
-Les onglets facebook publiés à partir de Marketo détectent les périphériques mobiles et les redirigent vers une page d’entrée. Cela permet de s’assurer que l’utilisateur obtient le contenu approprié sur les appareils mobiles sur lesquels les onglets Facebook ne sont pas pris en charge (disponible dans Spark, Standard, Select SMB Editions et Marketo Social Marketing).
+[!DNL Facebook] onglets publiés depuis Marketo détectent les appareils mobiles et les acheminent vers une page de destination. Cela permet de s’assurer que l’utilisateur obtient le contenu approprié sur les appareils mobiles sur lesquels les onglets [!DNL Facebook] ne sont pas pris en charge (disponibles dans [!DNL Spark], [!DNL Standard], [!DNL Select SMB Editions] et [!DNL Marketo Social Marketing]).
 
-## Bientôt : prise en charge de plusieurs modèles {#coming-soon-support-for-multiple-models}
+## Prochainement : prise en charge de plusieurs modèles {#coming-soon-support-for-multiple-models}
 
-Nous préparons le terrain pour la prise en charge de plusieurs modèles de cycle des revenus, a voté #1 idée pour RCA dans la Communauté, dans une prochaine version. Dans cette version, vous remarquerez quelques modifications, notamment [Filtres de liste dynamique et Ajouter des choix dans les étapes de flux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) pour prendre en charge la sélection d’un modèle et d’une étape. Nous déplaçons également les champs Intervalle de piste et Modèle de cycle de recettes de piste hors de l’onglet Grille de piste de liste dynamique.
+Nous jetons les bases pour soutenir plusieurs modèles de cycle de revenus, avons voté #1 idée pour RCA dans la Communauté, dans une prochaine version. Dans cette version, vous remarquerez quelques modifications, notamment [filtres de liste dynamique et Ajouter des choix dans les étapes de flux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) pour prendre en charge la sélection d’un modèle et d’une étape. Nous déplaçons également les champs Étape de revenus de leads et Modèle de cycle de revenus de leads hors de l’onglet Grille de leads de liste dynamique.

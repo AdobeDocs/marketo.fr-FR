@@ -1,19 +1,19 @@
 ---
 unique-page-id: 27656786
-description: Notes de mise à jour - 19 août - Documentation Marketo - Documentation du produit
+description: Notes De Mise À Jour - 19 Août - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - 19 août
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '327'
 ht-degree: 3%
 
 ---
 
 # Notes de mise à jour : 19 août {#release-notes-august}
 
-Les fonctionnalités suivantes sont incluses dans la version du 19 août. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version du 19 août. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
 **_Versions trimestrielles_**
 
@@ -21,33 +21,33 @@ Les fonctionnalités suivantes ont été publiées le 16 août 2019.
 
 ## Engagement Marketo de base {#core-marketo-engage}
 
-* **Extensible Webinar Framework** : gagnez du temps avec Marketo qui  un nouveau webinaire prêt à l’emploi (introduit dans les notes de mise à jour de l’hiver 19) qui transmet en toute transparence les données des fournisseurs de webinaires vers Marketo et vice versa. Cvent et Zoom sont désormais disponibles dans cette nouvelle structure.
-* **Mise à jour de l’API de Campaign dynamique** : gérez les fonctionnalités de cycle de vie de campagne dynamique au fur et à mesure que nous mettons à jour l’interface CRUD (créer, lire, mettre à jour, supprimer).
-* **Mettre à jour la modification de l’API Email Headers** : l’API Update Email Header n’a plus besoin d’un email pour être associé à un modèle afin de mettre à jour les champs d’en-tête, tels que l’objet.
+* **Framework de webinaire extensible** : gagnez du temps avec le nouveau framework de webinaire prêt à l’emploi de Marketo (introduit dans les notes de mise à jour de la version 19 de l’hiver) qui transmet en toute transparence les données des fournisseurs de webinaires à Marketo et vice versa. Cvent et Zoom sont désormais disponibles dans ce nouveau framework.
+* **Mise à jour de l’API Smart Campaign** : gérez les fonctionnalités de cycle de vie des campagnes intelligentes tout en complétant l’interface CRUD (création, lecture, mise à jour, suppression).
+* **Modification de l’API Update Email Headers** : l’API Update Email Header ne nécessite plus qu’un e-mail soit associé à un modèle pour mettre à jour les champs d’en-tête, tels que l’objet.
 
-**Account-Based Marketing** ![(star)](assets/yellow-star.png)
+**Account-Based Marketing** ![(étoile)](assets/yellow-star.png)
 
-* La **correspondance de compte LinkedIn**, auparavant en version bêta, est désormais disponible en général.
-* **AccountAI** est officiellement renommé **en tant que  Profilage de compte**.
+* **[!DNL LinkedIn]correspondance de compte** auparavant en version Beta, est désormais disponible pour tous.
+* **AccountAI** est officiellement rebaptisé **Profil de compte**.
 
 <br> 
 
-**_Mise à jour tout au long du trimestre_**
+**_Publication tout au long du trimestre_**
 
-Les nouveautés suivantes, qui ne sont pas trimestrielles, seront publiées au cours du troisième trimestre et du début du 4e trimestre 2019.
+Les fonctionnalités suivantes sont publiées selon un cycle non trimestriel et seront publiées tout au long du troisième trimestre civil et au début du 4e trimestre 2019.
 
-**Marketo Sales Connect** ![(star)](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![(étoile)](assets/yellow-star.png)
 
-* **Amélioration de la mise en page des pages des personnes :** gérez vos personnes et vos groupes par le biais d’importations de listes et d’actions en bloc dans la nouvelle mise en page des pages des personnes.
+* **Amélioration de la mise en page des personnes :** gérez vos personnes et vos groupes par le biais d’importations de listes et d’actions en bloc dans la nouvelle mise en page des personnes.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile ( ![(star)](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo.
+>Les fonctionnalités signalées par une étoile ( ![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo pour en savoir plus.
 
 >[!NOTE]
 >
->**Dépréciation de TLS 1.0 et 1.1** : pour nous aligner sur la norme de sécurité de classe mondiale d’Adobe, nous allons abandonner la prise en charge de TLS (Transport Layer Security) 1.0 et 1.1 à compter du 13 décembre 2019. Les systèmes qui s’intègrent à Marketo et qui ne sont pas conformes au protocole 1.2 risquent de perdre l’accès aux services de Marketo Engage.
+>**Obsolescence de TLS 1.0 et 1.1** : pour s’aligner sur les normes de sécurité internationales d’Adobe, nous allons abandonner la prise en charge de TLS (Transport Layer Security) 1.0 et 1.1 à compter du 13 décembre 2019. Les systèmes s’intégrant à Marketo et non conformes au protocole 1.2 peuvent perdre l’accès aux services Marketo Engage.
 >
->**Pour maintenir l’accès à votre Marketo Engage, assurez-vous que tous les systèmes clients sont conformes à TLS 1.2 avant le 13 décembre 2019**. Vous trouverez de plus amples informations [ici](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Pour conserver votre accès à Marketo Engage, assurez-vous que tous les systèmes clients sont conformes au protocole TLS 1.2 avant le 13 décembre 2019**. Vous trouverez de plus amples informations [ici](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**__** [Rejoignez-nous](https://engage.marketo.com/August_19_Release_Webinar.html) le 28 août à 13h00 PT/16h00 ET pour un webinaire en direct hébergé par notre équipe produit et découvrez les fonctionnalités incluses dans cette version.
+**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/August_19_Release_Webinar.html) le 28 août à 13 h 00 (heure de Paris) / 16 h 00 (heure de Paris) pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.

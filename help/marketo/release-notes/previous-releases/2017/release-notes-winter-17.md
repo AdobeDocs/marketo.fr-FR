@@ -1,10 +1,9 @@
 ---
 unique-page-id: 12255606
-description: Notes de mise à jour - Hiver 2017 - Documents Marketo - Documentation du produit
-title: Notes de mise à jour - Hiver 2017
+description: Notes De Mise À Jour - Hiver '17 - Documents Marketo - Documentation Du Produit
+title: Notes de mise à jour - Hiver 17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 7%
@@ -13,9 +12,9 @@ ht-degree: 7%
 
 # Notes de mise à jour : hiver 17 {#release-notes-winter}
 
-Les fonctionnalités suivantes sont incluses dans la version de l’hiver 17. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Marketo.
+Les fonctionnalités suivantes sont incluses dans la version d’hiver 17. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
-Cliquez sur les liens de titre pour afficher des articles détaillés pour chaque fonctionnalité.
+Cliquez sur les liens de titre pour afficher les articles détaillés de chaque fonctionnalité.
 
 >[!NOTE]
 >
@@ -23,13 +22,13 @@ Cliquez sur les liens de titre pour afficher des articles détaillés pour chaqu
 
 ## [Correspondance avancée pour les Audiences personnalisées Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
-La correspondance de base utilise uniquement des adresses électroniques, tandis que la nouvelle correspondance avancée utilise sept champs supplémentaires, ce qui augmente le taux de correspondance pour davantage de conversion.
+La correspondance de base utilise uniquement les adresses e-mail, mais la nouvelle correspondance avancée utilise sept champs supplémentaires, ce qui augmente le taux de correspondance pour davantage de conversions.
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API d’importation de l’objet personnalisé](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
+## [API d’importation de l’objet personnalisé](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-Cette API fournit une interface plus rapide pour synchroniser les objets personnalisés dans Marketo. Vous pouvez importer des fichiers de feuille de calcul CSV, TSV ou SSV dans Marketo sous la forme d’objets personnalisés.
+Cette API fournit une interface plus rapide pour synchroniser les objets personnalisés dans Marketo. Vous pouvez importer des fichiers de feuille de calcul CSV, TSV ou SSV dans Marketo en tant qu’objets personnalisés.
 
 ## [Exportation de campagnes Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
@@ -39,7 +38,7 @@ Exportez tous les détails et analyses de vos campagnes web au format CSV. Vous 
 
 ## Localisation {#localization}
 
-Les applications Web Personalization, Predictive Content et Email Insights sont désormais disponibles en allemand, en espagnol et en japonais. Vous [sélectionnez votre langue et le paramètre régional](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) pour afficher votre contenu dans ces langues.
+Les applications Web Personalization, [!UICONTROL Contenu prédictif] et Informations sur les e-mails sont désormais disponibles en japonais, en allemand et en espagnol. Vous [sélectionnez votre langue et vos paramètres régionaux](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) pour afficher votre contenu dans ces langues.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -47,33 +46,33 @@ Les applications Web Personalization, Predictive Content et Email Insights sont 
 
 **[Importer des comptes nommés](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-Avec l’option Importation de compte nommé , créez ou mettez à jour plusieurs enregistrements à la fois via le transfert CSV.
+Avec l’option d’importation [!UICONTROL Compte nommé], créez ou mettez à jour plusieurs enregistrements à la fois par le biais d’un téléchargement CSV.
 
 ![](assets/inatwo.png)
 
-**[Prise en charge des statistiques de messagerie](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
+**[Prise en charge des informations sur les e-mails](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-Utilisez la liste de comptes ou de comptes nommés comme dimensions dans les statistiques sur les e-mails.
+Utilisez [!UICONTROL Compte nommé] ou [!UICONTROL Liste de comptes] comme dimensions dans les informations sur les e-mails.
 
 ![](assets/ei.png)
 
-## Améliorations du contenu prédictif {#predictive-content-enhancements}
+## [!UICONTROL Contenu prédictif] améliorations {#predictive-content-enhancements}
 
-**[Filtrer par Source activé](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrer par [!UICONTROL Source activé]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtrez les éléments de contenu prédictif activés pour le courrier électronique, le contenu multimédia enrichi ou la barre de recommandations.
+Filtrez [!UICONTROL Contenu prédictif] les éléments activés pour [!UICONTROL E-mail], [!UICONTROL Média enrichi] ou la [!UICONTROL Barre de recommandations].
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Filtrage des analyses par Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrer [!UICONTROL Analytics par Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtrez l’analyse de contenu prédictif pour des sources spécifiques - Email, Média enrichi ou Barre de recommandations.
+Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — [!UICONTROL E-mail], [!UICONTROL Média enrichi] ou [!UICONTROL Barre de recommandations].
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**Éditeur Predictive Content**
+**[!UICONTROL Contenu prédictif] éditeur**
 
-Il existe une expérience d’édition et une mise en page améliorées qui divisent la préparation du contenu par source : email, média enrichi ou barre de recommandation.
+[!UICONTROL  L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
 
 ![](assets/predictive-content-editor.png)
 
@@ -81,18 +80,18 @@ Il existe une expérience d’édition et une mise en page améliorées qui divi
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de découverte automatique du contenu.
 
-## [Améliorations apportées au SDK](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [Améliorations De SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
-Les développeurs disposent désormais d’un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer des jetons push.
+Les développeurs ont désormais un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer les jetons push.
 
-## [ Intégration de Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## Intégration de Vibes SMS LaunchPoint
 
-Améliorez votre ciblage grâce à une nouvelle option de filtre, &quot;Membre de la liste des vidéos&quot;.
+Améliorez votre ciblage avec une nouvelle option de filtre, « Membre de la liste Vibes ».
 
-## [Ancienne obsolescence de l’éditeur de texte enrichi et de l’éditeur de formulaire 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Obsolescence de l’ancien éditeur de texte enrichi et de l’éditeur de formulaire 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
-À compter du 1er août 2017, les clients qui utilisent encore l’ancien éditeur de texte enrichi et l’éditeur de formulaire version 1.0 seront automatiquement transférés vers la nouvelle expérience.
+À compter du 1er août 2017, les clients qui utilisent toujours l’ancien éditeur de texte enrichi et l’éditeur de formulaire 1.0 passeront automatiquement à la nouvelle expérience .
 
 ## [API d’activité Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Une modification importante va être apportée aux API d’activité Marketo. Êtes-vous préparée ?
+Une modification importante va être apportée aux API d’activité Marketo. Êtes-vous prêt ?

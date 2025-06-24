@@ -1,80 +1,80 @@
 ---
-description: Notes de mise à jour - Juin 2022 - Documents Marketo - Documentation du produit
-title: Notes de mise à jour - Juin 2022
+description: Notes De Mise À Jour - Juin 2022 - Documents Marketo - Documentation Du Produit
+title: Notes de mise à jour - Juin 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
 
-# Notes de mise à jour : juin 2022 {#release-notes-june-22}
+# Notes De Mise À Jour : Juin 2022 {#release-notes-june-22}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 juin. Vérifiez la disponibilité de vos fonctionnalités dans l’édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 juin. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![star](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, contactez votre représentant Marketo Engage.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
 
-Les fonctionnalités suivantes commenceront à être publiées le **24 juin 2022**, avec un déploiement progressif des fonctionnalités restantes au cours des semaines suivantes (sauf indication contraire).
+Les fonctionnalités suivantes seront publiées le **24 juin 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes (sauf indication contraire).
 
 ## Environnement de données marketing {#marketing-data-environment}
 
-* **Exposer les champs CreatedAt/UpdatedAt pour les objets personnalisés** : vous permet d’examiner ces champs dans l’écran Détails de la personne pour obtenir des informations supplémentaires.
+* **Exposer les champs CreatedAt/UpdatedAt pour les objets personnalisés** : permet d’inspecter ces champs dans l’écran Détails de la personne pour obtenir des insight supplémentaires.
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
-* **Amélioration de l’utilisation de Stream Designer pour Dynamic Chat** : ajoutez des cartes directement à partir du canevas Stream Designer sans avoir à effectuer un glisser-déposer. L’interface du Dynamic Chat a également été améliorée afin d’offrir une meilleure visibilité du contenu dans les cartes individuelles.
+* **Utilisation améliorée de Stream Designer pour les[!DNL Dynamic Chat]** : ajoutez des cartes directement à partir de la zone de travail de Stream Designer sans avoir à effectuer un glisser-déposer. L’interface [!DNL Dynamic Chat] a également été améliorée afin d’offrir une meilleure visibilité du contenu dans les cartes individuelles.
 
-* **Règles de routage de rendez-vous avancées pour le Dynamic Chat** : Dynamic Chat offre davantage d’options de routage de rendez-vous ciblé. Spécifiez les nominations d’agent à router en fonction des attributs du Marketo Engage, en veillant à ce que les prospects soient acheminés vers les agents appropriés.
+* **Règles avancées de routage des rendez-vous pour les[!DNL Dynamic Chat]** : [!DNL Dynamic Chat] offre davantage d’options de routage des rendez-vous ciblé. Spécifiez les rendez-vous d’agent qui doivent être acheminés en fonction des attributs de Marketo Engage, en vous assurant que les prospects sont acheminés vers les agents appropriés.
 
-* **Création de rapports de dialogue avancé pour les Dynamic Chat** : affichez plus en détail les performances de vos campagnes Dynamic Chat à l’aide de toutes nouvelles visualisations de données pour les mesures d’engagement et de conversion.
+* **Rapports de boîte de dialogue avancés pour[!DNL Dynamic Chat]** : affichez plus en détail les performances de vos campagnes [!DNL Dynamic Chat] à l’aide de toutes nouvelles visualisations de données pour les mesures d’engagement et de conversion.
 
-* **Attributs de Marketo Engage non synchronisés pour Dynamic Chat** : attributs de Marketo Engage non synchronisés de votre abonnement de Dynamic Chat qui restent inutilisés, ce qui vous permet de faciliter la propreté des données et de synchroniser d’autres attributs selon vos besoins.
+* **Désynchroniser les attributs Marketo Engage inutilisés pour les[!DNL Dynamic Chat]** : désynchronisez les attributs Marketo Engage de votre abonnement [!DNL Dynamic Chat] qui ne sont pas utilisés, ce qui vous permet de faciliter la propreté des données et de synchroniser d’autres attributs si nécessaire.
 
-## Expérience de nouvelle génération
+## Expérience nouvelle génération
 
-**Nouvelles vues de basculement** : les vues ci-dessous sont désormais disponibles dans l’expérience de nouvelle génération :
+**Nouveau bouton (bascule) des vues** : les vues ci-dessous sont désormais disponibles dans l’expérience de nouvelle génération :
 
-* [Affichage des détails d’un email](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Affichage de liste d’emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Vue Détails de l’e-mail](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [Vue Liste d’e-mails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Automatisation de l’expérience {#experience-automation}
 
-* **Exclusions de règles de validation de champ de formulaire global** : excluez des formulaires spécifiques des règles de validation de formulaire globales pour que les centres d’abonnement et autres processus métier critiques puissent accepter toutes les valeurs.
+* **Exclusions des règles de validation de champ de formulaire global** : excluez des formulaires spécifiques des règles de validation de formulaire global afin que les centres d’abonnements et d’autres workflows critiques pour l’entreprise puissent accepter toutes les valeurs.
 
-* **Étapes de flux en libre-service** : développez la connectivité entre Marketo Engage et le reste de votre pile avec la possibilité de créer des étapes de flux personnalisées à utiliser dans les campagnes dynamiques. Les utilisateurs Marketo Engage et les partenaires peuvent exploiter cette fonctionnalité pour permettre l’utilisation de services web externes dans les campagnes Trigger, Batch et Exécutable, contrairement aux webhooks, qui ne peuvent être utilisés que dans les campagnes Trigger.
+* **Étapes de flux en libre-service** : développez la connectivité entre Marketo Engage et le reste de votre pile avec la possibilité de créer des étapes de flux personnalisées à utiliser dans les campagnes intelligentes. Les utilisateurs et partenaires de Marketo Engage peuvent tirer parti de cette fonctionnalité pour permettre l’utilisation de services web externes dans les campagnes déclencheuses, par lots et exécutables, contrairement aux Webhooks, qui ne peuvent être utilisés que dans les campagnes déclencheuses.
 
-* **Suivi des liens agnostique du protocole Munchkin** : étendez la prise en charge du suivi des liens `tel` et `mailto` avec Munchkin pour suivre un ensemble étendu de comportements web.
+* **Suivi des liens incompatibles avec le protocole Munchkin** : étendez la prise en charge du suivi des liens `tel` et `mailto` avec Munchkin pour suivre l’ensemble étendu des comportements web.
 
-* **Méthodes HTTP supplémentaires pour les webhooks** : spécifiez PUT, PATCH et DELETE comme types de requête pour interagir avec les services web.
+* **Méthodes HTTP supplémentaires pour les Webhooks** : spécifiez PUT, PATCH et DELETE comme types de requête pour interagir avec les services web.
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
-![(star)](assets/yellow-star.png)
+![(étoile)](assets/yellow-star.png)
 
-* **Jeu d’autorisations Sales Insight dans Salesforce** : les administrateurs peuvent fournir un accès Sales Insight à un nombre limité de personnes au niveau de l’utilisateur plutôt qu’au niveau du profil par le biais de l’ensemble d’autorisations Marketo App, qui fait partie du package Sales Insight Salesforce.
+* Jeu d’autorisations **[!DNL Sales Insight]dans[!DNL Salesforce]** : les administrateurs peuvent fournir un accès [!DNL Sales Insight] à un ensemble limité de personnes au niveau de l’utilisateur plutôt qu’au niveau du profil via le jeu d’autorisations de l’application Marketo, qui fait partie du package d’[!DNL Salesforce] [!DNL Sales Insight].
 
-* **Mise à jour de la mosaïque Mon Marketo - Actions d’aperçu des ventes** : les administrateurs de Marketo (et les utilisateurs qu’ils désignent) peuvent désormais accéder rapidement à leur instance d’actions d’aperçu des ventes via une nouvelle mosaïque d’actions d’aperçu des ventes située sur la page Mon Marketo.
+* **My Marketo Tile Update - [!DNL Sales Insight] Actions** : les administrateurs Marketo (et les utilisateurs qu’ils désignent) peuvent désormais accéder rapidement à leur instance [!DNL Sales Insight] Actions via une nouvelle mosaïque [!DNL Sales Insight] Actions située sur la page My Marketo.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
-![(star)](assets/yellow-star.png)
+![(étoile)](assets/yellow-star.png)
 
-* **Mise à jour de l’API Salesforce** : avec la version d’été 22 de Salesforce, les versions héritées de l’API 21-30 ne seront plus prises en charge par Salesforce. Avec cette version de Marketo Engage, toutes les demandes de Sales Connect utilisant des versions d’API héritées ont été mises à jour afin de rester dans une version prise en charge. Pour plus d’informations sur les plans de retraite de l’API Salesforce, cliquez [ici](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
+* **[!DNL Salesforce]mise à jour de l’API** : avec la version [!DNL Salesforce] de l’été 2022, les anciennes versions 21 à 30 de l’API ne seront plus prises en charge par [!DNL Salesforce]. Avec cette version de Marketo Engage, toutes les requêtes [!DNL Sales Connect] utilisant des versions d’API héritées ont été mises à jour afin de rester dans une version prise en charge. Pour plus d&#39;informations sur les plans de retraite des API [!DNL Salesforce], cliquez [ici](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
 
-## Améliorations des API {#api-enhancements}
+## Améliorations de l’API {#api-enhancements}
 
-* **Nouvelles fonctionnalités de filtrage pour l’API Bulk Program Adtract** : filtrez par statut d’adhésion au programme, mise à jour d’At, de cadence ou de contenu épuisé pour affiner le jeu de données extrait.
+* **Nouvelles fonctionnalités de filtrage pour l’API d’extraction de membre de programme en bloc** : filtrez par statut d’appartenance au programme, updatedAt, cadence ou contenu épuisé pour affiner le jeu de données extrait.
 
-* **Amélioration de l’API d’extraction de membre de programme en masse** : spécifiez jusqu’à 10 programmes pendant la création de tâche pour améliorer le débit.
+* **Amélioration de l’API d’extraction des membres de programme en bloc** : spécifiez jusqu’à 10 programmes lors de la création de tâche pour améliorer le débit.
 
 ## Annonces {#announcements}
 
-* **Dépréciation de Forms - Forms 1.0, point de terminaison Capture/enregistrement de piste et versions sans script des formulaires** : la prise en charge des ressources Forms 1.0 sera complètement supprimée de Marketo Engage d’ici octobre 2022. Toutes les ressources Forms 1.0 existantes cesseront de fonctionner. Les formulaires Marketo Engage nécessitent JavaScript pour être chargés sur les landing pages et les sites web.
+* **Obsolescence de Forms : Forms 1.0, point d’entrée de capture/enregistrement de prospect et versions de formulaires sans script** : la prise en charge des ressources Forms 1.0 sera complètement supprimée de Marketo Engage d’ici octobre 2022. Toutes les ressources Forms 1.0 existantes cesseront de fonctionner. Les formulaires Marketo Engage devront être chargés sur des pages de destination et des sites web sous JavaScript.
 
-**_Webinaire sur la version du produit_**
+**_Webinaire de mise à jour du produit_**
 
-[Webinaire de mise à jour des Marketo Engage de juin et août 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Webinaire de mise à jour de Marketo Engage juin et août 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

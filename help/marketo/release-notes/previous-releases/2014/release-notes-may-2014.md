@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2951044
-description: Notes de mise à jour - Mai 2014 - Documentation Marketo - Documentation du produit
-title: Notes de mise à jour - Mai 2014
+description: Notes De Mise À Jour - Mai 2014 - Documents Marketo - Documentation Du Produit
+title: Notes De Mise À Jour - Mai 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : mai 2014 {#release-notes-may}
+# Notes De Mise À Jour : Mai 2014 {#release-notes-may}
 
-Les fonctionnalités suivantes sont incluses dans la version de mai 2014. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Après la publication de la version, veillez à revenir à la page pour trouver des liens vers des articles détaillés de la base de connaissances pour chaque fonctionnalité.
+Les fonctionnalités suivantes sont incluses dans la version de mai 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés de la base de connaissances pour chaque fonctionnalité.
 
 ## Supprimer l&#39;espace de travail {#delete-workspace}
 
-Vous pouvez désormais [supprimer un espace de travail inutilisé](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Veillez à déplacer toutes les ressources dans un autre espace de travail avant de tenter de supprimer l’espace de travail.
+Vous pouvez maintenant [supprimer un espace de travail inutilisé](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Veillez à déplacer toutes les ressources dans un autre espace de travail avant d’essayer de supprimer l’espace de travail.
 
-## Planifier la première diffusion {#schedule-first-cast}
+## Planifier le premier lancer {#schedule-first-cast}
 
-Dans les programmes d’engagement, vous pouvez planifier la date de la [première diffusion à exécuter](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Par exemple, indiquez la cadence à toutes les 2 semaines et sélectionnez la date de la première diffusion.
+Dans les programmes d’engagement, vous pouvez planifier la date de la [première diffusion](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Par exemple, spécifiez la cadence toutes les 2 semaines et sélectionnez la date du premier cast.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -29,11 +29,11 @@ Dans les programmes d’engagement, vous pouvez planifier la date de la [premiè
 
 ## Programmes d’engagement améliorés {#enhanced-engagement-programs}
 
-Maintenant tout le monde obtient de multiples programmes, flux et limites de communication.
+Maintenant, tout le monde obtient plusieurs programmes, flux et limites de communication.
 
-## Suivi de liens dans les emails texte {#link-tracking-in-text-emails}
+## Suivi des liens dans les e-mails texte {#link-tracking-in-text-emails}
 
-[Ajoutez des crochets doubles](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) autour des URL dans la version texte de vos emails pour indiquer quand les liens doivent être convertis en liens de suivi Marketo redirigés.
+[Ajoutez des crochets doubles](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) autour des URL dans la version texte de vos e-mails, pour indiquer quand les liens doivent être convertis en liens de suivi Marketo redirigés.
 
 >[!NOTE]
 >
@@ -41,44 +41,44 @@ Maintenant tout le monde obtient de multiples programmes, flux et limites de com
 >
 >`[[https://www.marketo.com]]`
 
-Par défaut, aucun lien ne sera suivi dans la version texte des emails. Ajoutez cette nouvelle syntaxe pour indiquer à quel moment un lien doit être converti en lien de tracking. Le comportement des liens d’HTML reste inchangé.  Pour ajouter des liens trackés à vos emails :
+Par défaut, aucun lien ne sera suivi dans la version texte des e-mails. Ajoutez cette nouvelle syntaxe pour indiquer à quel moment un lien doit être converti en lien de suivi. Le comportement des liens HTML est inchangé.  Pour ajouter des liens suivis à vos e-mails :
 
-* **Version de l&#39;HTML :** insérez simplement votre lien. Il sera suivi par défaut.
-* **Version texte :** Saisissez l’URL entourée de deux crochets.
+* **Version d’HTML :** il vous suffit d’insérer votre lien. Il sera suivi par défaut.
+* **Version texte :** saisissez l’URL entourée de doubles crochets.
 
-Pour ajouter des liens non trackés à vos emails :
+Pour ajouter des liens non suivis à vos e-mails :
 
-* **HTML version :** Insérez votre lien et ajoutez la classe &quot;mktNoTrack&quot; au lien.
-* **Version texte :** Saisissez simplement l’URL. Par défaut, il sera détracké.
+* **Version d’HTML :** insérez votre lien et ajoutez la classe « mktNoTrack » au lien.
+* **Version texte :** il vous suffit de saisir l’URL. Il ne sera pas suivi par défaut.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
 
-## Balisage de lien dans des exemples de courrier électronique {#link-markup-in-sample-emails}
+## Balisage de lien dans les exemples d’e-mails {#link-markup-in-sample-emails}
 
-Découvrez le comportement de vos liens dans les emails à l’avance. Les exemples d’emails affichent désormais les liens exactement comme ils apparaissent dans vos pistes. Prévisualiser les liens qui ont été convertis en liens de tracking, afin de mieux comprendre comment le message apparaîtra réellement aux destinataires.
+Découvrez comment vos liens se comporteront dans les e-mails à l’avance. Les exemples d’e-mails affichent désormais les liens tels qu’ils apparaîtraient à vos prospects. Prévisualisez les liens qui ont été convertis en liens de suivi, ce qui vous permet de mieux comprendre comment le message apparaîtra réellement aux destinataires.
 
-## Abandonner la campagne {#abort-campaign}
+## [!UICONTROL Abandonner la campagne] {#abort-campaign}
 
-Ne paniquez pas ! Si vous constatez une erreur, utilisez le nouveau bouton [abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) pour arrêter immédiatement les campagnes dans leur suivi. Vous recevrez une notification indiquant le nombre de pistes en attente à chaque étape de flux lorsque la campagne a été arrêtée.
+Ne paniquez pas ! Si vous trouvez une erreur, utilisez le nouveau bouton [abandonner la campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) pour arrêter immédiatement les campagnes dont ils sont le siège. Vous recevrez une notification indiquant le nombre de leads en attente dans chaque étape de flux lorsque la campagne a été arrêtée.
 
-## Statistiques des ventes en japonais, portugais et espagnol {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Sales Insight] en japonais, portugais et espagnol {#sales-insight-in-japanese-portuguese-and-spanish}
 
-Téléchargez la dernière version de Sales Insight depuis AppExchange afin que vos agents de vente hispanophones, portugais et japonais consultent le contenu de Sales Insight dans la langue de leur choix.
+Téléchargez la dernière version d’[!UICONTROL Sales Insight] depuis AppExchange afin que vos agents commerciaux parlant le japonais, le portugais et l’espagnol voient le contenu [!UICONTROL Sales Insight] dans leur langue préférée.
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
-## État du programme et période de succès dans l’analyse de l’adhésion au programme {#program-status-and-success-timeframe-in-program-membership-analysis}
+## Statut du programme et calendrier de réussite dans l’analyse des adhésions au programme {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Affichez le nombre de membres [présents dans chaque état de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) et lorsqu’ils ont changé en état, y compris la date à laquelle ils ont atteint le succès du programme.
+Affichez le nombre de [membres) présents dans chaque statut de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) et le moment où ils sont passés à chaque statut, y compris la date à laquelle ils ont atteint le succès du programme.
 
-## Emails de test A/B dans l’analyse des emails {#a-b-test-emails-in-email-analysis}
+## E-mails de test A/B dans [!UICONTROL Analyse des e-mails] {#a-b-test-emails-in-email-analysis}
 
-Créez des rapports sur chacune de vos [variantes d’emails de test A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) dans l’analyse des emails.
+Créez un rapport sur chacune de vos variantes d’e-mail de test A/B [A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) dans [!UICONTROL Analyse des e-mails].
 
-## Modifications des packages Analytics {#analytics-packaging-changes}
+## Modifications du package Analytics {#analytics-packaging-changes}
 
-Les outils Recettes Cycle Modeler et Succès Path Analyzer sont désormais inclus dans MA Standard Edition.
+Revenue Cycle Modeler et Success Path Analyzer sont désormais inclus dans l’édition standard de MA.
 
 ## Informations sur la plateforme mobile {#mobile-platform-info}
 
-[Segmenter et déclencher](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) l’ouverture et le clic de pistes à partir de leurs appareils mobiles.
+[Segmenter et déclencher](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) hors des prospects ouvrant et cliquant sur des e-mails à partir de leurs appareils mobiles.

@@ -1,92 +1,92 @@
 ---
 unique-page-id: 2359416
-description: Réponse automatique aux courriers électroniques - Documents Marketo - Documentation du produit
+description: Réponse automatique aux e-mails - Documents Marketo - Documentation du produit
 title: Réponse e-mail automatique
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '380'
 ht-degree: 10%
 
 ---
 
 # Réponse e-mail automatique {#email-auto-response}
 
-## Mission : envoyer un email de remerciement lorsqu’une personne remplit un formulaire {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Mission : envoyer un e-mail de remerciement lorsqu’une personne remplit un formulaire {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
->* [Configurer et ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Page d’entrée avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [ Page de destination avec un formulaire ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Étape 1 : Créer un e-mail {#step-create-an-email}
 
-1. Accédez à la zone **[!UICONTROL Activités marketing]**.
+1. Accédez à la zone [!UICONTROL Activités marketing].
 
    ![](assets/email-auto-response-1.png)
 
-1. Sélectionnez votre programme dans le menu de gauche, cliquez sur la liste déroulante **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
+1. Sélectionnez votre programme dans le menu de gauche, cliquez sur le menu déroulant **[!UICONTROL Nouveau]**, puis sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/email-auto-response-2.png)
 
-1. Sélectionnez **[!UICONTROL Email]**.
+1. Sélectionnez **[!UICONTROL E-mail]**.
 
    ![](assets/email-auto-response-3.png)
 
-1. Nommez votre email &quot;Email de réponse automatique&quot;, choisissez un modèle, puis cliquez sur **[!UICONTROL Créer]**.
+1. Nommez votre e-mail « Réponse automatique », choisissez un modèle, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/email-auto-response-4.png)
 
-   Un éditeur de courrier électronique s’ouvre dans une nouvelle fenêtre ou un nouvel onglet. Si les fenêtres contextuelles sont bloquées, cliquez sur **[!UICONTROL Modifier la version préliminaire]** sur la page de résumé de la ressource pour accéder au courrier électronique.
+   Un éditeur d’e-mail s’ouvre dans une nouvelle fenêtre ou un nouvel onglet. Si les pop-ups sont bloqués, cliquez sur **[!UICONTROL Modifier le brouillon]** sur la page de résumé de la ressource pour accéder à l’e-mail.
 
-1. Entrez un objet, puis double-cliquez sur la zone modifiable de l’email.
+1. Saisissez l’objet, puis double-cliquez sur la zone modifiable de l’e-mail.
 
    ![](assets/email-auto-response-5.png)
 
-   _Un éditeur de texte enrichi s’ouvre en haut de l’éditeur de courrier électronique._
+   _Un éditeur de texte enrichi s’ouvre au-dessus de l’éditeur d’e-mail._
 
-1. Mettre en surbrillance le contenu de l&#39;email existant.
+1. Mettez en surbrillance le contenu de l’e-mail existant.
 
    ![](assets/email-auto-response-6.png)
 
-1. Saisissez votre contenu d&#39;email et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez le contenu de l’e-mail, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/email-auto-response-7.png)
 
-1. Cliquez sur la liste déroulante **[!UICONTROL Actions de courrier électronique]** et sélectionnez **[!UICONTROL Approuver et fermer]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions liées à l’e-mail]** et sélectionnez **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/email-auto-response-8.png)
 
 ## Étape 2 : Créer une campagne intelligente {#step-create-a-smart-campaign}
 
-1. Sélectionnez votre programme, cliquez sur la liste déroulante **[!UICONTROL New]** et sélectionnez **[!UICONTROL New Smart Campaign]**.
+1. Sélectionnez votre programme, cliquez sur la liste déroulante **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle campagne intelligente]**.
 
    ![](assets/email-auto-response-9.png)
 
-1. **Nommez** votre campagne dynamique &quot;Campagne de réponse automatique&quot; et cliquez sur **[!UICONTROL Créer]**.
+1. **Nommez** la campagne intelligente « Campagne de réponse automatique », puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/email-auto-response-10.png)
 
-1. Accédez à l’onglet **[!UICONTROL Liste dynamique]** .
+1. Accédez à l’onglet **[!UICONTROL Liste dynamique]**.
 
    ![](assets/email-auto-response-11.png)
 
-   Nous configurons cette campagne pour qu’elle s’exécute chaque fois qu’une personne remplit le formulaire que vous avez créé dans [**Landing Page with a Form**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
+   Nous configurons cette campagne pour qu’elle s’exécute chaque fois qu’une personne remplit le formulaire que vous avez créé dans [**Page de destination avec un formulaire**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
 
-1. Recherchez et faites glisser le déclencheur **[!UICONTROL Remplit le formulaire]** sur la zone de travail.
+1. Recherchez le déclencheur **[!UICONTROL Remplit le formulaire]** et faites-le glisser vers la zone de travail.
 
    ![](assets/email-auto-response-12.png)
 
-1. Sélectionnez **[!UICONTROL Mon formulaire]** dans la liste déroulante. Cliquez ensuite sur l’onglet **[!UICONTROL Flux]** .
+1. Sélectionnez **[!UICONTROL Mon formulaire]** dans la liste déroulante. Cliquez ensuite sur l’onglet **[!UICONTROL Flux]**.
 
    ![](assets/email-auto-response-13.png)
 
-1. Faites glisser l’action de flux **[!UICONTROL Envoyer un courrier électronique]** vers le canevas de gauche.
+1. Faites glisser l’action de flux **[!UICONTROL Envoyer un e-mail]** vers la zone de travail de gauche.
 
    ![](assets/email-auto-response-14.png)
 
-1. Sélectionnez votre **courriel de réponse automatique**. Cliquez ensuite sur l’onglet **[!UICONTROL Planning]** .
+1. Sélectionnez l’option **Réponse automatique aux e-mails**. Cliquez ensuite sur l’onglet **[!UICONTROL Planifier]**.
 
    ![](assets/email-auto-response-15.png)
 
@@ -108,17 +108,17 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->Une fois active, cette campagne s’exécute chaque fois qu’une personne remplit le formulaire spécifié. La campagne continue à s’exécuter jusqu’à ce qu’elle soit désactivée.
+>Une fois active, cette campagne s’exécute chaque fois qu’une personne remplit le formulaire spécifié. La campagne continue de s’exécuter jusqu’à ce qu’elle soit désactivée.
 
 ## Étape 3 : Remplir le formulaire {#step-fill-out-the-form}
 
-1. Sélectionnez **Ma page** (cela a été créé dans la [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} quick win) et cliquez sur **[!UICONTROL Preview]** (Aperçu).
+1. Sélectionnez **Ma page** (cela a été créé dans le [Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} gain rapide) et cliquez sur **[!UICONTROL Aperçu]**.
 
    ![](assets/email-auto-response-20.png)
 
-   _Votre page d’entrée &quot;Essai gratuit&quot; s’ouvre dans un nouvel onglet._
+   _Votre page de destination « Essai gratuit » s’ouvre dans un nouvel onglet._
 
-1. Remplissez le formulaire avec votre prénom, votre nom et votre adresse électronique, puis cliquez sur **[!UICONTROL Submit]**.
+1. Remplissez le formulaire avec votre prénom, votre nom et votre adresse e-mail, puis cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/email-auto-response-21.png)
 
@@ -128,10 +128,8 @@ ht-degree: 10%
 
 ## Mission accomplie {#mission-complete}
 
-Dans quelques minutes, vous devriez voir l’e-mail de réponse automatique dans votre boîte de réception. Bon boulot !
+En quelques minutes, l’e-mail de réponse automatique devrait s’afficher dans votre boîte de réception.
 
-<br> 
-
-[◄ Mission 3 : notation simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[◄ Mission 3 : Score Simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
 [Mission 5 : Importer une liste de personnes ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

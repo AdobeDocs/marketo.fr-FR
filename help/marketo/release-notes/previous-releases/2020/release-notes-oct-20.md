@@ -4,10 +4,10 @@ description: Notes De Mise À Jour - Octobre 20 - Documents Marketo - Documentat
 title: Notes De Mise À Jour - Oct 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '957'
-ht-degree: 1%
+source-wordcount: '936'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’octobre 2020. V
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Pour en savoir plus, veuillez contacter votre représentant de Marketo Engage.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes seront publiées le **16 octobre 2020**.
 
@@ -33,21 +33,21 @@ Les fonctionnalités suivantes sont incluses dans la version d’octobre 2020. V
 
 ## Marketing de site web {#website-marketing}
 
-* **Automatisation du code des formulaires intégrés** : achetez plus de prospects avec les formulaires de Marketo Engage intégrés dans vos pages de destination sécurisées hébergées en dehors de Marketo. Le code incorporé du formulaire est automatiquement mis à jour pour inclure le nom de domaine de la page de destination et élimine le travail manuel pour les développeurs web. Le domaine personnalisé dans le lien du code améliore les expériences de navigation sur le site web et l’utilisation des formulaires.
+* **Automatisation du code des formulaires intégrés** : achetez plus de prospects avec les formulaires Marketo Engage intégrés dans vos pages de destination sécurisées hébergées en dehors de Marketo. Le code incorporé du formulaire est automatiquement mis à jour pour inclure le nom de domaine de la page de destination et élimine le travail manuel pour les développeurs web. Le domaine personnalisé dans le lien du code améliore les expériences de navigation sur le site web et l’utilisation des formulaires.
 
-## Intégration Experience Cloud {#experience-cloud-integration}
+## Intégration d’Experience Cloud {#experience-cloud-integration}
 
-* **Synchronisation continue de l’audience de Adobe Experience Cloud vers Marketo Engage** : la cible mène avec Marketo Engage en fonction des données d’intention propriétaires d’Adobe Analytics, de Adobe Audience Manager ou d’Adobe Real-Time CDP. Mettez automatiquement à jour les listes statiques du Marketo Engage par une synchronisation continue, ajoutez des prospects aux programmes d’engagement ou d’e-mail et avertissez les ventes lorsque les prospects sont prêts.
+* **Synchronisation continue de l’audience de Adobe Experience Cloud vers Marketo Engage** : la cible mène avec Marketo Engage en fonction des données d’intention propriétaires d’Adobe Analytics, de Adobe Audience Manager ou d’Adobe Real-Time CDP. Mettez automatiquement à jour les listes statiques de Marketo Engage par une synchronisation continue, ajoutez des prospects aux programmes d’engagement ou de messagerie et avertissez les ventes lorsque les prospects sont prêts.
 
 ## Intégration CRM {#crm-integration}
 
-* **Synchronisation du CRM Salesforce** : identifiez et corrigez les erreurs et les échecs de synchronisation à l’aide de deux nouveaux tableaux de bord des erreurs et de la synchronisation Salesforce. Surveillez les mises à jour, les suppressions et les échecs des nouveaux enregistrements, ainsi que la fin du processus de synchronisation. Les rapports peuvent être filtrés par date, type d’opération ou type d’objet.
+* **[!DNL Salesforce]de la synchronisation CRM** : identifiez et corrigez les erreurs et les échecs de synchronisation à l’aide de deux nouveaux tableaux de bord de synchronisation des [!DNL Salesforce] et d’erreurs. Surveillez les mises à jour, les suppressions et les échecs des nouveaux enregistrements, ainsi que la fin du processus de synchronisation. Les rapports peuvent être filtrés par date, type d’opération ou type d’objet.
 
-* **Intégration de Microsoft Dynamics 365** : automatisez l’inscription des prospects et des contacts dans les campagnes Microsoft Dynamics 365. Ajoutez ou supprimez facilement des leads et des contacts de Marketo Engage aux campagnes MS Dynamics avec de nouvelles actions de flux de campagne intelligentes. Transmettez facilement les leads du marketing aux ventes et concluez plus rapidement des affaires.
+* **[!DNL Microsoft Dynamics 365]Integration** : automatisez l’inscription des prospects et des contacts dans les campagnes [!DNL Microsoft Dynamics 365]. Ajoutez ou supprimez facilement des leads et des contacts Marketo Engage pour [!DNL MS Dynamics] des campagnes avec de nouvelles actions de flux de campagne intelligentes. Transmettez facilement les leads du marketing aux ventes et concluez plus rapidement des affaires.
 
 ## Ciblage des médias payants {#paid-media-targeting}
 
-* **Intégrations des publicités de lead Facebook** : les paramètres de suivi des formulaires Facebook peuvent désormais être capturés par le service LaunchPoint pour les publicités de lead Facebook. Ces champs masqués peuvent désormais être mappés à des champs Marketo, ce qui permet aux spécialistes marketing de stocker et d’agir sur les données de suivi de campagne importantes.
+* **[!DNL Facebook]des intégrations de publicités de lead** : les paramètres de suivi des formulaires [!DNL Facebook] peuvent désormais être capturés par le service LaunchPoint pour les publicités de lead [!DNL Facebook]. Ces champs masqués peuvent désormais être mappés à des champs Marketo, ce qui permet aux spécialistes marketing de stocker et d’agir sur les données de suivi de campagne importantes.
 
 ## Administration {#administration}
 
@@ -59,21 +59,21 @@ Les fonctionnalités suivantes sont incluses dans la version d’octobre 2020. V
 
 * **Nouvelles options d’exportation des métadonnées** : exportez les métadonnées des objets personnalisés sélectionnés dans une feuille de calcul pour faciliter leur partage. En outre, une partie ou la totalité des métadonnées des objets d’abonnement peuvent être exportées, telles que les prospects, les sociétés, les activités standard et personnalisées, les balises et les canaux. Les données peuvent être extraites par les administrateurs et rapidement partagées avec les équipes d’ingénieurs à des fins d’analyse et de conception.
 
-* **Champ personnalisé d’opportunité** : obtenez plus d’informations sur les enregistrements d’opportunité avec des champs personnalisés d’opportunité affichés dans Marketo Engage. Affichez les données des champs personnalisés d’opportunité provenant de Salesforce CRM, de Microsoft Dynamics CRM 365, des intégrations natives de ventes ou via d’autres intégrations d’API. Disposer d’une visibilité totale sur les détails et le pipeline des opportunités vous permet d’orchestrer l’engagement en coordination avec les ventes, d’augmenter les conversions et de conclure plus rapidement des affaires.
+* **Champ personnalisé d’opportunité** : explorez davantage insight dans les enregistrements d’opportunité avec des champs personnalisés d’opportunité affichés dans Marketo Engage. Affichez les données des champs personnalisés d’opportunité provenant de [!DNL Salesforce] CRM, [!DNL Microsoft Dynamics 365] CRM, d’intégrations natives de ventes ou via d’autres intégrations d’API. Disposer d’une visibilité totale sur les détails et le pipeline des opportunités vous permet d’orchestrer l’engagement en coordination avec les ventes, d’augmenter les conversions et de conclure plus rapidement des affaires.
 
 ## Sortie sur l&#39;ensemble du trimestre {#releasing-throughout-the-quarter}
 
 Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et seront publiées au cours des prochains mois.
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Options d’optimisation des API et de nouvelle configuration de la gouvernance** : améliorez l’expérience utilisateur de Sales Insight grâce à une optimisation améliorée des API et à des fonctionnalités de gouvernance ajoutées. Les paramètres de configuration permettent aux administrateurs de définir la manière dont les campagnes et les événements sont chargés dans le tableau de bord Informations sur les ventes. Les options d’affichage des activités de calendrier flexibles réduisent l’utilisation des API et améliorent l’expérience globale.
+* **Options d’optimisation des API et de nouvelle configuration de la gouvernance** : améliorez l’expérience utilisateur [!DNL Sales Insight] grâce à une optimisation améliorée des API et à des fonctionnalités de gouvernance ajoutées. Les paramètres de configuration permettent aux administrateurs de définir la manière dont les campagnes et les événements sont chargés dans le tableau de bord Sales Insight. Les options d’affichage des activités de calendrier flexibles réduisent l’utilisation des API et améliorent l’expérience globale.
 
 ## Annonces et obsolescence {#announcements-deprecations}
 
-* **Nouvelle apparence du Marketo Engage** : les nouvelles versions des graphiques en courbes, à barres, à colonnes et en secteurs offrent des visualisations mises à jour dans le Marketo Engage, y compris les activités marketing et toutes les fonctionnalités de création de rapports, ainsi que la visualisation des données qui apparaît dans les activités marketing. Cette mise à jour fait suite à l’arrivée du Flash d’Adobe à son terme le 31 décembre 2020.
+* **Nouvelle apparence Marketo Engage** : les nouvelles versions des graphiques en courbes, à barres, en colonnes et en secteurs offrent des visualisations mises à jour dans Marketo Engage, y compris les activités marketing et toutes les fonctionnalités de création de rapports, ainsi que la visualisation des données qui apparaît dans les activités marketing. Cette mise à jour fait suite à l’abandon d’Adobe Flash le 31 décembre 2020.
 
 * **Mises à jour des rôles utilisateur et des autorisations** : l’autorisation Importation de liste avancée sera obsolète dans la prochaine version afin de simplifier la gestion des rôles et des autorisations. Les autorisations d’importation de liste existantes dans les activités marketing et la base de données des prospects permettent d’activer les options d’importation de liste nécessaires dans leurs zones d’application respectives.
 

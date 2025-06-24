@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2951040
-description: Notes de mise à jour - Juillet 2014 - Documentation Marketo - Documentation du produit
-title: Notes de mise à jour - Juillet 2014
+description: Notes De Mise À Jour - Juillet 2014 - Documents Marketo - Documentation Du Produit
+title: Notes De Mise À Jour - Juillet 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '418'
 ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : juillet 2014 {#release-notes-july}
+# Notes De Mise À Jour : Juillet 2014 {#release-notes-july}
 
-Les fonctionnalités suivantes sont incluses dans la version de juillet 2014. Vérifiez la disponibilité de vos fonctionnalités dans Marketo Edition. Revenez après la version pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
+Les fonctionnalités suivantes sont incluses dans la version de juillet 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
 ## Calendrier marketing {#marketing-calendar}
 
-Afficher l’ensemble des événements, des e-mails et bien plus dans les programmes. [Ce nouveau produit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) sera disponible sans frais pour les clients ayant 10 utilisateurs ou moins de la gestion des pistes Marketo ou de la boîte de dialogue.
+Afficher l’ensemble des événements, des e-mails et bien plus dans les programmes. [Ce nouveau produit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) sera disponible gratuitement pour les clients disposant de 10 utilisateurs de [!DNL Marketo Lead Management] ou de boîte de dialogue ou moins.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
-La documentation du calendrier marketing sera disponible au moment de la publication.
+La documentation relative au calendrier marketing sera disponible au moment de la publication.
 
 ## Nouvelles présentation et fonctionnalités {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-La gestion des leads Marketo sera mise à jour avec une nouvelle apparence moderne et élégante, avec une navigation mise à jour.
+[!DNL Marketo Lead Management] sera mis à jour avec une nouvelle apparence, moderne et élégante, qui comprend une navigation mise à jour.
 
 ## Opérateurs de date {#date-operators}
 
-[Filtres avancés](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) pour &quot;dans le passé avant&quot;, &quot;dans le futur&quot; et &quot;dans le futur après&quot;. Par exemple, recherchez les pistes dont la date de naissance est fixée aux 3 prochains mois ou un contrat qui arrive à expiration après 6 mois.
+[Filtres avancés](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) pour « [!UICONTROL  dans le passé avant ] », « [!UICONTROL  dans le futur ] » et « [!UICONTROL  dans le futur après ] ». Par exemple, trouvez les prospects dont la date de naissance se situe dans les 3 prochains mois ou dont le contrat expire après 6 mois.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -39,38 +39,38 @@ La gestion des leads Marketo sera mise à jour avec une nouvelle apparence moder
 
 ## Affichage de la planification des programmes {#program-schedule-view}
 
-Outre le calendrier marketing avec lequel vous gérez vos événements et programmes par défaut, une nouvelle vue de planification s’affiche directement dans le programme.
+Outre le calendrier marketing avec lequel vous gérez vos événements et programmes par défaut, une nouvelle vue de planning est disponible directement sur le programme.
 
-* Replanifier toutes les dates en même temps
-* Nouvelles dates provisoires - faites-le crayon !
-* Types d’entrée personnalisés : tâches, communiqué de presse, tout ce que vous souhaitez.
+* Replanifier toutes les dates simultanément
+* Nouvelles dates provisoires - faites-le figurer au crayon !
+* Types d’entrée personnalisés - À faire, Communiqué de presse, tout ce que vous voulez
 
-## Liste des opérations dans l’API ReST {#list-operations-in-the-rest-api}
+## Liste des opérations dans l’API REST {#list-operations-in-the-rest-api}
 
-Nous avons ajouté les appels ci-dessous relatifs aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api) pour obtenir la documentation complète.
+Nous avons ajouté les appels ci-dessous liés aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) pour consulter la documentation complète.
 
-* Obtenir la liste par identifiant
+* Obtenir la liste par ID
 * Obtenir plusieurs listes
 * Importer dans la liste
-* Obtention de l’état de l’importation dans la liste
+* Obtenir le statut d’importation dans la liste
 
 ## Importation de liste rapide {#fast-list-import}
 
-Plus de **50x plus rapide**, vos fichiers effectueront un zoom sur Marketo ! Les anciennes options d’importation &quot;Normale&quot; et &quot;Optimisée pour les nouvelles pistes&quot; ont été remplacées par &quot;Par défaut (importation rapide)&quot;.
+Plus de **50 fois plus rapide**, vos fichiers zoomeront sur Marketo ! Les anciennes options d’importation « Normal » et « Optimisé pour les nouveaux prospects » ont été remplacées par « Par défaut (importation rapide) ».
 
-L’option &quot;Ignorer les nouvelles pistes et mises à jour&quot; reste inchangée.
+L’option « Ignorer les nouveaux leads et les mises à jour » reste inchangée.
 
 ## Nouveau Munchkin amélioré ! {#new-improved-munchkin}
 
-Le déploiement débutera à la mi-juillet et se poursuivra au cours des prochains mois.
+Le déploiement commencera à la mi-juillet et se poursuivra au cours des prochains mois.
 
-* Supprime la dépendance jQuery pour une compatibilité complète et future.
+* Supprime le [!DNL jQuery] de dépendance pour une compatibilité complète et future
 * Plus compatible avec les autres JavaScript de votre site
-* Entièrement testé sur de nombreux sites au cours de l’année passée !
+* Entièrement testé sur de nombreux sites au cours de l’année écoulée !
 
-## RTP : modèles de campagne Personalization en temps réel {#rtp-real-time-personalization-campaign-templates}
+## RTP : Real-Time Personalization Campaign Templates {#rtp-real-time-personalization-campaign-templates}
 
-La page Campagne d’ensemble RTP [ comprend désormais des modèles prêts à l’emploi ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Choisissez parmi une variété de styles, notamment des webinaires, des études de cas et des livres électroniques.
+La page Définir la campagne de RTP [comprend désormais des modèles prêts à l’emploi](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Choisissez parmi une variété de styles, y compris des webinaires, des études de cas, des livres électroniques.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -78,10 +78,10 @@ La page Campagne d’ensemble RTP [ comprend désormais des modèles prêts à l
 
 ## RTP : améliorations de l’API JavaScript {#rtp-javascript-api-enhancements}
 
-Nouvel appel de l’API RTP pour obtenir des données sur les visiteurs en temps réel telles que l’organisation, le secteur, l’emplacement et la correspondance de code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle présentant le code segment. Consultez notre [site de développeurs](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
+Nouvel appel API RTP pour obtenir des données visiteur en temps réel telles que la correspondance de l’organisation, du secteur, de l’emplacement et du code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle indiquant le code segment. Consultez notre [site destiné aux développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
 ## RTP : prise en charge d’HTML5 dans l’éditeur de contenu de Campaign {#rtp-html-support-in-campaign-content-editor}
 
-L’éditeur WYSIWYG de contenu de la page Définir des campagnes est désormais entièrement compatible avec HTML5. Cliquez sur l&#39;icône &quot;HTML&quot; dans l&#39;éditeur pour insérer du code HTML5.
+L’éditeur de WYSIWYG de contenu de la page Définir les campagnes est désormais entièrement compatible avec HTML5. Cliquez sur l’icône « HTML » dans l’éditeur pour insérer du code HTML5.
