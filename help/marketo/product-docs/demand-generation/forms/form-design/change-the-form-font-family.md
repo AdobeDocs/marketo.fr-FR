@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359608
-description: Modification de la famille de polices du formulaire - Documents Marketo - Documentation du produit
-title: Modification de la famille de polices du formulaire
+description: Modification de la famille de polices de formulaire - Documents Marketo - Documentation du produit
+title: Modification de la famille de polices de formulaire
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Modification de la famille de polices du formulaire {#change-the-form-font-family}
+# Modification de la famille de polices de formulaire {#change-the-form-font-family}
 
-Les polices Google sont géniales, et nous les avons intégrées dans l’éditeur de formulaires. Regardez !
+Les polices Google sont incroyables et nous les avons directement intégrées à l’éditeur de formulaires. Allez voir !
 
 >[!NOTE]
 >
->Ce paramètre a un impact sur le libellé du formulaire, le texte de saisie et tout texte enrichi.
+>Ce paramètre a un impact sur le libellé du formulaire, le texte d’entrée et le texte enrichi.
 
 1. Accédez à **Activités marketing**.
 
@@ -27,15 +27,15 @@ Les polices Google sont géniales, et nous les avons intégrées dans l’édite
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Sous **Paramètres de formulaire**, sélectionnez **Paramètres**.
+1. Sous **Paramètres du formulaire**, sélectionnez **Paramètres**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Sélectionnez la **famille de polices** de votre choix.
+1. Sélectionnez la **famille de polices** souhaitée.
 
    >[!TIP]
    >
-   >Un groupe de [polices Google](https://www.google.com/fonts) peut être utilisé.
+   >Un grand nombre de [polices Google](https://fonts.google.com/){target="_blank"} sont disponibles.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -47,17 +47,17 @@ Les polices Google sont géniales, et nous les avons intégrées dans l’édite
 
    >[!NOTE]
    >
-   >Le formulaire doit être validé pour être utilisé sur les landing pages.
+   >Le formulaire doit être approuvé pour être utilisé sur les pages de destination.
 
    ![](assets/image2014-9-15-16-3a1-3a28.png)
 
    >[!NOTE]
    >
-   >N’oubliez pas d’approuver le brouillon de page d’entrée créé par les modifications du formulaire.
+   >N’oubliez pas d’approuver le brouillon de page de destination créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
 
-Voyez comme il était facile de changer la famille de polices sur un formulaire ? Super, maintenant que c&#39;est fait, apprenons comment changer la taille de police du formulaire.
+Vous voyez à quel point il était facile de modifier la famille de polices d’un formulaire ? Cool, maintenant que c&#39;est fait, apprenons à changer la taille de police du formulaire.
 
 >[!MORELIKETHIS]
 >
