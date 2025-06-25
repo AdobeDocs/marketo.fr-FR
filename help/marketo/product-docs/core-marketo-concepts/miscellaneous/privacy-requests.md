@@ -1,72 +1,72 @@
 ---
 description: Demandes d’accès à des informations personnelles - Documents Marketo - Documentation du produit
-title: Requêtes de confidentialité
+title: Demandes d'accès à des informations personnelles
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 15%
 
 ---
 
-# Requêtes de confidentialité {#privacy-requests}
+# Demandes d&#39;accès à des informations personnelles {#privacy-requests}
 
-Ce document présente la gestion des demandes de confidentialité des données individuelles que vous pouvez envoyer à Marketo Engage par le biais de l’interface utilisateur du Privacy Service et de l’API du Privacy Service.
+Ce document offre une vue d’ensemble de la gestion des demandes individuelles de confidentialité des données que vous pouvez envoyer à Marketo Engage par le biais de l’interface utilisateur de Privacy Service et de l’API Privacy Service.
 
 >[!NOTE]
 >
->Les demandes d’accès à des informations personnelles envoyées par le biais de l’interface utilisateur ou de l’API du Privacy Service pour Marketo Engage s’appliquent uniquement aux éléments suivants :
+>Les demandes d’accès à des informations personnelles envoyées via l’interface utilisateur ou l’API Privacy Service pour Marketo Engage s’appliquent uniquement aux éléments suivants :
 >
->* Utilisateurs Marketo Engage intégrés à Adobe Identity Management System
+>* Utilisateurs de Marketo Engage ayant intégré le système Adobe Identity Management
 >
 >**-ou-**
 >
->* Utilisateurs Marketo Engage utilisant un autre produit Experience Cloud qui se trouve déjà sur le système Identity Management Adobe (par exemple, RT-CDP, éditions B2B et B2P, Audience Manager).
+>* les utilisateurs de Marketo Engage qui utilisent un autre produit Experience Cloud déjà présent dans le système Adobe Identity Management (par exemple, les éditions RT-CDP, B2B et B2P, Audience Manager).
 
-Vous pouvez envoyer des requêtes individuelles pour accéder aux données des consommateurs et les supprimer du Marketo Engage de deux manières :
+Vous pouvez envoyer des requêtes individuelles pour accéder aux données des clients et les supprimer de Marketo Engage de deux manières :
 
-* Par le biais de l’ [interface utilisateur de Privacy Service](https://privacyui.cloud.adobe.io/). Consultez la documentation [ici](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=fr){target="_blank"}.
-* Par le biais de l’API du Privacy Service. Consultez la documentation [ici](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} et les informations sur l&#39;API [ici](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Via l’interface utilisateur de Privacy Service : `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Consultez la documentation [ici](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=fr){target="_blank"}.
+* Via l’API Privacy Service. Consultez la documentation [ici](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} et les informations sur l’API [ici](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-Le [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr){target="_blank"} prend en charge deux types de requêtes : l’accès aux données et la suppression des données.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr){target="_blank"} prend en charge deux types de demandes : l&#39;accès aux données et la suppression des données.
 
-Découvrez comment créer des demandes d’accès et de suppression.
+Voyons comment créer des demandes d’accès et de suppression.
 
-## Configuration requise pour envoyer des requêtes de Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
+## Configuration requise pour envoyer des demandes pour Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-Pour envoyer des demandes d’accès et de suppression de données à Marketo Engage, vous devez :
+Pour envoyer des demandes d’accès et de suppression de données pour Marketo Engage, vous devez :
 
-1. Identifiez les éléments suivants :
+1. Identifier les éléments suivants :
 
-   a. Identifiant de l’organisation IMS<br/>
-b. Adresse électronique de la personne sur laquelle vous souhaitez agir
+   a. ID d’organisation IMS<br/>
+b. Adresse e-mail de la personne sur laquelle vous souhaitez agir
 
-   Un identifiant de l’organisation IMS est une chaîne alphanumérique de 24 caractères annexée avec @AdobeOrg. Si votre équipe marketing ou votre administrateur système d’Adobes interne ne connaît pas l’identifiant de l’organisation IMS de votre entreprise, contactez l’assistance clientèle Adobe à l’adresse `gdprsupport@adobe.com`. Vous avez besoin de l’identifiant de l’organisation IMS pour envoyer des requêtes à l’API de confidentialité.
+   Un identifiant de l’organisation IMS est une chaîne alphanumérique de 24 caractères à laquelle est ajouté @AdobeOrg. Si votre équipe marketing ou votre administrateur système interne Adobe ne connaît pas l’ID d’organisation IMS de votre organisation, contactez l’assistance clientèle d’Adobe à l’adresse `gdprsupport@adobe.com`. Vous avez besoin de l’identifiant d’organisation IMS pour envoyer des requêtes à l’API Privacy.
 
 1. Dans Privacy Service, vous pouvez envoyer des demandes d’accès et de suppression à Marketo Engage et vérifier le statut des demandes existantes.
 
-## Valeurs de champ requises dans les requêtes JSON Marketo Engage {#required-field-values-in-marketo-engage-json-requests}
+## Valeurs de champ obligatoires dans les requêtes JSON Marketo Engage {#required-field-values-in-marketo-engage-json-requests}
 
-&quot;companyContexts&quot;:
+« companyContexts » :
 
-* &quot;namespace&quot; : **imsOrgID**
-* &quot;value&quot;: `<Your IMS Org ID Value>`
+* &quot;namespace&quot; : **imsOrgID**
+* « value » : `<Your IMS Org ID Value>`
 
-&quot;users&quot; :
+&quot;users&quot; :
 
-* &quot;action&quot; : **access** ou **delete**
-* &quot;userIDs&quot; :
-   * &quot;namespace&quot; : **email**
-   * &quot;type&quot;: **standard**
-   * &quot;value&quot;: `<Data Subject's Email Address>`
+* &quot;action&quot; : **accès** « access » ou **suppression** « delete »
+* « userIDs » :
+   * « namespace » : **email**
+   * « type » : **standard**
+   * « value » : `<Data Subject's Email Address>`
 
-&quot;include&quot; :
+« include » :
 
-* **marketo** (qui est le produit Adobe qui s’applique à la demande)
+* **marketo** (qui est le produit Adobe qui s’applique à la requête)
 
-&quot;regulation&quot; :
+« règlement » :
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl** (qui est la réglementation sur la confidentialité qui s’applique à la demande)
+* **rgpd**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl** (qui est le règlement sur la confidentialité qui s’applique à la demande)
 
 ## Exemple 1 : demande de suppression en vertu du RGPD {#gdpr-delete-request}
 

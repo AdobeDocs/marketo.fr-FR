@@ -1,47 +1,47 @@
 ---
 unique-page-id: 4720710
-description: Configuration de SPF et DKIM pour la délivrabilité de vos emails - Documents Marketo - Documentation du produit
-title: Configuration de SPF et DKIM pour la délivrabilité de vos emails
+description: Configurer SPF et DKIM pour la délivrabilité des e-mails - Documents Marketo - Documentation du produit
+title: Configurer SPF et DKIM pour la délivrabilité des e-mails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Configuration de SPF et DKIM pour la délivrabilité de vos emails {#set-up-spf-and-dkim-for-your-email-deliverability}
+# Configurer SPF et DKIM pour la délivrabilité des e-mails {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Une méthode rapide pour améliorer les taux de diffusion de vos emails consiste à incorporer **SPF** (Sender Policy Framework) et **DKIM** (Domain Keys Identified Mail) dans vos paramètres DNS. Avec cet ajout à vos entrées DNS, vous informez les destinataires que vous avez autorisé Marketo à envoyer des emails en votre nom. Sans cette modification, votre email a de meilleures chances d’être marqué comme indésirable, car il a été envoyé à partir de votre domaine, mais à partir d’une adresse IP avec un domaine Marketo.
+Une méthode rapide pour améliorer vos taux de diffusion e-mail consiste à incorporer **SPF** (Sender Policy Framework) et **DKIM** (Domain Keys Identified Mail) dans vos paramètres DNS. Avec cet ajout à vos entrées DNS, vous indiquez aux destinataires que vous avez autorisé Marketo à envoyer des e-mails en votre nom. Sans cette modification, votre e-mail risque davantage d’être marqué comme indésirable, car il a été adressé à partir de votre domaine, mais envoyé à partir d’une adresse IP avec un domaine Marketo.
 
 >[!CAUTION]
 >
->Vous aurez besoin de votre administrateur réseau pour apporter cette modification à votre enregistrement DNS.
+>Votre administrateur réseau devra effectuer cette modification dans votre enregistrement DNS.
 
-## Configuration de SPF {#set-up-spf}
+## Configurer SPF {#set-up-spf}
 
-**Si vous n’avez pas d’enregistrement SPF sur votre domaine**
+**Si vous ne disposez PAS d’un enregistrement SPF sur votre domaine**
 
-Demandez à votre administrateur réseau d’ajouter la ligne suivante à vos entrées DNS. Remplacez [domain] par le domaine principal de votre site web (ex. &quot;company.com&quot;) et [corpIP] avec l’adresse IP de votre serveur de messagerie d’entreprise (ex. &quot;255.255.255.255&quot;). Si vous envoyez des emails à partir de plusieurs domaines via Marketo, vous devez les ajouter à chaque domaine (sur une seule ligne).
+Demandez à votre administrateur réseau d’ajouter la ligne suivante à vos entrées DNS. Remplacez [domain] par le domaine principal de votre site web (ex. « company.com ») et [corpIP] avec l’adresse IP de votre serveur de messagerie d’entreprise (par exemple,  »255.255.255.255 »). Si vous envoyez des e-mails à partir de plusieurs domaines via Marketo, vous devez l’ajouter à chaque domaine (sur une ligne).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
-**Si votre domaine contient un enregistrement SPF**
+**Si votre domaine comporte un enregistrement SPF**
 
-Si votre entrée DNS contient déjà un enregistrement SPF, ajoutez-y le code suivant :
+Si votre entrée DNS contient déjà un enregistrement SPF, ajoutez-y les éléments suivants :
 
 include:mktomail.com
 
 ## Configuration de DKIM {#set-up-dkim}
 
-**Qu&#39;est-ce que DKIM ? Pourquoi configurer DKIM ?**
+**Qu’est-ce que DKIM ? Pourquoi dois-je configurer DKIM ?**
 
-DKIM est un protocole d’authentification utilisé par les destinataires d’un courrier électronique pour déterminer si un message électronique a été envoyé par celui qui le dit avoir été envoyé. DKIM améliore souvent la délivrabilité des emails vers la boîte de réception, car un destinataire peut être certain que le message n&#39;est pas une falsification.
+DKIM est un protocole d’authentification utilisé par les destinataires d’e-mails pour déterminer si un e-mail a été envoyé par qui il a été envoyé. DKIM améliore souvent la délivrabilité des e-mails vers la boîte de réception, car le destinataire peut être certain que le message n’est pas un faux.
 
-**Comment fonctionne DKIM ?**
+**Comment DKIM fonctionne-t-il ?**
 
-Après avoir configuré la clé publique dans votre enregistrement DNS et activé le domaine d’envoi dans la section Admin (A), nous activerons la signature DKIM personnalisée pour vos messages sortants, qui inclura une signature numérique chiffrée avec chaque email que nous vous envoyons (B). Les destinataires pourront déchiffrer la signature numérique en recherchant la &quot;clé publique&quot; dans le DNS (C) de votre domaine d’envoi. Si la clé de l&#39;email correspond à la clé de votre enregistrement DNS, le serveur de messagerie de réception sera plus susceptible d&#39;accepter l&#39;email Marketo envoyé en votre nom.
+Après avoir configuré la clé publique dans votre enregistrement DNS et activé le domaine d’envoi dans la section Admin (A), nous activerons la signature DKIM personnalisée pour vos messages sortants, qui inclura une signature numérique chiffrée avec chaque e-mail que nous envoyons pour vous (B). Les récepteurs pourront déchiffrer la signature numérique en recherchant la « clé publique » dans le DNS (C) de votre domaine d&#39;envoi. Si la clé dans l’e-mail correspond à la clé de votre enregistrement DNS, le serveur de messagerie de réception sera plus susceptible d’accepter le Marketo d’e-mail envoyé en votre nom.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
@@ -51,6 +51,6 @@ Reportez-vous à la section [Configuration d’une signature DKIM personnalisée
 
 >[!MORELIKETHIS]
 >
->* [En savoir plus sur SPF et son fonctionnement](http://www.open-spf.org/Introduction/){target="_blank"}
->* [Ma configuration SPF est-elle correcte ?](https://www.kitterman.com/spf/validate.html){target="_blank"}
->* [Ai-je utilisé la syntaxe appropriée ?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
+>* En savoir plus sur SPF et son fonctionnement`: http://www.open-spf.org/Introduction/`
+>* Mon SPF est-il correctement configuré ? : `https://www.kitterman.com/spf/validate.html`
+>* Ai-je utilisé la bonne syntaxe ? : `http://www.open-spf.org/SPF_Record_Syntax/`
