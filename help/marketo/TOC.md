@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
 workflow-type: tm+mt
-source-wordcount: '9279'
+source-wordcount: '9283'
 ht-degree: 6%
 
 ---
@@ -818,7 +818,7 @@ ht-degree: 6%
          + Comprendre les pages de destination {#understanding-landing-pages}
             + [Approuver, annuler l’approbation ou supprimer une page de destination](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Rapport sur les performances des pages de destination](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
-            + [Groupes de tests de page de destination](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
+            + [Groupes de test de page de destination](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [Présentation des pages de destination de forme libre par rapport aux pages de destination guidées](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + Pages De Destination À Structure Libre {#free-form-landing-pages}
             + [Ajout d’un lien vers une image de page de destination de forme libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
@@ -1039,7 +1039,7 @@ ht-degree: 6%
          + [Verrouillage de contenu](product-docs/email-marketing/email-designer/content-locking.md)
          + [Assistant IA](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Rapport sur les spams par e-mail avec SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + Programmes d&#39;e-mail {#email-programs}
+      + Programmes d’e-mail {#email-programs}
          + Création d’un programme de messagerie {#creating-an-email-program}
             + [Créer un programme de messagerie](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
             + [Présentation des programmes de messagerie](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
@@ -1607,7 +1607,7 @@ ht-degree: 6%
          + [Supprimer l’application mobile](product-docs/mobile-marketing/admin/delete-mobile-app.md)
          + [Envoi de code SDK à un développeur](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
          + [Vérifier la configuration Push](product-docs/mobile-marketing/admin/verify-push-configuration.md)
-      + Messages internes à l’application {#in-app-messages}
+      + Messages in-app {#in-app-messages}
          + [Comprendre Les Messages In-App](product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
          + Création De Messages In-App {#creating-in-app-messages}
             + [Création d’un message In-App](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
@@ -1623,7 +1623,7 @@ ht-degree: 6%
             + [Planifier Votre Message In-App](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
             + [Sélectionner Votre Message In-App](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
             + [Définir L’Audience De Votre Message In-App](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
-      + Notifications Push {#push-notifications}
+      + Notifications push {#push-notifications}
          + [Ajout d’un nouvel appareil de test](product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)
          + [Configurer les notifications push mobiles](product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
          + [Créer une notification push](product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
@@ -1782,7 +1782,7 @@ ht-degree: 6%
             + [Comprendre la zone d’analyse de l’appartenance au programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
             + [Comprendre la zone d’analyse des opportunités du programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
             + [Comprendre la zone d’analyse de l’étape de revenu du programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
-         + Modèles du cycle des ventes {#revenue-cycle-models}
+         + evenusModèles du cycle des ventes {#revenue-cycle-models}
             + [Approuver/annuler l’approbation d’un modèle de produit](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
             + [Modification Du Modèle Approuvé](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
             + [Approuver des étapes et affecter des leads à un modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
@@ -1958,6 +1958,7 @@ ht-degree: 6%
    + [Calendrier de publication](release-notes/release-schedule.md)
    + [Version actuelle](release-notes/current.md)
    + [Version de Dynamic Chat](release-notes/dynamic-chat.md)
+   + [Dynamic Chat Release TEMP](release-notes/dynamic-chat-temp.md)
    + Versions précédentes {#previous-releases}
       + 2025 {#2025}
          + [Notes De Mise À Jour : 25 Janvier](release-notes/previous-releases/2025/release-notes-jan-25.md)
