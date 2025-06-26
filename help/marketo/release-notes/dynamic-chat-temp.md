@@ -35,7 +35,7 @@ Nous avons repensé la logique de routage du chat en direct dans Dynamic Chat po
 
 * **Comportement Spécifique Aux Règles De Routage**
 
-_**Routage de compte**_
+_&#x200B;**Routage de compte**&#x200B;_
 
 Si le domaine d’e-mail d’un visiteur est mappé à un compte connu, l’agent mappé est toujours considéré comme prioritaire.
 
@@ -53,7 +53,7 @@ Retourne à un message par défaut (au pire des cas).
 
 La règle de routage au niveau de la carte (par exemple, Équipe, Personnalisé) n’est prise en compte que si le routage de compte n’est pas éligible (aucun domaine ou agent correspondant).
 
-_**Routage personnalisé/d’équipe**_
+_&#x200B;**Routage personnalisé/d’équipe**&#x200B;_
 
 Ces règles peuvent renvoyer plusieurs agents éligibles.
 
@@ -67,7 +67,7 @@ Le système affiche le calendrier du premier agent essayé (s&#39;il est activé
 
 Affiche le message de secours par défaut.
 
-_**Routage circulaire**_
+_&#x200B;**Routage circulaire**&#x200B;_
 
 Lorsqu&#39;il est utilisé comme règle de transmission principale, le système :
 
