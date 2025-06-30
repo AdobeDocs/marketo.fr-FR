@@ -104,7 +104,7 @@ La solution de secours Round Robin n’est prise en compte que lorsqu’aucun ag
 
 <p>
 
-_**Routage de compte**_
+_&#x200B;**Routage de compte**&#x200B;_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _**Routage de compte**_
   </tr>
 </tbody></table>
 
-_**Routage personnalisé**_
+_&#x200B;**Routage personnalisé**&#x200B;_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _**Routage personnalisé**_
   </tr>
 </tbody></table>
 
-_**Routage de l&#39;équipe**_
+_&#x200B;**Routage de l&#39;équipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _**Routage de l&#39;équipe**_
   </tr>
 </tbody></table>
 
-_**Routage circulaire**_
+_&#x200B;**Routage circulaire**&#x200B;_
 
 <table><thead>
   <tr>
