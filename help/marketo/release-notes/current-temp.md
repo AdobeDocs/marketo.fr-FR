@@ -4,10 +4,11 @@ title: Notes de mise à jour actuelles
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 13%
+source-wordcount: '562'
+ht-degree: 11%
 
 ---
 
@@ -113,7 +114,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITRE</strong> : DESCRIPTION.</td> 
+   <td><strong>Email Designer - Intégration de GenStudio</strong> : intégrez GenStudio pour le marketing de performance à partir des e-mails afin d’améliorer l’efficacité du marketing et de maintenir la cohérence de la marque.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
@@ -123,7 +124,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITRE</strong> : DESCRIPTION.</td> 
+   <td><strong>Mises à jour des notifications de code d’erreur de l’API REST</strong> : deux classes supplémentaires d’erreurs de l’API REST dans les notifications in-app ont été ajoutées : 606 - Limite de débit maximale dépassée et 607 - Quota quotidien atteint.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
@@ -133,7 +134,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITRE</strong> : DESCRIPTION.</td> 
+   <td><strong>Afficher les champs standard des membres de programme dans la gestion des champs</strong> : les champs standard et personnalisés des membres de programme dans <i>Gestion des champs</i> sont désormais visibles.</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
@@ -143,7 +144,17 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITRE</strong> : DESCRIPTION.</td> 
+   <td><strong>Noms d’API REST dans la gestion des champs</strong> : cette mise à jour permet aux administrateurs d’afficher les noms de champ de l’API REST sans avoir à exporter la liste.</td> 
+   <td><i>Disponible bientôt</i></td>
+   <td><i>Disponible bientôt</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Liste Mes jetons utilisés par </strong> : consultez la liste des ressources qui utilisent un jeton Mon jeton (jusqu’à 50 ressources à la fois).</td> 
    <td><i>Disponible bientôt</i></td>
    <td><i>Disponible bientôt</i></td>
   </tr>
@@ -153,6 +164,6 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
