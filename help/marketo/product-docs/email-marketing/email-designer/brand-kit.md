@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
+source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
 workflow-type: tm+mt
 source-wordcount: '1260'
-ht-degree: 86%
+ht-degree: 85%
 
 ---
 
@@ -107,7 +107,7 @@ CAPTURE D’ÉCRAN
 
 Vous pouvez désigner une marque par défaut qui sera appliquée automatiquement lors de la génération du contenu et du calcul des scores d’alignement pendant la création des campagnes.
 
-Pour définir une marque par défaut, accédez au tableau de bord **[!UICONTROL Marques]**. Ouvrez le menu avancé en cliquant sur l’icône ![](assets/do-not-localize/Smock_More_18_N.svg) et sélectionnez **[!UICONTROL Marquer comme marque par défaut]**.
+Pour définir une marque par défaut, accédez au tableau de bord **[!UICONTROL Marques]**. Ouvrez le menu avancé en cliquant sur l’en-tête en cliquant sur L’ICÔNE et sélectionnez **[!UICONTROL Marquer comme marque par défaut]**.
 
 CAPTURE D’ÉCRAN
 
