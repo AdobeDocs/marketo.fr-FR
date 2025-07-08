@@ -47,7 +47,7 @@ Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans un
 >
 >**Déclencheur** : page Web Visites, page Web est page de tarification\
 >**Flux** : Modifier le score de +10 et le moment intéressant
->>**Web** : Page Tarification affichée
+>&#x200B;>**Web** : Page Tarification affichée
 >
 >Avec [!DNL Munchkin] V2, si une personne anonyme visite la page de tarification, elle ne participe pas immédiatement à la campagne. Au moment où la personne anonyme sera connue, nous lancerons cette campagne sur elle. Elle :
 >
