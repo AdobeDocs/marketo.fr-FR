@@ -3,9 +3,9 @@ description: Présentation d’Advanced BI Analytics - Documents Marketo - Docum
 title: Présentation d’Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1228'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Découvrez comment exporter des sections spécifiques de votre rapport.
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451684/?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 
@@ -254,7 +254,17 @@ Les rapports standard suivants sont inclus comme exemples pour vos rapports pers
 
 * Les utilisateurs et utilisatrices existants de l’Explorateur de revenus ont automatiquement accès à la nouvelle expérience BI Analytics avancée.
 
-* Vous pouvez créer jusqu’à 700 rapports dans Advanced BI Analytics.
+* Vous pouvez créer **jusqu’à 700 rapports** dans Advanced BI Analytics.
+
+  >[!NOTE]
+  >
+  >Si l’Explorateur de revenus comporte plus de 700 rapports, certains d’entre eux ont été combinés à d’autres et consolidés au moyen de pages dans le rapport.
+  >
+  >* Si un rapport comportait un abonnement par e-mail, il n’était pas combiné.
+  >
+  >* Les autres rapports du _même dossier_ ont été combinés en un ou plusieurs rapports, par zone de rapport. S’il y avait plus de cinq rapports pour le domaine visé par le rapport, ils étaient regroupés en plus d’un rapport combiné.
+  >
+  >* Chaque rapport combiné ne comporte pas plus de cinq pages.
 
 * Une visualisation donnée est limitée à 1 million de lignes par requête. Si votre requête dépasse ce seuil, vous recevrez l’erreur suivante : `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Pour corriger ce problème, réduisez votre période et/ou ajustez les filtres de votre rapport afin de réduire le nombre de lignes dans le résultat de votre requête.
 
