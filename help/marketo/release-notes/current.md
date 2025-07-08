@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+source-git-commit: 4d6c929bf7dc5b8c825fe7d7ab613dd8fd750aa0
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 11%
+source-wordcount: '667'
+ht-degree: 9%
 
 ---
 
@@ -30,16 +30,6 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <th style="width:65%">Fonctionnalité</th> 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
-  </tr>
-  <tr> 
-   <td><strong>Email Designer - Kit de marque avec assistant AI</strong> : permet de maintenir la cohérence de la marque entre les ressources d’e-mail en stockant et en gérant les ressources de marque telles que les couleurs, les polices, les logos, les thèmes, le contenu visuel, les directives de conformité, etc., le tout à un seul endroit.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong>Designer d’e-mail - Prise en charge CSS personnalisée</strong> : lors de la conception d’e-mails, vous pouvez désormais ajouter votre propre CSS personnalisé directement dans le Designer d’e-mail.</td> 
@@ -162,6 +152,12 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Marketo Engage Identity End of Life** : en août 2025, Adobe commencera à supprimer progressivement la prise en charge de Marketo Engage Identity (connexion via `login.marketo.com`). Pour éviter l’interruption de l’accès à Marketo Engage, vous devez passer à [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} au plus tard le 30 septembre 2025.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+   * _Obsolescence des restrictions IP_ : la prise en charge du [Limitation des connexions Marketo en fonction des adresses IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. Une nouvelle fonctionnalité de contrôle d’accès basé sur l’emplacement pour Adobe Identity dans Adobe Admin Console est prévue pour la version d’août 2025.
+
+   * _Obsolescence de l’authentification unique (SSO)_ : la prise en charge de [l’authentification unique de Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. L’authentification unique pour l’identité Adobe dans Adobe Admin Console doit être configurée séparément. Pour connaître les étapes de configuration, voir [Configurer une identité et l&#39;authentification SSO](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
+
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
