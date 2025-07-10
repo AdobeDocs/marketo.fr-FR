@@ -1,42 +1,42 @@
 ---
 unique-page-id: 2359730
-description: Ajout d’un HTML personnalisé à une page d’entrée de formulaire libre - Documents Marketo - Documentation du produit
-title: Ajout d’un HTML personnalisé à une page d’entrée de formulaire libre
+description: Ajout d’HTML personnalisé à une page de destination de forme libre - Documents Marketo - Documentation du produit
+title: Ajout d’HTML personnalisé à une page de destination de forme libre
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Ajout d’un HTML personnalisé à une page d’entrée de formulaire libre {#adding-custom-html-to-a-free-form-landing-page}
+# Ajout d’HTML personnalisé à une page de destination de forme libre {#adding-custom-html-to-a-free-form-landing-page}
 
-Vous pouvez ajouter des scripts personnalisés, CSS ou tout autre HTML aux landing pages.
+Vous pouvez ajouter des scripts personnalisés, des feuilles CSS ou d’autres HTML aux pages de destination.
 
 >[!NOTE]
 >
->La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés à l’HTML personnalisé. Pour obtenir de l’aide sur les HTMLS, consultez un développeur web.
+>La prise en charge de Marketo Engage n’est pas configurée pour vous aider à résoudre les problèmes liés aux HTML personnalisées. Pour obtenir de l’aide sur HTML, consultez un développeur web.
 
-1. Sélectionnez votre landing page et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre page de destination et cliquez sur **Modifier le brouillon**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Dans l’éditeur de page d’entrée, faites glisser l’élément **HTML** .
+1. Dans l&#39;éditeur de landing page, faites glisser l&#39;élément **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Saisissez votre code d’HTML personnalisé et cliquez sur **Enregistrer**.
+1. Saisissez votre code HTML personnalisé, puis cliquez sur **Enregistrer**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-Beau ! Insérez les scripts ou CSS de votre choix.
+Joli ! Insérez les scripts ou les feuilles CSS de votre choix.
 
 >[!TIP]
 >
->Dans la mesure du possible, testez la source de votre HTML personnalisé dans un environnement local avant de la déployer dans une landing page.
+>Dans la mesure du possible, testez votre source HTML personnalisée dans un environnement local avant de la déployer dans une page de destination.
 
 >[!CAUTION]
 >
->Si votre HTML personnalisé n’est pas rendu (comme une fonction JavaScript invisible ou un CSS), placez l’élément dans un emplacement mémorable comme en haut à gauche. Le contour de l’élément n’est visible que lorsque vous cliquez dans sa zone.
+>Si votre HTML personnalisée n’effectue pas de rendu (par exemple une fonction JavaScript invisible ou CSS), placez l’élément à un emplacement mémorisable comme en haut à gauche. Le contour de l&#39;élément n&#39;est visible que lorsque vous cliquez dans sa zone.
