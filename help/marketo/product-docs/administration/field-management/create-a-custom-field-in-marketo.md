@@ -4,9 +4,9 @@ description: Création d’un champ personnalisé dans Marketo - Documents Marke
 title: Création d’un champ personnalisé dans Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -25,30 +25,38 @@ Si vous avez besoin d’un nouveau champ personnalisé dans Marketo Engage pour 
 
    >[!TIP]
    >
-   >Si vous souhaitez que les champs restent synchronisés avec votre CRM, créez-les dans le CRM et elles seront automatiquement créées dans Marketo.
+   >Si vous souhaitez que les champs soient synchronisés avec votre CRM, créez-les dans le CRM et elles seront automatiquement créées dans Marketo.
 
 1. Cliquez sur **[!UICONTROL Nouveau champ personnalisé]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. Sélectionnez le type de champ. Cela modifie le rendu dans les listes dynamiques et dans les formulaires dans Marketo.
-
-   >[!TIP]
-   >
-   >Consultez le [Glossaire des types de champs personnalisés](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+1. Choisissez l’_[!UICONTROL Objet]_.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Saisissez le [!UICONTROL Nom] tel que vous souhaitez le voir apparaître dans Marketo. Le [!UICONTROL nom de l’API] est généré automatiquement. Vous pouvez le modifier, mais il ne peut pas être renommé une fois défini. Cliquez sur **[!UICONTROL Créer]** une fois terminé.
+   >[!NOTE]
+   >
+   >Bien que vous ne puissiez pas sélectionner vous-même l’objet _Company_, vous pouvez en faire la demande en contactant le support technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+1. Choisissez le champ _[!UICONTROL Type]_. Cela modifiera son rendu dans les listes dynamiques et les formulaires dans Marketo.
+
+   >[!TIP]
+   >
+   >Consultez le [Glossaire des types de champs personnalisés](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+
+   ![](assets/create-a-custom-field-in-marketo-5.png)
+
+1. Saisissez le _[!UICONTROL Nom]_ tel que vous souhaitez qu’il apparaisse dans Marketo (le _[!UICONTROL Nom de l’API]_ est généré automatiquement). Choisissez avec soin, car il ne peut pas être renommé après avoir été enregistré. Cliquez sur **[!UICONTROL Créer]** lorsque vous avez terminé.
 
 >[!CAUTION]
 >
 >Les noms de champ ne peuvent pas commencer par les caractères suivants : **. &amp; +[]**
 
-![](assets/create-a-custom-field-in-marketo-5.png)
+![](assets/create-a-custom-field-in-marketo-6.png)
 
 >[!NOTE]
 >
 >Le nom de l’API est utilisé par l’API SOAP et d’autres processus principaux.
 
-Vous pouvez désormais utiliser ce champ personnalisé dans les formulaires, les étapes de flux et les listes dynamiques !
+Vous pouvez désormais utiliser ce champ personnalisé dans les formulaires, les étapes de flux et les listes dynamiques.
