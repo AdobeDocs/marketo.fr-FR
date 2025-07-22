@@ -63,7 +63,7 @@ Cet exemple illustre un objet personnalisé Car à utiliser dans une structure d
 
    >[!NOTE]
    >
-   >Vous pouvez uniquement remplir les objets personnalisés Marketo par le biais d’un import de liste ou de l’[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Vous pouvez uniquement remplir les objets personnalisés Marketo par le biais d’un import de liste ou de l’[API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Création d’un objet personnalisé pour une structure multiple-à-multiple {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ Cet exemple montre un objet personnalisé de cours que vous utiliserez pour cré
 
    >[!NOTE]
    >
-   >Vous pouvez uniquement remplir les objets personnalisés Marketo par le biais d’un import de liste ou de l’[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Vous pouvez uniquement remplir les objets personnalisés Marketo par le biais d’un import de liste ou de l’[API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
 
 L’étape suivante consiste à créer votre objet intermédiaire (voir ci-dessous). Mais avant cela, vous devez créer un champ auquel créer un lien.
 

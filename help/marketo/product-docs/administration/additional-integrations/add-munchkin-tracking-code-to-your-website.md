@@ -59,7 +59,7 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé [!DNL Munchkin], p
 
    >[!TIP]
    >
-   >Pour les sites qui enregistrent un volume de trafic élevé (c’est-à-dire des centaines de milliers de visites par mois), nous vous recommandons de ne pas effectuer le suivi des personnes anonymes. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Pour les sites qui enregistrent un volume de trafic élevé (c’est-à-dire des centaines de milliers de visites par mois), nous vous recommandons de ne pas effectuer le suivi des personnes anonymes. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Ajout Du Code De Suivi Lors De L’Utilisation De Plusieurs Espaces De Travail {#add-tracking-code-when-using-multiple-workspaces}
 
