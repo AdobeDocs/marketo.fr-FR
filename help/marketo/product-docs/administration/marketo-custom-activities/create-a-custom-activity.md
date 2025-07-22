@@ -4,7 +4,7 @@ description: Création d’une activité personnalisée - Documents Marketo - Do
 title: Création d’une activité personnalisée
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Pour créer une activité personnalisée, procédez comme suit.
 
 >[!NOTE]
 >
->La plupart des abonnements ont une limite allouée de 10 types d’activité personnalisée.
+>La plupart des abonnements ont une limite allouée de 10 types d’activités personnalisées.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -31,22 +31,22 @@ Pour créer une activité personnalisée, procédez comme suit.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. Saisissez un nom et une [!UICONTROL description] facultative, puis cliquez sur **[!UICONTROL Suivant]**. Le nom de l’API est renseigné automatiquement, mais il peut être personnalisé.
+1. Saisissez un nom et une [!UICONTROL Description], puis cliquez sur **[!UICONTROL Suivant]**. Le nom de l’API est automatiquement renseigné, mais peut être personnalisé.
 
    ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
-   >Si vous décidez de modifier le nom de l’API, assurez-vous que ce nom n’entre pas en conflit avec les champs d’autres activités personnalisées.
+   >Si vous décidez de modifier le [!UICONTROL nom de l’API], assurez-vous que le nom n’entre pas en conflit avec les champs d’autres activités personnalisées.
 
-1. Définissez vos [!UICONTROL Filtre] et [!UICONTROL Déclencheur] et cliquez sur **[!UICONTROL Suivant]**.
+1. Définissez vos [!UICONTROL filtre] et [!UICONTROL déclencheur], puis cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Donnez un nom à votre champ principal qui résume l’activité personnalisée.
+1. Donnez à votre champ principal un **[!UICONTROL Nom]** qui résume l’objet de l’activité personnalisée.
 
    ![](assets/create-a-custom-activity-6.png)
 
 >[!MORELIKETHIS]
 >
->[Compréhension des activités personnalisées](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
+>[Présentation des activités personnalisées](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)

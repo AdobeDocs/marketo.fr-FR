@@ -1,36 +1,36 @@
 ---
 unique-page-id: 1147342
-description: Approuver un courrier électronique - Documents Marketo - Documentation du produit
-title: Valider un email
+description: Approuver un e-mail - Documents Marketo - Documentation du produit
+title: Approuver un e-mail
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Valider un email {#approve-an-email}
+# Approuver un e-mail {#approve-an-email}
 
-Les courriers électroniques commencent à l’état préliminaire. Ils ne sont généralement pas disponibles dans le système tant que vous ne les avez pas approuvés. Il existe plusieurs façons de valider un email.
+Les e-mails commencent à l’état de brouillon. Ils ne sont généralement pas disponibles dans le système tant que vous ne les avez pas approuvés. Il existe plusieurs façons d’approuver un e-mail.
 
-## Approuver à l’aide du menu Actions de courrier électronique {#approve-it-using-the-email-actions-menu}
+## Validez-la à l’aide du menu [!UICONTROL Actions d’e-mail] {#approve-it-using-the-email-actions-menu}
 
-1. Recherchez et sélectionnez votre email, cliquez sur la liste déroulante **Actions de courrier électronique** et sélectionnez **Approuver**.
+1. Recherchez et sélectionnez votre e-mail, cliquez sur le menu déroulant **[!UICONTROL Actions d’e-mail]** et sélectionnez **[!UICONTROL Approuver]**.
 
    ![](assets/one.png)
 
-## Approuver directement dans l’arborescence {#approve-it-directly-in-the-tree}
+## L&#39;approuver directement dans l&#39;arborescence {#approve-it-directly-in-the-tree}
 
-1. Recherchez et sélectionnez votre email, cliquez dessus avec le bouton droit et sélectionnez **Approve**.
+1. Recherchez et sélectionnez votre e-mail, cliquez dessus avec le bouton droit et sélectionnez **[!UICONTROL Approuver]**.
 
    ![](assets/approveemail.png)
 
-## Approuver votre adresse électronique dans l’éditeur de messagerie {#approve-your-email-in-the-email-editor}
+## Approuver l’e-mail dans l’éditeur d’e-mail {#approve-your-email-in-the-email-editor}
 
-1. Dans votre email, cliquez sur la liste déroulante **Actions par e-mail** et sélectionnez **Approuver et fermer**.
+1. Dans votre e-mail, cliquez sur le menu déroulant **[!UICONTROL Actions d’e-mail]** et sélectionnez **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/three.png)
 
-Une fois approuvé, votre email est prêt à l&#39;emploi !
+Une fois votre e-mail validé, il est prêt à l’emploi.

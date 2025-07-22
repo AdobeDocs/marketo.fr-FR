@@ -1,21 +1,21 @@
 ---
 unique-page-id: 30081815
-description: Configuration de l’intégration Adobe Experience Manager - Documents Marketo - Documentation du produit
-title: Configuration de l’intégration Adobe Experience Manager
+description: Configuration de l’intégration Adobe Experience Manager - Documentation de Marketo - Documentation du produit
+title: Configuration de l’intégration de Adobe Experience Manager
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Configuration de l’intégration Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
+# Configuration de l’intégration de Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des ressources AEM, les sélectionner et les importer dans Marketo Engage Design Studio.
+Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources AEM, les sélectionner et les importer dans Marketo Engage Design Studio.
 
 >[!NOTE]
 >
@@ -23,23 +23,23 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 
 >[!IMPORTANT]
 >
->* Cette intégration fonctionne uniquement avec les implémentations on-premise d’AEM et n’est pas prise en charge pour les implémentations AEM Cloud Service.
+>* Cette intégration fonctionne uniquement avec les implémentations On-Premise d’AEM et n’est pas prise en charge pour les implémentations AEM Cloud Service.
 >
->* Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Elle n’est pas prise en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome, selon vos paramètres de cookie SameSite.
+>* Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Il n’est pas pris en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome, selon les paramètres de vos cookies SameSite.
 
-1. Accédez à Adobe Experience Manager (l’URL est spécifique à votre entreprise).
+1. Accédez au Adobe Experience Manager (l’URL est spécifique à votre société).
 
    ![](assets/one.png)
 
-1. Vous pouvez vous connecter avec Adobe ou vous connecter localement. Dans cet exemple, nous allons nous connecter localement.
+1. Vous pouvez vous connecter à l’aide d’Adobe ou vous connecter localement. Dans cet exemple, nous nous connecterons localement.
 
    ![](assets/two.png)
 
-1. Dans **[!UICONTROL Tools]**, cliquez sur **[!UICONTROL Operations]** et sélectionnez **[!UICONTROL Web Console]**.
+1. Dans **[!UICONTROL Outils]**, cliquez sur **[!UICONTROL Opérations]** et sélectionnez **[!UICONTROL Console web]**.
 
    ![](assets/2a.png)
 
-1. Dans votre navigateur, recherchez (ctrl+f sous Windows, cmd+f sous Mac) &quot;Adobe Granite Cross-Origin Resource Sharing Policy&quot;.
+1. Dans votre navigateur, recherchez « [!UICONTROL Politique de partage de ressources entre origines multiples Adobe Granite ] » (ctrl+f sous Windows, cmd+f sous Mac).
 
    ![](assets/three.png)
 
@@ -51,11 +51,11 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 
    ![](assets/five-psd.png)
 
-1. Dans l’en-tête en haut de la page, cliquez sur **[!UICONTROL Console web]** et sélectionnez **[!UICONTROL Informations système]**.
+1. Dans l’en-tête situé en haut de la page, cliquez sur **[!UICONTROL Console web]** et sélectionnez **[!UICONTROL Informations système]**.
 
    ![](assets/six.png)
 
-1. Sous Informations sur le serveur, cliquez sur le bouton **[!UICONTROL Redémarrer]** .
+1. Sous Server Information, cliquez sur le bouton **[!UICONTROL Redémarrer]**.
 
    ![](assets/seven.png)
 
@@ -75,6 +75,6 @@ Configurez Adobe Experience Manager (AEM) afin que vous puissiez accéder à des
 
    ![](assets/eleven.png)
 
-1. Saisissez votre URL d’AEM et cliquez sur **[!UICONTROL OK]**.
+1. Saisissez l’URL d’AEM, puis cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

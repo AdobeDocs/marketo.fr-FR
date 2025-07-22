@@ -3,36 +3,36 @@ description: Ajout de boutons d’action en bloc à Salesforce Classic - Documen
 title: Ajout de boutons d’action en bloc à Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-# Ajout de boutons d’action en bloc à Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# Ajouter des boutons d’action en bloc à [!DNL Salesforce] Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-Vous pouvez ajouter des boutons Marketo à vos mises en page Salesforce. Voici un exemple :
+Vous pouvez ajouter des boutons Marketo à vos mises en page [!DNL Salesforce]. Voici un exemple :
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Cliquez sur **Configuration**. Recherchez &quot;search layout&quot; et cliquez sur **Search Layouts** sous **Leads**.
+1. Cliquez sur **[!UICONTROL Configurer]**. Recherchez « [!UICONTROL disposition de recherche] » et cliquez sur le **[!UICONTROL disposition de recherche]** sous **[!UICONTROL Leads]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Cliquez sur **Modifier** dans la ligne **Mode Liste des pistes**.
+1. Cliquez sur **[!UICONTROL Modifier]** dans la ligne **[!UICONTROL Vue Liste des prospects]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Ajoutez les boutons **Ajouter à Marketo Campaign**, **Envoyer un courrier électronique Marketo** et **Ajouter à la liste de contrôle** aux **boutons sélectionnés** et **Enregistrer**.
+1. Ajoutez **[!UICONTROL Ajouter à Marketo Campaign]**, **[!UICONTROL Envoyer un e-mail Marketo]** et **[!UICONTROL Ajouter à la liste de contrôle]** les boutons **[!UICONTROL Boutons sélectionnés]** et **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 
    >[!TIP]
    >
-   >Maintenez la touche Maj enfoncée pour sélectionner les trois boutons à la fois.
+   >Maintenez la touche Maj enfoncée pour sélectionner les trois boutons en même temps.
 
-1. Répétez ces étapes pour vos contacts (les trois boutons) et comptes (un seul bouton : Ajouter à la liste de contrôle).
+1. Répétez ces étapes pour vos contacts (les trois boutons) et comptes (un seul bouton : Ajouter à la liste de surveillance).
 
    >[!NOTE]
    >

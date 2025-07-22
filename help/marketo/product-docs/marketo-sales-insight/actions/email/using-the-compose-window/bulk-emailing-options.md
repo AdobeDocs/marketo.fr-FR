@@ -1,20 +1,20 @@
 ---
-description: Options d’envoi groupé par courrier électronique - Documents Marketo - Documentation du produit
-title: Options d’envoi groupé de courriers électroniques
+description: Options De Messagerie En Masse - Documents Marketo - Documentation Du Produit
+title: Options de publipostage en masse
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 3%
 
 ---
 
-# Options d’envoi groupé de courriers électroniques {#bulk-emailing-options}
+# Options de publipostage en masse {#bulk-emailing-options}
 
-L’envoi en masse d’emails est un excellent moyen d’accélérer l’engagement de vos prospects. Marketo Sales offre deux manières d&#39;envoyer des emails en masse : **emails de groupe** et **Sélectionner et envoyer**. Les emails de groupe sont un excellent moyen d’envoyer rapidement des centaines d’emails à un groupe ciblé. L’utilisation de l’option Sélectionner et envoyer implique des limites d’e-mail plus faibles, mais offre davantage d’opportunités de personnalisation à l’utilisateur.
+L’envoi d’e-mails en bloc est un excellent moyen d’accélérer votre engagement des prospects. [!DNL Marketo Sales] offre deux manières d’envoyer des e-mails en bloc : **Regrouper les e-mails** et **Sélectionner et envoyer**. Les e-mails de groupe sont un excellent moyen d’envoyer rapidement des centaines d’e-mails à un groupe ciblé. L’utilisation de Sélectionner et Envoyer réduit les limites d’e-mail, mais offre davantage d’opportunités de personnalisation à l’utilisateur ou à l’utilisatrice.
 
-**Email de groupe par rapport à Sélectionner et envoyer**
+**E-mail de groupe et sélection et envoi**
 
 <table> 
  <colgroup> 
@@ -28,24 +28,24 @@ L’envoi en masse d’emails est un excellent moyen d’accélérer l’engagem
  <tbody> 
   <tr> 
    <th>Type d’envoi</th> 
-   <th>Nombre max. d’emails</th> 
-   <th>Initié par</th> 
-   <th>Modification en masse d’emails</th> 
-   <th>Modifier chaque email de manière unique</th> 
+   <th>Nbre max. d’e-mails</th> 
+   <th>Envoi initié par</th> 
+   <th>Modifier en bloc des e-mails</th> 
+   <th>Modifier Chaque E-Mail De Manière Unique</th> 
    <th>Prise en charge des modèles et des champs dynamiques</th> 
   </tr> 
   <tr> 
    <td>E-mail groupé</td> 
    <td>1 000</td> 
-   <td>Sélectionnez un groupe et cliquez sur le bouton "Actions de groupe", ou saisissez le nom du groupe dans le champ À .</td> 
+   <td>Sélectionnez un groupe et cliquez sur le bouton « [!UICONTROL Group Actions] », ou saisissez le nom du groupe dans le champ À.</td> 
    <td>Oui</td> 
    <td>Non</td> 
    <td>Oui</td> 
   </tr> 
   <tr> 
-   <td>Sélection et envoi</td> 
+   <td>Sélectionner et envoyer</td> 
    <td>200</td> 
-   <td>Sélectionnez les personnes dans la grille et cliquez sur le bouton "E-mail sélectionné" dans la barre d’actions, ou saisissez les destinataires dans la barre latérale de l’e-mail en bloc.</td> 
+   <td>Sélectionnez des personnes dans la grille et cliquez sur le bouton « [!UICONTROL Email Selected] » dans la barre d'actions, ou saisissez des destinataires dans la barre latérale de messagerie en masse.</td> 
    <td>Oui</td> 
    <td>Oui</td> 
    <td>Oui</td> 
@@ -55,13 +55,13 @@ L’envoi en masse d’emails est un excellent moyen d’accélérer l’engagem
 
 **Utilisation de l’e-mail de groupe**
 
-Vous pouvez prévisualiser chaque email de la liste pour vérifier si les champs dynamiques sont correctement renseignés et modifier en masse le modèle à envoyer. Vous ne pouvez toutefois pas apporter de modifications uniques par utilisateur.
+Vous pouvez prévisualiser chaque e-mail de la liste pour voir si les champs dynamiques sont correctement renseignés et si vous pouvez modifier en bloc le modèle à envoyer. Cependant, vous ne pouvez pas effectuer de modifications « par utilisateur » uniques.
 
-**Utilisation de Select and Send**
+**Utilisation de Sélectionner et Envoyer**
 
-Par défaut, vous effectuez l&#39;édition pour tous les destinataires. Vous pouvez également sélectionner chaque adresse électronique à modifier. Cela peut s’avérer utile pour ajouter une ou plusieurs lignes de personnalisation uniques aux destinataires avec lesquels vous souhaitez adopter une approche plus personnalisée.
+Par défaut, vous allez effectuer des modifications pour tous les destinataires. Mais vous pouvez également sélectionner chaque e-mail individuel pour y apporter des modifications personnalisées. Cela peut s’avérer idéal pour ajouter une ou plusieurs ligne(s) de personnalisation unique(s) aux destinataires avec lesquels vous souhaitez adopter une approche plus personnalisée.
 
 >[!MORELIKETHIS]
 >
->* [Composite d’emails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
->* [Envoi d’emails par courriel de groupe](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Composition d’e-mails en bloc avec sélection et envoi](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Envoi d’e-mails via l’e-mail du groupe](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)

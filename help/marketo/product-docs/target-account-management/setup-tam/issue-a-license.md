@@ -1,36 +1,36 @@
 ---
 unique-page-id: 11380771
-description: Émettre une licence - Documents Marketo - Documentation du produit
-title: Émission d’une licence
+description: Délivrer une licence - Documents Marketo - Documentation du produit
+title: Délivrer une licence
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Émission d’une licence {#issue-a-license}
+# Délivrer une licence {#issue-a-license}
 
-Vous devez configurer les utilisateurs avec une licence pour utiliser la gestion des actifs numériques (TAM). Voici comment faire ça.
+Vous devez configurer les utilisateurs avec une licence pour utiliser TAM. Voici comment faire.
 
 >[!NOTE]
 >
->Le nombre de licences disponibles varie en fonction de votre abonnement. Si vous avez besoin de plus, contactez votre représentant commercial.
+>Le nombre de licences disponibles varie en fonction de votre abonnement. Pour en savoir plus, veuillez contacter votre représentant commercial.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles**. Sélectionnez l’utilisateur auquel accorder la licence, cliquez sur la liste déroulante **Licence de publication** et sélectionnez **Gestion de compte Target**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]**. Sélectionnez l’utilisateur pour lequel émettre la licence, cliquez sur le menu déroulant **[!UICONTROL Émettre une licence]**, puis sélectionnez **[!UICONTROL Gestion du compte Target]**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Cochez la case **Activer la licence** et cliquez sur **Enregistrer**.
+1. Cochez la case **[!UICONTROL Activer la licence]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/issue-a-license-3.png)
 
    >[!NOTE]
    >
-   >Pour supprimer la licence d’un utilisateur, suivez l’étape 1, puis décochez la case et cliquez sur **Enregistrer**.
+   >Pour supprimer une licence utilisateur, suivez l’étape 1, puis décochez la case et cliquez sur **[!UICONTROL Enregistrer]**.

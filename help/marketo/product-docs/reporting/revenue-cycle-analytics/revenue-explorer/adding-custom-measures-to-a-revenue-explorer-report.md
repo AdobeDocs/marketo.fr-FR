@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10097747
-description: Ajout de mesures personnalisées à un rapport de l’Explorateur des recettes - Documents Marketo - Documentation du produit
-title: Ajout de mesures personnalisées à un rapport de l’Explorateur de recettes
+description: Ajout de mesures personnalisées à un rapport Revenue Explorer - Documents Marketo - Documentation du produit
+title: Ajout de mesures personnalisées à un rapport de l’explorateur de revenus
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Ajout de mesures personnalisées à un rapport de l’Explorateur de recettes {#adding-custom-measures-to-a-revenue-explorer-report}
+# Ajout de mesures personnalisées à un rapport de l’explorateur de revenus {#adding-custom-measures-to-a-revenue-explorer-report}
 
-Il arrive que vous souhaitiez une mesure personnalisée dans un rapport. C&#39;est facile de créer les vôtres.
+Il arrive que vous souhaitiez inclure une mesure personnalisée dans un rapport. Il est facile de créer le vôtre.
 
-Dans l’exemple ci-dessous, vous créez une mesure calculée pour les soft bounces, qui prend les mesures déjà dans le rapport et utilise les maths de base pour créer une mesure. Vous pouvez également créer d’autres types de mesures.
+Dans l’exemple ci-dessous, vous créez une mesure calculée pour les soft bounces, qui utilise les mesures figurant déjà dans le rapport et utilise les méthodes mathématiques de base pour créer une mesure. Vous pouvez également créer d’autres types de mesures.
 
 >[!PREREQUISITES]
 >
 >Vous avez besoin d’au moins une mesure dans votre rapport, mais il n’est pas nécessaire qu’il s’agisse de l’une des mesures que vous utilisez pour définir votre mesure personnalisée.
 
-1. Extrayez les champs dont vous avez besoin pour votre rapport. Pour plus d’informations, voir [Ajout de champs à un rapport de l’explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) .
+1. Recherchez les champs dont vous avez besoin pour votre rapport. Voir [Ajout de champs à un rapport de l’explorateur de revenus](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) pour plus d’informations.
 
-1. Cliquez avec le bouton droit de la souris sur une mesure existante (cellule bleue), cliquez sur **Mesure définie par l’utilisateur** et sélectionnez **Mesure calculée**.
+1. Cliquez avec le bouton droit sur une mesure existante (cellule bleue), cliquez sur **[!UICONTROL Mesure définie par l’utilisateur]** et sélectionnez **[!UICONTROL Mesure calculée]**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -31,22 +31,22 @@ Dans l’exemple ci-dessous, vous créez une mesure calculée pour les soft boun
 
    ![](assets/image2016-1-26-11-3a26-3a23.png)
 
-1. Cliquez sur chaque élément dont vous avez besoin à gauche et cliquez sur la flèche pour le déplacer. Ajoutez des symboles mathématiques si nécessaire.
+1. Cliquez sur chaque élément dont vous avez besoin à gauche, puis sur la flèche pour le déplacer. Ajoutez des symboles mathématiques si nécessaire.
 
    ![](assets/image2016-1-26-11-3a16-3a55.png)
 
    >[!TIP]
    >
-   >Vous pouvez saisir vous-même les symboles mathématiques ou utiliser la zone de sélection.
+   >Vous pouvez taper les symboles mathématiques vous-même ou utiliser la zone de sélection.
 
-1. Une fois que vous avez terminé, cliquez sur **OK**.
+1. Lorsque vous avez terminé, cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
-   La nouvelle mesure personnalisée apparaît sous la forme d’une nouvelle colonne dans le rapport.
+   Votre nouvelle mesure personnalisée apparaît dans une nouvelle colonne du rapport.
 
    ![](assets/image2016-1-26-11-3a29-3a16.png)
 
    >[!MORELIKETHIS]
    >
-   >[Ajout de champs à un rapport de l’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[Ajout de champs à un rapport de l’explorateur de revenus](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

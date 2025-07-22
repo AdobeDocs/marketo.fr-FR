@@ -1,37 +1,37 @@
 ---
 unique-page-id: 14352475
-description: Installation des champs d’événement de la connexion aux ventes dans l’historique des activités - Documents Marketo - Documentation du produit
-title: Installation des champs d’événement de la connexion aux ventes dans l’historique des activités
+description: Installer les champs d’événement Sales Connect sur l’historique des activités - Documents Marketo - Documentation du produit
+title: Installer les champs d’événement Sales Connect dans l’historique des activités
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 1%
+source-wordcount: '260'
+ht-degree: 3%
 
 ---
 
-# Installation des champs d’événement de la connexion aux ventes dans l’historique des activités {#install-sales-connect-event-fields-on-activity-history}
+# Installer les champs d’événement Sales Connect dans l’historique des activités {#install-sales-connect-event-fields-on-activity-history}
 
-Une fois que vous avez installé le package Enterprise dans Salesforce, vous pouvez installer les champs d’événement Sales Connect dans votre section d’historique des activités. Les champs d’événement Sales Connect contiennent des informations telles que des vues, des clics et des campagnes. Vous pouvez ainsi obtenir des informations sur vos emails directement importés dans Salesforce.
+Une fois que vous avez installé le package d’entreprise dans [!DNL Salesforce], vous pouvez installer les champs d’événement [!UICONTROL Sales Connect] dans votre section d’historique des activités. Les champs d’événement [!UICONTROL Sales Connect] incluent des informations telles que des affichages, des clics et des campagnes. Vous pouvez ainsi avoir des informations sur vos e-mails directement importées dans [!DNL Salesforce].
 
-Assurez-vous de faire équipe avec votre administrateur Salesforce lors de l’exécution de ces étapes. Dans cet exemple, nous allons installer les champs sur la **Disposition de la page de pistes**. Vous pouvez également installer les champs sur les dispositions de page Contact, Compte et Opportunité. N’oubliez pas que lorsque vous enregistrez des emails dans Comptes et opportunités, vous avez besoin du contact que vous envoyez par courrier électronique associé en tant que rôle de contact.
+Veillez à faire équipe avec votre administrateur [!DNL Salesforce] lors de l’exécution de ces étapes. Dans cet exemple, nous allons installer les champs sur la **Mise en page des prospects**. Vous pouvez également installer les champs sur les mises en page Contact, Compte et Opportunité. N’oubliez pas que lorsque vous consignez des e-mails dans Comptes et opportunités , vous aurez besoin du contact que vous envoyez en tant que rôle de contact.
 
-1. Cliquez sur **Configuration**.
-1. Cliquez sur **Personnaliser**.
-1. Cliquez sur **Pistes**.
-1. Cliquez sur **Dispositions de page**.
-1. Cliquez sur **Modifier** en regard de la mise en page que vous souhaitez modifier.
+1. Cliquez sur **[!UICONTROL Configurer]**.
+1. Cliquez sur **[!UICONTROL Personnaliser]**.
+1. Cliquez sur **[!UICONTROL Leads]**.
+1. Cliquez sur **[!UICONTROL Dispositions de page]**.
+1. Cliquez sur **[!UICONTROL Modifier]** en regard de la mise en page à modifier.
 
    >[!NOTE]
    >
-   >Sales Connect installera certaines mises en page pour vous, mais si vous en avez déjà une par défaut que votre équipe utilise, vous souhaiterez l’installer là-bas. Si vous ne souhaitez pas les utiliser, vous pouvez supprimer les mises en page de la page Connect de ventes.
+   >[!DNL Sales Connect] installera certaines mises en page pour vous, mais si vous en avez déjà une par défaut, votre équipe l’utilisera. Vous pouvez supprimer les mises en page [!DNL Sales Connect] si vous ne souhaitez pas les utiliser.
 
-1. Faites défiler jusqu’à la section Historique des activités .
-1. Cliquez sur la clé à molette à modifier.
-1. Sélectionnez les champs de connexion aux ventes que vous souhaitez inclure dans la section Historique des activités . Si vous ne voyez pas les champs Sales Connect ici, vous avez peut-être installé le mauvais package Salesforce.
-1. Cliquez sur **Ajouter** pour déplacer les champs de votre choix.
-1. Cliquez sur **OK**.
-1. Cliquez sur **Enregistrer**.
+1. Faites défiler l’écran jusqu’à la section [!UICONTROL Historique des activités].
+1. Cliquez sur la clé à molette pour la modifier.
+1. Sélectionnez les champs [!UICONTROL Connexion commerciale] à inclure dans la section [!UICONTROL Historique des activités]. Si les champs [!UICONTROL Sales Connect] ne s’affichent pas ici, c’est peut-être parce que le package [!DNL Salesforce] installé n’est pas correct.
+1. Cliquez sur **[!UICONTROL Ajouter]** pour déplacer les champs de votre choix.
+1. Cliquez sur **[!UICONTROL OK]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
-   Vos utilisateurs peuvent désormais consulter des informations précieuses et des mises à jour sur leurs emails dans Salesforce !
+   Vos utilisateurs peuvent désormais voir des informations et des mises à jour importantes sur leurs e-mails dans [!DNL Salesforce] !

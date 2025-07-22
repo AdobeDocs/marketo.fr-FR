@@ -4,7 +4,7 @@ description: Configuration Des Notifications Push Mobiles - Documents Marketo - 
 title: Configurer les notifications push mobiles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Configurer les notifications push mobiles {#configure-mobile-push-notification}
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. Sélectionnez votre ressource push et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre ressource push et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Si votre message push s&#39;applique à une seule plateforme (par exemple, iOS), vous pouvez exclure l&#39;autre plateforme en faisant glisser manuellement son sélecteur sur **Désactivé**.
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il existe trois types d’actions de clic :
+   >Il existe trois types d’actions [!UICONTROL Appuyer] :
    >
    >**Lancer l’application** - **Cette application** ouvre la page d’accueil de votre application lorsque vous appuyez sur la notification. **Personnalisé** utilise un lien profond pour ouvrir d’autres zones de votre application ou de toute autre application vers laquelle vous disposez du lien (voir [URI de lien profond](#deep-link-uris) ci-dessous pour plus de détails).
    >
-   >**Page de destination** - vous dirige vers une page de destination Marketo spécifiée.
+   >**[!UICONTROL Page de destination]** - vous dirige vers une page de destination Marketo spécifiée.
    >
-   >**URL externe** - vous dirige vers une page de destination autre que Marketo.
+   >**[!UICONTROL URL externe]** - vous dirige vers une page de destination autre que Marketo.
 
 1. Pour insérer un lien profond pour une action d’appui personnalisée, sélectionnez **Personnalisé** et saisissez l’[URI de lien profond](#deep-link-uris) dans le champ.
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. Prévisualisez l’autre plateforme et cliquez sur **Terminer**.
+1. Prévisualisez l’autre plateforme et cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -81,7 +81,7 @@ Un URI de lien profond est constitué de trois parties : nom du schéma, chemin 
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Comme votre développeur dispose de nombreuses options pour définir des URI de lien profond, demandez-lui de vous envoyer les URI (liens) des pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Comme votre développeur dispose de nombreuses options pour définir des URI de lien profond, demandez-lui de vous envoyer les URI (liens) des pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent vers les bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

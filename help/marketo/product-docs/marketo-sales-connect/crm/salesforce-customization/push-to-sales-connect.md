@@ -1,39 +1,39 @@
 ---
 unique-page-id: 14352477
-description: Push to Sales Connect - Marketo Docs - Documentation du produit
-title: Push to Sales Connect
+description: Push to [!DNL Sales Connect] - Documents Marketo - Documentation du produit
+title: Envoyer à  [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Push to Sales Connect {#push-to-sales-connect}
+# Intégrer à [!DNL Sales Connect] {#push-to-sales-connect}
 
-Notre bouton Push to Tout (Envoyer à tout) contiendra une liste de vos prospects/contacts dans Salesforce et les placera dans un groupe dans Sales Connect (Connexion aux ventes). Vous pouvez ensuite envoyer rapidement un e-mail de groupe personnalisable en pièce jointe du suivi Tout.
+Notre bouton [!UICONTROL Push to Tout] prendra une liste de vos leads/contacts dans [!DNL Salesforce] et les intégrera à un groupe dans [!DNL Sales Connect]. Vous pouvez ensuite envoyer rapidement un e-mail de groupe personnalisable avec le suivi Tout joint.
 
 ## Exigences {#requirements}
 
-* Package Salesforce Sales Connect installé par l’administrateur Salesforce
+* Package [!DNL Sales Connect Salesforce] installé par [!DNL Salesforce] Admin
 
-* Bouton Push to Sales Connect (Envoyer à la connexion aux ventes) installé en mode Liste par l’administrateur Salesforce
+* Bouton [!UICONTROL Push to Sales Connect] installé pour afficher la liste par [!DNL Salesforce] administrateur
 
-* Connexion Salesforce établie avec Sales Connect pour un utilisateur qui effectue les notifications push
+* [!DNL Salesforce] Connexion établie avec [!DNL Sales Connect] pour l&#39;utilisateur effectuant la notification push
 
 ## Comment {#how-to}
 
-1. Cliquez sur l’onglet **Lead/Contact** dans Salesforce.
-1. Basculez vers le mode Liste que vous souhaitez passer à la connexion aux ventes en regard du bouton Atteindre .
-1. Cliquez sur **Go**.
-1. Sélectionnez tous les pistes/contacts que vous souhaitez transférer.
-1. Sélectionnez **Push to MSE**.
-1. Une nouvelle fenêtre s’affiche pour vérifier le nombre de pistes/contacts que vous souhaitez transférer. Sélectionnez **Passez au groupe**. Sales Connect ne redirigera pas les contacts marqués comme Email Opt Out dans Salesforce ou Désabonné dans Sales Connect.
+1. Cliquez sur l’onglet **[!UICONTROL Lead/Contact]** dans [!DNL Salesforce].
+1. Basculez vers la vue Liste sur laquelle vous souhaitez POUSSER pour [!DNL Sales Connect] à côté du bouton [!UICONTROL Aller].
+1. Cliquez sur **[!UICONTROL Aller]**.
+1. Sélectionnez tous les leads/contacts que vous souhaitez promouvoir.
+1. Sélectionnez **[!UICONTROL Push to MSE]**.
+1. Une nouvelle fenêtre s’affiche pour vérifier le nombre de leads/contacts que vous souhaitez transférer. Sélectionnez **[!UICONTROL Passer au groupe]**.[!DNL Sales Connect] ne transmettra aucun contact marqué comme [!UICONTROL Désinscription par e-mail] dans [!DNL Salesforce] ou [!UICONTROL Désabonné] dans [!DNL Sales Connect].
 
    >[!NOTE]
    >
-   >Sales Connect ajoutera ce groupe intitulé &quot;SFDC-...&quot; à la page Relationships sur l’ [application web](https://toutapp.com/login).
+   >[!DNL Sales Connect] ajouterai ce groupe intitulé « SFDC-... » à la page Relations de l’[application web](https://toutapp.com/login).
 
-1. Sélectionnez **Email Entire Group** pour envoyer l’e-mail de ce groupe.
+1. Sélectionnez **[!UICONTROL Envoyer un e-mail au groupe entier]** pour envoyer l’e-mail de ce groupe.

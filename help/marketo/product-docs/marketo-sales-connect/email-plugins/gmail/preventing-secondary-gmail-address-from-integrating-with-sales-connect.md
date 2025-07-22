@@ -1,42 +1,42 @@
 ---
 unique-page-id: 14352546
-description: Prévention de l’intégration des adresses Gmail Secondaire à Sales Connect - Documents Marketo - Documentation du produit
-title: Empêcher l’intégration de l’adresse Gmail Secondaire à Sales Connect
+description: Empêcher l’intégration d’une adresse Gmail Secondaire à Sales Connect - Documents Marketo - Documentation du produit
+title: Empêcher l’intégration d’une adresse Gmail Secondaire à Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
-# Empêcher l’intégration de l’adresse Gmail Secondaire à Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
+# Empêcher l’intégration d’une adresse Gmail Secondaire à [!DNL Sales Connect] {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
-## Intégration de Gmail endommagée (pourquoi mon Gmail personnel envoie-t-il des emails ?) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
+## Intégration de Gmail rompue (pourquoi mon profil Gmail envoie-t-il des emails) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
 
-La raison la plus courante d’une connexion Gmail rompue est une intégration accidentelle avec le compte personnel d’un utilisateur. Cela peut se produire lorsqu’un utilisateur clique sur &quot;Se connecter&quot; ou lorsqu’il tente d’envoyer un courrier électronique à partir de son compte personnel. Cela peut être très tentant, car l’option existe lors de l’accès à votre compte Gmail dans la même instance de Chrome que votre courrier électronique de travail.
+La raison la plus courante de l’interruption d’une connexion Gmail est une intégration accidentelle au compte personnel d’un utilisateur. Cela peut se produire lorsqu’un utilisateur clique sur « Se connecter » ou tente d’envoyer un e-mail à partir de son compte personnel. Cela peut être très tentant, car l’option existera lors de l’accès à votre compte Gmail dans la même instance de [!DNL Chrome]que votre e-mail professionnel.
 
-## Pourquoi Sales Connect tente-t-il même de s’intégrer à mon Gmail personnel ? {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
+## Pourquoi essaie-t-[!DNL Sales Connect] même de m’intégrer à mon Gmail personnel ? {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
 
-Sales Connect s’intègre à Gmail par le biais d’une extension installée dans le navigateur Chrome. Chaque fois que l’extension détecte une instance de Gmail ouverte, elle offre une option d’intégration avec celle-ci. Pour empêcher une intégration avec votre compte Gmail personnel, nous vous recommandons l’une des trois choses suivantes...
+[!DNL Sales Connect] s’intègre à Gmail par le biais d’une extension installée dans le navigateur [!DNL Chrome]. Chaque fois que l’extension envoie une instance de Gmail ouverte, elle offre une option permettant de l’intégrer. Pour éviter toute intégration avec votre compte Gmail personnel, nous vous recommandons l’une des trois actions suivantes...
 
-Se connecter en tant qu’autre utilisateur Chrome (recommandé)
+Se Connecter En Tant Qu&#39;Autre [!DNL Chrome]Utilisateur Recommandé)
 
-Cliquez sur [ce lien](https://support.google.com/chrome/answer/2364824?hl=en) pour découvrir comment créer un autre profil Chrome.
+Cliquez sur [ce lien](https://support.google.com/chrome/answer/2364824?hl=en) pour savoir comment créer un autre [!DNL Chrome]Profil.
 
-**Avantages** : la connexion en tant qu’autre utilisateur ouvre une nouvelle instance de Chrome. Cette instance est une toute nouvelle fenêtre de Chrome et aucune de vos anciennes extensions n’existera dans celle-ci. Il conserve également les cookies afin que vous n’ayez pas à vous connecter à votre Gmail à chaque fois.
+**Avantages** : la connexion en tant qu’autre utilisateur ouvre une nouvelle instance de [!DNL Chrome]. Cette instance est une toute nouvelle fenêtre d’[!DNL Chrome], et aucune de vos anciennes extensions n’existera dans celle-ci. Il conserve également des cookies afin que vous n&#39;ayez pas à vous connecter à votre Gmail à chaque fois.
 
-**Inconvénients** : deux fenêtres de Chrome doivent être ouvertes.
+**Inconvénients** : Deux fenêtres de [!DNL Chrome] doivent être ouvertes.
 
 Utiliser un autre navigateur
 
-**Avantages :** L’utilisation d’un autre navigateur Internet (IE ou Firefox) sur lequel l’extension n’est pas installée empêchera cela.
+**Avantages :** l’utilisation d’un autre navigateur Internet (IE ou Firefox) sans extension installée empêchera cela.
 
-**Inconvénients** : L’utilisation de plusieurs navigateurs peut être embêtante.
+**Inconvénients** : l’utilisation de plusieurs navigateurs peut être ennuyeuse.
 
 Utiliser Une Fenêtre Incognito
 
-**Avantages :** Une fenêtre incognito est comme ouvrir une version nue de Chrome. En d’autres termes, aucune de vos extensions n’est installée et Sales Connect ne sera pas là pour se connecter.
+**Avantages :** une fenêtre en mode privé revient à ouvrir une version nue d’[!DNL Chrome]. En d’autres termes, aucune de vos extensions n’y sera installée et [!DNL Sales Connect] ne sera pas là pour se connecter.
 
-**Inconvénients** : vous devrez vous connecter à Gmail chaque fois que vous commencerez votre journée, et à nouveau si vous fermez accidentellement la fenêtre.
+**Inconvénients** : Vous devrez vous connecter à Gmail chaque fois que vous commencerez votre journée, et de nouveau si vous fermez accidentellement la fenêtre.

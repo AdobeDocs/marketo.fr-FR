@@ -4,7 +4,7 @@ description: Exemple d’intégration d’événement ON24 - Documents Marketo -
 title: Exemple d’intégration d’événement ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -13,84 +13,84 @@ ht-degree: 0%
 
 # Exemple d’intégration d’événement ON24 {#example-on-event-integration}
 
-Voici un exemple d’événement, y compris des campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, veillez à tester vos campagnes avant de les exécuter.
+Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, veillez à tester vos campagnes avant de les exécuter.
 
-## Création d’un événement dans les activités marketing {#create-a-new-event-in-marketing-activities}
+## Créer un événement dans les activités marketing {#create-a-new-event-in-marketing-activities}
 
-1. Sélectionnez **Nouveau** > **Nouveau programme**.
+1. Sélectionnez **[!UICONTROL Nouveau]** > **[!UICONTROL Nouveau programme]**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Sélectionnez un **dossier de campagne** où l’événement se tiendra.
+1. Sélectionnez un **[!UICONTROL dossier Campaign]** où se tiendra l’événement.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Saisissez un **Nom** pour l’événement.
+1. Saisissez un **[!UICONTROL Nom]** pour l’événement.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Sélectionnez **Event** comme **Program Type**.
+1. Sélectionnez **[!UICONTROL Événement]** comme **[!UICONTROL Type de programme]**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Sélectionnez **Webinaire** comme **Canal** pour l’événement.
+1. Sélectionnez **[!UICONTROL Webinaire]** comme **[!UICONTROL Canal]** pour l’événement.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Cliquez sur **Créer**.
+1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
-## Invitation (campagne par lots)  {#invite-batch-campaign}
+## Inviter (Campagne Par Lots)  {#invite-batch-campaign}
 
-* **Liste dynamique** - Définissez qui vous inviterez à l’événement.
+* **Liste dynamique** - Définissez les personnes que vous inviterez à l’événement.
 * **Flux**
 
-   * Envoyer un courrier électronique : s’il s’agit d’un courrier électronique de ressource local, il aura la convention d’affectation des noms suivante : EventName.EmailName. Vous pouvez également utiliser des emails globaux.
-   * Changez l’état dans Progression - Défini sur Webinaire > Invité.
+   * Envoyer un e-mail : s’il s’agit d’un e-mail de ressource locale, la convention de nommage sera la suivante : EventName.EmailName. Vous pouvez également utiliser des e-mails globaux.
+   * Modifier le statut en cours - Définir sur Webinaire > Invité.
 
-* **Planning** - Définissez la date d’envoi de l’invitation.
+* **Planification** - Définissez la date d’envoi de l’invitation.
 
-## Enregistrement/Confirmation (campagne de déclenchement) {#registration-confirmation-trigger-campaign}
+## Inscription/Confirmation (Déclencher La Campagne) {#registration-confirmation-trigger-campaign}
 
 * **Liste dynamique**
 
-   * Déclenchez la campagne en fonction du **formulaire de remplissage**. Veillez à inclure la page d’entrée sur laquelle le formulaire réside en utilisant **Ajouter la contrainte**, en particulier si le formulaire est utilisé sur plusieurs pages d’entrée.
+   * Déclenchez la campagne en fonction de **[!UICONTROL Remplit le formulaire]**. Veillez à inclure la page de destination sur laquelle réside le formulaire à l’aide de l’option **[!UICONTROL Ajouter une contrainte]**, en particulier si le formulaire est utilisé sur plusieurs pages de destination.
 
 >[!CAUTION]
 >
->Vous devez utiliser un formulaire Marketo pour enregistrer des personnes pour l’événement, ou un formulaire non Marketo avec l’intégration d’API appropriée pour transmettre les données d’enregistrement à Marketo. C’est essentiel au succès de l’intégration de votre partenaire d’événement. **REMARQUE** : si vous utilisez un formulaire Marketo sur une page d’entrée autre que Marketo, votre déclencheur sera **Remplit le formulaire** avec le nom du formulaire.
+>Vous devez utiliser un formulaire Marketo pour inscrire des personnes à l’événement ou un formulaire autre que Marketo avec l’intégration d’API appropriée pour pousser les données d’enregistrement vers Marketo. Ceci est essentiel au succès de votre intégration [!UICONTROL partenaire d’événement]. **REMARQUE** : si vous utilisez un formulaire Marketo sur une page de destination autre que Marketo, votre déclencheur sera **[!UICONTROL remplit le formulaire]** avec le [!UICONTROL nom du formulaire].
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Flux**
 
-   * **Changement d’état dans la progression** - Défini sur Webinaire > Enregistré. **ATTENTION** : cette étape de flux est requise lors de la configuration de votre campagne enfant. Lorsque l’état de progression d’une personne passe à **Registered**, Marketo envoie les informations d’enregistrement à ON24.
+   * **Modifier le statut en progression** - Définissez sur Webinaire > Enregistré. **ATTENTION** : cette étape de flux est requise lors de la configuration de votre campagne enfant. Lorsque le statut de progression d’une personne passe à **Enregistré**, Marketo transmet les informations d’enregistrement à ON24.
 
-   * **Envoyer un courrier électronique** - Confirmation par courrier électronique (définie sur **Operational** de sorte que les personnes désabonnées qui se sont enregistrées continuent de le recevoir).
+   * **Envoyer un e-mail** - E-mail de confirmation (défini sur **Opérationnel** afin que les personnes désabonnées qui se sont inscrites le reçoivent toujours).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**REMARQUE** : si la personne est renvoyée avec une erreur d’enregistrement, elle ne reçoit pas la confirmation par courrier électronique.
+**REMARQUE** : si la personne est renvoyée avec une erreur d’enregistrement, elle ne recevra pas l’e-mail de confirmation.
 
-## Rappel (campagne par lots) {#reminder-batch-campaign}
+## Rappel (Campagne Par Lots) {#reminder-batch-campaign}
 
-* **Liste dynamique** - Filtrez à l’aide de **Member of Program** et définissez l’état sur **Registered**.
+* **Liste dynamique** - Filtrez à l’aide de **Membre du programme** et définissez le statut sur **Enregistré**.
 
-* **Flux** - Envoyer un courrier électronique (rappel).
+* **Flux** - Envoyer un e-mail (e-mail de rappel).
 
-**REMARQUE** : vous pouvez utiliser une campagne similaire pour envoyer un email de relance *différent* aux personnes qui ont été invitées mais qui ne se sont pas encore enregistrées.
+**REMARQUE** : vous pouvez utiliser une campagne similaire pour envoyer un e-mail de relance *différent* aux personnes invitées qui ne se sont pas encore inscrites.
 
-## Campagne de relance (campagne par lot ou de déclenchement) {#follow-up-campaign-batch-or-trigger-campaign}
+## Campagne de suivi (campagne par lots ou par déclencheurs) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Liste dynamique** - Déclenchez en fonction des modifications de l’état du programme.
+* **Liste dynamique** - Déclenchement en fonction des modifications du statut du programme.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Flux** - Envoyer un courrier électronique. Utilisez les choix pour envoyer différents emails en fonction de l’état du programme.
+* **Flux** - Envoyez Un E-Mail. Utilisez des choix pour envoyer différents e-mails en fonction du statut du programme.
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[Compréhension des événements d’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Présentation des événements de l&#39;adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

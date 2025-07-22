@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11382829
-description: Désinstallation du module externe Marketo Outlook par l’informatique - Documents Marketo - Documentation du produit
-title: Désinstallation du module externe Marketo Outlook par informatique
+description: Désinstallation du plug [!DNL Outlook] in Marketo par le service informatique - Documents Marketo - Documentation du produit
+title: Désinstallation du plug [!DNL Outlook] in Marketo par le service informatique
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 2%
 
 ---
 
-# Désinstallation du module externe Marketo Outlook par informatique {#marketo-outlook-plugin-uninstall-by-it}
+# Désinstallation du plug-in Marketo [!DNL Outlook] par le service informatique {#marketo-outlook-plugin-uninstall-by-it}
 
-Voici comment le service informatique peut désinstaller le module externe Marketo Outlook à distance.
+Voici comment le service informatique peut désinstaller le plug-in Marketo [!DNL Outlook] à distance.
 
-Exécutez la ligne de commande suivante en tant que &quot;Système&quot; ou compte d’utilisateur administrateur avec le commutateur /x à désinstaller.
+Exécutez la ligne de commande suivante en tant que « Système » ou un compte utilisateur d’administration avec le commutateur /x à désinstaller.
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -25,7 +25,7 @@ Exécutez la ligne de commande suivante en tant que &quot;Système&quot; ou comp
 >
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-Pour la résolution des problèmes, vous pouvez activer la journalisation afin de créer un fichier journal de sortie.
+À des fins de dépannage, vous pouvez activer la journalisation pour créer un fichier journal de sortie.
 
 `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
@@ -35,7 +35,7 @@ Pour la résolution des problèmes, vous pouvez activer la journalisation afin d
 >
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn /L*v MarketoAddinUninstall.log</pre>`
 
-Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le chemin du fichier dans la ligne de commande.
+Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le chemin d’accès au fichier dans la ligne de commande.
 
 `<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
 
@@ -47,6 +47,6 @@ Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le
 
 >[!CAUTION]
 >
->La désinstallation du module externe à distance entraîne la fermeture forcée d’Outlook sur l’ordinateur de l’utilisateur.
+>La désinstallation à distance du plug-in entraîne la fermeture forcée des [!DNL Outlook] sur l’ordinateur de l’utilisateur.
 
-Reportez-vous à la liste complète des commutateurs [&#128279;](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) de Microsoft si vous souhaitez essayer différents niveaux de journalisation ou niveaux d’interface utilisateur.
+Veuillez consulter la liste complète des commutateurs de [Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) si vous souhaitez essayer différents niveaux de journalisation ou d&#39;interface utilisateur.

@@ -1,77 +1,77 @@
 ---
-description: Activer/Désactiver la synchronisation d’objets personnalisés - Documents Marketo - Documentation du produit
-title: Activer/Désactiver la synchronisation d’objets personnalisés
+description: Activer/Désactiver La Synchronisation Des Objets Personnalisés - Documents Marketo - Documentation Du Produit
+title: Activer/Désactiver La Synchronisation Des Objets Personnalisés
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-# Activer/Désactiver la synchronisation d’objets personnalisés {#enable-disable-custom-object-sync}
+# Activer/Désactiver La Synchronisation Des Objets Personnalisés {#enable-disable-custom-object-sync}
 
-Les objets personnalisés créés dans votre instance CRM Veeva peuvent également faire partie de Marketo Engage. Voici comment le mettre en place.
+Les objets personnalisés créés dans votre instance CRM [!DNL Veeva] peuvent également faire partie de Marketo Engage. Voici comment le configurer.
 
-## Activation ou désactivation de la synchronisation d’objet personnalisé {#enable-or-disable-the-custom-object-sync}
+## Activer ou désactiver la synchronisation d’objet personnalisé {#enable-or-disable-the-custom-object-sync}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**, puis sur **[!UICONTROL Synchronisation des objets Veeva]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**, puis **[!UICONTROL Synchronisation des objets Veeva]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. S’il s’agit de votre premier objet personnalisé, cliquez sur Schéma de synchronisation. Dans le cas contraire, cliquez sur **[!UICONTROL Actualiser le schéma]** pour vous assurer que vous disposez de la dernière version.
+1. S&#39;il s&#39;agit de votre premier objet personnalisé, cliquez sur **[!UICONTROL Schéma de synchronisation]**. Si ce n’est pas le cas, cliquez sur **[!UICONTROL Actualiser le schéma]** pour vous assurer que vous disposez de la dernière version.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Si votre synchronisation globale est en cours d’exécution, désactivez-la en cliquant sur **[!UICONTROL Désactiver la synchronisation globale]**.
+1. Si la synchronisation globale est en cours d’exécution, désactivez-la en cliquant sur **[!UICONTROL Désactiver la synchronisation globale]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
    >[!NOTE]
    >
-   >Une synchronisation du schéma d’objet personnalisé de Veeva peut prendre quelques minutes.
+   >La synchronisation du schéma d’objet personnalisé [!DNL Veeva] peut prendre quelques minutes.
 
 1. Cliquez sur **[!UICONTROL Actualiser le schéma]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Sélectionnez l’objet que vous souhaitez synchroniser, puis cliquez sur Activer la synchronisation.
+Sélectionnez l’objet à synchroniser et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
 ![](assets/enable-disable-custom-object-sync-5.png)
 
 >[!TIP]
 >
->Marketo ne peut synchroniser un objet personnalisé que s’il a une relation directe avec l’objet Contact ou Compte dans le CRM Veeva.
+>Marketo ne peut synchroniser un objet personnalisé que s’il a une relation directe avec l’objet Contact ou Compte dans [!DNL Veeva] CRM.
 
-1. Cliquez à nouveau sur **[!UICONTROL Activer la synchronisation]**.
+1. Cliquez de nouveau sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Revenez à l’onglet Veeva et cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Revenez à l’onglet [!UICONTROL  Veeva ] et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
-## Utilisation des objets personnalisés {#using-your-custom-objects}
+## Utilisation d’objets personnalisés {#using-your-custom-objects}
 
 >[!NOTE]
 >
 >Vous ne pouvez pas utiliser d’objets personnalisés dans des campagnes intelligentes avec des déclencheurs.
 
-1. Dans votre liste dynamique, faites glisser le pointeur de la souris sur le filtre &quot;Avec opportunité&quot; et définissez sur **[!UICONTROL True]**.
+1. Dans votre [!UICONTROL Liste dynamique], faites glisser sur le filtre « **[!UICONTROL A une opportunité]** » et définissez sur **[!UICONTROL Vrai]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
-1. Vous pouvez éventuellement utiliser des contraintes de filtre pour limiter la cible d’action.
+1. Vous pouvez éventuellement utiliser des contraintes de filtre pour limiter le focus.
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans les campagnes dynamiques et les listes dynamiques.
+Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans [!UICONTROL Campagnes intelligentes] et [!UICONTROL Listes intelligentes].
 
 >[!MORELIKETHIS]
 >
->[Ajouter/Supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Ajouter/supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclencheur](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

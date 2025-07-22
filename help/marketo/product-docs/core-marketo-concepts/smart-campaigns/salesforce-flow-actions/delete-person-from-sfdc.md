@@ -4,35 +4,35 @@ description: Supprimer une personne de SFDC - Documents Marketo - Documentation 
 title: Supprimer individu de SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 6%
 
 ---
 
 # Supprimer individu de SFDC {#delete-person-from-sfdc}
 
-Si vous devez supprimer un ensemble spécifique de pistes de Salesforce tout en les laissant comme des personnes en Marketo Engage, vous pouvez utiliser l’action Supprimer la personne de flux SFDC .
+Si vous devez supprimer un ensemble spécifique de prospects de Salesforce, mais les laisser en tant que personnes dans Marketo Engage, vous pouvez utiliser l’action de flux Supprimer une personne de SFDC .
 
 >[!NOTE]
 >
->Disponible uniquement lorsqu’il est intégré à Salesforce.
+>Disponible uniquement lorsqu’il est intégré à [!DNL Salesforce].
 
-1. Dans la base de données, cliquez sur la personne à supprimer de Salesforce. Cliquez ensuite sur **[!UICONTROL Actions de personne]** et sélectionnez **[!DNL Salesforce]**.
+1. Dans la base de données, cliquez sur la personne à supprimer de Salesforce. Cliquez ensuite sur **[!UICONTROL Actions de la personne]** et sélectionnez **[!DNL Salesforce]**.
 
    ![](assets/delete-person-from-sfdc-1.png)
 
-1. Sélectionnez **[!UICONTROL Supprimer la personne de SFDC]**.
+1. Sélectionnez **[!UICONTROL Supprimer une personne de SFDC]**.
 
    ![](assets/delete-person-from-sfdc-2.png)
 
-1. Assurez-vous que le paramètre **[!UICONTROL Supprimer dans Marketo]** est **[!UICONTROL false]**, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
+1. Assurez-vous que le paramètre **[!UICONTROL Supprimer dans Marketo]** est défini sur **[!UICONTROL false]**, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/delete-person-from-sfdc-3.png)
 
-   Une fois l’étape de flux exécutée, votre personne ne sera plus une piste dans Salesforce, mais restera dans Marketo.
+   Une fois l’étape de flux exécutée, votre personne ne sera plus un prospect dans [!DNL Salesforce], mais restera dans Marketo.
 
    >[!CAUTION]
    >
-   >Si vous définissez **[!UICONTROL Supprimer dans Marketo]** sur **[!UICONTROL true]** et supprimez les personnes de Marketo et les prospects de Salesforce, elles disparaissent pour toujours. Cela ne peut pas être défait.
+   >Si vous définissez **[!UICONTROL Supprimer dans Marketo]** sur **[!UICONTROL true]** et supprimez les personnes de Marketo et les prospects de Salesforce, leur annulation est définitive. Cette opération est irréversible.

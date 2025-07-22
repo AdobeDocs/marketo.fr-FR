@@ -1,47 +1,47 @@
 ---
 unique-page-id: 1147114
-description: Jetons de champ personnalisés des membres du programme - Documents Marketo - Documentation du produit
-title: Jetons de champ personnalisés des membres du programme
+description: Jetons De Champ Personnalisés De Membre De Programme - Documents Marketo - Documentation Du Produit
+title: Jetons de champ personnalisé du membre de programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 2%
 
 ---
 
-# Jetons de champ personnalisés des membres du programme {#program-member-custom-field-tokens}
+# Jetons de champ personnalisé du membre de programme {#program-member-custom-field-tokens}
 
-## Prise en charge des jetons pour les champs personnalisés des membres du programme {#token-support-for-program-member-custom-fields}
+## Prise en charge des jetons pour les champs personnalisés des membres de programme {#token-support-for-program-member-custom-fields}
 
-Au verso des fonctionnalités Champs personnalisés des membres de programme , la prise en charge des champs personnalisés des membres de programme est étendue dans les structures de jeton.
+À l’arrière des fonctionnalités de champs personnalisés de membre de programme, la prise en charge des champs personnalisés de membre de programme est étendue dans les structures de jetons.
 
 Les jetons PMCF seront pris en charge sous le domaine membre de la famille de jetons.
 
-Les jetons de membre sont utilisés pour les champs appartenant au champ Program Member . À partir de l’état actuel, les jetons de membre sont également utilisés pour insérer des valeurs uniques provenant des partenaires de services intégrés. Le jeton `{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services. {{member.registration code}} correspond au code d’enregistrement fourni par le fournisseur de services.
+Les jetons de membre sont utilisés pour les champs relevant du champ d’application du membre de programme. À partir de l’état actuel, les jetons de membre sont également utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. `{{member.webinar url}}` jeton résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services. {{member.registration code}} est résolu sur le code d’enregistrement fourni par le fournisseur de services.
 
 >[!NOTE]
 >
->* Les champs personnalisés des membres du programme ne peuvent être utilisés que dans le contexte d’un programme.
->* Les jetons de champ personnalisés d’un membre de programme ne peuvent pas être utilisés dans : en-tête d’email, Jetons de date dans les étapes d’attente ou Fragments de code.
+>* Les champs personnalisés de membre de programme ne peuvent être utilisés que dans le contexte d’un programme.
+>* Les jetons de champs personnalisés de membre de programme ne peuvent pas être utilisés dans : le pré-titre des e-mails, les jetons de date dans les étapes d’attente ou les fragments de code.
 >* Le statut de membre du programme n’est pas pris en charge dans les jetons de membre.
 
-## Utilisation de jetons de champ personnalisés de membre de programme dans Assets {#using-program-member-custom-field-tokens-in-assets}
+## Utilisation de jetons de champ personnalisé de membre de programme dans Assets {#using-program-member-custom-field-tokens-in-assets}
 
-Vous pouvez insérer des jetons de champs personnalisés membres du programme dans les emails, les landing pages, les SMS, les notifications push et les webhooks.
+Vous pouvez insérer des jetons de champs personnalisés de membre de programme dans les e-mails, les landing pages, les SMS, les notifications push et les Webhooks.
 
-**Emails**
+**E-mails**
 
-1. Sélectionnez l’adresse électronique souhaitée et cliquez sur **[!UICONTROL Modifier le brouillon]**.
+1. Sélectionnez l’e-mail souhaité, puis cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
-1. Cliquez sur l&#39;icône Insérer un jeton .
+1. Cliquez sur l’icône Insérer un jeton .
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Recherchez et sélectionnez le jeton de champ personnalisé de membre du programme de votre choix, saisissez une valeur par défaut, puis cliquez sur **[!UICONTROL Insérer]**.
+1. Recherchez et sélectionnez le jeton de champ personnalisé Membre de programme souhaité, saisissez une valeur par défaut, puis cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -51,23 +51,23 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
 >[!NOTE]
 >
->N&#39;oubliez pas d&#39;approuver votre email.
+>N’oubliez pas d’approuver votre e-mail.
 
-**Pages d’entrée**
+**Pages de destination**
 
-1. Sélectionnez votre page d’entrée et cliquez sur **[!UICONTROL Modifier le brouillon]**.
+1. Sélectionnez votre page de destination et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
    >[!NOTE]
    >
-   >Le concepteur de landing page s’ouvre dans une nouvelle fenêtre.
+   >Le concepteur de page de destination s’ouvre dans une nouvelle fenêtre.
 
 1. Double-cliquez sur la zone de texte enrichi à laquelle vous souhaitez ajouter le jeton.
 
    ![](assets/program-member-custom-field-tokens-6.png)
 
-1. Cliquez à l’emplacement où vous souhaitez que le jeton soit, puis cliquez sur l’icône Insérer un jeton .
+1. Cliquez à l’endroit où vous souhaitez placer le jeton, puis cliquez sur l’icône Insérer un jeton .
 
    ![](assets/program-member-custom-field-tokens-7.png)
 
@@ -85,7 +85,7 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
 **SMS**
 
-1. Sélectionnez le SMS souhaité et cliquez sur **[!UICONTROL Modifier le brouillon]**.
+1. Sélectionnez le SMS souhaité, puis cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -93,11 +93,11 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Recherchez et sélectionnez le jeton de champ personnalisé de membre du programme souhaité. Saisissez une valeur par défaut et cliquez sur Insérer.
+1. Recherchez et sélectionnez le jeton de champ personnalisé Membre de programme souhaité. Saisissez une [!UICONTROL valeur par défaut] puis cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Cliquez sur la liste déroulante Actions SMS et sélectionnez **[!UICONTROL Approuver et fermer]**.
+1. Cliquez sur le menu déroulant Actions SMS et sélectionnez **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -111,28 +111,28 @@ Vous pouvez insérer des jetons de champs personnalisés membres du programme da
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Cliquez sur le message dans l’éditeur et cliquez sur le bouton `{{` pour obtenir le sélecteur de jetons.
+1. Cliquez sur le message dans l’éditeur, puis sur le bouton `{{` pour obtenir le sélecteur de jeton.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Recherchez et sélectionnez le jeton de champ personnalisé de membre du programme souhaité. Saisissez une valeur par défaut et cliquez sur **[!UICONTROL Insérer]**.
+1. Recherchez et sélectionnez le jeton de champ personnalisé Membre de programme souhaité. Saisissez une valeur par défaut et cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Cliquez sur **[!UICONTROL Terminer]** pour enregistrer et quitter (ou **[!UICONTROL Suivant]** pour passer en revue en premier).
+1. Cliquez sur **[!UICONTROL Terminer]** pour enregistrer et quitter (ou **[!UICONTROL Suivant]** pour réviser en premier).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
 >[!NOTE]
 >
->Si le champ personnalisé de membre du programme d’un membre du programme n’a pas de valeur, le jeton est remplacé par la valeur par défaut si elle a été fournie.
+>Si le champ personnalisé de membre de programme d’un membre du programme n’a pas de valeur, le jeton sera remplacé par la valeur par défaut s’il a été fourni.
 
-## Utilisation de jetons de champ personnalisés de membre de programme dans les campagnes {#using-program-member-custom-field-tokens-in-campaigns}
+## Utilisation de jetons de champ personnalisé de membre de programme dans les campagnes {#using-program-member-custom-field-tokens-in-campaigns}
 
-Les jetons de champ personnalisés de membre de programme peuvent être utilisés dans :
+Les jetons de champ personnalisé de membre de programme peuvent être utilisés dans :
 
 * Créer une tâche
 * Créer une tâche dans Microsoft
 * Moments significatifs
-* Modification des actions de flux de valeur de données
+* Actions de flux Modifier la valeur de données
 * Webhooks

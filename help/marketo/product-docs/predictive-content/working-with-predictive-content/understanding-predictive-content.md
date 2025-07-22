@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11384665
-description: Présentation du contenu prédictif - Documents Marketo - Documentation du produit
+description: Présentation Du Contenu Prédictif - Documents Marketo - Documentation Du Produit
 title: Présentation du contenu prédictif
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,52 +13,52 @@ ht-degree: 0%
 
 # Présentation du contenu prédictif {#understanding-predictive-content}
 
-Après avoir [approuvé un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), vous y travaillez ici. La page Contenu prédictif affiche tous les titres que vous avez approuvés pour le contenu prédictif.
+Après avoir [approuvé un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), vous y travaillez ici. La page [!UICONTROL Contenu prédictif] affiche tous les titres que vous avez approuvés pour le contenu prédictif.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
-Les champs de page incluent :
+Les champs de page sont les suivants :
 
-* **Image et titre** : nom de l’élément de contenu et de l’image sélectionnée
-* **Activé par Source** : indique si le titre est approuvé pour les médias riches, le courrier électronique ou la barre de recommandation.
-* **Catégories** : créé par vous et utilisé pour regrouper vos résultats prédictifs pour le web ou l’email
-* **Clics** : Nombre total de clics sur le contenu recommandé (y compris toutes les sources)
-* **Taux de conversion** : pourcentage calculé par conversions directes divisé par le nombre de clics. Passez la souris pour afficher des données supplémentaires (voir ci-dessous).
-* **Conversion assistée** : visiteurs qui ont cliqué sur du contenu recommandé lors d’une visite précédente et ont rempli un formulaire plus tard
+* **[!UICONTROL Image et Nom]** : nom de l’élément de contenu et de l’image sélectionnée
+* **[!UICONTROL Activé par Source]** : indique si le titre est approuvé pour les médias riches, les e-mails ou la barre de recommandations.
+* **[!UICONTROL Catégories]** : créé par vous et utilisé pour regrouper vos résultats prédictifs pour le web ou les e-mails.
+* **[!UICONTROL Clics]** : nombre total de clics sur le contenu recommandé (toutes sources comprises)
+* **[!UICONTROL Taux de conversion]** : pourcentage calculé par les conversions directes divisées par les clics. Pointez pour afficher des données supplémentaires (voir ci-dessous)
+* **[!UICONTROL Conversion assistée]** : visiteurs et visiteuses qui ont cliqué sur le contenu recommandé au cours d’une visite précédente et qui ont rempli un formulaire ultérieurement
 
-## Filtrage du contenu {#filtering-content}
+## Filtrer le contenu {#filtering-content}
 
-**Catégorie**
+**[!UICONTROL Catégorie]**
 
-Vous pouvez filtrer le contenu par catégories créées. Cliquez sur l’icône de filtre et, sous **Catégorie**, sélectionnez une ou plusieurs catégories de contenu.
+Vous pouvez filtrer le contenu selon les catégories que vous avez créées. Cliquez sur l’icône de filtre et sous **[!UICONTROL Catégorie]**, sélectionnez une ou plusieurs catégories de contenu.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**Source activé**
+**[!UICONTROL Source activé]**
 
-Filtrez par type de contenu activé : Email, Média enrichi, Barre de recommandations.
+Filtrez par chaque type de contenu activé : [!UICONTROL e-mail], [!UICONTROL médias riches], [!UICONTROL barre de recommandations].
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**Analytics par Source**
+**[!UICONTROL Analytics par Source]**
 
-Le filtrage des analyses de contenu activées vous permet de voir les performances de chaque source.
+Les analyses de contenu activées par filtrage vous permettent de voir les performances de chaque source.
 
 ![](assets/image2017-10-3-9-3a25-3a34.png)
 
 ## Afficher les analyses par date {#display-analytics-by-date}
 
-1. sélectionnez les dates de début et de fin à droite (comme illustré). Cliquez sur **Apply**.
+1. sélectionnez les dates de début et de fin à droite (comme illustré). Cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
-## Affichage des données de tableau pour le contenu prédictif {#view-table-data-for-predictive-content}
+## Affichage des données du tableau pour le contenu prédictif {#view-table-data-for-predictive-content}
 
-Dans le tableau, vous pouvez afficher les sources activées pour le contenu prédictif, de gauche à droite : Barre de recommandations, Courriel et Média enrichi. Les sources activées s’affichent en vert. Vous les activez lorsque vous modifiez le contenu.
+Dans le tableau, vous pouvez afficher les sources activées pour le contenu prédictif, de gauche à droite : barre de recommandations, e-mail et médias riches. Les sources activées s’affichent en vert. Vous les activez lorsque vous modifiez le contenu.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Passez la souris sur la barre de la colonne Taux de conversion pour afficher le taux de conversion, la conversion directe et les données sur lesquelles l’utilisateur a cliqué.
+Passez la souris sur la barre de la colonne [!UICONTROL Taux de conversion] pour afficher le taux de conversion, la conversion directe et les données après un clic.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 
@@ -66,8 +66,8 @@ Passez la souris sur la barre de la colonne Taux de conversion pour afficher le 
 >
 >**Définitions**
 >
->**Taux de conversion** : pourcentage calculé par conversions directes divisé par le nombre de clics
+>**[!UICONTROL Taux de conversion]** : pourcentage calculé par les conversions directes divisées par les clics
 >
->**Conversion directe** : visiteurs qui ont cliqué sur le contenu recommandé et ont rempli un formulaire au cours de la même visite
+>**[!UICONTROL Conversion directe]** : visiteurs et visiteuses qui ont cliqué sur le contenu recommandé et rempli un formulaire au cours de la même visite
 >
->**Cliqué** : nombre total de clics sur le contenu recommandé (y compris les trois sources)
+>**[!UICONTROL Clics]** : nombre total de clics sur le contenu recommandé (y compris les trois sources)

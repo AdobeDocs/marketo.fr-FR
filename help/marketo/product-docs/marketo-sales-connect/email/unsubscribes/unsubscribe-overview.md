@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14746161
-description: Présentation du désabonnement - Documents Marketo - Documentation du produit
+description: Présentation Du Désabonnement - Documents Marketo - Documentation Du Produit
 title: Présentation du désabonnement
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Présentation du désabonnement {#unsubscribe-overview}
 
-Il devient de plus en plus important pour les organisations de se conformer aux lois sur la confidentialité des emails. Pour vous aider, nous avons apporté quelques améliorations à notre expérience de désabonnement.
+Il est de plus en plus important pour les entreprises de se conformer aux lois sur la confidentialité des e-mails. Pour faciliter cette opération, nous avons apporté quelques améliorations à notre expérience de désabonnement.
 
-* Les liens de désabonnement sont placés sur tous les emails envoyés par Sales Connect/ToutApp et Salesforce (cela ne s’applique pas aux emails personnalisés envoyés depuis Outlook ou Gmail).
-* Les administrateurs peuvent modifier les messages de désabonnement pour l’ensemble de l’équipe.
-* Les informations de désabonnement sont stockées dans PDV
-* Les désabonnements peuvent être effectués manuellement : lien cliqué, synchronisation Salesforce et rebond
-* Nouvelle page d’entrée de lien de désabonnement
+* Des liens de désabonnement sont placés sur tous les e-mails envoyés depuis [!DNL Sales Connect]/ToutApp et [!DNL Salesforce] (cela ne s&#39;applique pas aux e-mails personnalisés envoyés depuis [!DNL Outlook] ou Gmail)
+* Les administrateurs peuvent modifier les messages de désabonnement pour l’ensemble de leur équipe
+* Les informations de désabonnement sont stockées dans un fichier PDF
+* Les désabonnements peuvent être effectués manuellement : lien cliqué, synchronisation des [!DNL Salesforce] et rebond
+* Nouvelle page de destination du lien de désabonnement

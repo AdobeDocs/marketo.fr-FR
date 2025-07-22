@@ -1,62 +1,62 @@
 ---
 unique-page-id: 5472402
-description: Modification de votre modèle approuvé - Documents Marketo - Documentation du produit
-title: Modification de votre modèle approuvé
+description: Modification De Votre Modèle Approuvé - Documents Marketo - Documentation Du Produit
+title: Modification Du Modèle Approuvé
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-# Modification de votre modèle approuvé {#editing-your-approved-model}
+# Modification Du Modèle Approuvé {#editing-your-approved-model}
 
 ## Modification de votre modèle {#editing-your-model}
 
-1. Sélectionnez le modèle sur lequel vous souhaitez apporter des modifications dans la section Analytics et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez le modèle auquel vous souhaitez apporter des modifications dans la section [!UICONTROL Analytics] et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/one.png)
 
-1. Vous ne pouvez pas supprimer de scènes lors de la modification d’un modèle préliminaire (une fois le modèle approuvé). Vous pouvez à la place fusionner cette scène avec une autre dans le modèle. Cliquez avec le bouton droit de la souris sur l’étape à fusionner, puis cliquez sur **Fusionner**.
+1. Vous ne pouvez pas supprimer des étapes lors de la modification d&#39;un modèle de brouillon (après l&#39;approbation du modèle). Vous pouvez plutôt fusionner cette étape avec une autre dans le modèle. Cliquez avec le bouton droit sur l’étape à fusionner, puis cliquez sur **[!UICONTROL Fusionner]**.
 
    ![](assets/two.png)
 
-1. Choisissez la nouvelle étape pour les pistes actuellement dans celle sélectionnée ou sélectionnez **Aucune** pour supprimer les pistes de votre modèle. Une fois que vous avez terminé, cliquez sur **Fusionner**.
+1. Sélectionnez la nouvelle étape pour les prospects actuellement dans celle sélectionnée, ou sélectionnez **[!UICONTROL Aucune]** pour supprimer les prospects de votre modèle. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Fusionner]**.
 
    ![](assets/three.png)
 
-1. Lorsque vous avez terminé d’apporter des modifications au modèle, réapprouvez-le en sélectionnant **Approuver le brouillon du modèle** dans le menu **Actions du modèle** .
+1. Lorsque vous avez terminé d&#39;apporter des modifications au modèle, approuvez-le à nouveau en sélectionnant **[!UICONTROL Approuver le brouillon de modèle]** dans le menu **[!UICONTROL Actions de modèle]**.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Si vous apportez des modifications à vos étapes, par exemple en les ajoutant ou en les fusionnant, veillez à modifier vos règles d’affectation et vos phases pour refléter vos modifications.
+   >Si vous apportez des modifications à vos étapes, telles que leur ajout ou leur fusion, veillez à modifier vos [!UICONTROL règles d’affectation] et phases en fonction de vos modifications.
 
-## Annulation de la validation de votre modèle {#unapproving-your-model}
+## Annulation De L’Approbation Du Modèle {#unapproving-your-model}
 
 >[!CAUTION]
 >
->Si vous annulez l’approbation de votre modèle, toutes ses pistes seront supprimées et leur historique dans le modèle sera supprimé. Envisagez de modifier votre modèle au lieu de l’annuler.
+>Si vous désapprouvez votre modèle, tous ses prospects sont supprimés et leur historique dans le modèle est supprimé. Envisagez de modifier votre modèle au lieu de l’annuler.
 
-1. Sélectionnez le modèle que vous souhaitez annuler l’approbation. Dans le menu **Actions du modèle**, sélectionnez **Annuler l’approbation du modèle**.
+1. Sélectionnez le modèle que vous souhaitez désapprouver. Dans le menu **[!UICONTROL Actions du modèle]**, sélectionnez **[!UICONTROL Désapprouver le modèle]**.
 
    ![](assets/five.png)
 
-1. Cliquez sur **Non approuvé**.
+1. Cliquez sur **[!UICONTROL Désapprouver]**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->Si vous souhaitez réapprouver ce modèle, vous devrez d’abord réaffecter les pistes aux étapes.
+>Si vous souhaitez approuver à nouveau ce modèle, vous devrez d’abord réaffecter les prospects aux étapes.
 
-## Création d’autres modèles {#creating-more-models}
+## Création de modèles supplémentaires {#creating-more-models}
 
-Vous ne pouvez avoir qu’un seul modèle approuvé à la fois. Si vous souhaitez approuver un modèle, mais que celui-ci a déjà été approuvé, vous devrez d’abord annuler l’approbation de votre modèle actuel. Si possible, essayez de modifier votre modèle au lieu d’en créer un nouveau.
+Vous ne pouvez avoir qu’un seul modèle approuvé à la fois. Si vous souhaitez approuver un modèle, mais que vous en avez déjà approuvé un, vous devez d&#39;abord annuler l&#39;approbation de votre modèle actuel. Si possible, essayez de modifier votre modèle au lieu d’en créer un nouveau.
 
 >[!MORELIKETHIS]
 >
->[Créer un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Création d’un modèle de chiffre d’affaires](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)

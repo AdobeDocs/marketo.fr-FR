@@ -1,57 +1,57 @@
 ---
 unique-page-id: 2359530
-description: Ajout de texte et de jetons à une page d’entrée - Documents Marketo - Documentation du produit
-title: Ajout de texte et de jetons à une page d’entrée
+description: Ajout de texte et de jetons à une page de destination - Documents Marketo - Documentation du produit
+title: Ajout de texte et de jetons à une page de destination
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 1%
 
 ---
 
-# Ajout de texte et de jetons à une page d’entrée {#add-text-and-tokens-to-a-landing-page}
+# Ajout de texte et de jetons à une page de destination {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >
->Les jetons ne sont pris en charge que dans les landing pages Marketo.
+>Les jetons ne sont pris en charge que dans les pages de destination Marketo.
 
-## Ajout de texte enrichi à votre page d’entrée {#add-rich-text-to-your-landing-page}
+## Ajouter du texte enrichi à votre page de destination {#add-rich-text-to-your-landing-page}
 
-1. Sélectionnez votre landing page et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre page de destination et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
    >[!NOTE]
    >
-   >Le concepteur de landing page s’ouvre dans une nouvelle fenêtre.
+   >Le concepteur de page de destination s’ouvre dans une nouvelle fenêtre.
 
-1. Faites glisser le pointeur de la souris sur l’élément **Texte enrichi** .
+1. Faites glisser sur l’élément **[!UICONTROL Texte enrichi]**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Saisissez le texte de votre choix et cliquez sur **Enregistrer**.
+1. Saisissez le texte souhaité, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Maintenant que vous savez comment ajouter du texte à une landing page, nous allons ajouter un jeton.
+Maintenant que vous savez comment ajouter du texte à une page de destination, nous allons travailler sur l’ajout d’un jeton.
 
-## Ajout d’un jeton à votre page d’entrée {#add-a-token-to-your-landing-page}
+## Ajouter un jeton à votre page de destination {#add-a-token-to-your-landing-page}
 
-Les jetons sont des blocs de texte dynamiques qui peuvent personnaliser votre landing page.
+Les jetons sont des éléments textuels dynamiques qui peuvent personnaliser votre page de destination.
 
 >[!TIP]
 >
->Des choses comme Prénom viennent de l’enregistrement de la personne. D’autres jetons proviennent de l’onglet Mes jetons du programme.
+>Des éléments tels que Prénom proviennent du dossier de personne. Les autres jetons proviennent de l’onglet Mes jetons dans le programme.
 
-1. Sélectionnez votre landing page et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre page de destination et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
    >[!NOTE]
    >
-   >Le concepteur de landing page s’ouvre dans une nouvelle fenêtre.
+   >Le concepteur de page de destination s’ouvre dans une nouvelle fenêtre.
 
 1. Double-cliquez sur la zone de texte enrichi à laquelle vous souhaitez ajouter le jeton.
 
@@ -65,12 +65,12 @@ Les jetons sont des blocs de texte dynamiques qui peuvent personnaliser votre la
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Saisissez une **valeur par défaut** et cliquez sur **Insérer**.
+1. Saisissez une **[!UICONTROL Valeur par défaut]** puis cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Mission terminée ! Votre page d’entrée contient maintenant un jeton.
+   Mission terminée ! Vous disposez désormais d’un jeton sur votre page de destination.

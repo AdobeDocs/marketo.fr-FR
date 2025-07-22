@@ -1,38 +1,38 @@
 ---
 unique-page-id: 14352463
-description: Ajout de boutons de connexion aux ventes à Salesforce - Documents Marketo - Documentation du produit
-title: Ajout de boutons de connexion aux ventes à Salesforce
+description: Ajout de boutons Sales Connect à  [!DNL Salesforce] - Documents Marketo - Documentation du produit
+title: Ajout de boutons Sales Connect à Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 10%
+source-wordcount: '154'
+ht-degree: 11%
 
 ---
 
-# Ajout de boutons de connexion aux ventes à Salesforce {#add-sales-connect-buttons-to-salesforce}
+# Ajout de boutons Sales Connect aux [!DNL Salesforce] {#add-sales-connect-buttons-to-salesforce}
 
 ## Intégrer à Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Accédez à **Configuration** puis **Personnaliser**.
-1. Sous Contacts/Leads/Comptes, ouvrez **Disposition de recherche**.
-1. Modifiez le mode Liste Pistes et faites glisser **Push to MSC** vers les boutons sélectionnés.
+1. Accédez à **[!UICONTROL Configuration]** puis **[!UICONTROL Personnaliser]**.
+1. Sous Contacts/Leads/Comptes, ouvrez **[!UICONTROL Disposition Recherche]**.
+1. Modifier la vue Liste des leads et faire glisser **[!UICONTROL Push to MSC]** dans les boutons sélectionnés.
 
 ## Envoyer un e-mail Marketo Sales {#send-marketo-sales-email}
 
-1. Modifiez la mise en page pour le prospect/contact/compte.
-1. Sélectionnez la section Boutons.
-1. Appuyez sur le bouton **Envoyer le courriel MSC** et faites-le glisser dans la section **Boutons personnalisés** des détails.
+1. Modifiez la disposition de la page pour le lead/contact/compte.
+1. Sélectionnez la section pour [!UICONTROL Boutons].
+1. Saisissez le bouton **[!UICONTROL Envoyer un e-mail au MSC]** et faites-le glisser dans la section **[!UICONTROL Boutons personnalisés]** des Détails.
 
 ## Appeler avec Marketo Sales Connect {#call-with-marketo-sales-connect}
 
-1. Modifiez la mise en page pour le prospect/contact/compte.
-1. Sélectionnez la section Boutons.
-1. Saisissez le bouton **Appel avec MSC** et faites-le glisser dans la section **Boutons personnalisés** des détails.
+1. Modifiez la disposition de la page pour le lead/contact/compte.
+1. Sélectionnez la section pour Boutons.
+1. Saisissez le bouton **[!UICONTROL Appel avec MSC]** et faites-le glisser dans la section **[!UICONTROL Boutons personnalisés]** de la [!UICONTROL Détails].
 
 ## Ajouter à la campagne {#add-to-campaign}
 
-1. Modifiez la mise en page pour le prospect/contact/compte.
-1. Sélectionnez la section Boutons.
-1. Saisissez le bouton **Ajouter à la campagne MSC** et faites-le glisser dans la section **Boutons personnalisés** des détails.
+1. Modifiez la disposition de la page pour le lead/contact/compte.
+1. Sélectionnez la section pour [!UICONTROL Boutons].
+1. Saisissez le bouton **[!UICONTROL Ajouter à MSC Campaign]** et faites-le glisser dans la section **[!UICONTROL Boutons personnalisés]** de la [!UICONTROL Détails].

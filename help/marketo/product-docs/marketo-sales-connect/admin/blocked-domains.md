@@ -4,7 +4,7 @@ description: Domaines bloqués - Documents Marketo - Documentation du produit
 title: Domaines bloqués
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
@@ -13,24 +13,24 @@ ht-degree: 4%
 
 # Domaines bloqués {#blocked-domains}
 
-Aidez votre équipe commerciale à réussir en l’empêchant d’envoyer par courrier électronique des courriers électroniques accidentels à des concurrents, des pièges à spam connus ou tout autre domaine que vous ne souhaitez pas contacter.
+Aidez votre équipe de vente à réussir en l&#39;empêchant d&#39;envoyer accidentellement des e-mails à des concurrents, des pièges à spam connus ou tout autre domaine que vous ne souhaitez pas contacter.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/one-3.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Général**.
+1. Sous [!UICONTROL Paramètres d’administration], cliquez sur **[!UICONTROL Général]**.
 
    ![](assets/two-3.png)
 
-1. Saisissez le domaine que vous souhaitez bloquer et cliquez sur **Bloquer le domaine**.
+1. Saisissez le domaine à bloquer et cliquez sur **[!UICONTROL Bloquer le domaine]**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >Les emails qui font partie d’un envoi [Group Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) qui échoue en raison de l’envoi à un domaine de messagerie bloqué échoueront en silence et n’apparaîtront pas dans le dossier de messagerie en échec.
+   >Les e-mails faisant partie d’un envoi [E-mail de groupe](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) qui échoue en raison de son envoi à un domaine de messagerie bloqué échouent en silence et n’apparaissent pas dans le dossier des e-mails en échec.

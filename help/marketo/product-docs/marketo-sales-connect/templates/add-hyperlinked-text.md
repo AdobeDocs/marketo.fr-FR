@@ -1,24 +1,24 @@
 ---
 unique-page-id: 14352597
-description: Ajout de texte lié à un hyperlien - Documents Marketo - Documentation du produit
-title: Ajouter du texte lié à un hyperlien
+description: Ajout D’Un Texte De Lien Hypertexte - Documents Marketo - Documentation Du Produit
+title: Ajouter un texte lié par un lien hypertexte
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Ajouter du texte lié à un hyperlien {#add-hyperlinked-text}
+# Ajouter un texte lié par un lien hypertexte {#add-hyperlinked-text}
 
-1. Saisissez le texte à lier hypertexte (c’est-à-dire &quot;Cliquez ici&quot;).
+1. Tapez le texte à lier par un lien hypertexte (par exemple, « Cliquez ici »).
 
 1. Sélectionnez le texte.
 
-1. Cliquez sur le bouton du lien dans l&#39;éditeur.
+1. Cliquez sur le bouton lien dans l’éditeur.
 
-1. Saisissez l&#39;URL à laquelle vous souhaitez qu&#39;il soit lié (c&#39;est-à-dire &quot;https://www.mywebsite.com&quot;).
+1. Saisissez l’URL à laquelle vous souhaitez qu’il soit lié (par exemple, « https://www.mywebsite.com »).
 
-1. Cliquez sur **OK**.
+1. Cliquez sur **[!UICONTROL OK]**.

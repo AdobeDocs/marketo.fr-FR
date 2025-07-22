@@ -4,37 +4,37 @@ description: Création d’une audience personnalisée sur Facebook - Documents 
 title: Création d’une audience personnalisée dans Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Création d’une audience personnalisée dans Facebook {#create-a-custom-audience-in-facebook}
+# Création d’une audience personnalisée dans [!DNL Facebook] {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Ajout d’audiences personnalisées Facebook en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} dans la section Admin.
->* [Acceptez les Conditions relatives aux audiences personnalisées de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} dans votre compte Facebook.
+>* [Ajout  [!DNL Facebook]  audiences personnalisées en tant que service LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} dans la section Admin.
+>* [Acceptez [!DNL Facebook] les conditions relatives aux audiences personnalisées](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} dans votre compte [!DNL Facebook].
 
 >[!TIP]
 >
->En savoir plus sur [les audiences personnalisées sur Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>En savoir plus sur les [ audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Recherchez et sélectionnez la liste dynamique ou statique qui contient les prospects à partir desquels vous souhaitez créer l’audience.
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Sélectionnez l’onglet **Leads**, puis cliquez sur l’icône **Envoyer via Ad Bridge** en bas.
+1. Sélectionnez l’onglet **[!UICONTROL Leads]**, puis cliquez sur l’icône **Envoyer via Ad Bridge** en bas.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Sélectionnez **Facebook** et cliquez sur **Suivant**.
+1. Sélectionnez **[!UICONTROL Facebook]** et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Cliquez sur le menu déroulant **Audience** et sélectionnez **+ Nouvelle audience**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Audience]** et sélectionnez **[!UICONTROL + Nouvelle audience]**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,17 +42,17 @@ ht-degree: 0%
    >
    >L’API Facebook autorise jusqu’à 500 audiences personnalisées par compte publicitaire Facebook.
 
-1. Saisissez un **Nom de l’audience**. Cliquez sur **Mettre à jour**.
+1. Saisissez un **[!UICONTROL Nom de l’audience]**. Cliquez sur **[!UICONTROL Mettre à jour]**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Si vous disposez de plusieurs comptes publicitaires Facebook, une liste déroulante supplémentaire s’affiche, vous permettant de choisir dans quel compte publicitaire cette audience est créée.
+   >Si vous disposez de plusieurs comptes publicitaires [!DNL Facebook], une liste déroulante supplémentaire s’affiche, vous permettant de choisir dans quel compte publicitaire cette audience est créée.
 
    >[!TIP]
    >
-   >Vous souhaitez échanger une nouvelle audience avec une audience existante actuellement associée à une visionneuse d’annonces ou à un groupe ? Cochez la case **Remplacer une audience existante**. Cela ne supprimera **pas** l’audience remplacée.
+   >Vous souhaitez échanger une nouvelle audience avec une audience existante actuellement associée à une visionneuse d’annonces ou à un groupe ? Cochez la case **[!UICONTROL Remplacer une audience existante]**. Cela ne supprimera **pas** l’audience remplacée.
 
 1. Une fois cette opération terminée, la boîte de dialogue d’état est mise à jour.
 
@@ -64,8 +64,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Toutes les listes que vous transmettez à Facebook deviennent statiques. Les listes dynamiques dans Marketo ne mettent pas automatiquement à jour la liste des audiences dans Facebook pour refléter les modifications apportées après le transfert.
+   >Toutes les listes que vous poussez vers [!DNL Facebook] deviennent statiques. Les listes dynamiques dans Marketo ne mettent pas automatiquement à jour la liste des audiences en [!DNL Facebook] pour refléter les modifications apportées après le transfert.
 
    >[!MORELIKETHIS]
    >
-   >[Ajout de leads à une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Ajout de leads à une audience personnalisée dans  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

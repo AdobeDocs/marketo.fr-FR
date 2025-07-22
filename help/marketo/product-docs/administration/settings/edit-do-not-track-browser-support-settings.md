@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095047
-description: Modifier les paramètres de prise en charge du navigateur - Documents Marketo - Documentation du produit
-title: Modification des paramètres de prise en charge du navigateur "Ne pas suivre"
+description: Modifier Les Paramètres De Prise En Charge Du Navigateur « Ne Pas Suivre » - Documents Marketo - Documentation Du Produit
+title: Modifier Les Paramètres De Prise En Charge Du Navigateur « Ne Pas Suivre »
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-# Modification des paramètres de prise en charge du navigateur &quot;Ne pas suivre&quot; {#edit-do-not-track-browser-support-settings}
+# Modifier Les Paramètres De Prise En Charge Du Navigateur « Ne Pas Suivre » {#edit-do-not-track-browser-support-settings}
 
-&quot;Ne pas suivre&quot; est une requête de navigateur à ne pas suivre dans des systèmes tels que Marketo. Vous pouvez honorer cette requête en procédant comme suit.
+« Ne pas suivre » est une demande de navigateur qui ne doit pas être suivie dans des systèmes tels que Marketo. Vous pouvez honorer cette demande en procédant comme suit.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->&quot;Ne pas effectuer de suivi&quot; sera défini sur Ignorer par défaut. Par conséquent, si c’est ce que vous souhaitez, vous n’aurez aucune mesure à prendre.
+>Par défaut, l’option « Ne pas effectuer de suivi » est définie sur **[!UICONTROL Ignorer]**. Si c’est ce que vous souhaitez, vous n’avez aucune mesure à prendre.
 
 1. Cliquez sur **[!UICONTROL Admin]**.
 
@@ -35,18 +35,18 @@ ht-degree: 0%
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Sélectionnez **[!UICONTROL Support]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **[!UICONTROL Assistance]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
-   Après avoir enregistré les modifications, vous verrez la mise à jour.
+   Après avoir enregistré les modifications, la mise à jour s’affiche.
 
    ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >
-   >La bonne pratique consiste à prendre en charge la fonction &quot;Ne pas suivre&quot;. En Europe, c&#39;est la loi !
+   >Il est recommandé de prendre en charge la fonction « Ne pas suivre ». En Europe, c&#39;est la loi !
 
    >[!TIP]
    >
-   >Pour en savoir plus sur &quot;Ne pas suivre&quot; et son fonctionnement, consultez [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Pour en savoir plus sur « Do Not Track » et son fonctionnement, consultez [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).

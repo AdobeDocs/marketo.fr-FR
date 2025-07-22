@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12978906
-description: Définition de l’affichage de votre campagne web - Documents Marketo - Documentation du produit
-title: Définir l'affichage de votre campagne web
+description: Définir L’Affichage De Votre Campagne Web - Documents Marketo - Documentation Du Produit
+title: Définir L’Affichage De Votre Campagne Web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
-# Définir l&#39;affichage de votre campagne web {#set-how-your-web-campaign-displays}
+# Définir L’Affichage De Votre Campagne Web {#set-how-your-web-campaign-displays}
 
-Il existe plusieurs méthodes à utiliser pour déterminer quand s’affiche votre campagne web.
+Il existe plusieurs méthodes à utiliser pour déterminer quand et comment votre campagne web s’affiche.
 
 ## Chargement de la page {#page-load}
 
@@ -25,53 +25,53 @@ Sélectionné par défaut, ce choix affiche simplement la campagne au chargement
 
 Spécifiez un délai (en secondes totales) pour que les campagnes web réagissent sur votre site web.
 
-1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Délai**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Afficher activé]** et sélectionnez **[!UICONTROL Retarder]**.
 
    ![](assets/d1.png)
 
-1. Cliquez sur la liste déroulante **Attente** et sélectionnez la durée souhaitée.
+1. Cliquez sur le menu déroulant **[!UICONTROL Attente]** et sélectionnez la durée souhaitée.
 
    ![](assets/d2.png)
 
 ## Faire défiler {#scroll}
 
-1. Cliquez sur la liste déroulante **Afficher sur** et sélectionnez **Faire défiler**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Afficher activé]** et sélectionnez **[!UICONTROL Défiler]**.
 
    ![](assets/s1.png)
 
-1. Cliquez sur la liste déroulante **Lorsque** et sélectionnez le moment où vous souhaitez que votre campagne web s’affiche.
+1. Cliquez sur le menu déroulant **[!UICONTROL Quand]** et sélectionnez le moment où vous souhaitez que votre campagne web s’affiche.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Sous la ligne de flottaison</strong></td> 
-   <td>Affiche la campagne lorsque le visiteur fait défiler la page vers le bas. La campagne disparaît lorsque le visiteur fait défiler l’écran au-dessus du pli.</td> 
+   <td><strong>[!UICONTROL Underfold]</strong></td> 
+   <td>Affiche la campagne lorsque le visiteur fait défiler l’écran en dessous du pli. La campagne disparaît lorsque le visiteur revient en arrière au-dessus du pli.</td> 
   </tr> 
   <tr> 
-   <td><strong>Pourcentage</strong></td> 
-   <td>Affiche la campagne lorsque le visiteur fait défiler la page à un pourcentage prédéterminé.</td> 
+   <td><strong>[!UICONTROL Percent]</strong></td> 
+   <td>Affiche la campagne lorsque le visiteur fait défiler la page jusqu’à un pourcentage prédéterminé.</td> 
   </tr> 
   <tr> 
-   <td><strong>Pixel</strong></td> 
-   <td><p>Affiche la campagne lorsque le visiteur fait défiler la page vers le pixel supérieur prédésigné.</p></td> 
+   <td><strong>[!UICONTROL Pixel]</strong></td> 
+   <td><p>Affiche la campagne lorsque le visiteur fait défiler la page jusqu’au pixel supérieur prédéfini.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Intention de sortie {#exit-intent}
 
-L’intention de sortie affiche la campagne web lorsque le curseur de la souris quitte le navigateur.
+L’intention de sortie affichera la campagne web à la sortie du curseur de la souris du navigateur.
 
-1. Cliquez sur la liste déroulante **Afficher le** et sélectionnez **Mode de sortie**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Afficher activé]** et sélectionnez **[!UICONTROL Quitter l’intention]**.
 
    ![](assets/ei1.png)
 
-1. Un message s’affiche pour vous rappeler que l’intention de sortie n’est pas compatible avec les appareils mobiles.
+1. Un message s’affiche pour vous rappeler [!UICONTROL Quitter le mode] n’est pas compatible avec les appareils mobiles.
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->Voulez-vous voir à l’avance l’aspect des effets que vous choisissez ? Consultez-les via un [aperçu de campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Vous souhaitez voir à quoi ressembleront les effets que vous avez choisis à l&#39;avance ? Consultez-les via un [Aperçu de la campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

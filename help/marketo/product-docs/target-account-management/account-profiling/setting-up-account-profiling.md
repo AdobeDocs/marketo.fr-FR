@@ -4,7 +4,7 @@ description: Configuration du profilage de compte - Documents Marketo - Document
 title: Configuration du profilage de compte
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 2%
@@ -30,19 +30,19 @@ Pour commencer à utiliser le profilage de compte, procédez comme suit.
 >
 >Découvrez comment [afficher un champ ici](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. Dans Mon Marketo, ouvrez **Gestion du compte Target**.
+1. Dans Mon Marketo, ouvrez **[!UICONTROL Gestion du compte Target]**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Cliquez sur l’onglet **Profils de compte**.
+1. Cliquez sur l’onglet **[!UICONTROL Profils de compte]**.
 
    ![](assets/two-1.png)
 
-1. L’onglet Modèle est ouvert par défaut. Cliquez sur **Commencer**.
+1. L’onglet Modèle est ouvert par défaut. Cliquez sur **[!UICONTROL Commencer]**.
 
    ![](assets/three.png)
 
-1. Attribuez un nom à votre modèle et sélectionnez le type/la liste de personnes qui serviront de base pour le profil client idéal (ICP). Cliquez sur **Créer un modèle** lorsque vous avez terminé.
+1. Attribuez un nom à votre modèle et sélectionnez le type/la liste de personnes qui serviront de base pour le profil client idéal (ICP). Cliquez sur **[!UICONTROL Créer un modèle]** lorsque vous avez terminé.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ Pour commencer à utiliser le profilage de compte, procédez comme suit.
 
    ![](assets/five.png)
 
-1. Pour afficher les résultats de votre modèle, cliquez sur **Voir le résultat du modèle**.
+1. Pour afficher les résultats de votre modèle, cliquez sur **[!UICONTROL Voir le résultat du modèle]**.
 
    ![](assets/six.png)
 

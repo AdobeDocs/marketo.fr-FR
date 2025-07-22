@@ -4,7 +4,7 @@ description: Modification de la version texte d’un e-mail - Documents Marketo 
 title: Modification de la version texte d’un e-mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Modification de la version texte d’un e-mail {#edit-the-text-version-of-an-email}
 
-Lors de la création d’un e-mail, vous pouvez souhaiter que sa version texte soit libellée différemment de la version HTML. Par défaut, Marketo copie automatiquement le contenu textuel de tout élément de texte enrichi qui se trouve dans votre e-mail vers la version Texte. Voici comment le modifier.
+Lors de la création d’un e-mail, vous souhaiterez peut-être que sa version texte soit libellée différemment de la version HTML. Par défaut, Marketo copie automatiquement le contenu textuel de tout élément de texte enrichi qui se trouve dans votre e-mail vers la version Texte. Voici comment le modifier.
 
 >[!NOTE]
 >
 >Cet article ne traite pas de la création d’un e-mail texte uniquement. Pour plus d’informations à ce sujet, voir [Créer un e-mail en texte uniquement](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Dans l’éditeur d’e-mail, cliquez sur l’onglet **Texte** au bas de l’e-mail.
+1. Dans l’éditeur d’e-mail, cliquez sur l’onglet **[!UICONTROL Texte]** au bas de l’e-mail.
 
    ![](assets/one-5.png)
 
-1. Décochez **Copier automatiquement à partir de l’HTML** pour apporter des modifications.
+1. Décochez **[!UICONTROL Copier automatiquement à partir d’HTML]** pour apporter des modifications.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ Lors de la création d’un e-mail, vous pouvez souhaiter que sa version texte s
 
    ![](assets/three-4.png)
 
-1. Apportez vos modifications. Une fois que vous avez terminé, il vous suffit de fermer l’éditeur ou de revenir à la version HTML. Les modifications seront enregistrées automatiquement.
+1. Apportez vos modifications. Une fois que vous avez terminé, il vous suffit de fermer l’éditeur ou de revenir à la version d’HTML. Les modifications seront enregistrées automatiquement.
 
    ![](assets/four-4.png)
 
@@ -41,4 +41,4 @@ Lors de la création d’un e-mail, vous pouvez souhaiter que sa version texte s
 
 >[!CAUTION]
 >
->Sélectionner **Copier à partir de l’HTML** ou resélectionner **Copier automatiquement à partir de l’HTML** dans les e-mails contenant du contenu dynamique définit l’indicateur Révisé sur _true_ pour tous les segments (produisant la coche verte indiquant qu’il a été révisé) dans les versions HTML et Texte de l’e-mail. Si vous effectuez l’une des actions ci-dessus, veillez à revérifier votre contenu avant de l’envoyer.
+>Sélectionner **Copier depuis HTML** ou resélectionner **Copier automatiquement depuis HTML** dans les e-mails contenant du contenu dynamique définit l’indicateur Révisé sur _true_ pour tous les segments (la coche verte qui indique qu’il a été révisé) dans les versions HTML et Texte de l’e-mail. Si vous effectuez l’une des actions ci-dessus, veillez à revérifier votre contenu avant de l’envoyer.

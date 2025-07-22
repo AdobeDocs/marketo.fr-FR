@@ -1,34 +1,34 @@
 ---
-description: Configuration de votre connexion Marketo - Documents Marketo - Documentation du produit
-title: Configuration de votre connexion Marketo
+description: Configurer Votre Connexion Marketo - Documents Marketo - Documentation Du Produit
+title: Configurer Votre Connexion Marketo
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Configuration de votre connexion Marketo {#set-up-your-marketo-connection}
+# Configurer Votre Connexion Marketo {#set-up-your-marketo-connection}
 
 >[!NOTE]
 >
->Lorsque vous activez le service MSC, Marketo envoie automatiquement vos informations d’identification à Sales Connect et connecte votre instance à Marketo. Cette étape n&#39;est requise **que si vous ne voyez pas la connexion établie** après la configuration de votre instance Sales Connect. Si votre connexion est établie, vos informations d’identification sont saisies sur la page Paramètres d’administration de Marketo.
+>Lorsque vous configurez MSC, Marketo envoie automatiquement vos informations d’identification à [!DNL Sales Connect] et connecte votre instance à Marketo. Cette étape est requise **uniquement si vous ne voyez pas la connexion établie** une fois votre instance [!DNL Sales Connect] configurée. Si votre connexion est établie, vos informations d’identification sont saisies à la page Paramètres d’administration de Marketo.
 
-## Acquisition des informations d’identification avant la connexion des ventes Connexion à Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Acquisition des informations d’identification avant de connecter [!DNL Sales Connect] à Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Vous devrez obtenir un ensemble d’informations d’identification à partir de Marketo. Ces informations d’identification seront utilisées ultérieurement par l’administrateur de Sales Connect pour connecter Marketo à Sales Connect.
+Vous devez obtenir un ensemble d’informations d’identification dans Marketo. Ces informations d’identification seront utilisées ultérieurement par l’administrateur [!DNL Sales Connect] pour connecter Marketo à [!DNL Sales Connect].
 
-1. Dans Marketo, cliquez sur **Admin**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. Dans l’arborescence, cliquez sur **Sales Connect**.
+1. Dans l’arborescence, cliquez sur **[!UICONTROL Engagement commercial]**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
-1. Sélectionnez les informations d’identification Marketo suivantes et envoyez-les à votre administrateur Sales Connect : Munchkin ID, Client ID, Client Secret.
+1. Sélectionnez et envoyez les informations d’identification Marketo suivantes à votre administrateur [!DNL Sales Connect] : [!UICONTROL ID de compte Munchkin], [!UICONTROL ID client], [!UICONTROL Secret client].
 
    ![](assets/manually-set-up-your-marketo-connection-3.jpg)
 
@@ -36,16 +36,16 @@ Vous devrez obtenir un ensemble d’informations d’identification à partir de
    >
    >Lorsque vous copiez et collez les informations ci-dessus, assurez-vous qu’aucun espace n’est ajouté.
 
-## Connexion des ventes à Marketo {#connect-sales-connect-to-marketo}
+## Connexion de [!DNL Sales Connect] à Marketo {#connect-sales-connect-to-marketo}
 
-1. Dans Sales Connect, cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Dans [!DNL Sales Connect], cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Marketo**.
+1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Marketo]**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Saisissez les informations d’identification Marketo fournies par l’administrateur Marketo et cliquez sur **Se connecter**.
+1. Saisissez les informations d’identification Marketo fournies par l’administrateur Marketo et cliquez sur **[!UICONTROL Connexion]**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

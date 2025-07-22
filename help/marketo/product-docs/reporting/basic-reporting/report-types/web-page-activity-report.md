@@ -4,7 +4,7 @@ description: Rapport d’activité de la page web - Documents Marketo - Document
 title: Rapport d’activité de la page web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Vous pouvez choisir d’afficher des personnes connues ou anonymes, mais pas les
 
    >[!NOTE]
    >
-   >L’affichage des données dans un rapport d’activité de page web peut prendre jusqu’à 24 heures.
+   >L’affichage des données dans un rapport [!UICONTROL Activité de page web] peut prendre jusqu’à 24 heures.
 
    >[!TIP]
    >

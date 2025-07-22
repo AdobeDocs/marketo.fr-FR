@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2359746
-description: Personnalisation des URL de votre page d’entrée avec un CNAME - Documents Marketo - Documentation du produit
-title: Personnalisation des URL de votre page d’entrée avec un CNAME
+description: Personnaliser vos URL de page de destination avec un CNAME - Documents Marketo - Documentation du produit
+title: Personnaliser vos URL de page de destination avec un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-# Personnalisation des URL de votre page d’entrée avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
+# Personnaliser vos URL de page de destination avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
 
-Même si Marketo héberge vos landing pages, l&#39;URL peut être entièrement personnalisée. À quoi cela ressemble sans CNAME :
+Même si Marketo héberge vos pages de destination, l’URL peut être entièrement personnalisée. À quoi cela ressemble sans CNAME :
 
 `https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
-À quoi il doit ressembler :
+L’apparence souhaitée :
 
 `https://go.YourCompany.com/UnsubscribePage.html`
 
 ## Choisir un CNAME {#choose-a-cname}
 
-Sélectionnez un mot pour accéder au début de l’URL de vos landing pages. Ce n&#39;est qu&#39;un mot et devrait être relativement court. Exemples :
+Choisissez un mot à placer au début de l’URL de vos pages de destination. Ce n&#39;est qu&#39;un mot et il devrait être relativement court. Exemples :
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus tard alors prenez note.
+Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus tard, prenez-en note.
 
-## Trouvez votre Munchkin ID {#find-your-munchkin-id}
+## Recherche de votre Munchkin ID {#find-your-munchkin-id}
 
 1. Accédez à la zone **Admin**.
 
@@ -45,36 +45,36 @@ Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus 
    >
    >**Autorisations d’administrateur requises**
 
-1. Faites défiler l’écran jusqu’à &quot;Informations sur l’assistance&quot; et copiez votre Munchkin ID.
+1. Faites défiler jusqu’à « Informations d’assistance » et copiez votre Munchkin ID.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Envoyer la demande au service informatique {#send-request-to-it}
 
-Demandez à votre personnel informatique de configurer le CNAME suivant : (remplacez le mot [CNAME] et [Munchkin ID] par le texte de l’étape précédente.)
+Demandez à votre personnel informatique de configurer le CNAME suivant : (Remplacez le mot [CNAME] et [Munchkin ID] par le texte de l’étape précédente.)
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
-## Configuration CNAME terminée {#complete-cname-setup}
+## Terminer la configuration CNAME {#complete-cname-setup}
 
-1. Une fois que le service informatique a créé le CNAME, accédez à la zone **Admin** .
+1. Une fois que votre service informatique a créé le CNAME, accédez à la zone **Admin**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Cliquez sur **Landing Pages**.
+1. Cliquez sur **Pages de destination**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Sous la section **Paramètres**, cliquez sur **Modifier**.
+1. Dans la section **Paramètres**, cliquez sur **Modifier**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Saisissez votre CNAME dans **Nom de domaine pour les pages d’entrée**, saisissez votre **page de secours**, saisissez votre **page d’accueil** et cliquez sur **Enregistrer**.
+1. Saisissez votre CNAME dans **[!UICONTROL Nom de domaine pour les pages de destination]**, saisissez votre **[!UICONTROL page de secours]**, saisissez votre **[!UICONTROL page d’accueil]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 >[!NOTE]
 >
->Votre page de secours sera alors redirigée vers les pistes de page si votre page d’entrée Marketo n’est pas disponible.
+>Votre page de secours sera la page vers laquelle les prospects seront redirigés si votre page de destination Marketo n’est pas disponible.
 
-Beau boulot ! Vos landing pages sont maintenant marquées avec le domaine de votre entreprise.
+Joli travail ! Vos pages de destination sont désormais marquées avec le domaine de votre société.

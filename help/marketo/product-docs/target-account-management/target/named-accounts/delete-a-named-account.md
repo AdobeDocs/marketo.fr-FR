@@ -1,36 +1,36 @@
 ---
 unique-page-id: 12615802
 description: Suppression d’un compte nommé - Documents Marketo - Documentation du produit
-title: Suppression d’un compte nommé
+title: Supprimer un compte nommé
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Suppression d’un compte nommé {#delete-a-named-account}
+# Supprimer un [!UICONTROL compte nommé] {#delete-a-named-account}
 
-Suivez ces étapes rapides pour supprimer un compte nommé.
+Pour supprimer un compte nommé, procédez comme suit.
 
-1. Sélectionnez la ligne du ou des comptes nommés que vous souhaitez supprimer.
+1. Sélectionnez la ligne du ou des comptes nommés à supprimer.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Ctrl+clic (Windows) ou Cmd+clic (Mac) pour sélectionner plusieurs comptes nommés.
+   >Pour sélectionner plusieurs comptes nommés, utilisez la combinaison de touches Ctrl+clic (Windows) ou Cmd+clic (Mac).
 
-1. Cliquez sur la liste déroulante **Actions de compte nommé** et sélectionnez **Supprimer le compte nommé**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Actions de compte nommé]** et sélectionnez **[!UICONTROL Supprimer le compte nommé]**.
 
    ![](assets/eight-1.png)
 
-1. Cliquez sur **Supprimer**.
+1. Cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/nine-1.png)
 
    >[!NOTE]
    >
-   >Les comptes qui ont été synchronisés avec votre CRM ne peuvent pas être supprimés dans la gestion de la relation client. Si l&#39;option de suppression n&#39;est pas disponible ou si vous recevez le message &quot;Ces comptes ne peuvent pas être supprimés car un ou plusieurs comptes CRM sont sélectionnés&quot;, ils doivent être supprimés directement dans le CRM.
+   >Les comptes synchronisés avec votre CRM ne peuvent pas être supprimés dans TAM. Si l’option de suppression n’est pas disponible, ou si vous recevez un message « Ces comptes ne peuvent pas être supprimés car un ou plusieurs comptes CRM sont sélectionnés », ils doivent être supprimés directement dans le CRM.

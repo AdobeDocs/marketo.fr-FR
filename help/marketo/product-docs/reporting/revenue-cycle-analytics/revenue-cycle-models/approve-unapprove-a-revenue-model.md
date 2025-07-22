@@ -1,27 +1,27 @@
 ---
 unique-page-id: 4718687
-description: Approbation/désapprobation d’un modèle de revenu - Documents Marketo - Documentation du produit
-title: Approbation/désapprobation d’un modèle de recette
+description: Approuver/annuler l’approbation d’un modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
+title: Approuver/annuler l’approbation d’un modèle de produit
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
 
-# Approbation/désapprobation d’un modèle de recette {#approve-unapprove-a-revenue-model}
+# Approuver/annuler l’approbation d’un modèle de produit {#approve-unapprove-a-revenue-model}
 
-Vous ne pouvez avoir qu’un seul modèle approuvé à un moment donné.
+Vous ne pouvez avoir qu&#39;un seul modèle approuvé à la fois.
 
 >[!CAUTION]
 >
->[Les différentes étapes doivent être approuvées](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) et les personnes ajoutées avant d’approuver un modèle entier.
+>[Les étapes individuelles doivent être approuvées](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) et des personnes doivent être ajoutées avant que vous approuviez un modèle entier.
 
 ## Approuver {#approve}
 
-1. Accédez à la zone **Analytics**.
+1. Accédez à la zone **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Vous ne pouvez avoir qu’un seul modèle approuvé à un moment donné.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Dans le menu **Actions de modèle**, choisissez **Approuver le modèle**.
+1. Dans le menu **[!UICONTROL Actions du modèle]**, choisissez **[!UICONTROL Approuver le modèle]**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Une boîte de dialogue s’affiche pour confirmer votre choix. Cliquez sur **Approve**.
+1. Une boîte de dialogue s’affiche pour confirmer votre choix. Cliquez sur **[!UICONTROL Approuver]**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -43,9 +43,9 @@ Votre modèle est maintenant en ligne !
 
 >[!CAUTION]
 >
->Si vous n’approuvez pas votre modèle, toutes vos personnes sont retirées du modèle, et leur historique dans le modèle est supprimé !
+>Si vous désapprouvez votre modèle, toutes vos personnes sont supprimées du modèle et leur historique dans le modèle est supprimé.
 
-1. Accédez à la zone **Analytics**.
+1. Accédez à la zone **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,16 +53,16 @@ Votre modèle est maintenant en ligne !
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Cliquez sur le menu **Actions du modèle** et sélectionnez **Ne plus approuver le modèle**.
+1. Cliquez sur le menu **[!UICONTROL Actions du modèle]** et choisissez **[!UICONTROL Désapprouver le modèle]**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Dans la boîte de dialogue qui s’affiche, cliquez sur **Annuler l’approbation du modèle**.
+1. Dans la boîte de dialogue [!UICONTROL Désapprouver le modèle] qui s’affiche, cliquez sur **[!UICONTROL Désapprouver]**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 
-Félicitations ! Votre modèle n’est désormais plus approuvé.
+Félicitations ! Votre modèle n&#39;est pas approuvé.
 
 >[!CAUTION]
 >
->L’annulation de l’approbation d’un modèle supprime toutes vos personnes du modèle et supprime leur historique dans le modèle de la base de données.
+>L&#39;annulation de l&#39;approbation d&#39;un modèle supprime toutes vos personnes du modèle et supprime leur historique dans le modèle de la base de données.

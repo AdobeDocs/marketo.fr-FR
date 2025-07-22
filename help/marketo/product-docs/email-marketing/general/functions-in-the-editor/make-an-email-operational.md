@@ -4,7 +4,7 @@ description: Rendre un e-mail opérationnel - Documents Marketo - Documentation 
 title: Rendre un e-mail opérationnel
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Les e-mails opérationnels ignorent les statuts Désabonné et Marketing suspend
 >
 >Les e-mails opérationnels ne sont pas comptabilisés dans les limites de communication. Par exemple, si une personne ne peut recevoir qu’un seul e-mail par semaine et que vous lui avez déjà envoyé un e-mail marketing, vous pouvez toujours lui envoyer un e-mail opérationnel si nécessaire.
 
-1. Recherchez votre e-mail, sélectionnez-le et cliquez sur **Modifier le brouillon**.
+1. Recherchez votre e-mail, sélectionnez-le et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ Les e-mails opérationnels ignorent les statuts Désabonné et Marketing suspend
 >
 >Vous ne devez utiliser les e-mails opérationnels que pour les e-mails critiques et les répondeurs automatiques. Ils ne sont pas destinés aux e-mails marketing.
 
-1. Une fois l’éditeur ouvert, cliquez sur **Paramètres d’e-mail**.
+1. Une fois l’éditeur ouvert, cliquez sur **[!UICONTROL Paramètres d’e-mail]**.
 
    ![](assets/two-1.png)
 
-1. Cochez la case **E-mail opérationnel** et cliquez sur **Enregistrer**.
+1. Cochez la case **[!UICONTROL E-mail opérationnel]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/three.png)
 

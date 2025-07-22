@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359447
 description: Création d’une segmentation - Documents Marketo - Documentation du produit
-title: Créer une segmentation
+title: Création d’une segmentation
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Créer une segmentation {#create-a-segmentation}
+# Création d’une segmentation {#create-a-segmentation}
 
-La segmentation vous permet de regrouper des personnes dans des profils distincts pour la création de rapports et le contenu dynamique. Voici comment les créer.
+La segmentation vous permet de regrouper des personnes en profils distincts pour le compte rendu des performances et le contenu dynamique. Voici comment les créer.
 
-1. Accédez à **Base de données**.
+1. Accédez à **[!UICONTROL Base de données]**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Cliquez sur **Nouveau**, puis sur **Nouvelle segmentation**.
+1. Cliquez sur **[!UICONTROL Nouveau]** puis sur **[!UICONTROL Nouvelle segmentation]**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,13 +27,13 @@ La segmentation vous permet de regrouper des personnes dans des profils distinct
    >
    >Vous pouvez créer jusqu’à 20 segments.
 
-1. Saisissez un **Nom**, cliquez sur **Ajouter un segment** et nommez-le.
+1. Saisissez un **[!UICONTROL Nom]**, cliquez sur **[!UICONTROL Ajouter un segment]** et attribuez-lui un nom.
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
    >[!NOTE]
    >
-   >La valeur par défaut ne peut pas être déplacée, modifiée ou supprimée.
+   >Les valeurs par défaut ne peuvent pas être déplacées, modifiées ou supprimées.
 
 1. Ajoutez autant de segments que vous le souhaitez (jusqu’à 100).
 
@@ -41,24 +41,24 @@ La segmentation vous permet de regrouper des personnes dans des profils distinct
 
    >[!CAUTION]
    >
-   >Le nombre total de segments que vous pouvez créer dans une segmentation dépend du nombre et du type de filtres utilisés, ainsi que de la complexité de la logique de vos segments. Bien que vous puissiez créer jusqu’à 100 segments à l’aide de champs standard, l’utilisation d’autres types de filtres peut accroître la complexité et votre segmentation peut ne pas être approuvée. Voici quelques exemples : champs personnalisés, membres de la liste, champs du propriétaire de piste et étapes des recettes.
+   >Le nombre total de segments que vous pouvez créer dans une segmentation dépend du nombre et du type de filtres utilisés, ainsi que de la complexité de la logique de vos segments. Bien que vous puissiez créer jusqu’à 100 segments à l’aide de champs standard, l’utilisation d’autres types de filtres peut augmenter la complexité et votre segmentation peut échouer à approuver. Voici quelques exemples : champs personnalisés, membre de la liste, champs du propriétaire du prospect et étapes de chiffre d’affaires.
    >
-   >Si vous recevez un message d’erreur lors de l’approbation et si vous avez besoin d’aide pour réduire la complexité de votre segmentation, contactez le [support Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si un message d’erreur s’affiche lors de la validation et que vous avez besoin d’aide pour réduire la complexité de votre segmentation, contactez l’assistance de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Faites glisser et déposez les Segments pour modifier leur ordre. Une fois que vous avez terminé, cliquez sur **Créer**.
+1. Faites glisser et déposez les segments pour modifier leur ordre. Une fois que vous avez terminé, cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 
    >[!NOTE]
    >
-   >Une personne sera admissible pour le premier segment correspondant dans la [commande](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) définie.
+   >Une personne est éligible pour le premier segment correspondant dans l’[ordre](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) défini.
 
    >[!NOTE]
    >
    >Vous devez définir des règles de segmentation avant de pouvoir utiliser votre segmentation.
 
-   Félicitations ! Vous êtes à un pas de l’utilisation du contenu dynamique.
+   Félicitations ! Vous êtes un peu plus près d’utiliser du contenu dynamique.
 
    >[!MORELIKETHIS]
    >
-   >[Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+   >[Définir des règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)

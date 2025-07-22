@@ -4,58 +4,58 @@ description: Configuration pour les clients existants - Documents Marketo - Docu
 title: Configuration pour les clients existants
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 3%
+source-wordcount: '169'
+ht-degree: 4%
 
 ---
 
 # Configuration pour les clients existants {#configuration-for-existing-customers}
 
-Configurez la configuration suivante afin de commencer à utiliser le nouveau tableau de bord des statistiques.
+Veuillez configurer la configuration suivante pour commencer à utiliser le nouveau tableau de bord d’Insights.
 
 >[!PREREQUISITES]
 >
->Vérifiez que vous avez mis à niveau votre package Salesforce vers la dernière version.
+>Assurez-vous d’avoir mis à niveau votre package [!DNL Salesforce] vers la dernière version
 
-## Configuration de Sales Insight dans Marketo {#configure-sales-insight-in-marketo}
+## Configuration de [!DNL Sales Insight] dans Marketo {#configure-sales-insight-in-marketo}
 
-1. Ouvrez un nouvel onglet dans votre navigateur pour obtenir les informations d’identification Marketo Sales Insights de votre compte Marketo.
+1. Ouvrez un nouvel onglet dans votre navigateur pour obtenir les informations d’identification [!DNL Marketo Sales Insights] à partir de votre compte Marketo.
 
-1. Accédez à la zone **Admin**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Cliquez sur **Sales Insight**.
+1. Cliquez sur **[!UICONTROL Ventes Insight]**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Cliquez sur **Afficher** pour renseigner les informations d’identification de l’API REST.
+1. Cliquez sur **[!UICONTROL Afficher]** pour renseigner les informations d’identification de l’API REST.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Vous verrez une fenêtre contextuelle de confirmation. Cliquez sur **OK**.
+1. Un pop-up de confirmation s’affiche. Cliquez sur **[!UICONTROL OK]**.
 
-## Configuration de Sales Insight dans Salesforce {#configure-sales-insight-in-salesforce}
+## Configuration de [!DNL Sales Insight] dans [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
-1. Dans Salesforce, cliquez sur **Setup**.
+1. Dans Salesforce, cliquez sur **[!UICONTROL Configuration]**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Recherchez et sélectionnez **Paramètres du site distant**.
+1. Recherchez et sélectionnez **[!UICONTROL Paramètres du site distant]**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Cliquez sur **Nouveau site distant**.
+1. Cliquez sur **[!UICONTROL Nouveau site distant]**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. Saisissez le nom du site distant (il peut s’agir de &quot;MarketoRestAPI&quot;) et l’URL du site distant (l’URL de votre API depuis le panneau Configuration de l’API REST dans Marketo).
+1. Saisissez le [!UICONTROL  Nom du site distant ] (par exemple, « MarketoRestAPI ») et l’[!UICONTROL URL du site distant ] (votre URL d’API à partir du panneau Configuration de l’API REST dans Marketo).
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 
@@ -63,8 +63,8 @@ Configurez la configuration suivante afin de commencer à utiliser le nouveau ta
 
 ## Accès Sales Insight de Marketo {#access-marketo-sales-insight}
 
-1. Copiez les informations d’identification du panneau API REST dans la page d’administration des statistiques sur les ventes de Marketo. Collez-les dans la section API REST de la page de configuration des statistiques sur les ventes de Salesforce.
+1. Copiez les informations d’identification depuis le panneau API Rest de [!DNL Marketo’s Sales Insight] page Admin . Collez-les dans la section API Rest de la page Configuration [!DNL Sales Insight] de Salesforce.
 
-1. Saisissez la clé secrète de l’API.
+1. Saisissez la [!UICONTROL  Clé secrète API ].
 
    ![](assets/configuration-for-existing-customers-9.png)

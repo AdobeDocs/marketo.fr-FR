@@ -1,56 +1,56 @@
 ---
 unique-page-id: 9438258
-description: Présentation du rapport de synthèse - Documents Marketo - Documentation du produit
-title: Présentation du rapport de synthèse
+description: Présentation du rapport récapitulatif - Documents Marketo - Documentation du produit
+title: Comprendre le rapport récapitulatif
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
 
 ---
 
-# Présentation du rapport de synthèse {#understanding-the-summary-report}
+# Comprendre le [!UICONTROL rapport récapitulatif] {#understanding-the-summary-report}
 
-Le rapport de synthèse est une vue mensuelle de toutes les campagnes et des performances de contenu recommandées. Il est basé sur le nombre de clics et le nombre de pistes (directes ou assistées) qui se sont engagées dans la campagne personnalisée ou le contenu recommandé et qui sont ensuite devenues une piste connue. Le rapport compare les résultats au mois précédent.
+Le [!UICONTROL rapport récapitulatif] est une vue mensuelle de toutes les campagnes et des performances de contenu recommandées. Elle est basée sur le nombre de clics et le nombre de leads (directs ou assistés) qui ont interagi avec la campagne personnalisée ou le contenu recommandé, puis sont devenus un lead connu. Le rapport compare les résultats au mois précédent.
 
 >[!NOTE]
 >
 >**Définition**
 >
->Conversion directe : un visiteur web qui clique sur une campagne personnalisée ou une ressource de contenu recommandée et, au cours de la même session de visite, remplit un formulaire du site web avec son adresse électronique.
+>Conversion directe : un visiteur web qui clique sur une campagne personnalisée ou une ressource de contenu recommandée et qui, au cours de la même session de visite, remplit n’importe quel formulaire du site web avec son adresse e-mail.
 >
->Conversion assistée : visiteur web qui remplit n’importe quel formulaire sur le site web et laisse son adresse électronique, qui, au cours d’une visite précédente (au cours des 6 derniers mois) a cliqué sur une campagne personnalisée ou une ressource de contenu recommandée.
+>Conversion assistée : visiteur web qui remplit n’importe quel formulaire du site web et laisse son adresse e-mail, qui, lors d’une visite précédente (au cours des 6 derniers mois), a cliqué sur une campagne personnalisée ou une ressource de contenu recommandée.
 
-Dans Web Personalization, accédez à **Analytics** et **Rapport de synthèse**.
+Dans [!UICONTROL Web Personalization], accédez à **[!UICONTROL Analytics]** et **[!UICONTROL Summary Report]**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Sélectionnez **Month** et cliquez sur **Afficher le rapport**.
+Sélectionnez **Mois** et cliquez sur **[!UICONTROL Afficher le rapport]**.
 
 ![](assets/2.png)
 
-La première partie du rapport se rapporte aux campagnes et aux affichages Personalization Web personnalisés :
+La première partie du rapport concerne les campagnes et affichages personnalisés de Web Personalization :
 
-* **Clics** : tous les clics sur les campagnes Web Personalization
-* **Conversions directes** : tous les visiteurs qui ont cliqué sur une campagne Web Personalization au cours de la visite et ont rempli un formulaire.
-* **Taux de conversion directe** : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur une campagne Web Personalization. Modes directs divisés par les clics
-* **Conversions assistées** : tous les visiteurs qui ont rempli un formulaire et cliqué sur une campagne Web Personalization lors d’une visite précédente (au cours des 6 derniers mois)
-* **Conseils** - Conseils pour optimiser les performances de vos campagnes Web Personalization
-* **Campagnes principales** : campagnes les plus performantes au cours de la période sélectionnée, classées par nombre de clics
+* **[!UICONTROL Clics]** - tous les clics sur les campagnes Web Personalization
+* **[!UICONTROL Conversions directes]** - tous les visiteurs et visiteuses qui ont cliqué sur une campagne Web Personalization au cours de la visite et rempli un formulaire
+* **[!UICONTROL Taux de conversion direct]** - Pourcentage de visiteurs et visiteuses qui sont devenus des prospects directs après avoir cliqué sur une campagne Web Personalization. Prospects directs divisés par les clics
+* **[!UICONTROL Conversions assistées]** - tous les visiteurs et visiteuses qui ont rempli un formulaire et cliqué sur une campagne Web Personalization lors d’une visite précédente (au cours des 6 derniers mois)
+* **[!UICONTROL Conseil]** - conseils pour optimiser les performances de vos campagnes Web Personalization
+* **[!UICONTROL Campagnes les plus performantes]** - les campagnes les plus performantes au cours de la période sélectionnée, classées par nombre de clics
 
 ![](assets/3.png)
 
-La deuxième partie du rapport se rapporte au moteur de recommandation Contenu recommandé à partir du Personalization Web. Il affiche :
+La deuxième partie du rapport concerne le moteur de recommandation de contenu Recommandé à partir de Web Personalization. Elle affiche :
 
-* **Clics** : tous les clics sur le contenu recommandé de Web Personalization
-* **Conversions directes** : tous les visiteurs qui ont cliqué sur le contenu recommandé au cours de leur visite et ont rempli un formulaire.
-* **Taux de conversion directe** : pourcentage de visiteurs qui sont devenus une piste directe après avoir cliqué sur le contenu recommandé. Modes directs divisés par les clics
-* **Conversions assistées** : tous les visiteurs qui ont rempli un formulaire et cliqué sur le contenu recommandé lors d’une visite précédente (au cours des 6 derniers mois)
-* **Conseils** - Conseils pour optimiser l’utilisation du moteur de recommandation de contenu
-* **Top Recommendations** : contenu recommandé le plus performant au cours de la période sélectionnée, trié par nombre de clics
+* **[!UICONTROL Clics]** - tous les clics sur le contenu recommandé de Web Personalization
+* **[!UICONTROL Conversions directes]** - tous les visiteurs et visiteuses qui ont cliqué sur le contenu recommandé au cours de leur visite et ont rempli un formulaire
+* **[!UICONTROL Taux de conversion direct]** - pourcentage de visiteurs et visiteuses qui sont devenus un prospect direct après avoir cliqué sur le contenu recommandé. Prospects directs divisés par les clics
+* **[!UICONTROL Conversions assistées]** - tous les visiteurs et visiteuses qui ont rempli un formulaire et cliqué sur le contenu recommandé lors d’une visite précédente (au cours des 6 derniers mois)
+* **[!UICONTROL Conseil]** - conseils pour une optimisation à l’aide du moteur de recommandation de contenu
+* **[!UICONTROL Meilleures recommandations]** - contenu recommandé le plus performant au cours de la période sélectionnée, trié par nombre de clics
 
 >[!NOTE]
 >
->Marketo Web Personalization capture l’adresse électronique du visiteur Web pour tout formulaire complété sur le site Web. Il s’agit de la piste affichée dans la page Pistes Web Personalization utilisée dans le rapport de synthèse.
+>Marketo Web Personalization capture l’adresse e-mail du visiteur web pour tout formulaire rempli sur le site web. Affiché dans la page Prospects de Web Personalization, il s’agit du prospect utilisé dans le rapport récapitulatif.

@@ -1,50 +1,31 @@
 ---
-description: Actions rapides dans le Centre de commandes - Documents Marketo - Documentation du produit
-title: Actions rapides dans le Centre de commandes
+description: Actions rapides dans le centre de commande - Documents Marketo - Documentation du produit
+title: Actions rapides dans le centre de commande
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 5%
+source-wordcount: '323'
+ht-degree: 4%
 
 ---
 
-# Actions rapides dans le Centre de commandes {#quick-actions-in-the-command-center}
+# Actions rapides dans le [!UICONTROL centre de commande] {#quick-actions-in-the-command-center}
 
-Il existe deux types de colonnes d’action rapide dans la grille d’email. Actions par courrier électronique, qui vous permettent d’agir sur le courrier électronique, et Actions de suivi, qui vous permettent d’agir sur l’engagement en quelques clics rapides.
+La grille d’e-mail comporte deux types de colonnes d’action rapide. les actions E-mail, qui vous permettent d’agir sur l’e-mail, et les actions de suivi, qui vous permettent d’agir sur l’engagement en quelques clics.
 
 ## Actions rapides {#quick-actions}
 
-Les actions rapides des emails sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour l’état de l’email que vous consultez. Au maximum, deux actions rapides de courrier électronique sont visibles pour chaque état d’email. Vous pouvez voir quelles actions rapides de courrier électronique seront disponibles pour chaque état ci-dessous.
+Les actions rapides d’e-mail sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour le statut de l’e-mail que vous regardez. Deux actions rapides au maximum sont visibles par statut d’e-mail. Vous pouvez voir ci-dessous les actions rapides relatives aux e-mails qui seront disponibles pour chaque statut.
 
-**Délivrés**
+**[!UICONTROL Délivrés]**
 
 | Statut | Description |
 |---|---|
-| Archiver | Ajoutera le courrier électronique au dossier archivé et arrêtera toutes les vues désactivées et le suivi des clics pour ce courrier électronique. |
-| Succès | Marque l’email comme ayant réussi à faire l’objet d’un rapport dans les analyses de modèle. |
+| [!UICONTROL Archiver] | Ajoutera l’e-mail au dossier archivé et arrêtera toute la vue désactivée et le suivi des clics pour cet e-mail. |
+| [!UICONTROL Succès] | Marquera l’e-mail comme réussi pour générer des rapports dans les analyses de modèles. |
 
-**Archived**
-
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>Désarchiver</td> 
-   <td>Déplacez le courrier électronique vers le dossier de diffusion et réactivez le suivi des affichages/clics.</td> 
-  </tr> 
-  <tr> 
-   <td>Supprimer</td> 
-   <td><p>Supprime l’email.<br><strong>Remarque :</strong> Les emails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
-  </tr> 
- </tbody> 
-</table>
-
-**Brouillon et planifié**
+**[!UICONTROL Archivé]**
 
 <table> 
  <colgroup> 
@@ -53,17 +34,17 @@ Les actions rapides des emails sont dynamiques et mises à jour en fonction des 
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Modifier</td> 
-   <td>Ouvre l'email dans la fenêtre de composition à éditer.</td> 
+   <td>[!UICONTROL Unarchive]</td> 
+   <td>Renvoie l’e-mail dans le dossier diffusé et réactive le suivi des affichages/clics.</td> 
   </tr> 
   <tr> 
-   <td>Supprimer</td> 
-   <td><p>Supprime l’email.<br><strong>Remarque :</strong> Les emails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td>[!UICONTROL Delete]</td> 
+   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Échec, rebond et spam**
+**[!UICONTROL Brouillon] et [!UICONTROL Planifié]**
 
 <table> 
  <colgroup> 
@@ -72,23 +53,42 @@ Les actions rapides des emails sont dynamiques et mises à jour en fonction des 
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Réessayer l’envoi</td> 
-   <td>Essaie immédiatement de renvoyer l’email.</td> 
+   <td>[!UICONTROL Edit]</td> 
+   <td>Ouvre l’e-mail dans la fenêtre de composition à modifier.</td> 
   </tr> 
   <tr> 
-   <td>Supprimer</td> 
-   <td><p>Supprime l’email.<br><strong>Remarque :</strong> Les emails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+   <td>[!UICONTROL Delete]</td> 
+   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Actions de relance**
+**[!UICONTROL Échec], [!UICONTROL Rebond] et [!UICONTROL Spam]**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <td>[!UICONTROL Retry Send]</td> 
+   <td>Tentera immédiatement de renvoyer l’e-mail.</td> 
+  </tr> 
+  <tr> 
+   <td>[!UICONTROL Delete]</td> 
+   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+**[!UICONTROL Actions de suivi]**
 
 ![](assets/quick-actions-in-the-command-center-1.png)
 
 | Fonction | Description |
 |---|---|
-| Envoyer un courrier électronique de relance | Ouvre la fenêtre de composition avec le corps d&#39;email intégré sélectionné ajouté et prêt à être envoyé au destinataire. |
-| Passer un appel | Ouvre le téléphone de vente pour effectuer un appel au destinataire de l’email. |
-| Envoyer InMail | Redirige vers LinkedIn pour envoyer à la personne un message InMail. |
-| Créer une tâche | Ouvre la fenêtre contextuelle Créer une tâche pour créer une tâche de rappel. |
+| Envoyer un e-mail de relance | Ouvre la fenêtre de composition avec le corps d’e-mail intégré sélectionné ajouté et prêt à être envoyé au destinataire. |
+| Passer un appel | Ouvre le téléphone commercial pour passer un appel au destinataire de l&#39;e-mail. |
+| Envoyer dans le courrier | Redirige vers [!DNL LinkedIn] pour envoyer un message InMail à la personne. |
+| Créer une tâche | Ouvre la fenêtre contextuelle de création de tâche pour créer une tâche de rappel. |

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 8783146
 description: Ajout d’un nouvel appareil de test - Documents Marketo - Documentation du produit
-title: Ajout d’un nouveau périphérique de test
+title: Ajout d’un nouvel appareil de test
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
 
 ---
 
-# Ajout d’un nouveau périphérique de test {#adding-a-new-test-device}
+# Ajout d’un nouvel appareil de test {#adding-a-new-test-device}
 
-Il est facile d’ajouter un nouveau périphérique de test auquel envoyer des notifications push.
+Il est facile d’ajouter un nouvel appareil de test vers lequel envoyer des notifications push.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **Admin** , puis sur le lien **Applications mobiles** .
+1. Cliquez sur **[!UICONTROL Admin]** puis sur le lien **[!UICONTROL Applications mobiles]**.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Cliquez sur l’onglet **Périphériques de test** et **Nouveau périphérique de test**.
+1. Cliquez sur l’onglet **[!UICONTROL Tester les appareils]** et **[!UICONTROL Nouvel appareil de test]**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -33,15 +33,15 @@ Il est facile d’ajouter un nouveau périphérique de test auquel envoyer des n
 
 1. Vous pouvez connecter votre appareil à l’application de deux manières différentes.
 
-   Avec la première option, il vous suffit de copier l’URL du champ et de l’envoyer dans un email ou un SMS à votre appareil. Sur l’appareil, appuyez sur l’URL.
+   Avec la première option, copiez simplement l’URL à partir du champ et envoyez-la dans un e-mail ou un message texte à votre appareil. Sur l’appareil, appuyez sur l’URL.
 
    ![](assets/image2015-7-20-11-3a27-3a2.png)
 
-   Ou, avec la deuxième option, cliquez sur le second bouton et analysez le code QR avec votre appareil.
+   Ou, avec la deuxième option, cliquez sur le deuxième bouton et scannez le code QR avec votre appareil.
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. L’application s’ouvre. Nommez l’appareil et appuyez sur **Yes**.
+1. L’application s’ouvre. Nommez l’appareil et appuyez sur **[!UICONTROL Oui]**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
@@ -49,6 +49,6 @@ Il est facile d’ajouter un nouveau périphérique de test auquel envoyer des n
 
    ![](assets/image2015-7-17-17-3a33-3a5.png)
 
-1. Les mises à jour d’état pour afficher le périphérique sont ajoutées. Félicitations!
+1. Le Statut est mis à jour pour afficher l’ajout de l’appareil. Félicitations!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)

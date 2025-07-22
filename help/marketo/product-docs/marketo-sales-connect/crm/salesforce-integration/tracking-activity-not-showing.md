@@ -1,18 +1,18 @@
 ---
 unique-page-id: 14352478
-description: Suivi de l’activité non affichée - Documents Marketo - Documentation du produit
-title: Suivi de l’activité qui ne s’affiche pas
+description: L’Activité De Suivi Ne S’Affiche Pas - Documents Marketo - Documentation Du Produit
+title: L’Activité De Tracking Ne S’Affiche Pas
 exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Suivi de l’activité qui ne s’affiche pas {#tracking-activity-not-showing}
+# L’Activité De Tracking Ne S’Affiche Pas {#tracking-activity-not-showing}
 
-Si votre activité de suivi ne s’affiche pas, assurez-vous que les champs d’activité personnalisés fournis par Sales Connect sont visibles/modifiables dans Salesforce. Si vous avez installé les champs mais qu’ils ne sont pas remplis, il se peut que la sécurité au niveau du champ empêche le renseignement. Veuillez contacter votre administrateur Salesforce.
+Si votre activité de suivi ne s’affiche pas, assurez-vous que les champs d’activité personnalisés fournis par [!DNL  Sales Connect] sont visibles/modifiables dans Salesforce. Si vous avez installé les champs mais qu’ils ne sont pas renseignés, il se peut que la Sécurité au niveau du champ empêche la saisie des informations. Veuillez vérifier avec votre administrateur [!DNL  Salesforce].
 
-En savoir plus sur la [sécurité au niveau du champ](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) dans Salesforce.
+En savoir plus sur la [sécurité au niveau du champ](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5) dans Salesforce.

@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2359474
 description: Modification d’une segmentation - Documents Marketo - Documentation du produit
-title: Modifier une segmentation
+title: Modification d’une segmentation
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# Modifier une segmentation {#edit-a-segmentation}
+# Modification d’une segmentation {#edit-a-segmentation}
 
-Il est facile d’apporter des modifications à vos segments existants. Voici le bas.
+Il est facile d’apporter des modifications à vos segmentations existantes. Voilà le bas.
 
 ## Créer un brouillon de segmentation {#create-a-segmentation-draft}
 
-1. Accédez à la **base de données**.
+1. Accédez à la **[!UICONTROL Base de données]**.
 
    ![](assets/db.png)
 
-1. Dans votre segmentation, cliquez sur **Actions de segmentation**, puis sur **Créer un brouillon**.
+1. Dans votre segmentation, cliquez sur **[!UICONTROL Actions de segmentation]** puis sur **[!UICONTROL Créer un brouillon]**.
 
    ![](assets/two.png)
 
-1. Le **Statut** passe à Approuvé avec brouillon. Un dossier **Draft** est créé dans votre segmentation.
+1. Le **[!UICONTROL Statut]** devient [!UICONTROL Approuvé avec brouillon]. Un dossier **[!UICONTROL Brouillon]** est créé dans votre segmentation.
 
    ![](assets/three.png)
 
-## Ajout, modification ou suppression de segments {#add-edit-or-delete-segments}
+## Ajouter, modifier ou supprimer des segments {#add-edit-or-delete-segments}
 
-1. Dans votre segmentation, cliquez sur **Actions de segmentation**, puis sur **Modifier les segments**.
+1. Dans votre segmentation, cliquez sur **[!UICONTROL Actions de segmentation]** puis sur **[!UICONTROL Modifier les segments]**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Vous pouvez uniquement modifier les segments d’un brouillon et non la segmentation approuvée.
+   >Vous pouvez uniquement modifier les segments d’un [!UICONTROL Brouillon] et non la segmentation approuvée.
 
-1. **Ajouter un segment**, **Modifier** existant (renommer ou changer l’ordre) ou **Supprimer** tout segment.
+1. **[!UICONTROL Ajouter un segment]**, **[!UICONTROL Modifier]** existant (renommer ou modifier l’ordre) ou **[!UICONTROL Supprimer]** tout segment.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,24 +49,24 @@ Il est facile d’apporter des modifications à vos segments existants. Voici le
 
    >[!CAUTION]
    >
-   >La suppression a un impact sur l’ensemble du contenu dynamique associé dans les emails, les pages d’entrée et les fragments de code. **Il n’y a aucune annulation**. Consultez l’onglet **Utilisé par** pour voir quelle est l’utilisation de ce segment.
+   >La suppression affecte tout le contenu dynamique associé dans les e-mails, les pages de destination et les fragments de code. **Il n’y a pas d’annulation**. Vérifiez l’onglet **[!UICONTROL Utilisé par]** pour voir ce qui utilise ce segment.
 
-## Modifier des règles de segment {#edit-segment-rules}
+## Modifier les règles de segment {#edit-segment-rules}
 
-1. Dans votre **segment** préliminaire, accédez à la **liste dynamique**. Appliquez des règles similaires à la [définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Dans votre [!UICONTROL Brouillon] **Segment**, accédez à **[!UICONTROL Liste dynamique]**. Appliquez des règles similaires à [Définition de règles de segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas modifier vos segments approuvés. Cliquez sur Segments dans le dossier Brouillon pour les modifier.
+   >Vous ne pouvez pas modifier vos segments approuvés. Cliquez sur Segments dans le dossier [!UICONTROL Brouillon] pour les modifier.
 
    >[!NOTE]
    >
-   >N’oubliez pas d’approuver votre version préliminaire de segmentation.
+   >N’oubliez pas d’approuver le brouillon de segmentation.
 
-N’hésitez pas à expérimenter des segments qui ne sont pas utilisés dans le contenu dynamique.
+N’hésitez pas à tester des segmentations qui ne sont pas utilisées dans le contenu dynamique.
 
 >[!MORELIKETHIS]
 >
->[Suppression d’une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
+>[Supprimer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 14352503
-description: Modèles partagés - Documents Marketo - Documentation du produit
+description: Modèles Partagés - Documents Marketo - Documentation Du Produit
 title: Modèles partagés
 exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Comment partager un modèle {#how-to-share-a-template}
 
-Si vous utilisez l’un de nos comptes d’équipe, tous vos modèles restent privés par défaut. Cliquez sur le bouton vert **Partager** en haut de votre modèle pour le partager avec le reste de votre équipe.
+Si vous utilisez l&#39;un de nos comptes d&#39;équipe, tous vos modèles restent privés par défaut. Cliquez sur le bouton vert **[!UICONTROL Partager]** en haut de votre modèle pour le partager avec le reste de votre équipe.
 
 ## Comment trouver des modèles partagés  {#how-to-find-shared-templates}
 
-Les modèles qui ont été partagés avec vous s’affichent sous l’en-tête **Modèles d’équipe** sur le côté gauche de la page Modèles.
+Les modèles qui ont été partagés avec vous s’affichent sous l’en-tête **[!UICONTROL Modèles d’équipe]** sur le côté gauche de la page Modèles.
 
 >[!NOTE]
 >

@@ -1,53 +1,53 @@
 ---
 unique-page-id: 2359667
-description: Application du masquage des entrées à un champ d’un formulaire - Documents Marketo - Documentation du produit
-title: Application d’un masquage des entrées à un champ d’un formulaire
+description: Application d’un masque de saisie à un champ d’un formulaire - Documents Marketo - Documentation du produit
+title: Application d’un masque de saisie à un champ d’un formulaire
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Application d’un masquage des entrées à un champ d’un formulaire {#apply-input-masking-to-a-field-in-a-form}
+# Application d’un masque de saisie à un champ d’un formulaire {#apply-input-masking-to-a-field-in-a-form}
 
-Vous pouvez empêcher les entrées de votre visiteur à l’aide d’un masque de saisie. Par exemple, vous souhaitez peut-être que les visiteurs saisissent uniquement des numéros de téléphone dans un format spécifique.
+Vous pouvez restreindre la saisie de votre visiteur à l’aide d’un masque de saisie. Par exemple, vous pouvez souhaiter que les visiteurs et visiteuses saisissent des numéros de téléphone uniquement dans un format spécifique.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Sélectionnez votre champ et assurez-vous que le **Type de champ** est défini sur **Texte**.
+1. Sélectionnez votre champ et assurez-vous que le **[!UICONTROL Type de champ]*** est défini sur **[!UICONTROL Texte]**.
 
    >[!NOTE]
    >
-   >Le masquage des entrées fonctionne uniquement avec les **types de champ de texte**.
+   >Le masquage des entrées ne fonctionne qu’avec **[!UICONTROL Types de champs de texte]**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Cliquez sur le lien **Entrée de masque** .
+1. Cliquez sur le lien **[!UICONTROL Entrée de masque]**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Saisissez votre masque de saisie et cliquez sur **Enregistrer**.
+1. Saisissez votre masque de saisie et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
    >[!NOTE]
    >
-   >Attention aux règles de masquage. Vous pouvez restreindre la saisie aux nombres, aux lettres, aux deux et/ou même limiter le nombre de caractères saisis.
+   >Prêtez attention aux règles de masquage. Vous pouvez limiter la saisie aux chiffres, aux lettres, aux deux et/ou même limiter le nombre de caractères saisis.
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
@@ -57,6 +57,6 @@ Vous pouvez empêcher les entrées de votre visiteur à l’aide d’un masque d
 
    >[!NOTE]
    >
-   >Il se peut que le champ n’affiche pas les régions prédéfinies comme illustré dans l’image ci-dessus. Il peut apparaître vide jusqu’à ce que le visiteur commence à saisir des nombres, ce qui se conforme alors automatiquement au format de saisie que vous avez défini pour le champ.
+   >Le champ peut ne pas afficher les régions prédéfinies comme illustré dans l’image ci-dessus. Il peut apparaître vide jusqu’à ce que le visiteur commence à saisir des nombres, qui adhèrent alors automatiquement au format de saisie que vous avez défini pour le champ.
 
 Plutôt cool, hein ?

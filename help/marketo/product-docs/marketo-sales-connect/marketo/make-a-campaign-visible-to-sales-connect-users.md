@@ -4,14 +4,14 @@ description: Rendre une campagne visible par les utilisateurs de Sales Connect -
 title: Rendre une campagne visible par les utilisateurs de Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: b037057cb37c830760a5d5bc24591f85ad306ae8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Rendre une campagne visible par les utilisateurs de Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
+# Rendre une campagne visible par [!DNL Sales Connect] utilisateurs {#make-a-campaign-visible-to-sales-connect-users}
 
 Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Voici comment faire.
 
@@ -19,34 +19,34 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
-1. Cliquez sur l’onglet **Liste dynamique**.
+1. Cliquez sur l’onglet **[!UICONTROL Liste dynamique]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
-1. Ajoutez le déclencheur La campagne est demandée .
+1. Ajoutez le déclencheur [!UICONTROL La campagne est demandée].
 
    ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 
-1. Pour la source, choisissez « is » **API de service web**.
+1. Pour la source, choisissez « [!UICONTROL is] » **[!UICONTROL API de service web]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
-1. Cliquez sur l’onglet **Flux**.
+1. Cliquez sur l’onglet **[!UICONTROL Flux]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
-1. Ajoutez l’action de flux Moment intéressant .
+1. Ajoutez l’action de flux [!UICONTROL  Moment intéressant ].
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. Pour Type, sélectionnez **Web**.
+1. Pour [!UICONTROL  Type ], sélectionnez **[!UICONTROL Web]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
-1. Dans la zone Description, écrivez un message à votre équipe commerciale. Dans cet exemple, nous utilisons des jetons pour spécifier le formulaire qui a été rempli.
+1. Dans la zone [!UICONTROL Description], écrivez un message à votre équipe commerciale. Dans cet exemple, nous utilisons des jetons pour spécifier le formulaire qui a été rempli.
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 
-1. Cliquez sur l’onglet **Planifier** et **Activer** la campagne.
+1. Cliquez sur l’onglet **[!UICONTROL Planifier]** et **[!UICONTROL Activer]** la campagne.
 
    ![](assets/make-a-marketing-campaign-visible-msc-9.png)

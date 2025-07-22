@@ -3,27 +3,27 @@ description: Connexion automatique à partir de Salesforce - Documents Marketo -
 title: Connexion automatique à partir de Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Connexion automatique à partir de Salesforce {#auto-login-from-salesforce}
+# Connexion automatique à partir de [!DNL Salesforce] {#auto-login-from-salesforce}
 
-La connexion automatique permet aux utilisateurs des actions d’aperçu commercial de s’authentifier automatiquement aux actions d’aperçu commercial lorsqu’ils travaillent à partir de Salesforce.
+La connexion automatique permet aux utilisateurs [!DNL Sales Insight Actions] de s’authentifier automatiquement auprès de [!DNL Sales Insight Actions] lorsqu’ils travaillent depuis [!DNL Salesforce].
 
-Pour utiliser la fonction de connexion automatique :
+Pour utiliser la connexion automatique :
 
-* [ Les paramètres de gestion de connexion ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) doivent être définis sur &quot;Salesforce Only&quot;
+* [Paramètres de gestion des connexions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) doit être défini sur « [!UICONTROL Salesforce uniquement »]
 
-* L’utilisateur doit avoir été invité à utiliser les actions d’aperçu des ventes
+* L’utilisateur doit avoir été invité à utiliser [!DNL Sales Insight Actions]
 
-* L’utilisateur doit avoir activé le compte en connectant son compte Salesforce à son instance d’actions Sales Insight.
+* L’utilisateur doit avoir activé le compte en connectant son compte [!DNL Salesforce] à son instance [!DNL Sales Insight Actions]
 
-* Le nom d’utilisateur des actions d’aperçu des ventes de l’utilisateur doit correspondre à son nom d’utilisateur Salesforce (ou son nom d’utilisateur et son e-mail Salesforce correspondent).
+* Le nom d’utilisateur [!DNL Sales Insight Actions] de l’utilisateur doit correspondre à son nom d’utilisateur [!DNL Salesforce] (ou son nom d’utilisateur [!DNL Salesforce] et son adresse e-mail correspondent)
 
 >[!MORELIKETHIS]
 >
->[Invitation d’utilisateurs et d’administrateurs](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+>[Inviter des utilisateurs et des administrateurs](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)

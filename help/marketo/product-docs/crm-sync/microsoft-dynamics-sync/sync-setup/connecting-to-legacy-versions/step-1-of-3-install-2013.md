@@ -4,16 +4,16 @@ description: Étape 1 sur 3 - Installer la solution Marketo dans Dynamics (2013 
 title: Étape 1 sur 3 - Installer la solution Marketo dans Dynamics (2013 On-Premise)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-# Étape 1 sur 3 : Installer la solution Marketo dans Dynamics (2013 On-Premise) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# Étape 1 sur 3 : installation de la solution Marketo en [!DNL Dynamics] (2013 On-Premise) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, vous devez d’abord installer la solution Marketo dans Dynamics.
+Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] On-Premise et Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics].
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
 >[!NOTE]
 >
->**Autorisations d’administrateur Dynamics requises**.
+>Autorisations d’administrateur **[!DNL Dynamics]requises.**
 >
 >Vous avez besoin de privilèges d’administrateur CRM pour effectuer cette synchronisation.
 
-1. Connectez-vous à Dynamics. Cliquez sur le menu déroulant **[!UICONTROL Microsoft Dynamics CRM]** et sélectionnez **[!UICONTROL Paramètres]**.
+1. Connectez-vous à **[!DNL Dynamics]**. Cliquez sur le menu déroulant **[!UICONTROL Microsoft Dynamics CRM]** et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
@@ -43,11 +43,11 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Cliquez sur **[!UICONTROL Parcourir]** et sélectionnez la [solution téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Cliquez sur **[!UICONTROL Suivant]**.
+1. Cliquez sur **[!UICONTROL Parcourir]** et sélectionnez la [solution téléchargée](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. Affichez les informations sur la solution et cliquez sur **[!UICONTROL Afficher les détails du package de solution]**.
+1. Affichez les [!UICONTROL Informations sur la solution] et cliquez sur **[!UICONTROL Afficher les détails du package de solution]**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -55,7 +55,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics On-Premise et Marketo Engage, v
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. De retour sur la page Informations sur la solution, cliquez sur **[!UICONTROL Suivant]**.
+1. De retour sur la page [!UICONTROL  Informations sur la solution ], cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 

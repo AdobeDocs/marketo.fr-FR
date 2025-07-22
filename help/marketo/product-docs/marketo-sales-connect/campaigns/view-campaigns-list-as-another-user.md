@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317367
-description: Affichage de la liste des campagnes comme un autre utilisateur - Documents Marketo - Documentation du produit
-title: Affichage de la liste des campagnes en tant qu’autre utilisateur
+description: Afficher la liste des campagnes en tant qu’autre utilisateur - Documents Marketo - Documentation du produit
+title: Afficher la liste des campagnes en tant qu'utilisateur différent
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Affichage de la liste des campagnes en tant qu’autre utilisateur {#view-campaigns-list-as-another-user}
+# Afficher la liste des campagnes en tant qu&#39;utilisateur différent {#view-campaigns-list-as-another-user}
 
 En tant qu’administrateur, vous pouvez afficher les campagnes comme n’importe quel utilisateur.
 
@@ -19,11 +19,11 @@ En tant qu’administrateur, vous pouvez afficher les campagnes comme n’import
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans l&#39;application web, cliquez sur **Campagnes**.
+1. Dans l&#39;application web, cliquez sur **[!UICONTROL Campagnes]**.
 
    ![](assets/one-5.png)
 
-1. Cliquez sur la liste déroulante **Afficher comme** et sélectionnez un utilisateur.
+1. Cliquez sur le menu déroulant **[!UICONTROL Afficher sous]** et sélectionnez l’utilisateur de votre choix.
 
    ![](assets/two-4.png)
 
@@ -33,4 +33,4 @@ En tant qu’administrateur, vous pouvez afficher les campagnes comme n’import
 
    >[!NOTE]
    >
-   >Vous pouvez également utiliser des filtres ou la fonction de recherche avec Afficher comme pour afficher ce qui vous intéresse le plus.
+   >Vous pouvez également utiliser les filtres ou la fonction de recherche avec Afficher sous pour voir ce qui vous intéresse le plus.

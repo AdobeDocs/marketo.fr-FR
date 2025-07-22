@@ -1,53 +1,53 @@
 ---
 unique-page-id: 11376700
-description: Ajout de pistes à une audience personnalisée dans Facebook - Documents Marketo - Documentation du produit
-title: Ajout de pistes à une audience personnalisée dans Facebook
+description: Ajout de leads à une audience personnalisée dans Facebook - Documents Marketo - Documentation du produit
+title: Ajout de leads à une audience personnalisée dans Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-# Ajout de pistes à une audience personnalisée dans Facebook {#add-leads-to-a-custom-audience-in-facebook}
+# Ajout de leads à une audience personnalisée dans [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Vous disposez déjà d’une audience personnalisée dans Facebook et souhaitez y ajouter d’autres pistes ? Voici comment.
+Vous avez déjà une audience personnalisée en [!DNL Facebook] et vous souhaitez y ajouter d’autres prospects ? Voici comment procéder.
 
 >[!PREREQUISITES]
 >
->* [Création d’une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Acceptez Facebook en  des termes d’audiences personnalisées](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte Facebook.
+>* [Création d’une audience personnalisée dans  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Acceptez [!DNL Facebook] les conditions des audiences personnalisées](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook].
 >
 
-1. Recherchez et sélectionnez la liste dynamique ou statique qui contient les pistes à ajouter.
+1. Recherchez et sélectionnez la liste dynamique ou statique contenant les prospects à ajouter.
 
    ![](assets/one.png)
 
-1. Sélectionnez l’onglet **Pistes** , puis cliquez sur l’icône **Envoyer par le biais du Bridge** en bas de l’écran.
+1. Sélectionnez l’onglet **[!UICONTROL Leads]**, puis cliquez sur l’icône **Envoyer via Ad Bridge** en bas.
 
    ![](assets/two-1.png)
 
-1. Sélectionnez **Facebook** et cliquez sur **Suivant**.
+1. Sélectionnez **[!UICONTROL Facebook]** et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/three.png)
 
-1. Cliquez sur la liste déroulante **Audience** , sélectionnez l’audience à laquelle vous souhaitez ajouter les pistes, puis cliquez sur **Mettre à jour**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Audience]**, sélectionnez l’audience à laquelle vous souhaitez ajouter les prospects, puis cliquez sur **[!UICONTROL Mettre à jour]**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Ajouter des pistes à l’audience** : seules les audiences Facebook avec un sous-type personnalisé seront disponibles.\
-   >**Supprimer des pistes de l’audience** : supprime les pistes de votre liste statique ou dynamique d’une audience Facebook.
+   >**[!UICONTROL Ajouter des prospects à l’audience]** : seules les audiences [!DNL Facebook] avec un sous-type personnalisé seront disponibles.\
+   >**[!UICONTROL Supprimer les prospects de l’audience]** : supprime les prospects de votre liste statique ou dynamique d’une audience [!DNL Facebook].
 
-1. Lorsque vous avez terminé, l’état est mis à jour.
+1. Une fois cette opération terminée, le statut est mis à jour.
 
    ![](assets/five-1.png)
 
-   C&#39;est tout ce qu&#39;il y a à ça !
+   C&#39;est tout !
 
    >[!NOTE]
    >
-   >[Création d’une audience personnalisée dans Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[Création d’une audience personnalisée dans  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

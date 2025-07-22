@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720215
-description: Mise en oeuvre de la procédure RTP sur Wordpress Enterprise - Documents Marketo - Documentation du produit
-title: Mise en oeuvre de la méthode RTP sur Wordpress Enterprise
+description: Mise en œuvre du RTP sur Wordpress Enterprise - Documents Marketo - Documentation du produit
+title: Mise en œuvre du RTP sur Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
-# Mise en oeuvre de la méthode RTP sur Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
+# Mise en œuvre du RTP sur Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous :
+Pour implémenter votre balise [!UICONTROL RTP] suivez les instructions d’installation ci-dessous :
 
-1. Accédez à **Paramètres du compte**.
+1. Accédez à **[!UICONTROL Paramètres du compte]**.
 
-   a. Si vous avez déjà reçu votre balise JavaScript de la part de l’assistance - passez à l’étape 3.
+   a. Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 3.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
+1. Sous [!UICONTROL Domaine], recherchez le domaine approprié et cliquez sur **[!UICONTROL Générer la balise]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
-1. Copiez la balise JavaScript RTP.
+1. Copiez la balise RTP JavaScript.
 
-1. Connectez-vous à votre compte WordPress en tant qu’utilisateur administrateur.
+1. Connectez-vous à votre compte [!DNL WordPress] en tant qu’utilisateur administrateur
 
-   a. Sous **Apparence**, accédez à **JavaScript personnalisé**.
+   a. Sous **[!UICONTROL Apparence]**, accédez à **[!UICONTROL Custom JavaScript]**.
 b. Collez la balise JavaScript RTP juste après le code existant.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b. Collez la balise JavaScript RTP juste après le code existant.
    >
    >Insérez le script lui-même UNIQUEMENT.
 
-1. Cliquez sur **Mettre à jour**.
+1. Cliquez sur **[!UICONTROL Mettre à jour]**.

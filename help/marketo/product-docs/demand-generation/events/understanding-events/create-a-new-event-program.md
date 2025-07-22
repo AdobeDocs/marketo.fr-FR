@@ -1,57 +1,57 @@
 ---
 unique-page-id: 2949844
 description: Création d’un programme d’événement - Documents Marketo - Documentation du produit
-title: Création d’un programme d’événement
+title: Créer un programme d’événement
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
 
 ---
 
-# Création d’un programme d’événement {#create-a-new-event-program}
+# Créer un programme d’événement {#create-a-new-event-program}
 
-Les événements vous permettent d’automatiser les événements en ligne et hors ligne. Capturez l’état de vos employés au fil des différentes étapes et obtenez des mesures précises du retour sur investissement pour vos initiatives marketing.
+Les événements vous permettent d’automatiser les événements en ligne et hors ligne ! Capturez le statut de vos employés à mesure qu’ils passent par différentes étapes et obtenez des mesures précises du retour sur investissement pour vos initiatives marketing.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez le dossier du nouveau programme. Sélectionnez **New** et cliquez sur **New Program**.
+1. Sélectionnez le dossier du nouveau programme. Sélectionnez **[!UICONTROL Nouveau]** puis cliquez sur **[!UICONTROL Nouveau programme]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Choisissez le nom de votre événement. Ensuite, sous **Type de programme**, sélectionnez **Événement**.
+1. Choisissez un nom pour votre événement. Ensuite, sous **[!UICONTROL Type de programme]**, sélectionnez **[!UICONTROL Événement]**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Sélectionnez un **Canal**.
+1. Sélectionnez un **[!UICONTROL canal]**.
 
    >[!NOTE]
    >
-   >Les canaux définissent les différents statuts qu’une personne peut avoir dans un programme. Pour en savoir plus sur [l&#39;adhésion au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md), cliquez ici.
+   >Les canaux définissent les différents statuts qu’une personne peut avoir dans un programme. Pour en savoir plus sur l’[adhésion au programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md), cliquez ici.
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Cliquez sur **Créer**.
+1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   Et voilà ! Votre nouvel événement s’affiche désormais dans l’arborescence.
+   Et voilà ! Votre nouvel événement apparaît désormais dans l’arborescence.
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Pour planifier votre événement, sélectionnez **Affichage de planification** et cliquez dessus dans le calendrier pour ouvrir la fenêtre contextuelle. Entrez des dates et des heures.
+1. Pour planifier votre événement, sélectionnez **[!UICONTROL Vue de planification]** et cliquez dessus dans le calendrier pour ouvrir la fenêtre contextuelle. Entrez les dates et heures.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Faites glisser la barre vers **Confirmé** lorsque vous avez terminé.
+1. Faites glisser la barre sur **[!UICONTROL Confirmé]** lorsque vous avez terminé.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Une fois votre événement créé, créez les [landing pages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), les [formulaires](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) et les [emails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) pour inviter vos invités ! Vous souhaitez également vous familiariser avec la [vue de planification de programme](https://docs.marketo.com/display/docs/program+schedule+view).
+Une fois votre événement créé, créez les [pages de destination](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulaires](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) et [e-mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) pour inviter vos invités ! Vous souhaiterez également vous familiariser avec la [vue de planning du programme](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Tableaux de bord RTP personnalisés dans Google Universal Analytics
 title: Tableaux de bord RTP personnalisés dans Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Cette publication explique comment configurer des tableaux de bord RTP dans Goog
 
 ## Configuration d’un tableau de bord personnalisé {#setting-up-a-custom-dashboard}
 
-1. Connectez-vous aux Google Analytics . Cliquez sur **Reporting** dans le menu supérieur. Cliquez sur **Tableaux de bord** puis sur **+Nouveau tableau de bord personnalisé**.
+1. Connectez-vous à Google Analytics. Cliquez sur **[!UICONTROL Reporting]** dans le menu supérieur. Cliquez sur **[!UICONTROL Tableaux de bord]** et **[!UICONTROL Nouveau tableau de bord]**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Sélectionnez **Zone de travail vierge**, ajoutez un **Nom du tableau de bord** et cliquez sur **Créer un tableau de bord**.
+1. Sélectionnez **Zone de travail vierge**, ajoutez un **Nom du tableau de bord** et cliquez sur **[!UICONTROL Créer un tableau de bord]**.
 
-1. Cliquez sur **Ajouter un widget** pour créer un widget.
+1. Cliquez sur **[!UICONTROL Ajouter un widget]** pour créer un widget.
 
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
@@ -70,50 +70,50 @@ Le tableau de bord se compose de 3 colonnes
    <td> 
     <ul> 
      <li>Nom : sessions par segments et canaux</li> 
-     <li>Type de widget : Barre<br></li> 
-     <li>Créez un graphique à barres affichant : Session</li> 
-     <li>Regroupé par : libellé de l'événement</li> 
-     <li>Pivoter par : regroupement de canaux par défaut</li> 
-     <li>Filtre : <br>Afficher uniquement | Catégorie d’événement (contenant) RTP-Segments</li> 
+     <li>Type de widget : <span class="uicontrol">Bar</span><br></li> 
+     <li><span class="uicontrol">Créez un graphique à barres affichant </span> : <span class="uicontrol">Session</span></li> 
+     <li><span class="uicontrol">Regroupé par</span> : <span class="uicontrol">libellé de l'événement</span></li> 
+     <li><span class="uicontrol">Pivoter par</span> : <span class="uicontrol">Regroupement de canaux par défaut</span></li> 
+     <li>Filtre : <br><span class="uicontrol">Afficher uniquement</span> | <span class="uicontrol">Catégorie d’événements</span> (<span class="uicontrol">contenant</span>) RTP-Segments</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nom : nombre d’utilisateurs segmentés RTP</li> 
-     <li>Type : 2.1 Mesure</li> 
-     <li>Afficher la mesure suivante : Utilisateurs<br></li> 
-     <li>Filtre : <br>Afficher uniquement | Catégorie d’événement (contenant) RTP-Segments</li> 
+     <li>Type : Mesure <span class="uicontrol">2.1</span></li> 
+     <li><span class="uicontrol">Afficher la mesure suivante</span> : <span class="uicontrol">Utilisateurs</span><br></li> 
+     <li>Filtre : <br><span class="uicontrol">Afficher uniquement</span> | <span class="uicontrol">Catégorie d’événement</span> (contenant) des segments RTP</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nom : Sessions par secteur</li> 
-     <li>Type : circulaire<br></li> 
-     <li>Créez un graphique en secteurs qui affiche : Sessions</li> 
-     <li>Regroupé par : RTP-Industry</li> 
+     <li>Type : <span class="uicontrol">circulaire</span><br></li> 
+     <li><span class="uicontrol">Créez un graphique en secteurs qui affiche </span> : <span class="uicontrol">Sessions</span></li> 
+     <li><span class="uicontrol">Regroupé par</span> : <span class="uicontrol">RTP-Industry</span></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a27.png" data-linked-resource-id="7504250" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <th> 
     <ul> 
      <li><strong>Nom : Sessions par secteur et canaux</strong></li> 
-     <li><strong>Type de widget : Barre</strong></li> 
-     <li><strong>Créez un graphique à barres affichant : Session</strong></li> 
-     <li><strong>Regroupé par : RTP-Industry</strong></li> 
-     <li><strong>Pivoter par : regroupement de canaux par défaut</strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
+     <li><strong>Type de widget : <span class="uicontrol">Bar</span></strong></li> 
+     <li><strong><span class="uicontrol">Créez un graphique à barres affichant </span> : <span class="uicontrol">Session</span></strong></li> 
+     <li><strong><span class="uicontrol">Regroupé par </span> : <span class="uicontrol">RTP-Industry</span></strong></li> 
+     <li><strong><span class="uicontrol">Pivoter par</span> : <span class="uicontrol">Regroupement de canaux par défaut</span></strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
     </ul></th> 
    <th> 
     <ul> 
      <li><strong>Nom : sessions segmentées par pays</strong></li> 
-     <li><strong>Type : Geomap</strong></li> 
-     <li><strong>Tracer la mesure sélectionnée : Pays | Sessions</strong></li> 
-     <li><strong>Sélectionner une région : Le Monde</strong></li> 
-     <li><strong>Filtre : Afficher uniquement | Catégorie d’événement (contenant) RTP-Segments</strong></li> 
+     <li><strong>Type : <span class="uicontrol">Geomap</span></strong></li> 
+     <li><strong><span class="uicontrol">Tracer la mesure sélectionnée</span> : <span class="uicontrol">Pays</span> | <span class="uicontrol"> Sessions </span></strong></li> 
+     <li><strong><span class="uicontrol">Sélectionnez une région</span> : <span class="uicontrol">Le monde</span></strong></li> 
+     <li><strong>Filtre : <span class="uicontrol">Afficher uniquement</span> | <span class="uicontrol">Catégorie d’événement</span> (contenant) des segments RTP</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
      <li><strong>Nom : Sessions par catégorie RTP</strong></li> 
-     <li><strong>Type : circulaire</strong></li> 
-     <li><strong>Créez un graphique en secteurs qui affiche : Sessions</strong></li> 
-     <li><strong>Regroupé par : RTP-Category</strong></li> 
+     <li><strong>Type : <span class="uicontrol">circulaire</span></strong></li> 
+     <li><strong><span class="uicontrol">Créez un graphique en secteurs qui affiche </span> : <span class="uicontrol">Sessions</span></strong></li> 
+     <li><strong><span class="uicontrol">Regroupé par</span> : <span class="uicontrol">RTP-Category</span></strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a1.png" data-linked-resource-id="7504254" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
@@ -121,10 +121,10 @@ Le tableau de bord se compose de 3 colonnes
    <th> 
     <ul> 
      <li>Nom : Segments Cibles Principaux</li> 
-     <li>Type : Barre</li> 
-     <li>Créez un graphique à barres affichant les éléments suivants : Utilisateurs</li> 
-     <li>Regroupé par : Action d’événement</li> 
-     <li>Filtre : Afficher uniquement | Catégorie d’événement (contenant) RTP-Segments</li> 
+     <li>Type : <span class="uicontrol">Bar</span></li> 
+     <li><span class="uicontrol">Créez un graphique à barres affichant </span> : <span class="uicontrol">Utilisateurs</span></li> 
+     <li><span class="uicontrol">Regroupé par</span> : <span class="uicontrol">Action d’événement</span></li> 
+     <li>Filtre : <span class="uicontrol">Afficher uniquement</span> | <span class="uicontrol">Catégorie d’événement</span> (contenant) des segments RTP</li> 
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
@@ -193,9 +193,9 @@ Créez un tableau de bord appelé **Tableau de bord d’engagement RTP** et déf
    <td> 
     <ul> 
      <li>Nom : <strong>CRE - Nombre total de clics</strong></li> 
-     <li>Type : Mesure <strong>2.1</strong><br></li> 
-     <li>Afficher la mesure suivante : <strong>Pages vues</strong></li> 
-     <li>Filtre : <strong>[afficher uniquement] Page (contenant) : rcmd</strong></li> 
+     <li>Type : Mesure <strong><span class="uicontrol">2.1</span></strong><br></li> 
+     <li><span class="uicontrol">Afficher la mesure suivante</span> : <strong><span class="uicontrol">Pages vues</span></strong></li> 
+     <li>Filtre : <strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Page</span> (<span class="uicontrol">contenant</span>) : rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -216,20 +216,20 @@ Créez un tableau de bord appelé **Tableau de bord d’engagement RTP** et déf
    <td colspan="1"> 
     <ul> 
      <li>Nom : <strong>CRE - Top Recommended Content</strong></li> 
-     <li>Type : <strong>Table</strong><br></li> 
-     <li>Afficher les colonnes suivantes : <br><strong>Titre de la page | Pages vues </strong><br></li> 
-     <li>Filtres :<br>Filtre : <strong>[afficher uniquement] Page (contenant) : rcmd</strong></li> 
+     <li>Type : <strong><span class="uicontrol">Table</span></strong><br></li> 
+     <li><span class="uicontrol">Afficher les colonnes suivantes </span> : <br><strong><span class="uicontrol">Titre de la page</span> | <span class="uicontrol">Pages vues</span></strong><br></li> 
+     <li>Filtres :<br>Filtre : <strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Page</span> (<span class="uicontrol">contenant</span>) : rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
      <li>Nom : <strong>Pages / Session (Engagement)</strong></li> 
-     <li>Type : <strong>2.1 </strong> métrique</li> 
-     <li>Afficher la mesure suivante : <strong>Pages/session</strong></li> 
-     <li>Filtres :<br><strong>[afficher uniquement] Catégorie d’événement (correspondant exactement) : RTP-Campagnes</strong></li> 
-     <li><strong>[show uniquement] Action d'événement (correspondant exactement) : impression</strong></li> 
-     <li><strong>[ne pas afficher] Libellé de l'événement (contenant) : #</strong></li> 
+     <li>Type : <strong><span class="uicontrol">2.1 Mesure </span> </strong></li> 
+     <li><span class="uicontrol">Afficher la mesure suivante</span> : <strong><span class="uicontrol">Pages/Session</span></strong></li> 
+     <li>Filtres :<br><strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Catégorie d’événement</span> (<span class="uicontrol">correspondant exactement</span>) : Campagnes RTP</strong></li> 
+     <li><strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Action d’événement</span> (<span class="uicontrol">correspondant exactement</span>) : impression</strong></li> 
+     <li><strong>[<span class="uicontrol">ne pas afficher</span>] <span class="uicontrol">Libellé de l’événement</span> (<span class="uicontrol">contenant</span>) : #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
@@ -246,16 +246,16 @@ Créez un tableau de bord appelé **Tableau de bord d’engagement RTP** et déf
    <td> 
     <ul> 
      <li>Nom : <strong>Impressions par CTA</strong></li> 
-     <li>Type : <strong>Table</strong></li> 
-     <li>Afficher les colonnes suivantes : <strong>Libellé de l'événement | Total des événements | Utilisateurs </strong></li> 
-     <li>Filtres :<br><strong>[afficher uniquement] Catégorie d’événement (correspondant exactement) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action d’événement (correspondant exactement) : impression</strong><strong>[ne pas afficher] Libellé d’événement (contenant) : #</strong></li> 
+     <li>Type : <strong><span class="uicontrol">Table</span></strong></li> 
+     <li><span class="uicontrol">Afficher les colonnes suivantes </span> : <strong><span class="uicontrol">Libellé de l'événement</span> | <span class="uicontrol">Total des événements</span> | <span class="uicontrol">Utilisateurs</span></strong></li> 
+     <li>Filtres :<br><strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Catégorie d’événement</span> (<span class="uicontrol">correspondant exactement</span>) : RTP-Campagnes</strong><br><strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Event Action</span> (<span class="uicontrol">correspondant exactement</span>) : impression</strong><strong>[<span class="uicontrol">ne pas afficher</span>] <span class="uicontrol">Event Label</span> (<span class="uicontrol">contenant</span>) : #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nom : <strong>Clickthrough by CTA</strong></li> 
-     <li>Type : <strong>Table</strong></li> 
-     <li>Afficher les colonnes suivantes : <strong>Libellé de l'événement | Total des événements | Utilisateurs </strong></li> 
-     <li>Filtres :<br><strong>[afficher uniquement] Catégorie d’événement (correspondant exactement) : RTP-Campagnes</strong><br><strong>[afficher uniquement] Action d’événement (correspondant exactement) : clics</strong></li> 
+     <li>Type : <strong><span class="uicontrol">Table</span></strong></li> 
+     <li><span class="uicontrol">Afficher les colonnes suivantes </span> : <strong><span class="uicontrol">Libellé de l'événement</span> | <span class="uicontrol">Total des événements</span> | <span class="uicontrol">Utilisateurs</span></strong></li> 
+     <li>Filtres :<br><strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Catégorie d’événement</span> (<span class="uicontrol">correspondant exactement</span>) : RTP-Campagnes</strong><br><strong>[<span class="uicontrol">afficher uniquement</span>] <span class="uicontrol">Event Action</span> (<span class="uicontrol">correspondant exactement</span>) : clics</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 

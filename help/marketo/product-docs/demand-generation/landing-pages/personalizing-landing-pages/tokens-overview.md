@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2950799
-description: Présentation des jetons - Documents Marketo - Documentation du produit
+description: Présentation Des Jetons - Documents Marketo - Documentation Du Produit
 title: Présentation des jetons
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Présentation des jetons {#tokens-overview}
 
-Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne dynamique Marketo, les emails, les landing pages, les fragments de code et les campagnes web.
+Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne intelligente Marketo, les e-mails, les pages de destination, les fragments de code et les campagnes web.
 
-## Compréhension des valeurs par défaut {#understanding-default-values}
+## Comprendre les valeurs par défaut {#understanding-default-values}
 
-Lorsque vous utilisez un jeton, vous souhaitez également fournir une valeur par défaut. Il s’agit du texte qui indique si une personne n’a pas de valeur pour le champ que vous référencez.
+Lorsque vous utilisez un jeton, vous souhaitez également fournir une valeur par défaut. Il s’agit du texte qui indique si une personne ne dispose pas d’une valeur pour le champ que vous référencez.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quot;Salutations, tremblement de terre&quot; (valeur par défaut).
+Dans cet exemple, l’e-mail dira « Salutations, (prénom) » ou « Salutations, mise à la terre » (valeur par défaut).
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->Les jetons ne fonctionnent pas dans le pré-titre lors de l’utilisation de l’éditeur d’email Marketo. Pour utiliser un jeton dans le pré-titre, il doit se trouver via votre propre HTML dans un modèle d&#39;email.
+>Les jetons ne fonctionnent pas dans le pré-titre lors de l’utilisation de l’éditeur d’e-mail Marketo. Pour utiliser un jeton dans le pré-titre, il doit passer par votre propre HTML dans un modèle d’e-mail.
 
 >[!NOTE]
 >
->Cette liste n&#39;est pas exhaustive. Les jetons sont également créés pour chaque champ personnalisé que vous avez dans Marketo.
+>Cette liste n’est pas exhaustive. Des jetons sont également créés pour chaque champ personnalisé que vous avez dans Marketo.
 
 ## Jetons de personne {#person-tokens}
 
@@ -87,7 +87,7 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Les champs de personne personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple `{{lead.Custom Field Name}}`.
+* Les champs de personne personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple `{{lead.Custom Field Name}}`
 
 ## Jetons d’entreprise {#company-tokens}
 
@@ -110,7 +110,7 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Les champs d’entreprise personnalisés fonctionnent également si vous utilisez leur nom d’affichage ex. `{{Company.Custom Field Name}}`
+* Les champs de société personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple. `{{Company.Custom Field Name}}`
 
 ## Jetons de campagne {#campaign-tokens}
 
@@ -122,7 +122,7 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 
 >[!NOTE]
 >
->Pour en savoir plus sur ces jetons, consultez le [glossaire des jetons système](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Pour en savoir plus sur ces jetons, consultez le [Glossaire des jetons système](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 
 >[!NOTE]
 >
->Pour plus d’informations sur les [jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en fonction des déclencheurs utilisés dans une campagne dynamique, reportez-vous à la section
+>Obtenez plus d’informations sur les [jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en fonction des déclencheurs utilisés dans une campagne intelligente.
 
 ## Jetons de programme {#program-tokens}
 
@@ -157,16 +157,16 @@ Dans cet exemple, l’email indiquera &quot;Salutations, (prénom)&quot; ou &quo
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Mes jetons {#my-tokens}
+## [!UICONTROL Mes jetons] {#my-tokens}
 
-Les jetons Mes sont définis dans un programme et commencent par `{{my.` suivi du nom que vous avez créé pour le jeton. En savoir plus sur [Mes jetons dans un programme](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL Mes jetons] sont définis dans un programme et commencent par `{{my.` suivi du nom que vous avez créé pour le jeton. En savoir plus sur [ Mes jetons dans un programme ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Jeton de membre {#member-token}
 
-Les jetons de membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de membre sont couramment utilisés pour les URL uniques des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire qui peut être inséré à l’aide d’un jeton `{{member.webinar url}}`. Le jeton `{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services.
+Les jetons de membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de membre sont fréquemment utilisés pour les URL uniques des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire, qui peut être insérée à l’aide d’un jeton `{{member.webinar url}}`. Le jeton d’`{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur d’accès d’accès.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Le jeton `{{member.webinar url}}` ne sera renseigné que si la campagne dynamique qui envoie le courrier électronique est une ressource enfant du programme d’événements.
+>Le jeton `{{member.webinar url}}` n’est renseigné que si la campagne intelligente qui envoie l’e-mail est une ressource enfant du programme d’événement.

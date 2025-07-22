@@ -1,48 +1,48 @@
 ---
-description: Activation de CAPTCHA dans Marketo Forms - Documents Marketo - Documentation du produit
+description: Activer CAPTCHA dans Marketo Forms - Documentation du produit - Marketo Docs
 title: Activation de CAPTCHA dans Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Activation de CAPTCHA dans Marketo Forms {#enable-captcha-in-marketo-forms}
 
-Vous pouvez activer/désactiver CAPTCHA par formulaire.
+Vous pouvez activer/désactiver [!UICONTROL CAPTCHA] pour chaque formulaire.
 
-1. Recherchez et sélectionnez le formulaire souhaité.
+1. Recherchez et sélectionnez le formulaire de votre choix.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Cliquez sur **Modifier le brouillon** (si le formulaire est déjà approuvé, cliquez sur Créer le brouillon).
+1. Cliquez sur **[!UICONTROL Modifier le brouillon]** (si le formulaire est déjà approuvé, cliquez sur [!UICONTROL Créer un brouillon]).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Cliquez sur **Paramètres de formulaire**, puis sur **Paramètres**.
+1. Cliquez sur **[!UICONTROL Paramètres du formulaire]**, puis sur **[!UICONTROL Paramètres]**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. Ouvrez la liste déroulante CAPTCHA et sélectionnez **Activé**.
+1. Ouvrez le menu déroulant **[!UICONTROL CAPTCHA]** et sélectionnez **[!UICONTROL Activé]**.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
-La propagation des modifications de cette liste à partir de Google peut prendre quelques minutes.
+Les modifications apportées à cette liste peuvent prendre quelques minutes pour se propager à partir de Google.
 
 >[!NOTE]
 >
->Un texte normalisé, y compris des liens vers la Politique de confidentialité et les Conditions d’utilisation de Google, sera ajouté à vos formulaires compatibles avec CAPTCHA.
+>Du texte normalisé, y compris des liens vers la politique de confidentialité et les conditions d’utilisation de Google, sera ajouté à votre ou vos formulaires compatibles avec CAPTCHA.
 
 >[!MORELIKETHIS]
 >

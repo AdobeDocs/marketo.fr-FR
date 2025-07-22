@@ -1,9 +1,9 @@
 ---
-description: Expiration des ressources locales - Documents Marketo - Documentation du produit
+description: Expiration Des Ressources Locales - Documents Marketo - Documentation Du Produit
 title: Expiration des ressources locales
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Expiration des ressources locales {#local-asset-expiration}
 
-Définissez une date/heure d’expiration pour annuler la publication de landing pages, désactiver les campagnes de déclenchement ou arrêter les campagnes par lots récurrentes.
+Définissez une date/heure d’expiration pour dépublier des pages de destination, désactiver les campagnes de déclenchement ou arrêter les campagnes par lots récurrentes.
 
-## Octroi d’une autorisation d’expiration des ressources de planification {#grant-schedule-asset-expiration-permission}
+## Octroyer l’autorisation d’expiration des ressources de planification {#grant-schedule-asset-expiration-permission}
 
-Avant de pouvoir planifier l’expiration d’une ressource, l’autorisation appropriée doit être activée pour votre rôle Marketo.
+Avant de pouvoir planifier l’expiration d’une ressource, votre rôle Marketo doit disposer de l’autorisation appropriée activée.
 
 >[!NOTE]
 >
@@ -26,17 +26,17 @@ Avant de pouvoir planifier l’expiration d’une ressource, l’autorisation ap
 
    ![](assets/local-asset-expiration-1.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Rôles]** , sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
+1. Cliquez sur l’onglet **[!UICONTROL Rôles]**, sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès, puis cliquez sur **[!UICONTROL Modifier le rôle]**.
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Sous [!UICONTROL Accéder aux activités marketing], sélectionnez **[!UICONTROL Planifier l’expiration des ressources locales]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sous [!UICONTROL Accéder aux activités marketing], sélectionnez **[!UICONTROL Planifier l’expiration locale des ressources]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/local-asset-expiration-3.png)
 
 ## Définir une date d’expiration {#set-an-expiration-date}
 
-1. Cliquez avec le bouton droit sur le programme de votre choix et sélectionnez **[!UICONTROL Définir l’expiration des ressources locales]**.
+1. Faites un clic droit sur le programme souhaité et sélectionnez **[!UICONTROL Définir l’expiration de la ressource locale]**.
 
    ![](assets/local-asset-expiration-4.png)
 
@@ -48,26 +48,26 @@ Avant de pouvoir planifier l’expiration d’une ressource, l’autorisation ap
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Définissez une heure. Vous devez programmer une heure au moins 15 minutes à l’avenir (veillez à entrer le matin/l’après-midi). Cliquez sur **[!UICONTROL Confirmer]** une fois terminé.
+1. Définissez une heure. Vous devez planifier une heure au moins 15 minutes à l&#39;avenir (n&#39;oubliez pas d&#39;entrer AM/PM). Cliquez sur **[!UICONTROL Confirmer]** lorsque vous avez terminé.
 
    ![](assets/local-asset-expiration-7.png)
 
 >[!NOTE]
 >
->* Pour modifier une date d’expiration existante, vérifiez simplement la ou les ressources et cliquez sur **[!UICONTROL Définir l’expiration]**.
->* Une fois qu’une ressource a expiré, elle ne s’affiche plus sur la grille Expiration . La grille affiche uniquement les landing pages publiées, les campagnes de déclenchement actives et les campagnes par lots récurrentes.
+>* Pour modifier une date d’expiration existante, vérifiez simplement la ou les ressources, puis cliquez sur **[!UICONTROL Définir l’expiration]**.
+>* Une fois qu’une ressource a expiré, elle ne s’affiche plus dans la grille d’expiration. La grille affiche uniquement les pages de destination publiées, les campagnes de déclenchement actives et les campagnes par lots récurrentes.
 >* Les expirations planifiées seront supprimées si la ressource est déplacée vers un autre programme.
 
 ## Supprimer une date d’expiration {#remove-an-expiration-date}
 
-1. Pour supprimer une date d’expiration, vérifiez la ou les ressources et cliquez sur **[!UICONTROL Supprimer l’expiration]**.
+1. Pour supprimer une date d’expiration, vérifiez la ou les ressources, puis cliquez sur **[!UICONTROL Supprimer l’expiration]**.
 
    ![](assets/local-asset-expiration-8.png)
 
-1. Passez en revue les ressources affectées, puis cliquez sur **[!UICONTROL Confirmer]**.
+1. Vérifiez les ressources affectées, puis cliquez sur **[!UICONTROL Confirmer]**.
 
    ![](assets/local-asset-expiration-9.png)
 
 >[!NOTE]
 >
->Les dates d’expiration inférieures à 15 minutes ne peuvent pas être supprimées. Pour &quot;supprimer&quot; l’expiration, vous devez attendre que la ressource arrive à expiration, puis la réapprouver ou la réactiver.
+>Les dates d’expiration postérieures à 15 minutes ne peuvent pas être supprimées. Pour « supprimer » l’expiration, vous devez attendre qu’elle arrive à expiration, puis la réapprouver ou la réactiver.

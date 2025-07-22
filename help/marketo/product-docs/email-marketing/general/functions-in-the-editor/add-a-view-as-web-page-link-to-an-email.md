@@ -1,42 +1,42 @@
 ---
 unique-page-id: 1900560
-description: Ajout d’une vue comme lien de page web à un courrier électronique - Documents Marketo - Documentation du produit
-title: Ajout d’une vue comme lien de page web à un courrier électronique
+description: Ajouter un lien Afficher en tant que page web à un e-mail - Documents Marketo - Documentation du produit
+title: Ajouter un lien Afficher en tant que page web à un e-mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Ajout d’une vue comme lien de page web à un courrier électronique {#add-a-view-as-web-page-link-to-an-email}
+# Ajouter un lien Afficher en tant que page web à un e-mail {#add-a-view-as-web-page-link-to-an-email}
 
-Les emails ont des fonctionnalités limitées (CSS limité et pas de JavaScript ni de formulaires). Utilisez l’option Afficher comme page web pour fournir un lien permettant d’afficher votre message électronique dans un navigateur. Le destinataire sera alors cookie à l&#39;aide du Munchkin.
+Les fonctionnalités des e-mails sont limitées (CSS limité et pas de JavaScript ni de formulaires). Utilisez Afficher en tant que page web pour fournir un lien afin d’afficher votre e-mail dans un navigateur. Le destinataire utilise alors le cookie [!DNL Munchkin].
 
 >[!NOTE]
 >
->Lors de la création d’un email, l’option Afficher comme page web n’est pas activée. Si vous l’activez et cloner l’email, ce paramètre sera copié.
+>Lors de la création d’un e-mail, Afficher en tant que page web n’est pas activé. Si vous l’activez et clonez l’e-mail, ce paramètre sera copié.
 
-1. Sélectionnez votre adresse électronique et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre e-mail et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/one-5.png)
 
-1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
+1. Dans l’éditeur d’e-mail, cliquez sur **[!UICONTROL Paramètres de messagerie]**.
 
    ![](assets/two-5.png)
 
-1. Cochez la case **Inclure la vue comme page web** et cliquez sur **Enregistrer**.
+1. Cochez la case **[!UICONTROL Inclure Afficher en tant que lien de page web]** et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/three-4.png)
 
-Voici un exemple de son aspect :
+Voici un exemple de son apparence :
 
 ![](assets/four-3.png)
 
 >[!TIP]
 >
->Le lien Afficher comme page Web ne s’affiche pas tant que vous n’avez pas envoyé le courrier électronique. Envoyez-vous un test à afficher.
+>Le lien Afficher en tant que page web n’apparaît que lorsque vous avez envoyé l’e-mail. Envoyez-vous un test à afficher.
 
-Pour modifier le texte par défaut, voir [Modification du message &quot;Afficher comme page web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Pour modifier le texte par défaut, voir [Modifier le message Afficher en tant que page web »](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

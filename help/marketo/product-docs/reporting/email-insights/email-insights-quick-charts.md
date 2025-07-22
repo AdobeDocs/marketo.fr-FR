@@ -1,25 +1,25 @@
 ---
 unique-page-id: 10099415
-description: Graphiques rapides de statistiques sur les emails - Documents Marketo - Documentation du produit
-title: Graphiques rapides des statistiques sur les emails
+description: Graphiques Rapides D’Informations Sur Les E-Mails - Documents Marketo - Documentation Du Produit
+title: Graphiques rapides d’informations sur les e-mails
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
-# Graphiques rapides des statistiques sur les emails {#email-insights-quick-charts}
+# Graphiques rapides d’informations sur les e-mails {#email-insights-quick-charts}
 
-Les tableaux rapides sont des miniatures que vous personnalisez et enregistrez, ce qui vous permet d’afficher rapidement les graphiques que vous utilisez le plus souvent.
+Les graphiques rapides sont des miniatures que vous personnalisez et enregistrez pour obtenir un aperçu rapide des graphiques que vous utilisez le plus.
 
-## Création d’un graphique rapide {#create-a-new-quick-chart}
+## Créer un graphique rapide {#create-a-new-quick-chart}
 
-Dans cet exemple, nous allons choisir le taux d’ouverture pour les trois premières semaines de février 2016, dans les états de Californie et de Floride.
+Dans cet exemple, nous choisirons un taux d’ouverture pour les trois premières semaines de février 2016 dans les États de Californie et de Floride.
 
-1. Cliquez sur le filtre de date à droite de l’écran Analytics.
+1. Cliquez sur le filtre de date à droite de l’écran [!UICONTROL Analytics].
 
    ![](assets/one-1.png)
 
@@ -27,29 +27,29 @@ Dans cet exemple, nous allons choisir le taux d’ouverture pour les trois premi
 
    ![](assets/two-2.png)
 
-1. Lorsque la période est sélectionnée, cliquez sur **Appliquer**.
+1. Lorsque votre période est sélectionnée, cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/three-2.png)
 
-1. Le graphique change une fois vos dates appliquées.
+1. Le graphique change après l’application des dates.
 
    ![](assets/four.png)
 
-1. Cliquez sur la première liste déroulante. Cliquez sur pour sélectionner vos critères (s’ils ne sont pas déjà sélectionnés) et désélectionnez les critères indésirables.
+1. Cliquez sur la première liste déroulante. Cliquez pour sélectionner vos critères (s’ils ne sont pas déjà sélectionnés) et désélectionnez tous les critères indésirables.
 
    ![](assets/5.png)
 
-1. Sur le côté droit du graphique, cliquez sur l’icône d’exportation et sélectionnez **Enregistrer comme graphique rapide**.
+1. Sur le côté droit du graphique, cliquez sur l’icône d’exportation et sélectionnez **[!UICONTROL Enregistrer en tant que graphique rapide]**.
 
    ![](assets/six.png)
 
-1. Nommez votre graphique rapide et cliquez sur **Enregistrer**.
+1. Nommez votre graphique rapide et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Vous pouvez avoir jusqu’à 20 tableaux rapides. Ils peuvent être supprimés et remplacés.
+   >Vous pouvez avoir jusqu&#39;à 20 graphiques rapides. Ils peuvent être supprimés et remplacés.
 
 1. Votre nouveau graphique rapide apparaîtra avec les autres.
 
@@ -61,20 +61,20 @@ Dans cet exemple, nous allons choisir le taux d’ouverture pour les trois premi
    >
    >Pour déplacer un graphique rapide, il vous suffit de cliquer dessus et de le faire glisser à l’emplacement souhaité.
 
-## Suppression d’un graphique rapide {#delete-a-quick-chart}
+## Supprimer un graphique rapide {#delete-a-quick-chart}
 
-Vous souhaitez supprimer l’un de vos graphiques rapides ? C&#39;est facile !
+Vous souhaitez supprimer l&#39;un de vos graphiques rapides ? C&#39;est facile !
 
-1. Cliquez sur l’icône **Graphiques rapides** .
+1. Cliquez sur l’icône **[!UICONTROL Graphiques rapides]**.
 
    ![](assets/nine.png)
 
-1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Lorsque vous survolez, un X s’affiche. Cliquez sur le **X**.
+1. Pointez sur le graphique souhaité, mais ne cliquez pas dessus. Au survol, un X s’affiche. Cliquez sur le **X**.
 
    ![](assets/ten.png)
 
-1. Cliquez sur **Ok**.
+1. Cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/eleven.png)
 
-   Votre graphique rapide est maintenant supprimé. Je vous ai dit que c&#39;était facile.
+   Votre graphique rapide est maintenant supprimé. Je t&#39;ai dit que c&#39;était facile.

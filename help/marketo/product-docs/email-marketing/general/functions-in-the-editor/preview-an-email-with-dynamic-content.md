@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1900548
-description: Prévisualisation d’un courrier électronique avec du contenu dynamique - Documents Marketo - Documentation du produit
-title: Prévisualisation d’un email avec du contenu dynamique
+description: Prévisualiser un e-mail avec du contenu dynamique - Documents Marketo - Documentation du produit
+title: Prévisualiser un e-mail avec du contenu dynamique
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Prévisualisation d’un email avec du contenu dynamique {#preview-an-email-with-dynamic-content}
+# Prévisualiser un e-mail avec du contenu dynamique {#preview-an-email-with-dynamic-content}
 
-Prévisualisez votre email après l&#39;ajout de contenu dynamique afin de le vérifier.
+Prévisualisez votre e-mail après l’ajout de contenu dynamique afin de le vérifier.
 
-1. Sélectionnez votre email et cliquez sur **Preview Email**.
+1. Sélectionnez votre e-mail et cliquez sur **[!UICONTROL Prévisualiser l’e-mail]**.
 
    ![](assets/one-3.png)
 
-1. Cliquez sur la liste déroulante Afficher par et sélectionnez le type de contenu dynamique à prévisualiser.
+1. Cliquez sur le menu déroulant **[!UICONTROL Afficher par]** et sélectionnez le type de contenu dynamique à prévisualiser.
 
    ![](assets/two-3.png)
 
-1. Une nouvelle liste déroulante s’affiche. Cliquez dessus et choisissez le contenu spécifique.
+1. Une nouvelle liste déroulante s’affiche. Cliquez dessus et sélectionnez le contenu spécifique.
 
    ![](assets/three-2.png)
 
@@ -31,9 +31,9 @@ Prévisualisez votre email après l&#39;ajout de contenu dynamique afin de le v�
 
    ![](assets/four-1.png)
 
-Vous pouvez également prévisualiser le contenu dynamique directement dans l&#39;éditeur d&#39;email.
+Vous pouvez également prévisualiser le contenu dynamique directement dans l’éditeur d’e-mail.
 
-1. Sous **Contenu**, cliquez sur l’onglet **Dynamique** .
+1. Sous **[!UICONTROL Contenu]**, cliquez sur l’onglet **[!UICONTROL Dynamique]**.
 
    ![](assets/five-1.png)
 
@@ -41,4 +41,4 @@ Vous pouvez également prévisualiser le contenu dynamique directement dans l&#3
 
    ![](assets/six.png)
 
-Fantastique ! Prévisualisez vos emails afin de vous assurer que le contenu correspond à ce que vous souhaitez.
+Fantastique ! Prévisualisez vos e-mails pour vous assurer que le contenu est celui que vous souhaitez.

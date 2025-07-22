@@ -1,51 +1,51 @@
 ---
-description: Pourquoi mes champs dynamiques ne se remplissent-ils pas ? - Documents Marketo - Documentation du produit
-title: Pourquoi mes champs dynamiques ne se remplissent-ils pas ?
+description: Pourquoi mes champs dynamiques ne sont-ils pas remplis ? - Documents Marketo - Documentation Du Produit
+title: Pourquoi mes champs dynamiques ne sont-ils pas remplis ?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# Pourquoi mes champs dynamiques ne se remplissent-ils pas ? {#why-arent-my-dynamic-fields-filling-out}
+# Pourquoi mes champs dynamiques ne sont-ils pas remplis ? {#why-arent-my-dynamic-fields-filling-out}
 
-Les champs dynamiques ne fonctionnent que lorsque vous utilisez un modèle. Les emails ponctuels que vous écrivez ne seront pas remplis.
+Les champs dynamiques ne fonctionnent que lorsque vous utilisez un modèle. Les e-mails individuels que vous écrivez ne les rempliront pas.
 
-## Eléments à vérifier {#what-to-check}
+## Éléments à vérifier {#what-to-check}
 
-Il existe trois types de champs dynamiques dans les actions d’aperçu des ventes : de base, personnalisé et Salesforce. De base et personnalisés cherchent tous deux à extraire des informations de l&#39;[application web](https://toutapp.com/login){target="_blank"}. Si les informations n&#39;existent pas dans l&#39;application web, les champs seront vides. Les champs Salesforce extraient des informations de [Salesforce.com](https://salesforce.com){target="_blank"}.
+Il existe trois types de champs dynamiques dans les actions de Sales Insight : De base, Personnalisé et Salesforce. De base et personnalisé cherchent tous deux à extraire des informations de l’[application web](https://toutapp.com/login){target="_blank"}. Si l&#39;information n&#39;existe pas dans l&#39;application web, les champs seront vides. Les champs Salesforce extraient des informations de [Salesforce.com](https://salesforce.com){target="_blank"}.
 
-**Dépannage des champs Salesforce**
+**Résolution des problèmes liés [!DNL Salesforce] champs**
 
-Champs Salesforce : par exemple `{{sfdc_account_name}}`
+Champs [!DNL Salesforce] : par exemple, `{{sfdc_account_name}}`
 
-* Assurez-vous qu’il est correctement connecté aux actions d’aperçu des ventes. Accédez à la page [Paramètres] (https://toutapp.com/login{target="_blank"} et cliquez sur **Gérer** en regard de votre CRM.
+* Assurez-vous qu’il est correctement connecté aux actions Sales Insight. Accédez à la page [Paramètres]&#x200B;(https://toutapp.com/login{target="_blank"} et cliquez sur **Gérer** en regard de votre CRM.
 
-**Dépannage des champs de base et personnalisés**
+**Résolution des problèmes liés aux champs de base et personnalisés**
 
-Actions Marketo Sales Insight Champs de base : par exemple, `{{company}}`
+Marketo Sales Insight Actions Basic Fields : par exemple, `{{company}}`
 
-Actions Marketo Sales Insight Champs personnalisés : par exemple, `{{custom_field_favorite_movie}}`
+Champs personnalisés des actions Marketo Sales Insight : par exemple, `{{custom_field_favorite_movie}}`
 
-* Le champ correspondant doit être enregistré pour votre contact dans la [page Personnes](https://toutapp.com/next#relationships){target="_blank"} pour que notre champ dynamique soit référencé. Par exemple, si vous envoyez un courrier électronique à Mary et que vous utilisez le champ `{{company}}`, mais que son enregistrement de contact ne répertorie pas d’entreprise, nous ne pourrons pas remplir ce champ.
+* Le champ correspondant doit être enregistré pour votre contact dans la [page Personnes](https://toutapp.com/next#relationships){target="_blank"} pour que notre champ dynamique puisse s’y référer. Par exemple, si vous envoyez un e-mail à Marie et que vous utilisez le champ `{{company}}`, mais que son enregistrement de contact ne répertorie pas une entreprise, nous ne serons pas en mesure de le remplir.
 
-## Pourquoi Mon Email A-T-Il Été Envoyé Sans Renseigner Tous Les Champs Dynamiques ? {#why-did-my-email-send-without-populating-all-dynamic-fields}
+## Pourquoi Mon E-Mail A-T-Il Été Envoyé Sans Remplir Tous Les Champs Dynamiques ? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Les actions d’aperçu des ventes empêcheront l’envoi de vos emails si nous ne pouvons pas renseigner tous vos champs dynamiques dans le message électronique. **Cependant**, cette règle comporte quelques exceptions. Certains champs sont renvoyés vides ou renseignent automatiquement une valeur si nous pouvons en trouver une. Ces champs et leur réaction s’ils ne peuvent pas les remplir sont répertoriés ci-dessous.
+[!DNL Sales Insight Actions] empêchera l’envoi de vos e-mails si nous ne pouvons pas remplir tous vos champs dynamiques dans l’e-mail. **Cependant** il existe quelques exceptions à cette règle. Certains champs envoient des champs vides ou renseignent automatiquement une valeur si nous en trouvons une. Ces champs et la manière dont ils réagiront s’ils ne peuvent pas les remplir sont répertoriés ci-dessous.
 
-`{{first_name}}` = BLANC
+`{{first_name}}` = VIDE
 
-`{{last_name}}` =BLANC
+`{{last_name}}` =VIDE
 
-`{{title}}` = BLANC
+`{{title}}` = VIDE
 
-`{{company}}` = &quot;votre société&quot;
+`{{company}}` = « votre entreprise »
 
-`{{friendly_company}}` = &quot;votre société&quot;
+`{{friendly_company}}` = « votre entreprise »
 
 >[!NOTE]
 >
->Le champ `{{first_name}}` recherche des actions Sales Insight et Salesforce pour tenter d’extraire des informations. Tous les autres champs de cette liste ne sont affichés que dans les actions de statistiques sur les ventes pour renseigner le champ.
+>Le champ `{{first_name}}` s’affiche dans [!DNL Sales Insight Actions] et [!DNL Salesforce] pour tenter d’extraire des informations. Tous les autres champs de cette liste ne recherchent que des [!DNL Sales Insight Actions] pour les remplir.

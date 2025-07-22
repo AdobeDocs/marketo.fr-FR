@@ -4,7 +4,7 @@ description: Ajout  [!DNL Munchkin]  code de suivi à votre site web - Documents
 title: Ajout  [!DNL Munchkin]  code de suivi à votre site web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé [!DNL Munchkin], p
 
    >[!TIP]
    >
-   >Pour les sites qui enregistrent un volume de trafic élevé (c’est-à-dire des centaines de milliers de visites par mois), nous vous recommandons de ne pas effectuer le suivi des personnes anonymes. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Pour les sites qui enregistrent un volume de trafic élevé (c’est-à-dire des centaines de milliers de visites par mois), nous vous recommandons de ne pas effectuer le suivi des personnes anonymes. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Ajout Du Code De Suivi Lors De L’Utilisation De Plusieurs Espaces De Travail {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -141,4 +141,4 @@ Pour vérifier que votre code [!DNL Munchkin] fonctionne après l’avoir ajout�
 
    >[!NOTE]
    >
-   >Si vous ne voyez aucune donnée, patientez quelques minutes, puis cliquez sur l’icône d’actualisation en bas.
+   >Si vous ne voyez aucune donnée, patientez quelques minutes, puis cliquez sur l’icône [!UICONTROL actualiser] en bas.

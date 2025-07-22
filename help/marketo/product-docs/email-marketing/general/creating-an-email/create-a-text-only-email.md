@@ -1,69 +1,69 @@
 ---
 unique-page-id: 1900556
-description: Création d’un message électronique texte uniquement - Documents Marketo - Documentation du produit
-title: Création d’un message électronique Texte uniquement
+description: Créer un e-mail texte uniquement - Documents Marketo - Documentation du produit
+title: Créer un e-mail texte uniquement
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# Création d’un message électronique Texte uniquement {#create-a-text-only-email}
+# Créer un e-mail texte uniquement {#create-a-text-only-email}
 
-Si vous souhaitez envoyer des emails en texte uniquement, voici comment créer un email qui sortira sans contenu HTML.
+Si vous souhaitez envoyer uniquement des e-mails textuels, voici comment créer un e-mail qui sera envoyé sans contenu HTML.
 
 >[!NOTE]
 >
->Comme les ouvertures sont suivies par le destinataire qui télécharge les images de l&#39;email (qui inclut un pixel de suivi invisible), les ouvertures sont **not** pouvant être suivies pour les emails Texte uniquement.
+>Comme les ouvertures sont suivies par le destinataire téléchargeant les images de l’e-mail (qui incluent un pixel de suivi invisible), les ouvertures ne peuvent **pas** être suivies pour les e-mails au format texte uniquement.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/one-1.png)
 
-1. Sélectionnez votre programme, cliquez sur la liste déroulante **Nouveau** et sélectionnez **Nouvelle ressource locale**.
+1. Sélectionnez votre programme, cliquez sur le menu déroulant **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/two-1.png)
 
-1. Sélectionnez **Email**.
+1. Sélectionnez **[!UICONTROL E-mail]**.
 
    ![](assets/three-1.png)
 
-1. Saisissez un **Nom**, sélectionnez un modèle et cliquez sur **Créer**.
+1. Saisissez un **[!UICONTROL Nom]**, sélectionnez un modèle et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/four-1.png)
 
-1. Dans l’éditeur de courrier électronique, cliquez sur **Paramètres de courrier électronique**.
+1. Dans l’éditeur d’e-mail, cliquez sur **[!UICONTROL Paramètres de messagerie]**.
 
    ![](assets/five.png)
 
-1. Cochez **Texte uniquement** et cliquez sur **Enregistrer**.
+1. Cochez **[!UICONTROL Texte uniquement]** puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Les liens ne sont pas automatiquement suivis dans les emails au format texte uniquement. Découvrez comment [Ajouter des liens trackés à un email de texte](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Les liens ne sont pas automatiquement suivis dans les e-mails texte uniquement. Consultez la section Comment [Ajouter des liens suivis à un e-mail texte](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
-   >Vous pouvez également modifier un email existant et modifier ce paramètre. N&#39;oubliez pas d&#39;approuver le brouillon.
+   >Vous pouvez également modifier un e-mail existant et modifier ce paramètre. N&#39;oubliez pas d&#39;approuver le brouillon.
 
-1. Décochez la case **Copier automatiquement depuis l’HTML** .
+1. Décochez la case **[!UICONTROL Copier automatiquement à partir d’HTML]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Tout contenu ajouté à la section HTML de l’email sera ignoré lors de son envoi.
+   >Tout contenu ajouté à la section HTML de l’e-mail sera ignoré lors de son envoi.
 
 1. Double-cliquez sur la zone de texte.
 
    ![](assets/eight.png)
 
-1. Modifiez votre texte et cliquez sur **Enregistrer**.
+1. Modifiez votre texte et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/nine.png)
 

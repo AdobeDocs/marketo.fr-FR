@@ -4,10 +4,10 @@ description: Approbation d’un fragment de code - Documents Marketo - Documenta
 title: Approbation d’un fragment de code
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Un fragment de code doit être approuvé avant utilisation.
 
-1. Accédez à **Design Studio**.
+1. Accédez au **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Cliquez sur votre **extrait de code**. Sous **Actions de fragment de code**, cliquez sur **Approuver**.
+1. Cliquez sur votre **fragment de code**. Sous **[!UICONTROL Actions relatives aux fragments de code]**, cliquez sur **[!UICONTROL Approuver]**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-C&#39;est tout ! L’état de votre extrait de code passe de Brouillon à Approuvé.
+Vous avez terminé. Le statut de votre fragment de code passe de Brouillon à Approuvé .
 
 >[!MORELIKETHIS]
 >

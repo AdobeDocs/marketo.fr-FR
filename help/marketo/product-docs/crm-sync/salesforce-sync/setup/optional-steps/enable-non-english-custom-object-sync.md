@@ -1,27 +1,27 @@
 ---
 unique-page-id: 4719302
-description: Activer la synchronisation d’objets personnalisés non anglais - Documents Marketo - Documentation du produit
-title: Activer la synchronisation d’objets personnalisés non anglais
+description: Activer La Synchronisation D’Objets Personnalisés Non Anglais - Documents Marketo - Documentation Du Produit
+title: Activer la synchronisation d'objets personnalisés non anglais
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 1%
+source-wordcount: '155'
+ht-degree: 2%
 
 ---
 
-# Activer la synchronisation d’objets personnalisés non anglais {#enable-non-english-custom-object-sync}
+# Activer la synchronisation d&#39;objets personnalisés non anglais {#enable-non-english-custom-object-sync}
 
-Si votre utilisateur de synchronisation Marketo est défini sur une autre langue que l’anglais, une erreur peut se produire lors de l’activation d’une synchronisation d’objet personnalisée.
+Si votre utilisateur de synchronisation Marketo est défini sur une langue autre que l’anglais, une erreur peut se produire lors de l’activation d’une synchronisation d’objet personnalisée.
 
 ## L’erreur {#the-error}
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Comment le contourner {#getting-around-it}
+## Contournement {#getting-around-it}
 
-1. Connectez-vous à [!DNL Salesforce] à l’aide de l’utilisateur de synchronisation Marketo.
+1. Connectez-vous à [!DNL Salesforce] à l’aide de l’utilisateur de synchronisation marketo.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -29,7 +29,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une autre langue
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Sous **[!UICONTROL Personal Information]**, cliquez sur **[!UICONTROL My Personal Information]**.
+1. Sous **[!UICONTROL Informations personnelles]**, cliquez sur **[!UICONTROL Mes informations personnelles]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -37,7 +37,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une autre langue
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Remplacez la **[!UICONTROL langue]** par **[!UICONTROL anglais]**.
+1. Remplacez **[!UICONTROL Langue]** par **[!UICONTROL Anglais]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -49,15 +49,15 @@ Si votre utilisateur de synchronisation Marketo est défini sur une autre langue
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Cette opération extrait la liste des objets en anglais. Sélectionnez maintenant l’objet de votre choix et cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. La liste d’objets sera alors extraite en anglais. Sélectionnez maintenant l’objet de votre choix et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. Notez que votre objet personnalisé est maintenant activé et synchronisé.
+1. Notez que votre objet personnalisé est maintenant activé et en cours de synchronisation.
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Revenez maintenant à Salesforce et utilisez les étapes ci-dessus pour redéfinir l’utilisateur de synchronisation dans la langue de votre choix.
+1. Revenez maintenant à [!DNL Salesforce] et suivez les étapes ci-dessus pour rétablir la langue de votre choix pour l’utilisateur de la synchronisation.
 
 >[!NOTE]
 >

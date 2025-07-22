@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359659
-description: Ajout de contenu à un flux - Documents Marketo - Documentation du produit
-title: Ajout de contenu à un flux
+description: Ajouter du contenu à un flux - Documents Marketo - Documentation du produit
+title: Ajouter du contenu à un flux
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
 
 ---
 
-# Ajout de contenu à un flux {#add-content-to-a-stream}
+# Ajouter du contenu à un flux {#add-content-to-a-stream}
 
-Une fois que vous avez créé votre programme d’engagement, vous devez ajouter du contenu aux flux. Vous pouvez ajouter des emails ou des programmes à un flux.
+Une fois que vous avez créé votre programme d’engagement, vous devez ajouter du contenu aux flux. Vous pouvez ajouter des e-mails ou des programmes à un flux.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Flux** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **[!UICONTROL Flux]**.
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -27,30 +27,30 @@ Une fois que vous avez créé votre programme d’engagement, vous devez ajouter
 
 **Bouton Ajouter du contenu**
 
-1. Cliquez sur le bouton **Ajouter du contenu** .
+1. Cliquez sur le bouton **[!UICONTROL Ajouter du contenu]**.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Sélectionnez **Email** _ou_ **Program**, puis sélectionnez l’adresse électronique ou le programme/la campagne dynamique à ajouter.
+1. Choisissez **[!UICONTROL E-mail]** _ou_ **[!UICONTROL Programme]**, puis sélectionnez l’e-mail ou le programme/la campagne intelligente que vous souhaitez ajouter.
 
    ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
-   >Les emails locaux à ce programme d’engagement seront triés en haut.
+   >Les e-mails locaux à ce programme d’engagement seront triés par-dessus.
 
-**+ Icône**
+Icône **+**
 
-1. Cliquez sur l’icône **+**, choisissez **Email** _ou_ **Programme**, puis sélectionnez l’adresse électronique ou le programme/la campagne dynamique à ajouter.
+1. Cliquez sur l’icône **+**, choisissez **[!UICONTROL E-mail]** _ou_ **[!UICONTROL Programme]**, puis sélectionnez l’e-mail ou le programme/la campagne intelligente que vous souhaitez ajouter.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Une campagne dynamique doit contenir le filtre **Programme membre de l’engagement** pour qu’elle fonctionne correctement.
+   >Une campagne intelligente doit contenir le filtre **[!UICONTROL Membre du programme d’engagement]** pour qu’elle fonctionne correctement.
 
-Très bon travail ! Vous savez maintenant comment ajouter du contenu à vos diffusions de programme. Ajoutez autant que nécessaire à votre culture. Pour plus d’informations, reportez-vous à l’article correspondant ci-dessous.
+Très bon travail ! Vous savez maintenant comment ajouter du contenu à vos flux de programme. Ajoutez-en autant que nécessaire pour votre éducation. Consultez l’article connexe ci-dessous pour plus d’informations.
 
 >[!MORELIKETHIS]
 >
->[Ajout d’un programme à un flux de programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[Ajout d’un programme à un flux de programmes d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

@@ -1,31 +1,31 @@
 ---
-description: Envoyer un segment Adobe Experience Platform vers une liste statique Marketo - Documents Marketo - Documentation du produit
-title: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo
+description: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo - Documents Marketo - Documentation du produit
+title: Intégrer un segment Adobe Experience Platform à une liste statique Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
 
 ---
 
-# Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
+# Intégrer un segment Adobe Experience Platform à une liste statique Marketo {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-Cette fonctionnalité vous permet de transférer les segments situés dans votre Adobe Experience Platform vers Marketo Engage sous la forme d’une liste statique.
+Cette fonctionnalité vous permet d’envoyer les segments situés dans votre Adobe Experience Platform vers Marketo Engage sous la forme d’une liste statique.
 
 >[!PREREQUISITES]
 >
->* [Modifiez le rôle de l’API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} pour vous assurer qu’il dispose de l’autorisation **Lecture-Écriture de la personne** (disponible dans la liste déroulante API d’accès).
->* [Création d’un utilisateur API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} dans Marketo.
+>* [Modifiez le rôle d’API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} pour vous assurer qu’il dispose de l’autorisation **Personne en lecture-écriture** (qui se trouve sous la liste déroulante API Access).
+>* [Création d’un utilisateur d’API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} dans Marketo.
 >* Accédez à **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Recherchez le nom du rôle que vous venez de créer et cliquez sur **[!UICONTROL Afficher les détails]**. Copiez et enregistrez les informations dans **[!UICONTROL ID client]** et **[!UICONTROL Secret client]**, car vous pourriez en avoir besoin pour l’étape 7.
->* Dans Marketo, créez une liste statique ou recherchez et sélectionnez-en une que vous avez déjà créée. Vous aurez besoin de son identifiant.
+>* Dans Marketo, créez une liste statique, ou recherchez et sélectionnez-en une que vous avez déjà créée. Vous aurez besoin de son identifiant.
 
 1. Connectez-vous à [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
-1. Cliquez sur l&#39;icône de grille et sélectionnez **[!UICONTROL Experience Platform]**.
+1. Cliquez sur l’icône de grille et sélectionnez **[!UICONTROL Experience Platform]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
@@ -33,11 +33,11 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
-1. Cliquez sur **[!UICONTROL Catalog]**.
+1. Cliquez sur **[!UICONTROL Catalogue]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Recherchez la mosaïque du Marketo Engage et cliquez sur **[!UICONTROL Activer]**.
+1. Recherchez la mosaïque Marketo Engage et cliquez sur **[!UICONTROL Activer]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -52,39 +52,39 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    >[!NOTE]
    >
-   >Si vous choisissez Nouveau compte, vous pouvez trouver votre Munchkin ID en accédant à **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (il fait également partie de votre URL Marketo une fois connecté). Identifiant du client/secret que vous devez posséder en suivant les conditions préalables dans la partie supérieure de cet article.
+   >Si vous choisissez Nouveau compte, vous pouvez rechercher votre Munchkin ID en accédant à **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (il fait également partie de votre URL Marketo une fois connecté). L’ID client/le secret doit être défini à partir des conditions préalables mentionnées en haut de cet article.
 
-1. Sélectionnez le compte de destination et cliquez sur **[!UICONTROL Sélectionner]**.
+1. Choisissez le compte de destination et cliquez sur **[!UICONTROL Sélectionner]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Saisissez une destination **[!UICONTROL Nom]** et une description facultative. Cliquez sur la liste déroulante Création de personne et sélectionnez &quot;Faire correspondre les personnes Marketo existantes et créer les personnes manquantes dans Marketo&quot; _ou_ &quot;Faire correspondre les personnes Marketo existantes uniquement&quot; (dans cet exemple, nous choisissons la première). Vous devez également choisir un **[!UICONTROL Workspace]**.
+1. Saisissez un **[!UICONTROL Nom]** de destination et une description facultative. Cliquez sur le menu déroulant Création de personne et sélectionnez « Faire correspondre les personnes Marketo existantes et Créer les personnes manquantes dans Marketo » _ou_ « Faire correspondre les personnes Marketo existantes uniquement » (dans cet exemple, nous choisissons la première). Vous devez également choisir un **[!UICONTROL Workspace]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez &quot;Correspondance avec les personnes Marketo existantes uniquement&quot;, vous n’aurez qu’à mapper l’e-mail et/ou l’ECID, afin que vous puissiez ignorer les étapes 13 à 16.
+   >Si vous choisissez « [!UICONTROL Correspondre uniquement aux personnes Marketo existantes] », il vous suffira de mapper l’e-mail et/ou l’ECID, de sorte que vous pouvez ignorer les étapes 13 à 16.
 
-1. Cette section est facultative. Cliquez sur **[!UICONTROL Créer]** pour ignorer.
+1. Cette section est facultative. Cliquez sur **[!UICONTROL Créer]** pour l’ignorer.
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
-1. Sélectionnez la destination que vous avez créée et cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez la destination créée et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-11.png)
 
-1. Sélectionnez le segment que vous souhaitez envoyer à Marketo et cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez le segment à envoyer à Marketo et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez plusieurs segments, vous devrez associer chaque segment à une liste statique spécifiée dans l’onglet Planification des segments .
+   >Si vous choisissez plusieurs segments, vous devez mapper chaque segment à une liste statique spécifiée dans l’onglet [!UICONTROL Planification des segments].
 
    >[!IMPORTANT]
    >
-   >Une fois qu’un segment a été activé pour la première fois sur la destination Marketo, le renvoi des profils qui existaient déjà dans le segment avant l’activation de la destination Marketo peut prendre _jusqu’à 24 heures_. Dorénavant, chaque fois que des profils sont ajoutés au segment, ils le sont immédiatement dans Marketo.
+   >Après la première activation d’un segment vers la destination Marketo, le remplissage des profils qui existaient déjà dans le segment avant l’activation de la destination Marketo peut prendre jusqu’_à 24 heures_. À l’avenir, chaque fois que des profils seront ajoutés au segment, ils seront immédiatement ajoutés à Marketo.
 
 1. Cliquez sur **[!UICONTROL Ajouter un nouveau mappage]**.
 
@@ -94,19 +94,19 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Sélectionnez le ou les attributs souhaités et cliquez sur **[!UICONTROL Sélectionner]**. Dans cet exemple, nous choisissons le prénom, le nom et l’adresse électronique.
+1. Sélectionnez le ou les attributs souhaités, puis cliquez sur **[!UICONTROL Sélectionner]**. Dans cet exemple, nous choisissons le prénom, le nom et l’adresse e-mail.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
    >[!NOTE]
    >
-   >Vous pouvez mapper des attributs d’Experience Platform à n’importe lequel des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête de description d’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
+   >Vous pouvez mapper des attributs d’Experience Platform à l’un des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête d’API Describe](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
 
-1. Faites correspondre le nom de famille et le nom de la société en cliquant de nouveau sur **[!UICONTROL Ajouter un nouveau mappage]** et en répétant l’étape 15 deux fois, en choisissant **[!UICONTROL lastName]**, puis **[!UICONTROL companyName]**.
+1. Mappez le nom et le nom de la société en cliquant de nouveau sur **[!UICONTROL Ajouter un nouveau mappage]** et en répétant deux fois l’étape 15, en choisissant **[!UICONTROL nom]** puis **[!UICONTROL nomSociété]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-1. Il est maintenant temps de mapper l&#39;adresse email. Cliquez de nouveau sur **[!UICONTROL Ajouter un nouveau mappage]** .
+1. Il est maintenant temps de mapper l’adresse e-mail. Cliquez de nouveau sur **[!UICONTROL Ajouter un nouveau mappage]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
@@ -114,31 +114,31 @@ Cette fonctionnalité vous permet de transférer les segments situés dans votre
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. Cliquez sur le bouton radio Sélectionner un espace de noms d’identité , choisissez **[!UICONTROL Email]**, puis cliquez sur **[!UICONTROL Sélectionner]**.
+1. Cliquez sur le bouton radio Sélectionner un espace de noms d’identité, choisissez **[!UICONTROL E-mail]**, puis cliquez sur **[!UICONTROL Sélectionner]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >Le mappage de l’e-mail et/ou de l’ECID à partir de l’onglet **[!UICONTROL Identity Namespace]** est la chose la plus importante à faire pour s’assurer que la personne correspond dans Marketo. Mapping Email garantit le taux de correspondance le plus élevé.
+   >Le mappage de l’e-mail et/ou de l’ECID depuis l’onglet **[!UICONTROL Espace de noms d’identité]** est la chose la plus importante à faire pour vous assurer que la personne est mise en correspondance dans Marketo. L’e-mail de mappage garantira le taux de correspondance le plus élevé.
 
-1. Il est maintenant temps de choisir les champs sources. Pour envoyer un courrier électronique, cliquez sur l’icône représentant un curseur.
+1. Il est maintenant temps de choisir les champs sources. Pour l&#39;e-mail, cliquez sur l&#39;icône du curseur.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
 
-1. Cliquez sur le bouton radio Sélectionner un espace de noms d’identité , recherchez et sélectionnez **[!UICONTROL Email]**, puis cliquez sur **[!UICONTROL Sélectionner]**.
+1. Cliquez sur le bouton radio Sélectionner un espace de noms d’identité, recherchez et sélectionnez **[!UICONTROL E-mail]**, puis cliquez sur **[!UICONTROL Sélectionner]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-1. Pour choisir le champ source Nom de la société , cliquez sur l’icône du curseur dans sa ligne.
+1. Pour sélectionner le champ source Nom de la société , cliquez sur l’icône de curseur dans sa ligne.
 
    ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
-1. Laissez le bouton radio Sélectionner les attributs coché. Recherchez &quot;company&quot; et sélectionnez **[!UICONTROL companyName]**, puis cliquez sur **[!UICONTROL Select]**.
+1. Laissez le bouton radio Sélectionner des attributs coché. Recherchez « company » et sélectionnez **[!UICONTROL companyName]**, puis cliquez sur **[!UICONTROL Select]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-1. Mappez les champs source pour Nom et Prénom en cliquant sur l’icône du curseur pour chacun d’eux et en répétant l’étape 23 deux fois, en choisissant **[!UICONTROL lastName]**, puis **[!UICONTROL firstName]**.
+1. Mappez les champs sources pour le nom et le prénom en cliquant sur l’icône du curseur pour chacun d’eux et en répétant deux fois l’étape 23, en choisissant **[!UICONTROL nom]** puis **[!UICONTROL prénom]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 

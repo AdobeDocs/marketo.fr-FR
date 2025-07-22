@@ -1,54 +1,54 @@
 ---
 unique-page-id: 2360423
-description: Recherche de toutes les pistes dans un modèle de cycle de revenu - Documents Marketo - Documentation du produit
-title: Recherche de toutes les pistes dans un modèle de cycle du revenu
+description: Recherche de tous les leads dans un modèle de cycle du chiffre d’affaires - Documents Marketo - Documentation du produit
+title: Rechercher tous les leads dans un modèle de cycle de chiffre d’affaires
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Recherche de toutes les pistes dans un modèle de cycle du revenu {#find-all-leads-in-a-revenue-cycle-model}
+# Rechercher tous les leads dans un modèle de cycle de chiffre d’affaires {#find-all-leads-in-a-revenue-cycle-model}
 
-En utilisant des listes dynamiques, vous pouvez facilement trouver tous les membres du modèle de cycle des recettes.
+En utilisant des listes intelligentes, vous pouvez facilement trouver tous les membres du modèle de cycle du chiffre d’affaires.
 
 >[!PREREQUISITES]
 >
 >[Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Une fois la liste dynamique sélectionnée, cliquez sur l’onglet **Liste dynamique**.
+1. Lorsque la liste dynamique est sélectionnée, cliquez sur l’onglet **[!UICONTROL Liste dynamique]**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Recherchez le filtre **Member of Revenue Model** et faites-le glisser dans la zone de travail.
+1. Recherchez le filtre **[!UICONTROL Membre du modèle de chiffre d’affaires]** et faites-le glisser dans la zone de travail.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Sélectionnez un **modèle**.
+1. Sélectionnez un **[!UICONTROL modèle]**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
-   Cela vous donnerait toutes les pistes de ce modèle, indépendamment de l&#39;étape. En règle générale, vous souhaitez une étape spécifique. Utilisez plutôt le filtre suivant.
+   Cela vous permettrait d’obtenir toutes les pistes de ce modèle, quelle que soit l’étape. En règle générale, vous souhaiterez une étape spécifique. Utilisez plutôt le filtre suivant.
 
-1. Recherchez le filtre **Évaluation des recettes** et faites-le glisser dans la zone de travail.
+1. Recherchez le filtre **[!UICONTROL Étape de chiffre d’affaires]** et faites-le glisser dans la zone de travail.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Sélectionnez un **Stage**.
+1. Sélectionnez une **[!UICONTROL Phase]**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Accédez à l&#39;onglet **Leads** pour afficher les résultats.
+1. Accédez à l’onglet **[!UICONTROL Leads]** pour afficher les résultats.
 
    ![](assets/2.png)
 
    >[!TIP]
    >
-   >Vous n’avez pas besoin des deux filtres, choisissez simplement celui dont vous avez besoin. Nous vous montrons tous les deux d&#39;être minutieux.
+   >Vous n’avez pas besoin des deux filtres, choisissez simplement celui dont vous avez besoin. Nous vous montrons à tous les deux qu&#39;ils sont minutieux.
 
    >[!CAUTION]
    >
-   >Si l’étape d’une piste est modifiée par une campagne externe lors de la création initiale de la piste, alors une activité n’est pas enregistrée dans la base de données. Cela signifie que le prospect ne sera pas inclus par le filtre de liste dynamique.
+   >Si l’étape d’un prospect est modifiée par une campagne externe lors de sa création initiale, aucune activité n’est consignée dans la base de données. Cela signifie que le prospect ne sera pas inclus par le filtre de liste dynamique.

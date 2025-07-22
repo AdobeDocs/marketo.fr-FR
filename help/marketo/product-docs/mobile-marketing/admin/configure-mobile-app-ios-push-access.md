@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7512434
-description: Configuration de l’accès push iOS pour les applications mobiles - Documents Marketo - Documentation du produit
-title: Configuration de l’accès push iOS pour l’application mobile
+description: Configuration De L’Accès Push iOS Pour Les Applications Mobiles - Documents Marketo - Documentation Du Produit
+title: Configuration De L’Accès Push iOS Pour Les Applications Mobiles
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# Configuration de l’accès push iOS pour l’application mobile {#configure-mobile-app-ios-push-access}
+# Configuration De L’Accès Push iOS Pour Les Applications Mobiles {#configure-mobile-app-ios-push-access}
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionnez **Applications mobiles**.
+1. Sélectionnez **[!UICONTROL Applications mobiles]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,20 +25,20 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Sous Type d’accès push, sélectionnez iOS et cliquez sur **Configurer**.
+1. Sous [!UICONTROL Type d’accès push], sélectionnez iOS et cliquez sur **[!UICONTROL Configurer]**.
 
    ![](assets/image2016-6-10-11-3a37-3a9.png)
 
    >[!NOTE]
    >
-   >Vous aurez besoin d’un **certificat** et d’un **mot de passe** de la part du développeur de vos applications mobiles. Le développeur les reçoit en se connectant au Centre des développeurs Apple, en configurant et en téléchargeant un certificat de notification push pour votre application, puis en exportant le contenu. Le développeur définit le mot de passe lors de l’exportation. **IMPORTANT** : le certificat doit être adapté au type d’environnement que vous utilisez — Sandbox ou Production. Vérifiez cette information auprès de votre administrateur Marketo ou de votre développeur d’applications mobiles.
+   >Vous aurez besoin d’un **[!UICONTROL certificat]** et d’un **[!UICONTROL mot de passe]** de la part du développeur de vos applications mobiles. Le développeur les reçoit en se connectant au Centre des membres pour les développeurs d’Apple, en configurant et en téléchargeant un certificat de notification push pour votre application et en exportant le contenu. Le développeur définit le mot de passe lors de l’exportation. **IMPORTANT** : le certificat doit être adapté au type d’environnement que vous utilisez : sandbox ou production. Vérifiez-le auprès de votre administrateur Marketo ou du développeur d’applications mobiles.
 
-1. Sélectionnez votre certificat, saisissez votre mot de passe, puis cliquez sur **Enregistrer**.
+1. Sélectionnez votre [!UICONTROL Certificat], saisissez votre [!UICONTROL Mot de passe], puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
-Super boulot ! Assurez-vous également de configurer l’application avec Android.
+Très Bon Travail ! Veillez également à configurer l’application avec Android.
 
 >[!MORELIKETHIS]
 >
->[Configurer Mobile App Android Push Access](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>[Configuration De L’Accès Push Android Pour Les Applications Mobiles](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)

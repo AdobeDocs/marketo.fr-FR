@@ -1,57 +1,57 @@
 ---
 unique-page-id: 12615800
-description: Importation de comptes nommés - Documents Marketo - Documentation du produit
-title: Importer les comptes nommés
+description: Importer [!UICONTROL Comptes Nommés] - Documents Marketo - Documentation Du Produit
+title: Importer [!UICONTROL Comptes Nommés]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '479'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Importer les comptes nommés {#import-named-accounts}
+# Importer [!UICONTROL Comptes Nommés] {#import-named-accounts}
 
-Vous disposez déjà d’un fichier CSV contenant de nombreux comptes cibles potentiels ? Importez-les directement dans TAM !
+Vous avez déjà un fichier CSV rempli de comptes cibles potentiels ? Importez-les directement dans TAM !
 
-1. Cliquez sur la liste déroulante **New** et sélectionnez **Importer les comptes nommés**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Importer des comptes nommés]**.
 
    ![](assets/inaone.png)
 
-1. Une nouvelle fenêtre s’ouvre. Cliquez sur **Parcourir**, puis sélectionnez le fichier des comptes nommés à importer.
+1. Une nouvelle fenêtre s’ouvre. Cliquez sur **[!UICONTROL Parcourir]**, puis sélectionnez le fichier des comptes nommés à importer.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >Dans votre fichier, fournissez [autant d&#39;informations](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) que possible. Vous pouvez uniquement ajouter des informations démographiques ; aucune analyse Marketo (c’est-à-dire Pipeline). Pour créer des comptes nommés basés sur des comptes CRM, il vous suffit d’exporter le nom du compte et l’identifiant CRM de votre CRM dans un fichier CSV, d’utiliser l’option Nom du compte et de mapper l’identifiant CRM au cours du processus d’importation. Pour lier correctement un compte CRM à un compte nommé, vous devez indiquer le nom exact du compte CRM.
+   >Dans votre fichier, fournissez [autant d’informations que possible](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes). Vous pouvez uniquement ajouter des informations démographiques ; rien n’est calculé par Marketo (pipeline, par exemple). Pour créer des comptes nommés en fonction de comptes CRM, il vous suffit d’exporter le nom du compte et l’identifiant CRM de votre CRM dans un fichier CSV, d’utiliser l’option Nom du compte et de mapper l’identifiant CRM lors du processus d’importation. Pour lier correctement un compte CRM à un compte nommé, vous devez fournir le nom exact du compte CRM.
 
-1. Choisissez l’un des deux modes de déduplication : Nom du compte ou Nom de domaine. Dans cet exemple, nous choisirons Compte . Cliquez sur la liste déroulante **Modes** et sélectionnez **Par nom de compte**.
+1. Choisissez entre deux modes de déduplication : nom du compte ou nom de domaine. Dans cet exemple, nous choisirons Compte . Cliquez sur la liste déroulante **[!UICONTROL Modes]** et sélectionnez **[!UICONTROL Par nom de compte]**.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez **Par mode de domaine**, les champs de compte et de domaine nommés doivent être inclus.
+   >Si vous choisissez **[!UICONTROL Par nom de domaine]**, les champs Compte nommé et Domaine doivent être inclus.
 
-1. Pour choisir la liste des comptes auxquels votre compte nommé sera ajouté, cliquez sur la liste déroulante **Liste des comptes** et effectuez votre sélection.
+1. Pour choisir la liste de comptes à laquelle votre compte nommé est ajouté, cliquez sur le menu déroulant **[!UICONTROL Liste de comptes]** et effectuez votre sélection.
 
    ![](assets/inafour.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également créer une nouvelle liste de comptes en saisissant simplement son nom dans la liste déroulante.
+   >Vous pouvez également créer une toute nouvelle [!UICONTROL Liste de comptes] en saisissant simplement son nom dans la liste déroulante.
 
-1. Pour envoyer une notification de l’importation, cliquez sur la liste déroulante **Envoyer une alerte à** et sélectionnez un utilisateur Marketo. Vous _ne pouvez pas_ saisir manuellement une adresse électronique.
+1. Pour envoyer une notification de l’importation, cliquez sur le menu déroulant **[!UICONTROL Envoyer l’alerte à]** et sélectionnez un utilisateur Marketo. Vous _pouvez pas_ saisir manuellement une adresse e-mail.
 
    ![](assets/inafive-2.png)
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/inasix-2.png)
 
-1. Faites correspondre chaque champ en double-cliquant sur la liste déroulante **Champ Marketo** et en sélectionnant le champ approprié. Cliquez sur **Suivant** une fois terminé.
+1. Mappez chaque champ en double-cliquant sur la liste déroulante **[!UICONTROL Champ Marketo]** et en sélectionnant le champ approprié. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
 
    ![](assets/inaseven.png)
 
@@ -61,48 +61,48 @@ Vous disposez déjà d’un fichier CSV contenant de nombreux comptes cibles pot
 
    >[!NOTE]
    >
-   >&quot;Vérifier l’état de l’importation&quot; affiche uniquement les trois derniers jours d’activité.
+   >« Vérifier le statut d’importation » affiche uniquement les trois derniers jours d’activité.
 
-Scénarios de déduplication par nom de compte :
+Scénarios de déduplication [!UICONTROL par nom de compte] :
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Importation d’un enregistrement avec le nom de compte nommé existant</strong></td> 
+   <td><strong>Importation d'un enregistrement avec le nom <span class="uicontrol">Compte nommé</span> existant</strong></td> 
    <td><p>Nous mettrons à jour l’enregistrement existant</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Importation d’un enregistrement avec un nouveau nom de compte nommé</strong></td> 
+   <td><strong>Import de l'enregistrement avec le nouveau nom <span class="uicontrol">Compte nommé</span></strong></td> 
    <td>Nous allons créer un nouvel enregistrement</td> 
   </tr> 
  </tbody> 
 </table>
 
-Scénarios de déduplication par nom de domaine :
+Scénarios de déduplication [!UICONTROL par nom de domaine] :
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Importer un enregistrement avec un nouveau nom de compte et un nouveau nom de domaine</strong></td> 
-   <td>Nous allons créer un nouveau compte nommé avec les informations fournies.</td> 
+   <td><strong>Importation d'un enregistrement avec un nouveau nom de compte et un nouveau nom de domaine</strong></td> 
+   <td>Nous allons créer un nouveau <span class="uicontrol">Compte nommé</span> avec les informations fournies</td> 
   </tr> 
   <tr> 
-   <td><strong>Importer un enregistrement avec un nom de compte existant et un nom de domaine existant</strong></td> 
-   <td>Nous mettrons à jour le compte nommé existant</td> 
+   <td><strong>Importation d'un enregistrement avec un nom de compte et un nom de domaine existants</strong></td> 
+   <td>Nous mettrons à jour le <span class="uicontrol">Compte nommé</span> existant</td> 
   </tr> 
    <tr> 
-   <td><strong>Importer un enregistrement avec un nouveau nom de compte et un nom de domaine existant</strong></td> 
-   <td>Nous allons ajouter le nouveau nom de compte au compte nommé existant qui correspond au nom de domaine et mettre à jour d’autres informations (secteur, état, etc.).</td> 
+   <td><strong>Importation d'un enregistrement avec un nouveau nom de compte et un nom de domaine existant</strong></td> 
+   <td>Nous ajouterons le nouveau nom de compte au <span class="uicontrol">Compte nommé</span> existant qui correspond au nom de domaine et mettrons à jour d’autres informations (à savoir, secteur, État, etc.)</td> 
   </tr> 
   <tr> 
-   <td><strong>Importer un enregistrement avec le nom de compte nommé existant et le nouveau nom de domaine</strong></td> 
-   <td>Nous allons ajouter le nouveau nom de domaine au compte nommé existant qui correspond au nom du compte et mettre à jour d’autres informations (secteur, état, etc.).</td> 
+   <td><strong>Importation d’un enregistrement avec le nom <span class="uicontrol">Compte nommé</span> existant et le nouveau nom de domaine</strong></td> 
+   <td>Nous ajouterons le nouveau nom de domaine au <span class="uicontrol">Compte nommé</span> existant qui correspond au nom du compte et mettrons à jour d’autres informations (à savoir, secteur, État, etc.)</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Lorsque Marketo ajoute un compte nommé, nous mettons à jour une règle (en arrière-plan) qui nous permet d’identifier les personnes qui doivent faire partie du compte nommé. Exemple : si vous mettez à jour &quot;IBM&quot; vers &quot;IBM, Etats-Unis&quot;, les personnes qui portent l’un ou l’autre nom de société seront associées au compte nommé.
+>Lorsque Marketo ajoute un compte nommé, nous mettons à jour une règle (en coulisses) qui nous permet d’identifier les personnes qui doivent faire partie du [!UICONTROL compte nommé]. Exemple : si vous mettez à jour « IBM » sur « IBM, USA », les personnes dont le nom de société est modifié sont associées au [!UICONTROL Compte nommé].
 
-Si Marketo trouve des enregistrements que nous voyons comme des doublons, nous traiterons uniquement le premier.
+Si Marketo trouve des enregistrements que nous voyons comme des doublons, nous ne traiterons que le premier.

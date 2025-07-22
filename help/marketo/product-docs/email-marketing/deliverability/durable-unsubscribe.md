@@ -4,9 +4,9 @@ description: Désabonnement durable - Documents Marketo - Documentation du produ
 title: Désabonnement durable
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Lorsqu’une nouvelle personne est créée, Marketo la compare au tableau princi
 
 ## Modification d’une adresse e-mail {#changing-an-email-address}
 
-Si vous remplacez l’adresse e-mail d’une personne par une adresse e-mail de désabonnement, cette personne sera désabonnée. Cette modification peut se produire dans Marketo ou Salesforce.
+Si vous remplacez l’adresse e-mail d’une personne par une adresse e-mail de désabonnement, cette personne sera désabonnée. Cette modification peut se produire dans Marketo ou [!DNL Salesforce].
 
 ## Réabonnement {#re-subscribing}
 

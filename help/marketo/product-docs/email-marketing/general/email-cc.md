@@ -4,7 +4,7 @@ description: Email CC - Documents Marketo - Documentation du produit
 title: Envoyer CC par courrier électronique
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -23,15 +23,15 @@ Cette fonctionnalité est disponible sur toutes les ressources de messagerie Mar
 
 ## Configurer le CC d’e-mail {#set-up-email-cc}
 
-1. Dans Mon Marketo, cliquez sur **Admin**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Dans l’arborescence, sélectionnez **E-mail**.
+1. Dans l’arborescence, sélectionnez **[!UICONTROL E-mail]**.
 
    ![](assets/two.png)
 
-1. Cliquez sur **Modifier les paramètres CC de l’e-mail**.
+1. Cliquez sur **[!UICONTROL Modifier les paramètres CC de l’e-mail]**.
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ Cette fonctionnalité est disponible sur toutes les ressources de messagerie Mar
 
 ## Utilisation de la fonctionnalité E-mail Cc {#using-email-cc}
 
-1. Sélectionnez votre e-mail et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre e-mail et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/five.png)
 
-1. Cliquez sur **Paramètres de messagerie**.
+1. Cliquez sur **[!UICONTROL Paramètres de messagerie]**.
 
    ![](assets/six.png)
 

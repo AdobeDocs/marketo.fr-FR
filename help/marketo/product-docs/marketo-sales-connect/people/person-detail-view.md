@@ -1,23 +1,23 @@
 ---
 unique-page-id: 13796475
-description: Vue Détails de la personne - Documents Marketo - Documentation du produit
-title: Vue Détails de la personne
+description: Affichage Des Détails D’Une Personne - Documents Marketo - Documentation Du Produit
+title: Affichage des détails de la personne
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-# Vue Détails de la personne {#person-detail-view}
+# Affichage des détails de la personne {#person-detail-view}
 
-La vue Détails de la personne fournit un profil détaillé de chaque personne dans votre compte MSC.
+La vue Détails de la personne fournit un profil détaillé de chaque personne de votre compte MSC.
 
 ## Accès {#how-to-access}
 
-1. Pour accéder à la vue des détails de la personne, cliquez sur l’onglet **Personnes** .
+1. Pour accéder à la vue détaillée de la personne, cliquez sur l’onglet **[!UICONTROL Personnes]**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -27,30 +27,30 @@ La vue Détails de la personne fournit un profil détaillé de chaque personne d
 
    >[!TIP]
    >
-   >Où que vous voyiez le nom d’une personne, vous pouvez cliquer dessus et accéder à son Affichage des détails de la personne.
+   >À peu près partout où vous voyez le nom d’une personne, vous pouvez cliquer dessus et accéder à l’Affichage des détails de la personne.
 
 ## Onglet À propos {#about-tab}
 
-Inclut toutes les coordonnées de la personne.
+Inclut toutes les informations de contact de la personne.
 
 ![](assets/person-detail-view-3.png)
 
 **Carte de contact**
 
-* Contient des coordonnées telles que : adresse électronique, nom, société, titre, numéro de téléphone et liens vers les médias sociaux
+* Contient des informations de contact telles que : adresse e-mail, nom, société, titre, numéro de téléphone et liens vers les médias sociaux.
 
 **Groupes**
 
-* Affiche et gère les groupes dont fait partie cette personne.
+* Affiche et gère les groupes dont cette personne est membre
 
 **Informations sur le compte**
 
-* Peut ajouter une personne à Salesforce
-* Extraction des informations de compte et de piste/contact de Salesforce
+* Peut ajouter une personne à [!DNL Salesforce]
+* Extraire les informations de compte et de lead/contact de [!DNL Salesforce]
 
 **Champs personnalisés**
 
-* Ajouter ou supprimer des champs personnalisés qui peuvent être utilisés comme champs dynamiques dans vos modèles et campagnes
+* Ajouter ou supprimer des champs personnalisés pouvant être utilisés comme champs dynamiques dans vos modèles et campagnes
 
 **Notes**
 
@@ -58,39 +58,39 @@ Inclut toutes les coordonnées de la personne.
 
 ## Onglet Engagement {#engagement-tab}
 
-Découvrez comment cette personne s’engage dans votre travail de sensibilisation.
+Découvrez comment cette personne interagit avec vos activités de sensibilisation.
 
 ![](assets/person-detail-view-4.png)
 
-**Activité Connect des ventes**
+**Activité Sales Connect**
 
-* Voir Activités d’engagement à partir de vos emails de vente et campagnes
+* Voir les activités d’engagement de vos e-mails et campagnes de vente
 
 **Activité marketing**
 
-* Découvrez comment votre personne interagit avec les campagnes marketing
+* Découvrez comment votre personne participe aux campagnes marketing
 
 ## Onglet Historique {#history-tab}
 
-Affiche votre historique de diffusion. Inclut des emails, des campagnes et des appels.
+Affiche l’historique de vos activités de sensibilisation. Inclut des e-mails, des campagnes et des appels.
 
 ![](assets/person-detail-view-5.png)
 
-**Campagnes commerciales**
+**[!UICONTROL Campagnes de vente]**
 
-* Afficher toutes les campagnes actives ou terminées auxquelles cette personne appartient
+* Afficher les campagnes actives ou terminées auxquelles cette personne appartient
 
-**Campagnes marketing**
+**[!UICONTROL Campagnes marketing]**
 
-* Afficher toutes les campagnes marketing auxquelles cette personne est membre
+* Afficher toutes les campagnes marketing dont cette personne est membre
 
-**Courriers électroniques de vente**
+**[!UICONTROL E-mails commerciaux]**
 
-* Afficher les courriers électroniques que vous avez envoyés à cette personne et les mesures d’engagement
+* Voir tous les e-mails que vous avez envoyés à cette personne et les mesures d’engagement
 
-**Appels de vente**
+**[!UICONTROL Appels de ventes]**
 
-* Afficher tous les appels que vous avez passés à cette personne
+* Voir tous les appels que vous avez passés à cette personne
 
 ## Onglet Tâches {#tasks-tab}
 
@@ -100,7 +100,7 @@ Gérer les tâches associées à cette personne.
 
 Actions que vous pouvez effectuer :
 
-* Modification ou suppression d’une tâche
-* Afficher la date d’échéance
-* Cliquez sur le Type pour lancer le Téléphone de vente si appel, Composer le courrier électronique si courrier électronique, Linkedin si courrier électronique et Note personnalisée si personnalisé.
+* Modifier ou supprimer une tâche
+* Afficher la date d&#39;échéance
+* Cliquez sur le type pour lancer le numéro de téléphone commercial si l’appel est effectué, le numéro de composition d’e-mail si l’e-mail est envoyé, LinkedIn si l’e-mail est envoyé et la note personnalisée si personnalisée.
 * Marquer une tâche comme terminée

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360240
-description: Configuration d’un analyseur d’influence d’opportunité - Documents Marketo - Documentation du produit
+description: Configuration d’une opportunité Influence Analyzer - Documents Marketo - Documentation du produit
 title: Configuration d’un analyseur d’influence d’opportunité
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,34 +19,34 @@ Une fois que vous avez [créé un analyseur d’influence d’opportunité](/hel
 >
 >[Créer un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Cliquez sur **Analytics**.
+1. Cliquez sur **[!UICONTROL Analytics]**.
 
    ![](assets/login-to-analytics.png)
 
-1. Accédez à Analytics et sélectionnez votre analyseur d’influence d’opportunité.
+1. Accédez à **[!UICONTROL Analytics]** et sélectionnez l’analyseur d’influence d’opportunité.
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   S’il y a trop de moments intéressants dans le graphique de l’analyseur, vous pouvez les réduire en désélectionnant des personnes dans le panneau **Paramètres**, ou en réduisant les types de moments intéressants.
+   S’il y a trop de moments intéressants dans le graphique de l’analyseur, vous pouvez les réduire en désélectionnant les personnes dans le panneau **[!UICONTROL Paramètres]** ou en réduisant les types de moments intéressants.
 
-1. Pour configurer les types de moments intéressants à inclure, accédez à l’onglet Configuration et faites glisser le filtre Moments intéressants .
+1. Pour configurer les types de moments significatifs à inclure, accédez à l’onglet **[!UICONTROL Configuration]** et faites glisser le filtre **[!UICONTROL Moments significatifs]**.
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
-1. Choisissez d’afficher Tout, Aucun ou Certains.
+1. Choisissez d’afficher **[!UICONTROL Tous]**, **[!UICONTROL Aucun]** ou **[!UICONTROL Certains]**.
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. Si vous choisissez Certains, vous pouvez ensuite choisir les types à inclure.
+1. Si vous choisissez **[!UICONTROL Certains]**, vous pouvez choisir les types à inclure.
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Cliquez sur chaque type de moment intéressant que vous souhaitez. Cliquez ensuite sur **Enregistrer**.
+1. Cliquez sur chaque type de moment intéressant que vous souhaitez. Cliquez ensuite sur **[!UICONTROL Enregistrer]**.
 
-1. Cliquez sur l&#39;onglet principal pour afficher l&#39;historique de l&#39;opportunité avec seulement les types de moments intéressants sélectionnés.
+1. Cliquez sur l’onglet principal pour afficher l’historique de l’opportunité avec uniquement les types de moments intéressants sélectionnés.
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
 >[!MORELIKETHIS]
 >
->[Racontez l’article marketing avec un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[Raconter l’histoire marketing avec un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger - Définir des critères de champion - Documents Marketo - Documentation du produit
-title: Champion/Challenger - Définir les critères de champion
+description: Champion/Challenger - Définir Des Critères Champion - Documents Marketo - Documentation Du Produit
+title: Champion/Challenger - Définir les critères du champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
 
-# Champion/Challenger : définition des critères de champion {#champion-challenger-define-champion-criteria}
+# Champion/Challenger : Définir les critères du champion {#champion-challenger-define-champion-criteria}
 
-Une fois que vous avez configuré votre type de test, vous devez définir les critères de champion. Voici comment.
+Une fois que vous avez configuré votre type de test, vous devez définir les critères du champion. Voici comment procéder.
 
 >[!PREREQUISITES]
 >
->[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajouter un e-mail Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-## Critères de championne standard {#standard-champion-criteria}
+## Critères des champions standard {#standard-champion-criteria}
 
-1. Sélectionnez l&#39;un des **critères champions** disponibles.
+1. Sélectionnez l’un des **[!UICONTROL critères champions]** disponibles.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
    >[!NOTE]
    >
-   >Nous allons effectuer le suivi de cette mesure et vous envoyer un rapport avec les données par courriel.
+   >Nous suivrons cette mesure et vous enverrons un rapport contenant les données par e-mail.
 
-1. Si vous avez sélectionné l’un des **critères champions** par défaut, passez à la [configuration des alertes de rapport](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) !
+1. Si vous avez sélectionné l’un des critères par défaut **Champion Criteria**, passez à l’étape [Configurer les alertes de rapports](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) !
 
 ## Critères de champion personnalisés {#custom-champion-criteria}
 
-1. Si vous souhaitez obtenir un style soigné, vous pouvez personnaliser en sélectionnant **Conversion personnalisée** et en cliquant sur **Modifier**.
+1. Si vous souhaitez en faire un choix judicieux, vous pouvez effectuer une personnalisation en sélectionnant **[!UICONTROL Custom Conversion Ratio]** et en cliquant sur **[!UICONTROL Modifier]**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
    >[!NOTE]
    >
-   >Vous pouvez ainsi définir n’importe quel événement comme conversion à l’aide de déclencheurs et de filtres.
+   >Vous pouvez ainsi définir n’importe quel événement en tant que conversion à l’aide de déclencheurs et de filtres.
 
 1. Une fenêtre s’affiche. Recherchez le déclencheur de votre choix et faites-le glisser dans la zone de travail.
 
@@ -49,9 +49,9 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo autorise uniquement les déclencheurs pour les personnes qui ont reçu le courrier électronique à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre &quot;E-mail envoyé&quot;.
+   Marketo autorise uniquement les déclencheurs pour les personnes à qui cet e-mail a été envoyé à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre « E-mail [!UICONTROL  envoyé ] ».
 
-1. Cliquez sur **Fermer**.
+1. Cliquez sur **[!UICONTROL Fermer]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

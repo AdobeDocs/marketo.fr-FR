@@ -1,24 +1,24 @@
 ---
-description: Ajouter/Supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement - Documents Marketo - Documentation du produit
-title: Ajouter/Supprimer un champ d’objet personnalisé en tant que contraintes de liste/déclenchement intelligent
+description: Ajout/suppression d’un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement - Documents Marketo - Documentation du produit
+title: Ajouter/supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclencheur
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Ajouter/Supprimer un champ d’objet personnalisé en tant que contraintes de liste/déclenchement intelligent {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Ajouter/supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclencheur {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage offre un contrôle spécifique sur la synchronisation des objets personnalisés de Veeva. Vous pouvez ainsi sélectionner les champs disponibles en tant que contraintes dans les filtres d’objets personnalisés et les utiliser comme déclencheurs dans les campagnes dynamiques.
+Marketo Engage offre un contrôle spécifique sur la synchronisation d’objets personnalisés [!DNL Veeva]. Vous pouvez ainsi sélectionner les champs disponibles en tant que contraintes dans les filtres d’objet personnalisés et les utiliser comme déclencheurs dans les campagnes intelligentes.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Cliquez sur **[!UICONTROL Admin]**, puis sur **[!UICONTROL Synchronisation des objets Veeva]**.
+1. Cliquez sur **[!UICONTROL Admin]**, puis **[!UICONTROL Synchronisation des objets Veeva]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -32,13 +32,13 @@ Marketo Engage offre un contrôle spécifique sur la synchronisation des objets 
 
    >[!TIP]
    >
-   >Si le bouton Modifier les champs visibles est grisé, l’objet est actuellement utilisé dans une liste dynamique ou une campagne dynamique. Supprimez toutes les associations pour continuer.
+   >Si le bouton [!UICONTROL Modifier les champs visibles] est grisé, l’objet est actuellement utilisé dans une liste dynamique ou une campagne dynamique. Supprimez toutes les associations pour continuer.
 
-1. Si votre synchronisation globale est activée, cliquez sur **[!UICONTROL Désactiver la synchronisation globale]**.
+1. Si la synchronisation globale est activée, cliquez sur **[!UICONTROL Désactiver la synchronisation globale]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. Cochez les cases en regard des contraintes de filtre/déclenchement souhaitées et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez les cases en regard des contraintes de filtre/déclencheur souhaitées et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -52,10 +52,10 @@ Marketo Engage offre un contrôle spécifique sur la synchronisation des objets 
 
 >[!IMPORTANT]
 >
->N’oubliez pas de réactiver votre synchronisation globale !
+>N’oubliez pas de réactiver votre synchronisation globale.
 
-Vos listes intelligentes et campagnes intelligentes disposent désormais d’une puissance encore plus grande.
+Désormais, vos listes intelligentes et campagnes intelligentes ont encore plus de puissance.
 
 >[!MORELIKETHIS]
 >
->[Activer/Désactiver la synchronisation d’objet personnalisé](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}
+>[Activer/Désactiver La Synchronisation Des Objets Personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}

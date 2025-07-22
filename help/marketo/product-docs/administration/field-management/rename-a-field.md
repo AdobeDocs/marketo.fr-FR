@@ -4,9 +4,9 @@ description: Renommer un champ - Documents Marketo - Documentation du produit
 title: Renommer un champ
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Vous pouvez renommer un champ personnalisé dans Marketo, mais il n’y a qu’un seul hic : vous devez supprimer toute son utilisation dans le système avant de le faire. Cela inclut les formulaires, les listes dynamiques et les campagnes dynamiques.
+>Vous pouvez renommer un champ personnalisé dans Marketo, mais il existe un hic : vous devez supprimer toute son utilisation dans le système avant de le faire. Cela inclut les formulaires, les listes intelligentes et les campagnes intelligentes.
 
 >[!NOTE]
 >
@@ -35,14 +35,14 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Cliquez sur le lien **[!UICONTROL Utilisé par]** pour rechercher les ressources qui référencent ce champ.
+   >Cliquez sur le lien **[!UICONTROL Utilisé par]** pour rechercher les ressources qui font référence à ce champ.
 
 1. Renommez le champ et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/rename-a-field-4.png)
 
-Beau boulot ! Vous savez maintenant comment renommer des champs dans Marketo.
+Joli travail ! Vous savez désormais comment renommer des champs dans Marketo.
 
 >[!CAUTION]
 >
->Si vous renommez le nom de l’API dans Salesforce, Marketo crée un nouveau champ et laisse l’ancien derrière vous.
+>Si vous renommez le nom de l’API en [!DNL Salesforce], Marketo crée un tout nouveau champ et laisse l’ancien derrière.

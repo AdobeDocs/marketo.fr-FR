@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849070
-description: Téléchargez la solution Marketo Sales Insight pour Microsoft Dynamics - Documentation Marketo - Documentation du produit
-title: Téléchargement de la solution Marketo Sales Insight pour Microsoft Dynamics
+description: Téléchargez la solution Marketo Sales Insight pour Microsoft Dynamics - Documents Marketo - Documentation du produit
+title: Télécharger la solution Marketo Sales Insight pour Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
-# Téléchargement de la solution Marketo Sales Insight pour Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Télécharger la solution [!DNL Marketo Sales Insight] pour [!DNL Microsoft Dynamics] {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Le module externe sur cette page est destiné aux utilisateurs de la synchronisation avec Marketo Engage à l’aide de Marketo qui  la solution de synchronisation CRM native vers Dynamics 365. Pour ceux qui ont : une synchronisation personnalisée, MS Dynamics 365 Online (9.x et versions ultérieures) et qui ont acheté Marketo Sales Insight, le [package est ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>Le plug-in de cette page est destiné aux personnes qui se synchronisent avec Marketo Engage à l’aide de la solution de synchronisation CRM native Marketo pour [!DNL Dynamics 365]. Pour ceux qui disposent des éléments suivants : une synchronisation personnalisée, [!DNL MS Dynamics 365 Online] (9.x et versions ultérieures) et ont acheté des [!DNL Marketo Sales Insight], le package [ est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. Accédez à la zone **Admin**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/mainnavhand.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-3.png)
 
-1. Sélectionnez **Télécharger la solution Marketo**.
+1. Sélectionnez **[!UICONTROL Télécharger la solution Marketo]**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
-1. Sélectionnez la solution appropriée pour votre version de Microsoft Dynamics.
+1. Sélectionnez la solution appropriée pour votre version de [!DNL Microsoft Dynamics].
 
    ![](assets/msd-online.png)
 

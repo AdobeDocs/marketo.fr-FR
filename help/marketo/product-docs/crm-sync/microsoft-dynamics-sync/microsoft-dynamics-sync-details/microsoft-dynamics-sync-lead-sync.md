@@ -1,48 +1,48 @@
 ---
 unique-page-id: 3571848
-description: Synchronisation Microsoft Dynamics - Synchronisation des pistes - Documents Marketo - Documentation du produit
-title: Synchronisation Microsoft Dynamics - Synchronisation des pistes
+description: Synchronisation de Microsoft Dynamics - Synchronisation des leads - Documents Marketo - Documentation du produit
+title: Synchronisation Microsoft Dynamics - Synchronisation des leads
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-# Synchronisation Microsoft Dynamics : synchronisation des pistes {#microsoft-dynamics-sync-lead-sync}
+# Synchronisation des [!DNL Microsoft Dynamics] : synchronisation des leads {#microsoft-dynamics-sync-lead-sync}
 
-Marketo Engage à la synchronisation Dynamics est très puissant. Voici les détails.
+La synchronisation de Marketo vers [!DNL Dynamics] est très puissante. Voici les détails :
 
 ## Comment les détails sont-ils synchronisés entre les deux systèmes ? {#how-are-details-kept-in-sync-between-the-two-systems}
 
-La synchronisation est bidirectionnelle. Si vous apportez des modifications à un prospect dans Dynamics ou à une personne dans Marketo, votre mise à jour sera répercutée dans les deux systèmes.
+La synchronisation est bidirectionnelle. Si vous apportez des modifications à un prospect dans [!DNL Dynamics] ou à une personne dans Marketo, vos mises à jour seront répercutées sur les deux systèmes.
 
 >[!NOTE]
 >
->Les suppressions ne se synchronisent pas toujours automatiquement dans les deux directions. Voir [Suppression d’une piste ou d’un contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
+>Les suppressions ne se synchronisent pas toujours automatiquement dans les deux sens. Voir [Suppression d’un prospect ou d’un contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
 
-## Que se passe-t-il si des modifications sont apportées simultanément au même champ dans les deux systèmes ? (Collision de données) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
+## Que faire si des modifications sont apportées simultanément au même champ dans les deux systèmes ? (Collision de données) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Bien que cela soit rare, Marketo gagnera pour les personnes (pistes) et Dynamics gagnera pour les contacts. En effet, nous considérons que le service marketing fait autorité pour les personnes, alors que le système officiel d&#39;enregistrement des contacts est celui des ventes (CRM).
+Bien que cela soit rare, Marketo gagnera pour les personnes (prospects) et [!DNL Dynamics] gagnera pour les contacts. En effet, nous considérons que le service marketing fait autorité pour les personnes, alors que le système officiel d’enregistrement des contacts se trouve dans le service des ventes (CRM).
 
-## Puis-je créer un prospect dans Dynamics à l’aide de Marketo ? {#can-i-create-a-lead-in-dynamics-using-marketo}
+## Puis-je créer un prospect dans [!DNL Dynamics] à l’aide de Marketo ? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Oui, utilisez l’action de flux [Synchroniser la personne avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} . Cela créera une piste dans Dynamics si la piste n’existe pas. Si la piste existe, l’étape de flux n’effectue aucune action.
+Oui, utiliser l’action de flux [[!UICONTROL  Synchroniser la personne avec Microsoft ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cette opération crée un prospect dans [!DNL Dynamics] si le prospect n’existe pas. Si le prospect existe, l’étape de flux n’effectue aucune action.
 
 >[!NOTE]
 >
->Lors de l’utilisation de l’action de flux &quot;Synchroniser la personne avec Microsoft&quot; (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans Dynamics.
+>Lors de l’utilisation de l’action de flux « [!UICONTROL  Synchroniser la personne avec Microsoft ] » (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans [!DNL Dynamics].
 
-## Puis-je forcer manuellement la synchronisation d’une personne de Marketo vers un prospect dans Dynamics ? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
+## Puis-je forcer manuellement la synchronisation d’une personne de Marketo avec un prospect dans [!DNL Dynamics] ? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Non, la synchronisation en arrière-plan automatisée est le seul moyen de synchroniser les mises à jour entre Marketo et Dynamics. L’action de flux [Synchroniser la personne avec Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} ne force pas la synchronisation de l’avance.
+Non, la synchronisation en arrière-plan automatisée est la seule façon de synchroniser les mises à jour entre Marketo et [!DNL Dynamics]. L’action de flux [[!UICONTROL  Synchroniser la personne avec Microsoft ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne force pas la synchronisation du prospect.
 
-## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
+## Quels champs vont être synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
 Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} lors de la configuration.
 
-## Marketo respectera-t-il les règles de validation Dynamics ? {#will-marketo-respect-the-dynamics-validation-rules}
+## Marketo respectera-t-il les règles de validation [!DNL Dynamics] ? {#will-marketo-respect-the-dynamics-validation-rules}
 
-Oui. La synchronisation échoue si le format des données est incorrect ou si les informations de champ requises sont manquantes. Marketo consigne le résultat dans le journal d’activité de la personne si cela se produit.
+Oui. La synchronisation échoue si le format de données est incorrect ou s’il manque des informations de champ requises. Si cela se produit, Marketo consigne les résultats dans le journal d’activité de la personne.

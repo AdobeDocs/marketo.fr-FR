@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2359782
 description: Ajout de personnes à un programme d’engagement - Documents Marketo - Documentation du produit
-title: Ajout de personnes à un programme d’engagement
+title: Ajouter des personnes à un programme d’engagement
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 3%
+source-wordcount: '114'
+ht-degree: 0%
 
 ---
 
-# Ajout de personnes à un programme d’engagement {#add-people-to-an-engagement-program}
+# Ajouter des personnes à un programme d’engagement {#add-people-to-an-engagement-program}
 
-Il existe plusieurs façons de devenir membre d’un programme d’engagement :
+Les personnes peuvent devenir membres d’un programme d’engagement de plusieurs manières :
 
-* [Ajouter au programme d&#39;engagement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* Étape de flux [Modifier la cadence du programme d’engagement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
-* [ Étape de flux Changer le flux du programme d’engagement](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
-* Étape de flux [Modifier l’état du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
-* Si une personne remplit un formulaire local à un programme d’engagement
-* Importer des membres dans un programme d’engagement (via l’onglet Membres du programme)
-* Si vous utilisez Salesforce comme CRM et qu’une campagne Salesforce est liée à votre programme d’engagement, l’ajout d’une personne à la campagne Salesforce côté CRM en fera également un membre du programme d’engagement.
+* [[!UICONTROL Ajouter au programme d’engagement]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* [[!UICONTROL Modifier le rythme du programme d’engagement]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) étape de flux
+* [[!UICONTROL Modifier le flux du programme d’engagement]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) étape de flux
+* [[!UICONTROL Modifier le statut du programme]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) étape de flux
+* Si une personne remplit un formulaire local pour un programme d’engagement
+* Importation de membres dans un programme d’engagement (via l’onglet Membres dans le programme)
+* Si vous utilisez [!DNL Salesforce] comme logiciel de gestion de la relation client (CRM) et avez une campagne [!DNL Salesforce] liée à votre programme d’engagement, l’ajout d’une personne à la campagne [!DNL Salesforce] côté CRM lui permettra également d’être membre du programme d’engagement.

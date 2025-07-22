@@ -1,30 +1,30 @@
 ---
 unique-page-id: 3571840
-description: Synchronisation Microsoft Dynamics - Synchronisation des utilisateurs - Documents Marketo - Documentation du produit
-title: Synchronisation Microsoft Dynamics - Synchronisation des utilisateurs
+description: Microsoft [!DNL Dynamics] Sync - Synchronisation Des Utilisateurs - Documents Marketo - Documentation Du Produit
+title: Microsoft [!DNL Dynamics] Sync - Synchronisation des utilisateurs
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-# Synchronisation Microsoft Dynamics : synchronisation des utilisateurs {#microsoft-dynamics-sync-user-sync}
+# Microsoft [!DNL Dynamics] Sync : synchronisation des utilisateurs {#microsoft-dynamics-sync-user-sync}
 
-Saviez-vous que Marketo Engage synchronise entièrement votre base de données avec Dynamics ? Il se synchronise, puis attend 5 minutes et se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les comptes Dynamics.
+Saviez-vous que Marketo synchronise l’ensemble de votre base de données avec [!DNL Dynamics] ? Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les comptes [!DNL Dynamics].
 
-Vous aurez besoin d’un utilisateur CRM Microsoft Dynamics dédié aux fins de l’intégration. Nous appelons cet utilisateur l’utilisateur de synchronisation.
+Vous aurez besoin d’un utilisateur Microsoft [!DNL Dynamics] CRM dédié aux fins de l’intégration. Nous appelons cet utilisateur l’utilisateur de synchronisation.
 
-## Comment les informations utilisateur sont-elles synchronisées entre les deux systèmes ? {#how-are-user-details-kept-in-sync-between-the-two-systems}
+## Comment les informations de l’utilisateur sont-elles synchronisées entre les deux systèmes ? {#how-are-user-details-kept-in-sync-between-the-two-systems}
 
-La synchronisation des utilisateurs est un moyen : Dynamics vers Marketo. Si vous apportez des modifications à un utilisateur dans Dynamics, les modifications seront répercutées dans Marketo.
+La synchronisation des utilisateurs ne fonctionne que dans un sens : [!DNL Dynamics] à Marketo. Si vous apportez des modifications à un utilisateur dans [!DNL Dynamics], elles seront répercutées dans Marketo.
 
 ## Puis-je créer un utilisateur à l’aide de Marketo ? {#can-i-create-an-user-using-marketo}
 
-Nombre Marketo ne peut pas créer d’utilisateurs dans Dynamics.
+Non. Marketo ne peut pas créer d’utilisateurs dans [!DNL Dynamics].
 
 ## Quels champs seront synchronisés avec Marketo ? {#which-fields-will-sync-to-marketo}
 
-Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} lors de la configuration. Mais Marketo synchronise uniquement les champs auxquels votre utilisateur de synchronisation Dynamics a accès.
+Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) lors de la configuration. Cependant, Marketo ne synchronise que les champs auxquels l’utilisateur de la synchronisation [!DNL Dynamics] a accès.

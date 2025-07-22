@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45417460
 description: Affectation de tâches aux membres de l’équipe - Documents Marketo - Documentation du produit
-title: Affectation de tâches aux membres de l’équipe
+title: Affectation de tâches à des membres d'équipe
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Affectation de tâches aux membres de l’équipe {#assigning-tasks-to-team-members}
+# Affectation de tâches à des membres d&#39;équipe {#assigning-tasks-to-team-members}
 
 Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affectation de tâches peut être un excellent moyen de coordonner vos efforts de prospection.
 
@@ -19,11 +19,11 @@ Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affecta
 >
 >Vous pouvez uniquement affecter des tâches aux contacts partagés.
 
-1. Cliquez sur le **Centre de commandes**.
+1. Cliquez sur le **[!UICONTROL Centre de commande]**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Ajouter une tâche**.
+1. Cliquez sur **[!UICONTROL Ajouter une tâche]**.
 
    ![](assets/two-1.png)
 
@@ -35,22 +35,22 @@ Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affecta
 
    ![](assets/four-1.png)
 
-1. Sélectionnez la personne de votre équipe à laquelle vous souhaitez affecter la tâche dans le champ Affecter une tâche .
+1. Sélectionnez la personne de votre équipe à laquelle vous souhaitez affecter la tâche dans le champ **[!UICONTROL Affecter une tâche]**.
 
    ![](assets/five.png)
 
-1. Ajoutez la personne à laquelle vous souhaitez accéder dans le champ Personne .
+1. Ajoutez la personne à qui vous souhaitez tendre la main dans le champ Personne .
 
    ![](assets/six.png)
 
-1. Sélectionnez la Date d’échéance.
+1. Sélectionnez la **[!UICONTROL Date d’échéance]**.
 
    ![](assets/seven.png)
 
-1. Définissez la Priorité.
+1. Définissez la **[!UICONTROL Priorité]**.
 
    ![](assets/eight.png)
 
-1. Ajoutez tous les détails importants pertinents pour votre partenaire d’équipe (facultatif), puis cliquez sur **Créer**.
+1. Ajoutez tous les détails importants pertinents pour votre coéquipier (facultatif), puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/nine.png)

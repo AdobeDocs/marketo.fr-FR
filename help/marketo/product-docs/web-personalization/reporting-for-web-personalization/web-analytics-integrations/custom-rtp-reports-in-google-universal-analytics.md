@@ -4,7 +4,7 @@ description: Rapports RTP personnalisés dans Google Universal Analytics - Docum
 title: Rapports RTP personnalisés dans Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 4%
@@ -15,46 +15,46 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[Intégration de RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Intégration du RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Cet article explique comment configurer des rapports personnalisés RTP pour Google Universal Analytics (GUA).  Les données envoyées de RTP vers GUA peuvent être configurées en tant que deux rapports personnalisés distincts appelés :
+Cet article explique comment configurer des rapports personnalisés RTP pour Google Universal Analytics (GUA).  Les données envoyées de RTP vers GUA peuvent être configurées sous la forme de deux rapports personnalisés distincts appelés :
 
 * RTP B2B
 * Engagement RTP
 
-## Configuration d’un rapport personnalisé {#setting-up-a-custom-report}
+## Configuration d’un [!UICONTROL rapport personnalisé] {#setting-up-a-custom-report}
 
-1. Connectez-vous aux Google Analytics.
+1. Connectez-vous à Google Analytics.
 
-1. Cliquez sur **Personnalisation** dans le menu supérieur.
+1. Cliquez sur **[!UICONTROL Personnalisation]** dans le menu supérieur.
 
-1. Cliquez sur **+Nouveau rapport personnalisé**.
+1. Cliquez sur **[!UICONTROL Nouveau rapport personnalisé]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## Rapport RTP B2B {#rtp-b-b-report}
 
-1. Nommez le rapport **Rapport RTP B2B**.
+1. Nommez le rapport **RTP B2B Report**.
 
-1. Nommez le 1er onglet **Secteur**.
+1. Nommez le 1er onglet **[!UICONTROL Secteur]**.
 
 >[!NOTE]
 >
->Vous allez **Dupliquer cet onglet** et en créer d’autres similaires - étape 5)
+>Vous allez **Dupliquer cet onglet** et créer d’autres onglets similaires - étape 5)
 
-1. Sélectionnez le type de rapport **Explorateur**.
+1. Sélectionnez le type de rapport **[!UICONTROL Explorateur]**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Dans la section **Groupes de mesures** , sélectionnez les mesures pertinentes pour votre entreprise.
+1. Dans la section **[!UICONTROL Groupes de mesures]**, sélectionnez les mesures pertinentes pour votre entreprise.
 
-   a. Nous vous recommandons ce qui suit :
+   a. Nous recommandons ce qui suit :
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Dupliquez cet onglet 4 fois et nommez-les :
 
-   1. **Secteur industriel**
+   1. **Industrie**
    1. **Groupe**
    1. **Catégorie**
    1. **ABM**
@@ -62,24 +62,24 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Dans la section **Analyse de Dimension** , définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous.
+1. Dans la section **Analyses Dimension** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous.
 
 <table> 
  <thead> 
   <tr> 
    <th> 
     <div>
-      Nom de l’onglet 
+      Nom de l'onglet 
     </div></th> 
    <th> 
     <div>
-      Analyse des Dimensions
+      Analyses Dimension détaillées
     </div></th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Industrie</td> 
+   <td>Secteur industriel</td> 
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -95,58 +95,58 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
    <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Entreprises</td> 
+   <td>Organisations</td> 
    <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Ne définissez aucun filtre et ne configurez pas ce rapport pour qu’il soit disponible pour **Toutes les données du site Web** (ou modifiez-le s’il est pertinent pour un compte Analytics spécifique).
+1. Ne définissez aucun filtre et définissez ce rapport de sorte qu’il soit disponible pour **[!UICONTROL Toutes les données du site web]** (ou modifiez-le si cela concerne un compte Analytics spécifique).
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
-## Rapport Engagement RTP {#rtp-engagement-report}
+## Rapport d’engagement RTP {#rtp-engagement-report}
 
-1. Nommez le rapport **Rapport Engagement RTP**.
+1. Nommez le rapport **RTP Engagement Report**.
 
-1. Définissez le nom du premier onglet sur **All Engagement**.
+1. Définissez le nom du 1er onglet sur **[!UICONTROL Tous les engagements]**.
 
 >[!NOTE]
 >
->Vous allez dupliquer cet onglet et en créer d’autres similaires - étape 5)
+>Vous allez dupliquer cet onglet et en créer d’autres similaires (étape 5)
 
-1. Sélectionnez le type de rapport **Explorateur**.
+1. Sélectionnez le type de rapport **[!UICONTROL Explorateur]**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Dans la section Groupes de mesures , sélectionnez les mesures pertinentes pour votre entreprise. Voici une recommandation :
+1. Dans la section [!UICONTROL Groupes de mesures], sélectionnez les mesures pertinentes pour votre entreprise. Voici une recommandation :
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Dupliquez cet onglet 4 fois et nommez-les :
 
    1. **Tous les engagements**
-   1. **Engagement du secteur industriel**
+   1. **Engagement du secteur**
    1. **Engagement par groupe**
    1. **Engagement par catégorie**
    1. **Engagement par ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Dans la section **Analyse de Dimension** , définissez les dimensions pertinentes pour chaque onglet, comme ci-dessous :
+1. Dans la section **Analyses Dimension** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous :
 
 <table> 
  <thead> 
   <tr> 
    <th> 
     <div>
-      Nom de l’onglet 
+      Nom de l'onglet 
     </div></th> 
    <th> 
     <div>
-      Analyse des Dimensions 
+      Analyses Dimension détaillées 
     </div></th> 
   </tr> 
  </thead> 
@@ -168,7 +168,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
    <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Engagement du secteur industriel</td> 
+   <td>Engagement de l'industrie</td> 
    <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
  </tbody> 
@@ -204,31 +204,31 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
  <tbody> 
   <tr> 
    <td><p>Inclure</p></td> 
-   <td><p>Catégorie d’événement</p></td> 
+   <td><p><span class="uicontrol">Catégorie d’événement</span></p></td> 
    <td>Regex</td> 
    <td>RTP-Campagnes|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">Filtrez tous les autres événements personnalisés qui ne sont pas liés à la méthode RTP</td> 
+   <td colspan="1">Filtre tous les autres événements personnalisés qui ne sont pas liés au RTP.</td> 
   </tr> 
   <tr> 
    <td>Exclure</td> 
-   <td>Libellé d’événement</td> 
+   <td><span class="uicontrol">Libellé de l’événement</span></td> 
    <td>Regex</td> 
    <td>#</td> 
-   <td colspan="1">Permet de filtrer de votre campagne de rapports à l’aide de # dans le nom de la campagne.</td> 
+   <td colspan="1">Permet de filtrer à partir de la campagne de rapports à l’aide de # dans le nom de la campagne</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Définissez ce rapport de sorte qu’il soit disponible pour **Toutes les données du site Web** (ou modifiez-le si nécessaire).
+1. Définir ce rapport comme étant disponible pour **[!UICONTROL Toutes les données du site Web]** (ou le modifier si nécessaire).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
 >[!MORELIKETHIS]
 >
->[Intégration de RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Intégration du RTP à Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
 >[Tableaux de bord RTP personnalisés dans Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

@@ -4,9 +4,9 @@ description: Présentation de mes jetons dans un programme - Documents Marketo -
 title: Présentation de mes jetons dans un programme
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '414'
 ht-degree: 4%
 
 ---
@@ -46,7 +46,7 @@ Exemples :
   </tr> 
   <tr> 
    <td>Script de l’e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td> 
+   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td> 
   </tr> 
   <tr> 
    <td>Nombre <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -73,7 +73,7 @@ Exemples :
 
 >[!CAUTION]
 >
->Mes jetons ne seront pas résolus lors de l’envoi d’un e-mail de Sales Insight sur Microsoft Dynamics ou Salesforce ; seuls les jetons standard seront renseignés (prospect, entreprise, etc.). Les valeurs par défaut des jetons _vont_ fonctionnent toutefois.
+>Mes jetons ne seront pas résolus lors de l’envoi d’un e-mail de Sales Insight sur [!DNL Microsoft Dynamics] ou [!DNL Salesforce] ; seuls les jetons standard seront renseignés (prospect, société, etc.). Les valeurs par défaut des jetons _vont_ fonctionnent toutefois.
 
 ## Imbrication de jetons {#nesting-tokens}
 

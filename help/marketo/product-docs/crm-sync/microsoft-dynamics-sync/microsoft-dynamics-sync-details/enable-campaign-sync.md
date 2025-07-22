@@ -1,28 +1,28 @@
 ---
-description: Activer la synchronisation Campaign - Documents Marketo - Documentation du produit
+description: Activer la synchronisation de la campagne - Documentation de Marketo - Documentation du produit
 title: Activer la synchronisation de la campagne
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '104'
 ht-degree: 5%
 
 ---
 
 # Activer la synchronisation de la campagne {#enable-campaign-sync}
 
-Cette option permet au Marketo Engage d’ajouter et de supprimer des membres de MS Dynamics Campaign.
+Cette option permet à Marketo d’ajouter et de supprimer des membres d’[!DNL MS Dynamics] Campaign.
 
 >[!PREREQUISITES]
 >
->Mettez à jour vers la dernière version du module externe Dynamics pour Marketo.
+>Effectuez la mise à jour vers la dernière version du plug-in [!DNL Dynamics] pour Marketo.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-1. Dans votre Marketo, cliquez sur **[!UICONTROL Admin]**.
+1. Dans votre **[!UICONTROL Mon Marketo]**, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -30,16 +30,16 @@ Cette option permet au Marketo Engage d’ajouter et de supprimer des membres de
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Sous Options de synchronisation, cliquez sur **[!UICONTROL Modifier]**.
+1. Sous **[!UICONTROL Options de synchronisation]**, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Cochez la case **[!UICONTROL Activer la synchronisation Microsoft Dynamics Campaign]** et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Activer la synchronisation de la campagne Microsoft Dynamics]** puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-campaign-sync-4.png)
 
-Voilà. Donnez simplement un peu de temps à la synchronisation pour extraire les données de Microsoft Dynamics et vous pouvez y aller.
+Voilà, c&#39;est fait. Il vous suffit de laisser le temps à la synchronisation d’extraire les données de [!DNL Microsoft Dynamics] et tout est prêt.
 
 >[!NOTE]
 >
->La réinitialisation de la case à cocher Synchronisation Dynamics Campaign actualise toutes les données Campaign synchronisées précédemment et les associations avec les listes marketing dans Dynamics.
+>La réinitialisation de la case à cocher [!DNL Dynamics] la synchronisation de la campagne actualisera toutes les données de campagne précédemment synchronisées et les associations avec les listes marketing dans [!DNL Dynamics].

@@ -1,31 +1,31 @@
 ---
 unique-page-id: 6848922
-description: Téléchargez la solution de gestion des pistes Marketo - Documents Marketo - Documentation du produit
-title: Téléchargement de la solution de gestion des leads Marketo
+description: Téléchargement de la solution de gestion de lead Marketo - Documentation de Marketo - Documentation du produit
+title: Téléchargement de la solution de gestion des prospects Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Téléchargement de la solution de gestion des leads Marketo {#download-the-marketo-lead-management-solution}
+# Téléchargement de la solution de gestion des prospects Marketo {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Vous devrez télécharger et installer une solution de Marketo Engage dans votre compte Microsoft Dynamics pour démarrer la synchronisation.
+Vous devrez télécharger et installer une solution Marketo dans votre compte [!DNL Microsoft Dynamics] pour que la synchronisation puisse commencer.
 
 >[!CAUTION]
 >
->Vous devez impérativement télécharger la dernière solution Marketo _avant_ d’effectuer une mise à niveau.
+>Il est impératif de télécharger la dernière solution Marketo _avant d_ effectuer une mise à niveau.
 
 >[!NOTE]
 >
->Marketo ne prend en charge que les certificats SSL compatibles avec Java 7 pour le moment.
+>Actuellement, Marketo ne prend en charge que les certificats SSL compatibles avec Java 7.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -43,8 +43,8 @@ Vous devrez télécharger et installer une solution de Marketo Engage dans votre
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Sélectionnez la solution appropriée pour votre version de Microsoft Dynamics.
+1. Sélectionnez la solution appropriée pour votre version de [!DNL Microsoft Dynamics].
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-Super ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil.
+Génial ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil.

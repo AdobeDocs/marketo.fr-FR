@@ -4,7 +4,7 @@ description: Test d’un flux d’engagement - Documents Marketo - Documentation
 title: Tester un stream d'engagement
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 5%
@@ -13,9 +13,9 @@ ht-degree: 5%
 
 # Tester un stream d&#39;engagement {#test-an-engagement-stream}
 
-Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les tester un par un.
+Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez le tester un par un.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/one.png)
 
@@ -23,26 +23,26 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    ![](assets/two.png)
 
-1. Cliquez sur **Actions de programme** et sélectionnez **Flux de test**.
+1. Cliquez sur **[!UICONTROL Actions du programme]** et sélectionnez **[!UICONTROL Flux de test]**.
 
    ![](assets/three.png)
 
-1. Sélectionnez votre personne dans la liste déroulante **Tester la personne** . Rappelez-vous, le contenu va sortir, alors gardez cela à l&#39;esprit lorsque vous choisissez.
+1. Sélectionnez la personne dans le menu déroulant **[!UICONTROL Tester la personne]**. Souvenez-vous que le contenu sera effectivement diffusé, donc gardez cela à l’esprit lors du choix.
 
    ![](assets/four-rubix.png)
 
    >[!CAUTION]
    >
-   >Assurez-vous que votre personne de test est unique et ne comporte pas de doublons dans la base de données.
+   >Assurez-vous que la personne testée est unique et qu’elle n’a pas de doublons dans la base de données.
 
    >[!TIP]
    >
-   >Si la personne de test que vous recherchez n’existe pas, utilisez l’option **Créer une personne** pour en créer une à la volée.
+   >Si la personne que vous recherchez n’existe pas, utilisez l’option **[!UICONTROL Créer une personne]** pour en créer une à la volée.
 
-   Cliquez sur Flux initial, sélectionnez le flux à tester, puis cliquez sur Exécuter le flux.
+   Cliquez sur **[!UICONTROL Flux initial]**, sélectionnez le flux à tester et cliquez sur **[!UICONTROL Exécuter le cast]**.
    ![](assets/five-rubiks.png)
 
-1. Une fois que la personne a consulté les [règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que vous avez précédemment configurées, cliquez sur l’icône Actualiser .
+1. Une fois que la personne a passé en revue les [ règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que vous avez précédemment configurées, cliquez sur l’icône Actualiser .
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +54,4 @@ Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez les te
 
    >[!NOTE]
    >
-   >Aucun autre contenu ne sera envoyé, sauf si vous cliquez sur **Exécuter à nouveau la diffusion**.
+   >Aucun autre contenu ne sera envoyé à moins que vous ne cliquiez de nouveau sur **[!UICONTROL Exécuter le cast]**.

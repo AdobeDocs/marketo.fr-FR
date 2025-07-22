@@ -1,31 +1,31 @@
 ---
-description: Engagement relatif aux modèles - Documents Marketo - Documentation du produit
-title: Engagement du modèle
+description: Engagement des modèles - Documents Marketo - Documentation du produit
+title: Engagement des modèles
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# Engagement du modèle {#template-engagement}
+# Engagement des modèles {#template-engagement}
 
-Suivez les étapes ci-dessous pour afficher l’engagement de votre modèle.
+Suivez les étapes ci-dessous pour afficher votre modèle d’engagement.
 
-1. Accédez à la page **Analytics** .
+1. Accédez à la page **Analytics**.
 
-1. Cliquez sur le bouton **Contenu** et filtrez selon la période souhaitée.
+1. Cliquez sur le bouton **[!UICONTROL Contenu]** et filtrez par période souhaitée.
 
-1. En fonction de la période sélectionnée, dans la partie supérieure de la page, vous pouvez voir le nombre total d’emails et de modèles utilisés par votre équipe.
+1. En fonction de la période sélectionnée, le nombre total d’e-mails et de modèles utilisés dans votre équipe s’affiche en haut de la page.
 
-   En dessous, votre vue est divisée en trois sections :
+   Ci-dessous, votre vue est divisée en trois sections :
 
-   **Arme secrète** - Un modèle qui n’est pas encore partagé au sein de l’équipe et qui reçoit des tonnes d’engagement.
+   **Arme secrète** - Un modèle non encore partagé par toute l&#39;équipe qui reçoit des tonnes d&#39;engagement
 
-   **Meilleur engagement** - Un modèle déjà partagé au sein de l’équipe qui le tue en engagement
+   **Engagement le plus élevé** - Un modèle déjà partagé dans l’équipe qui le tue lors de l’engagement
 
-   **Engagement le plus faible** - Un modèle qui nécessite une réinitialisation de son taux d’engagement (ce modèle peut être partagé ou non dans l’ensemble de l’équipe)
+   **Engagement le plus faible** - Un modèle qui a besoin d’être repensé pour son taux d’engagement (ce modèle peut être partagé ou non avec l’équipe)
 
-   À partir de là, faites défiler l’écran vers le bas et affichez tous les modèles créés au sein de votre équipe en fonction de leurs taux d’affichage au cours de cette période sélectionnée. Au niveau d’un modèle individuel, vous pouvez voir : qui l’a créé, qu’il soit partagé ou non, le nombre d’emails qu’il a utilisé avec lui et les données de tracking (vues, clics, réponses).
+   À partir de là, faites défiler l’écran vers le bas et affichez tous les modèles créés au sein de votre équipe en fonction de leurs taux d’affichage au cours de cette période sélectionnée. Au niveau d’un modèle individuel, vous pouvez voir : qui l’a créé, s’il est partagé ou non, le nombre d’e-mails utilisés avec lui et les données de tracking (vues, clics, réponses).

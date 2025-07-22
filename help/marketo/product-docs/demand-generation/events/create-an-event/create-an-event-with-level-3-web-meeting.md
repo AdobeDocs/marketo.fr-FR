@@ -1,56 +1,56 @@
 ---
 unique-page-id: 7512328
-description: Créer un événement avec une réunion web de niveau 3 - Documents Marketo - Documentation du produit
-title: Créer un événement avec une réunion web de niveau 3
+description: Création d’un événement avec  [!DNL Level 3 Web Meeting] - Documents Marketo - Documentation du produit
+title: Créez un événement avec  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---
 
-# Créer un événement avec une réunion web de niveau 3 {#create-an-event-with-level-web-meeting}
+# Créer un événement avec [!DNL Level 3 Web Meeting] {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
->* [Ajouter une réunion web de niveau 3 en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [Ajouter [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définissez les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour effectuer le suivi de l’engagement
+>* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour suivre l’engagement
 
-Commencez par créer votre webinaire dans le niveau 3. Si vous avez besoin d’aide, consultez la [bibliothèque de ressources de niveau 3](https://www.level3.com/en/resource-library/). Vous verrez que c&#39;est très similaire à BrightTalk.  Marketo utilise un petit sous-ensemble de champs de niveau 3 :
+Créez d’abord votre webinaire dans [!DNL Level 3]. Si vous avez besoin d’aide, consultez la [[!DNL Level 3]  Bibliothèque de ressources ](https://www.level3.com/en/resource-library/). Vous constaterez qu&#39;il ressemble beaucoup à [!DNL BrightTalk].  Marketo utilise un petit sous-ensemble de champs [!DNL Level 3] :
 
-* **Nom** - Nom du webcast.
-* **Date de début** - Date de début du webcast.
-* **Date de fin** - Date de fin du webcast.
-* **Fuseau horaire** - Fuseau horaire défini pour le webcast.
-* **Description** - Description du webcast.
+* **Nom** - Nom de la diffusion web.
+* **Date de début** - Date de début de la diffusion web.
+* **Date de fin** - Date de fin de la diffusion web.
+* **Fuseau horaire** - Fuseau horaire défini pour la diffusion web.
+* **Description** - Description de la diffusion web.
 
-1. Sélectionnez votre nouvel événement. Cliquez sur **Actions d’événement,** puis **Paramètres d’événement.**
+1. Sélectionnez votre nouvel événement. Cliquez sur **[!UICONTROL Actions d’événement],** puis **[!UICONTROL Paramètres d’événement].**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. Sous Event Partner, sélectionnez **Level 3 Web Meeting**.
+1. Sous [!UICONTROL Partenaire de l’événement], sélectionnez **[!UICONTROL Réunion web de niveau 3]**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. Sous Connexion, sélectionnez votre connexion de niveau 3.
+1. Sous [!UICONTROL Connexion], sélectionnez votre connexion [!DNL Level 3].
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. Sous Événement, sélectionnez l’événement de niveau 3 que vous souhaitez utiliser.
+1. Sous [!UICONTROL Événement], choisissez l’événement [!DNL Level 3] que vous souhaitez utiliser.
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   La plus excellente ! Vous avez connecté votre événement au niveau 3 !
+   Excellent ! Vous avez associé votre événement à [!DNL Level 3] !
 
-## Affichage de la planification  {#viewing-the-schedule}
+## Affichage du planning  {#viewing-the-schedule}
 
-Dans la vue de planification du programme, cliquez sur l’entrée de calendrier de votre événement. Vous pouvez voir le planning sur le côté droit de l&#39;écran !
+Dans la vue Planning du programme, cliquez sur l’entrée de calendrier de votre événement. Vous pouvez voir le planning sur le côté droit de l&#39;écran !
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)

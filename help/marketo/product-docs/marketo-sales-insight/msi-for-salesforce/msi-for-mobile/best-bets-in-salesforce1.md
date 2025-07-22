@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7511959
-description: Meilleurs paris dans Salesforce1 - Documents Marketo - Documentation du produit
-title: Meilleurs paris sur Salesforce1
+description: Meilleurs résultats dans Salesforce1 - Documentation de Marketo - Documentation du produit
+title: Meilleurs paris dans Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
-# Meilleurs paris sur Salesforce1 {#best-bets-in-salesforce}
+# [!DNL Best Bets] dans [!DNL Salesforce1] {#best-bets-in-salesforce}
 
-Vos [meilleurs paris](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sont vos pistes et contacts avec la plus grande urgence et le meilleur score relatif. Seules les pistes que vous détenez sont visibles dans cette liste et la liste est mise à jour à mesure que les scores changent.
+Vos [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sont vos leads et contacts avec la plus haute urgence et le score relatif le plus élevé. Seuls les prospects que vous détenez sont visibles dans cette liste qui est mise à jour à mesure que les scores des prospects changent.
 
-1. Accédez à la zone Marketo dans l’application Salesforce.
+1. Accédez à la zone Marketo de l’application [!DNL Salesforce].
 
-   Dans la liste déroulante, vous pouvez sélectionner &quot;Mes meilleurs paris&quot;, &quot;Ma liste de contrôle&quot;, &quot;Activité web&quot;, &quot;Activité web anonyme&quot; ou &quot;Mon e-mail&quot;.
+   Dans la liste déroulante, vous pouvez choisir « [!UICONTROL Mes meilleurs paris] », « [!UICONTROL Ma liste de surveillance] », « [!UICONTROL Activité Web] », « [!UICONTROL Activité Web anonyme] » ou « [!UICONTROL Mon e-mail] ».
 
    ![](assets/one-2.png)
 
 >[!MORELIKETHIS]
 >
->* [Moments intéressants dans Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Envoyer un courrier électronique Marketo et des actions Campaign et Watchlist à Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Moments significatifs dans [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Envoyer un e-mail Marketo et des actions de campagne et de watchlist dans [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

@@ -1,93 +1,93 @@
 ---
 unique-page-id: 2949863
-description: Création d’un événement avec Webex - Documents Marketo - Documentation du produit
-title: Création d’un événement avec Webex
+description: Création d’un événement avec  [!DNL Webex] - Documents Marketo - Documentation du produit
+title: Créez un événement avec  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
 
-# Création d’un événement avec Webex {#create-an-event-with-webex}
+# Créer un événement avec [!DNL Webex] {#create-an-event-with-webex}
 
 Après avoir créé un webinaire dans Webex, vous devrez synchroniser votre événement avec Marketo Engage.
 
 >[!PREREQUISITES]
 >
->* [Ajouter Webex en tant que service LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Ajouter [!DNL Webex] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Définissez les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour suivre l’engagement
+>* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour suivre l’engagement
 
-## Planification de votre webinaire {#schedule-your-webinar}
+## Planifier Votre Webinaire {#schedule-your-webinar}
 
-Vous planifiez votre événement et choisissez vos paramètres préférés dans [Webex](https://www.webex.com/){target="_blank"}. Seules les informations suivantes sont visibles dans Marketo : nom du webinaire, date et heure de début/fin, fuseau horaire et description. Vous trouverez des informations supplémentaires sur les webex Webinars [ici](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
+Vous planifiez votre événement et choisissez vos paramètres préférés dans [Webex](https://www.webex.com/){target="_blank"}. Seules les informations suivantes sont visibles dans Marketo : nom du webinaire, date et heure de début et de fin, fuseau horaire et description. Des informations supplémentaires sur les webinaires Webex [ici](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### Informations de base {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
-* **Topic** : il s’agit de votre nom d’événement et il sera consultable dans Marketo.
-* **Date et heure** : date de début/fin, heure de début/fin, durée et fuseau horaire sont tous visibles dans Marketo.
+* **[!UICONTROL Nom de l’événement] -** Ce nom sera visible dans Marketo.
+* **[!UICONTROL Case à cocher non répertoriée]**
+* **Rubrique** : il s’agit du nom de votre événement qui sera visible dans Marketo.
+* **Date et heure** : la date de début/fin, l’heure de début/fin, la durée et le fuseau horaire peuvent tous être affichés dans Marketo.
 * **Nombre maximal de participants** : le nombre maximal de participants détermine les fonctionnalités Webex prises en charge.
-* **Affichage Web pour les participants** : cochez cette option pour que votre webinaire soit diffusé en direct à tous les participants.
-* **Panelistes** : invitez des personnes spécifiques à être membres de groupes sur votre webinaire.
-* **Programme webinaire** : renseignez ce champ si vous souhaitez fournir du contexte dans l’invitation par courrier électronique envoyée aux listes.
+* **Vue de diffusion web pour les participants** : cochez cette case pour que votre webinaire soit diffusé en direct à tous les participants.
+* **Panélistes** : invitez des personnes spécifiques à être des panélistes dans votre webinaire.
+* **Agenda du webinaire** : renseignez ce champ si vous souhaitez fournir un contexte dans l’invitation par e-mail envoyée aux panélistes.
 
 ### Sécurité {#security}
 
 ![](assets/create-an-event-with-webex-2.png)
 
-* **Mot de passe du webinaire** : (facultatif) Si vous utilisez ce champ, veillez à l’inclure dans votre email de confirmation.
-* **Mot de passe du webinaire** : (facultatif) Si vous utilisez ce champ, veillez à l’inclure dans votre agenda de webinaires.
-* **Require account** : limite les participants aux seuls comptes Webex.
+* **Mot de passe du webinaire** : (facultatif) Si vous utilisez ce champ, veillez à l’inclure dans votre e-mail de confirmation.
+* **Mot de passe de la liste d’experts** : (facultatif) si vous utilisez ce champ, veillez à l’inclure dans votre agenda de webinaire.
+* **Exiger un compte** : limite les participants aux seuls comptes Webex.
 
 ### Options de connexion audio {#audio-connection-options}
 
 ![](assets/create-an-event-with-webex-3.png)
 
-* **Type de connexion audio** : choisissez comment les participants au webinaire rejoignent la partie audio de votre webinaire.
-* **Tons d’entrée et de sortie** : sélectionnez le son que vous souhaitez pour les utilisateurs lorsqu’une personne entre dans le webinaire ou en sort (connexion audio par téléphone requise).
-* **Panelliste muet** : sélectionnez les paramètres de muet de votre choix.
+* **Type de connexion audio** : sélectionnez la manière dont les participants au webinaire rejoignent la partie audio de votre webinaire.
+* **Tonalité d’entrée et de sortie** : sélectionnez le son que vous souhaitez entendre lorsque quelqu’un entre ou sort du webinaire (connexion audio par téléphone requise).
+* **Désactiver le son du panneau** : sélectionnez les paramètres de désactivation du panneau de votre choix.
 
 ### Options avancées {#advanced-options}
 
 ![](assets/create-an-event-with-webex-4.png)
 
-* **Enregistrement automatique** : cochez cette case pour que votre webinaire soit enregistré automatiquement.
-* **Session d’entraînement** : cochez cette option pour qu’une session d’entraînement démarre au début du webinaire.
-* **Sessions de ventilation** : les sessions de ventilation vous permettent de préaffecter des groupes et des participants avant le début du webinaire, ou de les autoriser à se joindre au cours du webinaire.
-* **Série de webinaires** : l’ajout à une série de webinaires permet aux utilisateurs de voir votre webinaire s’il est public ou non.
-* **Enregistrement** : nécessite que les participants s’enregistrent et reçoivent l’approbation de l’hôte avant d’assister.
-* **Rappel d’email** : choisissez un rappel d’email allant de 15 minutes avant que le webinaire ne commence jusqu’à deux jours.
-* **Options de webinaire** : déterminez les fonctionnalités disponibles pour les participants au webinaire.
-* **Droits de participant** : les privilèges de participant déterminent les actions disponibles pour les participants au webinaire.
+* **Enregistrement automatique** : cochez cette case pour enregistrer automatiquement votre webinaire.
+* **Session d’exercices pratiques** : cochez cette case pour qu’une session d’exercices pratiques démarre au début du webinaire.
+* **Sessions en petits groupes** : les sessions en petits groupes vous permettent de pré-affecter des panélistes et des participants avant le début du webinaire, ou de les autoriser à se joindre pendant le webinaire.
+* **Série de webinaires** : l’ajout d’à une série de webinaires permet aux personnes de voir votre webinaire, qu’il soit public ou non.
+* **Inscription** : les participants doivent s&#39;inscrire et recevoir l&#39;approbation de l&#39;hôte avant de participer.
+* **Rappel par e-mail** : sélectionnez un rappel par e-mail compris entre 15 minutes avant le début du webinaire et deux jours.
+* **Options du webinaire** : déterminez les fonctionnalités disponibles pour les participants au webinaire.
+* **Privilèges du participant** : les privilèges du participant déterminent les actions disponibles pour les participants au webinaire.
 
 >[!NOTE]
 >
->L’intégration Marketo-Webex ne peut pas prendre en charge l’envoi d’emails de confirmation en dehors de Webex. La confirmation doit être envoyée via Marketo. Après avoir planifié l’événement, veillez à copier les informations d’événement dans l’e-mail de confirmation Marketo et à définir l’e-mail sur _Operational_.
+>L’intégration Marketo-Webex ne peut pas prendre en charge l’envoi d’e-mails de confirmation en dehors de Webex. La confirmation doit être envoyée via Marketo. Une fois l’événement planifié, veillez à copier les informations de l’événement dans l’e-mail de confirmation Marketo et à définir l’e-mail comme _Opérationnel_.
 
-## Synchronisation de votre événement avec Marketo Engage {#sync-your-event-with-marketo-engage}
+## Synchroniser votre événement avec Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. Dans Marketo, recherchez et sélectionnez le programme d’événements de votre choix. Dans la liste déroulante **Actions d’événement**, sélectionnez **Paramètres d’événement**.
+1. Dans Marketo, recherchez et sélectionnez le programme d’événement souhaité. Dans le menu déroulant **Actions d’événement**, sélectionnez **Paramètres d’événement**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
    >[!NOTE]
    >
-   >Le type de canal de l’événement sélectionné doit être **webinar**.
+   >Le type de canal de l’événement sélectionné doit être **webinaire**.
 
-1. Dans la liste déroulante **Event Partner**, sélectionnez **Webex Webinars**.
+1. Dans le menu déroulant **Partenaire d’événement**, sélectionnez **Webinaires Webex**.
 
    ![](assets/create-an-event-with-webex-6.png)
 
-1. Dans la liste déroulante **Connexion**, sélectionnez votre connexion Webex.
+1. Dans le menu déroulant **Connexion**, choisissez votre connexion Webex.
 
    ![](assets/create-an-event-with-webex-7.png)
 
-1. Dans la liste déroulante **Event**, choisissez votre événement Webex.
+1. Dans le menu déroulant **Événement**, choisissez votre événement Webex.
 
    ![](assets/create-an-event-with-webex-8.png)
 
@@ -95,10 +95,10 @@ Vous planifiez votre événement et choisissez vos paramètres préférés dans 
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Votre événement Webex est maintenant synchronisé avec votre programme d’événements Marketo. Les personnes qui s’inscrivent à votre webinaire seront transférées à votre fournisseur de webinaires via l’étape de flux _Modifier l’état du programme_ lorsque le nouvel état est défini sur &quot;Enregistré&quot;. Aucun autre statut ne repoussera la personne. Veillez à effectuer l’étape de flux _Modifier l’état du programme_ #1 et l’étape de flux _Envoyer un courrier électronique_ #2.
+Votre événement Webex est maintenant synchronisé avec votre programme d’événement Marketo. Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux _Modifier le statut du programme_ lorsque le nouveau statut est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez à ce que les étapes de flux _Modifier le statut du programme_ #1 et _Envoyer un e-mail_ soient #2.
 
-## Informations à noter {#things-to-note}
+## Éléments à noter {#things-to-note}
 
-* Évitez d’utiliser des programmes de messagerie imbriqués pour envoyer vos emails de confirmation. Utilisez plutôt la campagne dynamique de votre programme d’événements.
+* Évitez d’utiliser des programmes de messagerie imbriqués pour envoyer vos e-mails de confirmation. Utilisez plutôt la campagne intelligente du programme d’événement.
 
-* L’affichage des données dans Marketo peut prendre jusqu’à 48 heures. Si, après avoir attendu si longtemps que vous ne voyez toujours rien, cliquez sur **Actualiser à partir du fournisseur de webinaires** dans la liste déroulante **Actions d’événement** de l’onglet **Résumé** de votre programme d’événements.
+* Les données peuvent mettre jusqu’à 48 heures pour apparaître dans Marketo. Si, après avoir attendu si longtemps, vous ne voyez toujours rien, cliquez sur **Actualiser à partir du fournisseur de webinaires** dans le menu déroulant **Actions d’événement** de l’onglet **Résumé** de votre programme d’événement.

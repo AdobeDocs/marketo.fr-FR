@@ -1,35 +1,35 @@
 ---
 unique-page-id: 12981204
-description: Présentation de Predictive Content Analytics - Documents Marketo - Documentation du produit
-title: Présentation de Predictive Content Analytics
+description: Présentation De Predictive Content Analytics - Documentation De Marketo - Documentation Du Produit
+title: Présentation du Content Analytics prédictif
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 12%
+ht-degree: 8%
 
 ---
 
-# Présentation de Predictive Content Analytics {#predictive-content-analytics-overview}
+# Présentation du Content Analytics prédictif {#predictive-content-analytics-overview}
 
-Utilisez l’analyse de contenu pour obtenir des informations supplémentaires sur votre contenu existant, découvrir (en fonction de l’IA et des algorithmes prédictifs) quel contenu convient à vos audiences et augmenter le retour sur investissement de vos efforts marketing.
+Utilisez l’analyse de contenu pour obtenir des informations supplémentaires sur votre contenu existant, découvrir (en fonction de l’IA et des algorithmes prédictifs) le contenu qui fonctionne pour vos audiences et augmenter le retour sur investissement de vos efforts marketing.
 
 >[!NOTE]
 >
->L’onglet Analytics et les fonctionnalités d’analyse de contenu sont disponibles exclusivement avec le contenu prédictif Marketo.
+>L’onglet [!UICONTROL Analytics] et les fonctionnalités d’analyse de contenu sont disponibles exclusivement avec le contenu prédictif Marketo.
 
 ## Vue d’ensemble {#overview}
 
-Sur la page Résumé, cliquez sur **Analytics**.
+Sur la page Résumé, cliquez sur **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-Analytics comprend plusieurs sections : Contenu supérieur par vues, Contenu supérieur par taux de conversion, Contenu de tendance, Contenu suggéré et Contenu.
+[!UICONTROL Analytics] comprend plusieurs sections : [!UICONTROL Contenu principal par vues], [!UICONTROL Contenu principal par taux de conversion], [!UICONTROL Contenu en tendance], [!UICONTROL Contenu suggéré] et [!UICONTROL Contenu].
 
 ![](assets/new-2.png)
 
-Pointez sur le point d’interrogation d’un en-tête de section pour plus de détails.
+Pointez sur le point d’interrogation d’un en-tête de section pour obtenir des détails supplémentaires.
 
 ![](assets/new-3.png)
 
@@ -37,23 +37,23 @@ Cliquez sur le bouton Exporter pour exporter les résultats de cette section via
 
 ![](assets/new-3point5.png)
 
-Vous pouvez filtrer les résultats selon différents attributs/propriétés (par exemple, liste de comptes ABM, pays, etc.).
+Vous pouvez filtrer les résultats en fonction de divers attributs/propriétés (par exemple, [!UICONTROL Liste de comptes ABM], [!UICONTROL Pays], etc.).
 
 ![](assets/pca.png)
 
-Cliquez sur l’icône du calendrier pour modifier les dates des données reflétées. Choisissez une durée prédéfinie ou une période spécifique.
+Cliquez sur l’icône de calendrier pour modifier les dates des données reflétées. Choisissez une durée prédéfinie ou une période spécifique.
 
 ![](assets/dates.png)
 
-## Meilleur contenu par nombre de vues {#top-content-by-views}
+## [!UICONTROL Contenu principal par vues] {#top-content-by-views}
 
-Affiche les principaux éléments de contenu par nombre de vues au cours de la période sélectionnée.
+Affiche les principaux éléments de contenu par nombre de vues par période sélectionnée.
 
 ![](assets/new-6.png)
 
-## Meilleur contenu par taux de conversion {#top-content-by-conversion-rate}
+## [!UICONTROL Contenu principal par taux de conversion] {#top-content-by-conversion-rate}
 
-Affiche le contenu à conversion supérieure par taux de conversion pour la période sélectionnée.
+Affiche le contenu le plus converti par taux de conversion pour la période sélectionnée.
 
 ![](assets/new-7.png)
 
@@ -61,36 +61,36 @@ Affiche le contenu à conversion supérieure par taux de conversion pour la pér
 >
 >**Définition**
 >
->**Taux de conversion** : pourcentage calculé par conversions directes divisé par le nombre de clics.
+>**Taux de conversion** : pourcentage calculé par les conversions directes divisées par les clics.
 
-## Contenu tendance {#trending-content}
+## [!UICONTROL Contenu en tendance] {#trending-content}
 
-Affiche l’augmentation de popularité d’une partie de contenu en observant l’augmentation des vues des deux dernières semaines par rapport à la même période précédente.
+Affiche la montée en popularité d’un élément de contenu en examinant la dernière augmentation de deux semaines des vues par rapport à la même période précédente.
 
 ![](assets/new-8.png)
 
-## Contenu suggéré {#suggested-content}
+## [!UICONTROL  Contenu suggéré ] {#suggested-content}
 
 Affiche le contenu que nous vous suggérons de promouvoir dans vos activités marketing en fonction du filtre que vous avez défini.
 
 ![](assets/image2017-10-3-10-3a18-3a35.png)
 
-Passez la souris sur une image dans Contenu suggéré pour afficher les options disponibles.
+Pointez sur une image dans Contenu suggéré pour afficher les options disponibles.
 
 ![](assets/image2017-10-3-10-3a21-3a37.png)
 
 >[!NOTE]
 >
->Vous voyez ces icônes en bas ? Ils sont de gauche à droite : Afficher le contenu, Exporter au format CSV, Approuver le contenu.
+>Vous voyez ces icônes en bas ? De gauche à droite, ils sont les suivants : [!UICONTROL Afficher le contenu], [!UICONTROL Exporter au format CSV], [!UICONTROL Approuver le contenu].
 
-## Contenu {#content}
+## [!UICONTROL Contenu] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher des détails supplémentaires, notamment : les visiteurs qui le visualisent, les nouveaux visiteurs par rapport aux visiteurs réguliers, connus et anonymes, les principaux emplacements d’où proviennent les visiteurs lors de l’affichage du contenu et les principaux secteurs d’activité dont ils proviennent.
+Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher des détails supplémentaires, notamment : les visiteurs qui l’affichent, les nouveaux visiteurs par rapport aux visiteurs récurrents, les personnes connues et anonymes, les principaux emplacements d’où proviennent les visiteurs lors de l’affichage du contenu et les principaux secteurs d’activité déduits dont ils sont issus.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 
 >[!NOTE]
 >
->Le contenu similaire est basé sur le contenu sélectionné et est calculé par un algorithme d’association de règles. Les résultats représentent des éléments de contenu sur lesquels les visiteurs cliqueront le plus probablement, en fonction de l’élément sélectionné et du comportement des visiteurs précédents. Il ne prend pas en compte le filtre ou la plage de dates.
+>Le contenu similaire est basé sur le contenu sélectionné et est calculé par un algorithme d’association de règles. Les résultats représentent des éléments de contenu sur lesquels les visiteurs cliqueront probablement, en fonction de l’élément sélectionné et du comportement antérieur du visiteur. Il ne prend pas en compte le filtre ou la plage de dates.

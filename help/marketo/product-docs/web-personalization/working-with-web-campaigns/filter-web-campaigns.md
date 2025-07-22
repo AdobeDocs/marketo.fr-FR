@@ -1,35 +1,35 @@
 ---
 unique-page-id: 10098884
-description: Filtrage des campagnes web - Documents Marketo - Documentation du produit
-title: Filtrage des campagnes web
+description: Filtrage Des Campagnes Web - Documents Marketo - Documentation Du Produit
+title: Filtrer les campagnes web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
-# Filtrage des campagnes web {#filter-web-campaigns}
+# Filtrer les campagnes web {#filter-web-campaigns}
 
-Une fois que vous avez créé des centaines de campagnes Web Personalization, il est vraiment utile de pouvoir utiliser des filtres pour afficher uniquement ceux qui vous intéressent.
+Après avoir créé des centaines de campagnes [!DNL Web Personalization], il est vraiment utile de pouvoir utiliser des filtres pour afficher uniquement celles qui vous intéressent.
 
-1. Accédez à **Campagnes Web**.
+1. Accédez à **[!UICONTROL Campagnes web]**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Sur la page Campagnes Web, cliquez sur **Filtrer**.
+1. Sur la page [!UICONTROL  Campagnes web ], cliquez sur **[!UICONTROL Filtrer]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Cochez la case correspondant au Statut et/ou au Type de campagne que vous souhaitez filtrer, par exemple **En pause** ou **Boîte de dialogue**. Cliquez sur **Apply**.
+1. Cochez la case en regard du Statut et/ou du Type de campagne que vous souhaitez filtrer, par exemple **[!UICONTROL En pause]** ou **[!UICONTROL Boîte de dialogue]**. Cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Utilisez la case à cocher **Tout sélectionner** pour sélectionner tout ou le lien **Effacer** pour effacer toutes les cases à cocher.
+   >Utilisez la case à cocher **[!UICONTROL Tout sélectionner]** pour tout sélectionner ou le lien **[!UICONTROL Effacer]** pour tout décocher.
 
 1. Désormais, seules les campagnes correspondant à votre filtre s’affichent.
 

@@ -4,29 +4,29 @@ description: Désactivation d’une campagne - Documents Marketo - Documentation
 title: Désactivation d’une campagne
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
 # Désactivation d’une campagne {#turn-off-a-campaign}
 
-Vous devez mettre fin automatiquement à une campagne lorsqu&#39;un destinataire répond ? Voici comment.
+Besoin de terminer automatiquement une campagne lorsqu&#39;un destinataire répond ? Voici comment procéder.
 
 >[!NOTE]
 >
->Cette option n’est disponible que pour les clients qui sont intégrés à Gmail ou Exchange et dont le suivi des réponses est activé.
+>Cette option n’est disponible que pour les clients intégrés à [!DNL Gmail] ou [!DNL Exchange] et pour lesquels le suivi des réponses est activé.
 
-## Désactivation d’une campagne pour une personne {#turn-off-a-campaign-for-one-person}
+## Désactiver une campagne pour une personne {#turn-off-a-campaign-for-one-person}
 
-Après avoir créé votre campagne, accédez simplement à l’onglet **Paramètres** et choisissez le comportement souhaité de la campagne si quelqu’un répond.
+Une fois votre campagne créée, accédez simplement à l’onglet **[!UICONTROL Paramètres]** et choisissez comment vous souhaitez que la campagne se comporte si quelqu’un répond.
 
-Les deux options mettront fin à la campagne et le destinataire ne recevra plus d&#39;emails de votre part.
+Les deux options mettent fin à la campagne et le destinataire ne reçoit plus d’e-mails de votre part.
 
-## Désactivation d’une campagne pour plusieurs personnes {#turn-off-a-campaign-for-multiple-people}
+## Désactiver une campagne pour plusieurs personnes {#turn-off-a-campaign-for-multiple-people}
 
-Dans le dossier que vous avez envoyé, sélectionnez les contacts à supprimer de la campagne. Le filtre étant défini sur &quot;Tous&quot; afin de capturer toute personne ayant reçu une campagne.
+Dans le dossier d’envoi, sélectionnez les contacts pour les supprimer de la campagne avec le filtre défini sur « [!UICONTROL Tous] » pour capturer toute personne ayant reçu une campagne.
 
 Vous pouvez également accéder directement à la campagne sur laquelle ils se trouvent et les supprimer en bloc.

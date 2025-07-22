@@ -1,20 +1,20 @@
 ---
-description: Gestion des groupes - Documents Marketo - Documentation du produit
-title: Gestion des groupes
+description: Gestion Des Groupes - Documents Marketo - Documentation Du Produit
+title: Gérer les groupes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 2%
+source-wordcount: '344'
+ht-degree: 0%
 
 ---
 
-# Gestion des groupes {#manage-groups}
+# Gérer les groupes {#manage-groups}
 
-Découvrez comment gérer vos groupes dans les actions Sales Insight.
+Découvrez comment gérer vos groupes dans [!DNL Sales Insight Actions].
 
-## Types de groupe {#group-types}
+## Types de groupes {#group-types}
 
 <table> 
  <colgroup> 
@@ -27,112 +27,112 @@ Découvrez comment gérer vos groupes dans les actions Sales Insight.
    <th>Description</th> 
   </tr> 
   <tr> 
-   <td>Toutes les personnes</td> 
-   <td>Tous les contacts de tous les utilisateurs qui vous sont visibles.</td> 
+   <td>[!UICONTROL All People]</td> 
+   <td>Tous les contacts de tous les utilisateurs qui sont visibles pour vous.</td> 
   </tr> 
   <tr> 
-   <td>Groupes dynamiques</td> 
-   <td>Mes contacts : tous les contacts que vous détenez.<br>Se désabonne : contacts qui se sont désabonnés de la réception de la correspondance.</td> 
+   <td>[!UICONTROL Dynamic Groups]</td> 
+   <td>Mes contacts : tous les contacts que vous possédez.<br>Désabonnements : contacts qui se sont désabonnés de la réception de la correspondance.</td> 
   </tr> 
   <tr> 
-   <td>Mes groupes</td> 
-   <td>Groupes que vous avez créés. Ils peuvent contenir vos contacts ou des contacts qui ont été partagés avec vous.</td> 
+   <td>[!UICONTROL My Groups]</td> 
+   <td>Groupes que vous avez créés. Ils peuvent contenir vos contacts ou les contacts qui ont été partagés avec vous.</td> 
   </tr> 
   <tr> 
-   <td>Groupes d’équipes</td> 
-   <td>Groupes qui ont été partagés avec et/ou par vous. Ils peuvent contenir des contacts personnels ou des contacts que vous avez partagés avec vos collègues.</td> 
+   <td>[!UICONTROL Team Groups]</td> 
+   <td>Groupes qui ont été partagés avec vous et/ou par vous. Ils peuvent contenir des contacts que possèdent vos coéquipiers ou des contacts que vous avez partagés avec eux.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Création d’un groupe {#create-a-group}
+## Créer un groupe {#create-a-group}
 
-1. Dans la page Personnes, cliquez sur le **+** en regard de Groupes.
+1. Dans la page [!UICONTROL Personnes], cliquez sur le signe **+** en regard de [!UICONTROL Groupes].
 
    ![](assets/manage-groups-1.png)
 
-1. Nommez votre groupe et cliquez sur **Créer**.
+1. Nommez votre groupe et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/manage-groups-2.png)
 
-   C&#39;est tout !
+   C&#39;est ça !
 
-## Ajout de contacts à un groupe {#add-contacts-to-a-group}
+## Ajouter des contacts à un groupe {#add-contacts-to-a-group}
 
-1. Dans la page Personnes, recherchez et sélectionnez le groupe auquel vous souhaitez ajouter des personnes.
+1. Dans la page [!UICONTROL Personnes], recherchez et sélectionnez le groupe auquel vous souhaitez ajouter des personnes.
 
    ![](assets/manage-groups-3.png)
 
-1. Cliquez sur **Actions de groupe** et sélectionnez **Créer un contact et ajouter au groupe**.
+1. Cliquez sur **[!UICONTROL Actions de groupe]** et sélectionnez **[!UICONTROL Créer un contact et ajouter au groupe]**.
 
    ![](assets/manage-groups-4.png)
 
-1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et ajouter un nouveau** pour en ajouter un autre).
+1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et ajouter nouveau** pour en ajouter un autre).
 
    ![](assets/manage-groups-5.png)
 
-   Et vous avez fini !
+   Et c&#39;est fini !
 
    >[!NOTE]
    >
-   >Vous devrez peut-être appuyer sur Actualiser pour voir les nouveaux contacts ajoutés.
+   >Vous devrez peut-être cliquer sur Actualiser pour afficher les nouveaux contacts ajoutés.
 
 ## Partage d’un groupe {#share-a-group}
 
-1. Sur la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez partager.
+1. Dans la page [!UICONTROL Personnes], recherchez et sélectionnez le groupe que vous souhaitez partager.
 
    ![](assets/manage-groups-6.png)
 
-1. Cliquez sur le point (trois points verticaux) et sélectionnez **Partager**.
+1. Cliquez sur le point (trois points verticaux) et sélectionnez **[!UICONTROL Partager]**.
 
    ![](assets/manage-groups-7.png)
 
-1. Cliquez sur la liste déroulante, sélectionnez l’équipe avec laquelle vous souhaitez partager le groupe et cliquez sur **Partager**.
+1. Cliquez sur la liste déroulante, sélectionnez l’équipe avec laquelle vous souhaitez partager le groupe, puis cliquez sur **[!UICONTROL Partager]**.
 
    ![](assets/manage-groups-8.png)
 
-   Vous êtes toujours propriétaire du groupe, mais il apparaîtra désormais sous _Groupe d’équipes_.
+   Le groupe vous appartient toujours, mais il apparaît désormais sous _Groupes d’équipes_.
 
-## Annulation du partage d’un groupe {#unshare-a-group}
+## Annuler le partage d’un groupe {#unshare-a-group}
 
-1. Dans la page Personnes, recherchez et sélectionnez le groupe dont vous souhaitez annuler le partage.
+1. Dans la page [!UICONTROL Personnes], recherchez et sélectionnez le groupe que vous souhaitez annuler le partage.
 
    ![](assets/manage-groups-9.png)
 
-1. Cliquez sur le point (trois points verticaux) et sélectionnez **Partager**.
+1. Cliquez sur le point (trois points verticaux) et sélectionnez **[!UICONTROL Partager]**.
 
    ![](assets/manage-groups-10.png)
 
-1. Cliquez sur le **X** en regard de l’équipe avec laquelle vous avez partagé le groupe, puis cliquez en dehors du modal.
+1. Cliquez sur le **X** en regard de l’équipe avec laquelle vous avez partagé le groupe, puis cliquez sur en dehors de la boîte de dialogue modale.
 
    ![](assets/manage-groups-11.png)
 
-   Le partage du groupe est désormais annulé.
+   Le groupe n’est plus partagé.
 
 ## Renommer un groupe {#rename-a-group}
 
-1. Dans la page Personnes, recherchez et sélectionnez le groupe que vous souhaitez renommer.
+1. Dans la page [!UICONTROL Personnes], recherchez et sélectionnez le groupe à renommer.
 
    ![](assets/manage-groups-12.png)
 
-1. Cliquez sur le point (trois points verticaux) et sélectionnez **Modifier**.
+1. Cliquez sur le point (trois points verticaux) et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/manage-groups-13.png)
 
-1. Saisissez le nouveau nom et cliquez sur **Enregistrer**.
+1. Saisissez le nouveau nom et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/manage-groups-14.png)
 
 ## Suppression d’un groupe {#delete-a-group}
 
-1. Dans la page Personnes, recherchez et sélectionnez le groupe à supprimer.
+1. Dans la page Personnes , recherchez et sélectionnez le groupe à supprimer.
 
    ![](assets/manage-groups-15.png)
 
-1. Cliquez sur le point (trois points verticaux) et sélectionnez **Supprimer**.
+1. Cliquez sur le point (trois points verticaux) et sélectionnez **[!UICONTROL Supprimer]**.
 
    ![](assets/manage-groups-16.png)
 
-1. Cliquez sur **Supprimer** pour confirmer.
+1. Cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
 
    ![](assets/manage-groups-17.png)

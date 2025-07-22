@@ -1,70 +1,70 @@
 ---
 unique-page-id: 2360018
-description: Ajout de colonnes d’opportunité à un rapport de piste - Documents Marketo - Documentation du produit
-title: Ajout de colonnes d’opportunité à un rapport de piste
+description: Ajout de colonnes Opportunité à un rapport de prospect - Documents Marketo - Documentation du produit
+title: Ajout de colonnes d’opportunités à un rapport de leads
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 12%
+ht-degree: 0%
 
 ---
 
-# Ajout de colonnes d’opportunité à un rapport de piste {#add-opportunity-columns-to-a-lead-report}
+# Ajout de colonnes d’opportunités à un rapport de leads {#add-opportunity-columns-to-a-lead-report}
 
 Pour afficher les statistiques sur les opportunités dans vos rapports de personne, vous pouvez ajouter des colonnes d’opportunités.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **Configuration** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **[!UICONTROL Configuration]**.
 
    ![](assets/two.png)
 
-1. Double-cliquez sur **Colonnes d’opportunité**.
+1. Double-cliquez sur **[!UICONTROL Colonnes d’opportunité]**.
 
    ![](assets/three.png)
 
-1. Sélectionnez **Afficher** dans le menu déroulant.
+1. Sélectionnez **[!UICONTROL Affiché]** dans le menu déroulant.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Cliquez sur l’onglet **Rapport** pour afficher votre rapport avec des mesures d’opportunité.
+1. Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport avec les mesures d’opportunité.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Faites défiler vers la droite pour afficher d’autres colonnes.
+   >Faire défiler vers la droite pour afficher plus de colonnes.
 
-1. Pour [ajouter ou supprimer des colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), cliquez sur l’en-tête d’une colonne et sélectionnez **Colonnes**.
+1. Pour [ajouter ou supprimer des colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), cliquez sur l’en-tête d’une colonne et sélectionnez **[!UICONTROL Colonnes]**.
 
    ![](assets/six.png)
 
-   Les colonnes des opportunités disponibles sont les suivantes :
+   Les colonnes d’opportunités disponibles sont les suivantes :
 
    >[!NOTE]
    >
-   >Chaque opportunité n&#39;est comptabilisée qu&#39;une seule fois, en fonction du contact principal qui lui est affecté.
+   >Chaque opportunité n’est comptabilisée qu’une seule fois, en fonction du contact principal qui lui est affecté.
 
    | Colonne | Description |
    |---|---|
-   | Aucune opportunité | Nombre de personnes qui *ne sont pas* un contact d’opportunité principal. |
-   | Jours sans opportunité | Âge moyen, en jours, des personnes qui *ne sont pas* un contact principal. |
-   | A une opportunité | Nombre de personnes qui constituent un contact d’opportunité principal. |
-   | Présente une opportunité % | Pourcentage de personnes qui sont un contact d&#39;opportunité principal. |
-   | Jours jusqu&#39;à l&#39;opportunité | Nombre moyen de jours pour la conversion d’une personne à un contact de l’opportunité principale. |
-   | Total du montant de l&#39;opportunité | Somme de tous les montants des opportunités. |
-   | Quantité moyenne d&#39;opportunités | Somme du nombre d&#39;opportunités, divisé par le nombre d&#39;opportunités. |
-   | Total des opportunités | Nombre de toutes les opportunités. |
-   | Fermées | Nombre d’opportunités qui ont été fermées, gagnées ou perdues. |
-   | Remportée | Nombre d’opportunités qui ont été gagnées. |
-   | % Confirmées | Pourcentage d&#39;opportunités qui ont été gagnées. |
-   | Total des quantités confirmées | Somme du montant des opportunités gagnées. |
-   | Jours jusqu&#39;à la fermeture | Nombre moyen de jours avant la clôture des opportunités. |
-   | Jours dans les ventes | Durée moyenne du cycle de vente (Jours jusqu&#39;à l&#39;opportunité + Jours jusqu&#39;à la fermeture). |
+   | [!UICONTROL Aucune opportunité] | Nombre de personnes qui ne sont *pas* un contact principal de l’opportunité. |
+   | [!UICONTROL Jours sans opportunité] | Âge moyen, en jours, des personnes qui ne sont *pas* un contact principal. |
+   | [!UICONTROL A une opportunité] | Nombre de personnes qui sont le contact principal de l’opportunité. |
+   | [!UICONTROL A L’Opportunité %] | Pourcentage de personnes qui sont le contact principal de l’opportunité. |
+   | [!UICONTROL  Jours Avant L’Opportunité ] | Nombre moyen de jours nécessaire pour convertir un contact de personne en contact d&#39;opportunité principal. |
+   | [!UICONTROL Montant total de l’opportunité] | Somme de tous les montants de l’opportunité. |
+   | [!UICONTROL Montant moyen de l’opportunité] | Somme des montants des opportunités, divisée par le nombre d’opportunités. |
+   | [!UICONTROL Opportunité totale] | Nombre de toutes les opportunités. |
+   | [!UICONTROL Fermé] | Nombre d’opportunités qui ont été clôturées, gagnées ou perdues. |
+   | [!UICONTROL Gagné] | Nombre d’opportunités qui ont été conclues. |
+   | [!UICONTROL  % Gagné] | Pourcentage d’opportunités qui ont été gagnées. |
+   | [!UICONTROL Montant total gagné] | Somme des montants des opportunités confirmées. |
+   | [!UICONTROL Jours avant la fermeture] | Nombre moyen de jours pour fermer les opportunités. |
+   | [!UICONTROL Jours de soldes] | Durée moyenne du cycle de vente (jours avant l&#39;opportunité + jours avant la fermeture). |
 
    >[!MORELIKETHIS]
    >

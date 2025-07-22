@@ -1,66 +1,66 @@
 ---
 unique-page-id: 14352621
-description: Présentation des options d’envoi - Documents Marketo - Documentation du produit
-title: Présentation des options d’envoi
+description: Présentation Des Options D’Envoi - Documents Marketo - Documentation Du Produit
+title: Comprendre les options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-# Présentation des options d’envoi {#understanding-send-options}
+# Comprendre les options d’envoi {#understanding-send-options}
 
-Lorsque vous créez une campagne, vous disposez de plusieurs options pour créer vos étapes d’email dans Sales Connect. En outre, en fonction de l’emplacement de votre email dans votre campagne, vos options diffèrent également.
+Lorsque vous créez une campagne, vous disposez de plusieurs options sur la manière dont les étapes d’e-mail sont créées dans [!DNL Sales Connect]. De plus, selon l’emplacement de votre e-mail dans votre campagne, vos options diffèrent également.
 
-Si c&#39;est votre première étape et le premier jour de votre campagne, vous disposez des options suivantes :
+S’il s’agit de votre première étape et du premier jour de votre campagne, les options suivantes s’offrent à vous :
 
 ![](assets/image2019-10-25-10-43-19.png)
 
-**Je choisirai quand envoyer cet email**
+**Je choisirai quand envoyer cet e-mail**
 
-* Cette option vous permet de choisir l’heure &quot;d’envoi&quot; du premier email dans votre campagne lorsque vous lancez la campagne en ajoutant des personnes.
+* Cette option vous permet de choisir l’heure d’envoi du premier e-mail de votre campagne lorsque vous lancez la campagne en ajoutant des personnes.
 
-**Envoyez cet email à l&#39;heure suivante**
+**Envoyez cet e-mail au moment suivant**
 
-* Lorsque vous lancez votre campagne en y ajoutant des personnes, nous planifions l&#39;email pour cette heure.
-* Vous avez toujours la possibilité de choisir un nouveau moment &quot;envoyer à&quot; lorsque vous lancez votre campagne.
+* Lorsque vous lancez votre campagne en y ajoutant des personnes, l’e-mail est programmé pour cette heure.
+* Vous avez toujours la possibilité de choisir un nouveau moment d’envoi pour le lancement de votre campagne.
 
-**Créez une tâche ; j’enverrai cet email moi-même**
+**Créer une tâche ; j&#39;enverrai cet e-mail moi-même**
 
-* Cette option crée une tâche de courrier électronique (et la synchronisation avec Salesforce) que vous pouvez envoyer à votre convenance.
-* Une fois cette sélection effectuée, lorsque vous démarrez votre campagne, nous mettrons ces tâches en file d’attente pour vous dans le Centre de commandes et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou programmer) chaque email avant qu&#39;il ne sorte.
+* Cette option crée une [!UICONTROL Tâche d’e-mail] (et la synchronise sur [!DNL Salesforce]) que vous pouvez envoyer à votre convenance.
+* Une fois cette sélection effectuée, lorsque vous lancez votre campagne, ces tâches sont mises en file d’attente pour vous dans le centre de commande et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou planifier) chaque e-mail avant qu’il ne soit envoyé.
 
-   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse email de votre contact, l’objet de votre email et le modèle que vous avez choisi.
-   * Si vous ouvrez cette tâche dans Gmail ou Outlook, une fenêtre de composition native s’ouvre et vous renseignez dynamiquement l’adresse électronique de votre contact, l’objet de votre email et le modèle que vous avez choisi.
+   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
+   * Si vous ouvrez cette tâche dans [!DNL Gmail] ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
 
-Pour tous les jours/étapes suivants de votre campagne, vous disposez des options suivantes :
+Pour les jours/étapes suivants de votre campagne, vous disposez des options suivantes :
 
-**Envoyez cet email en même temps que l&#39;email précédent dans cette campagne**
+**Envoyez cet e-mail en même temps que l’e-mail précédent dans cette campagne**
 
-* Cette option enverra l&#39;email en même temps que celui qui le précède directement.
-* Il sera toujours envoyé le jour où il sera associé.
+* Cette option envoie l’e-mail en même temps que l’e-mail directement avant lui.
+* Il sera toujours envoyé le jour auquel il est associé.
 
 >[!IMPORTANT]
 >
->L’envoi d’un email en même temps que le précédent email n’est pas pris en charge pour les emails envoyés le même jour. L’email sera envoyé au moment de l’envoi à partir du jour précédent. Si cette option est sélectionnée pour un email le premier jour de la campagne (non recommandée), cet email sera envoyé immédiatement au début de la campagne.
+>L&#39;envoi d&#39;un e-mail en même temps que l&#39;e-mail précédent n&#39;est pas pris en charge pour les e-mails envoyés le même jour. Au lieu de cela, l’e-mail sera envoyé au moment de l’e-mail envoyé à partir de la veille. Si cette option est sélectionnée pour un e-mail le premier jour de la campagne (non recommandé), cet e-mail sera envoyé immédiatement au début de la campagne.
 
-**Envoyez cet email à l&#39;heure suivante**
+**Envoyez cet e-mail au moment suivant**
 
-* Lorsque vous lancez votre campagne en y ajoutant des personnes, nous planifions l&#39;email pour cette heure.
-* Vous avez toujours la possibilité de choisir un nouveau moment &quot;envoyer à&quot; lorsque vous lancez votre campagne.
+* Lorsque vous lancez votre campagne en y ajoutant des personnes, l’e-mail est programmé pour cette heure.
+* Vous avez toujours la possibilité de choisir un nouveau moment d’envoi pour le lancement de votre campagne.
 
-**Créez une tâche ; j’enverrai cet email moi-même**
+**Créer une tâche ; j&#39;enverrai cet e-mail moi-même**
 
-* Cette option crée une tâche de courrier électronique (et la synchronisation avec Salesforce) que vous pouvez envoyer à votre convenance.
-* Une fois que vous avez effectué cette sélection, lorsque vous lancez votre campagne, Tout mettra ces tâches en file d’attente pour vous dans le Centre de commandes et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou programmer) chaque email avant qu&#39;il ne sorte.
+* Cette option crée une [!UICONTROL Tâche d’e-mail] (et la synchronise sur [!DNL Salesforce]) que vous pouvez envoyer à votre convenance.
+* Une fois cette sélection effectuée, lorsque vous lancez votre campagne, Tout met ces tâches en file d’attente pour vous dans le centre de commande et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou planifier) chaque e-mail avant qu’il ne soit envoyé.
 
-   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse email de votre contact, l’objet de votre email et le modèle que vous avez choisi.
-   * Si vous ouvrez cette tâche dans Gmail ou Outlook, une fenêtre de composition native s’ouvre et vous renseignez dynamiquement l’adresse électronique de votre contact, l’objet de votre email et le modèle que vous avez choisi.
+   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
+   * Si vous ouvrez cette tâche dans [!DNL Gmail] ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
 
-**Passez cet email à l&#39;email précédent**
+**Relier cet e-mail au précédent**
 
-* Cette option d’envoi sera un &quot;relance&quot; de votre email précédent et ajoutera le corps de l’email précédent au bas de cet email.
+* Cette option d’envoi sera un « suivi » de votre e-mail précédent et ajoutera le corps de l’e-mail précédent au bas de cet e-mail.
 

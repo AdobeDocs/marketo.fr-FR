@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2359649
-description: Modifier le texte du bouton Envoyer du formulaire - Documents Marketo - Documentation du produit
-title: Modifier le texte du bouton d’envoi de formulaire
+description: Modification Du Texte Du Bouton D’Envoi Du Formulaire - Documents Marketo - Documentation Du Produit
+title: Modifier le texte du bouton Envoyer du formulaire
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Modifier le texte du bouton d’envoi de formulaire {#change-form-submit-button-text}
+# Modifier le texte du bouton Envoyer du formulaire {#change-form-submit-button-text}
 
-Vous pouvez changer rapidement et facilement un bouton de formulaire de &quot;Envoyer&quot; à n’importe quel autre mot. Voici comment.
+Vous pouvez remplacer rapidement et facilement le bouton « Envoyer » d’un formulaire par n’importe quel autre mot. Voici comment procéder.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Sélectionnez le bouton et modifiez le **libellé**.
+1. Sélectionnez le bouton et modifiez le **[!UICONTROL libellé]**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
    >[!TIP]
    >
-   >Vous pouvez également modifier le libellé d’attente. Cette option s’affiche une fois que vous avez cliqué sur le bouton et avant que l’action d’envoi du formulaire ne soit terminée.
+   >Vous pouvez également modifier le libellé d’attente. Elle s’affiche après avoir cliqué sur le bouton et avant la fin de l’action d’envoi du formulaire.
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 

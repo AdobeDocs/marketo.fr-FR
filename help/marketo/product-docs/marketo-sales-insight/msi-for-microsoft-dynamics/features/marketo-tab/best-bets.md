@@ -1,23 +1,23 @@
 ---
-description: Meilleurs paris - Documentation Marketo - Documentation du produit
+description: Bons plans - Documents Marketo - Documentation du produit
 title: Meilleurs paris
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 14%
+source-wordcount: '71'
+ht-degree: 2%
 
 ---
 
-# Meilleurs paris {#best-bets}
+# [!DNL Best Bets] {#best-bets}
 
-L’onglet Meilleurs paris comprend une liste de tous vos prospects en fonction de leur priorité, calculée à l’aide de l’urgence et du score relatif.
+L’onglet [!UICONTROL  Meilleurs résultats ] comprend une liste de tous vos leads en fonction de leur priorité, calculée à l’aide de l’urgence et du score relatif.
 
-En cliquant sur le menu de points sous la colonne Actions , vous pouvez utiliser des options d’engagement telles que :
-* Envoyer l&#39;e-mail Marketo
-* Ajouter à la campagne Marketo
+En cliquant sur le menu en forme de point dans la colonne Actions, vous pouvez utiliser des options d’engagement telles que :
+* [!UICONTROL Envoyer un e-mail Marketo]
+* [!UICONTROL Ajouter à Marketo Campaign]
 
-Vous pouvez également sélectionner plusieurs pistes dans l’onglet Meilleurs jeux et choisir _Envoyer un courrier électronique Marketo_ ou _Ajouter à Marketo Campaign_.
+Vous pouvez également sélectionner plusieurs prospects dans l’onglet [!DNL Best Bets] et choisir _[!UICONTROL Envoyer un e-mail Marketo]_ ou _[!UICONTROL Ajouter à Marketo Campaign]_.
 
 ![](assets/best-bets-1.png)

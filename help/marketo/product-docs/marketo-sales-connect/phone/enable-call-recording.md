@@ -1,36 +1,36 @@
 ---
 unique-page-id: 45416564
-description: Activer l’enregistrement des appels - Documents Marketo - Documentation du produit
-title: Activation de l’enregistrement des appels
+description: Activer l’enregistrement d’appels - Documents Marketo - Documentation du produit
+title: Activer l’enregistrement des appels
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Activation de l’enregistrement des appels {#enable-call-recording}
+# Activer l’enregistrement des appels {#enable-call-recording}
 
-En tant qu’administrateur, vous pouvez activer l’enregistrement des appels pour vos appels Sales Connect . L’enregistrement des appels de votre équipe peut être un excellent moyen d’orienter vos représentants commerciaux sur les bonnes pratiques d’appel.
+En tant qu’administrateur, vous pouvez activer l’enregistrement des appels pour vos appels [!DNL Sales Connect]. L&#39;enregistrement des appels de votre équipe peut être un excellent moyen de guider vos représentants commerciaux sur les meilleures pratiques d&#39;appel.
 
-1. Cliquez sur l’icône Paramètres et sélectionnez **Paramètres**.
+1. Cliquez sur l’icône Paramètres et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/one.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Général**.
+1. Sous [!UICONTROL Paramètres d’administration], cliquez sur **[!UICONTROL Général]**.
 
    ![](assets/two.png)
 
-1. Faites défiler l’écran jusqu’à Paramètres du téléphone de Sales Connect et sélectionnez la bascule **Activer l’enregistrement des appels** .
+1. Faites défiler jusqu’à [!DNL Sales Connect] Paramètres du téléphone et sélectionnez le bouton (bascule) **[!UICONTROL Activer l’enregistrement des appels]**.
 
    ![](assets/three.png)
 
-1. Si vous souhaitez offrir à vos vendeurs la possibilité d’activer ou de désactiver l’enregistrement des appels pour eux-mêmes, cliquez sur **Enregistrement facultatif pour tous les membres de l’équipe**. Si vous souhaitez que tous les appels soient enregistrés automatiquement, cliquez sur **Enregistrer tous les appels**.
+1. Si vous souhaitez donner à vos vendeurs la possibilité d&#39;activer ou de désactiver l&#39;enregistrement des appels, cliquez sur **[!UICONTROL Enregistrement facultatif pour tous les membres de l&#39;équipe]**. Si vous souhaitez que tous les appels soient enregistrés automatiquement, cliquez sur **[!UICONTROL Enregistrer tous les appels]**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Paramètres de consentement à deux parties](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
+>[Paramètres de consentement des deux parties](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951220
-description: Création d’un rapport sur les performances des personnes avec les colonnes de la plateforme mobile - Documents Marketo - Documentation du produit
-title: Création d’un rapport sur les performances des personnes avec des colonnes Mobile Platform
+description: Créer un rapport de performances des personnes avec des colonnes de plateforme mobile - Documents Marketo - Documentation du produit
+title: Créer un rapport de performances des personnes avec des colonnes de Mobile Platform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-# Création d’un rapport sur les performances des personnes avec des colonnes Mobile Platform {#build-a-people-performance-report-with-mobile-platform-columns}
+# Créer un rapport de performances des personnes avec des colonnes de Mobile Platform {#build-a-people-performance-report-with-mobile-platform-columns}
 
-Pour créer un rapport Performance des personnes avec des colonnes de plateforme mobile (iOS/Android), procédez comme suit.
+Pour créer un rapport de performances des personnes avec des colonnes de plateforme mobile (iOS/Android), procédez comme suit.
 
-## Création de listes dynamiques mobiles {#create-mobile-smart-lists}
+## Créer des listes dynamiques mobiles {#create-mobile-smart-lists}
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/ma.png)
 
@@ -25,84 +25,84 @@ Pour créer un rapport Performance des personnes avec des colonnes de plateforme
 
    ![](assets/two-1.png)
 
-1. Sous **New**, sélectionnez **New Local Asset**.
+1. Sous **[!UICONTROL Nouveau]**, sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/three-1.png)
 
-1. Cliquez sur **Liste dynamique**.
+1. Cliquez sur **[!UICONTROL Liste dynamique]**.
 
    ![](assets/four-1.png)
 
-1. Saisissez un nom et cliquez sur **Créer**.
+1. Saisissez un nom, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/five-1.png)
 
-1. Recherchez et faites glisser le filtre Courrier électronique ouvert dans la zone de travail.
+1. Recherchez le filtre [!UICONTROL E-mail ouvert] et faites-le glisser dans la zone de travail.
 
    ![](assets/six-1.png)
 
-1. Définissez Email sur **est n’importe quel**.
+1. Définissez E-mail sur **[!UICONTROL est n’importe lequel]**.
 
    ![](assets/seven.png)
 
-1. Cliquez sur **Ajouter la contrainte** et sélectionnez **Plateforme**.
+1. Cliquez sur **[!UICONTROL Ajouter une contrainte]** et sélectionnez **[!UICONTROL Plateforme]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Nous avons utilisé le filtre Courrier électronique ouvert dans cet exemple. Vous pouvez également utiliser le filtre Email cliqué , car il a la contrainte Platform .
+   >Dans cet exemple, nous avons utilisé le filtre [!UICONTROL E-mail ouvert]. Vous pouvez également utiliser le filtre [!UICONTROL E-mail cliqué], car il contient la contrainte Plateforme .
 
-1. Définissez Platform sur **iOS**.
+1. Définissez [!UICONTROL Platform] sur **[!UICONTROL iOS]**.
 
    ![](assets/nine.png)
 
    >[!NOTE]
    >
-   >Au moins une personne doit avoir ouvert l’un de vos emails sur un appareil iOS pour que Marketo vous suggère de le trouver automatiquement. S’il ne s’affiche pas, vous pouvez le saisir manuellement et l’enregistrer.
+   >Au moins une personne doit avoir ouvert l’un de vos e-mails sur un appareil iOS pour que les suggestions automatiques de Marketo puissent le retrouver. S’il n’apparaît pas, vous pouvez le saisir manuellement et l’enregistrer.
 
-   Créez maintenant une deuxième liste dynamique pour la plateforme &quot;Android&quot;. Une fois cela fait, passez à la section suivante.
+   Créez maintenant une deuxième liste dynamique pour la plateforme « Android ». Une fois que c&#39;est fait, passez à la section suivante.
 
-## Création d’un rapport Performance des personnes {#create-a-people-performance-report}
+## Créer un rapport de performances des personnes {#create-a-people-performance-report}
 
-1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **iOS** et **Android**.
+1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **[!UICONTROL iOS]** et **[!UICONTROL Android]**.
 
    ![](assets/ten.png)
 
-1. Sous **New**, sélectionnez **New Local Asset**.
+1. Sous **[!UICONTROL Nouveau]**, sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/eleven.png)
 
-1. Cliquez sur **Report**.
+1. Cliquez sur **[!UICONTROL Rapport]**.
 
    ![](assets/twelve.png)
 
-1. Définissez le type sur **Performance des personnes**.
+1. Définissez Type sur **[!UICONTROL Performances des personnes]**.
 
    ![](assets/thirteen.png)
 
-1. Cliquez sur **Créer**.
+1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/fourteen.png)
 
-   Tu t&#39;en sors bien ! Passons à la section suivante.
+   Vous vous en sortez bien ! Passez maintenant à la section suivante.
 
-## Ajout de listes dynamiques mobiles en tant que colonnes {#add-mobile-smart-lists-as-columns}
+## Ajouter des listes dynamiques mobiles en tant que colonnes {#add-mobile-smart-lists-as-columns}
 
-1. Dans le rapport que vous venez de créer, cliquez sur **Configuration**, puis faites glisser **Colonnes personnalisées** dans la zone de travail.
+1. Dans le rapport que vous venez de créer, cliquez sur **[!UICONTROL Configuration]**, puis faites glisser **[!UICONTROL Colonnes personnalisées]** dans la zone de travail.
 
    ![](assets/fifteen.png)
 
    >[!NOTE]
    >
-   >Par défaut, le rapport Performance des personnes examine les 7 derniers jours. Vous pouvez modifier la période en double-cliquant dessus.
+   >Par défaut, le rapport Performances des personnes examine les 7 derniers jours. Vous pouvez modifier la période en double-cliquant dessus.
 
-1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment et cliquez sur **Appliquer**.
+1. Recherchez et sélectionnez les listes dynamiques que vous avez créées précédemment et cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/sixteen.png)
 
-1. Cliquez sur **Rapport** pour exécuter le rapport et afficher vos données.
+1. Cliquez sur **[!UICONTROL Rapport]** pour exécuter le rapport et afficher vos données.
 
    ![](assets/seventeen.png)
 
-   Plutôt cool, n&#39;est-ce pas ? C&#39;est joli !
+   Plutôt cool, non ? Bien joué !

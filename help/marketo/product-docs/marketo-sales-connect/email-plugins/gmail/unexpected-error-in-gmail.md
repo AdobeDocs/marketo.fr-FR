@@ -4,7 +4,7 @@ description: Erreur inattendue dans Gmail - Documents Marketo - Documentation du
 title: Erreur inattendue dans Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # Erreur inattendue dans Gmail {#unexpected-error-in-gmail}
 
-Si vous recevez une &quot;erreur inattendue&quot; dans Gmail lors de l’envoi d’un email, vous devez probablement effectuer une réinitialisation de votre connexion Gmail.
+Si vous recevez une « Erreur inattendue » dans Gmail lorsque vous essayez d’envoyer un e-mail, vous devez probablement réinitialiser votre connexion Gmail.
 
-1. Accédez à **Paramètres** > **Suivi des emails** > **Gérer**.
+1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Suivi des e-mails]** > **[!UICONTROL Gérer]**.
 
-1. Cliquez sur **Déconnecter de Gmail**.
+1. Cliquez sur **[!UICONTROL Se déconnecter de Gmail]**.
 
-1. Après la déconnexion, cliquez sur **Se connecter à Google**.
+1. Après la déconnexion, cliquez sur **[!UICONTROL Se connecter à Google]**.
 
-   Une fois que vous êtes reconnecté, revenez à Gmail et actualisez votre page, puis essayez de réenvoyer votre email. Si cela ne fonctionne toujours pas, [soumettez un ticket](https://nation.marketo.com/t5/Support/ct-p/Support) à notre équipe d’assistance.
+   Une fois la reconnexion établie, revenez à Gmail, actualisez la page et réessayez d’envoyer l’e-mail. Si cela ne fonctionne toujours pas, [envoyez un ticket](https://nation.marketo.com/t5/Support/ct-p/Support) à notre équipe d’assistance.

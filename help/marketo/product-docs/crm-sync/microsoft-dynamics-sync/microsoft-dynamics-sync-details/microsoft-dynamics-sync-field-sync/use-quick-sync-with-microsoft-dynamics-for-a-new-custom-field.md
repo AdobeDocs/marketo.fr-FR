@@ -4,26 +4,26 @@ description: Utilisation de la synchronisation rapide avec Microsoft Dynamics po
 title: Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---
 
-# Utilisation de la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+# Utilisation de la synchronisation rapide avec [!DNL Microsoft Dynamics] pour un nouveau champ personnalisé {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
-Marketing ou ventes souhaite un nouveau champ. Ou peut-être en avez-vous oublié une dans votre sélection initiale de champ. Ou vos besoins ont changé. Dans tous les cas, vous pouvez utiliser la synchronisation rapide pour resynchroniser des champs spécifiques.
+Marketing ou Ventes souhaite un nouveau champ. Ou peut-être en avez-vous oublié un lors de la sélection initiale du champ. Ou vos besoins ont changé. Dans tous les cas, vous pouvez utiliser la synchronisation rapide pour resynchroniser des champs spécifiques.
 
-Normalement, vous utiliserez la synchronisation rapide pour ajouter un nouveau champ et actualiser les valeurs. Cependant, il peut arriver que vous souhaitiez synchroniser un champ existant. Vous pouvez restreindre la synchronisation des champs en fonction d’une période mise à jour ou créée. Pour plus d’informations, voir [Options de synchronisation avancées](#Advanced_Sync_Options) ci-dessous.
+En règle générale, vous utiliserez la synchronisation rapide pour ajouter un nouveau champ et actualiser les valeurs. Cependant, il existe des cas où vous souhaiteriez synchroniser un champ existant. Vous pouvez restreindre la synchronisation des champs en fonction d’une période mise à jour ou créée. Consultez [Options de synchronisation avancées](#Advanced_Sync_Options) ci-dessous pour plus d’informations.
 
-La synchronisation rapide peut synchroniser des valeurs nulles. Par exemple, si vous utilisez les valeurs A et B et que vous modifiez une valeur B dans Dynamics en null, la valeur null sera synchronisée dans Marketo.
+La synchronisation rapide peut synchroniser les valeurs nulles. Par exemple, si vous utilisez les valeurs A et B et modifiez une valeur B dans [!DNL Dynamics] sur null, la valeur null sera synchronisée sur Marketo.
 
 ## Synchronisation rapide pour tous les enregistrements {#quick-sync-for-all-records}
 
-Voici comment utiliser la synchronisation rapide pour effectuer une nouvelle synchronisation pour les nouveaux champs.
+Voici comment utiliser la synchronisation rapide pour resynchroniser de nouveaux champs.
 
-1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
+1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,7 +31,7 @@ Voici comment utiliser la synchronisation rapide pour effectuer une nouvelle syn
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Sur Détails de synchronisation des champs, cliquez sur **[!UICONTROL Modifier]**.
+1. Dans [!UICONTROL Détails de synchronisation du champ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -41,7 +41,7 @@ Voici comment utiliser la synchronisation rapide pour effectuer une nouvelle syn
 
    >[!NOTE]
    >
-   >Vous pouvez sélectionner des champs parmi plusieurs entités.
+   >Vous pouvez sélectionner des champs à partir de plusieurs entités.
 
 1. Vous recevrez une notification une fois la synchronisation terminée.
 
@@ -49,17 +49,17 @@ Voici comment utiliser la synchronisation rapide pour effectuer une nouvelle syn
 
    >[!CAUTION]
    >
-   >La synchronisation s’exécute côte à côte avec d’autres synchronisations, et selon la taille de la base de données, cela peut prendre un certain temps. Lorsqu’un champ se trouve dans une file d’attente pour synchronisation, vous ne pouvez pas le désélectionner.
+   >La synchronisation s’exécute côte à côte avec d’autres synchronisations. Selon la taille de la base de données, son exécution peut prendre un certain temps. Lorsqu’un champ est dans la file d’attente pour la synchronisation, vous ne pouvez pas le désélectionner.
 
 ## Options de synchronisation avancées {#advanced-sync-options}
 
-Que se passe-t-il si vous souhaitez synchroniser un champ existant, mais uniquement pour un ensemble limité de données ? Voici comment.
+Que se passe-t-il si vous souhaitez synchroniser un champ existant, mais uniquement pour un ensemble limité de données ? Voici comment procéder.
 
 1. Décochez la case d’un champ existant. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
-1. Ouvrez à nouveau la fenêtre contextuelle et sélectionnez à nouveau le champ.
+1. Ouvrez à nouveau le pop-up et sélectionnez à nouveau le champ.
 
    ![](assets/select-field-reselect-hand.png)
 
@@ -67,15 +67,15 @@ Que se passe-t-il si vous souhaitez synchroniser un champ existant, mais uniquem
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Sélectionnez **[!UICONTROL Mis à jour]** et sélectionnez une plage de dates à l’aide des sélecteurs de dates. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Choisissez **[!UICONTROL Mise à jour]** et sélectionnez une période à l’aide des sélecteurs de date. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
-   Seuls les enregistrements mis à jour entre 8/19/16 et 9/19/16 seront synchronisés rapidement pour le champ.
+   Seuls les enregistrements mis à jour entre le 8/19/16 et le 9/19/16 seront synchronisés rapidement pour ce champ.
 
-## Correction des champs désynchronisés {#fixing-out-of-sync-fields}
+## Correction des champs non synchronisés {#fixing-out-of-sync-fields}
 
-Dans les rares cas où un champ Dynamics et Marketo n’est pas synchronisé, il existe un moyen rapide et facile de le resynchroniser.
+Dans les rares cas où un champ [!DNL Dynamics] et Marketo ne sont pas synchronisés, il existe un moyen rapide et facile de les resynchroniser.
 
 1. Désélectionnez le champ et cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -85,4 +85,4 @@ Dans les rares cas où un champ Dynamics et Marketo n’est pas synchronisé, il
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
-   Ça devrait le réparer !
+   Ça devrait arranger les choses !

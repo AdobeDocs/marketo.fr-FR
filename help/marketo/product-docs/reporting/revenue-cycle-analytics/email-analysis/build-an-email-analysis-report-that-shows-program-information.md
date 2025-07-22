@@ -1,57 +1,57 @@
 ---
 unique-page-id: 2360409
-description: Création d’un rapport d’analyse des emails qui affiche les informations sur le programme - Documents Marketo - Documentation du produit
-title: Création d’un rapport d’analyse des emails qui affiche les informations du programme
+description: Créer un rapport d’analyse des e-mails qui affiche des informations sur le programme - Documents Marketo - Documentation du produit
+title: Créer un rapport d’analyse d’e-mail qui affiche les informations du programme
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
 
 ---
 
-# Création d’un rapport d’analyse des emails qui affiche les informations du programme {#build-an-email-analysis-report-that-shows-program-information}
+# Créer un rapport d’analyse d’e-mail qui affiche les informations du programme {#build-an-email-analysis-report-that-shows-program-information}
 
-Suivez ces étapes pour créer un rapport d’analyse des emails qui affichera les informations des emails regroupées par canal de programme.
+Pour créer un rapport d’analyse des e-mails qui affichera les informations sur les e-mails regroupées par canaux de programme, procédez comme suit.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>Tout le monde n’a pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
-1. Lancez **Revenue Explorer**.
+1. Lancez **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Cliquez sur **Créer** et sélectionnez **Rapport**.
+1. Cliquez sur **[!UICONTROL Créer]** et sélectionnez **[!UICONTROL Rapport]**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Sélectionnez la zone **Analyse des emails** et cliquez sur **OK**.
+1. Sélectionnez la zone **[!UICONTROL Analyse e-mail]** et cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Recherchez le point jaune **Envoyé (Semaine)** et cliquez dessus avec le bouton droit. Cliquez sur **Filter**.
+1. Recherchez le point jaune **[!UICONTROL Envoyé (semaine)]** puis cliquez dessus avec le bouton droit. Cliquez sur **[!UICONTROL Filtrer...]**.
 
    >[!NOTE]
    >
-   >Cela permet de réduire le délai du rapport.
+   >Cela réduira le délai de production du rapport.
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Cochez **Semaine actuelle envoyée** et cliquez sur **OK**.
+1. Cochez **[!UICONTROL En cours envoyé (semaine)]** puis cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Recherchez le point jaune **Canal de programme** et double-cliquez dessus.
+1. Recherchez le point jaune **[!UICONTROL Canal programme]**, puis double-cliquez dessus.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Recherchez et double-cliquez sur le point jaune **Nom de l’email**.
+1. Recherchez le point jaune **[!UICONTROL Nom de l’e-mail]**, puis double-cliquez dessus.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Recherchez et double-cliquez sur les points bleus **Envoyé**, **Ayant ouvert** et **Ayant cliqué**.
+1. Recherchez les points bleus **[!UICONTROL Envoyé]**, **[!UICONTROL Ouvert]** et **[!UICONTROL Cliqué]** et cliquez deux fois dessus.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 

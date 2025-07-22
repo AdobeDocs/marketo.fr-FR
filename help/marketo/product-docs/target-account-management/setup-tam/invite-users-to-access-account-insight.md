@@ -1,54 +1,54 @@
 ---
 unique-page-id: 12980105
-description: Invitation d’utilisateurs à accéder à Insight de compte - Documents Marketo - Documentation du produit
-title: Invitation d’utilisateurs à accéder à Insight de compte
+description: Invitez les utilisateurs à accéder au [!UICONTROL Compte Insight] - Documents Marketo - Documentation du produit
+title: Inviter les utilisateurs à accéder à [!UICONTROL Compte Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Invitation d’utilisateurs à accéder à Insight de compte {#invite-users-to-access-account-insight}
+# Inviter les utilisateurs à accéder à [!UICONTROL Compte Insight] {#invite-users-to-access-account-insight}
 
-Suivez ces étapes pour permettre aux utilisateurs d’accéder à Account Insight.
+Pour fournir aux utilisateurs l’accès à [!UICONTROL Account Insight], procédez comme suit.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Cliquez sur **Utilisateurs et rôles** dans l’arborescence. Cliquez ensuite sur l’onglet **Utilisateurs commerciaux** et **Inviter de nouveaux utilisateurs commerciaux**.
+1. Cliquez sur **[!UICONTROL Utilisateurs et rôles]** dans l’arborescence. Cliquez ensuite sur l’onglet **[!UICONTROL Utilisateurs commerciaux]** et **[!UICONTROL Inviter un nouvel utilisateur commercial]**.
 
    ![](assets/two-6.png)
 
-   Il existe deux manières d&#39;inviter des utilisateurs : par CRM ou par email. Dans cet exemple, nous utiliserons Invitation par CRM.
+   Il existe deux façons d’inviter des utilisateurs : par CRM ou par e-mail. Dans cet exemple, nous utiliserons Inviter par CRM.
 
    >[!NOTE]
    >
-   >Lors de l’invitation de nouveaux utilisateurs (non Marketo) via la liste d’utilisateurs CRM, vous pouvez inviter plusieurs personnes à la fois. L&#39;invitation par email est 1 pour 1.
+   >Lors de l’invitation de nouveaux utilisateurs (hors Marketo) à l’aide de la liste d’utilisateurs CRM, vous pouvez inviter plusieurs personnes à la fois. L’invitation par e-mail est 1 pour 1.
 
-1. Cliquez sur la liste déroulante **Utilisateur CRM** et sélectionnez un utilisateur.
+1. Cliquez sur le menu déroulant **[!UICONTROL Utilisateur CRM]** et sélectionnez l’utilisateur de votre choix.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Si vous choisissez **Inviter un utilisateur par e-mail**, saisissez simplement son prénom, son nom et son adresse e-mail, puis passez à l’étape 4.
+   >Si vous choisissez **[!UICONTROL Inviter un utilisateur par e-mail]**, saisissez simplement son prénom, son nom et son adresse e-mail, puis passez à l’étape 4.
 
-1. Pour définir une date d’expiration de l’accès de l’utilisateur (facultatif), cliquez sur l’icône de calendrier. Par défaut, il est défini sur &quot;jamais&quot;.
+1. Pour définir une date d’expiration pour l’accès de l’utilisateur (facultatif), cliquez sur l’icône de calendrier. Par défaut, cette valeur est définie sur « jamais ».
 
    ![](assets/four-5.png)
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/five-5.png)
 
-1. Cochez la case **Account Insight** et cliquez sur **Suivant**.
+1. Cochez la case **[!UICONTROL Compte Insight]** et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/six-3.png)
 
-1. Examinez le message envoyé, apportez les modifications souhaitées (facultatif) et cliquez sur **Envoyer**.
+1. Examinez le message d’envoi, apportez les modifications souhaitées (facultatif) et cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/seven-2.png)

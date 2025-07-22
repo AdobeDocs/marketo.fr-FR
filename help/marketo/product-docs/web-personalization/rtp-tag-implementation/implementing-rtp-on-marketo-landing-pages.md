@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720151
-description: Mise en oeuvre de la procédure RTP sur les pages d’entrée Marketo - Documents Marketo - Documentation du produit
-title: Implémentation de la méthode RTP sur les pages d’entrée Marketo
+description: Mise en œuvre du RTP sur les pages de destination de Marketo - Documents Marketo - Documentation du produit
+title: Mise en œuvre du RTP sur les pages de destination de Marketo
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-# Implémentation de la méthode RTP sur les pages d’entrée Marketo {#implementing-rtp-on-marketo-landing-pages}
+# Mise en œuvre du RTP sur les pages de destination de Marketo {#implementing-rtp-on-marketo-landing-pages}
 
-Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation ci-dessous :
+Pour implémenter votre balise [!UICONTROL RTP] suivez les instructions d’installation ci-dessous :
 
-1. Accédez à **Design Studio.** Ouvrez l’élément que vous souhaitez modifier. Sélectionnez **Actions de modèle**, sélectionnez **Modifier le brouillon**.
+1. Accédez au **[!UICONTROL Design Studio].** Ouvrez l’élément que vous souhaitez modifier. Sélectionnez **[!UICONTROL Actions de modèle]**, puis **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/image2015-4-26-18-3a27-3a4.png)
 
@@ -23,30 +23,30 @@ Pour mettre en oeuvre votre balise RTP, suivez les instructions d’installation
 
    ![](assets/image2015-4-26-18-3a28-3a17.png)
 
-1. Dans votre compte RTP, accédez à **Paramètres du compte**.
+1. Dans votre compte RTP, accédez à **[!UICONTROL Paramètres du compte]**.
 
-   a. Si vous avez déjà reçu votre balise JavaScript de la part de l’assistance - passez à l’étape 5.
+   a. Si vous avez déjà reçu votre balise JavaScript de l’assistance - passez à l’étape 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-2.png)
 
-1. Sous Domaine, recherchez le domaine approprié et cliquez sur **Générer la balise**.
+1. Sous [!UICONTROL Domaine], recherchez le domaine approprié et cliquez sur **[!UICONTROL Générer la balise]**.
 
    ![](assets/image2015-4-26-18-3a27-3a35.png)
 
    ![](assets/image2014-11-30-15-3a20-3a17-2.png)
 
-1. Copiez la balise JavaScript RTP et collez-la dans tous vos modèles de landing page entre les balises **`<head> </head>`**.
+1. Copiez la balise JavaScript RTP et collez-la dans tous les modèles de page de destination compris entre les balises **`<head> </head>`**.
 
-1. Cliquez sur **Enregistrer** et **Fermer** dans la fenêtre.
+1. Cliquez sur **[!UICONTROL Enregistrer]** et **[!UICONTROL Fermer]** dans la fenêtre.
 
-1. De retour dans **Design Studio**, approuvez la page d’entrée à partir des **actions de modèle**, cliquez sur **Approve** (Approuver).
+1. De retour dans **[!UICONTROL Design Studio]**, approuvez la page de destination à partir de **[!UICONTROL Actions de modèle]**, puis cliquez sur **[!UICONTROL Approuver]**.
 
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 
-1. Enfin, vous devrez **réapprouver** toutes les landing pages utilisant ce modèle pour que les modifications du modèle soient prises en compte. Vous pouvez tous les réapprouver en même temps à partir de la section Pages d’entrée principale.
+1. Enfin, vous devrez **réapprouver** toutes les pages de destination utilisant ce modèle pour que les modifications du modèle prennent effet. Vous pouvez toutes les approuver de nouveau en même temps à partir de la section principale [!UICONTROL Pages de destination].
 
    ![](assets/image2015-4-26-18-3a28-3a49.png)
 
-1. Vérifiez qu’il apparaît sur toutes les pages, y compris les landing pages et les sous-domaines.
+1. Vérifiez qu’il apparaît sur toutes les pages, y compris les pages de destination et les sous-domaines.
 
-   Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site web. Accédez à **Afficher le Source de page.** Recherchez **RTP** pour localiser la balise.
+   Pour ce faire, cliquez avec le bouton droit de la souris sur la page de votre site web. Accédez à **[!UICONTROL Afficher la page Source].** Rechercher **[!UICONTROL RTP]** pour localiser la balise.

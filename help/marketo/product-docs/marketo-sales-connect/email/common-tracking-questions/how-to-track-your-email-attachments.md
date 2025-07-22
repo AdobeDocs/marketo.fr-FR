@@ -1,34 +1,34 @@
 ---
 unique-page-id: 14352537
-description: Comment effectuer le suivi de vos pièces jointes aux emails - Documents Marketo - Documentation du produit
-title: Comment effectuer le suivi de vos pièces jointes aux emails
+description: Comment effectuer le suivi de vos pièces jointes à un e-mail - Documents Marketo - Documentation du produit
+title: Comment effectuer le suivi des pièces jointes à un e-mail
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-# Comment effectuer le suivi de vos pièces jointes aux emails {#how-to-track-your-email-attachments}
+# Comment effectuer le suivi des pièces jointes à un e-mail {#how-to-track-your-email-attachments}
 
-Sales Connect offre un suivi sur vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez déterminer quand elles ont été ouvertes/téléchargées et voir les pages que votre destinataire consulte. Nous vous autoriserons à utiliser notre fonctionnalité de pièces jointes pouvant faire l’objet d’un suivi à partir de l’ [application web](https://toutapp.com/login) et de Gmail (ou des applications Google).
+[!DNL Sales Connect] offre un suivi de vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez voir quand elles ont été ouvertes/téléchargées et quelles pages votre destinataire consulte. Nous vous permettrons d&#39;utiliser notre fonctionnalité de pièces jointes traçables à partir de l&#39;[application web](https://toutapp.com/login) et de Gmail (ou des applications Google).
 
 >[!NOTE]
 >
->Le suivi des pièces jointes est uniquement disponible pour nos plans d’équipe (à partir de notre plan de démarrage g3).
+>Le tracking des pièces jointes n&#39;est disponible que pour nos plans d&#39;équipe (à partir de notre plan g3startup).
 
-## Comment envoyer votre première pièce jointe pouvant faire l’objet d’un suivi {#how-to-send-your-first-trackable-attachment}
+## Comment envoyer votre première pièce jointe pouvant être suivie {#how-to-send-your-first-trackable-attachment}
 
-1. Composez un email ou modifiez un modèle, puis cliquez sur le bouton **Contenu** .
+1. Composez un e-mail ou modifiez un modèle, puis cliquez sur le bouton **[!UICONTROL Contenu]**.
 
-1. Téléchargez votre pièce jointe et envoyez-la. Nous prenons en charge les PDF, les documents Word et les présentations PowerPoint.
+1. Chargez la pièce jointe et envoyez-la. Nous prenons en charge les PDF, les documents [!DNL Word] et les présentations [!DNL Powerpoint].
 
-1. Sélectionnez **Ajouter au courrier électronique**.
+1. Sélectionnez **[!UICONTROL Ajouter à l’e-mail]**.
 
-1. Cliquez sur **Envoyer** et déclenchez votre flux en direct. Vous verrez vos destinataires pendant qu’ils s’ouvrent et parcourent vos pièces jointes.
+1. Cliquez sur **[!UICONTROL Envoyer]** et lancez votre flux en direct. Vos destinataires s’afficheront à l’ouverture et lors du parcours de page de vos pièces jointes.
 
    >[!TIP]
    >
-   >Si vous ne souhaitez pas suivre une pièce jointe, cliquez simplement sur **Joindre des fichiers** et cette pièce jointe ne sera pas suivie.
+   >Si vous ne souhaitez pas suivre une pièce jointe, cliquez simplement sur **[!UICONTROL Joindre des fichiers]** et cette pièce jointe ne sera pas suivie.

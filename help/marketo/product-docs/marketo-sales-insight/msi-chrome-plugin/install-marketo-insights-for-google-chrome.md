@@ -1,48 +1,48 @@
 ---
 unique-page-id: 1147326
-description: Installation de Marketo Insights pour Google Chrome - Documents Marketo - Documentation du produit
+description: Installation de Marketo Insights pour Google Chrome - Documentation de Marketo - Documentation du produit
 title: Installation de Marketo Insights pour Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Installation de Marketo Insights pour Google Chrome {#install-marketo-insights-for-google-chrome}
+# Installer Marketo Insights pour [!DNL Google Chrome] {#install-marketo-insights-for-google-chrome}
 
-Suivez ces étapes pour commencer à utiliser le puissant module complémentaire Chrome. Vous n’avez pas besoin d’être un administrateur Marketo pour installer l’extension.
+Pour commencer à utiliser le puissant complément Chrome, procédez comme suit. Il n’est pas nécessaire d’être un administrateur Marketo pour installer l’extension.
 
 >[!NOTE]
 >
->Les fonctionnalités des actions d’aperçu des ventes, notamment Envoyer un courrier électronique de vente, Ajouter à la campagne de ventes et Tâches, ne sont pas disponibles dans les modules externes de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs peuvent uniquement envoyer un email pouvant faire l’objet d’un suivi avec ou sans modèle de courrier électronique Marketo depuis leur client de messagerie lors de l’utilisation des modules externes de courrier électronique Sales Insight .
+>Les fonctionnalités Actions de Sales Insight, notamment Envoyer un e-mail de vente, Ajouter à la campagne de vente et Tâches, ne sont pas disponibles dans les plug-ins de messagerie de Sales Insight pour Gmail et Outlook. Actuellement, les utilisateurs ne peuvent envoyer qu’un e-mail trackable avec ou sans modèle d’e-mail Marketo à partir de leur client de messagerie lors de l’utilisation des modules externes d’e-mail Sales Insight.
 
-1. Installez le [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} à partir du Chrome Web Store.
+1. Installez l’extension [Marketo Insights pour Google Chrome Add in](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} à partir de Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. Cliquez avec le bouton droit sur le logo Marketo dans Chrome et sélectionnez **Options**.
+1. Cliquez avec le bouton droit sur le logo Marketo dans [!DNL Chrome] et sélectionnez **[!UICONTROL Options]**.
 
    ![](assets/two.png)
 
-1. Saisissez votre **Code de reg**, **Adresse électronique**, **Prénom** et **Nom**. Cliquez sur **Vérifier et enregistrer**.
+1. Saisissez vos **[!UICONTROL code postal]**, **[!UICONTROL adresse e-mail]**, **[!UICONTROL prénom]** et **[!UICONTROL nom]**. Cliquez sur **[!UICONTROL Vérifier et enregistrer]**.
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >Veillez à utiliser votre **compte de messagerie principal** lors de l’enregistrement, car nous ne prenons pas en charge l’utilisation d’alias pour ce module externe.
+   >Veillez à utiliser votre **compte de messagerie principal** lors de l’enregistrement, car nous ne prenons pas en charge l’utilisation d’alias pour ce plug-in.
 
    >[!NOTE]
    >
-   >Le code Reg figure dans l’e-mail envoyé après qu’un administrateur de Marketo [ vous a envoyé une licence de module complémentaire de messagerie Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Il expire après 14 jours**.
+   >Le code d’enregistrement se trouve dans l’e-mail envoyé lorsqu’un administrateur Marketo [vous a délivré une licence de complément d’e-mail Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Il expire après 14 jours**.
 
-1. Cliquez sur **Autoriser** pour autoriser l’accès hors ligne.
+1. Cliquez sur **[!UICONTROL Autoriser]** pour autoriser l’accès hors ligne.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
 >[!MORELIKETHIS]
 >
->[Utilisation de Marketo Insights pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}
+>[Utilisation des informations Marketo pour Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}

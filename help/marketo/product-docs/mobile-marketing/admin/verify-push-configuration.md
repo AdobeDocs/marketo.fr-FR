@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7512445
-description: Vérification de la configuration push - Documents Marketo - Documentation du produit
+description: Vérification De La Configuration Push - Documents Marketo - Documentation Du Produit
 title: Vérifier la configuration Push
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 7%
@@ -15,15 +15,15 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->Votre développeur mobile doit avoir ajouté le code du SDK Marketo à votre application mobile.
+>Le code SDK de Marketo doit avoir été ajouté par le développeur ou la développeuse mobile à votre application mobile.
 
 Vérifiez la configuration push pour vous assurer que tout est correctement synchronisé.
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Sélectionnez **Applications mobiles**.
+1. Sélectionnez **[!UICONTROL Applications mobiles]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ Vérifiez la configuration push pour vous assurer que tout est correctement sync
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Cliquez sur **Actions d’application mobile** et sélectionnez **Vérifier la configuration push**.
+1. Cliquez sur **[!UICONTROL Actions de l’application mobile]** puis sélectionnez **[!UICONTROL Vérifier la configuration push]**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Confirmez la lecture des plateformes souhaitées vérifiées et cliquez sur **Fermer**.
+1. Confirmez la lecture et la vérification des plateformes souhaitées, puis cliquez sur **[!UICONTROL Fermer]**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

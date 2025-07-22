@@ -4,7 +4,7 @@ description: Afficher le formulaire HTML personnalisé pour les personnes connue
 title: Afficher un formulaire HTML personnalisé pour les personnes connues
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 55964499f5d49258539492f952513833af5692b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -15,23 +15,23 @@ ht-degree: 1%
 
 Si un visiteur a déjà indiqué son nom complet et son adresse e-mail et que vous ne souhaitez pas qu’il reçoive l’intégralité du formulaire, apprenez à lui montrer des HTML personnalisées (par exemple, un simple bouton de téléchargement).
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Sous **Activités marketing**, sélectionnez votre formulaire, puis cliquez sur **Modifier le formulaire**.
+1. Sous **[!UICONTROL Activités marketing]**, sélectionnez votre formulaire, puis cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Sous **Paramètres du formulaire**, cliquez sur **Paramètres**.
+1. Sous **[!UICONTROL Paramètres du formulaire]**, cliquez sur **[!UICONTROL Paramètres]**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Définissez Si **Visiteur connu, Afficher** : sur **HTML personnalisé**.
+1. Définissez Si **[!UICONTROL Visiteur connu, Afficher]** : sur **[!UICONTROL HTML personnalisé]**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Cliquez sur le ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier le **Custom HTML** qui sera présenté aux personnes connues.
+1. Cliquez sur le ![—](assets/image2014-9-25-14-3a1-3a26.png) pour modifier le **[!UICONTROL Custom HTML]** qui sera présenté aux personnes connues.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ Si un visiteur a déjà indiqué son nom complet et son adresse e-mail et que vo
    >
    >Seuls les quatre jetons ci-dessus peuvent être utilisés. Aucun autre jeton ne fonctionnera ici.
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    >[!NOTE]
    >

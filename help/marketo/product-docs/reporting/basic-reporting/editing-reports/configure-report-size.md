@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360002
-description: Configurer la taille du rapport - Documents Marketo - Documentation du produit
-title: Configurer la taille de rapport
+description: Configuration De La Taille Du Rapport - Documents Marketo - Documentation Du Produit
+title: Configurer la taille du rapport
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Configurer la taille de rapport {#configure-report-size}
+# Configurer la taille du rapport {#configure-report-size}
 
-Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, mais vous pouvez modifier cette limite.
+Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, mais vous pouvez modifier ce nombre.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **Configuration** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **[!UICONTROL Configuration]**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Double-cliquez sur **Exporter les lignes disponibles**.
+1. Double-cliquez sur **[!UICONTROL Exporter les lignes disponibles]**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -33,13 +33,13 @@ Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, m
 
    >[!TIP]
    >
-   >La modification de la limite modifie la taille du rapport elle-même, et pas seulement le fichier Excel exporté. Ainsi, si la génération de votre rapport prend trop de temps, réduisez la limite !
+   >La modification de la limite modifie la taille du rapport elle-même, pas seulement le fichier [!DNL Excel] exporté. Par conséquent, si la génération de votre rapport prend trop de temps, réduisez la limite.
 
-1. Cliquez sur **Enregistrer** pour confirmer la nouvelle limite.
+1. Cliquez sur **[!UICONTROL Enregistrer]** pour confirmer la nouvelle limite.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
-   Vous avez fini ! Le rapport se conformera à la nouvelle limite.
+   C&#39;est fini ! Le rapport respectera la nouvelle limite.
 
    >[!MORELIKETHIS]
    >

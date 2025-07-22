@@ -1,61 +1,61 @@
 ---
 unique-page-id: 2950617
-description: Utilisation de contenu dynamique dans un courrier électronique - Documents Marketo - Documentation du produit
-title: Utilisation de contenu dynamique dans un email
+description: Utilisation de contenu dynamique dans un e-mail - Documents Marketo - Documentation du produit
+title: Utilisation de contenu dynamique dans un e-mail
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-# Utilisation de contenu dynamique dans un email {#using-dynamic-content-in-an-email}
+# Utilisation de contenu dynamique dans un e-mail {#using-dynamic-content-in-an-email}
 
 >[!PREREQUISITES]
 >
 >[Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-Utilisez Contenu dynamique dans les emails pour envoyer les informations ciblées de prospects.
+Utilisez le contenu dynamique dans les e-mails pour envoyer les informations ciblées de vos prospects.
 
 >[!NOTE]
 >
->L&#39;utilisation de variables dans le contenu dynamique d&#39;un email n&#39;est prise en charge que lors de l&#39;utilisation des campagnes de déclenchement. Il n’est **pas** pris en charge lors de l’utilisation de campagnes par lots.
+>L’utilisation de variables dans le contenu dynamique d’un e-mail n’est prise en charge que lors de l’utilisation de campagnes Trigger. Elle n’est **pas** prise en charge lors de l’utilisation de campagnes par lots.
 
 ## Ajouter une segmentation {#add-segmentation}
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre adresse électronique et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre e-mail et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/1.2.png)
 
-1. Dans cet exemple, nous rendons l&#39;objet dynamique. Cliquez dans le champ Objet , puis cliquez sur le bouton **Rendre dynamique** .
+1. Dans cet exemple, nous rendons la ligne d&#39;objet dynamique. Cliquez dans le champ [!UICONTROL Objet], puis sur le bouton **Rendre dynamique**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également créer un élément dans la dynamique de l&#39;email. Pour ce faire, sélectionnez la zone, cliquez sur l’icône d’engrenage, puis sélectionnez **Rendre dynamique** (ou [Remplacer par un extrait de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), selon ce que vous faites).
+   >Vous pouvez également rendre dynamique un élément dans l’e-mail. Pour ce faire, sélectionnez la zone, cliquez sur l’icône d’engrenage, puis sélectionnez **Rendre dynamique** (ou [Remplacer par un fragment de code](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), selon ce que vous faites).
 
-1. Saisissez le nom de la segmentation, sélectionnez-le, puis cliquez sur **Enregistrer**.
+1. Saisissez le nom de la segmentation, sélectionnez-le, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/1.4.png)
 
-   Votre segmentation et ses segments apparaissent sous l’onglet Dynamique à droite.
+   Votre segmentation et ses segments apparaissent sous l’onglet [!UICONTROL Dynamique] à droite.
 
    ![](assets/1.5.png)
 
-## Appliquer du contenu dynamique {#apply-dynamic-content}
+## Application de contenu dynamique {#apply-dynamic-content}
 
 >[!CAUTION]
 >
->Le nombre d’éléments de contenu dynamique autorisé est illimité. Bien qu’il n’existe aucune limite de nombre spécifique (elle peut varier en fonction de la combinaison de contenu), l’utilisation excessive de contenu dynamique peut avoir une incidence négative sur les performances de l’email. Nous vous recommandons de conserver la quantité d’éléments de contenu dynamique utilisée pour moins de 20 par email.
+>Le nombre d’éléments de contenu dynamique autorisés n’est pas illimité. Bien qu’il n’y ait pas de limite de nombre spécifique (elle peut varier en fonction de la combinaison de contenu), la surutilisation de contenu dynamique peut avoir une incidence négative sur les performances de l’e-mail. Nous vous recommandons de maintenir la quantité d’éléments de contenu dynamique utilisés à moins de 20 par e-mail.
 
-1. Cliquez sur vos segments et ajoutez votre objet.
+1. Cliquez sur vos segments et ajoutez votre ligne d’objet.
 
 ![](assets/2.1.png)
 
@@ -65,15 +65,15 @@ Utilisez Contenu dynamique dans les emails pour envoyer les informations ciblée
 
 >[!TIP]
 >
->Créez un email par défaut avant d&#39;appliquer le contenu aux différents segments.
+>Créez un e-mail par défaut avant d’appliquer du contenu aux différents segments.
 
 >[!CAUTION]
 >
->Les modifications apportées au bloc de contenu Segment par défaut sont appliquées à tous les segments.
+>Les modifications apportées au bloc de contenu de segment par défaut sont appliquées à tous les segments.
 
-Doux ! Vous pouvez désormais envoyer des emails flexibles à votre audience cible.
+Doux ! Vous pouvez désormais envoyer des e-mails flexibles à votre audience cible.
 
 >[!MORELIKETHIS]
 >
->* [Aperçu d’un email avec du contenu dynamique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
->* [Utiliser du contenu dynamique dans une page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
+>* [Prévisualiser un e-mail avec du contenu dynamique](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Utilisation de contenu dynamique dans une page de destination](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

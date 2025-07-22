@@ -1,30 +1,30 @@
 ---
-description: Modification de votre mot de passe de connexion aux ventes - Documents Marketo - Documentation du produit
-title: Modification du mot de passe de la connexion commerciale
+description: Modification De Votre Mot De Passe Sales Connect - Documents Marketo - Documentation Du Produit
+title: Modifier Votre Mot De Passe Sales Connect
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 2%
 
 ---
 
-# Modification du mot de passe de la connexion commerciale {#change-your-sales-connect-password}
+# Modifier Votre Mot De Passe Sales Connect {#change-your-sales-connect-password}
 
-Vous avez besoin de changer votre mot de passe ? Voici comment.
+Vous souhaitez modifier votre mot de passe ? Voici comment procéder.
 
-## Changement de mot de passe lors de la connexion {#change-your-password-while-signed-in}
+## Modifier Votre Mot De Passe Lors De La Connexion {#change-your-password-while-signed-in}
 
-1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. Votre page Mon profil s’ouvre par défaut. Sous Détails du compte, cochez la case **Modifier le mot de passe** .
+1. Votre page [!UICONTROL Mon profil] s’ouvre par défaut. Sous [!UICONTROL Détails du compte], cochez la case **[!UICONTROL Modifier le mot de passe]**.
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Saisissez votre mot de passe actuel. Saisissez ensuite le nouveau et saisissez-le à nouveau en veillant à ce qu’il corresponde. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Entrez votre mot de passe actuel. Saisissez ensuite le nouveau champ, puis saisissez-le à nouveau en veillant à ce qu’il corresponde. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -32,29 +32,29 @@ Vous avez besoin de changer votre mot de passe ? Voici comment.
 >
 >Les mots de passe doivent :
 >
->* contenir au moins neuf caractères ;
->* Utilisation de majuscules/minuscules (en haut et en bas)
+>* Contiennent au moins neuf caractères
+>* Utiliser des majuscules et des minuscules (en haut et en bas)
 >* Inclure un nombre
->* Utilisation d’un caractère spécial
+>* Utiliser un caractère spécial
 
-## Modifier votre mot de passe lors de la déconnexion {#change-your-password-while-signed-out}
+## Modifier Votre Mot De Passe Lors De La Déconnexion {#change-your-password-while-signed-out}
 
-1. Accédez à la page [Sales Connect log-in](https://toutapp.com/login) et cliquez sur **Forgot password** (Mot de passe oublié).
+1. Accédez à la page [Connexion à Sales Connect](https://toutapp.com/login) et cliquez sur **[!UICONTROL Mot de passe oublié ?]**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Saisissez l’adresse électronique associée au compte et cliquez sur **Envoyer un courrier électronique de réinitialisation**.
+1. Saisissez l’adresse e-mail associée au compte et cliquez sur **[!UICONTROL Envoyer un e-mail de réinitialisation]**.
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. Nous enverrons un e-mail pour vérifier que le propriétaire du compte souhaite modifier le mot de passe. Cliquez sur **Réinitialiser le mot de passe**.
+1. Nous enverrons un e-mail pour vérifier que le propriétaire du compte souhaite modifier le mot de passe. Cliquez sur **[!UICONTROL Réinitialiser le mot de passe]**.
 
    ![](assets/change-your-sales-connect-password-6.png)
 
    >[!NOTE]
    >
-   >Assurez-vous également de vérifier votre dossier Spam, car cet email peut parfois s&#39;y retrouver.
+   >Veillez également à vérifier votre dossier Spam, car cet e-mail peut parfois y aboutir.
 
-1. Saisissez et confirmez votre nouveau mot de passe. Cliquez sur **Définir le mot de passe** lorsque vous avez terminé.
+1. Saisissez et confirmez votre nouveau mot de passe. Cliquez sur **[!UICONTROL Définir le mot de passe]** lorsque vous avez terminé.
 
    ![](assets/change-your-sales-connect-password-7.png)

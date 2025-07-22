@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2360437
-description: Explorez les détails du programme et du canal avec Program Analyzer - Documentation Marketo - Documentation du produit
-title: Explorer les détails du programme et du canal avec l’analyseur de programme
+description: Explorez les détails du programme et du canal avec l’analyseur de programmes - Documents Marketo - Documentation du produit
+title: Explorer les détails du programme et du canal avec l’analyseur de programmes
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Explorer les détails du programme et du canal avec l’analyseur de programme {#explore-program-channel-details-with-the-program-analyzer}
+# Explorez les détails des programmes et des canaux avec l’[!UICONTROL analyseur de programmes] {#explore-program-channel-details-with-the-program-analyzer}
 
-Vous pouvez afficher les statistiques détaillées sur les programmes et les canaux dans l’analyseur de programmes. Vous pouvez également les ouvrir dans l’explorateur Revenue Cycle.
+Vous pouvez afficher les statistiques détaillées sur les programmes et les canaux dans l’[!UICONTROL Analyseur de programmes]. Vous pouvez également les ouvrir dans l’Explorateur du cycle du chiffre d’affaires.
 
 >[!PREREQUISITES]
 >
->[Créer un analyseur de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Créer un [!UICONTROL analyseur de programmes]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->Toutes les éditions Marketo ne comprennent pas cette fonctionnalité. Pour plus d’informations, contactez votre gestionnaire de compte.
+>Toutes les éditions de Marketo n’incluent pas cette fonctionnalité. Contactez votre gestionnaire de compte pour plus d’informations.
 
-1. Cliquez sur **Analytics**.
+1. Cliquez sur **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
-1. Sélectionnez votre analyseur de programme.
+1. Sélectionnez l’analyseur de programmes.
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Pour afficher les statistiques spécifiques d’un canal ou d’un programme (en fonction de la **Vue** que vous sélectionnez), cliquez sur la bulle correspondante.
+1. Pour afficher les statistiques spécifiques d’un canal ou d’un programme (selon la **[!UICONTROL Vue]** que vous sélectionnez), cliquez sur la bulle correspondante.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >La plupart des mesures que vous pouvez sélectionner dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et multipoint (MT). Il est important de comprendre la [différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Pour comparer tous les programmes d’un seul canal, cliquez sur le nom du canal dans la boîte de dialogue contextuelle.
+1. Pour comparer tous les programmes au sein d’un seul canal, cliquez sur le nom du canal dans la boîte de dialogue pop-up.
 
    ![](assets/image2015-4-28-12-3a59-3a36.png)
 
@@ -49,8 +49,8 @@ Vous pouvez afficher les statistiques détaillées sur les programmes et les can
 
    >[!NOTE]
    >
-   >Cliquer sur un seul canal change votre vue en Par programme, filtrée uniquement sur ce canal. Pour revenir à tous les canaux, sélectionnez **Affichage** > **Par canal**.
+   >Cliquer sur un seul canal fait basculer votre affichage sur Par programme, filtré uniquement sur ce canal. Pour revenir à tous les canaux, sélectionnez **[!UICONTROL Affichage]** > **[!UICONTROL Par canal]**.
 
-1. Pour ouvrir l’explorateur Revenue Cycle afin de creuser encore plus profondément une statistique, cliquez sur ce nombre dans la boîte de dialogue contextuelle.
+1. Pour ouvrir l’Explorateur du cycle du chiffre d’affaires et approfondir davantage une statistique, cliquez sur ce nombre dans la boîte de dialogue pop-up.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)

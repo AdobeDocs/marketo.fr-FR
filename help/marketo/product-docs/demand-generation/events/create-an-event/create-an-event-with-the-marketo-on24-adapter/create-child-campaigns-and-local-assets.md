@@ -4,7 +4,7 @@ description: Créer des campagnes enfants et des Assets locales - Documents Mark
 title: Création de campagnes enfants et d’Assets locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -73,25 +73,25 @@ Parmi les exemples de campagnes enfants, citons une campagne d’invitation, une
 
 >[!NOTE]
 >
->Si vous utilisez un formulaire Marketo sur une page de destination autre que Marketo, votre déclencheur sera **Remplit le formulaire** avec le nom du formulaire.
+>Si vous utilisez un formulaire Marketo sur une page de destination autre que Marketo, votre déclencheur sera **[!UICONTROL Remplit le formulaire]** avec le [!UICONTROL Nom du formulaire].
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flux**
 
-* **Modifier le statut du programme** - Définir sur Webinaire -> Enregistré.
+* **[!UICONTROL Modifier le statut du programme]** - Définir sur Webinaire -> Enregistré.
 
 Cette étape de flux est requise comme PREMIÈRE ÉTAPE DE FLUX lors de la configuration de votre campagne enfant. Lorsque le statut du programme d’une personne passe à Enregistré, Marketo transmet les informations d’enregistrement à ON24. Aucun autre statut ne poussera la personne vers le serveur.
 
-* **Envoyer un e-mail** - E-mail de confirmation. Définissez cet e-mail sur **Opérationnel** afin que les personnes désabonnées qui se sont enregistrées le reçoivent toujours.
+* **[!UICONTROL Envoyer un e-mail]** - E-mail de confirmation. Définissez cet e-mail sur **Opérationnel** afin que les personnes désabonnées qui se sont enregistrées le reçoivent toujours.
 
-L’étape de flux **Envoyer un e-mail** DOIT être la deuxième étape. L’e-mail de confirmation contient le `{{member.webinar url}}`, qui est renseigné avec les informations renvoyées à Marketo depuis ON24.
+L’étape de flux **[!UICONTROL Envoyer un e-mail]** DOIT être la deuxième étape. L’e-mail de confirmation contient le `{{member.webinar url}}`, qui est renseigné avec les informations renvoyées à Marketo depuis ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->L’ordre de ces étapes de flux est important en raison de l’ordre dans lequel les actions sont exécutées dans Marketo. L’étape **Modifier le statut du programme** envoie la personne à ON24 pour qu’elle s’enregistre et une URL unique est générée. Ensuite, vous pouvez envoyer l’e-mail de confirmation qui inclut cette URL unique à l’aide du jeton `{{member.webinar URL}}`.
+>L’ordre de ces étapes de flux est important en raison de l’ordre dans lequel les actions sont exécutées dans Marketo. L’étape **[!UICONTROL Modifier le statut du programme]** envoie la personne à ON24 pour qu’elle s’enregistre et une URL unique est générée. Ensuite, vous pouvez envoyer l’e-mail de confirmation qui inclut cette URL unique à l’aide du jeton `{{member.webinar URL}}`.
 >
 >Si la personne est renvoyée avec une erreur d’enregistrement, elle ne recevra pas l’e-mail de confirmation.
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360055
-description: Courriel du rapport, Performances de Campaign dans tous les espaces de travail - Documents Marketo - Documentation du produit
-title: Courriel du rapport, Performances des campagnes dans les espaces de travail
+description: E-mail de rapport, performances de campagne dans les espaces de travail - Documents Marketo - Documentation du produit
+title: E-mail du rapport, performances de la campagne dans les espaces de travail
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Courriel du rapport, Performances des campagnes dans les espaces de travail {#report-email-campaign-performance-across-workspaces}
+# E-mail du rapport, performances de la campagne dans les espaces de travail {#report-email-campaign-performance-across-workspaces}
 
-Activez la création de rapports globale afin d’inclure les données de tous vos [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) Marketo dans vos rapports [ Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) et [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
+Activez les rapports globaux pour inclure les données de tous vos espaces de travail Marketo [Workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) dans vos rapports [Performance des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) et [Performance des liens d’e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 
-1. Accédez à la zone **Analytics** (ou **Activités marketing**).
+1. Accédez à la zone **[!UICONTROL Analytics]** (ou **[!UICONTROL Activités marketing]**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,18 +23,18 @@ Activez la création de rapports globale afin d’inclure les données de tous v
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Cliquez sur l’onglet **Setup** et double-cliquez sur **Global Reporting**.
+1. Cliquez sur l’onglet **[!UICONTROL Configuration]** et double-cliquez sur **[!UICONTROL Rapports globaux]**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Sélectionnez **Activé**.
+1. Sélectionnez **[!UICONTROL Activé]**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. C&#39;est tout ! Cliquez sur l’onglet **Rapport** pour afficher les données de tous vos espaces de travail.
+1. C&#39;est tout ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher les données de tous vos espaces de travail.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
    >[!MORELIKETHIS]
    >
-   >[Filtrer Assets dans un rapport par courrier électronique](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[Filtrer Assets dans un rapport d’e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

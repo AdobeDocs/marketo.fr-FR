@@ -4,7 +4,7 @@ description: Rapport sur les performances des pages de destination - Documents M
 title: Rapport sur les performances des pages de destination
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Découvrez combien de personnes ont rempli les formulaires dans vos pages de des
 >
 >Si vous constatez une incohérence dans les nombres entre votre liste dynamique et votre rapport de performances de page de destination, c’est probablement parce que les listes dynamiques filtrent uniquement les données sur les personnes, tandis que les rapports de performances de page de destination incluent les activités sociales (Facebook, Google Ads, etc.) et anonymes, en plus des données sur les personnes.
 
-1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez la variable Performances de la page de destination [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) puis cliquez sur l’onglet Rapport .
+1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le [!UICONTROL Performances de la page de destination] [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) puis cliquez sur l’onglet [!UICONTROL Rapport].
 1. Vous avez terminé. Explorez votre rapport pour évaluer la performance de vos pages de destination.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

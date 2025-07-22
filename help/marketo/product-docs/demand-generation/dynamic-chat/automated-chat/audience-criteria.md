@@ -3,7 +3,7 @@ description: Critères D’Audience - Documents Marketo - Documentation Du Produ
 title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Critère d’audience {#audience-criteria}
 
-Tout comme les listes dynamiques de Marketo Engage, les attributs Critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des personnes connues ou inconnues à l’aide d’attributs déduits, de personne ou d’entreprise (ou d’une combinaison de ces attributs).
+Tout comme les listes dynamiques Marketo Engage, les attributs des critères d’audience vous permettent de définir votre audience cible. Vous pouvez cibler des personnes connues ou inconnues à l’aide d’attributs déduits, de personne ou d’entreprise (ou d’une combinaison de ces attributs).
 
 ## Priorité {#priority}
 
@@ -28,11 +28,11 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez la durée « Supérieur à » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 
-1. Ajoutez l’URL de la page souhaitée dans la section [Target](#target).
+1. Ajoutez l’URL de la page souhaitée dans la section [[!UICONTROL Target]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -46,7 +46,7 @@ Vous pouvez choisir parmi de _nombreuses_ combinaisons d’attributs. Dans l&#39
 
    ![](assets/audience-criteria-7.png)
 
-1. _Est_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez dans l’autorité de certification (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
+1. _[!UICONTROL Est]_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez dans l’autorité de certification (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,17 +88,17 @@ Il existe un moyen facile de cibler spécifiquement les personnes qui ne figuren
    >
    >Lorsqu&#39;une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Nous recherchons leur IP dans une base de données spéciale et déduisons toutes sortes de bonnes informations.
 
-1. _Est_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
+1. _[!UICONTROL Est]_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
    ![](assets/audience-criteria-15.png)
 
 ## Adhésion {#membership}
 
-Utilisez les listes dynamiques du Marketo Engage pour l’audience cible de votre boîte de dialogue.
+Utilisez les listes dynamiques Marketo Engage pour l’audience cible de votre boîte de dialogue.
 
 >[!AVAILABILITY]
 >
->Le membre de liste dynamique ou de critère de membre de liste nécessite Prime Dynamic Chat. Veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) pour plus de détails.
+>Le membre de la liste dynamique ou le membre des critères de liste nécessite Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 1. Sous Abonnement, accédez à **[!UICONTROL Membre de la liste dynamique]** et déposez-la sur la zone de travail.
 
@@ -116,7 +116,7 @@ Vous avez également la possibilité de regrouper les attributs si vous souhaite
 
 ![](assets/audience-criteria-17.png)
 
-## Target {#target}
+## Cible {#target}
 
 C’est là que vous saisissez la ou les URL pour lesquelles vous souhaitez afficher une boîte de dialogue spécifique. Vous pouvez également ajouter des exclusions.
 
@@ -129,7 +129,7 @@ Formats acceptables :
 
 >[!NOTE]
 >
->* L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. Ainsi, `https://*.website.com` placez la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). Et `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page d’HTML dans le dossier suivant (par exemple, dans ce cas, supposons que le dossier soit « sports », donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>* L’utilisation d’un astérisque agit comme un caractère générique fourre-tout. Ainsi, `https://*.website.com` placez la boîte de dialogue sur chaque page du site, y compris les sous-domaines (par exemple : `support.website.com`). De plus, `https://website.com/folder/*` placerait la boîte de dialogue sur chaque page HTML dans le dossier suivant (par exemple, dans ce cas, disons que le dossier est « sports », donc : website.com/sports/baseball.html, website.com/sports/football.html, etc.).
 >
 >* Les paramètres d’URL ne sont pas pris en charge pour le moment.
 

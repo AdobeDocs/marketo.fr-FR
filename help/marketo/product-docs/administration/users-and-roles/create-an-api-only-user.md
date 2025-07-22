@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2360207
-description: Création d’un utilisateur API uniquement - Documents Marketo - Documentation du produit
-title: Création d’un utilisateur API uniquement
+description: Créer un utilisateur API uniquement - Documents Marketo - Documentation du produit
+title: Créer un utilisateur API uniquement
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Création d’un utilisateur API uniquement {#create-an-api-only-user}
+# Créer un utilisateur API uniquement {#create-an-api-only-user}
 
-Si vous souhaitez intégrer Marketo via l’ [ API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, vous devez créer un utilisateur d’API uniquement. Voici comment.
+Si vous souhaitez intégrer à Marketo via l’[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, vous ne devez créer qu’un utilisateur de l’API. Voici comment procéder.
 
 >[!IMPORTANT]
 >
->Si vous créez une API Uniquement pour les utilisateurs dans un abonnement qui a été intégré à Adobe Identity, vos étapes sont différentes et [ se trouvent ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Si vous créez une API destinée uniquement aux utilisateurs d’un abonnement qui a été intégré à Adobe Identity, vos étapes sont différentes et [vous pouvez les trouver ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
->[Création d’un rôle d’utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
+>[Créer un rôle d’utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -39,28 +39,28 @@ Si vous souhaitez intégrer Marketo via l’ [ API REST](https://experienceleagu
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. Saisissez un e-mail, un prénom et un nom pour l’utilisateur de l’API uniquement. Cliquez sur **[!UICONTROL Suivant]**.
+1. Saisissez un e-mail, un prénom et un nom pour l’utilisateur ou l’utilisatrice de l’API uniquement. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
-   >Ajoutez un motif facultatif ou une date d’expiration d’accès. Les dates d’expiration d’accès sont pratiques pour les employés de courte durée.
+   >Ajoutez une date facultative [!UICONTROL Motif] ou [!UICONTROL Expiration de l’accès]. Les dates d&#39;expiration de l&#39;accès sont pratiques pour les employés temporaires.
 
-1. Sélectionnez le rôle **[!UICONTROL API Only]** et cochez la case **[!UICONTROL API Only]** . Cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez le rôle **[!UICONTROL API uniquement]** et cochez la case **[!UICONTROL API uniquement]**. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. Cliquez sur **[!UICONTROL Send]**.
+1. Cliquez sur **[!UICONTROL Envoyer]**.
 
    ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >
->La fenêtre contextuelle indique, &quot;Une invitation n’est pas requise uniquement pour l’API&quot;, mais cela ne signifie pas que vous avez fait quelque chose de incorrect. Cela signifie simplement que nous allons créer le rôle sans qu’un email d’invitation n’ait à être envoyé.
+>Le pop-up indique « Aucune invitation n’est requise pour l’API uniquement », mais cela ne signifie pas que vous avez fait quelque chose de mal. Cela signifie simplement que nous allons créer le rôle sans qu’un e-mail d’invitation doive être envoyé.
 
-Bon, alors ! Maintenant, allons de l’avant et créons le service personnalisé.
+Très bien, alors ! Créons maintenant le service personnalisé.
 
 >[!MORELIKETHIS]
 >
->[ Créez un service personnalisé à utiliser avec l’API REST ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[Créer un service personnalisé à utiliser avec l’API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

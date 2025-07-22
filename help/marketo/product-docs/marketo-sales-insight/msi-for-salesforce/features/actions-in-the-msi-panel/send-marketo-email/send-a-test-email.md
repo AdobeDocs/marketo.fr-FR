@@ -1,37 +1,37 @@
 ---
-description: Envoi d’un message électronique de test - Documents Marketo - Documentation du produit
-title: Envoyer un email de test
+description: Envoyer un e-mail de test - Documents Marketo - Documentation du produit
+title: Envoyer un e-mail de test
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Envoyer un email de test {#send-a-test-email}
+# Envoyer un e-mail de test {#send-a-test-email}
 
-Avant d’envoyer un email, vous pouvez tester le format de l’email et des jetons en vous envoyant un email de test à toute adresse email.
+Avant d’envoyer un e-mail, vous pouvez tester le format et les jetons de l’e-mail en vous envoyant un e-mail de test à n’importe quelle adresse e-mail.
 
-1. Accédez au panneau Sales Insight dans Salesforce d’un prospect ou d’un contact.
+1. Accédez au panneau [!DNL Sales Insight] en [!DNL Salesforce] d’un prospect ou d’un contact.
 
-1. Cliquez sur **Envoyer un courrier électronique Marketo**.
+1. Cliquez sur **[!UICONTROL Envoyer un e-mail Marketo]**.
 
-1. Cliquez sur **Modifier les destinataires du test**.
+1. Cliquez sur **[!UICONTROL Modifier les destinataires du test]**.
 
-1. Vous pouvez choisir une ou plusieurs pistes dans la liste pour voir comment elles seront restituées. Cliquez sur **Appliquer les modifications** lorsque vous avez terminé.
+1. Vous pouvez choisir un ou plusieurs prospects dans la liste pour voir comment ils seront rendus. Cliquez sur **[!UICONTROL Appliquer les modifications]** lorsque vous avez terminé.
 
    ![](assets/send-a-test-email-1.png)
 
    >[!NOTE]
    >
-   >Pour rappel, la sélection de ces pistes **ne leur envoie pas** le test d’e-mail, il vous montre _à quoi ressemblera l’e-mail_. Si vous choisissez quatre pistes, vous recevrez quatre courriers électroniques de test différents.
+   >Pour rappel, la sélection de ces prospects **ne leur envoie pas** le test d’e-mail, il vous montre _à quoi ressemblera l’e-mail_. Si vous choisissez quatre prospects, vous recevrez quatre e-mails de test différents.
 
-1. Cliquez sur **Envoyer le test**.
+1. Cliquez sur **[!UICONTROL Envoyer un test]**.
 
-Vous recevrez un email avec des valeurs de jeton renseignées pour les pistes que vous choisissez.
+Vous recevrez un e-mail avec des valeurs de jeton renseignées pour les prospects que vous avez choisis.
 
 >[!NOTE]
 >
->Ne vous inquiétez pas, vous resterez sur la page &quot;Envoyer un courrier électronique Marketo&quot; même après l’envoi de l’e-mail de test. Vous ne perdrez donc pas l’e-mail que vous avez créé.
+>Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL  Envoyer un e-mail Marketo ] » même après l’envoi de l’e-mail de test, vous ne perdrez donc pas l’e-mail que vous avez créé.

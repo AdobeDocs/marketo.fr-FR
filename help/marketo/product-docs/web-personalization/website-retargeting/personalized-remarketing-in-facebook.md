@@ -1,67 +1,67 @@
 ---
 unique-page-id: 4720917
-description: Remarketing personnalisé dans Facebook - Documents Marketo - Documentation du produit
-title: Remarketing personnalisé dans Facebook
+description: Remarketing personnalisé sur Facebook - Documents Marketo - Documentation du produit
+title: Remarketing personnalisé sur Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 8%
 
 ---
 
-# Remarketing personnalisé dans Facebook {#personalized-remarketing-in-facebook}
+# Remarketing personnalisé dans [!DNL Facebook] {#personalized-remarketing-in-facebook}
 
 Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’aide des données RTP et de la puissance du remarketing Facebook.
 
 >[!PREREQUISITES]
 >
->* Terminez la configuration [Reciblage avec les données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Consultez la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
+>* Effectuez la configuration [Reciblage avec données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Consultez la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
 
-## Création d’une audience dans Facebook {#creating-an-audience-in-facebook}
+## Création d’une audience dans [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. Dans Facebook, accédez à votre [onglet Audience](https://www.facebook.com/ads/audience_manager) dans Ads Manager.
+1. Dans [!DNL Facebook], accédez à l’onglet [ Audience ](https://www.facebook.com/ads/audience_manager) dans le Gestionnaire de publicités.
 
-1. Cliquez sur **Outils** et sélectionnez **Audiences**.
+1. Cliquez sur **[!UICONTROL Outils]** et sélectionnez **[!UICONTROL Audiences]**.
 
    ![](assets/one-1.png)
 
-1. Cliquez sur **Créer une audience personnalisée**.
+1. Cliquez sur **[!UICONTROL Créer une audience personnalisée]**.
 
    ![](assets/two-1.png)
 
-1. Sélectionnez **Trafic du site Web**.
+1. Sélectionnez **[!UICONTROL Trafic du site web]**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Dans la liste Trafic du site Web, sélectionnez **Combinaison personnalisée**.
+1. Dans la liste [!UICONTROL Trafic du site Web], sélectionnez **[!UICONTROL Combinaison personnalisée]**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. Dans la liste Inclure, sélectionnez **Event**.
+1. Dans la liste Inclure, sélectionnez **[!UICONTROL Événement]**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Dans la liste Event, sélectionnez **RTP Remarketing** et sélectionnez un paramètre.
+1. Dans la liste [!UICONTROL Événement], sélectionnez **[!UICONTROL Remarketing RTP]** et sélectionnez un paramètre.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Pour cet exemple, sélectionnez Secteur industriel pour contenir **Éducation**. Saisissez **Education** et modifiez **Dans les** derniers jours pour qu&#39;il dure 180 jours. Saisissez le Nom du public : **Secteur de l’éducation**. Cliquez sur **Créer une audience**.
+1. Pour cet exemple, sélectionnez [!UICONTROL Industrie] pour contenir **[!UICONTROL Éducation]**. Entrez **[!UICONTROL Formation]** et modifiez **[!UICONTROL Au cours des derniers]** pour être de 180 jours. Saisissez le nom de l’audience : **secteur de l’éducation**. Cliquez sur **[!UICONTROL Créer une audience]**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. Vous avez maintenant créé une audience personnalisée à l’aide des données RTP dans Facebook.
+1. Vous avez maintenant créé une audience personnalisée à l’aide des données RTP dans [!DNL Facebook].
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## Points de données RTP dans Facebook {#rtp-data-points-in-facebook}
+## Points de données RTP dans [!DNL Facebook] {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Nom de l'événement</th> 
+   <th>Nom de l’événement</th> 
    <th> </th> 
   </tr> 
   <tr> 
@@ -87,12 +87,12 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
         <td colspan="1"><p>Entreprise</p><p>PME</p></td> 
        </tr> 
        <tr> 
-        <td>Industrie</td> 
-        <td><p>Défense</p><p>Formation</p><p>Services financiers</p><p>État</p><p>Santé, pharmacie, biotechnologie</p><p>Logiciels et Internet</p><p>etc.. (conformément aux options du secteur de la technologie de pointe)</p></td> 
+        <td>Secteur industriel</td> 
+        <td><p>Défense</p><p>Formation</p><p>Services financiers</p><p>État</p><p>Santé, Pharmacie, Biotechnologie</p><p>Logiciels et Internet</p><p>etc... (selon les options de RTP Industry)</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">Public segmenté</td> 
-        <td colspan="1">(Nom de l’audience segmentée créée dans RTP)</td> 
+        <td colspan="1">(Nom de l’audience segmentée créée dans le RTP)</td> 
        </tr> 
       </tbody> 
      </table> 
@@ -101,15 +101,15 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
  </tbody> 
 </table>
 
-## Ciblage de votre audience avec une publicité {#target-your-audience-with-an-ad}
+## Cibler votre audience avec une publicité {#target-your-audience-with-an-ad}
 
-Pour plus d’informations, voir la [documentation Facebook ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+Pour plus d’informations, voir [documentation de Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Accédez au Gestionnaire de publicités, cliquez sur **Créer l’annonce**.
+1. Accédez au Gestionnaire de publicités, cliquez sur **[!UICONTROL Créer une publicité]**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Sélectionnez **Envoyer les personnes à votre site web** comme objectif de votre campagne.
+1. Sélectionnez **[!UICONTROL Envoyer des personnes à votre site web]** comme objectif de votre campagne.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -117,17 +117,17 @@ Pour plus d’informations, voir la [documentation Facebook ](https://developers
 
    ![](assets/image2015-1-19-17-3a12-3a39.png)
 
-1. Créez votre visionneuse d’annonces. Sélectionnez une audience personnalisée dans la liste des audiences que vous avez créées, par exemple, le secteur de l’éducation.
+1. Créez votre visionneuse d’annonces. Sélectionnez une audience personnalisée dans la liste des audiences que vous avez créées, par exemple, Secteur de l’éducation.
 
    ![](assets/image2015-1-19-17-3a18-3a13.png)
 
-1. Sélectionnez toutes les autres options de jeux de publicités, définissez votre budget et vos créations publicitaires.
+1. Sélectionnez toutes les autres options de visionneuse d’annonces, définissez votre budget et vos contenus publicitaires.
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. Vous êtes désormais tous configurés avec une campagne de remarketing personnalisée dans Facebook.
+1. Vous disposez désormais tous d’une campagne de remarketing personnalisée en [!DNL Facebook].
 
 >[!MORELIKETHIS]
 >
->* [Reciblage avec des données Personalization Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [Remarketing personnalisé dans Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [Reciblage avec des données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [ Remarketing personnalisé dans Google ](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

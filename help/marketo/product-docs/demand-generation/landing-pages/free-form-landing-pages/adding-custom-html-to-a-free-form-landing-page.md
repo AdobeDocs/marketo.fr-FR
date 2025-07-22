@@ -4,7 +4,7 @@ description: Ajout d’HTML personnalisé à une page de destination de forme li
 title: Ajout d’HTML personnalisé à une page de destination de forme libre
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Vous pouvez ajouter des scripts personnalisés, des feuilles CSS ou d’autres H
 >
 >La prise en charge de Marketo Engage n’est pas configurée pour vous aider à résoudre les problèmes liés aux HTML personnalisées. Pour obtenir de l’aide sur HTML, consultez un développeur web.
 
-1. Sélectionnez votre page de destination et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre page de destination et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ Vous pouvez ajouter des scripts personnalisés, des feuilles CSS ou d’autres H
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Saisissez votre code HTML personnalisé, puis cliquez sur **Enregistrer**.
+1. Saisissez votre code HTML personnalisé, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

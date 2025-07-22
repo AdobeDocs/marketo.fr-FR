@@ -4,7 +4,7 @@ description: Suppression d’un rapport - Documents Marketo - Documentation du p
 title: Suppression d’un rapport
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Suppression d’un rapport {#delete-a-report}
 
-Une fois que vous avez commencé à [créer des rapports](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), vous pouvez rapidement en obtenir beaucoup. N’oubliez pas de supprimer les rapports dont vous n’avez plus besoin.
+Une fois que vous avez commencé [à créer des rapports](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), vous pouvez rapidement en obtenir un grand nombre. Pensez à supprimer les rapports dont vous n’avez plus besoin.
 
-1. Cliquez avec le bouton droit sur le rapport superflu dans l’arborescence et sélectionnez **Supprimer le rapport**.
+1. Cliquez avec le bouton droit sur le rapport inutile dans l’arborescence et sélectionnez **[!UICONTROL Supprimer le rapport]**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -23,4 +23,4 @@ Une fois que vous avez commencé à [créer des rapports](/help/marketo/product-
 
    ![](assets/image2014-9-16-14-3a26-3a53.png)
 
-   Le rapport disparaît de l&#39;arbre. Allez-y, supprimez d&#39;autres anciens rapports maintenant !
+   Le rapport disparaît de l’arborescence. Allez-y, supprimez d’autres anciens rapports maintenant !

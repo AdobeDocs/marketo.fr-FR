@@ -4,7 +4,7 @@ description: Ajouter un jeton de script d’e-mail à votre e-mail - Documents M
 title: Ajouter un jeton de script d’e-mail à votre e-mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
@@ -19,11 +19,11 @@ Après avoir [créé votre script d’e-mail](/help/marketo/product-docs/email-m
 >
 >La taille totale de tous les jetons de script insérés dans un seul email ne peut pas dépasser 100KB.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/one-2.png)
 
-1. Recherchez et sélectionnez l’e-mail auquel vous souhaitez ajouter le jeton, puis cliquez sur **Modifier le brouillon**.
+1. Recherchez et sélectionnez l’e-mail auquel vous souhaitez ajouter le jeton, puis cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ Après avoir [créé votre script d’e-mail](/help/marketo/product-docs/email-m
 
    ![](assets/four-2.png)
 
-1. Recherchez et sélectionnez le jeton de script de messagerie que vous avez créé précédemment et cliquez sur **Insérer**.
+1. Recherchez et sélectionnez le jeton de script de messagerie que vous avez créé précédemment et cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/five-1.png)
 

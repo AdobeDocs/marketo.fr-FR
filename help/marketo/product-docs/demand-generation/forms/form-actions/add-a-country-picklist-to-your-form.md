@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949966
-description: Ajout d’une liste de pays à votre formulaire - Documents Marketo - Documentation du produit
-title: Ajout d’une liste de pays à votre formulaire
+description: Ajouter une liste de sélection de pays à votre formulaire - Documents Marketo - Documentation du produit
+title: Ajouter une liste de sélection de pays à votre formulaire
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Ajout d’une liste de pays à votre formulaire {#add-a-country-picklist-to-your-form}
+# Ajouter une liste de sélection de pays à votre formulaire {#add-a-country-picklist-to-your-form}
 
-Suivez ces instructions pour convertir le champ pays en liste déroulante avec la liste de tous les pays.
+Suivez ces instructions pour convertir le champ pays en liste déroulante avec une liste de tous les pays.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec l
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Recherchez et sélectionnez **Country**.
+1. Recherchez et sélectionnez **[!UICONTROL Pays]**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Avec le champ **Country** sélectionné, remplacez le **Field Type** par **Select**.
+1. Lorsque le champ **[!UICONTROL Pays]** est sélectionné, remplacez **[!UICONTROL Type de champ]** par **[!UICONTROL Sélectionner]**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Modifiez** les **valeurs** pour ajouter la liste des pays dans lesquels les utilisateurs peuvent choisir.
+1. **[!UICONTROL Modifiez]** le **[!UICONTROL Valeurs]** pour ajouter la liste des pays parmi lesquels les utilisateurs peuvent choisir.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Cliquez sur **Avancé** **Éditeur**.
+1. Cliquez sur **[!UICONTROL Éditeur avancé]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -55,26 +55,26 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec l
 
    >[!TIP]
    >
-   >N’hésitez pas à modifier la liste ou à utiliser toute autre liste.
+   >N’hésitez pas à modifier la liste ou à en utiliser une autre.
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   C&#39;est joli ! Désormais, lorsqu’une personne remplit votre formulaire, elle peut choisir parmi la liste des pays que vous avez fournis.
+   Bien joué ! Désormais, lorsqu’une personne remplit votre formulaire, elle peut choisir parmi les pays que vous avez fournis.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
-Comme c&#39;était si facile, pourquoi ne pas en faire plus ? Que diriez-vous d’afficher dynamiquement le champ Etat lorsqu’un utilisateur sélectionne Etats-Unis comme pays dans la liste ? Consultez l’article correspondant ci-dessous pour savoir comment le faire.
+Puisque c&#39;était si facile, pourquoi ne pas en faire plus ? Que diriez-vous d’afficher de manière dynamique le champ État lorsqu’un utilisateur sélectionne États-Unis comme pays dans la liste ? Consultez l’article connexe ci-dessous pour savoir comment procéder.
 
 >[!MORELIKETHIS]
 >
->[Activer/désactiver dynamiquement la visibilité d’un champ de formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+>[Activer/désactiver la visibilité dynamique d’un champ de formulaire](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)

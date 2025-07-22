@@ -6,7 +6,7 @@ exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 11%
@@ -22,7 +22,7 @@ Lors de l’exécution d’une _offre de parrainage_ ou d’un _tirage au sort_,
 * **Déclencheur de liste dynamique**
 * Événement personnalisé JavaScript
 
-Si vous choisissez d’utiliser l’option **Déclencheur de liste dynamique** pour spécifier un objectif, vous devez utiliser l’étape de flux **Accorder du crédit au référent**.
+Si vous choisissez d’utiliser l’option **Déclencheur de liste dynamique** pour spécifier un objectif, vous devez utiliser l’étape de flux **[!UICONTROL Accorder du crédit au référent]**.
 
 ![](assets/give-credit-to-referrer-1.png)
 

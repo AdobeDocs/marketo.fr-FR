@@ -1,18 +1,18 @@
 ---
-description: Mappage des champs Veeva par défaut - Documents Marketo - Documentation du produit
-title: Mappage des champs Veeva par défaut
+description: Mappage  [!DNL Veeva]  Champ Par Défaut - Documents Marketo - Documentation Du Produit
+title: Mappage  [!DNL Veeva]  champs par défaut
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 44%
+source-wordcount: '253'
+ht-degree: 47%
 
 ---
 
-# Mappage des champs Veeva par défaut {#default-veeva-field-mapping}
+# Mappage par défaut des champs de [!DNL Veeva] {#default-veeva-field-mapping}
 
-Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva, Marketo effectue automatiquement ces associations entre vos champs intégrés Veeva et Marketo. Marketo synchronise également vos champs personnalisés dans vos comptes et contacts.
+Lorsque vous synchronisez initialement votre compte Marketo Engage avec [!DNL Veeva], Marketo effectue automatiquement ces associations entre vos champs intégrés [!DNL Veeva] et Marketo. Marketo synchronisera également vos champs personnalisés sur vos comptes et contacts.
 
 ## Champs de contact {#contact-fields}
 
@@ -70,7 +70,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
     </tr>
     <tr>
       <td>Évaluation des leads</td>
-      <td>Évaluation</td>
+      <td>Score</td>
     </tr>
     <tr>
       <td>MailingCity</td>
@@ -127,8 +127,8 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
   </thead>
   <tbody>
     <tr>
-      <td>Chiffre d'affaires annuel</td>
-      <td>Chiffre d'affaires annuel</td>
+      <td>Revenus annuels</td>
+      <td>Revenus annuels</td>
     </tr>
     <tr>
       <td>Ville de facturation</td>
@@ -139,11 +139,11 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
       <td>Pays de facturation</td>
     </tr>
     <tr>
-      <td>Code postal de facturation</td>
+      <td>Code Postal De Facturation</td>
       <td>Code postal de facturation</td>
     </tr>
     <tr>
-      <td>État/province de facturation</td>
+      <td>Province/état de facturation</td>
       <td>État de facturation</td>
     </tr>
     <tr>
@@ -155,8 +155,8 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
       <td>Notes sur la société</td>
     </tr>
     <tr>
-      <td>Industrie</td>
-      <td>Industrie</td>
+      <td>Secteur industriel</td>
+      <td>Secteur industriel</td>
     </tr>
     <tr>
       <td>Supprimé</td>
@@ -164,7 +164,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
     </tr>
     <tr>
       <td>Nom de compte</td>
-      <td>Nom de l’entreprise</td>
+      <td>Nom de la société</td>
     </tr>
     <tr>
       <td>Employés</td>
@@ -193,7 +193,7 @@ Lors de la synchronisation initiale de votre compte de Marketo Engage avec Veeva
   </tbody>
 </table>
 
-## Champs de système associés à Veeva dans Marketo (lecture seule) {#veeva-related-system-fields-in-marketo}
+## Champs système liés au [!DNL Veeva] dans Marketo (lecture seule) {#veeva-related-system-fields-in-marketo}
 
 Ces champs sont créés dans Marketo mais ne peuvent pas être ajustés par les clients.
 
@@ -210,20 +210,20 @@ Ces champs sont créés dans Marketo mais ne peuvent pas être ajustés par les 
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>L’identifiant Salesforce à 18 caractères</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>Identifiant de [!DNL Salesforce] de 18 caractères</td>
     </tr>
     <tr>
-      <td>Type de Veeva</td>
-      <td>Contact. S’il est vide, le prospect n’existe que comme une personne dans Marketo</td>
+      <td>[!DNL Veeva] Type</td>
+      <td>Contact. Si ce champ est vide, le prospect n’existe que comme personne dans Marketo</td>
     </tr>
     <tr>
-      <td>Date de création de Veeva</td>
-      <td>Date de création dans SFDC (peut différer de celle de création dans Marketo)</td>
+      <td>[!DNL Veeva] Date de création</td>
+      <td>Date de création dans SFDC (peut être différente de la date de création dans Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva est supprimée</td>
-      <td>La personne se trouvait auparavant dans la SFDC mais a été supprimée et vit désormais uniquement dans Marketo.</td>
+      <td>[!DNL Veeva] est supprimé</td>
+      <td>Cette personne se trouvait auparavant dans SFDC, mais a été supprimée. Elle vit désormais uniquement dans Marketo</td>
     </tr>
   </tbody>
 </table>

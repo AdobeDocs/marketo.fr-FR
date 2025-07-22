@@ -4,7 +4,7 @@ description: Utilisation de modèles pour créer des campagnes web - Documents M
 title: Utilisation de modèles pour créer des campagnes web
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -13,17 +13,17 @@ ht-degree: 1%
 
 # Utilisation de modèles pour créer des campagnes web {#using-templates-to-create-web-campaigns}
 
-Accélérez et simplifiez votre processus de création de campagnes web en utilisant nos modèles intégrés ou en [enregistrant vos propres](save-your-campaign-as-a-template.md).
+Accélérez et simplifiez votre processus de création de campagnes web en utilisant nos modèles intégrés ou en [enregistrant les vôtres](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
->Les modèles sont optimisés pour tous les appareils et les expériences de navigation sur les ordinateurs de bureau et les appareils mobiles.
+>Les modèles sont optimisés pour tous les appareils et les expériences de navigation pour les ordinateurs de bureau et les appareils mobiles.
 
-1. Accédez à **Campagnes Web**.
+1. Accédez à **[!UICONTROL Campagnes web]**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Cliquez sur **Créer une campagne web**.
+1. Cliquez sur **[!UICONTROL Créer une campagne web]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,35 +31,35 @@ Accélérez et simplifiez votre processus de création de campagnes web en utili
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Sélectionnez un segment cible.
+1. Sélectionnez un [!UICONTROL segment cible].
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Cliquez sur **Modèles**.
+1. Cliquez sur **[!UICONTROL Modèles]**.
 
    ![](assets/templates.png)
 
-1. Sélectionnez la zone appropriée à votre campagne pour afficher et sélectionner un modèle qui vous convient.
+1. Sélectionnez la zone appropriée pour que votre campagne affiche et sélectionnez un modèle qui fonctionne pour vous.
 
    >[!NOTE]
    >
-   >Il y a des modèles sympas à choisir, et nous en ajouterons d&#39;autres à l&#39;avenir.
+   >Il existe de bons modèles parmi lesquels choisir, et nous en ajouterons d’autres à l’avenir.
 
    ![](assets/select.png)
 
    >[!TIP]
    >
-   >Pour les campagnes mobiles, sélectionnez un modèle dans la section **mobile** .
+   >Pour les campagnes mobiles, sélectionnez un modèle dans la section **mobile**.
 
 1. Personnalisez le modèle.
 
    ![](assets/customize-template.jpg)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/click-save-hand.jpg)
 
-C&#39;est joli ! Avez-vous vu combien de temps vous avez économisé en utilisant un modèle ?
+Bien joué ! Avez-vous vu combien de temps vous avez gagné en utilisant un modèle ?
 
 >[!MORELIKETHIS]
 >

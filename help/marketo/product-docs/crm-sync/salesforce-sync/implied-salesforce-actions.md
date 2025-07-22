@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719304
-description: Actions Salesforce appliquées - Documents Marketo - Documentation du produit
-title: Actions Salesforce appliquées
+description: Actions Salesforce implicites - Documentation de Marketo - Documentation du produit
+title: Actions Salesforce implicites
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 21%
 
 ---
 
-# Actions Salesforce appliquées {#implied-salesforce-actions}
+# Actions Salesforce implicites {#implied-salesforce-actions}
 
-Lorsqu’une étape de flux spécifique à Salesforce s’exécute, des étapes supplémentaires sont parfois automatiquement exécutées. Voici les règles, donc vous savez :
+Lorsqu’une étape de flux spécifique à [!DNL Salesforce] s’exécute, des étapes supplémentaires sont parfois exécutées automatiquement. Voici les règles, donc vous savez :
 
-Ces règles s’appliquent lorsque la personne n’est actuellement pas dans [Salesforce.com](https://Salesforce.com){target="_blank"} en tant que contact ou prospect.
+Ces règles s&#39;appliquent lorsque la personne n&#39;est pas actuellement dans [Salesforce.com](https://Salesforce.com){target="_blank"} en tant que contact ou prospect.
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ Ces règles s’appliquent lorsque la personne n’est actuellement pas dans [Sa
   </tr> 
   <tr> 
    <td>Modifier le statut dans une campagne SFDC</td> 
-   <td>Synchroniser la personne avec SFDC<br>Ajouter à SFDC Campaign</td> 
+   <td>Synchroniser la personne avec SFDC<br>Add à SFDC Campaign</td> 
   </tr> 
   <tr> 
    <td>Modifier le détenteur</td> 
@@ -48,6 +48,6 @@ Ces règles s’appliquent lorsque la personne n’est actuellement pas dans [Sa
  </tbody> 
 </table>
 
-Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type SFDC]** avec l’opérateur défini sur &quot;n’est pas vide&quot;. Tous les enregistrements de la DDC ont une valeur dans ce champ.
+Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type de SFDC]** avec l’opérateur défini sur « [!UICONTROL  n’est pas vide »]. Tous les enregistrements SFDC ont une valeur dans ce champ.
 
-N’oubliez pas que ces actions automatiques ne se produisent que si le prospect n’est pas actuellement dans [Salesforce.com](https://salesforce.com){target="_blank"}
+N&#39;oubliez pas que ces actions automatiques ne se produisent que si le prospect n&#39;est pas actuellement dans [Salesforce.com](https://salesforce.com){target="_blank"}

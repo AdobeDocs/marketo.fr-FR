@@ -1,70 +1,70 @@
 ---
 unique-page-id: 12980873
-description: Graphiques rapides de statistiques sur les performances - Documents Marketo - Documentation du produit
-title: Graphiques rapides sur les statistiques de performances
+description: Graphiques Rapides D’Informations Sur Les Performances - Documents Marketo - Documentation Du Produit
+title: Graphiques rapides d’informations sur les performances
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Graphiques rapides sur les statistiques de performances {#performance-insights-quick-charts}
+# [!UICONTROL Informations sur les performances] [!UICONTROL graphiques rapides] {#performance-insights-quick-charts}
 
-Les tableaux rapides sont des miniatures que vous personnalisez et enregistrez, ce qui vous permet d’afficher rapidement les graphiques que vous utilisez le plus souvent.
+Les [!UICONTROL graphiques rapides] sont des miniatures que vous personnalisez et enregistrez pour obtenir un aperçu rapide des graphiques que vous utilisez le plus.
 
-## Création d’un graphique rapide {#create-a-new-quick-chart}
+## Créer un graphique rapide {#create-a-new-quick-chart}
 
-Les graphiques rapides dérivent des données que vous spécifiez. Dans cet exemple, nous allons choisir : **nouvelles opportunités (Première touche), type d’opportunité = nouvelle entreprise, année à jour**.
+[!UICONTROL Graphiques rapides] dériver des données que vous spécifiez. Dans cet exemple, nous choisirons : **nouvelles opportunités (première touche), type d’opportunité = nouvelle entreprise, cumul annuel actuel**.
 
-1. Cliquez sur le filtre de date et sélectionnez **Current Year (YTD)**.
+1. Cliquez sur le filtre de date et choisissez **[!UICONTROL Année en cours (YTD)]**.
 
    ![](assets/1-2.png)
 
-1. Cliquez sur **+** et sélectionnez vos critères.
+1. Cliquez sur le **+** et sélectionnez vos critères.
 
    ![](assets/2-2.png)
 
-1. Le graphique se met à jour pour refléter les filtres que vous avez choisis.
+1. Le graphique est mis à jour pour refléter les filtres que vous avez choisis.
 
    ![](assets/3-3.png)
 
-1. Cliquez sur l’icône Exporter et sélectionnez **Enregistrer en tant que graphique rapide**.
+1. Cliquez sur l’icône Exporter et sélectionnez **[!UICONTROL Enregistrer en tant que graphique rapide]**.
 
    ![](assets/4-2.png)
 
-1. Nommez votre graphique rapide et cliquez sur **Enregistrer**.
+1. Nommez votre graphique rapide et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/5-3.png)
 
-Votre graphique rapide est maintenant disponible avec les autres.
+Votre graphique rapide est maintenant avec les autres.
 
 ![](assets/6-3.png)
 
 >[!NOTE]
 >
->Vous pouvez avoir jusqu’à 20 tableaux rapides. Ils peuvent être supprimés et remplacés.
+>Vous pouvez avoir jusqu&#39;à 20 graphiques rapides. Ils peuvent être supprimés et remplacés.
 
-## Affichage des graphiques rapides existants {#view-existing-quick-charts}
+## Afficher les graphiques rapides existants {#view-existing-quick-charts}
 
-1. Pour afficher vos tableaux rapides existants, cliquez simplement sur l’icône **Graphiques rapides** .
+1. Pour afficher vos graphiques rapides existants, cliquez simplement sur l’icône **[!UICONTROL Graphiques rapides]**.
 
    ![](assets/7-1.png)
 
-## Suppression d’un graphique rapide {#delete-a-quick-chart}
+## Supprimer un graphique rapide {#delete-a-quick-chart}
 
 Si vous devez supprimer un graphique rapide, procédez comme suit.
 
-1. Cliquez sur l’icône **Graphiques rapides** .
+1. Cliquez sur l’icône **[!UICONTROL Graphiques rapides]**.
 
    ![](assets/8-1.png)
 
-1. Passez la souris sur le graphique souhaité, mais ne cliquez pas dessus. Lorsque vous survolez, un X s’affiche. Cliquez sur le **X**.
+1. Pointez sur le graphique souhaité, mais ne cliquez pas dessus. Au survol, un X s’affiche. Cliquez sur le **X**.
 
    ![](assets/9-2.png)
 
-1. Cliquez sur **Supprimer**.
+1. Cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/10-1.png)

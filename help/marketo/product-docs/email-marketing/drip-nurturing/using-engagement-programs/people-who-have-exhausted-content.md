@@ -1,62 +1,62 @@
 ---
 unique-page-id: 2359953
-description: Personnes qui ont du contenu épuisé - Documents Marketo - Documentation du produit
-title: Personnes qui ont extrait du contenu
+description: Personnes Ayant Épuisé Leur Contenu - Documents Marketo - Documentation Du Produit
+title: Personnes Ayant Épuisé Le Contenu
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Personnes qui ont extrait du contenu {#people-who-have-exhausted-content}
+# Personnes Ayant Épuisé Le Contenu {#people-who-have-exhausted-content}
 
-Lorsqu&#39;une personne a reçu chaque élément de contenu dans un flux, elle a épuisé toutes les possibilités et attend d&#39;en ajouter encore plus. Vous pouvez trouver des gens qui sont &quot;épuisés&quot; de plusieurs façons.
+Lorsqu’une personne a reçu chaque élément de contenu dans un flux, il a épuisé toutes les possibilités et restera inactif jusqu’à ce que d’autres éléments soient ajoutés. Vous pouvez trouver des gens qui sont « épuisés » de plusieurs façons.
 
-## Filtre Programme des membres de l’engagement {#member-of-engagement-program-filter}
+## Filtre du programme Membre de l’engagement {#member-of-engagement-program-filter}
 
-1. Créez une nouvelle liste dynamique, puis recherchez et faites glisser le filtre **Programme membre de l’engagement**.
+1. Créez une liste dynamique, puis recherchez le filtre **[!UICONTROL Membre du programme d’engagement]** et faites-le glisser.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
-1. Trouvez et sélectionnez le programme d&#39;engagement dans lequel trouver les gens épuisés.
+1. Recherchez et sélectionnez le programme d’engagement dans lequel trouver les personnes épuisées.
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Sous **Ajouter une contrainte**, sélectionnez **Contenu extrait**.
+1. Sous **[!UICONTROL Ajouter une contrainte]**, sélectionnez **[!UICONTROL Contenu épuisé]**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Définissez **Exhausted Content** sur **true**.
+1. Définissez **[!UICONTROL Exhausted Content]** sur **[!UICONTROL true]**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
-   Il vous suffit d’exécuter cette liste dynamique pour voir la liste des personnes qui ont épuisé tout le contenu du flux dans lequel ils se trouvent.
+   Il vous suffit d’exécuter cette liste dynamique pour afficher la liste des personnes qui ont épuisé tout le contenu du flux dans lequel elles se trouvent.
 
 ## Onglet Membres {#members-tab}
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/ma.png)
 
-1. Sélectionnez votre programme d’engagement et accédez à l’onglet **Membres** .
+1. Sélectionnez votre programme d’engagement et accédez à l’onglet **[!UICONTROL Membres]**.
 
    ![](assets/memberstab.jpg)
 
-1. Notez la colonne intitulée **Contenu extrait**.
+1. Remarquez la colonne intitulée **[!UICONTROL Contenu épuisé]**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
-   Cela vous montre les personnes qui ont épuisé tout le contenu et celles qui ne l&#39;ont pas fait.
+   Cela vous montre les personnes qui ont épuisé tout le contenu et celles qui ne l’ont pas fait.
 
 ## Stream {#stream}
 
-1. Vous pouvez également voir le nombre total de personnes qui ont épuisé le contenu sous l’onglet Flux du flux lui-même.
+1. Vous pouvez également voir le nombre total de personnes qui ont épuisé le contenu sous l’onglet [!UICONTROL Flux] sur le flux lui-même.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 
    >[!NOTE]
    >
-   >Ce nombre sera mis à jour immédiatement après chaque diffusion.
+   >Ce numéro sera mis à jour immédiatement après chaque cast.

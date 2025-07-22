@@ -1,38 +1,38 @@
 ---
 unique-page-id: 11384645
-description: Présentation de tout le contenu - Documents Marketo - Documentation du produit
-title: Comprendre tout le contenu
+description: Présentation De Tout Le Contenu - Documents Marketo - Documentation Du Produit
+title: Présentation de tout le contenu
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-# Comprendre tout le contenu {#understanding-all-content}
+# Présentation de tout le contenu {#understanding-all-content}
 
-La page Tout le contenu affiche tout le contenu qui a été découvert ou ajouté manuellement.
+La page Tout le contenu affiche tout le contenu découvert ou ajouté manuellement.
 
 ![](assets/image2017-10-3-9-3a4-3a56.png)
 
-Les champs de page incluent :
+Les champs de la page sont les suivants :
 
-* **Titre** : nom de l’élément de contenu
-* **Catégories** : créé par vous et utilisé pour regrouper vos résultats prédictifs pour le web ou l’email
-* **Vues** : nombre total de clics sur le contenu web découvert (y compris toutes les sources)
-* **Conversions** : nombre de visiteurs qui ont affiché un élément de contenu et ont rempli un formulaire au cours de la même visite.
-* **Taux de conversion** : pourcentage calculé par conversions directes divisé par le nombre de clics
-* **Approuver pour le prédictif** : l’icône s’affiche si le contenu est approuvé
+* **[!UICONTROL Titre]** : nom de l’élément de contenu
+* **[!UICONTROL Catégories]** : créé par vous et utilisé pour regrouper vos résultats prédictifs pour le web ou les e-mails.
+* **[!UICONTROL Vues]** : nombre total de clics sur le contenu web découvert (toutes sources comprises)
+* **[!UICONTROL Conversions]** : nombre de visiteurs et visiteuses qui ont consulté un élément de contenu et rempli un formulaire au cours de la même visite
+* **[!UICONTROL Taux de conversion]** : pourcentage calculé par les conversions directes divisées par les clics
+* **[!UICONTROL Approuver pour prédiction]** : l’icône s’affiche si le contenu est approuvé
 
-Vous pouvez ajouter un nouveau contenu et en effectuer le suivi, supprimer un élément de contenu ou approuver un élément de contenu. Après avoir approuvé le contenu, vous pouvez le modifier sur la page Contenu prédictif .
+Vous pouvez ajouter un nouvel élément de contenu et le suivre, le supprimer ou l’approuver. Après avoir approuvé le contenu, vous pouvez le modifier sur la page Contenu prédictif .
 
-## Filtrage du contenu par catégories  {#filter-content-by-categories}
+## Filtrer le contenu par catégories  {#filter-content-by-categories}
 
-Filtrez le contenu en sélectionnant une ou plusieurs catégories. Configurez ensuite la période ou la période pour l’analyse de contenu, à l’aide de paramètres standard ou personnalisés.
+Filtrez le contenu en sélectionnant une ou plusieurs catégories. Ensuite, configurez la date ou la période pour l’analyse de contenu à l’aide des paramètres standard ou personnalisés.
 
-1. Sur la page **Tout le contenu**, cliquez sur l’icône de filtre et sous **Catégorie**, sélectionnez une ou plusieurs catégories de contenu.
+1. Sur la page **[!UICONTROL Tout le contenu]**, cliquez sur l’icône de filtre et sous **[!UICONTROL Catégorie]**, sélectionnez une ou plusieurs catégories de contenu.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -40,17 +40,17 @@ Filtrez le contenu en sélectionnant une ou plusieurs catégories. Configurez en
 
    ![](assets/image2017-10-3-9-3a6-3a23.png)
 
-## Afficher les analyses pour une date ou une période {#display-analytics-for-a-date-or-date-range}
+## Affichage d’analyses pour une date ou une période {#display-analytics-for-a-date-or-date-range}
 
-1. Pour afficher les données d’une période ou d’une période spécifique, cliquez sur l’icône Calendrier, puis sélectionnez dans le panneau de gauche. Pour une période personnalisée, cliquez sur le premier et le dernier jour de la période du calendrier (comme illustré). Cliquez sur **Apply**.
+1. Pour afficher des données pour une date ou une période spécifique, cliquez sur l’icône de calendrier, puis sélectionnez dans le panneau de gauche. Pour une période personnalisée, cliquez sur le premier et le dernier jour de la période du calendrier (comme illustré). Cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
-1. Désormais, les analyses s’affichent pour le contenu de la période sélectionnée.
+1. Désormais, Analytics s’affiche pour le contenu dans la période sélectionnée.
 
 >[!MORELIKETHIS]
 >
->* [Ajouter un nouveau contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Ajouter nouveau contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
 >* [Supprimer le contenu](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
 >* [Approuver un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
->* [Annulation de l’approbation d’un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
+>* [Désapprouver un titre pour le contenu prédictif](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)

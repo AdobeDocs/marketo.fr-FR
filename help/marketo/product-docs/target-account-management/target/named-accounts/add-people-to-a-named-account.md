@@ -1,45 +1,45 @@
 ---
 unique-page-id: 11378816
 description: Ajout de personnes à un compte nommé - Documents Marketo - Documentation du produit
-title: Ajout de personnes à un compte nommé
+title: Ajouter des personnes à un compte nommé
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Ajout de personnes à un compte nommé {#add-people-to-a-named-account}
+# Ajouter des personnes à un [!UICONTROL Compte nommé] {#add-people-to-a-named-account}
 
-Il existe trois manières différentes d’ajouter manuellement des personnes à un compte nommé dans la gestion des actifs numériques.
+Il existe trois manières différentes d’ajouter manuellement des personnes à un compte nommé dans TAM.
 
 ## Action à flux unique {#single-flow-action}
 
-1. Cliquez sur **Base de données**.
+1. Cliquez sur **[!UICONTROL Base de données]**.
 
    ![](assets/one-2.png)
 
-1. Saisissez l’adresse électronique de la personne et appuyez sur Entrée.
+1. Saisissez l’adresse e-mail de la personne et appuyez sur Entrée.
 
    ![](assets/two.png)
 
-1. Cliquez sur la personne pour la sélectionner. Cliquez sur la liste déroulante **Actions de personne**, cliquez sur **Marketing** et sélectionnez **Ajouter au compte nommé**.
+1. Cliquez sur la personne pour la sélectionner. Cliquez sur la liste déroulante **[!UICONTROL Actions de personne]**, cliquez sur **[!UICONTROL Marketing]** et sélectionnez **[!UICONTROL Ajouter au compte nommé...]**.
 
    ![](assets/three.png)
 
-1. Cliquez sur la liste déroulante **Compte nommé**, sélectionnez le compte nommé de votre choix, puis cliquez sur **Exécuter maintenant**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Compte nommé]**, sélectionnez le [!UICONTROL Compte nommé] souhaité, puis cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/four.png)
 
-## Étape de flux de campagne dynamique {#smart-campaign-flow-step}
+## Étape de flux de campagne intelligente {#smart-campaign-flow-step}
 
-1. Sélectionnez votre campagne dynamique et cliquez sur **Flux**.
+1. Sélectionnez votre campagne intelligente et cliquez sur **[!UICONTROL Flux]**.
 
    ![](assets/five.png)
 
-1. Dans la zone de recherche, saisissez &quot;Ajouter au compte nommé&quot;.
+1. Dans la zone de recherche, saisissez « [!UICONTROL Ajouter au compte nommé] ».
 
    ![](assets/six.png)
 
@@ -47,30 +47,30 @@ Il existe trois manières différentes d’ajouter manuellement des personnes à
 
    ![](assets/seven.png)
 
-1. Cliquez sur la liste déroulante **Compte nommé** et sélectionnez le compte nommé de votre choix.
+1. Cliquez sur le menu déroulant **[!UICONTROL Compte nommé]** et sélectionnez le [!UICONTROL Compte nommé] souhaité.
 
    ![](assets/eight.png)
 
-   C&#39;est tout ! Ensuite, planifiez (ou activez) votre campagne dynamique. L’étape de flux commencera à ajouter les personnes admissibles au compte nommé désigné.
+   Vous avez terminé. Il vous suffit ensuite de planifier (ou d’activer) votre campagne intelligente, et l’étape de flux commencera à ajouter des personnes qualifiées au compte nommé désigné.
 
 ## Importer une liste {#list-import}
 
-1. Sélectionnez votre liste, cliquez sur la liste déroulante **Actions de liste** et sélectionnez **Importer la liste**.
+1. Sélectionnez votre liste, cliquez sur le menu déroulant **[!UICONTROL Actions de liste]** et sélectionnez **[!UICONTROL Importer la liste]**.
 
    ![](assets/nine.png)
 
-1. Après avoir choisi votre fichier et vos paramètres, cliquez sur **Suivant**.
+1. Après avoir choisi votre fichier et vos paramètres, cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/ten.png)
 
-1. Faites correspondre les champs de votre choix. Assurez-vous que le champ **Compte nommé** est mappé.
+1. Mappez les champs de votre choix. Assurez-vous que le champ **[!UICONTROL Compte nommé]** est mappé.
 
    ![](assets/eleven.png)
 
-1. Choisissez les paramètres souhaités, puis cliquez sur **Importer**.
+1. Choisissez les paramètres souhaités, puis cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
->[ Atteindre des correspondances de comptes ](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[Correspondance entre les prospects et les comptes](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

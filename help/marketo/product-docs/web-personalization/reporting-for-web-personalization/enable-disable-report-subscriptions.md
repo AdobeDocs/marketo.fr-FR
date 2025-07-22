@@ -1,26 +1,26 @@
 ---
 unique-page-id: 2949162
-description: Activer/Désactiver les abonnements aux rapports - Documents Marketo - Documentation du produit
-title: Activer/Désactiver les abonnements aux rapports
+description: Activer/Désactiver Les Abonnements Aux Rapports - Documents Marketo - Documentation Du Produit
+title: Activer/Désactiver Les Abonnements Aux Rapports
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Activer/Désactiver les abonnements aux rapports {#enable-disable-report-subscriptions}
+# Activer/Désactiver Les Abonnements Aux Rapports {#enable-disable-report-subscriptions}
 
-Web Personalization comporte plusieurs rapports utiles qui sont envoyés par email. Voici comment s&#39;y abonner.
+[!UICONTROL Web Personalization] comporte plusieurs rapports utiles qui sont envoyés par e-mail. Voici comment s’y abonner.
 
-1. Connectez-vous à Web Personalization. Sous votre nom de connexion, cliquez sur **Paramètres utilisateur**.
+1. Connectez-vous à [!UICONTROL  Web Personalization ]. Sous votre nom d’utilisateur, cliquez sur **[!UICONTROL Paramètres utilisateur]**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. Sélectionnez le rapport auquel vous souhaitez vous abonner et sa fréquence. Cliquez sur **Enregistrer**.
+1. Sélectionnez le rapport auquel vous souhaitez vous abonner et sa fréquence. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/email-settings.png)
 
-   C&#39;est tout ! Pour vous désabonner du rapport, il vous suffit de le décocher et de cliquer sur **Enregistrer**.
+   Vous avez terminé. Pour vous désabonner du rapport, décochez simplement la case et cliquez sur **[!UICONTROL Enregistrer]**.

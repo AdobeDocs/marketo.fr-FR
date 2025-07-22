@@ -1,18 +1,18 @@
 ---
-description: Guide de prise en main pour les administrateurs de Sales Connect - Documents Marketo - Documentation du produit
-title: Guide de prise en main pour les administrateurs de Sales Connect
+description: Guide de prise en main pour les administrateurs  [!DNL Sales Connect]  documents Marketo - Documentation du produit
+title: 'Guide de prise en main pour les  [!DNL Sales Connect] '
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Guide de prise en main pour les administrateurs de Sales Connect {#getting-started-guide-for-sales-connect-admins}
+# Guide de prise en main pour les administrateurs [!DNL Sales Connect] {#getting-started-guide-for-sales-connect-admins}
 
-Ce document vous guide tout au long des étapes initiales de configuration de votre nouvelle instance Sales Connect. Certaines de ces étapes nécessitent un accès en tant qu’administrateur Marketo, administrateur Salesforce et administrateur Sales Connect. Suivez nos guides ci-dessous pour terminer la configuration de votre instance.
+Ce document vous guide tout au long des étapes initiales de configuration de votre nouvelle instance [!DNL Sales Connect]. Certaines de ces étapes nécessitent un accès en tant qu’administrateur Marketo, administrateur [!DNL Salesforce] et administrateur [!DNL Sales Connect]. Suivez nos guides ci-dessous pour terminer la configuration de votre instance.
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ Une fois que vous avez provisionné votre compte Marketo Sales Connect à partir
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Connexion à Salesforce {#connecting-to-salesforce}
+## Connexion à [!DNL Salesforce] {#connecting-to-salesforce}
 
-Tous les utilisateurs devront se connecter individuellement à Salesforce afin d’activer les activités de vente de journaux à Salesforce telles que les e-mails, les appels et les tâches. Cependant, lorsque vous vous connectez à Salesforce en tant qu’administrateur, vous avez la possibilité de configurer les paramètres de journalisation de vos activités pour l’ensemble de votre équipe, de sorte que les paramètres de journalisation globale soient appliqués à tous les utilisateurs de Sales Connect.
+Tous les utilisateurs devront se connecter individuellement à [!DNL Salesforce] afin d’activer les activités de vente de journaux à Salesforce telles que les e-mails, les appels et les tâches. Cependant, lorsque vous vous connectez à Salesforce en tant qu’administrateur, vous avez la possibilité de configurer les paramètres de journalisation de votre activité pour l’ensemble de l’équipe, de sorte que les paramètres de journalisation globale soient appliqués à tous les utilisateurs [!DNL Sales Connect].
 
 Pour connecter votre instance Sales Connect à votre instance Salesforce, que vous soyez administrateur ou non, suivez les étapes décrites dans [cet article](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}.
 
@@ -48,7 +48,7 @@ La connexion à Marketo permettra à vos vendeurs d’exploiter la puissance de 
 
 Pour en savoir plus sur la connexion à Marketo et accorder aux utilisateurs commerciaux l’accès à la connexion, [cliquez ici](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
 
-## Installation du package de personnalisation Salesforce {#installing-salesforce-customization-package}
+## Installation [!DNL Salesforce] package de personnalisation {#installing-salesforce-customization-package}
 
 Pour que les ventes soient un facteur de réussite, il faut notamment disposer des bonnes capacités dans leur espace de travail principal. Le package de personnalisation Sales Connect permet d’accéder aux fonctionnalités d’engagement et aux attributs clés de l’activité de vente à partir de Salesforce.
 

@@ -1,30 +1,30 @@
 ---
 unique-page-id: 14352541
-description: Synchronisation des tâches Sales Connect avec Salesforce pour la première fois - Documents Marketo - Documentation du produit
+description: Synchronisation des tâches de Sales Connect avec Salesforce pour la première fois - Documents Marketo - Documentation du produit
 title: Synchronisation des tâches Sales Connect avec Salesforce pour la première fois
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-# Synchronisation des tâches Sales Connect avec Salesforce pour la première fois {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+# Première synchronisation de tâches [!DNL Sales Connect] avec [!DNL Salesforce] {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Lorsque vous activez la synchronisation pour la première fois entre les tâches Sales Connect et Salesforce, nous importons vos tâches Salesforce. Nous **n’allons pas** passer en revue toutes les tâches en cours dans Sales Connect to Salesforce. Pour réduire l’encombrement et les doublons, les seules tâches synchronisées de Sales Connect dans Salesforce sont les tâches créées *après* avoir synchronisé Sales Connect avec SFDC.
+Lorsque vous activez pour la première fois la synchronisation entre les tâches [!DNL Sales Connect] et [!DNL Salesforce], nous importons vos tâches [!DNL Salesforce]. Nous **transmettrons pas** tâches en cours que vous avez en [!DNL Sales Connect] à [!DNL Salesforce]. Pour réduire l’encombrement et les doublons, les seules tâches synchronisées à partir de [!DNL Sales Connect] dans [!DNL Salesforce] sont les tâches créées *après* vous synchronisez [!DNL Sales Connect] avec SFDC.
 
-Voici ce qui se passe lorsque vous synchronisez les tâches Sales Connect et SFDC :
+Voici ce qui se produit lorsque vous synchronisez des tâches [!DNL Sales Connect] et SFDC :
 
-- Dès que vous cliquez sur Enregistrer lors de la synchronisation des tâches, elles commencent à se synchroniser. Cela prendra du temps au départ.
+- Dès que vous cliquez sur Enregistrer sur les tâches en cours de synchronisation, elles commencent à se synchroniser. Cela prendra un certain temps au début.
 
-- Les rappels qui ont été mis à jour ou créés au cours des dernières 24 heures seront extraits de SFDC vers Sales Connect. La synchronisation est basée sur l’échéance et toutes ces tâches seront synchronisées sur le serveur principal. Toutefois, dans le Centre de commandes, seules les tâches prévues aujourd’hui et demain seront visibles.
+- Tous les rappels qui ont été mis à jour ou créés au cours des dernières 24 heures seront extraits de SFDC vers [!DNL Sales Connect]. La synchronisation est basée sur la date d’échéance et toutes ces tâches seront synchronisées en arrière-plan, mais dans le centre de commande, vous ne verrez que les tâches dues aujourd’hui et demain.
 
-- Si la synchronisation a été activée précédemment et que vous supprimez des tâches dans SFDC, tout ce qui a été supprimé au cours des 15 derniers jours sera supprimé du Centre de commandes.
+- Si la synchronisation a été activée précédemment et que vous supprimez des tâches dans SFDC, tout ce qui a été supprimé au cours des 15 derniers jours sera supprimé du Centre de commande.
 
-- Nous synchroniserons constamment les tâches entre Sales Connect et SFDC tant que la synchronisation est activée.
+- Nous synchroniserons constamment les tâches entre [!DNL Sales Connect] et SFDC tant que la synchronisation sera activée.
 
-Après la synchronisation initiale, toutes les tâches que vous créez, modifiez, terminez ou supprimez dans Sales Connect se synchroniseront avec votre liste de tâches dans Salesforce. Et tout élément créé, modifié, terminé ou supprimé dans Salesforce mettra à jour votre liste de tâches dans Sales Connect.
+Après la synchronisation initiale, toutes les tâches que vous créez, modifiez, terminez ou supprimez dans [!DNL Sales Connect] seront synchronisées avec votre liste de tâches dans [!DNL Salesforce]. Et tout ce qui sera créé, modifié, terminé ou supprimé dans [!DNL Salesforce] mettra à jour votre liste de tâches dans [!DNL Sales Connect].
 
-Pour activer cette synchronisation, cochez simplement la case de synchronisation dans la [page Paramètres](https://toutapp.com/login) de l’application web.
+Pour activer cette synchronisation, cochez simplement la case de synchronisation dans la page [Paramètres](https://toutapp.com/login) de l’application web.

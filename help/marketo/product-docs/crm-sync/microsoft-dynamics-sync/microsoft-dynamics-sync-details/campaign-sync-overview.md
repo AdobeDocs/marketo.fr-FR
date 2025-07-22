@@ -1,22 +1,22 @@
 ---
-description: Présentation de la synchronisation Campaign - Documents Marketo - Documentation du produit
-title: Présentation de la synchronisation des campagnes
+description: Présentation De La Synchronisation De Campaign - Documents Marketo - Documentation Du Produit
+title: Présentation de la synchronisation de la campagne
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Présentation de la synchronisation des campagnes {#campaign-sync-overview}
+# Présentation de la synchronisation de la campagne {#campaign-sync-overview}
 
-Dans le cadre de la synchronisation de Campaign, les utilisateurs peuvent configurer l’automatisation pour opérer sur l’appartenance à une campagne Dynamics. Les pistes qualifiées pour des comportements ou des données démographiques spécifiques peuvent faire partie des campagnes Microsoft.
+Dans le cadre de la synchronisation de la campagne, les utilisateurs peuvent configurer l’automatisation pour fonctionner sur l’appartenance à une campagne [!DNL Dynamics]. Les leads qualifiés pour des comportements ou des données démographiques spécifiques peuvent être intégrés aux campagnes Microsoft.
 
 >[!PREREQUISITES]
 >
->Mettez à jour vers la dernière version du module externe Dynamics pour Marketo Engage.
+>Effectuez la mise à jour vers la dernière version du plug-in [!DNL Dynamics] pour Marketo.
 
 Les actions de flux suivantes sont disponibles :
 
@@ -25,20 +25,20 @@ Les actions de flux suivantes sont disponibles :
 
 >[!NOTE]
 >
->**[!UICONTROL Supprimer de Microsoft Campaign]** supprimera uniquement les personnes qui ont été ajoutées à l’aide d’actions de flux dans Marketo.
+>**[!UICONTROL Supprimer de Microsoft Campaign]** ne supprime que les personnes ajoutées à l’aide d’actions de flux dans Marketo.
 
 Il existe également deux déclencheurs :
 
-* [!UICONTROL Ajout à Microsoft Campaign]
+* [!UICONTROL Ajouté à Microsoft Campaign]
 * [!UICONTROL Supprimé de Microsoft Campaign]
 
-Les déclencheurs s’exécuteront en fonction des actions de l’action de flux Marketo &quot;[!UICONTROL Ajouter à la campagne Microsoft]&quot; et &quot;[!UICONTROL Supprimé de la campagne Microsoft]&quot;.
+Les déclencheurs s’exécutent en fonction des actions de l’action de flux Marketo « [!UICONTROL Ajouter à Microsoft Campaign] » et « [!UICONTROL Supprimé de Microsoft Campaign] ».
 
 >[!NOTE]
 >
->Assurez-vous que la synchronisation de campagne est fonctionnelle et que la campagne n’est pas inactive dans Microsoft Dynamics.
+>Vérifiez que la synchronisation de la campagne est fonctionnelle et que la campagne n’est pas inactive dans Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >
->* [Activer la synchronisation Campaign](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Ajouter ou supprimer des personnes de votre campagne Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Activer la synchronisation de la campagne](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+>* [Ajouter ou supprimer des personnes de votre [!DNL Dynamics] campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)

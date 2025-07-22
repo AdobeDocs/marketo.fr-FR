@@ -1,56 +1,56 @@
 ---
 unique-page-id: 12979010
-description: Présentation des tendances sur les performances - Documents Marketo - Documentation du produit
-title: Présentation des tendances des statistiques sur les performances
+description: Présentation De La Tendance Des Informations De Performance - Documents Marketo - Documentation Du Produit
+title: Tendance des informations sur les performances - Aperçu
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Présentation des tendances des statistiques sur les performances {#performance-insights-trend-overview}
+# [!UICONTROL Performances Insights] Tendance Overview {#performance-insights-trend-overview}
 
-La tendance affiche les performances des canaux sur une période donnée.
+[!UICONTROL Tendance] affiche les performances du canal sur une période donnée.
 
-Cliquez sur l&#39;onglet **Tendance** pour accéder à cette vue.
+Cliquez sur l&#39;onglet **[!UICONTROL Tendance]** pour accéder à cette vue.
 
 ![](assets/1.png)
 
-## Tendance {#trend}
+## [!UICONTROL tendance] {#trend}
 
 ![](assets/2-1.png)
 
-Sélectionnez la mesure en fonction de laquelle vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via [Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Sélectionnez la mesure en fonction de laquelle vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via [[!UICONTROL Première touche]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
-Les mesures sont présentées sous la forme de deux graphiques : un anneau et une ligne.
+Les mesures sont présentées sous la forme de deux graphiques : en anneau et en ligne.
 
 ![](assets/4-1.png)
 
-Le graphique en anneau présente les dix premiers canaux de la mesure que vous avez sélectionnée.
+Le graphique en anneau affiche les dix premiers canaux de la mesure que vous avez sélectionnée.
 
 ![](assets/5-2.png)
 
-Le graphique en courbes présente l’évolution des performances des canaux pour la mesure sélectionnée au cours des 12 derniers mois.
+Le graphique en courbes affiche la tendance des performances du canal pour la mesure que vous avez sélectionnée au cours des 12 derniers mois.
 
 ![](assets/6-1.png)
 
-Sélectionnez un ou plusieurs canaux et le graphique en courbes affiche la tendance des canaux. Cliquez à nouveau sur le ou les canaux à désélectionner.
+Sélectionnez un ou plusieurs canaux et le graphique en courbes affiche la tendance du canal. Cliquez à nouveau sur le ou les canaux pour les désélectionner.
 
 ![](assets/7.png)
 
-La grille de données ci-dessous fonctionne comme une feuille de calcul, présentant toutes les données de tendance disponibles pour la mesure que vous avez sélectionnée au cours des 12 derniers mois.
+La grille de données ci-dessous fonctionne comme une feuille de calcul, affichant toutes les données de tendance disponibles pour la mesure que vous avez sélectionnée au cours des 12 derniers mois.
 
 ![](assets/8.png)
 
-Développez un canal pour afficher ses dix premiers programmes, les autres étant combinés.
+Développez un canal pour afficher ses dix meilleurs programmes, en combinant les autres programmes.
 
 ![](assets/9-1.png)
 
 >[!NOTE]
 >
->Cliquez sur la case à cocher en regard d’un canal pour l’activer/la désactiver dans le graphique en anneau.
+>Cliquez sur la case à cocher en regard d’un canal pour l’activer/désactiver dans le graphique en anneau.

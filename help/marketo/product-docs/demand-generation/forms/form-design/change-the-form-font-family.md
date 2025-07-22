@@ -4,7 +4,7 @@ description: Modification de la famille de polices de formulaire - Documents Mar
 title: Modification de la famille de polices de formulaire
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -19,19 +19,19 @@ Les polices Google sont incroyables et nous les avons directement intégrées à
 >
 >Ce paramètre a un impact sur le libellé du formulaire, le texte d’entrée et le texte enrichi.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Sous **Paramètres du formulaire**, sélectionnez **Paramètres**.
+1. Sous **[!UICONTROL Paramètres du formulaire]**, sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Sélectionnez la **famille de polices** souhaitée.
+1. Sélectionnez la **[!UICONTROL famille de polices]** souhaitée.
 
    >[!TIP]
    >
@@ -39,11 +39,11 @@ Les polices Google sont incroyables et nous les avons directement intégrées à
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    >[!NOTE]
    >

@@ -1,33 +1,33 @@
 ---
 unique-page-id: 7515616
-description: Liste de modèles de page d’entrée guidée - Documents Marketo - Documentation du produit
-title: Liste de modèles de page d’entrée guidée
+description: Liste Des Modèles De Page De Destination Guidée - Documents Marketo - Documentation Du Produit
+title: Liste des modèles de page de destination guidée
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# Liste de modèles de page d’entrée guidée {#guided-landing-page-template-list}
+# Liste des modèles de page de destination guidée {#guided-landing-page-template-list}
 
-Parcourez notre collection d’exemples de modèles, à utiliser avec l’[éditeur de page d’entrée guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et basé sur la structure du Bootstrap.
+Parcourez notre collection d’exemples de modèles à utiliser avec l’[Éditeur de page de destination guidée](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et s’appuie sur le framework Bootstrap.
 
 >[!NOTE]
 >
->La prise en charge de Marketo n’est pas configurée pour faciliter le dépannage de l’HTML. Si vous avez besoin d’aide pour modifier l’un de ces modèles, consultez un développeur web.
+>La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes d’HTML. Si vous avez besoin d&#39;aide pour modifier l&#39;un de ces modèles, veuillez consulter un développeur Web.
 
 Pour importer un modèle dans Marketo :
 
-1. Cliquez sur le nom du modèle pour une vue plus grande.
-1. Téléchargez le modèle sélectionné.
-1. Dans Marketo, accédez à **Design Studio.**
-1. Cliquez sur **Pages d’entrée** dans l’arborescence de gauche, puis sélectionnez **Modèles.**
+1. Cliquez sur le nom du modèle pour l’agrandir.
+1. Téléchargez le modèle choisi.
+1. Dans Marketo, accédez à **[!UICONTROL Design Studio].**
+1. Cliquez sur **[!UICONTROL Pages de destination]** dans l’arborescence de gauche, puis sélectionnez **[!UICONTROL Modèles].**
 
-1. Dans la barre de menus, cliquez sur **Importer un modèle.**
-1. Choisissez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **Importer** (assurez-vous de sélectionner un nom descriptif et d’indiquer que le mode de modification est **Guidée**).
+1. Dans la barre de menus, cliquez sur **[!UICONTROL Importer modèle].**
+1. Choisissez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **[!UICONTROL Importer]** (veillez à choisir un nom explicite et à indiquer que le mode de modification est **[!UICONTROL Guidé]**).
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ Pour importer un modèle dans Marketo :
 <td><img src="assets/5d.jpg"></td>
 </tr>
 <tr>
-<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5e.md">Template 5E</a></td>
+<td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5e.md">Modèle 5E</a></td>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6a.md">Modèle 6A</a></td>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6b.md">Modèle 6B</a></td>
 </tr>

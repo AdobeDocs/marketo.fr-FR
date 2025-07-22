@@ -1,44 +1,44 @@
 ---
 unique-page-id: 10096683
-description: Mises à jour de l’enregistrement des événements ON24 - Documents Marketo - Documentation du produit
-title: Mises à jour de l’enregistrement d’événement ON24
+description: Mises à jour de l’inscription aux événements ON24 - Documents Marketo - Documentation du produit
+title: Mises à jour de l’inscription aux événements ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-# Mises à jour de l’enregistrement d’événement ON24 {#on-event-registration-updates}
+# Mises à jour de l’inscription aux événements ON24 {#on-event-registration-updates}
 
-## Validation manuelle des inscrits {#manually-approving-registrants}
+## Approuver manuellement des personnes inscrites {#manually-approving-registrants}
 
-Vous pouvez approuver manuellement vos inscrits avant de leur envoyer un email de confirmation. Pour ce faire, vous devez configurer vos campagnes afin de gérer cette étape supplémentaire :
+Vous pouvez approuver manuellement vos inscrits avant de leur envoyer un e-mail de confirmation. Pour ce faire, vous devez configurer vos campagnes pour gérer cette étape supplémentaire :
 
-1. Pour la campagne de déclenchement d&#39;enregistrement :
+1. Pour la campagne Déclencheur d’enregistrement :
 
-   * Dans la liste dynamique, définissez le déclencheur sur **Remplit le formulaire**.
-   * Dans le flux, définissez l’état de progression sur **Autorisation en attente**.
+   * Dans la [!UICONTROL Liste dynamique], définissez le déclencheur sur **[!UICONTROL Remplit le formulaire]**.
+   * Dans le flux, définissez le [!UICONTROL Statut en progression] sur **[!UICONTROL Approbation en attente]**.
 
-1. Accédez à l’événement et cliquez sur l’onglet **Membres** . Cet onglet affiche toutes les personnes qui ont rempli le formulaire. Leur état doit être défini sur **Autorisation en attente**.
-1. Utilisez le filtre en haut de la grille pour afficher uniquement les personnes dont l’état est **En attente d’approbation**.
-1. Sélectionnez les personnes que vous souhaitez enregistrer (cliquez tout ou cliquez en maintenant la touche Maj enfoncée).
-1. Dans le menu, cliquez sur **Modifier l’état**. Sélectionnez **Registered**, **Rejected** ou tout autre état applicable.
+1. Accédez à l’événement et cliquez sur l’onglet **[!UICONTROL Membres]**. Cet onglet affiche toutes les personnes qui ont rempli le formulaire. Leur statut doit être défini sur **[!UICONTROL Approbation en attente]**.
+1. Utilisez le filtre en haut de la grille pour afficher uniquement les personnes dont le statut est **[!UICONTROL Approbation en attente]**.
+1. Sélectionnez les personnes à enregistrer (Maj-clic, Ctrl-clic ou Tout sélectionner).
+1. Dans le menu, cliquez sur **[!UICONTROL Modifier le statut]**. Sélectionnez **[!UICONTROL Enregistré]**, **[!UICONTROL Rejeté]** ou tout autre statut applicable.
 
-## Gestion des personnes avec une erreur d’enregistrement {#handling-people-with-a-registration-error}
+## Gérer les personnes ayant rencontré une erreur d’enregistrement {#handling-people-with-a-registration-error}
 
-Si une personne n’est pas enregistrée, mais plutôt définie sur l’état Erreur d’enregistrement, il n’est pas trop tard pour récupérer.
+Si une personne ne s’enregistre pas, mais qu’elle adopte le statut [!UICONTROL Erreur d’enregistrement], il n’est pas trop tard pour se remettre.
 
-1. Dans l&#39;onglet Membres , filtrez la liste des personnes ayant le statut **Erreur d&#39;enregistrement**.
-1. Avant de poursuivre, assurez-vous d’avoir déterminé et corrigé le problème avec l’intégration (vérifiez qu’il n’y a aucune erreur sous **Event Partners** dans Admin).
-1. Une fois le problème résolu, sélectionnez toutes les personnes ayant le statut Erreur d’enregistrement et remplacez leur statut par **Registered**. Cela tentera de les enregistrer à nouveau auprès de ON24.
+1. Dans l’onglet [!UICONTROL Membres], filtrez la liste des personnes dont le statut est **[!UICONTROL Erreur d’enregistrement]**.
+1. Avant de poursuivre, assurez-vous d’avoir déterminé et corrigé le problème avec l’intégration (vérifiez qu’il n’y a aucune erreur sous **[!UICONTROL Partenaires d’événement]** dans Admin).
+1. Une fois le problème résolu, sélectionnez toutes les personnes dont le statut est [!UICONTROL  Erreur d’enregistrement ] et modifiez leur statut en **[!UICONTROL Enregistré]**. Cette opération va tenter de les enregistrer à nouveau avec ON24.
 
-## Mise à jour de l’état du membre à partir d’ON24 {#updating-member-status-from-on}
+## Mise à jour du statut de membre à partir d’ON24 {#updating-member-status-from-on}
 
-Marketo récupère automatiquement les informations de présence aux alentours de 23h dans le Pacifique chaque nuit. Pour mettre à jour manuellement les informations de fréquentation, cliquez sur **Actualiser à partir du fournisseur de webinaires** sous **Actions d’événement**.
+Marketo extrait automatiquement les informations de présence vers 23h Pacifique chaque soir. Pour mettre à jour manuellement les informations de présence, cliquez sur **[!UICONTROL Actualiser à partir du fournisseur de webinaires]** sous **[!UICONTROL Actions d’événement]**.
 
 >[!MORELIKETHIS]
 >
->[Compréhension des événements d’adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Présentation des événements de l&#39;adaptateur Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

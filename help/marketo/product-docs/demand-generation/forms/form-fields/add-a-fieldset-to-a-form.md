@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2359594
-description: Ajouter un jeu de champs à un formulaire - Documents Marketo - Documentation du produit
-title: Ajouter un jeu de champs à un formulaire
+description: Ajout d’un FieldSet à un formulaire - Documents Marketo - Documentation du produit
+title: Ajout d’un FieldSet à un formulaire
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# Ajouter un jeu de champs à un formulaire {#add-a-fieldset-to-a-form}
+# Ajout d’un FieldSet à un formulaire {#add-a-fieldset-to-a-form}
 
-Les jeux de champs sont sympas. Ils regroupent plusieurs champs. Vous pouvez contrôler un bloc entier à la fois !
+Les jeux de champs sont cool. Ils regroupent un groupe de champs. Vous pouvez contrôler un bloc entier en même temps !
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Cliquez sur le signe **+** et sélectionnez **Jeu de champs**.
+1. Cliquez sur le signe **+** et sélectionnez **[!UICONTROL Fieldset]**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Sélectionnez le **champ** et saisissez un **libellé**.
+1. Sélectionnez le **fieldset** et saisissez un **[!UICONTROL Label]**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Faites glisser les champs de votre choix dans le **fieldset**.
+1. Faites glisser les champs de votre choix dans l’**ensemble de champs**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. Voici à quoi ça devrait ressembler lorsqu&#39;on a fini.
+1. Voici à quoi il doit ressembler une fois terminé.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
@@ -43,4 +43,4 @@ Voilà !
 
 >[!TIP]
 >
->Vous pouvez masquer/afficher dynamiquement l’ensemble du jeu de champs selon un autre champ. Découvrez les [règles de visibilité](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [ règles de visibilité ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

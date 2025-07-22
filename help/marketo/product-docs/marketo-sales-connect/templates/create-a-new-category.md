@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352638
-description: Création d’une catégorie - Documents Marketo - Documentation du produit
-title: Création d’une catégorie
+description: Créer une catégorie - Documents Marketo - Documentation du produit
+title: Créer une nouvelle catégorie
 exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Création d’une catégorie {#create-a-new-category}
+# Créer une nouvelle catégorie {#create-a-new-category}
 
-Sales Connect est fourni avec deux catégories par défaut pour vous aider à organiser vos modèles.
+[!DNL Sales Connect] est fourni avec deux catégories par défaut pour vous aider à organiser vos modèles.
 
-1. Cliquez sur l’icône **+** en regard de **Catégories**.
+1. Cliquez sur l’icône **+** en regard de **[!UICONTROL Catégories]**.
 
-1. Saisissez un nom pour votre nouvelle catégorie, puis cliquez sur **Créer**.
+1. Saisissez un nom pour votre nouvelle catégorie, puis cliquez sur **[!UICONTROL Créer]**.
 
 La nouvelle catégorie apparaît désormais dans le menu de navigation.

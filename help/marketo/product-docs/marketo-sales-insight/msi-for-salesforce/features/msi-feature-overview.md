@@ -1,52 +1,52 @@
 ---
 unique-page-id: 37356893
-description: Présentation des fonctionnalités MSI - Documents Marketo - Documentation du produit
+description: Présentation des fonctionnalités MSI - Documentation de Marketo - Documentation du produit
 title: Présentation des fonctionnalités MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 11%
+source-wordcount: '931'
+ht-degree: 12%
 
 ---
 
 # Présentation des fonctionnalités MSI {#msi-feature-overview}
 
-MSI propose les fonctionnalités suivantes dans Salesforce Lightning et Classic.
+MSI offre les fonctionnalités suivantes dans [!DNL Salesforce] Lightning et Classic.
 
 >[!NOTE]
 >
->Pour afficher toutes les données disponibles, veillez à ce que le zoom de votre navigateur ne dépasse pas 125 % sous Windows et 150 % sous Mac OS.
+>Pour afficher toutes les données disponibles, assurez-vous que le zoom de votre navigateur est défini sur une valeur maximale de 125 % sous Windows et de 150 % sous Mac OS.
 
 ## Panneau Visualforce {#visualforce-panel}
 
-Le panneau MSI Visualforce comprend les fonctionnalités suivantes :
+Le panneau Visualforce de MSI comprend les fonctionnalités suivantes :
 
 * Onglets
 
-   * [Tableau de bord des statistiques](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+   * [Tableau de bord des informations](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Moments significatifs
    * Activité Web
    * E-mail
-   * Évaluation
+   * Score
 
 * Actions
 
    * Ajouter à la campagne Marketo
    * Envoyer l&#39;e-mail Marketo
-   * Ajouter/Supprimer de la liste de contrôle
+   * Ajouter/Supprimer de la liste de surveillance
 
-* Etoiles et flammes
+* Étoiles et flammes
 
-## Disposition de piste {#lead-layout}
+## Mise en page du lead {#lead-layout}
 
 Pages Visualforce :
 
-* Piste : comprend l’option permettant de cliquer sur l’hyperactivité &quot;Atteindre la liste complète&quot;. Vous serez alors dirigé vers un nouvel onglet de Salesforce dans lequel le panneau MSI sera visible en page entière.
-* Liste complète des pistes - N’inclut pas l’option &quot;Aller à la liste complète&quot;
-* Lead Mobile - Visible dans l’application mobile Salesforce
-* Bridge Contact de piste : affiche le panneau MSI du contact que vous avez ajouté dans le champ ID de contact MSI.
+* Lead - Inclut l&#39;option de cliquer sur hyper « Aller à la liste complète », vous serez envoyé à un nouvel onglet dans Salesforce où le panneau MSI sera visible dans une mise en page complète
+* Liste complète des leads - N’inclut pas l’option « Accéder à la liste complète »
+* Lead mobile - Visible dans l’application mobile Salesforce
+* Bridge du contact du lead - Affiche le panneau MSI du contact que vous avez ajouté dans le champ ID du contact MSI.
 
 Champs :
 
@@ -61,17 +61,17 @@ Champs :
 * Valeur d&#39;évaluation relative
 * Urgence
 * Valeur d&#39;urgence
-* Afficher dans Marketo : cliquez sur ce champ pour ouvrir une vue non modifiable de la piste dans Marketo. Inclut : Infos sur les pistes, Informations sur la société, Infos sur les pistes de la SFDC, Champs personnalisés de la SFDC, Journal d’activité
-* Identifiant de contact MSI : ajoutez un contact Salesforce à ce champ et incluez le panneau &quot;Contact de piste Bridge&quot; dans la disposition de l’avance pour afficher le panneau MSI du contact.
+* Afficher dans Marketo - Cliquez sur ce champ pour afficher une vue non modifiable du prospect dans Marketo. Inclut : informations sur le lead, informations sur la société, informations sur le lead SFDC, champs personnalisés SFDC, journal d’activité.
+* ID de contact MSI - Ajoutez un contact Salesforce à ce champ et incluez le panneau « Bridge du contact du lead » dans la mise en page du lead pour afficher le panneau MSI du contact
 
-## Contact Layout {#contact-layout}
+## Mise en page du contact {#contact-layout}
 
 Pages Visualforce :
 
-* Contact - Inclut l’option permettant de cliquer sur l’hyper &quot;Aller à la liste complète&quot;. Vous serez alors envoyé vers un nouvel onglet de Salesforce, où le panneau MSI sera visible en page entière.
-* Contact Liste complète - N’inclut pas l’option &quot;Aller à la liste complète&quot;
-* Contact Mobile - Visible dans l’application mobile Salesforce
-* La fonction Ajouter à la page de contact Marketo Campaign - Ajouter à Marketo Campaign est disponible dans ce panneau.
+* Contact - Inclut l&#39;option de cliquer sur hyper « Aller à la liste complète », vous serez envoyé à un nouvel onglet dans Salesforce où le panneau MSI sera visible dans une mise en page complète
+* Contacter la liste complète - N’inclut pas l’option « Accéder à la liste complète »
+* Contact Mobile : visible dans l’application mobile Salesforce
+* Ajouter à la page de contact de Marketo Campaign - La fonctionnalité Ajouter à Marketo Campaign est disponible dans ce panneau
 
 Champs :
 
@@ -85,121 +85,121 @@ Champs :
 * Valeur d&#39;évaluation relative
 * Urgence
 * Valeur d&#39;urgence
-* Afficher dans Marketo : cliquez sur ce champ pour ouvrir une vue non modifiable de la piste dans Marketo. Inclut : Infos sur les pistes, Informations sur la société, Infos sur les pistes de la SFDC, Champs personnalisés de la SFDC, Journal d’activité
-* Mkto Lead Score
-* Sales Insight - Ouvre la page de liste complète des contacts
+* Afficher dans Marketo - Cliquez sur ce champ pour afficher une vue non modifiable du prospect dans Marketo. Inclut : informations sur le lead, informations sur la société, informations sur le lead SFDC, champs personnalisés SFDC, journal d’activité.
+* Score de lead maximal
+* [!DNL Sales Insight] - Ouvre la page de liste complète des contacts
 
-## Disposition du compte {#account-layout}
+## Mise en page du compte {#account-layout}
 
 Pages Visualforce :
 
-* Compte - Inclut l’option permettant de cliquer sur l’hyperactivité &quot;Atteindre la liste complète&quot;. Vous serez alors dirigé vers un nouvel onglet de Salesforce dans lequel le panneau MSI sera visible en page entière.
-* Liste complète du compte - N’inclut pas l’option &quot;Aller à la liste complète&quot;
-* Compte mobile - Visible dans l’application mobile Salesforce
+* Compte - Inclut l&#39;option de cliquer sur hyper « Aller à la liste complète », vous serez envoyé à un nouvel onglet dans Salesforce où le panneau MSI sera visible dans une mise en page complète
+* Liste complète des comptes - N’inclut pas l’option « Accéder à la liste complète »
+* Compte mobile : visible dans l’application mobile Salesforce.
 
 Champs :
 
-* Sales Insight - Ouvre la page de liste complète des contacts
+* [!DNL Sales Insight] - Ouvre la page de liste complète des contacts
 
-Actions :
+Actions :
 
 * Ajouter à la campagne Marketo
 * Envoyer l&#39;e-mail Marketo
-* Ajouter/Supprimer de la liste de contrôle
+* Ajouter/Supprimer de la liste de surveillance
 
-Les fonctionnalités suivantes sont **non disponibles** dans la page Disposition du compte :
+Les fonctionnalités suivantes ne sont **pas disponibles** dans la page Disposition du compte :
 
-* Etoiles et flammes
+* Étoiles et flammes
 
-## Disposition des opportunités {#opportunity-layout}
+## Mise en page de l’opportunité {#opportunity-layout}
 
 Pages Visualforce :
 
-* Opportunité - Inclut l’option permettant de cliquer sur l’hyperactivité &quot;Atteindre la liste complète&quot;. Vous serez alors dirigé vers un nouvel onglet de Salesforce dans lequel le panneau MSI sera visible dans une mise en page complète.
-* Liste complète des opportunités - N’inclut pas l’option &quot;Aller à la liste complète&quot;
-* Opportunity Mobile - Visible dans l’application mobile Salesforce
+* Opportunité - Inclut l’option de cliquer sur hyper « Accéder à la liste complète » ; vous êtes envoyé à un nouvel onglet de Salesforce où le panneau MSI est visible dans une mise en page complète.
+* Liste complète des opportunités - N’inclut pas l’option « Accéder à la liste complète »
+* Opportunité mobile : visible dans l’application mobile Salesforce
 
 Champs :
 
-* Sales Insight - Ouvre la page de liste complète des contacts
+* [!DNL Sales Insight] - Ouvre la page de liste complète des contacts
 * Analyse des opportunités Marketo - Ouvre l’analyseur d’influence des opportunités dans Marketo
 
-Actions :
+Actions :
 
 * Ajouter à la campagne Marketo
 * Envoyer l&#39;e-mail Marketo
-* Ajouter/Supprimer de la liste de contrôle
+* Ajouter/Supprimer de la liste de surveillance
 
-Les fonctionnalités suivantes sont **non disponibles** dans la page de mise en page des opportunités :
+Les fonctionnalités suivantes ne sont **pas disponibles** dans la page Mise en page de l’opportunité :
 
-* Etoiles et flammes
+* Étoiles et flammes
 
-## Mode Liste de pistes et de contacts (actions en bloc) {#lead-and-contact-list-view-bulk-actions}
+## Vue Liste des leads et des contacts (actions en bloc) {#lead-and-contact-list-view-bulk-actions}
 
-Éclair Salesforce : ajoutez les boutons d’action groupée Ajouter à la liste de contrôle, Ajouter à Marketo Campaign et Envoyer un courrier électronique Marketo en mode Liste de pistes et de contacts.
+[!DNL Salesforce Lightning] : boutons d’action Ajouter à la watchlist, Ajouter à Marketo Campaign et Envoyer un e-mail Marketo en bloc dans la vue Liste de prospects et de contacts.
 
-Salesforce Classic : boutons d’action en bloc Ajouter à la liste de contrôle, Ajouter à Marketo Campaign et Envoyer un courrier électronique Marketo en mode Liste de pistes et de contacts.
+[!DNL Salesforce Classic] : boutons d’action Ajouter à la liste de contrôle, Ajouter à Marketo Campaign et Envoyer un e-mail Marketo en bloc dans la vue Liste de prospects et de contacts.
 
 ## Onglet Marketo {#marketo-tab}
 
-* Meilleurs paris
+* [!DNL Best Bets]
 
-   * Inclut la possibilité de créer et de modifier des vues. Possibilité de masquer les meilleures options selon la configuration de l’option &quot;Masquage par défaut&quot; sur la page de configuration de Marketo
-   * Colonnes : nom, compte, dernier moment intéressant, en-tête d’état, engagement (étoiles et flammes), masquer
+   * Permet de créer et de modifier des vues. Possibilité de masquer les meilleurs résultats selon la configuration de l’option « Masquer par défaut » dans la page de configuration de Marketo
+   * Colonnes : nom, compte, dernier moment intéressant, en-tête de statut, engagement (étoiles et flammes), masquer
 
 * Ma liste de surveillance
 
    * Possibilité de créer et de modifier des vues
-   * Colonnes : nom, compte, dernier moment intéressant, en-tête d’état, engagement (étoiles et flammes), suppression
+   * Colonnes : nom, compte, dernier moment intéressant, en-tête de statut, engagement (étoiles et flammes), supprimer
 
 * Activité Web
 
-   * Inclut la possibilité de créer et de modifier des vues, ainsi que la fonctionnalité de filtre de période.
-   * Colonne : Page vue, Nom, Compte, Dernière visite
+   * Inclut la possibilité de créer et de modifier des vues, la fonctionnalité de filtre de période
+   * Colonne - Page vue, Nom, Compte, Dernière visite
 
 * Activité Web anonyme
 
-   * Inclut la possibilité de créer et de modifier des vues, ainsi que la fonctionnalité de filtre de période.
-   * Colonnes - Page vue, Société, Dernière visite, Recherche (ouvre la page LinkedIn de l’entreprise)
+   * Inclut la possibilité de créer et de modifier des vues, la fonctionnalité de filtre de période
+   * Colonnes - Page vue, Société, Dernière visite, Recherche (ouvre la page LinkedIn de la société)
 
 * Mes e-mails
 
    * Possibilité de créer et de modifier des vues
-   * Colonnes - Nom, Compte, Objet, Date, Ouvrir, Clic
+   * Colonnes - Nom, Compte, Objet, Date, Ouverture, Clic
 
-* Flux de piste : inclut la possibilité de s’abonner à des moments intéressants. Le flux RSS sur la page Configuration doit être activé pour utiliser cette fonctionnalité.
+* Flux de lead - Inclut la possibilité de s’abonner à des moments intéressants. Le flux RSS sur la page de configuration doit être activé pour utiliser cette fonctionnalité.
 
-   * Responsable/contact ayant vécu ce moment intéressant
-   * Type de moment intéressant (web, email ou jalon) et description
+   * Lead/Contact ayant vécu ce moment intéressant
+   * Type de moment intéressant (web, e-mail ou jalon) et description
    * Nom de compte
-   * Heure à laquelle ce moment intéressant s&#39;est produit
-   * Option d’abonnement pour recevoir une notification par email pour ce type d’événement
-   * Icône Haute priorité pour afficher la meilleure mise pour cette personne
+   * Heure à laquelle ce moment intéressant s’est produit
+   * Option d’abonnement permettant de recevoir une notification par e-mail pour ce type d’événement
+   * Icône Haute priorité pour afficher cette personne est un meilleur résultat
 
-## Onglet Configuration des statistiques sur les ventes Marketo {#marketo-sales-insight-configuration-tab}
+## Onglet Configuration [!DNL Marketo Sales Insight] {#marketo-sales-insight-configuration-tab}
 
-* Paramètres opérationnels : comprend les informations d’identification de l’API Soap &amp; Rest requises pour configurer MSI dans SFDC
-* Configuration de MSI : inclut la configuration de l’onglet Marketo et du panneau MSI VisitorForce.
-* Réinitialiser Marketo Sales Insight : permet d’effacer toutes les configurations.
+* Paramètres opérationnels : inclut les informations d’identification d’API Soap et Rest nécessaires pour configurer MSI dans SFDC
+* Configuration MSI : comprend la configuration de l’onglet Marketo et du panneau MSI visualforce
+* Réinitialiser le [!DNL Marketo Sales Insight] : inclut la possibilité d’effacer toutes les configurations
 
 >[!MORELIKETHIS]
 >
->[Onglet Configuration des statistiques sur les ventes Marketo dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight] Onglet Configuration dans [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Rapports sur les performances de Sales Insight {#sales-insight-performance-reports}
+## Rapports de performance [!DNL Sales Insight] {#sales-insight-performance-reports}
 
-Afficher les performances des emails envoyés par le biais de Salesforce, Microsoft Dynamics ou d’un module externe Gmail ou Outlook
+Affichez les performances des e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics] ou d’un plug-in Gmail ou [!DNL Outlook]
 
 ## MSI pour Mobile {#msi-for-mobile}
 
-Les fonctionnalités MSI sont prises en charge dans l’application mobile Salesforce.
+Les fonctionnalités MSI sont prises en charge dans [!DNL Salesforce] application mobile
 
 ## Prise en charge linguistique {#language-support}
 
-Marketo Sales Insight est stocké par langue. Ainsi, si vous souhaitez qu’il fonctionne pour plusieurs langues, vous devez saisir les informations d’identification séparément pour chaque langue.
+[!DNL Marketo Sales Insight] est stocké par langue. Ainsi, si vous souhaitez qu’il fonctionne pour plusieurs langues, vous devez saisir les informations d’identification séparément pour chaque langue.
 
 >[!NOTE]
 >
->* Un contact/prospect doit se trouver dans la partition par défaut pour être ajouté à la liste de contrôle.
+>* Un contact/prospect doit se trouver dans la partition Par défaut pour être ajouté à la watchlist.
 >
->* Le package MSI Salesforce ne prend pas en charge la vue personnalisée avec les champs dépendants.
+>* Le package MSI [!DNL Salesforce] ne prend pas en charge les vues personnalisées avec des champs dépendants.

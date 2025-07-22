@@ -1,30 +1,30 @@
 ---
 unique-page-id: 14352547
-description: Le module externe Sales Connect ne s’affiche pas dans Gmail - Documents Marketo - Documentation du produit
-title: Le module externe Sales Connect ne s’affiche pas dans Gmail
+description: Le plug-in Sales Connect ne s’affiche pas dans Gmail - Documents Marketo - Documentation du produit
+title: Le plug-in Sales Connect ne s’affiche pas dans Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Le module externe Sales Connect ne s’affiche pas dans Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
+# Le plug-in [!DNL Sales Connect] ne s’affiche pas dans Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
 
 D’après notre expérience, voici quelques éléments à essayer si votre barre d’outils n’apparaît pas.
 
-- Vérifiez que notre extension a été correctement téléchargée. Si vous êtes dans Chrome, affichez votre liste d’extensions. Sales Connect (Tout) est-il répertorié ?
+- Vérifiez que votre extension a été correctement téléchargée. Si vous êtes en [!DNL Chrome], consultez votre liste d’extensions. Est-ce que [!DNL Sales Connect] (Tout) est répertorié ?
 
-- Quelle est votre langue définie comme dans Gmail ? Si c&#39;est autre chose que l&#39;anglais, essayez de le changer en anglais.
+- Quelle langue avez-vous définie comme dans Gmail ? Si c&#39;est autre chose que l&#39;anglais, essayez de le changer en anglais.
 
-- Cela peut être évident, mais essayez de quitter votre navigateur et d’ouvrir une fenêtre entièrement nouvelle.
+- Cela peut sembler évident, mais essayez de quitter votre navigateur et d’ouvrir une toute nouvelle fenêtre.
 
-- Rendez-vous sur l’ [application web](https://toutapp.com/login) et assurez-vous que vous y êtes connecté.
+- Rendez-vous sur l’[application web](https://toutapp.com/login) et vérifiez que vous y êtes connecté.
 
-- Assurez-vous que les cookies sont activés. Si vous utilisez Chrome, accédez à Paramètres > Afficher les paramètres avancés > Paramètres de contenu > Décochez la case &quot;Bloquer les cookies tiers et les données du site&quot;.
+- Vérifiez que les cookies sont activés. Si vous utilisez [!DNL Chrome], accédez à [!UICONTROL Paramètres] > [!UICONTROL Afficher les paramètres avancés] > [!UICONTROL Paramètres de contenu] > Décocher « [!UICONTROL Bloquer les cookies tiers et les données du site]. »
 
-- Essayez de vous déconnecter, puis reconnectez l’extension de navigateur Sales Connect.
+- Essayez de vous déconnecter puis de reconnecter l’extension de navigateur [!DNL Sales Connect].
 
-Si aucun des conseils ci-dessus n’a aidé, [soumettez un cas](https://nation.marketo.com/community/support_solutions) à l’assistance.
+Si aucun des conseils ci-dessus ne vous a aidé, veuillez [soumettre un cas](https://nation.marketo.com/community/support_solutions) à l’assistance.

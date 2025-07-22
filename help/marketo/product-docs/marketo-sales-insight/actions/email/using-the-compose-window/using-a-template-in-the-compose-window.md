@@ -1,64 +1,64 @@
 ---
-description: Utilisation d’un modèle dans la fenêtre de composition - Documents Marketo - Documentation du produit
-title: Utilisation d’un modèle dans la fenêtre de composition
+description: Utilisation d’un modèle dans la fenêtre Composer - Documents Marketo - Documentation du produit
+title: Utilisation d’un modèle dans la fenêtre Composer
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-# Utilisation d’un modèle dans la fenêtre de composition {#using-a-template-in-the-compose-window}
+# Utilisation d’un modèle dans la fenêtre Composer {#using-a-template-in-the-compose-window}
 
-## Recherche et utilisation des modèles {#finding-and-using-templates}
+## Recherche et utilisation de modèles {#finding-and-using-templates}
 
-1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
+1. Créez votre brouillon d’e-mail (il existe plusieurs façons de le faire, dans cet exemple nous choisissons **[!UICONTROL Composer]** dans l’en-tête).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Renseignez le champ À .
+1. Renseignez le champ [!UICONTROL À].
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
-1. Cliquez sur l’icône de recherche dans la section Modèle pour ouvrir le champ de recherche de modèle.
+1. Cliquez sur l’icône de recherche dans la section de modèle pour ouvrir le champ de recherche de modèle.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Sélectionnez une catégorie dans laquelle effectuer une recherche (ou sélectionnez Toutes pour effectuer une recherche dans toutes les catégories).
+1. Sélectionnez une catégorie dans laquelle effectuer la recherche (ou sélectionnez [!UICONTROL Toutes] pour effectuer une recherche dans toutes les catégories).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
-1. Effectuez une recherche par nom de modèle, par objet ou par corps de l’email. Cliquez sur le modèle de votre choix pour le sélectionner.
+1. Effectuez une recherche par nom de modèle, objet ou corps de l’e-mail. Cliquez sur le modèle de votre choix pour le sélectionner.
 
    ![](assets/using-a-template-in-the-compose-window-5.png)
 
    >[!NOTE]
    >
-   >La sélection d’un autre modèle remplacera toutes les informations actuellement présentes dans l’éditeur. Si vous apportez des modifications, veillez à les copier avant de sélectionner un autre modèle.
+   >Si vous sélectionnez un autre modèle, toutes les informations figurant actuellement dans l’éditeur seront remplacées. Si vous apportez des modifications, veillez à les copier avant de sélectionner un autre modèle.
 
-## Épinglage de catégories de modèles dans la fenêtre de composition {#pinning-template-categories-in-the-compose-window}
+## Épingler des catégories de modèle dans la fenêtre Composer {#pinning-template-categories-in-the-compose-window}
 
-Favoris **jusqu’à cinq** catégories de modèles spécifiques pour accéder rapidement à vos modèles les plus utilisés.
+Mettre en favori **jusqu’à cinq** catégories de modèles spécifiques pour accéder rapidement à vos modèles les plus utilisés.
 
-1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
+1. Créez votre brouillon d’e-mail (il existe plusieurs façons de le faire, dans cet exemple nous choisissons **[!UICONTROL Composer]** dans l’en-tête).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Cliquez sur l’icône **+** en regard de Favoris.
+1. Cliquez sur l’icône **+** en regard de [!UICONTROL Favoris].
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Cliquez sur la liste déroulante **Epingler une catégorie** et sélectionnez la catégorie souhaitée.
+1. Cliquez sur le menu déroulant **[!UICONTROL Épingler une catégorie]** et sélectionnez la catégorie de votre choix.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
    >[!TIP]
    >
-   >Nous vous recommandons d’épingler la catégorie &quot;Tous&quot; afin de pouvoir accéder rapidement à la recherche de l’intégralité de votre bibliothèque de modèles, car vous devrez souvent effectuer une recherche dans tous vos modèles pour trouver ce que vous recherchez. Lorsque vous avez sélectionné une catégorie épinglée et que vous cliquez sur l’icône de recherche, la recherche est effectuée par défaut dans la catégorie épinglée sélectionnée.
+   >Nous vous recommandons d’épingler la catégorie « Tous » pour accéder rapidement à l’ensemble de votre bibliothèque de modèles, car vous devrez souvent effectuer une recherche dans tous vos modèles pour trouver ce que vous recherchez. Lorsqu’une catégorie épinglée est sélectionnée et que vous cliquez sur l’icône de recherche, la recherche correspond par défaut à la recherche dans la catégorie épinglée sélectionnée.
 
-1. Cliquez sur **Enregistrer les modifications** une fois terminé (facultatif : répétez l’étape 3 pour en ajouter d’autres).
+1. Cliquez sur **Enregistrer les modifications** lorsque vous avez terminé (facultatif : répétez l’étape 3 pour en ajouter d’autres).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -70,6 +70,6 @@ Favoris **jusqu’à cinq** catégories de modèles spécifiques pour accéder r
 
    >[!NOTE]
    >
-   >**Favoris** est présent par défaut. Il contient des modèles d’email favoris, pas des catégories.
+   >**[!UICONTROL Favoris]** est disponible par défaut. Il contient les modèles d’e-mail favoris, et non les catégories.
 
    La catégorie sélectionnée est maintenant épinglée.

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360222
-description: Activation des limites de communication - Documents Marketo - Documentation du produit
+description: Activer les limites de communication - Documents Marketo - Documentation du produit
 title: Activer les limites de communication
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '157'
+ht-degree: 3%
 
 ---
 
 # Activer les limites de communication {#enable-communication-limits}
 
-Il est très important de ne pas trop communiquer avec votre peuple. La définition de limites de communication empêchera votre entreprise d’envoyer trop d’emails.
+Il est très important de ne pas trop communiquer avec vos employés. Définir des limites de communication aidera à empêcher votre organisation d’envoyer trop d’e-mails.
 
 >[!NOTE]
 >
@@ -33,9 +33,9 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
 
    >[!NOTE]
    >
-   >[!UICONTROL Par jour] est basé sur le jour calendaire dans le fuseau horaire d&#39;abonnement (minuit-minuit).
+   >Le [!UICONTROL par jour] est basé sur le jour calendaire dans le fuseau horaire de l&#39;abonnement (minuit-minuit).
 
-1. Cliquez sur la liste déroulante **[!UICONTROL Par jour]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 1.
+1. Cliquez sur le menu déroulant **[!UICONTROL Par jour]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 1.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,17 +43,17 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
    >
    >Vous pouvez également choisir **[!UICONTROL Personnalisé]** si aucune des options prédéfinies ne fonctionne pour vous.
 
-1. Cliquez sur la liste déroulante **[!UICONTROL Par 7 jours]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 5.
+1. Cliquez sur le menu déroulant **[!UICONTROL Par période de 7 jours]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Sélectionnez **[!UICONTROL Bloquer les emails non opérationnels]**.
+1. Sélectionnez **[!UICONTROL Bloquer les e-mails non opérationnels]**.
 
    ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >En savoir plus sur les [emails opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+   >En savoir plus sur ce que sont les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -63,7 +63,7 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
    >
    >**Exemple**
    >
-   >Les paramètres ci-dessus signifient que les personnes ne recevront pas plus de **1 email par jour** ou plus de **5 dans toute période de sept jours**.
+   >Les paramètres ci-dessus signifient que les personnes ne recevront pas plus de **e-mails par jour** ou plus de **5 au cours d’une période de sept jours**.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ Il est très important de ne pas trop communiquer avec votre peuple. La définit
 
 >[!MORELIKETHIS]
 >
->[Appliquer les limites de communication à la campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Appliquer les limites de communication à  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

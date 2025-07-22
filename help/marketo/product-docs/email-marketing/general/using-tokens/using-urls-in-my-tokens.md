@@ -4,7 +4,7 @@ description: Utilisation d’URL dans mes jetons - Documents Marketo - Documenta
 title: Utilisation d’URL dans mes jetons
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Utilisation d’URL dans mes jetons {#using-urls-in-my-tokens}
 
-Suivez les étapes ci-dessous pour utiliser Mes jetons afin d’insérer des URL dans vos e-mails.
+Suivez les étapes ci-dessous pour utiliser [!UICONTROL Mes jetons] afin d’insérer des URL dans vos e-mails.
 
-1. Sélectionnez votre programme et cliquez sur **Mes jetons**.
+1. Sélectionnez votre programme et cliquez sur **[!UICONTROL Mes jetons]**.
 
    ![](assets/one-4.png)
 
-1. Sélectionnez le **Texte** Mon jeton, faites-le glisser et déposez-le sur la zone de travail.
+1. Sélectionnez le **[!UICONTROL Texte]** Mon jeton, faites-le glisser et déposez-le sur la zone de travail.
 
    ![](assets/two-4.png)
 
-1. Attribuez un nom unique au jeton, saisissez une URL (sans le champ https://) et cliquez sur **Enregistrer**.
+1. Attribuez un nom unique au jeton, saisissez une URL (sans le champ https://) et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons afin d’insérer des URL
 
    ![](assets/four-3.png)
 
-1. Cliquez sur **Modifier le brouillon**.
+1. Cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons afin d’insérer des URL
    >
    >Vous avez bien sûr également la possibilité de saisir des `http://` si votre site n’utilise pas https.
 
-1. Recherchez votre jeton Mon jeton, sélectionnez-le, puis cliquez sur **Insérer**.
+1. Recherchez votre jeton Mon jeton, sélectionnez-le, puis cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ Suivez les étapes ci-dessous pour utiliser Mes jetons afin d’insérer des URL
 
    ![](assets/nine.png)
 
-1. Mettez en surbrillance le texte que le lien doit afficher et cliquez sur l’icône Insérer/Modifier le lien .
+1. Mettez en surbrillance le texte que le lien doit afficher et cliquez sur l’icône [!UICONTROL Insérer/Modifier le lien].
 
    ![](assets/ten.png)
 
-1. Appuyez sur Ctrl/Cmd+V pour coller le contenu dans la zone **URL**, puis cliquez sur **Insérer**.
+1. Appuyez sur Ctrl/Cmd+V pour coller le contenu dans la zone **[!UICONTROL URL]**, puis cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/eleven.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/twelve.png)
 

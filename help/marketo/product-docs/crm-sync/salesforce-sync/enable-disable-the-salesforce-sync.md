@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719310
-description: Activer/Désactiver la synchronisation Salesforce - Documents Marketo - Documentation du produit
-title: Activer/Désactiver la synchronisation Salesforce
+description: Activation/désactivation de la synchronisation Salesforce - Documentation de Marketo - Documentation du produit
+title: Activation/désactivation de la synchronisation Salesforce
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Activer/Désactiver la synchronisation Salesforce {#enable-disable-the-salesforce-sync}
+# Activation/désactivation de la synchronisation [!DNL Salesforce] {#enable-disable-the-salesforce-sync}
 
-Lorsque vous apportez des modifications majeures à vos paramètres de synchronisation ou de champ, vous devez désactiver la synchronisation pendant la configuration. Voici comment :
+Lorsque vous apportez des modifications majeures à vos paramètres de synchronisation ou de champ, vous devez désactiver la synchronisation pendant la configuration. Voici comment procéder :
 
-1. Accédez à la section **[!UICONTROL Admin]** .
+1. Accédez à la section **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
@@ -23,7 +23,7 @@ Lorsque vous apportez des modifications majeures à vos paramètres de synchroni
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
-1. La synchronisation bidirectionnelle est maintenant désactivée et inactive jusqu’à ce que vous la réactiviez. Les actions de flux Salesforce continueront à fonctionner.
+1. La synchronisation bidirectionnelle est désormais désactivée et inactive jusqu’à ce que vous la réactiviez. Les actions de flux [!DNL Salesforce] continueront à fonctionner.
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 

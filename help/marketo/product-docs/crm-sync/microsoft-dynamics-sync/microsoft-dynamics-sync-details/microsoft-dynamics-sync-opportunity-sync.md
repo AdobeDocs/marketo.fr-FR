@@ -1,29 +1,29 @@
 ---
 unique-page-id: 3571844
-description: Synchronisation Microsoft Dynamics - Synchronisation des opportunités - Documents Marketo - Documentation du produit
-title: Synchronisation Microsoft Dynamics - Synchronisation des opportunités
+description: Synchronisation de Microsoft Dynamics - Synchronisation des opportunités - Documents Marketo - Documentation du produit
+title: Synchronisation de Microsoft Dynamics - Synchronisation des opportunités
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 9a130e0b2ec84b638adf37188b65b565b090fe1b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
-# Synchronisation Microsoft Dynamics : synchronisation des opportunités {#microsoft-dynamics-sync-opportunity-sync}
+# Synchronisation des [!DNL Microsoft Dynamics] : synchronisation des opportunités {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo Engage à la synchronisation Dynamics est très puissant. Voici tous les détails de la synchronisation des opportunités.
+La synchronisation de Marketo vers [!DNL Dynamics] est très puissante. Voici tous les détails de la synchronisation des opportunités :
 
 ## Comment les détails des opportunités sont-ils synchronisés entre les deux systèmes ? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-La synchronisation des opportunités est un moyen : Dynamics vers Marketo. Si vous apportez des modifications à une opportunité dans Dynamics, votre mise à jour sera répercutée dans Marketo.
+La synchronisation des opportunités est une méthode : [!DNL Dynamics] à Marketo. Si vous apportez des modifications à une opportunité dans [!DNL Dynamics], votre mise à jour sera répercutée dans Marketo.
 
-## Puis-je créer une opportunité dans Dynamics à l’aide de Marketo ? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+## Puis-je créer une opportunité dans [!DNL Dynamics] à l’aide de Marketo ? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-Non, vous devez créer l’opportunité dans Dynamics et elle sera automatiquement synchronisée avec Marketo.
+Non, vous devez créer l’opportunité dans [!DNL Dynamics]. Elle sera automatiquement synchronisée dans Marketo.
 
-## Quels champs seront synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
+## Quels champs vont être synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 
 Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} lors de la configuration.
 
@@ -31,11 +31,11 @@ Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-doc
 
 Le contact/compte peut être associé à l’opportunité de deux manières :
 
-* Lors de la création d’une opportunité, les champs Contact (champ de recherche sur le formulaire à contacter) et/ou Compte (champ de recherche sur le formulaire à mettre en compte) peuvent être définis. Dans les deux cas, ces valeurs sont stockées dans le champ Client potentiel (customerid) de Dynamics. Ce champ ne s’affiche pas dans le formulaire d’opportunité, mais il peut être ajouté à partir des paramètres. Ce champ ne peut contenir que 1 valeur, contact ou compte. Marketo effectue les opérations suivantes :
+* Lors de la création d’une opportunité, le Contact (champ de recherche du formulaire à contacter) et/ou le Compte (champ de recherche du formulaire à compte) peuvent être définis. Dans les deux cas, ces valeurs sont stockées dans le champ Client potentiel (customerid) de Dynamics. Ce champ n’apparaît pas dans le formulaire d’opportunité, mais peut être ajouté à partir des paramètres. Ce champ ne peut contenir qu’une seule valeur, contact ou compte. Marketo effectue les opérations suivantes :
 
-   * Si la valeur de contact est définie et que le compte est vide, Marketo crée un `opportunitycontactrole` et définit le compte sur l’opportunité d’accéder au compte du contact. Si le contact n&#39;a pas de compte, ce champ est vide.
-   * Si la valeur du compte est définie et que le contact est vide, Marketo définit uniquement le compte sur l’opportunité d’accès à ce compte.
-   * Si les deux valeurs sont définies, Dynamics sélectionne le compte comme valeur de customerid, de sorte que le comportement serait le même que ci-dessus.
+   * Si la valeur du contact est définie et que le compte n’est pas renseigné, Marketo crée un `opportunitycontactrole` et définit le compte sur l’opportunité pour le compte du contact. Si le contact n’a pas de compte, ce champ reste vide.
+   * Si la valeur du compte est définie et que le contact n’est pas renseigné, Marketo définit uniquement le compte sur l’opportunité de ce compte.
+   * Si les deux valeurs sont définies, Dynamics sélectionne le compte comme valeur pour l’ID client, de sorte que le comportement soit le même que ci-dessus.
 
 
-* Grâce aux parties prenantes : Dynamics utilise des connexions pour connecter l’opportunité de contacter les parties prenantes à partir de la page de création d’opportunité. Pour ce faire, nous allons créer un enregistrement `opportunitycontactrole` pour chaque nouvelle partie prenante.
+* Via les parties prenantes : Dynamics utilise des connexions pour connecter l’opportunité à contacter via les parties prenantes à partir de la page de création d’opportunité. Pour ce faire, nous créerons un dossier `opportunitycontactrole` pour chaque nouvelle partie prenante.

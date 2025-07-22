@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: Installez le complément de messagerie Marketo pour Outlook avec un code d'enregistrement - Marketo Docs - Documentation du produit
-title: Installer le complément de messagerie Marketo pour Outlook avec un code d'enregistrement
+description: Installez le complément de messagerie Marketo pour [!DNL Outlook] avec un code d’enregistrement - Documents Marketo - Documentation du produit
+title: Installer le complément de messagerie électronique Marketo pour [!DNL Outlook] avec un code d’enregistrement
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '536'
 ht-degree: 6%
 
 ---
 
-# Installer le complément de messagerie Marketo pour Outlook avec un code d&#39;enregistrement {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installer le complément de messagerie électronique Marketo pour [!DNL Outlook] avec un code d’enregistrement {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Si les utilisateurs peuvent accéder aux paramètres d’administration sur leurs ordinateurs portables, vous pouvez leur envoyer directement un code d’enregistrement.
 
@@ -39,7 +39,7 @@ Si vous n’avez pas reçu d’e-mail d’invitation, demandez à votre administ
 
    >[!NOTE]
    >
-   >Actuellement, les liens ci-dessous ne fonctionnent que dans Microsoft Edge ou en cliquant avec le bouton droit de la souris dans Chrome. Nous sommes désolés pour la gêne occasionnée.
+   >Actuellement, les liens ci-dessous ne fonctionnent que dans [!DNL Microsoft Edge] ou en cliquant avec le bouton droit de la souris dans [!DNL Chrome]. Nous sommes désolés pour la gêne occasionnée.
 
 <table><thead>
   <tr>
@@ -55,33 +55,33 @@ Si vous n’avez pas reçu d’e-mail d’invitation, demandez à votre administ
   </tr>
   <tr>
     <td>Outlook 2003</td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Téléchargement</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Télécharger</a></td>
     <td>S/O</td>
   </tr>
   <tr>
     <td>Outlook 2007</td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Téléchargement</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Télécharger</a></td>
     <td>S/O</td>
   </tr>
   <tr>
     <td>Outlook 2010</td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Téléchargement</a></td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Téléchargement</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Télécharger</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Télécharger</a></td>
   </tr>
   <tr>
     <td>Outlook 2013</td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Téléchargement</a></td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Téléchargement</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Télécharger</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Télécharger</a></td>
   </tr>
   <tr>
     <td>Outlook 2016</td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Téléchargement</a></td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Téléchargement</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Télécharger</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Télécharger</a></td>
   </tr>
   <tr>
     <td>Outlook 2019</td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Téléchargement</a></td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Téléchargement</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Télécharger</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Télécharger</a></td>
   </tr>
   <tr>
     <td>Outlook pour Mac</td>
@@ -95,12 +95,12 @@ Si vous n’avez pas reçu d’e-mail d’invitation, demandez à votre administ
   </tr>
   <tr>
     <td>Office 365*</td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Téléchargement</a></td>
-    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Téléchargement</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Télécharger</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Télécharger</a></td>
   </tr>
 </tbody></table>
 
-*Version Office 365 : client Windows uniquement (sous Windows 10, Enterprise ou Pro).
+*[!DNL Office] version 365 : client [!DNL Windows] uniquement (le 10 [!DNL Windows], [!DNL Enterprise] ou [!DNL Pro]).
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ Si vous n’avez pas reçu d’e-mail d’invitation, demandez à votre administ
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Fermez Microsoft Outlook.
+1. Fermez [!DNL Microsoft Outlook].
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ Si vous n’avez pas reçu d’e-mail d’invitation, demandez à votre administ
    >
    >Si vous recevez un avertissement de sécurité, ne vous inquiétez pas ! Cliquez simplement sur **Exécuter**.
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Renseignez **Prénom**, **Nom** et **Adresse e-mail**, puis copiez et collez le **Code d’enregistrement** de l’e-mail dans le formulaire et cliquez sur **Suivant**.
+1. Renseignez **[!UICONTROL Prénom]**, **[!UICONTROL Nom]** et **[!UICONTROL Adresse e-mail]**, puis copiez et collez le **[!UICONTROL Code d’enregistrement]** de l’e-mail dans le formulaire et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ Si vous n’avez pas reçu d’e-mail d’invitation, demandez à votre administ
    >
    >Si l’installation échoue, contactez votre service informatique pour vous assurer que le trafic HTTPS n’est pas bloqué. Le programme d’installation nécessite l’ouverture du trafic HTTPS.
 
-1. Cliquez sur **Suivant** pour effectuer l’installation à l’emplacement par défaut.
+1. Cliquez sur **[!UICONTROL Suivant]** pour effectuer l’installation à l’emplacement par défaut.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Cliquez sur **Suivant**.
+1. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Si vous recevez une invite de sécurité concernant un éditeur inconnu, cliquez sur **Oui**.
+   >Si vous recevez une invite de sécurité concernant un éditeur inconnu, cliquez sur **[!UICONTROL Oui]**.
 
-1. L&#39;installation est terminée, cliquez sur **Fermer**.
+1. L&#39;installation est terminée, cliquez sur **[!UICONTROL Fermer]**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Ouvrez maintenant Microsoft Outlook et affichez les boutons Marketo.
+1. Ouvrez maintenant [!DNL Microsoft Outlook] et affichez les boutons Marketo .
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

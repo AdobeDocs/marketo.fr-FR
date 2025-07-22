@@ -4,7 +4,7 @@ description: Désactivation du suivi d’un lien e-mail - Documents Marketo - Do
 title: Désactivation du suivi d’un lien e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Il arrive que vous ne souhaitiez pas activer l’URL de tracking **Marketo** sur
 
 En outre, si un e-mail a été envoyé il y a plus de 365 jours **et que personne n’a cliqué sur l’un de ses liens au cours des 180 derniers jours** Marketo Engage élague l’itinéraire vers l’URL de notre base de données, ce qui entraîne la rupture du lien. Ainsi, si vous avez besoin que le lien soit permanent, vous devez désactiver le suivi.
 
-1. Sélectionnez votre e-mail et cliquez sur **Modifier le brouillon**.
+1. Sélectionnez votre e-mail et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/one-7.png)
 
@@ -29,11 +29,11 @@ En outre, si un e-mail a été envoyé il y a plus de 365 jours **et que personn
 
    ![](assets/three-6.png)
 
-1. Dans le pop-up Modifier le lien , décochez la case **Suivre le lien**.
+1. Dans le pop-up Modifier le lien , décochez la case **[!UICONTROL Suivre le lien]**.
 
    ![](assets/four-4.png)
 
-1. Vous remarquerez que la zone **Inclure mkt_tok** disparaît. Cliquez sur **Appliquer**.
+1. Vous remarquerez que la zone **[!UICONTROL Inclure mkt_tok]** disparaît. Cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/five-3.png)
 
@@ -41,7 +41,7 @@ En outre, si un e-mail a été envoyé il y a plus de 365 jours **et que personn
    >
    >En désactivant uniquement la case à cocher **Inclure mkt_tok**, le lien sera toujours suivi, mais après redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok. Ce paramètre est utilisé par Marketo Landing Pages et Munchkin pour assurer un suivi correct des activités des personnes (comme lorsqu’une personne se désinscrit d’un e-mail). Évitez d’utiliser cette fonctionnalité, sauf si vous constatez un comportement bizarre sur votre site web en raison de la présence du paramètre .
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

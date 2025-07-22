@@ -1,33 +1,33 @@
 ---
 unique-page-id: 9437991
-description: Déclencheurs et filtres pour les campagnes dynamiques mobiles - Documents Marketo - Documentation du produit
-title: Déclencheurs et filtres pour les campagnes dynamiques mobiles
+description: Triggers et filtres pour les campagnes intelligentes mobiles - Documents Marketo - Documentation du produit
+title: Déclencheurs et filtres pour les campagnes intelligentes mobiles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 1%
 
 ---
 
-# Déclencheurs et filtres pour les campagnes dynamiques mobiles {#triggers-and-filters-for-mobile-smart-campaigns}
+# Déclencheurs et filtres pour les campagnes intelligentes mobiles {#triggers-and-filters-for-mobile-smart-campaigns}
 
-Vous pouvez configurer des déclencheurs et des filtres pour une campagne dynamique d’application mobile.
+Vous pouvez configurer des déclencheurs et des filtres pour une campagne dynamique sur les applications mobiles.
 
-Pour la plupart des activités, il existe un trigger, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour effectuer le suivi d’une action, comme appuyer sur une notification push, qui n’a pas eu lieu _._
+Pour la plupart des activités, il existe un déclencheur, un filtre et un filtre d’inactivité. Utilisez les filtres d’inactivité pour suivre une action qui ne s’est _produite, comme appuyer sur une notification push_ par exemple.
 
 * L’Application Mobile Est/A Été Installée
-* L’application mobile est/a été ouverte
-* A/A eu une activité d’application mobile
-* A/A eu une session d’application mobile
-* Appuyez/appuyez sur Notification push mobile.
+* L&#39;Application Mobile Est/A Été Ouverte
+* A/A Eu Une Activité D’Application Mobile
+* A/A Eu Une Session D’Application Mobile
+* Appuyez/Appuyez sur Notification Push Mobile
 
 Il n’existe que des filtres pour cette activité :
 
-* Notification push envoyée - filtre et filtre d’inactivité
+* Une notification push a été envoyée - filtre et filtre d’inactivité
 
-Recherchez &quot;application mobile&quot; dans le panneau de droite pour répertorier tous les déclencheurs et filtres d’applications mobiles.
+Recherchez « application mobile » dans le panneau de droite pour répertorier tous les déclencheurs et filtres d’application mobile.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -37,104 +37,104 @@ Utilisez des contraintes avec des déclencheurs et des filtres pour trier davant
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
-Tous les déclencheurs et filtres, à l’exception de la notification push de l’envoi, contiennent les deux contraintes standard suivantes :
+Tous les déclencheurs et filtres, à l’exception de la notification push A été envoyée, contiennent les deux contraintes standard suivantes :
 
-* Type de périphérique : iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablette Android, Inconnu (il s’agit d’une liste de paramètres prédéfinis)
+* Type d’appareil : [!DNL iPod], iPhone, [!DNL iPhone 6 Plus], [!DNL iPad mini], iPad, smartphone Android, tablette Android, inconnu (il s’agit d’une liste prédéfinie).
 
-* Plateforme - iPhone ou Android
+* Platform - iPhone ou Android
 
 Certains déclencheurs et filtres offrent des contraintes supplémentaires, telles que :
 
-* Version de l’application - Un moyen de cibler les personnes qui ne disposent pas de la dernière version. Par exemple, si la dernière version de l’application est 2.0, vous pouvez l’utiliser pour rechercher les personnes qui ne sont PAS sur la version 2.0 de l’application.
+* Version de l’application - Un moyen de cibler les personnes qui ne disposent pas de la dernière version. Par exemple, si la dernière version de l’application est la version 2.0, vous pouvez l’utiliser pour rechercher des personnes qui ne figurent PAS dans la version 2.0 de l’application
 
-* Installer Source : actuellement, la seule option est API
+* Installer Source - Actuellement, la seule option est l’API
 
-* Paramètre régional : paramètre défini sur l’appareil.
+* Paramètre régional - Paramètre sur l’appareil
 
-* Application mobile : nom de l’application spécifique. Utile pour spécifier si vous en avez plusieurs.
+* Application mobile : nom d’une application spécifique. Utile pour indiquer si vous en avez plusieurs
 
 * Version de la plateforme : version du système d’exploitation.
 
-* Durée de la session (secondes) : durée de la session lorsque l’application est au premier plan.
+* Durée de la session (secondes) - Durée de la session pendant laquelle l’application est au premier plan
 
-* Is Push Enabled - **True** signifie que les notifications push peuvent être envoyées. **False** signifie qu’ils ne peuvent pas ; par exemple, la personne peut avoir choisi de ne pas recevoir de notifications push.
+* Est activé pour les notifications push : **True** signifie que les notifications push peuvent être envoyées. **False** signifie qu’elle ne peut pas ; par exemple, la personne peut avoir choisi de ne pas recevoir de notifications push
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 
-**Possède Une Application Mobile**
+**A une application mobile**
 
-Utilisez ce filtre pour découvrir toutes les personnes qui ont déjà installé votre application. Cette option est disponible uniquement sous la forme d’un filtre.
+Utilisez ce filtre pour identifier toutes les personnes qui ont déjà installé votre application. Cette option n’est disponible qu’en tant que filtre.
 
 >[!NOTE]
 >
->Le filtre trouvera les installations actuelles et antérieures, car Marketo ne suit pas les désinstallations d’application.
+>Le filtre trouvera les installations actuelles et antérieures, car Marketo ne suit pas les désinstallations de l’application.
 
-**Contraintes** - Type d’appareil, plateforme, application mobile, version d’application mobile, type d’appareil, installer Source, Est activé et paramètre régional
+**Constraints** - Type d’appareil, plateforme, application mobile, version de l’application mobile, type d’appareil, installation de Source, est activé pour les notifications push et paramètres régionaux
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
->Il est recommandé de spécifier Has Mobile App = true et Is Push Enabled = true, ainsi que le nom de votre application mobile lors de la définition de la liste dynamique de qui doit recevoir une notification push.
+>Il est recommandé de spécifier A une application mobile = true et Est activé pour les notifications push = true, ainsi que le nom de votre application mobile lors de la définition de la liste dynamique des personnes qui doivent recevoir une notification push.
 
 L’Application Mobile Est/A Été Installée
 
-* L’application mobile est installée - déclencheur
+* L’application mobile est installée - trigger
 
-* L’application mobile a été installée - filter
+* L’application mobile a été installée - filtre
 
-* NOT Mobile App a été installé - filtre d’inactivité
+* L’application mobile n’a PAS été installée - filtre d’inactivité
 
-**Contraintes** - Type de périphérique, plateforme, version d’application, paramètres régionaux et installation de Source
+**Constraints** - Type d’appareil, plateforme, version d’application, paramètre régional et installation de Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
-L’application mobile est/a été ouverte
+L&#39;Application Mobile Est/A Été Ouverte
 
-* Application mobile ouverte - déclencheur
+* L’application mobile est ouverte - déclencheur
 
 * L’application mobile a été ouverte - filtre
 
-* NOT Mobile App was Opening - filtre d’inactivité
+* L’application mobile n’a PAS été ouverte - filtre d’inactivité
 
-**Contraintes** - Type de périphérique et plateforme
+**Contraintes** - Type d’appareil et plateforme
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
-A/A eu une activité d’application mobile
+A/A Eu Une Activité D’Application Mobile
 
-Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
-* Avec activité d’application mobile - déclencheur
+* A une activité d’application mobile - déclencheur
 
-* Disposition d’une activité d’application mobile - filtre
+* Avait une activité d’application mobile - filtre
 
-* Activité de l’application mobile NON présente - filtre d’inactivité
+* N’avait PAS d’activité d’application mobile - filtre d’inactivité
 
-**Contraintes** - Type de périphérique, plateforme, version d’application mobile, paramètre régional, version de plateforme, plus cinq autres :
+**Constraints** - Type d’appareil, plateforme, version de l’application mobile, paramètre régional, version de la plateforme, ainsi que cinq autres contraintes :
 
 * Action - Activité mobile personnalisée
 
-* Type d’action : champ de texte (facultatif) utilisé pour classer plusieurs actions
+* Type d’action - (facultatif) Champ de texte utilisé pour classer plusieurs actions
 
-* Détails de l’action : champ de texte (facultatif) qui fournit des informations supplémentaires sur une action.
+* Détails de l’action - (facultatif) Champ de texte qui fournit des informations supplémentaires sur une action
 
-* Mesure d’action : champ numérique (facultatif) fournissant des informations supplémentaires sur une action (prix, par exemple)
+* Mesure d’action - (facultatif) Champ numérique qui fournit des informations supplémentaires sur une action (par exemple, le prix)
 
-* Durée de l’action (secondes) - (facultatif) champ numérique pouvant être utilisé pour capturer le temps nécessaire à un utilisateur pour terminer une action
+* Durée de l’action (secondes) - (facultatif) champ numérique qui peut être utilisé pour capturer la durée nécessaire à un utilisateur ou une utilisatrice pour exécuter une action
 
-Les contraintes Action vous permettent d’utiliser le déclencheur et les filtres pour suivre de très près l’activité mobile.
+Les contraintes d’action vous permettent d’utiliser le déclencheur et les filtres pour suivre de très près l’activité mobile.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Sous le type d’action *Shopping*, voici une action très spécifique, avec les autres contraintes qui la définissent :
+>Sous le type d’action *Shopping*, voici une action très spécifique, définie par les autres contraintes :
 >
->* Achat d&#39;une chemise
->   * C&#39;était rouge.
->   * Ça a coûté 30 dollars.
->   * Il a fallu 20 secondes pour acheter
+>* J&#39;ai acheté une chemise
+>   * C&#39;était rouge
+>   * Ça a coûté 30 $
+>   * 20 secondes pour acheter
 
 Voici à quoi ressemble le filtre dans Marketo :
 
@@ -144,53 +144,53 @@ Voici à quoi ressemble le filtre dans Marketo :
 >
 >**Exemple**
 >
->Vous pouvez avoir plusieurs actions sous le même type d’action. En fait, votre expérience d’achat normale peut impliquer plusieurs colonnes sous Shopping ! Que dis-tu de chaussettes avec ça ?
+>Plusieurs actions peuvent être associées au même type d’action. En fait, votre expérience d’achat normale peut comporter plusieurs colonnes sous Achats ! Que diriez-vous de chaussettes avec ça ?
 >
->| Type d&#39;action | Magasin | Magasin |
+>| Type d’action | Shopping | Shopping |
 >|---|---|---|
->| Action | Panier | Pantalon acheté |
+>| Action | Chemise achetée | Pantalon acheté |
 >| Détails de l’action | Couleur | Couleur |
 >| Mesure de l’action | Prix | Prix |
 
-**Dispose/A eu une session d’application mobile**
+**A/A Eu Une Session D’Application Mobile**
 
-* Dispose d’une session d’application mobile - trigger
+* A une session d’application mobile - déclencheur
 
-* Disposition d’une session d’application mobile - filtre
+* Session d’application mobile terminée - filtre
 
-* Session d’application mobile NON présente - filtre d’inactivité
+* N’a PAS eu de session d’application mobile - filtre d’inactivité
 
-**Contraintes** - Type de périphérique, plateforme et durée de session (secondes)
+**Contraintes** - Type d’appareil, plateforme et durée de session (secondes)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
-Notification Push Appuyée/Appuyée
+Appuyez/Appuyez sur Notification Push
 
-* Notification push - déclencheur
+* Appuyez sur Notification push - déclencheur
 
-* Notification push sur - filtre
+* Notification push avec bouton - filtre
 
 * Notification push non activée - filtre d’inactivité
 
-**Contraintes** - Type de périphérique, plateforme, version d’application mobile, notification push et version de plateforme
+**Constraints** - Type d’appareil, plateforme, version d’application mobile, notification push et version de plateforme
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
->Utilisez le filtre d’inactivité Notification push non sélectionnée pour rechercher les personnes qui n’ont pas appuyé sur une notification push récemment envoyée, afin que vous puissiez effectuer un suivi par courrier électronique.
+>Utilisez le filtre d&#39;inactivité Notification push non activée pour rechercher les personnes qui n&#39;ont pas appuyé sur une notification push qui leur a été récemment envoyée, afin que vous puissiez effectuer un suivi par e-mail.
 
-**Notification push envoyée** Cette activité est disponible uniquement sous forme de filtre.
+**Notification push envoyée** Cette activité est disponible uniquement en tant que filtre.
 
-* Notification push envoyée - filtre
+* Une notification push a été envoyée - filtre
 
-* Notification push NON envoyée - filtre d’inactivité
+* Aucune notification push n’a été envoyée - filtre d’inactivité
 
-**Contraintes** - Notification push et application mobile
+**Constraints** - Notification push et application mobile
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
->* [Ajout d’une contrainte à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [Utiliser des filtres d’inactivité dans une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [Ajouter une contrainte à un filtre de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Utilisation des filtres d’inactivité dans une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

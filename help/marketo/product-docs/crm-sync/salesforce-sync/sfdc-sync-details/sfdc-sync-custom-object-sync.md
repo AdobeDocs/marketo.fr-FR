@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953471
-description: Synchronisation SFDC - Synchronisation d’objets personnalisés - Documents Marketo - Documentation du produit
-title: Synchronisation SFDC - Synchronisation des objets personnalisés
+description: Synchronisation de SFDC - Synchronisation d’objet personnalisé - Documents Marketo - Documentation du produit
+title: Synchronisation de SFDC - Synchronisation d’objet personnalisé
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# Synchronisation SFDC : synchronisation d’objet personnalisé {#sfdc-sync-custom-object-sync}
+# Synchronisation de SFDC : synchronisation d’objet personnalisé {#sfdc-sync-custom-object-sync}
 
-Les objets personnalisés créés dans votre instance Salesforce peuvent également faire partie de Marketo Engage. Voici comment le mettre en place.
+Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent également faire partie de Marketo.  Voici comment le configurer.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
 >[!PREREQUISITES]
 >
->Pour utiliser un objet personnalisé, il doit être associé à un objet [prospect](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"} ou [compte](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} dans Salesforce.
+>Pour utiliser un objet personnalisé, il doit être associé à un objet [prospect](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md) ou [compte](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) dans [!DNL Salesforce].
 
 >[!IMPORTANT]
 >
->L’utilisateur de synchronisation Marketo doit disposer d’un accès en lecture à l’objet personnalisé pour le répertorier et y effectuer une synchronisation.
+>L’utilisateur de la synchronisation Marketo a besoin d’un accès en lecture à l’objet personnalisé pour le répertorier et effectuer une synchronisation sur celui-ci.
 
 ## Activer l’objet personnalisé  {#enable-custom-object}
 
-1. Cliquez sur **[!UICONTROL Admin]** et sur le lien **[!UICONTROL Synchronisation des objets Salesforce]** .
+1. Cliquez sur **[!UICONTROL Admin]** et sur le lien **[!UICONTROL Synchronisation des objets Salesforce]**.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. S’il s’agit de votre premier objet personnalisé, cliquez sur **[!UICONTROL Schéma de synchronisation]**.
+1. S&#39;il s&#39;agit de votre premier objet personnalisé, cliquez sur **[!UICONTROL Schéma de synchronisation]**.
 
    ![](assets/rtaimage-2.png)
 
@@ -43,11 +43,11 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    >[!NOTE]
    >
-   >Une synchronisation initiale du schéma d’objet personnalisé de Salesforce peut prendre quelques minutes.
+   >Une synchronisation initiale du schéma d’objet personnalisé [!DNL Salesforce] peut prendre quelques minutes.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
-1. Faites glisser l’objet personnalisé à synchroniser dans la zone de travail.
+1. Faites glisser l’objet personnalisé que vous souhaitez synchroniser dans la zone de travail.
 
    ![](assets/image2015-4-22-10-3a45-3a30.png)
 
@@ -59,15 +59,15 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Cliquez à nouveau sur **[!UICONTROL Activer la synchronisation]**.
+1. Cliquez de nouveau sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
    >[!NOTE]
    >
-   >N’oubliez pas de réactiver votre synchronisation globale !
+   >N’oubliez pas de réactiver votre synchronisation globale.
 
-1. Revenez à l’onglet **Salesforce** .
+1. Revenez à l’onglet **[!UICONTROL Salesforce]**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,18 +75,18 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Pour afficher tous vos objets personnalisés Salesforce, cliquez sur **[!UICONTROL Admin]** et sur le lien **[!UICONTROL Synchronisation des objets Salesforce]** (comme à l’étape 1 ci-dessus).
+1. Pour afficher tous vos [!DNL Salesforce] objets personnalisés, cliquez sur **[!UICONTROL Admin]** et sur le lien **[!UICONTROL Synchronisation des objets Salesforce]** (comme à l’étape 1 ci-dessus).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
    >[!NOTE]
    >
-   >* Marketo ne prend en charge que les entités personnalisées liées à des entités standard profondes d’un ou deux niveaux.
+   >* Marketo ne prend en charge que les entités personnalisées qui sont liées à des entités standard à un ou deux niveaux de profondeur.
    >
-   >* L’arborescence des objets personnalisés peut afficher plusieurs fois le même objet, en raison de ses connexions directes avec l’un des objets principaux (par exemple, les prospects, les contacts, les comptes ou les connexions indirectes via un objet intermédiaire). Dans ce cas, choisissez l’objet le plus proche de l’objet principal et choisissez un seul. Le choix de plusieurs fois d’un même objet peut entraver la synchronisation de cet objet personnalisé.
+   >* L’arborescence d’objets personnalisés peut afficher le même objet plusieurs fois, en raison de ses connexions directes avec l’un des objets principaux (par exemple, prospects, contacts, comptes ou connexions indirectes par le biais d’objets intermédiaires). Dans ce cas, choisissez l’objet le plus proche de l’objet principal et choisissez-en un seul. Le fait de sélectionner le même objet plusieurs fois peut gêner la synchronisation de cet objet personnalisé.
 
-### What&#39;s Next : {#whats-next}
+### Et après ? {#whats-next}
 
-[Ajouter/Supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[Ajouter/supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans les campagnes intelligentes et les listes dynamiques.
+Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans les campagnes et listes intelligentes.

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6849029
-description: Mise à jour de la solution Marketo pour Microsoft Dynamics - Documentation Marketo - Documentation du produit
-title: Mise à jour de la solution Marketo pour Microsoft Dynamics
+description: Mise à jour de la solution Marketo pour  [!DNL Microsoft Dynamics]  - Documentation de Marketo - Documentation du produit
+title: Mettez à jour la solution Marketo pour  [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Mise à jour de la solution Marketo pour Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
+# Mise à jour de la solution Marketo pour [!DNL Microsoft Dynamics] {#update-the-marketo-solution-for-microsoft-dynamics}
 
-Lorsqu’une nouvelle solution Microsoft Dynamics est publiée, vous pouvez télécharger la mise à jour depuis la zone Admin de votre compte.
+Lorsqu’une nouvelle solution [!DNL Microsoft Dynamics] est publiée, vous pouvez télécharger la mise à jour depuis la zone Admin de votre compte.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Lorsqu’une nouvelle solution Microsoft Dynamics est publiée, vous pouvez tél
 
 >[!CAUTION]
 >
->Vous devez impérativement télécharger la dernière solution Marketo _avant_ d’effectuer toute mise à jour.
+>Il est impératif de télécharger la dernière solution Marketo _avant d_ effectuer une mise à jour.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -35,20 +35,20 @@ Lorsqu’une nouvelle solution Microsoft Dynamics est publiée, vous pouvez tél
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
-1. Sélectionnez la solution appropriée pour votre version de Microsoft Dynamics.
+1. Sélectionnez la solution appropriée pour votre version de [!DNL Microsoft Dynamics].
 
    ![](assets/msd-online.png)
 
-   Super ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil. Si vous ne connaissez pas les étapes d’installation, contactez votre administrateur Dynamics.
+   Génial ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil. Si vous ne connaissez pas les étapes d’installation, contactez votre administrateur [!UICONTROL Dynamics].
 
-## Mise à jour {#performing-the-update}
+## Exécution de la mise à jour {#performing-the-update}
 
-1. Importez la dernière version de la solution par rapport à la version existante de votre CRM Dynamics (par exemple : si votre CRM Dynamics dispose de la version 1.4 et que la dernière version est 1.5, vous importez _over_ version 1.4).
+1. Importez la dernière version de la solution par rapport à la version existante de votre CRM [!DNL Dynamics] (par exemple, si votre CRM [!DNL Dynamics] dispose de la version 1.4 et que la dernière version est la version 1.5, vous devez importer _plus_ la version 1.4).
 
-1. La fenêtre contextuelle suivante s’affiche. Sélectionnez **[!UICONTROL Mettre à jour]** et **[!UICONTROL Conserver les personnalisations]**, puis cliquez sur **[!UICONTROL Importer]**.
+1. Le pop-up suivant s’affiche. Sélectionnez **[!UICONTROL Mettre à jour]** et **[!UICONTROL Conserver les personnalisations]**, puis cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->La sélection de la mise à niveau au lieu de la mise à jour peut entraîner une corruption des données dans votre environnement Dynamics. _Veillez à choisir Mettre à jour_ sous Options d’importation.
+>Sélectionner Mettre à niveau au lieu de Mettre à jour peut entraîner une corruption des données dans votre environnement [!DNL Dynamics]. **Veillez à choisir Mettre à jour** sous [!UICONTROL Options d’importation].

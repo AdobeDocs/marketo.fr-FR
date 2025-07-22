@@ -4,7 +4,7 @@ description: Définition d’une liste dynamique pour les activités de contenu 
 title: Définition d’une liste dynamique pour les activités de contenu prédictif
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Définition d’une liste dynamique pour les activités de contenu prédictif {#define-a-smart-list-for-predictive-content-activities}
 
-Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs et les filtres lorsque vous définissez une liste dynamique dans une campagne dynamique. Vous pouvez déclencher une action pour toute personne qui clique sur du contenu prédictif via le [modèle de média enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) ou dans un [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
+Vous pouvez utiliser des activités de contenu prédictives dans des déclencheurs et des filtres lorsque vous définissez une liste dynamique dans une campagne dynamique. Vous pouvez déclencher une action pour toute personne qui clique sur du contenu prédictif via le [modèle de contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) ou dans un [e-mail](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-1. Dans votre campagne dynamique, accédez à l’onglet **Liste dynamique**.
+1. Dans votre campagne dynamique, accédez à l’onglet **[!UICONTROL Liste dynamique]**.
 
    ![](assets/smart-list-1.png)
 
    >[!NOTE]
    >
-   >Les listes intelligentes peuvent faire des choses étonnantes. Pour en savoir plus, consultez la [présentation détaillée de la liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Les listes dynamiques peuvent faire des choses incroyables. Pour en savoir plus, consultez la [exploration en profondeur des listes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Recherchez le déclencheur, puis faites-le glisser sur la zone de travail.
+1. Recherchez le déclencheur, puis faites-le glisser et déposez-le sur la zone de travail.
 
    ![](assets/smart-list-drag-trigger-hands.png)
 
    >[!NOTE]
    >
-   >Une campagne dynamique avec des déclencheurs s’exécute en mode Déclencheur. Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres ajoutés.
+   >Une campagne intelligente avec des déclencheurs s’exécute en mode Déclencheur . Il s’exécute sur une personne à la fois en fonction des événements déclenchés et des filtres ajoutés.
 
-1. Cliquez sur la liste déroulante **Nom** et sélectionnez un opérateur.
+1. Cliquez sur le menu déroulant **[!UICONTROL Nom]** et sélectionnez un opérateur.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Ajoutez la contrainte **Type** .
+1. Ajoutez la contrainte **[!UICONTROL Type]**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs
 
    ![](assets/pc-add-constraint.png)
 
-1. Si vous utilisez la source de courrier électronique pour votre contenu prédictif, ajoutez le déclencheur **Lien des clics dans Email**. Sélectionnez votre email et ajoutez la contrainte **Is Predictive**, définie comme **true**.
+1. Si vous utilisez la source d’e-mail pour votre contenu prédictif, ajoutez le déclencheur **[!UICONTROL Lien des clics dans l’e-mail]**. Sélectionnez votre e-mail et ajoutez la contrainte **[!UICONTROL Est prédictif]**, définie sur **[!UICONTROL true]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -57,18 +57,18 @@ Vous pouvez utiliser des activités de contenu prédictif dans les déclencheurs
 
    >[!TIP]
    >
-   >Dans une campagne dynamique avec des déclencheurs et des filtres, les déclencheurs se situent dans la partie supérieure. Lorsqu’elles sont déclenchées, seules les personnes qui répondent aux critères de filtrage traversent le flux.
+   >Dans une campagne intelligente avec des déclencheurs et des filtres, les déclencheurs se trouvent en haut. Lorsqu’il est déclenché, seules les personnes qui répondent aux critères de filtrage passent par le flux.
 
    >[!NOTE]
    >
-   >Avec plusieurs déclencheurs, une personne passe au flux si l’un d’eux est activé.
+   >Avec plusieurs déclencheurs, une personne accède au flux si L’UN DES déclencheurs est activé.
 
-   Pour exécuter la campagne sur un ensemble de personnes en même temps, apprenez à [définir une liste dynamique pour une campagne dynamique par lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Pour exécuter la campagne sur un ensemble de personnes simultanément, découvrez comment [définir une liste dynamique pour une campagne dynamique par lots](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [ Définition d’une liste dynamique pour une campagne dynamique | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Définir une liste dynamique pour une campagne dynamique | Lot ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Ajouter une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Définition d’une liste dynamique pour les activités Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
-   >* [Activer le contenu prédictif pour le contenu multimédia Web enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-   >* [Activer la barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+   >* [Activer le contenu prédictif pour les médias riches en contenu web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+   >* [Activer la barre de recommandations de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)

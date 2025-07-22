@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360276
 description: Masquer/Afficher un canal de programme - Documents Marketo - Documentation du produit
-title: Masquage/affichage d’un canal de programme
+title: Masquer/afficher un canal de programme
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Masquage/affichage d’un canal de programme {#hide-unhide-a-program-channel}
+# Masquer/afficher un canal de programme {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Vous pouvez [supprimer un canal de programme](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) s&#39;il n&#39;est utilisé par aucun programme.  Cependant, une fois qu&#39;il est utilisé, nous devons le conserver.  Vous pouvez toutefois le masquer si vous n’en avez plus besoin.
+Vous pouvez [supprimer un canal de programme](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) s’il n’est utilisé par aucun programme.  Cependant, une fois qu&#39;on l&#39;utilise, il faut la garder.  Cependant, vous pouvez le masquer si vous n’en avez plus besoin.
 
-## Masquage d’un canal de programme {#hide-a-program-channel}
+## Masquer un canal de programme {#hide-a-program-channel}
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -37,10 +37,10 @@ Vous pouvez [supprimer un canal de programme](/help/marketo/product-docs/adminis
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 
-Viens facile, vas-y facilement !
+Doucement, doucement !
 
 ## Afficher un canal de programme {#unhide-a-program-channel}
 
-1. Pour afficher un canal de programme, cochez la case Afficher les éléments masqués .
+1. Affichez un canal de programme en cochant la case **[!UICONTROL Afficher masqué]**.
 
    ![](assets/hide-unhide-a-program-channel-5.png)

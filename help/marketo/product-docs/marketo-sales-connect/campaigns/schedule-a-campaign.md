@@ -1,26 +1,26 @@
 ---
 unique-page-id: 14352612
 description: Planification d’une campagne - Documents Marketo - Documentation du produit
-title: Planification d’une campagne
+title: Planifier une campagne
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Planification d’une campagne {#schedule-a-campaign}
+# Planifier une campagne {#schedule-a-campaign}
 
-Vous pouvez planifier l’envoi de chaque étape d’email de votre campagne à un moment spécifique ou choisir chaque étape d’email suivante pour qu’elle soit envoyée en même temps que le premier email de votre campagne.
+Vous pouvez planifier chaque étape e-mail individuelle de votre campagne pour qu’elle s’effectue à un moment spécifique, ou choisir chaque étape e-mail suivante pour qu’elle s’effectue au même moment que le premier e-mail de votre campagne.
 
-Il vous suffit de choisir le moment où vous souhaitez que vos emails soient envoyés lors de la création de votre campagne.
+Il vous suffit de choisir le moment où vous souhaitez que vos e-mails soient envoyés lors de la création de votre campagne.
 
-Si vous n&#39;avez pas programmé votre première étape ou si vous devez choisir un moment &quot;Envoyer&quot;, vous serez invité à choisir le moment où votre campagne doit être envoyée, chaque fois que vous ajoutez une personne ou un groupe.
+Si vous n’avez pas planifié votre première étape ou si vous devez choisir une heure « [!UICONTROL  Envoyer à ] », il vous sera demandé de choisir le moment où votre campagne doit être envoyée, chaque fois que vous ajoutez une personne ou un groupe.
 
-Ouvrez le modal Ajouter à Campaign en ajoutant des individus, un groupe ou des personnes sélectionnées, puis cliquez sur **Suivant**.
+Ouvrez la fenêtre modale [!UICONTROL Ajouter à la campagne] en ajoutant des individus, un groupe ou des personnes sélectionnées, puis cliquez sur **[!UICONTROL Suivant]**.
 
-Après avoir cliqué sur **Suivant**, vous pouvez prévisualiser le premier email.
+Après avoir cliqué sur **[!UICONTROL Suivant]**, vous pouvez prévisualiser le premier e-mail.
 
-Après avoir cliqué de nouveau sur **Suivant**, vous serez redirigé vers une option pour le moment où vous souhaitez que votre campagne sorte. Vous pouvez le faire démarrer maintenant ou programmer une heure pour que la campagne commence plus tard.
+Après avoir de nouveau cliqué sur **[!UICONTROL Suivant]**, vous serez redirigé vers une option permettant de choisir le moment où vous souhaitez que votre campagne soit publiée. Vous pouvez soit le faire démarrer maintenant, soit planifier une heure pour démarrer ultérieurement la campagne.

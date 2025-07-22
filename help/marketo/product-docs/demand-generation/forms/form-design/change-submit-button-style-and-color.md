@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2359620
-description: Modifier le style et la couleur du bouton d’envoi - Documents Marketo - Documentation du produit
+description: Modifier le style et la couleur du bouton Envoyer - Documents Marketo - Documentation du produit
 title: Modifier le style et la couleur du bouton Envoyer
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
 # Modifier le style et la couleur du bouton Envoyer {#change-submit-button-style-and-color}
 
-Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin d’un objet plus sophistiqué, n’hésitez pas à choisir parmi un large éventail de styles de bouton prêts à l’emploi.
+Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de quelque chose de plus sophistiqué, n’hésitez pas à choisir parmi un large éventail de styles de boutons prêts à l’emploi.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Sélectionnez le bouton **Envoyer** et cliquez sur **Modifier** en regard du style de bouton.
+1. Sélectionnez le bouton **[!UICONTROL Envoyer]** et cliquez sur **[!UICONTROL Modifier]** en regard de Style de bouton.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez faire glisser le bouton d’envoi vers la gauche ou la droite pour modifier sa position ? C&#39;est si facile. Essayez donc.
+   >Saviez-vous que vous pouvez faire glisser le bouton d’envoi vers la gauche ou la droite pour modifier sa position ? C&#39;est aussi facile que ça. Essayez donc.
 
-1. Sélectionnez un style de bouton de votre choix (faites défiler vers le haut ou vers le bas).
+1. Choisissez le style de bouton de votre choix (défilement vers le haut/bas).
 
    ![](assets/image2014-9-15-16-3a55-3a30.png)
 
-1. Vous pouvez laisser la couleur par défaut ou la personnaliser.
+1. Vous pouvez conserver la couleur par défaut ou la personnaliser.
 
    ![](assets/image2014-9-15-16-3a56-3a0.png)
 
@@ -43,15 +43,15 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin d�
    >
    >Vous pouvez également saisir le code couleur manuellement.
 
-1. Cliquez sur **Sélectionner**.
+1. Cliquez sur **[!UICONTROL Sélectionner]**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Cliquez sur **Approuver et fermer**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
@@ -61,4 +61,4 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin d�
 
    >[!NOTE]
    >
-   >Comme de nombreux éléments graphiques, le bouton peut avoir un aspect différent selon le navigateur que vous utilisez.
+   >Comme de nombreux éléments graphiques, le bouton peut avoir un aspect différent en fonction du navigateur que vous utilisez.

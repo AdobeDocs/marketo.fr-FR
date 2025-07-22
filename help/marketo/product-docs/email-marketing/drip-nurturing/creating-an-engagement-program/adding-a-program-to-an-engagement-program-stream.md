@@ -1,59 +1,59 @@
 ---
 unique-page-id: 10098134
-description: Ajout d’un programme à un flux de programme d’engagement - Documents Marketo - Documentation du produit
-title: Ajout d’un programme à un flux de programme d’engagement
+description: Ajout d’un programme à un flux de programmes d’engagement - Documents Marketo - Documentation du produit
+title: Ajout d’un programme à un flux de programmes d’engagement
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
 
 ---
 
-# Ajout d’un programme à un flux de programme d’engagement {#adding-a-program-to-an-engagement-program-stream}
+# Ajout d’un programme à un flux de programmes d’engagement {#adding-a-program-to-an-engagement-program-stream}
 
 ## Pourquoi utiliser un programme imbriqué dans un flux de programme d’engagement ? {#why-use-a-nested-program-in-an-engagement-program-stream}
 
-Il est facile d’ajouter un email à un flux dans un programme d’engagement, et cela fonctionne bien. Cependant, si les besoins de votre entreprise sont plus complexes, il peut être logique de placer l’email dans un programme. Par exemple, vous pouvez :
+Il est facile d’ajouter un e-mail à un flux dans un programme d’engagement, et cela fonctionne correctement. Cependant, si les besoins de votre entreprise sont plus complexes, il peut être logique de placer l’e-mail dans un programme. Par exemple, vous pouvez effectuer les opérations suivantes :
 
-* Envoyer un courrier électronique à un sous-groupe de personnes dans le flux
-* Envoyez des *messages électroniques différents* aux sous-groupes dans le flux
-* Inclure des landing pages, des formulaires ou d’autres ressources dans la culture
-* Activation de l’attribution multi-touch
-* Ajout d’étapes de flux supplémentaires, telles que les emails d’alerte
+* Envoyer un e-mail à un sous-groupe de personnes dans le flux
+* Envoyer des e-mails *différents* aux sous-groupes dans le flux
+* Inclure des pages de destination, des formulaires ou d’autres ressources dans le parcours
+* Activer l’attribution multipoint
+* Ajouter des étapes de flux supplémentaires, telles que des e-mails d’alerte
 
-## Que se passe-t-il quand vous utilisez un programme dans un flux ? {#what-happens-when-you-use-a-program-in-a-stream}
+## Que se passe-t-il lorsque vous utilisez un programme dans un flux ? {#what-happens-when-you-use-a-program-in-a-stream}
 
-Lors de l’utilisation d’un programme imbriqué, la décision d’envoyer un courrier électronique à une personne dépend de l’appartenance au programme et de l’identifiant du programme.
+Lors de l’utilisation d’un programme imbriqué, la décision d’envoyer un e-mail à une personne est basée sur l’appartenance au programme et l’ID de programme.
 
-* Si vous n’êtes pas membre d’un programme, vous recevrez une fois tous les emails qui font partie du programme.
-* Si vous êtes membre du programme, vous ne recevrez pas l&#39;email.
-* Si vous n’êtes plus membre mais que vous avez reçu l’e-mail plus tôt via ce programme, vous ne recevrez pas l’e-mail.
+* Si vous n’êtes pas membre d’un programme, vous recevrez tous les e-mails qui font partie du programme une fois
+* Si vous êtes membre du programme, vous ne recevrez pas l’e-mail
+* Si vous n’êtes plus membre, mais que vous avez reçu l’e-mail plus tôt par le biais de ce programme, vous ne recevrez pas l’e-mail
 
-Lorsque vous utilisez un programme dans un flux, cela n’a pas d’importance si vous avez déjà reçu cet email spécifique. Tant que l&#39;email n&#39;a pas été envoyé avant *dans ce programme spécifique*, vous pouvez le recevoir à nouveau.
+Lorsque vous utilisez un programme dans un flux, peu importe si vous avez déjà reçu cet e-mail spécifique. Tant que l’e-mail n’a pas été envoyé avant *dans ce programme spécifique*, vous pouvez le recevoir à nouveau.
 
-Il peut être difficile de mélanger les emails et les programmes dans un programme d&#39;engagement. Il se peut que vous vouliez utiliser l&#39;un ou l&#39;autre.
+Il peut s’avérer difficile de mélanger des e-mails et des programmes dans un programme d’engagement. Vous pouvez utiliser l&#39;un ou l&#39;autre.
 
 >[!TIP]
 >
->Veillez à utiliser un filtre **Programme membre de l’engagement** dans votre liste dynamique.
+>Veillez à utiliser un filtre **[!UICONTROL Membre du programme d’engagement]** dans votre liste dynamique.
 
-## Qu’advient-il des personnes qui ne répondent pas aux critères de la liste dynamique ? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## Qu&#39;arrive-t-il aux personnes qui ne répondent pas aux critères de la liste dynamique? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Dans le cas où une personne est filtrée hors de la liste dynamique de la campagne dynamique d’un programme imbriqué, elle ne passe pas à l’élément de contenu suivant pendant la diffusion actuelle. Ils passeront à l’élément de contenu suivant dans le flux pour la diffusion *suivant*.
+Dans le cas où une personne est exclue de la liste dynamique de la campagne dynamique d’un programme imbriqué, elle ne passe pas au contenu suivant pendant le cast actuel. Ils passeront au contenu suivant du flux pour le cast *suivant*.
 
 ## Que contient un programme imbriqué ? {#what-does-a-nested-program-contain}
 
-Un programme imbriqué bien conçu contient des emails, des rapports et des campagnes intelligentes. Il est logique de les garder ensemble.
+Un programme imbriqué bien conçu contient des e-mails, des rapports et des campagnes intelligentes. C&#39;est logique de les garder ensemble.
 
-L’email que vous utilisez peut se trouver dans le programme, dans un autre programme ou même dans Design Studio. L&#39;endroit où il habite dépendra de la manière dont vous voulez l&#39;utiliser.
+L’e-mail que vous utilisez peut résider dans le programme, dans un autre programme ou même dans le [!UICONTROL Design Studio]. L’endroit où elle vivra dépendra de la manière dont vous l’utiliserez.
 
-Modification des rapports avec l’emplacement du courrier électronique. Ainsi, par exemple, si le courrier électronique se trouve dans Design Studio, dans le rapport Performance du courrier électronique, toutes les mesures sont affichées sur une seule ligne : les différentes diffusions sont combinées. Toutefois, dans le rapport Performance du flux d’engagement , les différents envois s’affichent séparément.
+Reporting des modifications avec l’emplacement des e-mails. Ainsi, par exemple, si l’e-mail se trouve dans le [!UICONTROL Design Studio], dans le rapport Performance de l’e-mail, toutes les mesures sont affichées sur une ligne - les différents conversions sont combinées. Cependant, dans le rapport de performances du flux d’engagement, les différents envois s’affichent séparément.
 
 >[!CAUTION]
 >
->Si vous souhaitez renvoyer quelque chose, il est plus prudent de créer un nouveau programme et une campagne intelligente.
+>Si vous souhaitez renvoyer quelque chose, il est préférable de créer un nouveau programme et une campagne intelligente.
 
 >[!MORELIKETHIS]
 >

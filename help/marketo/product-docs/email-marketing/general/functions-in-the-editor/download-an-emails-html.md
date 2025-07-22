@@ -1,22 +1,22 @@
 ---
 unique-page-id: 1900552
-description: Télécharger un HTML de courrier électronique - Documents Marketo - Documentation du produit
-title: Téléchargement de l’HTML d’un email
+description: Télécharger une documentation HTML pour les e-mails - Documentation du produit Marketo
+title: Télécharger une HTML d’e-mail
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Téléchargement de l’HTML d’un email {#download-an-emails-html}
+# Télécharger une HTML d’e-mail {#download-an-emails-html}
 
-Pour les sauvegardes et autres fins, Marketo vous permet de télécharger le contenu HTML d’un email.
+À des fins de sauvegarde ou autres, Marketo vous permet de télécharger le contenu HTML d’un e-mail.
 
-1. Recherchez l&#39;email et sélectionnez-le. Dans la liste déroulante **Actions de courrier électronique**, cliquez sur **Télécharger l’HTML**.
+1. Recherchez l’e-mail et sélectionnez-le. Dans la liste déroulante **[!UICONTROL Actions d’e-mail]**, cliquez sur **[!UICONTROL Télécharger HTML]**.
 
    ![](assets/one-4.png)
 
-C&#39;est si facile !
+C&#39;est aussi facile que ça !

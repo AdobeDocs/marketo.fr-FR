@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2359661
 description: Définir un champ de formulaire comme masqué - Documents Marketo - Documentation du produit
-title: Définir le champ de formulaire comme masqué
+title: Définir un champ de formulaire comme masqué
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Définir le champ de formulaire comme masqué {#set-a-form-field-as-hidden}
+# Définir un champ de formulaire comme masqué {#set-a-form-field-as-hidden}
 
-Les champs de formulaire masqués peuvent capturer des données en silence sans que le visiteur n’y ait saisi rien. Voici comment ça marche.
+Les champs de formulaire masqués peuvent capturer des données silencieusement sans que le visiteur ait à les saisir. Voilà comment cela fonctionne.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Sélectionnez le champ et définissez le **Type de champ** sur **Masqué.**
+1. Sélectionnez le champ et définissez **[!UICONTROL Type de champ]** sur **[!UICONTROL Masqué].**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
 >[!TIP]
 >
->Raccourci clavier ! Après avoir sélectionné un champ de formulaire, appuyez sur Ctrl+Alt+H pour le masquer.
+>Raccourci clavier ! Après avoir sélectionné un champ de formulaire, appuyez sur Ctrl + Alt + H pour le masquer.
 
 >[!MORELIKETHIS]
 >

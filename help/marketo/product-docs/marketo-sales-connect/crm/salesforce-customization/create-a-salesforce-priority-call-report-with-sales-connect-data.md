@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352470
-description: Créer un rapport d’appel de priorité Salesforce avec les données de connexion aux ventes - Documents Marketo - Documentation du produit
-title: Créer un rapport d’appel de priorité Salesforce avec les données de connexion des ventes
+description: Création d’un rapport d’appel prioritaire Salesforce avec des données Sales Connect - Documents Marketo - Documentation du produit
+title: Création d’un rapport d’appel prioritaire Salesforce avec des données Sales Connect
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Créer un rapport d’appel de priorité Salesforce avec les données de connexion des ventes {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Création d’un rapport d’appel prioritaire Salesforce avec des données Sales Connect {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
-Découvrez comment créer une liste d’appels/de rapports Salesforce à l’aide des données d’engagement par e-mail de Sales Connect pour vous concentrer sur les personnes ou les opportunités avec dynamique.
+Découvrez comment créer une liste de rapports/appels [!DNL Salesforce] à l’aide des données d’engagement par e-mail [!DNL Sales Connect] pour vous concentrer sur les personnes ou les opportunités ayant bénéficié d’un élan.
 
-1. Accédez à l&#39;onglet Rapport de la DDC .
-1. Créez un rapport avec &quot;Tâches et événements&quot;.
+1. Accédez à l&#39;onglet Rapport [!UICONTROL SFDC].
+1. Créez un rapport avec « [!UICONTROL Tâches et événements] ».
 1. Définissez vos filtres et choisissez une période.
-1. Faites glisser les données Sales Connect dans vos colonnes en saisissant &quot;Marketo Sales&quot; (Ventes) dans la recherche de champ. Une fois que vous avez ajouté les données de connexion aux ventes, ajoutez une colonne pour le numéro de téléphone afin que vous puissiez agir sur ce rapport et l’utiliser comme liste d’appels.
-1. Exécutez le rapport et triez par événements de connexion aux ventes suivis. Les personnes qui ont le plus d’activités dans vos emails seront ainsi redistribuées. Assurez-vous que les prochaines étapes sont planifiées avec ces personnes de haut niveau ou faites-les une priorité ce jour-là. Il y a probablement une dynamique avec un nombre élevé.
+1. Faites glisser [!DNL Sales Connect] données dans vos colonnes en saisissant « Ventes Marketo » dans la recherche de champs. Une fois que vous avez ajouté [!DNL Sales Connect] données, ajoutez une colonne pour Numéro de téléphone afin de pouvoir agir sur ce rapport et l’utiliser comme liste d’appels.
+1. Exécutez le rapport et triez-le par [!UICONTROL  Événements Sales Connect suivis ]. Les personnes ayant le plus d’activité sur vos e-mails seront ainsi remontées. Assurez-vous de planifier les prochaines étapes avec ces personnes de haut niveau ou faites-en une priorité ce jour-là. Il y a probablement une dynamique avec un nombre élevé.

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 4719093
-description: Segments web - Documents Marketo - Documentation du produit
-title: Segments web
+description: Segments Web - Documents Marketo - Documentation Du Produit
+title: Segments Web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '2051'
+source-wordcount: '2043'
 ht-degree: 5%
 
 ---
 
-# Segments web {#web-segments}
+# Segments Web {#web-segments}
 
 ## Afficher le segment {#view-segment}
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-L’onglet Segments affiche tous les segments définis personnalisés que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page &quot;Définir un segment&quot;.** Un segment peut être des visiteurs provenant d’un secteur, d’un emplacement ou d’une activité sur site spécifique du visiteur.
+L’onglet Segments affiche tous les segments personnalisés définis que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page « Définir un segment ».** Un segment peut être constitué de visiteurs provenant d’un secteur ou d’un emplacement spécifique, ou en fonction de l’activité sur site du visiteur.
 
-Dans Web Personalization, un visiteur peut correspondre à plusieurs segments. Par exemple, s’il existe un segment pour les visiteurs E.U. et un segment pour les sociétés financières, un visiteur web de Bank of America correspondra **à la fois** au segment pour les visiteurs E.U. et au segment pour les sociétés financières.
+Dans [!DNL Web Personalizatio] , un visiteur peut correspondre à plusieurs segments. Par exemple, s’il existe un segment pour les visiteurs des États-Unis et un segment pour les sociétés de financement, un visiteur web de Bank of America correspondrait **à la fois** au segment pour les visiteurs des États-Unis et au segment pour les sociétés de financement.
 
-**GRAPHIQUE :** La page Segments affiche un graphique à barres des segments sélectionnés en fonction du nombre de visiteurs du segment (axe y) et du nom du segment (axe x).
+**GRAPHIQUE :** la page Segments affiche un graphique à barres des segments sélectionnés en fonction du nombre de visiteurs provenant du segment (axe y) et du nom du segment (axe x).
 
 <table> 
  <thead> 
@@ -36,68 +36,68 @@ Dans Web Personalization, un visiteur peut correspondre à plusieurs segments. P
    <td colspan="1" rowspan="1">Titre du segment</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Correspond</strong></p></td> 
-   <td colspan="1" rowspan="1">Nombre de visiteurs répondant aux critères personnalisés et définis du segment.</td> 
+   <td colspan="1" rowspan="1"><p><strong>Correspond à</strong></p></td> 
+   <td colspan="1" rowspan="1">Nombre de visiteurs et visiteuses répondant aux critères personnalisés et définis du segment</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Définir la campagne</strong></td> 
-   <td colspan="1" rowspan="1">Permet de configurer une CTA de campagne associée au terme de recherche sélectionné.</td> 
+   <td colspan="1" rowspan="1">Permet de configurer un CTA Campaign associé au terme de recherche sélectionné</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Visiteurs</strong></td> 
-   <td colspan="1">Aperçu de la table des visiteurs associée au terme de recherche sélectionné</td> 
+   <td colspan="1">Un aperçu du tableau des visiteurs associé au terme de recherche sélectionné</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Parcours de visites</strong></td> 
-   <td colspan="1" rowspan="1">Affiche un tableau de l’activité et du chemin d’URL du visiteur sur le site, ainsi que la durée de visite de chaque page. </td> 
+   <td colspan="1" rowspan="1">Affiche un tableau de l’activité et du chemin d’URL du visiteur sur le site et la durée de sa visite sur chaque page </td> 
   </tr> 
  </tbody> 
 </table>
 
-Voir [comment créer et afficher des étiquettes de segments](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+Voir [comment créer et afficher des libellés de segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segments - Panneau de droite**
 
 ![](assets/image2014-11-12-10-3a46-3a32.png)
 
-La sélection d’un segment dans le tableau affiche des détails supplémentaires sur le segment dans le panneau de droite.
+Si vous sélectionnez un segment dans le tableau, des détails supplémentaires sur le segment s’affichent dans le panneau de droite.
 
-Ces détails incluent :
+Ces informations incluent :
 
 * Nom du segment
 * Date de création du segment
-* Les campagnes associées affichant les campagnes qui opèrent avec le segment. Cliquez sur le nombre de réactions pour accéder à la page des campagnes qui affiche l’CTA (Appel à l’action) de la campagne pour le segment.
-* Le nombre de correspondances (nombre de visiteurs qui ont rempli les critères du segment) pour le segment et le nombre de visiteurs distincts (uniques) qui ont correspondu au segment. Cliquez sur le lien du visiteur unique pour accéder à la page du visiteur affichant les résultats du segment.
-* Créateur propriétaire/utilisateur du segment
-* Les sites de domaine associés au segment
-* Résumé court des critères sélectionnés du segment
+* Campagnes associées affichant les campagnes fonctionnant avec le segment. Cliquez sur le nombre de réactions pour accéder à la page des campagnes affichant le CTA de campagne (Call to action) pour le segment
+* Le nombre de correspondances (nombre de visiteurs et visiteuses qui répondaient aux critères du segment) pour le segment et le nombre de visiteurs et visiteuses distincts (uniques) qui correspondaient au segment. Cliquer sur le lien d’un visiteur ou d’une visiteuse unique vous mène à la page du visiteur ou de la visiteuse affichant les résultats du segment
+* Propriétaire/créateur utilisateur du segment
+* Sites de domaine associés au segment
+* Un bref résumé des critères sélectionnés du segment
 
 ## Activation ou désactivation d’un segment {#enable-or-disable-a-segment}
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau et, dans la liste déroulante &quot;Choisir une action&quot; au bas du tableau, sélectionnez l’action &quot;Activer&quot; ou &quot;Désactiver&quot;. Lorsqu’un segment est désactivé, le mot &quot;désactiver&quot; s’affiche sous la colonne État.
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL  Choisir une action ] » au bas du tableau, sélectionnez l’action « [!UICONTROL  Activer ] » ou « [!UICONTROL  Désactiver ]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
 
 ## Création de segments {#create-segments}
 
-Le segment que vous créez répond aux critères spécifiques que vous définissez sur la page **Définir le segment**. Vous pouvez également personnaliser vos segments en fonction d’une combinaison de critères, ciblant une audience spécifique dans votre campagne.
+Le segment que vous créez répond aux critères spécifiques que vous définissez sur la page **[!UICONTROL Définir le segment]**. Vous pouvez également personnaliser vos segments en fonction d’une combinaison de critères et en ciblant une audience spécifique dans votre campagne.
 
 Pour créer un segment
 
-Sur la page **Segments** , cliquez sur **Créer nouveau** sous le graphique. L’écran suivant s’affiche.
+Sur la page **[!UICONTROL Segments]**, cliquez sur **[!UICONTROL Créer]** sous le graphique. L’écran suivant s’affiche.
 
 ![](assets/four.png)
 
-Définissez les paramètres généraux de votre segment :
+Définissez des paramètres généraux pour votre segment :
 
-* **Nom :** Nommez votre segment.
-* **Description :** Fournissez une explication plus détaillée des critères de segment.
-* **Domaines :** Sélectionnez le ou les domaines que vous souhaitez inclure dans le segment.
-* **Logique de règle de segment :** Sélectionnez une logique ET/OU pour créer chaque attribut de segmentation.
-* **Minutage :** définissez le niveau d’engagement des visiteurs que vous souhaitez dans votre campagne.
+* **Nom :** donnez un nom à votre segment.
+* **Description :** fournir une explication plus détaillée des critères de segment.
+* **Domaines :** permet de sélectionner le ou les domaines à inclure dans le segment.
+* **Logique de règle de segment :** sélectionnez une logique AND / OR pour créer chaque attribut de segmentation
+* **Planning :** définissez le niveau d’engagement des visiteurs souhaité dans votre campagne.
 
    * **À l’entrée** : l’engagement du visiteur arrive sur le site web
-   * **Après le 1er - 9e clic** : engager le visiteur après un nombre spécifique de clics sur le site web
+   * **Après le 1er - 9e clic** : engagez le visiteur après un nombre spécifique de clics sur le site web
 
 >[!TIP]
 >
@@ -126,189 +126,189 @@ Définissez les paramètres généraux de votre segment :
 >
 >    Vérifiez votre logique après toute insertion, suppression ou réorganisation.
 
-Faites glisser les attributs de segment de la colonne de droite vers l’éditeur de segments sur le côté gauche :
+Faites glisser et déposez Attributs de segment de la colonne de droite vers l’éditeur de segments sur le côté gauche :
 
 ![](assets/five.png)
 
 ### Données firmographiques {#firmographics}
 
-**Location**
+**Emplacement**
 
-Faites glisser **Emplacement** et déposez-le dans l’éditeur de segments.
+Effectuez un glisser-déposer de **[!UICONTROL Emplacement]** dans l’éditeur de segments.
 
-* Sélectionnez l’un des paramètres suivants :
+* Faites votre choix parmi les paramètres suivants :
 
-   * **Include** - Indiquez si vous souhaitez que la campagne inclut ou exclue un emplacement.
-   * **Sélectionner le pays à ajouter** - Dans la liste déroulante, sélectionnez le pays que vous souhaitez inclure dans le segment. Le nom du pays s’affiche à droite. Vous pouvez choisir plusieurs pays.
+   * **[!UICONTROL Inclure]** - Indiquez si vous souhaitez que la campagne inclue ou exclue un emplacement.
+   * **[!UICONTROL Sélectionner le pays à ajouter]** - Dans la liste déroulante, sélectionnez le pays que vous souhaitez inclure dans le segment. Le nom du pays s’affiche à droite. Vous pouvez choisir plusieurs pays.
 
-Une fois le pays ajouté, vous pouvez également spécifier l’état, la ville et le code postal du segment.
+Une fois le pays ajouté, vous pouvez également spécifier l’État, la ville et le code postal du segment.
 
-* **Sélectionnez Etat ou province à ajouter** - Dans la liste déroulante, sélectionnez l’état américain ou la province canadienne que vous souhaitez inclure. Vous pouvez effectuer plusieurs sélections.
-* **Code postal** - Entrez le code postal que vous souhaitez inclure dans votre segment.
-* **Villes** - Entrez la ou les villes que vous souhaitez inclure. Utilisez un point-virgule entre les villes.
+* **[!UICONTROL Sélectionnez l’État ou la province à ajouter]** - Dans la liste déroulante, sélectionnez l’État des États-Unis ou la province canadienne que vous souhaitez inclure. Vous pouvez effectuer plusieurs sélections.
+* **[!UICONTROL Code postal]** - Saisissez le code postal que vous souhaitez inclure dans votre segment.
+* **[!UICONTROL Villes]** - Saisissez la ou les villes que vous souhaitez inclure. Utilisez un point-virgule entre les villes.
 
 >[!TIP]
 >
->**Quelles conditions de segment dois-je choisir ? &quot;ET&quot; ou &quot;OU&quot; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects n’ont besoin de remplir qu’un seul critère parmi les multiples critères sélectionnés dans chaque champ pour être éligibles au segment. (Par exemple, les prospects peuvent provenir des États-Unis, *ou* du secteur de la défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être rempli pour ce segment. (Par exemple, les perspectives doivent venir à la fois des États-Unis et de l&#39;industrie de la Défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme les deux, soit comme &quot;AND&quot;, soit comme &quot;OR&quot; selon la condition de segment sélectionnée.
+>**Quelles conditions de segment dois-je choisir ? &#39;AND&#39; ou &#39;OR&#39; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects n’ont besoin de remplir qu’un seul des critères des différents critères sélectionnés dans chaque champ pour être qualifiés pour le segment. (Par exemple, les prospects peuvent provenir des États-Unis *ou* de l&#39;industrie de la défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être satisfait pour ce segment. (Par exemple, les prospects doivent provenir à la fois des États-Unis et de l&#39;industrie de la défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme « AND » ou « OR » selon la condition de segment sélectionnée.
 
-**Industries** Dans la section **Segmentation du profil**, cochez la case en regard de **Secteur**.
+**Industries** Dans la section **[!UICONTROL Segmentation de profil]**, cochez la case en regard de **[!UICONTROL Industrie]**.
 
-* Sélectionnez l’un des paramètres suivants :
+* Faites votre choix parmi les paramètres suivants :
 
-   * **Inclut** - Indiquez si vous souhaitez que le segment inclut ou exclue un secteur d’activité.
-   * **Sélectionner les secteurs à ajouter** - Sélectionnez le secteur que vous souhaitez inclure dans le segment. Le secteur apparaît sous la liste déroulante. Vous pouvez choisir plusieurs secteurs d’activité.
+   * **[!UICONTROL Inclut]** - Indiquez si vous souhaitez que le segment inclue ou exclue un secteur d’activité.
+   * **[!UICONTROL Sélectionner les secteurs à ajouter]** - Sélectionnez le secteur que vous souhaitez inclure dans le segment. Le secteur apparaît sous la liste déroulante. Vous pouvez choisir plusieurs secteurs d’activité.
 
-**Groupe de l’organisation**
+**Groupe d’organisations**
 
-Sous la section **Segmentation de profil**, cochez la case en regard de **Groupe d’organisations.**
+Dans la section **[!UICONTROL Segmentation de profil]**, cochez la case en regard de **[!UICONTROL Groupe d’organisations].**
 
 * Dans la liste déroulante, sélectionnez l’une des options suivantes :
 
-   * Fortune 500 - Inclut uniquement les entreprises Fortune 500 dans ce segment
-   * Fortune 1000 - Inclut uniquement les entreprises Fortune 1000 dans ce segment
-   * Global 2000 - Inclut les 2 000 entreprises mondiales dans ce segment
-   * Entreprise : comprend les entreprises de plus de 1 000 employés et dont les recettes sont supérieures à 250 millions de dollars.
-   * PME - Inclut uniquement les petites et moyennes entreprises dans ce segment
+   * Fortune 500 - Inclut uniquement les entreprises Fortune 500 de ce segment
+   * Fortune 1000 - Inclut uniquement les entreprises Fortune 1000 de ce segment
+   * Global 2000 - Inclut les entreprises Global 2000 de ce segment
+   * Entreprise - Inclut les organisations comptant plus de 1 000 employés et dont le chiffre d’affaires dépasse 250 millions de dollars
+   * PME - Inclut uniquement les petites et moyennes entreprises de ce segment
 
-**-Comptes nommés-**
+**-Named Accounts-**
 
 **Organisations**
 
 * **Provient de ces sociétés (noms spécifiques)**
 
-   * Sélectionnez la société à cibler dans la liste déroulante &quot;Sélectionner la société à ajouter&quot;.
-   * Vous pouvez saisir le nom exact de l’organisation à cibler. *Il est _toujours_ recommandé d’utiliser des listes de comptes nommés au lieu de saisir les noms manuellement pour obtenir de meilleures correspondances (voir ci-dessous).
+   * Sélectionnez la société à cibler dans le menu déroulant « Sélectionner la société à ajouter ».
+   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *Il est _toujours_ recommandé d’utiliser les listes de comptes nommés au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).
 
-**Liste de comptes nommés**
+**Liste des comptes nommés**
 
-Effectuez une sélection dans une [liste de comptes nommés](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) pour segmenter les comptes ciblés clés.
+Effectuez une sélection dans une [Liste de comptes nommés](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) pour segmenter les comptes ciblés clés.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom Liste des comptes nommés est utilisé comme référence d’index pour la liste des [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization) de Web Personalization.
+>Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
-**Exclure un FAI**
+**Exclure le FAI**
 
-Exclut les fournisseurs de services Internet (FAI) du segment.
+Exclut les fournisseurs d’accès Internet (FAI) du segment.
 
 ### Personnes connues {#known-people}
 
-**Base de données**
+**[!UICONTROL Base de données]**
 
-Web Personalization s’intègre à votre base de données Marketo, ce qui vous permet de segmenter et de personnaliser les campagnes en fonction d’attributs et de données de personnes connues.
+[!DNL Web Personalization] s’intègre à votre base de données Marketo, ce qui vous permet de segmenter et de personnaliser des campagnes selon des attributs et des données de personne connus.
 
-Sélectionnez Base de données et sélectionnez un champ de données de personne dans la liste déroulante. Sélectionnez **+** pour ajouter des champs dans la liste déroulante.
+Sélectionnez Base de données , puis sélectionnez un champ de données personne dans la liste déroulante. Sélectionnez **+** pour ajouter des champs dans la liste déroulante.
 
 ![](assets/seven.png)
 
-Vous pouvez ajouter ou supprimer des champs de données de personne dans Paramètres du compte > Base de données.
+Vous pouvez ajouter ou supprimer des champs de données de personne depuis Paramètres du compte > Base de données
 
 >[!TIP]
 >
->Créez vos critères de segment en fonction de tous les champs de données de personnes de Marketo tels que le titre de la tâche, la note, le rôle, etc.
+>Créez vos critères de segment en fonction de tous les champs de données de personne des personnes Marketo, tels que le titre de la fonction, le score, le rôle, etc.
 >
->Par exemple, &quot;Titre de la tâche = CMO&quot; et &quot;Le score est inférieur ou égal à 50&quot;
+>Par exemple, « Titre du poste est égal à CMO » et « Score est inférieur ou égal à 50 »
 
-**Campagne par e-mail Marketo** Segmentez et personnalisez des campagnes par référence d’e-mail d’un visiteur qui clique sur un e-mail Marketo et arrive sur le site. Segmenter par nom de programme ou nom de campagne Marketo et poursuivre la conversation du courrier électronique au web. Sélectionnez le + pour ajouter des champs dans la liste déroulante.
+**[!UICONTROL Campagne par e-mail Marketo]** segmentez et personnalisez les campagnes par référence d’e-mail d’un visiteur qui clique sur un e-mail Marketo et qui arrive sur le site. Segmentez par nom de programme Marketo ou nom de campagne et poursuivez la conversation de l’e-mail au web. Sélectionnez le signe + pour ajouter des champs dans la liste déroulante.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
-**Status**
+**[!UICONTROL Statut]**
 
 Définissez votre segment en fonction du statut d’un prospect : connu ou anonyme.
 
-* Connu : sélectionnez cette option dans la liste déroulante pour les visiteurs connus. Un visiteur est connu lorsqu’il envoie un formulaire sur votre site Web et apparaît sur la page Web Personalization People.
-* Anonyme : sélectionnez cette option dans la liste déroulante pour les visiteurs anonymes.
+* Connu - Sélectionnez cette option dans la liste déroulante pour les visiteurs connus. Un visiteur est connu lorsqu’il envoie un formulaire sur votre site web et apparaît sur la page [!DNL Web Personalization] [!UICONTROL Personnes].
+* Anonyme - Sélectionnez cette option dans la liste déroulante pour les visiteurs anonymes.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
 ### Comportemental {#behavioral}
 
-**Visites -** Définissez votre segment en fonction du comportement ou de l’identification du visiteur.
+**[!UICONTROL Visites] -** Définissez votre segment en fonction du comportement ou de l’identification des visiteurs.
 
-* Nombre de visites : sélectionnez cette option dans la liste déroulante pour indiquer le nombre de visites des prospects sur le site web.
+* Nombre de visites - Sélectionnez cette option dans la liste déroulante pour spécifier le nombre de visites des prospects du site web.
 
-   * Dans la liste déroulante, sélectionnez Equals (Est égal à) ou Greater Than (Est égal à) ou Less Than (Est inférieur à).
+   * Sélectionnez Est égal à, Est égal à ou Supérieur à, ou Est égal à ou Inférieur à dans la liste déroulante.
 
-* Visites spécifiques : sélectionnez cette option dans la liste déroulante pour spécifier un visiteur spécifique.
+* Visites spécifiques - Sélectionnez cette option dans la liste déroulante pour spécifier un visiteur spécifique.
 
-   * Dans la zone de texte à droite, saisissez le nombre de visiteurs dont vous souhaitez effectuer le suivi. Le numéro d’identification unique des visiteurs de Web Personalization se trouve lorsque vous cliquez sur un visiteur (dans la page des visiteurs) et sur Définir la campagne dans le panneau de droite. L’identifiant visiteur se trouve dans la section Paramètres avancés . L’identifiant visiteur se trouve également dans l’URL (par exemple, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+   * Dans la zone de texte de droite, saisissez le nombre de visiteurs que vous souhaitez suivre. Le numéro d’identification unique du visiteur [!DNL Web Personalization] se trouve lorsque vous cliquez sur un visiteur (dans la page des visiteurs) et sur la visionneuse de campagnes dans le panneau latéral droit. L’identifiant visiteur se trouve dans la section Paramètres avancés . L’identifiant visiteur se trouve également dans l’URL (par exemple VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Termes de recherche** - Définissez un segment en fonction des termes de recherche d’un prospect.
 
-* Le visiteur a recherché : dans la liste déroulante, sélectionnez les termes dont vous souhaitez effectuer le suivi dans votre recherche de visiteurs ou ajoutez vos propres termes de recherche. (Il n’est pas nécessaire d’utiliser le caractère générique &#42; sur les termes de recherche, car il est défini par défaut pour inclure les expressions qui contiennent le terme de recherche).
+* Le visiteur recherché : dans la liste déroulante, sélectionnez les termes que vous souhaitez suivre dans votre recherche de visiteurs ou ajoutez vos propres termes de recherche. (Le caractère générique &#42; n’est pas nécessaire sur les termes de recherche, car il est défini par défaut pour inclure les expressions qui contiennent le terme de recherche).
 
-**Références** - Ajoutez des URL auxquelles le visiteur a été référencé.
+**[!UICONTROL Références]** - Ajoutez les URL par lesquelles le visiteur a été référencé.
 
-* Sélectionner les références à ajouter : dans la liste déroulante, sélectionnez les sites de référence que vous souhaitez suivre ou ajoutez votre propre référence. Une fois cette option sélectionnée, les références s’affichent dans la zone ci-dessous. (L’utilisation de &#42; comme caractère générique est autorisée)
+* Sélectionner les références à ajouter - Dans la liste déroulante, sélectionnez les sites de référence que vous souhaitez suivre ou ajoutez votre propre référence. Une fois sélectionnées, les références apparaîtront dans la zone ci-dessous. (L’utilisation de &#42; comme caractère générique est autorisée)
 
-**Inclure les pages** - Suivi des pages spécifiques visitées sur votre site web.
+**[!UICONTROL Inclure des pages]** - Effectuez le suivi de pages spécifiques visitées par les prospects sur votre site web.
 
-* Correspondances d’URL : ajoutez l’URL de pages web spécifiques dont vous souhaitez effectuer le suivi. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule. (L’utilisation de &#42; comme caractère générique est autorisée).
+* Correspondances d’URL : ajoutez l’URL de pages web spécifiques que vous souhaitez suivre. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule. (L’utilisation de &#42; comme caractère générique est autorisée).
 
-**Exclure les pages** - Excluez des pages spécifiques que vous ne souhaitez pas faire correspondre dans le segment. (L’utilisation de &#42; comme caractère générique est autorisée).
+**[!UICONTROL Exclure des pages]** - Excluez les pages spécifiques que vous ne souhaitez pas faire correspondre dans le segment. (L’utilisation de &#42; comme caractère générique est autorisée).
 
-* L’URL ne correspond pas : ajoutez l’URL de pages web spécifiques que vous souhaitez exclure du suivi. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule.
+* L’URL ne correspond pas : ajoutez l’URL de pages web spécifiques que vous souhaitez exclure du suivi. Vous pouvez ajouter plusieurs URL en les séparant par un point-virgule
 
 ![](assets/segment-extra.png)
 
 ### Appareil / navigateur {#device-browser}
 
-**Système d’exploitation mobile**
+**[!UICONTROL Système d’exploitation mobile]**
 
-Faites glisser et déposez le SE Mobile dans l’éditeur de segments.
+Faites glisser et déposez le [!UICONTROL système d’exploitation mobile] dans l’éditeur de segments.
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Type de visiteur**<br />
-  **Système d’exploitation mobile** - Dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobile répertoriés. Le système d’exploitation mobile sélectionné s’affiche en dessous.
+  **[!UICONTROL Mobile OS]** : dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche ci-dessous.
 
-   * Le visiteur utilise n’importe quel appareil mobile.
+   * Le visiteur utilise un appareil mobile
    * Le visiteur utilise ce périphérique/système d’exploitation spécifique
-   * Le visiteur n’utilise aucun appareil mobile.
+   * Le visiteur n’utilise aucun appareil mobile
 
-* **Appareil** - Dans la liste déroulante, sélectionnez un ou plusieurs appareils (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Les périphériques sélectionnés s’affichent en dessous.
+* **[!UICONTROL Appareil]** - Dans la liste déroulante, choisissez un ou plusieurs appareils (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). Les appareils sélectionnés s’affichent ci-dessous.
 
 **Navigateur**
 
-Visiteur Target qui utilise des types et/ou versions de navigateur spécifiques.
+Ciblez les visiteurs et visiteuses qui utilisent des types et/ou des versions de navigateur spécifiques.
 
 * Type de navigateur : dans la liste déroulante, sélectionnez un ou plusieurs navigateurs Internet . Les navigateurs sélectionnés s’affichent ci-dessous.
-* Version du navigateur : saisissez la version du navigateur que vous souhaitez ajouter au segment. Vous pouvez sélectionner plusieurs versions en les séparant par une virgule. (L’utilisation de &#42; comme caractère générique est autorisée).
+* Version du navigateur - Saisissez la version du navigateur que vous souhaitez ajouter au segment. Vous pouvez sélectionner plusieurs versions en les séparant par une virgule. (L’utilisation de &#42; comme caractère générique est autorisée).
 
 ### API {#api}
 
-**Événements de données** - Segmenter les visiteurs qui déclenchent des événements de données personnalisés spécifiques
+**Événements de données** - Segmentez les visiteurs qui déclenchent des événements de données personnalisés spécifiques
 
-Ajoutez la valeur Event que vous souhaitez cibler. Par exemple, à partir de sources de données tierces.
+Ajoutez la valeur d’événement à cibler. Par exemple, à partir de sources de données tierces.
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [ pour en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Utilisation de caractères génériques -** Lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose, c’est-à-dire &quot;[google.com](https://google.com)&quot; ou &quot;produit de terme de recherche&quot;, nous appelons cela un caractère générique et il doit être saisi avec un astérisque - ce petit gars&#42; - à chaque extrémité. Par conséquent, tout ce qui vient de [google.com](https://google.com) doit être saisi comme &#42; [google.com](https://google.com)&#42;
+>**Utilisation de caractères génériques -** Lorsque vous souhaitez inclure un terme de recherche ou une URL qui contient quelque chose, c’est-à-dire « [google.com](https://google.com) » ou « produit du terme de recherche », nous appelons cela un caractère générique et il doit être saisi avec un astérisque - ce petit gars &#42; - à chaque extrémité. Ainsi, tout ce qui provient de [google.com](https://google.com) doit être saisi sous la forme &#42; [google.com](https://google.com)&#42;
 
-## Modifier les segments {#edit-segments}
+## Modifier [!UICONTROL Segments] {#edit-segments}
 
 Vous pouvez modifier un segment qui a été créé.
 
-1. Pour modifier un segment, accédez à **Segments**.
+1. Pour modifier un segment, accédez à **[!UICONTROL Segments]**.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. Dans la table **Segments** , cliquez sur l’icône d’édition ( ![](assets/segment-edit.png)) du segment que vous souhaitez modifier. La page **Définir le segment** s’ouvre avec le segment sélectionné.
+1. Dans le tableau **[!UICONTROL Segments]**, cliquez sur l’icône de modification ( ![](assets/segment-edit.png)) du segment que vous souhaitez modifier. La page **[!UICONTROL Définir le segment]** s’ouvre avec le segment sélectionné.
 1. Appliquez les modifications que vous souhaitez apporter au segment.
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
-## Suppression de segments {#delete-segments}
+## Supprimer les segments {#delete-segments}
 
 Vous pouvez supprimer les segments que vous avez créés.
 
-1. Sélectionnez un segment dans la page **Segments** ci-dessus.
+1. Sélectionnez un segment sur la page **[!UICONTROL Segments]** ci-dessus.
 1. Cliquez sur l’icône de suppression ( ![](assets/segment-delete.png) ) du segment que vous souhaitez supprimer.
 1. Un message de confirmation s’affiche, confirmant que vous êtes sur le point de supprimer le **segment**.
 
@@ -316,11 +316,11 @@ Vous pouvez supprimer les segments que vous avez créés.
 >
 >Vous ne pouvez pas supprimer un segment associé à une campagne. Vous devez d’abord supprimer la campagne, puis le segment.
 
-Fantastique ! Maintenant que vous comprenez la section Segments , découvrons les campagnes.
+Fantastique ! Maintenant que vous comprenez la section Segments , nous allons en savoir plus sur les campagnes.
 
 >[!MORELIKETHIS]
 >
->* [Créer un segment Web de base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Créer une campagne Web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Créer une campagne Web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Créer un segment web de base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [Créer une campagne web de boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Créer une campagne web dans la zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Créer une campagne web de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

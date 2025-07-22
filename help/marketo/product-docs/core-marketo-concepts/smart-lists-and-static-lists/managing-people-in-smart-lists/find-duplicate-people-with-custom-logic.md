@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2952636
-description: Recherche de personnes en double avec une logique personnalisée - Documents Marketo - Documentation du produit
-title: Recherche de personnes en double avec une logique personnalisée
+description: Rechercher des personnes en double avec une logique personnalisée - Documents Marketo - Documentation du produit
+title: Rechercher des personnes en double avec la logique personnalisée
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
-# Recherche de personnes en double avec une logique personnalisée {#find-duplicate-people-with-custom-logic}
+# Rechercher des personnes en double avec la logique personnalisée {#find-duplicate-people-with-custom-logic}
 
-Marketo Engage dispose d’une liste dynamique système qui détecte les personnes en double en correspondant à leurs adresses électroniques. Si vous souhaitez utiliser un autre champ pour rechercher des doublons avec, voici comment.
+Marketo Engage dispose d’une liste dynamique système qui détecte les doublons en faisant correspondre leurs adresses e-mail. Si vous souhaitez utiliser un autre champ pour rechercher des doublons, procédez comme suit.
 
 >[!PREREQUISITES]
 >
@@ -23,25 +23,25 @@ Marketo Engage dispose d’une liste dynamique système qui détecte les personn
 
 ![](assets/ma-2.png)
 
-1. Sélectionnez votre liste dynamique, cliquez sur l’onglet **[!UICONTROL Liste dynamique]** .
+1. Sélectionnez votre liste dynamique, puis cliquez sur l’onglet **[!UICONTROL Liste dynamique]**.
 
    ![](assets/two-4.png)
 
-1. Recherchez et faites glisser le filtre **[!UICONTROL Dupliquer les champs]** sur la zone de travail.
+1. Recherchez et faites glisser le filtre **[!UICONTROL Champs en double]** sur la zone de travail.
 
    ![](assets/three-4.png)
 
-1. Sélectionnez l’une des quatre options disponibles :
+1. Choisissez l’une des quatre options disponibles :
 
-   * Adresse e-mail
-   * Nom complet
-   * Nom
-   * Mis à jour à
+   * [!UICONTROL Adresse électronique]
+   * [!UICONTROL Nom complet]
+   * [!UICONTROL Nom]
+   * [!UICONTROL Mise À Jour Le]
 
    >[!NOTE]
    >
-   >Tous les champs, à l’exception de l’adresse électronique, sont sensibles à la casse. Ainsi, l’utilisation de &quot;john doe&quot; dans le champ Nom complet _not_ renvoie des résultats pour John Doe.
+   >Tous les champs, à l’exception de Adresse e-mail, sont sensibles à la casse. Ainsi, l’utilisation de « john doe » dans le champ Nom complet _renvoie pas_ résultats pour John Doe.
 
    ![](assets/four-2.png)
 
-   C&#39;est fait ! Exécutez la liste dynamique pour rechercher les personnes ayant la même valeur dans le champ précédemment sélectionné.
+   Terminé ! Exécutez la liste dynamique pour rechercher des personnes ayant la même valeur dans le champ précédemment sélectionné.

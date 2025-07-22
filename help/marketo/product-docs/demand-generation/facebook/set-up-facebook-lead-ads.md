@@ -4,9 +4,9 @@ description: Configuration des publicités de lead Facebook - Documents Marketo 
 title: Configurer les publicités de lead Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Saisissez un **Nom d’affichage** pour votre service, sélectionnez le service **Publicités de prospect Facebook** dans la liste déroulante, puis cliquez sur **Créer**.
+1. Saisissez un **[!UICONTROL Nom d’affichage]** pour votre service, sélectionnez le service **[!UICONTROL Publicités de prospect Facebook]** dans la liste déroulante, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    >[!NOTE]
    >
-   >Le compte Facebook devra accéder à toutes les pages commerciales Facebook dont vous souhaitez extraire les publicités de lead.
+   >Le compte [!DNL Facebook] devra accéder à toutes les pages professionnelles [!DNL Facebook] à partir desquelles vous souhaitez extraire les publicités de lead.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. Une fois connecté à Facebook, revenez à Marketo et cliquez sur **Autoriser**.
+1. Une fois connecté à [!DNL Facebook], revenez à Marketo et cliquez sur **[!UICONTROL Autoriser]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. Si vous y êtes invité, cliquez sur **OK** pour accepter l’installation de l’application Marketo sur Facebook.
+1. Si vous y êtes invité, cliquez sur **[!UICONTROL OK]** pour accepter l’installation de l’application Marketo dans [!DNL Facebook].
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Vous remarquerez que vous êtes désormais autorisé. Cliquez sur **Suivant**.
+1. Vous remarquerez que vous êtes désormais autorisé. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Sélectionnez la ou les pages à partir desquelles Marketo doit extraire les publicités de prospect Facebook, puis cliquez sur **Suivant**.
+1. Sélectionnez la ou les pages sur lesquelles Marketo doit extraire [!UICONTROL publicités de prospect Facebook] et cliquez sur **[!UICONTROL Suivant]**.
 
    >[!TIP]
    >
-   >Si vous ne voyez pas une page attendue, assurez-vous que le compte Facebook utilisé pour vous authentifier est ajouté à la page sur Facebook et réessayez.
+   >Si aucune page attendue ne s’affiche, vérifiez que le compte [!DNL Facebook] utilisé pour l’authentification est ajouté à la page le [!DNL Facebook] et réessayez.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Pour accepter les mappages par défaut des champs Facebook et Marketo, cliquez simplement sur **Créer**.
+1. Pour accepter les [!DNL Facebook] par défaut aux mappages de champs Marketo, cliquez simplement sur **[!UICONTROL Créer]**.
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    >[!CAUTION]
    >
-   >Marketo ne prend pas en charge le mappage de deux champs Facebook à un seul champ Marketo, seulement 1 à 1. Si vous mappez 2 à 1, les prospects peuvent ne pas entrer dans le système Marketo.
+   >Marketo ne prend pas en charge le mappage de deux champs [!DNL Facebook] à un seul champ Marketo, uniquement de 1 à 1. Si vous mappez 2 à 1, les prospects peuvent ne pas entrer dans le système Marketo.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Bien joué ! Les leads commenceront à affluer dans Marketo lorsque vous exécuterez des campagnes publicitaires de leads Facebook réussies.
+   Bien joué ! Les leads commenceront à affluer dans Marketo lorsque vous exécuterez avec succès [!DNL Facebook] campagnes publicitaires de leads.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

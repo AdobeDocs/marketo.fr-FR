@@ -1,34 +1,34 @@
 ---
-description: Présentation de la recherche avancée - Documents Marketo - Documentation du produit
-title: Aperçu de la recherche avancée
+description: Vue D’Ensemble De La Recherche Avancée - Documents Marketo - Documentation Du Produit
+title: Vue d’ensemble de la recherche avancée
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 4%
+source-wordcount: '427'
+ht-degree: 2%
 
 ---
 
-# Aperçu de la recherche avancée {#advanced-search-overview}
+# Vue d’ensemble de la recherche avancée {#advanced-search-overview}
 
-En utilisant la recherche avancée pour cibler les prospects qui ont consulté, cliqué ou répondu aux emails, vous pouvez créer une liste ciblée de vos prospects les plus engagés.
+En utilisant la recherche avancée pour cibler les prospects qui ont consulté les e-mails, cliqué sur ceux-ci ou répondu à ceux-ci, vous pouvez créer une liste ciblée de vos prospects les plus engagés.
 
 ## Accès à la recherche avancée {#how-to-access-advanced-search}
 
-1. Dans l’application web, cliquez sur **Centre de commandes**.
+1. Dans l&#39;application web, cliquez sur **[!UICONTROL Centre de commandes]**.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Cliquez sur **Emails**.
+1. Cliquez sur **[!UICONTROL E-mails]**.
 
    ![](assets/advanced-search-overview-2.png)
 
-1. Sélectionnez l’onglet approprié.
+1. Choisissez l’onglet approprié.
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Cliquez sur Recherche avancée.
+1. Cliquez sur [!UICONTROL  Recherche avancée ].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -36,13 +36,13 @@ En utilisant la recherche avancée pour cibler les prospects qui ont consulté, 
 
 **Date**
 
-Sélectionnez la période de votre recherche. Les dates prédéfinies sont mises à jour en fonction de l’état de l’email que vous choisissez (Envoyé, Non livré, En attente).
+Choisissez la période de votre recherche. Les dates prédéfinies sont mises à jour en fonction du statut de l’e-mail choisi ([!UICONTROL Envoyé], [!UICONTROL Non diffusé], [!UICONTROL En attente]).
 
 ![](assets/advanced-search-overview-5.png)
 
-**Who**
+**Qui**
 
-Filtrez par destinataire/expéditeur d’email dans la section Qui .
+Filtrez par destinataire/expéditeur d’e-mail dans la section [!UICONTROL Qui].
 
 ![](assets/advanced-search-overview-6.png)
 
@@ -52,48 +52,48 @@ Filtrez par destinataire/expéditeur d’email dans la section Qui .
   <td><strong>Description</strong></td>
  </tr>
  <tr>
-  <td><strong>Afficher comme</strong></td>
-  <td>Vous pouvez filtrer par un expéditeur spécifique dans votre instance Sales Connect (cette option est disponible uniquement pour les administrateurs).</td>
+  <td><strong>[!UICONTROL View As]</strong></td>
+  <td>Filtrez par expéditeur spécifique dans votre instance Sales Connect (cette option est disponible uniquement pour les administrateurs).</td>
  </tr>
  <tr>
-  <td><strong>Par groupe</strong></td>
-  <td>Filtrez les emails selon un groupe spécifique de destinataires.</td>
+  <td><strong>[!UICONTROL By Group]</strong></td>
+  <td>Filtrer les e-mails par groupe spécifique de destinataires.</td>
  </tr>
  <tr>
-  <td><strong>Par individu</strong></td>
-  <td>Filtrer par destinataire spécifique.</td>
+  <td><strong>[!UICONTROL By Person]</strong></td>
+  <td>Filtrez par destinataire spécifique.</td>
  </tr>
 </table>
 
-**When**
+**Lorsque**
 
-Choisissez par date de création, date de diffusion, date d’échec ou date planifiée. Les options disponibles changent en fonction de l’état de l’email que vous choisissez (Envoyé, Non livré, En attente).
+Choisissez par date de création, date de diffusion, date d’échec ou date planifiée. Les options disponibles changent en fonction du statut de l’e-mail que vous choisissez ([!UICONTROL Envoyé], [!UICONTROL Non diffusé], [!UICONTROL En attente]).
 
 ![](assets/advanced-search-overview-7.png)
 
 **Campagnes**
 
-Filtrez les emails par participation à une campagne.
+Filtrer les emails par participation à la campagne.
 
 ![](assets/advanced-search-overview-8.png)
 
-**Status**
+**Statut**
 
-Vous avez le choix entre trois statuts d&#39;un email. Les options de type/activité changent en fonction de l’état sélectionné.
+Vous avez le choix entre trois statuts d’e-mail. Les options de type/activité changent en fonction du statut sélectionné.
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**État : Envoyé**&#x200B;_
+_**Statut : Envoyé**_
 
 ![](assets/advanced-search-overview-10.png)
 
-Filtre par activité d’email envoyée. Vous pouvez choisir des vues/aucun affichage, des clics/aucun clic et/ou des réponses/aucune réponse.
+Filtre par activité d’e-mail envoyé. Vous pouvez choisir les options [!UICONTROL vues]/[!UICONTROL aucune vue], [!UICONTROL clics]/[!UICONTROL aucun clic] et/ou [!UICONTROL réponses]/[!UICONTROL aucune réponse].
 
-_&#x200B;**État : En attente**&#x200B;_
+_**Statut : En Attente**_
 
 ![](assets/advanced-search-overview-11.png)
 
-Filtre par tous les emails en attente.
+Filtre par tous les e-mails en attente.
 
 <table>
  <tr>
@@ -101,24 +101,24 @@ Filtre par tous les emails en attente.
   <td><strong>Description</strong></td>
  </tr>
  <tr>
-  <td><strong>Programmé</strong></td>
-  <td>Emails programmés à partir de la fenêtre de composition (Salesforce ou l’application web), des modules externes de messagerie ou d’une campagne.</td>
+  <td><strong>[!UICONTROL Scheduled]</strong></td>
+  <td>Les e-mails planifiés à partir de la fenêtre de composition (Salesforce ou l’application web), les plug-ins d’e-mail ou une campagne.</td>
  </tr>
  <tr>
-  <td><strong>Avant-projets</strong></td>
-  <td>Courriers électroniques actuellement en état de brouillon. Les emails nécessitent un objet et un destinataire pour être enregistrés en tant que brouillon.</td>
+  <td><strong>[!UICONTROL Drafts]</strong></td>
+  <td>E-mails actuellement à l’état de brouillon. Les e-mails nécessitent une ligne d’objet et un destinataire pour être enregistrés en tant que brouillon.</td>
  </tr>
  <tr>
-  <td><strong>En cours</strong></td>
-  <td>Emails en cours d’envoi. Les emails ne doivent pas rester dans cet état pendant plus de quelques secondes.</td>
+  <td><strong>[!UICONTROL In Progress]</strong></td>
+  <td>E-mails en cours d’envoi. Les e-mails ne doivent pas rester dans cet état pendant plus de quelques secondes.</td>
  </tr>
 </table>
 
-_&#x200B;**État : non livré**&#x200B;_
+_**Statut : non diffusé**_
 
 ![](assets/advanced-search-overview-12.png)
 
-Filtre les messages par message électronique qui n’ont jamais été remis.
+Filtre par les emails qui n’ont jamais été délivrés.
 
 <table>
  <tr>
@@ -126,31 +126,31 @@ Filtre les messages par message électronique qui n’ont jamais été remis.
   <td><strong>Description</strong></td>
  </tr>
  <tr>
-  <td><strong>Échec</strong></td>
-  <td>Lorsqu’un email ne parvient pas à être envoyé à partir de Sales Connect (les raisons courantes sont les emails envoyés aux contacts désabonnés/bloqués, ou si un problème s’est produit lors du remplissage des champs dynamiques).</td>
+  <td><strong>[!UICONTROL Failed]</strong></td>
+  <td>Lorsque l’envoi d’un e-mail échoue à partir de Sales Connect (les raisons courantes sont les suivantes : l’envoi d’e-mails à des contacts désabonnés/bloqués ou un problème lors du remplissage des champs dynamiques).</td>
  </tr>
  <tr>
-  <td><strong>Renvoi</strong></td>
-  <td>Un email est marqué comme rebonds lorsqu’il est rejeté par le serveur du destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici.</td>
+  <td><strong>[!UICONTROL A Rebondi]</strong></td>
+  <td>Un e-mail est marqué comme ayant fait l’objet d’un rebond lorsqu’il est rejeté par le serveur du destinataire. Seuls les e-mails envoyés via les serveurs Sales Connect seront affichés ici.</td>
  </tr>
  <tr>
-  <td><strong>Spam</strong></td>
-  <td>Lorsque l'email a été marqué comme spam (terme courant pour désigner les emails non sollicités) par le destinataire. Seuls les emails envoyés par les serveurs Sales Connect s’afficheront ici.</td>
+  <td><strong>[!UICONTROL Spam]</strong></td>
+  <td>Lorsque l’e-mail a été marqué comme spam (terme courant pour les e-mails non sollicités) par le destinataire. Seuls les e-mails envoyés via les serveurs Sales Connect seront affichés ici.</td>
  </tr>
 </table>
 
 ## Recherches enregistrées {#saved-searches}
 
-Voici comment créer une recherche enregistrée.
+Découvrez comment créer une recherche enregistrée.
 
-1. Une fois tous vos filtres en place, cliquez sur **Enregistrer les filtres sous**.
+1. Une fois tous les filtres en place, cliquez sur **[!UICONTROL Enregistrer les filtres sous]**.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Donnez un nom à votre recherche et cliquez sur **Enregistrer**.
+1. Attribuez un nom à votre recherche et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/advanced-search-overview-14.png)
 
-Les recherches enregistrées se trouvent dans la barre latérale gauche.
+Vos recherches enregistrées se trouvent dans la barre latérale gauche.
 
 ![](assets/advanced-search-overview-15.png)

@@ -4,16 +4,16 @@ description: Installation de Marketo for Microsoft Dynamics 2015 On-Premise Éta
 title: Installation de Marketo for Microsoft Dynamics 2015 On-Premise Étape 1 sur 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
 
 # Étape 1 sur 3 : Configurer l’utilisateur de synchronisation pour Marketo (On-Prem 2015) {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
-Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premise avec Marketo Engage, vous devez d&#39;abord installer la solution Marketo dans Dynamics.
+Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 2015 On-Premise avec Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics].
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premise avec Marketo En
 
 >[!PREREQUISITES]
 >
->Si vous utilisez Microsoft Dynamics On-Premise, vous devez avoir configuré [Déploiement par Internet](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) avec [Services de fédération Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS). Remarque : le document IFD est téléchargé automatiquement lorsque vous cliquez sur le lien.
+>Si vous utilisez [!DNL Microsoft Dynamics] On-Premise, vous devez avoir configuré [Déploiement par Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) avec [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS). Remarque : le document IFD est téléchargé automatiquement lorsque vous cliquez sur le lien.
 >
 >[Téléchargez la solution de gestion des prospects de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} avant de commencer.
 
@@ -31,7 +31,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premise avec Marketo En
 >
 >Vous avez besoin de privilèges d’administrateur CRM pour effectuer cette synchronisation.
 
-1. Connectez-vous à Dynamics. Cliquez sur le menu déroulant **[!UICONTROL Microsoft Dynamics CRM]** et sélectionnez **[!UICONTROL Paramètres]**.
+1. Connectez-vous à **[!DNL Dynamics].** Cliquez sur le menu déroulant **[!UICONTROL Microsoft Dynamics CRM]** et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -47,7 +47,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premise avec Marketo En
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Affichez les informations sur la solution et cliquez sur **[!UICONTROL Afficher les détails du package de solution]**.
+1. Affichez les [!UICONTROL Informations sur la solution] et cliquez sur **[!UICONTROL Afficher les détails du package de solution]**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -55,7 +55,7 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premise avec Marketo En
 
    ![](assets/step6.png)
 
-1. De retour sur la page Informations sur la solution, cliquez sur **[!UICONTROL Suivant]**.
+1. De retour sur la page [!UICONTROL  Informations sur la solution ], cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -95,4 +95,4 @@ Avant de pouvoir synchroniser Microsoft Dynamics 2015 On-Premise avec Marketo En
 
    >[!MORELIKETHIS]
    >
-   >[Installation de Marketo pour Microsoft Dynamics 2015 On-Premise Étape 2 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+   >[Installation de Marketo for [!DNL Microsoft Dynamics] 2015 On-Premise Étape 2 sur 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

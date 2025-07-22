@@ -1,53 +1,53 @@
 ---
 unique-page-id: 10100642
-description: Créer un texte de message in-app - Documents Marketo - Documentation du produit
-title: Créer un texte de message in-app
+description: Créer Un Texte De Message In-App - Documents Marketo - Documentation Du Produit
+title: Créer Un Texte De Message In-App
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# Créer un texte de message in-app {#create-in-app-message-text}
+# Créer Un Texte De Message In-App {#create-in-app-message-text}
 
-Cliquez sur la zone de texte pour travailler sur le style et le contenu de votre texte.
+Cliquez sur la zone de texte pour modifier votre style et votre contenu de texte.
 
 >[!CAUTION]
 >
->Nous vous recommandons de ne pas utiliser d’émoticônes dans votre texte, car ils ne sont pas entièrement pris en charge pour le moment.
+>Nous vous recommandons de ne pas utiliser d’émoticônes dans votre texte, car elles ne sont pas entièrement prises en charge pour le moment.
 
-1. Cliquez sur le texte principal à modifier en ligne.
+1. Cliquez sur le texte principal pour le modifier en ligne.
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)
 
-1. Choisissez la couleur du texte en cliquant dessus ou en entrant les numéros hexadécimaux ou RGB dans le sélecteur de couleurs.
+1. Choisissez la couleur du texte en cliquant dessus ou en saisissant les numéros Hex ou RGB dans le sélecteur de couleurs.
 
    ![](assets/image2016-5-6-9-3a59-3a1.png)
 
-1. Cliquez sur les flèches pour sélectionner la taille du texte.
+1. Cliquez sur les flèches pour sélectionner une taille de texte.
 
    ![](assets/image2016-5-6-10-3a6-3a51.png)
 
    >[!CAUTION]
    >
-   >Une taille de texte trop grande peut pousser le contenu au-delà des trois lignes visibles de texte maximum.
+   >Une taille de texte trop grande peut pousser votre contenu au-delà des trois lignes de texte visibles maximum.
 
-1. Choisissez un style de type facultatif, en mettant l’accent : **Bold**, _Italic_ ou Souligné.
+1. Choisissez un style de texte facultatif pour mettre l’accent sur : **Gras**, _Italique_ ou Souligné.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
-1. Choisissez Alignement du texte : Gauche, Centré, Droite. La valeur par défaut est Centré.
+1. Choisir l’alignement du texte : gauche, centré, droit. Centré est la valeur par défaut.
 
    ![](assets/image2016-5-6-10-3a18-3a45.png)
 
    >[!NOTE]
    >
-   >La police de texte rendue dans la publicité est la police standard pour chaque plateforme : Helvetica pour Apple et Roboto pour Android
+   >La police de texte générée dans la publicité est la police standard pour chaque plateforme : Helvetica pour Apple et Roboto pour Android
 
-1. Cochez la case pour sélectionner Action d’appui de texte.
+1. Cochez la case pour sélectionner **[!UICONTROL Action d’appui sur le texte]**.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,9 +57,9 @@ Cliquez sur la zone de texte pour travailler sur le style et le contenu de votre
 
    >[!NOTE]
    >
-   >Pour les actions d’appui, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne concerne qu&#39;une seule plateforme, vous pouvez laisser l&#39;autre plateforme dans le paramètre par défaut ou sélectionner Aucun.
+   >Pour les actions d’appui, vous pouvez configurer différentes actions pour les plateformes Apple et Android. Par exemple, les liens profonds sont gérés différemment pour Apple et Android. Si votre message ne va que vers une seule plateforme ou l&#39;autre, vous pouvez laisser l&#39;autre dans le paramètre par défaut ou sélectionner [!UICONTROL Aucune].
 
-1. Cliquez sur le texte de prise en charge pour le modifier en ligne. Il fonctionne de la même manière que la modification du texte principal, mais la taille du texte par défaut est plus petite.
+1. Cliquez sur le Texte d’appui pour le modifier en ligne. Cela fonctionne de la même manière que la modification du texte principal, mais la taille du texte par défaut est plus petite.
 
    ![](assets/image2016-5-6-10-3a26-3a27.png)
 
@@ -67,23 +67,23 @@ Cliquez sur la zone de texte pour travailler sur le style et le contenu de votre
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Sélectionnez un jeton My Token dans la liste déroulante, ajoutez une valeur par défaut, puis cliquez sur **Insérer**.
+1. Sélectionnez un Jeton Mon dans la liste déroulante, ajoutez une valeur par défaut, puis cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Seules les options Mes jetons sont disponibles. Si aucun de mes jetons n’a été configuré dans le programme, la liste déroulante Jeton est vide.
+   >Seuls mes jetons sont disponibles en tant qu’options. Si aucun My Tokens n’a été configuré dans le programme, la liste déroulante [!UICONTROL Token] est vide.
 
    >[!TIP]
    >
-   >Veillez à tenir compte de la longueur des caractères à laquelle un jeton sera résolu lorsqu’il sera affiché par votre audience. Laissez suffisamment d’espace pour prendre en compte les valeurs potentiellement plus longues, afin de les empêcher d’être coupées.
+   >Veillez à tenir compte de la longueur des caractères auxquels un jeton se résoudra lorsqu’il sera vu par votre audience. Laissez suffisamment d’espace pour tenir compte des valeurs potentiellement plus longues, afin d’éviter qu’elles ne soient coupées.
 
-   Les modifications que vous apportez aux jetons utilisés dans un programme de messages in-app approuvé ne prennent effet dans le message in-app que lorsque le programme est mis en pause puis repris.
+   Toute modification apportée aux jetons utilisés dans un programme de message in-app approuvé ne prend pas effet dans le message in-app tant que le programme n’est pas suspendu, puis repris.
 
-Tu es dorée. Ensuite, vous devez [configurer votre bouton de message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Vous êtes d&#39;or. Ensuite, vous devez [configurer votre bouton de message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Compréhension des messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choisir une mise en page pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Comprendre Les Messages In-App](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choisir une disposition pour votre message in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2359890
-description: Présentation de la note d’engagement - Documents Marketo - Documentation du produit
-title: Présentation de la note d’engagement
+description: Comprendre le score de l’engagement - Documents Marketo - Documentation du produit
+title: Comprendre le score de l’engagement
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Présentation de la note d’engagement {#understanding-the-engagement-score}
+# Comprendre le score de l’engagement {#understanding-the-engagement-score}
 
-Le score d’engagement permet de déterminer facilement l’efficacité du contenu de votre programme d’engagement. Le score est compris entre 0 et 100. Consultez [le tableau de bord Engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) pour voir comment vous pouvez suivre les performances de votre contenu.
+Le score d’engagement facilite l’évaluation de l’efficacité du contenu de votre programme d’engagement. Le score va de 0 à 100. Consultez [le tableau de bord de l’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) pour savoir comment vous pouvez suivre les performances de votre contenu.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
 ![](assets/highestengagementwidget.jpg)
 
-Le score est basé sur un algorithme propriétaire qui prend en compte le comportement engagé (Ouverture, Clic, Succès du programme) et le comportement désengagé (Désabonnement). Elle est comparée à la goutte à goutte et aux messages électroniques de style nourrisse pour donner une moyenne de 50. Pour que les personnes puissent interagir avec votre contenu, le score d’engagement est calculé 72 heures après chaque diffusion. En outre, le score ne couvre que les données de **vos trois dernières** diffusions.
+Le score est basé sur un algorithme propriétaire qui prend en compte le comportement engagé ([!UICONTROL Open], [!UICONTROL Click], [!UICONTROL Program Success]) et le comportement désengagé ([!UICONTROL Unsubscribe]). Il est comparé aux e-mails de style drip and nurture pour donner une moyenne de 50. Pour donner aux personnes la possibilité d’interagir avec votre contenu, le score d’engagement est calculé 72 heures après chaque casting. En outre, le score ne couvre que les données de **vos trois derniers lancements**.
 
 >[!NOTE]
 >
->Lorsque les programmes sont utilisés comme contenu dans les flux, le score d’engagement est basé sur l’appartenance au programme et l’état de réussite, l’interaction email **et non** (clics, ouvertures, désabonnements).
+>Lorsque des programmes sont utilisés comme contenu dans les flux, le score d’engagement est basé sur l’appartenance au programme et le statut de réussite, **pas** l’interaction par e-mail (clics, ouvertures, désabonnements).
 
-Les scores d’engagement sont universels pour tous les clients. Vous pouvez les comparer pour déterminer qui possède le contenu le plus engageant.
+Les scores d’engagement sont universels pour tous les clients. Vous pouvez les comparer pour déterminer qui a le contenu le plus attrayant.
 
 >[!NOTE]
 >

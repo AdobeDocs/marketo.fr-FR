@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504520
-description: Suppression d’un champ dans un rapport de l’Explorateur des recettes - Documents Marketo - Documentation du produit
-title: Suppression d’un champ dans un rapport de l’Explorateur des recettes
+description: Suppression d’un champ dans un rapport de l’explorateur de revenus - Documents Marketo - Documentation du produit
+title: Suppression d’un champ dans un rapport de l’explorateur de revenus
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Suppression d’un champ dans un rapport de l’Explorateur des recettes {#deleting-a-field-in-a-revenue-explorer-report}
+# Suppression d’un champ dans un rapport [!UICONTROL Explorateur de revenus] {#deleting-a-field-in-a-revenue-explorer-report}
 
-Vous pouvez parfois faire glisser un champ incorrect dans le rapport. Pour le supprimer, procédez comme suit :
+Parfois, vous pouvez faire glisser un mauvais champ dans le rapport. Voici comment le supprimer :
 
-1. Faites glisser le champ à supprimer vers l’icône **corbeille** située en bas à droite du rapport.
+1. Faites glisser le champ à supprimer vers l’icône **corbeille** en bas à droite du rapport.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ Vous pouvez parfois faire glisser un champ incorrect dans le rapport. Pour le su
 
 >[!MORELIKETHIS]
 >
->[Enregistrement d’un rapport d’Explorateur de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Enregistrement d’un rapport [!UICONTROL Explorateur de revenus]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

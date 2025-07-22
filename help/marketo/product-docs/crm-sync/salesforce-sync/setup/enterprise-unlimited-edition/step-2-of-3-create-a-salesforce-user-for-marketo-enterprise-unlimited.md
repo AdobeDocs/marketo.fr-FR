@@ -4,24 +4,24 @@ description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marke
 title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 6%
+source-wordcount: '425'
+ht-degree: 3%
 
 ---
 
-# Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Étape 2 sur 3 : création d’un utilisateur [!DNL Salesforce] pour Marketo (Entreprise/Illimité) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
->Ces étapes doivent être effectuées par un administrateur Salesforce
+>Ces étapes doivent être effectuées par un administrateur [!DNL Salesforce]
 
 >[!PREREQUISITES]
 >
->[Étape 1 sur 3 : Ajouter des champs Marketo à Salesforce (Entreprise/Illimité)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Étape 1 de 3 : ajouter des champs Marketo à  [!DNL Salesforce] (Entreprise/Illimité)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-Dans cet article, vous allez configurer des autorisations d’utilisateur dans le profil Salesforce et créer un compte d’intégration Marketo-Salesforce.
+Dans cet article, vous allez configurer des autorisations d’utilisateur dans [!DNL Salesforce] profil et créer un compte d’intégration Marketo-[!DNL Salesforce].
 
 ## Création d’un profil {#create-a-profile}
 
@@ -49,10 +49,10 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans l
 
 1. Dans la section **[!UICONTROL Autorisations d’administration]**, assurez-vous que les cases suivantes sont cochées :
 
-   * API activé
-   * Modifier les modèles d&#39;HTML
-   * Gérer les documents publics
-   * Gérer les modèles publics
+   * [!UICONTROL API activé]
+   * [!UICONTROL Modifier les modèles HTML]
+   * [!UICONTROL Gestion des documents publics]
+   * [!UICONTROL Gérer les modèles publics]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -60,25 +60,25 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans l
    >
    >Veillez à cocher la case **[!UICONTROL Le mot de passe n’expire jamais]**.
 
-1. Sous la section Autorisations d’utilisateur générales , assurez-vous que les cases suivantes sont cochées :
+1. Dans la section [!UICONTROL  Autorisations générales des utilisateurs ] , assurez-vous que les cases suivantes sont cochées :
 
-   * Convertir les leads
-   * Modifier les événements
-   * Modifier tâches
+   * [!UICONTROL Convertir les leads]
+   * [!UICONTROL Modifier les événements]
+   * [!UICONTROL Modifier tâches]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Sous la section Autorisations d’objet standard , assurez-vous que les autorisations de lecture, de création, de modification et de suppression sont cochées pour :
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
 
-   * Comptes
-   * Campagnes
-   * Contacts
-   * Prospects
-   * Opportunités
+   * [!UICONTROL Comptes]
+   * [!UICONTROL Campagnes]
+   * [!UICONTROL Contacts]
+   * [!UICONTROL Leads]
+   * [!UICONTROL  Opportunités ]
 
    >[!NOTE]
    >
-   >Octroyez des autorisations pour les campagnes, si vous prévoyez d’utiliser la synchronisation de la campagne.
+   >Accordez des autorisations sur les [!UICONTROL Campagnes], si vous prévoyez d’utiliser la synchronisation de la campagne.
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -96,10 +96,10 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans l
 
 1. Dans la page des détails du profil, accédez à la section **[!UICONTROL Sécurité au niveau du champ]**. Cliquez sur **[!UICONTROL Affichage]** pour modifier l’accessibilité des objets :
 
-   * Lead
-   * Contact
-   * Compte
-   * Opportunité
+   * [!UICONTROL Lead]
+   * [!UICONTROL Contact]
+   * [!UICONTROL Compte]
+   * [!UICONTROL Opportunité]
 
    >[!TIP]
    >
@@ -148,7 +148,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans l
 
 >[!TIP]
 >
->Créez un compte Salesforce dédié (par exemple, `marketo@yourcompany.com`) pour distinguer les modifications apportées par Marketo des autres utilisateurs de Salesforce.
+>Créez un compte [!DNL Salesforce] dédié (par exemple, marketo@yourcompany.com) pour distinguer les modifications apportées par Marketo des autres utilisateurs [!DNL Salesforce].
 
 1. Saisissez « Gérer les utilisateurs » dans la barre de recherche de navigation, puis cliquez sur **[!UICONTROL Utilisateurs]**. Cliquez sur **[!UICONTROL Nouvel utilisateur]**.
 
@@ -162,4 +162,4 @@ L’étape 2 sur 3 est terminée.
 
 >[!NOTE]
 >
->[Étape 3 sur 3 : connecter Marketo et Salesforce (Entreprise/Illimité)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Étape 3 sur 3 : connecter Marketo et [!DNL Salesforce] (Entreprise/Illimité)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

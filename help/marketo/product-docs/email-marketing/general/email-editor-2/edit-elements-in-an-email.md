@@ -1,59 +1,59 @@
 ---
 unique-page-id: 1900558
-description: Modifier des éléments dans un courrier électronique - Documents Marketo - Documentation du produit
-title: Modifier des éléments dans un email
+description: Modification d’éléments dans un e-mail - Documents Marketo - Documentation du produit
+title: Modifier des éléments dans un e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
 
-# Modifier des éléments dans un email {#edit-elements-in-an-email}
+# Modifier des éléments dans un e-mail {#edit-elements-in-an-email}
 
-Les courriers électroniques peuvent contenir quatre éléments différents : du texte enrichi, des images, des fragments de code et de la vidéo. Voici comment les modifier.
+Les e-mails peuvent contenir quatre éléments différents : texte enrichi, images, fragments de code et vidéo. Voici comment les modifier.
 
-## Comment modifier l’élément de texte enrichi {#how-to-edit-the-rich-text-element}
+## Modification de l’élément de texte enrichi {#how-to-edit-the-rich-text-element}
 
-1. Recherchez votre email, sélectionnez-le et cliquez sur **Modifier le brouillon**.
+1. Recherchez votre e-mail, sélectionnez-le et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/one-edited.png)
 
-1. L’éditeur de courrier électronique s’ouvre. Sélectionnez le texte enrichi, cliquez sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. L’éditeur d’e-mail s’ouvre. Sélectionnez le texte enrichi, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/two.png)
 
-   Vous pouvez également placer le pointeur de la souris sur l’élément dans le volet de droite, ce qui entraîne l’affichage de l’icône d’engrenage.
+   Vous pouvez également pointer sur l’élément dans le volet de droite, ce qui fait apparaître l’icône d’engrenage.
 
    ![](assets/three.png)
 
-1. Ajoutez/modifiez votre texte et appuyez sur **Enregistrer**.
+1. Ajoutez/modifiez votre texte et appuyez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [Utilisation de l’éditeur de texte enrichi](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [ Utilisation de l’éditeur de texte enrichi ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
-   >Évitez de copier et de coller du texte à partir d’une source de texte enrichi, telle qu’un site web ou un document Word. Vous devez d’abord coller du texte enrichi dans un éditeur de texte brut, tel que Bloc-notes (Windows) ou TextEdit (Mac). Une fois qu’il est &quot;propre&quot;, vous pouvez le copier à partir de l’éditeur de texte brut et le coller dans votre email.
+   >Évitez de copier et de coller du texte provenant d’une source de texte enrichi, telle qu’un site web ou un document Word. Commencez par coller du texte enrichi dans un éditeur de texte brut, tel que [!DNL Notepad] (Windows) ou [!DNL TextEdit] (Mac). Une fois qu’il est « propre », vous pouvez le copier à partir de l’éditeur de texte brut et le coller dans votre e-mail.
 
-## Comment modifier l’élément d’image {#how-to-edit-the-image-element}
+## Modification de l’élément d’image {#how-to-edit-the-image-element}
 
 1. Cliquez à l’intérieur du module avec l’élément Image pour le sélectionner.
 
    ![](assets/five.png)
 
-1. Cliquez sur l’élément Image à modifier, puis sur l’icône représentant un engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément d’image à modifier, puis sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/six.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également double-cliquer sur l’élément pour commencer l’édition.
+   >Vous pouvez également double-cliquer sur l’élément pour commencer la modification.
 
 1. L’éditeur d’image s’affiche.
 
@@ -65,15 +65,15 @@ Les courriers électroniques peuvent contenir quatre éléments différents : du
 
    >[!NOTE]
    >
-   >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image apparaît rompue dans l’éditeur, mais son rendu est effectué en mode Aperçu et dans l’option Envoyer l’exemple d’email.
+   >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image semble endommagée dans l’éditeur, mais s’affiche en mode Aperçu et dans l’exemple d’e-mail d’envoi.
 
-   Pour utiliser une URL externe, collez d’abord dans l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du texte de remplacement (facultatif). Appuyez ensuite sur **Swap**.
+   Pour utiliser une URL externe, collez d’abord l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du [!UICONTROL  Texte de remplacement ] (facultatif). Appuyez ensuite sur **[!UICONTROL Swap]**.
 
    ![](assets/eight.png)
 
    **Poste de travail**
 
-   Pour télécharger une image depuis votre ordinateur, cliquez sur **Parcourir**.
+   Pour télécharger une image à partir de votre ordinateur, cliquez sur **[!UICONTROL Parcourir]**.
 
    ![](assets/nine.png)
 
@@ -81,39 +81,39 @@ Les courriers électroniques peuvent contenir quatre éléments différents : du
 
    ![](assets/ten.png)
 
-   Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permuter**.
+   Modifiez les dimensions en fonction de vos besoins, modifiez le [!UICONTROL Texte de remplacement] (facultatif), puis appuyez sur **[!UICONTROL Permuter]**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Si vous remplacez une image, vous devrez cocher la case **Remplacer l’image existante** qui s’affiche sous l’URL/le nom de l’image.
+   >Si vous remplacez une image, vous devez cocher la case **[!UICONTROL Remplacer l’image existante]** qui s’affiche sous l’URL/le nom de l’image.
 
    **Design Studio**
 
-   Pour insérer une image de Design Studio, localisez-la simplement...
+   Pour insérer une image à partir de [!UICONTROL Design Studio], il vous suffit de la localiser...
 
    ![](assets/twelve.png)
 
-   ...et insérez-le. Modifiez les dimensions en fonction de vos besoins, modifiez le texte de remplacement (facultatif), puis appuyez sur **Permuter**.
+   ...et l&#39;insérer. Modifiez les dimensions en fonction de vos besoins, modifiez le [!UICONTROL Texte de remplacement] (facultatif), puis appuyez sur **[!UICONTROL Permuter]**.
 
    ![](assets/thirteen.png)
 
-## Comment modifier l’élément de fragment de code {#how-to-edit-the-snippet-element}
+## Modification de l’élément de fragment de code {#how-to-edit-the-snippet-element}
 
-1. Cliquez dans le module avec l’élément Fragment de code .
+1. Cliquez dans le module avec l’élément Extrait de code .
 
    ![](assets/fourteen.png)
 
-1. Cliquez sur l’élément Fragment de code, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément de fragment de code, puis sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/fifteen.png)
 
-1. Recherchez votre extrait de code, sélectionnez-le, puis cliquez sur **Enregistrer**.
+1. Recherchez votre fragment de code, sélectionnez-le, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/sixteen.png)
 
-1. Votre extrait de code est ensuite renseigné.
+1. Votre fragment de code est ensuite renseigné.
 
    ![](assets/eighteen.png)
 
@@ -123,16 +123,16 @@ Les courriers électroniques peuvent contenir quatre éléments différents : du
 
    ![](assets/nineteen.png)
 
-1. Cliquez sur l’élément Vidéo, puis sur l’icône d’engrenage et sélectionnez **Modifier**.
+1. Cliquez sur l’élément Vidéo, puis sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/twenty.png)
 
-1. Collez l’URL de la vidéo à partir de Vimeo ou de YouTube. Cliquez ensuite en dehors de la zone URL pour que l’aperçu soit chargé. Modifiez les dimensions en fonction de vos besoins, ajoutez Texte de remplacement (facultatif), puis appuyez sur **Insérer**.
+1. Collez dans l’URL de la vidéo à partir de [!DNL Vimeo] ou YouTube. Cliquez ensuite hors de la zone URL pour charger l’aperçu. Modifiez les dimensions selon vos besoins, ajoutez [!UICONTROL Texte de remplacement] (facultatif), puis appuyez sur **[!UICONTROL Insérer]**.
 
    ![](assets/twentyone.png)
 
    >[!NOTE]
    >
-   >Pour les vidéos YouTube, utilisez l’URL complète de la barre d’adresse, et non l’URL de raccourci de l’option Partager .
+   >Pour les vidéos YouTube, utilisez l’URL complète de la barre d’adresse, et non l’URL de raccourci disponible dans l’option Partager .
 
-Amusez-vous à concevoir l&#39;email parfait !
+Amusez-vous à concevoir l’e-mail parfait !

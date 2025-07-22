@@ -1,52 +1,52 @@
 ---
 unique-page-id: 2360225
-description: Filtrage d’Assets dans un rapport par courrier électronique - Documents Marketo - Documentation du produit
-title: Filtrage d’Assets dans un rapport par courriel
+description: Filtrer Assets dans un rapport par e-mail - Documents Marketo - Documentation du produit
+title: Filtrage d’Assets dans un rapport sur les e-mails
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Filtrage d’Assets dans un rapport par courriel {#filter-assets-in-an-email-report}
+# Filtrage d’Assets dans un rapport sur les e-mails {#filter-assets-in-an-email-report}
 
-Concentrez-vous sur votre rapport [Performances des emails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les emails de vos programmes (&#39;ressources locales&#39;), sur ceux de Design Studio (&#39;ressources globales&#39;) ou sur ceux qui ont été archivés.
+Concentrez votre rapport [Performances des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Performances des liens d’e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les e-mails de vos programmes (« ressources locales »), de ceux de Design Studio (« ressources globales ») ou de ceux qui ont été archivés.
 
 >[!NOTE]
 >
->Le filtrage des ressources dans les rapports n’est pas pris en charge en mode satellite (l’icône &quot;Ouvrir dans une nouvelle fenêtre&quot; située à droite de la page des détails de la ressource).
+>Le filtrage des ressources dans les rapports n’est pas pris en charge en mode satellite (icône « ouvrir dans une nouvelle fenêtre » sur la droite de la page des détails de la ressource).
 
 1. Accédez à la zone **Analytics** (ou **Activités marketing**).
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
-1. Sélectionnez votre rapport par e-mail.
+1. Sélectionnez votre rapport d’e-mail.
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Cliquez sur l’onglet **Configuration** et faites glisser sur un filtre.
+1. Cliquez sur l’onglet **[!UICONTROL Configuration]** et faites glisser sur un filtre.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Courriers électroniques de Design Studio** : ressources globales, gérées dans Design Studio.
-   * **Courriels des activités marketing** : ressources locales dans les programmes dans l’onglet Activités marketing.
-   * **Emails archivés** : emails inactifs et retirés.
+   * **[!UICONTROL E-mails de Design Studio]** : ressources globales, gérées dans Design Studio.
+   * **[!UICONTROL E-mails relatifs aux activités marketing]** : ressources locales dans les programmes sur l’onglet Activités marketing.
+   * **Emails archivés** : emails inactifs, retirés.
 
-1. Sélectionnez les dossiers et emails spécifiques à inclure dans votre rapport.
+1. Choisissez les dossiers et les e-mails spécifiques à inclure dans votre rapport.
 
    ![](assets/image2014-9-16-15-3a53-3a36.png)
 
    >[!TIP]
    >
-   >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu’il contient au moment de l’exécution du rapport.
+   >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu’il contient au moment de son exécution.
 
-1. Vous avez fini ! Cliquez sur l’onglet **Rapport** pour afficher votre rapport filtré.
+1. C&#39;est fini ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
 >[!MORELIKETHIS]
 >
->[Filtrer Assets dans un rapport d’email de campagne](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>[Filtrer Assets dans les rapports par e-mail de campagne](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)

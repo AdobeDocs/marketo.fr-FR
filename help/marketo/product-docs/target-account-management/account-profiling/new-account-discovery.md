@@ -4,9 +4,9 @@ description: Découverte d’un nouveau compte - Documents Marketo - Documentati
 title: Découverte de nouveaux comptes
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -27,27 +27,27 @@ La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes
 >
 >Il est recommandé d’appuyer sur le bouton **Mettre à jour les comptes existants** avant d’effectuer une nouvelle recherche de compte pour vous assurer que vous consultez les données les plus récentes. Cette mise à jour peut prendre jusqu’à 24 heures.
 
-1. Dans Mon Marketo, cliquez sur **Gestion du compte Target**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Gestion du compte Target]**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Cliquez sur l’onglet **Profils de compte**.
+1. Cliquez sur l’onglet **[!UICONTROL Profils de compte]**.
 
    ![](assets/two-2.png)
 
-1. Cliquez sur l’onglet **Nouveaux comptes**.
+1. Cliquez sur l’onglet **[!UICONTROL Nouveaux comptes]**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La section Nouveaux comptes affiche une liste des comptes qui ne sont pas encore les vôtres dans TAM. Il s’agit de comptes qui peuvent potentiellement être nouveaux pour vous en fonction des filtres que vous sélectionnez.
+   >[!UICONTROL Nouveaux comptes] affiche une liste des comptes qui ne sont pas encore les vôtres dans TAM. Il s’agit de comptes qui peuvent potentiellement être nouveaux pour vous en fonction des filtres que vous sélectionnez.
 
 1. Sélectionnez tous les filtres applicables (cette partie est hautement personnalisable, ce qui suit n’est qu’un exemple illustrant le filtrage).
 
    ![](assets/four-1.png)
 
-1. Cliquez sur **Enregistrer tout et créer une liste** en bas à droite de la page.
+1. Cliquez sur **[!UICONTROL Enregistrer tout et créer une liste]** en bas à droite de la page.
 
    ![](assets/five-1.png)
 
@@ -61,9 +61,9 @@ La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes
 
    >[!NOTE]
    >
-   >Pour l’enregistrer dans une liste de comptes existante, sélectionnez cette option, cliquez sur la liste déroulante, sélectionnez la liste de comptes souhaitée, puis cliquez sur **Suivant**.
+   >Pour l’enregistrer dans une liste de comptes existante, sélectionnez cette option, cliquez sur la liste déroulante, sélectionnez la liste de comptes souhaitée, puis cliquez sur **[!UICONTROL Suivant]**.
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/seven-1.png)
 
@@ -71,10 +71,10 @@ La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes
    >
    >Vous pouvez enregistrer jusqu’à 5 000 comptes à la fois. Si votre recherche génère 10 000 résultats, vous devrez enregistrer les 5 000 premiers, puis réinitialiser les filtres et enregistrer les 5 000 suivants. La limite de compte **total** est d’un million.
 
-1. Cliquez sur **OK**.
+1. Cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Une fois vos comptes enregistrés, vous pouvez utiliser une audience [correspondante sur LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.
+   >Une fois vos comptes enregistrés, vous pouvez utiliser une [ audience correspondante sur  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.

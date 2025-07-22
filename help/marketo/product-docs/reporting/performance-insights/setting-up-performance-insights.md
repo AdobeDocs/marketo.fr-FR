@@ -1,62 +1,62 @@
 ---
 unique-page-id: 12981145
-description: Configuration des informations de performances - Documents Marketo - Documentation du produit
-title: Configuration des informations de performances
+description: Configuration D’Informations Sur Les Performances - Documents Marketo - Documentation Du Produit
+title: Configuration d’informations sur les performances
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# Configuration des informations de performances {#setting-up-performance-insights}
+# Configuration De [!UICONTROL Performances Insights] {#setting-up-performance-insights}
 
 Suivez les étapes ci-dessous pour configurer MPI.
 
 ## Configuration de l’opportunité {#opportunity-setup}
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Revenue Cycle Analytics**.
+1. Cliquez sur **[!UICONTROL Revenue Cycle Analytics]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si vous ne disposez pas d’une autorité de certification, vous devrez sélectionner **Analyse de programme** pour l’étape 2.
+   >Si vous n&#39;avez pas de RCA, vous devez sélectionner **[!UICONTROL Analyse de programme]** pour l&#39;étape 2.
 
-1. Sous Attribution, cliquez sur **Modifier**.
+1. Sous Attribution, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/three-1.png)
 
-1. Paramètres d’attribution s’affiche.
+1. Les Paramètres d’attribution s’affichent.
 
    ![](assets/four-2.png)
 
-   Si l’attribution est explicite, assurez-vous que le rôle Contact d’opportunité a été renseigné (via le point de terminaison Rôle d’opportunité ou via l’intégration CRM).
+   Si l’attribution est explicite, assurez-vous que le rôle de contact de l’opportunité a été renseigné (soit via le point d’entrée du rôle d’opportunité, soit via l’intégration CRM).
 
-   Si l’attribution est implicite, assurez-vous que le champ de société sur l’prospect/contact est identique au Nom du compte de l’opportunité.
+   Si l’attribution est implicite, assurez-vous que le champ société du prospect/contact est identique au nom du compte de l’opportunité.
 
    >[!NOTE]
    >
    >Assurez-vous que les champs appropriés sont renseignés pour toutes les opportunités :
    >
-   >* Quantité d&#39;opportunités
-   >* Est fermé
-   >* Est confirmé
-   >* Date de création (cette valeur peut ne pas être définie dans votre cas)
-   >* Date de fermeture (cette valeur peut ne pas être définie dans votre cas)
-   >* Type de l&#39;opportunité
+   >* [!UICONTROL Montant de l’opportunité]
+   >* [!UICONTROL Est Fermé]
+   >* [!UICONTROL Est Gagné]
+   >* [!UICONTROL  Date de création ] (peut ne pas être définie dans votre cas)
+   >* [!UICONTROL Date de clôture] (peut ne pas être définie dans votre cas)
+   >* [!UICONTROL  Type d’opportunité ]
 
 ## Configuration du programme {#program-setup}
 
-Mettre à jour les coûts du programme pendant au moins 12 mois. Vous pouvez le faire manuellement ou à l’aide de l’API de programme. Dans cet exemple, nous le faisons manuellement.
+Mettez à jour les coûts du programme pendant au moins 12 mois. Vous pouvez le faire manuellement ou à l’aide de l’API du programme. Dans cet exemple, nous le faisons manuellement.
 
-1. Cliquez sur **Activités marketing**.
+1. Cliquez sur **[!UICONTROL Activités marketing]**.
 
    ![](assets/ma.png)
 
@@ -64,41 +64,41 @@ Mettre à jour les coûts du programme pendant au moins 12 mois. Vous pouvez le 
 
    ![](assets/select-program.png)
 
-1. Cliquez sur l’onglet **Setup** .
+1. Cliquez sur l’onglet **[!UICONTROL Configuration]**.
 
    ![](assets/setup-tab.png)
 
-1. Faites glisser **Coût de la période** sur la zone de travail.
+1. Faites glisser **[!UICONTROL Coût de la période]** sur la zone de travail.
 
    ![](assets/period-cost.png)
 
-1. Définissez le Mois du programme pour il y a au moins 12 mois et cliquez sur **Ok**.
+1. Définissez le mois du programme sur au moins 12 mois, puis cliquez sur **[!UICONTROL Ok]**.
 
    ![](assets/set-period.png)
 
-1. Définissez le coût de la période et cliquez sur **Enregistrer**.
+1. Définissez le coût de la période et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/set-cost.png)
 
-Ensuite, passez en revue le comportement des analyses pour indiquer si un canal particulier doit être inclus dans les analyses. Définissez le comportement d’Analytics (normal, inclusif, opérationnel).
+Examinez ensuite le comportement des analyses pour indiquer si un canal particulier doit être inclus dans les analyses. Définissez le comportement d’Analytics (normal, inclusif, opérationnel).
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Cliquez sur **Balises**.
+1. Cliquez sur **[!UICONTROL Balises]**.
 
    ![](assets/tags.png)
 
-1. Cliquez sur **+** pour développer la liste des canaux.
+1. Cliquez sur **+** pour développer la liste Canal .
 
    ![](assets/channel.png)
 
-1. Double-cliquez sur le canal souhaité.
+1. Double-cliquez sur le canal de votre choix.
 
    ![](assets/channel-click.png)
 
-1. Cliquez sur la liste déroulante **Comportement Analytics** et sélectionnez le comportement souhaité.
+1. Cliquez sur la liste déroulante **[!UICONTROL Comportement d’Analytics]** et sélectionnez le comportement souhaité.
 
    ![](assets/edit-channel.png)
 
@@ -106,15 +106,15 @@ Ensuite, passez en revue le comportement des analyses pour indiquer si un canal 
 
    ![](assets/success.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/save.png)
 
-## Associer le programme à la personne {#tie-the-program-to-the-person}
+## Lier le programme à la personne {#tie-the-program-to-the-person}
 
-1. Assurez-vous que le programme d’acquisition et la date d’acquisition ont été définis pour chaque personne de votre base de données afin que l’attribution Première touche fonctionne.
-1. Assurez-vous que vos programmes définissent des états de réussite pour vos employés.
+1. Assurez-vous que le Programme d’acquisition et la Date d’acquisition ont été définis pour chaque personne de votre base de données afin que l’attribution du premier contact fonctionne.
+1. Assurez-vous que vos programmes définissent des états de succès pour vos salariés.
 
 >[!NOTE]
 >
->Les changements apportés ne sont pas instantanés. Une période de nuit est nécessaire avant que les modifications ne prennent effet.
+>Les modifications apportées ne sont pas instantanées. Une période de nuit est nécessaire avant que les modifications ne prennent effet.

@@ -1,58 +1,58 @@
 ---
-description: Envoi d’emails par courrier électronique de groupe - Documents Marketo - Documentation du produit
-title: Envoi d’emails par courrier électronique de groupe
+description: Envoi d’e-mails via l’e-mail de groupe - Documents Marketo - Documentation du produit
+title: Envoi d’e-mails via l’e-mail du groupe
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-# Envoi d’emails par courrier électronique de groupe {#sending-emails-via-group-email}
+# Envoi d’e-mails via l’e-mail du groupe {#sending-emails-via-group-email}
 
-Voici comment envoyer/modifier des emails à l’aide de l’option Courrier électronique de groupe .
+Voici comment envoyer/modifier des e-mails à l’aide de l’option Regrouper les e-mails .
 
 ## Envoi d’un e-mail de groupe {#sending-a-group-email}
 
-1. Cliquez sur l’onglet **Personnes** .
+1. Cliquez sur l’onglet **[!UICONTROL Personnes]**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
-1. Sélectionnez le groupe que vous souhaitez envoyer par courrier électronique.
+1. Sélectionnez le groupe que vous souhaitez envoyer par e-mail.
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Cliquez sur le bouton Actions de groupe et sélectionnez **Groupe d’emails**.
+1. Cliquez sur le bouton [!UICONTROL Actions de groupe] et sélectionnez **[!UICONTROL Groupe d’e-mails]**.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
-1. Remplissez votre email (ou sélectionnez un modèle) et envoyez-le (ou planifiez).
+1. Remplissez votre e-mail (ou sélectionnez un modèle) et envoyez-le (ou planifiez-le).
 
    ![](assets/sending-emails-via-group-email-4.png)
 
-## Modification d’un email de groupe {#editing-a-group-email}
+## Modification d’un e-mail de groupe {#editing-a-group-email}
 
-1. Créez un email de groupe à l’aide des [étapes 1 à 3 ci-dessus](#sending-a-group-email).
+1. Créez un e-mail de groupe à l’aide des [étapes 1 à 3 ci-dessus](#sending-a-group-email).
 
-1. [Choisissez un modèle](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) ou renseignez votre email.
+1. [Choisissez un modèle](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) ou renseignez votre e-mail.
 
    ![](assets/sending-emails-via-group-email-5.png)
 
-1. Une fois l’email terminé, vous pouvez maintenant prévisualiser chaque email de la liste pour vérifier si les champs dynamiques sont correctement renseignés.
+1. Une fois l’e-mail envoyé, vous pouvez prévisualiser chaque e-mail de la liste pour voir si les champs dynamiques sont correctement renseignés.
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Sélectionnez le destinataire visé et cliquez sur **Aperçu des champs dynamiques**. Affichez l’aperçu à droite.
+1. Sélectionnez le destinataire visé et cliquez sur **[!UICONTROL Aperçu des champs dynamiques]**. Affichez l’aperçu à droite.
 
    ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
-   >Vous pouvez apporter des modifications en masse à l’email/au modèle lors de l’envoi d’un email de groupe, mais vous ne pouvez pas apporter de modifications uniques à des destinataires spécifiques de la liste.
+   >Vous pouvez apporter des modifications en bloc à l’e-mail/au modèle lors de l’envoi d’e-mails de groupe, mais vous ne pouvez pas apporter de modifications uniques à des destinataires spécifiques dans la liste.
 
 >[!MORELIKETHIS]
 >
->* [Options d’envoi en masse](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
->* [Utilisation d’un modèle dans la fenêtre de composition](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Options d’envoi en bloc](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Utilisation d’un modèle dans la fenêtre Composer](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

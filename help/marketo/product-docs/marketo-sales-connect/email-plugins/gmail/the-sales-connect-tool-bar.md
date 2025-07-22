@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14352444
-description: Barre d’outils Sales Connect - Documents Marketo - Documentation du produit
-title: Barre d’outils de connexion aux ventes
+description: Barre d’outils de Sales Connect - Documents Marketo - Documentation du produit
+title: Barre d’outils Sales Connect
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '100'
+ht-degree: 2%
 
 ---
 
-# Barre d’outils de connexion aux ventes {#the-sales-connect-tool-bar}
+# Barre d’outils [!DNL Sales Connect] {#the-sales-connect-tool-bar}
 
-Cinq boutons de connexion aux ventes seront ajoutés au haut de votre page Gmail lorsque vous vous connectez.
+Cinq boutons [!DNL Sales Connect] seront ajoutés en haut de votre page Gmail lorsque vous vous connecterez.
 
 | Bouton | Description |
 |---|---|
-| **Bouton Flux actif** | Ouvre votre Connect Sales [Flux actif](https://toutapp.com/next#live) où vous pouvez obtenir des informations de suivi en temps réel sur vos emails. |
-| **Bouton Tâches** | Affiche une liste déroulante de toutes vos tâches. |
-| **Boutons Modèles et conversations** | Ouvre respectivement la page Modèles de votre [application web](https://toutapp.com/login) et la page Conversations. Tout cela dans votre page Gmail. |
-| **Bouton Gong de vente** | Permet de fêter les contrats que vous avez conclus/gagnés avec vos coéquipiers. |
+| **[!UICONTROL Flux en direct] bouton** | Ouvre votre [!DNL Sales Connect] [Flux en direct](https://toutapp.com/next#live) où vous pouvez obtenir des informations de tracking en temps réel sur vos e-mails. |
+| **[!UICONTROL Tâches] bouton** | Affiche une liste déroulante de toutes vos tâches. |
+| **[!UICONTROL Boutons Modèles et conversations]** | Ouvre respectivement la page [Modèles](https://toutapp.com/login) et la page [!UICONTROL Conversations] de votre [!UICONTROL application web]. Le tout dans votre page Gmail. |
+| **[!UICONTROL Bouton Gong des ventes]** | Permet de célébrer vos affaires conclues/gagnées avec vos coéquipiers. |

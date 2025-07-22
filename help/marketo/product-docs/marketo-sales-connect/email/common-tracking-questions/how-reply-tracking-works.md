@@ -4,21 +4,21 @@ description: Fonctionnement du suivi des réponses - Documents Marketo - Documen
 title: Fonctionnement du suivi des réponses
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Fonctionnement du suivi des réponses {#how-reply-tracking-works}
 
-Le suivi des réponses s’effectue en examinant un identifiant de message qui se trouve dans chaque email que vous envoyez. Chaque email contient un identifiant de message unique qui nous permet d’avoir le meilleur suivi de réponse possible.
+Le suivi des réponses est effectué en examinant un identifiant de message qui se trouve dans chaque e-mail que vous envoyez. Chaque e-mail contient un identifiant de message unique qui nous permet d’effectuer l’un des meilleurs suivis de réponse.
 
 >[!PREREQUISITES]
 >
->**Connexion avec le serveur de messagerie :** Sales Connect (Connexion aux ventes) doit être connecté à votre boîte de réception pour que nous sachions quand une nouvelle réponse est arrivée. Votre compte [Sales Connect doit être connecté à Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si vous utilisez Outlook, nous devrons intégrer votre [serveur d’exchange](https://toutapp.com/next#settings/exchange_settings).
+>**Connexion au serveur de messagerie :** [!DNL Sales Connect] devez être connecté à votre boîte de réception afin que nous sachions quand une nouvelle réponse est arrivée. Votre compte [!DNL Sales Connect] doit être [connecté à Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si vous utilisez [!DNL Outlook], nous devrons procéder à l’intégration à votre [serveur Exchange](https://toutapp.com/next#settings/exchange_settings).
 
-Si Sales Connect ne peut pas suivre la réponse de votre prospect à votre email, il ne pourra pas arrêter une campagne en fonction de la détection des réponses ou consigner cette réponse à Salesforce.  Que signifie toute adresse email à laquelle on peut répondre ?
+Si [!DNL Sales Connect] ne parvient pas à suivre la réponse de votre prospect à votre e-mail, il ne sera pas en mesure d’arrêter une campagne basée sur la détection de réponse ou de consigner cette réponse à [!DNL Salesforce].  Que signifie une adresse e-mail à laquelle une personne peut répondre ?
 
-Cela signifie que si vous envoyez un email à flynn@flynnsarcade.com et qu&#39;il répond avec kevinf@flynnsarcade.com, nous pouvons suivre la réponse. De plus, si vous envoyez des courriels à flynn@flynnsarcade.com et CC alan@encom.com, et qu&#39;Alan vous répond, il détectera également la réponse et mettra fin à la campagne.
+Cela signifie que si vous envoyez un e-mail à flynn@flynnsarcade.com et qu’il répond par kevinf@flynnsarcade.com, nous pouvons suivre la réponse. De plus, si vous envoyez un e-mail à flynn@flynnsarcade.com et CC alan@encom.com, et qu’Alan vous répond, il détectera également la réponse et terminera la campagne.

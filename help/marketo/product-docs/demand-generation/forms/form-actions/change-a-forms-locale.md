@@ -1,52 +1,52 @@
 ---
 unique-page-id: 2359657
 description: Modification des paramètres régionaux d’un formulaire - Documents Marketo - Documentation du produit
-title: Modification des paramètres régionaux d’un formulaire
+title: Modifier les paramètres régionaux d’un formulaire
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 1%
 
 ---
 
-# Modification des paramètres régionaux d’un formulaire {#change-a-forms-locale}
+# Modifier les paramètres régionaux d’un formulaire {#change-a-forms-locale}
 
-Lorsque vous traitez des formulaires internationaux, vous souhaiterez afficher les dates/heures dans les formats corrects. Marketo le fera automatiquement pour vous, tout ce que vous avez à faire est de définir la langue du formulaire et nous nous occupons du reste.
+Lorsque vous traitez des formulaires internationaux, vous souhaiterez afficher les dates/heures dans les formats appropriés. Marketo le fera automatiquement pour vous, tout ce que vous avez à faire est de définir les paramètres régionaux du formulaire et nous nous occupons du reste.
 
-1. Accédez à **Activités marketing**.
+1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **Modifier le formulaire**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Sous **Paramètres de formulaire**, cliquez sur **Paramètres**.
+1. Sous **[!UICONTROL Paramètres du formulaire]**, cliquez sur **[!UICONTROL Paramètres]**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Sélectionnez le **paramètre régional** de votre choix.
+1. Sélectionnez le **[!UICONTROL Paramètre régional du formulaire]** de votre choix.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Cliquez sur **Terminer**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Cliquez sur **Approuver et fermer** pour appliquer et enregistrer les modifications.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]** pour appliquer et enregistrer les modifications.
 
    >[!NOTE]
    >
-   >Le formulaire doit être validé pour être utilisé sur les landing pages.
+   >Le formulaire doit être approuvé pour être utilisé sur les pages de destination.
 
    ![](assets/image2014-9-15-12-3a53-3a52.png)
 
    >[!NOTE]
    >
-   >N’oubliez pas d’ [approuver le brouillon de page d’entrée](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
+   >N’oubliez pas de [approuver le brouillon de la page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
-   C&#39;est ça ! Les utilisateurs peuvent voir la date/l’heure affichée dans le bon paramètre régional.
+   C&#39;est ça ! Les utilisateurs peuvent voir la date et l’heure affichées dans le paramètre régional approprié.
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)

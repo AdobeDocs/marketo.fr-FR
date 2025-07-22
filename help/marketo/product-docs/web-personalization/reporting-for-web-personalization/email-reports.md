@@ -4,7 +4,7 @@ description: Rapports par e-mail - Documents Marketo - Documentation du produit
 title: Rapports par e-mail
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 2%
@@ -13,60 +13,60 @@ ht-degree: 2%
 
 # Rapports par e-mail {#email-reports}
 
-Pour personnaliser le rapport de messagerie automatisé que l’utilisateur reçoit, reportez-vous à la [section Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [[!UICONTROL Paramètres utilisateur] ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
-## Rapports de messagerie Web Personalization {#web-personalization-email-reports}
+## Rapports sur les e-mails de Web Personalization {#web-personalization-email-reports}
 
-Les rapports par courriel quotidiens ou hebdomadaires sont envoyés à l’adresse électronique de l’utilisateur, ce qui fournit les dernières données de performances sur l’organisation, la personne, la campagne et les ressources.
+Les rapports quotidiens ou hebdomadaires sur les e-mails sont envoyés à l’adresse e-mail de l’utilisateur et fournissent les dernières données de performance de l’organisation, des personnes, des campagnes et des ressources.
 
 Les rapports disponibles sont les suivants :
 
-## Rapport d’organisations quotidiennes/hebdomadaires {#daily-weekly-organizations-report}
+## Rapport Organisations quotidiennes/hebdomadaires {#daily-weekly-organizations-report}
 
 ![](assets/image2014-12-6-13-3a32-3a8.png)
 
-Le rapport quotidien/hebdomadaire envoie à l’utilisateur un courrier électronique contenant les 50 meilleures organisations visiteuses, notamment le nom de l’organisation, l’emplacement, le nombre de visites, de pages vues et le site de référence ou le terme de recherche utilisé.
+Le rapport quotidien/hebdomadaire envoie à l’utilisateur un e-mail des 50 principales organisations visiteuses, y compris le nom de l’organisation, le lieu, le nombre de visites, les pages vues et le site de référence ou le terme de recherche utilisé.
 
-## Rapport Personnes quotidiennes/hebdomadaires {#daily-weekly-people-report}
+## Rapport Personnes par jour/par semaine {#daily-weekly-people-report}
 
 ![](assets/two.png)
 
-Le rapport Personnes quotidien/hebdomadaire envoie à l’utilisateur un courrier électronique contenant les 100 dernières personnes sur le site Web, en fonction de : l’adresse électronique de la personne, le nom de l’organisation, l’emplacement, l’état, la date de capture de la personne et des segments auxquels elle appartient.
+Le rapport Personnes quotidien/hebdomadaire envoie à l’utilisateur un e-mail contenant les 100 dernières personnes du site web en fonction de : l’adresse e-mail de la personne, le nom de l’organisation, l’emplacement, l’État, la date de capture de la personne et les segments auxquels elle appartient.
 
-## Meilleures campagnes en temps réel {#top-performing-real-time-campaigns}
+## [!UICONTROL Campagnes en temps réel les plus performantes] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
-Le rapport Campagnes en temps réel les plus performantes envoie à l’utilisateur un e-mail des campagnes en temps réel les plus performantes, indiquant le nom, les impressions, les clics, le segment auquel la campagne a réagi et le taux de conversion de la campagne.
+Le rapport Campagnes en temps réel les plus performantes envoie à l’utilisateur un e-mail des campagnes en temps réel les plus performantes, affichant le nom de la campagne, les impressions, les clics, le segment auquel la campagne a réagi et le taux de conversion de la campagne.
 
-## Rapport Assets les plus performants {#top-performing-assets-report}
+## Rapport Assets le plus performant {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-Le rapport Assets les plus performantes envoie à l’utilisateur un e-mail des ressources de contenu les plus performantes, indiquant le nom et le pourcentage des correspondances de la ressource par rapport aux autres ressources.
+Le rapport Assets les plus performants envoie à l’utilisateur un e-mail des ressources de contenu les plus performantes, indiquant le nom de la ressource et le pourcentage de correspondances par rapport aux autres ressources.
 
 ## Rapport des ressources recommandées {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
-Le rapport Assets recommandé envoie à l’utilisateur un e-mail indiquant tout le contenu et le nombre de clics issus du contenu affiché dans le moteur de recommandation de contenu.
+Le rapport Assets recommandé envoie à l’utilisateur un e-mail contenant l’ensemble du contenu et le nombre de clics effectués à partir du contenu affiché dans le moteur de recommandation de contenu.
 
 ## Rapport de synthèse {#summary-report}
 
 ![](assets/six.png)
 
-Le rapport de synthèse envoie à l&#39;utilisateur un email (mensuel ou trimestriel) de l&#39;ensemble des opérations et des performances de contenu recommandées en fonction du nombre de clics et du nombre de personnes (directes ou assistées) impliquées dans la campagne personnalisée ou le contenu recommandé, avant de devenir une personne connue. Le rapport compare les résultats au mois ou au trimestre précédent.
+Le rapport de synthèse envoie à l’utilisateur un e-mail (mensuel ou trimestriel) de toutes les campagnes et performances du contenu recommandé en fonction du nombre de clics et du nombre de personnes (directes ou assistées) qui ont participé à la campagne personnalisée ou au contenu recommandé, puis qui sont devenues une personne connue. Le rapport compare les résultats au mois ou au trimestre précédent.
 
 >[!NOTE]
 >
 >**Définitions**
 >
->**Conversion directe** : un visiteur web qui clique sur une campagne personnalisée ou une ressource de contenu recommandé et au cours de la même session de visite remplit n’importe quel formulaire du site web avec son adresse électronique.
+>**[!UICONTROL Conversions directes]** : un visiteur web qui clique sur une ressource de campagne personnalisée ou de contenu recommandé et qui, au cours de la même session de visite, remplit n’importe quel formulaire du site web avec son adresse e-mail.
 >
->**Conversion assistée** : visiteur web qui remplit n’importe quel formulaire sur le site web et laisse son adresse électronique, tandis que, lors d’une visite précédente (au cours des 6 derniers mois), il a cliqué sur une campagne personnalisée ou une ressource de contenu recommandée.
+>**[!UICONTROL Conversions assistées]** : un visiteur web qui remplit n’importe quel formulaire du site web et laisse son adresse e-mail, alors qu’il a cliqué lors d’une visite précédente (au cours des 6 derniers mois) sur une ressource de campagne personnalisée ou de contenu recommandé.
 
 >[!NOTE]
 >
->Marketo Web Personalization capture l’adresse électronique du visiteur Web pour tout formulaire complété sur le site Web. Il s’agit de la personne qui est utilisée dans le rapport de synthèse, affichée sur la page Personnes de Web Personalization.
+>Marketo Web Personalization capture l’adresse e-mail du visiteur web pour tout formulaire rempli sur le site web. Affiché dans la page [!UICONTROL Web Personalization] [!UICONTROL Personnes], il s’agit de la personne utilisée dans le rapport récapitulatif.
 
-Pour personnaliser le rapport de messagerie automatisé que l’utilisateur reçoit, reportez-vous à la [section Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [Paramètres utilisateur](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

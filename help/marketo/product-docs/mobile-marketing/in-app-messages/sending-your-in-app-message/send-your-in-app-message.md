@@ -1,37 +1,37 @@
 ---
-description: Envoyer votre message in-app - Documents Marketo - Documentation du produit
-title: Envoi de votre message in-app
+description: Envoyer Votre Message In-App - Documents Marketo - Documentation Du Produit
+title: Envoyer Votre Message In-App
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# Envoi de votre message in-app {#send-your-in-app-message}
+# Envoyer Votre Message In-App {#send-your-in-app-message}
 
-Après avoir créé votre message in-app, il est temps de l’envoyer. Les étapes sont les suivantes :
+Une fois votre message in-app créé, il est temps de l’envoyer. Les étapes sont les suivantes :
 
 >[!NOTE]
 >
->Lorsque vous testez un message in-app déclenché par l’ouverture de l’application, veillez à télécharger l’application sur le téléphone, à l’ouvrir et à la fermer. Cela initialise le code du SDK. La prochaine fois que vous ouvrez l’application, le message in-app s’affiche. Les événements personnalisés se déclenchent la première fois que l’application est ouverte.
+>Lorsque vous testez un message in-app déclenché par [!UICONTROL App Open], veillez à télécharger l’application sur le téléphone, à l’ouvrir et à la fermer. Cette opération initialise le code SDK. La prochaine fois que vous ouvrez l’application, le message in-app s’affiche. Les événements personnalisés se déclenchent la première fois que l’application est ouverte.
 
-1. Dans Activités marketing, cliquez sur le dossier dans lequel vous souhaitez que le programme soit actif et sélectionnez **Nouveau programme**.
+1. Dans [!UICONTROL Activités marketing], cliquez sur le dossier dans lequel vous souhaitez que le programme réside et choisissez **[!UICONTROL Nouveau programme]**.
 
-   ![Image One](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
+   ![Image Un](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
 1. Saisissez un nom.
 
    ![Image 2](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. Sélectionnez le type de programme In-App dans la liste déroulante et cliquez sur **Créer**.
+1. Sélectionnez le type de programme In-App dans la liste déroulante, puis cliquez sur **[!UICONTROL Créer]**.
 
-   ![Image Trois](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
+   ![Image trois](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
-1. Utilisez le Panneau de Contrôle pour définir qui, quoi et quand du message in-app. Une fois que vous avez terminé, approuvez-le. Il y a un article distinct pour chaque étape.
+1. Utilisez le Panneau de Contrôle  pour définir le qui, quoi et quand du message in-app, et lorsque vous avez terminé, approuvez-le. Il y a un article distinct pour chaque étape.
 
-   ![Image Quatre](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
+   ![Image 4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Prêt ? Commencez par [définir l’audience](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Prêt ? Commencez par [ définir l’audience ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

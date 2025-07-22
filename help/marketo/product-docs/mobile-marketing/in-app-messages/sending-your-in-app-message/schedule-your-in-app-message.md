@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11370503
-description: Planification de votre message in-app - Documents Marketo - Documentation du produit
-title: Planification de votre message in-app
+description: Planifier Votre Message In-App - Documents Marketo - Documentation Du Produit
+title: Planifier Votre Message In-App
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Planification de votre message in-app {#schedule-your-in-app-message}
+# Planifier Votre Message In-App {#schedule-your-in-app-message}
 
-Envoyez votre message maintenant ou programmez-le pour plus tard.
+Envoyez votre message maintenant ou planifiez-le pour plus tard.
 
-1. Pour planifier un message in-app, sélectionnez **Définir la date future** et choisissez une date de début dans le calendrier déroulant.
+1. Pour planifier un message in-app, sélectionnez **[!UICONTROL Définir la date future]** et choisissez une date de début dans le calendrier déroulant.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,8 +27,8 @@ Envoyez votre message maintenant ou programmez-le pour plus tard.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Ou, pour exécuter le programme en ce moment, sélectionnez **Exécuter immédiatement**. Les champs Date de début disparaissent.
+1. Pour exécuter le programme maintenant, sélectionnez **[!UICONTROL Exécuter immédiatement]**. Les champs Date de début disparaissent.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Facile ! L’étape [Validation](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) est la dernière mais non la moindre.
+Doucement ! Enfin et surtout, l’étape [Approbation](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).

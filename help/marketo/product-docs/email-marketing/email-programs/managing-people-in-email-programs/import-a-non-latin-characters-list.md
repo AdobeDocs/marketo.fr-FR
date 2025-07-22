@@ -1,33 +1,33 @@
 ---
 unique-page-id: 5472678
-description: Importation d’une liste de caractères non latins - Documents Marketo - Documentation du produit
-title: Importation d’une liste de caractères non latins
+description: Importer une liste de caractères non latins - Documents Marketo - Documentation du produit
+title: Importer une liste de caractères non latins
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-# Importation d’une liste de caractères non latins {#import-a-non-latin-characters-list}
+# Importer une liste de caractères non latins {#import-a-non-latin-characters-list}
 
-Vous essayez d&#39;importer un fichier qui n&#39;est pas en anglais ? La liste semble parfaite lorsque vous l’ouvrez avec Excel.
+Vous essayez d&#39;importer un fichier qui n&#39;est pas en anglais ? La liste s’affiche parfaitement lorsque vous l’ouvrez avec Excel.
 
 ![](assets/image2015-2-10-9-3a34-3a57.png)
 
-Mais lorsque vous l’importez dans Marketo, il se peut que les caractères non anglais ne soient pas correctement sélectionnés.
+Cependant, lorsque vous l’importez dans Marketo, il se peut que les caractères non anglais ne soient pas correctement récupérés.
 
 ![](assets/image2015-2-10-9-3a35-3a49.png)
 
-Cela est dû au fait que le fichier n’est pas enregistré correctement pour que Marketo reconnaisse tous les caractères non latins. La bonne nouvelle, c&#39;est qu&#39;il y a quelques étapes simples que vous pouvez suivre pour y remédier.
+En effet, le fichier n’est pas enregistré correctement pour que Marketo puisse reconnaître tous les caractères non latins. La bonne nouvelle est qu’il existe quelques étapes simples que vous pouvez suivre pour résoudre le problème.
 
-1. Sélectionnez **Enregistrer sous...** dans le menu **Fichier** dans Excel.
+1. Sélectionnez **[!UICONTROL Enregistrer sous]...** dans le menu **[!UICONTROL Fichier]** d’Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Choisissez **UTF-16 Unicode Text (.txt)** comme option **Format**. Le fichier sera alors codé de la manière dont Marketo peut les afficher.
+1. Choisissez **[!UICONTROL Texte Unicode UTF-16 (.txt)]** comme option **[!UICONTROL Format]**. Cela encode le fichier de la manière dont Marketo peut les afficher.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -35,11 +35,11 @@ Cela est dû au fait que le fichier n’est pas enregistré correctement pour qu
    >
    >Marketo prend également en charge UTF-8, Shift-JIS ou EUC-JP.
 
-1. Excel enregistre le nouveau fichier sous la forme d’un fichier texte avec une extension .txt. Mais il convertit également toutes les virgules du fichier en onglets. Nous devons le refaire.
+1. Excel enregistre le nouveau fichier en tant que fichier texte avec une extension .txt. Mais elle convertit également toutes les virgules du fichier en onglets. Nous devons le changer à nouveau.
 
    >[!TIP]
    >
-   >Vous pouvez ouvrir le fichier texte à l’aide de **Notepad** si vous utilisez Windows ou **TextEdit** si vous utilisez un Mac.
+   >Vous pouvez ouvrir le fichier texte en utilisant **[!DNL Notepad]** si vous utilisez Windows ou **[!DNL TextEdit]** si vous utilisez un Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Cela est dû au fait que le fichier n’est pas enregistré correctement pour qu
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Sélectionnez **Rechercher et remplacer...** dans le menu **Modifier**.
+1. Sélectionnez **[!UICONTROL Rechercher et remplacer]...** dans le menu **[!UICONTROL Modifier]**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >L’action équivalente pour les utilisateurs de Windows est : **Modifier > Remplacer...**.
+   >L’action équivalente pour les utilisateurs de Windows est : **[!UICONTROL Modifier] > [!UICONTROL Remplacer]...**
 
-1. Collez l’onglet que vous avez copié à l’étape 4 dans la première zone (à remplacer), puis saisissez une virgule dans la seconde zone (remplacer par). Cliquez ensuite sur **All**.
+1. Collez l’onglet que vous avez copié à l’étape 4 dans la première zone (à remplacer), puis saisissez une virgule dans la seconde zone (à remplacer par). Cliquez ensuite sur **[!UICONTROL Tout]**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
@@ -63,12 +63,12 @@ Cela est dû au fait que le fichier n’est pas enregistré correctement pour qu
 
    ![](assets/image2015-2-10-10-3a14-3a45.png)
 
-1. Importez le nouveau fichier dans Marketo et les informations doivent s&#39;afficher correctement cette fois-ci.
+1. Importez le nouveau fichier dans Marketo et cette fois, les informations doivent s’afficher correctement.
 
    ![](assets/image2015-2-10-10-3a16-3a9.png)
 
    >[!NOTE]
    >
-   >Les champs Date/Heure importés sont traités comme heure centrale. Si des champs Date/Heure se trouvent dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour les transformer en heure normale du Centre (Amérique/Chicago).
+   >Tous les champs de date et d’heure importés sont traités comme des champs d’heure centrale. Si vous avez des champs date/heure dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour les transformer en Heure du Centre (Amérique/Chicago).
 
-Nous savons que c&#39;est bizarre, mais ça marche. Bon import !
+On sait que c&#39;est bizarre, mais ça marche. Bonne importation !

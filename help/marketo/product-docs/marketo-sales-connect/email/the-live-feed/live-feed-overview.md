@@ -1,66 +1,66 @@
 ---
 unique-page-id: 13796471
-description: Présentation du flux en direct - Documents Marketo - Documentation du produit
-title: Présentation du flux en direct
+description: Présentation Des Flux En Direct - Documents Marketo - Documentation Du Produit
+title: Aperçu des flux en direct
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Présentation du flux en direct {#live-feed-overview}
+# Aperçu des flux en direct {#live-feed-overview}
 
-Le flux en direct est une fenêtre flottante qui peut être lancée à partir de l’application web ou du plug-in Gmail et qui offre un aperçu en temps réel de l’engagement des prospects.
+Le flux en direct est une fenêtre flottante qui peut être lancée à partir de l’application web ou du plug-in Gmail et offre un aperçu en temps réel de l’engagement des prospects.
 
 ## Onglet Engagement {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
-Consultez Engagement (vues, clics et réponses) avec vos emails MSE en temps réel.
+Affichez l’engagement (vues, clics et réponses) avec vos e-mails MSE en temps réel.
 
-Les personnes marquées de violet interagissent avec votre contenu marketing. Ces personnes peuvent ne pas exister dans MSE. Vous pouvez cliquer sur la flèche vers le bas pour les ajouter et obtenir une liste d’autres actions rapides.
+Les personnes marquées de violet interagissent avec votre contenu marketing. Ces personnes peuvent ne pas exister dans l’ESM. Vous pouvez cliquer sur la flèche vers le bas pour les ajouter et obtenir une liste d’autres actions rapides.
 
 ![](assets/purple.png)
 
-Les personnes marquées d’une ligne bleue représentent l’engagement envers les emails envoyés via MSE.
+Les personnes marquées d&#39;une ligne bleue représentent l&#39;engagement par rapport aux e-mails envoyés via MSE.
 
 >[!NOTE]
 >
->Dans l’ensemble, nous déterminons les emplacements aussi précisément que possible en fonction du suivi IP. Malheureusement, ce n&#39;est pas une science exacte. Si l&#39;emplacement de l&#39;un de vos destinataires est incorrect, voici quelques options sur ce qui s&#39;est peut-être passé :
+>Dans l’ensemble, nous déterminons les emplacements aussi précisément que possible en fonction du suivi IP. Malheureusement, ce n&#39;est pas une science exacte. Si nous nous trompons d’emplacement pour l’un de vos destinataires, voici quelques options concernant ce qui a pu se produire :
 >
->* Si votre destinataire était connecté au réseau sans fil pour une entreprise qui a son siège informatique dans une autre ville ou un autre pays, nous consignerions cet emplacement plutôt que la langue courante du destinataire.
->* Si votre email a été transféré ou ouvert par une personne dans le champ CC/Cci, nous essayons d&#39;afficher précisément l&#39;emplacement de ces personnes.
+>* Si votre destinataire était connecté au réseau sans fil d&#39;une entreprise dont le siège social informatique se trouve dans une autre ville ou un autre pays, nous enregistrerions cet emplacement plutôt que le paramètre régional actuel du destinataire.
+>* Si votre e-mail a été transféré ou ouvert par une personne dans le champ CC/Cci, nous essayons d’afficher précisément l’emplacement de ces personnes.
 
 ## Onglet Tâches {#tasks-tab}
 
 ![](assets/task.jpg)
 
-Vérifiez rapidement votre liste de tâches directement dans le flux en direct.
+Vérifiez rapidement votre liste de tâches à partir du flux en direct.
 
-Créez ou gérez des tâches ouvertes.
+Créez de nouvelles tâches ou gérez les tâches ouvertes.
 
 Filtrez sur aujourd’hui, demain, aujourd’hui *et* demain ou les 7 prochains jours.
 
 >[!NOTE]
 >
->Vous ne pouvez pas utiliser le filtre de date personnalisé dans le flux en direct, mais vous pouvez le faire dans l’application web.
+>Vous ne pouvez pas utiliser le filtre de date personnalisé dans le flux dynamique, mais vous pouvez le faire dans l’application web.
 
-Utilisez les boutons d’action rapide pour lancer rapidement un appel, envoyer un courrier électronique ou accéder au profil Linkedin d’une personne.
+Utilisez les boutons d’action rapide pour passer rapidement un appel, envoyer un e-mail ou accéder au profil [!DNL Linkedin] d’une personne.
 
 ## Onglet Cible {#target-tab}
 
 ![](assets/target.jpg)
 
-Voir vos meilleures personnes (classées du plus haut au plus bas) classées par score de piste. Le score de piste est extrait de votre instance Marketo.
+Affichez vos meilleures personnes (classées du plus élevé au plus bas) classées par score du prospect. Le score du prospect est extrait de votre instance Marketo.
 
-* Les pistes seront générées lorsque leur score de personne augmente dans Marketo.
-* Nous montrons les 50 premières pistes.
-* Vous ne verrez que les personnes qui vous ont été affectées dans Salesforce.
+* Les leads seront générés lorsque le score de leur personne augmentera dans Marketo.
+* Nous montrons les 50 meilleures pistes.
+* Vous ne verrez que les personnes qui vous ont été affectées dans [!DNL Salesforce].
 
-## Glossaire des icônes {#icon-glossary}
+## Icône Glossaire {#icon-glossary}
 
 <table> 
  <colgroup> 
@@ -73,32 +73,32 @@ Voir vos meilleures personnes (classées du plus haut au plus bas) classées par
     <div> 
      <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>Quelqu'un a vu votre email</p></td> 
+   <td><p>Quelqu’un a consulté votre e-mail.</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>Quelqu’un a cliqué sur un lien dans votre email</p></td> 
+   <td><p>Quelqu’un a cliqué sur un lien dans votre e-mail.</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td><p>Quelqu'un a répondu à votre email</p></td> 
+   <td><p>Quelqu'un a répondu à votre e-mail</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
     </div></td> 
-   <td colspan="1">Toute notification répertoriée sous Moments intéressants, y compris Email, Web et Jalons</td> 
+   <td colspan="1">Toute notification répertoriée sous Moments significatifs, y compris E-mail, Web et Jalons</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Si vous constatez qu’une personne consulte votre courrier électronique à plusieurs reprises dans votre flux en direct, elle aurait pu transférer le courrier électronique à d’autres destinataires. C’est probablement le cas si vous remarquez que l’emplacement commence à changer pour ces vues.
+>Si quelqu’un consulte votre e-mail à plusieurs reprises dans votre flux dynamique, il se peut qu’il ait transféré l’e-mail à d’autres destinataires. C’est probablement le cas si vous remarquez que l’emplacement commence à changer pour ces vues.

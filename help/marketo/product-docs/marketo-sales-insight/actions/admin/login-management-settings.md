@@ -1,75 +1,75 @@
 ---
-description: Paramètres de gestion de la connexion - Documents Marketo - Documentation du produit
-title: Paramètres de gestion de la connexion
+description: Paramètres de gestion des connexions - Documents Marketo - Documentation du produit
+title: Paramètres de gestion des connexions
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
 
-# Paramètres de gestion de la connexion {#login-management-settings}
+# Paramètres de gestion des connexions {#login-management-settings}
 
-Les paramètres de gestion de la connexion permettent aux administrateurs de définir les préférences d’authentification pour les utilisateurs des actions Sales Insight à un niveau global.
+Les paramètres de gestion des connexions permettent aux administrateurs de définir les préférences d’authentification des utilisateurs des actions Sales Insight à un niveau global.
 
 >[!NOTE]
 >
->Par défaut, l’option Salesforce uniquement est sélectionnée pour les instances d’actions Sales Insight. Nous recommandons ce paramètre afin que les utilisateurs puissent [se connecter automatiquement](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) à partir de Salesforce.
+>Par défaut, l&#39;option [!UICONTROL Salesforce uniquement] sera sélectionnée pour les instances [!DNL Sales Insight Actions]. Nous recommandons ce paramètre afin que les utilisateurs puissent [se connecter automatiquement](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) depuis [!DNL Salesforce].
 
-## Mise à jour des paramètres de gestion de la connexion {#update-login-management-settings}
+## Mettre à jour les paramètres de gestion des connexions {#update-login-management-settings}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Pour mettre à jour vos préférences de gestion de connexion, procédez comme suit.
+Pour mettre à jour vos préférences de gestion des connexions, procédez comme suit.
 
-1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/login-management-settings-1.png)
 
-1. Sous Paramètres d’administration, cliquez sur **Général**.
+1. Sous [!UICONTROL Paramètres d’administration], cliquez sur **[!UICONTROL Général]**.
 
    ![](assets/login-management-settings-2.png)
 
-1. Faites défiler l’écran jusqu’à la carte Gestion de connexion et sélectionnez le paramètre souhaité (dans cet exemple, nous choisissons Salesforce uniquement). Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Faites défiler jusqu’à la vignette [!UICONTROL Gestion des connexions] et sélectionnez le paramètre souhaité (dans cet exemple, nous choisissons Salesforce uniquement). Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/login-management-settings-3.png)
 
 ## FAQ sur Salesforce uniquement {#salesforce-only-faq}
 
-Salesforce uniquement signifie que les utilisateurs peuvent uniquement s’authentifier pour utiliser les actions Sales Insight avec Salesforce. Il s’agit de la sélection par défaut pour les instances d’actions Sales Insight. Elle est recommandée en raison de sa capacité à permettre aux utilisateurs de s’authentifier de manière transparente sans avoir à gérer un nom d’utilisateur et un mot de passe.
+Salesforce uniquement signifie que les utilisateurs peuvent uniquement s’authentifier pour utiliser [!DNL Sales Insight Actions] avec [!DNL Salesforce]. Il s’agit de la sélection par défaut pour les instances [!DNL Sales Insight Actions]. Elle est recommandée en raison de sa capacité à permettre aux utilisateurs de s’authentifier de manière transparente sans avoir à gérer un nom d’utilisateur et un mot de passe.
 
-### Comment un nouvel utilisateur de mon instance active-t-il son compte lorsque &quot;Salesforce uniquement&quot; est sélectionné ? {#activate-when-salesforce-only-is-selected}
+### Comment un nouvel utilisateur de mon instance active-t-il son compte lorsque « [!UICONTROL Salesforce uniquement] » est sélectionné ? {#activate-when-salesforce-only-is-selected}
 
-Lorsque vous cliquez sur le bouton **Prise en main** dans le courrier électronique d’invitation, les nouveaux utilisateurs sont envoyés vers l’écran d’activation d’un compte, où ils devront se connecter à leur instance Salesforce pour activer leur compte d’actions de statistiques sur les ventes.
+Lorsqu’ils cliquent sur le bouton **[!UICONTROL Prise en main]** dans l’e-mail d’invitation, les nouveaux utilisateurs sont envoyés à un écran d’activation du compte où ils doivent se connecter à leur instance Salesforce pour activer leur compte [!DNL Sales Insight Actions].
 
 ![](assets/login-management-settings-4.png)
 
-### Avec quelles méthodes d’authentification mes utilisateurs sont-ils autorisés à s’authentifier lorsque &quot;Salesforce uniquement&quot; est sélectionné ? {#what-authentication-methods}
+### Avec quelles méthodes d&#39;authentification mes utilisateurs sont-ils autorisés à s&#39;authentifier lorsque « [!UICONTROL Salesforce uniquement] » est sélectionné ? {#what-authentication-methods}
 
-Lorsque vous accédez à notre écran de connexion, les utilisateurs saisissent d’abord leur adresse électronique. Ils cliqueront ensuite sur le bouton Salesforce One Click Login (Connexion un clic), où ils pourront s’authentifier à l’aide du compte Salesforce auquel ils sont connectés.
+Lorsque vous accédez à notre écran de connexion, les utilisateurs saisissent d’abord leur adresse e-mail. Ils cliqueront ensuite sur le bouton Salesforce One Click [!UICONTROL Connexion], où ils pourront s’authentifier à l’aide du compte Salesforce auquel ils sont connectés.
 
 >[!NOTE]
 >
->Cela concerne uniquement les utilisateurs qui accèdent directement à l’écran de connexion. Les utilisateurs qui accèdent aux actions à partir de Salesforce seront connectés à l’aide de l’option [Connexion automatique](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+>Cela ne concerne que les utilisateurs qui accèdent directement à l’écran de connexion. Les utilisateurs qui accèdent aux actions à partir de [!DNL Salesforce] seront connectés à l’aide de l’option [Connexion automatique](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ![](assets/login-management-settings-5.png)
 
-### Comment l’authentification de l’utilisateur est-elle gérée pour les actions lorsqu’un utilisateur accède à une fonction Actions à partir de Salesforce et que &quot;Salesforce uniquement&quot; est sélectionné ? {#how-is-user-authentication-handled}
+### Comment l’authentification des utilisateurs est-elle gérée pour les actions lorsqu’un utilisateur accède à une fonctionnalité Actions à partir de Salesforce et que « Salesforce uniquement » est sélectionné ? {#how-is-user-authentication-handled}
 
-Lorsqu’un utilisateur clique sur l’une des actions (Appel, Email, Campagne, Tâches, Liste des campagnes, etc..), nous utilisons son authentification SFDC pour le connecter automatiquement à son compte d’actions de statistiques sur les ventes. Nous appelons cette authentification [Connexion automatique](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+Lorsqu’un utilisateur clique sur l’une des actions (Appel, E-mail, Campagne, Tâches, Liste des campagnes, etc.), nous utilisons son authentification SFDC pour le connecter automatiquement à son compte [!DNL Sales Insight Actions]. Nous appelons cette authentification [connexion automatique](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ## FAQ sur toutes les méthodes de connexion {#all-login-methods-faq}
 
-### Comment un nouvel utilisateur de mon instance active-t-il son compte lorsqu’il sélectionne &quot;Toutes les méthodes de connexion&quot; ? {#activate-when-all-login-methods-is-selected}
+### Comment un nouvel utilisateur de mon instance active-t-il son compte lorsque « Toutes les méthodes de connexion » est sélectionné ? {#activate-when-all-login-methods-is-selected}
 
-Lorsqu’un nouvel utilisateur est invité à rejoindre une instance, il reçoit un courrier électronique d’activation de compte. Ils cliqueront sur le bouton &quot;Commencer&quot; qui les mènera alors à une page leur demandant de créer et confirmer un mot de passe. Une fois créés, leur compte sera activé et ils seront pris en charge via le workflow d’intégration.
+Lorsqu’un nouvel utilisateur est invité à une instance, il reçoit un e-mail d’activation du compte. Ils cliqueront sur le bouton « Commencer » qui les amènera à une page qui leur demande de créer et de confirmer un mot de passe. Une fois ceci créé, leur compte sera activé et ils seront pris en compte via le workflow d’intégration.
 
 ![](assets/login-management-settings-6.png)
 
-### Avec quoi les utilisateurs de mon instance sont-ils autorisés à se connecter lorsque l’option &quot;Toutes les méthodes de connexion&quot; est sélectionnée ? {#what-are-users-allowed-to-log-in-with-all-login}
+### Avec quoi les utilisateurs de mon instance sont-ils autorisés à se connecter lorsque « [!UICONTROL Toutes les méthodes de connexion] » est sélectionné ? {#what-are-users-allowed-to-log-in-with-all-login}
 
-Lorsque vous utilisez notre page de connexion, les utilisateurs saisissent d’abord leur adresse électronique. Ils seront ensuite envoyés sur une page qui leur donne toutes les options de connexion (nom d’utilisateur/mot de passe, SFDC, Gmail, SSO) avec lesquelles s’authentifier.
+Lorsque vous utilisez notre page de connexion, les utilisateurs saisissent d&#39;abord leur adresse e-mail. Ils sont ensuite envoyés à une page qui leur propose toutes les options de connexion (nom d’utilisateur/mot de passe, SFDC, Gmail, SSO) avec lesquelles s’authentifier.

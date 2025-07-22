@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147360
-description: Ajout de jetons à un lien de courrier électronique - Documents Marketo - Documentation du produit
-title: Ajout de jetons à un lien de courrier électronique
+description: Ajout de jetons à un lien e-mail - Documents Marketo - Documentation du produit
+title: Ajouter des jetons à un lien e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
 
 ---
 
-# Ajout de jetons à un lien de courrier électronique {#add-tokens-to-an-email-link}
+# Ajouter des jetons à un lien e-mail {#add-tokens-to-an-email-link}
 
-Pour insérer des paramètres supplémentaires et spécifiques aux personnes dans vos liens, vous pouvez utiliser des jetons. Voici comment.
+Pour insérer des paramètres supplémentaires et spécifiques à une personne dans vos liens, vous pouvez utiliser des jetons. Voici comment procéder.
 
-1. Sélectionnez votre adresse électronique et cliquez sur l’onglet **Edit Draft** (Modifier le brouillon).
+1. Sélectionnez votre e-mail et cliquez sur l’onglet **[!UICONTROL Modifier le brouillon]**.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Pour insérer des paramètres supplémentaires et spécifiques aux personnes dan
 
    ![](assets/two.png)
 
-1. Recherchez ou écrivez le texte du lien. Surlignez-le et cliquez sur l&#39;icône **Insérer/Modifier le lien**.
+1. Recherchez ou écrivez le texte du lien. Mettez-le en surbrillance, puis cliquez sur l’icône **[!UICONTROL Insérer/modifier le lien]**.
 
    ![](assets/three.png)
 
-1. Saisissez le ou les jetons souhaités dans **URL** et cliquez sur **Insérer**.
+1. Saisissez le ou les jetons souhaités dans **[!UICONTROL URL]**, puis cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/four.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/five.png)
 

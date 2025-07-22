@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360020
-description: Exporter un rapport vers Excel - Documents Marketo - Documentation du produit
-title: Exportation d’un rapport vers Excel
+description: Exportation d’un rapport vers  [!DNL Excel] - Documents Marketo - Documentation du produit
+title: Exporter un rapport vers  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Exportation d’un rapport vers Excel {#export-a-report-to-excel}
+# Exporter un rapport vers [!DNL Excel] {#export-a-report-to-excel}
 
-Vous pouvez exporter n’importe quel rapport vers un fichier Excel afin d’utiliser les données d’autres logiciels.
+Vous pouvez exporter n’importe quel rapport dans un fichier [!DNL Excel] afin de l’utiliser avec les données d’autres logiciels.
 
-1. Accédez à la zone **Activités marketing**.
+1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **Rapport** .
+1. Sélectionnez votre rapport dans l’arborescence de navigation et cliquez sur l’onglet **[!UICONTROL Rapport]**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Cliquez sur le bouton **Exporter** .
+1. Cliquez sur le bouton **[!UICONTROL Exporter]**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   C&#39;est tout ! Le navigateur vous invite à enregistrer le fichier Excel sur votre système.
+   C&#39;est tout ! Votre navigateur vous invite à enregistrer le fichier [!DNL Excel] sur votre système.
 
    >[!MORELIKETHIS]
    >

@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger - Emails entiers - Documents Marketo - Documentation du produit
-title: Champion/Challenger - Emails entiers
+description: Champion/Challenger - Emails Entiers - Documents Marketo - Documentation Du Produit
+title: Champion/Challenger - Whole Emails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Champion/Challenger : Emails entiers {#champion-challenger-whole-emails}
+# Champion/Challenger : Whole Emails {#champion-challenger-whole-emails}
 
-Testez des emails entiers les uns par rapport aux autres. Lorsque le test est terminé, envoyez le meilleur performant.
+Testez des e-mails entiers les uns par rapport aux autres. Lorsque le test est terminé, envoyez le meilleur résultat.
 
 >[!PREREQUISITES]
 >
->[Ajouter un champion de messagerie/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Ajouter un e-mail Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Dans l’éditeur de test d’email, sélectionnez **Enmails entiers** dans la liste déroulante **Type de test** .
+1. Dans l’éditeur de test d’e-mail, sélectionnez **[!UICONTROL E-mails complets]** dans le menu déroulant **[!UICONTROL Type de test]**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
    >[!NOTE]
    >
-   >Rappel : L&#39;email d&#39;origine est le champion. Les concurrents sont en compétition.
+   >Souvenez-vous : l’e-mail d’origine est le champion. Les concurrents lui font concurrence.
 
-1. Recherchez et sélectionnez le ou les courriers électroniques **Challengers**, puis cliquez sur **Clone**.
+1. Recherchez et sélectionnez le ou les e-mails **[!UICONTROL Challengers]**, puis cliquez sur **[!UICONTROL Cloner]**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
    >[!TIP]
    >
-   >Le clonage effectue une copie de l’e-mail challenger sous le test d’e-mail.
+   >Le clonage crée une copie de l’e-mail du concurrent sous le test d’e-mail.
 
-1. Faites glisser le curseur pour décider de la répartition en pourcentage des personnes qui reçoivent les emails du challenger par rapport aux emails des champions.
+1. Faites glisser le curseur pour décider de la répartition en pourcentage des personnes qui reçoivent les e-mails du challenger par rapport aux champions.
 
    ![](assets/image2014-9-12-16-3a41-3a44.png)
 
@@ -43,16 +43,16 @@ Testez des emails entiers les uns par rapport aux autres. Lorsque le test est te
    >
    >**Exemple**
    >
-   >Dans la distribution ci-dessus, 15 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des emails des concurrents et 85 % reçoivent le courriel du champion. Les 15 % d’adresses électroniques concurrentes sont également répartis. Lorsque le test est terminé, vous pouvez désigner un gagnant manuellement. À partir de ce moment, toutes les futures personnes recevront le contenu le plus performant. Dans les campagnes de déclenchement, le pourcentage réalisé peut différer du pourcentage sélectionné, car la distribution peut ne pas correspondre exactement aux pourcentages choisis. Cela peut se produire lorsqu&#39;une variante traite un nombre important de personnes désinscrites ou lorsqu&#39;une variante est un email opérationnel alors que les autres ne le sont pas.
+   >Dans la distribution affichée ci-dessus, 15 % de l’audience totale spécifiée dans la liste dynamique reçoit l’un des e-mails des concurrents et 85 % reçoivent l’e-mail du champion. Plusieurs e-mails de challenger partagent les 15 % de manière égale. Une fois le test terminé, vous pouvez désigner un gagnant manuellement. À partir de là, tous les futurs utilisateurs recevront le contenu le plus performant. Dans les campagnes Trigger, le pourcentage réalisé peut différer du pourcentage que vous sélectionnez, car la distribution peut ne pas correspondre précisément aux pourcentages choisis. Cela peut se produire lorsqu&#39;une variante traite un nombre important de personnes désabonnées, ou lorsqu&#39;une variante est un e-mail opérationnel alors que les autres ne le sont pas.
 
-   Pour obtenir un degré de confiance statistique, assurez-vous que le pourcentage assigné aux challengers inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.
+   Pour obtenir un niveau de confiance statistique, assurez-vous que le pourcentage que vous affectez aux challengers inclut suffisamment de personnes pour que votre test soit valide. Ne vous laissez pas berner par des résultats peu concluants.
 
 1. Cliquez sur **Suivant**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
-1. Progression ! Continuons !
+1. Progression ! Continuons.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger : Définir les critères de champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Champion/Challenger : Définir les critères du champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

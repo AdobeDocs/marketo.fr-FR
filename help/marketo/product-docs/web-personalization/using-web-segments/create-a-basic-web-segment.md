@@ -1,25 +1,25 @@
 ---
 unique-page-id: 4719344
 description: Création d’un segment web de base - Documents Marketo - Documentation du produit
-title: Création d’un segment web de base
+title: Créer un segment web de base
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Création d’un segment web de base {#create-a-basic-web-segment}
+# Créer un segment web de base {#create-a-basic-web-segment}
 
-Créons un segment de base ciblant tous les visiteurs du Web en provenance des États-Unis et du secteur des services financiers.
+Créons un segment de base ciblant tous les visiteurs web des États-Unis et du secteur des services financiers.
 
-1. Accédez à **Segments**.
+1. Accédez à **[!UICONTROL Segments]**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Cliquez sur **Créer**.
+1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,11 +27,11 @@ Créons un segment de base ciblant tous les visiteurs du Web en provenance des �
 
    ![](assets/segment-name.png)
 
-1. Faites glisser **Emplacement** depuis le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faites glisser **[!UICONTROL Location]** à partir du menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez les **États-Unis**.
+1. Sélectionnez un pays à ajouter dans la liste déroulante. Sélectionnez **États-Unis**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -39,21 +39,21 @@ Créons un segment de base ciblant tous les visiteurs du Web en provenance des �
    >
    >Le nombre de villes est limité à 300 par segment.
 
-1. Faites glisser **Industries** depuis le menu de droite et déposez-le dans l’éditeur de segments.
+1. Faites glisser **[!UICONTROL Industries]** depuis le menu de droite et déposez-le dans l’éditeur de segments.
 
    ![](assets/industries-hand.jpg)
 
-1. Sélectionnez Industries à ajouter dans la liste déroulante. Sélectionnez le **secteur des services financiers**.
+1. Sélectionnez [!UICONTROL Industries] à ajouter dans la liste déroulante. Sélectionnez l’option **[!UICONTROL Services financiers] Secteur**.
 
    ![](assets/segment-industries.png)
 
-   Vous avez maintenant configuré un segment de base pour tous les prospects qui visitent votre site web en provenance des Etats-Unis et du secteur financier.
+   Vous avez maintenant configuré un segment de base pour tous les prospects qui visitent votre site Web en provenance des États-Unis et du secteur financier.
 
-1. Cliquez sur **Enregistrer** pour enregistrer le segment ou sur **Enregistrer et définir la campagne** pour accéder à la page Campagnes.
+1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer le segment ou **[!UICONTROL Enregistrer et définir la campagne]** pour accéder à la page Campagnes .
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Vous avez maintenant segmenté vos visiteurs en provenance des États-Unis et ajouté le secteur des services financiers.
+Maintenant que vous avez segmenté vos visiteurs des États-Unis, allez-y et ajoutez le secteur des services financiers.
 
 >[!MORELIKETHIS]
 >

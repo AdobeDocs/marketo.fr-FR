@@ -1,42 +1,42 @@
 ---
 unique-page-id: 14352464
-description: Tableaux de bord de rapports dans Salesforce - Documents Marketo - Documentation du produit
-title: Tableaux de bord des rapports dans Salesforce
+description: Tableaux de bord de création de rapports dans Salesforce - Documents Marketo - Documentation du produit
+title: Tableaux de bord de création de rapports dans Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Tableaux de bord des rapports dans Salesforce {#reporting-dashboards-in-salesforce}
+# Tableaux de bord de création de rapports dans Salesforce {#reporting-dashboards-in-salesforce}
 
 Découvrez comment configurer des tableaux de bord ci-dessous.
 
-## Ouvrir et cliquer sur Rapport {#open-and-click-report}
+## Ouvrir et cliquer sur le rapport {#open-and-click-report}
 
-1. Sélectionnez le type d’enregistrement **Tâches et événements**.
-1. Définissez les paramètres du rapport en fonction de la période et de la structure de hiérarchie de votre choix.
-1. Ajoutez un filtre pour supprimer les courriers électroniques internes consignés dans Salesforce (par exemple, Société/Compte différent de Marketo).
-1. Sélectionnez le format de rapport **Résumé**.
-1. Ajoutez les champs Objet, Affecté et Ventes Marketo ayant fait l’objet d’un clic/Ventes Marketo consultées au rapport.
-1. Double-cliquez sur **Ajouter une formule** dans le volet Champs .
-1. Ajoutez un nom à la formule, sélectionnez **Pourcentage** au format, puis **Groupement 1**.
-1. Sélectionnez **Ventes Marketo ayant fait l’objet d’un clic/Ventes Marketo vues,** puis **Somme** dans les champs de résumé.
-1. Ajoutez un signe diviser à la formule, puis sélectionnez **Record Count** dans les champs Résumé - _Save As_.
+1. Sélectionnez le type d’enregistrement **[!UICONTROL Tâches et Événements]**.
+1. Définissez les paramètres de rapport en fonction de la période et de la structure hiérarchique de votre choix.
+1. Ajoutez un filtre pour supprimer les e-mails internes consignés dans [!DNL Salesforce] (par exemple, Société/Compte différent de Marketo).
+1. Sélectionnez le format de rapport **[!UICONTROL Résumé]**.
+1. Ajoutez au rapport les champs Objet, Affecté et Ventes Marketo sur lesquelles l’utilisateur a cliqué/Ventes Marketo vues .
+1. Double-cliquez sur **[!UICONTROL Ajouter une formule]** dans le volet Champs .
+1. Ajoutez un nom à la formule, sélectionnez **[!UICONTROL Pourcentage]** au format, puis **[!UICONTROL Regroupement 1]**.
+1. Sélectionnez **[!UICONTROL Ventes Marketo sur lesquelles vous avez cliqué/Ventes Marketo consultées]** puis **[!UICONTROL Somme]** dans les champs de résumé.
+1. Ajoutez un signe diviser à la formule, puis sélectionnez **[!UICONTROL Nombre d’enregistrements]** dans les champs Résumé - _Enregistrer sous_.
 
-## Rapport Performances des modèles {#template-performance-report}
+## Rapport sur les performances des modèles {#template-performance-report}
 
-1. Personnalisez le rapport Ouvrir et cliquer pour inclure les champs suivants : _Enregistrer sous_.
+1. Personnalisez le rapport Ouverture et clic pour inclure les champs suivants : _Enregistrer sous_.
 
-## Rapport Volume de modèle {#template-volume-report}
+## Rapport sur le volume des modèles {#template-volume-report}
 
-1. Modifiez le rapport Performances du modèle et insérez le filtre &quot;Modèle de ventes Marketo différent de vide&quot;.
-1. Supprimez le champ Ventes Marketo ayant fait l’objet d’un clic - _Enregistrer sous_.
+1. Modifiez le Rapport de performances des modèles et incluez le filtre « Modèle de vente Marketo différent de vide ».
+1. Supprimez le champ Marketo Sales Clicked - _Enregistrer sous_.
 
-## Rapport Comptes de tendance {#trending-accounts-report}
+## Rapport des comptes de tendance {#trending-accounts-report}
 
-1. Sélectionnez le type d’enregistrement Activités avec comptes .
-1. Configurez les paramètres et les champs du rapport comme indiqué ci-dessous : _Enregistrer sous_.
+1. Sélectionnez Activités avec type d’enregistrement Comptes .
+1. Configurez les paramètres et champs de rapport comme indiqué ci-dessous : _Enregistrer sous_.

@@ -1,42 +1,42 @@
 ---
-description: Invitation d’utilisateurs et d’administrateurs - Documents Marketo - Documentation du produit
-title: Invitation d’utilisateurs et d’administrateurs
+description: Inviter des utilisateurs et des administrateurs - Documents Marketo - Documentation du produit
+title: Inviter des utilisateurs et des administrateurs
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Invitation d’utilisateurs et d’administrateurs {#invite-users-and-admins}
+# Inviter des utilisateurs et des administrateurs {#invite-users-and-admins}
 
-L’ajout d’utilisateurs ou d’administrateurs est rapide et facile !
+Ajouter des utilisateurs ou des administrateurs est simple et rapide !
 
 ## Inviter des utilisateurs {#invite-users}
 
-1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
+1. Sous [!UICONTROL Paramètres d’administration], sélectionnez **[!UICONTROL Gestion des utilisateurs]**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Cliquez sur le bouton **Actions** et sélectionnez **Inviter des utilisateurs**.
+1. Cliquez sur le bouton **[!UICONTROL Actions]** et sélectionnez **[!UICONTROL Inviter des utilisateurs]**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez également sélectionner **Inviter des utilisateurs via CSV** si vous les avez tous répertoriés dans une feuille de calcul.
+   >Vous pouvez également sélectionner **[!UICONTROL Inviter des utilisateurs au moyen d’un fichier CSV]** si tous les utilisateurs sont répertoriés dans une feuille de calcul.
 
-1. Saisissez les adresses électroniques des individus que vous souhaitez ajouter.
+1. Saisissez les adresses e-mail des personnes que vous souhaitez ajouter.
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. ÉTAPE FACULTATIVE : Ajoutez le ou les utilisateurs à la ou les équipes auxquelles ils doivent faire partie. Si vous ignorez cette partie, tous les nouveaux membres seront ajoutés à l’équipe Tout le monde.
+1. ÉTAPE FACULTATIVE : ajoutez le ou les utilisateurs aux équipes dont ils doivent faire partie. Si vous ignorez cette partie, tous les nouveaux membres seront ajoutés à l’équipe Tout le monde.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -44,31 +44,31 @@ L’ajout d’utilisateurs ou d’administrateurs est rapide et facile !
    >
    >[En savoir plus sur les équipes](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
-1. Sélectionnez l’espace de travail Marketo auquel vous souhaitez ajouter le ou les nouveaux utilisateurs. Si vous ne disposez que d’un seul espace de travail, vous verrez &quot;Par défaut&quot; comme option. Cliquez sur **Invitation**.
+1. Sélectionnez l’espace de travail Marketo auquel vous souhaitez ajouter le ou les nouveaux utilisateurs. Si vous n’avez qu’un seul espace de travail, vous verrez « Par défaut » comme option. Cliquez sur **Inviter**.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Cliquez sur **OK**.
+1. Cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/invite-users-and-admins-7.png)
 
-## Définition d’un utilisateur comme administrateur {#make-a-user-an-admin}
+## Faire d’un utilisateur un administrateur {#make-a-user-an-admin}
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-Pour transformer un utilisateur existant en administrateur, procédez comme suit.
+Pour faire d’un utilisateur existant un administrateur, procédez comme suit.
 
-1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
+1. Cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Gestion utilisateur**.
+1. Sous [!UICONTROL Paramètres d’administration], sélectionnez **[!UICONTROL Gestion des utilisateurs]**.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Recherchez l’utilisateur que vous souhaitez créer en tant qu’administrateur, cliquez sur la liste déroulante Rôle et sélectionnez **Admin**.
+1. Recherchez l’utilisateur que vous souhaitez nommer administrateur, cliquez sur le menu déroulant Rôle, puis sélectionnez **[!UICONTROL Administrateur]**.
 
    ![](assets/invite-users-and-admins-10.png)
 

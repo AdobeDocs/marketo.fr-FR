@@ -1,44 +1,44 @@
 ---
 unique-page-id: 2953455
-description: Synchronisation SFDC - Synchronisation des pistes - Documents Marketo - Documentation du produit
-title: Synchronisation SFDC - Synchronisation des pistes
+description: Synchronisation de SFDC - Synchronisation des leads - Documents Marketo - Documentation du produit
+title: Synchronisation de SFDC - Synchronisation des leads
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-# Synchronisation SFDC : synchronisation des pistes {#sfdc-sync-lead-sync}
+# Synchronisation de SFDC : synchronisation des leads {#sfdc-sync-lead-sync}
 
-Connaissez-vous les synchronisations des Marketo Engage de votre base de données Salesforce ? Il se synchronise, attend 5 minutes, puis se synchronise à nouveau. Toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les prospects Salesforce.
+Connaissiez-vous les synchronisations Marketo à partir de votre base de données [!DNL Salesforce] ? Il se synchronise, attend 5 minutes, puis se synchronise à nouveau. Toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les prospects [!DNL Salesforce].
 
-## Direction de la synchronisation {#sync-direction}
+## Direction de synchronisation {#sync-direction}
 
-La synchronisation des contacts et des pistes est bidirectionnelle. Si vous apportez des modifications à un enregistrement dans Salesforce ou Marketo, vos mises à jour seront répercutées dans les deux systèmes.
+La synchronisation du prospect (personne) et du contact est bidirectionnelle. Si vous apportez des modifications à un enregistrement dans [!DNL Salesforce] ou Marketo, vos mises à jour seront répercutées sur les deux systèmes.
 
-## Que se passe-t-il si des modifications sont effectuées simultanément dans les deux systèmes ? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
+## Que faire si des modifications sont apportées simultanément dans les deux systèmes ? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-Marketo l&#39;emporte. Il est rare que ce genre de collision de données se produise.
+Marketo gagne. Il est rare que ce genre de collision de données se produise.
 
-## Puis-je créer un prospect dans Salesforce à l’aide de Marketo ? {#can-i-create-a-lead-in-salesforce-using-marketo}
+## Puis-je créer un prospect dans [!DNL Salesforce] à l’aide de Marketo ? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Oui, utilisez l’action de flux [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}. Cela créera un prospect dans Salesforce si le prospect n’existe pas.
+Oui, utiliser l’action de flux [ Synchroniser la personne avec SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Cette opération crée un prospect dans [!DNL Salesforce] si le prospect n’existe pas.
 
-## Puis-je forcer manuellement la synchronisation d’une personne dans Marketo avec un prospect dans Salesforce ? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
+## Puis-je forcer manuellement la synchronisation d’une personne dans Marketo avec un prospect dans [!DNL Salesforce] ? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Oui, utilisez l’action de flux [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} et elle se synchronise en temps réel.
+Oui, utilisez l’action de flux [ Synchroniser la personne avec SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} et elle se synchronisera en temps réel.
 
 ## Chaque champ standard est-il synchronisé avec Marketo ? {#does-every-single-standard-field-sync-to-marketo}
 
-Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés peuvent être synchronisés.
+Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés peuvent faire partie de la synchronisation.
 
 >[!NOTE]
 >
->Marketo synchronise uniquement les champs auxquels votre utilisateur de synchronisation Salesforce a accès.
+>Marketo synchronise uniquement les champs auxquels l’utilisateur de la synchronisation [!DNL Salesforce] a accès.
 
-## Marketo respectera-t-il les règles de validation Salesforce ? {#will-marketo-respect-the-salesforce-validation-rules}
+## Marketo respectera-t-il les règles de validation [!DNL Salesforce] ? {#will-marketo-respect-the-salesforce-validation-rules}
 
-Oui. La synchronisation échoue si le format des données est incorrect ou si les informations de champ requises sont manquantes. Marketo consigne le résultat dans le journal d’activité des prospects si cela se produit.
+Oui. La synchronisation échoue si le format de données est incorrect ou s’il manque des informations de champ requises. Si cela se produit, Marketo consigne les résultats dans le journal d’activité des prospects.

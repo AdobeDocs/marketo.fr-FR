@@ -1,80 +1,80 @@
 ---
 unique-page-id: 11384438
 description: Configuration du rapport TAM - Documents Marketo - Documentation du produit
-title: Configuration du rapport TAM
+title: Configuration du rapport de gestion des actifs numériques
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 1%
 
 ---
 
-# Configuration du rapport TAM {#tam-report-setup}
+# Configuration du rapport de gestion des actifs numériques {#tam-report-setup}
 
-Le rapport Ventes de la gestion des actifs numériques est un courriel personnalisé hebdomadaire envoyé à l’équipe du compte.
+Le rapport des ventes du gestionnaire de comptes techniques est un e-mail personnalisé envoyé chaque semaine à l’équipe du compte.
 
-## Configuration des rapports {#report-setup}
+## Configuration du rapport {#report-setup}
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Cliquez sur **Gestion de compte Target**.
+1. Cliquez sur **[!UICONTROL Gestion du compte Target]**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. Sous Rapport hebdomadaire, cliquez sur **Modifier**.
+1. Sous [!UICONTROL  Rapport hebdomadaire ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/three-3.png)
 
-1. Cliquez sur la liste déroulante **Jour** et sélectionnez le jour de la semaine où vous souhaitez que les destinataires reçoivent l&#39;email.
+1. Cliquez sur le menu déroulant **[!UICONTROL Jour]** et sélectionnez le jour de la semaine où vous souhaitez que les destinataires reçoivent l’e-mail.
 
    ![](assets/four-4.png)
 
-1. Pour déterminer la mise en page de votre email, cliquez sur la liste déroulante **Trier par** et effectuez une sélection.
+1. Pour déterminer la disposition de votre e-mail, cliquez sur le menu déroulant **[!UICONTROL Trier par]** et effectuez une sélection.
 
    ![](assets/five-3.png)
 
-1. Cochez la case **Utilisateurs** , puis cliquez sur la liste déroulante et sélectionnez qui vous souhaitez recevoir l’email.
+1. Cochez la case **[!UICONTROL Utilisateurs]**, puis cliquez sur la liste déroulante et sélectionnez la personne à qui vous souhaitez envoyer l’e-mail.
 
    ![](assets/six-2.png)
 
    >[!NOTE]
    >
-   >Les notifications seront uniquement envoyées aux propriétaires de compte ou aux membres de l’équipe.
+   >Les notifications seront envoyées uniquement aux propriétaires de compte ou aux membres de l’équipe.
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/seven-2.png)
 
 Et c&#39;est tout !
 
-## Comment se désinscrire {#how-to-unsubscribe}
+## Comment se désabonner {#how-to-unsubscribe}
 
-Chaque rapport est assorti d’une option d’exclusion. Pour ce faire, cliquez simplement sur **Se désabonner** au bas de l’e-mail.
+Chaque rapport est fourni avec une option de désinscription. Pour ce faire, cliquez simplement sur **[!UICONTROL Se désabonner]** au bas de l’e-mail.
 
 ![](assets/eight-1.png)
 
-## Comment redémarrer {#how-to-resubscribe}
+## Comment se réabonner {#how-to-resubscribe}
 
-1. Cliquez sur **Admin**.
+1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Cliquez sur **Gestion de compte Target**.
+1. Cliquez sur **[!UICONTROL Gestion du compte Target]**.
 
    ![](assets/tam-report-setup-10.png)
 
-1. Sous Rapport hebdomadaire, cliquez sur le numéro Désabonné.
+1. Sous [!UICONTROL Rapport hebdomadaire], cliquez sur le numéro indiqué comme [!UICONTROL Désabonné].
 
    ![](assets/nine.png)
 
-1. Cliquez sur la liste déroulante **Utilisateurs** .
+1. Cliquez sur la liste déroulante **[!UICONTROL Utilisateurs]**.
 
    ![](assets/ten.png)
 
-1. Sélectionnez l’utilisateur pour lequel vous souhaitez recevoir à nouveau des emails et cliquez sur **Reabonner**.
+1. Sélectionnez à nouveau l’utilisateur auquel vous souhaitez envoyer des e-mails et cliquez sur **[!UICONTROL Se réabonner]**.
 
    ![](assets/eleven.png)

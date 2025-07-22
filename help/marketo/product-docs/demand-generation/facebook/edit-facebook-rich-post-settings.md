@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Modifier les paramètres de la publication Facebook enrichie {#edit-facebook-rich-post-settings}
+# Modifier [!DNL Facebook] paramètres de publication enrichie {#edit-facebook-rich-post-settings}
 
-Personnalisez les publications lorsque des personnes vous partagent sur Facebook.
+Personnaliser les publications lorsque des personnes vous partagent sur [!DNL Facebook].
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Marketo _applications sociales_ permet à vos prospects de partager vos landing 
 
 ## Sélectionner les options de publication enrichies {#select-rich-post-options}
 
-Vous pouvez spécifier les types d’informations de page à utiliser dans les publications enrichies Facebook générées par des partages de votre page de destination.
+Vous pouvez spécifier les types d’informations de page à utiliser dans les publications riches en [!DNL Facebook] générées par des partages de votre page de destination.
 
-1. Sélectionnez **Message Facebook** dans l’éditeur pour votre bouton vidéo ou social **YouTube**.
+1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social **[!DNL YouTube*]*.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Sélectionnez l’une des options suivantes pour votre message Facebook.
+1. Sélectionnez l’une des options suivantes pour votre Message [!DNL Facebook].
 
    * Ajouter du contenu statique : sélectionnez cette option pour saisir manuellement le titre, la légende et la description.
 
@@ -43,23 +43,23 @@ Vous pouvez spécifier les types d’informations de page à utiliser dans les p
 
    >[!NOTE]
    >
-   >Ces balises doivent déjà exister dans la source de la page. Pour plus de contrôle, vous pouvez toutefois ajouter des balises d’organisation Facebook spécifiques à votre page de destination.
+   >Ils doivent déjà exister dans la source de la page, mais pour plus de contrôle, vous pouvez ajouter des balises d’organisation du [!DNL Facebook] spécifiques à votre page de destination.
 
-   * N’ajoutez pas de contenu riche : limite les publications Facebook de votre page de destination au message et au lien principaux.
+   * Ne pas ajouter de contenu riche : limite les publications [!DNL Facebook] de votre page de destination au message et au lien principaux.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Ajout de balises de connexion Facebook à une page de destination {#add-facebook-og-tags-to-a-landing-page}
+## Ajout de balises d’organisation [!DNL Facebook] à une page de destination {#add-facebook-og-tags-to-a-landing-page}
 
-Pour contrôler les éléments de page qui seront inclus dans les partages Facebook de votre page de destination, vous pouvez ajouter des balises Facebook OSG (Open Graph) pour le titre, la légende et la description à votre page de destination.
+Pour contrôler les éléments de page qui seront inclus dans les partages [!DNL Facebook] de votre page de destination, vous pouvez ajouter des balises [!DNL Facebook] (Open Graph) pour le titre, la légende et la description à votre page de destination.
 
-1. Ouvrez la page de destination qui contient votre bouton vidéo **ou social** YouTube.
+1. Ouvrez la page de destination contenant votre bouton **[!DNL YouTube]vidéo** ou social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   La **Landing Page Designer** s’ouvre dans une nouvelle fenêtre.
+   La **[!UICONTROL Landing Page Designer]** s’ouvre dans une nouvelle fenêtre.
 
-1. Sélectionnez **Actions de la page de destination** > **Modifier les balises de métadonnées de page**.
+1. Sélectionnez **[!UICONTROL Actions de la page de destination]** > **[!UICONTROL Modifier les balises de métadonnées de page]**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

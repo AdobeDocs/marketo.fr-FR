@@ -1,70 +1,70 @@
 ---
 description: Création d’une campagne de ventes - Documents Marketo - Documentation du produit
-title: Création d’une campagne de ventes
+title: Créer une campagne de ventes
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Création d’une campagne de ventes {#create-a-sales-campaign}
+# Créer une campagne de ventes {#create-a-sales-campaign}
 
-Les campagnes commerciales sont une série d’étapes multicanaux comprenant : emails, appels téléphoniques, InMail et tâches personnalisées. Elles vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
+Les campagnes de vente consistent en une série d’étapes multicanales, notamment : e-mails, appels téléphoniques, InMail et tâches personnalisées. Ils vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
 
-Avec les campagnes de ventes, vous pouvez :
+Avec les campagnes de vente, vous pouvez :
 
 * **Organiser** : rationalisez toutes vos activités de sensibilisation en un seul endroit pour une exécution efficace.
-* **Échelle** : planifiez tous vos efforts de sensibilisation afin de pouvoir réduire vos efforts, minimiser le travail manuel et personnaliser autant que nécessaire.
-* **Mesure** : effectuez le suivi de la réussite de tous vos emails et tâches à un seul endroit tout en les connectant automatiquement à Salesforce. En sachant ce qui a de l’impact et conduit aux résultats, vous pouvez constamment tester et améliorer vos résultats.
+* **Échelle** : planifiez tous vos efforts de sensibilisation afin de pouvoir échelonner vos efforts, réduire le travail manuel et personnaliser autant que nécessaire.
+* **Mesure** : suivez le succès de tous vos e-mails et tâches au même endroit tout en les connectant automatiquement à [!DNL Salesforce]. En sachant ce qui résonne et donne des résultats, vous pouvez constamment tester et améliorer vos résultats.
 
-Alors, comment configurer une campagne de ventes ?
+Alors, comment configurer une campagne de vente ?
 
-1. Cliquez sur l’onglet **Campagnes** .
+1. Cliquez sur l’onglet **[!UICONTROL Campagnes]**.
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Sélectionnez une catégorie et cliquez sur le bouton **Créer une campagne** .
+1. Sélectionnez une catégorie et cliquez sur le bouton **[!UICONTROL Créer une campagne]**.
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >Créez une nouvelle catégorie en cliquant sur **+** en regard de **Catégories**.
+   >Créez une catégorie en cliquant sur le **+** en regard de **[!UICONTROL Catégories]**.
 
-1. La catégorie choisie sera sélectionnée. Si vous changez d’avis, cliquez sur la liste déroulante et sélectionnez-en une autre. Une fois que vous avez terminé, cliquez sur **Continuer**.
+1. La catégorie que vous avez choisie sera sélectionnée. Si vous changez d’avis, cliquez sur la liste déroulante et sélectionnez-en une autre. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Continuer]**.
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. Cliquez sur **Ajouter une étape**.
+1. Cliquez sur **[!UICONTROL Ajouter une étape]**.
 
    ![](assets/create-a-sales-campaign-4.png)
 
-1. Choisissez entre : Email, Call, InMail ou Tâche personnalisée. Dans cet exemple, nous choisissons Email.
+1. Choisissez entre : E-mail, Appel, InMail ou Tâche personnalisée. Dans cet exemple, nous avons choisi E-mail.
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Lorsque [vous avez terminé avec votre email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, cliquez sur **Ajouter**.
+1. Lorsque vous avez [terminé votre e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, cliquez sur **[!UICONTROL Ajouter]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
-1. Une fois que vous avez créé votre première journée et votre première étape, le bouton &quot;Ajouter un jour&quot; est activé et vous pouvez ajouter autant de jours et d’étapes que le nécessite votre processus de vente.
+1. Après avoir créé votre premier jour et votre première étape, le bouton « [!UICONTROL Ajouter un jour] » s’active et vous pouvez ajouter autant de jours et d’étapes que nécessaire pour votre processus de vente.
 
    ![](assets/create-a-sales-campaign-7.png)
 
    >[!NOTE]
    >
-   >&quot;Jours&quot; ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne de ventes dure 7 jours, la saisie de &quot;3&quot; signifie que l’action sera lancée le 3 du 7, **et non** 3 jours plus tard.
+   >Les « Jours » ne sont pas le nombre de jours entre les actions, mais le jour dans la séquence. Par exemple, si votre campagne de ventes dure 7 jours, la saisie de « 3 » signifie que l’action sera exécutée le troisième jour de 7, **et non** trois jours plus tard.
 
-1. Veillez à personnaliser les options de planification et de réponse, comme sauter les week-ends (ce qui est génial) en consultant l’ **onglet Paramètres** de votre campagne de ventes.
+1. Veillez à personnaliser les options de planification et de réponse, telles que Ignorer les week-ends (ce qui est génial) en consultant l’onglet **[!UICONTROL Paramètres]** pour votre campagne de ventes.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Il est maintenant temps d&#39;ajouter des gens !
+Il est maintenant temps de commencer à ajouter des personnes !
 
 >[!MORELIKETHIS]
 >
->* [ Types d’étape de campagne commerciale et tâches de rappel ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->* [Paramètres de campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>* [Types d&#39;étapes de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Paramètres de campagne de vente](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
