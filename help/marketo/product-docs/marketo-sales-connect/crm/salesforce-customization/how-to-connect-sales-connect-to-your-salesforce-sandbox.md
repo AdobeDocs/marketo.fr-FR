@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Votre compte [!DNL  Sales Connect] ne peut pas être déjà connecté à [!DNL Salesforce] lors de l’établissement d’une connexion au sandbox. Si c’est le cas, [veillez à vous déconnecter](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) avant de suivre les étapes décrites dans cet article.
+>Votre compte [!DNL &#x200B; Sales Connect] ne peut pas être déjà connecté à [!DNL Salesforce] lors de l’établissement d’une connexion au sandbox. Si c’est le cas, [veillez à vous déconnecter](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) avant de suivre les étapes décrites dans cet article.
 
 1. Dans [!DNL Sales Connect], cliquez sur l’icône d’engrenage en haut à droite et sélectionnez **[!UICONTROL Paramètres]**.
 
    ![](assets/one-2.png)
 
-1. Sous [!UICONTROL  Intégrations ], cliquez sur **[!UICONTROL CRM]**.
+1. Sous [!UICONTROL &#x200B; Intégrations &#x200B;], cliquez sur **[!UICONTROL CRM]**.
 
    ![](assets/two-2.png)
 

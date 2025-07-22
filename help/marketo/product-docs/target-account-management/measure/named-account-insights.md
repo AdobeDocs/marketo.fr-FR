@@ -78,7 +78,7 @@ Voir où se trouve le compte nommé sélectionné par rapport à sa hiérarchie.
 
 ![](assets/hierarchy.png)
 
-## [!UICONTROL  Opportunités ] {#opportunities}
+## [!UICONTROL &#x200B; Opportunités &#x200B;] {#opportunities}
 
 Une vue cumulée de toutes les opportunités ouvertes au niveau d’un compte, qui aide les équipes marketing à se concentrer sur la fermeture d’opportunités spécifiques.
 

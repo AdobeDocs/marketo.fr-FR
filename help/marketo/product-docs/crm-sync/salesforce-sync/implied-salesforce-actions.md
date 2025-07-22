@@ -48,6 +48,6 @@ Ces règles s&#39;appliquent lorsque la personne n&#39;est pas actuellement dans
  </tbody> 
 </table>
 
-Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type de SFDC]** avec l’opérateur défini sur « [!UICONTROL  n’est pas vide »]. Tous les enregistrements SFDC ont une valeur dans ce champ.
+Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type de SFDC]** avec l’opérateur défini sur « [!UICONTROL &#x200B; n’est pas vide »]. Tous les enregistrements SFDC ont une valeur dans ce champ.
 
 N&#39;oubliez pas que ces actions automatiques ne se produisent que si le prospect n&#39;est pas actuellement dans [Salesforce.com](https://salesforce.com){target="_blank"}

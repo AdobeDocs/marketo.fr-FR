@@ -53,7 +53,7 @@ ht-degree: 1%
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
-1. Saisissez la [!UICONTROL  Clé secrète API ].
+1. Saisissez la [!UICONTROL &#x200B; Clé secrète API &#x200B;].
 
    ![](assets/msi-actions-configuration-in-salesforce-7.png)
 

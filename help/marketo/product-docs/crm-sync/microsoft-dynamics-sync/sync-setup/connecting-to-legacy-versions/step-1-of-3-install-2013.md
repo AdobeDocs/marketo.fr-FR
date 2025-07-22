@@ -55,7 +55,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] On-Premise et Marketo, v
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. De retour sur la page [!UICONTROL  Informations sur la solution ], cliquez sur **[!UICONTROL Suivant]**.
+1. De retour sur la page [!UICONTROL &#x200B; Informations sur la solution &#x200B;], cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 

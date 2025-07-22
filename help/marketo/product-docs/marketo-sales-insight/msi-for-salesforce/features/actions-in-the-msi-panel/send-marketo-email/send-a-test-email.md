@@ -34,4 +34,4 @@ Vous recevrez un e-mail avec des valeurs de jeton renseignées pour les prospect
 
 >[!NOTE]
 >
->Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL  Envoyer un e-mail Marketo ] » même après l’envoi de l’e-mail de test, vous ne perdrez donc pas l’e-mail que vous avez créé.
+>Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL &#x200B; Envoyer un e-mail Marketo &#x200B;] » même après l’envoi de l’e-mail de test, vous ne perdrez donc pas l’e-mail que vous avez créé.

@@ -18,7 +18,7 @@ L’abonnement aux listes intelligentes est un excellent moyen de suivre les per
 Vous pouvez créer un abonnement à une liste dynamique à deux endroits distincts :
 
 * [!UICONTROL Activités marketing]
-* [!UICONTROL  Base de données ]
+* [!UICONTROL &#x200B; Base de données &#x200B;]
 
 Les abonnements utilisent la liste complète des personnes au moment où l’abonnement s’exécute.
 

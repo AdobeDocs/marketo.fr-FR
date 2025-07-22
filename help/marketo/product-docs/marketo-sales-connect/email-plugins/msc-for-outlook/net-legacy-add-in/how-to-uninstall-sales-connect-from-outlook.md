@@ -25,6 +25,6 @@ ht-degree: 0%
 
 1. Accédez au Panneau de Contrôle.
 
-1. Tirez sur « [!UICONTROL  Ajouter/Supprimer un programme ] ».
+1. Tirez sur « [!UICONTROL &#x200B; Ajouter/Supprimer un programme &#x200B;] ».
 
 1. Sélectionnez [!UICONTROL ToutApp] dans la liste et choisissez **[!UICONTROL Le supprimer]**.

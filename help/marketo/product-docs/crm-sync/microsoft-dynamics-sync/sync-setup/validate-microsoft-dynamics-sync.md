@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Exécuter la synchronisation de validation dans Marketo {#run-validate-sync-in-marketo}
 

@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Espaces de travail dans [!UICONTROL  Web Personalization ] {#workspaces-in-web-personalization}
+# Espaces de travail dans [!UICONTROL &#x200B; Web Personalization &#x200B;] {#workspaces-in-web-personalization}
 
 [!UICONTROL Web Personalization] prend en charge plusieurs espaces de travail pour les campagnes web et les segments web.
 

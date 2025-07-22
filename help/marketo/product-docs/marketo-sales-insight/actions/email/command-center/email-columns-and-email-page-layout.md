@@ -87,7 +87,7 @@ Vous pouvez configurer l’une des colonnes disponibles pour qu’elle soit visi
    <td>Date d’envoi de l’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Actions de suivi [!UICONTROL]</td> 
+   <td><strong>Actions de suivi </td> 
    <td>Boutons d’action rapide pouvant être utilisés pour un suivi par e-mail, téléphone, inMail ou tâche.</td> 
   </tr> 
   <tr> 

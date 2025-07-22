@@ -51,7 +51,7 @@ Vous pouvez envoyer et suivre les e-mails avec Marketo directement depuis [!DNL 
    >
    >La technologie antispam rejette souvent les ouvertures et les clics qui se produisent dans les 20 secondes suivant l&#39;envoi de l&#39;e-mail. Attendez donc au moins cette durée pour ouvrir/cliquer lors du test.
 
-   Pour savoir qui a reçu vos e-mails envoyés par l’intermédiaire de [!DNL Outlook], créez une liste dynamique à l’aide du filtre « E-mail de vente [!UICONTROL  a été envoyé ] ».
+   Pour savoir qui a reçu vos e-mails envoyés par l’intermédiaire de [!DNL Outlook], créez une liste dynamique à l’aide du filtre « E-mail de vente [!UICONTROL &#x200B; a été envoyé &#x200B;] ».
 
    ![](assets/was-sent-sales-email.png)
 

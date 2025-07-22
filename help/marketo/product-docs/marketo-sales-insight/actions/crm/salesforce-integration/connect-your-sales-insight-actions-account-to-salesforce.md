@@ -40,7 +40,7 @@ Suivez ces étapes simples pour connecter [!DNL Sales Insight Actions] compte à
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
 
 1. Dans l’onglet [!UICONTROL Connexions et personnalisations], cliquez sur **[!UICONTROL Salesforce]** puis **[!UICONTROL Connexion]**.
 

@@ -62,7 +62,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez activer son autorisa
 
    >[!NOTE]
    >
-   >La liste déroulante [!UICONTROL  Actions de règle de validation du formulaire ] vous permet de supprimer ou de modifier des règles existantes.
+   >La liste déroulante [!UICONTROL &#x200B; Actions de règle de validation du formulaire &#x200B;] vous permet de supprimer ou de modifier des règles existantes.
 
 1. Nommez votre règle, donnez-lui une description facultative et saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez le ou les domaines à bloquer dans la zone des règles, sélectionnez **[!UICONTROL Activer la règle]**, puis cliquez sur **[!UICONTROL Créer]**.
 

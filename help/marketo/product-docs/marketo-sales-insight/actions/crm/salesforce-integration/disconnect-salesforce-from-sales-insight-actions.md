@@ -26,7 +26,7 @@ Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de v
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. Dans l’onglet [!UICONTROL  Connexions et personnalisations ], cliquez sur **[!UICONTROL Déconnecter]**.
+1. Dans l’onglet [!UICONTROL &#x200B; Connexions et personnalisations &#x200B;], cliquez sur **[!UICONTROL Déconnecter]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
@@ -36,10 +36,10 @@ Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de v
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
 
 PICC
 
-1. Dans l’onglet [!UICONTROL  Connexions et personnalisations ], cliquez sur **[!UICONTROL Déconnecter]**.
+1. Dans l’onglet [!UICONTROL &#x200B; Connexions et personnalisations &#x200B;], cliquez sur **[!UICONTROL Déconnecter]**.
 
 PICC

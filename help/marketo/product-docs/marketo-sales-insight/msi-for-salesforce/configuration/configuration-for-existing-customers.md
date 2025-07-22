@@ -51,7 +51,7 @@ Veuillez configurer la configuration suivante pour commencer à utiliser le nouv
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. Saisissez le [!UICONTROL  Nom du site distant ] (par exemple, « MarketoRestAPI ») et l’[!UICONTROL URL du site distant ] (votre URL d’API à partir du panneau Configuration de l’API REST dans Marketo).
+1. Saisissez le [!UICONTROL &#x200B; Nom du site distant &#x200B;] (par exemple, « MarketoRestAPI ») et l’[!UICONTROL URL du site distant &#x200B;] (votre URL d’API à partir du panneau Configuration de l’API REST dans Marketo).
 
    ![](assets/configuration-for-existing-customers-7.png)
 
@@ -65,6 +65,6 @@ Veuillez configurer la configuration suivante pour commencer à utiliser le nouv
 
 1. Copiez les informations d’identification depuis le panneau API Rest de [!DNL Marketo’s Sales Insight] page Admin . Collez-les dans la section API Rest de la page Configuration [!DNL Sales Insight] de Salesforce.
 
-1. Saisissez la [!UICONTROL  Clé secrète API ].
+1. Saisissez la [!UICONTROL &#x200B; Clé secrète API &#x200B;].
 
    ![](assets/configuration-for-existing-customers-9.png)

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: Journal D'Audit] Aperçu - Documents Marketo - Documentation Du Produit
+description: Journal D'Audit&rbrack; Aperçu - Documents Marketo - Documentation Du Produit
 title: Aperçu du journal d'audit
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

@@ -118,18 +118,18 @@ Les données disponibles dans les onglets sont les suivantes :
 
 ## Onglet global Marketo {#marketo-global-tab}
 
-**[!UICONTROL Onglet Meilleurs ]**
+**[!UICONTROL Onglet Meilleurs &#x200B;]**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-Les actions en masse suivantes sont disponibles à partir de la liste déroulante de l’onglet [!UICONTROL  Meilleurs résultats ] :
+Les actions en masse suivantes sont disponibles à partir de la liste déroulante de l’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] :
 
 * [!UICONTROL Envoyer un e-mail de vente] - Possibilité d’envoyer des e-mails personnalisés ou modélisés avec suivi des vues, clics et réponses
 * [!UICONTROL Ajouter à la campagne de vente] - Ajoutez des prospects aux playbooks de vente qui consistent en une séquence d’e-mails et de tâches
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-Les actions en ligne suivantes sont disponibles pour les leads/contacts individuels dans l’onglet [!UICONTROL  Meilleurs résultats ] :
+Les actions en ligne suivantes sont disponibles pour les leads/contacts individuels dans l’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] :
 
 * [!UICONTROL Envoyer un e-mail de vente] - Possibilité d’envoyer des e-mails personnalisés ou modélisés avec suivi des vues, clics et réponses
 * [!UICONTROL Ajouter à la campagne de vente] - Ajoutez des prospects aux playbooks de vente qui consistent en une séquence d’e-mails et de tâches

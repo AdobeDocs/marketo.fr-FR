@@ -35,7 +35,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Connectez-vous à votre compte RTP.
 
-1. Accédez à [!UICONTROL  Paramètres du compte ].
+1. Accédez à [!UICONTROL &#x200B; Paramètres du compte &#x200B;].
 
    >[!NOTE]
    >

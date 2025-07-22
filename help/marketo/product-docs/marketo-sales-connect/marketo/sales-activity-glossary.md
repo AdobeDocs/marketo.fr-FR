@@ -44,7 +44,7 @@ Les activités ci-dessous seront consignées dans le Marketo à partir de [!DNL 
   <td>URL [!UICONTROL Sales Campaign]</td>
  </tr>
  <tr>
-  <td>Nom du modèle de vente [!UICONTROL]</td>
+  <td>Nom du modèle de vente </td>
  </tr>
  <tr>
   <td>[!UICONTROL Email Subject]</td>

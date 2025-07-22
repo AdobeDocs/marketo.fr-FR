@@ -24,7 +24,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unl
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-2.png)
 
@@ -54,7 +54,7 @@ Une fois que vous avez activé « [!UICONTROL E-mail à Salesforce (Cci)] », vo
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-7.png)
 
@@ -98,7 +98,7 @@ Si vous ne voyez pas Mon e-mail à [!DNL Salesforce] sous vos paramètres, il se
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-11.png)
 

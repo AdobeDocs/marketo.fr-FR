@@ -15,7 +15,7 @@ ht-degree: 5%
 
 [!UICONTROL Web Personalization] comporte plusieurs rapports utiles qui sont envoyés par e-mail. Voici comment s’y abonner.
 
-1. Connectez-vous à [!UICONTROL  Web Personalization ]. Sous votre nom d’utilisateur, cliquez sur **[!UICONTROL Paramètres utilisateur]**.
+1. Connectez-vous à [!UICONTROL &#x200B; Web Personalization &#x200B;]. Sous votre nom d’utilisateur, cliquez sur **[!UICONTROL Paramètres utilisateur]**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 

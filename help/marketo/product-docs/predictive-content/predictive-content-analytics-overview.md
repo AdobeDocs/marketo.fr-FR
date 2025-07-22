@@ -69,7 +69,7 @@ Affiche la montée en popularité d’un élément de contenu en examinant la de
 
 ![](assets/new-8.png)
 
-## [!UICONTROL  Contenu suggéré ] {#suggested-content}
+## [!UICONTROL &#x200B; Contenu suggéré &#x200B;] {#suggested-content}
 
 Affiche le contenu que nous vous suggérons de promouvoir dans vos activités marketing en fonction du filtre que vous avez défini.
 

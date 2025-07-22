@@ -48,9 +48,9 @@ Suivez les étapes ci-dessous pour configurer MPI.
    >* [!UICONTROL Montant de l’opportunité]
    >* [!UICONTROL Est Fermé]
    >* [!UICONTROL Est Gagné]
-   >* [!UICONTROL  Date de création ] (peut ne pas être définie dans votre cas)
+   >* [!UICONTROL &#x200B; Date de création &#x200B;] (peut ne pas être définie dans votre cas)
    >* [!UICONTROL Date de clôture] (peut ne pas être définie dans votre cas)
-   >* [!UICONTROL  Type d’opportunité ]
+   >* [!UICONTROL &#x200B; Type d’opportunité &#x200B;]
 
 ## Configuration du programme {#program-setup}
 

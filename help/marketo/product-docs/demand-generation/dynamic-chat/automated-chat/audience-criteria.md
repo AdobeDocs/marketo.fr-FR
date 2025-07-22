@@ -28,7 +28,7 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL &#x200B; supérieure à &#x200B;] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 

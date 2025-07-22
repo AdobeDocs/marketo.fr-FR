@@ -25,7 +25,7 @@ Nous avons toujours permis aux équipes de personnaliser leurs messages de lien 
 
    ![](assets/one.png)
 
-1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Désabonnements]**.
+1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Désabonnements]**.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Nous avons toujours permis aux équipes de personnaliser leurs messages de lien 
 
    ![](assets/six.png)
 
-1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Désabonnements]**.
+1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **[!UICONTROL Désabonnements]**.
 
    ![](assets/eight.png)
 
