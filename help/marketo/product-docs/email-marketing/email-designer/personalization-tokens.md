@@ -6,7 +6,9 @@ description: Découvrez comment utiliser les jetons de personnalisation dans le 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+hide: true
+hidefromtoc: true
+source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -23,7 +25,7 @@ Le Concepteur d’email a un format différent de celui de l’éditeur d’emai
 
 ## Cas d’utilisation du Principal {#primary-use-case}
 
-Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
+Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
 
 ## Expérience de jeton {#token-experience}
 

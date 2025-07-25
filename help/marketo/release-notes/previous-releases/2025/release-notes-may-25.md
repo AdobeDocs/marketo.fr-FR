@@ -2,9 +2,10 @@
 description: Notes De Mise À Jour - Mai 2025 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Mai 2025
 feature: Release Information
-source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
+source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '436'
 ht-degree: 3%
 
 ---
@@ -29,16 +30,6 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <th style="width:65%">Fonctionnalité</th> 
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
-  </tr>
-  <tr> 
-   <td><strong>Personalization de contenu d’e-mail</strong> : Marketo Engage suit désormais la même syntaxe de casse mixte que les autres jetons d’application AEP, ce qui permet de fournir une expérience cohérente entre les produits Adobe DX. Tous les jetons standard, ainsi que les jetons spécifiques à Marketo Engage tels que Membre, Programme et Mes jetons, sont disponibles dans la nouvelle Designer d’e-mail.</td> 
-   <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">Jetons Personalization</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong>Contrôle d’accès en fonction du rôle pour Email Designer Assets</strong> : une nouvelle amélioration du système de contrôle d’accès en fonction du rôle (RBAC) offre des autorisations plus granulaires et une meilleure gestion des utilisateurs pour les ressources optimisées par le nouveau Designer d’e-mail.</td> 
@@ -71,12 +62,12 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Mise à jour de l’intégration de la conversion hors ligne Facebook** : le 29 mai 2025, l’intégration [Facebook Offline Conversion](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} pour Marketo Engage sera migrée vers la nouvelle API Meta [Conversions](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, en raison de l’obsolescence de l’API [Offline Conversions](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} par Meta, conformément au contrôle de version de l’API Graph. Pour plus d’informations, consultez le guide de Meta relatif à l’[envoi d’événements hors ligne via l’API de conversion](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI pour hors ligne).
+* **Mise à jour de l’intégration de la conversion hors ligne Facebook** : le 29 mai 2025, l’intégration [Facebook Offline Conversion](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} pour Marketo Engage sera migrée vers la nouvelle API Meta [Conversions](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, en raison de l’obsolescence de l’API [Offline Conversions](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} par Meta, conformément au contrôle de version de l’API Graph. Pour plus d’informations, consultez le guide de Meta relatif à l’[envoi d’événements hors ligne via l’API de conversion](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI pour hors ligne).
 
 * **Nouvelle fonctionnalité Analytics - Beta publique** : [Analytique BI avancée](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anciennement connue sous le nom de Revenue Explorer et de Advanced Report Builder) a commencé à être déployée auprès de tous les utilisateurs actuels de Revenue Cycle Explorer à la mi-avril. Ce nouvel outil offre une interface flexible de création de rapports et de visualisation sur les données Marketo Engage, fournissant des détails granulaires sur la progression, les performances, etc. Il offre une interactivité et une visualisation plus riches, des performances plus rapides et une expérience utilisateur plus fluide et intuitive.
 
 Pour accéder à cette fonctionnalité, vous devez avoir acheté le module complémentaire BI Analytics avancé. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
-* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
