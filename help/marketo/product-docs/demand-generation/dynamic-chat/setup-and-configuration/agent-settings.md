@@ -3,10 +3,10 @@ description: Paramètres de l’agent - Documents Marketo - Documentation du pro
 title: Paramètres de l’agent
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 2%
+source-wordcount: '605'
+ht-degree: 1%
 
 ---
 
@@ -90,7 +90,9 @@ Si vous êtes connecté à l’application, vous recevrez une notification in-ap
 
 >[!IMPORTANT]
 >
->Le [bouton de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} de la boîte de réception de l’agent **remplacera** ce que vous saisissez dans l’onglet Disponibilité du chat en direct . Ainsi, si vous êtes planifié comme disponible à partir de 1p-5p mais que vous devez faire une pause rapide à 3p, vous n&#39;avez pas besoin de modifier vos paramètres d&#39;agent. Le statut du bouton Disponibilité reste inchangé jusqu’à ce que vous le modifiiez manuellement ou jusqu’à ce que la prochaine période de votre disponibilité soit atteinte.
+>* Le [bouton de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} de la boîte de réception de l’agent **remplacera** ce qui est saisi dans l’onglet _Disponibilité du chat en direct_. Ainsi, si l&#39;agent est planifié comme disponible à partir de 1p-5p mais a besoin de prendre une pause rapide à 3p, ils n&#39;ont pas besoin de modifier leurs paramètres d&#39;agent. Le statut de basculement de disponibilité restera jusqu&#39;à ce qu&#39;il soit modifié manuellement, jusqu&#39;à ce que le prochain bloc de temps dans la disponibilité de l&#39;agent soit atteint, ou jusqu&#39;à minuit du fuseau horaire spécifié par l&#39;agent (voir la puce suivante pour plus d&#39;informations).
+>
+>* Lorsque l’agent utilise le bouton de disponibilité pour modifier son statut en « disponible », son statut se réinitialise automatiquement (passe à non disponible) à minuit du fuseau horaire spécifié dans son planning de disponibilité. Si aucun fuseau horaire n’est spécifié, la valeur par défaut est UTC (temps universel coordonné).
 
 >[!TIP]
 >

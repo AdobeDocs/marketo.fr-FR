@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 9%
+source-wordcount: '677'
+ht-degree: 8%
 
 ---
 
@@ -43,8 +43,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr> 
    <td><strong>Email Designer - Prise en charge du déplacement d’Assets et de la suppression de programme</strong> : déplacez rapidement une ressource e-mail entre les programmes. Vous pouvez désormais également supprimer des programmes qui contiennent des ressources de courrier électronique de nouveau concepteur.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>S.O.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -53,8 +53,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr> 
    <td><strong>Email Designer - Prise en charge de Firefox</strong> : Email Designer est désormais entièrement pris en charge dans Mozilla Firefox. Pour une expérience optimale, maintenez toujours votre navigateur à jour.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>S.O.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -63,8 +63,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr> 
    <td><strong>Email Designer - Simuler du contenu à partir de la page Propriétés</strong> : simulez le contenu des ressources d’e-mail à partir de l’<i>Propriétés de l’e-mail</i> sans avoir à revenir à l’écran de modification.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>S.O.</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -73,8 +73,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr> 
    <td><strong>Email Designer - Contrôle d’accès en fonction du rôle pour Assets</strong> : la version de mai a vu l’implémentation du contrôle d’accès en fonction du rôle (RBAC) pour les autorisations de modification, d’approbation et de suppression. Les autorisations de lecture sont désormais disponibles avec cette version.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>S.O.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -83,8 +83,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr> 
    <td><strong>Email Designer - Modifier les propriétés des e-mails publiés</strong> : apportez des modifications dans <i>Propriétés de l’e-mail</i> même après la publication de l’e-mail.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>S.O.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -93,8 +93,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr> 
    <td><strong>Email Designer - Sélectionnez le domaine de branding et la configuration IP du domaine</strong> : vous pouvez désormais sélectionner un « domaine de branding » et une « configuration IP du domaine » pour chaque ressource e-mail.</td> 
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td>Expédié</td>
+   <td>S.O.</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -142,7 +142,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Les cookies Munchkin et les ECID sont visibles </strong> : vous pouvez désormais voir une liste de numéros de cookies Munchkin et d’ECID (Experience Cloud Identity) dans l’onglet _Info_ d’une <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Page de détails de la personne</a>, ce qui réduit la dépendance aux appels d’API pour obtenir ces informations.</td>
+   <td><strong>Les cookies Munchkin et les ECID sont visibles </strong> : vous pouvez désormais voir une liste de numéros de cookies Munchkin et d’ECID (Experience Cloud Identity) dans l’onglet _Info_ d’une <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Page de détails de la personne</a>, ce qui réduit la dépendance aux appels d’API pour obtenir ces informations.</td>
    <td>Expédié</td>
    <td>S.O.</td>
   </tr>
@@ -152,12 +152,12 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Marketo Engage Identity End of Life** : en août 2025, Adobe commencera à supprimer progressivement la prise en charge de Marketo Engage Identity (connexion via `login.marketo.com`). Pour éviter l’interruption de l’accès à Marketo Engage, vous devez passer à [Adobe Identity](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} au plus tard le 30 septembre 2025.
+* **Marketo Engage Identity End of Life** : en août 2025, Adobe commencera à supprimer progressivement la prise en charge de Marketo Engage Identity (connexion via `login.marketo.com`). Pour éviter l’interruption de l’accès à Marketo Engage, vous devez passer à [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} au plus tard le 30 septembre 2025.
 
-   * _Obsolescence des restrictions IP_ : la prise en charge du [Limitation des connexions Marketo en fonction des adresses IP](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. Une nouvelle fonctionnalité de contrôle d’accès basé sur l’emplacement pour Adobe Identity dans Adobe Admin Console est prévue pour la version d’août 2025.
+   * _Obsolescence des restrictions IP_ : la prise en charge du [Limitation des connexions Marketo en fonction des adresses IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. Une nouvelle fonctionnalité de contrôle d’accès basé sur l’emplacement pour Adobe Identity dans Adobe Admin Console est prévue pour la version d’août 2025.
 
-   * _Obsolescence de l’authentification unique (SSO)_ : la prise en charge de [l’authentification unique de Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. L’authentification unique pour l’identité Adobe dans Adobe Admin Console doit être configurée séparément. Pour connaître les étapes de configuration, voir [Configurer une identité et l&#39;authentification SSO](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Obsolescence de l’authentification unique (SSO)_ : la prise en charge de [l’authentification unique de Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. L’authentification unique pour l’identité Adobe dans Adobe Admin Console doit être configurée séparément. Pour connaître les étapes de configuration, voir [Configurer une identité et l&#39;authentification SSO](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
