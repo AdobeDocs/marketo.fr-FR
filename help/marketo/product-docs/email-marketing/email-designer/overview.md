@@ -5,9 +5,9 @@ description: Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Enga
 title: Vue d’ensemble
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '870'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Engage.
 
-Le Concepteur d’e-mail est la dernière innovation de Marketo Engage. Il vise à offrir une expérience de création de modèles d’e-mail et d’e-mail repensée pour améliorer la productivité et l’efficacité en fournissant un éditeur visuel par glisser-déposer avec des modèles prêts à l’emploi. Créez facilement des modèles d’e-mail personnalisés sans avoir à dépenser d’argent pour les fournisseurs.
+Email Designer est la dernière innovation de Marketo Engage. Elle vise à offrir une expérience de création de modèles d’e-mail et d’e-mail repensée pour améliorer la productivité et l’efficacité en fournissant un éditeur visuel par glisser-déposer avec des modèles prêts à l’emploi. Créez facilement des modèles d’e-mail personnalisés sans avoir à dépenser d’argent pour les fournisseurs.
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ Le Concepteur d’e-mail est la dernière innovation de Marketo Engage. Il vise 
 
 ## Accès {#how-to-access}
 
-+++Découvrez comment accéder au concepteur d’e-mail.
++++Découvrez comment accéder au Designer d’e-mail.
 
-Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Pour accéder au nouveau Designer d’e-mail, votre abonnement Marketo Engage doit être migré vers le [système Adobe Identity Management (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Ajouter des utilisateurs {#add-users}
 
@@ -64,13 +64,15 @@ Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Enga
 
 * [Tester le rendu des e-mails avec Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"} : exploitez votre compte Litmus dans Marketo Engage pour voir instantanément comment vos e-mails sont rendus dans les clients de messagerie populaires.
 
+* [Détection de spam avec SpamAssassin](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"} : grâce à SpamAssassin dans Marketo Engage, vous pouvez tester le contenu de vos emails et déterminer dans quelle mesure les FAI/fournisseurs de messagerie sont susceptibles de le marquer comme spam.
+
 * [Comparaison des fonctionnalités](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"} : comparez la disponibilité des fonctionnalités de l’éditeur d’e-mail précédent (éditeur d’e-mail 2.0) à celle du nouveau Designer d’e-mail.
 
 ## Questions fréquentes {#faq}
 
 **L’ancien éditeur d’e-mail continuera-t-il à fonctionner ? Si oui, pour combien de temps ?**
 
-Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau concepteur d’e-mail. Les e-mails créés dans l’éditeur classique seront conservés. Il n’existe aucune date quant à la date d’abandon de l’éditeur classique pour le moment, mais il continuera à fonctionner en 2025.
+Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau Designer d’e-mail. Les e-mails créés dans l’éditeur classique seront conservés. Il n’existe aucune date quant à la date d’abandon de l’éditeur classique pour le moment, mais il continuera à fonctionner en 2025.
 
 **Dans quels programmes puis-je utiliser les nouveaux e-mails de Designer par e-mail ?**
 
@@ -82,11 +84,11 @@ Les modèles d’e-mail de l’éditeur classique ne peuvent pas être référen
 
 **Puis-je déplacer facilement de nouvelles ressources de concepteur vers un autre programme ?**
 
-Pas pour le moment. Mais cette fonctionnalité sera bientôt disponible.
+Oui !
 
-**Les ressources peuvent-elles être modifiées via l’API dans le nouveau concepteur d’e-mail ?**
+**Les ressources peuvent-elles être modifiées via l’API dans la nouvelle Designer d’e-mail ?**
 
-La modification d’Assets par le biais de l’API n’est pas prise en charge dans le nouveau concepteur d’e-mail pour le moment.
+La modification d’Assets par le biais de l’API n’est pas prise en charge dans le nouveau Designer d’e-mail pour le moment.
 
 **Existe-t-il un moyen d’appliquer l’image de marque (polices, logos et couleurs) ?**
 
@@ -100,7 +102,7 @@ Oui, absolument, plus personnalisable avec notre éditeur WYSIWYG (ce que vous v
 
 Il s’agit de WYSIWYG ; les connaissances HTML ne sont pas nécessaires. Vous pouvez facilement créer des modèles dans le concepteur, ce qui réduit le besoin de développeurs web externes. Cependant, vous avez toujours la possibilité de mettre à jour CSS et de modifier des sections individuelles via HTML. Nous travaillons également sur un moyen de migrer facilement les modèles de l’éditeur classique vers le nouveau concepteur.
 
-**Le nouveau concepteur d’e-mail prend-il en charge le langage AMP ?**
+**Le nouveau Designer d’e-mail prend-il en charge le langage AMP ?**
 
 Actuellement, il ne prend pas en charge AMP.
 
