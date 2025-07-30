@@ -26,7 +26,7 @@ Email Designer est la dernière innovation de Marketo Engage. Elle vise à offri
 
 +++Découvrez comment accéder au Designer d’e-mail.
 
-Pour accéder au nouveau Designer d’e-mail, votre abonnement Marketo Engage doit être migré vers le [système Adobe Identity Management (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Pour accéder au nouveau Designer d’e-mail, votre abonnement Marketo Engage doit être migré vers le [système Adobe Identity Management (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Ajouter des utilisateurs {#add-users}
 
