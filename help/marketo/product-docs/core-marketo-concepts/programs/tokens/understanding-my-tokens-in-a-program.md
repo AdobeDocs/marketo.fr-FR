@@ -4,9 +4,9 @@ description: Présentation de mes jetons dans un programme - Documents Marketo -
 title: Présentation de mes jetons dans un programme
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 4%
 
 ---
@@ -46,7 +46,7 @@ Exemples :
   </tr> 
   <tr> 
    <td>Script de l’e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td> 
+   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td> 
   </tr> 
   <tr> 
    <td>Nombre <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ Lorsque vous créez un jeton, il peut être référencé par d’autres objets d
 Vous pouvez créer des variables globales, puis les remplacer à des niveaux inférieurs dans l’arborescence.
 
 Le déplacement de programmes et de dossiers affecte également les jetons. Vérifiez toujours que les références ne sont pas rompues lors du déplacement.
+
+>[!IMPORTANT]
+>
+>Les jetons imbriqués ne sont pas pris en charge dans les [campagnes par lots](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
