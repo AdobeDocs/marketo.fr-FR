@@ -3,7 +3,7 @@ description: Accorder le consentement pour l’ID client et l’enregistrement d
 title: Accorder le consentement pour l’ID client et l’enregistrement de l’application
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -30,25 +30,25 @@ Suivez les étapes ci-dessous pour savoir comment accorder le consentement/les a
    state value can be any ID (e.g.,12345)
    ```
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>valeur client_id</strong></td> 
-      <td>doit être le client_id généré dans le processus d’enregistrement de l’application.</td> 
-     </tr> 
-     <tr> 
-      <td><strong>valeur redirect_uri</strong></td> 
-      <td>doit être identique à la valeur saisie au moment de l’enregistrement de l’application &gt; URI de redirection</td> 
-     </tr> 
-     <tr> 
-      <td><strong>valeur d'état</strong></td> 
-      <td>peut être n’importe quel ID (par exemple, 12345).</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>valeur client_id</strong></td>
+      <td>doit être le client_id généré dans le processus d’enregistrement de l’application.</td>
+     </tr>
+     <tr>
+      <td><strong>valeur redirect_uri</strong></td>
+      <td>doit être identique à la valeur saisie au moment de l’enregistrement de l’application &gt; URI de redirection</td>
+     </tr>
+     <tr>
+      <td><strong>valeur d'état</strong></td>
+      <td>peut être n’importe quel ID (par exemple, 12345).</td>
+     </tr>
+    </tbody>
    </table>
 
    L’URL finale doit se présenter comme suit : `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`

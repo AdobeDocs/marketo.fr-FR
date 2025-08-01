@@ -4,7 +4,7 @@ description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marke
 title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 3%
@@ -60,7 +60,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
    >
    >Veillez à cocher la case **[!UICONTROL Le mot de passe n’expire jamais]**.
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations générales des utilisateurs &#x200B;] , assurez-vous que les cases suivantes sont cochées :
+1. Dans la section [!UICONTROL  Autorisations générales des utilisateurs ] , assurez-vous que les cases suivantes sont cochées :
 
    * [!UICONTROL Convertir les leads]
    * [!UICONTROL Modifier les événements]
@@ -68,13 +68,13 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
 
    * [!UICONTROL Comptes]
    * [!UICONTROL Campagnes]
    * [!UICONTROL Contacts]
    * [!UICONTROL Leads]
-   * [!UICONTROL &#x200B; Opportunités &#x200B;]
+   * [!UICONTROL  Opportunités ]
 
    >[!NOTE]
    >
@@ -121,25 +121,25 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
 1. Une fois que vous avez désactivé tous les champs inutiles, vous devez vérifier **[!UICONTROL Accès en lecture et Accès en modification]** pour les champs d’objet suivants. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Objet</th> 
-   <th>Champs</th> 
-  </tr> 
-  <tr> 
-   <td>Compte</td> 
-   <td>Champ de type</td> 
-  </tr> 
-  <tr> 
-   <td>Événement</td> 
-   <td>Tous les champs</td> 
-  </tr> 
-  <tr> 
-   <td>Tâche</td> 
-   <td>Tous les champs</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Objet</th>
+   <th>Champs</th>
+  </tr>
+  <tr>
+   <td>Compte</td>
+   <td>Champ de type</td>
+  </tr>
+  <tr>
+   <td>Événement</td>
+   <td>Tous les champs</td>
+  </tr>
+  <tr>
+   <td>Tâche</td>
+   <td>Tous les champs</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

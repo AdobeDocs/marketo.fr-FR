@@ -1,9 +1,9 @@
 ---
-description: Personnalisation des webinaires interactifs - Documents Marketo - Documentation du produit
+description: Personnalisation Des Webinaires Interactifs - Documents Marketo - Documentation Du Produit
 title: Personnalisation des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 0%
@@ -14,18 +14,18 @@ ht-degree: 0%
 
 La personnalisation de vos webinaires est essentielle pour créer une expérience plus attrayante et plus efficace pour les participants.
 
-Les webinaires interactifs offrent plusieurs options de personnalisation pour adapter l’environnement de webinaire à vos besoins. Personnalisez l’aspect de différents écrans pour refléter la marque de votre entreprise.
+Les webinaires interactifs offrent plusieurs options de personnalisation pour adapter l’environnement du webinaire à vos besoins. Personnalisez l’aspect de différents écrans pour refléter l’identité graphique de votre entreprise.
 
 Vous pouvez personnaliser les options suivantes :
 
-* Couleurs de marque de la pièce
-* Arrière-plan personnalisé pour représenter votre entreprise sur les écrans d’entrée, de sortie et d’attente
+* Couleurs de marque de la chambre
+* Arrière-plan personnalisé pour représenter votre organisation sur les écrans d’entrée, de sortie et d’attente
 * Logo
 * Arrière-plans vidéo virtuels
 
-## Octroi d’autorisations {#grant-permissions}
+## Octroi des autorisations {#grant-permissions}
 
-Avant que des utilisateurs de votre entreprise puissent personnaliser vos webinaires interactifs, un administrateur de Marketo Engage doit d’abord ajouter l’accès au ou aux rôles souhaités.
+Avant que des utilisateurs de votre organisation puissent personnaliser vos webinaires interactifs, un administrateur Marketo Engage doit d’abord ajouter un accès au(x) rôle(s) souhaité(s).
 
 1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
 
@@ -43,13 +43,13 @@ Avant que des utilisateurs de votre entreprise puissent personnaliser vos webina
 
    ![](assets/interactive-webinars-customization-4.png)
 
-1. Cochez la case **[!UICONTROL Accéder à la personnalisation des webinaires interactifs]** .
+1. Cochez la case **[!UICONTROL Accéder à la personnalisation des webinaires interactifs]**.
 
    ![](assets/interactive-webinars-customization-5.png)
 
 ## Personnalisation des écrans de webinaire interactif {#customize-interactive-webinar-screens}
 
-1. Accédez à **Design Studio**.
+1. Accédez au **Design Studio**.
 
    ![](assets/interactive-webinars-customization-6.png)
 
@@ -57,80 +57,80 @@ Avant que des utilisateurs de votre entreprise puissent personnaliser vos webina
 
    ![](assets/interactive-webinars-customization-7.png)
 
-1. Vous pouvez personnaliser l’interface de la salle, les écrans directs ou les arrière-plans vidéo virtuels.
+1. Vous pouvez personnaliser l’interface de l’espace, les écrans immédiats ou les arrière-plans vidéo virtuels.
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### Personnalisation de l’interface de la chambre {#customize-the-room-interface}
+### Personnaliser l’interface de l’espace {#customize-the-room-interface}
 
-Vous pouvez personnaliser l’aspect de la salle de session en modifiant le logo, le lien de redirection cliquable et les couleurs. Vos modifications seront répercutées dans tous les événements et salles de votre entreprise.
+Vous pouvez personnaliser l’apparence de la salle de session en modifiant le logo, le lien de redirection cliquable et les couleurs. Vos modifications seront répercutées dans tous les événements et salles de votre organisation.
 
-Pour personnaliser l’aspect d’une pièce, sélectionnez l’onglet Interface de la salle dans la barre de menus.
+Pour personnaliser l&#39;apparence d&#39;un espace, sélectionnez l&#39;onglet Interface de l&#39;espace dans la barre de menus.
 
 1. Dans le panneau de droite, personnalisez les préférences suivantes :
 
    ![](assets/interactive-webinars-customization-9.png)
 
-   **Logo personnalisé** : sélectionnez Télécharger le logo et parcourez l’image à partir de votre appareil. La taille de l’image ne doit pas excéder 50 x 31 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer votre logo.
+   **Logo personnalisé** : sélectionnez Charger le logo et parcourez l’image à partir de votre appareil. La taille de l’image ne doit pas dépasser 50 x 31 pixels et peut être présentée dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer votre logo.
 
-   **Lien de redirection** : ajoutez une URL pour rediriger vos participants après avoir cliqué sur le logo.
+   **Lien de redirection** : ajoutez une URL pour rediriger vos participants après qu&#39;ils ont cliqué sur le logo.
 
-   **Texte de remplacement** : ajoutez un texte de remplacement pour les participants à l’aide des fonctions d’accessibilité.
+   **Texte secondaire** : ajoutez un texte secondaire pour les participants à l’aide des fonctions d’accessibilité.
 
-   **Couleurs** : sélectionnez des couleurs pour la barre de la salle, les icônes de la salle, l’arrière-plan de la salle, la barre de la capsule et les mosaïques/icônes de la capsule pour modifier la couleur de différentes sections.
+   **Couleurs** : sélectionnez les couleurs pour Barre d’espace, Icônes d’espace, Arrière-plan d’espace, Barre pod et Mosaïques/icônes pod pour modifier la couleur des différentes sections.
 
    Vous pouvez également saisir le code couleur HEX à l’aide de l’option HEX .
 
-   Sélectionnez **[!UICONTROL Afficher les modèles]** pour modifier le thème de la salle.
+   Sélectionnez **[!UICONTROL Afficher les modèles]** pour modifier le thème de la pièce.
 
    Après avoir apporté les modifications, vous pouvez vérifier le logo et les couleurs dans l’aperçu.
 
-1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
+1. Sélectionnez **[!UICONTROL Appliquer]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser aux paramètres par défaut]**.
 
    ![](assets/interactive-webinars-customization-10.png)
 
 ### Personnalisation des écrans intermédiaires {#customize-intermediate-screens}
 
-Modifiez l’image d’arrière-plan pour changer l’aspect des écrans d’entrée, de sortie et d’attente. Les modifications sont répercutées dans tous les événements et salles de votre entreprise.
+Modifiez l’image d’arrière-plan pour changer l’aspect des écrans d’entrée, de sortie et d’attente. Les modifications sont répercutées dans tous les événements et salles de votre organisation.
 
 Pour personnaliser l’aspect d’une pièce, sélectionnez l’onglet Écrans intermédiaires dans la barre de menus.
 
-1. Dans le panneau de droite, personnalisez l’image d’arrière-plan en sélectionnant **Télécharger l’image** et recherchez un logo. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer le logo, le cas échéant.
+1. Dans le panneau de droite, personnalisez l’image d’arrière-plan en sélectionnant **Télécharger l’image** et recherchez un logo dans une image. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut être présentée dans différents formats de fichier : .svg, .gif, .jpg et .png. Vous pouvez modifier ou supprimer le logo si vous le souhaitez.
 
    ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
-   >L’image téléchargée est appliquée dans les écrans Entrée, Sortie et En attente.
+   >L’image chargée est appliquée sur les écrans Entrée, Sortie et En attente .
 
-1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
+1. Sélectionnez **[!UICONTROL Appliquer]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser aux paramètres par défaut]**.
 
 ### Personnalisation des arrière-plans vidéo virtuels {#Customize-virtual-video-backgrounds}
 
-Utilisez les arrière-plans définis par l’organisation au cours de vos événements pour afficher le logo ou l’image de marque de votre entreprise en arrière-plan de votre flux vidéo d’appareil photo. Pour ajouter les arrière-plans virtuels de votre entreprise, sélectionnez l’onglet Arrière-plans vidéo virtuels dans la barre de menus. Vous pouvez choisir d’afficher uniquement les arrière-plans personnalisés, les arrière-plans Adobe Connect, ou les deux.
+Utilisez des arrière-plans définis par l’organisation lors de vos événements pour afficher le logo ou l’image de marque de votre organisation à l’arrière-plan de votre flux vidéo de caméra. Pour ajouter les arrière-plans virtuels de votre entreprise, sélectionnez l’onglet Arrière-plans vidéo virtuels dans la barre de menus. Vous pouvez choisir d’afficher uniquement les arrière-plans personnalisés, les arrière-plans Adobe Connect ou les deux.
 
 **Arrière-plans personnalisés**
 
-1. Cliquez sur le bouton bascule pour activer les arrière-plans personnalisés dans vos événements et salles.
+1. Cliquez sur le bouton (bascule) pour autoriser les arrière-plans personnalisés dans vos événements et salles.
 
    ![](assets/interactive-webinars-customization-12.png)
 
-1. Sélectionnez **Télécharger l’arrière-plan** pour charger un arrière-plan personnalisé. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut se présenter dans différents formats de fichier : .svg, .gif, .jpg et .png.
+1. Sélectionnez **Charger l’arrière-plan** pour charger un arrière-plan personnalisé. La taille de l’image ne doit pas dépasser 1 920 x 1 080 pixels et peut être présentée dans différents formats de fichier : .svg, .gif, .jpg et .png.
 
-Passez la souris sur l’image d’arrière-plan personnalisée pour la supprimer des arrière-plans vidéo.
+Pointez sur l’image d’arrière-plan personnalisée pour la supprimer des arrière-plans vidéo.
 
-Après avoir apporté les modifications, affichez l’arrière-plan dans Aperçu.
+Après avoir apporté les modifications, affichez l’arrière-plan dans l’aperçu.
 
-Vous pouvez utiliser le curseur de l’écran Aperçu pour effectuer un zoom avant ou arrière afin de tester l’arrière-plan virtuel si l’utilisateur était proche ou éloigné de l’appareil photo. S’il y a du texte en arrière-plan, cela permet de s’assurer qu’il reste visible.
+Vous pouvez utiliser le curseur dans l’écran Aperçu pour effectuer un zoom avant ou arrière et tester l’aspect de l’arrière-plan virtuel si l’utilisateur se trouvait à proximité ou à distance de la caméra. S’il existe du texte en arrière-plan, cela permet de s’assurer qu’il reste visible.
 
-1. Sélectionnez **[!UICONTROL Apply]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser sur la valeur par défaut]**.
+1. Sélectionnez **[!UICONTROL Appliquer]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser aux paramètres par défaut]**.
 
 **Arrière-plans Adobe Connect**
 
-Adobe Connect fournit neuf arrière-plans par défaut prêts à l’emploi. Vous pouvez voir leur apparence dans Aperçu.
+Adobe Connect fournit neuf fonds d’écran par défaut prêts à l’emploi. Vous pouvez voir leur apparence dans l’aperçu.
 
-Utilisez le bouton d’activation/désactivation pour contrôler la disponibilité de ces arrière-plans par défaut dans vos événements et salles.
+Utilisez le bouton (bascule) pour contrôler la disponibilité de ces arrière-plans par défaut dans vos événements et salles.
 
 ![](assets/interactive-webinars-customization-13.png)
 
-Sélectionnez **Apply** pour enregistrer les modifications ou **Reset to default** pour réinitialiser les paramètres par défaut.
+Sélectionnez **Appliquer** pour enregistrer les modifications ou **Réinitialiser aux paramètres par défaut** pour réinitialiser aux paramètres par défaut.

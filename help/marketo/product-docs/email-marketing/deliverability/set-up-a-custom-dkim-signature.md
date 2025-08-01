@@ -4,7 +4,7 @@ description: Configuration d’une signature DKIM personnalisée - Documents Mar
 title: Configurer une signature DKIM personnalisée
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 1%
@@ -41,12 +41,12 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>Sélecteur</b></td>
    <td>Chaîne/identifiant unique utilisé pour localiser la partie clé publique de l’enregistrement DKIM. Il peut s’agir d’une chaîne arbitraire ou d’un identifiant unique permettant de la séparer et d’identifier l’objectif de cette clé/de cet enregistrement DKIM.</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>Longueur de clé</b></td>
    <td>Niveau de sécurité avec lequel vous souhaitez que votre signature DKIM soit chiffrée.</td>
    </tr>

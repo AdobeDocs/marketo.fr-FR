@@ -4,7 +4,7 @@ description: Création de règles de workflow dans Salesforce - Documents Market
 title: Création de règles de workflow dans Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
@@ -25,29 +25,29 @@ La solution consiste à créer de nouvelles règles de workflow pour copier les 
 
 Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur description. Ils s’appliquent à l’objet [!UICONTROL Contact] et [!UICONTROL Lead] :
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>Mettre à jour le champ de description du moment intéressant</td> 
-   <td><p>Copier à partir de : Desc Dernier engagement Marketo<br>Copier vers : Desc Dernier moment intéressant</p></td> 
-  </tr> 
-  <tr> 
-   <td>Mettre à jour le champ Type de moment intéressant</td> 
-   <td><p>Copier à partir de : dernier type d’engagement Marketo<br>Copier vers : dernier type de moment intéressant</p></td> 
-  </tr> 
-  <tr> 
-   <td>Mettre à jour le champ Source du moment intéressant</td> 
-   <td><p>Copier à partir de : dernier engagement Marketo Source<br>Copier vers : dernier moment intéressant Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>Mettre à jour le champ Date du moment intéressant</td> 
-   <td><p>Copier à partir de : Date du dernier engagement dans Marketo<br>Copier vers : Date du dernier moment intéressant</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>Mettre à jour le champ de description du moment intéressant</td>
+   <td><p>Copier à partir de : Desc Dernier engagement Marketo<br>Copier vers : Desc Dernier moment intéressant</p></td>
+  </tr>
+  <tr>
+   <td>Mettre à jour le champ Type de moment intéressant</td>
+   <td><p>Copier à partir de : dernier type d’engagement Marketo<br>Copier vers : dernier type de moment intéressant</p></td>
+  </tr>
+  <tr>
+   <td>Mettre à jour le champ Source du moment intéressant</td>
+   <td><p>Copier à partir de : dernier engagement Marketo Source<br>Copier vers : dernier moment intéressant Source</p></td>
+  </tr>
+  <tr>
+   <td>Mettre à jour le champ Date du moment intéressant</td>
+   <td><p>Copier à partir de : Date du dernier engagement dans Marketo<br>Copier vers : Date du dernier moment intéressant</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Instructions {#instructions}
@@ -64,7 +64,7 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
 
    ![](assets/three-1.png)
 
-1. Saisissez « Mettre à jour le champ de description du moment intéressant » comme [!UICONTROL &#x200B; Nom de la règle &#x200B;]. Sélectionnez le bouton radio **[!UICONTROL créé, puis chaque fois qu’il est modifié]**. Dans le menu déroulant [!UICONTROL Critères de règle], sélectionnez **[!UICONTROL la formule est évaluée sur true]**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **[!UICONTROL Insérer un champ]**.
+1. Saisissez « Mettre à jour le champ de description du moment intéressant » comme [!UICONTROL  Nom de la règle ]. Sélectionnez le bouton radio **[!UICONTROL créé, puis chaque fois qu’il est modifié]**. Dans le menu déroulant [!UICONTROL Critères de règle], sélectionnez **[!UICONTROL la formule est évaluée sur true]**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **[!UICONTROL Insérer un champ]**.
 
    ![](assets/four-1.png)
 
@@ -76,7 +76,7 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
 
    ![](assets/6.png)
 
-1. Dans la liste déroulante [!UICONTROL &#x200B; Ajouter une action de workflow &#x200B;], sélectionnez **[!UICONTROL Nouvelle mise à jour de champ]**.
+1. Dans la liste déroulante [!UICONTROL  Ajouter une action de workflow ], sélectionnez **[!UICONTROL Nouvelle mise à jour de champ]**.
 
    ![](assets/seven.png)
 

@@ -4,7 +4,7 @@ description: Présentation Des Jetons - Documents Marketo - Documentation Du Pro
 title: Présentation des jetons
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%

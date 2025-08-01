@@ -3,50 +3,50 @@ description: Génération de questions - Documents Marketo - Documentation du pr
 title: Génération de questions
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Génération de questions {#question-generation}
 
-Affichez toutes vos tâches et leurs détails pertinents, tels que le moment où elles ont été générées, le nombre total de questions, l’état d’approbation, etc.
+Affichez toutes vos tâches et leurs détails pertinents, tels que la date de génération, le nombre total de questions, le statut d’approbation, etc.
 
 ## Générer des questions {#generate-questions}
 
-1. Sous Generative AI, cliquez sur **[!UICONTROL Réponses assistées]**.
+1. Sous IA générative, cliquez sur **[!UICONTROL Réponses assistées]**.
 
    ![](assets/question-generation-1.png)
 
-1. Cliquez sur **[!UICONTROL Générer les questions]**.
+1. Cliquez sur **[!UICONTROL Générer des questions]**.
 
    ![](assets/question-generation-2.png)
 
-1. Donnez un nom à votre tâche et saisissez une URL source (jusqu’à 10) à partir de laquelle tout le contenu sera extrait. Saisissez les rubriques/mots-clés de votre choix, puis appuyez sur la touche Entrée de votre clavier. Une fois que vous avez terminé, cliquez sur **[!UICONTROL Générer]**.
+1. Donnez un nom à votre tâche et saisissez une URL source (jusqu’à 10) à partir de laquelle tout le contenu sera extrait. Saisissez les rubriques/mots-clés souhaités et appuyez sur Entrée sur votre clavier. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Générer]**.
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >Pour vous assurer que Marketo Engage peut extraire du contenu des URL fournies, vous devez d’abord placer sur la liste autorisée plusieurs adresses IP. [Voir ci-dessous pour plus de détails](#ip-addresses-to-allowlist).
+   >Pour que Marketo Engage puisse récupérer du contenu à partir des URL fournies, vous devez d’abord placer sur la liste autorisée plusieurs adresses IP. [Voir ci-dessous pour plus de détails](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
-   >Les sites/pages doivent être publics (c’est-à-dire qu’ils ne doivent pas être masqués derrière une connexion) pour que leurs informations soient mises au rebut.
+   >Les sites/pages doivent être publics (c’est-à-dire non masqués derrière une connexion) pour que leurs informations soient supprimées.
 
-1. En fonction de votre contenu, la génération de questions et de réponses peut prendre jusqu’à 30 minutes. Cliquez sur **[!UICONTROL OK]**.
+1. Selon votre contenu, la génération de la question et de la réponse peut prendre jusqu’à 30 minutes. Cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/question-generation-4.png)
 
    >[!TIP]
    >
-   >Actualisez l’accès pour afficher le dernier état de la génération de questions.
+   >Appuyez sur Actualiser pour afficher le dernier statut de la génération de votre question.
 
    ![](assets/question-generation-5.png)
 
-## Téléchargement des questions et réponses {#download-questions-and-responses}
+## Télécharger les questions et réponses {#download-questions-and-responses}
 
 >[!NOTE]
 >
@@ -56,25 +56,25 @@ Affichez toutes vos tâches et leurs détails pertinents, tels que le moment où
 
    ![](assets/question-generation-6.png)
 
-1. Recherchez le dossier de téléchargements dans votre navigateur et sélectionnez le fichier. Cela peut avoir un aspect différent selon le navigateur que vous utilisez.
+1. Recherchez le dossier de téléchargements dans votre navigateur et sélectionnez le fichier . Cela peut varier en fonction du navigateur que vous utilisez.
 
    ![](assets/question-generation-7.png)
 
-1. Dans le fichier Excel, **[!DNL Task details]** affiche précisément cela, divers détails sur la tâche, y compris des instructions sur la façon d&#39;ajouter/modifier des questions et/ou des réponses.
+1. Dans le fichier Excel, **[!DNL Task details]** affiche uniquement ce détail, ainsi que divers détails sur la tâche, y compris des instructions sur la manière d’ajouter ou de modifier des questions et/ou des réponses.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >Si vous décidez d&#39;ajouter/modifier des questions et/ou des réponses en masse, [apprenez à les transférer ici](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >Si vous décidez d’ajouter/modifier en bloc des questions et/ou des réponses, [découvrez comment les charger à nouveau ici](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. L’onglet **[!DNL Q&Rs]** fournit des détails supplémentaires, y compris les questions et réponses générées.
 
    ![](assets/question-generation-9.png)
 
-## Adresses IP à Liste autorisée {#ip-addresses-to-allowlist}
+## Adresses IP à Placer sur la liste autorisée {#ip-addresses-to-allowlist}
 
-Pour permettre l’extraction de contenu de vos URL web lors de la génération des questions et réponses, localisez votre région ci-dessous et vérifiez que l’adresse IP qui y est associée est placée sur la liste autorisée par votre équipe web.
+Afin de permettre l&#39;extraction du contenu de vos URL web pendant la génération des questions et réponses, localisez votre région ci-dessous et assurez-vous que l&#39;adresse IP qui lui est associée est bien placée sur la liste autorisée par votre équipe web.
 
 <table width="450">
 <thead>

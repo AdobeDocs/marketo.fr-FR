@@ -3,7 +3,7 @@ description: Intégration de Dynamic Chat - Documents Marketo - Documentation du
 title: Intégration du Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 6%
@@ -84,9 +84,9 @@ De même, les panneaux Compte et Opportunité comprennent les colonnes [!UICONTR
 
 L’onglet Conversation est également inclus dans votre onglet Marketo global . Il comprend trois types d’activités ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint]), ainsi que les colonnes suivantes :
 
-* [!UICONTROL &#x200B; Personne &#x200B;]
+* [!UICONTROL  Personne ]
 * [!UICONTROL Compte]
-* [!UICONTROL &#x200B; Type d’activité &#x200B;] ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint])
+* [!UICONTROL  Type d’activité ] ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint])
 * [!UICONTROL Nom de la boîte de dialogue]
 * [!UICONTROL Date]
 
@@ -103,4 +103,3 @@ Là encore, vous pouvez en savoir plus sur un type d’activité en cliquant des
 >* Onglet Conversation dans l’onglet Marketo globale
 >
 >Il n’est pas possible de désactiver une seule de ces fonctionnalités.
-

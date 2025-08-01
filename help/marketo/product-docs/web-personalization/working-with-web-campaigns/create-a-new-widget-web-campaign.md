@@ -4,7 +4,7 @@ description: Création d’une campagne web de widget - Documents Marketo - Docu
 title: Créer une campagne web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 1%
@@ -37,65 +37,65 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
    ![](assets/preview.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nom</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>Modèles</strong></td> 
-   <td colspan="1">Choisissez l’un des modèles préconfigurés.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Afficher sur</strong></td> 
-   <td colspan="1">Permet de <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personnaliser quand et comment</a> l’affichage de votre campagne web.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Animer l’entrée/la sortie</strong></td> 
-   <td colspan="1">Définissez sur entrée de boîte de dialogue et/ou sortie. Sélectionnez l’effet (dépôt, aveugle, diapositive, fondu, aucun effet), la durée (en secondes) et la direction (haut, bas, gauche, droite).</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Position</strong></td> 
-   <td colspan="1">Sélectionnez l’une des quatre options pour la position du widget sur la page : Droite, Gauche, Haut, Bas. Position % est le pourcentage du positionnement quant à l’endroit où le widget apparaîtra dans la page du navigateur (par exemple, « 50 % en bas » fera apparaître le widget à mi-chemin en bas de la page, « 10 % à gauche » fera apparaître le widget près du coin supérieur gauche de la page, etc.).<br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Couleur du widget</strong></td> 
-   <td colspan="1" rowspan="1"><p>Sélectionnez la couleur du widget dans une palette de couleurs ou saisissez-la sous forme de code couleur RGB. Vous pouvez également sélectionner le niveau de transparence de l’arrière-plan du widget en déplaçant la barre située en bas dans l’une ou l’autre direction.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Bouton Widget</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Personnalisez le bouton du widget lui-même.<br>Flèche : vous permet de choisir parmi plusieurs icônes différentes dans le menu déroulant de droite. La liste déroulante de gauche détermine sa couleur.<br>Personnalisé : permet d’insérer l’URL de toute image hébergée. Types de fichiers acceptés : .JPEG, .GIF (y compris animé), .PNG, .APNG, .SVG, .BMP.<br>Texte : le widget peut être en texte. Personnalisez sa couleur, sa taille et sa police.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Fixe</strong></td> 
-   <td colspan="1">Cette sélection garantit que le widget apparaîtra sur toutes les pages web tout au long de la session du visiteur.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Réduire le widget sur l’affichage de la campagne</strong></td> 
-   <td colspan="1">Insère le widget, mais le réduit en obligeant l’utilisateur à cliquer dessus pour l’agrandir.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Restaurer la valeur par défaut </strong></td> 
-   <td colspan="1">Rétablit le paramètre par défaut d’origine du widget, en définissant la couleur du widget sur l’option de gris transparent par défaut.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Aperçu sur le site </strong></td> 
-   <td colspan="1">Prévisualisez les campagnes avant leur lancement.<br> 
-    <ul> 
-     <li>URL : saisissez un exemple d’URL où la campagne serait exécutée pour afficher un exemple d’aperçu de l’apparence de la campagne en direct.</li> 
-     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong>pour ouvrir une nouvelle fenêtre de l’exemple d’URL et voir comment la campagne réagit (ajoutez l’extension <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome</a> afin d’offrir une expérience d’aperçu de campagne web optimale). </li> 
-     <li>Partager : utilisez le bouton Partager pour envoyer un e-mail à un collègue avec un lien afin d’afficher la campagne proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nom</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>Modèles</strong></td>
+   <td colspan="1">Choisissez l’un des modèles préconfigurés.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Afficher sur</strong></td>
+   <td colspan="1">Permet de <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personnaliser quand et comment</a> l’affichage de votre campagne web.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Animer l’entrée/la sortie</strong></td>
+   <td colspan="1">Définissez sur entrée de boîte de dialogue et/ou sortie. Sélectionnez l’effet (dépôt, aveugle, diapositive, fondu, aucun effet), la durée (en secondes) et la direction (haut, bas, gauche, droite).</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Position</strong></td>
+   <td colspan="1">Sélectionnez l’une des quatre options pour la position du widget sur la page : Droite, Gauche, Haut, Bas. Position % est le pourcentage du positionnement quant à l’endroit où le widget apparaîtra dans la page du navigateur (par exemple, « 50 % en bas » fera apparaître le widget à mi-chemin en bas de la page, « 10 % à gauche » fera apparaître le widget près du coin supérieur gauche de la page, etc.).<br></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Couleur du widget</strong></td>
+   <td colspan="1" rowspan="1"><p>Sélectionnez la couleur du widget dans une palette de couleurs ou saisissez-la sous forme de code couleur RGB. Vous pouvez également sélectionner le niveau de transparence de l’arrière-plan du widget en déplaçant la barre située en bas dans l’une ou l’autre direction.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Bouton Widget</strong><br></p></td>
+   <td colspan="1" rowspan="1">Personnalisez le bouton du widget lui-même.<br>Flèche : vous permet de choisir parmi plusieurs icônes différentes dans le menu déroulant de droite. La liste déroulante de gauche détermine sa couleur.<br>Personnalisé : permet d’insérer l’URL de toute image hébergée. Types de fichiers acceptés : .JPEG, .GIF (y compris animé), .PNG, .APNG, .SVG, .BMP.<br>Texte : le widget peut être en texte. Personnalisez sa couleur, sa taille et sa police.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Fixe</strong></td>
+   <td colspan="1">Cette sélection garantit que le widget apparaîtra sur toutes les pages web tout au long de la session du visiteur.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Réduire le widget sur l’affichage de la campagne</strong></td>
+   <td colspan="1">Insère le widget, mais le réduit en obligeant l’utilisateur à cliquer dessus pour l’agrandir.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Restaurer la valeur par défaut </strong></td>
+   <td colspan="1">Rétablit le paramètre par défaut d’origine du widget, en définissant la couleur du widget sur l’option de gris transparent par défaut.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Aperçu sur le site </strong></td>
+   <td colspan="1">Prévisualisez les campagnes avant leur lancement.<br>
+    <ul>
+     <li>URL : saisissez un exemple d’URL où la campagne serait exécutée pour afficher un exemple d’aperçu de l’apparence de la campagne en direct.</li>
+     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong>pour ouvrir une nouvelle fenêtre de l’exemple d’URL et voir comment la campagne réagit (ajoutez l’extension <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome</a> afin d’offrir une expérience d’aperçu de campagne web optimale). </li>
+     <li>Partager : utilisez le bouton Partager pour envoyer un e-mail à un collègue avec un lien afin d’afficher la campagne proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
 >
->**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL &#x200B; Réglage automatique &#x200B;], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
+>**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL  Réglage automatique ], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
 
 ## Modification d’une campagne web {#edit-a-web-campaign}
 

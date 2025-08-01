@@ -4,7 +4,7 @@ description: Présentation Des Options D’Envoi - Documents Marketo - Documenta
 title: Comprendre les options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%

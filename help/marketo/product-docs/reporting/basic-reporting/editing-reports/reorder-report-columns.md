@@ -4,7 +4,7 @@ description: Réorganiser les colonnes du rapport - Documents Marketo - Document
 title: Réorganiser les colonnes du rapport
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 2%

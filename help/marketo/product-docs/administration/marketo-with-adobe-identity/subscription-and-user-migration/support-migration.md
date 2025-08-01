@@ -1,51 +1,51 @@
 ---
-description: Migration de la prise en charge des Marketo Engage - Documents Marketo - Documentation du produit
-title: Migration de la prise en charge des Marketo Engage
+description: Migration de l’assistance Marketo Engage - Documentation de Marketo - Documentation du produit
+title: Migration de la prise en charge Marketo Engage
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
-# Migration de la prise en charge des Marketo Engage {#marketo-engage-support-migration}
+# Migration de la prise en charge Marketo Engage {#marketo-engage-support-migration}
 
-Découvrez les modifications à venir de votre processus de prise en charge de Adobe Marketo Engage. Les mises à jour sont conçues pour simplifier vos tâches administratives et améliorer votre expérience globale.
+En savoir plus sur les modifications à venir de votre processus d’assistance Adobe Marketo Engage. Les mises à jour sont conçues pour rationaliser vos tâches administratives et améliorer votre expérience globale.
 
 ## Marketo Engage Admin Console {#marketo-engage-admin-console}
 
-La première mise à jour implique l’introduction du nouveau [Adobe Admin Console](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"} pour les utilisateurs de Marketo Engage. Adobe Admin Console vous permet de gérer plus efficacement vos utilisateurs et abonnements. Grâce à cette mise à jour, vous pourrez mieux contrôler vos fonctions administratives sans aucun impact sur la manière dont vous utilisez actuellement les produits Adobe. Cela signifie que vous pouvez continuer vos opérations quotidiennes en toute transparence tout en bénéficiant des capacités d’administration améliorées.
+La première mise à jour implique l’introduction du nouveau [Adobe Admin Console](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"} pour les utilisateurs de Marketo Engage. Adobe Admin Console vous permet de gérer vos utilisateurs et vos abonnements plus efficacement. Grâce à cette mise à jour, vous pourrez mieux contrôler vos fonctions administratives sans aucun impact sur la manière dont vous utilisez actuellement les produits Adobe. Cela signifie que vous pouvez poursuivre vos opérations quotidiennes en toute simplicité tout en bénéficiant de capacités administratives améliorées.
 
 ## Mise à jour et migration du portail d’assistance Marketo Engage {#marketo-engage-support-portal}
 
-La deuxième mise à jour améliore considérablement la manière dont vous soumettez les tickets d’assistance. Auparavant, vous utilisiez le portail [Marketing Nation](https://nation.marketo.com/){target="_blank"} pour envoyer des demandes d’assistance. À partir de maintenant, ce processus sera simplifié en redirigeant tous les envois de ticket d’assistance vers Adobe Experience League. Pour l’instant, la communauté Marketo Engage/Mesure restera la nation marketing. Dans un avenir proche, nous transférerons également ces ressources vers Adobe Experience League.
+La deuxième mise à jour améliorera considérablement la manière dont vous soumettez les tickets d’assistance. Auparavant, vous utilisiez le portail [Marketing Nation](https://nation.marketo.com/){target="_blank"} pour envoyer des demandes d’assistance. À l’avenir, ce processus sera rationalisé en redirigeant toutes les soumissions de tickets d’assistance vers Adobe Experience League. Pour l&#39;instant, la communauté Marketo Engage/Measure demeurera dans la nation Marketing. Dans un avenir proche, nous transférerons également ces ressources vers Adobe Experience League.
 
 ## Qu&#39;est-ce qui change ? {#whats-changing}
 
-* **Les administrateurs système gèrent les utilisateurs et leur accès par le biais de Adobe Admin Console** — Ajoutez et supprimez des utilisateurs en tant qu’administrateurs du support technique/administrateurs du support produit pour tous vos abonnements à l’Adobe.
+* **Les administrateurs système géreront les utilisateurs et leur accès via Adobe Admin Console** — Ajoutez et supprimez des utilisateurs en tant qu’administrateurs de l’assistance/administrateurs de l’assistance produit pour tous vos abonnements Adobe.
 
-* **Les administrateurs du support produit (PSA) utiliseront l’Experience League pour la création et la gestion des cas d’assistance** — Adobe attribuera le rôle d’administrateur du support produit aux utilisateurs migrés répertoriés comme Contact autorisé dans Marketing Nation.
+* **Les administrateurs de l’assistance produit (PSA) utiliseront Experience League pour la création et la gestion des cas d’assistance** — Adobe attribuera le rôle d’administrateur de l’assistance produit aux utilisateurs migrés qui sont répertoriés comme contacts autorisés dans le pays marketing.
 
 >[!NOTE]
 >
->Les contacts autorisés sont les administrateurs du support produit dans Adobe.
+>Les contacts autorisés sont des administrateurs de l’assistance produit dans Adobe.
 
-* **Migration des dossiers** : les dossiers ouverts seront visibles dans Adobe Experience League et tous les dossiers précédemment fermés seront archivés. Cette migration **not** affecte le niveau de service de vos cas ouverts.
+* **Migration de cas** — Les cas ouverts seront visibles dans Adobe Experience League et tous les cas précédemment fermés seront archivés. Cette migration n’affectera **pas** le niveau de service de votre ou vos dossiers en cours.
 
-## Comment savoir quand la migration de l’assistance sera terminée ? {#support-migration-has-been-completed}
+## Comment saurai-je que la migration de l’assistance est terminée ? {#support-migration-has-been-completed}
 
-La migration de l’assistance se produira une fois la migration des utilisateurs terminée pour tous les abonnements. Si vous avez été ajouté en tant qu’administrateur du service d’assistance dans le cadre de la migration vers l’assistance, vous recevrez un e-mail une fois la migration des utilisateurs terminée, vous indiquant que vous avez été ajouté en tant qu’administrateur du service d’assistance pour contacter l’assistance Adobe pour ces abonnements spécifiques. Cela déclenchera une redirection automatique de la nation marketing vers Adobe Experience League pour toutes les soumissions de cas. Veuillez continuer à soumettre des demandes d’assistance par l’intermédiaire de Marketing Nation jusqu’à ce que la redirection automatique soit activée.
+La migration de l’assistance aura lieu une fois la migration de vos utilisateurs terminée pour tous les abonnements. Si vous avez été ajouté en tant que SPA dans le cadre de la migration de l’assistance, vous recevrez un e-mail une fois la migration des utilisateurs terminée. Vous serez alors ajouté en tant qu’administrateur d’assistance afin de contacter l’assistance Adobe pour ces abonnements spécifiques. Cela déclenchera une redirection automatique du service Marketing Nation vers Adobe Experience League pour toutes les soumissions de cas. Continuez à soumettre des cas d’assistance par l’intermédiaire de la Nation marketing jusqu’à ce que la redirection automatique soit activée.
 
 ## Ressources supplémentaires {#additional-resources}
 
-* Découvrez comment utiliser [le Adobe Admin Console pour gérer vos droits d’Adobe](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html){target="_blank"} dans l’ensemble de votre organisation.
+* Découvrez comment utiliser [Adobe Admin Console pour gérer vos droits Adobe](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html){target="_blank"} dans l’ensemble de votre organisation.
 
-* Vous trouverez plus d&#39;informations sur la connexion à Marketo Engage avec un Adobe ID [ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
+* Vous trouverez plus d’informations sur la connexion à Marketo Engage à l’aide d’un [ Adobe ID ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* En savoir plus sur [Adobe Experience League](https://experienceleague.adobe.com/fr?lang=fr){target="_blank"}.
+* En savoir plus sur [ Adobe Experience League ](https://experienceleague.adobe.com/?lang=fr){target="_blank"}.
 
 ## Vous avez encore des questions ? {#still-have-questions}
 
-Si vous avez encore des questions concernant votre inscription et/ou la migration de votre prise en charge, contactez-nous à l’adresse `customercare@marketo.com`.
+Si vous avez d’autres questions concernant votre abonnement et/ou la migration de l’assistance, contactez-nous à l’adresse `customercare@marketo.com`.

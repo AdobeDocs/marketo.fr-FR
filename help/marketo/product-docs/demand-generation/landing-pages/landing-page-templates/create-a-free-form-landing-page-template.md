@@ -4,7 +4,7 @@ description: Création d’un modèle de page de destination de forme libre - Do
 title: Création d’un modèle de page de destination de forme libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Les pages de destination à structure libre nécessitent moins de connaissances 
 
    >[!NOTE]
    >
-   >Sélectionnez **[!UICONTROL Désactiver le suivi Munchkin]** si vous souhaitez empêcher le pré-remplissage des formulaires ou simplement ne pas suivre le comportement web sur une page spécifique.\
+   >Sélectionnez **[!UICONTROL Désactiver le suivi Munchkin]** si vous souhaitez empêcher le pré-remplissage des formulaires ou simplement ne pas suivre le comportement web sur une page spécifique.
    >Sélectionnez **[!UICONTROL Valider la compatibilité mobile]** pour vous assurer que votre code est compatible avec les appareils mobiles.
 
    >[!MORELIKETHIS]

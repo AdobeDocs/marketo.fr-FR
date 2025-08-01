@@ -1,30 +1,30 @@
 ---
-description: Modèle de courrier électronique de démarrage rapide - Documents Marketo - Documentation du produit
-title: Modèle de courrier électronique de démarrage rapide
+description: Modèle d’e-mail de démarrage rapide - Documents Marketo - Documentation du produit
+title: Modèle d’e-mail de démarrage rapide
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 0%
 
 ---
 
-# Modèle de courrier électronique de démarrage rapide {#quick-start-email-template}
+# Modèle d’e-mail de démarrage rapide {#quick-start-email-template}
 
-Certains programmes de démarrage de la bibliothèque de référence des Marketo Engage contiennent un modèle d’email simple, facile à utiliser et personnalisable qui permet la création rapide d’emails dans plusieurs cas d’utilisation marketing.
+Certains des programmes de démarrage de la bibliothèque de référence Marketo Engage contiennent un modèle d’e-mail simple, facile à utiliser et personnalisable qui permet la création rapide d’e-mails dans un certain nombre de cas d’utilisation marketing.
 
-L’éditeur d’email du Marketo Engage est fourni avec des fonctionnalités qui vous aident à modifier la mise en page et le contenu de vos emails.
+L’éditeur d’e-mail de Marketo Engage est fourni avec des fonctions qui vous permettent de modifier la disposition et le contenu de vos e-mails.
 
-* **Modules** : blocs de contenu déplaçables/déplaçables codés dans le modèle. Ils peuvent être réorganisés et dupliqués.
+* **Modules** : blocs de contenu glissables/déposables qui sont codés dans le modèle. Ils peuvent être réorganisés et dupliqués.
 
-* **Eléments de texte** : vous pouvez utiliser l’éditeur pour mettre à jour la copie, modifier les styles de police ou ajouter des liens.
+* **Éléments de texte** : vous pouvez utiliser l’éditeur pour mettre à jour la copie, modifier les styles de police ou ajouter des liens.
 
-* **Éléments d’image** : tout comme les éléments de texte, les images peuvent être échangées, liées et redimensionnées.
+* **Éléments d’image** : tout comme les éléments de texte, les images peuvent être permutées, associées et redimensionnées.
 
-* **Variables** : lorsqu’un module est sélectionné, les variables s’affichent sur le côté droit de l’éditeur. Ils peuvent être utilisés pour ajuster les attributs du module qui ne sont pas facilement modifiables via les éléments image ou texte.
+* **Variables** : lorsqu’un module est sélectionné, les variables s’affichent dans la partie droite de l’éditeur. Ils peuvent être utilisés pour ajuster les attributs du module qui ne sont pas facilement modifiables via des éléments d’image ou de texte.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé des modules {#modules-summary}
 
@@ -40,47 +40,47 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ### Module Image {#image-module}
 
-* Inclut un élément image pour mettre à jour l’image.
+* Inclut un élément image pour mettre à jour l’image
 * Inclut des variables à contrôler :
    * Marge intérieure supérieure du module
    * Marge intérieure inférieure du module
    * Couleur d’arrière-plan du module
 * ![](assets/quick-start-email-template-2.png)
 
-### Module de titre {#headline-module}
+### Headline Module {#headline-module}
 
-* Inclut un élément de texte pour mettre à jour le titre
+* Inclut un élément texte pour mettre à jour le titre
 * Inclut des variables à contrôler :
    * Marge intérieure supérieure du module
    * Marge intérieure inférieure du module
    * Couleur d’arrière-plan du module
-   * Taille de police du titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
-   * Couleur de police du titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
-   * Alignement du texte du titre (il peut également être modifié dans l’éditeur de texte enrichi)
+   * Taille de police du titre (cela peut également être modifié dans l’éditeur de texte enrichi)
+   * Couleur de police du titre (vous pouvez également la modifier dans l’éditeur de texte enrichi)
+   * Alignement du texte de titre (vous pouvez également le modifier dans l’éditeur de texte enrichi)
 * ![](assets/quick-start-email-template-3.png)
 
-### Module Subtitre {#subheadline-module}
+### Module Subheadline {#subheadline-module}
 
-* Inclut un élément de texte pour mettre à jour le sous-titre
+* Inclut un élément texte pour mettre à jour le sous-titre
 * Inclut des variables à contrôler :
    * Marge intérieure supérieure du module
    * Marge intérieure inférieure du module
    * Couleur d’arrière-plan du module
-   * Taille de police du sous-titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
-   * Couleur de police du sous-titre (elle peut également être modifiée dans l’éditeur de texte enrichi)
-   * Alignement du texte du sous-titre (il peut également être modifié dans l’éditeur de texte enrichi)
+   * Taille de police du sous-titre (peut également être modifié dans l’éditeur de texte enrichi)
+   * Couleur de police du sous-titre (peut également être modifiée dans l’éditeur de texte enrichi)
+   * Alignement du texte du sous-titre (peut également être modifié dans l’éditeur de texte enrichi)
 * ![](assets/quick-start-email-template-4.png)
 
-### Module Texte libre {#free-text-module}
+### Module de texte libre {#free-text-module}
 
-* Inclut un élément de texte pour mettre à jour le texte.
+* Inclut un élément de texte pour mettre à jour le texte
 * Inclut des variables à contrôler :
    * Marge intérieure supérieure du module
    * Marge intérieure inférieure du module
    * Couleur d’arrière-plan du module
-   * Taille de police du texte (elle peut également être modifiée dans l’éditeur de texte enrichi)
-   * Couleur de police du texte (elle peut également être modifiée dans l’éditeur de texte enrichi)
-   * Alignement du texte (il peut également être modifié dans l’éditeur de texte enrichi)
+   * Taille de police du texte (vous pouvez également la modifier dans l’éditeur de texte enrichi)
+   * Couleur de police du texte (vous pouvez également la modifier dans l’éditeur de texte enrichi)
+   * Alignement du texte (vous pouvez également l’éditer dans l’éditeur de texte enrichi)
 * ![](assets/quick-start-email-template-5.png)
 
 ### Module CTA {#cta-module}
@@ -90,15 +90,15 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Marge intérieure inférieure du module
    * Couleur d’arrière-plan du module
    * Couleur du texte CTA
-   * Couleur de fond CTA
+   * Couleur d’arrière-plan CTA
    * Couleur de bordure CTA
-   * Rayon de la bordure CTA (pour arrondir les boutons - **Remarque** : cette fonctionnalité ne fonctionne pas dans les clients de messagerie Microsoft Outlook)
+   * Rayon de bordure CTA (pour arrondir les boutons - **Remarque** : cette fonctionnalité ne fonctionne pas dans les clients de messagerie Microsoft Outlook)
    * URL CTA
    * Texte CTA
-   * Alignement CTA
+   * Alignement de CTA
 * ![](assets/quick-start-email-template-6.png)
 
-### Module Diviseur {#divider-module}
+### Module diviseur {#divider-module}
 
 * Inclut des variables à contrôler :
    * Marge intérieure supérieure du module
@@ -111,8 +111,8 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
 
 ### Module Pied de page {#footer-module}
 
-* Elément de texte pouvant être utilisé pour permuter ou lier des icônes sociales
-* Elément de texte pour mettre à jour la langue du pied de page
+* Élément de texte qui peut être utilisé pour échanger ou lier des icônes sociales
+* Elément texte pour mettre à jour la langue du pied de page
 * Inclut des variables à contrôler :
    * Marge intérieure supérieure du module
    * Marge intérieure inférieure du module

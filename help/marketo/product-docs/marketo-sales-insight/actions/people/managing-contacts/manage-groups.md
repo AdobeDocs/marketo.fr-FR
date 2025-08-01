@@ -3,7 +3,7 @@ description: Gestion Des Groupes - Documents Marketo - Documentation Du Produit
 title: Gérer les groupes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -16,33 +16,33 @@ Découvrez comment gérer vos groupes dans [!DNL Sales Insight Actions].
 
 ## Types de groupes {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Groupe</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>Tous les contacts de tous les utilisateurs qui sont visibles pour vous.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>Mes contacts : tous les contacts que vous possédez.<br>Désabonnements : contacts qui se sont désabonnés de la réception de la correspondance.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>Groupes que vous avez créés. Ils peuvent contenir vos contacts ou les contacts qui ont été partagés avec vous.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>Groupes qui ont été partagés avec vous et/ou par vous. Ils peuvent contenir des contacts que possèdent vos coéquipiers ou des contacts que vous avez partagés avec eux.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Groupe</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>Tous les contacts de tous les utilisateurs qui sont visibles pour vous.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>Mes contacts : tous les contacts que vous possédez.<br>Désabonnements : contacts qui se sont désabonnés de la réception de la correspondance.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>Groupes que vous avez créés. Ils peuvent contenir vos contacts ou les contacts qui ont été partagés avec vous.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>Groupes qui ont été partagés avec vous et/ou par vous. Ils peuvent contenir des contacts que possèdent vos coéquipiers ou des contacts que vous avez partagés avec eux.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Créer un groupe {#create-a-group}

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360217
 description: Modification des paramètres d’attribution pour Analytics - Documents Marketo - Documentation du produit
-title: Modification des paramètres d’attribution pour Analytics
+title: Modification des paramètres d’attribution dans Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Modification des paramètres d’attribution pour Analytics {#change-attribution-settings-for-analytics}
+# Modification des paramètres d’attribution dans Analytics {#change-attribution-settings-for-analytics}
 
-Vous pouvez modifier la manière dont Marketo lie les contacts aux opportunités pour l’attribution Première touche et multipoint, les mesures de conversion de prospect et l’indicateur d’opportunité influencé par le marketing.
+Vous pouvez modifier la manière dont Marketo lie les contacts aux opportunités d’attribution première touche et multitouche, aux mesures de conversion des prospects et à l’indicateur d’opportunité influencé par le marketing.
 
-Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur des recettes] dans les zones [  Analyse des opportunités de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et Analyse des pistes. Cela aura également une incidence sur le rapport [!UICONTROL Program Analyzer].
+Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur de revenus] dans les zones [Analyse des opportunités du programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et Analyse des prospects. Cela affectera également le rapport [!UICONTROL  Analyseur de programmes ].
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -25,7 +25,7 @@ Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur des re
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 
-1. Cliquez sur le lien **[!UICONTROL Edit]** sous **[!UICONTROL Attribution]**.
+1. Cliquez sur le lien **[!UICONTROL Modifier]** sous **[!UICONTROL Attribution]**.
 
    ![](assets/change-attribution-settings-for-analytics-3.png)
 
@@ -41,12 +41,12 @@ Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur des re
    >
    >**Définition**
    >
-   >**[!UICONTROL Explicit]** : seuls les contacts avec des rôles (par défaut).
+   >**[!UICONTROL Explicite]** : contacts avec des rôles uniquement (par défaut).
    >
-   >**[!UICONTROL Hybride]** : contacts avec des rôles si disponible. Si aucun contact n’est disponible, il utilise tous les contacts des comptes.
+   >**[!UICONTROL Hybride]** : contacts avec des rôles, le cas échéant. Si aucun contact n’est disponible, il utilise tous les contacts des comptes.
    >
-   >**[!UICONTROL Implicit]** : tous les contacts, quel que soit leur rôle.
+   >**[!UICONTROL Implicite]** : tous les contacts, quel que soit leur rôle.
 
 >[!CAUTION]
 >
->Lors de l’utilisation de **[!UICONTROL Implicit]**, Marketo examine toujours tous les contacts associés au compte, quel que soit leur rôle. **Marketo recommande vivement d&#39;utiliser le mode [!UICONTROL Explicit]**. L’utilisation de [!UICONTROL Implicit] peut créer des faux positifs ; c’est-à-dire des personnes qui ont le crédit d’une opportunité, même si elles n’ont aucune réelle influence sur l’opportunité. Utilisez [!UICONTROL Implicit] avec précaution.
+>Lors de l’utilisation de **[!UICONTROL Implicite]**, Marketo examine toujours tous les contacts associés au compte, quel que soit le rôle. **Marketo recommande vivement d&#39;utiliser le mode [!UICONTROL Explicit]**. L’utilisation de [!UICONTROL Implicite] peut créer des faux positifs, c’est-à-dire des personnes qui ont du crédit pour une opportunité alors qu’elles n’ont aucune influence réelle sur celle-ci. Utilisez [!UICONTROL Implicite] avec précaution.

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360327
 description: Affectation de partitions de personne avec des règles d’affectation - Documents Marketo - Documentation du produit
-title: Affectation de partitions de personne avec des règles d’affectation
+title: Affecter des partitions de personne avec des règles d'affectation
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
 
 ---
 
-# Affectation de partitions de personne avec des règles d’affectation {#assigning-person-partitions-with-assignment-rules}
+# Affecter des partitions de personne avec des règles d&#39;affectation {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -25,13 +25,13 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 
 >[!NOTE]
 >
->Seules les personnes créées dans Marketo à partir de votre CRM et via l’API SOAP auront des règles d’attribution qui leur seront appliquées.
+>Seules les personnes créées dans Marketo à partir de votre CRM et via l’API SOAP se verront appliquer des règles d’affectation.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Cliquez sur **[!UICONTROL Espaces de travail et partitions]**.
+1. Cliquez sur **[!UICONTROL Workspaces et partitions]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
@@ -47,11 +47,11 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 
    ![](assets/assigning-person-partitions-with-assignment-rules-5.png)
 
-1. Choisissez l&#39;opérateur de choix et saisissez une valeur.
+1. Choisissez l’opérateur de choix et saisissez une valeur.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-6.png)
 
-1. Sélectionnez la partition du peuple dans laquelle vous souhaitez que les personnes qui répondent aux conditions soient incluses.
+1. Sélectionnez la partition des personnes dans laquelle vous souhaitez que les personnes qui remplissent les conditions entrent.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-7.png)
 
@@ -63,8 +63,8 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-Et voilà ! Vous avez défini des règles pour remplir vos partitions avec des personnes !
+Et voilà ! Vous avez affecté des règles pour remplir vos partitions de personne avec des personnes !
 
 >[!NOTE]
 >
->Le choix par défaut est appliqué si aucune des conditions précédentes n’est remplie.
+>Le choix par défaut sera appliqué si aucune des conditions précédentes n’est remplie.

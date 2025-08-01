@@ -1,9 +1,9 @@
 ---
-description: Présentation des rapports - Documents Marketo - Documentation du produit
+description: Présentation Des Rapports - Documents Marketo - Documentation Du Produit
 title: Présentation des rapports
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 1%
@@ -12,56 +12,56 @@ ht-degree: 1%
 
 # Présentation des rapports {#reporting-overview}
 
-Marketo propose divers modules de création de rapports en fonction des besoins.
+Marketo propose divers modules de création de rapports qui répondent à différents besoins.
 
 ## Reporting de base {#basic-reporting}
 
-Vous pouvez configurer des [rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dans des programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports d’usine, avec la possibilité de filtrer, de trier et d’ajuster les décalages horaires.
+Vous pouvez configurer des [rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dans des programmes ou dans la zone Analytics. Les rapports de base se composent de différents types de rapports prêts à l’emploi. Ils vous offrent la possibilité de filtrer, trier et ajuster les périodes.
 
 ## Email Insights {#email-insights}
 
-Utilisez Analytics et les envois pour obtenir des [informations puissantes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sur les emails provenant de données historiques.
+Utilisez Analytics et Envois pour obtenir [des informations pertinentes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sur les e-mails à partir de données historiques.
 
 ## Performance Insights {#performance-insights}
 
-[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} couvre les performances des canaux et les performances des programmes pour l’engagement, le pipeline et la génération de recettes.
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} couvre les performances des canaux et des programmes pour l’engagement, le pipeline et la génération de revenus.
 
-## Rapports décisionnels avancés Analytics {#advanced-bi-analytics-reporting}
+## Rapports BI Analytics avancés {#advanced-bi-analytics-reporting}
 
-_(précédemment connu sous le nom d’Explorateur de cycle des recettes/Report Builder avancé)_
+_(précédemment connu sous le nom de Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >
->Tout le monde n’a pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics. Contactez l’équipe du compte d’Adobe (votre gestionnaire de compte) pour en savoir plus.
+>Tout le monde n’a pas acheté les modules Advanced BI Analytics et Advanced Parcours Analytics . Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
-Suivez le retour sur investissement de vos initiatives marketing. Analysez les e-mails, les personnes, les programmes, les opportunités, l’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (pistes). L’explorateur de BI vous permet de créer des rapports personnalisés dans la zone d’analyse et de créer des graphiques, des graphiques, des pivots et des tableaux de bord avec vos données.
+Suivez le retour sur investissement de vos initiatives marketing. Analysez les e-mails, les personnes, les programmes, les opportunités, l’analyse des performances des modèles (entreprises) et l’analyse des performances des modèles (prospects). L’explorateur BI vous permet de créer des rapports personnalisés dans la zone d’analyse et de créer des graphiques, des graphiques, des graphiques, des pivots et des tableaux de bord avec vos données.
 
-Voici quelques-uns des avantages avancés de la création de rapports BI Analytics :
+Voici quelques avantages des rapports Analytics BI avancés :
 
-* Attribution de l’influence marketing sur les opportunités, les recettes et le succès du programme
+* Attribution de l’influence marketing sur les opportunités, le chiffre d’affaires et la réussite du programme
 
 * Analyse du retour sur investissement pour les programmes
 
-* Analyse des mesures des emails : répartition de l’heure des envois/ouvertures/clics, grilles de chaleur, graphiques de décroissance du taux de clics/ouvertures
+* Analyse des mesures des e-mails : répartition du temps d’envoi/d’ouverture/de clic, réseaux thermiques, graphiques de décroissance du taux de clic/d’ouverture
 
-* Analyse des pistes - Analyse de la distribution des pistes selon différentes dimensions
+* Analyse des leads - Analysez la distribution des leads par rapport à différentes dimensions.
 
-* Analyseur des performances du modèle (niveaux d’entreprise et de piste) : comprendre le flux et la vitesse des pistes
+* Analyseur de performances des modèles (niveaux d’entreprise et de lead) - comprendre le flux et la vitesse des leads
 
-* Création de rapports personnalisés pour des données de tranche de tendance et de dés
+* Création de rapports personnalisés pour les données de tranche et de tranche de tendance
 
 * Visualisation sous forme graphique, cartes thermiques et courbes de distribution
 
 ## Analyses de Parcours avancées {#advanced-journey-analytics}
 
-Modèles de cycle des recettes : modélisez toutes les étapes de l’entonnoir de recettes entier et de la manière dont elles passent d’une étape à l’autre, du moment où vous interagissez pour la première fois avec une piste jusqu’à ce que la piste soit un client unique.
+Modèles de cycle du chiffre d’affaires : modélisez toutes les étapes de l’ensemble de votre entonnoir de chiffres d’affaires et leur transition entre ces étapes, depuis le moment où vous interagissez pour la première fois avec un prospect jusqu’au moment où le prospect est un client confirmé.
 
-Analyseur de chemins de succès : obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de revenus. L’analyseur de chemins de succès requiert que vous créiez des modèles de cycle de revenus.
+Analyseur de chemin de réussite : obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de chiffre d’affaires. L’analyseur de chemin de succès nécessite que vous créiez des modèles de cycle de chiffre d’affaires.
 
-Analyseur de programme : identifiez rapidement les programmes qui réussissent ou non et ciblez vos ressources de manière appropriée. Utilisez l’analyseur de programme pour analyser et comparer chaque coût et retour en détail par programme ou canal.
+Analyseur de programmes : identifiez rapidement les programmes réussis ou non et concentrez vos ressources de manière appropriée. Utilisez l’analyseur de programmes pour examiner et comparer en détail chaque coût et retour par programme ou par canal.
 
-Analyseur d’influence des opportunités : testez la contribution de Marketing en mesurant l’impact des programmes et des engagements clés qui ont généré des opportunités.
+Opportunity Influence Analyzer : prouvez la contribution du marketing en mesurant l’impact des programmes et des engagements clés qui ont généré des opportunités.
 
 >[!NOTE]
 >
->L’analyse des performances des modèles (sociétés) et l’analyse des performances des modèles (Leads) avec la création de rapports décisionnels avancés d’Analytics dépendent du modèle de cycle de revenus créé dans le produit d’analyse de Parcours avancé.
+>L’analyse des performances du modèle (entreprises) et l’analyse des performances du modèle (prospects) avec la création de rapports BI Analytics avancée dépendent du modèle de cycle du chiffre d’affaires créé dans le produit Analyses de Parcours avancées .

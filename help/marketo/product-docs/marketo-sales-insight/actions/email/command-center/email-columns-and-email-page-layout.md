@@ -3,7 +3,7 @@ description: Colonnes d’e-mail et mise en page d’e-mail - Documents Marketo 
 title: Colonnes d’e-mail et mise en page d’e-mail
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '537'
 ht-degree: 0%
@@ -16,101 +16,101 @@ Vous pouvez configurer l’une des colonnes disponibles pour qu’elle soit visi
 
 ## Colonnes d’e-mail {#email-columns}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Colonne</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Person]</td> 
-   <td>Nom et adresse électronique de la personne dans [!UICONTROL Sales Connect]. Cliquez sur ce champ pour ouvrir l’onglet À propos dans la vue des détails de la personne.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Name]</td> 
-   <td>Nom de la personne dans [!UICONTROL Sales Connect].</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Address]</td> 
-   <td>Adresse e-mail de Principal de la personne dans [!UICONTROL Sales Connect].</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Campaign]</td> 
-   <td>Si l’e-mail a été envoyé dans le cadre d’une campagne, le nom de la campagne s’affiche. Cliquez sur ce champ pour accéder à la page de configuration de cette campagne.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Template]</td> 
-   <td>Affiche le nom du modèle (si l’e-mail a été envoyé avec un modèle).</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Subject]</td> 
-   <td>Objet du courrier électronique.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Groups]</td> 
-   <td>Affiche les groupes auxquels appartient le destinataire de l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Job Title]</td> 
-   <td>Titre du destinataire de l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Company]</td> 
-   <td>Société du destinataire de l'email.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Email Status]</td> 
-   <td>Statut de l’e-mail. Les statuts sont les suivants : Brouillon, Planifié, En cours, Spam, Rebond, Échec, Envoyé. Les e-mails envoyés affichent un flux d’activité qui indique le nombre de vues, de clics et de réponses qui ont eu lieu sur cet e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Date Created]</td> 
-   <td>Date de création de l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Dernière Mise À Jour]</td> 
-   <td>Date de la dernière mise à jour de l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Delivery Channel]</td> 
-   <td>Nom du canal de diffusion utilisé pour envoyer l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Latest Activity]</td> 
-   <td>Dernier engagement du destinataire de l’e-mail (par exemple, afficher, cliquer ou répondre).</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Date Sent]</td> 
-   <td>Date d’envoi de l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Actions de suivi </td> 
-   <td>Boutons d’action rapide pouvant être utilisés pour un suivi par e-mail, téléphone, inMail ou tâche.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Group Email]</td> 
-   <td>Coche la case si l’e-mail a été envoyé dans le cadre d’un e-mail de groupe.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Task Due Date]</td> 
-   <td>Affiche la date d'échéance des tâches associées à l'e-mail. Les tâches peuvent être associées à un email en étant créées à partir des boutons d’action rapide dans la liste d’emails.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Email Action]</td> 
-   <td>Boutons d’action rapide pouvant être utilisés pour agir sur l’e-mail. Selon le statut de l’e-mail, les actions suivantes peuvent être disponibles : Archiver, Réussir, Supprimer, Réessayer d’envoyer, Désarchiver.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Task Type]</td> 
-   <td>Affiche le type de tâche d’une tâche liée à l’e-mail. Les tâches peuvent être associées à un email en étant créées à partir des boutons d’action rapide dans la liste d’emails.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Date Failed]</td> 
-   <td>Affiche la date à laquelle l’e-mail a échoué si l’e-mail n’a pas été remis.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Colonne</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Person]</td>
+   <td>Nom et adresse électronique de la personne dans [!UICONTROL Sales Connect]. Cliquez sur ce champ pour ouvrir l’onglet À propos dans la vue des détails de la personne.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Name]</td>
+   <td>Nom de la personne dans [!UICONTROL Sales Connect].</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Address]</td>
+   <td>Adresse e-mail de Principal de la personne dans [!UICONTROL Sales Connect].</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Campaign]</td>
+   <td>Si l’e-mail a été envoyé dans le cadre d’une campagne, le nom de la campagne s’affiche. Cliquez sur ce champ pour accéder à la page de configuration de cette campagne.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Template]</td>
+   <td>Affiche le nom du modèle (si l’e-mail a été envoyé avec un modèle).</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Subject]</td>
+   <td>Objet du courrier électronique.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Groups]</td>
+   <td>Affiche les groupes auxquels appartient le destinataire de l’e-mail.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Job Title]</td>
+   <td>Titre du destinataire de l’e-mail.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Company]</td>
+   <td>Société du destinataire de l'email.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Email Status]</td>
+   <td>Statut de l’e-mail. Les statuts sont les suivants : Brouillon, Planifié, En cours, Spam, Rebond, Échec, Envoyé. Les e-mails envoyés affichent un flux d’activité qui indique le nombre de vues, de clics et de réponses qui ont eu lieu sur cet e-mail.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Date Created]</td>
+   <td>Date de création de l’e-mail.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Dernière Mise À Jour]</td>
+   <td>Date de la dernière mise à jour de l’e-mail.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Delivery Channel]</td>
+   <td>Nom du canal de diffusion utilisé pour envoyer l’e-mail.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Latest Activity]</td>
+   <td>Dernier engagement du destinataire de l’e-mail (par exemple, afficher, cliquer ou répondre).</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Date Sent]</td>
+   <td>Date d’envoi de l’e-mail.</td>
+  </tr>
+  <tr>
+   <td><strong>Actions de suivi [!UICONTROL]</td>
+   <td>Boutons d’action rapide pouvant être utilisés pour un suivi par e-mail, téléphone, inMail ou tâche.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Group Email]</td>
+   <td>Coche la case si l’e-mail a été envoyé dans le cadre d’un e-mail de groupe.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Task Due Date]</td>
+   <td>Affiche la date d'échéance des tâches associées à l'e-mail. Les tâches peuvent être associées à un email en étant créées à partir des boutons d’action rapide dans la liste d’emails.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Email Action]</td>
+   <td>Boutons d’action rapide pouvant être utilisés pour agir sur l’e-mail. Selon le statut de l’e-mail, les actions suivantes peuvent être disponibles : Archiver, Réussir, Supprimer, Réessayer d’envoyer, Désarchiver.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Task Type]</td>
+   <td>Affiche le type de tâche d’une tâche liée à l’e-mail. Les tâches peuvent être associées à un email en étant créées à partir des boutons d’action rapide dans la liste d’emails.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Date Failed]</td>
+   <td>Affiche la date à laquelle l’e-mail a échoué si l’e-mail n’a pas été remis.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Paramètres de mise en page de l’e-mail {#email-page-layout-settings}

@@ -4,7 +4,7 @@ description: Importer [!UICONTROL Comptes Nommés] - Documents Marketo - Documen
 title: Importer [!UICONTROL Comptes Nommés]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -65,40 +65,40 @@ Vous avez déjà un fichier CSV rempli de comptes cibles potentiels ? Importez-l
 
 Scénarios de déduplication [!UICONTROL par nom de compte] :
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importation d'un enregistrement avec le nom <span class="uicontrol">Compte nommé</span> existant</strong></td> 
-   <td><p>Nous mettrons à jour l’enregistrement existant</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>Import de l'enregistrement avec le nouveau nom <span class="uicontrol">Compte nommé</span></strong></td> 
-   <td>Nous allons créer un nouvel enregistrement</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importation d'un enregistrement avec le nom <span class="uicontrol">Compte nommé</span> existant</strong></td>
+   <td><p>Nous mettrons à jour l’enregistrement existant</p></td>
+  </tr>
+  <tr>
+   <td><strong>Import de l'enregistrement avec le nouveau nom <span class="uicontrol">Compte nommé</span></strong></td>
+   <td>Nous allons créer un nouvel enregistrement</td>
+  </tr>
+ </tbody>
 </table>
 
 Scénarios de déduplication [!UICONTROL par nom de domaine] :
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importation d'un enregistrement avec un nouveau nom de compte et un nouveau nom de domaine</strong></td> 
-   <td>Nous allons créer un nouveau <span class="uicontrol">Compte nommé</span> avec les informations fournies</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importation d'un enregistrement avec un nom de compte et un nom de domaine existants</strong></td> 
-   <td>Nous mettrons à jour le <span class="uicontrol">Compte nommé</span> existant</td> 
-  </tr> 
-   <tr> 
-   <td><strong>Importation d'un enregistrement avec un nouveau nom de compte et un nom de domaine existant</strong></td> 
-   <td>Nous ajouterons le nouveau nom de compte au <span class="uicontrol">Compte nommé</span> existant qui correspond au nom de domaine et mettrons à jour d’autres informations (à savoir, secteur, État, etc.)</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importation d’un enregistrement avec le nom <span class="uicontrol">Compte nommé</span> existant et le nouveau nom de domaine</strong></td> 
-   <td>Nous ajouterons le nouveau nom de domaine au <span class="uicontrol">Compte nommé</span> existant qui correspond au nom du compte et mettrons à jour d’autres informations (à savoir, secteur, État, etc.)</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importation d'un enregistrement avec un nouveau nom de compte et un nouveau nom de domaine</strong></td>
+   <td>Nous allons créer un nouveau <span class="uicontrol">Compte nommé</span> avec les informations fournies</td>
+  </tr>
+  <tr>
+   <td><strong>Importation d'un enregistrement avec un nom de compte et un nom de domaine existants</strong></td>
+   <td>Nous mettrons à jour le <span class="uicontrol">Compte nommé</span> existant</td>
+  </tr>
+   <tr>
+   <td><strong>Importation d'un enregistrement avec un nouveau nom de compte et un nom de domaine existant</strong></td>
+   <td>Nous ajouterons le nouveau nom de compte au <span class="uicontrol">Compte nommé</span> existant qui correspond au nom de domaine et mettrons à jour d’autres informations (à savoir, secteur, État, etc.)</td>
+  </tr>
+  <tr>
+   <td><strong>Importation d’un enregistrement avec le nom <span class="uicontrol">Compte nommé</span> existant et le nouveau nom de domaine</strong></td>
+   <td>Nous ajouterons le nouveau nom de domaine au <span class="uicontrol">Compte nommé</span> existant qui correspond au nom du compte et mettrons à jour d’autres informations (à savoir, secteur, État, etc.)</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

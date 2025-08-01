@@ -3,7 +3,7 @@ description: Suppression de l’accès à Sales Insight - Documents Marketo - Do
 title: Supprimer l’accès à Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 4%
@@ -20,53 +20,53 @@ L’autorisation des objets mentionnés ci-dessous, des classes apex et des page
 
 **Paramètres de l’objet**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] Consulter les détails</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] Vues</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>CacheMomentsIntéressants</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Marketo Sales Insight] Config</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>Valeurs</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>CacheActivitéWeb</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] Consulter les détails</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] Vues</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>CacheMomentsIntéressants</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>[!DNL Marketo Sales Insight] Config</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>Valeurs</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>CacheActivitéWeb</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+ </tbody>
 </table>
 
 * Accès aux classes Apex : 159 classes Apex commençant par « mkto_si »
@@ -93,7 +93,7 @@ L’autorisation des objets mentionnés ci-dessous, des classes apex et des page
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. Faites défiler jusqu’à « [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;] ».
+1. Faites défiler jusqu’à « [!UICONTROL  Autorisations d’objet personnalisé ] ».
 
 1. Supprimez l’accès « Lire, Créer, Modifier et Supprimer » des objets suivants :
 

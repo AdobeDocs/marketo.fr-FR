@@ -1,38 +1,38 @@
 ---
-description: Résultats des appels - Documents Marketo - Documentation du produit
-title: Résultats des appels
+description: Résultats Des Appels - Documents Marketo - Documentation Du Produit
+title: Résultats de l’appel
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Résultats des appels {#call-outcomes}
+# Résultats de l’appel {#call-outcomes}
 
-Permettez à vos équipes commerciales de sélectionner les résultats des appels lors des appels afin que votre équipe puisse comprendre l’impact de vos efforts d’engagement client.
+Autorisez vos équipes de vente à sélectionner les résultats des appels lors des appels afin que votre équipe puisse comprendre l’impact de vos efforts d’engagement client.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
-## Activer les résultats des appels {#enable-call-outcomes}
+## Activer les résultats d’appel {#enable-call-outcomes}
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **Paramètres**.
 
    ![](assets/call-outcomes-1.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Dialer**.
+1. Sous Paramètres d’administration, sélectionnez **Numéroteur**.
 
    ![](assets/call-outcomes-2.png)
 
-1. Sélectionnez **Activer les résultats des appels**.
+1. Sélectionnez **Activer les résultats de l’appel**.
 
    ![](assets/call-outcomes-3.png)
 
-1. Choisissez l’exigence de résultat de l’appel de votre choix.
+1. Choisissez l’exigence de résultat d’appel souhaitée.
 
    ![](assets/call-outcomes-4.png)
 
@@ -46,31 +46,31 @@ Permettez à vos équipes commerciales de sélectionner les résultats des appel
 
    ![](assets/call-outcomes-5.png)
 
-1. Sous Paramètres d’administration, sélectionnez **Dialer**.
+1. Sous Paramètres d’administration, sélectionnez **Numéroteur**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Cliquez sur **Gérer les résultats des appels**.
+1. Cliquez sur **Gérer les résultats de l’appel**.
 
    ![](assets/call-outcomes-7.png)
 
-1. Entrez le nom du résultat de l’appel dans le champ de texte.
+1. Saisissez le nom du résultat de l’appel souhaité dans le champ de texte.
 
    ![](assets/call-outcomes-8.png)
 
-1. Cliquez sur la liste déroulante Répondu et sélectionnez le type de résultat (dans cet exemple, nous choisissons Répondu). Cliquez ensuite sur **Ajouter**.
+1. Cliquez sur le menu déroulant Répondu et choisissez le type de résultat (dans cet exemple, nous choisissons Répondu). Cliquez ensuite sur **Ajouter**.
 
    ![](assets/call-outcomes-9.png)
 
 ## Choisir un résultat d’appel {#choose-a-call-outcome}
 
-Une fois les résultats de l’appel activés. Les utilisateurs peuvent en sélectionner un tout en effectuant un appel .
+Une fois les résultats d’appel activés. Les utilisateurs peuvent en sélectionner un lors d’un appel.
 
-1. Cliquez sur le bouton d’appel pour lancer la boîte de dialogue.
+1. Cliquez sur le bouton d&#39;appel pour lancer le numéroteur.
 
    ![](assets/call-outcomes-10.png)
 
-1. Saisissez les informations d’appel dans la boîte de dialogue et cliquez sur **Call**.
+1. Saisissez les informations d&#39;appel dans le numéroteur et cliquez sur **Appeler**.
 
    ![](assets/call-outcomes-11.png)
 
@@ -78,15 +78,15 @@ Une fois les résultats de l’appel activés. Les utilisateurs peuvent en séle
 
    ![](assets/call-outcomes-12.png)
 
-1. Terminez l’appel .
+1. Terminez l’appel.
 
    ![](assets/call-outcomes-13.png)
 
-1. Consignez l’appel .
+1. Enregistrez l’appel .
 
    ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
->* [Enregistrer les motifs des appels et les résultats des appels dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Consigner les raisons et les résultats des appels dans Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Raisons de l’appel](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

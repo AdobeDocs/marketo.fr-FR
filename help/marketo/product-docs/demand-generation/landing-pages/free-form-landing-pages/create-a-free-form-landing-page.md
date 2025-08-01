@@ -4,7 +4,7 @@ description: Création d’une page de destination de forme libre - Documents Ma
 title: Création d’une page de destination de forme libre
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 2%
@@ -73,4 +73,4 @@ Les pages de destination de forme libre peuvent être créées en tant que resso
 
 >[!TIP]
 >
->Décochez « [!UICONTROL &#x200B; Ouvrir l’éditeur de page de destination pour une nouvelle page &#x200B;] » si vous ne souhaitez pas que l’éditeur s’ouvre immédiatement après avoir cliqué sur **[!UICONTROL Créer]**.
+>Décochez « [!UICONTROL  Ouvrir l’éditeur de page de destination pour une nouvelle page ] » si vous ne souhaitez pas que l’éditeur s’ouvre immédiatement après avoir cliqué sur **[!UICONTROL Créer]**.

@@ -4,7 +4,7 @@ description: Création d’une boîte de dialogue dans Web Campaign - Documents 
 title: Créer une campagne web de boîte de dialogue
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '749'
 ht-degree: 2%
@@ -31,99 +31,99 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
    ![](assets/new-3.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nom</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>Afficher sur</strong></td> 
-   <td colspan="1">Permet de <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personnaliser quand et comment</a> l’affichage de votre campagne web.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Style de la boîte de dialogue</strong></td> 
-   <td colspan="1" rowspan="1"> 
-    <ul> 
-     <li>Modern Trim - Un dialogue élégant et distinctif avec une garniture noire semi-transparente et des coins arrondis</li> 
-     <li>Modern Trim II - Un dialogue élégant et distinctif avec un habillage d'ombre claire et des coins arrondis et un bouton de fermeture</li> 
-     <li>Transparent : boîte de dialogue entièrement transparente, idéale pour les images transparentes (png) pour votre appel à l’action. </li> 
-     <li>De base : boîte de dialogue de style simple, avec un espace d’en-tête de titre plus épais pour répondre à vos besoins de base.</li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Animer l’entrée/la sortie</strong></td> 
-   <td colspan="1">Définissez sur entrée de boîte de dialogue et/ou sortie. Sélectionnez l’effet (dépôt, aveugle, diapositive, fondu, aucun effet), la durée (en secondes) et la direction (haut, bas, gauche, droite).</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Position</strong></p></td> 
-   <td colspan="1" rowspan="1">Sélectionnez l’une des 9 options pour la position de la boîte de dialogue sur la page. Par exemple, si vous sélectionnez la zone centrale, la boîte de dialogue s’affiche au milieu de l’écran.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Par coordonnées</strong></p><p><br></p></td> 
-   <td colspan="1" rowspan="1">Pour d’autres options de positionnement de la boîte de dialogue, cochez la case « Coordonnées de position » et saisissez les coordonnées exactes de l’écran (Horizontal, Vertical) à l’endroit où vous souhaitez que la boîte de dialogue s’affiche.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Remplissage du bouton</strong></td> 
-   <td colspan="1">Personnalisez le bouton de fermeture modal en utilisant la couleur, le style et la position. Vous pouvez également utiliser votre propre bouton en le liant à la zone URL de l’image .</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Fixe</strong></td> 
-   <td colspan="1">En cochant la case, la boîte de dialogue reste en place, sans limite de temps, jusqu’à ce qu’elle soit fermée par l’utilisateur ou l’utilisatrice et elle apparaîtra sur toutes les pages tout au long de la session du visiteur ou de la visiteuse.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Modal</strong></td> 
-   <td colspan="1">Met davantage l’accent sur la boîte de dialogue et la lance avec un arrière-plan sombre derrière la fenêtre de boîte de dialogue, ce qui accroît la sensibilisation de l’utilisateur à la boîte de dialogue.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Couleur modale</strong></td> 
-   <td colspan="1">Personnalisez la couleur et l’opacité de la fenêtre modale.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Délai d’expiration </strong></td> 
-   <td colspan="1">Nombre de secondes pendant lesquelles la boîte de dialogue est activée avant le fondu.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Couleur de l’en-tête</strong></td> 
-   <td colspan="1">Définissez la barre d’en-tête de la boîte de dialogue sur la couleur de votre choix. La couleur peut être choisie à partir d’une palette de couleurs ou saisie sous la forme d’un code couleur hexadécimal. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Couleur d’arrière-plan du contenu </strong></td> 
-   <td colspan="1">Définissez la couleur d’arrière-plan de la boîte de dialogue sur votre couleur préférée. La couleur peut être choisie à partir d’une palette de couleurs ou saisie sous la forme d’un code couleur hexadécimal. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Titre de la boîte de dialogue</strong></td> 
-   <td colspan="1">Ajoutez un titre à la barre de titre d’en-tête de la boîte de dialogue.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Largeur et hauteur</strong></td> 
-   <td colspan="1">Sélectionnez la taille en pixels de la boîte de dialogue.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Largeur automatique</strong></td> 
-   <td colspan="1">Si vous cochez cette case, la boîte de dialogue s’adapte automatiquement à la largeur du contenu.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Redimensionnable </strong></td> 
-   <td colspan="1">Si vous cochez la case redimensionnable, la boîte de dialogue peut être redimensionnée par l’utilisateur ou l’utilisatrice.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Éditeur de texte enrichi</strong></td> 
-   <td colspan="1"><p>L’éditeur de texte enrichi permet la mise en forme du texte, la liaison et l’insertion d’images. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">En savoir plus ici</a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Aperçu sur le site</strong></td> 
-   <td colspan="1">Prévisualisez les campagnes avant leur lancement.<br> 
-    <ul> 
-     <li>URL : saisissez un exemple d’URL où la campagne serait exécutée pour afficher un exemple d’aperçu de l’apparence de la campagne en direct.</li> 
-     <li>Appareil : prévisualisez l’aspect de votre campagne par appareil : ordinateur de bureau, portrait pour mobile, paysage pour mobile, portrait pour tablette, paysage pour portrait.<br></li> 
-     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong> pour ouvrir une nouvelle fenêtre de l’exemple d’URL afin de voir comment la campagne réagit. </li> 
-     <li>Partager : utilisez le bouton Partager pour envoyer un e-mail à un collègue avec un lien afin d’afficher la campagne proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nom</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>Afficher sur</strong></td>
+   <td colspan="1">Permet de <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personnaliser quand et comment</a> l’affichage de votre campagne web.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Style de la boîte de dialogue</strong></td>
+   <td colspan="1" rowspan="1">
+    <ul>
+     <li>Modern Trim - Un dialogue élégant et distinctif avec une garniture noire semi-transparente et des coins arrondis</li>
+     <li>Modern Trim II - Un dialogue élégant et distinctif avec un habillage d'ombre claire et des coins arrondis et un bouton de fermeture</li>
+     <li>Transparent : boîte de dialogue entièrement transparente, idéale pour les images transparentes (png) pour votre appel à l’action. </li>
+     <li>De base : boîte de dialogue de style simple, avec un espace d’en-tête de titre plus épais pour répondre à vos besoins de base.</li>
+    </ul></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Animer l’entrée/la sortie</strong></td>
+   <td colspan="1">Définissez sur entrée de boîte de dialogue et/ou sortie. Sélectionnez l’effet (dépôt, aveugle, diapositive, fondu, aucun effet), la durée (en secondes) et la direction (haut, bas, gauche, droite).</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Position</strong></p></td>
+   <td colspan="1" rowspan="1">Sélectionnez l’une des 9 options pour la position de la boîte de dialogue sur la page. Par exemple, si vous sélectionnez la zone centrale, la boîte de dialogue s’affiche au milieu de l’écran.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Par coordonnées</strong></p><p><br></p></td>
+   <td colspan="1" rowspan="1">Pour d’autres options de positionnement de la boîte de dialogue, cochez la case « Coordonnées de position » et saisissez les coordonnées exactes de l’écran (Horizontal, Vertical) à l’endroit où vous souhaitez que la boîte de dialogue s’affiche.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Remplissage du bouton</strong></td>
+   <td colspan="1">Personnalisez le bouton de fermeture modal en utilisant la couleur, le style et la position. Vous pouvez également utiliser votre propre bouton en le liant à la zone URL de l’image .</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Fixe</strong></td>
+   <td colspan="1">En cochant la case, la boîte de dialogue reste en place, sans limite de temps, jusqu’à ce qu’elle soit fermée par l’utilisateur ou l’utilisatrice et elle apparaîtra sur toutes les pages tout au long de la session du visiteur ou de la visiteuse.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Modal</strong></td>
+   <td colspan="1">Met davantage l’accent sur la boîte de dialogue et la lance avec un arrière-plan sombre derrière la fenêtre de boîte de dialogue, ce qui accroît la sensibilisation de l’utilisateur à la boîte de dialogue.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Couleur modale</strong></td>
+   <td colspan="1">Personnalisez la couleur et l’opacité de la fenêtre modale.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Délai d’expiration </strong></td>
+   <td colspan="1">Nombre de secondes pendant lesquelles la boîte de dialogue est activée avant le fondu.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Couleur de l’en-tête</strong></td>
+   <td colspan="1">Définissez la barre d’en-tête de la boîte de dialogue sur la couleur de votre choix. La couleur peut être choisie à partir d’une palette de couleurs ou saisie sous la forme d’un code couleur hexadécimal. </td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Couleur d’arrière-plan du contenu </strong></td>
+   <td colspan="1">Définissez la couleur d’arrière-plan de la boîte de dialogue sur votre couleur préférée. La couleur peut être choisie à partir d’une palette de couleurs ou saisie sous la forme d’un code couleur hexadécimal. </td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Titre de la boîte de dialogue</strong></td>
+   <td colspan="1">Ajoutez un titre à la barre de titre d’en-tête de la boîte de dialogue.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Largeur et hauteur</strong></td>
+   <td colspan="1">Sélectionnez la taille en pixels de la boîte de dialogue.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Largeur automatique</strong></td>
+   <td colspan="1">Si vous cochez cette case, la boîte de dialogue s’adapte automatiquement à la largeur du contenu.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Redimensionnable </strong></td>
+   <td colspan="1">Si vous cochez la case redimensionnable, la boîte de dialogue peut être redimensionnée par l’utilisateur ou l’utilisatrice.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Éditeur de texte enrichi</strong></td>
+   <td colspan="1"><p>L’éditeur de texte enrichi permet la mise en forme du texte, la liaison et l’insertion d’images. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">En savoir plus ici</a>.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Aperçu sur le site</strong></td>
+   <td colspan="1">Prévisualisez les campagnes avant leur lancement.<br>
+    <ul>
+     <li>URL : saisissez un exemple d’URL où la campagne serait exécutée pour afficher un exemple d’aperçu de l’apparence de la campagne en direct.</li>
+     <li>Appareil : prévisualisez l’aspect de votre campagne par appareil : ordinateur de bureau, portrait pour mobile, paysage pour mobile, portrait pour tablette, paysage pour portrait.<br></li>
+     <li>Prévisualisation - Cliquez sur <strong>Prévisualisation </strong> pour ouvrir une nouvelle fenêtre de l’exemple d’URL afin de voir comment la campagne réagit. </li>
+     <li>Partager : utilisez le bouton Partager pour envoyer un e-mail à un collègue avec un lien afin d’afficher la campagne proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

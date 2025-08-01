@@ -6,7 +6,7 @@ exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans un
 
 >[!NOTE]
 >
->**Déclencheur** : page Web Visites, page Web est page de tarification\
->**Flux** : Modifier le score de +10 et le moment intéressant
->&#x200B;>**Web** : Page Tarification affichée
+>**Déclencheur** : page Web Visites, page Web est page de tarification
+>>**Flux** : Modifier le score de +10 et le moment intéressant
+>>**Web** : Page Tarification affichée
 >
 >Avec [!DNL Munchkin] V2, si une personne anonyme visite la page de tarification, elle ne participe pas immédiatement à la campagne. Au moment où la personne anonyme sera connue, nous lancerons cette campagne sur elle. Elle :
 >

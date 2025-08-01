@@ -3,7 +3,7 @@ description: Actions rapides dans le centre de commande - Documents Marketo - Do
 title: Actions rapides dans le centre de commande
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 4%
@@ -27,59 +27,59 @@ Les actions rapides d’e-mail sont dynamiques et mises à jour en fonction des 
 
 **[!UICONTROL Archivé]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Unarchive]</td> 
-   <td>Renvoie l’e-mail dans le dossier diffusé et réactive le suivi des affichages/clics.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Unarchive]</td>
+   <td>Renvoie l’e-mail dans le dossier diffusé et réactive le suivi des affichages/clics.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Brouillon] et [!UICONTROL Planifié]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Edit]</td> 
-   <td>Ouvre l’e-mail dans la fenêtre de composition à modifier.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Edit]</td>
+   <td>Ouvre l’e-mail dans la fenêtre de composition à modifier.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Échec], [!UICONTROL Rebond] et [!UICONTROL Spam]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Retry Send]</td> 
-   <td>Tentera immédiatement de renvoyer l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Retry Send]</td>
+   <td>Tentera immédiatement de renvoyer l’e-mail.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Supprimera l’e-mail.<br><strong>Remarque :</strong> les e-mails envoyés dans le cadre d’une campagne ne peuvent pas être supprimés.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Actions de suivi]**

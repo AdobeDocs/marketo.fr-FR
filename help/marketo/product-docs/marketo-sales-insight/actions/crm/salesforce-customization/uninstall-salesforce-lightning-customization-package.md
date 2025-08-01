@@ -3,7 +3,7 @@ description: Désinstallation Du Package De Personnalisation Salesforce Lightnin
 title: Désinstaller le package de personnalisation de Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 9%
@@ -172,7 +172,7 @@ La vue Compte ne comporte qu’un seul bouton - « Envoyer MSE Email » et les c
 
 1. Cliquez sur **[!UICONTROL Personnaliser mes onglets]**.
 
-1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL &#x200B; Supprimer &#x200B;], puis sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL  Supprimer ], puis sur **[!UICONTROL Enregistrer]**.
 
 ## Supprimer [!DNL Sales Connect] package {#delete-sales-connect-package}
 
@@ -298,9 +298,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Date du dernier engagement marketing</td>
   <td>Date et heure de l’engagement à partir du marketing</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -308,9 +308,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Description du dernier engagement marketing</td>
   <td>Description de l’engagement</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -318,9 +318,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Dernier engagement marketing Source</td>
   <td>Source de l’engagement marketing</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -328,9 +328,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Dernier type d’engagement marketing</td>
   <td>Type d’engagement (ex : activité Web)</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -338,9 +338,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Dernière activité par ventes</td>
   <td>Dernière activité sortante réalisée par l'équipe commerciale</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -348,9 +348,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Dernière réponse</td>
   <td>Dernier e-mail de réponse à l’e-mail de vente</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -358,9 +358,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Campagne de vente actuelle</td>
   <td>Consigne le nom de la campagne du MSC sur laquelle se trouve le contact/prospect</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -378,9 +378,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>MSC - Opt-out</td>
   <td>Champ d’opt-out</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
   <td>Case à cocher</td>
  </tr>
@@ -396,9 +396,9 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>[!UICONTROL Send MSC Email]</td>
   <td>Envoyer des e-mails de vente depuis [!DNL Salesforce]</td>
   <td>
-  <p>Compte 
-  <p>Contact 
-  <p>Prospect 
+  <p>Compte
+  <p>Contact
+  <p>Prospect
   <p>Opportunité</td>
  </tr>
  <tr>

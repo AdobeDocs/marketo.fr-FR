@@ -3,7 +3,7 @@ description: Bibliothèque de réponses - Documents Marketo - Documentation du p
 title: Bibliothèque de réponses
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 2%
@@ -44,7 +44,7 @@ Au même endroit, affichez toutes vos questions, leur statut d’approbation et 
 
 >[!NOTE]
 >
->Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL &#x200B; approuvées &#x200B;] sont mises à la disposition des visiteurs du chat.
+>Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL  approuvées ] sont mises à la disposition des visiteurs du chat.
 
 1. Dans la **[!UICONTROL bibliothèque de réponses]**, cliquez sur la question souhaitée.
 

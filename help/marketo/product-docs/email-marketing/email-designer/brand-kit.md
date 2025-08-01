@@ -7,7 +7,8 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
+exl-id: 34bd5fea-0859-4634-9ddd-ae6fd7a1d423
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1260'
 ht-degree: 85%
@@ -30,7 +31,7 @@ Pour accéder au menu **[!UICONTROL Marques]** dans [!DNL Adobe Marketo Engage],
 
 +++  Découvrez comment attribuer des autorisations liées à la marque.
 
-Pour attribuer des autorisations aux marques, procédez comme suit :
+Pour attribuer des autorisations aux marques, procédez comme suit :
 
 1. Dans le produit **Autorisations**, accédez à l’onglet **Rôles** et sélectionnez le **Rôle** de votre choix.
 

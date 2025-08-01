@@ -4,7 +4,7 @@ description: Sales Connect et conformité au RGPD - Documents Marketo - Document
 title: Sales Connect et conformité au RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1355'
 ht-degree: 8%
@@ -86,7 +86,7 @@ Lorsque la vue Détails de la personne est ouverte, cliquez sur **[!UICONTROL Mo
 
 ![](assets/four.png)
 
-Deux listes déroulantes s’affichent : [!UICONTROL &#x200B; Type d’autorisation &#x200B;] et [!UICONTROL Type de Source].
+Deux listes déroulantes s’affichent : [!UICONTROL  Type d’autorisation ] et [!UICONTROL Type de Source].
 
 ![](assets/5.png)
 
@@ -124,44 +124,44 @@ Après avoir sélectionné le type de Source approprié pour les contacts sélec
 
 Vous avez la possibilité d’exporter des informations de contact à partir de la vue Détails de la personne. L’exportation télécharge un fichier .CSV avec les colonnes suivantes :
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Prénom]</td> 
-   <td>[!UICONTROL Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Nom]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Mis À Jour À]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Title]</td> 
-   <td>[!UICONTROL Créé À]</td> 
-   <td>[!UICONTROL Exporté À]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email ID]</td> 
-   <td>[!UICONTROL Salesforce ID]</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Phone Number]</td> 
-   <td>[!UICONTROL Person ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Prénom]</td>
+   <td>[!UICONTROL Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Nom]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Mis À Jour À]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Title]</td>
+   <td>[!UICONTROL Créé À]</td>
+   <td>[!UICONTROL Exporté À]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email ID]</td>
+   <td>[!UICONTROL Salesforce ID]</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Phone Number]</td>
+   <td>[!UICONTROL Person ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -180,9 +180,9 @@ Pour exporter les informations de contact, cliquez sur les trois points verticau
 
 Un domaine souvent mal compris du RGPD concerne les contacts qui se désabonnent de la base de données de l’organisation. Afin de respecter les nouvelles règles de protection des données des personnes qui choisissent de se désabonner, les fonctionnalités suivantes ont été incluses dans [!DNL Marketo Sales Connect] :
 
-**Liens de désabonnement :** les liens de désabonnement seront automatiquement ajoutés à tous les e-mails envoyés à partir de l&#39;application web [!DNL Sales Connect] pour s&#39;assurer que les contacts disposent d&#39;un moyen accessible pour se désinscrire.\
-**Synchronisation des désabonnements :** les utilisateurs peuvent synchroniser les désabonnements avec leur CRM ([!DNL Salesforce]) pour s’assurer que les désabonnements sont à jour.\
-**Historique de désabonnement :** les utilisateurs peuvent afficher l’historique des désinscriptions et des inscriptions dans la vue des détails de la personne.\
+**Liens de désabonnement :** les liens de désabonnement seront automatiquement ajoutés à tous les e-mails envoyés à partir de l&#39;application web [!DNL Sales Connect] pour s&#39;assurer que les contacts disposent d&#39;un moyen accessible pour se désinscrire.
+**Synchronisation des désabonnements :** les utilisateurs peuvent synchroniser les désabonnements avec leur CRM ([!DNL Salesforce]) pour s’assurer que les désabonnements sont à jour.
+**Historique de désabonnement :** les utilisateurs peuvent afficher l’historique des désinscriptions et des inscriptions dans la vue des détails de la personne.
 **Suppression du désabonnement :** pour réactiver un contact désabonné, l’utilisateur doit disposer de droits d’administrateur et démontrer qu’il a donné son nouveau consentement pour le contacter.
 
 ## Futures mises à jour {#future-updates}

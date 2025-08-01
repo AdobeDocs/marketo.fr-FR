@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1732'
-ht-degree: 4%
+source-wordcount: '1731'
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ Pour accélérer et améliorer le processus de conception, vous pouvez créer de
 
 >[!PREREQUISITES]
 >
->Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Pour accélérer et améliorer le processus de conception, vous pouvez créer de
 
 ## Concevoir votre modèle {#design-your-template}
 
-Sur la page _Concevoir votre modèle_, vous pouvez choisir parmi plusieurs options. [Concevoir en partant de zéro](#design-from-scratch), [importer votre propre HTML ](#import-html) ou [sélectionner un modèle existant](#choose-a-template) (l’un de nos exemples ou celui que vous avez déjà enregistré).
+Sur la page _Concevoir votre modèle_, vous pouvez choisir parmi plusieurs options. [Concevoir en partant de zéro](#design-from-scratch), [importer votre propre HTML](#import-html) ou [sélectionner un modèle existant](#choose-a-template) (l’un de nos exemples ou celui que vous avez déjà enregistré).
 
 ![](assets/design-your-template-1.png)
 
@@ -62,29 +62,29 @@ Définissez votre contenu en ajoutant et en déplaçant des éléments structure
 
 1. Ajoutez [structure et contenu](#add-structure-and-content).
 
-### Importer votre HTML {#import-your-html}
+### Importation de votre HTML {#import-your-html}
 
-Vous pouvez importer du contenu d’HTML existant pour concevoir vos modèles d’e-mail. Le contenu peut être :
+Vous pouvez importer du contenu HTML existant pour concevoir vos modèles d’e-mail. Le contenu peut être :
 
 * Fichier HTML avec feuille de style incorporée
 
-* Un fichier .zip qui comprend un fichier HTML, la feuille de style (.css) et les images
+* Fichier .zip contenant un fichier HTML, la feuille de style (.css) et les images.
 
 >[!NOTE]
 >
 >Il n’existe aucune contrainte sur la structure des fichiers .zip. Cependant, les références doivent être relatives et s’ajuster à l’arborescence du dossier .zip.
 
-1. Sur la page _Concevoir votre modèle_, sélectionnez **Importer l’HTML**.
+1. Sur la page _Concevoir votre modèle_, sélectionnez **Importer HTML**.
 
-1. Faites glisser et déposez le fichier .zip ou d’HTML souhaité (ou sélectionnez un fichier sur votre ordinateur), puis cliquez sur **Importer**.
+1. Effectuez un glisser-déposer du fichier HTML ou .zip souhaité (ou sélectionnez un fichier sur votre ordinateur), puis cliquez sur **Importer**.
 
    ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
-   >Lorsque le contenu de l’HTML est chargé, votre contenu se trouve en mode de compatibilité. Dans ce mode, vous pouvez uniquement personnaliser votre texte, ajouter des liens ou ajouter des ressources à votre contenu.
+   >Lorsque le contenu HTML est chargé, votre contenu se trouve en mode de compatibilité. Dans ce mode, vous pouvez uniquement personnaliser votre texte, ajouter des liens ou ajouter des ressources à votre contenu.
 
-1. Pour tirer parti des composants de contenu Designer d’e-mail, cliquez sur l’onglet **Convertisseur d’HTML** puis sur **Convertir**.
+1. Pour tirer parti des composants de contenu Designer d’e-mail, cliquez sur l’onglet **Convertisseur HTML** puis sur **Convertir**.
 
    >[!CAUTION]
    >
@@ -154,7 +154,7 @@ Choisissez l’un des modèles prêts à l’emploi pour prendre un bon départ 
 
 ### Ajout d’Assets {#add-assets}
 
-Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance de Marketo Engage.
+Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance Marketo Engage.
 
 >[!NOTE]
 >
@@ -289,7 +289,7 @@ Tirez parti des options d’affichage et de validation du contenu disponibles da
 
 * **Modifier votre conception** : revenez à la page _Concevoir votre modèle_. À partir de là, vous pouvez effectuer n’importe quelle action comme indiqué dans la section [Concevoir votre modèle](#design-your-template).
 
-* **Exporter l’HTML** : téléchargez le contenu de la zone de travail visuelle sur votre système local au format HTML compressé sous la forme d’un fichier zip.
+* **Exporter HTML** : téléchargez le contenu de la zone de travail visuelle sur votre système local au format HTML présenté sous la forme d’un fichier zip.
 
 ## Affichage des détails du modèle {#view-template-details}
 
@@ -309,7 +309,7 @@ S’il existe des alertes actives (erreurs/avertissements pour le modèle d’e-
 
 ## Afficher le modèle d’e-mail utilisé par les références {#email-template-used-by-references}
 
-Dans le résumé du modèle d’e-mail, cliquez sur l’onglet **Utilisé par** pour afficher les détails sur l’utilisation de ce modèle d’e-mail dans Marketo Engage.
+Dans le résumé du modèle d’e-mail, cliquez sur l’onglet **Utilisé par** pour afficher les détails de l’utilisation de ce modèle d’e-mail dans Marketo Engage.
 
 ![](assets/email-template-used-by-references-1.png)
 

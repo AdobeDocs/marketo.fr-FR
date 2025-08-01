@@ -1,35 +1,35 @@
 ---
 unique-page-id: 7504383
-description: Ajout de champs à un rapport de l’Explorateur des recettes - Documents Marketo - Documentation du produit
-title: Ajout de champs à un rapport de l’Explorateur de recettes
+description: Ajout de champs à un rapport de l’explorateur de revenus - Documents Marketo - Documentation du produit
+title: Ajout de champs à un rapport de l’explorateur de revenus
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
 
 ---
 
-# Ajout de champs à un rapport de l’Explorateur de recettes {#adding-fields-to-a-revenue-explorer-report}
+# Ajout de champs à un rapport de l’explorateur de revenus {#adding-fields-to-a-revenue-explorer-report}
 
-Personnalisez les rapports de l’explorateur de recettes en faisant glisser et en déposant des champs de dimension et de mesure dans la zone de travail.
+Personnalisez les rapports de l’explorateur de recettes en faisant glisser et en déposant les champs de dimension et de mesure dans la zone de travail.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Type de champ</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td>Champ ou Dimension jaune</td> 
-   <td><p>Les champs jaunes sont les dimensions (lignes et colonnes) de votre rapport.</p><p>Vous pouvez par exemple configurer un rapport qui affiche en colonnes l’état de votre piste ou la date de création.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Champ bleu ou mesure</td> 
-   <td><p>Les champs bleus sont des mesures qui sont analysées dans vos données.</p><p>Par exemple, il peut s’agir du score de piste moyen pour vos pistes ou du nombre de jours pendant lesquels une piste a eu une opportunité.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Type de champ</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td>Champ jaune ou Dimension</td>
+   <td><p>Les champs jaunes sont les dimensions (lignes et colonnes) de votre rapport.</p><p>Par exemple, vous pouvez configurer un rapport qui affiche le statut de votre prospect ou sa date de création en colonnes.</p></td>
+  </tr>
+  <tr>
+   <td>Champ ou mesure bleu</td>
+   <td><p>Les champs bleus sont des mesures qui sont analysées dans vos données.</p><p>Il peut s’agir, par exemple, du score moyen de vos prospects ou du nombre de jours pendant lesquels un prospect a eu une opportunité.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Recherchez le ou les champs jaunes que vous souhaitez utiliser et faites-les glisser dans Lignes.
@@ -38,16 +38,16 @@ Personnalisez les rapports de l’explorateur de recettes en faisant glisser et 
 
    >[!TIP]
    >
-   >Pointez sur un champ pour obtenir une description complète.
+   >Passez la souris sur un champ pour obtenir une description complète.
 
 1. Recherchez le ou les champs bleus que vous souhaitez utiliser et faites-les glisser dans Mesures.
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
-   Super ! Vous avez maintenant un rapport complet !
+   Génial ! Vous disposez désormais d&#39;un rapport complet.
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
 >[!MORELIKETHIS]
 >
->[Suppression d’un champ dans un rapport de l’Explorateur des recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[Suppression d’un champ dans un rapport de l’explorateur de revenus](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

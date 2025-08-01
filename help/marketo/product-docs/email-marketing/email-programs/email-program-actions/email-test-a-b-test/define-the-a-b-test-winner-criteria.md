@@ -4,7 +4,7 @@ description: Définir les critères de gagnant du test A/B - Documents Marketo -
 title: Définir les critères du gagnant du test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Lors de l’[ajout d’un test A/B](/help/marketo/product-docs/email-marketing/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Le <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=fr" target="_blank"> score d’engagement </a> vous aide à déterminer l’efficacité de votre contenu.</td>
+   <td>Le <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank"> score d’engagement </a> vous aide à déterminer l’efficacité de votre contenu.</td>
    </tr>
    </table>
 

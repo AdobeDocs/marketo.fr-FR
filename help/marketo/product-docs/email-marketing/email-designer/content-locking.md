@@ -6,7 +6,7 @@ description: Découvrez comment verrouiller le contenu dans vos modèles d’e-m
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '891'
 ht-degree: 75%
@@ -65,7 +65,7 @@ Vous pouvez activer le verrouillage de contenu pour un modèle d’e-mail direct
 
    Si vous avez choisi le mode **[!UICONTROL Lecture seule]**, vous pouvez procéder à la finalisation et à l’enregistrement de votre modèle.
 
-Vous pouvez ajuster les paramètres de **[!UICONTROL Gouvernance]** à tout moment lors de la conception de votre modèle en sélectionnant le corps du modèle. Pour ce faire, cliquez sur le lien **[!UICONTROL Corps]** dans le rail de navigation situé en haut du volet de droite.
+Vous pouvez ajuster les paramètres de **[!UICONTROL gouvernance]** à tout moment lors de la conception de votre modèle en sélectionnant le corps du modèle. Pour ce faire, cliquez sur le lien **[!UICONTROL Corps]** dans le rail de navigation situé en haut du volet de droite.
 
 ![](assets/content-locking-2.png){width="800" zoomable="yes"}
 

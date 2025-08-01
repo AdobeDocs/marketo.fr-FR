@@ -4,7 +4,7 @@ description: Tableaux de bord des informations de performance - Documents Market
 title: Tableaux de bord des informations sur les performances
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 10%
@@ -45,39 +45,39 @@ Sélectionnez la mesure **[!UICONTROL Nouveaux noms]** pour mesurer l’efficaci
 >
 >Tous vos programmes doivent être configurés pour définir le programme d’acquisition et la date d’acquisition des prospects afin que ce tableau de bord vous donne les meilleurs résultats.
 
-## [!UICONTROL &#x200B; Pipeline &#x200B;] {#pipeline}
+## [!UICONTROL  Pipeline ] {#pipeline}
 
 Le tableau de bord [!UICONTROL Pipeline] affiche les performances du canal par mesures Première touche et Touche multiple.
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Nouvelles opportunités</span></strong></p></td> 
-   <td><p>Part du crédit que le programme a reçue pour avoir influencé la création de nouvelles possibilités. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline créé</span></strong></p></td> 
-   <td><p>La partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Il peut s’agir d’une fraction du total si plusieurs prospects étaient impliqués.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline ouvert</span></strong></p></td> 
-   <td><p>La partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influé sur la création d'occasions qui sont encore ouvertes. Il peut s’agir d’une fraction du total si plusieurs prospects étaient impliqués.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Chiffre d'affaires souhaité</span></strong></p></td> 
-   <td><p>La partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Le chiffre d’affaires attendu est la probabilité d’opportunité multipliée par la valeur de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Coût par opportunité créée</span></strong></p></td> 
-   <td><p>La partie du coût du programme qui a influencé les nouvelles opportunités divisée par le nombre total de nouvelles opportunités créées.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Ratio de pipeline créé par coût</span></strong></p></td> 
-   <td><p>La partie du crédit qu'un programme a reçu pour avoir influencé la création de nouvelles possibilités divisée par la partie du coût du programme qui a influencé la création de possibilités.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Nouvelles opportunités</span></strong></p></td>
+   <td><p>Part du crédit que le programme a reçue pour avoir influencé la création de nouvelles possibilités. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline créé</span></strong></p></td>
+   <td><p>La partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Il peut s’agir d’une fraction du total si plusieurs prospects étaient impliqués.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline ouvert</span></strong></p></td>
+   <td><p>La partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influé sur la création d'occasions qui sont encore ouvertes. Il peut s’agir d’une fraction du total si plusieurs prospects étaient impliqués.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Chiffre d'affaires souhaité</span></strong></p></td>
+   <td><p>La partie du crédit (en valeur monétaire) que le programme a reçue pour avoir influencé la création d'opportunités. Le chiffre d’affaires attendu est la probabilité d’opportunité multipliée par la valeur de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Coût par opportunité créée</span></strong></p></td>
+   <td><p>La partie du coût du programme qui a influencé les nouvelles opportunités divisée par le nombre total de nouvelles opportunités créées.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Ratio de pipeline créé par coût</span></strong></p></td>
+   <td><p>La partie du crédit qu'un programme a reçu pour avoir influencé la création de nouvelles possibilités divisée par la partie du coût du programme qui a influencé la création de possibilités.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenus] {#revenue}
@@ -86,23 +86,23 @@ Le tableau de bord [!UICONTROL Revenu] affiche les performances des canaux par m
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Opportunités confirmées</span></strong></p></td> 
-   <td><p>Partie du crédit qu’un programme a reçu pour avoir influencé une opportunité gagnée.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Chiffre d’affaires confirmé</span></strong></p></td> 
-   <td><p>Partie du crédit (en valeur monétaire) reçue pour avoir influencé une opportunité gagnée.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Coût par opportunité confirmée</span></strong></p></td> 
-   <td><p>La partie du coût du programme qui a influencé les nouvelles opportunités divisée par le nombre total de nouvelles opportunités créées.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Ratio de chiffre d’affaires confirmé par coût</span></strong></p></td> 
-   <td><p>La partie du crédit (en valeur monétaire) reçue pour avoir influé sur une opportunité gagnée divisée par la partie du coût du programme qui a influencé de nouvelles opportunités.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Opportunités confirmées</span></strong></p></td>
+   <td><p>Partie du crédit qu’un programme a reçu pour avoir influencé une opportunité gagnée.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Chiffre d’affaires confirmé</span></strong></p></td>
+   <td><p>Partie du crédit (en valeur monétaire) reçue pour avoir influencé une opportunité gagnée.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Coût par opportunité confirmée</span></strong></p></td>
+   <td><p>La partie du coût du programme qui a influencé les nouvelles opportunités divisée par le nombre total de nouvelles opportunités créées.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Ratio de chiffre d’affaires confirmé par coût</span></strong></p></td>
+   <td><p>La partie du crédit (en valeur monétaire) reçue pour avoir influé sur une opportunité gagnée divisée par la partie du coût du programme qui a influencé de nouvelles opportunités.</p></td>
+  </tr>
+ </tbody>
 </table>

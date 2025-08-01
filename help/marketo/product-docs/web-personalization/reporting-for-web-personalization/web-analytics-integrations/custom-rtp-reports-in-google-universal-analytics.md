@@ -4,7 +4,7 @@ description: Rapports RTP personnalisés dans Google Universal Analytics - Docum
 title: Rapports RTP personnalisés dans Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 4%
@@ -64,41 +64,41 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
 1. Dans la section **Analyses Dimension** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Nom de l'onglet 
-    </div></th> 
-   <th> 
+      Nom de l'onglet
+    </div></th>
+   <th>
     <div>
       Analyses Dimension détaillées
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Secteur industriel</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Groupe</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Catégorie</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Organisations</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Secteur industriel</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Groupe</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Catégorie</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Organisations</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Ne définissez aucun filtre et définissez ce rapport de sorte qu’il soit disponible pour **[!UICONTROL Toutes les données du site web]** (ou modifiez-le si cela concerne un compte Analytics spécifique).
@@ -137,86 +137,86 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
 1. Dans la section **Analyses Dimension** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous :
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Nom de l'onglet 
-    </div></th> 
-   <th> 
+      Nom de l'onglet
+    </div></th>
+   <th>
     <div>
-      Analyses Dimension détaillées 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Tous les engagements</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement par ABM</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement par catégorie</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement par groupe</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Engagement de l'industrie</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Analyses Dimension détaillées
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Tous les engagements</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement par ABM</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement par catégorie</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement par groupe</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Engagement de l'industrie</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Définissez les filtres suivants :
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      Champ 
-    </div></th> 
-   <th> 
+      Champ
+    </div></th>
+   <th>
     <div>
-      Type de correspondance 
-    </div></th> 
-   <th> 
+      Type de correspondance
+    </div></th>
+   <th>
     <div>
-      Valeurs 
-    </div></th> 
-   <th colspan="1"> 
+      Valeurs
+    </div></th>
+   <th colspan="1">
     <div>
-      Commentaires 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>Inclure</p></td> 
-   <td><p><span class="uicontrol">Catégorie d’événement</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-Campagnes|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">Filtre tous les autres événements personnalisés qui ne sont pas liés au RTP.</td> 
-  </tr> 
-  <tr> 
-   <td>Exclure</td> 
-   <td><span class="uicontrol">Libellé de l’événement</span></td> 
-   <td>Regex</td> 
-   <td>#</td> 
-   <td colspan="1">Permet de filtrer à partir de la campagne de rapports à l’aide de # dans le nom de la campagne</td> 
-  </tr> 
- </tbody> 
+      Commentaires
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>Inclure</p></td>
+   <td><p><span class="uicontrol">Catégorie d’événement</span></p></td>
+   <td>Regex</td>
+   <td>RTP-Campagnes|RTP-Recommendations|RTP-Segments</td>
+   <td colspan="1">Filtre tous les autres événements personnalisés qui ne sont pas liés au RTP.</td>
+  </tr>
+  <tr>
+   <td>Exclure</td>
+   <td><span class="uicontrol">Libellé de l’événement</span></td>
+   <td>Regex</td>
+   <td>#</td>
+   <td colspan="1">Permet de filtrer à partir de la campagne de rapports à l’aide de # dans le nom de la campagne</td>
+  </tr>
+ </tbody>
 </table>
 
 1. Définir ce rapport comme étant disponible pour **[!UICONTROL Toutes les données du site Web]** (ou le modifier si nécessaire).

@@ -3,7 +3,7 @@ description: Utilisation de la recherche globale - Documents Marketo - Documenta
 title: Utilisation de la recherche globale
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Utilisation de la recherche globale {#using-the-global-search}
 
-La puissante recherche globale vous offre de nombreuses options sans limite sur les résultats affichés.
+La recherche globale puissante vous donne beaucoup d’options sans limite sur les résultats affichés.
 
 ## Exécution d’une recherche {#performing-a-search}
 
@@ -20,19 +20,19 @@ La puissante recherche globale vous offre de nombreuses options sans limite sur 
 
    ![](assets/using-the-global-search-1.png)
 
-1. Saisissez le texte d’identification de votre ressource.
+1. Saisissez le texte d’identification de la ressource.
 
    ![](assets/using-the-global-search-2.png)
 
-1. Les résultats de la recherche s’affichent. Vous pouvez cliquer n’importe où dans un chemin de navigation pour accéder directement à cet élément.
+1. Les résultats de la recherche s’affichent. Vous pouvez cliquer n’importe où dans l’un des chemins de navigation pour accéder directement à cet élément.
 
    ![](assets/using-the-global-search-3.png)
 
-1. Dans cet exemple, nous choisissons d&#39;être directement redirigé vers l&#39;email que nous recherchons. Cliquez sur le nom de l&#39;email.
+1. Dans cet exemple, nous choisissons d’être redirigés directement vers l’e-mail que nous recherchons. Cliquez sur le nom de l’e-mail.
 
    ![](assets/using-the-global-search-4.png)
 
-Vous êtes directement dirigé vers l’e-mail souhaité.
+Vous accédez directement à l’adresse e-mail souhaitée.
 
 ![](assets/using-the-global-search-5.png)
 
@@ -40,31 +40,31 @@ Vous êtes directement dirigé vers l’e-mail souhaité.
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Nom de l’élément/de la destination</td> 
+   <td>1</td>
+   <td>Nom de l’article/de la destination</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Chemin (chemins de navigation) vers l’élément/la destination respectifs</td> 
+   <td>2</td>
+   <td>Chemin (chemin de navigation) vers l’élément/la destination correspondant(e)</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Date et heure de la dernière modification de l’élément/de la destination</td> 
+   <td>3</td>
+   <td>Date et heure de la dernière modification de l'article/de la destination</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Date et heure de création de l’élément/de la destination</td> 
+   <td>4</td>
+   <td>Date et heure de création de l’élément/de la destination</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Mise en oeuvre de filtres ciblés pour limiter les résultats de la recherche</td> 
+   <td>5</td>
+   <td>Implémenter des filtres ciblés pour limiter les résultats de recherche</td>
   </tr>
  </tbody>
 </table>
 
-**ÉTAPE FACULTATIVE** : Pour utiliser le filtrage, sélectionnez simplement les options souhaitées.
+**ÉTAPE FACULTATIVE** : Pour utiliser le filtrage, sélectionnez simplement les options de votre choix.
 
 ![](assets/using-the-global-search-7.png)

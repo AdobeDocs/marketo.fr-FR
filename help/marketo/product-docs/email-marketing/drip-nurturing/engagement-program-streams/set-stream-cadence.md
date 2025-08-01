@@ -4,7 +4,7 @@ description: Définir Le Rythme Du Flux - Documents Marketo - Documentation Du P
 title: Définir le rythme du stream
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 3%
@@ -51,7 +51,7 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
 
    >[!TIP]
    >
-   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **[!UICONTROL Répétitions] : [!UICONTROL Hebdomadaire]** / **[!UICONTROL Tous les &#x200B;] : 1 [!UICONTROL Semaine]** / **[!UICONTROL Activé]** : tous les jours.
+   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **[!UICONTROL Répétitions] : [!UICONTROL Hebdomadaire]** / **[!UICONTROL Tous les ] : 1 [!UICONTROL Semaine]** / **[!UICONTROL Activé]** : tous les jours.
 
    Choisis maintenant l&#39;Heure. Cochez la case si vous souhaitez utiliser [Fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (c’est-à-dire diffuser selon les fuseaux horaires locaux), puis cliquez sur **[!UICONTROL Enregistrer]**.
 

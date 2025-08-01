@@ -4,7 +4,7 @@ description: Intégration à Adobe Analytics - Documentation de Marketo - Docume
 title: Intégration à Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Pour configurer ces variables dans AA, procédez comme suit :
 
 1. Accédez à **[!UICONTROL Outils d’administration]** dans votre compte AA.
 1. Sélectionnez la **[!UICONTROL Suite de rapports]** à utiliser avec l’intégration.
-1. Sous **[!UICONTROL Modifier les paramètres]**, accédez à **[!UICONTROL Conversion]** et sélectionnez **[[!UICONTROL Variables de conversion]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Sélectionnez le nombre [Variable de conversion](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recommandé) :
+1. Sous **[!UICONTROL Modifier les paramètres]**, accédez à **[!UICONTROL Conversion]** et sélectionnez **[[!UICONTROL Variables de conversion]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
+Sélectionnez le nombre [Variable de conversion](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recommandé) :
 
    1. Evar # 20 pour les conversions personnalisées du secteur
    1. Evar # 21 pour les conversions personnalisées d’organisation
@@ -220,7 +220,7 @@ Vos petits rapports s’affichent dans le tableau de bord.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Recherchez Impressions pour afficher les noms de segment et de campagne représentant le nombre d’impressions de la campagne.\
+1. Recherchez Impressions pour afficher les noms de segment et de campagne représentant le nombre d’impressions de la campagne.
    ![](assets/sitecatalyst1.png)
 
 1. Recherchez Conversion pour afficher les noms de segment et de campagne représentant le nombre de clics pour la campagne.

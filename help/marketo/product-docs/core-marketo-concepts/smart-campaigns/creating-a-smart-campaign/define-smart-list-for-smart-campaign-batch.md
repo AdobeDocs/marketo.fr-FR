@@ -1,47 +1,47 @@
 ---
 unique-page-id: 1146940
-description: Définition d’une liste dynamique pour Smart Campaign | Lot - Documents Marketo - Documentation du produit
-title: Définition d’une liste dynamique pour Smart Campaign | Lot
+description: Définir une liste dynamique pour une campagne dynamique | Lot - Documents Marketo - Documentation Du Produit
+title: Définir une liste dynamique pour une campagne dynamique | Lot
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Définition d’une liste dynamique pour Smart Campaign | Lot {#define-smart-list-for-smart-campaign-batch}
+# Définir une liste dynamique pour une campagne dynamique | Lot {#define-smart-list-for-smart-campaign-batch}
 
-Les listes dynamiques sont le mécanisme qui permet, dans tout le Marketo Engage, de définir &quot;qui&quot; (quelles personnes) inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne dynamique. Voici comment définir une liste dynamique pour une campagne par lots.
+Les listes dynamiques sont le mécanisme utilisé dans Marketo Engage pour définir les « personnes » à inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne dynamique. Voici comment définir une liste dynamique pour une campagne par lots.
 
 >[!CAUTION]
 >
->La modification d’une campagne active à l’étape Liste dynamique ou Flux peut potentiellement interrompre ses fonctionnalités. Si vous choisissez de le faire, faites preuve de prudence.
+>Apporter des modifications à une liste dynamique ou à une étape de flux à une campagne active peut potentiellement interrompre sa fonctionnalité. Si vous choisissez de le faire, faites preuve de prudence.
 
 1. Choisissez une campagne dynamique, puis cliquez sur **[!UICONTROL Liste dynamique]**.
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
-1. Saisissez pour rechercher un filtre, puis faites-le glisser sur la zone de travail. Répétez cette opération pour plusieurs filtres.
+1. Saisissez pour rechercher un filtre, puis faites-le glisser et déposez-le sur la zone de travail. Répétez l’opération pour plusieurs filtres.
 
    ![](assets/define-smart-list-for-smart-campaign-batch-2.png)
 
    >[!NOTE]
    >
-   >Une campagne dynamique avec uniquement des filtres s’exécute en mode _Batch_. Il trouve dans la base de données les personnes qui remplissent les critères en fonction des filtres et les exécute toutes à la fois dans le flux.
+   >Une campagne dynamique avec uniquement des filtres s’exécute en mode _lot_. Il trouve dans la base de données les personnes qui remplissent les critères en fonction des filtres et les exécute toutes en même temps dans le flux.
 
    >[!NOTE]
    >
-   >Vous pouvez effectuer une exécution de campagne dynamique sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs, ce qui place la campagne dynamique en mode _Déclencheur_ .
+   >Vous pouvez faire en sorte qu’une campagne intelligente s’exécute sur une personne à la fois en fonction d’événements en direct en ajoutant des déclencheurs, ce qui place la campagne intelligente en mode _déclencheur_.
 
-1. Cliquez sur la liste déroulante et choisissez un opérateur de filtre pour le filtre que vous choisissez.
+1. Cliquez dans la liste déroulante et choisissez un opérateur de filtre pour le filtre que vous avez choisi.
 
    ![](assets/define-smart-list-for-smart-campaign-batch-3.png)
 
    >[!CAUTION]
    >
-   >Des lignes rouges ondulent les erreurs ou les informations manquantes. Si elle n’est pas corrigée, la campagne est invalide et ne s’exécute pas.
+   >Des lignes pointilleuses rouges indiquent des erreurs ou des informations manquantes. Si elle n’est pas corrigée, la campagne ne sera pas valide et ne s’exécutera pas.
 
 1. Saisissez la valeur du filtre.
 
@@ -49,11 +49,11 @@ Les listes dynamiques sont le mécanisme qui permet, dans tout le Marketo Engage
 
    >[!NOTE]
    >
-   >Par défaut, les personnes qui respectent TOUTES les règles de liste dynamique sont qualifiées. Il peut être modifié en fonction de vos besoins de campagne. Pour en savoir plus, consultez la section [Règles de liste dynamique pour une logique complexe](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}.
+   >Par défaut, les personnes qui répondent à TOUTES les règles de liste dynamique sont qualifiées. Elle peut être modifiée en fonction de vos besoins de campagne. Consultez [Règles de liste dynamique pour une logique complexe](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} pour en savoir plus.
 
-   Pour déclencher des événements en direct une personne à la fois, apprenez à [Définir une liste dynamique pour une campagne dynamique | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   Pour déclencher des événements en direct une personne à la fois, découvrez comment [Définir une liste dynamique pour une campagne dynamique | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >* [ Définition d’une liste dynamique pour une campagne dynamique | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
-   >* [Ajout d’une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+   >* [Définir une liste dynamique pour une campagne dynamique | Déclencheur ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Ajouter une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

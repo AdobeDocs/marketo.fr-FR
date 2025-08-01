@@ -4,7 +4,7 @@ description: Découvrez comment configurer Marketo Sales Insight dans Salesforce
 title: Configuration de Marketo Sales Insight dans Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '762'
 ht-degree: 0%
@@ -140,7 +140,7 @@ En raison des améliorations apportées à la sécurité de Salesforce, les pack
 1. Répétez l&#39;étape précédente pour les champs suivants :
 
    * [!UICONTROL Engagement]
-   * [!UICONTROL &#x200B; Valeur de score relative &#x200B;]
+   * [!UICONTROL  Valeur de score relative ]
    * [!UICONTROL Valeur d’urgence]
    * [!UICONTROL Dernière date intéressante]
    * [!UICONTROL Desc Dernier moment intéressant]
@@ -201,9 +201,9 @@ Les champs Personne de Marketo doivent être mappés aux champs Contact de Sales
 
 1. Dans Salesforce, cliquez sur le signe **+** à l’extrémité de la barre d’onglets, puis cliquez sur **[!UICONTROL Configuration Insight des ventes Marketo]**.
 
-1. Copiez les informations d’identification du panneau API Soap dans la page d’administration Marketo Sales Insight [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration Salesforce Sales Insight .
+1. Copiez les informations d’identification du panneau API Soap dans la page d’administration Marketo Sales Insight [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration Salesforce Sales Insight .
 
-1. Copiez les informations d’identification du panneau **[!UICONTROL API REST]** dans la page d’administration Marketo Sales Insight [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration Salesforce Sales Insight.
+1. Copiez les informations d’identification du panneau **[!UICONTROL API REST]** dans la page d’administration Marketo Sales Insight [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 

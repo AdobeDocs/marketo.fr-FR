@@ -2,7 +2,8 @@
 description: Prise en main des webinaires interactifs - Documents Marketo - Documentation du produit
 title: Prise en main des webinaires interactifs
 feature: Interactive Webinars
-source-git-commit: a6787323c0df5353eaed5c5bcf69aca7f73ef84a
+exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -11,32 +12,32 @@ ht-degree: 0%
 
 # Prise en main des webinaires interactifs {#get-started-with-interactive-webinars}
 
-Vous avez donc lu la [présentation des webinaires interactifs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à y plonger. Suivez les étapes ci-dessous pour commencer.
+Vous avez donc lu la [ Présentation des webinaires interactifs ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
 ## Que faire {#what-to-do}
 
-**Étape 1** : [Ajouter des utilisateurs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — Découvrez comment ajouter (et supprimer ultérieurement, si vous le souhaitez) utilisateurs pour l’accès aux webinaires interactifs.
+**Étape 1** : [Ajouter des utilisateurs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — Découvrez comment ajouter (et supprimer ultérieurement, si vous le souhaitez) des utilisateurs pour l’accès aux webinaires interactifs.
 
-**Étape 2** : [Créer un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}{target="_blank"} — Découvrez comment créer un programme d’événement et définir les paramètres initiaux pour votre webinaire.
+**Étape 2** : [créer un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}{target="_blank"} — Découvrez comment créer un programme d’événement et définir les paramètres initiaux de votre webinaire.
 
-**Étape 3 (facultative)** : [Ajouter une équipe de webinaires](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}{target="_blank"} — Si vous ne prévoyez pas d’héberger vous-même le webinaire, apprenez à ajouter des présentateurs et des co-hôtes pour partager les tâches d’hébergement/de présentation.
+**Étape 3 (facultatif)** : [Ajoutez une équipe de webinaires](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}{target="_blank"} — Si vous ne prévoyez pas d’organiser le webinaire vous-même, apprenez à ajouter des présentateurs et des co-animateurs pour partager les tâches d’hébergement et de présentation.
 
-**Étape 4** : [Concevoir votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} — Une fois le webinaire créé et une équipe facultative ajoutée, il est temps de personnaliser l’événement en fonction de vos besoins spécifiques.
+**Étape quatre** : [Concevoir votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} — Une fois le webinaire créé et une équipe facultative ajoutée, il est temps d’adapter l’événement en fonction de vos besoins.
 
-**Étape 5** : [Convertir votre webinaire](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — Découvrez des conseils précieux sur la promotion de votre événement à venir.
+**Étape 5** : [Promouvoir votre webinaire](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — Découvrez de précieux conseils sur la façon de promouvoir votre événement à venir.
 
-**Étape 6** : [Diffusez votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — Tout ce que vous devez savoir sur la présentation de votre webinaire.
+**Étape 6** : [Diffuser votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - Tout ce que vous devez savoir sur la présentation de votre webinaire.
 
-C&#39;est tout !
+C&#39;est ça !
 
 ## Documentation supplémentaire {#additional-documentation}
 
-Une fois votre webinaire terminé, consultez ses performances à l’aide du tableau de bord utile dans l’écran Aperçu de l’événement. Vous pouvez voir l’engagement détaillé de votre audience dans le [tableau de bord de l’engagement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Profitez de l’engagement du webinaire pour cibler l’audience de manière personnalisée à l’aide des filtres intelligents et des déclencheurs dans les [workflows d’événement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Et découvrez comment effectuer le suivi de vos performances On-Demand par le biais de [Webinaires On-Demand](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+Une fois votre webinaire terminé, découvrez ses performances à l’aide du tableau de bord utile dans l’écran Aperçu de l’événement. L’engagement détaillé de votre audience est visible dans le [tableau de bord d’engagement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Tirez parti de l’engagement du webinaire pour cibler l’audience de manière personnalisée à l’aide de filtres intelligents et de triggers dans les [workflows d’événement](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Et apprenez à suivre vos performances à la demande grâce aux [webinaires à la demande](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
-Nous avons d’autres articles d’aide sur cette rubrique, notamment [Bonnes pratiques pour les webinaires interactifs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, comment [ personnaliser vos webinaires](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} pour refléter vos besoins/votre marque, créer des modèles à l’échelle de l’entreprise à l’aide de [modèles pour les webinaires interactifs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} et comment gérer les salles et les enregistrements dans la [gestion des salles](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
+Nous disposons d’autres articles d’aide sur ce sujet, notamment [Bonnes pratiques pour les webinaires interactifs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, comment [personnaliser vos webinaires](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} pour refléter vos besoins/votre image de marque, créer des modèles à l’échelle de l’organisation en utilisant [Modèles pour les webinaires interactifs](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} et comment gérer les salles et les enregistrements dans [Gestion des salles](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
 
  
 
-Profitez de l’utilisation de webinaires interactifs (optimisés par Adobe Connect) !
+Profitez des webinaires interactifs (optimisés par Adobe Connect) !

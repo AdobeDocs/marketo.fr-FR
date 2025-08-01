@@ -4,7 +4,7 @@ description: Segments Web - Documents Marketo - Documentation Du Produit
 title: Segments Web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 5%
@@ -23,35 +23,35 @@ Dans [!DNL Web Personalizatio] , un visiteur peut correspondre à plusieurs segm
 
 **GRAPHIQUE :** la page Segments affiche un graphique à barres des segments sélectionnés en fonction du nombre de visiteurs provenant du segment (axe y) et du nom du segment (axe x).
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nom</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Nom</strong></td> 
-   <td colspan="1" rowspan="1">Titre du segment</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Correspond à</strong></p></td> 
-   <td colspan="1" rowspan="1">Nombre de visiteurs et visiteuses répondant aux critères personnalisés et définis du segment</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Définir la campagne</strong></td> 
-   <td colspan="1" rowspan="1">Permet de configurer un CTA Campaign associé au terme de recherche sélectionné</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Visiteurs</strong></td> 
-   <td colspan="1">Un aperçu du tableau des visiteurs associé au terme de recherche sélectionné</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Parcours de visites</strong></td> 
-   <td colspan="1" rowspan="1">Affiche un tableau de l’activité et du chemin d’URL du visiteur sur le site et la durée de sa visite sur chaque page </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nom</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Nom</strong></td>
+   <td colspan="1" rowspan="1">Titre du segment</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Correspond à</strong></p></td>
+   <td colspan="1" rowspan="1">Nombre de visiteurs et visiteuses répondant aux critères personnalisés et définis du segment</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Définir la campagne</strong></td>
+   <td colspan="1" rowspan="1">Permet de configurer un CTA Campaign associé au terme de recherche sélectionné</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Visiteurs</strong></td>
+   <td colspan="1">Un aperçu du tableau des visiteurs associé au terme de recherche sélectionné</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Parcours de visites</strong></td>
+   <td colspan="1" rowspan="1">Affiche un tableau de l’activité et du chemin d’URL du visiteur sur le site et la durée de sa visite sur chaque page </td>
+  </tr>
+ </tbody>
 </table>
 
 Voir [comment créer et afficher des libellés de segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
@@ -76,7 +76,7 @@ Ces informations incluent :
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL &#x200B; Choisir une action &#x200B;] » au bas du tableau, sélectionnez l’action « [!UICONTROL &#x200B; Activer &#x200B;] » ou « [!UICONTROL &#x200B; Désactiver &#x200B;]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL  Choisir une action ] » au bas du tableau, sélectionnez l’action « [!UICONTROL  Activer ] » ou « [!UICONTROL  Désactiver ]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
 
 ## Création de segments {#create-segments}
 
@@ -187,7 +187,7 @@ Effectuez une sélection dans une [Liste de comptes nommés](/help/marketo/produ
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exclure le FAI**
 
@@ -286,7 +286,7 @@ Ajoutez la valeur d’événement à cibler. Par exemple, à partir de sources d
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

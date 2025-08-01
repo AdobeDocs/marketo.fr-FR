@@ -6,10 +6,10 @@ description: Découvrez comment ajouter du code CSS personnalisé au contenu de 
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: de3999dd6ede77c8fc591e24a69f062954b8c870
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 29%
+ht-degree: 32%
 
 ---
 
@@ -220,7 +220,7 @@ Si votre CSS personnalisé n’est pas appliqué, essayez les suggestions ci-des
 
 * Assurez-vous que votre CSS est ajouté à la balise `<style>` avec l’attribut `data-name="global-custom"`.
 
-* Vérifiez si la balise de style de `global-custom` possède l’attribut `data-disabled` défini sur `true`. Si tel est le cas, le code CSS personnalisé n’est pas appliqué.
+* Vérifiez si l’attribut `data-disabled` de la balise de style `global-custom` est défini sur `true`. Si tel est le cas, le code CSS personnalisé n’est pas appliqué.
 
 +++ Par exemple :
 

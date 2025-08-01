@@ -1,51 +1,51 @@
 ---
 unique-page-id: 4718654
-description: Présentation des modèles de recettes - Documents Marketo - Documentation du produit
-title: Présentation des modèles de recettes
+description: Présentation des modèles de chiffre d’affaires - Documents Marketo - Documentation du produit
+title: Présentation des modèles de chiffre d’affaires
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
 
 ---
 
-# Présentation des modèles de recettes {#understanding-revenue-models}
+# Présentation des modèles de chiffre d’affaires {#understanding-revenue-models}
 
-Les modèles de cycle du chiffre d’affaires portent le marketing au niveau suivant. Ils modélisent toutes les étapes de l’entonnoir de recettes, depuis le moment où vous interagissez pour la première fois avec une piste jusqu’à ce que la piste soit un client gagné.
+Les modèles de cycle de revenus font passer le marketing au niveau supérieur. Ils modélisent toutes les étapes de l’ensemble de votre entonnoir de revenus, depuis la première interaction avec un prospect jusqu’à ce que le prospect soit un client gagnant.
 
-## Modèle mental (comment penser à ceci) {#mental-model-how-to-think-about-this-thing}
+## Modèle mental (Comment penser à cette chose) {#mental-model-how-to-think-about-this-thing}
 
-Le Modeler est comme une série de seaux avec de l&#39;eau dedans. Il y a des trous au fond des seaux.
+Le Modeler est comme une série de seaux contenant de l&#39;eau. Il y a des trous dans le fond des seaux.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
-Le modeleur mesurera la quantité d&#39;eau (pistes) qui va dans le seau par jour et la quantité qui sort des trous. (Il peut y avoir plusieurs trous)
+Le modélisateur mesurera la quantité d&#39;eau (leads) qui entre dans le seau chaque jour et la quantité qui sort des trous. (Il peut y avoir plusieurs trous)
 
-Le modeleur mesure tous la quantité de pistes dans le compartiment à un moment donné. C&#39;est ce qu&#39;on appelle l&#39;équilibre de scène.
+Le modélisateur mesure tous la quantité de prospects dans l’intervalle à un moment donné. C’est ce que l’on appelle l’équilibre d’étape.
 
 >[!TIP]
 >
->Pour ceux qui ont plus l&#39;esprit financier, vous pouvez considérer les étapes comme des comptes où l&#39;argent entre et sort en équilibre à la fin de chaque journée.
+>Pour ceux qui sont plus soucieux de leurs finances, vous pouvez considérer les étapes comme des comptes où l&#39;argent entre et sort avec un solde à la fin de chaque journée.
 
-Les modèles s’adressent généralement aux clients qui maîtrisent les campagnes et programmes intelligents et qui souhaitent passer leurs analyses au niveau supérieur.
+Les modèles sont généralement destinés aux clients qui maîtrisent les campagnes et programmes intelligents et qui souhaitent booster leurs analyses.
 
-## Commencer avec un nouveau modèle {#starting-with-a-new-model}
+## Prise en main d’un nouveau modèle {#starting-with-a-new-model}
 
-Par défaut, un nouveau modèle vous démarre avec six étapes de recettes. Ce modèle est en fait parfait tout seul, mais il peut être profondément personnalisé.
+Par défaut, un nouveau modèle commence par six étapes de chiffre d’affaires. Ce modèle est en fait très bien en lui-même, mais il peut être profondément personnalisé.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Remarquez qu&#39;ils sont tous sur un fond vert. On l’appelle le **Chemin de succès**. Découvrez le chemin de succès [ici](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Remarquez qu&#39;ils sont tous sur un arrière-plan vert. Il s’agit du **chemin de réussite**. En savoir plus sur le chemin de la réussite [ici](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Les étapes** sont les jalons d’une avance sur les progrès vers leurs objectifs.
+Les **étapes** sont les jalons sur une progression de prospects vers leurs objectifs.
 
-**Les transitions** sont présentées sous la forme de flèches et contrôlent le déplacement des pistes entre les étapes.
+Les **transitions** s’affichent sous forme de flèches et contrôlent la manière dont les prospects passent d’une étape à l’autre.
 
 >[!NOTE]
 >
->La scène anonyme est spéciale. Ce sont toutes les personnes qui visitent votre site, mais vous ne savez pas qui elles sont. Vous ne pouvez pas modifier cette étape.
+>La scène anonyme est spéciale. Il s’agit de toutes les personnes qui visitent votre site web, mais vous ne savez pas qui elles sont. Vous ne pouvez pas modifier cette étape.
 
 ## Personnalisation {#customization}
 
@@ -53,33 +53,33 @@ Chaque entreprise est différente. Vous pouvez ajouter des éléments au modèle
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Évaluation du stock {#inventory-stage}
+## Phase d’inventaire {#inventory-stage}
 
-Cela ressemble à une boîte et il s’agit des étapes les plus basiques. Analytics effectue le suivi des entrées, des sorties et de l’équilibre de cette étape.
+Cela ressemble à une boîte et est la plus simple des étapes. Analytics suivra les entrées, les sorties et le solde de cette étape.
 
 ## Étape SLA {#sla-stage}
 
-Ceci est court pour l’étape **Service Level Agreement**. L’objectif ici est que certaines étapes que vous souhaitez appliquer une limite de temps.
+Il s’agit d’un abréviation pour l’étape **Service level agreement**. L&#39;intention ici est que, à certaines étapes, vous voudrez imposer une limite de temps.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Lorsqu’une piste remplit un formulaire &quot;Me contacter&quot; et que vous envoyez une alerte à un représentant commercial, vous pouvez souhaiter obtenir un contrat de niveau de service de 72 heures. Vous pourrez suivre les infractions et gronder le représentant pour avoir laissé un bon leader au secret.
+>Lorsqu’un prospect remplit un formulaire « Contactez-moi » et que vous envoyez une alerte à un représentant commercial, vous pouvez utiliser un SLA de 72 heures. Vous serez en mesure de garder une trace des infractions et de réprimander le représentant pour avoir laissé une bonne piste au secret.
 
-## Point de contrôle {#gate-stage}
+## Étape de la porte {#gate-stage}
 
-Une scène de point de contrôle est conçue pour les situations où vous souhaitez filtrer les pistes dans l’un des choix. Il s’agit d’une option avancée. Les débutants doivent éviter les portes.
+Une étape de point de contrôle est destinée aux situations dans lesquelles vous souhaitez filtrer les prospects au sein de l’un des choix possibles. Il s’agit d’une option avancée. Les débutants doivent éviter les barrières.
 
 >[!NOTE]
 >
 >**Exemple**
 >
->Un point de contrôle peut être utilisé pour les pistes qui font partie d’une **liste de comptes nommés** afin de séparer cela du processus normal.
+>Un point de contrôle peut être utilisé pour les prospects qui font partie d’une **liste de comptes nommée** afin de la séparer du processus normal.
 
 ## Transitions {#transitions}
 
-Clarifiez exactement la manière dont une piste passe d’une étape à l’autre à l’aide de campagnes intelligentes et assurez-vous que les pistes ne sont bloquées dans aucune étape. Veillez à utiliser des filtres de déclenchement pour les transitions vers (c’est une façon d’évaluer).
+Clarifiez exactement comment un prospect passe d’une étape à une autre à l’aide de campagnes intelligentes et assurez-vous que les prospects ne sont bloqués à aucune étape. Veillez à utiliser les filtres de déclenchement pour les transitions vers (cette méthode d’évaluation est possible).
 
 >[!NOTE]
 >
@@ -87,22 +87,22 @@ Clarifiez exactement la manière dont une piste passe d’une étape à l’autr
 >
 >Une transition peut être définie par un prospect remplissant un formulaire.
 
-Ajout d’une étape du parcours de réussite heureux
+Ajout d’une étape au chemin du succès heureux
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
-Lost est une bonne chose à ajouter, mais remarquez qu&#39;il n&#39;est pas sur le chemin vert. C&#39;est parce que ce n&#39;est pas un &quot;succès&quot;.
+Lost est un bon à ajouter, mais notez qu&#39;il n&#39;est pas sur le chemin vert. C&#39;est parce que ce n&#39;est pas un « succès ».
 
 >[!MORELIKETHIS]
 >
->* [Créer un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [Création d’un modèle de chiffre d’affaires](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Utilisation des phases de l’inventaire des modèles de recettes](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Utilisation des étapes d’inventaire du modèle de chiffre d’affaires](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Utilisation des étapes de point de contrôle du modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [Utilisation des étapes de point de contrôle du modèle de chiffre d’affaires](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [ Utilisation des étapes du contrat de niveau de service du modèle de revenu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Utilisation des étapes SLA du modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [Rapport sur votre modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [Rapport sur votre modèle de revenus](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
->* [Approuver/Ne plus approuver un modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>* [Approuver/annuler l’approbation d’un modèle de produit](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

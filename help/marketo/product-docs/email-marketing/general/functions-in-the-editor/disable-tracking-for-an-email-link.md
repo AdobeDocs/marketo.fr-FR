@@ -4,7 +4,7 @@ description: Désactivation du suivi d’un lien e-mail - Documents Marketo - Do
 title: Désactivation du suivi d’un lien e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 1%

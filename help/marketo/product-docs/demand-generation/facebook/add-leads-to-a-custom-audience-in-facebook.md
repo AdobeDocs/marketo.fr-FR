@@ -4,7 +4,7 @@ description: Ajout de leads à une audience personnalisée dans Facebook - Docum
 title: Ajout de leads à une audience personnalisée dans Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Vous avez déjà une audience personnalisée en [!DNL Facebook] et vous souhaite
 
    >[!NOTE]
    >
-   >**[!UICONTROL Ajouter des prospects à l’audience]** : seules les audiences [!DNL Facebook] avec un sous-type personnalisé seront disponibles.\
+   >**[!UICONTROL Ajouter des prospects à l’audience]** : seules les audiences [!DNL Facebook] avec un sous-type personnalisé seront disponibles.
    >**[!UICONTROL Supprimer les prospects de l’audience]** : supprime les prospects de votre liste statique ou dynamique d’une audience [!DNL Facebook].
 
 1. Une fois cette opération terminée, le statut est mis à jour.

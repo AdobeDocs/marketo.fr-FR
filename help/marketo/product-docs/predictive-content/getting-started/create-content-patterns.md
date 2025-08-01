@@ -4,7 +4,7 @@ description: Création De Modèles De Contenu - Documents Marketo - Documentatio
 title: Créez des modèles de contenu
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 2%
@@ -56,31 +56,31 @@ Lorsque vous définissez des modèles de contenu, le contenu est automatiquement
 
 Pour _domain.com_ :
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Modèle d’URL</th> 
-   <th>Résultat</th> 
-  </tr> 
-  <tr> 
-   <td>blog/*</td> 
-   <td><p>Découvre tout le contenu correspondant au modèle domain.com/blog/ :</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
-  </tr> 
-  <tr> 
-   <td>article/2017/*</td> 
-   <td><p>Découvre tout le contenu correspondant au modèle domain.com/article/2017/ :</p><p>domain.com/article/2017/5-top-tricks</p></td> 
-  </tr> 
-  <tr> 
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>Découvre toute URL contenant le mot « feuilles de données : »</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
-  </tr> 
-  <tr> 
-   <td>communiqué de presse</td> 
-   <td><p>Une seule page HTML correspondant exactement est découverte :</p><p>domain.com/press-release</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> </td> 
-   <td colspan="1"><p>Si l'expression de l'URL est vide, le modèle d'URL ne détecte que la page d'accueil :</p><p>domain.com</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Modèle d’URL</th>
+   <th>Résultat</th>
+  </tr>
+  <tr>
+   <td>blog/*</td>
+   <td><p>Découvre tout le contenu correspondant au modèle domain.com/blog/ :</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td>
+  </tr>
+  <tr>
+   <td>article/2017/*</td>
+   <td><p>Découvre tout le contenu correspondant au modèle domain.com/article/2017/ :</p><p>domain.com/article/2017/5-top-tricks</p></td>
+  </tr>
+  <tr>
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><p>Découvre toute URL contenant le mot « feuilles de données : »</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
+  </tr>
+  <tr>
+   <td>communiqué de presse</td>
+   <td><p>Une seule page HTML correspondant exactement est découverte :</p><p>domain.com/press-release</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"> </td>
+   <td colspan="1"><p>Si l'expression de l'URL est vide, le modèle d'URL ne détecte que la page d'accueil :</p><p>domain.com</p></td>
+  </tr>
+ </tbody>
 </table>

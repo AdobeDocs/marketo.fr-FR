@@ -4,7 +4,7 @@ description: Notes De Mise À Jour - Automne 17 - Documents Marketo - Documentat
 title: Notes De Mise À Jour - Automne 17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 5%
@@ -86,10 +86,10 @@ Gagnez du temps en réutilisant des ressources créatives et des images sur plus
 
 ## Intégration  {#integration}
 
-**[API de prévisualisation d’e-mail](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting)**
+**[API de prévisualisation d’e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Vous pouvez désormais prévisualiser à distance les e-mails en dehors de Marketo, ce qui simplifie le processus de localisation du contenu des e-mails et réduit les erreurs.
 
-**[Remplacer l’API HTML](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting)**
+**[Remplacer l’API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Les développeurs peuvent mettre à jour à distance le contenu des ressources d’e-mail d’HTML, ce qui leur permet de travailler dans un seul système pour gérer les ressources.

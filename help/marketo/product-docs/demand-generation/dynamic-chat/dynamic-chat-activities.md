@@ -2,7 +2,7 @@
 description: Activités [!DNL Dynamic Chat] - Documents Marketo - Documentation Du Produit
 title: Activités [!DNL Dynamic Chat]
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 4%
@@ -27,7 +27,7 @@ ht-degree: 4%
   </tr>
   <tr>
     <td style="width:25%"><b>Engagé dans un flux de conversation/dialogue</b></td>
-    <td>Un engagement se produit la première fois qu’un visiteur web clique sur une invite dans une boîte de dialogue ou un flux de conversation (il clique sur une option à choix multiples, envoie des informations, réserve une réunion, ouvre un document, etc.). Si un visiteur ouvre une boîte de dialogue ou un flux de conversation, mais ne clique pas sur une invite, un engagement est <b>non</b> consigné. 
+    <td>Un engagement se produit la première fois qu’un visiteur web clique sur une invite dans une boîte de dialogue ou un flux de conversation (il clique sur une option à choix multiples, envoie des informations, réserve une réunion, ouvre un document, etc.). Si un visiteur ouvre une boîte de dialogue ou un flux de conversation, mais ne clique pas sur une invite, un engagement est <b>non</b> consigné.
     <br>Un événement d’engagement par visiteur et par session.</td>
   </tr>
    <tr>

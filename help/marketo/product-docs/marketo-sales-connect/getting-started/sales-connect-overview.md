@@ -1,90 +1,90 @@
 ---
 unique-page-id: 13796464
-description: Présentation de Sales Connect - Documentation Marketo - Documentation du produit
+description: Présentation De Sales Connect - Documents Marketo - Documentation Du Produit
 title: Présentation de Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
 # Présentation de Sales Connect {#sales-connect-overview}
 
-Marketo Sales Connect est une solution d’assistance commerciale à multiples facettes dotée de diverses fonctions qui vous aide à stimuler l’engagement tout au long du cycle de vente.
+Marketo Sales Connect est une solution d’assistance commerciale multidimensionnelle offrant diverses fonctions, qui vous aide à stimuler l’engagement tout au long du cycle de vente.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>Tout le monde n’a pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 ## Flux en direct {#the-live-feed}
 
-Les représentants commerciaux peuvent afficher l’ [engagement en temps réel](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) du contenu marketing et commercial.
+Les représentants commerciaux peuvent afficher l[engagement en temps réel](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) du contenu marketing et commercial.
 
 ![](assets/engagement.jpg)
 
-## Vue Détails de la personne {#person-detail-view}
+## Affichage des détails de la personne {#person-detail-view}
 
-Accédez aux [statistiques détaillées sur les personnes](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+Accédez [statistiques détaillées sur les personnes](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Voir Résultats dans votre journal d’activité Marketo {#see-results-in-your-marketo-activity-log}
+## Afficher les résultats dans votre journal d’activité Marketo {#see-results-in-your-marketo-activity-log}
 
-Découvrez comment vos prospects s’engagent dans vos efforts de vente.
+Découvrez comment vos prospects participent à vos efforts de vente.
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Type d’activité</th> 
-   <th>Description</th> 
-  </tr> 
-  <tr> 
-   <td><p>Envoyer un e-mail de vente</p></td> 
-   <td><p>L’utilisateur a envoyé un e-mail de vente à Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Ouvrir l'e-mail de vente</p></td> 
-   <td><p>Le prospect a ouvert un e-mail de vente envoyé à partir de Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Cliquer sur l'e-mail de vente</p></td> 
-   <td><p>Le prospect a cliqué sur un lien dans un e-mail de vente envoyé par Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Recevoir l'e-mail de vente</p></td> 
-   <td colspan="1"><p>Le prospect a reçu un e-mail envoyé par Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Recevoir l’appel de vente</p></td> 
-   <td colspan="1"><p>Un responsable a reçu un appel d’un vendeur à l’aide du <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">téléphone commercial</a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Ajouter à la campagne de ventes</p></td> 
-   <td colspan="1"><p>Le prospect a été ajouté à une campagne de vente créée dans Sales Connect (sur la page Campagnes).</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Supprimée De La Campagne De Ventes</p></td> 
-   <td colspan="1"><p>Le plomb a été supprimé d’une campagne de vente.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Moment significatif</p></td> 
-   <td colspan="1"><p>Le plomb a eu un moment intéressant généré dans Marketo.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Type d’activité</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><p>Envoyer un e-mail de vente</p></td>
+   <td><p>L’utilisateur a envoyé un e-mail de vente à partir de Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Ouvrir l’e-mail commercial</p></td>
+   <td><p>Le prospect a ouvert un e-mail de vente envoyé à partir de Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Cliquer sur l’e-mail commercial</p></td>
+   <td><p>Le prospect a cliqué sur un lien dans un e-mail de vente envoyé à partir de Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Recevoir l'e-mail de vente</p></td>
+   <td colspan="1"><p>Le prospect a reçu un courrier électronique envoyé par Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Recevoir l’appel de vente</p></td>
+   <td colspan="1"><p>Le prospect a reçu un appel d’un vendeur à l’aide de l’<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Téléphone de vente</a>.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Ajouter à la campagne de ventes</p></td>
+   <td colspan="1"><p>Le prospect a été ajouté à une campagne commerciale créée dans Sales Connect (dans la page Campagnes ).</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Supprimé De La Campagne De Ventes</p></td>
+   <td colspan="1"><p>Le prospect a été supprimé d'une campagne de vente.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Moment significatif</p></td>
+   <td colspan="1"><p>Lead a eu un moment intéressant généré dans Marketo.</p></td>
+  </tr>
+ </tbody>
 </table>
 
-## Partage des campagnes marketing {#share-marketing-campaigns}
+## Partager des campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne dynamique simple pour donner aux utilisateurs de vente l’accès aux [données de campagne Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Créez une campagne intelligente simple pour donner à vos commerciaux l’accès aux données de la campagne [Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
-Prêt à démarrer ? Pour obtenir des instructions sur la configuration, cliquez sur le lien ci-dessous.
+Vous êtes prêt à commencer ? Pour obtenir des instructions de configuration, cliquez sur le lien ci-dessous.
 
 >[!MORELIKETHIS]
 >

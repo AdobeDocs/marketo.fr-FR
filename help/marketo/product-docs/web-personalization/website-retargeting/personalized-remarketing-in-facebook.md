@@ -4,7 +4,7 @@ description: Remarketing personnalisé sur Facebook - Documents Marketo - Docume
 title: Remarketing personnalisé sur Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 8%
@@ -18,7 +18,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >[!PREREQUISITES]
 >
 >* Effectuez la configuration [Reciblage avec données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Consultez la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
+>* Consultez la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
 
 ## Création d’une audience dans [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -58,47 +58,47 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 
 ## Points de données RTP dans [!DNL Facebook] {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Nom de l’événement</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>Remarketing RTP</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>Paramètre</th> 
-        <th>Valeur</th> 
-       </tr> 
-       <tr> 
-        <td>Liste ABM</td> 
-        <td>(Nom de la liste basée sur les comptes)</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Catégorie</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Groupe</td> 
-        <td colspan="1"><p>Entreprise</p><p>PME</p></td> 
-       </tr> 
-       <tr> 
-        <td>Secteur industriel</td> 
-        <td><p>Défense</p><p>Formation</p><p>Services financiers</p><p>État</p><p>Santé, Pharmacie, Biotechnologie</p><p>Logiciels et Internet</p><p>etc... (selon les options de RTP Industry)</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Public segmenté</td> 
-        <td colspan="1">(Nom de l’audience segmentée créée dans le RTP)</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Nom de l’événement</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>Remarketing RTP</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>Paramètre</th>
+        <th>Valeur</th>
+       </tr>
+       <tr>
+        <td>Liste ABM</td>
+        <td>(Nom de la liste basée sur les comptes)</td>
+       </tr>
+       <tr>
+        <td colspan="1">Catégorie</td>
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Groupe</td>
+        <td colspan="1"><p>Entreprise</p><p>PME</p></td>
+       </tr>
+       <tr>
+        <td>Secteur industriel</td>
+        <td><p>Défense</p><p>Formation</p><p>Services financiers</p><p>État</p><p>Santé, Pharmacie, Biotechnologie</p><p>Logiciels et Internet</p><p>etc... (selon les options de RTP Industry)</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Public segmenté</td>
+        <td colspan="1">(Nom de l’audience segmentée créée dans le RTP)</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Cibler votre audience avec une publicité {#target-your-audience-with-an-ad}

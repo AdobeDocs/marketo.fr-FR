@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '627'
-ht-degree: 67%
+ht-degree: 71%
 
 ---
 
@@ -66,7 +66,7 @@ Les éléments ci-dessous peuvent devenir des champs modifiables dans un composa
 
 * Partie de texte
 * URL complète pour un lien ou une image (ne fonctionne pas avec une partie d’une URL)
-* Propriété CSS entière (ne fonctionne pas avec la propriété partielle)
+* Propriété CSS entière (ne fonctionne pas avec une propriété partielle)
 
 Par exemple, dans le code ci-dessous, chaque élément surligné en rouge peut devenir une propriété :
 

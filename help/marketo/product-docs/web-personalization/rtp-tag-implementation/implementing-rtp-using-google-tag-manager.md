@@ -4,7 +4,7 @@ description: Mise en œuvre du RTP à l’aide de Google Tag Manager - Documents
 title: Mise en œuvre du RTP à l’aide du gestionnaire de balises Google
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%

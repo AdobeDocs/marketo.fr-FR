@@ -4,7 +4,7 @@ description: Présentation du complément .NET - Documents Marketo - Documentati
 title: Présentation du complément .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -35,6 +35,6 @@ Ajoutez un modèle Tout préconfiguré au message [!DNL Outlook] en appuyant sur
 
 Nous synchronisons avec tous vos modèles personnels et tous les modèles partagés au sein de l&#39;équipe. Nous extrayons également automatiquement le dernier modèle utilisé et le modèle le plus fréquemment utilisé pour un accès facile.
 
-## Le Bouton [!UICONTROL &#x200B; Tout &#x200B;] {#the-tout-it-button}
+## Le Bouton [!UICONTROL  Tout ] {#the-tout-it-button}
 
 Une fois que votre e-mail personnalisé est rempli et prêt à être utilisé, veillez à toujours cliquer sur le bouton **[!UICONTROL Tout voir]** pour obtenir un tracking. Une boîte s’affichera avec la mention « Attendez, nous ajoutons la magie du suivi ».

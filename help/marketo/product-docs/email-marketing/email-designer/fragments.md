@@ -6,9 +6,9 @@ description: Découvrez comment créer et utiliser des fragments de contenu visu
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1922'
+source-wordcount: '1921'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
   </tr>
   <tr>
     <td style="width:25%"><b>Publié avec le brouillon</b></td>
-    <td style="width:75%">Lorsque vous créez un brouillon à partir d’un fragment publié, la version publiée reste disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, et le contenu du brouillon peut être modifié dans le concepteur visuel. Si vous publiez le brouillon, il remplace la version publiée actuelle et le contenu est mis à jour dans <i>tous</i> les e-mails et les modèles d’e-mail où il est utilisé. 
+    <td style="width:75%">Lorsque vous créez un brouillon à partir d’un fragment publié, la version publiée reste disponible pour une utilisation dans un e-mail ou un modèle d’e-mail, et le contenu du brouillon peut être modifié dans le concepteur visuel. Si vous publiez le brouillon, il remplace la version publiée actuelle et le contenu est mis à jour dans <i>tous</i> les e-mails et les modèles d’e-mail où il est utilisé.
     <p>Actions disponibles :
     <li>Modifier la description</li>
     <li>Ajouter à un e-mail ou un modèle</li>

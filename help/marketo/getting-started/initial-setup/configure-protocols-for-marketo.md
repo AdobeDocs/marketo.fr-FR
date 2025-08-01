@@ -4,7 +4,7 @@ description: Configuration des protocoles pour Marketo Engage - Documentation de
 title: Configuration des protocoles pour Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,8 +39,8 @@ Ajoutez le CNAME de la page de destination qu’ils vous ont envoyé à votre en
 
 `2` **Ajouter un CNAME pour les liens de suivi des e-mails**
 
-Ajoutez l’e-mail que le marketing CNAME vous a envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo Engage, au format suivant :\
-`[YourEmailCNAME].[YourDomain].com` DANS LE `[MktoTrackingLink]` CNAME
+Ajoutez l’e-mail que le marketing CNAME vous a envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo Engage, au format suivant :
+`[YourEmailCNAME].[YourDomain].com` DANS LES `[MktoTrackingLink]` CNAME
 
 Par exemple :
 
@@ -54,7 +54,7 @@ Par exemple :
 
 Avertissez votre équipe marketing une fois ce processus terminé.
 
-`4` **Contactez l’assistance technique d’Adobe [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
+`4` **Contactez l’assistance technique d’Adobe [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
 
 Ce processus peut prendre jusqu’à 3 jours ouvrables.
 
@@ -92,11 +92,11 @@ Votre équipe marketing doit également vous avoir envoyé des informations DKIM
 
 1. Pour configurer SPF, ajoutez la ligne suivante à vos entrées DNS :
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   inclure : mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+inclure : mktomail.com ~all
 
-   Si nous avons déjà un enregistrement SPF existant dans notre entrée DNS, ajoutez simplement ce qui suit :\
-   inclure : mktomail.com
+   Si nous avons déjà un enregistrement SPF existant dans notre entrée DNS, ajoutez simplement ce qui suit :
+inclure : mktomail.com
 
    Remplacez CompanyDomain par le domaine principal de votre site web (par exemple, « `(company.com/)` ») et CorpIP par l’adresse IP du serveur de messagerie de votre entreprise (par exemple,  »255.255.255.255 »). Si vous prévoyez d’envoyer des e-mails à partir de plusieurs domaines via Marketo Engage, demandez à votre personnel informatique d’ajouter cette ligne pour chaque domaine (sur une seule ligne).
 
@@ -192,9 +192,9 @@ Les enregistrements DMARC comportent plusieurs composants appelés balises DMARC
     <td>pour</td>
     <td>Facultatif</td>
     <td>Permet à la personne propriétaire du domaine de spécifier des options de création de rapports.</td>
-    <td>0 : générer un rapport en cas d’échec ; 
-    <br>1 : génération du rapport en cas d’échec 
-    <br>d : génération du rapport en cas d’échec de DKIM 
+    <td>0 : générer un rapport en cas d’échec ;
+    <br>1 : génération du rapport en cas d’échec
+    <br>d : génération du rapport en cas d’échec de DKIM
     <br>s : générer un rapport en cas d’échec de SPF</td>
     <td>1 (recommandé pour les rapports DMARC)</td>
   </tr>

@@ -1,184 +1,184 @@
 ---
-description: NUR-YYYY-MM-Advanced Nurture - Marketo Docs - Documentation produit
-title: NUR-YYYY-MM-Advanced Nurture
+description: NUR-YYYY-MM-Advanced Nurture - Documents Marketo - Documentation du produit
+title: NUR-AAAA-MM-Avancé
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 13%
 
 ---
 
-# NUR-YYYY-MM-Advanced Nurture {#nur-yyyy-mm-advanced-nurture}
+# NUR-AAAA-MM-Avancé {#nur-yyyy-mm-advanced-nurture}
 
-Il s’agit d’un exemple de programme de formation continue avancé qui utilise le Programme d’engagement des Marketo Engage. Les programmes de messagerie imbriqués empêchent les personnes de recevoir du contenu qu’elles ont déjà consommé ou de contrôler le type de contenu qu’elles doivent consommer dans chaque flux. Les rapports d’attribution peuvent être exécutés pour chaque programme de messagerie imbriqué. Canaux : &quot;Nourrir&quot; et un canal dédié &quot;Nourrir un courriel&quot; pour les programmes de messagerie imbriqués envoie un courriel de newsletter à l’aide d’un programme de messagerie du Marketo Engage. Le courrier électronique peut inclure ou non un test A/B.
+Il s’agit d’un exemple de programmes de formation avancés utilisant le programme d’engagement Marketo Engage. Les programmes d’e-mail imbriqués empêchent les personnes de recevoir du contenu qu’elles ont déjà consommé ou contrôlent le type de contenu qu’elles doivent consommer dans chaque flux. Les rapports d’attribution peuvent être exécutés pour chaque programme d’e-mail imbriqué individuel. Canaux : un canal « Cultiver » et un canal « Cultiver l’e-mail » dédié pour les programmes d’e-mail imbriqués envoient un e-mail de newsletter à l’aide d’un programme d’e-mail Marketo Engage. L’e-mail peut inclure ou non un test A/B.
 
-Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contactez l’équipe chargée du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
-   <th>État d’appartenance</th>
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
+   <th>Statut d’abonnement</th>
    <th>Comportement d'analyse</th>
    <th>Type de programme</th>
-  </tr> 
-  <tr> 
-   <td>Nurture</td> 
-   <td>01 - Membre 
+  </tr>
+  <tr>
+   <td>Nurture</td>
+   <td>01 - Membre
 <br/>02 - Engagé - Succès</td>
    <td>Inclusif</td>
    <td>Engagement</td>
   </tr>
-  <tr> 
-   <td>E-mail de fidélisation</td> 
-   <td>01 - Ignorer 
+  <tr>
+   <td>E-mail de fidélisation</td>
+   <td>01 - Ignorer
 <br/>02 - Envoyé
 <br/>03 - Engagé - Succès</td>
    <td>Inclusif</td>
    <td>Par défaut</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Le programme contient l’Assets suivante {#program-contains-the-following-assets}
+## Le programme contient les Assets suivantes {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Nom du modèle</th>
    <th>Nom de la ressource</th>
-  </tr> 
-   <tr> 
-   <td>Programme imbriqué</td> 
+  </tr>
+   <tr>
+   <td>Programme imbriqué</td>
    <td> </td>
-   <td>01 - Rubrique X</td>
+   <td>01 - Thème X</td>
   </tr>
-  <tr> 
-   <td>Programme imbriqué</td> 
+  <tr>
+   <td>Programme imbriqué</td>
    <td> </td>
-   <td>02 - Rubrique Y</td>
+   <td>02 - Thème Y</td>
   </tr>
-  <tr> 
-   <td>Programme imbriqué</td> 
+  <tr>
+   <td>Programme imbriqué</td>
    <td> </td>
-   <td>03 - Rubrique Z</td>
+   <td>03 - Thème Z</td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
-   <td>01 - Courrier électronique (en direct dans les programmes imbriqués)</td>
+  <tr>
+   <td>E-mail</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td>01 - E-mail (actif dans les programmes imbriqués)</td>
   </tr>
-   <tr> 
-   <td>E-mail</td> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
-   <td>02 - Courrier électronique (en direct dans les programmes imbriqués)</td>
+   <tr>
+   <td>E-mail</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td>02 - E-mail (actif dans les programmes imbriqués)</td>
   </tr>
-   <tr> 
-   <td>E-mail</td> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle de courrier électronique de démarrage rapide</a></td>
-   <td>03 - Courrier électronique (en direct dans les programmes imbriqués)</td>
+   <tr>
+   <td>E-mail</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td>03 - E-mail (actif dans les programmes imbriqués)</td>
   </tr>
-  <tr> 
-   <td>Rapport local</td> 
+  <tr>
+   <td>Rapport local</td>
    <td> </td>
    <td>Performance des e-mails</td>
   </tr>
-  <tr> 
-   <td>Rapport local</td> 
+  <tr>
+   <td>Rapport local</td>
    <td> </td>
    <td>Performance du lien par e-mail</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
+  <tr>
+   <td>Campagne intelligente</td>
    <td> </td>
-   <td>01 - Ajouter à l’éducation</td>
+   <td>01 - Ajouter pour nourrir</td>
   </tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
+  <tr>
+   <td>Campagne intelligente</td>
    <td> </td>
-   <td>02 - Infirmière en pause</td>
+   <td>02 - Suspendre la maturation</td>
   </tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
+  <tr>
+   <td>Campagne intelligente</td>
    <td> </td>
-   <td>03 - Reprise de la formation</td>
+   <td>03 - Reprendre l'apprentissage</td>
   </tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
+  <tr>
+   <td>Campagne intelligente</td>
    <td> </td>
-   <td>04 - Engagé (succès du programme)</td>
+   <td>04 - Engagé (Succès du programme)</td>
   </tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
+  <tr>
+   <td>Campagne intelligente</td>
    <td> </td>
-   <td>00 - Ignorer le courrier électronique (situé dans chaque programme imbriqué)</td>
+   <td>00 - Ignorer l’e-mail (situé dans chaque programme imbriqué)</td>
   </tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
+  <tr>
+   <td>Campagne intelligente</td>
    <td> </td>
-   <td>01 - Envoyer un courrier électronique (situé dans chaque programme imbriqué)</td>
+   <td>01 - Envoyer un e-mail (situé dans chaque programme imbriqué)</td>
   </tr>
-  <tr> 
-   <td>Campagne intelligente</td> 
+  <tr>
+   <td>Campagne intelligente</td>
    <td> </td>
-   <td>02 - Réussite engagée (située dans chaque programme imbriqué)</td>
+   <td>02 - Engaged-Success (situé dans chaque programme imbriqué)</td>
   </tr>
-  <tr> 
-   <td>Dossier</td> 
+  <tr>
+   <td>Dossier</td>
    <td> </td>
-   <td>Assets (contient des dossiers de ressources et de programmes imbriqués qui résident également dans des programmes imbriqués pour contenir des courriers électroniques)</td>
+   <td>Assets (contient des programmes imbriqués et des dossiers de ressources qui se trouvent également dans Programmes imbriqués pour contenir des e-mails)</td>
   </tr>
-  <tr> 
-   <td>Dossier</td> 
+  <tr>
+   <td>Dossier</td>
    <td> </td>
-   <td>Programmes imbriqués (vies sous le dossier Assets)</td>
+   <td>Programmes imbriqués (réside sous le dossier Assets)</td>
   </tr>
-  <tr> 
-   <td>Dossier</td> 
+  <tr>
+   <td>Dossier</td>
    <td> </td>
-   <td>Campagnes : toutes les maisons des campagnes intelligentes du programme de prise en charge parent et les dossiers des campagnes se trouvent également dans chaque programme imbriqué.</td>
+   <td>Campagnes : héberge toutes les campagnes intelligentes dans le programme de maturation parent et les dossiers de campagne sont également situés dans chaque programme imbriqué</td>
   </tr>
-  <tr> 
-   <td>Dossier</td> 
+  <tr>
+   <td>Dossier</td>
    <td> </td>
    <td>Rapports</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nur-yyyy-mm-advanced-nurture-1.png)
 
 ## Mes jetons inclus {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type de jeton</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type de jeton</th>
    <th>Nom du jeton</th>
    <th>Valeur</th>
   </tr>
-  <tr> 
-   <td>Texte</td> 
+  <tr>
+   <td>Texte</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texte</td> 
+  <tr>
+   <td>Texte</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texte</td> 
+  <tr>
+   <td>Texte</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Règles de conflit {#conflict-rules}
@@ -187,30 +187,30 @@ Pour obtenir de l’aide sur la stratégie ou personnaliser un programme, contac
    * Créer des balises dans cet abonnement - _Recommandé_
    * Ignorer
 
-* **Modèle de page d’entrée avec le même nom**
+* **Modèle de page de destination portant le même nom**
    * Copier le modèle d&#39;origine
    * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
    * Conserver les deux fichiers
-   * Remplacer un élément de cet abonnement - _Recommandé_
+   * Remplacer l&#39;élément dans cet abonnement - _Recommandé_
 
-* **Modèles d&#39;email portant le même nom**
+* **Modèles d’e-mail portant le même nom**
    * Conserver les deux modèles
    * Remplacer le modèle existant - _Recommandé_
 
 ## Meilleures pratiques {#best-practices}
 
-* Envisagez de mettre à jour les modèles de votre programme importé afin d’utiliser les modèles de marque actuels ou de mettre à jour le modèle nouvellement importé pour refléter votre marque en ajoutant un fragment de code ou vos informations de logo/pied de page appropriées.
+* Envisagez de mettre à jour les modèles de votre programme importé afin d’utiliser les modèles de la marque actuelle, ou mettez à jour le nouveau modèle importé pour refléter votre marque en ajoutant un fragment de code ou les informations de logo/pied de page appropriées.
 
-* Envisagez de mettre à jour la convention d’affectation des noms de cet exemple de programme pour vous aligner sur votre convention d’affectation des noms.
+* Envisagez de mettre à jour la convention de nommage de cet exemple de programme pour l’aligner sur votre convention de nommage.
 
-* Assurez-vous que des règles sont en place pour mettre en pause et reprendre votre cadence de formation. Ces campagnes dynamiques doivent être activées ou planifiées avant l’activation du programme d’engagement.
+* Assurez-vous que vous avez mis en place des règles pour suspendre et reprendre votre cadence de maturation. Ces campagnes intelligentes doivent être activées ou planifiées avant l’activation du programme d’engagement.
 
 >[!NOTE]
 >
->Pensez à mettre à jour les valeurs de mon jeton dans le modèle de programme et chaque fois que vous utilisez le programme, selon les besoins.
+>N’oubliez pas de mettre à jour mes valeurs de jeton dans le modèle de programme et chaque fois que vous utilisez le programme, si nécessaire.
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne &quot;04 - Engaged (Program Success)&quot; pour le suivi du succès. Effectuez cette _avant_ l&#39;envoi de vos emails.
+>N’oubliez pas d’activer la campagne « 04 - Engagé (succès du programme) » pour le suivi du succès ! Effectuez cette opération _avant_ l’envoi de vos e-mails.

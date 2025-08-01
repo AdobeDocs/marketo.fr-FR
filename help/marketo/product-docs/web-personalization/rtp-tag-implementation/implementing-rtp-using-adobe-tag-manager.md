@@ -4,7 +4,7 @@ description: Mise en œuvre du RTP à l’aide d’Adobe Tag Manager - Documents
 title: Mise en œuvre du RTP à l’aide d’Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Connectez-vous à votre compte [!DNL Dynamic Tag Manager] ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Accédez à **[!UICONTROL Tableau de bord &#x200B;].** Cliquez sur la propriété web correspondante.
+1. Accédez à **[!UICONTROL Tableau de bord ].** Cliquez sur la propriété web correspondante.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
@@ -45,7 +45,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Appelez la nouvelle balise : **Marketo RTP Tag**
 
-1. Supprimez le code suivant de la balise [!UICONTROL &#x200B; RTP &#x200B;]
+1. Supprimez le code suivant de la balise [!UICONTROL  RTP ]
 
    * `<script type='text/javascript'>`
    * `</script>`

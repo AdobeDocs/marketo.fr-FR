@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Avril 2025 - Documents Marketo - Documentat
 title: Notes de mise à jour - Avril 2025
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 4%
@@ -24,19 +24,19 @@ Les notes de mise à jour spécifiques à Adobe Dynamic Chat [sont disponibles i
 
 Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **25 avril 2025**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Fonctionnalité</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Fonctionnalité</th>
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
   </tr>
-  <tr> 
-   <td><strong>Secure Socket Layer (SSL) Self Service</strong> : le chiffrement SSL vous permet de rendre les pages de destination d’une instance Marketo Engage sécurisées. Avant d’activer cette fonctionnalité, l’équipe d’assistance d’Adobe devait vous aider. Les utilisateurs de Marketo peuvent désormais l’activer eux-mêmes, ce qui leur permet de gagner un temps précieux.</td> 
+  <tr>
+   <td><strong>Secure Socket Layer (SSL) Self Service</strong> : le chiffrement SSL vous permet de rendre les pages de destination d’une instance Marketo Engage sécurisées. Avant d’activer cette fonctionnalité, l’équipe d’assistance d’Adobe devait vous aider. Les utilisateurs de Marketo peuvent désormais l’activer eux-mêmes, ce qui leur permet de gagner un temps précieux.</td>
    <td>Expédié</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">Ajouter SSL à vos pages de destination</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -46,9 +46,9 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 Pour accéder à cette fonctionnalité, vous devez avoir acheté le module complémentaire BI Analytics avancé. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
-* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization », [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Fonctionnalités sociales obsolètes** : le mercredi 31 juillet 2024, Marketo Engage a commencé à abandonner les fonctionnalités sociales suivantes du produit :
 

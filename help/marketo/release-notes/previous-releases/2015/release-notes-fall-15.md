@@ -4,9 +4,9 @@ description: Notes De Mise À Jour - Automne 2015 - Documents Marketo - Document
 title: Notes De Mise À Jour - Automne 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Plusieurs abonnements peuvent être créés sur une liste dynamique. Le nombre d
 
 [Objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Créez facilement des objets personnalisés à partir de l’interface utilisateur d’administration. Nous prenons actuellement en charge la possibilité de créer un objet personnalisé 1:N dans Marketo et de le connecter à un prospect ou à une société.
+Créez facilement des objets personnalisés à partir de l’interface utilisateur d’administration. Nous prenons actuellement en charge la possibilité de créer un objet personnalisé 1:N dans Marketo et de le connecter à un prospect ou à une entreprise.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ Nous apportons plusieurs améliorations à l’éditeur de texte enrichi. Après
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Valider la synchronisation {#microsoft-dynamics-validate-sync}

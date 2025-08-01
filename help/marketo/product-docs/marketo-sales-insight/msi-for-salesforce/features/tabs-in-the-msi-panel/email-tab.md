@@ -3,7 +3,7 @@ description: Onglet E-Mail - Documents Marketo - Documentation Du Produit
 title: Onglet E-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 2%
@@ -23,7 +23,7 @@ Un e-mail avec l’icône Marketo en regard de l’objet indique que l’e-mail 
 
 Vous pouvez cliquer sur le bouton « [!UICONTROL Vérifier le statut de la diffusion] » pour ouvrir un nouvel onglet qui affiche le statut de diffusion des e-mails :
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>E-mails envoyés depuis Marketo</strong></td>

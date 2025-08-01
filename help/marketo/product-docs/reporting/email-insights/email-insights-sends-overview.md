@@ -4,7 +4,7 @@ description: Présentation Des Envois D’Informations Par E-Mail - Documents Ma
 title: Présentation Des Envois D’Informations Par E-Mail
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Sur le côté droit de la page se trouvent plusieurs informations concernant les
 
 **[!UICONTROL Type]** indique le type de ressource utilisé.
 Le nombre de **[!UICONTROL destinataires]** correspond au nombre de personnes auxquelles l’e-mail a été envoyé.
-Le tableau **[!UICONTROL Mesures de diffusion]** vous donne un aperçu rapide du nombre d’e-mails diffusés, en attente ou ayant fait l’objet d’un rebond.\
+Le tableau **[!UICONTROL Mesures de diffusion]** vous donne un aperçu rapide du nombre d’e-mails diffusés, en attente ou ayant fait l’objet d’un rebond.
 **[!UICONTROL Mesures d’engagement]** vous donne un aperçu rapide du nombre de destinataires qui ont ouvert un e-mail, y ont cliqué et s’en sont désabonnés.
 **[!UICONTROL Score]** est le [score d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) de votre e-mail.
 

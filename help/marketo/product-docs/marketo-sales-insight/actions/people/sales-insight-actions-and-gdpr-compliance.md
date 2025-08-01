@@ -3,7 +3,7 @@ description: Actions de Sales Insight et conformité au RGPD - Documents Marketo
 title: Actions de Sales Insight et conformité au RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1370'
 ht-degree: 8%
@@ -71,7 +71,7 @@ Dans la nouvelle carte de conformité, les utilisateurs peuvent suivre la source
 
 Là encore, les utilisateurs peuvent choisir parmi de nombreuses options de liste déroulante, notamment :
 
-* [!UICONTROL &#x200B; Synchronisation CRM &#x200B;]
+* [!UICONTROL  Synchronisation CRM ]
 * [!UICONTROL Importer]
 * [!UICONTROL Chargement manuel]
 * [!UICONTROL Extension Chrome]
@@ -83,7 +83,7 @@ Lorsque la vue Détails de la personne est ouverte, cliquez sur **[!UICONTROL Mo
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Deux listes déroulantes s’affichent : [!UICONTROL &#x200B; Type d’autorisation &#x200B;] et [!UICONTROL Type de Source].
+Deux listes déroulantes s’affichent : [!UICONTROL  Type d’autorisation ] et [!UICONTROL Type de Source].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
@@ -123,44 +123,44 @@ Après avoir sélectionné le type de Source approprié pour les contacts sélec
 
 Vous avez la possibilité d’exporter des informations de contact à partir de la vue Détails de la personne. L’exportation télécharge un fichier .CSV avec les colonnes suivantes :
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Prénom]</td> 
-   <td>[!UICONTROL Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Nom]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Mis À Jour À]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Title]</td> 
-   <td>[!UICONTROL Créé À]</td> 
-   <td>[!UICONTROL Exporté À]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email ID]</td> 
-   <td>[!DNL Salesforce] ID</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Phone Number]</td> 
-   <td>[!UICONTROL Person ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Prénom]</td>
+   <td>[!UICONTROL Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Nom]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Mis À Jour À]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Title]</td>
+   <td>[!UICONTROL Créé À]</td>
+   <td>[!UICONTROL Exporté À]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email ID]</td>
+   <td>[!DNL Salesforce] ID</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Phone Number]</td>
+   <td>[!UICONTROL Person ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -179,9 +179,9 @@ Pour exporter les informations de contact, cliquez sur les trois points verticau
 
 Un domaine souvent mal compris du RGPD concerne les contacts qui se désabonnent de la base de données de l’organisation. Afin de respecter les nouvelles règles de protection des données des personnes qui choisissent de se désabonner, les fonctionnalités suivantes ont été incluses dans [!DNL Sales Insight Actions] :
 
-**Liens de désabonnement :** les liens de désabonnement seront automatiquement ajoutés à tous les e-mails envoyés à partir de l&#39;application web Sales Connect pour garantir aux contacts un moyen accessible de se désinscrire.\
-**Synchronisation des désabonnements :** les utilisateurs peuvent synchroniser les désabonnements avec leur CRM (Salesforce) pour s’assurer que les désabonnements sont à jour.\
-**Historique de désabonnement :** les utilisateurs peuvent afficher l’historique des désinscriptions et des inscriptions dans la vue des détails de la personne.\
+**Liens de désabonnement :** les liens de désabonnement seront automatiquement ajoutés à tous les e-mails envoyés à partir de l&#39;application web Sales Connect pour garantir aux contacts un moyen accessible de se désinscrire.
+**Synchronisation des désabonnements :** les utilisateurs peuvent synchroniser les désabonnements avec leur CRM (Salesforce) pour s’assurer que les désabonnements sont à jour.
+**Historique de désabonnement :** les utilisateurs peuvent afficher l’historique des désinscriptions et des inscriptions dans la vue des détails de la personne.
 **Suppression du désabonnement :** pour réactiver un contact désabonné, l’utilisateur doit disposer de droits d’administrateur et démontrer qu’il a donné son nouveau consentement pour le contacter.
 
 ## Futures mises à jour {#future-updates}

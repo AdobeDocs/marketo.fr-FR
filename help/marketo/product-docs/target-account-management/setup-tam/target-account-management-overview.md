@@ -4,7 +4,7 @@ description: '[!UICONTROL Gestion Des Comptes Target] - Documents Marketo - Docu
 title: '[!UICONTROL Gestion du compte Target]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 10%

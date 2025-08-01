@@ -1,10 +1,10 @@
 ---
-description: Boîte de réception des agents - Documents Marketo - Documentation du produit
+description: Boîte de réception de l’agent - Documents Marketo - Documentation du produit
 title: Boîte de réception de l’agent(e)
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -13,31 +13,31 @@ ht-degree: 2%
 
 # Boîte de réception de l’agent(e) {#agent-inbox}
 
-Les agents activeront des tchats en direct dans la boîte de réception de l’agent. Outre les conversations actives, ils peuvent voir les conversations passées, les informations sur les visiteurs, etc.
+Les agents afficheront les discussions en direct dans la boîte de réception de l’agent. En plus des conversations actives, ils peuvent voir les conversations passées, les informations sur les visiteurs, etc.
 
 ![](assets/agent-inbox-1.png)
 
 ## Basculement de disponibilité {#availability-toggle}
 
-Dans le coin supérieur droit de l’écran de la boîte de réception de l’agent, vous avez la possibilité de définir votre statut comme étant disponible ou non disponible.
+Dans le coin supérieur droit de l’écran Boîte de réception de l’agent , vous avez la possibilité de définir votre statut comme disponible ou indisponible.
 
 ![](assets/agent-inbox-2.png)
 
 >[!IMPORTANT]
 >
->**Cela remplacera** la [disponibilité de la conversation en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que vous avez définie dans Paramètres de l’agent. L’état reste actif jusqu’à ce que vous le reveniez ou que vous reveniez au bloc de temps suivant dans votre disponibilité.
+>**Cette option remplace** la [disponibilité du chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que vous avez établie dans les paramètres de l’agent. Le statut reste inchangé jusqu’à ce que vous le reveniez ou que vous passiez à la période suivante de votre disponibilité.
 
 >[!NOTE]
 >
->La définition de votre état sur non disponible n’affecte aucune discussion active.
+>La définition de votre statut sur indisponible n’affecte pas les conversations actives.
 
-## Notifications de tchat en direct {#live-chat-notifications}
+## Notifications de conversation en direct {#live-chat-notifications}
 
-Pour en savoir plus sur les notifications, consultez la [présentation de la messagerie instantanée](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+En savoir plus sur les notifications dans la [Présentation du chat en direct](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversations {#conversations}
 
-Dans la partie gauche de l’écran Boîte de réception de l’agent, vous pouvez choisir d’afficher uniquement les conversations actives, ou toutes celles-ci.
+Sur le côté gauche de l’écran Boîte de réception de l’agent , vous pouvez choisir d’afficher uniquement les conversations actives, ou toutes les conversations.
 
 ![](assets/agent-inbox-4.png)
 
@@ -47,11 +47,11 @@ Dans la partie gauche de l’écran Boîte de réception de l’agent, vous pouv
 
 ## Informations sur le visiteur {#visitor-information}
 
-Sur le côté droit de l’écran de boîte de réception de l’agent, vous pouvez voir (du haut vers le bas) leur : nom, titre de la tâche, adresse électronique, numéro de téléphone et état CRM. Toutes les informations qui ne sont pas transmises s’affichent sous la forme d’un tiret (-).
+Sur le côté droit de l’écran Boîte de réception de l’agent , vous pouvez voir (de haut en bas) leurs : nom, fonction, adresse e-mail, numéro de téléphone et statut CRM. Toutes les informations non transmises sont affichées sous la forme d’un tiret (-).
 
 ![](assets/agent-inbox-5.png)
 
-## Fin d’une session {#end-a-session}
+## Terminer une session {#end-a-session}
 
 Les agents peuvent mettre fin manuellement à une session en cliquant simplement sur le bouton **Terminer la session** en regard des informations sur le visiteur.
 
@@ -59,7 +59,7 @@ Les agents peuvent mettre fin manuellement à une session en cliquant simplement
 
 ## Historique de l&#39;activité {#activity-history}
 
-L’historique des activités se trouve sous les informations sur les visiteurs. Affichez les types d’activité et les dates, et même les transcriptions de conversation.
+Sous les informations sur le visiteur se trouve l’historique des activités. Affichez les types d’activité et les dates, et même les transcriptions des conversations.
 
 ![](assets/agent-inbox-7.png)
 
@@ -69,17 +69,17 @@ L’historique des activités se trouve sous les informations sur les visiteurs.
 
 ## Partage de calendriers {#calendar-sharing}
 
-Au bas de la fenêtre de conversation en direct se trouve une icône qui vous permet de partager le calendrier de votre agent ou de celui d’un autre agent avec le visiteur de la conversation.
+Au bas de la fenêtre de chat en direct se trouve une icône qui vous permet de partager le calendrier de votre ou d&#39;un autre agent avec le visiteur du chat.
 
-1. Cliquez sur l’icône du calendrier.
+1. Cliquez sur l’icône de calendrier.
 
    ![](assets/agent-inbox-8.png)
 
-1. Choisissez le calendrier de l&#39;agent désiré et cliquez sur **Envoyer**.
+1. Sélectionnez le calendrier de l’agent souhaité, puis cliquez sur **Envoyer**.
 
    ![](assets/agent-inbox-9.png)
 
-1. Le visiteur pourra réserver une réunion.
+1. Le visiteur du chat pourra réserver une réunion.
 
    ![](assets/agent-inbox-10.png)
 

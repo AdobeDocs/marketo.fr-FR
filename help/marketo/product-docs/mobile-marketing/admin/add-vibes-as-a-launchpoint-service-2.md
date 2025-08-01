@@ -1,19 +1,19 @@
 ---
-description: Ajout de vidéos en tant que service LaunchPoint - Documents Marketo - Documentation du produit
-title: Ajout de vidéos en tant que service LaunchPoint
+description: Ajout de Vibes as a LaunchPoint Service - Documents Marketo - Documentation du produit
+title: Ajout de Vibes as a LaunchPoint Service
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 1%
 
 ---
 
-# Ajout de vidéos en tant que service LaunchPoint {#add-vibes-as-a-launchpoint-service}
+# Ajout de Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 
-Vous pouvez envoyer des SMS aux personnes ayant accepté de participer à vos campagnes SMS Vibes, en exploitant l’activité SMS pour déclencher et filtrer des campagnes de manière autonome dans votre instance de Marketo Engage. Tout d’abord, vous devez ajouter Vibes as a LaunchPoint service.
+Vous pouvez envoyer des SMS aux personnes inscrites à vos campagnes SMS Vibes, en utilisant l’activité SMS pour déclencher et filtrer des campagnes de manière navale dans votre instance Marketo Engage. Tout d’abord, vous devez ajouter Vibes as a LaunchPoint Service.
 
 >[!NOTE]
 >
@@ -21,9 +21,9 @@ Vous pouvez envoyer des SMS aux personnes ayant accepté de participer à vos ca
 
 >[!PREREQUISITES]
 >
->Vous devez disposer d’un compte Vibes actif et d’une licence d’Adobe pour Vibes SMS.
+>Vous devez disposer d&#39;un compte Vibes actif et d&#39;une licence Adobe pour les SMS Vibes.
 
-1. Dans My Marketo, accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
@@ -31,7 +31,7 @@ Vous pouvez envoyer des SMS aux personnes ayant accepté de participer à vos ca
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. Cliquez sur **[!UICONTROL New]**, puis sur **[!UICONTROL New Service]**.
+1. Cliquez sur **[!UICONTROL Nouveau]**, puis sur **[!UICONTROL Nouveau service]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
@@ -39,14 +39,14 @@ Vous pouvez envoyer des SMS aux personnes ayant accepté de participer à vos ca
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. Sous Paramètres, saisissez vos vidéos [!UICONTROL Nom d’utilisateur], [!UICONTROL Mot de passe] et [!UICONTROL Clé d’entreprise] (tous disponibles dans votre compte Vibes). Cliquez sur **[!UICONTROL Créer]**.
+1. Sous Paramètres, saisissez vos Vibes [!UICONTROL Nom d&#39;utilisateur], [!UICONTROL Mot de passe] et [!UICONTROL Clé de la société] (toutes ces informations se trouvent dans votre compte Vibes). Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   Le nouveau service SMS apparaît désormais dans la liste [!UICONTROL Installed Services] (Services installés).
+   Le nouveau service SMS apparaît désormais dans la liste [!UICONTROL Services installés].
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->[Vibes de démonstration vidéo](https://vimeo.com/215233767/1ed136adbc)
+>[Démo vidéo Vibes](https://vimeo.com/215233767/1ed136adbc)

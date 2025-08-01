@@ -4,7 +4,7 @@ description: Création d’une campagne web dans la zone - Documents Marketo - D
 title: Créer une campagne web dans la zone
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 1%
@@ -37,45 +37,45 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
    >
    >Ensuite, vous devez rechercher l’« id » associé à cette section du site web, qui est mis en surbrillance car vous inspectez cet élément. Par exemple, si une fois que vous avez cliqué avec le bouton droit de la souris dans Chrome, le texte mis en surbrillance indique `<div id="featured-slider">`, vous devez saisir « feature-slider » dans la section « zone id » (identifiant de zone). En règle générale, l’ID « div » est utilisé, mais n’importe quel ID peut également être utilisé, tel que l’ID h1, l’ID p, etc.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nom</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> ID de zone </strong></td> 
-   <td colspan="1" rowspan="1"><p>Saisissez le nom de l’identifiant trouvé dans le code HTML de l’élément de site web que la campagne remplace.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Fixe </strong></p></td> 
-   <td colspan="1" rowspan="1">La case à cocher persistante est sélectionnée par défaut pour la campagne dans la zone et conserve la campagne dans la zone à sa position d’identifiant de zone tout au long de la session du visiteur sur le site web. Il est recommandé de toujours définir une zone d’entrée sur « Collant ».</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Fondu</strong> </p></td> 
-   <td colspan="1" rowspan="1">Si vous cochez la case Utiliser l’effet et que l’option Fondu est sélectionnée, un effet de fondu est appliqué à la zone d’identifiant de zone du site web. Si la zone d’entrée est une bannière graphique, la page est d’abord chargée, puis la campagne est activée avec un effet de fondu.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Glissement</strong></td> 
-   <td colspan="1">Si vous cochez la case Utiliser l’effet et que vous activez l’option Coulissement, un glissement s’effectue dans la zone d’identifiant de zone du site web. Si la zone d’insertion est une bannière graphique, la page commence par se charger, puis la campagne s’active avec un effet de glissement de la gauche vers la droite.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Éditeur de texte enrichi  </strong></td> 
-   <td colspan="1">L’éditeur de texte enrichi permet la mise en forme du texte, la liaison et l’insertion d’images. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">En savoir plus ici</a> .</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Aperçu sur le site   </strong></td> 
-   <td colspan="1">Prévisualisez les campagnes avant leur lancement. <br> 
-    <ul> 
-     <li> URL : saisissez un exemple d’URL où la campagne serait exécutée pour afficher un exemple d’aperçu de l’apparence de la campagne en direct.</li> 
-     <li>Appareil : prévisualisez l’aspect de votre campagne par appareil : ordinateur de bureau, portrait pour mobile, paysage pour mobile, portrait pour tablette, paysage pour portrait.</li> 
-     <li> Prévisualisation - Cliquez sur <strong>Prévisualisation</strong> pour ouvrir une nouvelle fenêtre de l’exemple d’URL et voir comment la campagne réagit.</li> 
-     <li> Partager : utilisez le bouton Partager pour envoyer un e-mail à un collègue avec un lien afin d’afficher la campagne proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nom</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> ID de zone </strong></td>
+   <td colspan="1" rowspan="1"><p>Saisissez le nom de l’identifiant trouvé dans le code HTML de l’élément de site web que la campagne remplace.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Fixe </strong></p></td>
+   <td colspan="1" rowspan="1">La case à cocher persistante est sélectionnée par défaut pour la campagne dans la zone et conserve la campagne dans la zone à sa position d’identifiant de zone tout au long de la session du visiteur sur le site web. Il est recommandé de toujours définir une zone d’entrée sur « Collant ».</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Fondu</strong> </p></td>
+   <td colspan="1" rowspan="1">Si vous cochez la case Utiliser l’effet et que l’option Fondu est sélectionnée, un effet de fondu est appliqué à la zone d’identifiant de zone du site web. Si la zone d’entrée est une bannière graphique, la page est d’abord chargée, puis la campagne est activée avec un effet de fondu.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Glissement</strong></td>
+   <td colspan="1">Si vous cochez la case Utiliser l’effet et que vous activez l’option Coulissement, un glissement s’effectue dans la zone d’identifiant de zone du site web. Si la zone d’insertion est une bannière graphique, la page commence par se charger, puis la campagne s’active avec un effet de glissement de la gauche vers la droite.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Éditeur de texte enrichi  </strong></td>
+   <td colspan="1">L’éditeur de texte enrichi permet la mise en forme du texte, la liaison et l’insertion d’images. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">En savoir plus ici</a> .</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Aperçu sur le site   </strong></td>
+   <td colspan="1">Prévisualisez les campagnes avant leur lancement. <br>
+    <ul>
+     <li> URL : saisissez un exemple d’URL où la campagne serait exécutée pour afficher un exemple d’aperçu de l’apparence de la campagne en direct.</li>
+     <li>Appareil : prévisualisez l’aspect de votre campagne par appareil : ordinateur de bureau, portrait pour mobile, paysage pour mobile, portrait pour tablette, paysage pour portrait.</li>
+     <li> Prévisualisation - Cliquez sur <strong>Prévisualisation</strong> pour ouvrir une nouvelle fenêtre de l’exemple d’URL et voir comment la campagne réagit.</li>
+     <li> Partager : utilisez le bouton Partager pour envoyer un e-mail à un collègue avec un lien afin d’afficher la campagne proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

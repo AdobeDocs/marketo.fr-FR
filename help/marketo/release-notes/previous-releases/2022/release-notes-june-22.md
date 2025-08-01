@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Juin 2022 - Documents Marketo - Documentati
 title: Notes de mise à jour - Juin 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Les fonctionnalités suivantes seront publiées le **24 juin 2022**, avec un dé
 
 ![(étoile)](assets/yellow-star.png)
 
-* Jeu d’autorisations **[!DNL Sales Insight]dans[!DNL Salesforce]** : les administrateurs peuvent fournir un accès [!DNL Sales Insight] à un ensemble limité de personnes au niveau de l’utilisateur plutôt qu’au niveau du profil via le jeu d’autorisations de l’application Marketo, qui fait partie du package d’[!DNL Salesforce] [!DNL Sales Insight].
+* Jeu d’autorisations **[!DNL Sales Insight]dans[!DNL Salesforce]** : les administrateurs peuvent fournir un accès [!DNL Sales Insight] à un ensemble limité de personnes au niveau de l’utilisateur plutôt qu’au niveau du profil via le jeu d’autorisations de l’application Marketo, qui fait partie du package d’[!DNL Sales Insight] [!DNL Salesforce].
 
 * **My Marketo Tile Update - [!DNL Sales Insight] Actions** : les administrateurs Marketo (et les utilisateurs qu’ils désignent) peuvent désormais accéder rapidement à leur instance [!DNL Sales Insight] Actions via une nouvelle mosaïque [!DNL Sales Insight] Actions située sur la page My Marketo.
 

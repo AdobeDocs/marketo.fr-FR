@@ -4,7 +4,7 @@ description: Rapport d’activité de la page web - Documents Marketo - Document
 title: Rapport d’activité de la page web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 3%
@@ -38,46 +38,46 @@ Vous pouvez choisir d’afficher des personnes connues ou anonymes, mais pas les
    >
    >Pour savoir qui visite le plus votre site, [triez votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} dans la colonne _Pages vues_ et choisissez Trier par ordre décroissant.
 
-   [Marketo ajoute les visiteurs anonymes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} du site Web à votre base de données et vous pouvez choisir de les afficher dans ce rapport. Il fournit une mine d’informations, même si elles sont anonymes.\
+   [Marketo ajoute les visiteurs anonymes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} du site Web à votre base de données et vous pouvez choisir de les afficher dans ce rapport. Il fournit une mine d’informations, même si elles sont anonymes.
    [Les colonnes que vous pouvez sélectionner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} pour un rapport d’activité de page web incluent :
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Colonne(s)</th> 
-   <th>Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Personne</td> 
+<table>
+ <thead>
+  <tr>
+   <th>Colonne(s)</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Personne</td>
    <td>Le nom, le titre et la société du visiteur.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Cliquez sur</a></strong> pour afficher les pages visitées.</td>
-  </tr> 
-  <tr> 
-   <td>Première/Dernière Visite (Fuseau Horaire)</td> 
-   <td>Date et heure de la première/dernière visite d'un membre de cette société.</td> 
-  </tr> 
-  <tr> 
-   <td>Pages vues</td> 
+  </tr>
+  <tr>
+   <td>Première/Dernière Visite (Fuseau Horaire)</td>
+   <td>Date et heure de la première/dernière visite d'un membre de cette société.</td>
+  </tr>
+  <tr>
+   <td>Pages vues</td>
    <td>Nombre de pages chargées par ce visiteur.</td>
-  </tr> 
-  <tr> 
-   <td>Référant HTTP</td> 
-   <td>URL de la page contenant le lien que le visiteur a suivi vers votre page.</td> 
-  </tr> 
-  <tr> 
-   <td>Page d'accueil</td> 
-   <td>Première page visitée par la personne </td> 
-  </tr> 
-  <tr> 
-   <td>Société ou fournisseur d'accès Internet inférés</td> 
-   <td>La société, comme déduit de l’adresse IP des visiteurs. <strong>Les noms en gras</strong> indiquent qu’il s’agit de la société, et non du FAI. </td> 
-  </tr> 
-  <tr> 
-   <td>Pays, État/région et ville déduits</td> 
-   <td>Emplacement géographique du visiteur, tel qu’déduit de son adresse IP.</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>Référant HTTP</td>
+   <td>URL de la page contenant le lien que le visiteur a suivi vers votre page.</td>
+  </tr>
+  <tr>
+   <td>Page d'accueil</td>
+   <td>Première page visitée par la personne </td>
+  </tr>
+  <tr>
+   <td>Société ou fournisseur d'accès Internet inférés</td>
+   <td>La société, comme déduit de l’adresse IP des visiteurs. <strong>Les noms en gras</strong> indiquent qu’il s’agit de la société, et non du FAI. </td>
+  </tr>
+  <tr>
+   <td>Pays, État/région et ville déduits</td>
+   <td>Emplacement géographique du visiteur, tel qu’déduit de son adresse IP.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

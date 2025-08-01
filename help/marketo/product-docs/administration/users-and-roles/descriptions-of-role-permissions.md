@@ -4,7 +4,7 @@ description: Descriptions des autorisations de rôle - Documents Marketo - Docum
 title: Descriptions des autorisations de rôle
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1447'
 ht-degree: 15%

@@ -4,7 +4,7 @@ description: Définir L’Affichage De Votre Campagne Web - Documents Marketo - 
 title: Définir L’Affichage De Votre Campagne Web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 2%
@@ -43,21 +43,21 @@ Spécifiez un délai (en secondes totales) pour que les campagnes web réagissen
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Underfold]</strong></td> 
-   <td>Affiche la campagne lorsque le visiteur fait défiler l’écran en dessous du pli. La campagne disparaît lorsque le visiteur revient en arrière au-dessus du pli.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Percent]</strong></td> 
-   <td>Affiche la campagne lorsque le visiteur fait défiler la page jusqu’à un pourcentage prédéterminé.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>Affiche la campagne lorsque le visiteur fait défiler la page jusqu’au pixel supérieur prédéfini.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Underfold]</strong></td>
+   <td>Affiche la campagne lorsque le visiteur fait défiler l’écran en dessous du pli. La campagne disparaît lorsque le visiteur revient en arrière au-dessus du pli.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Percent]</strong></td>
+   <td>Affiche la campagne lorsque le visiteur fait défiler la page jusqu’à un pourcentage prédéterminé.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>Affiche la campagne lorsque le visiteur fait défiler la page jusqu’au pixel supérieur prédéfini.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Intention de sortie {#exit-intent}

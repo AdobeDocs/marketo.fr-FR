@@ -3,7 +3,7 @@ description: Présentation du chat en direct - Documents Marketo - Documentation
 title: Aperçu du chat en direct
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ Cliquer sur la carte de chat en direct dans le flux vous permet de choisir comme
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Round-robin</b></td>
    <td>Les conversations sont affectées aux agents dans un ordre séquentiel.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Agent ou agente</b></td>
    <td>Choisissez un agent spécifique pour recevoir la conversation.</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>Règles personnalisées</b></td>
    <td>Toutes les règles personnalisées seront passées en revue au moment de déterminer où acheminer le visiteur. Si le visiteur ne remplit les critères d’aucune règle personnalisée, il reçoit le <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">message de secours du chat en direct</a>.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Équipe</b></td>
    <td>Sélectionnez une équipe spécifique pour recevoir la conversation. Si cette option est choisie, elle sera attribuée à tour de rôle au sein de cette équipe.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Notifications de conversation en direct {#live-chat-notifications}
@@ -102,7 +102,7 @@ Lorsqu’un chat en direct est acheminé vers un agent, une bannière bleue s’
 >
 >Vous avez également la possibilité de configurer des notifications de navigateur, qui vous avertiront si vous n’êtes pas connecté à Dynamic Chat.
 >
->* Activer les notifications de navigateur dans [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Activer les notifications de navigateur dans [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Activer les notifications de navigateur dans [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Notifications d’action ayant échoué {#failed-action-notifications}

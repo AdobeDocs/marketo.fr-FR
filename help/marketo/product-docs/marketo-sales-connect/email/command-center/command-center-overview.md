@@ -4,7 +4,7 @@ description: Présentation du centre de commande - Documents Marketo - Documenta
 title: Présentation du centre de commande
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -23,59 +23,59 @@ La section e-mail du [!UICONTROL Centre de commande] vous permet de gérer l’e
 
 La section e-mail vous donne une vue d&#39;ensemble de tous vos e-mails et simplifie leur organisation avec des onglets principaux et des sous-onglets qui servent de dossiers où vos e-mails sont automatiquement stockés en fonction de leur statut.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : gris"><p title=""><strong><span>Principale</span> </strong></p></td> 
-   <td title="Couleur d’arrière-plan : gris"><p title=""><strong><span>Secondaire</span> </strong></p></td> 
-   <td title="Couleur d’arrière-plan : gris"><p title=""><strong><span>Description</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : bleu"><strong title="">Envoyé</strong></td> 
-   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Delivered]</td> 
-   <td title="Couleur d’arrière-plan : bleu">E-mails ayant été envoyés au destinataire.</td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : bleu"><br></td> 
-   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Archivé]</td> 
-   <td title="Couleur d’arrière-plan : bleu">Les emails archivés par l’utilisateur afin de désactiver le tracking sur les emails.</td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : gris"><strong title="">En attente</strong></td> 
-   <td title="Couleur d’arrière-plan : gris">[!UICONTROL Scheduled]</td> 
-   <td title="Couleur d’arrière-plan : gris">E-mails dont la diffusion est actuellement planifiée. Une fois qu’un e-mail est envoyé, il est déplacé vers le dossier diffusé.</td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : gris"><br></td> 
-   <td title="Couleur d’arrière-plan : gris">[!UICONTROL Draft]</td> 
-   <td title="Couleur d’arrière-plan : gris"><p>E-mails enregistrés en tant que brouillon.<br><strong>Remarque :</strong> seuls des e-mails uniques peuvent être enregistrés en tant que brouillons. Les e-mails en masse (sélectionner et envoyer des e-mails et regrouper des e-mails) ne seront pas enregistrés en tant que brouillons.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : gris"><br></td> 
-   <td title="Couleur d’arrière-plan : gris">[!UICONTROL In Progress]</td> 
-   <td title="Couleur d’arrière-plan : gris">Il s’agit d’un état intermédiaire dans lequel les e-mails entrent lorsqu’ils se trouvent dans le mouvement d’envoi. Les e-mails ne doivent être en cours que pendant quelques instants.</td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : bleu"><strong title="">Non remis</strong></td> 
-   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Failed]</td> 
-   <td title="Couleur d’arrière-plan : bleu">E-mails dont la diffusion a échoué.</td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : bleu"><br></td> 
-   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL A Rebondi]</td> 
-   <td title="Couleur d’arrière-plan : bleu"><p>E-mails rejetés par le serveur de messagerie des destinataires. <br><strong>Remarque :</strong> Cela n’est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Couleur d’arrière-plan : bleu"><br></td> 
-   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Spam]</td> 
-   <td title="Couleur d’arrière-plan : bleu"><p>E-mails ayant été manuellement marqués comme spam par le destinataire.<br><strong>Remarque :</strong> Cela n’est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="Couleur d’arrière-plan : gris"><p title=""><strong><span>Principale</span> </strong></p></td>
+   <td title="Couleur d’arrière-plan : gris"><p title=""><strong><span>Secondaire</span> </strong></p></td>
+   <td title="Couleur d’arrière-plan : gris"><p title=""><strong><span>Description</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : bleu"><strong title="">Envoyé</strong></td>
+   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Delivered]</td>
+   <td title="Couleur d’arrière-plan : bleu">E-mails ayant été envoyés au destinataire.</td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : bleu"><br></td>
+   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Archivé]</td>
+   <td title="Couleur d’arrière-plan : bleu">Les emails archivés par l’utilisateur afin de désactiver le tracking sur les emails.</td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : gris"><strong title="">En attente</strong></td>
+   <td title="Couleur d’arrière-plan : gris">[!UICONTROL Scheduled]</td>
+   <td title="Couleur d’arrière-plan : gris">E-mails dont la diffusion est actuellement planifiée. Une fois qu’un e-mail est envoyé, il est déplacé vers le dossier diffusé.</td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : gris"><br></td>
+   <td title="Couleur d’arrière-plan : gris">[!UICONTROL Draft]</td>
+   <td title="Couleur d’arrière-plan : gris"><p>E-mails enregistrés en tant que brouillon.<br><strong>Remarque :</strong> seuls des e-mails uniques peuvent être enregistrés en tant que brouillons. Les e-mails en masse (sélectionner et envoyer des e-mails et regrouper des e-mails) ne seront pas enregistrés en tant que brouillons.</p></td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : gris"><br></td>
+   <td title="Couleur d’arrière-plan : gris">[!UICONTROL In Progress]</td>
+   <td title="Couleur d’arrière-plan : gris">Il s’agit d’un état intermédiaire dans lequel les e-mails entrent lorsqu’ils se trouvent dans le mouvement d’envoi. Les e-mails ne doivent être en cours que pendant quelques instants.</td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : bleu"><strong title="">Non remis</strong></td>
+   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Failed]</td>
+   <td title="Couleur d’arrière-plan : bleu">E-mails dont la diffusion a échoué.</td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : bleu"><br></td>
+   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL A Rebondi]</td>
+   <td title="Couleur d’arrière-plan : bleu"><p>E-mails rejetés par le serveur de messagerie des destinataires. <br><strong>Remarque :</strong> Cela n’est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td>
+  </tr>
+  <tr>
+   <td title="Couleur d’arrière-plan : bleu"><br></td>
+   <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Spam]</td>
+   <td title="Couleur d’arrière-plan : bleu"><p>E-mails ayant été manuellement marqués comme spam par le destinataire.<br><strong>Remarque :</strong> Cela n’est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Gérer les tâches {#manage-tasks}

@@ -4,7 +4,7 @@ description: Modification d’une période de rapport - Documents Marketo - Docu
 title: Modifier une période de rapport
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Modifiez la période couverte par votre rapport pour vous concentrer sur une pé
    >
    >Pour définir des dates spécifiques, sélectionnez **[!UICONTROL Personnalisé]** dans le menu déroulant, puis saisissez les dates dans les champs de calendrier **[!UICONTROL De]** et **[!UICONTROL À]**.
 
-   Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport pour la période sélectionnée.\
+   Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport pour la période sélectionnée.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

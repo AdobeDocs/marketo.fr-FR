@@ -4,7 +4,7 @@ description: Filtrage dans les informations de performance - Documents Marketo -
 title: Filtrage dans les informations sur les performances
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 4%
@@ -45,37 +45,37 @@ Vous pouvez supprimer un filtre à tout moment en cliquant sur le X adjacent. Su
 
 ## Filtres disponibles {#available-filters}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Liste de comptes ABM</span></strong></td> 
-   <td colspan="1">Si vous utilisez Marketo ABM, toutes vos listes de comptes seront synchronisées avec MPI et visibles via le filtre « Liste de comptes ABM ». Vous pouvez sélectionner une liste de comptes pour filtrer les résultats sur ces comptes.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">En savoir plus sur les listes de comptes ABM.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Compte nommé ABM</span></strong></td> 
-   <td colspan="1">Si vous utilisez Marketo ABM, tous vos comptes nommés seront synchronisés avec MPI et seront visibles via le filtre « Compte nommé ABM ». Vous pouvez sélectionner un compte nommé pour filtrer les résultats sur ces comptes.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">En savoir plus sur les comptes nommés ABM.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Attribut personnalisé</span></strong></td> 
-   <td colspan="1"><p>C'est vous qui les déterminez. Tous les champs <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">que vous activez</a> pour l’analyse des opportunités peuvent être filtrés dans les informations sur les performances.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Période d’investissement</span></strong></p></td> 
-   <td colspan="1"><p>Échéancier des coûts du programme.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Opportunité</span></strong></p></td> 
-   <td colspan="1"><p>Type d’opportunité tel que configuré sur l’objet d’opportunité dans votre configuration Salesforce (CRM).</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Étiquette de programme</span></strong></p></td> 
-   <td><p>Les balises sont utilisées pour décrire les programmes. Vous pouvez en faire autant que nécessaire, chacun avec des valeurs uniques. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Découvrez comment utiliser les balises de programme ici.</a></p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Espace de travail</span></strong></td> 
-   <td><p>Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing, telles que : des programmes, des pages de destination, des e-mails, etc. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">En savoir plus sur les espaces de travail ici.</a></p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Liste de comptes ABM</span></strong></td>
+   <td colspan="1">Si vous utilisez Marketo ABM, toutes vos listes de comptes seront synchronisées avec MPI et visibles via le filtre « Liste de comptes ABM ». Vous pouvez sélectionner une liste de comptes pour filtrer les résultats sur ces comptes.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">En savoir plus sur les listes de comptes ABM.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Compte nommé ABM</span></strong></td>
+   <td colspan="1">Si vous utilisez Marketo ABM, tous vos comptes nommés seront synchronisés avec MPI et seront visibles via le filtre « Compte nommé ABM ». Vous pouvez sélectionner un compte nommé pour filtrer les résultats sur ces comptes.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">En savoir plus sur les comptes nommés ABM.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Attribut personnalisé</span></strong></td>
+   <td colspan="1"><p>C'est vous qui les déterminez. Tous les champs <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">que vous activez</a> pour l’analyse des opportunités peuvent être filtrés dans les informations sur les performances.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Période d’investissement</span></strong></p></td>
+   <td colspan="1"><p>Échéancier des coûts du programme.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Opportunité</span></strong></p></td>
+   <td colspan="1"><p>Type d’opportunité tel que configuré sur l’objet d’opportunité dans votre configuration Salesforce (CRM).</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Étiquette de programme</span></strong></p></td>
+   <td><p>Les balises sont utilisées pour décrire les programmes. Vous pouvez en faire autant que nécessaire, chacun avec des valeurs uniques. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Découvrez comment utiliser les balises de programme ici.</a></p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Espace de travail</span></strong></td>
+   <td><p>Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing, telles que : des programmes, des pages de destination, des e-mails, etc. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">En savoir plus sur les espaces de travail ici.</a></p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '618'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Par défaut, tous vos e-mails et modèles d’e-mail existants seront marqués c
 
 Si votre abonnement comporte des e-mails v1.0 avant le déplacement vers [!DNL Email Editor 2.0], vous constaterez le comportement suivant en fonction de l’état actuel de la ressource :
 
-**Approuvé** - Cliquez sur « Modifier le brouillon » pour créer un brouillon v2.0 de l’e-mail approuvé. Si vous approuvez ensuite le brouillon v2.0, l’état approuvé de l’e-mail devient v2.0 et il n’est pas possible de revenir à la v1.0.\
+**Approuvé** - Cliquez sur « Modifier le brouillon » pour créer un brouillon v2.0 de l’e-mail approuvé. Si vous approuvez ensuite le brouillon v2.0, l’état approuvé de l’e-mail devient v2.0 et il n’est pas possible de revenir à la v1.0.
 **Brouillon** - Cliquez sur « Modifier le brouillon » pour marquer automatiquement ce brouillon comme v2.0. À ce stade, il ne sera pas possible de supprimer et de revenir à la version 1.0, car il n’existe aucune version approuvée de la ressource.
 **Approuvé avec le brouillon** - Cliquez sur « Modifier le brouillon » pour marquer automatiquement ce brouillon comme v2.0. Pour cette raison, il n’est pas non plus possible de rétablir le brouillon vers la version 1.0.
 
@@ -40,14 +40,14 @@ Si votre abonnement comporte des modèles d’e-mail v1.0 avant de passer à [!D
 
 Si vous approuvez un modèle d’e-mail qui était auparavant version 1.0 (dans l’un des états ci-dessus), le comportement suivant s’affiche :
 
-Pour les e-mails existants de la version 1.0 qui utilisaient le modèle (anciennement v1.0) :\
-**E-mail v1.0 approuvé** - Un brouillon v2.0 sera créé pour cet e-mail, en utilisant toujours le modèle v2.0 nouvellement approuvé. Il recevra également toutes les modifications apportées au modèle.\
-**E-mail brouillon v1.0** - Le brouillon reste v1.0 jusqu’à ce que vous cliquiez sur « Modifier le brouillon ». Ensuite, il sera automatiquement marqué comme v2.0 et recevra toutes les modifications du modèle.\
+Pour les e-mails existants de la version 1.0 qui utilisaient le modèle (anciennement v1.0) :
+**E-mail v1.0 approuvé** - Un brouillon v2.0 sera créé pour cet e-mail, en utilisant toujours le modèle v2.0 nouvellement approuvé. Il recevra également toutes les modifications apportées au modèle.
+**E-mail brouillon v1.0** - Le brouillon reste v1.0 jusqu’à ce que vous cliquiez sur « Modifier le brouillon ». Ensuite, il sera automatiquement marqué comme v2.0 et recevra toutes les modifications du modèle.
 **Approuvé avec l’e-mail Brouillon v1.0** - Le brouillon reste dans la version 1.0 jusqu’à ce que vous cliquiez sur « Modifier le brouillon ». Ensuite, il sera automatiquement marqué comme v2.0 et recevra toutes les modifications du modèle.
 
-Pour les e-mails v2.0 existants qui utilisaient le modèle (anciennement v1.0) :\
-**E-mail v2.0 approuvé** - Un brouillon v2.0 sera créé pour cet e-mail, en « utilisant » toujours le modèle nouvellement approuvé, et recevra toutes les modifications du modèle.\
-**E-mail brouillon v2.0** - Le brouillon reste tel quel (v2.0) et reçoit toutes les modifications du modèle.\
+Pour les e-mails v2.0 existants qui utilisaient le modèle (anciennement v1.0) :
+**E-mail v2.0 approuvé** - Un brouillon v2.0 sera créé pour cet e-mail, en « utilisant » toujours le modèle nouvellement approuvé, et recevra toutes les modifications du modèle.
+**E-mail brouillon v2.0** - Le brouillon reste tel quel (v2.0) et reçoit toutes les modifications du modèle.
 **Approuvé avec l’e-mail Draft v2.0** - Le brouillon reste tel quel (v2.0) et reçoit les modifications du modèle.
 
 >[!CAUTION]

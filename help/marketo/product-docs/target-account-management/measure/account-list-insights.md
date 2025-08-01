@@ -4,7 +4,7 @@ description: Informations sur la liste des comptes - Documents Marketo - Documen
 title: Informations sur la liste de comptes
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
@@ -29,17 +29,17 @@ Pour afficher le tableau de bord d&#39;une liste de comptes, cliquez simplement 
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td> 
-   <td colspan="1">Voir le pipeline au fil du temps. Pour déterminer le pipeline au fil du temps par semaine, nous prenons le pipeline le dernier jour.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Recettes</span></strong></td> 
-   <td><p>Afficher les revenus au fil du temps. Pour déterminer les revenus au fil du temps par semaine, nous prenons la somme de tous les revenus gagnés au cours de cette semaine.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td>
+   <td colspan="1">Voir le pipeline au fil du temps. Pour déterminer le pipeline au fil du temps par semaine, nous prenons le pipeline le dernier jour.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Recettes</span></strong></td>
+   <td><p>Afficher les revenus au fil du temps. Pour déterminer les revenus au fil du temps par semaine, nous prenons la somme de tous les revenus gagnés au cours de cette semaine.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Onglet Comptes nommés {#named-accounts-tab}

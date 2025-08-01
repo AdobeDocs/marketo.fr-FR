@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2360057
-description: Rapport Activité de campagne - Documents Marketo - Documentation du produit
-title: Rapport Activité de campagne
+description: Rapport d’activité de campagne - Documents Marketo - Documentation du produit
+title: Rapport d’activité de campagne
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 0fded7d82543f221c96ad08f1486728a39f495e7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 12%
 
 ---
 
-# Rapport Activité de campagne {#campaign-activity-report}
+# Rapport d’activité de campagne {#campaign-activity-report}
 
-Découvrez les performances de vos [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}.
+Vérifiez les performances de vos [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}.
 
-1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) et sélectionnez le **type de rapport Activité de campagne** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le **Activité de campagne** [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
-1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} et cliquez sur l’onglet **Rapport** .
+1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} puis cliquez sur l’onglet **Rapport**.
 
-1. Fantastique ! Explorez votre rapport pour identifier vos campagnes les plus efficaces, regroupées par type de campagne.
+1. Fantastique ! Explorez votre rapport pour identifier les campagnes les plus efficaces, regroupées par type de campagne.
 
 >[!NOTE]
 >
->Toutes les [campagnes exécutables](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} s’affichent en tant que &quot;campagnes déclenchées inactives&quot; dans les rapports d’activité de campagne.
+>Toutes les [ Campagnes exécutables ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} s’affichent sous la forme de « campagnes déclenchées inactives » dans les rapports d’activité de campagne.
 
 ![](assets/campaign-activity-report-1.png)
 
 >[!TIP]
 >
->Pour rechercher les campagnes qui ont traité le plus de personnes, par exemple, [triez votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} sur _Total des personnes traitées_ et sélectionnez **Tri descendant**.
+>Pour trouver les campagnes qui ont traité le plus de personnes, par exemple, [triez votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} sur _Nombre total de personnes traitées_ et choisissez **Trier par ordre décroissant**.
 
-**[Colonnes que vous pouvez sélectionner ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport d’activité de campagne :** :
+**[Les colonnes que vous pouvez sélectionner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport d’activité de campagne incluent** :
 
 <table><thead>
   <tr>
@@ -41,15 +41,15 @@ Découvrez les performances de vos [campagnes intelligentes](/help/marketo/produ
 <tbody>
   <tr>
     <td>Décompte des exécutions par lot</td>
-    <td>Nombre de fois où la campagne a été exécutée.</td>
+    <td>Nombre d’exécutions de la campagne.</td>
   </tr>
   <tr>
     <td>Total de prospects traités</td>
-    <td>Nombre de personnes qui ont traversé le flux de la campagne.</td>
+    <td>Nombre de personnes qui ont suivi le flux de la campagne.</td>
   </tr>
   <tr>
     <td>Personnes en phase d'attente</td>
-    <td>Si une campagne est toujours en cours, nombre de personnes qui restent dans l’étape Attente .</td>
+    <td>Si une campagne est toujours en cours d’exécution, le nombre de personnes qui restent dans l’étape Attente .</td>
   </tr>
   <tr>
     <td>Supprimés du flux</td>
@@ -57,7 +57,7 @@ Découvrez les performances de vos [campagnes intelligentes](/help/marketo/produ
   </tr>
   <tr>
     <td>Dernière activité</td>
-    <td>Dernière fois où une personne a été traitée par la campagne.</td>
+    <td>Dernière fois qu’une personne a été traitée par la campagne.</td>
   </tr>
 </tbody>
 </table>
@@ -80,7 +80,7 @@ Découvrez les performances de vos [campagnes intelligentes](/help/marketo/produ
   </tr>
   <tr>
     <td>Déclenché (actif)</td>
-    <td>Campagnes déclenchées en cours dans l’onglet Activités marketing .</td>
+    <td>Campagnes déclenchées actuelles dans l’onglet Activités marketing .</td>
   </tr>
   <tr>
     <td>Déclenché (inactif)</td>
@@ -91,4 +91,4 @@ Découvrez les performances de vos [campagnes intelligentes](/help/marketo/produ
 
 >[!MORELIKETHIS]
 >
->[Filtrer un rapport Activité de campagne](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}
+>[Filtrer un rapport d’activité de campagne](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}

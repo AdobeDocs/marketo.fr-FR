@@ -4,7 +4,7 @@ description: Options D’Envoi En Masse - Documents Marketo - Documentation Du P
 title: Options d’envoi en bloc
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -17,41 +17,41 @@ L’envoi d’e-mails en bloc est un excellent moyen d’accélérer votre engag
 
 **E-mail de groupe et sélection et envoi**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>Envoyer</span><span> Type</span> </p></th> 
-   <th><p><span>Nombre maximal d’e</span><span>mails </span><span></span> </p></th> 
-   <th><p><span>Initié </span><span>Envoyer par</span></p></th> 
-   <th><p><span>Bulk </span><span>Edit Emails</span> </p></th> 
-   <th><p><span>Modifier</span><span> Chaque E-Mail </span><span>Unique</span> </p></th> 
-   <th><p><span>Prise en charge des modèles et </span><span>champs dynamiques</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>E-mail du groupe</span> </p></td> 
-   <td><p>1 000 <span></span> </p></td> 
-   <td><p><span>Sélectionnez un groupe et cliquez sur</span><span> le bouton </span><span>« Actions de groupe »</span><span> ou saisissez le nom du groupe dans le champ À. </span> </p></td> 
-   <td><p><span>Oui</span> </p></td> 
-   <td><p><span>Non</span> </p></td> 
-   <td><p><span>Oui</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span>Sélectionner </span><span> et </span><span>Envoyer</span> </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>Sélectionnez des personnes dans la grille et cliquez sur le bouton « E-mail sélectionné » dans la barre d’actions</span><span>, ou saisissez </span><span> destinataires dans la barre latérale </span><span>e-mail en bloc</span><span>.</span></p></td> 
-   <td><p><span>Oui</span> </p></td> 
-   <td><p><span>Oui</span> </p></td> 
-   <td><p><span>Oui</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>Envoyer</span><span> Type</span> </p></th>
+   <th><p><span>Nombre maximal d’e</span><span>mails </span><span></span> </p></th>
+   <th><p><span>Initié </span><span>Envoyer par</span></p></th>
+   <th><p><span>Bulk </span><span>Edit Emails</span> </p></th>
+   <th><p><span>Modifier</span><span> Chaque E-Mail </span><span>Unique</span> </p></th>
+   <th><p><span>Prise en charge des modèles et </span><span>champs dynamiques</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>E-mail du groupe</span> </p></td>
+   <td><p>1 000 <span></span> </p></td>
+   <td><p><span>Sélectionnez un groupe et cliquez sur</span><span> le bouton </span><span>« Actions de groupe »</span><span> ou saisissez le nom du groupe dans le champ À. </span> </p></td>
+   <td><p><span>Oui</span> </p></td>
+   <td><p><span>Non</span> </p></td>
+   <td><p><span>Oui</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span>Sélectionner </span><span> et </span><span>Envoyer</span> </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>Sélectionnez des personnes dans la grille et cliquez sur le bouton « E-mail sélectionné » dans la barre d’actions</span><span>, ou saisissez </span><span> destinataires dans la barre latérale </span><span>e-mail en bloc</span><span>.</span></p></td>
+   <td><p><span>Oui</span> </p></td>
+   <td><p><span>Oui</span> </p></td>
+   <td><p><span>Oui</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Utilisation de l’e-mail de groupe**

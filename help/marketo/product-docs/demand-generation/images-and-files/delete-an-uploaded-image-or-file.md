@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2359873
-description: Suppression d’une image ou d’un fichier téléchargé - Documents Marketo - Documentation du produit
+description: Suppression d’une image ou d’un fichier chargé - Documents Marketo - Documentation du produit
 title: Suppression d’une image ou d’un fichier chargé
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Suppression d’une image ou d’un fichier chargé {#delete-an-uploaded-image-or-file}
 
-La suppression d’images ou de fichiers est rapide et facile.
+La suppression des images ou des fichiers est rapide et facile.
 
 >[!CAUTION]
 >
->Une fois supprimées, les images/fichiers sont complètement supprimés du Marketo Engage et ne peuvent pas être récupérés.
+>Une fois supprimés, les images/fichiers sont complètement supprimés de Marketo Engage et ne peuvent pas être récupérés.
 
-1. Accédez à **[!UICONTROL Design Studio]**.
+1. Accédez au **[!UICONTROL Design Studio]**.
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
@@ -27,7 +27,7 @@ La suppression d’images ou de fichiers est rapide et facile.
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Recherchez et sélectionnez l’image/le fichier souhaité. Cliquez sur la liste déroulante **[!UICONTROL Actions image et fichier]** et sélectionnez **[!UICONTROL Supprimer]**.
+1. Recherchez et sélectionnez l’image/le fichier de votre choix. Cliquez sur la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]** et sélectionnez **[!UICONTROL Supprimer]**.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
@@ -37,10 +37,10 @@ La suppression d’images ou de fichiers est rapide et facile.
 
    >[!NOTE]
    >
-   >Assets ne supprimera pas s’ils sont actuellement en cours d’utilisation.
+   >Assets ne sera pas supprimé s’il est en cours d’utilisation.
 
 >[!MORELIKETHIS]
 >
->* [Remplacer une image ou un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [Recherche d’images et de fichiers téléchargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [Rechercher l’URL d’une image ou d’un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [Remplacer une image ou un fichier chargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Rechercher les images et fichiers chargés](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Rechercher l’URL d’une image ou d’un fichier chargé](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

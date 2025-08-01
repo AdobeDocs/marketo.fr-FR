@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360323
-description: Modification d’une partition de personne existante - Documents Marketo - Documentation du produit
-title: Modification d’une partition de personne existante
+description: Modifier une partition de personne existante - Documents Marketo - Documentation du produit
+title: Modifier une partition de personne existante
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Modification d’une partition de personne existante {#edit-an-existing-person-partition}
+# Modifier une partition de personne existante {#edit-an-existing-person-partition}
 
-Une partition de personne, c&#39;est comme avoir une deuxième (ou une troisième) base de données. Une partition peut être rattachée à un ou plusieurs espaces de travail. Voici comment modifier les détails de la partition.
+Une partition de personne est semblable à une deuxième (ou troisième) base de données. Une partition peut être connectée à un ou plusieurs espaces de travail. Voici comment modifier les détails de la partition.
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ Une partition de personne, c&#39;est comme avoir une deuxième (ou une troisièm
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Cliquez sur **[!UICONTROL Espaces de travail et partitions]**.
+1. Cliquez sur **[!UICONTROL Workspaces et partitions]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Sous l’onglet **[!UICONTROL Partitions de personne]**, sélectionnez la partition de personne à modifier, puis cliquez sur **[!UICONTROL Modifier la partition de personne]**.
+1. Sous l’onglet **[!UICONTROL Partitions de personne]**, sélectionnez la partition de personne à modifier et cliquez sur **[!UICONTROL Modifier la partition de personne]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Saisissez la partition de personne **[!UICONTROL Name]**, les **[!UICONTROL espaces de travail]** auxquels ils appartiennent, puis cliquez sur **[!UICONTROL Save]**.
+1. Saisissez la partition de la personne **[!UICONTROL Nom]** et les **[!UICONTROL Espaces de travail]** auxquels ils appartiennent, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

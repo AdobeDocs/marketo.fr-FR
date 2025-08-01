@@ -4,7 +4,7 @@ description: Rapport d’activité web de la société - Documents Marketo - Doc
 title: Rapport d’activité Web de l’entreprise
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 4%
@@ -37,39 +37,39 @@ Créez un [rapport d’activité de page web](/help/marketo/product-docs/reporti
 
    [Les colonnes que vous pouvez sélectionner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport d’activité web d’entreprise incluent :
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Colonne(s)</th> 
-   <th>Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Société</td> 
-   <td>L'entreprise des visiteurs.<br> <strong>Noms en gras</strong> sont confirmés comme étant le nom de la société par au moins une personne.</td> 
-  </tr> 
-  <tr> 
-   <td>Société ou fournisseur d'accès Internet inférés</td> 
-   <td>La société, comme déduit de l’adresse IP des visiteurs. <br> <strong>Noms en gras</strong> indiquez qu’il s’agit de la société, et non du FAI. </td> 
-  </tr> 
-  <tr> 
-   <td>Pages vues</td> 
-   <td>Nombre de pages chargées par les visiteurs.</td> 
-  </tr> 
-  <tr> 
-   <td>Personnes</td> 
-   <td>Nombre de personnes de cette société qui ont visité votre site.</td> 
-  </tr> 
-  <tr> 
-   <td>Pays, État/Région Et Ville</td> 
-   <td>Emplacement géographique de l’entreprise.</td> 
-  </tr> 
-  <tr> 
-   <td>Première/Dernière Visite (Fuseau Horaire)</td> 
-   <td>Date et heure de la première/dernière visite d'un membre de cette société.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Colonne(s)</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Société</td>
+   <td>L'entreprise des visiteurs.<br> <strong>Noms en gras</strong> sont confirmés comme étant le nom de la société par au moins une personne.</td>
+  </tr>
+  <tr>
+   <td>Société ou fournisseur d'accès Internet inférés</td>
+   <td>La société, comme déduit de l’adresse IP des visiteurs. <br> <strong>Noms en gras</strong> indiquez qu’il s’agit de la société, et non du FAI. </td>
+  </tr>
+  <tr>
+   <td>Pages vues</td>
+   <td>Nombre de pages chargées par les visiteurs.</td>
+  </tr>
+  <tr>
+   <td>Personnes</td>
+   <td>Nombre de personnes de cette société qui ont visité votre site.</td>
+  </tr>
+  <tr>
+   <td>Pays, État/Région Et Ville</td>
+   <td>Emplacement géographique de l’entreprise.</td>
+  </tr>
+  <tr>
+   <td>Première/Dernière Visite (Fuseau Horaire)</td>
+   <td>Date et heure de la première/dernière visite d'un membre de cette société.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

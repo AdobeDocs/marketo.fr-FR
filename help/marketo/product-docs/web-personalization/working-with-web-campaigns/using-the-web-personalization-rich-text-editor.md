@@ -4,7 +4,7 @@ description: Utilisation de l’éditeur de texte enrichi Web Personalization - 
 title: Utilisation de l’éditeur de texte enrichi Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 6%
@@ -19,34 +19,34 @@ L’éditeur de texte enrichi [!DNL Web Personalization] de la page [!UICONTROL 
 
 Les icônes importantes de l’éditeur de texte enrichi sont les suivantes :
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>Modifier la source HTML</strong></td> 
-   <td colspan="1">Permet d’afficher le code source HTML</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><p><strong>Insérer/Modifier l’image</strong><br></p></td> 
-   <td colspan="1">Insère une URL d’image pour que les images graphiques apparaissent dans l’éditeur</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>Insérer une image à partir de Design Studio</strong></td> 
-   <td colspan="1"><em>Après avoir cliqué</em> sur l’icône <strong>Insérer/Modifier l’image</strong>, utilisez-la pour sélectionner des images dans votre Marketo Design Studio</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><p><strong>Insérer/Modifier le lien</strong><br></p></td> 
-   <td colspan="1">Permet d’ajouter des liens hypertexte au texte ou aux images</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>Insérer / Modifier jeton</strong></td> 
-   <td colspan="1">Utiliser des jetons d’entreprise ou de personne pour personnaliser votre campagne web</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>Modifier la source HTML</strong></td>
+   <td colspan="1">Permet d’afficher le code source HTML</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><p><strong>Insérer/Modifier l’image</strong><br></p></td>
+   <td colspan="1">Insère une URL d’image pour que les images graphiques apparaissent dans l’éditeur</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>Insérer une image à partir de Design Studio</strong></td>
+   <td colspan="1"><em>Après avoir cliqué</em> sur l’icône <strong>Insérer/Modifier l’image</strong>, utilisez-la pour sélectionner des images dans votre Marketo Design Studio</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><p><strong>Insérer/Modifier le lien</strong><br></p></td>
+   <td colspan="1">Permet d’ajouter des liens hypertexte au texte ou aux images</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>Insérer / Modifier jeton</strong></td>
+   <td colspan="1">Utiliser des jetons d’entreprise ou de personne pour personnaliser votre campagne web</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

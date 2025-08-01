@@ -4,7 +4,7 @@ description: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Entreprise/
 title: Étape 1 sur 3 - Ajouter des champs Marketo à Salesforce (Entreprise/Illimité)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '753'
 ht-degree: 9%
@@ -53,47 +53,47 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
 
 1. Saisissez les [!UICONTROL Libellé du champ], [!UICONTROL Longueur] et [!UICONTROL Nom du champ] pour le champ, comme illustré dans le tableau ci-dessous.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Intitulé de champ 
-    </div></th> 
-   <th> 
+      Intitulé de champ
+    </div></th>
+   <th>
     <div>
-      Nom du champ 
-    </div></th> 
-   <th> 
+      Nom du champ
+    </div></th>
+   <th>
     <div>
-      Type de données 
-    </div></th> 
-   <th> 
+      Type de données
+    </div></th>
+   <th>
     <div>
-      Attributs de champ 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Score</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>Nombre</td> 
-   <td>Longueur 10<br>Décimales 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Date d'acquisition</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>Date/heure</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>Programme d'acquisition</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
- </tbody> 
+      Attributs de champ
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Score</td>
+   <td>mkto71_Lead_Score</td>
+   <td>Nombre</td>
+   <td>Longueur 10<br>Décimales 0 </td>
+  </tr>
+  <tr>
+   <td>Date d'acquisition</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>Date/heure</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>Programme d'acquisition</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -129,111 +129,111 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Dans le menu Générer sur la gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez Contacts. Cliquez sur [!UICONTROL &#x200B; Champs &#x200B;].
+1. Dans le menu Générer sur la gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez Contacts. Cliquez sur [!UICONTROL  Champs ].
 1. Exécutez les étapes 3 à 10 pour les champs Score, Date d&#39;acquisition et Programme d&#39;acquisition sur l&#39;objet de contact, comme vous l&#39;avez fait pour l&#39;objet de prospect.
 1. Vous pouvez éventuellement utiliser la procédure ci-dessus pour tout champ personnalisé supplémentaire de ce tableau.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Intitulé de champ 
-    </div></th> 
-   <th> 
+      Intitulé de champ
+    </div></th>
+   <th>
     <div>
-      Nom du champ 
-    </div></th> 
-   <th> 
+      Nom du champ
+    </div></th>
+   <th>
     <div>
-      Type de données 
-    </div></th> 
-   <th> 
+      Type de données
+    </div></th>
+   <th>
     <div>
-      Attributs de champ 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>ID du programme d’acquisition</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Nombre</td> 
-   <td>Longueur 18<br>Nombre De Décimales 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Référent d'origine</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Moteur de recherche d'origine</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Phrase de recherche d'origine</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Informations sur la source d'origine</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Type de source d'origine</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Ville déduite</td> 
-   <td>mkto71_Inferred_City</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Société déduite</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Pays déduit</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Aire métropolitaine déduite</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Indicatif téléphonique local déduit</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Code postal déduit</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
-  <tr> 
-   <td>Région déduite</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>Texte</td> 
-   <td>Longueur 255</td> 
-  </tr> 
- </tbody> 
+      Attributs de champ
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>ID du programme d’acquisition</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>Nombre</td>
+   <td>Longueur 18<br>Nombre De Décimales 0 </td>
+  </tr>
+  <tr>
+   <td>Référent d'origine</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Moteur de recherche d'origine</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Phrase de recherche d'origine</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Informations sur la source d'origine</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Type de source d'origine</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Ville déduite</td>
+   <td>mkto71_Inferred_City</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Société déduite</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Pays déduit</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Aire métropolitaine déduite</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Indicatif téléphonique local déduit</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Code postal déduit</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+  <tr>
+   <td>Région déduite</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>Texte</td>
+   <td>Longueur 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

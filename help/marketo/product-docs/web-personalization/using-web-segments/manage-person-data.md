@@ -4,7 +4,7 @@ description: Gestion Des Données De Personne - Documents Marketo - Documentatio
 title: Gérer les données de personne
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 23%
@@ -49,54 +49,54 @@ Tirez parti des données de personne pour les [!DNL Web Personalization] en sél
    >* La longueur maximale de chaînes de caractères est de 255 caractères.
    >* Les champs masqués seront automatiquement supprimés
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST API Nom</p></th> 
-   <th><p>SOAP API Nom</p></th> 
-   <th><p>Nom convivial</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>service</p></td> 
-   <td><p>Service</p></td> 
-   <td><p>Service</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>titre</p></td> 
-   <td><p>Titre</p></td> 
-   <td><p>Intitulé du poste</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>évaluation</p></td> 
-   <td><p>Évaluation</p></td> 
-   <td><p>Évaluation</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadScore</p></td> 
-   <td><p>LeadScore</p></td> 
-   <td><p>Score</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>LeadStatus</p></td> 
-   <td><p>Statut</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>priorité</p></td> 
-   <td><p>Priorité</p></td> 
-   <td><p>Priorité</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Rôle</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>désabonné</p></td> 
-   <td><p>Désabonné</p></td> 
-   <td><p>Désabonné</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST API Nom</p></th>
+   <th><p>SOAP API Nom</p></th>
+   <th><p>Nom convivial</p></th>
+  </tr>
+  <tr>
+   <td><p>service</p></td>
+   <td><p>Service</p></td>
+   <td><p>Service</p></td>
+  </tr>
+  <tr>
+   <td><p>titre</p></td>
+   <td><p>Titre</p></td>
+   <td><p>Intitulé du poste</p></td>
+  </tr>
+  <tr>
+   <td><p>évaluation</p></td>
+   <td><p>Évaluation</p></td>
+   <td><p>Évaluation</p></td>
+  </tr>
+  <tr>
+   <td><p>leadScore</p></td>
+   <td><p>LeadScore</p></td>
+   <td><p>Score</p></td>
+  </tr>
+  <tr>
+   <td><p>leadStatus</p></td>
+   <td><p>LeadStatus</p></td>
+   <td><p>Statut</p></td>
+  </tr>
+  <tr>
+   <td><p>priorité</p></td>
+   <td><p>Priorité</p></td>
+   <td><p>Priorité</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>LeadRole</p></td>
+   <td><p>Rôle</p></td>
+  </tr>
+  <tr>
+   <td><p>désabonné</p></td>
+   <td><p>Désabonné</p></td>
+   <td><p>Désabonné</p></td>
+  </tr>
+ </tbody>
 </table>
 
 Les champs de prospect suivants sont fournis prêts à l’emploi pour les nouveaux comptes [!DNL Web Personalization] :

@@ -4,7 +4,7 @@ description: Utilisation du flux de leads - Documents Marketo - Documentation du
 title: Utilisation du flux de leads
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 2%
@@ -29,45 +29,45 @@ Lors de son affichage dans [!DNL Salesforce], chaque élément comporte :
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Élément</p></td> 
-   <td><p>Description</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Lead/Contact</p></td> 
-   <td><p>Personne qui a vécu ce moment intéressant</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Type D’Événement</p></td> 
-   <td><p>Catégorie pour ce moment : web, e-mail ou jalon</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Nom du compte</p></td> 
-   <td><p>Nom de la société</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Heure</p></td> 
-   <td><p>Quand ce moment intéressant s'est produit</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Description de l’événement</p></td> 
-   <td><p>Raison de ce moment intéressant</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. S'abonner</p></td> 
-   <td><p>Recevoir une notification par e-mail pour des événements comme celui-ci</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Étoile</p></td> 
-   <td><p>Cette personne est un meilleur pari (priorité élevée)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Élément</p></td>
+   <td><p>Description</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Lead/Contact</p></td>
+   <td><p>Personne qui a vécu ce moment intéressant</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Type D’Événement</p></td>
+   <td><p>Catégorie pour ce moment : web, e-mail ou jalon</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Nom du compte</p></td>
+   <td><p>Nom de la société</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Heure</p></td>
+   <td><p>Quand ce moment intéressant s'est produit</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Description de l’événement</p></td>
+   <td><p>Raison de ce moment intéressant</p></td>
+  </tr>
+  <tr>
+   <td><p>F. S'abonner</p></td>
+   <td><p>Recevoir une notification par e-mail pour des événements comme celui-ci</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Étoile</p></td>
+   <td><p>Cette personne est un meilleur pari (priorité élevée)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Obtention des mises à jour RSS {#getting-rss-updates}

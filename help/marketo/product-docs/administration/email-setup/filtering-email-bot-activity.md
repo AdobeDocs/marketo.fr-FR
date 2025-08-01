@@ -1,33 +1,33 @@
 ---
-description: Filtrage de l’activité des robots de messagerie électronique - Documents Marketo - Documentation du produit
-title: Filtrage de l’activité des robots de messagerie
+description: Filtrage de l’activité de robot d’e-mail - Documents Marketo - Documentation du produit
+title: Filtrage de l’activité des robots d’e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
 
-# Filtrage de l’activité des robots de messagerie {#filtering-email-bot-activity}
+# Filtrage de l’activité des robots d’e-mail {#filtering-email-bot-activity}
 
-Parfois, l’activité de robots de messagerie peut gonfler par erreur les ouvertures de votre email et les données de clics. Suivez les étapes ci-dessous pour résoudre ce problème.
+Parfois, l’activité des robots d’e-mail peut gonfler par erreur les données d’ouvertures d’e-mail et de clics. Suivez les étapes ci-dessous pour résoudre ce problème.
 
 Nous utilisons deux méthodes distinctes pour confirmer l’activité des robots :
 
-* Correspondance avec la [liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} : les activités qui correspondent à tout élément de la liste IAB UA/IP (User Agent/IP address) seront marquées comme des robots.
+* Correspondance avec [liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} : les activités qui correspondent à tout ce qui figure dans la liste IAB UA/IP (agent utilisateur/adresse IP) seront marquées comme des robots.
 * Correspondance avec le modèle de proximité : lorsque plusieurs activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
-   * Identifiant de piste (doit être le même)
-   * Ressource de messagerie électronique (doit être identique)
-   * Clic sur un lien ou ouverture d’un courrier électronique
-   * Différence horaire (doit être inférieure à une seconde)
+   * ID de lead (doit être le même)
+   * Ressource e-mail (doit être la même)
+   * Clic sur un lien ou ouverture d’un e-mail
+   * Décalage horaire (doit être inférieur à une seconde)
 
-Par rapport aux clics sur les liens de courrier électronique et à l’activité d’ouverture de courrier électronique, de nouveaux attributs seront renseignés avec les valeurs ci-dessous :
+Par rapport aux activités clic sur les liens d’e-mail et ouverture de l’e-mail , les nouveaux attributs seront renseignés avec les valeurs ci-dessous :
 
-* Les activités identifiées comme des robots auront &quot;Activité de robot&quot; comme &quot;True&quot; et &quot;Modèle d’activité de robot&quot; comme modèle/méthode identifié.
-* Les activités identifiées comme n’étant pas des robots auront &quot;Activité des robots&quot; comme &quot;False&quot; et &quot;Modèle d’activité des robots&quot; comme &quot;N/A&quot;.
-* Les activités qui se sont produites avant l’introduction de ces attributs auront &quot;Activité de robot&quot; comme &quot;&quot; (vide) et &quot;Modèle d’activité de robot&quot; comme &quot;&quot; (vide).
+* Les activités identifiées comme des robots auront « Activité de robot » comme « Vrai » et « Modèle d’activité de robot » comme modèle/méthode identifié
+* Les activités identifiées comme n’étant pas des robots auront « Activité de robot » comme « Fausse » et « Modèle d’activité de robot » comme « S.O. »
+* Les activités qui se sont produites avant l’introduction de ces attributs auront « Activité de robot » comme « » (vide) et « Modèle d’activité de robot » comme « » (vide)
 
 ## Sélectionner le type de filtre {#select-filter-type}
 
@@ -39,35 +39,35 @@ Par rapport aux clics sur les liens de courrier électronique et à l’activit�
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Activité de robot]** .
+1. Cliquez sur l’onglet **[!UICONTROL Activité de robot]**.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Vous avez le choix entre deux curseur. Vous ne pouvez activer qu’un seul ou les deux. Si vous activez l’option **[!UICONTROL Correspondance avec la liste IAB]**, choisissez d’activer l’activité  _ou_ [!UICONTROL filtrer l’activité de robot].
+1. Vous avez le choix entre deux curseurs. Vous pouvez en activer un seul ou les deux. Si vous activez **[!UICONTROL Correspondre avec la liste IAB]**, choisissez de [!UICONTROL consigner l’activité de robot] _ou_ [!UICONTROL filtrer l’activité de robot].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Si vous activez l’option **[!UICONTROL Correspondance avec le modèle de proximité]**, choisissez si vous souhaitez  _ou_ [!UICONTROL filtrer l’activité de robot]. Vous pouvez également définir la durée en secondes de **durée entre les activités** (la valeur par défaut est 0, la valeur maximale est 3).
+1. Si vous activez **[!UICONTROL Correspondance avec le modèle de proximité]**, choisissez de [!UICONTROL consigner l’activité de robot] _ou_ [!UICONTROL filtrer l’activité de robot]. Vous pouvez également définir le nombre de secondes pour **Durée entre les activités** (0 par défaut, 3 au maximum).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->**Durée entre les activités** définie sur 0 seconde, nous identifierons les activités de courrier électronique qui se produisent exactement à la même seconde. Si plusieurs activités de courrier électronique se produisent au cours de la durée indiquée, elles sont identifiées comme une activité de robot.
+>Lorsque la valeur **Durée entre les activités** est définie sur 0 seconde, nous identifions les activités d’e-mail qui se produisent exactement à la même seconde. Si plusieurs activités de courrier électronique se produisent dans le délai spécifié de secondes, elles seront identifiées comme des activités de robots.
 
 >[!IMPORTANT]
 >
->* Si vous choisissez [!UICONTROL Filtrer l’activité des robots], il se peut qu’une baisse des ouvertures d’email et des clics s’affiche, car les fausses activités sont éliminées.
+>* Si vous choisissez [!UICONTROL Filtrer l’activité des robots], une baisse des ouvertures d’e-mails et des clics peut s’afficher, car les fausses activités sont éliminées.
 
-**ÉTAPE FACULTATIVE** : pour désactiver l’une des fonctionnalités, désélectionnez simplement le curseur approprié. Si vous le faites, les données ne sont pas réinitialisées.
+**ÉTAPE FACULTATIVE** : pour désactiver l’une des fonctionnalités, désélectionnez simplement le curseur correspondant. Si vous le faites, les données ne sont pas réinitialisées.
 
 >[!TIP]
 >
->Tirez parti des données d’activité de robots dans les listes dynamiques par l’intermédiaire de la valeur booléenne &quot;Is Bot Activity&quot; (yes/no) et &quot;Bot Activity Pattern&quot; des filtres &quot;Lien cliqué dans le courrier électronique&quot; et &quot;Open Email&quot;, ainsi que des déclencheurs &quot;Clicks Link in Email&quot; et &quot;Opens Email&quot;.
+>Tirez parti des données d’activité des robots dans les listes dynamiques via les valeurs booléennes « Est une activité de robot » (oui/non) et « Modèle d’activité de robot » dans les filtres « Lien cliqué dans l’e-mail » et « Ouvrir l’e-mail », ainsi que les déclencheurs « Clics sur le lien dans l’e-mail » et « Ouvre l’e-mail ».
 
-## LISTE BLOQUÉE IP {#ip-blocklist}
+## IP, Place sur la liste bloquée {#ip-blocklist}
 
-Nous avons compilé une liste des adresses IP responsables de la génération de millions d’engagements factices, car l’engagement reçu de l’une des adresses IP suivantes est automatiquement filtré et n’est pas ajouté à votre instance de Marketo Engage. Cela peut se traduire par une réduction des ouvertures d’email, des clics et d’autres activités associées. La liste ci-dessous peut être mise à jour régulièrement.
+Nous avons compilé une liste d’adresses IP responsables de la génération de millions de faux engagements, car ces engagements reçus de l’une des adresses IP suivantes sont automatiquement filtrés et ne sont pas ajoutés à votre instance Marketo Engage. Cela peut entraîner une réduction des ouvertures d’e-mail, des clics et d’autres activités associées. La liste ci-dessous peut être mise à jour périodiquement.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -123,4 +123,4 @@ Nous avons compilé une liste des adresses IP responsables de la génération de
 
 >[!NOTE]
 >
->Nous analysons et analysons méticuleusement chaque adresse IP avant de l’ajouter à cette liste, en veillant à ce que seules les adresses IP les plus critiques et les plus nocives soient bloquées.
+>Nous analysons et examinons minutieusement chaque adresse IP avant de l&#39;ajouter à cette liste, en nous assurant que seules les adresses IP les plus critiques et les plus dangereuses sont bloquées.

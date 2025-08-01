@@ -3,7 +3,7 @@ description: Ajout D’Un Jeu D’Autorisations Sales Insight - Documents Market
 title: Ajout d’un jeu d’autorisations Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 3%
@@ -28,53 +28,53 @@ L’autorisation « Application Marketo » fait partie du package [!DNL Sales In
 
 **Paramètres de l’objet**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>Détails de la vue des meilleurs paris</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>Meilleures vues</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>CacheMomentsIntéressants</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>Configuration du [!DNL Sales Insight] Marketo</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>Valeurs</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
-  <tr> 
-   <td>CacheActivitéWeb</td> 
-   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>Détails de la vue des meilleurs paris</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>Meilleures vues</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>CacheMomentsIntéressants</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>Configuration du [!DNL Sales Insight] Marketo</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>Valeurs</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+  <tr>
+   <td>CacheActivitéWeb</td>
+   <td>Lecture, Création, Modification, Suppression, Afficher tout, Modifier tout</td>
+  </tr>
+ </tbody>
 </table>
 
 * Accès aux classes Apex : 159 classes Apex commençant par « mkto_si »

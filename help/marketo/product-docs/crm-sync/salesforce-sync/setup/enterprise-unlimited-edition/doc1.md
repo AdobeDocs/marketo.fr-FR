@@ -4,7 +4,7 @@ title: Étape 1 sur 3 - Ajouter des champs Marketo à Salesforce (Entreprise/Ill
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%

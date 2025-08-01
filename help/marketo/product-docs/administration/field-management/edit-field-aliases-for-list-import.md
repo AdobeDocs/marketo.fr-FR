@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360346
 description: Modifier les alias de champ pour l’importation de liste - Documents Marketo - Documentation du produit
-title: Modifier les alias de champ pour l’importation de listes
+title: Modifier les alias de champ pour l’importation de liste
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# Modifier les alias de champ pour l’importation de listes {#edit-field-aliases-for-list-import}
+# Modifier les alias de champ pour l’importation de liste {#edit-field-aliases-for-list-import}
 
-Lorsque vous importez une liste avec des en-têtes inconnus, vous pouvez créer des alias de champ pour faciliter cette opération. Vous pouvez également modifier ces alias dans la gestion des champs. Regardez-le.
+Lorsque vous importez une liste dont les en-têtes sont inconnus, vous pouvez créer des alias de champ pour faciliter la tâche. Vous pouvez également modifier ces alias dans la gestion des champs. Regarde ça.
 
 >[!NOTE]
 >
@@ -31,18 +31,18 @@ Lorsque vous importez une liste avec des en-têtes inconnus, vous pouvez créer 
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. Dans la liste déroulante **[!UICONTROL Field Actions]**, cliquez sur **[!UICONTROL Modifier les alias d’importation]**.
+1. Dans la liste déroulante **[!UICONTROL Actions de champ]**, cliquez sur **[!UICONTROL Modifier les alias d’importation]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
-1. Saisissez un Alias et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un alias et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
->Cliquez sur **[!UICONTROL Ajouter]** et saisissez d’autres alias si vous en avez besoin.
+>Cliquez sur **[!UICONTROL Ajouter autre]** et saisissez d’autres alias si vous en avez besoin.
 
-Regarde ça ! Maintenant, si vous importez une feuille de calcul avec une colonne nommée &quot;DOB&quot;, Marketo la reconnaîtra automatiquement comme &quot;Date de naissance&quot; et importera les données dans le champ approprié.
+Regarde ça ! Désormais, si vous importez une feuille de calcul avec une colonne nommée « DOB », Marketo la reconnaîtra automatiquement comme étant sa « date de naissance » et importera les données dans le champ approprié.
 
 ![](assets/edit-field-aliases-for-list-import-6.png)

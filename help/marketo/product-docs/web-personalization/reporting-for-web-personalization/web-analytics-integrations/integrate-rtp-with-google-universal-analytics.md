@@ -4,7 +4,7 @@ description: Intégration du RTP à Google Universal Analytics - Documentation d
 title: Intégration du RTP à Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 3%
@@ -43,7 +43,6 @@ Cette publication explique comment configurer et intégrer la plateforme [!DNL M
    1. Sélectionnez le **[!UICONTROL Compte].**
    1. Sélectionnez la **[!UICONTROL Propriété].**
    1. Sélectionnez **[!UICONTROL Définitions personnalisées]** et **[!UICONTROL Dimensions personnalisées]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Ajoutez une nouvelle dimension personnalisée. Cliquez sur **[!UICONTROL +Nouveau Dimension personnalisé]**
@@ -52,34 +51,34 @@ Cette publication explique comment configurer et intégrer la plateforme [!DNL M
 
 1. Ajoutez les **[!UICONTROL dimensions personnalisées] suivantes :**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Nom de Dimension personnalisé</strong></p></td> 
-   <td><p><strong>Portée</strong></p></td> 
-   <td><p><strong>Actif</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Organisation</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Industrie</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Category</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>Groupe RTP</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Nom de Dimension personnalisé</strong></p></td>
+   <td><p><strong>Portée</strong></p></td>
+   <td><p><strong>Actif</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Organisation</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Industrie</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Category</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>Groupe RTP</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -119,7 +118,7 @@ Une fois que vous avez activé les dimensions personnalisées dans GUA, accédez
 ## Supprimer les anciens tableaux de bord dans Google Analytics {#remove-old-dashboards-in-google-analytics}
 
 1. Dans Google Analytics. Accédez à **[!UICONTROL Reporting].**
-1. Cliquez sur **[!UICONTROL Tableaux de bord &#x200B;].**.
+1. Cliquez sur **[!UICONTROL Tableaux de bord ].**.
 1. Sélectionnez un **[!UICONTROL Tableau de bord]** (RTP B2B ou Performances RTP)
 1. Cliquez sur **[!UICONTROL Supprimer le tableau de bord]**.
 

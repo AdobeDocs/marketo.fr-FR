@@ -4,7 +4,7 @@ description: Ajout d’une URL Target à une campagne web - Documents Marketo - 
 title: Ajout d’une URL Target à une campagne web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 1%
@@ -29,23 +29,23 @@ L’URL de Target se trouve sous la page Définir la campagne et définit l’UR
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nom</th> 
-   <th colspan="1" rowspan="1">Description</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
-   <td colspan="1" rowspan="1"><p>Autoriser l’affichage de la campagne sur n’importe quelle page</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Inclure le paramètre d’URL lors de la correspondance]</strong></p></td> 
-   <td colspan="1" rowspan="1">Ajoutez le paramètre d’URL pour faire correspondre et afficher la campagne sur les URL comprenant ce paramètre. Par exemple, campaign=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nom</th>
+   <th colspan="1" rowspan="1">Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td>
+   <td colspan="1" rowspan="1"><p>Autoriser l’affichage de la campagne sur n’importe quelle page</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Inclure le paramètre d’URL lors de la correspondance]</strong></p></td>
+   <td colspan="1" rowspan="1">Ajoutez le paramètre d’URL pour faire correspondre et afficher la campagne sur les URL comprenant ce paramètre. Par exemple, campaign=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Ajout de plusieurs URL à l’URL cible {#adding-multiple-urls-to-target-url}

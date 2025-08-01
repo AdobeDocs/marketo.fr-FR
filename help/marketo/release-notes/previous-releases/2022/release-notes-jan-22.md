@@ -2,7 +2,7 @@
 description: Notes De Mise À Jour - Janvier 2022 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Janvier 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 0%

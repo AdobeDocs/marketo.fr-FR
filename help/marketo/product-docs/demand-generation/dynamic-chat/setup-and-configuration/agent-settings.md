@@ -3,7 +3,7 @@ description: Paramètres de l’agent - Documents Marketo - Documentation du pro
 title: Paramètres de l’agent
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ Définissez votre fuseau horaire et la disponibilité du jour/de la semaine pour
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Durée de la réunion</b></td>
    <td>Détermine la durée pendant laquelle les visiteurs verront vos créneaux horaires disponibles.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Période tampon entre les réunions</b></td>
    <td>Durée définie comme tampon après la réunion. Si vous la fixez à 30 minutes, personne ne pourra réserver une réunion avec vous jusqu'à 30 minutes après la fin prévue d'une réunion sur votre calendrier.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]
