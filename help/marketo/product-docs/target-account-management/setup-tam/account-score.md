@@ -47,9 +47,9 @@ Dans le monde complexe des processus d’achat B2B, il est rare qu’une seule p
 >Pour calculer les scores du compte, vous devez d’abord créer les scores des prospects. Marketo TAM agrège automatiquement les scores de prospect aux scores de compte. Par exemple, nous allons prendre deux des exemples ci-dessus (_score de l’intérêt du produit du compte_ et _score de l’engagement sur le web du compte_).
 >
 >Créez tout d’abord des champs de score de prospect qui capturent les détails pertinents de chaque prospect d’un compte cible.
->>Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :
->>Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)
->>Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
+>&#x200B;>Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :
+>&#x200B;>Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)
+>&#x200B;>Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
 
 >[!NOTE]
 >

@@ -71,7 +71,7 @@ Dans la nouvelle carte de conformité, les utilisateurs peuvent suivre la source
 
 Là encore, les utilisateurs peuvent choisir parmi de nombreuses options de liste déroulante, notamment :
 
-* [!UICONTROL  Synchronisation CRM ]
+* [!UICONTROL &#x200B; Synchronisation CRM &#x200B;]
 * [!UICONTROL Importer]
 * [!UICONTROL Chargement manuel]
 * [!UICONTROL Extension Chrome]
@@ -83,7 +83,7 @@ Lorsque la vue Détails de la personne est ouverte, cliquez sur **[!UICONTROL Mo
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Deux listes déroulantes s’affichent : [!UICONTROL  Type d’autorisation ] et [!UICONTROL Type de Source].
+Deux listes déroulantes s’affichent : [!UICONTROL &#x200B; Type d’autorisation &#x200B;] et [!UICONTROL Type de Source].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 

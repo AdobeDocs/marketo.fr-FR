@@ -29,7 +29,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Connectez-vous à votre compte [!DNL Dynamic Tag Manager] ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Accédez à **[!UICONTROL Tableau de bord ].** Cliquez sur la propriété web correspondante.
+1. Accédez à **[!UICONTROL Tableau de bord &#x200B;].** Cliquez sur la propriété web correspondante.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
@@ -45,7 +45,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Appelez la nouvelle balise : **Marketo RTP Tag**
 
-1. Supprimez le code suivant de la balise [!UICONTROL  RTP ]
+1. Supprimez le code suivant de la balise [!UICONTROL &#x200B; RTP &#x200B;]
 
    * `<script type='text/javascript'>`
    * `</script>`

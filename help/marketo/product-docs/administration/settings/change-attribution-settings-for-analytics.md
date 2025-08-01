@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vous pouvez modifier la manière dont Marketo lie les contacts aux opportunités d’attribution première touche et multitouche, aux mesures de conversion des prospects et à l’indicateur d’opportunité influencé par le marketing.
 
-Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur de revenus] dans les zones [Analyse des opportunités du programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et Analyse des prospects. Cela affectera également le rapport [!UICONTROL  Analyseur de programmes ].
+Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur de revenus] dans les zones [Analyse des opportunités du programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et Analyse des prospects. Cela affectera également le rapport [!UICONTROL &#x200B; Analyseur de programmes &#x200B;].
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

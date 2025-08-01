@@ -21,7 +21,7 @@ Les champs et boutons ci-dessous sont créés par l’API Metadata dans Salesfor
 
    ![](assets/one.png)
 
-1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 

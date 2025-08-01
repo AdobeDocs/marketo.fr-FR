@@ -54,7 +54,7 @@ Par exemple :
 
 Avertissez votre équipe marketing une fois ce processus terminé.
 
-`4` **Contactez l’assistance technique d’Adobe [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
+`4` **Contactez l’assistance technique d’Adobe [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
 
 Ce processus peut prendre jusqu’à 3 jours ouvrables.
 

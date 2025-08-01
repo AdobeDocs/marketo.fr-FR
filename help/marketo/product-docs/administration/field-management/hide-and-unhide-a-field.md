@@ -57,7 +57,7 @@ Si vous n’utilisez plus un champ dans Marketo Engage, vous pouvez le masquer d
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Recherchez et sélectionnez le champ . Dans la liste déroulante [!UICONTROL  Actions de champ ], cliquez sur **[!UICONTROL Afficher le champ]**.
+1. Recherchez et sélectionnez le champ . Dans la liste déroulante [!UICONTROL &#x200B; Actions de champ &#x200B;], cliquez sur **[!UICONTROL Afficher le champ]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
