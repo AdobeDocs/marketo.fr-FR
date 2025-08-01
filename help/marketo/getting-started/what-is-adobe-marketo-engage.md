@@ -55,7 +55,7 @@ Non ! Nous avons fait un tas de tutoriels faciles. [Commencez ici](/help/marketo
 
 ## Existe-t-il une liste de choses qui couvrent les limites, comme le nombre total d’e-mails que je peux envoyer par semaine ? {#list-of-limits}
 
-Il y en a. Les limites statiques (et autres paramètres) sont décrites [dans cet article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Il y en a. Les limites statiques (et autres paramètres) sont décrites [dans cet article](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Combien de temps Marketo conserve-t-il mes données ? {#data-retention-policy}
 

@@ -271,7 +271,7 @@ Marketo Engage dispose d’un JavaScript de suivi personnalisé ([!DNL Munchkin]
 
 ## Attentes en matière de performances {#performance-expectations}
 
-À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

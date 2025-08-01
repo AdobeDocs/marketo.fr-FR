@@ -25,7 +25,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
   <tr>
    <td>Pages de destination internationales</td>
    <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">landing pages</a> globales avez-vous ? Sont-ils utilisés par les programmes?</li>
-   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centre d’abonnement</a> configuré ?
+   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=fr" target="_blank">centre d’abonnement</a> configuré ?
    <br/>     Sinon, envisagez d’en créer un.</li></td>
   </tr>
   <tr>

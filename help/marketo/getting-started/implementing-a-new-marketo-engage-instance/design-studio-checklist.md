@@ -28,8 +28,8 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <tbody>
   <tr>
     <td>Pages de destination internationales</td>
-    <td><li>Créez <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">des pages de destination globales (libres/guidées)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Créez une page de test</a> pour tester A/B le modèle de page de destination gagnant (le cas échéant).</li></td>
+    <td><li>Créez <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">des pages de destination globales (libres/guidées)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Créez une page de test</a> pour tester A/B le modèle de page de destination gagnant (le cas échéant).</li></td>
   </tr>
   <tr>
     <td>Modèles</td>
@@ -37,7 +37,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Créez un pied de page à l’aide des <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragments de code</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Jetons</a> dans vos pages de destination pour la conformité en matière de confidentialité.</li></td>
+    <td><li>Créez un pied de page à l’aide des <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragments de code</a> ou <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Jetons</a> dans vos pages de destination pour la conformité en matière de confidentialité.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +54,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <tbody>
   <tr>
     <td>Formulaires internationaux</td>
-    <td><li>Configurez les <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formulaires globaux</a> pour des cas d’utilisation tels que les préférences d’abonnement, les téléchargements de contenu contrôlés, les demandes de démonstration, les enregistrements de webinaires, etc.</li></td>
+    <td><li>Configurez les <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formulaires globaux</a> pour des cas d’utilisation tels que les préférences d’abonnement, les téléchargements de contenu contrôlés, les demandes de démonstration, les enregistrements de webinaires, etc.</li></td>
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
@@ -62,7 +62,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Normalisation Des Données</td>
-    <td><li>Envisagez d’appliquer des listes de sélection aux <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank"> champs de formulaire </a> plutôt qu’aux champs de texte ouvert pour éviter le désordre des données.</li></td>
+    <td><li>Envisagez d’appliquer des listes de sélection aux <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank"> champs de formulaire </a> plutôt qu’aux champs de texte ouvert pour éviter le désordre des données.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,13 +83,13 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Modèles</td>
-    <td><li>Concevez un <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">modèle d’e-mail</a> basé sur un module avec un concepteur/développeur ou utilisez votre propre HTML.</li>
+    <td><li>Concevez un <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">modèle d’e-mail</a> basé sur un module avec un concepteur/développeur ou utilisez votre propre HTML.</li>
     <li>Créez un modèle d’e-mail testé pour tester A/B le modèle gagnant (le cas échéant).</li></td>
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Ajoutez des fragments de code</a> à vos modèles d’e-mail pour contrôler les blocs réutilisables tels que l’année du copyright, l’emplacement global et la langue spécifique à la conformité.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Ajoutez des jetons</a> pour personnaliser le contenu en fonction de l’audience cible.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Ajoutez des fragments de code</a> à vos modèles d’e-mail pour contrôler les blocs réutilisables tels que l’année du copyright, l’emplacement global et la langue spécifique à la conformité.</li>
+    <li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Ajoutez des jetons</a> pour personnaliser le contenu en fonction de l’audience cible.</li></td>
   </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <tbody>
   <tr>
     <td>Extraits</td>
-    <td><li>Créez des <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">fragments de code</a> pour disposer de blocs de contenu réutilisables pouvant être utilisés dans plusieurs cas d’utilisation, tels que des coordonnées, des liens vers des médias sociaux, des informations de marque et des notes de confidentialité et de conformité dans vos e-mails et landing pages.</li></td>
+    <td><li>Créez des <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">fragments de code</a> pour disposer de blocs de contenu réutilisables pouvant être utilisés dans plusieurs cas d’utilisation, tels que des coordonnées, des liens vers des médias sociaux, des informations de marque et des notes de confidentialité et de conformité dans vos e-mails et landing pages.</li></td>
   </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <tbody>
   <tr>
     <td>Structure de dossiers </td>
-    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organisez les ressources globales</a> (par exemple, les flux de conversation, les modèles d’e-mail, les e-mails, les formulaires, les images et les fichiers, les pages de destination, les modèles de page de destination, les fragments de code, etc.) de manière appropriée.</li></td>
+    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organisez les ressources globales</a> (par exemple, les flux de conversation, les modèles d’e-mail, les e-mails, les formulaires, les images et les fichiers, les pages de destination, les modèles de page de destination, les fragments de code, etc.) de manière appropriée.</li></td>
   </tr>
 </tbody>
 </table>
