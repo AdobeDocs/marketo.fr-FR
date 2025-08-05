@@ -3,9 +3,9 @@ description: Ajout d’une équipe de webinaires - Documents Marketo - Documenta
 title: Ajouter une équipe de webinaires
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Ajouter une équipe de webinaires {#add-a-webinar-team}
 
 Dans les webinaires interactifs, une équipe de webinaires comprend tous les rôles qui contribuent à la réussite de la diffusion du webinaire dans Adobe Connect. Cela inclut les présentateurs et les co-organisateurs.
-
->[!IMPORTANT]
->
->Il est vivement recommandé de [concevoir votre webinaire](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _avant_ d’ajouter des présentateurs ou des co-animateurs.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ Le présentateur est un rôle externe qui participe à la diffusion de l’expé
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> L’icône ![Copier l’URL du co-hôte](assets/icon-copy-join-url.png) copie l’URL de jointure du co-hôte et l’icône ![Envoyer un e-mail d’invitation au co-hôte](assets/icon-send-invitation-email.png) envoie au co-hôte un e-mail d’invitation.
+
 ## Ajouter un présentateur {#add-a-presenter}
 
 1. Dans la page Aperçu du webinaire interactif, cliquez sur **Ajouter des présentateurs**.
@@ -70,9 +70,9 @@ Le présentateur est un rôle externe qui participe à la diffusion de l’expé
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->Après avoir ajouté une équipe de webinaires, vous pouvez cliquer sur l’icône de copie en regard de chaque utilisateur pour copier (puis partager) ses URL de jonction.
+> L’icône ![Copier l’URL du présentateur](assets/icon-copy-join-url.png) copie l’URL de recrutement du présentateur et l’icône ![Envoyer un e-mail d’invitation au présentateur](assets/icon-send-invitation-email.png) envoie au présentateur un e-mail d’invitation.
 
 >[!MORELIKETHIS]
 >
