@@ -27,7 +27,7 @@ Marketo _applications sociales_ permet à vos prospects de partager vos landing 
 
 Vous pouvez spécifier les types d’informations de page à utiliser dans les publications riches en [!DNL Facebook] générées par des partages de votre page de destination.
 
-1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social __[!DNL YouTube_]_.
+1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social _&#x200B;_[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

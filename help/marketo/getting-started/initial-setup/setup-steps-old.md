@@ -98,7 +98,7 @@ Le nouvel utilisateur est désormais répertorié dans l’onglet **[!UICONTROL 
 
 ## Configurer Vos Contacts D’Assistance Autorisés {#set-up-your-authorized-support-contacts}
 
-Vous avez peut-être reçu un e-mail de l’assistance Marketo vous indiquant que vous êtes l’administrateur du service clientèle Marketo de votre société. Si tel est le cas, vous pouvez configurer des **contacts d’assistance autorisés** pour votre équipe. Seuls les contacts d’assistance autorisés peuvent contacter directement le service clientèle de Marketo par le biais du portail d’assistance Marketo [](https://support.marketo.com){target="_blank"}.
+Vous avez peut-être reçu un e-mail de l’assistance Marketo vous indiquant que vous êtes l’administrateur du service clientèle Marketo de votre société. Si tel est le cas, vous pouvez configurer des **contacts d’assistance autorisés** pour votre équipe. Seuls les contacts d’assistance autorisés peuvent contacter directement le service clientèle de Marketo par le biais du portail d’assistance Marketo [&#128279;](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
@@ -227,6 +227,7 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 placer sur la liste autorisée `3)` Marketo.
 
     * Si nous utilisons des adresses IP dans notre Place sur la liste autorisée e-mail, ajoutez les adresses IP répertoriées ci-dessous :
+
     199.15.212.0/22
     
     192.28.144.0/20

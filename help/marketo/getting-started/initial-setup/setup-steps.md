@@ -147,6 +147,7 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 placer sur la liste autorisée `3)` Marketo.
 
     * Si nous utilisons des adresses IP dans notre Place sur la liste autorisée e-mail, ajoutez les adresses IP répertoriées ci-dessous :
+
     199.15.212.0/22
     
     192.28.144.0/20
