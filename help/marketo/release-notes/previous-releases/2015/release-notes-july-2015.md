@@ -4,9 +4,9 @@ description: Notes De Mise À Jour - Juillet 2015 - Documents Marketo - Document
 title: Notes De Mise À Jour - Juillet 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Avez-vous mis en place plusieurs campagnes RTP personnalisées et remarqué que 
 
 **Accès aux objets de la société via l’API REST** : l’API REST permet désormais d’accéder à l’objet Société Marketo (ou compte). Cela signifie que vous pouvez lire, mettre à jour et supprimer des objets société que vous avez créés dans Marketo et associer des prospects à ces sociétés à l’aide de l’API [!DNL Lead] mise à jour.
 
-En savoir [plus]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) dans notre guide de référence pour l’API d’entreprise.
+En savoir [plus]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>) dans notre guide de référence pour l’API d’entreprise.
 
 ## Accéder à la délivrabilité des e-mails {#access-email-deliverability}
 

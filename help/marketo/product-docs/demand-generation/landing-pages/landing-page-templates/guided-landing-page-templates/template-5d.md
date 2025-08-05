@@ -1,10 +1,10 @@
 ---
 unique-page-id: 8783923
-description: Modèle 5D - Documents Marketo - Documentation du produit
+description: Modèle 5D - Documents Marketo - Documentation Du Produit
 title: Modèle 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # Modèle 5D {#template-5d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Un en-tête (facultatif)
+* En-tête (facultatif)
 * Une section principale
 
-   * comprend une image à forte identification et un formulaire.
+   * comprend une image de premier plan et un formulaire.
 
-* Cinq sections de contenu (facultatif)
+* Cinq sections de corps (facultatif)
 * Pied de page (facultatif)
 
-**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Template 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=fr)
+[Modèle 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)

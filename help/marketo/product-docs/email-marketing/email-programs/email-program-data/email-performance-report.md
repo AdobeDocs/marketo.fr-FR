@@ -4,7 +4,7 @@ description: Rapport sur les performances des e-mails - Documents Marketo - Docu
 title: Rapport des performances des e-mails
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 3%
@@ -36,6 +36,7 @@ Pour évaluer les performances de vos e-mails par rapport à des statistiques te
    [Sélectionner les colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport Performance des e-mails, procédez comme suit :
 
    <table><thead>
+
 <tr>
     <th>Colonne</th>
     <th>Description</th>
@@ -75,7 +76,7 @@ En général, nous essayons d&#39;utiliser le bon sens pour consigner ces statis
 
 * **Règle 1** : chaque enregistrement d’activité d’e-mail est défini sur un seul des éléments suivants : _Diffusé_, _Hard bounce_, _Soft bounce_ ou _En attente_.
 
-* **Règle 2** : si l’enregistrement de l’e-mail indique *[!UICONTROL Ouvert]*, il est comptabilisé comme *Diffusé*.
+* **Règle 2** : si l’enregistrement de l’e-mail indique _[!UICONTROL Ouvert]_, il est comptabilisé comme _Diffusé_.
 
 * **Règle 3** : si l’enregistrement d’e-mail affiche _[!UICONTROL E-mail cliqué]_ ou _[!UICONTROL Désabonné]_, il est comptabilisé comme _Diffusé_ et _Ouvert_.
 

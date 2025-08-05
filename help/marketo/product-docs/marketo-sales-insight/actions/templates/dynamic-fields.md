@@ -3,10 +3,10 @@ description: Dynamic Fields - Documents Marketo - Documentation du produit
 title: Champs dynamiques
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 1%
+source-wordcount: '535'
+ht-degree: 0%
 
 ---
 
@@ -61,9 +61,9 @@ Cet outil est utilisé pour `auto-personalize your email` et vous faire gagner d
 | `{{friendly_unsubscribe}}` | Fatigué de tous les e-mails ? Prévenez-moi ici |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn, rédacteur technique principal - Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Rédacteur technique principal |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **Points à noter** :
 

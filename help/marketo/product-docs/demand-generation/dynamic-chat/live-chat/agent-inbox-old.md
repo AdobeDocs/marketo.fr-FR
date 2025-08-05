@@ -4,7 +4,7 @@ title: Boîte de réception de l’agent(e)
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -82,4 +82,3 @@ Au bas de la fenêtre de chat en direct se trouve une icône qui vous permet de 
 1. Le visiteur du chat pourra réserver une réunion.
 
    ![](assets/agent-inbox-10.png)
-

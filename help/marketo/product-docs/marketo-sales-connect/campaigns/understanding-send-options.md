@@ -4,7 +4,7 @@ description: Présentation Des Options D’Envoi - Documents Marketo - Documenta
 title: Comprendre les options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -63,4 +63,3 @@ Pour les jours/étapes suivants de votre campagne, vous disposez des options sui
 **Relier cet e-mail au précédent**
 
 * Cette option d’envoi sera un « suivi » de votre e-mail précédent et ajoutera le corps de l’e-mail précédent au bas de cet e-mail.
-

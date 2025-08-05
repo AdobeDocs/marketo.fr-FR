@@ -3,9 +3,9 @@ description: Présentation Du Suivi Des E-Mails - Documents Marketo - Documentat
 title: Présentation du suivi des e-mails
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Le suivi des réponses est effectué en examinant l’identifiant du message qui
 
 Si [!DNL Sales Connect] ne parvient pas à suivre la réponse de votre prospect à votre e-mail, il ne sera pas en mesure d’arrêter une campagne basée sur la détection de réponse ou de consigner cette réponse dans Salesforce. Que signifie une adresse e-mail à laquelle une personne peut répondre ?
 
-Cela signifie que si vous envoyez un e-mail à flynn@flynnsarcade.com et qu’il répond par kevinf@flynnsarcade.com, nous pouvons suivre la réponse. De plus, si vous envoyez un e-mail à flynn@flynnsarcade.com et CC alan@encom.com, et qu’Alan vous répond, il détectera également la réponse et terminera la campagne.
+Cela signifie que si vous envoyez un e-mail à <flynn@flynnsarcade.com> et qu’il répond avec <kevinf@flynnsarcade.com>, nous pouvons suivre la réponse. De plus, si vous envoyez un e-mail à <flynn@flynnsarcade.com> et à CC <alan@encom.com> et qu’Alan vous réécrit, la réponse sera également détectée et la campagne sera terminée.
 
 ## Comment effectuer le suivi des pièces jointes à un e-mail {#how-to-track-your-email-attachments}
 

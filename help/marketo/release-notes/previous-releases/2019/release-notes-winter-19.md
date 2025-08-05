@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notes De Mise À Jour - Hiver 19 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Hiver 19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 3%
@@ -53,8 +53,8 @@ Ajoutez jusqu’à cinq adresses Cc par destinataire sur les e-mails envoyés vi
 * **Service de messagerie électronique** : bénéficiez d&#39;une meilleure délivrabilité ainsi que d&#39;un meilleur suivi des réponses, de fonctionnalités de messagerie planifiée et de fonctionnalités de messagerie en masse en vous connectant à [!DNL Microsoft Outlook] (soit via Office365, soit On-Prem via l&#39;onglet Connexion par e-mail).
 * **Nouveaux paramètres d’administration** : deux pages d’administration ont été ajoutées pour optimiser votre instance Sales Engage
 
-   * _Team Management_ prend en charge un processus de configuration de compte transparent en permettant aux administrateurs de modifier les abonnements et les équipes.
-   * _Paramètres d’administration Salesforce_ aide les équipes à configurer leur synchronisation SFDC plus rapidement et plus facilement que jamais auparavant.
+   * *Team Management* prend en charge un processus de configuration de compte transparent en permettant aux administrateurs de modifier les abonnements et les équipes.
+   * *Paramètres d’administration Salesforce* aide les équipes à configurer leur synchronisation SFDC plus rapidement et plus facilement que jamais auparavant.
 
 * **Module externe OWA pour[!DNL Windows]** : avec un seul module complémentaire, tous les clients [!DNL Windows Office365] seront pris en charge dans Sales Engage, ce qui permet d’utiliser le flux en direct dans Outlook. Le nouveau plug-in sera disponible dans la boutique Microsoft.
 * **Activités de promotion** : synchronisez Sales Engage à la plateforme Marketo de base pour tirer parti des informations marketing en temps réel.

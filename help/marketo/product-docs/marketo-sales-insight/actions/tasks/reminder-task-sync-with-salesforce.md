@@ -3,7 +3,7 @@ description: Synchronisation de la tâche de rappel avec Salesforce - Documents 
 title: Synchronisation de la tâche de rappel avec Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -81,4 +81,4 @@ Pour activer cette synchronisation, cochez simplement la case de synchronisation
 
 >[!NOTE]
 >
->Le champ d’objet d’une tâche peut être mis à jour en [!DNL Sales Insight Actions] et cette mise à jour sera synchronisée dans le champ d’objet [!DNL Salesforce] de la tâche synchronisée correspondante, si vous utilisez le champ dynamique `{{activity_subject}}` dans vos paramètres [Personnalisation des détails de l’activité](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). À l’inverse, les mises à jour apportées au champ d’objet dans [!DNL Salesforce] ne seront _pas_ synchronisées avec le champ d’objet de la tâche de rappel de [!DNL Sales Insight Actions].
+>Le champ d’objet d’une tâche peut être mis à jour en [!DNL Sales Insight Actions] et cette mise à jour sera synchronisée dans le champ d’objet [!DNL Salesforce] de la tâche synchronisée correspondante, si vous utilisez le champ dynamique `{{activity_subject}}` dans vos paramètres [Personnalisation des détails de l’activité](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). À l’inverse, les mises à jour apportées au champ d’objet dans [!DNL Salesforce] ne seront *pas* synchronisées avec le champ d’objet de la tâche de rappel de [!DNL Sales Insight Actions].

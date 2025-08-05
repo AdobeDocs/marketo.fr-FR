@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352623
-description: Détails de l’accès utilisateur - Documents Marketo - Documentation du produit
-title: Détails de l’accès utilisateur
+description: Détails d’accès utilisateur - Documents Marketo - Documentation du produit
+title: Détails d’accès utilisateur
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
-# Détails de l’accès utilisateur {#user-access-details}
+# Détails d’accès utilisateur {#user-access-details}
 
 À quoi les administrateurs et les non-administrateurs ont-ils accès ?
 
@@ -25,11 +25,11 @@ Les administrateurs peuvent [afficher toutes les campagnes](/help/marketo/produc
 
 ![](assets/campaigns.jpg)
 
-Les administrateurs peuvent afficher toutes les activités de courrier électronique.
+Les administrateurs peuvent afficher toutes les activités liées aux e-mails.
 
 ![](assets/user-access-details-3.png)
 
-Les administrateurs peuvent voir toutes les personnes participant à une campagne en cours.
+Les administrateurs peuvent voir tous les utilisateurs d’une campagne en cours.
 
 ![](assets/running.jpg)
 
@@ -37,36 +37,36 @@ Tous les enregistrements de personnes sont accessibles dans le groupe Tout le mo
 
 ![](assets/viewed.jpg)
 
-Les administrateurs peuvent arrêter les campagnes pour le compte des utilisateurs.
+Les administrateurs peuvent arrêter les campagnes au nom des utilisateurs.
 
-## Autorisations des utilisateurs non administrateurs {#non-admin-user-permissions}
+## Autorisations des utilisateurs non-administrateurs {#non-admin-user-permissions}
 
 * Analytics :
 
-   * Les utilisateurs peuvent voir les analyses de l’équipe
-   * Les utilisateurs peuvent uniquement analyser les équipes auxquelles ils appartiennent.
-   * Les utilisateurs peuvent consulter leurs propres analyses.
+   * Les utilisateurs peuvent voir les analyses d’équipe.
+   * Les utilisateurs peuvent accéder uniquement aux équipes auxquelles ils appartiennent
+   * Les utilisateurs peuvent consulter leurs propres analyses
 
 * Page Relations :
 
    * Les utilisateurs peuvent partager des groupes avec tout le monde
-   * Les utilisateurs peuvent partager des groupes avec les équipes auxquelles ils appartiennent.
-   * Lorsqu’un utilisateur est supprimé, ses contacts partagés transfèrent la propriété à l’administrateur de Principal qui l’a supprimé.
+   * Les utilisateurs peuvent partager des groupes avec les équipes auxquelles ils appartiennent uniquement
+   * Lorsqu’un utilisateur est supprimé, ses contacts partagés transfèrent la propriété à l’administrateur de Principal qui a supprimé l’utilisateur
 
-* Délai de vente : flux suivant et réel :
+* Sales Beat - Next and Live Feed :
 
-   * Les utilisateurs peuvent afficher la vue &quot;Tous&quot;
-   * Les utilisateurs peuvent filtrer par équipe à laquelle ils appartiennent.
-   * L’utilisateur peut partager des publications avec tout le monde.
-   * Les utilisateurs peuvent partager des publications avec la ou les équipes auxquelles ils appartiennent.
+   * Les utilisateurs peuvent afficher la vue « Tout le monde »
+   * Les utilisateurs peuvent filtrer selon la ou les équipes auxquelles ils appartiennent
+   * L&#39;utilisateur peut partager des publications avec tout le monde
+   * Les utilisateurs peuvent partager des publications uniquement avec la ou les équipes auxquelles ils appartiennent
 
-* Page Gestion des équipes :
+* Page Gestion de l&#39;équipe :
 
-   * Impossible d’afficher
+   * Affichage impossible
 
 * Page Modèles :
 
-   * Les utilisateurs peuvent partager des modèles avec tous les utilisateurs
-   * Les utilisateurs peuvent partager des modèles dans des catégories que leurs administrateurs leur permettent de
-   * Lorsqu’un utilisateur est retiré d’une équipe, ses modèles ne sont plus partagés avec cette équipe.
-   * Lorsqu’un utilisateur est supprimé d’une équipe, ses modèles transfèrent la propriété à l’administrateur de Principal qui l’a supprimé.
+   * Les utilisateurs peuvent partager des modèles avec tout le monde
+   * Les utilisateurs peuvent partager des modèles dans les catégories autorisées par leurs administrateurs
+   * Lorsque l’utilisateur est supprimé d’une équipe, ses modèles ne sont pas partagés avec cette équipe
+   * Lorsque l’utilisateur est supprimé d’une équipe, ses modèles transfèrent la propriété à l’administrateur de Principal qui l’a supprimé

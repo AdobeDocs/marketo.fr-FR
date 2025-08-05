@@ -4,7 +4,7 @@ description: Afficher le tableau de bord des notifications push - Documents Mark
 title: Affichage du tableau de bord des notifications push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Il est facile de voir comment vont vos notifications push.
 
    >[!NOTE]
    >
-   >La mesure _Envoyés_ peut refléter plus d’envois que le nombre exact de personnes auxquelles la notification push a été envoyée. En effet, il est calculé en fonction du *nombre d’appareils* qui remplissent les critères pour recevoir votre notification push. Par exemple, si une seule personne dispose de trois appareils, le tableau de bord enregistre trois envois, et non un seul.
+   >La mesure _Envoyés_ peut refléter plus d’envois que le nombre exact de personnes auxquelles la notification push a été envoyée. En effet, il est calculé en fonction du _nombre d’appareils_ qui remplissent les critères pour recevoir votre notification push. Par exemple, si une seule personne dispose de trois appareils, le tableau de bord enregistre trois envois, et non un seul.
 
    >[!MORELIKETHIS]
    >

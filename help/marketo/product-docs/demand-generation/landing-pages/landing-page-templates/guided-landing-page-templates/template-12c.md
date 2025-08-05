@@ -1,10 +1,10 @@
 ---
 unique-page-id: 9437580
-description: Modèle 12C - Documents Marketo - Documentation du produit
+description: Modèle 12C - Documents Marketo - Documentation Du Produit
 title: Modèle 12C
 exl-id: 23229f5a-6d79-4501-bd3b-56fccc2fa4cd
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # Modèle 12C {#template-12c}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Un en-tête (facultatif)
+* En-tête (facultatif)
 * Une section principale
 
-   * inclut le titre de la principale, le texte de la principale et le questionnaire ;
+   * inclut le titre, le texte et le questionnaire du héros
 
-* Six sections de contenu (facultatif)
+* Six sections de corps (facultatif)
 * Pied de page (facultatif)
 
-**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=fr)
+[Modèle 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)

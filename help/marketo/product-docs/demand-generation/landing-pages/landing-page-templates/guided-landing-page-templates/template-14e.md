@@ -1,10 +1,10 @@
 ---
 unique-page-id: 9437813
-description: Modèle 14E - Documents Marketo - Documentation du produit
+description: Modèle 14E - Documents Marketo - Documentation Du Produit
 title: Modèle 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # Modèle 14E {#template-14e}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
 Ce modèle comprend le contenu suivant :
 
-* Un en-tête (facultatif)
+* En-tête (facultatif)
 * Une section principale
 
-   * inclut une image principale et un bouton en savoir plus ;
+   * comprend une image de premier plan et un bouton en savoir plus .
 
-* Cinq sections de contenu (facultatif)
+* Cinq sections de corps (facultatif)
 * Pied de page (facultatif)
 
-**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=fr)
+[Modèle 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)

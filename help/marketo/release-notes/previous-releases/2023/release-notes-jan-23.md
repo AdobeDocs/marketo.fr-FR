@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Janvier 2023 - Documents Marketo - Document
 title: Notes de mise à jour - Janvier 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 10%
@@ -41,6 +41,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Basculer</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **Amélioration de l’onglet Utilisé par le composant pour les détails du modèle d’e-mail et les détails du fragment de code** : le nouvel onglet Utilisé par l’interface utilisateur fournit des informations supplémentaires sur chacune des ressources Utilisées par, comme la date de sa dernière modification et la personne qui l’a effectuée. Vous pouvez facilement effectuer une analyse par le biais des fonctionnalités de recherche, de tri et de filtrage. Ce nouveau composant d’interface utilisateur sera intégré à partir des ressources Modèle d’e-mail et Extrait de code .
@@ -88,7 +89,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=fr">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

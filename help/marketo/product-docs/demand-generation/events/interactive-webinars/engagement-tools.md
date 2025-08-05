@@ -4,9 +4,9 @@ title: Outils d’engagement dans les webinaires interactifs
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ CAPTURE D’ÉCRAN
 
 ### Capsules personnalisées {#custom-pods}
 
-Les capsules personnalisées étendent les fonctionnalités fournies par Adobe Connect. Certains des pods personnalisés populaires disponibles gratuitement sont Countdown Timer, Clock, House Keeper, Titler et Word Cloud. Les capsules personnalisées peuvent être téléchargées à partir de https://apps.adobeconnect.com/ sous la forme d’un fichier .pod ou .zip.
+Les capsules personnalisées étendent les fonctionnalités fournies par Adobe Connect. Certains des pods personnalisés populaires disponibles gratuitement sont Countdown Timer, Clock, House Keeper, Titler et Word Cloud. Les capsules personnalisées peuvent être téléchargées à partir de <https://apps.adobeconnect.com/> sous la forme d’un fichier .pod ou .zip.
 
 Pour utiliser un pod personnalisé :
 

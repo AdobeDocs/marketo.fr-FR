@@ -1,10 +1,10 @@
 ---
-description: Document Temp - Documents Marketo - Documentation du produit
+description: Documentation temporaire - Documents Marketo - Documentation du produit
 title: Document temporaire
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ### Ajout d’Assets {#add-assets}
 
-Ajoutez des images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance de Marketo Engage.
+Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance Marketo Engage.
 
 >[!NOTE]
 >
@@ -35,15 +35,13 @@ Ajoutez des images stockées dans la section [Images et fichiers](/help/marketo/
    >
    >Pour remplacer une image existante, sélectionnez-la, puis cliquez sur **Sélectionner une ressource** dans l’onglet Paramètres à droite.
 
-Cliquez sur Activer le contenu des conditions pour ajouter du contenu dynamique et adapter le contenu aux profils ciblés selon des règles conditionnelles.
+Cliquez sur Activer le contenu conditionnel pour ajouter du contenu dynamique et adapter le contenu aux profils ciblés selon des règles conditionnelles.
 
-
-
-Si nécessaire, vous pouvez personnaliser davantage votre email en cliquant sur Passer à l’éditeur de code dans le menu avancé. Vous pouvez ainsi modifier le code source de l’email, par exemple pour ajouter des balises d’HTML personnalisées ou de suivi.
+Si nécessaire, vous pouvez personnaliser davantage votre e-mail en cliquant sur Basculer vers l’éditeur de code dans le menu avancé. Vous pouvez ainsi modifier le code source de l’e-mail, par exemple pour ajouter des balises HTML de suivi ou personnalisées.
 
 ATTENTION
-Vous ne pouvez pas revenir au concepteur visuel de cet email après avoir basculé vers l’éditeur de code.
+Vous ne pouvez pas revenir au concepteur visuel de cet e-mail après avoir basculé vers l’éditeur de code.
 
-Une fois votre contenu prêt, cliquez sur le bouton Simuler le contenu pour vérifier le rendu. Vous pouvez choisir la vue bureau ou la vue mobile.
+Une fois que votre contenu est prêt, cliquez sur le bouton Simuler du contenu pour vérifier le rendu. Vous pouvez choisir la vue bureau ou la vue mobile.
 
-Une fois prêt, cliquez sur Enregistrer .
+Une fois prêt, cliquez sur Enregistrer

@@ -3,9 +3,9 @@ description: Diagnostics Salesforce - Documents Marketo - Documentation du produ
 title: Diagnostics Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1344'
+source-wordcount: '1342'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. Sous [!UICONTROL &#x200B; Intégrations &#x200B;], cliquez sur **[!UICONTROL Diagnostics]**.
+1. Sous [!UICONTROL  Intégrations ], cliquez sur **[!UICONTROL Diagnostics]**.
 
    ![](assets/salesforce-diagnostics-2.png)
 
@@ -181,7 +181,7 @@ placer sur la liste autorisée **Étapes de dépannage :** votre administrateur 
 **Error:** TXN_SECURITY_NO_ACCESS
 **Category:** Access/Validation
 **Message :** l’opération que vous avez demandée n’est pas autorisée en raison d’une politique de sécurité de votre organisation. Contactez votre administrateur.
-**Que se passe-t-il** une sorte de restriction de sécurité a été configurée ? Voir https://developer.salesforce.com/forums/?id=« record ID ».
+**Que se passe-t-il** une sorte de restriction de sécurité a été configurée (voir ID de <https://developer.salesforce.com/forums/?id="record>) ?
 **Étapes de dépannage :** adressez-vous à votre administrateur [!DNL Salesforce] et vérifiez quelle peut être la restriction spécifique.
 
 **Error:** UNABLE_TO_LOCK_ROW

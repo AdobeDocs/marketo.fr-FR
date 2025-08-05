@@ -3,7 +3,7 @@ description: Découvrez les bonnes pratiques à appliquer lors de l’implément
 title: Par où commencer
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ Prise en main dans la communauté :
 1. Cliquez sur **Continuer avec Adobe ID** et sélectionnez votre abonnement principal sur la page de connexion.
 1. Une fois connecté, renseignez votre profil de communauté.
 1. Après avoir envoyé l’information, vous arriverez sur la page d’accueil de la communauté et tout sera fin prêt !
-

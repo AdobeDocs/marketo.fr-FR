@@ -4,7 +4,7 @@ title: Utiliser les messages SMS Vibes dans les déclencheurs et filtres de list
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -60,7 +60,7 @@ Vous pouvez également utiliser les filtres Vibes dans les listes dynamiques. Le
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-En revanche, le filtre **Membre de la liste Vibes** trouve _toute personne_ actuellement abonnée à Vibes et est plus adapté à une utilisation dans des campagnes ou des listes intelligentes.
+En revanche, le filtre **Membre de la liste Vibes** trouve *toute personne* actuellement abonnée à Vibes et est plus adapté à une utilisation dans des campagnes ou des listes intelligentes.
 
 ![](assets/image001.png)
 

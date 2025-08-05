@@ -4,7 +4,7 @@ description: '[!UICONTROL Listes de comptes] - Documents Marketo - Documentation
 title: '[!UICONTROL Listes de comptes]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 1%
@@ -61,7 +61,7 @@ Outre les listes de comptes, vous pouvez également créer des listes de comptes
 
 >[!NOTE]
 >
->Ces étapes s’appliquent uniquement aux listes de comptes. Les listes de comptes _dynamiques_ utilisent le nom des vues de compte CRM associées.
+>Ces étapes s’appliquent uniquement aux listes de comptes. Les listes de comptes *dynamiques* utilisent le nom des vues de compte CRM associées.
 
 1. Sélectionnez le compte à renommer, cliquez sur le menu déroulant **[!UICONTROL Actions de la liste des comptes]** et sélectionnez **[!UICONTROL Renommer la liste des comptes]**.
 

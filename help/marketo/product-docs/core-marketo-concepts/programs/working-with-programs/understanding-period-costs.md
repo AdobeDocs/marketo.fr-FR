@@ -4,7 +4,7 @@ description: Comprendre les coûts de la période - Documents Marketo - Document
 title: Comprendre les coûts de la période
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Imaginez un événement, comme un webinaire, qui a lieu en mars. De nouvelles pe
 
    ![](assets/graph1.png)
 
-   ...les contacts ajoutés au cours des mois précédents et suivants *uniquement* compteront vers le mois de mars.
+   ...les contacts ajoutés au cours des mois précédents et suivants _uniquement_ compteront vers le mois de mars.
 
    ![](assets/graph2.png)
 

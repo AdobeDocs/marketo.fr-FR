@@ -4,9 +4,9 @@ description: Diagnostics Salesforce - Documents Marketo - Documentation du produ
 title: Diagnostics Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1324'
+source-wordcount: '1322'
 ht-degree: 1%
 
 ---
@@ -192,7 +192,7 @@ placer sur la liste autorisée **Étapes de dépannage :** votre administrateur 
 **Error:** TXN_SECURITY_NO_ACCESS
 **Category:** Access/Validation
 **Message :** l’opération que vous avez demandée n’est pas autorisée en raison d’une politique de sécurité de votre organisation. Contactez l’administration.<br/>
-**Que se passe-t-il** une sorte de restriction de sécurité a été configurée ? Voir https://developer.salesforce.com/forums/?id=« record ID ».
+**Que se passe-t-il** une sorte de restriction de sécurité a été configurée (voir ID de <https://developer.salesforce.com/forums/?id="record>) ?
 **Étapes de dépannage :** adressez-vous à votre administrateur [!DNL Salesforce] et vérifiez quelle peut être la restriction spécifique.
 
 **Error:** UNABLE_TO_LOCK_ROW

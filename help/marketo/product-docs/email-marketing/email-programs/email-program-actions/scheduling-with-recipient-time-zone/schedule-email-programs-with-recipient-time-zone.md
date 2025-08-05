@@ -4,7 +4,7 @@ description: Planification de programmes de messagerie avec fuseau horaire du de
 title: Planification de programmes de messagerie électronique avec fuseau horaire du destinataire
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Vous disposez ainsi de deux options :
 >
 >* **[!UICONTROL Envoyez le jour suivant dans le fuseau horaire du destinataire]** : si l’envoi de l’e-mail est prévu pour mardi à 9 heures:00am, les personnes qualifiées qui vivent dans des fuseaux horaires où l’heure prévue est déjà passée recevront l’e-mail le *mercredi* à 9 heures:00am.
 >
->* **[!UICONTROL Envoyez l’e-mail en utilisant l’heure définie par défaut du programme]** : si l’envoi de l’e-mail est prévu pour mardi à 9 heures:00am, les personnes qualifiées qui vivent dans des fuseaux horaires où l’heure planifiée est déjà passée recevront l’e-mail _en fonction des paramètres de fuseau horaire de votre abonnement_. Ainsi, si les paramètres de votre [fuseau horaire d&#39;abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sont définis sur PDT Amérique/Los Angeles, ces destinataires recevront toujours l&#39;email le mardi à 9:00am PDT (quelle que soit l&#39;heure qui se trouve dans leur propre fuseau horaire).
+>* **[!UICONTROL Envoyez l’e-mail en utilisant l’heure définie par défaut du programme]** : si l’envoi de l’e-mail est prévu pour mardi à 9 heures:00am, les personnes qualifiées qui vivent dans des fuseaux horaires où l’heure planifiée est déjà passée recevront l’e-mail *en fonction des paramètres de fuseau horaire de votre abonnement*. Ainsi, si les paramètres de votre [fuseau horaire d&#39;abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sont définis sur PDT Amérique/Los Angeles, ces destinataires recevront toujours l&#39;email le mardi à 9:00am PDT (quelle que soit l&#39;heure qui se trouve dans leur propre fuseau horaire).
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Une fois que vous avez approuvé votre programme, il commence à s’exécuter d
 
 >[!NOTE]
 >
->Bien que le programme lance le _processus_ d’envoi d’e-mails dans 15 minutes, les e-mails ne seront pas _envoyés_ à ce moment-là. Les destinataires recevront toujours des e-mails en fonction des **[!UICONTROL paramètres de fuseau horaire]** de votre choix.
+>Bien que le programme lance le *processus* d’envoi d’e-mails dans 15 minutes, les e-mails ne seront pas *envoyés* à ce moment-là. Les destinataires recevront toujours des e-mails en fonction des **[!UICONTROL paramètres de fuseau horaire]** de votre choix.
 
 ## Scénario 2 : plus de 25 heures {#scenario-more-than-hours}
 
@@ -81,8 +81,8 @@ Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez a
 
 En résumé, les programmes d’e-mail planifiés avec le fuseau horaire du destinataire doivent commencer à s’exécuter à l’heure planifiée dans le fuseau horaire le plus proche (c’est-à-dire là où il atteint minuit en premier) afin de s’adapter à chaque fuseau horaire. Donc, si vous planifiez un programme de messagerie...
 
-* **avec un délai de livraison _dans les_ 25 heures**, le programme commence à fonctionner dans les 15 minutes. Les destinataires qui ont déjà dépassé l’heure planifiée recevront l’e-mail en fonction des paramètres de fuseau horaire que vous avez choisis.
-* **avec un délai de livraison _supérieur à 25 heures_** le programme commence à s’exécuter à l’heure planifiée dans le fuseau horaire le plus proche (UTC +14:00).
+* **avec un délai de livraison *dans les* 25 heures**, le programme commence à fonctionner dans les 15 minutes. Les destinataires qui ont déjà dépassé l’heure planifiée recevront l’e-mail en fonction des paramètres de fuseau horaire que vous avez choisis.
+* **avec un délai de livraison *supérieur à 25 heures*** le programme commence à s’exécuter à l’heure planifiée dans le fuseau horaire le plus proche (UTC +14:00).
 * **avec Head Start**, le programme commence à traiter 12 heures avant l’heure planifiée dans le fuseau horaire le plus proche (UTC +14:00).
 
 >[!CAUTION]

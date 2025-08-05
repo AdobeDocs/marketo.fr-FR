@@ -4,7 +4,7 @@ description: Segments Web - Documents Marketo - Documentation Du Produit
 title: Segments Web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 5%
@@ -76,7 +76,7 @@ Ces informations incluent :
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL &#x200B; Choisir une action &#x200B;] » au bas du tableau, sélectionnez l’action « [!UICONTROL &#x200B; Activer &#x200B;] » ou « [!UICONTROL &#x200B; Désactiver &#x200B;]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL  Choisir une action ] » au bas du tableau, sélectionnez l’action « [!UICONTROL  Activer ] » ou « [!UICONTROL  Désactiver ]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
 
 ## Création de segments {#create-segments}
 
@@ -177,7 +177,7 @@ Dans la section **[!UICONTROL Segmentation de profil]**, cochez la case en regar
 * **Provient de ces sociétés (noms spécifiques)**
 
    * Sélectionnez la société à cibler dans le menu déroulant « Sélectionner la société à ajouter ».
-   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *Il est _toujours_ recommandé d’utiliser les listes de comptes nommés au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).
+   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *Il est *toujours* recommandé d’utiliser les listes de comptes nommés au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).
 
 **Liste des comptes nommés**
 
@@ -187,7 +187,7 @@ Effectuez une sélection dans une [Liste de comptes nommés](/help/marketo/produ
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exclure le FAI**
 
@@ -286,7 +286,7 @@ Ajoutez la valeur d’événement à cibler. Par exemple, à partir de sources d
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

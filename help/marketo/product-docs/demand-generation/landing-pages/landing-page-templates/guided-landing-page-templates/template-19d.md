@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10092899
-description: Modèle 19D - Documents Marketo - Documentation du produit
+description: Modèle 19D - Documents Marketo - Documentation Du Produit
 title: Modèle 19D
 exl-id: a2e0620e-15b7-45f1-a8f7-78f0554e290a
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 19D {#template-19d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 19D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 
@@ -21,11 +21,11 @@ Ce modèle comprend le contenu suivant :
 
 * Une section principale
 
-   * comprend le titre de la héroïne, le texte de la héroïne et les tirages
+   * inclut le titre, le texte et les loteries du héros
 
-* Cinq sections de contenu (facultatif)
+* Cinq sections de corps (facultatif)
 * Pied de page (facultatif)
 
-**Cliquez avec le bouton droit ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=fr)
+[Modèle 19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)

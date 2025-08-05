@@ -3,9 +3,9 @@ description: Pourquoi mes champs dynamiques ne sont-ils pas remplis ? - Document
 title: Pourquoi mes champs dynamiques ne sont-ils pas remplis ?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Il existe trois types de champs dynamiques dans les actions de Sales Insight : D
 
 Champs [!DNL Salesforce] : par exemple, `{{sfdc_account_name}}`
 
-* Assurez-vous qu’il est correctement connecté aux actions Sales Insight. Accédez à la page [Paramètres]&#x200B;(https://toutapp.com/login{target="_blank"} et cliquez sur **Gérer** en regard de votre CRM.
+* Assurez-vous qu’il est correctement connecté aux actions Sales Insight. Accédez à la page [Paramètres]&#x200B;(<https://toutapp.com/login{target="_blank"}> et cliquez sur **Gérer** en regard de votre CRM.
 
 **Résolution des problèmes liés aux champs de base et personnalisés**
 

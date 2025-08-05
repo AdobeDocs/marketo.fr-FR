@@ -4,7 +4,7 @@ description: Bonne pratique - Comment organiser vos programmes - Documents Marke
 title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 4%
@@ -30,9 +30,9 @@ Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos p
 >* Programmes marketing actifs
 >   * E-mails
 >   * Événements
->      * Événements en direct/tournées d’exposition
->      * Salons professionnels
->      * Webinaires
+>     * Événements en direct/tournées d’exposition
+>     * Salons professionnels
+>     * Webinaires
 >   * Bulletins d’information
 >   * Nurture
 >   * Contenu Web
@@ -48,8 +48,8 @@ Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos p
 >   * Campagnes demandées par les ventes
 >* **Archiver**
 >   * Archiver les événements
->      * Archive 2012
->      * Archive 2013
+>     * Archive 2012
+>     * Archive 2013
 
 Chacun de ces éléments mentionnés dans l’exemple est un dossier. Notez qu’ils portent tous un nom unique. Vous pouvez avoir des noms en double (plus simples) de dossiers INSIDE programmes, mais pas à la racine de l&#39;arborescence.
 

@@ -2,7 +2,7 @@
 description: Notes De Mise À Jour - Août 2021 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Août 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] intégration de Forms génération de leads** : les marketeurs peuvent désormais effectuer l’attribution des revenus sur les conversions qui se produisent lorsque [!DNL LinkedIn] capture les remplissages de formulaires par le biais de leurs unités publicitaires de Forms génération de leads. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements payants dans les médias. [!DNL LinkedIn] Lead Gen Forms est l’une des offres de médias payants à la croissance la plus rapide de [!DNL LinkedIn]. Cette nouvelle fonctionnalité est incluse dans notre intégration [!DNL LinkedIn] Ads existante à [!DNL Bizible]. 
- 
+* **[!DNL Bizible][!DNL LinkedIn] intégration de Forms génération de leads** : les marketeurs peuvent désormais effectuer l’attribution des revenus sur les conversions qui se produisent lorsque [!DNL LinkedIn] capture les remplissages de formulaires par le biais de leurs unités publicitaires de Forms génération de leads. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements payants dans les médias. [!DNL LinkedIn] Lead Gen Forms est l’une des offres de médias payants à la croissance la plus rapide de [!DNL LinkedIn]. Cette nouvelle fonctionnalité est incluse dans notre intégration [!DNL LinkedIn] Ads existante à [!DNL Bizible].
+
 * **Tableau de bord de vitesse amélioré** : nous avons ajouté une nouvelle mesure de vitesse et un nouveau filtre de tableau de bord pour obtenir des informations plus détaillées. Ce tableau de bord est utilisé par les spécialistes marketing pour comprendre le lead étape par étape, la vitesse des opportunités et l’efficacité de différentes formes d’engagement en matière de marketing et de vente.
 
 * **Nouveau tableau de bord de Parcours de cascade de cohortes** : il permettra aux professionnels du marketing d’afficher la progression d’une cohorte sélectionnée à travers un ensemble classique d’étapes de « cascade de demandes », ce qui permettra une compréhension rapide des taux de conversion et de la causalité de conversion implicite d’une étape à l’autre.

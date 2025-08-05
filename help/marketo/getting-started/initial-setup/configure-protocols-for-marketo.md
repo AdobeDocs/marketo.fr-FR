@@ -4,7 +4,7 @@ description: Configuration des protocoles pour Marketo Engage - Documentation de
 title: Configuration des protocoles pour Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -54,7 +54,7 @@ Par exemple :
 
 Avertissez votre équipe marketing une fois ce processus terminé.
 
-`4` **Contactez l’assistance technique d’Adobe [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
+`4` **Contactez l’assistance technique d’Adobe [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
 
 Ce processus peut prendre jusqu’à 3 jours ouvrables.
 

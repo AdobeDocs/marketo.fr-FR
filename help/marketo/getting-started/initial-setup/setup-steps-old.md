@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '2087'
+source-wordcount: '2086'
 ht-degree: 1%
 
 ---
@@ -98,7 +98,7 @@ Le nouvel utilisateur est désormais répertorié dans l’onglet **[!UICONTROL 
 
 ## Configurer Vos Contacts D’Assistance Autorisés {#set-up-your-authorized-support-contacts}
 
-Vous avez peut-être reçu un e-mail de l’assistance Marketo vous indiquant que vous êtes l’administrateur du service clientèle Marketo de votre société. Si tel est le cas, vous pouvez configurer des **contacts d’assistance autorisés** pour votre équipe. Seuls les contacts d’assistance autorisés peuvent contacter directement le service clientèle de Marketo par le biais du portail d’assistance Marketo [&#128279;](https://support.marketo.com){target="_blank"}.
+Vous avez peut-être reçu un e-mail de l’assistance Marketo vous indiquant que vous êtes l’administrateur du service clientèle Marketo de votre société. Si tel est le cas, vous pouvez configurer des **contacts d’assistance autorisés** pour votre équipe. Seuls les contacts d’assistance autorisés peuvent contacter directement le service clientèle de Marketo par le biais du portail d’assistance Marketo [](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
@@ -162,7 +162,7 @@ Vous pouvez prendre plusieurs mesures pour vous assurer que les e-mails atteigne
 * **Configurer un enregistrement MX pour votre domaine.** Un enregistrement MX vous permet de recevoir des e-mails du domaine depuis lequel vous envoyez des e-mails afin de traiter les réponses et les répondeurs automatiques. Si vous effectuez un envoi à partir de votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce paramètre. Sinon, vous pouvez généralement configurer pour qu’il soit mappé à l’enregistrement MX de votre domaine d’entreprise.
 * **Paramètres recommandés pour l’adresse d’expédition.** Vous devez utiliser un domaine d’e-mail valide, existant et fonctionnel dans l’adresse d’expédition dans toutes les campagnes par e-mail. Il peut s’avérer bénéfique de configurer un sous-domaine de votre domaine d’entreprise plutôt que d’effectuer des envois à partir de votre domaine d’entreprise. Vous aurez ainsi la garantie que les problèmes de votre flux de messagerie d&#39;entreprise n&#39;auront pas d&#39;impact sur votre flux de messagerie Marketo et vice versa. De plus, l’envoi d’e-mails à partir de `something@nonexistentdomain.com` entraîne le filtrage ou le blocage des e-mails. Tout domaine utilisé dans l&#39;adresse d&#39;expédition de l&#39;expéditeur doit disposer d&#39;un compte de maître de poste@ et d&#39;abus@ valide et fonctionnel.
 
-Si vous utilisez des applications Google pour héberger les e-mails de votre entreprise, vous ne pourrez pas créer d&#39;e-mails « abus » ou « maître de poste » sous votre domaine. Pour contourner ce problème, vous devez créer des groupes nommés « abus » et « maître de poste ». Les utilisateurs qui sont membres de ces groupes recevront des e-mails envoyés à ces adresses (par exemple, postmaster@domain.com). Vous trouverez des instructions détaillées sur la création de groupes [ici](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Si vous utilisez des applications Google pour héberger les e-mails de votre entreprise, vous ne pourrez pas créer d&#39;e-mails « abus » ou « maître de poste » sous votre domaine. Pour contourner ce problème, vous devez créer des groupes nommés « abus » et « maître de poste ». Les utilisateurs qui sont membres de ces groupes recevront des e-mails envoyés à ces adresses (par exemple, <postmaster@domain.com>). Vous trouverez des instructions détaillées sur la création de groupes [ici](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Choisissez un CNAME pour les liens de tracking e-mail (choisissez-en un _différent_ à partir du CNAME de la page de destination que vous avez choisi à l’étape 3). Voici quelques exemples :
 
@@ -227,7 +227,6 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 placer sur la liste autorisée `3)` Marketo.
 
     * Si nous utilisons des adresses IP dans notre Place sur la liste autorisée e-mail, ajoutez les adresses IP répertoriées ci-dessous :
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -351,6 +350,6 @@ Marketo dispose d’un JavaScript de suivi personnalisé ([!DNL Munchkin]) que v
 
 ## Attentes en matière de performances {#performance-expectations}
 
-À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Toutes vos étapes de configuration sont terminées. Il ne reste plus qu’à plonger et utiliser Marketo !

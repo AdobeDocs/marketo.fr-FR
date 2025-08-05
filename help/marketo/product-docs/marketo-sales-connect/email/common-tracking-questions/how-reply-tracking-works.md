@@ -4,9 +4,9 @@ description: Fonctionnement du suivi des réponses - Documents Marketo - Documen
 title: Fonctionnement du suivi des réponses
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Le suivi des réponses est effectué en examinant un identifiant de message qui 
 
 Si [!DNL Sales Connect] ne parvient pas à suivre la réponse de votre prospect à votre e-mail, il ne sera pas en mesure d’arrêter une campagne basée sur la détection de réponse ou de consigner cette réponse à [!DNL Salesforce].  Que signifie une adresse e-mail à laquelle une personne peut répondre ?
 
-Cela signifie que si vous envoyez un e-mail à flynn@flynnsarcade.com et qu’il répond par kevinf@flynnsarcade.com, nous pouvons suivre la réponse. De plus, si vous envoyez un e-mail à flynn@flynnsarcade.com et CC alan@encom.com, et qu’Alan vous répond, il détectera également la réponse et terminera la campagne.
+Cela signifie que si vous envoyez un e-mail à <flynn@flynnsarcade.com> et qu’il répond avec <kevinf@flynnsarcade.com>, nous sommes en mesure de suivre la réponse. De plus, si vous envoyez un e-mail à <flynn@flynnsarcade.com> et à CC <alan@encom.com> et qu’Alan vous réécrit, la réponse sera également détectée et la campagne sera terminée.

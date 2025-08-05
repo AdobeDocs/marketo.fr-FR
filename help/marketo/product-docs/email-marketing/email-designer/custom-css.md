@@ -6,7 +6,7 @@ description: Découvrez comment ajouter du code CSS personnalisé au contenu de 
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 32%
@@ -132,7 +132,6 @@ Vous trouverez ci-dessous des exemples de CSS valide.
 
 +++
 
-
 +++ Exemples de CSS non valides
 
 Si une page CSS non valide est saisie, un message d’erreur s’affiche, indiquant que la page CSS ne peut pas être enregistrée. Vous trouverez ci-dessous des exemples de CSS non valides.
@@ -200,7 +199,6 @@ Votre CSS personnalisé est ajouté à la fin de la section `<head>` dans le cad
 ```
 
 +++
-
 
 Le CSS personnalisé n’est pas interprété ni validé par le volet **[!UICONTROL Paramètres]** du concepteur d’e-mail. Il est entièrement indépendant et ne peut être modifié que par l’intermédiaire de l’option **[!UICONTROL Ajouter un fichier CSS personnalisé]**.
 
