@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 11A {#template-11a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=fr)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+[Modèle 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=fr)

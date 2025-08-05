@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 3C {#template-3c}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=fr)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+[Modèle 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=fr)

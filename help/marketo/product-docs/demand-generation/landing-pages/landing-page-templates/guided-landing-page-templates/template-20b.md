@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 20B {#template-20b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=fr)
 
 ![](assets/template-20b.png)
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+[Modèle 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=fr)

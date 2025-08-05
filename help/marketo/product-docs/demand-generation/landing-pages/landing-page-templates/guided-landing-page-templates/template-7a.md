@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modèle 7A {#template-7a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html?lang=fr)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
+[Modèle 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html?lang=fr)
