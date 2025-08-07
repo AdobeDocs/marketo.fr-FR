@@ -4,20 +4,20 @@ description: Création d’un formulaire - Documents Marketo - Documentation du 
 title: Création d’un formulaire
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Création d’un formulaire {#create-a-form}
 
-Créez et utilisez un formulaire sur une page de destination pour générer de nouveaux noms. C&#39;est vraiment facile - voici comment commencer.
+Créez et utilisez un formulaire sur une page de destination pour générer de nouveaux noms ou capturer les données souhaitées.
 
 >[!NOTE]
 >
->Découvrez ce que fait Marketo pour [protéger vos formulaires](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Découvrez ce que fait Marketo Engage pour [protéger vos formulaires](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -41,9 +41,7 @@ Créez et utilisez un formulaire sur une page de destination pour générer de n
 
 >[!TIP]
 >
->La plupart des clientes et clients créent un formulaire pour chaque page de destination, mais vous pouvez également créer un formulaire à utiliser avec plusieurs pages de destination. C&#39;est à toi de décider !
-
-Doux ! Maintenant que le formulaire est créé, allons-y et habillons-le.
+>La plupart des utilisateurs créent un formulaire pour chaque page de destination, mais vous pouvez également créer un formulaire à utiliser avec plusieurs pages de destination. C&#39;est à toi de décider !
 
 >[!MORELIKETHIS]
 >
