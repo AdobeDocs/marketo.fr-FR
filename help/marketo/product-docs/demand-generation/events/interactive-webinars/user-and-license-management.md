@@ -3,9 +3,9 @@ description: Gestion des utilisateurs et des licences - Documents Marketo - Docu
 title: Gestion des utilisateurs et des licences
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 2%
 
 ---
@@ -89,7 +89,7 @@ Les webinaires interactifs offrent des licences spécifiques pour créer des év
   </tr>
   <tr>
    <td width="20%"><b>Événements consommés</b></td>
-   <td width="80%">Nombre total d’événements terminés.</td>
+   <td width="80%">Tous les événements terminés et actuellement planifiés. <a href="#things-to-note">En savoir plus</a></td>
   </tr>
   <tr>
    <td width="20%"><b>Capacité de stockage</b></td>
@@ -98,13 +98,13 @@ Les webinaires interactifs offrent des licences spécifiques pour créer des év
   </tbody>
 </table>
 
-**Éléments à noter**
+### Éléments à noter {#things-to-note}
+
+* Chaque fois qu’un événement est créé, il est comptabilisé comme « consommé » à partir de sa licence respective (sauf s’il s’agit d’une licence de salle partagée). La préférence est donnée à la « licence d’événement partagée » s’il existe à la fois une « licence d’événement partagée » et une « licence de salle partagée » de même capacité. Si l&#39;événement n&#39;a pas été diffusé et que le programme d&#39;événement est supprimé avant l&#39;heure planifiée, le nombre d&#39;événements est réapprovisionné. Si l&#39;événement n&#39;est pas diffusé et que le programme d&#39;événement n&#39;est pas supprimé avant l&#39;heure planifiée, l&#39;événement n&#39;est pas réapprovisionné.
 
 * Le type « Licence de stockage supplémentaire » fournit uniquement du stockage. Par conséquent, la valeur dans chaque champ _en plus_ Capacité de stockage sera simplement répertoriée comme « - ».
 
 * Le type « Licence de salle partagée » comporte un nombre illimité d’événements et « Licence de stockage supplémentaire » fournit uniquement l’espace de stockage. Le champ Total des événements pour ces licences sera donc simplement répertorié comme « - ».
-
-* Chaque fois qu’un événement est créé, il est comptabilisé comme « consommé » à partir de sa licence respective (sauf s’il s’agit d’une licence de salle partagée). La préférence sera donnée à la « licence d&#39;événement partagée » s&#39;il existe à la fois une « licence d&#39;événement partagée » et une « licence de salle partagée » de même capacité. Si l&#39;événement n&#39;a pas été diffusé et si le programme d&#39;événement est supprimé avant l&#39;heure planifiée, le nombre d&#39;événements est réapprovisionné en soustrayant un événement des événements consommés.
 
 * Une fois qu’une licence est épuisée, sa mosaïque reste sur l’écran des webinaires interactifs dans la section Administration avec « Total des événements » et « Événements consommés » ayant la même valeur. Ce n’est qu’à l’expiration de la licence qu’elle sera supprimée de l’écran.
 
