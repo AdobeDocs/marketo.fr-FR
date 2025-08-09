@@ -4,9 +4,9 @@ description: Utilisation d’actions en bloc dans Salesforce Lightning - Documen
 title: Utilisation d’actions en bloc dans Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,10 @@ Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospe
 
 >[!PREREQUISITES]
 >
->Mettez à jour vers la dernière version du package [!DNL Sales Connect] et installez les boutons d’action en masse dans la vue de votre prospect/contact. [Cliquez ici pour obtenir des instructions](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Mettez à jour vers la dernière version du package [!DNL Sales Connect] et installez les boutons d’action en masse dans la vue de votre prospect/contact.
+>* [Instructions en anglais](assets/SF+Guide+for+Lightning-EN)
+>* [Instructions en japonais, coréen, chinois](assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [Instructions en espagnol, français, allemand, italien, suédois](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
@@ -39,7 +42,7 @@ Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospe
 
 1. Un e-mail du MSC s’affiche. Il comprend les fonctionnalités suivantes :
 
-   a. Le champ « [!UICONTROL À] » affiche « Tous les accusés de réception » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste des prospects
+   a. Le champ « [!UICONTROL À] » affiche « Tous les règlements » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste des prospects
 b. Cette liste est visible dans le panneau de gauche sous le nom « Composition en bloc ». Vous pouvez ajouter ou supprimer des destinataires ici
 c. Vous pouvez choisir un modèle ou créer votre propre e-mail
 d. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une date ultérieure
@@ -56,7 +59,7 @@ d. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une d
 
    ![](assets/five-4.png)
 
-1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six-1.png)
 
