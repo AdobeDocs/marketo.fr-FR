@@ -4,28 +4,32 @@ description: Ajouter un champ à un formulaire - Documents Marketo - Documentati
 title: Ajout d’un champ à un formulaire
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # Ajout d’un champ à un formulaire {#add-a-field-to-a-form}
 
-Une fois que vous avez [créé votre formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) et [sélectionné un thème](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), vous pouvez ajouter des champs supplémentaires à remplir par les personnes. Voici comment procéder.
+Une fois que vous avez [créé votre formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} et [sélectionné un thème](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, vous pouvez ajouter des champs supplémentaires à remplir par les personnes. Voici comment procéder.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-a-field-to-a-form-1.png)
 
-1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
+1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le brouillon]**
 
-   ![](assets/editform-1.png)
+   ![](assets/add-a-field-to-a-form-2.png)
 
-1. Cliquez sur le signe **+**.
+   >[!NOTE]
+   >
+   >Si le formulaire souhaité est à l’état _Approuvé_, vous devez d’abord cliquer sur **Créer un brouillon**.
 
-   ![](assets/image2014-9-15-17-18-17.png)
+1. Dans le formulaire, cliquez sur le signe **+**.
+
+   ![](assets/add-a-field-to-a-form-3.png)
 
    >[!NOTE]
    >
@@ -33,18 +37,20 @@ Une fois que vous avez [créé votre formulaire](/help/marketo/product-docs/dema
 
 1. Recherchez et sélectionnez le champ que vous souhaitez ajouter à votre formulaire.
 
-   ![](assets/image2014-9-15-17-3a18-3a26.png)
+   ![](assets/add-a-field-to-a-form-4.png)
 
 1. Ajoutez autant de champs que nécessaire, puis cliquez sur **[!UICONTROL Terminer]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a35.png)
+   ![](assets/add-a-field-to-a-form-5.png)
 
-1. Cliquez maintenant sur **[!UICONTROL Approuver et fermer]**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a43.png)
+   ![](assets/add-a-field-to-a-form-6.png)
 
 >[!NOTE]
 >
 >Veillez à approuver tous les brouillons de page de destination créés en raison des modifications apportées au formulaire.
 
-Pas mal du tout. Continuez votre bon travail ! Et si nous apprenions à [rendre un champ de formulaire obligatoire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) ensuite ?
+>[!MORELIKETHIS]
+>
+>[Rendre un champ de formulaire obligatoire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
