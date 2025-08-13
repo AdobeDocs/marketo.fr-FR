@@ -8,9 +8,9 @@ feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Le Concepteur d’email a un format différent de celui de l’éditeur d’emai
 
 ## Cas d’utilisation du Principal {#primary-use-case}
 
-Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
+Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
 
 ## Expérience de jeton {#token-experience}
 
@@ -49,6 +49,5 @@ Dans le concepteur d’e-mail, vous devez utiliser [casse mixte](https://develop
 
    * Annuler/rétablir
    * Rechercher/Rechercher et remplacer
-   * Saisie automatique
 
 * **Tous** les jetons précédemment pris en charge dans Marketo Engage sont pris en charge dans le nouvel éditeur de personnalisation.
