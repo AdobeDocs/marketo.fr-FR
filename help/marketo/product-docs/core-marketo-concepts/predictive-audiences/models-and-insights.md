@@ -24,7 +24,7 @@ Accédez à la section **[!UICONTROL Modèles et intégrité des données]** sou
 
 ![Image Un](assets/models-and-insights-1.png)
 
-* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les 2 semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _en échec_, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les 2 semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _en échec_, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Statut de notation** : indique si votre modèle calcule activement des prédictions (pourcentages de vraisemblance) pour les membres du programme.
 * **Performances** : catégorisation de l’intégrité de votre modèle en fonction de l’exhaustivité des données et de la qualité des données (voir ci-dessous).
 * **Exhaustivité des données** : pourcentage d’attributs de données présents/complets.
