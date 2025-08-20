@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Utiliser l’assistant d’IA
+title: Utiliser l’assistant IA
 description: Tirez parti de la technologie d’IA générative d’Adobe pour ajouter du texte et/ou des images utiles à vos e-mails.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '726'
 ht-degree: 3%
 
 ---
 
-# Utiliser l’assistant d’IA {#use-the-ai-assistant}
+# Utiliser l’assistant IA {#use-ai-assistant}
 
-L’assistant d’IA de Marketo Engage Email Designer vous permet de créer des e-mails contemporains, performants et intuitifs. Pour ce faire, Adobe utilise une technologie d’IA générative et une bibliothèque d’invites, ainsi que Firefly pour la génération d’images, qui permettent de créer du contenu adapté à une personne/un groupe d’achat spécifique, une étape de parcours marketing, une stratégie de communication, un ton, etc. Des ressources de marque spécifiques peuvent également être utilisées pour créer du contenu.
+L’assistant AI de Marketo Engage Email Designer vous permet de créer des e-mails contemporains, performants et intuitifs. Pour ce faire, Adobe utilise une technologie d’IA générative et une bibliothèque d’invites, ainsi que Firefly pour la génération d’images, qui permettent de créer du contenu adapté à une personne/un groupe d’achat spécifique, une étape de parcours marketing, une stratégie de communication, un ton, etc. Des ressources de marque spécifiques peuvent également être utilisées pour créer du contenu.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ Une fois l’e-mail créé, l’objet se trouve dans la colonne _Détails_ à dr
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Activez l’option **Utiliser le contenu de référence** de l’Assistant IA afin de personnaliser le nouveau contenu en fonction du contenu sélectionné.
+Activez l’option **Utiliser le contenu de référence** pour que l’Assistant IA personnalise le nouveau contenu en fonction du contenu sélectionné.
 
 Saisissez l’invite de personnalisation de l’objet. Saisissez les paramètres de texte appropriés et chargez toutes les ressources de marque que vous souhaitez utiliser comme référence pour créer une ligne d&#39;objet appropriée.
 
@@ -93,7 +93,7 @@ Une fois l’e-mail créé, vous avez la possibilité de modifier certaines sect
 
 ![](assets/use-the-ai-assistant-7.png)
 
-Dans cet exemple, nous utilisons un modèle de soins de santé. Si l&#39;image existante de l&#39;expert en soins de santé ne répond pas à vos besoins, vous pouvez demander à l&#39;assistant d&#39;IA de créer sa propre image d&#39;expert en soins de santé. Sélectionnez simplement le contenu de l’image, puis cliquez sur l’assistant d’IA.
+Dans cet exemple, nous utilisons un modèle de soins de santé. Si l&#39;image existante de l&#39;expert en soins de santé ne répond pas à vos besoins, vous pouvez demander à l&#39;assistant d&#39;IA de créer sa propre image d&#39;expert en soins de santé. Sélectionnez simplement le contenu de l’image, puis cliquez sur Assistant IA.
 
 ![](assets/use-the-ai-assistant-8.png)
 
