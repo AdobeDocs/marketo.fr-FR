@@ -4,9 +4,9 @@ description: Modifier un libellé de champ dans un formulaire - Documents Market
 title: Modification d’un libellé de champ dans un formulaire
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Vous pouvez remplacer le libellé d’un formulaire par n’importe quel libell�
 
    >[!NOTE]
    >
-   >Si votre formulaire n’est pas encore approuvé, cliquez sur **Modifier le brouillon**.
+   >Si votre formulaire n’est pas approuvé, cliquez sur **Modifier le brouillon**.
 
 1. Sélectionnez votre champ, puis modifiez le **[!UICONTROL libellé]**. Les champs des paramètres de formulaire refléteront le ou les libellés que vous avez saisis.
 
