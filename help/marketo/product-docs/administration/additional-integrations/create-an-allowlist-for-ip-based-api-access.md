@@ -1,45 +1,51 @@
 ---
 unique-page-id: 10098433
-description: Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP - Documents Marketo - Documentation du produit
-title: Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP
+description: Création d’une Place sur la liste autorisée pour l’accès à l’API basée sur IP - Documents Marketo - Documentation du produit
+title: Création d’une Place sur la liste autorisée pour l’accès à l’API basée sur IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
 
-# Création d’une Liste autorisée pour l’accès aux API basées sur l’adresse IP {#create-an-allowlist-for-ip-based-api-access}
+# Création d’une Place sur la liste autorisée pour l’accès à l’API basée sur IP {#create-an-allowlist-for-ip-based-api-access}
 
-Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse IP spécifique ou à une plage d’adresses. Pour ce faire, vous devez d’abord activer les restrictions, puis spécifier les adresses IP autorisées à utiliser les API.
+Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse IP spécifique ou à une plage d’adresses. Pour ce faire, vous devez d’abord activer les restrictions, puis spécifier les adresses IP qui sont autorisées à utiliser les API.
 
 >[!NOTE]
 >
 >**Autorisations d’administrateur requises**
 
+>[!NOTE]
+>
+>Cette fonctionnalité fonctionne indépendamment des restrictions de connexion basées sur les adresses IP de Marketo Engage (remplacées par la liste d’accès IP d’Admin Console*) et continuera à fonctionner après la [ migration d’Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+>> 
+>>&#42;La disponibilité générale de la liste d’accès IP est prévue pour le 4e trimestre 2025.
+
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Cliquez sur **[!UICONTROL Services Web]**.
+1. Cliquez sur **[!UICONTROL Services web]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Dans la zone **[!UICONTROL Restrictions d’IP]**, cliquez sur **[!UICONTROL Modifier],** ou cliquez sur **[!UICONTROL Modifier les restrictions d’IP]** dans le coin supérieur gauche.
+1. Dans la zone **[!UICONTROL Restrictions IP]**, cliquez sur **[!UICONTROL Modifier],** ou cliquez sur **[!UICONTROL Modifier les restrictions IP]** dans le coin supérieur gauche.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Cochez la case **[!UICONTROL Activer les restrictions d’IP]** et saisissez les adresses IP à Placer sur la liste autorisée.
+1. Cochez la case **[!UICONTROL Activer les restrictions IP]** et saisissez les adresses IP à Placer sur la liste autorisée.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
-   >Vous pouvez saisir une seule adresse IP ou une plage d’adresses, ou utiliser un caractère générique.
+   >Vous pouvez saisir une seule adresse IP ou une plage d’adresses IP, ou utiliser un caractère générique.
 
-1. Cliquez sur **[!UICONTROL Ajouter]** pour ouvrir des champs supplémentaires afin de saisir d’autres adresses IP.
+1. Cliquez sur **[!UICONTROL Ajouter]** pour ouvrir des champs supplémentaires et saisir d’autres adresses IP.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
