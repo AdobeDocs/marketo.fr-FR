@@ -4,7 +4,7 @@ description: Planification de programmes de messagerie avec fuseau horaire du de
 title: Planification de programmes de messagerie électronique avec fuseau horaire du destinataire
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 0%
@@ -51,9 +51,9 @@ Examinons ce scénario plus en détail. Supposons que vous soyez à San Francisc
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00am est déjà passé à New York et en Italie, donc les personnes qualifiées dans ces deux fuseaux horaires recevront l&#39;email en fonction des **Paramètres de fuseau horaire** :
+9:00am est déjà passé à New York et en Italie, donc les personnes qualifiées dans ces deux fuseaux horaires reçoivent l&#39;email en fonction des **Paramètres de fuseau horaire** :
 
-* **[!UICONTROL Diffusez le jour suivant dans le fuseau horaire du destinataire]:** mercredi à 9:00am dans ses fuseaux horaires respectifs, **OU**
+* **[!UICONTROL Diffuser le jour suivant dans le fuseau horaire du destinataire]:** mercredi à 9:00am dans ses fuseaux horaires respectifs, **OU**
 
 * **[!UICONTROL Livrer en utilisant l&#39;heure par défaut du programme]** : mardi à 9:00am PDT (New York - 12:00pm EDT et Italie - 6:00pm CET).
 
@@ -67,11 +67,11 @@ Une fois que vous avez approuvé votre programme, il commence à s’exécuter d
 
 ## Scénario 2 : plus de 25 heures {#scenario-more-than-hours}
 
-Dans ce deuxième scénario, vous approuvez un programme d’e-mail dont le **[!UICONTROL fuseau horaire du destinataire]** est activé et dont l’heure de diffusion planifiée remonte à plus de 25 heures. Dans ce cas, le programme commencera à fonctionner à l’heure planifiée dans le fuseau horaire **le plus proche** au monde (UTC + 14:00). Il peut y avoir des personnes qui remplissent les critères de votre liste dynamique dans tous les fuseaux horaires à travers le monde, donc commencer dans le premier fuseau horaire nous permet de diffuser l’e-mail à la date/heure planifiée à tous les destinataires dans leurs fuseaux horaires respectifs.
+Dans ce deuxième scénario, vous approuvez un programme d’e-mail dont le **[!UICONTROL fuseau horaire du destinataire]** est activé et dont l’heure de diffusion planifiée remonte à plus de 25 heures. Dans ce cas, le programme commence à fonctionner à l’heure planifiée dans le fuseau horaire **le plus proche** au monde (UTC + 14:00). Il peut y avoir des personnes qui remplissent les critères de votre liste dynamique dans tous les fuseaux horaires à travers le monde, donc commencer dans le premier fuseau horaire nous permet de diffuser l’e-mail à la date/heure planifiée à tous les destinataires dans leurs fuseaux horaires respectifs.
 
 **Démarrage rapide**
 
-Maintenant, parlons de la façon dont [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) fonctionne avec **[!UICONTROL Recipient Time Zone]**. Notre fonctionnalité Bon départ exige que le programme soit planifié au moins 12 heures à l&#39;avance. Qu’est-ce que cela signifie pour le fuseau horaire du destinataire ? Rappelez-vous que lorsque le fuseau horaire du destinataire est activé, nous commençons à exécuter le programme d’e-mail à l’heure planifiée dans le premier fuseau horaire (UTC +14:00). Ainsi, pour activer **à la fois** le démarrage rapide et le fuseau horaire du destinataire, les programmes d’e-mail doivent être planifiés **au moins 12 heures en avance sur l’heure planifiée au format UTC +14:00.**
+Maintenant, parlons de la façon dont [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) fonctionne avec **[!UICONTROL Recipient Time Zone]**. Notre fonctionnalité Bon départ exige que le programme soit planifié au moins 12 heures à l&#39;avance. Qu&#39;est-ce que cela signifie pour le fuseau horaire du destinataire ? Rappelez-vous que lorsque le fuseau horaire du destinataire est activé, nous commençons à exécuter le programme d’e-mail à l’heure planifiée dans le premier fuseau horaire (UTC +14:00). Ainsi, pour activer **à la fois** le démarrage rapide et le fuseau horaire du destinataire, les programmes d’e-mail doivent être planifiés **au moins 12 heures en avance sur l’heure planifiée au format UTC +14:00.**
 
 Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez activer les fuseaux horaires Head Start et Recipient, vous devez planifier le programme **34 heures** à l&#39;avance. Comment en sommes-nous arrivés à ce chiffre ?
 
@@ -79,15 +79,15 @@ Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez a
 
 <br> 
 
-En résumé, les programmes d’e-mail planifiés avec le fuseau horaire du destinataire doivent commencer à s’exécuter à l’heure planifiée dans le fuseau horaire le plus proche (c’est-à-dire là où il atteint minuit en premier) afin de s’adapter à chaque fuseau horaire. Donc, si vous planifiez un programme de messagerie...
+En résumé, les programmes d’e-mail planifiés avec le fuseau horaire du destinataire doivent commencer à s’exécuter à l’heure planifiée dans le fuseau horaire le plus proche (c’est-à-dire celui où il atteint minuit en premier) pour s’adapter à chaque fuseau horaire. Donc, si vous planifiez un programme de messagerie...
 
-* **avec un délai de livraison *dans les* 25 heures**, le programme commence à fonctionner dans les 15 minutes. Les destinataires qui ont déjà dépassé l’heure planifiée recevront l’e-mail en fonction des paramètres de fuseau horaire que vous avez choisis.
+* **avec un délai de livraison *dans les* 25 heures**, le programme commence à fonctionner dans les 15 minutes. Les destinataires qui ont déjà dépassé l’heure planifiée reçoivent l’e-mail en fonction des paramètres de fuseau horaire que vous avez choisis.
 * **avec un délai de livraison *supérieur à 25 heures*** le programme commence à s’exécuter à l’heure planifiée dans le fuseau horaire le plus proche (UTC +14:00).
 * **avec Head Start**, le programme commence à traiter 12 heures avant l’heure planifiée dans le fuseau horaire le plus proche (UTC +14:00).
 
 >[!CAUTION]
 >
->Toute personne qui se désabonne entre le moment où vous commencez l’envoi de votre e-mail et celui où il est réellement envoyé recevra toujours l’e-mail. Nous vous recommandons d’ajuster votre notification de désabonnement pour tenir compte du fait que le traitement des désabonnements peut prendre entre 1 et 2 jours ouvrables.
+>Toute personne qui se désabonne entre le moment où vous commencez l’envoi de votre e-mail et celui où il est réellement envoyé recevra toujours l’e-mail. Nous vous recommandons d’ajuster votre notification de désabonnement pour expliquer que le traitement des désabonnements peut prendre entre 1 et 2 jours ouvrables.
 
 >[!MORELIKETHIS]
 >

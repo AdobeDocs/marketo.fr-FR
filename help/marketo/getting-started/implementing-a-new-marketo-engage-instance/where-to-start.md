@@ -3,9 +3,9 @@ description: Découvrez les bonnes pratiques à appliquer lors de l’implément
 title: Par où commencer
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Visitez la [Communauté Adobe Marketo Engage](https://nation.marketo.com/){targe
 
 Prise en main dans la communauté :
 
-1. Cliquez sur **Continuer avec Adobe ID** et sélectionnez votre abonnement principal sur la page de connexion.
+1. Cliquez sur **[!UICONTROL Continuer avec Adobe ID]** et sélectionnez votre abonnement principal sur la page de connexion.
 1. Une fois connecté, renseignez votre profil de communauté.
 1. Après avoir envoyé l’information, vous arriverez sur la page d’accueil de la communauté et tout sera fin prêt !

@@ -4,22 +4,22 @@ description: Création d’un filtre  [!DNL Dynamics]  synchronisation personnal
 title: Création d’un filtre  [!DNL Dynamics]  synchronisation personnalisé
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
 
 # Créer un filtre de synchronisation de [!DNL Dynamics] personnalisé {#create-a-custom-dynamics-sync-filter}
 
-Vous ne souhaitez pas synchroniser tous les éléments de votre Dynamics CRM dans Marketo Engage ? Ne vous inquiétez pas ! Marketo vous permet de configurer un filtre de synchronisation et de synchroniser uniquement une partie de vos enregistrements.
+Marketo vous permet de configurer un filtre de synchronisation et de synchroniser uniquement une partie de vos enregistrements.
 
 ## Vue d’ensemble {#overview}
 
 Pour configurer un filtre de synchronisation [!DNL Dynamics] :
 
-1. Créez un champ personnalisé à deux options (booléen) nommé new_synctomkto dans votre Dynamics CRM pour n’importe quel objet (prospect, contact, compte, opportunité et autres entités personnalisées).
+1. Créez un champ personnalisé à deux options (booléen) nommé `new_synctomkto` dans votre CRM Dynamics pour tout objet (prospect, contact, compte, opportunité et autres entités personnalisées).
 1. Affectez une valeur Oui/Non à ce champ.
 
 Vous devez effectuer ces modifications dans Dynamics CRM, et non dans votre base de données ou Marketo.
@@ -140,10 +140,6 @@ Voici quelques détails d’implémentation que vous devriez connaître :
 * Démarrer une opération de synchronisation
 
   Lorsque la valeur **SyncToMkto** passe de **Non** à **Oui**, [!DNL Dynamics] avertit immédiatement Marketo pour commencer à synchroniser cet enregistrement. Si l’enregistrement existe déjà, Marketo le met à jour. Sinon, Marketo crée l’enregistrement.
-
-  >[!TIP]
-  >
-  >Une opération `Create [StartSync]` est ajoutée au journal Marketo lorsque cela se produit.
 
 * Arrêt d’une opération de synchronisation
 

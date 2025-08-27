@@ -4,7 +4,7 @@ description: Utilisation d’actions en bloc dans Salesforce Lightning - Documen
 title: Utilisation d’actions en bloc dans Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -18,6 +18,7 @@ Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospe
 >[!PREREQUISITES]
 >
 >Mettez à jour vers la dernière version du package [!DNL Sales Connect] et installez les boutons d’action en masse dans la vue de votre prospect/contact.
+>
 >* [Instructions en anglais](assets/sf-guide-for-lightning-en.pdf)
 >* [Instructions en japonais](assets/sf-guide-for-lightning-ja.pdf)
 
@@ -58,7 +59,7 @@ d. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une d
 
    ![](assets/five-4.png)
 
-1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six-1.png)
 

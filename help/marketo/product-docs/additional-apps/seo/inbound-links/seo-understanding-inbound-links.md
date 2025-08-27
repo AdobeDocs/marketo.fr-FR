@@ -4,32 +4,32 @@ description: SEO - Présentation des liens entrants - Documents Marketo - Docume
 title: SEO - Présentation des liens entrants
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
-# SEO - Comprendre les [!UICONTROL liens entrants] {#seo-understanding-inbound-links}
+# SEO - Présentation des [!UICONTROL liens entrants] {#seo-understanding-inbound-links}
 
-[!UICONTROL Les liens entrants] indiquent aux moteurs de recherche que votre site vaut la peine d’être référencé. C&#39;est bien !
+[!UICONTROL Liens entrants] indiquez aux moteurs de recherche que votre site vaut la peine d’être référencé.
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
 ## Définition des colonnes {#definition-of-columns}
 
-| Titre de la colonne | Description |
+| Titre de colonne | Description |
 |---|---|
-| [!UICONTROL URL du lien entrant] | La page web en question. |
-| [!UICONTROL Priorité] | L’utilité de cette opportunité pour le classement de vos pages. |
-| [!UICONTROL Liens vers un concurrent] | si un concurrent est lié dans cette URL ; |
-| [!UICONTROL Liens vers mon site] | Indique si votre site est lié dans cette URL. |
-| [!UICONTROL Liens de mon site] | Indique si votre site est lié à cette URL. |
-| [!UICONTROL PageRank] | Identifie le classement de la page des URL dans la recherche (1 à 10) |
+| [!UICONTROL  URL du lien entrant ] | La page web en question. |
+| [!UICONTROL Priorité] | Quelle valeur cette opportunité a-t-elle pour votre classement de page ? |
+| [!UICONTROL Liens avec le concurrent] | Indique si un concurrent est lié à dans cette URL. |
+| [!UICONTROL Liens vers mon site] | Indique si votre site est lié à cette URL. |
+| [!UICONTROL Liens de mon site] | Indique si votre site renvoie à cette URL. |
+| [!UICONTROL PageRank] | Indique que les URL de page ont le rang dans la recherche (1 - 10) |
 
-Doux ! Maintenant que vous comprenez les liens entrants, nous pouvons suggérer d’autres possibilités de lien entrant pour votre site.
+Maintenant que vous comprenez les liens entrants, nous pouvons suggérer d’autres opportunités de liens entrants pour votre site.
 
 >[!MORELIKETHIS]
 >
->[Obtenir des suggestions de liens entrants](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
+>[Obtenir des suggestions de lien entrant](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)

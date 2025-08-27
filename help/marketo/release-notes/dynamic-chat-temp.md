@@ -5,9 +5,9 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -30,13 +30,13 @@ Nous avons repensé la logique de routage du chat en direct dans Dynamic Chat po
 
    * Le système tente de se connecter à un maximum de deux agents (au plus), mais strictement dans la règle de routage principale.
 
-   * Si un agent est disponible mais ne répond pas (par exemple, refuse ou manque la conversation), le système tentera de se connecter à un agent différent du même pool.
+   * Si un agent est disponible mais ne répond pas (par exemple, refuse ou manque la conversation), le système tente de se connecter à un autre agent du même pool.
 
    * La logique de secours (comme la rotation) n’est activée que si aucun agent éligible n’est trouvé lors de la résolution initiale, et non pour réessayer après un échec de l’engagement.
 
 * **Comportement Spécifique Aux Règles De Routage**
 
-_&#x200B;**Routage de compte**&#x200B;_
+_**Routage de compte**_
 
 Si le domaine d’e-mail d’un visiteur est mappé à un compte connu, l’agent mappé est toujours considéré comme prioritaire.
 
@@ -46,19 +46,18 @@ Si l’agent n’est pas disponible, le système :
 
 * Ne tente pas d&#39;utiliser un autre agent, même si Round Robin est activé comme solution de secours.
 
-* Au lieu de cela, il :
+Au lieu de cela, il :
 
-   * Affiche le calendrier de réunion de l&#39;agent mappé (si activé),
--ou-
-   * Retourne à un message par défaut (au pire des cas).
+* Affiche le calendrier de réunion de l&#39;agent mappé (s&#39;il est activé) ou :
+* Retourne à un message par défaut (au pire des cas).
 
 La règle de routage au niveau de la carte (par exemple, Équipe, Personnalisé) n’est prise en compte que si le routage de compte n’est pas éligible (aucun domaine ou agent correspondant).
 
-_&#x200B;**Routage personnalisé/d’équipe**&#x200B;_
+_**Routage personnalisé/d’équipe**_
 
 Ces règles peuvent renvoyer plusieurs agents éligibles.
 
-Si le premier agent disponible n&#39;engage pas, le système essaie un autre agent de la même liste.
+Si le premier agent disponible ne s&#39;engage pas, le système essaie un autre agent de la même liste.
 
 La solution de secours Round Robin n’est pas déclenchée simplement parce qu’un agent ne répond pas.
 
@@ -68,7 +67,7 @@ Si aucun des agents n’engage :
 -ou-
 * Affiche le message de secours par défaut.
 
-_&#x200B;**Routage circulaire**&#x200B;_
+_**Routage circulaire**_
 
 Lorsqu&#39;il est utilisé comme règle de transmission principale, le système :
 
@@ -78,7 +77,7 @@ Lorsqu&#39;il est utilisé comme règle de transmission principale, le système 
 
 Si la fonction Round Robin est utilisée comme solution de secours, elle s’active uniquement si aucun agent n’est résolu à partir de la règle principale.
 
-_&#x200B;**Flux d’expérience du visiteur**&#x200B;_
+_**Flux d’expérience du visiteur**_
 
 Le système vérifie si le routage de compte est applicable.
 
@@ -86,13 +85,13 @@ Le système vérifie si le routage de compte est applicable.
 
 * Si l’agent n’est pas éligible ou indisponible, il passe à la règle de routage au niveau de la carte.
 
-La règle de routage au niveau de la carte (personnalisée, d’équipe, à tour de rôle) est évaluée.
+Les règles de routage au niveau de la carte (personnalisée, d’équipe, à tour de rôle) ont été évaluées.
 
 * La disponibilité (autorisations, statut) des agents éligibles est vérifiée.
 
 * Le système engage un agent et, si nécessaire, tente un deuxième agent à partir de la même règle.
 
-* Si aucun engagement ne réussit, une logique de secours est appliquée :
+* Si aucun engagement ne réussit, la logique de secours est appliquée :
 
    * Calendrier de secours (si activé),
 -ou-
@@ -102,7 +101,7 @@ La solution de secours Round Robin n’est prise en compte que lorsqu’aucun ag
 
 ##### Cas d’utilisation {#use-cases}
 
-_&#x200B;**Routage de compte**&#x200B;_
+_**Routage de compte**_
 
 <table><thead>
   <tr>
@@ -119,16 +118,16 @@ _&#x200B;**Routage de compte**&#x200B;_
   <tr>
     <td>Secours (à tour de rôle)</td>
     <td>L’agent mappé n’est pas disponible, la solution de secours arrondie est activée</td>
-    <td>Le système sélectionne un agent disponible par rotation et l’engage </td>
+    <td>Le système sélectionne un agent disponible à tour de rôle et l’engage </td>
   </tr>
   <tr>
     <td>Aucun agent de secours</td>
     <td>L'agent mappé n'est pas disponible, pas de solution de secours Round Robin ; la réservation de réunion est activée</td>
-    <td>Le système affiche le calendrier de l’agent mappé ou affiche un message de secours par défaut</td>
+    <td>Le système affiche le calendrier d’un agent mappé ou affiche un message de secours par défaut</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Routage personnalisé**&#x200B;_
+_**Routage personnalisé**_
 
 <table><thead>
   <tr>
@@ -144,17 +143,17 @@ _&#x200B;**Routage personnalisé**&#x200B;_
   </tr>
   <tr>
     <td>Secours (à tour de rôle)</td>
-    <td>La règle personnalisée ne résout aucun agent, la fonction de secours Round Robin est activée.</td>
-    <td>Le système sélectionne un agent disponible par rotation et l’engage.</td>
+    <td>La règle personnalisée ne résout aucun agent. La fonction de secours Round Robin est activée.</td>
+    <td>Le système sélectionne un agent disponible à tour de rôle et l’engage.</td>
   </tr>
   <tr>
     <td>Aucun agent de secours</td>
     <td>Deux agents ont été résolus ; aucun d'eux n'accepte la conversation, la solution de secours définie sur le calendrier de réunion.</td>
-    <td>Le calendrier de l’agent qui a été essayé pour la première fois s’affiche ou un message de secours par défaut s’affiche.</td>
+    <td>Première tentative : le calendrier de l’agent s’affiche ou le message de secours par défaut s’affiche.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Routage de l&#39;équipe**&#x200B;_
+_**Routage de l&#39;équipe**_
 
 <table><thead>
   <tr>
@@ -171,16 +170,16 @@ _&#x200B;**Routage de l&#39;équipe**&#x200B;_
   <tr>
     <td>Secours (à tour de rôle)</td>
     <td>Aucun agent d'équipe n'est disponible et la solution de secours circulaire est activée.</td>
-    <td>Le système sélectionne et se connecte à un agent du pool Round Robin.</td>
+    <td>Le système sélectionne un agent du pool Round Robin et s'y connecte.</td>
   </tr>
   <tr>
     <td>Aucun agent de secours</td>
     <td>Deux agents disponibles, mais aucun ne s’engage ; calendrier de secours activé.</td>
-    <td>Le calendrier de l’agent qui a été tenté pour la première fois s’affiche ou un message de secours est déclenché.</td>
+    <td>Première tentative d’affichage du calendrier de l’agent ou de déclenchement d’un message de secours.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Routage circulaire**&#x200B;_
+_**Routage circulaire**_
 
 <table><thead>
   <tr>
@@ -191,13 +190,13 @@ _&#x200B;**Routage circulaire**&#x200B;_
 <tbody>
   <tr>
     <td>Idéal</td>
-    <td>Round Robin pool a plusieurs agents ; le second agent accepte le chat après le premier ne l'accepte pas.</td>
-    <td>La conversation se connecte au second agent.</td>
+    <td>Round Robin pool a plusieurs agents ; le deuxième agent accepte le chat après le premier ne le fait pas.</td>
+    <td>La conversation se connecte à un second agent.</td>
   </tr>
   <tr>
     <td>Secours (à tour de rôle)</td>
     <td>Aucun agent disponible dans le pool Round Robin ; le calendrier des réunions est activé.</td>
-    <td>Le calendrier s’affiche pour le premier agent de la liste (s’il est configuré) ou un message de secours s’affiche.</td>
+    <td>Le calendrier s’affiche pour le premier agent de la liste (s’il est configuré) ou le message de secours s’affiche.</td>
   </tr>
   <tr>
     <td>Aucun agent de secours</td>

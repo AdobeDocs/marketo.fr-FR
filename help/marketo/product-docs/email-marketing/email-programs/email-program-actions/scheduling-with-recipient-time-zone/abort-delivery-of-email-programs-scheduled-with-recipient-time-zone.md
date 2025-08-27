@@ -4,9 +4,9 @@ description: Abandon de la diffusion des programmes de messagerie programmés av
 title: Abandonner la diffusion des programmes de messagerie programmés avec le fuseau horaire du destinataire
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---

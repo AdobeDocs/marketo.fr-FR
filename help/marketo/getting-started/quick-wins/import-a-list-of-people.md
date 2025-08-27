@@ -4,9 +4,9 @@ description: Importer une liste de personnes - Documents Marketo - Documentation
 title: Importer une liste de personnes
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '577'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 >
 >[Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à partir d&#39;un fichier de feuille de calcul.
+Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à partir d’un fichier de feuille de calcul.
 
 ## Étape 1 : Télécharger et modifier une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
@@ -113,7 +113,7 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    >[!TIP]
    >
-   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensibilité à la casse) afin d’obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créez-les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} afin qu’ils puissent devenir des options.
+   >Les en-têtes de colonne doivent toujours correspondre exactement au champ (sensibilité à la casse) pour obtenir les meilleurs résultats de mappage automatique. Si vous utilisez des champs personnalisés et que vous ne les voyez pas dans la liste déroulante, revenez en arrière et [créez-les](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} afin qu’ils puissent devenir des options.
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. De retour dans **Mon programme de salon professionnel**, cliquez sur l&#39;onglet **[!UICONTROL Membres]**. Vous verrez toutes les personnes que vous venez d&#39;importer.
+1. De retour dans **Mon programme de salon professionnel**, cliquez sur l&#39;onglet **[!UICONTROL Membres]**. Vous voyez toutes les personnes que vous venez d&#39;importer.
 
    ![](assets/import-a-list-of-people-15.png)
 

@@ -2,9 +2,9 @@
 description: Onglet Carte De L’Engagement - Documents Marketo - Documentation Du Produit
 title: Onglet Carte de l’engagement
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Filtre : cliquez sur cette carte pour afficher un panneau déroulant contenant l
 
 ## Étape de flux pour l’exécution et la demande de campagnes {#flow-step-for-execute-and-request-campaigns}
 
-* Si l’étape Exécuter ou Demander le flux de la campagne n’inclut aucun choix, la carte affiche le nom de la campagne. Cliquez sur la carte pour afficher un panneau déroulant contenant les informations suivantes :
+* Si l’étape de flux Exécuter ou Demander la campagne n’inclut aucun choix, la carte affiche le nom de la campagne. Cliquez sur la carte pour afficher un panneau déroulant contenant les informations suivantes :
 
    * Campagne à laquelle appartient l’étape de flux
    * Modifier l’étape de flux
@@ -61,7 +61,7 @@ Filtre : cliquez sur cette carte pour afficher un panneau déroulant contenant l
 
 >[!NOTE]
 >
->Vous pouvez modifier la ou les étapes de flux d’une campagne principale. Pour modifier des campagnes imbriquées, vous devez accéder à la campagne à l’aide du lien dans le panneau déroulant.
+>Vous pouvez modifier la ou les étapes de flux d’une campagne principale. Pour modifier des campagnes imbriquées, vous devez accéder à la campagne à partir du lien dans le panneau déroulant.
 
 * Si l’étape Exécuter ou Demander le flux de la campagne inclut des choix, cliquer sur la carte affiche un panneau déroulant avec les informations suivantes :
 
@@ -86,9 +86,9 @@ Vous trouverez ci-dessous un exemple de campagne intelligente, « Campagne A »,
 
 ![](assets/engagement-map-tab-11.png)
 
-1. Cliquez sur la carte Exécuter le flux de campagne pour développer et afficher les détails de la « Campagne B ».
+1. Cliquez sur la carte Exécuter le flux de campagne pour afficher les détails de la « Campagne B ».
 1. « Campagne B » comprend un filtre qui divise l’audience en deux groupes : qualifiée et non qualifiée.
-1. L’audience qualifiée passe par les étapes de flux associées à « Campagne B ».
+1. Une audience qualifiée passe par les étapes de flux associées à « Campagne B ».
 1. Toutes les audiences (qualifiées et non qualifiées) reviennent à « Campagne A » et passent à l’étape de flux suivante.
 
    ![](assets/engagement-map-tab-12.png)
@@ -122,7 +122,7 @@ Voici un exemple de campagne de demandes avec des choix.
 
 ## Traitement des erreurs {#error-handling}
 
-Les erreurs dans les listes intelligentes et les étapes de flux sont mises en surbrillance à l’aide d’une icône rouge dans la carte. En outre, un message d’erreur correspondant est reflété dans le panneau déroulant.
+Les erreurs dans les listes dynamiques et les étapes de flux sont mises en surbrillance via une icône rouge dans la carte. En outre, un message d’erreur correspondant est reflété dans le panneau déroulant.
 
 Les avertissements dans les listes intelligentes et les étapes de flux sont mis en surbrillance à l’aide d’une icône orange dans la carte. En outre, un message d’avertissement correspondant est reflété dans le panneau déroulant.
 

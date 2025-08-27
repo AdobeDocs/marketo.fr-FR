@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2949273
-description: SEO - Utiliser le rapport Tendances des mots-clés - Documents Marketo - Documentation du produit
-title: SEO - Utiliser le rapport Tendances des mots-clés
+description: SEO - Utilisation du rapport Tendances des mots-clés - Documents Marketo - Documentation du produit
+title: SEO - Utilisation du rapport Tendances des mots-clés
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 3%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
-# SEO - Utiliser le rapport Tendances des mots-clés {#seo-use-the-keyword-trends-report}
+# SEO - Utilisation du rapport Tendances des mots-clés {#seo-use-the-keyword-trends-report}
 
-Ce rapport présente le classement des mots-clés au fil du temps.
+Dans ce rapport, vous pouvez voir comment vous êtes classé sur les mots-clés au fil du temps.
 
 ## Charger le rapport {#load-report}
 
-1. Accédez à **[!UICONTROL Reports]**.
+1. Accédez à **[!UICONTROL Rapports]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Cliquez sur **[!UICONTROL Tendances de classement de mots-clés]**.
+1. Cliquez sur **[!UICONTROL Tendances de classement des mots-clés]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
-   Voici :
+   Le voici :
 
    ![](assets/image2014-9-18-14-3a13-3a22.png)
 
@@ -34,32 +34,28 @@ Ce rapport présente le classement des mots-clés au fil du temps.
    | Élément | Description |
    |---|---|
    | [!UICONTROL Mots-clés] | Nombre de mots-clés dont vous effectuez le suivi. |
-   | [!UICONTROL URL de classement] | Le nombre d’URL de votre site classées dans la plage que vous avez définie. |
-   | [!UICONTROL Durée rank] | Classement moyen des mots-clés dans la plage que vous avez définie. |
-   | [!UICONTROL Durée searches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la période que vous avez définie (au cours des 30 derniers jours), dans une recherche Google US |
+   | [!UICONTROL URL de classement] | Le nombre d’URL de votre site se classant dans la plage que vous avez définie. |
+   | [!UICONTROL Moy. rang ] | Rang moyen des mots-clés dans la plage que vous avez définie. |
+   | [!UICONTROL Moy. recherches] | Nombre moyen de recherches sur les mots-clés qui se sont produites au cours de la plage que vous avez définie (au cours des 30 derniers jours), sur la recherche Google US |
 
-## Filtrage des données {#filtering-data}
+## Filtrer les données {#filtering-data}
 
-1. Cliquez sur la liste déroulante et sélectionnez la période souhaitée.
+1. Cliquez sur le menu déroulant et sélectionnez la période souhaitée.
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. Cliquez sur la liste déroulante Classement pour sélectionner la plage de classement pour laquelle vous souhaitez afficher les mots-clés.
+1. Cliquez sur le menu déroulant Classement pour choisir la plage de classement pour laquelle vous souhaitez afficher les mots-clés.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
 ## Exportation des données {#exporting-data}
 
->[!TIP]
->
->Vous pouvez exporter ce rapport vers votre bureau.
-
-1. Cliquez sur **[!UICONTROL Exporter CSV]** ou **[!UICONTROL Export PDF]**.
+1. Cliquez sur **[!UICONTROL Exporter au format CSV]** ou **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Très bon travail ! Vous pouvez également comparer vos performances par rapport à celles de vos concurrents dans le classement des mots-clés.
+Vous pouvez également voir comment vous vous comparez à vos concurrents dans le classement des mots-clés.
 
-   >[!NOTE]
-   >
-   >[Utilisation du rapport Tendances de classement de KW compétitif](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[Utilisation du rapport Tendances du classement KW concurrentiel](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

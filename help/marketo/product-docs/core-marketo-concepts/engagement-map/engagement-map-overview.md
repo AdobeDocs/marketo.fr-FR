@@ -2,9 +2,9 @@
 description: Présentation de la carte de l’engagement - Documents Marketo - Documentation du produit
 title: Aperçu de la carte de l’engagement
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Accédez à une campagne existante et cliquez sur le bouton **Carte de l’engag
 
 ![](assets/engagement-map-overview-2.png)
 
-Une fois dans la carte de l’engagement, deux onglets s’affichent : [carte de l’engagement](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} et [paramètres](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+La carte des engagements comprend deux onglets : [carte des engagements](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} et [paramètres](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Descriptions de la carte {#card-descriptions}
 
-**Triggers** : dans les campagnes qui incluent des triggers, la carte comportera une carte « Trigger Overview ». Cliquez sur cette option pour afficher une carte pour chaque déclencheur, ainsi qu’un panneau déroulant avec des informations supplémentaires.
+**Triggers** : dans les campagnes qui incluent des triggers, la carte comporte une carte « Trigger Overview ». Cliquez sur cette option pour afficher une carte pour chaque déclencheur, ainsi qu’un panneau déroulant avec des informations supplémentaires.
 
-**Filtres** : dans les campagnes qui incluent des filtres, la carte contient une carte Aperçu des filtres . Cliquez dessus pour afficher un panneau déroulant avec des informations supplémentaires sur chaque filtre.
+**Filtres** : dans les campagnes qui incluent des filtres, la carte contient une carte Aperçu des filtres . Cliquez dessus pour afficher un panneau déroulant contenant des informations supplémentaires sur chaque filtre.
 
 **Étapes de flux** : chaque campagne comprend une carte pour chaque étape de flux. Cliquez dessus pour afficher un panneau déroulant contenant des informations supplémentaires.
 
@@ -43,7 +43,7 @@ Une fois dans la carte de l’engagement, deux onglets s’affichent : [carte de
 
 * Si une campagne comprend une étape Demander ou Exécuter le flux de campagne , cliquer sur la carte de flux affiche les détails de la campagne appelée ainsi qu’un panneau déroulant avec des informations supplémentaires.
 
-* Si une campagne inclut une étape Demander ou Exécuter un flux de campagne avec des choix, cliquer sur la carte de flux affiche une carte pour chaque choix, ainsi qu’un panneau déroulant avec plus d’informations sur les choix. Cliquez sur chaque carte de choix pour afficher les détails de la campagne appelée ainsi qu’un panneau déroulant contenant plus d’informations.
+* Si une campagne inclut une étape Demander ou Exécuter un flux de campagne avec des choix, cliquer sur la carte de flux affiche une carte pour chaque choix, ainsi qu’un panneau déroulant avec plus d’informations sur les choix. Cliquez sur la carte de chaque choix pour afficher les détails de la campagne appelée ainsi qu’un panneau déroulant contenant plus d’informations.
 
 * De plus, si l’une des campagnes imbriquées comporte une étape de flux Demander ou Exécuter la campagne , cliquer sur la carte de flux affiche les détails de la campagne. Il en va de même lorsque l’étape de flux inclut des choix.
 
@@ -57,7 +57,7 @@ La barre de navigation supérieure propose les fonctionnalités suivantes :
 
 * Bouton Activer/Désactiver pour le déclenchement de campagnes
 
-* Modifier la liste dynamique : vous accédez à l’interface de liste dynamique dans un nouvel onglet où vous pouvez ajouter ou modifier vos filtres et/ou déclencheurs
+* Modifier la liste dynamique - Vous accédez à l’interface de liste dynamique dans un nouvel onglet où vous pouvez ajouter ou modifier vos filtres et/ou déclencheurs
 
 * Modifier le flux - vous accédez à l’interface Flux dans un nouvel onglet où vous pouvez ajouter ou modifier vos étapes de flux
 

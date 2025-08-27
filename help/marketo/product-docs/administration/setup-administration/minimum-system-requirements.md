@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359900
-description: Configuration minimale requise - Documents Marketo - Documentation du produit
+description: Configuration système minimale requise - Marketo
 title: Configuration système minimale
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser M
 >
 >iOS et Android ne sont pas encore pris en charge.
 
-* Ordinateur ou ordinateur portable exécutant [!DNL Windows], Mac OS X (ou version ultérieure) ou Linux
+* Ordinateur ou portable exécutant [!DNL Windows], Mac OS X (ou version ultérieure) ou Linux
 * Clavier et souris
-* Écran avec une résolution minimale de 1 280 x 768
+* Moniteur avec une résolution minimale de 1280 x 768
 * Navigateur à jour, voir [Navigateurs pris en charge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} pour plus d’informations
 * Connexion Internet
 
 >[!NOTE]
 >
->Si votre équipe informatique restreint l&#39;accès web à l&#39;aide d&#39;une liste autorisée, demandez-lui d&#39;ajouter `*.marketo.com`, `*.adobe.com` et `*.adobe.net` pour autoriser toutes les ressources de Marketo Engage et toutes les websockets.
+>Placer sur la liste autorisée Si votre équipe informatique restreint l’accès web à l’aide d’un, demandez-lui d’ajouter des `*.marketo.com`, des `*.adobe.com` et des `*.adobe.net` pour autoriser toutes les ressources et tous les sockets web de Marketo Engage.

@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '3408'
+source-wordcount: '3414'
 ht-degree: 2%
 
 ---
@@ -104,7 +104,7 @@ La solution de secours Round Robin n’est prise en compte que lorsqu’aucun ag
 
 <p>
 
-_&#x200B;**Routage de compte**&#x200B;_
+_**Routage de compte**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Routage de compte**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Routage personnalisé**&#x200B;_
+_**Routage personnalisé**_
 
 <table><thead>
   <tr>
@@ -152,11 +152,11 @@ _&#x200B;**Routage personnalisé**&#x200B;_
   <tr>
     <td>Aucun agent de secours</td>
     <td>Deux agents ont été résolus ; aucun d'eux n'accepte la conversation, la solution de secours définie sur le calendrier de réunion.</td>
-    <td>Le calendrier de l’agent qui a été essayé pour la première fois s’affiche ou un message de secours par défaut s’affiche.</td>
+    <td>Le calendrier de l’agent qui a été essayé pour la première fois s’affiche ou le message de secours par défaut s’affiche.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Routage de l&#39;équipe**&#x200B;_
+_**Routage de l&#39;équipe**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Routage de l&#39;équipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Routage circulaire**&#x200B;_
+_**Routage circulaire**_
 
 <table><thead>
   <tr>
@@ -193,13 +193,13 @@ _&#x200B;**Routage circulaire**&#x200B;_
 <tbody>
   <tr>
     <td>Idéal</td>
-    <td>Round Robin pool a plusieurs agents ; le second agent accepte le chat après le premier ne l'accepte pas.</td>
+    <td>Round Robin pool a plusieurs agents ; le second agent accepte le chat après le premier ne le fait pas.</td>
     <td>La conversation se connecte au second agent.</td>
   </tr>
   <tr>
     <td>Secours (à tour de rôle)</td>
     <td>Aucun agent disponible dans le pool Round Robin ; le calendrier des réunions est activé.</td>
-    <td>Le calendrier s’affiche pour le premier agent de la liste (s’il est configuré) ou un message de secours s’affiche.</td>
+    <td>Le calendrier s’affiche pour le premier agent de la liste (s’il est configuré) ou le message de secours s’affiche.</td>
   </tr>
   <tr>
     <td>Aucun agent de secours</td>
