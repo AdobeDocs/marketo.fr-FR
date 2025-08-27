@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 13%
+source-wordcount: '892'
+ht-degree: 14%
 
 ---
 
@@ -177,6 +177,17 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Possibilité de <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">intégrer à Litmus</a> pour voir comment vos e-mails seront rendus dans différents clients de messagerie.</td>
     <td>Non disponible</td>
     <td>Disponible</td>
+    <tr>
+    <td>Intégration à GenStudio</td>
+    <td>Capacité à <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">intégrer à GenStudio</a>.</td>
+    <td>Non disponible</td>
+    <td>Disponible</td>
+  </tr>
+  <tr>
+    <td>Intégration de Spam Assassin</td>
+    <td>Capacité à <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">détecter le potentiel d’emails marqués comme spam</a> avant la diffusion.</td>
+    <td>Non disponible</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Éditeur Personalization</td>
@@ -227,12 +238,6 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Bientôt disponible</td>
   </tr>
   <tr>
-    <td>Intégration avec Gen Studio</td>
-    <td>Possibilité d’intégration à Gen Studio.</td>
-    <td>Non disponible</td>
-    <td>Bientôt disponible</td>
-  </tr>
-  <tr>
     <td>Prise en charge du déplacement, de la suppression et de l’importation de programmes avec des ressources de messagerie</td>
     <td>Possibilité de déplacer, supprimer et importer des programmes de messagerie avec des ressources de messagerie.</td>
     <td>Disponible</td>
@@ -254,23 +259,11 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Scripts Velocity</td>
     <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
     <td>Disponible</td>
-    <td>Pas nécessaire</td>
-  </tr>
-   <tr>
-    <td>Script Handlebar</td>
-    <td>Possibilité d’utiliser le script Handlebar dans les e-mails.</td>
-    <td>Non disponible</td>
-    <td>Prévu pour le T3-25</td>
+    <td>Bientôt disponible</td>
   </tr>
   <tr>
     <td>Kit de marque</td>
     <td>Possibilité d’améliorer les e-mails en fonction des directives de la marque.</td>
-    <td>Non disponible</td>
-    <td>Prévu pour le T3-25</td>
-  </tr>
-  <tr>
-    <td>Intégration de Spam Assassin</td>
-    <td>Capacité à détecter le potentiel de messages e-mail marqués comme spam avant la diffusion.</td>
     <td>Non disponible</td>
     <td>Prévu pour le T3-25</td>
   </tr>
