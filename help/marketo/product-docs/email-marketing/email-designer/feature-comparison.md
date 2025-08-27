@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 14%
 
 ---
@@ -259,11 +259,11 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Scripts Velocity</td>
     <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
     <td>Disponible</td>
-    <td>Bientôt disponible</td>
+    <td>Pas nécessaire</td>
   </tr>
   <tr>
-    <td>Kit de marque</td>
-    <td>Possibilité d’améliorer les e-mails en fonction des directives de la marque.</td>
+    <td>Script Handlebar</td>
+    <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
     <td>Non disponible</td>
     <td>Prévu pour le T3-25</td>
   </tr>
@@ -272,6 +272,12 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Possibilité d’introduire des workflows d’approbation pour les e-mails dans Marketo Engage.</td>
     <td>Non disponible</td>
     <td>Prévu pour le T4-25</td>
+  </tr>
+  <tr>
+    <td>Kit de marque</td>
+    <td>Possibilité d’améliorer les e-mails en fonction des directives de la marque.</td>
+    <td>Non disponible</td>
+    <td>Prévu pour le T1-26</td>
   </tr>
   <tr>
     <td>Expérimentation (Test A/B)</td>
