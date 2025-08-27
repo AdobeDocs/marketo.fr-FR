@@ -21,7 +21,7 @@ ht-degree: 1%
 
 | Titre de colonne | Description |
 |---|---|
-| [!UICONTROL  URL du lien entrant ] | La page web en question. |
+| [!UICONTROL &#x200B; URL du lien entrant &#x200B;] | La page web en question. |
 | [!UICONTROL Priorité] | Quelle valeur cette opportunité a-t-elle pour votre classement de page ? |
 | [!UICONTROL Liens avec le concurrent] | Indique si un concurrent est lié à dans cette URL. |
 | [!UICONTROL Liens vers mon site] | Indique si votre site est lié à cette URL. |

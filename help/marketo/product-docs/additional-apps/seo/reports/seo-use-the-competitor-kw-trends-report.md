@@ -35,7 +35,7 @@ Ce graphique peut vous montrer quel pourcentage de vos mots-clés est classé da
 |---|---|
 | [!UICONTROL Mots-clés] | Nombre de mots-clés dont vous effectuez le suivi. |
 | [!UICONTROL URL de classement] | Le nombre d’URL de votre site se classant dans la plage que vous avez définie. |
-| [!UICONTROL  % en rang] | Pourcentage du classement des mots-clés dans la plage que vous avez définie. |
+| [!UICONTROL &#x200B; % en rang] | Pourcentage du classement des mots-clés dans la plage que vous avez définie. |
 | [!UICONTROL Moy. recherches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la plage que vous avez définie (au cours des 30 derniers jours, sur la recherche Google US) |
 
 ## Filtrer les données {#filtering-data}

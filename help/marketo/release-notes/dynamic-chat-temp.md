@@ -36,7 +36,7 @@ Nous avons repensé la logique de routage du chat en direct dans Dynamic Chat po
 
 * **Comportement Spécifique Aux Règles De Routage**
 
-_**Routage de compte**_
+_&#x200B;**Routage de compte**&#x200B;_
 
 Si le domaine d’e-mail d’un visiteur est mappé à un compte connu, l’agent mappé est toujours considéré comme prioritaire.
 
@@ -53,7 +53,7 @@ Au lieu de cela, il :
 
 La règle de routage au niveau de la carte (par exemple, Équipe, Personnalisé) n’est prise en compte que si le routage de compte n’est pas éligible (aucun domaine ou agent correspondant).
 
-_**Routage personnalisé/d’équipe**_
+_&#x200B;**Routage personnalisé/d’équipe**&#x200B;_
 
 Ces règles peuvent renvoyer plusieurs agents éligibles.
 
@@ -67,7 +67,7 @@ Si aucun des agents n’engage :
 -ou-
 * Affiche le message de secours par défaut.
 
-_**Routage circulaire**_
+_&#x200B;**Routage circulaire**&#x200B;_
 
 Lorsqu&#39;il est utilisé comme règle de transmission principale, le système :
 
@@ -77,7 +77,7 @@ Lorsqu&#39;il est utilisé comme règle de transmission principale, le système 
 
 Si la fonction Round Robin est utilisée comme solution de secours, elle s’active uniquement si aucun agent n’est résolu à partir de la règle principale.
 
-_**Flux d’expérience du visiteur**_
+_&#x200B;**Flux d’expérience du visiteur**&#x200B;_
 
 Le système vérifie si le routage de compte est applicable.
 
@@ -101,7 +101,7 @@ La solution de secours Round Robin n’est prise en compte que lorsqu’aucun ag
 
 ##### Cas d’utilisation {#use-cases}
 
-_**Routage de compte**_
+_&#x200B;**Routage de compte**&#x200B;_
 
 <table><thead>
   <tr>
@@ -127,7 +127,7 @@ _**Routage de compte**_
   </tr>
 </tbody></table>
 
-_**Routage personnalisé**_
+_&#x200B;**Routage personnalisé**&#x200B;_
 
 <table><thead>
   <tr>
@@ -153,7 +153,7 @@ _**Routage personnalisé**_
   </tr>
 </tbody></table>
 
-_**Routage de l&#39;équipe**_
+_&#x200B;**Routage de l&#39;équipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -179,7 +179,7 @@ _**Routage de l&#39;équipe**_
   </tr>
 </tbody></table>
 
-_**Routage circulaire**_
+_&#x200B;**Routage circulaire**&#x200B;_
 
 <table><thead>
   <tr>
