@@ -3,9 +3,9 @@ description: Gestion Des Groupes - Documents Marketo - Documentation Du Produit
 title: Gérer les groupes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
+source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -57,26 +57,6 @@ Découvrez comment gérer vos groupes dans [!DNL Sales Insight Actions].
 
    C&#39;est ça !
 
-## Ajouter des contacts à un {#add-contacts-to-a-}
-
-1. Dans la page [!UICONTROL Personnes], recherchez et sélectionnez le groupe auquel vous souhaitez ajouter des personnes.
-
-
-
-1. Cliquez sur **[!UICONTROL Actions de groupe]** et sélectionnez **[!UICONTROL Créer un contact et ajouter au groupe]**.
-
-   ![](assets/manage-groups-4.png)
-
-1. Renseignez les informations du contact et cliquez sur **Créer** (ou **Créer et ajouter nouveau** pour en ajouter un autre).
-
-   ![](assets/manage-groups-5.png)
-
-   Et c&#39;est fini !
-
-   >[!NOTE]
-   >
-   >Vous devrez peut-être cliquer sur Actualiser pour afficher les nouveaux contacts ajoutés.
-
 ## Ajouter des contacts à un groupe {#add-contacts-to-a-group}
 
 1. Sous _Groupes_, sélectionnez **Toutes les personnes**.
@@ -98,7 +78,6 @@ Découvrez comment gérer vos groupes dans [!DNL Sales Insight Actions].
 1. Sélectionnez le groupe auquel vous souhaitez les ajouter, puis cliquez sur **Ajouter**.
 
    ![](assets/manage-groups-7.png)
-
 
 ## Partage d’un groupe {#share-a-group}
 
