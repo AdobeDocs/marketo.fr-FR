@@ -6,10 +6,10 @@ description: Les utilisateurs de Marketo Engage peuvent intégrer leur compte Li
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 4%
+source-wordcount: '370'
+ht-degree: 2%
 
 ---
 
@@ -19,9 +19,11 @@ Tirez parti de votre compte [Litmus](https://www.litmus.com/email-testing) dans 
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible pour tous les utilisateurs de Marketo Engage qui possèdent un compte Litmus actif sur le compte [abonnement Entreprise](https://www.litmus.com/pricing/enterprise){target="_blank"}.
+>Cette fonctionnalité est disponible pour tous les utilisateurs de Marketo Engage qui disposent d’un compte Litmus actif.
 
-## Utilisation {#how-to-use}
+## Utilisateurs Entreprise Litmus {#litmus-enterprise}
+
+Les étapes suivantes s&#39;adressent aux utilisateurs du [Plan d&#39;entreprise Litmus](https://www.litmus.com/pricing/enterprise){target="_blank"}.
 
 1. Sur l’écran _Modifier le contenu de l’e-mail_, cliquez sur le bouton **Simuler du contenu**.
 
@@ -62,3 +64,27 @@ Tirez parti de votre compte [Litmus](https://www.litmus.com/email-testing) dans 
 **ÉTAPE FACULTATIVE** : Si vous décidez d&#39;apporter des modifications à votre e-mail, après avoir cliqué sur **Rendu de l&#39;e-mail** pour les afficher, veillez également à cliquer sur le bouton **Retester** dans le coin supérieur droit de l&#39;écran Litmus _Prévisualisations d&#39;e-mail_.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Utilisateurs principaux de Litmus {#litmus-core}
+
+Les étapes suivantes s&#39;adressent aux utilisateurs du [Plan principal Litmus](https://www.litmus.com/pricing/){target="_blank"}.
+
+1. Dans votre compte Litmus, récupérez l’adresse e-mail de test en cliquant sur le bouton **Copier l’adresse de test** dans l’écran _Tester_.
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. Dans Marketo Engage, accédez à l’écran _Modifier le contenu de l’e-mail_ de l’e-mail souhaité, puis cliquez sur le bouton **Simuler le contenu**.
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. Sélectionnez vos destinataires de test et cliquez sur le bouton **Envoyer un BAT**.
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. Saisissez l’adresse e-mail Litmus que vous avez copiée à l’étape 1 et cliquez de nouveau sur **Envoyer le BAT**.
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. Vérifiez l&#39;e-mail dans votre compte Litmus (dans le dossier correspondant à l&#39;adresse e-mail que vous avez copiée à partir de Litmus).
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
