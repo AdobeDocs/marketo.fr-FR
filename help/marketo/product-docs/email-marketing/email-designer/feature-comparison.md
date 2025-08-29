@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 14%
 
 ---
@@ -259,13 +259,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Scripts Velocity</td>
     <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
     <td>Disponible</td>
-    <td>Pas nécessaire</td>
-  </tr>
-  <tr>
-    <td>Script Handlebar</td>
-    <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
-    <td>Non disponible</td>
-    <td>Prévu pour le T3-25</td>
+    <td>Disponible bientôt</td>
   </tr>
   <tr>
     <td>Workflows d’approbation de contenu</td>
