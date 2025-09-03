@@ -4,9 +4,9 @@ description: Ajouter SSL à vos pages de destination - Documents Marketo - Docum
 title: Ajouter SSL à vos pages de destination
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
@@ -73,31 +73,35 @@ Vous trouverez ci-dessous les messages d’erreur que vous pouvez recevoir, ains
     <th>Détails</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>Erreur inattendue lors de la création d'un domaine. Contactez l’assistance pour obtenir de l’aide.</i></td>
-    <td>Une erreur inattendue s’est produite. Veuillez rassembler les journaux et les détails de l'erreur, puis signaler le problème à l'assistance de <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo</a>.</td>
-  </tr>
-  <tr>
-    <td><i>Le domaine par défaut est introuvable. Contactez l’assistance pour obtenir de l’aide.</i></td>
-    <td>Un problème s’est produit lors de la recherche du domaine par défaut. Contactez l’assistance pour qu’elle enquête.</td>
-  </tr>
-  <tr>
-    <td><i>Le certificat SSL a déjà été émis.</i></td>
-    <td>Un certificat SSL existe déjà pour ce domaine personnalisé. Aucune autre action n’est nécessaire, sauf si le certificat a expiré ou doit être réémis.</td>
+<tr>
+    <td><i>Le domaine existe déjà.</i></td>
+    <td>Un domaine du même nom existe déjà.</td>
   </tr>
   <tr>
     <td><i>Le domaine n’est pas mappé au domaine par défaut.</i></td>
     <td>Le domaine personnalisé n’est pas correctement mappé au domaine par défaut. Vérifiez les paramètres de mappage de domaine et assurez-vous que la configuration DNS pointe vers le domaine par défaut correct.</td>
   </tr>
   <tr>
-    <td><i>Le domaine existe déjà.</i></td>
-    <td>Un domaine du même nom existe déjà.</td>
+    <td><i>Impossible d’émettre les certificats SSL en raison d’enregistrements CAA non pris en charge. Demandez à votre service informatique de mettre à jour vos enregistrements CAA.</i></td>
+    <td>Les enregistrements CAA ne sont pas à jour. Pour les utilisateurs et utilisatrices qui utilisent des certificats SSL gérés par Marketo Engage, les enregistrements CAA doivent être mis à jour vers les certificats recommandés par notre fournisseur. Contactez votre service informatique pour mettre à jour les enregistrements CAA. Voir <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">cette page</a> pour plus d’informations.</td>
+  </tr>
+  <tr>
+    <td><i>Le certificat SSL a déjà été émis.</i></td>
+    <td>Un certificat SSL existe déjà pour ce domaine personnalisé. Aucune autre action n’est nécessaire, sauf si le certificat a expiré ou doit être réémis.</td>
+  </tr>
+  <tr>
+    <td><i>Le domaine par défaut est introuvable. Contactez l’assistance pour obtenir de l’aide.</i></td>
+    <td>Un problème s’est produit lors de la recherche du domaine par défaut. Contactez l’assistance pour qu’elle enquête.</td>
+  </tr>
+  <tr>
+    <td><i>Erreur inattendue lors de la création d'un domaine. Contactez l’assistance pour obtenir de l’aide.</i></td>
+    <td>Une erreur inattendue s’est produite. Veuillez rassembler les journaux et les détails de l'erreur, puis signaler le problème à l'assistance de <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo</a>.</td>
   </tr>
 </tbody></table>
 
 ## Éléments à noter {#things-to-note}
 
-* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personnalisés** : si vous avez besoin d’un SSL personnalisé, envoyez un ticket [Support technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. N’utilisez pas la case à cocher en libre-service pour la création SSL.
 
