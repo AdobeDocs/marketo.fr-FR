@@ -3,9 +3,9 @@ description: Présentation d’Advanced BI Analytics - Documents Marketo - Docum
 title: Présentation d’Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Découvrez comment exporter des sections spécifiques de votre rapport.
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451684/?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 
@@ -236,23 +236,13 @@ Les rapports standard suivants sont inclus comme exemples pour vos rapports pers
 
 ## Éléments à noter {#note}
 
-* L’expérience classique « Explorateur de revenus » sera définitivement abandonnée le 10 juin 2025. En attendant, vous pouvez accéder aux rapports, en créer, les mettre à jour et les supprimer dans les deux expériences.
+* Vos rapports personnalisés ont été répliqués de l’expérience classique vers la nouvelle expérience avec les changements de comportement notables mentionnés dans la section [Apprendre la nouvelle expérience](#learning-the-new-experience) ci-dessous.
 
-* Vos rapports personnalisés seront répliqués de l’expérience classique vers la nouvelle expérience avec les changements de comportement notables mentionnés dans la section [Apprendre la nouvelle expérience](#learning-the-new-experience) ci-dessous.
+* Les tableaux de bord de l’expérience classique n’étaient pas transférables et devaient être recréés dans la nouvelle expérience. Ils peuvent être recréés sous forme de rapports dans la nouvelle expérience et les filtres de la nouvelle expérience extraient automatiquement les valeurs possibles.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >La réplication des rapports personnalisés s&#39;effectue par groupes. Une fois vos rapports personnalisés répliqués vers la nouvelle expérience, afin d’assurer la cohérence entre les deux expériences, toutes les modifications apportées à l’expérience classique doivent également être appliquées manuellement aux rapports correspondants dans la nouvelle expérience. Une note d’information sur les points ci-dessus s’affichera dans l’expérience classique lors de la réplication de vos rapports clients.
-
-   * Les tableaux de bord de l’expérience classique ne sont pas transférables et devront être recréés dans la nouvelle expérience. Ils doivent être recréés sous forme de rapports dans la nouvelle expérience et les filtres de la nouvelle expérience extraient automatiquement les valeurs possibles au lieu de vous obliger à saisir manuellement toutes les valeurs possibles individuellement dans l’expérience classique.
-
-     >[!NOTE]
-     >
-     >Le tableau de bord de la nouvelle expérience est simplement un ensemble de rapports sur une seule page. La principale valeur du tableau de bord dans la nouvelle expérience est de vous permettre de présenter des informations analytiques dans différents domaines de création de rapports.
-
-* Vos abonnements par e-mail dans l’expérience classique seront répliqués dans la nouvelle expérience. Les abonnements par e-mail dans l’expérience classique continueront à fonctionner jusqu’à l’obsolescence de l’expérience classique le 10 juin 2025.
-
-* Les utilisateurs et utilisatrices existants de l’Explorateur de revenus ont automatiquement accès à la nouvelle expérience BI Analytics avancée.
+  >Le tableau de bord de la nouvelle expérience est simplement un ensemble de rapports sur une seule page. La principale valeur du tableau de bord dans la nouvelle expérience est de vous permettre de présenter des informations analytiques dans différents domaines de création de rapports.
 
 * Vous pouvez créer **jusqu’à 700 rapports** dans Advanced BI Analytics.
 
@@ -282,13 +272,9 @@ Vous trouverez ci-dessous les modifications apportées à la nouvelle expérienc
 
 * Les filtres de type chaîne sont désormais sensibles à la casse.
 
-* Le champ formule d’exécution n’est plus pris en charge dans l’expérience classique.
-
-* L’abonnement par e-mail inclut l’exportation PDF plutôt que l’HTML du rapport. Le nouvel abonnement par e-mail n’inclura pas la définition du rapport.
+* L’abonnement par e-mail inclut l’exportation PDF plutôt que l’HTML du rapport. Le nouvel abonnement par e-mail n’inclut pas la définition du rapport.
 
 * Le lien profond du rapport n’est pas pris en charge pour le moment.
-
-* L’exportation de PDF est synchrone dans la nouvelle expérience, contrairement à une exportation asynchrone dans l’expérience classique.
 
 >[!NOTE]
 >
