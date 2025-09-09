@@ -1,22 +1,22 @@
 ---
-description: Présentation de l’expérience utilisateur moderne de Marketo Engage - Documentation de Marketo - Documentation du produit
-title: Présentation de l’expérience utilisateur moderne de Marketo Engage
+description: Vue d’ensemble de l’expérience clientèle moderne de Marketo Engage - Documents Marketo - Documentation du produit
+title: Vue d’ensemble de l’expérience clientèle moderne de Marketo Engage
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# Présentation de l’expérience utilisateur moderne de Marketo Engage {#overview}
+# Vue d’ensemble de l’expérience clientèle moderne de Marketo Engage {#overview}
 
-Bienvenue dans l’expérience utilisateur Adobe Marketo Engage Modern UX (expérience utilisateur), une interface mise à jour qui offre une convivialité améliorée, ainsi qu’une nouvelle apparence sur la plateforme Marketo Engage.
+Bienvenue dans l’expérience clientèle moderne d’Adobe Marketo Engage, une interface mise à jour qui offre une convivialité améliorée, ainsi qu’une nouvelle apparence de la plateforme Marketo Engage.
 
 >[!PREREQUISITES]
 >
->Si votre équipe informatique restreint l’accès web à l’aide d’un place sur la liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les sockets web de Marketo :
+>Si votre équipe informatique restreint l’accès web à l’aide d’une la liste autorisée, demandez-lui d’ajouter les domaines suivants (y compris l’astérisque) pour autoriser toutes les ressources et tous les sockets web de Marketo :
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -24,23 +24,23 @@ Bienvenue dans l’expérience utilisateur Adobe Marketo Engage Modern UX (expé
 
 ## Nouveautés {#whats-new}
 
-Il existe de nombreuses nouvelles fonctionnalités dans l’expérience utilisateur moderne, qui sont toutes conçues pour améliorer considérablement votre expérience marketing.
+Il existe de nombreuses nouvelles fonctionnalités dans l’expérience clientèle moderne, qui sont toutes conçues pour améliorer considérablement votre expérience marketing.
 
 **Icônes**
 
-La nouvelle interface présente une iconographie améliorée et étendue.
+La nouvelle interface présente une iconographie améliorée et enrichie.
 
 ![](assets/overview-2.png)
 
 **Navigation globale**
 
-Au revoir superball. Vous disposez désormais d’un accès rapide à toutes les sections principales de Marketo Engage.
+Au revoir, superball. Vous disposez désormais d’un accès rapide à toutes les sections principales de Marketo Engage.
 
 ![](assets/overview-5.png)
 
 **URL de l’instance**
 
-Vous disposez également d’un accès rapide à votre identifiant munchkin, qui est désormais reflété dans l’URL de votre instance (encore plus utile pour les personnes disposant de plusieurs abonnements).
+Vous disposez également d’un accès rapide à votre identifiant Munchkin, qui est désormais reflété dans l’URL de votre instance (encore plus utile pour les personnes disposant de plusieurs abonnements).
 
 ![](assets/overview-6.png)
 
@@ -50,16 +50,16 @@ De nombreuses nouvelles fonctions d’arborescence sont disponibles.
 
 >[!NOTE]
 >
->L’exécution d’une recherche dans l’arborescence n’affiche que les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, veuillez utiliser la fonction [Recherche globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
+>L’exécution d’une recherche dans l’arborescence n’affiche que les 250 premiers résultats. Si, après une recherche, vous ne parvenez pas à localiser votre ressource, utilisez la fonction [Recherche globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
-**Marketo Classic contre le nouveau Marketo**
+**Marketo Classic par rapport au nouveau Marketo**
 
 <table>
  <tbody>
   <tr>
    <th>Fonctionnalité</th>
    <th>Classic</th>
-   <th>Next-gen</th>
+   <th>Nouvelle génération</th>
   </tr>
   <tr>
    <td>Appliquer plusieurs filtres en même temps</td>
@@ -67,22 +67,22 @@ De nombreuses nouvelles fonctions d’arborescence sont disponibles.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Nœud d’arborescence de brouillon et d’approbation combiné</td>
+   <td>Nœud d’arborescence combiné de brouillon et d’approbation</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Création de ressources locales dans des dossiers de programme</td>
+   <td>Créer des ressources locales dans les dossiers de programme</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Double-cliquez pour développer/réduire les nœuds de l’arborescence</td>
+   <td>Double-cliquer pour développer/réduire les nœuds de l’arborescence</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Glisser-déposer de l’arborescence au flux d’engagement</td>
+   <td>Glisser-déposer de l’arborescence vers le flux d’engagement</td>
    <td><strong>X</strong></td>
    <td></td>
   </tr>
@@ -93,16 +93,16 @@ De nombreuses nouvelles fonctions d’arborescence sont disponibles.
   </tr>
   <tr>
    <td>Filtrer par type de ressource et par état</td>
-   <td><i>partiel</i></td>
+   <td><i>Partiel</i></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Mettre en surbrillance l’arrière-plan pour afficher la hiérarchie au statut focus</td>
+   <td>Mettre en surbrillance l’arrière-plan pour afficher la hiérarchie à l’état focus</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Mots-clés de mise en surbrillance lors de la recherche</td>
+   <td>Mise en surbrillance de mots-clés lors de la recherche</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -137,12 +137,12 @@ De nombreuses nouvelles fonctions d’arborescence sont disponibles.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Recherche dans les dossiers archivés</td>
+   <td>Rechercher dans les dossiers archivés</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Chaîne de recherche enregistrée lors de la saisie de la recherche globale à partir de la recherche arborescente</td>
+   <td>Chaîne de recherche enregistrée lors de la saisie de la recherche globale à partir de la recherche dans l’arborescence</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -157,7 +157,7 @@ De nombreuses nouvelles fonctions d’arborescence sont disponibles.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Logique de recherche « Word commence par »</td>
+   <td>Logique de recherche « Le mot commence par »</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -166,7 +166,7 @@ De nombreuses nouvelles fonctions d’arborescence sont disponibles.
 
 ## Navigation globale {#global-nav}
 
-Jetez un coup d’œil à la nouvelle navigation globale.
+Consultez la nouvelle navigation globale.
 
 ![](assets/overview-7.png)
 
@@ -178,26 +178,26 @@ Jetez un coup d’œil à la nouvelle navigation globale.
   </tr>
   <tr>
    <td>2</td>
-   <td>Tous les articles de superball précédents répertoriés</td>
+   <td>Retrait de tous les anciens articles superball répertoriés</td>
   </tr>
   <tr>
   <tr>
    <td>3</td>
-   <td>Si vous disposez de plusieurs abonnements, cliquez sur votre sous-nom pour passer facilement à un autre</td>
+   <td>Si vous disposez de plusieurs abonnements, cliquez sur le nom de votre abonnement pour passer facilement à un autre.</td>
   </tr>
   <tr>
    <td>4</td>
-   <td>Recherche globale : vous pouvez désormais rechercher l’ensemble de votre instance à partir d’ici</td>
+   <td>Recherche globale : vous pouvez désormais rechercher l’ensemble de votre instance à partir d’ici.</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Tout ce qui se trouvait auparavant dans le menu déroulant du superball est toujours disponible sous forme de vignette dans votre Marketo.
+>Tout ce qui se trouvait auparavant dans le menu déroulant superball est toujours disponible sous forme de vignettes dans My Marketo.
 
 >[!TIP]
 >
->L’utilisation de la recherche dans l’arborescence ne génère des résultats qu’à partir de la section dans laquelle vous vous trouvez (par exemple, Activités marketing). Si vous souhaitez rechercher l’ensemble de votre instance, utilisez la recherche globale.
+>L’utilisation de la recherche dans l’arborescence ne génère des résultats qu’à partir de la section dans laquelle vous vous trouvez (par exemple, Activités marketing). Si vous souhaitez faire une recherche dans l’ensemble de votre instance, utilisez la recherche globale.
 
-Profitez de la nouvelle expérience Marketo Engage !
+Découvrez la nouvelle expérience Marketo Engage.

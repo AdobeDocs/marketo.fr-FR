@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359351
-description: Configuration et ajout d’une personne - Documents Marketo - Documentation du produit
-title: Configuration et ajout d’une personne
+description: Configurer et ajouter une personne - Documents Marketo - Documentation du produit
+title: Préparer sa configuration et ajouter une personne
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '225'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# Configuration et ajout d’une personne {#get-set-up-and-add-a-person}
+# Préparer sa configuration et ajouter une personne {#get-set-up-and-add-a-person}
 
-Il y a quelques choses à faire avant de commencer les missions.
+Vous devez faire quelques choses avant de commencer les missions.
 
-## Étape 1 : Se connecter à Marketo Engage {#step-log-in-to-marketo}
+## Étape 1 : se connecter à Marketo Engage {#step-log-in-to-marketo}
 
-1. [Connectez-vous à Marketo Engage](https://app.marketo.com){target="_blank"} à l’aide des informations d’identification reçues par e-mail.
+1. [Connectez-vous à Marketo Engage](https://app.marketo.com){target="_blank"} à l’aide des informations d’identification reçues par e-mail.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
-## Étape 2 : Créez un dossier d&#39;apprentissage {#step-create-a-learning-folder}
+## Étape 2 : créer un dossier d’apprentissage {#step-create-a-learning-folder}
 
 Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
@@ -33,17 +33,17 @@ Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. Nommez le dossier « Learning », puis cliquez sur **[!UICONTROL Créer]**.
+1. Nommez le dossier « Learning », puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
-1. Le nouveau dossier Formation s’affiche dans le menu de gauche.
+1. Le nouveau dossier Learning apparaîtra dans le menu de gauche.
 
    ![](assets/get-set-up-and-add-a-person-5.png)
 
-## Étape 3 : s’ajouter en tant que personne {#step-add-yourself-as-a-person}
+## Étape 2 : vous ajouter en tant que personne {#step-add-yourself-as-a-person}
 
-Ajoutez-vous en tant que personne dans Marketo pour pouvoir vous envoyer ultérieurement des e-mails de test.
+Ajoutez-vous en tant que personne dans Marketo : vous pourrez ensuite vous envoyer des e-mails de test.
 
 1. Accédez à la zone **[!UICONTROL Base de données]**.
 
@@ -59,11 +59,11 @@ Ajoutez-vous en tant que personne dans Marketo pour pouvoir vous envoyer ultéri
 
    >[!CAUTION]
    >
-   >* Assurez-vous que les adresses e-mail contiennent uniquement des caractères ASCII.
+   >* Assurez-vous que les adresses e-mail ne contiennent que des caractères ASCII.
    >
    >* Marketo ne prend **pas** en charge les adresses e-mail contenant des émoticônes.
 
-1. Pour afficher vos contacts, ouvrez votre [!UICONTROL Liste dynamique du système] dans le menu de gauche, puis cliquez sur **[!UICONTROL Tous les contacts]**.
+1. Pour afficher vos personnes, ouvrez vos [!UICONTROL Listes intelligentes du système] dans le menu de gauche, puis cliquez sur **[!UICONTROL Toutes les personnes]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
@@ -73,8 +73,8 @@ Ajoutez-vous en tant que personne dans Marketo pour pouvoir vous envoyer ultéri
 
 ## Configuration terminée {#set-up-complete}
 
-Vous êtes prêt pour votre première mission !
+Vous êtes en mesure de démarrer votre première mission.
 
 <br> 
 
-[Mission 1 : Envoyer un e-mail Blast ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[Mission 1 : envoyer un e-mail de masse ►](/help/marketo/getting-started/quick-wins/send-an-email.md)

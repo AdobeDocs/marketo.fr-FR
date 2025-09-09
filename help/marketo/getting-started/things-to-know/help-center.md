@@ -1,34 +1,34 @@
 ---
-description: Centre d’aide - Documents Marketo Engage - Documentation du produit
-title: Centre dʼaide
+description: Centre d’aide - Documents Marketo Engage - Documentation du produit
+title: Centre d’aide
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
 source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '312'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Centre dʼaide {#help-center}
+# Centre d’aide {#help-center}
 
-Le Centre d’aide de Adobe Marketo Engage sert d’emplacement centralisé pour obtenir de l’aide. Outre les liens vers diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [informations sur la mise à jour](/help/marketo/release-notes/current.md){target="_blank"}, la [Communauté des nations marketing](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des présentations intégrées au produit utiles organisées par niveau d’expérience.
+Le centre d’aide d’Adobe Marketo Engage sert d’emplacement centralisé pour obtenir de l’aide. Outre les liens vers diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [informations sur la version](/help/marketo/release-notes/current.md){target="_blank"}, [Communauté Marketing Nation](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des présentations très utiles, intégrées au produit et organisées par niveau d’expérience.
 
-## Accès {#how-to-access}
+## Comment y accéder {#how-to-access}
 
-Il existe deux expériences différentes, selon que votre abonnement a déjà été migré vers Adobe Identity Management System (IMS).
+Il existe deux expériences différentes, selon que votre abonnement a déjà été migré ou non vers le système de gestion des identités (IMS) Adobe.
 
-### Migration IMS pré-Adobe {#pre-adobe-ims-integration}
+### Avant la migration vers Adobe IMS {#pre-adobe-ims-integration}
 
-Ces étapes sont destinées aux utilisateurs de Marketo Engage qui n’ont _pas_ encore été migrés vers [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
+Ces étapes sont destinées aux utilisateurs et utilisatrices de Marketo Engage qui n’ont _pas_ encore été migrés vers [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
-[Connectez-vous](https://login.marketo.com/){target="_blank"} à Marketo Engage et cliquez sur l’icône Aide .
+[Connectez-vous](https://login.marketo.com/){target="_blank"} à Marketo Engage et cliquez sur l’icône Aide.
 
 ![](assets/help-center-1.png)
 
 #### Guides {#guides}
 
-Les guides servent de présentation rapide des fonctionnalités populaires.
+Les guides servent de présentations rapides des fonctionnalités populaires.
 
 ![](assets/help-center-2.png)
 
@@ -54,40 +54,40 @@ Les guides servent de présentation rapide des fonctionnalités populaires.
 
 #### Nouveautés {#whats-new}
 
-L’onglet Nouveautés contient les détails de la dernière version de Marketo Engage.
+L’onglet Nouveautés contient les détails de la dernière version de Marketo Engage.
 
 ![](assets/help-center-7.png)
 
 >[!TIP]
 >
->Cliquez sur l’icône de flèche en bas pour afficher la page dans Experience League.
+>Cliquez sur l’icône de flèche située en bas pour afficher la page dans Experience League.
 
 #### Ressources {#resources}
 
-L’onglet Ressources vous donne un accès rapide et direct aux différentes manières d’obtenir de l’aide supplémentaire pour votre instance Marketo Engage.
+L’onglet Ressources vous donne un accès rapide et direct aux différentes manières d’obtenir de l’aide supplémentaire pour votre instance Marketo Engage.
 
 ![](assets/help-center-8.png)
 
-### Migration IMS post-Adobe {#post-adobe-ims-integration}
+### Après la migration vers Adobe IMS {#post-adobe-ims-integration}
 
-Ces étapes sont destinées aux utilisateurs de Marketo Engage qui ont déjà été migrés vers [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
+Ces étapes sont destinées aux utilisateurs et utilisatrices de Marketo Engage qui ont déjà été migrés vers [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
-[Connectez-vous](https://experience.adobe.com/){target="_blank"} à Marketo Engage et cliquez sur l’icône Aide .
+[Connectez-vous](https://experience.adobe.com/){target="_blank"} à Marketo Engage et cliquez sur l’icône Aide.
 
 ![](assets/help-center-9.png)
 
-Le Centre d&#39;aide s&#39;affiche. Cliquez sur l’une des ressources d’aide répertoriées pour accéder à sa zone respective. Vous pouvez également rechercher des termes spécifiques.
+Le centre d’aide s’affiche. Cliquez sur l’une des ressources d’aide répertoriées pour accéder à sa zone respective. Vous pouvez également rechercher des termes spécifiques.
 
 ![](assets/help-center-10.png)
 
-Les guides (qui faisaient auparavant partie du Centre d’aide avant la migration d’Adobe IMS) se trouvent désormais dans la zone de navigation de gauche.
+Les guides (qui faisaient auparavant partie du Centre d’aide avant la migration vers Adobe IMS) se trouvent désormais dans la zone de navigation de gauche.
 
 ![](assets/help-center-11.png)
 
-Le Centre de guides comporte deux onglets, Guides et Nouveautés. Les guides servent de présentation rapide des fonctionnalités populaires dans Marketo Engage. Cliquez sur le guide de votre choix ou recherchez-en un en particulier.
+Le centre de guides comporte deux onglets : Guides et Nouveautés. Les guides servent de présentations rapides des fonctionnalités populaires dans Marketo Engage. Cliquez sur un guide souhaité ou recherchez-en un en particulier.
 
 ![](assets/help-center-12.png)
 
-L’onglet Nouveautés contient les détails de la dernière version de Marketo Engage.
+L’onglet Nouveautés contient les détails de la dernière version de Marketo Engage.
 
 ![](assets/help-center-13.png)

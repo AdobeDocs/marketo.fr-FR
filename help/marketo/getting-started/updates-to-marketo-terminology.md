@@ -3,25 +3,25 @@ unique-page-id: 11387674
 description: Mises à jour de la terminologie Marketo - Documents Marketo - Documentation du produit
 hide: true
 hidefromtoc: true
-title: Mises à jour de la terminologie de Marketo
+title: Mises à jour de la terminologie Marketo
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Mises à jour de la terminologie de Marketo {#updates-to-marketo-terminology}
+# Mises à jour de la terminologie Marketo {#updates-to-marketo-terminology}
 
-Nous apportons des changements à notre plateforme, ce qui aura une incidence sur ce qu&#39;on appelle certaines choses. Si vous disposez d’une nouvelle instance de Marketo depuis mars 2016, ou si votre société a renouvelé son contrat après juillet 2016, il se peut que la nouvelle terminologie s’affiche maintenant.
+Nous apportons des modifications à notre plateforme, ce qui aura une incidence sur la dénomination de certains éléments. Si vous disposez d’une nouvelle instance Marketo à compter de mars 2016, ou si votre société a renouvelé son contrat après juillet 2016, il est possible que vous voyiez la nouvelle terminologie.
 
-Bien que la terminologie puisse varier dans la documentation de Marketo, soyez assuré que chaque article sera bientôt mis à jour pour prendre en compte ces modifications. Toutes les instructions sont identiques.
+Bien que la terminologie puisse varier dans la documentation de Marketo, nous vous assurons que chaque article sera bientôt mis à jour pour refléter ces modifications. Toutes les instructions sont identiques.
 
-Qu&#39;est-ce qui a changé ?
+Qu’est-ce qui a donc changé ?
 
-## Le prospect est maintenant une personne {#lead-is-now-person}
+## Le lead devient une personne. {#lead-is-now-person}
 
-Le changement le plus important est le changement de nom des leads/leads en personnes/personnes.
+La modification la plus importante est le changement de nom de lead/leads en personne/personnes.
 
 <table>
  <colgroup>
@@ -46,7 +46,7 @@ Le changement le plus important est le changement de nom des leads/leads en pers
  </tbody>
 </table>
 
-Dans certains cas, le mot « plomb » est simplement supprimé.
+Dans certains cas, le mot « lead » est purement et simplement supprimé.
 
 <table>
  <colgroup>
@@ -71,19 +71,19 @@ Dans certains cas, le mot « plomb » est simplement supprimé.
  </tbody>
 </table>
 
-Lead et Personne **sont la même chose**.
+Lead et Personne **correspondent à la même chose**.
 
 ## Jetons {#tokens}
 
-Les jetons contenant le mot lead **ne changent pas**. Nous nous excusons pour toute confusion ; toutefois, la modification de tous les jetons pour les faire correspondre à la nouvelle terminologie romprait un grand nombre de jetons actuellement utilisés. Vous verrez donc toujours des jetons tels que « `{{lead.First Name}}` ». Il n’existe aucun jeton spécifique à une personne.
+Les jetons contenant le mot lead **ne changent pas**. Nous nous excusons pour toute confusion. Toutefois, la modification de tous les jetons pour s’aligner sur la nouvelle terminologie romprait un grand nombre de jetons utilisés actuellement. Vous verrez donc toujours des jetons tels que « `{{lead.First Name}}` ». Il n’existe aucun jeton spécifique à une personne.
 
 >[!NOTE]
 >
->Il *existe* un jeton appelé « Notes de la personne », mais ce jeton était toujours là. Il est généralement utilisé, le cas échéant, pour un champ de description dans votre CRM.
+>Il *existe* un jeton appelé « Notes de la personne », mais ce jeton a toujours été là. Il est généralement utilisé, le cas échéant, pour un champ de description dans votre CRM.
 
 ## Gestion des champs {#field-management}
 
-Les champs qui contenaient le terme Lead ont été remplacés par Personne ou le mot Lead a été supprimé. Une exception notable est toutefois le champ « Propriétaire du lead ». Il est maintenant connu sous le nom de « Propriétaire de ventes ».
+Les champs qui contenaient le terme Lead ont été remplacés par Personne ou le mot Lead a été supprimé. Une exception notable réside toutefois dans le champ « Propriétaire du lead ». Il est maintenant connu sous le nom de « Propriétaire de ventes ».
 
 <table>
  <colgroup>
@@ -110,9 +110,9 @@ Les champs qui contenaient le terme Lead ont été remplacés par Personne ou le
 
 >[!NOTE]
 >
->Pour obtenir la liste complète des noms de champ concernés, consultez cet [article de support technique](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>Pour obtenir la liste complète des noms de champs concernés, consultez cet [article de support](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## Real-Time Personalization (RTP) est désormais Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
+## Real-Time Personalization (RTP) est désormais Web Personalization. {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table>
  <colgroup>
@@ -137,13 +137,13 @@ Les champs qui contenaient le terme Lead ont été remplacés par Personne ou le
  </tbody>
 </table>
 
-En plus du changement de nom, il se compose désormais de quatre applications distinctes :
+En plus du changement de nom, il se compose désormais de quatre applications distinctes :
 
-| **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | A sa propre mosaïque sur l’écran d’accueil. |
+| **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | A sa propre vignette sur l’écran d’accueil. |
 |---|---|
-| **[Marketing Web basé sur les comptes](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Accessible via la mosaïque Web Personalization |
-| **[Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Accessible via la mosaïque Web Personalization |
-| **[Contenu prédictif](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | A sa propre mosaïque sur l’écran d’accueil. |
+| **[Marketing web basé sur les comptes](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Accessible via la vignette Web Personalization. |
+| **[Reciblage personnalisé](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Accessible via la vignette Web Personalization. |
+| **[Contenu prédictif](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | A sa propre vignette sur l’écran d’accueil. |
 
 >[!NOTE]
 >

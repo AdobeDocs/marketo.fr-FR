@@ -1,28 +1,28 @@
 ---
-description: Bouton bascule - Documents Marketo - Documentation du produit
-title: Basculer
+description: Bouton (bascule) - Documents Marketo - Documentation du produit
+title: Bouton (bascule)
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '275'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Basculer {#toggle-switch}
+# Bouton (bascule) {#toggle-switch}
 
-Le bouton (bascule) vous permet de basculer entre l’interface classique de Marketo et l’expérience utilisateur moderne. Il est disponible dans tous les domaines mis en évidence ci-dessous.
+Le bouton (bascule) vous permet de basculer entre l’interface classique de Marketo et l’expérience d’utilisation moderne. Il est disponible dans toutes les zones mises en surbrillance ci-dessous.
 
 >[!NOTE]
 >
->Lorsque le bouton (bascule) est sélectionné, tous les workflows existants sont enregistrés automatiquement avant que la modification de l’interface utilisateur ne se produise. Si une opération est déjà en cours (par exemple : une ressource est en cours d’approbation), vous recevrez un message d’erreur indiquant comme tel et vous devrez réessayer une fois l’opération terminée.
+>Lorsque le bouton (bascule) est sélectionné, tous les workflows existants sont enregistrés automatiquement avant que le changement d’interface d’utilisation n’ait lieu. Si une opération est déjà en cours (par exemple, une ressource est en cours d’approbation), un message d’erreur en ce sens s’affiche et vous devez réessayer une fois l’opération terminée.
 
-## Activer le bouton (bascule) pour les rôles individuels {#enable-the-toggle-switch-for-individual-roles}
+## Activer le bouton (bascule) pour des rôles individuels {#enable-the-toggle-switch-for-individual-roles}
 
-Activez le bouton (bascule) pour chaque rôle ou tous les rôles. Voici comment procéder.
+Activez le bouton (bascule) pour des rôles individuels ou tous les rôles. Voici comment faire.
 
-1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
+1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/toggle-switch-1.png)
 
@@ -34,11 +34,11 @@ Activez le bouton (bascule) pour chaque rôle ou tous les rôles. Voici comment 
 
    ![](assets/toggle-switch-3.png)
 
-## Activer pour les fonctionnalités {#enable-for-features}
+## Activer pour des fonctionnalités {#enable-for-features}
 
-Vous avez la possibilité d’activer manuellement l’expérience utilisateur Marketo Engage Modern pour certaines fonctionnalités, ou pour toutes les fonctionnalités disponibles (actuelles et à venir).
+Vous avez la possibilité d’activer manuellement l’expérience d’utilisation moderne de Marketo Engage pour certaines fonctionnalités, ou pour toutes les fonctionnalités disponibles (actuelles et futures).
 
-Dans une zone où se trouve actuellement le bouton (dans cet exemple, nous sommes dans la vue Liste d’e-mails), cliquez simplement sur le bouton (bascule) en bas à droite de la page.
+Dans une zone où se trouve actuellement le bouton (bascule) (dans cet exemple, nous sommes dans la vue Liste d’e-mails), cliquez simplement sur le bouton (bascule) en bas à droite de la page.
 
 ![](assets/toggle-switch-4.png)
 
@@ -46,29 +46,29 @@ La nouvelle expérience se charge.
 
 ![](assets/toggle-switch-5.png)
 
-Pour l’activer pour _toutes_ fonctionnalités, cliquez sur l’icône d’engrenage à côté du bouton bascule.
+Pour l’activer pour _toutes_ les fonctionnalités, cliquez sur l’icône de roue dentée en regard du bouton (bascule).
 
 ![](assets/toggle-switch-6.png)
 
-Sélectionnez **[!UICONTROL Activer pour toutes les fonctionnalités disponibles]** puis cliquez sur **[!UICONTROL OK]**.
+Sélectionnez **[!UICONTROL Activer pour toutes les fonctionnalités disponibles]**, puis cliquez sur **[!UICONTROL OK]**.
 
 ![](assets/toggle-switch-7.png)
 
 ## Fonctionnalités disponibles {#available-features}
 
-Les fonctionnalités suivantes sont actuellement disponibles dans l’expérience utilisateur moderne (de nouvelles fonctionnalités étant ajoutées à chaque version) :
+Les fonctionnalités suivantes sont actuellement disponibles dans l’expérience d’utilisation moderne (de nouvelles fonctionnalités sont ajoutées à chaque version) :
 
 * Vue Détails de l’e-mail
 * Vue Liste d’e-mails
 * Vue Détails du modèle d’e-mail
-* Liste de modèles d&#39;e-mail
-* Vue du tableau de bord de test des e-mails
-* Affichage des détails du formulaire
-* Vue Liste des formulaires
-* Page de détails Images et fichiers
-* Vue détaillée de la page de destination
-* Vue Liste des pages de destination
+* Liste de modèles d’e-mail
+* Vue Tableau de bord de test des e-mails
+* Vue Détails du formulaire
+* Vue Liste de formulaires
+* Page Détails des images et des fichiers
+* Vue Détails de la page de destination
+* Vue Liste de pages de destination
 * Détails du modèle de page de destination
 * Liste de modèles de page de destination
-* Vue Détails du fragment de code
-* Vue Liste de fragments de code
+* Vue Détails de l’extrait
+* Vue Liste d’extrait
