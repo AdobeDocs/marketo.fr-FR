@@ -187,8 +187,8 @@ En raison des améliorations apportées à la sécurité de Salesforce, les pack
    * [!UICONTROL Dernière activité Marketo par ventes]
    * [!UICONTROL Dernier engagement Marketo par les ventes]
    * [!UICONTROL Score du lead MKTO]
-   * [!UICONTROL  Score relatif ]
-   * [!UICONTROL  Valeur de score relative ]
+   * [!UICONTROL &#x200B; Score relatif &#x200B;]
+   * [!UICONTROL &#x200B; Valeur de score relative &#x200B;]
    * [!UICONTROL Ventes Insight] - Ouvre la page de liste complète des contacts
    * [!UICONTROL Urgence]
    * [!UICONTROL Valeur d’urgence]
@@ -235,9 +235,9 @@ Les champs Personne de Marketo doivent être mappés aux champs Contact de Sales
 
 1. Dans Salesforce, cliquez sur le signe **+** à l’extrémité de la barre d’onglets, puis cliquez sur **[!UICONTROL Configuration Insight des ventes Marketo]**.
 
-1. Copiez les informations d’identification du panneau API Soap dans la page d’administration Marketo Sales Insight [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration de [!DNL Salesforce] [!DNL Sales Insight].
+1. Copiez les informations d’identification du panneau API Soap dans la page d’administration Marketo Sales Insight [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration de [!DNL Salesforce] [!DNL Sales Insight].
 
-1. Copiez les informations d’identification à partir du panneau API Rest dans la page d’administration Marketo Sales Insight [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration de [!DNL Salesforce] [!DNL Sales Insight].
+1. Copiez les informations d’identification à partir du panneau API Rest dans la page d’administration Marketo Sales Insight [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration de [!DNL Salesforce] [!DNL Sales Insight].
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
