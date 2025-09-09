@@ -1,11 +1,11 @@
 ---
 unique-page-id: 557086
-description: Applications Supplémentaires - Documents Marketo - Documentation Du Produit
+description: Applications supplémentaires - Documents Marketo - Documentation du produit
 title: Applications supplémentaires
 source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 

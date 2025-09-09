@@ -7,57 +7,57 @@ feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '577'
-ht-degree: 4%
+ht-degree: 93%
 
 ---
 
 # Importer une liste de personnes {#import-a-list-of-people}
 
-## Mission : Importer dans votre base de données une liste de tableurs des participants à des salons professionnels {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Mission : importer une liste sous forme de feuille de calcul de participantes et participants à un salon professionnel dans votre base de données {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
->[Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[Préparer sa configuration et ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à partir d’un fichier de feuille de calcul.
 
-## Étape 1 : Télécharger et modifier une feuille de calcul {#step-download-and-edit-a-spreadsheet}
+## Étape 1 : télécharger et modifier une feuille de calcul {#step-download-and-edit-a-spreadsheet}
 
-1. Pour commencer, téléchargez notre fichier de feuille de calcul d&#39;exercices pratiques ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) sur votre ordinateur.
+1. Pour commencer, téléchargez notre fichier de feuille de calcul d’exercice pratique ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) sur votre ordinateur.
 
    ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
-   >Lors de l&#39;importation d&#39;une date, utilisez le format suivant : **9/21/20** (Mois/Jour/Année).
+   >Lors de l’import d’une date, utilisez le format suivant : **9/21/20** (Mois/Jour/Année).
 
    >[!NOTE]
    >
-   >Tous les champs de date et d’heure importés sont traités comme des champs d’heure centrale. Si vous avez des champs date/heure dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour les transformer en Heure du Centre (Amérique/Chicago).
+   >Tous les champs de date et d’heure importés sont traités comme des champs d’heure du Centre. Si vous avez des champs de date/heure dans un autre fuseau horaire, vous pouvez utiliser une formule Excel pour les transformer en heure du Centre (Amérique/Chicago).
 
-1. Ajoutez votre prénom, votre nom, votre adresse e-mail actuelle (afin de recevoir les e-mails de soutien que vous enverrez lors de la prochaine mission) et votre intitulé de poste. Enregistrez le fichier sur votre ordinateur.
+1. Ajoutez votre prénom, votre nom, votre adresse e-mail actuelle (pour pouvoir recevoir les e-mails d’accompagnement que vous enverrez lors de la mission suivante) et l’intitulé de votre poste. Enregistrez le fichier sur votre ordinateur.
 
    ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
-   >* Assurez-vous que les adresses e-mail contiennent uniquement des caractères ASCII.
+   >* Assurez-vous que les adresses e-mail ne contiennent que des caractères ASCII.
    >
    >* Marketo ne prend **pas** en charge les adresses e-mail contenant des émoticônes.
    >
-   >* L’importation de valeurs `NULL` au moyen d’un fichier CSV peut générer une « valeur Modifier les données » pour les champs numériques du [journal d’activité](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} d’une personne, _même si les champs sont déjà vides_. Si vous disposez de [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} qui utilisent le filtre « Valeur des données modifiée » ou le déclencheur « Modifications de la valeur des données », cela peut entraîner la qualification de certaines personnes pour ces campagnes, même si les données ne changent pas réellement. Vous pouvez utiliser des [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} pour vous assurer que personne ne se qualifie pour ces campagnes lors de l’importation.
+   >* L’import de valeurs `NULL` au moyen d’un fichier CSV peut générer une « Valeur des données de modification » pour les champs numériques du [journal d’activité](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} d’une personne, _même si les champs sont déjà vides_. Si vous disposez de [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} qui utilisent le filtre « Valeur des données modifiée » ou le déclencheur « Modifications de la valeur des données », cela peut entraîner la qualification de certaines personnes pour ces campagnes, même si les données ne changent pas réellement. Vous pouvez utiliser des [contraintes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} pour vous assurer que personne n’est qualifié pour ces campagnes lors de l’import.
 
-## Étape 2 : Créer un programme {#step-create-a-program}
+## Étape 2 : créer un programme {#step-create-a-program}
 
 1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Sélectionnez votre dossier **Apprentissage**, puis sous **[!UICONTROL Nouveau]** cliquez sur **[!UICONTROL Nouveau programme]**.
+1. Sélectionnez votre dossier **Learning**, puis sous **[!UICONTROL Nouveau]**, cliquez sur **[!UICONTROL Nouveau programme]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Nom** sélectionnez le programme « Mon programme de salon professionnel », puis sélectionnez « Événement » pour le **[!UICONTROL Type de programme]**.
+1. **Nommez** le programme « Mon programme de salon professionnel », puis sélectionnez « Événement » pour le **[!UICONTROL Type de programme]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
@@ -67,11 +67,11 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
 >[!NOTE]
 >
->Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur les [**événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur les [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
-## Étape 3 : Importer votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
+## Étape 3 : importer votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. Dans **Mon programme de salon professionnel**, cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvel actif local]**.
+1. Dans **Mon programme de salon professionnel**, cliquez sur **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
@@ -79,11 +79,11 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Nommez** répertoriez les participants au salon et cliquez sur **[!UICONTROL Créer]**.
+1. **Nommez** la liste « Participantes et participants au salon professionnel » et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. Dans la liste **[!UICONTROL Participants au salon professionnel]**, cliquez sur **[!UICONTROL Liste des actions]** et sélectionnez **[!UICONTROL Importer la liste]**.
+1. Dans la liste **[!UICONTROL Participantes et participants au salon professionnel]**, cliquez sur **[!UICONTROL Actions de liste]** et sélectionnez **[!UICONTROL Importer la liste]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -93,19 +93,19 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    >[!NOTE]
    >
-   >La limite de taille des fichiers CSV est 100MB.
+   >La limite de taille des fichiers CSV est de 100 Mo.
 
-1. **[!UICONTROL Parcourez]** accédez au fichier de feuille de calcul **tradeshow-attendees.csv** sur votre ordinateur et cliquez sur **[!UICONTROL Suivant]**.
+1. **[!UICONTROL Accédez]** au fichier de feuille de calcul **tradeshow-attendees.csv** sur votre ordinateur et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >En mode d&#39;importation de liste, choisir **[!UICONTROL Ignorer les nouvelles personnes et les mises à jour]** signifie que vous n&#39;affecterez pas les enregistrements de personne existants et que vous ne consignerez aucune activité. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode va :
+   >En mode d’import de liste, choisir **[!UICONTROL Ignorer les nouvelles personnes et les mises à jour]** signifie que vous n’affecterez pas les enregistrements de personnes existants et que vous ne consignerez aucune activité. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode aura les effets suivants :
    >
-   > * Ignorer la création de nouvelles personnes
-   > * Ignorer les mises à jour du champ individu
-   > * Ignorer la journalisation d&#39;activité
+   > * Ignorer la création de personnes
+   > * Ignorer les mises à jour du champ de personne
+   > * Ignorer la journalisation d’activité
 
 1. Mappez vos champs [!UICONTROL Colonne de liste] à leur champ Marketo respectif et cliquez sur **[!UICONTROL Suivant]**.
 
@@ -117,23 +117,23 @@ Dans ce tutoriel, vous apprendrez à importer dans Marketo des personnes à part
 
    >[!NOTE]
    >
-   >Si vous ne souhaitez pas importer certains champs, sélectionnez **Ignorer** dans le menu déroulant Champ Marketo .
+   >Si vous ne souhaitez pas importer certains champs, sélectionnez **Ignorer** dans le menu déroulant de champ Marketo.
 
-1. Sélectionnez **Mon programme de salon professionnel** pour le **[!UICONTROL Programme d&#39;acquisition]**, puis cliquez sur **[!UICONTROL Importer]**.
+1. Sélectionnez **Mon programme de salon professionnel** pour le **[!UICONTROL Programme d’acquisition]**, puis cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. Attendez que votre équipe effectue l’importation, puis fermez le pop-up de progression de l’importation.
+1. Attendez que les personnes procèdent à l’import, puis fermez la fenêtre pop-up de progression de l’import.
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. De retour dans **Mon programme de salon professionnel**, cliquez sur l&#39;onglet **[!UICONTROL Membres]**. Vous voyez toutes les personnes que vous venez d&#39;importer.
+1. De retour dans **Mon programme de salon professionnel**, cliquez sur l’onglet **[!UICONTROL Personnes membres]**. Vous voyez toutes les personnes que vous venez d&#39;importer.
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->Vous pouvez analyser le succès de votre programme en effectuant le suivi de l’adhésion au programme. En savoir plus sur les [**programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>Vous pouvez analyser le succès de votre programme en effectuant le suivi de l’abonnement au programme. En savoir plus sur les [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## Mission accomplie {#mission-complete}
 
@@ -141,6 +141,6 @@ Les participants au salon sont désormais membres de votre programme Marketo !
 
 <br> 
 
-[◄ Mission 4 : Réponse automatique aux courriers électroniques](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ Mission 4 : e-mail à réponse automatique](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Mission 6 : Drip, Drip, Nurture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Mission 6 : marketing goutte à goutte et accompagnement ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

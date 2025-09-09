@@ -1,29 +1,29 @@
 ---
 unique-page-id: 5472490
-description: Calendrier des versions - Documents Marketo - Documentation sur le produit
+description: Calendrier des versions - Documents Marketo - Documentation du produit
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 # Calendrier de publication {#release-schedule}
 
-**Version** : mois/année de chaque version. Une fois disponibles, les notes de mise à jour sont liées dans le tableau ci-dessous.
+**Version** : mois/année de chaque version. Une fois disponibles, les notes de mise à jour sont liées dans le tableau ci-dessous.
 
-**Date de publication** : le déploiement commence généralement le mardi de la semaine de publication, une grande partie de la mise à niveau ayant lieu le vendredi soir. La date indiquée correspond à la mise à jour du vendredi.
+**Date de publication** : le déploiement commence généralement le mardi de la semaine de publication, la mise à niveau se poursuivant le vendredi soir. La date indiquée correspond à la mise à jour du vendredi.
 
-**Statut** :
+**Statut** :
 
-* Selon le calendrier - Nous prévoyons de publier les fonctionnalités et les améliorations à la date indiquée
-* En cours - Nous sommes en train de déployer les fonctionnalités de la version
-* Expédié - La version est terminée
+* Prévu : nous prévoyons de publier les fonctionnalités et les améliorations à la date indiquée.
+* En cours : nous sommes en train de déployer les fonctionnalités de la version.
+* Expédié : la version est publiée.
 
-_Les dates de publication et les fonctionnalités peuvent changer_
+_Les dates de publication et les fonctionnalités sont susceptibles d’être modifiées._
 
 <table>
  <tbody>
@@ -33,44 +33,44 @@ _Les dates de publication et les fonctionnalités peuvent changer_
    <th width="250px">Statut</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Janvier 2025</a></td>
-   <td>17 Janvier 2025</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Janvier 2025</a></td>
+   <td>17 janvier 2025</td>
    <td>Expédié</td>
   </tr>
    <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Mars 2025</a></td>
-   <td>samedi 28 mars 2025</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Mars 2025</a></td>
+   <td>28 mars 2025</td>
    <td>Expédié</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Avril 2025</a></td>
-   <td>Avril 2025</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Avril 2025</a></td>
+   <td>Avril 2025</td>
    <td>Expédié</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mai 25</a></td>
-   <td>23 Mai 2025</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mai 2025</a></td>
+   <td>23 mai 2025</td>
    <td>Expédié</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">25 juillet</a></td>
-   <td>samedi 11 juillet 2025</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Juillet 2025</a></td>
+   <td>11 juillet 2025</td>
    <td>Expédié</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">25 août</a></td>
-   <td>22 Août 2025</td>
+   <td><a href="/help/marketo/release-notes/current.md">Août 2025</a></td>
+   <td>22 août 2025</td>
    <td>En cours</td>
   </tr>
   <tr>
-   <td>Septembre '25</td>
-   <td>19 septembre 2025</td>
-   <td>Selon le calendrier</td>
+   <td>Septembre 2025</td>
+   <td>19 septembre 2025</td>
+   <td>Prévu</td>
   </tr>
   <tr>
-   <td>Octobre 2025</td>
-   <td>samedi 17 octobre 2025</td>
-   <td>Selon le calendrier</td>
+   <td>Octobre 2025</td>
+   <td>17 octobre 2025</td>
+   <td>Prévu</td>
   </tr>
  </tbody>
 </table>
