@@ -3,16 +3,16 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 44%
+source-wordcount: '494'
+ht-degree: 51%
 
 ---
 
-# Notes de mise à jour : août 2025 {#release-notes-aug-25}
+# Notes de mise à jour : septembre 2025 {#release-notes-sep-25}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 25 août. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de septembre 2025. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être co
 
 ## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 22 août 2025**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 19 septembre 2025**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Reporting</strong> : les rapports Performances des emails et Performances des liens d'email affichent désormais les données des emails créés à l'aide du nouveau Designer d'email.</td>
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Suppression de la saisie semi-automatique</strong> : l’option de saisie semi-automatique de l’éditeur de personnalisation de jeton pointait vers des objets erronés et a été supprimée. Il n’est pas prévu de le mettre à nouveau en œuvre pour le moment.</td>
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Optimisation de l’aperçu des e-mails</strong> : certains utilisateurs affichaient des temps de chargement plus lents lors de la tentative de prévisualisation de leur e-mail dans la page e-mail/modèle d’e-mail/détails du fragment. Cette expérience a été optimisée pour des temps de chargement jusqu’à 60 % plus rapides.</td>
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer d’e-mail - Correctifs de modèles</strong> : certains modèles prêts à l’emploi rencontraient des problèmes de rendu (par exemple, le rendu n’était pas correct sur certains navigateurs/modes sombres, les images n’étaient pas alignées correctement, les boutons CTA étaient déplacés, etc.). Tous ces problèmes ont été corrigés dans cette version.</td>
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Correctif de verrouillage de contenu</strong> : auparavant, si un modèle d’e-mail était créé avec le verrouillage de contenu et que le modèle était utilisé pour créer un e-mail, le verrouillage de contenu persistait même lorsque l’e-mail était réinitialisé ou que l’option « modifier la conception » était sélectionnée. Ce problème est résolu dans cette version.</td>
-   <td>Expédié</td>
-   <td>s/o</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Autorisation de modifier les limites de campagne intelligente</strong> : les administrateurs peuvent désormais restreindre la possibilité de modifier les limites de campagne intelligente aux utilisateurs dotés d’autorisations uniquement.</td>
+   <td><strong>Conservation des activités de webinaire à la demande</strong> : les utilisateurs de webinaires interactifs disposent désormais de données de tableau de bord de webinaires à la demande disponibles depuis plus de 30 jours (auparavant, elles ne pouvaient pas être consultées avant 30 jours).</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -91,6 +41,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 <br/>
 
 ## Annonces {#announcements}
+
+* **Retour aux scripts Velocity dans le nouveau Designer d’e-mail** : Adobe Marketo Engage a lancé en juin dernier une fonctionnalité appelée _Contenu conditionnel_ pour le nouveau Designer d’e-mail. Cette fonctionnalité était optimisée par le script Handlebar au lieu du script Velocity, dans le but de fournir un peu plus de flexibilité dans votre contenu dynamique. Mais lorsque nous avons découvert qu’il provoquait une résolution incorrecte de certains jetons, nous avons décidé de le désactiver temporairement. [En savoir plus](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity End of Life** : en août 2025, Adobe a commencé à supprimer progressivement la prise en charge de Marketo Engage Identity (connexion via `login.marketo.com`). Pour éviter l’interruption de l’accès à Marketo Engage, vous devez passer à [Adobe Identity](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} au plus tard le 30 septembre 2025.
 
