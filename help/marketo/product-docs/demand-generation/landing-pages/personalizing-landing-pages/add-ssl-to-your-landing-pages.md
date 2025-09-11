@@ -4,9 +4,9 @@ description: Ajouter SSL à vos pages de destination - Documents Marketo - Docum
 title: Ajouter SSL à vos pages de destination
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '801'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,27 @@ Suivez les étapes ci-dessous pour activer SSL pour votre domaine par défaut.
 
 >[!NOTE]
 >
->Le statut PRÊT du SSL peut prendre jusqu’à trois minutes. Vous devez actualiser la page pour que les modifications s’affichent.
+>Le statut PRÊT du SSL peut prendre jusqu’à trois minutes. Actualisez la page pour que les modifications s’affichent.
+
+## Modification des SSL dans les alias de domaines existants
+
+Pour activer SSL pour vos alias de domaine existants, procédez comme suit.
+
+1. Dans la zone _[!UICONTROL Admin]_, développez **[!UICONTROL Intégration]** dans le volet de navigation de gauche, puis sélectionnez **[!UICONTROL Pages de destination]**.
+
+1. Sur la page, sélectionnez l’onglet **[!UICONTROL Règles]** dans la partie supérieure.
+
+1. Sélectionnez la ligne d’alias de domaine que vous souhaitez modifier, puis cliquez sur **[!UICONTROL Ajouter SSL]** dans la partie supérieure.
+
+   ![Zone d’administration - Intégration > Onglet Pages de destination - Règles - Sélectionner l’alias du domaine](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. Dans la boîte de dialogue, cliquez sur **[!UICONTROL Confirmer]**.
+
+   ![Ajouter SSL - Confirmer](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>Le statut PRÊT du SSL peut prendre jusqu’à trois minutes. Actualisez la page pour que les modifications s’affichent.
 
 ## Message d&#39;erreur {#error-messages}
 
@@ -99,7 +119,7 @@ Vous trouverez ci-dessous les messages d’erreur que vous pouvez recevoir, ains
 
 ## Éléments à noter {#things-to-note}
 
-* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personnalisés** : si vous avez besoin d’un SSL personnalisé, envoyez un ticket [Support technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. N’utilisez pas la case à cocher en libre-service pour la création SSL.
 
