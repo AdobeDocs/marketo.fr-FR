@@ -3,26 +3,26 @@ description: Notes De Mise À Jour - Octobre 2024 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 3%
+ht-degree: 21%
 
 ---
 
-# Notes De Mise À Jour : Octobre 2024 {#release-notes-oct-24}
+# Notes de mise à jour : octobre 2024 {#release-notes-oct-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
-Les notes de mise à jour spécifiques à Adobe Dynamic Chat [sont disponibles ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **4 octobre 2024** avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 4 octobre 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,7 +34,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
     <tr>
    <td><strong>Tokenisation pour les webinaires interactifs</strong> : vous pouvez désormais utiliser des jetons pour promouvoir les webinaires interactifs dans les e-mails et les pages de destination sans avoir à ajouter manuellement les détails du webinaire.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promouvoir un webinaire interactif</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promotion d’un webinaire interactif</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -45,7 +45,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <tr>
    <td><strong>Nombre de personnes définies pour affecter la liste dynamique</strong> : déterminez le nombre de personnes affectées lors de la modification des règles de qualification d’une campagne dynamique.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -56,7 +56,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <tr>
    <td><strong>Bouton Mon compte dans le rail de navigation</strong> : pour les personnes qui ont migré vers le système Adobe Identity Management, un nouveau bouton « Mon compte » dans le rail de navigation de gauche permet de configurer votre fuseau horaire et d’accéder aux détails de l’abonnement.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -92,7 +92,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 * **Mise à jour de l’API d’extraction en bloc** : nous avons corrigé un problème dans l’API d’extraction en bloc impliquant l’option columnHeaderNames , qui vous permet de spécifier des noms d’en-tête de colonne personnalisés dans le fichier exporté. Auparavant, les noms d’en-tête de colonne contenant des caractères non-ASCII pouvaient être corrompus.
 
-* **Obsolescence du paramètre access_token de l’API Rest** : le paramètre de requête « access_token » utilisé pour authentifier les appels API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization » [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Obsolescence du paramètre access_token de l’API Rest** : le paramètre de requête « access_token » utilisé pour authentifier les appels API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 janvier 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization » [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **Obsolescence du code QR** : le 4 octobre 2024, la fonctionnalité de code QR utilisée dans les notifications push et les ressources de messagerie in-app sera abandonnée. Cela inclut l’utilisation de codes QR pour un nouvel appareil de test et la création de nouvelles ressources avec des codes QR. L’obsolescence des fonctionnalités les moins utilisées nous permet de réaffecter leurs ressources à la maintenance globale de Marketo Engage.
 

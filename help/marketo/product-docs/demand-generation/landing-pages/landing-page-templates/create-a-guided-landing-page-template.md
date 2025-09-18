@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7515401
 description: Création d’un modèle de page de destination guidé - Documents Marketo - Documentation du produit
-title: Création d’un modèle de page de destination guidée
+title: Créer un modèle de page de destination guidée
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
-# Création d’un modèle de page de destination guidée {#create-a-guided-landing-page-template}
+# Créer un modèle de page de destination guidée {#create-a-guided-landing-page-template}
 
-Les modèles de landing page guidés ont une syntaxe spéciale. Utilisez cette syntaxe pour spécifier ce qui est personnalisable et où le contenu se retrouvera sur chaque page de destination créée à partir de votre modèle. Seules les régions ou variables que vous spécifiez comme modifiables seront disponibles pour la personnalisation dans l’éditeur de page de destination « Guidée ».
+Les modèles de landing page guidés ont une syntaxe spéciale. Utilisez cette syntaxe pour spécifier ce qui est personnalisable et où le contenu se retrouvera sur chaque page de destination créée à partir de votre modèle. Seules les régions ou variables que vous spécifiez comme modifiables seront disponibles pour personnalisation dans l’éditeur de page de destination « Guidée ».
 
 >[!TIP]
 >
@@ -79,7 +79,7 @@ Exemple :
 
 >[!NOTE]
 >
->Lors de l’utilisation de la version `<img>`, l’HTML rendue contiendra un wrapper div généré autour de la balise `<img>`. Elle sera définie sur « class ».mktoImg.mktoGen », et sera affiché:inline-block.
+>Lors de l’utilisation de la version `<img>`, l’HTML rendue contiendra un wrapper div généré autour de la balise `<img>`. Il sera défini sur « classe ».mktoImg.mktoGen », et sera affiché:inline-block.
 
 ## Form {#form}
 
@@ -126,39 +126,6 @@ Attributs requis :
 Exemple :
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Sondage {#poll}
-
-Attributs requis :
-**class** : « mktoPoll »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
-
-Exemple :
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Référencement {#referral}
-
-Attributs requis :
-**class** : « mktoReferral »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
-
-Exemple :
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Loteries {#sweepstakes}
-
-Attributs requis :
-**class** : « mktoSweepstakes »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
-
-Exemple :
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Variables modifiables {#editable-variables}
 

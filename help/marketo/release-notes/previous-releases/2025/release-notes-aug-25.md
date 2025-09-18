@@ -2,7 +2,7 @@
 description: Notes De Mise À Jour - Août 2025 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Août 2025
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 43%
