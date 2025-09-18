@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 51%
+source-wordcount: '653'
+ht-degree: 41%
 
 ---
 
@@ -33,6 +33,46 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Conservation des activités de webinaire à la demande</strong> : les utilisateurs de webinaires interactifs disposent désormais de données de tableau de bord de webinaires à la demande disponibles depuis plus de 30 jours (auparavant, elles ne pouvaient pas être consultées avant 30 jours).</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Workflow Content Collaboration</strong> : vous pouvez désormais commenter les autres utilisateurs de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les membres de l’équipe (les utilisateurs de Marketo qui disposent des autorisations de ressources appropriées) et ils recevront une notification Push ou par e-mail.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Autorisations de l’assistant AI</strong> : les administrateurs Marketo peuvent fournir à des utilisateurs spécifiques un accès aux fonctionnalités de GenAI.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Mode sombre</strong> : vous pouvez désormais utiliser le mode sombre, qui permet aux clients de messagerie et aux applications de gestion d’afficher les e-mails avec des arrière-plans plus sombres et des couleurs plus claires pour le texte, les boutons et d’autres éléments de l’interface utilisateur.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Correctifs de redirection</strong> : certains utilisateurs rencontraient des problèmes de redirection avec les URL pour les e-mails créés à l’aide du nouveau Designer (par exemple, le collage direct des URL ou le signet de ressources d’e-mail ne fonctionnait pas toujours). Ce problème a été résolu. En outre, les liens vers des ressources d’e-mail provenant de <b>Modèles d’e-mail</b> &gt; <b>Détails</b> &gt; <b>Utilisé par</b> redirigeront vers la ressource d’e-mail correspondante.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
