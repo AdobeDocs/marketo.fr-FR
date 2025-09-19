@@ -4,9 +4,9 @@ title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3414'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Si l’agent ou l’agente est disponible, la conversation lui est directement a
 
 Si l’agent ou l’agente n’est pas disponible, le système :
 
-* Ne tente pas d&#39;utiliser un autre agent, même si Round Robin est activé comme solution de secours.
+* ne tente pas d’utiliser un autre agent ou une autre agente, même si le round-robin est activé comme solution de secours.
 
 * Au lieu de cela, il :
 
@@ -104,7 +104,7 @@ La solution de secours du round-robin n’est prise en compte que lorsqu’aucun
 
 <p>
 
-_&#x200B;**Transmission du compte**&#x200B;_
+_**Transmission du compte**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Transmission du compte**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission personnalisée**&#x200B;_
+_**Transmission personnalisée**_
 
 <table><thead>
   <tr>
@@ -141,7 +141,7 @@ _&#x200B;**Transmission personnalisée**&#x200B;_
 <tbody>
   <tr>
     <td>Idéal</td>
-    <td>La logique personnalisée résout une liste d’agents ; le premier agent est disponible et accepte la conversation.</td>
+    <td>La logique personnalisée résout une liste d’agentes et d’agents ; le premier agent ou la première agente est disponible et accepte la conversation.</td>
     <td>La conversation se connecte au premier agent ou à la première agente.</td>
   </tr>
   <tr>
@@ -152,11 +152,11 @@ _&#x200B;**Transmission personnalisée**&#x200B;_
   <tr>
     <td>Aucun agent ni aucune agente de secours</td>
     <td>Deux agentes et agents ont été résolus ; aucun n’accepte la conversation, la solution de secours est définie sur le calendrier de réunion.</td>
-    <td>Le calendrier de l’agent qui a été essayé pour la première fois s’affiche ou le message de secours par défaut s’affiche.</td>
+    <td>Le calendrier du premier agent tenté ou de la première agente tentée ou le message de secours par défaut s’affiche.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission d’équipe**&#x200B;_
+_**Transmission d’équipe**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Transmission d’équipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission du round-robin**&#x200B;_
+_**Transmission du round-robin**_
 
 <table><thead>
   <tr>
@@ -193,13 +193,13 @@ _&#x200B;**Transmission du round-robin**&#x200B;_
 <tbody>
   <tr>
     <td>Idéal</td>
-    <td>Round Robin pool a plusieurs agents ; le second agent accepte le chat après le premier ne le fait pas.</td>
+    <td>La sélection du round-robin possède plusieurs agentes et agents ; le second agent ou la seconde agente accepte la conversation si le premier agent ou la première agente ne l’accepte pas.</td>
     <td>La conversation se connecte au second agent ou à la seconde agente.</td>
   </tr>
   <tr>
     <td>Solution de secours (type round-robin)</td>
     <td>Aucun agent ni aucune agente disponible dans la sélection du round-robin ; le calendrier des réunions est activé.</td>
-    <td>Le calendrier s’affiche pour le premier agent de la liste (s’il est configuré) ou le message de secours s’affiche.</td>
+    <td>Le calendrier s’affiche pour le premier agent ou la première agente de la liste (le cas échéant) ou un message de secours s’affiche.</td>
   </tr>
   <tr>
     <td>Aucun agent ni aucune agente de secours</td>
@@ -344,7 +344,7 @@ Ainsi, lorsqu’un visiteur ou une visiteuse avec le cookie abc arrive sur une p
     <td>Individu connu</td>
     <td>xyz</td>
     <td>Différent de la personne existante</td>
-    <td>ce scénario n’est pas possible, comme s’il s’agissait d’un nouveau cookie :   Valeur par défaut considérée comme un nouveau profil anonyme</td>
+    <td>Ce scénario n’est pas possible, car par défaut, un nouveau cookie est considéré comme un nouveau profil anonyme.</td>
   </tr>
 </tbody></table>
 
