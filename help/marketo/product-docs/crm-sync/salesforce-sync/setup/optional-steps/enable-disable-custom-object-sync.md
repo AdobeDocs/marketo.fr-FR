@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719297
 description: Activer/Désactiver La Synchronisation Des Objets Personnalisés - Documents Marketo - Documentation Du Produit
-title: Activer/Désactiver La Synchronisation Des Objets Personnalisés
+title: Activer/désactiver la synchronisation d’un objet personnalisé
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Activer/Désactiver La Synchronisation Des Objets Personnalisés {#enable-disable-custom-object-sync}
+# Activer/désactiver la synchronisation d’un objet personnalisé {#enable-disable-custom-object-sync}
 
 Les objets personnalisés créés dans votre instance Salesforce peuvent également faire partie de Marketo Engage. Voici comment le configurer.
 
-## Activer/Désactiver La Synchronisation Des Objets Personnalisés {#enable-disable-custom-object-sync-1}
+## Activer/désactiver la synchronisation d’un objet personnalisé {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >

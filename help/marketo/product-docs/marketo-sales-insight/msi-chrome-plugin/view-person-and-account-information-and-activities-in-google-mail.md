@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095358
 description: Afficher les informations et activités sur les personnes et les comptes dans Google Mail - Documents Marketo - Documentation du produit
-title: Afficher les informations et activités relatives aux personnes et aux comptes dans Google Mail
+title: Afficher les informations et les activités relatives aux personnes et aux comptes dans Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Afficher les informations et activités relatives aux personnes et aux comptes dans Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
+# Afficher les informations et les activités relatives aux personnes et aux comptes dans Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
 
 ## Afficher les activités dans Google Mail {#view-activities-in-google-mail}
 

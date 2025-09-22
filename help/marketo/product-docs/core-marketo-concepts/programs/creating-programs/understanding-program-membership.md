@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147091
 description: Présentation De L’Appartenance À Un Programme - Documents Marketo - Documentation Du Produit
-title: Comprendre l’appartenance à un programme
+title: Présentation de l’appartenance à un programme
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Comprendre l’appartenance à un programme {#understanding-program-membership}
+# Présentation de l’appartenance à un programme {#understanding-program-membership}
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ L&#39;objectif d&#39;un programme est de créer une interaction significative av
 >
 >Dans le cas d’un webinaire, l’inscription n’est pas une interaction significative si les personnes ne regardent pas réellement le webinaire. La participation est une réussite dans ce cas.
 
-## Programme d&#39;acquisition {#acquisition-program}
+## Programme d’acquisition {#acquisition-program}
 
 Lorsqu’un nouveau nom apparaît dans le système en tant que membre du programme, Marketo définit automatiquement ce programme comme une « acquisition ». Cela établit le crédit pour [attribution Première touche](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
 

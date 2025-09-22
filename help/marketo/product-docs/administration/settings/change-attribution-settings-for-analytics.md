@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360217
 description: Modification des paramètres d’attribution pour Analytics - Documents Marketo - Documentation du produit
-title: Modification des paramètres d’attribution dans Analytics
+title: Modifier les paramètres d’attribution dans Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Modification des paramètres d’attribution dans Analytics {#change-attribution-settings-for-analytics}
+# Modifier les paramètres d’attribution dans Analytics {#change-attribution-settings-for-analytics}
 
 Vous pouvez modifier la manière dont Marketo lie les contacts aux opportunités d’attribution première touche et multitouche, aux mesures de conversion des prospects et à l’indicateur d’opportunité influencé par le marketing.
 
-Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur de revenus] dans les zones [Analyse des opportunités du programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et Analyse des prospects. Cela affectera également le rapport [!UICONTROL &#x200B; Analyseur de programmes &#x200B;].
+Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur de revenus] dans les zones [Analyse des opportunités du programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et Analyse des prospects. Cela affectera également le rapport [!UICONTROL  Analyseur de programmes ].
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

@@ -4,7 +4,7 @@ description: Paramètres De Partage - Documents Marketo - Documentation Du Produ
 title: Paramètres de partage
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 1%

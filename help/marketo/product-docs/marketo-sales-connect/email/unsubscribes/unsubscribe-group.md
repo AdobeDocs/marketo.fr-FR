@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746167
 description: Groupe de désabonnement - Documents Marketo - Documentation du produit
-title: Désabonner le groupe
+title: Groupe de désabonnement
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Désabonner le groupe {#unsubscribe-group}
+# Groupe de désabonnement {#unsubscribe-group}
 
 Voir et gérer toutes les personnes désabonnées en un seul endroit.
 

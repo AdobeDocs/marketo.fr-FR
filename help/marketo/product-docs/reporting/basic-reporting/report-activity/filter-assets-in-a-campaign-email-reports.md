@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360227
 description: Filtrer Assets dans les rapports par e-mail de Campaign - Documents Marketo - Documentation du produit
-title: Filtrage d’Assets dans des rapports de campagne par e-mail
+title: Filtrer les ressources dans des rapports des e-mails de campagne
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Filtrage d’Assets dans des rapports de campagne par e-mail {#filter-assets-in-a-campaign-email-reports}
+# Filtrer les ressources dans des rapports des e-mails de campagne {#filter-assets-in-a-campaign-email-reports}
 
 Concentrez votre rapport [ Performances des e-mails de campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) spécifiques à vos programmes (« ressources locales ») ou sur celles qui ont été archivées.
 

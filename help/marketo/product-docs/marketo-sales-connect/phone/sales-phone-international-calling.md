@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352434
 description: Appels téléphoniques internationaux - Marketo Docs - Documentation du produit
-title: Appels téléphoniques internationaux du service commercial
+title: Appels internationaux via Sales Phone
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 12%
+ht-degree: 14%
 
 ---
 
-# Appels téléphoniques internationaux du service commercial {#sales-phone-international-calling}
+# Appels internationaux via Sales Phone {#sales-phone-international-calling}
 
 Le téléphone commercial vous permet de communiquer facilement à l’international. Pour les clients qui appellent depuis les États-Unis, le numéro de téléphone commercial peut être utilisé pour les appels sortants vers des pays étrangers. Pour les clients en dehors des États-Unis, nous prenons en charge les appels en provenance de pays internationaux.
 

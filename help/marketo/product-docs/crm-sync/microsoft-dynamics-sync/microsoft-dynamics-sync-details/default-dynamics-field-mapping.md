@@ -1,16 +1,16 @@
 ---
 description: Mappage De Champ Dynamics Par Défaut - Documents Marketo - Documentation Du Produit
-title: Mappage de champ Dynamics par défaut
+title: Mappage des champs Dynamics par défaut
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Mappage de champ Dynamics par défaut {#default-dynamics-field-mapping}
+# Mappage des champs Dynamics par défaut {#default-dynamics-field-mapping}
 
 Lorsque vous synchronisez initialement votre compte Marketo Engage avec Microsoft, Marketo effectue automatiquement ces associations entre vos champs Dynamics et Marketo intégrés.  Marketo synchronisera également vos champs personnalisés sur vos leads, comptes, opportunités et contacts.
 

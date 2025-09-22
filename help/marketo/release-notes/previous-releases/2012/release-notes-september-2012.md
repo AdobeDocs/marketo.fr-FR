@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Septembre 2012 - Documents Marketo - Docume
 title: Notes De Mise À Jour - Septembre 2012
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notes De Mise À Jour : Septembre 2012 {#release-notes-september}
+# Notes de mise à jour : septembre 2012 {#release-notes-september}
 
 Cette version comprend des fonctionnalités sociales intégrées très attendues et des cadeaux de gestion des prospects ! Remarque : les fonctionnalités de réseaux sociaux sont disponibles sous la forme d’un module complémentaire ou dans le cadre de lots sélectionnés.
 

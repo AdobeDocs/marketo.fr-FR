@@ -1,15 +1,15 @@
 ---
 description: Synchroniser les données de ventes avec Marketo et Salesforce - Documentation de Marketo - Documentation du produit
-title: Synchroniser les données de ventes avec Marketo et Salesforce
+title: Synchroniser les données d’action des ventes avec Marketo et Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Synchroniser les données de ventes avec Marketo et Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
+# Synchroniser les données d’action des ventes avec Marketo et Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
 
 La synchronisation des champs d’unification des données pour les actions de Sales Insight permet au système d’extraire des informations sur la personne de votre base de données Marketo Engage vers votre base de données d’actions de Sales Insight.
 

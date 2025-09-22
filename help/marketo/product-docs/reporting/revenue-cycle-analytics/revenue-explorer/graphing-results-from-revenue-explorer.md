@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095084
 description: Graphique Des Résultats De L’Explorateur De Revenus - Documents Marketo - Documentation Du Produit
-title: Graphique Des Résultats De L’Explorateur De Revenus
+title: Représentation graphique des résultats de l’explorateur de revenu
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

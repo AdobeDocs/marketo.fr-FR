@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359718
 description: Ajout d’un bouton Social à une page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Ajout d’un bouton Social à une page de destination de forme libre
+title: Ajouter un bouton Social à une page de destination à structure libre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 9b779bc767b1bda058a9040035e8ca21ccd53e8d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Ajout d’un bouton Social à une page de destination de forme libre {#add-a-social-button-to-a-free-form-landing-page}
+# Ajouter un bouton Social à une page de destination à structure libre {#add-a-social-button-to-a-free-form-landing-page}
 
 Un bouton de réseau social encourage les utilisateurs à partager votre contenu avec leurs amis. Déposez-le sur des pages de destination de forme libre, sur Facebook et sur votre site web.
 

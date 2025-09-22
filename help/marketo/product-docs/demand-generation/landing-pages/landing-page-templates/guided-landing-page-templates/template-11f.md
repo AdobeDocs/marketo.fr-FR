@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437571
 description: Modèle 11F - Documents Marketo - Documentation Du Produit
-title: Modèle 11F
+title: Modèle 11F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Modèle 11F {#template-11f}
+# Modèle 11F {#template-11f}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=fr)
+[Modèle 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

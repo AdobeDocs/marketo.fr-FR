@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384438
 description: Configuration du rapport TAM - Documents Marketo - Documentation du produit
-title: Configuration du rapport de gestion des actifs numériques
+title: Configuration du rapport TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Configuration du rapport de gestion des actifs numériques {#tam-report-setup}
+# Configuration du rapport TAM {#tam-report-setup}
 
 Le rapport des ventes du gestionnaire de comptes techniques est un e-mail personnalisé envoyé chaque semaine à l’équipe du compte.
 
@@ -25,7 +25,7 @@ Le rapport des ventes du gestionnaire de comptes techniques est un e-mail person
 
    ![](assets/tam-report-setup-2.png)
 
-1. Sous [!UICONTROL &#x200B; Rapport hebdomadaire &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
+1. Sous [!UICONTROL  Rapport hebdomadaire ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/three-3.png)
 
@@ -45,7 +45,7 @@ Le rapport des ventes du gestionnaire de comptes techniques est un e-mail person
    >
    >Les notifications seront envoyées uniquement aux propriétaires de compte ou aux membres de l’équipe.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/seven-2.png)
 

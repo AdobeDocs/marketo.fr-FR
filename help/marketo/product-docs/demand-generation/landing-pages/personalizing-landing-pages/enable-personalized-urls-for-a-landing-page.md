@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359803
 description: Activer des URL personnalisées pour une page de destination - Documents Marketo - Documentation du produit
-title: Activation des URL personnalisées pour une page de destination
+title: Activer les URL personnalisées pour une page de destination
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 
-# Activation des URL personnalisées pour une page de destination {#enable-personalized-urls-for-a-landing-page}
+# Activer les URL personnalisées pour une page de destination {#enable-personalized-urls-for-a-landing-page}
 
 Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 

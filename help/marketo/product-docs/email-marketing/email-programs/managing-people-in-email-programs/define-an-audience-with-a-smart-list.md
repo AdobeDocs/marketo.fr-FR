@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900595
 description: Définir une audience avec une liste dynamique - Documents Marketo - Documentation du produit
-title: Définition d’une audience avec une liste dynamique
+title: Définir une audience avec une liste intelligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Définition d’une audience avec une liste dynamique {#define-an-audience-with-a-smart-list}
+# Définir une audience avec une liste intelligente {#define-an-audience-with-a-smart-list}
 
 Une fois que vous avez [créé un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), vous souhaiterez lui indiquer à qui envoyer l’e-mail. Vous pouvez le faire en [important une liste de personnes](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) ou avec une liste dynamique. Voici comment y parvenir avec une liste dynamique.
 
@@ -55,9 +55,9 @@ Une fois que vous avez [créé un programme de messagerie](/help/marketo/product
 >
 >Avez-vous remarqué le numéro bloqué ? Ce numéro est un sous-ensemble des personnes qualifiées et représente les personnes qui ne peuvent pas être envoyées à cet e-mail parce qu&#39;elles sont :
 >
->* Désabonné
+>* Désabonné ou désabonnée
 >* Marketing interrompu
->* Figurant sur la liste de blocage
+>* Figurant sur la liste bloquée
 >* E-mail non valide
 >* Empty Email
 >

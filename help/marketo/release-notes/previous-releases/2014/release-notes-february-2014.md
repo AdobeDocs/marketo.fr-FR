@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Février 2014 - Documents Marketo - Documen
 title: Notes De Mise À Jour - Février 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Notes De Mise À Jour : Février 2014 {#release-notes-february}
+# Notes de mise à jour : février 2014 {#release-notes-february}
 
 Les fonctionnalités suivantes sont incluses dans la version de février 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés de la base de connaissances pour chaque fonctionnalité.
 

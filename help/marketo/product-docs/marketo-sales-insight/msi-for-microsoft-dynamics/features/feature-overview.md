@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357043
 description: Présentation des fonctionnalités - Documents Marketo - Documentation du produit
-title: Présentation des fonctionnalités
+title: Vue d’ensemble des fonctionnalités
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 35%
+ht-degree: 37%
 
 ---
 
-# Présentation des fonctionnalités {#feature-overview}
+# Vue d’ensemble des fonctionnalités {#feature-overview}
 
 Les fonctionnalités suivantes sont disponibles dans la nouvelle solution MSI MSD.
 

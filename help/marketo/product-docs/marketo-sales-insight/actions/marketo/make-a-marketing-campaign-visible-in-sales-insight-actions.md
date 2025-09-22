@@ -3,7 +3,7 @@ description: Rendre une campagne marketing visible dans les actions Sales Insigh
 title: Rendre une campagne marketing visible dans les actions Sales Insight
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Grâce aux actions Sales Insight, les utilisateurs auront accès à une nouvelle
 
    >[!NOTE]
    >
-   >Si vous souhaitez afficher la campagne marketing aux utilisateurs qui utilisent _Ajouter à la campagne marketing_ à partir de l’application web toutapp.com (cela inclut également si l’application web est incorporée dans le CRM via l’objet Boîte d’envoi des ventes Marketo), définissez la source demandée Campaign sur « API de service web ». Si vous souhaitez que la campagne marketing s’affiche lorsqu’un utilisateur utilise les actions du panneau MSI dans Salesforce sur le prospect, le contact, la page de compte ou les boutons d’action en bloc dans les vues de liste de prospects et de contacts, mettez à jour la source demandée à Campaign sur « Informations sur les ventes »
+   >Si vous souhaitez afficher la campagne marketing aux utilisateurs qui utilisent _Ajouter à la campagne marketing_ à partir de l’application web toutapp.com (cela inclut également si l’application web est incorporée dans le CRM via l’objet Boîte d’envoi des ventes Marketo), définissez la source demandée Campaign sur « API de service web ». Si vous souhaitez que la campagne marketing s’affiche lorsqu’un utilisateur utilise les actions du panneau MSI dans Salesforce sur la page du prospect, du contact, du compte ou les boutons d’action en bloc dans les vues de liste de prospects et de contacts, mettez à jour la source demandée Campaign sur « Insight des ventes »
 
 1. Cliquez sur l’onglet **Flux**.
 

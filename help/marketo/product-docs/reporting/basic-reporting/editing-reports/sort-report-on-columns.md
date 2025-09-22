@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359996
 description: Trier les rapports sur les colonnes - Documents Marketo - Documentation du produit
-title: Trier les rapports sur les colonnes
+title: Trier le rapport sur des colonnes
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Trier les rapports sur les colonnes {#sort-report-on-columns}
+# Trier le rapport sur des colonnes {#sort-report-on-columns}
 
 Utilisez des colonnes pour trier les données de votre rapport et faciliter la recherche des chiffres les plus importants.
 

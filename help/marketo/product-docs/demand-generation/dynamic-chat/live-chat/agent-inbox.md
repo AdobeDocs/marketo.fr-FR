@@ -1,16 +1,16 @@
 ---
 description: Boîte de réception de l’agent - Documents Marketo - Documentation du produit
-title: Boîte de réception de l’agent(e)
+title: Boîte de réception de l’agent ou de l’agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 2%
 
 ---
 
-# Boîte de réception de l’agent(e) {#agent-inbox}
+# Boîte de réception de l’agent ou de l’agente {#agent-inbox}
 
 Les agents afficheront les discussions en direct dans la boîte de réception de l’agent. En plus des conversations actives, ils peuvent voir les conversations passées, les informations sur les visiteurs, etc.
 

@@ -1,44 +1,44 @@
 ---
 unique-page-id: 1147318
-description: Glossaire des raccourcis clavier - Documents Marketo - Documentation du produit
+description: Glossaire Des Raccourcis Clavier - Documents Marketo - Documentation Du Produit
 title: Glossaire des raccourcis clavier
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 14%
+ht-degree: 19%
 
 ---
 
 # Glossaire des raccourcis clavier {#keyboard-shortcuts-glossary}
 
-Êtes-vous une personne qui utilise des raccourcis clavier ? Nous vous avons couvert !
+Êtes-vous un utilisateur de raccourcis clavier ? On t&#39;a couvert !
 
-## Navigation par zone {#area-navigation}
+## Navigation de zone {#area-navigation}
 
 | Raccourci clavier | Zone |
 |---|---|
-| Alt/Opt + A | Analytics |
-| Alt/Opt + C | Calendrier |
-| Alt/Opt + D | Studio de conception |
+| Alt/Opt + A | Analyse |
+| Alt/Opt+C | Calendrier |
+| Alt/Opt+D | Studio de conception |
 | Alt/Opt + F | Recherche globale |
-| Alt/Opt + L | Base de données |
+| Alt/Opt+L | Base de données |
 | Alt/Opt + M | Activités marketing |
-| Opt + N | Administrateur |
-| Opt + O | Mon Marketo |
+| Opt+N | Administration |
+| Opt+O | Mon Marketo |
 
-## Navigation en mode Calendrier  {#calendar-schedule-view-navigation}
+## Navigation dans la vue Calendrier/Calendrier  {#calendar-schedule-view-navigation}
 
 | Raccourci clavier | Action |
 |---|---|
-| Alt/Opt + Flèche Haut | Revenir dans le temps |
-| Alt/Opt + Flèche Bas | Avancer dans le temps |
-| Alt/Opt + T | Accédez à &quot;Aujourd&#39;hui&quot; |
+| Alt/Opt + Flèche Haut | Reculer dans le temps |
+| Alt/Opt + Flèche Vers Le Bas | Avancer dans le temps |
+| Alt/Opt + T | Accéder à &#39;Aujourd&#39;hui&#39; |
 
 ## Divers {#miscellaneous}
 
 | Raccourci clavier | Action |
 |---|---|
-| ESC | Fermer la fenêtre contextuelle |
-| Retour/Entrée | Fenêtre contextuelle Envoyer |
-| Ctrl + Alt/Opt + H | Masquer/Afficher un champ dans l’éditeur de formulaire |
+| ÉCHAP | Fermer le pop-up |
+| Entrée/Retour | Envoyer le pop-up |
+| Ctrl + Alt/Opt + H | Masquer/Afficher un champ dans l’éditeur de formulaires |

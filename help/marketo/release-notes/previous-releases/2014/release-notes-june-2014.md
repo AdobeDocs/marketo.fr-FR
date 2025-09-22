@@ -4,14 +4,14 @@ description: Notes De Mise À Jour -Juin 2014 - Documents Marketo - Documentatio
 title: Notes De Mise À Jour - Juin 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 11%
+ht-degree: 14%
 
 ---
 
-# Notes De Mise À Jour : Juin 2014 {#release-notes-june}
+# Notes de mise à jour : juin 2014 {#release-notes-june}
 
 Les fonctionnalités suivantes sont incluses dans la version de juin 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités.
 
@@ -43,7 +43,7 @@ Les campagnes RTP incluent désormais une nouvelle conception avec des vues de m
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
-## Intégrations Web Analytics {#web-analytics-integrations}
+## Intégrations de Web Analytics {#web-analytics-integrations}
 
 Ajoutez toutes vos données RTP dans votre plateforme d’analyse web.
 

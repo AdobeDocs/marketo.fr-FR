@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949285
 description: Enregistrez le courrier entrant provenant de vos prospects dans Marketo - Documents Marketo - Documentation du produit.
-title: Enregistrer le courrier entrant provenant de vos leads dans Marketo
+title: Journaliser le courrier entrant provenant de vos leads dans Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Enregistrer le courrier entrant provenant de vos leads dans Marketo {#log-inbound-mail-from-your-leads-in-marketo}
+# Journaliser le courrier entrant provenant de vos leads dans Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
 Vous pouvez enregistrer les réponses de vos prospects directement dans [!DNL Outlook] avec le complément d’e-mail Marketo.
 

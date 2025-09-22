@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
 description: Ajout d’un champ Salesforce existant à la Synchronisation de Marketo - Documents Marketo - Documentation du produit
-title: Ajout d’un champ Salesforce existant à la synchronisation Marketo
+title: Ajouter un champ Salesforce existant à la synchronisation Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

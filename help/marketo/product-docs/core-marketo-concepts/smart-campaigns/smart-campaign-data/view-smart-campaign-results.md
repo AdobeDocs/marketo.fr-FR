@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1146968
-description: Affichage des résultats de campagne dynamique - Documents Marketo - Documentation du produit
-title: Affichage des résultats d’une campagne dynamique
+description: Affichage Des Résultats De Campagne Intelligente - Documents Marketo - Documentation Du Produit
+title: Afficher les résultats d’une campagne intelligente
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Affichage des résultats d’une campagne dynamique {#view-smart-campaign-results}
+# Afficher les résultats d’une campagne intelligente {#view-smart-campaign-results}
 
-Vous souhaitez voir une ventilation de tout ce qui s’est passé dans une campagne dynamique ? Voici comment.
+Vous souhaitez voir une répartition de tout ce qui s’est passé dans une campagne intelligente ? Voici comment faire.
 
 >[!TIP]
 >
->Vous pouvez voir la liste des personnes qui ont été traitées par la campagne dynamique en cliquant sur [Afficher les membres de campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
+>Pour afficher la liste des personnes qui ont été traitées par la campagne intelligente, cliquez sur [Afficher les membres de la campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
 
 1. Dans votre campagne dynamique, cliquez sur **[!UICONTROL Résultats]**.
 
@@ -25,9 +25,9 @@ Vous souhaitez voir une ventilation de tout ce qui s’est passé dans une campa
 
    >[!TIP]
    >
-   >Vous pouvez également filtrer les résultats en fonction du type d’activité. Découvrez comment [filtrer les résultats de la campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
+   >Vous pouvez également filtrer les résultats en fonction du type d’activité. Découvrez comment [filtrer les résultats des campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
 
-1. Cliquez sur un **[!UICONTROL ID]** pour afficher plus de détails sur cette activité particulière.
+1. Cliquez sur un **[!UICONTROL ID]** pour afficher plus de détails sur cette activité spécifique.
 
    ![](assets/view-smart-campaign-results-2.png)
 
@@ -35,8 +35,8 @@ Vous souhaitez voir une ventilation de tout ce qui s’est passé dans une campa
    >
    >Affichez les détails de la personne en cliquant sur son nom.
 
-   Explorez les résultats pour voir ce que votre campagne a réellement fait, ou simplement [exporter les résultats d’une campagne dynamique vers Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Explorez les résultats pour voir ce qu’a réellement fait votre campagne ou [exportez simplement les résultats de campagne intelligente vers Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >[Filtrer les résultats de campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}
+   >[Filtrer les résultats de la campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}

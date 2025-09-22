@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359703
 description: Ajout d’une image à une page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Ajout d’une image à une page de destination de forme libre
+title: Ajouter une image à une page de destination à structure libre
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 5%
+ht-degree: 27%
 
 ---
 
-# Ajout d’une image à une page de destination de forme libre {#add-an-image-to-a-free-form-landing-page}
+# Ajouter une image à une page de destination à structure libre {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >

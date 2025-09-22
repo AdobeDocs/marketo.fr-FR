@@ -1,16 +1,16 @@
 ---
 description: Affectation de tâches aux membres de l’équipe - Documents Marketo - Documentation du produit
-title: Affectation de tâches à des membres d'équipe
+title: Affectation de tâches à des personnes membres de l’équipe
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Affectation de tâches à des membres d&#39;équipe {#assigning-tasks-to-team-members}
+# Affectation de tâches à des personnes membres de l’équipe {#assigning-tasks-to-team-members}
 
 Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affectation de tâches peut être un excellent moyen de coordonner vos efforts de prospection.
 

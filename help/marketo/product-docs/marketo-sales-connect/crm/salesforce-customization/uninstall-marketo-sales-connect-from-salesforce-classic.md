@@ -1,15 +1,15 @@
 ---
 description: Désinstallation de Marketo Sales Connect à partir de Salesforce Classic - Documents Marketo - Documentation du produit
-title: Désinstaller Marketo Sales Connect de Salesforce Classic
+title: Désinstaller Marketo Sales Connect de Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1186'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-# Désinstaller Marketo Sales Connect de Salesforce Classic {#uninstall-marketo-sales-connect-from-salesforce-classic}
+# Désinstaller Marketo Sales Connect de Salesforce Classic {#uninstall-marketo-sales-connect-from-salesforce-classic}
 
 Voici comment désinstaller le package Marketo Sales Connect de votre compte Salesforce une fois que vous avez commencé à utiliser les actions Sales Insight.
 
@@ -139,7 +139,7 @@ La vue Compte ne comporte qu’un seul bouton - « Envoyer un e-mail MSE » et l
 
 1. Cliquez sur **[!UICONTROL Personnaliser mes onglets]**.
 
-1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL &#x200B; Supprimer &#x200B;], puis sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL  Supprimer ], puis sur **[!UICONTROL Enregistrer]**.
 
 ## Supprimer [!DNL Sales Connect] package {#delete-sales-connect-package}
 

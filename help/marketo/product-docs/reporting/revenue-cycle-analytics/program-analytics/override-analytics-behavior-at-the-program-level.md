@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360421
 description: Remplacer le comportement d’Analytics au niveau du programme - Documents Marketo - Documentation du produit
-title: Remplacer le comportement d’Analytics au niveau du programme
+title: Remplacer le comportement d’analyse au niveau du programme
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Remplacer le comportement d’Analytics au niveau du programme {#override-analytics-behavior-at-the-program-level}
+# Remplacer le comportement d’analyse au niveau du programme {#override-analytics-behavior-at-the-program-level}
 
 Vous pouvez définir le comportement d’[analyse au niveau administrateur sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) mais vous pouvez également le remplacer au niveau du programme. Voici comment procéder :
 
@@ -42,7 +42,7 @@ Vous pouvez définir le comportement d’[analyse au niveau administrateur sur l
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

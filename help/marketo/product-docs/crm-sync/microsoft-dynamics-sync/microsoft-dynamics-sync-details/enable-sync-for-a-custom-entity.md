@@ -4,10 +4,10 @@ description: Activer la synchronisation pour une entité personnalisée - Docume
 title: Activer la synchronisation pour une entité personnalisée
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 4f36194fb76fd8e26c2fd6fe49526d88d355a24a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

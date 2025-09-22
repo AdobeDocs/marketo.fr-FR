@@ -4,16 +4,16 @@ description: Modification Du Texte Du Bouton D’Envoi Du Formulaire - Documents
 title: Modifier le texte du bouton Envoyer du formulaire
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
 # Modifier le texte du bouton Envoyer du formulaire {#change-form-submit-button-text}
 
-Vous pouvez remplacer rapidement et facilement le bouton « Envoyer » d’un formulaire par n’importe quel autre mot. Voici comment procéder.
+Vous pouvez remplacer rapidement et facilement le bouton « Envoyer » d’un formulaire par n’importe quel autre mot. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

@@ -1,45 +1,45 @@
 ---
-description: Planification d’un courrier électronique - Documents Marketo - Documentation du produit
-title: Planification d’un email
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+description: Planification d’un e-mail - Documents Marketo - Documentation du produit
+title: Planification d’un e-mail
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Planification d’un email {#scheduling-an-email}
+# Planification d’un e-mail {#scheduling-an-email}
 
-Suivez ces étapes simples pour planifier un email.
+Pour planifier l’envoi d’un e-mail, procédez comme suit.
 
 >[!NOTE]
 >
 >Pour mettre à jour votre fuseau horaire par défaut, accédez à la page Paramètres .
 
-1. Créez votre brouillon d&#39;email (il existe plusieurs façons de le faire, dans cet exemple, nous choisissons **Composer** dans l&#39;en-tête).
+1. Créez votre brouillon d’e-mail (il existe plusieurs façons de le faire, dans cet exemple nous choisissons **Composer** dans l’en-tête).
 
    ![](assets/scheduling-an-email-1.png)
 
-1. Lorsque vous avez fini de composer votre email, cliquez sur **Planifier** en bas à droite.
+1. Une fois la composition de votre e-mail terminée, cliquez sur **Planifier** en bas à droite
 
    ![](assets/scheduling-an-email-2.png)
 
-1. Cliquez sur la date pour ouvrir le sélecteur de date et sélectionnez une date.
+1. Cliquez sur la date pour ouvrir le sélecteur de date et sélectionner une date.
 
    ![](assets/scheduling-an-email-3.png)
 
-1. Saisissez l’heure à laquelle vous souhaitez que l’email soit envoyé. Sélectionnez le fuseau horaire de votre choix et cliquez sur **Enregistrer**. Fermez le planificateur lorsque vous avez terminé.
+1. Entrez l’heure à laquelle vous souhaitez que l’e-mail soit envoyé. Sélectionnez le fuseau horaire souhaité, puis cliquez sur **Enregistrer**. Fermez le planificateur lorsque vous avez terminé.
 
    ![](assets/scheduling-an-email-4.png)
 
-1. Maintenant que la date/l’heure planifiée est sélectionnée, cliquez sur **Envoyer** pour planifier l’email.
+1. Maintenant que la date/l’heure planifiée est sélectionnée, cliquez sur **Envoyer** pour planifier l’e-mail.
 
    ![](assets/scheduling-an-email-5.png)
 
    >[!NOTE]
    >
-   >Les emails planifiés peuvent être affichés/modifiés dans la section des dossiers planifiés du Centre de commandes.
+   >Les e-mails planifiés peuvent être consultés/modifiés dans la section des dossiers planifiés du Centre de commandes.
 
    >[!MORELIKETHIS]
    >
-   >[Présentation du centre de commandes](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+   >[Présentation du centre de commande](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)

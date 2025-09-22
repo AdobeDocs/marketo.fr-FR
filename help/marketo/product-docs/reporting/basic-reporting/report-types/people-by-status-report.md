@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360012
 description: Rapport Personnes par statut - Documents Marketo - Documentation du produit
-title: Rapport Personnes par statut
+title: Rapport des personnes par statut
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Rapport Personnes par statut {#people-by-status-report}
+# Rapport des personnes par statut {#people-by-status-report}
 
 Vérifiez à quel point vous faites passer les personnes par le processus en vérifiant le nombre d’entre elles qui apparaissent chaque mois dans chaque valeur _[!UICONTROL Statut de la personne]_.
 

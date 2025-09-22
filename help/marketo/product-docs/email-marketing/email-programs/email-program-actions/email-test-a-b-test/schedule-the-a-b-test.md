@@ -4,16 +4,16 @@ description: Planifier le test A/B - Documents Marketo - Documentation du produi
 title: Planifier le test A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Planifier le test A/B {#schedule-the-a-b-test}
 
-Une fois que vous avez ajouté un test A/B à un programme d’e-mail et défini les critères de gagnant, vous devez planifier le début du test. Voici comment procéder.
+Une fois que vous avez ajouté un test A/B à un programme d’e-mail et défini les critères de gagnant, vous devez planifier le début du test. Voici comment faire.
 
 >[!PREREQUISITES]
 >

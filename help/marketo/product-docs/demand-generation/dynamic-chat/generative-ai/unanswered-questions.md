@@ -3,26 +3,26 @@ description: Questions sans réponse - Documents Marketo - Documentation du prod
 title: Questions sans réponse
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
 # Questions sans réponse {#unanswered-questions}
 
-Consultez toutes les questions auxquelles le chatterbot n’a pas pu répondre et/ou celles que les visiteurs ont marquées comme &quot;non utiles&quot; et utilisez ces informations précieuses pour créer des réponses prévalidées supplémentaires.
+Affichez toutes les questions auxquelles le bot conversationnel n’a pas pu répondre et/ou celles que les visiteurs ont signalées comme « inutiles » et utilisez ces informations précieuses pour créer des réponses supplémentaires pré-approuvées.
 
 >[!NOTE]
 >
->La liste des questions sans réponse est actualisée automatiquement toutes les 24 heures, à minuit (heure du Pacifique).
+>La liste des questions sans réponse est automatiquement actualisée toutes les 24 heures, à minuit (heure du Pacifique).
 
-1. Sous Generative AI, cliquez sur **[!UICONTROL Réponses assistées]**.
+1. Sous IA générative, cliquez sur **[!UICONTROL Réponses assistées]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Cliquez sur l&#39;onglet **[!UICONTROL Questions sans réponse]** .
+1. Cliquez sur l’onglet **[!UICONTROL Questions sans réponse]**.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -34,6 +34,6 @@ Consultez toutes les questions auxquelles le chatterbot n’a pas pu répondre e
 
    ![](assets/unanswered-questions-4.png)
 
-1. La question sans réponse a désormais une réponse et est automatiquement ajoutée à votre bibliothèque de réponses.
+1. Une réponse est maintenant apportée à la question sans réponse, qui est automatiquement ajoutée à votre bibliothèque de réponses.
 
    ![](assets/unanswered-questions-5.png)

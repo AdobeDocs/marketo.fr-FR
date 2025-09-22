@@ -4,7 +4,7 @@ description: Spécifier Les Administrateurs Du Plug-In Marketo [!UICONTROL Sales
 title: Spécifier les administrateurs du plug-in Marketo [!UICONTROL Sales Insight]
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 2%
@@ -31,7 +31,7 @@ Vous pouvez spécifier les contacts qui doivent apparaître dans l&#39;email que
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

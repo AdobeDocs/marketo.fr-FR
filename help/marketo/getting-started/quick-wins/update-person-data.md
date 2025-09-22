@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359426
 description: Mettre À Jour Les Données De Personne - Documents Marketo - Documentation Du Produit
-title: Mettre à jour les données de personne
+title: Mettre à jour les données d’une personne
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 
-# Mettre à jour les données de personne {#update-person-data}
+# Mettre à jour les données d’une personne {#update-person-data}
 
 ## Mission : mettre à jour les coordonnées d&#39;une personne ou d&#39;autres données {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Configuration et ajout d’une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Préparer sa configuration et ajouter une personne](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importer une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Imaginons que lors de votre récent salon professionnel, une personne vous ait donné des coordonnées supplémentaires. Voici comment mettre à jour les données de personne.
@@ -52,7 +52,7 @@ Imaginons que lors de votre récent salon professionnel, une personne vous ait d
 
 >[!CAUTION]
 >
->* Assurez-vous que les adresses e-mail contiennent uniquement des caractères ASCII.
+>* Assurez-vous que les adresses e-mail ne contiennent que des caractères ASCII.
 >
 >* Marketo ne prend **pas** en charge les adresses e-mail contenant des émoticônes.
 

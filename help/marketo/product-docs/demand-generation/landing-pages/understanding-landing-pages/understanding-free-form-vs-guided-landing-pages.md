@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515207
 description: Présentation des pages de destination de forme libre par rapport aux pages de destination guidées - Documents Marketo - Documentation du produit
-title: Présentation des pages de destination de forme libre par rapport aux pages de destination guidées
+title: Présentation des pages de destination à structure libre par rapport aux pages de destination guidées
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Présentation des pages de destination de forme libre par rapport aux pages de destination guidées {#understanding-free-form-vs-guided-landing-pages}
+# Présentation des pages de destination à structure libre par rapport aux pages de destination guidées {#understanding-free-form-vs-guided-landing-pages}
 
 Le modèle que vous choisissez détermine le mode de modification de la page de destination dans lequel vous allez travailler. Il existe deux chemins possibles : [libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) et [guidé](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Vous trouverez ci-dessous un bref résumé des principales différences.
 

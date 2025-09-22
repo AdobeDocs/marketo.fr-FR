@@ -1,30 +1,30 @@
 ---
 unique-page-id: 7514146
-description: Exemple d’attribution 2 - Documents Marketo - Documentation du produit
-title: Exemple d’attribution 2
+description: Exemple D’Attribution 2 - Documents Marketo - Documentation Du Produit
+title: Exemple d’attribution 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Exemple d’attribution 2 {#attribution-example}
+# Exemple d’attribution 2 {#attribution-example}
 
 Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se trouver dans la grille.
 
-* 11 avril | La facturation est acquise par (commerce)
-* 15 avril | Joan est acquis par (webinaire)
+* 11 avril | La facture est acquise par (salon professionnel)
+* 15 avril | Joan est acquise par (Webinaire)
 * 22 avril | (Opportunité 1) créée pour 6 000 $
 * 24 avril | (Opportunité 2) créée pour 10 000 $
-* 25 avril | Bill et Joan sont associés à des rôles aux types **BOTH**
-* 29 avril | (Opportunité 1) est terminée
+* 25 avril | Bill et Joan sont associés à des rôles **LES DEUX** Optys
+* 29 avril | (Opportunité 1) est close-confirmée
 
-| Nom du programme | (Tradeshow) | (Webinaire) |
+| Nom du programme | (Salon professionnel) | (Webinaire) |
 |---|---|---|
-| (FT) Opty Created | `<pre>1</pre>` | `<pre>1</pre>` |
+| (FT) Opt Created | `<pre>1</pre>` | `<pre>1</pre>` |
 | (FT) Pipeline créé | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |
 | (FT) Opty Won | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (FT) Chiffre d’affaires confirmé | `<pre>$3,000</pre>` | `<pre>$3,000</pre>` |
@@ -35,19 +35,19 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se 
 >
 >**Explication**
 >
->Comme Bill et Joan étaient tous deux associés à des rôles pour les opportunités **BOTH** , le système (selon les règles) partageait le crédit uniformément entre eux.
+>Parce que Bill et Joan étaient tous deux associés à des rôles pour **LES DEUX** opportunités, le système (selon les règles) répartit le crédit de manière égale entre eux.
 >
->Le pipeline créé pour chaque programme (8 000 $) représente la moitié du total (16 000 $) disponible pour donner en tant que crédit.
+>Le pipeline créé pour chaque programme (8 000 $) représente la moitié du total (16 000 $) disponible pour être crédité.
 
 >[!NOTE]
 >
 >**Règles d’attribution**
 >
->1. Le crédit est réparti uniformément.
->1. Tu ne peux pas donner plus de crédit que tu n&#39;as gagné.
->1. On ne peut pas créditer quelque chose qui s&#39;est passé dans le passé.
+>1. Le crédit est partagé également
+>1. On ne peut pas accorder plus de crédit que ce qu&#39;on a gagné
+>1. On ne peut pas attribuer le mérite de quelque chose qui s&#39;est produit dans le passé
 
-Essayez tous les exemples et vous serez en faveur de l’attribution !
+Essayez tous les exemples et vous serez un pro de l’attribution !
 
 >[!MORELIKETHIS]
 >

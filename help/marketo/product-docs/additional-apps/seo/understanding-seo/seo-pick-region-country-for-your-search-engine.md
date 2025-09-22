@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949190
 description: SEO - Choisir la région/le pays pour votre moteur de recherche - Marketo Docs - Documentation du produit
-title: SEO - Choisissez la région/le pays pour votre moteur de recherche
+title: SEO - Sélectionner la région/le pays pour votre moteur de recherche
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# SEO - Choisissez la région/le pays pour votre moteur de recherche {#seo-pick-region-country-for-your-search-engine}
+# SEO - Sélectionner la région/le pays pour votre moteur de recherche {#seo-pick-region-country-for-your-search-engine}
 
 Les administrateurs SEO pourront sélectionner la région du moteur de recherche pour laquelle vous souhaitez obtenir des informations sur le classement des mots-clés.
 

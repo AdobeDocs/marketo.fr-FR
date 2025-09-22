@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099408
 description: Présentation D’Email Insights - Documents Marketo - Documentation Du Produit
-title: Présentation des informations sur les e-mails
+title: Vue d’ensemble d’Email Insights
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Présentation des informations sur les e-mails {#email-insights-overview}
+# Vue d’ensemble d’Email Insights {#email-insights-overview}
 
 **[!UICONTROL Informations sur les e-mails]** fournit des informations puissantes à partir de données historiques pour les spécialistes du marketing par e-mail. Il se compose de deux sections distinctes mais associées : [!UICONTROL Analytics] et [!UICONTROL Sends].
 

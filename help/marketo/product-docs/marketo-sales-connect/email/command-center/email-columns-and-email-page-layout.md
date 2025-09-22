@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357302
 description: Colonnes d’e-mail et mise en page d’e-mail - Documents Marketo - Documentation du produit
-title: Colonnes d’e-mail et mise en page d’e-mail
+title: Colonnes et mise en page des e-mails
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Colonnes d’e-mail et mise en page d’e-mail {#email-columns-and-email-page-layout}
+# Colonnes et mise en page des e-mails {#email-columns-and-email-page-layout}
 
 Vous pouvez configurer l’une des colonnes disponibles pour qu’elle soit visible dans la section d’e-mail du [!UICONTROL Centre de commande]. Vos paramètres de configuration seront enregistrés pour chaque sous-dossier d’e-mail (par exemple, [!UICONTROL Diffusé], [!UICONTROL En échec], [!UICONTROL Planifié], etc.).
 

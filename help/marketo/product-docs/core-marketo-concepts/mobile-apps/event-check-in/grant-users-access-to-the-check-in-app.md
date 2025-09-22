@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516639
 description: Accorder aux utilisateurs l’accès à l’application d’enregistrement - Documents Marketo - Documentation du produit
-title: Accorder aux utilisateurs l’accès à l’application d’archivage
+title: Accorder à des utilisateurs et utilisatrices l’accès à l’application d’enregistrement
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Accorder aux utilisateurs l’accès à l’application d’archivage {#grant-users-access-to-the-check-in-app}
+# Accorder à des utilisateurs et utilisatrices l’accès à l’application d’enregistrement {#grant-users-access-to-the-check-in-app}
 
 Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’application d’enregistrement d’événement. Voici comment créer un rôle avec l’autorisation d’utiliser l’application.
 

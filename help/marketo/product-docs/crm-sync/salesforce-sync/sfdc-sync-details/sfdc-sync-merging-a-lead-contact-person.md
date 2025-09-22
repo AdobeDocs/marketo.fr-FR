@@ -4,14 +4,14 @@ description: Synchronisation de SFDC - Fusion d’un prospect/contact/personne -
 title: Synchronisation de SFDC - Fusion d’un lead/contact/d’une personne
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Synchronisation de SFDC : fusion d’un lead/contact/d’une personne {#sfdc-sync-merging-a-lead-contact-person}
+# Synchronisation SFDC : fusion d’un lead/d’un contact/d’une personne {#sfdc-sync-merging-a-lead-contact-person}
 
 Parfois, il est préférable de simplement énumérer les règles. Et voilà :
 

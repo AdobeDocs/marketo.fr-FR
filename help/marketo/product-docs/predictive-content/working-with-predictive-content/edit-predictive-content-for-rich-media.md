@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385940
 description: Modification de contenu prédictif pour les médias riches - Documents Marketo - Documentation du produit
-title: Modification de contenu prédictif pour les médias riches
+title: Modifier le contenu prédictif des médias riches
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Modification de contenu prédictif pour les médias riches {#edit-predictive-content-for-rich-media}
+# Modifier le contenu prédictif des médias riches {#edit-predictive-content-for-rich-media}
 
 Voici comment configurer votre contenu prédictif pour les médias riches.
 
@@ -55,6 +55,6 @@ Voici comment configurer votre contenu prédictif pour les médias riches.
 
    ![](assets/six-1.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/save.png)

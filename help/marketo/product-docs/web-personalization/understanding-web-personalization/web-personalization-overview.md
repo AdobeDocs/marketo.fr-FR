@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571900
 description: Présentation De Web Personalization - Documents Marketo - Documentation Du Produit
-title: Présentation de Web Personalization
+title: Vue d’ensemble Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '849'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Présentation de Web Personalization {#web-personalization-overview}
+# Vue d’ensemble Web Personalization {#web-personalization-overview}
 
 ## Introduction {#introduction}
 
@@ -118,7 +118,7 @@ Le panneau droit de la page [!UICONTROL Visiteurs] fournit les informations suiv
    <td colspan="1">Affiche le pays, l’État et la ville du visiteur</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><strong>Parcours de visites</strong></td>
+   <td colspan="1" rowspan="1"><strong>Flux de clics</strong></td>
    <td colspan="1" rowspan="1">Affiche un tableau de l’activité et du chemin d’URL du visiteur sur le site et la durée de sa visite sur chaque page</td>
   </tr>
  </tbody>

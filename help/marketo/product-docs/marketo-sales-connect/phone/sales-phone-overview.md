@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352438
 description: Présentation téléphonique des ventes - Documents Marketo - Documentation du produit
-title: Vue d'ensemble du numéro de téléphone de vente
+title: Vue d’ensemble de Sales Phone
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Vue d&#39;ensemble du numéro de téléphone de vente {#sales-phone-overview}
+# Vue d’ensemble de Sales Phone {#sales-phone-overview}
 
 ## Pourquoi choisir le numéro de téléphone commercial ? {#why-sales-phone}
 

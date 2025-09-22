@@ -1,16 +1,16 @@
 ---
 description: Guide d’intégration des utilisateurs des actions Insight Sales - Documents Marketo - Documentation du produit
-title: Guide d’intégration des utilisateurs des actions Insight Sales
+title: Guide d’intégration des utilisateurs et des utilisatrices pour Actions des informations sur les ventes
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Guide d’intégration des utilisateurs des actions Insight Sales {#sales-insight-actions-user-onboarding-guide}
+# Guide d’intégration des utilisateurs et des utilisatrices pour Actions des informations sur les ventes {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >

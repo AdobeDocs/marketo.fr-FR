@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147021
 description: Modification De Propriétaire - Documents Marketo - Documentation Du Produit
-title: Modifier le détenteur
+title: Modifier l’entité propriétaire
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 2%
 
 ---
 
-# Modifier le détenteur {#change-owner}
+# Modifier l’entité propriétaire {#change-owner}
 
 Si des personnes existantes sont déjà affectées à un propriétaire, vous pouvez utiliser cette étape de flux pour les réaffecter à un autre propriétaire.
 

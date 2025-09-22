@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795492
 description: Paramètres Des Informations Sur Les Performances - Documents Marketo - Documentation Du Produit
-title: Paramètres des informations sur les performances
+title: Paramètres de Performance Insights
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 

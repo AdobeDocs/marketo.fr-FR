@@ -1,50 +1,50 @@
 ---
-description: Envoyer un message SMS - Documents Marketo - Documentation du produit
-title: Envoyer un SMS
+description: Envoyer un SMS - Documents Marketo - Documentation du produit
+title: Envoyer un message SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Envoyer un SMS {#send-a-vibes-sms-message}
+# Envoyer un message SMS {#send-a-vibes-sms-message}
 
-Vous avez [créé votre SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, il est maintenant temps de l&#39;envoyer. Vous pouvez l&#39;envoyer par lot ou par campagne de déclenchement.
+Vous avez [créé votre SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, il est maintenant temps de l’envoyer. Vous pouvez l’envoyer par le biais d’une campagne Batch ou Trigger.
 
 >[!NOTE]
 >
->Lors de l&#39;envoi de SMS :
+>Lors de l’envoi de SMS :
 >
->* déduplication Marketo Engage par numéro de téléphone. Ainsi, si plusieurs personnes ont le même numéro de téléphone, une seule personne recevra le message s’ils ne sont membres que d’une seule liste d’inscription Vibes. Le dédoublonnage est effectué au niveau de la liste d’abonnements Vibes, et non au niveau du programme Marketo.
->* Marketo n’enverra pas aux personnes placées sur la liste bloquée ou Marketing suspendu.
->* Un SMS ne sera envoyé à personne désabonné s’il ne figure pas dans la liste de la base de données mobile de Vibes.
+>* Marketo Engage déduplique par numéro de téléphone. Ainsi, si plusieurs personnes ont le même numéro de téléphone, une seule personne recevra le message si elle est membre d&#39;une seule liste d&#39;abonnements Vibes. Le dédoublonnage est effectué au niveau de la liste d’abonnements Vibes, et non au niveau du programme Marketo.
+>* Marketo placer sur la liste bloquée n’enverra pas de messages aux personnes qui sont bloquées ou dont le marketing est suspendu.
+>* Un SMS ne sera envoyé à personne désabonnée si elle ne figure pas dans la liste Base de données mobile Vibes.
 
-## Envoyer un SMS par lots {#send-a-batch-sms}
+## Envoyer un SMS par lot {#send-a-batch-sms}
 
 1. Dans Mon Marketo, cliquez sur **Activités marketing**.
 
    ![](assets/send-an-sms-message-1.png)
 
-1. Recherchez et sélectionnez une campagne dynamique.
+1. Recherchez et sélectionnez la campagne intelligente souhaitée.
 
    ![](assets/send-an-sms-message-2.png)
 
-1. Cliquez sur l&#39;onglet **Liste dynamique** et définissez l&#39;audience du SMS. Dans cet exemple, nous envoyons à toutes les personnes de notre base de données dont &quot;Adobe&quot; est répertorié comme leur société.
+1. Cliquez sur l’onglet **Liste dynamique** et définissez l’audience du SMS. Dans cet exemple, nous envoyons à toutes les personnes de notre base de données dont la société « Adobe » est répertoriée.
 
    ![](assets/send-an-sms-message-3.png)
 
-1. Dans l’onglet **Flux**, placez le curseur sur **Envoyer un message SMS**. Sélectionnez la liste SMS et vidéos souhaitée dans les listes déroulantes.
+1. Dans l’onglet **Flux**, faites glisser sur **Envoyer un SMS**. Sélectionnez le SMS souhaité et la liste Vibes dans les listes déroulantes.
 
    ![](assets/send-an-sms-message-4.png)
 
    >[!NOTE]
    >
-   >Le sélecteur de liste de vidéos sert de filtre supplémentaire pour l’audience déjà identifiée dans la liste dynamique afin de cibler uniquement les personnes qui appartiennent à cette liste.
+   >Le sélecteur de liste Vibes agit comme un filtre supplémentaire sur l’audience déjà identifiée dans la liste dynamique afin de cibler uniquement les personnes appartenant à cette liste Vibes.
 
-1. Cliquez sur l&#39;onglet **Planning** et planifiez votre SMS.
+1. Cliquez sur l’onglet **Planifier** et planifiez votre SMS.
 
    ![](assets/send-an-sms-message-5.png)
 
@@ -54,27 +54,27 @@ Vous avez [créé votre SMS](/help/marketo/product-docs/mobile-marketing/vibes-s
 
    ![](assets/send-an-sms-message-6.png)
 
-1. Recherchez et sélectionnez une campagne dynamique.
+1. Recherchez et sélectionnez la campagne intelligente souhaitée.
 
    ![](assets/send-an-sms-message-7.png)
 
-1. Cliquez sur l’onglet **Liste dynamique** , sélectionnez le déclencheur désiré et définissez sa valeur. Dans cet exemple, nous utilisons **Remplit le formulaire**.
+1. Cliquez sur l’onglet **Liste dynamique**, sélectionnez le déclencheur souhaité et définissez sa valeur. Dans cet exemple, nous utilisons **Remplit le formulaire**.
 
    ![](assets/send-an-sms-message-8.png)
 
-1. Dans l’onglet **Flux**, placez le curseur sur **Envoyer un message SMS**. Sélectionnez la liste SMS et vidéos souhaitée dans les listes déroulantes.
+1. Dans l’onglet **Flux**, faites glisser sur **Envoyer un SMS**. Sélectionnez le SMS souhaité et la liste Vibes dans les listes déroulantes.
 
    ![](assets/send-an-sms-message-9.png)
 
    >[!NOTE]
    >
-   >Le sélecteur de liste de vidéos sert de filtre supplémentaire pour l’audience déjà identifiée dans la liste dynamique afin de cibler uniquement les personnes qui appartiennent à cette liste.
+   >Le sélecteur de liste Vibes agit comme un filtre supplémentaire sur l’audience déjà identifiée dans la liste dynamique afin de cibler uniquement les personnes appartenant à cette liste Vibes.
 
-1. Cliquez sur l’onglet **Planning** , puis **Activer**.
+1. Cliquez sur l&#39;onglet **Planifier**, puis **Activer**.
 
    ![](assets/send-an-sms-message-10.png)
 
 >[!MORELIKETHIS]
 >
->* [Créer un message vidéo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [Créer un message Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [Utilisation des options SMS dans une campagne dynamique](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

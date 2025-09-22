@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949270
 description: SEO - Utilisation du rapport Tendances KW des concurrents - Documents Marketo - Documentation du produit
-title: 'Optimisation du moteur de recherche : utilisez le rapport Tendances des mots de passe concurrents'
+title: SEO - Utiliser le rapport des tendances des mots-clés de l’entité concurrente
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# Optimisation du moteur de recherche : utilisez le rapport Tendances des mots de passe concurrents {#seo-use-the-competitor-kw-trends-report}
+# SEO - Utiliser le rapport des tendances des mots-clés de l’entité concurrente {#seo-use-the-competitor-kw-trends-report}
 
 Dans ce rapport, vous pouvez voir comment vous et vos concurrents êtes classés sur la base des mots-clés au fil du temps.
 
@@ -35,7 +35,7 @@ Ce graphique peut vous montrer quel pourcentage de vos mots-clés est classé da
 |---|---|
 | [!UICONTROL Mots-clés] | Nombre de mots-clés dont vous effectuez le suivi. |
 | [!UICONTROL URL de classement] | Le nombre d’URL de votre site se classant dans la plage que vous avez définie. |
-| [!UICONTROL &#x200B; % en rang] | Pourcentage du classement des mots-clés dans la plage que vous avez définie. |
+| [!UICONTROL  % en rang] | Pourcentage du classement des mots-clés dans la plage que vous avez définie. |
 | [!UICONTROL Moy. recherches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la plage que vous avez définie (au cours des 30 derniers jours, sur la recherche Google US) |
 
 ## Filtrer les données {#filtering-data}

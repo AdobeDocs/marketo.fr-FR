@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Octobre 2014 - Documents Marketo - Document
 title: Notes De Mise À Jour - Octobre 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Notes De Mise À Jour : Octobre 2014 {#release-notes-october}
+# Notes de mise à jour : octobre 2014 {#release-notes-october}
 
 Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo. La documentation sera fournie au moment de la publication.
 
@@ -30,7 +30,7 @@ Utilisez l’API pour extraire de nouvelles activités ou modifications vers les
 * Obtenir les types d’activités
 * Obtenir le jeton de pagination
 
-Des détails complets seront disponibles après la publication sur [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
+Des détails complets seront disponibles après la publication sur [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Envoyer un e-mail Marketo pour [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Utilisez un nouvel appel qui suit l’historique des visites passées du visiteu
 * Produits intéressés par
 * Quelles campagnes RTP ont-ils vues ?
 
-Consultez [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour plus de détails.
+Consultez [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour plus de détails.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352553
-description: Qu’est-ce que l’intégration Sales Connect et Highspot ? - Documents Marketo - Documentation Du Produit
-title: Qu’est-ce que l’intégration Sales Connect et Highspot ?
+description: Qu’est-ce que l’intégration Sales Connect et Highspot ? - Documents Marketo - Documentation sur le produit
+title: Qu’est-ce que l’intégration Sales Connect avec Highspot ?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -31,7 +31,7 @@ En plus de travailler dans [!DNL Sales Connect] dans un navigateur, l’intégra
 
 ## Activation de l’intégration [!DNL Sales Connect] et [!DNL Highspot] {#enabling-the-sales-connect-and-highspot-integration}
 
-Si vous souhaitez activer l’intégration [!DNL Highspot] pour votre équipe, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support#).
+Si vous souhaitez activer l’intégration [!DNL Highspot] pour votre équipe, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
 ## Utilisation de l’intégration {#how-to-use-the-integration}
 

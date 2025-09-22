@@ -4,10 +4,10 @@ description: Rediriger une page de destination - Documents Marketo - Documentati
 title: Rediriger une page de destination
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->* [ Page de destination avec un formulaire ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [Personnaliser l’URL de votre page de destination avec un CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
 ## Étape 1 : démarrer une nouvelle règle de redirection {#step-start-a-new-redirect-rule}

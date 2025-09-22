@@ -4,16 +4,16 @@ description: Modifier La Position Du Libellé Du Formulaire - Documents Marketo 
 title: Modifier la position du libellé du formulaire
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
 # Modifier la position du libellé du formulaire {#change-form-label-position}
 
-Lors de la [création d’un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), vous pouvez très facilement modifier le positionnement des libellés des champs du formulaire. Voici comment procéder.
+Lors de la [création d’un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), vous pouvez très facilement modifier le positionnement des libellés des champs du formulaire. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

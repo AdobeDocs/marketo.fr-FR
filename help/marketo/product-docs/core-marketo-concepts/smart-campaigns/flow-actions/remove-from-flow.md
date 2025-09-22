@@ -1,10 +1,10 @@
 ---
 unique-page-id: 1147084
-description: Supprimer du flux - Documents Marketo - Documentation du produit
+description: Supprimer de Flux - Documents Marketo - Documentation du produit
 title: Supprimer des flux
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 4%
@@ -13,21 +13,21 @@ ht-degree: 4%
 
 # Supprimer des flux {#remove-from-flow}
 
-Imaginez que vous ayez un flux de campagne dynamique qui utilise &quot;Envoyer une alerte&quot; pour rappeler à un représentant commercial d’appeler un prospect dynamique. Il envoie un message chaque jour jusqu’à ce que le représentant effectue l’appel. Vous pouvez utiliser &quot;Supprimer du flux&quot; dans une campagne de déclenchement une fois que le prospect a été contacté pour arrêter d’autres alertes. C&#39;est comme un siège éjecteur de campagne intelligente pour une personne.
+Imaginez que vous ayez un flux de campagne intelligente qui utilise « Envoyer une alerte » pour rappeler à un commercial d’appeler un prospect actif. Il envoie un message tous les jours jusqu’à ce que le représentant passe l’appel. Vous pouvez utiliser l’option « Supprimer du flux » dans une campagne de déclenchement une fois que le prospect a été contacté pour arrêter d’autres alertes. C&#39;est comme un siège éjecteur Smart Campaign pour une personne.
 
 ![](assets/remove-from-flow-1.png)
 
 >[!NOTE]
 >
->Cela affecterait normalement les personnes qui se trouvent dans l’étape d’attente d’un flux de campagne.
+>Cela affecte normalement les personnes qui se trouvent à l’étape d’attente d’un flux de campagne.
 
-1. Recherchez et sélectionnez la campagne dynamique dont vous souhaitez supprimer des personnes.
+1. Recherchez et sélectionnez la campagne intelligente dont vous souhaitez supprimer des personnes.
 
    ![](assets/remove-from-flow-2.png)
 
 >[!NOTE]
 >
->Vous pouvez choisir une campagne dynamique spécifique ou &quot;cette campagne&quot; dans la liste déroulante **[!UICONTROL Campagne]** pour sélectionner la campagne dans laquelle vous vous trouvez physiquement à l’heure actuelle.
+>Vous pouvez choisir une campagne intelligente spécifique ou choisir « cette campagne » dans le menu déroulant **[!UICONTROL Campagne]** pour sélectionner la campagne dans laquelle vous vous trouvez physiquement au moment de l’opération.
 
 >[!NOTE]
 >

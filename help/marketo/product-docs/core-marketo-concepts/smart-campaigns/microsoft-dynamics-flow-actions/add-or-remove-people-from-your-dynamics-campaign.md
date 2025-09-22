@@ -3,7 +3,7 @@ description: Ajout ou suppression de personnes de votre campagne  [!DNL Dynamics
 title: Ajouter ou supprimer des personnes de votre  [!DNL Dynamics]  Campaign
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%

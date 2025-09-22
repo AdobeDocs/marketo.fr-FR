@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360399
 description: Création d’un analyseur de programme - Documents Marketo - Documentation du produit
-title: Création d’un analyseur de programmes
+title: Créer un analyseur de programme
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -55,7 +55,7 @@ Découvrez quels programmes et canaux vous offrent le meilleur retour sur invest
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. Sélectionnez l’emplacement où vous souhaitez enregistrer l’analyseur personnalisé à l’aide des listes déroulantes [!UICONTROL Enregistrer dans] et [!UICONTROL Dossier]. Nommez le nouvel analyseur personnalisé. Une description est facultative. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez l’emplacement où vous souhaitez enregistrer l’analyseur personnalisé à l’aide des listes déroulantes [!UICONTROL Enregistrer dans] et [!UICONTROL Dossier]. Nommez le nouvel analyseur personnalisé. Une description est facultative. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 

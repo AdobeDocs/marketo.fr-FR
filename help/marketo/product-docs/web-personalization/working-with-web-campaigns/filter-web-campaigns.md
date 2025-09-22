@@ -4,10 +4,10 @@ description: Filtrage Des Campagnes Web - Documents Marketo - Documentation Du P
 title: Filtrer les campagnes web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Après avoir créé des centaines de campagnes [!DNL Web Personalization], il es
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Sur la page [!UICONTROL &#x200B; Campagnes web &#x200B;], cliquez sur **[!UICONTROL Filtrer]**.
+1. Sur la page [!UICONTROL  Campagnes web ], cliquez sur **[!UICONTROL Filtrer]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 

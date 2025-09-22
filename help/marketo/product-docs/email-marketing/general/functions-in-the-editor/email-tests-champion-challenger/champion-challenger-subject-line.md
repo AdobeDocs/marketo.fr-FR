@@ -4,14 +4,14 @@ description: Champion/Challenger -Objet - Documents Marketo - Documentation Du P
 title: Champion/Challenger - Objet
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Champion/Challenger : Objet {#champion-challenger-subject-line}
+# Champion/Challenger : objet de l’e-mail {#champion-challenger-subject-line}
 
 Vous pouvez facilement tester plusieurs lignes d’objet. Lorsque le test est terminé, envoyez des e-mails avec le plus efficace. Voici comment procéder.
 

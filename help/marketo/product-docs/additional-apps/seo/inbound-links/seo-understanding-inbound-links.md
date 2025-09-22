@@ -4,10 +4,10 @@ description: SEO - Présentation des liens entrants - Documents Marketo - Docume
 title: SEO - Présentation des liens entrants
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 | Titre de colonne | Description |
 |---|---|
-| [!UICONTROL &#x200B; URL du lien entrant &#x200B;] | La page web en question. |
+| [!UICONTROL  URL du lien entrant ] | La page web en question. |
 | [!UICONTROL Priorité] | Quelle valeur cette opportunité a-t-elle pour votre classement de page ? |
 | [!UICONTROL Liens avec le concurrent] | Indique si un concurrent est lié à dans cette URL. |
 | [!UICONTROL Liens vers mon site] | Indique si votre site est lié à cette URL. |

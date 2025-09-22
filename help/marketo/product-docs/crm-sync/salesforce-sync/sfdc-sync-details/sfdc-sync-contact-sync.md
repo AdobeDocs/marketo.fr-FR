@@ -4,14 +4,14 @@ description: Synchronisation de SFDC - Synchronisation des contacts - Documents 
 title: Synchronisation de SFDC - Synchronisation des contacts
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Synchronisation de SFDC : synchronisation des contacts {#sfdc-sync-contact-sync}
+# Synchronisation SFDC : synchronisation de contact {#sfdc-sync-contact-sync}
 
 Saviez-vous que Marketo synchronise l’ensemble de votre base de données avec [!DNL Salesforce] ? Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les contacts [!DNL Salesforce].
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359545
 description: Définir les critères de gagnant du test A/B - Documents Marketo - Documentation du produit
-title: Définir les critères du gagnant du test A/B
+title: Définir les critères de sélection du gagnant du test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 1%
+ht-degree: 22%
 
 ---
 
-# Définir les critères du gagnant du test A/B {#define-the-a-b-test-winner-criteria}
+# Définir les critères de sélection du gagnant du test A/B {#define-the-a-b-test-winner-criteria}
 
 Lors de l’[ajout d’un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} à votre programme d’e-mail, vous devez sélectionner un type de test, [planifier le test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}, puis définir les critères du gagnant. Voici comment choisir l’e-mail qui l’emportera.
 
@@ -36,11 +36,11 @@ Lors de l’[ajout d’un test A/B](/help/marketo/product-docs/email-marketing/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Cliquez pour ouvrir] %</b></td>
-   <td>Pourcentage d’e-mails ouverts avec un lien cliqué dans l’e-mail. Cela permet de mesurer la pertinence et le contexte d’un e-mail en divisant le nombre de clics uniques par le nombre d’ouvertures uniques, puis en multipliant cette valeur par 100 pour l’afficher en pourcentage.</td>
+   <td>Pourcentage d’e-mails qui ont été ouverts et dans lesquels un lien a fait l’objet d’un clic. Cela permet de mesurer la pertinence et le contexte d’un e-mail en divisant le nombre de clics uniques par le nombre d’ouvertures uniques, puis en multipliant cette valeur par 100 pour l’afficher en pourcentage.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Le <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=fr" target="_blank"> score d’engagement </a> vous aide à déterminer l’efficacité de votre contenu.</td>
+   <td>Le <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank"> score d’engagement </a> vous aide à déterminer l’efficacité de votre contenu.</td>
    </tr>
    </table>
 

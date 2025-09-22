@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981204
 description: Présentation De Predictive Content Analytics - Documentation De Marketo - Documentation Du Produit
-title: Présentation du Content Analytics prédictif
+title: Vue d’ensemble de l’analyse du contenu prédictif
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-# Présentation du Content Analytics prédictif {#predictive-content-analytics-overview}
+# Vue d’ensemble de l’analyse du contenu prédictif {#predictive-content-analytics-overview}
 
 Utilisez l’analyse de contenu pour obtenir des informations supplémentaires sur votre contenu existant, découvrir (en fonction de l’IA et des algorithmes prédictifs) le contenu qui fonctionne pour vos audiences et augmenter le retour sur investissement de vos efforts marketing.
 
@@ -69,7 +69,7 @@ Affiche la montée en popularité d’un élément de contenu en examinant la de
 
 ![](assets/new-8.png)
 
-## [!UICONTROL &#x200B; Contenu suggéré &#x200B;] {#suggested-content}
+## [!UICONTROL  Contenu suggéré ] {#suggested-content}
 
 Affiche le contenu que nous vous suggérons de promouvoir dans vos activités marketing en fonction du filtre que vous avez défini.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504060
 description: Suppression d’une présentation - Documents Marketo - Documentation du produit
-title: Suppression d’une présentation
+title: Supprimer une présentation
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Suppression d’une présentation {#delete-a-presentation}
+# Supprimer une présentation {#delete-a-presentation}
 
-Parfois on peut avoir trop de bien. Supprimez les anciennes présentations pour laisser de la place aux nouvelles.
+Parfois, on peut avoir trop de bonnes choses. Supprimez les anciennes présentations pour faire de la place aux nouvelles !
 
 1. Sélectionnez une présentation.
 

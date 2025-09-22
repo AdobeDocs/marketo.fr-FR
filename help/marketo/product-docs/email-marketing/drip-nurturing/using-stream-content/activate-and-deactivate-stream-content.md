@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359669
 description: Activer et désactiver le contenu de flux - Documents Marketo - Documentation du produit
-title: Activer et désactiver le contenu de flux
+title: Activer et désactiver le contenu en flux
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Activer et désactiver le contenu de flux {#activate-and-deactivate-stream-content}
+# Activer et désactiver le contenu en flux {#activate-and-deactivate-stream-content}
 
 Par défaut, le contenu diffusé en continu est DÉSACTIVÉ. Activez le contenu pour les envoyer lors des lancements d’engagement.
 

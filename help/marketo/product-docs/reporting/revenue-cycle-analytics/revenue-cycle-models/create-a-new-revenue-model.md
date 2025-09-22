@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718656
 description: Création d’un modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
-title: Création d’un modèle de revenus
+title: Créer un modèle de revenu
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Création d’un modèle de revenus {#create-a-new-revenue-model}
+# Créer un modèle de revenu {#create-a-new-revenue-model}
 
 1. Pour créer un modèle de cycle du chiffre d’affaires, cliquez sur le bouton **[!UICONTROL Analytics]** sur l’écran d’accueil de [!UICONTROL Mon Marketo].
 

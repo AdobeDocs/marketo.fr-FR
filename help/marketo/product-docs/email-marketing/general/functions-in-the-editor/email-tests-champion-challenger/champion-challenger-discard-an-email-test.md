@@ -4,16 +4,16 @@ description: Champion/Challenger - Ignorer un test par e-mail - Documents Market
 title: Champion/Challenger - Ignorer un test par e-mail
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Champion/Challenger : ignorer un test par e-mail {#champion-challenger-discard-an-email-test}
+# Champion/Challenger : supprimer un test d’e-mail {#champion-challenger-discard-an-email-test}
 
-Si, à tout moment, vous décidez de ne pas continuer à exécuter votre test d’e-mail, vous pouvez le supprimer. Voici comment procéder.
+Si, à tout moment, vous décidez de ne pas continuer à exécuter votre test d’e-mail, vous pouvez le supprimer. Voici comment faire.
 
 >[!PREREQUISITES]
 >

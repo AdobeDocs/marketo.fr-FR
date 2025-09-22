@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095554
 description: Incorporation d’un formulaire dans une campagne web - Documents Marketo - Documentation du produit
-title: Incorporation d’un formulaire dans une campagne web
+title: Incorporer un formulaire dans une campagne web
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Incorporation d’un formulaire dans une campagne web {#embed-a-form-into-a-web-campaign}
+# Incorporer un formulaire dans une campagne web {#embed-a-form-into-a-web-campaign}
 
 Découvrez comment incorporer un formulaire Marketo dans une campagne web (boîte de dialogue, zone ou widget).
 
@@ -59,7 +59,7 @@ Pour modifier le CSS d’un thème de formulaire, consultez [cet article](/help/
 
 Pour modifier les couleurs de la boîte de dialogue ou du widget dans Définir la campagne :
 
-1. Dans l’éditeur de texte enrichi, sélectionnez un type de campagne Boîte de dialogue et un style de boîte de dialogue, une couleur d’en-tête et une couleur d’arrière-plan pour personnaliser les couleurs d’arrière-plan du formulaire. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Dans l’éditeur de texte enrichi, sélectionnez un type de campagne Boîte de dialogue et un style de boîte de dialogue, une couleur d’en-tête et une couleur d’arrière-plan pour personnaliser les couleurs d’arrière-plan du formulaire. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -85,4 +85,4 @@ Pour ajouter du code CSS au script :
 >
 >* [Modifier le CSS d’un thème de formulaire](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Afficher un message de remerciement sans page de destination de relance](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Formulaires 2.0](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Formulaires 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

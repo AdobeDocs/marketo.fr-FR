@@ -4,10 +4,10 @@ description: Ajouter un lien Afficher en tant que page web à un e-mail - Docume
 title: Ajouter un lien Afficher en tant que page web à un e-mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

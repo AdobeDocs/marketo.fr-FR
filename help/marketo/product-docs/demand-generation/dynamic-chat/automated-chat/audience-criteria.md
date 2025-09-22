@@ -3,7 +3,7 @@ description: Critères D’Audience - Documents Marketo - Documentation Du Produ
 title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure « [!UICONTROL &#x200B; supérieure à &#x200B;] » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 

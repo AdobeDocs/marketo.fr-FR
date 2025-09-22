@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950396
 description: Priorité, urgence, score relatif et meilleurs résultats - Documents Marketo - Documentation du produit
-title: Priorité, urgence, score relatif et meilleurs résultats
+title: Priorité, urgence, score relatif et meilleurs choix
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

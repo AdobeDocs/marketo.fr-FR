@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
 description: Rapport Performances Des E-Mails D’Insight Sales - Documents Marketo - Documentation Du Produit
-title: E-mail du rapport sur le rendement concernant les données de ventes
+title: E-mail du rapport de performance concernant les Informations sur les ventes
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 8%
 
 ---
 
-# E-mail du rapport sur le rendement concernant les données de ventes {#sales-insight-email-performance-report}
+# E-mail du rapport de performance concernant les Informations sur les ventes {#sales-insight-email-performance-report}
 
 Affichez les performances des e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics] ou d’un plug-in Gmail ou [!DNL Outlook].
 
@@ -55,7 +55,7 @@ Vous pouvez afficher ce rapport regroupé par Rep des ventes en modifiant vos pa
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 

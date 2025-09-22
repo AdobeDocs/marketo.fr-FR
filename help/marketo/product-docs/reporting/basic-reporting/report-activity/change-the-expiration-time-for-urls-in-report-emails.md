@@ -4,10 +4,10 @@ description: Modifier le délai d’expiration des URL dans les e-mails de rappo
 title: Modifier le délai d’expiration des URL dans les e-mails de rapport
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
@@ -27,7 +27,7 @@ Les liens figurant dans les e-mails d’abonnement aux rapports expirent au bout
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Dans le menu déroulant, sélectionnez le nombre de jours avant l’expiration du lien. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Dans le menu déroulant, sélectionnez le nombre de jours avant l’expiration du lien. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

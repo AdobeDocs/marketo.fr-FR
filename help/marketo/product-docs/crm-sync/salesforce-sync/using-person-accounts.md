@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719316
 description: Utilisation Des Comptes De Personne - Documents Marketo - Documentation Du Produit
-title: Utilisation de comptes de personne
+title: Utilisation de comptes de personnes
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Utilisation de comptes de personne {#using-person-accounts}
+# Utilisation de comptes de personnes {#using-person-accounts}
 
 Les comptes de personne peuvent être configurés dans Salesforce en fonction des besoins de votre entreprise. Voici comment Marketo Engage traite les comptes de personnes.
 

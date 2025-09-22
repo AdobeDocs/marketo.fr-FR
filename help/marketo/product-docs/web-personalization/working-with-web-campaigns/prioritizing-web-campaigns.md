@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782266
 description: Définition Des Priorités Des Campagnes Web - Documents Marketo - Documentation Du Produit
-title: Hiérarchisation des campagnes web
+title: Priorisation des campagnes web
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Hiérarchisation des campagnes web {#prioritizing-web-campaigns}
+# Priorisation des campagnes web {#prioritizing-web-campaigns}
 
 Hiérarchisez vos campagnes web lorsque plusieurs campagnes web se chevauchent en définissant un score de priorité.
 

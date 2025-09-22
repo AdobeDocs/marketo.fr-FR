@@ -2,20 +2,20 @@
 description: Notes De Mise À Jour - Août 2022 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Août 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '512'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Notes De Mise À Jour : Août 2022 {#release-notes-aug-22}
+# Notes de mise à jour : août 2022 {#release-notes-aug-22}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 août. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 août. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 Le déploiement échelonné des fonctionnalités suivantes a commencé le **26 août 2022**.
 

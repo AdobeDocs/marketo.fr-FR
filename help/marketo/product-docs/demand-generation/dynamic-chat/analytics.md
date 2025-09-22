@@ -1,16 +1,16 @@
 ---
 description: Analytics - Documents Marketo - Documentation du produit
-title: Analytics
+title: Analyse
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 3%
 
 ---
 
-# Analytics {#analytics}
+# Analyse {#analytics}
 
 Bien que le compte rendu des performances soit disponible au niveau de la boîte de dialogue, vérifiez l’engagement global en utilisant les trois tableaux de bord ci-dessous.
 

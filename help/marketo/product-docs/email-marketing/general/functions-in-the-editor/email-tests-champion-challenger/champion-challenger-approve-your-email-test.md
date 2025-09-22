@@ -4,16 +4,16 @@ description: Champion/Challenger - Approuver Votre Test E-Mail - Documents Marke
 title: Champion/Challenger - Approuvez Votre Test E-Mail
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Champion/Challenger : Approuver Votre Test E-Mail {#champion-challenger-approve-your-email-test}
+# Champion/Challenger : approuver votre test d’e-mail {#champion-challenger-approve-your-email-test}
 
-Étape finale de la configuration de votre test d’e-mail pour l’approuver. Voici comment procéder.
+Étape finale de la configuration de votre test d’e-mail pour l’approuver. Voici comment faire.
 
 >[!PREREQUISITES]
 >

@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2953243
 description: Types de notifications - Documents Marketo - Documentation du produit
-title: Types de notification
+title: Types de notifications
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Types de notification {#notification-types}
+# Types de notifications {#notification-types}
 
 Il existe plusieurs types de notification.
 
@@ -60,4 +60,4 @@ Vous serez averti lorsque vous atteindrez votre quota quotidien. Le quota est r�
 
 >[!NOTE]
 >
->Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation destinée aux développeurs](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/error-codes).
+>Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation destinée aux développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

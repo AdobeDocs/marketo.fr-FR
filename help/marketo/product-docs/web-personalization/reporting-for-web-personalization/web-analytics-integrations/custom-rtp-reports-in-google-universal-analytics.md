@@ -4,10 +4,10 @@ description: Rapports RTP personnalisés dans Google Universal Analytics - Docum
 title: Rapports RTP personnalisés dans Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 
@@ -103,7 +103,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
 1. Ne définissez aucun filtre et définissez ce rapport de sorte qu’il soit disponible pour **[!UICONTROL Toutes les données du site web]** (ou modifiez-le si cela concerne un compte Analytics spécifique).
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -223,7 +223,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

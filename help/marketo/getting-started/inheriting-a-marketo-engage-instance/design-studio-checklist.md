@@ -3,14 +3,14 @@ description: Liste de contrôle de conception d’instance héritée - Documents
 title: Liste de contrôle de Design Studio d’instance héritée
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Instance héritée : liste de contrôle de Design Studio {#inherited-instance-design-studio-checklist}
+# Instance héritée : liste de contrôle du studio de conception {#inherited-instance-design-studio-checklist}
 
 La structuration des modèles et la création de formulaires globaux, de fragments de code et d’images et de fichiers permettent de minimiser les erreurs de données et de rationaliser le workflow de la création de votre programme. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et de suivre vos progrès.
 
@@ -25,7 +25,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
   <tr>
    <td>Pages de destination internationales</td>
    <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">landing pages</a> globales avez-vous ? Sont-ils utilisés par les programmes?</li>
-   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=fr" target="_blank">centre d’abonnement</a> configuré ?
+   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centre d’abonnement</a> configuré ?
    <br/>     Sinon, envisagez d’en créer un.</li></td>
   </tr>
   <tr>

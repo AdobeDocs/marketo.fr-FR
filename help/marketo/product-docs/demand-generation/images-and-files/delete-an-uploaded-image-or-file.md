@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359873
 description: Suppression d’une image ou d’un fichier chargé - Documents Marketo - Documentation du produit
-title: Suppression d’une image ou d’un fichier chargé
+title: Supprimer une image chargée ou un fichier chargé
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Suppression d’une image ou d’un fichier chargé {#delete-an-uploaded-image-or-file}
+# Supprimer une image chargée ou un fichier chargé {#delete-an-uploaded-image-or-file}
 
 La suppression des images ou des fichiers est rapide et facile.
 

@@ -4,10 +4,10 @@ description: Création de groupes de champs personnalisés à l’aide de l’or
 title: Créer des groupes de champs personnalisés à l’aide de l’organisateur de champs
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1000'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -44,7 +44,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Pays &#x200B;] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Pays ] est utilisé ici.
 
    ![](assets/three.png)
 
@@ -112,7 +112,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/9.6.png)
 
-1. Cliquez sur le nom de groupe personnalisé par défaut au-dessus de l’éditeur de nombres entiers pour personnaliser le nom. Par exemple, vous pouvez renommer « Groupe de revenus annuels » en « Revenus annuels par taille ». Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur le nom de groupe personnalisé par défaut au-dessus de l’éditeur de nombres entiers pour personnaliser le nom. Par exemple, vous pouvez renommer « Groupe de revenus annuels » en « Revenus annuels par taille ». Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/eleven.png)
 
@@ -154,7 +154,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Date d’acquisition &#x200B;] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Date d’acquisition ] est utilisé ici.
 
    ![](assets/fourteen.png)
 
@@ -166,7 +166,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/14.6.png)
 
-1. Cliquez sur le nom de groupe personnalisé par défaut au-dessus de l’éditeur de dates pour personnaliser le nom. Par exemple, vous pouvez renommer « Groupe de dates d’acquisition » en « Catégories de dates d’acquisition ». Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur le nom de groupe personnalisé par défaut au-dessus de l’éditeur de dates pour personnaliser le nom. Par exemple, vous pouvez renommer « Groupe de dates d’acquisition » en « Catégories de dates d’acquisition ». Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/fifteen.png)
 

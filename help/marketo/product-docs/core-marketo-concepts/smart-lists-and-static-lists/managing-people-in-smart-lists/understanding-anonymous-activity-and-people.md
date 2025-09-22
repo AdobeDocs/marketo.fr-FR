@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147322
 description: Présentation des activités et des personnes anonymes - Documents Marketo - Documentation du produit
-title: Comprendre les activités et les personnes anonymes
+title: Présentation des activités et des personnes anonymes
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Comprendre les activités et les personnes anonymes {#understanding-anonymous-activity-and-people}
+# Présentation des activités et des personnes anonymes {#understanding-anonymous-activity-and-people}
 
 La première fois qu’une personne visite une page de destination de Marketo (ou une page de votre site web comportant le [code de suivi Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo crée une *activité anonyme* et utilise un cookie de navigateur pour la suivre. Une fois identifié, il devient une personne et l’historique associé à son cookie de navigateur est fusionné.
 

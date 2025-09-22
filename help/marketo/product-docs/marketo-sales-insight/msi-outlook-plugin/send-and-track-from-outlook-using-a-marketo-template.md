@@ -4,7 +4,7 @@ description: Envoi et suivi à partir d [!DNL Outlook] un modèle Marketo - Docu
 title: Envoi et suivi à partir d [!DNL Outlook] un modèle Marketo
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%

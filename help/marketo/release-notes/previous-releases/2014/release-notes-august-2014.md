@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Août 2014 - Documents Marketo - Documentat
 title: Notes De Mise À Jour - Août 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 4%
+source-wordcount: '399'
+ht-degree: 5%
 
 ---
 
-# Notes de mise à jour : août 2014 {#release-notes-august}
+# Notes de mise à jour : août 2014 {#release-notes-august}
 
 Les fonctionnalités suivantes sont incluses dans la version d’août 2014. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 

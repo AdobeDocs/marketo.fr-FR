@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Octobre 2013 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Notes De Mise À Jour : Octobre 2013 {#release-notes-october}
+# Notes de mise à jour : octobre 2013 {#release-notes-october}
 
 Les fonctionnalités suivantes sont incluses dans la version d’octobre 2013.
 

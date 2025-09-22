@@ -4,10 +4,10 @@ description: Ajout d’un texte d’indice à un champ de formulaire - Documents
 title: Ajouter un texte d’indice à un champ de formulaire
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 4%
+ht-degree: 15%
 
 ---
 

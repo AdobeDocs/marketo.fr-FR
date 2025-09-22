@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360205
 description: Partager un modèle sur plusieurs espaces de travail - Documents Marketo - Documentation du produit
-title: Partage d’un modèle sur plusieurs espaces de travail
+title: Partager un modèle dans plusieurs espaces de travail
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Partage d’un modèle sur plusieurs espaces de travail {#share-a-model-across-workspaces}
+# Partager un modèle dans plusieurs espaces de travail {#share-a-model-across-workspaces}
 
-Marketo vous permet de partager un ou plusieurs modèles dans les espaces de travail. Voici comment procéder.
+Marketo vous permet de partager un ou plusieurs modèles dans les espaces de travail. Voici comment faire.
 
 1. Accédez à la section **[!UICONTROL Analytics]**.
 

@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Décembre 2012 - Documents Marketo - Docume
 title: Notes De Mise À Jour - Décembre 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Notes De Mise À Jour : Décembre 2012 {#release-notes-december}
+# Notes de mise à jour : décembre 2012 {#release-notes-december}
 
 La version de décembre comprend la fonctionnalité très attendue **Forward to Friend**, ainsi que plusieurs autres cadeaux ! Notez que les fonctionnalités marquées d’un astérisque (&#42;) sont disponibles uniquement dans l’édition Select et dans RCA (Revenue Cycle Analytics).
 

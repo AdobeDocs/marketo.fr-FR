@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2949413
 description: Ajouter une contrainte à un filtre de liste dynamique - Documents Marketo - Documentation du produit
-title: Ajout d’une contrainte à un filtre de liste dynamique
+title: Ajouter une contrainte à un filtre de liste intelligente
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Ajout d’une contrainte à un filtre de liste dynamique {#add-a-constraint-to-a-smart-list-filter}
+# Ajouter une contrainte à un filtre de liste intelligente {#add-a-constraint-to-a-smart-list-filter}
 
-Lors de la création d’une liste dynamique, certains filtres disposent d’options avancées appelées &quot;contraintes&quot;. Il s’agit de conditions supplémentaires que vous pouvez ajouter aux filtres et aux triggers pour affiner encore davantage votre recherche.
+Lors de la création d’une liste dynamique, certains filtres disposent d’options avancées appelées « contraintes ». Ce sont des conditions supplémentaires que vous pouvez ajouter aux filtres et aux déclencheurs pour vous aider à affiner davantage votre recherche.
 
-Dans cet exemple, ajoutons quelques contraintes à un filtre **[Valeur de données modifiée](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** pour rechercher les personnes qui ont subi un changement d’état de MQL à SQL.
+Dans cet exemple, ajoutons des contraintes à un filtre **[Valeur des données modifiées](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** pour rechercher les personnes dont le statut a été modifié de MQL à SQL.
 
 >[!PREREQUISITES]
 >
 >* [Créer une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [Utiliser le filtre &quot;Valeur de données modifiée&quot; dans une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
+>* [Utilisation du filtre « Valeur des données modifiée » dans une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-1.png)
 
-1. Sélectionnez la liste dynamique avec un filtre auquel vous allez ajouter une contrainte et cliquez sur l’onglet **[!UICONTROL Liste dynamique]** .
+1. Sélectionnez la liste dynamique avec un filtre auquel vous allez ajouter une contrainte, puis cliquez sur l&#39;onglet **[!UICONTROL Liste dynamique]**.
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-2.png)
 
@@ -46,4 +46,4 @@ Dans cet exemple, ajoutons quelques contraintes à un filtre **[Valeur de donné
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. C&#39;est joli ! Cliquez sur l’onglet **[!UICONTROL Personnes]** pour afficher toutes les personnes qui ont eu un changement d’état de &quot;MQL&quot; à &quot;SQL&quot; au cours des 30 derniers jours.
+1. Bien joué ! Cliquez sur l’onglet **[!UICONTROL Personnes]** pour afficher toutes les personnes dont le statut est passé de « MQL » à « SQL » au cours des 30 derniers jours.

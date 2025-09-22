@@ -1,16 +1,16 @@
 ---
 description: Configurer un canal de diffusion personnalisé pour votre équipe - Documents Marketo - Documentation du produit
-title: Configurer un canal de diffusion personnalisé pour votre équipe
+title: Configurer un canal d’envoi personnalisé pour votre équipe
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Configurer un canal de diffusion personnalisé pour votre équipe {#set-up-a-custom-delivery-channel-for-your-team}
+# Configurer un canal d’envoi personnalisé pour votre équipe {#set-up-a-custom-delivery-channel-for-your-team}
 
 >[!NOTE]
 >

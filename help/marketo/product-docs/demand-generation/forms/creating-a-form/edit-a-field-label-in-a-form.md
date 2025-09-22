@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359566
 description: Modifier un libellé de champ dans un formulaire - Documents Marketo - Documentation du produit
-title: Modification d’un libellé de champ dans un formulaire
+title: Modifier un libellé de champ dans un formulaire
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Modification d’un libellé de champ dans un formulaire {#edit-a-field-label-in-a-form}
+# Modifier un libellé de champ dans un formulaire {#edit-a-field-label-in-a-form}
 
 Vous pouvez remplacer le libellé d’un formulaire par n’importe quel libellé, vous pouvez même utiliser une image ou l’effacer complètement. Voici comment procéder.
 

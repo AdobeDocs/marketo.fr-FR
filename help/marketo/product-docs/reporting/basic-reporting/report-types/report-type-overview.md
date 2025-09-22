@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359965
 description: Présentation du type de rapport - Documents Marketo - Documentation du produit
-title: Aperçu du type de rapport
+title: Vue d’ensemble du type de rapport
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
-# Aperçu du type de rapport {#report-type-overview}
+# Vue d’ensemble du type de rapport {#report-type-overview}
 
 Lorsque vous [créez un rapport dans un programme](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), choisissez le type de rapport souhaité.
 
@@ -26,7 +26,7 @@ Lorsque vous [créez un rapport dans un programme](/help/marketo/product-docs/re
  </thead>
  <tbody>
   <tr>
-   <td><strong><a href="people-performance-report.md">Rapport sur les performances des personnes</a></strong></td>
+   <td><strong><a href="people-performance-report.md">Rapport de performances des personnes</a></strong></td>
    <td>Regroupez les personnes par attribut et incluez les informations d’opportunité. Analyser en profondeur et explorer.</td>
   </tr>
   <tr>
@@ -42,12 +42,12 @@ Lorsque vous [créez un rapport dans un programme](/help/marketo/product-docs/re
    <td>Examinez les interactions avec vos e-mails envoyés par l’intermédiaire de Marketo Sales Insight dans Salesforce, Microsoft Dynamics et le plug-in Outlook et Gmail.</td>
   </tr>
   <tr>
-   <td><strong><a href="people-by-status-report.md">Rapport Personnes par statut</a></strong></td>
+   <td><strong><a href="people-by-status-report.md">Rapport des personnes par statut</a></strong></td>
    <td>Création de rapports automatique basée sur le champ Statut de la personne .</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport d’étape Personnes par chiffre d’affaires</a></strong></td>
-   <td>Création de rapports de base pour votre modèle de chiffre d’affaires. Voir <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> pour obtenir des rapports plus détaillés.</td>
+   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport des personnes par étape de revenu</a></strong></td>
+   <td>Création de rapports de base pour votre modèle de chiffre d’affaires. Voir <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> pour obtenir des rapports plus détaillés.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Performance de la page de destination</a>  </strong></td>
@@ -55,7 +55,7 @@ Lorsque vous [créez un rapport dans un programme](/help/marketo/product-docs/re
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Performance du programme</a>  </strong></td>
-   <td>Mesures de programme de base telles que les membres et le succès. Voir <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> pour obtenir des rapports plus détaillés.</td>
+   <td>Mesures de programme de base telles que les membres et le succès. Voir <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> pour obtenir des rapports plus détaillés.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Activité Web de la société</a></strong></td>
@@ -67,11 +67,11 @@ Lorsque vous [créez un rapport dans un programme](/help/marketo/product-docs/re
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapport sur les performances du flux d’engagement</a> </strong></td>
-   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
+   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Performance campagne e-mail</a> </strong></td>
-   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
+   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
   </tr>
  </tbody>
 </table>

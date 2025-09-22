@@ -1,16 +1,16 @@
 ---
 description: Synchronisation des messages clés d’appel et d’appel - Documents Marketo - Documentation du produit
-title: Synchronisation des messages d’appel et de clé d’appel
+title: Synchronisation des appels et des messages clés d’appel
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '477'
-ht-degree: 10%
+ht-degree: 13%
 
 ---
 
-# Synchronisation des messages d’appel et de clé d’appel {#syncing-call-and-call-key-messages}
+# Synchronisation des appels et des messages clés d’appel {#syncing-call-and-call-key-messages}
 
 Les objets Appel et Message Clé d’appel dans [!DNL Veeva] CRM sont synchronisés par défaut dans Marketo Engage. Marketo synchronise les données qui ont jusqu’à 6 mois, en fonction de la date de création de l’appel.
 

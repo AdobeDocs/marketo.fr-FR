@@ -1,49 +1,49 @@
 ---
-description: Définition des objectifs d’événement - Documents Marketo - Documentation du produit
-title: Définition des objectifs d’événement
+description: Définition Des Objectifs D’Événement - Documents Marketo - Documentation Du Produit
+title: Définition d’objectifs d’événement
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Définition des objectifs d’événement {#setting-event-goals}
+# Définition d’objectifs d’événement {#setting-event-goals}
 
-Indiquez des objectifs spécifiques à vos événements et vérifiez leurs performances.
+Fixez des objectifs précis pour vos événements et observez leurs performances.
 
 >[!IMPORTANT]
 >
->Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>Tout le monde n’a pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 1. Créez un programme d’événement.
 
    ![](assets/setting-event-goals-1.png)
 
-1. Choisissez le [!UICONTROL dossier Campaign], attribuez à votre événement un [!UICONTROL nom], sélectionnez le [!UICONTROL type de programme] et le [!UICONTROL canal]. Cliquez sur **[!UICONTROL Créer]** une fois terminé.
+1. Sélectionnez le [!UICONTROL dossier de campagne], attribuez un [!UICONTROL nom] à votre événement, puis sélectionnez les [!UICONTROL type de programme] et [!UICONTROL canal]. Cliquez sur **[!UICONTROL Créer]** lorsque vous avez terminé.
 
    ![](assets/setting-event-goals-2.png)
 
-1. Dans votre événement, cliquez sur l’onglet **[!UICONTROL Rapports]** .
+1. Dans votre événement, cliquez sur l’onglet **[!UICONTROL Rapports]**.
 
    ![](assets/setting-event-goals-3.png)
 
-1. Saisissez l’objectif pour [!UICONTROL Registered] en cliquant sur **[!UICONTROL Définir un objectif]**. Saisissez le nombre dans et appuyez sur Entrée.
+1. Saisissez l’objectif pour [!UICONTROL Enregistré] en cliquant sur **[!UICONTROL Définir un objectif]**. Saisissez le nombre dans et appuyez sur Entrée.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. Répétez les mêmes étapes pour [!UICONTROL Participé].
+1. Répétez les mêmes étapes pour [!UICONTROL Participants].
 
    ![](assets/setting-event-goals-6.png)
 
 >[!NOTE]
 >
->Vous ne pouvez pas définir d’objectifs pour un événement une fois qu’il a commencé.
+>Vous ne pouvez pas définir d’objectifs pour un événement après son démarrage.
 
-Et c&#39;est tout ! Vérifiez l’état de votre objectif d’événement en cliquant sur l’onglet [!UICONTROL Rapports] .
+Et c&#39;est tout ! Vérifiez le statut de l’objectif de votre événement en cliquant sur l’onglet [!UICONTROL Rapports].

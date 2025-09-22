@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557339
 description: Rechercher et fusionner des personnes en double - Documents Marketo - Documentation du produit
-title: Rechercher et fusionner des personnes en double
+title: Rechercher et fusionner les personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Rechercher et fusionner des personnes en double {#find-and-merge-duplicate-people}
+# Rechercher et fusionner les personnes en double {#find-and-merge-duplicate-people}
 
 Marketo Engage déduplique automatiquement les nouvelles personnes qui entrent dans le système. Cependant, votre CRM a peut-être initialement envoyé des doublons. Voici comment les fusionner.
 

@@ -4,10 +4,10 @@ description: Regrouper les rapports de personne par attribut - Documents Marketo
 title: Regrouper les rapports de personne par attribut
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 

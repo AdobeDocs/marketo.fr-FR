@@ -1,16 +1,16 @@
 ---
 description: Connecter un nouvel administrateur à Marketo - Documents Marketo - Documentation du produit
-title: Connecter le nouvel administrateur à Marketo
+title: Connecter un nouvel administrateur ou une nouvelle administratrice à Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Connecter le nouvel administrateur à Marketo {#connect-new-admin-to-marketo}
+# Connecter un nouvel administrateur ou une nouvelle administratrice à Marketo {#connect-new-admin-to-marketo}
 
 Si l’autre administrateur est déjà connecté à Marketo, il lui suffit d’effectuer l’étape 1.
 

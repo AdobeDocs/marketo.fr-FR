@@ -4,10 +4,10 @@ description: Modification d’éléments dans un e-mail - Documents Marketo - Do
 title: Modifier des éléments dans un e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '499'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -67,7 +67,7 @@ Les e-mails peuvent contenir quatre éléments différents : texte enrichi, imag
    >
    >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image semble endommagée dans l’éditeur, mais s’affiche en mode Aperçu et dans l’exemple d’e-mail d’envoi.
 
-   Pour utiliser une URL externe, collez d’abord l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du [!UICONTROL &#x200B; Texte de remplacement &#x200B;] (facultatif). Appuyez ensuite sur **[!UICONTROL Swap]**.
+   Pour utiliser une URL externe, collez d’abord l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du [!UICONTROL  Texte de remplacement ] (facultatif). Appuyez ensuite sur **[!UICONTROL Swap]**.
 
    ![](assets/eight.png)
 

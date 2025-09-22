@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147062
 description: Affichage des personnes bloquées dans une campagne dynamique - Documents Marketo - Documentation du produit
-title: Affichage des personnes bloquées dans une campagne dynamique
+title: Afficher les personnes bloquées dans une campagne intelligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Affichage des personnes bloquées dans une campagne dynamique {#view-blocked-people-in-a-smart-campaign}
+# Afficher les personnes bloquées dans une campagne intelligente {#view-blocked-people-in-a-smart-campaign}
 
 Les personnes bloquées dans la base de données Marketo Engage placer sur la liste bloquée sont marquées comme étant bloquées, désabonnées, dont le marketing est suspendu et/ou ont un e-mail non valide ou vide.
 

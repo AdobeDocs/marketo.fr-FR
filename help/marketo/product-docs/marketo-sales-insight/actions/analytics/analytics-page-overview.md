@@ -1,16 +1,16 @@
 ---
 description: Présentation De La Page Analytics - Documents Marketo - Documentation Du Produit
-title: Aperçu de la page Analytics
+title: Vue d’ensemble de la page des analyses
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '384'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Aperçu de la page Analytics {#analytics-page-overview}
+# Vue d’ensemble de la page des analyses {#analytics-page-overview}
 
 L’onglet Analytics affiche des données concernant l’engagement de vos e-mails. Les données individuelles et d’équipe s’affichent. Les administrateurs peuvent également filtrer par utilisateur dans l’onglet [!UICONTROL Moi].
 

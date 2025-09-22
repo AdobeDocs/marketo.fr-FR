@@ -3,7 +3,7 @@ description: Étape 4 sur 4 - Connexion de la solution Marketo à la connexion d
 title: Étape 4 sur 4 - Connexion de la solution Marketo à la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 3%
@@ -68,7 +68,7 @@ Il s’agit de la dernière étape de la synchronisation. Vous y êtes presque !
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Sélectionnez les champs que vous souhaitez synchroniser avec Marketo afin qu’ils soient présélectionnés. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez les champs que vous souhaitez synchroniser avec Marketo afin qu’ils soient présélectionnés. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -88,7 +88,7 @@ Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélect
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 

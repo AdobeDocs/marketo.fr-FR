@@ -4,10 +4,10 @@ description: Envoyer un exemple d’e-mail - Documents Marketo - Documentation d
 title: Envoyer un exemple d’e-mail
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -56,7 +56,7 @@ Il est rapide et facile d’envoyer des échantillons d’un e-mail. Pour envoye
 
    >[!NOTE]
    >
-   >Le champ déclencheur ne s’applique qu’à ceux qui utilisent le [script d’e-mail](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting).
+   >Le champ déclencheur ne s’applique qu’à ceux qui utilisent le [script d’e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Envoyer un exemple d’e-mail en fonction d’un segment {#send-a-sample-email-based-on-a-segment}
 

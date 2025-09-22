@@ -4,7 +4,7 @@ description: Étape 3 sur 3 - Connexion  [!DNL Microsoft Dynamics]  Marketo (201
 title: Étape 3 sur 3 - Connexion  [!DNL Microsoft Dynamics]  Marketo (2011 On-Premise)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 2%
@@ -83,7 +83,7 @@ Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélect
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 

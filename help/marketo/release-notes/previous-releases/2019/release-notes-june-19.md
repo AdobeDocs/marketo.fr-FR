@@ -4,14 +4,14 @@ description: Notes De Mise À Jour -19 Juin - Documents Marketo - Documentation 
 title: Notes de mise à jour - 19 juin
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notes De Mise À Jour : 19 Juin {#release-notes-june}
+# Notes de mise à jour : juin 2019 {#release-notes-june}
 
 Les fonctionnalités suivantes sont incluses dans la version du 19 juin. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
@@ -68,4 +68,4 @@ Les fonctionnalités suivantes devraient sortir au cours du deuxième trimestre 
 * **Intégration de Drift** : découvrez comment les conversations Drift affectent le parcours de votre client. [!DNL Bizible] extraira également les adresses e-mail des conversations pour créer un nouveau prospect ou connecter le point de contact à un prospect existant.
 * **Localisation** : [!DNL Bizible] est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
-_&#x200B;**Webinaire de mise à jour des produits**&#x200B;_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webinaire de mise à jour des produits**_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

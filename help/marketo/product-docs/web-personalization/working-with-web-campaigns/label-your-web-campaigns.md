@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949154
 description: Étiqueter Vos Campagnes Web - Documents Marketo - Documentation Du Produit
-title: Étiqueter Vos Campagnes Web
+title: Étiqueter vos campagnes web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Étiqueter Vos Campagnes Web {#label-your-web-campaigns}
+# Étiqueter vos campagnes web {#label-your-web-campaigns}
 
 Avez-vous tellement de campagnes que le défilement devient encombrant ? Utilisez des libellés pour baliser vos campagnes afin de les trier et de les trouver rapidement.
 

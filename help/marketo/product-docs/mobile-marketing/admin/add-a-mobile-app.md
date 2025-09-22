@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512252
 description: Ajout d’une application mobile - Documents Marketo - Documentation du produit
-title: Ajout d’une application mobile
+title: Ajouter une application mobile
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Ajout d’une application mobile {#add-a-mobile-app}
+# Ajouter une application mobile {#add-a-mobile-app}
 
 Envoyez des notifications push à votre base de clients en connectant votre application mobile à Marketo.
 
@@ -34,7 +34,7 @@ Les applications démarrent normalement dans un environnement sandbox, où le d�
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Saisissez un nom. Dans la liste déroulante **[!UICONTROL Type]**, sélectionnez le type d’environnement utilisé : [!UICONTROL Sandbox] ou [!UICONTROL Production]. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un nom. Dans la liste déroulante **[!UICONTROL Type]**, sélectionnez le type d’environnement utilisé : [!UICONTROL Sandbox] ou [!UICONTROL Production]. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

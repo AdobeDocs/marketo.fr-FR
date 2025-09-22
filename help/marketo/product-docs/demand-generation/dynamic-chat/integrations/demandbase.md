@@ -3,16 +3,16 @@ description: Demandbase - Documents Marketo - Documentation Du Produit
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
 # Demandbase {#demandbase}
 
-Les utilisateurs Demandbase peuvent utiliser les attributs de personne Demandbase pour le ciblage de boîte de dialogue, le branding conditionnel et le routage personnalisé dans Dynamic Chat.
+Les utilisateurs et les utilisatrices Demandbase peuvent utiliser les attributs de personne Demandbase pour le ciblage du dialogue, le branding conditionnel et la transmission personnalisée dans Dynamic Chat.
 
 ## Accès à la clé API pour Dynamic Chat {#access-the-api-key-for-dynamic-chat}
 

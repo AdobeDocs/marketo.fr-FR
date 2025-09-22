@@ -4,7 +4,7 @@ description: Envoi et suivi d’un e-mail avec le complément d’e-mail pour  [
 title: Envoyer et suivre un e-mail avec le complément d'e-mail pour  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Vous pouvez envoyer et suivre les e-mails avec Marketo directement depuis [!DNL 
    >
    >La technologie antispam rejette souvent les ouvertures et les clics qui se produisent dans les 20 secondes suivant l&#39;envoi de l&#39;e-mail. Attendez donc au moins cette durée pour ouvrir/cliquer lors du test.
 
-   Pour savoir qui a reçu vos e-mails envoyés par l’intermédiaire de [!DNL Outlook], créez une liste dynamique à l’aide du filtre « E-mail de vente [!UICONTROL &#x200B; a été envoyé &#x200B;] ».
+   Pour savoir qui a reçu vos e-mails envoyés par l’intermédiaire de [!DNL Outlook], créez une liste dynamique à l’aide du filtre « E-mail de vente [!UICONTROL  a été envoyé ] ».
 
    ![](assets/was-sent-sales-email.png)
 

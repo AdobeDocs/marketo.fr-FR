@@ -4,16 +4,16 @@ description: Ajouter/Modifier/Supprimer Des Champs D’Activité Personnalisés 
 title: Ajouter/Modifier/Supprimer des champs d’activité personnalisés Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Ajouter/Modifier/Supprimer des champs d’activité personnalisés Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
-Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activité personnalisé. Voici comment procéder.
+Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activité personnalisé. Voici comment faire.
 
 ## Ajouter un champ d’activité personnalisé {#add-a-custom-activity-field}
 

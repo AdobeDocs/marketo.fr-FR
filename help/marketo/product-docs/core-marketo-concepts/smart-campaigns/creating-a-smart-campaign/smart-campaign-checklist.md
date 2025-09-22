@@ -1,66 +1,66 @@
 ---
 unique-page-id: 1147051
-description: Liste de contrôle Smart Campaign - Documents Marketo - Documentation du produit
-title: Liste de contrôle de la campagne dynamique
+description: Liste De Contrôle De Campagne Intelligente - Documents Marketo - Documentation Du Produit
+title: Liste de contrôle de la campagne intelligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Liste de contrôle de la campagne dynamique {#smart-campaign-checklist}
+# Liste de contrôle de la campagne intelligente {#smart-campaign-checklist}
 
-Suivez les étapes ci-dessous pour garantir le bon fonctionnement de la campagne dynamique et empêcher les erreurs autant que possible.
+Suivez les étapes ci-dessous pour garantir le bon fonctionnement de la campagne dynamique et éviter les erreurs autant que possible.
 
-## Rid des erreurs de liste dynamique {#get-rid-of-smart-list-errors}
+## Se débarrasser des erreurs de liste dynamique {#get-rid-of-smart-list-errors}
 
-Dans votre campagne dynamique, cliquez sur **[!UICONTROL Liste dynamique]**. Débarrassez-vous des lignes rouges écrasantes que vous voyez en corrigeant les erreurs.
+Dans votre campagne dynamique, cliquez sur **[!UICONTROL Liste dynamique]**. Débarrassez-vous des lignes ondulées rouges que vous voyez en corrigeant les erreurs.
 
 ![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
->Des lignes rouges ondulent les erreurs ou les informations manquantes. Si elle n’est pas corrigée, la campagne est invalide et ne s’exécute pas.
+>Des lignes pointilleuses rouges indiquent des erreurs ou des informations manquantes. Si elle n’est pas corrigée, la campagne ne sera pas valide et ne s’exécutera pas.
 >
->Aussi, simplifiez les choses. Si vous avez des dizaines ou des centaines de filtres, il est difficile de les conserver et de les suivre. Le chargement des filtres est également plus rapide.
+>Aussi, gardez les choses simples. Si vous avez des dizaines ou des centaines de filtres, il est difficile de les gérer et d’en effectuer le suivi. Moins de filtres sont également plus rapides à charger.
 
 >[!NOTE]
 >
->L’utilisation de **[!UICONTROL Member of Smart List]** peut entraîner des erreurs dans cette autre liste. Vérifiez là aussi.
+>L’utilisation de **[!UICONTROL Membre de la liste dynamique]** peut comporter des erreurs dans cette autre liste. Vérifie là aussi.
 
-## Récupération des erreurs de flux {#get-rid-of-flow-errors}
+## Se débarrasser des erreurs de flux {#get-rid-of-flow-errors}
 
-Dans votre campagne dynamique, cliquez sur **[!UICONTROL Flux]**. Débarrassez-vous des lignes rouges ondulantes que vous voyez en corrigeant les erreurs.
+Dans votre campagne dynamique, cliquez sur **[!UICONTROL Flux]**. Débarrassez-vous des lignes ondulées rouges que vous voyez en corrigeant les erreurs.
 
 ![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
->Passez la souris sur la ligne rouge écrasante pour afficher les détails de l’erreur.
+>Pointez sur la ligne pointillée rouge pour afficher les détails de l’erreur.
 
-## Onglet Planifier {#review-the-schedule-tab}
+## Consulter l’onglet Planning {#review-the-schedule-tab}
 
-Dans l’onglet **[!UICONTROL Planning]** , recherchez dans l’onglet **[!UICONTROL État de liste dynamique]** les erreurs dans la campagne dynamique qui doivent être corrigées.
+Dans l’onglet **[!UICONTROL Planifier]**, vérifiez **[!UICONTROL Statut de la liste dynamique]** pour identifier les erreurs de la campagne dynamique qui doivent être corrigées.
 
 ![](assets/smart-campaign-checklist-3.png)
 
-## Vérification de la limite des restrictions de personne {#check-person-restrictions-limit}
+## Vérifier La Limite Des Restrictions De Personne {#check-person-restrictions-limit}
 
-Dans l&#39;onglet **[!UICONTROL Planning]** , assurez-vous que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
+Dans l&#39;onglet **[!UICONTROL Planning]**, assurez-vous que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Si nécessaire, vous pouvez [remplacer les restrictions sur les personnes dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Si nécessaire, vous pouvez [remplacer les restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
->**Reminder**
+>**Rappel**
 >
->Si votre campagne dynamique échoue toujours, apprenez à [comprendre les notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) pour comprendre ce qui s’est mal passé et comment le corriger.
+>Si votre campagne intelligente échoue toujours, apprenez à [comprendre les notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) pour comprendre ce qui s’est passé et comment le corriger.
 
 Très bon travail ! Conservez cette liste de contrôle à portée de main avant d’exécuter une campagne dynamique.

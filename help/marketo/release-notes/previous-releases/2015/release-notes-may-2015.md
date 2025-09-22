@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Mai 2015 - Documents Marketo - Documentatio
 title: Notes de mise à jour - Mai 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
-# Notes De Mise À Jour : Mai 2015 {#release-notes-may}
+# Notes de mise à jour : mai 2015 {#release-notes-may}
 
 Les fonctionnalités suivantes sont incluses dans la version de mai 2015. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité.
 
@@ -23,9 +23,9 @@ Nous publions un nouveau mode de modification de la page de destination et une n
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
-## Abandon du programme d’e-mail
+## Abandonner le programme d’e-mail
 
-[Abandon du programme d’e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Abandonner le programme d’e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Avez-vous cliqué sur Envoyer avant qu&#39;un programme de messagerie ne soit prêt à être lancé ? Appuyez sur les freins avec le nouveau bouton d’abandon du programme de messagerie. Les programmes de messagerie en cours d’exécution ne pourront plus fonctionner correctement.
 

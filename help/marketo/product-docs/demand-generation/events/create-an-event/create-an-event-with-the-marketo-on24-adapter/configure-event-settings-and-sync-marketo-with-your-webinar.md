@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096673
 description: Configuration des paramètres d’événement et synchronisation de Marketo avec votre webinaire - Documents Marketo - Documentation du produit
-title: Configuration des paramètres d’événement et synchronisation de Marketo avec votre webinaire
+title: Configurer des paramètres d’événement et synchroniser Marketo avec votre webinaire
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Configuration des paramètres d’événement et synchronisation de Marketo avec votre webinaire {#configure-event-settings-and-sync-marketo-with-your-webinar}
+# Configurer des paramètres d’événement et synchroniser Marketo avec votre webinaire {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
 Pour configurer les paramètres d’événement Marketo et connecter Marketo et ON24, procédez comme suit.
 
@@ -29,7 +29,7 @@ Pour configurer les paramètres d’événement Marketo et connecter Marketo et 
 
    ![](assets/three.png)
 
-1. Saisissez l’[!UICONTROL ID d’événement] (récupérez-le à partir de ON24). Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez l’[!UICONTROL ID d’événement] (récupérez-le à partir de ON24). Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/four.png)
 
@@ -45,7 +45,7 @@ Lorsque vous configurez un événement associé à un webinaire ON24, le plannin
 
    ![](assets/five.png)
 
-1. Choisissez vos **[!UICONTROL Date de début]**, **[!UICONTROL Date de fin]** et **[!UICONTROL Fuseau horaire]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Choisissez vos **[!UICONTROL Date de début]**, **[!UICONTROL Date de fin]** et **[!UICONTROL Fuseau horaire]**. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/six-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359478
 description: Rapport sur les performances des liens d’e-mail - Documents Marketo - Documentation du produit
-title: Rapport sur les performances des liens d’e-mail
+title: Rapport sur les performances des liens dans les e-mails
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Rapport sur les performances des liens d’e-mail {#email-link-performance-report}
+# Rapport sur les performances des liens dans les e-mails {#email-link-performance-report}
 
 Créez un rapport Performances des liens d’e-mail pour évaluer les performances des liens dans vos e-mails.
 
@@ -27,7 +27,7 @@ Créez un rapport Performances des liens d’e-mail pour évaluer les performanc
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Définissez une période appropriée pour votre rapport. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Définissez une période appropriée pour votre rapport. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 

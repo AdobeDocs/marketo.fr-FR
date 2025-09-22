@@ -4,10 +4,10 @@ description: Personnalisation des étoiles et des flammes - Documentation de Mar
 title: Personnaliser les étoiles et les flammes
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

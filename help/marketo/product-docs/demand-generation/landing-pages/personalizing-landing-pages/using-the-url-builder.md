@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359801
 description: Utilisation du générateur d’URL - Documents Marketo - Documentation du produit
-title: Utilisation du créateur d’URL
+title: Utiliser le Générateur d’URL
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Utilisation du créateur d’URL {#using-the-url-builder}
+# Utiliser le Générateur d’URL {#using-the-url-builder}
 
 Le créateur d’URL vous aide à créer des URL qui peuvent remplir des champs de formulaire masqués Marketo.
 

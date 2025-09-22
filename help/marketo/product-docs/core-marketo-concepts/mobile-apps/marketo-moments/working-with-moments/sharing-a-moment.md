@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783559
 description: Partage d’un moment - Documentation de Marketo - Documentation du produit
-title: Partage d’un moment
+title: Partage d’un Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Partage d’un moment {#sharing-a-moment}
+# Partage d’un Moment {#sharing-a-moment}
 
 Vous souhaitez faire le point sur votre équipe ? Vous avez le choix entre deux options de partage.
 

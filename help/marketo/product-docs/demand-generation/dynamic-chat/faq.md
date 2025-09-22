@@ -3,7 +3,7 @@ description: FAQ sur Dynamic Chat - Documents Marketo - Documentation du produit
 title: FAQ sur Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Le fragment de code Dynamic Chat JavaScript peut être installé sur n’importe
 
 **Pendant combien de temps les données sont-elles stockées pour la création de rapports ?**
 
-90 jours. Pour obtenir la liste complète des limites/paramètres, consultez la page Marketo Engage [Description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 jours. Pour obtenir la liste complète des limites/paramètres, consultez la page Marketo Engage [Description du produit](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
 

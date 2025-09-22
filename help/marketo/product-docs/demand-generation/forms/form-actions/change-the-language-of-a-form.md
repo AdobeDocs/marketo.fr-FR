@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359654
 description: Modification de la langue d’un formulaire - Documents Marketo - Documentation du produit
-title: Modification de la langue d’un formulaire
+title: Modifier la langue d’un formulaire
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Modification de la langue d’un formulaire {#change-the-language-of-a-form}
+# Modifier la langue d’un formulaire {#change-the-language-of-a-form}
 
 Découvrez comment modifier la langue de votre formulaire.
 

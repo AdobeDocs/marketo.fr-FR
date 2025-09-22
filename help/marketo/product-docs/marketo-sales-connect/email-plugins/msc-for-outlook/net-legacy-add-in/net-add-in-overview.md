@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14352457
 description: Présentation du complément .NET - Documents Marketo - Documentation du produit
-title: Présentation du complément .NET
+title: Vue d’ensemble du module complémentaire .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Présentation du complément .NET {#net-add-in-overview}
+# Vue d’ensemble du module complémentaire .NET {#net-add-in-overview}
 
 >[!NOTE]
 >
 >Il s’agit de notre ancien complément. Si vous l’avez déjà installé, il continuera à fonctionner jusqu’en 2020. Si vous êtes un nouvel utilisateur, installez notre nouveau complément [Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Ajout d’un élément de contenu {#attaching-a-piece-of-content}
+## Jointure d’un élément de contenu {#attaching-a-piece-of-content}
 
 Ajoutez du contenu pouvant faire l’objet d’un suivi en cliquant sur le bouton **[!UICONTROL Contenu]** et en chargeant un fichier.
 
@@ -35,6 +35,6 @@ Ajoutez un modèle Tout préconfiguré au message [!DNL Outlook] en appuyant sur
 
 Nous synchronisons avec tous vos modèles personnels et tous les modèles partagés au sein de l&#39;équipe. Nous extrayons également automatiquement le dernier modèle utilisé et le modèle le plus fréquemment utilisé pour un accès facile.
 
-## Le Bouton [!UICONTROL &#x200B; Tout &#x200B;] {#the-tout-it-button}
+## Le Bouton [!UICONTROL  Tout ] {#the-tout-it-button}
 
 Une fois que votre e-mail personnalisé est rempli et prêt à être utilisé, veillez à toujours cliquer sur le bouton **[!UICONTROL Tout voir]** pour obtenir un tracking. Une boîte s’affichera avec la mention « Attendez, nous ajoutons la magie du suivi ».

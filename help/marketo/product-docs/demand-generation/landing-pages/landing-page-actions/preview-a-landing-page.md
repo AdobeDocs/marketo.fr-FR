@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359716
 description: Aperçu d’une page de destination - Documents Marketo - Documentation du produit
-title: Aperçu d’une page de destination
+title: Prévisualiser une page de destination
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Aperçu d’une page de destination {#preview-a-landing-page}
+# Prévisualiser une page de destination {#preview-a-landing-page}
 
 Vous souhaitez probablement voir à quoi ressemble votre page de destination avant de la rendre active.
 
-## Aperçu d’une page de destination {#preview-a-landing-page-1}
+## Prévisualiser une page de destination {#preview-a-landing-page-1}
 
 1. Sélectionnez une page de destination et cliquez sur **[!UICONTROL Aperçu de la page]**.
 

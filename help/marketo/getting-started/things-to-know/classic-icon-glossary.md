@@ -3,10 +3,10 @@ description: Glossaire Des Icônes Classiques - Documents Marketo - Documentatio
 title: Glossaire des icônes classiques
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
@@ -210,7 +210,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-9-3a39-3a28.png">
     </td>
-   <td>Revenue Cycle Analytics</td>
+   <td>Analyse du cycle de revenu</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-19-3a20-3a47.png">
@@ -507,7 +507,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png">
     </td>
-   <td>Page de destination. Actions</td>
+   <td>Page de destination. Actions de page de destination</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a55-3a52.png">
@@ -688,7 +688,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-15-3a46-3a10.png">
     </td>
-   <td>Présentation des moments significatifs</td>
+   <td>Vue d’ensemble des moments intéressants</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-13-3a35-3a23.png">

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147093
 description: Présentation d’Assets local dans un programme - Documents Marketo - Documentation du produit
-title: Présentation d’Assets local dans un programme
+title: Présentation des ressources locales dans un programme
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
-# Présentation d’Assets local dans un programme {#understanding-local-assets-in-a-program}
+# Présentation des ressources locales dans un programme {#understanding-local-assets-in-a-program}
 
 Les ressources locales sont le contenu qui compose votre programme. Les Assets sont personnalisables et vous permettent de créer des initiatives marketing automatisées. Voici un aperçu de la plupart des ressources locales que vous pouvez créer dans un programme :
 

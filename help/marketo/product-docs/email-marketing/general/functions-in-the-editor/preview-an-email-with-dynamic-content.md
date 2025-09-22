@@ -4,10 +4,10 @@ description: Prévisualiser un e-mail avec du contenu dynamique - Documents Mark
 title: Prévisualiser un e-mail avec du contenu dynamique
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

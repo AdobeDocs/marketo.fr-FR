@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504047
 description: Création d’un rapport Revenue Explorer - Documents Marketo - Documentation du produit
-title: Création d’un rapport de l’explorateur de revenus
+title: Créer un rapport de l’explorateur de revenu
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Décembre 2014 - Documents Marketo - Docume
 title: Notes De Mise À Jour - Décembre 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Notes De Mise À Jour : Décembre 2014 {#release-notes-december}
+# Notes de mise à jour : décembre 2014 {#release-notes-december}
 
 Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité.
 
@@ -65,7 +65,7 @@ Trois nouveaux appels pour l’API REST de lead et d’activité :
 
 · Fusionner le prospect
 
-Des détails complets seront disponibles après la publication sur [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
+Des détails complets seront disponibles après la publication sur [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
 ## Améliorations de la compatibilité [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718687
 description: Approuver/annuler l’approbation d’un modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
-title: Approuver/annuler l’approbation d’un modèle de produit
+title: Approuver/annuler l’approbation d’un modèle de revenu
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Approuver/annuler l’approbation d’un modèle de produit {#approve-unapprove-a-revenue-model}
+# Approuver/annuler l’approbation d’un modèle de revenu {#approve-unapprove-a-revenue-model}
 
 Vous ne pouvez avoir qu&#39;un seul modèle approuvé à la fois.
 

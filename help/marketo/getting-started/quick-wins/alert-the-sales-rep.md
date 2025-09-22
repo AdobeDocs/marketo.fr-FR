@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359424
 description: Alerter le représentant commercial - Documents Marketo - Documentation du produit
-title: Prévenir un représentant commercial
+title: Prévenir un représentant commercial ou une représentante commerciale
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Prévenir un représentant commercial {#alert-the-sales-rep}
+# Prévenir un représentant commercial ou une représentante commerciale {#alert-the-sales-rep}
 
 ## Mission : Alerter le représentant commercial lorsqu&#39;une personne remplit un formulaire sur votre site Web {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -19,7 +19,7 @@ Pour envoyer automatiquement des e-mails d’alerte aux représentants commercia
 
 >[!PREREQUISITES]
 >
->[ Page de destination avec un formulaire ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>[Page de destination avec un formulaire](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Étape 1 : créer un e-mail d’alerte {#step-create-an-alert-email}
 
@@ -63,11 +63,11 @@ Pour envoyer automatiquement des e-mails d’alerte aux représentants commercia
    >
    >{{SP_Send_Alert_Info}} est un jeton spécial pour les e-mails d’alerte. Pour en savoir plus, voir [ Utilisation du jeton d’envoi d’informations d’alerte ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Cliquez sur la liste déroulante **[!UICONTROL Actions liées à l’e-mail]** et sélectionnez **[!UICONTROL Approuver et fermer]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions d’e-mail]** et sélectionnez **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
@@ -109,7 +109,7 @@ Pour envoyer automatiquement des e-mails d’alerte aux représentants commercia
    >
    >Définissez la variable **[!UICONTROL Règles de qualification]** sur **[!UICONTROL à chaque fois]** (en modifiant la campagne intelligente) pour permettre à la même personne de déclencher des alertes plusieurs fois.
 
-1. Cliquez sur **[!UICONTROL Activer]** dans l’écran de confirmation.
+1. Cliquez sur **[!UICONTROL Activer]** sur l’écran de confirmation.
 
    ![](assets/alert-the-sales-rep-20.png)
 
@@ -133,7 +133,7 @@ Pour envoyer automatiquement des e-mails d’alerte aux représentants commercia
    >
    >Cliquez sur l’onglet **[!UICONTROL Informations sur la personne]** dans Marketo pour afficher les informations de contact.
 
-## Mission terminée ! {#mission-complete}
+## Mission accomplie. {#mission-complete}
 
 <br> 
 

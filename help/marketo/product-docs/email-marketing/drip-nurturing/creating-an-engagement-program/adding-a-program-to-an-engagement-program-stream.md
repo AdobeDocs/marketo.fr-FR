@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098134
 description: Ajout d’un programme à un flux de programmes d’engagement - Documents Marketo - Documentation du produit
-title: Ajout d’un programme à un flux de programmes d’engagement
+title: Ajouter un programme à un flux de programme d’engagement
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Ajout d’un programme à un flux de programmes d’engagement {#adding-a-program-to-an-engagement-program-stream}
+# Ajouter un programme à un flux de programme d’engagement {#adding-a-program-to-an-engagement-program-stream}
 
 ## Pourquoi utiliser un programme imbriqué dans un flux de programme d’engagement ? {#why-use-a-nested-program-in-an-engagement-program-stream}
 

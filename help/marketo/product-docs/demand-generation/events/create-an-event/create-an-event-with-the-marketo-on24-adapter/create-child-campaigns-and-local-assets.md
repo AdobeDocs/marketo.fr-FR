@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
 description: Créer des campagnes enfants et des Assets locales - Documents Marketo - Documentation du produit
-title: Création de campagnes enfants et d’Assets locales
+title: Créer des campagnes enfant et des ressources locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '665'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Création de campagnes enfants et d’Assets locales {#create-child-campaigns-and-local-assets}
+# Créer des campagnes enfant et des ressources locales {#create-child-campaigns-and-local-assets}
 
 Créez vos campagnes enfants et vos ressources locales à l’aide de Design Studio.
 

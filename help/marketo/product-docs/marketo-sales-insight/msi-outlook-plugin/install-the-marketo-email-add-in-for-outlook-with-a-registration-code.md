@@ -4,7 +4,7 @@ description: Installez le complément de messagerie Marketo pour [!DNL Outlook] 
 title: Installer le complément de messagerie électronique Marketo pour [!DNL Outlook] avec un code d’enregistrement
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 6%

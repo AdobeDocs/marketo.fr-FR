@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352594
 description: Utilisation d’HTML - Documentation de Marketo - Documentation du produit
-title: Utilisation d’HTML
+title: Utilisation du HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Utilisation d’HTML {#using-html}
+# Utilisation du HTML {#using-html}
 
 1. Copiez le code source de vos e-mails dans l’outil que vous utilisez pour créer des e-mails dans HTML (par exemple, Éditeur d’e-mail Marketo).
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 1. Collez-y le code source.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 >[!NOTE]
 >

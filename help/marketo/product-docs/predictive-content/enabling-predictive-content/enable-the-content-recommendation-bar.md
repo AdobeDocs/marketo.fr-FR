@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720108
 description: Activation de la barre de recommandations de contenu - Documents Marketo - Documentation du produit
-title: Activation de la barre de recommandations de contenu
+title: Activer la barre de recommandation de contenu
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Activation de la barre de recommandations de contenu {#enable-the-content-recommendation-bar}
+# Activer la barre de recommandation de contenu {#enable-the-content-recommendation-bar}
 
 Le moteur de recommandation de contenu utilise des algorithmes d’analyse prédictive et de machine learning pour fournir du contenu pertinent à chaque visiteur web. Le moteur de recommandation prédit le contenu le plus performant par visiteur. Le contenu du moteur est surveillé et contrôlé dans la page Recommendations, ce qui vous aide à optimiser le retour sur investissement de votre contenu.
 
@@ -41,7 +41,7 @@ Le moteur de recommandation de contenu utilise des algorithmes d’analyse préd
 
    ![](assets/bar-enable.png)
 
-1. Pour personnaliser une URL, sélectionnez les couleurs, le style, le format, les flèches de la barre de recommandation et les pages à inclure ou à exclure de la barre. Personnalisez-le pour l’adapter à l’identité graphique de votre site web. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Pour personnaliser une URL, sélectionnez les couleurs, le style, le format, les flèches de la barre de recommandation et les pages à inclure ou à exclure de la barre. Personnalisez-le pour l’adapter à l’identité graphique de votre site web. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/bar-customize-details-hands.png)
 

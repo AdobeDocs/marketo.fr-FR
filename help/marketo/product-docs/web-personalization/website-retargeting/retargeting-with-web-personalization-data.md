@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720796
 description: Reciblage avec des données Web Personalization - Documents Marketo - Documentation du produit
-title: Reciblage avec des données Web Personalization
+title: Reciblage avec des données de personnalisation web
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -72,7 +72,7 @@ Web Personalization ajoute actuellement des données aux plateformes de remarket
 
    ![](assets/two.png)
 
-1. Activez la configuration pour Facebook. Cliquez sur l’accordéon [!DNL Facebook] et développez-le, puis cliquez sur **[!UICONTROL Activé]** pour envoyer l’événement et les données correspondants à Facebook Audience Manager. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Activez la configuration pour Facebook. Cliquez sur l’accordéon [!DNL Facebook] et développez-le, puis cliquez sur **[!UICONTROL Activé]** pour envoyer l’événement et les données correspondants à Facebook Audience Manager. Cliquez sur **[!UICONTROL Enregistrer]**
 
    >[!NOTE]
    >
@@ -96,6 +96,6 @@ Une audience segmentée vous permet de sélectionner un segment existant en tant
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    Vous avez maintenant terminé la configuration du reciblage en [!DNL Web Personalization], vous vous connectez à vos plateformes de reciblage et créez vos audiences en fonction de ces données, puis configurez vos campagnes publicitaires de reciblage.

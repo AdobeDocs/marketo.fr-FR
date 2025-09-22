@@ -4,7 +4,7 @@ description: Définition  [!DNL Google AdWords]  conversions dans le modèle de 
 title: Définition  [!DNL Google AdWords]  conversions dans le modèle de chiffre d’affaires avec un compte Manager
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Mappez une conversion [!DNL AdWords] sous Actions d’évaluation.
 
    ![](assets/image2015-3-27-17-3a18-3a58.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-3-27-17-3a21-3a15.png)
 
@@ -74,7 +74,7 @@ Conseil de pro ! Une nouvelle conversion hors ligne [!DNL AdWords] peut être cr
 
    ![](assets/image2015-3-27-17-3a23-3a13.png)
 
-1. Saisissez un **Nom de conversion**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un **Nom de conversion**. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 

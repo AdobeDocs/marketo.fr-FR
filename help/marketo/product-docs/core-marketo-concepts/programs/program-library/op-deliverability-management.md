@@ -1,16 +1,16 @@
 ---
 description: Gestion de la délivrabilité des opérations - Documents Marketo - Documentation du produit
-title: Gestion de la délivrabilité des PO
+title: OP-Gestion de la délivrabilité
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 19%
+ht-degree: 21%
 
 ---
 
-# Gestion de la délivrabilité des PO {#op-deliverability-management}
+# OP-Gestion de la délivrabilité {#op-deliverability-management}
 
 Il s’agit d’un exemple de workflow des bonnes pratiques de gestion de la délivrabilité utilisant un programme par défaut de Marketo Engage, pour examiner votre état actuel de délivrabilité des e-mails et gérer les bounces chroniques et les non-répondeurs.
 

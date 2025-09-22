@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949857
 description: Modification d’un canal d’événement - Documents Marketo - Documentation du produit
-title: Modification d’un canal d’événement
+title: Modifier un canal d’événement
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Modification d’un canal d’événement {#edit-an-event-channel}
+# Modifier un canal d’événement {#edit-an-event-channel}
 
 Vous pouvez modifier le type de canal à partir de l’onglet **Résumé** de l’événement ou de son onglet **Configuration**.
 
@@ -41,7 +41,7 @@ Vous pouvez modifier le type de canal à partir de l’onglet **Résumé** de l�
 
    ![](assets/tradeshowchange.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/2017-06-13-09-35-53.png)
 
@@ -61,7 +61,7 @@ Un nouveau type de canal peut également être attribué à partir de l’onglet
 
    ![](assets/tradeshowchange.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/2017-06-13-09-35-53.png)
 

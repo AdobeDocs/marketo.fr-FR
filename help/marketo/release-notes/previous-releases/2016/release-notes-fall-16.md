@@ -3,14 +3,14 @@ unique-page-id: 11384018
 description: Notes De Mise À Jour - Automne 16 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Automne 16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 1%
 
 ---
 
-# Notes De Mise À Jour : Automne 16 {#release-notes-fall}
+# Notes de mise à jour : automne 2016 {#release-notes-fall}
 
 Les fonctionnalités suivantes sont incluses dans la version de l’automne 16. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo. Cliquez sur les liens de titre pour afficher les articles détaillés de chaque fonctionnalité.
 

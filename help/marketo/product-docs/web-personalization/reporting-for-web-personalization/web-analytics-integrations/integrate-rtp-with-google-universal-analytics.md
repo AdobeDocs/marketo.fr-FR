@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720125
 description: Intégration du RTP à Google Universal Analytics - Documentation de Marketo - Documentation du produit
-title: Intégration du RTP à Google Universal Analytics
+title: Intégrer RTP à Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,6 @@ Cette publication explique comment configurer et intégrer la plateforme [!DNL M
    1. Sélectionnez le **[!UICONTROL Compte].**
    1. Sélectionnez la **[!UICONTROL Propriété].**
    1. Sélectionnez **[!UICONTROL Définitions personnalisées]** et **[!UICONTROL Dimensions personnalisées]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Ajoutez une nouvelle dimension personnalisée. Cliquez sur **[!UICONTROL +Nouveau Dimension personnalisé]**
@@ -106,7 +105,7 @@ Une fois que vous avez activé les dimensions personnalisées dans GUA, accédez
 1. Sous **[!UICONTROL Analytics]**, cliquez sur **[!UICONTROL Google Universal Analytics]**.
 1. Activez **[!UICONTROL Activez]** les dimensions et événements personnalisés appropriés pour ajouter ces données du RTP au [!DNL Google Universal Analytics].
 1. Saisissez le **[!UICONTROL Numéro d’index]** de la dimension alignée sur le numéro d’index dans GUA.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
@@ -119,7 +118,7 @@ Une fois que vous avez activé les dimensions personnalisées dans GUA, accédez
 ## Supprimer les anciens tableaux de bord dans Google Analytics {#remove-old-dashboards-in-google-analytics}
 
 1. Dans Google Analytics. Accédez à **[!UICONTROL Reporting].**
-1. Cliquez sur **[!UICONTROL Tableaux de bord &#x200B;].**.
+1. Cliquez sur **[!UICONTROL Tableaux de bord ].**.
 1. Sélectionnez un **[!UICONTROL Tableau de bord]** (RTP B2B ou Performances RTP)
 1. Cliquez sur **[!UICONTROL Supprimer le tableau de bord]**.
 

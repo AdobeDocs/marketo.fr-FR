@@ -4,14 +4,14 @@ description: Notes de mise à jour - Améliorations de l’ABM d’août 17 - Do
 title: Notes de mise à jour - Améliorations de l’ABM du 17 août
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Notes de mise à jour : améliorations de l’ABM du 17 août {#release-notes-august-abm-enhancements}
+# Notes de mise à jour : améliorations d’ABM d’août 2017 {#release-notes-august-abm-enhancements}
 
 Les fonctionnalités suivantes sont incluses dans la version d’août 17 de l’amélioration de l’ABM. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 

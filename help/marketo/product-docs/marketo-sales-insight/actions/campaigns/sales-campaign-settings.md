@@ -1,16 +1,16 @@
 ---
 description: Paramètres De Campagne Commerciale - Documents Marketo - Documentation Du Produit
-title: Paramètres de la campagne de vente
+title: Paramètres des campagnes de vente
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Paramètres de la campagne de vente {#sales-campaign-settings}
+# Paramètres des campagnes de vente {#sales-campaign-settings}
 
 La section Paramètres de la campagne de ventes vous permet de configurer une campagne de ventes spécifique afin qu’elle fonctionne au mieux des cas d’utilisation de votre équipe pour cette campagne de ventes.
 

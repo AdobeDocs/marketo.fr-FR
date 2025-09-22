@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360307
-description: Activation ou désactivation des fonctionnalités de coffre-fort - Documents Marketo - Documentation du produit
-title: Activation ou désactivation des fonctionnalités Treasure Chest
+description: Activation ou désactivation des fonctionnalités Treasure Chest - Documents Marketo - Documentation du produit
+title: Activer ou désactiver les fonctionnalités du Coffre au trésor
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Activation ou désactivation des fonctionnalités Treasure Chest {#enable-or-disable-treasure-chest-features}
+# Activer ou désactiver les fonctionnalités du Coffre au trésor {#enable-or-disable-treasure-chest-features}
 
-Le Treasure Chest contient des fonctionnalités expérimentales amusantes qui ne sont pas entièrement prises en charge.
+Le coffre au trésor contient des fonctionnalités expérimentales amusantes qui ne sont pas entièrement prises en charge.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Le Treasure Chest contient des fonctionnalités expérimentales amusantes qui ne
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. Cliquez sur **[!UICONTROL Treasure Chest]**.
+1. Cliquez sur **[!UICONTROL Coffre au trésor]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
@@ -31,10 +31,10 @@ Le Treasure Chest contient des fonctionnalités expérimentales amusantes qui ne
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Cochez la case **[!UICONTROL Activé]** pour activer ou décocher pour désactiver, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Activé]** pour activer ou désélectionnez-la pour la désactiver, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 
    >[!TIP]
    >
-   >Vous devrez peut-être vous déconnecter puis vous reconnecter à Marketo pour que les modifications prennent effet.
+   >Vous devrez peut-être vous déconnecter puis revenir dans Marketo pour que les modifications soient prises en compte.

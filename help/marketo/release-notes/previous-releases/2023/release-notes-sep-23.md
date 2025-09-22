@@ -3,24 +3,24 @@ description: Notes De Mise À Jour - Septembre 2023 - Documents Marketo - Docume
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 6%
+ht-degree: 16%
 
 ---
 
-# Notes De Mise À Jour : Septembre 2023 {#release-notes-sep-23}
+# Notes de mise à jour : septembre 2023 {#release-notes-sep-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de septembre 2023. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de septembre 2023. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **8 septembre 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 8 septembre 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Bibliothèque de référence Marketo </strong> : la bibliothèque de référence des programmes Marketo Engage permet aux utilisateurs d’importer des programmes « d’exemple » et d’autres ressources qui représentent les bonnes pratiques recommandées par Adobe. Notre équipe de gestion des produits a complètement mis à jour la bibliothèque, fournissant des outils plus précieux pour ceux qui veulent démarrer rapidement leur programme.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Aperçu de la bibliothèque d’importation de programme</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Vue d’ensemble de la bibliothèque d’importation de programme</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -42,7 +42,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Colonne Utilisé par le décompte pour Design Studio Assets</strong> : la colonne Utilisé par le décompte pour les vues de liste dans Design Studio met en surbrillance le nombre de ressources utilisées. Cela s’applique aux fragments de code, aux modèles d’e-mail, au Forms et aux modèles de page de destination.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
    <tr>
    <td> </td>
@@ -52,7 +52,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <tr>
    <td><strong>Utilisé par les améliorations d’onglet pour Design Studio Assets</strong> : l’onglet Utilisé par les améliorations fournit une vue plus détaillée du type et du nom d’une ressource, ainsi que de l’endroit où elle est utilisée. Cela s’applique aux détails des e-mails et aux détails des images et fichiers.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -91,13 +91,13 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
   <tr>
    <td><strong>Intégration de Marketo + Workfront </strong> : pour ceux qui disposent de Marketo et Workfront, vous pouvez désormais utiliser les modèles Workfront Fusion pour intégrer les deux produits et déverrouiller de nouveaux workflows d’automatisation afin de rationaliser l’exécution des campagnes.</td>
    <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=fr" target="_blank">Vérifier et approuver le plan directeur</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Vérifier et approuver le plan directeur</a></td>
   </tr>
  </tbody>
 </table>
 </br>
 
-### Dynamic Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 <table style="border: 0px">
  <tbody>
@@ -169,7 +169,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
    <tr>
    <td><strong>Chat en direct</strong> : les visiteurs du Web peuvent discuter avec des agents de vente en temps réel pour obtenir des réponses à leurs questions.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Aperçu du chat en direct</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Vue d’ensemble de la conversation en direct</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -209,7 +209,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
    <tr>
    <td><strong>Nouvelles activités Dynamic Chat</strong> : nouvelles activités pour prendre en charge les flux de conversation, la discussion en direct et d’autres nouvelles fonctionnalités.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Activités de discussion dynamiques</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Activités de Dynamic Chat</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -249,7 +249,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
     <tr>
    <td><strong>Page de ressource de flux de conversation</strong> : la page de ressource de Design Studio répertorie désormais les flux de conversation Dynamic Chat. Identifiez les flux pouvant être intégrés dans les ressources Marketo Engage et établissez un lien profond directement avec leur éditeur.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -258,8 +258,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
   </tr>
     <tr>
    <td><strong>Notifications des actions de Sales Insight </strong> : les agents disposant d’actions de Sales Insight recevront des notifications de demande de chat en temps réel dans le panneau Actions de Sales Insight.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
  </tbody>
 </table>

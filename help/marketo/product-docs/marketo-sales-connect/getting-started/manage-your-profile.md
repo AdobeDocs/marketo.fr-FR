@@ -1,16 +1,16 @@
 ---
 description: Gestion De Votre Profil - Documents Marketo - Documentation Du Produit
-title: Gestion De Votre Profil
+title: Gérer votre profil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
-# Gestion De Votre Profil {#manage-your-profile}
+# Gérer votre profil {#manage-your-profile}
 
 Sur votre page [!UICONTROL Mon profil], vous pouvez mettre à jour votre nom, la langue/le paramètre régional/le fuseau horaire de votre compte et également modifier votre mot de passe.
 

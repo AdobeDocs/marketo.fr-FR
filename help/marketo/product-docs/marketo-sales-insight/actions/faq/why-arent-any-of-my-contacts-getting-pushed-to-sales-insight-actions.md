@@ -1,12 +1,12 @@
 ---
-description: Pourquoi aucun de mes contacts n’est-il envoyé aux actions Sales Insight ? - Documents Marketo - Documentation Du Produit
-title: Pourquoi aucun de mes contacts n’est-il envoyé aux actions Sales Insight ?
+description: Pourquoi aucun de mes contacts n’est-il envoyé aux actions Sales Insight ? - Documents Marketo - Documentation sur le produit
+title: Pourquoi aucun de mes contacts n’est envoyé vers Actions des informations sur les ventes ?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 

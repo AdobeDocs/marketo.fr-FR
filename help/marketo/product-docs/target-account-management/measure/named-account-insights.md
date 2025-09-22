@@ -4,10 +4,10 @@ description: Informations Sur Les Comptes Nommés - Documents Marketo - Document
 title: Informations sur le compte nommé
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -36,7 +36,7 @@ Le tableau de bord agrège les informations clés au niveau d’un compte de tou
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">Évaluation du compte</span></strong></td>
+   <td><strong><span class="uicontrol">Score du compte</span></strong></td>
    <td><p>Consultez l’engagement semaine par semaine en fonction de tous les scores de compte que vous avez créés dans <span class="uicontrol">Admin</span>. Vous pouvez comparer les scores de ces comptes côte à côte. Pour déterminer l’engagement hebdomadaire, nous prenons l’engagement maximal à partir de n’importe quel jour de la semaine.</p></td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ Voir où se trouve le compte nommé sélectionné par rapport à sa hiérarchie.
 
 ![](assets/hierarchy.png)
 
-## [!UICONTROL &#x200B; Opportunités &#x200B;] {#opportunities}
+## [!UICONTROL  Opportunités ] {#opportunities}
 
 Une vue cumulée de toutes les opportunités ouvertes au niveau d’un compte, qui aide les équipes marketing à se concentrer sur la fermeture d’opportunités spécifiques.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514956
 description: Activer le contenu prédictif pour les médias riches en contenu web - Documents Marketo - Documentation du produit
-title: Activation du contenu prédictif pour les médias riches en contenu web
+title: Activer le contenu prédictif pour les médias riches web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Activation du contenu prédictif pour les médias riches en contenu web {#enable-predictive-content-for-web-rich-media}
+# Activer le contenu prédictif pour les médias riches web {#enable-predictive-content-for-web-rich-media}
 
 Le contenu prédictif fait participer vos visiteurs et visiteuses web au contenu le plus pertinent, optimisé par le machine learning et l’analyse prédictive. Grâce aux médias riches pour le web, vous pouvez améliorer votre contenu avec des descriptions textuelles et des images, et incorporer plusieurs recommandations de contenu prédictif sur votre site web.
 
@@ -47,7 +47,7 @@ Une fois que vous avez préparé le titre, la description et l’image du conten
 
 ## Personnaliser le code JavaScript et l’incorporer dans votre site web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
+Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
 
 Collez le code JavaScript dans votre site web à l’emplacement où vous souhaitez que le modèle apparaisse.
 

@@ -1,16 +1,16 @@
 ---
 description: Présentation Du Suivi Des E-Mails - Documents Marketo - Documentation Du Produit
-title: Présentation du suivi des e-mails
+title: Vue d’ensemble du suivi des e-mails
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Présentation du suivi des e-mails {#email-tracking-overview}
+# Vue d’ensemble du suivi des e-mails {#email-tracking-overview}
 
 ## Fonctionnement du suivi des réponses {#how-reply-tracking-works}
 
@@ -24,7 +24,7 @@ Si [!DNL Sales Connect] ne parvient pas à suivre la réponse de votre prospect 
 
 Cela signifie que si vous envoyez un e-mail à <flynn@flynnsarcade.com> et qu’il répond avec <kevinf@flynnsarcade.com>, nous pouvons suivre la réponse. De plus, si vous envoyez un e-mail à <flynn@flynnsarcade.com> et à CC <alan@encom.com> et qu’Alan vous réécrit, la réponse sera également détectée et la campagne sera terminée.
 
-## Comment effectuer le suivi des pièces jointes à un e-mail {#how-to-track-your-email-attachments}
+## Comment effectuer le suivi des pièces jointes de vos e-mails {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect] offre un suivi sur vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez voir quand elles ont été ouvertes/téléchargées et quelles pages votre destinataire consulte. Nous vous permettrons d’utiliser notre fonctionnalité de suivi des pièces jointes à partir de l’[application web](https://toutapp.com/login) et de Gmail (ou des applications Google).
 
@@ -57,7 +57,7 @@ Quelques conseils pour obtenir de meilleures statistiques de tracking sur vos em
 * Insérez une image dans vos e-mails (comme un logo) afin que le destinataire soit encouragé à activer les images pour voir votre message.
 * Incluez un lien en tant que call to action dans l’e-mail.
 
-## L’e-mail de test ne s’affiche pas comme affiché {#test-email-not-showed-as-viewed}
+## L’e-mail de test ne s’est pas affiché comme sur la prévisualisation. {#test-email-not-showed-as-viewed}
 
 Même si vous avez envoyé votre message à une autre adresse e-mail, nous ne vous enregistrerons pas en consultant les e-mails que vous vous êtes envoyés dans le flux en direct. Notre suivi est basé sur les appareils ; tant que vous utilisez un ordinateur avec lequel vous vous êtes connecté, nous [!DNL Sales Connect] cette activité.
 

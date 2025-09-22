@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360411
 description: Création d’un analyseur de chemin de succès - Documents Marketo - Documentation du produit
-title: Création d’un analyseur de chemin de succès
+title: Créer un analyseur de voie du succès
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Création d’un analyseur de chemin de succès {#create-a-success-path-analyzer}
+# Créer un analyseur de voie du succès {#create-a-success-path-analyzer}
 
 Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle du chiffre d’affaires.
 

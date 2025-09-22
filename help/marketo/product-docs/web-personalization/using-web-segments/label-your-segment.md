@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719348
 description: Étiqueter Votre Segment - Documents Marketo - Documentation Du Produit
-title: Étiqueter Votre Segment
+title: Étiqueter votre segment
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Étiqueter Votre Segment {#label-your-segment}
+# Étiqueter votre segment {#label-your-segment}
 
 Disposez-vous d’un si grand nombre de segments que le défilement devient difficile ? Utilisez des libellés pour baliser vos segments afin de les trouver rapidement.
 

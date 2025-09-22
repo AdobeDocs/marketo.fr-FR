@@ -3,7 +3,7 @@ description: Présentation d’Advanced BI Analytics - Documents Marketo - Docum
 title: Vue d’ensemble de l’analyse BI avancée
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 1%
@@ -98,7 +98,7 @@ Découvrez comment exporter des sections spécifiques de votre rapport.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Cliquez sur l&#39;icône &#39;plus&#39; (**...**)
+1. Cliquez sur l&#39;icône &#39;plus&#39; (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ Découvrez comment exporter des sections spécifiques de votre rapport.
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451684/?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 
@@ -237,7 +237,6 @@ Les rapports standard suivants sont inclus comme exemples pour vos rapports pers
 ## Éléments à noter {#note}
 
 * Vos rapports personnalisés ont été répliqués de l’expérience classique vers la nouvelle expérience avec les changements de comportement notables mentionnés dans la section [Apprendre la nouvelle expérience](#learning-the-new-experience) ci-dessous.
-
 * Les tableaux de bord de l’expérience classique n’étaient pas transférables et devaient être recréés dans la nouvelle expérience. Ils peuvent être recréés sous forme de rapports dans la nouvelle expérience et les filtres de la nouvelle expérience extraient automatiquement les valeurs possibles.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ Les rapports standard suivants sont inclus comme exemples pour vos rapports pers
   >Si l’Explorateur de revenus comporte plus de 700 rapports, certains d’entre eux ont été combinés à d’autres et consolidés au moyen de pages dans le rapport.
   >
   >* Si un rapport comportait un abonnement par e-mail, il n’était pas combiné.
-  >
   >* Les autres rapports du _même dossier_ ont été combinés en un ou plusieurs rapports, par zone de rapport. S’il y avait plus de cinq rapports pour le domaine visé par le rapport, ils étaient regroupés en plus d’un rapport combiné.
-  >
   >* Chaque rapport combiné ne comporte pas plus de cinq pages.
 
 * Une visualisation donnée est limitée à 1 million de lignes par requête. Si votre requête dépasse ce seuil, vous recevrez l’erreur suivante : `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Pour corriger ce problème, réduisez votre période et/ou ajustez les filtres de votre rapport afin de réduire le nombre de lignes dans le résultat de votre requête.

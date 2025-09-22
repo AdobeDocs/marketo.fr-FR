@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147358
 description: Ajout d’un fragment de code à un e-mail - Documents Marketo - Documentation du produit
-title: Ajout d’un fragment de code à un e-mail
+title: Ajouter un extrait à un e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Ajout d’un fragment de code à un e-mail {#add-a-snippet-to-an-email}
+# Ajouter un extrait à un e-mail {#add-a-snippet-to-an-email}
 
 Les fragments de code sont des blocs de texte enrichi et de graphiques réutilisables que vous pouvez utiliser dans vos e-mails et vos pages de destination.
 

@@ -4,14 +4,14 @@ description: Étape 2 sur 3 - Configuration de l’utilisateur de synchronisatio
 title: Étape 2 sur 3 - Configuration de l’utilisateur de synchronisation pour Marketo (2013 On-Premise)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Étape 2 de 3 : configurer l’utilisateur de synchronisation pour Marketo (2013 On-Premise) {#step-of-configure-sync-user-for-marketo-on-premises}
+# Étape 2 sur 3 : configurer l’utilisateur ou l’utilisatrice de synchronisation pour Marketo (2013 On-Premise) {#step-of-configure-sync-user-for-marketo-on-premises}
 
 Excellent travail pour terminer les étapes précédentes, continuons à avancer dans ce dossier.
 

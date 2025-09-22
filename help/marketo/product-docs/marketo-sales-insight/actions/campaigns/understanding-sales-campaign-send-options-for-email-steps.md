@@ -1,16 +1,16 @@
 ---
 description: Présentation des options d’envoi de campagne commerciale pour les étapes d’e-mail - Documents Marketo - Documentation du produit
-title: Comprendre les options d’envoi de campagne de ventes pour les étapes d’e-mail
+title: Présentation des options d’envoi de campagne de vente pour les étapes d’e-mails
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '740'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Comprendre les options d’envoi de campagne de ventes pour les étapes d’e-mail {#understanding-sales-campaign-send-options-for-email-steps}
+# Présentation des options d’envoi de campagne de vente pour les étapes d’e-mails {#understanding-sales-campaign-send-options-for-email-steps}
 
 Lorsque vous créez une campagne de ventes, vous disposez de plusieurs options sur la manière dont les étapes d’e-mail sont créées dans [!DNL Sales Insight Actions]. De plus, selon l’emplacement de votre e-mail dans votre campagne de vente, vos options diffèrent également.
 
@@ -75,5 +75,5 @@ Pour les jours/étapes suivants de votre campagne de ventes, vous disposez des o
 >[!MORELIKETHIS]
 >
 >[Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Types d&#39;étapes de campagne commerciale et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Paramètres de la campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[Types d&#39;étapes de campagne commerciale et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Paramètres de la campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

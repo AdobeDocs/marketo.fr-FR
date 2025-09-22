@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - 19 Août - Documents Marketo - Documentatio
 title: Notes de mise à jour - 19 août
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : 19 août {#release-notes-august}
+# Notes de mise à jour : août 2019 {#release-notes-august}
 
 Les fonctionnalités suivantes sont incluses dans la version du 19 août. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
@@ -50,4 +50,4 @@ Les fonctionnalités suivantes sont publiées selon un cycle non trimestriel et 
 >
 >**Pour conserver votre accès à Marketo Engage, assurez-vous que tous les systèmes clients sont conformes au protocole TLS 1.2 avant le 13 décembre 2019**. Vous trouverez de plus amples informations [ici](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/August_19_Release_Webinar.html) le 28 août à 13 h 00 (heure de Paris) / 16 h 00 (heure de Paris) pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
+**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/August_19_Release_Webinar.html) le 28 août à 1:00PM PT / 4:00PM ET pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.

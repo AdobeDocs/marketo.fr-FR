@@ -1,23 +1,23 @@
 ---
 unique-page-id: 5472283
 description: Personnaliser la vue mobile pour votre page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Personnalisation de la vue mobile pour votre page de destination de forme libre
+title: Personnaliser la vue mobile de votre page de destination à structure libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Personnalisation de la vue mobile pour votre page de destination de forme libre {#customize-mobile-view-for-your-free-form-landing-page}
+# Personnaliser la vue mobile de votre page de destination à structure libre {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
 >[Ajouter une vue mobile pour votre page de destination de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-L’affichage mobile de votre page de destination de forme libre est principalement automatique, mais vous pouvez la personnaliser. Voici comment procéder.
+L’affichage mobile de votre page de destination de forme libre est principalement automatique, mais vous pouvez la personnaliser. Voici comment faire.
 
 1. Sélectionnez votre page de destination de forme libre.
 

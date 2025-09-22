@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557320
-description: Cloner une liste ou une liste dynamique - Documents Marketo - Documentation du produit
-title: Cloner une liste ou une liste dynamique
+description: Clonage d’une liste ou d’une liste dynamique - Documents Marketo - Documentation du produit
+title: Cloner une liste ou une liste intelligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Cloner une liste ou une liste dynamique {#clone-a-list-or-smart-list}
+# Cloner une liste ou une liste intelligente {#clone-a-list-or-smart-list}
 
-Au lieu de créer une liste dynamique à partir de zéro, gagnez du temps en clonant une liste similaire et en apportant des modifications. Voici comment.
+Au lieu de créer une liste dynamique à partir de zéro, gagnez du temps en clonant une liste similaire et en y apportant des modifications. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -27,4 +27,4 @@ Au lieu de créer une liste dynamique à partir de zéro, gagnez du temps en clo
 
    ![](assets/clone-a-list-or-smart-list-3.png)
 
-Beau boulot ! Vous pouvez également cloner des listes régulières de la même manière.
+Joli travail ! Vous pouvez également cloner les listes normales de la même manière.

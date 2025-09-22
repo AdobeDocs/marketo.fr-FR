@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762244
 description: Configuration des étoiles et des flammes pour les enregistrements de leads/contacts - Documents Marketo - Documentation du produit
-title: Configuration des étoiles et des flammes pour les enregistrements de leads/contacts
+title: Configurer les étoiles et les flammes pour les enregistrements des leads/contacts
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Configuration des étoiles et des flammes pour les enregistrements de leads/contacts {#setting-up-stars-and-flames-for-lead-contact-records}
+# Configurer les étoiles et les flammes pour les enregistrements des leads/contacts {#setting-up-stars-and-flames-for-lead-contact-records}
 
 Les étoiles et les flammes sur les enregistrements de lead/contact dépendent des champs [!UICONTROL Score du lead], [!UICONTROL Score relatif], [!UICONTROL Urgence] et [!UICONTROL Priorité]. Ces champs sont disponibles par défaut après l’installation et la configuration de la solution MSI. Si vous n&#39;avez pas d&#39;étoiles et de flammes, une configuration/personnalisation antérieure aurait pu entraîner leur suppression. Suivez les étapes ci-dessous pour les ajouter.
 

@@ -3,7 +3,7 @@ description: Diagnostics Salesforce - Documents Marketo - Documentation du produ
 title: Diagnostics Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1342'
 ht-degree: 1%
@@ -20,7 +20,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. Sous [!UICONTROL &#x200B; Intégrations &#x200B;], cliquez sur **[!UICONTROL Diagnostics]**.
+1. Sous [!UICONTROL  Intégrations ], cliquez sur **[!UICONTROL Diagnostics]**.
 
    ![](assets/salesforce-diagnostics-2.png)
 

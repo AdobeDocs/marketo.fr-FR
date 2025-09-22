@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352508
 description: Création De Champs Dynamiques Personnalisés - Documents Marketo - Documentation Du Produit
-title: Création de champs dynamiques personnalisés
+title: Créer des champs dynamiques personnalisés
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Création de champs dynamiques personnalisés {#create-custom-dynamic-fields}
+# Créer des champs dynamiques personnalisés {#create-custom-dynamic-fields}
 
 Il existe deux façons de créer des champs dynamiques personnalisés.
 
@@ -23,7 +23,7 @@ Il existe deux façons de créer des champs dynamiques personnalisés.
 
 1. Faites défiler jusqu’au bas de la page d’édition. Vous pouvez ensuite créer un nom et une valeur pour votre champ.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ## Enregistrement de champs personnalisés pour de nombreux contacts {#saving-custom-fields-for-many-contacts}
 

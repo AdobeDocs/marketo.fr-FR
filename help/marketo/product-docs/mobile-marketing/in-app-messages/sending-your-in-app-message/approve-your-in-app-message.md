@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617440
 description: Approuver Votre Message In-App - Documents Marketo - Documentation Du Produit
-title: Approuver Votre Message In-App
+title: Approuver votre message in-app
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Approuver Votre Message In-App {#approve-your-in-app-message}
+# Approuver votre message in-app {#approve-your-in-app-message}
 
 Vous devez approuver l’envoi avant que le message in-app ne soit envoyé.
 
@@ -31,7 +31,7 @@ Vous devez approuver l’envoi avant que le message in-app ne soit envoyé.
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. Le message est maintenant « [!UICONTROL &#x200B; Actif &#x200B;].
+1. Le message est maintenant « [!UICONTROL  Actif ].
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359870
-description: Recherchez l’URL d’une image ou d’un fichier téléchargé - Documents Marketo - Documentation du produit
-title: Recherche de l’URL d’une image ou d’un fichier téléchargé
+description: Recherche de l’URL d’une image ou d’un fichier chargé - Documents Marketo - Documentation du produit
+title: Rechercher l’URL d’une image chargée ou d’un fichier chargé
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
-# Recherche de l’URL d’une image ou d’un fichier téléchargé {#find-the-url-of-an-uploaded-image-or-file}
+# Rechercher l’URL d’une image chargée ou d’un fichier chargé {#find-the-url-of-an-uploaded-image-or-file}
 
-Vous recherchez l&#39;adresse web (URL) d&#39;une image ou d&#39;un fichier que vous avez téléchargé ?
+Vous recherchez l&#39;adresse Web (URL) d&#39;une image ou d&#39;un fichier que vous avez téléchargé ?
 
-1. Accédez à **[!UICONTROL Design Studio]**.
+1. Accédez au **[!UICONTROL Design Studio]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
@@ -27,10 +27,10 @@ Vous recherchez l&#39;adresse web (URL) d&#39;une image ou d&#39;un fichier que 
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. La **[!UICONTROL URL]** s’affiche sur la page de détails.
+1. Le **[!UICONTROL URL]** s’affiche sur la page de détails.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Remplacer une image ou un fichier téléchargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[Remplacer une image ou un fichier chargé](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

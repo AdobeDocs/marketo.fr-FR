@@ -4,10 +4,10 @@ description: Définir une audience en important une liste - Documents Marketo - 
 title: Définir une audience en important une liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
@@ -23,7 +23,7 @@ Une fois que vous avez créé un programme de messagerie, vous pouvez lui indiqu
 >
 >La définition de votre audience ne fonctionne que lorsque le programme de messagerie n’est pas approuvé.
 >
->Tous les champs de date et d’heure importés sont traités comme des champs d’heure centrale. Si vous avez des champs date/heure dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour les transformer en Heure du Centre (Amérique/Chicago).
+>Tous les champs de date et d’heure importés sont traités comme des champs d’heure du Centre. Si vous avez des champs de date/heure dans un autre fuseau horaire, vous pouvez utiliser une formule Excel pour les transformer en heure du Centre (Amérique/Chicago).
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -63,9 +63,9 @@ Une fois que vous avez créé un programme de messagerie, vous pouvez lui indiqu
 >
 >Avez-vous remarqué le numéro bloqué ? Ce numéro est un sous-ensemble des personnes qualifiées et représente les personnes qui ne peuvent pas recevoir cet e-mail car elles sont :
 >
->* Désabonné
+>* Désabonné ou désabonnée
 >* Marketing interrompu
->* Figurant sur la liste de blocage
+>* Figurant sur la liste bloquée
 >* E-mail non valide
 >* Empty Email
 >

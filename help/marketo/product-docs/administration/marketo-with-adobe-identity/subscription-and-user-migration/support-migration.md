@@ -1,16 +1,16 @@
 ---
 description: Migration de l’assistance Marketo Engage - Documentation de Marketo - Documentation du produit
-title: Migration de la prise en charge Marketo Engage
+title: Migration du support Marketo Engage
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Migration de la prise en charge Marketo Engage {#marketo-engage-support-migration}
+# Migration du support Marketo Engage {#marketo-engage-support-migration}
 
 En savoir plus sur les modifications à venir de votre processus d’assistance Adobe Marketo Engage. Les mises à jour sont conçues pour rationaliser vos tâches administratives et améliorer votre expérience globale.
 
@@ -44,7 +44,7 @@ La migration de l’assistance aura lieu une fois la migration de vos utilisateu
 
 * Vous trouverez plus d’informations sur la connexion à Marketo Engage à l’aide d’un [ Adobe ID ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* En savoir plus sur [ Adobe Experience League ](https://experienceleague.adobe.com/fr?lang=fr){target="_blank"}.
+* En savoir plus sur [ Adobe Experience League ](https://experienceleague.adobe.com/?lang=fr){target="_blank"}.
 
 ## Vous avez encore des questions ? {#still-have-questions}
 

@@ -1,22 +1,22 @@
 ---
 unique-page-id: 37355768
-description: Importation d’Assets avec Adobe Experience Manager - Documents Marketo - Documentation du produit
-title: Importation d’Assets avec Adobe Experience Manager
+description: Importation d’Assets avec Adobe Experience Manager - Documentation de Marketo - Documentation du produit
+title: Importer des ressources avec Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Importation d’Assets avec Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
+# Importer des ressources avec Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Le sélecteur de ressources permet aux clients Marketo d’accéder à des ressources Marketo Design Studio, de les sélectionner et de les importer AEM. **Les autorisations d’administrateur sont requises**.
+Le sélecteur de ressources permet aux clients Marketo d’accéder aux ressources AEM, de les sélectionner et de les importer dans Marketo Design Studio. **Des autorisations d’administrateur sont requises**.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité n’a pas été achetée par tout le monde. Pour plus d’informations, contactez l’équipe de compte d’Adobe (votre gestionnaire de compte).
+>Tout le monde n’a pas acheté cette fonctionnalité. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 >[!PREREQUISITES]
 >
@@ -24,13 +24,13 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
 >[!IMPORTANT]
 >
->Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Elle n’est pas prise en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome, selon vos paramètres de cookie SameSite.
+>Actuellement, cette fonctionnalité n’est entièrement prise en charge que dans Firefox. Il n’est pas pris en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome, selon les paramètres de vos cookies SameSite.
 
 1. Cliquez sur **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Cliquez sur la liste déroulante Nouveau et sélectionnez **[!UICONTROL Importer depuis Adobe Experience Manager]**.
+1. Cliquez sur le menu déroulant Nouveau et sélectionnez **[!UICONTROL Importer depuis Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -38,17 +38,17 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
-1. Connectez-vous à Adobe Experience Manager (si ce n’est déjà fait).
+1. Connectez-vous à Adobe Experience Manager (le cas échéant).
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Sélectionnez votre dossier. Sélectionnez ensuite les images de votre choix en cliquant sur la miniature (vous pouvez choisir jusqu’à 10). Cliquez sur **[!UICONTROL Sélectionner]** lorsque vous avez terminé.
+1. Choisissez votre dossier. Sélectionnez ensuite les images souhaitées en cliquant sur la miniature (vous pouvez en choisir jusqu’à 10). Cliquez sur **[!UICONTROL Sélectionner]** lorsque vous avez terminé.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
-   >La taille des images ne peut pas dépasser 100 Mo.
+   >La taille des images ne peut pas dépasser 100MB.
 
 1. Cliquez sur **[!UICONTROL Importer]** pour terminer le processus.
 
@@ -58,10 +58,10 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder à des resso
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
-## Informations à noter {#things-to-note}
+## Éléments à noter {#things-to-note}
 
 * Marketo prend actuellement en charge les versions 6.4 et 6.5 de Adobe Experience Manager.
 
-* Tous les utilisateurs de votre instance pourront afficher/accéder aux images que vous importez.
+* Tous les utilisateurs de votre instance pourront afficher les images que vous importez ou y accéder.
 
-* Les images ne sont pas mises à jour automatiquement. Si une image que vous avez importée dans Marketo Design Studio est mise à jour dans AEM, vous devez la réimporter manuellement dans Marketo.
+* Les images ne sont pas automatiquement mises à jour. Si une image que vous avez importée dans Marketo Design Studio est mise à jour dans AEM, vous devez la réimporter manuellement dans Marketo.

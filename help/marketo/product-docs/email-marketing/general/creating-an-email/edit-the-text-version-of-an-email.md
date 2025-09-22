@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372054
 description: Modification de la version texte d’un e-mail - Documents Marketo - Documentation du produit
-title: Modification de la version texte d’un e-mail
+title: Modifier la version texte d’un email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Modification de la version texte d’un e-mail {#edit-the-text-version-of-an-email}
+# Modifier la version texte d’un email {#edit-the-text-version-of-an-email}
 
 Lors de la création d’un e-mail, vous souhaiterez peut-être que sa version texte soit libellée différemment de la version HTML. Par défaut, Marketo copie automatiquement le contenu textuel de tout élément de texte enrichi qui se trouve dans votre e-mail vers la version Texte. Voici comment le modifier.
 

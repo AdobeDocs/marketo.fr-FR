@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511959
 description: Meilleurs résultats dans Salesforce1 - Documentation de Marketo - Documentation du produit
-title: Meilleurs paris dans Salesforce1
+title: Meilleurs choix dans Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

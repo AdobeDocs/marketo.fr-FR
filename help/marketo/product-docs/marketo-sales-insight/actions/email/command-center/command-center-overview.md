@@ -1,16 +1,16 @@
 ---
 description: Présentation du centre de commande - Documents Marketo - Documentation du produit
-title: Présentation du centre de commande
+title: Vue d’ensemble du centre de contrôle
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Présentation du centre de commande {#command-center-overview}
+# Vue d’ensemble du centre de contrôle {#command-center-overview}
 
 Le [!UICONTROL centre de commande] est une vue unique et unifiée qui vous aide à déterminer l’étape suivante, tout en vous assurant que rien ne passe entre les mailles du filet.
 
@@ -87,4 +87,4 @@ Bonus : si vous enregistrez votre recherche avancée, elle fonctionnera en tant 
 >
 >* Tâches
 >* Vue d’ensemble de la recherche avancée
->* Composition d’e-mails en bloc avec sélection et envoi
+>* Composition d’e-mails en masse avec les options Sélectionner et Envoyer

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12979223
 description: Configuration du compte Insight - Documentation de Marketo - Documentation du produit
-title: Configuration d’Insight de compte
+title: Configurer Account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 11%
 
 ---
 
-# Configuration d’Insight de compte {#set-up-account-insight}
+# Configurer Account Insight {#set-up-account-insight}
 
 Voici comment configurer le compte Insight.
 
@@ -39,6 +39,6 @@ Voici comment configurer le compte Insight.
    >
    >Si les paramètres [Account Score](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) sont mis à jour à tout moment, la configuration sous Ventes doit être mise à jour par un administrateur pour s’assurer que les scores reflètent fidèlement les préférences de l’utilisateur. L’utilisateur doit se déconnecter puis se reconnecter pour voir les modifications.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/five-4.png)

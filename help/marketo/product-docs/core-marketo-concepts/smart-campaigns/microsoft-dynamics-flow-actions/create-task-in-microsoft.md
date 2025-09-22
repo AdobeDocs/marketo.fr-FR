@@ -4,22 +4,22 @@ description: Créer une tâche dans Microsoft - Documents Marketo - Documentatio
 title: Créer une tâche dans Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Créer une tâche dans Microsoft {#create-task-in-microsoft}
 
-En tant que marketeur, vous disposez d’informations qui peuvent vous aider à conclure des transactions. Vous pouvez créer des tâches pour leur indiquer ce qu’ils doivent faire et quand ils doivent le faire.
+En tant que spécialiste marketing, vous disposez d’informations qui peuvent aider les ventes à conclure des offres. Vous pouvez créer des tâches pour leur indiquer ce qu’elles doivent faire et quand elles doivent le faire.
 
-Créer une tâche dans Microsoft crée une tâche sous Activités liées à la personne (prospect ou contact) dans [!DNL Microsoft].
+Créer une tâche dans Microsoft crée une tâche sous Activités liées à la personne (lead ou contact) dans [!DNL Microsoft].
 
 >[!NOTE]
 >
->Cette étape de flux _ne fonctionne que lorsqu’elle est utilisée avec des déclencheurs_, et non des filtres, dans votre campagne dynamique.
+>Cette étape de flux _ne fonctionne qu’avec des déclencheurs_ et non des filtres, dans votre campagne intelligente.
 
 Par défaut, l’étape de flux se présente comme suit :
 
@@ -27,7 +27,7 @@ Par défaut, l’étape de flux se présente comme suit :
 
 >[!NOTE]
 >
->Lorsque l’utilisateur de synchronisation Marketo crée des tâches, **[!UICONTROL Échéance dans]** est un champ obligatoire pour que la tâche soit créée dans [!DNL Microsoft]. Marketo saisit cinq jours par défaut si aucune valeur n’est saisie.
+>Lorsque l’utilisateur de la synchronisation Marketo crée des tâches, le champ **[!UICONTROL Échéance en cours]** est obligatoire pour que la tâche soit créée en [!DNL Microsoft]. Marketo saisit cinq jours par défaut si aucune valeur n’est saisie.
 
 Personnalisez tous les champs pour créer la tâche comme vous le souhaitez.
 
@@ -35,8 +35,8 @@ Personnalisez tous les champs pour créer la tâche comme vous le souhaitez.
 
 >[!NOTE]
 >
->Le champ &quot;Status&quot; spécifié pour la tâche dans l’action de flux met à jour le champ : &quot;Status Reason&quot; dans [!DNL Microsoft].
+>Le champ « Statut » spécifié pour la tâche dans l’action de flux met à jour le champ « Raison du statut » dans [!DNL Microsoft].
 
 >[!TIP]
 >
->Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans les **[!UICONTROL Sujet]** et **[!UICONTROL Description]**. Pour plus d’informations, voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} .
+>Vous pouvez utiliser `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` et `{{system.tokens}}` dans les **[!UICONTROL Objet]** et **[!UICONTROL Description]**. Voir [Jetons pour les étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} pour plus d’informations.

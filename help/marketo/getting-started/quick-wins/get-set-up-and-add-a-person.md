@@ -4,8 +4,8 @@ description: Configurer et ajouter une personne - Documents Marketo - Documentat
 title: Préparer sa configuration et ajouter une personne
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 100%
 

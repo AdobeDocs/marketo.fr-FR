@@ -4,14 +4,14 @@ description: Notes De Mise À Jour -Avril 2013 - Documents Marketo - Documentati
 title: Notes De Mise À Jour - Avril 2013
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Notes De Mise À Jour : Avril 2013 {#release-notes-april}
+# Notes de mise à jour : avril 2013 {#release-notes-april}
 
 Les fonctionnalités suivantes sont incluses dans la version d’avril.
 
@@ -27,7 +27,7 @@ Si vous utilisez Marketo [!DNL Sales Insight], ainsi que [!DNL Gmail], vous pouv
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
-## Analyse de l&#39;e-mail {#email-analysis}
+## Analyse d’e-mail {#email-analysis}
 
 Créez des rapports d’e-mail avancés dans [!UICONTROL Revenue Explorer] tels que le rapport de grille thermique des clics d’activité. Ce rapport indiquera à insight le jour et l’heure où les utilisateurs cliquent sur des liens dans vos e-mails.
 

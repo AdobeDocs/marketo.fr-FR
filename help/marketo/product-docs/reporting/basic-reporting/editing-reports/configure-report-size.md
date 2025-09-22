@@ -4,10 +4,10 @@ description: Configuration De La Taille Du Rapport - Documents Marketo - Documen
 title: Configurer la taille du rapport
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

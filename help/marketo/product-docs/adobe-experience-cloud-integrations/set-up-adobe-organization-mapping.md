@@ -4,10 +4,10 @@ description: Configuration du mappage d’organisation Adobe - Documents Marketo
 title: Configurer le mappage d’organisation Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -36,7 +36,7 @@ Pour synchroniser avec les applications Adobe, telles qu’Audience Manager, le 
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Saisissez votre ID d’organisation Adobe IMS (apprenez à le trouver [ici](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=fr){target="_blank"}) et cliquez sur **[!UICONTROL OK]**.
+1. Saisissez votre ID d’organisation Adobe IMS (apprenez à le trouver [ici](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) et cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

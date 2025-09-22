@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Mai 2012 - Documents Marketo - Documentatio
 title: Notes De Mise À Jour - Mai 2012
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '641'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Notes De Mise À Jour : Mai 2012 {#release-notes-may}
+# Notes de mise à jour : mai 2012 {#release-notes-may}
 
 ## Reconception du rapport sur les performances des e-mails {#email-performance-report-redesign}
 

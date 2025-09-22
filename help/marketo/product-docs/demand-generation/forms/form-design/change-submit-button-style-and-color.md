@@ -4,10 +4,10 @@ description: Modifier le style et la couleur du bouton Envoyer - Documents Marke
 title: Modifier le style et la couleur du bouton Envoyer
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 4%
+ht-degree: 12%
 
 ---
 

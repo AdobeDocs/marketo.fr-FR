@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900581
 description: Transférer vers un lien d’ami dans les e-mails - Documents Marketo - Documentation du produit
-title: Transférer vers un lien d’ami dans les e-mails
+title: Lien de transfert à un ami ou une amie dans les e-mails
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Transférer vers un lien d’ami dans les e-mails {#forward-to-a-friend-link-in-emails}
+# Lien de transfert à un ami ou une amie dans les e-mails {#forward-to-a-friend-link-in-emails}
 
 L&#39;ajout du lien « Transférer à un ami » à vos e-mails permet de suivre les personnes qui ont reçu un e-mail transféré via ce lien et de les ajouter automatiquement en tant que nouvelles personnes si elles ne figurent pas déjà dans la base de données.
 

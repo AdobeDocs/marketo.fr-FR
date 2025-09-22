@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719312
 description: Ajouter/Supprimer Des Valeurs De Liste De Sélection - Documents Marketo - Documentation Du Produit
-title: Ajouter/Supprimer des valeurs de liste de sélection
+title: Ajouter/supprimer des valeurs de la liste de sélection
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Ajouter/Supprimer des valeurs de liste de sélection {#add-remove-picklist-values}
+# Ajouter/supprimer des valeurs de la liste de sélection {#add-remove-picklist-values}
 
 Voici quelques informations à connaître sur l’ajout et la suppression de valeurs de liste de sélection dans [!DNL Salesforce].
 

@@ -1,16 +1,16 @@
 ---
 description: Actions de Sales Insight et conformité au RGPD - Documents Marketo - Documentation du produit
-title: Actions de Sales Insight et conformité au RGPD
+title: Actions des informations sur les ventes et conformité au RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1370'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Actions de Sales Insight et conformité au RGPD {#sales-insight-actions-and-gdpr-compliance}
+# Actions des informations sur les ventes et conformité au RGPD {#sales-insight-actions-and-gdpr-compliance}
 
 Le Règlement général sur la protection des données (RGPD) est la législation de l’Union européenne qui est entrée en vigueur le 25 mai 2018.
 
@@ -71,7 +71,7 @@ Dans la nouvelle carte de conformité, les utilisateurs peuvent suivre la source
 
 Là encore, les utilisateurs peuvent choisir parmi de nombreuses options de liste déroulante, notamment :
 
-* [!UICONTROL &#x200B; Synchronisation CRM &#x200B;]
+* [!UICONTROL  Synchronisation CRM ]
 * [!UICONTROL Importer]
 * [!UICONTROL Chargement manuel]
 * [!UICONTROL Extension Chrome]
@@ -83,7 +83,7 @@ Lorsque la vue Détails de la personne est ouverte, cliquez sur **[!UICONTROL Mo
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Deux listes déroulantes s’affichent : [!UICONTROL &#x200B; Type d’autorisation &#x200B;] et [!UICONTROL Type de Source].
+Deux listes déroulantes s’affichent : [!UICONTROL  Type d’autorisation ] et [!UICONTROL Type de Source].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 

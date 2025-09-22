@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359618
 description: Ajout de texte enrichi à un formulaire - Documents Marketo - Documentation du produit
-title: Ajout de texte enrichi à un formulaire
+title: Ajouter du texte enrichi à un formulaire
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 3%
+ht-degree: 15%
 
 ---
 
-# Ajout de texte enrichi à un formulaire {#add-rich-text-to-a-form}
+# Ajouter du texte enrichi à un formulaire {#add-rich-text-to-a-form}
 
 Utilisez le texte enrichi dans un formulaire pour ajouter des instructions ou d’autres informations entre les champs. Regarde ça.
 
@@ -39,7 +39,7 @@ Utilisez le texte enrichi dans un formulaire pour ajouter des instructions ou d�
    >
    >Si votre formulaire a besoin d&#39;un séparateur de ligne, utilisez le bouton Ligne horizontale .
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 

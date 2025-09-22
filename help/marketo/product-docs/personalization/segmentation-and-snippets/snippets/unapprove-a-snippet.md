@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359516
 description: Désapprobation d’un extrait de code - Documents Marketo - Documentation du produit
-title: Désapprobation d’un fragment de code
+title: Annuler l’approbation d’un extrait
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# Désapprobation d’un fragment de code {#unapprove-a-snippet}
+# Annuler l’approbation d’un extrait {#unapprove-a-snippet}
 
 Un fragment de code non approuvé ne peut pas être utilisé dans les e-mails ou les landing pages.
 

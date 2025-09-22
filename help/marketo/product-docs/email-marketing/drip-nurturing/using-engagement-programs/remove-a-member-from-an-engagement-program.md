@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359951
 description: Supprimer un membre d’un programme d’engagement - Documents Marketo - Documentation du produit
-title: Supprimer un membre d’un programme d’engagement
+title: Supprimer une personne membre d’un programme d’engagement
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
-# Supprimer un membre d’un programme d’engagement {#remove-a-member-from-an-engagement-program}
+# Supprimer une personne membre d’un programme d’engagement {#remove-a-member-from-an-engagement-program}
 
 Oups ! Comment ces gens sont-ils entrés ? Vous pouvez supprimer des membres d’un programme d’engagement à l’aide de l’étape de flux **[!UICONTROL Modifier le statut du programme]**.
 
@@ -19,7 +19,7 @@ Oups ! Comment ces gens sont-ils entrés ? Vous pouvez supprimer des membres d�
 >
 >Ne l’utilisez pas pour suspendre le contenu pour une personne. Cela éliminera toute attribution dans les analyses. En savoir plus sur la [mise en pause de personnes dans un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
-## Étape de déroulement {#flow-step}
+## Étape de flux {#flow-step}
 
 1. Faites glisser l’étape de flux **[!UICONTROL Modifier le statut du programme]**.
 

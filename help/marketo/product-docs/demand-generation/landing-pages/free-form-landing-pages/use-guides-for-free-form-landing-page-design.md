@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359728
 description: Guides d’utilisation de la conception de pages de destination de forme libre - Documents Marketo - Documentation du produit
-title: Utilisation de guides pour la conception de pages de destination de forme libre
+title: Utiliser des guides pour la conception de pages de destination à structure libre
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Utilisation de guides pour la conception de pages de destination de forme libre {#use-guides-for-free-form-landing-page-design}
+# Utiliser des guides pour la conception de pages de destination à structure libre {#use-guides-for-free-form-landing-page-design}
 
 Lors de la conception d’une page de destination de forme libre, vous pouvez utiliser des guides pour vous aider à aligner les composants.
 

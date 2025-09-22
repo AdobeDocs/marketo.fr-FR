@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14745750
 description: Paramètres des objectifs de l’algorithme - Documents Marketo - Documentation du produit
-title: Paramètres des objectifs de l’algorithme
+title: Paramètres d’objectif d’algorithme
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 33%
+ht-degree: 39%
 
 ---
 
-# Paramètres des objectifs de l’algorithme {#algorithm-goal-settings}
+# Paramètres d’objectif d’algorithme {#algorithm-goal-settings}
 
 Les paramètres d’objectif de l’algorithme vous permettent de définir l’objectif final de l’algorithme d’intelligence artificielle Contenu prédictif en fonction des objectifs de votre entreprise.
 

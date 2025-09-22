@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352623
 description: Détails d’accès utilisateur - Documents Marketo - Documentation du produit
-title: Détails d’accès utilisateur
+title: Détails des accès des utilisateurs et utilisatrices
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Détails d’accès utilisateur {#user-access-details}
+# Détails des accès des utilisateurs et utilisatrices {#user-access-details}
 
 À quoi les administrateurs et les non-administrateurs ont-ils accès ?
 

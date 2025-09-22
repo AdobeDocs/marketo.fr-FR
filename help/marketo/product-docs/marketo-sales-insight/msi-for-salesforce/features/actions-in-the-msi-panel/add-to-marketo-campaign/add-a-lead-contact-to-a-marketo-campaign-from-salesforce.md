@@ -1,54 +1,54 @@
 ---
 unique-page-id: 10099167
-description: Choisir une action dans Sales Insight - Marketo Docs - Documentation du produit
-title: Choisir une action dans Sales Insight
+description: Choisir une action dans Sales Insight - Documents Marketo - Documentation du produit
+title: Choisir une action dans Informations sur les ventes
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
-# Choisir une action dans Sales Insight {#choose-an-action-in-sales-insight}
+# Choisir une action dans Informations sur les ventes {#choose-an-action-in-sales-insight}
 
-Les actions suivantes sont disponibles dans la liste déroulante Sales Insight de Salesforce Classic et Lightning :
+Les actions suivantes sont disponibles à partir des listes déroulantes Sales Insight dans Salesforce Classic et Lightning :
 
 * Envoyer l&#39;e-mail Marketo
 * Ajouter à la campagne Marketo
 * Ajouter à la liste de surveillance
 
-Chacune de ces fonctions est accessible à partir des éléments suivants :
+Chacune de ces fonctionnalités est accessible à partir de :
 
-**Mise en page avec une seule action**
+**Disposition de page avec une seule action**
 
-* Panneau Disposition de piste : action unique pouvant être contrôlée par le profil utilisateur
-* Panneau de disposition Contact : action unique et peut être contrôlée par le profil utilisateur
-* Bouton Mise en page de piste : action unique qui ne peut pas être contrôlée par le profil utilisateur
-* Bouton Contact avec la mise en page : action unique et ne peut pas être contrôlée par le profil utilisateur
+* Panneau de disposition de lead : action unique et peut être contrôlé par le profil utilisateur
+* Panneau de disposition des contacts : une seule action et peut être contrôlée par le profil utilisateur
+* Bouton de disposition de lead : une seule action et ne peut pas être contrôlée par le profil utilisateur
+* Bouton Contacter la mise en page : une seule action et ne peut pas être contrôlée par le profil utilisateur
 
   ![](assets/-.png)
 
-**Mise en page avec action de groupe**
+**Disposition de page avec action de groupe**
 
-Panneau Disposition du compte : Action de groupe et peut être contrôlé par le profil utilisateur
-Panneau Disposition des opportunités : action de groupe et peut être contrôlée par le profil utilisateur
+Panneau Disposition du compte : action de groupe et peut être contrôlée par le profil utilisateur
+Panneau Disposition de l’opportunité : action de groupe et peut être contrôlée par le profil utilisateur
 
 ![](assets/-.png)
 
-**Onglet Meilleurs billets**
+**Onglet Meilleurs résultats**
 
-* Onglet Meilleures actions en bloc des paris : action de groupe et peut être contrôlée par le profil utilisateur
-
-  ![](assets/-.png)
-
-* Onglet Meilleures actions intégrées : action unique et peut être contrôlée par le profil utilisateur
+* Onglet Meilleures actions en bloc : Action de groupe et peut être contrôlée par le profil utilisateur
 
   ![](assets/-.png)
 
-**Mode Liste avec action en masse**
+* Onglet Meilleurs paris en ligne : Action unique et peut être contrôlé par le profil utilisateur
 
-* Affichage Liste de pistes : action en bloc et ne peut pas être contrôlée par le profil utilisateur
-* Affichage liste de contacts : action en bloc et ne peut pas être contrôlée par le profil utilisateur
+  ![](assets/-.png)
+
+**Vue Liste avec action en bloc**
+
+* Vue Liste des leads : action en bloc et ne peut pas être contrôlée par le profil utilisateur
+* Vue Liste des contacts : action en bloc et ne peut pas être contrôlée par le profil utilisateur
 
   ![](assets/-.png)

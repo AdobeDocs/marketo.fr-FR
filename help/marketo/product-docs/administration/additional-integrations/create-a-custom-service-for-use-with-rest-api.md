@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360350
 description: Création d’un service personnalisé à utiliser avec l’API ReST - Documents Marketo - Documentation du produit
-title: Créer un service personnalisé à utiliser avec l’API ReST
+title: Créer un service personnalisé à utiliser avec l’API REST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Créer un service personnalisé à utiliser avec l’API ReST {#create-a-custom-service-for-use-with-rest-api}
+# Créer un service personnalisé à utiliser avec l’API REST {#create-a-custom-service-for-use-with-rest-api}
 
-Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un service personnalisé. Voici comment procéder.
+Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un service personnalisé. Voici comment faire.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un se
 
 >[!TIP]
 >
->Consultez notre documentation destinée aux développeurs pour plus d’informations sur l’[API REST](https://developer.adobe.com/marketo-apis/). Nous disposons également de l’API [SOAP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/soap/soap-api) si c’est ce dont vous avez besoin.
+>Consultez notre documentation destinée aux développeurs pour plus d’informations sur l’[API REST](https://developer.adobe.com/marketo-apis/). Nous disposons également de l’API [SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) si c’est ce dont vous avez besoin.
 
 ## Créer un service personnalisé {#create-custom-service}
 

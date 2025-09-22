@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352587
 description: Campaign Est Terminé - Documents Marketo - Documentation Du Produit
-title: La Campagne Est Terminée
+title: La campagne est terminée.
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# La Campagne Est Terminée {#campaign-has-ended}
+# La campagne est terminée. {#campaign-has-ended}
 
 Si vous voyez un e-mail dans votre dossier [!UICONTROL Diffusion en échec] indiquant « La campagne est terminée », cela signifie que cet e-mail en particulier était un e-mail planifié dans votre campagne.
 

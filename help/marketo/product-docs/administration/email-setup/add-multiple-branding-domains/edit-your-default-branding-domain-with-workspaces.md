@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377406
 description: Modification de votre domaine de marque par défaut avec Workspaces - Documents Marketo - Documentation du produit
-title: Modifier votre domaine de marque par défaut avec les espaces de travail
+title: Modifier votre domaine de branding par défaut avec des espaces de travail
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Modifier votre domaine de marque par défaut avec les espaces de travail {#edit-your-default-branding-domain-with-workspaces}
+# Modifier votre domaine de branding par défaut avec des espaces de travail {#edit-your-default-branding-domain-with-workspaces}
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

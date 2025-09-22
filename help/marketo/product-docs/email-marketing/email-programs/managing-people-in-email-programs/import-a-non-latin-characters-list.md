@@ -4,10 +4,10 @@ description: Importer une liste de caractères non latins - Documents Marketo - 
 title: Importer une liste de caractères non latins
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -69,6 +69,6 @@ En effet, le fichier n’est pas enregistré correctement pour que Marketo puiss
 
    >[!NOTE]
    >
-   >Tous les champs de date et d’heure importés sont traités comme des champs d’heure centrale. Si vous avez des champs date/heure dans un fuseau horaire différent, vous pouvez utiliser une formule Excel pour les transformer en Heure du Centre (Amérique/Chicago).
+   >Tous les champs de date et d’heure importés sont traités comme des champs d’heure du Centre. Si vous avez des champs de date/heure dans un autre fuseau horaire, vous pouvez utiliser une formule Excel pour les transformer en heure du Centre (Amérique/Chicago).
 
 On sait que c&#39;est bizarre, mais ça marche. Bonne importation !

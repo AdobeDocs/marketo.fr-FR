@@ -3,24 +3,24 @@ description: Notes De Mise À Jour - Janvier 2024 - Documents Marketo - Document
 title: Notes de mise à jour – Janvier 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 7%
+ht-degree: 19%
 
 ---
 
-# Notes De Mise À Jour : Janvier 2024 {#release-notes-jan-24}
+# Notes de mise à jour : janvier 2024 {#release-notes-jan-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 janvier. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 janvier. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **12 janvier 2024** avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 12 janvier 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -41,8 +41,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
     <tr>
    <td><strong>Pages de destination de conversation</strong> : incorporez un flux de conversation Dynamic Chat directement dans une page de destination Marketo Engage afin que les visiteurs puissent planifier une réunion via Dynamic Chat sans avoir à remplir un formulaire ou à interagir avec un bot conversationnel.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,7 +52,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
     <tr>
    <td><strong>Filtrer l’activité de robot d’e-mail</strong> : améliore la capture de l’activité de robot pour l’engagement des e-mails en vous permettant de choisir le niveau d’agressivité du filtrage d’identification des activités de robot.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrage de l’activité des robots d’e-mail</a></td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrage de l’activité des robots dans les e-mails</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -62,7 +62,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
     <tr>
    <td><strong>Mise à jour de l’API d’importation de leads en bloc</strong> : un ajustement mineur a été apporté au comportement de l’API d’importation de leads en bloc lorsque <b>id</b> est spécifié comme <b>lookupField</b> lors de la création de la tâche. Si un enregistrement de personne lié à l’<b>id</b> fourni est introuvable dans la base de données Marketo Engage, aucune mise à jour d’enregistrement ne se produit, car l’enregistrement ne peut pas être localisé. Le comportement mis à jour inclut désormais l’incrémentation du nombre dans la propriété <b>numOfRowsFailed</b> au sein de la réponse, ce qui signale l’échec de l’opération dans de tels cas.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -82,7 +82,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
     <tr>
    <td><strong>Supprimer un utilisateur dans les webinaires interactifs</strong> : un administrateur Marketo Engage peut désormais supprimer un ou plusieurs utilisateurs spécifiques dans les webinaires interactifs.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
  </tbody>
 </table>
@@ -106,8 +106,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
   </tr>
     <tr>
    <td><strong>Fenêtre de composition extensible</strong> : la fenêtre de composition d’e-mail compresse désormais automatiquement l’espace inutilisé, ce qui permet d’avoir plus d’espace dans l’éditeur. De plus, la fenêtre pourra s’afficher et s’agrandir davantage, donnant aux utilisateurs autant d’espace que nécessaire pour apporter des modifications à leurs e-mails.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
  </tbody>
 </table>
@@ -115,7 +115,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
   </tbody>
 </table>
 
-### Dynamic Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 <table style="border: 0px">
  <tbody>
@@ -127,8 +127,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
   </tr>
     <tr>
    <td><strong>Interface utilisateur du bot conversationnel pour le Forms de conversation</strong> : les visiteurs du site Web peuvent désormais demander une conversation en direct dans un flux de conversation.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
    <tr>
    <td> </td>
@@ -138,8 +138,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
    </tr>
     <tr>
    <td><strong>Options de couleur de police du bot conversationnel</strong> : personnalisez les couleurs de police dans une configuration de bot conversationnel.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -149,8 +149,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
    </tr>
     <tr>
    <td><strong>Option de répétition de la boîte de dialogue</strong> : vous pouvez désormais redémarrer une boîte de dialogue au début une fois qu’un visiteur a atteint la fin.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -161,7 +161,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
     <tr>
    <td><strong>Résiliation manuelle du chat en direct</strong> : les visiteurs et les agents peuvent désormais mettre fin manuellement à une session de chat en direct.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Boîte de réception de l’agent(e)</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Boîte de réception de l’agent ou de l’agente</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -171,8 +171,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
     </tr>
     <tr>
    <td><strong>Activités Marketo Engage récentes dans la boîte de réception de l’agent</strong> : les activités Marketo Engage récentes, telles que l’e-mail ouvert et le formulaire rempli, s’affichent pour les prospects dans la boîte de réception de l’agent.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -181,8 +181,8 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
   </tr>
     <tr>
    <td><strong>Branchement conditionnel</strong> : vous pouvez désormais montrer aux visiteurs différents contenus de conversation en fonction de conditions prédéfinies, telles que l’emplacement du visiteur ou la disponibilité de l’agent actif.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
  </tbody>
 </table>

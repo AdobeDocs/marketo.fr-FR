@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360325
 description: Autoriser l’accès utilisateur à un Workspace - Documents Marketo - Documentation du produit
-title: Autoriser l’accès utilisateur à un Workspace
+title: Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Autoriser l’accès utilisateur à un Workspace {#allow-user-access-to-a-workspace}
+# Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice {#allow-user-access-to-a-workspace}
 
 Les espaces de travail peuvent être utilisés pour n’importe quelle raison (séparation d’unités commerciales ou géographique, par exemple). Ils séparent les ressources (listes intelligentes, programmes, etc.) de chaque équipe. Voici comment donner à un utilisateur l&#39;accès à un ou plusieurs espaces de travail.
 

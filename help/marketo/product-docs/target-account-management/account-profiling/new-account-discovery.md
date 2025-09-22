@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355609
 description: Découverte d’un nouveau compte - Documents Marketo - Documentation du produit
-title: Découverte de nouveaux comptes
+title: Découverte de nouveau compte
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Découverte de nouveaux comptes {#new-account-discovery}
+# Découverte de nouveau compte {#new-account-discovery}
 
 La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes à cibler à l’aide des recommandations optimisées par l’IA de votre profil client idéal.
 
@@ -63,7 +63,7 @@ La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes
    >
    >Pour l’enregistrer dans une liste de comptes existante, sélectionnez cette option, cliquez sur la liste déroulante, sélectionnez la liste de comptes souhaitée, puis cliquez sur **[!UICONTROL Suivant]**.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/seven-1.png)
 

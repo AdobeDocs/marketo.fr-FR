@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360407
 description: Créer un rapport d’analyse des e-mails qui répertorie les leads - Documents Marketo - Documentation du produit
-title: Créer un rapport d’analyse d’e-mail qui répertorie les leads
+title: Créer un rapport d’analyse d’e-mail répertoriant les leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Créer un rapport d’analyse d’e-mail qui répertorie les leads {#build-an-email-analysis-report-that-lists-leads}
+# Créer un rapport d’analyse d’e-mail répertoriant les leads {#build-an-email-analysis-report-that-lists-leads}
 
 Suivez ces étapes pour créer un rapport d’analyse des e-mails qui vous montrera chaque prospect à qui un e-mail spécifique a été envoyé. Ce rapport inclura également les statistiques Clic et Ouverture.
 

@@ -4,20 +4,20 @@ description: Notes De Mise À Jour - Février 20 - Documents Marketo - Documenta
 title: Notes De Mise À Jour - Février 20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
-# Notes De Mise À Jour : Février 20 {#release-notes-feb}
+# Notes de mise à jour : février 2020 {#release-notes-feb}
 
 Les fonctionnalités suivantes sont incluses dans la version de février 2020. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile ( ![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile ( ![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes ont été publiées le **21 février 2020**.
 
@@ -59,4 +59,4 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 * **Paramètre « _method » de l’API de ressources** : après septembre 2020, les points d’entrée de l’API de ressources n’accepteront plus « _method » pour transmettre des paramètres de requête dans un corps POST afin de contourner les limites de longueur d’URI. Pour répondre aux requêtes qui nécessitaient ce paramètre, la limite d’URI pour les API de ressources passera de 6 Ko à 65 Ko, de sorte que les URI de requête longues puissent être envoyés.
 * **Obsolescence de la prise en charge d’Internet Explorer** : à compter de la version de juillet du 31 juillet 2020, l’interface utilisateur de Marketo Engage ne sera plus prise en charge dans Internet Explorer.
 
-**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11 h 00 (heure de Paris) / 14 h 00 (heure de Paris) pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
+**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11 :00AM PT/2 :00PM ET pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.

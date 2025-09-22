@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360429
 description: Rapport sur votre modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
-title: Rapport sur votre modèle de chiffre d’affaires
+title: Créer un rapport sur votre modèle de revenu
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Rapport sur votre modèle de chiffre d’affaires {#report-on-your-revenue-model}
+# Créer un rapport sur votre modèle de revenu {#report-on-your-revenue-model}
 
 Pour chaque modèle de cycle de chiffre d’affaires, vous pouvez générer un rapport sur le nombre de prospects à chaque étape.
 

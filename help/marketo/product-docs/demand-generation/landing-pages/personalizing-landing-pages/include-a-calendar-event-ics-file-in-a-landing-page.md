@@ -4,10 +4,10 @@ description: Inclure un fichier ICS d’événement de calendrier dans une page 
 title: Inclure un fichier ICS d’événement de calendrier dans une page de destination
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
@@ -33,7 +33,7 @@ Un jeton **[!UICONTROL Fichier de calendrier]** vous permet d’ajouter un lien 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    Les utilisateurs verront une page de destination qui ressemble à ceci :
 

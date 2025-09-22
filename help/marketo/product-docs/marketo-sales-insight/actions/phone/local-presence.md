@@ -1,16 +1,16 @@
 ---
 description: Présence locale - Documents sur Marketo - Documentation du produit
-title: Présence locale
+title: Numéro local
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Présence locale {#local-presence}
+# Numéro local {#local-presence}
 
 La présence locale vous donne la possibilité de faire croire que vous appelez à partir du même indicatif régional de votre destinataire.
 

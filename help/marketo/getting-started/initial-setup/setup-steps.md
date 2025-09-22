@@ -4,10 +4,10 @@ short-description: Vous débutez avec Adobe Marketo Engage ? Découvrez les �
 title: Étapes de configuration
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1687'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -147,7 +147,6 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 placer sur la liste autorisée `3)` Marketo.
 
     * Si nous utilisons des adresses IP dans notre Place sur la liste autorisée e-mail, ajoutez les adresses IP répertoriées ci-dessous :
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -240,7 +239,7 @@ Faites défiler jusqu’à [!UICONTROL Domaines de marque]. Sélectionnez votre 
 
 Dans le champ Domaine , saisissez votre domaine de tracking e-mail. Elle doit se présenter comme suit :
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ![](assets/setup-steps-13.png)
 
@@ -271,7 +270,7 @@ Marketo Engage dispose d’un JavaScript de suivi personnalisé ([!DNL Munchkin]
 
 ## Attentes en matière de performances {#performance-expectations}
 
-À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

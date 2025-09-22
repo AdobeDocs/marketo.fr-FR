@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359604
 description: Redimensionner l’étiquette/la largeur de champ dans un formulaire - Documents Marketo - Documentation du produit
-title: Redimensionnement du libellé/de la largeur du champ dans un formulaire
+title: Redimensionner la largeur d’une étiquette/d’un champ dans un formulaire
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# Redimensionnement du libellé/de la largeur du champ dans un formulaire {#resize-label-field-width-in-a-form}
+# Redimensionner la largeur d’une étiquette/d’un champ dans un formulaire {#resize-label-field-width-in-a-form}
 
 Il existe deux manières de redimensionner la largeur de l’étiquette du champ, ainsi que la largeur du champ lui-même.
 

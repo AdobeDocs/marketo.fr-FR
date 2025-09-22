@@ -4,10 +4,10 @@ description: Personnalisation De La Synchronisation Des Activités - Documents M
 title: Personnaliser la synchronisation des activités
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '306'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

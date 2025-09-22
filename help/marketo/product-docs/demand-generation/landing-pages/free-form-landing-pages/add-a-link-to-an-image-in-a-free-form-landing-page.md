@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472314
 description: Ajout d’un lien vers une image dans une page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Ajout d’un lien vers une image dans une page de destination de forme libre
+title: Ajouter un lien vers une image dans une page de destination à structure libre
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# Ajout d’un lien vers une image dans une page de destination de forme libre {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# Ajouter un lien vers une image dans une page de destination à structure libre {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-Vous souhaitez faire d’une image de votre page de destination un lien vers une autre page ou un autre site ? Voici comment procéder.
+Vous souhaitez faire d’une image de votre page de destination un lien vers une autre page ou un autre site ? Voici comment faire.
 
 >[!PREREQUISITES]
 >

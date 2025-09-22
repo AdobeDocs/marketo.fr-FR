@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8159286
 description: Filtres et triggers d’opportunité - Documents Marketo - Documentation du produit
-title: Filtres et triggers d’opportunité
+title: Filtres et déclencheurs d’opportunité
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# Filtres et triggers d’opportunité {#opportunity-filters-and-triggers}
+# Filtres et déclencheurs d’opportunité {#opportunity-filters-and-triggers}
 
 Les filtres et triggers d’opportunité permettent d’effectuer le suivi des événements d’opportunité depuis [!DNL Salesforce]. Ils sont un peu différents des autres filtres et déclencheurs.
 

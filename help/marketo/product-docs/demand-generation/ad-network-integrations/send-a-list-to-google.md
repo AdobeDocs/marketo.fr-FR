@@ -1,16 +1,16 @@
 ---
 description: Envoyer une liste à Google - Documents Marketo - Documentation du produit
-title: Envoi d’une liste à Google
+title: Envoyer une liste à Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Envoi d’une liste à Google {#send-a-list-to-google}
+# Envoyer une liste à Google {#send-a-list-to-google}
 
 Pour ceux qui utilisent le ciblage par correspondance des clients Google, suivez les étapes ci-dessous pour envoyer une liste statique Marketo Engage à votre compte Google.
 

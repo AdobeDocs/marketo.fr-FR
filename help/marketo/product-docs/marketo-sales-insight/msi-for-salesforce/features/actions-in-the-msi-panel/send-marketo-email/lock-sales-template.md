@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981050
 description: Verrouiller le modèle de vente - Documents Marketo - Documentation du produit
-title: Verrouiller le modèle de vente
+title: Verrouiller un modèle de vente
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Verrouiller le modèle de vente {#lock-sales-template}
+# Verrouiller un modèle de vente {#lock-sales-template}
 
 Pour empêcher les utilisateurs CRM de modifier les modèles de vente, les administrateurs peuvent verrouiller les modèles, ce qui permet aux utilisateurs de verrouiller les modèles individuellement à partir de l’éditeur d’e-mail.
 
@@ -33,7 +33,7 @@ Pour empêcher les utilisateurs CRM de modifier les modèles de vente, les admin
 
    ![](assets/2.png)
 
-1. Cochez **[!UICONTROL Activer la possibilité de verrouiller des modèles]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez **[!UICONTROL Activer la possibilité de verrouiller des modèles]**. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -55,7 +55,7 @@ Pour empêcher les utilisateurs CRM de modifier les modèles de vente, les admin
 
    ![](assets/6.png)
 
-1. Cochez **[!UICONTROL Publier sur Marketo Sales Insight]** si ce n’est pas déjà fait. Vous pouvez désormais décocher **[!UICONTROL Autoriser l’utilisateur CRM à modifier l’e-mail]** afin de verrouiller le modèle. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez **[!UICONTROL Publier sur Marketo Sales Insight]** si ce n’est pas déjà fait. Vous pouvez désormais décocher **[!UICONTROL Autoriser l’utilisateur CRM à modifier l’e-mail]** afin de verrouiller le modèle. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/7.png)
 

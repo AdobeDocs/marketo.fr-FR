@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352475
 description: Installer les champs d’événement Sales Connect sur l’historique des activités - Documents Marketo - Documentation du produit
-title: Installer les champs d’événement Sales Connect dans l’historique des activités
+title: Installer des champs d’événement Sales Connect dans l’historique des activités
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
-# Installer les champs d’événement Sales Connect dans l’historique des activités {#install-sales-connect-event-fields-on-activity-history}
+# Installer des champs d’événement Sales Connect dans l’historique des activités {#install-sales-connect-event-fields-on-activity-history}
 
 Une fois que vous avez installé le package d’entreprise dans [!DNL Salesforce], vous pouvez installer les champs d’événement [!UICONTROL Sales Connect] dans votre section d’historique des activités. Les champs d’événement [!UICONTROL Sales Connect] incluent des informations telles que des affichages, des clics et des campagnes. Vous pouvez ainsi avoir des informations sur vos e-mails directement importées dans [!DNL Salesforce].
 
@@ -32,6 +32,6 @@ Veillez à faire équipe avec votre administrateur [!DNL Salesforce] lors de l�
 1. Sélectionnez les champs [!UICONTROL Connexion commerciale] à inclure dans la section [!UICONTROL Historique des activités]. Si les champs [!UICONTROL Sales Connect] ne s’affichent pas ici, c’est peut-être parce que le package [!DNL Salesforce] installé n’est pas correct.
 1. Cliquez sur **[!UICONTROL Ajouter]** pour déplacer les champs de votre choix.
 1. Cliquez sur **[!UICONTROL OK]**.
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    Vos utilisateurs peuvent désormais voir des informations et des mises à jour importantes sur leurs e-mails dans [!DNL Salesforce] !

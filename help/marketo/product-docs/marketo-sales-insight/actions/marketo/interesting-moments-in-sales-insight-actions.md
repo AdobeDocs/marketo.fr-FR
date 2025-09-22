@@ -1,12 +1,12 @@
 ---
 description: Moments intéressants dans les actions de Sales Insight - Documents Marketo - Documentation du produit
-title: Moments intéressants dans les actions Sales Insight
+title: Moments intéressants dans Actions des informations sur les ventes
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

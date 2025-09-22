@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359492
 description: Regrouper les rapports de personnes par segment - Documents Marketo - Documentation du produit
-title: Regrouper les rapports de personne par segment
+title: Regrouper les rapports sur les personnes par segment
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Regrouper les rapports de personne par segment {#group-person-reports-by-segment}
+# Regrouper les rapports sur les personnes par segment {#group-person-reports-by-segment}
 
 Vous pouvez regrouper vos rapports de personne en fonction de n’importe quel segment que vous avez défini dans vos segmentations.
 

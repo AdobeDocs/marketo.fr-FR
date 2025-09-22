@@ -4,7 +4,7 @@ description: Statut De La Synchronisation - Documents Marketo - Documentation Du
 title: Statut de synchronisation
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%

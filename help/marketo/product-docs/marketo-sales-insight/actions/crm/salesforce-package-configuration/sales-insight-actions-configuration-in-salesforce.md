@@ -1,11 +1,11 @@
 ---
 description: Configuration des actions Insight de vente dans Salesforce - Documentation de Marketo - Documentation du produit
-title: Configuration des actions de Sales Insight dans Salesforce
+title: Configuration d’Actions des informations sur les ventes dans Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '241'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
-1. Saisissez la [!UICONTROL &#x200B; Clé secrète API &#x200B;].
+1. Saisissez la [!UICONTROL  Clé secrète API ].
 
    ![](assets/msi-actions-configuration-in-salesforce-7.png)
 

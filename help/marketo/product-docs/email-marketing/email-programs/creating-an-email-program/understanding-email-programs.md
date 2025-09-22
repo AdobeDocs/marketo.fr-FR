@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953572
 description: Présentation Des Programmes De Messagerie - Documents Marketo - Documentation Du Produit
-title: Présentation des programmes de messagerie
+title: Présentation des programmes d’e-mail
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Présentation des programmes de messagerie {#understanding-email-programs}
+# Présentation des programmes d’e-mail {#understanding-email-programs}
 
 Envoyez des e-mails, créez des tests A/B et suivez vos résultats en un seul endroit.
 
@@ -21,7 +21,7 @@ Quatre boîtes vous permettent de rester concentré. **[!UICONTROL Audience]** d
 
 ![](assets/emailprogram.png)
 
-## Les tests A/B {#a-b-testing}
+## Tests A/B {#a-b-testing}
 
 Les tests A/B vous permettent de prouver quel e-mail est le meilleur.
 

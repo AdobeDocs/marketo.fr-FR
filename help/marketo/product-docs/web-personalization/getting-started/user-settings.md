@@ -1,10 +1,10 @@
 ---
 unique-page-id: 4719336
 description: Paramètres Utilisateur - Documents Marketo - Documentation Du Produit
-title: Paramètres d’utilisateur
+title: Paramètres d’utilisateur ou d’utilisatrice
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%

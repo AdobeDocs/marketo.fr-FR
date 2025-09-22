@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360281
 description: Suppression d’un canal de programme - Documents Marketo - Documentation du produit
-title: Suppression d’un canal de programme
+title: Supprimer un canal de programme
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Suppression d’un canal de programme {#delete-a-program-channel}
+# Supprimer un canal de programme {#delete-a-program-channel}
 
-Les canaux de programme sont un ensemble d’états ou de points de contrôle qui doivent être utilisés dans un programme.
+Les canaux de programme sont un ensemble de statuts ou de points de contrôle que les prospects doivent passer dans un programme.
 
-Si vous en faites une par accident ou si vous n&#39;en avez plus besoin, vous pouvez la supprimer.
+Si vous en faites un par accident ou n&#39;en avez plus besoin, vous pouvez le supprimer.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -25,12 +25,12 @@ Si vous en faites une par accident ou si vous n&#39;en avez plus besoin, vous po
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Sélectionnez le canal à supprimer. Dans la liste déroulante **[!UICONTROL Tag Actions]**, cliquez sur **[!UICONTROL Supprimer]**.
+1. Sélectionnez le canal à supprimer. Dans la liste déroulante **[!UICONTROL Actions de balise]**, cliquez sur **[!UICONTROL Supprimer]**.
 
    >[!TIP]
    >
-   >Si le canal est associé à un ou plusieurs programmes, vous ne pouvez pas le supprimer, mais le masquer.
+   >Si le canal est associé à un ou plusieurs programmes, vous ne pouvez pas le supprimer, mais uniquement le masquer.
 
    ![](assets/delete-a-program-channel-3.png)
 
-Vous pouvez également [supprimer des états spécifiques des canaux](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+Vous pouvez également [supprimer des statuts spécifiques des canaux](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).

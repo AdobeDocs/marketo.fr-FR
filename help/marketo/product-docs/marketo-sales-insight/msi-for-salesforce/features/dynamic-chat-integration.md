@@ -1,16 +1,16 @@
 ---
 description: Intégration de Dynamic Chat - Documents Marketo - Documentation du produit
-title: Intégration du Dynamic Chat
+title: Intégration de Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '391'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
-# Intégration du Dynamic Chat {#dynamic-chat-integration}
+# Intégration de Dynamic Chat {#dynamic-chat-integration}
 
 En savoir plus sur l’intégration de Dynamic Chat à Sales Insight.
 
@@ -36,7 +36,7 @@ Suivez les étapes ci-dessous pour activer l’intégration [!DNL Dynamic Chat].
 
    ![](assets/dynamic-chat-integration-2.png)
 
-## Présentation des fonctionnalités {#feature-overview}
+## Vue d’ensemble des fonctionnalités {#feature-overview}
 
 Les activités [!DNL Dynamic Chat] suivantes peuvent être exploitées par les utilisateurs [!DNL Sales Insight]...
 
@@ -84,9 +84,9 @@ De même, les panneaux Compte et Opportunité comprennent les colonnes [!UICONTR
 
 L’onglet Conversation est également inclus dans votre onglet Marketo global . Il comprend trois types d’activités ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint]), ainsi que les colonnes suivantes :
 
-* [!UICONTROL &#x200B; Personne &#x200B;]
+* [!UICONTROL  Personne ]
 * [!UICONTROL Compte]
-* [!UICONTROL &#x200B; Type d’activité &#x200B;] ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint])
+* [!UICONTROL  Type d’activité ] ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint])
 * [!UICONTROL Nom de la boîte de dialogue]
 * [!UICONTROL Date]
 

@@ -1,14 +1,14 @@
 ---
-description: Les actions Sales Insight sont-elles compatibles avec Salesforce Lightning ? - Documents Marketo - Documentation Du Produit
-title: Les actions Sales Insight sont-elles compatibles avec Salesforce Lightning ?
+description: Les actions Sales Insight sont-elles compatibles avec Salesforce Lightning ? - Documents Marketo - Documentation sur le produit
+title: Est-ce qu’Actions des informations sur les ventes est compatible avec Salesforce Lightning ?
 hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 

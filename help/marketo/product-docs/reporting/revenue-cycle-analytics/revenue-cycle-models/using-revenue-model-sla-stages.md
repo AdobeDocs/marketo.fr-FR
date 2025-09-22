@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718668
 description: Utilisation des étapes SLA du modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
-title: Utilisation des étapes SLA du modèle de chiffre d’affaires
+title: Utilisation d’étapes SLA du modèle de revenu
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilisation des étapes SLA du modèle de chiffre d’affaires {#using-revenue-model-sla-stages}
+# Utilisation d’étapes SLA du modèle de revenu {#using-revenue-model-sla-stages}
 
 SLA signifie « service level agreement ». Ces étapes sont utilisées lorsqu’il existe une durée maximale définie pendant laquelle un prospect doit être évalué ou traité avant d’avancer ou de quitter le processus.
 
@@ -25,7 +25,7 @@ SLA signifie « service level agreement ». Ces étapes sont utilisées lorsqu�
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans la section [!UICONTROL &#x200B; Analytics &#x200B;], sélectionnez votre modèle existant ou [créez-en un](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Dans la section [!UICONTROL  Analytics ], sélectionnez votre modèle existant ou [créez-en un](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 

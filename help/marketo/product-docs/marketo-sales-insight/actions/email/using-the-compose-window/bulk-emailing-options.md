@@ -1,16 +1,16 @@
 ---
 description: Options De Messagerie En Masse - Documents Marketo - Documentation Du Produit
-title: Options de publipostage en masse
+title: Options d’envoi d’e-mails en masse
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Options de publipostage en masse {#bulk-emailing-options}
+# Options d’envoi d’e-mails en masse {#bulk-emailing-options}
 
 L’envoi d’e-mails en bloc est un excellent moyen d’accélérer votre engagement des prospects. [!DNL Marketo Sales] offre deux manières d’envoyer des e-mails en bloc : **Regrouper les e-mails** et **Sélectionner et envoyer**. Les e-mails de groupe sont un excellent moyen d’envoyer rapidement des centaines d’e-mails à un groupe ciblé. L’utilisation de Sélectionner et Envoyer réduit les limites d’e-mail, mais offre davantage d’opportunités de personnalisation à l’utilisateur ou à l’utilisatrice.
 

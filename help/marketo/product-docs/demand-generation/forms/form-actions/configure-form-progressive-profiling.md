@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359646
 description: Configuration Du Profilage Progressif De Formulaire - Documents Marketo - Documentation Du Produit
-title: Configurer le profilage progressif de formulaire
+title: Configurer un formulaire de création de profils utilisateur progressive
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '333'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configurer le profilage progressif de formulaire {#configure-form-progressive-profiling}
+# Configurer un formulaire de création de profils utilisateur progressive {#configure-form-progressive-profiling}
 
-Les formes courtes sont bonnes ! Lorsqu’une personne revient sur un formulaire, vous pouvez présenter de nouveaux champs et remplir progressivement le profil du visiteur. Voici comment procéder.
+Les formes courtes sont bonnes ! Lorsqu’une personne revient sur un formulaire, vous pouvez présenter de nouveaux champs et remplir progressivement le profil du visiteur. Voici comment faire.
 
 >[!NOTE]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360389
 description: Mise à disposition d’un programme sans coût de période dans l’Explorateur et les analyseurs de revenus - Documents Marketo - Documentation du produit
-title: Rendre un programme sans coût de période disponible dans l’explorateur et les analyseurs de revenus
+title: Rendre un programme sans coût de période disponible dans l’explorateur de revenu et les analyseurs
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Rendre un programme sans coût de période disponible dans l’explorateur et les analyseurs de revenus {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Rendre un programme sans coût de période disponible dans l’explorateur de revenu et les analyseurs {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 Les coûts de la période du programme vous permettent de définir « combien d’argent » et « quand » pour un programme. Cela s’affiche dans l’Explorateur du cycle du chiffre d’affaires et [analyseurs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 

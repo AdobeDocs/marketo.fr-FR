@@ -3,10 +3,10 @@ description: Paramètres De Synchronisation De Salesforce - Documentation De Mar
 title: Paramètres de synchronisation Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '639'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unl
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-2.png)
 
@@ -54,7 +54,7 @@ Une fois que vous avez activé « [!UICONTROL E-mail à Salesforce (Cci)] », vo
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-7.png)
 
@@ -90,7 +90,7 @@ Si vous ne voyez pas Mon e-mail à [!DNL Salesforce] sous vos paramètres, il se
 1. Cliquez sur **[!UICONTROL Envoyer par e-mail à Salesforce]**.
 1. Cliquez sur **[!UICONTROL Modifier]**.
 1. Cochez la case en regard de « Actif ».
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ## Synchroniser [!DNL Sales Insight Actions] tâches/rappels avec [!DNL Salesforce] tâches {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
@@ -98,7 +98,7 @@ Si vous ne voyez pas Mon e-mail à [!DNL Salesforce] sous vos paramètres, il se
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-11.png)
 

@@ -4,10 +4,10 @@ description: Création d’une campagne web dans la zone - Documents Marketo - D
 title: Créer une campagne web dans la zone
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '693'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -106,7 +106,7 @@ Sur la page **Campagnes web**, cliquez sur **Modifier** dans la campagne.
 
 Voir [Cloner une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Suppression d’une campagne web {#delete-a-web-campaign}
+## Supprimer une campagne web {#delete-a-web-campaign}
 
 1. Sur la page Campagnes web, cliquez sur **[!UICONTROL Supprimer]** sur la campagne que vous souhaitez supprimer.
 

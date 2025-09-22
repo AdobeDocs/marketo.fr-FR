@@ -1,16 +1,16 @@
 ---
 description: Accorder le consentement pour l’ID client et l’enregistrement d’application - Documents Marketo - Documentation du produit
-title: Accorder le consentement pour l’ID client et l’enregistrement de l’application
+title: Accorder le consentement pour l’enregistrement de l’ID client et de l’application
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Accorder le consentement pour l’ID client et l’enregistrement de l’application {#grant-consent-for-client-id-and-app-registration}
+# Accorder le consentement pour l’enregistrement de l’ID client et de l’application {#grant-consent-for-client-id-and-app-registration}
 
 Suivez les étapes ci-dessous pour savoir comment accorder le consentement/les autorisations nécessaires.
 

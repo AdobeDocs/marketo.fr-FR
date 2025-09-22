@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Juillet 2014 - Documents Marketo - Document
 title: Notes De Mise À Jour - Juillet 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Notes De Mise À Jour : Juillet 2014 {#release-notes-july}
+# Notes de mise à jour : juillet 2014 {#release-notes-july}
 
 Les fonctionnalités suivantes sont incluses dans la version de juillet 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 
@@ -31,13 +31,13 @@ La documentation relative au calendrier marketing sera disponible au moment de l
 
 ## Opérateurs de date {#date-operators}
 
-[Filtres avancés](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) pour « [!UICONTROL &#x200B; dans le passé avant &#x200B;] », « [!UICONTROL &#x200B; dans le futur &#x200B;] » et « [!UICONTROL &#x200B; dans le futur après &#x200B;] ». Par exemple, trouvez les prospects dont la date de naissance se situe dans les 3 prochains mois ou dont le contrat expire après 6 mois.
+[Filtres avancés](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) pour « [!UICONTROL  dans le passé avant ] », « [!UICONTROL  dans le futur ] » et « [!UICONTROL  dans le futur après ] ». Par exemple, trouvez les prospects dont la date de naissance se situe dans les 3 prochains mois ou dont le contrat expire après 6 mois.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## Affichage de la planification des programmes {#program-schedule-view}
+## Vue Planning du programme {#program-schedule-view}
 
 Outre le calendrier marketing avec lequel vous gérez vos événements et programmes par défaut, une nouvelle vue de planning est disponible directement sur le programme.
 
@@ -47,7 +47,7 @@ Outre le calendrier marketing avec lequel vous gérez vos événements et progra
 
 ## Liste des opérations dans l’API REST {#list-operations-in-the-rest-api}
 
-Nous avons ajouté les appels ci-dessous liés aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api) pour consulter la documentation complète.
+Nous avons ajouté les appels ci-dessous liés aux opérations de liste dans ReST. Voir [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api) pour consulter la documentation complète.
 
 * Obtenir la liste par ID
 * Obtenir plusieurs listes
@@ -78,7 +78,7 @@ La page Définir la campagne de RTP [comprend désormais des modèles prêts à 
 
 ## RTP : améliorations de l’API JavaScript {#rtp-javascript-api-enhancements}
 
-Nouvel appel API RTP pour obtenir des données visiteur en temps réel telles que la correspondance de l’organisation, du secteur, de l’emplacement et du code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle indiquant le code segment. Consultez notre [site destiné aux développeurs](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
+Nouvel appel API RTP pour obtenir des données visiteur en temps réel telles que la correspondance de l’organisation, du secteur, de l’emplacement et du code segment. En outre, le survol d’un nom de segment dans la page Segments affiche une info-bulle indiquant le code segment. Consultez notre [site destiné aux développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour obtenir une documentation complète.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

@@ -1,24 +1,24 @@
 ---
 description: Tableaux de bord d’utilisation du produit - Documents Marketo - Documentation du produit
-title: Tableaux de bord d’utilisation du produit
+title: Tableaux de bord d’utilisation des produits
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Tableaux de bord d’utilisation du produit {#product-usage-dashboards}
+# Tableaux de bord d’utilisation des produits {#product-usage-dashboards}
 
 Les tableaux de bord d’utilisation des produits Marketo Engage permettent d’afficher l’utilisation des produits et des plateformes par rapport à certaines limites ou à un retard de débit des données, l’utilisation par rapport au quota quotidien et les mesures clés de votre abonnement. L’infrastructure est allouée pour fournir des limites de performances définies pour les niveaux de produit pour des attributs spécifiques. Certaines de ces limites, comme l’utilisation des API, sont des limites souscrites dans le cadre de votre package ou de votre niveau de produit.
 
-## Accès {#how-to-access}
+## Comment y accéder {#how-to-access}
 
-1. Dans Marketo Engage, cliquez sur **Admin**.
+1. Dans Marketo Engage, cliquez sur **Admin**.
 
    ![](assets/product-usage-dashboards-1.png)
 
@@ -58,7 +58,7 @@ Ici, nous obtenons le décompte des activités au cours des sept jours précéde
 
 >[!NOTE]
 >
->* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **&#x200B;**&#x200B;le jour en cours. Pensez donc à « hier + six jours avant ».
+>* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **** le jour en cours. Pensez donc à « hier + six jours avant ».
 >
 >* Le tableau de bord n’affiche que les 20 principaux types d’activité, les autres étant triés dans une catégorie intitulée « Autre ».
 

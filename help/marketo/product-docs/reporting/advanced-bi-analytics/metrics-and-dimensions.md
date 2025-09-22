@@ -3,10 +3,10 @@ description: Mesures et dimensions - Documents Marketo - Documentation du produi
 title: Mesures et dimensions
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
-ht-degree: 27%
+ht-degree: 28%
 
 ---
 
@@ -35,7 +35,7 @@ Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le r
       <th> </th>
     </tr>
     <tr>
-      <td>Analyse de l'e-mail</td>
+      <td>Analyse d’e-mail</td>
       <td>
         <ul>
           <li>Trimestre</li>
@@ -300,13 +300,13 @@ Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le r
             <li>Nom d'e-mail</li>
             <li>Objet de l’e-mail</li>
             <li>Adresse d’expédition de l’e-mail</li>
-            <li>Modèle d'e-mail</li>
+            <li>Modèle d’e-mail</li>
             <li>Lien de l’e-mail</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Programme d'acquisition</li>
+            <li>Programme d’acquisition</li>
             <li>Sur liste noire</li>
             <li>Converti en opportunité</li>
             <li>Ne pas appeler</li>
@@ -317,7 +317,7 @@ Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le r
             <li>Type source d'origine</li>
             <li>Division du lead</li>
             <li>Enregistrer le type Source</li>
-            <li>Désabonné</li>
+            <li>Désabonné ou désabonnée</li>
             <li>Adresse e-mail</li>
             <li>E-mail non valide</li>
             <li>Adresse e-mail du détenteur du lead</li>
@@ -510,9 +510,9 @@ Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le r
     <tr>
       <td>
           <ul>
-            <li>an</li>
+            <li>Year</li>
             <li>Trimestre</li>
-            <li>Mois</li>
+            <li>Month</li>
             <li>Semaine</li>
             <li>Date</li>
           </ul>
@@ -575,7 +575,7 @@ Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le r
             <li>Trimestre D'Acquisition</li>
             <li>Mois d’acquisition</li>
             <li>Semaine d’acquisition</li>
-            <li>Date d'acquisition</li>
+            <li>Date d’acquisition</li>
         </ul>
       </td>
       <td>
@@ -622,7 +622,7 @@ Vous trouverez ci-dessous toutes les mesures et dimensions disponibles pour le r
             <li>Ouverts</li>
             <li>Envoyé</li>
             <li>Clics uniques</li>
-            <li>Non abonné</li>
+            <li>Désabonné ou désabonnée</li>
           </ul>
       </td>
       <td>

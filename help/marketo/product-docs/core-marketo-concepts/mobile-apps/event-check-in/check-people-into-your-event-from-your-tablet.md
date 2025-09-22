@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949839
 description: Envoyez des personnes à votre événement depuis votre tablette - Documents Marketo - Documentation du produit
-title: Intégrer des personnes à votre événement à partir de votre tablette
+title: Enregistrer des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '834'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Intégrer des personnes à votre événement à partir de votre tablette {#check-people-into-your-event-from-your-tablet}
+# Enregistrer des personnes dans votre événement à partir de votre tablette {#check-people-into-your-event-from-your-tablet}
 
 Lorsque les gens se présentent à votre événement, vous pouvez trouver leurs informations sur l&#39;application. Après l’enregistrement, ils sont promus au statut Participants lorsque vous effectuez une synchronisation avec Marketo.
 

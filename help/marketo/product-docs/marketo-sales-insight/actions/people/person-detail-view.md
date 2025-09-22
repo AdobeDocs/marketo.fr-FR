@@ -1,22 +1,22 @@
 ---
 description: Affichage Des Détails D’Une Personne - Documents Marketo - Documentation Du Produit
-title: Affichage des détails de la personne
+title: Vue des détails d’une personne
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Affichage des détails de la personne {#person-detail-view}
+# Vue des détails d’une personne {#person-detail-view}
 
 La vue Détails de la personne fournit un profil détaillé de chaque personne de votre compte [!DNL Marketo Sales].
 
-## Accès {#how-to-access}
+## Comment y accéder {#how-to-access}
 
 1. Pour accéder à la vue détaillée de la personne, cliquez sur l’onglet **[!UICONTROL Personnes]**.
 

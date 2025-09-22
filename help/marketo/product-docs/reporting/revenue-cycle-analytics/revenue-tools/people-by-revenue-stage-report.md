@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360418
 description: Rapport d’étape Personnes par chiffre d’affaires - Documents Marketo - Documentation du produit
-title: Rapport d’étape Personnes par chiffre d’affaires
+title: Rapport des personnes par étape de revenu
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Rapport d’étape Personnes par chiffre d’affaires {#people-by-revenue-stage-report}
+# Rapport des personnes par étape de revenu {#people-by-revenue-stage-report}
 
 Vous pouvez créer un rapport indiquant à quelle étape de votre modèle de cycle du chiffre d&#39;affaires vos salariés se trouvent. L&#39;état inclut toutes les étapes du modèle spécifié tant qu&#39;il existe un solde de personnes pour la période donnée de l&#39;état.
 

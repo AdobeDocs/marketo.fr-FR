@@ -1,12 +1,12 @@
 ---
 description: Ajout d’un accès Sales Insight aux profils - Documents Marketo - Documentation du produit
-title: Ajout d’un accès Sales Insight aux profils
+title: Ajouter un accès à Informations sur les ventes aux profils
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -68,7 +68,7 @@ Si vous disposez d’un profil dédié pour vos utilisateurs [!DNL Sales Insight
 
 1. Sélectionnez **[!UICONTROL Modifier l’affectation]**.
 
-1. Sélectionnez le profil de votre [!DNL Sales Insight] dans la liste, puis sélectionnez la mise en page de votre [!DNL Sales insight] dans le menu déroulant « [!UICONTROL &#x200B; Sélectionner la mise en page &#x200B;] ».
+1. Sélectionnez le profil de votre [!DNL Sales Insight] dans la liste, puis sélectionnez la mise en page de votre [!DNL Sales insight] dans le menu déroulant « [!UICONTROL  Sélectionner la mise en page ] ».
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 

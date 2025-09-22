@@ -4,10 +4,10 @@ description: Afficher le formulaire HTML personnalisé pour les personnes connue
 title: Afficher un formulaire HTML personnalisé pour les personnes connues
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

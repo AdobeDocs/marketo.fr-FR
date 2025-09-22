@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746177
 description: Réabonnement et désabonnement - Documents Marketo - Documentation du produit
-title: Réabonnement et désabonnement
+title: Réabonnement après un désabonnement
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

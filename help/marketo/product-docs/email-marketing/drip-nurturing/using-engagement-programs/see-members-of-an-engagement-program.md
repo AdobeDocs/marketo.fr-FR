@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359861
 description: Consultez Membres d’un programme d’engagement - Documents Marketo - Documentation du produit
-title: Voir Membres d’un programme d’engagement
+title: Voir les personnes membres d’un programme d’engagement
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 22%
 
 ---
 
-# Voir Membres d’un programme d’engagement {#see-members-of-an-engagement-program}
+# Voir les personnes membres d’un programme d’engagement {#see-members-of-an-engagement-program}
 
-Vous pouvez rapidement voir les membres d’un programme d’engagement. Voici comment procéder.
+Vous pouvez rapidement voir les membres d’un programme d’engagement. Voici comment faire.
 
 1. Dans votre programme d’engagement, cliquez avec le bouton droit et sélectionnez **[!UICONTROL Afficher les membres]**.
 

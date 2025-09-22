@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359834
 description: Donner La Priorité Au Contenu Diffusé - Documents Marketo - Documentation Du Produit
-title: Hiérarchiser le contenu du flux
+title: Prioriser le contenu en flux
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Hiérarchiser le contenu du flux {#prioritize-stream-content}
+# Prioriser le contenu en flux {#prioritize-stream-content}
 
 Après avoir ajouté du contenu à votre flux, vous pouvez modifier la priorité. Le contenu est toujours diffusé du haut vers le bas dans chaque cast, et aucun contenu n’est envoyé deux fois à la même personne.
 

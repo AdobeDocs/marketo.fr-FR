@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900587
 description: Utiliser vos adresses IP dédiées pour envoyer des e-mails - Documents Marketo - Documentation du produit
-title: Utiliser vos adresses IP dédiées pour envoyer des e-mails
+title: Utiliser vos adresses IP dédiées pour envoyer des e-mails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utiliser vos adresses IP dédiées pour envoyer des e-mails {#use-your-dedicated-ip-addresses-to-send-emails}
+# Utiliser vos adresses IP dédiées pour envoyer des e-mails {#use-your-dedicated-ip-addresses-to-send-emails}
 
 Les envois depuis une ou plusieurs adresses IP dédiées vous permettent de contrôler entièrement votre réputation d&#39;envoi.
 
@@ -42,4 +42,4 @@ Pour optimiser la délivrabilité à long terme, les consultants en délivrabili
 
 >[!CAUTION]
 >
->Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez bénéficier d’une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.
+>Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez bénéficier d’une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.

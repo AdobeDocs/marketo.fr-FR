@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
 description: Tableaux de bord des informations de performance - Documents Marketo - Documentation du produit
-title: Tableaux de bord des informations sur les performances
+title: Tableaux de bord Performance Insights
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '504'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -45,7 +45,7 @@ Sélectionnez la mesure **[!UICONTROL Nouveaux noms]** pour mesurer l’efficaci
 >
 >Tous vos programmes doivent être configurés pour définir le programme d’acquisition et la date d’acquisition des prospects afin que ce tableau de bord vous donne les meilleurs résultats.
 
-## [!UICONTROL &#x200B; Pipeline &#x200B;] {#pipeline}
+## [!UICONTROL  Pipeline ] {#pipeline}
 
 Le tableau de bord [!UICONTROL Pipeline] affiche les performances du canal par mesures Première touche et Touche multiple.
 

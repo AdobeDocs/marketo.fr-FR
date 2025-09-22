@@ -1,16 +1,16 @@
 ---
 description: Synchronisation des champs personnalisés des membres de programme - Documents Marketo - Documentation du produit
-title: Synchronisation des champs personnalisés des membres du programme
+title: Synchronisation des champs personnalisés des personnes membres du programme
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
-# Synchronisation des champs personnalisés des membres du programme {#program-member-custom-field-sync}
+# Synchronisation des champs personnalisés des personnes membres du programme {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
@@ -63,7 +63,7 @@ ht-degree: 11%
 
 ## Annuler le mappage des champs Salesforce des champs personnalisés des membres du programme {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-Si vous souhaitez libérer un champ pour le remplacer, ou simplement effectuer une modification générale, vous devez d’abord annuler le mappage. Voici comment procéder.
+Si vous souhaitez libérer un champ pour le remplacer, ou simplement effectuer une modification générale, vous devez d’abord annuler le mappage. Voici comment faire.
 
 1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
@@ -85,7 +85,7 @@ Si vous souhaitez libérer un champ pour le remplacer, ou simplement effectuer u
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. Le mappage est maintenant supprimé. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Le mappage est maintenant supprimé. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/program-member-custom-field-sync-11.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360297
-description: Limitation des connexions Marketo en fonction de l’adresse IP - Documents Marketo - Documentation du produit
-title: Limitation des connexions Marketo en fonction des adresses IP
+description: Restreindre les connexions Marketo en fonction de l’adresse IP - Documents Marketo - Documentation du produit
+title: Restreindre les connexions à Marketo en fonction de l’adresse IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Limitation des connexions Marketo en fonction des adresses IP {#restrict-marketo-logins-based-on-ip}
+# Restreindre les connexions à Marketo en fonction de l’adresse IP {#restrict-marketo-logins-based-on-ip}
 
-Vous pouvez empêcher ou autoriser les utilisateurs d’accéder à Marketo en fonction de leurs adresses IP. Voici comment.
+Vous pouvez empêcher ou autoriser des utilisateurs à accéder à Marketo en fonction de leurs adresses IP. Voici comment faire.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Vous pouvez empêcher ou autoriser les utilisateurs d’accéder à Marketo en f
 
 >[!IMPORTANT]
 >
->Les informations de cet article sont destinées aux utilisateurs qui se connectent directement à l’adresse login.marketo.com et ne s’appliquent pas à ceux qui s’authentifient avec Adobe ID. Actuellement, il n’est pas possible d’appliquer des restrictions d’IP aux connexions par authentification unique (SSO).
+>Les informations contenues dans cet article sont destinées aux utilisateurs qui se connectent directement à login.marketo.com et ne s’appliquent pas à ceux qui s’authentifient avec Adobe ID. Il n’est pas possible d’appliquer des restrictions IP sur les connexions d’authentification unique (SSO) pour le moment.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -31,24 +31,24 @@ Vous pouvez empêcher ou autoriser les utilisateurs d’accéder à Marketo en f
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. Cliquez sur **[!UICONTROL Modifier les restrictions d’IP]**.
+1. Cliquez sur **[!UICONTROL Modifier les restrictions IP]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Choisissez si vous souhaitez **Autoriser** ou **Bloquer** certaines adresses, saisissez la ou les adresses, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Choisissez si vous souhaitez **Autoriser** ou **Bloquer** des adresses spécifiques, saisissez la ou les adresses, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    >[!NOTE]
    >
    >**Définition**
    >
-   >* **[!UICONTROL Adresses IP autorisées]** : l’ajout d’adresses IP autorisées est inclusif. Elle inclura toutes les adresses IP spécifiées et exclura tout le reste.
+   >* **[!UICONTROL Adresses IP autorisées]** : l’ajout d’adresses IP autorisées est un processus d’inclusion. Elle inclut toutes les adresses IP spécifiées et exclut tout le reste.
    >* **[!UICONTROL Bloquer les adresses IP]** : empêche des adresses IP spécifiques d’accéder à Marketo.
-   >* **[!UICONTROL Désactiver les restrictions d’IP]** : si vous cochez cette option, toutes les règles de restriction ne fonctionneront plus. Utilisez-le à des fins de test.
+   >* **[!UICONTROL Désactiver les restrictions IP]** : si vous cochez cette case, toutes les règles de restriction cesseront de fonctionner. Utilisez-le à des fins de test.
 
    >[!NOTE]
    >
-   >Vous pouvez ajouter plusieurs restrictions, mais elles ne peuvent être TOUTES autorisées que ou TOUTES bloquées. Vous ne pouvez pas mélanger les éléments autorisés et bloqués.
+   >Vous pouvez ajouter plusieurs restrictions, mais elles peuvent uniquement être AUTORISÉES POUR TOUT ou BLOQUÉES POUR TOUT. Vous ne pouvez pas mélanger et faire correspondre les valeurs autorisées et bloquées.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
-   Bien joué, vos données marketing sont désormais plus sûres que jamais !
+   Bien joué, vos données marketing sont maintenant plus sûres qu&#39;elles ne l&#39;ont jamais été !

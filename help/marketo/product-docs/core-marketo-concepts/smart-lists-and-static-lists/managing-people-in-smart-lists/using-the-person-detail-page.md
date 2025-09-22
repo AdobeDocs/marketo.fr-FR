@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953415
 description: Utilisation de la page Détails de la personne - Documents Marketo - Documentation du produit
-title: Utilisation de la page Détails de la personne
+title: Utilisation de la page Détails d’une personne
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 33%
+ht-degree: 35%
 
 ---
 
-# Utilisation de la page Détails de la personne {#using-the-person-detail-page}
+# Utilisation de la page Détails d’une personne {#using-the-person-detail-page}
 
 La page des détails d’une personne contient toutes les informations que Marketo connaît sur cette personne. Vous pouvez modifier les données directement depuis cette page.
 
@@ -45,7 +45,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 | Infos sur l&#39;opportunité | Informations sur l’opportunité synchronisées à partir de Salesforce. |
 | Champ du lead SFDC | Champs Salesforce intégrés. |
 | Champ personnalisé SFDC | Champs Salesforce personnalisés. |
-| Journal d&#39;activité | Toutes les activités liées à la personne. |
+| Journal d’activité | Toutes les activités liées à la personne. |
 
 ## Organisation de la page - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
@@ -56,11 +56,11 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 | Infos sur l&#39;opportunité | Informations sur l’opportunité synchronisées à partir de Microsoft. |
 | Champs personnalisés Microsoft | Champs Microsoft personnalisés. |
 | Champ lead Microsoft | Champs Microsoft intégrés. |
-| Journal d&#39;activité | Toutes les activités liées à la personne. |
+| Journal d’activité | Toutes les activités liées à la personne. |
 
 >[!NOTE]
 >
->Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
+>Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
 
 ## Modification d’un champ {#editing-a-field}
 
@@ -88,14 +88,14 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 | URL de la photo du [!DNL Twitter] social Marketo | URL du profil de [!DNL Twitter] social Marketo | Marketo Social [!DNL Twitter] Reach | Marketo Social [!DNL Twitter] Enrollment Référencées | Visites référencées du [!DNL Twitter] social Marketo |
 | Deuxième prénom | Numéro téléphone mobile | Nombre d&#39;employés | Numéro de téléphone | Code postal |
 | Priorité | Évaluation relative | Rôle | Titre | Code SIC |
-| Site | État | Non abonné | Raison désabonnement | Mis à jour à |
+| Site | État | Désabonné ou désabonnée | Raison désabonnement | Mis à jour à |
 | Urgence | Site web |  |  |  |
 
 >[!NOTE]
 >
 >Certains champs ne sont _pas_ modifiables :
 >
->* Journal d&#39;activité
+>* Journal d’activité
 >* Informations sur la société
 >* Opportunités pour les contacts SFDC
 >* Certains champs spécifiques à Marketo, tels que Date de création et Type de Source d’origine.

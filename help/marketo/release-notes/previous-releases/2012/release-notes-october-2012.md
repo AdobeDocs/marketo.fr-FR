@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Octobre 2012 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '352'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Notes De Mise À Jour : Octobre 2012 {#release-notes-october}
+# Notes de mise à jour : octobre 2012 {#release-notes-october}
 
 La version d’octobre comprend de nouvelles fonctionnalités plus intéressantes ! Les fonctionnalités de réseaux sociaux sont disponibles sous la forme d’un module complémentaire ou dans le cadre de lots sélectionnés.
 

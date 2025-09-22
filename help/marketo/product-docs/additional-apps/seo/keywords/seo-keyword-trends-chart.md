@@ -4,32 +4,32 @@ description: SEO - Graphique des tendances des mots-clés - Documents Marketo - 
 title: SEO - Graphique des tendances des mots-clés
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 # SEO - Graphique des tendances des mots-clés {#seo-keyword-trends-chart}
 
-Il est important de surveiller la façon dont votre mot-clé [Classement SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) est en tendance au fil du temps. Consultez ce diagramme pour suivre la progression.
+Il est important de surveiller la tendance de votre mot-clé [Rangs SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) au fil du temps. Consultez ce graphique pratique pour suivre la progression.
 
-1. Accédez à la section **[!UICONTROL Mots-clés]** .
+1. Accédez à la section **[!UICONTROL Mots-clés]**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
-1. Cliquez sur la zone de classement du mot-clé que vous souhaitez afficher comme tendance.
+1. Cliquez sur la zone de classement pour le mot-clé dont vous souhaitez suivre la tendance.
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Il affiche votre [Classement SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) pour les 30 derniers jours :
+   Il affiche votre [Rang SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) pour les 30 derniers jours :
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
    >[!TIP]
    >
-   >Vous pouvez en savoir plus sur votre classement de mots-clés dans le rapport Tendances des mots-clés .
+   >Pour en savoir plus sur le classement des mots-clés, consultez le Rapport sur les tendances des mots-clés .
 
    >[!MORELIKETHIS]
    >

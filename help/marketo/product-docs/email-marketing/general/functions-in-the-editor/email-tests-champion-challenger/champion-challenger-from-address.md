@@ -4,16 +4,16 @@ description: Champion/Challenger - Adresse de l’expéditeur - Documents Market
 title: Champion/Challenger - Adresse de l'expéditeur
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Champion/Challenger : Adresse De L&#39;Expéditeur {#champion-challenger-from-address}
+# Champion/Challenger : adresse de l’expéditeur ou de l’expéditrice {#champion-challenger-from-address}
 
-Vous souhaitez essayer une adresse d’expédition différente sans problème ? Voici comment procéder.
+Vous souhaitez essayer une adresse d’expédition différente sans problème ? Voici comment faire.
 
 >[!PREREQUISITES]
 >

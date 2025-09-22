@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317369
 description: Afficher la liste des modèles en tant qu’autre utilisateur - Documents Marketo - Documentation du produit
-title: Afficher la liste des modèles en tant qu'autre utilisateur
+title: Afficher la liste des modèles en tant qu’un autre utilisateur ou une autre utilisatrice
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Afficher la liste des modèles en tant qu&#39;autre utilisateur {#view-template-list-as-another-user}
+# Afficher la liste des modèles en tant qu’un autre utilisateur ou une autre utilisatrice {#view-template-list-as-another-user}
 
 En tant qu’administrateur, vous pouvez afficher les modèles comme n’importe quel utilisateur.
 

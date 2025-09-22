@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359496
 description: Ajouter du contenu à un extrait de code - Documents Marketo - Documentation du produit
-title: Ajouter du contenu à un fragment de code
+title: Ajouter du contenu à un extrait
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Ajouter du contenu à un fragment de code {#add-content-to-a-snippet}
+# Ajouter du contenu à un extrait {#add-content-to-a-snippet}
 
 >[!PREREQUISITES]
 >

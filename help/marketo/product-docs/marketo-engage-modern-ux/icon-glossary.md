@@ -1,44 +1,44 @@
 ---
 description: Icône Glossaire - Documents Marketo - Documentation Du Produit
-title: Icône Glossaire
+title: Glossaire des icônes
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 52%
+ht-degree: 92%
 
 ---
 
-# Icône Glossaire {#new-icon-glossary}
+# Glossaire des icônes {#new-icon-glossary}
 
-Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous devez référencer les icônes Marketo Classic, elles se trouvent [ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous devez vous référer aux icônes Marketo Classic, elles se trouvent [ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Icônes générales {#general-icons}
 
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
    <td>Liste intelligente des comptes</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>Campagne par lots - active</td>
+   <td>Campagne par lot - Active</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>Campagne par lots - inactive</td>
+   <td>Campagne par lot - Inactive</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
@@ -58,7 +58,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
    <td><img src="assets/email-template.png"></td>
-   <td>Modèle d'e-mail</td>
+   <td>Modèle d’e-mail</td>
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
@@ -86,9 +86,9 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
    <td>Filtre</td>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/filter-active.png"></td>
-   <td>Filtre - actif</td>
+   <td>Filtre - Actif</td>
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td>
@@ -98,17 +98,17 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td>
    <td><img src="assets/folder-archive.png"></td>
-   <td>Dossier - archivé</td>
+   <td>Dossier - Archivé</td>
   </tr>
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td>
    <td><img src="assets/folder-shared.png"></td>
-   <td>Dossier - partagé</td>
+   <td>Dossier - Partagé</td>
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td>
    <td><img src="assets/folder-locked.png"></td>
-   <td>Dossier - verrouillé</td>
+   <td>Dossier - Verrouillé</td>
   </tr>
   <tr>
    <td><img src="assets/classic-form.png"></td>
@@ -123,7 +123,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-in-app-messages.png"></td>
    <td><img src="assets/in-app-messages.png"></td>
-   <td>Messages internes à l’application</td>
+   <td>Messages in-app</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td>
@@ -153,7 +153,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-push-notification.png"></td>
    <td><img src="assets/push-notification.png"></td>
-   <td>Notification Push</td>
+   <td>Notification push</td>
   </tr>
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
@@ -166,7 +166,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
    <td>Rapport</td>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/search.png"></td>
    <td>Recherche</td>
   </tr>
@@ -183,7 +183,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
    <td><img src="assets/smart-list-cached.png"></td>
-   <td>Liste dynamique - mise en cache</td>
+   <td>Liste intelligente - Mise en cache</td>
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td>
@@ -198,7 +198,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Réseaux sociaux</td>
+   <td>Bouton social</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -218,12 +218,12 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/trigger-active.png"></td>
-   <td>Déclencheur - actif</td>
+   <td>Déclencheur - Actif</td>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
-   <td>Déclencheur - inactif</td>
+   <td>Déclencheur - Inactif</td>
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td>
@@ -243,14 +243,14 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/has-run-no-upcoming.png"></td>
-   <td>S’est exécuté, rien à venir</td>
+   <td>Exécution terminée, rien à venir</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -260,7 +260,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>Ne jamais exécuter</td>
+   <td>Jamais d’exécution</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -270,17 +270,17 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td>
    <td><img src="assets/scheduled-to-run.png"></td>
-   <td>Planifié pour l'exécution</td>
+   <td>Planifié pour l’exécution</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td>
    <td><img src="assets/scheduled-to-run-again.png"></td>
-   <td>Nouvelle exécution planifiée</td>
+   <td>Planifié pour une nouvelle exécution</td>
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>Utilisé par Nurture</td>
+   <td>Utilisation par accompagnement</td>
   </tr>
  </tbody>
 </table>
@@ -290,8 +290,8 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
@@ -305,7 +305,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
    <td>Est demandé</td>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/inactive.png"></td>
    <td>Inactif</td>
   </tr>
@@ -322,8 +322,8 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
@@ -344,7 +344,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td>
    <td><img src="assets/scheduled.png"></td>
-   <td>Planifiés</td>
+   <td>Planifié</td>
   </tr>
  </tbody>
 </table>
@@ -354,8 +354,8 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
@@ -376,8 +376,8 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
@@ -388,7 +388,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td>
    <td><img src="assets/not-configured-yet.png"></td>
-   <td>Not Configured Yet</td>
+   <td>Pas encore configuré</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-paused.png"></td>
@@ -396,9 +396,9 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
    <td>En pause</td>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>Planifiés</td>
+   <td>Planifié</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>
@@ -413,8 +413,8 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
@@ -440,24 +440,24 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
 <table>
  <tbody>
   <tr>
-   <th>Ancienne Icône</th>
-   <th> Icône Nouveau</th>
+   <th>Ancienne icône</th>
+   <th> Nouvelle icône</th>
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>Approuvé - en cours de calcul</td>
+   <td>Approuvé - En cours de calcul</td>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>Approuvé - en cours de recalcul</td>
+   <td>Approuvé - En cours de nouveau calcul</td>
   </tr>
   <tr>
-   <td><strong>S.O.</strong></td>
+   <td><strong>s/o</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
-   <td>Brouillon - en cours de calcul</td>
+   <td>Brouillon - En cours de calcul</td>
   </tr>
  </tbody>
 </table>

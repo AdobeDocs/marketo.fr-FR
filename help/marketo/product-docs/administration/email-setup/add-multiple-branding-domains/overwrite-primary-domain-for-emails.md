@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378051
 description: Remplacer le domaine de Principal pour les e-mails - Documents Marketo - Documentation du produit
-title: Remplacer le domaine de Principal pour les e-mails
+title: Remplacer le domaine principal pour les e-mails
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Remplacer le domaine de Principal pour les e-mails {#overwrite-primary-domain-for-emails}
+# Remplacer le domaine principal pour les e-mails {#overwrite-primary-domain-for-emails}
 
 Vous pouvez remplacer le domaine de marque principal par e-mail. Cela modifie la manière dont les liens sont marqués lors de l’envoi de l’e-mail.
 

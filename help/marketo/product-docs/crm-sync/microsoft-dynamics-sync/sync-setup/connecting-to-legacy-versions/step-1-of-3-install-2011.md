@@ -4,14 +4,14 @@ description: Étape 1 sur 3 - Installation de la solution Marketo (2011 On-Premi
 title: Étape 1 sur 3 - Installation de la solution Marketo (2011 On-Premise)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Étape 1 sur 3 : installation de la solution Marketo (2011 On-Premise) {#step-of-install-the-marketo-solution-on-premises}
+# Étape 1 sur 3 : installer la solution Marketo (2011 On-Premise) {#step-of-install-the-marketo-solution-on-premises}
 
 Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] On-Premise et Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics].
 

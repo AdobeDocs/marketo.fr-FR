@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14746184
 description: Carte d’historique de désabonnement - Documents Marketo - Documentation du produit
-title: Carte d’historique de désabonnement
+title: Vignette d’historique de désabonnement
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Carte d’historique de désabonnement {#unsubscribe-history-card}
+# Vignette d’historique de désabonnement {#unsubscribe-history-card}
 
 La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et aux utilisateurs d’obtenir des informations contextuelles sur l’historique de désabonnement de leurs contacts.
 
 >[!NOTE]
 >
->Pour y accéder, cliquez sur l’onglet [!UICONTROL Personnes] et sélectionnez une personne. Elle se trouve au bas de l’onglet [!UICONTROL &#x200B; À propos &#x200B;] dans la vue Détails de la personne (si elle est désabonnée).
+>Pour y accéder, cliquez sur l’onglet [!UICONTROL Personnes] et sélectionnez une personne. Elle se trouve au bas de l’onglet [!UICONTROL  À propos ] dans la vue Détails de la personne (si elle est désabonnée).
 
 ![](assets/1-1.jpg)
 

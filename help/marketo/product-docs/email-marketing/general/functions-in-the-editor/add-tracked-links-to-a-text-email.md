@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900589
 description: Ajout de liens suivis à un e-mail texte - Documents Marketo - Documentation du produit
-title: Ajout de liens suivis à un e-mail texte
+title: Ajouter des liens suivis à un e-mail texte
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Ajout de liens suivis à un e-mail texte {#add-tracked-links-to-a-text-email}
+# Ajouter des liens suivis à un e-mail texte {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15695924
 description: Classement et réglage du profil de compte - Documents Marketo - Documentation du produit
-title: Classement et réglage du profilage de compte
+title: Classement et réglage d’Account Profiling
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Classement et réglage du profilage de compte {#account-profiling-ranking-and-tuning}
+# Classement et réglage d’Account Profiling {#account-profiling-ranking-and-tuning}
 
 Le profilage de compte identifie votre profil client idéal, classe les sociétés de votre base de données en fonction du profil ICP et ajoute les données d&#39;indicateur ICP aux comptes promus en tant que [!UICONTROL comptes nommés].
 
@@ -158,7 +158,7 @@ Pointez sur les info-bulles pour obtenir une description de chaque colonne.
 
 ![](assets/tool-tip.png)
 
-Cliquez sur le menu déroulant [!UICONTROL &#x200B; Ajouter un indicateur ICP &#x200B;] pour insérer des indicateurs supplémentaires dans votre modèle.
+Cliquez sur le menu déroulant [!UICONTROL  Ajouter un indicateur ICP ] pour insérer des indicateurs supplémentaires dans votre modèle.
 
 ![](assets/add-icp.png)
 

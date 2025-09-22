@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783950
 description: Modèle 7D - Documents Marketo - Documentation Du Produit
-title: Modèle 7D
+title: Modèle 7D
 exl-id: 089bbf5e-5260-4190-ba66-520871d2d665
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Modèle 7D {#template-7d}
+# Modèle 7D {#template-7d}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=fr)
+[Modèle 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)

@@ -3,10 +3,10 @@ description: Synchronisation des désabonnements avec Salesforce - Documents Mar
 title: Synchronisation des désabonnements avec Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -91,7 +91,7 @@ L’Opt-out des e-mails est un champ standard dans [!DNL Salesforce] qui peut ê
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 

@@ -4,10 +4,10 @@ description: Activer les limites de communication - Documents Marketo - Document
 title: Activer les limites de communication
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
@@ -55,7 +55,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
    >
    >En savoir plus sur ce que sont les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/enable-communication-limits-7.png)
 

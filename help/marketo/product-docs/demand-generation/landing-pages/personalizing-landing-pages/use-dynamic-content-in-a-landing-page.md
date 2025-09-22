@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359532
 description: Utilisation de contenu dynamique dans une page de destination - Documents Marketo - Documentation du produit
-title: Utilisation de contenu dynamique dans une page de destination
+title: Utiliser du contenu dynamique dans une page de destination
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Utilisation de contenu dynamique dans une page de destination {#use-dynamic-content-in-a-landing-page}
+# Utiliser du contenu dynamique dans une page de destination {#use-dynamic-content-in-a-landing-page}
 
 >[!PREREQUISITES]
 >

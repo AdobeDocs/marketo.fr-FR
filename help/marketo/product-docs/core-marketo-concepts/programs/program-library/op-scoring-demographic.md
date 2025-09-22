@@ -1,16 +1,16 @@
 ---
 description: OP-Scoring-Demographic - Documents Marketo - Documentation du produit
-title: OP-Scoring-Demographic
+title: OP-Score-Démographique
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
-# OP-Scoring-Demographic {#op-scoring-demographic}
+# OP-Score-Démographique {#op-scoring-demographic}
 
 Il s’agit d’un exemple de programme opérationnel avancé (segmenté en unités lexicales) utilisant un programme par défaut de Marketo Engage pour la notation démographique. Affichez et modifiez les valeurs de notation sous l’onglet « Mes jetons » du programme. Nécessite un champ de score personnalisé appelé « Score démographique ».
 

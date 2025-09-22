@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099798
 description: Filtrage dans les informations d’e-mail - Documents Marketo - Documentation du produit
-title: Filtrage dans les informations d’e-mail
+title: Filtrage dans Email Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 

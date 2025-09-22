@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949160
 description: Intégration à Adobe Analytics - Documentation de Marketo - Documentation du produit
-title: Intégration à Adobe Analytics
+title: Intégrer à Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1059'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Intégration à Adobe Analytics {#integrate-with-adobe-analytics}
+# Intégrer à Adobe Analytics {#integrate-with-adobe-analytics}
 
 ## Introduction {#intro}
 
@@ -124,7 +124,7 @@ Sélectionnez le nombre [Variable de conversion](https://microsite.omniture.com/
 1. Sous **[!UICONTROL Analytics]**, cliquez sur **Adobe Analytics**.
 1. Activez **[!UICONTROL Activer]** le bouton (bascule) des variables Conversion, Personnalisé et Trafic .
 1. Attribuez les variables de conversion, d’événement et de trafic **numéros de slot** pour correspondre aux numéros de slot créés dans AA
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 

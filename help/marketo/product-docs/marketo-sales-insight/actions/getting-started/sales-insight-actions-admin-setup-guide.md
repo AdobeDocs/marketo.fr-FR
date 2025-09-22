@@ -1,16 +1,16 @@
 ---
 description: Guide de configuration des actions d’administration d’Insight Sales - Documents Marketo - Documentation du produit
-title: Guide de configuration de l’administrateur des actions Sales Insight
+title: Guide de configuration de l’administration pour Actions des informations sur les ventes
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Guide de configuration de l’administrateur des actions Sales Insight {#sales-insight-actions-admin-setup-guide}
+# Guide de configuration de l’administration pour Actions des informations sur les ventes {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 <table>
  <tr>
-  <th>Personne</th>
+  <th>Persona</th>
   <th>Étape</th>
  </tr>
  <tr>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512457
 description: Envoyer une notification push mobile - Documents Marketo - Documentation du produit
-title: Envoyer une notification push mobile
+title: Envoyer une notification push pour mobile
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 7%
+ht-degree: 23%
 
 ---
 
-# Envoyer une notification push mobile {#send-a-mobile-push-notification}
+# Envoyer une notification push pour mobile {#send-a-mobile-push-notification}
 
 Envoyer une notification push aux personnes qui utilisent votre application mobile.
 
@@ -44,7 +44,7 @@ Envoyer une notification push aux personnes qui utilisent votre application mobi
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Choisissez une date et une heure. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Choisissez une date et une heure. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

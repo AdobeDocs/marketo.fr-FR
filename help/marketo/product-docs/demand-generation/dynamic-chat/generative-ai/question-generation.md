@@ -3,10 +3,10 @@ description: Génération de questions - Documents Marketo - Documentation du pr
 title: Génération de questions
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718636
 description: Présentation de la zone d’analyse des coûts du programme - Documents Marketo - Documentation du produit
-title: Comprendre la zone d’analyse des coûts du programme
+title: Présentation de la zone d’analyse du coût du programme
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 22%
+ht-degree: 25%
 
 ---
 
-# Comprendre la zone d’analyse des coûts du programme {#understanding-the-program-cost-analysis-area}
+# Présentation de la zone d’analyse du coût du programme {#understanding-the-program-cost-analysis-area}
 
 La zone Analyse des coûts du programme vous permet d’analyser l’efficacité de programmes individuels ou d’afficher des résultats résumés par canal pour une période donnée.
 
@@ -83,9 +83,9 @@ Combien ai-je dépensé par programme et par mois ?
 
 | Dimension | Description |
 |---|---|
-| an | Échéancier des coûts du programme |
+| Year | Échéancier des coûts du programme |
 | Trimestre | Échéancier des coûts du programme |
-| Mois | Échéancier des coûts du programme |
+| Month | Échéancier des coûts du programme |
 
 ## Variables du programme {#program-tags}
 

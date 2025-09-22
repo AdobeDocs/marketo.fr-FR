@@ -1,16 +1,16 @@
 ---
 description: Routage - Documents Marketo - Documentation du produit
-title: Routage
+title: Transmission
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 2%
 
 ---
 
-# Routage {#routing}
+# Transmission {#routing}
 
 Les réunions réservées dans Dynamic Chat peuvent être acheminées de deux façons. Round-robin ou utilisation d’une règle personnalisée.
 

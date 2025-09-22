@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511931
 description: Envoi d’e-mails Marketo et d’actions de campagne et de watchlist dans Salesforce1 - Documents Marketo - Documentation du produit
-title: Envoi d’e-mails Marketo et d’actions de campagne et de watchlist dans Salesforce1
+title: Actions de campagne et de liste de suivi et action Envoyer un e-mail Marketo dans Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Cliquez sur le point (trois petits points). En bas, vous pouvez choisir entre : « [!UICONTROL Ajouter à Marketo Campaign &#x200B;] », « [!UICONTROL Envoyer un e-mail Marketo &#x200B;] », « [!UICONTROL Afficher dans Marketo &#x200B;] », « [!UICONTROL Ajouter à partir de la liste de contrôle &#x200B;] », « [!UICONTROL Supprimer de la liste de contrôle &#x200B;] ».
+1. Cliquez sur le point (trois petits points). En bas, vous pouvez choisir entre : « [!UICONTROL Ajouter à Marketo Campaign ] », « [!UICONTROL Envoyer un e-mail Marketo ] », « [!UICONTROL Afficher dans Marketo ] », « [!UICONTROL Ajouter à partir de la liste de contrôle ] », « [!UICONTROL Supprimer de la liste de contrôle ] ».
 
    ![](assets/two-1.png)
 

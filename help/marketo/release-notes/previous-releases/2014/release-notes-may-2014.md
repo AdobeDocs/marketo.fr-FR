@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Mai 2014 - Documents Marketo - Documentatio
 title: Notes De Mise À Jour - Mai 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Notes De Mise À Jour : Mai 2014 {#release-notes-may}
+# Notes de mise à jour : mai 2014 {#release-notes-may}
 
 Les fonctionnalités suivantes sont incluses dans la version de mai 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés de la base de connaissances pour chaque fonctionnalité.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385057
 description: Configurer des catégories - Documents Marketo - Documentation du produit
-title: Configurer des catégories
+title: Définir des catégories
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Configurer des catégories {#set-up-categories}
+# Définir des catégories {#set-up-categories}
 
 Créez des catégories dans Contenu prédictif pour regrouper vos résultats prédictifs sur le web ou par e-mail. Par exemple, vous ne pouvez travailler qu’avec des blogs ou avec du contenu dans une langue particulière. Il vous permet également de rechercher et de filtrer vos pages vues.  Les catégories sont affichées sur les pages [!UICONTROL Tout le contenu] et [!UICONTROL Contenu prédictif] pour une référence facile.
 

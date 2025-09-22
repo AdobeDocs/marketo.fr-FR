@@ -3,14 +3,14 @@ description: Document d’instance hérité Votre configuration - Documents Mark
 title: L’Instance Héritée Documente Votre Configuration
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Instance Héritée : Documentez Votre Configuration {#inherited-instance-document-your-setup}
+# Instance héritée : documenter votre configuration {#inherited-instance-document-your-setup}
 
 Maintenant que vous avez appris les principales zones de produit à auditer lors de l’héritage d’une instance établie, l’étape suivante consiste à créer/mettre à jour la documentation sur la configuration de votre instance et tech stack. Que vous le créiez par le biais d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre la progression et enregistrer les détails, ainsi que pour maintenir votre instance structurée et durable.
 

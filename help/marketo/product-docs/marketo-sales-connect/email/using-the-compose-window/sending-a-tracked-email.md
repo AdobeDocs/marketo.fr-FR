@@ -4,10 +4,10 @@ description: Envoi d’un e-mail suivi - Documents Marketo - Documentation du pr
 title: Envoi d’un e-mail suivi
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

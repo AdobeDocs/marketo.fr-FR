@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504922
 description: Types De Rapports De L’Explorateur De Revenus - Documents Marketo - Documentation Du Produit
-title: Types de rapports de l’explorateur de revenus
+title: Types de rapports de l’explorateur de revenu
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
-# Types de rapports de l’explorateur de revenus {#revenue-explorer-report-types}
+# Types de rapports de l’explorateur de revenu {#revenue-explorer-report-types}
 
 Voici les types de rapports que vous rencontrerez si vous utilisez Revenue Cycle Analytics.
 
@@ -24,7 +24,7 @@ Voici les types de rapports que vous rencontrerez si vous utilisez Revenue Cycle
  </thead>
  <tbody>
   <tr>
-   <td>Analyse de l'e-mail</td>
+   <td>Analyse d’e-mail</td>
    <td>Mesures et attributs liés à des e-mails spécifiques envoyés</td>
   </tr>
   <tr>

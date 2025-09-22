@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359916
-description: Modification de votre mot de passe Marketo - Documents Marketo - Documentation du produit
-title: Modification du mot de passe Marketo
+description: Modification De Votre Mot De Passe Marketo - Documents Marketo - Documentation Du Produit
+title: Modifier votre mot de passe Marketo
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Modification du mot de passe Marketo {#change-your-marketo-password}
+# Modifier votre mot de passe Marketo {#change-your-marketo-password}
 
-Modifiez votre mot de passe Marketo en procédant comme suit.
+Modifiez votre mot de passe Marketo en procédant simplement comme suit.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -33,4 +33,4 @@ Modifiez votre mot de passe Marketo en procédant comme suit.
 
    >[!NOTE]
    >
-   >Prenez note des exigences en matière de mot de passe lorsque vous effectuez la mise à jour.
+   >Tenez compte des exigences en matière de mot de passe lorsque vous effectuez la mise à jour.

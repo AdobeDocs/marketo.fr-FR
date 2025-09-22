@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360052
 description: Pages Web Vues, Rapport D’Activité Des Pages Web - Documents Marketo - Documentation Du Produit
-title: Pages Web Vues, Rapport D'Activité De La Page Web
+title: Pages web consultées, rapport d’activité de page web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Pages Web Vues, Rapport D&#39;Activité De La Page Web {#web-pages-viewed-web-page-activity-report}
+# Pages web consultées, rapport d’activité de page web {#web-pages-viewed-web-page-activity-report}
 
 Dans un rapport [[!UICONTROL Activité de la page web] ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), vous pouvez afficher les pages spécifiques qui ont été consultées par les personnes qui y figurent.
 

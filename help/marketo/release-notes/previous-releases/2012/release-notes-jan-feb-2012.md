@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Janvier/Février 2012 - Documents Marketo -
 title: Notes De Mise À Jour - Janvier/Février 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Notes De Mise À Jour : Janvier/Février 2012 {#release-notes-jan-feb}
+# Notes de mise à jour : janvier/février 2012 {#release-notes-jan-feb}
 
 Les fonctionnalités suivantes sont incluses dans la version de janvier/février. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo. Revenez après la publication pour obtenir des liens vers la documentation détaillée sur les fonctionnalités.
 

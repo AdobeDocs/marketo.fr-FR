@@ -1,16 +1,16 @@
 ---
 unique-page-id: 14352488
-description: Pourquoi ne puis-je pas supprimer un contact ? - Documents Marketo - Documentation du produit
-title: Pourquoi ne puis-je pas supprimer un contact ?
+description: Pourquoi ne puis-je pas supprimer un contact ? - Documents Marketo - Documentation sur le produit
+title: Pourquoi ne puis-je pas supprimer un contact ?
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Pourquoi ne puis-je pas supprimer un contact ? {#why-cant-i-delete-a-contact}
+# Pourquoi ne puis-je pas supprimer un contact ? {#why-cant-i-delete-a-contact}
 
-Si un contact fait partie d’une campagne ou si un membre de l’équipe est propriétaire d’un contact, vous ne pourrez pas le supprimer. S’ils font partie d’une campagne, supprimez-les de la campagne, puis supprimez le contact. Si un membre de l’équipe les possède, il devra annuler le partage du groupe dans lequel se trouve le contact ou supprimer le contact de son compte.
+Si un contact se trouve dans une campagne ou s&#39;il appartient à une autre personne de l&#39;équipe, vous ne pourrez pas le supprimer. S’ils font partie d’une campagne, supprimez-les de la campagne, puis supprimez le contact. S’ils appartiennent à un membre de l’équipe, il devra annuler le partage du groupe dans lequel se trouve le contact ou supprimer le contact de son compte.

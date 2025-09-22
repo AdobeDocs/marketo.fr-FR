@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7516607
-description: Vérification des compétences principales - Documents Marketo - Documentation du produit
-title: Examen des compétences principales
+description: Révision Des Compétences De Base - Documents Marketo - Documentation Du Produit
+title: Vérification des compétences de base
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Examen des compétences principales {#reviewing-core-skills}
+# Vérification des compétences de base {#reviewing-core-skills}
 
-Vous avez besoin de combler quelques lacunes dans votre savoir-faire en matière d’automatisation marketing ?
+Vous avez besoin de combler certaines lacunes dans votre savoir-faire en automatisation du marketing ?
 
 Si vous avez peu de temps pour vous familiariser avec les compétences de base, voici ce que nous vous recommandons :
 
-![Créer un programme d’e-mail](assets/reviewing-core-skills-1.png) [**Créer un programme d’e-mail**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
+![Créer un programme de messagerie](assets/reviewing-core-skills-1.png) [**Créer un programme de messagerie**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 
 <p>
 
@@ -25,7 +25,7 @@ Si vous avez peu de temps pour vous familiariser avec les compétences de base, 
 
 <p>
 
-![Modifier du texte dans un email](assets/reviewing-core-skills-3.png) [**Modifier du texte dans un email**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
+![Modifier le texte dans un e-mail](assets/reviewing-core-skills-3.png) [**Modifier le texte dans un e-mail**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
 
 <p>
 

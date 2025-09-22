@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Automne 18 - Documents Marketo - Documentat
 title: Notes De Mise À Jour - Automne 18
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '820'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Notes De Mise À Jour : Automne 18 {#release-notes-fall}
+# Notes de mise à jour : automne 2018 {#release-notes-fall}
 
 Les fonctionnalités suivantes sont incluses dans la version de l’automne 18. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
@@ -58,7 +58,7 @@ Pour plus d’informations et de mises à jour, consultez nos [[!DNL Sky]  notes
 * **Les programmes par défaut sont désormais disponibles dans Marketo[!DNL Sky]** : Marketo [!DNL Sky] prend désormais en charge les programmes par défaut, le style de programme polyvalent qui vous permet de créer n’importe quelle campagne que vous pouvez imaginer.
 * **Programmes de messagerie - Phase 1** : vous pouvez désormais afficher les programmes de messagerie dans [!DNL Sky]. Jetez un œil au nouveau design et [dites-nous ce que vous en pensez](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
-## Analytics {#analytics}
+## Analyse {#analytics}
 
 **[!DNL Bizible]**
 

@@ -4,7 +4,7 @@ description: Ajouter du nouveau contenu - Documents Marketo - Documentation du p
 title: Ajouter un nouveau contenu
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 9%

@@ -4,7 +4,7 @@ description: Modifier la réussite du programme - Documents Marketo - Documentat
 title: Modifier les succès du programme
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%

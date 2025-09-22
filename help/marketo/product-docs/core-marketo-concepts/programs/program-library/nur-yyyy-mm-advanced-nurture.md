@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Advanced Nurture - Documents Marketo - Documentation du produit
-title: NUR-AAAA-MM-Avancé
+title: NUR-AAAA-MM-Fidélisation avancée
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# NUR-AAAA-MM-Avancé {#nur-yyyy-mm-advanced-nurture}
+# NUR-AAAA-MM-Fidélisation avancée {#nur-yyyy-mm-advanced-nurture}
 
 Il s’agit d’un exemple de programmes de formation avancés utilisant le programme d’engagement Marketo Engage. Les programmes d’e-mail imbriqués empêchent les personnes de recevoir du contenu qu’elles ont déjà consommé ou contrôlent le type de contenu qu’elles doivent consommer dans chaque flux. Les rapports d’attribution peuvent être exécutés pour chaque programme d’e-mail imbriqué individuel. Canaux : un canal « Cultiver » et un canal « Cultiver l’e-mail » dédié pour les programmes d’e-mail imbriqués envoient un e-mail de newsletter à l’aide d’un programme d’e-mail Marketo Engage. L’e-mail peut inclure ou non un test A/B.
 
@@ -70,17 +70,17 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>01 - E-mail (actif dans les programmes imbriqués)</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>02 - E-mail (actif dans les programmes imbriqués)</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>03 - E-mail (actif dans les programmes imbriqués)</td>
   </tr>
   <tr>

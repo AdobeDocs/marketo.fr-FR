@@ -4,10 +4,10 @@ description: Configuration des conversions hors ligne Facebook - Documents Marke
 title: Configurer les conversions hors ligne Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -46,7 +46,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 

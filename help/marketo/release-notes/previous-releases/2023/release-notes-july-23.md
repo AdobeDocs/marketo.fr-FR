@@ -3,24 +3,24 @@ description: Notes De Mise À Jour - Juillet 2023 - Documents Marketo - Document
 title: Notes de mise à jour - Juillet 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 10%
+ht-degree: 22%
 
 ---
 
-# Notes De Mise À Jour : Juillet 2023 {#release-notes-july-23}
+# Notes de mise à jour : juillet 2023 {#release-notes-july-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 juillet. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 juillet. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **21 juillet 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 21 juillet 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
 </br>
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Aperçu de la carte de l’engagement</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Vue d’ensemble de la carte d’engagement</a></td>
   </tr>
   </tbody>
 </table>
@@ -47,7 +47,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -56,7 +56,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à différentes dates avant ou après la date de publication standard. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
-### Dynamic Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
@@ -69,7 +69,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -83,12 +83,12 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
 
-### Marketo Sales Insight {#marketo-sales-insight}
+### Informations sur les ventes Marketo {#marketo-sales-insight}
 
 </br>
 
@@ -101,7 +101,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Paramètre de message de désabonnement d’ajout automatique</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Paramètre d’ajout automatique du message de désabonnement</a></td>
   </tr>
   </tbody>
 </table>
@@ -115,7 +115,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Invites de champ</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Prompts de champs</a></td>
   </tr>
   </tbody>
 </table>
@@ -142,8 +142,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   </tbody>
 </table>
@@ -156,8 +156,8 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   </tbody>
 </table>

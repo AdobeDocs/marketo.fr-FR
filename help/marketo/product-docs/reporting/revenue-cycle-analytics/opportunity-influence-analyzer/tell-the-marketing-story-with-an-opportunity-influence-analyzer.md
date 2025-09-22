@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360237
 description: Racontez l’histoire marketing avec un analyseur d’influence d’opportunité - Documents Marketo - Documentation du produit
-title: Raconter l’histoire marketing avec un analyseur d’influence d’opportunité
+title: Raconter la story marketing avec un analyseur d’influence d’opportunité
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

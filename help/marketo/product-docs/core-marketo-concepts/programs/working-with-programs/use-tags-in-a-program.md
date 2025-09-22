@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147150
 description: Utilisation de balises dans un programme - Documents Marketo - Documentation du produit
-title: Utilisation de balises dans un programme
+title: Utiliser des balises dans un programme
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
-# Utilisation de balises dans un programme {#use-tags-in-a-program}
+# Utiliser des balises dans un programme {#use-tags-in-a-program}
 
 Les balises sont des attributs qui décrivent vos programmes et sont utilisés pour regrouper les types de programmes dans les rapports.
 
@@ -33,7 +33,7 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -51,7 +51,7 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/use-tags-in-a-program-8.png)
 

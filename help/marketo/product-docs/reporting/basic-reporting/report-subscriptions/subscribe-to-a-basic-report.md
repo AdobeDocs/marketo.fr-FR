@@ -4,10 +4,10 @@ description: Abonnement à un rapport de base - Documents Marketo - Documentatio
 title: S’abonner à un rapport de base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 

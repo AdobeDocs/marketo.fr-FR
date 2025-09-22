@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: Jetons De Champ Personnalisés De Membre De Programme - Documents Marketo - Documentation Du Produit
-title: Jetons de champ personnalisé du membre de programme
+title: Jetons de champs personnalisés de personnes membres du programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Jetons de champ personnalisé du membre de programme {#program-member-custom-field-tokens}
+# Jetons de champs personnalisés de personnes membres du programme {#program-member-custom-field-tokens}
 
 ## Prise en charge des jetons pour les champs personnalisés des membres de programme {#token-support-for-program-member-custom-fields}
 
@@ -45,7 +45,7 @@ Vous pouvez insérer des jetons de champs personnalisés de membre de programme 
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -79,7 +79,7 @@ Vous pouvez insérer des jetons de champs personnalisés de membre de programme 
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -133,6 +133,6 @@ Les jetons de champ personnalisé de membre de programme peuvent être utilisés
 
 * Créer une tâche
 * Créer une tâche dans Microsoft
-* Moments significatifs
+* Moments intéressants
 * Actions de flux Modifier la valeur de données
 * Webhooks

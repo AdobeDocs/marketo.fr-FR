@@ -4,10 +4,10 @@ description: Ajouter un formulaire à une page de destination guidée - Document
 title: Ajouter un formulaire à une page de destination guidée
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
@@ -49,7 +49,7 @@ Formulaire, page de destination. Page de destination, formulaire de correspondan
    >
    >La page de suivi est la page que les personnes verront après avoir envoyé le formulaire.
 
-1. Dans cet exemple, nous utiliserons [!UICONTROL &#x200B; Formulaire défini &#x200B;]. Cliquez sur **[!UICONTROL Insérer]**.
+1. Dans cet exemple, nous utiliserons [!UICONTROL  Formulaire défini ]. Cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

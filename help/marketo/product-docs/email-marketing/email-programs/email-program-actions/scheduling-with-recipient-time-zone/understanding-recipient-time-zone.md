@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983291
 description: Présentation Du Fuseau Horaire Des Destinataires - Documents Marketo - Documentation Du Produit
-title: Compréhension du fuseau horaire du destinataire
+title: Présentation du fuseau horaire de la personne destinataire
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Compréhension du fuseau horaire du destinataire {#understanding-recipient-time-zone}
+# Présentation du fuseau horaire de la personne destinataire {#understanding-recipient-time-zone}
 
 Les programmes d’e-mail et d’engagement peuvent être configurés pour diffuser en fonction des fuseaux horaires des destinataires, ce qui élimine la nécessité de créer plusieurs programmes, à envoyer une seule fois, et Marketo retient automatiquement l’e-mail jusqu’à l’heure locale appropriée.
 

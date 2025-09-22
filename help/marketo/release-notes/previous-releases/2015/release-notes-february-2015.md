@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Février 2015 - Documents Marketo - Documen
 title: Notes De Mise À Jour - Février 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 
-# Notes De Mise À Jour : Février 2015 {#release-notes-february}
+# Notes de mise à jour : février 2015 {#release-notes-february}
 
 Les fonctionnalités suivantes sont incluses dans la version de février 2015. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité. Rouleau de tambour...
 

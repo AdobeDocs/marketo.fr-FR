@@ -1,15 +1,15 @@
 ---
 description: Présentation de la carte de l’engagement - Documents Marketo - Documentation du produit
-title: Aperçu de la carte de l’engagement
+title: Vue d’ensemble de la carte d’engagement
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '742'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Aperçu de la carte de l’engagement {#engagement-map-overview}
+# Vue d’ensemble de la carte d’engagement {#engagement-map-overview}
 
 La carte de l’engagement vous permet de visualiser intuitivement vos campagnes intelligentes. Il offre une rétrocompatibilité totale avec toutes les campagnes intelligentes Marketo Engage existantes, sans perte des fonctionnalités actuelles.
 

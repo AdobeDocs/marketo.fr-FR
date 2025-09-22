@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719396
 description: Rechercher des campagnes web qui utilisent un segment spécifique - Documents Marketo - Documentation du produit
-title: Rechercher les campagnes web qui utilisent un segment spécifique
+title: Rechercher les campagnes web utilisant un segment spécifique
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 3%
+ht-degree: 23%
 
 ---
 
-# Rechercher les campagnes web qui utilisent un segment spécifique {#find-web-campaigns-that-are-using-a-specific-segment}
+# Rechercher les campagnes web utilisant un segment spécifique {#find-web-campaigns-that-are-using-a-specific-segment}
 
 Vous recherchez des campagnes web qui utilisent un segment spécifique ?
 

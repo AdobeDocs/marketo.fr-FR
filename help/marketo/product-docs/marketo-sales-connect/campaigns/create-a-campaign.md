@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352618
 description: Création d’une campagne - Documents Marketo - Documentation du produit
-title: Création d’une campagne
+title: Créer une campagne
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 2%
 
 ---
 
-# Création d’une campagne {#create-a-campaign}
+# Créer une campagne {#create-a-campaign}
 
 Les campagnes sont une série d’étapes multicanaux, notamment : e-mails, appels téléphoniques, InMail et tâches personnalisées. Ils vous permettent de rationaliser vos communications avec vos clients potentiels et existants.
 

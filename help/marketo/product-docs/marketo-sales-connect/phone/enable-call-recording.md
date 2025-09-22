@@ -4,10 +4,10 @@ description: Activer l’enregistrement d’appels - Documents Marketo - Documen
 title: Activer l’enregistrement des appels
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

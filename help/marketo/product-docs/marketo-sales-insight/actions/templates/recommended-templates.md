@@ -3,10 +3,10 @@ description: Modèles Recommandés - Documents Marketo - Documentation Du Produi
 title: Modèles recommandés
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ Les modèles recommandés par [!DNL Sales Insight Action] vous aident à obtenir
 
    ![](assets/recommended-templates-2.png)
 
-1. Dans la vignette [!UICONTROL &#x200B; Modèle recommandé &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
+1. Dans la vignette [!UICONTROL  Modèle recommandé ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/recommended-templates-3.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359810
 description: Activer des URL personnalisées pour votre compte - Documents Marketo - Documentation du produit
-title: Activation des URL personnalisées pour votre compte
+title: Activer les URL personnalisées pour votre compte
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 4%
+ht-degree: 16%
 
 ---
 
-# Activation des URL personnalisées pour votre compte {#enable-personalized-urls-for-your-account}
+# Activer les URL personnalisées pour votre compte {#enable-personalized-urls-for-your-account}
 
 Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 

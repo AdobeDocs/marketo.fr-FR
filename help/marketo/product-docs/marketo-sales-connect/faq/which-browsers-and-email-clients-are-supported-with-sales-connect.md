@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352422
-description: Quels navigateurs et clients de messagerie sont pris en charge avec Sales Connect ? - Documents Marketo - Documentation Du Produit
-title: Quels navigateurs et clients de messagerie sont pris en charge avec Sales Connect ?
+description: Quels navigateurs et clients de messagerie sont pris en charge avec Sales Connect ? - Documents Marketo - Documentation sur le produit
+title: Quels navigateurs et clients de messagerie sont pris en charge par Sales Connect ?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 10%
+ht-degree: 34%
 
 ---
 
-# Quels navigateurs et clients de messagerie sont pris en charge avec Sales Connect ? {#which-browsers-and-email-clients-are-supported-with-sales-connect}
+# Quels navigateurs et clients de messagerie sont pris en charge par Sales Connect ? {#which-browsers-and-email-clients-are-supported-with-sales-connect}
 
 Marketo Sales Connect prend actuellement en charge les navigateurs suivants :
 

@@ -1,16 +1,16 @@
 ---
-description: Quels Navigateurs Les Actions De Sales Insight Prennent-Elles En Charge ? - Documents Marketo - Documentation Du Produit
-title: Quels Navigateurs Les Actions De Sales Insight Prennent-Elles En Charge ?
+description: Quels Navigateurs Les Actions De Sales Insight Prennent-Elles En Charge ? - Documents Marketo - Documentation sur le produit
+title: Quels navigateurs sont pris en charge par Actions des informations sur les ventes ?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 8%
+ht-degree: 37%
 
 ---
 
-# Quels Navigateurs Les Actions De Sales Insight Prennent-Elles En Charge ? {#which-browsers-does-sales-insight-actions-support}
+# Quels navigateurs sont pris en charge par Actions des informations sur les ventes ? {#which-browsers-does-sales-insight-actions-support}
 
 Les actions Marketo Sales Insight prennent actuellement en charge les navigateurs suivants.
 

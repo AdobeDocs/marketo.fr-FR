@@ -3,10 +3,10 @@ description: Ajouter une pièce jointe ou du contenu pouvant être suivi à votr
 title: Ajouter une pièce jointe ou du contenu pouvant être suivi à votre e-mail
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

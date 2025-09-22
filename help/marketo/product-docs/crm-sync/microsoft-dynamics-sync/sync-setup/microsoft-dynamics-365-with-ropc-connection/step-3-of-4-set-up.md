@@ -3,7 +3,7 @@ description: Étape 3 sur 4 - Configuration de l’application cliente sur MS [!
 title: Étape 3 sur 4 - Configurer l’application cliente sur MS [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%

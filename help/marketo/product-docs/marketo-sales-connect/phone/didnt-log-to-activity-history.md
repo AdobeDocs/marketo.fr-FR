@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352489
 description: Ne pas se connecter à l’historique des activités - Documents Marketo - Documentation du produit
-title: Ne s’est pas connecté à l’historique des activités
+title: N’a pas été consigné dans l’historique des activités.
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Ne s’est pas connecté à l’historique des activités {#didnt-log-to-activity-history}
+# N’a pas été consigné dans l’historique des activités. {#didnt-log-to-activity-history}
 
 Si vous ne voyez pas le journal de vos appels à [!DNL Salesforce], c’est peut-être parce que nous ne parvenons pas à localiser un lead/contact dans [!DNL Salesforce].
 

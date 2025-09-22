@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352543
-description: Emplacement de destinataire incorrect - Documents Marketo - Documentation du produit
-title: Emplacement de destinataire incorrect
+description: Emplacement De Destinataire Incorrect - Documents Marketo - Documentation Du Produit
+title: Emplacement de la personne destinataire incorrect
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Emplacement de destinataire incorrect {#incorrect-recipient-location}
+# Emplacement de la personne destinataire incorrect {#incorrect-recipient-location}
 
-Si l&#39;emplacement de vos destinataires n&#39;est pas correct, voici trois possibilités :
+Si nous avons mal indiqué l’emplacement pour vos destinataires, voici trois possibilités pour ce qui a pu se produire :
 
-- Si votre destinataire a été connecté au réseau sans fil d’une entreprise qui a son siège informatique dans une autre ville ou un autre pays, nous consignerions cet emplacement au lieu de sa langue actuelle.
+- Si votre destinataire était connecté au réseau sans fil d&#39;une entreprise dont le siège social informatique se trouve dans une autre ville ou un autre pays, nous enregistrerions cet emplacement plutôt que leur emplacement actuel.
 
-- Si votre email a été transféré ou ouvert par une personne dans le champ CC ou Cci, nous essayons d&#39;afficher précisément l&#39;emplacement de ces personnes.
+- Si votre e-mail a été transféré ou ouvert par une personne dans le champ CC ou Cci, nous essayons d&#39;afficher avec précision l&#39;emplacement de ces personnes.
 
-Dans l’ensemble, nous allons déterminer les emplacements aussi précisément que possible en fonction du suivi des adresses IP, mais ce n’est malheureusement pas une science exacte.
+Dans l&#39;ensemble, nous déterminerons les emplacements aussi précisément que possible en fonction du suivi IP, mais malheureusement, ce n&#39;est pas une science exacte.

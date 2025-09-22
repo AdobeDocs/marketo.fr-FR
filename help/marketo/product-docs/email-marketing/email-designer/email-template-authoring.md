@@ -4,7 +4,7 @@ title: Modèles d’e-mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1838'
 ht-degree: 4%
@@ -242,7 +242,7 @@ Les jetons fonctionnent dans le nouvel éditeur de la même manière que dans l�
 
    ![](assets/personalize-content-4.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **Enregistrer**
 
 ### Modifier le tracking des URL {#edit-url-tracking}
 

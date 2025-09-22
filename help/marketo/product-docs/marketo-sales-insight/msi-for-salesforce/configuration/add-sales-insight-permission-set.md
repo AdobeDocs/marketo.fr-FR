@@ -1,12 +1,12 @@
 ---
 description: Ajout D’Un Jeu D’Autorisations Sales Insight - Documents Marketo - Documentation Du Produit
-title: Ajout d’un jeu d’autorisations Sales Insight
+title: Ajouter un jeu d’autorisations d’Informations sur les ventes
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -101,7 +101,7 @@ L’autorisation « Application Marketo » fait partie du package [!DNL Sales In
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Sélectionnez **[!UICONTROL Accès à l&#39;application Marketo]** parmi les jeux d&#39;autorisations disponibles, puis **[!UICONTROL Ajouter]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **[!UICONTROL Accès à l&#39;application Marketo]** parmi les jeux d&#39;autorisations disponibles, puis **[!UICONTROL Ajouter]**. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

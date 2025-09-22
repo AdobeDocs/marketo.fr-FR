@@ -3,10 +3,10 @@ description: Glossaire des activités commerciales - Documents Marketo - Documen
 title: Glossaire des activités de vente
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -44,7 +44,7 @@ Les activités ci-dessous seront consignées dans le Marketo à partir de [!DNL 
   <td>URL [!UICONTROL Sales Campaign]</td>
  </tr>
  <tr>
-  <td>Nom du modèle de vente </td>
+  <td>Nom du modèle de vente [!UICONTROL]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Email Subject]</td>

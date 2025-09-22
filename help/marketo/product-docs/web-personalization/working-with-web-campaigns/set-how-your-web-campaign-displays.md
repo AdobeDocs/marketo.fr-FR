@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978906
 description: Définir L’Affichage De Votre Campagne Web - Documents Marketo - Documentation Du Produit
-title: Définir L’Affichage De Votre Campagne Web
+title: Définir l’affichage de votre campagne web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Définir L’Affichage De Votre Campagne Web {#set-how-your-web-campaign-displays}
+# Définir l’affichage de votre campagne web {#set-how-your-web-campaign-displays}
 
 Il existe plusieurs méthodes à utiliser pour déterminer quand et comment votre campagne web s’affiche.
 

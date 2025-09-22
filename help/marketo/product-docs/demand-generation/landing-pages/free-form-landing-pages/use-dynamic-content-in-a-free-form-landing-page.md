@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359732
 description: Utilisation de contenu dynamique dans une page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Utilisation de contenu dynamique dans une page de destination de forme libre
+title: Utiliser du contenu dynamique dans une page de destination à structure libre
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Utilisation de contenu dynamique dans une page de destination de forme libre {#use-dynamic-content-in-a-free-form-landing-page}
+# Utiliser du contenu dynamique dans une page de destination à structure libre {#use-dynamic-content-in-a-free-form-landing-page}
 
 L’utilisation de contenu dynamique dans les pages de destination interagit avec votre audience avec des informations ciblées.
 

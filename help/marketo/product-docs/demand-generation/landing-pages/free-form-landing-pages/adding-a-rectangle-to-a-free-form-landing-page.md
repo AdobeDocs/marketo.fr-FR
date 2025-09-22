@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359707
 description: Ajout d’un rectangle à une page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Ajout d’un rectangle à une page de destination de forme libre
+title: Ajouter un rectangle à une page de destination à structure libre
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Ajout d’un rectangle à une page de destination de forme libre {#adding-a-rectangle-to-a-free-form-landing-page}
+# Ajouter un rectangle à une page de destination à structure libre {#adding-a-rectangle-to-a-free-form-landing-page}
 
 Les rectangles des pages de destination sont parfaits pour mettre en surbrillance une zone du texte.
 

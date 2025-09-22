@@ -3,26 +3,26 @@ description: Notes De Mise À Jour - Avril 2024 - Documents Marketo - Documentat
 title: Notes de mise à jour - Avril 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 9%
+ht-degree: 31%
 
 ---
 
-# Notes De Mise À Jour : Avril 2024 {#release-notes-apr-24}
+# Notes de mise à jour : avril 2024 {#release-notes-apr-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d&#39;avril 2024. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d&#39;avril 2024. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
-Les notes de mise à jour spécifiques à Adobe Dynamic Chat [sont disponibles ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **26 avril 2024** avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 26 avril 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -45,8 +45,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
     <tr>
    <td><strong>Améliorations du journal d'audit</strong> :
    De nouveaux types d’actions peuvent désormais être capturés dans le journal d’audit pour les modifications apportées à la gestion des champs, aux modifications apportées aux utilisateurs et aux rôles, ainsi qu’au nombre de personnes exportées à partir de listes et de listes dynamiques.</td>
-   <td><i>Disponible bientôt</i></td>
-   <td><i>Disponible bientôt</i></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -67,7 +67,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <li>Exporter l'activité de campagne</li>
    </td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions des autorisations de rôle</a></td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions des autorisations de rôles</a></td>
   </tr>
  </tbody>
 </table>

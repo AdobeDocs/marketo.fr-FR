@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11371040
 description: Syntaxe Du Modèle D’E-Mail - Documents Marketo - Documentation Du Produit
-title: Syntaxe du modèle d'e-mail
+title: Syntaxe du modèle d’e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 2%
 
 ---
 
-# Syntaxe du modèle d&#39;e-mail {#email-template-syntax}
+# Syntaxe du modèle d’e-mail {#email-template-syntax}
 
 Dans la nouvelle expérience Marketo Email 2.0, les modèles d’e-mail sont composés de n’importe quelle combinaison d’éléments, de variables, de modules ou de conteneurs. Chaque est défini en ajoutant une syntaxe spécifique à Marketo à votre HTML. Les anciens modèles d’e-mail (v1.0) sont pris en charge dans l’éditeur d’e-mail 2.0. Cependant, ils n’incluront pas toutes les fonctionnalités du nouvel éditeur.
 

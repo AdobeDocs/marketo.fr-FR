@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372299
 description: Présentation de l’éditeur d’e-mail v2.0 - Documents Marketo - Documentation du produit
-title: Présentation de l’éditeur d’e-mail v2.0
+title: Vue d’ensemble de l’éditeur d’e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Présentation de l’éditeur d’e-mail v2.0 {#email-editor-v2-overview}
+# Vue d’ensemble de l’éditeur d’e-mail v2.0 {#email-editor-v2-overview}
 
 Lorsque vous décidez d&#39;activer le [!DNL Email Editor v2.0], vous remarquerez plusieurs nouvelles fonctionnalités.
 

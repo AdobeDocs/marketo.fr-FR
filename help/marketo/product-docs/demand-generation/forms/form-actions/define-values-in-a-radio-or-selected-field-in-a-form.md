@@ -4,16 +4,16 @@ description: Définition de valeurs dans une case d’option ou un champ sélect
 title: Définir des valeurs dans une case d’option ou un champ sélectionné dans un formulaire
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
 # Définir des valeurs dans une case d’option ou un champ sélectionné dans un formulaire {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) pour être un bouton radio ou un type de sélection, vous devez définir les valeurs que l’utilisateur peut sélectionner. Voici comment procéder.
+Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) pour être un bouton radio ou un type de sélection, vous devez définir les valeurs que l’utilisateur peut sélectionner. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

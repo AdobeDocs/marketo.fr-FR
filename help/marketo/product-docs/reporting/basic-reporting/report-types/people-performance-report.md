@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360014
 description: Rapport sur les performances des personnes - Documents Marketo - Documentation du produit
-title: Rapport sur les performances des personnes
+title: Rapport de performances des personnes
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Rapport sur les performances des personnes {#people-performance-report}
+# Rapport de performances des personnes {#people-performance-report}
 
 Utilisez un rapport [!UICONTROL Performances des personnes] pour mesurer la croissance de la base de données au fil du temps. Vous pouvez voir combien de personnes vous avez ajoutées et quand. Apprenez-en plus sur les gens et évaluez vos programmes. Regroupez les résultats par attribut de personne ou d’entreprise, ou par [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
@@ -19,7 +19,7 @@ Utilisez un rapport [!UICONTROL Performances des personnes] pour mesurer la croi
 
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) puis cliquez sur l’onglet **[!UICONTROL Rapport]**.
 
-1. Fantastique ! Vous êtes maintenant prêt à explorer votre rapport [!UICONTROL &#x200B; Performances des personnes &#x200B;]. Découvrez comment en tirer le meilleur parti dans la liste ci-dessous.
+1. Fantastique ! Vous êtes maintenant prêt à explorer votre rapport [!UICONTROL  Performances des personnes ]. Découvrez comment en tirer le meilleur parti dans la liste ci-dessous.
 
    >[!NOTE]
    >

@@ -3,24 +3,24 @@ description: Notes De Mise À Jour - Mars 2024 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 4%
+ht-degree: 30%
 
 ---
 
-# Notes De Mise À Jour : Mars 2024 {#release-notes-mar-24}
+# Notes de mise à jour : mars 2024 {#release-notes-mar-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2024. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2024. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **mars 2024** avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 8 mars 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Logique de flux de conversation avancée</strong> : ajoutez des champs supplémentaires pour l’évaluation dans un seul choix pour le suivi du flux de conversation.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux de conversation pour Marketo Engage Forms</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux conversationnel pour Marketo Engage Forms</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -43,7 +43,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
     <tr>
    <td><strong>Réorganiser la logique de flux de conversation</strong> : dans Marketo Engage Forms, vous pouvez désormais réorganiser les choix de flux de conversation, au lieu d’avoir à les supprimer et à les rajouter.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux de conversation pour Marketo Engage Forms</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux conversationnel pour Marketo Engage Forms</a></td>
    </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Métadonnées d’activité de l’API</strong> :
    Les métadonnées telles que l’agent utilisateur, la plateforme et l’appareil sont désormais incluses dans les activités web et de messagerie électronique, ce qui permet de fournir des informations cohérentes sur ces activités via l’API REST Marketo.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
  </tbody>
 </table>

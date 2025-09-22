@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Mars 2013 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Notes De Mise À Jour : Mars 2013 {#release-notes-march}
+# Notes de mise à jour : mars 2013 {#release-notes-march}
 
 Les fonctionnalités suivantes sont incluses dans la version de mars.
 
@@ -35,7 +35,7 @@ Un tirage au sort donne à vos prospects la chance de gagner un prix et de parle
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Formulaire supplémentaire [!UICONTROL &#x200B; Message d’erreur &#x200B;] Langues {#additional-form-error-message-languages}
+## Formulaire supplémentaire [!UICONTROL  Message d’erreur ] Langues {#additional-form-error-message-languages}
 
 Plus d’une douzaine de langues ont été ajoutées aux messages d’erreur du formulaire.
 

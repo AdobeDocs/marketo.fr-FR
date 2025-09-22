@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951252
 description: Trier les campagnes web par dernières ou meilleures performances - Documents Marketo - Documentation du produit
-title: Trier les campagnes web par dernières ou meilleures performances
+title: Trier les campagnes web par date ou par performance
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Trier les campagnes web par dernières ou meilleures performances {#sort-web-campaigns-by-latest-or-top-performing}
+# Trier les campagnes web par date ou par performance {#sort-web-campaigns-by-latest-or-top-performing}
 
 Vous pouvez trier vos campagnes web de plusieurs manières différentes.
 

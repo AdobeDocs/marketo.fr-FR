@@ -4,14 +4,14 @@ description: Synchronisation de SFDC - Synchronisation d’objet personnalisé -
 title: Synchronisation de SFDC - Synchronisation d’objet personnalisé
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Synchronisation de SFDC : synchronisation d’objet personnalisé {#sfdc-sync-custom-object-sync}
+# Synchronisation SFDC : synchronisation d’objet personnalisé {#sfdc-sync-custom-object-sync}
 
 Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent également faire partie de Marketo.  Voici comment le configurer.
 

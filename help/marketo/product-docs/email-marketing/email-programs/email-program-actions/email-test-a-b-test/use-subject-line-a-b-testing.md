@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359494
 description: Utiliser Les Tests A/B « Ligne D’Objet » - Documents Marketo - Documentation Du Produit
-title: Utiliser Le Test A/B « Ligne D’Objet »
+title: Utiliser le test A/B « ligne d’objet »
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Utiliser Le Test A/B « Ligne D’Objet » {#use-subject-line-a-b-testing}
+# Utiliser le test A/B « ligne d’objet » {#use-subject-line-a-b-testing}
 
 Vous pouvez facilement tester A/B vos e-mails. L’un des tests les plus courants est le test **[!UICONTROL Objet]**.
 

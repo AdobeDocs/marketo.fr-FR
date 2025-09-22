@@ -1,16 +1,16 @@
 ---
 description: Configuration du suivi de domaine personnalisé - Documents Marketo - Documentation du produit
-title: Configuration du suivi de domaine personnalisé
+title: Comment configurer le suivi de domaine personnalisé
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Configuration du suivi de domaine personnalisé {#how-to-set-up-custom-domain-tracking}
+# Comment configurer le suivi de domaine personnalisé {#how-to-set-up-custom-domain-tracking}
 
 Le suivi de domaine personnalisé permet à votre équipe d’utiliser le nom de votre société dans tous les liens trackables ajoutés à vos e-mails de vente. Une fois cette configuration effectuée, nous placerons sur la liste autorisée tout lien présent dans votre e-mail pour qu’il apparaisse sous la forme go.yourcompany.com, de sorte que lorsqu’une personne survole un lien, il indique go.yourcompany.com au lieu de go.toutapp.com.
 

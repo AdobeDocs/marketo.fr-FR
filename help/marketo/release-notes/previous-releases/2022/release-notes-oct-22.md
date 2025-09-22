@@ -3,24 +3,24 @@ description: Notes De Mise À Jour - Octobre 2022 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 10%
+ht-degree: 23%
 
 ---
 
-# Notes De Mise À Jour : Octobre 2022 {#release-notes-oct-22}
+# Notes de mise à jour : octobre 2022 {#release-notes-oct-22}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 22 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **14 octobre 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 14 octobre 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
 ### Environnement de données marketing {#marketing-data-environment}
 
@@ -35,7 +35,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisation des champs personnalisés des membres du programme</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisation des champs personnalisés des personnes membres du programme</a></td>
   </tr>
   </tbody>
 </table>
@@ -61,7 +61,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
    * Détails du modèle de page de destination
-   * Liste de modèles d&#39;e-mail
+   * Liste de modèles d’e-mail
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Basculer</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Bouton (bascule)</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,7 +84,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -98,7 +98,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -136,7 +136,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Intégration du Dynamic Chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Intégration de Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>
@@ -182,7 +182,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>

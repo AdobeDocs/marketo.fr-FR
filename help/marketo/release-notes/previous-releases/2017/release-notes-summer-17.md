@@ -4,14 +4,14 @@ description: Notes De Mise À Jour -Été '17 - Documents Marketo - Documentatio
 title: Notes De Mise À Jour - Été 2017
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Notes de mise à jour : été 17 {#release-notes-summer}
+# Notes de mise à jour : été 2017 {#release-notes-summer}
 
 Les fonctionnalités suivantes sont incluses dans la version d’été 17. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
@@ -53,13 +53,13 @@ De nouvelles options pour les campagnes par widget sont désormais disponibles, 
 * Affichage des campagnes (toute position autour de l’écran)
 * Modification de la flèche Développer/Réduire en tout texte CTA
 
-## IA dédiée au contenu {#contentai}
+## ContentAI {#contentai}
 
 **[Analyses et suggestions ContentAI](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
 Augmentez le rendement de votre marketing de contenu grâce à des analyses plus approfondies et à des suggestions de contenu optimisées par IA pour améliorer l’engagement. Des analyses puissantes montrent les performances du contenu recommandé, y compris les vues populaires, de tendance et basées sur l’audience. Des suggestions de contenu supplémentaire à inclure s’affichent également.
 
-## Analytics {#analytics}
+## Analyse {#analytics}
 
 **[!UICONTROL Informations sur les e-mails] améliorations**
 

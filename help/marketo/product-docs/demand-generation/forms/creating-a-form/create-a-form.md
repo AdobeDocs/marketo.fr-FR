@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359398
 description: Création d’un formulaire - Documents Marketo - Documentation du produit
-title: Création d’un formulaire
+title: Créer un formulaire
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Création d’un formulaire {#create-a-form}
+# Créer un formulaire {#create-a-form}
 
 Créez et utilisez un formulaire sur une page de destination pour générer de nouveaux noms ou capturer les données souhaitées.
 

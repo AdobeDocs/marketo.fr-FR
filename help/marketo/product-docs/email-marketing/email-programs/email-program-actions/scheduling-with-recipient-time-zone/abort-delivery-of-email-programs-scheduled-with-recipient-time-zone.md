@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795727
 description: Abandon de la diffusion des programmes de messagerie programmés avec le fuseau horaire du destinataire - Documents Marketo - Documentation du produit
-title: Abandonner la diffusion des programmes de messagerie programmés avec le fuseau horaire du destinataire
+title: Abandonner la diffusion des programmes d’e-mail planifiés en fonction du fuseau horaire de la personne destinataire
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Abandonner la diffusion des programmes de messagerie programmés avec le fuseau horaire du destinataire {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# Abandonner la diffusion des programmes d’e-mail planifiés en fonction du fuseau horaire de la personne destinataire {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
 En cas d’urgence, vous pouvez abandonner l’envoi d’un programme de messagerie qui a déjà commencé à s’exécuter avec le fuseau horaire du destinataire activé.
 

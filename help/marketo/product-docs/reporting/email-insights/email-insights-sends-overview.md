@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099413
 description: Présentation Des Envois D’Informations Par E-Mail - Documents Marketo - Documentation Du Produit
-title: Présentation Des Envois D’Informations Par E-Mail
+title: Vue d’ensemble des envois Email Insights
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Présentation Des Envois D’Informations Par E-Mail {#email-insights-sends-overview}
+# Vue d’ensemble des envois Email Insights {#email-insights-sends-overview}
 
 Sur la page [!UICONTROL Envois], examinez les caractéristiques d’une communication par e-mail récente.
 

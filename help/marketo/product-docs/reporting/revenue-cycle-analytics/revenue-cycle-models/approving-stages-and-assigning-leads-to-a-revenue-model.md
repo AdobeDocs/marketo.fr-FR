@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718683
 description: Approbation d’étapes et affectation de leads à un modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
-title: Approuver des étapes et affecter des leads à un modèle de revenu
+title: Approbation d’étapes et affectation de leads à un modèle de revenu
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Approuver des étapes et affecter des leads à un modèle de revenu {#approving-stages-and-assigning-leads-to-a-revenue-model}
+# Approbation d’étapes et affectation de leads à un modèle de revenu {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
 Mettez en service votre **modèle de chiffre d’affaires** en ajoutant des prospects existants et en créant des règles d’affectation pour tous les nouveaux prospects.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953405
-description: Modifier les paramètres de comportement Analytics - Documents Marketo - Documentation du produit
+description: Modifier Les Paramètres De Comportement D’Analytics - Documents Marketo - Documentation Du Produit
 title: Modifier les paramètres de comportement d’analyse
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
 # Modifier les paramètres de comportement d’analyse {#edit-analytics-behavior-settings}
 
-Vous pouvez définir le comportement [des analyses au niveau de l’administrateur sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mais vous pouvez également le modifier au niveau du programme. Voici comment.
+Vous pouvez définir le comportement d’[analyse au niveau de l’administration sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mais vous pouvez également le modifier au niveau du programme. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -35,20 +35,20 @@ Vous pouvez définir le comportement [des analyses au niveau de l’administrate
 >
 >**Définition**
 >
->**[!UICONTROL Inclusif]** - Cette option garantit que le programme est disponible pour la création de rapports dans l’explorateur et les analyseurs de recettes, que vous ayez inclus ou non un coût de période.
+>**[!UICONTROL Inclusif]** - Cette option garantit que le programme est disponible pour la création de rapports dans l’explorateur et les analyseurs de revenus, que vous ayez inclus ou non un coût de période.
 >
->**[!UICONTROL Opérationnel]** : cette option empêche le programme de s’afficher dans l’explorateur de recettes ou les analyseurs.
+>**[!UICONTROL Opérationnel]** - Cette option entraîne l’affichage du programme dans l’explorateur ou les analyseurs de chiffre d’affaires.
 
 >[!NOTE]
 >
->Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme ne sera inclus dans Analytics QUE S’il y a au moins un coût de période, même si aucun dollar est affecté.
+>Le comportement par défaut (si ce paramètre n’est pas appliqué) est que le programme est inclus dans Analytics UNIQUEMENT s’il existe au moins un coût de période, même un coût nul attribué.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-C&#39;est joli ! Vous savez maintenant comment remplacer le comportement d’analyse au niveau du programme.
+Bien joué ! Vous savez maintenant comment remplacer le comportement d’analyse au niveau du programme.
 
 >[!NOTE]
 >
->Les modifications prendront effet le lendemain et le programme sera disponible ou retiré des explorateurs et analyseurs de recettes.
+>Les modifications prendront effet le lendemain et le programme sera soit mis à disposition, soit retiré de l’explorateur et des analyseurs de revenus.

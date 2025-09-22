@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360356
 description: Ajouter l'authentification unique à un portail - Documents Marketo - Documentation du produit
-title: Ajouter l'authentification SSO à un portail
+title: Ajouter l’authentification unique à un portail
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '606'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Ajouter l&#39;authentification SSO à un portail {#add-single-sign-on-to-a-portal}
+# Ajouter l’authentification unique à un portail {#add-single-sign-on-to-a-portal}
 
 Si vous disposez d’un service d’annuaire qui authentifie les utilisateurs, vous pouvez autoriser l’authentification unique (SSO) dans Marketo. Nous prenons en charge cette fonctionnalité à l’aide de [!DNL Security Assertion Markup Language] (SAML) version 2.0 et ultérieure.
 
@@ -87,7 +87,7 @@ SSO est désactivé par défaut. Pour activer SAML et le configurer, procédez c
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -105,7 +105,7 @@ SSO est désactivé par défaut. Pour activer SAML et le configurer, procédez c
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Saisissez une **[!UICONTROL URL d’erreur]**. Il s’agit de l’URL vers laquelle l’utilisateur doit être dirigé en cas d’échec de la connexion à Marketo. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez une **[!UICONTROL URL d’erreur]**. Il s’agit de l’URL vers laquelle l’utilisateur doit être dirigé en cas d’échec de la connexion à Marketo. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

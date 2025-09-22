@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352592
 description: Comment insérer des champs dynamiques - Documents Marketo - Documentation du produit
-title: Insertion de champs dynamiques
+title: Comment insérer des champs dynamiques
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Insertion de champs dynamiques {#how-to-insert-dynamic-fields}
+# Comment insérer des champs dynamiques {#how-to-insert-dynamic-fields}
 
 Nous vous permettons de personnaliser vos modèles d’e-mail avec des attributs prédéfinis tels que `{{first_name}}` ou `{{company}}`. Ces champs vous permettent d’envoyer plusieurs e-mails à des contacts et de remplir automatiquement ces champs sans avoir à les saisir séparément pour chaque contact.
 

@@ -1,16 +1,16 @@
 ---
 description: Remplacement de priorité pour les campagnes de déclenchement - Documents Marketo - Documentation du produit
-title: Remplacement de priorité pour les campagnes de déclenchement
+title: Remplacement de priorité pour les campagnes à déclencheur
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Remplacement de priorité pour les campagnes de déclenchement {#priority-override-for-trigger-campaigns}
+# Remplacement de priorité pour les campagnes à déclencheur {#priority-override-for-trigger-campaigns}
 
 Les administrateurs peuvent remplacer la priorité déterminée par Marketo Engage pour les campagnes de déclenchement afin de définir des priorités qui correspondent mieux aux objectifs commerciaux.
 
@@ -36,7 +36,7 @@ Les administrateurs peuvent remplacer la priorité déterminée par Marketo Enga
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Sous **[!UICONTROL Accéder aux activités marketing]**, sélectionnez **[!UICONTROL Modifier la priorité des campagnes de déclenchement]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sous **[!UICONTROL Accéder aux activités marketing]**, sélectionnez **[!UICONTROL Modifier la priorité des campagnes de déclenchement]**. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 

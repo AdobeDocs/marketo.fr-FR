@@ -4,10 +4,10 @@ description: Création d’une boîte de dialogue dans Web Campaign - Documents 
 title: Créer une campagne web de boîte de dialogue
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '749'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -150,7 +150,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
 Voir [Cloner une campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Suppression d’une campagne web {#delete-a-web-campaign}
+## Supprimer une campagne web {#delete-a-web-campaign}
 
 1. Sur la page **[!UICONTROL Campagnes web]**, cliquez sur **[!UICONTROL Supprimer]** au niveau de la campagne web que vous souhaitez supprimer.
 

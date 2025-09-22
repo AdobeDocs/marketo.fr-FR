@@ -4,10 +4,10 @@ description: Inclusion d’un événement de calendrier (.ics) dans un e-mail - 
 title: Inclure un événement de calendrier (.ics) dans un e-mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 2%
+ht-degree: 19%
 
 ---
 
@@ -27,7 +27,7 @@ Un jeton de fichier de calendrier vous permet d’ajouter un lien d’événemen
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/three-5.png)
 

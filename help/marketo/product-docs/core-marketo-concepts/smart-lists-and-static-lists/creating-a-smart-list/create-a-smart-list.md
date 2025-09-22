@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557154
 description: Création d’une liste dynamique - Documents Marketo - Documentation du produit
-title: Création d’une liste dynamique
+title: Créer une liste intelligente
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Création d’une liste dynamique {#create-a-smart-list}
+# Créer une liste intelligente {#create-a-smart-list}
 
-Les listes dynamiques vous permettent de trouver des groupes de personnes spécifiques à l’aide de filtres simples. Voici comment en créer un.
+Les listes dynamiques vous permettent de trouver des groupes spécifiques de personnes à l’aide de filtres simples. Voici comment en créer un.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -23,7 +23,7 @@ Les listes dynamiques vous permettent de trouver des groupes de personnes spéci
 
    ![](assets/create-a-smart-list-2.png)
 
-1. Sous **[!UICONTROL New]**, cliquez sur **[!UICONTROL New Local Asset]**.
+1. Sous **[!UICONTROL Nouveau]**, cliquez sur **[!UICONTROL Nouvelle ressource locale]**.
 
    ![](assets/create-a-smart-list-3.png)
 
@@ -31,11 +31,11 @@ Les listes dynamiques vous permettent de trouver des groupes de personnes spéci
 
    ![](assets/create-a-smart-list-4.png)
 
-1. Saisissez un **[!UICONTROL Nom]** et cliquez sur **[!UICONTROL Créer]**.
+1. Saisissez un **[!UICONTROL Nom]** puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-a-smart-list-5.png)
 
-   Ta-da, super boulot ! Maintenant, ajoutons et définissez des filtres.
+   Ta-da, super boulot ! Maintenant, ajoutons et définissons des filtres.
 
    >[!MORELIKETHIS]
    >

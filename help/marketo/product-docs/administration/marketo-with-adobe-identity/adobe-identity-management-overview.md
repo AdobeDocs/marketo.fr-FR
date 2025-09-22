@@ -1,16 +1,16 @@
 ---
 description: Présentation D’Adobe Identity Management - Documentation De Marketo - Documentation Du Produit
-title: Présentation d’Adobe Identity Management
+title: Vue d’ensemble d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Présentation d’Adobe Identity Management {#adobe-identity-management-overview}
+# Vue d’ensemble d’Adobe Identity Management {#adobe-identity-management-overview}
 
 Tous les nouveaux abonnements Adobe Marketo Engage (31 juillet 2023 ou version ultérieure) sont intégrés au système Adobe Identity Management. Les abonnements Marketo Engage existants sont actuellement migrés vers le système Adobe Identity Management lors de n’importe quel événement de vente, qui inclut les renouvellements, les événements de réapprovisionnement et/ou les addenda. Les migrations en dehors d’un événement de vente sont prises en charge à compter d’octobre 2024. Les administrateurs Marketo recevront une notification 2 à 4 semaines à l’avance si leur abonnement doit être migré en dehors d’un événement de vente.
 

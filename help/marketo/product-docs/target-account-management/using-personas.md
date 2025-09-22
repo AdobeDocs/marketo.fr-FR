@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727818
 description: Utilisation des personas - Documents Marketo - Documentation du produit
-title: Utilisation des rôles
+title: Utilisation de personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
-# Utilisation des rôles {#using-personas}
+# Utilisation de personas {#using-personas}
 
 Les rôles sont un excellent moyen de segmenter votre audience ABM et de la commercialiser auprès d’un sous-ensemble spécifique de personnes.
 

@@ -4,10 +4,10 @@ description: Déclencheurs de compte - Documents Marketo - Documentation du prod
 title: Déclencheurs de compte
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ Sélectionnez votre campagne dynamique et cliquez sur **[!UICONTROL Liste dynami
 
 ![](assets/one-1.png)
 
-Saisissez « [!UICONTROL &#x200B; Compte nommé &#x200B;] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
+Saisissez « [!UICONTROL  Compte nommé ] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
 
 ![](assets/two-1.png)
 

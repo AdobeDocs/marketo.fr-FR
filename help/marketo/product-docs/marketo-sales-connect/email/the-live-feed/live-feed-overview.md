@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796471
 description: Présentation Des Flux En Direct - Documents Marketo - Documentation Du Produit
-title: Aperçu des flux en direct
+title: Vue d’ensemble du flux en direct
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Aperçu des flux en direct {#live-feed-overview}
+# Vue d’ensemble du flux en direct {#live-feed-overview}
 
 Le flux en direct est une fenêtre flottante qui peut être lancée à partir de l’application web ou du plug-in Gmail et offre un aperçu en temps réel de l’engagement des prospects.
 
@@ -60,7 +60,7 @@ Affichez vos meilleures personnes (classées du plus élevé au plus bas) class�
 * Nous montrons les 50 meilleures pistes.
 * Vous ne verrez que les personnes qui vous ont été affectées dans [!DNL Salesforce].
 
-## Icône Glossaire {#icon-glossary}
+## Glossaire des icônes {#icon-glossary}
 
 <table>
  <colgroup>

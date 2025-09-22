@@ -4,7 +4,7 @@ description: Modifier les paramètres du compte - Documents Marketo - Documentat
 title: Modifier les paramètres du compte
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 12%
@@ -13,7 +13,7 @@ ht-degree: 12%
 
 # Modifier les paramètres du compte {#edit-account-settings}
 
-Vous devez modifier l’adresse électronique, le nom ou le numéro de téléphone du compte ? Découvrez comment ci-dessous.
+Vous souhaitez modifier l’adresse e-mail, le nom ou le numéro de téléphone du compte ? Découvrez comment procéder ci-dessous.
 
 >[!NOTE]
 >
@@ -31,6 +31,6 @@ Vous devez modifier l’adresse électronique, le nom ou le numéro de télépho
 
    ![](assets/edit-account-settings-3.png)
 
-1. Effectuez vos modifications et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Apportez vos modifications et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/edit-account-settings-4.png)

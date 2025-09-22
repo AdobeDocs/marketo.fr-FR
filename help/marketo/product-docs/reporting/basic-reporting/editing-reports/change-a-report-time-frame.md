@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359968
 description: Modification d’une période de rapport - Documents Marketo - Documentation du produit
-title: Modifier une période de rapport
+title: Modifier la période d’un rapport
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Modifier une période de rapport {#change-a-report-time-frame}
+# Modifier la période d’un rapport {#change-a-report-time-frame}
 
 Modifiez la période couverte par votre rapport pour vous concentrer sur une période d’activité spécifique.
 

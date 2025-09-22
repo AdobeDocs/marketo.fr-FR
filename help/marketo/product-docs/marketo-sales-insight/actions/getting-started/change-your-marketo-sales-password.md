@@ -1,18 +1,18 @@
 ---
 description: Modification De Votre Mot De Passe De Vente Marketo - Documents Marketo - Documentation Du Produit
-title: Modifier Votre Mot De Passe De Vente Marketo
+title: Modifier votre mot de passe Marketo Sales
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Modifier Votre Mot De Passe De Vente Marketo {#change-your-marketo-sales-password}
+# Modifier votre mot de passe Marketo Sales {#change-your-marketo-sales-password}
 
-Vous souhaitez modifier votre mot de passe ? Voici comment procéder.
+Vous souhaitez modifier votre mot de passe ? Voici comment faire.
 
 ## Modifier Votre Mot De Passe Lors De La Connexion {#change-your-password-while-signed-in}
 

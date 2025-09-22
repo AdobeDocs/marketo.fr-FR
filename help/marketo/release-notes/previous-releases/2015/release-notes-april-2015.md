@@ -4,14 +4,14 @@ description: Notes De Mise À Jour -Avril 2015 - Documents Marketo - Documentati
 title: Notes De Mise À Jour - Avril 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '315'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# Notes De Mise À Jour : Avril 2015 {#release-notes-april}
+# Notes de mise à jour : avril 2015 {#release-notes-april}
 
 Les fonctionnalités suivantes sont incluses dans la version d’avril 2015. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727499
 description: Espaces de travail dans Web Personalization - Documents Marketo - Documentation du produit
-title: Espaces de travail dans Web Personalization
+title: Espaces de travail dans Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Espaces de travail dans [!UICONTROL &#x200B; Web Personalization &#x200B;] {#workspaces-in-web-personalization}
+# Espaces de travail dans [!UICONTROL  Web Personalization ] {#workspaces-in-web-personalization}
 
 [!UICONTROL Web Personalization] prend en charge plusieurs espaces de travail pour les campagnes web et les segments web.
 

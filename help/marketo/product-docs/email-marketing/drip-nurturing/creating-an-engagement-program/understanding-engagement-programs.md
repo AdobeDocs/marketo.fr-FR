@@ -4,10 +4,10 @@ description: Présentation des programmes d’engagement - Documents Marketo - D
 title: Présentation des programmes d’engagement
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
@@ -29,7 +29,7 @@ Un **programme d’engagement** est un type de programme qui peut accomplir faci
 >
 >[Créer un programme d’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
-## Stream {#stream}
+## Flux {#stream}
 
 Un **flux** est un pool de contenu prioritaire que le programme de mobilisation utilisera pour former les personnes.
 
@@ -54,7 +54,7 @@ Il existe deux types de **contenu** que vous pouvez ajouter aux flux des program
 >* [Supprimer le contenu du flux](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Archiver et désarchiver le contenu de flux](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## Plâtre {#cast}
+## Conversion {#cast}
 
 Un **cast** est l’événement d’envoi d’e-mails provenant d’un programme d’engagement.
 
@@ -88,7 +88,7 @@ Une fois qu’une personne a reçu chaque élément de contenu dans un flux, nou
 >
 >[Personnes Ayant Épuisé Le Contenu](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## Niveau d’engagement du contenu {#content-engagement-level}
+## Niveau d’engagement avec le contenu {#content-engagement-level}
 
 Le niveau d’engagement du contenu est un score compris entre 0 et 100 points que Marketo attribuera à votre contenu. Ce nombre est déterminé à l’aide d’une formule sophistiquée qui tient compte des ouvertures, des clics, des désinscriptions, du succès du programme et d’autres facteurs.
 

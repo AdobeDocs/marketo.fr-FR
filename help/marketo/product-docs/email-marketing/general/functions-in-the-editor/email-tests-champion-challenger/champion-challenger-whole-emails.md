@@ -4,14 +4,14 @@ description: Champion/Challenger - Emails Entiers - Documents Marketo - Document
 title: Champion/Challenger - Whole Emails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Champion/Challenger : Whole Emails {#champion-challenger-whole-emails}
+# Champion/Challenger : e-mails entiers {#champion-challenger-whole-emails}
 
 Testez des e-mails entiers les uns par rapport aux autres. Lorsque le test est terminé, envoyez le meilleur résultat.
 

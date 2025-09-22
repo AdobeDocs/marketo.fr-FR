@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557337
 description: Création et modification des vues des listes et des listes dynamiques - Documents Marketo - Documentation du produit
-title: Création et modification des vues des listes et des listes dynamiques
+title: Créer et modifier des vues pour les listes et les listes intelligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Création et modification des vues des listes et des listes dynamiques {#create-and-change-views-for-lists-and-smart-list}
+# Créer et modifier des vues pour les listes et les listes intelligentes {#create-and-change-views-for-lists-and-smart-list}
 
-Une liste dynamique affiche un ensemble de colonnes par défaut. Saviez-vous que vous pouviez modifier ces colonnes à votre guise ? Voici comment procéder.
+Une liste dynamique affiche un ensemble de colonnes par défaut. Saviez-vous que vous pouviez modifier ces colonnes à votre guise ? Voici comment faire.
 
 ## Création d’une vue {#create-a-view}
 

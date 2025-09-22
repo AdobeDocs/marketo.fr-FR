@@ -4,10 +4,10 @@ description: Affecter des partitions de personne aux espaces de travail - Docume
 title: Affecter des partitions de personne aux espaces de travail
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -49,7 +49,7 @@ Voici comment modifier les affectations de partition/espace de travail de la per
    >
    >* Les partitions de personne par Principal sont la valeur par défaut où tous les utilisateurs sont entrés. Utilisez [étapes de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [règles d’affectation](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} pour déplacer les personnes.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/assign-person-partitions-to-workspaces-5.png)
 

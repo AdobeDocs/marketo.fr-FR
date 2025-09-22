@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359839
 description: Test d’un flux d’engagement - Documents Marketo - Documentation du produit
-title: Tester un stream d'engagement
+title: Tester un flux d’engagement
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 5%
 
 ---
 
-# Tester un stream d&#39;engagement {#test-an-engagement-stream}
+# Tester un flux d’engagement {#test-an-engagement-stream}
 
 Une fois que vous avez ajouté tout votre contenu à un flux, vous pouvez le tester un par un.
 

@@ -4,7 +4,7 @@ description: Rapport sur les performances des e-mails - Documents Marketo - Docu
 title: Rapport des performances des e-mails
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 3%
@@ -59,7 +59,7 @@ Pour évaluer les performances de vos e-mails par rapport à des statistiques te
     <td>Nombre de destinataires d’e-mails qui ont cliqué sur un lien dans l’e-mail.</td>
   </tr>
   <tr>
-    <td>Désabonné</td>
+    <td>Désabonné ou désabonnée</td>
     <td>Nombre de destinataires d’e-mails qui ont cliqué sur le lien de désabonnement dans l’e-mail et rempli le formulaire.</td>
   </tr>
   <tr>

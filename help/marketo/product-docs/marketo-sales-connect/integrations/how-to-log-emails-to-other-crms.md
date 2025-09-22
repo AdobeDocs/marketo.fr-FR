@@ -4,10 +4,10 @@ description: Comment consigner des e-mails dans d’autres CRM - Documents Marke
 title: Comment consigner des e-mails dans d’autres CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949158
 description: Intégration du RTP à Google Analytics - Documentation de Marketo - Documentation du produit
-title: Intégration du RTP à Google Analytics
+title: Intégrer RTP à Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Intégration du RTP à Google Analytics {#integrate-rtp-with-google-analytics}
+# Intégrer RTP à Google Analytics {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
 >
@@ -80,7 +80,7 @@ Mesurez vos campagnes RTP et corrélez-les avec la moyenne globale de votre site
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 >[!NOTE]
 >

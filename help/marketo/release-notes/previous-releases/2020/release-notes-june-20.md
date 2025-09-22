@@ -4,26 +4,26 @@ description: Notes De Mise À Jour -20 Juin - Documents Marketo - Documentation 
 title: Notes de mise à jour - Juin 2020
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1031'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notes De Mise À Jour : 20 Juin {#release-notes-june}
+# Notes de mise à jour : juin 2020 {#release-notes-june}
 
 Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes seront publiées le **5 juin 2020**.
 
 ## Engagement Marketo de base {#core-marketo-engage}
 
-* **[Audiences prédictives](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=fr#predictive-audiences)** ![(étoile)](assets/yellow-star.png) : les nouveaux filtres de liste dynamique et de campagne dynamique optimisés par Adobe Sensei vous permettent de créer des segments d’audience optimisés par l’IA pour les programmes marketing d’e-mail, d’événement et de webinaire. Utilisez l’IA pour segmenter les audiences en fonction de la probabilité de prospect de vous inscrire à un événement, d’y assister ou de vous désinscrire. Créez des audiences semblables en fonction de programmes précédents afin de répliquer efficacement les succès précédents. Atteignez les objectifs de conversion avec un suivi des objectifs prédictif et obtenez des recommandations sur la manière d’affiner vos segments d’audience pour les programmes d’événement.
+* **[Audiences prédictives](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(étoile)](assets/yellow-star.png) : les nouveaux filtres de liste dynamique et de campagne dynamique optimisés par Adobe Sensei vous permettent de créer des segments d’audience optimisés par l’IA pour les programmes marketing d’e-mail, d’événement et de webinaire. Utilisez l’IA pour segmenter les audiences en fonction de la probabilité de prospect de vous inscrire à un événement, d’y assister ou de vous désinscrire. Créez des audiences semblables en fonction de programmes précédents afin de répliquer efficacement les succès précédents. Atteignez les objectifs de conversion avec un suivi des objectifs prédictif et obtenez des recommandations sur la manière d’affiner vos segments d’audience pour les programmes d’événement.
 * **Boost d’e-mail par lots** ![(étoile)](assets/yellow-star.png) : amélioration de notre fonctionnalité de marketing par e-mail qui vous permet d’envoyer jusqu’à 3 millions d’e-mails par lot et par heure. Nous avons repensé le traitement des campagnes par lots et des rapports par e-mail afin d’améliorer les performances des programmes de messagerie et des campagnes par e-mail par lots. Le délai d’envoi est ainsi réduit et le temps d’achèvement amélioré. Configurez vos envois d’e-mail comme vous le feriez normalement, cela n’ajoute aucune complexité. Cette amélioration est disponible sous la forme d’un module complémentaire de produit qui comprend également un pack de lancement des services de diffusion, des outils de diffusion par e-mail et plusieurs adresses IP dédiées.
 * **[Audience Integration with Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)** : nouvelle intégration de Adobe Experience Cloud (AEC) qui vous permet de synchroniser les listes statiques de prospects connus de Marketo Engage avec plusieurs applications AEC afin d’améliorer les programmes existants, de déverrouiller de nouveaux cas d’utilisation et d’orchestrer des campagnes multicanal. Cette intégration inclut Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager et Adobe Advertising Cloud.
 * **[Champs personnalisés du membre de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)** : capturez et utilisez les champs personnalisés relatifs à un membre de programme. Utilisez ces nouveaux champs dans vos formulaires Marketo Engage, affichez-les dans la liste des membres d’un programme, exploitez-les dans les filtres et les déclencheurs de liste dynamique et incluez-les dans une nouvelle action de flux de campagne dynamique pour une automatisation améliorée et une personnalisation plus granulaire. Ils peuvent également être importés et exportés via l’interface utilisateur et les API. Amélioration de notre fonctionnalité d’objets et de champs de données personnalisés.

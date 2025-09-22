@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352484
 description: Comment corriger « Nous n’avons pas pu authentifier votre demande » lors de la connexion à Salesforce - Documents Marketo - Documentation du produit
-title: Comment corriger « Nous n’avons pas pu authentifier votre demande » lors de la connexion à Salesforce
+title: Comment corriger l’erreur « Nous n’avons pas pu authentifier votre demande » lors de la connexion à Salesforce
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

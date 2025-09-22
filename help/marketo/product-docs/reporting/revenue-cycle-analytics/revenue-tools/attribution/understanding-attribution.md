@@ -1,43 +1,43 @@
 ---
 unique-page-id: 2953136
-description: Présentation de l’attribution - Documents Marketo - Documentation du produit
-title: Compréhension de l’attribution
+description: Présentation d’Attribution - Documents Marketo - Documentation du produit
+title: Présentation de l’attribution
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Compréhension de l’attribution {#understanding-attribution}
+# Présentation de l’attribution {#understanding-attribution}
 
 ## Qu’est-ce que l’attribution ? {#what-is-attribution}
 
-L’attribution est la manière dont Marketo accorde du crédit aux programmes qui aident à influencer les ventes et les opportunités. Si vous utilisez le modeleur Marketo, l’attribution peut également créditer le déplacement d’une personne vers l’avant dans votre modèle d’entreprise.
+L’attribution est la manière dont Marketo attribue du crédit aux programmes qui aident à influencer les ventes et les opportunités. Si vous utilisez le modéliseur Marketo, l’attribution peut également attribuer le mérite d’avoir fait avancer quelqu’un dans votre modèle commercial.
 
 ## Pourquoi garder une trace de ceci ? {#why-keep-track-of-this}
 
-Attribution vous aide à mesurer le succès du programme. Certains programmes sont destinés à générer de nouveaux noms, d’autres à stimuler les ventes. En ayant un système d&#39;attribution, vous pouvez prendre des décisions éclairées sur les programmes dans lesquels investir.
+L’attribution vous aide à mesurer le succès du programme. Certains programmes sont destinés à générer de nouveaux noms, tandis que d&#39;autres sont destinés à stimuler les ventes. Grâce à un système d’attribution, vous pouvez prendre des décisions éclairées sur les programmes dans lesquels investir.
 
-## Attribution Première touche (FT) {#first-touch-ft-attribution}
+## Attribution du premier contact {#first-touch-ft-attribution}
 
-L’attribution Première touche (FT) répond à une **question simple**, &quot;Quels programmes sont bons pour acquérir de nouveaux noms rentables ?&quot;
+L’attribution Première touche (FT) répond à une **question commerciale simple** : « Quels programmes sont bons pour acquérir de nouveaux noms rentables ? »
 
 ## Attribution multipoint {#multi-touch-attribution}
 
-Multi-Touch répond à une **question compliquée**, &quot;Quels programmes ont le plus d’influence sur l’évolution des personnes dans le cycle de vente au fil du temps ?&quot;
+Le protocole multipoint répond à une **question commerciale complexe** : « Quels programmes sont les plus efficaces pour faire avancer les clients dans le cycle de vente au fil du temps ? »
 
 ## Règles d’attribution {#rules-of-attribution}
 
 Il existe trois règles d’attribution :
 
-1. Le crédit est réparti uniformément.
-1. Tu ne peux pas donner plus de crédit que tu n&#39;as gagné.
-1. On ne peut pas créditer quelque chose qui s&#39;est passé dans le passé.
+1. Le crédit est partagé également
+1. On ne peut pas accorder plus de crédit que ce qu&#39;on a gagné
+1. On ne peut pas attribuer le mérite de quelque chose qui s&#39;est produit dans le passé
 
-Dans les exemples suivants, vous pouvez appliquer ces règles et comprendre tout ce dont vous avez besoin pour mesurer le succès d’un programme.
+Dans les exemples suivants, vous pouvez appliquer ces règles et comprendre tout ce dont vous avez besoin pour mesurer le succès du programme.
 
 >[!MORELIKETHIS]
 >
@@ -46,4 +46,4 @@ Dans les exemples suivants, vous pouvez appliquer ces règles et comprendre tout
 >* [Exemple d’attribution 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [Exemple d’attribution 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
-Si vous utilisez cette fonctionnalité, vous tirez certainement parti de votre investissement dans Marketo.
+Si vous utilisez cette fonctionnalité, vous tirez certainement le meilleur parti de votre investissement dans Marketo.

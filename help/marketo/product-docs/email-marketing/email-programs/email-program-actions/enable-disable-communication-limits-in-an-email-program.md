@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359596
 description: Activer/désactiver les limites de communication dans un programme de messagerie - Documents Marketo - Documentation du produit
-title: Activer/désactiver les limites de communication dans un programme de messagerie
+title: Activer/désactiver les limites de communication dans un programme d’e-mail
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Activer/désactiver les limites de communication dans un programme de messagerie {#enable-disable-communication-limits-in-an-email-program}
+# Activer/désactiver les limites de communication dans un programme d’e-mail {#enable-disable-communication-limits-in-an-email-program}
 
 Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’ignorer ou de respecter les [ limites de communication au niveau administrateur ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Voici comment procéder.
 

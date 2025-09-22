@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952636
 description: Rechercher des personnes en double avec une logique personnalisée - Documents Marketo - Documentation du produit
-title: Rechercher des personnes en double avec la logique personnalisée
+title: Rechercher les personnes en double à l’aide d’une logique personnalisée
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Rechercher des personnes en double avec la logique personnalisée {#find-duplicate-people-with-custom-logic}
+# Rechercher les personnes en double à l’aide d’une logique personnalisée {#find-duplicate-people-with-custom-logic}
 
 Marketo Engage dispose d’une liste dynamique système qui détecte les doublons en faisant correspondre leurs adresses e-mail. Si vous souhaitez utiliser un autre champ pour rechercher des doublons, procédez comme suit.
 

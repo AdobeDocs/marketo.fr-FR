@@ -3,8 +3,8 @@ description: Notes de mise à jour de Dynamic Chat - Documents Marketo - Docum
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '3414'
 ht-degree: 100%
 

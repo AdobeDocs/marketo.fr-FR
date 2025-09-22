@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359637
 description: Suppression d’un formulaire - Documents Marketo - Documentation du produit
-title: Suppression d’un formulaire
+title: Supprimer un formulaire
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Suppression d’un formulaire {#delete-a-form}
+# Supprimer un formulaire {#delete-a-form}
 
-Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est pas utilisé, vous pouvez le supprimer. Voici comment procéder.
+Si vous disposez d’un formulaire dont vous n’avez pas besoin et qui n’est pas utilisé, vous pouvez le supprimer. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

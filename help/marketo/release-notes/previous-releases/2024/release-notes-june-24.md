@@ -3,26 +3,26 @@ description: Notes De Mise À Jour - Juin 2024 - Documents Marketo - Documentati
 title: Notes de mise à jour - Juin 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 4%
+ht-degree: 37%
 
 ---
 
-# Notes De Mise À Jour : Juin 2024 {#release-notes-june-24}
+# Notes de mise à jour : juin 2024 {#release-notes-june-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 juin. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 juin. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
-Les notes de mise à jour spécifiques à Adobe Dynamic Chat [sont disponibles ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **7 juin 2024** avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 7 juin 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -45,7 +45,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
      <tr>
    <td><strong>Champs déduits dans Forms</strong> : la source de données utilisée pour remplir les champs déduits lorsqu’une personne est créée via le remplissage de formulaire sans activité web préalable a été mise à jour afin d’utiliser la même source de données que les autres méthodes de collecte de personnes. Les données de champ déduites sont désormais cohérentes sur tous les points de collecte.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
  </tbody>
 </table>

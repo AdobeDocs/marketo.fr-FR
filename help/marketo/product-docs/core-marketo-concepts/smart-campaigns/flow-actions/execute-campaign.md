@@ -1,16 +1,16 @@
 ---
 description: Exécution de Campaign - Documents Marketo - Documentation du produit
-title: Lancer la campagne
+title: Exécuter la campagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 1%
 
 ---
 
-# Lancer la campagne {#execute-campaign}
+# Exécuter la campagne {#execute-campaign}
 
 Une campagne exécutable, comme les autres campagnes, contient une liste dynamique, un flux et un planning. Contrairement aux autres campagnes, vous ne pouvez pas réellement la planifier ni l’activer. Elle ne peut être appelée que par une autre campagne via l’étape de flux Exécuter la campagne . Les étapes de flux dans la campagne exécutable sont exécutées en série avec la campagne parent (contrairement à la campagne de demande, qui s’exécute en parallèle dans une campagne de déclenchement distincte).
 
@@ -60,7 +60,7 @@ Lorsque la valeur est définie sur true, les contextes de jeton suivants seront 
 
 **Interaction API**
 
-Lors de l’utilisation de la planification ou de la requête de campagne [dans l’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), tous deux vous permettent de transmettre des valeurs pour Mes jetons, ce qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit « Utiliser le contexte parent sur Vrai », elle utilisera les valeurs transmises par l’intermédiaire de l’API, plutôt que les valeurs définies dans l’application.
+Lors de l’utilisation de la planification ou de la requête de campagne [dans l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), tous deux vous permettent de transmettre des valeurs pour Mes jetons, ce qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit « Utiliser le contexte parent sur Vrai », elle utilisera les valeurs transmises par l’intermédiaire de l’API, plutôt que les valeurs définies dans l’application.
 
 ## Éléments à noter {#things-to-note}
 
@@ -89,7 +89,7 @@ La campagne enfant s&#39;appelle Mes jetons.
 
 ### Exemple 1 - Vrai {#example-one-true}
 
-Dans l’étape de flux Exécuter la campagne de la première campagne parent, la variable « [!UICONTROL &#x200B; Utiliser le contexte du jeton de campagne parent &#x200B;] » est définie sur **[!UICONTROL True]**.
+Dans l’étape de flux Exécuter la campagne de la première campagne parent, la variable « [!UICONTROL  Utiliser le contexte du jeton de campagne parent ] » est définie sur **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 

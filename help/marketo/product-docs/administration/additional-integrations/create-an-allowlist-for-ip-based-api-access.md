@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098433
 description: Création d’une Place sur la liste autorisée pour l’accès à l’API basée sur IP - Documents Marketo - Documentation du produit
-title: Création d’une Place sur la liste autorisée pour l’accès à l’API basée sur IP
+title: Créer une liste autorisée pour l’accès à l’API basé sur l’adresse IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Création d’une Place sur la liste autorisée pour l’accès à l’API basée sur IP {#create-an-allowlist-for-ip-based-api-access}
+# Créer une liste autorisée pour l’accès à l’API basé sur l’adresse IP {#create-an-allowlist-for-ip-based-api-access}
 
 Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse IP spécifique ou à une plage d’adresses. Pour ce faire, vous devez d’abord activer les restrictions, puis spécifier les adresses IP qui sont autorisées à utiliser les API.
 
@@ -22,8 +22,8 @@ Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse
 >[!NOTE]
 >
 >Cette fonctionnalité fonctionne indépendamment des restrictions de connexion basées sur les adresses IP de Marketo Engage (remplacées par la liste d’accès IP d’Admin Console*) et continuera à fonctionner après la [ migration d’Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->&#x200B;> 
->&#x200B;>&#42;La disponibilité générale de la liste d’accès IP est prévue pour le 4e trimestre 2025.
+>> 
+>>&#42;La disponibilité générale de la liste d’accès IP est prévue pour le 4e trimestre 2025.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -49,6 +49,6 @@ Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

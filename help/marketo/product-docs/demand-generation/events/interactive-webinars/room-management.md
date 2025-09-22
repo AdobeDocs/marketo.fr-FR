@@ -1,16 +1,16 @@
 ---
 description: Gestion de salle - Documents Marketo - Documentation du produit
-title: Gestion de salle
+title: Gestion des salles
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
-# Gestion de salle {#room-management}
+# Gestion des salles {#room-management}
 
 Les salles de webinaires interactives optimisées par Adobe Connect sont conçues pour faciliter les événements en ligne engageants et collaboratifs. Ces webinaires stockent le contenu et les enregistrements créés et utilisés pendant le webinaire. En tant que membre disposant du droit de créer une salle, vous pouvez y accéder et la gérer à partir d&#39;un emplacement central.
 

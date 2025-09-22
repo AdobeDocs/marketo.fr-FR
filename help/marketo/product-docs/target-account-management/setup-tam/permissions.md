@@ -4,16 +4,16 @@ description: Autorisations - Documents Marketo - Documentation du produit
 title: Autorisations
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Autorisations {#permissions}
 
-Vous devez configurer des autorisations pour que vos utilisateurs puissent utiliser TAM. Voici comment procéder.
+Vous devez configurer des autorisations pour que vos utilisateurs puissent utiliser TAM. Voici comment faire.
 
 1. Cliquez sur **[!UICONTROL Admin]**.
 

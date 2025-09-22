@@ -4,14 +4,14 @@ description: Marketo Présentation du tableau de bord d’optimisation du moteur
 title: Présentation du tableau de bord d’optimisation du moteur de recherche (SEO) - Capture instantanée SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Présentation du tableau de bord d’optimisation du moteur de recherche : instantané d’optimisation du moteur de recherche {#understanding-the-seo-dashboard-seo-snapshot}
+# Présentation du tableau de bord de SEO : instantané de SEO {#understanding-the-seo-dashboard-seo-snapshot}
 
 Utilisez le tableau de bord pour obtenir une vue d’ensemble de la tendance du classement des mots-clés et de la manière dont votre site est optimisé pour l’optimisation du moteur de recherche (SEO).
 

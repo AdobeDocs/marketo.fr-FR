@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504383
 description: Ajout de champs à un rapport de l’explorateur de revenus - Documents Marketo - Documentation du produit
-title: Ajout de champs à un rapport de l’explorateur de revenus
+title: Ajout de champs à un rapport de l’explorateur de revenu
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Ajout de champs à un rapport de l’explorateur de revenus {#adding-fields-to-a-revenue-explorer-report}
+# Ajout de champs à un rapport de l’explorateur de revenu {#adding-fields-to-a-revenue-explorer-report}
 
 Personnalisez les rapports de l’explorateur de recettes en faisant glisser et en déposant les champs de dimension et de mesure dans la zone de travail.
 

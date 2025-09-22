@@ -3,14 +3,14 @@ description: Liste De Contrôle Des Activités Marketing Des Instances Héritée
 title: Liste de contrôle des activités marketing de l’instance héritée
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Instance Héritée : Liste De Contrôle Des Activités Marketing {#inherited-instance-marketing-activities-checklist}
+# Instance héritée : liste de contrôle des activités marketing {#inherited-instance-marketing-activities-checklist}
 
 Organisez correctement votre section Activités marketing pour aider les autres personnes à rechercher et gérer divers programmes dans votre instance Marketo Engage et vous assurer que les personnes sont traitées pour passer de Marketing à Ventes. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et de suivre vos progrès.
 
@@ -121,7 +121,7 @@ Organisez correctement votre section Activités marketing pour aider les autres 
    <th style="width:70%">Vérifier le focus</th>
   </tr>
   <tr>
-   <td>Score de la personne</td>
+   <td>Score de personne</td>
    <td><li>Avez-vous mis en place un programme centralisé <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">notation par personne</a> ?</li>
 <li>Votre score de personne augmente-t-il et diminue-t-il le score ?</li></td>
   </tr>
@@ -157,7 +157,7 @@ Organisez correctement votre section Activités marketing pour aider les autres 
   </tr>
   <tr>
    <td>Centre d’abonnements/de préférences</td>
-   <td><li>Avez-vous configuré un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=fr" target="_blank">Centre d’abonnements/de préférences</a> ? Fonctionne-t-il comme il se doit?</li></td>
+   <td><li>Avez-vous configuré un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centre d’abonnements/de préférences</a> ? Fonctionne-t-il comme il se doit?</li></td>
   </tr>
   <tr>
    <td>Moments significatifs (le cas échéant)</td>

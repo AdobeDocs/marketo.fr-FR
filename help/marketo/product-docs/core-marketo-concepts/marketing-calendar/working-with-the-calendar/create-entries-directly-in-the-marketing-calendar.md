@@ -1,26 +1,26 @@
 ---
 unique-page-id: 2953348
-description: Création directe d’entrées dans le calendrier marketing - Documents Marketo - Documentation du produit
-title: Création directe d’entrées dans le calendrier marketing
+description: Création d’entrées directement dans le calendrier marketing - Documents Marketo - Documentation du produit
+title: Créer des entrées directement dans le calendrier marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# Création directe d’entrées dans le calendrier marketing {#create-entries-directly-in-the-marketing-calendar}
+# Créer des entrées directement dans le calendrier marketing {#create-entries-directly-in-the-marketing-calendar}
 
-Marketo vous permet de créer des entrées directement dans votre calendrier marketing à l’aide du mode de mise au point du programme. Vous pouvez créer les types d’entrée suivants :
+Marketo vous permet de créer des entrées directement dans votre calendrier marketing à l’aide du mode de focus du programme. Vous pouvez créer les types d’entrée suivants :
 
 * Entrées de base
 * Entrées personnalisées
-* Programmes d&#39;e-mail
+* Programmes d’e-mail
 * Campagnes intelligentes
 
-1. Cliquez sur la mosaïque **[!UICONTROL Calendrier]** .
+1. Cliquez sur la mosaïque **[!UICONTROL Calendrier]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -28,7 +28,7 @@ Marketo vous permet de créer des entrées directement dans votre calendrier mar
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
-1. Une fois en mode focus du programme, sélectionnez le jour de votre choix pour ajouter une entrée.
+1. Une fois en mode thème du programme activé, sélectionnez le jour de votre choix pour ajouter une entrée.
 
    ![](assets/image2014-10-20-13-3a8-3a6.png)
 
@@ -38,12 +38,12 @@ Marketo vous permet de créer des entrées directement dans votre calendrier mar
 
    >[!TIP]
    >
-   >Vous pouvez également créer des **campagnes dynamiques**, des **programmes de messagerie électronique** et des **entrées de base** de la même manière.
+   >Notez que vous pouvez également créer les **Campagnes intelligentes**, **Programmes d’e-mail** et **Entrées de base** de la même manière.
 
-1. Une fois la modification terminée, fermez le mode de mise au point du programme.
+1. Une fois la modification terminée, fermez le mode de sélection du programme.
 
    ![](assets/image2014-10-20-13-3a8-3a29.png)
 
 >[!MORELIKETHIS]
 >
->[Modifier directement les entrées dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[Modifier des entrées directement dans le calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

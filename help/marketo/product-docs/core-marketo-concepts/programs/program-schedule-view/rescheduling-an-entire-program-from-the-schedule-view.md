@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147138
 description: Replanification d’un programme entier à partir de la vue Planification - Documents Marketo - Documentation du produit
-title: Replanifier l’ensemble d’un programme à partir de la vue Planification
+title: Replanification de l’ensemble d’un programme à partir de la vue Planning
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Replanifier l’ensemble d’un programme à partir de la vue Planification {#rescheduling-an-entire-program-from-the-schedule-view}
+# Replanification de l’ensemble d’un programme à partir de la vue Planning {#rescheduling-an-entire-program-from-the-schedule-view}
 
-Lorsque vous clonez un programme ou un événement avec des dates, vous souhaiterez probablement replanifier toutes les dates en même temps. Voici comment procéder.
+Lorsque vous clonez un programme ou un événement avec des dates, vous souhaiterez probablement replanifier toutes les dates en même temps. Voici comment faire.
 
 1. Sélectionnez le programme à replanifier.
 

@@ -3,10 +3,10 @@ description: Vérification du désabonnement de Marketo - Documents Marketo - Do
 title: Vérification du désabonnement par Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -32,7 +32,7 @@ La vérification de désabonnement de [!UICONTROL Marketo] utilise la connexion 
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
-## Informations à connaître {#things-to-know}
+## Choses à savoir {#things-to-know}
 
 La vérification du désabonnement de Marketo...
 

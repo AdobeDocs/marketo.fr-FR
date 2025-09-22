@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359953
 description: Personnes Ayant Épuisé Leur Contenu - Documents Marketo - Documentation Du Produit
-title: Personnes Ayant Épuisé Le Contenu
+title: Personnes ayant épuisé le contenu
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Personnes Ayant Épuisé Le Contenu {#people-who-have-exhausted-content}
+# Personnes ayant épuisé le contenu {#people-who-have-exhausted-content}
 
 Lorsqu’une personne a reçu chaque élément de contenu dans un flux, il a épuisé toutes les possibilités et restera inactif jusqu’à ce que d’autres éléments soient ajoutés. Vous pouvez trouver des gens qui sont « épuisés » de plusieurs façons.
 
@@ -51,7 +51,7 @@ Lorsqu’une personne a reçu chaque élément de contenu dans un flux, il a ép
 
    Cela vous montre les personnes qui ont épuisé tout le contenu et celles qui ne l’ont pas fait.
 
-## Stream {#stream}
+## Flux {#stream}
 
 1. Vous pouvez également voir le nombre total de personnes qui ont épuisé le contenu sous l’onglet [!UICONTROL Flux] sur le flux lui-même.
 

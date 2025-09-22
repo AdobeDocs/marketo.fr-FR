@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097867
 description: Définition d’une liste dynamique pour les activités de Web Personalization - Documents Marketo - Documentation du produit
-title: Définition d’une liste dynamique pour les activités de Web Personalization
+title: Définir une liste intelligente pour les activités Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

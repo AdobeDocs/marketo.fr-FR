@@ -4,10 +4,10 @@ description: Ajout d’un e-mail Champion/Challenger - Documents Marketo - Docum
 title: Ajouter un e-mail Champion/Challenger
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ Voici comment commencer.
 
 >[!CAUTION]
 >
->Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie [](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

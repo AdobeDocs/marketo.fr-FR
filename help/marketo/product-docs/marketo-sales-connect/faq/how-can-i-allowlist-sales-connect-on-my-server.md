@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352408
-description: Comment puis-je Placer sur la liste autorisée Sales Connect sur mon serveur ? - Documents Marketo - Documentation Du Produit
-title: Comment puis-je Placer sur la liste autorisée Sales Connect sur mon serveur ?
+description: Comment puis-je Placer sur la liste autorisée Sales Connect sur mon serveur ? - Documents Marketo - Documentation sur le produit
+title: Comment puis-je ajouter Sales Connect à la liste autorisée sur mon serveur ?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 

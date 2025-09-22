@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
 description: Graphiques Rapides D’Informations Sur Les Performances - Documents Marketo - Documentation Du Produit
-title: Graphiques rapides d’informations sur les performances
+title: Graphiques rapides de Performance Insights
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45416566
 description: Paramètres De Consentement Bipartite - Documents Marketo - Documentation Du Produit
-title: Paramètres De Consentement Bipartite
+title: Paramètres de consentement des deux parties
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Paramètres De Consentement Bipartite {#two-party-consent-settings}
+# Paramètres de consentement des deux parties {#two-party-consent-settings}
 
 Afin de garantir la conformité aux lois américaines sur le consentement bipartite lors de l’enregistrement des appels, en tant qu’administrateur, vous pouvez activer la lecture d’un message préenregistré de votre choix au début de vos appels lors de l’enregistrement.
 

@@ -4,14 +4,14 @@ description: Synchronisation de SFDC - Synchronisation des prospects/propriétai
 title: Synchronisation de SFDC - Synchronisation des prospects et des propriétaires de compte
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# Synchronisation de SFDC : synchronisation du prospect/du propriétaire du compte {#sfdc-sync-lead-account-owner-sync}
+# Synchronisation SFDC : synchronisation du lead/de l’entité propriétaire du compte {#sfdc-sync-lead-account-owner-sync}
 
 Techniquement, ils synchronisent la table « utilisateur » dans [!DNL Salesforce], mais nous l’appellerons champs de prospect/propriétaire de compte.
 

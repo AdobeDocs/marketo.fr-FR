@@ -3,10 +3,10 @@ description: Gestion Des Modèles - Documents Marketo - Documentation Du Produit
 title: Gérer les modèles
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -46,7 +46,7 @@ La zone Détails du modèle contient plusieurs onglets.
   <td>Vérifier et apporter des modifications, configurer des critères pour faire du modèle un modèle recommandé, ajouter des notes</td>
  </tr>
  <tr>
-  <td><strong>Analytics</strong></td>
+  <td><strong>Analyse</strong></td>
   <td>Examinez les analyses d’engagement pour le modèle. Effectuez une recherche filtrée.</td>
  </tr>
  <tr>
@@ -87,7 +87,7 @@ Si vous utilisez l&#39;un de nos comptes d&#39;équipe, tous vos modèles resten
 
    ![](assets/manage-templates-9.png)
 
-## Mettre un modèle en favori {#favorite-a-template}
+## Ajouter un modèle aux favoris {#favorite-a-template}
 
 Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste Favoris. Cela génère automatiquement une nouvelle catégorie en haut de votre liste afin que vous puissiez rapidement accéder aux modèles que vous utilisez le plus.
 
@@ -103,7 +103,7 @@ Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste
 
    ![](assets/manage-templates-12.png)
 
-## Personnaliser la vue du modèle {#customize-template-view}
+## Personnaliser la vue de modèle {#customize-template-view}
 
 Dans la liste déroulante **[!UICONTROL Affichage]**, vous pouvez choisir d’afficher : tous les modèles, vos modèles, vos modèles favoris, les modèles partagés, les modèles non partagés ou les modèles non utilisés (modèles qui n’ont pas été utilisés au cours des 90 derniers jours).
 
@@ -135,7 +135,7 @@ Archivez les modèles pour que le contenu de vos ventes reste organisé et cibl�
 
 Vous pouvez également sélectionner le filtre Inutilisé pour afficher et archiver les modèles qui n’ont pas été utilisés depuis plus de 90 jours.
 
-## Suppression d’un modèle {#delete-a-template}
+## Supprimer un modèle {#delete-a-template}
 
 Pour supprimer un modèle, procédez comme suit.
 

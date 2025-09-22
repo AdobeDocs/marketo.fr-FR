@@ -1,9 +1,9 @@
 ---
-description: API intégrée Adobe PDF - Documents Marketo - Documentation du produit
+description: API incorporée Adobe PDF - Documentation de Marketo - Documentation du produit
 title: API Adobe PDF Embed
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 5%
@@ -12,9 +12,9 @@ ht-degree: 5%
 
 # API Adobe PDF Embed {#adobe-pdf-embed-api}
 
-La vignette Document permet d’incorporer des documents PDF dans les boîtes de dialogue et de suivre l’activité d’engagement des visiteurs dans les documents. Voici comment le mettre en place.
+La carte de document vous permet d’incorporer des documents PDF dans des boîtes de dialogue et d’effectuer le suivi de l’activité d’engagement des documents des visiteurs. Voici comment le configurer.
 
-1. Accédez à l’ [ API intégrée Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. Accédez à [l’API incorporée Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
 1. Cliquez sur **[!UICONTROL Obtenir les informations d’identification]**.
 
@@ -24,19 +24,19 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Saisissez vos informations d’identification, acceptez les termes et cliquez sur **[!UICONTROL Créer des informations d’identification]**.
+1. Saisissez vos informations d’identification, acceptez les conditions, puis cliquez sur **[!UICONTROL Créer des informations d’identification]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
    >[!IMPORTANT]
    >
-   >Vous devez utiliser le domaine sur lequel vous hébergerez le chatbot (par exemple, si vous hébergez le chatbot sur mycompany.com, veillez à le saisir à l’étape 4).
+   >Vous devrez utiliser le domaine sur lequel vous hébergerez le bot conversationnel (par exemple, si vous hébergez le bot conversationnel sur mycompany.com, veillez à le saisir à l’étape 4).
 
-1. Cliquez sur **[!UICONTROL Copier]** pour copier votre ID client.
+1. Cliquez sur **[!UICONTROL Copier]** pour copier votre identifiant client.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. De retour en Dynamic Chat, cliquez sur **[!UICONTROL Intégrations]**. Dans la carte de l’API intégrée Adobe PDF, cliquez sur **[!UICONTROL Activer]**.
+1. De retour dans Dynamic Chat, cliquez sur **[!UICONTROL Intégrations]**. Dans la vignette API incorporée Adobe PDF , cliquez sur **[!UICONTROL Activer]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
@@ -44,4 +44,4 @@ La vignette Document permet d’incorporer des documents PDF dans les boîtes de
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Vous pouvez désormais utiliser la carte Document dans vos boîtes de dialogue [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} !
+Vous pouvez désormais utiliser la carte Document dans le [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} de vos boîtes de dialogue.

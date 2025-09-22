@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437589
 description: Modèle 12F - Documents Marketo - Documentation Du Produit
-title: Modèle 12F
+title: Modèle 12F
 exl-id: 397f5942-70ec-47f4-bfe6-9c6944ed1a3f
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Modèle 12F {#template-12f}
+# Modèle 12F {#template-12f}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
 
 ![](assets/image2015-8-4-14-3a51-3a6.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html?lang=fr)
+[Modèle 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)

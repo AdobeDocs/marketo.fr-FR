@@ -3,7 +3,7 @@ description: Étape 2 sur 4 - Configurer la solution Marketo avec une connexion 
 title: Étape 2 sur 4 - Configurer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%

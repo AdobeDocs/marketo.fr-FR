@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762409
 description: Page Ventes Insight pour les administrateurs Marketo - Documentation de Marketo - Documentation du produit
-title: Page Ventes Insight pour les administrateurs Marketo
+title: Page Informations sur les ventes pour les administrateurs et administratrices Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

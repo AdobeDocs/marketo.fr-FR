@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360327
 description: Affectation de partitions de personne avec des règles d’affectation - Documents Marketo - Documentation du produit
-title: Affecter des partitions de personne avec des règles d'affectation
+title: Affectation de partitions de personne avec des règles d’affectation
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Affecter des partitions de personne avec des règles d&#39;affectation {#assigning-person-partitions-with-assignment-rules}
+# Affectation de partitions de personne avec des règles d’affectation {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
    >
    >Vous pouvez ajouter autant de choix que vous le souhaitez.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

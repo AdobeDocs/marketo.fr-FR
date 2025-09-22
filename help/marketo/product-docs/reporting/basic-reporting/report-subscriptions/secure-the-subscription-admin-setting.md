@@ -4,10 +4,10 @@ description: Sécurisation du paramètre d’administration des abonnements - Do
 title: Sécuriser le paramètre d’administration des abonnements
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

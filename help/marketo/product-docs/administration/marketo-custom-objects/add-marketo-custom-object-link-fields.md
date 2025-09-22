@@ -4,10 +4,10 @@ description: Ajouter des champs de lien d’objet personnalisé Marketo - Docume
 title: Ajouter des champs de lien d’objet personnalisé Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '702'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -68,7 +68,7 @@ Voici comment créer un champ de lien dans un objet personnalisé pour une struc
    >
    >Seuls les types de champ de chaîne sont pris en charge dans le [!UICONTROL champ de lien].
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -116,7 +116,7 @@ Voici comment créer un champ de lien dans un objet intermédiaire à utiliser d
    >
    >Seuls les types de champ de chaîne sont pris en charge dans le [!UICONTROL champ de lien].
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359514
 description: Clonage d’un fragment de code - Documents Marketo - Documentation du produit
-title: Cloner un fragment de code
+title: Cloner un extrait
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Cloner un fragment de code {#clone-a-snippet}
+# Cloner un extrait {#clone-a-snippet}
 
 Clonez un fragment de code afin d’en créer une copie que vous pouvez modifier selon vos besoins.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147031
 description: Supprimer une personne de SFDC - Documents Marketo - Documentation du produit
-title: Supprimer individu de SFDC
+title: Supprimer une personne de SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 6%
 
 ---
 
-# Supprimer individu de SFDC {#delete-person-from-sfdc}
+# Supprimer une personne de SFDC {#delete-person-from-sfdc}
 
 Si vous devez supprimer un ensemble spécifique de prospects de Salesforce, mais les laisser en tant que personnes dans Marketo Engage, vous pouvez utiliser l’action de flux Supprimer une personne de SFDC .
 

@@ -2,14 +2,14 @@
 description: Notes De Mise À Jour - Août 2021 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Août 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '903'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notes De Mise À Jour : Août 2021 {#release-notes-aug-21}
+# Notes de mise à jour : août 2021 {#release-notes-aug-21}
 
 Les fonctionnalités suivantes sont incluses dans la version d’août 2021. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo Engage.
 

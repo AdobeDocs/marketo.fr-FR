@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720917
 description: Remarketing personnalisé sur Facebook - Documents Marketo - Documentation du produit
-title: Remarketing personnalisé sur Facebook
+title: Remarketing personnalisé dans Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >[!PREREQUISITES]
 >
 >* Effectuez la configuration [Reciblage avec données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Consultez la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
+>* Consultez la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
 
 ## Création d’une audience dans [!DNL Facebook] {#creating-an-audience-in-facebook}
 

@@ -1,31 +1,31 @@
 ---
 unique-page-id: 7514151
-description: Exemple d’attribution 4 - Documents Marketo - Documentation du produit
-title: Exemple d’attribution 4
+description: Exemple D’Attribution 4 - Documents Marketo - Documentation Du Produit
+title: Exemple d’attribution 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Exemple d’attribution 4 {#attribution-example}
+# Exemple d’attribution 4 {#attribution-example}
 
 Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se trouver dans la grille.
 
-* 11 avril | Michelle télécharge eBook (Content) - Succès
-* 15 avril | John assiste (webinaire) - Réussite
+* 11 avril | Michelle télécharge e-Book (Content) - Success
+* 15 avril | John assiste (webinaire) - Succès
 * 22 avril | (Opportunité 1) créée pour 3 000 $
 * 24 avril | (Opportunité 2) créée pour 5 000 $
-* 25 avril | John et Michelle sont associés à **deux** Optys
-* 29 avril | [Opty 1] is Closed-Won
+* 25 avril | John et Michelle sont associés à **les deux** Optys
+* 29 avril | [Opty 1] est conclu
 
 | Nom du programme | (Contenu) | (Webinaire) |
 |---|---|---|
 |   | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
-| (MT) Option créée | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
+| (MT) Opt créé | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipeline créé | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0</pre>` | `<pre>0.5</pre>` | `<pre>0</pre>` |
 | (MT) Chiffre d’affaires confirmé | `<pre>$1,500</pre>` | `<pre>$0</pre>` | `<pre>$1,500</pre>` | `<pre>$0</pre>` |
@@ -36,19 +36,19 @@ Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se 
 >
 >**Explication**
 >
->Lorsque vous avez plusieurs opportunités et plusieurs personnes avec succès de programme, vous devez répartir le crédit entre les personnes et les programmes. Toutefois, notez que le crédit pour l’opportunité 1 et 2 n’est pas combiné. Chacun d&#39;eux constitue une évaluation du crédit distincte.
+>Lorsque vous avez plusieurs possibilités et plusieurs personnes qui réussissent le programme, vous devez répartir le crédit entre les personnes et les programmes. Notez toutefois que le crédit pour les opportunités 1 et 2 n’est pas combiné. Chacune d&#39;elles est une évaluation de crédit distincte.
 >
->Lorsque de nombreuses personnes sont impliquées, Marketo calcule automatiquement les fractions d’une opportunité pour laquelle donner du crédit.
+>Lorsque de nombreuses personnes sont impliquées, Marketo calcule automatiquement les fractions d’une opportunité de donner du crédit.
 
 >[!NOTE]
 >
 >**Règles d’attribution**
 >
->1. Le crédit est réparti uniformément.
->1. Tu ne peux pas donner plus de crédit que tu n&#39;as gagné.
->1. On ne peut pas créditer quelque chose qui s&#39;est passé dans le passé.
+>1. Le crédit est partagé également
+>1. On ne peut pas accorder plus de crédit que ce qu&#39;on a gagné
+>1. On ne peut pas attribuer le mérite de quelque chose qui s&#39;est produit dans le passé
 
-Essayez tous les exemples et vous serez en faveur de l’attribution !
+Essayez tous les exemples et vous serez un pro de l’attribution !
 
 >[!MORELIKETHIS]
 >

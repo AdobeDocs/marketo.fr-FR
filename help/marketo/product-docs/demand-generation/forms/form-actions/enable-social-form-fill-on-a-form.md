@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359616
 description: Activer le remplissage de formulaires sociaux sur un formulaire - Documents Marketo - Documentation du produit
-title: Activer le remplissage de formulaire social sur un formulaire
+title: Activer le remplissage du formulaire social sur un formulaire
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Activer le remplissage de formulaire social sur un formulaire {#enable-social-form-fill-on-a-form}
+# Activer le remplissage du formulaire social sur un formulaire {#enable-social-form-fill-on-a-form}
 
 Autorisez vos visiteurs et visiteuses à remplir le formulaire à l’aide de leur réseau social. Vous obtiendrez automatiquement des données supplémentaires et ils obtiendront une expérience plus rapide.
 

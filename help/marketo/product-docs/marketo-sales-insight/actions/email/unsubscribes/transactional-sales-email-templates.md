@@ -1,26 +1,26 @@
 ---
-description: Modèles de courrier électronique de vente transactionnelle - Documents Marketo - Documentation du produit
+description: Modèles d’e-mail de ventes transactionnelles - Documents Marketo - Documentation du produit
 title: Modèles d’e-mail de vente transactionnelle
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Modèles d’e-mail de vente transactionnelle {#transactional-sales-email-templates}
 
-Si votre équipe envoie des emails transactionnels ou non commerciaux, vous pouvez marquer un modèle d’email comme non commercial afin qu’il puisse contourner les désabonnements.
+Si votre équipe envoie des e-mails transactionnels ou non commerciaux, vous pouvez marquer un modèle d’e-mail comme non commercial afin qu’il puisse contourner les désabonnements.
 
-## Informations à noter {#things-to-note}
+## Éléments à noter {#things-to-note}
 
-* Les emails non commerciaux contourneront les désabonnements aux ventes et la [vérification de désabonnement du Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, mais ne contourneront pas les [domaines bloqués](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Les e-mails non commerciaux contourneront les désabonnements des ventes et la vérification du désabonnement de [Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"} mais ne contourneront pas les domaines [ bloqués](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
 
-* Les messages de désabonnement ne seront pas automatiquement ajoutés aux emails non commerciaux, même si le paramètre d’administration [ d’ajout de message de désabonnement](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} est activé. Cependant, le `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} continuera à remplir le message de désabonnement de votre équipe.
+* Les messages de désabonnement ne seront pas automatiquement ajoutés aux e-mails non commerciaux, même si le paramètre [Ajouter un administrateur de messages de désabonnement](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} est activé. Cependant, le `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} remplira toujours le message de désabonnement de votre équipe.
 
-## Configuration d’un modèle de courrier électronique à des fins non commerciales {#configure-an-email-template-for-non-commercial-use}
+## Configurer un modèle d’e-mail pour une utilisation non commerciale {#configure-an-email-template-for-non-commercial-use}
 
 1. Dans l’en-tête, cliquez sur **Modèles**.
 
@@ -30,11 +30,11 @@ Si votre équipe envoie des emails transactionnels ou non commerciaux, vous pouv
 
    ![](assets/transactional-sales-email-templates-2.png)
 
-1. Activez le bouton d’activation/désactivation d’email non commercial sous Paramètres du modèle.
+1. Activez le bouton (bascule) E-mail non commercial sous Paramètres du modèle.
 
    ![](assets/transactional-sales-email-templates-3.png)
 
-## Envoyer un email non commercial {#send-a-non-commercial-email}
+## Envoyer un e-mail non commercial {#send-a-non-commercial-email}
 
 >[!NOTE]
 >
@@ -44,12 +44,12 @@ Si votre équipe envoie des emails transactionnels ou non commerciaux, vous pouv
 
    ![](assets/transactional-sales-email-templates-4.png)
 
-1. Une bannière indique aux utilisateurs qu’ils ont sélectionné un modèle d’email non commercial.
+1. Une bannière s’affiche pour indiquer que les utilisateurs et utilisatrices ont sélectionné un modèle d’e-mail non commercial.
 
    ![](assets/transactional-sales-email-templates-5.png)
 
-1. Cliquez sur **Send**.
+1. Cliquez sur **Envoyer**.
 
    ![](assets/transactional-sales-email-templates-6.png)
 
-L&#39;email sera toujours envoyé même si la personne est désinscrite.
+L’e-mail sera toujours envoyé même si la personne est désabonnée.

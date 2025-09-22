@@ -1,25 +1,25 @@
 ---
 description: Connexion utilisateur avec Adobe ID - Documents Marketo - Documentation du produit
-title: Connexion utilisateur avec Adobe ID
+title: Connexion d’utilisateur ou d’utilisatrice avec Adobe ID
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: d1ea45826d9ddf55a67d615b757b6deb9b5c6fc2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Connexion utilisateur avec Adobe ID {#user-sign-in-with-adobe-id}
+# Connexion d’utilisateur ou d’utilisatrice avec Adobe ID {#user-sign-in-with-adobe-id}
 
-Lorsqu’un utilisateur disposant d’une identité d’Adobe doit se connecter à l’application de Marketo Engage, il doit se connecter par le biais du lien de connexion Adobe ID plutôt que par la connexion habituelle sur la page de connexion du Marketo Engage. Lorsque vous cliquez sur le lien, l’utilisateur est dirigé vers l’application du Marketo Engage.
+Lorsqu’un utilisateur avec Adobe Identity doit se connecter à l’application Marketo Engage, il doit le faire via le lien de connexion Adobe ID, contrairement à la connexion standard sur la page de connexion Marketo Engage. En cliquant sur le lien, l’utilisateur est redirigé vers l’application Marketo Engage.
 
-1. Cliquez sur **[!UICONTROL Continuer avec Adobe ID]** sur la page de connexion du Marketo Engage.
+1. Cliquez sur **[!UICONTROL Continuer avec Adobe ID]** sur la page de connexion de Marketo Engage.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 
-1. Saisissez vos informations d’identification d’Adobe et cliquez sur **[!UICONTROL Continuer]**.
+1. Saisissez vos informations d’identification Adobe et cliquez sur **[!UICONTROL Continuer]**.
 
    ![](assets/user-sign-in-with-adobe-id-2.png)
 
-Une fois votre connexion établie, vous serez dirigé vers l’application de Marketo Engage.
+Une fois la connexion établie, vous serez dirigé vers l’application Marketo Engage.

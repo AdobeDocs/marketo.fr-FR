@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437340
 description: Mise en œuvre du RTP à l’aide de Tealium Tag Manager - Documents Marketo - Documentation du produit
-title: Mise en œuvre du RTP à l’aide de Tealium Tag Manager
+title: Mise en œuvre de RTP à l’aide de Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -35,7 +35,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Connectez-vous à votre compte RTP.
 
-1. Accédez à [!UICONTROL &#x200B; Paramètres du compte &#x200B;].
+1. Accédez à [!UICONTROL  Paramètres du compte ].
 
    >[!NOTE]
    >

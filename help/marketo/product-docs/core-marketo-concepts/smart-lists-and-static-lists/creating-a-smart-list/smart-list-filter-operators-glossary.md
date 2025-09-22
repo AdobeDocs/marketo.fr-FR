@@ -1,21 +1,21 @@
 ---
 unique-page-id: 557312
-description: Opérateurs de filtre de liste dynamique - Documentation Marketo - Documentation du produit
-title: Glossaire des opérateurs de filtre de liste dynamique
+description: Glossaire Des Opérateurs De Filtre De Liste Dynamique - Documents Marketo - Documentation Du Produit
+title: Glossaire des opérateurs de filtre de liste intelligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
-# Glossaire des opérateurs de filtre de liste dynamique {#smart-list-filter-operators-glossary}
+# Glossaire des opérateurs de filtre de liste intelligente {#smart-list-filter-operators-glossary}
 
-Un opérateur fait partie de la liste dynamique qui vous permet d’obtenir des informations spécifiques. Il vous permet de décrire votre filtre ou votre déclencheur dans un langage simple. Les opérateurs disponibles sont différents pour chaque type de champ.
+Un opérateur/une opératrice fait partie de la liste dynamique qui vous permet d’être plus précis. Il vous permet de décrire votre filtre ou déclencheur dans un langage simple. Les opérateurs disponibles sont différents pour chaque type de champ.
 
-Voici un glossaire décrivant chaque ensemble d&#39;opérateurs.
+Voici un glossaire décrivant chaque ensemble d’opérateurs.
 
 ## Champs de date {#date-fields}
 
@@ -26,7 +26,7 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
 <table><thead>
   <tr>
     <th>Opérateur</th>
-    <th>Côté droit</th>
+    <th>Côté Droit</th>
     <th>Description</th>
   </tr></thead>
 <tbody>
@@ -42,28 +42,28 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
   </tr>
   <tr>
     <td>entre</td>
-    <td>Deux champs de date</td>
-    <td>Toute date incluant et comprise entre deux dates spécifiées</td>
+    <td>Deux Champs De Date</td>
+    <td>Toute date comprise entre deux dates spécifiées</td>
   </tr>
   <tr>
     <td>dans le passé</td>
-    <td>Entrée du langage naturel*</td>
-    <td>Voir diagramme ci-dessous</td>
+    <td>Entrée en langage naturel*</td>
+    <td>Voir le diagramme ci-dessous</td>
   </tr>
   <tr>
     <td>dans le passé avant</td>
-    <td>Entrée du langage naturel*</td>
-    <td>Voir diagramme ci-dessous</td>
+    <td>Entrée en langage naturel*</td>
+    <td>Voir le diagramme ci-dessous</td>
   </tr>
   <tr>
     <td>à l’avenir</td>
-    <td>Entrée du langage naturel*</td>
-    <td>Voir diagramme ci-dessous</td>
+    <td>Entrée en langage naturel*</td>
+    <td>Voir le diagramme ci-dessous</td>
   </tr>
   <tr>
     <td>à l’avenir après</td>
-    <td>Entrée du langage naturel*</td>
-    <td>Voir diagramme ci-dessous</td>
+    <td>Entrée en langage naturel*</td>
+    <td>Voir le diagramme ci-dessous</td>
   </tr>
   <tr>
     <td>dans la période</td>
@@ -73,7 +73,7 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
   <tr>
     <td>après</td>
     <td>Date unique</td>
-    <td>Tous les enregistrements après la date spécifiée</td>
+    <td>Tous les enregistrements postérieurs à la date spécifiée</td>
   </tr>
   <tr>
     <td>avant</td>
@@ -83,42 +83,42 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
   <tr>
     <td>le ou après le</td>
     <td>Date unique</td>
-    <td>Identique à "after" mais inclusif</td>
+    <td>Identique à « après » mais inclus</td>
   </tr>
   <tr>
     <td>maintenant ou avant</td>
     <td>Date unique</td>
-    <td>Identique à "l'avant" mais inclusif</td>
+    <td>Identique à « avant » mais inclus</td>
   </tr>
   <tr>
     <td>est vide</td>
-    <td>Aucun</td>
+    <td>Aucune</td>
     <td>Tous les enregistrements sans date</td>
   </tr>
   <tr>
     <td>n'est pas vide</td>
-    <td>Aucun</td>
-    <td>Tous les enregistrements avec une date quelconque</td>
+    <td>Aucune</td>
+    <td>Tous les enregistrements avec n’importe quelle date</td>
   </tr>
 </tbody></table>
 
-**&#42;** L’entrée du langage naturel est cool. Voici quelques-uns des modèles que vous pouvez saisir :
+**&#42;** L’entrée en langage naturel est cool. Voici quelques-uns des modèles que vous pouvez entrer :
 
-* 1 heure
-* 82 jours
-* 3 semaines
-* 14 mois
+* 1 heure
+* 82 jours
+* 3 semaines
+* 14 mois
 * 1 an
 
-Il suffit de taper le numéro et l&#39;unité pour que ça marche !
+Tapez simplement le numéro et l&#39;unité ensemble et cela fonctionnera !
 
 >[!NOTE]
 >
->&quot;Dans le passé&quot; _est_ inclut le jour (jusqu’à l’heure, et non après) que vous créez votre liste dynamique.
+>« Dans le passé » _inclut_ le jour (jusqu’au moment de la création de la liste dynamique, et non après).
 
 >[!CAUTION]
 >
->Lorsque vous créez une liste dynamique à l’aide d’un filtre de champ de date (par exemple, Date de naissance, Date de création de la SFDC) et que vous utilisez les contraintes **[!UICONTROL avant]**, **[!UICONTROL au plus tard]** ou **[!UICONTROL avant]**, la liste dynamique inclut également les personnes qui n’ont aucune valeur dans ce champ de date.
+>Lorsque vous créez une liste dynamique à l’aide d’un filtre de champ de date (par exemple, date de naissance, date de création SFDC) et que vous utilisez les contraintes **[!UICONTROL avant]**, **[!UICONTROL le ou avant]** ou **[!UICONTROL dans le passé avant]**, la liste dynamique inclut également les personnes qui n’ont aucune valeur dans ce champ de date.
 
 Utilisez le diagramme suivant pour comprendre la différence entre les opérateurs de date.
 
@@ -128,15 +128,15 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
 >
 >**Exemple**
 >
->Les champs de date peuvent devenir délicats lorsque vous travaillez avec des événements passés et futurs. Voici quelques exemples.
+>Les champs de date peuvent devenir difficiles à gérer lorsque vous travaillez avec des événements passés et futurs. Voici quelques exemples.
 >
->**[!UICONTROL Avant]**
+>**[!UICONTROL Dans le passé]**
 >
->Pour votre nouvelle promotion, utilisez cet opérateur pour envoyer des emails uniquement aux personnes qui ne se sont pas abonnées à ou qui n&#39;ont pas renouvelé votre service dans un délai d&#39;un an ou qui n&#39;ont jamais été abonnés.
+>Pour votre nouvelle promotion, utilisez cet opérateur pour envoyer des e-mails uniquement aux personnes qui ne se sont pas inscrites ou n&#39;ont pas renouvelé votre service dans l&#39;année ou qui n&#39;ont jamais été abonnées.
 >
->**[!UICONTROL À l’avenir après]**
+>**[!UICONTROL Dans le futur après]**
 >
->Supposons que vous souhaitiez voir des clients qui seront renouvelés dans 90 jours. Vous utiliserez deux filtres distincts. Utilisez d’abord &quot;Dans l’avenir après 90 jours&quot;, puis &quot;Dans les 91 prochains jours&quot;. Cela capturerait quiconque aura une date dans 90 jours.
+>Supposons que vous souhaitiez voir les clients dont le renouvellement est prévu dans 90 jours. Vous devez utiliser deux filtres distincts. Utilisez d’abord « Dans le futur après 90 jours », puis « Dans les 91 jours à venir ». Cela s&#39;appliquerait à toute personne qui a une date dans 90 jours.
 
 ## Champs de chaîne {#string-fields}
 
@@ -158,19 +158,19 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
   </tr>
   <tr>
     <td>commence par</td>
-    <td>Première correspondance de chaînes</td>
+    <td>Premières lettres de correspondance de chaîne</td>
   </tr>
   <tr>
     <td>ne commence pas par</td>
-    <td>Les premières lettres de la chaîne NE correspondent PAS</td>
+    <td>Les premières lettres de la chaîne NE CORRESPONDENT PAS</td>
   </tr>
   <tr>
     <td>contient</td>
-    <td>Toutes les lettres ensemble dans la correspondance de chaîne (par exemple : california, fortune, etc.)</td>
+    <td>Toutes les lettres ensemble dans la correspondance de chaîne (exemple : californie, fortune, par conséquent)</td>
   </tr>
   <tr>
     <td>ne contient pas</td>
-    <td>Aucune lettre ne correspond dans la chaîne. (inversé de "contains")</td>
+    <td>Aucune lettre ensemble dans la correspondance de chaîne. (verso de « contient »)</td>
   </tr>
   <tr>
     <td>est vide</td>
@@ -178,16 +178,16 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
   </tr>
   <tr>
     <td>n'est pas vide</td>
-    <td>Enregistrements avec TOUTE valeur</td>
+    <td>Enregistrements avec UNE VALEUR QUELCONQUE</td>
   </tr>
 </tbody>
 </table>
 
 >[!TIP]
 >
->Utilisez des opérateurs positifs plutôt que négatifs. Les filtres &quot;N’est pas&quot; doivent rechercher l’ensemble des données de votre instance, ce qui peut prendre beaucoup de temps. Les filtres &quot;is&quot; positifs peuvent utiliser des algorithmes de recherche plus efficaces.
+>Utilisez des opérateurs positifs plutôt que négatifs. Les filtres « n’est pas » doivent rechercher l’ensemble du jeu de données dans votre instance, ce qui peut prendre énormément de temps. Les filtres positifs « est » peuvent utiliser des algorithmes de recherche plus efficaces.
 
-## Champs entiers {#integer-fields}
+## Champs Entiers {#integer-fields}
 
 ![](assets/smart-list-filter-operators-glossary-4.png)
 
@@ -199,35 +199,35 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
 <tbody>
   <tr>
     <td>est</td>
-    <td>Correspondance exacte du nombre ( = 0) renvoie les deux pistes avec 0 et NULL.</td>
+    <td>Correspondance exacte du nombre ( = 0 renvoie les deux prospects avec 0 et NULL)</td>
   </tr>
   <tr>
     <td>n'est pas</td>
-    <td>Tout SAUF une correspondance de nombre exacte</td>
+    <td>Tout sauf une correspondance de nombre exacte</td>
   </tr>
   <tr>
     <td>entre</td>
-    <td>Définissez deux valeurs pour rechercher toutes les personnes entre les deux (inclusif).</td>
+    <td>Définir deux valeurs pour trouver tout le monde entre les deux (inclus)</td>
   </tr>
   <tr>
     <td>supérieur à</td>
-    <td>Au-dessus de la valeur spécifiée</td>
+    <td>Au-dessus du spécifié</td>
   </tr>
   <tr>
     <td>inférieur à</td>
-    <td>Inférieur à la valeur spécifiée</td>
+    <td>Inférieur au spécifié</td>
   </tr>
   <tr>
     <td>au moins</td>
-    <td>Au-dessus de la valeur spécifiée (incluse)</td>
+    <td>Au-dessus du spécifié (inclus)</td>
   </tr>
   <tr>
     <td>au plus</td>
-    <td>Inférieur à la valeur spécifiée (incluse)</td>
+    <td>Inférieur à l’élément spécifié (inclus)</td>
   </tr>
   <tr>
     <td>est vide</td>
-    <td>Enregistrements sans valeur (NULL) - zéro est un nombre, il n’est pas NULL</td>
+    <td>Enregistrements sans valeur (NULL) - zéro est un nombre, il n'est pas NULL</td>
   </tr>
   <tr>
     <td>n'est pas vide</td>
@@ -236,4 +236,4 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
 </tbody>
 </table>
 
-Comme vous pouvez le voir, ces opérateurs permettent de parler facilement Marketo-ese avec fluidité !
+Comme vous pouvez le constater, ces opérateurs permettent de parler facilement le Marketo avec aisance !

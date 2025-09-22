@@ -4,10 +4,10 @@ description: Ajout d’instructions d’info-bulle à un champ de formulaire - D
 title: Ajouter des instructions d’info-bulle à un champ de formulaire
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 

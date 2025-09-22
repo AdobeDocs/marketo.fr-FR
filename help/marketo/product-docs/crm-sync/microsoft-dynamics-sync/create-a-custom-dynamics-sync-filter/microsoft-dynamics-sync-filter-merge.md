@@ -4,7 +4,7 @@ description: Filtre de synchronisation Microsoft Dynamics - Fusion - Documents M
 title: Filtre de synchronisation Microsoft Dynamics - Fusion
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557130
 description: Présentation Des Listes Intelligentes - Documents Marketo - Documentation Du Produit
-title: Comprendre les listes dynamiques
+title: Présentation des listes intelligentes
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Comprendre les listes dynamiques {#understanding-smart-lists}
+# Présentation des listes intelligentes {#understanding-smart-lists}
 
 Les listes dynamiques vous permettent de trouver des groupes spécifiques de personnes à l’aide de filtres simples. Elles sont utilisées dans tout Marketo, par exemple dans les campagnes intelligentes, les programmes, les rapports, les segmentations, les business models, les programmes d’engagement, le contenu dynamique, etc. Selon vos besoins, les listes dynamiques peuvent être créées à deux endroits dans Marketo :
 

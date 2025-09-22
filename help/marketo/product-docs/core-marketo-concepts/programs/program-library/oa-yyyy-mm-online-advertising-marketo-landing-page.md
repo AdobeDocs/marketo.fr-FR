@@ -1,16 +1,16 @@
 ---
 description: Page de destination Advertising Marketo en ligne (AAAA-MM) - Documents Marketo - Documentation du produit
-title: Page de destination Advertising Marketo en ligne (AAAA-MM)
+title: OA-AAAA-MM-Publicité en ligne avec page de destination Marketo
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# Page de destination Advertising Marketo en ligne (AAAA-MM) {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# OA-AAAA-MM-Publicité en ligne avec page de destination Marketo {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Voici un exemple de programme de suivi publicitaire en ligne, comprenant une page de destination Marketo avec un formulaire d’enregistrement et utilisant un programme par défaut de Marketo. Le lien vers l’offre peut être affiché sur la page de remerciement, envoyé dans un e-mail de remerciement ou les deux.
 
@@ -52,7 +52,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>01-E-Mail-Merci</td>
   </tr>
   <tr>

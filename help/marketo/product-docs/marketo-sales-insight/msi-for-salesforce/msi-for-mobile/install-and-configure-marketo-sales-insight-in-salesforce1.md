@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511512
 description: Installer et configurer Marketo Sales Insight dans Salesforce1 - Documents Marketo - Documentation du produit
-title: Installation et configuration de Marketo Sales Insight dans Salesforce1
+title: Installer et configurer Informations sur les ventes Marketo dans Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNL Best Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
+>[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNLBest Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
 
 ## Activation de l’application mobile [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
@@ -155,7 +155,7 @@ ht-degree: 1%
    >
    >Saisissez « Ajouter à » dans la recherche rapide pour faciliter la recherche d’Add to Marketo Campaign.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 

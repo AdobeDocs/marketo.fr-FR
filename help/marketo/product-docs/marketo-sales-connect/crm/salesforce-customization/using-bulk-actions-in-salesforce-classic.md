@@ -4,7 +4,7 @@ description: Utilisation d’actions en bloc dans  [!DNL Salesforce]  Classic - 
 title: Utilisation d’actions en bloc dans  [!DNL Salesforce]  Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 2%
@@ -53,7 +53,7 @@ e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une d
 
    ![](assets/five-3.png)
 
-1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six.png)
 

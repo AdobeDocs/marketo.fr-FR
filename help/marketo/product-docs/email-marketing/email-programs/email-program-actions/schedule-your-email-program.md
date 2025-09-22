@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359455
 description: Planification De Votre Programme De Messagerie Électronique - Documents Marketo - Documentation Du Produit
-title: Planifier votre programme de messagerie
+title: Planifier votre programme d’e-mail
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Planifier votre programme de messagerie {#schedule-your-email-program}
+# Planifier votre programme d’e-mail {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >* [Choisir un e-mail existant](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [Créer un e-mail pour un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Une fois votre programme de messagerie créé, l’audience définie et l’e-mail sélectionné, vous souhaiterez indiquer à votre programme *quand* pour envoyer l’e-mail. Voici comment procéder.
+Une fois votre programme de messagerie créé, l’audience définie et l’e-mail sélectionné, vous souhaiterez indiquer à votre programme *quand* pour envoyer l’e-mail. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

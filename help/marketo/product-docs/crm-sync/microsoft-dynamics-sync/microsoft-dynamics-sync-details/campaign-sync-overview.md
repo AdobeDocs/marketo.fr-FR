@@ -1,16 +1,16 @@
 ---
 description: Présentation De La Synchronisation De Campaign - Documents Marketo - Documentation Du Produit
-title: Présentation de la synchronisation de la campagne
+title: Vue d’ensemble de la synchronisation des campagnes
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Présentation de la synchronisation de la campagne {#campaign-sync-overview}
+# Vue d’ensemble de la synchronisation des campagnes {#campaign-sync-overview}
 
 Dans le cadre de la synchronisation de la campagne, les utilisateurs peuvent configurer l’automatisation pour fonctionner sur l’appartenance à une campagne [!DNL Dynamics]. Les leads qualifiés pour des comportements ou des données démographiques spécifiques peuvent être intégrés aux campagnes Microsoft.
 

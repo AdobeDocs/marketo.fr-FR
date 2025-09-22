@@ -1,28 +1,28 @@
 ---
-description: Pourquoi mes emails sont-ils marqués comme indésirables ? - Documents Marketo - Documentation du produit
-title: Pourquoi mes emails sont-ils marqués comme indésirables ?
+description: Pourquoi mes e-mails sont-ils marqués comme spam ? - Documents Marketo - Documentation sur le produit
+title: Pourquoi mes e-mails sont-ils marqués comme spam ?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Pourquoi mes emails sont-ils marqués comme indésirables ? {#why-do-my-emails-get-marked-as-spam}
+# Pourquoi mes e-mails sont-ils marqués comme spam ? {#why-do-my-emails-get-marked-as-spam}
 
-En tant qu’entreprise, nous travaillons dur pour nous assurer que nos taux de délivrabilité restent élevés. Néanmoins, certains comportements et paramètres utilisateur peuvent déclencher le routage de vos emails envoyés vers le dossier spam.
+En tant qu&#39;entreprise, nous travaillons dur pour nous assurer que nos taux de délivrabilité restent élevés. Néanmoins, certains comportements et paramètres utilisateur peuvent déclencher l’acheminement des e-mails envoyés vers le dossier des courriers indésirables.
 
-**Vérifiez vos paramètres**
+**Vérifiez Vos Paramètres**
 
-* Suivi des domaines personnalisés : permet d’afficher tous les liens de suivi en cours.&quot;yourdomain&quot; au lieu de go.toutapp. Un certain niveau de sécurité des emails indique que l’email provient de &quot;votre domaine&quot;, mais que le lien est redirigé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisés, vos emails auront l’air légitime et auront une probabilité plus élevée d’accéder à la boîte de réception du destinataire.
+* Suivi de domaine personnalisé : vous permet d’afficher tous vos liens de suivi au fur et à mesure. »votredomaine » au lieu de go.toutapp. Certaines mesures de sécurité des e-mails verront que l’e-mail provient de « votredomaine », mais le lien est réacheminé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisé, vos e-mails sembleront légitimes et auront une plus grande probabilité d’accéder à la boîte de réception du destinataire.
 
-**Vérifiez vos comportements de messagerie**
+**Vérifier Les Comportements Des E-Mails**
 
-* Gardez vos emails courts et informels, puis collez vos modèles sous forme d’emails que vous avez déjà écrits.
+* Veillez à ce que vos e-mails soient courts et informels, et collez vos modèles en tant qu’e-mail que vous avez déjà écrit.
 
-* Évitez les emails surformatés ou les messages dans lesquels vous utilisez des mots transnationaux.
+* Évitez les e-mails surformatés ou les messages contenant des mots transnationaux.
 
-* Assurez-vous d’avoir une signature d’email complète avec une adresse physique.
+* Vérifiez que vous disposez d’une signature e-mail complète avec une adresse physique.
 
-* Lisez et assurez-vous de respecter les [lois CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* Lisez-le et assurez-vous de vous conformer aux lois [CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.

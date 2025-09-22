@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384433
 description: Configuration de l’équipe de compte - Documents Marketo - Documentation du produit
-title: Configuration de l’équipe de compte
+title: Configuration de l’équipe responsable du compte
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Configuration de l’équipe de compte {#account-team-setup}
+# Configuration de l’équipe responsable du compte {#account-team-setup}
 
 Une équipe de compte est un groupe de parties prenantes qui travaillent ensemble sur un compte nommé. Pour choisir les rôles de compte CRM à ajouter, procédez comme suit.
 
@@ -31,7 +31,7 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
    >
    >Pour [!UICONTROL Rôle de compte], attribuez-lui un nom et faites-le correspondre au champ de recherche d’utilisateur de votre CRM.
 
-1. Saisissez votre nom [!UICONTROL &#x200B; Rôle de compte &#x200B;] et sélectionnez le champ **CRM**. Ajoutez jusqu’à 10.
+1. Saisissez votre nom [!UICONTROL  Rôle de compte ] et sélectionnez le champ **CRM**. Ajoutez jusqu’à 10.
 
    ![](assets/four-2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571890
 description: Activer les groupes de champs personnalisés pour l’analyse des performances du modèle (leads) - Documents Marketo - Documentation du produit
-title: Activer les groupes de champs personnalisés pour l’analyse des performances du modèle (prospects)
+title: Activer des groupes de champs personnalisés pour l’analyse des performances du modèle (leads)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Activer les groupes de champs personnalisés pour l’analyse des performances du modèle (prospects) {#enable-custom-field-groups-for-model-performance-analysis-leads}
+# Activer des groupes de champs personnalisés pour l’analyse des performances du modèle (leads) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
 >[!PREREQUISITES]
 >
@@ -62,6 +62,6 @@ Pour activer un groupe de champs personnalisé pour la création de rapports, pr
    >
    >Cet exemple a activé un groupe de champs personnalisés pour un champ standard (État). Par conséquent, seule la zone [!UICONTROL Analyse de la performance du modèle (prospects)] a été affectée. Si un groupe de champs personnalisés pour un champ de personne ou d’entreprise personnalisé avait été activé, le groupe activé s’affichait dans la section [!UICONTROL Analyse des performances du modèle (leads)] de l’onglet Synchroniser le résumé. Le nombre de champs personnalisés pour l’analyse des leads, des campagnes et des opportunités augmenterait d’une unité.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/five-1.png)

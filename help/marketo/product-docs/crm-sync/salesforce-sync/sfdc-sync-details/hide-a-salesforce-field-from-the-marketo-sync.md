@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719306
 description: Masquez un champ Salesforce dans la section Synchronisation de Marketo - Documentation de Marketo - Documentation du produit.
-title: Masquage d’un champ Salesforce dans la synchronisation Marketo
+title: Masquer un champ Salesforce dans la synchronisation Marketo
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -39,7 +39,7 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Décochez la case **[!UICONTROL Visible]** en regard du champ que vous souhaitez masquer. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Décochez la case **[!UICONTROL Visible]** en regard du champ que vous souhaitez masquer. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 

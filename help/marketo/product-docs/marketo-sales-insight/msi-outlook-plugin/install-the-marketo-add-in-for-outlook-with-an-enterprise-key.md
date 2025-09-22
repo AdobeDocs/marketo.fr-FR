@@ -4,7 +4,7 @@ description: Installation du complément Marketo pour  [!DNL Outlook]  avec une 
 title: Installer le complément Marketo pour [!DNL Outlook] avec une clé d’entreprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -43,4 +43,4 @@ Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;ad
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
+   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).

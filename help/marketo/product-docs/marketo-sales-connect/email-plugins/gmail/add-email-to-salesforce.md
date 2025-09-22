@@ -4,10 +4,10 @@ description: Ajouter un e-mail à Salesforce - Documents Marketo - Documentation
 title: Ajouter un e-mail à Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

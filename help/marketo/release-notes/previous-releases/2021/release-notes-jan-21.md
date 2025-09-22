@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Janvier 2021 - Documents Marketo - Document
 title: Notes De Mise À Jour - Janvier 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1236'
-ht-degree: 0%
+source-wordcount: '1237'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version de janvier 2021. V�
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 
@@ -63,13 +63,13 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 * **[Informations sur le statut des e-mails ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)** : les utilisateurs voient un message d’avertissement lorsqu’ils essaient d’envoyer un e-mail à un ID d’e-mail non valide ou à une adresse e-mail de désabonnement avant d’envoyer un e-mail.  Vous pouvez consulter les statuts de diffusion des e-mails dans l’onglet E-mail de [!DNL Sales Insight].
 * **Envoi d’e-mails en masse depuis les panneaux [Compte](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) et [Opportunité](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) ([!DNL Salesforce] CRM)** : améliorez l’efficacité du workflow du vendeur et interagissez avec l’ensemble de la liste de contacts d’un compte ou d’une opportunité à l’aide de nouvelles fonctionnalités d’action en masse. Envoyez des e-mails ou ajoutez des contacts aux campagnes Marketo Engage à l’aide de la nouvelle option déroulante dans les onglets compte ou opportunité au lieu de travailler avec des contacts individuels. Ajouter des contacts de compte à une watchlist pour être averti lorsque les leads deviennent chauds.
 * **[[!DNL Sales Insight] pour les intégrations CRM  [!DNL Salesforce]  natives](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)** : les abonnements GA avec des intégrations CRM Salesforce personnalisées peuvent installer le package [!DNL Sales Insight] et aider les équipes commerciales à prioriser et à interagir avec les prospects et les opportunités les plus prometteuses.
-* **[Améliorations des meilleurs résultats](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)** : contactez rapidement les prospects de l’onglet Meilleurs résultats en les envoyant par e-mail ou en les ajoutant à une campagne Marketo Engage. Affichez un prospect dans Marketo Engage ou ajoutez-le à votre liste de surveillance. Les actions en masse et les options de tri sur l’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] permettent de gagner du temps et d’améliorer l’efficacité de l’équipe commerciale.
+* **[Améliorations des meilleurs résultats](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)** : contactez rapidement les prospects de l’onglet Meilleurs résultats en les envoyant par e-mail ou en les ajoutant à une campagne Marketo Engage. Affichez un prospect dans Marketo Engage ou ajoutez-le à votre liste de surveillance. Les actions en masse et les options de tri sur l’onglet [!UICONTROL  Meilleurs résultats ] permettent de gagner du temps et d’améliorer l’efficacité de l’équipe commerciale.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Limitation de la connexion aux e-mails (BETA)**: améliorez la délivrabilité de vos e-mails et mettez à l’échelle votre communication commerciale 1:1 à l’aide de la limitation de la connexion aux e-mails pour [!DNL Sales Connect]. Notre nouvelle technologie de limitation gère automatiquement le délai d’envoi des e-mails afin de créer des expériences transparentes pour les utilisateurs d’[!DNL Exchange] et de Gmail. Réduire ou éliminer l’utilisation d’applications tierces d’envoi d’e-mails en masse
+* **Limitation de la connexion aux e-mails (BETA)**: améliorez la délivrabilité de vos e-mails et adaptez votre communication commerciale 1:1 à l’aide de la limitation de la connexion aux e-mails pour [!DNL Sales Connect]. Notre nouvelle technologie de limitation gère automatiquement le délai d’envoi des e-mails afin de créer des expériences transparentes pour les utilisateurs d’[!DNL Exchange] et de Gmail. Réduire ou éliminer l’utilisation d’applications tierces d’envoi d’e-mails en masse
 * insight **Suivi des rebonds de connexions aux e-mails** : gagnez en qualité de lead et en performances de modèle d’e-mail avec le nouveau rapport sur les rebonds d’e-mails. Les utilisateurs d’[!DNL Exchange] et de Gmail peuvent choisir de recevoir des notifications de rebond qui seront cumulées dans les flux en direct, les dossiers d’e-mails, les modèles d’analyse et Campaign Analytics.
 * **Configuration de la page de profil** : gérez facilement les préférences utilisateur dans la nouvelle page de profil. Modifiez le mot de passe, la géolocalisation et les paramètres de langue, ainsi que les statuts d’intégration à un seul endroit.
 * **Gestion des modèles** : organisez les modèles d’e-mail de vente en catégories à l’aide d’une nouvelle fonctionnalité de glisser-déposer afin d’assurer un accès rapide aux modèles pertinents et de réduire le temps de recherche.
@@ -83,4 +83,4 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 **_Webinaire de mise à jour du produit_**
 
-Vous souhaitez en savoir plus sur ces fonctionnalités et améliorations ? N’oubliez pas de vous [inscrire dès maintenant](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) pour vous joindre à nous le 21 janvier à 13 h (heure de Paris) / 16 h (heure de Paris) pour un webinaire en direct avec notre équipe produit afin d’approfondir l’étude de ces innovations.
+Vous souhaitez en savoir plus sur ces fonctionnalités et améliorations ? N’oubliez pas de vous [inscrire dès maintenant](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) pour vous joindre à nous le 21 janvier à 13 :00 (heure de Paris) / 16 :00 (heure de Paris) pour un webinaire en direct avec notre équipe produit afin d’approfondir l’étude de ces innovations.

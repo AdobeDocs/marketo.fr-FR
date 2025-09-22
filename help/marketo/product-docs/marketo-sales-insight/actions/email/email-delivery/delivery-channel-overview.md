@@ -1,16 +1,16 @@
 ---
 description: Présentation Du Canal De Diffusion - Documents Marketo - Documentation Du Produit
-title: Présentation Du Canal De Diffusion
+title: Vue d’ensemble du canal de remise
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 0%
 
 ---
 
-# Présentation Du Canal De Diffusion {#delivery-channel-overview}
+# Vue d’ensemble du canal de remise {#delivery-channel-overview}
 
 Le service commercial de Marketo vous offre plusieurs options pour diffuser des e-mails. Cet article passe en revue les canaux de diffusion que vous pouvez utiliser, comment les sélectionner et quand les sélectionner les uns par rapport aux autres.
 

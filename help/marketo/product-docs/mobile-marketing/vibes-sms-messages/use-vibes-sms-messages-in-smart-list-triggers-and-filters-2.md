@@ -4,7 +4,7 @@ title: Utiliser les messages SMS Vibes dans les déclencheurs et filtres de list
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Utiliser les messages SMS Vibes dans les déclencheurs et filtres de liste dynamique {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Après avoir [créé un SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, vous souhaiterez utiliser les déclencheurs et filtres de liste dynamique dans une campagne dynamique pour en tirer les avantages. Voici comment procéder.
+Après avoir [créé un SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, vous souhaiterez utiliser les déclencheurs et filtres de liste dynamique dans une campagne dynamique pour en tirer les avantages. Voici comment faire.
 
 1. Dans Mon Marketo, cliquez sur **[!UICONTROL Activités marketing]**.
 

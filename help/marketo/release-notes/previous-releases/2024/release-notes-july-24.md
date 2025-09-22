@@ -3,26 +3,26 @@ description: Notes De Mise À Jour - Juillet 2024 - Documents Marketo - Document
 title: Notes de mise à jour - Juillet 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 5%
+ht-degree: 23%
 
 ---
 
-# Notes De Mise À Jour : Juillet 2024 {#release-notes-july-24}
+# Notes de mise à jour : juillet 2024 {#release-notes-july-24}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 juillet. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 juillet. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
-Les notes de mise à jour spécifiques à Adobe Dynamic Chat [sont disponibles ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **26 juillet 2024** avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 26 juillet 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -45,7 +45,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
      <tr>
    <td><strong>Gestion des salles pour les webinaires interactifs</strong> : accédez aux salles individuelles créées (et apportez des modifications si nécessaire) ainsi qu’au contenu et à l’enregistrement (et effacez-les si nécessaire pour optimiser le stockage).</td>
     <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gestion de salle</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gestion des salles</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -67,7 +67,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
      <tr>
    <td><strong>Modification de l’API REST Marketo </strong>: Nous apportons une modification mineure à l’API <a href="https://developers.marketo.com/rest-api/user-management/"> User Management</a>. Les points d’entrée <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Parcourir les utilisateurs</a> et <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Supprimer un utilisateur</a> prennent désormais en charge les utilisateurs <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gestion de compte Target</a>.</td>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
  </tbody>
 </table>
@@ -80,7 +80,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 * **Obsolescence des fonctionnalités sociales** : le mercredi 31 juillet 2024, Marketo Engage commencera l’obsolescence des fonctionnalités sociales suivantes du produit :
 
    * Sondages
-   * Réseaux sociaux
+   * Bouton social
    * Offre de parrainage
    * Partage de vidéos
    * Loteries

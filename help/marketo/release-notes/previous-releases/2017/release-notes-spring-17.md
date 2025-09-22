@@ -3,14 +3,14 @@ unique-page-id: 12977439
 description: Notes De Mise À Jour - Printemps 17 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Printemps 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 3%
 
 ---
 
-# Notes de mise à jour : printemps 17 {#release-notes-spring}
+# Notes de mise à jour : printemps 2017 {#release-notes-spring}
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 17. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 

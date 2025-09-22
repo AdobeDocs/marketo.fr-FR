@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953120
 description: Présentation Des Campagnes Intelligentes - Documents Marketo - Documentation Du Produit
-title: Comprendre les campagnes intelligentes
+title: Présentation des campagnes intelligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
-# Comprendre les campagnes intelligentes {#understanding-smart-campaigns}
+# Présentation des campagnes intelligentes {#understanding-smart-campaigns}
 
 Si l’on considère que Marketo Engage est une voiture, alors la campagne intelligente est son moteur. Les campagnes intelligentes, simples d’utilisation, peuvent faire bien plus que vous ne pouvez l’imaginer.
 

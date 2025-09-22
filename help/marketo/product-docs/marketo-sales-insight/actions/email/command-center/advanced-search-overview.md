@@ -3,10 +3,10 @@ description: Vue D’Ensemble De La Recherche Avancée - Documents Marketo - Doc
 title: Vue d’ensemble de la recherche avancée
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -28,7 +28,7 @@ En utilisant la recherche avancée pour cibler les prospects qui ont consulté l
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Cliquez sur [!UICONTROL &#x200B; Recherche avancée &#x200B;].
+1. Cliquez sur [!UICONTROL  Recherche avancée ].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -83,13 +83,13 @@ Vous avez le choix entre trois statuts d’e-mail. Les options de type/activité
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Statut : Envoyé**&#x200B;_
+_**Statut : Envoyé**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtre par activité d’e-mail envoyé. Vous pouvez choisir les options [!UICONTROL vues]/[!UICONTROL aucune vue], [!UICONTROL clics]/[!UICONTROL aucun clic] et/ou [!UICONTROL réponses]/[!UICONTROL aucune réponse].
 
-_&#x200B;**Statut : En Attente**&#x200B;_
+_**Statut : En Attente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtre par tous les e-mails en attente.
  </tr>
 </table>
 
-_&#x200B;**Statut : non diffusé**&#x200B;_
+_**Statut : non diffusé**_
 
 ![](assets/advanced-search-overview-12.png)
 

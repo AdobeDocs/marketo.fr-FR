@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360245
-description: Supprimer le texte de désabonnement de la section Admin Email - Documents Marketo - Documentation du produit
-title: Supprimer le texte Désabonner de la section Courrier électronique d’administration
+description: Suppression du texte de désabonnement de la section E-mail de l’administrateur - Documents Marketo - Documentation du produit
+title: Supprimez le texte de désabonnement de la section E-mail de l’administrateur.
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Supprimer le texte Désabonner de la section Admin > Email {#remove-unsubscribe-text-from-the-admin-email-section}
+# Supprimez le texte de désabonnement de la section Admin > Email . {#remove-unsubscribe-text-from-the-admin-email-section}
 
-La seule raison pour laquelle vous devriez supprimer complètement le contenu de désabonnement de la zone **[!UICONTROL Admin]** > **[!UICONTROL Email]** est si vous choisissez de créer le lien de désabonnement dans les modèles d’email eux-mêmes. La zone de texte comporte une validation qui ne vous permet pas d’enregistrer sans contenu. Vous pouvez contourner ce problème en ajoutant un petit commentaire d’HTML. Le commentaire d’HTML ne s’affiche pas dans le client de messagerie, car il affiche l’email en HTML et les commentaires sont omis. Voici comment le faire.
+La seule raison pour laquelle vous devriez supprimer complètement le contenu de désabonnement de la zone **[!UICONTROL Admin]** > **[!UICONTROL E-mail]** est que vous choisissez de créer le lien de désabonnement dans les modèles d’e-mail eux-mêmes. La zone de texte comporte une validation qui ne vous permet pas d’enregistrer sans contenu. Vous pouvez contourner ce problème en ajoutant un petit commentaire HTML. Le commentaire HTML ne s’affichera pas dans le client de messagerie, car il effectue le rendu de l’e-mail dans HTML et les commentaires sont omis. Voici comment procéder.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -27,7 +27,7 @@ La seule raison pour laquelle vous devriez supprimer complètement le contenu de
 
    >[!CAUTION]
    >
-   >Avant la suppression, copiez/collez-le dans un document texte en tant que sauvegarde.
+   >Avant la suppression, copiez/collez ceci dans un document texte en tant que sauvegarde.
 
 1. Saisissez `<!--This is a comment -->`.
 
@@ -39,4 +39,4 @@ La seule raison pour laquelle vous devriez supprimer complètement le contenu de
 
 >[!NOTE]
 >
->Pour le **texte de désabonnement**, vous devez ajouter un caractère unique. Utilisez un tiret ou un point.
+>Pour le **Texte de désabonnement** vous devez ajouter un seul caractère. Utilisez un tiret ou un point.

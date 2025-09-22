@@ -3,14 +3,14 @@ unique-page-id: 13795395
 description: Notes De Mise À Jour - Hiver 18 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Hiver 18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Notes de mise à jour : hiver 18 {#release-notes-winter}
+# Notes de mise à jour : hiver 2018 {#release-notes-winter}
 
 Les fonctionnalités suivantes sont incluses dans la version d’hiver 18. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
@@ -68,7 +68,7 @@ Grâce à cette intégration, vous pouvez envoyer une audience Marketo à Google
 
 Notre nouvelle API [!DNL LinkedIn] vous permet désormais de cibler à nouveau des personnes dans votre base de données Marketo sur plusieurs comptes [!DNL LinkedIn] Campaign Manager.
 
-## Personnalisation Web {#web-personalization}
+## Web Personalization {#web-personalization}
 
 **Japanese Data Source for Web Personalization**
 
@@ -78,7 +78,7 @@ Marketo ajoute une source de données japonaise supplémentaire pour Web Persona
 
 Web Personalization peut désormais personnaliser le contenu pour un visiteur web connu qui fait partie d’une liste statique définie dans les activités marketing (MLM). Grâce à cette amélioration, vous pouvez désormais commercialiser sur plusieurs canaux des listes statiques et cibler les personnes figurant sur ces listes avec du contenu personnalisé sur votre site web.
 
-## IA dédiée au contenu {#contentai}
+## ContentAI {#contentai}
 
 **Amélioration de l’algorithme prédictif**
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472615
 description: Comprendre les champs gérés par le système - Documentation de Marketo - Documentation du produit
-title: Comprendre les champs gérés par le système
+title: Présentation des champs gérés par le système
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '523'
-ht-degree: 16%
+ht-degree: 17%
 
 ---
 
-# Comprendre les champs gérés par le système {#understanding-system-managed-fields}
+# Présentation des champs gérés par le système {#understanding-system-managed-fields}
 
 Vous avez peut-être remarqué que la page [détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} comporte une série de champs non modifiables créés par Marketo. Ces données proviennent de diverses sources et d’innombrables valeurs peuvent s’afficher.
 

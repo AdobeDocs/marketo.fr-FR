@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146991
-description: Désactivation d’une campagne dynamique de déclenchement | Onglet Planification - Documents Marketo - Documentation du produit
-title: Désactivation d’une campagne dynamique de déclenchement | Onglet Planification
+description: Désactivation d’une campagne intelligente Trigger | Onglet Planning - Documents Marketo - Documentation Du Produit
+title: Désactiver une campagne intelligente à déclencheur | Onglet Planning
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Désactivation d’une campagne dynamique de déclenchement | Onglet Planification {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# Désactiver une campagne intelligente à déclencheur | Onglet Planning {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
-Si vous devez désactiver une ancienne campagne de déclenchement, procédez comme suit :
+Si vous devez désactiver une ancienne campagne Trigger, procédez comme suit :
 
 1. Recherchez et sélectionnez votre campagne de déclenchement active.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. Sous l’onglet Planning , cliquez sur **[!UICONTROL Désactiver]**.
+1. Sous l’onglet Planification , cliquez sur **[!UICONTROL Désactiver]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
@@ -29,4 +29,4 @@ Si vous devez désactiver une ancienne campagne de déclenchement, procédez com
 
 >[!NOTE]
 >
->Cela empêchera les _nouvelles_ personnes d’entrer dans le flux, mais les personnes qui suivent des étapes d’attente ou toute autre étape de flux continueront à se déplacer dans le flux jusqu’à ce qu’il soit terminé.
+>Cela empêchera _les nouvelles personnes_ d’entrer dans le flux, mais les personnes en attente ou toute autre étape du flux continueront à se déplacer dans le flux jusqu’à ce que cela soit terminé.

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379928
 description: Modifier les détails dans Journal d’audit - Documents Marketo - Documentation du produit
-title: Modifier les détails dans le journal d'audit
+title: Modifier des détails dans le journal d’audit
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 14%
+ht-degree: 15%
 
 ---
 
-# Modifier les détails dans le journal d&#39;audit {#change-details-in-audit-trail}
+# Modifier des détails dans le journal d’audit {#change-details-in-audit-trail}
 
 Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi dans votre abonnement Marketo. Voici les détails.
 
@@ -236,7 +236,7 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
    <td colspan="1">Supprimer le coût par période. Valeur « # » du mois de programme « aaaa-mm »</td>
   </tr>
   <tr>
-   <td rowspan="8">Modèle d'e-mail</td>
+   <td rowspan="8">Modèle d’e-mail</td>
    <td>Créer</td>
    <td>Vierge ou cloné à partir du « nom du modèle »</td>
   </tr>
@@ -770,7 +770,7 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
    <td>SmartList modifié pour la connexion à télécharger : « true ou false »</td>
   </tr>
   <tr>
-   <td rowspan="7">Utilisateur<br><br><br><br></td>
+   <td rowspan="7">Utilisateur ou utilisatrice<br><br><br><br></td>
    <td>Créer (invitation)</td>
    <td>Utilisateur invité avec : adresse e-mail, nom, prénom et nom, l’accès expire « vide ou avec une date », utilisateur de l’API « true ou false » - <br> affiche un instantané des rôles et des espaces de travail affectés à l’utilisateur.</td>
   </tr>

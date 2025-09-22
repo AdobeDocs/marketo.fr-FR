@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514224
 description: Personnalisation et affichage des grilles thermiques - Documents Marketo - Documentation du produit
-title: Personnalisation et affichage des grilles thermiques
+title: Personnaliser et afficher des grilles thermiques
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Personnalisation et affichage des grilles thermiques {#customize-and-display-heat-grids}
+# Personnaliser et afficher des grilles thermiques {#customize-and-display-heat-grids}
 
 Une grille thermique représente visuellement vos données dans une grille colorée afin que vous puissiez identifier les bons et les mauvais modèles plus facilement et rapidement.
 

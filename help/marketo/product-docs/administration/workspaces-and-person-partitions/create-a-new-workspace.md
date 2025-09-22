@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
 description: Création d’un Workspace - Documentation de Marketo - Documentation du produit
-title: Création d’un Workspace
+title: Créer un espace de travail
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Création d’un Workspace {#create-a-new-workspace}
+# Créer un espace de travail {#create-a-new-workspace}
 
 Les espaces de travail sont utiles pour subdiviser votre entreprise. Les raisons de configurer des espaces de travail sont les suivantes :
 

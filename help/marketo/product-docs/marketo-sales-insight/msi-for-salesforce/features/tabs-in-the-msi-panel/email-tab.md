@@ -3,10 +3,10 @@ description: Onglet E-Mail - Documents Marketo - Documentation Du Produit
 title: Onglet E-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 

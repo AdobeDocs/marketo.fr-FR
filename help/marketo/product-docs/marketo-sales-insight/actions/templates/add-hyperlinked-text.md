@@ -1,16 +1,16 @@
 ---
 description: Ajout D’Un Texte De Lien Hypertexte - Documents Marketo - Documentation Du Produit
-title: Ajouter un texte lié par un lien hypertexte
+title: Ajouter un lien hypertexte
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Ajouter un texte lié par un lien hypertexte {#add-hyperlinked-text}
+# Ajouter un lien hypertexte {#add-hyperlinked-text}
 
 Suivez les étapes ci-dessous pour savoir comment ajouter des liens hypertexte à vos modèles d’e-mail.
 
@@ -26,7 +26,7 @@ Suivez les étapes ci-dessous pour savoir comment ajouter des liens hypertexte �
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Saisissez l’URL à laquelle vous souhaitez qu’il soit lié (c’est-à-dire `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr`). Choisissez si vous souhaitez que l’URL s’ouvre dans la même fenêtre ou dans une nouvelle, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez l’URL à laquelle vous souhaitez qu’il soit lié (c’est-à-dire `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Choisissez si vous souhaitez que l’URL s’ouvre dans la même fenêtre ou dans une nouvelle, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

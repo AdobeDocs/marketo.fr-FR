@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360409
 description: Créer un rapport d’analyse des e-mails qui affiche des informations sur le programme - Documents Marketo - Documentation du produit
-title: Créer un rapport d’analyse d’e-mail qui affiche les informations du programme
+title: Créer un rapport d’analyse d’e-mail affichant les informations du programme
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Créer un rapport d’analyse d’e-mail qui affiche les informations du programme {#build-an-email-analysis-report-that-shows-program-information}
+# Créer un rapport d’analyse d’e-mail affichant les informations du programme {#build-an-email-analysis-report-that-shows-program-information}
 
 Pour créer un rapport d’analyse des e-mails qui affichera les informations sur les e-mails regroupées par canaux de programme, procédez comme suit.
 

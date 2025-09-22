@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385183
 description: Rapport des ventes du gestionnaire de compte technique - Documents Marketo - Documentation du produit
-title: Rapport des ventes de la GTA
+title: Rapport des ventes TAM
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
-# Rapport des ventes de la GTA {#tam-sales-report}
+# Rapport des ventes TAM {#tam-sales-report}
 
 Recevez un e-mail hebdomadaire contenant vos principaux comptes et leurs tendances hebdomadaires.
 
@@ -33,7 +33,7 @@ Le rapport partage :
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">Évaluation du compte</span></strong></td>
+   <td><strong><span class="uicontrol">Score du compte</span></strong></td>
    <td>
     <div>
       Tendance hebdomadaire par score du compte (sélectionné dans la configuration), suivi du score du compte actuel
@@ -54,7 +54,7 @@ Le rapport partage :
     </div></td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">Moments significatifs</span></strong></td>
+   <td><strong><span class="uicontrol">Moments intéressants</span></strong></td>
    <td>
     <div>
       Nombre total de moments intéressants survenus au cours de la semaine

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359594
 description: Ajout d’un FieldSet à un formulaire - Documents Marketo - Documentation du produit
-title: Ajout d’un FieldSet à un formulaire
+title: Ajouter un FieldSet à un formulaire
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Ajout d’un FieldSet à un formulaire {#add-a-fieldset-to-a-form}
+# Ajouter un FieldSet à un formulaire {#add-a-fieldset-to-a-form}
 
 Les jeux de champs sont cool. Ils regroupent un groupe de champs. Vous pouvez contrôler un bloc entier en même temps !
 

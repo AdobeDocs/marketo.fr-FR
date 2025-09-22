@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380986
 description: Modification d’un Workspace - Documents Marketo - Documentation du produit
-title: Modification d’un Workspace
+title: Modifier un espace de travail
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Modification d’un Workspace {#edit-a-workspace}
+# Modifier un espace de travail {#edit-a-workspace}
 
 Parfois, vous devez apporter des modifications dans un Workspace. C’est très simple.
 
@@ -51,7 +51,7 @@ Parfois, vous devez apporter des modifications dans un Workspace. C’est très 
    >
    >La **[!UICONTROL partition de personne par Principal]** agit comme la valeur par défaut et c’est là que toutes les personnes seront affectées.
 
-   Si vous avez activé plusieurs domaines de marque, vous pouvez choisir un autre domaine de marque principal. Cliquez sur **[!UICONTROL Enregistrer]**.
+   Si vous avez activé plusieurs domaines de marque, vous pouvez choisir un autre domaine de marque principal. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/edit-a-workspace-5.png)
 

@@ -3,7 +3,7 @@ description: Fonctionnalités de GenAI - Documentation de Marketo - Documentatio
 title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '630'
 ht-degree: 0%

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097873
 description: Définition d’une liste dynamique pour les activités de contenu prédictif - Documents Marketo - Documentation du produit
-title: Définition d’une liste dynamique pour les activités de contenu prédictif
+title: Définir une liste intelligente pour les activités de contenu prédictif
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Définition d’une liste dynamique pour les activités de contenu prédictif {#define-a-smart-list-for-predictive-content-activities}
+# Définir une liste intelligente pour les activités de contenu prédictif {#define-a-smart-list-for-predictive-content-activities}
 
 Vous pouvez utiliser des activités de contenu prédictives dans des déclencheurs et des filtres lorsque vous définissez une liste dynamique dans une campagne dynamique. Vous pouvez déclencher une action pour toute personne qui clique sur du contenu prédictif via le [modèle de contenu multimédia enrichi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barre de recommandation de contenu](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) ou dans un [e-mail](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 

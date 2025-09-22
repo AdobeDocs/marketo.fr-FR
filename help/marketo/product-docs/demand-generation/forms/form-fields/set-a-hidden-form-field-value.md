@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359663
 description: Définir une valeur de champ de formulaire masqué - Documents Marketo - Documentation du produit
-title: Définir une valeur de champ de formulaire masqué
+title: Définir une valeur de champ de formulaire masquée
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# Définir une valeur de champ de formulaire masqué {#set-a-hidden-form-field-value}
+# Définir une valeur de champ de formulaire masquée {#set-a-hidden-form-field-value}
 
 Les champs masqués sont généralement renseignés dynamiquement. Elles ne sont pas présentées à la personne qui remplit le formulaire. Voici comment définir la valeur.
 

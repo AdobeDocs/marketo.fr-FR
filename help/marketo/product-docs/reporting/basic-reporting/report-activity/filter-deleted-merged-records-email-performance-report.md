@@ -1,27 +1,28 @@
 ---
-description: Filtrer les enregistrements fusionnés/supprimés dans un rapport par e-mail - Documents Marketo - Documentation du produit
-title: Filtrer les enregistrements fusionnés/supprimés dans un rapport par courrier électronique
+description: Filtrage des enregistrements fusionnés/supprimés dans un rapport sur les e-mails - Documents Marketo - Documentation du produit
+title: Filtrer les enregistrements fusionnés/supprimés dans un rapport sur les e-mails
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Filtrer les enregistrements supprimés/fusionnés dans un rapport de performances des emails {#filter-deleted-merged-records-in-an-email-performance-report}
+# Filtrer les enregistrements supprimés/fusionnés dans un rapport des performances des e-mails {#filter-deleted-merged-records-in-an-email-performance-report}
 
-Concentrez votre rapport Performance des emails sur les emails de vos programmes (&#39;ressources locales&#39;), sur ceux de Design Studio (&#39;ressources globales&#39;) ou sur ceux qui ont été archivés.
+Concentrez votre rapport Performance des e-mails sur les e-mails dans vos programmes (« ressources locales »), ceux de Design Studio (« ressources globales ») ou ceux qui ont été archivés.
 
 >[!NOTE]
 >
->Le filtrage des ressources dans les rapports n’est pas pris en charge en mode satellite (l’icône &quot;Ouvrir dans une nouvelle fenêtre&quot; située à droite de la page des détails de la ressource).
+>Le filtrage des ressources dans les rapports n’est pas pris en charge en mode satellite (icône « ouvrir dans une nouvelle fenêtre » sur la droite de la page des détails de la ressource).
 
-1. Accédez à la zone **Analytics** (ou Activités marketing).
+1. Accédez à la zone **Analytics** (ou Activités marketing) .
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-1.png)
 
-1. Sélectionnez votre rapport Performance de messagerie.
+1. Sélectionnez votre Rapport sur les performances des e-mails.
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-2.png)
 
@@ -29,8 +30,8 @@ Concentrez votre rapport Performance des emails sur les emails de vos programmes
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-3.png)
 
-1. Cliquez sur la liste déroulante, sélectionnez **Activé**, puis cliquez sur **Enregistrer**.
+1. Cliquez dans la liste déroulante, sélectionnez **Activé**, puis cliquez sur **Enregistrer**.
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-4.png)
 
-Vous avez fini ! Cliquez sur l’onglet Rapport pour afficher votre rapport filtré.
+C&#39;est fini ! Cliquez sur l’onglet Rapport pour afficher le rapport filtré.

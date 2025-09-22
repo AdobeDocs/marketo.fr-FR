@@ -3,10 +3,10 @@ description: Consigner les raisons et les résultats des appels dans Salesforce 
 title: Consigner les raisons des appels et les résultats des appels dans Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '449'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -89,7 +89,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -151,7 +151,7 @@ Pour utiliser ces champs, vous devez d’abord créer le champ en tant que champ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 

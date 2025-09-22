@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147042
-description: Ajout de données à un champ - Documents Marketo - Documentation du produit
-title: Ajout de données à un champ
+description: Ajouter des données à un champ - Documents Marketo - Documentation du produit
+title: Ajouter des données à un champ
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Ajout de données à un champ {#append-data-to-a-field}
+# Ajouter des données à un champ {#append-data-to-a-field}
 
-Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
+Il existe un moyen facile d’ajouter des données à un champ. Voici comment faire.
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
 
 >[!NOTE]
 >
->Les étapes ci-dessous s’appliquent également à [Modifier les données des membres du programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
+>Les étapes ci-dessous s’appliquent également à [Modifier les données de membre de programme](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. Sous l’onglet **[!UICONTROL Flux]**, faites glisser l’étape de flux **[!UICONTROL Modifier la valeur de données]**.
+1. Sous l’onglet **[!UICONTROL Flux]**, faites glisser l’étape de flux **[!UICONTROL Modifier la valeur des données]**.
 
    ![](assets/append-data-to-a-field-1.png)
 
@@ -39,4 +39,4 @@ Il existe un moyen simple d’ajouter des données à un champ. Voici comment.
 
    ![](assets/append-data-to-a-field-4.png)
 
-C&#39;est tout ! Vous pouvez créer et y ajouter plusieurs jetons.
+Vous avez terminé. Vous pouvez faire preuve de créativité et y ajouter plusieurs jetons.

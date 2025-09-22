@@ -4,10 +4,10 @@ description: Création d’une liste de comptes - Documents Marketo - Documentat
 title: Créer une liste de comptes
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 8%
+ht-degree: 12%
 
 ---
 
@@ -29,7 +29,7 @@ Créez et chargez une liste de noms d’organisation et de domaine pour cibler c
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Sélectionnez **[!UICONTROL Parcourir]** et chargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajoutez un **[!UICONTROL Nom de la liste]** et **[!UICONTROL Description]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **[!UICONTROL Parcourir]** et chargez votre fichier CSV (assurez-vous que le fichier CSV répond aux critères). Ajoutez un **[!UICONTROL Nom de la liste]** et **[!UICONTROL Description]**. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/create-account-list-hands.jpg)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437574
 description: Modèle 12A - Documents Marketo - Documentation Du Produit
-title: Modèle 12A
+title: Modèle 12A
 exl-id: 761d7849-9137-4c6b-b9f2-96d380beb55d
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Modèle 12A {#template-12a}
+# Modèle 12A {#template-12a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=fr)
+[Modèle 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)

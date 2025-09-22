@@ -4,16 +4,16 @@ description: Modifier le CSS d’un thème de formulaire - Documents Marketo - D
 title: Modifier le CSS d’un thème de formulaire
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
 # Modifier le CSS d’un thème de formulaire {#edit-the-css-of-a-form-theme}
 
-Vous disposez de quelques [thèmes préconfigurés parmi lesquels vous pouvez choisir](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier le CSS, vous pouvez apporter les modifications de votre choix. Voici comment procéder.
+Vous disposez de quelques [thèmes préconfigurés parmi lesquels vous pouvez choisir](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mais si vous aimez modifier le CSS, vous pouvez apporter les modifications de votre choix. Voici comment faire.
 
 >[!NOTE]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352540
 description: Empêcher les autovisualisations - Documents Marketo - Documentation du produit
-title: Empêcher les autovisualisations
+title: Empêchement des vues effectuées par soi-même
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Empêcher les autovisualisations {#preventing-self-views}
+# Empêchement des vues effectuées par soi-même {#preventing-self-views}
 
 ## Vue d’ensemble {#overview}
 

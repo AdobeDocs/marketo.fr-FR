@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382535
 description: Utilisation d’URL dans mes jetons - Documents Marketo - Documentation du produit
-title: Utilisation d’URL dans mes jetons
+title: Utilisation d’URL dans Mes jetons
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilisation d’URL dans mes jetons {#using-urls-in-my-tokens}
+# Utilisation d’URL dans Mes jetons {#using-urls-in-my-tokens}
 
 Suivez les étapes ci-dessous pour utiliser [!UICONTROL Mes jetons] afin d’insérer des URL dans vos e-mails.
 
@@ -71,7 +71,7 @@ Suivez les étapes ci-dessous pour utiliser [!UICONTROL Mes jetons] afin d’ins
 
    ![](assets/eleven.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/twelve.png)
 

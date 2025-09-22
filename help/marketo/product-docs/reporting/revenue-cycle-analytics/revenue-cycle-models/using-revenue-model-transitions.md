@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718672
 description: Utilisation des transitions de modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
-title: Utilisation des transitions de modèle de chiffre d’affaires
+title: Utilisation de transitions de modèle de revenu
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Utilisation des transitions de modèle de chiffre d’affaires {#using-revenue-model-transitions}
+# Utilisation de transitions de modèle de revenu {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >

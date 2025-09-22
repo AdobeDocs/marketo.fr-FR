@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2950799
 description: Présentation Des Jetons - Documents Marketo - Documentation Du Produit
-title: Présentation des jetons
+title: Vue d’ensemble des jetons
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Présentation des jetons {#tokens-overview}
+# Vue d’ensemble des jetons {#tokens-overview}
 
 Un jeton est une variable qui peut être utilisée dans les étapes de flux de campagne intelligente Marketo, les e-mails, les pages de destination, les fragments de code et les campagnes web.
 

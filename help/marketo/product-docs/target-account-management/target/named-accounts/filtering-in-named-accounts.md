@@ -4,10 +4,10 @@ description: Filtrage dans les comptes nommés - Documents Marketo - Documentati
 title: Filtrage dans les comptes nommés
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

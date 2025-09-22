@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: Définir une liste dynamique pour une campagne dynamique | Déclencheur - Documents Marketo - Documentation du produit
-title: Définir une liste dynamique pour une campagne dynamique | Déclencheur
+title: Définir une liste intelligente pour une campagne intelligente | À déclencheur
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Définir une liste dynamique pour une campagne dynamique | Déclencheur {#define-smart-list-for-smart-campaign-trigger}
+# Définir une liste intelligente pour une campagne intelligente | À déclencheur {#define-smart-list-for-smart-campaign-trigger}
 
 Créez une campagne intelligente exécutée sur une personne à la fois en fonction des événements en direct en ajoutant des déclencheurs.
 

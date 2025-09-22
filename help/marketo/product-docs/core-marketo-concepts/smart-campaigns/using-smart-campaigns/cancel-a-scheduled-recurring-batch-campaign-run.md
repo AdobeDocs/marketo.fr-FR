@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147060
 description: Annuler une exécution de campagne par lots récurrente planifiée - Documents Marketo - Documentation du produit
-title: Annuler une exécution de campagne par lots récurrente planifiée
+title: Annuler l’exécution récurrente planifiée d’une campagne par lots
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Annuler une exécution de campagne par lots récurrente planifiée {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Annuler l’exécution récurrente planifiée d’une campagne par lots {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-Si vous ne souhaitez plus d’une campagne par lots récurrente, vous pouvez annuler les exécutions à venir. Voici comment procéder.
+Si vous ne souhaitez plus d’une campagne par lots récurrente, vous pouvez annuler les exécutions à venir. Voici comment faire.
 
 1. Sélectionnez la campagne intelligente et cliquez sur l’onglet **Planifier**.
 

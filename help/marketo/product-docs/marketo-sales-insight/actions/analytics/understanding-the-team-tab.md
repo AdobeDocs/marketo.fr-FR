@@ -3,16 +3,16 @@ description: Présentation de l’onglet Équipe - Documentation de Marketo - Do
 title: Présentation de l’onglet Équipe
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;] {#understanding-the-team-tab}
+# Présentation de l’onglet [!UICONTROL  Équipe ] {#understanding-the-team-tab}
 
-Dans l’onglet [!UICONTROL &#x200B; Équipe &#x200B;], nous mettons en évidence trois mesures importantes.
+Dans l’onglet [!UICONTROL  Équipe ], nous mettons en évidence trois mesures importantes.
 
 ## E-mails envoyés avec modèle {#emails-sent-with-template}
 

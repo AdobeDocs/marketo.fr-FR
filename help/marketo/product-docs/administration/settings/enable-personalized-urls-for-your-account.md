@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360215
-description: Activation des URL personnalisées pour votre compte - Documents Marketo - Documentation du produit
-title: Activation des URL personnalisées pour votre compte
+description: Activer des URL personnalisées pour votre compte - Documents Marketo - Documentation du produit
+title: Activer les URL personnalisées pour votre compte
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 2%
+ht-degree: 17%
 
 ---
 
-# Activation des URL personnalisées pour votre compte {#enable-personalized-urls-for-your-account}
+# Activer les URL personnalisées pour votre compte {#enable-personalized-urls-for-your-account}
 
-Les URL personnalisées sont idéales pour les campagnes de courrier papier.
+Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Cliquez sur **[!UICONTROL Landing Pages]**.
+1. Cliquez sur **[!UICONTROL Pages de destination]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
@@ -35,8 +35,8 @@ Les URL personnalisées sont idéales pour les campagnes de courrier papier.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez [les activer pour des landing pages individuelles](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez [les activer pour des pages de destination individuelles](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
->Si deux personnes portent le même prénom/nom, le système ajoute automatiquement un numéro à la fin.
+>Si deux personnes portent le même prénom/nom, le système ajoute automatiquement un nombre à la fin.

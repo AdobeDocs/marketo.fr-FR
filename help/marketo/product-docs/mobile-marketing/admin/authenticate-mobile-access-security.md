@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096158
 description: Authentification De La Sécurité D’Accès Mobile - Documents Marketo - Documentation Du Produit
-title: Authentification de la sécurité d’accès mobile
+title: Authentifier la sécurité d’accès mobile
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Authentification de la sécurité d’accès mobile {#authenticate-mobile-access-security}
+# Authentifier la sécurité d’accès mobile {#authenticate-mobile-access-security}
 
 Pour améliorer la sécurité des utilisateurs mobiles, Marketo fournit deux nouveaux identifiants : la [!UICONTROL clé d’accès] et le [!UICONTROL secret d’accès]. Cela permet de s’assurer que les utilisateurs et utilisatrices qui se connectent à votre application sont bien ceux qu’ils semblent être.
 
@@ -33,7 +33,7 @@ Pour activer les identifiants, vous devez acquérir les codes et les fournir à 
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Cochez la case **[!UICONTROL Activer la sécurité]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cochez la case **[!UICONTROL Activer la sécurité]**. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

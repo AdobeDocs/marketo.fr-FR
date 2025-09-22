@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352472
 description: Modification De L’Accessibilité Des Champs Salesforce - Documents Marketo - Documentation Du Produit
-title: Modifier l’accessibilité du champ Salesforce
+title: Modifier l’accessibilité des champs Salesforce
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Modifier l’accessibilité du champ Salesforce {#edit-salesforce-field-accesibility}
+# Modifier l’accessibilité des champs Salesforce {#edit-salesforce-field-accesibility}
 
 Si le journal d’activité des e-mails ne s’affiche pas sur [!DNL Salesforce], cela peut être dû à des restrictions sur l’accessibilité des champs de votre équipe.
 
@@ -19,4 +19,4 @@ Si le journal d’activité des e-mails ne s’affiche pas sur [!DNL Salesforce]
 
 * Contactez votre administrateur [!DNL Salesforce] pour vous assurer que ces paramètres de sécurité n’interfèrent pas avec [!DNL Sales Connect].
 
-* Si vous êtes un administrateur [!DNL Salesforce], vous pouvez voir votre accessibilité des champs sous l’onglet [!UICONTROL &#x200B; Contrôles de sécurité &#x200B;]. Les principaux champs avec lesquels [!DNL Sales Connect] interagiront sont les suivants : [!UICONTROL Compte], [!UICONTROL Contacts], [!UICONTROL Opportunité], [!UICONTROL Lead] et [!UICONTROL Tâche].
+* Si vous êtes un administrateur [!DNL Salesforce], vous pouvez voir votre accessibilité des champs sous l’onglet [!UICONTROL  Contrôles de sécurité ]. Les principaux champs avec lesquels [!DNL Sales Connect] interagiront sont les suivants : [!UICONTROL Compte], [!UICONTROL Contacts], [!UICONTROL Opportunité], [!UICONTROL Lead] et [!UICONTROL Tâche].

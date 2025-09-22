@@ -4,10 +4,10 @@ description: Modifier le titre de la page de destination et les métadonnées - 
 title: Modifier le titre et les métadonnées de la page de destination
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo vous permet de modifier votre page de destination [balises meta à des f
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Saisissez les **[!UICONTROL Titre]**, **[!UICONTROL Mots-clés]** et **[!UICONTROL Description]** pour votre page. Sélectionnez l’option **[!UICONTROL Robots]** de votre choix et saisissez le contenu personnalisé de votre choix pour la section `<head>` d’HTML. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez les **[!UICONTROL Titre]**, **[!UICONTROL Mots-clés]** et **[!UICONTROL Description]** pour votre page. Sélectionnez l’option **[!UICONTROL Robots]** de votre choix et saisissez le contenu personnalisé de votre choix pour la section `<head>` d’HTML. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 

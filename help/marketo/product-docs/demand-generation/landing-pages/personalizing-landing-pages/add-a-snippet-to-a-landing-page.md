@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359537
 description: Ajouter un fragment de code à une page de destination - Documents Marketo - Documentation du produit
-title: Ajouter un fragment de code à une page de destination
+title: Ajouter un extrait à une page de destination
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Ajouter un fragment de code à une page de destination {#add-a-snippet-to-a-landing-page}
+# Ajouter un extrait à une page de destination {#add-a-snippet-to-a-landing-page}
 
 Les fragments de code sont de petits éléments d’HTML qui peuvent suivre des règles et contenir du contenu personnalisé.
 

@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950555
 description: Modifier les paramètres de publication enrichie sur Facebook - Documents Marketo - Documentation du produit
-title: Modifier les paramètres de la publication Facebook enrichie
+title: Modifier les paramètres de publication enrichie Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo _applications sociales_ permet à vos prospects de partager vos landing 
 
 Vous pouvez spécifier les types d’informations de page à utiliser dans les publications riches en [!DNL Facebook] générées par des partages de votre page de destination.
 
-1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social _&#x200B;_[!DNL YouTube_]_.
+1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social __[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

@@ -4,7 +4,7 @@ description: Paramètres De Synchronisation De Salesforce - Documentation De Mar
 title: Paramètres de synchronisation Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 3%
@@ -91,7 +91,7 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 1. Cliquez sur **[!UICONTROL Envoyer par e-mail à Salesforce]**.
 1. Cliquez sur **[!UICONTROL Modifier]**.
 1. Cochez la case en regard de « [!UICONTROL Actif] ».
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ## Synchroniser les tâches/rappels Sales Connect avec les tâches [!DNL Salesforce] {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
@@ -111,6 +111,6 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 
    ![](assets/seven-2.png)
 
-1. Choisissez l’option souhaitée (la case « [!UICONTROL &#x200B; Ne pas synchroniser avec les tâches Salesforce &#x200B;] est sélectionnée par défaut).
+1. Choisissez l’option souhaitée (la case « [!UICONTROL  Ne pas synchroniser avec les tâches Salesforce ] est sélectionnée par défaut).
 
    ![](assets/eight.png)

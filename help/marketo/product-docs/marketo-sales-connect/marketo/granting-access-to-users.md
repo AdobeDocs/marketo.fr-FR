@@ -1,16 +1,16 @@
 ---
 description: Octroi de l’accès aux utilisateurs - Documents Marketo - Documentation du produit
-title: Octroi de l’accès aux utilisateurs
+title: Octroi d’un accès à des utilisateurs et des utilisatrices
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Octroi de l’accès aux utilisateurs {#granting-access-to-users}
+# Octroi d’un accès à des utilisateurs et des utilisatrices {#granting-access-to-users}
 
 Suivez les étapes de cet article pour accorder à vos utilisateurs [!DNL Sales Connect] l’accès à la connexion Marketo. Cela déverrouillera des fonctionnalités telles que les moments significatifs dans le flux en direct et l’accès aux campagnes marketing.
 

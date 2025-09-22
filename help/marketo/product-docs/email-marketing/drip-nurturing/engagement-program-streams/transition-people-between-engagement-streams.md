@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359947
 description: Transition Des Personnes Entre Les Flux D’Engagement - Documents Marketo - Documentation Du Produit
-title: Transition Des Personnes Entre Les Flux D’Engagement
+title: Transférer des personnes entre des flux d’engagement
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Transition Des Personnes Entre Les Flux D’Engagement {#transition-people-between-engagement-streams}
+# Transférer des personnes entre des flux d’engagement {#transition-people-between-engagement-streams}
 
 Les programmes de mobilisation peuvent avoir plusieurs volets. Si vous [ajoutez un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vous voudrez définir une façon pour les gens de passer d&#39;un flux à un autre. Elles sont appelées **règles de transition**.
 

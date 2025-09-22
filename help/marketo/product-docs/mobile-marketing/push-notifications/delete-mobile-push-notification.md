@@ -4,10 +4,10 @@ description: Supprimer une notification push mobile - Documents Marketo - Docume
 title: Supprimer la notification Push pour mobile
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 11%
+ht-degree: 20%
 
 ---
 

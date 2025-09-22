@@ -1,16 +1,16 @@
 ---
 description: Promotion d’un webinaire interactif - Documents Marketo - Documentation du produit
-title: Promouvoir un webinaire interactif
+title: Promotion d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Promouvoir un webinaire interactif {#promoting-an-interactive-webinar}
+# Promotion d’un webinaire interactif {#promoting-an-interactive-webinar}
 
 La promotion d’un webinaire interactif est similaire à la promotion d’un webinaire partenaire via Launchpoint. Lors de la création d’un programme d’événement de webinaire interactif, vous pouvez ajouter des membres en exécutant une campagne ou en important des membres dans le programme. Pour vérifier les membres qui ont été ajoutés au programme d’événement de webinaires interactifs, cliquez sur l’onglet **[!UICONTROL Membres]**.
 

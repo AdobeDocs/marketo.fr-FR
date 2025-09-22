@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949865
 description: Création d’un événement avec Adobe Connect - Documentation de Marketo - Documentation du produit
-title: Création d’un événement avec Adobe Connect
+title: Créer un événement avec Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Création d’un événement avec Adobe Connect {#create-an-event-with-adobe-connect}
+# Créer un événement avec Adobe Connect {#create-an-event-with-adobe-connect}
 
 La synchronisation avec Adobe Connect vous permet de gérer l’inscription et la participation au webinaire dans Marketo, ce qui garantit que l’engagement n’est pas ignoré.
 
@@ -48,7 +48,7 @@ Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/event-settings-overview.png)
 
@@ -64,7 +64,7 @@ Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans
    >
    >Définissez votre e-mail de confirmation sur **Opérationnel** afin de vous assurer que les personnes qui s’inscrivent et peuvent se désinscrire reçoivent toujours leurs informations de confirmation.
 
-   Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL &#x200B; Modifier le statut du programme &#x200B;] #1 et [!UICONTROL &#x200B; Envoyer un e-mail &#x200B;] soient #2.
+   Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL  Modifier le statut du programme ] #1 et [!UICONTROL  Envoyer un e-mail ] soient #2.
 
    ![](assets/adobe.png)
 

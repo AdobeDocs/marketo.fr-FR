@@ -1,33 +1,33 @@
 ---
 unique-page-id: 30081230
 description: Actions en bloc sur les personnes - Documents Marketo - Documentation du produit
-title: Actions en bloc sur les personnes
+title: Actions en masse sur les personnes
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 5%
+ht-degree: 12%
 
 ---
 
-# Actions en bloc sur les personnes {#bulk-actions-on-people}
+# Actions en masse sur les personnes {#bulk-actions-on-people}
 
-Pour gagner du temps, vous pouvez utiliser vos contacts en masse.
+Il y a quelques choses que vous pouvez faire avec vos contacts en bloc pour gagner du temps.
 
-La première étape de toutes les actions en bloc disponibles consiste à sélectionner plusieurs contacts, puis à cliquer sur le point (trois points verticaux).
+La première étape pour toutes les actions en bloc disponibles consiste à sélectionner deux contacts ou plus, puis à cliquer sur le point (trois points verticaux).
 
 ![](assets/one-3.png)
 
 ## Ajouter des personnes au groupe {#add-people-to-group}
 
-Ajoutez plusieurs personnes à un groupe en même temps.
+Ajouter plusieurs personnes à un groupe en même temps.
 
 ![](assets/add-to-group.png)
 
 ## Source {#source}
 
-Nous assignons automatiquement une source à chaque contact qui entre dans la base de données. Utilisez cette étape pour mettre à jour cette source.
+Nous attribuons automatiquement une source à chaque contact qui entre dans la base de données. Utilisez cette étape pour mettre à jour cette source.
 
 ![](assets/source.png)
 
@@ -37,18 +37,18 @@ Nous assignons automatiquement une source à chaque contact qui entre dans la ba
 
 ## Autorisation {#authorization}
 
-En conformité avec le [RGPD](https://eugdpr.org/), utilisez l’autorisation pour indiquer comment vous avez reçu l’autorisation d’interagir avec ces contacts.
+Conformément au [RGPD](https://eugdpr.org/), utilisez une autorisation pour indiquer comment vous avez reçu l’autorisation d’interagir avec ces contacts.
 
 ![](assets/authorization.png)
 
-## Se désabonner {#unsubscribe}
+## Désabonnement {#unsubscribe}
 
-Désabonnez-vous en masse des contacts qui ne souhaitent plus recevoir de correspondance de votre part.
+Procédez à un désabonnement en bloc pour les contacts qui ne souhaitent plus recevoir de correspondance de votre part.
 
 ![](assets/unsubscribe.png)
 
 ## Supprimer {#delete}
 
-Supprimer des contacts en masse. Les étapes complètes sont disponibles [ici](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
+Supprimer les contacts en bloc. Les étapes complètes sont disponibles [ici](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)

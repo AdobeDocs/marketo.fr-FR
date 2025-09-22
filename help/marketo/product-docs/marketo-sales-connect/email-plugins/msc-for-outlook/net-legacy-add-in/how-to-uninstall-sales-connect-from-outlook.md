@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352451
 description: Comment désinstaller Sales Connect depuis Outlook - Documents Marketo - Documentation du produit
-title: Comment désinstaller Sales Connect depuis Outlook
+title: Comment désinstaller Sales Connect d’Outlook
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 1. Accédez au Panneau de Contrôle.
 
-1. Tirez sur « [!UICONTROL &#x200B; Ajouter/Supprimer un programme &#x200B;] ».
+1. Tirez sur « [!UICONTROL  Ajouter/Supprimer un programme ] ».
 
 1. Sélectionnez [!UICONTROL ToutApp] dans la liste et choisissez **[!UICONTROL Le supprimer]**.

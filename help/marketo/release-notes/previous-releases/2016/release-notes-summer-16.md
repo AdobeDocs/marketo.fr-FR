@@ -3,14 +3,14 @@ unique-page-id: 11380218
 description: Notes De Mise À Jour -Été '16 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Été 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '774'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : été 16 {#release-notes-summer}
+# Notes de mise à jour : été 2016 {#release-notes-summer}
 
 Les fonctionnalités suivantes sont incluses dans la version d’été 16. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo. Cliquez sur les liens de titre pour afficher les articles détaillés de chaque fonctionnalité.
 

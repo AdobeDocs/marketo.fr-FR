@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437804
 description: Modèle 14B - Documents Marketo - Documentation Du Produit
-title: Modèle 14B
+title: Modèle 14B
 exl-id: 04ec95f6-a657-4cb4-96dd-a65ad3720441
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Modèle 14B {#template-14b}
+# Modèle 14B {#template-14b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
 
 ![](assets/image2015-8-11-15-3a42-3a35.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html?lang=fr)
+[Modèle 14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)

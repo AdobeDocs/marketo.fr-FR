@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352407
 description: Présentation Du Canal De Diffusion - Documents Marketo - Documentation Du Produit
-title: Présentation Du Canal De Diffusion
+title: Vue d’ensemble du canal de remise
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Présentation Du Canal De Diffusion {#delivery-channel-overview}
+# Vue d’ensemble du canal de remise {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect] offre plusieurs options pour diffuser des e-mails. Cet article passe en revue les canaux de diffusion que vous pouvez utiliser, comment les sélectionner et quand les sélectionner les uns par rapport aux autres.
 

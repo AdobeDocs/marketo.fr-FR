@@ -1,16 +1,16 @@
 ---
 description: Limitation De La Connexion Par E-Mail - Documents Marketo - Documentation Du Produit
-title: Limitation de la connexion aux e-mails
+title: Limitation de la connexion des e-mails
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Limitation de la connexion aux e-mails {#email-connection-throttling}
+# Limitation de la connexion des e-mails {#email-connection-throttling}
 
 L’intégration de votre compte [!DNL Sales Connect] à envoyer par l’intermédiaire de fournisseurs de messagerie [!DNL Exchange] ou Gmail offre une configuration rationalisée et optimise la délivrabilité des e-mails pour la communication commerciale 1:1. Toutefois, pour préserver la santé des systèmes et la sécurité des comptes, Gmail et Exchange appliquent des limites d’envoi d’e-mails. Ces limites peuvent être augmentées ou réduites à la discrétion des fournisseurs.
 
@@ -45,7 +45,7 @@ Lorsque les limites sont systématiquement dépassées, cela peut parfois être 
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/email-connection-throttling-5.png)
 

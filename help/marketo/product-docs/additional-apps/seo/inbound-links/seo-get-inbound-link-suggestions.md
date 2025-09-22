@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949228
 description: SEO - Obtenir des suggestions de liens entrants - Documents Marketo - Documentation du produit
-title: Optimisation du moteur de recherche (SEO) - Obtenir des suggestions de lien entrant
+title: SEO - Obtenir des suggestions de liens entrants
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Optimisation du moteur de recherche (SEO) - Obtenir des suggestions de lien entrant {#seo-get-inbound-link-suggestions}
+# SEO - Obtenir des suggestions de liens entrants {#seo-get-inbound-link-suggestions}
 
 Marketo peut vous suggérer quels liens entrants sont utiles pour votre [ optimisation hors page ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 

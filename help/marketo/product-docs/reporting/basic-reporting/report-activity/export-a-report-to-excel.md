@@ -4,10 +4,10 @@ description: Exportation d’un rapport vers  [!DNL Excel] - Documents Marketo -
 title: Exporter un rapport vers  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

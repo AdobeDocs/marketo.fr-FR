@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359742
 description: Filtrer un rapport de performances de page de destination - Documents Marketo - Documentation du produit
-title: Filtrer un rapport de performances de page de destination
+title: Filtrer un rapport de performances de la page de destination
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Filtrer un rapport de performances de page de destination {#filter-a-landing-page-performance-report}
+# Filtrer un rapport de performances de la page de destination {#filter-a-landing-page-performance-report}
 
 Concentrez votre [rapport sur les performances des pages de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) sur les pages de destination de vos programmes (ressources locales), de celles de [!UICONTROL Design Studio] (ressources globales) ou de celles qui ont été archivées.
 

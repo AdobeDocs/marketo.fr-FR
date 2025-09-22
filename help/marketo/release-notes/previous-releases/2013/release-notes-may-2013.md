@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Mai 2013 - Documents Marketo - Documentatio
 title: Notes De Mise À Jour - Mai 2013
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Notes De Mise À Jour : Mai 2013 {#release-notes-may}
+# Notes de mise à jour : mai 2013 {#release-notes-may}
 
 Les fonctionnalités suivantes sont incluses dans la version de mai.
 
@@ -35,6 +35,6 @@ Recherchez plus rapidement les actions de flux avec l’arborescence d’actions
 
 ## Actions de flux renommées {#renamed-flow-actions}
 
-Modifier le statut de progression est désormais [!UICONTROL Modifier le statut du programme]. Modifier les données du programme est désormais [!UICONTROL &#x200B; Modifier la réussite du programme &#x200B;].
+Modifier le statut de progression est désormais [!UICONTROL Modifier le statut du programme]. Modifier les données du programme est désormais [!UICONTROL  Modifier la réussite du programme ].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

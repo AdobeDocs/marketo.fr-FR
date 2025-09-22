@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352621
 description: Présentation Des Options D’Envoi - Documents Marketo - Documentation Du Produit
-title: Comprendre les options d’envoi
+title: Présentation des options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-# Comprendre les options d’envoi {#understanding-send-options}
+# Présentation des options d’envoi {#understanding-send-options}
 
 Lorsque vous créez une campagne, vous disposez de plusieurs options sur la manière dont les étapes d’e-mail sont créées dans [!DNL Sales Connect]. De plus, selon l’emplacement de votre e-mail dans votre campagne, vos options diffèrent également.
 

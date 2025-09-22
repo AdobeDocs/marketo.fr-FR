@@ -1,16 +1,16 @@
 ---
 description: Gestion des prospects - Documents Marketo - Documentation du produit
-title: Gestion des leads d’opération
+title: OP-Gestion des leads
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# Gestion des leads d’opération {#op-lead-management}
+# OP-Gestion des leads {#op-lead-management}
 
 Il s’agit d’un exemple de workflow des bonnes pratiques de gestion de prospect, utilisant un programme par défaut de Marketo Engage, pour vous aider à gérer les enregistrements de votre base de données Marketo Engage vers votre CRM.
 
@@ -60,7 +60,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>01 - Email - ALERTE - MQL</td>
   </tr>
   <tr>

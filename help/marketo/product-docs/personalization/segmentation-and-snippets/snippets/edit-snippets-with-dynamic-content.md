@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359466
 description: Modification de fragments de code avec du contenu dynamique - Documents Marketo - Documentation du produit
-title: Modifier des fragments de code avec du contenu dynamique
+title: Modifier des extraits avec du contenu dynamique
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Modifier des fragments de code avec du contenu dynamique {#edit-snippets-with-dynamic-content}
+# Modifier des extraits avec du contenu dynamique {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >

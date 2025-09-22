@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093041
 description: Modifier un abonnement à une liste dynamique - Documents Marketo - Documentation du produit
-title: Modifier un abonnement à une liste dynamique
+title: Modifier l’abonnement à une liste intelligente
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Modifier un abonnement à une liste dynamique {#edit-a-smart-list-subscription}
+# Modifier l’abonnement à une liste intelligente {#edit-a-smart-list-subscription}
 
 Vous pouvez modifier ces colonnes directement dans l’onglet Abonnements qui s’affiche dans Activités marketing ou Base de données :
 
 * [!UICONTROL Destinataires]
 * [!UICONTROL Fréquence]
-* [!UICONTROL Colonnes &#x200B;]
+* [!UICONTROL Colonnes ]
 * [!UICONTROL Fin De La Diffusion]
 * [!UICONTROL Format]
 
@@ -37,7 +37,7 @@ Vous pouvez modifier ces colonnes directement dans l’onglet Abonnements qui s�
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Ouvrez la colonne **[!UICONTROL Colonnes]** et utilisez le sélecteur pour ajouter ou supprimer des colonnes du rapport. Colonnes du rapport contient toutes les colonnes disponibles et Colonnes du Marketo affiche uniquement celles que vous avez sélectionnées pour afficher dans votre rapport. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Ouvrez la colonne **[!UICONTROL Colonnes]** et utilisez le sélecteur pour ajouter ou supprimer des colonnes du rapport. Colonnes du rapport contient toutes les colonnes disponibles et Colonnes du Marketo affiche uniquement celles que vous avez sélectionnées pour afficher dans votre rapport. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 

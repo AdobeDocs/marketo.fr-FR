@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360005
 description: Rapport d’activité web de la société - Documents Marketo - Documentation du produit
-title: Rapport d’activité Web de l’entreprise
+title: Rapport d’activité web de la société
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Rapport d’activité Web de l’entreprise {#company-web-activity-report}
+# Rapport d’activité web de la société {#company-web-activity-report}
 
 Identifiez les sociétés qui visitent votre site web. Vous pouvez choisir d’afficher les visiteurs connus ou anonymes, mais pas les deux dans le même rapport.
 

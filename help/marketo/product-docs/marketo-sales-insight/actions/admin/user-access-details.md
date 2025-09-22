@@ -1,16 +1,16 @@
 ---
 description: Détails d’accès utilisateur - Documents Marketo - Documentation du produit
-title: Détails d’accès utilisateur
+title: Détails des accès des utilisateurs et utilisatrices
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Détails d’accès utilisateur {#user-access-details}
+# Détails des accès des utilisateurs et utilisatrices {#user-access-details}
 
 À quoi les administrateurs et les non-administrateurs ont-ils accès ?
 

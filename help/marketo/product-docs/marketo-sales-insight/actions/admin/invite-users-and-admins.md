@@ -1,20 +1,20 @@
 ---
 description: Inviter des utilisateurs et des administrateurs - Documents Marketo - Documentation du produit
-title: Inviter des utilisateurs et des administrateurs
+title: Inviter des utilisateurs et utilisatrices et des administrateurs et administratrices
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# Inviter des utilisateurs et des administrateurs {#invite-users-and-admins}
+# Inviter des utilisateurs et utilisatrices et des administrateurs et administratrices {#invite-users-and-admins}
 
 Ajouter des utilisateurs ou des administrateurs est simple et rapide !
 
-## Inviter des utilisateurs {#invite-users}
+## Inviter des utilisateurs et utilisatrices {#invite-users}
 
 1. Cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 

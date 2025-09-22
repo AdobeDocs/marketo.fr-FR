@@ -2,26 +2,26 @@
 description: Notes De Mise À Jour - Mai 2023 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Mai 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 5%
+ht-degree: 27%
 
 ---
 
-# Notes De Mise À Jour : Mai 2023 {#release-notes-may-23}
+# Notes de mise à jour : mai 2023 {#release-notes-may-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 mai. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 mai. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **12 mai 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 12 mai 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
-### Marketo Engage Modern UX {#modern-ux}
+### Expérience d’utilisation moderne pour Marketo Engage {#modern-ux}
 
 </br>
 
@@ -48,7 +48,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centre dʼaide</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centre d’aide</a></td>
   </tr>
   </tbody>
 </table>
@@ -74,7 +74,7 @@ Les webinaires interactifs seront déployés progressivement. Pour demander un a
   </tr>
   <tr>
    <td>Déploiement démarré</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=fr">Présentation des webinaires interactifs</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Vue d’ensemble des webinaires interactifs</a></td>
   </tr>
   </tbody>
 </table>

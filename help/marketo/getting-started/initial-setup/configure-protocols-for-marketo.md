@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720433
 description: Configuration des protocoles pour Marketo Engage - Documentation de Marketo Engage - Documentation du produit
-title: Configuration des protocoles pour Marketo Engage
+title: Configurer les protocoles pour Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2131'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Configuration des protocoles pour Marketo Engage{#configure-protocols-for-marketo-engage}
+# Configurer les protocoles pour Marketo Engage{#configure-protocols-for-marketo-engage}
 
 Si vous ou votre entreprise utilisez des paramètres de pare-feu ou de serveur proxy restrictifs, vous ou votre administrateur réseau devrez peut-être placer sur la liste autorisée certains domaines et plages d’adresses IP pour vous assurer que Adobe Marketo Engage fonctionne comme prévu.
 
@@ -54,7 +54,7 @@ Par exemple :
 
 Avertissez votre équipe marketing une fois ce processus terminé.
 
-`4` **Contactez l’assistance technique d’Adobe [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
+`4` **Contactez l’assistance technique d’Adobe [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour lancer le processus d’approvisionnement d’un certificat SSL.**
 
 Ce processus peut prendre jusqu’à 3 jours ouvrables.
 

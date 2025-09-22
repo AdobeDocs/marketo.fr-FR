@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093688
 description: Ajouter des champs d’objet personnalisés Marketo - Documents Marketo - Documentation du produit
-title: Ajouter des champs d’objet personnalisés Marketo
+title: Ajouter des champs d’objet personnalisé Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Ajouter des champs d’objet personnalisés Marketo {#add-marketo-custom-object-fields}
+# Ajouter des champs d’objet personnalisé Marketo {#add-marketo-custom-object-fields}
 
 Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour répondre aux besoins de votre entreprise.
 

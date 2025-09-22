@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147040
 description: Accorder du crédit au référent - Documents Marketo - Documentation du produit
-title: Créditer le référent
+title: Créditer le référent ou la référente
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 11%
 
 ---
 
-# Créditer le référent {#give-credit-to-referrer}
+# Créditer le référent ou la référente {#give-credit-to-referrer}
 
 Lors de l’exécution d’une _offre de parrainage_ ou d’un _tirage au sort_, vous pouvez créditer le référent à l’aide de différentes méthodes :
 

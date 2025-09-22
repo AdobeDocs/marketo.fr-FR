@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
 description: Envoyer un e-mail à plusieurs enregistrements dans Marketo Sales Insight - Documents Marketo - Documentation du produit
-title: Envoyer un e-mail à plusieurs enregistrements dans Marketo Sales Insight
+title: Envoyer un e-mail à plusieurs enregistrements dans Informations sur les ventes Marketo
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

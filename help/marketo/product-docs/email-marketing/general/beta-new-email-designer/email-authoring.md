@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 3%
+source-wordcount: '1503'
+ht-degree: 4%
 
 ---
 
 # Création d’e-mails {#email-authoring}
 
-Découvrez comment créer, personnaliser et prévisualiser des e-mails dans la nouvelle Designer d’e-mail du Marketo Engage.
+Découvrez comment créer, personnaliser et prévisualiser des e-mails dans le nouveau Designer d’e-mail de Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -22,9 +22,9 @@ Découvrez comment créer, personnaliser et prévisualiser des e-mails dans la n
 
 >[!PREREQUISITES]
 >
->Pour accéder au nouveau concepteur d’e-mail, votre abonnement de Marketo Engage doit être migré vers le système IMS (Adobe Identity Management System) [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte d’Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-## Création d’un e-mail {#create-an-email}
+## Créer un e-mail {#create-an-email}
 
 1. Connectez-vous à Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -56,7 +56,7 @@ C&#39;est ça. Il est maintenant temps de concevoir votre e-mail.
 
 * [Concevoir en partant de zéro](#design-from-scratch) à l’aide de l’éditeur visuel d’email
 
-* [Importer votre propre HTML ](#import-html) via un fichier HTML ou zip
+* [Importer votre propre HTML](#import-html) via un fichier HTML ou zip
 
 * [Sélectionnez un modèle existant](#choose-a-template) (un de nos exemples ou un que vous avez déjà enregistré)
 
@@ -76,25 +76,25 @@ Lorsque vous commencez à partir de zéro dans l’éditeur d’e-mail, utilisez
 
 ### Importer du contenu HTML {#import-html}
 
-Vous pouvez importer du contenu d’HTML existant pour concevoir votre e-mail. Le contenu peut être :
+Vous pouvez importer du contenu HTML existant pour concevoir votre e-mail. Le contenu peut être :
 
 * Fichier HTML avec feuille de style incorporée
 
-* Un fichier .zip qui comprend un fichier HTML, la feuille de style (.css) et les images
+* Fichier .zip contenant un fichier HTML, la feuille de style (.css) et les images.
 
 >[!NOTE]
 >
 >Il n’existe aucune contrainte sur la structure des fichiers .zip. Cependant, les références doivent être relatives et s’ajuster à l’arborescence du dossier .zip.
 
-1. Sur la page Concevoir votre modèle, sélectionnez **Importer l’HTML**.
+1. Sur la page Concevoir votre modèle , sélectionnez **Importer HTML**.
 
-1. Faites glisser et déposez le fichier .zip ou d’HTML souhaité (ou sélectionnez un fichier sur votre ordinateur), puis cliquez sur **Importer**.
+1. Effectuez un glisser-déposer du fichier HTML ou .zip souhaité (ou sélectionnez un fichier sur votre ordinateur), puis cliquez sur **Importer**.
 
    ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
->Lorsque le contenu de l’HTML est chargé, votre contenu se trouve en mode de compatibilité. Dans ce mode, vous pouvez uniquement personnaliser votre texte, ajouter des liens ou ajouter des ressources à votre contenu.
+>Lorsque le contenu HTML est chargé, votre contenu se trouve en mode de compatibilité. Dans ce mode, vous pouvez uniquement personnaliser votre texte, ajouter des liens ou ajouter des ressources à votre contenu.
 
 Vous pouvez apporter les modifications souhaitées au contenu importé à l’aide des outils [éditeur visuel d’e-mail](#add-structure-and-content).
 
@@ -160,7 +160,7 @@ Choisissez l’un des modèles prêts à l’emploi pour prendre un bon départ 
 
 ### Ajout d’Assets {#add-assets}
 
-Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance de Marketo Engage.
+Ajoutez les images stockées dans la section [Images et fichiers](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de votre instance Marketo Engage.
 
 >[!NOTE]
 >
@@ -237,7 +237,7 @@ Les jetons fonctionnent dans le nouvel éditeur de la même manière que dans l�
 
    ![](assets/authoring-personalize-content-4.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **Enregistrer**
 
 ### Modifier le tracking des URL {#edit-url-tracking}
 
@@ -289,7 +289,7 @@ Les avertissements se rapportent aux recommandations et aux bonnes pratiques tel
 >
 >L’ajout d’une option de désabonnement n’est pas nécessaire pour les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
 
-* **Version texte de l’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu de l’HTML ne peut pas être affiché.
+* **Version texte d’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu d’HTML ne peut pas être affiché.
 
 * **Lien vide figurant dans le corps de l’e-mail** : vérifiez que tous les liens de votre e-mail sont corrects.
 

@@ -3,14 +3,14 @@ description: Liste de contrôle d’administration d’instance héritée - Docu
 title: Liste de contrôle d’administration d’instance héritée
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 3%
 
 ---
 
-# Instance héritée : liste de contrôle de la section Admin {#inherited-instance-admin-section-checklist}
+# Instance héritée : liste de contrôle de la section Admin {#inherited-instance-admin-section-checklist}
 
 Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionnées au bas de chaque article) ont été créées par Adobe Professional Services avec la contribution de Marketo Champions pour vous aider à vous mettre rapidement à niveau. Vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivre votre progression.
 
@@ -33,7 +33,7 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
   <tr>
    <td>Administrateur de produit d’abonnement et de Marketo Engage</td>
    <td><li>Votre abonnement Marketo Engage a-t-il déjà été migré vers <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ?
-<br/>     Adobe Admin Console Si tel est le cas, votre rôle d’« administrateur système de Adobe Admin Console » vous a-t-il été attribué ? Si vous ne savez pas qui, dans votre organisation, dispose de privilèges d’administrateur dans la console, contactez l’<a href="https://helpx.adobe.com/fr/contact.html" target="_blank">Assistance clientèle Adobe</a>.</li>
+<br/>     Adobe Admin Console Si tel est le cas, votre rôle d’« administrateur système de Adobe Admin Console » vous a-t-il été attribué ? Si vous ne savez pas qui, dans votre organisation, dispose de privilèges d’administrateur dans la console, contactez l’<a href="https://helpx.adobe.com/contact.html" target="_blank">Assistance clientèle Adobe</a>.</li>
 <li>Avez-vous accepté l’invitation « Marketo Engage Product Admin » ? L’e-mail est envoyé lorsque le rôle est attribué dans le Adobe Admin Console.
 <br/>     Dans le cas contraire, recherchez l’e-mail de bienvenue <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank"> dans votre boîte de réception et acceptez l’invitation à activer votre Adobe ID</a></li></td>
   </tr>
@@ -293,7 +293,7 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (le cas échéant)</td>
-<td>Vous devrez accéder à <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> en suivant les étapes ci-dessous. Si vous n’avez pas encore configuré d’Adobe ID, <a href="https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html" target="_blank">découvrez comment faire ici</a>.
+<td>Vous devrez accéder à <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> en suivant les étapes ci-dessous. Si vous n’avez pas encore configuré d’Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">découvrez comment faire ici</a>.
 <br/>
 <li>Avez-vous accepté l’invitation <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrateur de produit Dynamic Chat</a> ? L’e-mail est envoyé lorsque Dynamic Chat est activé dans votre instance Marketo Engage et que vous êtes désigné comme administrateur système.
 <br/>     Dans le cas contraire, recherchez l’e-mail de bienvenue dans votre boîte de réception et acceptez l’invitation à configurer votre Adobe ID.</li>

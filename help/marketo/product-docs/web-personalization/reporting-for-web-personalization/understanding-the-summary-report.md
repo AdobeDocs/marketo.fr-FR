@@ -1,10 +1,10 @@
 ---
 unique-page-id: 9438258
 description: Présentation du rapport récapitulatif - Documents Marketo - Documentation du produit
-title: Comprendre le rapport récapitulatif
+title: Présentation du rapport Résumé
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%

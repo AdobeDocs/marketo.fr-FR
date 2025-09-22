@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147095
 description: Création d’un programme - Documents Marketo - Documentation du produit
-title: Création d’un programme
+title: Créer un programme
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Création d’un programme {#create-a-program}
+# Créer un programme {#create-a-program}
 
 Les programmes sont l’un des éléments les plus importants de Marketo. Vous les utiliserez beaucoup !
 
@@ -19,7 +19,7 @@ Les programmes sont l’un des éléments les plus importants de Marketo. Vous l
 
    ![](assets/login-marketing-activities.png)
 
-1. Sélectionnez le dossier du nouveau programme. Sélectionnez **[!UICONTROL New]** et cliquez sur **[!UICONTROL New Program]**.
+1. Sélectionnez le dossier du nouveau programme. Sélectionnez **[!UICONTROL Nouveau]** puis cliquez sur **[!UICONTROL Nouveau programme]**.
 
    ![](assets/leadlifecycle.jpg)
 

@@ -1,16 +1,16 @@
 ---
 description: Présentation De La Boîte De Dialogue - Documents Marketo - Documentation Du Produit
-title: Présentation de la boîte de dialogue
+title: Vue d’ensemble du dialogue
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Présentation de la boîte de dialogue {#dialogue-overview}
+# Vue d’ensemble du dialogue {#dialogue-overview}
 
 Les boîtes de dialogue sont des conversations individuelles. Dans chaque boîte de dialogue, vous décidez où la conversation spécifique s’affiche, à qui elle sera présentée et quel sera le contenu de la conversation. Chaque boîte de dialogue comporte également sa propre page de rapport, dans laquelle vous pouvez contrôler l’efficacité.
 
@@ -20,7 +20,7 @@ La section [Critères d’audience](/help/marketo/product-docs/demand-generation
 
 ![](assets/dialogue-overview-1.png)
 
-## Designer de flux {#stream-designer}
+## Concepteur de flux {#stream-designer}
 
 La section [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} d’une boîte de dialogue vous permet de concevoir la conversation que vous souhaitez avoir avec les visiteurs de votre site web.
 

@@ -1,16 +1,16 @@
 ---
 description: Conception De Webinaires Interactifs - Documents Marketo - Documentation Du Produit
-title: Conception de webinaires interactifs
+title: Concevoir des webinaires interactifs
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Conception de webinaires interactifs {#designing-interactive-webinars}
+# Concevoir des webinaires interactifs {#designing-interactive-webinars}
 
 Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 

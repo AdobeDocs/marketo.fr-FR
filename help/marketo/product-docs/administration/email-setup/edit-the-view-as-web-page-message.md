@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360253
 description: Modifiez le message « Afficher en tant que page web » - Documents Marketo - Documentation du produit.
-title: Modifier le message « Afficher en tant que page web »
+title: Modifier le message « Afficher en tant que page web »
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Modifier le message « Afficher en tant que page web » {#edit-the-view-as-web-page-message}
+# Modifier le message « Afficher en tant que page web » {#edit-the-view-as-web-page-message}
 
 Si vous devez modifier le texte « [Afficher en tant que page web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) », procédez comme suit.
 
@@ -19,7 +19,7 @@ Si vous devez modifier le texte « [Afficher en tant que page web](/help/marketo
 >
 >**Autorisations d’administrateur requises**
 
-## Modifier le message « Afficher en tant que page web » {#edit-the-view-as-web-page-message-1}
+## Modifier le message « Afficher en tant que page web » {#edit-the-view-as-web-page-message-1}
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

@@ -4,24 +4,24 @@ description: Notes De Mise À Jour - Octobre 20 - Documents Marketo - Documentat
 title: Notes De Mise À Jour - Oct 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Notes De Mise À Jour : Oct 20 {#release-notes-oct}
+# Notes de mise à jour : octobre 2020 {#release-notes-oct}
 
 Les fonctionnalités suivantes sont incluses dans la version d’octobre 2020. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes seront publiées le **16 octobre 2020**.
 
-## Gestion de comptes cibles {#target-account-management}
+## Gestion des comptes cibles {#target-account-management}
 
 ![(étoile)](assets/yellow-star.png)
 

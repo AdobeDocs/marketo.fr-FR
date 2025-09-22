@@ -1,21 +1,21 @@
 ---
-description: Campaign Has Termined - Marketo Docs - Documentation du produit
-title: La campagne s’est terminée
+description: Campaign Est Terminé - Documents Marketo - Documentation Du Produit
+title: La campagne est terminée.
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# La campagne s’est terminée {#campaign-has-ended}
+# La campagne est terminée. {#campaign-has-ended}
 
-Si un message électronique s’affiche dans votre dossier Diffusion en échec et indique que la campagne est terminée, cela signifie qu’il s’agit d’un message électronique planifié dans votre campagne.
+Si vous voyez un e-mail dans votre dossier Diffusion en échec indiquant « La campagne s’est terminée », cela signifie que cet e-mail en particulier était un e-mail planifié dans votre campagne.
 
-## Raisons possibles de l’échec {#possible-reasons-it-failed}
+## Raisons possibles de son échec {#possible-reasons-it-failed}
 
-* L&#39;email avant son rebond
-* Un contact a répondu et a mis fin à la campagne.
-* La campagne a été terminée manuellement.
+* L’e-mail avant le rebond
+* Un contact a répondu et a terminé la campagne
+* La campagne a été terminée manuellement

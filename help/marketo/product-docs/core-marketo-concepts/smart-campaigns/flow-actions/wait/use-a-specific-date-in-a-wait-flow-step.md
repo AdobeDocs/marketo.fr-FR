@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146976
-description: Utilisation d’une date spécifique dans une étape de flux d’attente - Documents Marketo - Documentation du produit
-title: Utilisation d’une date spécifique dans une étape de flux d’attente
+description: Utiliser une date spécifique dans une étape de flux d’attente - Documents Marketo - Documentation du produit
+title: Utiliser une date spécifique dans une étape de flux Attendre
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Utilisation d’une date spécifique dans une étape de flux d’attente {#use-a-specific-date-in-a-wait-flow-step}
+# Utiliser une date spécifique dans une étape de flux Attendre {#use-a-specific-date-in-a-wait-flow-step}
 
-Vous pouvez utiliser l’étape de flux &quot;[!UICONTROL Attente]&quot; pour suspendre le parcours d’une personne via une campagne dynamique jusqu’à une date spécifique.
+Vous pouvez utiliser l’étape de flux « [!UICONTROL Attente] » pour suspendre le parcours d’une personne dans une campagne intelligente jusqu’à une date spécifique.
 
-1. Dans l’onglet **[!UICONTROL Flux]** de votre campagne dynamique, faites glisser le curseur sur l’étape de flux **[!UICONTROL Attente]** .
+1. Dans l’onglet **[!UICONTROL Flux]** de votre campagne dynamique, faites glisser sur l’étape de flux **[!UICONTROL Attente]**.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 

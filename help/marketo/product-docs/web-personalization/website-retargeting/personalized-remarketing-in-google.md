@@ -4,10 +4,10 @@ description: Remarketing personnalisé dans Google - Documents Marketo - Documen
 title: Remarketing personnalisé dans Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -34,7 +34,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Dans le Créateur d’audience, cliquez sur **[!UICONTROL Séquences]** et **[!UICONTROL Rechercher les données RTP]** sous [!UICONTROL Dimensions personnalisées], [!UICONTROL UICONTROL [ !]Variables personnalisées &#x200B;], [!UICONTROL Événements].
+1. Dans le Créateur d’audience, cliquez sur **[!UICONTROL Séquences]** et **[!UICONTROL Rechercher les données RTP]** sous [!UICONTROL Dimensions personnalisées], [!UICONTROL [ !]Variables personnalisées UICONTROL], [!UICONTROL Événements].
 
 >[!TIP]
 >
@@ -69,7 +69,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 1. Sélectionnez **[!UICONTROL RTP-Industry]**.
 1. Entrez **Nom du secteur** (p. ex. [!UICONTROL Services Financiers], [!UICONTROL Éducation]...).
 1. Cliquez sur **[!UICONTROL Appliquer]**.
-1. Saisissez un **[!UICONTROL Nom de l’audience]**. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un **[!UICONTROL Nom de l’audience]**. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 

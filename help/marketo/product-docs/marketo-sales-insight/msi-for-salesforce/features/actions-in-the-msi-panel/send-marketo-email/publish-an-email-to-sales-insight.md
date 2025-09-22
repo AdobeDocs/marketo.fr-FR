@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949718
 description: Publication d’un e-mail sur le site de vente Insight - Documents Marketo - Documentation du produit
-title: Publication d’un e-mail sur Sales Insight
+title: Publier un e-mail vers Informations sur les ventes
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

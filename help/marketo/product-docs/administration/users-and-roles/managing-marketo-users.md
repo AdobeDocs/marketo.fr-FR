@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359906
-description: Gestion des utilisateurs de Marketo - Documents Marketo - Documentation du produit
-title: Gestion des utilisateurs Marketo
+description: Gestion Des Utilisateurs Marketo - Documentation De Marketo - Documentation Du Produit
+title: Gestion des utilisateurs et utilisatrices Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Gestion des utilisateurs Marketo {#managing-marketo-users}
+# Gestion des utilisateurs et utilisatrices Marketo {#managing-marketo-users}
 
 >[!IMPORTANT]
 >
->Cet article est destiné uniquement à ceux qui n’utilisent _pas_ [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si vous le faites, suivez les étapes de [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Cet article est destiné uniquement à ceux qui n’utilisent _pas_ [Marketo avec Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si vous le faites, suivez les étapes décrites dans [cet article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
-## Création d’utilisateurs {#create-users}
+## Créer des utilisateurs {#create-users}
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Saisissez les **[!UICONTROL Email]**, **[!UICONTROL Prénom]** et **[!UICONTROL Nom]**.
+1. Saisissez les **[!UICONTROL E-mail]**, **[!UICONTROL Prénom]** et **[!UICONTROL Nom]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Si vous le souhaitez, saisissez un motif pour l’invitation et sélectionnez une date d’expiration dans le champ **[!UICONTROL Access Expires]** à l’aide du sélecteur de date.
+1. Vous pouvez éventuellement saisir un motif pour l’invitation et sélectionner une date d’expiration dans le champ **[!UICONTROL Expiration de l’accès]** à l’aide du sélecteur de date.
 
    ![](assets/managing-marketo-users-5.png)
 
@@ -45,23 +45,23 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Une date d’expiration est idéale pour les parties prenantes externes à court terme ou les consultants qui n’ont besoin de l’accès à Marketo que pour une courte période.
+   >Une date d’expiration est idéale pour les parties prenantes externes à court terme ou les consultants et consultantes qui n’ont besoin d’un accès à Marketo que pendant une courte période.
 
    >[!NOTE]
    >
-   >Lorsque la date d’expiration arrive, l’utilisateur reçoit une notification d’expiration et son compte est verrouillé.
+   >Lorsque la date d’expiration est atteinte, l’utilisateur reçoit une notification d’expiration et son compte est verrouillé.
 
-1. Sélectionnez le **[!UICONTROL rôle]** de votre choix et cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez le **[!UICONTROL Rôle]** de votre choix et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Si nécessaire, modifiez le message d’invitation. Cliquez sur **Send**.
+1. Apportez des modifications au message d’invitation si nécessaire. Cliquez sur **Send**.
 
    ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
-   >L’e-mail/la connexion doit être unique. Si vous l’avez déjà utilisé dans une instance sandbox, vous devez en utiliser une autre en production et vice versa.
+   >L’adresse e-mail/de connexion doit être unique ; si vous l’avez déjà utilisée dans une instance de sandbox, vous devrez en utiliser une autre en production et vice versa.
 
    ![](assets/managing-marketo-users-9.png)
 
@@ -69,13 +69,13 @@ ht-degree: 0%
    >
    >Les invitations expirent trois jours après l’ajout d’un nouvel utilisateur.
 
-Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs et recevra un e-mail contenant des instructions sur l’activation de son compte.
+Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs et recevra un e-mail contenant des instructions sur la façon d’activer son compte.
 
 ## Supprimer les utilisateurs {#delete-users}
 
 >[!NOTE]
 >
->Si l’utilisateur que vous souhaitez supprimer est également un utilisateur Dynamic Chat, vous devez [le supprimer de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} dans l’Admin Console avant de pouvoir le supprimer dans Marketo Engage.
+>Si l’utilisateur que vous souhaitez supprimer est également un utilisateur Dynamic Chat, vous devez [le supprimer de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} dans Admin Console avant de pouvoir le supprimer dans Marketo Engage.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -85,7 +85,7 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Sélectionnez l’utilisateur à supprimer, puis cliquez sur **[!UICONTROL Supprimer l’utilisateur]**.
+1. Sélectionnez l’utilisateur que vous souhaitez supprimer, puis cliquez sur **[!UICONTROL Supprimer l’utilisateur]**.
 
    ![](assets/managing-marketo-users-12.png)
 
@@ -93,7 +93,7 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
    ![](assets/managing-marketo-users-13.png)
 
-## Réinitialisation des mots de passe utilisateur {#reset-user-passwords}
+## Réinitialiser les mots de passe utilisateur {#reset-user-passwords}
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -107,7 +107,7 @@ Le nouvel utilisateur est maintenant répertorié dans l’onglet Utilisateurs e
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Cliquez sur **[!UICONTROL Fermer]** pour fermer l’invite.
+1. Cliquez sur **[!UICONTROL Fermer]** pour ignorer l’invite.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -115,9 +115,9 @@ L’utilisateur recevra un courrier électronique contenant des instructions de 
 
 >[!TIP]
 >
->Si l&#39;utilisateur ne voit pas l&#39;email dans sa boîte de réception, demandez-lui de vérifier son dossier spam/courrier indésirable.
+>Si l’utilisateur ne voit pas l’e-mail dans sa boîte de réception, demandez-lui de vérifier son dossier Courrier indésirable/spam.
 
-## Modification des autorisations et modification des informations utilisateur {#change-permissions-and-edit-user-information}
+## Modifier les autorisations et modifier les informations utilisateur {#change-permissions-and-edit-user-information}
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -131,16 +131,16 @@ L’utilisateur recevra un courrier électronique contenant des instructions de 
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Vous pouvez modifier les informations utilisateur et modifier le rôle associé. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Vous pouvez modifier les informations utilisateur et le rôle associé. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >
->Si vous êtes le seul administrateur de Marketo, veillez à ne pas supprimer vos propres droits d’administrateur.
+>Si vous êtes le seul administrateur dans Marketo, veillez à ne pas supprimer vos propres droits d’administrateur.
 
 >[!NOTE]
 >
->Si un nouvel utilisateur est invité en tant qu’administrateur ou si un administrateur est supprimé, tous les administrateurs actuels reçoivent une notification par courrier électronique.
+>Si un nouvel utilisateur est invité en tant qu’administrateur ou si un administrateur est supprimé, tous les administrateurs actuels recevront une notification par e-mail.
 
-Super travail ! Vous savez maintenant comment créer un utilisateur, supprimer un utilisateur, réinitialiser le mot de passe d’un utilisateur et modifier des utilisateurs.
+Un travail génial ! Vous savez maintenant comment créer un utilisateur, supprimer un utilisateur, réinitialiser le mot de passe d’un utilisateur et modifier des utilisateurs.

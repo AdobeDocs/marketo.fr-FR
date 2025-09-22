@@ -3,7 +3,7 @@ description: Installation de Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dy
 title: Installez Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Étape 3 sur 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 3%
@@ -63,7 +63,7 @@ ht-degree: 3%
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Sélectionnez les champs que vous souhaitez synchroniser avec Marketo afin qu’ils soient présélectionnés. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez les champs que vous souhaitez synchroniser avec Marketo afin qu’ils soient présélectionnés. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
@@ -83,7 +83,7 @@ Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélect
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 

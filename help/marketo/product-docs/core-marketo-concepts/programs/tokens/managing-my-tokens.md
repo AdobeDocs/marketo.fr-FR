@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147116
 description: Gestion De Mes Jetons - Documents Marketo - Documentation Du Produit
-title: Gestion de mes jetons
+title: Gestion de Mes jetons
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Gestion de mes jetons {#managing-my-tokens}
+# Gestion de Mes jetons {#managing-my-tokens}
 
 L’utilisation de jetons peut simplifier vos efforts dans Marketo Engage. Vous pouvez utiliser [Mes jetons](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (jetons personnalisés) dans les étapes de flux, les webhooks, les e-mails et les pages de destination. Voici comment les fabriquer.
 
@@ -37,7 +37,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo Engage. Vous 
 
    ![](assets/create-a-local-my-token-3.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/create-a-local-my-token-4.png)
 
@@ -59,7 +59,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo Engage. Vous 
 
    ![](assets/create-a-global-my-token-3.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/create-a-global-my-token-4.png)
 

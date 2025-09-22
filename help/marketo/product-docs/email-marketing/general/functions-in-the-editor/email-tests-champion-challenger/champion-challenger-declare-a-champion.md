@@ -4,14 +4,14 @@ description: Champion/Challenger - Déclarer un champion - Documents Marketo - D
 title: Champion/Challenger - Déclarer un champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Champion/Challenger : Déclarer un champion {#champion-challenger-declare-a-champion}
+# Champion/Challenger : déclarer un champion {#champion-challenger-declare-a-champion}
 
 Lorsque vous êtes prêt(e), vous pouvez déclarer champion pour votre test d’e-mail.
 

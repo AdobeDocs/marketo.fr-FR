@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718681
 description: Commencez le suivi par compte dans Revenue Modeler - Documents Marketo - Documentation du produit.
-title: Commencer le suivi par compte dans Revenue Modeler
+title: Commencer le tracking par compte dans Revenue Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Commencer le suivi par compte dans Revenue Modeler {#start-tracking-by-account-in-the-revenue-modeler}
+# Commencer le tracking par compte dans Revenue Modeler {#start-tracking-by-account-in-the-revenue-modeler}
 
 Grâce au Modeler de l’étape de chiffre d’affaires et à l’[!UICONTROL explorateur de chiffres d’affaires], insight améliore les performances de vos prospects et de vos comptes au fur et à mesure de leur progression dans votre modèle.
 

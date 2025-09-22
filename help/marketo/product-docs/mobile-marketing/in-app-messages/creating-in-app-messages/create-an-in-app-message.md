@@ -1,12 +1,12 @@
 ---
 description: Création d’un message in-app - Documents Marketo - Documentation du produit
-title: Création d’un message In-App
+title: Créer un message in-app
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720710
 description: Configurer SPF et DKIM pour la délivrabilité des e-mails - Documents Marketo - Documentation du produit
-title: Configurer SPF et DKIM pour la délivrabilité des e-mails
+title: Configurer SPF et DKIM pour la délivrabilité de vos e-mails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Configurer SPF et DKIM pour la délivrabilité des e-mails {#set-up-spf-and-dkim-for-your-email-deliverability}
+# Configurer SPF et DKIM pour la délivrabilité de vos e-mails {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 Une méthode rapide pour améliorer vos taux de diffusion e-mail consiste à incorporer **SPF** (Sender Policy Framework) et **DKIM** (Domain Keys Identified Mail) dans vos paramètres DNS. Avec cet ajout à vos entrées DNS, vous indiquez aux destinataires que vous avez autorisé Marketo à envoyer des e-mails en votre nom. Sans cette modification, votre e-mail risque davantage d’être marqué comme indésirable, car il a été adressé à partir de votre domaine, mais envoyé à partir d’une adresse IP avec un domaine Marketo.
 

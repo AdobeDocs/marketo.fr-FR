@@ -3,32 +3,32 @@ description: Notes De Mise À Jour - Janvier 2023 - Documents Marketo - Document
 title: Notes de mise à jour - Janvier 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 10%
+ht-degree: 23%
 
 ---
 
-# Notes De Mise À Jour : Janvier 2023 {#release-notes-jan-23}
+# Notes de mise à jour : janvier 2023 {#release-notes-jan-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 janvier. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 janvier. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **20 janvier 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 20 janvier 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
-### Marketo Engage Modern UX {#modern-ux}
+### Expérience d’utilisation moderne pour Marketo Engage {#modern-ux}
 
 </br>
 
 * **Mise à jour de Screens dans l’expérience utilisateur moderne** : dans l’expérience utilisateur moderne (anciennement appelée Expérience de nouvelle génération), nous vous proposons d’autres écrans actualisés qui offrent des améliorations de conception et de convivialité mises à jour et accessibles via le bouton bascule :
 
-   * Vue Liste de fragments de code
+   * Vue Liste d’extrait
    * Liste de modèles de page de destination
 
   <table>
@@ -38,7 +38,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Basculer</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Bouton (bascule)</a></td>
   </tr>
   </tbody>
 
@@ -53,7 +53,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -71,7 +71,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -89,7 +89,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=fr">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -107,7 +107,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informations sur l'API d'exportation en masse</a></td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informations sur l’API d’exportation en masse</a></td>
   </tr>
   </tbody>
 </table>
@@ -116,7 +116,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à différentes dates avant ou après la date de publication standard. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
-### Dynamic Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
@@ -129,7 +129,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -157,7 +157,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -171,7 +171,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>

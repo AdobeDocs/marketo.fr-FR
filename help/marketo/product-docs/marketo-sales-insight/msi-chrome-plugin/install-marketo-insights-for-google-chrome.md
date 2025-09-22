@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147326
 description: Installation de Marketo Insights pour Google Chrome - Documentation de Marketo - Documentation du produit
-title: Installation de Marketo Insights pour Google Chrome
+title: Installer Marketo Insights pour Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

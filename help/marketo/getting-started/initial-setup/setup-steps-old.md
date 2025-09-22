@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2086'
 ht-degree: 1%
@@ -98,7 +98,7 @@ Le nouvel utilisateur est désormais répertorié dans l’onglet **[!UICONTROL 
 
 ## Configurer Vos Contacts D’Assistance Autorisés {#set-up-your-authorized-support-contacts}
 
-Vous avez peut-être reçu un e-mail de l’assistance Marketo vous indiquant que vous êtes l’administrateur du service clientèle Marketo de votre société. Si tel est le cas, vous pouvez configurer des **contacts d’assistance autorisés** pour votre équipe. Seuls les contacts d’assistance autorisés peuvent contacter directement le service clientèle de Marketo par le biais du portail d’assistance Marketo [&#128279;](https://support.marketo.com){target="_blank"}.
+Vous avez peut-être reçu un e-mail de l’assistance Marketo vous indiquant que vous êtes l’administrateur du service clientèle Marketo de votre société. Si tel est le cas, vous pouvez configurer des **contacts d’assistance autorisés** pour votre équipe. Seuls les contacts d’assistance autorisés peuvent contacter directement le service clientèle de Marketo par le biais du portail d’assistance Marketo [](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
@@ -227,7 +227,6 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 placer sur la liste autorisée `3)` Marketo.
 
     * Si nous utilisons des adresses IP dans notre Place sur la liste autorisée e-mail, ajoutez les adresses IP répertoriées ci-dessous :
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -320,7 +319,7 @@ Faites défiler jusqu’à [!UICONTROL Domaines de marque]. Sélectionnez votre 
 
 Dans le champ Domaine , saisissez votre domaine de tracking e-mail. Elle doit se présenter comme suit :
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ![](assets/setup-steps-21.png)
 
@@ -351,6 +350,6 @@ Marketo dispose d’un JavaScript de suivi personnalisé ([!DNL Munchkin]) que v
 
 ## Attentes en matière de performances {#performance-expectations}
 
-À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+À quoi pouvez-vous vous attendre en termes de performances de la part de Marketo ? Elle peut varier en fonction de la taille et de la complexité de vos campagnes marketing. Mais vous pouvez vous attendre à des niveaux de performances comparables à ceux indiqués dans la colonne « Standard » de plusieurs tableaux figurant dans la description du produit [Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Les colonnes « Performances » et « Performance Plus » font référence aux packages de niveau de performances qui fournissent des [niveaux de performances supérieurs](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Toutes vos étapes de configuration sont terminées. Il ne reste plus qu’à plonger et utiliser Marketo !

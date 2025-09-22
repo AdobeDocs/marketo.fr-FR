@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377392
 description: Modification De Votre Domaine De Marque Par Défaut - Documents Marketo - Documentation Du Produit
-title: Modifier Votre Domaine De Marque Par Défaut
+title: Modifier votre domaine de branding par défaut
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Modifier Votre Domaine De Marque Par Défaut {#edit-your-default-branding-domain}
+# Modifier votre domaine de branding par défaut {#edit-your-default-branding-domain}
 
 La modification de votre domaine de marque par défaut est la première étape de l’utilisation des domaines de marque.
 

@@ -3,7 +3,7 @@ description: Règles De Validation Globale Des Formulaires - Documents Marketo -
 title: Règles générales de validation du formulaire
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 2%
@@ -62,7 +62,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez activer son autorisa
 
    >[!NOTE]
    >
-   >La liste déroulante [!UICONTROL &#x200B; Actions de règle de validation du formulaire &#x200B;] vous permet de supprimer ou de modifier des règles existantes.
+   >La liste déroulante [!UICONTROL  Actions de règle de validation du formulaire ] vous permet de supprimer ou de modifier des règles existantes.
 
 1. Nommez votre règle, donnez-lui une description facultative et saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez le ou les domaines à bloquer dans la zone des règles, sélectionnez **[!UICONTROL Activer la règle]**, puis cliquez sur **[!UICONTROL Créer]**.
 

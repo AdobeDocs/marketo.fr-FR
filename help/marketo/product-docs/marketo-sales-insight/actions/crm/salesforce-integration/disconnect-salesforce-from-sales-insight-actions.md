@@ -1,20 +1,20 @@
 ---
 description: Déconnexion De Salesforce Des Ventes Actions Insight - Documents Marketo - Documentation Du Produit
-title: Déconnexion De Salesforce Des Actions De Ventes Insight
+title: Déconnecter Salesforce d’Actions des informations sur les ventes
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Déconnecter [!DNL Salesforce] De [!DNL Sales Insight Actions] {#disconnect-salesforce-from-sales-insight-actions}
 
-Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de votre compte [!DNL Sales Insight Actions]. Voici comment procéder.
+Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de votre compte [!DNL Sales Insight Actions]. Voici comment faire.
 
 ## Comment se déconnecter de [!UICONTROL Salesforce] en tant qu&#39;administrateur {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -26,7 +26,7 @@ Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de v
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. Dans l’onglet [!UICONTROL &#x200B; Connexions et personnalisations &#x200B;], cliquez sur **[!UICONTROL Déconnecter]**.
+1. Dans l’onglet [!UICONTROL  Connexions et personnalisations ], cliquez sur **[!UICONTROL Déconnecter]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
@@ -36,10 +36,10 @@ Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de v
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Salesforce]**.
 
 PICC
 
-1. Dans l’onglet [!UICONTROL &#x200B; Connexions et personnalisations &#x200B;], cliquez sur **[!UICONTROL Déconnecter]**.
+1. Dans l’onglet [!UICONTROL  Connexions et personnalisations ], cliquez sur **[!UICONTROL Déconnecter]**.
 
 PICC

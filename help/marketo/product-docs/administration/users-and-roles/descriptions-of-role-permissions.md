@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6848747
 description: Descriptions des autorisations de rôle - Documents Marketo - Documentation du produit
-title: Descriptions des autorisations de rôle
+title: Descriptions des autorisations de rôles
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1447'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
-# Descriptions des autorisations de rôle {#descriptions-of-role-permissions}
+# Descriptions des autorisations de rôles {#descriptions-of-role-permissions}
 
 Vous trouverez ci-dessous une liste de toutes les autorisations disponibles que vous pouvez attribuer à vos rôles. Les autorisations sont généralement associées à des zones fonctionnelles spécifiques dans Marketo et peuvent vous aider à contrôler les zones et fonctionnalités auxquelles différents utilisateurs ont accès.
 
@@ -75,7 +75,7 @@ _&#42;Afin d’éviter toute perturbation des utilisateurs et utilisatrices exis
 Permet aux utilisateurs disposant de l’**API uniquement** **rôle** d’accéder aux API individuelles répertoriées ci-dessous.
 
 * Approuver les ressources
-* Lancer la campagne
+* Exécuter la campagne
 * Activité en lecture seule
 * Métadonnées d’activité en lecture seule
 * Ressources en lecture seule
@@ -177,7 +177,7 @@ Affichez la base de données et affichez et modifiez les listes dynamiques/stati
    * Supprimer la segmentation
    * Modifier la segmentation
 
-* Supprimer individu
+* Supprimer une personne
 * Créer une liste&#42;
    * Accès à la création d’une ressource de liste dans les activités de base de données et marketing
    * Accès à la création d’une ressource de liste dynamique dans les activités de base de données et marketing

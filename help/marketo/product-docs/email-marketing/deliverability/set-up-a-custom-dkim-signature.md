@@ -4,10 +4,10 @@ description: Configuration d’une signature DKIM personnalisée - Documents Mar
 title: Configurer une signature DKIM personnalisée
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Pour garantir une délivrabilité de premier ordre, nous signons automatiquement
 >
 >Vous aurez peut-être besoin de l’aide de votre équipe informatique pour suivre certaines des étapes décrites dans cet article.
 
-Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de votre choix. Voici comment procéder.
+Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de votre choix. Voici comment faire.
 
 1. Accédez à la section **[!UICONTROL Admin]**.
 

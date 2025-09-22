@@ -3,7 +3,7 @@ description: Bonnes pratiques relatives aux webinaires interactifs - Documents M
 title: Bonnes pratiques relatives aux webinaires interactifs
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: cf840cee3be4ee6bb9effca6e85dfa2200153e62
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Pour vous aider, nous avons compilé une liste de bonnes pratiques qui peuvent v
 
 * **Capsule de questions-réponses** : le nom du participant qui a soumis la question et le nom de l’hôte/du présentateur qui a répondu peuvent tous deux être masqués. Pour ce faire, désélectionnez les options de confidentialité dans la section « Capsule de questions/réponses » des Préférences de la chambre.
 
-* **Panneau de conversation** : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les conversations apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu du chat Pod. [Cliquez ici](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
+* **Panneau de conversation** : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les conversations apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu du chat Pod. [Cliquez ici](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
 
 * **Conversation privée** : désactivez la conversation privée pour empêcher les participants d’envoyer un ping à un autre participant. Pour ce faire, décochez la case « Autoriser les participants à discuter en privé » dans la section « Conversation » des Préférences de la salle.
 

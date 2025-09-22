@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359877
 description: Désactiver et activer les notifications de contenu épuisées - Documents Marketo - Documentation du produit
-title: Désactiver et activer les notifications de contenu épuisées
+title: Désactiver et activer les notifications de contenu épuisé
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Désactiver et activer les notifications de contenu épuisées {#disable-and-enable-exhausted-content-notifications}
+# Désactiver et activer les notifications de contenu épuisé {#disable-and-enable-exhausted-content-notifications}
 
-Lorsque des personnes épuisent tout le contenu d’un flux, Marketo peut vous envoyer une notification. Vous pouvez activer/désactiver les notifications en fonction de vos besoins. Voici comment procéder.
+Lorsque des personnes épuisent tout le contenu d’un flux, Marketo peut vous envoyer une notification. Vous pouvez activer/désactiver les notifications en fonction de vos besoins. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

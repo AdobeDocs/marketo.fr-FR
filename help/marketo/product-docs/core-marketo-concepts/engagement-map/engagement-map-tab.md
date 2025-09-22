@@ -1,15 +1,15 @@
 ---
 description: Onglet Carte De L’Engagement - Documents Marketo - Documentation Du Produit
-title: Onglet Carte de l’engagement
+title: Onglet Carte d’engagement
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '935'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Onglet Carte de l’engagement {#engagement-map-tab}
+# Onglet Carte d’engagement {#engagement-map-tab}
 
 La carte de l’engagement est représentée par une série de cartes de déclenchement, de filtre et de flux. Cliquez sur chaque carte pour afficher des informations supplémentaires.
 

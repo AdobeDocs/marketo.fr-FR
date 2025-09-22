@@ -1,16 +1,16 @@
 ---
 description: Ajout ou suppression d’utilisateurs de conversation - Documents Marketo - Documentation du produit
-title: Ajouter ou supprimer des utilisateurs de conversation
+title: Ajouter ou supprimer des utilisateurs et utilisatrices de conversation
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Ajouter ou supprimer des utilisateurs de conversation {#add-or-remove-chat-users}
+# Ajouter ou supprimer des utilisateurs et utilisatrices de conversation {#add-or-remove-chat-users}
 
 Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs et utilisatrices de chat.
 
@@ -48,7 +48,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs et util
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/add-or-remove-chat-users-7.png)
 

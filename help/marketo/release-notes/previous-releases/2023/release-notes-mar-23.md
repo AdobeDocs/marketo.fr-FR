@@ -3,26 +3,26 @@ description: Notes De Mise À Jour - Mars 2023 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 11%
+ht-degree: 24%
 
 ---
 
-# Notes De Mise À Jour : Mars 2023 {#release-notes-mar-23}
+# Notes de mise à jour : mars 2023 {#release-notes-mar-23}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2023. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2023. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **31 mars 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication peuvent faire l’objet de modifications. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 31 mars 2023**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
-### Marketo Engage Modern UX {#modern-ux}
+### Expérience d’utilisation moderne pour Marketo Engage {#modern-ux}
 
 </br>
 
@@ -35,7 +35,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -49,7 +49,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -63,7 +63,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -81,7 +81,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -90,7 +90,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 Les fonctionnalités suivantes suivent un format Agile et sont publiées à différentes dates avant ou après la date de publication standard. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 
-### Dynamic Chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
@@ -103,7 +103,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -117,7 +117,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -131,7 +131,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -145,7 +145,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -159,7 +159,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -173,7 +173,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tr>
   <tr>
    <td>Expédié</td>
-   <td>S.O.</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>

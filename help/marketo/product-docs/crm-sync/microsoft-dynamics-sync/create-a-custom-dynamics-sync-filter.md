@@ -4,7 +4,7 @@ description: Création d’un filtre  [!DNL Dynamics]  synchronisation personnal
 title: Création d’un filtre  [!DNL Dynamics]  synchronisation personnalisé
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '781'
 ht-degree: 1%
@@ -89,7 +89,7 @@ Même si vous avez déjà effectué votre synchronisation initiale, accédez à 
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Faites défiler jusqu’au champ et cochez-le. Le nom réel doit être new_synctomkto mais le Nom d&#39;affichage peut être n&#39;importe quoi. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 

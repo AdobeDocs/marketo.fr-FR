@@ -4,10 +4,10 @@ description: Ajouter une liste de sélection de pays à votre formulaire - Docum
 title: Ajouter une liste de sélection de pays à votre formulaire
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
@@ -57,7 +57,7 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec u
    >
    >N’hésitez pas à modifier la liste ou à en utiliser une autre.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 

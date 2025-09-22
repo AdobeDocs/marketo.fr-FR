@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949962
 description: Basculement dynamique de la visibilité d’un champ de formulaire - Documents Marketo - Documentation du produit
-title: Activation/désactivation dynamique de la visibilité d’un champ de formulaire
+title: Activer/désactiver dynamiquement la visibilité d’un champ de formulaire
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Activation/désactivation dynamique de la visibilité d’un champ de formulaire {#dynamically-toggle-visibility-of-a-form-field}
+# Activer/désactiver dynamiquement la visibilité d’un champ de formulaire {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
@@ -61,7 +61,7 @@ Une fonctionnalité vraiment intéressante des formulaires Marketo est que vous 
    >
    >Nous avons précédemment converti le Pays en type de champ de liste de sélection et [avons ajouté tous les pays en tant que valeurs](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Et c&#39;est tout ! Désormais, lorsque les personnes remplissent ce formulaire 
 
 >[!IMPORTANT]
 >
->Le comportement des champs de formulaire fonctionne de manière transparente lorsque les valeurs de champ sont définies/mises à jour par le biais d’un script personnalisé à l’aide de [ fonctions API ](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
+>Le comportement des champs de formulaire fonctionne de manière transparente lorsque les valeurs de champ sont définies/mises à jour par le biais d’un script personnalisé à l’aide de [ fonctions API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
 >
 >Les champs conditionnels peuvent ne pas fonctionner comme prévu si les valeurs de champ sont modifiées par des scripts externes autres que l’API JavaScript Forms 2.0.

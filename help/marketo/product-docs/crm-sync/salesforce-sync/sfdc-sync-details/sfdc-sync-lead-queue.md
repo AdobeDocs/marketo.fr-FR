@@ -4,14 +4,14 @@ description: Synchronisation de SFDC - File d’attente des leads - Documents Ma
 title: Synchronisation de SFDC - File d’attente des leads
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# Synchronisation SFDC : file d’attente des leads {#sfdc-sync-lead-queue}
+# Synchronisation SFDC : file d’attente des leads {#sfdc-sync-lead-queue}
 
 Marketo vous permet d’ajouter des personnes aux [[!DNL Salesforce] files d’attente de prospects](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) pour faciliter la distribution des prospects. Voici les détails.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356578
 description: Composition d’e-mails en bloc avec sélection et envoi - Documents Marketo - Documentation du produit
-title: Composition d’e-mails en bloc avec sélection et envoi
+title: Composition d’e-mails en masse avec les options Sélectionner et Envoyer
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Composition d’e-mails en bloc avec sélection et envoi {#composing-bulk-emails-with-select-and-send}
+# Composition d’e-mails en masse avec les options Sélectionner et Envoyer {#composing-bulk-emails-with-select-and-send}
 
 Voici comment envoyer/modifier des e-mails à l’aide de l’option Sélectionner et envoyer .
 

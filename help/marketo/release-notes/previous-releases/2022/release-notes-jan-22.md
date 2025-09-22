@@ -2,20 +2,20 @@
 description: Notes De Mise À Jour - Janvier 2022 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Janvier 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '897'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Notes De Mise À Jour : Janvier 2022 {#release-notes-jan-22}
+# Notes de mise à jour : janvier 2022 {#release-notes-jan-22}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier 2022. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Les fonctionnalités suivantes sont incluses dans la version de janvier 2022. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 

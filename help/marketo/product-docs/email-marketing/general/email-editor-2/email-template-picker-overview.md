@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10912237
 description: Présentation Du Sélecteur De Modèle D’E-Mail - Documents Marketo - Documentation Du Produit
-title: Aperçu du sélecteur de modèle d’e-mail
+title: Vue d’ensemble du sélecteur de modèle d’e-mail
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Aperçu du sélecteur de modèle d’e-mail {#email-template-picker-overview}
+# Vue d’ensemble du sélecteur de modèle d’e-mail {#email-template-picker-overview}
 
 Lorsque vous [créez un e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), vous avez le choix entre plusieurs modèles gratuits. Vous pouvez également créer votre propre modèle et l’enregistrer pour une utilisation ultérieure.
 

@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949264
-description: SEO - Suppression d’un problème de page - Documents Marketo - Documentation du produit
-title: SEO - Suppression d’un problème de page
+description: SEO - Supprimer/Supprimer un problème de page - Documents Marketo - Documentation du produit
+title: SEO - Supprimer un problème de page
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# SEO - Suppression d’un problème de page {#seo-remove-delete-a-page-issue}
+# SEO - Supprimer un problème de page {#seo-remove-delete-a-page-issue}
 
-Tous les problèmes de page ne sont pas utiles pour vous. Voici comment en supprimer un.
+Tous les problèmes de page peuvent ne pas vous être utiles. Voici comment en supprimer un.
 
-1. Accédez à la section **[!UICONTROL Pages]** .
+1. Accédez à la section **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Dans la section [!UICONTROL Pages], cliquez sur **[!UICONTROL Problèmes]**.
+1. Dans la section [!UICONTROL Pages], cliquez sur **[!UICONTROL Événements]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
@@ -31,8 +31,8 @@ Tous les problèmes de page ne sont pas utiles pour vous. Voici comment en suppr
 
    >[!CAUTION]
    >
-   >Vous ne pouvez pas annuler cette action. Une fois qu’un problème est supprimé, vous pouvez le recréer en supprimant la page et en l’ajoutant à nouveau.
+   >Vous ne pouvez pas annuler cette action. Une fois un problème supprimé, vous pouvez le recréer en supprimant la page et en l’ajoutant de nouveau.
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-Votre problème de page a été supprimé.
+Votre problème de page est maintenant supprimé.

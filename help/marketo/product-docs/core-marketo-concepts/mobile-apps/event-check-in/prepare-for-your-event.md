@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099360
 description: Préparation de votre événement - Documents Marketo - Documentation du produit
-title: Préparation de votre événement
+title: Préparer votre événement
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Préparation de votre événement {#prepare-for-your-event}
+# Préparer votre événement {#prepare-for-your-event}
 
 Il y a plusieurs choses que vous devez faire pour vous préparer à l&#39;événement.
 

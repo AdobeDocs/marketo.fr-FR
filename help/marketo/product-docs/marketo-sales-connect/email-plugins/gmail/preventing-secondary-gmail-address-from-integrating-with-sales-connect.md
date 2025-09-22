@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352546
 description: Empêcher l’intégration d’une adresse Gmail Secondaire à Sales Connect - Documents Marketo - Documentation du produit
-title: Empêcher l’intégration d’une adresse Gmail Secondaire à Sales Connect
+title: Empêchement de l’intégration d’une adresse Gmail secondaire à Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
 description: Désapprobation d’un titre pour Contenu prédictif - Documents Marketo - Documentation du produit
-title: Désapprobation du titre du contenu prédictif
+title: Annuler l’approbation d’un titre pour le contenu prédictif
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

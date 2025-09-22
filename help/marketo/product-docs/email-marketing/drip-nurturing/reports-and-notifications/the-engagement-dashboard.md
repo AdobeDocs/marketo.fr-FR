@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359685
 description: Tableau de bord de l’engagement - Documents Marketo - Documentation du produit
-title: Le tableau de bord de l’engagement
+title: Le tableau de bord d’engagement
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Le tableau de bord de l’engagement {#the-engagement-dashboard}
+# Le tableau de bord d’engagement {#the-engagement-dashboard}
 
 Le tableau de bord de l’engagement est le moyen le plus simple de voir les performances du contenu de votre programme d’engagement.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147243
 description: Types d’entrée de vue Calendrier de programme - Documents Marketo - Documentation du produit
-title: Types d'entrée de vue Calendrier de programme
+title: Types d’entrée dans la vue Planning du programme
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 12%
+ht-degree: 19%
 
 ---
 
-# Types d&#39;entrée de vue Calendrier de programme {#program-schedule-view-entry-types}
+# Types d’entrée dans la vue Planning du programme {#program-schedule-view-entry-types}
 
 Il existe huit types d’entrées intégrés différents qui seront visibles et disponibles pour une utilisation dans la vue du planning de votre programme. Vous pouvez également [créer des types d’entrée personnalisés](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) dans la section Admin.
 

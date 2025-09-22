@@ -1,21 +1,21 @@
 ---
-description: Centre d’aide - Documents sur Marketo Engage - Documentation du produit
-title: Centre dʼaide
+description: Centre d’aide - Documents Marketo Engage - Documentation du produit
+title: Centre d’aide
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 5%
+ht-degree: 84%
 
 ---
 
-# Centre dʼaide {#help-center}
+# Centre d’aide {#help-center}
 
-Le Centre d’aide de Adobe Marketo Engage sert d’emplacement centralisé pour obtenir de l’aide. Outre les liens vers diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [informations sur la mise à jour](/help/marketo/release-notes/current.md){target="_blank"}, la [Communauté des nations marketing](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des présentations intégrées au produit utiles organisées par niveau d’expérience.
+Le centre d’aide d’Adobe Marketo Engage sert d’emplacement centralisé pour obtenir de l’aide. Outre les liens vers diverses ressources (par exemple, [documentation du produit](/help/marketo/home.md){target="_blank"}, [informations sur la version](/help/marketo/release-notes/current.md){target="_blank"}, [Communauté Marketing Nation](https://nation.marketo.com/){target="_blank"}), vous pouvez accéder à des présentations très utiles, intégrées au produit et organisées par niveau d’expérience.
 
-## Accès {#how-to-access}
+## Comment y accéder {#how-to-access}
 
 Après vous être connecté à Marketo Engage, cliquez sur l’icône d’aide.
 
@@ -23,7 +23,7 @@ Après vous être connecté à Marketo Engage, cliquez sur l’icône d’aide.
 
 ### Guides {#guides}
 
-Les guides servent de présentation rapide des fonctionnalités populaires.
+Les guides servent de présentations rapides des fonctionnalités populaires.
 
 ![](assets/help-center-2.png)
 
@@ -49,16 +49,16 @@ Les guides servent de présentation rapide des fonctionnalités populaires.
 
 ### Nouveautés {#whats-new}
 
-L’onglet Nouveautés contient tous les détails de la dernière version de Marketo Engage.
+L’onglet Nouveautés contient tous les détails sur la dernière version de Marketo Engage.
 
 ![](assets/help-center-7.png)
 
 >[!TIP]
 >
->Cliquez sur l’icône de flèche en bas pour afficher la page en Experience League.
+>Cliquez sur l’icône de flèche située en bas pour afficher la page dans Experience League.
 
 ### Ressources {#resources}
 
-L’onglet Ressources vous donne un accès rapide et direct aux différentes manières d’obtenir de l’aide supplémentaire pour votre instance de Marketo Engage.
+L’onglet Ressources vous donne un accès rapide et direct aux différentes manières d’obtenir de l’aide supplémentaire pour votre instance Marketo Engage.
 
 ![](assets/help-center-8.png)

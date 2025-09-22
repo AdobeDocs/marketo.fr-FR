@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982903
 description: Planification de programmes de messagerie avec fuseau horaire du destinataire - Documents Marketo - Documentation du produit
-title: Planification de programmes de messagerie électronique avec fuseau horaire du destinataire
+title: Planifier les programmes d’e-mail en fonction du fuseau horaire de la personne destinataire
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '839'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Planification de programmes de messagerie électronique avec fuseau horaire du destinataire {#schedule-email-programs-with-recipient-time-zone}
+# Planifier les programmes d’e-mail en fonction du fuseau horaire de la personne destinataire {#schedule-email-programs-with-recipient-time-zone}
 
 Deux scénarios sont possibles lors de la planification d’un programme de messagerie lorsque le fuseau horaire du destinataire est activé :
 

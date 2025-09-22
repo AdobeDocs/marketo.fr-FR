@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147120
 description: Importer des membres d’une feuille de calcul dans un programme - Documents Marketo - Documentation du produit
-title: Importer les membres d'une feuille de calcul dans un programme
+title: Importer des personnes membres dans un programme à partir d’une feuille de calcul
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Importer les membres d&#39;une feuille de calcul dans un programme {#import-members-from-a-spreadsheet-into-a-program}
+# Importer des personnes membres dans un programme à partir d’une feuille de calcul {#import-members-from-a-spreadsheet-into-a-program}
 
 Vous pouvez importer une liste de personnes qui deviennent automatiquement membres d’un programme. Voici ce qu&#39;il faut faire.
 

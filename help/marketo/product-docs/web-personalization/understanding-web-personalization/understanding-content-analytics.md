@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093159
 description: Présentation de Content Analytics - Documents Marketo - Documentation du produit
-title: Présentation de Content Analytics
+title: Présentation de Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Présentation de Content Analytics {#understanding-content-analytics}
+# Présentation de Content Analytics {#understanding-content-analytics}
 
 La page Content Analytics affiche le contenu existant que vous avez découvert (études de cas, articles de blog, vidéos, communiqués de presse, etc.) à partir de votre site web. Il affiche également les performances de votre contenu et des personnes générées lorsque les visiteurs et visiteuses interagissent avec eux.
 
@@ -86,7 +86,7 @@ Les analyses de contenu supplémentaires comprennent :
 
 * **[!UICONTROL Vues]** : vues de cet élément de contenu pour la période sélectionnée
 * **[!UICONTROL Conversions directes]** : visiteurs et visiteuses web qui ont consulté le contenu et rempli un formulaire au cours de la même visite.
-* **[!UICONTROL Taux de conversion]**&#x200B;**&#x200B; :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
+* **[!UICONTROL Taux de conversion]**** :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
 
 **[!UICONTROL Tendances]**
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953144
 description: Présentation Des Rapports Avancés Sur Les Programmes - Documents Marketo - Documentation Du Produit
-title: Présentation des rapports avancés sur les programmes
+title: Vue d’ensemble des rapports de programmes avancés
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Présentation des rapports avancés sur les programmes {#advanced-program-reporting-overview}
+# Vue d’ensemble des rapports de programmes avancés {#advanced-program-reporting-overview}
 
 L’**Explorateur du cycle du chiffre d’affaires** comprend plusieurs domaines d’analyse et un large éventail de nouvelles mesures qui vous permettent de mesurer l’efficacité des programmes.
 

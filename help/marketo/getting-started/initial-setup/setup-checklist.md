@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949471
-description: Liste de contrôle de configuration - Documents Marketo - Documentation du produit
-title: Liste de contrôle de configuration
+description: Liste de contrôle d’installation - Documents Marketo - Documentation du produit
+title: Liste de contrôle d'installation
 hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Liste de contrôle de configuration {#setup-checklist}
+# Liste de contrôle d&#39;installation {#setup-checklist}
 
-Bienvenue dans Marketo ! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelles pour lancer les choses. Vous trouverez des détails dans la section [Procédure de configuration](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Bienvenue dans Marketo ! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelle pour commencer. Vous trouverez plus d’informations dans [Étapes de configuration](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Connexion à Marketo et création d’utilisateurs supplémentaires {#log-in-to-marketo-and-create-additional-users}
 
@@ -24,32 +24,32 @@ Bienvenue dans Marketo ! N’hésitez pas à utiliser la liste de contrôle suiv
 
 ## Configuration d’un contact d’assistance autorisé {#set-up-an-authorized-support-contact}
 
-1. Configurer un contact de support autorisé
-1. Personnalisation des URL de page d’entrée
-1. Sélection d’un CNAME de page d’entrée
-1. Demandez au service informatique de créer un enregistrement DNS pour votre CNAME de page d’entrée
-1. Une fois le service informatique terminé, configurez le nom de domaine de votre landing page dans Marketo.
+1. Configuration d’un contact d’assistance autorisé
+1. Personnaliser les URL des pages de destination
+1. Sélectionner un CNAME de page de destination
+1. Demandez au service informatique de créer un enregistrement DNS pour votre CNAME de page de destination
+1. Une fois l’opération terminée, configurez le nom de domaine de votre page de destination dans Marketo
 
-## Assurer la délivrabilité des emails {#ensure-email-deliverability}
+## Garantir la délivrabilité des e-mails {#ensure-email-deliverability}
 
-1. Sélection d’un CNAME de courriel pour les liens de suivi de marque
-1. Demandez au service informatique de configurer un enregistrement DNS pour votre CNAME de messagerie
-1. Demander à l’informatique de placer sur la liste autorisée Marketo
-1. Configurez DKIM et SPF dans la zone [!UICONTROL Admin]
-1. Configuration de MX pour `[FromDomain1]`
-1. Une fois l’utilisation du CNAME de messagerie terminée, configurez votre CNAME de messagerie dans Marketo.
+1. Sélectionner un CNAME d’e-mail pour les liens de tracking de marque
+1. Demandez au service informatique de configurer un enregistrement DNS pour votre CNAME d&#39;e-mail
+1. Demander au service informatique de placer sur la liste autorisée Marketo
+1. Configurer DKIM et SPF dans la zone [!UICONTROL Admin]
+1. Configurer MX pour `[FromDomain1]`
+1. Lorsque vous avez terminé avec le CNAME d’e-mail, configurez le CNAME de votre e-mail dans Marketo
 
-## Envoyer une URL pour la page d’entrée et les modèles de courrier électronique {#submit-a-url-for-landing-page-and-email-templates}
+## Envoyer une URL pour les modèles de page de destination et d’e-mail {#submit-a-url-for-landing-page-and-email-templates}
 
-1. Remplissez le formulaire pour envoyer une URL pour les nouveaux modèles.
+1. Remplissez le formulaire pour envoyer une URL pour les nouveaux modèles
 
 ## Synchronisation CRM {#crm-sync}
 
-1. Collaborer avec votre administrateur CRM pour synchroniser tous les contacts CRM avec Marketo
+1. Contactez votre administrateur CRM pour synchroniser tous les contacts CRM avec Marketo
 
-## Ajout du code de suivi à votre site web {#add-tracking-code-to-your-website}
+## Ajout d’un code de suivi à votre site web {#add-tracking-code-to-your-website}
 
-1. Collaborer avec un développeur web pour ajouter du code de suivi à votre site web
+1. Contactez un développeur ou une développeuse web pour ajouter du code de suivi à votre site web
 
 >[!MORELIKETHIS]
 >

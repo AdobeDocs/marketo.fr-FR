@@ -1,16 +1,16 @@
 ---
 description: Programme de salon TS-YYYY-MM-DD - Documentation Marketo - Documentation du produit
-title: Programme du salon TS-YYYY-MM-DD
+title: TS-AAAA-MM-JJ-Programme de salon professionnel
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 15%
+ht-degree: 18%
 
 ---
 
-# Programme du salon TS-YYYY-MM-DD {#ts-yyyy-mm-dd-tradeshow-program}
+# TS-AAAA-MM-JJ-Programme de salon professionnel {#ts-yyyy-mm-dd-tradeshow-program}
 
 Voici un exemple de programme de salon professionnel avec des invitations et des e-mails de suivi utilisant un programme d’événement Marketo Engage.
 
@@ -51,12 +51,12 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>01-E-Mail-Merci</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>02a- Email - Invitation</td>
   </tr>
   <tr>

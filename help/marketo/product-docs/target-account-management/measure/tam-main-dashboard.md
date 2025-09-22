@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380783
 description: Tableau de bord principal de la gestion des actifs numériques - Documents Marketo - Documentation du produit
-title: Tableau de bord principal TAM
+title: Tableau de bord principal de TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Tableau de bord principal TAM {#tam-main-dashboard}
+# Tableau de bord principal de TAM {#tam-main-dashboard}
 
 Le tableau de bord principal présente un résumé de vos efforts [!UICONTROL Gestion de compte Target]. Vous pouvez voir les comptes cibles ou les listes de comptes qui affichent le succès, ainsi que ceux qui nécessitent plus d’attention.
 

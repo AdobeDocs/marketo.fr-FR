@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093348
 description: Présentation Des Cartes Smart Campaign - Documents Marketo - Documentation Du Produit
-title: Comprendre les cartes de campagne intelligentes
+title: Présentation des vignettes de campagne intelligente
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Comprendre les cartes de campagne intelligentes {#understanding-smart-campaign-cards}
+# Présentation des vignettes de campagne intelligente {#understanding-smart-campaign-cards}
 
 Utilisez les moments Marketo pour afficher chaque exécution de vos campagnes intelligentes à partir de votre téléphone intelligent ou d’iPad. La carte Campagne intelligente Moments de Marketo représente une exécution unique d’une campagne ; une nouvelle carte s’affiche à chaque exécution de la campagne intelligente. Les cartes Smart Campaign sont marquées d’une ampoule en haut à gauche.
 

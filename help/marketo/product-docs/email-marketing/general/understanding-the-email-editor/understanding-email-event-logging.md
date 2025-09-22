@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147356
 description: Comprendre La Journalisation Des Événements Par E-Mail - Documents Marketo - Documentation Du Produit
-title: Comprendre la journalisation des événements dans les e-mails
+title: Présentation de la journalisation des événements d’e-mail
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Comprendre la journalisation des événements dans les e-mails {#understanding-email-event-logging}
+# Présentation de la journalisation des événements d’e-mail {#understanding-email-event-logging}
 
 Lors de l’envoi d’e-mails, Marketo consigne différents points de données dans les journaux d’activité de la personne. Voici les éléments de base.
 

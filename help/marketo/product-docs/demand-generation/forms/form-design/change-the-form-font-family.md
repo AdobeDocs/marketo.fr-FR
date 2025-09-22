@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359608
 description: Modification de la famille de polices de formulaire - Documents Marketo - Documentation du produit
-title: Modification de la famille de polices de formulaire
+title: Modifier la famille de police du formulaire
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Modification de la famille de polices de formulaire {#change-the-form-font-family}
+# Modifier la famille de police du formulaire {#change-the-form-font-family}
 
 Les polices Google sont incroyables et nous les avons directement intégrées à l’éditeur de formulaires. Allez voir !
 

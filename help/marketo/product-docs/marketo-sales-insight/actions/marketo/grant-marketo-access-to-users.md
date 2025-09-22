@@ -1,16 +1,16 @@
 ---
 description: Octroi de l’accès à Marketo aux utilisateurs - Documents Marketo - Documentation du produit
-title: Octroi de l’accès Marketo aux utilisateurs
+title: Accorder un accès Marketo à des utilisateurs et à des utilisatrices
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Octroi de l’accès Marketo aux utilisateurs {#grant-marketo-access-to-users}
+# Accorder un accès Marketo à des utilisateurs et à des utilisatrices {#grant-marketo-access-to-users}
 
 Suivez les étapes de cet article pour accorder à vos utilisateurs [!DNL Sales Insight Actions] l’accès à la connexion Marketo. Cela déverrouillera des fonctionnalités telles que les moments significatifs dans le flux en direct et l’accès aux campagnes marketing.
 

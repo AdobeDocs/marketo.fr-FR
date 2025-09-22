@@ -1,12 +1,12 @@
 ---
 description: Suppression de l’accès à Sales Insight - Documents Marketo - Documentation du produit
-title: Supprimer l’accès à Sales Insight
+title: Supprimer l’accès à Informations sur les ventes
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -93,7 +93,7 @@ L’autorisation des objets mentionnés ci-dessous, des classes apex et des page
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. Faites défiler jusqu’à « [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;] ».
+1. Faites défiler jusqu’à « [!UICONTROL  Autorisations d’objet personnalisé ] ».
 
 1. Supprimez l’accès « Lire, Créer, Modifier et Supprimer » des objets suivants :
 

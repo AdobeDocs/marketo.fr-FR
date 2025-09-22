@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147360
 description: Ajout de jetons à un lien e-mail - Documents Marketo - Documentation du produit
-title: Ajouter des jetons à un lien e-mail
+title: Ajouter des jetons à un lien d’e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
-# Ajouter des jetons à un lien e-mail {#add-tokens-to-an-email-link}
+# Ajouter des jetons à un lien d’e-mail {#add-tokens-to-an-email-link}
 
-Pour insérer des paramètres supplémentaires et spécifiques à une personne dans vos liens, vous pouvez utiliser des jetons. Voici comment procéder.
+Pour insérer des paramètres supplémentaires et spécifiques à une personne dans vos liens, vous pouvez utiliser des jetons. Voici comment faire.
 
 1. Sélectionnez votre e-mail et cliquez sur l’onglet **[!UICONTROL Modifier le brouillon]**.
 
@@ -31,7 +31,7 @@ Pour insérer des paramètres supplémentaires et spécifiques à une personne d
 
    ![](assets/four.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/five.png)
 

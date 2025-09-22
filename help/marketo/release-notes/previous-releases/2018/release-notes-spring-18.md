@@ -3,14 +3,14 @@ unique-page-id: 14745959
 description: Notes De Mise À Jour - Printemps 18 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Printemps 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Notes de mise à jour : printemps 18 {#release-notes-spring}
+# Notes de mise à jour : printemps 2018 {#release-notes-spring}
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 18. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
@@ -68,7 +68,7 @@ Partagez facilement vos graphiques rapides avec d’autres utilisateurs [!UICONT
 
 Une navigation optimisée et des workflows améliorés vous donnent une visibilité sur les critères de réussite du programme et l’accès aux détails du programme.
 
-## IA dédiée au contenu {#contentai}
+## ContentAI {#contentai}
 
 [Définition des objectifs](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 

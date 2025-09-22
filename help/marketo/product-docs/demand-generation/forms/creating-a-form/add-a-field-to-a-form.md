@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359543
 description: Ajouter un champ à un formulaire - Documents Marketo - Documentation du produit
-title: Ajout d’un champ à un formulaire
+title: Ajouter un champ à un formulaire
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Ajout d’un champ à un formulaire {#add-a-field-to-a-form}
+# Ajouter un champ à un formulaire {#add-a-field-to-a-form}
 
-Une fois que vous avez [créé votre formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} et [sélectionné un thème](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, vous pouvez ajouter des champs supplémentaires à remplir par les personnes. Voici comment procéder.
+Une fois que vous avez [créé votre formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} et [sélectionné un thème](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, vous pouvez ajouter des champs supplémentaires à remplir par les personnes. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

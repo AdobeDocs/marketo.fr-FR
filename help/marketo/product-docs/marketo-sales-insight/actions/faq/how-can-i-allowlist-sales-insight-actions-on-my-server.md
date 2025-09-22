@@ -1,12 +1,12 @@
 ---
-description: Comment puis-je Placer sur la liste autorisée des actions Sales Insight sur mon serveur ? - Documents Marketo - Documentation Du Produit
-title: Comment puis-je Placer sur la liste autorisée des actions Sales Insight sur mon serveur ?
+description: Comment puis-je Placer sur la liste autorisée des actions Sales Insight sur mon serveur ? - Documents Marketo - Documentation sur le produit
+title: Comment puis-je placer Actions des informations sur les ventes dans la liste autorisée sur mon serveur ?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 

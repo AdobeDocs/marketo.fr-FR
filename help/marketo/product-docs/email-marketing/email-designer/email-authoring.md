@@ -4,9 +4,9 @@ title: Création d’e-mails
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1742'
+source-wordcount: '1740'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ Découvrez comment créer, personnaliser et prévisualiser des e-mails dans le n
 >
 >Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-## Création d’un e-mail {#create-an-email}
+## Créer un e-mail {#create-an-email}
 
 Les e-mails du concepteur d’e-mail ne peuvent être créés que dans Design Studio et référencés dans les campagnes/listes intelligentes, ou créés/utilisés directement dans les programmes d’e-mail pour le moment.
 
@@ -193,7 +193,7 @@ L’éditeur effectue le rendu du fragment dans la section/l’élément de la s
 
 >[!TIP]
 >
->Si vous souhaitez que le fragment occupe toute la disposition horizontale de l’e-mail, ajoutez une structure de colonnes 1:1, puis faites-y glisser le fragment et déposez-le.
+>Si vous souhaitez que le fragment occupe toute la disposition horizontale de l’e-mail, ajoutez une structure à 1 :1 colonne, puis faites-y glisser le fragment et déposez-le.
 
 Une fois l’e-mail enregistré, il apparaît dans l’onglet _[!UICONTROL Utilisé par]_ de la page des détails du fragment. Les fragments ajoutés à un modèle d’e-mail ne sont pas modifiables dans le modèle ; le fragment source définit le contenu.
 
@@ -276,7 +276,7 @@ Les jetons fonctionnent dans le nouvel éditeur de la même manière que dans l�
 
    ![](assets/authoring-personalize-content-4.png)
 
-1. Cliquez sur **Enregistrer**.
+1. Cliquez sur **Enregistrer**
 
 ### Modifier le tracking des URL {#edit-url-tracking}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952678
 description: Utilisez le jeton Envoyer le jeton d’information d’alerte {{SP_Send_Alert_Info}} - Documents Marketo - Documentation du produit .
-title: Utiliser le jeton d’envoi d’informations d’alerte
+title: Utiliser le jeton d’envoi d’information d’alerte
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Utiliser le jeton d’envoi d’informations d’alerte {#use-the-send-alert-info-token-sp-send-alert-info}
+# Utiliser le jeton d’envoi d’information d’alerte {#use-the-send-alert-info-token-sp-send-alert-info}
 
 Le jeton `{{SP_Send_Alert_Info}}` est un jeton spécial à utiliser lors de la création d’e-mails d’alerte pour votre équipe commerciale.
 
@@ -56,7 +56,7 @@ Les informations suivantes sont incluses dans le `{{SP_Send_Alert_Info}}` :
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

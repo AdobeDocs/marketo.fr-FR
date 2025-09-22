@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147055
-description: Actions de campagne - Supprimer une campagne dynamique - Documents Marketo - Documentation du produit
-title: Actions de campagne - Suppression d’une campagne dynamique
+description: Actions de Campaign - Suppression d’une campagne intelligente - Documents Marketo - Documentation du produit
+title: Actions de campagne - Supprimer une campagne intelligente
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Actions de campagne : suppression d’une campagne dynamique {#campaign-actions-delete-a-smart-campaign}
+# Actions de campagne : supprimer une campagne intelligente {#campaign-actions-delete-a-smart-campaign}
 
-Si vous disposez d’une ancienne campagne dynamique dont vous n’avez plus besoin, vous pouvez la supprimer. Voici comment.
+Si vous n’avez plus besoin d’une ancienne campagne dynamique, vous pouvez la supprimer. Voici comment faire.
 
 >[!CAUTION]
 >
->Assurez-vous avant de supprimer. Une fois que vous avez supprimé une campagne dynamique, elle ne peut plus être restaurée.
+>Assurez-vous d’avoir effectué la suppression. Une fois que vous avez supprimé une campagne dynamique, elle ne peut plus être restaurée.
 
 1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
@@ -29,7 +29,7 @@ Si vous disposez d’une ancienne campagne dynamique dont vous n’avez plus bes
 
    >[!TIP]
    >
-   >Pour annuler le traitement d’une campagne dynamique active sans la supprimer complètement, apprenez à [abandonner une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Pour annuler le traitement d’une campagne dynamique active sans la supprimer complètement, découvrez comment [abandonner une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
 1. Cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
 
@@ -37,4 +37,4 @@ Si vous disposez d’une ancienne campagne dynamique dont vous n’avez plus bes
 
    >[!CAUTION]
    >
-   >Ne supprimez PAS une campagne dynamique active avec des personnes dans les étapes de flux. La campagne s’exécutera probablement toujours.
+   >Ne supprimez PAS une campagne dynamique active avec des personnes dans les étapes de flux. La campagne sera probablement toujours exécutée.

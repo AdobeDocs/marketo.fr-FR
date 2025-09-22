@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Octobre 2024 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 21%
@@ -92,7 +92,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Mise à jour de l’API d’extraction en bloc** : nous avons corrigé un problème dans l’API d’extraction en bloc impliquant l’option columnHeaderNames , qui vous permet de spécifier des noms d’en-tête de colonne personnalisés dans le fichier exporté. Auparavant, les noms d’en-tête de colonne contenant des caractères non-ASCII pouvaient être corrompus.
 
-* **Obsolescence du paramètre access_token de l’API Rest** : le paramètre de requête « access_token » utilisé pour authentifier les appels API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 janvier 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization » [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Obsolescence du paramètre access_token de l’API Rest** : le paramètre de requête « access_token » utilisé pour authentifier les appels API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 janvier 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels API REST à l’aide de l’en-tête « Authorization » [comme décrit ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **Obsolescence du code QR** : le 4 octobre 2024, la fonctionnalité de code QR utilisée dans les notifications push et les ressources de messagerie in-app sera abandonnée. Cela inclut l’utilisation de codes QR pour un nouvel appareil de test et la création de nouvelles ressources avec des codes QR. L’obsolescence des fonctionnalités les moins utilisées nous permet de réaffecter leurs ressources à la maintenance globale de Marketo Engage.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096523
 description: Afficher le tableau de bord des notifications push - Documents Marketo - Documentation du produit
-title: Affichage du tableau de bord des notifications push
+title: Afficher le tableau de bord des notifications push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Affichage du tableau de bord des notifications push {#view-the-push-notification-dashboard}
+# Afficher le tableau de bord des notifications push {#view-the-push-notification-dashboard}
 
 Il est facile de voir comment vont vos notifications push.
 

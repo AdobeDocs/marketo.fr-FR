@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352436
 description: Présence locale du téléphone commercial - Documents Marketo - Documentation du produit
-title: Présence locale du numéro de téléphone commercial
+title: Option de numéro local dans Sales Phone
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Présence locale du numéro de téléphone commercial {#sales-phone-local-presence}
+# Option de numéro local dans Sales Phone {#sales-phone-local-presence}
 
 Si vous souhaitez avoir l’impression d’appeler depuis le même indicatif régional, cochez simplement la case **[!UICONTROL Présence locale]** avant de passer l’appel.
 

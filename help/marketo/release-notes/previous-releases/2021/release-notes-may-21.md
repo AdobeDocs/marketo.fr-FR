@@ -3,20 +3,20 @@ description: Notes De Mise À Jour - Mai 2021 - Documents Marketo - Documentatio
 title: Notes de mise à jour - Mai 2021
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1440'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notes De Mise À Jour : Mai 2021 {#release-notes-may-21}
+# Notes de mise à jour : mai 2021 {#release-notes-may-21}
 
 Les fonctionnalités suivantes sont incluses dans la version du 21 mai. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 

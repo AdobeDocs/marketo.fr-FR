@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359498
 description: Prévisualisation d’un extrait de code - Documents Marketo - Documentation du produit
-title: Prévisualisation d’un fragment de code
+title: Prévisualiser un extrait
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Prévisualisation d’un fragment de code {#preview-a-snippet}
+# Prévisualiser un extrait {#preview-a-snippet}
 
 >[!PREREQUISITES]
 >

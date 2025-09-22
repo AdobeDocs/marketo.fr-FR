@@ -4,14 +4,14 @@ description: Notes De Mise À Jour -Juin 2012 - Documents Marketo - Documentatio
 title: Notes De Mise À Jour - Juin 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '670'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notes De Mise À Jour : Juin 2012 {#release-notes-june}
+# Notes de mise à jour : juin 2012 {#release-notes-june}
 
 ## Améliorations de la gestion des leads Marketo {#marketo-lead-management-enhancements}
 

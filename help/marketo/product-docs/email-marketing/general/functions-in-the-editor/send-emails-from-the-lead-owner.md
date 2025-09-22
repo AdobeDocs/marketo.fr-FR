@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147340
 description: Envoyer des e-mails du propriétaire du lead - Documents Marketo - Documentation du produit
-title: Envoyer des e-mails depuis le propriétaire du lead
+title: Envoyer des e-mails depuis l’entité propriétaire du lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Envoyer des e-mails depuis le propriétaire du lead {#send-emails-from-the-lead-owner}
+# Envoyer des e-mails depuis l’entité propriétaire du lead {#send-emails-from-the-lead-owner}
 
-Que se passe-t-il si vous souhaitez envoyer un e-mail à un prospect au nom du propriétaire du prospect ?  Voici comment procéder.
+Que se passe-t-il si vous souhaitez envoyer un e-mail à un prospect au nom du propriétaire du prospect ?  Voici comment faire.
 
 1. Recherchez votre e-mail, sélectionnez-le et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 

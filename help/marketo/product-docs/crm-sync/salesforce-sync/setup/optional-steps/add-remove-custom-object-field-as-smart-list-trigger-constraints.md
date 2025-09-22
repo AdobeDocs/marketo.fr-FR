@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719300
 description: Ajout/suppression d’un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement - Documents Marketo - Documentation du produit
-title: Ajouter/supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclencheur
+title: Ajouter/supprimer un champ d’objet personnalisé en tant que contraintes de liste intelligente/déclencheur
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Ajouter/supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclencheur {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Ajouter/supprimer un champ d’objet personnalisé en tant que contraintes de liste intelligente/déclencheur {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage offre un contrôle précis de la synchronisation d’objets personnalisés Salesforce. Vous pouvez ainsi sélectionner les champs disponibles en tant que contraintes dans les filtres d’objet personnalisés et les utiliser comme déclencheurs dans les campagnes intelligentes.
 

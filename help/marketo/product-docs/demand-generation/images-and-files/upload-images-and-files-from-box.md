@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359868
 description: Télécharger des images et des fichiers depuis Box - Documents Marketo - Documentation du produit
-title: Charger des images et des fichiers depuis Box
+title: Charger des images et fichiers depuis Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Charger des images et des fichiers depuis Box {#upload-images-and-files-from-box}
+# Charger des images et fichiers depuis Box {#upload-images-and-files-from-box}
 
 Vous pouvez charger des fichiers depuis Box pour les utiliser sur les landing pages et les e-mails.
 

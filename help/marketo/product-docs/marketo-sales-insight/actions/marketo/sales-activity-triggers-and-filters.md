@@ -1,16 +1,16 @@
 ---
 description: Déclencheurs et filtres d’activité commerciale - Documents Marketo - Documentation du produit
-title: Déclencheurs et filtres de l’activité commerciale
+title: Déclencheurs et filtres des activités de vente
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Déclencheurs et filtres de l’activité commerciale {#sales-activity-triggers-and-filters}
+# Déclencheurs et filtres des activités de vente {#sales-activity-triggers-and-filters}
 
 Si vous cherchez à mieux coordonner l&#39;engagement de votre équipe de vente ou si vous souhaitez avoir une meilleure idée de la façon dont elle interagit avec les clients sur le parcours des acheteurs, les informations sur l&#39;activité de vente dans Marketo vous seront utiles.
 

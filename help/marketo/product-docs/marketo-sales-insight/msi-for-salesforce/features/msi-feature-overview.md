@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356893
 description: Présentation des fonctionnalités MSI - Documentation de Marketo - Documentation du produit
-title: Présentation des fonctionnalités MSI
+title: Vue d’ensemble des fonctionnalités de MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
-# Présentation des fonctionnalités MSI {#msi-feature-overview}
+# Vue d’ensemble des fonctionnalités de MSI {#msi-feature-overview}
 
 MSI offre les fonctionnalités suivantes dans [!DNL Salesforce] Lightning et Classic.
 
@@ -26,7 +26,7 @@ Le panneau Visualforce de MSI comprend les fonctionnalités suivantes :
 * Onglets
 
    * [Tableau de bord des informations](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Moments significatifs
+   * Moments intéressants
    * Activité Web
    * E-mail
    * Score
@@ -190,11 +190,11 @@ Les fonctionnalités suivantes ne sont **pas disponibles** dans la page Mise en 
 
 Affichez les performances des e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics] ou d’un plug-in Gmail ou [!DNL Outlook]
 
-## MSI pour Mobile {#msi-for-mobile}
+## MSI pour mobile {#msi-for-mobile}
 
 Les fonctionnalités MSI sont prises en charge dans [!DNL Salesforce] application mobile
 
-## Prise en charge linguistique {#language-support}
+## Langues prises en charge {#language-support}
 
 [!DNL Marketo Sales Insight] est stocké par langue. Ainsi, si vous souhaitez qu’il fonctionne pour plusieurs langues, vous devez saisir les informations d’identification séparément pour chaque langue.
 

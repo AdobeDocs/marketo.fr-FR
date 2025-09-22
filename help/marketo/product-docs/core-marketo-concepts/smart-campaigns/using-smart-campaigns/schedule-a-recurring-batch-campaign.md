@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1146972
-description: Planification d’une campagne par lots récurrente - Documents Marketo - Documentation du produit
-title: Planification d’une campagne par lots récurrente
+description: Planifier une campagne par lots récurrente - Documents Marketo - Documentation du produit
+title: Planifier une campagne par lots récurrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 6%
 
 ---
 
-# Planification d’une campagne par lots récurrente {#schedule-a-recurring-batch-campaign}
+# Planifier une campagne par lots récurrente {#schedule-a-recurring-batch-campaign}
 
-La périodicité permet d’exécuter une campagne par lots selon un calendrier régulier. Par exemple : une fois par semaine, le mardi à 10h00.
+La périodicité permet d’exécuter une campagne par lots selon un calendrier régulier. Par exemple, une fois par semaine, le mardi à 10 :00.
 
-1. Sélectionnez la campagne dynamique, accédez à l’onglet **[!UICONTROL Planning]**, puis cliquez sur **[!UICONTROL Périodicité du planning]**.
+1. Sélectionnez la campagne intelligente, accédez à l’onglet **[!UICONTROL Planning]**, puis cliquez sur **[!UICONTROL Planifier la périodicité]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Cliquez sur la liste déroulante **[!UICONTROL Planning]** et sélectionnez **[!UICONTROL Hebdomadaire]**.
+1. Cliquez sur le menu déroulant **[!UICONTROL Planning]** et sélectionnez **[!UICONTROL Hebdomadaire]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
-1. Cliquez sur l’icône du calendrier et sélectionnez le jour de votre choix pour la première exécution.
+1. Cliquez sur l’icône de calendrier et sélectionnez le jour souhaité pour la première exécution.
 
    ![](assets/schedule-a-recurring-batch-campaign-3.png)
 
@@ -31,18 +31,18 @@ La périodicité permet d’exécuter une campagne par lots selon un calendrier 
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Laissez &quot;[!UICONTROL Répéter toutes les]&quot; sur 1, sélectionnez Mardi et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Laissez « [!UICONTROL  Répéter toutes les ] » sur 1, sélectionnez Mardi et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >Pour une durée d’exécution spécifique, vous pouvez cliquer sur l’icône de calendrier en regard de **[!UICONTROL Expire le]** et choisir la date de fin.
+   >Pour une durée d’exécution spécifique, vous pouvez cliquer sur l’icône de calendrier en regard de **[!UICONTROL Fin le]** et choisir la date de fin.
 
-Les récurrences planifiées sont affichées au bas de l&#39;onglet Planning .
+Les périodicités planifiées sont affichées au bas de l’onglet Planification .
 
 ![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->L’onglet Planning affiche les trois occurrences suivantes à titre de référence. Cliquez sur le caractère rouge **X** pour annuler cette exécution spécifique.
+>L’onglet Planning affiche les trois occurrences suivantes à titre de référence. Cliquez sur le **X** rouge pour annuler cette exécution spécifique.

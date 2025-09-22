@@ -1,18 +1,18 @@
 ---
 description: Configurer Votre Connexion Marketo - Documents Marketo - Documentation Du Produit
-title: Configurer Votre Connexion Marketo
+title: Configurer votre connexion Marketo
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Configurer Votre Connexion Marketo {#set-up-your-marketo-connection}
+# Configurer votre connexion Marketo {#set-up-your-marketo-connection}
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ PICC
 
 PICC
 
-1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **Marketo**.
+1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **Marketo**.
 
 PICC
 

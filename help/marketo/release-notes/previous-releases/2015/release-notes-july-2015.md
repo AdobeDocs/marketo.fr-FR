@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Juillet 2015 - Documents Marketo - Document
 title: Notes De Mise À Jour - Juillet 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Notes De Mise À Jour : Juillet 2015 {#release-notes-july}
+# Notes de mise à jour : juillet 2015 {#release-notes-july}
 
 ## [!DNL Marketo Moments] {#marketo-moments}
 

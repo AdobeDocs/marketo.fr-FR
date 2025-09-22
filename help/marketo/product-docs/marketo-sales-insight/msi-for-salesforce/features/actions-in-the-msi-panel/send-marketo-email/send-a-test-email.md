@@ -3,10 +3,10 @@ description: Envoyer un e-mail de test - Documents Marketo - Documentation du pr
 title: Envoyer un e-mail de test
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -34,4 +34,4 @@ Vous recevrez un e-mail avec des valeurs de jeton renseignées pour les prospect
 
 >[!NOTE]
 >
->Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL &#x200B; Envoyer un e-mail Marketo &#x200B;] » même après l’envoi de l’e-mail de test, vous ne perdrez donc pas l’e-mail que vous avez créé.
+>Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL  Envoyer un e-mail Marketo ] » même après l’envoi de l’e-mail de test, vous ne perdrez donc pas l’e-mail que vous avez créé.

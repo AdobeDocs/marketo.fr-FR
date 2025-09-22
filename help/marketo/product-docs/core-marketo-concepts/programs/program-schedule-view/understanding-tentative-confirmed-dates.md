@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147140
 description: Comprendre les dates provisoires/confirmées - Documents Marketo - Documentation du produit
-title: Comprendre les dates provisoires/confirmées
+title: Présentation des dates provisoires/confirmées
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Comprendre les dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
+# Présentation des dates provisoires/confirmées {#understanding-tentative-confirmed-dates}
 
 Les campagnes intelligentes et les programmes de messagerie électronique offrent de puissantes fonctionnalités pour être marqués comme **[!UICONTROL Provisoire]** ou **[!UICONTROL Confirmé]**. Voici comment ils fonctionnent.
 

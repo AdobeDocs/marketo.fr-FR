@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949720
-description: Présentation des moments intéressants - Documents Marketo - Documentation du produit
-title: Présentation des moments intéressants
+description: Présentation Des Moments Intéressants - Documents Marketo - Documentation Du Produit
+title: Vue d’ensemble des moments intéressants
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Présentation des moments intéressants {#interesting-moments-overview}
+# Vue d’ensemble des moments intéressants {#interesting-moments-overview}
 
-Vous pouvez utiliser l’étape intéressante du flux d’un moment pour donner à votre équipe de vente une visibilité sur les actions intéressantes que vos pistes effectuent dans une campagne dynamique.
+Vous pouvez utiliser l’étape de flux des moments intéressante pour donner à votre équipe des ventes une visibilité sur les activités intéressantes de vos prospects dans une campagne intelligente.
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
@@ -21,17 +21,17 @@ Vous pouvez utiliser l’étape intéressante du flux d’un moment pour donner 
 
    ![](assets/image2014-9-23-16-3a30-3a33.png)
 
-1. Définissez le texte que votre équipe de vente doit afficher.
+1. Définissez le texte que votre équipe de vente doit voir.
 
    ![](assets/image2014-9-23-16-3a30-3a53.png)
 
 >[!TIP]
 >
->**Moins est plus**. Collaborez avec votre équipe de vente pour vous assurer que les moments intéressants sont réellement intéressants.
+>**Moins, c&#39;est plus**. Collaborez avec votre équipe des ventes pour vous assurer que les moments intéressants sont réellement intéressants.
 
 Vous pouvez également utiliser des jetons dans des moments intéressants pour créer des descriptions dynamiques vraiment utiles.
 
 >[!MORELIKETHIS]
 >
->* [Utilisation de moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [Jetons pour les moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [Utilisation des moments significatifs](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [ Jetons pour les moments significatifs ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437783
 description: Modèle 13A - Documents Marketo - Documentation Du Produit
-title: Modèle 13A
+title: Modèle 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Modèle 13A {#template-13a}
+# Modèle 13A {#template-13a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=fr)
+[Modèle 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)

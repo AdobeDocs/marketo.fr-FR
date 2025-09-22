@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359963
 description: Création d’un rapport dans un programme - Documents Marketo - Documentation du produit
-title: Création d’un rapport dans un programme
+title: Créer un rapport dans un programme
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Création d’un rapport dans un programme {#create-a-report-in-a-program}
+# Créer un rapport dans un programme {#create-a-report-in-a-program}
 
 Exécutez un rapport pour analyser les personnes, vos programmes, vos pages de destination, vos e-mails et vos ressources sociales.
 

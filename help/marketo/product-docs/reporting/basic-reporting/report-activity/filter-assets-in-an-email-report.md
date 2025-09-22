@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360225
 description: Filtrer Assets dans un rapport par e-mail - Documents Marketo - Documentation du produit
-title: Filtrage d’Assets dans un rapport sur les e-mails
+title: Filtrer les ressources dans un rapport des e-mails
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Filtrage d’Assets dans un rapport sur les e-mails {#filter-assets-in-an-email-report}
+# Filtrer les ressources dans un rapport des e-mails {#filter-assets-in-an-email-report}
 
 Concentrez votre rapport [Performances des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Performances des liens d’e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sur les e-mails de vos programmes (« ressources locales »), de ceux de Design Studio (« ressources globales ») ou de ceux qui ont été archivés.
 

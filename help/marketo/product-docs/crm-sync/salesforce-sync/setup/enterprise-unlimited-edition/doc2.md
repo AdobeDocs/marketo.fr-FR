@@ -4,14 +4,14 @@ title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (En
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Étape 2 sur 3 : créer un utilisateur ou une utilisatrice Salesforce pour Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans l
 1. Sous la section Autorisations administratives , assurez-vous que les cases suivantes sont cochées :
 
    * API activé
-   * Modifier les modèles d&#39;HTML
+   * Modifier les modèles HTML
    * Gérer les documents publics
    * Gérer les modèles publics
 

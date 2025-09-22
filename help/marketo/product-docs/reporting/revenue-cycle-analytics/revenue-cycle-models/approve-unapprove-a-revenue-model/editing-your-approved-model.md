@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472402
 description: Modification De Votre Modèle Approuvé - Documents Marketo - Documentation Du Produit
-title: Modification Du Modèle Approuvé
+title: Modification de votre modèle approuvé
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Modification Du Modèle Approuvé {#editing-your-approved-model}
+# Modification de votre modèle approuvé {#editing-your-approved-model}
 
 ## Modification de votre modèle {#editing-your-model}
 

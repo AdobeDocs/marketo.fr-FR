@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795510
 description: Hiérarchies TAM - Documents Marketo - Documentation du produit
-title: Hiérarchies de TAM
+title: Hiérarchies TAM
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Hiérarchies de TAM {#tam-hierarchies}
+# Hiérarchies TAM {#tam-hierarchies}
 
 Les hiérarchies permettent aux utilisateurs de TAM d’hériter des relations parent/enfant entre les [!UICONTROL comptes nommés] dans leur CRM.
 

@@ -3,20 +3,20 @@ description: Notes De Mise À Jour - Octobre 2021 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1090'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Notes De Mise À Jour : Octobre 2021 {#release-notes-oct-21}
+# Notes de mise à jour : octobre 2021 {#release-notes-oct-21}
 
-Les fonctionnalités suivantes sont incluses dans la version d’octobre 2021. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Les fonctionnalités suivantes sont incluses dans la version d’octobre 2021. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
 **_Versions trimestrielles_**
 
@@ -52,7 +52,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 **[!DNL Sales Insight]pour [!DNL Microsoft Dynamics 365] ventes**
 
-* **[!UICONTROL Meilleurs résultats] Améliorations** : l’onglet [!UICONTROL &#x200B; Meilleurs résultats] dans [!DNL Sales Insight] fournit aux ventes une vue en temps réel des contacts et des prospects les plus dynamiques, classés par priorité de qualité et d’urgence. Nous avons ajouté la possibilité pour les représentants commerciaux de prendre des mesures, telles que : examiner le score d’une personne, envoyer un e-mail ou ajouter des prospects aux campagnes Marketo Engage désignées directement à partir de la page [!DNL Best Bets], ce qui accroît l’efficacité et accélère le temps de réponse.
+* **[!UICONTROL Meilleurs résultats] Améliorations** : l’onglet [!UICONTROL  Meilleurs résultats] dans [!DNL Sales Insight] fournit aux ventes une vue en temps réel des contacts et des prospects les plus dynamiques, classés par priorité de qualité et d’urgence. Nous avons ajouté la possibilité pour les représentants commerciaux de prendre des mesures, telles que : examiner le score d’une personne, envoyer un e-mail ou ajouter des prospects aux campagnes Marketo Engage désignées directement à partir de la page [!DNL Best Bets], ce qui accroît l’efficacité et accélère le temps de réponse.
 
 * **Nouveaux tableaux de bord d’e-mail, d’activité web et d’activité web anonyme** : nous avons ajouté les nouveaux tableaux de bord de vente pour informer les vendeurs des dernières activités web et de messagerie de leurs prospects et contacts. Grâce à la nouvelle fonctionnalité de filtrage, les tableaux de bord proposent désormais insight dans les ouvertures d’e-mail, les clics et les visites de page web pour la liste complète des comptes ou un compte spécifique. Marketo Engage suit toutes les activités web et fournit aux ventes des informations essentielles, transformant le trafic anonyme en prospects. Les vendeurs peuvent personnaliser l’engagement et convertir les prospects en ventes plus rapidement, car ils sont mieux informés sur les comportements des prospects et agissent en fonction de la pertinence de tous les points de contact.
 

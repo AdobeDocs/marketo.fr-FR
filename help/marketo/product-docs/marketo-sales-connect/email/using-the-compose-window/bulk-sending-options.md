@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356575
 description: Options D’Envoi En Masse - Documents Marketo - Documentation Du Produit
-title: Options d’envoi en bloc
+title: Options d’envoi en masse
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Options d’envoi en bloc {#bulk-sending-options}
+# Options d’envoi en masse {#bulk-sending-options}
 
 L’envoi d’e-mails en bloc est un excellent moyen d’accélérer votre engagement des prospects. [!DNL Sales Connect] offre deux manières d’envoyer des e-mails en bloc : **Regrouper les e-mails** et **Sélectionner et envoyer**. Les e-mails de groupe sont un excellent moyen d’envoyer rapidement des centaines d’e-mails à un groupe ciblé. L’utilisation de Sélectionner et Envoyer réduit les limites d’e-mail, mais offre davantage d’opportunités de personnalisation à l’utilisateur ou à l’utilisatrice.
 

@@ -1,16 +1,16 @@
 ---
 description: Filtrage de l’activité de robot d’e-mail - Documents Marketo - Documentation du produit
-title: Filtrage de l’activité des robots d’e-mail
+title: Filtrage de l’activité des robots dans les e-mails
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Filtrage de l’activité des robots d’e-mail {#filtering-email-bot-activity}
+# Filtrage de l’activité des robots dans les e-mails {#filtering-email-bot-activity}
 
 Parfois, l’activité des robots d’e-mail peut gonfler par erreur les données d’ouvertures d’e-mail et de clics. Suivez les étapes ci-dessous pour résoudre ce problème.
 

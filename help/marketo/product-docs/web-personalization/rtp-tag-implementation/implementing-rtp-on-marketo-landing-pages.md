@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720151
 description: Mise en œuvre du RTP sur les pages de destination de Marketo - Documents Marketo - Documentation du produit
-title: Mise en œuvre du RTP sur les pages de destination de Marketo
+title: Mise en œuvre de RTP sur les pages de destination Marketo
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Mise en œuvre du RTP sur les pages de destination de Marketo {#implementing-rtp-on-marketo-landing-pages}
+# Mise en œuvre de RTP sur les pages de destination Marketo {#implementing-rtp-on-marketo-landing-pages}
 
 Pour implémenter votre balise [!UICONTROL RTP] suivez les instructions d’installation ci-dessous :
 

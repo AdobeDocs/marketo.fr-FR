@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146897
-description: Suppression de personnes dans une liste ou une liste dynamique - Documents Marketo - Documentation du produit
-title: Suppression de personnes dans une liste ou une liste dynamique
+description: Suppression de personnes dans une liste dynamique ou une liste - Documents Marketo - Documentation du produit
+title: Supprimer des personnes dans une liste intelligente ou une liste
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Suppression de personnes dans une liste ou une liste dynamique {#delete-people-in-a-smart-list-or-list}
+# Supprimer des personnes dans une liste intelligente ou une liste {#delete-people-in-a-smart-list-or-list}
 
-Vous pouvez supprimer rapidement et facilement certaines personnes figurant dans une liste ou une liste dynamique.
+Vous pouvez supprimer rapidement et facilement certaines ou toutes les personnes figurant dans une liste ou une liste dynamique.
 
 >[!PREREQUISITES]
 >
@@ -23,23 +23,23 @@ Vous pouvez supprimer rapidement et facilement certaines personnes figurant dans
 
    ![](assets/ma-1.png)
 
-1. Sélectionnez la liste/liste dynamique contenant toutes les personnes à supprimer et accédez à l’onglet **[!UICONTROL Personnes]** .
+1. Sélectionnez la liste/liste dynamique contenant toutes les personnes à supprimer et accédez à l’onglet **[!UICONTROL Personnes]**.
 
    ![](assets/two-1.png)
 
    >[!CAUTION]
    >
-   >Lorsque vous supprimez une personne, vous ne la supprimez pas seulement de la liste, elle sera complètement supprimée de la base de données.
+   >Lorsque vous supprimez une personne, vous ne la supprimez pas seulement de la liste : elle sera complètement supprimée de la base de données.
 
-1. Cliquez sur **[!UICONTROL Sélectionner tout]**. Vous pouvez également sélectionner quelques enregistrements manuellement en utilisant Ctrl/Cmd et en cliquant sur .
+1. Cliquez sur **[!UICONTROL Tout sélectionner]**. Vous pouvez également sélectionner manuellement quelques enregistrements à l’aide de Ctrl/Cmd et en cliquant dessus.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Si les résultats s’étendent sur plusieurs pages, cliquez sur **[!UICONTROL Sélectionner tout]** pour sélectionner toutes les personnes sur toutes les pages.
+   >Si les résultats s’étendent sur plusieurs pages, le fait de cliquer sur **[!UICONTROL Tout sélectionner]** sélectionne toutes les personnes sur toutes les pages.
 
-1. Pour supprimer complètement les personnes de Marketo, cliquez sur **[!UICONTROL Supprimer la personne]**.
+1. Pour supprimer complètement les personnes de Marketo, cliquez sur **[!UICONTROL Supprimer une personne]**.
 
    ![](assets/four-1.png)
 
@@ -49,22 +49,22 @@ Vous pouvez supprimer rapidement et facilement certaines personnes figurant dans
 
    >[!CAUTION]
    >
-   >La suppression de Marketo et de votre CRM signifie que vous ne pourrez jamais récupérer dans aucun des systèmes. Les gens et leur histoire seront partis pour toujours. Si vous les réajoutez ultérieurement, ils seront traités comme de nouveaux enregistrements.
+   >Supprimer de Marketo et de votre CRM signifie que vous ne pourrez jamais récupérer dans aucun des systèmes. Les gens et leur histoire disparaîtront à jamais. Si vous les ajoutez à nouveau ultérieurement, ils seront traités comme de nouveaux enregistrements.
 
    >[!NOTE]
    >
-   >Si votre Marketo n’est pas lié à votre CRM, l’option est grisée comme dans la capture d’écran.
+   >Si votre Marketo n’est pas liée à votre CRM, l’option est grisée, comme dans la capture d’écran.
 
 1. Cliquez sur **[!UICONTROL Exécuter maintenant]**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Si vous supprimez plus de 50 personnes, vous verrez ceci. Saisissez le nombre de personnes que vous supprimez, cochez la case **[!UICONTROL Impossible d’annuler]**, puis cliquez sur **[!UICONTROL Supprimer]**.
+1. Si vous supprimez plus de 50 personnes, vous verrez ceci. Tapez le nombre de personnes à supprimer, cochez la case **[!UICONTROL Impossible d&#39;annuler]**, puis cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Pour afficher les résultats de la suppression en masse, cliquez sur **[!UICONTROL Afficher les résultats]** dans la fenêtre contextuelle Action de flux unique dans le coin supérieur droit de l’écran. Les délais de suppression peuvent varier sensiblement en fonction de plusieurs facteurs.
+   >Pour afficher les résultats de la suppression en masse, cliquez sur **[!UICONTROL Afficher les résultats]** dans la zone pop-up Action de flux unique dans le coin supérieur droit de l’écran. Les délais de suppression peuvent varier considérablement en fonction de plusieurs facteurs.
 
-   C&#39;est une fonctionnalité géniale, soyez prudent lorsque vous l&#39;utilisez !
+   Il s’agit d’une excellente fonctionnalité, faites juste attention lorsque vous l’utilisez !

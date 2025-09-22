@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11376700
 description: Ajout de leads à une audience personnalisée dans Facebook - Documents Marketo - Documentation du produit
-title: Ajout de leads à une audience personnalisée dans Facebook
+title: Ajouter des leads à une audience personnalisée dans Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Ajout de leads à une audience personnalisée dans [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Vous avez déjà une audience personnalisée en [!DNL Facebook] et vous souhaitez y ajouter d’autres prospects ? Voici comment procéder.
+Vous avez déjà une audience personnalisée en [!DNL Facebook] et vous souhaitez y ajouter d’autres prospects ? Voici comment faire.
 
 >[!PREREQUISITES]
 >

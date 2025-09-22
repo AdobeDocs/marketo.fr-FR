@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: Comprendre l’analyse des opportunités dans l’Explorateur de revenus - Documents Marketo - Documentation du produit
-title: Comprendre l’analyse des opportunités dans l’explorateur de revenus
+title: Présentation de l’analyse de l’opportunité dans l’explorateur de revenu
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
-# Comprendre l’analyse des opportunités dans l’explorateur de revenus {#understanding-opportunity-analysis-in-revenue-explorer}
+# Présentation de l’analyse de l’opportunité dans l’explorateur de revenu {#understanding-opportunity-analysis-in-revenue-explorer}
 
 L’analyse des opportunités dans l’Explorateur de revenus vous permet d’examiner vos opportunités à un niveau plus approfondi. Divisez et segmentez les données en fonction des attributs du prospect/de l’entreprise, tels que la source du prospect, le secteur ou la zone géographique. Analysez la création et la fermeture de l’opportunité en fonction du nom, de l’étape ou de la probabilité. Découvrez les contributions marketing au pipeline.
 
@@ -77,7 +77,7 @@ L’analyse des opportunités vous donne accès à toutes les dimensions liées 
 
    | Dimension | Description |
    |---|---|
-   | Figurant sur la liste de blocage | Le prospect est placé sur la liste bloquée |
+   | Figurant sur la liste bloquée | Le prospect est placé sur la liste bloquée |
    | Converti en opportunité | Le prospect est converti en opportunité |
    | E-mail non valide | Si le prospect a une adresse e-mail valide |
    | Marketing interrompu | Le prospect est-il suspendu des e-mails marketing ? |

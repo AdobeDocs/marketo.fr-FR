@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719406
 description: Lancement/Mise en pause d’une campagne web - Documents Marketo - Documentation du produit
-title: Lancement/mise en pause d’une campagne web
+title: Lancer/mettre en pause une campagne web
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Lancement/mise en pause d’une campagne web {#launch-pause-a-web-campaign}
+# Lancer/mettre en pause une campagne web {#launch-pause-a-web-campaign}
 
 Une campagne web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site web, un remplacement de zone [in](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), une fonctionnalité de widget ou une alerte par e-mail.
 

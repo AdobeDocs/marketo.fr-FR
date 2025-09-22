@@ -3,7 +3,7 @@ description: Mesures de la liste d’attente de synchronisation Salesforce - Doc
 title: Mesures de la liste d’attente de synchronisation Salesforce
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
@@ -98,9 +98,9 @@ Lorsqu’un grand nombre de mises à jour sont effectuées (par exemple à parti
 
 **Champs fréquemment mis à jour** : certains champs sont sujets à de fréquentes mises à jour. Par exemple, les champs de devise qui font l’objet de modifications de devise. Vérifiez si ces champs doivent être synchronisés ou s’ils doivent être conçus différemment. Si d’autres champs sont mis à jour fréquemment et ne sont pas nécessaires, masquez-les à l’utilisateur ou à l’utilisatrice de synchronisation. Veillez à discuter avec vos administrateurs SFDC des intégrations susceptibles de mettre à jour les champs.
 
-**Objets personnalisés** : vérifiez régulièrement [objets personnalisés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} activés pour synchroniser et désactiver ceux qui n’ont plus besoin d’être synchronisés.
+**Objets personnalisés** : vérifiez régulièrement [objets personnalisés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} activés pour synchroniser et désactiver ceux qui n’ont plus besoin d’être synchronisés.
 
-**Activités** : [vérifiez si la synchronisation activée pour les activités](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} peut être supprimée de la synchronisation.  Ces activités ne se synchronisent qu’une seule fois par jour par prospect.
+**Activités** : [vérifiez si la synchronisation activée pour les activités](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} peut être supprimée de la synchronisation.  Ces activités ne se synchronisent qu’une seule fois par jour par prospect.
 
 **Vérifier les erreurs de synchronisation** : la gestion des exceptions peut ralentir la synchronisation. La révision des notifications utilisateur et la résolution des erreurs peuvent améliorer l’intégrité de la synchronisation.
 

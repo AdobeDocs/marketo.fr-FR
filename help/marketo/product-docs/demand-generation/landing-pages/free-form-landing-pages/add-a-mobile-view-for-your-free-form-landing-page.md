@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720856
 description: Ajouter une vue mobile pour votre page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Ajout d’une vue mobile à votre page de destination de forme libre
+title: Ajouter une vue mobile à votre page de destination à structure libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 2%
+ht-degree: 17%
 
 ---
 
-# Ajout d’une vue mobile à votre page de destination de forme libre {#add-a-mobile-view-for-your-free-form-landing-page}
+# Ajouter une vue mobile à votre page de destination à structure libre {#add-a-mobile-view-for-your-free-form-landing-page}
 
 Il est facile de rendre vos pages de destination de forme libre attrayantes sur un smartphone.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360358
 description: Restreindre la connexion utilisateur à l’authentification unique uniquement - Documents Marketo - Documentation du produit
-title: Limiter la connexion de l'utilisateur aux connexions par signature unique
+title: Limiter la connexion de l’utilisateur ou de l’utilisatrice aux connexions par authentification unique
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 5%
 
 ---
 
-# Limiter la connexion de l&#39;utilisateur aux connexions par signature unique {#restrict-user-login-to-sso-only}
+# Limiter la connexion de l’utilisateur ou de l’utilisatrice aux connexions par authentification unique {#restrict-user-login-to-sso-only}
 
 Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) et souhaitez vous assurer que les utilisateurs ne peuvent pas contourner la sécurité SSO, suivez ces instructions.
 
@@ -41,7 +41,7 @@ Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-inte
 
 >[!NOTE]
 >
->Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL &#x200B; Exiger une authentification unique &#x200B;]. »
+>Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL  Exiger une authentification unique ]. »
 
 >[!TIP]
 >

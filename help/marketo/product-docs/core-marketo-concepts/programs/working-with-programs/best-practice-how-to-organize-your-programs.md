@@ -4,14 +4,14 @@ description: Bonne pratique - Comment organiser vos programmes - Documents Marke
 title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Bonne pratique : organisation des programmes {#best-practice-how-to-organize-your-programs}
+# Bonne pratique : comment organiser vos programmes {#best-practice-how-to-organize-your-programs}
 
 Il existe de nombreuses façons d’organiser l’arborescence dans les activités marketing, ainsi que le contenu d’un seul programme. Cependant, certaines méthodes sont plus efficaces et aideront les membres de votre service de marketing.
 
@@ -41,9 +41,9 @@ Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos p
 >* Opérationnel
 >   * Cycle de vie
 >   * Notation
->   * Data Management
+>   * Gestion des données
 >* Sales Insight
->   * Moments significatifs
+>   * Moments intéressants
 >   * E-mails de vente
 >   * Campagnes demandées par les ventes
 >* **Archiver**

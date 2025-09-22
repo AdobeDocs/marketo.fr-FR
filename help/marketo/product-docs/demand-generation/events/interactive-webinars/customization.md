@@ -3,7 +3,7 @@ description: Personnalisation Des Webinaires Interactifs - Documents Marketo - D
 title: Personnalisation des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Vous pouvez personnaliser les options suivantes :
 
 Avant que des utilisateurs de votre organisation puissent personnaliser vos webinaires interactifs, un administrateur Marketo Engage doit d’abord ajouter un accès au(x) rôle(s) souhaité(s).
 
-1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
+1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/interactive-webinars-customization-1.png)
 

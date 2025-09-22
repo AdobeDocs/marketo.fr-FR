@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7513771
 description: Connexion et gestion des utilisateurs - Documents Marketo - Documentation du produit
-title: Connexion et gestion des utilisateurs
+title: Gestion des connexions et des utilisateurs et utilisatrices
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Connexion et gestion des utilisateurs {#login-and-user-management}
+# Gestion des connexions et des utilisateurs et utilisatrices {#login-and-user-management}
 
 ## Créer un rôle d’utilisateur [!UICONTROL Web Personalization] {#create-a-web-personalization-user-role}
 

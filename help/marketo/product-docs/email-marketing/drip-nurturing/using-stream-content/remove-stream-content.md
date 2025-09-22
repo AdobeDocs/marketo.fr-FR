@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359915
 description: Supprimer le contenu du flux - Documents Marketo - Documentation du produit
-title: Supprimer le contenu du flux
+title: Supprimer le contenu en flux
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Supprimer le contenu du flux {#remove-stream-content}
+# Supprimer le contenu en flux {#remove-stream-content}
 
 Vous pouvez supprimer ou archiver un élément de contenu. Contrairement à la suppression du contenu de flux, l’[archivage](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) conserve tout l’historique associé au contenu. Si vous ne voyez pas d’inconvénient à perdre les statistiques historiques d’un contenu et souhaitez le supprimer, voici comment procéder.
 

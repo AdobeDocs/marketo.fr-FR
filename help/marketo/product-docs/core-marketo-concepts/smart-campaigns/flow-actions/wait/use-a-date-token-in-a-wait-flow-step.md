@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146997
 description: Utilisation d’un jeton de date dans une étape de flux d’attente - Documents Marketo - Documentation du produit
-title: Utilisation d’un jeton de date dans une étape de flux d’attente
+title: Utiliser un jeton de date dans une étape de flux Attendre
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Utilisation d’un jeton de date dans une étape de flux d’attente {#use-a-date-token-in-a-wait-flow-step}
+# Utiliser un jeton de date dans une étape de flux Attendre {#use-a-date-token-in-a-wait-flow-step}
 
 Vous pouvez utiliser l’étape Flux d’attente pour suspendre le parcours d’une personne par le biais d’une campagne intelligente jusqu’à une date particulière qui utilise un jeton de date. Vous pouvez également modifier la date de fin d’un certain nombre de jours.
 
@@ -56,7 +56,7 @@ Vous pouvez utiliser l’étape Flux d’attente pour suspendre le parcours d’
    >
    >Vous pouvez également spécifier le nombre de jours à l’aide d’un jeton `{{lead.` ou `{{company.` qui représente un champ entier ou un jeton `{{my.` de type nombre.
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 

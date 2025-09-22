@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359705
 description: Ajouter un nouveau formulaire à une page de destination de forme libre - Documents Marketo - Documentation du produit
-title: Ajouter un nouveau formulaire à une page de destination de forme libre
+title: Ajouter un nouveau formulaire à une page de destination à structure libre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Ajouter un nouveau formulaire à une page de destination de forme libre {#add-a-new-form-to-a-free-form-landing-page}
+# Ajouter un nouveau formulaire à une page de destination à structure libre {#add-a-new-form-to-a-free-form-landing-page}
 
 Formulaire, page de destination. Page de destination, formulaire de correspondance.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352548
 description: Comment désinstaller Sales Connect de Gmail - Documents Marketo - Documentation du produit
-title: Comment désinstaller Sales Connect de Gmail
+title: Comment désinstaller Sales Connect de Gmail
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

@@ -1,49 +1,49 @@
 ---
-description: Limites d’utilisation du produit - Documents Marketo - Documentation du produit
-title: Limites d’utilisation des produits
+description: Limites D’Utilisation Du Produit - Documents Marketo - Documentation Du Produit
+title: Limites d’utilisation du produit
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# Limites d’utilisation des produits {#product-usage-limits}
+# Limites d’utilisation du produit {#product-usage-limits}
 
-Vous trouverez ci-dessous les limites en place pour l’utilisation des fonctionnalités d’engagement commercial étendues disponibles avec les actions d’aperçu des ventes.
+Vous trouverez ci-dessous les limites en place pour l’utilisation des fonctionnalités d’engagement des ventes étendues disponibles avec les actions Sales Insight.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le [ package Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. On parle parfois de &quot;ventes Marketo&quot; ou simplement de &quot;actions&quot;.
+>Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le package [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Il est parfois appelé « Ventes Marketo » ou simplement « Actions ».
 
 <table>
   <th>Fonction</th>
   <th>Taux</th>
   <th>Limite</th>
  <tr>
-  <td>Synchronisation de la base de données de personnes Marketo</td>
+  <td>Marketo Person Database sync</td>
   <td>en cours</td>
   <td>1 500 000 personnes</td>
  </tr>
  <tr>
-  <td>Courriers électroniques de vente envoyés</td>
+  <td>Envois d’e-mails de ventes</td>
   <td>par utilisateur/par jour</td>
-  <td>1,000</td>
+  <td>1 000</td>
  </tr>
  <tr>
-  <td>Courrier électronique de vente en bloc</td>
+  <td>E-mail de vente groupée</td>
   <td>par envoi</td>
   <td>200</td>
  </tr>
  <tr>
-  <td>Modèles d'e-mail</td>
+  <td>Modèles d’e-mail</td>
   <td>par instance</td>
   <td>2 000</td>
  </tr>
  <tr>
-  <td>Catégories de modèles de courrier électronique</td>
+  <td>Catégories de modèles d’e-mail</td>
   <td>par instance</td>
   <td>500</td>
  </tr>
@@ -78,12 +78,12 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
   <td>500</td>
  </tr>
   <td>Appels</td>
-  <td>par utilisateur/par mois (partagé sur l’instance)</td>
+  <td>par utilisateur/par mois (partagé entre les instances)</td>
   <td>50 minutes</td>
  </tr>
  <tr>
-  <td>Enregistrements d’appels</td>
-  <td>par utilisateur/par mois (partagé sur l’instance)</td>
+  <td>Enregistrements des appels</td>
+  <td>par utilisateur/par mois (partagé entre les instances)</td>
   <td>50</td>
  </tr>
  <tr>
@@ -97,12 +97,12 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
   <td>200</td>
  </tr>
  <tr>
-  <td>Pièces jointes téléchargées</td>
+  <td>Pièces jointes chargées</td>
   <td>par utilisateur</td>
   <td>25</td>
  </tr>
  <tr>
-  <td>Sièges utilisateur</td>
+  <td>Places utilisateur</td>
   <td>par instance</td>
   <td>100</td>
  </tr>
@@ -117,12 +117,12 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
   <td>15</td>
  </tr>
  <tr>
-  <td>Raisons de l’appel</td>
+  <td>Raisons des appels</td>
   <td>par instance</td>
   <td>15</td>
  </tr>
  <tr>
-  <td>Informations sur l’enregistrement des appels</td>
+  <td>Avis d'enregistrement d'appels</td>
   <td>par instance</td>
   <td>5</td>
  </tr>
@@ -131,17 +131,17 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
   <td>par instance</td>
   <td>13</td>
  </tr>
-  <td>Identités de courriel</td>
+  <td>Identités d’e-mail</td>
   <td>par utilisateur</td>
   <td>2</td>
  </tr>
  <tr>
-  <td>Connexions au serveur SMTP de l’équipe</td>
+  <td>Connexions du serveur SMTP de l'équipe</td>
   <td>par instance</td>
   <td>1</td>
  </tr>
  <tr>
-  <td>Messagerie de désabonnement de l’équipe</td>
+  <td>Messagerie de désabonnement de l'équipe</td>
   <td>par instance</td>
   <td>1</td>
  </tr>
@@ -151,7 +151,7 @@ Vous trouverez ci-dessous les limites en place pour l’utilisation des fonction
   <td>1</td>
  </tr>
  <tr>
-  <td>Connexion à SFDC</td>
+  <td>Connexion SFDC</td>
   <td>par utilisateur</td>
   <td>1</td>
  </tr>

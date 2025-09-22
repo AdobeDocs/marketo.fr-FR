@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514009
 description: Présentation de la zone Analyse de l’étape du chiffre d’affaires du programme - Documents Marketo - Documentation du produit
-title: Comprendre la zone d’analyse de l’étape de revenu du programme
+title: Présentation de la zone d’analyse de l’étape de revenu du programme
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
-# Comprendre la zone d’analyse de l’étape de revenu du programme {#understanding-the-program-revenue-stage-analysis-area}
+# Présentation de la zone d’analyse de l’étape de revenu du programme {#understanding-the-program-revenue-stage-analysis-area}
 
 Cette zone d’analyse vous permet d’analyser l’efficacité de programmes individuels ou d’afficher des résultats résumés par canal. Il permet de savoir combien de nouveaux noms générés ont atteint des étapes de chemin de succès particulières dans votre modèle de cycle de revenus.
 

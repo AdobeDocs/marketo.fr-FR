@@ -4,10 +4,10 @@ description: Ajouter du contenu à un flux - Documents Marketo - Documentation d
 title: Ajouter du contenu à un flux
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 

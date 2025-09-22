@@ -3,14 +3,14 @@ description: Liste de contrôle de la base de données d’instance héritée - 
 title: Liste de contrôle de la base de données de l'instance héritée
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Instance héritée : liste de contrôle de la base de données {#inherited-instance-database-checklist}
+# Instance héritée : liste de contrôle de la base de données {#inherited-instance-database-checklist}
 
 Comprenez le nombre total de personnes, de personnes commercialisables et de sources qui achètent le plus dans votre abonnement. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et de suivre vos progrès.
 

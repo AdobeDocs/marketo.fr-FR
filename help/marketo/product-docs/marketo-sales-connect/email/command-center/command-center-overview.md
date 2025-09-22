@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352530
 description: Présentation du centre de commande - Documents Marketo - Documentation du produit
-title: Présentation du centre de commande
+title: Vue d’ensemble du centre de contrôle
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '576'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Présentation du centre de commande {#command-center-overview}
+# Vue d’ensemble du centre de contrôle {#command-center-overview}
 
 Le Centre de recommandations est une vue unique et unifiée qui vous aide à déterminer l’étape suivante, tout en vous assurant que rien ne passe entre les mailles du filet.
 

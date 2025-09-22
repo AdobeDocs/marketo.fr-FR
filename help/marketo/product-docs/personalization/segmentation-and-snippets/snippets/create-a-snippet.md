@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359459
 description: Création d’un fragment de code - Documents Marketo - Documentation du produit
-title: Création d’un fragment de code
+title: Créer un extrait
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Création d’un fragment de code {#create-a-snippet}
+# Créer un extrait {#create-a-snippet}
 
 Les fragments de code peuvent être utilisés comme blocs de contenu dynamique sur les **e-mails** et **landing pages**.
 

@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Mars 2014 - Documents Marketo - Documentati
 title: Notes De Mise À Jour - Mars 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Notes De Mise À Jour : Mars 2014 {#release-notes-march}
+# Notes de mise à jour : mars 2014 {#release-notes-march}
 
 Les fonctionnalités suivantes sont incluses dans la version de mars 2014. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour obtenir des liens vers les articles de la base de connaissances pour chaque fonctionnalité.
 
@@ -57,6 +57,6 @@ Sélectionnez Votre [Langue D&#39;Application Marketo](/help/marketo/product-doc
 
 ## Blog des développeurs Marketo {#marketo-developer-blog}
 
-Le blog du développeur de Marketo [&#128279;](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
+Le blog du développeur de Marketo [](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
 
 Le [premier article](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de cette série vous explique comment récupérer efficacement des informations sur les personnes (clients/contacts/prospects) stockées dans Marketo à l’aide de l’API.

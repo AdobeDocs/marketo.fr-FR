@@ -3,14 +3,14 @@ unique-page-id: 12255606
 description: Notes De Mise À Jour - Hiver '17 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Hiver 17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Notes de mise à jour : hiver 17 {#release-notes-winter}
+# Notes de mise à jour : hiver 2017 {#release-notes-winter}
 
 Les fonctionnalités suivantes sont incluses dans la version d’hiver 17. Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo.
 
@@ -72,7 +72,7 @@ Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — 
 
 **[!UICONTROL Contenu prédictif] éditeur**
 
-[!UICONTROL &#x200B; L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
+[!UICONTROL  L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
 
 ![](assets/predictive-content-editor.png)
 

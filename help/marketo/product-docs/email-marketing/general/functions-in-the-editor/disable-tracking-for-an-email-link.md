@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900579
 description: Désactivation du suivi d’un lien e-mail - Documents Marketo - Documentation du produit
-title: Désactivation du suivi d’un lien e-mail
+title: Désactiver le suivi d’un lien d’e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Désactivation du suivi d’un lien e-mail {#disable-tracking-for-an-email-link}
+# Désactiver le suivi d’un lien d’e-mail {#disable-tracking-for-an-email-link}
 
 Il arrive que vous ne souhaitiez pas activer l’URL de tracking **Marketo** sur un lien dans un e-mail. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture d’un lien.
 
@@ -41,7 +41,7 @@ En outre, si un e-mail a été envoyé il y a plus de 365 jours **et que personn
    >
    >En désactivant uniquement la case à cocher **Inclure mkt_tok**, le lien sera toujours suivi, mais après redirection, l’URL de destination n’inclura pas le paramètre de chaîne de requête mkt_tok. Ce paramètre est utilisé par Marketo Landing Pages et Munchkin pour assurer un suivi correct des activités des personnes (comme lorsqu’une personne se désinscrit d’un e-mail). Évitez d’utiliser cette fonctionnalité, sauf si vous constatez un comportement bizarre sur votre site web en raison de la présence du paramètre .
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

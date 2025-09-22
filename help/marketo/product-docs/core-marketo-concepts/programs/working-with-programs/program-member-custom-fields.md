@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355569
 description: Champs personnalisés de membre de programme - Documents Marketo - Documentation du produit
-title: Champs personnalisés du membre de programme
+title: Champs personnalisés de personne membre du programme
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Champs personnalisés du membre de programme {#program-member-custom-fields}
+# Champs personnalisés de personne membre du programme {#program-member-custom-fields}
 
 Les champs personnalisés Membre du programme vous permettent de collecter des données spécifiques au programme pour chaque membre. Ils peuvent être utilisés dans : formulaires Marketo, filtres et déclencheurs de liste dynamique et actions de flux de campagne dynamique. Les données sont visibles dans l&#39;onglet Membres du programme.
 
@@ -60,7 +60,7 @@ Vous pouvez exploiter ces données spécifiques au programme dans les listes dyn
 
 ![](assets/six.png)
 
-## Informations à connaître {#things-to-know}
+## Choses à savoir {#things-to-know}
 
 * Les champs personnalisés du membre de programme sont disponibles dans les ressources locales uniquement. Ils ne sont pas pris en charge dans Design Studio, car il n’existe aucun moyen de les lier à un programme spécifique.
 * Vous ne pouvez pas cloner/déplacer un formulaire (ou une page de destination avec un formulaire) contenant des champs personnalisés de membre de programme vers Design Studio.

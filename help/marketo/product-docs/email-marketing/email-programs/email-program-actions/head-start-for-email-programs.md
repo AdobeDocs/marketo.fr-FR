@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097202
 description: Démarrage rapide des programmes de messagerie - Documents Marketo - Documentation du produit
-title: Démarrage rapide des programmes de messagerie
+title: Démarrage rapide des programmes d’e-mail
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Démarrage rapide des programmes de messagerie {#head-start-for-email-programs}
+# Démarrage rapide des programmes d’e-mail {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Lorsque vous choisissez une date/heure pour un programme d’e-mail, il détermi
    >
    >Le démarrage anticipé ne peut pas être utilisé avec les tests A/B.
 
-1. Dans la mosaïque [!UICONTROL &#x200B; Planifier &#x200B;], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
+1. Dans la mosaïque [!UICONTROL  Planifier ], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
 
    ![](assets/three-1.png)
 

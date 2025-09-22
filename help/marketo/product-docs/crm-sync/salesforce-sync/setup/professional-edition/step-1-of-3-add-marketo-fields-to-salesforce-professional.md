@@ -4,7 +4,7 @@ description: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Professionn
 title: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 9%
@@ -82,13 +82,13 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
    <td>Longueur 10<br>Décimales 0 </td>
   </tr>
   <tr>
-   <td>Date d'acquisition</td>
+   <td>Date d’acquisition</td>
    <td>mkto71_Acquisition_Date</td>
    <td>Date/heure</td>
    <td> </td>
   </tr>
   <tr>
-   <td>Programme d'acquisition</td>
+   <td>Programme d’acquisition</td>
    <td>mkto71_Acquisition_Program</td>
    <td>Texte</td>
    <td>Longueur 255</td>

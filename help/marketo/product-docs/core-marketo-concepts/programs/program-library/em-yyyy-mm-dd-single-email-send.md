@@ -1,16 +1,16 @@
 ---
 description: Envoi unique d’e-mail AAAA-MM-JJ - Documents Marketo - Documentation du produit
-title: EM-YYYY-MM-DD-Single Email Send
+title: EM-AAAA-MM-JJ-Envoi d’e-mail unique
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
-# EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
+# EM-AAAA-MM-JJ-Envoi d’e-mail unique {#em-yyyy-mm-dd-single-email-send}
 
 Cet exemple envoie un seul e-mail à l’aide d’un programme de messagerie Marketo Engage. L’e-mail peut inclure ou non un test A/B.
 
@@ -47,7 +47,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail de démarrage rapide</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modèle d’e-mail pour un démarrage rapide</a></td>
    <td>01-E-Mail-Merci</td>
   </tr>
   <tr>

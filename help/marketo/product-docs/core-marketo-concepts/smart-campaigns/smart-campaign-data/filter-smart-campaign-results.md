@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147068
-description: Filtrage des résultats de campagne dynamique - Documents Marketo - Documentation du produit
-title: Filtrage des résultats de campagne dynamique
+description: Filtrage Des Résultats De Campagne Intelligente - Documents Marketo - Documentation Du Produit
+title: Filtrer les résultats d’une campagne intelligente
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Filtrage des résultats de campagne dynamique {#filter-smart-campaign-results}
+# Filtrer les résultats d’une campagne intelligente {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
->[Affichage des résultats de campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
+>[Afficher les résultats de la campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
-Filtrez les résultats de campagne dynamique pour afficher les activités spécifiques qui vous intéressent.
+Filtrez les résultats des campagnes intelligentes pour afficher les activités spécifiques qui vous intéressent.
 
-## Filtrage par filtres enregistrés {#filter-by-saved-filters}
+## Filtrer par filtres enregistrés {#filter-by-saved-filters}
 
-1. Dans l&#39;onglet **[!UICONTROL Résultats]** de votre campagne dynamique, cliquez sur **[!UICONTROL Filtrer]** et sélectionnez un filtre enregistré.
+1. Dans l’onglet **[!UICONTROL Résultats]** de votre campagne dynamique, cliquez sur **[!UICONTROL Filtrer]** et sélectionnez un filtre enregistré.
 
    ![](assets/filter-smart-campaign-results-1.png)
 
@@ -29,13 +29,13 @@ Filtrez les résultats de campagne dynamique pour afficher les activités spéci
    >
    >Par défaut, aucun filtre n’est appliqué et les résultats affichent toutes les activités.
 
-## Création d’un filtre personnalisé {#create-a-custom-filter}
+## Créer un filtre personnalisé {#create-a-custom-filter}
 
-1. Cliquez sur **[!UICONTROL Filtre]**, puis sur **[!UICONTROL Personnalisé]**.
+1. Cliquez sur **[!UICONTROL Filtrer]**, puis **[!UICONTROL Personnaliser]**.
 
    ![](assets/filter-smart-campaign-results-2.png)
 
-1. Sélectionnez les types d’activité que vous souhaitez voir, puis cliquez sur **[!UICONTROL Enregistrer sous]**.
+1. Sélectionnez les types d’activité à afficher, puis cliquez sur **[!UICONTROL Enregistrer sous]**.
 
    ![](assets/filter-smart-campaign-results-3.png)
 

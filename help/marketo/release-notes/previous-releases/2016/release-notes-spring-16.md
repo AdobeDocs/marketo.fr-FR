@@ -4,14 +4,14 @@ description: Notes De Mise À Jour - Printemps 16 - Documents Marketo - Document
 title: Notes de mise à jour - Printemps 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '790'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notes de mise à jour : printemps 16 {#release-notes-spring}
+# Notes de mise à jour : printemps 2016 {#release-notes-spring}
 
 Les fonctionnalités suivantes sont incluses dans la version du printemps 16. Cliquez sur les liens de titre pour afficher les articles détaillés de chaque fonctionnalité.
 

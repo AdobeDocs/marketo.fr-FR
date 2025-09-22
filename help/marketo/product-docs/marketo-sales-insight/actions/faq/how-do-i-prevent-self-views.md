@@ -3,14 +3,14 @@ description: Comment empêcher les autovisualisations ? - Documents Marketo - Do
 title: Comment empêcher les autoévaluations ?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Comment Empêcher Les Auto-Analyses ? {#how-do-i-prevent-self-views}
+# Comment puis-je empêcher les vues ajoutées par soi-même ? {#how-do-i-prevent-self-views}
 
 L’obtention de faux positifs sur votre suivi des vues peut entraîner des incohérences dans les rapports. Cela se produit souvent lorsque les utilisateurs d’[!DNL Marketo Sales] appellent accidentellement le pixel de tracking de leur client de messagerie (nous appelons cela une auto-visualisation). Vous trouverez ci-dessous quelques conseils pour réduire considérablement, voire éliminer, les auto-évaluations.
 

@@ -4,7 +4,7 @@ description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marke
 title: 'Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (professionnel)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
@@ -52,14 +52,14 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
    * [!UICONTROL Programme d’acquisition]
    * [!UICONTROL ID du programme d’acquisition]
    * [!UICONTROL Désinscription Aux E-Mails]
-   * [!UICONTROL &#x200B; Ville déduite &#x200B;]
+   * [!UICONTROL  Ville déduite ]
    * [!UICONTROL Société déduite]
    * [!UICONTROL Pays déduit]
    * [!UICONTROL Région métropolitaine déduite]
    * [!UICONTROL Indicatif téléphonique déduit]
    * [!UICONTROL Code postal déduit]
    * [!UICONTROL Région d’État déduite]
-   * [!UICONTROL &#x200B; Score du lead &#x200B;]
+   * [!UICONTROL  Score du lead ]
    * [!UICONTROL Référent original]
    * [!UICONTROL Moteur de recherche original]
    * [!UICONTROL Expression de recherche originale]

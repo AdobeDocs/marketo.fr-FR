@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360240
 description: Configuration d’une opportunité Influence Analyzer - Documents Marketo - Documentation du produit
-title: Configuration d’un analyseur d’influence d’opportunité
+title: Configurer un analyseur d’influence d’opportunité
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Configuration d’un analyseur d’influence d’opportunité {#configure-an-opportunity-influence-analyzer}
+# Configurer un analyseur d’influence d’opportunité {#configure-an-opportunity-influence-analyzer}
 
 Une fois que vous avez [créé un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), vous pouvez configurer les types de [moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) qui sont inclus.
 

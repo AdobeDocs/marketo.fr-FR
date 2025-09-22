@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953338
 description: Envoyer un e-mail de vente Marketo depuis Microsoft Dynamics - Documents Marketo - Documentation du produit
-title: Envoyer un e-mail de vente Marketo à partir de Microsoft Dynamics
+title: Envoyer un e-mail commercial Marketo à partir de Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Envoyer un e-mail [!DNL Marketo Sales] à partir de [!DNL Microsoft Dynamics] {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Votre équipe des ventes peut envoyer des e-mails et faire en sorte qu’ils soient suivis pour les ouvertures et les clics directement depuis [!DNL Microsoft Dynamics]. Voici comment procéder.
+Votre équipe des ventes peut envoyer des e-mails et faire en sorte qu’ils soient suivis pour les ouvertures et les clics directement depuis [!DNL Microsoft Dynamics]. Voici comment faire.
 
 1. Dans [!DNL Dynamics], accédez à la zone **[!UICONTROL Ventes]**.
 

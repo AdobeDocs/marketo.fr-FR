@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146940
 description: Définir une liste dynamique pour une campagne dynamique | Lot - Documents Marketo - Documentation Du Produit
-title: Définir une liste dynamique pour une campagne dynamique | Lot
+title: Définir une liste intelligente pour une campagne intelligente | Par lots
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Définir une liste dynamique pour une campagne dynamique | Lot {#define-smart-list-for-smart-campaign-batch}
+# Définir une liste intelligente pour une campagne intelligente | Par lots {#define-smart-list-for-smart-campaign-batch}
 
 Les listes dynamiques sont le mécanisme utilisé dans Marketo Engage pour définir les « personnes » à inclure, qu’il s’agisse d’un rapport, d’une liste ou d’une campagne dynamique. Voici comment définir une liste dynamique pour une campagne par lots.
 

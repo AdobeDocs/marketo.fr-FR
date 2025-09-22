@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360188
 description: Rapport Sur Les Performances Des E-Mails De Campaign - Documents Marketo - Documentation Du Produit
-title: Rapport sur les performances des e-mails de Campaign
+title: Rapport des performances des e-mails de campagne
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Rapport sur les performances des e-mails de Campaign {#campaign-email-performance-report}
+# Rapport des performances des e-mails de campagne {#campaign-email-performance-report}
 
 Pour afficher les statistiques de performances des e-mails regroupées par [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), exécutez un rapport Performances des e-mails de Campaign.
 

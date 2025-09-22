@@ -4,10 +4,10 @@ description: Mises à jour de l’inscription aux événements ON24 - Documents 
 title: Mises à jour de l’inscription aux événements ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '282'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Si une personne ne s’enregistre pas, mais qu’elle adopte le statut [!UICONTR
 
 1. Dans l’onglet [!UICONTROL Membres], filtrez la liste des personnes dont le statut est **[!UICONTROL Erreur d’enregistrement]**.
 1. Avant de poursuivre, assurez-vous d’avoir déterminé et corrigé le problème avec l’intégration (vérifiez qu’il n’y a aucune erreur sous **[!UICONTROL Partenaires d’événement]** dans Admin).
-1. Une fois le problème résolu, sélectionnez toutes les personnes dont le statut est [!UICONTROL &#x200B; Erreur d’enregistrement &#x200B;] et modifiez leur statut en **[!UICONTROL Enregistré]**. Cette opération va tenter de les enregistrer à nouveau avec ON24.
+1. Une fois le problème résolu, sélectionnez toutes les personnes dont le statut est [!UICONTROL  Erreur d’enregistrement ] et modifiez leur statut en **[!UICONTROL Enregistré]**. Cette opération va tenter de les enregistrer à nouveau avec ON24.
 
 ## Mise à jour du statut de membre à partir d’ON24 {#updating-member-status-from-on}
 
