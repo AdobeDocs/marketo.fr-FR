@@ -86,10 +86,10 @@ Gagnez du temps en réutilisant des ressources créatives et des images sur plus
 
 ## Intégration  {#integration}
 
-**[API de prévisualisation d’e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API de prévisualisation d’e-mail](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting)**
 
 Vous pouvez désormais prévisualiser à distance les e-mails en dehors de Marketo, ce qui simplifie le processus de localisation du contenu des e-mails et réduit les erreurs.
 
-**[Remplacer l’API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Remplacer l’API HTML](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting)**
 
 Les développeurs peuvent mettre à jour à distance le contenu des ressources d’e-mail d’HTML, ce qui leur permet de travailler dans un seul système pour gérer les ressources.

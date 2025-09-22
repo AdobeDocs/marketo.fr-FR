@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Modèle 8B {#template-8b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=fr)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+[Modèle 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=fr)

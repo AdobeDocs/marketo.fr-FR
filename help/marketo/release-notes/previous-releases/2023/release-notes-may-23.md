@@ -74,7 +74,7 @@ Les webinaires interactifs seront déployés progressivement. Pour demander un a
   </tr>
   <tr>
    <td>Déploiement démarré</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Vue d’ensemble des webinaires interactifs</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=fr">Vue d’ensemble des webinaires interactifs</a></td>
   </tr>
   </tbody>
 </table>

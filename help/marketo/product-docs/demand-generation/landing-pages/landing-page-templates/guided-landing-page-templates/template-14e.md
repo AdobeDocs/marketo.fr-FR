@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modèle 14E {#template-14e}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=fr)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+[Modèle 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=fr)

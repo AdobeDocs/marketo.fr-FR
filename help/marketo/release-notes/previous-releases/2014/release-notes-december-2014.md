@@ -65,7 +65,7 @@ Trois nouveaux appels pour l’API REST de lead et d’activité :
 
 · Fusionner le prospect
 
-Des détails complets seront disponibles après la publication sur [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
+Des détails complets seront disponibles après la publication sur [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
 ## Améliorations de la compatibilité [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 

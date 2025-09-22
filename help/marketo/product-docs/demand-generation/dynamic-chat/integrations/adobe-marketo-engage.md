@@ -18,7 +18,7 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
 
 >[!NOTE]
 >
->Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs[ personnalisés et ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}Marketo.
+>Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs[ personnalisés et ](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}Marketo.
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Dynamic Chat]**.
 
@@ -28,7 +28,7 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
    >
    >Si la mosaïque ne s’affiche pas, contactez votre administrateur Marketo.
 
-1. Si vous avez déjà accédé à une application à l’aide d’une Adobe ID, vous accédez directement à Dynamic Chat. Dans le cas contraire, [configurez votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si vous avez déjà accédé à une application à l’aide d’une Adobe ID, vous accédez directement à Dynamic Chat. Dans le cas contraire, [configurez votre Adobe ID](https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Pour connecter votre instance Marketo, sélectionnez **[!UICONTROL Intégrations]**.
 

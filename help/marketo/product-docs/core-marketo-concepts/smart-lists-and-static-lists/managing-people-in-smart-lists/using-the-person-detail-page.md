@@ -60,7 +60,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 
 >[!NOTE]
 >
->Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
+>Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
 
 ## Modification d’un champ {#editing-a-field}
 

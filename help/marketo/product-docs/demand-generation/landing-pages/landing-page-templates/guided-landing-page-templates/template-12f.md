@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modèle 12F {#template-12f}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html?lang=fr)
 
 ![](assets/image2015-8-4-14-3a51-3a6.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
+[Modèle 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html?lang=fr)

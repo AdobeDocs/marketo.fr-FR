@@ -13,7 +13,7 @@ ht-degree: 12%
 
 # Utiliser un webhook dans une campagne intelligente {#use-a-webhook-in-a-smart-campaign}
 
-Pour utiliser un [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, ajoutez-le à une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} en tant qu’action de flux.
+Pour utiliser un [webhook](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, ajoutez-le à une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} en tant qu’action de flux.
 
 >[!AVAILABILITY]
 >

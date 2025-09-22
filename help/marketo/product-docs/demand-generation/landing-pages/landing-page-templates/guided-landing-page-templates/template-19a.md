@@ -13,7 +13,7 @@ ht-degree: 10%
 
 # Modèle 19A {#template-19a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html?lang=fr)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+[Modèle 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html?lang=fr)

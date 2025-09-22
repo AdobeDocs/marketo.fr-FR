@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modèle 17E {#template-17e}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=fr)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -28,4 +28,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+[Modèle 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=fr)
