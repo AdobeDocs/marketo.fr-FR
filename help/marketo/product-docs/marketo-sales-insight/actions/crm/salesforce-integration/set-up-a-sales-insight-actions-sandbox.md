@@ -73,7 +73,7 @@ Les actions nécessitent que vous activiez d’abord une nouvelle instance avec 
 
 ## Demandez la conversion de votre instance Actions pour qu’elle soit compatible avec votre sandbox Salesforce {#request-your-actions-instance-be-converted}
 
-1. Contactez l’assistance Marketo Engage [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour demander que votre nouvelle instance d’actions Sales Insight soit configurée de manière à être compatible avec Salesforce Sandbox.
+1. Contactez l’assistance Marketo Engage [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour demander que votre nouvelle instance d’actions Sales Insight soit configurée de manière à être compatible avec Salesforce Sandbox.
 
 1. Testez tout est configuré correctement en essayant de vous connecter à l’aide du bouton « Se connecter avec Salesforce » sur la page toutapp.com/login.
 

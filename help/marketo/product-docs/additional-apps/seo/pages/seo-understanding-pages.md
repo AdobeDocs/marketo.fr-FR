@@ -36,8 +36,8 @@ L’onglet **[!UICONTROL Pages]** vous indique dans quelle mesure les pages de v
 | Nom de la colonne | Description |
 |---|---|
 | [!UICONTROL Titre] | Titre et URL de toutes les pages de votre domaine. Vérifiez votre domaine. |
-| [!UICONTROL  Score d’optimisation ] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
-| [!UICONTROL  Liens ] | Nombre de domaines différents avec au moins 1 lien entrant vers votre site. |
+| [!UICONTROL &#x200B; Score d’optimisation &#x200B;] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
+| [!UICONTROL &#x200B; Liens &#x200B;] | Nombre de domaines différents avec au moins 1 lien entrant vers votre site. |
 | [!UICONTROL Mots-clés Target] | Mots-clés pour lesquels vous décidez d’optimiser chaque page. [Ceci nécessite votre saisie](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Onglet [!UICONTROL Événements] {#issues-tab}

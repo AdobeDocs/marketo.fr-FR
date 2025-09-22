@@ -28,7 +28,7 @@ En utilisant la recherche avancée pour cibler les prospects qui ont consulté l
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Cliquez sur [!UICONTROL  Recherche avancée ].
+1. Cliquez sur [!UICONTROL &#x200B; Recherche avancée &#x200B;].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -83,13 +83,13 @@ Vous avez le choix entre trois statuts d’e-mail. Les options de type/activité
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Statut : Envoyé**_
+_&#x200B;**Statut : Envoyé**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtre par activité d’e-mail envoyé. Vous pouvez choisir les options [!UICONTROL vues]/[!UICONTROL aucune vue], [!UICONTROL clics]/[!UICONTROL aucun clic] et/ou [!UICONTROL réponses]/[!UICONTROL aucune réponse].
 
-_**Statut : En Attente**_
+_&#x200B;**Statut : En Attente**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtre par tous les e-mails en attente.
  </tr>
 </table>
 
-_**Statut : non diffusé**_
+_&#x200B;**Statut : non diffusé**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

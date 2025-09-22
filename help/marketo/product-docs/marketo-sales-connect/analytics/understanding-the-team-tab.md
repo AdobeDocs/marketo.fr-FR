@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352414
 description: Présentation de l’onglet [!UICONTROL Équipe] - Documents Marketo - Documentation du produit
-title: Présentation de l’onglet [!UICONTROL  Équipe ]
+title: Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Présentation de l’onglet [!UICONTROL  Équipe ] {#understanding-the-team-tab}
+# Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;] {#understanding-the-team-tab}
 
-Dans l’onglet [!UICONTROL  Équipe ], nous mettons en évidence trois mesures importantes.
+Dans l’onglet [!UICONTROL &#x200B; Équipe &#x200B;], nous mettons en évidence trois mesures importantes.
 
 ## E-mails envoyés avec modèle {#emails-sent-with-template}
 

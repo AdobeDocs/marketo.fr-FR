@@ -22,8 +22,8 @@ Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse
 >[!NOTE]
 >
 >Cette fonctionnalité fonctionne indépendamment des restrictions de connexion basées sur les adresses IP de Marketo Engage (remplacées par la liste d’accès IP d’Admin Console*) et continuera à fonctionner après la [ migration d’Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->> 
->>&#42;La disponibilité générale de la liste d’accès IP est prévue pour le 4e trimestre 2025.
+>&#x200B;> 
+>&#x200B;>&#42;La disponibilité générale de la liste d’accès IP est prévue pour le 4e trimestre 2025.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

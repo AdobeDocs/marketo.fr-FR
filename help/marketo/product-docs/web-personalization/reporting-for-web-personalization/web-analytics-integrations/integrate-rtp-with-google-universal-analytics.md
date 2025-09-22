@@ -118,7 +118,7 @@ Une fois que vous avez activé les dimensions personnalisées dans GUA, accédez
 ## Supprimer les anciens tableaux de bord dans Google Analytics {#remove-old-dashboards-in-google-analytics}
 
 1. Dans Google Analytics. Accédez à **[!UICONTROL Reporting].**
-1. Cliquez sur **[!UICONTROL Tableaux de bord ].**.
+1. Cliquez sur **[!UICONTROL Tableaux de bord &#x200B;].**.
 1. Sélectionnez un **[!UICONTROL Tableau de bord]** (RTP B2B ou Performances RTP)
 1. Cliquez sur **[!UICONTROL Supprimer le tableau de bord]**.
 

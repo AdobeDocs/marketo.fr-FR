@@ -62,7 +62,7 @@ Pour créer un type de balise, procédez comme suit :
 
    >[!TIP]
    >
-   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programme, mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programme, l’une avec « [!UICONTROL  Obligatoire ] sélectionné et l’autre avec « [!UICONTROL  Obligatoire ] non sélectionnée.
+   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programme, mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programme, l’une avec « [!UICONTROL &#x200B; Obligatoire &#x200B;] sélectionné et l’autre avec « [!UICONTROL &#x200B; Obligatoire &#x200B;] non sélectionnée.
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 

@@ -44,7 +44,7 @@ PICC
 
 PICC
 
-1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **Marketo**.
+1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **Marketo**.
 
 PICC
 

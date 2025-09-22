@@ -41,7 +41,7 @@ Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-inte
 
 >[!NOTE]
 >
->Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL  Exiger une authentification unique ]. »
+>Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL &#x200B; Exiger une authentification unique &#x200B;]. »
 
 >[!TIP]
 >

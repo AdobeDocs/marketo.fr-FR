@@ -89,7 +89,7 @@ La campagne enfant s&#39;appelle Mes jetons.
 
 ### Exemple 1 - Vrai {#example-one-true}
 
-Dans l’étape de flux Exécuter la campagne de la première campagne parent, la variable « [!UICONTROL  Utiliser le contexte du jeton de campagne parent ] » est définie sur **[!UICONTROL True]**.
+Dans l’étape de flux Exécuter la campagne de la première campagne parent, la variable « [!UICONTROL &#x200B; Utiliser le contexte du jeton de campagne parent &#x200B;] » est définie sur **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 

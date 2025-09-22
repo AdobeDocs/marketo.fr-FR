@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Envoyer une alerte {#send-alert}
 
-Marketo Engage peut envoyer une alerte par e-mail contenant des informations personnelles à n’importe qui : le commercial, un partenaire ou quelqu’un d’autre. Utilisez l’étape de flux « [!UICONTROL  Envoyer l’alerte ] ».
+Marketo Engage peut envoyer une alerte par e-mail contenant des informations personnelles à n’importe qui : le commercial, un partenaire ou quelqu’un d’autre. Utilisez l’étape de flux « [!UICONTROL &#x200B; Envoyer l’alerte &#x200B;] ».
 
 ![](assets/send-alert-1.png)
 
@@ -31,7 +31,7 @@ Marketo Engage peut envoyer une alerte par e-mail contenant des informations per
 
    >[!NOTE]
    >
-   >Veillez à utiliser le jeton « [!UICONTROL  Envoyer les informations d’alerte ] » dans votre e-mail.
+   >Veillez à utiliser le jeton « [!UICONTROL &#x200B; Envoyer les informations d’alerte &#x200B;] » dans votre e-mail.
 
 1. Sélectionnez le destinataire de l’alerte. Vous pouvez choisir [!UICONTROL Propriétaire de ventes] ou [!UICONTROL Propriétaire de compte].
 

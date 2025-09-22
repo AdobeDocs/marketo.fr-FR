@@ -17,7 +17,7 @@ ht-degree: 6%
 
    ![](assets/one-1.png)
 
-1. Cliquez sur le point (trois petits points). En bas, vous pouvez choisir entre : « [!UICONTROL Ajouter à Marketo Campaign ] », « [!UICONTROL Envoyer un e-mail Marketo ] », « [!UICONTROL Afficher dans Marketo ] », « [!UICONTROL Ajouter à partir de la liste de contrôle ] », « [!UICONTROL Supprimer de la liste de contrôle ] ».
+1. Cliquez sur le point (trois petits points). En bas, vous pouvez choisir entre : « [!UICONTROL Ajouter à Marketo Campaign &#x200B;] », « [!UICONTROL Envoyer un e-mail Marketo &#x200B;] », « [!UICONTROL Afficher dans Marketo &#x200B;] », « [!UICONTROL Ajouter à partir de la liste de contrôle &#x200B;] », « [!UICONTROL Supprimer de la liste de contrôle &#x200B;] ».
 
    ![](assets/two-1.png)
 

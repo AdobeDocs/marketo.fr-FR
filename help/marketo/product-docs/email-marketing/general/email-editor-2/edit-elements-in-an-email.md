@@ -67,7 +67,7 @@ Les e-mails peuvent contenir quatre éléments différents : texte enrichi, imag
    >
    >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image semble endommagée dans l’éditeur, mais s’affiche en mode Aperçu et dans l’exemple d’e-mail d’envoi.
 
-   Pour utiliser une URL externe, collez d’abord l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du [!UICONTROL  Texte de remplacement ] (facultatif). Appuyez ensuite sur **[!UICONTROL Swap]**.
+   Pour utiliser une URL externe, collez d’abord l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du [!UICONTROL &#x200B; Texte de remplacement &#x200B;] (facultatif). Appuyez ensuite sur **[!UICONTROL Swap]**.
 
    ![](assets/eight.png)
 

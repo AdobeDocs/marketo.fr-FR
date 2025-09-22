@@ -37,4 +37,4 @@ Voici comment ajouter des sous-domaines à vos domaines principaux dans [!UICONT
 
    >[!NOTE]
    >
-   >Si vous souhaitez ajouter des domaines _principaux_ à votre compte, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si vous souhaitez ajouter des domaines _principaux_ à votre compte, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).

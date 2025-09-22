@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Envoyer un e-mail {#send-email}
 
-L’étape de flux « [!UICONTROL  Envoyer un e-mail ] » peut être utilisée dans le cadre de campagnes ou comme étape de flux unique pour envoyer des e-mails à vos personnes.
+L’étape de flux « [!UICONTROL &#x200B; Envoyer un e-mail &#x200B;] » peut être utilisée dans le cadre de campagnes ou comme étape de flux unique pour envoyer des e-mails à vos personnes.
 
 ![](assets/send-email-1.png)
 

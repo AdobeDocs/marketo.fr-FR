@@ -49,7 +49,7 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo autorise uniquement les déclencheurs pour les personnes à qui cet e-mail a été envoyé à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre « E-mail [!UICONTROL  envoyé ] ».
+   Marketo autorise uniquement les déclencheurs pour les personnes à qui cet e-mail a été envoyé à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre « E-mail [!UICONTROL &#x200B; envoyé &#x200B;] ».
 
 1. Cliquez sur **[!UICONTROL Fermer]**.
 

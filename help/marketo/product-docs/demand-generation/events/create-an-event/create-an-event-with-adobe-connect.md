@@ -64,7 +64,7 @@ Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans
    >
    >Définissez votre e-mail de confirmation sur **Opérationnel** afin de vous assurer que les personnes qui s’inscrivent et peuvent se désinscrire reçoivent toujours leurs informations de confirmation.
 
-   Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL  Modifier le statut du programme ] #1 et [!UICONTROL  Envoyer un e-mail ] soient #2.
+   Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL &#x200B; Modifier le statut du programme &#x200B;] #1 et [!UICONTROL &#x200B; Envoyer un e-mail &#x200B;] soient #2.
 
    ![](assets/adobe.png)
 

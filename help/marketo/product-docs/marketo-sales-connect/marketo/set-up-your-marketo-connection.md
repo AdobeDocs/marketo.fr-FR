@@ -42,7 +42,7 @@ Vous devez obtenir un ensemble d’informations d’identification dans Marketo.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Marketo]**.
+1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **[!UICONTROL Marketo]**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 

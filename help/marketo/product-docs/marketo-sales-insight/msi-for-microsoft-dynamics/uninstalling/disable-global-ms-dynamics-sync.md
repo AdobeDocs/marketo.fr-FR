@@ -29,4 +29,4 @@ Pour désactiver la synchronisation des [!DNL MS Dynamics], procédez comme suit
 
    >[!NOTE]
    >
-   >Si aucun bouton [!UICONTROL Désactiver la synchronisation] ne s’affiche dans votre instance, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si aucun bouton [!UICONTROL Désactiver la synchronisation] ne s’affiche dans votre instance, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).

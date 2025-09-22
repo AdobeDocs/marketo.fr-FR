@@ -68,4 +68,4 @@ Les fonctionnalités suivantes devraient sortir au cours du deuxième trimestre 
 * **Intégration de Drift** : découvrez comment les conversations Drift affectent le parcours de votre client. [!DNL Bizible] extraira également les adresses e-mail des conversations pour créer un nouveau prospect ou connecter le point de contact à un prospect existant.
 * **Localisation** : [!DNL Bizible] est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
-_**Webinaire de mise à jour des produits**_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_&#x200B;**Webinaire de mise à jour des produits**&#x200B;_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

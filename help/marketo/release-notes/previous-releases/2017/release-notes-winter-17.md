@@ -72,7 +72,7 @@ Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — 
 
 **[!UICONTROL Contenu prédictif] éditeur**
 
-[!UICONTROL  L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
+[!UICONTROL &#x200B; L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
 
 ![](assets/predictive-content-editor.png)
 

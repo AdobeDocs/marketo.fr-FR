@@ -25,7 +25,7 @@ Le rapport des ventes du gestionnaire de comptes techniques est un e-mail person
 
    ![](assets/tam-report-setup-2.png)
 
-1. Sous [!UICONTROL  Rapport hebdomadaire ], cliquez sur **[!UICONTROL Modifier]**.
+1. Sous [!UICONTROL &#x200B; Rapport hebdomadaire &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/three-3.png)
 

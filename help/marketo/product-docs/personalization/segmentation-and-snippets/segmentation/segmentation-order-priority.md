@@ -18,7 +18,7 @@ Il est important de comprendre comment **ordre** définit la priorité de l’é
 >[!PREREQUISITES]
 >
 >[Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->>[Définissez Des Règles De Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>&#x200B;>[Définissez Des Règles De Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

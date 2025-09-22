@@ -53,7 +53,7 @@ e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une d
 
    ![](assets/five-3.png)
 
-1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six.png)
 

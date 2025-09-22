@@ -20,7 +20,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. Sous [!UICONTROL  Intégrations ], cliquez sur **[!UICONTROL Diagnostics]**.
+1. Sous [!UICONTROL &#x200B; Intégrations &#x200B;], cliquez sur **[!UICONTROL Diagnostics]**.
 
    ![](assets/salesforce-diagnostics-2.png)
 
