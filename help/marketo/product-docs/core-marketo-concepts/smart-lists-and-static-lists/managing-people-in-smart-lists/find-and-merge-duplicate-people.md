@@ -4,9 +4,9 @@ description: Rechercher et fusionner des personnes en double - Documents Marketo
 title: Rechercher et fusionner les personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '419'
 ht-degree: 3%
 
 ---
@@ -59,13 +59,15 @@ Marketo Engage déduplique automatiquement les nouvelles personnes qui entrent d
    >
    >Vous pouvez avoir deux doublons ou plus pour la même personne. Sélectionnez-les tous en même temps.
 
-1. Vous verrez les valeurs entre les enregistrements qui _correspondent pas_. Sélectionnez la valeur que vous souhaitez conserver pour chaque champ. Cliquez sur **[!UICONTROL Fusionner]** lorsque vous avez terminé. Si vous ne souhaitez aucune de ces valeurs, cochez la case **[!UICONTROL Personnalisé]** et saisissez la valeur de votre choix.
+1. Les valeurs entre les enregistrements qui ne correspondent pas s’affichent. _Sélectionnez la valeur que vous souhaitez conserver pour chaque champ_. Cliquez sur **[!UICONTROL Fusionner]** lorsque vous avez terminé. Si vous ne souhaitez aucune de ces valeurs, cochez la case **[!UICONTROL Personnalisé]** et saisissez la valeur de votre choix.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >Lors de la fusion manuelle des personnes, la première personne sélectionnée sera la « gagnante ». Ainsi, dans l’onglet Personnes, si vous fusionnez les ID d’enregistrement 198 et 199 et que vous cliquez d’abord sur 199, 199 sera l’ID d’enregistrement des personnes fusionnées. Cela s’applique également si plus de deux enregistrements sont fusionnés.
+   >* Contrairement à Salesforce, lors de la fusion de personnes dans Marketo, leurs scores ne sont _pas additionnés_ Vous sélectionnez les valeurs que vous souhaitez conserver.
+   >
+   >* Lors de la fusion manuelle des personnes, la première personne sélectionnée sera la « gagnante ». Ainsi, dans l’onglet Personnes, si vous fusionnez les ID d’enregistrement 198 et 199 et que vous cliquez d’abord sur 199, 199 sera l’ID d’enregistrement des personnes fusionnées. Cela s’applique également si plus de deux enregistrements sont fusionnés.
 
    >[!TIP]
    >
