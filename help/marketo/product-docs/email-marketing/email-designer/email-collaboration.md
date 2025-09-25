@@ -5,9 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -16,43 +17,50 @@ ht-degree: 1%
 
 La collaboration et les commentaires par e-mail permettent aux équipes marketing d’examiner, de discuter et de finaliser en toute transparence les ressources d’e-mail dans le Designer de messagerie Adobe Marketo Engage. Au lieu de partager des brouillons sur des outils externes (tels que le chat, les fils de discussion d’e-mail, les feuilles de calcul, etc.), vous pouvez commenter, suggérer des modifications et résoudre les commentaires en temps réel. Cela simplifie le workflow, réduit les erreurs et garantit l’alignement des parties prenantes avant l’envoi d’une campagne par e-mail.
 
+## Autorisations {#permissions}
 
-## Activer Collaboration {#enable-collaboration}
-
-1. Lors de la création ou de la modification d’un e-mail dans le Designer d’e-mail, une option « Collaboration » s’affiche sur le côté droit.
-
-   CAPTURE D’ÉCRAN
-
-1. Cela permet aux membres de l’équipe de passer en mode de révision collaborative.
-
-   CAPTURE D’ÉCRAN
+Les utilisateurs disposant d’autorisations de modification d’une ressource d’e-mail pourront commenter, baliser et afficher des commentaires. Les utilisateurs disposant d’autorisations en lecture seule pour envoyer des ressources par e-mail ne **pas** pourront ajouter ou afficher des commentaires.
 
 ## Ajouter des commentaires {#add-comments}
 
-1. Cliquez sur une structure, une colonne ou un contenu (texte, image, bouton, etc.) au-dessus d’une section modifiable dans le Designer d’e-mail.
+1. Lors de la création ou de la modification d’un e-mail dans le Designer d’e-mail, cliquez sur une structure, une colonne ou un contenu (texte, image, bouton, etc.) au-dessus d’une section modifiable.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/email-collaboration-1.png)
 
-1. Cliquez sur l’icône de commentaire ().
+1. Cliquez sur l’icône de commentaire .
 
-   CAPTURE D’ÉCRAN
+   ![](assets/email-collaboration-2.png)
 
-1. Saisissez vos commentaires, questions ou suggestions.
+1. Entrez des commentaires, des questions ou des suggestions.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/email-collaboration-3.png)
 
 >[!NOTE]
 >
 >Étiqueter les coéquipiers à l&#39;aide de @mentions (p. ex., « @John, veuillez mettre à jour la newsletter d&#39;hiver »).
 
+## Afficher tous les commentaires {#view-all-comments}
+
+1. Cliquez sur l’icône _Collaboration_ sur le côté droit.
+
+   ![](assets/email-collaboration-4.png)
+
+1. Répondez rapidement à ou aimez un commentaire.
+
+   ![](assets/email-collaboration-5.png)
+
+1. Cliquez sur l’icône **...** pour effectuer d’autres actions.
+
+   ![](assets/email-collaboration-6.png)
+
 ## Résoudre les commentaires {#resolve-comments}
 
 Chaque thread de commentaire comprend :
 
-* Réponse : Poursuivez la discussion.
-* Résoudre : marquer le commentaire comme ayant été traité.
+* Réponse : poursuivre la discussion
+* Résoudre : marquer le commentaire comme résolu
 * Non résolu : si d’autres modifications sont nécessaires.
-* Supprimer : découple le commentaire de l’élément de conception (sélectionné lors de la création du commentaire)
+* Supprimer : supprime le commentaire de son élément de conception
 * Supprimer : supprime définitivement le commentaire
 
 >[!NOTE]
@@ -69,11 +77,7 @@ Les notifications sont déclenchées pour :
 * Mentions (@username)
 * Résolutions
 
-## Autorisations {#permissions}
-
-Les utilisateurs disposant d’autorisations de modification d’une ressource d’e-mail pourront commenter, baliser et afficher des commentaires. Les utilisateurs disposant d’autorisations en lecture seule pour envoyer des ressources par e-mail ne **pas** pourront ajouter ou afficher des commentaires.
-
-## Meilleures pratiques {#best-practices}
+## Bonnes pratiques {#best-practices}
 
 * Utilisez @mentions pour vous assurer que les commentaires parviennent rapidement au membre approprié de l’équipe.
 
