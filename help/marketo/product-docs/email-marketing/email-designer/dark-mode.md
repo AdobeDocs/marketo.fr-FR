@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
+source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
 workflow-type: tm+mt
-source-wordcount: '1276'
+source-wordcount: '1277'
 ht-degree: 62%
 
 ---
@@ -136,7 +136,7 @@ Pour définir les paramètres du mode sombre personnalisé, procédez comme suit
 
 1. Une fois que vous avez apporté les modifications souhaitées pour le mode sombre, cliquez sur **[!UICONTROL Simuler le contenu]**.
 
-   ![](assets/dark-mode-simulate.png)
+   CAPTURE D’ÉCRAN
 
 1. Sélectionnez **[!UICONTROL Rendu d’e-mail]** et connectez-vous à votre compte Litmus. Vous pouvez voir le rendu final en mode sombre pour divers clients de messagerie. En savoir plus sur le [Rendu des emails](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
