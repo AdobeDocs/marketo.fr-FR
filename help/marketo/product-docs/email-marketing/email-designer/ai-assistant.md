@@ -6,10 +6,10 @@ description: Tirez parti de la technologie d’IA générative d’Adobe pour aj
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 3%
+source-wordcount: '814'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,33 @@ L’assistant AI de Marketo Engage Email Designer vous permet de créer des e-ma
 
 >[!PREREQUISITES]
 >
->L’assistant AI n’est pas activé par défaut. Vous devez d’abord accepter les conditions générales de base de l’IA dédiée à la génération ainsi que les conditions supplémentaires relatives à l’utilisation de la fonctionnalité IA dédiée à la génération dans le Designer de messagerie. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>L’assistant AI n’est pas activé par défaut. Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+
+## Configuration des autorisations {#set-up-permissions}
+
+_Après_ conformément à la condition préalable ci-dessus, les administrateurs Marketo doivent appliquer l’accès à des utilisateurs/rôles spécifiques avant que les utilisateurs ne voient les boutons GenAI.
+
+1. Dans Marketo Engage, cliquez sur **Admin** et sélectionnez **Utilisateurs et rôles**.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. Dans l’onglet **Rôles**, double-cliquez sur le rôle souhaité.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. Sous _Access Design Studio_, cochez la case **Accéder à l’assistant IA** et cliquez sur **Enregistrer**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Cliquez sur l’onglet Utilisateurs et sélectionnez l’utilisateur auquel vous souhaitez accorder l’accès.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Sélectionnez le rôle que vous avez choisi à l’étape 3 et l’espace de travail souhaité (le cas échéant). Cliquez sur **Enregistrer**
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Cas d’utilisation {#use-cases}
 
 Il existe trois cas d’utilisation principaux pour l’assistant AI :
 
