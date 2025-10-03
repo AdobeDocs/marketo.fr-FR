@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Workflow Content Collaboration</strong> : vous pouvez désormais commenter les autres utilisateurs de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les personnes membres de l’équipe (les utilisateurs et utilisatrices de Marketo qui disposent des autorisations appropriées sur les ressources) et elles recevront une notification push ou un e-mail.</td>
+   <td><strong>Concepteur d’e-mail - Workflow de collaboration de contenu</strong> : vous pouvez désormais apporter des commentaires à propos des autres utilisateurs et utilisatrices de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les personnes membres de l’équipe (les utilisateurs et utilisatrices de Marketo qui disposent des autorisations appropriées sur les ressources) et elles recevront une notification push ou un e-mail.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -62,7 +62,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Mode sombre</strong> : vous pouvez désormais utiliser le mode sombre, qui permet aux clients de messagerie et aux applications de gestion d’afficher les e-mails avec des arrière-plans plus sombres et des couleurs plus claires pour le texte, les boutons et d’autres éléments de l’interface utilisateur.</td>
+   <td><strong>Concepteur d’e-mail - Mode sombre</strong> : vous pouvez désormais utiliser le mode sombre, qui permet aux clients de messagerie et aux applications compatibles d’afficher les e-mails avec des arrière-plans plus sombres et des couleurs plus claires pour le texte, les boutons et d’autres éléments de l’UI.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
