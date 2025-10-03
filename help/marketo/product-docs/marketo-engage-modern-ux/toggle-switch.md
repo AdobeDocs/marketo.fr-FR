@@ -4,7 +4,7 @@ title: Bouton (bascule)
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '275'
 ht-degree: 100%
 
