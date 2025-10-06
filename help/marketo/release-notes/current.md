@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 100%
+source-wordcount: '653'
+ht-degree: 99%
 
 ---
 
@@ -63,8 +63,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Mode sombre</strong> : vous pouvez désormais utiliser le mode sombre, qui permet aux clients de messagerie et aux applications compatibles d’afficher les e-mails avec des arrière-plans plus sombres et des couleurs plus claires pour le texte, les boutons et d’autres éléments de l’UI.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Mode sombre</a></td>
   </tr>
   <tr>
    <td> </td>

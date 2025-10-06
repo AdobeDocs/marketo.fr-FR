@@ -1,18 +1,16 @@
 ---
 description: Mode Sombre - Documents Marketo - Documentation Du Produit
-title: Mode Sombre
+title: Mode sombre
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
 source-wordcount: '1217'
 ht-degree: 42%
 
 ---
 
-# Mode Sombre {#dark-mode}
+# Mode sombre {#dark-mode}
 
 Lors de la conception de vos e-mails, le Designer d’e-mail vous permet de passer à la vue **[!UICONTROL Mode sombre]**.
 
