@@ -3,9 +3,9 @@ description: Workflows d’événement - Documents Marketo - Documentation du pr
 title: Workflows d’événement
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Une fois le webinaire terminé, accédez à l’onglet Tableau de bord pour affi
 
 ## Synchronisation manuelle {#manual-sync}
 
-Les webinaires interactifs vous permettent d’obtenir les données d’engagement de votre webinaire à partir d’Adobe Connect si vous ne les avez pas reçues automatiquement dans les deux heures suivant la fin du webinaire. Un bouton « Synchroniser maintenant » s’affiche sur la page Aperçu. Cliquer sur **Synchroniser maintenant** déclenche une extraction à partir d’Adobe Connect pour renseigner les données dans Marketo Engage. Une fois la synchronisation effectuée, le bouton disparaît et l’onglet Tableau de bord est renseigné.
+Les webinaires interactifs vous permettent d’obtenir les données d’engagement de votre webinaire à partir d’Adobe Connect si vous ne les avez pas reçues automatiquement dans les deux heures suivant la fin du webinaire. Trente et un jours après la date de diffusion du webinaire interactif, une option « Activité de synchronisation à la demande » s’affiche sur le côté droit de l’en-tête du webinaire _Tableau de bord_. Un clic sur ce bouton déclenche une extraction à partir d’Adobe Connect afin de renseigner les données dans Marketo Engage. Il synchronise les données entre la date de votre webinaire et la date à laquelle vous avez cliqué sur **Synchroniser l’activité à la demande**.
 
 ## Widgets de tableau de bord {#dashboard-widgets}
 
