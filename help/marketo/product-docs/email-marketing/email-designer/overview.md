@@ -5,14 +5,14 @@ description: Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Enga
 title: Vue d’ensemble
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
 
-# Présentation d’Email Designer {#overview}
+# Vue d’ensemble du concepteur d’e-mail {#overview}
 
 Bienvenue dans le nouveau Designer d’e-mail de Adobe Marketo Engage.
 
@@ -72,7 +72,7 @@ Pour accéder au nouveau Designer d’e-mail, votre abonnement Marketo Engage do
 
 **L’ancien éditeur d’e-mail continuera-t-il à fonctionner ? Si oui, pour combien de temps ?**
 
-Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau Designer d’e-mail. Les e-mails créés dans l’éditeur classique seront conservés. Il n’existe aucune date quant à la date d’abandon de l’éditeur classique pour le moment, mais il continuera à fonctionner en 2025.
+Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau Designer d’e-mail. Les e-mails créés dans l’éditeur classique seront conservés. Il n’existe aucune date quant à la date d’abandon de l’éditeur classique pour le moment, mais il continuera à fonctionner en 2026. Nous vous donnerons un préavis de plusieurs mois avant d&#39;abandonner l&#39;ancien éditeur.
 
 **Dans quels programmes puis-je utiliser les nouveaux e-mails de Designer par e-mail ?**
 
