@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Activer/désactiver les limites de communication dans un programme d’e-mail {#enable-disable-communication-limits-in-an-email-program}
 
-Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’ignorer ou de respecter les [ limites de communication au niveau administrateur ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Voici comment procéder.
+Lors de l’exécution d’un programme de messagerie, vous pouvez choisir d’ignorer ou de respecter les [&#x200B; limites de communication au niveau administrateur &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Voici comment procéder.
 
 >[!NOTE]
 >

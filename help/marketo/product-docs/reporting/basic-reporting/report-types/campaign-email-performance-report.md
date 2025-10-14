@@ -44,4 +44,4 @@ Pour afficher les statistiques de performances des e-mails regroupées par [camp
    >[!MORELIKETHIS]
    >
    >* [Filtrer Assets dans un rapport de campagne par e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [ Rapport sur les performances des e-mails ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+   >* [&#x200B; Rapport sur les performances des e-mails &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)

@@ -43,4 +43,4 @@ Voilà !
 
 >[!TIP]
 >
->Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [ règles de visibilité ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [&#x200B; règles de visibilité &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

@@ -28,7 +28,7 @@ Vous pouvez désormais ajouter du contenu prédictif à votre e-mail. Lorsque l�
 
 ![](assets/predictive.png)
 
-## [Conversions hors ligne Facebook ](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Conversions hors ligne Facebook &#x200B;](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 Grâce à [!DNL Facebook]’intégration des conversions hors ligne, les données de conversion dans Marketo (pour les leads publicitaires) sont automatiquement renvoyées à [!DNL Facebook] afin que votre équipe publicitaire puisse mieux optimiser ses dépenses publicitaires. Dans ce rapport [!DNL Facebook] Ad Manager, les conversions hors ligne sont mises en surbrillance.
 

@@ -19,7 +19,7 @@ ht-degree: 1%
 >* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour suivre l’engagement
 
-Créez d’abord votre webinaire dans [!DNL Level 3]. Si vous avez besoin d’aide, consultez la [[!DNL Level 3]  Bibliothèque de ressources ](https://www.level3.com/en/resource-library/). Vous constaterez qu&#39;il ressemble beaucoup à [!DNL BrightTalk].  Marketo utilise un petit sous-ensemble de champs [!DNL Level 3] :
+Créez d’abord votre webinaire dans [!DNL Level 3]. Si vous avez besoin d’aide, consultez la [[!DNL Level 3]  Bibliothèque de ressources &#x200B;](https://www.level3.com/en/resource-library/). Vous constaterez qu&#39;il ressemble beaucoup à [!DNL BrightTalk].  Marketo utilise un petit sous-ensemble de champs [!DNL Level 3] :
 
 * **Nom** - Nom de la diffusion web.
 * **Date de début** - Date de début de la diffusion web.

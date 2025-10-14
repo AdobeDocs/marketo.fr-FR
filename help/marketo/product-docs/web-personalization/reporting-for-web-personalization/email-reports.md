@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Rapports d’e-mail {#email-reports}
 
-Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [[!UICONTROL Paramètres utilisateur] ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [[!UICONTROL Paramètres utilisateur] &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Rapports sur les e-mails de Web Personalization {#web-personalization-email-reports}
 

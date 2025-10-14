@@ -15,7 +15,7 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->Découvrez comment utiliser l’étape de flux [ Moment intéressant ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Découvrez comment utiliser l’étape de flux [&#x200B; Moment intéressant &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Jetons disponibles {#available-tokens}
 
@@ -1055,7 +1055,7 @@ En fonction du déclencheur utilisé dans une campagne intelligente, des jetons 
 
 >[!NOTE]
 >
->S’il ne comporte pas de ![ de vérification (coche)](assets/check.png) il renvoie une chaîne vide (rien) au moment intéressant.
+>S’il ne comporte pas de ![&#x200B; de vérification (coche)](assets/check.png) il renvoie une chaîne vide (rien) au moment intéressant.
 
 &#42;La page web Déclencheur **Visites** comporte quelques jetons supplémentaires :
 

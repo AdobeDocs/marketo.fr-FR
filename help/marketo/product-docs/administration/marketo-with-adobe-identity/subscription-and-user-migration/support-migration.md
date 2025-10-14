@@ -42,9 +42,9 @@ La migration de l’assistance aura lieu une fois la migration de vos utilisateu
 
 * Découvrez comment utiliser [Adobe Admin Console pour gérer vos droits Adobe](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html){target="_blank"} dans l’ensemble de votre organisation.
 
-* Vous trouverez plus d’informations sur la connexion à Marketo Engage à l’aide d’un [ Adobe ID ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
+* Vous trouverez plus d’informations sur la connexion à Marketo Engage à l’aide d’un [&#x200B; Adobe ID ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* En savoir plus sur [ Adobe Experience League ](https://experienceleague.adobe.com/fr?lang=fr){target="_blank"}.
+* En savoir plus sur [&#x200B; Adobe Experience League &#x200B;](https://experienceleague.adobe.com/fr?lang=fr){target="_blank"}.
 
 ## Vous avez encore des questions ? {#still-have-questions}
 

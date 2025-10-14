@@ -37,6 +37,6 @@ Vous pouvez rapidement et facilement ajouter des prospects/contacts aux campagne
 
    >[!NOTE]
    >
-   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**La campagne est demandée** ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md) avec [!DNL Sales Insight] comme source, lorsque vous configurez la campagne.
+   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**La campagne est demandée** &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md) avec [!DNL Sales Insight] comme source, lorsque vous configurez la campagne.
 
 Et c&#39;est tout le monde ! Vous disposez désormais de la puissance des campagnes intelligentes Marketo directement depuis [!DNL Dynamics].

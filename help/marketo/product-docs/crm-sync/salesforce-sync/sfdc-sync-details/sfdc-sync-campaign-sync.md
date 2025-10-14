@@ -49,15 +49,15 @@ Filtres:
 
 ## Puis-je ajouter des personnes Marketo à ma campagne SFDC ? {#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-Oui, utiliser l’action de flux de campagne [ Ajouter à SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Si cette personne n’existe pas dans [!DNL Salesforce], Marketo la créera dans [!DNL Salesforce] puis l’ajoutera à la campagne.
+Oui, utiliser l’action de flux de campagne [&#x200B; Ajouter à SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Si cette personne n’existe pas dans [!DNL Salesforce], Marketo la créera dans [!DNL Salesforce] puis l’ajoutera à la campagne.
 
 ## Puis-je supprimer des membres de ma campagne SFDC à l’aide de Marketo ? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Oui, utiliser l’action de flux [ Supprimer de SFDC Campaign ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
+Oui, utiliser l’action de flux [&#x200B; Supprimer de SFDC Campaign &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
 
 ## Puis-je modifier le statut de membre de la campagne à l’aide de Marketo ? {#can-i-change-campaign-member-status-using-marketo}
 
-Oui, utiliser l’action de flux [ Modifier le statut dans SFDC Campaign ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}.
+Oui, utiliser l’action de flux [&#x200B; Modifier le statut dans SFDC Campaign &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}.
 
 ## Pourquoi est-ce que je ne vois aucune de mes campagnes [!DNL Salesforce] ? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 

@@ -23,7 +23,7 @@ Vérifiez les performances de vos [campagnes intelligentes](/help/marketo/produc
 
 >[!NOTE]
 >
->Toutes les [ Campagnes exécutables ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} s’affichent sous la forme de « campagnes déclenchées inactives » dans les rapports d’activité de campagne.
+>Toutes les [&#x200B; Campagnes exécutables &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} s’affichent sous la forme de « campagnes déclenchées inactives » dans les rapports d’activité de campagne.
 
 ![](assets/campaign-activity-report-1.png)
 

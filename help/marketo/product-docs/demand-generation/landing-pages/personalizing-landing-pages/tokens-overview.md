@@ -159,7 +159,7 @@ Dans cet exemple, l’e-mail dira « Salutations, (prénom) » ou « Salutations
 
 ## [!UICONTROL Mes jetons] {#my-tokens}
 
-[!UICONTROL Mes jetons] sont définis dans un programme et commencent par `{{my.` suivi du nom que vous avez créé pour le jeton. En savoir plus sur [ Mes jetons dans un programme ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL Mes jetons] sont définis dans un programme et commencent par `{{my.` suivi du nom que vous avez créé pour le jeton. En savoir plus sur [&#x200B; Mes jetons dans un programme &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Jeton de membre {#member-token}
 

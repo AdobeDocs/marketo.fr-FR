@@ -13,7 +13,7 @@ ht-degree: 13%
 
 # Créer un formulaire de champ obligatoire {#make-a-form-field-required}
 
-Lors de l’ajout [ champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} vous pouvez rendre certains d’entre eux obligatoires pour la personne qui les remplit. Voici comment faire.
+Lors de l’ajout [&#x200B; champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} vous pouvez rendre certains d’entre eux obligatoires pour la personne qui les remplit. Voici comment faire.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

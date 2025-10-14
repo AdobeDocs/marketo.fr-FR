@@ -25,7 +25,7 @@ Tout d&#39;abord, vous devrez diviser vos employés en sous-groupes. Cela s’ap
 >
 >**Définition**
 >
->La segmentation classe votre audience en différents sous-groupes en fonction d’une règle [ Liste dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ces groupes sont appelés segments.
+>La segmentation classe votre audience en différents sous-groupes en fonction d’une règle [&#x200B; Liste dynamique &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ces groupes sont appelés segments.
 
 Par exemple, si nous avons une segmentation appelée Industrie, certains des segments pourraient être : Santé, Technologie, Financier, Biens de consommation, etc.
 

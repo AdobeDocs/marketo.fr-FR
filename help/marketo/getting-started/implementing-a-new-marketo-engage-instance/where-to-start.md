@@ -32,9 +32,9 @@ Téléchargez l’instance Marketo Engage [nouvelles listes de contrôle d’adm
 
 * [Section Admin](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [ Base de données ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
+* [&#x200B; Base de données &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [ Design Studio ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [&#x200B; Design Studio &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
 * [Activités marketing](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 

@@ -82,5 +82,5 @@ Créez un rapport Performances des liens d’e-mail pour évaluer les performanc
 
 >[!MORELIKETHIS]
 >
->* [ Rapport sur les performances des e-mails ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [&#x200B; Rapport sur les performances des e-mails &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 >* [Filtrer Assets dans un rapport d’e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

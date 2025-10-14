@@ -61,7 +61,7 @@ Pour envoyer automatiquement des e-mails d’alerte aux représentants commercia
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} est un jeton spécial pour les e-mails d’alerte. Pour en savoir plus, voir [ Utilisation du jeton d’envoi d’informations d’alerte ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}.
+   >{{SP_Send_Alert_Info}} est un jeton spécial pour les e-mails d’alerte. Pour en savoir plus, voir [&#x200B; Utilisation du jeton d’envoi d’informations d’alerte &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 

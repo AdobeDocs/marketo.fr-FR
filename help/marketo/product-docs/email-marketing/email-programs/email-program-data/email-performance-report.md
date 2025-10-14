@@ -94,4 +94,4 @@ En général, nous essayons d&#39;utiliser le bon sens pour consigner ces statis
 >
 >* [Filtrer Assets dans les rapports de campagne par e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
 >* [Filtrer les enregistrements supprimés/fusionnés dans un rapport sur les performances des e-mails](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
->* [ Rapport sur les performances des liens d’e-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}
+>* [&#x200B; Rapport sur les performances des liens d’e-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}

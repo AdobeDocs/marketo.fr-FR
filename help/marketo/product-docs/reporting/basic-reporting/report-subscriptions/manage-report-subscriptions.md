@@ -23,7 +23,7 @@ Configurez et supprimez les abonnements aux rapports.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [ type de rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’Explorateur du cycle du chiffre d’affaires.
+   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [&#x200B; type de rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’Explorateur du cycle du chiffre d’affaires.
 
    >[!TIP]
    >

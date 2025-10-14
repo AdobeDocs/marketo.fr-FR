@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Ajouter [!DNL Google AdWords] en tant que service [!DNL LaunchPoint] {#add-google-adwords-as-a-launchpoint-service}
 
-Liez votre compte [!DNL Google AdWords] à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir de l’interface utilisateur [!DNL AdWords], vous pourrez facilement voir quels clics ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toute étape de recettes dont vous souhaitez effectuer le suivi) après avoir [ ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target="_blank"} dans [!DNL AdWords]. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
+Liez votre compte [!DNL Google AdWords] à Marketo pour télécharger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir de l’interface utilisateur [!DNL AdWords], vous pourrez facilement voir quels clics ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toute étape de recettes dont vous souhaitez effectuer le suivi) après avoir [&#x200B; ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target="_blank"} dans [!DNL AdWords]. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
 
 En savoir plus sur la [fonctionnalité d’importation de conversion hors ligne de Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 

@@ -58,7 +58,7 @@ Disponible pour les utilisateurs de [!DNL Marketo Sales Insight], consultez les 
 
 **Principales personnes**
 
-Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [ Meilleurs résultats ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
+Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [&#x200B; Meilleurs résultats &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
 
 ![](assets/top-ten.png)
 

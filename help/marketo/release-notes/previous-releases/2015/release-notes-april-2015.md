@@ -23,7 +23,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’avril 2015. Con
 >
 >Cette fonctionnalité sera publiée le mardi 28 avril.
 
-La nouvelle page d’accueil [[!UICONTROL Analytics] ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet un accès rapide pour l’exécution de rapports ad hoc sur tous les types de rapports disponibles.
+La nouvelle page d’accueil [[!UICONTROL Analytics] &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet un accès rapide pour l’exécution de rapports ad hoc sur tous les types de rapports disponibles.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 

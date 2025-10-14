@@ -33,7 +33,7 @@ L’administrateur Marketo et le développeur d’applications mobiles travaille
 
 ## Étape 3 : envoyer ! {#step-send}
 
-[Vous pouvez envoyer des notifications push à l’aide ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) déclencheurs et de campagnes intelligentes par lots. Plutôt cool, hein ?
+[Vous pouvez envoyer des notifications push à l’aide &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) déclencheurs et de campagnes intelligentes par lots. Plutôt cool, hein ?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

@@ -29,4 +29,4 @@ Vous pouvez modifier l’URL d’une page de destination. Cela peut faciliter la
 
    >[!NOTE]
    >
-   >Si vous décidez de conserver les deux URL, une règle de redirection sera automatiquement créée. En savoir plus sur les [ redirections d’URL ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Si vous décidez de conserver les deux URL, une règle de redirection sera automatiquement créée. En savoir plus sur les [&#x200B; redirections d’URL &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

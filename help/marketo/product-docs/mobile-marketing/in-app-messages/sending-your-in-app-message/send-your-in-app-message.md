@@ -34,4 +34,4 @@ Une fois votre message in-app créé, il est temps de l’envoyer. Les étapes s
 
    ![Image 4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Prêt ? Commencez par [ définir l’audience ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Prêt ? Commencez par [&#x200B; définir l’audience &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

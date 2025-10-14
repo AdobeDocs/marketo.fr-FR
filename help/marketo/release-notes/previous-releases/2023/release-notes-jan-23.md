@@ -192,6 +192,6 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
 
 ## Annonces {#announcements}
 
-* **Modification de l’API REST Marketo** : avec la version d’octobre 2022, nous avons introduit une modification mineure dans le message de réponse de l’API REST Marketo. Pour plus d&#39;informations[ consultez cet article de la nation Marketo ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}
+* **Modification de l’API REST Marketo** : avec la version d’octobre 2022, nous avons introduit une modification mineure dans le message de réponse de l’API REST Marketo. Pour plus d&#39;informations[&#x200B; consultez cet article de la nation Marketo &#x200B;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}
 
 * **_Webinaire de mise à jour du produit_** : [octobre 2022 et janvier 2023 - Webinaire de mise à jour de Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

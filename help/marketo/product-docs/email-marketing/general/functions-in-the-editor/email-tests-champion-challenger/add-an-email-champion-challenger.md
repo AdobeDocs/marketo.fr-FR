@@ -49,5 +49,5 @@ Voici comment commencer.
    >[!MORELIKETHIS]
    >
    >* [Champion/Challenger : Whole Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger : Objet ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [Champion/Challenger : De l&#39;adresse ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [Champion/Challenger : Objet &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger : De l&#39;adresse &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

@@ -19,7 +19,7 @@ Il peut arriver que vous deviez enregistrer un rapport par défaut pour l’affi
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Sélectionnez un [ type de rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Sélectionnez un [&#x200B; type de rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -41,4 +41,4 @@ Il peut arriver que vous deviez enregistrer un rapport par défaut pour l’affi
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [cloner un rapport pour en regrouper ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Découvrez comment [cloner un rapport pour en regrouper &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

@@ -73,7 +73,7 @@ L’onglet Statut de migration fournit des mesures globales sur la progression d
 
 ![](assets/migrating-to-adobe-identity-7.png)
 
-En haut du Statut de migration, l’expiration de la migration des abonnements et le bouton permettant d’étendre l’expiration s’affichent. Vous trouverez plus d’informations sur l’expiration de la migration dans la section [ Expiration de la migration des utilisateurs ](#user-migration-expiration).
+En haut du Statut de migration, l’expiration de la migration des abonnements et le bouton permettant d’étendre l’expiration s’affichent. Vous trouverez plus d’informations sur l’expiration de la migration dans la section [&#x200B; Expiration de la migration des utilisateurs &#x200B;](#user-migration-expiration).
 
 La section suivante de l’onglet Statut de migration comporte deux barres de progression. La première barre de progression permet d’afficher la progression de la vérification des e-mails des utilisateurs. La deuxième barre de progression permet d’afficher l’avancement de la migration des utilisateurs et utilisatrices.
 
@@ -181,7 +181,7 @@ Les administrateurs et administratrices de produit Marketo pourront sélectionne
 
 Par exemple, un administrateur peut sélectionner un groupe d’« utilisateurs expérimentés » qu’il souhaite migrer en premier. Une fois ces migrations d’utilisateurs terminées, ils peuvent sélectionner différents groupes d’utilisateurs en fonction de variables telles que workspace/business ou function/role pour effectuer d’autres migrations d’utilisateurs par lots. Ils peuvent également décider de migrer le reste des utilisateurs et utilisatrices dans les abonnements une fois le premier lot terminé. L’objectif est d’offrir la plus grande flexibilité dans le déploiement des Adobe ID pour les utilisateurs.
 
-Toutes les migrations des utilisateurs et utilisatrices se produisent simultanément et doivent se terminer correctement en soixante secondes. Lorsqu’une migration d’utilisateur est en cours pour un utilisateur spécifique, celui-ci peut perdre l’accès pendant une minute au maximum, et cela uniquement s’il est connecté à l’application. Une fois la migration de l’utilisateur terminée, l’utilisateur recevra un e-mail lui expliquant comment se connecter à Marketo Engage avec une identité Adobe. L’utilisateur doit accepter l’invitation via le lien du bouton dans l’e-mail _avant_ pouvoir se connecter à l’aide d’une Adobe ID. Les instructions de connexion à Marketo Engage avec un [ Adobe ID sont disponibles ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
+Toutes les migrations des utilisateurs et utilisatrices se produisent simultanément et doivent se terminer correctement en soixante secondes. Lorsqu’une migration d’utilisateur est en cours pour un utilisateur spécifique, celui-ci peut perdre l’accès pendant une minute au maximum, et cela uniquement s’il est connecté à l’application. Une fois la migration de l’utilisateur terminée, l’utilisateur recevra un e-mail lui expliquant comment se connecter à Marketo Engage avec une identité Adobe. L’utilisateur doit accepter l’invitation via le lien du bouton dans l’e-mail _avant_ pouvoir se connecter à l’aide d’une Adobe ID. Les instructions de connexion à Marketo Engage avec un [&#x200B; Adobe ID sont disponibles ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 ![](assets/migrating-to-adobe-identity-18.png)
 

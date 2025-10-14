@@ -76,7 +76,7 @@ Web Personalization ajoute actuellement des données aux plateformes de remarket
 
    >[!NOTE]
    >
-   >Pour que cette fonctionnalité fonctionne[[!DNL Facebook]  vous devez avoir installé ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Custom Audience Pixel sur votre site web.
+   >Pour que cette fonctionnalité fonctionne[[!DNL Facebook]  vous devez avoir installé &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Custom Audience Pixel sur votre site web.
 
    ![](assets/three.png)
 

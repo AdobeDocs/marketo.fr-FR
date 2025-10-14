@@ -45,7 +45,7 @@ Il est très important d’exécuter l’outil Valider la synchronisation pour v
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Si vous voyez une ![ — ](assets/delete.png), alors cette étape pose un problème. Voir [Correction [!DNL Dynamics] des problèmes de synchronisation de validation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Réexécutez ensuite les étapes de validation de la synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
+1. Si vous voyez une ![&#x200B; — &#x200B;](assets/delete.png), alors cette étape pose un problème. Voir [Correction [!DNL Dynamics] des problèmes de synchronisation de validation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Réexécutez ensuite les étapes de validation de la synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
 
    >[!CAUTION]
    >

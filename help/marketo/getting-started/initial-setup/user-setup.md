@@ -124,4 +124,4 @@ Pour utiliser [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/usi
 
 <p>
 
-Maintenant que votre compte Marketo Engage est prêt, veuillez consulter notre section [ Bonnes pratiques pour une nouvelle instance Marketo Engage ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} pour tirer le meilleur parti de votre investissement et vous configurer pour une réussite à long terme.
+Maintenant que votre compte Marketo Engage est prêt, veuillez consulter notre section [&#x200B; Bonnes pratiques pour une nouvelle instance Marketo Engage &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} pour tirer le meilleur parti de votre investissement et vous configurer pour une réussite à long terme.

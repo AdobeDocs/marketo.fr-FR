@@ -48,9 +48,9 @@ Vous pouvez également [télécharger les listes de contrôle](/help/marketo/get
 
 * [Section Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [ Base de données ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
+* [&#x200B; Base de données &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [ Design Studio ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [&#x200B; Design Studio &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
 * [Activités marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
@@ -66,4 +66,4 @@ Besoin d&#39;aide supplémentaire ? Contactez-nous ou d’autres utilisateurs de
 
 * Pour obtenir une aide pratique afin de tirer le meilleur parti de votre instance Marketo Engage, contactez **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Regardez **[tutoriels vidéo organisés sur ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr){target="_blank"}** différents aspects de Marketo Engage.
+* Regardez **[tutoriels vidéo organisés sur &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr){target="_blank"}** différents aspects de Marketo Engage.

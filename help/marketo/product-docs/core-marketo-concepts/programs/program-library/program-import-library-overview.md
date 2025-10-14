@@ -20,7 +20,7 @@ La bibliothèque comprend des programmes tels que : e-mail, engagement, événem
 
 * [EM-YYYY-MM-DD-Single Email Send](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
 
-* [NL-YYYY-MM-Newsletter ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
+* [NL-YYYY-MM-Newsletter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
 * Programme de webinaire [WBN-YYYY-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 

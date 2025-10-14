@@ -32,4 +32,4 @@ ht-degree: 7%
 >[!MORELIKETHIS]
 >
 >* [Moment significatif](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [ Jetons pour les moments significatifs ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [&#x200B; Jetons pour les moments significatifs &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

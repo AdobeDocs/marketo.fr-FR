@@ -35,7 +35,7 @@ La synchronisation entre [!DNL Veeva] et Marketo Engage est bidirectionnelle uni
 
 ## Informations à connaître {#things-to-know}
 
-* Les [ informations d’identification que vous saisissez dans Marketo Engage pour  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
+* Les [&#x200B; informations d’identification que vous saisissez dans Marketo Engage pour  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
 
 * [!DNL Veeva] CRM est basé sur force.com et la riche expérience de Marketo Engage avec la plateforme est héritée dans cette synchronisation.
 

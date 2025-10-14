@@ -38,7 +38,7 @@ Pour optimiser la délivrabilité à long terme, les consultants en délivrabili
 
 >[!TIP]
 >
->Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige ](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. Ne pas envoyer de spam.
+>Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige &#x200B;](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. Ne pas envoyer de spam.
 
 >[!CAUTION]
 >

@@ -16,7 +16,7 @@ Adobe améliore la gestion de vos abonnements et de vos utilisateurs Adobe Marke
 
 >[!TIP]
 >
->Découvrez comment utiliser Adobe Admin Console pour gérer vos droits Adobe dans l’ensemble de votre organisation à l’aide du [ Guide d’administration pour les entreprises et les équipes ](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
+>Découvrez comment utiliser Adobe Admin Console pour gérer vos droits Adobe dans l’ensemble de votre organisation à l’aide du [&#x200B; Guide d’administration pour les entreprises et les équipes &#x200B;](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
 
 ## Qu’est-ce qui change ? {#what-is-changing}
 

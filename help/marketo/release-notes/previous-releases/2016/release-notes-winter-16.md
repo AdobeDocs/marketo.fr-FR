@@ -14,7 +14,7 @@ ht-degree: 5%
 
 Les fonctionnalités suivantes sont incluses dans la version d’hiver 16. Cliquez sur les liens de titre pour afficher les articles détaillés de chaque fonctionnalité.
 
-## [Filtre anonyme ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
+## [Filtre anonyme &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
 Le filtre Est anonyme a été supprimé pour les listes dynamiques. Consultez le document [FAQ sur le suivi de Munchkin de nouvelle génération](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) pour plus d’informations. Cette modification n’a aucune incidence sur le Personalization Web (RTP), qui continue d’identifier les visiteurs web anonymes et connus et de personnaliser le contenu en temps réel pour ces visiteurs.
 

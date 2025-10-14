@@ -22,7 +22,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 
 ## Création d’une audience dans [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. Dans [!DNL Facebook], accédez à l’onglet [ Audience ](https://www.facebook.com/ads/audience_manager) dans le Gestionnaire de publicités.
+1. Dans [!DNL Facebook], accédez à l’onglet [&#x200B; Audience &#x200B;](https://www.facebook.com/ads/audience_manager) dans le Gestionnaire de publicités.
 
 1. Cliquez sur **[!UICONTROL Outils]** et sélectionnez **[!UICONTROL Audiences]**.
 
@@ -130,4 +130,4 @@ Pour plus d’informations, voir [documentation de Facebook](https://developers.
 >[!MORELIKETHIS]
 >
 >* [Reciblage avec des données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [ Remarketing personnalisé dans Google ](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [&#x200B; Remarketing personnalisé dans Google &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

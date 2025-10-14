@@ -17,7 +17,7 @@ Si votre compte Adobe Marketo Engage est connecté à MS [!DNL Dynamics] par le 
 >[!PREREQUISITES]
 >
 >* La fonction « MSI non natif » est activée pour votre instance Marketo avant que vous ne commenciez à configurer MSI. Si ce n’est pas le cas et que vous avez déjà acheté la fonctionnalité, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Si vous n’avez pas encore acheté cette fonctionnalité, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
->* Téléchargez [ Package MSI pour la synchronisation personnalisée](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>* Téléchargez [&#x200B; Package MSI pour la synchronisation personnalisée](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 >* Un abonnement MS Dynamics avec configuration MSI (pour le moment, nous ne prenons en charge que [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"}).
 >* API REST Marketo [configuration réussie](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Les API CRUD exposées seront la base de l’exécution de la synchronisation non native.
 >* Lisez [cet article de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} afin de mieux comprendre l’objet et les relations.

@@ -326,7 +326,7 @@ Les avertissements se rapportent aux recommandations et aux bonnes pratiques tel
 
 >[!NOTE]
 >
->L’ajout d’une option de désabonnement n’est pas nécessaire pour les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
+>L’ajout d’une option de désabonnement n’est pas nécessaire pour les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
 
 * **Version texte d’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu d’HTML ne peut pas être affiché.
 

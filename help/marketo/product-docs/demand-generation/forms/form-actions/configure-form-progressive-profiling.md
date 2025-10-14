@@ -17,7 +17,7 @@ Les formes courtes sont bonnes ! Lorsqu’une personne revient sur un formulaire
 
 >[!NOTE]
 >
->Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [ désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
+>Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [&#x200B; désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

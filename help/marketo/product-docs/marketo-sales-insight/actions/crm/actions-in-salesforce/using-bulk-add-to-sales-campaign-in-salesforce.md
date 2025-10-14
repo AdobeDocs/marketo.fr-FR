@@ -19,7 +19,7 @@ Découvrez comment ajouter en bloc des à des campagnes de vente dans Salesforce
 
 >[!PREREQUISITES]
 >
->Assurez-vous d’avoir installé le [dernier package Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} sur votre instance Salesforce et d’avoir configuré les [ boutons d’action](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} dans les vues de liste de contacts et de leads dans Salesforce.
+>Assurez-vous d’avoir installé le [dernier package Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} sur votre instance Salesforce et d’avoir configuré les [&#x200B; boutons d’action](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} dans les vues de liste de contacts et de leads dans Salesforce.
 
 ## Ajout en bloc à la campagne de ventes dans Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 

@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Filtrer les ressources dans des rapports des e-mails de campagne {#filter-assets-in-a-campaign-email-reports}
 
-Concentrez votre rapport [ Performances des e-mails de campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) spécifiques à vos programmes (« ressources locales ») ou sur celles qui ont été archivées.
+Concentrez votre rapport [&#x200B; Performances des e-mails de campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) spécifiques à vos programmes (« ressources locales ») ou sur celles qui ont été archivées.
 
 >[!NOTE]
 >

@@ -25,7 +25,7 @@ Les fonctionnalités suivantes seront publiées le **17 janvier 2020**.
 
 ## Application Marketo Engage Adobe principale {#core-marketo-engage-adobe-application}
 
-* [Sélecteur de ressources Adobe Experience Manager ](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) : accédez rapidement aux ressources alignées sur votre marque et aux ressources AEM disponibles directement dans Marketo Engage. Remarque : bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et Classic, les fonctionnalités administratives se trouvent dans notre expérience Classic. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou ultérieure.
+* [Sélecteur de ressources Adobe Experience Manager &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) : accédez rapidement aux ressources alignées sur votre marque et aux ressources AEM disponibles directement dans Marketo Engage. Remarque : bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et Classic, les fonctionnalités administratives se trouvent dans notre expérience Classic. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou ultérieure.
 
 >[!NOTE]
 >

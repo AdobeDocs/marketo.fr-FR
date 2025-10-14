@@ -35,7 +35,7 @@ Les e-mails peuvent contenir quatre éléments différents : texte enrichi, imag
 
    >[!NOTE]
    >
-   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [ Utilisation de l’éditeur de texte enrichi ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [&#x200B; Utilisation de l’éditeur de texte enrichi &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >

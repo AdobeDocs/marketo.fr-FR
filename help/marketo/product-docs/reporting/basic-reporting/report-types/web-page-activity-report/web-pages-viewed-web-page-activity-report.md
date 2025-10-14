@@ -13,7 +13,7 @@ ht-degree: 12%
 
 # Pages web consultées, rapport d’activité de page web {#web-pages-viewed-web-page-activity-report}
 
-Dans un rapport [[!UICONTROL Activité de la page web] ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), vous pouvez afficher les pages spécifiques qui ont été consultées par les personnes qui y figurent.
+Dans un rapport [[!UICONTROL Activité de la page web] &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), vous pouvez afficher les pages spécifiques qui ont été consultées par les personnes qui y figurent.
 
 >[!PREREQUISITES]
 >

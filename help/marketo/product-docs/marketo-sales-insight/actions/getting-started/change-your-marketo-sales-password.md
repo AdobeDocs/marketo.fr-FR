@@ -39,7 +39,7 @@ Vous souhaitez modifier votre mot de passe ? Voici comment faire.
 
 ## Modifier Votre Mot De Passe Lors De La Déconnexion {#change-your-password-while-signed-out}
 
-1. Accédez à la page [ Connexion à Sales Connect](https://toutapp.com/login). Saisissez votre adresse e-mail et cliquez sur **[!UICONTROL Connexion]**.
+1. Accédez à la page [&#x200B; Connexion à Sales Connect](https://toutapp.com/login). Saisissez votre adresse e-mail et cliquez sur **[!UICONTROL Connexion]**.
 
    ![](assets/change-your-marketo-sales-password-4.png)
 

@@ -23,7 +23,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Quelles campagnes intelligentes s’affichent ? Ceux avec les déclencheurs « La campagne est demandée ». Découvrez comment configurer une campagne déclenchée [ à l’aide de « La campagne est demandée ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md) ».
+   >Quelles campagnes intelligentes s’affichent ? Ceux avec les déclencheurs « La campagne est demandée ». Découvrez comment configurer une campagne déclenchée [&#x200B; à l’aide de « La campagne est demandée &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md) ».
 
 Très cool, maintenant vos vendeurs peuvent participer activement à l&#39;effort de marketing.
 

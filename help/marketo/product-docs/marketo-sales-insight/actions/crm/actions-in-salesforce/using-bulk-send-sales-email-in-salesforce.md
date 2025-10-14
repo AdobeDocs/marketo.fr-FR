@@ -19,7 +19,7 @@ Découvrez comment envoyer des e-mails en bloc dans Salesforce pour adapter votr
 
 >[!PREREQUISITES]
 >
->Assurez-vous d’avoir installé le [dernier package Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} sur votre instance Salesforce et d’avoir configuré les [ boutons d’action](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} dans les vues de liste de contacts et de leads dans Salesforce.
+>Assurez-vous d’avoir installé le [dernier package Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} sur votre instance Salesforce et d’avoir configuré les [&#x200B; boutons d’action](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} dans les vues de liste de contacts et de leads dans Salesforce.
 
 ## Envoi d’e-mails en bloc dans Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 

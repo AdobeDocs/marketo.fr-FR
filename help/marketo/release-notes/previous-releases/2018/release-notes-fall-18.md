@@ -38,7 +38,7 @@ La personnalisation Web prend maintenant en charge plusieurs espaces de travail.
 
 ## Marketo [!DNL Sky] {#marketo-sky}
 
-Pour plus d’informations et de mises à jour, consultez nos [[!DNL Sky]  notes de mise à jour ](https://help.marketo.com).
+Pour plus d’informations et de mises à jour, consultez nos [[!DNL Sky]  notes de mise à jour &#x200B;](https://help.marketo.com).
 
 * **Concevoir des mises à jour système**
 

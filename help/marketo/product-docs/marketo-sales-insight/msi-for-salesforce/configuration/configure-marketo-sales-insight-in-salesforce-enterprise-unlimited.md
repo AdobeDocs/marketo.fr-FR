@@ -245,7 +245,7 @@ Vous devriez être en mesure de voir les champs Marketo Sales Insight pour les l
 
 >[!NOTE]
 >
->Si le test des diagnostics échoue, l’ajout [ champs supplémentaires à la mise en page ](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
+>Si le test des diagnostics échoue, l’ajout [&#x200B; champs supplémentaires à la mise en page &#x200B;](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
 
 >[!NOTE]
 >

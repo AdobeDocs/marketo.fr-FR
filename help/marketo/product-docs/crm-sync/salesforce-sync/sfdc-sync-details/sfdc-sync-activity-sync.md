@@ -25,7 +25,7 @@ La synchronisation fonctionne dans un sens, de [!DNL Salesforce] à Marketo. Cep
 
 ## Puis-je créer une tâche à l’aide de Marketo ? {#can-i-create-a-task-using-marketo}
 
-Oui, vous pouvez utiliser l’action [ Créer un flux de tâches ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
+Oui, vous pouvez utiliser l’action [&#x200B; Créer un flux de tâches &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
 
 ## Quels sont les déclencheurs/filtres liés à l’activité ? {#what-are-the-triggers-filters-related-to-activity}
 

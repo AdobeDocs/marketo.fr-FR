@@ -15,7 +15,7 @@ La synchronisation des champs d’unification des données pour les actions de S
 
 Cela fournit des données de personne à jour dans l’application web Actions de Sales Insight et permet au système de collecter des identifiants uniques pour les enregistrements de personne correspondants dans Marketo et les enregistrements de prospect/contact/compte/opportunité dans Salesforce, de sorte que les enregistrements puissent être correctement référencés pour les données de journalisation.
 
-Cette synchronisation peut être activée à partir de l’onglet Configuration des actions Sales Insight dans la section Admin de Marketo Engage. Pour plus d’informations, consultez la section [ Lancement de la synchronisation des données ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+Cette synchronisation peut être activée à partir de l’onglet Configuration des actions Sales Insight dans la section Admin de Marketo Engage. Pour plus d’informations, consultez la section [&#x200B; Lancement de la synchronisation des données &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 

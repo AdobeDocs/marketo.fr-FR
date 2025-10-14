@@ -39,7 +39,7 @@ Les fonctionnalités suivantes sont incluses dans la version de février 2014. C
 
 ## [!UICONTROL score de l’engagement] dans le rapport [!UICONTROL performances du volet Engagement] {#engagement-score-in-engagement-stream-performance-report}
 
-Nous avons ajouté le score de l’engagement au rapport [[!UICONTROL Performances du flux d’engagement] ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour vous aider à évaluer l’efficacité du contenu de votre programme d’engagement.
+Nous avons ajouté le score de l’engagement au rapport [[!UICONTROL Performances du flux d’engagement] &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour vous aider à évaluer l’efficacité du contenu de votre programme d’engagement.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 

@@ -121,7 +121,7 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
 
    Le concepteur visuel s’ouvre avec une zone de travail vide.
 
-1. Utilisez les [ outils de conception de contenu ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} pour créer le contenu du fragment visuel.
+1. Utilisez les [&#x200B; outils de conception de contenu &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} pour créer le contenu du fragment visuel.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** à tout moment pour enregistrer le brouillon de fragment.
 
@@ -184,7 +184,7 @@ Les modifications apportées à un fragment dépendent de son statut actuel :
 
 1. Effectuez les modifications souhaitées.
 
-   ![Détails du fragment avec le statut Brouillon ](assets/fragment-draft-details.png){width="600" zoomable="yes"}
+   ![Détails du fragment avec le statut Brouillon &#x200B;](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. Pour modifier le contenu dans le concepteur visuel, cliquez sur **[!UICONTROL Modifier le fragment]**. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
@@ -307,4 +307,4 @@ Lorsque vous sélectionnez le fragment sur la page de l’éditeur, ces actions 
 
 >[!MORELIKETHIS]
 >
->[ Fragments personnalisables ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
+>[&#x200B; Fragments personnalisables &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)

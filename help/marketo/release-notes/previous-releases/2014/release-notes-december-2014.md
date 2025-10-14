@@ -17,7 +17,7 @@ Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. 
 
 ## [!DNL Sales Insight] Reports {#sales-insight-reports}
 
-Le [[!DNL Sales Insight]  Rapport sur les performances des e-mails ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permet d’afficher les mesures par e-mail et par représentant commercial. Il prend en charge les e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics], le plug-in [!DNL Outlook] et le plug-in [!DNL Gmail].
+Le [[!DNL Sales Insight]  Rapport sur les performances des e-mails &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permet d’afficher les mesures par e-mail et par représentant commercial. Il prend en charge les e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics], le plug-in [!DNL Outlook] et le plug-in [!DNL Gmail].
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 

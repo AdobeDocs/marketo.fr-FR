@@ -34,4 +34,4 @@ Vous pouvez également utiliser des jetons dans des moments intéressants pour c
 >[!MORELIKETHIS]
 >
 >* [Utilisation des moments significatifs](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [ Jetons pour les moments significatifs ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [&#x200B; Jetons pour les moments significatifs &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

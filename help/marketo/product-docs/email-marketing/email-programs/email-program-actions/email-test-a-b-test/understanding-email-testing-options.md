@@ -21,6 +21,6 @@ Ceci s&#39;applique aux e-mails à usage unique qui utilisent des programmes de 
 
 ## Email Champion/Challenger {#email-champion-challenger}
 
-Pour les e-mails continus utilisés dans les campagnes intelligentes de déclenchement ou les programmes d’engagement, vous pouvez ajouter le test [ champion/challenger d’e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Cela introduira des variations dans un pourcentage continu de destinataires.
+Pour les e-mails continus utilisés dans les campagnes intelligentes de déclenchement ou les programmes d’engagement, vous pouvez ajouter le test [&#x200B; champion/challenger d’e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Cela introduira des variations dans un pourcentage continu de destinataires.
 
 Happy Testing !

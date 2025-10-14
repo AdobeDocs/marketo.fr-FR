@@ -55,7 +55,7 @@ Créez une campagne intelligente exécutée sur une personne à la fois en fonct
    >
    >Avec plusieurs déclencheurs, une personne passe par le flux si _ANY_ l’un des déclencheurs est activé.
 
-Pour exécuter la campagne sur un ensemble de personnes en même temps, découvrez comment [ Définir une liste dynamique pour une campagne dynamique | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Pour exécuter la campagne sur un ensemble de personnes en même temps, découvrez comment [&#x200B; Définir une liste dynamique pour une campagne dynamique | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

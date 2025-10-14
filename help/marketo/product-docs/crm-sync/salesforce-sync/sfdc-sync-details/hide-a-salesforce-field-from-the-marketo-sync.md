@@ -51,4 +51,4 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
 
    >[!MORELIKETHIS]
    >
-   >[ Masquer et afficher un champ ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}
+   >[&#x200B; Masquer et afficher un champ &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

@@ -29,7 +29,7 @@ Une fois la connexion unique activée, l’IdP peut valider les informations d�
 
 >[!NOTE]
 >
->Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [ tutoriel d’intégration ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
+>Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [&#x200B; tutoriel d’intégration &#x200B;](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
 
 ## Envoi de la requête {#how-to-send-the-request}
 

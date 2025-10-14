@@ -121,7 +121,7 @@ Téléchargez le programme d’installation approprié à votre version de Micro
 
 ## Mise à niveau {#upgrade}
 
-1. Identifiez votre [[!DNL Microsoft Outlook]  version ](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
+1. Identifiez votre [[!DNL Microsoft Outlook]  version &#x200B;](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 
 1. Sélectionnez votre version dans la liste ci-dessus.
 

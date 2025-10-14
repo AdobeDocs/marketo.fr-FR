@@ -31,7 +31,7 @@ Intégrez vos utilisateurs Marketo Engage à vos audiences LinkedIn.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Cliquez sur l’icône _Envoyer via Ad Bridge_ ![, ](assets/icon-ad-bridge.png) au bas de la liste.
+1. Cliquez sur l’icône _Envoyer via Ad Bridge_ ![, &#x200B;](assets/icon-ad-bridge.png) au bas de la liste.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
