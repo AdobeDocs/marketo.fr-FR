@@ -4,9 +4,9 @@ description: Descriptions des autorisations de rôle - Documents Marketo - Docum
 title: Descriptions des autorisations de rôles
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1451'
 ht-degree: 16%
 
 ---
@@ -120,7 +120,7 @@ Permet aux utilisateurs d’accéder à l’onglet Design Studio et à la vue de
 
 * Accès aux e-mails
    * Modifier l’e-mail - Donne aux utilisateurs l’autorisation de modifier, créer et cloner des e-mails
-      * Rendre les e-mails opérationnels : donne aux utilisateurs l’autorisation de rendre un e-mail opérationnel. Voir : [Rendre un email opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Créer et modifier des e-mails opérationnels - Donne aux utilisateurs l’autorisation de créer et/ou de modifier des e-mails opérationnels. Voir : [Rendre un email opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Approuver l’e-mail - Permet aux utilisateurs d’approuver les e-mails.
       * Supprimer l’e-mail - Permet aux utilisateurs de supprimer des e-mails.
