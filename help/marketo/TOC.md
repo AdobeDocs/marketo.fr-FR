@@ -1030,7 +1030,7 @@ ht-degree: 99%
          + [Création d’e-mails](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Création de modèle d’e-mail](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importer un modèle](product-docs/email-marketing/email-designer/import-template.md)
-         + [Conception de contenu accessible](product-docs/email-marketing/email-designer/accessible-content.md)
+         + [Concevoir un contenu accessible](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
          + [Thèmes de marque](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Appliquer la marque](product-docs/email-marketing/email-designer/apply-brand.md)
