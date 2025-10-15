@@ -16,7 +16,7 @@ Webinaires interactifs dans Marketo Sales Insight rend les activités de vos web
 
 >[!PREREQUISITES]
 >
->Cette fonctionnalité est uniquement prise en charge pour ceux qui ont acheté le module complémentaire Marketo Sales Insight[&#128279;](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html).
+>Cette fonctionnalité est uniquement prise en charge pour ceux qui ont acheté le module complémentaire Marketo Sales Insight[&#128279;](https://business.adobe.com/fr/products/marketo/sales-intelligence-engagement.html).
 
 Une fois les activités enregistrées dans Marketo Engage (une fois le webinaire terminé dans Adobe Connect), elles sont synchronisées en temps réel vers Salesforce via le plug-in MSI.
 

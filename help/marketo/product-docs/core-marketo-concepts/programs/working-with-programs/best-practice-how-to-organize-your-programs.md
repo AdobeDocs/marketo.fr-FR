@@ -121,4 +121,4 @@ Certaines personnes convertissent même la plupart du texte des e-mails et des l
 
 ## Résumé {#summary}
 
-Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Nous avons abordé les bases ici, mais envisagez des services supplémentaires de [experts Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système pour réussir.
+Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Nous avons abordé les bases ici, mais envisagez des services supplémentaires de [experts Marketo Engage](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système pour réussir.

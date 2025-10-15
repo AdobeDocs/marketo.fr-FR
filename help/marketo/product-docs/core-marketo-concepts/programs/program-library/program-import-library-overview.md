@@ -14,7 +14,7 @@ ht-degree: 6%
 
 La bibliothèque de référence Marketo Engage comprend plusieurs programmes de démarrage que vous pouvez importer directement dans votre instance Marketo pour lancer la création de programmes qui aideront à soutenir votre équipe.
 
-La bibliothèque comprend des programmes tels que : e-mail, engagement, événement, notation, délivrabilité et opérationnel. Tous les programmes ont été développés par l’équipe produit d’Adobe et approuvés par notre équipe [services professionnels mondiaux](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} dans le but d’optimiser la qualité et l’efficacité.
+La bibliothèque comprend des programmes tels que : e-mail, engagement, événement, notation, délivrabilité et opérationnel. Tous les programmes ont été développés par l’équipe produit d’Adobe et approuvés par notre équipe [services professionnels mondiaux](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"} dans le but d’optimiser la qualité et l’efficacité.
 
 ## Exemples de programmes disponibles {#available-program-examples}
 

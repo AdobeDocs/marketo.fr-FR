@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Il s’agit d’un exemple de programme de contenu avec un formulaire Marketo Engage pour télécharger du contenu sur une page de destination autre que Marketo Engage à l’aide d’un programme par défaut Marketo Engage. Ce programme est destiné à fonctionner avec un formulaire Marketo Engage incorporé à votre site web. Le lien vers l’offre/le contenu peut être envoyé par e-mail de remerciement.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

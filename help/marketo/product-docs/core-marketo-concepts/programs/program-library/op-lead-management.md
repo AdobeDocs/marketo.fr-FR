@@ -18,7 +18,7 @@ Il s’agit d’un exemple de workflow des bonnes pratiques de gestion de prospe
 >
 >Dans Marketo Engage, les enregistrements de votre base de données sont appelés personnes/personne. Dans cet exemple, la gestion des prospects se rapporte aux enregistrements de votre CRM.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html).
 
 ## Résumé du canal {#channel-summary}
 

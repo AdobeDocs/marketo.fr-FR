@@ -14,7 +14,7 @@ ht-degree: 22%
 
 Voici un exemple de programme d’événement avec une page d’inscription, trois e-mails d’invitation et des e-mails de relance utilisant un programme d’événement Marketo Engage. Convient à tous les événements où vous avez besoin d&#39;inscriptions, y compris les tournées, les déjeuners, les dîners ou les présentations lors d&#39;événements de salon.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
