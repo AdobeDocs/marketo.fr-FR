@@ -3,9 +3,9 @@ description: Connexion à l’aide d’OAuth 2.0 - Documents Marketo - Documenta
 title: Se connecter à l’aide d’OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---
@@ -56,11 +56,11 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. Une fois la nouvelle application client externe créée, cliquez sur l’onglet **Paramètres** et développez la section **Paramètres OAuth**.
+1. Une fois la nouvelle application client externe créée, sélectionnez l’onglet **Paramètres** et développez la section **Paramètres OAuth**.
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. Cliquez sur le bouton **Clé du client et secret du client** pour ouvrir un nouvel onglet. Copiez et enregistrez les deux nombres (vous en aurez besoin ultérieurement pour les utiliser dans Marketo Engage).
+1. Cliquez sur le bouton **Clé du client et secret** pour ouvrir un nouvel onglet. Copiez et enregistrez les deux nombres (vous en aurez besoin ultérieurement pour les utiliser dans Marketo Engage).
 
    ![](assets/log-in-using-oauth-10.png)
 
@@ -92,7 +92,7 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
    >[!CAUTION]
    >
-   >Si les champs Nom d’utilisateur/Mot de passe/Jeton s’affichent et non un bouton « Se connecter avec Salesforce », votre abonnement Marketo est activé pour l’authentification de base. Reportez-vous à la section [Configuration de Marketo avec une authentification de base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Une fois que la synchronisation commence à utiliser un ensemble d’informations d’identification, il n’est plus possible de basculer sur les informations d’identification ou l’abonnement Salesforce. Pour qu’Oauth 2.0 soit configuré pour votre authentification Salesforce, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+   >Si les champs Nom d’utilisateur/Mot de passe/Jeton s’affichent et non un bouton « Se connecter avec Salesforce », votre abonnement Marketo est activé pour l’authentification de base. Reportez-vous à la section [Configuration de Marketo avec une authentification de base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Une fois que la synchronisation commence à utiliser un ensemble d’informations d’identification, il n’est plus possible de basculer sur les informations d’identification ou l’abonnement Salesforce. Pour qu’Oauth 2.0 soit configuré pour votre authentification Salesforce, contactez l’assistance Marketo [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 1. Un pop-up s’affiche avec la page de connexion à Salesforce. Saisissez vos informations d’identification « Utilisateur de synchronisation Marketo » et connectez-vous.
 
