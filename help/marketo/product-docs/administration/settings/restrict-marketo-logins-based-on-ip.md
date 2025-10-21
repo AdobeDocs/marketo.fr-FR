@@ -4,10 +4,10 @@ description: Restreindre les connexions Marketo en fonction de l’adresse IP - 
 title: Restreindre les connexions à Marketo en fonction de l’adresse IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 7%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,12 @@ Vous pouvez empêcher ou autoriser des utilisateurs à accéder à Marketo en fo
 
 >[!IMPORTANT]
 >
->Les informations contenues dans cet article sont destinées aux utilisateurs qui se connectent directement à login.marketo.com et ne s’appliquent pas à ceux qui s’authentifient avec Adobe ID. Il n’est pas possible d’appliquer des restrictions IP sur les connexions d’authentification unique (SSO) pour le moment.
+>Adobe Admin Console (AAC) prend en charge le [contrôle d’accès basé sur IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Pour garantir une transition en douceur, les restrictions IP Marketo Engage existantes seront actives, y compris pour les utilisateurs d’Adobe ID jusqu’au 1er trimestre 2026 dans les abonnements où cette fonctionnalité est activée.
+>
+>* Vous pouvez configurer l’accès basé sur l’adresse IP AAC à tout moment.
+>* Les restrictions AAC et Marketo Engage peuvent s’exécuter simultanément. Utilisez la même liste autorisée IP pour la compatibilité.
+>
+>Après le 1er trimestre 2026, les restrictions IP de Marketo Engage seront supprimées. L’accès basé sur les adresses IP sera géré exclusivement par l’intermédiaire d’AAC et doit être configuré pour appliquer les restrictions de connexion. Une date de transition définitive sera annoncée ultérieurement.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -50,5 +55,3 @@ Vous pouvez empêcher ou autoriser des utilisateurs à accéder à Marketo en fo
    >Vous pouvez ajouter plusieurs restrictions, mais elles peuvent uniquement être AUTORISÉES POUR TOUT ou BLOQUÉES POUR TOUT. Vous ne pouvez pas mélanger et faire correspondre les valeurs autorisées et bloquées.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
-
-   Bien joué, vos données marketing sont maintenant plus sûres qu&#39;elles ne l&#39;ont jamais été !
