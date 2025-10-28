@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: ht
-source-wordcount: '688'
-ht-degree: 100%
+source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+workflow-type: tm+mt
+source-wordcount: '690'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Importateur de modèles</strong> : importez des modèles d’e-mail à partir de l’éditeur d’e-mails classique pour créer des modèles compatibles avec le nouveau concepteur d’e-mail dans Design Studio.</td>
+   <td><strong>Email Designer - Importateur de modèles</strong> : importez des modèles d’e-mail à partir de l’éditeur d’e-mail classique pour créer des modèles compatibles avec le nouveau Designer d’e-mail dans Design Studio.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
