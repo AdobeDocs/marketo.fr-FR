@@ -5,18 +5,19 @@ title: Importation de modèles
 description: Découvrez comment importer vos modèles d’e-mail existants à partir de l’éditeur classique dans le nouveau Designer d’e-mail.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '723'
 ht-degree: 1%
 
 ---
 
 # Importation de modèles {#template-import}
 
-Importez facilement vos modèles d’e-mail existants à partir de l’éditeur classique dans le nouveau Designer d’e-mail, en préservant vos conceptions et en accélérant la création de modèles avec des structures familières et réutilisables.
+Importez facilement vos modèles d’e-mail existants à partir de l’éditeur classique dans le nouveau Designer d’e-mail, en préservant vos conceptions et en accélérant la création de modèles avec des structures familières et réutilisables. Passez en revue les [bonnes pratiques](#best-practices) et découvrez les [limites et solutions](#limitations-and-remedies).
 
 1. Accédez au **Design Studio**.
 
@@ -77,6 +78,8 @@ Il est conseillé de créer des fragments de sections répétables en vue d&#39;
 * Après l’importation, vous pouvez enregistrer des sections réutilisables en tant que fragments et les approuver pour qu’elles soient utilisées par les auteurs d’e-mails. Appliquez des thèmes de marque pour maintenir la cohérence et la conformité.
 
 * Vous pouvez continuer à utiliser les scripts Velocity et envisager de réimplémenter d’anciens fragments de code à l’aide d’une combinaison de fragments et de contenu conditionnel pour une flexibilité et un contrôle améliorés.
+
+## Restrictions et recours {#limitations-and-remedies}
 
 <table><thead>
   <tr>
