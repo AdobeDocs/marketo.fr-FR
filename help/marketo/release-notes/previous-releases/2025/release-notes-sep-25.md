@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   <tr>
    <td><strong>Conservation des activités de webinaire à la demande</strong> : les utilisateurs et utilisatrices de webinaires interactifs disposent désormais de données de tableau de bord de webinaires à la demande disponibles pendant plus de 30 jours (auparavant, elles n’étaient disponibles que 30 jours maximum à compter de la date du webinaire).</td>
    <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
   </tr>
   <tr>
    <td> </td>
