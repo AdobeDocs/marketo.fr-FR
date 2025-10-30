@@ -2,7 +2,7 @@
 description: Notes De Mise À Jour - Septembre 2025 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Septembre 2025
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 98%
@@ -32,8 +32,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Conservation des activités de webinaire à la demande</strong> : les utilisateurs et utilisatrices de webinaires interactifs disposent désormais de données de tableau de bord de webinaires à la demande disponibles pendant plus de 30 jours (auparavant, elles n’étaient disponibles que 30 jours maximum à compter de la date du webinaire).</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Expédié</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
   </tr>
   <tr>
    <td> </td>
