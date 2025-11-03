@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation du prod
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1c4fc86d7eed3babf697b139f11707ec94443c7c
+source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 70%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 **Statut** :
 
-* Prévu : nous prévoyons de publier les fonctionnalités et les améliorations à la date indiquée.
-* En cours : nous sommes en train de déployer les fonctionnalités de la version.
-* Expédié : la version est publiée.
+* **Selon le calendrier** - Nous prévoyons de publier les fonctionnalités et améliorations à la date indiquée
+* **En cours** - Nous sommes en train de déployer les fonctionnalités de cette version
+* **Expédié** - La version est terminée
 
 _Les dates de publication et les fonctionnalités sont susceptibles d’être modifiées._
 
@@ -33,20 +33,6 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <th width="250px">Statut</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Janvier 2025</a></td>
-   <td>17 janvier 2025</td>
-   <td>Expédié</td>
-  </tr>
-   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Mars 2025</a></td>
-   <td>28 mars 2025</td>
-   <td>Expédié</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Avril 2025</a></td>
-   <td>Avril 2025</td>
-   <td>Expédié</td>
-  </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mai 2025</a></td>
    <td>23 mai 2025</td>
@@ -71,6 +57,10 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <td><a href="/help/marketo/release-notes/current.md">Octobre 2025</a></td>
    <td>31 octobre 2025</td>
    <td>En cours</td>
+  </tr>
+  <td>Janvier 2026</td>
+   <td>samedi 30 janvier 2026</td>
+   <td>Selon le calendrier</td>
   </tr>
  </tbody>
 </table>
