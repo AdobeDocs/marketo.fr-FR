@@ -8,9 +8,9 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -19,37 +19,39 @@ ht-degree: 1%
 
 Importez facilement vos modèles d’e-mail existants à partir de l’éditeur classique dans le nouveau Designer d’e-mail, en préservant vos conceptions et en accélérant la création de modèles avec des structures familières et réutilisables. Passez en revue les [bonnes pratiques](#best-practices) et découvrez les [limites et solutions](#limitations-and-remedies).
 
+>[!NOTE]
+>
+>Les modèles d’e-mail classiques ont été développés à l’aide d’HTML libre. Par conséquent, cet importateur ne peut pas toujours importer parfaitement tous les composants. Vérifiez les modèles importés pour vous assurer que toutes les sections sont modifiables et correctement mappées. Si une zone n’est pas sélectionnable, recréez-la pour obtenir de meilleurs résultats.
+
+## Importer un modèle {#import-a-template}
+
 1. Accédez au **Design Studio**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-1.png)
 
 1. Cliquez sur **Modèles d’e-mail** puis sélectionnez **Modèles d’e-mail (nouveau)**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-2.png)
 
 1. Cliquez sur **Créer un modèle**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-3.png)
 
 1. Saisissez un _Nom_ et (facultatif) un _Description_.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-4.png)
 
-1. Cliquez sur les **Modèles Marketo** puis choisissez les Modèles existants créés dans l’éditeur d’e-mail classique.
+1. Cliquez sur l’onglet **Modèles Marketo** et choisissez parmi les Modèles existants créés dans l’éditeur d’e-mail classique.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >Seuls les modèles approuvés et les modèles qui ont été partagés avec l&#39;espace de travail actuel peuvent être importés.
 
-1. Sélectionnez le modèle souhaité.
+1. Cliquez sur **Utiliser ce modèle**.
 
-   CAPTURE D’ÉCRAN
-
-1. Cliquez sur Utiliser ce modèle.
-
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-6.png)
 
 1. Le modèle importé s’ouvre dans le Designer d’e-mail.
 
@@ -61,19 +63,19 @@ Il est conseillé de créer des fragments de sections répétables en vue d&#39;
 
 1. Cliquez sur le bouton **...Plus** en haut et sélectionnez **Enregistrer en tant que fragment**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-7.png)
 
 1. Sélectionnez un composant ou une structure, puis cliquez sur **Créer**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-8.png)
 
 1. Saisissez un nom (et une description facultative) et cliquez sur **Enregistrer**.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/import-template-9.png)
 
 ## Bonnes pratiques {#best-practices}
 
-* Comme le style libre d’HTML peut varier considérablement, l’importateur peut ne pas toujours interpréter tous les composants parfaitement. Vérifiez les modèles importés pour vous assurer que toutes les sections sont modifiables et correctement mappées. Si un article n&#39;est pas sélectionnable, recréez simplement cette section pour obtenir les meilleurs résultats.
+* Les modèles d’e-mail classiques ont été développés à l’aide d’HTML libre. Par conséquent, cet importateur ne peut pas toujours importer parfaitement tous les composants. Vérifiez les modèles importés pour vous assurer que toutes les sections sont modifiables et correctement mappées. Si une zone n’est pas sélectionnable, recréez-la pour obtenir de meilleurs résultats.
 
 * Après l’importation, vous pouvez enregistrer des sections réutilisables en tant que fragments et les approuver pour qu’elles soient utilisées par les auteurs d’e-mails. Appliquez des thèmes de marque pour maintenir la cohérence et la conformité.
 
@@ -113,7 +115,7 @@ Il est conseillé de créer des fragments de sections répétables en vue d&#39;
   <tr>
     <td>Les puces ne sont pas prises en charge de manière native.</td>
     <td>Le Designer d’e-mail ne propose pas de puces pour le moment.</td>
-    <td>Envisagez de réimplémenter les puces à l’aide de techniques alternatives.</td>
+    <td>Envisagez de recréer des puces à l’aide d’autres techniques.</td>
   </tr>
   <tr>
     <td>L’alignement vertical est déformé lorsque le contenu du conteneur ne respecte pas la valeur d’attribut valign.</td>
@@ -143,6 +145,6 @@ Il est conseillé de créer des fragments de sections répétables en vue d&#39;
   <tr>
     <td>Les fragments de code de l’ancien modèle ne fonctionnent pas dans le Designer d’e-mail.</td>
     <td>Le Designer d’e-mail ne prend pas en charge les fragments de code.</td>
-    <td>Réimplémentez vos fragments de code en tant que fragments de code associés à du contenu conditionnel.</td>
+    <td>Recréez vos fragments de code en tant que fragments de code associés à du contenu conditionnel.</td>
   </tr>
 </tbody></table>
