@@ -2,9 +2,9 @@
 description: Notes De Mise À Jour - Septembre 2025 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Septembre 2025
 feature: Release Information
-source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '704'
 ht-degree: 98%
 
 ---
@@ -33,17 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   <tr>
    <td><strong>Conservation des activités de webinaire à la demande</strong> : les utilisateurs et utilisatrices de webinaires interactifs disposent désormais de données de tableau de bord de webinaires à la demande disponibles pendant plus de 30 jours (auparavant, elles n’étaient disponibles que 30 jours maximum à compter de la date du webinaire).</td>
    <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Concepteur d’e-mail - Workflow de collaboration de contenu</strong> : vous pouvez désormais apporter des commentaires à propos des autres utilisateurs et utilisatrices de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les personnes membres de l’équipe (les utilisateurs et utilisatrices de Marketo qui disposent des autorisations appropriées sur les ressources) et elles recevront une notification push ou un e-mail.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -71,9 +61,19 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Concepteur d’e-mail - Workflow de collaboration de contenu</strong> : vous pouvez désormais apporter des commentaires à propos des autres utilisateurs et utilisatrices de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les personnes membres de l’équipe (les utilisateurs et utilisatrices de Marketo qui disposent des autorisations appropriées sur les ressources) et elles recevront une notification push ou un e-mail.</td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">Collaboration par e-mail</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Concepteur d’e-mail - Correctifs de redirection</strong> : certaines personnes rencontraient des problèmes de redirection avec les URL pour les e-mails créés à l’aide du nouveau concepteur (par exemple, le collage direct des URL ou la création de signets sur des ressources d’e-mail ne fonctionnaient pas toujours). Ce problème a été résolu. En outre, les liens vers des ressources d’e-mail provenant de <b>Modèles d’e-mail</b> &gt; <b>Détails</b> &gt; <b>Utilisé par</b> redirigeront vers la ressource d’e-mail correspondante.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
