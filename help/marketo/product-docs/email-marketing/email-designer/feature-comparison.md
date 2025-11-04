@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 14%
+source-wordcount: '888'
+ht-degree: 15%
 
 ---
 
@@ -259,24 +259,24 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Scripts Velocity</td>
     <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
     <td>Disponible</td>
-    <td>Disponible bientôt</td>
-  </tr>
-  <tr>
-    <td>Workflows d’approbation de contenu</td>
-    <td>Possibilité d’introduire des workflows d’approbation pour les e-mails dans Marketo Engage.</td>
-    <td>Non disponible</td>
-    <td>Prévu pour le T4-25</td>
+    <td>Bientôt disponible</td>
   </tr>
   <tr>
     <td>Kit de marque</td>
     <td>Possibilité d’améliorer les e-mails en fonction des directives de la marque.</td>
     <td>Non disponible</td>
-    <td>Prévu pour le T1-26</td>
+    <td>Bientôt disponible</td>
   </tr>
   <tr>
     <td>Expérimentation (Test A/B)</td>
     <td>Possibilité de tester les e-mails avant de les envoyer à votre audience.</td>
     <td>Disponible</td>
+    <td>Bientôt disponible</td>
+  </tr>
+  <tr>
+    <td>Workflows d’approbation de contenu</td>
+    <td>Possibilité d’introduire des workflows d’approbation pour les e-mails dans Marketo Engage.</td>
+    <td>Non disponible</td>
     <td>À déterminer</td>
   </tr>
   <tr>
@@ -292,7 +292,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>À déterminer</td>
   </tr>
   <tr>
-    <td>Predictive Content</td>
+    <td>Contenu prédictif</td>
     <td>Capacité à prédire le contenu d’une base de connaissances dans l’e-mail en fonction de l’audience cible.</td>
     <td>Disponible</td>
     <td>Non disponible</td>
