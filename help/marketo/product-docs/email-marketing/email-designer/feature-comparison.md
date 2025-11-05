@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '885'
 ht-degree: 15%
 
 ---
@@ -208,6 +208,12 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Disponible par référence d’Assets</td>
   </tr>
   <tr>
+    <td>Convertisseur de modèles d’e-mail</td>
+    <td>Possibilité d’<a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">importer des modèles Marketo existants</a> dans le nouveau Designer d’e-mail.</td>
+    <td>Pas nécessaire</td>
+    <td>Disponible</td>
+  </tr>
+  <tr>
     <td>Glisser-déposer sur la zone de travail</td>
     <td>Possibilité de glisser-déposer la structure et le contenu sur la zone de travail.</td>
     <td>Modules uniquement</td>
@@ -241,12 +247,6 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Prise en charge du déplacement, de la suppression et de l’importation de programmes avec des ressources de messagerie</td>
     <td>Possibilité de déplacer, supprimer et importer des programmes de messagerie avec des ressources de messagerie.</td>
     <td>Disponible</td>
-    <td>Bientôt disponible</td>
-  </tr>
-  <tr>
-    <td>Convertisseur/importation de modèles Marketo</td>
-    <td>Possibilité de convertir les modèles Marketo existants pour les adapter au nouveau Designer d’e-mail.</td>
-    <td>Pas nécessaire</td>
     <td>Bientôt disponible</td>
   </tr>
   <tr>
