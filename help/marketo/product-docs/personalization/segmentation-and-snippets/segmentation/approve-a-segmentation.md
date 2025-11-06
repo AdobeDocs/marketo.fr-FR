@@ -4,9 +4,9 @@ description: Approuver une segmentation - Documents Marketo - Documentation du p
 title: Approuver une segmentation
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -26,22 +26,23 @@ Une segmentation doit être approuvée avant de pouvoir être utilisée.
 
 1. Accédez à la **[!UICONTROL Base de données]**.
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. Dans la Segmentation, cliquez sur **[!UICONTROL Actions de segmentation]**, puis sur **[!UICONTROL Approuver]**.
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >Le statut passe à [!UICONTROL Approbation] avec un rouet (![](assets/image2014-9-15-15-3a31-3a43.png)) pendant que l’approbation est en cours.
+   >Le statut passe à _Approbation_ pendant que l’approbation est en cours.
 
    >[!CAUTION]
    >
-   >L&#39;approbation peut prendre de quelques minutes à plus d&#39;une journée, selon la taille de la base de données.
+   >L&#39;approbation peut prendre de quelques minutes à un jour ou deux, selon la taille de la base de données.
 
-   Une fois approuvé, le [!UICONTROL Statut] passe de [!UICONTROL Approbation] à [!UICONTROL Approuvé].
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. Une fois approuvé, le [!UICONTROL Statut] passe de [!UICONTROL Approbation] à [!UICONTROL Approuvé].
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ Une segmentation doit être approuvée avant de pouvoir être utilisée.
 
 1. L’onglet **[!UICONTROL Personnes]** dans le **[!UICONTROL Segment]** affiche désormais la liste finale des personnes du segment.
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >

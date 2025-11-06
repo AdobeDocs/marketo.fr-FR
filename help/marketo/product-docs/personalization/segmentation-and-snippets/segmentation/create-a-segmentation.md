@@ -4,9 +4,9 @@ description: Création d’une segmentation - Documents Marketo - Documentation 
 title: Créer une segmentation
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 La segmentation vous permet de regrouper des personnes en profils distincts pour le compte rendu des performances et le contenu dynamique. Voici comment les créer.
 
-1. Accédez à **[!UICONTROL Base de données]**.
+1. Accédez à votre **[!UICONTROL Base de données]**.
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. Cliquez sur **[!UICONTROL Nouveau]** puis sur **[!UICONTROL Nouvelle segmentation]**.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ La segmentation vous permet de regrouper des personnes en profils distincts pour
 
 1. Saisissez un **[!UICONTROL Nom]**, cliquez sur **[!UICONTROL Ajouter un segment]** et attribuez-lui un nom.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ La segmentation vous permet de regrouper des personnes en profils distincts pour
 
 1. Ajoutez autant de segments que vous le souhaitez (jusqu’à 100).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ La segmentation vous permet de regrouper des personnes en profils distincts pour
 
 1. Faites glisser et déposez les segments pour modifier leur ordre. Une fois que vous avez terminé, cliquez sur **[!UICONTROL Créer]**.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
