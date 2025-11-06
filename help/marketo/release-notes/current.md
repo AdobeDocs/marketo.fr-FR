@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Importateur de modèles (Beta)</strong> : importez des modèles d’e-mail à partir de l’éditeur d’e-mail classique pour créer des modèles compatibles avec le nouveau Designer d’e-mail dans Design Studio.</td>
+   <td><strong>Concepteur d’e-mail : importateur de modèles (version bêta)</strong> : importez des modèles d’e-mail à partir de l’éditeur d’e-mail classique pour créer des modèles compatibles avec le nouveau concepteur d’e-mail dans Design Studio.</td>
    <td>Expédié</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importation de modèles</a></td>
   </tr>
@@ -95,7 +95,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 ## Annonces {#announcements}
 
-* **Mise à niveau de l’intégration CRM Salesforce** : une nouvelle version de l’intégration CRM native sera déployée sur les sandbox actifs pour lesquels le connecteur natif sera activé au cours des sept prochains jours, à compter du 13 novembre 2025. Retrouvez tous les détails dans [ce billet Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Mise à niveau de l’intégration CRM Salesforce** : une nouvelle version de l’intégration CRM native sera déployée sur les sandbox actifs pour lesquels le connecteur natif sera activé au cours des sept prochains jours, à compter du 13 novembre 2025. Retrouvez tous les détails dans [cette publication Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}.
 
 * **Obsolescence de la double barre oblique de l’API REST** : le 16 septembre 2025, Adobe a effectué une transition vers une infrastructure d’hébergement plus moderne pour les URL d’API REST qui tire parti d’une technologie plus récente et améliore la sécurité et l’évolutivité. Si votre abonnement utilise des API avec une double barre oblique (//) dans l’URL, lisez [cette publication de Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} pour connaître les prochaines étapes.
 
