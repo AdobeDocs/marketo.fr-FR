@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -86,8 +86,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Cloner l’action d’e-mail</strong> : vous pouvez désormais cloner un e-mail dans un autre dossier de programme des activités marketing et réutiliser rapidement les e-mails existants.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Expédié</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
