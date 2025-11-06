@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1332'
+source-wordcount: '1278'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Grâce à la technologie d’IA générative, le convertisseur image en HTML ana
 >[!PREREQUISITES]
 >
 >* Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
->* Vous devez disposer des autorisations _Nom d’accès_ ainsi que _Accéder au modèle d’e-mail_ activées [dans votre rôle Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir une image {#convert-an-image}
 
@@ -46,14 +46,6 @@ Pour convertir une image en modèle d’e-mail HTML entièrement personnalisable
 1. Saisissez un _Nom du modèle_ et une description facultative. Vous pouvez également choisir le style de votre marque. Chargez ou faites glisser et déposez l’image souhaitée.
 
    ![](assets/image-to-html-3.png)
-
-   DEEPTHI PUIS-JE DELETE CETTE BALISE D’AVERTISSEMENT...
-
-   >[!CAUTION]
-   >
-   >Lorsque vous téléchargez une image pour la conversion, **tout le contenu actuellement ajouté dans l’e-mail sera supprimé et remplacé** par le modèle généré. Si votre e-mail contient du contenu existant, veillez à l’enregistrer avant de poursuivre la conversion d’image.
-
-   DEEPTHI PUIS-JE DELETE CETTE BALISE D’AVERTISSEMENT ^^^
 
 1. Faites défiler vers le bas et cochez la case _Le fichier de chargement ne contient pas..._ . Cliquez sur **Convertir**.
 
