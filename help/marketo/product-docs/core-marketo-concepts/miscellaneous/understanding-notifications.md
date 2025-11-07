@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Présentation Des Notifications - Documents Marketo - Documentation Du Produit
 title: Présentation des notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 3%
@@ -38,7 +38,7 @@ Vous pouvez vous abonner à des notifications pour les recevoir dans votre e-mai
 
 >[!NOTE]
 >
->La zone **[!UICONTROL Envoyer à]** vous permet uniquement de saisir une adresse e-mail ; elle n’affiche pas de liste des abonnés existants.
+>La zone _[!UICONTROL Envoyer à]_ vous permet uniquement de saisir une adresse e-mail ; elle n’affiche pas de liste des abonnés existants.
 
 Dans certains cas, une notification fournit un lien « Voir la liste complète » pour télécharger un fichier de valeurs séparées par des virgules (CSV), par exemple, le fichier des erreurs de synchronisation Microsoft Dynamics. Marketo Engage conserve ces fichiers CSV pendant 30 jours. Si vous tentez de télécharger le fichier après 30 jours, vous obtiendrez une erreur 404.
 
