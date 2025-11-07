@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1287'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Grâce à la technologie d’IA générative, le convertisseur image en HTML ana
 >[!PREREQUISITES]
 >
 >* Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
->* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir une image {#convert-an-image}
 
@@ -53,7 +53,7 @@ Pour convertir une image en modèle d’e-mail HTML entièrement personnalisable
    >
    >Le processus de génération peut prendre jusqu’à cinq minutes selon la complexité et la taille de votre conception d’image. Le traitement de l’IA se produit en arrière-plan. Vous pouvez donc quitter cet écran et travailler sur d’autres tâches pendant que la conversion est en cours. Vous devrez peut-être actualiser l’écran de la bibliothèque _Modèle d’e-mail_ pour afficher le changement de statut.
 
-1. Une fois la conversion terminée, votre modèle est automatiquement enregistré en tant que brouillon. Sélectionnez-le.
+1. Une fois la conversion terminée, votre modèle est automatiquement enregistré en tant que brouillon. Cliquez sur son nom pour l’afficher/le modifier.
 
    ![](assets/image-to-html-5.png)
 
