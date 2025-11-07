@@ -23,7 +23,7 @@ Grâce à la technologie d’IA générative, le convertisseur image en HTML ana
 >[!PREREQUISITES]
 >
 >* Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
->* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir une image {#convert-an-image}
 
