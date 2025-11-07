@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Contenu conditionnel</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>Concepteur d’e-mail - Convertisseur d’images en HTML</strong> : chargez un fichier image PNG/JPEG conforme d’un e-mail et il sera automatiquement converti en HTML pour être utilisé dans le nouveau concepteur d’e-mail.</td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Convertir des images en modèles HTML</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Concepteur d’e-mail - Cloner l’action d’e-mail</strong> : vous pouvez désormais cloner un e-mail dans un autre dossier de programme des activités marketing et réutiliser rapidement les e-mails existants.</td>
+   <td>Expédié</td>
+   <td>s/o</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><i>Bientôt disponible</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><strong>Concepteur d’e-mail - Thèmes de marque</strong> : vous pouvez désormais définir des thèmes de marque dans Marketo Engage. Les configurations de style peuvent être réutilisées et appliquées aux modèles d’e-mail et aux autres ressources d’e-mail pour garantir la cohérence de la marque.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>Concepteur d’e-mail - Convertisseur d’images en HTML</strong> : chargez un fichier image PNG/JPEG conforme d’un e-mail et il sera automatiquement converti en HTML pour être utilisé dans le nouveau concepteur d’e-mail.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Concepteur d’e-mail - Cloner l’action d’e-mail</strong> : vous pouvez désormais cloner un e-mail dans un autre dossier de programme des activités marketing et réutiliser rapidement les e-mails existants.</td>
-   <td>Expédié</td>
-   <td>s/o</td>
   </tr>
   </tbody>
 </table>

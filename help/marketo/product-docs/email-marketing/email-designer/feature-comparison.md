@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 15%
+source-wordcount: '883'
+ht-degree: 14%
 
 ---
 
@@ -226,12 +226,6 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Glisser-déposer un fragment</td>
   </tr>
   <tr>
-    <td>Thèmes globaux</td>
-    <td>Possibilité d’appliquer les thèmes approuvés dans l’ensemble de l’organisation pour garantir la cohérence des éléments tels que le style, la couleur, la taille de police, etc.</td>
-    <td>Non disponible</td>
-    <td>Bientôt disponible</td>
-  </tr>
-  <tr>
     <td>Contenu Dynamique/Contenu Conditionnel</td>
     <td>Possibilité de <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">créer des variantes</a> dans les e-mails en fonction de l’audience cible.</td>
     <td>Disponible</td>
@@ -239,9 +233,9 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   </tr>
   <tr>
     <td>Image vers HTML</td>
-    <td>Possibilité de convertir une image en HTML, puis de l’utiliser pour créer des e-mails.</td>
+    <td>Possibilité de <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">convertir une image en HTML</a> puis de l’utiliser pour créer des e-mails.</td>
     <td>Non disponible</td>
-    <td>Bientôt disponible</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Prise en charge du déplacement, de la suppression et de l’importation de programmes avec des ressources de messagerie</td>
@@ -264,6 +258,12 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   <tr>
     <td>Kit de marque</td>
     <td>Possibilité d’améliorer les e-mails en fonction des directives de la marque.</td>
+    <td>Non disponible</td>
+    <td>Bientôt disponible</td>
+  </tr>
+  <tr>
+    <td>Thèmes globaux</td>
+    <td>Possibilité d’appliquer les thèmes approuvés dans l’ensemble de l’organisation pour garantir la cohérence des éléments tels que le style, la couleur, la taille de police, etc.</td>
     <td>Non disponible</td>
     <td>Bientôt disponible</td>
   </tr>

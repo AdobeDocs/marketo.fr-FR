@@ -5,10 +5,10 @@ title: Contenu conditionnel
 description: Utilisez du contenu conditionnel dans vos e-mails pour afficher le contenu de manière dynamique en fonction du destinataire.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '304'
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ Le contenu conditionnel vous permet de contrôler dynamiquement le contenu vu pa
 
    ![](assets/conditional-content-2.png)
 
-1. La boîte devient orange. Sur la gauche, cliquez sur l’icône _Sélectionner une condition_ pour définir votre variante.
+1. La zone de surbrillance devient orange. Sur la gauche, cliquez sur l’icône _Sélectionner la condition_ (![](assets/icon-select-condition.png)) pour définir votre variante.
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
@@ -46,7 +46,11 @@ Le contenu conditionnel vous permet de contrôler dynamiquement le contenu vu pa
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. La nouvelle image s’affiche. Il est préférable de renommer votre variante pour la rendre plus facile à identifier.
+1. La nouvelle image s’affiche. Il est préférable de renommer votre variante pour la rendre plus facile à identifier. Il vous suffit de cliquer sur les points de suspension et de sélectionner **Renommer**.
+
+   >[!NOTE]
+   >
+   >Cliquer sur les points de suspension vous permet également d’afficher la condition définie de la variante, ainsi que de la dupliquer. Si vous disposez de plusieurs variantes, une option de suppression est disponible. Si vous n’avez qu’une seule variante, la manière de la supprimer est de simplement cliquer de nouveau sur l’icône _Activer le contenu conditionnel_ (elle se lira désormais _Désactiver le contenu conditionnel_ lorsque vous passerez la souris dessus).
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
