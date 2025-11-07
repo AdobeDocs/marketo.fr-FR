@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 99%
 
 ---
@@ -43,8 +43,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Contenu conditionnel</strong> : fonction de parité du nouveau concepteur d’e-mail, qui vous permet de personnaliser les e-mails au-delà de l’utilisation des jetons.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Contenu conditionnel</a></td>
   </tr>
   <tr>
   <tr>
