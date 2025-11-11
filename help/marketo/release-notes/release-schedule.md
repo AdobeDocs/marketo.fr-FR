@@ -5,9 +5,9 @@ title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 70%
 
 **Statut** :
 
-* **Selon le calendrier** - Nous prévoyons de publier les fonctionnalités et améliorations à la date indiquée
-* **En cours** - Nous sommes en train de déployer les fonctionnalités de cette version
-* **Expédié** - La version est terminée
+* **Prévu** : nous prévoyons de publier les fonctionnalités et les améliorations à la date indiquée.
+* **En cours** : nous sommes en train de déployer les fonctionnalités de la version.
+* **Expédié** : la version est publiée.
 
 _Les dates de publication et les fonctionnalités sont susceptibles d’être modifiées._
 
@@ -58,9 +58,9 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <td>31 octobre 2025</td>
    <td>En cours</td>
   </tr>
-  <td>Janvier 2026</td>
-   <td>samedi 30 janvier 2026</td>
-   <td>Selon le calendrier</td>
+  <td>Janvier 2026</td>
+   <td>30 janvier 2026</td>
+   <td>Prévu</td>
   </tr>
  </tbody>
 </table>
