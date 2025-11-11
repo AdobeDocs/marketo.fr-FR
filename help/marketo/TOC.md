@@ -1031,7 +1031,7 @@ ht-degree: 99%
          + [Contenu conditionnel](product-docs/email-marketing/email-designer/conditional-content.md)
          + [Création de modèle d’e-mail](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importer un modèle](product-docs/email-marketing/email-designer/import-template.md)
-         + [Convertir des images en modèles HTML](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [Convertir des images en modèles HTML](product-docs/email-marketing/email-designer/image-to-html.md)
          + [Concevoir un contenu accessible](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
          + [Thèmes de marque](product-docs/email-marketing/email-designer/brand-themes.md)

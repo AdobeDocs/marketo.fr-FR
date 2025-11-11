@@ -34,7 +34,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   <tr>
    <td><strong>Concepteur d’e-mail : importateur de modèles (version bêta)</strong> : importez des modèles d’e-mail à partir de l’éditeur d’e-mail classique pour créer des modèles compatibles avec le nouveau concepteur d’e-mail dans Design Studio.</td>
    <td>Expédié</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importation de modèles</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Import de modèle</a></td>
   </tr>
   <tr>
    <td> </td>
