@@ -8,10 +8,10 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
 workflow-type: tm+mt
-source-wordcount: '1365'
-ht-degree: 5%
+source-wordcount: '1226'
+ht-degree: 4%
 
 ---
 
@@ -25,132 +25,134 @@ Cette fonctionnalité permet aux spécialistes du marketing d’utiliser plus ra
 
 * Lors de la création d’un e-mail en partant de zéro, vous pouvez choisir de commencer à créer votre contenu à l’aide d’un thème afin d’appliquer rapidement un style spécifique adapté à votre marque et à votre conception. Si vous choisissez le mode Classique, vous ne pourrez appliquer aucun thème à moins de réinitialiser votre e-mail.
 
-* Les fragments ne sont pas compatibles entre les modes Thème et Classique. Pour pouvoir utiliser un fragment dans un contenu auquel un thème est appliqué, ce fragment doit être créé en mode Thème.
+* Les fragments ne sont pas compatibles entre les modes Thème et Classique. Pour pouvoir utiliser un fragment dans un contenu auquel un thème est appliqué, il doit être créé en mode Thème.
 
-* La mise à jour des thèmes ne se répercute pas automatiquement sur toutes les ressources qui les utilisent. Les utilisateurs doivent modifier des objets individuels pour actualiser le thème.
+* La mise à jour d’un thème ne se répercute pas automatiquement sur toutes les ressources qui les utilisent. Vous devez modifier des objets individuels pour actualiser le thème.
 
-* Lorsque les thèmes sont supprimés, cela n’affecte pas les ressources qui les utilisent.
+* Lorsque des thèmes sont supprimés, cela n’affecte pas les ressources qui les utilisent.
 
-## Création de thèmes de marque
+## Créer un thème de marque {#create-a-brand-theme}
 
-La création de thèmes de marque est disponible dans le panneau de sélection de modèles de l’éditeur. Vous pouvez accéder à ce panneau au fur et à mesure que vous créez un modèle ou dans Modifier la conception à partir de l’éditeur.
+1. Suivez les étapes de [création d’un modèle d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-CAPTURE D’ÉCRAN
+1. Sur l’écran _Concevoir votre modèle_, sélectionnez **Créer ou modifier des thèmes**.
 
-Cliquez sur Modifier votre conception.
+   ![](assets/brand-themes-1.png)
 
-CAPTURE D’ÉCRAN
+1. Sélectionnez le Thème par défaut comme base à créer de A à Z et cliquez sur **Créer**.
 
-Cliquez sur Créer ou modifier des thèmes
+   ![](assets/brand-themes-2.png)
 
-CAPTURE D’ÉCRAN
+1. La zone de travail s’ouvre pour que vous puissiez modifier différentes parties du thème.
 
-Sélectionnez le Thème par défaut comme base de création, puis cliquez sur Créer. Le thème contiendra des éléments de tous types de texte, boutons et conteneurs pour que vous puissiez voir les modifications au fur et à mesure que vous définissez le thème.
+   ![](assets/brand-themes-3.png)
 
-Remarque : vous pouvez modifier des thèmes existants à l’aide du bouton radio Thèmes personnalisés .
+## Paramètres
 
-CAPTURE D’ÉCRAN
+Toutes les options de paramétrage sont accessibles à partir des icônes situées à droite. Passons en revue chacun d&#39;eux.
 
-La zone de travail s’ouvre pour que vous puissiez modifier différentes parties du thème.
-
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-4.png)
 
 ### Paramètres généraux {#general-settings}
 
 Nommez le thème et ajustez la taille de la fenêtre d’affichage.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-5.png)
 
-### Paramètres de couleur {#color-settings}
+### Couleurs {#colors}
 
-Ensuite, ajustez la palette de couleurs sur le rail de droite.
+Lorsque vous effectuez des ajustements de couleur, observez les modifications qui prennent effet sur le panneau principal.
 
-Remarque : lorsque vous apportez des modifications, observez celles-ci prendre effet dans le panneau principal.
+![](assets/brand-themes-6.png)
 
-CAPTURE D’ÉCRAN
+>[!NOTE]
+>
+>Un ensemble d’échantillons est déjà configuré pour vous en fonction du thème par défaut.
 
-Modifier la palette de couleurs
+Cliquez sur **Modifier**.
 
-Notez qu’un ensemble d’échantillons déjà configuré pour vous en fonction du thème par défaut.
+![](assets/brand-themes-7.png)
 
 Vous pouvez choisir parmi des paramètres prédéfinis ou configurer individuellement chaque couleur de la visionneuse. La sélection de la palette rend ces couleurs accessibles sous les différents paramètres de couleur ultérieurement.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-8.png)
 
-Après avoir configuré les paramètres prédéfinis, cliquez sur le symbole Précédent.
+Une fois la modification terminée, cliquez sur la flèche vers l’arrière (![icône de flèche vers l’arrière](assets/icon-back-arrow.png)) pour revenir en arrière.
 
-Modifiez la variante en utilisant le symbole de crayon en regard de Variante 1.
+Pour modifier une variante, cliquez sur son icône en forme de crayon.
 
-Remarque : vous pouvez créer jusqu’à 6 variantes.
+![](assets/brand-themes-.png)
 
-CAPTURE D’ÉCRAN
+>[!NOTE]
+>
+>Vous pouvez créer jusqu’à six variantes.
 
-Dans le panneau d’édition, vous pouvez définir des couleurs pour différents éléments.
+Plusieurs éléments peuvent être personnalisés.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
-Les paramètres sont des groupes sous les grands titres suivants.
+Les paramètres des variantes sont regroupés dans les catégories suivantes :
 
-Général
-En-têtes
-Paragraphes
-Boutons
+* Général
+* Titres
+* Paragraphes
+* Boutons
 
-### Paramètres généraux de NOM {#general-name-settings}
+**Général**
 
-Ces paramètres vous permettent de définir des couleurs pour le corps, les structures, les arrière-plans, les conteneurs, les grilles, les images, etc.
+Ces paramètres vous permettent de définir des couleurs pour le corps, les structures, les arrière-plans, les conteneurs, les images, etc.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
-### Titre {#heading}
+**Titre**
 
-Cette section concerne uniquement le texte du type Titre, dans lequel vous pouvez définir le texte et les couleurs de bordure de chaque type de Titre.  Vous pouvez définir des en-têtes de 6 tailles de police.
+Définissez le texte et les couleurs de bordure de chaque type de titre, du Titre 1 au Titre 6.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
-### Paragraphe {#paragraph}
+**Paragraphe**
 
-Cette section est réservée au texte du type Paragraphe, dans lequel vous pouvez définir le texte et les couleurs de bordure de chaque type de paragraphe.  Vous pouvez définir 3 paramètres prédéfinis de paragraphes.
+Définissez le texte et les couleurs de bordure de trois types de paragraphe au maximum.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
-### Boutons {#buttons}
+**Boutons**
 
-Cette section est réservée aux boutons pour la couleur de remplissage, la couleur de bordure et la couleur du texte.  Vous pouvez définir 3 paramètres prédéfinis de boutons : Principal, Secondaire et tertiaire.
+Définissez la couleur de remplissage, de bordure et de texte pour trois types de boutons différents : Principal, Secondaire et Tertiaire.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
 ### Paramètres de texte {#text-settings}
 
-En dessous, vous pouvez définir les types et tailles de polices pour Global, Titres et Paragraphes.
+Définissez les types et tailles de police pour les paragraphes, les en-têtes et les éléments globaux.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
-### Paramètres de texte global {#global-text-settings}
+**Global**
 
 Sous Paramètres de texte globaux, choisissez Bibliothèque de formulaires entre les bibliothèques de polices Standard et Google.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
 Sous Standard, choisissez une famille de polices différente.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-.png)
 
 De même, sous Google Fonts vous montre des options vous permettant de choisir parmi les polices prises en charge respectivement.
 
-### Paramètres de texte d’en-tête {#heading-text-settings}
+**En-têtes**
 
 Vous pouvez définir la bibliothèque de polices, la famille, la taille, le style de texte et les alignements de texte pour les différents types d’en-têtes.
 
 CAPTURE D’ÉCRAN
 
-### Paramètres de texte de paragraphe {#paragraph-text-settings}
+**Paragraphes**
 
 Vous pouvez définir la bibliothèque de polices, la famille, la taille, le style de texte et les alignements de texte pour les différents paramètres prédéfinis de paragraphe.
 
 CAPTURE D’ÉCRAN
 
-### Paramètres d’espacement {#spacing-settings}
+### Espacement et bordure {#spacing-and-border}
 
 En dessous, vous pouvez définir la marge intérieure et la marge pour différents types de structure ou de bouton.  Sélectionnez le type dans la première liste déroulante, puis continuez à définir la Marge intérieure et/ou la Marge pour cet élément. Répétez cette opération une par une, le cas échéant.
 
