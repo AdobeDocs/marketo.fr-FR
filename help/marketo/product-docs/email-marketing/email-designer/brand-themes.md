@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITLE
-description: DESCRIPTION.
+title: Thèmes de marque
+description: Découvrez comment créer et gérer vos directives de marque.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 4%
 
 ---
@@ -81,17 +81,13 @@ Une fois la modification terminée, cliquez sur la flèche vers l’arrière (![
 
 Pour modifier une variante, cliquez sur son icône en forme de crayon.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >Vous pouvez créer jusqu’à six variantes.
 
-Plusieurs éléments peuvent être personnalisés.
-
-![](assets/brand-themes-.png)
-
-Les paramètres des variantes sont regroupés dans les catégories suivantes :
+Plusieurs éléments peuvent être personnalisés. Les paramètres des variantes sont regroupés dans les catégories suivantes :
 
 * Général
 * Titres
@@ -102,55 +98,49 @@ Les paramètres des variantes sont regroupés dans les catégories suivantes :
 
 Ces paramètres vous permettent de définir des couleurs pour le corps, les structures, les arrière-plans, les conteneurs, les images, etc.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **Titre**
 
 Définissez le texte et les couleurs de bordure de chaque type de titre, du Titre 1 au Titre 6.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **Paragraphe**
 
 Définissez le texte et les couleurs de bordure de trois types de paragraphe au maximum.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **Boutons**
 
 Définissez la couleur de remplissage, de bordure et de texte pour trois types de boutons différents : Principal, Secondaire et Tertiaire.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### Paramètres de texte {#text-settings}
 
 Définissez les types et tailles de police pour les paragraphes, les en-têtes et les éléments globaux.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **Global**
 
-Sous Paramètres de texte globaux, choisissez Bibliothèque de formulaires entre les bibliothèques de polices Standard et Google.
+Choisissez entre les bibliothèques de polices Standard ou Google et leurs familles de polices respectives.
 
-![](assets/brand-themes-.png)
-
-Sous Standard, choisissez une famille de polices différente.
-
-![](assets/brand-themes-.png)
-
-De même, sous Google Fonts vous montre des options vous permettant de choisir parmi les polices prises en charge respectivement.
+![](assets/brand-themes-15.png)
 
 **En-têtes**
 
-Vous pouvez définir la bibliothèque de polices, la famille, la taille, le style de texte et les alignements de texte pour les différents types d’en-têtes.
+Définissez la bibliothèque de polices, la famille, la taille, le style de texte et les alignements de texte pour différents types d’en-têtes.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-16.png)
 
 **Paragraphes**
 
-Vous pouvez définir la bibliothèque de polices, la famille, la taille, le style de texte et les alignements de texte pour les différents paramètres prédéfinis de paragraphe.
+Définissez la bibliothèque de polices, la famille, la taille, le style de texte et les alignements de texte pour différents paramètres prédéfinis de paragraphe.
 
-CAPTURE D’ÉCRAN
+![](assets/brand-themes-17.png)
 
 ### Espacement et bordure {#spacing-and-border}
 
