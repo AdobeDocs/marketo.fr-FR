@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -35,6 +35,16 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><strong>Concepteur d’e-mail : importateur de modèles (version bêta)</strong> : importez des modèles d’e-mail à partir de l’éditeur d’e-mail classique pour créer des modèles compatibles avec le nouveau concepteur d’e-mail dans Design Studio.</td>
    <td>Expédié</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Import de modèle</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Concepteur d’e-mail - Thèmes de marque</strong> : vous pouvez désormais définir des thèmes de marque dans Marketo Engage. Les configurations de style peuvent être réutilisées et appliquées aux modèles d’e-mail et aux autres ressources d’e-mail pour garantir la cohérence de la marque.</td>
+   <td>Expédié</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Thèmes de marque</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Tests A/B</strong> : fonctionnalité de parité du nouveau concepteur d’e-mail, qui vous permet d’effectuer des tests A/B pour déterminer les types de contenu qui reçoivent la meilleure réponse.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Concepteur d’e-mail - Thèmes de marque</strong> : vous pouvez désormais définir des thèmes de marque dans Marketo Engage. Les configurations de style peuvent être réutilisées et appliquées aux modèles d’e-mail et aux autres ressources d’e-mail pour garantir la cohérence de la marque.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
