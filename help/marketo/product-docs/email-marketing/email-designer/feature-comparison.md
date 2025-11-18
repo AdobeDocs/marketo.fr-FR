@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -244,22 +244,22 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Disponible</td>
   </tr>
   <tr>
+    <td>Scripts Velocity</td>
+    <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
+    <td>Disponible</td>
+    <td>Disponible</td>
+  </tr>
+  <tr>
     <td>Prise en charge du déplacement, de la suppression et de l’importation de programmes avec des ressources de messagerie</td>
     <td>Possibilité de déplacer, supprimer et importer des programmes de messagerie avec des ressources de messagerie.</td>
     <td>Disponible</td>
-    <td>Bientôt disponible</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Rôles et autorisations</td>
     <td>Possibilité d’ajouter des rôles et des autorisations pour les e-mails, modèles d’e-mail et fragments.</td>
     <td>Disponible</td>
-    <td>Bientôt disponible</td>
-  </tr>
-  <tr>
-    <td>Scripts Velocity</td>
-    <td>Possibilité d’utiliser le script Velocity dans les e-mails.</td>
     <td>Disponible</td>
-    <td>Bientôt disponible</td>
   </tr>
   <tr>
     <td>Expérimentation (Test A/B)</td>
