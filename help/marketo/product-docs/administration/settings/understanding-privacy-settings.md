@@ -68,7 +68,7 @@ Les marketeurs peuvent permettre aux utilisateurs de s’inscrire en utilisant l
 
 Les marketeurs peuvent préserver la confidentialité en suivant les utilisateurs avec une adresse IP anonymisée. Pour ce faire, ajoutez ce code au code RTP ou [!DNL Munchkin] JavaScript intégré au site web.
 
-* Par [!DNL Munchkin], ajoutez simplement des `{"anonymizeIP",true}` à la fonction [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Par [!DNL Munchkin], ajoutez simplement des `{"anonymizeIP",true}` à la fonction [init](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Pour le Web Personalization (RTP), ajoutez ceci au javascript :
 
