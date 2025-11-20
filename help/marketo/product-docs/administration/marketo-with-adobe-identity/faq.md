@@ -125,7 +125,7 @@ Les utilisateurs Marketo Engage actuels dont les comptes sont différents de leu
 
 Vos restrictions d’adresses IP actuelles resteront actives jusqu’au premier trimestre 2026 (cela s’applique aux abonnements pour lesquels elles étaient activées avant la migration). Ces restrictions s’appliqueront également aux utilisateurs d’Adobe ID. Vos contrôles d’accès continueront donc à fonctionner comme prévu.
 
-À compter du 1er trimestre 2026, les restrictions IP héritées seront supprimées. À partir de là, l’accès basé sur les adresses IP sera géré exclusivement dans le Adobe Admin Console (AAC). Pour maintenir un accès sécurisé, vous devez configurer les restrictions IP dans AAC. Pour plus d&#39;informations, consultez cet article de blog [ Marketing Nation ](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"}.
+À compter du 1er trimestre 2026, les restrictions IP héritées seront supprimées. À partir de là, l’accès basé sur les adresses IP sera géré exclusivement dans le Adobe Admin Console (AAC). Pour maintenir un accès sécurisé, vous devez configurer les restrictions IP dans AAC. Pour plus d&#39;informations, consultez cet article de blog [&#x200B; Marketing Nation &#x200B;](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"}.
 
 **Que se passe-t-il après la migration de l’identité Adobe si j’ai des utilisateurs dont le rôle offre la possibilité de « Contourner l’authentification SSO » ?**
 
