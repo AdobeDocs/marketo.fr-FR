@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 14%
 
 ---
@@ -253,7 +253,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Prise en charge du déplacement, de la suppression et de l’importation de programmes avec des ressources de messagerie</td>
     <td>Possibilité de déplacer, supprimer et importer des programmes de messagerie avec des ressources de messagerie.</td>
     <td>Disponible</td>
-    <td>Disponible</td>
+    <td>Non disponible</td>
   </tr>
   <tr>
     <td>Rôles et autorisations</td>
