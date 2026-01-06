@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 14%
@@ -250,12 +250,6 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Disponible</td>
   </tr>
   <tr>
-    <td>Prise en charge du déplacement, de la suppression et de l’importation de programmes avec des ressources de messagerie</td>
-    <td>Possibilité de déplacer, supprimer et importer des programmes de messagerie avec des ressources de messagerie.</td>
-    <td>Disponible</td>
-    <td>Non disponible</td>
-  </tr>
-  <tr>
     <td>Rôles et autorisations</td>
     <td>Possibilité d’ajouter des rôles et des autorisations pour les e-mails, modèles d’e-mail et fragments.</td>
     <td>Disponible</td>
@@ -284,6 +278,12 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Possibilité de modifier le contenu HTML des e-mails, modèles d’e-mail et fragments.</td>
     <td>Disponible</td>
     <td>À déterminer</td>
+  </tr>
+  <tr>
+    <td>Prise en charge du déplacement, de la suppression et de l’importation de programmes avec des ressources de messagerie</td>
+    <td>Possibilité de déplacer, supprimer et importer des programmes de messagerie avec des ressources de messagerie.</td>
+    <td>Disponible</td>
+    <td>Non disponible</td>
   </tr>
   <tr>
     <td>Contenu prédictif</td>

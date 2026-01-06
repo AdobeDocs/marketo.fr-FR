@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation du prod
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8148440f2893fa27922b91ea641fc591cab57680
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 97%
+source-wordcount: '137'
+ht-degree: 94%
 
 ---
 
@@ -31,12 +31,6 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <th width="250px">Version</th>
    <th width="250px">Date de publication</th>
    <th width="250px">Statut</th>
-  </tr>
-  <tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mai 2025</a></td>
-   <td>23 mai 2025</td>
-   <td>Expédié</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Juillet 2025</a></td>
@@ -66,6 +60,16 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
   <tr>
   <td>Février 26</td>
    <td>20 Février 2026</td>
+   <td>Prévu</td>
+  </tr>
+  <tr>
+  <td>Mars 26</td>
+   <td>samedi 27 mars 2026</td>
+   <td>Prévu</td>
+  </tr>
+  <tr>
+  <td>Mai 26</td>
+   <td>samedi 1 mai 2026</td>
    <td>Prévu</td>
   </tr>
  </tbody>
