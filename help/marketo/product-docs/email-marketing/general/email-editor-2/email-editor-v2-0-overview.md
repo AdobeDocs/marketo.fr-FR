@@ -4,16 +4,20 @@ description: Présentation de l’éditeur d’e-mail v2.0 - Documents Marketo -
 title: Vue d’ensemble de l’éditeur d’e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '469'
 ht-degree: 2%
 
 ---
 
 # Vue d’ensemble de l’éditeur d’e-mail v2.0 {#email-editor-v2-overview}
 
-Lorsque vous décidez d&#39;activer le [!DNL Email Editor v2.0], vous remarquerez plusieurs nouvelles fonctionnalités.
+Présentation de l’éditeur d’email classique.
+
+>[!IMPORTANT]
+>
+>Bien qu’aucune date exacte ne soit définie, l’éditeur d’e-mail classique sera probablement abandonné en 2026 (nous annoncerons une date exacte lorsque nous l’aurons). Il est vivement recommandé de commencer à adopter le [Designer d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.
 
 **Sélectionneur de modèle d’e-mail**
 
@@ -41,7 +45,7 @@ Basculer entre les versions HTML et Texte de votre e-mail se trouve désormais d
 
 **En-tête de l’e-mail**
 
-Vous souhaitez plus d&#39;espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [&#x200B; le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône...
+Vous souhaitez plus d&#39;espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [ le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône...
 
 ![](assets/email-editor-v2-overview-5.png)
 
