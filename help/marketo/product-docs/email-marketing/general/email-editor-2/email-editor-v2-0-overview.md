@@ -45,7 +45,7 @@ Basculer entre les versions HTML et Texte de votre e-mail se trouve désormais d
 
 **En-tête de l’e-mail**
 
-Vous souhaitez plus d&#39;espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [ le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône...
+Vous souhaitez plus d&#39;espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [&#x200B; le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône...
 
 ![](assets/email-editor-v2-overview-5.png)
 
