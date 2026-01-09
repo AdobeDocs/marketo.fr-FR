@@ -13,7 +13,7 @@ ht-degree: 10%
 
 # SEO - Obtenir des suggestions de liens entrants {#seo-get-inbound-link-suggestions}
 
-Marketo peut vous suggérer quels liens entrants sont utiles pour votre [ optimisation hors page ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo peut vous suggérer quels liens entrants sont utiles pour votre [&#x200B; optimisation hors page &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 >[!IMPORTANT]
 >
