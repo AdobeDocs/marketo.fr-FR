@@ -3,9 +3,9 @@ description: Personnalisation Des Webinaires Interactifs - Documents Marketo - D
 title: Personnalisation des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Avant que des utilisateurs de votre organisation puissent personnaliser vos webi
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### Personnaliser l’interface de l’espace {#customize-the-room-interface}
+## Personnaliser l’interface de l’espace {#customize-the-room-interface}
 
 Vous pouvez personnaliser l’apparence de la salle de session en modifiant le logo, le lien de redirection cliquable et les couleurs. Vos modifications seront répercutées dans tous les événements et salles de votre organisation.
 
@@ -134,3 +134,11 @@ Utilisez le bouton (bascule) pour contrôler la disponibilité de ces arrière-p
 ![](assets/interactive-webinars-customization-13.png)
 
 Sélectionnez **Appliquer** pour enregistrer les modifications ou **Réinitialiser aux paramètres par défaut** pour réinitialiser aux paramètres par défaut.
+
+### Créer Des Thèmes Personnalisables {#create-customizable-themes}
+
+* Les administrateurs peuvent créer/gérer des thèmes avec des logos, des couleurs et des arrière-plans vidéo personnalisés.
+
+* Les hôtes peuvent choisir des thèmes pendant la création de la salle ou les mettre à jour ultérieurement à partir de la page d&#39;informations de la salle (**Barre supérieure de la salle** > **Menu Plus** > **Afficher les informations de la salle**).
+
+En savoir plus sur les [thèmes](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

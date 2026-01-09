@@ -3,9 +3,9 @@ description: Fonctionnalités de GenAI - Documentation de Marketo - Documentatio
 title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '674'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 * **Génération automatique de chapitres** : la technologie optimisée par l’IA crée des chapitres pour le contenu de votre webinaire.
 
 * **Résumé généré par l’IA** : obtenez un résumé textuel automatisé de votre webinaire.
+
+* **Génération de blog basée sur l’IA** : permet de générer automatiquement du contenu de blog sur la marque à partir de vos webinaires.
 
 * **Contenu modifiable** : modifiez les chapitres et les résumés générés si vous le souhaitez, à l’aide des fonctionnalités de modification manuelle et optimisée par l’IA.
 
@@ -109,6 +111,8 @@ Le « lien » est le nom du chapitre et la « page web » est la page qui héber
 * La suppression ou la fusion de chapitres affecte uniquement la pile de chapitres, et non le contenu vidéo lui-même. Ces actions sont permanentes.
 
 * Les fonctionnalités de GenAI sont flexibles et peuvent être utilisées avec divers éditeurs de page web, pas seulement ceux de Marketo Engage.
+
+* Seules les sessions organisées dans les salles de séminaire seront disponibles pour la génération de blogs. Les salles de séminaires sont disponibles uniquement sur les comptes disposant d’une licence de module d’événement ou de séminaire (salle partagée/événements).
 
 * Prévisualisez toujours vos modifications pour vous assurer de bénéficier des fonctionnalités et de l’apparence souhaitées.
 

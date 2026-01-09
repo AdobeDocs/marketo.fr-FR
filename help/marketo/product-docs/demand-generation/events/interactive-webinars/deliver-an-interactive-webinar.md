@@ -3,9 +3,9 @@ description: Diffuser un webinaire interactif - Documents Marketo - Documentatio
 title: Diffuser un webinaire interactif
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ Les discussions au sein du groupe de discussion ne sont pas enregistrées. Le pa
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-En savoir plus sur [le panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+En savoir plus sur [le panneau de conversation](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Mode de préparation {#prepare-mode}
 
@@ -127,16 +127,22 @@ En savoir plus sur le mode de préparation [dans cette vidéo](https://www.youtu
 >[!NOTE]
 >
 >* Toutes les modifications apportées aux capsules en direct sont immédiatement répercutées sur les participants.
->* Le [panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode Préparer et toute modification apportée sera immédiatement répercutée sur les participants.
+>* Le [panneau de conversation](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode Préparer et toute modification apportée sera immédiatement répercutée sur les participants.
 
 ### Accessibilité {#accessibility}
 
 Adobe s’efforce d’inclure les présentateurs et les participants présentant un handicap en améliorant l’accessibilité des webinaires interactifs. Le logiciel est continuellement amélioré pour répondre aux besoins de tous les types d&#39;utilisateurs et pour se conformer aux normes mondiales qui incluent les personnes ayant une déficience visuelle, auditive, de mobilité ou d&#39;autres déficiences.
 
-Découvrez comment Adobe Connect fournit une assistance pour les besoins [&#x200B; visuels, auditifs et de mobilité](https://helpx.adobe.com/fr/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Découvrez comment Adobe Connect fournit une assistance pour les besoins [ visuels, auditifs et de mobilité](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Sous-titres {#closed-captions}
 
 Les sous-titres sont une représentation textuelle de l’audio dans une salle Adobe Connect et aident les participants sourds ou malentendants à participer aux événements. Vous pouvez intégrer des sous-titres en temps réel du contenu audio dans les événements et présenter ces sous-titres dans l’affichage Sous-titrage.
 
-Découvrez comment [activer les sous-titres](https://helpx.adobe.com/fr/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Découvrez comment [activer les sous-titres](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+
+### Webinaires en direct simulés {#simulated-live-webinars}
+
+Présentez les webinaires préenregistrés comme s’ils étaient en direct à l’aide du format de webinaire en direct simulé . Les participants peuvent rejoindre la session à une heure planifiée et l’expérimenter en temps réel, en profitant de fonctionnalités interactives telles que le chat, les sondages et les questions/réponses. Les webinaires en direct simulés combinent la fiabilité du contenu enregistré à l’expérience interactive d’un événement en direct.
+
+En savoir plus sur les [webinaires en direct simulés](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

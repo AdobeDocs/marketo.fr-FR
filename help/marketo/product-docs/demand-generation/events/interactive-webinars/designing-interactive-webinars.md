@@ -3,9 +3,9 @@ description: Conception De Webinaires Interactifs - Documents Marketo - Document
 title: Concevoir des webinaires interactifs
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,10 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 **Disposition** : fait référence à différentes manières dont les différents composants requis pour assurer la réussite du webinaire sont organisés dans un modèle particulier. Un seul modèle peut avoir plusieurs dispositions parmi lesquelles vous pouvez choisir. Les composants essentiels du webinaire resteraient les mêmes dans tous les modèles. L’arrangement que vous avez sélectionné serait le mieux adapté au style/aux besoins de votre personne ou du présentateur qui présente le webinaire.
 
 **Pod** : composant à l’intérieur d’un modèle qui effectue une activité particulière pendant le webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être réalisée par un sondage. De même, discuter avec les participants pour transmettre un message ou interagir avec eux de manière informelle peut être une activité proposée par le biais du module de conversation. Plusieurs autres pods sont disponibles, tels que Partager, Notes, Vidéo, Conversation, Liste des participants, Fichiers, Liens web, Sondages et Questions/Réponses.
+
+      **Survey Pod** : permet aux hôtes de concevoir et de diffuser des formulaires de commentaires structurés directement dans une session en direct. La capsule de sondage étend les capacités existantes de la capsule de sondage en permettant de présenter plusieurs questions ensemble, offrant ainsi un moyen plus rationalisé et plus cohérent de recueillir les commentaires des participants. [En savoir plus](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+
+      **pod de ressources** : remplace les pods de fichiers et de liens web précédents, fournissant un moyen unique et unifié de partager des ressources pendant les sessions en direct. [En savoir plus](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >
