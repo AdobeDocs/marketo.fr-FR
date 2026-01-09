@@ -133,7 +133,7 @@ En savoir plus sur le mode de préparation [dans cette vidéo](https://www.youtu
 
 Adobe s’efforce d’inclure les présentateurs et les participants présentant un handicap en améliorant l’accessibilité des webinaires interactifs. Le logiciel est continuellement amélioré pour répondre aux besoins de tous les types d&#39;utilisateurs et pour se conformer aux normes mondiales qui incluent les personnes ayant une déficience visuelle, auditive, de mobilité ou d&#39;autres déficiences.
 
-Découvrez comment Adobe Connect fournit une assistance pour les besoins [ visuels, auditifs et de mobilité](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Découvrez comment Adobe Connect fournit une assistance pour les besoins [&#x200B; visuels, auditifs et de mobilité](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Sous-titres {#closed-captions}
 
