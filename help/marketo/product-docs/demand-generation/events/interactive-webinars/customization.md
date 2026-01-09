@@ -141,4 +141,4 @@ Sélectionnez **Appliquer** pour enregistrer les modifications ou **Réinitialis
 
 * Les hôtes peuvent choisir des thèmes pendant la création de la salle ou les mettre à jour ultérieurement à partir de la page d&#39;informations de la salle (**Barre supérieure de la salle** > **Menu Plus** > **Afficher les informations de la salle**).
 
-En savoir plus sur les [thèmes](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+En savoir plus sur les [thèmes](https://helpx.adobe.com/fr/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
