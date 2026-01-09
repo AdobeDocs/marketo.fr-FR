@@ -4,16 +4,25 @@ description: SEO - Ajout de notes aux problèmes de page - Documents Marketo - D
 title: SEO - Ajouter des notes à des problèmes de page
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 
 # SEO - Ajouter des notes à des problèmes de page {#seo-add-notes-to-page-issues}
 
-Saviez-vous que vous pouvez ajouter des notes aux événements de la page sous forme de rappels personnels ou de messages d’équipe ?
+Découvrez comment ajouter des notes aux problèmes de page sous forme de rappels personnels ou de messages d’équipe.
+
+>[!IMPORTANT]
+>
+>Le 31 mars 2026, Marketo Engage abandonnera la fonctionnalité Optimisation du moteur de recherche. Veuillez exporter toutes les données pertinentes au plus tard le 30 mars. [En savoir plus](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Ajout de notes à la section Événements de page {#adding-notes-in-page-issues-section}
 

@@ -4,9 +4,9 @@ description: Présentation De L’Optimisation Du Moteur De Recherche - Document
 title: Présentation de l’optimisation du moteur de recherche
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '442'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 3%
 # Présentation de l’optimisation du moteur de recherche {#understanding-search-engine-optimization}
 
 L’optimisation pour les moteurs de recherche (SEO) est un ensemble de bonnes pratiques qui vous permettent de présenter vos pages aux personnes qui utilisent des moteurs de recherche. L’application d’optimisation du moteur de recherche Marketo vous aide à vous améliorer.
+
+>[!IMPORTANT]
+>
+>Le 31 mars 2026, Marketo Engage abandonnera la fonctionnalité Optimisation du moteur de recherche. Veuillez exporter toutes les données pertinentes au plus tard le 30 mars. [En savoir plus](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 Tout d’abord, vous devriez apprendre les principes de base grâce à ce glossaire pratique.
 

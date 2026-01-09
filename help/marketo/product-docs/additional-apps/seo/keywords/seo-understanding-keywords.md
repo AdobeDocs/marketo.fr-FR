@@ -4,9 +4,9 @@ description: SEO - Présentation des mots-clés - Documents Marketo - Documentat
 title: SEO - Présentation des mots-clés
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '256'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 2%
 # SEO - Présentation des [!UICONTROL mots-clés] {#seo-understanding-keywords}
 
 [!UICONTROL Mots-clés] sont la colonne vertébrale de votre stratégie d&#39;optimisation du moteur de recherche. Votre objectif est d&#39;être sur la première page, aussi près que possible de la #1 pour les mots-clés qui sont pertinents pour votre entreprise.
+
+>[!IMPORTANT]
+>
+>Le 31 mars 2026, Marketo Engage abandonnera la fonctionnalité Optimisation du moteur de recherche. Veuillez exporter toutes les données pertinentes au plus tard le 30 mars. [En savoir plus](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 La section [!UICONTROL Mots-clés] vous montrera dans quelle mesure votre site réussit à atteindre cet objectif et comment vous vous démarquez de [votre concurrence](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 

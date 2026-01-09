@@ -4,9 +4,9 @@ description: SEO - Utilisation de l’analyse des détails de la page - Document
 title: SEO - Utilisation de l’analyse en profondeur des détails de la page
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '308'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 5%
 # SEO - Utilisation de l’analyse en profondeur des détails de la page {#seo-using-the-page-detail-drill-down}
 
 Vous pouvez voir de nombreuses informations sur vos pages à l’aide de l’analyse détaillée de la page.
+
+>[!IMPORTANT]
+>
+>Le 31 mars 2026, Marketo Engage abandonnera la fonctionnalité Optimisation du moteur de recherche. Veuillez exporter toutes les données pertinentes au plus tard le 30 mars. [En savoir plus](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Rechercher l&#39;analyse de page {#find-page-drill-down}
 
@@ -35,11 +44,11 @@ Vous pouvez voir de nombreuses informations sur vos pages à l’aide de l’ana
 
 | Élément | Description |
 |---|---|
-| [!UICONTROL &#x200B; Score d’optimisation &#x200B;] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
-| Zone [!UICONTROL &#x200B; À faire &#x200B;] | Affiche le nombre de problèmes ouverts concernant la page sur laquelle vous vous trouvez. |
+| [!UICONTROL  Score d’optimisation ] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
+| Zone [!UICONTROL  À faire ] | Affiche le nombre de problèmes ouverts concernant la page sur laquelle vous vous trouvez. |
 | [!UICONTROL Nombre total de liens entrants] | Nombre total de liens entrants vers votre site web. |
 | [!UICONTROL Liens entrants (domaines uniques)] | Nombre d’autres sites web comportant au moins un lien entrant vers votre site. |
-| [!UICONTROL &#x200B; Liens sortants &#x200B;] | Nombre de liens renvoyant à d’autres sites web à partir de cette page spécifique. |
+| [!UICONTROL  Liens sortants ] | Nombre de liens renvoyant à d’autres sites web à partir de cette page spécifique. |
 | [!UICONTROL Partages Facebook] | Nombre de fois où cette page a été partagée sur [!DNL Facebook]. |
 | [!UICONTROL J’aime Facebook] | Nombre de fois où ce partage de page a été apprécié sur [!DNL Facebook]. |
 | [!UICONTROL Clics Facebook] | Nombre de clics effectués à partir du [!DNL Facebook share]. |
@@ -56,7 +65,7 @@ C’est là que vous [sélectionnez le mot-clé pour lequel vous essayez d’opt
 
 ## [!UICONTROL Résultats de l’optimisation de la page] {#page-optimization-results}
 
-Les [!UICONTROL &#x200B; Résultats de l’optimisation de la page &#x200B;] vous indiqueront les étapes exactes à suivre pour augmenter votre score d’optimisation ou obtenir de meilleures performances lors de la recherche de cette page.
+Les [!UICONTROL  Résultats de l’optimisation de la page ] vous indiqueront les étapes exactes à suivre pour augmenter votre score d’optimisation ou obtenir de meilleures performances lors de la recherche de cette page.
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 

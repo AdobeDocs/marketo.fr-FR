@@ -4,10 +4,10 @@ description: Marketo Présentation du tableau de bord d’optimisation du moteur
 title: Présentation du tableau de bord d’optimisation du moteur de recherche (SEO) - Capture instantanée SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 3%
+source-wordcount: '296'
+ht-degree: 4%
 
 ---
 
@@ -15,13 +15,22 @@ ht-degree: 3%
 
 Utilisez le tableau de bord pour obtenir une vue d’ensemble de la tendance du classement des mots-clés et de la manière dont votre site est optimisé pour l’optimisation du moteur de recherche (SEO).
 
+>[!IMPORTANT]
+>
+>Le 31 mars 2026, Marketo Engage abandonnera la fonctionnalité Optimisation du moteur de recherche. Veuillez exporter toutes les données pertinentes au plus tard le 30 mars. [En savoir plus](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+
 Pour savoir sur quoi vous concentrer pour améliorer vos efforts d’optimisation du moteur de recherche (SEO), utilisez la section [[!UICONTROL Recommandations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de ce tableau de bord.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Résumé du classement des mots-clés] {#keyword-rank-summary}
 
-Cette section vous explique comment votre site est classé pour les [&#x200B; mots-clés que vous ciblez &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Cette section vous explique comment votre site est classé pour les [ mots-clés que vous ciblez ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 

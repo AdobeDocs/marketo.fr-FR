@@ -4,16 +4,25 @@ description: SEO - Utilisation du rapport Tendances des mots-clés - Documents M
 title: SEO - Utiliser le rapport des tendances des mots-clés
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '209'
+ht-degree: 8%
 
 ---
 
 # SEO - Utiliser le rapport des tendances des mots-clés {#seo-use-the-keyword-trends-report}
 
 Dans ce rapport, vous pouvez voir comment vous êtes classé sur les mots-clés au fil du temps.
+
+>[!IMPORTANT]
+>
+>Le 31 mars 2026, Marketo Engage abandonnera la fonctionnalité Optimisation du moteur de recherche. Veuillez exporter toutes les données pertinentes au plus tard le 30 mars. [En savoir plus](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Charger le rapport {#load-report}
 
@@ -35,7 +44,7 @@ Dans ce rapport, vous pouvez voir comment vous êtes classé sur les mots-clés 
    |---|---|
    | [!UICONTROL Mots-clés] | Nombre de mots-clés dont vous effectuez le suivi. |
    | [!UICONTROL URL de classement] | Le nombre d’URL de votre site se classant dans la plage que vous avez définie. |
-   | [!UICONTROL Moy. rang &#x200B;] | Rang moyen des mots-clés dans la plage que vous avez définie. |
+   | [!UICONTROL Moy. rang ] | Rang moyen des mots-clés dans la plage que vous avez définie. |
    | [!UICONTROL Moy. recherches] | Nombre moyen de recherches sur les mots-clés qui se sont produites au cours de la plage que vous avez définie (au cours des 30 derniers jours), sur la recherche Google US |
 
 ## Filtrer les données {#filtering-data}

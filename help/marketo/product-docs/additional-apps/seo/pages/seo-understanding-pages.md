@@ -4,9 +4,9 @@ description: SEO - Présentation des pages - Documents Marketo - Documentation d
 title: SEO - Présentation des pages
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -15,17 +15,20 @@ ht-degree: 3%
 
 ## Widget Score D’Optimisation De La Page / À Faire {#page-optimization-score-to-do-widget}
 
-![](assets/image2014-9-17-21-3a52-3a3.png)
-
 Le [!UICONTROL score d’optimisation] de la page est un classement global indiquant dans quelle mesure votre page est optimisée pour la recherche, sur une échelle de 1 à 100. Il s’appuie sur des dizaines de bonnes pratiques en matière d’optimisation du moteur de recherche.
 
 * 0 - 35 = Pas bien optimisé
 * 35 - 70 = Sur la bonne voie
 * 70 - 100 = Tout va bien !
 
->[!TIP]
+>[!IMPORTANT]
 >
->Cliquez sur le lien [!UICONTROL Impact élevé] dans la zone [!UICONTROL À faire] pour être redirigé vers l&#39;onglet [!UICONTROL Problèmes] et afficher les problèmes prioritaires à résoudre.
+>Le 31 mars 2026, Marketo Engage abandonnera la fonctionnalité Optimisation du moteur de recherche. Veuillez exporter toutes les données pertinentes au plus tard le 30 mars. [En savoir plus](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Onglet [!UICONTROL Pages] {#pages-tab}
 
@@ -36,8 +39,8 @@ L’onglet **[!UICONTROL Pages]** vous indique dans quelle mesure les pages de v
 | Nom de la colonne | Description |
 |---|---|
 | [!UICONTROL Titre] | Titre et URL de toutes les pages de votre domaine. Vérifiez votre domaine. |
-| [!UICONTROL &#x200B; Score d’optimisation &#x200B;] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
-| [!UICONTROL &#x200B; Liens &#x200B;] | Nombre de domaines différents avec au moins 1 lien entrant vers votre site. |
+| [!UICONTROL  Score d’optimisation ] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
+| [!UICONTROL  Liens ] | Nombre de domaines différents avec au moins 1 lien entrant vers votre site. |
 | [!UICONTROL Mots-clés Target] | Mots-clés pour lesquels vous décidez d’optimiser chaque page. [Ceci nécessite votre saisie](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Onglet [!UICONTROL Événements] {#issues-tab}
