@@ -4,9 +4,9 @@ description: Étape 3 sur 3 - Connecter Marketo et Salesforce (Entreprise/Illimi
 title: Étape 3 sur 3 - Connecter Marketo et Salesforce (Entreprise/Illimité)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Dans cet article, vous allez configurer Marketo pour qu’il se synchronise avec
 
    >[!CAUTION]
    >
-   >Si un bouton « Se connecter à [!DNL Salesforce] » s’affiche à la place des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. Reportez-vous [&#x200B; cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **les informations d’identification [!DNL Salesforce] ou l’abonnement ne changent pas**. Si vous souhaitez utiliser l’authentification de base, contactez votre responsable du succès client.
+   >Si un bouton « Se connecter à [!DNL Salesforce] » s’affiche à la place des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. Reportez-vous [ cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **les informations d’identification [!DNL Salesforce] ou l’abonnement ne changent pas**. Si vous souhaitez utiliser l’authentification de base, contactez votre gestionnaire de compte.
 
 1. Lisez l’avertissement, puis cliquez sur **[!UICONTROL Confirmer les informations d’identification]**.
 
