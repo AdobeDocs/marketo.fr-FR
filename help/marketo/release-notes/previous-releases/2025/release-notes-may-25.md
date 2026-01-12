@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Mai 2025 - Documents Marketo - Documentatio
 title: Notes de mise à jour - Mai 2025
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 40%
@@ -62,12 +62,12 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 ## Annonces {#announcements}
 
-* **Mise à jour de l’intégration de la conversion hors ligne Facebook** : le 29 mai 2025, l’intégration [Facebook Offline Conversion](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} pour Marketo Engage sera migrée vers la nouvelle API Meta [Conversions](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, en raison de l’obsolescence de l’API [Offline Conversions](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} par Meta, conformément au contrôle de version de l’API Graph. Pour plus d’informations, consultez le guide de Meta relatif à l’[envoi d’événements hors ligne via l’API de conversion](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI pour hors ligne).
+* **Mise à jour de l’intégration de la conversion hors ligne Facebook** : le 29 mai 2025, l’intégration [Facebook Offline Conversion](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} pour Marketo Engage sera migrée vers la nouvelle API Meta [Conversions](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, en raison de l’obsolescence de l’API [Offline Conversions](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} sous Meta, conformément au contrôle de version de l’API Graph. Pour plus d’informations, consultez le guide de Meta sur l’[envoi d’événements hors ligne via l’API de conversion](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI pour hors ligne).
 
 * **Nouvelle fonctionnalité Analytics - Beta publique** : [Analytique BI avancée](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anciennement connue sous le nom de Revenue Explorer et de Advanced Report Builder) a commencé à être déployée auprès de tous les utilisateurs actuels de Revenue Cycle Explorer à la mi-avril. Ce nouvel outil offre une interface flexible de création de rapports et de visualisation sur les données Marketo Engage, fournissant des détails granulaires sur la progression, les performances, etc. Il offre une interactivité et une visualisation plus riches, des performances plus rapides et une expérience utilisateur plus fluide et intuitive.
 
 Pour accéder à cette fonctionnalité, vous devez avoir acheté le module complémentaire BI Analytics avancé. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
-* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le 31 octobre 2025. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le 31 octobre 2025. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le mercredi 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
