@@ -64,7 +64,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 ## Fonctionnalités d’Adobe Connect {#adobe-connect-features}
 
-Ces fonctionnalités ont déjà été publiées par l’équipe d’Adobe Connect. Les Marketo Engage [webinaires interactifs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} sont optimisés par Adobe Connect. Par conséquent, les fonctionnalités ci-dessous ne s’appliquent qu’aux utilisateurs et utilisatrices de webinaires interactifs.
+Ces fonctionnalités ont déjà été publiées par l’équipe d’Adobe Connect. Les Marketo Engage [webinaires interactifs](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} sont optimisés par Adobe Connect. Par conséquent, les fonctionnalités ci-dessous ne s’appliquent qu’aux utilisateurs et utilisatrices de webinaires interactifs.
 
 * **Survey Pod** : Adobe Connect 12.11 présente une nouvelle capsule d’enquête qui permet aux hôtes de concevoir et de diffuser des formulaires de commentaires structurés directement au cours d’une session en direct.
 
@@ -72,7 +72,7 @@ Ces fonctionnalités ont déjà été publiées par l’équipe d’Adobe Connec
 
 * **Amélioration de l’expérience de l’interface de la salle** : Adobe Connect 12.11 propose une interface de salle actualisée et plus moderne, reposant sur le dernier framework de conception de Spectrum 2 d’Adobe, s’alignant sur le langage visuel utilisé dans d’autres produits Adobe tels que Creative Cloud et Experience Cloud.
 
-Pour plus d’informations, consultez les [Notes de mise à jour d’Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Pour plus d’informations, consultez les [Notes de mise à jour d’Adobe Connect 12.11](https://helpx.adobe.com/fr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Annonces {#announcements}
 
