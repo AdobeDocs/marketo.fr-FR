@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: c6b8dd17c4337b32c6bb4f0a1b9ce22c1e3b8715
+source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 62%
+source-wordcount: '484'
+ht-degree: 61%
 
 ---
 
@@ -58,13 +58,53 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
   </tbody>
 </table>
 <br/>
 
 ## Fonctionnalités d’Adobe Connect {#adobe-connect-features}
 
-Ces fonctionnalités ont déjà été publiées par l’équipe d’Adobe Connect. Les Marketo Engage [webinaires interactifs](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} sont optimisés par Adobe Connect. Par conséquent, les fonctionnalités ci-dessous ne s’appliquent qu’aux utilisateurs et utilisatrices de webinaires interactifs.
+Ces fonctionnalités ont déjà été publiées par l’équipe d’Adobe Connect. Les Marketo Engage [webinaires interactifs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} sont optimisés par Adobe Connect. Par conséquent, les fonctionnalités ci-dessous ne s’appliquent qu’aux utilisateurs et utilisatrices de webinaires interactifs.
 
 * **Survey Pod** : Adobe Connect 12.11 présente une nouvelle capsule d’enquête qui permet aux hôtes de concevoir et de diffuser des formulaires de commentaires structurés directement au cours d’une session en direct.
 
@@ -72,7 +112,7 @@ Ces fonctionnalités ont déjà été publiées par l’équipe d’Adobe Connec
 
 * **Amélioration de l’expérience de l’interface de la salle** : Adobe Connect 12.11 propose une interface de salle actualisée et plus moderne, reposant sur le dernier framework de conception de Spectrum 2 d’Adobe, s’alignant sur le langage visuel utilisé dans d’autres produits Adobe tels que Creative Cloud et Experience Cloud.
 
-Pour plus d’informations, consultez les [Notes de mise à jour d’Adobe Connect 12.11](https://helpx.adobe.com/fr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Pour plus d’informations, consultez les [Notes de mise à jour d’Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Annonces {#announcements}
 
