@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -259,7 +259,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
     <td>Expérimentation (Test A/B)</td>
     <td>Possibilité de tester les e-mails avant de les envoyer à votre audience.</td>
     <td>Disponible</td>
-    <td>Bientôt disponible</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Workflows d’approbation de contenu</td>
