@@ -109,11 +109,11 @@ Les fonctionnalités suivantes ont été publiées en dehors du cycle de publica
 
 * **Amélioration de l’expérience de l’interface de la salle** : profitez d’une interface de salle actualisée et plus moderne, reposant sur le dernier framework de conception Spectrum 2 d’Adobe, s’alignant sur le langage visuel utilisé dans d’autres produits Adobe tels que Creative Cloud et Experience Cloud.
 
-Consultez [cette page](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} pour plus de détails.
+Consultez [cette page](https://helpx.adobe.com/fr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} pour plus de détails.
 
 ## Annonces {#announcements}
 
-* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
+* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=fr){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"}.
 
 * **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
