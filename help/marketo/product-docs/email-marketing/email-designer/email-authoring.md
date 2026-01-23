@@ -4,9 +4,9 @@ title: Création d’e-mails
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '1740'
+source-wordcount: '1768'
 ht-degree: 3%
 
 ---
@@ -33,7 +33,7 @@ Les e-mails du concepteur d’e-mail ne peuvent être créés que dans Design St
 
    ![](assets/create-an-email-1.png)
 
-1. Dans l’arborescence, sélectionnez **E-mails (nouvel éditeur)**.
+1. Dans l’arborescence, sélectionnez **E-mails (nouveaux)**.
 
    ![](assets/create-an-email-2.png)
 
@@ -71,7 +71,7 @@ C&#39;est ça. Il est maintenant temps de concevoir votre e-mail.
 
 ## Choisir votre type de contenu {#choose-your-content-type}
 
-1. Dans l’e-mail que vous venez de créer, cliquez sur **Ajouter du contenu d’e-mail**.
+1. Dans l’e-mail que vous venez de créer, cliquez sur **Modifier le contenu de l’e-mail**.
 
    ![](assets/choose-your-content-type-1.png)
 
@@ -88,6 +88,12 @@ C&#39;est ça. Il est maintenant temps de concevoir votre e-mail.
 Lorsque vous commencez à partir de zéro dans l’éditeur d’e-mail, utilisez les options ci-dessous pour définir votre contenu.
 
 1. Sur la page _Créer votre e-mail_, sélectionnez **Créer en partant de zéro**.
+
+1. Choisissez entre commencer par un thème (recommandé) ou créer à partir de zéro avec un style manuel.
+
+   >[!NOTE]
+   >
+   >Les e-mails créés avec un style manuel ne pourront pas utiliser les fragments créés avec les thèmes
 
 1. Ajoutez [structure et contenu](#add-structure-and-content) à votre e-mail.
 
@@ -326,7 +332,7 @@ Les avertissements se rapportent aux recommandations et aux bonnes pratiques tel
 
 >[!NOTE]
 >
->L’ajout d’une option de désabonnement n’est pas nécessaire pour les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
+>L’ajout d’une option de désabonnement n’est pas nécessaire pour les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
 
 * **Version texte d’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu d’HTML ne peut pas être affiché.
 

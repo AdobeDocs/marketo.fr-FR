@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '9325'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -661,7 +661,7 @@ ht-degree: 99%
          + [Comportement du chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Liste de réunions](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Activités de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analyse](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Questions fréquentes](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation et configuration {#setup-and-configuration}
             + [Configuration initiale](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1172,7 +1172,7 @@ ht-degree: 99%
          + [Configuration de l’authentification unique via SAML 2.0 dans Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Paramètres de partage](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Détails des accès des utilisateurs et utilisatrices](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analyse {#analytics}
+      + Analytics {#analytics}
          + [Vue d’ensemble de la page des analyses](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Présentation de l’onglet Contenu](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [Présentation de l’onglet Moi](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1385,7 +1385,7 @@ ht-degree: 99%
             + [Paramètres de partage](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Synchroniser les données d’action des ventes avec Marketo et Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Détails des accès des utilisateurs et utilisatrices](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analyse {#analytics}
+         + Analytics {#analytics}
             + [Vue d’ensemble de la page des analyses](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Présentation de l’onglet Contenu](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [Présentation de l’onglet Moi](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1978,6 +1978,7 @@ ht-degree: 99%
          + [Notes de mise à jour : juillet 2025](release-notes/previous-releases/2025/release-notes-july-25.md)
          + [Notes de mise à jour : août 2025](release-notes/previous-releases/2025/release-notes-aug-25.md)
          + [Notes de mise à jour : septembre 2025](release-notes/previous-releases/2025/release-notes-sep-25.md)
+         + [Notes De Mise À Jour : 25 Octobre](release-notes/previous-releases/2025/release-notes-oct-25.md)
       + 2024 {#2024}
          + [Notes de mise à jour : janvier 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Notes de mise à jour : mars 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)

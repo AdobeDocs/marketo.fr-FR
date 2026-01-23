@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 61%
+source-wordcount: '599'
+ht-degree: 49%
 
 ---
 
@@ -34,7 +34,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><strong>Email Designer - Gérer les marques (version bêta)</strong> : générez le contenu des e-mails en fonction des directives de rédaction de votre organisation/marque.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -44,7 +44,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><strong>Email Designer - Amélioration de l’assistant AI</strong> : vous pouvez désormais ajouter directement des ressources de marque dans votre invite et demander au modèle de se référer à cette source pour générer du contenu, plutôt que d’ajouter manuellement une ressource de marque sous forme de fichier.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -54,7 +54,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><strong>Designer d’e-mail - Aperçus visuels des fragments</strong> : tous les fragments publiés s’affichent désormais sous forme de miniatures, ce qui permet d’identifier beaucoup plus rapidement celui dont vous avez besoin.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -64,7 +64,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><strong>Designer d’e-mail - Puces</strong> : vous pouvez désormais créer des puces à plusieurs niveaux lors de la création d’un e-mail dans le Designer d’e-mail.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -74,7 +74,12 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><strong>Email Designer - Améliorations du contenu conditionnel</strong> : parité avec la fonctionnalité <i>Contenu dynamique</i> de l’ancien éditeur d’e-mail.
+   <ul>
+   <li>Le contenu conditionnel s’applique désormais à la segmentation dans les dossiers partagés.</li>
+   <li>Les segmentations sont désormais triées par ordre alphabétique.</li>
+   </ul>
+   </td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -84,17 +89,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITRE DE LA FONCTION</strong> : description de la fonction.</td>
+   <td><strong>Email Designer - Dossiers</strong> : vous pouvez désormais organiser vos ressources créées à l’aide du Designer d’e-mail (e-mails, modèles d’e-mail, fragments) avec des dossiers.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -102,19 +97,23 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 </table>
 <br/>
 
-## Fonctionnalités d’Adobe Connect {#adobe-connect-features}
+## Fonctionnalités de cycle de publication non standard {#non-standard-release-cycle-features}
 
-Ces fonctionnalités ont déjà été publiées par l’équipe d’Adobe Connect. Les Marketo Engage [webinaires interactifs](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} sont optimisés par Adobe Connect. Par conséquent, les fonctionnalités ci-dessous ne s’appliquent qu’aux utilisateurs et utilisatrices de webinaires interactifs.
+Les fonctionnalités suivantes ont été publiées en dehors du cycle de publication standard de Marketo Engage.
 
-* **Survey Pod** : Adobe Connect 12.11 présente une nouvelle capsule d’enquête qui permet aux hôtes de concevoir et de diffuser des formulaires de commentaires structurés directement au cours d’une session en direct.
+### Webinaires interactifs {#interactive-webinars}
+
+* **Survey Pod** : une nouvelle capsule Survey permet aux hôtes de concevoir et de diffuser des formulaires de commentaires structurés directement au cours d’une session en direct.
 
 * **capsule Ressources** : la nouvelle capsule Ressources remplace les capsules Fichiers et Liens web précédentes, offrant ainsi un moyen unique et unifié de partager des ressources lors des sessions en direct.
 
-* **Amélioration de l’expérience de l’interface de la salle** : Adobe Connect 12.11 propose une interface de salle actualisée et plus moderne, reposant sur le dernier framework de conception de Spectrum 2 d’Adobe, s’alignant sur le langage visuel utilisé dans d’autres produits Adobe tels que Creative Cloud et Experience Cloud.
+* **Amélioration de l’expérience de l’interface de la salle** : profitez d’une interface de salle actualisée et plus moderne, reposant sur le dernier framework de conception Spectrum 2 d’Adobe, s’alignant sur le langage visuel utilisé dans d’autres produits Adobe tels que Creative Cloud et Experience Cloud.
 
-Pour plus d’informations, consultez les [Notes de mise à jour d’Adobe Connect 12.11](https://helpx.adobe.com/fr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Consultez [cette page](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} pour plus de détails.
 
 ## Annonces {#announcements}
+
+* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
