@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '1417'
-ht-degree: 71%
+source-wordcount: '1410'
+ht-degree: 84%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 71%
 
 Les consignes de marque sont un ensemble détaillé de règles et de normes qui établissent l’identité visuelle et verbale d’une marque. Elles servent de référence pour maintenir une représentation cohérente de la marque sur toutes les plateformes de marketing et de communication.
 
-Dans [!DNL Marketo Engage], vous avez désormais la possibilité de saisir et d’organiser manuellement les détails de votre marque ou de charger des documents de directives pour une extraction automatique des informations.
+Saisissez et organisez manuellement les détails de votre marque ou chargez des documents de directives de marque pour une extraction automatique des informations.
 
 >[!AVAILABILITY]
 >
@@ -248,21 +248,21 @@ Pour personnaliser votre **[!UICONTROL style d’écriture]** :
 
 1. Dans l’onglet **[!UICONTROL Style d’écriture]**, cliquez sur l’icône **+** pour ajouter une directive, une exception ou une exclusion.
 
-1. Entrez votre règle, votre exception ou votre exclusion. Vous pouvez également inclure des **[!UICONTROL exemples]** pour mieux illustrer la manière dont ils doivent être appliqués.
+1. Saisissez votre règle, votre exception ou votre exclusion. Vous pouvez également inclure des **[!UICONTROL exemples]** pour mieux illustrer la manière dont ces instructions doivent être appliquées.
 
    CAPTURE D’ÉCRAN
 
-1. Spécifiez le contexte d’utilisation pour votre règle, exception ou exclusion :
+1. Spécifiez le contexte d’utilisation pour votre règle, votre exception ou votre exclusion :
 
-   * **[!UICONTROL Type de canal]** : choisissez où cette règle, exception ou exclusion doit s’appliquer. Par exemple, vous pouvez souhaiter qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou autres canaux de communication.
+   * **[!UICONTROL Type de canal]** : choisissez où cette règle, cette exception ou cette exclusion doit s’appliquer. Par exemple, vous pouvez souhaiter qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou d’autres canaux de communication.
 
-   * **[!UICONTROL Type d’élément]** : spécifiez à quel élément de contenu la règle s’applique. Il peut s’agir d’éléments tels que des en-têtes, des boutons, des liens ou d’autres composants de votre contenu.
+   * **[!UICONTROL Type d’élément]** : spécifiez à quel élément de contenu la règle s’applique. Il peut s’agir d’éléments tels que des titres, des boutons, des liens ou d’autres composants de votre contenu.
 
    CAPTURE D’ÉCRAN
 
 1. Une fois votre règle, votre exception ou votre exclusion configurée, cliquez sur **[!UICONTROL Ajouter]**.
 
-1. Si nécessaire, sélectionnez l’une des instructions ou exclusions à mettre à jour ou à supprimer.
+1. Le cas échéant, sélectionnez l’une de vos règles ou exclusions pour la mettre à jour ou la supprimer.
 
 1. Cliquez sur le bouton « Modifier » pour modifier votre exemple ou sur l’icône « Supprimer » pour le supprimer.
 
@@ -319,11 +319,11 @@ Pour personnaliser votre **[!UICONTROL contenu visuel]** :
 
    CAPTURE D’ÉCRAN
 
-1. Spécifiez le contexte d’utilisation pour votre règle ou exclusion :
+1. Spécifiez le contexte d’utilisation pour votre règle ou votre exclusion :
 
-   * **[!UICONTROL Type de canal]** : choisissez où cette règle, exception ou exclusion doit s’appliquer. Par exemple, vous pouvez souhaiter qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou autres canaux de communication.
+   * **[!UICONTROL Type de canal]** : choisissez où cette règle, cette exception ou cette exclusion doit s’appliquer. Par exemple, vous pouvez souhaiter qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou d’autres canaux de communication.
 
-   * **[!UICONTROL Type d’élément]** : spécifiez à quel élément de contenu la règle s’applique. Il peut s’agir d’éléments tels que des en-têtes, des boutons, des liens ou d’autres composants de votre contenu.
+   * **[!UICONTROL Type d’élément]** : spécifiez à quel élément de contenu la règle s’applique. Il peut s’agir d’éléments tels que des titres, des boutons, des liens ou d’autres composants de votre contenu.
 
    CAPTURE D’ÉCRAN
 
@@ -333,7 +333,7 @@ Pour personnaliser votre **[!UICONTROL contenu visuel]** :
 
    CAPTURE D’ÉCRAN
 
-1. Si nécessaire, sélectionnez l’une des instructions ou exclusions à mettre à jour ou à supprimer.
+1. Le cas échéant, sélectionnez l’une de vos règles ou exclusions pour la mettre à jour ou la supprimer.
 
 1. Sélectionnez l’une de vos directives ou exclusions pour la mettre à jour. Cliquez sur l’icône « Supprimer » pour la supprimer.
 
