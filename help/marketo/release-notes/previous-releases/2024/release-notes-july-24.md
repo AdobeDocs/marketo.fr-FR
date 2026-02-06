@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Juillet 2024 - Documents Marketo - Document
 title: Notes de mise à jour - Juillet 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 23%
+ht-degree: 22%
 
 ---
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
      <tr>
    <td><strong>Tableau de bord d’engagement pour les webinaires interactifs</strong> : obtenez une vue globale des performances du webinaire ainsi qu’une vue complète de l’engagement de chaque participant pendant le webinaire afin de pouvoir décider quels prospects cibler via les outils d’orchestration de Marketo Engage.</td>
-    <td>Expédié</td>
+    <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Tableau de bord des engagements</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
      <tr>
    <td><strong>Gestion des salles pour les webinaires interactifs</strong> : accédez aux salles individuelles créées (et apportez des modifications si nécessaire) ainsi qu’au contenu et à l’enregistrement (et effacez-les si nécessaire pour optimiser le stockage).</td>
-    <td>Expédié</td>
+    <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gestion des salles</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
      <tr>
    <td><strong>Personnalisation des webinaires pour les webinaires interactifs</strong> : offrez une expérience de marque uniforme approuvée par l’organisation grâce à l’utilisation d’une interface de salle commune, d’écrans intermédiaires (tels que les arrière-plans de l’écran d’entrée du participant), ainsi que d’arrière-plans vidéo personnalisés, afin que la stratégie du webinaire puisse s’aligner plus facilement sur la stratégie de la marque.</td>
-    <td>Expédié</td>
+    <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personnalisation des webinaires interactifs</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
      <tr>
    <td><strong>Modification de l’API REST Marketo </strong>: Nous apportons une modification mineure à l’API <a href="https://developers.marketo.com/rest-api/user-management/"> User Management</a>. Les points d’entrée <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Parcourir les utilisateurs</a> et <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Supprimer un utilisateur</a> prennent désormais en charge les utilisateurs <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gestion de compte Target</a>.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
  </tbody>

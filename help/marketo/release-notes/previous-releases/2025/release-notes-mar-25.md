@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Mars 2025 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 39%
+ht-degree: 38%
 
 ---
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
     <tr>
    <td><strong>Designer d’e-mail disponible dans tous les programmes</strong> : les nouveaux e-mails de Designer d’e-mail sont désormais accessibles dans les programmes d’engagement, par défaut et d’événement (à la seule exception des programmes de webinaire interactif). Auparavant, ils n’étaient disponibles que dans les programmes de messagerie.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -43,8 +43,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Fonctionnalités de GenAI dans les webinaires interactifs</strong> : vous pouvez désormais générer des chapitres ainsi qu’un résumé pour les webinaires à la demande. Modifiez et exportez un fichier HTML de vos données.</td>
-   <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Fonctionnalités de GenAI</a></td>
+   <td>Libéré</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Fonctionnalités de GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Mes jetons globaux et Workspace</strong> : configurez mes jetons à la fois au niveau de l’espace de travail et au niveau global pour permettre une productivité et un contrôle améliorés de la marque et des dérivés marketing sur les espaces de travail Marketo Engage et même les instances entières.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Créer un jeton Mon global</a></td>
   </tr>
   </tbody>
@@ -72,9 +72,9 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 À ce jour, les utilisateurs n’ont pas pu créer, cloner ni incorporer ces fonctionnalités de réseaux sociaux dans Marketo Engage. Les actifs sociaux existants continuent de fonctionner jusqu’au 31 janvier 2025. Le 1er février 2025, les actifs sociaux ont cessé de fonctionner. Toutes les fonctionnalités de réseaux sociaux intégrées aux pages de destination doivent être supprimées. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le mercredi 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Nouvelle fonctionnalité Analytics - Beta publique** : [Analytique BI avancée](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anciennement connue sous le nom de Revenue Explorer et de Advanced Report Builder) commence à être déployée pour tous les utilisateurs actuels de Revenue Cycle Explorer à la mi-avril. Ce nouvel outil offre une interface flexible de création de rapports et de visualisation sur les données Marketo Engage, fournissant des détails granulaires sur la progression, les performances, etc. Il offre une interactivité et une visualisation plus riches, des performances plus rapides et une expérience utilisateur plus fluide et intuitive.
 

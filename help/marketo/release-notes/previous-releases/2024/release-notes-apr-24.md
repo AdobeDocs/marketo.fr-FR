@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Avril 2024 - Documents Marketo - Documentat
 title: Notes de mise à jour - Avril 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 31%
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
      <tr>
    <td><strong>Améliorations apportées aux webinaires interactifs</strong> : vous pouvez désormais permettre aux hôtes et aux présentateurs d’ajouter un titre au webinaire, de renommer une salle et de synchroniser manuellement les données d’engagement après la diffusion de l’événement.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Créer un webinaire interactif</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Synchronisation manuelle</a></li></td>
   </tr>
@@ -66,7 +66,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <li>Créer une liste</li>
    <li>Exporter l'activité de campagne</li>
    </td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions des autorisations de rôles</a></td>
   </tr>
  </tbody>

@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Janvier 2024 - Documents Marketo - Document
 title: Notes de mise à jour – Janvier 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 19%
+ht-degree: 18%
 
 ---
 
@@ -31,7 +31,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
     <tr>
    <td><strong>Webinaires à la demande pour les webinaires interactifs</strong> : les webinaires à la demande vous permettent de publier l’enregistrement du webinaire et de suivre ses visites/vidéos. Cela vous aidera à obtenir plus de leads par l’intermédiaire des inscrits qui n’ont pas assisté au webinaire (sans participation), mais qui sont toujours intéressés à obtenir plus de détails et à visionner l’enregistrement.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinaires à la demande</a></td>
   </tr>
    <tr>
@@ -51,7 +51,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
     <tr>
    <td><strong>Filtrer l’activité de robot d’e-mail</strong> : améliore la capture de l’activité de robot pour l’engagement des e-mails en vous permettant de choisir le niveau d’agressivité du filtrage d’identification des activités de robot.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrage de l’activité des robots dans les e-mails</a></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    </tr>
     <tr>
    <td><strong>Mise à jour de l’API d’importation de leads en bloc</strong> : un ajustement mineur a été apporté au comportement de l’API d’importation de leads en bloc lorsque <b>id</b> est spécifié comme <b>lookupField</b> lors de la création de la tâche. Si un enregistrement de personne lié à l’<b>id</b> fourni est introuvable dans la base de données Marketo Engage, aucune mise à jour d’enregistrement ne se produit, car l’enregistrement ne peut pas être localisé. Le comportement mis à jour inclut désormais l’incrémentation du nombre dans la propriété <b>numOfRowsFailed</b> au sein de la réponse, ce qui signale l’échec de l’opération dans de tels cas.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    </tr>
   <tr>
    <td><strong>Co-hôtes pour les webinaires interactifs </strong> : les co-hôtes dans la section Équipe de webinaires des webinaires interactifs permettent au créateur de l’événement d’ajouter des utilisateurs internes ou externes au programme de webinaires interactifs pour partager les responsabilités administratives et de diffusion.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Ajout d’une équipe de webinaires</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
     <tr>
    <td><strong>Supprimer un utilisateur dans les webinaires interactifs</strong> : un administrateur Marketo Engage peut désormais supprimer un ou plusieurs utilisateurs spécifiques dans les webinaires interactifs.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
  </tbody>
@@ -160,7 +160,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
     </tr>
     <tr>
    <td><strong>Résiliation manuelle du chat en direct</strong> : les visiteurs et les agents peuvent désormais mettre fin manuellement à une session de chat en direct.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Boîte de réception de l’agent ou de l’agente</a></td>
   </tr>
   <tr>

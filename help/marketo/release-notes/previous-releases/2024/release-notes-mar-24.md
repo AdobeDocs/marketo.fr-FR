@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Mars 2024 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 30%
@@ -31,7 +31,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Logique de flux de conversation avancée</strong> : ajoutez des champs supplémentaires pour l’évaluation dans un seul choix pour le suivi du flux de conversation.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux conversationnel pour Marketo Engage Forms</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    </tr>
     <tr>
    <td><strong>Réorganiser la logique de flux de conversation</strong> : dans Marketo Engage Forms, vous pouvez désormais réorganiser les choix de flux de conversation, au lieu d’avoir à les supprimer et à les rajouter.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Paramètres de flux conversationnel pour Marketo Engage Forms</a></td>
    </tr>
   <tr>
@@ -53,7 +53,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
     <tr>
    <td><strong>Métadonnées d’activité de l’API</strong> :
    Les métadonnées telles que l’agent utilisateur, la plateforme et l’appareil sont désormais incluses dans les activités web et de messagerie électronique, ce qui permet de fournir des informations cohérentes sur ces activités via l’API REST Marketo.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
  </tbody>

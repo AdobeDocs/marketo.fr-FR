@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Avril 2025 - Documents Marketo - Documentat
 title: Notes de mise à jour - Avril 2025
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 44%
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Secure Socket Layer (SSL) Self Service</strong> : le chiffrement SSL vous permet de rendre les pages de destination d’une instance Marketo Engage sécurisées. Avant d’activer cette fonctionnalité, l’équipe d’assistance d’Adobe devait vous aider. Les utilisateurs de Marketo peuvent désormais l’activer eux-mêmes, ce qui leur permet de gagner un temps précieux.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">Ajouter SSL à vos pages de destination</a></td>
   </tr>
  </tbody>
@@ -48,7 +48,7 @@ Pour accéder à cette fonctionnalité, vous devez avoir acheté le module compl
 
 * **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le mercredi 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Fonctionnalités sociales obsolètes** : le mercredi 31 juillet 2024, Marketo Engage a commencé à abandonner les fonctionnalités sociales suivantes du produit :
 

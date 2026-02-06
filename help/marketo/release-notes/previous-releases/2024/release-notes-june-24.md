@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Juin 2024 - Documents Marketo - Documentati
 title: Notes de mise à jour - Juin 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 37%
+ht-degree: 36%
 
 ---
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
      <tr>
    <td><strong>Modèles pour les webinaires interactifs</strong> : les marketeurs peuvent désormais créer des modèles personnalisés pour les dispositions de salle dans les webinaires interactifs.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Modèles</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
      <tr>
    <td><strong>Champs déduits dans Forms</strong> : la source de données utilisée pour remplir les champs déduits lorsqu’une personne est créée via le remplissage de formulaire sans activité web préalable a été mise à jour afin d’utiliser la même source de données que les autres méthodes de collecte de personnes. Les données de champ déduites sont désormais cohérentes sur tous les points de collecte.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
  </tbody>

@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Octobre 2022 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 23%
+ht-degree: 21%
 
 ---
 
@@ -34,7 +34,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisation des champs personnalisés des personnes membres du programme</a></td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -69,7 +69,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Bouton (bascule)</a></td>
   </tr>
   </tbody>
@@ -83,7 +83,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Importation de leads en bloc</a></td>
   </tr>
   </tbody>
@@ -135,7 +135,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Intégration de Dynamic Chat</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Icônes de diffusion Designer</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendrier</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>

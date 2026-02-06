@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation du prod
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 94%
+source-wordcount: '144'
+ht-degree: 91%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 94%
 
 * **Prévu** : nous prévoyons de publier les fonctionnalités et les améliorations à la date indiquée.
 * **En cours** : nous sommes en train de déployer les fonctionnalités de la version.
-* **Expédié** : la version est publiée.
+* **Terminé** - La version est terminée
 
 _Les dates de publication et les fonctionnalités sont susceptibles d’être modifiées._
 
@@ -33,43 +33,48 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <th width="250px">Statut</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Juillet 2025</a></td>
-   <td>11 juillet 2025</td>
-   <td>Expédié</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">Août 2025</a></td>
    <td>22 août 2025</td>
-   <td>Expédié</td>
+   <td>Terminée</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">Septembre 2025</a></td>
    <td>19 septembre 2025</td>
-   <td>Expédié</td>
+   <td>Terminée</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Octobre 2025</a></td>
    <td>31 octobre 2025</td>
+   <td>Terminée</td>
+  </tr>
+  <tr>
+  <td><a href="/help/marketo/release-notes/current.md">Janvier 2026</a></td>
+   <td>30 janvier 2026</td>
    <td>En cours</td>
   </tr>
   <tr>
-  <td>Janvier 2026</td>
-   <td>30 janvier 2026</td>
+  <td>Février 2026</td>
+   <td>20 février 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
-  <td>Février 26</td>
-   <td>20 Février 2026</td>
+  <td>Mars 2026</td>
+   <td>27 mars 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
-  <td>Mars 26</td>
-   <td>samedi 27 mars 2026</td>
+  <td>Mai 2026</td>
+   <td>1er mai 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
-  <td>Mai 26</td>
-   <td>samedi 1 mai 2026</td>
+  <td>Mai '26 (deuxième version)</td>
+   <td>samedi 22 mai 2026</td>
+   <td>Prévu</td>
+  </tr>
+  <tr>
+  <td>26 juin</td>
+   <td>26 Juin 2026</td>
    <td>Prévu</td>
   </tr>
  </tbody>

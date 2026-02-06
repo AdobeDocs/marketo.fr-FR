@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Janvier 2023 - Documents Marketo - Document
 title: Notes de mise à jour - Janvier 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 23%
+ht-degree: 22%
 
 ---
 
@@ -37,7 +37,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Bouton (bascule)</a></td>
   </tr>
   </tbody>
@@ -52,7 +52,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=fr">Marketo Measure Ultimate</a></td>
+   <td>Libéré</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informations sur l’API d’exportation en masse</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendrier</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Réunions</a></td>
   </tr>
   </tbody>
@@ -192,6 +192,6 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
 
 ## Annonces {#announcements}
 
-* **Modification de l’API REST Marketo** : avec la version d’octobre 2022, nous avons introduit une modification mineure dans le message de réponse de l’API REST Marketo. Pour plus d&#39;informations[&#x200B; consultez cet article de la nation Marketo &#x200B;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}
+* **Modification de l’API REST Marketo** : avec la version d’octobre 2022, nous avons introduit une modification mineure dans le message de réponse de l’API REST Marketo. Pour plus d&#39;informations[ consultez cet article de la nation Marketo ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}
 
 * **_Webinaire de mise à jour du produit_** : [octobre 2022 et janvier 2023 - Webinaire de mise à jour de Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

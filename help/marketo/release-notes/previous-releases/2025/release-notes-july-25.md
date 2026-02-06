@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Juillet 2025 - Documents Marketo - Document
 title: Notes de mise à jour - Juillet 2025
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '714'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Intégration de GenStudio</strong> : intégrez GenStudio pour le marketing de performance à partir des e-mails afin d’améliorer l’efficacité du marketing et de maintenir la cohérence de la marque.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">Intégration de GenStudio pour Marketo Engage</a></td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - CSS personnalisé</strong> : lors de la conception d’e-mails, vous pouvez désormais ajouter votre propre CSS personnalisé directement dans le Concepteur d’e-mail.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Ajouter du CSS personnalisé au contenu de votre e-mail</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Détecter les spams avec SpamAssassin</strong> : grâce à SpamAssassin dans Marketo Engage, vous pouvez tester le contenu de votre e-mail et déterminer dans quelle mesure les FAI/fournisseurs de messagerie sont susceptibles de le marquer comme spam.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Rapport de spam</a></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Prise en charge du déplacement de ressource et de la suppression de programme</strong> : déplacez rapidement une ressource d’e-mail entre des programmes. Vous pouvez désormais également supprimer des programmes qui contiennent des ressources d’e-mail du nouveau concepteur.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Prise en charge de Firefox</strong> : le Concepteur d’e-mail est désormais entièrement pris en charge dans Mozilla Firefox. Pour une expérience optimale, maintenez toujours votre navigateur à jour.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Simuler du contenu à partir de la page Propriétés</strong> : simulez le contenu des ressources d’e-mail à partir de <i>Propriétés des e-mails</i> sans devoir revenir à l’écran de modification.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
    <tr>
@@ -93,7 +93,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Contrôle d’accès en fonction du rôle pour les ressources</strong> : la version de mai a permis la mise en œuvre du contrôle d’accès en fonction du rôle (RBAC) pour les autorisations Modifier, Approuver et Supprimer. Les autorisations de lecture sont désormais disponibles avec cette version.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Modifier les propriétés des e-mails publiés</strong> : apportez des modifications dans <i>Propriétés des e-mails</i> même après la publication de l’e-mail.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Sélectionner le domaine de branding et la configuration IP du domaine</strong> : vous pouvez désormais sélectionner un « Domaine de branding » et « Configuration IP du domaine » pour chaque ressource e-mail.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Mises à jour des notifications de code d’erreur de l’API REST</strong> : deux classes supplémentaires d’erreur de l’API REST dans les notifications in-app ont été ajoutées : 606 - Limite de débit maximal dépassée et 607 - Quota quotidien atteint.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Afficher les champs standard des personnes membres du programme dans la gestion des champs</strong> : les champs standard et personnalisés des personnes membres du programme dans <i>Gestion des champs</i> sont désormais visibles.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -143,7 +143,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Noms d’API REST dans la gestion des champs</strong> : cette mise à jour permet aux administrateurs et administratrices d’afficher les noms de champ de l’API REST sans avoir à exporter la liste.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Les cookies Munchkin et les ECID sont visibles</strong> : vous pouvez désormais voir une liste de numéros de cookies Munchkin et d’ECID (Experience Cloud Identity) dans l’onglet _Info_ d’une <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Page de détails de la personne</a>, ce qui réduit la dépendance aux appels API pour obtenir ces informations.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
  </tbody>
@@ -170,4 +170,4 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le mercredi 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

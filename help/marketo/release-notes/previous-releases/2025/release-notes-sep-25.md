@@ -2,10 +2,11 @@
 description: Notes De Mise À Jour - Septembre 2025 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Septembre 2025
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '704'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -32,8 +33,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Conservation des activités de webinaire à la demande</strong> : les utilisateurs et utilisatrices de webinaires interactifs disposent désormais de données de tableau de bord de webinaires à la demande disponibles pendant plus de 30 jours (auparavant, elles n’étaient disponibles que 30 jours maximum à compter de la date du webinaire).</td>
-   <td>Expédié</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
+   <td>Libéré</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -42,7 +43,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Autorisations de l’assistant IA</strong> : les administrateurs et administratrices Marketo peuvent fournir un accès aux fonctionnalités de GenAI pour des personnes spécifiques.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Configuration des autorisations</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Mode sombre</strong> : vous pouvez désormais utiliser le mode sombre, qui permet aux clients de messagerie et aux applications compatibles d’afficher les e-mails avec des arrière-plans plus sombres et des couleurs plus claires pour le texte, les boutons et d’autres éléments de l’UI.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Mode sombre</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Workflow de collaboration de contenu</strong> : vous pouvez désormais apporter des commentaires à propos des autres utilisateurs et utilisatrices de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les personnes membres de l’équipe (les utilisateurs et utilisatrices de Marketo qui disposent des autorisations appropriées sur les ressources) et elles recevront une notification push ou un e-mail.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">Collaboration par e-mail</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Concepteur d’e-mail - Correctifs de redirection</strong> : certaines personnes rencontraient des problèmes de redirection avec les URL pour les e-mails créés à l’aide du nouveau concepteur (par exemple, le collage direct des URL ou la création de signets sur des ressources d’e-mail ne fonctionnaient pas toujours). Ce problème a été résolu. En outre, les liens vers des ressources d’e-mail provenant de <b>Modèles d’e-mail</b> &gt; <b>Détails</b> &gt; <b>Utilisé par</b> redirigeront vers la ressource d’e-mail correspondante.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -93,6 +94,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Obsolescence de la fonctionnalité _Transférer à un ami_** : le 29 septembre 2025, la fonctionnalité _Transférer à un ami_ des e-mails dans Marketo Engage 2.0 (l’ancien éditeur d’e-mail) sera complètement obsolète pour tous les abonnements. Cela affecte le jeton « Transférer à un ami » et les liens « Transférer à un ami » dans les e-mails qui ont déjà été envoyés ou qui seront envoyés à l’aide du jeton. [En savoir plus](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le mercredi 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

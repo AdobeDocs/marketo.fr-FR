@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Juillet 2023 - Documents Marketo - Document
 title: Notes de mise à jour - Juillet 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
@@ -32,7 +32,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Vue d’ensemble de la carte d’engagement</a></td>
   </tr>
   </tbody>
@@ -46,7 +46,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
   </tbody>
@@ -100,7 +100,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Paramètre d’ajout automatique du message de désabonnement</a></td>
   </tr>
   </tbody>
@@ -114,7 +114,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Prompts de champs</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Champs dynamiques</a></td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
    <td><b>Mises à jour de la documentation</b></td>
   </tr>
   <tr>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Jetons de déclenchement de Dynamic Chat</a></td>
   </tr>
   </tbody>

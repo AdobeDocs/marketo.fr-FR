@@ -3,7 +3,7 @@ description: Notes De Mise À Jour - Septembre 2023 - Documents Marketo - Docume
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 29%
@@ -31,7 +31,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Nouvelle conception pour la configuration des rapports dans l’expérience utilisateur moderne</strong> : lors de la configuration d’une ressource de rapport, le menu de configuration contient une <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nouvelle arborescence de ressources</a> ainsi que la possibilité de filtrer par date de création et de modification.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td>s/o</td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
    <tr>
    <td><strong>Compute Formula Flow Step Service</strong> : le service Compute Formula est un service d’étape de flux reposant sur la plateforme d’exécution d’E/S d’Adobe, destiné à être utilisé avec les campagnes intelligentes Marketo Engage. Les utilisateurs disposant d’une exécution d’E/S peuvent déployer le service et l’installer dans leurs abonnements Marketo Engage, ce qui leur permet de calculer des formules de type Excel dans les campagnes intelligentes Marketo Engage.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Guide de l'utilisateur de Compute Formula</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
    <tr>
    <td><strong>Télécharger l’enregistrement et affecter un co-hôte dans les webinaires interactifs</strong> : vous pouvez désormais ajouter un co-hôte externe pour votre webinaire au cas où l’hôte d’origine n’est pas disponible. Vous pouvez également télécharger l’enregistrement du webinaire.</td>
-   <td>Expédié</td>
+   <td>Libéré</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Télécharger l’enregistrement</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Créer un webinaire interactif</a></li></td>
   </tr>

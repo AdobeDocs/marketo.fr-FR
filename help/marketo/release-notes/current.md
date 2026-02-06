@@ -3,9 +3,9 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '478'
 ht-degree: 38%
 
 ---
@@ -59,8 +59,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Designer d’e-mail - Puces</strong> : vous pouvez désormais créer des puces à plusieurs niveaux lors de la création d’un e-mail dans le Designer d’e-mail.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Libéré</td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -107,7 +107,7 @@ Consultez [cette page](https://helpx.adobe.com/adobe-connect/release-note/adobe-
 
 ## Annonces {#announcements}
 
-* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=fr){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"}.
+* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
