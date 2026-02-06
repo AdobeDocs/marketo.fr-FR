@@ -91,7 +91,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
   <tr>
    <td><strong>Intégration de Marketo + Workfront </strong> : pour ceux qui disposent de Marketo et Workfront, vous pouvez désormais utiliser les modèles Workfront Fusion pour intégrer les deux produits et déverrouiller de nouveaux workflows d’automatisation afin de rationaliser l’exécution des campagnes.</td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Vérifier et approuver le plan directeur</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=fr" target="_blank">Vérifier et approuver le plan directeur</a></td>
   </tr>
  </tbody>
 </table>
