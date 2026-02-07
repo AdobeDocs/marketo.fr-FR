@@ -58,7 +58,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Veillez à ce que vos formulaires <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> soient conformes.</li></td>
+    <td><li>Veillez à ce que vos formulaires <a href="https://business.adobe.com/fr/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> soient conformes.</li></td>
   </tr>
   <tr>
     <td>Normalisation Des Données</td>

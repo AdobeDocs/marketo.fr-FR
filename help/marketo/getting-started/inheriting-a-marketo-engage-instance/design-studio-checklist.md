@@ -95,7 +95,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
   <tr>
    <td>Confidentialité et conformité</td>
    <td><li>Votre stratégie de formulaire est-elle conforme aux exigences de confidentialité et d’opt-in de vos données d’entreprise ?
-   <br/>     Tenez compte du <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> de la Loi canadienne anti-pourriel (LCAP), du Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), du California Consumer Privacy Act (CCPA), etc., pour la conformité à la réglementation.</li>
+   <br/>     Tenez compte du <a href="https://business.adobe.com/fr/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> de la Loi canadienne anti-pourriel (LCAP), du Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), du California Consumer Privacy Act (CCPA), etc., pour la conformité à la réglementation.</li>
 <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : N'oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes pour maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody>

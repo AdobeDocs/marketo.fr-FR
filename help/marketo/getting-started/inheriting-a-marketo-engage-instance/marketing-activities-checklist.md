@@ -141,7 +141,7 @@ Organisez correctement votre section Activités marketing pour aider les autres 
   <tr>
    <td>Confidentialité et conformité</td>
    <td><li>Avez-vous des programmes pour vous assurer que vous respectez les lois sur la confidentialité des données et les pourriels?
-   <br/>     Tenez compte du <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, de la LCAP, du CAN-SPAM, du CCPA, etc.</li>
+   <br/>     Tenez compte du <a href="https://business.adobe.com/fr/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, de la LCAP, du CAN-SPAM, du CCPA, etc.</li>
 <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : N'oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes pour maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
   <tr>

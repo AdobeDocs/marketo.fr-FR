@@ -139,7 +139,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Créez des programmes pour vous assurer de vous conformer aux lois sur la confidentialité des données et le pourriel telles que le <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD, la LCAP, le CAN-SPAM, le CCPA, etc.</a></li>
+    <td><li>Créez des programmes pour vous assurer de vous conformer aux lois sur la confidentialité des données et le pourriel telles que le <a href="https://business.adobe.com/fr/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD, la LCAP, le CAN-SPAM, le CCPA, etc.</a></li>
     <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : N'oubliez jamais de consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes pour maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
   <tr>
