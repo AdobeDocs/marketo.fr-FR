@@ -4,10 +4,10 @@ description: Ajouter un lien Afficher en tant que page web à un e-mail - Docume
 title: Ajouter un lien Afficher en tant que page web à un e-mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 12%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,9 @@ Les fonctionnalités des e-mails sont limitées (CSS limité et pas de JavaScrip
 
 >[!NOTE]
 >
->Lors de la création d’un e-mail, Afficher en tant que page web n’est pas activé. Si vous l’activez et clonez l’e-mail, ce paramètre sera copié.
+>* Lors de la création d’un e-mail, Afficher en tant que page web n’est pas activé. Si vous l’activez et clonez l’e-mail, ce paramètre sera copié.
+>
+>* Les liens « Afficher en tant que page web » expirent au bout de six mois.
 
 1. Sélectionnez votre e-mail et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
