@@ -4,10 +4,10 @@ description: Configuration de LinkedIn Lead Gen Forms - Documents Marketo - Docu
 title: Configurer les formulaires de génération de leads LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 2%
+source-wordcount: '492'
+ht-degree: 3%
 
 ---
 
@@ -15,17 +15,13 @@ ht-degree: 2%
 
 Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans LinkedIn et générer des prospects pour Marketo.
 
->[!IMPORTANT]
->
->LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn de Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint dans votre menu **Admin** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, afin d’éviter l’interruption du service. Pour plus d’informations, consultez le [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
-
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
-
->[!NOTE]
+>* **Autorisations d’administration requises**
 >
->Un prospect LinkedIn n’apparaît pas dans Marketo Engage s’il correspond à un enregistrement de personne existant dans Marketo associé à un enregistrement d’entreprise créé à l’aide des API de l’entreprise et si l’abonnement à Marketo n’est pas associé à un CRM.
+>* Lors de la création de formulaires LinkedIn de génération de leads, assurez-vous que le nom du formulaire ne contient pas uniquement des caractères numériques. Le nom du formulaire doit être une lettre ou une lettre.
+>
+>* Un prospect LinkedIn n’apparaît pas dans Marketo Engage s’il correspond à un enregistrement de personne existant dans Marketo associé à un enregistrement d’entreprise créé à l’aide des API de l’entreprise et si l’abonnement à Marketo n’est pas associé à un CRM.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
