@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -195,7 +195,7 @@ ht-degree: 99%
          + [Connexion d’utilisateur ou d’utilisatrice avec Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + Migration des abonnements et des utilisateurs et utilisatrices {#subscription-and-user-migration}
             + [Migration vers Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Présentation de l’abonnement à Marketo et la migration des utilisateurs et utilisatrices vers Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+            + [Présentation de l’abonnement à Marketo et de la migration des utilisateurs et utilisatrices vers Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Migration du support Marketo Engage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
             + [Guide de dépannage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Paramètres {#settings}
@@ -242,7 +242,7 @@ ht-degree: 99%
          + [Descriptions des autorisations de rôles](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Activer l’absence de brouillon pour les extraits](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaces de travail et partitions de personnes {#workspaces-and-person-partitions}
-         + [Présentation des espaces de travail et des partitions de personnes](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+         + [Présentation des espaces de travail et des répartitions de personnes](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [Affecter des partitions de personne aux espaces de travail](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [Affectation de partitions de personne avec des règles d’affectation](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
@@ -587,7 +587,7 @@ ht-degree: 99%
          + [Enregistrez une application sur Azure pour obtenir votre identifiant client ou identifiant d’application](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Suppression d’un lead ou d’un contact](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Synchronisation Salesforce {#salesforce-sync}
-         + [Présentation de la synchronisation avec Salesforce](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+         + [Présentation de la synchronisation Salesforce](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
          + Configuration {#setup}
             + Édition Enterprise/Unlimited {#enterprise-unlimited-edition}
                + [Étape 1 sur 3 : ajouter des champs Marketo à Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
@@ -661,7 +661,7 @@ ht-degree: 99%
          + [Comportement du chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Liste de réunions](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Activités de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analyse](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Questions fréquentes](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation et configuration {#setup-and-configuration}
             + [Configuration initiale](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -671,7 +671,7 @@ ht-degree: 99%
             + [Paramètres de l’agent ou de l’agente](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Gestion des agentes et agents](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
             + [Paramètres de sécurité](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
-            + [Transmission](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [Routage](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
             + [Fonctions de rappel](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
             + [Limites d’utilisation](product-docs/demand-generation/dynamic-chat/setup-and-configuration/usage-limits.md)
          + Conversation automatisée {#automated-chat}
@@ -1110,7 +1110,7 @@ ht-degree: 99%
             + [Modifier des éléments dans un e-mail](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
             + [Vue d’ensemble de l’éditeur d’e-mail v2.0](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
             + [Vue d’ensemble du sélecteur de modèle d’e-mail](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
-            + [Syntaxe du modèle d’e-mail](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+            + [Syntaxe de modèle d’e-mail](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [Transition vers l’éditeur d’e-mail 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + Fonctions dans l’éditeur {#functions-in-the-editor}
             + [Lien de transfert à un ami ou une amie dans les e-mails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
@@ -1173,7 +1173,7 @@ ht-degree: 99%
          + [Configuration de l’authentification unique via SAML 2.0 dans Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Paramètres de partage](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Détails des accès des utilisateurs et utilisatrices](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + Analyse {#analytics}
          + [Vue d’ensemble de la page des analyses](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Présentation de l’onglet Contenu](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [Présentation de l’onglet Moi](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1386,7 +1386,7 @@ ht-degree: 99%
             + [Paramètres de partage](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Synchroniser les données d’action des ventes avec Marketo et Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Détails des accès des utilisateurs et utilisatrices](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + Analyse {#analytics}
             + [Vue d’ensemble de la page des analyses](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Présentation de l’onglet Contenu](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [Présentation de l’onglet Moi](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1971,6 +1971,8 @@ ht-degree: 99%
    + [Version de Dynamic Chat](release-notes/dynamic-chat.md)
    + [Version de Dynamic Chat TEMP](release-notes/dynamic-chat-temp.md)
    + Versions précédentes {#previous-releases}
+      + 2026 {#2026}
+         + [Notes De Mise À Jour : 26 Janvier](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Notes de mise à jour : janvier 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notes de mise à jour : mars 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
