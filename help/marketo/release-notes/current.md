@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 58%
+source-wordcount: '286'
+ht-degree: 60%
 
 ---
 
@@ -64,16 +64,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Email Designer - API</strong> : vous pouvez désormais utiliser des appels d’API pour le Designer d’e-mail.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Gestion des listes de sélection</strong> : indiquez les valeurs qui peuvent être utilisées dans les champs de l’interface de Marketo.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
