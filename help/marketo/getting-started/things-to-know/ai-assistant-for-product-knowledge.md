@@ -4,9 +4,10 @@ title: Assistant IA pour la connaissance des produits
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 18923353978a8f3e635ee7b34073d041d92a3759
+exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
+source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -36,3 +37,7 @@ Grâce à l’assistant d’IA dédiée à la connaissance des produits, vos éq
    >[!TIP]
    >
    >Utilisez cette icône (icône image ici) pour développer l’écran, et cette icône (icône image ici) pour afficher l’historique de l’invite. &lt;— COMBIEN DE TEMPS EN ARRIÈRE ? Y A-T-IL UN PARAMÈTRE ?
+
+## Démarrage rapide : présentation vidéo de 60 secondes {#video}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
