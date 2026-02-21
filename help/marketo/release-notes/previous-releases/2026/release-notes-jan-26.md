@@ -2,10 +2,11 @@
 description: Notes De Mise À Jour - Janvier 2026 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour – Janvier 2026
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
+source-git-commit: 640bf88008727e1fd8d2f65bae3bf133976a944d
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 36%
+source-wordcount: '477'
+ht-degree: 35%
 
 ---
 
@@ -73,8 +74,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <li>Les segmentations sont désormais triées par ordre alphabétique.</li>
    </ul>
    </td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Libéré</td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -83,8 +84,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Email Designer - Dossiers</strong> : vous pouvez désormais organiser vos ressources créées à l’aide du Designer d’e-mail (e-mails, modèles d’e-mail, fragments) avec des dossiers.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Libéré</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
@@ -102,11 +103,11 @@ Les fonctionnalités suivantes ont été publiées en dehors du cycle de publica
 
 * **Amélioration de l’expérience de l’interface de la salle** : profitez d’une interface de salle actualisée et plus moderne, reposant sur le dernier framework de conception Spectrum 2 d’Adobe, s’alignant sur le langage visuel utilisé dans d’autres produits Adobe tels que Creative Cloud et Experience Cloud.
 
-Consultez [cette page](https://helpx.adobe.com/fr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} pour plus de détails.
+Consultez [cette page](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} pour plus de détails.
 
 ## Annonces {#announcements}
 
-* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=fr){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"}.
+* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
