@@ -40,4 +40,4 @@ Grâce à l’assistant d’IA dédiée à la connaissance des produits, vos éq
 
 ## Démarrage rapide : présentation vidéo de 60 secondes {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480117?captions=fre_fr&learn=on){transcript=true}
