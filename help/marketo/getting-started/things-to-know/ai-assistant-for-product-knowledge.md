@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Grâce à l’assistant d’IA dédiée à la connaissance des produits, vos éq
 
 1. Connectez-vous à Marketo Engage via [Adobe Experience Cloud](https://experience.adobe.com/).
 
-1. Sélectionnez l’icône de l’assistant d’IA dans l’en-tête.
+1. Sélectionnez l’icône de l’assistant d’IA sur le côté droit de l’en-tête.
 
    CAPTURE D’ÉCRAN
 
-1. Saisissez l’invite souhaitée dans la fenêtre d’invite en utilisant le langage naturel.
+1. Saisissez l’invite souhaitée en utilisant le langage naturel.
 
    CAPTURE D’ÉCRAN
 
@@ -36,7 +36,7 @@ Grâce à l’assistant d’IA dédiée à la connaissance des produits, vos éq
 
    >[!TIP]
    >
-   >Utilisez cette icône (icône image ici) pour développer l’écran, et cette icône (icône image ici) pour afficher l’historique de l’invite. &lt;— COMBIEN DE TEMPS EN ARRIÈRE ? Y A-T-IL UN PARAMÈTRE ?
+   >Utilisez cette icône (icône image ici) pour développer l’écran, et cette icône (icône image ici) pour afficher votre historique ou démarrer une nouvelle conversation.
 
 ## Démarrage rapide : présentation vidéo de 60 secondes {#video}
 
