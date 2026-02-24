@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 5cf293a02d1e8c87a14c9077bef31c98e1694449
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -233,7 +233,6 @@ ht-degree: 99%
          + [Gestion des valeurs de balises](product-docs/administration/tags/managing-tag-values.md)
       + Utilisateurs et utilisatrices et rôles {#users-and-roles}
          + [Créer un rôle Utilisateur ou utilisatrice d’API uniquement](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
-         + [Créer un utilisateur ou une utilisatrice d’API uniquement](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Créer, supprimer, modifier et remplacer un rôle d’utilisateur ou d’utilisatrice](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Vérification par e-mail](product-docs/administration/users-and-roles/email-verification.md)
          + [Exporter une liste d’utilisateurs et d’utilisatrices et de rôles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
