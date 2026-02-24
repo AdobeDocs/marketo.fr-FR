@@ -3,7 +3,7 @@ description: Envoi d’un segment Adobe Experience Platform vers une liste stati
 title: Transmettre un segment Adobe Experience Platform vers une liste statique Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 3%
@@ -17,7 +17,7 @@ Cette fonctionnalité vous permet d’envoyer les segments situés dans votre Ad
 >[!PREREQUISITES]
 >
 >* [Modifiez le rôle d’API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} pour vous assurer qu’il dispose de l’autorisation **Personne en lecture-écriture** (qui se trouve sous la liste déroulante API Access).
->* [Création d’un utilisateur d’API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} dans Marketo.
+>* [Création d’un utilisateur d’API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} dans Marketo.
 >* Accédez à **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Recherchez le nom du rôle que vous venez de créer et cliquez sur **[!UICONTROL Afficher les détails]**. Copiez et enregistrez les informations dans **[!UICONTROL ID client]** et **[!UICONTROL Secret client]**, car vous pourriez en avoir besoin pour l’étape 7.
 >* Dans Marketo, créez une liste statique, ou recherchez et sélectionnez-en une que vous avez déjà créée. Vous aurez besoin de son identifiant.
 
@@ -99,7 +99,7 @@ Cette fonctionnalité vous permet d’envoyer les segments situés dans votre Ad
 
    >[!NOTE]
    >
-   >Vous pouvez mapper des attributs d’Experience Platform à l’un des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête d’API Describe](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
+   >Vous pouvez mapper des attributs d’Experience Platform à l’un des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête d’API Describe](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
 
 1. Mappez le nom et le nom de la société en cliquant de nouveau sur **[!UICONTROL Ajouter un nouveau mappage]** et en répétant deux fois l’étape 15, en choisissant **[!UICONTROL nom]** puis **[!UICONTROL nomSociété]**.
 

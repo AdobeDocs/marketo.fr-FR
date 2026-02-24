@@ -4,20 +4,20 @@ description: Créer un rôle d’utilisateur API uniquement - Documents Marketo 
 title: Créer un rôle Utilisateur ou utilisatrice d’API uniquement
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 10%
+ht-degree: 13%
 
 ---
 
 # Créer un rôle Utilisateur ou utilisatrice d’API uniquement {#create-an-api-only-user-role}
 
-Si vous souhaitez intégrer Marketo via l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api), la bonne pratique consiste à [attribuer à l’utilisateur le rôle API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) puis à [créer un service personnalisé à utiliser avec l’API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Voici comment créer le rôle d’utilisateur API uniquement.
+Si vous souhaitez intégrer Marketo via l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api), la bonne pratique consiste à [attribuer à l’utilisateur le rôle API uniquement](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md) puis à [créer un service personnalisé à utiliser avec l’API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Voici comment créer le rôle d’utilisateur API uniquement.
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -41,4 +41,4 @@ Si vous souhaitez intégrer Marketo via l’[API REST](https://experienceleague.
 
 >[!MORELIKETHIS]
 >
->D&#39;accord, bien joué ! Créons maintenant [un utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>D&#39;accord, bien joué ! Créons maintenant [un utilisateur API uniquement](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).

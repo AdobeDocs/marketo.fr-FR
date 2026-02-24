@@ -4,10 +4,10 @@ description: Connexion  [!DNL BrightTALK]  Marketo - Documents Marketo - Documen
 title: Connexion [!DNL BrightTALK] à Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -17,12 +17,12 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 ## Étapes dans [!DNL BrightTALK] {#steps-in-brighttalk}
 
 1. Connectez-vous à [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} puis cliquez sur **[!UICONTROL Se connecter maintenant]**.
-1. Sous [!UICONTROL &#x200B; Connecteur Marketo avancé &#x200B;], cliquez sur **[!UICONTROL Se connecter]**.
+1. Sous [!UICONTROL  Connecteur Marketo avancé ], cliquez sur **[!UICONTROL Se connecter]**.
 1. Vous accédez à l’écran des informations d’identification en demandant : ID client, secret client, URL du service d’identités et URL du service REST. Pour obtenir ces informations, connectez-vous à Marketo.
 
 ## Étapes dans Marketo {#steps-in-marketo}
@@ -33,7 +33,7 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
 1. Créez un [Rôle utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Créez un utilisateur d’API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} en utilisant le rôle d’API [!DNL BrightTALK] que vous avez créé à l’étape 4.
+1. [Créez un utilisateur d’API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} en utilisant le rôle d’API [!DNL BrightTALK] que vous avez créé à l’étape 4.
 
 1. Revenez à la zone **[!UICONTROL Admin]**.
 
