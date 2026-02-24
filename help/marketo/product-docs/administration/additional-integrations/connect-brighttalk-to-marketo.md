@@ -22,7 +22,7 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 ## Étapes dans [!DNL BrightTALK] {#steps-in-brighttalk}
 
 1. Connectez-vous à [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} puis cliquez sur **[!UICONTROL Se connecter maintenant]**.
-1. Sous [!UICONTROL  Connecteur Marketo avancé ], cliquez sur **[!UICONTROL Se connecter]**.
+1. Sous [!UICONTROL &#x200B; Connecteur Marketo avancé &#x200B;], cliquez sur **[!UICONTROL Se connecter]**.
 1. Vous accédez à l’écran des informations d’identification en demandant : ID client, secret client, URL du service d’identités et URL du service REST. Pour obtenir ces informations, connectez-vous à Marketo.
 
 ## Étapes dans Marketo {#steps-in-marketo}
