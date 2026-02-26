@@ -4,7 +4,8 @@ title: Abonnement aux notifications d’état du système
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
+exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
+source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -35,7 +36,7 @@ Dans le champ _Centre de données_, les lettres correspondent au centre de donn�
 
 À l’étape 7 de la [création d’un abonnement](#create-a-subscription), cet utilisateur sélectionne l’emplacement régional **Marketo Ashburn** et le pod **ab49**.
 
-<table style="width:225px;">
+<table style="width:300px;">
   <tr>
     <th colspan="2">Abréviations des centres de données</th>
   </tr>
@@ -85,7 +86,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
 1. Cliquez sur l’icône ![icône représentant un signe plus](assets/icon-plus-sign.png) située en regard de _Experience Cloud_ pour développer le menu. Faites de même pour _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
 1. Sélectionnez les offres/services de produit sur lesquels vous souhaitez recevoir des notifications et cliquez sur **Continuer**.
 
@@ -93,7 +94,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
    >
    >Cochez _Adobe Marketo Engage_ pour tout sélectionner.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800"}
 
 1. Sélectionnez les types d’événements souhaités.
 
@@ -101,26 +102,26 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    <table style="width:600px;">
    <tr>
-   <td style="width:30%;"><b>Problème de service majeur</b></td>
+   <td style="width:40%;"><b>Problème de service majeur</b></td>
    <td>Indisponibilité du service ou dégradation sévère des performances pour plusieurs utilisateurs sur les systèmes d’exploitation.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Problème mineur de service</b></td>
+   <td style="width:40%;"><b>Problème mineur de service</b></td>
    <td>Indisponibilité partielle du service ou dégradation modérée des performances pour plusieurs utilisateurs sur les systèmes d’exploitation.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Maintenance des services</b></td>
+   <td style="width:40%;"><b>Maintenance des services</b></td>
    <td>Texte</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Annonces</b></td>
+   <td style="width:40%;"><b>Annonces</b></td>
    <td>Annonces relatives à...</td>
    </tr>
    </table>
 
 1. Sélectionnez l’emplacement régional et l’environnement souhaités. Cliquez sur **Continuer**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 
