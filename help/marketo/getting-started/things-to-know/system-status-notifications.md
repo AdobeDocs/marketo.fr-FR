@@ -4,7 +4,7 @@ title: Abonnement aux notifications d’état du système
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -85,7 +85,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
 1. Cliquez sur l’icône ![icône représentant un signe plus](assets/icon-plus-sign.png) située en regard de _Experience Cloud_ pour développer le menu. Faites de même pour _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
 1. Sélectionnez les offres/services de produit sur lesquels vous souhaitez recevoir des notifications et cliquez sur **Continuer**.
 
@@ -93,7 +93,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
    >
    >Cochez _Adobe Marketo Engage_ pour tout sélectionner.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. Sélectionnez les types d’événements souhaités.
 
@@ -120,7 +120,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
 1. Sélectionnez l’emplacement régional et l’environnement souhaités. Cliquez sur **Continuer**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 
