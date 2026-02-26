@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9334'
 ht-degree: 99%
 
 ---
@@ -29,12 +29,13 @@ ht-degree: 99%
       + [Bonnes pratiques relatives à une nouvelle instance : liste de contrôle d’analyse](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Bonnes pratiques relatives à une nouvelle instance : documenter votre configuration](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Choses à savoir {#things-to-know}
-      + [Glossaire Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Glossaire Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Glossaire des icônes](getting-started/things-to-know/icon-glossary.md)
       + [Glossaire des icônes classiques](getting-started/things-to-know/classic-icon-glossary.md)
       + [Centre d’aide](getting-started/things-to-know/help-center.md)
+      + [Abonnement aux notifications d’état du système](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
       + [Assistant IA pour la connaissance des produits](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + [Communauté Marketing Nation](getting-started/things-to-know/community.md)
+      + [Communauté de la nation marketing](getting-started/things-to-know/community.md)
    + Solutions rapides {#quick-wins}
       + [Préparer sa configuration et ajouter une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Envoyer un e-mail](getting-started/quick-wins/send-an-email.md)
