@@ -5,16 +5,16 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
+source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
 
 # Abonnement aux notifications d’état du système {#subscribe-to-system-status-notifications}
 
-TEXTE D’INTRODUCTION
+Découvrez comment vous abonner à différentes notifications de statut pour rester informé des problèmes actuels.
 
 >[!PREREQUISITES]
 >
@@ -88,7 +88,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. Sélectionnez les offres/services de produit sur lesquels vous souhaitez recevoir des notifications et cliquez sur **Continuer**.
+1. Sélectionnez les produits/services pour lesquels vous souhaitez recevoir des notifications et cliquez sur **Continuer**.
 
    >[!TIP]
    >
@@ -100,28 +100,32 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>Problème de service majeur</b></td>
+   <td style="width:35%;"><b>Problème de service majeur</b></td>
    <td>Indisponibilité du service ou dégradation sévère des performances pour plusieurs utilisateurs sur les systèmes d’exploitation.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Problème mineur de service</b></td>
+   <td style="width:35%;"><b>Problème mineur de service</b></td>
    <td>Indisponibilité partielle du service ou dégradation modérée des performances pour plusieurs utilisateurs sur les systèmes d’exploitation.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Maintenance des services</b></td>
-   <td>Texte</td>
+   <td style="width:35%;"><b>Maintenance des services</b></td>
+   <td>Des fenêtres planifiées pour effectuer la maintenance du produit, ce qui peut avoir un impact sur sa disponibilité ou ses performances.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Annonces</b></td>
-   <td>Annonces relatives à...</td>
+   <td style="width:35%;"><b>Annonces</b></td>
+   <td>Messages globaux, de famille de produits ou liés à des produits qui ont un large impact.</td>
    </tr>
    </table>
 
-1. Sélectionnez l’emplacement régional et l’environnement souhaités. Cliquez sur **Continuer**.
+1. Sélectionnez l’emplacement régional et l’environnement. Cliquez sur **Continuer**.
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [ Identifier votre centre de données ](#identify).
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 
