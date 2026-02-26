@@ -125,7 +125,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    >[!NOTE]
    >
-   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [ Identifier votre centre de données ](#identify).
+   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [&#x200B; Identifier votre centre de données &#x200B;](#identify).
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 
