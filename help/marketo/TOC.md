@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
 workflow-type: tm+mt
 source-wordcount: '9334'
 ht-degree: 99%
@@ -33,7 +33,7 @@ ht-degree: 99%
       + [Glossaire des icônes](getting-started/things-to-know/icon-glossary.md)
       + [Glossaire des icônes classiques](getting-started/things-to-know/classic-icon-glossary.md)
       + [Centre d’aide](getting-started/things-to-know/help-center.md)
-      + [Abonnement aux notifications d’état du système](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
+      + [Abonnement aux notifications d’état du système](getting-started/things-to-know/system-status-notifications.md)
       + [Assistant IA pour la connaissance des produits](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Communauté de la nation marketing](getting-started/things-to-know/community.md)
    + Solutions rapides {#quick-wins}
