@@ -2,12 +2,10 @@
 description: Abonnement aux notifications de statut du système - Documentation de Marketo Engage - Documentation du produit
 title: Abonnement aux notifications d’état du système
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ Découvrez comment vous abonner à différentes notifications de statut pour res
 
 ## Identification de votre datacenter {#identify}
 
-+++Identifier votre datacenter et votre pod/serveur
-
 1. Dans la section **Admin** de Marketo Engage, cliquez sur **Mon compte**.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ Découvrez comment vous abonner à différentes notifications de statut pour res
 
 Dans le champ _Centre de données_, les lettres correspondent au centre de données et les chiffres au pod. Dans l’exemple ci-dessus, l’utilisateur se trouve dans notre centre de données Ashburn sur la capsule 49.
 
-À l’étape 7 de la [création d’un abonnement](#create-a-subscription), cet utilisateur sélectionne l’emplacement régional **Marketo Ashburn** et le pod **ab49**.
+À l’étape 7 de [section ci-dessous](#create-a-subscription), cet utilisateur sélectionnerait l’emplacement régional **Marketo Ashburn** et le pod **ab49**.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">Abréviations des centres de données</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Ashburn</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>San José</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>Sydney</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">long</td>
-    <td>Londres</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>Amsterdam</td>
-  </tr>
-</table>
+**Abréviations des centres de données**
+
+ab : Ashburn
+sj : San Jose
+sn : Sydney
+lon : Londres
+nld : Amsterdam
 
 >[!TIP]
 >
 >Cette méthode peut également être utilisée pour identifier le pod/serveur Real Time Personalization (RTP) dans lequel se trouve votre abonnement.
-
-+++
 
 ## Créer un abonnement {#create-a-subscription}
 
@@ -125,7 +101,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    >[!NOTE]
    >
-   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [&#x200B; Identifier votre centre de données &#x200B;](#identify).
+   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [ Identifier votre centre de données ](#identify).
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 

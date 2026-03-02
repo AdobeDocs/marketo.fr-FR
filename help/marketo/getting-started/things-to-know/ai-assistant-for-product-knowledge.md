@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ Grâce à l’assistant d’IA dédiée à la connaissance des produits, vos éq
    >
    >Utilisez cette icône ![](assets/icon-arrows.png) pour développer l’écran et cette icône ![](assets/icon-conversation-history.png) pour afficher votre historique ou démarrer une nouvelle conversation.
 
-## Démarrage rapide : présentation vidéo de 60 secondes {#video}
+## Démarrage rapide : présentation vidéo {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480117?captions=fre_fr&learn=on){transcript=true}
+Découvrez le fonctionnement de l’assistant d’IA pour la connaissance des produits, en une minute environ.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
