@@ -42,4 +42,4 @@ Grâce à l’assistant d’IA dédiée à la connaissance des produits, vos éq
 
 Découvrez le fonctionnement de l’assistant d’IA pour la connaissance des produits, en une minute environ.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480117?captions=fre_fr&learn=on){transcript=true}
