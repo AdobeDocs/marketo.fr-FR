@@ -3,7 +3,7 @@ description: Abonnement aux notifications de statut du système - Documentation 
 title: Abonnement aux notifications d’état du système
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ Découvrez comment vous abonner à différentes notifications de statut pour res
 
 Dans le champ _Centre de données_, les lettres correspondent au centre de données et les chiffres au pod. Dans l’exemple ci-dessus, l’utilisateur se trouve dans notre centre de données Ashburn sur la capsule 49.
 
-À l’étape 7 de [section ci-dessous](#create-a-subscription), cet utilisateur sélectionnerait l’emplacement régional **Marketo Ashburn** et le pod **ab49**.
+À l’étape 7 de [section ci-dessous](#create-a-subscription), l’utilisateur sélectionnait l’emplacement régional **Marketo Ashburn** et le pod **ab49**.
 
 **Abréviations des centres de données**
 
-ab : Ashburn
-sj : San Jose
-sn : Sydney
-lon : Londres
-nld : Amsterdam
+* ab : Ashburn
+* sj : San Jose
+* sn : Sydney
+* lon : Londres
+* nld : Amsterdam
 
 >[!TIP]
 >
@@ -101,7 +101,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    >[!NOTE]
    >
-   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [&#x200B; Identifier votre centre de données &#x200B;](#identify).
+   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [ Identifier votre centre de données ](#identify).
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 
