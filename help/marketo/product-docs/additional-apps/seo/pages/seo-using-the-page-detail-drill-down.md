@@ -44,11 +44,11 @@ Vous pouvez voir de nombreuses informations sur vos pages à l’aide de l’ana
 
 | Élément | Description |
 |---|---|
-| [!UICONTROL  Score d’optimisation ] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
-| Zone [!UICONTROL  À faire ] | Affiche le nombre de problèmes ouverts concernant la page sur laquelle vous vous trouvez. |
+| [!UICONTROL &#x200B; Score d’optimisation &#x200B;] | La sauce secrète utilisée pour vous montrer comment votre page est optimisée pour la recherche sur une échelle de 1 à 100. |
+| Zone [!UICONTROL &#x200B; À faire &#x200B;] | Affiche le nombre de problèmes ouverts concernant la page sur laquelle vous vous trouvez. |
 | [!UICONTROL Nombre total de liens entrants] | Nombre total de liens entrants vers votre site web. |
 | [!UICONTROL Liens entrants (domaines uniques)] | Nombre d’autres sites web comportant au moins un lien entrant vers votre site. |
-| [!UICONTROL  Liens sortants ] | Nombre de liens renvoyant à d’autres sites web à partir de cette page spécifique. |
+| [!UICONTROL &#x200B; Liens sortants &#x200B;] | Nombre de liens renvoyant à d’autres sites web à partir de cette page spécifique. |
 | [!UICONTROL Partages Facebook] | Nombre de fois où cette page a été partagée sur [!DNL Facebook]. |
 | [!UICONTROL J’aime Facebook] | Nombre de fois où ce partage de page a été apprécié sur [!DNL Facebook]. |
 | [!UICONTROL Clics Facebook] | Nombre de clics effectués à partir du [!DNL Facebook share]. |
@@ -65,7 +65,7 @@ C’est là que vous [sélectionnez le mot-clé pour lequel vous essayez d’opt
 
 ## [!UICONTROL Résultats de l’optimisation de la page] {#page-optimization-results}
 
-Les [!UICONTROL  Résultats de l’optimisation de la page ] vous indiqueront les étapes exactes à suivre pour augmenter votre score d’optimisation ou obtenir de meilleures performances lors de la recherche de cette page.
+Les [!UICONTROL &#x200B; Résultats de l’optimisation de la page &#x200B;] vous indiqueront les étapes exactes à suivre pour augmenter votre score d’optimisation ou obtenir de meilleures performances lors de la recherche de cette page.
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 

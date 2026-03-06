@@ -30,7 +30,7 @@ Pour savoir sur quoi vous concentrer pour améliorer vos efforts d’optimisatio
 
 ## [!UICONTROL Résumé du classement des mots-clés] {#keyword-rank-summary}
 
-Cette section vous explique comment votre site est classé pour les [ mots-clés que vous ciblez ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Cette section vous explique comment votre site est classé pour les [&#x200B; mots-clés que vous ciblez &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
