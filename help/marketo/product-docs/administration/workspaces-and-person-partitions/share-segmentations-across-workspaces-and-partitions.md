@@ -23,7 +23,7 @@ Marketo est très efficace pour sélectionner les bonnes personnes pour un progr
 
 >[!NOTE]
 >
->Découvrez [ comment créer des segmentations ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Découvrez [&#x200B; comment créer des segmentations &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
 Une fois ces personnes configurées (_et_ vous utilisez des espaces de travail), vous souhaiterez les partager dans vos espaces de travail. Voici quelques bonnes choses à savoir :
 

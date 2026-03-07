@@ -53,7 +53,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
 
    >[!NOTE]
    >
-   >En savoir plus sur ce que sont les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+   >En savoir plus sur ce que sont les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 

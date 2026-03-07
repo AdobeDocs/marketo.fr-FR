@@ -16,7 +16,7 @@ Si vous utilisez [!DNL Velocity Script] pour afficher des données d’objet per
 
 ## Qu’est-ce que [!DNL Velocity] {#what-is-velocity}
 
-[[!DNL Apache Velocity]](https://velocity.apache.org/) est un langage conçu sur [!DNL Java] pour créer des modèles et des scripts de contenu HTML. Marketo permet de l’utiliser dans le contexte des e-mails à l’aide de [ jetons de script ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Cela permet, entre autres, d’accéder aux données stockées dans des objets personnalisés.
+[[!DNL Apache Velocity]](https://velocity.apache.org/) est un langage conçu sur [!DNL Java] pour créer des modèles et des scripts de contenu HTML. Marketo permet de l’utiliser dans le contexte des e-mails à l’aide de [&#x200B; jetons de script &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Cela permet, entre autres, d’accéder aux données stockées dans des objets personnalisés.
 
 Vous pouvez référencer des objets personnalisés parents et enfants directement connectés au lead ou au contact, mais pas des objets personnalisés de troisième niveau. Pour chaque objet personnalisé, les 10 enregistrements mis à jour le plus récemment par personne/contact sont disponibles au moment de l’exécution et sont triés de la plus récente mise à jour (à 0) à la plus ancienne mise à jour (à 9).
 
@@ -36,6 +36,6 @@ Vous pouvez référencer des objets personnalisés parents et enfants directemen
 
 >[!NOTE]
 >
->La valeur [!UICONTROL  Limite de récupération parente ] doit être comprise entre 10 et 100. La [!UICONTROL limite de récupération des enfants] est définie automatiquement pour vous. Pour ce faire, divisez 1 000 par la [!UICONTROL  Limite de récupération du parent ]. Par exemple, si vous définissez la limite Parent sur 50, la limite Enfant devient 20 (1 000 ÷ 50 = 20).
+>La valeur [!UICONTROL &#x200B; Limite de récupération parente &#x200B;] doit être comprise entre 10 et 100. La [!UICONTROL limite de récupération des enfants] est définie automatiquement pour vous. Pour ce faire, divisez 1 000 par la [!UICONTROL &#x200B; Limite de récupération du parent &#x200B;]. Par exemple, si vous définissez la limite Parent sur 50, la limite Enfant devient 20 (1 000 ÷ 50 = 20).
 
 Joli ! Vous pouvez désormais accéder à d’autres objets personnalisés à partir de [!DNL Velocity script].

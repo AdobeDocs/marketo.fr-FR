@@ -59,4 +59,4 @@ Votre compte [!DNL Zoom] est maintenant synchronisé avec Marketo et se trouve d
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [ créer un événement avec  [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Découvrez comment [&#x200B; créer un événement avec  [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).

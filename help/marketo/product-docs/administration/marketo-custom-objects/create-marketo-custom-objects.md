@@ -43,7 +43,7 @@ Cet exemple illustre un objet personnalisé Car à utiliser dans une structure d
    >
    >L&#39;onglet [!UICONTROL Objets personnalisés Marketo] affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d&#39;enregistrements et de champs lors de la mise à jour la plus récente.
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
@@ -85,7 +85,7 @@ Cet exemple montre un objet personnalisé de cours que vous utiliserez pour cré
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
@@ -127,7 +127,7 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
 
    ![](assets/create-marketo-custom-objects-16.png)
 

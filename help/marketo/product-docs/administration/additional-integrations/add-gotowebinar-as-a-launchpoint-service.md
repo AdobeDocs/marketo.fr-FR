@@ -69,4 +69,4 @@ Marketo gère l’inscription et la participation aux [!DNL GoToWebinar].
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [ créer un événement avec  [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.
+>Découvrez comment [&#x200B; créer un événement avec  [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.
