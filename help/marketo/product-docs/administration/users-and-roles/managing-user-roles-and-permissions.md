@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359909
-description: Gestion des rôles utilisateur et des autorisations - Documents Marketo - Documentation du produit
+description: Découvrez comment définir, créer et modifier des rôles d’utilisateur, affecter des rôles aux utilisateurs et contrôler les zones et fonctionnalités auxquelles chaque utilisateur de Marketo peut accéder.
 title: Gestion des rôles et autorisations des utilisateurs et des utilisatrices
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ Par exemple, un utilisateur ou une utilisatrice marketing a généralement besoi
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Marketo fournit plusieurs rôles intégrés, avec différents niveaux d’accès :
 
@@ -37,7 +37,7 @@ Si vous utilisez Marketo avec Adobe Identity, la liste des descriptions de profi
 
 ## Affecter des rôles à un utilisateur {#assign-roles-to-a-user}
 
-Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vous [créez des utilisateurs et utilisatrices pour la première fois](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou en [&#x200B; un utilisateur ou une utilisatrice existant(e)](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vous [créez des utilisateurs et utilisatrices pour la première fois](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou en [ un utilisateur ou une utilisatrice existant(e)](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

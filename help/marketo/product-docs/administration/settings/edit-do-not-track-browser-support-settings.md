@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095047
-description: Modifier Les Paramètres De Prise En Charge Du Navigateur « Ne Pas Suivre » - Documents Marketo - Documentation Du Produit
+description: Comment honorer ou ignorer la requête Ne pas suivre du navigateur en modifiant le suivi des personnes.
 title: Modifier les paramètres de prise en charge du navigateur « Ne pas suivre »
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '132'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!NOTE]
 >

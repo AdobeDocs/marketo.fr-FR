@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360295
-description: Exporter une liste de tous les noms de champ API Marketo - Documents Marketo - Documentation du produit
+description: Téléchargez une feuille de calcul de tous les champs Marketo et de leurs noms d’API pour l’utilisation de l’API SOAP ou Munchkin .
 title: Exporter une liste de tous les noms de champ d’API Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 18%
+source-wordcount: '104'
+ht-degree: 20%
 
 ---
 
@@ -17,7 +17,7 @@ Si vous utilisez notre [!DNL SOAP API] ou [!DNL Munchkin API], vous aurez besoin
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

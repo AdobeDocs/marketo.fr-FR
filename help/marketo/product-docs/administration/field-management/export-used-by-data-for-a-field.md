@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417092
-description: Exportation utilisée par les données pour un champ - Documents Marketo - Documentation du produit
+description: Exportez une liste des ressources qui utilisent un champ afin de pouvoir déléguer la suppression du lien à votre équipe.
 title: Exporter les données Utilisation par d’un champ
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ En tant qu’administrateur, vous avez la possibilité d’exporter les ressourc
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

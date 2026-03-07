@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360293
-description: Renommer un champ - Documents Marketo - Documentation du produit
+description: Procédure à suivre pour renommer un champ personnalisé dans Marketo après avoir supprimé toute son utilisation dans les formulaires, les listes dynamiques et les campagnes.
 title: Renommer un champ
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

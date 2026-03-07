@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: Activation de la fonctionnalité sans brouillon pour les fragments de code - Documents Marketo - Documentation du produit
+description: Découvrez comment activer l’absence de brouillon pour les fragments de code afin que les modifications apportées aux fragments de code s’appliquent aux ressources approuvées sans nécessiter de nouveaux brouillons.
 title: Activer l’absence de brouillon pour les extraits
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 5%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ L’option sans brouillon est automatiquement activée pour tous les rôles d’
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

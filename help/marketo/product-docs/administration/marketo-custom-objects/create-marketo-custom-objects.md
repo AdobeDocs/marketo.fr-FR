@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093192
-description: Création D’Objets Personnalisés Marketo - Documents Marketo - Documentation Du Produit
+description: Procédure de création d’objets personnalisés Marketo pour les structures de type « un à plusieurs » ou « plusieurs à plusieurs », y compris le nom d’affichage, le nom de l’API et l’option Afficher dans le détail du prospect.
 title: Créer des objets personnalisés Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '711'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,7 @@ Cet exemple illustre un objet personnalisé Car à utiliser dans une structure d
    >
    >L&#39;onglet [!UICONTROL Objets personnalisés Marketo] affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d&#39;enregistrements et de champs lors de la mise à jour la plus récente.
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
@@ -85,7 +85,7 @@ Cet exemple montre un objet personnalisé de cours que vous utiliserez pour cré
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
@@ -127,7 +127,7 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
 
    ![](assets/create-marketo-custom-objects-16.png)
 

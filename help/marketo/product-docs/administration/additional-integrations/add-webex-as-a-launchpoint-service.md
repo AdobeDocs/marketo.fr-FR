@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512272
-description: Add [!DNL Webex] as a [!DNL LaunchPoint] Service - Documents Marketo - Documentation du produit
+description: Ajoutez  [!DNL Webex]  webinaires en tant que service LaunchPoint pour synchroniser l’inscription et la participation avec Marketo.
 title: Add [!DNL Webex] as a [!DNL LaunchPoint] Service
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Engage gère l’inscription et la participation au webinaire [!DNL Webe
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

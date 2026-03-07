@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360243
-description: Activer les restrictions de personne pour les campagnes intelligentes - Documents Marketo - Documentation du produit
+description: Définissez un nombre maximal de personnes pouvant être qualifiées pour une campagne intelligente afin d’éviter d’envoyer accidentellement par e-mail l’ensemble de la base de données.
 title: Activer les restrictions de personne pour les campagnes intelligentes
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 1%
+source-wordcount: '160'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo offre une fonctionnalité permettant de limiter le nombre _maximum_ de p
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!CAUTION]
 >

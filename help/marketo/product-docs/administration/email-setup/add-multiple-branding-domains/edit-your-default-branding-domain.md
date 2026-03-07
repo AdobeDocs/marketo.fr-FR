@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377392
-description: Modification De Votre Domaine De Marque Par Défaut - Documents Marketo - Documentation Du Produit
+description: Remplacez le domaine de suivi générique par le domaine de marque de votre société dans Admin Email (nécessite une configuration CNAME).
 title: Modifier votre domaine de branding par défaut
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ La modification de votre domaine de marque par défaut est la première étape d
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/edit-your-default-branding-domain-2.png)
 

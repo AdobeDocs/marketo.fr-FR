@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360203
-description: Créer un rôle d’utilisateur API uniquement - Documents Marketo - Documentation du produit
+description: Comment créer un rôle d’utilisateur API uniquement pour l’intégration de l’API REST en définissant un nom de rôle et en sélectionnant les autorisations d’accès à l’API à accorder.
 title: Créer un rôle Utilisateur ou utilisatrice d’API uniquement
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 

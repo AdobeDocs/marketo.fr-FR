@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099785
-description: Modifier les paramètres d’abonnement - Documents Marketo - Documentation du produit
+description: Comment donner à votre abonnement Marketo un nom d’affichage unique afin que vous puissiez différencier plusieurs abonnements.
 title: Modifier les paramètres d’abonnement
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 6%
+source-wordcount: '97'
+ht-degree: 9%
 
 ---
 

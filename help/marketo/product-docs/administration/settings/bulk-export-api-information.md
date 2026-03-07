@@ -1,18 +1,18 @@
 ---
-description: Exportation en bloc d’informations sur l’API - Documents Marketo - Documentation du produit
+description: Comment vérifier l’utilisation de la capacité de l’API d’extraction en bloc au cours des sept derniers jours et lorsque l’attribution se réinitialise.
 title: Informations sur l’API d’exportation en masse
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 8%
+source-wordcount: '106'
+ht-degree: 7%
 
 ---
 
 # Informations sur l’API d’exportation en masse {#bulk-export-api-information}
 
-Découvrez comment vérifier la quantité de capacité [API d’extraction en bloc](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} qui a été absorbée par votre instance Marketo Engage au cours des sept derniers jours.
+Découvrez comment vérifier la quantité de capacité [API d’extraction en bloc](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} qui a été absorbée par votre instance Marketo Engage au cours des sept derniers jours.
 
 >[!NOTE]
 >

@@ -1,12 +1,12 @@
 ---
-description: Filtrage de l’activité de robot d’e-mail - Documents Marketo - Documentation du produit
+description: Filtrez ou enregistrez l’activité des robots d’e-mail pour éviter les ouvertures et les clics exagérés en utilisant la correspondance de liste IAB et les modèles de proximité.
 title: Filtrage de l’activité des robots dans les e-mails
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 1%
+source-wordcount: '494'
+ht-degree: 2%
 
 ---
 
@@ -35,7 +35,7 @@ Par rapport aux activités clic sur les liens d’e-mail et ouverture de l’e-m
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 

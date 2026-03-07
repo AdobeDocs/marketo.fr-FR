@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: Création De Balises Personnalisées - Documents Marketo - Documentation Du Produit
+description: Découvrez comment créer un type de balise avec des valeurs, choisir les types de programme auxquels il s’applique et définir la balise selon les besoins ou les options.
 title: Créer des balises personnalisées
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 3%
+source-wordcount: '236'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Les balises vous aident à organiser vos programmes, tandis que les canaux vous 
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 ## Créer un type de balise {#create-a-new-tag-type}
 
@@ -62,7 +62,7 @@ Pour créer un type de balise, procédez comme suit :
 
    >[!TIP]
    >
-   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programme, mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programme, l’une avec « [!UICONTROL &#x200B; Obligatoire &#x200B;] sélectionné et l’autre avec « [!UICONTROL &#x200B; Obligatoire &#x200B;] non sélectionnée.
+   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programme, mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programme, l’une avec « [!UICONTROL  Obligatoire ] sélectionné et l’autre avec « [!UICONTROL  Obligatoire ] non sélectionnée.
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 

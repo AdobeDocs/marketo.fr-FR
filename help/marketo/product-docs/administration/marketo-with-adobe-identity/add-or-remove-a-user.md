@@ -1,11 +1,11 @@
 ---
-description: Ajout ou suppression d’un utilisateur - Documents Marketo - Documentation du produit
+description: Comment ajouter ou supprimer des utilisateurs Marketo Engage dans le Adobe Admin Console en sélectionnant un profil de produit et en gérant l’onglet Utilisateurs.
 title: Ajouter ou supprimer un utilisateur ou une utilisatrice
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 6%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360333
-description: Masquage et affichage d’un champ - Documents Marketo - Documentation du produit
+description: Masquez les champs de l’interface utilisateur de Marketo lorsque vous n’en avez plus besoin ou affichez-les pour les réafficher.
 title: Masquer et afficher un champ
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 7%
+source-wordcount: '184'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Si vous n’utilisez plus un champ dans Marketo Engage, vous pouvez le masquer d
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -57,7 +57,7 @@ Si vous n’utilisez plus un champ dans Marketo Engage, vous pouvez le masquer d
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Recherchez et sélectionnez le champ . Dans la liste déroulante [!UICONTROL &#x200B; Actions de champ &#x200B;], cliquez sur **[!UICONTROL Afficher le champ]**.
+1. Recherchez et sélectionnez le champ . Dans la liste déroulante [!UICONTROL  Actions de champ ], cliquez sur **[!UICONTROL Afficher le champ]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

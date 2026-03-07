@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377406
-description: Modification de votre domaine de marque par défaut avec Workspaces - Documents Marketo - Documentation du produit
+description: Remplacez le domaine de branding générique par le domaine de votre société lors de l’utilisation d’espaces de travail dans Marketo.
 title: Modifier votre domaine de branding par défaut avec des espaces de travail
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 10%
+source-wordcount: '157'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 

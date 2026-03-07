@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: Modification du type d’un champ personnalisé Marketo - Documents Marketo - Documentation du produit
+description: Comment modifier le type de données d’un champ personnalisé dans la gestion des champs (les champs de score et de formule ne peuvent pas être modifiés).
 title: Modifier le type d’un champ personnalisé Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 

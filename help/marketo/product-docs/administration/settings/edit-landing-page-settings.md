@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359918
-description: Modifier les paramètres de la page de destination - Documents Marketo - Documentation du produit
+description: Comment modifier le nom de domaine, la page de secours, le préremplissage de formulaire et d’autres options de page de destination.
 title: Modifier les paramètres de la page de destination
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 6%
+source-wordcount: '237'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Vous pouvez modifier votre nom de domaine et votre page de secours, activer ou d
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -38,7 +38,7 @@ Vous pouvez modifier votre nom de domaine et votre page de secours, activer ou d
    | Terme | Définition |
    |---|---|
    | [!UICONTROL Nom de domaine pour les landing pages] | Il s’agit de votre CNAME. Un CNAME est la première partie de l’URL que vous fournissez aux personnes pour les pages de destination. Par exemple, dans `https://go.yourCompany.com`, le mot « go » correspond au CNAME. Vous pouvez en avoir plusieurs, mais la plupart des gens n&#39;en utilisent qu&#39;une. |
-   | [!UICONTROL &#x200B; Page de secours &#x200B;] | C’est là que aller si la page de destination n’existe pas ou est en panne. En savoir plus sur les [pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL  Page de secours ] | C’est là que aller si la page de destination n’existe pas ou est en panne. En savoir plus sur les [pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Page d’accueil] | Saisissez l’URL de votre site d’entreprise. |
 
 1. Cochez la case **[!UICONTROL Préremplissage de formulaire]** pour permettre aux formulaires de préremplir des informations pour des personnes connues (cookies). Décochez pour bloquer.

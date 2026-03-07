@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360251
-description: Modifier le message de désabonnement - Documents Marketo - Documentation du produit
+description: Modifiez le texte de désabonnement par défaut et les liens ajoutés aux e-mails marketing dans les e-mails d’administration.
 title: Modifier le message de désabonnement
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 7%
+source-wordcount: '145'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Lorsque vous envoyez des e-mails marketing (non [opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés en bas. Vous pouvez modifier les valeurs par défaut. Voici comment faire.
 
@@ -25,7 +25,7 @@ Lorsque vous envoyez des e-mails marketing (non [opérationnels](/help/marketo/p
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 

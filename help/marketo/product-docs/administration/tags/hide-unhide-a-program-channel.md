@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: Masquer/Afficher un canal de programme - Documents Marketo - Documentation du produit
+description: Procédure à suivre pour masquer un canal de programme lorsqu’il est en cours d’utilisation ou pour l’afficher à l’aide de la case à cocher Afficher masqué .
 title: Masquer/afficher un canal de programme
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '114'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Vous pouvez [supprimer un canal de programme](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) s’il n’est utilisé par aucun programme.  Cependant, une fois qu&#39;on l&#39;utilise, il faut la garder.  Cependant, vous pouvez le masquer si vous n’en avez plus besoin.
 

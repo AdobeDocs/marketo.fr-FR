@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360291
-description: Bloquer les mises à jour d’un champ - Documents Marketo - Documentation du produit
+description: Bloquer les mises à jour d’un champ afin que la première valeur écrite soit conservée pendant la durée de vie de l’enregistrement.
 title: Bloquer les mises à jour d’un champ
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 5%
+source-wordcount: '180'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Le blocage des mises à jour d’un champ vous permet d’écrire dans le champ 
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

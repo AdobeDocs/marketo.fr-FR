@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377408
-description: Ajout d’un domaine de marque supplémentaire avec Workspaces - Documents Marketo - Documentation du produit
+description: Ajoutez des domaines de branding supplémentaires et attribuez un domaine principal par espace de travail lors de l’utilisation d’espaces de travail.
 title: Ajouter un domaine de branding supplémentaire avec des espaces de travail
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 12%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
@@ -25,7 +25,7 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter des domaines de bra
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 

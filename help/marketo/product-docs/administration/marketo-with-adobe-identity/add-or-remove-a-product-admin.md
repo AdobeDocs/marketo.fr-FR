@@ -1,11 +1,11 @@
 ---
-description: Ajout ou suppression d’un administrateur de produit - Documents Marketo - Documentation du produit
+description: Procédure à suivre pour ajouter ou supprimer des administrateurs de produit dans le Adobe Admin Console.
 title: Ajouter ou supprimer un administrateur ou une administratrice de produit
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '288'
 ht-degree: 6%
 
 ---

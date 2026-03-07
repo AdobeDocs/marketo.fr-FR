@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360321
-description: Modification du nom d’un Workspace - Documents Marketo - Documentation du produit
+description: Découvrez comment renommer un espace de travail.
 title: Modifier le nom d’un espace de travail
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 15%
+source-wordcount: '76'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!PREREQUISITES]
 >

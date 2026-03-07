@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095453
-description: Modifier et supprimer des champs d’objet personnalisés Marketo - Documents Marketo - Documentation du produit
+description: Comment modifier ou supprimer des champs sur un objet personnalisé non approuvé à l’aide d’actions de champ.
 title: Modifier et supprimer des champs d’objet personnalisé Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '133'
 ht-degree: 12%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360213
-description: Modifier l’expiration du lien dans les rapports et alertes - Documents Marketo - Documentation du produit
+description: Comment modifier le nombre de jours pendant lesquels les liens dans les e-mails d’abonnement au rapport restent valides.
 title: Modifier l’expiration du lien dans les rapports et alertes
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 16%
+source-wordcount: '102'
+ht-degree: 18%
 
 ---
 
@@ -17,7 +17,7 @@ Les liens figurant dans les e-mails d’abonnement aux rapports expirent au bout
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la section **[!UICONTROL Admin]**.
 

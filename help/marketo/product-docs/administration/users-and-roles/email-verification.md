@@ -1,11 +1,11 @@
 ---
-description: Vérification par e-mail - Documents Marketo - Documentation du produit
+description: Présentation de la vérification des e-mails pour les utilisateurs de Marketo Engage, y compris la raison pour laquelle elle est obligatoire, le flux d’invitation, l’e-mail de vérification et la résolution de plusieurs identifiants de connexion.
 title: Vérification par e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '485'
 ht-degree: 1%
 
 ---

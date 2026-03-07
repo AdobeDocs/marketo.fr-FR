@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100269
-description: Modification d’une activité personnalisée - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier une activité personnalisée et en quoi le statut Brouillon ou Publié est affecté.
 title: Modifier une activité personnalisée
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '111'
 ht-degree: 9%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360335
-description: Bloquer les mises à jour de champ lors de l’importation de liste à partir de sources non approuvées - Documents Marketo - Documentation du produit
+description: Empêchez le remplacement des champs clés lors des imports de liste à partir de sources non approuvées afin de protéger les données existantes.
 title: Bloquer les mises à jour des champs lors de l’import de liste à partir de sources non approuvées
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 9%
+source-wordcount: '209'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Vous pouvez faire davantage confiance aux données de certaines listes qu’à c
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 ## Blocage Des Mises À Jour De Champs Provenant De Sources Non Approuvées {#blocking-field-updates-from-untrusted-sources}
 

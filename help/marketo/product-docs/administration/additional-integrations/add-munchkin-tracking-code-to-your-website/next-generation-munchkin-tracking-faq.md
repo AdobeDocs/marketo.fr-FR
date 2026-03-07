@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: FAQ sur le suivi  [!DNL Munchkin]  nouvelle génération - Documents Marketo - Documentation du produit
+description: Questions fréquentes sur le déploiement du suivi  [!DNL Munchkin]  nouvelle génération et le changement de filtre Est anonyme.
 title: FAQ sur le tracking  [!DNL Munchkin]  nouvelle génération
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans un
 >[!NOTE]
 >
 >**Déclencheur** : page Web Visites, page Web est page de tarification
->&#x200B;>**Flux** : Modifier le score de +10 et le moment intéressant
->&#x200B;>**Web** : Page Tarification affichée
+>**Flux** : Modifier le score de +10 et le moment intéressant
+>**Web** : Page Tarification affichée
 >
 >Avec [!DNL Munchkin] V2, si une personne anonyme visite la page de tarification, elle ne participe pas immédiatement à la campagne. Au moment où la personne anonyme sera connue, nous lancerons cette campagne sur elle. Elle :
 >

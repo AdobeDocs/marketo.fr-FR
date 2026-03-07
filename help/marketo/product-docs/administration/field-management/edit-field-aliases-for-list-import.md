@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360346
-description: Modifier les alias de champ pour l’importation de liste - Documents Marketo - Documentation du produit
+description: Créez et modifiez des alias de champ afin que les imports de liste avec des en-têtes de colonne inconnus soient mappés aux champs Marketo corrects.
 title: Modifier les alias de champ pour l’import de liste
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Lorsque vous importez une liste dont les en-têtes sont inconnus, vous pouvez cr
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

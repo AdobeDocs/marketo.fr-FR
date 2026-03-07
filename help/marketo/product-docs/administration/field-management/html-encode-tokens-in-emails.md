@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720461
-description: Jetons de codage HTML dans les e-mails - Documents Marketo - Documentation du produit
+description: Activez ou désactivez le codage HTML pour les jetons de personne et d’entreprise utilisés dans les e-mails afin d’assurer une transmission correcte.
 title: Jetons d’encodage HTML dans les e-mails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Activez/désactivez les jetons de personne et d’entreprise utilisés dans les 
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!NOTE]
 >

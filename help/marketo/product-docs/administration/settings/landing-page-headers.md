@@ -1,11 +1,11 @@
 ---
-description: En-têtes de page de destination - Documents Marketo - Documentation du produit
+description: Comment personnaliser les en-têtes HTTP pour les domaines de page de destination, y compris Strict-Transport-Security et X-Frame-Options.
 title: En-têtes de page de destination
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '137'
 ht-degree: 4%
 
 ---

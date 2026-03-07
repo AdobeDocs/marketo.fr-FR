@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: Ajouter l'authentification unique à un portail - Documents Marketo - Documentation du produit
+description: Activez l’authentification unique SAML 2.0 afin que votre fournisseur d’identité authentifie les utilisateurs pour Marketo (ne s’applique pas à Adobe IMS).
 title: Ajouter l’authentification unique à un portail
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Une fois la connexion unique activée, l’IdP peut valider les informations d�
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!IMPORTANT]
 >
@@ -29,7 +29,7 @@ Une fois la connexion unique activée, l’IdP peut valider les informations d�
 
 >[!NOTE]
 >
->Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [&#x200B; tutoriel d’intégration &#x200B;](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
+>Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [ tutoriel d’intégration ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
 
 ## Envoi de la requête {#how-to-send-the-request}
 

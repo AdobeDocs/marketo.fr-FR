@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: Présentation des paramètres de confidentialité - Documents Marketo - Documentation du produit
+description: Présentation des options de confidentialité et de tracking, notamment la prise en charge du navigateur Ne pas suivre , les cookies de désinscription et le tracking IP anonymisé pour les visiteurs web.
 title: Présentation des paramètres de confidentialité
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Les marketeurs peuvent permettre aux utilisateurs de s’inscrire en utilisant l
 
 Les marketeurs peuvent préserver la confidentialité en suivant les utilisateurs avec une adresse IP anonymisée. Pour ce faire, ajoutez ce code au code RTP ou [!DNL Munchkin] JavaScript intégré au site web.
 
-* Par [!DNL Munchkin], ajoutez simplement des `{"anonymizeIP",true}` à la fonction [init](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Par [!DNL Munchkin], ajoutez simplement des `{"anonymizeIP",true}` à la fonction [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Pour le Web Personalization (RTP), ajoutez ceci au javascript :
 

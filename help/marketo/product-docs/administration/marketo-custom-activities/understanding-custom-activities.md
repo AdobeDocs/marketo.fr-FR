@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100266
-description: Présentation Des Activités Personnalisées - Documents Marketo - Documentation Du Produit
+description: Présentation des activités personnalisées pour le suivi des actions de personnes spécifiques à l’entreprise, en quoi elles diffèrent des objets personnalisés et la configuration en deux étapes de la création de l’activité et de l’implémentation de l’API.
 title: Présentation des activités personnalisées
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '278'
 ht-degree: 9%
 
 ---
@@ -37,4 +37,4 @@ Les activités personnalisées fonctionnent comme les activités standard. Cepen
 
 Étape 2 : l’employé de votre entreprise qui travaille avec notre API peut ensuite commencer la mise en œuvre. Vous trouverez plus d’informations ici : [API d’activité personnalisée](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
-Amusez-vous bien !
+Amusez-vous bien.

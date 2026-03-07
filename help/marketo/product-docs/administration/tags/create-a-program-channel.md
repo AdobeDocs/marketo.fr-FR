@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950682
-description: Création d’un canal de programme - Documents Marketo - Documentation du produit
+description: Procédure de création d’un canal de programme avec les statuts et les étapes de progression, y compris le type de programme, le statut de réussite et les options d’enregistrement mobile pour les événements.
 title: Créer un canal de programme
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '442'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!NOTE]
 >

@@ -1,11 +1,11 @@
 ---
-description: Exportation de métadonnées d’objet personnalisé - Documents Marketo - Documentation du produit
+description: Comment exporter un schéma de métadonnées d’objet personnalisé pour une utilisation avec l’API SOAP ou Munchkin.
 title: Exportation de métadonnées d’objet personnalisé
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '114'
 ht-degree: 7%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: Partager des segmentations sur les espaces de travail et les partitions - Documents Marketo - Documentation du produit
+description: Règles et étapes de partage des segmentations entre les espaces de travail et les partitions, y compris les limites et conseils pour créer des segmentations dans l’espace de travail par défaut.
 title: Partager des segmentations dans les espaces de travail et les partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 2%
+source-wordcount: '485'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo est très efficace pour sélectionner les bonnes personnes pour un progr
 
 >[!NOTE]
 >
->Découvrez [&#x200B; comment créer des segmentations &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Découvrez [ comment créer des segmentations ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
 Une fois ces personnes configurées (_et_ vous utilisez des espaces de travail), vous souhaiterez les partager dans vos espaces de travail. Voici quelques bonnes choses à savoir :
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360247
-description: Modification de la valeur par défaut À partir de l’e-mail et Du libellé - Documents Marketo - Documentation du produit
+description: Définissez les valeurs par défaut De l’e-mail et De l’étiquette pour les nouveaux e-mails en tant qu’utilisateur administrateur.
 title: Modifier l’adresse e-mail et le libellé de l’expéditeur ou de l’expéditrice par défaut
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 14%
+source-wordcount: '115'
+ht-degree: 18%
 
 ---
 
@@ -17,13 +17,13 @@ Chaque utilisateur administrateur peut modifier les valeurs par défaut pour **[
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la section **[!UICONTROL Admin]**.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 

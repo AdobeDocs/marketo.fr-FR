@@ -1,12 +1,12 @@
 ---
-description: En-Têtes De Lien De Suivi Des E-Mails - Documents Marketo - Documentation Du Produit
+description: Comment personnaliser les en-têtes des liens de suivi des e-mails dans Admin sous E-mail, y compris Strict-Transport-Security pour HTTPS, avec les conseils de révision informatique.
 title: En-têtes de lien de suivi des e-mails
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 8%
+source-wordcount: '114'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ Suivez les étapes ci-dessous pour personnaliser les en-têtes de lien de suivi 
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 

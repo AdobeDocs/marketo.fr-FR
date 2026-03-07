@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360311
-description: Création d’un Workspace - Documentation de Marketo - Documentation du produit
+description: Procédure à suivre pour créer un espace de travail, notamment pour lui donner un nom, sélectionner des partitions de personne, choisir un domaine de marque principal et définir la langue de l’espace de travail.
 title: Créer un espace de travail
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '226'
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ Voici comment créer un espace de travail.
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Voici comment créer un espace de travail.
 
 >[!TIP]
 >
->Pour en savoir plus sur les bonnes pratiques relatives à Workspace, contactez [les services professionnels de Marketo](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"}.
+>Pour en savoir plus sur les bonnes pratiques relatives à Workspace, contactez [les services professionnels de Marketo](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

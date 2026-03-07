@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359900
-description: Configuration système minimale requise - Marketo
-title: Configuration système minimale
+description: Configuration matérielle et logicielle requise pour l’utilisation de Marketo Engage, notamment le système d’exploitation, la résolution d’affichage, le navigateur et les détails de place sur la liste autorisée réseau.
+title: Configuration minimale requise
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 5%
 
 ---
 
-# Configuration système minimale {#minimum-system-requirements}
+# Configuration minimale requise {#minimum-system-requirements}
 
 Si vous vous demandez ce dont vous avez besoin pour vous connecter et utiliser Marketo Engage, voici les informations que vous recherchez.
 

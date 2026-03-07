@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848782
-description: Rendre votre message de désabonnement dynamique pour les langues - Documents Marketo - Documentation du produit
+description: Utilisez le contenu dynamique et la segmentation pour afficher le message de désabonnement et le lien dans différentes langues.
 title: Rendre votre message de désabonnement dynamique pour les langues
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '495'
 ht-degree: 7%
 
 ---

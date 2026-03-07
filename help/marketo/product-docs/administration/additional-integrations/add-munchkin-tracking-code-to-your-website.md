@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: Ajout  [!DNL Munchkin]  code de suivi à votre site web - Documents Marketo - Documentation du produit
+description: Ajoutez Marketo [!DNL Munchkin] JavaScript à votre site pour effectuer le suivi des visites et activer les campagnes web.
 title: Ajout  [!DNL Munchkin]  code de suivi à votre site web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 0%
+source-wordcount: '669'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé [!DNL Munchkin], p
 >
 >Assurez-vous d’avoir accès à un développeur JavaScript expérimenté. L’assistance technique de Marketo n’est pas configurée pour vous aider à résoudre les problèmes liés au JavaScript personnalisé.
 
-## Ajout d’un code de suivi à votre site web {#add-tracking-code-to-your-website}
+## Ajouter le code de suivi à votre site web {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >

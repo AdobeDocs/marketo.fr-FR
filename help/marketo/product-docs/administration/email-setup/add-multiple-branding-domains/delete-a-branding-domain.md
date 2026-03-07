@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378041
-description: Suppression d’un domaine de marque - Documents Marketo - Documentation du produit
+description: Supprimez un domaine de branding de la table d'administration des e-mails (définissez d'abord un principal différent en cas de suppression du principal).
 title: Supprimer un domaine de branding
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 13%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 13%
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/delete-a-branding-domain-2.png)
 

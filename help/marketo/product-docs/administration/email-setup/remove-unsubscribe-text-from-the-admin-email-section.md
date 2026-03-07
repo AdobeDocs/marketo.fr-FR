@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360245
-description: Suppression du texte de désabonnement de la section E-mail de l’administrateur - Documents Marketo - Documentation du produit
+description: Supprimez le contenu de désabonnement par défaut d’Admin Email à l’aide d’un commentaire HTML lors de la création du lien dans des modèles.
 title: Supprimez le texte de désabonnement de la section E-mail de l’administrateur.
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ La seule raison pour laquelle vous devriez supprimer complètement le contenu de
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 

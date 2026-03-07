@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360215
-description: Activer des URL personnalisées pour votre compte - Documents Marketo - Documentation du produit
+description: Procédure d’activation des URL personnalisées pour votre abonnement en vue de leur utilisation dans des courriers imprimés et d’autres campagnes.
 title: Activer les URL personnalisées pour votre compte
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 17%
+source-wordcount: '98'
+ht-degree: 19%
 
 ---
 
@@ -17,7 +17,7 @@ Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098433
-description: Création d’une Place sur la liste autorisée pour l’accès à l’API basée sur IP - Documents Marketo - Documentation du produit
+description: Restreindre l’accès à l’API à des adresses IP ou plages spécifiques via les restrictions IP des services Web d’administration.
 title: Créer une liste autorisée pour l’accès à l’API basé sur l’adresse IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 10%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -17,11 +17,11 @@ Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!NOTE]
 >
->Cette fonctionnalité fonctionne indépendamment des restrictions de connexion basées sur l’adresse IP [Marketo Engage](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} qui sont remplacées par le contrôle d’accès basé sur l’adresse IP [Admin Console](https://helpx.adobe.com/fr/enterprise/using/ip-based-access.html){target="_blank"}. Il continuera à fonctionner en l’état après la migration d’Adobe IMS.
+>Cette fonctionnalité fonctionne indépendamment des restrictions de connexion basées sur l’adresse IP [Marketo Engage](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} qui sont remplacées par le contrôle d’accès basé sur l’adresse IP [Admin Console](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Il continuera à fonctionner en l’état après la migration d’Adobe IMS.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

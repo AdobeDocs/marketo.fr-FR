@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360344
-description: "Affichage des mappages de champs entre Marketo et [!DNL Salesforce]  - Documents Marketo - Documentation du produit"
-title: "Affichage des mappages de champs entre Marketo et [!DNL Salesforce]"
+description: Découvrez comment afficher les champs  [!DNL Salesforce]  mappés aux champs Marketo dans la gestion des champs d’administration.
+title: Afficher les mappages de champs entre Marketo et  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 3%
 
 ---
 
-# Affichage des mappages de champs entre Marketo et [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
+# Afficher les mappages de champs entre Marketo et [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-Vous souhaitez peut-être savoir à quels [!DNL Salesforce] champs Marketo un champ spécifique est lié. Voici comment vérifier.
+Vous souhaiterez peut-être savoir à quels champs de [!DNL Salesforce] un champ Marketo spécifique est lié. Voici comment vérifier.
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -27,14 +27,14 @@ Vous souhaitez peut-être savoir à quels [!DNL Salesforce] champs Marketo un ch
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
-1. Recherchez le champ qui vous intéresse et cliquez sur **+** pour développer le mappage.
+1. Recherchez le champ qui vous intéresse et cliquez sur le **+** pour développer le mappage.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >
->Cela affiche le nom de l’API [!DNL Salesforce], et non le nom de l’étiquette.
+>Le nom de l’API [!DNL Salesforce] s’affiche, et non le nom du libellé.
 
 >[!IMPORTANT]
 >
->Les champs répertoriés reflètent uniquement les données du mappage initial. Elles ne sont pas mises à jour après la synchronisation de Marketo/[!DNL Salesforce].
+>Les champs répertoriés reflètent uniquement les données du mappage initial. Elles ne sont pas mises à jour après la synchronisation Marketo/[!DNL Salesforce].

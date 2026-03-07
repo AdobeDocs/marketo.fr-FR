@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15695874
-description: Connexion  [!DNL BrightTALK]  Marketo - Documents Marketo - Documentation du produit
+description: Connectez votre canal  [!DNL BrightTALK]  Marketo via LaunchPoint à l’aide d’informations d’identification d’utilisateur API uniquement.
 title: Connexion [!DNL BrightTALK] à Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 ## Étapes dans [!DNL BrightTALK] {#steps-in-brighttalk}
 
 1. Connectez-vous à [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} puis cliquez sur **[!UICONTROL Se connecter maintenant]**.
-1. Sous [!UICONTROL &#x200B; Connecteur Marketo avancé &#x200B;], cliquez sur **[!UICONTROL Se connecter]**.
+1. Sous [!UICONTROL  Connecteur Marketo avancé ], cliquez sur **[!UICONTROL Se connecter]**.
 1. Vous accédez à l’écran des informations d’identification en demandant : ID client, secret client, URL du service d’identités et URL du service REST. Pour obtenir ces informations, connectez-vous à Marketo.
 
 ## Étapes dans Marketo {#steps-in-marketo}

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360185
-description: Modification des paramètres de sécurité de mot de passe - Documents Marketo - Documentation du produit
+description: Comment définir la politique de mot de passe d’abonnement, y compris les modèles, l’expiration et le délai d’expiration de la session inactive.
 title: Modifier les paramètres de sécurité de votre mot de passe
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 6%
+source-wordcount: '177'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Contrôlez la stratégie de mot de passe de votre abonnement. Voici comment fair
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

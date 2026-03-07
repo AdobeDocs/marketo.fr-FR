@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378713
-description: Déclencher Des Modifications D’Objet Personnalisées - Documents Marketo - Documentation Du Produit
+description: 'Utilisation d’un objet personnalisé : ajouter ou modifier des déclencheurs dans une liste dynamique de campagne pour les objets personnalisés Marketo, avec les étapes permettant d’ajouter le déclencheur et de définir des contraintes.'
 title: Déclencher des modifications d’objet personnalisé
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '202'
 ht-degree: 5%
 
 ---

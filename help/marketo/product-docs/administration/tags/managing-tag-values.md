@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360274
-description: Gestion Des Valeurs De Balise - Documents Marketo - Documentation Du Produit
+description: Découvrez comment ajouter, masquer et afficher des valeurs de balise pour les balises de programme, notamment en sélectionnant le type de balise et en utilisant l’option Afficher masqué .
 title: Gestion des valeurs de balises
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 3%
+source-wordcount: '191'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Les [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!PREREQUISITES]
 >

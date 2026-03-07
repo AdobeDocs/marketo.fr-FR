@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359906
-description: Gestion Des Utilisateurs Marketo - Documentation De Marketo - Documentation Du Produit
+description: Procédure de création et de suppression des utilisateurs, de réinitialisation des mots de passe et de modification des informations utilisateur et des autorisations pour les abonnements n’utilisant pas Adobe Identity.
 title: Gestion des utilisateurs et utilisatrices Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '415'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360325
-description: Autoriser l’accès utilisateur à un Workspace - Documents Marketo - Documentation du produit
+description: Étapes pour accorder à un utilisateur l’accès à un ou plusieurs espaces de travail.
 title: Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 10%
+source-wordcount: '120'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Les espaces de travail peuvent être utilisés pour n’importe quelle raison (s
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!NOTE]
 >

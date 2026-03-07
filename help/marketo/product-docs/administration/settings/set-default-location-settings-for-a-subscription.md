@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: Définition des paramètres d’emplacement par défaut pour un abonnement - Documents Marketo - Documentation du produit
+description: Comment les administrateurs affichent et modifient les paramètres d’emplacement par défaut d’un abonnement, y compris la langue, les paramètres régionaux, le fuseau horaire et la devise.
 title: Définir les paramètres d’emplacement par défaut pour un abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '255'
 ht-degree: 9%
 
 ---

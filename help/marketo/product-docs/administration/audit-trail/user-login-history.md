@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377958
-description: Historique De Connexion De L’Utilisateur - Documents Marketo - Documentation Du Produit
+description: Afficher qui s’est connecté à votre abonnement et quand, y compris les tentatives ayant échoué, via Utilisateurs et rôles d’administrateur.
 title: Historique des connexions d’utilisateur et d’utilisatrice
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '189'
 ht-degree: 6%
 
 ---

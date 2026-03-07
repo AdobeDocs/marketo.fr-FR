@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377945
-description: Journal D'Audit&rbrack; Aperçu - Documents Marketo - Documentation Du Produit
+description: Présentation du journal d'audit et de la manière dont il capture un historique sur six mois des modifications et de l'activité de connexion dans votre instance Marketo.
 title: Vue d’ensemble du journal d’audit
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '345'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097613
-description: Ajouter des champs de lien d’objet personnalisé Marketo - Documents Marketo - Documentation du produit
+description: Comment ajouter des champs de lien pour connecter des objets personnalisés à des personnes ou à des entreprises pour des structures de type « un à plusieurs » et « plusieurs à plusieurs », y compris l'utilisation d'objets intermédiaires.
 title: Ajouter des champs de lien d’objet personnalisé Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '714'
 ht-degree: 2%
 
 ---

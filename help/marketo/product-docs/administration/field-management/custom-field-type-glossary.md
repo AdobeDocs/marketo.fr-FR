@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951259
-description: Glossaire des types de champs personnalisés - Documents Marketo - Documentation du produit
+description: Référence pour les types de champs personnalisés dans Marketo, notamment Booléen, Devise, Date, E-mail, Formule, etc.
 title: Glossaire de type de champ personnalisé
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---

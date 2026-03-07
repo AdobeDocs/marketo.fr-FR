@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: Présentation des objets personnalisés Marketo - Documents Marketo - Documentation du produit
+description: Présentation des objets personnalisés pour le suivi des mesures spécifiques à l’entreprise, y compris les relations de type « un à plusieurs » et « plusieurs à plusieurs », les filtres, les déclencheurs et l’emplacement où y accéder dans Admin.
 title: Présentation des objets personnalisés Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '713'
 ht-degree: 1%
 
 ---

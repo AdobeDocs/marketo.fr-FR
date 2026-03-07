@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094188
-description: Approbation d’un objet personnalisé - Documents Marketo - Documentation du produit
+description: Comment approuver des objets personnalisés nouveaux ou modifiés dans l’administration, y compris les exigences pour les objets de type « un à plusieurs », « plusieurs à plusieurs » et les objets intermédiaires.
 title: Approuver un objet personnalisé
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '288'
 ht-degree: 3%
 
 ---

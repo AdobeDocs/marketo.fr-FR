@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360272
-description: Création d’une balise de programme et de valeurs de balise - Documents Marketo - Documentation du produit
+description: Comment créer une balise de programme personnalisée et attribuer des valeurs, choisir des types de programme et rendre la balise obligatoire lors de la création de programmes.
 title: Créer une balise de programme et des valeurs de balise
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 10%
+source-wordcount: '174'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Vous pouvez créer des [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personnalisées pour vos programmes et attribuer des valeurs à la balise.
 

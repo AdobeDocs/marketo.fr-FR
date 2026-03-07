@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360337
-description: Création et utilisation d’un champ de chaîne concaténée (formule) - Documents Marketo - Documentation du produit
+description: Combinez des valeurs provenant de plusieurs champs ou créez des valeurs conditionnelles à l’aide de champs de formule dans Marketo Engage.
 title: Créer et utiliser un champ de chaîne concaténée (formule)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 9%
 
 ---

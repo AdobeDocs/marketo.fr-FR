@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359898
-description: Découvrez Les Autorisations Dont Vous Disposez - Documents Marketo - Documentation Du Produit
+description: Découvrez comment afficher vos autorisations Marketo actuelles.
 title: Découvrir les autorisations dont vous disposez.
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '75'
+ht-degree: 21%
 
 ---
 

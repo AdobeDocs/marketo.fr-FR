@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719071
-description: Modifier les paramètres du compte - Documents Marketo - Documentation du produit
+description: Procédure à suivre pour mettre à jour l’adresse e-mail, le nom ou le numéro de téléphone de votre compte.
 title: Modifier les paramètres du compte
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 12%
+source-wordcount: '52'
+ht-degree: 17%
 
 ---
 
@@ -17,7 +17,7 @@ Vous souhaitez modifier l’adresse e-mail, le nom ou le numéro de téléphone 
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

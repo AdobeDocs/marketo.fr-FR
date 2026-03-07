@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360307
-description: Activation ou désactivation des fonctionnalités Treasure Chest - Documents Marketo - Documentation du produit
+description: Comment activer ou désactiver les fonctionnalités expérimentales de Treasure Chest.
 title: Activer ou désactiver les fonctionnalités du Coffre au trésor
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 14%
+ht-degree: 17%
 
 ---
 
@@ -17,7 +17,7 @@ Le coffre au trésor contient des fonctionnalités expérimentales amusantes qui
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

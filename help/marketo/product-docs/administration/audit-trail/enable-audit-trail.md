@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382122
-description: Activer le journal d'audit - Documents Marketo - Documentation du produit
+description: Activez le journal d'audit et l'historique de connexion pour un rôle et attribuez le rôle aux utilisateurs via des autorisations d'administrateur.
 title: Activer le journal d’audit
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 4%
+source-wordcount: '256'
+ht-degree: 3%
 
 ---
 

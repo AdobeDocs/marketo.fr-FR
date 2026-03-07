@@ -1,12 +1,12 @@
 ---
-description: Présentation D’Adobe Identity Management - Documentation De Marketo - Documentation Du Produit
+description: Présentation d’Adobe Identity Management for Marketo Engage, y compris le calendrier de la migration, la gestion des utilisateurs Admin Console et les niveaux de profil tels que Administrateur système et Administrateur de produit.
 title: Vue d’ensemble d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 2%
+source-wordcount: '462'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ Pour les abonnements intégrés à Adobe identity, Adobe Admin Console est utili
 
 >[!NOTE]
 >
->Si vous souhaitez implémenter l’authentification unique et que votre abonnement a été intégré à Adobe Identity sans que la connexion unique ne soit implémentée dans l’organisation Adobe, envoyez un ticket à l’assistance de [Marketo](https://nation.marketo.com/){target="_blank"} et indiquez la rubrique « Marketo sur Admin Console, implémentation de l’authentification unique ».
+>Si vous souhaitez implémenter l’authentification unique et que votre abonnement a été intégré à Adobe Identity sans que l’authentification unique ne soit implémentée dans l’organisation Adobe, envoyez un ticket à l’[assistance de Marketo](https://nation.marketo.com/){target="_blank"} et indiquez la rubrique « Marketo sur Admin Console, implémentation de l’authentification unique ».
 
 ## Niveaux de profil {#profile-levels}
 

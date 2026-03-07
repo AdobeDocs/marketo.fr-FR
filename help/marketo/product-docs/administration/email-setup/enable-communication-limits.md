@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360222
-description: Activer les limites de communication - Documents Marketo - Documentation du produit
+description: Définissez des limites d’e-mail par jour et par 7 jours pour éviter toute communication excessive avec vos utilisateurs et utilisatrices.
 title: Activer les limites de communication
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -53,7 +53,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
 
    >[!NOTE]
    >
-   >En savoir plus sur ce que sont les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+   >En savoir plus sur ce que sont les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 

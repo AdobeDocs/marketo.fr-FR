@@ -1,9 +1,9 @@
 ---
-description: Exportation de métadonnées d’activité personnalisées - Documents Marketo - Documentation du produit
+description: Découvrez comment exporter un schéma de métadonnées d’activité personnalisé.
 title: Exportation de métadonnées d’activité personnalisée
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 9%

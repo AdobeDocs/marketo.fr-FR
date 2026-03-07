@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359920
-description: Définition d’une page de secours - Documents Marketo - Documentation du produit
+description: Procédure à suivre pour définir une page de secours afin que les visiteurs voient une page désignée lorsqu’une page de destination est hors ligne ou introuvable.
 title: Définir une page de secours
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '80'
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ Les pages de secours constituent la dernière ligne de défense si votre page de
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

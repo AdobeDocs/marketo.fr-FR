@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360323
-description: Modifier une partition de personne existante - Documents Marketo - Documentation du produit
+description: Étapes de modification du nom de partition et des affectations d’espace de travail d’une personne.
 title: Modifier une partition de personnes existante
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Une partition de personne est semblable à une deuxième (ou troisième) base de
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!PREREQUISITES]
 >

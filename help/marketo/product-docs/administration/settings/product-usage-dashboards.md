@@ -1,13 +1,13 @@
 ---
-description: Tableaux de bord d’utilisation du produit - Documents Marketo - Documentation du produit
+description: Comment accéder aux tableaux de bord d’utilisation du produit pour afficher l’utilisation par rapport aux limites, aux mesures d’activité et aux mesures d’abonnement clés.
 title: Tableaux de bord d’utilisation des produits
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '620'
 ht-degree: 2%
 
 ---
@@ -58,7 +58,7 @@ Ici, nous obtenons le décompte des activités au cours des sept jours précéde
 
 >[!NOTE]
 >
->* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **&#x200B;**&#x200B;le jour en cours. Pensez donc à « hier + six jours avant ».
+>* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **** le jour en cours. Pensez donc à « hier + six jours avant ».
 >
 >* Le tableau de bord n’affiche que les 20 principaux types d’activité, les autres étant triés dans une catégorie intitulée « Autre ».
 

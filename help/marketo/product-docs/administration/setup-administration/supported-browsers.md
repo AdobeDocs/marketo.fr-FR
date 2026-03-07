@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359893
-description: Navigateurs Pris En Charge - Documents Marketo - Documentation Du Produit
+description: Liste des navigateurs et versions pris en charge pour Marketo Engage, notamment Chrome, Firefox, Safari et Edge, avec une note destinée aux utilisateurs d’Adobe Identity.
 title: Navigateurs pris en charge
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 10%
+source-wordcount: '80'
+ht-degree: 8%
 
 ---
 
