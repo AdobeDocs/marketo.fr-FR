@@ -83,7 +83,7 @@ Bien qu’il y ait une carte de produit dans Admin Console pour [!DNL Sales Con
 
 **Où puis-je en savoir plus sur Adobe Admin Console ?**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/fr/enterprise/admin-guide.html](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
 
 **Dois-je toujours accéder à la section Admin de Marketo pour apporter des modifications au compte d’utilisateur ou d’utilisatrice de mon compte ?**
 
