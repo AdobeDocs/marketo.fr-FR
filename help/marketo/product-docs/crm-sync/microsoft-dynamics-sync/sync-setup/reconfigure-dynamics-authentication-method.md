@@ -1,11 +1,11 @@
 ---
-description: Reconfiguration [!DNL Dynamics] Méthode d’authentification - Documents Marketo - Documentation du produit
+description: Découvrez comment reconfigurer la méthode d’authentification Dynamics dans Marketo. Désactivez la synchronisation, utilisez Reconfigurer une nouvelle méthode d’authentification et validez les informations d’identification pour l’API Web ou le ROPC.
 title: Reconfigure [!DNL Dynamics] Authentication Method
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '283'
 ht-degree: 2%
 
 ---

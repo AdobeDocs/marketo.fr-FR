@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571840
-description: Microsoft [!DNL Dynamics] Sync - Synchronisation Des Utilisateurs - Documents Marketo - Documentation Du Produit
+description: Découvrez comment synchronise les données utilisateur de Microsoft Dynamics vers Marketo. Identifiez les champs de propriétaire qui se synchronisent et comment les utiliser dans les listes dynamiques et les actions de flux.
 title: Microsoft [!DNL Dynamics] Sync - Synchronisation des utilisateurs
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

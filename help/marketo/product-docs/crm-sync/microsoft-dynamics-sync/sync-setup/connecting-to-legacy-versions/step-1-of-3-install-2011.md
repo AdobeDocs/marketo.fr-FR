@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571805
-description: Étape 1 sur 3 - Installation de la solution Marketo (2011 On-Premise) - Documents Marketo - Documentation du produit
+description: Découvrez comment installer la solution Marketo pour Dynamics 2011 on-premise. Importez la solution et effectuez les étapes d’installation dans Dynamics.
 title: Étape 1 sur 3 - Installation de la solution Marketo (2011 On-Premise)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '284'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953384
-description: Activer la synchronisation pour une entité personnalisée - Documents Marketo - Documentation du produit
+description: Découvrez comment activer la synchronisation pour une entité personnalisée dans Microsoft Dynamics et Marketo. Utilisez Admin et Microsoft Dynamics pour sélectionner et activer les entités personnalisées à synchroniser.
 title: Activer la synchronisation pour une entité personnalisée
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '335'
 ht-degree: 3%
 
 ---

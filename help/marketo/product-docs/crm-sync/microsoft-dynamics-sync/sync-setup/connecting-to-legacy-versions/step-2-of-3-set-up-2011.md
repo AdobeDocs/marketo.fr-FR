@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571807
-description: Étape 2 sur 3 - Configuration de l’utilisateur de la synchronisation Marketo dans  [!DNL Dynamics] (2011 On-Premise) - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer l'utilisateur de synchronisation Marketo dans Dynamics 2011 On-premise. Créez l’utilisateur et attribuez-lui le rôle Utilisateur de synchronisation Marketo dans Dynamics.
 title: Étape 2 sur 3 - Configurer l’utilisateur de synchronisation Marketo dans  [!DNL Dynamics] (2011 On-Premise)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---

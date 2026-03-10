@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719291
-description: Définir le nom de famille et le nom de la société par défaut de la personne - Documents Marketo - Documentation du produit
+description: Découvrez comment définir le nom de famille de la personne et le nom de la société par défaut pour la synchronisation Salesforce. Utilisez les options d’administration et de synchronisation pour que les enregistrements partiels soient synchronisés avec les valeurs par défaut.
 title: Définir le nom de famille et le nom de la société par défaut d’une personne
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 11%
+source-wordcount: '153'
+ht-degree: 10%
 
 ---
 

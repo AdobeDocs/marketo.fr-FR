@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092969
-description: Filtre de synchronisation Microsoft Dynamics - Fusion - Documents Marketo - Documentation du produit
+description: Comprendre comment fonctionne le filtre de synchronisation Dynamics lors de la fusion de prospects. Découvrez comment la valeur du filtre de synchronisation des enregistrements gagnants détermine si l’enregistrement se synchronise avec Marketo.
 title: Filtre de synchronisation Microsoft Dynamics - Fusion
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

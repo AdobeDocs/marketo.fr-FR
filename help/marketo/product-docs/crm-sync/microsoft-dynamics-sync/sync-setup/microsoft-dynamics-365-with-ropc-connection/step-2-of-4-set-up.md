@@ -1,11 +1,11 @@
 ---
-description: Étape 2 sur 4 - Configurer la solution Marketo avec une connexion de contrôle de mot de passe du propriétaire de la ressource - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer la solution Marketo avec la connexion ROPC. Créez l’utilisateur de synchronisation dans Dynamics et affectez-lui le rôle Utilisateur de synchronisation Marketo pour l’authentification.
 title: Étape 2 sur 4 - Configurer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---

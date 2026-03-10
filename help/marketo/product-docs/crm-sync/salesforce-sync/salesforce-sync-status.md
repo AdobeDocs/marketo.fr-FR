@@ -1,11 +1,11 @@
 ---
-description: Statut de synchronisation de Salesforce - Documentation de Marketo - Documentation du produit
+description: Découvrez le tableau de bord Statut de la synchronisation Salesforce et comment afficher les statistiques de synchronisation. Filtrez par date, type d’opération ou type d’objet et exportez les erreurs de synchronisation au format CSV.
 title: Statut de synchronisation Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '574'
 ht-degree: 14%
 
 ---
@@ -183,14 +183,14 @@ Par défaut, les statistiques sont triées selon le démarrage le plus récent. 
   <tr>
    <th>Type d’opération</th>
    <th>Trouvé pour ces objets</th>
-   <th>Remarques</th>
+   <th>Remarques        </th>
    <th>Type d’opération</th>
   </tr>
   <tr>
    <td colspan="1">Créer un lien avec le programme</td>
    <td colspan="1">Campagne</td>
    <td colspan="1">Liaison de campagnes à des programmes</td>
-   <td colspan="1">Mise à jour </td>
+   <td colspan="1">Mise à jour</td>
   </tr>
   <tr>
    <td colspan="1">Extraire les conversions</td>

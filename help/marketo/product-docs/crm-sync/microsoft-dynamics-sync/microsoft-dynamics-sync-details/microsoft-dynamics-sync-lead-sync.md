@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571848
-description: Synchronisation de Microsoft Dynamics - Synchronisation des leads - Documents Marketo - Documentation du produit
+description: Découvrez comment fonctionne la synchronisation des prospects entre Microsoft Dynamics et Marketo. Comprendre la synchronisation bidirectionnelle et créer des prospects avec Synchroniser la personne avec Microsoft.
 title: Synchronisation Microsoft Dynamics - Synchronisation des leads
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Bien que cela soit rare, Marketo gagnera pour les personnes (prospects) et [!DNL
 
 ## Puis-je créer un prospect dans [!DNL Dynamics] à l’aide de Marketo ? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Oui, utiliser l’action de flux [[!UICONTROL &#x200B; Synchroniser la personne avec Microsoft &#x200B;]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cette opération crée un prospect dans [!DNL Dynamics] si le prospect n’existe pas. Si le prospect existe, l’étape de flux n’effectue aucune action.
+Oui, utiliser l’action de flux [[!UICONTROL  Synchroniser la personne avec Microsoft ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cette opération crée un prospect dans [!DNL Dynamics] si le prospect n’existe pas. Si le prospect existe, l’étape de flux n’effectue aucune action.
 
 >[!NOTE]
 >
->Lors de l’utilisation de l’action de flux « [!UICONTROL &#x200B; Synchroniser la personne avec Microsoft &#x200B;] » (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans [!DNL Dynamics].
+>Lors de l’utilisation de l’action de flux « [!UICONTROL  Synchroniser la personne avec Microsoft ] » (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans [!DNL Dynamics].
 
 ## Puis-je forcer manuellement la synchronisation d’une personne de Marketo avec un prospect dans [!DNL Dynamics] ? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Non, la synchronisation en arrière-plan automatisée est la seule façon de synchroniser les mises à jour entre Marketo et [!DNL Dynamics]. L’action de flux [[!UICONTROL &#x200B; Synchroniser la personne avec Microsoft &#x200B;]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne force pas la synchronisation du prospect.
+Non, la synchronisation en arrière-plan automatisée est la seule façon de synchroniser les mises à jour entre Marketo et [!DNL Dynamics]. L’action de flux [[!UICONTROL  Synchroniser la personne avec Microsoft ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne force pas la synchronisation du prospect.
 
 ## Quels champs vont être synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 

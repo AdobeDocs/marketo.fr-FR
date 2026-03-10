@@ -1,12 +1,12 @@
 ---
-description: Activer la synchronisation de la campagne - Documentation de Marketo - Documentation du produit
+description: Découvrez comment activer la synchronisation des campagnes entre Microsoft Dynamics et Marketo. Activez l’option dans Admin afin que les programmes Marketo se synchronisent avec les campagnes Dynamics.
 title: Activer la synchronisation de la campagne
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,7 @@ Cette option permet à Marketo d’ajouter et de supprimer des membres d’[!DNL
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Dans votre **[!UICONTROL Mon Marketo]**, cliquez sur **[!UICONTROL Admin]**.
 

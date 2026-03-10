@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095429
-description: Correction Des Problèmes De Synchronisation De La Validation De Dynamics - Documents Marketo - Documentation Du Produit
+description: Découvrez comment résoudre les problèmes de synchronisation de la validation Dynamics lorsque l’outil Valider la synchronisation signale des erreurs. Dépannage de l’URL, des informations d’identification, de la synchronisation du rôle utilisateur et autres étapes de configuration.
 title: Corriger les problèmes de synchronisation de validation Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 9%
+source-wordcount: '503'
+ht-degree: 8%
 
 ---
 

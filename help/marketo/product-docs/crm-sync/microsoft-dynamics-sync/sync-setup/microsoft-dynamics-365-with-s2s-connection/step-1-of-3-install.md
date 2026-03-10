@@ -1,11 +1,11 @@
 ---
-description: Étape 1 sur 3 - Installer la solution Marketo avec une connexion de serveur à serveur - Documents Marketo - Documentation du produit
+description: Découvrez comment installer la solution Marketo dans Dynamics 365 avec une connexion de serveur à serveur. Importez la solution depuis Admin et effectuez les étapes d’installation.
 title: Étape 1 sur 3 - Installer la solution Marketo avec une connexion de serveur à serveur
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '268'
 ht-degree: 1%
 
 ---

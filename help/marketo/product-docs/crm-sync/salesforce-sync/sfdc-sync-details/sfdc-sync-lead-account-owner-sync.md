@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953463
-description: Synchronisation de SFDC - Synchronisation des prospects/propriétaires de compte - Documents Marketo - Documentation du produit
+description: Découvrez comment les champs de prospect et de propriétaire de compte se synchronisent de Salesforce vers Marketo. Modifiez le propriétaire du prospect dans Marketo et utilisez les données du propriétaire dans les actions de flux et les listes dynamiques.
 title: Synchronisation de SFDC - Synchronisation des prospects et des propriétaires de compte
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 16%
+source-wordcount: '230'
+ht-degree: 14%
 
 ---
 

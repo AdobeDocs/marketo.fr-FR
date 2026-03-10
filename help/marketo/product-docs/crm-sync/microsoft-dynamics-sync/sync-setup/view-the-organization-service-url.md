@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504770
-description: Afficher l’URL du service d’organisation - Documents Marketo - Documentation du produit
+description: Découvrez comment trouver l’URL du service d’organisation dans Microsoft Dynamics. Utilisez les Paramètres avancés et les Ressources pour les développeurs afin de copier l’URL pour la configuration de la synchronisation Marketo.
 title: Afficher l’URL de service d’organisation
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '98'
+ht-degree: 10%
 
 ---
 

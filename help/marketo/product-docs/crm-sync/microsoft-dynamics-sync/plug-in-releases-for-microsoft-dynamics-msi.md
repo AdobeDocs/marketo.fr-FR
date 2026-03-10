@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099102
-description: Versions des plug-ins pour  [!DNL Microsoft Dynamics] MSI - Documents Marketo - Documentation du produit
+description: Découvrez les versions des plug-ins pour Microsoft Dynamics MSI. Recherchez l'historique des versions et téléchargez la dernière solution Marketo pour votre version de Dynamics.
 title: Versions des plug-ins pour [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '455'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Lors de la première synchronisation avec [!DNL Microsoft Dynamics], vous téléchargez et installez la dernière version des plug-ins pour Marketo Sales Insight (MSI). Marketo met régulièrement à jour ces plug-ins afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
-Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [&#x200B; est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [ est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848922
-description: Téléchargement de la solution de gestion de lead Marketo - Documentation de Marketo - Documentation du produit
+description: Découvrez comment télécharger la solution de gestion des prospects Marketo pour Microsoft Dynamics.
 title: Télécharger la solution de gestion des leads Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 12%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Vous devrez télécharger et installer une solution Marketo dans votre compte [!DNL Microsoft Dynamics] pour que la synchronisation puisse commencer.
 

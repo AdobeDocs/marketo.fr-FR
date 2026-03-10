@@ -1,11 +1,11 @@
 ---
-description: Étape 3 sur 4 - Configuration de l’application cliente sur MS [!DNL Dynamics] - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer l’application cliente sur Microsoft Dynamics pour la connexion ROPC. Enregistrez l’application dans Azure AD et générez un secret client pour la synchronisation Marketo.
 title: Étape 3 sur 4 - Configurer l’application cliente sur MS [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 Federated [!DNL Azure] AD to [!DNL ADFS Onprem] nécessite la création d’une politique de découverte de domaine d’accueil pour l’application spécifique. Avec cette politique, [!DNL Azure] Active Directory redirigera la demande d&#39;authentification vers le service de fédération. Pour cela, la synchronisation de hachage de mot de passe doit être activée dans [!DNL AD Connect]. Pour plus d’informations, consultez les sections [[!DNL OAuth] avec [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) et [Définir une politique Hrd pour une application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Des références supplémentaires [ici](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20includes%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"} sont disponibles.
+Des références supplémentaires [ici](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"} sont disponibles.
 
 ## Avant de passer à l’étape 4 {#before-proceeding-to-step-4}
 

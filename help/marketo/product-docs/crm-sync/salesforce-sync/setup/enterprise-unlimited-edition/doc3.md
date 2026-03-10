@@ -1,13 +1,13 @@
 ---
-description: Étape 3 sur 3 - Connecter Marketo et Salesforce (Entreprise/Illimité) - Documents Marketo - Documentation du produit
+description: Découvrez comment connecter Marketo et Salesforce lors de l’étape finale Entreprise ou Illimité. Récupérez le jeton de sécurité de synchronisation des utilisateurs et définissez les informations d’identification dans Marketo Admin.
 title: Étape 3 sur 3 - Connecter Marketo et Salesforce (Entreprise/Illimité)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '123'
+ht-degree: 8%
 
 ---
 

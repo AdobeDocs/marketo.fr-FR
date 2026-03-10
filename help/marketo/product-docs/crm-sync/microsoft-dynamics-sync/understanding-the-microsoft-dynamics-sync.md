@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098625
-description: Présentation de la synchronisation  [!DNL Microsoft Dynamics]  documents Marketo - Documentation du produit
+description: Découvrez comment la synchronisation Microsoft Dynamics maintient les données Marketo et Dynamics synchronisées. Découvrez ce qui est synchronisé et comment fonctionne la synchronisation bidirectionnelle pour les prospects et les contacts.
 title: Présentation de la synchronisation Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 4%
+source-wordcount: '229'
+ht-degree: 20%
 
 ---
 
-# Comprendre la synchronisation des [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
+# Présentation de la synchronisation [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
 
-Marketo et [!DNL Microsoft Dynamics] vont de pair. Nous gardons vos données de vente et de marketing synchronisées.
+Marketo et [!DNL Microsoft Dynamics] vont de pair. Nous maintenons vos données de vente et de marketing synchronisées.
 
 >[!CAUTION]
 >
@@ -25,11 +25,11 @@ Marketo synchronise les données avec [!DNL Microsoft Dynamics] en permanence, t
 
 >[!NOTE]
 >
->La toute première synchronisation de votre abonnement prend de quelques minutes à quelques heures, selon la taille de votre base de données. Marketo copie l’intégralité de la base de données depuis [!DNL Dynamics]. Ensuite, chaque synchronisation prend généralement des secondes ou des minutes et synchronise uniquement les données qui ont été modifiées.
+>La toute première synchronisation de votre abonnement prend de quelques minutes à quelques heures, selon la taille de votre base de données. Marketo copie l’intégralité de la base de données depuis [!DNL Dynamics]. Ensuite, chaque synchronisation prend généralement quelques secondes ou quelques minutes et synchronise uniquement les données qui ont été modifiées.
 
 La synchronisation entre Marketo et [!DNL Dynamics] est bidirectionnelle pour les prospects et les contacts. Si vous apportez des modifications dans Marketo ou [!DNL Dynamics], vos mises à jour seront répercutées sur les deux systèmes. Tous les autres champs, tels que les comptes et les opportunités, sont synchronisés dans un seul sens, de [!DNL Dynamics] à Marketo.
 
-## Qu’est-ce que Synchronisé entre Marketo et [!DNL Microsoft Dynamics] ? {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Quel contenu est synchronisé entre Marketo et [!DNL Microsoft Dynamics] ? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [Prospects](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [Contacts](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -39,7 +39,7 @@ La synchronisation entre Marketo et [!DNL Dynamics] est bidirectionnelle pour le
 * [Opportunités](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Entités personnalisées](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-Les [&#x200B; informations d’identification que vous saisissez dans Marketo pour  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) sont utilisées pour synchroniser les données.
+Les [ informations d’identification que vous saisissez dans Marketo pour  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) sont utilisées pour synchroniser les données.
 
 >[!NOTE]
 >

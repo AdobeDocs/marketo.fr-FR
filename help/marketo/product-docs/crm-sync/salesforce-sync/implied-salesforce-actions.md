@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: Actions Salesforce implicites - Documentation de Marketo - Documentation du produit
+description: Identifiez les étapes de flux Salesforce qui déclenchent une synchronisation automatique de la personne vers SFDC ou d’autres actions. Découvrez les règles relatives à Ajouter à Campaign, Modifier le propriétaire, Créer une tâche et Convertir une personne.
 title: Actions Salesforce implicites
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 26%
+source-wordcount: '162'
+ht-degree: 22%
 
 ---
 
@@ -48,6 +48,6 @@ Ces règles s&#39;appliquent lorsque la personne n&#39;est pas actuellement dans
  </tbody>
 </table>
 
-Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type de SFDC]** avec l’opérateur défini sur « [!UICONTROL &#x200B; n’est pas vide »]. Tous les enregistrements SFDC ont une valeur dans ce champ.
+Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type de SFDC]** avec l’opérateur défini sur « [!UICONTROL  n’est pas vide »]. Tous les enregistrements SFDC ont une valeur dans ce champ.
 
 N&#39;oubliez pas que ces actions automatiques ne se produisent que si le prospect n&#39;est pas actuellement dans [Salesforce.com](https://salesforce.com){target="_blank"}

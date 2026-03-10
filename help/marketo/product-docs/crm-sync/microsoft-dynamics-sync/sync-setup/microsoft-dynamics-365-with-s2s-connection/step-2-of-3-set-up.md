@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571827
-description: Étape 2 sur 3 - Configuration de la solution Marketo avec une connexion serveur à serveur - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer la solution Marketo avec une connexion de serveur à serveur pour Dynamics 365. Créez une application cliente dans Azure AD et accordez le consentement de l’utilisateur ou de l’utilisatrice de synchronisation.
 title: Étape 2 sur 3 - Configurer la solution Marketo avec une connexion serveur à serveur
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 Federated [!DNL Azure AD] to [!DNL ADFS Onprem] nécessite la création d’une politique de découverte de domaine d’accueil pour l’application spécifique. Avec cette politique, [!DNL Azure AD] redirigera la demande d’authentification vers le service de fédération. Pour cela, la synchronisation de hachage de mot de passe doit être activée dans [!DNL AD Connect]. Pour plus d’informations, consultez les sections [[!DNL OAuth] avec [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) et [Définir une politique Hrd pour une application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Des références supplémentaires [ici](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20includes%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"} sont disponibles.
+Des références supplémentaires [ici](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"} sont disponibles.
 
 ## Configuration de la solution Marketo {#configure-marketo-solution}
 

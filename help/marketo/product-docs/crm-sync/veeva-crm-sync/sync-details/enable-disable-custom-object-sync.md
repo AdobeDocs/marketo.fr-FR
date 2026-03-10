@@ -1,11 +1,11 @@
 ---
-description: Activer/Désactiver La Synchronisation Des Objets Personnalisés - Documents Marketo - Documentation Du Produit
+description: Découvrez comment activer ou désactiver la synchronisation d’objets personnalisés entre Veeva CRM et Marketo Engage. Utilisez la synchronisation des objets d’administration et de Veeva pour sélectionner et synchroniser les objets personnalisés.
 title: Activer/désactiver la synchronisation d’un objet personnalisé
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '231'
 ht-degree: 4%
 
 ---
@@ -52,7 +52,7 @@ Sélectionnez l’objet à synchroniser et cliquez sur **[!UICONTROL Activer la 
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Revenez à l’onglet [!UICONTROL &#x200B; Veeva &#x200B;] et cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Revenez à l’onglet [!UICONTROL  Veeva ] et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 

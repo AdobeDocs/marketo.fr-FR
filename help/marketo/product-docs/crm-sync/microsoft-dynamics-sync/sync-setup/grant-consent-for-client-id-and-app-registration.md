@@ -1,12 +1,12 @@
 ---
-description: Accorder le consentement pour l’ID client et l’enregistrement d’application - Documents Marketo - Documentation du produit
+description: Découvrez comment accorder le consentement pour l’ID client et l’enregistrement de l’application utilisés pour la synchronisation Dynamics. Créez l’URI d’autorisation et accordez les autorisations d’utilisateur délégué à l’utilisateur de synchronisation.
 title: Accorder le consentement pour l’enregistrement de l’ID client et de l’application
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '280'
+ht-degree: 5%
 
 ---
 
@@ -71,9 +71,9 @@ Suivez les étapes ci-dessous pour savoir comment accorder le consentement/les a
 
 ## Accorder le consentement pour tous les utilisateurs {#grant-consent-for-all-users}
 
-En tant qu’administrateur, vous pouvez également consentir aux autorisations déléguées d’une application au nom de tous les utilisateurs de votre client. Le consentement administratif empêche l’affichage de la boîte de dialogue de consentement pour chaque utilisateur dans le client. Cela peut être effectué dans le portail Azure par les utilisateurs dotés du rôle d’administrateur. Découvrez les rôles d’administrateur qui peuvent [consentir aux autorisations déléguées ici](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+En tant qu’administrateur, vous pouvez également consentir aux autorisations déléguées d’une application au nom de tous les utilisateurs de votre client. Le consentement administratif empêche l’affichage de la boîte de dialogue de consentement pour chaque utilisateur dans le client. Cette opération peut être effectuée dans le portail Azure par les utilisateurs dotés du rôle d’administrateur. Découvrez les rôles d’administrateur qui peuvent [consentir aux autorisations déléguées ici](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
-1. Sur votre portail Azure, accédez à la page d’accueil de l’application.
+1. Sur le portail Azure, accédez à la page d’accueil de l’application.
 
 1. Sous [!UICONTROL Gérer], cliquez sur **[!UICONTROL Autorisations API]**.
 

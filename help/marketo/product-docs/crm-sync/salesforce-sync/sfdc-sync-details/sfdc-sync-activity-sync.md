@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953473
-description: Synchronisation de SFDC - Synchronisation des activités - Documents Marketo - Documentation du produit
+description: Découvrez comment les activités et tâches Salesforce se synchronisent avec Marketo. Créez des tâches à partir de Marketo et utilisez des déclencheurs d’activité et des filtres dans les campagnes intelligentes.
 title: Synchronisation SFDC - Synchronisation des activités
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 6%
 
 ---
 
@@ -25,7 +25,7 @@ La synchronisation fonctionne dans un sens, de [!DNL Salesforce] à Marketo. Cep
 
 ## Puis-je créer une tâche à l’aide de Marketo ? {#can-i-create-a-task-using-marketo}
 
-Oui, vous pouvez utiliser l’action [&#x200B; Créer un flux de tâches &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
+Oui, vous pouvez utiliser l’action [ Créer un flux de tâches ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
 
 ## Quels sont les déclencheurs/filtres liés à l’activité ? {#what-are-the-triggers-filters-related-to-activity}
 

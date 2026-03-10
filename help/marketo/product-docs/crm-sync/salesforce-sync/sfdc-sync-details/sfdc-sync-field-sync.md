@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953461
-description: Synchronisation de SFDC - Synchronisation de champ - Documents Marketo - Documentation du produit
+description: Découvrez quels champs Salesforce se synchronisent avec Marketo et comment fonctionnent le type de SFDC et isDeleted. Ajoutez d’abord de nouveaux champs dans Salesforce afin qu’ils se synchronisent automatiquement avec Marketo.
 title: Synchronisation de SFDC - Synchronisation de champ
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

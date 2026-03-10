@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094647
-description: Définir un préfixe de champ personnalisé par défaut - Documents Marketo - Documentation du produit
+description: Découvrez comment définir le préfixe de champ personnalisé par défaut sur nouveau dans Microsoft Dynamics. Utilisez les paramètres et les personnalisations pour que les champs propriétaires de Marketo se synchronisent correctement.
 title: Définir un préfixe de champ personnalisé par défaut
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '113'
+ht-degree: 10%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719300
-description: Ajout/suppression d’un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclenchement - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter ou supprimer des champs d’objet personnalisés Salesforce en tant que filtres de liste dynamique et contraintes de déclenchement. Utilisez la synchronisation des objets d’administration et de Salesforce pour modifier les champs visibles.
 title: Ajouter/supprimer un champ d’objet personnalisé en tant que contraintes de liste intelligente/déclencheur
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 10%
+source-wordcount: '205'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Engage offre un contrôle précis de la synchronisation d’objets perso
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Cliquez sur **[!UICONTROL Admin].**
 

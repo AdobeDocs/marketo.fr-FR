@@ -1,12 +1,12 @@
 ---
-description: Étape 1 sur 4 - Installer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource - Documents Marketo - Documentation du produit
+description: Découvrez comment installer la solution Marketo dans Dynamics 365 avec une connexion ROPC. Importez la solution à partir d'Office 365 et effectuez les étapes d'installation.
 title: Étape 1 sur 4 - Installer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '309'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 365 et Marketo, vous dev
 >[!CAUTION]
 >
 >* N’activez pas la synchronisation d’entités personnalisées avant la fin de la synchronisation initiale. Vous serez averti par e-mail une fois la synchronisation initiale terminée.
->* Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >

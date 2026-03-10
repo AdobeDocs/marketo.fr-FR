@@ -1,11 +1,11 @@
 ---
-description: Étape 1 sur 3 - Ajout de champs Marketo à  [!DNL Veeva]  CRM - Documentation de Marketo - Documentation du produit
+description: Découvrez comment ajouter des champs Marketo à Veeva CRM avant de vous connecter. Créez le champ Score et les champs marketing facultatifs sur les objets de contact dans Veeva.
 title: Étape 1 sur 3 - Ajout de champs Marketo à  [!DNL Veeva]  CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 8%
 
 ---

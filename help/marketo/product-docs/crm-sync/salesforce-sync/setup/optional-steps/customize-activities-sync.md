@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719294
-description: Personnalisation De La Synchronisation Des Activités - Documents Marketo - Documentation Du Produit
+description: Découvrez comment personnaliser les activités que Marketo transmet à Salesforce. Activez les types d’activité dans les options d’administration et de synchronisation pour créer un historique des activités Salesforce à partir d’événements.
 title: Personnaliser la synchronisation des activités
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '324'
 ht-degree: 2%
 
 ---

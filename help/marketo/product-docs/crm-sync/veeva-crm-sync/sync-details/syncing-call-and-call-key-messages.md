@@ -1,12 +1,12 @@
 ---
-description: Synchronisation des messages clés d’appel et d’appel - Documents Marketo - Documentation du produit
+description: Découvrez comment les objets Appel et Message Clé d'appel se synchronisent de Veeva CRM vers Marketo Engage. Utilisez des déclencheurs et des filtres liés aux appels dans les listes dynamiques et les campagnes.
 title: Synchronisation des appels et des messages clés d’appel
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 13%
+source-wordcount: '493'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360364
-description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité) - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un utilisateur Salesforce pour Marketo en édition Enterprise ou Unlimited. Créez un profil, définissez des autorisations et créez l’utilisateur de synchronisation Marketo-Salesforce.
 title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 3%
+source-wordcount: '433'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
    >
    >Veillez à cocher la case **[!UICONTROL Le mot de passe n’expire jamais]**.
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations générales des utilisateurs &#x200B;] , assurez-vous que les cases suivantes sont cochées :
+1. Dans la section [!UICONTROL  Autorisations générales des utilisateurs ] , assurez-vous que les cases suivantes sont cochées :
 
    * [!UICONTROL Convertir les leads]
    * [!UICONTROL Modifier les événements]
@@ -68,13 +68,13 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
 
    * [!UICONTROL Comptes]
    * [!UICONTROL Campagnes]
    * [!UICONTROL Contacts]
-   * [!UICONTROL Leads]
-   * [!UICONTROL &#x200B; Opportunités &#x200B;]
+   * [!UICONTROL Prospects]
+   * [!UICONTROL Opportunités]
 
    >[!NOTE]
    >

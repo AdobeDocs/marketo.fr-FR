@@ -1,11 +1,11 @@
 ---
-description: Étape 3 sur 3 - Connexion de Marketo Engage et [!DNL Veeva] CRM - Documents Marketo - Documentation du produit
+description: Découvrez comment connecter Marketo Engage à Veeva CRM lors de l’étape de configuration finale. Configurez OAuth, confirmez les informations d’identification et synchronisez les champs pour établir la connexion.
 title: Étape 3 sur 3 - Connecter Marketo Engage et [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571797
-description: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (professionnel) - Documentation de Marketo - Documentation du produit
+description: Découvrez comment créer un utilisateur Salesforce pour Marketo avec l’édition professionnelle. Définissez les dispositions de page et créez l’utilisateur de synchronisation avec les autorisations de champ pour le prospect et le contact.
 title: 'Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (professionnel)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -52,14 +52,14 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
    * [!UICONTROL Programme d’acquisition]
    * [!UICONTROL ID du programme d’acquisition]
    * [!UICONTROL Désinscription Aux E-Mails]
-   * [!UICONTROL &#x200B; Ville déduite &#x200B;]
+   * [!UICONTROL  Ville déduite ]
    * [!UICONTROL Société déduite]
    * [!UICONTROL Pays déduit]
    * [!UICONTROL Région métropolitaine déduite]
    * [!UICONTROL Indicatif téléphonique déduit]
    * [!UICONTROL Code postal déduit]
    * [!UICONTROL Région d’État déduite]
-   * [!UICONTROL &#x200B; Score du lead &#x200B;]
+   * [!UICONTROL  Score du lead ]
    * [!UICONTROL Référent original]
    * [!UICONTROL Moteur de recherche original]
    * [!UICONTROL Expression de recherche originale]

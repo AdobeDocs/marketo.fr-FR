@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571800
-description: Étape 3 sur 3 - Connecter Marketo et Salesforce (Professionnel) - Documentation de Marketo - Documentation du produit
+description: Découvrez comment connecter Marketo et Salesforce dans l’étape d’édition professionnelle finale. Récupérez le jeton de sécurité de synchronisation des utilisateurs et définissez les informations d’identification dans Marketo Admin.
 title: Étape 3 sur 3 - Connecter Marketo et Salesforce (Professionnel)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
