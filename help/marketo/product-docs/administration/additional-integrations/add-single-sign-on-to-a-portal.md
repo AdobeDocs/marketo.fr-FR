@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360356
-description: Activez l’authentification unique SAML 2.0 afin que votre fournisseur d’identité authentifie les utilisateurs pour Marketo (ne s’applique pas à Adobe IMS).
+description: Activez l’authentification unique SAML 2.0 afin que votre fournisseur d’identité authentifie les utilisateurs pour Marketo.
 title: Ajouter l’authentification unique à un portail
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: bba45ef3db9cf8f1a7a9f9c818a5890ca63d6ec7
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 4%
@@ -25,11 +25,11 @@ Une fois la connexion unique activée, l’IdP peut valider les informations d�
 
 >[!IMPORTANT]
 >
->Cela ne s’applique pas aux abonnements intégrés à Adobe Identity. Pour les abonnements intégrés à Adobe Identity, l’authentification unique est configurée au niveau de l’organisation Adobe dans Adobe Admin Console. Pour le moment, Adobe Admin Console ne prend en charge que le démarrage par SP. [En savoir plus ici](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
+>Cela ne s’applique **pas** aux abonnements intégrés à Adobe Identity. Les paramètres précédents peuvent apparaître (d’avant la migration IMS), mais ils ne s’appliquent plus. Pour les abonnements intégrés à Adobe Identity, l’authentification unique est configurée au niveau de l’organisation Adobe dans Adobe Admin Console. [En savoir plus ici](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [&#x200B; tutoriel d’intégration &#x200B;](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
+>Êtes-vous un utilisateur [!DNL Microsoft Azure] ? Consultez leur [ tutoriel d’intégration ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Pour votre information, il y a une faute de frappe à l’étape 5c de leur tutoriel. Veuillez définir l&#39;état du relais sur `https://<munchkinid>.mktoweb.com`, **_pas_** `https://<munchkinid>.marketo.com`.
 
 ## Envoi de la requête {#how-to-send-the-request}
 
