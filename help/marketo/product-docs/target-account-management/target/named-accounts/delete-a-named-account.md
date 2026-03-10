@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615802
-description: Suppression d’un compte nommé - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer un compte nommé dans TAM. Sélectionnez des comptes et utilisez les actions de compte nommé pour les supprimer.
 title: Supprimer un compte nommé
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '118'
 ht-degree: 5%
 
 ---

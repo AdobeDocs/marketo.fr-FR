@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378812
-description: Comptes Discover - Documents Marketo - Documentation du produit
+description: Découvrez comment découvrir des comptes cibles potentiels auprès de vos sociétés CRM ou Marketo. Ajouter les comptes sélectionnés en tant que comptes nommés et associer automatiquement des personnes.
 title: Découvrir des comptes
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '575'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378816
-description: Ajout de personnes à un compte nommé - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des personnes à un compte nommé à l’aide d’actions de flux, d’étapes de flux de campagne intelligente ou d’un import de liste.
 title: Ajouter des personnes à un compte nommé
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '199'
+ht-degree: 7%
 
 ---
 

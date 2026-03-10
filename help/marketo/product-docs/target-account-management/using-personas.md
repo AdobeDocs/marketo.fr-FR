@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727818
-description: Utilisation des personas - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser les personnages pour segmenter votre audience ABM et la commercialisation vers des sous-ensembles spécifiques. Ajoutez des rôles dans Admin et utilisez-les dans les filtres de liste dynamique.
 title: Utilisation de personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 5%
+source-wordcount: '210'
+ht-degree: 4%
 
 ---
 

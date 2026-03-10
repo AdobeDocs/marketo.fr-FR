@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384438
-description: Configuration du rapport TAM - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer l’e-mail de rapport des ventes hebdomadaire du GTA pour les équipes de compte. Choisissez le jour de livraison, l’ordre de tri, et les propriétaires de compte ou les membres de l’équipe qui le reçoivent.
 title: Configuration du rapport TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '188'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Le rapport des ventes du gestionnaire de comptes techniques est un e-mail person
 
    ![](assets/tam-report-setup-2.png)
 
-1. Sous [!UICONTROL &#x200B; Rapport hebdomadaire &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
+1. Sous [!UICONTROL  Rapport hebdomadaire ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/three-3.png)
 

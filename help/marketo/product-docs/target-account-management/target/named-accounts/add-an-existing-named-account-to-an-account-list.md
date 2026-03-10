@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: Ajout d’un compte nommé existant à une liste de comptes - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un compte nommé existant à une liste de comptes. Utilisez des actions de compte nommé et sélectionnez Ajouter à la liste des comptes avec la liste souhaitée.
 title: Ajouter un compte nommé existant à une liste de comptes
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 9%
+source-wordcount: '107'
+ht-degree: 8%
 
 ---
 

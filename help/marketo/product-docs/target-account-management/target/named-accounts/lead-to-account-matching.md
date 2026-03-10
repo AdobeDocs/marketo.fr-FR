@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381156
-description: Correspondance de leads et de comptes - Documents Marketo - Documentation du produit
+description: Découvrez la correspondance entre les prospects et les comptes et comment Marketo fait correspondre les prospects aux comptes nommés en temps quasi réel. Résolvez les correspondances faibles et déclenchez de nouveaux leads.
 title: Correspondance entre les leads et les comptes
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 1%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 

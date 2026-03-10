@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980105
-description: Invitez les utilisateurs à accéder au [!UICONTROL Compte Insight] - Documents Marketo - Documentation du produit
+description: Découvrez comment inviter des utilisateurs à accéder au compte Insight. Invitez par CRM ou par e-mail et accordez l’accès au compte Insight à partir de l’onglet Utilisateurs commerciaux .
 title: Inviter les utilisateurs à accéder à [!UICONTROL Compte Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---

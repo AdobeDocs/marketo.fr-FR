@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: Configuration du compte Insight - Documentation de Marketo - Documentation du produit
+description: Découvrez comment configurer le compte Insight pour les équipes commerciales. Configurez la priorité des comptes nommés et des personnes engagées dans l’onglet Ventes .
 title: Configurer Account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 11%
+source-wordcount: '121'
+ht-degree: 9%
 
 ---
 

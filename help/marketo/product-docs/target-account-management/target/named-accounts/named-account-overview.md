@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Compte Nommé] Présentation - Documents Marketo - Documentation Du Produit'
+description: Découvrez les comptes nommés et la manière dont ils détiennent les personnes de vos sociétés ciblées. Affichez les données d’attribut actuelles pour tous les comptes nommés sur le tableau de bord.
 title: Présentation du [!UICONTROL Compte nommé]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '255'
 ht-degree: 10%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 10%
    <td>Nombre d'employés attribués à un compte nommé</td>
   </tr>
   <tr>
-   <td colspan="1"><strong><span class="uicontrol">Évaluation du compte</span></strong></td>
+   <td colspan="1"><strong><span class="uicontrol">Score du compte</span></strong></td>
    <td colspan="1">Agrégat de scores de leads provenant de plusieurs leads pour fournir le score au niveau du compte</td>
   </tr>
   <tr>

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355609
-description: Découverte d’un nouveau compte - Documents Marketo - Documentation du produit
+description: Découvrez comment trouver de nouveaux comptes à cibler à l’aide de recommandations optimisées par l’IA à partir de votre profil client idéal. Découvrir et enregistrer de nouveaux comptes cibles dans les listes de comptes.
 title: Découverte de nouveau compte
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '318'
 ht-degree: 3%
 
 ---
@@ -77,4 +77,4 @@ La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes
 
    >[!TIP]
    >
-   >Une fois vos comptes enregistrés, vous pouvez utiliser une [&#x200B; audience correspondante sur  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.
+   >Une fois vos comptes enregistrés, vous pouvez utiliser une [ audience correspondante sur  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.

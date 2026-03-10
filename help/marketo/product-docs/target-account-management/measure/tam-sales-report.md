@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385183
-description: Rapport des ventes du gestionnaire de compte technique - Documents Marketo - Documentation du produit
+description: Découvrez le Rapport des ventes du GTA, un e-mail hebdomadaire avec les principaux comptes et leurs tendances. Recevez les scores du compte, le pipeline, les pages vues et les moments intéressants.
 title: Rapport des ventes TAM
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 9%
+source-wordcount: '143'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: Déclencheurs de compte - Documents Marketo - Documentation du produit
+description: Découvrez comment écouter et agir sur les activités comportementales au niveau du compte à l’aide de déclencheurs de compte. Utilisez des déclencheurs de compte nommé dans les campagnes intelligentes pour impliquer des comptes clés.
 title: Déclencheurs de compte
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 6%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ Sélectionnez votre campagne dynamique et cliquez sur **[!UICONTROL Liste dynami
 
 ![](assets/one-1.png)
 
-Saisissez « [!UICONTROL &#x200B; Compte nommé &#x200B;] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
+Saisissez « [!UICONTROL  Compte nommé ] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
 
 ![](assets/two-1.png)
 

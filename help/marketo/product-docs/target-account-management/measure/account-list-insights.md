@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380787
-description: Informations sur la liste des comptes - Documents Marketo - Documentation du produit
+description: Découvrez le tableau de bord Liste des comptes et les informations agrégées provenant des comptes nommés. Affichez le pipeline, le chiffre d’affaires, les principaux comptes et les ressources qui utilisent chaque liste.
 title: Informations sur la liste de comptes
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---

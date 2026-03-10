@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380774
-description: Note De Compte - Documents Marketo - Documentation Du Produit
+description: Découvrez la notation du compte et comment elle permet de donner la priorité aux comptes cibles engagés. Configurez les scores de compte en attribuant les scores de prospect dans l’administrateur de gestion des actifs numériques.
 title: Score du compte
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '371'
 ht-degree: 2%
 
 ---
@@ -47,9 +47,9 @@ Dans le monde complexe des processus d’achat B2B, il est rare qu’une seule p
 >Pour calculer les scores du compte, vous devez d’abord créer les scores des prospects. Marketo TAM agrège automatiquement les scores de prospect aux scores de compte. Par exemple, nous allons prendre deux des exemples ci-dessus (_score de l’intérêt du produit du compte_ et _score de l’engagement sur le web du compte_).
 >
 >Créez tout d’abord des champs de score de prospect qui capturent les détails pertinents de chaque prospect d’un compte cible.
->&#x200B;>Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :
->&#x200B;>Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)
->&#x200B;>Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
+>Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :
+>Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)
+>Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
 
 >[!NOTE]
 >

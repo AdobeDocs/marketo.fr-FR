@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380785
-description: Informations Sur Les Comptes Nommés - Documents Marketo - Documentation Du Produit
+description: Découvrez le tableau de bord des comptes nommés et sa vue à 360 degrés des comptes cibles. Affichez les indicateurs d’engagement, d’opportunités, d’équipe de compte et de PIC.
 title: Informations sur le compte nommé
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 2%
+source-wordcount: '432'
+ht-degree: 3%
 
 ---
 
@@ -58,7 +58,7 @@ Disponible pour les utilisateurs de [!DNL Marketo Sales Insight], consultez les 
 
 **Principales personnes**
 
-Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [&#x200B; Meilleurs résultats &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
+Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [ Meilleurs résultats ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
 
 ![](assets/top-ten.png)
 
@@ -78,7 +78,7 @@ Voir où se trouve le compte nommé sélectionné par rapport à sa hiérarchie.
 
 ![](assets/hierarchy.png)
 
-## [!UICONTROL &#x200B; Opportunités &#x200B;] {#opportunities}
+## [!UICONTROL Opportunités] {#opportunities}
 
 Une vue cumulée de toutes les opportunités ouvertes au niveau d’un compte, qui aide les équipes marketing à se concentrer sur la fermeture d’opportunités spécifiques.
 

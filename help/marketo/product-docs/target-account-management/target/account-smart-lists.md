@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: Listes dynamiques de comptes - Documents Marketo - Documentation du produit
+description: Découvrez comment créer des listes dynamiques de comptes pour identifier les comptes à forte valeur ajoutée. Définissez des filtres de compte et de personne correspondante et utilisez les résultats dans les campagnes ou l’exportation.
 title: Listes intelligentes de comptes
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '524'
 ht-degree: 1%
 
 ---

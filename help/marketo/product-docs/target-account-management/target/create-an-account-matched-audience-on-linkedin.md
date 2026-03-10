@@ -1,12 +1,12 @@
 ---
 unique-page-id: 26837421
-description: Création d’une audience de compte correspondante sur  [!DNL LinkedIn] - Documents Marketo - Documentation du produit
+description: Découvrez comment créer des audiences correspondantes pour le compte LinkedIn à partir des listes de comptes de votre GTA. Activer les audiences sur les canaux LinkedIn pour le ciblage publicitaire.
 title: Création d’une audience avec correspondance de compte sur  [!DNL LinkedIn]
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---

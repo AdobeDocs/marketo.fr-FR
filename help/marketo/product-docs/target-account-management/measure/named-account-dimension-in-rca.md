@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: Dimension de compte nommé dans RCA - Documentation de Marketo - Documentation du produit
+description: Découvrez comment créer des rapports basés sur le chiffre d’affaires à l’aide de la dimension Compte nommé dans Revenue Cycle Analytics. Mesurez l’impact des comptes ciblés sur les pipelines et le chiffre d’affaires.
 title: Dimension de compte nommé dans RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 10%
+source-wordcount: '163'
+ht-degree: 9%
 
 ---
 

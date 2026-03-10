@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380778
-description: Autorisations - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer les autorisations TAM pour les utilisateurs et les rôles. Accordez l’accès à la gestion des comptes Target et à l’administrateur AEM Access pour contrôler qui peut utiliser TAM.
 title: Autorisations
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '159'
 ht-degree: 2%
 
 ---

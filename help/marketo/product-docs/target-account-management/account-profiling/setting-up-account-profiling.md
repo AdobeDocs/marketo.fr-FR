@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: Configuration du profilage de compte - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer le profilage de compte et créer votre modèle de profil client idéal dans TAM. Commencez avec l’onglet Modèle et créez votre premier modèle.
 title: Configuration d’Account Profiling
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '188'
+ht-degree: 7%
 
 ---
 

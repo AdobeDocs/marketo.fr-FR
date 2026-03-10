@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: Filtres de compte - Documents Marketo - Documentation du produit
+description: Découvrez comment identifier et impliquer des comptes et des personnages nommés à l’aide de filtres centrés sur les comptes. Utilisez les filtres TAM dans les campagnes intelligentes pour cibler les comptes appropriés.
 title: Filtres de compte
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---

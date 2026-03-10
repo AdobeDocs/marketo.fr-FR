@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795510
-description: Hiérarchies TAM - Documents Marketo - Documentation du produit
+description: Découvrez les hiérarchies de gestion des balises et comment elles héritent des relations parent-enfant de votre CRM. Ciblez et générez des rapports sur des familles de comptes entières en un seul clic.
 title: Hiérarchies TAM
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '161'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384433
-description: Configuration de l’équipe de compte - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer les équipes de compte et mapper les rôles de compte CRM à la gestion des balises. Choisissez quels champs de recherche d’utilisateur deviennent membres de l’équipe de compte.
 title: Configuration de l’équipe responsable du compte
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '197'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
    >
    >Pour [!UICONTROL Rôle de compte], attribuez-lui un nom et faites-le correspondre au champ de recherche d’utilisateur de votre CRM.
 
-1. Saisissez votre nom [!UICONTROL &#x200B; Rôle de compte &#x200B;] et sélectionnez le champ **CRM**. Ajoutez jusqu’à 10.
+1. Saisissez votre nom [!UICONTROL  Rôle de compte ] et sélectionnez le champ **CRM**. Ajoutez jusqu’à 10.
 
    ![](assets/four-2.png)
 
