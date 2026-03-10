@@ -19,7 +19,7 @@ Marketo vous permet d’ajouter des personnes aux [[!DNL Salesforce] files d’a
 
 Vous pouvez affecter une personne à une file d’attente de leads [!DNL Salesforce] à l’aide de l’une des actions de flux suivantes :
 
-* [ Synchroniser la personne avec SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [&#x200B; Synchroniser la personne avec SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
 * [Modifier le propriétaire](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]

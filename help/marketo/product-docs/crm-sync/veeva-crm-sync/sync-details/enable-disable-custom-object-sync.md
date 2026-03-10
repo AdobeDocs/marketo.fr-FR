@@ -52,7 +52,7 @@ Sélectionnez l’objet à synchroniser et cliquez sur **[!UICONTROL Activer la 
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Revenez à l’onglet [!UICONTROL  Veeva ] et cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Revenez à l’onglet [!UICONTROL &#x200B; Veeva &#x200B;] et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 

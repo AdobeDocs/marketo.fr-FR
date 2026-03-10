@@ -39,7 +39,7 @@ La synchronisation entre Marketo et [!DNL Dynamics] est bidirectionnelle pour le
 * [Opportunités](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Entités personnalisées](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-Les [ informations d’identification que vous saisissez dans Marketo pour  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) sont utilisées pour synchroniser les données.
+Les [&#x200B; informations d’identification que vous saisissez dans Marketo pour  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) sont utilisées pour synchroniser les données.
 
 >[!NOTE]
 >

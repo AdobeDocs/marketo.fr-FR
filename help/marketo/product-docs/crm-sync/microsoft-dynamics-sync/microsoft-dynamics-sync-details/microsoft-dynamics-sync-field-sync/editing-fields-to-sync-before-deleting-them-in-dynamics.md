@@ -42,6 +42,6 @@ Il peut arriver que vous souhaitiez supprimer des champs dans [!DNL Dynamics]. M
 
 >[!NOTE]
 >
->Si la synchronisation n’est pas arrêtée avant la suppression d’un champ dans [!DNL Dynamics], elle peut rencontrer des erreurs. Si c’est le cas, la synchronisation s’arrête. Avant de reprendre, l’administrateur Marketo doit vérifier « [!UICONTROL  Sélectionner les champs à synchroniser ] » (décrit ci-dessus) et cliquer sur **[!UICONTROL Enregistrer]** pour que la synchronisation accepte les modifications du schéma.
+>Si la synchronisation n’est pas arrêtée avant la suppression d’un champ dans [!DNL Dynamics], elle peut rencontrer des erreurs. Si c’est le cas, la synchronisation s’arrête. Avant de reprendre, l’administrateur Marketo doit vérifier « [!UICONTROL &#x200B; Sélectionner les champs à synchroniser &#x200B;] » (décrit ci-dessus) et cliquer sur **[!UICONTROL Enregistrer]** pour que la synchronisation accepte les modifications du schéma.
 
 N’oubliez pas d’activer la synchronisation après l’enregistrement des modifications.

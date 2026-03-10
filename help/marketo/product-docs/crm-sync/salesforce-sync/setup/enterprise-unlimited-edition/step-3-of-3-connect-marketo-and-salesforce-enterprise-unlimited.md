@@ -56,7 +56,7 @@ Dans cet article, vous allez configurer Marketo pour qu’il se synchronise avec
 
    >[!CAUTION]
    >
-   >Si un bouton « Se connecter à [!DNL Salesforce] » s’affiche à la place des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. Reportez-vous [ cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **les informations d’identification [!DNL Salesforce] ou l’abonnement ne changent pas**. Si vous souhaitez utiliser l’authentification de base, contactez votre gestionnaire de compte.
+   >Si un bouton « Se connecter à [!DNL Salesforce] » s’affiche à la place des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. Reportez-vous [&#x200B; cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **les informations d’identification [!DNL Salesforce] ou l’abonnement ne changent pas**. Si vous souhaitez utiliser l’authentification de base, contactez votre gestionnaire de compte.
 
 1. Lisez l’avertissement, puis cliquez sur **[!UICONTROL Confirmer les informations d’identification]**.
 

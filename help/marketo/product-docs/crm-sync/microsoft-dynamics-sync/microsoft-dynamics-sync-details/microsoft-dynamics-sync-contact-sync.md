@@ -25,7 +25,7 @@ Bien que cela soit rare, Marketo gagnera pour les gens et [!DNL Dynamics] gagner
 
 ## Puis-je créer un contact à l’aide de Marketo ? {#can-i-create-a-contact-using-marketo}
 
-Oui. [Voici comment ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
+Oui. [Voici comment &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
 
 >[!NOTE]
 >

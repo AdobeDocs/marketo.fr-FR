@@ -17,7 +17,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 365 et Marketo, vous dev
 >[!CAUTION]
 >
 >* N’activez pas la synchronisation d’entités personnalisées avant la fin de la synchronisation initiale. Vous serez averti par e-mail une fois la synchronisation initiale terminée.
->* Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >

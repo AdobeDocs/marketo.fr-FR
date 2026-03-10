@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Lors de la première synchronisation avec [!DNL Microsoft Dynamics], vous téléchargez et installez la dernière version des plug-ins pour Marketo Sales Insight (MSI). Marketo met régulièrement à jour ces plug-ins afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
-Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [ est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [&#x200B; est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
