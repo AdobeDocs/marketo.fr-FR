@@ -158,7 +158,7 @@ Pointez sur les info-bulles pour obtenir une description de chaque colonne.
 
 ![](assets/tool-tip.png)
 
-Cliquez sur le menu déroulant [!UICONTROL  Ajouter un indicateur ICP ] pour insérer des indicateurs supplémentaires dans votre modèle.
+Cliquez sur le menu déroulant [!UICONTROL &#x200B; Ajouter un indicateur ICP &#x200B;] pour insérer des indicateurs supplémentaires dans votre modèle.
 
 ![](assets/add-icp.png)
 

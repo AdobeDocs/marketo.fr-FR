@@ -19,7 +19,7 @@ Sélectionnez votre campagne dynamique et cliquez sur **[!UICONTROL Liste dynami
 
 ![](assets/one-1.png)
 
-Saisissez « [!UICONTROL  Compte nommé ] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
+Saisissez « [!UICONTROL &#x200B; Compte nommé &#x200B;] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
 
 ![](assets/two-1.png)
 

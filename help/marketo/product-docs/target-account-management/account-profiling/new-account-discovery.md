@@ -77,4 +77,4 @@ La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes
 
    >[!TIP]
    >
-   >Une fois vos comptes enregistrés, vous pouvez utiliser une [ audience correspondante sur  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.
+   >Une fois vos comptes enregistrés, vous pouvez utiliser une [&#x200B; audience correspondante sur  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.

@@ -31,7 +31,7 @@ Une équipe de compte est un groupe de parties prenantes qui travaillent ensembl
    >
    >Pour [!UICONTROL Rôle de compte], attribuez-lui un nom et faites-le correspondre au champ de recherche d’utilisateur de votre CRM.
 
-1. Saisissez votre nom [!UICONTROL  Rôle de compte ] et sélectionnez le champ **CRM**. Ajoutez jusqu’à 10.
+1. Saisissez votre nom [!UICONTROL &#x200B; Rôle de compte &#x200B;] et sélectionnez le champ **CRM**. Ajoutez jusqu’à 10.
 
    ![](assets/four-2.png)
 
