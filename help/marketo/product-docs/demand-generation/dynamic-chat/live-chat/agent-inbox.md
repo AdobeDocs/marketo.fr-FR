@@ -3,10 +3,10 @@ description: Boîte de réception de l’agent - Documents Marketo - Documentati
 title: Boîte de réception de l’agent ou de l’agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 2%
+source-wordcount: '581'
+ht-degree: 1%
 
 ---
 
@@ -116,7 +116,13 @@ Au bas de la fenêtre de chat en direct se trouve une icône qui vous permet de 
 
    ![](assets/agent-inbox-16.png)
 
-## Résumé de conversation {#conversation-summary}
+## Télécharger la transcription {#download-transcript}
+
+Une fois le chat en direct terminé, cliquez sur le bouton **Télécharger le relevé de notes** au bas de la fenêtre de chat et un fichier .txt de la conversation est automatiquement téléchargé dans votre dossier « Téléchargements ».
+
+![](assets/agent-inbox-17.png)
+
+## Résumé de la conversation {#conversation-summary}
 
 >[!NOTE]
 >
@@ -124,7 +130,7 @@ Au bas de la fenêtre de chat en direct se trouve une icône qui vous permet de 
 
 Le résumé de la conversation génère un résumé rapide pour vous en temps réel, y compris les sujets qui ont intéressé le visiteur. Il est disponible dans le coin inférieur droit de chaque écran de conversation.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
