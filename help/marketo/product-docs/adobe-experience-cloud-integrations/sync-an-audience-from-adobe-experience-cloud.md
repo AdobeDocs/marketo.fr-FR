@@ -1,12 +1,12 @@
 ---
-description: Synchroniser une audience à partir de Adobe Experience Cloud - Documents Marketo - Documentation du produit
+description: Découvrez comment synchroniser une audience de Adobe Experience Cloud dans Marketo Engage. Extrayez les audiences de la bibliothèque d’audiences dans votre base de données Marketo pour les utiliser dans des campagnes et des programmes.
 title: Synchroniser une audience à partir d’Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 6%
+source-wordcount: '291'
+ht-degree: 5%
 
 ---
 

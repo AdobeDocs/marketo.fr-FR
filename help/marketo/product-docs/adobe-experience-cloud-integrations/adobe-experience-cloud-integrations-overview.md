@@ -1,12 +1,12 @@
 ---
-description: Vue d’ensemble des intégrations à Adobe Experience Cloud - Documents Marketo - Documentation du produit
+description: Découvrez les intégrations de Adobe Experience Cloud à Marketo Engage, notamment la synchronisation des audiences natives et Audience Manager. Configurez les intégrations et déverrouillez le marketing de la demande B2B dans les applications Adobe.
 title: Vue d’ensemble des intégrations à Adobe Experience Cloud
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '168'
-ht-degree: 100%
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 85%
 
 ---
 
