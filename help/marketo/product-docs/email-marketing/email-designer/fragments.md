@@ -6,9 +6,9 @@ description: Découvrez comment créer et utiliser des fragments de contenu visu
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 8e4e5ddd4789b9ddfb5ced7d20b58f345d257caf
 workflow-type: tm+mt
-source-wordcount: '1951'
+source-wordcount: '1972'
 ht-degree: 2%
 
 ---
@@ -125,7 +125,7 @@ Le statut du fragment détermine sa disponibilité pour une utilisation dans un 
 
    >[!NOTE]
    >
-   >Si vous choisissez le style manuel, utilisez les [&#x200B; outils de conception de contenu &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} pour créer le contenu du fragment visuel.
+   >Si vous choisissez le style manuel, utilisez les [ outils de conception de contenu ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} pour créer le contenu du fragment visuel.
 
 1. Cliquez sur l’icône _Thèmes_.
 
@@ -196,7 +196,7 @@ Les modifications apportées à un fragment dépendent de son statut actuel :
 
 1. Effectuez les modifications souhaitées.
 
-   ![Détails du fragment avec le statut Brouillon &#x200B;](assets/fragment-draft-details.png){width="600" zoomable="yes"}
+   ![Détails du fragment avec le statut Brouillon ](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. Pour modifier le contenu dans le concepteur visuel, cliquez sur **[!UICONTROL Modifier le fragment]**. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
@@ -313,10 +313,14 @@ Lorsqu’un fragment est ajouté à un e-mail ou à un modèle d’e-mail, son c
 * **[!UICONTROL Ouvrir le fragment]** - Un nouvel onglet de navigateur s’ouvre avec la page de l’éditeur de fragments et les détails.
 * **[!UICONTROL Rompre l’héritage]** - Cela rompt l’héritage du fragment (et de ses modifications) de la source. Utilisez cette action pour rendre le contenu du fragment disponible en tant que contenu indépendant et modifiable dans l’e-mail ou le modèle d’e-mail. Cette action supprime également l’e-mail ou le modèle d’e-mail de la référence _Utilisé par_ pour le fragment d’origine.
 
+>[!NOTE]
+>
+>Si l’option _Synchroniser avec HTML_ est désactivée dans l’e-mail, les modifications apportées (y compris la rupture de l’héritage) ne sont pas répercutées dans le contenu texte.
+
 Lorsque vous sélectionnez le fragment sur la page de l’éditeur, ces actions sont disponibles dans la barre d’outils contextuelle et le panneau des propriétés à droite.
 
 ![Appliquer des actions au fragment sélectionné](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Fragments personnalisables &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
+>[ Fragments personnalisables ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
