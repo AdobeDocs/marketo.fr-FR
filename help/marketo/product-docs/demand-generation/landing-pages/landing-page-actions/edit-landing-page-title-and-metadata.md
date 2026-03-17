@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359726
-description: Modifier le titre de la page de destination et les métadonnées - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier le titre et les métadonnées de la page de destination dans Marketo. Mettez à jour le titre de la page et la méta-description pour l’optimisation du moteur de recherche et l’affichage.
 title: Modifier le titre et les métadonnées de la page de destination
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '142'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo vous permet de modifier votre page de destination [balises meta à des f
    >
    >Le concepteur de la page de destination s’ouvre dans une nouvelle fenêtre.
 
-1. Sous **[!UICONTROL Actions de la page de destination]**, cliquez sur **[!UICONTROL Modifier les balises de métadonnées de page]**.
+1. Sous **[!UICONTROL Actions de la page de destination]**, cliquez sur **[!UICONTROL Modifier les balises Meta de la page]**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 

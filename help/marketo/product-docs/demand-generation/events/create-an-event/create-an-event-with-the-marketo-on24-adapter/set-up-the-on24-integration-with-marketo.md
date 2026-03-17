@@ -1,11 +1,11 @@
 ---
-description: Configuration de l’intégration ON24 avec Marketo - Documentation de Marketo - Documentation du produit
+description: Découvrez comment configurer l’intégration ON24 avec Marketo. Connectez votre compte ON24 afin de synchroniser les webinaires et les données d’enregistrement.
 title: Configurer l’intégration d’ON24 à Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '275'
 ht-degree: 8%
 
 ---

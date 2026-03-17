@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: Application d’un masque de saisie à un champ d’un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment appliquer un masquage de saisie à un champ de formulaire dans Marketo. Formatez le téléphone, la date ou d’autres champs en fonction du type de visiteurs.
 title: Appliquer un masquage de saisie à un champ de formulaire
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 12%
+source-wordcount: '193'
+ht-degree: 13%
 
 ---
 

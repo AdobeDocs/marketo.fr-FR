@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359707
-description: Ajout d’un rectangle à une page de destination de forme libre - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un rectangle à une page de destination de forme libre dans Marketo. Utilisez des rectangles pour la disposition, les séparateurs ou les éléments de conception.
 title: Ajouter un rectangle à une page de destination à structure libre
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 13%
+source-wordcount: '131'
+ht-degree: 12%
 
 ---
 

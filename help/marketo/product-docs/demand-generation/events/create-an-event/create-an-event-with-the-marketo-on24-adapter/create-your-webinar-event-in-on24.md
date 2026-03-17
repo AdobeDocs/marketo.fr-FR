@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096712
-description: Création de votre événement de webinaire dans ON24 - Documents Marketo - Documentation du produit
+description: Découvrez comment créer votre événement de webinaire dans ON24 pour l’utiliser avec Marketo. Configurez l’événement dans ON24 avant la synchronisation avec Marketo.
 title: Créer votre événement de webinaire dans ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 7%
+source-wordcount: '183'
+ht-degree: 6%
 
 ---
 

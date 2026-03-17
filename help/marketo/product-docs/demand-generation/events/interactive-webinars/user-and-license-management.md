@@ -1,12 +1,12 @@
 ---
-description: Gestion des utilisateurs et des licences - Documents Marketo - Documentation du produit
+description: Découvrez la gestion des utilisateurs et des licences pour les webinaires interactifs. Attribuez des droits d’accès et gérez les personnes autorisées à créer ou à diffuser des webinaires.
 title: Gestion des utilisateurs et utilisatrices et des licences
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
-ht-degree: 3%
+source-wordcount: '728'
+ht-degree: 4%
 
 ---
 

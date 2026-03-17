@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359873
-description: Suppression d’une image ou d’un fichier chargé - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer une image ou un fichier téléchargé depuis Marketo. Supprimez de Design Studio les ressources dont vous n’avez plus besoin.
 title: Supprimer une image chargée ou un fichier chargé
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 11%
+source-wordcount: '118'
+ht-degree: 10%
 
 ---
 

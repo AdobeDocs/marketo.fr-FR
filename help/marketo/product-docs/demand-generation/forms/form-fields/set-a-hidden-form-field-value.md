@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359663
-description: Définir une valeur de champ de formulaire masqué - Documents Marketo - Documentation du produit
+description: Découvrez comment définir une valeur de champ de formulaire masquée dans Marketo. Transmettez des valeurs statiques ou de jeton avec l’envoi du formulaire.
 title: Définir une valeur de champ de formulaire masquée
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '312'
 ht-degree: 7%
 
 ---

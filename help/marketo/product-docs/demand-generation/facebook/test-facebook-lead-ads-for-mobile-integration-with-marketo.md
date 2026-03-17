@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098759
-description: Tester les publicités de lead Facebook pour l’intégration mobile avec Marketo - Documents Marketo - Documentation du produit
+description: Découvrez comment tester l’intégration mobile des publicités de prospect Facebook à Marketo. Vérifiez correctement les envois d’annonces de leads à partir de la synchronisation mobile.
 title: Tester les publicités de lead Facebook pour l’intégration mobile à Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 4%
 
 ---

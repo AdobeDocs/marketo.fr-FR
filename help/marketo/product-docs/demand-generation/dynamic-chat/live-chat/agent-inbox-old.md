@@ -1,12 +1,12 @@
 ---
-description: Boîte de réception de l’agent - Documents Marketo - Documentation du produit
+description: Découvrez la boîte de réception de l’agent où se tiennent les conversations sur le terrain des agents de chat en direct. Affichez les conversations en cours et passées, les informations sur les visiteurs et définissez le statut de disponibilité.
 title: Boîte de réception de l’agent ou de l’agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '317'
 ht-degree: 2%
 
 ---

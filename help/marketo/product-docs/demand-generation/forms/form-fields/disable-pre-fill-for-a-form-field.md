@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359675
-description: Désactiver le préremplissage d’un champ de formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment désactiver le préremplissage d’un champ de formulaire dans Marketo. Empêchez les données de visiteur connues de remplir automatiquement le champ.
 title: Désactiver le préremplissage d’un champ de formulaire
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 

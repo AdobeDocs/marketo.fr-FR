@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504180
-description: Utilisation d’une liste Marketo ou d’une liste dynamique en tant que segment d’audience LinkedIn - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser une liste Marketo ou une liste dynamique en tant que segment d’audience LinkedIn. Envoi de listes à LinkedIn pour le ciblage publicitaire via Ad Bridge.
 title: Utiliser une liste Marketo ou une liste intelligente en tant que segments ciblés Linkedln
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 13%
+source-wordcount: '203'
+ht-degree: 12%
 
 ---
 
@@ -31,7 +31,7 @@ Intégrez vos utilisateurs Marketo Engage à vos audiences LinkedIn.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Cliquez sur l’icône _Envoyer via Ad Bridge_ ![, &#x200B;](assets/icon-ad-bridge.png) au bas de la liste.
+1. Cliquez sur l’icône _Envoyer via Ad Bridge_ ![, ](assets/icon-ad-bridge.png) au bas de la liste.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 

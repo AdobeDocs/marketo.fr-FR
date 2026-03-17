@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953038
-description: Clonage d’un groupe de test de page de destination - Documents Marketo - Documentation du produit
+description: Découvrez comment cloner un groupe de test de page de destination dans Marketo. Dupliquez un groupe de test pour exécuter des tests ou des variations similaires.
 title: Clonage d’un groupe de test de page de destination
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '186'
 ht-degree: 6%
 
 ---

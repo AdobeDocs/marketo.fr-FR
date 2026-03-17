@@ -1,12 +1,12 @@
 ---
-description: Liste des réunions - Documents Marketo - Documentation du produit
+description: Découvrez la liste des réunions Dynamic Chat dans laquelle apparaissent les rendez-vous réservés par les visiteurs. Affichez qui a réservé, quel agent et le statut de la réunion.
 title: Liste de réunions
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 18%
 
 ---
 

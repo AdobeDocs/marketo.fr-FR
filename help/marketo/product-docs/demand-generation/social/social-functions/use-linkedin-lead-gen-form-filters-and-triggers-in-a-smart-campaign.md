@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12976776
-description: Utilisation de filtres et de triggers de formulaires de génération de leads LinkedIn dans une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser les filtres et triggers LinkedIn de formulaire gén. de leads dans une campagne intelligente Marketo. Automatisez les actions lorsque les prospects envoient des formulaires LinkedIn.
 title: Utiliser des filtres et des déclencheurs de formulaire de génération de leads LinkedIn dans une campagne intelligente
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 17%
+source-wordcount: '147'
+ht-degree: 16%
 
 ---
 

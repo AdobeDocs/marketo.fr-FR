@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: FAQ sur le remplissage des formulaires sociaux LinkedIn - Documents Marketo - Documentation du produit
+description: Obtenez de l'aide sur LinkedIn social form fill with Marketo forms. Trouvez des réponses aux questions courantes sur l’intégration du remplissage de formulaire LinkedIn.
 title: Questions fréquentes sur le remplissage du formulaire social LinkedIn
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 1%
 
 ---

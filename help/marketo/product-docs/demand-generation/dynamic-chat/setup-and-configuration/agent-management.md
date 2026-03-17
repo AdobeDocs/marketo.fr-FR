@@ -1,11 +1,11 @@
 ---
-description: Gestion de l’agent - Documents Marketo - Documentation du produit
+description: Découvrez la gestion des agents dans Dynamic Chat. Affichez les agents, gérez les équipes, définissez des règles de secours et contrôlez la manière dont les réunions et les discussions en direct sont attribuées.
 title: Gestion des agentes et agents
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '301'
 ht-degree: 2%
 
 ---

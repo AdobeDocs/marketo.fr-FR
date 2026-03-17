@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: Configuration Du Profilage Progressif De Formulaire - Documents Marketo - Documentation Du Produit
+description: Découvrez comment configurer le profilage progressif sur un formulaire Marketo. Afficher différents champs au fil du temps pour collecter davantage de données sans formulaires longs.
 title: Configurer un formulaire de création de profils utilisateur progressive
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 3%
+source-wordcount: '347'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Les formes courtes sont bonnes ! Lorsqu’une personne revient sur un formulaire
 
 >[!NOTE]
 >
->Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [&#x200B; désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
+>Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [ désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

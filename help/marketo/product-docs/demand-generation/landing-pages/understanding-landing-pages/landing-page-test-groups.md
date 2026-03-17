@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949904
-description: Groupes De Test De La Page De Destination - Documents Marketo - Documentation Du Produit
+description: Découvrez les groupes de test de la page de destination dans Marketo. Exécutez des tests A/B ou multivariés pour comparer les performances de la page de destination.
 title: Groupes de test de page de destination
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '212'
 ht-degree: 4%
 
 ---

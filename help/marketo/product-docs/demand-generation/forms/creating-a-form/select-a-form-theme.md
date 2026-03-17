@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359400
-description: Sélection d’un thème de formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment sélectionner un thème de formulaire dans Marketo. Choisissez un thème pour contrôler l’aspect de votre formulaire.
 title: Sélectionner un thème de formulaire
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 11%
+source-wordcount: '149'
+ht-degree: 12%
 
 ---
 

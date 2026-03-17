@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359671
-description: Ajout d’un texte d’indice à un champ de formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter du texte d’indice à un champ de formulaire dans Marketo. Afficher le texte d’espace réservé ou d’assistance pour guider les visiteurs.
 title: Ajouter un texte d’indice à un champ de formulaire
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 15%
+source-wordcount: '129'
+ht-degree: 17%
 
 ---
 

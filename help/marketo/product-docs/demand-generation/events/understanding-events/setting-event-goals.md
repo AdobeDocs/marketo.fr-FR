@@ -1,14 +1,14 @@
 ---
-description: Définition Des Objectifs D’Événement - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir des objectifs d’événement dans les programmes d’événement Marketo. Définissez des mesures de succès et suivez la progression vers les objectifs de votre événement.
 title: Définition d’objectifs d’événement
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 5%
+source-wordcount: '130'
+ht-degree: 4%
 
 ---
 

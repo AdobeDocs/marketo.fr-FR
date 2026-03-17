@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
-description: Ajout  [!DNL Facebook]  audiences personnalisées en tant que  [!DNL LaunchPoint]  service - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des audiences personnalisées Facebook en tant que service LaunchPoint. Envoyez des listes Marketo à Facebook pour les utiliser comme audiences personnalisées dans des campagnes publicitaires.
 title: Ajout  [!DNL Facebook] ’audiences personnalisées en tant que  [!DNL LaunchPoint]  service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 0%
+source-wordcount: '311'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Avec cette intégration, vous pouvez envoyer des données d’audience à partir de listes statiques et intelligentes de Marketo pour les [!DNL Facebook] à utiliser comme audiences personnalisées dans les campagnes publicitaires [!DNL Facebook]. Voici comment le configurer.
 
@@ -63,7 +63,7 @@ Avec cette intégration, vous pouvez envoyer des données d’audience à partir
 
    >[!CAUTION]
    >
-   >Oh, avant de partir, assurez-vous d’[accepter les conditions personnalisées des audiences [!DNL Facebook] &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook] ! Sans cela, les mises à jour de l’audience échoueront.
+   >Oh, avant de partir, assurez-vous d’[accepter les conditions personnalisées des audiences [!DNL Facebook] ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook] ! Sans cela, les mises à jour de l’audience échoueront.
 
 >[!MORELIKETHIS]
 >

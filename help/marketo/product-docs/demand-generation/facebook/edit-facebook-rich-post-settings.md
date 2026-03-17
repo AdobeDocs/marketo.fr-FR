@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2950555
-description: Modifier les paramètres de publication enrichie sur Facebook - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier les paramètres des publications riches Facebook dans Marketo. Personnalisez l’affichage de vos pages de destination lorsqu’elles sont partagées sur Facebook.
 title: Modifier les paramètres de publication enrichie Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '314'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Marketo _applications sociales_ permet à vos prospects de partager vos landing 
 
 Vous pouvez spécifier les types d’informations de page à utiliser dans les publications riches en [!DNL Facebook] générées par des partages de votre page de destination.
 
-1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social _&#x200B;_[!DNL YouTube_]_.
+1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social __[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -59,7 +59,7 @@ Pour contrôler les éléments de page qui seront inclus dans les partages [!DNL
 
    La **[!UICONTROL Landing Page Designer]** s’ouvre dans une nouvelle fenêtre.
 
-1. Sélectionnez **[!UICONTROL Actions de la page de destination]** > **[!UICONTROL Modifier les balises de métadonnées de page]**.
+1. Sélectionnez **[!UICONTROL Actions de la page de destination]** > **[!UICONTROL Modifier les balises Meta de la page]**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

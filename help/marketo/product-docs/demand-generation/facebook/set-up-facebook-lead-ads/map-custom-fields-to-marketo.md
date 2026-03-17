@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983101
-description: Mappage de champs personnalisés à Marketo - Documents Marketo - Documentation du produit
+description: Découvrez comment mapper les champs personnalisés des annonces de leads Facebook à Marketo. Assurez-vous que les données des leads et des publicités sont mappées aux champs de personne appropriés dans Marketo.
 title: Mapper des champs personnalisés à Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 6%
+source-wordcount: '259'
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ Voici comment configurer ce paramètre dans la zone LaunchPoint de l’administr
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la zone Administration et cliquez sur **[!UICONTROL LaunchPoint]**. Sous Services installés, recherchez et modifiez **[!UICONTROL Publicités de leads Facebook]**.
 

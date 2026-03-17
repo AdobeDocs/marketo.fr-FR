@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: Ajout d’un FieldSet à un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un jeu de champs à un formulaire Marketo. Regroupez les champs associés avec un en-tête pour une meilleure disposition.
 title: Ajouter un FieldSet à un formulaire
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
@@ -43,4 +43,4 @@ Voilà !
 
 >[!TIP]
 >
->Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [&#x200B; règles de visibilité &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [ règles de visibilité ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

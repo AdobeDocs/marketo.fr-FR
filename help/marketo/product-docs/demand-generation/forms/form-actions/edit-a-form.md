@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359590
-description: Modification d’un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier un formulaire dans Marketo. Ouvrez l’éditeur de formulaires pour modifier les champs, les paramètres ou la conception.
 title: Modifier un formulaire
 exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 13%
+source-wordcount: '53'
+ht-degree: 18%
 
 ---
 
@@ -22,5 +22,3 @@ Si vous souhaitez apporter des modifications à un formulaire existant, voici co
 1. Sélectionnez votre formulaire et cliquez sur **[!UICONTROL Modifier le formulaire]**.
 
    ![](assets/editform.png)
-
-Simple !

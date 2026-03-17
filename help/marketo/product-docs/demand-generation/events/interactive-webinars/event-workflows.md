@@ -1,12 +1,12 @@
 ---
-description: Workflows d’événement - Documents Marketo - Documentation du produit
+description: Découvrez les workflows d’événement pour les webinaires interactifs dans Marketo. Découvrez comment concevoir et exécuter des campagnes de webinaires, de la création à la diffusion.
 title: Workflows d’événement
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '456'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359826
-description: Rediriger un chemin d’URL - Documents Marketo - Documentation du produit
+description: Découvrez comment rediriger un chemin d’URL pour les pages de destination Marketo. Envoyez les anciens chemins d’accès aux nouvelles URL ou pages de destination.
 title: Rediriger un chemin d’URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 7%
+source-wordcount: '153'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo facilite la redirection d’un chemin URL vers la page de votre choix. V
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Sous **[!UICONTROL Admin]**, cliquez sur **[!UICONTROL Pages de destination]**.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382858
-description: Présentation Des Intégrations Ad Network - Documents Marketo - Documentation Du Produit
+description: Découvrez comment les intégrations réseau et connectent les données d’audience Marketo aux médias achetés. Exécutez des campagnes ciblées, ingérez des prospects à partir de publicités et chargez des conversions hors ligne.
 title: Présentation des intégrations de réseau publicitaire
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---

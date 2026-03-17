@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437801
-description: Modèle 14A - Documents Marketo - Documentation Du Produit
+description: Découvrez le modèle de page de destination guidée par le modèle 14A. Téléchargez-le et utilisez-le pour vos pages de destination Marketo.
 title: Modèle 14A
 exl-id: bf096c89-b583-4618-aba9-8bfb7653af16
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 # Modèle 14A {#template-14a}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 
@@ -29,4 +29,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 14A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=fr)
+[Modèle 14A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)

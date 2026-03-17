@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359677
-description: Utilisation d’un formulaire dans Lightbox - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser un formulaire dans une Lightbox dans Marketo. Affichez votre formulaire dans une superposition pop-up sur une page de destination ou un site web.
 title: Utiliser un formulaire dans un Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '117'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359540
-description: Inclure un fichier ICS d’événement de calendrier dans une page de destination - Documents Marketo - Documentation du produit
+description: Découvrez comment inclure un fichier ICS d’événement de calendrier dans une page de destination Marketo. Autoriser les visiteurs à ajouter l’événement à leur calendrier.
 title: Inclure un fichier ICS d’événement de calendrier dans une page de destination
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 18%
+source-wordcount: '126'
+ht-degree: 17%
 
 ---
 

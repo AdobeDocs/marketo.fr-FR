@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383953
-description: Configuration des conversions hors ligne Facebook - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer des conversions hors ligne Facebook dans Marketo. Envoyez les données de conversion de Marketo à Facebook pour l’optimisation des publicités.
 title: Configurer les conversions hors ligne Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '311'
 ht-degree: 5%
 
 ---
@@ -95,7 +95,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
    >[!CAUTION]
    >
-   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [&#x200B; publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
+   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [ publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
 
    >[!NOTE]
    >

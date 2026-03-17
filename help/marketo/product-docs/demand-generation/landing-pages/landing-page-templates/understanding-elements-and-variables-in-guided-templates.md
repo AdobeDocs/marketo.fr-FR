@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: Présentation des éléments et des variables dans les modèles guidés - Documentation de Marketo - Documentation du produit
+description: Découvrez les éléments et les variables dans les modèles de page de destination guidée par Marketo. Définissez ce qui est modifiable et comment le contenu est placé.
 title: Présentation des éléments et des variables dans les modèles guidés
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Les éléments sont les différents éléments de contenu qui constituent une pa
 
 Lorsque vous modifiez une page de destination guidée, les éléments s’affichent s’ils ont été marqués comme étant modifiables dans le modèle. Les éléments présenteront les icônes suivantes :
 
-* ![&#x200B; : image &#x200B;](assets/image2015-5-20-12-3a30-3a48.png)
+* ![ : image ](assets/image2015-5-20-12-3a30-3a48.png)
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Formulaire Marketo
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Texte
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Vidéo
@@ -49,7 +49,7 @@ Il existe trois types de variables : les variables de chaîne, les variables de 
   </tr>
   <tr>
    <td>Couleur</td>
-   <td><p>Code hexadécimal modifiable pour la couleur</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemple : couleur d’arrière-plan, couleur de police, couleur de bordure</p></td>
+   <td><p>Code hexadécimal modifiable pour la couleur</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemple : couleur d’arrière-plan, couleur de police, couleur de bordure</p></td>
   </tr>
   <tr>
    <td>Booléen</td>

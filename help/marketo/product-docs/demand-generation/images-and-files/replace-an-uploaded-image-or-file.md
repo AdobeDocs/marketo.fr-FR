@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359876
-description: Remplacement d’une image ou d’un fichier chargé - Documents Marketo - Documentation du produit
+description: Découvrez comment remplacer une image ou un fichier chargé dans Marketo. Mettez à jour la ressource tout en conservant la même URL pour les liens existants.
 title: Remplacer une image chargée ou un fichier chargé
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 10%
+source-wordcount: '127'
+ht-degree: 9%
 
 ---
 

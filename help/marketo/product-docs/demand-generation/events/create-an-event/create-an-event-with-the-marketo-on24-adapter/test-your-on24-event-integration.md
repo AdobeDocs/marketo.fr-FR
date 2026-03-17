@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096677
-description: Testez votre intégration d’événement ON24 - Documents Marketo - Documentation du produit
+description: Découvrez comment tester votre intégration d’événement ON24 avec Marketo. Vérifiez que la synchronisation, le flux d’enregistrement et les mises à jour de statut fonctionnent correctement.
 title: Tester votre intégration d’événement ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 5%
+source-wordcount: '201'
+ht-degree: 4%
 
 ---
 

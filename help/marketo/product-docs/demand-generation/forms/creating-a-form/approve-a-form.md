@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359578
-description: Approuver un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver un formulaire dans Marketo. Approuvez votre formulaire afin qu’il puisse être utilisé sur les pages de destination et commencer à capturer des prospects.
 title: Approuver un formulaire
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 8%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

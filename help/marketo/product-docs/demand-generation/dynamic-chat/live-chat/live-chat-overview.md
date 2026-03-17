@@ -1,11 +1,11 @@
 ---
-description: Présentation du chat en direct - Documents Marketo - Documentation du produit
+description: Découvrez le chat en direct pour les conversations en temps réel entre les visiteurs et les agents de vente. Ajoutez des agents de chat en direct, utilisez la carte de chat en direct et définissez les options de routage.
 title: Vue d’ensemble de la conversation en direct
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '860'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Lorsque les visiteurs demandent à discuter avec un agent via votre boîte de di
 
 >[!NOTE]
 >
->L’avatar de l’agent en direct utilise la photo de profil provenant du profil du compte Adobe de l’agent. Pour mettre à jour l’image, [comme suit &#x200B;](https://helpx.adobe.com/fr/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>L’avatar de l’agent en direct utilise la photo de profil provenant du profil du compte Adobe de l’agent. Pour mettre à jour l’image, [comme suit ](https://helpx.adobe.com/fr/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Utilisation de la carte de conversation en direct {#using-the-live-chat-card}
 
@@ -56,7 +56,7 @@ Cliquer sur la carte de chat en direct dans le flux vous permet de choisir comme
    <td>Les conversations sont affectées aux agents dans un ordre séquentiel.</td>
   </tr>
   <tr>
-   <td><b>Agent ou agente</b></td>
+   <td><b>Agent</b></td>
    <td>Choisissez un agent spécifique pour recevoir la conversation.</td>
   </tr>
     <tr>
@@ -113,7 +113,7 @@ Lorsqu’une action telle qu’une réservation de réunion ou un chat en direct
 
 ### Éléments à noter {#things-to-note}
 
-* Les agents ont 100 secondes pour répondre avant l&#39;expiration du message « Accepter le chat ». Ensuite, les visiteurs et visiteuses recevront le [&#x200B; message de secours &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Pour les abonnés Dynamic Chat Prime dont l’option de routage est définie sur **Équipe**, un agent supplémentaire sera essayé avant l’affichage du message de secours.
+* Les agents ont 100 secondes pour répondre avant l&#39;expiration du message « Accepter le chat ». Ensuite, les visiteurs et visiteuses recevront le [ message de secours ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Pour les abonnés Dynamic Chat Prime dont l’option de routage est définie sur **Équipe**, un agent supplémentaire sera essayé avant l’affichage du message de secours.
 * Il existe actuellement une limite de 10 discussions en direct par agent.
 * La boîte de réception de l’agent est réservée aux conversations en direct. Si le chat n’est pas accepté par un agent, il n’apparaîtra pas dans la boîte de réception de l’agent, car il n’est pas qualifié de chat en direct.
 * L’onglet Conversation affiche toutes les conversations, aussi bien les conversations en direct que les conversations automatisées. Ainsi, si une conversation n’est pas acceptée par l’agent, elle est répertoriée dans l’onglet Conversation . L’onglet Conversation peut prendre jusqu’à 24 heures, car il ne s’agit pas de temps réel. La boîte de réception de l’agent est toutefois en temps réel.
@@ -122,4 +122,4 @@ Lorsqu’une action telle qu’une réservation de réunion ou un chat en direct
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Boîte de réception de l’agent &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
+>[ Boîte de réception de l’agent ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}

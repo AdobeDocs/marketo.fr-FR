@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359614
-description: Définition de valeurs dans une case d’option ou un champ sélectionné dans un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment définir des valeurs dans un champ radio ou déroulant d’un formulaire Marketo. Définissez les options que les visiteurs peuvent choisir.
 title: Définir des valeurs dans une case d’option ou un champ sélectionné dans un formulaire
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 13%
+source-wordcount: '201'
+ht-degree: 14%
 
 ---
 

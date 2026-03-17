@@ -1,11 +1,11 @@
 ---
-description: Adobe Marketo Engage - Documents Marketo - Documentation du produit
+description: Découvrez comment connecter Dynamic Chat à votre abonnement Marketo Engage. Effectuez la synchronisation ponctuelle et sélectionnez les attributs de personne et d’entreprise pour le ciblage.
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
 
 >[!NOTE]
 >
->Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs[&#x200B; personnalisés et &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}Marketo.
+>Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs[ personnalisés et ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}Marketo.
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Dynamic Chat]**.
 
@@ -28,7 +28,7 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
    >
    >Si la mosaïque ne s’affiche pas, contactez votre administrateur Marketo.
 
-1. Si vous avez déjà accédé à une application à l’aide d’une Adobe ID, vous accédez directement à Dynamic Chat. Dans le cas contraire, [configurez votre Adobe ID](https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si vous avez déjà accédé à une application à l’aide d’une Adobe ID, vous accédez directement à Dynamic Chat. Dans le cas contraire, [configurez votre Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Pour connecter votre instance Marketo, sélectionnez **[!UICONTROL Intégrations]**.
 

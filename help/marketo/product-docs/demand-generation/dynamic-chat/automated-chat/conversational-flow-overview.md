@@ -1,11 +1,11 @@
 ---
-description: Présentation du flux de conversation - Documents Marketo - Documentation du produit
+description: Découvrez les flux de conversation et en quoi ils diffèrent des boîtes de dialogue. Concevez des flux déclenchés par des actions du visiteur et utilisez-les dans des formulaires ou des pop-ups.
 title: Vue d’ensemble du flux conversationnel
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
@@ -82,7 +82,7 @@ Dans la partie inférieure de l’onglet Paramètres , personnalisez le déclenc
 
 >[!TIP]
 >
->Voir [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=fr){target="_blank"} en action !
+>Voir [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en action !
 
 >[!MORELIKETHIS]
 >

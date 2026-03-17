@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: Ajouter une liste de sélection de pays à votre formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une liste de sélection de pays à votre formulaire Marketo. Donnez aux visiteurs un menu déroulant pour sélectionner leur pays.
 title: Ajouter une liste de sélection de pays à votre formulaire
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 9%
+source-wordcount: '197'
+ht-degree: 11%
 
 ---
 

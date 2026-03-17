@@ -1,12 +1,12 @@
 ---
-description: Questions sans réponse - Documents Marketo - Documentation du produit
+description: Découvrez comment afficher les questions de chatbot sans réponse ou qui ne sont pas utiles, et comment y répondre. Ajoutez de nouvelles réponses approuvées à votre bibliothèque de réponses à partir de cette liste.
 title: Questions sans réponse
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 7%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 

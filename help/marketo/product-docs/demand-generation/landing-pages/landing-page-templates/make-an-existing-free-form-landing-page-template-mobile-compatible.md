@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472348
-description: Rendre un modèle de page de destination de forme libre existant compatible avec les appareils mobiles - Documents Marketo - Documentation du produit
+description: Découvrez comment rendre compatible un modèle de page de destination de forme libre existant. Mise à niveau à partir de l’éditeur de modèle ou de page de destination.
 title: Rendre un modèle de page de destination à structure libre existant compatible avec les appareils mobiles
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '258'
 ht-degree: 3%
 
 ---

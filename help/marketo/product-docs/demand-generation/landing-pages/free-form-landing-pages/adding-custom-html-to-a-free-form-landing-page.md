@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359730
-description: Ajout d’HTML personnalisé à une page de destination de forme libre - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des HTML personnalisées à une page de destination de forme libre dans Marketo. Insérer des blocs HTML pour le contenu ou le suivi personnalisés.
 title: Ajouter du HTML personnalisé à une page de destination à structure libre
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 10%
+source-wordcount: '161'
+ht-degree: 9%
 
 ---
 

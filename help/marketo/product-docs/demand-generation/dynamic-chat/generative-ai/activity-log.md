@@ -1,12 +1,12 @@
 ---
-description: Journal D’Activité - Documents Marketo - Documentation Du Produit
+description: Découvrez le journal d’activité de Generative AI dans Dynamic Chat. Affichez toutes les tâches, tous les propriétaires, tous les types et modifiez l’historique en un seul endroit.
 title: Journal d’activité
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 6%
 
 ---
 

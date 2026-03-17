@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359575
-description: Prévisualisation d’un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment prévisualiser un formulaire dans Marketo avant de le publier. Vérifiez la disposition et le comportement sur les ordinateurs de bureau et les appareils mobiles.
 title: Prévisualiser un formulaire
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 

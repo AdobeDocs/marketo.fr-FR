@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095239
-description: Utilisation de filtres et de triggers des publicités de lead dans une campagne dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser les filtres et triggers des publicités de lead Facebook dans une campagne dynamique Marketo. Automatisez les actions lorsque les leads sont envoyés depuis Facebook.
 title: Utiliser des filtres et des déclencheurs de publicités de lead dans une campagne intelligente
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 23%
+source-wordcount: '93'
+ht-degree: 21%
 
 ---
 

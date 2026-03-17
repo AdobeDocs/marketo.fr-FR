@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096679
-description: Exemple d’intégration d’événement ON24 - Documents Marketo - Documentation du produit
+description: Découvrez un exemple d’intégration d’événement ON24 à Marketo. Voir un exemple de flux de la création du webinaire à la synchronisation de l’enregistrement.
 title: Exemple d’intégration d’événement ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '396'
 ht-degree: 2%
 
 ---

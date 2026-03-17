@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097969
-description: Création d’un modèle de page de destination de forme libre - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un modèle de page de destination de forme libre dans Marketo. Créez un modèle réutilisable dans Design Studio pour les futures pages de destination.
 title: Créer un modèle de page de destination à structure libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 6%
+source-wordcount: '208'
+ht-degree: 5%
 
 ---
 

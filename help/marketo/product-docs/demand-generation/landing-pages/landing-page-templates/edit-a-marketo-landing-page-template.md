@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720738
-description: Modification d’un modèle de page de destination Marketo - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier un modèle de page de destination Marketo. Mettez à jour les modèles dans Design Studio pour modifier la disposition ou le contenu des pages futures.
 title: Modifier un modèle de page de destination Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 12%
+source-wordcount: '105'
+ht-degree: 11%
 
 ---
 

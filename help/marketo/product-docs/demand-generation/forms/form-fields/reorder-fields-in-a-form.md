@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359592
-description: Réorganiser les champs d’un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment réorganiser les champs d’un formulaire Marketo. Effectuez un glisser-déposer pour modifier l’ordre des champs du formulaire.
 title: Réorganiser les champs d’un formulaire
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 18%
+source-wordcount: '84'
+ht-degree: 21%
 
 ---
 

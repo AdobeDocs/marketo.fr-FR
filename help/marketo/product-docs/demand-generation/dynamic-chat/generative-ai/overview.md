@@ -1,11 +1,11 @@
 ---
-description: Présentation de Generative AI - Documents Marketo - Documentation du produit
+description: Découvrez Generative AI dans Dynamic Chat pour connaître la productivité des agents et les intentions des visiteurs. Utilisez des cartes de réponse, un résumé de conversation et des réponses assistées.
 title: IA générative dans Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '463'
 ht-degree: 3%
 
 ---

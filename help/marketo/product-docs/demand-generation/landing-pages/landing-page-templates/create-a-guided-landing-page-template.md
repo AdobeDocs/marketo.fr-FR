@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515401
-description: Création d’un modèle de page de destination guidé - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un modèle de page de destination guidée dans Marketo. Utilisez la syntaxe pour définir les régions modifiables et les variables pour l’éditeur guidé.
 title: Créer un modèle de page de destination guidée
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 2%
+source-wordcount: '1135'
+ht-degree: 15%
 
 ---
 
@@ -34,8 +34,8 @@ Si vous définissez une région en tant que Texte enrichi, les utilisateurs pour
 
 Attributs requis :
 **class** : « mktoText »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Facultatif :
 Le contenu d’un élément avec la classe mktoText (s’il est fourni) sera utilisé comme valeur par défaut pour la région modifiable.
@@ -48,26 +48,26 @@ Exemple :
 
 Vous disposez de deux options pour définir des éléments d’image modifiables. Vous pouvez utiliser une `<div>`, qui spécifie un conteneur dans lequel l’image sera insérée, ou une balise `<img>`.
 
-## Option 1 - Utiliser un `<div>` {#option-use-a-div}
+## Option 1 : utiliser un `<div>` {#option-use-a-div}
 
 Attributs requis :
 
 classe : « mktoImg »
-id : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+id : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
 mktoName : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Facultatif :
-mktoImgClass : chaîne. La valeur ici sera ajoutée à l’attribut class de l’élément `<img>` dans la balise div.
+mktoImgClass : chaîne. La valeur ici sera ajoutée à l’attribut de classe de l’élément `<img>` dans le div.
 
 Exemple :
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Option 2 - Utiliser un `<img>` {#option-use-a-img}
+## Option 2 : utiliser un `<img>` {#option-use-a-img}
 
 Attributs requis :
 classe : « mktoImg »
-id : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+id : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
 mktoName : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Facultatif :
@@ -85,8 +85,8 @@ Exemple :
 
 Exemple :Required attributs :
 **class** : « mktoForm »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
@@ -94,8 +94,8 @@ Exemple :Required attributs :
 
 Attributs requis :
 **class** : « mktoSnippet »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Exemple :
 
@@ -105,8 +105,8 @@ Exemple :
 
 Attributs requis :
 **class** : « mktoShareButton »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Exemple :
 
@@ -120,8 +120,8 @@ Exemple :
 
 Attributs requis :
 **class** : « mktoVideo »
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Exemple :
 
@@ -143,8 +143,8 @@ Les variables sont déclarées en tant que balises meta dans l’élément `<hea
 
 Attributs requis :
 **class** : « mktoString »,
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Facultatif :
 **default** : valeur de chaîne pour l&#39;attribut. Vide si aucun n’est fourni.
@@ -162,8 +162,8 @@ Exemple avec tous les attributs :
 
 Attributs requis :
 **class** : « mktoColor »,
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Facultatif :
 **default** : code couleur à 7 chiffres pour les caractères HEX. Par Ex. : « #336699 »
@@ -180,8 +180,8 @@ Exemple avec tous les attributs :
 
 Attributs requis :
 **class** : « mktoBoolean »,
-**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, un tiret « - » et un trait de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
-**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
+**id** : chaîne d’ID. Contient uniquement des lettres, des chiffres, des tirets « - » et des traits de soulignement « _ ». Aucun espace n’est autorisé. Doit être unique.
+**mktoName** : chaîne. Il s’agit du nom d’affichage qui s’affiche dans l’éditeur de page de destination. Il est recommandé d’utiliser un nom explicite.
 
 Facultatif :
 **default** : chaîne booléenne. « true » ou « false » contrôle si la valeur commence à la position ON ou OFF. « false » s’il n’est pas fourni.

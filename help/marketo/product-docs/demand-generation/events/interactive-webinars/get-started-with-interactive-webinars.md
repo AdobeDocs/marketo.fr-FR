@@ -1,18 +1,18 @@
 ---
-description: Prise en main des webinaires interactifs - Documents Marketo - Documentation du produit
+description: Prise en main des webinaires interactifs dans Marketo. Découvrez les conditions préalables, les concepts clés et les étapes de création et de diffusion de votre premier webinaire interactif.
 title: Prise en main des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---
 
 # Prise en main des webinaires interactifs {#get-started-with-interactive-webinars}
 
-Vous avez donc lu la [&#x200B; Présentation des webinaires interactifs &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
+Vous avez donc lu la [ Présentation des webinaires interactifs ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359710
-description: Approuver, annuler l’approbation ou supprimer une page de destination - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver, désapprouver ou supprimer une page de destination dans Marketo. Contrôlez les pages actives et supprimez celles dont vous n’avez plus besoin.
 title: Approuver, annuler l’approbation ou supprimer une page de destination
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '266'
 ht-degree: 5%
 
 ---

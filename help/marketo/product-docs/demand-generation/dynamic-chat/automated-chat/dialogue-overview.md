@@ -1,11 +1,11 @@
 ---
-description: Présentation De La Boîte De Dialogue - Documents Marketo - Documentation Du Produit
+description: Découvrez les boîtes de dialogue en tant que conversations de chat individuelles dans Dynamic Chat. Définissez où elles s’affichent, qui les voit et surveillez l’efficacité dans les rapports.
 title: Vue d’ensemble du dialogue
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---

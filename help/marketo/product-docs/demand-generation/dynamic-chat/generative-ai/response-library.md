@@ -1,11 +1,11 @@
 ---
-description: Bibliothèque de réponses - Documents Marketo - Documentation du produit
+description: Découvrez comment gérer la bibliothèque de réponse pour l’IA générative dans Dynamic Chat. Ajoutez, modifiez et approuvez des questions et des réponses pour les campagnes de chat.
 title: Bibliothèque de réponses
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -44,7 +44,7 @@ Au même endroit, affichez toutes vos questions, leur statut d’approbation et 
 
 >[!NOTE]
 >
->Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL &#x200B; approuvées &#x200B;] sont mises à la disposition des visiteurs du chat.
+>Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL  approuvées ] sont mises à la disposition des visiteurs du chat.
 
 1. Dans la **[!UICONTROL bibliothèque de réponses]**, cliquez sur la question souhaitée.
 

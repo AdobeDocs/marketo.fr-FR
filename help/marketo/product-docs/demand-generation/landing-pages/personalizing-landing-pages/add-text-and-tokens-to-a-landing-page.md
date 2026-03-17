@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359530
-description: Ajout de texte et de jetons à une page de destination - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter du texte et des jetons à une page de destination Marketo. Insérez du texte statique et des jetons dynamiques pour la personnalisation.
 title: Ajouter du texte et des jetons à une page de destination
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 9%
+source-wordcount: '201'
+ht-degree: 8%
 
 ---
 

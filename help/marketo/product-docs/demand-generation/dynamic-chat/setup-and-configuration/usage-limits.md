@@ -1,12 +1,12 @@
 ---
-description: Paramètres De Sécurité - Documents Marketo - Documentation Du Produit
+description: Découvrez les limites d’utilisation de Dynamic Chat et les informations sur les packages. Affichez les limites mensuelles des conversations engagées et les limites des places du calendrier ou du chat en direct.
 title: Paramètres de sécurité
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 5%
 
 ---
 

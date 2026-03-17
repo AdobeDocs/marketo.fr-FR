@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359398
-description: Création d’un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un formulaire dans Marketo. Ajoutez des champs, configurez le formulaire et utilisez-le sur les pages de destination ou sur votre site web pour capturer les prospects.
 title: Créer un formulaire
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 5%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 

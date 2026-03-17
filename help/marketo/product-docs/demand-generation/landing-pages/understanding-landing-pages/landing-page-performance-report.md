@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359713
-description: Rapport sur les performances des pages de destination - Documents Marketo - Documentation du produit
+description: Découvrez le rapport de performances des pages de destination dans Marketo. Affichez les visites, les conversions et d’autres mesures pour vos pages de destination.
 title: Rapport de performances de la page de destination
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '217'
 ht-degree: 4%
 
 ---

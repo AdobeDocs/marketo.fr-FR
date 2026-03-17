@@ -1,12 +1,12 @@
 ---
-description: Découvrez les différents outils d’engagement dans les webinaires interactifs.
+description: Découvrez les outils d’engagement dans les webinaires interactifs. Utilisez les sondages, les questions/réponses et d’autres fonctionnalités pour améliorer l’interaction des participants lors des webinaires.
 title: Outils d’engagement dans les webinaires interactifs
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---

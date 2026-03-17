@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359734
-description: Aperçu d’une page de destination avec du contenu dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment prévisualiser une page de destination avec du contenu dynamique dans Marketo. Voir comment le contenu change pour différents segments.
 title: Prévisualiser une page de destination avec du contenu dynamique
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '96'
+ht-degree: 14%
 
 ---
 

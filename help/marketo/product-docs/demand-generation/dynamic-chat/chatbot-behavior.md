@@ -1,11 +1,11 @@
 ---
-description: Comportement du bot conversationnel - Documents Marketo - Documentation du produit
+description: Découvrez le comportement du bot conversationnel Dynamic Chat dans les boîtes de dialogue, les priorités et les visiteurs. Utilisez cette référence pour comprendre le comportement du bot conversationnel dans différents scénarios.
 title: Comportement du chatbot
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1680'
+source-wordcount: '1697'
 ht-degree: 3%
 
 ---

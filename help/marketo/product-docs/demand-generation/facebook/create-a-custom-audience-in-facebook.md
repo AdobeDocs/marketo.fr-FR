@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: Création d’une audience personnalisée sur Facebook - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une audience personnalisée dans Facebook à partir de Marketo. Envoyez des listes Marketo à Facebook pour les campagnes publicitaires ciblées.
 title: Créer une audience personnalisée dans Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->En savoir plus sur les [&#x200B; audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>En savoir plus sur les [ audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Recherchez et sélectionnez la liste dynamique ou statique qui contient les prospects à partir desquels vous souhaitez créer l’audience.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096673
-description: Configuration des paramètres d’événement et synchronisation de Marketo avec votre webinaire - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer les paramètres d’événement et synchroniser Marketo avec votre webinaire ON24. Mappez des champs et synchronisez les données d’enregistrement.
 title: Configurer des paramètres d’événement et synchroniser Marketo avec votre webinaire
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '238'
 ht-degree: 9%
 
 ---

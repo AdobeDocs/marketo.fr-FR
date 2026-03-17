@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359866
-description: Capture des images à partir d’une page web - Documents Marketo - Documentation du produit
+description: Découvrez comment récupérer des images d’une page web dans Marketo. Importez des images à partir d’une URL dans votre Design Studio.
 title: Récupérer les images d’une page web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 8%
+source-wordcount: '182'
+ht-degree: 7%
 
 ---
 

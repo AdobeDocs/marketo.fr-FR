@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359649
-description: Modification Du Texte Du Bouton D’Envoi Du Formulaire - Documents Marketo - Documentation Du Produit
+description: Découvrez comment modifier le texte du bouton Envoyer du formulaire dans Marketo. Personnalisez le libellé sur le bouton sur lequel les visiteurs cliquent pour envoyer la ressource.
 title: Modifier le texte du bouton Envoyer du formulaire
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 16%
+source-wordcount: '95'
+ht-degree: 18%
 
 ---
 

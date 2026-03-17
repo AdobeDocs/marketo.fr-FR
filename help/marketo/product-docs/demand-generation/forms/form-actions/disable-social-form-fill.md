@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098242
-description: Désactiver Le Remplissage Du Formulaire Social - Documents Marketo - Documentation Du Produit
+description: Découvrez comment désactiver le remplissage de formulaires sociaux sur un formulaire Marketo. Désactivez l’option permettant aux visiteurs de soumettre à l’aide de leur réseau social.
 title: Désactiver le remplissage du formulaire social
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '97'
+ht-degree: 14%
 
 ---
 

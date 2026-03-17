@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359724
-description: Approuver plusieurs pages de destination à la fois - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver plusieurs pages de destination à la fois dans Marketo. Approuver des pages en bloc pour les rendre actives rapidement.
 title: Approuver plusieurs pages de destination à la fois
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 14%
+source-wordcount: '94'
+ht-degree: 12%
 
 ---
 

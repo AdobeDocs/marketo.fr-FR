@@ -1,11 +1,11 @@
 ---
-description: Autorisations - Documents Marketo - Documentation du produit
+description: Découvrez les autorisations et les profils de produits Dynamic Chat dans Admin Console. Modifiez des profils existants ou créez des profils personnalisés avec des autorisations spécifiques.
 title: Autorisations
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '728'
 ht-degree: 6%
 
 ---
@@ -99,7 +99,7 @@ Vous trouverez ci-dessous une liste de toutes les autorisations disponibles pour
     <td><li>Gérer toutes les réunions</li>
   </tr>
   <tr>
-    <td>Analyse</td>
+    <td>Analytics</td>
     <td><li>Afficher les rapports de performances globaux</li>
     <li>Afficher les rapports de conversation en direct</li>
     <li>Afficher les rapports de réunion</li>

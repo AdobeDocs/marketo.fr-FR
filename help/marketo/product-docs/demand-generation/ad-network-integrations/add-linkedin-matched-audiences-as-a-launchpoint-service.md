@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504163
-description: Ajout  [!DNL LinkedIn] ’audiences correspondantes as a [!DNL LaunchPoint] Service - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des audiences correspondantes LinkedIn en tant que service LaunchPoint. Utilisez les listes Marketo comme segments d’audience LinkedIn pour le ciblage des annonces.
 title: Ajout  [!DNL LinkedIn] ’audiences correspondantes en tant que  [!DNL LaunchPoint] service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 1%
+source-wordcount: '217'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Connectez votre compte Marketo à [!DNL LinkedIn] audiences correspondantes pour utiliser une liste statique ou une liste dynamique Marketo en tant que segment d’audience [!DNL LinkedIn].
 

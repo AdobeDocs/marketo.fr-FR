@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359618
-description: Ajout de texte enrichi à un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter du texte enrichi à un formulaire Marketo. Insérez des en-têtes, des liens ou des instructions au-dessus ou en dessous des champs de formulaire.
 title: Ajouter du texte enrichi à un formulaire
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 15%
+source-wordcount: '113'
+ht-degree: 17%
 
 ---
 

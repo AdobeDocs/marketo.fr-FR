@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: Définir une page de remerciement de formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment définir une page de remerciement de formulaire dans Marketo. Envoyer les expéditeurs à une page ou une URL spécifique après l’envoi du formulaire.
 title: Définir un formulaire de page de remerciement
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '375'
 ht-degree: 6%
 
 ---
@@ -53,7 +53,7 @@ Le paramètre URL externe vous permet de définir n’importe quelle URL comme p
 
 >[!TIP]
 >
->L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL &#x200B; Envoyer &#x200B;] » se comportera comme un bouton « [!UICONTROL &#x200B; Télécharger &#x200B;] ».
+>L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL  Envoyer ] » se comportera comme un bouton « [!UICONTROL  Télécharger ] ».
 
 ## Page de destination {#landing-page}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359661
-description: Définir un champ de formulaire comme masqué - Documents Marketo - Documentation du produit
+description: Découvrez comment définir un champ de formulaire comme masqué dans Marketo. Stocker les données sans afficher le champ aux visiteurs.
 title: Définir un champ de formulaire comme masqué
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 20%
+source-wordcount: '88'
+ht-degree: 22%
 
 ---
 

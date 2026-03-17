@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383945
-description: Présentation Des Conversions Hors Ligne Facebook - Documents Marketo - Documentation Du Produit
+description: Découvrez les conversions hors ligne Facebook et leur fonctionnement avec Marketo. Découvrez comment les données de conversion améliorent les performances publicitaires.
 title: Présentation des conversions hors ligne Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '238'
 ht-degree: 2%
 
 ---

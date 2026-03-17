@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11370892
-description: Tester les publicités de lead Facebook pour l’intégration de bureau avec Marketo - Documents Marketo - Documentation du produit
+description: Découvrez comment tester l’intégration des publicités de lead Facebook sur les ordinateurs de bureau avec Marketo. Vérifiez correctement les envois d’annonces de leads depuis la synchronisation de bureau.
 title: Tester les publicités de lead Facebook pour l’intégration de bureau à Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '224'
 ht-degree: 5%
 
 ---

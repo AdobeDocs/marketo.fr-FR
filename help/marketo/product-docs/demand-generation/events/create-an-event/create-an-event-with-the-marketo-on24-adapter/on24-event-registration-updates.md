@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096683
-description: Mises à jour de l’inscription aux événements ON24 - Documents Marketo - Documentation du produit
+description: Découvrez les mises à jour de l’enregistrement des événements ON24 et comment elles se synchronisent avec Marketo. Gardez le statut des personnes et des programmes synchronisé lorsque les enregistrements changent.
 title: Mises à jour de l’inscription aux événements ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Si une personne ne s’enregistre pas, mais qu’elle adopte le statut [!UICONTR
 
 1. Dans l’onglet [!UICONTROL Membres], filtrez la liste des personnes dont le statut est **[!UICONTROL Erreur d’enregistrement]**.
 1. Avant de poursuivre, assurez-vous d’avoir déterminé et corrigé le problème avec l’intégration (vérifiez qu’il n’y a aucune erreur sous **[!UICONTROL Partenaires d’événement]** dans Admin).
-1. Une fois le problème résolu, sélectionnez toutes les personnes dont le statut est [!UICONTROL &#x200B; Erreur d’enregistrement &#x200B;] et modifiez leur statut en **[!UICONTROL Enregistré]**. Cette opération va tenter de les enregistrer à nouveau avec ON24.
+1. Une fois le problème résolu, sélectionnez toutes les personnes dont le statut est [!UICONTROL  Erreur d’enregistrement ] et modifiez leur statut en **[!UICONTROL Enregistré]**. Cette opération va tenter de les enregistrer à nouveau avec ON24.
 
 ## Mise à jour du statut de membre à partir d’ON24 {#updating-member-status-from-on}
 

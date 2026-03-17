@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359657
-description: Modification des paramètres régionaux d’un formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier des paramètres régionaux de formulaire dans Marketo. Définissez la langue du formulaire et le format régional pour les libellés et la validation.
 title: Modifier les paramètres régionaux d’un formulaire
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 

@@ -1,14 +1,14 @@
 ---
-description: Nouveau Document Ajouter Des Images - Documents Marketo - Documentation Du Produit
+description: Découvrez comment ajouter des images et des fichiers à Marketo Design Studio. Chargez, organisez et utilisez des ressources dans des campagnes et des landing pages.
 title: Nouveau document Ajouter des images
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 9%
+source-wordcount: '304'
+ht-degree: 8%
 
 ---
 

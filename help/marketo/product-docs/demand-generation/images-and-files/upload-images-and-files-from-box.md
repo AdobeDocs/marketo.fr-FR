@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Télécharger des images et des fichiers depuis Box - Documents Marketo - Documentation du produit
+description: Découvrez comment télécharger des images et des fichiers de Box vers Marketo. Connect Box et importer des ressources dans Design Studio.
 title: Charger des images et fichiers depuis Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 13%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 

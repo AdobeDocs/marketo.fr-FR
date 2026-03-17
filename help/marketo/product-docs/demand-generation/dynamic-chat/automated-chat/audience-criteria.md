@@ -1,11 +1,11 @@
 ---
-description: Critères D’Audience - Documents Marketo - Documentation Du Produit
+description: Découvrez les Critères d’audience pour le ciblage des personnes qui voient vos boîtes de dialogue Dynamic Chat. Définissez des audiences à l’aide d’événements, des attributs de personne et d’entreprise et de la priorité.
 title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure « [!UICONTROL &#x200B; supérieure à &#x200B;] » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 

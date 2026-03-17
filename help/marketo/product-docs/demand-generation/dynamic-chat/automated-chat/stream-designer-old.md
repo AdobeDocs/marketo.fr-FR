@@ -1,12 +1,12 @@
 ---
-description: Stream Designer - Documents Marketo - Documentation Du Produit
+description: Découvrez Stream Designer pour créer des conversations de chat avec des cartes. Formez des boîtes de dialogue avec des messages, des questions, des documents et des réservations de réunion.
 title: Concepteur de flux
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1128'
+source-wordcount: '1142'
 ht-degree: 2%
 
 ---

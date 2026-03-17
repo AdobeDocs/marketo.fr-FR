@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359880
-description: Organisation des images et des fichiers à l’aide de dossiers - Documents Marketo - Documentation du produit
+description: Découvrez comment organiser des images et des fichiers à l’aide de dossiers dans Marketo. Créez des dossiers dans Design Studio pour que les ressources restent organisées.
 title: Organiser vos images et fichiers à l’aide de dossiers
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 17%
 
 ---
 
@@ -23,7 +23,7 @@ La création de dossiers vous permet de déplacer des images et des fichiers, de
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Nommez votre dossier et cliquez sur **[!UICONTROL Créer]**.
+1. Nommez le dossier, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 

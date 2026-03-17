@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: Rediriger une page de destination Marketo vers une autre page - Documents Marketo - Documentation du produit
+description: Découvrez comment rediriger une page de destination Marketo vers une autre page. Envoyez les visiteurs à une autre URL lorsqu’ils arrivent sur la page.
 title: Rediriger une page de destination Marketo vers une autre page
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 11%
+source-wordcount: '167'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Si vous mettez à jour l’URL d’une page et souhaitez que l’ancienne URL fo
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Sous **[!UICONTROL Admin]**, cliquez sur **[!UICONTROL Pages de destination]**.
 

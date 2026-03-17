@@ -1,11 +1,11 @@
 ---
-description: Fonctionnalités de GenAI - Documentation de Marketo - Documentation du produit
+description: Découvrez les fonctionnalités de GenAI dans les webinaires interactifs. Utilisez l’IA pour améliorer le contenu, les résumés ou l’engagement des webinaires.
 title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Après avoir accepté les conditions générales d’Adobe GenAI, l’étape sui
 
 ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
-## Accès {#how-to-access}
+## Comment y accéder {#how-to-access}
 
 1. Accédez à la page d’aperçu du webinaire dans les webinaires interactifs Marketo Engage.
 

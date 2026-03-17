@@ -1,11 +1,11 @@
 ---
-description: Envoyer une liste à un réseau publicitaire - Documents Marketo - Documentation du produit
+description: Découvrez comment envoyer une liste statique à LinkedIn, Facebook ou Google. Utilisez les actions Liste et Envoyer à Ad Network pour choisir les options d’audience et de synchronisation.
 title: Envoyer une liste à un réseau publicitaire
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '231'
 ht-degree: 7%
 
 ---

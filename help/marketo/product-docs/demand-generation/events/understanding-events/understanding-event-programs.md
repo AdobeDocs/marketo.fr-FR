@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949841
-description: Présentation Des Programmes D’Événement - Documents Marketo - Documentation Du Produit
+description: Découvrez les programmes d’événement dans Marketo. Découvrez la structure, les canaux et comment planifier et exécuter des événements et des webinaires.
 title: Présentation des programmes d’événement
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 

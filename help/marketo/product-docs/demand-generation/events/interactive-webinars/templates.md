@@ -1,24 +1,24 @@
 ---
-description: Découvrez comment créer et mettre en oeuvre des modèles dans des webinaires interactifs.
+description: Découvrez comment créer et implémenter des modèles dans les webinaires interactifs. Utilisez des modèles pour normaliser la conception du webinaire et accélérer la création.
 title: Modèles de webinaires interactifs
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
 # Modèles de webinaires interactifs {#templates-for-interactive-webinars}
 
-Créez des modèles simples d’utilisation dans des webinaires interactifs afin de produire du contenu plus rapidement et de rester en conformité avec les directives de la marque lorsque vous travaillez en équipe.
+Créez des modèles faciles à utiliser dans les webinaires interactifs pour produire du contenu plus rapidement et respecter les directives de la marque lorsque vous travaillez au sein d’une équipe.
 
-## Octroi d’autorisations {#grant-permissions}
+## Octroi des autorisations {#grant-permissions}
 
-Avant que des utilisateurs de votre entreprise puissent accéder aux modèles de vos webinaires interactifs, un administrateur de Marketo Engage doit d’abord ajouter l’accès au ou aux rôles souhaités.
+Avant que des utilisateurs de votre organisation puissent accéder aux modèles de vos webinaires interactifs, un administrateur Marketo Engage doit d’abord ajouter un accès au(x) rôle(s) souhaité(s).
 
-1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
+1. Dans Marketo Engage, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
@@ -34,7 +34,7 @@ Avant que des utilisateurs de votre entreprise puissent accéder aux modèles de
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. Cochez la case **[!UICONTROL Accéder aux modèles de webinaires interactifs]** .
+1. Cochez la case **[!UICONTROL Accéder aux modèles de webinaires interactifs]**.
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
@@ -44,7 +44,7 @@ Avant que des utilisateurs de votre entreprise puissent accéder aux modèles de
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. Cliquez sur **[!UICONTROL Webinars interactifs]**.
+1. Cliquez sur **[!UICONTROL Webinaires interactifs]**.
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
@@ -56,7 +56,7 @@ Avant que des utilisateurs de votre entreprise puissent accéder aux modèles de
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. Dans l&#39;onglet Modèles standard , sélectionnez le modèle de votre choix et cliquez sur **Suivant**.
+1. Dans l’onglet Modèles standard , sélectionnez le modèle souhaité, puis cliquez sur **Suivant**.
 
    ![](assets/templates-for-interactive-webinars-10.png)
 
@@ -64,11 +64,11 @@ Avant que des utilisateurs de votre entreprise puissent accéder aux modèles de
    >
    >Les modèles d’organisation sont les modèles que vous ou votre équipe avez déjà créés.
 
-1. Saisissez un nom et une description. Cliquez sur **Enregistrer et ouvrez**.
+1. Saisissez un nom et une description. Cliquez sur **Enregistrer et ouvrir**.
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. Un nouvel onglet s’ouvre. Pour modifier/enregistrer votre modèle, vous devez entrer dans une pièce. Comme il ne s’agit pas d’une véritable salle de webinaire, il n’est pas nécessaire de faire des sélections audio/vidéo. Cliquez sur **Enter Room**.
+1. Un nouvel onglet s’ouvre. Pour modifier/enregistrer votre modèle, vous devez entrer une salle. Comme il ne s’agit pas d’une salle de webinaire, il n’est pas nécessaire d’effectuer des sélections audio/vidéo. Cliquez sur **Entrer dans la chambre**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
@@ -76,7 +76,7 @@ Avant que des utilisateurs de votre entreprise puissent accéder aux modèles de
 
    ![](assets/templates-for-interactive-webinars-13.png)
 
-1. Dans le menu Quitter en haut à droite, sélectionnez **Terminer la session pour tous les**.
+1. Dans le menu Quitter en haut à droite, sélectionnez **Terminer la session pour tous**.
 
    ![](assets/templates-for-interactive-webinars-14.png)
 
@@ -86,15 +86,15 @@ Avant que des utilisateurs de votre entreprise puissent accéder aux modèles de
 
 Votre modèle est automatiquement enregistré.
 
-## Modifier un modèle {#edit-a-template}
+## Modification d’un modèle {#edit-a-template}
 
-Suivez les étapes ci-dessous pour modifier un modèle existant.
+Pour modifier un modèle existant, procédez comme suit.
 
 1. Dans Marketo Engage, cliquez sur **[!UICONTROL Design Studio]**.
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. Cliquez sur **[!UICONTROL Webinars interactifs]**.
+1. Cliquez sur **[!UICONTROL Webinaires interactifs]**.
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
@@ -102,11 +102,11 @@ Suivez les étapes ci-dessous pour modifier un modèle existant.
 
    ![](assets/templates-for-interactive-webinars-18.png)
 
-1. Un nouvel onglet s’ouvre. Localisez le modèle à modifier, puis cliquez sur l’icône d’ouverture.
+1. Un nouvel onglet s’ouvre. Recherchez le modèle à modifier et cliquez sur l’icône d’ouverture.
 
    ![](assets/templates-for-interactive-webinars-19.png)
 
-1. Un nouvel onglet s’ouvre. Pour éditer votre modèle, vous devez entrer dans une pièce. Comme il ne s’agit pas d’une véritable salle de webinaire, il n’est pas nécessaire de faire des sélections audio/vidéo. Cliquez sur **Enter Room**.
+1. Un nouvel onglet s’ouvre. Pour modifier votre modèle, vous devez entrer une salle. Comme il ne s’agit pas d’une salle de webinaire, il n’est pas nécessaire d’effectuer des sélections audio/vidéo. Cliquez sur **Entrer dans la chambre**.
 
    ![](assets/templates-for-interactive-webinars-20.png)
 
@@ -114,7 +114,7 @@ Suivez les étapes ci-dessous pour modifier un modèle existant.
 
    ![](assets/templates-for-interactive-webinars-21.png)
 
-1. Dans le menu Quitter en haut à droite, sélectionnez **Terminer la session pour tous les**.
+1. Dans le menu Quitter en haut à droite, sélectionnez **Terminer la session pour tous**.
 
    ![](assets/templates-for-interactive-webinars-22.png)
 

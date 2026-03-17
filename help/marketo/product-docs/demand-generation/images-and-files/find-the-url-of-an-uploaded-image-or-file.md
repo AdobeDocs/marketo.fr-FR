@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359870
-description: Recherche de l’URL d’une image ou d’un fichier chargé - Documents Marketo - Documentation du produit
+description: Découvrez comment rechercher l’URL d’une image ou d’un fichier chargé dans Marketo. Récupérez l’URL de la ressource à utiliser dans des e-mails ou des pages externes.
 title: Rechercher l’URL d’une image chargée ou d’un fichier chargé
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 25%
+source-wordcount: '83'
+ht-degree: 21%
 
 ---
 

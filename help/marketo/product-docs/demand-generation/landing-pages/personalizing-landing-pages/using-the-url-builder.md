@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359801
-description: Utilisation du générateur d’URL - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser le Créateur d’URL pour les URL personnalisées Marketo. Créer des liens personnalisés trackables pour les e-mails ou les campagnes.
 title: Utiliser le Générateur d’URL
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 7%
 
 ---
 

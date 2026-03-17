@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359679
-description: Modifier le CSS d’un thème de formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier le CSS d’un thème de formulaire dans Marketo. Personnalisez l’aspect de votre formulaire à l’aide de styles personnalisés.
 title: Modifier le CSS d’un thème de formulaire
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '192'
+ht-degree: 11%
 
 ---
 

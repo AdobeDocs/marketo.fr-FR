@@ -1,11 +1,11 @@
 ---
-description: FAQ sur Dynamic Chat - Documents Marketo - Documentation du produit
+description: Obtenez de l’aide sur l’accès, l’installation, la conservation des données et la prise en charge linguistique de Dynamic Chat. Trouvez des réponses aux questions courantes sur Marketo Engage Dynamic Chat.
 title: FAQ sur Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Une boîte de dialogue est une conversation automatiquement affichée pour les v
 
 **Existe-t-il un moyen d’utiliser Dynamic Chat pour réserver des réunions directement à partir d’un e-mail ?**
 
-Oui! [Découvrez comment procéder](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Oui ! [Découvrez comment procéder](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Que signifient exactement des termes tels que « Engagé » ou « Personnes acquises » ?**
 

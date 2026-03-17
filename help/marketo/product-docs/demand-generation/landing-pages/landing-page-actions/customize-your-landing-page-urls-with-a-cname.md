@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359746
-description: Personnaliser vos URL de page de destination avec un CNAME - Documents Marketo - Documentation du produit
+description: Découvrez comment personnaliser les URL des pages de destination avec un CNAME dans Marketo. Utilisez votre propre domaine pour les liens des pages de destination.
 title: Personnaliser vos URL de page de destination avec un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 7%
+source-wordcount: '245'
+ht-degree: 9%
 
 ---
 
@@ -43,7 +43,7 @@ Le seul mot (plus YourCompany.com) est appelé CNAME. Vous en aurez besoin plus 
 
    >[!NOTE]
    >
-   >**Autorisations d’administrateur requises**
+   >**Autorisations d’administration requises**
 
 1. Faites défiler jusqu’à « Informations d’assistance » et copiez votre Munchkin ID.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359738
-description: Modification de l’URL de la page de destination - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier l’URL de la page de destination dans Marketo. Mettez à jour le chemin d’URL ou le slug de votre page de destination.
 title: Modifier l’URL de la page de destination
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
@@ -29,4 +29,4 @@ Vous pouvez modifier l’URL d’une page de destination. Cela peut faciliter la
 
    >[!NOTE]
    >
-   >Si vous décidez de conserver les deux URL, une règle de redirection sera automatiquement créée. En savoir plus sur les [&#x200B; redirections d’URL &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Si vous décidez de conserver les deux URL, une règle de redirection sera automatiquement créée. En savoir plus sur les [ redirections d’URL ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

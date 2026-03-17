@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515027
-description: Ajout d’une image à une page de destination guidée - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une image à une page de destination guidée dans Marketo. Insérer et configurer des éléments d’image dans le modèle.
 title: Ajouter une image à une page de destination guidée
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 13%
+source-wordcount: '130'
+ht-degree: 12%
 
 ---
 

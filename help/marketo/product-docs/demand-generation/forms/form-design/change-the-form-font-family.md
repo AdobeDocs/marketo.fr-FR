@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359608
-description: Modification de la famille de polices de formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier la famille de polices des formulaires dans Marketo. Sélectionnez une autre police pour le texte de votre formulaire.
 title: Modifier la famille de police du formulaire
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 8%
+source-wordcount: '150'
+ht-degree: 10%
 
 ---
 

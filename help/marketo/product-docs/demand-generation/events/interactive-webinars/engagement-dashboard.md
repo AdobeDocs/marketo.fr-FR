@@ -1,12 +1,12 @@
 ---
-description: Tableau de bord de l’engagement - Documents Marketo - Documentation du produit
+description: Découvrez le tableau de bord de l’engagement des webinaires interactifs. Affichez les mesures et les informations sur l’engagement des participants pendant et après vos webinaires.
 title: Tableau de bord des engagements
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 0%
+source-wordcount: '1755'
+ht-degree: 1%
 
 ---
 
@@ -301,7 +301,7 @@ Comprenez les critères de classification du niveau d’engagement de chaque par
     <li>Le participant a posé au moins une question dans la capsule Q&amp;R.</li></td>
   </tr>
   <tr>
-    <td>Support</td>
+    <td>Moyen</td>
     <td>Participants répondant à tous les critères suivants :
     <li>Le niveau d'engagement de l'participant n'est pas considéré comme élevé.</li>
     <li>La durée de participation est d'au moins 60 % de la durée totale de l'événement.</li>

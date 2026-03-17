@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359673
-description: Ajout d’instructions d’info-bulle à un champ de formulaire - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des instructions d’info-bulle à un champ de formulaire dans Marketo. Afficher une aide supplémentaire lorsque les visiteurs survolent un champ avec la souris.
 title: Ajouter des instructions d’info-bulle à un champ de formulaire
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 13%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 

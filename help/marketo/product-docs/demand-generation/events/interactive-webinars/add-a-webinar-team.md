@@ -1,11 +1,11 @@
 ---
-description: Ajout d’une équipe de webinaires - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une équipe de webinaires dans les webinaires interactifs. Affectez des membres de l’équipe pour créer, gérer ou diffuser des webinaires.
 title: Ajouter une équipe de webinaire
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---

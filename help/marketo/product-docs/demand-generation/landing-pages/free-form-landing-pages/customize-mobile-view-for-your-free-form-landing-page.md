@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: Personnaliser la vue mobile pour votre page de destination de forme libre - Documents Marketo - Documentation du produit
+description: Découvrez comment personnaliser l’affichage mobile pour votre page de destination de forme libre dans Marketo. Ajustez la disposition et le contenu pour les visiteurs mobiles.
 title: Personnaliser la vue mobile de votre page de destination à structure libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 4%
+source-wordcount: '376'
+ht-degree: 5%
 
 ---
 
@@ -107,7 +107,7 @@ Par défaut, tout ce qui se trouve dans la vue Bureau s’affiche dans la vue mo
    >
    >L’aperçu n’est pas interactif. Chaque smartphone affiche les choses un peu différemment. Nous vous recommandons de prévisualiser votre page de destination sur quelques appareils afin de voir exactement comment elle se comporte.
 
-Amusez-vous bien !
+Amusez-vous bien.
 
 >[!MORELIKETHIS]
 >

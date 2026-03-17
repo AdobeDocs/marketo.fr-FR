@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096656
-description: Création d’un événement avec l’adaptateur Marketo ON24 - Documentation de Marketo - Documentation du produit
+description: Découvrez comment créer un événement avec l'adaptateur Marketo ON24. Connectez les webinaires ON24 à Marketo et synchronisez l’inscription et la participation.
 title: Créer un événement avec l’adaptateur Marketo ON24
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '293'
 ht-degree: 6%
 
 ---
@@ -22,7 +22,7 @@ Vous devez connaître les blocs de création et la séquence recommandée pour l
 
 >[!NOTE]
 >
->Reportez-vous à la documentation de l’API Marketo [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} pour plus d’informations sur les API Marketo.
+>Reportez-vous à la documentation de l’API Marketo [](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} pour plus d’informations sur les API Marketo.
 
 ## Conditions préalables {#prerequisites}
 
