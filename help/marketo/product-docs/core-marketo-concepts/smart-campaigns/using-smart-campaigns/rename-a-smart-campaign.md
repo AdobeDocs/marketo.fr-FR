@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147049
-description: Renommer une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment renommer une campagne intelligente. Modifiez le nom de la campagne à partir des paramètres de la campagne ou du menu contextuel.
 title: Renommer une campagne intelligente
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 11%
+source-wordcount: '99'
+ht-degree: 14%
 
 ---
 

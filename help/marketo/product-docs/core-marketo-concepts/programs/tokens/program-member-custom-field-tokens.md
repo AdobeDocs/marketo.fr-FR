@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: Jetons De Champ Personnalisés De Membre De Programme - Documents Marketo - Documentation Du Produit
+description: Découvrez les jetons de champ personnalisé des membres de programme. Utilisez des jetons pour insérer des données de membre dans les e-mails et les landing pages.
 title: Jetons de champs personnalisés de personnes membres du programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '444'
 ht-degree: 5%
 
 ---
@@ -53,7 +53,7 @@ Vous pouvez insérer des jetons de champs personnalisés de membre de programme 
 >
 >N’oubliez pas d’approuver votre e-mail.
 
-**Pages de destination**
+**Landing pages**
 
 1. Sélectionnez votre page de destination et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 

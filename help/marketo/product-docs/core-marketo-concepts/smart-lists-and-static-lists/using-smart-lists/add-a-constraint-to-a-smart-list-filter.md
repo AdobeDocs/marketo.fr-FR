@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949413
-description: Ajouter une contrainte à un filtre de liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une contrainte à un filtre de liste dynamique. Affinez les filtres avec des conditions supplémentaires pour des listes plus précises.
 title: Ajouter une contrainte à un filtre de liste intelligente
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 10%
 
 ---
 

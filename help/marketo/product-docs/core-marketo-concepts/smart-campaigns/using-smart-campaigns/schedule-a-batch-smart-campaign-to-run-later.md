@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146970
-description: Planification d’une campagne dynamique par lots pour une exécution ultérieure - Documents Marketo - Documentation du produit
+description: Découvrez comment planifier l’exécution ultérieure d’une campagne intelligente par lots. Définissez la date et l’heure auxquelles la campagne doit s’exécuter une seule fois.
 title: Planifier l’exécution ultérieure d’une campagne intelligente par lots
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

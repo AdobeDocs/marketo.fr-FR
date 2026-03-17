@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557339
-description: Rechercher et fusionner des personnes en double - Documents Marketo - Documentation du produit
+description: Découvrez comment rechercher et fusionner des personnes en double. Combinez les enregistrements en double en un seul et nettoyez votre base de données.
 title: Rechercher et fusionner les personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---

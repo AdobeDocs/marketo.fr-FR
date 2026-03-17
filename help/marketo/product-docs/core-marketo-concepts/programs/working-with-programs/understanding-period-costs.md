@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504676
-description: Comprendre les coûts de la période - Documents Marketo - Documentation du produit
+description: Découvrez les coûts de la période dans les programmes pour le suivi des dépenses. Affectez des coûts aux périodes de programme pour la création de rapports et le retour sur investissement.
 title: Présentation des coûts de la période
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 2%
+source-wordcount: '282'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ Les coûts de la période font référence aux sommes que vous avez dépensées 
 >
 >[Présentation des programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Comprendre l’appartenance à un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Présentation de l’appartenance à un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Méthode de calcul des coûts de la période {#how-period-costs-are-calculated}
 

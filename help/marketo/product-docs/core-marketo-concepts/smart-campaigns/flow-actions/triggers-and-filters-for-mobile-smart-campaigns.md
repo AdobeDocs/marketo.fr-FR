@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437991
-description: Triggers et filtres pour les campagnes intelligentes mobiles - Documents Marketo - Documentation du produit
+description: Découvrez les déclencheurs et les filtres pour les campagnes intelligentes mobiles. Utilisez des événements et des attributs d’application pour déclencher des campagnes.
 title: Déclencheurs et filtres pour les campagnes intelligentes mobiles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '820'
 ht-degree: 3%
 
 ---
@@ -103,7 +103,7 @@ L&#39;Application Mobile Est/A Été Ouverte
 
 A/A Eu Une Activité D’Application Mobile
 
-Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * A une activité d’application mobile - déclencheur
 
@@ -150,7 +150,7 @@ Voici à quoi ressemble le filtre dans Marketo :
 >|---|---|---|
 >| Action | Chemise achetée | Pantalon acheté |
 >| Détails de l’action | Couleur | Couleur |
->| Mesure de l’action | Prix | Prix |
+>| Mesure de l’action | Price | Price |
 
 **A/A Eu Une Session D’Application Mobile**
 

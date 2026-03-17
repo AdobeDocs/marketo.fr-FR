@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2952292
-description: Présentation Des Notifications - Documents Marketo - Documentation Du Produit
+description: Découvrez les notifications Marketo Engage pour les échecs de campagne et la synchronisation CRM. Abonnez-vous pour recevoir des alertes par e-mail et rester à jour.
 title: Présentation des notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---

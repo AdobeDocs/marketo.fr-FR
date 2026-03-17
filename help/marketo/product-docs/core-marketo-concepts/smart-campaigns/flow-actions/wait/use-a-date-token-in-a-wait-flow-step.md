@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146997
-description: Utilisation d’un jeton de date dans une étape de flux d’attente - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser un jeton de date dans une étape de flux d’attente. Patientez jusqu’à la date dynamique d’un jeton avant de continuer.
 title: Utiliser un jeton de date dans une étape de flux Attendre
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '222'
 ht-degree: 9%
 
 ---

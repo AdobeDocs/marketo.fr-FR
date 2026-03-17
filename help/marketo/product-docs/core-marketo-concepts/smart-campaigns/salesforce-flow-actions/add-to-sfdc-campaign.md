@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147034
-description: Ajouter à SFDC Campaign - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des personnes à une campagne Salesforce avec une étape de flux. La synchronisation de Marketo mène aux campagnes SFDC.
 title: Ajouter à la campagne SFDC
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 5%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 

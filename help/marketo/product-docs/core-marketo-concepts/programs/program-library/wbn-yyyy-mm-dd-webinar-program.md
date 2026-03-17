@@ -1,11 +1,11 @@
 ---
-description: Programme de webinaire WBN-YYYY-MM-DD - Documents Marketo - Documentation du produit
+description: Modèle de programme de webinaire. Utilisez-le pour les webinaires avec une convention de nommage standard.
 title: WBN-AAAA-MM-JJ-Programme de webinaire
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '597'
 ht-degree: 20%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Voici un exemple de programme de webinaire avec gestion des inscriptions, trois e-mails d’invitation, un rappel pour assister et des e-mails de suivi utilisant un programme d’événement Marketo Engage.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

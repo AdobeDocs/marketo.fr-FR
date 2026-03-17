@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781974
-description: Présentation Des Cartes D’Événement - Documents Marketo - Documentation Du Produit
+description: En savoir plus sur les cartes d’événement dans les moments Marketo. Affichez les détails du programme d’événement et effectuez une action depuis l’application mobile.
 title: Présentation des vignettes d’événement
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 5%
+source-wordcount: '163'
+ht-degree: 4%
 
 ---
 

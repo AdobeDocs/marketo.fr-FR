@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147152
-description: Cloner une ressource dans un programme - Documents Marketo - Documentation du produit
+description: Découvrez comment cloner une ressource dans un programme. Créez une copie d’un e-mail, d’une page de destination ou d’une autre ressource locale.
 title: Cloner une ressource dans un programme
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 12%
+source-wordcount: '129'
+ht-degree: 14%
 
 ---
 

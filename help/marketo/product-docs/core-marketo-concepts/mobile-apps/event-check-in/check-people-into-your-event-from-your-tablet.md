@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: Envoyez des personnes à votre événement depuis votre tablette - Documents Marketo - Documentation du produit
+description: Découvrez comment intégrer des personnes à votre événement à partir d’une tablette. Utilisez l’application Enregistrement d’événement pour analyser et enregistrer les participants.
 title: Enregistrer des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '844'
 ht-degree: 2%
 
 ---

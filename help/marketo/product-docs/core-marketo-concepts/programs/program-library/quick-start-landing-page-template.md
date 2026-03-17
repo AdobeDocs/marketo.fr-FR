@@ -1,11 +1,11 @@
 ---
-description: Modèle De Page De Destination De Démarrage Rapide - Documents Marketo - Documentation Du Produit
+description: Modèle de page de destination de démarrage rapide. Utilisez-le pour créer rapidement des pages de destination à partir d’un modèle.
 title: Modèle de page de destination pour un démarrage rapide
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '468'
 ht-degree: 2%
 
 ---
@@ -16,9 +16,9 @@ Certains des programmes de démarrage de la bibliothèque de référence Marketo
 
 >[!TIP]
 >
->En savoir plus sur les [&#x200B; Modèles guidés de page de destination &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>En savoir plus sur les [ Modèles guidés de page de destination ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé des sections {#sections-summary}
 

@@ -1,12 +1,12 @@
 ---
-description: Envoi unique d’e-mail AAAA-MM-JJ - Documents Marketo - Documentation du produit
+description: Modèle de programme d’envoi d’e-mail unique. Utilisez-le pour envoyer des campagnes par e-mail uniques avec une convention de nommage claire.
 title: EM-AAAA-MM-JJ-Envoi d’e-mail unique
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 19%
+source-wordcount: '290'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Cet exemple envoie un seul e-mail à l’aide d’un programme de messagerie Marketo Engage. L’e-mail peut inclure ou non un test A/B.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

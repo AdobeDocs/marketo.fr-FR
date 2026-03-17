@@ -1,10 +1,10 @@
 ---
-description: Gestion De La Confidentialité - Documents Marketo - Documentation Du Produit
+description: Découvrez les outils de gestion de la confidentialité dans Marketo Engage pour le RGPD, le CCPA, etc. Gérez les demandes d’accès et de suppression afin de respecter les réglementations.
 title: Gestion de la confidentialité
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---

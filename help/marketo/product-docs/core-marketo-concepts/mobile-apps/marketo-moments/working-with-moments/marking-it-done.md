@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783557
-description: Marquage terminé - Documents Marketo - Documentation du produit
+description: Découvrez comment marquer un moment comme terminé dans l’application Marketo Moments. Effacez les éléments de votre liste une fois l’opération terminée.
 title: Marquage d’éléments comme terminés
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '148'
 ht-degree: 5%
 
 ---
 
 # Marquage d’éléments comme terminés {#marking-it-done}
 
-Marquez un programme de messagerie, un événement ou une carte d’analyse comme [!UICONTROL &#x200B; Terminé &#x200B;] pour le supprimer de votre flux. Il y a deux façons de le faire.
+Marquez un programme de messagerie, un événement ou une carte d’analyse comme [!UICONTROL  Terminé ] pour le supprimer de votre flux. Il y a deux façons de le faire.
 
 >[!IMPORTANT]
 >

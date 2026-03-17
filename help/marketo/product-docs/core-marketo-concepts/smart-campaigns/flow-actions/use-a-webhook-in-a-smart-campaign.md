@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147025
-description: Utilisation d’un Webhook dans une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser un webhook dans une campagne intelligente. Appelez une URL externe et transmettez les données de personne à partir d’une étape de flux.
 title: Utiliser un webhook dans une campagne intelligente
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '119'
+ht-degree: 11%
 
 ---
 
 # Utiliser un webhook dans une campagne intelligente {#use-a-webhook-in-a-smart-campaign}
 
-Pour utiliser un [webhook](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, ajoutez-le à une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} en tant qu’action de flux.
+Pour utiliser un [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, ajoutez-le à une [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} en tant qu’action de flux.
 
 >[!AVAILABILITY]
 >

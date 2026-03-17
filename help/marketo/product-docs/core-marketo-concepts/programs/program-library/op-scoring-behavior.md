@@ -1,12 +1,12 @@
 ---
-description: OP-Scoring-Behaviour - Documents Marketo - Documentation du produit
+description: Modèle de programme opérationnel Comportement de notation. Utilisez-le pour définir le fonctionnement de la notation des prospects.
 title: OP-Score-Comportement
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 30%
+source-wordcount: '355'
+ht-degree: 29%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 30%
 
 Cet exemple est un programme opérationnel avancé (segmenté en unités lexicales) pour le score de comportement à l’aide d’un programme par défaut de Marketo Engage. Affichez et modifiez les valeurs de notation sous l’onglet « Mes jetons » du programme. Nécessite un champ de score personnalisé appelé « Score de comportement ».
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

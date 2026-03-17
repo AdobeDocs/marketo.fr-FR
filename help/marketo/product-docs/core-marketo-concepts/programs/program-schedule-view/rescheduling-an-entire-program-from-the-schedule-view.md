@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147138
-description: Replanification d’un programme entier à partir de la vue Planification - Documents Marketo - Documentation du produit
+description: Découvrez comment replanifier l’intégralité d’un programme dans la vue Planification . Déplacer toutes les entrées vers de nouvelles dates en même temps.
 title: Replanification de l’ensemble d’un programme à partir de la vue Planning
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 14%
+source-wordcount: '132'
+ht-degree: 13%
 
 ---
 

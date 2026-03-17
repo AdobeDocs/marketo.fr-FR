@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147251
-description: Création de superpositions personnalisées dans la vue Calendrier des programmes - Documents Marketo - Documentation du produit
+description: Découvrez comment créer des recouvrements personnalisés dans la vue Calendrier des programmes. Ajoutez des lignes de recouvrement pour afficher les données supplémentaires sur le planning.
 title: Création de dispositions d’affichage personnalisées dans la vue Planning du programme
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 19%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 

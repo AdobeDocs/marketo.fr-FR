@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147074
-description: Nettoyage Automatique Des Campagnes De Déclenchement - Documents Marketo - Documentation Du Produit
+description: En savoir plus sur le nettoyage automatique des campagnes de déclenchement. Découvrez comment Marketo nettoie les anciennes exécutions de campagnes de déclenchement.
 title: Nettoyage automatique des campagnes à déclencheur
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '257'
 ht-degree: 3%
 
 ---

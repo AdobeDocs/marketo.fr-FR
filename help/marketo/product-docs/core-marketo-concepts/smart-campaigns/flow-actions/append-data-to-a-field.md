@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147042
-description: Ajouter des données à un champ - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des données à un champ dans une étape de flux. Ajoutez du texte aux valeurs de champ existantes sans remplacer.
 title: Ajouter des données à un champ
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 12%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 

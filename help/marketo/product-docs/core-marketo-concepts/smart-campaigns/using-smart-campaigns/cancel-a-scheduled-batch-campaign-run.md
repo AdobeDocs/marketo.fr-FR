@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147058
-description: Annuler une exécution de campagne par lots planifiée - Documents Marketo - Documentation du produit
+description: Découvrez comment annuler une exécution de campagne par lots planifiée. Supprimez une exécution planifiée unique afin qu’elle ne s’exécute pas.
 title: Annuler l’exécution planifiée d’une campagne par lots
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 12%
+source-wordcount: '103'
+ht-degree: 11%
 
 ---
 

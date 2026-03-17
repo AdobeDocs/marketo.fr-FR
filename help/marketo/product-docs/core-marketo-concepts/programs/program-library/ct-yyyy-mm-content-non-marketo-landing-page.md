@@ -1,11 +1,11 @@
 ---
-description: Page de destination sans contenu Marketo (CT-YYYY-MM) - Documents Marketo - Documentation du produit
+description: Modèle de programme de page de destination autre que Marketo. Utilisez-le pour le contenu des pages de destination externes.
 title: CT-AAAA-MM-Contenu d’une page de destination non Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Il s’agit d’un exemple de programme de contenu avec un formulaire Marketo Engage pour télécharger du contenu sur une page de destination autre que Marketo Engage à l’aide d’un programme par défaut Marketo Engage. Ce programme est destiné à fonctionner avec un formulaire Marketo Engage incorporé à votre site web. Le lien vers l’offre/le contenu peut être envoyé par e-mail de remerciement.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

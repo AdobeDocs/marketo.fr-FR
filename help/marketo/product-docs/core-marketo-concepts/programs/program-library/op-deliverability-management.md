@@ -1,12 +1,12 @@
 ---
-description: Gestion de la délivrabilité des opérations - Documents Marketo - Documentation du produit
+description: Modèle de programme opérationnel Gestion de la délivrabilité. Utilisez-le pour maintenir la délivrabilité des e-mails.
 title: OP-Gestion de la délivrabilité
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 21%
+source-wordcount: '253'
+ht-degree: 20%
 
 ---
 
@@ -18,7 +18,7 @@ Il s’agit d’un exemple de workflow des bonnes pratiques de gestion de la dé
 >
 >Nécessite le champ de chaîne personnalisé « Motif de suspension du marketing » à importer. [En savoir plus](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: Ajouter plusieurs valeurs à un filtre de liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter plusieurs valeurs à un filtre de liste dynamique. Pour plus de flexibilité, faites correspondre l’une des valeurs dans un filtre.
 title: Ajouter plusieurs valeurs à un filtre de liste intelligente
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 

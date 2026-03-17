@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782021
-description: Personnalisation Des Moments Marketo - Documents Marketo - Documentation Du Produit
+description: Découvrez comment personnaliser les moments Marketo. Personnalisez les cartes et les informations qui apparaissent dans la vue de votre application mobile.
 title: Personnalisation des Moments Marketo
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 6%
+source-wordcount: '143'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953243
-description: Types de notifications - Documents Marketo - Documentation du produit
+description: Découvrez les types de notification dans Marketo, notamment l’échec de la campagne, la synchronisation CRM et l’engagement. comprendre la signification de chaque alerte ;
 title: Types de notifications
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 7%
+source-wordcount: '247'
+ht-degree: 6%
 
 ---
 
@@ -60,4 +60,4 @@ Vous serez averti lorsque vous atteindrez votre quota quotidien. Le quota est r�
 
 >[!NOTE]
 >
->Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation destinée aux développeurs](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/error-codes).
+>Certains des codes d’erreur que vous pouvez recevoir sont décrits dans notre [Documentation destinée aux développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

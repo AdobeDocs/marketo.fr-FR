@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953405
-description: Modifier Les Paramètres De Comportement D’Analytics - Documents Marketo - Documentation Du Produit
+description: Découvrez comment modifier les paramètres de comportement des analyses pour un programme. Configurez le suivi de la réussite et du chiffre d’affaires du programme.
 title: Modifier les paramètres de comportement d’analyse
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 6%
+source-wordcount: '191'
+ht-degree: 8%
 
 ---
 

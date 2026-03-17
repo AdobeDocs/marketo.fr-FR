@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146960
-description: Modifier la valeur des données - Documents Marketo - Documentation du produit
-title: Modifier la valeur des données
+description: Découvrez comment modifier une valeur de données dans une étape de flux de campagne intelligente. Mettez à jour les champs de personne ou de société dans le flux.
+title: Modification de la valeur des données
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 
-# Modifier la valeur des données {#change-data-value}
+# Modification de la valeur des données {#change-data-value}
 
 Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour cela, vous utiliserez l’action de flux **[!UICONTROL Modifier la valeur des données]**.
 
@@ -39,5 +39,5 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce
 
    >[!NOTE]
    >
-   >* [&#x200B; Jetons pour les étapes de flux &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+   >* [ Jetons pour les étapes de flux ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
    >* [Ajouter des données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147023
-description: Appeler Webhook - Documents Marketo - Documentation Du Produit
+description: Découvrez comment appeler un webhook à partir d’une étape de flux de campagne intelligente. Envoyer des données à un système externe lorsqu’un utilisateur accède au flux.
 title: Appeler le Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '91'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ Les Webhooks vous permettent d’interagir avec des services tiers. Envoyez/rece
 
 >[!NOTE]
 >
->Découvrez les nombreuses choses fascinantes que [Webhooks](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} peut faire pour vous.
+>Découvrez les nombreuses choses fascinantes que [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} peut faire pour vous.
 
 1. Sélectionnez un Webhook dans la liste déroulante.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147108
-description: Importer un programme - Documents Marketo - Documentation du produit
+description: Découvrez comment importer un programme dans Marketo. Importez un programme de la bibliothèque ou d’une autre instance.
 title: Importer un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ Un programme peut être importé d’un abonnement Marketo Engage à un autre. P
    >
    >* L’importation de programme est uniquement disponible pour les utilisateurs dont les rôles disposent de l’autorisation Importer un programme activée. En savoir plus sur la [gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >* Pour connecter un compte sandbox à votre abonnement en direct, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Pour connecter un compte sandbox à votre abonnement en direct, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Sélectionnez un Marketo **[!UICONTROL abonnement]** et un programme à importer. Cliquez sur **[!UICONTROL Suivant]**.
 

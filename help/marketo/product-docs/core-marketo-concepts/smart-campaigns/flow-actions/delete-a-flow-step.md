@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146987
-description: Suppression d’une étape de flux - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer une étape de flux d’une campagne dynamique. Supprimez du flux les actions dont vous n’avez plus besoin.
 title: Supprimer une étape de flux
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '381'
 ht-degree: 2%
 
 ---

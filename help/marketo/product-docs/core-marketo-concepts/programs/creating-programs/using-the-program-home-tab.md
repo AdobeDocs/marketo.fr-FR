@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147126
-description: Utilisation de l’onglet Accueil du programme - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser l’onglet Accueil du programme. Affichez la vue d’ensemble, les performances et les détails clés du programme au même endroit.
 title: Utiliser l’onglet Accueil du programme
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
@@ -71,4 +71,4 @@ L’onglet d’accueil du programme vous donne une vue d’ensemble de ce qui se
 
    >[!MORELIKETHIS]
    >
-   >[Comprendre l’appartenance à un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Présentation de l’appartenance à un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557312
-description: Glossaire Des Opérateurs De Filtre De Liste Dynamique - Documents Marketo - Documentation Du Produit
+description: Obtenez de l’aide sur les opérateurs de filtres de liste dynamique. Comprenez les opérateurs égal à, contient et autres pour créer des filtres.
 title: Glossaire des opérateurs de filtre de liste intelligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '623'
 ht-degree: 14%
 
 ---
@@ -36,7 +36,7 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
     <td>Correspondance exacte de la date</td>
   </tr>
   <tr>
-    <td>n'est pas</td>
+    <td>n’est pas</td>
     <td>Date unique</td>
     <td>Toute date SAUF celle spécifiée</td>
   </tr>
@@ -153,7 +153,7 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
     <td>Correspondance exacte (non sensible à la casse)</td>
   </tr>
   <tr>
-    <td>n'est pas</td>
+    <td>n’est pas</td>
     <td>Tout sauf une correspondance exacte</td>
   </tr>
   <tr>
@@ -202,7 +202,7 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
     <td>Correspondance exacte du nombre ( = 0 renvoie les deux prospects avec 0 et NULL)</td>
   </tr>
   <tr>
-    <td>n'est pas</td>
+    <td>n’est pas</td>
     <td>Tout sauf une correspondance de nombre exacte</td>
   </tr>
   <tr>

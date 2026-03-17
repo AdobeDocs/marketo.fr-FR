@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953352
-description: Modifier des entrées directement dans le calendrier marketing - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier des entrées directement dans le calendrier marketing. Utilisez le focus du programme pour replanifier, renommer ou modifier les détails de l'entrée.
 title: Modifier des entrées directement dans le calendrier marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '194'
 ht-degree: 9%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953173
-description: Utilisation des membres de la liste dans une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser les membres d’une liste dans un filtre de liste dynamique. Inclure ou exclure les personnes figurant dans une autre liste.
 title: Utiliser les personnes membres d’une liste dans une liste intelligente
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 13%
+source-wordcount: '146'
+ht-degree: 12%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: Utiliser Des Listes Intelligentes Intégrées/Système - Documents Marketo - Documentation Du Produit
+description: Découvrez comment utiliser les listes dynamiques intégrées et système. Utilisez des listes préconfigurées telles que Toutes les personnes ou Tous les désabonnés dans les campagnes .
 title: Utiliser des listes intelligentes système ou intégrées
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '206'
 ht-degree: 12%
 
 ---

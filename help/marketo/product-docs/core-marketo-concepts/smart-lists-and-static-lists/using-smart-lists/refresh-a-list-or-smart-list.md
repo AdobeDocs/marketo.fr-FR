@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557318
-description: Actualiser une liste ou une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment actualiser une liste ou une liste dynamique. Mettez à jour les personnes de la liste pour refléter les résultats actuels du filtre ou l’appartenance.
 title: Actualiser une liste ou une liste intelligente
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 9%
+source-wordcount: '145'
+ht-degree: 8%
 
 ---
 

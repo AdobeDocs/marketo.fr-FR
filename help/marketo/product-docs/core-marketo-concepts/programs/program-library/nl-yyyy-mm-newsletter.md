@@ -1,11 +1,11 @@
 ---
-description: Newsletter NL-YYYY-MM - Documents Marketo - Documentation du produit
+description: Modèle de programme de la newsletter. Utilisez-le pour les newsletters par e-mail récurrentes avec un nom standard.
 title: NL-AAAA-MM-Newsletter
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '280'
 ht-degree: 18%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Cet exemple montre comment envoyer une newsletter par e-mail en utilisant un programme de messagerie Marketo Engage. L’e-mail peut inclure ou non un test A/B.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

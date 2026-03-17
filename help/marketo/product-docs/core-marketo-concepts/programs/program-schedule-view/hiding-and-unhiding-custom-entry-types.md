@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147247
-description: Masquage et affichage des types d’entrée personnalisés - Documents Marketo - Documentation du produit
+description: Découvrez comment masquer et afficher les types d’entrée personnalisés dans la vue Calendrier des programmes. Contrôlez les types d’entrée qui s’affichent.
 title: Masquage et affichage des types d’entrée personnalisés
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '118'
 ht-degree: 11%
 
 ---

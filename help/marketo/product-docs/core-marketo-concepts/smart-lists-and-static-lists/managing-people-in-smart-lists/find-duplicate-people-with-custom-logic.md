@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952636
-description: Rechercher des personnes en double avec une logique personnalisée - Documents Marketo - Documentation du produit
+description: Découvrez comment rechercher des personnes en double avec une logique personnalisée. Créez une liste dynamique pour identifier les doublons en fonction de vos critères.
 title: Rechercher les personnes en double à l’aide d’une logique personnalisée
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 13%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 

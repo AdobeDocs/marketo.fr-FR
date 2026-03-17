@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147015
-description: Flux du programme d’engagement des modifications - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier le flux du programme d’engagement dans une étape de flux. Faites passer les gens à un autre volet du programme de mobilisation.
 title: Modifier le stream du programme d'engagement
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '106'
+ht-degree: 7%
 
 ---
 

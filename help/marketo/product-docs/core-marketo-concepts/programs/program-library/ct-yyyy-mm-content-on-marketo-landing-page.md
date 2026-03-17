@@ -1,11 +1,11 @@
 ---
-description: Contenu de la page de destination de Marketo (CT-YYYY-MM) - Documents Marketo - Documentation du produit
+description: Contenu sur le modèle de programme Page de destination Marketo. Utilisez-le pour le contenu hébergé sur les pages de destination de Marketo.
 title: CT-AAAA-MM-Contenu de la page de destination Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Cet exemple est conçu pour être un programme de contenu qui utilise une page de destination Marketo Engage avec un formulaire Marketo Engage utilisant un programme par défaut Marketo Engage. Le formulaire permet d’accéder au contenu/à l’offre. Le lien vers l’offre peut être affiché sur la page de remerciement, envoyé dans un e-mail de remerciement ou les deux.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

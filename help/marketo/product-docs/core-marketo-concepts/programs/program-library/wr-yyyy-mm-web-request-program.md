@@ -1,11 +1,11 @@
 ---
-description: Programme de requête web WR-YYYY-MM - Documents Marketo - Documentation du produit
+description: Modèle de programme de demande Web. Utilisez-le pour les envois de contenu et de formulaire contrôlés.
 title: WR-AAAA-MM-Programme de demande web
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '405'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Il s’agit d’un exemple de programme idéal pour les formulaires de demande de contact, de demande de devis, de demande de démonstration ou de demande d’essai utilisant un programme par défaut de Marketo Engage. Peut être utilisé avec les pages de destination de Marketo ou en tant que formulaire incorporé sur des pages de destination autres que Marketo. Un e-mail d’alerte est envoyé à une personne spécifiée lors de l’envoi du formulaire.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

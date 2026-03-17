@@ -1,10 +1,10 @@
 ---
-description: Onglet Carte De L’Engagement - Documents Marketo - Documentation Du Produit
+description: Découvrez l’onglet Carte de l’engagement et son déclencheur, son filtre et ses cartes de flux. Cliquez sur les cartes pour afficher les détails et modifier les éléments de la campagne.
 title: Onglet Carte d’engagement
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '950'
 ht-degree: 1%
 
 ---

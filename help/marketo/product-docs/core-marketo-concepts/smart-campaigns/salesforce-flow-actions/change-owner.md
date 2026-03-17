@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147021
-description: Modification De Propriétaire - Documents Marketo - Documentation Du Produit
+description: Découvrez comment modifier le propriétaire de Salesforce au cours d’une étape de flux. Affecter un nouveau prospect ou propriétaire de contact lorsque des personnes rejoignent le flux.
 title: Modifier l’entité propriétaire
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '183'
 ht-degree: 2%
 
 ---

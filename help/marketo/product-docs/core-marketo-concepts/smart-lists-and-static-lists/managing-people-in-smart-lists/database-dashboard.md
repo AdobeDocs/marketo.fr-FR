@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097447
-description: Tableau De Bord De La Base De Données - Documents Marketo - Documentation Du Produit
+description: Découvrez le tableau de bord de la base de données dans Marketo. Affichez en un coup d’œil les mesures clés de votre base de données et des personnes.
 title: Tableau de bord de la base de données
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '182'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147142
-description: Création d’une campagne dynamique par lots dans la vue Calendrier des programmes - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une campagne intelligente par lots à partir de la vue Calendrier des programmes. Ajoutez et configurez une entrée de campagne par lots.
 title: Création d’une campagne intelligente par lots dans la vue Planning du programme
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '162'
 ht-degree: 12%
 
 ---

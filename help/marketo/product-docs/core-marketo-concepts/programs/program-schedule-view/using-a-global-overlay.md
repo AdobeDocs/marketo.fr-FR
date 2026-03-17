@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147249
-description: Utilisation d’un recouvrement global - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser une superposition globale dans la vue Calendrier des programmes. Appliquez une superposition sur tous les programmes pour un affichage cohérent.
 title: Utilisation de la disposition d’affichage globale
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '159'
 ht-degree: 5%
 
 ---

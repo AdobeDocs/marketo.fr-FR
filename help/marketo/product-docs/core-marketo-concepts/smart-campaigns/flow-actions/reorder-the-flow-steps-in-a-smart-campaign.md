@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146985
-description: Réorganiser les étapes de flux dans une campagne dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment réorganiser les étapes de flux dans une campagne dynamique. Effectuez un glisser-déposer pour modifier l’ordre des actions dans le flux.
 title: Réorganiser les étapes de flux dans une campagne intelligente
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 18%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 

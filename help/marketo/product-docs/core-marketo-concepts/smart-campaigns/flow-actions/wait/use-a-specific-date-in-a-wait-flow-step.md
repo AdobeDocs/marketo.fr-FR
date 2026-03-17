@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146976
-description: Utiliser une date spécifique dans une étape de flux d’attente - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser une date spécifique dans une étape de flux d’attente. Mettre le flux en pause jusqu’à une date et une heure fixes.
 title: Utiliser une date spécifique dans une étape de flux Attendre
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 15%
 
 ---
 

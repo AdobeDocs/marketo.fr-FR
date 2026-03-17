@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146966
-description: Affichage des personnes qualifiées dans une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment afficher les personnes qualifiées dans une campagne dynamique. Vérifiez qui répond aux critères de liste dynamique ou de déclenchement.
 title: Afficher les personnes qualifiées dans une campagne intelligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '174'
 ht-degree: 8%
 
 ---

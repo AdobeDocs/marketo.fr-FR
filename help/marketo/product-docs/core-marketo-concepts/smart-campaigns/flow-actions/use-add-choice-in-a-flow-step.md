@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146980
-description: Utilisation de l’option Ajouter un choix dans une étape de flux - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser Ajouter un choix dans une étape de flux. Branchement de votre flux de campagne en fonction des conditions avec une logique de choix.
 title: Utiliser l’option Ajouter un choix dans une étape de flux
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '204'
 ht-degree: 7%
 
 ---

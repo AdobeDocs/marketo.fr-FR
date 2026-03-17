@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147062
-description: Affichage des personnes bloquées dans une campagne dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment afficher les personnes bloquées dans une campagne dynamique. Voyez qui a été bloqué dans le flux et pourquoi.
 title: Afficher les personnes bloquées dans une campagne intelligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 11%
+source-wordcount: '132'
+ht-degree: 10%
 
 ---
 

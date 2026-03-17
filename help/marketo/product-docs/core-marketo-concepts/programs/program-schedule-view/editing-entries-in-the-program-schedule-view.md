@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147136
-description: Modification d’entrées dans la vue Calendrier des programmes - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier des entrées dans la vue Planning du programme. Modifier les dates, les noms et les détails des éléments planifiés
 title: Modification d’entrées dans la vue Planning du programme
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '154'
 ht-degree: 11%
 
 ---

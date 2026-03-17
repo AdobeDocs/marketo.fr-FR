@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147322
-description: Présentation des activités et des personnes anonymes - Documents Marketo - Documentation du produit
+description: Découvrez l’activité anonyme et les personnes dans Marketo. Découvrez comment les visiteurs anonymes sont suivis avant la conversion.
 title: Présentation des activités et des personnes anonymes
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 3%
 
 ---

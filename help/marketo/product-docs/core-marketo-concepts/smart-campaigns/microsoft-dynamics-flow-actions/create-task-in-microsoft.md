@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356429
-description: Créer une tâche dans Microsoft - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une tâche dans Microsoft Dynamics à partir d’une étape de flux. Créez une tâche pour le propriétaire lorsqu’un utilisateur accède au flux.
 title: Créer une tâche dans Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '184'
 ht-degree: 4%
 
 ---

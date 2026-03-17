@@ -1,12 +1,12 @@
 ---
-description: Présentation De La Bibliothèque D’Importation De Programmes - Documents Marketo - Documentation Du Produit
+description: Découvrez la bibliothèque d’importation de programmes et les programmes modèles. Utilisez des modèles pour créer rapidement des programmes à partir des bonnes pratiques.
 title: Vue d’ensemble de la bibliothèque d’importation de programme
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 5%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 6%
 
 La bibliothèque de référence Marketo Engage comprend plusieurs programmes de démarrage que vous pouvez importer directement dans votre instance Marketo pour lancer la création de programmes qui aideront à soutenir votre équipe.
 
-La bibliothèque comprend des programmes tels que : e-mail, engagement, événement, notation, délivrabilité et opérationnel. Tous les programmes ont été développés par l’équipe produit d’Adobe et approuvés par notre équipe [services professionnels mondiaux](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"} dans le but d’optimiser la qualité et l’efficacité.
+La bibliothèque comprend des programmes tels que : e-mail, engagement, événement, notation, délivrabilité et opérationnel. Tous les programmes ont été développés par l’équipe produit d’Adobe et approuvés par notre équipe [services professionnels mondiaux](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} dans le but d’optimiser la qualité et l’efficacité.
 
 ## Exemples de programmes disponibles {#available-program-examples}
 
 * [EM-YYYY-MM-DD-Single Email Send](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
 
-* [NL-YYYY-MM-Newsletter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
+* [NL-YYYY-MM-Newsletter ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
 * Programme de webinaire [WBN-YYYY-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 

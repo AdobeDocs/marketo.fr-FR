@@ -1,10 +1,10 @@
 ---
-description: Présentation de la carte de l’engagement - Documents Marketo - Documentation du produit
+description: Découvrez la carte de l’engagement pour visualiser vos campagnes intelligentes. Utilisez-la pour afficher de manière intuitive les déclencheurs, les filtres et les étapes de flux dans Marketo.
 title: Vue d’ensemble de la carte d’engagement
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9438139
-description: Placer sur la liste bloquée Ajouter une personne à la documentation - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une personne à la place sur la liste bloquée. Empêcher l'envoi d'e-mails à des personnes ou domaines spécifiques.
 title: Ajouter une personne à la liste bloquée
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '194'
 ht-degree: 5%
 
 ---

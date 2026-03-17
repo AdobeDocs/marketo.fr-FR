@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146978
-description: Utiliser une durée dans une étape de flux d’attente - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser une durée dans une étape de flux d’attente. Mettre le flux en pause pendant un nombre défini de jours avant l’action suivante.
 title: Utiliser une durée dans une étape de flux Attendre
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '217'
+ht-degree: 9%
 
 ---
 

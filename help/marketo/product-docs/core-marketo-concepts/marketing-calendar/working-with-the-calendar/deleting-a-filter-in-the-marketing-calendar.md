@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147302
-description: Suppression d’un filtre dans Calendrier marketing - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer un filtre dans le calendrier marketing.
 title: Suppression d’un filtre dans le calendrier marketing
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 24%
+source-wordcount: '56'
+ht-degree: 25%
 
 ---
 

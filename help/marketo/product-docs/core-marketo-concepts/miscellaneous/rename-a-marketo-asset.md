@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952484
-description: Renommer une ressource Marketo - Documents Marketo - Documentation du produit
+description: Découvrez comment renommer des dossiers, des programmes et des ressources locales dans Marketo Engage.
 title: Renommer une ressource Marketo
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 12%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 

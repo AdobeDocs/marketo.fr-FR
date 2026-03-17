@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147255
-description: Émettre/révoquer une licence de calendrier marketing - Documents Marketo - Documentation du produit
+description: Découvrez comment émettre ou révoquer une licence de calendrier marketing pour les utilisateurs. Accorder ou supprimer l’accès au calendrier.
 title: Émettre et révoquer une licence de calendrier marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '109'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Pour utiliser vos places [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, vous devez attribuer des licences aux utilisateurs qui ont besoin d’un accès. Voici comment faire.
 

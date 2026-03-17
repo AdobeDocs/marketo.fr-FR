@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504120
-description: Lancement d’une présentation - Documents Marketo - Documentation du produit
+description: Découvrez comment lancer une présentation de calendrier marketing après avoir défini les affichages et la rotation. Affichez-le sur un téléviseur HD ou un moniteur externe.
 title: Lancer une présentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 4%
 
 ---
 

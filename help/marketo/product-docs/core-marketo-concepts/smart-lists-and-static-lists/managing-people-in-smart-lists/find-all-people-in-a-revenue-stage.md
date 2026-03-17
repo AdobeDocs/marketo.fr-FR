@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557331
-description: Recherche de toutes les personnes à une étape de chiffre d’affaires - Documents Marketo - Documentation du produit
+description: Découvrez comment trouver toutes les personnes à une étape de chiffre d’affaires. Utilisez le filtre d’étape de chiffre d’affaires pour créer une liste ou un segment.
 title: Rechercher toutes les personnes présentes dans une étape de cycle de revenus
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 9%
+source-wordcount: '160'
+ht-degree: 8%
 
 ---
 

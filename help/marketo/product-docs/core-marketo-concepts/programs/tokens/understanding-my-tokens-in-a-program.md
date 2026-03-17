@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147114
-description: Présentation de mes jetons dans un programme - Documents Marketo - Documentation du produit
+description: En savoir plus sur Mes jetons dans un programme. Utilisez des jetons pour personnaliser le contenu avec les données de programme ou de membre.
 title: Présentation de Mes jetons dans un programme
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 7%
+source-wordcount: '429'
+ht-degree: 6%
 
 ---
 
@@ -37,7 +37,7 @@ Exemples :
  </thead>
  <tbody>
   <tr>
-   <td>Fichier du calendrier <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Fichier du calendrier <img alt="--" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
    <td>Utilisez ce jeton pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">ajouter un fichier d’événement de calendrier (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> à vos e-mails et landing pages.</td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ Exemples :
   </tr>
   <tr>
    <td>Script de l’e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td>
+   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td>
   </tr>
   <tr>
    <td>Nombre <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

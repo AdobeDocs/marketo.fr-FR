@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146940
-description: Définir une liste dynamique pour une campagne dynamique | Lot - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir la liste dynamique pour une campagne dynamique par lots. Choisissez qui entre dans la campagne avec des filtres.
 title: Définir une liste intelligente pour une campagne intelligente | Par lots
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 5%
+source-wordcount: '283'
+ht-degree: 4%
 
 ---
 
@@ -55,5 +55,5 @@ Les listes dynamiques sont le mécanisme utilisé dans Marketo Engage pour défi
 
    >[!MORELIKETHIS]
    >
-   >* [Définir une liste dynamique pour une campagne dynamique | Déclencheur &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Définir une liste dynamique pour une campagne dynamique | Déclencheur ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
    >* [Ajouter une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

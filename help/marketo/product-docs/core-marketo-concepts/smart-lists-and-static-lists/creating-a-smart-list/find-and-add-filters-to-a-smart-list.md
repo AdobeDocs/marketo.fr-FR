@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557273
-description: Recherche et ajout de filtres à une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment rechercher et ajouter des filtres à une liste dynamique. Parcourez et ajoutez des filtres à partir de l’arborescence de filtres pour créer la logique de votre liste.
 title: Rechercher et ajouter des filtres à une liste intelligente
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '145'
+ht-degree: 13%
 
 ---
 

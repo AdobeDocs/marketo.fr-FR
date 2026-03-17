@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953364
-description: Comprendre/Activer l’orientation du programme - Documentation de Marketo - Documentation du produit
+description: Découvrez comment la fonction Focus du programme vous permet d’interagir avec les entrées du calendrier marketing. Activer le focus sur un programme pour créer, modifier, supprimer ou confirmer des entrées.
 title: Comprendre/Activer le focus sur un programme
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 5%
+source-wordcount: '166'
+ht-degree: 4%
 
 ---
 

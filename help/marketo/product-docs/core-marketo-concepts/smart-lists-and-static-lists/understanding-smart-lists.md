@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557130
-description: Présentation Des Listes Intelligentes - Documents Marketo - Documentation Du Produit
+description: Découvrez les listes dynamiques pour rechercher des groupes de personnes avec des filtres dans Marketo. Créez et utilisez des listes dynamiques dans des campagnes, des programmes et des rapports.
 title: Présentation des listes intelligentes
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---

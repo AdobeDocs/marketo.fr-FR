@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781845
-description: Présentation des moments Marketo - Documentation de Marketo - Documentation du produit
+description: Découvrez les moments Marketo pour savoir ce qui compte quand c’est important. Affichez des informations clés et prenez des mesures à partir de l’application mobile.
 title: Présentation des Moments Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '618'
 ht-degree: 4%
 
 ---

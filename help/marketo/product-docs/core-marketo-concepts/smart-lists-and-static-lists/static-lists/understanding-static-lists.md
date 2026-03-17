@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949891
-description: Présentation des listes statiques - Documents Marketo - Documentation du produit
+description: Découvrez les listes statiques dans Marketo pour des groupes fixes de personnes. Utilisez des listes statiques lorsque l’appartenance est gérée manuellement.
 title: Présentation des listes statiques
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147080
-description: Étape du chiffre d’affaires des modifications - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier l’étape du chiffre d’affaires dans une étape de flux de campagne intelligente. Mettez à jour l’étape de revenus pour les personnes du flux.
 title: Modifier l'étape dans le cycle de vente
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 8%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

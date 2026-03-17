@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146944
-description: Ajout d’une étape de flux à une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une étape de flux à une campagne dynamique. Insérer des actions telles que l’envoi d’un e-mail, la modification de la valeur des données ou l’ajout à la liste.
 title: Ajouter une étape de flux à une campagne intelligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 9%
+source-wordcount: '181'
+ht-degree: 11%
 
 ---
 

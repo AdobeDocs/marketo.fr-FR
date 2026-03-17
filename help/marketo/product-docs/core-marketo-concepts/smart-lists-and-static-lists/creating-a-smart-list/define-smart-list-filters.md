@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: Définition De Filtres De Liste Dynamique - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir des filtres de liste dynamique. Définissez des contraintes et des valeurs de filtre pour déterminer qui apparaît dans la liste.
 title: Définir des filtres pour une liste intelligente
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 5%
+source-wordcount: '196'
+ht-degree: 7%
 
 ---
 

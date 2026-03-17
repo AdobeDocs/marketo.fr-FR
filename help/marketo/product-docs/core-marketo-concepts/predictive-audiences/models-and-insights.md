@@ -1,12 +1,12 @@
 ---
-description: Modèles et informations - Documents Marketo - Documentation du produit
+description: Découvrez les modèles d’audiences prédictives et les facteurs d’influence. Utilisez les informations d’IA pour affiner le ciblage et améliorer les performances des campagnes.
 title: Modèles et insights
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 2%
+source-wordcount: '230'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ Accédez à la section **[!UICONTROL Modèles et intégrité des données]** sou
 
 ![Image Un](assets/models-and-insights-1.png)
 
-* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les deux semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _en échec_, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les deux semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _en échec_, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Statut de notation** : indique si votre modèle calcule activement des prédictions (pourcentages de vraisemblance) pour les membres du programme.
 * **Performances** : catégorisation de l’intégrité de votre modèle en fonction de l’exhaustivité des données et de la qualité des données (voir ci-dessous).
 * **Exhaustivité des données** : pourcentage d’attributs de données présents/complets.

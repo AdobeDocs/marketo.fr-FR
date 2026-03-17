@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146901
-description: Utilisation De La Logique De Règle De Liste Dynamique Avancée - Documents Marketo - Documentation Du Produit
+description: Découvrez comment utiliser la logique de règle de liste dynamique avancée. Combinez des filtres avec AND et OR pour une qualification complexe.
 title: Utilisation de la logique avancée de règle de liste intelligente
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '310'
 ht-degree: 4%
 
 ---

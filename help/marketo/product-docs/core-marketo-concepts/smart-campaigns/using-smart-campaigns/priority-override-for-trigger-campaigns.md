@@ -1,11 +1,11 @@
 ---
-description: Remplacement de priorité pour les campagnes de déclenchement - Documents Marketo - Documentation du produit
+description: Découvrez le remplacement de priorité pour les campagnes de déclenchement. Contrôler la campagne exécutée lorsque plusieurs déclencheurs se déclenchent pour la même personne.
 title: Remplacement de priorité pour les campagnes à déclencheur
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '258'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ Les administrateurs peuvent remplacer la priorité déterminée par Marketo Enga
 
 >[!NOTE]
 >
->Cette fonctionnalité n’est disponible que pour les campagnes de déclenchement et pour les utilisateurs et utilisatrices qui disposent de l’autorisation [&#x200B; « Modifier la priorité des campagnes de déclenchement »](#grant-priority-override-access).
+>Cette fonctionnalité n’est disponible que pour les campagnes de déclenchement et pour les utilisateurs et utilisatrices qui disposent de l’autorisation [ « Modifier la priorité des campagnes de déclenchement »](#grant-priority-override-access).
 
 >[!CAUTION]
 >

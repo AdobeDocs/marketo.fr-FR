@@ -1,11 +1,11 @@
 ---
-description: Envoi d’un segment Adobe Experience Platform vers une liste statique Marketo - Documents Marketo - Documentation du produit
+description: Découvrez comment pousser un segment Adobe Experience Platform vers une liste statique Marketo. Synchronisez les segments AEP dans les listes Marketo.
 title: Transmettre un segment Adobe Experience Platform vers une liste statique Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '663'
 ht-degree: 3%
 
 ---
@@ -99,7 +99,7 @@ Cette fonctionnalité vous permet d’envoyer les segments situés dans votre Ad
 
    >[!NOTE]
    >
-   >Vous pouvez mapper des attributs d’Experience Platform à l’un des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête d’API Describe](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
+   >Vous pouvez mapper des attributs d’Experience Platform à l’un des attributs auxquels votre organisation a accès dans Marketo Engage. Utilisez la [requête d’API Describe](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} pour récupérer les champs d’attribut auxquels votre organisation a accès.
 
 1. Mappez le nom et le nom de la société en cliquant de nouveau sur **[!UICONTROL Ajouter un nouveau mappage]** et en répétant deux fois l’étape 15, en choisissant **[!UICONTROL nom]** puis **[!UICONTROL nomSociété]**.
 

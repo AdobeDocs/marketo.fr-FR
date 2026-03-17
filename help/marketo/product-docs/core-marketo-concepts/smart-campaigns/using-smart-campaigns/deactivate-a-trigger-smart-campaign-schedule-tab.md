@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146991
-description: Désactivation d’une campagne intelligente Trigger | Onglet Planning - Documents Marketo - Documentation Du Produit
+description: Découvrez comment désactiver un déclencheur de campagne intelligente dans l’onglet Planning . Désactivez la campagne afin d’arrêter le traitement des déclencheurs.
 title: Désactiver une campagne intelligente à déclencheur | Onglet Planning
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 16%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 

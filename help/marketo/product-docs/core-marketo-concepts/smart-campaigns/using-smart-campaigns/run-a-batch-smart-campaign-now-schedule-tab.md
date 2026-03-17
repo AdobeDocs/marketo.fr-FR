@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: Exécution immédiate d’une campagne dynamique par lots | Onglet Planning - Documents Marketo - Documentation Du Produit
+description: Découvrez comment exécuter une campagne intelligente par lots maintenant à partir de l’onglet Planning . Exécuter immédiatement la campagne au lieu de la planifier.
 title: Exécuter immédiatement une campagne intelligente par lots | Onglet Planning
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 15%
+source-wordcount: '112'
+ht-degree: 14%
 
 ---
 

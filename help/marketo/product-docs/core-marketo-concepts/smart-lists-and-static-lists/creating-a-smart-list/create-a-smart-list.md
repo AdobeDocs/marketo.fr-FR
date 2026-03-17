@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557154
-description: Création d’une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une liste dynamique dans Marketo. Ajoutez une liste dynamique dans la base de données ou dans un programme et définissez des filtres.
 title: Créer une liste intelligente
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
 

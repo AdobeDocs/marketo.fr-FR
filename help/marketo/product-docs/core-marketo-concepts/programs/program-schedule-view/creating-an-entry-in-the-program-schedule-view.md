@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147102
-description: Création d’une entrée dans la vue Calendrier des programmes - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une entrée dans la vue Planning du programme. Ajoutez des programmes de messagerie, des campagnes intelligentes ou des entrées de base au planning.
 title: Création d’une entrée dans la vue Planning du programme
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 10%
 
 ---
 

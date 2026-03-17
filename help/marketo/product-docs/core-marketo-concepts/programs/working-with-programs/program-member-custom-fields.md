@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355569
-description: Champs personnalisés de membre de programme - Documents Marketo - Documentation du produit
+description: Découvrez les champs personnalisés des membres du programme. Stocker et utiliser des données personnalisées pour chaque personne d’un programme.
 title: Champs personnalisés de personne membre du programme
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '425'
 ht-degree: 4%
 
 ---

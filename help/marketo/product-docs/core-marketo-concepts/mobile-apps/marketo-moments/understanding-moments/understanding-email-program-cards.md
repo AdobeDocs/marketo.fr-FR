@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: Présentation Des Cartes De Programme D’E-Mail - Documents Marketo - Documentation Du Produit
+description: Découvrez les cartes de programme d’e-mail dans Marketo Moments. Affichez le statut du programme de messagerie et effectuez une action à partir de l’application mobile.
 title: Présentation des vignettes de programme d’e-mail
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '367'
 ht-degree: 4%
 
 ---

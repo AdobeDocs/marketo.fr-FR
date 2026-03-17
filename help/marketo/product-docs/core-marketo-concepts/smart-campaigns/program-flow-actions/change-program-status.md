@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147007
-description: Modifier le statut du programme - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier le statut du programme dans une étape de flux. Définissez le statut du membre sur Succès, ou un autre statut, lorsqu’il accède au flux.
 title: Modifier le statut du programme
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '145'
 ht-degree: 4%
 
 ---

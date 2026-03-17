@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720377
-description: Référencer une liste ou une liste dynamique sur plusieurs espaces de travail - Documents Marketo - Documentation du produit
+description: Découvrez comment référencer une liste ou une liste dynamique dans plusieurs espaces de travail. Utiliser une liste d’un espace de travail dans un autre avec référence.
 title: Référencer une liste ou une liste intelligente dans plusieurs espaces de travail
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 9%
+source-wordcount: '184'
+ht-degree: 11%
 
 ---
 
@@ -33,7 +33,7 @@ Les listes et les listes dynamiques peuvent être partagées et référencées d
    >
    >Assets ne peut être partagé entre les espaces de travail que s’ils sont imbriqués dans un dossier.
 
-1. Nommez votre dossier et cliquez sur **[!UICONTROL Créer]**.
+1. Nommez le dossier, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 

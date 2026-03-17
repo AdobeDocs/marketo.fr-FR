@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557320
-description: Clonage d’une liste ou d’une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment cloner une liste ou une liste dynamique. Créez une copie à utiliser comme point de départ pour une nouvelle liste.
 title: Cloner une liste ou une liste intelligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '92'
+ht-degree: 19%
 
 ---
 

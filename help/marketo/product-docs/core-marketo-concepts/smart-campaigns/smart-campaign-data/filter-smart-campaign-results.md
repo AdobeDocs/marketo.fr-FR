@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147068
-description: Filtrage Des Résultats De Campagne Intelligente - Documents Marketo - Documentation Du Produit
+description: Découvrez comment filtrer les résultats des campagnes intelligentes. Limiter les personnes affichées dans la vue des résultats de la campagne par critère.
 title: Filtrer les résultats d’une campagne intelligente
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 6%
+source-wordcount: '141'
+ht-degree: 5%
 
 ---
 

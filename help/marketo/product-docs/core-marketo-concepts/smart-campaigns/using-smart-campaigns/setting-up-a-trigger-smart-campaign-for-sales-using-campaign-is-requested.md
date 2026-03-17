@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514898
-description: Configuration d’une campagne intelligente de déclenchement pour les ventes à l’aide de « La campagne est demandée » - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer un déclencheur de campagne intelligente pour les ventes à l’aide de Campaign is Requested. Autoriser les campagnes de demande de vente pour les prospects du CRM.
 title: Configuration d’une campagne intelligente à déclencheur pour l’équipe des ventes à l’aide du déclencheur « Campagne demandée »
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 8%
 
 ---

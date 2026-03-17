@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147053
-description: Abandon d’une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment abandonner une campagne intelligente. Arrêter une campagne par lots en cours d’exécution et empêcher d’autres personnes de la saisir.
 title: Arrêter une campagne intelligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '154'
 ht-degree: 5%
 
 ---

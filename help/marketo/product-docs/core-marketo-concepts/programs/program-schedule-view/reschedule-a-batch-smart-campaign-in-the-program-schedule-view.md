@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514985
-description: Replanifier une campagne dynamique par lots dans la vue Calendrier des programmes - Documents Marketo - Documentation du produit
+description: Découvrez comment replanifier une campagne intelligente par lots dans la vue Calendrier des programmes. Modification lors de l’exécution d’une campagne par lots.
 title: Replanifier une campagne intelligente par lots dans la vue Planning du programme
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 20%
+source-wordcount: '110'
+ht-degree: 19%
 
 ---
 

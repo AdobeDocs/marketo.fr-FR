@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146937
-description: Afficher Les Membres De Campagne Intelligente - Documents Marketo - Documentation Du Produit
+description: Découvrez comment afficher les membres de campagnes intelligentes. Vérifiez qui est dans la campagne et leur statut dans le flux.
 title: Afficher les personnes membres d’une campagne intelligente
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 

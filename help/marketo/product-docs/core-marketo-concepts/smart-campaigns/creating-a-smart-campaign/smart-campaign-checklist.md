@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: Liste De Contrôle De Campagne Intelligente - Documents Marketo - Documentation Du Produit
+description: Obtenez de l’aide sur la liste de contrôle de Campagne intelligente. Utilisez cette liste pour vérifier que votre campagne est correctement configurée avant l’activation.
 title: Liste de contrôle de la campagne intelligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '259'
 ht-degree: 3%
 
 ---

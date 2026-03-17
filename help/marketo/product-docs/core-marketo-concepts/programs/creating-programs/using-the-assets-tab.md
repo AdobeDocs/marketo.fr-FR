@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147124
-description: Utilisation de l’onglet Assets - Documentation de Marketo - Documentation du produit
+description: Découvrez comment utiliser l’onglet Assets dans un programme. Afficher et gérer toutes les ressources locales de votre programme.
 title: Utilisation de l’onglet Ressources
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 9%
 
 ---
 

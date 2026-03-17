@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146956
-description: Moment intéressant - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un moment intéressant dans une étape de flux. Enregistrez les actions clés pour la visibilité des ventes dans le CRM.
 title: Moment intéressant
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '110'
+ht-degree: 3%
 
 ---
 
@@ -34,4 +34,4 @@ Vous pouvez également utiliser des [jetons dans les moments intéressants](/hel
 >[!MORELIKETHIS]
 >
 >* [Utilisation des moments significatifs](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
->* [&#x200B; Jetons pour les moments significatifs &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}
+>* [ Jetons pour les moments significatifs ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}

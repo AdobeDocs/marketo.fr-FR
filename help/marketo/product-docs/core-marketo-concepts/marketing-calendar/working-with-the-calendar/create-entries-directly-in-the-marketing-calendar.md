@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953348
-description: Création d’entrées directement dans le calendrier marketing - Documents Marketo - Documentation du produit
+description: Découvrez comment créer des entrées directement dans le calendrier marketing à l’aide de la cible du programme. Ajoutez des entrées de base, des programmes de messagerie ou des campagnes intelligentes.
 title: Créer des entrées directement dans le calendrier marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 14%
+source-wordcount: '132'
+ht-degree: 13%
 
 ---
 

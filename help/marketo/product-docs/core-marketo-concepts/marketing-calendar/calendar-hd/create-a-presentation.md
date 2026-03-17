@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503971
-description: Création d’une présentation - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une présentation de calendrier marketing pour projeter des vues sur une TVHD. Configurez des présentations spécifiques à l’espace de travail pour votre équipe.
 title: Créer une présentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 9%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 

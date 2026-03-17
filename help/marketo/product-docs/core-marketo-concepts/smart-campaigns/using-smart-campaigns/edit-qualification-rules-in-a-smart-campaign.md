@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146974
-description: Modifier des règles de qualification dans une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier les règles de qualification dans une campagne dynamique. Modifier le nombre de fois où les personnes peuvent exécuter la campagne.
 title: Modifier les règles de qualification dans une campagne intelligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '222'
 ht-degree: 6%
 
 ---

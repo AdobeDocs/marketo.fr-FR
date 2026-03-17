@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147148
-description: Suppression d’un programme - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer un programme dans Marketo. Supprimez les programmes dont vous n'avez plus besoin.
 title: Supprimer un programme
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '184'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557326
-description: Utilisation de la recherche rapide dans une liste ou une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser la recherche rapide dans une liste ou une liste dynamique. Rechercher une personne spécifique par nom ou adresse e-mail dans la liste.
 title: Utiliser la recherche rapide dans une liste ou une liste intelligente
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '150'
+ht-degree: 14%
 
 ---
 

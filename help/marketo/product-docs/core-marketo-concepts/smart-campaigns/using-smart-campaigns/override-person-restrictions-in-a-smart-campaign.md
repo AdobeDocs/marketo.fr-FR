@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147066
-description: Remplacer les restrictions de personne dans une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment remplacer les restrictions de personne dans une campagne dynamique. Autoriser les utilisateurs à exécuter même s’ils atteignent les limites de communication.
 title: Ignorer les restrictions de personnes dans une campagne intelligente
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '146'
+ht-degree: 9%
 
 ---
 

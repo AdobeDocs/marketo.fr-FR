@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147116
-description: Gestion De Mes Jetons - Documents Marketo - Documentation Du Produit
+description: Découvrez comment gérer Mes jetons dans un programme. Créez et utilisez des jetons pour personnaliser le contenu du programme et les e-mails.
 title: Gestion de Mes jetons
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '224'
 ht-degree: 7%
 
 ---
@@ -17,7 +17,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo Engage. Vous 
 
 >[!TIP]
 >
->En savoir plus sur les jetons déjà disponibles dans [&#x200B; Présentation des jetons &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>En savoir plus sur les jetons déjà disponibles dans [ Présentation des jetons ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Créer un My Token local ou global {#create-a-my-token}
 

@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147040
-description: Accorder du crédit au référent - Documents Marketo - Documentation du produit
+description: Découvrez comment créditer le référent dans une étape de flux. Attribuer la réussite à la personne ou à la campagne référente.
 title: Créditer le référent ou la référente
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '145'
+ht-degree: 10%
 
 ---
 

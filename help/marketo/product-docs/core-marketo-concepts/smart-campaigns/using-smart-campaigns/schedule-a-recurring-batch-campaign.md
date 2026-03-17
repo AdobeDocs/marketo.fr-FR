@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146972
-description: Planifier une campagne par lots récurrente - Documents Marketo - Documentation du produit
+description: Découvrez comment planifier une campagne par lots récurrente. Définissez la campagne pour qu’elle s’exécute tous les jours, toutes les semaines ou tous les mois selon un planning.
 title: Planifier une campagne par lots récurrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '154'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ La périodicité permet d’exécuter une campagne par lots selon un calendrier 
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Laissez « [!UICONTROL &#x200B; Répéter toutes les &#x200B;] » sur 1, sélectionnez Mardi et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Laissez « [!UICONTROL  Répéter toutes les ] » sur 1, sélectionnez Mardi et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 

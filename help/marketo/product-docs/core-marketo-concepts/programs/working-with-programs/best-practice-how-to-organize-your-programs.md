@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848705
-description: Bonne pratique - Comment organiser vos programmes - Documents Marketo - Documentation du produit
+description: Obtenez de l’aide sur les bonnes pratiques pour organiser vos programmes. Structurez les dossiers et les programmes de campagne pour plus de clarté et d’échelle.
 title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '854'
 ht-degree: 5%
 
 ---
@@ -41,7 +41,7 @@ Dans Activités marketing, vous devez utiliser des dossiers pour organiser vos p
 >* Opérationnel
 >   * Cycle de vie
 >   * Notation
->   * Gestion des données
+>   * Data Management
 >* Sales Insight
 >   * Moments intéressants
 >   * E-mails de vente
@@ -121,4 +121,4 @@ Certaines personnes convertissent même la plupart du texte des e-mails et des l
 
 ## Résumé {#summary}
 
-Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Nous avons abordé les bases ici, mais envisagez des services supplémentaires de [experts Marketo Engage](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système pour réussir.
+Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Nous avons abordé les bases ici, mais envisagez des services supplémentaires de [experts Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système pour réussir.

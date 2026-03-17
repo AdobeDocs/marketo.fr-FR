@@ -1,11 +1,11 @@
 ---
-description: OP-Data Management - Documents Marketo - Documentation du produit
+description: Modèle de programme opérationnel de gestion des données. Utilisez-la pour garder votre base de données propre et à jour.
 title: OP-Gestion des données
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '327'
 ht-degree: 27%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Il s’agit d’un exemple de workflows simples des bonnes pratiques de gestion des données opérationnelles à l’aide d’un programme par défaut qui vous aide à gérer la cohérence des données pour les enregistrements de votre base de données Marketo Engage.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
-description: OP-Scoring-Demographic - Documents Marketo - Documentation du produit
+description: Modèle de programme opérationnel Démographie de notation. Utilisez-le pour la notation démographique des prospects.
 title: OP-Score-Démographique
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 35%
+source-wordcount: '316'
+ht-degree: 34%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 35%
 
 Il s’agit d’un exemple de programme opérationnel avancé (segmenté en unités lexicales) utilisant un programme par défaut de Marketo Engage pour la notation démographique. Affichez et modifiez les valeurs de notation sous l’onglet « Mes jetons » du programme. Nécessite un champ de score personnalisé appelé « Score démographique ».
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

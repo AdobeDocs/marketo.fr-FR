@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516639
-description: Accorder aux utilisateurs l’accès à l’application d’enregistrement - Documents Marketo - Documentation du produit
+description: Découvrez comment accorder aux utilisateurs l’accès à l’application d’enregistrement des événements. Attribuez le rôle Enregistrement de l’événement mobile pour qu’il puisse archiver les participants.
 title: Accorder à des utilisateurs et utilisatrices l’accès à l’application d’enregistrement
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '275'
+ht-degree: 5%
 
 ---
 

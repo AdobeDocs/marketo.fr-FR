@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951703
-description: Demande De Campaign - Documents Marketo - Documentation Du Produit
+description: Découvrez comment utiliser l’étape de flux de campagne Demander . Déclenchez l’exécution d’une autre campagne lorsqu’une personne atteint cette étape.
 title: Demander une campagne
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '129'
 ht-degree: 3%
 
 ---

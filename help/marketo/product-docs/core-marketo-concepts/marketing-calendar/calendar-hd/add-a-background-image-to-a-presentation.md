@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504437
-description: Ajout d’une image d’arrière-plan à une présentation - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une image d’arrière-plan à une présentation de calendrier marketing. Personnalisez votre présentation en sélectionnant une image dans la bibliothèque.
 title: Ajouter une image d’arrière-plan à une présentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '108'
+ht-degree: 12%
 
 ---
 

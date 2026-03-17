@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: Création d’une campagne intelligente - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une campagne intelligente. Configurez des déclencheurs pour une liste dynamique et ajoutez des étapes de flux pour automatiser les actions.
 title: Créer une nouvelle campagne intelligente
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 10%
 
 ---
 
@@ -39,5 +39,5 @@ Les campagnes intelligentes sont l’outil le plus important de Marketo Engage. 
 
    >[!MORELIKETHIS]
    >
-   >* [Définir une liste dynamique pour une campagne dynamique | Lot &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [Définir une liste dynamique pour une campagne dynamique | Déclencheur &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Définir une liste dynamique pour une campagne dynamique | Lot ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [Définir une liste dynamique pour une campagne dynamique | Déclencheur ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953207
-description: Créer Un Dossier Campaign - Documents Marketo - Documentation Du Produit
+description: Découvrez comment créer un dossier de campagne dans les activités marketing. Organisez votre espace de travail avec des dossiers de campagne pour l’automatisation et les ressources.
 title: Créer un dossier de campagne
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '123'
+ht-degree: 17%
 
 ---
 
