@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Il s’agit d’un exemple de programme idéal pour les formulaires de demande de contact, de demande de devis, de demande de démonstration ou de demande d’essai utilisant un programme par défaut de Marketo Engage. Peut être utilisé avec les pages de destination de Marketo ou en tant que formulaire incorporé sur des pages de destination autres que Marketo. Un e-mail d’alerte est envoyé à une personne spécifiée lors de l’envoi du formulaire.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

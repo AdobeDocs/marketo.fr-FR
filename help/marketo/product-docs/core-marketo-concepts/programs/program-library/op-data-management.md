@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Il s’agit d’un exemple de workflows simples des bonnes pratiques de gestion des données opérationnelles à l’aide d’un programme par défaut qui vous aide à gérer la cohérence des données pour les enregistrements de votre base de données Marketo Engage.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
