@@ -16,7 +16,7 @@ Les administrateurs peuvent remplacer la priorité déterminée par Marketo Enga
 
 >[!NOTE]
 >
->Cette fonctionnalité n’est disponible que pour les campagnes de déclenchement et pour les utilisateurs et utilisatrices qui disposent de l’autorisation [ « Modifier la priorité des campagnes de déclenchement »](#grant-priority-override-access).
+>Cette fonctionnalité n’est disponible que pour les campagnes de déclenchement et pour les utilisateurs et utilisatrices qui disposent de l’autorisation [&#x200B; « Modifier la priorité des campagnes de déclenchement »](#grant-priority-override-access).
 
 >[!CAUTION]
 >

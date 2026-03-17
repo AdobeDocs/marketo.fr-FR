@@ -24,7 +24,7 @@ Outre l’exécution d’actions de flux uniques à partir d’une liste dynamiq
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Cliquez sur le menu déroulant **[!UICONTROL Actions de personne]** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [ Envoyer un e-mail ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
+1. Cliquez sur le menu déroulant **[!UICONTROL Actions de personne]** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [&#x200B; Envoyer un e-mail &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 

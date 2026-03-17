@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Marquage d’éléments comme terminés {#marking-it-done}
 
-Marquez un programme de messagerie, un événement ou une carte d’analyse comme [!UICONTROL  Terminé ] pour le supprimer de votre flux. Il y a deux façons de le faire.
+Marquez un programme de messagerie, un événement ou une carte d’analyse comme [!UICONTROL &#x200B; Terminé &#x200B;] pour le supprimer de votre flux. Il y a deux façons de le faire.
 
 >[!IMPORTANT]
 >

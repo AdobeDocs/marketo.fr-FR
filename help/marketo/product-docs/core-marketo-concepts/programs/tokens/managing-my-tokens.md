@@ -17,7 +17,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo Engage. Vous 
 
 >[!TIP]
 >
->En savoir plus sur les jetons déjà disponibles dans [ Présentation des jetons ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>En savoir plus sur les jetons déjà disponibles dans [&#x200B; Présentation des jetons &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Créer un My Token local ou global {#create-a-my-token}
 

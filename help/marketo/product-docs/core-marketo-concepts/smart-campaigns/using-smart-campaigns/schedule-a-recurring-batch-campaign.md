@@ -31,7 +31,7 @@ La périodicité permet d’exécuter une campagne par lots selon un calendrier 
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Laissez « [!UICONTROL  Répéter toutes les ] » sur 1, sélectionnez Mardi et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Laissez « [!UICONTROL &#x200B; Répéter toutes les &#x200B;] » sur 1, sélectionnez Mardi et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 

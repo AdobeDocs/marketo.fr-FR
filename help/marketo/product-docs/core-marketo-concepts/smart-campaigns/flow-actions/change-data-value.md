@@ -39,5 +39,5 @@ Vous pouvez utiliser Marketo pour mettre à jour la valeur d’un champ. Pour ce
 
    >[!NOTE]
    >
-   >* [ Jetons pour les étapes de flux ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+   >* [&#x200B; Jetons pour les étapes de flux &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
    >* [Ajouter des données à un champ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}
