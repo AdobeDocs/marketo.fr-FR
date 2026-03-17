@@ -107,7 +107,7 @@ Maintenant, plongeons-nous dans Marketo !
    >
    >L’affichage des données dans Marketo peut prendre jusqu’à 48 heures. Si, après avoir attendu si longtemps, vous ne voyez toujours rien, sélectionnez **[!UICONTROL Actualiser à partir du fournisseur de webinaires]** dans le menu [!UICONTROL Actions d’événement] de l’onglet **[!UICONTROL Résumé]** de votre événement.
 
-Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL  Modifier le statut du programme ] #1 et [!UICONTROL  Envoyer un e-mail ] soient #2.
+Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL &#x200B; Modifier le statut du programme &#x200B;] #1 et [!UICONTROL &#x200B; Envoyer un e-mail &#x200B;] soient #2.
 
 ## Affichage du planning  {#viewing-the-schedule}
 

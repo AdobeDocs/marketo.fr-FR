@@ -44,7 +44,7 @@ Au même endroit, affichez toutes vos questions, leur statut d’approbation et 
 
 >[!NOTE]
 >
->Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL  approuvées ] sont mises à la disposition des visiteurs du chat.
+>Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL &#x200B; approuvées &#x200B;] sont mises à la disposition des visiteurs du chat.
 
 1. Dans la **[!UICONTROL bibliothèque de réponses]**, cliquez sur la question souhaitée.
 

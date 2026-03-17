@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Prise en main des webinaires interactifs {#get-started-with-interactive-webinars}
 
-Vous avez donc lu la [ Présentation des webinaires interactifs ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
+Vous avez donc lu la [&#x200B; Présentation des webinaires interactifs &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 

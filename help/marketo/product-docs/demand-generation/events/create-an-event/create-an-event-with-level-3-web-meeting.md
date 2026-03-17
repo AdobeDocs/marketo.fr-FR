@@ -15,23 +15,23 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Level 3 Web Meeting]  [!DNL LaunchPoint] ](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
->* [](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>* [&#x200B; [!DNL Level 3 Web Meeting]  [!DNL LaunchPoint] &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [&#128279;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-[!DNL Level 3] [[!DNL Level 3] ](https://www.level3.com/en/resource-library/) [!DNL BrightTalk]  [!DNL Level 3]
+[!DNL Level 3] [[!DNL Level 3] &#x200B;](https://www.level3.com/en/resource-library/) [!DNL BrightTalk]  [!DNL Level 3]
 
-* ****
-* ****
-* ****
-* ****
-* ****
+* **&#x200B;**
+* **&#x200B;**
+* **&#x200B;**
+* **&#x200B;**
+* **&#x200B;**
 
-1. Sélectionnez votre nouvel événement. ********
+1. Sélectionnez votre nouvel événement. **&#x200B;**&#x200B;**&#x200B;**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. ****
+1. **&#x200B;**
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 

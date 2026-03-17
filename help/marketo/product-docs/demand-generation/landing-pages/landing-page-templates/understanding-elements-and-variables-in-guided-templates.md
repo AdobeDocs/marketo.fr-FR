@@ -23,7 +23,7 @@ Les éléments sont les différents éléments de contenu qui constituent une pa
 
 Lorsque vous modifiez une page de destination guidée, les éléments s’affichent s’ils ont été marqués comme étant modifiables dans le modèle. Les éléments présenteront les icônes suivantes :
 
-* ![ : image ](assets/image2015-5-20-12-3a30-3a48.png)
+* ![&#x200B; : image &#x200B;](assets/image2015-5-20-12-3a30-3a48.png)
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Formulaire Marketo
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Texte
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Vidéo

@@ -73,4 +73,4 @@ Les pages de destination de forme libre peuvent être créées en tant que resso
 
 >[!TIP]
 >
->Décochez « [!UICONTROL  Ouvrir l’éditeur de page de destination pour une nouvelle page ] » si vous ne souhaitez pas que l’éditeur s’ouvre immédiatement après avoir cliqué sur **[!UICONTROL Créer]**.
+>Décochez « [!UICONTROL &#x200B; Ouvrir l’éditeur de page de destination pour une nouvelle page &#x200B;] » si vous ne souhaitez pas que l’éditeur s’ouvre immédiatement après avoir cliqué sur **[!UICONTROL Créer]**.

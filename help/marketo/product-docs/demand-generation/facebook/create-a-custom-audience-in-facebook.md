@@ -20,7 +20,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->En savoir plus sur les [ audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>En savoir plus sur les [&#x200B; audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Recherchez et sélectionnez la liste dynamique ou statique qui contient les prospects à partir desquels vous souhaitez créer l’audience.
 
