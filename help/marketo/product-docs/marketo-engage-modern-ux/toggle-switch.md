@@ -1,12 +1,14 @@
 ---
-description: Bouton (bascule) - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser le bouton (bascule) pour basculer entre Marketo Classic et l’expérience utilisateur moderne. Configurez l’accès pour les rôles dans Admin et activez-le pour chaque fonctionnalité ou pour toutes les fonctionnalités.
 title: Bouton (bascule)
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '275'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '299'
+ht-degree: 89%
 
 ---
 

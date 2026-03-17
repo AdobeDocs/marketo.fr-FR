@@ -1,12 +1,12 @@
 ---
-description: Vue d’ensemble de l’expérience clientèle moderne de Marketo Engage - Documents Marketo - Documentation du produit
+description: Découvrez l’expérience utilisateur Marketo Engage Modern et son interface mise à jour, offrant une convivialité améliorée et une nouvelle apparence.
 title: Vue d’ensemble de l’expérience clientèle moderne de Marketo Engage
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 95%
 
 ---
 

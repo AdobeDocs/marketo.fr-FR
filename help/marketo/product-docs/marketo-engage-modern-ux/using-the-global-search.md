@@ -1,12 +1,12 @@
 ---
-description: Utilisation de la recherche globale - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser la recherche globale dans Marketo Engage pour rechercher des ressources dans l’ensemble de votre instance. Effectuez des recherches, cliquez sur les chemins de navigation pour accéder aux éléments et utilisez des filtres pour limiter les résultats.
 title: Utilisation de la recherche globale
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 
