@@ -38,8 +38,8 @@ Pour optimiser la délivrabilité à long terme, les consultants en délivrabili
 
 >[!TIP]
 >
->Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige ](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. Ne pas envoyer de spam.
+>Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige &#x200B;](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. Ne pas envoyer de spam.
 
 >[!CAUTION]
 >
->Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez bénéficier d’une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.
+>Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez bénéficier d’une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.

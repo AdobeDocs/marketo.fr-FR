@@ -17,7 +17,7 @@ Le tableau de bord de l’engagement est le moyen le plus simple de voir les per
 
 >[!NOTE]
 >
->Le score d’engagement inclut les données de vos trois derniers lancements. Une nouvelle est calculée 72 heures après chaque plâtre. En savoir plus sur le [ score d’engagement ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Le score d’engagement inclut les données de vos trois derniers lancements. Une nouvelle est calculée 72 heures après chaque plâtre. En savoir plus sur le [&#x200B; score d’engagement &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Afficher le tableau de bord de l’engagement {#view-the-engagement-dashboard}
 

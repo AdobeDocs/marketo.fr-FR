@@ -52,7 +52,7 @@ Ces modifications de code **n’** pas isolent un e-mail de son modèle :
 * Modification des attributs spécifiques à mkto (par exemple, « mktoName » ou « mktoImgUrl ») de tout élément en dehors d’un module
 * Modification du contenu d’un élément (texte enrichi, image, vidéo, etc.) en dehors d’un module
 
-L’éditeur de code vous permet d’effectuer les opérations suivantes **** à séparer l’e-mail de son modèle :
+L’éditeur de code vous permet d’effectuer les opérations suivantes **&#x200B;**&#x200B;à séparer l’e-mail de son modèle :
 
 * Modification de tout élément du code en dehors d’un élément ou d’un module
 * Ajouter ou modifier des attributs non-mkto (par exemple, « id » ou « style ») de tout élément en dehors d&#39;un module

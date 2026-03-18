@@ -25,7 +25,7 @@ Le jeton `{{system.date}}` effectue le rendu de la date actuelle au moment de l�
 
 **Fonctionne dans :**
 
-* Étape de flux [ Modifier la valeur des données ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
+* Étape de flux [&#x200B; Modifier la valeur des données &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * [Moment intéressant](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} étape de flux
 * [Créer une tâche](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} étape de flux
 * Corps d’un e-mail ou d’un modèle
@@ -36,7 +36,7 @@ Le jeton `{{system.time}}` rendra l’heure actuelle au moment de l’exécution
 
 **Fonctionne dans :**
 
-* Étape de flux [ Modifier la valeur des données ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
+* Étape de flux [&#x200B; Modifier la valeur des données &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * [Moment intéressant](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} étape de flux
 * [Créer une tâche](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} étape de flux
 * Corps d’un e-mail ou d’un modèle
@@ -47,7 +47,7 @@ Le jeton `{{system.dateTime}}` rendra la date et l’heure actuelles au moment d
 
 **Fonctionne dans :**
 
-* Étape de flux [ Modifier la valeur des données ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
+* Étape de flux [&#x200B; Modifier la valeur des données &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
 * [Moment intéressant](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} étape de flux
 * [Créer une tâche](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} étape de flux
 * Corps d’un e-mail ou d’un modèle

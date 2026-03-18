@@ -26,7 +26,7 @@ Voici comment commencer.
 
 >[!CAUTION]
 >
->Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie [](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -49,5 +49,5 @@ Voici comment commencer.
    >[!MORELIKETHIS]
    >
    >* [Champion/Challenger : Whole Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger : Objet ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [Champion/Challenger : De l&#39;adresse ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [Champion/Challenger : Objet &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger : De l&#39;adresse &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
