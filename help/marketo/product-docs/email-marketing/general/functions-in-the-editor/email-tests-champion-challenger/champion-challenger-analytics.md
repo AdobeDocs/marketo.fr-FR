@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359567
-description: Champion/Challenger - Configuration Des Alertes De Rapports - Documents Marketo - Documentation Du Produit
+description: Découvrez comment afficher les analyses Champion/Challenger et configurer des alertes de rapports. Suivez les performances du test et recevez une notification lorsqu’un gagnant est prêt.
 title: Champion/Challenger - Configuration des alertes de rapports
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '228'
 ht-degree: 2%
 
 ---

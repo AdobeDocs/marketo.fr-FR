@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Fragments personnalisables
-description: Découvrez comment personnaliser des fragments en rendant certains de leurs champs modifiables.
+description: Découvrez comment personnaliser des fragments en rendant certains champs modifiables. Créer des fragments réutilisables flexibles dans le Designer d’e-mail.
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 64%
+source-wordcount: '420'
+ht-degree: 60%
 
 ---
 

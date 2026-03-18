@@ -2,15 +2,16 @@
 solution: Marketo Engage
 product: Marketo
 title: Gérer la marque
-description: Découvrez comment créer et gérer les consignes relatives à votre marque.
+description: Découvrez comment créer et gérer des directives de marque dans le Designer d’e-mail. Configurez et mettez à jour les paramètres de la marque pour vos e-mails.
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 84%
+source-wordcount: '1421'
+ht-degree: 82%
 
 ---
 

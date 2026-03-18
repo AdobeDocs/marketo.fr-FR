@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900593
-description: Création d’un e-mail pour un programme de messagerie - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un e-mail pour un programme de messagerie. Ajoutez une nouvelle ressource e-mail et choisissez un modèle ou un e-mail existant.
 title: Créer un e-mail pour un programme d’e-mail
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 9%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 

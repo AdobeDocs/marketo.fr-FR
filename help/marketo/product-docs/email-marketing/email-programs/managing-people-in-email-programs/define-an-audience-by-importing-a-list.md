@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900597
-description: Définir une audience en important une liste - Documents Marketo - Documentation du produit
+description: Découvrez comment définir une audience de programme de messagerie en important une liste. Utilisez des listes statiques ou téléchargées pour cibler votre envoi.
 title: Définir une audience en important une liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 14%
+source-wordcount: '384'
+ht-degree: 15%
 
 ---
 

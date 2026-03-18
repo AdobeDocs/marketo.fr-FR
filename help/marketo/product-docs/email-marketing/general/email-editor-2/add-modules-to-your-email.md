@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11371065
-description: Ajout de modules à votre e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des modules à votre email dans l’éditeur d’email 2.0. Insérez et organisez des modules de contenu pour créer votre disposition.
 title: Ajouter des modules à votre e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '262'
 ht-degree: 4%
 
 ---
@@ -67,4 +67,4 @@ C&#39;est tout ce qu&#39;il y a à faire.
 
 >[!MORELIKETHIS]
 >
->[Syntaxe du modèle d&#39;e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Syntaxe du modèle d’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382535
-description: Utilisation d’URL dans mes jetons - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser des URL dans Mes jetons. Stocker et référencer des URL dans des jetons pour les liens et les landing pages dans les emails.
 title: Utilisation d’URL dans Mes jetons
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '265'
 ht-degree: 4%
 
 ---

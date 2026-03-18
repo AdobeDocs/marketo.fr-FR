@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Ajouter du CSS personnalisé au contenu de votre e-mail
-description: Découvrez comment ajouter du code CSS personnalisé au contenu de votre e-mail directement dans le Designer d’e-mail de Marketo Engage.
+description: Découvrez comment ajouter un CSS personnalisé au contenu d’un e-mail dans le Designer d’e-mail. Donner un style à vos e-mails avec du code personnalisé dans Marketo Engage.
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '620'
-ht-degree: 32%
+source-wordcount: '624'
+ht-degree: 35%
 
 ---
 
@@ -132,7 +132,7 @@ Vous trouverez ci-dessous des exemples de CSS valide.
 
 +++
 
-+++ Exemples de CSS non valides
++++ Exemples de CSS non valide
 
 Si une page CSS non valide est saisie, un message d’erreur s’affiche, indiquant que la page CSS ne peut pas être enregistrée. Vous trouverez ci-dessous des exemples de CSS non valides.
 
@@ -202,7 +202,7 @@ Votre CSS personnalisé est ajouté à la fin de la section `<head>` dans le cad
 
 Le CSS personnalisé n’est pas interprété ni validé par le volet **[!UICONTROL Paramètres]** du concepteur d’e-mail. Il est entièrement indépendant et ne peut être modifié que par l’intermédiaire de l’option **[!UICONTROL Ajouter un fichier CSS personnalisé]**.
 
-### Mécanismes de sécurisation - Contenu importé {#guardrails}
+### Mécanismes de sécurisation : contenu importé {#guardrails}
 
 Si vous souhaitez utiliser un CSS personnalisé avec du contenu importé dans le concepteur d’e-mail, tenez compte des points suivants :
 
@@ -220,21 +220,21 @@ Si votre CSS personnalisé n’est pas appliqué, essayez les suggestions ci-des
 
 * Vérifiez si l’attribut `data-disabled` de la balise de style `global-custom` est défini sur `true`. Si tel est le cas, le code CSS personnalisé n’est pas appliqué.
 
-+++ Par exemple :
+  +++ Par exemple :
 
   ```html
   <style data-name="global-custom" type="text/css" data-disabled="true"> body: { color: red; } </style>
   ```
 
-+++
+  +++
 
 * Assurez-vous que votre CSS n’est pas remplacée par d’autres règles CSS.
 
    * Utilisez les outils de développement de votre navigateur pour inspecter le contenu et vérifier que votre CSS cible les sélecteurs corrects.
 
-   * Pensez à ajouter des `!important` à vos déclarations pour vous assurer qu’elles sont prioritaires.
+   * Pensez à ajouter `!important` à vos déclarations pour vous assurer qu’elles sont prioritaires.
 
-+++ Par exemple :
+     +++ Par exemple :
 
      ```css
      .acr-Form {
@@ -242,7 +242,7 @@ Si votre CSS personnalisé n’est pas appliqué, essayez les suggestions ci-des
      }
      ```
 
-+++
+     +++
 
 >[!NOTE]
 >

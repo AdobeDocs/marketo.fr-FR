@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472678
-description: Importer une liste de caractères non latins - Documents Marketo - Documentation du produit
+description: Découvrez comment importer des listes contenant des caractères non latins pour les programmes de messagerie. Assurez l’encodage et le formatage des audiences internationales.
 title: Importer une liste de caractères non latins
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '317'
 ht-degree: 14%
 
 ---

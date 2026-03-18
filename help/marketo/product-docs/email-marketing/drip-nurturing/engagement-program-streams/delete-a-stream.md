@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359936
-description: Suppression d’un flux - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer un flux d’un programme d’engagement. Déplacez les personnes les premières si nécessaire et confirmez pour éviter de perdre des données historiques.
 title: Supprimer un flux
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 6%
+source-wordcount: '105'
+ht-degree: 9%
 
 ---
 

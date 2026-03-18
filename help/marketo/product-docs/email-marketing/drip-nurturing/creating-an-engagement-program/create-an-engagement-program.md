@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359652
-description: Créer un programme d’engagement - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un programme d’engagement dans Marketo pour la conservation des e-mails. Choisissez Engagement comme type de programme et ajoutez des flux et du contenu.
 title: Créer un programme d’engagement
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 9%
+source-wordcount: '99'
+ht-degree: 76%
 
 ---
 
 # Créer un programme d’engagement {#create-an-engagement-program}
 
-Vous pouvez utiliser des programmes d’engagement dans Marketo pour faciliter l’entretien des e-mails.
+Vous pouvez utiliser des programmes d’engagement dans Marketo pour faciliter la fidélisation par e-mail.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -27,11 +27,11 @@ Vous pouvez utiliser des programmes d’engagement dans Marketo pour faciliter l
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. D&#39;accord, maintenant que vous avez un programme d&#39;engagement, allons de l&#39;avant et habillez-le.
+1. Maintenant que vous avez un programme d’engagement, poursuivez et personnalisez-le.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Ajouter du contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Définir la cadence du flux](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Ajouter du contenu à un stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+   >* [Définir le rythme du stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

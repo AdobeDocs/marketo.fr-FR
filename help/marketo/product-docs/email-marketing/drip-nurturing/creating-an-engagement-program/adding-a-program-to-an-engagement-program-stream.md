@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: Ajout d’un programme à un flux de programmes d’engagement - Documents Marketo - Documentation du produit
+description: Découvrez les programmes imbriqués dans les flux d’engagement et quand les utiliser. Ajoutez des programmes pour les sous-groupes, les écrans tactiles multiples et les étapes de flux supplémentaires.
 title: Ajouter un programme à un flux de programme d’engagement
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 3%
+source-wordcount: '470'
+ht-degree: 4%
 
 ---
 
@@ -57,5 +57,5 @@ Reporting des modifications avec l’emplacement des e-mails. Ainsi, par exemple
 
 >[!MORELIKETHIS]
 >
->* [Ajouter du contenu à un flux](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Ajouter du contenu à un stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Présentation des programmes](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

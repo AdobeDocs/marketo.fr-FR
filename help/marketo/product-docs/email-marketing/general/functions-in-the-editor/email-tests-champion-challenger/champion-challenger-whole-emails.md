@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger - Emails Entiers - Documents Marketo - Documentation Du Produit
+description: Découvrez comment exécuter des tests Champion/Challenger avec des e-mails complets. Tester différentes versions d’e-mail et désigner une expérience gagnante par critère.
 title: Champion/Challenger - Whole Emails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '259'
 ht-degree: 2%
 
 ---

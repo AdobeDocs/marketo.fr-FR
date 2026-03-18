@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147356
-description: Comprendre La Journalisation Des Événements Par E-Mail - Documents Marketo - Documentation Du Produit
+description: Découvrez la journalisation des événements par e-mail dans Marketo. Découvrez comment les ouvertures, les clics et les autres événements sont suivis et stockés.
 title: Présentation de la journalisation des événements d’e-mail
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '315'
 ht-degree: 3%
 
 ---

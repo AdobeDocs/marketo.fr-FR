@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900585
-description: Ajout de sections modifiables aux modèles d’e-mail v1.0 - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des sections modifiables aux modèles d’e-mail dans la version 1.0. Permet aux utilisateurs de modifier des zones spécifiques tout en gardant le reste verrouillé.
 title: Ajouter des sections modifiables à des modèles d’e-mail v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 16%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 

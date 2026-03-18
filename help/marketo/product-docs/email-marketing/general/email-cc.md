@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727995
-description: Email CC - Documents Marketo - Documentation du produit
+description: Découvrez les options de CC par e-mail dans Marketo. Ajoutez des destinataires en copie aux e-mails si nécessaire pour des raisons de conformité ou de visibilité.
 title: Copie carbone d’e-mail
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---

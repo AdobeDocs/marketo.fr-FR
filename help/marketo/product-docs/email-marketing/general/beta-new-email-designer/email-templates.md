@@ -1,14 +1,14 @@
 ---
-description: Modèles d’e-mail - Documents Marketo - Documentation du produit
+description: Découvrez les modèles d’e-mail dans la nouvelle Designer d’e-mail. Créez et réutilisez des modèles pour accélérer la création d’e-mails dans Marketo Engage.
 title: Modèles d’e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1731'
-ht-degree: 5%
+source-wordcount: '1745'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ Pour accélérer et améliorer le processus de conception, vous pouvez créer de
 
 >[!PREREQUISITES]
 >
->Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si votre compte n’a pas encore été migré et que vous souhaitez demander un traitement prioritaire, veuillez contacter l’équipe Adobe en charge des comptes (votre gestionnaire de compte) ou l’[assistance de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >

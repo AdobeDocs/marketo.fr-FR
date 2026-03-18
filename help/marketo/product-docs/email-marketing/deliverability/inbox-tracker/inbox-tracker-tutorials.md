@@ -1,16 +1,16 @@
 ---
-description: Testez, surveillez et comprenez les problèmes de délivrabilité avec le dispositif de suivi de la boîte de réception.
-title: Tutoriels sur le dispositif de suivi de la boîte de réception
+description: Découvrez le dispositif de suivi de la boîte de réception pour tester et surveiller la délivrabilité des e-mails. Accédez aux vidéos de formation pour la navigation, les tableaux de bord et le suivi des campagnes.
+title: Tutoriels sur Inbox Tracker
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
-# Tutoriels sur le dispositif de suivi de la boîte de réception {#inbox-tracker-tutorials}
+# Tutoriels sur Inbox Tracker {#inbox-tracker-tutorials}
 
 Testez, surveillez et comprenez les problèmes de délivrabilité grâce aux outils de délivrabilité des e-mails optimisés par la plateforme de suivi de la boîte de réception de Bird (anciennement MessageBird). Le dispositif de suivi de la boîte de réception est une application unique qui combine l’intelligence de votre programme et la prévision du rendu des e-mails/des tests de boîte de réception pour optimiser les performances de vos e-mails.
 

@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Composants de contenu
-description: DESCRIPTION.
+description: Découvrez les composants de contenu permettant de personnaliser la disposition des e-mails. Ajoutez et mettez en forme des composants dans les composants de structure du Designer d’e-mail.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 87%
+source-wordcount: '1308'
+ht-degree: 86%
 
 ---
 
@@ -158,7 +158,7 @@ Utilisez le composant **[!UICONTROL Image]** pour insérer un fichier image de v
 1. Cliquez sur le composant nouvellement ajouté et configurez les propriétés de l’image :
 
    * **[!UICONTROL Titre d’image]** vous permet de définir un titre pour votre image.
-   * **[!UICONTROL Text alt]** vous permet de définir la légende liée à votre image. Cela correspond à l’attribut alt en HTML.
+   * **[!UICONTROL Texte secondaire]** vous permet de définir la légende liée à votre image. Cela correspond à l’attribut alt en HTML.
 
    CAPTURE D’ÉCRAN
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359549
-description: Utiliser le tableau de bord du programme de messagerie - Vue Test A/B - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser la vue de test A/B du tableau de bord du programme de messagerie. Surveillez les variantes de test et les performances avant de déclarer gagnante.
 title: Utiliser le tableau de bord du programme d’e-mail - Vue du test A/B
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 22%
+source-wordcount: '118'
+ht-degree: 21%
 
 ---
 

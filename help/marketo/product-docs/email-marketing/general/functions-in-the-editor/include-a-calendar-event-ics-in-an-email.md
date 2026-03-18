@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900565
-description: Inclusion d’un événement de calendrier (.ics) dans un e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment inclure un événement de calendrier (.ics) dans un e-mail. Ajoutez une pièce jointe pour que les destinataires puissent ajouter l'événement à leur calendrier.
 title: Inclure un événement de calendrier (.ics) dans un e-mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 19%
+source-wordcount: '103'
+ht-degree: 17%
 
 ---
 

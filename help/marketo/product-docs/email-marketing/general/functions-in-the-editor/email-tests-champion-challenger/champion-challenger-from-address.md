@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger - Adresse de l’expéditeur - Documents Marketo - Documentation du produit
+description: Découvrez comment exécuter les tests d’adresse d’expédition Champion/Challenger. Testez différentes adresses d'expéditeur et déclarez un gagnant par critères.
 title: Champion/Challenger - Adresse de l'expéditeur
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '285'
 ht-degree: 3%
 
 ---

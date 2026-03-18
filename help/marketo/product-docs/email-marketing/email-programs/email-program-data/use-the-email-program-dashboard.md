@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359476
-description: Utiliser le tableau de bord du programme de messagerie électronique - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser le tableau de bord du programme de messagerie pour afficher les performances. Surveiller les ouvertures, les clics et d’autres mesures en un coup d’œil.
 title: Utiliser le tableau de bord du programme d’e-mail
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 3%
+source-wordcount: '408'
+ht-degree: 2%
 
 ---
 

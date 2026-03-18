@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359787
-description: Ajouter un flux - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un nouveau flux à votre programme d’engagement dans Marketo. Ajoutez jusqu’à 25 flux par programme à partir de l’onglet Flux .
 title: Ajouter un flux
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 10%
+source-wordcount: '73'
+ht-degree: 13%
 
 ---
 

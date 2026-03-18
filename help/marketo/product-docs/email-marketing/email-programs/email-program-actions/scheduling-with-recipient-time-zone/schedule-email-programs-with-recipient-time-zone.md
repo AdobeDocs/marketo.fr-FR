@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: Planification de programmes de messagerie avec fuseau horaire du destinataire - Documents Marketo - Documentation du produit
+description: Découvrez comment planifier des programmes d’e-mail avec le fuseau horaire du destinataire. Définissez la diffusion pour dans les 25 heures ou plus et choisissez le comportement du fuseau horaire.
 title: Planifier les programmes d’e-mail en fonction du fuseau horaire de la personne destinataire
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '839'
+source-wordcount: '851'
 ht-degree: 2%
 
 ---

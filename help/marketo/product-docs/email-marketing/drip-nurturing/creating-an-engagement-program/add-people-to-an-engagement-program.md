@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359782
-description: Ajout de personnes à un programme d’engagement - Documents Marketo - Documentation du produit
+description: Découvrez comment les gens deviennent membres de programmes d’engagement. Utilisez des étapes de flux, des formulaires, des imports ou des campagnes Salesforce pour ajouter des membres.
 title: Ajouter des personnes à un programme d’engagement
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 10%
+source-wordcount: '124'
+ht-degree: 9%
 
 ---
 

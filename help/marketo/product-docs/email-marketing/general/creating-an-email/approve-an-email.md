@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147342
-description: Approuver un e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver un e-mail afin de l’utiliser dans des programmes. Terminez le workflow d’approbation avant la planification ou l’envoi.
 title: Approuver un e-mail
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '117'
 ht-degree: 5%
 
 ---

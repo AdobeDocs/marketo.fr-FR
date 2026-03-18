@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360219
-description: Configuration d’une signature DKIM personnalisée - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer une signature DKIM personnalisée pour votre domaine dans Marketo. Ajoutez un domaine dans Admin et utilisez le service informatique pour publier l’enregistrement DNS.
 title: Configurer une signature DKIM personnalisée
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '444'
 ht-degree: 4%
 
 ---
@@ -29,7 +29,7 @@ Vous pouvez personnaliser la signature DKIM pour refléter le ou les domaines de
    >
    >Si vous configurez une signature DKIM personnalisée de manière obsolète, elle continuera à fonctionner et devrait s’afficher ici.
 
-1. Cliquez sur **Email**.
+1. Cliquez sur **E-mail**.
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 

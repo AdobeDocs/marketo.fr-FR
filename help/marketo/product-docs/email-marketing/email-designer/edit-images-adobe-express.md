@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Modifier des images à l’aide d’Adobe Express
-description: Découvrez comment modifier des images dans l’éditeur d’email de Adobe Marketo Engage à l’aide d’Adobe Express.
+description: Découvrez comment modifier des images dans la Designer Email à l’aide d’Adobe Express. Ouvrez et affinez les images sans quitter Marketo Engage.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '846'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express :
 
 1. Cochez la case en regard de l’image à modifier. Dans la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]**, sélectionnez **[!UICONTROL Modifier dans Adobe Express]**.
 
-   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier &#x200B;](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
+   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >

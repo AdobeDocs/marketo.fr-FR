@@ -1,13 +1,13 @@
 ---
-description: Création d’e-mails - Documents Marketo - Documentation du produit
+description: Découvrez comment créer, personnaliser et prévisualiser des e-mails dans le Designer d’e-mail. Utilisez Design Studio ou des programmes de messagerie pour créer des e-mails.
 title: Création d’e-mails
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1768'
-ht-degree: 3%
+source-wordcount: '1783'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Découvrez comment créer, personnaliser et prévisualiser des e-mails dans le n
 
 >[!PREREQUISITES]
 >
->Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Pour accéder au nouveau concepteur d’e-mail, votre abonnement à Marketo Engage doit être migré vers [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Si votre compte n’a pas encore été migré et que vous souhaitez demander un traitement prioritaire, veuillez contacter l’équipe Adobe en charge des comptes (votre gestionnaire de compte) ou l’[assistance de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 ## Créer un e-mail {#create-an-email}
 
@@ -332,7 +332,7 @@ Les avertissements se rapportent aux recommandations et aux bonnes pratiques tel
 
 >[!NOTE]
 >
->L’ajout d’une option de désabonnement n’est pas nécessaire pour les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
+>L’ajout d’une option de désabonnement n’est pas nécessaire pour les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
 
 * **Version texte d’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu d’HTML ne peut pas être affiché.
 

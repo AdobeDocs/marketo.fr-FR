@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900560
-description: Ajouter un lien Afficher en tant que page web à un e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un lien Afficher en tant que page web à un e-mail. Laisser les destinataires ouvrir l’e-mail dans un navigateur avec un lien persistant.
 title: Ajouter un lien Afficher en tant que page web à un e-mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '181'
 ht-degree: 11%
 
 ---

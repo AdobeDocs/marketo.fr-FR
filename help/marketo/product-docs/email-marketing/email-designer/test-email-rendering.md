@@ -1,19 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Test du rendu des e-mails avec Litmus
-description: Les utilisateurs de Marketo Engage peuvent intégrer leur compte Litmus pour tester facilement le rendu de contenu dans divers clients de messagerie.
+title: Tester le rendu des e-mails avec Litmus
+description: Découvrez comment tester le rendu des e-mails sur plusieurs clients avec Litmus. Intégrez votre compte Litmus pour prévisualiser le contenu de divers clients de messagerie.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 2%
+source-wordcount: '374'
+ht-degree: 5%
 
 ---
 
-# Test du rendu des e-mails avec Litmus {#test-email-rendering-with-litmus}
+# Tester le rendu des e-mails avec Litmus {#test-email-rendering-with-litmus}
 
 Tirez parti de votre compte [Litmus](https://www.litmus.com/email-testing) dans Marketo Engage pour voir instantanément comment vos e-mails sont rendus dans les clients de messagerie populaires.
 

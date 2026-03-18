@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098691
-description: Déplacer un e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment déplacer un e-mail vers un autre programme ou dossier. Déplacer des ressources e-mail tout en préservant la ressource elle-même
 title: Déplacer un e-mail
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 

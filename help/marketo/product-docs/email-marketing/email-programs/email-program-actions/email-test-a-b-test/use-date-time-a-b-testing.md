@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359520
-description: Utiliser Les Tests A/B « Date/Heure » - Documents Marketo - Documentation Du Produit
+description: Découvrez comment exécuter des tests A/B date/heure pour les programmes de messagerie. Testez différentes heures d’envoi et choisissez un gagnant en fonction des performances.
 title: Utiliser le test A/B « Date/Heure »
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '275'
 ht-degree: 4%
 
 ---

@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Thèmes de marque
-description: Découvrez comment créer et gérer vos directives de marque.
+description: Découvrez comment créer et gérer des directives de marque dans Marketo Engage. Configurez des thèmes de marque pour une conception d’e-mail cohérente.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1097'
-ht-degree: 6%
+source-wordcount: '1107'
+ht-degree: 7%
 
 ---
 

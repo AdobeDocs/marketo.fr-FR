@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359955
-description: Rapport sur les performances du flux d’engagement - Documents Marketo - Documentation du produit
+description: Découvrez comment créer et exécuter le rapport Performance du flux d’engagement. Filtrez par e-mails de programme et affichez les statistiques détaillées sur les flux.
 title: Rapport sur les performances du flux d’engagement
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '172'
+ht-degree: 6%
 
 ---
 

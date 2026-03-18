@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099077
-description: Découvrez comment importer une liste de contrôle dans votre instance Marketo Engage.
+description: Découvrez comment importer une liste d’adresses de contrôle dans Marketo Engage pour les tests d’emplacement de boîte de réception. Utilisez Everest pour télécharger et ajouter la liste des campagnes de délivrabilité.
 title: Power Pack sur la délivrabilité des e-mails - Comment importer une liste de contrôle
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 2%
 
 ---
 
-# Power Pack sur la délivrabilité des e-mails : Importer une liste de contrôle {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# Power Pack de délivrabilité des e-mails : comment importer une liste de contrôle {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
 Une liste de contrôle est une liste de comptes de messagerie de plusieurs fournisseurs de messagerie, dont Google Apps, Hotmail, Yahoo !, etc., qui est utilisée pour estimer le taux de délivrabilité des boîtes de réception par rapport à celui des dossiers de spam. Vous trouverez ci-dessous les étapes à suivre pour intégrer cette liste à votre instance Marketo Engage.
 

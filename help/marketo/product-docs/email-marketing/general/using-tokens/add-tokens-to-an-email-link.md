@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147360
-description: Ajout de jetons à un lien e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des jetons à des liens d’e-mail. Insérer des valeurs dynamiques dans les URL de lien pour la personnalisation et le tracking.
 title: Ajouter des jetons à un lien d’e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 16%
 
 ---
 

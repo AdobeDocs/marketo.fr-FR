@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359832
-description: Renommer un flux - Documents Marketo - Documentation du produit
+description: Découvrez comment renommer un flux de programme d’engagement.
 title: Renommer un flux
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 10%
+source-wordcount: '61'
+ht-degree: 9%
 
 ---
 

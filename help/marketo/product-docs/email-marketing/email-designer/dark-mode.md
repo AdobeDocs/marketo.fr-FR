@@ -1,11 +1,12 @@
 ---
-description: Mode Sombre - Documents Marketo - Documentation Du Produit
+description: Découvrez comment concevoir des e-mails pour le mode sombre dans le Designer d’e-mail. Définissez l’affichage du mode sombre personnalisé pour la prise en charge des clients de messagerie.
 title: Mode sombre
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1232'
 ht-degree: 42%
 
 ---

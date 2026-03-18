@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger - Définir Des Critères Champion - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir des critères Champion pour les tests d’e-mail. Définissez les règles qui déterminent quelle variante remporte le test Champion/Challenger.
 title: Champion/Challenger - Définir les critères du champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '188'
 ht-degree: 5%
 
 ---
@@ -49,7 +49,7 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo autorise uniquement les déclencheurs pour les personnes à qui cet e-mail a été envoyé à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre « E-mail [!UICONTROL &#x200B; envoyé &#x200B;] ».
+   Marketo autorise uniquement les déclencheurs pour les personnes à qui cet e-mail a été envoyé à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre « E-mail [!UICONTROL  envoyé ] ».
 
 1. Cliquez sur **[!UICONTROL Fermer]**.
 

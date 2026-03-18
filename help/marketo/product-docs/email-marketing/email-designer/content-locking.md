@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Verrouillage de contenu dans les modèles d’e-mails
-description: Découvrez comment verrouiller le contenu dans vos modèles d’e-mail.
+description: Découvrez comment verrouiller le contenu de modèles d’e-mail pour empêcher d’autres personnes de le modifier. Protégez les sections du Designer d’e-mail par souci de cohérence.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '891'
-ht-degree: 75%
+source-wordcount: '903'
+ht-degree: 73%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359483
-description: Présentation Des Options De Test Des E-Mails - Documents Marketo - Documentation Du Produit
+description: Découvrez les options de test d’e-mail pour les tests A/B. Comprendre l’objet, l’ensemble de l’e-mail, l’adresse de l’expéditeur et les tests date/heure.
 title: Présentation des options de test d’e-mail
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 11%
+source-wordcount: '109'
+ht-degree: 10%
 
 ---
 
@@ -21,6 +21,6 @@ Ceci s&#39;applique aux e-mails à usage unique qui utilisent des programmes de 
 
 ## Email Champion/Challenger {#email-champion-challenger}
 
-Pour les e-mails continus utilisés dans les campagnes intelligentes de déclenchement ou les programmes d’engagement, vous pouvez ajouter le test [&#x200B; champion/challenger d’e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Cela introduira des variations dans un pourcentage continu de destinataires.
+Pour les e-mails continus utilisés dans les campagnes intelligentes de déclenchement ou les programmes d’engagement, vous pouvez ajouter le test [ champion/challenger d’e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Cela introduira des variations dans un pourcentage continu de destinataires.
 
 Happy Testing !

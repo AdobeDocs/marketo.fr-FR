@@ -1,14 +1,14 @@
 ---
 solution: Marketo Engage
 product: marketo
-description: Bienvenue dans le nouveau concepteur d’e-mail d’Adobe Marketo Engage.
+description: Découvrez Email Designer et son éditeur de glisser-déposer. Créez et personnalisez des modèles d’e-mail dans Marketo Engage pour une meilleure productivité.
 title: Vue d’ensemble
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 735721e66b1cd2e21df5c2b85051d4bfee44d2e0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 98%
+source-wordcount: '680'
+ht-degree: 95%
 
 ---
 

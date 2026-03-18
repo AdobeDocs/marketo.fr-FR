@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: Planification des programmes d’engagement avec le fuseau horaire du destinataire - Documents Marketo - Documentation du produit
+description: Découvrez comment planifier les diffusions du programme d’engagement avec le fuseau horaire du destinataire. Définissez le premier cast au moins 25 heures à l'avance pour la livraison globale.
 title: Planifier des programmes d’engagement avec le fuseau horaire de la personne destinataire
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '207'
+ht-degree: 9%
 
 ---
 
@@ -30,4 +30,4 @@ Lorsque vous planifiez un flux de programme d’engagement et que le fuseau hora
 >[!MORELIKETHIS]
 >
 >* [Présentation du fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Définir la cadence du flux](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [Définir le rythme du stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

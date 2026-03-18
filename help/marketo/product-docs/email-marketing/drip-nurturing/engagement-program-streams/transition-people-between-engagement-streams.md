@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359947
-description: Transition Des Personnes Entre Les Flux D’Engagement - Documents Marketo - Documentation Du Produit
+description: Découvrez comment configurer des règles de transition pour déplacer des personnes entre les flux d’engagement. Définissez des règles sur le flux que vous souhaitez extraire.
 title: Transférer des personnes entre des flux d’engagement
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 5%
+source-wordcount: '250'
+ht-degree: 6%
 
 ---
 

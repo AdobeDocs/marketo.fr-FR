@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359890
-description: Comprendre le score de l’engagement - Documents Marketo - Documentation du produit
+description: Découvrez le score d’engagement (0 à 100) et comment il mesure l’efficacité du contenu. Utilisez le tableau de bord pour comparer les performances du contenu.
 title: Présentation du score d’engagement
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 4%
 
 ---

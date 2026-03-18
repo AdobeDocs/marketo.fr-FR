@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953572
-description: Présentation Des Programmes De Messagerie - Documents Marketo - Documentation Du Produit
+description: Découvrez les programmes de messagerie et le panneau de contrôle. Envoyez des e-mails, exécutez des tests A/B et affichez les tableaux de bord au même endroit.
 title: Présentation des programmes d’e-mail
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '331'
 ht-degree: 3%
 
 ---

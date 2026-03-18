@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359451
-description: Choose an Existing Email - Marketo Docs - Product Documentation
+description: Découvrez comment choisir un e-mail existant pour un programme de messagerie. Faites votre choix parmi les e-mails de Design Studio ou locaux pour votre programme.
 title: Choisir un e-mail existant
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 3%
+source-wordcount: '241'
+ht-degree: 4%
 
 ---
 

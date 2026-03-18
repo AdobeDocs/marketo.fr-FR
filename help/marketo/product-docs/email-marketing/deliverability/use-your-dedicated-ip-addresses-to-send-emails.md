@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: Utiliser vos adresses IP dédiées pour envoyer des e-mails - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser des adresses IP dédiées pour l’envoi d’e-mails dans Marketo. Bénéficiez d’une assistance sur le préchauffage d’adresses IP et la configuration DNS de la part de consultants en délivrabilité.
 title: Utiliser vos adresses IP dédiées pour envoyer des e-mails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---
@@ -38,8 +38,8 @@ Pour optimiser la délivrabilité à long terme, les consultants en délivrabili
 
 >[!TIP]
 >
->Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige &#x200B;](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. Ne pas envoyer de spam.
+>Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige ](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. Ne pas envoyer de spam.
 
 >[!CAUTION]
 >
->Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez bénéficier d’une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.
+>Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support). Si vous souhaitez bénéficier d’une assistance plus ciblée pour savoir comment gérer une base de données propre et augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.

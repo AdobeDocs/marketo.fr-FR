@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359659
-description: Ajouter du contenu à un flux - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des e-mails ou des programmes à un flux de programmes d’engagement. Utilisez le bouton Ajouter du contenu ou l’icône plus pour créer votre contenu.
 title: Ajouter du contenu à un flux
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952678
-description: Utilisez le jeton Envoyer le jeton d’information d’alerte {{SP_Send_Alert_Info}} - Documents Marketo - Documentation du produit .
+description: Découvrez comment utiliser le jeton Envoyer le jeton d’informations d’alerte dans les e-mails. Insérez dynamiquement des détails d’envoi tels que l’heure et le nom du programme.
 title: Utiliser le jeton d’envoi d’information d’alerte
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '268'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Le jeton `{{SP_Send_Alert_Info}}` est un jeton spécial à utiliser lors de la c
 
 >[!TIP]
 >
->Ce jeton ne fonctionne que comme prévu lors de l’envoi de l’e-mail le contenant avec l’étape de flux [&#x200B; Envoyer une alerte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Elle ne fonctionne pas lorsqu’elle est utilisée dans une étape de flux Envoyer un e-mail .
+>Ce jeton ne fonctionne que comme prévu lors de l’envoi de l’e-mail le contenant avec l’étape de flux [ Envoyer une alerte ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Elle ne fonctionne pas lorsqu’elle est utilisée dans une étape de flux Envoyer un e-mail .
 
 Exemple d’alerte :
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900567
-description: Annuler dans Éditeur d’e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment annuler les modifications dans l’éditeur d’e-mail. Annulez les modifications lors de la création d’e-mails dans Marketo.
 title: Annuler dans l’éditeur d’e-mail
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '78'
+ht-degree: 12%
 
 ---
 

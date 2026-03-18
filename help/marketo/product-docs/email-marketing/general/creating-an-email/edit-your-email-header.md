@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359453
-description: Modifier L’En-Tête De Votre E-Mail - Documents Marketo - Documentation Du Produit
+description: Découvrez comment modifier l’en-tête de votre e-mail (à partir du nom, de l’e-mail, de la réponse, de l’objet). Définissez les champs d’en-tête dans l’éditeur d’e-mail.
 title: Modifier l’en-tête de votre e-mail
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 

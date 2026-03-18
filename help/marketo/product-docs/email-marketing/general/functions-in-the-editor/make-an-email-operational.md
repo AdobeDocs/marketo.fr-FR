@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147354
-description: Rendre un e-mail opérationnel - Documents Marketo - Documentation du produit
+description: Découvrez comment rendre un e-mail opérationnel afin qu’il puisse atteindre les personnes désabonnées. À utiliser pour les communications transactionnelles ou requises.
 title: Rendre un e-mail opérationnel
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '173'
 ht-degree: 4%
 
 ---

@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Jetons Personalization
-description: Découvrez comment utiliser les jetons de personnalisation dans le nouveau Designer d’e-mail de Marketo Engage.
+title: Jetons de personnalisation
+description: Découvrez comment utiliser des jetons de personnalisation dans le Designer d’e-mail. Ajoutez des données de destinataire dynamiques au contenu de votre e-mail.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '247'
+ht-degree: 1%
 
 ---
 
-# Jetons Personalization {#personalization-tokens}
+# Jetons de personnalisation {#personalization-tokens}
 
 Le Concepteur d’email a un format différent de celui de l’éditeur d’email classique en ce qui concerne les jetons de personnalisation d’email. La modification a été mise en œuvre pour améliorer la compatibilité avec les scripts Handlebar et rationaliser votre processus de création d’e-mail.
 
@@ -25,7 +25,7 @@ Le Concepteur d’email a un format différent de celui de l’éditeur d’emai
 
 ## Cas d’utilisation du Principal {#primary-use-case}
 
-Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
+Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
 
 ## Expérience de jeton {#token-experience}
 

@@ -1,20 +1,21 @@
 ---
 title: Concevoir du contenu accessible
-description: Découvrez comment concevoir du contenu accessible pour vos emails dans Adobe Marketo Engage.
+description: Découvrez comment concevoir du contenu d’e-mail accessible dans Marketo Engage. Appliquez les bonnes pratiques afin que les e-mails fonctionnent pour tous les destinataires.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: e-mail, conception, accessibilité
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1374'
 ht-degree: 45%
 
 ---
 
 # Concevoir du contenu accessible {#accessible-content}
 
-La [loi européenne sur l&#39;accessibilité](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32019L0882){target="_blank"} est une directive visant à renforcer le marché intérieur des produits et services accessibles en éliminant les obstacles dus aux différences entre les règles nationales des États membres.
+La [loi européenne sur l&#39;accessibilité](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} est une directive visant à renforcer le marché intérieur des produits et services accessibles en éliminant les obstacles dus aux différences entre les règles nationales des États membres.
 
 Ce règlement stipule que toutes les communications numériques, y compris les e-mails, les newsletters, les fichiers PDF et le contenu téléchargeable, doivent être accessibles. Lors de la création de contenu pour vos destinataires, vous devez donc suivre des instructions spécifiques, telles que l’utilisation de polices et de formats lisibles accessibles, et fournir un texte secondaire pour les images.
 

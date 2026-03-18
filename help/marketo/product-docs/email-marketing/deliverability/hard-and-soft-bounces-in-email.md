@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147328
-description: Erreurs hard et soft dans les e-mails - Documents Marketo - Documentation du produit
+description: Découvrez les erreurs hard et soft, ainsi que la manière dont Marketo les classe. Utilisez les champs E-mail suspendu et E-mail non valide pour gérer les problèmes de diffusion.
 title: Rebonds définitifs et temporaires dans les e-mails
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 15%
+source-wordcount: '298'
+ht-degree: 14%
 
 ---
 
@@ -33,7 +33,7 @@ Dans Marketo, 5 chaînes de personne sont liées à la diffusion d’e-mails en 
 
 >[!PREREQUISITES]
 >
->Pour créer un rapport sur les performances des e-mails[&#x200B; qui générera des données de bounce](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) procédez comme suit.
+>Pour créer un rapport sur les performances des e-mails[ qui générera des données de bounce](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) procédez comme suit.
 
 Après avoir créé votre rapport sur les performances des e-mails, l’écran doit ressembler à ceci :
 

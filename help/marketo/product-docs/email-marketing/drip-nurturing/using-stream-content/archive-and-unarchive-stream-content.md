@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359930
-description: Archiver et désarchiver du contenu de flux - Documents Marketo - Documentation du produit
+description: Découvrez comment archiver ou désarchiver du contenu de flux pour conserver l’historique.
 title: Archiver et désarchiver du contenu en flux
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '154'
 ht-degree: 7%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900548
-description: Prévisualiser un e-mail avec du contenu dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment prévisualiser des e-mails avec du contenu dynamique. Découvrez comment les variantes s’affichent pour différents segments avant l’envoi.
 title: Prévisualiser un e-mail avec du contenu dynamique
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 11%
+source-wordcount: '122'
+ht-degree: 10%
 
 ---
 

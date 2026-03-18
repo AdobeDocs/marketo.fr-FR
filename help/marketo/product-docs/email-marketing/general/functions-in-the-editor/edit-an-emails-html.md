@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900554
-description: Modification d’une documentation HTML de messagerie - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier directement l’HTML d’un email. Accédez à la vue HTML pour apporter des modifications avancées à votre code e-mail.
 title: Modifier la version HTML d’un e-mail
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '359'
 ht-degree: 4%
 
 ---
@@ -52,7 +52,7 @@ Ces modifications de code **n’** pas isolent un e-mail de son modèle :
 * Modification des attributs spécifiques à mkto (par exemple, « mktoName » ou « mktoImgUrl ») de tout élément en dehors d’un module
 * Modification du contenu d’un élément (texte enrichi, image, vidéo, etc.) en dehors d’un module
 
-L’éditeur de code vous permet d’effectuer les opérations suivantes **&#x200B;**&#x200B;à séparer l’e-mail de son modèle :
+L’éditeur de code vous permet d’effectuer les opérations suivantes **** à séparer l’e-mail de son modèle :
 
 * Modification de tout élément du code en dehors d’un élément ou d’un module
 * Ajouter ou modifier des attributs non-mkto (par exemple, « id » ou « style ») de tout élément en dehors d&#39;un module

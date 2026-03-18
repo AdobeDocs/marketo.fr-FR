@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900558
-description: Modification d’éléments dans un e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier des éléments dans un email dans l’éditeur d’email 2.0. Modifiez le texte, les images et d’autres modules dans votre disposition d’e-mail.
 title: Modifier des éléments dans un e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '499'
-ht-degree: 2%
+source-wordcount: '512'
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Les e-mails peuvent contenir quatre éléments différents : texte enrichi, imag
 
    >[!NOTE]
    >
-   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [&#x200B; Utilisation de l’éditeur de texte enrichi &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Vous pouvez également ajouter des images, des jetons, des tableaux et d’autres éléments. Voir [ Utilisation de l’éditeur de texte enrichi ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -67,7 +67,7 @@ Les e-mails peuvent contenir quatre éléments différents : texte enrichi, imag
    >
    >Si vous souhaitez utiliser un jeton Marketo, utilisez cette option. Gardez à l’esprit que lorsque vous utilisez un jeton, l’image semble endommagée dans l’éditeur, mais s’affiche en mode Aperçu et dans l’exemple d’e-mail d’envoi.
 
-   Pour utiliser une URL externe, collez d’abord l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du [!UICONTROL &#x200B; Texte de remplacement &#x200B;] (facultatif). Appuyez ensuite sur **[!UICONTROL Swap]**.
+   Pour utiliser une URL externe, collez d’abord l’URL de l’image. Modifiez les dimensions en fonction de vos besoins et ajoutez du [!UICONTROL  Texte de remplacement ] (facultatif). Appuyez ensuite sur **[!UICONTROL Swap]**.
 
    ![](assets/eight.png)
 

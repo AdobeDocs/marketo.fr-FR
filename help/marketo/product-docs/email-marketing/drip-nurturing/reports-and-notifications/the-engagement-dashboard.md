@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359685
-description: Tableau de bord de l’engagement - Documents Marketo - Documentation du produit
+description: Découvrez le tableau de bord de l’engagement et comment il affiche les performances du contenu. Affichez les widgets Épuisement, Engagement au fil du temps et Engagement le plus élevé.
 title: Le tableau de bord d’engagement
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '291'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Le tableau de bord de l’engagement est le moyen le plus simple de voir les per
 
 >[!NOTE]
 >
->Le score d’engagement inclut les données de vos trois derniers lancements. Une nouvelle est calculée 72 heures après chaque plâtre. En savoir plus sur le [&#x200B; score d’engagement &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Le score d’engagement inclut les données de vos trois derniers lancements. Une nouvelle est calculée 72 heures après chaque plâtre. En savoir plus sur le [ score d’engagement ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Afficher le tableau de bord de l’engagement {#view-the-engagement-dashboard}
 

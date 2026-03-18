@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983291
-description: Présentation Du Fuseau Horaire Des Destinataires - Documents Marketo - Documentation Du Produit
+description: Découvrez la planification du fuseau horaire du destinataire pour les programmes de messagerie. Diffuser des e-mails au même moment local pour chaque destinataire.
 title: Présentation du fuseau horaire de la personne destinataire
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 3%
+source-wordcount: '407'
+ht-degree: 2%
 
 ---
 

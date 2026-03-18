@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504840
-description: Abandon Du Programme De Messagerie Électronique - Documents Marketo - Documentation Du Produit
+description: Découvrez comment abandonner un programme de messagerie avant ou pendant l’envoi. Arrêtez la diffusion et gérez l’audience restante selon les besoins.
 title: Abandonner le programme d’e-mail
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '106'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359877
-description: Désactiver et activer les notifications de contenu épuisées - Documents Marketo - Documentation du produit
+description: Découvrez comment activer ou désactiver les notifications de contenu épuisées. Utilisez l’onglet Configuration et le paramètre Notifications de contenu épuisé pour votre programme.
 title: Désactiver et activer les notifications de contenu épuisé
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 15%
+source-wordcount: '104'
+ht-degree: 17%
 
 ---
 

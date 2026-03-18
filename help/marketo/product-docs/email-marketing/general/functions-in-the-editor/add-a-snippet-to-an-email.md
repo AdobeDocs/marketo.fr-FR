@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147358
-description: Ajout d’un fragment de code à un e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un fragment de code à un e-mail. Insérez des blocs de contenu réutilisables de la bibliothèque de fragments de code dans vos e-mails.
 title: Ajouter un extrait à un e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '162'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ Les fragments de code sont des blocs de texte enrichi et de graphiques réutilis
 
 >[!NOTE]
 >
->[&#x200B; Vous ne pouvez pas incorporer de syntaxe d&#39;e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Marketo dans des fragments de code ; elle ne fonctionnera **pas** dans un e-mail. Les fragments de code doivent simplement être du contenu (HTML + TEXTE).
+>[ Vous ne pouvez pas incorporer de syntaxe d&#39;e-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Marketo dans des fragments de code ; elle ne fonctionnera **pas** dans un e-mail. Les fragments de code doivent simplement être du contenu (HTML + TEXTE).
 
 1. Recherchez votre e-mail, sélectionnez-le et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 

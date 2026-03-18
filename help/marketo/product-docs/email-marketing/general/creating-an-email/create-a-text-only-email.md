@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900556
-description: Créer un e-mail texte uniquement - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un e-mail texte uniquement dans Marketo. Utilisez la version texte pour les campagnes en texte brut ou comme solution de secours.
 title: Créer un e-mail texte uniquement
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '197'
 ht-degree: 9%
 
 ---
