@@ -23,7 +23,7 @@ Adobe Experience Manager _Assets as a Cloud Service_ offre une solution cloud fa
 
 >[!NOTE]
 >
->Actuellement, seules les ressources d’image de _Adobe Experience Manager Assets_ sont prises en charge dans Marketo Engage. Les modifications apportées aux ressources doivent être effectuées à partir du référentiel central d’Adobe Experience Manager Assets. [En savoir plus](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Actuellement, seules les ressources d’image de _Adobe Experience Manager Assets_ sont prises en charge dans Marketo Engage. Les modifications apportées aux ressources doivent être effectuées à partir du référentiel central d’Adobe Experience Manager Assets. [En savoir plus](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Lien vers vos services cloud AEM {#link-to-your-aem-cloud-services}
 
@@ -51,7 +51,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier AEM C
    >
    >* Seuls les référentiels qui ont été associés dans la même organisation IMS que votre abonnement Marketo Engage sont répertoriés.
    >
-   >* Marketo Engage ne prend en charge que les référentiels du niveau Diffusion . Si vous utilisez le niveau Auteur et souhaitez le convertir, contactez l’assistance technique de [Adobe Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
+   >* Marketo Engage ne prend en charge que les référentiels du niveau Diffusion . Si vous utilisez le niveau Auteur et souhaitez le convertir, contactez l’assistance technique de [Adobe Experience Manager](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. Vous devez ajouter un [certificat d’identification de service](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) pour configurer le référentiel. Cliquez sur le bouton **+ Ajouter un certificat**.
 
@@ -89,7 +89,7 @@ Si votre environnement comporte une ou plusieurs connexions au référentiel de 
 
 >[!IMPORTANT]
 >
->Un administrateur doit ajouter des utilisateurs qui doivent accéder aux ressources aux profils de produit Utilisateurs consommateurs Assets et/ou Utilisateurs Assets . [En savoir plus](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Un administrateur doit ajouter des utilisateurs qui doivent accéder aux ressources aux profils de produit Utilisateurs consommateurs Assets et/ou Utilisateurs Assets . [En savoir plus](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Dans l’éditeur de contenu visuel, cliquez sur l’icône _Sélecteur de ressources Experience Manager_ dans la barre latérale gauche. Le panneau Outils devient alors une liste des ressources disponibles dans le référentiel sélectionné.
 
