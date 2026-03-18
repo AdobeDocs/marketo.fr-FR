@@ -83,7 +83,7 @@ Lorsque la vue Détails de la personne est ouverte, cliquez sur **[!UICONTROL Mo
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Deux listes déroulantes s’affichent : [!UICONTROL  Type d’autorisation ] et [!UICONTROL Type de Source].
+Deux listes déroulantes s’affichent : [!UICONTROL &#x200B; Type d’autorisation &#x200B;] et [!UICONTROL Type de Source].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 

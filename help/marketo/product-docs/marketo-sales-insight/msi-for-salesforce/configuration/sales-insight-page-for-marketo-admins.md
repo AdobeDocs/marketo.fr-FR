@@ -60,7 +60,7 @@ Par défaut, [!DNL Marketo Sales Insight] utilise le champ Score du lead pour ca
 
    >[!MORELIKETHIS]
    >
-   >[Étoiles et flammes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+   >[Étoiles et flammes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Paramètres {#settings}
 

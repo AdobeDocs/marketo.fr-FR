@@ -93,7 +93,7 @@ L’autorisation des objets mentionnés ci-dessous, des classes apex et des page
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. Faites défiler jusqu’à « [!UICONTROL  Autorisations d’objet personnalisé ] ».
+1. Faites défiler jusqu’à « [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;] ».
 
 1. Supprimez l’accès « Lire, Créer, Modifier et Supprimer » des objets suivants :
 

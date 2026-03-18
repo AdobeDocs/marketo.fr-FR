@@ -43,4 +43,4 @@ Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;ad
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
+   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).

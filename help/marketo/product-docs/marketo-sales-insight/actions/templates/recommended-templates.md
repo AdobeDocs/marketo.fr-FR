@@ -22,7 +22,7 @@ Les modèles recommandés par [!DNL Sales Insight Action] vous aident à obtenir
 
    ![](assets/recommended-templates-2.png)
 
-1. Dans la vignette [!UICONTROL  Modèle recommandé ], cliquez sur **[!UICONTROL Modifier]**.
+1. Dans la vignette [!UICONTROL &#x200B; Modèle recommandé &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/recommended-templates-3.png)
 

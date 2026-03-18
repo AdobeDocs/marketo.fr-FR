@@ -84,9 +84,9 @@ De même, les panneaux Compte et Opportunité comprennent les colonnes [!UICONTR
 
 L’onglet Conversation est également inclus dans votre onglet Marketo global . Il comprend trois types d’activités ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint]), ainsi que les colonnes suivantes :
 
-* [!UICONTROL  Personne ]
+* [!UICONTROL &#x200B; Personne &#x200B;]
 * [!UICONTROL Compte]
-* [!UICONTROL  Type d’activité ] ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint])
+* [!UICONTROL &#x200B; Type d’activité &#x200B;] ([!UICONTROL Boîte de dialogue engagée], [!UICONTROL Rendez-vous prévu], [!UICONTROL Objectif atteint])
 * [!UICONTROL Nom de la boîte de dialogue]
 * [!UICONTROL Date]
 

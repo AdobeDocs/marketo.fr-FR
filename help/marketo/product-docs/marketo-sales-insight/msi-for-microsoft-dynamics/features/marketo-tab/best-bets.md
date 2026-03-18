@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # [!DNL Best Bets] {#best-bets}
 
-L’onglet [!UICONTROL  Meilleurs résultats ] comprend une liste de tous vos leads en fonction de leur priorité, calculée à l’aide de l’urgence et du score relatif.
+L’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] comprend une liste de tous vos leads en fonction de leur priorité, calculée à l’aide de l’urgence et du score relatif.
 
 En cliquant sur le menu en forme de point dans la colonne Actions, vous pouvez utiliser des options d’engagement telles que :
 

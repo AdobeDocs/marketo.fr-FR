@@ -69,7 +69,7 @@ Onglet Événement :
 * Cette grille dynamique comprend les moments significatifs, les e-mails et l’activité web au cours des 90 derniers jours
 * L’utilisateur peut mettre en surbrillance une semaine spécifique afin d’afficher les activités de cette semaine
 * Affichage par défaut : la semaine en cours est sélectionnée
-* La fonctionnalité « [!UICONTROL  Afficher l’activité du compte ] » n’est pas disponible sur les prospects, car elle ne fait partie d’aucun compte dans [!DNL Salesforce] jusqu’à sa conversion en contact
+* La fonctionnalité « [!UICONTROL &#x200B; Afficher l’activité du compte &#x200B;] » n’est pas disponible sur les prospects, car elle ne fait partie d’aucun compte dans [!DNL Salesforce] jusqu’à sa conversion en contact
 
 **Analyse et résumé de l’engagement**
 
@@ -175,4 +175,4 @@ Onglet Événement :
 
 >[!NOTE]
 >
->Si votre compte ou votre opportunité compte plus de 800 contacts, le tableau de bord n’affiche aucune donnée. Cependant, vous pouvez accéder à des contacts individuels pour voir leurs informations et leur engagement. Si votre compte comporte plus de 800 contacts, l’option « [!UICONTROL  Afficher l’activité au niveau du compte ] » est désactivée.
+>Si votre compte ou votre opportunité compte plus de 800 contacts, le tableau de bord n’affiche aucune donnée. Cependant, vous pouvez accéder à des contacts individuels pour voir leurs informations et leur engagement. Si votre compte comporte plus de 800 contacts, l’option « [!UICONTROL &#x200B; Afficher l’activité au niveau du compte &#x200B;] » est désactivée.

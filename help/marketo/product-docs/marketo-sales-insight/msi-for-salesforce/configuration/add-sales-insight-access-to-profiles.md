@@ -68,7 +68,7 @@ Si vous disposez d’un profil dédié pour vos utilisateurs [!DNL Sales Insight
 
 1. Sélectionnez **[!UICONTROL Modifier l’affectation]**.
 
-1. Sélectionnez le profil de votre [!DNL Sales Insight] dans la liste, puis sélectionnez la mise en page de votre [!DNL Sales insight] dans le menu déroulant « [!UICONTROL  Sélectionner la mise en page ] ».
+1. Sélectionnez le profil de votre [!DNL Sales Insight] dans la liste, puis sélectionnez la mise en page de votre [!DNL Sales insight] dans le menu déroulant « [!UICONTROL &#x200B; Sélectionner la mise en page &#x200B;] ».
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 

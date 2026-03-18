@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNLBest Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
+>[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNL Best Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
 
 ## Activation de l’application mobile [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 

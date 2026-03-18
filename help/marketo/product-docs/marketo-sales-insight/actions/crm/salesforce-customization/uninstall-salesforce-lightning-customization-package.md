@@ -172,7 +172,7 @@ La vue Compte ne comporte qu’un seul bouton - « Envoyer MSE Email » et les c
 
 1. Cliquez sur **[!UICONTROL Personnaliser mes onglets]**.
 
-1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL  Supprimer ], puis sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL &#x200B; Supprimer &#x200B;], puis sur **[!UICONTROL Enregistrer]**.
 
 ## Supprimer [!DNL Sales Connect] package {#delete-sales-connect-package}
 

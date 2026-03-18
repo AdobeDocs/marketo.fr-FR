@@ -57,7 +57,7 @@ Votre instance Actions devra être activée avec un compte de production Salesfo
 
 1. Activez-le avec votre instance de production Salesforce.
 
-1. Suivez les invites pour configurer le compte. Pour une présentation détaillée, consultez notre article [ Intégration des utilisateurs ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
+1. Suivez les invites pour configurer le compte. Pour une présentation détaillée, consultez notre article [&#x200B; Intégration des utilisateurs &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
 
 ## Préparez votre instance Actions pour qu’elle soit compatible avec votre instance Salesforce Sandbox {#prepare-your-actions-instance}
 
@@ -73,7 +73,7 @@ Les actions nécessitent que vous activiez d’abord une nouvelle instance avec 
 
 ## Demandez la conversion de votre instance Actions pour qu’elle soit compatible avec votre sandbox Salesforce {#request-your-actions-instance-be-converted}
 
-1. Contactez l’assistance Marketo Engage [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour demander que votre nouvelle instance d’actions Sales Insight soit configurée de manière à être compatible avec Salesforce Sandbox.
+1. Contactez l’assistance Marketo Engage [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour demander que votre nouvelle instance d’actions Sales Insight soit configurée de manière à être compatible avec Salesforce Sandbox.
 
 1. Testez tout est configuré correctement en essayant de vous connecter à l’aide du bouton « Se connecter avec Salesforce » sur la page toutapp.com/login.
 
@@ -89,5 +89,5 @@ Votre instance est maintenant prête à être utilisée avec votre instance Sale
 >
 >* [Connexion de votre compte d’actions Sales Insight à Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
 >* [Guide d’intégration des utilisateurs des actions de vente Insight](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
->* [ Connexion automatique à partir de Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}
+>* [&#x200B; Connexion automatique à partir de Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}
 >* [Paramètres de gestion des connexions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}
