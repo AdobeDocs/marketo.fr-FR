@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352414
 description: Découvrez l’onglet Équipe et les mesures à l’échelle de l’équipe dans Sales Connect. Affichez les e-mails envoyés avec des modèles, le temps d’engagement maximum, les offres conclues et le tableau des scores du représentant.
-title: Présentation de l’onglet [!UICONTROL  Équipe ]
+title: Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
 source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Présentation de l’onglet [!UICONTROL  Équipe ] {#understanding-the-team-tab}
+# Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;] {#understanding-the-team-tab}
 
-Dans l’onglet [!UICONTROL  Équipe ], nous mettons en évidence trois mesures importantes.
+Dans l’onglet [!UICONTROL &#x200B; Équipe &#x200B;], nous mettons en évidence trois mesures importantes.
 
 ## E-mails envoyés avec modèle {#emails-sent-with-template}
 

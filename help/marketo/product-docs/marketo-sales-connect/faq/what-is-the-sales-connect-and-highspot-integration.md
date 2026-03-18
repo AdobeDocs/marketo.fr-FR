@@ -31,7 +31,7 @@ En plus de travailler dans [!DNL Sales Connect] dans un navigateur, l’intégra
 
 ## Activation de l’intégration [!DNL Sales Connect] et [!DNL Highspot] {#enabling-the-sales-connect-and-highspot-integration}
 
-Si vous souhaitez activer l’intégration [!DNL Highspot] pour votre équipe, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support#).
+Si vous souhaitez activer l’intégration [!DNL Highspot] pour votre équipe, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
 ## Utilisation de l’intégration {#how-to-use-the-integration}
 

@@ -19,4 +19,4 @@ Si le journal d’activité des e-mails ne s’affiche pas sur [!DNL Salesforce]
 
 * Contactez votre administrateur [!DNL Salesforce] pour vous assurer que ces paramètres de sécurité n’interfèrent pas avec [!DNL Sales Connect].
 
-* Si vous êtes un administrateur [!DNL Salesforce], vous pouvez voir votre accessibilité des champs sous l’onglet [!UICONTROL  Contrôles de sécurité ]. Les principaux champs avec lesquels [!DNL Sales Connect] interagiront sont les suivants : [!UICONTROL Compte], [!UICONTROL Contacts], [!UICONTROL Opportunité], [!UICONTROL Lead] et [!UICONTROL Tâche].
+* Si vous êtes un administrateur [!DNL Salesforce], vous pouvez voir votre accessibilité des champs sous l’onglet [!UICONTROL &#x200B; Contrôles de sécurité &#x200B;]. Les principaux champs avec lesquels [!DNL Sales Connect] interagiront sont les suivants : [!UICONTROL Compte], [!UICONTROL Contacts], [!UICONTROL Opportunité], [!UICONTROL Lead] et [!UICONTROL Tâche].

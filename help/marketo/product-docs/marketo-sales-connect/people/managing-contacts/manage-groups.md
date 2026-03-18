@@ -39,7 +39,7 @@ Découvrez comment gérer vos groupes dans [!DNL Sales Connect].
 
    >[!NOTE]
    >
-   >Un seul contact à la fois sera ajouté. Pour ajouter plusieurs contacts en même temps, [comme suit ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Un seul contact à la fois sera ajouté. Pour ajouter plusieurs contacts en même temps, [comme suit &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Renseignez les informations du contact et cliquez sur **[!UICONTROL Créer]** (ou **[!UICONTROL Créer et ajouter nouveau]** pour en ajouter un autre).
 

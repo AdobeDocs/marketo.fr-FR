@@ -17,7 +17,7 @@ En activant le verrouillage du contenu, empêchez les utilisateurs non-administr
 
 >[!NOTE]
 >
->Les utilisateurs **** pourront toujours modifier le contenu d’un e-mail au moment de l’envoi ou du lancement d’une campagne.
+>Les utilisateurs **&#x200B;**&#x200B;pourront toujours modifier le contenu d’un e-mail au moment de l’envoi ou du lancement d’une campagne.
 
 1. Dans [!UICONTROL Sales Connect], cliquez sur l’icône des paramètres et sélectionnez **[!UICONTROL Settings]**.
 

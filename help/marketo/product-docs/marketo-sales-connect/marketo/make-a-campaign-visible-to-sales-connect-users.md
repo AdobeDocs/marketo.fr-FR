@@ -35,11 +35,11 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
-1. Ajoutez l’action de flux [!UICONTROL  Moment intéressant ].
+1. Ajoutez l’action de flux [!UICONTROL &#x200B; Moment intéressant &#x200B;].
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. Pour [!UICONTROL  Type ], sélectionnez **[!UICONTROL Web]**.
+1. Pour [!UICONTROL &#x200B; Type &#x200B;], sélectionnez **[!UICONTROL Web]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 

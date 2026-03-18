@@ -17,7 +17,7 @@ Vous pouvez planifier chaque étape e-mail individuelle de votre campagne pour q
 
 Il vous suffit de choisir le moment où vous souhaitez que vos e-mails soient envoyés lors de la création de votre campagne.
 
-Si vous n’avez pas planifié votre première étape ou si vous devez choisir une heure « [!UICONTROL  Envoyer à ] », il vous sera demandé de choisir le moment où votre campagne doit être envoyée, chaque fois que vous ajoutez une personne ou un groupe.
+Si vous n’avez pas planifié votre première étape ou si vous devez choisir une heure « [!UICONTROL &#x200B; Envoyer à &#x200B;] », il vous sera demandé de choisir le moment où votre campagne doit être envoyée, chaque fois que vous ajoutez une personne ou un groupe.
 
 Ouvrez la fenêtre modale [!UICONTROL Ajouter à la campagne] en ajoutant des individus, un groupe ou des personnes sélectionnées, puis cliquez sur **[!UICONTROL Suivant]**.
 

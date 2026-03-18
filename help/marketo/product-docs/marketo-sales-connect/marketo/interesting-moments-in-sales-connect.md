@@ -21,7 +21,7 @@ Les moments intéressants sont la clé pour communiquer avec votre équipe de ve
 
 >[!PREREQUISITES]
 >
->* Vous devez disposer d’une [ connexion au CRM Salesforce ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* Vous devez disposer d’une [&#x200B; connexion au CRM Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
 >* Vous devez être le prospect ou le propriétaire du contact dans Salesforce
 >* Vous devez avoir accès à [accorder l’accès à la connexion Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 

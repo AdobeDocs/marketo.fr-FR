@@ -35,6 +35,6 @@ Ajoutez un modèle Tout préconfiguré au message [!DNL Outlook] en appuyant sur
 
 Nous synchronisons avec tous vos modèles personnels et tous les modèles partagés au sein de l&#39;équipe. Nous extrayons également automatiquement le dernier modèle utilisé et le modèle le plus fréquemment utilisé pour un accès facile.
 
-## Le Bouton [!UICONTROL  Tout ] {#the-tout-it-button}
+## Le Bouton [!UICONTROL &#x200B; Tout &#x200B;] {#the-tout-it-button}
 
 Une fois que votre e-mail personnalisé est rempli et prêt à être utilisé, veillez à toujours cliquer sur le bouton **[!UICONTROL Tout voir]** pour obtenir un tracking. Une boîte s’affichera avec la mention « Attendez, nous ajoutons la magie du suivi ».

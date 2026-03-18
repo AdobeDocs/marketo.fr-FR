@@ -58,4 +58,4 @@ Les clients disposant de l’édition professionnelle de [!DNL Salesforce] devro
 
 [Guide d’installation de Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[ Guide d’installation de Salesforce Lightning ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[&#x200B; Guide d’installation de Salesforce Lightning &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
