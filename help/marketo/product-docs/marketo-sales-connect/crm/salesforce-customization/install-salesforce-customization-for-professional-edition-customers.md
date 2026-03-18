@@ -1,12 +1,12 @@
 ---
 unique-page-id: 27656223
-description: Installation [!DNL Salesforce] personnalisation pour les clients Professional Edition - Documents Marketo - Documentation du produit
+description: Découvrez comment installer la personnalisation de Salesforce Sales Connect pour l’édition professionnelle. Configurez les personnalisations lors de l’utilisation de Salesforce PE.
 title: Installation [!DNL Salesforce] personnalisation pour les clients Professional Edition
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -58,4 +58,4 @@ Les clients disposant de l’édition professionnelle de [!DNL Salesforce] devro
 
 [Guide d’installation de Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[&#x200B; Guide d’installation de Salesforce Lightning &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[ Guide d’installation de Salesforce Lightning ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

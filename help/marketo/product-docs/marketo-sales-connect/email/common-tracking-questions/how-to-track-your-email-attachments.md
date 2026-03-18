@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352537
-description: Comment effectuer le suivi de vos pièces jointes à un e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment effectuer le suivi de vos pièces jointes à un e-mail dans Sales Connect. Rendez les pièces jointes traçables et voyez quand les destinataires ouvrent ou téléchargent.
 title: Comment effectuer le suivi des pièces jointes de vos e-mails
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '168'
 ht-degree: 7%
 
 ---

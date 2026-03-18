@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352637
-description: Ajout de désabonnements automatiques à un modèle - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des désabonnements automatiques à un modèle Sales Connect. Inclure un lien de désabonnement pour permettre aux destinataires de se désinscrire
 title: Ajouter des désabonnements automatiques à un modèle
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '87'
+ht-degree: 11%
 
 ---
 

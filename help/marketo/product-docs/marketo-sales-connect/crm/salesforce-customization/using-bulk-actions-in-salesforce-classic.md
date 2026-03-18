@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762794
-description: Utilisation d’actions en bloc dans  [!DNL Salesforce]  Classic - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser des actions en bloc dans Salesforce Classic avec Sales Connect. Envoyez plusieurs leads ou contacts à Sales Connect en même temps.
 title: Utilisation d’actions en bloc dans  [!DNL Salesforce]  Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,7 @@ e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une d
 
    ![](assets/five-3.png)
 
-1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six.png)
 

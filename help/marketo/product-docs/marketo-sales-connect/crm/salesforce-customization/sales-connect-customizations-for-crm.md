@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745793
-description: Personnalisations [!DNL Sales Connect] pour CRM - Documents Marketo - Documentation du produit
+description: Découvrez les personnalisations de Sales Connect pour CRM et Salesforce. Découvrez les personnalisations disponibles et comment les installer.
 title: Personnalisations [!DNL Sales Connect] pour CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '686'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Les champs et boutons ci-dessous sont créés par l’API Metadata dans Salesfor
 
    ![](assets/one.png)
 
-1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 

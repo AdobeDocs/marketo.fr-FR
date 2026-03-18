@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352536
-description: Fonctionnement du suivi des vues - Documents Marketo - Documentation du produit
+description: Découvrez comment fonctionne le suivi des vues dans Sales Connect. Découvrez quand un e-mail est comptabilisé comme affiché et comment les ouvertures sont suivies.
 title: Fonctionnement du suivi des vues
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '122'
+ht-degree: 6%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Consigner les raisons et les résultats des appels dans Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez comment consigner les raisons des appels et les résultats des appels à Salesforce à partir de Sales Connect. Assurez-vous que la disposition des appels est synchronisée avec les champs Salesforce corrects.
 title: Consigner les raisons des appels et les résultats des appels dans Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '460'
 ht-degree: 4%
 
 ---

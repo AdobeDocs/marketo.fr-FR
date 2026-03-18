@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352412
-description: Ajout D’Une Identité - Documents Marketo - Documentation Du Produit
+description: Découvrez comment ajouter une identité d’e-mail dans Sales Connect. Configurer les identités d’envoi et vérifier les adresses e-mail pour les e-mails trackés
 title: Ajouter une identité
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---

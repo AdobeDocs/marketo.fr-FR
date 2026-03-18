@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352489
-description: Ne pas se connecter à l’historique des activités - Documents Marketo - Documentation du produit
+description: Obtenez de l’aide lorsque l’activité Sales Connect ne s’est pas connectée à l’historique des activités Salesforce. Résolution des problèmes d’appels ou d’e-mails manquants dans l’historique des activités.
 title: N’a pas été consigné dans l’historique des activités.
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 

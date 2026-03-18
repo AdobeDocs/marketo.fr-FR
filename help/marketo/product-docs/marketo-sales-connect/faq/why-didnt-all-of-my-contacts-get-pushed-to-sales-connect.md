@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352491
-description: Pourquoi tous mes contacts n'ont-ils pas été envoyés à Sales Connect ? - Documents Marketo - Documentation sur le produit
+description: Obtenez de l’aide lorsque tous les contacts n’ont pas été transmis à Sales Connect depuis Salesforce. Comprendre les filtres de synchronisation et les critères de contact.
 title: Pourquoi tous mes contacts n’ont-ils pas été envoyés à Sales Connect ?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 

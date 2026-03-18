@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352618
-description: Création d’une campagne - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une campagne Sales Connect avec des étapes d’e-mail, d’appel, d’InMail et de tâche personnalisée. Organisez, planifiez et mesurez les activités de sensibilisation en un seul endroit.
 title: Créer une campagne
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 2%
+source-wordcount: '315'
+ht-degree: 1%
 
 ---
 

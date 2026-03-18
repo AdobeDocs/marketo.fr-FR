@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352543
-description: Emplacement De Destinataire Incorrect - Documents Marketo - Documentation Du Produit
+description: Obtenez de l’aide lorsque l’emplacement du destinataire est incorrect dans Sales Connect. Correction ou mise à jour de l’emplacement d’un contact dans le flux dynamique.
 title: Emplacement de la personne destinataire incorrect
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13796464
-description: Présentation De Sales Connect - Documents Marketo - Documentation Du Produit
+description: Découvrez Marketo Sales Connect et comment il stimule l’engagement tout au long du cycle de vente. Utilisez le flux en direct, les détails de la personne et les campagnes pour lier les ventes au marketing.
 title: Vue d’ensemble de Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 17%
+source-wordcount: '254'
+ht-degree: 15%
 
 ---
 

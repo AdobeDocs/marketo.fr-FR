@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417460
-description: Affectation de tâches aux membres de l’équipe - Documents Marketo - Documentation du produit
+description: Découvrez comment affecter des tâches aux membres de l’équipe dans Sales Connect. Déléguer des tâches d’e-mail ou d’appel depuis le centre de commande ou le flux en direct.
 title: Affectation de tâches à des personnes membres de l’équipe
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+source-wordcount: '131'
+ht-degree: 7%
 
 ---
 

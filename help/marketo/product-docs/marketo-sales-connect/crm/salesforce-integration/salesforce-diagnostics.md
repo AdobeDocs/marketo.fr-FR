@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745730
-description: Diagnostics Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez les diagnostics Salesforce pour Sales Connect. Résolvez les problèmes de connexion et de synchronisation entre Sales Connect et Salesforce.
 title: Diagnostics Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1333'
 ht-degree: 1%
 
 ---
@@ -65,7 +65,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 **Error:** EXPIRED_ACCESS
 **Category:** Authentification
 **Message:** invalid_grant : jeton d’accès/d’actualisation expiré
-**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [&#x200B; dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [ dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Étapes de dépannage :** vous devrez vous authentifier à nouveau. Déconnectez la connexion [!DNL Salesforce] et reconnectez-vous.
 
 <br> 

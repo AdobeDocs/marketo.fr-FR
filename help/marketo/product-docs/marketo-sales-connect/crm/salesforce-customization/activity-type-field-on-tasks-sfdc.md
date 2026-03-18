@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352476
-description: Champ de type d’activité sur Tâches (SFDC) - Documents Marketo - Documentation du produit
+description: Comprenez le champ de type d'activité sur les tâches lors de la synchronisation de Sales Connect avec Salesforce. Découvrez comment les types de tâches sont mappés et affichés dans Salesforce.
 title: Champ Type d’activité dans les tâches (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 6%
+source-wordcount: '268'
+ht-degree: 5%
 
 ---
 

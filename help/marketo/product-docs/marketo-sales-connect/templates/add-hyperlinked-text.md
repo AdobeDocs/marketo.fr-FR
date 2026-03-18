@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352597
-description: Ajout D’Un Texte De Lien Hypertexte - Documents Marketo - Documentation Du Produit
+description: Découvrez comment ajouter du texte avec lien hypertexte à un modèle Sales Connect. Insérer des liens pouvant faire l’objet d’un suivi et les mettre en forme dans l’éditeur de modèles.
 title: Ajouter un lien hypertexte
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 17%
+source-wordcount: '60'
+ht-degree: 13%
 
 ---
 

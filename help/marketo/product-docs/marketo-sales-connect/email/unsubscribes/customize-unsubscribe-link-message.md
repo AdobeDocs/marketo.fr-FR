@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746186
-description: Personnalisation Du Message Du Lien De Désabonnement - Documents Marketo - Documentation Du Produit
+description: Découvrez comment personnaliser le message du lien de désabonnement dans Sales Connect. Modifiez le texte que les destinataires voient pour le lien de désabonnement.
 title: Personnaliser le message du lien de désabonnement
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '215'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Nous avons toujours permis aux équipes de personnaliser leurs messages de lien 
 
    ![](assets/one.png)
 
-1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Désabonnements]**.
+1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Désabonnements]**.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Nous avons toujours permis aux équipes de personnaliser leurs messages de lien 
 
    ![](assets/six.png)
 
-1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **[!UICONTROL Désabonnements]**.
+1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Désabonnements]**.
 
    ![](assets/eight.png)
 

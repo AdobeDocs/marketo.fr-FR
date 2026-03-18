@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081250
-description: Gestion Des Groupes - Documents Marketo - Documentation Du Produit
+description: Découvrez comment gérer les groupes dans Sales Connect. Créez, modifiez, partagez et organisez des groupes de contacts pour les campagnes et la sensibilisation.
 title: Gérer les groupes
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '291'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ Découvrez comment gérer vos groupes dans [!DNL Sales Connect].
 
    >[!NOTE]
    >
-   >Un seul contact à la fois sera ajouté. Pour ajouter plusieurs contacts en même temps, [comme suit &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Un seul contact à la fois sera ajouté. Pour ajouter plusieurs contacts en même temps, [comme suit ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Renseignez les informations du contact et cliquez sur **[!UICONTROL Créer]** (ou **[!UICONTROL Créer et ajouter nouveau]** pour en ajouter un autre).
 

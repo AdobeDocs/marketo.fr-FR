@@ -1,11 +1,11 @@
 ---
-description: Limitation De La Connexion Par E-Mail - Documents Marketo - Documentation Du Produit
+description: Découvrez le ralentissement des connexions aux e-mails dans Sales Connect. Découvrez les limites d’envoi et comment le ralentissement protège la délivrabilité de vos e-mails.
 title: Limitation de la connexion des e-mails
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '388'
 ht-degree: 2%
 
 ---

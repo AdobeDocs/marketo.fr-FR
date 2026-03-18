@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352619
-description: Utilisation de tâches dans les campagnes - Documents Marketo - Documentation du produit
+description: Découvrez le fonctionnement des tâches dans les campagnes Sales Connect. Utilisez les tâches d’e-mail, d’appel, InMail et personnalisées et gérez-les dans le centre de commande ou Salesforce.
 title: Utilisation de tâches dans des campagnes
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 4%
+source-wordcount: '207'
+ht-degree: 3%
 
 ---
 

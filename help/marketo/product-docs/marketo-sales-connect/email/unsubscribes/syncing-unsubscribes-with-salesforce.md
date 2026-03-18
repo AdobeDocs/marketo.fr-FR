@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746188
-description: Synchronisation des désabonnements avec Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez comment synchroniser les désabonnements de Sales Connect avec Salesforce. Gardez le statut d’opt-out synchronisé afin de ne pas envoyer d’e-mail aux contacts désabonnés.
 title: Synchronisation des désabonnements avec Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '430'
 ht-degree: 2%
 
 ---

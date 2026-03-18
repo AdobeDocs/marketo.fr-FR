@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352587
-description: Campaign Est Terminé - Documents Marketo - Documentation Du Produit
+description: Obtenez de l’aide lorsque vous voyez que la campagne s’est terminée dans Sales Connect. Comprenez pourquoi vous ne pouvez pas envoyer de contenu et ce que vous devez faire lorsqu’une campagne est terminée.
 title: La campagne est terminée.
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 8%
+source-wordcount: '93'
+ht-degree: 6%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Octroi de l’accès aux utilisateurs - Documents Marketo - Documentation du produit
+description: Découvrez comment accorder l’accès Sales Connect aux utilisateurs à partir de Marketo. Utilisez l’administration Marketo pour configurer Sales Connect pour votre équipe.
 title: Octroi d’un accès à des utilisateurs et des utilisatrices
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 4%
+source-wordcount: '203'
+ht-degree: 3%
 
 ---
 

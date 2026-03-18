@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352503
-description: Modèles Partagés - Documents Marketo - Documentation Du Produit
+description: Découvrez les modèles partagés dans Sales Connect. Partagez des modèles avec votre équipe ou avec des équipes spécifiques et contrôlez qui peut les modifier.
 title: Modèles partagés
 exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 

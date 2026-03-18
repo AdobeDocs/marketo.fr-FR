@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352631
-description: Fusion et déduplication de catégories - Documents Marketo - Documentation du produit
+description: Découvrez comment fusionner et dédupliquer des catégories de modèles dans Sales Connect. Combiner des catégories et supprimer les doublons.
 title: Supprimer les doublons et fusionner des catégories
 exl-id: c57c54a6-565f-4723-9a93-9b193469bccd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '81'
+ht-degree: 9%
 
 ---
 

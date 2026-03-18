@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352613
-description: Ajout de personnes à votre campagne - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des personnes à une campagne Sales Connect à partir de l’application web, de la page Personnes ou de Gmail et Outlook. Prévisualiser, modifier et planifier la première étape d’e-mail.
 title: Ajouter des personnes à votre campagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---

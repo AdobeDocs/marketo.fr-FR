@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352627
-description: Suppression d’une catégorie de modèles - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer une catégorie de modèles dans Sales Connect. Supprimez une catégorie et, éventuellement, déplacez ou supprimez ses modèles.
 title: Supprimer une catégorie de modèle
 exl-id: 99c64f83-4ff1-4355-af09-0527ca455632
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 15%
+source-wordcount: '63'
+ht-degree: 12%
 
 ---
 

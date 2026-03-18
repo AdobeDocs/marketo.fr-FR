@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45416564
-description: Activer l’enregistrement d’appels - Documents Marketo - Documentation du produit
+description: Découvrez comment activer l’enregistrement des appels dans Sales Connect. Activez l’enregistrement pour le téléphone de vente et respectez le consentement des deux parties.
 title: Activer l’enregistrement des appels
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '119'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352525
-description: E-mail marqué comme indésirable - Documents Marketo - Documentation du produit
+description: Obtenez de l’aide lorsque votre e-mail Sales Connect a été marqué comme indésirable. Découvrez comment réduire les plaintes contre le spam et améliorer la délivrabilité.
 title: E-mails signalés comme spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '231'
 ht-degree: 3%
 
 ---

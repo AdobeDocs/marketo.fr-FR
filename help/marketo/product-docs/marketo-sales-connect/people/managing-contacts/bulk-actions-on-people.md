@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081230
-description: Actions en bloc sur les personnes - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser des actions en bloc sur la page Personnes dans Sales Connect. Ajouter à la campagne, supprimer de la campagne ou supprimer plusieurs contacts.
 title: Actions en masse sur les personnes
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 12%
+source-wordcount: '155'
+ht-degree: 10%
 
 ---
 

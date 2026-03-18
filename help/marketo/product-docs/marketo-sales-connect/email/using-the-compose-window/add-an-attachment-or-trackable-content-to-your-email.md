@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356587
-description: Ajouter une pièce jointe ou du contenu pouvant être suivi à votre e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une pièce jointe ou du contenu traçable à votre e-mail Sales Connect. Joindre des fichiers ou ajouter des liens suivis dans la fenêtre de composition.
 title: Ajouter une pièce jointe ou du contenu pouvant être suivi à votre e-mail
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 6%
+source-wordcount: '301'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352615
-description: Présentation de l’onglet Contenu - Documentation de Marketo - Documentation du produit
+description: Découvrez l’onglet Contenu et les mesures d’engagement des modèles dans Sales Connect. Affichez l’arme secrète, les modèles d’engagement les plus élevés et les plus bas et les principales pièces jointes.
 title: Présentation de l’onglet Contenu
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---

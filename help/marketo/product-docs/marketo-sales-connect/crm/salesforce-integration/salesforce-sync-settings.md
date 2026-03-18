@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317669
-description: Paramètres De Synchronisation De Salesforce - Documentation De Marketo - Documentation Du Produit
+description: comprendre les paramètres de synchronisation Salesforce pour Sales Connect ; Configurez la manière dont les contacts, les activités et les données sont synchronisés entre Sales Connect et Salesforce.
 title: Paramètres de synchronisation Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '436'
 ht-degree: 3%
 
 ---
@@ -111,6 +111,6 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 
    ![](assets/seven-2.png)
 
-1. Choisissez l’option souhaitée (la case « [!UICONTROL &#x200B; Ne pas synchroniser avec les tâches Salesforce &#x200B;] est sélectionnée par défaut).
+1. Choisissez l’option souhaitée (la case « [!UICONTROL  Ne pas synchroniser avec les tâches Salesforce ] est sélectionnée par défaut).
 
    ![](assets/eight.png)

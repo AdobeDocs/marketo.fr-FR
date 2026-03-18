@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356584
-description: Envoi d’e-mails via l’e-mail de groupe - Documents Marketo - Documentation du produit
+description: Découvrez comment envoyer des e-mails par e-mail de groupe dans Sales Connect. Envoyez un e-mail à un groupe et suivez l’engagement par destinataire.
 title: Envoi d’e-mails via la fonction E-mail de groupe
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '175'
+ht-degree: 5%
 
 ---
 

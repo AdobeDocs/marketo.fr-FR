@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352423
-description: Connecter votre compte Sales Connect à Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez comment connecter votre compte Sales Connect à Salesforce. Activez la journalisation des e-mails, des appels et des tâches dans Salesforce.
 title: Connecter votre compte Sales Connect à Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '137'
 ht-degree: 13%
 
 ---
@@ -21,7 +21,7 @@ Pour connecter [!DNL Sales Connect] à [!DNL Salesforce], procédez comme suit.
 
    ![](assets/one.png)
 
-1. Sous [!UICONTROL &#x200B; Admin Settings] cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL  Admin Settings] cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 
@@ -41,7 +41,7 @@ Pour connecter [!DNL Sales Connect] à [!DNL Salesforce], procédez comme suit.
 
    ![](assets/one.png)
 
-1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 

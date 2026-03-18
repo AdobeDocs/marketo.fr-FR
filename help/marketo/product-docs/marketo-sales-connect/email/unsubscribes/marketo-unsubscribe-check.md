@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317340
-description: Vérification du désabonnement de Marketo - Documents Marketo - Documentation du produit
+description: Comprendre la vérification du désabonnement de Marketo dans Sales Connect. Découvrez comment Sales Connect respecte le statut de désabonnement de Marketo lors de l’envoi.
 title: Vérification du désabonnement par Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 4%
+source-wordcount: '201'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ La vérification de désabonnement de [!UICONTROL Marketo] utilise la connexion 
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 ## L&#39;activer {#turning-it-on}
 

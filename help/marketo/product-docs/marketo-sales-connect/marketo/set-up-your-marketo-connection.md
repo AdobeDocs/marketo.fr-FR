@@ -1,11 +1,11 @@
 ---
-description: Configurer Votre Connexion Marketo - Documents Marketo - Documentation Du Produit
+description: Découvrez comment configurer votre connexion Marketo dans Sales Connect. Connectez-vous à Marketo pour vos campagnes et moments intéressants.
 title: Configurer votre connexion Marketo
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '183'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ Vous devez obtenir un ensemble d’informations d’identification dans Marketo.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **[!UICONTROL Marketo]**.
+1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Marketo]**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 

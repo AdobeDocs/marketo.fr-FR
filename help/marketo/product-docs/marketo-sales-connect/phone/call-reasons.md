@@ -1,11 +1,11 @@
 ---
-description: Raisons de l’appel - Documents Marketo - Documentation du produit
+description: Comprendre les raisons des appels dans Sales Connect. Définissez et consignez pourquoi vous avez appelé si la synchronisation des résultats vers Salesforce est correcte.
 title: Raisons des appels
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '176'
 ht-degree: 2%
 
 ---

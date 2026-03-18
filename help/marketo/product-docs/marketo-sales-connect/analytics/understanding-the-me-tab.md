@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352614
-description: Présentation de l’onglet [!UICONTROL Moi] - Documentation de Marketo - Documentation du produit
+description: Découvrez l’onglet Moi et les statistiques de votre engagement par e-mail dans Sales Connect. Affichez les e-mails envoyés, l’utilisation des modèles et vos e-mails les plus attrayants.
 title: Présentation de l’onglet [!UICONTROL Moi]
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

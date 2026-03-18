@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357302
-description: Colonnes d’e-mail et mise en page d’e-mail - Documents Marketo - Documentation du produit
+description: Découvrez les colonnes des e-mails et la disposition des pages des e-mails dans Sales Connect. Personnaliser les colonnes affichées dans le centre de commande et dans les vues d’e-mail.
 title: Colonnes et mise en page des e-mails
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '532'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746470
-description: Configuration d’un canal de diffusion personnalisé - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer un canal de diffusion personnalisé dans Sales Connect. Utilisez votre propre SMTP ou votre propre infrastructure d’envoi pour les e-mails de vente.
 title: Configurationd’ un canal de remise personnalisé
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 4%
+source-wordcount: '398'
+ht-degree: 5%
 
 ---
 
@@ -69,7 +69,7 @@ Les utilisateurs peuvent configurer un serveur SMTP personnalisé pour leur prop
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Connectez-vous à l’[application web](https://toutapp.com/login), cliquez sur l’icône d’engrenage en haut à droite et choisissez **[!UICONTROL Paramètres]**.
 

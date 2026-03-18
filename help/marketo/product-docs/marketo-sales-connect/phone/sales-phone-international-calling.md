@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352434
-description: Appels téléphoniques internationaux - Marketo Docs - Documentation du produit
+description: Découvrez les appels internationaux de Sales Phone dans Sales Connect. Effectuer et consigner des appels internationaux et vérifier les pays pris en charge.
 title: Appels internationaux via Sales Phone
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 14%
+source-wordcount: '409'
+ht-degree: 13%
 
 ---
 

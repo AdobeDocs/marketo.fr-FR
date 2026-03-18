@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352410
-description: Ajouter Votre Signature E-Mail - Documents Marketo - Documentation Du Produit
+description: Découvrez comment ajouter votre signature e-mail dans Sales Connect. Configurez une signature par défaut pour les e-mails de vente envoyés à partir de l’application web ou des modules externes.
 title: Ajouter votre signature d’e-mail
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

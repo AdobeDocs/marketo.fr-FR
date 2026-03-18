@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352436
-description: Présence locale du téléphone commercial - Documents Marketo - Documentation du produit
+description: Découvrez la présence locale du téléphone commercial dans Sales Connect. Afficher un identifiant d'appelant local lors des appels sortants pour améliorer les taux de réponse.
 title: Option de numéro local dans Sales Phone
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '153'
 ht-degree: 5%
 
 ---

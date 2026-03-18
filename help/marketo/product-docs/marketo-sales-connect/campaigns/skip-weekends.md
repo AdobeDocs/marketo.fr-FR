@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352622
-description: Ignorer les week-ends - Documents Marketo - Documentation du produit
+description: Découvrez comment ignorer les week-ends lors de l’automatisation des campagnes Sales Connect. Empêcher l’envoi d’e-mails de campagne le samedi ou le dimanche.
 title: Ignorer les week-ends
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 8%
+source-wordcount: '80'
+ht-degree: 7%
 
 ---
 

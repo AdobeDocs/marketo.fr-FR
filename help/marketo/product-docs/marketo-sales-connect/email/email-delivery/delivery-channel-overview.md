@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352407
-description: Présentation Du Canal De Diffusion - Documents Marketo - Documentation Du Produit
+description: Découvrez les canaux de diffusion dans Sales Connect. Découvrez comment les e-mails sont envoyés et la différence entre les canaux de connexion et personnalisés.
 title: Vue d’ensemble du canal de remise
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---

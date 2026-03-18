@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352438
-description: Présentation téléphonique des ventes - Documents Marketo - Documentation du produit
+description: En savoir plus sur le téléphone commercial dans Sales Connect. Passez des appels depuis l’application, connectez-vous à Salesforce, puis utilisez l’enregistrement des appels et la présence locale.
 title: Vue d’ensemble de Sales Phone
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 2%
+source-wordcount: '312'
+ht-degree: 1%
 
 ---
 

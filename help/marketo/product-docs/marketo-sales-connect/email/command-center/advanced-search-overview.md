@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: Vue D’Ensemble De La Recherche Avancée - Documents Marketo - Documentation Du Produit
+description: Découvrez la recherche avancée dans le centre de commande Sales Connect. Rechercher des e-mails et des tâches par destinataire, date, campagne ou autres filtres.
 title: Vue d’ensemble de la recherche avancée
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '418'
 ht-degree: 4%
 
 ---
@@ -53,7 +53,7 @@ Filtrez par destinataire/expéditeur d’e-mail dans la section [!UICONTROL Qui]
 | **[!UICONTROL Par groupe]** | Filtrer les e-mails par groupe spécifique de destinataires. |
 | **[!UICONTROL Par Personne]** | Filtrez par destinataire spécifique. |
 
-**Lorsque**
+**When**
 
 Choisissez par date de création, date de diffusion, date d’échec ou date planifiée. Les options disponibles changent en fonction du statut de l’e-mail que vous choisissez ([!UICONTROL Envoyé], [!UICONTROL Non diffusé], [!UICONTROL En attente]).
 

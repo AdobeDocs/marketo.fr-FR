@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352621
-description: Présentation Des Options D’Envoi - Documents Marketo - Documentation Du Produit
+description: Découvrez les options d’envoi des étapes d’e-mail de campagne dans Sales Connect. Choisissez quand envoyer, créez des tâches à envoyer vous-même ou filetez des e-mails vers la précédente.
 title: Présentation des options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---

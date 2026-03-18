@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352437
-description: Partager les enregistrements d’appels avec votre équipe - Documents Marketo - Documentation du produit
+description: Découvrez comment partager des enregistrements d’appels Sales Connect avec votre équipe. Accédez aux appels enregistrés et partagez-les à des fins de formation ou de suivi.
 title: Partager les enregistrements des appels avec votre équipe
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 7%
+source-wordcount: '177'
+ht-degree: 6%
 
 ---
 

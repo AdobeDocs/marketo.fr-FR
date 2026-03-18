@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352450
-description: Installation du plug-in de messagerie Sales Connect pour Gmail - Documents Marketo - Documentation du produit
+description: Découvrez comment installer le plug-in de messagerie Sales Connect pour Gmail. Ajoutez le plug-in pour envoyer des e-mails trackés et utiliser des modèles provenant de Gmail.
 title: Installer le plug-in d’e-mail Sales Connect pour Gmail
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 18%
+source-wordcount: '99'
+ht-degree: 16%
 
 ---
 

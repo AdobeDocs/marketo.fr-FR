@@ -1,11 +1,11 @@
 ---
-description: Glossaire des activités commerciales - Documents Marketo - Documentation du produit
+description: En savoir plus sur les conditions de l’activité de vente Sales Connect. Utilisez ce glossaire pour les types d’activité qui se synchronisent avec Marketo et Salesforce.
 title: Glossaire des activités de vente
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '597'
 ht-degree: 8%
 
 ---
@@ -44,7 +44,7 @@ Les activités ci-dessous seront consignées dans le Marketo à partir de [!DNL 
   <td>URL [!UICONTROL Sales Campaign]</td>
  </tr>
  <tr>
-  <td>Nom du modèle de vente </td>
+  <td>Nom du modèle de vente [!UICONTROL]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Email Subject]</td>

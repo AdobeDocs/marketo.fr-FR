@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352521
-description: CC ou Cci dans les e-mails - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser la fonctionnalité Cci ou Cci dans les e-mails Sales Connect. Ajouter des destinataires de copie carbone ou de copie carbone invisible lors de l’envoi d’e-mails suivis.
 title: Cc ou Cci dans les e-mails
 exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 

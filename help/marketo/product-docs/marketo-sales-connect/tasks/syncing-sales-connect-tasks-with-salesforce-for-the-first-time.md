@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352541
-description: Synchronisation des tâches de Sales Connect avec Salesforce pour la première fois - Documents Marketo - Documentation du produit
+description: Découvrez comment synchroniser les tâches de Sales Connect avec Salesforce pour la première fois. Configurez la synchronisation des tâches pour qu’elles apparaissent dans Salesforce.
 title: Synchronisation de tâches Sales Connect avec Salesforce pour la première fois
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '264'
 ht-degree: 3%
 
 ---

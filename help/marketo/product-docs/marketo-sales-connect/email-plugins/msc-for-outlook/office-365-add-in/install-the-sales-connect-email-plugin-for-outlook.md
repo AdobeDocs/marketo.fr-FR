@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352455
-description: Installation du plug-in de messagerie Sales Connect pour Outlook - Documents Marketo - Documentation du produit
+description: Découvrez comment installer le plug-in de messagerie Sales Connect pour Outlook. Ajoutez le plug-in pour envoyer des e-mails trackés et utiliser des modèles Outlook.
 title: Installation du plug-in de messagerie Sales Connect pour Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '197'
+ht-degree: 7%
 
 ---
 

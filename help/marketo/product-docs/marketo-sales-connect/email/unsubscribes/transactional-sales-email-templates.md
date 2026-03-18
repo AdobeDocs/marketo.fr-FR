@@ -1,10 +1,10 @@
 ---
-description: Modèles d’e-mail de ventes transactionnelles - Documents Marketo - Documentation du produit
+description: Découvrez les modèles d’e-mail de vente transactionnels dans Sales Connect. Utilisez des modèles qui contournent le désabonnement pour les messages transactionnels.
 title: Modèles d’e-mail de vente transactionnelle
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '182'
 ht-degree: 5%
 
 ---
@@ -15,7 +15,7 @@ Si votre équipe envoie des e-mails transactionnels ou non commerciaux, vous pou
 
 ## Éléments à noter {#things-to-note}
 
-* Les e-mails non commerciaux contourneront les désabonnements des ventes et la vérification du désabonnement de [Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"} mais ne contourneront pas les domaines [&#x200B; bloqués](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
+* Les e-mails non commerciaux contourneront les désabonnements des ventes et la vérification du désabonnement de [Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"} mais ne contourneront pas les domaines [ bloqués](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
 * Les messages de désabonnement ne seront pas automatiquement ajoutés aux e-mails non commerciaux, même si le paramètre [Ajouter un administrateur de messages de désabonnement](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} est activé. Cependant, le `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} remplira toujours le message de désabonnement de votre équipe.
 
