@@ -1,11 +1,11 @@
 ---
-description: Types d’étapes de campagne commerciale et tâches de rappel - Documents Marketo - Documentation du produit
+description: Découvrez les types d'étapes et les tâches de rappel de la campagne commerciale. Utilisez les étapes E-mail, Appel, InMail et Tâche personnalisée et les tâches de file d’attente dans Command Center et Salesforce.
 title: Types d’étapes de campagne de vente et tâches de rappel
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '331'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377640
-description: Autoriser le plug [!DNL Outlook] in Marketo - Documentation de Marketo - Documentation du produit
+description: Découvrez comment autoriser le plug-in Marketo Outlook. Complétez OAuth pour que les utilisateurs puissent envoyer et suivre des e-mails à partir d'Outlook.
 title: Autoriser le plug [!DNL Outlook] in Marketo
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

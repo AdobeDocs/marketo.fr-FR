@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512944
-description: Utilisation de Marketo Insights pour Google Chrome - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser Marketo Insights pour Google Chrome. Affichez les informations et activités relatives aux personnes et aux comptes lors de la lecture d’e-mails dans Gmail.
 title: Utilisation de Marketo Insights pour Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '291'
 ht-degree: 2%
 
 ---

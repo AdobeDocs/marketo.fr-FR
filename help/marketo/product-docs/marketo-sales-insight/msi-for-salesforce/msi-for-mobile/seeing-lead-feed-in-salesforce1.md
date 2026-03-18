@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512654
-description: Affichage du flux de lead dans Salesforce1 - Documentation de Marketo - Documentation du produit
+description: Découvrez comment afficher le flux de prospects dans Salesforce Mobile (Salesforce1). Affichez l’activité du prospect en temps réel dans le panneau MSI sur mobile.
 title: Afficher le flux de leads dans Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 

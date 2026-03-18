@@ -1,12 +1,12 @@
 ---
-description: Pourquoi tous mes contacts n’ont-ils pas été transmis aux actions de Sales Insight ? - Documents Marketo - Documentation sur le produit
+description: Découvrez pourquoi certains contacts n’ont pas été synchronisés avec les actions Sales Insight. Découvrez le propriétaire des ventes et les exigences de synchronisation pour les prospects et les contacts.
 title: Pourquoi tous mes contacts n’ont-ils pas été envoyés vers Actions des informations sur les ventes ?
 exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '96'
+ht-degree: 12%
 
 ---
 

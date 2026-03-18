@@ -1,11 +1,11 @@
 ---
-description: Connexion de votre compte d’actions Insight Sales à Salesforce - Documentation du produit - Marketo Docs
+description: Découvrez comment connecter votre compte Sales Insight Actions à Salesforce.
 title: Connecter votre compte Actions des informations sur les ventes à Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 9%
 
 ---
@@ -40,7 +40,7 @@ Suivez ces étapes simples pour connecter [!DNL Sales Insight Actions] compte à
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Salesforce]**.
 
 1. Dans l’onglet [!UICONTROL Connexions et personnalisations], cliquez sur **[!UICONTROL Salesforce]** puis **[!UICONTROL Connexion]**.
 

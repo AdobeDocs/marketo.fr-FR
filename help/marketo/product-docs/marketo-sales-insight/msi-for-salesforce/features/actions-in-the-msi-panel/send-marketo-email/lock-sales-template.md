@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981050
-description: Verrouiller le modèle de vente - Documents Marketo - Documentation du produit
+description: Découvrez comment verrouiller un modèle de vente dans Marketo Sales Insight. Empêcher les modifications apportées à un modèle pour que les ventes utilisent la version approuvée.
 title: Verrouiller un modèle de vente
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 4%
+source-wordcount: '225'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ Pour empêcher les utilisateurs CRM de modifier les modèles de vente, les admin
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à **[!UICONTROL Admin]**, puis cliquez sur **[!UICONTROL Insight commerciale]**.
 

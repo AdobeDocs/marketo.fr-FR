@@ -1,12 +1,12 @@
 ---
-description: Quelles sont les conditions d’utilisation de Sales Insight Actions ? - Documents Marketo - Documentation sur le produit
+description: Recherchez les conditions générales de service des actions Sales Insight. Consultez les termes juridiques qui s’appliquent à votre utilisation du produit.
 title: Quelles sont les conditions d’utilisation d’Actions des informations sur les ventes ?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 30%
+source-wordcount: '50'
+ht-degree: 18%
 
 ---
 

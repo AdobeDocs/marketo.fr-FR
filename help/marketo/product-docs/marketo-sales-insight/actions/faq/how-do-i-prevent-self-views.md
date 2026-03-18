@@ -1,11 +1,11 @@
 ---
-description: Comment empêcher les autovisualisations ? - Documents Marketo - Documentation du produit
+description: Découvrez comment empêcher les autoévaluations de compter dans le suivi des e-mails. Évitez de gonfler les statistiques d’ouverture lorsque vous affichez vos propres e-mails.
 title: Comment empêcher les autoévaluations ?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---

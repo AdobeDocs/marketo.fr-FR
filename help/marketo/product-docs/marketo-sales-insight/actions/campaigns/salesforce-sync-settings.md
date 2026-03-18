@@ -1,11 +1,11 @@
 ---
-description: Paramètres De Synchronisation De Salesforce - Documentation De Marketo - Documentation Du Produit
+description: Découvrez comment configurer les paramètres de synchronisation Salesforce pour la journalisation de l’activité des e-mails.
 title: Paramètres de synchronisation Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '643'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Cette fonctionnalité nécessite que vous soyez dans l’édition Enterprise/Unl
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-2.png)
 
@@ -54,7 +54,7 @@ Une fois que vous avez activé « [!UICONTROL E-mail à Salesforce (Cci)] », vo
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-7.png)
 
@@ -98,7 +98,7 @@ Si vous ne voyez pas Mon e-mail à [!DNL Salesforce] sous vos paramètres, il se
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL &#x200B; Mon compte &#x200B;] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL Paramètres d’administration] (ou « [!UICONTROL  Mon compte ] » si vous n’êtes pas administrateur), cliquez sur **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-11.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Envoi d’e-mails via l’e-mail de groupe - Documents Marketo - Documentation du produit
+description: Découvrez comment envoyer des e-mails de vente par e-mail de groupe. Envoyez plusieurs destinataires à la fois par e-mail avec des options de suivi et de personnalisation.
 title: Envoi d’e-mails via la fonction E-mail de groupe
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '172'
+ht-degree: 5%
 
 ---
 

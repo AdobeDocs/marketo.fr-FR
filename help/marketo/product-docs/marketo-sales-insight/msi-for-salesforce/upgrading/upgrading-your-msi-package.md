@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357050
-description: Mise à niveau de votre package MSI - Documents Marketo - Documentation du produit
+description: Découvrez comment mettre à niveau votre package Marketo Sales Insight dans Salesforce. Procurez-vous la dernière version et appliquez la mise à niveau.
 title: Mise à niveau de votre package MSI
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 3%
+source-wordcount: '271'
+ht-degree: 2%
 
 ---
 

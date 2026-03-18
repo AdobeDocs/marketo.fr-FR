@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516390
-description: Installer le package Marketo Sales Insight dans Salesforce AppExchange - Documentation du produit - Marketo
+description: Découvrez comment installer le package Marketo Sales Insight à partir de Salesforce AppExchange. Ajoutez le package à votre instance Salesforce.
 title: Installer le package Informations sur les ventes Marketo dans Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 4%
+source-wordcount: '260'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Vous devez installer l&#39;application [!DNL Marketo Sales Insight] dans votre a
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!NOTE]
 >

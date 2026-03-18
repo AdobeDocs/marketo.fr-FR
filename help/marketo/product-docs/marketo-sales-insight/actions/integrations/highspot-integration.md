@@ -1,11 +1,11 @@
 ---
-description: Intégration Highspot - Documents Marketo - Documentation du produit
+description: Découvrez l’intégration de Highspot aux actions Sales Insight. Utilisez le contenu Highspot dans les e-mails de vente et suivez l’engagement.
 title: Intégration de Highspot
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '346'
 ht-degree: 1%
 
 ---

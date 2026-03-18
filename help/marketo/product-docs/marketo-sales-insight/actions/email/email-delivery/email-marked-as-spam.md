@@ -1,9 +1,9 @@
 ---
-description: E-mail marqué comme indésirable - Documents Marketo - Documentation du produit
+description: Obtenez de l’aide lorsque les e-mails de vente sont marqués comme spam. Découvrez les causes et les étapes pour améliorer la délivrabilité et éviter les filtres de spam.
 title: E-mails signalés comme spam
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '221'
 ht-degree: 3%
 
 ---

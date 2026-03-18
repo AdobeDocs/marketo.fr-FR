@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571739
-description: Installer et configurer Marketo Sales Insight dans Microsoft Dynamics 365 - Documents Marketo - Documentation du produit
+description: Découvrez comment installer et configurer Marketo Sales Insight dans Microsoft Dynamics 365. Ajoutez la solution et connectez-vous à Marketo.
 title: Installer et configurer Informations sur les ventes Marketo dans Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 4%
+source-wordcount: '431'
+ht-degree: 5%
 
 ---
 
@@ -73,7 +73,7 @@ Lions votre instance Marketo à [!DNL Sales Insight] dans [!DNL Dynamics]. Voici
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Connectez-vous à Marketo et accédez à la section **[!UICONTROL Admin]**.
 

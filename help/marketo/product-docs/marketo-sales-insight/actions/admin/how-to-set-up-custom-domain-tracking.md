@@ -1,12 +1,12 @@
 ---
-description: Configuration du suivi de domaine personnalisé - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer le suivi des domaines personnalisés pour que les liens trackables utilisent le domaine de votre entreprise.
 title: Comment configurer le suivi de domaine personnalisé
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 6%
 
 ---
 

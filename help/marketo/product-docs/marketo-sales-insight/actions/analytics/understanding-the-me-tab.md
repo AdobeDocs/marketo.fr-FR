@@ -1,12 +1,12 @@
 ---
-description: Présentation de l’onglet Moi - Documents Marketo - Documentation du produit
+description: Découvrez l’onglet Moi et le statut de votre engagement par e-mail dans les actions Sales Insight. Affichez les e-mails envoyés, l’utilisation des modèles et les e-mails et contacts les plus attrayants.
 title: Présentation de l’onglet Moi
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 4%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 

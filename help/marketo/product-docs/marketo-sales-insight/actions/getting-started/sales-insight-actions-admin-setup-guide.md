@@ -1,11 +1,11 @@
 ---
-description: Guide de configuration des actions d’administration d’Insight Sales - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer des actions Sales Insight en tant qu’administrateur. Configurez la connexion Marketo, la synchronisation des données et invitez les utilisateurs.
 title: Guide de configuration de l’administration pour Actions des informations sur les ventes
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '655'
 ht-degree: 4%
 
 ---

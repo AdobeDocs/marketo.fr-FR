@@ -1,12 +1,12 @@
 ---
-description: Ajout de boutons d’action en bloc à Salesforce Classic - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des boutons d’action en bloc aux vues de liste dans Salesforce Classic. Boutons Ajouter un e-mail de vente et Ajouter à la campagne de vente .
 title: Ajouter des boutons d’action en masse à Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 6%
+source-wordcount: '126'
+ht-degree: 5%
 
 ---
 

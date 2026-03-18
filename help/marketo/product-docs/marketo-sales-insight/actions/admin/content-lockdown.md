@@ -1,12 +1,12 @@
 ---
-description: Verrouillage de contenu - Documents Marketo - Documentation du produit
+description: Découvrez comment activer le verrouillage de contenu pour empêcher les personnes autres que les administrateurs de modifier des modèles et des campagnes.
 title: Verrouillage de contenu
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 4%
+source-wordcount: '108'
+ht-degree: 3%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Colonnes d’e-mail et mise en page d’e-mail - Documents Marketo - Documentation du produit
+description: Comprendre les colonnes des e-mails et la mise en page dans le centre de commandes. Personnalisez les colonnes qui s’affichent et l’affichage de l’activité des e-mails.
 title: Colonnes et mise en page des e-mails
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '547'
 ht-degree: 2%
 
 ---
@@ -87,7 +87,7 @@ Vous pouvez configurer l’une des colonnes disponibles pour qu’elle soit visi
    <td>Date d’envoi de l’e-mail.</td>
   </tr>
   <tr>
-   <td><strong>Actions de suivi </td>
+   <td><strong>Actions de suivi [!UICONTROL]</td>
    <td>Boutons d’action rapide pouvant être utilisés pour un suivi par e-mail, téléphone, inMail ou tâche.</td>
   </tr>
   <tr>

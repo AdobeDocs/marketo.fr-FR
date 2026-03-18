@@ -1,11 +1,11 @@
 ---
-description: Présentation du centre de commande - Documents Marketo - Documentation du produit
+description: Découvrez le centre de commande pour gérer les e-mails et les tâches de vente. Affichez les e-mails envoyés, affectez des tâches et utilisez des actions rapides dans les actions Sales Insight.
 title: Vue d’ensemble du centre de contrôle
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '515'
 ht-degree: 3%
 
 ---

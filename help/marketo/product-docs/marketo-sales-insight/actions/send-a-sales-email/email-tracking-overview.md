@@ -1,11 +1,11 @@
 ---
-description: Présentation Du Suivi Des E-Mails - Documents Marketo - Documentation Du Produit
+description: Découvrez le tracking e-mail des e-mails de vente. Découvrez comment les vues, clics et réponses sont suivis et consignés.
 title: Vue d’ensemble du suivi des e-mails
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '497'
 ht-degree: 5%
 
 ---

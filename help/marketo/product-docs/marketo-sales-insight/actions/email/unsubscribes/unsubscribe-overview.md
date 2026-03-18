@@ -1,11 +1,11 @@
 ---
-description: Présentation Du Désabonnement - Documents Marketo - Documentation Du Produit
+description: Découvrez la gestion des désabonnements dans les actions Sales Insight. Découvrez comment les désabonnements fonctionnent et se synchronisent avec Marketo et Salesforce.
 title: Vue d’ensemble du désabonnement
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '354'
 ht-degree: 3%
 
 ---
@@ -44,7 +44,7 @@ Si vous êtes un administrateur, vous pouvez accéder au groupe de désabonnemen
 
 ## Vignette d’historique de désabonnement {#unsubscribe-history-card}
 
-La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et aux utilisateurs d’obtenir des informations contextuelles sur l’historique de désabonnement de leurs contacts. Accédez-y en vous rendant dans l’onglet [!UICONTROL Personnes] et en sélectionnant une personne. Elle se trouve au bas de l’onglet [!UICONTROL &#x200B; À propos &#x200B;] dans la vue Détails de la personne.
+La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et aux utilisateurs d’obtenir des informations contextuelles sur l’historique de désabonnement de leurs contacts. Accédez-y en vous rendant dans l’onglet [!UICONTROL Personnes] et en sélectionnant une personne. Elle se trouve au bas de l’onglet [!UICONTROL  À propos ] dans la vue Détails de la personne.
 
 >[!NOTE]
 >

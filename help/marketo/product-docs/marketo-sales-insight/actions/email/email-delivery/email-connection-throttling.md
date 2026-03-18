@@ -1,11 +1,11 @@
 ---
-description: Limitation De La Connexion Par E-Mail - Documents Marketo - Documentation Du Produit
+description: Comprenez le contrôle de la connexion aux e-mails et les limites d’envoi dans les actions Sales Insight. Découvrez comment le ralentissement affecte la diffusion et comment respecter les limites.
 title: Limitation de la connexion des e-mails
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---

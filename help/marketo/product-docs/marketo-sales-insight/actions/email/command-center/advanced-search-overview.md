@@ -1,11 +1,11 @@
 ---
-description: Vue D’Ensemble De La Recherche Avancée - Documents Marketo - Documentation Du Produit
+description: Découvrez comment utiliser la recherche avancée dans le centre de commande pour trouver les e-mails et les tâches. Filtrez par date, expéditeur, statut et autres critères.
 title: Vue d’ensemble de la recherche avancée
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '443'
 ht-degree: 3%
 
 ---
@@ -28,7 +28,7 @@ En utilisant la recherche avancée pour cibler les prospects qui ont consulté l
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Cliquez sur [!UICONTROL &#x200B; Recherche avancée &#x200B;].
+1. Cliquez sur [!UICONTROL  Recherche avancée ].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -65,7 +65,7 @@ Filtrez par destinataire/expéditeur d’e-mail dans la section [!UICONTROL Qui]
  </tr>
 </table>
 
-**Lorsque**
+**When**
 
 Choisissez par date de création, date de diffusion, date d’échec ou date planifiée. Les options disponibles changent en fonction du statut de l’e-mail que vous choisissez ([!UICONTROL Envoyé], [!UICONTROL Non diffusé], [!UICONTROL En attente]).
 
@@ -83,13 +83,13 @@ Vous avez le choix entre trois statuts d’e-mail. Les options de type/activité
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Statut : Envoyé**&#x200B;_
+_**Statut : Envoyé**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtre par activité d’e-mail envoyé. Vous pouvez choisir les options [!UICONTROL vues]/[!UICONTROL aucune vue], [!UICONTROL clics]/[!UICONTROL aucun clic] et/ou [!UICONTROL réponses]/[!UICONTROL aucune réponse].
 
-_&#x200B;**Statut : En Attente**&#x200B;_
+_**Statut : En Attente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtre par tous les e-mails en attente.
  </tr>
 </table>
 
-_&#x200B;**Statut : non diffusé**&#x200B;_
+_**Statut : non diffusé**_
 
 ![](assets/advanced-search-overview-12.png)
 

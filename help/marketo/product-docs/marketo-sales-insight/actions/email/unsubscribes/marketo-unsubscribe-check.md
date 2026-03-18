@@ -1,12 +1,12 @@
 ---
-description: Vérification du désabonnement de Marketo - Documents Marketo - Documentation du produit
+description: Découvrez la vérification du désabonnement de Marketo afin que les vendeurs ne puissent pas envoyer d’e-mail aux personnes désabonnées dans Marketo.
 title: Vérification du désabonnement par Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 4%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ La vérification de désabonnement de [!UICONTROL Marketo] utilise la connexion 
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 ## L&#39;activer {#turning-it-on}
 

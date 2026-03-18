@@ -1,11 +1,11 @@
 ---
-description: FAQ sur la synchronisation des données d’actions - Documents Marketo - Documentation du produit
+description: Découvrez la synchronisation des données d’actions entre Marketo Engage, Salesforce et les actions de vente d’Insight. Obtenez des réponses aux questions courantes sur la synchronisation des données des personnes et des activités.
 title: FAQ sur la synchronisation des données d’actions
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '974'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ La synchronisation des champs d’unification des données pour [!DNL Sales Insi
 
 Cela fournit des données de personne à jour dans l’application web [!DNL Sales Insight Actions] et permet au système de collecter des identifiants uniques pour les enregistrements de personne correspondants dans Marketo et les enregistrements de prospect/contact/compte/opportunité dans [!DNL Salesforce], de sorte que les enregistrements puissent être correctement référencés pour les données de journalisation.
 
-Cette synchronisation peut être activée à partir de l’onglet Configuration [!DNL Sales Insight Actions] dans la section Admin de Marketo Engage. Pour plus d’informations, consultez la section [&#x200B; Lancement de la synchronisation des données &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+Cette synchronisation peut être activée à partir de l’onglet Configuration [!DNL Sales Insight Actions] dans la section Admin de Marketo Engage. Pour plus d’informations, consultez la section [ Lancement de la synchronisation des données ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 

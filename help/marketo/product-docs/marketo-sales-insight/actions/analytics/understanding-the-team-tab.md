@@ -1,18 +1,18 @@
 ---
-description: Présentation de l’onglet Équipe - Documentation de Marketo - Documentation du produit
+description: Découvrez l’onglet Équipe et les mesures d’e-mail à l’échelle de l’équipe dans les actions Sales Insight. Affichez l’utilisation des modèles, le temps d’engagement maximum, les affaires clôturées et le tableau des scores du Rep.
 title: Présentation de l’onglet Équipe
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '154'
 ht-degree: 2%
 
 ---
 
-# Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;] {#understanding-the-team-tab}
+# Présentation de l’onglet [!UICONTROL  Équipe ] {#understanding-the-team-tab}
 
-Dans l’onglet [!UICONTROL &#x200B; Équipe &#x200B;], nous mettons en évidence trois mesures importantes.
+Dans l’onglet [!UICONTROL  Équipe ], nous mettons en évidence trois mesures importantes.
 
 ## E-mails envoyés avec modèle {#emails-sent-with-template}
 

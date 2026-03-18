@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377488
-description: Installation du complément Marketo pour  [!DNL Outlook]  avec une clé d’entreprise - Documents Marketo - Documentation du produit
+description: Découvrez comment installer le complément Marketo pour Outlook avec une clé d'entreprise. Déployez le complément pour votre organisation à l’aide d’une clé d’entreprise.
 title: Installer le complément Marketo pour [!DNL Outlook] avec une clé d’entreprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -43,4 +43,4 @@ Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;ad
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
+   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).

@@ -1,11 +1,11 @@
 ---
-description: Synchronisation de la tâche de rappel avec Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez comment les tâches de rappel se synchronisent avec Salesforce. Assurez-vous que les tâches personnalisées, d’e-mail et d’appel des actions apparaissent dans l’activité Salesforce.
 title: Synchronisation de tâches de rappel avec Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '522'
 ht-degree: 1%
 
 ---

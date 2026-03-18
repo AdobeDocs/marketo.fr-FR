@@ -1,11 +1,11 @@
 ---
-description: Ajout D’Un Jeu D’Autorisations Sales Insight - Documents Marketo - Documentation Du Produit
+description: Découvrez comment ajouter le jeu d’autorisations Sales Insight dans Salesforce. Attribuez la visionneuse aux utilisateurs qui ont besoin d’un accès à Marketo Sales Insight.
 title: Ajouter un jeu d’autorisations d’Informations sur les ventes
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '362'
 ht-degree: 4%
 
 ---

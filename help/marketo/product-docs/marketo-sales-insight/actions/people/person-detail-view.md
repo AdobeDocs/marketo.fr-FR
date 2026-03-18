@@ -1,13 +1,13 @@
 ---
-description: Affichage Des Détails D’Une Personne - Documents Marketo - Documentation Du Produit
+description: Comprendre la vue détaillée de la personne dans les actions Sales Insight. Voir les informations de contact, l’historique des activités et les actions rapides pour un prospect ou un contact.
 title: Vue des détails d’une personne
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '299'
 ht-degree: 3%
 
 ---

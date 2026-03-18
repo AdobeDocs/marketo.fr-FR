@@ -1,11 +1,11 @@
 ---
-description: Journalisation des attributs d’activité commerciale dans Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des champs d’activité personnalisés pour les actions Sales Insight dans Salesforce. Créez des champs personnalisés d’activité dans la configuration pour consigner les résultats des appels, les raisons, etc.
 title: Journalisation des attributs des activités de vente dans Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 12%
+source-wordcount: '320'
+ht-degree: 11%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 unique-page-id: 10099167
-description: Choisir une action dans Sales Insight - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un prospect ou un contact à une campagne Marketo à partir de Salesforce. Utilisez le panneau MSI pour ajouter à la campagne à partir de l’enregistrement .
 title: Choisir une action dans Informations sur les ventes
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '207'
 ht-degree: 11%
 
 ---

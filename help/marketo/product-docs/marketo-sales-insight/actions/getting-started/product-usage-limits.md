@@ -1,12 +1,12 @@
 ---
-description: Limites D’Utilisation Du Produit - Documents Marketo - Documentation Du Produit
+description: Comprendre les limites d’utilisation du produit Sales Insight Actions. Découvrez les limites d’e-mail, d’appel et d’API pour votre compte.
 title: Limites d’utilisation du produit
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 20%
+source-wordcount: '243'
+ht-degree: 19%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Diagnostics Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez les diagnostics et messages d’erreur Salesforce pour la journalisation des données ayant échoué. Accédez à la page Diagnostics et utilisez l’aide-mémoire d’erreur pour résoudre les problèmes.
 title: Diagnostics Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1358'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. Sous [!UICONTROL &#x200B; Intégrations &#x200B;], cliquez sur **[!UICONTROL Diagnostics]**.
+1. Sous [!UICONTROL  Intégrations ], cliquez sur **[!UICONTROL Diagnostics]**.
 
    ![](assets/salesforce-diagnostics-2.png)
 
@@ -66,7 +66,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 **Error:** EXPIRED_ACCESS
 **Category:** Authentification
 **Message:** invalid_grant : jeton d’accès/d’actualisation expiré
-**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [&#x200B; dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [ dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Étapes de dépannage :** vous devrez vous authentifier à nouveau. Déconnectez la connexion [!DNL Salesforce] et reconnectez-vous.
 
 **Error:** FAILED_WRITE

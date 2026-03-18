@@ -1,13 +1,13 @@
 ---
-description: Composition d’e-mails en bloc avec sélection et envoi - Documents Marketo - Documentation du produit
+description: Découvrez comment composer et envoyer des e-mails en bloc avec Sélectionner et Envoyer. Choisissez des contacts dans la page Personnes et envoyez des e-mails personnalisés à grande échelle.
 title: Composition d’e-mails en masse avec les options Sélectionner et Envoyer
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '418'
 ht-degree: 3%
 
 ---

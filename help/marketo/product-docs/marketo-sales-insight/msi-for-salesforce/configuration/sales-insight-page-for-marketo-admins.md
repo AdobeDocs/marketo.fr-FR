@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762409
-description: Page Ventes Insight pour les administrateurs Marketo - Documentation de Marketo - Documentation du produit
+description: En savoir plus sur la page Sales Insight pour les administrateurs Marketo. Accédez aux paramètres Configuration des actions et MSI .
 title: Page Informations sur les ventes pour les administrateurs et administratrices Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---
@@ -60,7 +60,7 @@ Par défaut, [!DNL Marketo Sales Insight] utilise le champ Score du lead pour ca
 
    >[!MORELIKETHIS]
    >
-   >[Étoiles et flammes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+   >[Étoiles et flammes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Paramètres {#settings}
 

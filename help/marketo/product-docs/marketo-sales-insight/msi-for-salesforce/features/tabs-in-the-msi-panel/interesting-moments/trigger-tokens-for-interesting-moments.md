@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146999
-description: Jetons de déclenchement pour les moments significatifs - Documents Marketo - Documentation du produit
+description: Découvrez les jetons de déclenchement pour les moments intéressants dans Marketo. Configurez les activités qui créent des moments intéressants dans le panneau MSI.
 title: Jetons de déclenchement pour les moments intéressants
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 68%
+source-wordcount: '556'
+ht-degree: 67%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->Découvrez comment utiliser l’étape de flux [&#x200B; Moment intéressant &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Découvrez comment utiliser l’étape de flux [ Moment intéressant ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Jetons disponibles {#available-tokens}
 
 Consultez [Présentation des jetons](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) pour afficher tous les jetons que vous pouvez placer dans un moment intéressant.
 
-## Jetons de déclenchement {#trigger-tokens}
+## Jetons de déclencheur {#trigger-tokens}
 
 En fonction du déclencheur utilisé dans une campagne intelligente, des jetons de déclencheur supplémentaires sont disponibles.
 
@@ -1000,7 +1000,7 @@ En fonction du déclencheur utilisé dans une campagne intelligente, des jetons 
    <th><code>{{trigger.Browser}}</code></th>
   </tr>
   <tr>
-   <td>Remplit le formulaire.</td>
+   <td>Remplissage du formulaire</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
@@ -1017,7 +1017,7 @@ En fonction du déclencheur utilisé dans une campagne intelligente, des jetons 
    <td><br></td>
   </tr>
   <tr>
-   <td>Visites sur la page web</td>
+   <td>Visite sur la page Web</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
@@ -1055,7 +1055,7 @@ En fonction du déclencheur utilisé dans une campagne intelligente, des jetons 
 
 >[!NOTE]
 >
->S’il ne comporte pas de ![&#x200B; de vérification (coche)](assets/check.png) il renvoie une chaîne vide (rien) au moment intéressant.
+>S’il ne comporte pas de ![ de vérification (coche)](assets/check.png) il renvoie une chaîne vide (rien) au moment intéressant.
 
 &#42;La page web Déclencheur **Visites** comporte quelques jetons supplémentaires :
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762519
-description: Configuration pour les clients existants - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer Marketo Sales Insight pour les clients Salesforce existants. Mettez à jour à partir de packages plus anciens ou ajoutez des actions.
 title: Configuration pour les clientes et clients existants
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '179'
+ht-degree: 8%
 
 ---
 
@@ -51,7 +51,7 @@ Veuillez configurer la configuration suivante pour commencer à utiliser le nouv
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. Saisissez le [!UICONTROL &#x200B; Nom du site distant &#x200B;] (par exemple, « MarketoRestAPI ») et l’[!UICONTROL URL du site distant &#x200B;] (votre URL d’API à partir du panneau Configuration de l’API REST dans Marketo).
+1. Saisissez le [!UICONTROL  Nom du site distant ] (par exemple, « MarketoRestAPI ») et l’[!UICONTROL URL du site distant ] (votre URL d’API à partir du panneau Configuration de l’API REST dans Marketo).
 
    ![](assets/configuration-for-existing-customers-7.png)
 
@@ -65,6 +65,6 @@ Veuillez configurer la configuration suivante pour commencer à utiliser le nouv
 
 1. Copiez les informations d’identification depuis le panneau API Rest de [!DNL Marketo’s Sales Insight] page Admin . Collez-les dans la section API Rest de la page Configuration [!DNL Sales Insight] de Salesforce.
 
-1. Saisissez la [!UICONTROL &#x200B; Clé secrète API &#x200B;].
+1. Saisissez la [!UICONTROL  Clé secrète API ].
 
    ![](assets/configuration-for-existing-customers-9.png)

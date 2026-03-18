@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762244
-description: Configuration des étoiles et des flammes pour les enregistrements de leads/contacts - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer des étoiles et des flammes pour les enregistrements de prospect et de contact dans Dynamics. Afficher le score et l’urgence des leads dans le CRM.
 title: Configurer les étoiles et les flammes pour les enregistrements des leads/contacts
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '192'
 ht-degree: 9%
 
 ---

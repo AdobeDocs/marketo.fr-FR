@@ -1,11 +1,11 @@
 ---
-description: Utilisation d’un modèle dans la fenêtre Composer - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser un modèle dans la fenêtre de composition lors de l’envoi d’e-mails de vente. Insérez des modèles et des catégories d’épingles pour un accès rapide.
 title: Utilisation d’un modèle dans la fenêtre Composer
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '303'
 ht-degree: 4%
 
 ---

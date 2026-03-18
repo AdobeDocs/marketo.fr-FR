@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
-description: Envoyer un e-mail à plusieurs enregistrements dans Marketo Sales Insight - Documents Marketo - Documentation du produit
+description: Découvrez comment envoyer un e-mail à plusieurs enregistrements depuis Marketo Sales Insight dans Salesforce. Envoyer par e-mail tous les contacts sur un compte ou une opportunité.
 title: Envoyer un e-mail à plusieurs enregistrements dans Informations sur les ventes Marketo
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 7%
+source-wordcount: '147'
+ht-degree: 6%
 
 ---
 

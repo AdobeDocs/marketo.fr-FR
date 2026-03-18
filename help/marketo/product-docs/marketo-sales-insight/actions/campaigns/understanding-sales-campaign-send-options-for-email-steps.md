@@ -1,11 +1,11 @@
 ---
-description: Présentation des options d’envoi de campagne commerciale pour les étapes d’e-mail - Documents Marketo - Documentation du produit
+description: Découvrez les options d’envoi des étapes des e-mails de la campagne commerciale. Choisissez quand envoyer, planifiez l’heure d’envoi ou créez une tâche à envoyer vous-même pour les premières étapes et les étapes suivantes.
 title: Présentation des options d’envoi de campagne de vente pour les étapes d’e-mails
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '755'
 ht-degree: 4%
 
 ---
@@ -75,5 +75,5 @@ Pour les jours/étapes suivants de votre campagne de ventes, vous disposez des o
 >[!MORELIKETHIS]
 >
 >[Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Types d&#39;étapes de campagne commerciale et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Paramètres de la campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>[Types d&#39;étapes de campagne commerciale et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Paramètres de la campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

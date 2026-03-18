@@ -1,12 +1,12 @@
 ---
-description: Gestion Des Modèles - Documents Marketo - Documentation Du Produit
+description: Découvrez comment gérer les modèles d’e-mail dans les actions Sales Insight. Créez, modifiez, partagez et organisez des modèles pour votre équipe.
 title: Gérer les modèles
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 3%
+source-wordcount: '538'
+ht-degree: 2%
 
 ---
 
@@ -46,7 +46,7 @@ La zone Détails du modèle contient plusieurs onglets.
   <td>Vérifier et apporter des modifications, configurer des critères pour faire du modèle un modèle recommandé, ajouter des notes</td>
  </tr>
  <tr>
-  <td><strong>Analyse</strong></td>
+  <td><strong>Analytics</strong></td>
   <td>Examinez les analyses d’engagement pour le modèle. Effectuez une recherche filtrée.</td>
  </tr>
  <tr>

@@ -1,12 +1,12 @@
 ---
-description: Désinstallation Du Package De Personnalisation Salesforce Lightning - Documents Marketo - Documentation Du Produit
+description: Découvrez comment désinstaller le package de personnalisation Salesforce Lightning pour Sales Insight. Supprimez le package de votre instance Salesforce si nécessaire.
 title: Désinstaller le package de personnalisation de Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 9%
+source-wordcount: '1169'
+ht-degree: 10%
 
 ---
 
@@ -172,7 +172,7 @@ La vue Compte ne comporte qu’un seul bouton - « Envoyer MSE Email » et les c
 
 1. Cliquez sur **[!UICONTROL Personnaliser mes onglets]**.
 
-1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL &#x200B; Supprimer &#x200B;], puis sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez l’option Boîte d’envoi Ventes Marketo à droite. Cliquez sur la flèche [!UICONTROL  Supprimer ], puis sur **[!UICONTROL Enregistrer]**.
 
 ## Supprimer [!DNL Sales Connect] package {#delete-sales-connect-package}
 

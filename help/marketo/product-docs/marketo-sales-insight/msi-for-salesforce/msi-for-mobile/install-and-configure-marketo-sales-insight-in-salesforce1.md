@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511512
-description: Installer et configurer Marketo Sales Insight dans Salesforce1 - Documents Marketo - Documentation du produit
+description: Découvrez comment installer et configurer Marketo Sales Insight dans Salesforce Mobile (Salesforce1). Utilisez MSI sur les appareils mobiles.
 title: Installer et configurer Informations sur les ventes Marketo dans Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '352'
 ht-degree: 3%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNL Best Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
+>[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNLBest Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
 
 ## Activation de l’application mobile [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: Définir les champs de score à utiliser pour les étoiles et les flammes dans Sales Insight - Documents Marketo - Documentation du produit
+description: Découvrez comment définir des champs de score pour les étoiles et les flammes dans Sales Insight. Mappez les champs de score Marketo à l’affichage MSI dans Salesforce.
 title: Définir les champs de score à utiliser pour les étoiles et les flammes dans Informations sur les ventes
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Par défaut, [!DNL Marketo Sales Insight] utilise le champ **[!UICONTROL Score du lead]** pour calculer les étoiles et les flammes. Mais si vous souhaitez sélectionner un autre champ, procédez comme suit :
 

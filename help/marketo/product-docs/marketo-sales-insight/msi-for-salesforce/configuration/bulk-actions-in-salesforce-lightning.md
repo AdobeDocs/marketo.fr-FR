@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
-description: Actions en bloc dans Salesforce Lightning - Documentation de Marketo - Documentation du produit
+description: Découvrez les actions en masse dans Salesforce Lightning pour Marketo Sales Insight. Utilisez Envoyer un e-mail commercial et Ajouter à la campagne commerciale à partir de vues de liste.
 title: Actions en masse dans Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 9%
+source-wordcount: '128'
+ht-degree: 8%
 
 ---
 

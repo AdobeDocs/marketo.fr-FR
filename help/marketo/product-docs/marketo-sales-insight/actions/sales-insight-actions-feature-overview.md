@@ -1,11 +1,11 @@
 ---
-description: Présentation Des Fonctionnalités Des Actions De Ventes Insight - Documents Marketo - Documentation Du Produit
+description: Découvrez les actions de Sales Insight et les outils d’intelligence et d’engagement optimisés par le marketing pour les ventes. Utilisez les e-mails commerciaux, les campagnes, le numéroteur et les tâches pour accélérer la prospection.
 title: Vue d’ensemble de la fonctionnalité Actions des informations sur les ventes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1375'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ Accélérez les efforts de prospection grâce à des outils d’engagement et d�
 >
 >Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le package [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Il est parfois appelé « Ventes Marketo » ou simplement « Actions ».
 
-Pour un aperçu vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=fr){target="_blank"}.
+Pour un aperçu vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -118,18 +118,18 @@ Les données disponibles dans les onglets sont les suivantes :
 
 ## Onglet global Marketo {#marketo-global-tab}
 
-**[!UICONTROL Onglet Meilleurs &#x200B;]**
+**[!UICONTROL Onglet Meilleurs ]**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-Les actions en masse suivantes sont disponibles à partir de la liste déroulante de l’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] :
+Les actions en masse suivantes sont disponibles à partir de la liste déroulante de l’onglet [!UICONTROL  Meilleurs résultats ] :
 
 * [!UICONTROL Envoyer un e-mail de vente] - Possibilité d’envoyer des e-mails personnalisés ou modélisés avec suivi des vues, clics et réponses
 * [!UICONTROL Ajouter à la campagne de vente] - Ajoutez des prospects aux playbooks de vente qui consistent en une séquence d’e-mails et de tâches
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-Les actions en ligne suivantes sont disponibles pour les leads/contacts individuels dans l’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] :
+Les actions en ligne suivantes sont disponibles pour les leads/contacts individuels dans l’onglet [!UICONTROL  Meilleurs résultats ] :
 
 * [!UICONTROL Envoyer un e-mail de vente] - Possibilité d’envoyer des e-mails personnalisés ou modélisés avec suivi des vues, clics et réponses
 * [!UICONTROL Ajouter à la campagne de vente] - Ajoutez des prospects aux playbooks de vente qui consistent en une séquence d’e-mails et de tâches

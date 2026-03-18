@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949285
-description: Enregistrez le courrier entrant provenant de vos prospects dans Marketo - Documents Marketo - Documentation du produit.
+description: Découvrez comment consigner le courrier entrant provenant des prospects dans Marketo. Capturez et attribuez les réponses et les e-mails entrants au bon enregistrement de prospect.
 title: Journaliser le courrier entrant provenant de vos leads dans Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '148'
+ht-degree: 10%
 
 ---
 

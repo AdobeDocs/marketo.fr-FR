@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950396
-description: Priorité, urgence, score relatif et meilleurs résultats - Documents Marketo - Documentation du produit
+description: Découvrez la priorité, l’urgence, le score relatif et les meilleurs résultats dans Marketo Sales Insight. Comprendre la notation du prospect dans le panneau MSI.
 title: Priorité, urgence, score relatif et meilleurs choix
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '454'
 ht-degree: 2%
 
 ---

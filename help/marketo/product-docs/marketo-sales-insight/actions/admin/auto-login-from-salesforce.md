@@ -1,11 +1,11 @@
 ---
-description: Connexion automatique à partir de Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez comment activer la connexion automatique à partir de Salesforce afin que les utilisateurs s’authentifient automatiquement aux actions Sales Insight. Définissez la gestion des connexions sur Salesforce uniquement et connectez les comptes.
 title: Connexion automatique à partir de Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

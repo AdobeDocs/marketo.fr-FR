@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762322
-description: Onglet Configuration de Marketo Sales Insight dans Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez l’onglet de configuration Marketo Sales Insight dans Salesforce. Configurez les paramètres MSI et activez les actions.
 title: Onglet Configuration d’Informations sur les ventes Marketo dans Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '620'
 ht-degree: 1%
 
 ---

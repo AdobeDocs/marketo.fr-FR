@@ -1,11 +1,11 @@
 ---
-description: Guide d’intégration des utilisateurs des actions Insight Sales - Documents Marketo - Documentation du produit
+description: Découvrez comment commencer en tant que nouvel utilisateur Sales Insight Actions. Suivez les étapes de configuration et connectez e-mail, Salesforce et Marketo.
 title: Guide d’intégration des utilisateurs et des utilisatrices pour Actions des informations sur les ventes
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '331'
 ht-degree: 6%
 
 ---

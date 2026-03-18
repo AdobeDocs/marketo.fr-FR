@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516460
-description: Préparation de la vente d’Insight pour la prise en charge multilingue dans Salesforce - Documentation de Marketo - Documentation du produit
+description: Découvrez comment préparer Marketo Sales Insight à une prise en charge multilingue dans Salesforce. Configurez la langue et les paramètres régionaux pour les utilisateurs globaux.
 title: Préparer Informations sur les ventes pour une prise en charge multilingue dans Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 10%
+source-wordcount: '234'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Marketo Sales Insight est stocké par langue. Ainsi, si vous souhaitez qu’il fonctionne pour plusieurs langues, vous devez saisir les informations d’identification séparément pour chaque langue.
 
@@ -55,7 +55,7 @@ Marketo Sales Insight est stocké par langue. Ainsi, si vous souhaitez qu’il f
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Accédez à Marketo. Localisez votre [[!DNL Marketo Sales Insight] **[!UICONTROL configuration d’API &#x200B;]**&#x200B;détails](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Accédez à Marketo. Localisez votre [[!DNL Marketo Sales Insight] **[!UICONTROL configuration d’API ]**détails](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

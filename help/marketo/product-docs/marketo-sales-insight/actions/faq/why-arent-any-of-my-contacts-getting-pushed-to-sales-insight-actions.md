@@ -1,12 +1,12 @@
 ---
-description: Pourquoi aucun de mes contacts n’est-il envoyé aux actions Sales Insight ? - Documents Marketo - Documentation sur le produit
+description: Résolution d’un problème lorsqu’aucun contact ne se synchronise avec les actions Sales Insight. Vérifiez les exigences d'affectation et de connexion du propriétaire des ventes.
 title: Pourquoi aucun de mes contacts n’est envoyé vers Actions des informations sur les ventes ?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '82'
+ht-degree: 14%
 
 ---
 

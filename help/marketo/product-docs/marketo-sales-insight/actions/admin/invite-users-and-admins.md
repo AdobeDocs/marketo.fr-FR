@@ -1,12 +1,12 @@
 ---
-description: Inviter des utilisateurs et des administrateurs - Documents Marketo - Documentation du produit
+description: Découvrez comment inviter des utilisateurs et des administrateurs à participer aux actions de Sales Insight à partir de User Management. Ajoutez des utilisateurs par e-mail ou au format CSV et affectez des équipes et l’espace de travail Marketo.
 title: Inviter des utilisateurs et utilisatrices et des administrateurs et administratrices
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 7%
+source-wordcount: '207'
+ht-degree: 6%
 
 ---
 

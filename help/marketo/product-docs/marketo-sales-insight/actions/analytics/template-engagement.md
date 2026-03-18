@@ -1,11 +1,11 @@
 ---
-description: Engagement des modèles - Documents Marketo - Documentation du produit
+description: Découvrez comment afficher l’engagement des modèles dans l’onglet Contenu Analytics. Consultez les mesures Arme secrète, Engagement le plus élevé et Engagement le plus bas par période.
 title: Engagement des modèles
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '194'
 ht-degree: 2%
 
 ---

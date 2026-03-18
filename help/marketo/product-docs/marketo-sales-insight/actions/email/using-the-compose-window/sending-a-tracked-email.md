@@ -1,12 +1,12 @@
 ---
-description: Envoi d’un e-mail suivi - Documents Marketo - Documentation du produit
+description: Découvrez comment envoyer un e-mail de vente suivi afin d’afficher les vues, les clics et les réponses. Utilisez un canal de diffusion et effectuez le suivi à partir du centre de commande.
 title: Envoi d’un e-mail suivi
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '215'
+ht-degree: 3%
 
 ---
 

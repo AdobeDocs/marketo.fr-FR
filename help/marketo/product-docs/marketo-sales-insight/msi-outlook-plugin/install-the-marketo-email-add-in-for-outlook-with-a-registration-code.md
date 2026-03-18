@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949711
-description: Installez le complément de messagerie Marketo pour [!DNL Outlook] avec un code d’enregistrement - Documents Marketo - Documentation du produit
+description: Découvrez comment installer le complément de messagerie Marketo pour Outlook avec un code d'enregistrement. Obtenez le complément pour les utilisateurs qui disposent d'un code d'enregistrement.
 title: Installer le complément de messagerie électronique Marketo pour [!DNL Outlook] avec un code d’enregistrement
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '546'
 ht-degree: 6%
 
 ---

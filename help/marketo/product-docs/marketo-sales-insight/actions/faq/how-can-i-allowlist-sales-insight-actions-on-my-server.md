@@ -1,12 +1,12 @@
 ---
-description: Comment puis-je Placer sur la liste autorisée des actions Sales Insight sur mon serveur ? - Documents Marketo - Documentation sur le produit
+description: Placer sur la liste autorisée Découvrez comment exécuter des actions Sales Insight sur votre serveur ou votre pare-feu. Obtenez les adresses IP et les domaines pour permettre le suivi et la diffusion.
 title: Comment puis-je placer Actions des informations sur les ventes dans la liste autorisée sur mon serveur ?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Modification De Votre Mot De Passe De Vente Marketo - Documents Marketo - Documentation Du Produit
+description: Découvrez comment modifier votre mot de passe de vente Marketo dans les actions Sales Insight. Mettez à jour le mot de passe dans les paramètres lorsque vous n’utilisez pas la connexion Salesforce uniquement.
 title: Modifier votre mot de passe Marketo Sales
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 
@@ -39,7 +39,7 @@ Vous souhaitez modifier votre mot de passe ? Voici comment faire.
 
 ## Modifier Votre Mot De Passe Lors De La Déconnexion {#change-your-password-while-signed-out}
 
-1. Accédez à la page [&#x200B; Connexion à Sales Connect](https://toutapp.com/login). Saisissez votre adresse e-mail et cliquez sur **[!UICONTROL Connexion]**.
+1. Accédez à la page [ Connexion à Sales Connect](https://toutapp.com/login). Saisissez votre adresse e-mail et cliquez sur **[!UICONTROL Connexion]**.
 
    ![](assets/change-your-marketo-sales-password-4.png)
 

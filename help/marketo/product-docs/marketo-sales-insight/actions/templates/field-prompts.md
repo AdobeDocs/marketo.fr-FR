@@ -1,11 +1,11 @@
 ---
-description: Invites De Champ - Documents Marketo - Documentation Du Produit
+description: Découvrez les invites de champ dans les modèles d’e-mail. Ajoutez des espaces réservés qui invitent l’expéditeur à renseigner du contenu personnalisé lors de l’envoi.
 title: Prompts de champs
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 3%
+source-wordcount: '174'
+ht-degree: 2%
 
 ---
 

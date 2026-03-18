@@ -1,12 +1,12 @@
 ---
-description: Activer l’enregistrement d’appels - Documents Marketo - Documentation du produit
+description: Découvrez comment activer l’enregistrement des appels dans les actions Sales Insight. Activez l’enregistrement et respectez le consentement des deux parties si nécessaire.
 title: Activer l’enregistrement des appels
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 6%
+source-wordcount: '112'
+ht-degree: 5%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Octroi de l’accès à Marketo aux utilisateurs - Documents Marketo - Documentation du produit
+description: Découvrez comment octroyer l’accès à Marketo aux utilisateurs dans les actions Insight de vente. Permet aux utilisateurs d’afficher les données Marketo et d’utiliser les fonctionnalités connectées à Marketo.
 title: Accorder un accès Marketo à des utilisateurs et à des utilisatrices
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '223'
 ht-degree: 5%
 
 ---

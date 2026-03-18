@@ -1,11 +1,11 @@
 ---
-description: Présentation Du Canal De Diffusion - Documents Marketo - Documentation Du Produit
+description: Découvrez les canaux de diffusion pour l’envoi d’e-mails de vente dans les actions Sales Insight. comprendre comment les canaux de diffusion permettent le suivi et la diffusion ;
 title: Vue d’ensemble du canal de remise
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720314
-description: Rapport Performances Des E-Mails D’Insight Sales - Documents Marketo - Documentation Du Produit
+description: Découvrez le rapport Performance des e-mails de Sales Insight dans Salesforce. Affichez les mesures et l’engagement des e-mails de vente.
 title: E-mail du rapport de performance concernant les Informations sur les ventes
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '161'
+ht-degree: 16%
 
 ---
 
@@ -41,7 +41,7 @@ Affichez les performances des e-mails envoyés par le biais de [!DNL Salesforce]
 
 >[!TIP]
 >
->Cliquez sur le nom d’un e-mail pour l’ouvrir dans la Prévisualisation d’e-mail.
+>Cliquez sur le nom d’un e-mail pour l’ouvrir dans le Prévisualiseur d’e-mail.
 
 ## Regrouper par [!UICONTROL représentant commercial] {#group-by-sales-rep}
 

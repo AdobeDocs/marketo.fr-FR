@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377552
-description: Spécifier Les Administrateurs Du Plug-In Marketo [!UICONTROL Sales Insight] - Documentation Du Produit - Marketo Docs
+description: Découvrez comment spécifier les administrateurs du plug-in Marketo Sales Insight pour Outlook. Désignez qui peut gérer le complément pour votre organisation.
 title: Spécifier les administrateurs du plug-in Marketo [!UICONTROL Sales Insight]
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 2%
+source-wordcount: '101'
+ht-degree: 1%
 
 ---
 

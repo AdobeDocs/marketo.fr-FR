@@ -1,11 +1,11 @@
 ---
-description: Liste de contrôle d’intégration des utilisateurs des actions Insight Sales - Documents Marketo - Documentation du produit
+description: Utilisez la liste de contrôle d’intégration des utilisateurs des actions Sales Insight pour commencer. Suivez les étapes de configuration et d’activation pour les nouveaux utilisateurs.
 title: Liste de contrôle de l’intégration des utilisateurs et des utilisatrices pour Actions des informations sur les ventes
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '131'
 ht-degree: 9%
 
 ---

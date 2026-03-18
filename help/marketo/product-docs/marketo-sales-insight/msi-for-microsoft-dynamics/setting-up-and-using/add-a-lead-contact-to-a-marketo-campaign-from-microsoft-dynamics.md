@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953342
-description: Ajouter un lead/contact à une campagne Marketo à partir de Microsoft Dynamics - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un prospect ou un contact à une campagne Marketo à partir de Microsoft Dynamics. Utilisez le panneau MSI pour ajouter des prospects aux campagnes.
 title: Ajouter un lead/contact à une campagne Marketo à partir de Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '142'
 ht-degree: 9%
 
 ---
@@ -37,6 +37,6 @@ Vous pouvez rapidement et facilement ajouter des prospects/contacts aux campagne
 
    >[!NOTE]
    >
-   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**La campagne est demandée** &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md) avec [!DNL Sales Insight] comme source, lorsque vous configurez la campagne.
+   >Pour que la campagne s’affiche dans la liste déroulante, utilisez le déclencheur [**La campagne est demandée** ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md) avec [!DNL Sales Insight] comme source, lorsque vous configurez la campagne.
 
 Et c&#39;est tout le monde ! Vous disposez désormais de la puissance des campagnes intelligentes Marketo directement depuis [!DNL Dynamics].

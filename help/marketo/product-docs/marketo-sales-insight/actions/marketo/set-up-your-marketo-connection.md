@@ -1,13 +1,13 @@
 ---
-description: Configurer Votre Connexion Marketo - Documents Marketo - Documentation Du Produit
+description: Découvrez comment configurer votre connexion Marketo pour les actions Sales Insight. Connectez-vous à partir de Marketo Admin pour activer les actions pour votre instance.
 title: Configurer votre connexion Marketo
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---
@@ -44,7 +44,7 @@ PICC
 
 PICC
 
-1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **Marketo**.
+1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **Marketo**.
 
 PICC
 

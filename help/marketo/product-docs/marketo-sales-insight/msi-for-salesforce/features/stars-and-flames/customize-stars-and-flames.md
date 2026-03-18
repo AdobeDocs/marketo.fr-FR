@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360303
-description: Personnalisation des étoiles et des flammes - Documentation de Marketo - Documentation du produit
+description: Découvrez comment personnaliser les étoiles et les flammes dans Marketo Sales Insight. Configurez la manière dont le score et l’urgence des leads apparaissent dans Salesforce.
 title: Personnaliser les étoiles et les flammes
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 6%
 
 ---
 
 # Personnaliser les étoiles et les flammes {#customize-stars-and-flames}
 
-[!DNL Marketo Sales Insight] utilise des étoiles et des flammes pour prioriser les prospects. Marketo décide automatiquement qui obtient 1-2-3 étoiles/flammes. Vous pouvez toutefois modifier la formule. Procédez comme suit :
+[!DNL Marketo Sales Insight] utilise des étoiles et des flammes pour prioriser les prospects. Marketo décide automatiquement qui obtient 1-2-3 étoiles/flammes. Vous pouvez toutefois modifier la formule. Procédez comme suit :
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Sous [!UICONTROL Admin], cliquez sur **[!UICONTROL Insight commerciale]**.
 

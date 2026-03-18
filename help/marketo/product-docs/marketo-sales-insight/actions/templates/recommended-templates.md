@@ -1,11 +1,11 @@
 ---
-description: Modèles Recommandés - Documents Marketo - Documentation Du Produit
+description: Découvrez les modèles recommandés et les bonnes pratiques. Créez des modèles d’e-mail de vente efficaces qui attirent l’engagement.
 title: Modèles recommandés
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '308'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Les modèles recommandés par [!DNL Sales Insight Action] vous aident à obtenir
 
    ![](assets/recommended-templates-2.png)
 
-1. Dans la vignette [!UICONTROL &#x200B; Modèle recommandé &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
+1. Dans la vignette [!UICONTROL  Modèle recommandé ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/recommended-templates-3.png)
 

@@ -1,11 +1,11 @@
 ---
-description: Présentation De La Page Analytics - Documents Marketo - Documentation Du Produit
+description: Découvrez l’onglet Analytics et les données d’engagement par e-mail pour les actions Sales Insight. Affichez les statistiques sur les individus et les équipes dans les onglets Moi, Équipe et Contenu.
 title: Vue d’ensemble de la page des analyses
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---

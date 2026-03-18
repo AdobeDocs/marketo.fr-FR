@@ -1,11 +1,11 @@
 ---
-description: Modèles d’e-mail de ventes transactionnelles - Documents Marketo - Documentation du produit
+description: Découvrez les modèles d’e-mail de vente transactionnels et les cas où les liens de désabonnement ne sont pas requis. À utiliser pour les messages transactionnels de type « un-à-un ».
 title: Modèles d’e-mail de vente transactionnelle
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ Si votre équipe envoie des e-mails transactionnels ou non commerciaux, vous pou
 
 ## Éléments à noter {#things-to-note}
 
-* Les e-mails non commerciaux contourneront les désabonnements des ventes et la vérification du désabonnement de [Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"} mais ne contourneront pas les domaines [&#x200B; bloqués](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Les e-mails non commerciaux contourneront les désabonnements des ventes et la vérification du désabonnement de [Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"} mais ne contourneront pas les domaines [ bloqués](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
 
 * Les messages de désabonnement ne seront pas automatiquement ajoutés aux e-mails non commerciaux, même si le paramètre [Ajouter un administrateur de messages de désabonnement](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} est activé. Cependant, le `{{team_unsubscribe}}` [champ dynamique](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} remplira toujours le message de désabonnement de votre équipe.
 

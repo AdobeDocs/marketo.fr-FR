@@ -1,11 +1,11 @@
 ---
-description: Paramètre De Message De Désabonnement D’Ajout Automatique - Documents Marketo - Documentation Du Produit
+description: Découvrez comment activer ou désactiver l’ajout automatique d’un message de désabonnement pour les e-mails de vente.
 title: Paramètre d’ajout automatique du message de désabonnement
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '180'
 ht-degree: 4%
 
 ---

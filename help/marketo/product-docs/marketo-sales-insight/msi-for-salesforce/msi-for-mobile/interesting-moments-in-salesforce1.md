@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511877
-description: Moments intéressants dans Salesforce1 - Documentation de Marketo - Documentation du produit
+description: Découvrez les moments intéressants dans Salesforce Mobile (Salesforce1). Affichez les principales activités des prospects dans le panneau MSI sur mobile.
 title: Moments intéressants dans Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 7%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 
@@ -32,4 +32,4 @@ ht-degree: 7%
 >[!MORELIKETHIS]
 >
 >* [Moment significatif](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [&#x200B; Jetons pour les moments significatifs &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [ Jetons pour les moments significatifs ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

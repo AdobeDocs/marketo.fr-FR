@@ -1,10 +1,10 @@
 ---
-description: Utilisation de l’ajout en bloc à la campagne de vente dans Salesforce - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter en bloc des leads et des contacts à une campagne de ventes à partir de Salesforce. Sélectionnez une vue Liste et utilisez le bouton Ajouter à la campagne de ventes dans Lightning ou Classic.
 title: Utilisation de l’option Ajouter en masse à une campagne de vente dans Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '598'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Découvrez comment ajouter en bloc des à des campagnes de vente dans Salesforce
 
 >[!PREREQUISITES]
 >
->Assurez-vous d’avoir installé le [dernier package Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} sur votre instance Salesforce et d’avoir configuré les [&#x200B; boutons d’action](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} dans les vues de liste de contacts et de leads dans Salesforce.
+>Assurez-vous d’avoir installé le [dernier package Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} sur votre instance Salesforce et d’avoir configuré les [ boutons d’action](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} dans les vues de liste de contacts et de leads dans Salesforce.
 
 ## Ajout en bloc à la campagne de ventes dans Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
