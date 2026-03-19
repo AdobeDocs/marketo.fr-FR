@@ -69,7 +69,7 @@ Bon travail ! Ces segments seront utiles dans de nombreux endroits de Marketo.
 
 >[!NOTE]
 >
->Une personne peut être éligible à différents segments, mais appartient finalement à un seul segment, en fonction de l’ordre de priorité [ des segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
+>Une personne peut être éligible à différents segments, mais appartient finalement à un seul segment, en fonction de l’ordre de priorité [&#x200B; des segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
 >
