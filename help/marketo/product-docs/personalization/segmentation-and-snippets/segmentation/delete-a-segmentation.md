@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359510
-description: Suppression d’une segmentation - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer une segmentation dont vous n’avez plus besoin. Supprimez les associations de ressources, annulez l’approbation de la segmentation, puis utilisez les actions de segmentation pour supprimer.
 title: Supprimer une segmentation
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '119'
 ht-degree: 5%
 
 ---

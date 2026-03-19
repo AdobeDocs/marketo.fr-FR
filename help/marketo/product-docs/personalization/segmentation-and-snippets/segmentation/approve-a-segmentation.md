@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: Approuver une segmentation - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver une segmentation afin qu’elle puisse être utilisée pour le contenu dynamique et les rapports. Utilisez des actions de base de données et de segmentation pour approuver après avoir défini des règles de segment.
 title: Approuver une segmentation
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '249'
 ht-degree: 2%
 
 ---

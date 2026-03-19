@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359500
-description: Priorité de l’ordre de segmentation - Documents Marketo - Documentation du produit
+description: Découvrez la priorité de l’ordre de segmentation et comment elle détermine le segment auquel appartient une personne. Modifier l’ordre des segments dans la base de données pour contrôler l’évaluation des segments
 title: Ordre de priorité des segmentations
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '144'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ Il est important de comprendre comment **ordre** définit la priorité de l’é
 >[!PREREQUISITES]
 >
 >[Créer une segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->&#x200B;>[Définissez Des Règles De Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Définissez Des Règles De Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

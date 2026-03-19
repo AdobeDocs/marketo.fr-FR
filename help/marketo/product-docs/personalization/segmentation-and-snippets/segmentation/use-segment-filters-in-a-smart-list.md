@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359512
-description: Utilisation de filtres de segments dans une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser les filtres de segment dans une liste dynamique pour optimiser les performances. Ajoutez le filtre Segment pour cibler les personnes par segmentation dans vos listes intelligentes.
 title: Utiliser des filtres de segments dans une liste intelligente
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 12%
+source-wordcount: '81'
+ht-degree: 9%
 
 ---
 

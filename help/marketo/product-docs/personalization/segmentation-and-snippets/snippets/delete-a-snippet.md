@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359518
-description: Suppression d’un fragment de code - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer un fragment de code dont vous n’avez plus besoin. Désapprouvez le fragment de code et supprimez les associations de ressources, puis utilisez les actions de fragment de code dans Design Studio pour le supprimer.
 title: Supprimer un extrait
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 6%
 
 ---
 

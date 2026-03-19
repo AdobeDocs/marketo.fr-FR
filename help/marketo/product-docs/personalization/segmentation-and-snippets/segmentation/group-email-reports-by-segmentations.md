@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359488
-description: Regrouper les rapports sur les e-mails par segmentation - Documents Marketo - Documentation du produit
+description: Découvrez comment regrouper votre rapport sur les performances des e-mails par segmentations. Utilisez l’onglet Configuration du rapport sur les performances des e-mails pour appliquer une ou deux segmentations au regroupement.
 title: Regrouper les rapports sur les e-mails par segmentation
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 12%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

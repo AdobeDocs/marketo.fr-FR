@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359449
-description: Définir Des Règles De Segmentation - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir des règles de segment qui catégorisent les personnes en groupes s’excluant mutuellement. Ajouter des filtres de liste dynamique, prévisualiser des personnes (brouillon) et approuver des segments pour le contenu dynamique.
 title: Définir des règles de segmentation
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -69,7 +69,7 @@ Bon travail ! Ces segments seront utiles dans de nombreux endroits de Marketo.
 
 >[!NOTE]
 >
->Une personne peut être éligible à différents segments, mais appartient finalement à un seul segment, en fonction de l’ordre de priorité [&#x200B; des segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
+>Une personne peut être éligible à différents segments, mais appartient finalement à un seul segment, en fonction de l’ordre de priorité [ des segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
 >

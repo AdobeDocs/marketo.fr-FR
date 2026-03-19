@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: Approuver un fragment de code sans brouillon - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver un fragment de code avec des options sans brouillon. Sélectionnez Tout mettre à jour ou Créer des brouillons lors de l’approbation pour contrôler la mise à jour des ressources utilisant le fragment de code.
 title: Approuver un extrait sans brouillon
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '240'
 ht-degree: 4%
 
 ---

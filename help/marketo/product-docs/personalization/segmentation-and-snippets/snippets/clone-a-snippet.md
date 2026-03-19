@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359514
-description: Clonage d’un fragment de code - Documents Marketo - Documentation du produit
+description: Découvrez comment cloner un fragment de code pour créer une copie que vous pouvez modifier. Utilisez Design Studio et des actions sur les fragments de code pour cloner et personnaliser le contenu des e-mails et des pages de destination.
 title: Cloner un extrait
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '91'
+ht-degree: 6%
 
 ---
 

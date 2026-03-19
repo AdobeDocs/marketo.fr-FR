@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953417
-description: Présentation de Dynamic Content - Documents Marketo - Documentation du produit
+description: Découvrez le contenu dynamique de Marketo pour personnaliser les landing pages et les e-mails par segment. Comprenez la segmentation, les blocs de contenu dynamique et les fragments de code réutilisables.
 title: Présentation du contenu dynamique
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '237'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Tout d&#39;abord, vous devrez diviser vos employés en sous-groupes. Cela s’ap
 >
 >**Définition**
 >
->La segmentation classe votre audience en différents sous-groupes en fonction d’une règle [&#x200B; Liste dynamique &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ces groupes sont appelés segments.
+>La segmentation classe votre audience en différents sous-groupes en fonction d’une règle [ Liste dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ces groupes sont appelés segments.
 
 Par exemple, si nous avons une segmentation appelée Industrie, certains des segments pourraient être : Santé, Technologie, Financier, Biens de consommation, etc.
 
