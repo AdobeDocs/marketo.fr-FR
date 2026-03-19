@@ -29,6 +29,6 @@ C’est là que vous sélectionnez le message que vous avez créé pour l’util
 
    >[!TIP]
    >
-   >Pour sélectionner un autre message, supprimez-le dans le champ [!UICONTROL  Message In-App ]. Ensuite, le lien [!UICONTROL Nouveau message in-app] revient. Cliquez dessus et sélectionnez un autre message.
+   >Pour sélectionner un autre message, supprimez-le dans le champ [!UICONTROL &#x200B; Message In-App &#x200B;]. Ensuite, le lien [!UICONTROL Nouveau message in-app] revient. Cliquez dessus et sélectionnez un autre message.
 
 Vous êtes sur la bonne voie. Heure de [planification de l’envoi](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
