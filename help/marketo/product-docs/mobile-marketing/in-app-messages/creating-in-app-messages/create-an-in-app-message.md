@@ -1,12 +1,12 @@
 ---
-description: Création d’un message in-app - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un message in-app. Ajoutez-le en tant que ressource locale dans les activités marketing, donnez-lui un nom, puis choisissez une disposition et créez votre message.
 title: Créer un message in-app
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 

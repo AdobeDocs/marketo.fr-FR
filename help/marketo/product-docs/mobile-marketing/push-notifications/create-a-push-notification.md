@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512451
-description: Création d’une notification push - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une notification push. Ajoutez-le en tant que ressource locale dans votre programme, puis configurez-le et habillez-le pour votre application mobile.
 title: Créer une notification push
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 14%
+source-wordcount: '114'
+ht-degree: 12%
 
 ---
 

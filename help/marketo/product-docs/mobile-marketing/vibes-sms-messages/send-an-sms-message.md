@@ -1,11 +1,11 @@
 ---
-description: Envoyer un SMS - Documents Marketo - Documentation du produit
+description: Découvrez comment envoyer un SMS par le biais d’une campagne par lots ou par déclenchement. Définissez une liste dynamique, ajoutez l’étape de flux Envoyer un SMS, puis planifiez ou activez.
 title: Envoyer un message SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---

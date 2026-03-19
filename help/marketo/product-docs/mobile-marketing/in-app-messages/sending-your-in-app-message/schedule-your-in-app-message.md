@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370503
-description: Planifier Votre Message In-App - Documents Marketo - Documentation Du Produit
+description: Découvrez comment planifier votre message in-app. Définissez une date et une heure de début futures ou exécutez immédiatement, avec une date de fin facultative.
 title: Planifier votre message in-app
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 9%
+source-wordcount: '99'
+ht-degree: 8%
 
 ---
 

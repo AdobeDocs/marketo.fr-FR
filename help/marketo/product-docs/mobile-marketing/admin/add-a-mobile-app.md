@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512252
-description: Ajout d’une application mobile - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une application mobile à Marketo pour envoyer des notifications push. Nommez l’application et choisissez l’environnement Sandbox ou de production .
 title: Ajouter une application mobile
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 5%
+source-wordcount: '214'
+ht-degree: 4%
 
 ---
 

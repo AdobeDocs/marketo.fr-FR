@@ -1,12 +1,12 @@
 ---
-description: Utiliser des messages SMS Vibes dans les déclencheurs et filtres de liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser les déclencheurs et filtres SMS Vibes dans les campagnes intelligentes. Définissez quand envoyer ou filtrer par abonnement et appartenance à une liste.
 title: Utiliser les messages SMS Vibes dans les déclencheurs et filtres de liste dynamique
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '420'
 ht-degree: 1%
 
 ---
@@ -72,5 +72,5 @@ Après avoir configuré les déclencheurs et filtres Vibes dans votre liste dyna
 
 >[!MORELIKETHIS]
 >
->* [Définir une liste dynamique pour une campagne dynamique | Déclencheur &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Définir une liste dynamique pour une campagne dynamique | Déclencheur ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Rechercher et ajouter des filtres à une liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

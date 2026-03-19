@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: Configurer le bouton Ignorer et approuver le message - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer le bouton Ignorer et approuver votre message in-app. Configurez les actions de couleur, de conception et d’appui, puis prévisualisez et approuvez pour le lancement.
 title: Configurer le bouton Ignorer et approuver le message
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---

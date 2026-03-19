@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096158
-description: Authentification De La Sécurité D’Accès Mobile - Documents Marketo - Documentation Du Produit
+description: Découvrez comment activer la clé d’accès et le secret d’accès pour la sécurité des applications mobiles. Fournissez des codes au service informatique afin que les connexions aux applications soient vérifiées.
 title: Authentifier la sécurité d’accès mobile
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '158'
 ht-degree: 6%
 
 ---

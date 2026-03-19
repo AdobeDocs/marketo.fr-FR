@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: Envoyer une notification push mobile - Documents Marketo - Documentation du produit
+description: Découvrez comment envoyer une notification push mobile. Utilisez une campagne dynamique avec une liste dynamique et un flux pour planifier la notification push vers votre audience.
 title: Envoyer une notification push pour mobile
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 23%
+source-wordcount: '113'
+ht-degree: 24%
 
 ---
 

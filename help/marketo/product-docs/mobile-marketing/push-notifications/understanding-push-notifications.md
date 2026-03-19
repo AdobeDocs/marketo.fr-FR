@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511518
-description: Présentation Des Notifications Push - Documents Marketo - Documentation Du Produit
+description: Découvrez les notifications push dans Marketo. Comprenez la configuration des administrateurs et des développeurs, puis créez, configurez et envoyez via des campagnes intelligentes.
 title: Présentation des notifications push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ L’administrateur Marketo et le développeur d’applications mobiles travaille
 
 ## Étape 3 : envoyer ! {#step-send}
 
-[Vous pouvez envoyer des notifications push à l’aide &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) déclencheurs et de campagnes intelligentes par lots. Plutôt cool, hein ?
+[Vous pouvez envoyer des notifications push à l’aide ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) déclencheurs et de campagnes intelligentes par lots. Plutôt cool, hein ?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

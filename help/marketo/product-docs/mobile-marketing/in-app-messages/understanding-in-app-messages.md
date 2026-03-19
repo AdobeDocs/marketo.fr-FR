@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100397
-description: Comprendre Les Messages In-App - Documents Marketo - Documentation Du Produit
+description: Découvrez les messages in-app pour interagir avec les utilisateurs et utilisatrices de l’application avec des offres et des rappels. Créez et envoyez des messages qui créent un lien profond ou disparaissent en une seule touche.
 title: Présentation des messages in-app
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---

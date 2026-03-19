@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100649
-description: Configurer l’arrière-plan du message in-app - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer l’arrière-plan du message in-app. Choisissez la couleur ou l’image, définissez la bordure et le rayon de l’angle, puis configurez les actions d’appui pour chaque plateforme.
 title: Configurer l’arrière-plan du message in-app
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512432
-description: Configuration De L’Accès Push Android Pour Les Applications Mobiles - Documents Marketo - Documentation Du Produit
+description: Découvrez comment configurer l’accès aux notifications push Android pour votre application mobile. Saisissez la clé API du serveur et le numéro de projet de votre développeur dans Admin.
 title: Configurer l’accès push sur Android pour les applications mobiles
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 14%
+source-wordcount: '111'
+ht-degree: 12%
 
 ---
 

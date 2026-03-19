@@ -1,18 +1,18 @@
 ---
-description: Envoyer Votre Message In-App - Documents Marketo - Documentation Du Produit
+description: Découvrez comment envoyer votre message in-app. Créez un programme, utilisez le Panneau de Contrôle pour définir l’audience et le message, puis approuvez le lancement.
 title: Envoyer votre message in-app
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 5%
+source-wordcount: '171'
+ht-degree: 7%
 
 ---
 
 # Envoyer votre message in-app {#send-your-in-app-message}
 
-Une fois votre message in-app créé, il est temps de l’envoyer. Les étapes sont les suivantes :
+Une fois votre message in-app créé, il est temps de l’envoyer. La procédure est la suivante :
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ Une fois votre message in-app créé, il est temps de l’envoyer. Les étapes s
 
    ![Image 4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Prêt ? Commencez par [&#x200B; définir l’audience &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Prêt ? Commencez par [ définir l’audience ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

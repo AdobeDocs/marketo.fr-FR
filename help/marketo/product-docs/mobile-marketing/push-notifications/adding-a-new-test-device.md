@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: Ajout d’un nouvel appareil de test - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter un nouvel appareil de test pour les notifications push. Utilisez une URL ou un code QR pour connecter votre appareil et envoyer des notifications push de test.
 title: Ajout d’un nouvel appareil de test
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Il est facile d’ajouter un nouvel appareil de test vers lequel envoyer des not
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Cliquez sur **[!UICONTROL Admin]** puis sur le lien **[!UICONTROL Applications mobiles]**.
 

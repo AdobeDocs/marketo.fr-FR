@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092730
-description: Prévisualiser une notification push - Documents Marketo - Documentation du produit
+description: Découvrez comment prévisualiser une notification push sur Android et iOS. Affichez les informations affichées sur l’écran d’accueil, l’écran de verrouillage et le Centre de notifications.
 title: Prévisualiser une notification push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---

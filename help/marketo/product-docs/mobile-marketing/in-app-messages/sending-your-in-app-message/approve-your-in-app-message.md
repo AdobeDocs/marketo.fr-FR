@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617440
-description: Approuver Votre Message In-App - Documents Marketo - Documentation Du Produit
+description: Découvrez comment approuver votre message in-app pour le lancer. Suspendre, reprendre ou arrêter le programme et surveiller les performances avec le tableau de bord In-App.
 title: Approuver votre message in-app
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Vous devez approuver l’envoi avant que le message in-app ne soit envoyé.
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. Le message est maintenant « [!UICONTROL &#x200B; Actif &#x200B;].
+1. Le message est maintenant « [!UICONTROL  Actif ].
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 

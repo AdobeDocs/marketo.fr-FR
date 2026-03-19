@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617431
-description: Définir Votre Audience De Message In-App - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir l’audience de votre message in-app. Modifiez la liste dynamique, sélectionnez l’application et le déclencheur, définissez la limite d’affichage, puis ajoutez des filtres.
 title: Définir l’audience de votre message in-app
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 4%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Ajouter une étape de flux pour SMS - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des étapes de flux SMS aux campagnes intelligentes. Utilisez Envoyer un SMS, S’abonner à la liste Vibes ou Se désabonner de la liste Vibes.
 title: Ajouter une étape de flux pour les SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 3%
 
 ---
