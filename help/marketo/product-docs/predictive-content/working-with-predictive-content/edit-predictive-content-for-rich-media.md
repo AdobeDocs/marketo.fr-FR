@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385940
-description: Modification de contenu prédictif pour les médias riches - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer du contenu prédictif pour les médias riches avec des descriptions, des images sRVB et des catégories. Activez le contenu approuvé pour les recommandations web.
 title: Modifier le contenu prédictif des médias riches
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '228'
 ht-degree: 6%
 
 ---

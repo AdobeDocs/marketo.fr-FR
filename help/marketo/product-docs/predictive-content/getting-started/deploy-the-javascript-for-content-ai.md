@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385053
-description: Déploiement de JavaScript for Content-AI - Documents Marketo - Documentation du produit
+description: Découvrez comment générer et placer la balise RTP Web Personalization pour le contenu prédictif. Copiez-le dans l’en-tête de votre page, vérifiez la couverture et confirmez que le bouton (bascule) reste activé.
 title: Déployer le JavaScript pour l’IA dédiée au contenu
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 8%
+source-wordcount: '158'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 8%
 
 Pour utiliser le contenu prédictif, vous devez générer et configurer la balise RTP (Web Personalization).
 
-## Générez un tag {#generate-tag}
+## Générez un tag
+ {#generate-tag}
 
 1. Connectez-vous à votre compte de contenu prédictif . Accédez à **[!UICONTROL Paramètres du compte]**.
 

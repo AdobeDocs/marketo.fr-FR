@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384659
-description: Supprimer le contenu - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer du contenu de la page Tout le contenu lorsque vous n’avez plus besoin d’en effectuer le suivi. Supprimez du contenu via des actions de contenu pour garder votre liste à jour.
 title: Supprimer le contenu
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 

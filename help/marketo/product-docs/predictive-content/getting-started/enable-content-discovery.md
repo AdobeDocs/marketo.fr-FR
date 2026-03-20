@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719190
-description: Activer la découverte de contenu - Documents Marketo - Documentation du produit
+description: Découvrez comment activer la découverte de contenu afin que le contenu prédictif détecte automatiquement le contenu et balise le contenu de votre site. Suivez les vues sur les PDF, les vidéos et plus encore pour obtenir des recommandations.
 title: Activer la découverte de contenu
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '172'
 ht-degree: 3%
 
 ---

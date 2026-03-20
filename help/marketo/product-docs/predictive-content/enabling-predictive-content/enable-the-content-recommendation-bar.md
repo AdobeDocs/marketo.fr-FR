@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720108
-description: Activation de la barre de recommandations de contenu - Documents Marketo - Documentation du produit
+description: Découvrez comment activer et mettre en forme la barre de recommandations de contenu avec l’analyse prédictive pour chaque URL. Utilisez les paramètres de contenu pour activer/désactiver des pages et personnaliser les couleurs et les chemins d’accès.
 title: Activer la barre de recommandation de contenu
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---

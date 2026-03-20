@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384665
-description: Présentation Du Contenu Prédictif - Documents Marketo - Documentation Du Produit
+description: Découvrez les titres de contenu prédictif approuvés, les sources activées, les clics et les données de conversion. Utilisez des filtres et des dates pour comparer les performances des recommandations sur le web et par e-mail.
 title: Présentation du contenu prédictif
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '323'
 ht-degree: 2%
 
 ---

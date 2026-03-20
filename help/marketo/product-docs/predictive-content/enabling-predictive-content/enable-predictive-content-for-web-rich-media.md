@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514956
-description: Activer le contenu prédictif pour les médias riches en contenu web - Documents Marketo - Documentation du produit
+description: Découvrez comment activer le contenu prédictif pour les modèles Web Rich Media sur votre site. Activez les titres individuellement ou en bloc, puis incorporez et personnalisez la documentation JavaScript par développeur.
 title: Activer le contenu prédictif pour les médias riches web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '326'
 ht-degree: 4%
 
 ---
@@ -47,7 +47,7 @@ Une fois que vous avez préparé le titre, la description et l’image du conten
 
 ## Personnaliser le code JavaScript et l’incorporer dans votre site web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
+Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
 
 Collez le code JavaScript dans votre site web à l’emplacement où vous souhaitez que le modèle apparaisse.
 

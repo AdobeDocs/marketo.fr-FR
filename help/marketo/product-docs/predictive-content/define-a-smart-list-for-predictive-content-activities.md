@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097873
-description: Définition d’une liste dynamique pour les activités de contenu prédictif - Documents Marketo - Documentation du produit
+description: Découvrez comment définir des listes intelligentes avec des activités de contenu prédictives pour les médias riches, la barre de recommandation et les e-mails. Déclenchez des campagnes et filtrez les personnes qui cliquent sur le contenu recommandé.
 title: Définir une liste intelligente pour les activités de contenu prédictif
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '315'
 ht-degree: 5%
 
 ---
@@ -67,7 +67,7 @@ Vous pouvez utiliser des activités de contenu prédictives dans des déclencheu
 
    >[!MORELIKETHIS]
    >
-   >* [Définir une liste dynamique pour une campagne dynamique | Lot &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Définir une liste dynamique pour une campagne dynamique | Lot ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Ajouter une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Définition d’une liste dynamique pour les activités Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
    >* [Activer le contenu prédictif pour les médias riches en contenu web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

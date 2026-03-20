@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385938
-description: Modifier le contenu prédictif des e-mails - Documents Marketo - Documentation du produit
+description: Découvrez comment configurer du contenu prédictif pour les e-mails avec une image, un libellé de bouton et des catégories. Activez le contenu approuvé pour l’e-mail dans l’éditeur de contenu prédictif.
 title: Modifier le contenu prédictif des e-mails
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 5%
+source-wordcount: '255'
+ht-degree: 4%
 
 ---
 

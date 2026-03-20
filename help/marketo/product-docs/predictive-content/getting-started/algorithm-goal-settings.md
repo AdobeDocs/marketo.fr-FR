@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: Paramètres des objectifs de l’algorithme - Documents Marketo - Documentation du produit
+description: Découvrez comment définir l’objectif de l’algorithme de contenu prédictif sur Clics ou conversions dans les paramètres de contenu. Alignez l’IA sur les objectifs commerciaux afin d’optimiser les performances du contenu.
 title: Paramètres d’objectif d’algorithme
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 39%
+source-wordcount: '125'
+ht-degree: 32%
 
 ---
 

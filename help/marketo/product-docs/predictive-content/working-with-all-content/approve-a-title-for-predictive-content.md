@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384661
-description: Approuver un titre pour le contenu prédictif - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver un titre pour le contenu prédictif à partir de la page Tout le contenu ou du pop-up Modifier le contenu . Ajoutez le contenu approuvé à la page Contenu prédictif pour obtenir des recommandations.
 title: Approuver un titre pour le contenu prédictif
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '166'
+ht-degree: 7%
 
 ---
 

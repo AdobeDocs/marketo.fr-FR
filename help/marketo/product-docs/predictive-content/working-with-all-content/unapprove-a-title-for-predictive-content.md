@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
-description: Désapprobation d’un titre pour Contenu prédictif - Documents Marketo - Documentation du produit
+description: Découvrez comment annuler l’approbation d’un titre pour le contenu prédictif dans la page Tout le contenu ou le pop-up Modifier le contenu . Supprimez le titre de la page Contenu prédictif si nécessaire.
 title: Annuler l’approbation d’un titre pour le contenu prédictif
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 

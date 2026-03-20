@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981204
-description: Présentation De Predictive Content Analytics - Documentation De Marketo - Documentation Du Produit
+description: Découvrez les tableaux de bord de Content Analytics prédictive pour les principales vues, le taux de conversion, le contenu de tendance et les suggestions. Filtrez par attributs, définissez des périodes et exportez des données pour affiner votre stratégie de contenu.
 title: Vue d’ensemble de l’analyse du contenu prédictif
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '379'
 ht-degree: 10%
 
 ---
@@ -69,7 +69,7 @@ Affiche la montée en popularité d’un élément de contenu en examinant la de
 
 ![](assets/new-8.png)
 
-## [!UICONTROL &#x200B; Contenu suggéré &#x200B;] {#suggested-content}
+## [!UICONTROL  Contenu suggéré ] {#suggested-content}
 
 Affiche le contenu que nous vous suggérons de promouvoir dans vos activités marketing en fonction du filtre que vous avez défini.
 

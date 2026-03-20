@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385579
-description: Création De Modèles De Contenu - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir des modèles d’URL afin que le contenu prédictif détecte automatiquement les pages HTML que les visiteurs voient ou cliquent. Ajoutez des chemins et des catégories sous Modèles d’URL des paramètres de contenu.
 title: Créez des modèles de contenu
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '385'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ Pour _domain.com_ :
    <td><p>Découvre tout le contenu correspondant au modèle domain.com/article/2017/ :</p><p>domain.com/article/2017/5-top-tricks</p></td>
   </tr>
   <tr>
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
    <td><p>Découvre toute URL contenant le mot « feuilles de données : »</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
   </tr>
   <tr>
