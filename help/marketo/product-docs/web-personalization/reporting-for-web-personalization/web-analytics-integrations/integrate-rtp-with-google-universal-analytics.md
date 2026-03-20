@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720125
-description: Intégration du RTP à Google Universal Analytics - Documentation de Marketo - Documentation du produit
+description: Découvrez comment intégrer rtp à Google Universal Analytics dans Marketo Engage à l’aide de l’intégration rtp à dnl Google. Utilisez ce guide pour passer à l’étape suivante.
 title: Intégrer RTP à Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '417'
 ht-degree: 5%
 
 ---
@@ -118,7 +118,7 @@ Une fois que vous avez activé les dimensions personnalisées dans GUA, accédez
 ## Supprimer les anciens tableaux de bord dans Google Analytics {#remove-old-dashboards-in-google-analytics}
 
 1. Dans Google Analytics. Accédez à **[!UICONTROL Reporting].**
-1. Cliquez sur **[!UICONTROL Tableaux de bord &#x200B;].**.
+1. Cliquez sur **[!UICONTROL Tableaux de bord ].**.
 1. Sélectionnez un **[!UICONTROL Tableau de bord]** (RTP B2B ou Performances RTP)
 1. Cliquez sur **[!UICONTROL Supprimer le tableau de bord]**.
 

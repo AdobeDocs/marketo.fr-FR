@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571890
-description: Activer les groupes de champs personnalisés pour l’analyse des performances du modèle (leads) - Documents Marketo - Documentation du produit
+description: Découvrez comment activer les groupes de champs personnalisés pour l’analyse des performances du modèle (prospects) dans Marketo Engage à l’aide de l’option activer les groupes personnalisés. Utilisez ce guide pour passer à l’étape suivante.
 title: Activer des groupes de champs personnalisés pour l’analyse des performances du modèle (leads)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '357'
 ht-degree: 5%
 
 ---

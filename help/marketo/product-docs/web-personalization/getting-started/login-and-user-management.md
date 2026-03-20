@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7513771
-description: Connexion et gestion des utilisateurs - Documents Marketo - Documentation du produit
+description: Découvrez comment vous connecter et gérer les utilisateurs dans Marketo Engage à l’aide de la connexion et de la gestion des utilisateurs connexion et gestion des utilisateurs . Utilisez ce guide pour passer à l’étape suivante.
 title: Gestion des connexions et des utilisateurs et utilisatrices
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '321'
 ht-degree: 2%
 
 ---

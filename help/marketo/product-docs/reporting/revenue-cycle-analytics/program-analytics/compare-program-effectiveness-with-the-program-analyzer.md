@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360403
-description: Comparer l’efficacité du programme avec celle de l’analyseur de programmes - Documents Marketo - Documentation du produit
+description: Découvrez comment comparer l’efficacité des programmes avec l’analyseur de programmes dans Marketo Engage, y compris comparer des programmes. Utilisez ce guide pour passer à l’étape suivante.
 title: Comparer l’efficacité du programme avec l’analyseur de programme
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '471'
 ht-degree: 1%
 
 ---
@@ -67,7 +67,7 @@ Utilisez l’[!UICONTROL analyseur de programmes] pour identifier vos programmes
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Observez les bulles changer de taille dans votre graphique.
 

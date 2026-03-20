@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094959
-description: Utilisation des tableaux de bord dans Revenue Explorer - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser des tableaux de bord dans l’explorateur de chiffre d’affaires de Marketo Engage à l’aide de tableaux de bord dans l’explorateur de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
 title: Utilisation de tableaux de bord dans l’explorateur de revenu
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 1%
 
 ---
 

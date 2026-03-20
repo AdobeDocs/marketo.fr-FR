@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360035
-description: Accéder en profondeur à un rapport de performances des personnes - Documents Marketo - Documentation du produit
+description: Découvrez comment analyser en profondeur les rapports Performances des personnes pour afficher des informations supplémentaires sur la personne en sélectionnant une ligne et en choisissant un attribut. Explorez les données détaillées des prospects dans un nouvel onglet du rapport.
 title: Analyser en profondeur un rapport de performances des personnes
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '152'
+ht-degree: 10%
 
 ---
 

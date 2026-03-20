@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504923
-description: Définition  [!DNL Google AdWords]  conversions dans le modèle de chiffre d’affaires avec un compte Manager - Documents Marketo - Documentation du produit
+description: Découvrez comment définir des conversions [!dnl google adwords] dans le modèle de chiffre d’affaires avec un compte Manager dans Marketo Engage. Utilisez ce guide pour passer à l’étape suivante.
 title: Définition  [!DNL Google AdWords]  conversions dans le modèle de chiffre d’affaires avec un compte Manager
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---

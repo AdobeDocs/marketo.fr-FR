@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512105
-description: Clonage d’un rapport vers des rapports de groupe - Documents Marketo - Documentation du produit
+description: Découvrez comment cloner les rapports de Mes rapports pour les regrouper afin de les rendre visibles par tous les utilisateurs de Workspace. Partagez des rapports avec votre équipe à l’aide de l’option Cloner vers .
 title: Cloner un rapport sur des rapports de groupe
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 10%
+source-wordcount: '129'
+ht-degree: 9%
 
 ---
 

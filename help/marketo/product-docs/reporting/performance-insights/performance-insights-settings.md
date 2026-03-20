@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: Paramètres Des Informations Sur Les Performances - Documents Marketo - Documentation Du Produit
+description: Découvrez les paramètres Performance Insights, notamment l’agrégation des succès du programme, la configuration des périodes précédentes, les opportunités influencées par le marketing et les options de calcul des coûts. Configurez les paramètres en fonction de la vue de votre tableau de bord.
 title: Paramètres de Performance Insights
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 10%
 
 ---

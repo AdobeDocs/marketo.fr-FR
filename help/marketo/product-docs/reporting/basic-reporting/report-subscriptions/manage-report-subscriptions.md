@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359991
-description: Gestion Des Abonnements Aux Rapports - Documents Marketo - Documentation Du Produit
+description: Découvrez comment gérer tous les abonnements aux rapports au même endroit à partir de l’onglet Abonnements Analytics . Modifiez la fréquence, les destinataires et les paramètres ou supprimez des abonnements selon vos besoins.
 title: Gérer les abonnements aux rapports
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Configurez et supprimez les abonnements aux rapports.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [&#x200B; type de rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’Explorateur du cycle du chiffre d’affaires.
+   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [ type de rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’Explorateur du cycle du chiffre d’affaires.
 
    >[!TIP]
    >

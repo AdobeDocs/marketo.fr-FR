@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718651
-description: Présentation de la zone Analyse des e-mails - Documents Marketo - Documentation du produit
+description: Découvrez la zone d’analyse des e-mails dans Marketo Engage, notamment la zone d’analyse des e-mails. Utilisez ce guide pour passer à l’étape suivante.
 title: Présentation de la zone d’analyse d’e-mail
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '375'
 ht-degree: 4%
 
 ---

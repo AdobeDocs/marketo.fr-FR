@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360418
-description: Rapport d’étape Personnes par chiffre d’affaires - Documents Marketo - Documentation du produit
+description: Découvrez les personnes par rapport à l’étape du chiffre d’affaires dans Marketo Engage, y compris le rapport Personnes par étape du chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
 title: Rapport des personnes par étape de revenu
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '150'
+ht-degree: 6%
 
 ---
 

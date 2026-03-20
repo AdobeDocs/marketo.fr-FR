@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: Création d’un segment web de base - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un segment web de base dans Marketo Engage à l’aide de la commande create-a-basic-web-segment. Passez à l’étape suivante en toute confiance.
 title: Créer un segment web de base
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '177'
 ht-degree: 9%
 
 ---

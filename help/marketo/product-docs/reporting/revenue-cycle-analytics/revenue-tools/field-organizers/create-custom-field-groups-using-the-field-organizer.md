@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094404
-description: Création de groupes de champs personnalisés à l’aide de l’organisateur de champs - Documents Marketo - Documentation du produit
+description: Découvrez comment créer des groupes de champs personnalisés à l’aide de l’organisateur de champs dans Marketo Engage à l’aide de la création de groupes de champs personnalisés. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer des groupes de champs personnalisés à l’aide de l’organisateur de champs
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '1015'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Lorsque vous sélectionnez un champ standard ou personnalisé dans la liste dér
 | URL | Chaîne |
 | Référence | Non pris en charge |
 | Devise | Nombre entier |
-| DateHeure | Date |
+| DateTime | Date |
 | Booléen | Non pris en charge |
 | Téléphone | Chaîne |
 | Date | Date |
@@ -44,7 +44,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Pays &#x200B;] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Pays ] est utilisé ici.
 
    ![](assets/three.png)
 
@@ -154,7 +154,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Date d’acquisition &#x200B;] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Date d’acquisition ] est utilisé ici.
 
    ![](assets/fourteen.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360016
-description: Filtrer les personnes dans un rapport avec une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment filtrer les personnes dans les rapports à l’aide de listes dynamiques pour limiter les résultats en fonction d’attributs de personne spécifiques. Appliquez des filtres dans l’onglet Liste dynamique pour divers types de rapports.
 title: Filtrer des personnes dans un rapport avec une liste intelligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 38%
+source-wordcount: '147'
+ht-degree: 34%
 
 ---
 

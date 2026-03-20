@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504343
-description: Création d’un segment à l’aide de données de personne connues - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un segment à l’aide de données de personne connue dans Marketo Engage à l’aide de la fonction Créer un segment à l’aide d’une personne connue. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un segment à l’aide des données d’une personne connue
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 10%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 

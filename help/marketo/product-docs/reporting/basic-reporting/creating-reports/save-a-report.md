@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: Enregistrer un rapport - Documents Marketo - Documentation du produit
+description: Découvrez comment enregistrer les rapports par défaut pour les afficher à nouveau ultérieurement en sélectionnant Enregistrer sous dans les actions de rapport. Organisez les rapports enregistrés dans des dossiers au sein de Mes rapports ou Rapports de groupe.
 title: Enregistrer un rapport
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 7%
+source-wordcount: '102'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ Il peut arriver que vous deviez enregistrer un rapport par défaut pour l’affi
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Sélectionnez un [&#x200B; type de rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Sélectionnez un [ type de rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -41,4 +41,4 @@ Il peut arriver que vous deviez enregistrer un rapport par défaut pour l’affi
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [cloner un rapport pour en regrouper &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Découvrez comment [cloner un rapport pour en regrouper ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

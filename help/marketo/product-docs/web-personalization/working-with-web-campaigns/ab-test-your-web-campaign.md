@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719404
-description: AB Tester Votre Campagne Web - Documents Marketo - Documentation Du Produit
+description: Découvrez un test de votre campagne web dans Marketo Engage, y compris un test de votre campagne web. Utilisez ce guide pour passer à l’étape suivante.
 title: Effectuer un test AB de votre campagne web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '345'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ Pour tester A/B vos campagnes personnalisées, vous pouvez sélectionner deux ca
 
 >[!TIP]
 >
->Si vous préférez calculer manuellement et voir quelle campagne est la plus performante, n’activez pas l’option [!UICONTROL &#x200B; Réglage automatique &#x200B;].
+>Si vous préférez calculer manuellement et voir quelle campagne est la plus performante, n’activez pas l’option [!UICONTROL  Réglage automatique ].
 
 ## Configuration d’un test A/B partagé {#how-to-set-up-a-split-a-b-test}
 

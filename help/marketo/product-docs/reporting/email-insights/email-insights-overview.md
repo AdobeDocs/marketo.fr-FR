@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099408
-description: Présentation D’Email Insights - Documents Marketo - Documentation Du Produit
+description: Découvrez les informations sur les e-mails qui fournissent des analyses puissantes à partir des données d’e-mail historiques via les sections Analytics et Envois. Explorez les mesures de diffusion et d’engagement avec des options de filtrage avancé.
 title: Vue d’ensemble d’Email Insights
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 4%
+source-wordcount: '233'
+ht-degree: 3%
 
 ---
 

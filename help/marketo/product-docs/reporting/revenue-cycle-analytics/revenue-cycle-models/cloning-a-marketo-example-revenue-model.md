@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718677
-description: Clonage d’un exemple de modèle de chiffre d’affaires Marketo - Documents Marketo - Documentation du produit
+description: Découvrez comment cloner un exemple de modèle de chiffre d’affaires marketo dans Marketo Engage, y compris en clonant un exemple de chiffre d’affaires marketo. Utilisez ce guide pour passer à l’étape suivante.
 title: Clonage d’un modèle d’exemple de revenu Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 15%
+source-wordcount: '95'
+ht-degree: 12%
 
 ---
 

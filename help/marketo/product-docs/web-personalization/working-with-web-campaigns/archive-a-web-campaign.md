@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978938
-description: Archiver une campagne web - Documents Marketo - Documentation du produit
+description: Découvrez comment archiver une campagne web dans Marketo Engage, notamment comment archiver une campagne web archive-a-web-campaign. Utilisez ce guide pour passer à l’étape suivante.
 title: Archiver une campagne web
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 12%
+source-wordcount: '78'
+ht-degree: 10%
 
 ---
 

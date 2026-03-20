@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360181
-description: Suivi des activités et des personnes anonymes - Documents Marketo - Documentation du produit
+description: Découvrez le suivi des activités et des personnes anonymes dans Marketo Engage, y compris le suivi des activités et des personnes anonymes. Utilisez ce guide pour passer à l’étape suivante.
 title: Suivi des activités et des personnes anonymes
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---
@@ -29,7 +29,7 @@ La première fois qu’une personne visite une [page de destination](/help/marke
 
    * Clique sur un [lien dans un email Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Remplit un [formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) Marketo.
-   * Utilise l’API Marketo [API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/leads) ou l’API [Munchkin](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
+   * Utilise l’API Marketo [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) ou l’API [Munchkin](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) (pour les développeurs) pour associer une activité anonyme à un enregistrement connu.
 
    Un nom de la base de données peut être lié à de nombreux cookies, car les visiteurs utilisent souvent différents appareils et navigateurs pour visiter votre site.
 

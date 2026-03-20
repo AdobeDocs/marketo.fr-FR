@@ -1,11 +1,11 @@
 ---
-description: Présentation Des Rapports - Documents Marketo - Documentation Du Produit
+description: Découvrez les modules de création de rapports de Marketo Engage, notamment les rapports de base, les informations sur les e-mails, les informations sur les performances et les analyses BI avancées. Découvrez quelle solution de création de rapports correspond à vos besoins.
 title: Vue d’ensemble des rapports
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -54,7 +54,7 @@ Voici quelques avantages des rapports Analytics BI avancés :
 
 ## Analyses de Parcours avancées {#advanced-journey-analytics}
 
-Modèles de cycle du chiffre d’affaires : modélisez toutes les étapes de l’ensemble de votre entonnoir de chiffres d’affaires et leur transition entre ces étapes, depuis le moment où vous interagissez pour la première fois avec un prospect jusqu’au moment où le prospect est un client confirmé.
+Modèles de cycle du chiffre d’affaires : modélisez toutes les étapes de l’ensemble de votre funnel de chiffres d’affaires et leur transition entre ces étapes, depuis le moment où vous interagissez pour la première fois avec un prospect jusqu’au moment où le prospect est un client confirmé.
 
 Analyseur de chemin de réussite : obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle de chiffre d’affaires. L’analyseur de chemin de succès nécessite que vous créiez des modèles de cycle de chiffre d’affaires.
 

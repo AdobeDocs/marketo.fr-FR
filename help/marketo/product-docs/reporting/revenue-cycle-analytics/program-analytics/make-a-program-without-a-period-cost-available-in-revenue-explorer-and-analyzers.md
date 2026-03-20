@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360389
-description: Mise à disposition d’un programme sans coût de période dans l’Explorateur et les analyseurs de revenus - Documents Marketo - Documentation du produit
+description: Découvrez comment rendre un programme sans coût de période disponible dans l’explorateur et les analyseurs de chiffre d’affaires de Marketo Engage. Utilisez ce guide pour passer à l’étape suivante.
 title: Rendre un programme sans coût de période disponible dans l’explorateur de revenu et les analyseurs
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 10%
+source-wordcount: '259'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Les coûts de la période du programme vous permettent de définir « combien d�
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Il se peut que certains programmes doivent être inclus même s&#39;ils n&#39;ont pas de coût de période. Bien que vous puissiez entrer 0 pour le coût de la période, nous avons facilité l&#39;inclusion de ces programmes.
 

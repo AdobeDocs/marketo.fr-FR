@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720917
-description: Remarketing personnalisé sur Facebook - Documents Marketo - Documentation du produit
+description: Découvrez le remarketing personnalisé sur facebook dans Marketo Engage, y compris le remarketing personnalisé dans dnl. Utilisez ce guide pour passer à l’étape suivante.
 title: Remarketing personnalisé dans Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '299'
 ht-degree: 9%
 
 ---
@@ -18,11 +18,11 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 >[!PREREQUISITES]
 >
 >* Effectuez la configuration [Reciblage avec données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Consultez la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
+>* Consultez la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentation Facebook sur les audiences personnalisées](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) et le remarketing.
 
 ## Création d’une audience dans [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. Dans [!DNL Facebook], accédez à l’onglet [&#x200B; Audience &#x200B;](https://www.facebook.com/ads/audience_manager) dans le Gestionnaire de publicités.
+1. Dans [!DNL Facebook], accédez à l’onglet [ Audience ](https://www.facebook.com/ads/audience_manager) dans le Gestionnaire de publicités.
 
 1. Cliquez sur **[!UICONTROL Outils]** et sélectionnez **[!UICONTROL Audiences]**.
 
@@ -130,4 +130,4 @@ Pour plus d’informations, voir [documentation de Facebook](https://developers.
 >[!MORELIKETHIS]
 >
 >* [Reciblage avec des données Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [&#x200B; Remarketing personnalisé dans Google &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [ Remarketing personnalisé dans Google ](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

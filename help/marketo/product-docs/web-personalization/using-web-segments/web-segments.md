@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719093
-description: Segments Web - Documents Marketo - Documentation Du Produit
+description: Découvrez les segments web dans Marketo Engage, y compris le fait que l’onglet segments affiche tous les segments personnalisés. Utilisez ce guide pour passer à l’étape suivante.
 title: Segments web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2061'
 ht-degree: 5%
 
 ---
@@ -76,7 +76,7 @@ Ces informations incluent :
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL &#x200B; Choisir une action &#x200B;] » au bas du tableau, sélectionnez l’action « [!UICONTROL &#x200B; Activer &#x200B;] » ou « [!UICONTROL &#x200B; Désactiver &#x200B;]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL  Choisir une action ] » au bas du tableau, sélectionnez l’action « [!UICONTROL  Activer ] » ou « [!UICONTROL  Désactiver ]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
 
 ## Création de segments {#create-segments}
 
@@ -187,7 +187,7 @@ Effectuez une sélection dans une [Liste de comptes nommés](/help/marketo/produ
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exclure le FAI**
 
@@ -286,7 +286,7 @@ Ajoutez la valeur d’événement à cibler. Par exemple, à partir de sources d
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

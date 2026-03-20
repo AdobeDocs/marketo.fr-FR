@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360057
-description: Rapport d’activité de campagne - Documents Marketo - Documentation du produit
+description: Découvrez le rapport d’activité de campagne dans Marketo Engage, y compris le rapport d’activité de campagne campaign-activity-report. Utilisez ce guide pour passer à l’étape suivante.
 title: Rapport d’activité de campagne
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 15%
+source-wordcount: '234'
+ht-degree: 14%
 
 ---
 
@@ -23,7 +23,7 @@ Vérifiez les performances de vos [campagnes intelligentes](/help/marketo/produc
 
 >[!NOTE]
 >
->Toutes les [&#x200B; Campagnes exécutables &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} s’affichent sous la forme de « campagnes déclenchées inactives » dans les rapports d’activité de campagne.
+>Toutes les [ Campagnes exécutables ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} s’affichent sous la forme de « campagnes déclenchées inactives » dans les rapports d’activité de campagne.
 
 ![](assets/campaign-activity-report-1.png)
 

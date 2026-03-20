@@ -1,12 +1,12 @@
 ---
-description: Filtrage des enregistrements fusionnés/supprimés dans un rapport sur les e-mails - Documents Marketo - Documentation du produit
+description: Découvrez comment filtrer les enregistrements fusionnés/supprimés dans un rapport sur les e-mails dans Marketo Engage à l’aide du filtre sur les enregistrements fusionnés supprimés dans . Passez à l’étape suivante en toute confiance.
 title: Filtrer les enregistrements fusionnés/supprimés dans un rapport sur les e-mails
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '134'
+ht-degree: 6%
 
 ---
 

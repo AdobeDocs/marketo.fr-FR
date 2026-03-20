@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718675
-description: Modification du nom d’une étape - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier le nom d’une étape dans Marketo Engage, y compris le nom d’une étape. Utilisez ce guide pour passer à l’étape suivante.
 title: Modification du nom d’une étape
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 18%
+source-wordcount: '90'
+ht-degree: 15%
 
 ---
 

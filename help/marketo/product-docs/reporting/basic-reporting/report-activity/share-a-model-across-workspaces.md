@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360205
-description: Partager un modèle sur plusieurs espaces de travail - Documents Marketo - Documentation du produit
+description: Découvrez comment partager un modèle sur plusieurs espaces de travail dans Marketo Engage, notamment partager un modèle sur plusieurs espaces de travail. Utilisez ce guide pour passer à l’étape suivante.
 title: Partager un modèle dans plusieurs espaces de travail
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 10%
+source-wordcount: '130'
+ht-degree: 9%
 
 ---
 

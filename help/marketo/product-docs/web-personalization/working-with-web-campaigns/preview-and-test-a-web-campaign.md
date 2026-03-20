@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092925
-description: Prévisualiser et tester une campagne web - Documents Marketo - Documentation du produit
+description: Découvrez comment prévisualiser et tester une campagne web dans Marketo Engage à l’aide de la prévisualisation et du test d’une campagne web. Utilisez ce guide pour passer à l’étape suivante.
 title: Prévisualiser et tester une campagne web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '411'
 ht-degree: 4%
 
 ---

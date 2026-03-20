@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720224
-description: Modifier les régions - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier des régions dans Marketo Engage en cherchant à remplacer vos paramètres régionaux utilisateur par . Utilisez ce guide pour passer à l’étape suivante.
 title: Modifier les régions
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 3%
+source-wordcount: '80'
+ht-degree: 2%
 
 ---
 

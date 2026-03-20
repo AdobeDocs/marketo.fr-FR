@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718648
-description: Présentation d’Opportunity Influence Analyzer - Documents Marketo - Documentation du produit
+description: Découvrez comment comprendre l’analyseur d’influence d’opportunité dans Marketo Engage, notamment le . Utilisez ce guide pour passer à l’étape suivante.
 title: Présentation de l’analyseur d’influence d’opportunité
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '267'
 ht-degree: 3%
 
 ---

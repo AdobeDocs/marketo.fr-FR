@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360399
-description: Création d’un analyseur de programme - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un analyseur de programmes dans Marketo Engage à l’aide de la commande create-a-program-analyzer de l’analyseur de programmes. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un analyseur de programme
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 2%
+source-wordcount: '304'
+ht-degree: 1%
 
 ---
 
@@ -65,7 +65,7 @@ Découvrez quels programmes et canaux vous offrent le meilleur retour sur invest
 
 >[!NOTE]
 >
->De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >

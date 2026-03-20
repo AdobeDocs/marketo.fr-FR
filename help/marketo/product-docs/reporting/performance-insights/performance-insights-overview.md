@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979006
-description: Présentation De Performance Insights - Documents Marketo - Documentation Du Produit
+description: Découvrez les informations sur les performances qui permettent d’optimiser le mix de canaux et de découvrir des tendances à long terme pour des stratégies gagnantes cohérentes. Analysez les contributions, les tendances et exportez les données vers PowerPoint ou Excel.
 title: Vue d’ensemble de Performance Insights
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
@@ -37,7 +37,7 @@ Par défaut, les données affichées reflètent les performances par [!UICONTROL
 
 ## Tendance {#trend}
 
-Découvrez [&#x200B; tendances à long terme &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) repérer des stratégies gagnantes cohérentes.
+Découvrez [ tendances à long terme ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) repérer des stratégies gagnantes cohérentes.
 
 ![](assets/4.png)
 

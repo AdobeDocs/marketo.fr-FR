@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
-description: Exportation d’un rapport vers  [!DNL Excel] - Documents Marketo - Documentation du produit
+description: Découvrez comment exporter des rapports vers des fichiers Excel pour les analyser dans d’autres logiciels. Cliquez sur le bouton Exporter de l’onglet Rapport pour télécharger vos données.
 title: Exporter un rapport vers  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 6%
 
 ---
 

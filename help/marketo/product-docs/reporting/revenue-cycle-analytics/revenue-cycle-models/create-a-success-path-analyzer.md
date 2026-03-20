@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360411
-description: Création d’un analyseur de chemin de succès - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un analyseur de chemins de réussite dans Marketo Engage à l’aide de la fonction Créer un analyseur de chemins de réussite. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un analyseur de voie du succès
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360012
-description: Rapport Personnes par statut - Documents Marketo - Documentation du produit
+description: Découvrez les rapports Personnes par statut qui indiquent le nombre de personnes qui apparaissent chaque mois dans chaque valeur de statut de personne. Suivez la progression de votre processus et identifiez les goulets d’étranglement dans votre funnel.
 title: Rapport des personnes par statut
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 8%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 

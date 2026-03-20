@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: Présentation De La Contribution Des Informations De Performance - Documents Marketo - Documentation Du Produit
+description: Découvrez la vue Contribution des informations sur les performances qui évalue la contribution marketing au chiffre d’affaires par le biais de l’engagement, du pipeline et des mesures de chiffre d’affaires. Affichez les performances des canaux et des programmes à l’aide de graphiques en anneau et à barres.
 title: Vue d’ensemble de contribution de Performance Insights
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '398'
 ht-degree: 1%
 
 ---

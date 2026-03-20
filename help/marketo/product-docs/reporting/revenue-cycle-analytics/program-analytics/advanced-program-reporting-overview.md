@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953144
-description: Présentation Des Rapports Avancés Sur Les Programmes - Documents Marketo - Documentation Du Produit
+description: Découvrez la présentation des rapports de programme avancés dans Marketo Engage, y compris la présentation des rapports de programme avancés. Utilisez ce guide pour passer à l’étape suivante.
 title: Vue d’ensemble des rapports de programmes avancés
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '285'
 ht-degree: 2%
 
 ---

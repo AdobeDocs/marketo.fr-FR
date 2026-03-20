@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719179
-description: Utilisation de l’éditeur de texte enrichi Web Personalization - Documentation de Marketo - Documentation du produit
+description: Découvrez comment utiliser l’éditeur de texte enrichi de personnalisation web dans Marketo Engage à l’aide de la personnalisation web dnl. Passez à l’étape suivante en toute confiance.
 title: Utilisation de l’éditeur de texte enrichi pour Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 10%
+source-wordcount: '193'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ Les icônes importantes de l’éditeur de texte enrichi sont les suivantes :
 <table>
  <tbody>
   <tr>
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
    <td colspan="1"><strong>Modifier la source HTML</strong></td>
    <td colspan="1">Permet d’afficher le code source HTML</td>
   </tr>

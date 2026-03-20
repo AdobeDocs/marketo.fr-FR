@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9438258
-description: Présentation du rapport récapitulatif - Documents Marketo - Documentation du produit
+description: Découvrez le rapport de synthèse qui fournit une vue mensuelle de la campagne et les performances de contenu recommandées. Effectuez le suivi des clics, des conversions directes et des conversions assistées, et comparez les résultats aux mois précédents.
 title: Présentation du rapport Résumé
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---

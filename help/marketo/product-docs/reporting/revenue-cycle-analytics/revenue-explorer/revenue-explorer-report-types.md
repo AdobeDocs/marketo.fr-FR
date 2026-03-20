@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504922
-description: Types De Rapports De L’Explorateur De Revenus - Documents Marketo - Documentation Du Produit
+description: Découvrez les types de rapports de l’explorateur de revenus dans Marketo Engage, y compris les types de rapports de l’explorateur de revenus. Utilisez ce guide pour passer à l’étape suivante.
 title: Types de rapports de l’explorateur de revenu
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 15%
+source-wordcount: '160'
+ht-degree: 14%
 
 ---
 

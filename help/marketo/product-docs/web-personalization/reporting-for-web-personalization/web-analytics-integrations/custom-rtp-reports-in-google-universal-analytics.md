@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504218
-description: Rapports RTP personnalisés dans Google Universal Analytics - Documents Marketo - Documentation du produit
+description: Découvrez les rapports rtp personnalisés dans Google Universal Analytics dans Marketo Engage, y compris les rapports rtp personnalisés dans . Utilisez ce guide pour passer à l’étape suivante.
 title: Rapports RTP personnalisés dans Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '401'
 ht-degree: 8%
 
 ---

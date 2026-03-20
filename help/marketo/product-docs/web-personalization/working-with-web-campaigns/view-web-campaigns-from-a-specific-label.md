@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720075
-description: Affichage de campagnes web à partir d’un libellé spécifique - Documents Marketo - Documentation du produit
+description: Découvrez comment afficher des campagnes web à partir d’un libellé spécifique dans Marketo Engage, y compris comment afficher des campagnes web à partir d’un libellé spécifique. Utilisez ce guide pour passer à l’étape suivante.
 title: Afficher des campagnes web à partir d’une étiquette spécifique
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '98'
+ht-degree: 14%
 
 ---
 

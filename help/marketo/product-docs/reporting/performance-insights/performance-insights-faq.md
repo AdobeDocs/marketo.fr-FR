@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979858
-description: FAQ sur Performance Insights - Documents Marketo - Documentation du produit
+description: Trouvez des réponses aux questions fréquentes sur les informations sur les performances, y compris les paramètres d’attribution, la visibilité du programme, le mappage des opportunités et les exigences de configuration. Découvrez comment MPI fonctionne avec votre CRM et vos analyses.
 title: Questions fréquentes sur Performance Insights
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1367'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Oui. La prise en charge de [Marketo](https://nation.marketo.com/t5/Support/ct-p/
 
 ## Si je n’utilise pas les opportunités, puis-je quand même utiliser MPI ? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
 
-MPI est conçu pour vous permettre de mesurer les performances des programmes du haut de l’entonnoir jusqu’à leur impact sur les recettes. Si vous n’utilisez pas les opportunités, vous pourrez toujours :
+MPI est conçu pour vous permettre de mesurer les performances des programmes depuis le sommet du funnel jusqu’à leur impact sur le chiffre d’affaires. Si vous n’utilisez pas les opportunités, vous pourrez toujours :
 
 * Affichez les performances de vos programmes de formation pour l’engagement du public.
 * Affichez les performances de vos programmes d’acquisition de prospects.

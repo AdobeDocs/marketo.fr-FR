@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718670
-description: Utilisation des étapes de point de contrôle du modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser les étapes de point de contrôle du modèle de chiffre d’affaires dans Marketo Engage à l’aide des étapes de point de contrôle du modèle de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
 title: Utilisation d’étapes de contrôle du modèle de revenu
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '288'
 ht-degree: 4%
 
 ---

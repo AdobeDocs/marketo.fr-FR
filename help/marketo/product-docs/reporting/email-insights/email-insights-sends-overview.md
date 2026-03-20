@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099413
-description: Présentation Des Envois D’Informations Par E-Mail - Documents Marketo - Documentation Du Produit
+description: Découvrez la page Envois d’e-mails Insights qui examine les caractéristiques des communications par e-mail récentes. Affichez les mesures de diffusion, les mesures d’engagement et les scores d’engagement pour les e-mails envoyés.
 title: Vue d’ensemble des envois Email Insights
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '190'
 ht-degree: 4%
 
 ---

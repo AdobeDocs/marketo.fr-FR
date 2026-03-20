@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360405
-description: Créer un rapport d’analyse de l’appartenance à un programme qui répertorie les leads - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un rapport d’analyse de l’appartenance à un programme qui répertorie les prospects dans Marketo Engage à l’aide de la fonction Créer un programme. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un rapport d’analyse de l’abonnement à un programme répertoriant les leads
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 11%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 

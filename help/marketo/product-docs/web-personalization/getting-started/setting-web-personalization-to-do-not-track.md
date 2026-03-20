@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382593
-description: Définition du Personalization Web sur Ne pas suivre - Documents Marketo - Documentation du produit
+description: Découvrez comment définir la personnalisation web sur ne pas suivre dans Marketo Engage, y compris comment définir la personnalisation web sur . Utilisez ce guide pour passer à l’étape suivante.
 title: Définition de Web Personalization sur Ne pas suivre
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '204'
 ht-degree: 3%
 
 ---

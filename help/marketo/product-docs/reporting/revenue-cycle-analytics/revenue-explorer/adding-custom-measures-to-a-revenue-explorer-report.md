@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097747
-description: Ajout de mesures personnalisées à un rapport Revenue Explorer - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des mesures personnalisées à un rapport de l’explorateur de recettes dans Marketo Engage, y compris comment ajouter des mesures personnalisées. Utilisez ce guide pour passer à l’étape suivante.
 title: Ajout de mesures personnalisées à un rapport de l’explorateur de revenu
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '217'
 ht-degree: 7%
 
 ---

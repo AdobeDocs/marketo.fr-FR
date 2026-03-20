@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360201
-description: Ajout de colonnes personnalisées à un rapport de personne - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter des colonnes personnalisées aux rapports de personne à l’aide de listes dynamiques comme filtres. Améliorez vos rapports avec des mesures supplémentaires en faisant glisser des colonnes personnalisées dans l’onglet Configuration .
 title: Ajouter des colonnes personnalisées à un rapport de personne
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '114'
+ht-degree: 12%
 
 ---
 

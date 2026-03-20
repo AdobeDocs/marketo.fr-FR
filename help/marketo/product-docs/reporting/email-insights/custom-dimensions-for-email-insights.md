@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375276
-description: Dimensions personnalisées pour les informations sur les e-mails - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter jusqu’à 10 dimensions personnalisées aux informations sur les e-mails à l’aide de segmentations et de balises de programme. Choisissez les dimensions avec soin, car elles ne peuvent pas être supprimées ni remplacées une fois ajoutées.
 title: Dimensions personnalisées pour Email Insights
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 9%
+source-wordcount: '126'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Toutes les dimensions Marketo standard sont incluses, mais vous avez la possibil
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 >[!CAUTION]
 >

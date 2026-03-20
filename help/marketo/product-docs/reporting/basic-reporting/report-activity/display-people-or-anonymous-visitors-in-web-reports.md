@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360008
-description: Afficher des personnes ou des visiteurs anonymes dans des rapports web - Documents Marketo - Documentation du produit
+description: Découvrez comment afficher des personnes ou des visiteurs anonymes dans les rapports web de Marketo Engage, y compris comment afficher des personnes ou des visiteurs. Utilisez ce guide pour passer à l’étape suivante.
 title: Afficher des personnes ou des visiteurs et visiteuses anonymes dans des rapports web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 10%
+source-wordcount: '170'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 >
 >[Ajout du code de suivi Munchkin à votre site web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-Dans les rapports [[!UICONTROL Activité de page web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) et [[!UICONTROL Activité web de la société]](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) vous pouvez voir [&#x200B; personnes ou visiteurs anonymes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) qui visitent votre site. Les visiteurs anonymes ont déduit des données, telles que la zone métropolitaine.  Voici comment déterminer si le rapport affiche des prospects connus ou des visiteurs anonymes.
+Dans les rapports [[!UICONTROL Activité de page web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) et [[!UICONTROL Activité web de la société]](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) vous pouvez voir [ personnes ou visiteurs anonymes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) qui visitent votre site. Les visiteurs anonymes ont déduit des données, telles que la zone métropolitaine.  Voici comment déterminer si le rapport affiche des prospects connus ou des visiteurs anonymes.
 
 1. Dans votre rapport [!UICONTROL Activité de page web], cliquez sur **[!UICONTROL Configuration]**.
 

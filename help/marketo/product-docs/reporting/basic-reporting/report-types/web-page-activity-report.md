@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359971
-description: Rapport d’activité de la page web - Documents Marketo - Documentation du produit
+description: Découvrez les rapports d’activité des pages web qui indiquent qui visite votre site web avec des informations détaillées sur les visiteurs. Afficher des personnes connues ou anonymes et effectuer le suivi des pages vues, des pages d’entrée et des référents.
 title: Rapport d’activité de page web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 6%
+source-wordcount: '344'
+ht-degree: 5%
 
 ---
 

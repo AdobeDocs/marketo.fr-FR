@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571886
-description: Utilisation de l’analyseur de chemin de succès - Documents Marketo - Documentation du produit
+description: Découvrez comment utiliser l’analyseur de chemins de succès dans Marketo Engage à l’aide de l’analyseur de chemins de succès. Utilisez ce guide pour passer à l’étape suivante.
 title: Utilisation de l’analyseur de voie du succès
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '389'
 ht-degree: 2%
 
 ---

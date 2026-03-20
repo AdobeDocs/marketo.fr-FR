@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718660
-description: Présentation Des Phases Du Modèle De Chiffre D’Affaires - Documents Marketo - Documentation Du Produit
+description: Découvrez les phases du modèle de chiffre d’affaires dans Marketo Engage, notamment les phases du modèle de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
 title: Présentation des phases du modèle de revenu
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 13%
+source-wordcount: '74'
+ht-degree: 10%
 
 ---
 
 # Présentation des phases du modèle de revenu {#understanding-revenue-model-phases}
 
-Les phases permettent de regrouper un certain nombre de phases. Parfois, plusieurs étapes d’un modèle reflètent une phase d’un entonnoir.
+Les phases permettent de regrouper un certain nombre de phases. Parfois, plusieurs étapes d’un modèle reflètent une phase d’un funnel.
 
 ![—](assets/image2015-6-12-16-3a56-3a40.png)
 

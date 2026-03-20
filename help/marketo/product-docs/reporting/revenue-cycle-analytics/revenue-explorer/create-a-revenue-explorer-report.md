@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504047
-description: Création d’un rapport Revenue Explorer - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un rapport de l’explorateur de revenus dans Marketo Engage à l’aide de la fonction Créer un rapport de l’explorateur de revenus. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un rapport de l’explorateur de revenu
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 5%
+source-wordcount: '156'
+ht-degree: 4%
 
 ---
 

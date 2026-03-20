@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719402
-description: Création d’une campagne web de widget - Documents Marketo - Documentation du produit
+description: Créez des campagnes web de widget qui s’affichent sous la forme de texte fixe ou de bannières sur le côté vertical des pages web avec les fonctionnalités de développement et de contrat. Personnalisez les paramètres de position, de couleur, d’animation et d’affichage.
 title: Créer une campagne web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '649'
 ht-degree: 4%
 
 ---
@@ -95,7 +95,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
 >[!NOTE]
 >
->**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL &#x200B; Réglage automatique &#x200B;], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
+>**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL  Réglage automatique ], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
 
 ## Modification d’une campagne web {#edit-a-web-campaign}
 

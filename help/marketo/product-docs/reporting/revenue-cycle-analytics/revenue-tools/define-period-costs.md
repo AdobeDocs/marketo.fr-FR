@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953444
-description: Définir Les Coûts De La Période - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir des coûts de période dans Marketo Engage à l'aide de define-period-cost définir les coûts de période. Utilisez ce guide pour passer à l’étape suivante.
 title: Définir les coûts de la période
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '260'
 ht-degree: 2%
 
 ---

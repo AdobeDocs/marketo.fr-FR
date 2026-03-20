@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718681
-description: Commencez le suivi par compte dans Revenue Modeler - Documents Marketo - Documentation du produit.
+description: Découvrez comment démarrer le suivi par compte dans la modélisation des recettes de Marketo Engage, y compris démarrer le suivi par compte. Utilisez ce guide pour passer à l’étape suivante.
 title: Commencer le tracking par compte dans Revenue Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 6%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360437
-description: Explorez les détails du programme et du canal avec l’analyseur de programmes - Documents Marketo - Documentation du produit
+description: Découvrez comment explorer les détails des programmes et des canaux avec l’analyseur de programmes dans Marketo Engage, y compris explorer le programme. Utilisez ce guide pour passer à l’étape suivante.
 title: Explorer les détails du programme et du canal avec l’analyseur de programme
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '209'
+ht-degree: 3%
 
 ---
 
@@ -37,7 +37,7 @@ Vous pouvez afficher les statistiques détaillées sur les programmes et les can
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Pour comparer tous les programmes au sein d’un seul canal, cliquez sur le nom du canal dans la boîte de dialogue pop-up.
 

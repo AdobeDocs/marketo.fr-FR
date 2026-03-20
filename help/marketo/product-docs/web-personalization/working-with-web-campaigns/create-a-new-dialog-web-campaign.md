@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: Création d’une boîte de dialogue dans Web Campaign - Documents Marketo - Documentation du produit
+description: Créez des campagnes web de boîte de dialogue pour personnaliser le contenu en temps réel avec des messages contextuels sur votre site web. Personnalisez les styles, les positions, les animations et les paramètres d’affichage des boîtes de dialogue pour séduire les visiteurs.
 title: Créer une campagne web de boîte de dialogue
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '765'
 ht-degree: 4%
 
 ---

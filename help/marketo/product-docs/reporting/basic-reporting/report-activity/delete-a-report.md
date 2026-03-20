@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360030
-description: Suppression d’un rapport - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer les rapports dont vous n’avez plus besoin en cliquant dessus avec le bouton droit dans l’arborescence de navigation. Organisez votre espace de travail de création de rapports en supprimant les rapports obsolètes.
 title: Supprimer un rapport
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 8%
+source-wordcount: '86'
+ht-degree: 6%
 
 ---
 

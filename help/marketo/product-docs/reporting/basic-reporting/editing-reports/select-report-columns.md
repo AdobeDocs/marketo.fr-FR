@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359994
-description: Sélectionner Colonnes Du Rapport - Documents Marketo - Documentation Du Produit
+description: Découvrez comment sélectionner les colonnes à afficher dans vos rapports en choisissant parmi les options disponibles. Personnalisez les vues de rapports en cliquant sur les en-têtes de colonne et en sélectionnant Colonnes.
 title: Sélectionner les colonnes d’un rapport
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 10%
+source-wordcount: '78'
+ht-degree: 7%
 
 ---
 

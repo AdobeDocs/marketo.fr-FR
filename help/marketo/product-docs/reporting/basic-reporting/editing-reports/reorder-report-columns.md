@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359999
-description: Réorganiser les colonnes du rapport - Documents Marketo - Documentation du produit
+description: Découvrez comment réorganiser les colonnes des rapports en les faisant glisser et en les déposant à de nouveaux emplacements. Personnalisez l’ordre des colonnes dans l’onglet Rapport pour donner la priorité aux données les plus importantes.
 title: Réorganiser les colonnes d’un rapport
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '111'
+ht-degree: 7%
 
 ---
 

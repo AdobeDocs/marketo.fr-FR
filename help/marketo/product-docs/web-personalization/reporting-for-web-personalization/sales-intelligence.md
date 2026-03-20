@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096420
-description: Intelligence commerciale - Documents Marketo - Documentation du produit
+description: Découvrez les fonctionnalités de Sales Intelligence qui fournissent des informations précieuses sur les visiteurs et les organisations web. Suivez, surveillez et recevez des alertes sur les principales organisations et les principaux comptes par région.
 title: Sales Intelligence
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 2%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 

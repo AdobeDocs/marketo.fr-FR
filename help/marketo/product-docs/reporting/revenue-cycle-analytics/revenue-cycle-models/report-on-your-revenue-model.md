@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360429
-description: Rapport sur votre modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
+description: Découvrez le rapport sur votre modèle de chiffre d’affaires dans Marketo Engage, y compris le rapport sur votre modèle de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un rapport sur votre modèle de revenu
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 7%
+source-wordcount: '155'
+ht-degree: 6%
 
 ---
 
@@ -43,4 +43,4 @@ Pour chaque modèle de cycle de chiffre d’affaires, vous pouvez générer un r
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Pourquoi est-ce utile ? Le modèle présente votre entonnoir de ventes et de marketing. Suivez leurs soldes au fil du temps pour identifier les goulots d&#39;étranglement avant qu&#39;ils ne deviennent un problème.
+Pourquoi est-ce utile ? Le modèle présente votre funnel de ventes et de marketing. Suivez leurs soldes au fil du temps pour identifier les goulots d&#39;étranglement avant qu&#39;ils ne deviennent un problème.

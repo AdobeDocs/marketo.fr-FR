@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360052
-description: Pages Web Vues, Rapport D’Activité Des Pages Web - Documents Marketo - Documentation Du Produit
+description: Découvrez les pages web consultées, le rapport d’activité des pages web dans Marketo Engage, y compris les pages web consultées, la page web. Utilisez ce guide pour passer à l’étape suivante.
 title: Pages web consultées, rapport d’activité de page web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 11%
 
 ---
 
 # Pages web consultées, rapport d’activité de page web {#web-pages-viewed-web-page-activity-report}
 
-Dans un rapport [[!UICONTROL Activité de la page web] &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), vous pouvez afficher les pages spécifiques qui ont été consultées par les personnes qui y figurent.
+Dans un rapport [[!UICONTROL Activité de la page web] ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), vous pouvez afficher les pages spécifiques qui ont été consultées par les personnes qui y figurent.
 
 >[!PREREQUISITES]
 >

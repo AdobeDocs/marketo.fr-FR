@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7505310
-description: S’abonner à une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment vous abonner à des listes intelligentes pour recevoir des rapports envoyés directement dans votre boîte de réception. Créez des abonnements à partir d’activités marketing ou d’une base de données avec une fréquence et un format personnalisables.
 title: S’abonner à une liste intelligente
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 2%
+source-wordcount: '446'
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ L’abonnement aux listes intelligentes est un excellent moyen de suivre les per
 Vous pouvez créer un abonnement à une liste dynamique à deux endroits distincts :
 
 * [!UICONTROL Activités marketing]
-* [!UICONTROL &#x200B; Base de données &#x200B;]
+* [!UICONTROL Base de données]
 
 Les abonnements utilisent la liste complète des personnes au moment où l’abonnement s’exécute.
 

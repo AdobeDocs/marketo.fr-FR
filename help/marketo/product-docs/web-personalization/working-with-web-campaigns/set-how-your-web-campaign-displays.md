@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12978906
-description: Définir L’Affichage De Votre Campagne Web - Documents Marketo - Documentation Du Produit
+description: Découvrez comment définir l’affichage de votre campagne web dans Marketo Engage à l’aide de la fonction Définir l’affichage de votre campagne web. Utilisez ce guide pour passer à l’étape suivante.
 title: Définir l’affichage de votre campagne web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '230'
 ht-degree: 7%
 
 ---

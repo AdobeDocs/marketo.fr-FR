@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097100
-description: Planification d’une campagne web - Documents Marketo - Documentation du produit
+description: 'Découvrez comment planifier une campagne web dans Marketo Engage, notamment le planning d’une campagne web : schedule-a-web-campaign. Utilisez ce guide pour passer à l’étape suivante.'
 title: Planifier une campagne web
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '312'
 ht-degree: 3%
 
 ---

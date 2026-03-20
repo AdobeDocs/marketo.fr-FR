@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504520
-description: Suppression d’un champ dans un rapport de l’explorateur de revenus - Documents Marketo - Documentation du produit
+description: Découvrez comment supprimer un champ dans un rapport de l’explorateur de revenus dans Marketo Engage, y compris la suppression d’un champ dans un revenu. Utilisez ce guide pour passer à l’étape suivante.
 title: Suppression d’un champ dans un rapport de l’explorateur de revenu
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 10%
+source-wordcount: '93'
+ht-degree: 8%
 
 ---
 

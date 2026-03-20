@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: Présentation des modèles de chiffre d’affaires - Documents Marketo - Documentation du produit
+description: Découvrez les modèles de chiffre d’affaires dans Marketo Engage, notamment la présentation des modèles de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
 title: Présentation des modèles de revenu
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
 
 # Présentation des modèles de revenu {#understanding-revenue-models}
 
-Les modèles de cycle de revenus font passer le marketing au niveau supérieur. Ils modélisent toutes les étapes de l’ensemble de votre entonnoir de revenus, depuis la première interaction avec un prospect jusqu’à ce que le prospect soit un client gagnant.
+Les modèles de cycle de revenus font passer le marketing au niveau supérieur. Ils modélisent toutes les étapes de l’ensemble de votre funnel de chiffre d’affaires, depuis la première interaction avec un prospect jusqu’à ce que le prospect soit un client gagnant.
 
 ## Modèle mental (Comment penser à cette chose) {#mental-model-how-to-think-about-this-thing}
 

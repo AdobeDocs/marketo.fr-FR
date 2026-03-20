@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718656
-description: Création d’un modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un modèle de chiffre d’affaires dans Marketo Engage à l’aide de la commande create-a-new-revenue-model. Passez à l’étape suivante en toute confiance.
 title: Créer un modèle de revenu
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 7%
 
 ---
 

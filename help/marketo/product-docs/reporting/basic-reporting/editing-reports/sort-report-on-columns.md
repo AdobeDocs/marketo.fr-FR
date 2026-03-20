@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359996
-description: Trier les rapports sur les colonnes - Documents Marketo - Documentation du produit
+description: Découvrez comment trier les données de rapport par colonnes pour mettre en évidence les chiffres les plus importants. Cliquez sur les en-têtes de colonne dans l’onglet Rapport pour sélectionner un ordre de tri croissant ou décroissant.
 title: Trier le rapport sur des colonnes
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 11%
+source-wordcount: '98'
+ht-degree: 9%
 
 ---
 

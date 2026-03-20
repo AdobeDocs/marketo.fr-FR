@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
-description: Synchroniser les champs personnalisés avec Revenue Explorer - Documents Marketo - Documentation du produit
+description: Découvrez comment synchroniser les champs personnalisés avec l’explorateur de chiffre d’affaires dans Marketo Engage à l’aide de la synchronisation des champs personnalisés avec le chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
 title: Synchroniser les champs personnalisés avec l’explorateur de revenu
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 5%
+source-wordcount: '150'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 1. Accédez à la section **[!UICONTROL Admin]**.
 

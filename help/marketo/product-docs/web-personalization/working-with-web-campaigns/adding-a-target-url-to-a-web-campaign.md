@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094879
-description: Ajout d’une URL Target à une campagne web - Documents Marketo - Documentation du produit
+description: Découvrez comment ajouter une URL cible à une campagne web dans Marketo Engage, y compris comment ajouter une URL cible à une campagne web. Utilisez ce guide pour passer à l’étape suivante.
 title: Ajout d’une URL cible à une campagne web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 7%
+source-wordcount: '274'
+ht-degree: 6%
 
 ---
 

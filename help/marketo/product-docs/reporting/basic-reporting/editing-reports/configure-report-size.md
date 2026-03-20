@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360002
-description: Configuration De La Taille Du Rapport - Documents Marketo - Documentation Du Produit
+description: Découvrez comment configurer la taille du rapport en modifiant la limite maximale de 5 000 lignes par défaut. Ajuster les lignes d'exportation disponibles dans l'onglet Configuration pour optimiser les performances du rapport.
 title: Configurer la taille du rapport
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '131'
+ht-degree: 9%
 
 ---
 

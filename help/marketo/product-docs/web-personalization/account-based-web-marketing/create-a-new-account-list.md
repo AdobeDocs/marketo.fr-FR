@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: Création d’une liste de comptes - Documents Marketo - Documentation du produit
+description: Découvrez comment créer une liste de comptes dans Marketo Engage à l’aide de la commande create-a-new-account-list . Utilisez ce guide pour passer à l’étape suivante.
 title: Créer une liste de comptes
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 12%
+source-wordcount: '423'
+ht-degree: 11%
 
 ---
 

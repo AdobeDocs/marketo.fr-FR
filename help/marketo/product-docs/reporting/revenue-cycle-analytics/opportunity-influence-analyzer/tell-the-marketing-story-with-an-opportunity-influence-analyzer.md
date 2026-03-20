@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360237
-description: Racontez l’histoire marketing avec un analyseur d’influence d’opportunité - Documents Marketo - Documentation du produit
+description: Découvrez comment raconter l’histoire marketing avec un analyseur d’influence d’opportunité dans Marketo Engage, y compris raconter l’histoire. Utilisez ce guide pour passer à l’étape suivante.
 title: Raconter la story marketing avec un analyseur d’influence d’opportunité
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '355'
 ht-degree: 2%
 
 ---
@@ -27,9 +27,9 @@ Utilisez un [!UICONTROL analyseur d’influence d’opportunité] pour illustrer
 
    * ![—](assets/image2014-10-3-13-3a43-3a21.png) **points orange** représentent des moments intéressants dans l&#39;opportunité (e-mails ouverts, visites de stands de salons, téléchargements de livres blancs, etc.). Des points plus grands indiquent plus d’interactions.
 
-   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a44-3a9.png) **icônes du classeur** indiquent les réussites du programme.
+   * ![ : ](assets/image2014-10-3-13-3a44-3a9.png) **icônes du classeur** indiquent les réussites du programme.
 
-   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a44-3a40.png) **icônes de calendrier** indiquent les événements réussis.
+   * ![ : ](assets/image2014-10-3-13-3a44-3a40.png) **icônes de calendrier** indiquent les événements réussis.
 
    * **Période de l’opportunité**. L’espace vert représente l’opportunité elle-même, de sa création à sa fermeture (gagnée ou perdue).
 
@@ -39,7 +39,7 @@ Utilisez un [!UICONTROL analyseur d’influence d’opportunité] pour illustrer
 
    * Le **nombre entre parenthèses** est le nombre d&#39;interactions avec ce contact.
 
-   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a45-3a9.png)l&#39;étoile **jaune** indique le contact principal.
+   * ![ : ](assets/image2014-10-3-13-3a45-3a9.png)l&#39;étoile **jaune** indique le contact principal.
 
 1. Passez la souris sur un nom pour afficher la fonction de cette personne et la source de son engagement dans l’opportunité.
 

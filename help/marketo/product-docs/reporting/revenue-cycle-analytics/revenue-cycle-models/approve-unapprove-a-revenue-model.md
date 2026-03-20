@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718687
-description: Approuver/annuler l’approbation d’un modèle de chiffre d’affaires - Documents Marketo - Documentation du produit
+description: Découvrez comment approuver/annuler l’approbation d’un modèle de chiffre d’affaires dans Marketo Engage à l’aide de la commande approveunapprove a model. Utilisez ce guide pour passer à l’étape suivante.
 title: Approuver/annuler l’approbation d’un modèle de revenu
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 8%
+source-wordcount: '171'
+ht-degree: 7%
 
 ---
 

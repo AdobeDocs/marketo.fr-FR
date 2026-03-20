@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360032
-description: Modifier le délai d’expiration des URL dans les e-mails de rapport - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier le délai d’expiration des URL dans les e-mails de rapport dans Marketo Engage, y compris modifier l’expiration. Utilisez ce guide pour passer à l’étape suivante.
 title: Modifier le délai d’expiration des URL dans les e-mails de rapport
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Les liens figurant dans les e-mails d’abonnement aux rapports expirent au bout de trois jours. Pour modifier le délai d’expiration de ces liens, procédez comme suit.
 

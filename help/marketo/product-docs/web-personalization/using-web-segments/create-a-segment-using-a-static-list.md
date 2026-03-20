@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795536
-description: Création d’un segment à l’aide d’une liste statique - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un segment à l’aide d’une liste statique dans Marketo Engage à l’aide de la fonction Créer un segment à l’aide d’une liste statique. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un segment à l’aide d’une liste statique
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 11%
+source-wordcount: '189'
+ht-degree: 10%
 
 ---
 

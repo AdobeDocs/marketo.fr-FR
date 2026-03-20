@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949158
-description: Intégration du RTP à Google Analytics - Documentation de Marketo - Documentation du produit
+description: Découvrez comment intégrer rtp à Google Analytics dans Marketo Engage à l’aide de l’intégration rtp à Google Analytics. Utilisez ce guide pour passer à l’étape suivante.
 title: Intégrer RTP à Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '596'
 ht-degree: 2%
 
 ---
@@ -84,7 +84,7 @@ Mesurez vos campagnes RTP et corrélez-les avec la moyenne globale de votre site
 
 >[!NOTE]
 >
->Pour envoyer des données de segment à GA, sous la page [[!UICONTROL Modifier le segment] &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plateforme RTP, cochez la case **[!UICONTROL Envoyer l’événement à Google Analytics lors de la correspondance de segments]**.
+>Pour envoyer des données de segment à GA, sous la page [[!UICONTROL Modifier le segment] ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plateforme RTP, cochez la case **[!UICONTROL Envoyer l’événement à Google Analytics lors de la correspondance de segments]**.
 
 ## Configuration de rapports Google Analytics avec des données RTP {#setting-up-google-analytics-reports-with-rtp-data}
 

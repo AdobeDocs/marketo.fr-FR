@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: Actualiser un rapport - Documents Marketo - Documentation du produit
+description: Découvrez comment actualiser manuellement les rapports pour obtenir les données les plus récentes, même si les rapports s’actualisent automatiquement toutes les 24 heures. Utilisez le bouton Actualiser ou le menu Actions du rapport pour mettre à jour les résultats.
 title: Actualiser un rapport
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 

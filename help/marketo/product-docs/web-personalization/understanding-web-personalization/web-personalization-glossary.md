@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571927
-description: Glossaire Web Personalization - Documents Marketo - Documentation du produit
+description: Découvrez le glossaire de personnalisation web dans Marketo Engage, y compris le glossaire de personnalisation web dnl. Utilisez ce guide pour passer à l’étape suivante.
 title: Glossaire de Web Personalization
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 25%
+source-wordcount: '267'
+ht-degree: 23%
 
 ---
 

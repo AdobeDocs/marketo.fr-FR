@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099798
-description: Filtrage dans les informations d’e-mail - Documents Marketo - Documentation du produit
+description: Découvrez comment filtrer les données des informations sur les e-mails par audience, contenu, plateforme, type d’appareil et périodes. Appliquez plusieurs filtres pour analyser en profondeur des mesures spécifiques et comparer les performances.
 title: Filtrage dans Email Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 5%
+source-wordcount: '200'
+ht-degree: 4%
 
 ---
 

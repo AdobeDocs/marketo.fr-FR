@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511725
-description: Présentation de mes rapports et rapports de groupe - Documents Marketo - Documentation du produit
+description: Découvrez la différence entre Mes rapports, qui ne sont visibles que par vous, et les rapports de groupe, qui sont visibles par tous les utilisateurs de l’espace de travail. Organisez efficacement les rapports enregistrés.
 title: Présentation de Mes rapports et des rapports de groupe
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 

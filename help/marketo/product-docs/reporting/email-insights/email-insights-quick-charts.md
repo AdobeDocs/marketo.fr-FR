@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099415
-description: Graphiques Rapides D’Informations Sur Les E-Mails - Documents Marketo - Documentation Du Produit
+description: Découvrez comment créer et enregistrer des graphiques rapides sous forme de miniatures pour les vues de graphique fréquemment utilisées dans les informations d’e-mail. Enregistrez jusqu’à 20 graphiques personnalisés et accédez-y rapidement à partir de l’icône Graphiques rapides .
 title: Graphiques rapides d’Email Insights
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 4%
+source-wordcount: '256'
+ht-degree: 3%
 
 ---
 

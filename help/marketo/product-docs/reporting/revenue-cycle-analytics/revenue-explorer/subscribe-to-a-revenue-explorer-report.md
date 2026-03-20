@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360397
-description: Abonnement à un rapport de l’explorateur de revenus - Documents Marketo - Documentation du produit
+description: Découvrez comment vous abonner à un rapport de l’explorateur de recettes dans Marketo Engage, y compris comment vous abonner à un explorateur de recettes. Utilisez ce guide pour passer à l’étape suivante.
 title: S’abonner à un rapport de l’explorateur de revenu
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 4%
+source-wordcount: '153'
+ht-degree: 3%
 
 ---
 

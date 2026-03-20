@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718666
-description: Utilisation Des Étapes D’Inventaire Du Modèle De Chiffre D’Affaires - Documents Marketo - Documentation Du Produit
+description: Découvrez comment utiliser les étapes d’inventaire des modèles de chiffre d’affaires dans Marketo Engage à l’aide des étapes d’inventaire. Utilisez ce guide pour passer à l’étape suivante.
 title: Utilisation d’étapes d’inventaire du modèle de revenu
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---

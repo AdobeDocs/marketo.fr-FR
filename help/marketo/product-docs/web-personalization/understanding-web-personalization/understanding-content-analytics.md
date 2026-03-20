@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093159
-description: Présentation de Content Analytics - Documents Marketo - Documentation du produit
+description: Découvrez comment comprendre l’analyse de contenu dans Marketo Engage, notamment la compréhension de l’analyse de contenu. Utilisez ce guide pour passer à l’étape suivante.
 title: Présentation de Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ Le tableau Analytics fournit les détails suivants :
    <td colspan="1" rowspan="1">Nom de la ressource de contenu numérique. Cliquez sur <strong>Titre</strong> pour ouvrir l’URL de contenu dans un nouvel onglet.</td>
   </tr>
   <tr>
-   <td colspan="1"><p><strong>Recommandation </strong><strong>Icône</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1"><p><strong>Recommandation </strong><strong>Icône</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
    <td colspan="1">Indique si l’élément de contenu a été ajouté pour <a href="#">Recommandations de contenu</a>.</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Les analyses de contenu supplémentaires comprennent :
 
 * **[!UICONTROL Vues]** : vues de cet élément de contenu pour la période sélectionnée
 * **[!UICONTROL Conversions directes]** : visiteurs et visiteuses web qui ont consulté le contenu et rempli un formulaire au cours de la même visite.
-* **[!UICONTROL Taux de conversion]**&#x200B;**&#x200B; :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
+* **[!UICONTROL Taux de conversion]**** :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
 
 **[!UICONTROL Tendances]**
 

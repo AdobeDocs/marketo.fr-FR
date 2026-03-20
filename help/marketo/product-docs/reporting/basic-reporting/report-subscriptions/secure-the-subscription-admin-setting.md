@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: Sécurisation du paramètre d’administration des abonnements - Documents Marketo - Documentation du produit
+description: Découvrez comment sécuriser les paramètres d’administration des abonnements pour exiger une connexion avant de télécharger des rapports. Configurez cette option de sécurité dans les paramètres de connexion d’administrateur pour les paramètres de rapport de liste dynamique.
 title: Sécuriser le paramètre d’administration des abonnements
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 11%
+source-wordcount: '104'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**Autorisations d’administrateur requises**
+>**Autorisations d’administration requises**
 
 Un administrateur peut choisir d’exiger une connexion pour pouvoir afficher un rapport.
 

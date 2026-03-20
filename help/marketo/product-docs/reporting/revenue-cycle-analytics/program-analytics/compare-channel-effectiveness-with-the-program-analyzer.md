@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360401
-description: Comparer l’efficacité des canaux avec l’analyseur de programme - Documents Marketo - Documentation du produit
+description: Découvrez l’efficacité de la comparaison de canaux avec l’analyseur de programmes dans Marketo Engage, y compris la comparaison de canaux. Utilisez ce guide pour passer à l’étape suivante.
 title: Comparer l’efficacité du canal avec l’analyseur de programme
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---
@@ -41,7 +41,7 @@ Utilisez l’[!UICONTROL analyseur de programmes] pour comparer les coûts des c
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Utilisez le menu déroulant **[!UICONTROL Axe Y]** pour choisir **[!UICONTROL Pipeline MT créé]**.
 

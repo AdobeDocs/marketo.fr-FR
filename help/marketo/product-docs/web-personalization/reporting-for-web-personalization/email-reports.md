@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719338
-description: Rapports par e-mail - Documents Marketo - Documentation du produit
+description: Découvrez les rapports par e-mail automatisés pour Web Personalization, y compris les organisations, les personnes, les campagnes les plus performantes et les rapports récapitulatifs. Personnalisez les rapports que vous recevez dans Paramètres utilisateur.
 title: Rapports d’e-mail
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
 
 # Rapports d’e-mail {#email-reports}
 
-Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [[!UICONTROL Paramètres utilisateur] &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [[!UICONTROL Paramètres utilisateur] ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Rapports sur les e-mails de Web Personalization {#web-personalization-email-reports}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360421
-description: Remplacer le comportement d’Analytics au niveau du programme - Documents Marketo - Documentation du produit
+description: Découvrez le comportement de remplacement des analyses au niveau du programme dans Marketo Engage, y compris le comportement de remplacement des analyses. Passez à l’étape suivante en toute confiance.
 title: Remplacer le comportement d’analyse au niveau du programme
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 11%
+source-wordcount: '202'
+ht-degree: 10%
 
 ---
 

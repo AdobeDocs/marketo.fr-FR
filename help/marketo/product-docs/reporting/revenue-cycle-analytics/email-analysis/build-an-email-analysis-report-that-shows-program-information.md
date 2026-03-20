@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360409
-description: Créer un rapport d’analyse des e-mails qui affiche des informations sur le programme - Documents Marketo - Documentation du produit
+description: Découvrez comment créer un rapport d’analyse des e-mails qui affiche les informations du programme dans Marketo Engage à l’aide de la fonction Créer un e-mail. Utilisez ce guide pour passer à l’étape suivante.
 title: Créer un rapport d’analyse d’e-mail affichant les informations du programme
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 13%
+source-wordcount: '165'
+ht-degree: 12%
 
 ---
 

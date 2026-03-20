@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514224
-description: Personnalisation et affichage des grilles thermiques - Documents Marketo - Documentation du produit
+description: Découvrez comment personnaliser et afficher des grilles thermiques dans Marketo Engage, y compris comment personnaliser et afficher des grilles thermiques. Utilisez ce guide pour passer à l’étape suivante.
 title: Personnaliser et afficher des grilles thermiques
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 13%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 

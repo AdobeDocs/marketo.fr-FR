@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949160
-description: Intégration à Adobe Analytics - Documentation de Marketo - Documentation du produit
+description: Découvrez comment intégrer à adobe analytics dans Marketo Engage à l’aide de l’intégration à adobe analytics. Utilisez ce guide pour passer à l’étape suivante.
 title: Intégrer à Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1059'
+source-wordcount: '1074'
 ht-degree: 1%
 
 ---

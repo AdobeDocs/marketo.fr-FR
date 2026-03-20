@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360005
-description: Rapport d’activité web de la société - Documents Marketo - Documentation du produit
+description: Découvrez les rapports Activité web de l’entreprise qui indiquent les entreprises qui visitent votre site web, regroupées par entreprise. Affichez les visiteurs connus ou anonymes et suivez les pages vues, les personnes et l’emplacement géographique.
 title: Rapport d’activité web de la société
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 7%
+source-wordcount: '278'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ Créez un [rapport d’activité de page web](/help/marketo/product-docs/reporti
 
 >[!PREREQUISITES]
 >
->Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [&#x200B; [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [ [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le [!UICONTROL Activité Web de l’entreprise] Rapport [type de rapport](report-type-overview.md).
 

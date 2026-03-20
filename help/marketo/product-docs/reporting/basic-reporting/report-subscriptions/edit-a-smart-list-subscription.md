@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093041
-description: Modifier un abonnement à une liste dynamique - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier les abonnements aux listes dynamiques en mettant à jour les destinataires, la fréquence, les colonnes, la date de diffusion de fin et le format. Apportez des modifications directement dans l’onglet Abonnements .
 title: Modifier l’abonnement à une liste intelligente
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '214'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ Vous pouvez modifier ces colonnes directement dans l’onglet Abonnements qui s�
 
 * [!UICONTROL Destinataires]
 * [!UICONTROL Fréquence]
-* [!UICONTROL Colonnes &#x200B;]
+* [!UICONTROL Colonnes ]
 * [!UICONTROL Fin De La Diffusion]
 * [!UICONTROL Format]
 

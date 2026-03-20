@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719400
-description: Création d’une campagne web dans la zone - Documents Marketo - Documentation du produit
+description: Créez des campagnes web dans la zone qui remplacent les éléments du site web basés sur l’identifiant de zone par du contenu personnalisé ou des bannières graphiques. Utilisez les identifiants de zone pour cibler des zones spécifiques de votre site web.
 title: Créer une campagne web dans la zone
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '711'
 ht-degree: 4%
 
 ---

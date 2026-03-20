@@ -1,11 +1,11 @@
 ---
-description: Présentation d’Advanced BI Analytics - Documents Marketo - Documentation du produit
+description: Découvrez Advanced BI Analytics, une interface de création de rapports flexible avec des visualisations riches et des performances plus rapides pour les données Marketo Engage. Créez des rapports personnalisés avec des tableaux de bord interactifs et des options d’exportation.
 title: Vue d’ensemble de l’analyse BI avancée
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1064'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Ces améliorations vous permettent de gagner du temps, de découvrir des informa
 
 * **Moteur de requête haute performance** : offre des performances cinq fois plus rapides sur les jeux de données volumineux, ce qui permet un traitement des données plus rapide, un chargement de rapport plus rapide et une expérience d’analyse plus fluide.
 
-* **Visualisation riche et attrayante** : collection vaste et étendue d’options de visualisation intégrées, notamment des graphiques, des cartes et des indicateurs de performance clés, qui rendent les tableaux de bord plus informatifs et plus efficaces et améliorent considérablement la narration des données.
+* **Visualisation riche et attrayante** : collection vaste et étendue d’options de visualisation intégrées, notamment des graphiques, des cartes et des indicateurs de performance clés, qui rendent les tableaux de bord plus informatifs et plus efficaces et améliorent considérablement la storytelling de données.
 
 * **Interactivité avancée et filtrage dynamique** : appliquez des segments dynamiques, un filtrage croisé et des filtres interdépendants sur les visuels. Les rapports de plusieurs pages prennent en charge l’exploration avancée vers le bas, l’exploration vers le haut et l’exploration amont, ce qui facilite l’exploration des données.
 
@@ -125,7 +125,7 @@ Découvrez comment exporter des sections spécifiques de votre rapport.
 
 Regardez la vidéo suivante pour voir un exemple d’expérience de rapport d’exploration amont de plusieurs pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451684/?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapports standard dans Advanced BI Analytics {#standard-reports}
 

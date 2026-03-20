@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981145
-description: Configuration D’Informations Sur Les Performances - Documents Marketo - Documentation Du Produit
+description: Découvrez comment configurer des informations sur les performances en configurant la configuration des opportunités, les coûts du programme, le comportement des analyses et les critères de réussite. Garantissez une attribution et un flux de données appropriés pour des rapports précis.
 title: Configuration de Performance Insights
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '329'
 ht-degree: 2%
 
 ---
@@ -48,9 +48,9 @@ Suivez les étapes ci-dessous pour configurer MPI.
    >* [!UICONTROL Montant de l’opportunité]
    >* [!UICONTROL Est Fermé]
    >* [!UICONTROL Est Gagné]
-   >* [!UICONTROL &#x200B; Date de création &#x200B;] (peut ne pas être définie dans votre cas)
+   >* [!UICONTROL  Date de création ] (peut ne pas être définie dans votre cas)
    >* [!UICONTROL Date de clôture] (peut ne pas être définie dans votre cas)
-   >* [!UICONTROL &#x200B; Type d’opportunité &#x200B;]
+   >* [!UICONTROL  Type d’opportunité ]
 
 ## Configuration du programme {#program-setup}
 

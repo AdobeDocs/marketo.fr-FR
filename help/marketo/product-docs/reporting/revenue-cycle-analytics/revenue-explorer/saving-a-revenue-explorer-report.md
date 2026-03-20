@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504725
-description: Enregistrement d’un rapport de l’explorateur de revenus - Documents Marketo - Documentation du produit
+description: Découvrez comment enregistrer un rapport de l’explorateur de revenus dans Marketo Engage, y compris comment enregistrer un rapport de l’explorateur de revenus. Utilisez ce guide pour passer à l’étape suivante.
 title: Enregistrement d’un rapport de l’explorateur de revenu
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '96'
+ht-degree: 5%
 
 ---
 

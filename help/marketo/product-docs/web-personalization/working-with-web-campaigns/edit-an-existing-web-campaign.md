@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719408
-description: Modification d’une campagne web existante - Documents Marketo - Documentation du produit
+description: Découvrez comment modifier une campagne web existante dans Marketo Engage à l’aide de la fonction Modifier une campagne web existante. Utilisez ce guide pour passer à l’étape suivante.
 title: Modifier une campagne web existante
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 16%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 

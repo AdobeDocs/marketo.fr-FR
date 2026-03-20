@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
-description: Graphiques Rapides D’Informations Sur Les Performances - Documents Marketo - Documentation Du Produit
+description: Découvrez comment créer et enregistrer des graphiques rapides dans les informations sur les performances pour les vues de graphiques fréquemment utilisées. Enregistrez jusqu’à 20 graphiques personnalisés avec des filtres et des mesures spécifiques pour un accès rapide.
 title: Graphiques rapides de Performance Insights
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 3%
+source-wordcount: '207'
+ht-degree: 2%
 
 ---
 
