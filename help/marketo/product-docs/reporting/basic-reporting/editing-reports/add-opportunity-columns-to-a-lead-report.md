@@ -55,13 +55,13 @@ Pour afficher les statistiques sur les opportunités dans vos rapports de person
    | [!UICONTROL Jours sans opportunité] | Âge moyen, en jours, des personnes qui ne sont *pas* un contact principal. |
    | [!UICONTROL A une opportunité] | Nombre de personnes qui sont le contact principal de l’opportunité. |
    | [!UICONTROL A L’Opportunité %] | Pourcentage de personnes qui sont le contact principal de l’opportunité. |
-   | [!UICONTROL  Jours Avant L’Opportunité ] | Nombre moyen de jours nécessaire pour convertir un contact de personne en contact d&#39;opportunité principal. |
+   | [!UICONTROL &#x200B; Jours Avant L’Opportunité &#x200B;] | Nombre moyen de jours nécessaire pour convertir un contact de personne en contact d&#39;opportunité principal. |
    | [!UICONTROL Montant total de l’opportunité] | Somme de tous les montants de l’opportunité. |
    | [!UICONTROL Montant moyen de l’opportunité] | Somme des montants des opportunités, divisée par le nombre d’opportunités. |
    | [!UICONTROL Opportunité totale] | Nombre de toutes les opportunités. |
    | [!UICONTROL Fermé] | Nombre d’opportunités qui ont été clôturées, gagnées ou perdues. |
    | [!UICONTROL Gagné] | Nombre d’opportunités qui ont été conclues. |
-   | [!UICONTROL  % Gagné] | Pourcentage d’opportunités qui ont été gagnées. |
+   | [!UICONTROL &#x200B; % Gagné] | Pourcentage d’opportunités qui ont été gagnées. |
    | [!UICONTROL Montant total gagné] | Somme des montants des opportunités confirmées. |
    | [!UICONTROL Jours avant la fermeture] | Nombre moyen de jours pour fermer les opportunités. |
    | [!UICONTROL Jours de soldes] | Durée moyenne du cycle de vente (jours avant l&#39;opportunité + jours avant la fermeture). |

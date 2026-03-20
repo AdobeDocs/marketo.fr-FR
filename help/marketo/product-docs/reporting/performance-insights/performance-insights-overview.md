@@ -37,7 +37,7 @@ Par défaut, les données affichées reflètent les performances par [!UICONTROL
 
 ## Tendance {#trend}
 
-Découvrez [ tendances à long terme ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) repérer des stratégies gagnantes cohérentes.
+Découvrez [&#x200B; tendances à long terme &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) repérer des stratégies gagnantes cohérentes.
 
 ![](assets/4.png)
 

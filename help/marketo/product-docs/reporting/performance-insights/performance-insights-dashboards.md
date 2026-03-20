@@ -45,7 +45,7 @@ Sélectionnez la mesure **[!UICONTROL Nouveaux noms]** pour mesurer l’efficaci
 >
 >Tous vos programmes doivent être configurés pour définir le programme d’acquisition et la date d’acquisition des prospects afin que ce tableau de bord vous donne les meilleurs résultats.
 
-## [!UICONTROL  Pipeline ] {#pipeline}
+## [!UICONTROL &#x200B; Pipeline &#x200B;] {#pipeline}
 
 Le tableau de bord [!UICONTROL Pipeline] affiche les performances du canal par mesures Première touche et Touche multiple.
 

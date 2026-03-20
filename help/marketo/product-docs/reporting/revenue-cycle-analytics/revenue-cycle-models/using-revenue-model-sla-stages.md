@@ -25,7 +25,7 @@ SLA signifie « service level agreement ». Ces étapes sont utilisées lorsqu�
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Dans la section [!UICONTROL  Analytics ], sélectionnez votre modèle existant ou [créez-en un](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Dans la section [!UICONTROL &#x200B; Analytics &#x200B;], sélectionnez votre modèle existant ou [créez-en un](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 

@@ -19,7 +19,7 @@ Créez un [rapport d’activité de page web](/help/marketo/product-docs/reporti
 
 >[!PREREQUISITES]
 >
->Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [ [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [&#x200B; [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le [!UICONTROL Activité Web de l’entreprise] Rapport [type de rapport](report-type-overview.md).
 

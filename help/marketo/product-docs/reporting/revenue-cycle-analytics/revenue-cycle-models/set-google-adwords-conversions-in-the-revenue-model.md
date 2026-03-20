@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095029
-description: Découvrez comment définir des conversions [!dnl google adwords] dans le modèle de revenus dans Marketo Engage à l’aide de définir dnl google. Utilisez ce guide pour passer à l’étape suivante.
+description: Découvrez comment définir des conversions [ !dnl google adwords] dans le modèle de revenus dans Marketo Engage à l’aide de définir dnl google. Utilisez ce guide pour passer à l’étape suivante.
 title: Définition  [!DNL Google AdWords]  conversions dans le modèle de chiffre d’affaires
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics

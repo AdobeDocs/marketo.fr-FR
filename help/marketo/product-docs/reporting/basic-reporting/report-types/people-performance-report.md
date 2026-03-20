@@ -19,7 +19,7 @@ Utilisez un rapport [!UICONTROL Performances des personnes] pour mesurer la croi
 
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) puis cliquez sur l’onglet **[!UICONTROL Rapport]**.
 
-1. Fantastique ! Vous êtes maintenant prêt à explorer votre rapport [!UICONTROL  Performances des personnes ]. Découvrez comment en tirer le meilleur parti dans la liste ci-dessous.
+1. Fantastique ! Vous êtes maintenant prêt à explorer votre rapport [!UICONTROL &#x200B; Performances des personnes &#x200B;]. Découvrez comment en tirer le meilleur parti dans la liste ci-dessous.
 
    >[!NOTE]
    >

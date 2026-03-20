@@ -44,7 +44,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Pays ] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Pays &#x200B;] est utilisé ici.
 
    ![](assets/three.png)
 
@@ -154,7 +154,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Date d’acquisition ] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Date d’acquisition &#x200B;] est utilisé ici.
 
    ![](assets/fourteen.png)
 

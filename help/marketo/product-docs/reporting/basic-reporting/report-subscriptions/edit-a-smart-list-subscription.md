@@ -17,7 +17,7 @@ Vous pouvez modifier ces colonnes directement dans l’onglet Abonnements qui s�
 
 * [!UICONTROL Destinataires]
 * [!UICONTROL Fréquence]
-* [!UICONTROL Colonnes ]
+* [!UICONTROL Colonnes &#x200B;]
 * [!UICONTROL Fin De La Diffusion]
 * [!UICONTROL Format]
 

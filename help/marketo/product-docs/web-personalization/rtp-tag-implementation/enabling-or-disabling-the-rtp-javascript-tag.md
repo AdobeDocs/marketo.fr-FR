@@ -17,7 +17,7 @@ La balise RTP JavaScript contrôle si Web Personalization suit ou non l’activi
 
 >[!NOTE]
 >
->**Il n’est pas nécessaire de supprimer la balise du code HTML de votre site web.** le contrôler via [!UICONTROL  Paramètres du compte ].
+>**Il n’est pas nécessaire de supprimer la balise du code HTML de votre site web.** le contrôler via [!UICONTROL &#x200B; Paramètres du compte &#x200B;].
 
 ## Activer ou désactiver la balise {#enable-or-disable-the-tag}
 

@@ -34,7 +34,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Dans le Créateur d’audience, cliquez sur **[!UICONTROL Séquences]** et **[!UICONTROL Rechercher les données RTP]** sous [!UICONTROL Dimensions personnalisées], [!UICONTROL [ !]Variables personnalisées UICONTROL], [!UICONTROL Événements].
+1. Dans le Créateur d’audience, cliquez sur **[!UICONTROL Séquences]** et **[!UICONTROL Rechercher les données RTP]** sous [!UICONTROL Dimensions personnalisées], [!UICONTROL UICONTROL [ !]Variables personnalisées &#x200B;], [!UICONTROL Événements].
 
 >[!TIP]
 >
