@@ -1,24 +1,24 @@
 ---
-description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
-title: Notes de mise à jour actuelles
-exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+description: Notes De Mise À Jour - Février 2026 - Documents Marketo - Documentation Du Produit
+title: Notes de mise à jour - Février 2026
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
+source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 40%
+source-wordcount: '393'
+ht-degree: 43%
 
 ---
 
-# Notes de mise à jour : mars 2026 {#release-notes-mar-26}
+# Notes de mise à jour : février 2026 {#release-notes-feb-26}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2026. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 26 février. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 27 mars 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 20 février 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,17 +28,11 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Gérer les marques (version bêta)</strong> : générez le contenu des e-mails en fonction des directives de rédaction de votre organisation/marque.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Alignement des marques</strong> : utilisez le vérificateur de qualité du contenu des e-mails pour évaluer la lisibilité générale et la cohésion de votre message.
+   <td><strong>Email Designer - Actions de dossier</strong> : parité avec l’ancien éditeur d’e-mail.
+   <ul>
+   <li>Partagez et archivez des actions de dossier pour les ressources Designer par e-mail.</li>
+   <li>Partagez des dossiers sur des espaces de travail, cliquez avec le bouton droit de la souris sur un dossier pour créer une ressource, puis déplacez des ressources par glisser-déposer.</li>
+   </ul>
    </td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
@@ -49,8 +43,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Correctif de rendu Outlook</strong> : cette mise à jour corrige les problèmes de rendu, en particulier dans MS Outlook. Le « mode expert » vous permet d’effectuer des modifications HTML/CSS mineures ou d’ajouter des balises de script à votre e-mail (la bonne pratique consiste à ne pas apporter d’autres modifications à l’HTML de l’e-mail afin de conserver les éléments visuels en l’état).
-   </td>
+   <td><strong>Email Designer - API</strong> : vous pouvez désormais utiliser des appels d’API pour le Designer d’e-mail.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -60,8 +53,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Actions rapides</strong> : <i>parité avec l’ancien éditeur d’email</i>. Les actions rapides sont désormais disponibles pour toutes les ressources de Designer par e-mail (e-mails, modèles d’e-mail, fragments). Les actions rapides prises en charge sont les suivantes : Dupliquer, Supprimer, Déplacer, Créer/Modifier le brouillon.
-   </td>
+   <td><strong>Email Designer - Vérificateur de qualité de marque</strong> : évaluez la qualité générale du contenu pour identifier les problèmes potentiels de lisibilité, de cohésion du contenu et d’efficacité, indépendamment des directives de votre marque.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
@@ -71,19 +63,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Gestion des listes de sélection</strong> : vous pouvez désormais spécifier les valeurs qui peuvent être utilisées dans les champs de Marketo Engage.
-   </td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Notifications push</strong> : les URL de redirection configurées dans les messages de notification push prennent désormais en charge les jetons Marketo Engage (applicable uniquement aux <i>URL de l’application Launch</i>).
-   </td>
+   <td><strong>Email Designer - génération d’images de l’assistant AI</strong> : désormais, en plus de Firefly, vous pouvez utiliser des modèles Nano Banana pour générer des images avec l’assistant AI pour le contenu des e-mails.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
+source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '9334'
+source-wordcount: '9338'
 ht-degree: 99%
 
 ---
@@ -662,7 +662,7 @@ ht-degree: 99%
          + [Comportement du chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Liste de réunions](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Activités de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analyse](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Questions fréquentes](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation et configuration {#setup-and-configuration}
             + [Configuration initiale](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1973,6 +1973,7 @@ ht-degree: 99%
    + Versions précédentes {#previous-releases}
       + 2026 {#2026}
          + [Notes De Mise À Jour : 26 Janvier](release-notes/previous-releases/2026/release-notes-jan-26.md)
+         + [Notes De Mise À Jour : Février 26](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + 2025 {#2025}
          + [Notes de mise à jour : janvier 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notes de mise à jour : mars 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
