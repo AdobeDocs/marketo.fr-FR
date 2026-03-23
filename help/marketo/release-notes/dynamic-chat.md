@@ -3,10 +3,10 @@ description: Notes de mise à jour de Dynamic Chat - Documents Marketo - Docum
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
 workflow-type: tm+mt
-source-wordcount: '3414'
-ht-degree: 100%
+source-wordcount: '3438'
+ht-degree: 99%
 
 ---
 
@@ -15,6 +15,12 @@ ht-degree: 100%
 Les mises à jour d’Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continue qui permet une approche plus évolutive du déploiement des fonctionnalités. Il arrive qu’il y ait plusieurs versions par mois. N’hésitez pas à vérifier régulièrement pour obtenir les informations les plus récentes.
 
 La page Notes de mise à jour standard de Marketo Engage [peut être consultée ici](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Version de mars 2026 {#march-2026-release}
+
+### Télécharger la transcription {#download-transcript}
+
+Vous pouvez désormais télécharger un fichier .txt de votre transcription de chat après la fin d’un chat en direct. [Plus d’informations](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version de juin 2025 {#june-2025-release}
 
@@ -52,7 +58,7 @@ Si l’agent ou l’agente n’est pas disponible, le système :
 ou
    * renvoie à un message par défaut (dans le pire des cas).
 
-équipe ou personnalisé, par exemple
+La règle de routage au niveau de la carte (par exemple Équipe, Personnalisée) n’est prise en compte que si le routage au niveau du compte n’est pas applicable (aucun domaine ou agent correspondant).
 
 ##### —Transmission personnalisée/d’équipe—
 
