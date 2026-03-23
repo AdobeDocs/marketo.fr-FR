@@ -3,10 +3,10 @@ description: Notes de mise à jour de Dynamic Chat - Documents Marketo - Docum
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '3438'
-ht-degree: 99%
+source-wordcount: '3474'
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,13 @@ La page Notes de mise à jour standard de Marketo Engage [peut être consultée
 
 ## Version de mars 2026 {#march-2026-release}
 
+### Limite de temps d’attente du visiteur {#visitor-wait-time}
+
+Définissez une durée maximale (entre 10 et 500 secondes) pendant laquelle un visiteur attendra d’être connecté à un agent actif avant de recevoir un message de secours. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+
 ### Télécharger la transcription {#download-transcript}
 
-Vous pouvez désormais télécharger un fichier .txt de votre transcription de chat après la fin d’un chat en direct. [Plus d’informations](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Vous pouvez désormais télécharger un fichier .txt de votre transcription de chat après la fin d’un chat en direct. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version de juin 2025 {#june-2025-release}
 
@@ -110,7 +114,7 @@ La solution de secours du round-robin n’est prise en compte que lorsqu’aucun
 
 <p>
 
-_&#x200B;**Transmission du compte**&#x200B;_
+_**Transmission du compte**_
 
 <table><thead>
   <tr>
@@ -136,7 +140,7 @@ _&#x200B;**Transmission du compte**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission personnalisée**&#x200B;_
+_**Transmission personnalisée**_
 
 <table><thead>
   <tr>
@@ -162,7 +166,7 @@ _&#x200B;**Transmission personnalisée**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission d’équipe**&#x200B;_
+_**Transmission d’équipe**_
 
 <table><thead>
   <tr>
@@ -188,7 +192,7 @@ _&#x200B;**Transmission d’équipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission du round-robin**&#x200B;_
+_**Transmission du round-robin**_
 
 <table><thead>
   <tr>

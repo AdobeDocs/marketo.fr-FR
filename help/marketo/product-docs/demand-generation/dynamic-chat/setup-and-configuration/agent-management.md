@@ -3,10 +3,10 @@ description: Découvrez la gestion des agents dans Dynamic Chat. Affichez les ag
 title: Gestion des agentes et agents
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: '364'
+ht-degree: 3%
 
 ---
 
@@ -77,3 +77,17 @@ Sélectionnez un message standard (système) ou écrivez-en un personnalisé pou
 >[!TIP]
 >
 >Lors de la création d’un message personnalisé, vous pouvez appliquer un style à la police, utiliser des liens et même insérer des émoticônes ! `:)`
+
+## Paramètres {#settings}
+
+### Limite du nombre de Live Chats simultanés {#concurrent-live-chat}
+
+Définissez le nombre de conversations actives simultanées qu’un agent peut prendre à la fois. Peut être compris entre 1 et 10.
+
+![](assets/agent-management-10.png)
+
+### Limite de temps d’attente du visiteur {#visitor-wait-time}
+
+Contrôle la durée maximale pendant laquelle un visiteur attend (en secondes) pour être connecté à un agent en direct avant de recevoir un message de secours. Peut être défini entre 10 et 500 secondes.
+
+![](assets/agent-management-11.png)
