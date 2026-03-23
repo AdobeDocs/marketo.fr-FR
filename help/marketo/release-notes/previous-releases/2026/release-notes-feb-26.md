@@ -65,7 +65,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   <tr>
    <td><strong>Email Designer - génération d’images de l’assistant AI</strong> : désormais, en plus de Firefly, vous pouvez utiliser des modèles Nano Banana pour générer des images avec l’assistant AI pour le contenu des e-mails.</td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Créer du contenu pour une section spécifique de votre e-mail</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Créer du contenu pour une section spécifique de votre e-mail</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,7 +73,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 ## Annonces {#announcements}
 
-* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=fr){target="_blank"}.
 
 * **Limite de leads de fusion de l’API REST** : à compter du 31 mars 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
 
