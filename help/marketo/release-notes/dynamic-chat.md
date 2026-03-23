@@ -20,11 +20,11 @@ La page Notes de mise à jour standard de Marketo Engage [peut être consultée
 
 ### Limite de temps d’attente du visiteur {#visitor-wait-time}
 
-Définissez une durée maximale (entre 10 et 500 secondes) pendant laquelle un visiteur attendra d’être connecté à un agent actif avant de recevoir un message de secours. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Définissez une durée maximale (entre 10 et 500 secondes) pendant laquelle un visiteur attendra d’être connecté à un agent actif avant de recevoir un message de secours. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Télécharger la transcription {#download-transcript}
 
-Vous pouvez désormais télécharger un fichier .txt de votre transcription de chat après la fin d’un chat en direct. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Vous pouvez désormais télécharger un fichier .txt de votre transcription de chat après la fin d’un chat en direct. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version de juin 2025 {#june-2025-release}
 
