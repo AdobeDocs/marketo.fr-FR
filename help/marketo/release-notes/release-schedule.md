@@ -4,7 +4,7 @@ description: Calendrier des versions - Documents Marketo - Documentation du prod
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: f97e0e03b6b0fe0635c57e01be4f5785f0519691
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 90%
@@ -48,12 +48,12 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <td>Terminée</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Février 2026</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-feb-26.md">Février 2026</a></td>
    <td>20 février 2026</td>
    <td>Terminée</td>
   </tr>
   <tr>
-  <td>Mars 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Mars 2026</td>
    <td>27 mars 2026</td>
    <td>Prévu</td>
   </tr>
