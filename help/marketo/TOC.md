@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
 workflow-type: tm+mt
-source-wordcount: '9338'
+source-wordcount: '9340'
 ht-degree: 99%
 
 ---
@@ -164,6 +164,7 @@ ht-degree: 99%
          + [Masquer et afficher un champ](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [Jetons d’encodage HTML dans les e-mails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Marquer un champ comme sensible](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
+         + [Gestion des listes de sélection](product-docs/administration/field-management/picklist-management.md)
          + [Renommer un champ](product-docs/administration/field-management/rename-a-field.md)
          + [Présentation des champs gérés par le système](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Afficher les mappages de champs entre Marketo et Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -1244,7 +1245,7 @@ ht-degree: 99%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un e-mail à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installer le plug-in d’e-mail Sales Connect pour Outlook (Web, Mac et Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
-      + E-mail {#email}
+      + Adresse e-mail {#email}
          + Centre de contrôle {#command-center}
             + [Vue d’ensemble du centre de contrôle](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Vue d’ensemble de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
