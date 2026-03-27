@@ -4,9 +4,10 @@ title: Gestion des listes de sélection
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ Chaque entrée de la liste de sélection possède une valeur d’affichage et un
 
 ## Suggérer automatiquement {#autosuggest}
 
+Lorsque le paramètre _Liste de sélection gérée_ est activé, les étapes Filtres, Choix d’étape de flux et Modifier la valeur de données suggèrent automatiquement des valeurs à partir de votre liste de sélection gérée. Lorsque ce paramètre est désactivé, seules les valeurs non gérées sont suggérées.
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### Basculer entre les listes de sélection gérées et non gérées {#switching}
 
 La plupart des abonnements Marketo Engage contiennent des données antérieures à l’introduction des listes de sélection gérées. Pour utiliser des valeurs dans des listes dynamiques ou des étapes de flux à partir de cette liste de sélection de version non gérée (par exemple, à partir du jeu complet de valeurs qui existe sur les enregistrements dans votre base de données), activez le paramètre Liste de sélection gérée dans votre liste dynamique ou votre vue Campagne. Lorsque cette option est activée, seules les valeurs de la liste de sélection gérée s’affichent. Lorsqu’elle est désactivée, la liste de sélection non gérée est utilisée et les valeurs sont suggérées automatiquement en fonction des valeurs existantes dans la base de données.
 
-### Listes De Sélection De Formulaires (Sélectionner Des Champs De Type) {#form-picklists}
+## Listes De Sélection De Formulaires (Sélectionner Des Champs De Type) {#form-picklists}
 
 Comme pour les listes de sélection prédéfinies et gérées par CRM, les valeurs des listes de sélection gérées se propagent dans Forms lors de l’utilisation du type de champ Sélectionner . Pour un champ avec une liste de sélection gérée, sélectionnez ce champ et définissez le Type de champ sur _Sélectionner_.
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 L’ensemble des valeurs de liste de sélection gérée définies pour ce champ s’affiche.
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
