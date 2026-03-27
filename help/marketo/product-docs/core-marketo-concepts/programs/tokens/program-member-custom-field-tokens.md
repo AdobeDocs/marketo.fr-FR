@@ -4,7 +4,7 @@ description: Découvrez les jetons de champ personnalisé des membres de program
 title: Jetons de champs personnalisés de personnes membres du programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 Les jetons PMCF seront pris en charge sous le domaine membre de la famille de jetons.
 
-Les jetons de membre sont utilisés pour les champs relevant du champ d’application du membre de programme. À partir de l’état actuel, les jetons de membre sont également utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. `{{member.webinar url}}` jeton résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services. {{member.registration code}} est résolu sur le code d’enregistrement fourni par le fournisseur de services.
+Les jetons de membre sont utilisés pour les champs relevant du champ d’application du membre de programme. À partir de l’état actuel, les jetons de membre sont également utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. `{{member.webinar url}}` jeton résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de services. `{{member.registration code}}` est résolu sur le code d’enregistrement fourni par le fournisseur de services.
 
 >[!NOTE]
 >

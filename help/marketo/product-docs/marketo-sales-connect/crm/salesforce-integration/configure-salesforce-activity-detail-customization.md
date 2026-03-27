@@ -3,9 +3,9 @@ description: Découvrez comment configurer la personnalisation des détails de l
 title: Configurer la personnalisation des détails d’activité Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '676'
 ht-degree: 2%
 
 ---
@@ -68,33 +68,33 @@ Les champs dynamiques d’activité fournissent des informations de référence 
   <th>Description</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>Remplit le type de tâche en tant qu’e-mail, appel, courrier électronique ou personnalisé.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>Renseigne l'objet de la tâche.</p>
       <p>Dans le cas d’un e-mail, il renseigne la ligne d’objet de l’e-mail.</p>
       <p>Dans le cas d’un appel, inMail ou personnalisé, il renseigne une valeur si une tâche de rappel a été créée avec une valeur dans le champ nom/objet de la tâche.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>Si l’activité a été lancée à partir d’une campagne de vente, elle renseigne le nom de la campagne de vente.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>Si l'activité a été lancée à partir d'une campagne commerciale, elle renseigne le numéro du jour de la campagne commerciale où cette activité s'est produite.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>Si l’activité a été lancée à partir d’une campagne commerciale, le numéro d’étape est renseigné dans le jour de la campagne commerciale où cette activité a eu lieu.</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>Si l’activité est un appel et qu’un résultat d’appel est sélectionné, la valeur de résultat d’appel est renseignée.</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>Si l’activité est un appel et qu’un motif d’appel est sélectionné, la valeur de motif d’appel est renseignée.</td>
  </tr>
 </table>
@@ -111,7 +111,7 @@ Lors de la configuration des détails de votre activité, réfléchissez aux don
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Cliquez sur **[!UICONTROL Salesforce]**.
+1. Cliquez sur ****.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 

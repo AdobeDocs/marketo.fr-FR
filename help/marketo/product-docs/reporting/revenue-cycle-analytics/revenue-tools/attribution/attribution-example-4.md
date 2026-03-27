@@ -4,7 +4,7 @@ description: Découvrez l’exemple d’attribution 4 dans Marketo Engage, y com
 title: Exemple d’attribution 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 6%
@@ -15,15 +15,15 @@ ht-degree: 6%
 
 Lisez le scénario suivant et essayez de déterminer les nombres qui doivent se trouver dans la grille.
 
-* 11 avril | Michelle télécharge e-Book (Content) - Success
+* 11 avril | Michelle télécharge le livre électronique (Contenu) - Succès
 * 15 avril | John assiste (webinaire) - Succès
 * 22 avril | (Opportunité 1) créée pour 3 000 $
 * 24 avril | (Opportunité 2) créée pour 5 000 $
 * 25 avril | John et Michelle sont associés à **les deux** Optys
-* 29 avril | [Opty 1] est conclu
+* 29 avril | [Opty 1] est conclu et gagné
 
-| Nom du programme | (Contenu) | (Webinaire) |
-|---|---|---|
+| Nom du programme | (Contenu) | (Webinaire) | | |
+|---|---|---|---|---|
 |   | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
 | (MT) Opt créé | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipeline créé | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
