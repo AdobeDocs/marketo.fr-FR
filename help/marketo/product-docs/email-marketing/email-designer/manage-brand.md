@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 82%
+source-wordcount: '1334'
+ht-degree: 77%
 
 ---
 
@@ -27,37 +27,33 @@ Saisissez et organisez manuellement les détails de votre marque ou chargez des 
 
 ## Accéder aux marques {#generative-access}
 
-Pour accéder au menu **[!UICONTROL Marques]** dans [!DNL Adobe Marketo Engage], les utilisateurs doivent disposer des autorisations **[!UICONTROL Gérer le kit de marque]** ou **[!UICONTROL Activer l’assistant d’IA]**.
+Pour accéder au menu **[!UICONTROL Marques]** dans [!DNL Adobe Marketo Engage], les utilisateurs doivent disposer des autorisations appropriées.
 
 +++  Découvrez comment attribuer des autorisations liées à la marque.
 
-Pour attribuer des autorisations aux marques, procédez comme suit :
+### Utilisateurs et rôles {#users-and-roles}
 
-1. Dans le produit **Autorisations**, accédez à l’onglet **Rôles** et sélectionnez le **Rôle** de votre choix.
+1. Dans _Admin_, sélectionnez **Utilisateurs et rôles**.
 
-1. Cliquez sur **Modifier** pour modifier les autorisations.
+1. Sélectionnez le rôle souhaité.
 
-1. Ajoutez la ressource **Assistant IA**, puis sélectionnez **Gérer le kit de marque** ou **[!UICONTROL Activer l’Assistant IA]** dans le menu déroulant.
+1. Cliquez pour développer le menu **Accéder à Design Studio**.
 
-   Notez que l’autorisation **[!UICONTROL Activer l’Assistant IA]** permet uniquement d’accéder en lecture seule au menu **[!UICONTROL Marques]**.
+1. Sélectionnez **Accéder à l’assistant AI** et cliquez sur **Enregistrer**.
 
-   CAPTURE D’ÉCRAN
+### Administration
 
-1. Cliquez sur **Enregistrer** pour appliquer vos modifications.
+1. De retour dans la zone Admin, cliquez sur Nouvelle expérience.
 
-   Les autorisations des personnes déjà affectées à ce rôle seront automatiquement mises à jour.
+1. En regard de _Gérer vos marques_, cliquez sur **Modifier**.
 
-1. Pour attribuer ce rôle à de nouvelles personnes, accédez à l’onglet **Utilisateurs et utilisatrices** du tableau de bord **Rôles** et cliquez sur **Ajouter un utilisateur ou une utilisatrice**.
-
-1. Saisissez le nom de la personne, son adresse e-mail ou choisissez dans la liste, puis cliquez sur **Enregistrer**.
-
-1. Si le profil de l’utilisateur ou de l’utilisatrice n’a pas été créé auparavant, consultez cette [documentation](https://experienceleague.adobe.com/fr/docs/experience-platform/access-control/abac/permissions-ui/users).
+OK, ET APRÈS ???
 
 +++
 
 ## Créer et gérer votre marque {#create-brand-kit}
 
-Pour créer et gérer vos directives de marque, vous pouvez saisir vous-même les détails ou charger votre document de directives de marque pour que les informations soient extraites automatiquement :
+Pour créer et gérer vos directives de marque, vous pouvez saisir vous-même les détails ou charger votre document de directives de marque pour que les informations soient extraites automatiquement.
 
 1. Dans le menu **[!UICONTROL Marques]**, cliquez sur **[!UICONTROL Créer une marque]**.
 
