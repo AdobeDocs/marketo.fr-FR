@@ -111,7 +111,7 @@ Lors de la configuration des détails de votre activité, réfléchissez aux don
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 

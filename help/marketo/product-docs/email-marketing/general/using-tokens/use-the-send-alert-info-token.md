@@ -17,7 +17,7 @@ Le jeton `{{SP_Send_Alert_Info}}` est un jeton spécial à utiliser lors de la c
 
 >[!TIP]
 >
->Ce jeton ne fonctionne que comme prévu lors de l’envoi de l’e-mail le contenant avec l’étape de flux [ Envoyer une alerte ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Elle ne fonctionne pas lorsqu’elle est utilisée dans une étape de flux Envoyer un e-mail .
+>Ce jeton ne fonctionne que comme prévu lors de l’envoi de l’e-mail le contenant avec l’étape de flux [&#x200B; Envoyer une alerte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Elle ne fonctionne pas lorsqu’elle est utilisée dans une étape de flux Envoyer un e-mail .
 
 Exemple d’alerte :
 
