@@ -72,7 +72,7 @@ Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — 
 
 **[!UICONTROL Contenu prédictif] éditeur**
 
-[!UICONTROL  L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
+[!UICONTROL &#x200B; L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
 
 ![](assets/predictive-content-editor.png)
 
@@ -80,7 +80,7 @@ Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — 
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de découverte automatique du contenu.
 
-## [Améliorations De ](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Améliorations De &#x200B;](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Les développeurs ont désormais un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer les jetons push.
 
