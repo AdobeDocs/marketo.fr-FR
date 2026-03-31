@@ -4,7 +4,7 @@ description: Découvrez comment planifier des programmes d’e-mail avec le fuse
 title: Planifier les programmes d’e-mail en fonction du fuseau horaire de la personne destinataire
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '851'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Vous disposez ainsi de deux options :
 >
 >* **[!UICONTROL Envoyez le jour suivant dans le fuseau horaire du destinataire]** : si l’envoi de l’e-mail est prévu pour mardi à 9 heures:00am, les personnes qualifiées qui vivent dans des fuseaux horaires où l’heure prévue est déjà passée recevront l’e-mail le *mercredi* à 9 heures:00am.
 >
->* **[!UICONTROL Envoyez l’e-mail en utilisant l’heure définie par défaut du programme]** : si l’envoi de l’e-mail est prévu pour mardi à 9 heures:00am, les personnes qualifiées qui vivent dans des fuseaux horaires où l’heure planifiée est déjà passée recevront l’e-mail *en fonction des paramètres de fuseau horaire de votre abonnement*. Ainsi, si les paramètres de votre [fuseau horaire d&#39;abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sont définis sur PDT Amérique/Los Angeles, ces destinataires recevront toujours l&#39;email le mardi à 9:00am PDT (quelle que soit l&#39;heure qui se trouve dans leur propre fuseau horaire).
+>* **[!UICONTROL Envoyez l’e-mail en utilisant l’heure définie par défaut du programme]** : si l’envoi de l’e-mail est prévu pour mardi à 9 heures:00am, les personnes qualifiées qui vivent dans des fuseaux horaires où l’heure planifiée est déjà passée recevront l’e-mail *en fonction des paramètres de fuseau horaire de votre abonnement*. Ainsi, si les paramètres de votre [fuseau horaire d&#39;abonnement](/help/marketo/product-docs/administration/settings/change-time-zone.md) sont définis sur PDT Amérique/Los Angeles, ces destinataires recevront toujours l&#39;email le mardi à 9:00am PDT (quelle que soit l&#39;heure qui se trouve dans leur propre fuseau horaire).
 
 >[!NOTE]
 >

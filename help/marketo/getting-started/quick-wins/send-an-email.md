@@ -4,8 +4,8 @@ description: Envoyer un e-mail - Documents Marketo - Documentation du produit
 title: Envoyer un e-mail
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 100%
 
@@ -125,7 +125,7 @@ Il s’agit de la première chose que tout le monde veut faire. Envoyons un e-ma
 
    >[!TIP]
    >
-   >Le fuseau horaire par défaut n’est pas le vôtre ? Découvrez comment le [mettre à jour ici](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >Le fuseau horaire par défaut n’est pas le vôtre ? Découvrez comment le [mettre à jour ici](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}.
 
 1. Cliquez sur **[!UICONTROL Approuver le programme]** sous la vignette [!UICONTROL Approbation] et vous avez terminé.
 

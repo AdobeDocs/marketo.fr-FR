@@ -4,9 +4,9 @@ description: Comment les administrateurs affichent et modifient les paramètres 
 title: Définir les paramètres d’emplacement par défaut pour un abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '247'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,7 @@ Cet article décrit comment un administrateur peut afficher et modifier les para
 
 ## Définir les paramètres d’emplacement par défaut pour un abonnement {#set-default-location-settings-for-a-subscription-1}
 
-Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, les utilisateurs nouvellement créés héritent de ces paramètres. Les utilisateurs peuvent toujours [modifier leurs préférences de langue, de paramètres régionaux et de fuseau horaire](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) dans leurs comptes individuels.
+Lorsqu’un administrateur modifie les paramètres d’emplacement par défaut, les utilisateurs nouvellement créés héritent de ces paramètres. Les utilisateurs peuvent [modifier leur fuseau horaire](/help/marketo/product-docs/administration/settings/change-time-zone.md) dans leurs comptes individuels.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -65,4 +65,4 @@ Si vous modifiez le paramètre régional par défaut de vos utilisateurs, vous p
 
 >[!MORELIKETHIS]
 >
->* [Sélectionnez votre langue, votre paramètre régional et votre fuseau horaire](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [Modifiez Votre Fuseau Horaire](/help/marketo/product-docs/administration/settings/change-time-zone.md)

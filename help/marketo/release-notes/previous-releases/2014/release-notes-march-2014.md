@@ -4,7 +4,7 @@ description: Notes De Mise À Jour - Mars 2014 - Documents Marketo - Documentati
 title: Notes De Mise À Jour - Mars 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 4%
@@ -35,7 +35,7 @@ Lorsque vous utilisez le [rapport de performance du programme](/help/marketo/pro
 
 ## Programmes opérationnels et inclusifs pour les analyses {#inclusive-and-operational-programs-for-analytics}
 
-Vous pouvez désormais [inclure des programmes sans coûts de période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) dans l’[!UICONTROL Explorateur de revenus] et les analyseurs en définissant l’option de comportement d’Analytics sur « Inclusif » lorsque vous modifiez les canaux de programme. Vous pouvez également exclure les programmes opérationnels du compte rendu des performances en choisissant « Opérationnel ».
+Vous pouvez désormais [inclure des programmes sans coûts de période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) dans l’[!UICONTROL Explorateur de revenus] et les analyseurs en définissant l’option de comportement d’Analytics sur « Inclusif » lorsque vous modifiez les canaux de programme. Vous pouvez également exclure les programmes opérationnels du compte rendu des performances en sélectionnant « Opérationnel ».
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
@@ -51,12 +51,12 @@ Pour rappel, ce paramètre modifie également les mesures d’attribution du pro
 
 ## Langue d&#39;utilisateur supplémentaire {#additional-user-language}
 
-Sélectionnez Votre [Langue D&#39;Application Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Affichez l’interface de gestion des prospects de Marketo dans la langue de votre choix, désormais en japonais.
+Sélectionnez Votre [Langue D&#39;Application ](/help/marketo/product-docs/administration/settings/change-time-zone.md). Affichez l’interface de gestion des prospects de Marketo dans la langue de votre choix, désormais en japonais.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Blog des développeurs Marketo {#marketo-developer-blog}
 
-Le blog du développeur de Marketo [&#128279;](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
+Le blog du développeur de Marketo [](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
 
 Le [premier article](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de cette série vous explique comment récupérer efficacement des informations sur les personnes (clients/contacts/prospects) stockées dans Marketo à l’aide de l’API.

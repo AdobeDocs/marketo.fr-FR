@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Notes De Mise À Jour - Printemps 17 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Printemps 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 3%
@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version du printemps 17. V�
 
 Cliquez sur les liens de titre pour afficher les articles détaillés de chaque fonctionnalité. **Remarque** : si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
-## [Forms de génération de leads LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## Forms de génération de leads LinkedIn[](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sont un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de pistes sur [!DNL LinkedIn]. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser dans Marketo, où des processus de suivi automatisés et des activités de routage de pistes peuvent avoir lieu.
 
@@ -66,7 +66,7 @@ Les nouveaux effets de campagne web offrent aux visiteurs du web une expérience
 
 **[Campagne Web en cas d’intention de sortie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Attirez l’attention des visiteurs et visiteuses avant qu’ils ne ferment votre page. Définissez vos [!UICONTROL Campagnes web] personnalisées pour qu’elles s’affichent uniquement lorsqu’un mouvement de souris indique que le visiteur quitte la page.
+Capturez l’attention des visiteurs et visiteuses avant qu’ils ne ferment votre page. Définissez vos [!UICONTROL Campagnes web] personnalisées pour qu’elles s’affichent uniquement lorsqu’un mouvement de souris indique que le visiteur quitte la page.
 
 **[Effets d’animation pour [!UICONTROL Campagnes web]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
@@ -86,13 +86,13 @@ L’option Archiver est un nouveau statut de campagne web qui vous permet d’ar
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Localisation](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localisation](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
 ## Améliorations prédictives {#predictive-enhancements}
 
-**[Localisation](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localisation](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Le contenu prédictif est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 

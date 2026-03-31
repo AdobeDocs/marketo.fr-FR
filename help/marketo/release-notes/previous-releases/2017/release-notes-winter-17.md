@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Notes De Mise À Jour - Hiver '17 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Hiver 17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 8%
@@ -38,7 +38,7 @@ Exportez tous les détails et analyses de vos campagnes web au format CSV. Vous 
 
 ## Localisation {#localization}
 
-Les applications Web Personalization, [!UICONTROL Contenu prédictif] et Informations sur les e-mails sont désormais disponibles en japonais, en allemand et en espagnol. Vous [sélectionnez votre langue et vos paramètres régionaux](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) pour afficher votre contenu dans ces langues.
+Les applications Web Personalization, [!UICONTROL Contenu prédictif] et Informations sur les e-mails sont désormais disponibles en japonais, en allemand et en espagnol. Vous [sélectionnez votre langue et vos paramètres régionaux](/help/marketo/product-docs/administration/settings/change-time-zone.md) pour afficher votre contenu dans ces langues.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -72,7 +72,7 @@ Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — 
 
 **[!UICONTROL Contenu prédictif] éditeur**
 
-[!UICONTROL &#x200B; L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
+[!UICONTROL  L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
 
 ![](assets/predictive-content-editor.png)
 
@@ -80,7 +80,7 @@ Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — 
 
 L’URL de l’image et les métadonnées sont désormais utilisées dans le processus de découverte automatique du contenu.
 
-## [Améliorations De SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Améliorations De ](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Les développeurs ont désormais un contrôle supplémentaire sur la diffusion des notifications push avec l’ajout d’un nouvel appel API SDK qui permet aux développeurs de supprimer les jetons push.
 
