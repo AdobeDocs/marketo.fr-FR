@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9337'
 ht-degree: 99%
 
 ---
@@ -220,7 +220,7 @@ ht-degree: 99%
          + [En-têtes de page de destination](product-docs/administration/settings/landing-page-headers.md)
          + [Tableaux de bord d’utilisation des produits](product-docs/administration/settings/product-usage-dashboards.md)
          + [Restreindre les connexions à Marketo en fonction de l’adresse IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-         + [Sélectionner votre langue, votre région et votre fuseau horaire](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+         + [Modifier Votre Fuseau Horaire](product-docs/administration/settings/change-time-zone.md)
          + [Définir une page de secours](product-docs/administration/settings/set-a-fallback-page.md)
          + [Définir les paramètres d’emplacement par défaut pour un abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Présentation des paramètres de confidentialité](product-docs/administration/settings/understanding-privacy-settings.md)
@@ -296,7 +296,7 @@ ht-degree: 99%
             + [Ajouter à la liste](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [Ajouter des données à un champ](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Appeler le Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
-            + [Modifier valeur des données](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
+            + [Modification de la valeur des données](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [Effacer les valeurs des champs](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md)
             + [Modifier répartition de l&#39;individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [Modifier l&#39;étape dans le cycle de vente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
@@ -309,7 +309,7 @@ ht-degree: 99%
             + [Créditer le référent ou la référente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Moment intéressant](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Supprimer des flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
-            + [Supprimer de la liste](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
+            + [Suppression de la liste](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [Réorganiser la section « Ajouter un choix » dans une étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
             + [Demander une campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Envoyer une alerte](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
@@ -1245,7 +1245,7 @@ ht-degree: 99%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un e-mail à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installer le plug-in d’e-mail Sales Connect pour Outlook (Web, Mac et Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
-      + Adresse e-mail {#email}
+      + E-mail {#email}
          + Centre de contrôle {#command-center}
             + [Vue d’ensemble du centre de contrôle](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Vue d’ensemble de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
