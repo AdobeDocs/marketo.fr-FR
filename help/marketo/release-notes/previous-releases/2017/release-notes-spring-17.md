@@ -16,7 +16,7 @@ Les fonctionnalités suivantes sont incluses dans la version du printemps 17. V�
 
 Cliquez sur les liens de titre pour afficher les articles détaillés de chaque fonctionnalité. **Remarque** : si une rubrique comporte plusieurs sous-titres, les liens y sont placés.
 
-## Forms de génération de leads LinkedIn[&#128279;](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [Forms de génération de leads LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sont un moyen plus direct pour une entreprise d’exécuter des campagnes de génération de pistes sur [!DNL LinkedIn]. Les utilisateurs peuvent remplir des formulaires pour exprimer leur intérêt pour un produit ou un service, ce qui permet à l’entreprise de capturer les détails de la personne et de les synchroniser dans Marketo, où des processus de suivi automatisés et des activités de routage de pistes peuvent avoir lieu.
 
