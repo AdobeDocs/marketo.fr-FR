@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '9337'
+source-wordcount: '9340'
 ht-degree: 99%
 
 ---
@@ -319,7 +319,7 @@ ht-degree: 99%
             + [Utiliser un webhook dans une campagne intelligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Utiliser l’option Ajouter un choix dans une étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [Utiliser des jetons dans des étapes de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-            + Attendre {#wait}
+            + Attente {#wait}
                + [Vue d’ensemble de l’étape Attendre](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
                + [Utiliser un jeton de date dans une étape de flux Attendre](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
                + [Utiliser une durée dans une étape de flux Attendre](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
@@ -1049,7 +1049,7 @@ ht-degree: 99%
          + [Intégration de GenStudio pour Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Verrouillage de contenu](product-docs/email-marketing/email-designer/content-locking.md)
          + [Collaboration d’e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
-         + [Assistant IA](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [Assistant AI pour Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Rapport sur les spams par e-mail avec SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + Programmes d’e-mail {#email-programs}
          + Création d’un programme d’e-mail {#creating-an-email-program}

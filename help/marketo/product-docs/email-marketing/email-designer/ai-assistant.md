@@ -6,9 +6,9 @@ description: Découvrez comment utiliser l’assistant d’IA pour ajouter du te
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '923'
 ht-degree: 8%
 
 ---
@@ -51,17 +51,21 @@ _Après_ conformément à la condition préalable ci-dessus, les administrateurs
 
 ## Cas d’utilisation {#use-cases}
 
-Il existe trois cas d’utilisation principaux pour l’assistant AI :
+Il existe quelques cas d’utilisation principaux pour l’assistant AI :
 
-* [Créer une ligne d’objet](#create-a-subject-line) pour votre e-mail
+* [Créer un objet et/ou un pré-titre](#create-a-subject-line-preheader) pour votre e-mail
 * [Créer du contenu pour une section spécifique](#create-content-for-a-specific-section) de votre e-mail
 * [Créer un e-mail entier](#create-an-entire-email) à partir d’un modèle sélectionné
 
-## Créer une ligne d’objet {#create-a-subject-line}
+## Créer une ligne d’objet/un pré-titre {#create-a-subject-line-preheader}
 
-Lors de la création d’un e-mail à l’aide du nouveau Designer d’e-mail, saisissez un objet temporaire.
+Vous pouvez utiliser l’assistant d’IA pour créer une ligne d’objet, un pré-titre, ou les deux.
 
 ![](assets/use-the-ai-assistant-1.png)
+
+L’exemple ci-dessous illustre la ligne d’objet. Pour un pré-titre, suivez les mêmes étapes en cochant la case _Pré-titre_ (illustré dans l’image ci-dessus).
+
+Lors de la création d’un e-mail à l’aide du nouveau Designer d’e-mail, saisissez un objet temporaire.
 
 Une fois l’e-mail créé, l’objet se trouve dans la colonne _Détails_ à droite. Cliquez sur le bouton de l’assistant d’IA ( ![icône de filtre](assets/icon-ai-assistant.png) ) en regard pour obtenir de l’aide sur la création d’une ligne d’objet à l’aide de la fonctionnalité IA dédiée aux généralités.
 
