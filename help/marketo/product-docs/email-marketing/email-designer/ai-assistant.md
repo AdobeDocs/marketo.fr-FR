@@ -6,14 +6,14 @@ description: Découvrez comment utiliser l’assistant d’IA pour ajouter du te
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 750af291d324acc188cb0fe2693507c156d09c0d
+source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 9%
+source-wordcount: '878'
+ht-degree: 8%
 
 ---
 
-# Utiliser l’assistant IA {#use-ai-assistant}
+# Assistant AI pour Email Designer {#ai-assistant-email-designer}
 
 L’assistant AI de Marketo Engage Email Designer vous permet de créer des e-mails contemporains, performants et intuitifs. Pour ce faire, Adobe utilise une technologie d’IA générative et une bibliothèque de prompts, ainsi que Firefly pour la génération d’images, qui permettent de créer du contenu adapté à une personne/un groupe d’achat spécifique, une étape de parcours marketing, une stratégie de communication, un ton, etc. Des ressources de marque spécifiques peuvent également être utilisées pour créer du contenu.
 
