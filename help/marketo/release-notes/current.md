@@ -3,10 +3,10 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 39%
+ht-degree: 38%
 
 ---
 
@@ -29,8 +29,19 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Email Designer - Gérer les marques (version bêta)</strong> : générez le contenu des e-mails en fonction des directives de rédaction de votre organisation/marque.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Libéré</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">Créer et gérer des marques</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Actions rapides</strong> : <i>parité avec l’ancien éditeur d’email</i>. Les actions rapides sont désormais disponibles pour toutes les ressources de Designer par e-mail (e-mails, modèles d’e-mail, fragments). Les actions rapides prises en charge sont les suivantes : Dupliquer, Supprimer, Déplacer, Créer/Modifier le brouillon.
+   </td>
+   <td>Libéré</i></td>
+   <td>s/o</td>
   </tr>
   <tr>
    <td> </td>
@@ -49,17 +60,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td><strong>Email Designer - Correctif de rendu Outlook</strong> : cette mise à jour corrige les problèmes de rendu, en particulier dans MS Outlook. Le « mode expert » vous permet d’effectuer des modifications HTML/CSS mineures ou d’ajouter des balises de script à votre e-mail (la bonne pratique consiste à ne pas apporter d’autres modifications à l’HTML de l’e-mail afin de conserver les éléments visuels en l’état).
-   </td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Actions rapides</strong> : <i>parité avec l’ancien éditeur d’email</i>. Les actions rapides sont désormais disponibles pour toutes les ressources de Designer par e-mail (e-mails, modèles d’e-mail, fragments). Les actions rapides prises en charge sont les suivantes : Dupliquer, Supprimer, Déplacer, Créer/Modifier le brouillon.
    </td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
@@ -92,7 +92,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 ## Annonces {#announcements}
 
-* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=fr){target="_blank"}.
+* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite de leads de fusion de l’API REST** : à compter du 31 mars 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
 

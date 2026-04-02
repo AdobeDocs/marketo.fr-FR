@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9339'
 ht-degree: 99%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 99%
          + [Définir une page de secours](product-docs/administration/settings/set-a-fallback-page.md)
          + [Définir les paramètres d’emplacement par défaut pour un abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Présentation des paramètres de confidentialité](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [Utilisation d’un identifiant universel pour la connexion à l’abonnement](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + Balises {#tags}
          + [Créer une balise de programme et des valeurs de balise](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Créer un canal de programme](product-docs/administration/tags/create-a-program-channel.md)
@@ -1036,9 +1035,6 @@ ht-degree: 99%
          + [Convertir des images en modèles HTML](product-docs/email-marketing/email-designer/image-to-html.md)
          + [Concevoir un contenu accessible](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Thèmes de marque](product-docs/email-marketing/email-designer/brand-themes.md)
-         + [Appliquer la marque](product-docs/email-marketing/email-designer/apply-brand.md)
-         + [Gérer la marque](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Mode sombre](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Tester le rendu des e-mails avec Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Jetons de personnalisation](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1051,6 +1047,12 @@ ht-degree: 99%
          + [Collaboration d’e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Assistant AI pour Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Rapport sur les spams par e-mail avec SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+         + Marques {#brands}
+            + [Thèmes de marque](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Appliquer la marque](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Gestion des marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personnaliser vos marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Gestion des marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
       + Programmes d’e-mail {#email-programs}
          + Création d’un programme d’e-mail {#creating-an-email-program}
             + [Créer un programme d’e-mail](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
