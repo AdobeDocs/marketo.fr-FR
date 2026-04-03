@@ -4,9 +4,9 @@ description: Exiger une authentification unique pour tous les utilisateurs afin 
 title: Limiter la connexion de l’utilisateur ou de l’utilisatrice aux connexions par authentification unique
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '254'
 ht-degree: 6%
 
 ---
@@ -41,7 +41,7 @@ Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-inte
 
 >[!NOTE]
 >
->Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL &#x200B; Exiger une authentification unique &#x200B;]. »
+>Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL  Exiger une authentification unique ]. »
 
 >[!TIP]
 >
@@ -56,5 +56,4 @@ Vous avez terminé. Désormais, tous les utilisateurs (à l’exception des util
 >[!MORELIKETHIS]
 >
 >* [Ajouter l&#39;authentification SSO à un portail](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Utilisation d’un identifiant universel pour la connexion à l’abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Invitation d’utilisateurs Marketo à deux instances avec un ID universel](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

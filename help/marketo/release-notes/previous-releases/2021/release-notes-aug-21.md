@@ -2,9 +2,9 @@
 description: Notes De Mise À Jour - Août 2021 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Août 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] intégration de Forms génération de leads** : les marketeurs peuvent désormais effectuer l’attribution des revenus sur les conversions qui se produisent lorsque [!DNL LinkedIn] capture les remplissages de formulaires par le biais de leurs unités publicitaires de Forms génération de leads. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements payants dans les médias. [!DNL LinkedIn] Lead Gen Forms est l’une des offres de médias payants à la croissance la plus rapide de [!DNL LinkedIn]. Cette nouvelle fonctionnalité est incluse dans notre intégration [!DNL LinkedIn] Ads existante à [!DNL Bizible].
+* **[!DNL Bizible][!DNL LinkedIn] intégration de Forms génération de leads** : les marketeurs peuvent désormais effectuer l’attribution des revenus sur les conversions qui se produisent lorsque [!DNL LinkedIn] capture les remplissages de formulaires par le biais de leurs unités publicitaires de Forms génération de leads. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements payants dans les médias. [!DNL LinkedIn] Lead Gen Forms est l&#39;une des offres de médias payants à la croissance la plus rapide de [!DNL LinkedIn] et cette nouvelle fonctionnalité est incluse avec notre intégration [!DNL LinkedIn] Ads existante avec [!DNL Bizible].
 
 * **Tableau de bord de vitesse amélioré** : nous avons ajouté une nouvelle mesure de vitesse et un nouveau filtre de tableau de bord pour obtenir des informations plus détaillées. Ce tableau de bord est utilisé par les spécialistes marketing pour comprendre le lead étape par étape, la vitesse des opportunités et l’efficacité de différentes formes d’engagement en matière de marketing et de vente.
 
@@ -75,13 +75,13 @@ Cette section comprend de nouvelles fonctionnalités pour les utilisateurs de Bi
 
 * Intégration d’**[!DNL Bizible]à Adobe Privacy Service** (disponible en septembre 2021) : l’intégration d’[!DNL Bizible] à Adobe Privacy Service centralise la conformité aux réglementations critiques en matière de confidentialité des données (telles que le RGPD) dans les applications Adobe Experience Cloud. Vous pouvez désormais tirer parti de ce service et gérer toutes les demandes d’accès à des informations personnelles de manière centralisée, de sorte que les demandes de modification arrivant dans [!DNL Bizible] et d’autres produits Adobe soient prises en compte dans toutes les applications.
 
-* **[!DNL Bizible]sur Adobe Unified Shell** : l’adoption d’Adobe Unified Shell par [!DNL Bizible] donne aux utilisateurs de nouvelles fonctionnalités qui s’afficheront dans la barre d’en-tête de l’application [!DNL Bizible] et comprennent un meilleur accès aux ressources de prise en charge et au changement d’application. Adobe Unified Shell permet de créer une expérience cohérente entre [!DNL Bizible] et les autres applications Adobe Experience Cloud.
+* **[!DNL Bizible]sur Adobe Unified Shell** : l’adoption par [!DNL Bizible] d’Adobe Unified Shell donne aux utilisateurs de nouvelles fonctionnalités qui s’afficheront dans la barre d’en-tête de l’application [!DNL Bizible] et incluent un meilleur accès aux ressources de prise en charge et au changement d’application. Adobe Unified Shell permet de créer une expérience cohérente entre [!DNL Bizible] et les autres applications Adobe Experience Cloud.
 
 * **[!DNL Bizible]la propriété de domaine et l’auto-gestion** : [!DNL Bizible] utilisateurs peuvent utiliser Adobe Admin Console pour gérer les domaines qu’ils [!DNL Bizible] suivre. Cela apporte du libre-service à un processus manuel précédent et fournit une expérience cohérente dans la manière dont la propriété et le suivi des domaines sont gérés dans les applications Adobe Experience Cloud.
 
 ## Annonces {#announcements}
 
-* **Mise à jour des paramètres d’ID d’abonnement universel** : pour prendre en charge l’intégration d’identité Marketo Engage et Adobe à venir pour les utilisateurs existants, tous les abonnements Marketo Engage seront unifiés afin d’activer la prise en charge d’ID universel. Vous trouverez plus d’informations [ici](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+* **Mise à jour des paramètres d’ID d’abonnement universel** : pour prendre en charge l’intégration d’identité Marketo Engage et Adobe à venir pour les utilisateurs existants, tous les abonnements Marketo Engage seront unifiés afin d’activer la prise en charge d’ID universel.
 
 **_Webinaire de mise à jour du produit_**
 
