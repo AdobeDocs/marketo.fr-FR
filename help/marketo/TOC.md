@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 3ab1d36fd99e72566adc463429fb8084dbf364c9
 workflow-type: tm+mt
 source-wordcount: '9339'
 ht-degree: 99%
@@ -1051,8 +1051,8 @@ ht-degree: 99%
             + [Thèmes de marque](product-docs/email-marketing/email-designer/brands/brand-themes.md)
             + [Appliquer la marque](product-docs/email-marketing/email-designer/brands/apply-brand.md)
             + [Gestion des marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Personnaliser vos marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Gestion des marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personnaliser vos marques](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Alignement sur la marque](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + Programmes d’e-mail {#email-programs}
          + Création d’un programme d’e-mail {#creating-an-email-program}
             + [Créer un programme d’e-mail](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
