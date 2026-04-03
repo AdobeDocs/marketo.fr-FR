@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + Documents du produit {#product-docs}
    + Applications supplémentaires {#additional-apps}
       + SEO {#seo}
-         + Présentation de SEO {#understanding-seo}
-            + [Présentation de l’optimisation du moteur de recherche](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Présentation du tableau de bord de SEO : recommandations de SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [Présentation du tableau de bord de SEO : instantané de SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - Ajouter un site/Supprimer un site](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - Ajouter des entités concurrentes](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - Gestion de listes](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - Sélectionner la région/le pays pour votre moteur de recherche](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - Définir vos préférences d’alerte par e-mail](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Mots-clés {#keywords}
-            + [SEO - Ajouter des mots-clés](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - Ajouter/supprimer des colonnes dans la vue Mots-clés](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - Ajouter/supprimer des mots-clés dans une liste](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - Export de résultats des mots-clés](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - Filtrer les résultats des mots-clés](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - Obtenir des suggestions de mots-clés](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - Import de mots-clés avec un fichier CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - Graphique des tendances des mots-clés](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - Optimiser des pages spécifiques avec des mots-clés ciblés](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - Supprimer un mot-clé](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - Présentation des mots-clés](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - Afficher les résultats des mots-clés dans un moteur de recherche](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Pages {#pages}
-            + [SEO - Ajouter des notes à des problèmes de page](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - Ajouter des pages](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - Ajouter/supprimer une page d’une liste](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - Ajouter/supprimer un problème de page d’une liste](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - Exporter des problèmes au format CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - Supprimer un problème de page](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - Supprimer une page](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - Présentation des pages](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - Utilisation de l’analyse en profondeur des détails de la page](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + Liens entrants {#inbound-links}
-            + [SEO - Ajouter manuellement une URL de lien entrant](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - Ajouter/supprimer une URL de lien entrant d’une liste](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - Obtenir des suggestions de liens entrants](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - Supprimer une URL de lien entrant](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - Présentation des liens entrants](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Rapports {#reports}
             + [SEO - Utiliser le rapport des tendances des mots-clés de l’entité concurrente](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Utiliser le rapport des tendances des mots-clés](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -1247,7 +1213,7 @@ ht-degree: 99%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un e-mail à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installer le plug-in d’e-mail Sales Connect pour Outlook (Web, Mac et Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
-      + E-mail {#email}
+      + Adresse e-mail {#email}
          + Centre de contrôle {#command-center}
             + [Vue d’ensemble du centre de contrôle](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Vue d’ensemble de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
