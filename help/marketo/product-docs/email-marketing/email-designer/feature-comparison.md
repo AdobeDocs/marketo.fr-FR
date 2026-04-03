@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 14%
@@ -168,7 +168,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   </tr>
   <tr>
     <td>Intégration à Adobe Express</td>
-    <td>Possibilité de créer/modifier des images à l’aide d’<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>.</td>
+    <td>Possibilité de créer/modifier des images à l’aide d’<a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank"></a>.</td>
     <td>Non disponible</td>
     <td>Disponible</td>
   </tr>
@@ -233,7 +233,7 @@ Consultez cette page (ainsi que les [notes de mise à jour actuelles](/help/mark
   </tr>
   <tr>
     <td>Thèmes de marque</td>
-    <td>Possibilité d’<a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">appliquer les thèmes approuvés</a> à l’ensemble de l’organisation pour garantir la cohérence des éléments tels que le style, la couleur, la taille de police, etc.</td>
+    <td>Possibilité d’<a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">appliquer les thèmes approuvés</a> à l’ensemble de l’organisation pour garantir la cohérence des éléments tels que le style, la couleur, la taille de police, etc.</td>
     <td>Non disponible</td>
     <td>Disponible</td>
   </tr>
