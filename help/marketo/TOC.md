@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 8a9445f0cce6afc6506d0cb30b67bd071828f0a1
+source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
 workflow-type: tm+mt
-source-wordcount: '9168'
+source-wordcount: '9171'
 ht-degree: 99%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 99%
 + Documents du produit {#product-docs}
    + MARKETO MCP {#marketo-mcp}
       + [Vue d’ensemble](product-docs/marketo-mcp/overview.md)
+      + [Paramètres et configuration](product-docs/marketo-mcp/settings-setup.md)
       + Agents {#agents}
          + [Importer les leads](product-docs/marketo-mcp/agents/import-leads.md)
          + [AQ du programme](product-docs/marketo-mcp/agents/program-qa.md)
