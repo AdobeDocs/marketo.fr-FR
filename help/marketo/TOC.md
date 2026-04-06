@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
+source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
 workflow-type: tm+mt
 source-wordcount: '9171'
 ht-degree: 99%
@@ -58,12 +58,12 @@ ht-degree: 99%
       + [Instance héritée : documenter votre configuration](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Vérification des compétences de base](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documents du produit {#product-docs}
-   + MARKETO MCP {#marketo-mcp}
-      + [Vue d’ensemble](product-docs/marketo-mcp/overview.md)
-      + [Paramètres et configuration](product-docs/marketo-mcp/settings-setup.md)
+   + MARKETO AI {#marketo-ai}
+      + [Vue d’ensemble](product-docs/marketo-ai/overview.md)
+      + [Paramètres et configuration](product-docs/marketo-ai/settings-setup.md)
       + Agents {#agents}
-         + [Importer les leads](product-docs/marketo-mcp/agents/import-leads.md)
-         + [AQ du programme](product-docs/marketo-mcp/agents/program-qa.md)
+         + [Importer les leads](product-docs/marketo-ai/agents/import-leads.md)
+         + [AQ du programme](product-docs/marketo-ai/agents/program-qa.md)
    + Applications supplémentaires {#additional-apps}
       + SEO {#seo}
          + Mots-clés {#keywords}
@@ -1219,7 +1219,7 @@ ht-degree: 99%
             + Module complémentaire Office 365 {#office-365-add-in}
                + [Ajouter un e-mail à Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Installer le plug-in d’e-mail Sales Connect pour Outlook (Web, Mac et Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
-      + Adresse e-mail {#email}
+      + E-mail {#email}
          + Centre de contrôle {#command-center}
             + [Vue d’ensemble du centre de contrôle](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Vue d’ensemble de la recherche avancée](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
