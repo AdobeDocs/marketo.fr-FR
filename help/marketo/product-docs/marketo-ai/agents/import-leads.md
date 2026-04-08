@@ -4,9 +4,9 @@ title: Importer les leads
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Importez et dédupliquez des listes de prospects dans votre base de données Mar
 
    ![](assets/import-leads-2.png)
 
-   Vous accédez à l’IA conversationnelle. Dans le volet de gauche, l’agent publie des conseils, des réponses et des options pour les fonctionnalités de normalisation des données à exécuter.
+   Vous accédez à l’écran d’IA conversationnelle . Dans le volet de gauche, l’agent publie des conseils, des réponses et des options pour les fonctionnalités de normalisation des données à exécuter.
 
    ![](assets/import-leads-3.png)
 

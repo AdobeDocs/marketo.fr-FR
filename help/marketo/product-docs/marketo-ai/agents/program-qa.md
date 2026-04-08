@@ -1,13 +1,13 @@
 ---
-description: Bientôt disponible.
+description: Découvrez comment auditer vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les pages de destination, les campagnes, etc.
 title: AQ du programme
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 3%
 
 ---
 
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les landing pages, les campagnes, etc.
 
-Il existe deux façons d&#39;accéder à cet agent.
+## Utilisation {#how-to-use}
 
-Cliquez sur l’agent dans la fenêtre centrale, puis sur la liste déroulante en haut à droite
+1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
 
-cliquez sur le bouton Utiliser cet agent .
+   ![](assets/program-qa-1.png)
 
-et dans le volet gauche de la boîte de dialogue d’invite, le texte par défaut s’affiche.
+1. Cliquez sur l’agent **Assurance qualité du programme**.
 
-Sélectionnez ensuite le programme que vous souhaitez contrôler la qualité dans le volet de droite
+   ![](assets/program-qa-2.png)
 
-Un résumé du programme s’affiche dans la fenêtre centrale pour donner un aperçu du programme et de ce qui a été créé pour celui-ci.
+   Vous accédez à l’écran d’IA conversationnelle .
 
-Vous pouvez également cliquer sur l’agent dans l’écran principal de l’IA conversationnelle.
+1. Sélectionnez le programme souhaité dans le volet de droite.
 
-L’assistant d’IA affiche le texte par défaut pour indiquer l’agent qui sera exécuté.
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-Sélectionnez ensuite le programme à droite qui doit faire l’objet d’une assurance qualité.
+Un résumé du programme s’affiche dans le volet central, fournissant un aperçu du programme.
 
-et le même résumé s’affiche dans la console centrale
+![](assets/program-qa-4.png){width="450" zoomable="yes"}
