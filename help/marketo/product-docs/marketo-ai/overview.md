@@ -4,7 +4,7 @@ title: Présentation de Marketo Engage AI
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 3%
@@ -31,6 +31,14 @@ Dans la console centrale, il y a sept fonctionnalités Agentic pour vous aider a
 
 ## Agents {#agents}
 
+### AQ du programme {#program-qa}
+
+Validez les programmes Marketo Engage par rapport aux bonnes pratiques et détectez les problèmes avant le lancement. [En savoir plus](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Importer les leads {#import-leads}
+
+Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. [En savoir plus](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Examiner le lead (bientôt disponible) {#investigate-lead}
 
 Découvrez pourquoi quelqu’un n’a pas utilisé MQL, ne s’est pas qualifié pour un programme ou n’a pas progressé tout au long du cycle de vie.
@@ -42,14 +50,6 @@ Créez un document de configuration de programme que d’autres pourront utilise
 ### Créer un programme (bientôt disponible) {#create-program}
 
 Générez un programme Marketo Engage complet à l’aide d’un résumé de campagne, avec e-mail, page de destination et Campagne intelligente.
-
-### AQ du programme {#program-qa}
-
-Validez les programmes Marketo Engage par rapport aux bonnes pratiques et détectez les problèmes avant le lancement. [En savoir plus](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Importer les leads {#import-leads}
-
-Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. [En savoir plus](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normaliser les données (bientôt disponible) {#normalize-data}
 

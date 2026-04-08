@@ -4,10 +4,10 @@ title: Paramètres et configuration
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 1%
+source-wordcount: '333'
+ht-degree: 0%
 
 ---
 
@@ -17,19 +17,51 @@ Découvrez comment activer des autorisations et utiliser la zone Paramètres pou
 
 ## Autorisations {#permissions}
 
-Pour accéder à l’IA dédiée au Marketo, les administrateurs doivent d’abord activer les autorisations de rôle.
+>[!IMPORTANT]
+>
+>Dans la phase Alpha de l’IA Marketo, _l’accès est activé par défaut_ pour les rôles suivants : administrateur, administrateur de produit Adobe, utilisateur marketing, utilisateur standard. Ainsi, au lieu de l’activer pour les rôles auxquels vous souhaitez avoir accès, vous devez le désactiver pour les rôles auxquels vous n’avez pas accès.
+
+### Accès pour tous {#access-for-all}
+
+Si vous souhaitez que l’IA dédiée au Marketo soit activée pour tous les rôles répertoriés ci-dessus, vous n’avez rien à faire.
+
+### Accès pour certains {#access-for-some}
+
+Si vous souhaitez supprimer l’accès pour des rôles, procédez comme suit.
 
 1. Dans Mon Marketo, cliquez sur **Admin**, puis **Utilisateurs et rôles**.
 
    ![](assets/settings-setup-1.png)
 
-1. Dans l’onglet _Rôles_, sélectionnez le rôle souhaité, puis cliquez sur **Modifier le rôle**.
+1. Dans l’onglet _Rôles_, sélectionnez le ou les rôles de votre choix, puis cliquez sur **Modifier le rôle**.
 
    ![](assets/settings-setup-2.png)
 
-1. Faites défiler vers le bas et cochez la case **Accéder à la version avec IA**, puis cliquez sur **Enregistrer**.
+1. Faites défiler vers le bas et _décochez_ la case **Accéder à la version avec IA**, puis cliquez sur **Enregistrer**.
 
    ![](assets/settings-setup-3.png)
+
+### Rôle personnalisé {#custom-role}
+
+Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à la version avec l’IA_ ainsi que tout autre élément de votre choix, et [en attribuant ce rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs et utilisatrices spécifiques.
+
+<!-- ## Permissions {#permissions}
+
+In order to access Marketo AI, Admins must first enable role permissions. 
+
+1. In your My Marketo, click **Admin**, then **Users & Roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+
+   ![](assets/settings-setup-3.png)
+
+-->
 
 ## Paramètres {#settings}
 
