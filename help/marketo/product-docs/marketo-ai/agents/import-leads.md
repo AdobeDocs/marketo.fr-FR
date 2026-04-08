@@ -1,13 +1,13 @@
 ---
-description: Bientôt disponible.
+description: Découvrez comment utiliser l’agent Importer des prospects pour charger un fichier CSV, appliquer des règles métier, mapper des champs et importer des prospects directement dans votre base de données Marketo Engage.
 title: Importer les leads
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 0%
+source-wordcount: '204'
+ht-degree: 1%
 
 ---
 
@@ -15,22 +15,52 @@ ht-degree: 0%
 
 Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs.
 
-Importer une liste de LEADS ? LES GENS ? au format csv, en appliquant certaines règles de normalisation des données et en les enregistrant dans la base de données Marketo.
+## Utilisation {#how-to-use}
 
-Cliquez sur cet agent pour accéder à l’IA dédiée à la conversation. Dans le volet de gauche se trouve un assistant d’IA qui fournit une fenêtre permettant à l’agent de publier des conseils, des réponses et des options pour les fonctionnalités de normalisation des données à exécuter.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
 
-Pour lancer le processus d’importation, cliquez sur l’icône de pièce jointe pour charger un fichier.
+   ![](assets/import-leads-1.png)
 
-Saisissez dans la liste Importer et cliquez sur Envoyer .
+1. Cliquez sur l’agent **Importer les prospects**.
 
-Saisissez la règle métier à appliquer et cliquez sur Envoyer. Une fois saisie, une fenêtre dans la console centrale fournit les résultats de la règle appliquée.
+   ![](assets/import-leads-2.png)
 
-Saisissez une autre règle métier, le cas échéant, et cliquez sur Envoyer.
+   Vous accédez à l’IA conversationnelle. Dans le volet de gauche, l’agent publie des conseils, des réponses et des options pour les fonctionnalités de normalisation des données à exécuter.
 
-Pour afficher la liste des champs de liste mappés à la base de données, cliquez sur l&#39;onglet Mappage .
+   ![](assets/import-leads-3.png)
 
-Une fois la liste prête à être enregistrée dans la base de données, cliquez sur le bouton Importer dans Marketo .
+1. Pour commencer à importer vos prospects, cliquez sur l’icône de pièce jointe et chargez-les via un fichier .CSV.
 
-Sélectionnez le dossier dans lequel enregistrer la liste, saisissez le nom de la liste des prospects et cochez les cases correspondant au consentement, puis cliquez sur le bouton « Approuver et importer dans Marketo ».
+   ![](assets/import-leads-4.png)
 
-Une fois la liste enregistrée, une vérification est fournie avec un résumé des enregistrements traités, ayant échoué ou ayant eu des avertissements.
+1. Saisissez _Importer la liste_ et cliquez sur **Envoyer**.
+
+   ![](assets/import-leads-5.png)
+
+   Votre liste est prévisualisée dans la console centrale.
+
+   ![](assets/import-leads-6.png)
+
+1. Saisissez la règle métier souhaitée, puis cliquez sur **Envoyer**.
+
+   ![](assets/import-leads-7.png)
+
+   Les résultats s’affichent dans la console centrale.
+
+   ![](assets/import-leads-8.png)
+
+   Si vous le souhaitez, entrez des règles métier supplémentaires.
+
+1. Pour afficher les champs mappés, cliquez sur l’onglet **Mappages**.
+
+1. Si des champs n’ont pas été mappés correctement, corrigez-les ici.
+
+   ![](assets/import-leads-9.png)
+
+1. Une fois prêt à importer votre liste, cliquez sur l’onglet **Importer dans Marketo**.
+
+1. Sélectionnez le dossier de destination et saisissez un nom. Cochez chaque case de consentement et cliquez sur **Approuver et importer dans Marketo**.
+
+   ![](assets/import-leads-10.png)
+
+Une fois l’importation terminée, la vérification est fournie avec un résumé des prospects traités, les lignes ayant échoué et les avertissements éventuels.
