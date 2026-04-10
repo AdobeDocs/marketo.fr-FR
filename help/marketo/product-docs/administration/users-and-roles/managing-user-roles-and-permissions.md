@@ -4,10 +4,10 @@ description: Découvrez comment définir, créer et modifier des rôles d’util
 title: Gestion des rôles et autorisations des utilisateurs et des utilisatrices
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '497'
+ht-degree: 2%
 
 ---
 
@@ -24,20 +24,17 @@ Par exemple, un utilisateur ou une utilisatrice marketing a généralement besoi
 Marketo fournit plusieurs rôles intégrés, avec différents niveaux d’accès :
 
 * **Admin** - toutes les parties de l&#39;application, y compris la section Admin
+* **Administrateur de produit Adobe** - Toutes les parties de l’application, y compris la section Admin
 * **Utilisateur standard** - Toutes les parties de l’application, à l’exception de la section Admin
 * **Utilisateur marketing** - Toutes les parties de l’application, à l’exception de la section Admin
 * **Web Designer** - Uniquement Design Studio
 * **Utilisateur Analytics** - uniquement la section Analytics
 
-Vous ne pouvez pas modifier les rôles Administrateur et Utilisateur standard, mais vous pouvez modifier les autres. Vous pouvez également créer des rôles personnalisés pour répondre aux structures organisationnelles spécifiques de votre entreprise.
-
-## Marketo avec Adobe Identity {#marketo-with-adobe-identity}
-
-Si vous utilisez Marketo avec Adobe Identity, la liste des descriptions de profil [se trouve ici](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+Vous ne pouvez pas supprimer les rôles d’administrateur ou d’administrateur de produit Adobe, mais vous pouvez modifier/supprimer les autres. Vous pouvez également créer des rôles personnalisés pour répondre aux structures organisationnelles spécifiques de votre entreprise.
 
 ## Affecter des rôles à un utilisateur {#assign-roles-to-a-user}
 
-Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vous [créez des utilisateurs et utilisatrices pour la première fois](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou en [&#x200B; un utilisateur ou une utilisatrice existant(e)](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vous [créez des utilisateurs et utilisatrices pour la première fois](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou en [ un utilisateur ou une utilisatrice existant(e)](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

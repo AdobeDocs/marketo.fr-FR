@@ -4,10 +4,10 @@ description: Procédure à suivre pour créer, supprimer et modifier des rôles 
 title: Créer, supprimer, modifier et remplacer un rôle d’utilisateur ou d’utilisatrice
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 9%
+source-wordcount: '295'
+ht-degree: 7%
 
 ---
 
@@ -21,13 +21,10 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->Les rôles suivants sont des rôles système et ne peuvent pas être modifiés ni supprimés :
+>Les rôles suivants sont des rôles système et ne peuvent pas être supprimés :
 >
 >* Administration
 >* Administrateur de produits Adobe
->* Utilisateur standard
->* Éditeur RTP
->* Dispositif de lancement RTP
 
 ## Créer un rôle {#create-a-role}
 

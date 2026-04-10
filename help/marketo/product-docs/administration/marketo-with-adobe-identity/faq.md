@@ -3,7 +3,7 @@ description: Questions fréquentes sur Adobe Identity for Marketo Engage, y comp
 title: Questions fréquentes sur Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
 source-wordcount: '1591'
 ht-degree: 98%
@@ -57,9 +57,9 @@ Oui. Les personnes qui ont intégré Adobe IMS ne peuvent pas utiliser toutes l
 
 **Qui contacter pour obtenir de l’aide si nous sommes intégrés à IMS ?**
 
-* Avant la migration de l’utilisateur ou de l’utilisatrice : consignez les tickets d’assistance auprès de la [communauté Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) ou envoyez un e-mail à l’adresse `customercare@marketo.com`.
+* Avant la migration de l’utilisateur ou de l’utilisatrice : consignez les tickets d’assistance auprès de la [communauté Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) ou envoyez un e-mail à l’adresse `marketocares@adobe.com`.
 
-* Après la migration de l’utilisateur ou de l’utilisatrice : consignez les tickets d’assistance auprès de la [communauté Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) ou envoyez un e-mail à l’adresse `customercare@marketo.com`.
+* Après la migration de l’utilisateur ou de l’utilisatrice : consignez les tickets d’assistance auprès de la [communauté Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) ou envoyez un e-mail à l’adresse `marketocares@adobe.com`.
 
 * Après la fin de la migration : les administrateurs et administratrices de l’assistance produit peuvent consigner des tickets via le portail d’assistance Experience League.
 
@@ -83,7 +83,7 @@ Bien qu’il y ait une carte de produit dans Admin Console pour [!DNL Sales Con
 
 **Où puis-je en savoir plus sur Adobe Admin Console ?**
 
-[https://helpx.adobe.com/fr/enterprise/admin-guide.html](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
 
 **Dois-je toujours accéder à la section Admin de Marketo pour apporter des modifications au compte d’utilisateur ou d’utilisatrice de mon compte ?**
 
@@ -141,7 +141,7 @@ Non, cela n’a aucun impact sur ces configurations.
 
 **Comment empêcher les sessions d’expirer ?**
 
-Dans [Paramètres avancés](https://helpx.adobe.com/fr/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, vous pouvez personnaliser la durée de vie maximale de la session souhaitée (autorisations d’administration système requises). Il est recommandé d’établir ce paramètre après la migration du produit, mais avant la migration des utilisateurs et utilisatrices.
+Dans [Paramètres avancés](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-setting){target="_blank"}, vous pouvez personnaliser la durée de vie maximale de la session souhaitée (autorisations d’administration système requises). Il est recommandé d’établir ce paramètre après la migration du produit, mais avant la migration des utilisateurs et utilisatrices.
 
 **Je dois maintenant naviguer jusqu’à Experience Cloud pour accéder à Marketo Engage. Existe-t-il un moyen de rationaliser ce flux ?**
 
