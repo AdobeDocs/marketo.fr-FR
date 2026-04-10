@@ -3,7 +3,7 @@ description: Liste de contrôle d’administration d’instance héritée - Docu
 title: Liste de contrôle d’administration d’instance héritée
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '1850'
 ht-degree: 4%
@@ -33,14 +33,14 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
   <tr>
    <td>Administrateur de produit d’abonnement et de Marketo Engage</td>
    <td><li>Votre abonnement Marketo Engage a-t-il déjà été migré vers <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ?
-<br/>     Adobe Admin Console Si tel est le cas, votre rôle d’« administrateur système de Adobe Admin Console » vous a-t-il été attribué ? Si vous ne savez pas qui, dans votre organisation, dispose de privilèges d’administration dans la console, contactez l’<a href="https://helpx.adobe.com/fr/contact.html" target="_blank">assistance clientèle Adobe</a>.</li>
+<br/>     Si tel est le cas, votre rôle d’« administrateur système de Adobe Admin Console » vous a-t-il été attribué ? Si vous ne savez pas qui, dans votre organisation, dispose de privilèges d’administration dans la console, contactez l’<a href="https://helpx.adobe.com/fr/contact.html" target="_blank">assistance clientèle Adobe</a>.</li>
 <li>Avez-vous accepté l’invitation « Marketo Engage Product Admin » ? L’e-mail est envoyé lorsque le rôle est attribué dans le Adobe Admin Console.
 <br/>     Dans le cas contraire, recherchez l’e-mail de bienvenue <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank"> dans votre boîte de réception et acceptez l’invitation à activer votre Adobe ID</a></li></td>
   </tr>
   <tr>
    <td>Profil produit</td>
    <td><li>Tous les utilisateurs appropriés sont-ils affectés au profil de produit Marketo Engage dans Adobe Admin Console ?
-<br/>     Dans le cas contraire, veillez à <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">ajouter et/ou supprimer des utilisateurs</a> des profils de produit Marketo Engage dans le Adobe Admin Console. Vous ne pouvez pas affecter les rôles des utilisateurs dans Marketo Engage &gt; Admin &gt; Utilisateurs et rôles s’ils sont ajoutés à un profil de produit.</li>
+<br/>     Dans le cas contraire, veillez à <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md" target="_blank">ajouter et/ou supprimer des utilisateurs</a> des profils de produit Marketo Engage dans le Adobe Admin Console. Vous ne pouvez pas affecter les rôles des utilisateurs dans Marketo Engage &gt; Admin &gt; Utilisateurs et rôles s’ils sont ajoutés à un profil de produit.</li>
 <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : si un utilisateur indésirable est ajouté à plusieurs profils de produit, vous devez le supprimer de tous les profils de produit. Sinon, ils auront toujours accès à Marketo Engage.</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
    <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : si votre abonnement se trouve déjà dans Adobe IMS, passez à la révision de la gestion des utilisateurs dans Adobe Admin Console. Sinon, accédez à Admin &gt; Utilisateurs et rôles &gt; Utilisateurs dans Marketo Engage.
    <p>
    <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Combien d’utilisateurs </a>-vous ?</li>
-<li>Y a-t-il des utilisateurs qui doivent être <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">supprimés</a> ?</li>
+<li>Y a-t-il des utilisateurs qui doivent être <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user" target="_blank">supprimés</a> ?</li>
 <li>Votre entreprise applique-t-elle des politiques concernant la suppression d’utilisateurs ?</li>
 <li>Combien d’utilisateurs disposent des <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">autorisations d’administrateur</a> ?</li>
 <li>L’un de ces utilisateurs doit-il être remplacé par <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">d’autres rôles ?</a></li>
@@ -124,7 +124,7 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
   </tr>
   <tr>
    <td>Espaces de travail &amp; Divisions</td>
-   <td><li>Combien d’espaces de travail et/ou de partitions <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank"></a> avez-vous ?</li>
+   <td><li>Combien d’espaces de travail et/ou de partitions <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank"> avez-vous ?</a></li>
 <li>Quel est l’objectif principal de chaque Workspace et partition ?</li>
 <li>Vos <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">espaces de travail</a> ou <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">partitions</a> doivent-ils être audités/modifiés ?</li>
 <li>Quelle est la relation entre vos espaces de travail et vos partitions ?</li>
@@ -263,7 +263,7 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
    <td><li>À quel CRM effectuez-vous une synchronisation ? SALESFORCE ? MS Dynamics ? Veeva ?</li>
 <li>Utilisez-vous une <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">synchronisation personnalisée</a> ?</li>
 <li>[Salesforce uniquement] Votre instance dispose-t-elle de filtres de synchronisation personnalisés implémentés ?
-<p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : contactez l’assistance Marketo pour identifier les filtres de synchronisation personnalisés ou demander l’implémentation d’une règle de synchronisation personnalisée.</li></td>
+<p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : contactez l’assistance Adobe pour identifier les filtres de synchronisation personnalisés ou demander l’implémentation d’une règle de synchronisation personnalisée.</li></td>
   </tr>
   <tr>
    <td>Pages de destination</td>
@@ -281,7 +281,7 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
    <td>Munchkin</td>
    <td><li>Votre <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">code de suivi Munchkin se trouve-t-il sur votre site web </a> (il ne s’agit pas d’une page de destination Marketo Engage) ?</li>
 <li>Une requête de navigateur <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Ne pas suivre</a> est-elle activée ?</li>
-<li>Votre <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">API Munchkin</a> est-elle configurée ?
+<li>Votre <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">API </a> est-elle configurée ?
 <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : si vous ne disposez pas de documentation sur l’emplacement du code munchkin sur votre site web, vous pouvez afficher toutes les URL en créant un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">rapport d’activité de page web</a>.</li></td>
   </tr>
   <tr>
@@ -293,9 +293,9 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (le cas échéant)</td>
-<td>Vous devrez accéder à <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> en suivant les étapes ci-dessous. Si vous n’avez pas encore configuré d’Adobe ID, <a href="https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html" target="_blank">découvrez comment faire ici</a>.
+<td>Vous devrez accéder à <a href="https://adminconsole.adobe.com/" target="_blank"></a> en suivant les étapes ci-dessous. Si vous n’avez pas encore configuré d’Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">découvrez comment faire ici</a>.
 <br/>
-<li>Avez-vous accepté l’invitation <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrateur de produit Dynamic Chat</a> ? L’e-mail est envoyé lorsque Dynamic Chat est activé dans votre instance Marketo Engage et que vous êtes désigné comme administrateur système.
+<li>Avez-vous accepté l’invitation <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrateur de produit </a> ? L’e-mail est envoyé lorsque Dynamic Chat est activé dans votre instance Marketo Engage et que vous êtes désigné comme administrateur système.
 <br/>     Dans le cas contraire, recherchez l’e-mail de bienvenue dans votre boîte de réception et acceptez l’invitation à configurer votre Adobe ID.</li>
 <li>Avez-vous ajouté les <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">utilisateurs souhaités</a> au profil de produit Dynamic Chat dans Adobe Admin Console ?
 <li>Assurez-vous que les utilisateurs éligibles disposent du profil de produit Dynamic Chat ajouté à leur identité Adobe. Vous ne pouvez pas affecter de rôles « Accéder à Dynamic Chat » dans Marketo Engage &gt; Admin &gt; Utilisateurs et rôles s’ils sont ajoutés à un profil de produit.</li>
