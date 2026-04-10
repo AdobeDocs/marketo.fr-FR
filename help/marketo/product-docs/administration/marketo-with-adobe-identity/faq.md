@@ -83,7 +83,7 @@ Bien qu’il y ait une carte de produit dans Admin Console pour [!DNL Sales Con
 
 **Où puis-je en savoir plus sur Adobe Admin Console ?**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/fr/enterprise/admin-guide.html](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}.
 
 **Dois-je toujours accéder à la section Admin de Marketo pour apporter des modifications au compte d’utilisateur ou d’utilisatrice de mon compte ?**
 
@@ -141,7 +141,7 @@ Non, cela n’a aucun impact sur ces configurations.
 
 **Comment empêcher les sessions d’expirer ?**
 
-Dans [Paramètres avancés](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-setting){target="_blank"}, vous pouvez personnaliser la durée de vie maximale de la session souhaitée (autorisations d’administration système requises). Il est recommandé d’établir ce paramètre après la migration du produit, mais avant la migration des utilisateurs et utilisatrices.
+Dans [Paramètres avancés](https://helpx.adobe.com/fr/enterprise/using/authentication-settings.html#advanced-setting){target="_blank"}, vous pouvez personnaliser la durée de vie maximale de la session souhaitée (autorisations d’administration système requises). Il est recommandé d’établir ce paramètre après la migration du produit, mais avant la migration des utilisateurs et utilisatrices.
 
 **Je dois maintenant naviguer jusqu’à Experience Cloud pour accéder à Marketo Engage. Existe-t-il un moyen de rationaliser ce flux ?**
 
