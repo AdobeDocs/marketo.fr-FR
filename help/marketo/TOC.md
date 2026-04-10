@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '9176'
 ht-degree: 99%
 
 ---
@@ -1005,6 +1005,7 @@ ht-degree: 99%
          + [Création de modèle d’e-mail](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importer un modèle](product-docs/email-marketing/email-designer/import-template.md)
          + [Convertir des images en modèles HTML](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [Éditeur HTML avancé de modèle d’e-mail](product-docs/email-marketing/email-designer/advanced-html-mode.md)
          + [Concevoir un contenu accessible](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
          + [Mode sombre](product-docs/email-marketing/email-designer/dark-mode.md)
