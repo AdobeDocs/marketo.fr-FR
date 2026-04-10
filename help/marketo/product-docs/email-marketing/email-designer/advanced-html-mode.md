@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '366'
 ht-degree: 2%
 
 ---
 
-# Modification de modèles d’e-mail à l’aide de l’éditeur HTML avancé {#email-template-expert-mode}
+# Modification de modèles d’e-mail à l’aide de l’éditeur HTML avancé {#advanced-html-mode}
 
 Le mode HTML avancé vous permet d’afficher et de modifier le code source brut des modèles d’e-mail directement depuis l’interface de Designer d’e-mail [!DNL Marketo Engage].
 
@@ -40,13 +40,13 @@ Pour ouvrir l’éditeur HTML avancé et modifier la source du modèle, procéde
 
 1. Ouvrez ou [créez un modèle d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) dans le Designer d’e-mail.
 
-1. Dans l’écran Modifier le modèle d’e-mail , cliquez sur le bouton HTML dans le coin supérieur droit.
+1. Dans l’écran _Modifier le modèle d’e-mail_, cliquez sur le bouton HTML dans le coin supérieur droit.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. Lors de la première ouverture de l’éditeur HTML avancé, un message d’avertissement s’affiche. Cliquez sur **[!UICONTROL OK]** lorsque vous avez terminé.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ Pour ouvrir l’éditeur HTML avancé et modifier la source du modèle, procéde
 
 1. L’éditeur HTML avancé s’affiche.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. Ajoutez les modifications souhaitées au contenu de votre e-mail.
 
@@ -64,7 +64,7 @@ Pour ouvrir l’éditeur HTML avancé et modifier la source du modèle, procéde
 
 1. La simulation et l’enregistrement de contenu ne sont pas disponibles dans la vue HTML avancée pour des raisons de compatibilité. Revenez à la vue Bureau pour prévisualiser votre contenu et enregistrer vos modifications.
 
-   CAPTURE D’ÉCRAN
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
