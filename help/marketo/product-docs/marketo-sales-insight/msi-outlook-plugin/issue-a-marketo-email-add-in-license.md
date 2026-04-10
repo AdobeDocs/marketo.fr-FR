@@ -40,7 +40,7 @@ Toute personne qui souhaite utiliser le complément de [!DNL Outlook] d’e-mail
 
    >[!NOTE]
    >
-   >* Pour installer le plug-in à distance, ne cochez pas la case _Envoyer un e-mail d’enregistrement avec un lien de téléchargement_ et envoyez votre clé d’entreprise [ à votre équipe informatique](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Pour installer le plug-in à distance, ne cochez pas la case _Envoyer un e-mail d’enregistrement avec un lien de téléchargement_ et envoyez votre clé d’entreprise [&#x200B; à votre équipe informatique](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
    >* Si vos représentants commerciaux disposent d&#39;un accès administrateur à leurs ordinateurs, cochez la case _Envoyer un e-mail d&#39;enregistrement avec lien de téléchargement_ et vous avez terminé. Les destinataires ont **30 jours** pour cliquer sur le lien contenu dans l’e-mail avant son expiration.
 
