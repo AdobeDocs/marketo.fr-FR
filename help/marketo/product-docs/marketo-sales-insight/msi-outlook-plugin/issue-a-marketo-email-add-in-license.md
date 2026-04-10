@@ -4,9 +4,9 @@ description: Découvrez comment émettre une licence de complément de messageri
 title: Émettre une licence de module complémentaire d’e-mail Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '330'
 ht-degree: 4%
 
 ---
@@ -34,19 +34,15 @@ Toute personne qui souhaite utiliser le complément de [!DNL Outlook] d’e-mail
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Saisissez les adresses e-mail des représentants commerciaux qui doivent être autorisés à utiliser le plug-in et cliquez sur **[!UICONTROL Délivrer une licence]**.
+1. Saisissez les adresses e-mail des représentants commerciaux qui doivent être autorisés à utiliser le plug-in et cliquez sur **[!UICONTROL Délivrer une licence]**. Pour saisir plusieurs adresses e-mail, séparez-les par une virgule.
 
-   ![](assets/image2016-8-31-9-3a37-3a8.png)>
-
-   >[!TIP]
-   >
-   >Vous pouvez saisir plusieurs adresses e-mail, séparées par une virgule.
+   ![](assets/image2016-8-31-9-3a37-3a8.png)
 
    >[!NOTE]
    >
-   >Pour installer le plug-in à distance, ne cochez pas cette case et envoyez votre clé d’entreprise [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) à votre équipe informatique.
+   >* Pour installer le plug-in à distance, ne cochez pas la case _Envoyer un e-mail d’enregistrement_ et envoyez votre clé d’entreprise [ à votre équipe informatique](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >Si vos représentants commerciaux disposent d&#39;un accès administrateur à leurs ordinateurs, cochez la case et vous avez terminé !
+   >* Si vos représentants commerciaux disposent d&#39;un accès administrateur à leurs ordinateurs, cochez la case _Envoyer un e-mail d&#39;enregistrement_ et vous avez terminé. Les destinataires disposent de **30 jours** pour cliquer sur le lien contenu dans l’e-mail avant son expiration.
 
 >[!MORELIKETHIS]
 >
