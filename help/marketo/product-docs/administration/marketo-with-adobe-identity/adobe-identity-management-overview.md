@@ -16,7 +16,7 @@ Tous les nouveaux abonnements Adobe Marketo Engage (31 juillet 2023 ou version u
 
 Pour les abonnements intégrés à Adobe identity, Adobe Admin Console est utilisé pour la gestion des utilisateurs. Les concepts liés à l’identité, tels que l’authentification SSO, sont également gérés dans Admin Console.
 
-* En savoir plus sur le [](https://helpx.adobe.com/fr/enterprise/using/admin-console.html){target="_blank"}.
+* En savoir plus sur le [&#128279;](https://helpx.adobe.com/fr/enterprise/using/admin-console.html){target="_blank"}.
 * Obtenez des informations supplémentaires sur [la configuration de votre organisation Adobe liée à votre abonnement Marketo](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
