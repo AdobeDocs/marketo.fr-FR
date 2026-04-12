@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**Système** Les administrateurs ne sont créés qu’au niveau de l’organisation Adobe. Si vous pensez en avoir besoin de plusieurs, contactez [l’assistance &#x200B;](https://experienceleague.adobe.com/en/support).
+>**Système** Les administrateurs ne sont créés qu’au niveau de l’organisation Adobe. Si vous pensez en avoir besoin de plusieurs, contactez [l’assistance &#x200B;](https://experienceleague.adobe.com/fr/support).
 
 ## Ajouter un administrateur de produit {#add-a-product-admin}
 
