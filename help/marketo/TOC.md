@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Vue d’ensemble d’Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Configuration de l’administrateur ou de l’administratrice](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Configuration de l’administrateur ou de l’administratrice de produit](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Ajouter un utilisateur ou une utilisatrice d’API uniquement pour les abonnements activés pour Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [Ajouter ou supprimer un administrateur ou une administratrice de produit](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [Ajouter ou supprimer un utilisateur ou une utilisatrice](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [Questions fréquentes](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Connexion d’utilisateur ou d’utilisatrice avec Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + Migration des abonnements et des utilisateurs et utilisatrices {#subscription-and-user-migration}
-            + [Migration vers Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Présentation de l’abonnement à Marketo et de la migration des utilisateurs et utilisatrices vers Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Migration du support Marketo Engage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [Guide de dépannage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Paramètres {#settings}
          + [Informations sur l’API d’exportation en masse](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspecteur de campagne](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 99%
          + [Masquer/afficher un canal de programme](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [Gestion des valeurs de balises](product-docs/administration/tags/managing-tag-values.md)
       + Utilisateurs et utilisatrices et rôles {#users-and-roles}
+         + [Ajouter ou supprimer un administrateur ou une administratrice de produit](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [Ajouter ou supprimer un utilisateur ou une utilisatrice](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [Créer un rôle Utilisateur ou utilisatrice d’API uniquement](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [Créer un utilisateur ou une utilisatrice d’API uniquement](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Créer, supprimer, modifier et remplacer un rôle d’utilisateur ou d’utilisatrice](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Vérification par e-mail](product-docs/administration/users-and-roles/email-verification.md)
          + [Exporter une liste d’utilisateurs et d’utilisatrices et de rôles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)

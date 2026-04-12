@@ -4,10 +4,10 @@ short-description: Vous débutez avec Adobe Marketo Engage ? Découvrez les �
 title: Étapes de configuration
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
 source-wordcount: '1687'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -163,7 +163,7 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 
 >[!NOTE]
 >
->Contactez l’assistance Marketo si vous souhaitez obtenir une liste abrégée d’adresses IP à placer sur la liste autorisée spécifique à votre environnement.
+>Contactez l’assistance Adobe si vous souhaitez obtenir une liste abrégée d’adresses IP à placer sur la liste autorisée spécifique à votre environnement.
 
     * Si notre système anti-spam utilise des domaines De, ajoutez les éléments suivants :
 
@@ -237,7 +237,7 @@ Faites défiler jusqu’à [!UICONTROL Noms des domaines]. Sélectionnez votre d
 
 Dans le champ Domaine, saisissez votre domaine de suivi d’e-mail. Il doit se présenter comme suit :
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**
 
 ![](assets/setup-steps-13.png)
 
