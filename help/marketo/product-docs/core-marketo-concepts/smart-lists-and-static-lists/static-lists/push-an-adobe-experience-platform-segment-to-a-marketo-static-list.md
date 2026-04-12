@@ -21,11 +21,11 @@ Cette fonctionnalité vous permet d’envoyer les segments situés dans votre Ad
 >* Accédez à **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Recherchez le nom du rôle que vous venez de créer et cliquez sur **[!UICONTROL Afficher les détails]**. Copiez et enregistrez les informations dans **[!UICONTROL ID client]** et **[!UICONTROL Secret client]**, car vous pourriez en avoir besoin pour l’étape 7.
 >* Dans Marketo, créez une liste statique, ou recherchez et sélectionnez-en une que vous avez déjà créée. Vous aurez besoin de son identifiant.
 
-1. Connectez-vous à [](https://experience.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://experience.adobe.com/){target="_blank"}.
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
-1. Cliquez sur l’icône de grille et sélectionnez ****.
+1. Cliquez sur l’icône de grille et sélectionnez **&#x200B;**.
 
    ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
@@ -57,7 +57,7 @@ Cette fonctionnalité vous permet d’envoyer les segments situés dans votre Ad
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Saisissez un **[!UICONTROL Nom]** de destination et une description facultative. Cliquez sur le menu déroulant Création de personne et sélectionnez « Faire correspondre les personnes Marketo existantes et Créer les personnes manquantes dans Marketo » _ou_ « Faire correspondre les personnes Marketo existantes uniquement » (dans cet exemple, nous choisissons la première). Vous devez également choisir un ****.
+1. Saisissez un **[!UICONTROL Nom]** de destination et une description facultative. Cliquez sur le menu déroulant Création de personne et sélectionnez « Faire correspondre les personnes Marketo existantes et Créer les personnes manquantes dans Marketo » _ou_ « Faire correspondre les personnes Marketo existantes uniquement » (dans cet exemple, nous choisissons la première). Vous devez également choisir un **&#x200B;**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
