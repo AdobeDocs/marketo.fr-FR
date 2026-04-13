@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Découvrez le sandbox Marketo Engage à des fins de test avant la production. Utilisez une instance sandbox pour effectuer des tests sans affecter la production.
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Un sandbox Marketo ne peut pas être synchronisé avec votre CRM standard s’il
 
 ## Choses à savoir sur les sandbox {#things-to-know-about-sandboxes}
 
-* Si vous souhaitez ajouter des utilisateurs, le processus est identique à [ajout d’utilisateurs en production](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Là encore, ils doivent utiliser une adresse e-mail différente s’ils disposent déjà d’un identifiant Marketo.
+* Si vous souhaitez ajouter des utilisateurs, le processus est identique à [ajout d’utilisateurs en production](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user). Là encore, ils doivent utiliser une adresse e-mail différente s’ils disposent déjà d’un identifiant Marketo.
 * Votre sandbox Marketo sera initialement vide, mais disposera des mêmes fonctionnalités que votre instance de production.
 * Si vous créez un programme dans votre sandbox et souhaitez le déplacer en production, vous pouvez effectuer une [importation de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Les sandbox sont limités afin que les instances de production ne soient pas affectées négativement par les environnements de test. Vous pouvez envoyer jusqu’à 20 e-mails par exécution de campagne.
@@ -33,7 +33,7 @@ Un sandbox Marketo ne peut pas être synchronisé avec votre CRM standard s’il
 
 ## Copie d’instance {#instance-copy}
 
-Vous pouvez envoyer un dossier d’assistance demandant une copie d’instance unique pour remplir votre sandbox. Cependant, la copie d’instance ne transportera pas _tout_. Veuillez consulter le support technique de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour plus d&#39;informations.
+Vous pouvez envoyer un dossier d’assistance demandant une copie d’instance unique pour remplir votre sandbox. Cependant, la copie d’instance ne transportera pas _tout_. Veuillez consulter le support technique de [](https://nation.marketo.com/t5/Support/ct-p/Support) pour plus d&#39;informations.
 
 >[!NOTE]
 >

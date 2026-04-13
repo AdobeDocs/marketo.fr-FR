@@ -4,7 +4,7 @@ description: Découvrez comment vous connecter et gérer les utilisateurs dans M
 title: Gestion des connexions et des utilisateurs et utilisatrices
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 2%
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/three-1.png)
 
-1. Saisissez un [!UICONTROL Nom du rôle] et sélectionnez [!UICONTROL Autorisations]. Cliquez sur **[!UICONTROL Créer]** (ce rôle doit [s’appliquer à tous les espaces de travail](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
+1. Saisissez un [!UICONTROL Nom du rôle] et sélectionnez [!UICONTROL Autorisations]. Cliquez sur **[!UICONTROL Créer]** (ce rôle doit [s’appliquer à tous les espaces de travail](/help/marketo/product-docs/administration/users-and-roles/edit-user-workspaces.md)).
 
    ![](assets/four.png)
 

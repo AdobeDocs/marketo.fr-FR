@@ -4,9 +4,9 @@ description: Découvrez comment définir, créer et modifier des rôles d’util
 title: Gestion des rôles et autorisations des utilisateurs et des utilisatrices
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '491'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ Vous ne pouvez pas supprimer les rôles d’administrateur ou d’administrateur
 
 ## Affecter des rôles à un utilisateur {#assign-roles-to-a-user}
 
-Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vous [créez des utilisateurs et utilisatrices pour la première fois](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou en [&#x200B; un utilisateur ou une utilisatrice existant(e)](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vous [créez des utilisateurs et utilisatrices pour la première fois](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
