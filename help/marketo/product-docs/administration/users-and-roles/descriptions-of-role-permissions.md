@@ -4,10 +4,10 @@ description: Liste de référence de toutes les autorisations de rôle dans Mark
 title: Descriptions des autorisations de rôles
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
-source-wordcount: '1468'
-ht-degree: 16%
+source-wordcount: '1320'
+ht-degree: 18%
 
 ---
 
@@ -32,10 +32,10 @@ Lorsque vous [créez ou modifiez un rôle](/help/marketo/product-docs/administra
 Affichez et modifiez les paramètres dans la section Mon compte de l’administrateur.
 
 * Accéder à Adobe Connect : permet aux utilisateurs d’accéder à l’écran Adobe Connect.
-* Accéder à Adobe Experience Manager &#42; : permet aux utilisateurs d’accéder à l’écran Adobe Experience Manager.
-* Accéder au mappage d’organisation Adobe &#42; permet aux utilisateurs d’accéder à l’écran Mappage d’organisation Adobe.
-* Accéder au journal d&#39;audit d&#39;administrateur &#42; - Donne aux utilisateurs l&#39;accès à l&#39;écran Journal d&#39;audit d&#39;administrateur
-* Accéder au journal d’audit &#42; - Donne aux utilisateurs l’accès au journal d’audit
+* Accéder à Adobe Experience Manager : permet aux utilisateurs d’accéder à l’écran Adobe Experience Manager.
+* Accéder au mappage d’organisation Adobe - Permet aux utilisateurs d’accéder à l’écran Mappage d’organisation Adobe.
+* Accéder au journal d’audit d’administration - Permet aux utilisateurs d’accéder à l’écran Journal d’audit d’administration
+* Accéder au journal d&#39;audit - Donne aux utilisateurs un accès à Access Audit Trail
 * Accéder au journal d’audit : permet aux utilisateurs d’accéder au journal d’audit des ressources et au journal d’audit administrateur
 * Accéder à CAPTCHA - Accès à l’écran CAPTCHA
 * Canaux d’accès : permet aux utilisateurs de modifier uniquement la balise du canal, et non d’autres balises personnalisées
@@ -51,11 +51,11 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 * Emplacement d’accès : permet aux utilisateurs d’accéder à l’emplacement dans l’administrateur pour définir la langue, les paramètres régionaux, le fuseau horaire et la devise par défaut
 * Accéder à l’historique de connexion : permet aux utilisateurs d’accéder à l’historique de connexion dans le journal d’audit
 * Accéder aux paramètres de connexion : permet aux utilisateurs d’accéder aux paramètres de connexion dans Admin pour la sécurité, les restrictions d’adresse IP et les paramètres de rapport de liste dynamique.
-* Accéder à la nouvelle expérience &#42; permet aux utilisateurs d’accéder à l’écran Nouvelle expérience.
+* Accéder à la nouvelle expérience : donne aux utilisateurs accès à l’écran Nouvelle expérience.
 * Accéder à l’activité personnalisée Marketo - Permet aux utilisateurs d’accéder aux activités personnalisées Marketo dans Admin
 * Accéder à l’objet personnalisé Marketo - Permet aux utilisateurs d’accéder aux objets personnalisés Marketo dans Admin
 * [!DNL Munchkin] d’accès : permet aux utilisateurs d’accéder aux [!DNL Munchkin] dans Admin pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API
-* Accéder aux audiences prédictives &#42; permet aux utilisateurs d’accéder à l’écran Audiences prédictives
+* Accéder aux audiences prédictives : permet aux utilisateurs d’accéder à l’écran Audiences prédictives
 * Accéder à Revenue Cycle Analytics : permet aux utilisateurs d’accéder à Revenue Cycle Analytics dans Admin pour définir le résumé de la synchronisation et l’attribution.
 * Accéder aux rôles : permet aux utilisateurs et utilisatrices d’accéder à la gestion et à la modification des rôles, mais pas aux utilisateurs et utilisatrices
 * Accéder à Sales Insight : permet aux utilisateurs de gérer Sales Insight dans Admin, pour définir le statut, la configuration de l’API, la notation de la personne, etc.
@@ -67,8 +67,6 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 * Accéder aux utilisateurs - Permet aux utilisateurs d’accéder à la modification et à la gestion des utilisateurs (mais pas des rôles) dans Admin
 * Accéder aux Webhooks : permet aux utilisateurs d’accéder aux Webhooks dans l’administration pour définir les détails et les mappages de réponse
 * Accéder aux espaces de travail et aux partitions : permet aux utilisateurs de créer, modifier et supprimer des espaces de travail et des partitions dans Admin
-
-_&#42;Afin d’éviter toute perturbation des utilisateurs et utilisatrices existants, cette autorisation est introduite en mode passif et est visible, mais non accessible pour le moment. Nous vous indiquerons comment le mettre en œuvre lorsqu’il sera actif à la mi-2024._
 
 ## Accéder à l’API  {#access-api}
 
@@ -102,11 +100,9 @@ Permet aux utilisateurs disposant de l’**API uniquement** **rôle** d’accéd
 Donne aux utilisateurs l’accès aux onglets Analytics, aux Insights d’e-mail, aux rapports et aux trois éléments ci-dessous, sauf s’ils sont décochés.
 
 * Accéder à l’Explorateur de revenus - La désélection supprime l’accès de l’utilisateur à l’Explorateur de revenus
-* Créer un rapport &#42; - Permet aux utilisateurs d’accéder à la création, au clonage, à la lecture, à la mise à jour et au déplacement de ressources de rapport dans les activités Analytics et marketing, ainsi qu’aux ressources Modeler du cycle de revenus
+* Créer un rapport : permet aux utilisateurs et utilisatrices d’accéder à la création, au clonage, à la lecture, à la mise à jour et au déplacement de ressources de rapport dans les activités Analytics et marketing, ainsi qu’aux ressources Modeler du cycle de revenus.
 * Supprimer le rapport : la désélection supprime la possibilité de supprimer des rapports pour l’utilisateur ou l’utilisatrice
 * Exportation de données Analytics : la désélection supprime la possibilité pour l’utilisateur d’exporter des données Analytics
-
-_&#42;Afin d’éviter toute perturbation des utilisateurs et utilisatrices existants, cette autorisation est introduite en mode passif et est visible, mais non accessible pour le moment. Nous vous indiquerons comment le mettre en œuvre lorsqu’il sera actif à la mi-2024._
 
 ## Accéder aux présentations du calendrier {#access-calendar-presentations}
 
@@ -178,7 +174,7 @@ Affichez la base de données et affichez et modifiez les listes dynamiques/stati
    * Modifier la segmentation
 
 * Supprimer une personne
-* Créer une liste&#42;
+* Créer une liste
    * Accès à la création d’une ressource de liste dans les activités de base de données et marketing
    * Accès à la création d’une ressource de liste dynamique dans les activités de base de données et marketing
 * Supprimer une liste
@@ -190,8 +186,6 @@ Affichez la base de données et affichez et modifiez les listes dynamiques/stati
 * Exécuter des actions de flux uniques - Permet aux utilisateurs d’exécuter l’étape de flux **Modifier la valeur des données** sur les personnes de la base de données.
 
 * Afficher les données d’opportunité - Masque les informations d’opportunité sur la page des détails de la personne
-
-_&#42;Afin d’éviter toute perturbation des utilisateurs et utilisatrices existants, cette autorisation est introduite en mode passif et est visible, mais non accessible pour le moment. Nous vous indiquerons comment le mettre en œuvre lorsqu’il sera actif à la mi-2024._
 
 ## Accès aux activités marketing {#access-marketing-activities}
 
@@ -225,8 +219,6 @@ Accéder à la SEO
 
 * Gérer une SEO
 * Standard SEO
-
-_&#42;Afin d’éviter toute perturbation des utilisateurs et utilisatrices existants, cette autorisation est introduite en mode passif et est visible, mais non accessible pour le moment. Nous vous indiquerons comment le mettre en œuvre lorsqu’il sera actif à la mi-2024._
 
 ## Ciblage et personnalisation {#targeting-and-personalization}
 
