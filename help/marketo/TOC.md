@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -169,7 +169,6 @@ ht-degree: 99%
          + [Inspecteur de campagne](product-docs/administration/settings/campaign-inspector.md)
          + [Modifier les paramètres d’attribution dans Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Création d’un onglet personnalisé pour la page Détails de la personne](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Modifier les paramètres du compte](product-docs/administration/settings/edit-account-settings.md)
          + [Modifier les paramètres de prise en charge du navigateur « Ne pas suivre »](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Modifier les paramètres de la page de destination](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Modifier l’expiration du lien dans les rapports et alertes](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
