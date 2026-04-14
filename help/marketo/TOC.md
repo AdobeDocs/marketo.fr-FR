@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '9129'
 ht-degree: 99%
@@ -988,6 +988,12 @@ ht-degree: 99%
             + [Prioriser le contenu en flux](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Supprimer le contenu en flux](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + Concepteur d’e-mail {#email-designer}
+         + Marques {#brands}
+            + [Thèmes de marque](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Appliquer la marque](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Créer et gérer vos marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personnaliser vos marques](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Alignement sur la marque](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [Vue d’ensemble](product-docs/email-marketing/email-designer/overview.md)
          + [Comparaison des fonctionnalités](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Création d’e-mails](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1010,12 +1016,6 @@ ht-degree: 99%
          + [Collaboration d’e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Assistant AI pour Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Rapport sur les spams par e-mail avec SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-         + Marques {#brands}
-            + [Thèmes de marque](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [Appliquer la marque](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [Créer et gérer vos marques](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Personnaliser vos marques](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [Alignement sur la marque](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + Programmes d’e-mail {#email-programs}
          + Création d’un programme d’e-mail {#creating-an-email-program}
             + [Créer un programme d’e-mail](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

@@ -4,10 +4,10 @@ description: Découvrez la syntaxe du modèle d’e-mail dans l’éditeur d’e
 title: Syntaxe de modèle d’e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,7 @@ La syntaxe d’e-mail Marketo ne fonctionne que dans les modèles et les e-mails
 
 Les éléments sont des régions de contenu que vous définissez comme modifiables dans votre modèle d’e-mail. L’expérience de modification d’un élément est propre à son type et offre un moyen simple d’utiliser le contenu. Les éléments possibles qui peuvent être inclus dans un modèle d’e-mail sont les suivants :
 
-* Texte enrichi
+* Texte complet
 * Images
 * Extraits
 * Vidéos
@@ -106,7 +106,7 @@ Valeur par défaut (facultatif)
 
 Exemple :
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Option 2 : utiliser \&lt;img\> {#option-use-an-img}
 
@@ -128,7 +128,7 @@ Exemple :
 
 ## Extraits {#snippets}
 
-Si vous définissez une région en tant que fragment de code, les utilisateurs et utilisatrices finaux pourront choisir le [fragment de code](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) approuvé qu’ils souhaitent insérer dans cette région. Bien que les éléments de texte enrichi puissent être convertis en fragments de code dans l’éditeur d’e-mail, lorsque vous définissez une région spécifiquement comme fragment de code, elle ne peut pas être convertie en texte enrichi. Vous pouvez spécifier une région de fragment de code à l’aide d’un `<div>` avec class=&quot;mktoSnippet&quot;.
+Si vous définissez une région en tant que fragment de code, les utilisateurs finaux pourront choisir le fragment de code approuvé [Fragment de code](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) qu&#39;ils souhaitent insérer dans cette région. Bien que les éléments de texte enrichi puissent être convertis en fragments de code dans l’éditeur d’e-mail, lorsque vous définissez une région spécifiquement comme fragment de code, elle ne peut pas être convertie en texte enrichi. Vous pouvez spécifier une région de fragment de code à l’aide d’un `<div>` avec class=&quot;mktoSnippet&quot;.
 
 Attributs requis
 
@@ -366,7 +366,7 @@ Un conteneur contient des modules et définit leur emplacement. Lorsque les util
 
 Attributs requis
 
-**id** : manière dont vous référencez le module dans votre modèle d’e-mail.
+**ID** : manière dont vous référencez le module dans votre modèle d’e-mail.
 
 >[!CAUTION]
 >
