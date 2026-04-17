@@ -3,9 +3,9 @@ description: Découvrez comment activer les autorisations de l’IA dédiée à 
 title: Paramètres et configuration
 hide: true
 hidefromtoc: true
-source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
+source-git-commit: 2e7e068ac53c9f26075d700822fc1f89274dddbe
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '471'
 ht-degree: 4%
 
 ---
@@ -22,38 +22,14 @@ Il existe une autorisation _Accéder à la version avec IA_ et un rôle _Créer 
 >
 >L’autorisation _Accéder à la version avec IA_ n’est pas activée par défaut pour tous les rôles. Voir le tableau ci-dessous pour plus de détails.
 
-<table><thead>
-  <tr>
-    <th>Rôle</th>
-    <th>Statut par défaut</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Administration</td>
-    <td>Activé</td>
-  </tr>
-  <tr>
-    <td>Administrateur de produits Adobe</td>
-    <td>Activé</td>
-  </tr>
-  <tr>
-    <td>Utilisateur marketing</td>
-    <td>Désactivé</td>
-  </tr>
-  <tr>
-    <td>Utilisateur standard</td>
-    <td>Non disponible</td>
-  </tr>
-  <tr>
-    <td>Créer avec un utilisateur d’IA</td>
-    <td>Activé</td>
-  </tr>
-  <tr>
-    <td>Rôles personnalisés</td>
-    <td>Désactivé</td>
-  </tr>
-</tbody>
-</table>
+| Rôle | Statut par défaut |
+| --- | --- |
+| Administration | Activé |
+| Administrateur de produits Adobe | Activé |
+| Utilisateur marketing | Désactivé |
+| Utilisateur standard | Non disponible |
+| Créer avec un utilisateur d’IA | Activé |
+| Rôles personnalisés | Désactivé |
 
 ### Accéder à la version avec l’autorisation IA {#access-build-with-ai-permission}
 
@@ -81,7 +57,7 @@ Pour affecter un utilisateur spécifique au rôle _Créer avec un utilisateur AI
 
 >[!NOTE]
 >
->Ce rôle **uniquement** contient des autorisations _créer l’accès avec l’IA_. Si vous souhaitez que l’utilisateur ait accès à davantage que l’IA dédiée à Marketo, veillez à ajouter des autorisations supplémentaires.
+>Ce rôle **uniquement** contient des autorisations _créer l’accès avec l’IA_.
 
 1. Dans Mon Marketo, cliquez sur **Admin**, puis **Utilisateurs et rôles**.
 
@@ -97,7 +73,7 @@ Pour affecter un utilisateur spécifique au rôle _Créer avec un utilisateur AI
 
 ### Rôle personnalisé {#custom-role}
 
-Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à la version avec IA_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs spécifiques.
+Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à la version avec IA_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs spécifiques.
 
 ## Paramètres {#settings}
 
