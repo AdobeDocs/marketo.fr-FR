@@ -17,7 +17,7 @@ Vue d’ensemble de l’éditeur d’e-mail classique.
 
 >[!IMPORTANT]
 >
->Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail[ avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}
+>Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail[&#x200B; avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}
 
 **Sélectionneur de modèle d’e-mail**
 
