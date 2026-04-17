@@ -4,10 +4,10 @@ description: Découvrez Email Editor v2.0 et ses fonctionnalités. Créez et mod
 title: Vue d’ensemble de l’éditeur d’e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 96%
+source-wordcount: '457'
+ht-degree: 85%
 
 ---
 
@@ -17,7 +17,7 @@ Vue d’ensemble de l’éditeur d’e-mail classique.
 
 >[!IMPORTANT]
 >
->Bien qu’aucune date exacte ne soit définie, l’éditeur d’e-mail classique sera probablement abandonné en 2027 (nous annoncerons une date exacte lorsque nous en saurons plus). Il est vivement recommandé de commencer à adopter le [Concepteur d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.
+>Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail[ avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}
 
 **Sélectionneur de modèle d’e-mail**
 
@@ -102,12 +102,6 @@ Vous avez la possibilité d’ajouter un [!UICONTROL pré-en-tête]. Un [!UICONT
 >[!CAUTION]
 >
 >Les jetons ne fonctionnent pas dans le [!UICONTROL pré-en-tête] lors de l’utilisation de l’éditeur d’e-mail. Pour utiliser un jeton dans le [!UICONTROL pré-en-tête],il faut passer par votre propre HTML dans un modèle d’e-mail.
-
-Beaucoup de nouvelles fonctionnalités géniales. Amusez-vous bien.
-
->[!NOTE]
->
->Si vous souhaitez approfondir davantage la question, consultez cette [vidéo](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
