@@ -1,9 +1,10 @@
 ---
 description: Bientôt disponible.
 title: Examiner le prospect
+beta: true
 hide: true
 hidefromtoc: true
-source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 1%
@@ -24,7 +25,7 @@ CAPTURE D’ÉCRAN
 | **Qualification du programme** | Fournit des détails sur les raisons pour lesquelles un prospect ne s’est pas qualifié pour un programme d’éducation. |
 | **Progression du cycle de vie** | À utiliser pour comprendre pourquoi un prospect est bloqué dans une étape plus longtemps que prévu. |
 | **Analyse de l’engagement** | À utiliser lorsqu’un prospect a cessé d’ouvrir ou de cliquer sur des e-mails. |
-| Parcours de campagne **&#x200B;**&#x200B;| À utiliser pour afficher le chemin complet et les points de contact d’un prospect dans le Parcours. |
+| **Parcours de campagne** | À utiliser pour afficher le chemin complet et les points de contact d’un prospect dans le Parcours. |
 | **Qualité des données** | À utiliser lorsqu’il est possible que des données erronées entraînent un problème avec le prospect. |
 | **Remise des ventes** | A utiliser lorsque le service des ventes a rejeté un prospect et n&#39;a pas effectué de suivi. |
 | **Attribution** | À utiliser pour explorer ce qui a influencé un prospect et a conduit à la génération d’une opportunité. |

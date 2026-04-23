@@ -1,12 +1,13 @@
 ---
 description: Découvrez comment activer les autorisations de l’IA dédiée à Marketo, configurer les règles d’organisation et gérer les paramètres tels que les intégrations et les notifications.
 title: Paramètres et configuration
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '513'
 ht-degree: 4%
 
 ---
@@ -14,6 +15,10 @@ ht-degree: 4%
 # Paramètres et configuration {#settings-setup}
 
 Découvrez comment activer des autorisations et utiliser la zone Paramètres pour afficher les détails de connexion, définir des règles d’organisation et configurer des intégrations et des notifications.
+
+>[!NOTE]
+>
+>Cette fonctionnalité est en version Beta ouverte et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque vous verrez une vignette _Créer avec l’IA_ sur votre écran Mon Marketo.
 
 ## Autorisations et rôles {#permission-and-role}
 
@@ -74,7 +79,7 @@ Pour affecter un utilisateur spécifique au rôle _Créer avec un utilisateur AI
 
 ### Rôle personnalisé {#custom-role}
 
-Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à la version avec IA_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs spécifiques.
+Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à la version avec IA_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs spécifiques.
 
 ## Paramètres {#settings}
 

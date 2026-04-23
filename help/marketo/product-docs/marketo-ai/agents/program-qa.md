@@ -1,19 +1,24 @@
 ---
 description: Découvrez comment auditer vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les pages de destination, les campagnes, etc.
 title: AQ du programme
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 2%
+source-wordcount: '162'
+ht-degree: 1%
 
 ---
 
 # AQ du programme {#program-qa}
 
 Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les landing pages, les campagnes, etc.
+
+>[!NOTE]
+>
+>Cette fonctionnalité est en version Beta ouverte et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque vous verrez une vignette _Créer avec l’IA_ sur votre écran Mon Marketo.
 
 ## Utilisation {#how-to-use}
 
@@ -39,6 +44,32 @@ Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les compo
 
    ![](assets/program-qa-5.png)
 
-L’assistant d’IA fournit un contrôle qualité du programme sélectionné vous montrant ce qui a réussi et ce qui a échoué.
+   L’assistant d’IA fournit un contrôle qualité du programme sélectionné vous montrant ce qui a réussi et ce qui a échoué.
 
-![](assets/program-qa-6.png)
+   ![](assets/program-qa-6.png)
+
+<!--
+   You have three validation paths to choose from:
+
+   | Path | What You Provide | Verification Type | Best For |
+   | --- | --- | --- | --- |
+   | Rules Only | Nothing | Compliance checks | Org compliance & audits |
+   | + Test Plan | Your team's test document | Rules + Custom checks | Team or channel-specific checks |
+   | + Campaign Brief | Campaign brief document | Exact field matching | Pre-launch readiness |
+
+1. To Upload a Test Plan, a Campaign Brief, or both, click the upload icon, add your files and click **Send**. To proceed with rules only, enter "Proceed with Rules Only" in the prompt window and click **Send**. In this example, we are proceeding with rules only.
+
+PICC
+
+1. To start validation, click **Run QA Validation**.
+
+PICC
+
+1. The report generates. To see the full report, click View Full Report.
+
+PICC
+
+1. The report appears in the center console. Scroll down to view. You can also download the report via .docx file.
+
+PICC
+-->
