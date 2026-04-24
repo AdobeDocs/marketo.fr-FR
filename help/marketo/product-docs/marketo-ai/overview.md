@@ -1,12 +1,12 @@
 ---
 description: Explorez la suite d’agents Marketo Engage AI conçue pour automatiser les tâches marketing telles que l’assurance qualité des programmes, l’importation de prospects, la normalisation des données, etc.
 title: Présentation de Marketo Engage AI
-beta: true
+badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 3%
 
 ---
 
