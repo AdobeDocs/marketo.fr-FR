@@ -4,9 +4,9 @@ description: Découvrez les adresses IP partagées et dédiées, ainsi que leurs
 title: Adresses IP partagées et dédiées
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '447'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ _Avantages_
 _Inconvénients_
 
 **Modifications de volume** - Les pics de volume peuvent avoir une incidence négative sur votre réputation et doivent être gérés.
-**Processus de préchauffage d’IP** - La réputation s’établit au fil du temps. Certains fournisseurs d’accès à Internet (FAI) limitent les adresses IP sans historique de volume, vous devrez donc établir une réputation au cours des premières semaines (Marketo peut vous guider).
+**Processus de préchauffage d’une adresse IP** - La réputation s’établit au fil du temps. Certains fournisseurs d’accès à Internet (FAI) limitent les adresses IP sans historique de volume, vous devrez donc établir une réputation au cours des premières semaines (Marketo peut vous guider).
 **Coût** - L’envoi de messages depuis une adresse IP dédiée auprès d’un fournisseur entraîne généralement des frais supplémentaires.
 
 **Avantages et inconvénients d’une adresse IP partagée**
@@ -55,10 +55,10 @@ _Inconvénients_
 
 **Mauvais colocataires** - Si les personnes avec lesquelles vous partagez votre adresse IP adoptent de mauvaises pratiques d’envoi, vos campagnes par e-mail pourraient être affectées.
 **Contrôle** - Vous avez beaucoup moins de contrôle sur la réputation de votre expéditeur.
-**Résolution des problèmes** - Il peut souvent être plus difficile de résoudre un problème lors de l’envoi de messages à partir d’adresses IP partagées.
+**Issue Resolution** - It can often be more difficult to resolve an issue when sending from Shared IPs.
 
 >[!NOTE]
 >
->Lors de la prise de décision, il y a un autre facteur important à prendre en compte : le volume d’envoi. Si vous prévoyez d’envoyer moins de 100 000 e-mails par mois, ou moins de deux mailings par mois, vous ne bénéficierez probablement pas d’une adresse IP dédiée. Des numéros d’envoi comme celui-ci sont considérés comme faibles et il serait difficile de garder votre adresse IP dédiée suffisamment « chaude » pour être considérée comme sûre par les principaux FAI. En gros, si vous ne publiez pas assez souvent, les FAI verront un publipostage comme une « augmentation » soudaine de l&#39;activité, et pourraient finir par le bloquer comme spam présumé.
+>When making a decision, there&#39;s another important factor to consider: sending volume. If you plan to send less than 100,000 emails a month, or less than two mailings in a month, you probably wouldn&#39;t benefit from a Dedicated IP. Sending numbers like that are considered low, and it would be difficult to keep your Dedicated IP &quot;warm&quot; enough to be considered safe by the main ISPs. Basically, if you don&#39;t mail frequently enough, the ISPs will see a mailing as a sudden &quot;surge&quot; of activity, and may end up blocking it as suspected spam.
 
-Si vous avez des questions ou si vous souhaitez configurer une adresse IP dédiée, contactez votre représentant commercial Marketo.
+If you have any questions, or are interested in setting up a Dedicated IP, please contact your Marketo sales rep.

@@ -1,42 +1,34 @@
 ---
 unique-page-id: 1146974
-description: Découvrez comment modifier les règles de qualification dans une campagne dynamique. Modifier le nombre de fois où les personnes peuvent exécuter la campagne.
+description: Learn how to edit qualification rules in a Smart Campaign. Change how many times people can run through the campaign.
 title: Modifier les règles de qualification dans une campagne intelligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '202'
 ht-degree: 6%
 
 ---
 
 # Modifier les règles de qualification dans une campagne intelligente {#edit-qualification-rules-in-a-smart-campaign}
 
-Les règles de qualification contrôlent le nombre de fois où une personne peut parcourir le flux dans une campagne dynamique. Par défaut, même si une personne déclenche plusieurs fois une campagne intelligente, elle n’est envoyée qu’une seule fois par le flux. Voici comment modifier ces paramètres.
+Qualification rules control how many times someone can run through the flow in a Smart Campaign. By default, even if someone triggers a Smart Campaign multiple times, they will only be sent through the flow once. Here&#39;s how to modify these settings.
 
-1. Dans votre campagne dynamique, cliquez sur l’onglet **[!UICONTROL Planning]** puis **[!UICONTROL Modifier les paramètres]**.
+1. In your Smart Campaign, click the **[!UICONTROL Schedule]** tab and then **[!UICONTROL Edit Settings]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >Vous pouvez également cliquer sur **[!UICONTROL Modifier]** à droite de « Paramètres de campagne intelligente ».
+   >You can also click **[!UICONTROL Edit]** to the right of &quot;Smart Campaign Settings.&quot;
 
-1. Choisissez la fréquence à laquelle exécuter vos salariés via le flux de campagne intelligente : **[!UICONTROL une seule fois]**, **[!UICONTROL à chaque fois]** ou **une fois tous les # jours**/**semaines**/**mois**.
+1. Choose how often to run your people through the Smart Campaign flow: **[!UICONTROL only once]**, **[!UICONTROL every time]**, or **once every # days**/**weeks**/**months**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
-   >Lorsque vous définissez une règle pour une fois par jour, Marketo la convertit en heures. Par exemple, si vous définissez la règle pour une fois par jour et qu’une personne est éligible à 22 h un dimanche soir, elle ne peut pas être à nouveau éligible avant 22 h le lundi soir. Cette logique s’applique également lorsque vous utilisez des semaines ou des mois. Un mois compte toujours comme 30 jours.
-
-   >[!NOTE]
+   >* When you set a rule for once every day, Marketo converts that to hours. For example, if you set the rule for once per day, and a person qualifies at 10pm on a Sunday night, it can&#39;t qualify again until 10pm Monday night. This logic also applies when using weeks or months. A month is always counted as 30 days.
    >
-   >Par défaut, les limites de communication ne sont pas appliquées aux campagnes intelligentes . Découvrez comment [appliquer des limites de communication à une campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
-
-   >[!NOTE]
-   >
-   >[Appliquer des limites de communication aux campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
-
-Mission accomplie ! Vous savez désormais comment contrôler les règles de qualification dans une campagne dynamique.
+   >* Communication limits are not applied to Smart Campaigns by default. Learn how to [apply communication limits to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
