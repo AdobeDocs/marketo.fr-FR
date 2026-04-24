@@ -1,25 +1,25 @@
 ---
 unique-page-id: 11377395
-description: Ajoutez des domaines de marque supplémentaires pour plusieurs marques dans une seule instance afin que chaque marque dispose de ses propres liens de suivi de marque.
+description: Add extra branding domains for multiple brands in one instance so each has its own branded tracking links.
 title: Ajouter un domaine de branding supplémentaire
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 3%
+source-wordcount: '723'
+ht-degree: 21%
 
 ---
 
 # Ajouter un domaine de branding supplémentaire {#add-an-additional-branding-domain}
 
-Ajoutez un domaine de branding supplémentaire lorsque vous exécutez plusieurs marques à partir d’une seule instance Marketo et souhaitez que chacune d’elles ait ses propres liens de suivi de branding.
+Add an additional branding domain when you&#39;re running multiple brands out of a single Marketo instance and want them each to have their own branded tracking links.
 
 >[!PREREQUISITES]
 >
->Vous devez [remplacer le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} par un domaine de marque avant d’ajouter d’autres domaines de marque.
+>You must [replace the generic tracking link](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} with a branded domain before adding additional branded domains.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
@@ -27,33 +27,33 @@ Ajoutez un domaine de branding supplémentaire lorsque vous exécutez plusieurs 
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
-1. Cliquez sur **[!UICONTROL Ajouter]** pour ajouter un domaine de marque supplémentaire.
+1. Click **[!UICONTROL Add]** to add an additional branding domain.
 
    ![](assets/add-an-additional-branding-domain-3.png){width="600"}
 
-1. Saisissez le nom de votre nouveau domaine de marque, sélectionnez _Créer un domaine de Principal_ et/ou _Générer un certificat SSL_ (tous deux facultatifs), puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Enter the name of your new branding domain, select _Make Primary Domain_ and/or _Generate SSL Certificate_ (both optional), and click **[!UICONTROL Save]**.
 
    ![](assets/add-an-additional-branding-domain-4.png)
 
 >[!NOTE]
 >
->* _Définir comme domaine de Principal_ : définissez ce domaine comme votre domaine principal et tous les e-mails non envoyés existants définis sur « Par défaut » ainsi que tous les nouveaux e-mails seront définis par défaut sur le domaine principal. Vous pouvez [remplacer ce paramètre par e-mail](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}.
+>* _Make Primary Domain_: Make this your primary domain, and all existing unsent emails set to &quot;Default&quot; and all newly created emails will default to the primary domain. You can [overwrite this on a per-email basis](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}.
 >
->* _Générer un certificat SSL_ : vous pouvez créer un protocole SSL (Secure Sockets Layer) avec la création du domaine. Le premier domaine de suivi lance une configuration unique de l’infrastructure qui peut prendre quelques heures. Vous recevrez une notification à la fin de l’opération, puis vous pourrez configurer le premier domaine. Pour ajouter SSL à vos domaines existants, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>* _Generate SSL Certificate_: You can create a Secure Sockets Layer (SSL) with the creation of the domain. The first tracking domain will initiate a one-time set up of infrastructure that may take a few hours. You will be notified upon completion, and you can then set up the first domain. To add SSL to your existing domains, please reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-## Modifier les SSL pour les domaines existants
+## Edit SSLs for existing domains
 
 Pour activer SSL pour vos domaines existants, procédez comme suit.
 
 1. Dans la zone _[!UICONTROL Admin]_, sélectionnez **[!UICONTROL Email]**.
 
-1. Dans l’onglet _[!UICONTROL Domaine]_, sélectionnez la ligne de domaine et cliquez sur **[!UICONTROL Ajouter SSL]**.
+1. On the _[!UICONTROL Domain]_ tab, select the domain row and click **[!UICONTROL Add SSL]**.
 
    ![Admin - Email - Domain - Add SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
 1. Dans la boîte de dialogue, cliquez sur **[!UICONTROL Confirmer]**.
 
-   ![Ajouter SSL - Confirmer](./assets/generate-ssl-cert-confirm.png){width="400"}
+   ![Add SSL - Confirm](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 ## Message d&#39;erreur {#error-messages}
 
@@ -64,16 +64,16 @@ Pour activer SSL pour vos domaines existants, procédez comme suit.
   </tr></thead>
 <tbody>
 <tr>
-    <td><i>Le domaine existe déjà.</i></td>
+    <td><i>Domain already exists.</i></td>
     <td>Un domaine du même nom existe déjà.</td>
   </tr>
   <tr>
-    <td><i>Le domaine n’est pas mappé au domaine par défaut.</i></td>
-    <td>Le domaine personnalisé n’est pas correctement mappé au domaine par défaut. Vérifiez les paramètres de mappage de domaine et assurez-vous que la configuration DNS pointe vers le domaine par défaut correct.</td>
+    <td><i>Domain is not mapped to the default domain.</i></td>
+    <td>Le domaine personnalisé n’est pas correctement mappé au domaine par défaut. Please verify the domain mapping settings and ensure the DNS configuration points to the correct default domain.</td>
   </tr>
   <tr>
-    <td><i>Impossible d’émettre les certificats SSL en raison d’enregistrements CAA non pris en charge. Demandez à votre service informatique de mettre à jour vos enregistrements CAA.</i></td>
-    <td>Les enregistrements CAA ne sont pas à jour. Pour les utilisateurs et utilisatrices qui utilisent des certificats SSL gérés par Marketo Engage, les enregistrements CAA doivent être mis à jour vers les certificats recommandés par notre fournisseur. Contactez votre service informatique pour mettre à jour les enregistrements CAA. Voir <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">cette page</a> pour plus d’informations.</td>
+    <td><i>SSL certificates could not be issued due to unsupported CAA records. Request your IT to update your CAA records.</i></td>
+    <td>Les enregistrements CAA ne sont pas à jour. For those using Marketo Engage managed SSL certificates, CAA records need to be updated to certificates recommended by our vendor. Please contact your IT department to update the CAA records. See <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">this page</a> for additional details.</td>
   </tr>
   <tr>
     <td><i>Le certificat SSL a déjà été émis.</i></td>
@@ -91,13 +91,15 @@ Pour activer SSL pour vos domaines existants, procédez comme suit.
 
 ## Éléments à noter {#things-to-note}
 
-* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personnalisés** : si vous avez besoin d’un SSL personnalisé, envoyez un ticket [Support technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. N’utilisez pas la case à cocher en libre-service pour la création SSL.
 
 * **SSL préexistants** : lors de l’ajout d’un domaine, le système recherche les SSL préexistants, qui peuvent avoir été créés manuellement au préalable. Si vous rencontrez cette validation, créez votre domaine sans sélectionner la création SSL, et nous les connecterons pour vous. [Contactez l’assistance](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} plus d’informations/d’options.
 
-* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs utilisateur qui entraînent la suppression des certificats SSL d’un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs utilisateur qui entraînent la suppression des certificats SSL d’un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+* Si le domaine que vous ajoutez est répertorié comme autre chose qu’un CNAME, la possibilité d’ajouter d’autres domaines de suivi de marque est verrouillée. Vous devrez modifier tout domaine existant et vous assurer qu’il s’agit d’un enregistrement CNAME et non d’un enregistrement A, par exemple. Le bouton Ajouter recherche uniquement les CNAME et les CNAME de manière dynamique.
 
 >[!MORELIKETHIS]
 >
