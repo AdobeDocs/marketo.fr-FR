@@ -4,16 +4,16 @@ description: Créez un service LaunchPoint personnalisé lié à un utilisateur 
 title: Créer un service personnalisé à utiliser avec l’API REST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 12%
+source-wordcount: '175'
+ht-degree: 15%
 
 ---
 
 # Créer un service personnalisé à utiliser avec l’API REST {#create-a-custom-service-for-use-with-rest-api}
 
-Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un service personnalisé. Voici comment faire.
+Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un service personnalisé.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un se
 
 >[!TIP]
 >
->Consultez notre documentation destinée aux développeurs pour plus d’informations sur l’[API REST](https://developer.adobe.com/marketo-apis/). Nous disposons également de l’API [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/soap/soap-api) si c’est ce dont vous avez besoin.
+>Consultez la documentation destinée aux développeurs pour plus d’informations sur l’[API REST](https://developer.adobe.com/marketo-apis/).
 
 ## Créer un service personnalisé {#create-custom-service}
 
@@ -47,15 +47,11 @@ Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un se
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
-   >[!NOTE]
-   >
-   >Notez que nous disposons déjà d’une intégration native pour les services de webinaire populaires.
-
 1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Oh oui ! Le service est maintenant créé, allons-y et obtenons toutes les informations d’identification pour fournir l’accès.
+   Le service est maintenant créé. Récupérez les informations d’identification à fournir pour l’accès.
 
 ## Informations d’identification pour l’accès à l’API {#credentials-for-api-access}
 
@@ -81,4 +77,4 @@ Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un se
 
 >[!CAUTION]
 >
->Ne partagez pas ces informations ; c&#39;est la porte dérobée vers vos données. Gardez-le en sécurité !
+>Ne partagez pas ces informations, car elles permettent d’accéder à vos données .

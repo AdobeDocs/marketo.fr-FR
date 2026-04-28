@@ -4,9 +4,9 @@ description: Connectez votre canal  [!DNL BrightTALK]  Marketo via LaunchPoint �
 title: Connexion [!DNL BrightTALK] à Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 2%
 
 ---
@@ -21,15 +21,17 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
 ## Étapes dans [!DNL BrightTALK] {#steps-in-brighttalk}
 
-1. Connectez-vous à [&#128279;](https://business.brighttalk.com/demandcentral/login){target="_blank"} puis cliquez sur **[!UICONTROL Se connecter maintenant]**.
-1. Sous [!UICONTROL &#x200B; Connecteur Marketo avancé &#x200B;], cliquez sur **[!UICONTROL Se connecter]**.
-1. Vous accédez à l’écran des informations d’identification en demandant : ID client, secret client, URL du service d’identités et URL du service REST. Pour obtenir ces informations, connectez-vous à Marketo.
+1. Connectez-vous à [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} puis cliquez sur **[!UICONTROL Se connecter maintenant]**.
+
+1. Sous [!UICONTROL  Connecteur Marketo avancé ], cliquez sur **[!UICONTROL Se connecter]**.
+
+1. L’écran des informations d’identification s’affiche et vous demande : ID client, secret client, URL du service d’identités et URL du service REST. Pour obtenir ces informations, connectez-vous à Marketo.
 
 ## Étapes dans Marketo {#steps-in-marketo}
 
 >[!NOTE]
 >
->À ce stade, vous devrez configurer un [!DNL API Only User Role] et un [!DNL API User] afin de limiter les autorisations dont [!DNL BrightTALK] disposerez dans votre instance Marketo. Puisque nous avons déjà des articles pour ces étapes, nous vous connecterons à celles-ci.
+>À ce stade, vous devez configurer un [!DNL API Only User Role] et un [!DNL API User] afin de limiter les autorisations dont [!DNL BrightTALK] disposerez dans votre instance Marketo. Des articles sont disponibles pour ces étapes.
 
 1. Créez un [Rôle utilisateur API uniquement](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
@@ -53,9 +55,9 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
    >[!CAUTION]
    >
-   >N’oubliez pas de ne pas sélectionner [!DNL BrightTALK] dans la liste déroulante. Il s’agit d’un champ que nous sommes en train de supprimer. Le sélectionner pourrait créer des problèmes importants avec votre intégration [!DNL Marketo/BrightTALK].
+   >N’oubliez pas de ne pas sélectionner [!DNL BrightTALK] dans la liste déroulante. Ce champ est en cours de suppression et sa sélection peut créer des problèmes importants avec votre intégration [!DNL Marketo/BrightTALK].
 
-1. Saisissez la [!UICONTROL Description] de votre choix. Cliquez sur le menu déroulant **[!UICONTROL Utilisateur API uniquement]** et sélectionnez le [!DNL BrightTALK API User] que vous avez créé à l’étape 5. Cliquez sur **[!UICONTROL Créer]**.
+1. Saisissez la [!UICONTROL Description] de votre choix. Click the **[!UICONTROL API Only User]** drop-down and select the [!DNL BrightTALK API User] you created during Step 5. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
@@ -63,7 +65,7 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 
-1. Copiez (et enregistrez) les **[!UICONTROL ID client]** et **[!UICONTROL Secret client]**. Cliquez sur **[!UICONTROL Fermer]**.
+1. Copy (and save) the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]**. Cliquez sur **[!UICONTROL Fermer]**.
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 
@@ -79,4 +81,4 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
 1. Revenez à l’écran de configuration du connecteur [!DNL BrightTALK] à partir de l’étape 3 et saisissez les informations d’identification que vous avez enregistrées à partir des étapes 12 et 14.
 
-Une fois les informations d’identification authentifiées, vous avez officiellement connecté [!DNL BrightTALK] à Marketo. L’étape suivante consiste à déterminer les champs de données à synchroniser. Si vous avez besoin d’aide, contactez l’assistance à l’adresse [BrightTALK](https://www.brighttalk.com/){target="_blank"}.
+Une fois les informations d’identification authentifiées, vous avez officiellement connecté [!DNL BrightTALK] à Marketo. L’étape suivante consiste à déterminer les champs de données à synchroniser. Si vous avez besoin d’aide, contactez l’assistance [BrightTALK](https://www.brighttalk.com/){target="_blank"}.

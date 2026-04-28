@@ -2,20 +2,22 @@
 unique-page-id: 2360352
 description: Définissez la clé de chiffrement de l’API SOAP et obtenez des détails sur les points d’entrée dans Admin Web Services pour les développeurs.
 title: Configuration des paramètres de votre API SOAP
+hide: true
+hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 16%
 
 ---
 
 # Configuration des paramètres de votre API SOAP {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Nous vous suggérons d’utiliser l’API REST. En savoir plus sur [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>L’API SOAP est [en cours d’obsolescence](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) depuis le 31 juillet 2026. Il est recommandé d’utiliser plutôt l’[API REST](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -35,8 +37,4 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->Votre point d’entrée SOAP et votre [!UICONTROL ID utilisateur] seront uniques. N’envoyez pas la capture d’écran de cet article à votre développeur.
-
->[!MORELIKETHIS]
->
->[Documentation de l’API SOAP &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/soap/soap-api)
+>Votre point d’entrée SOAP et votre [!UICONTROL ID utilisateur] sont uniques. N’envoyez pas la capture d’écran de cet article à votre développeur.
