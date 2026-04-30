@@ -4,10 +4,10 @@ description: Comment configurer des règles d’affectation pour acheminer les p
 title: Affectation de partitions de personne avec des règles d’affectation
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 9%
+source-wordcount: '170'
+ht-degree: 10%
 
 ---
 
@@ -63,7 +63,7 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-Et voilà ! Vous avez affecté des règles pour remplir vos partitions de personne avec des personnes !
+Les règles d’affectation de vos partitions de personne ont été configurées.
 
 >[!NOTE]
 >

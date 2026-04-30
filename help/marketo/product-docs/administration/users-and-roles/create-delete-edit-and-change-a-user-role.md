@@ -4,16 +4,16 @@ description: Procédure à suivre pour créer, supprimer et modifier des rôles 
 title: Créer, supprimer, modifier et remplacer un rôle d’utilisateur ou d’utilisatrice
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 8%
 
 ---
 
 # Créer, supprimer, modifier et remplacer un rôle d’utilisateur ou d’utilisatrice {#create-delete-edit-and-change-a-user-role}
 
-**Rôles** regroupez un ensemble d’autorisations. **Autorisations** vous permettent d’effectuer des tâches dans Marketo. Vous attribuez un **rôle** à un utilisateur. Facile comme une tarte.
+**Rôles** regroupez un ensemble d’autorisations. **Autorisations** vous permettent d’effectuer des actions dans Marketo. Vous attribuez un **rôle** à un utilisateur.
 
 >[!NOTE]
 >

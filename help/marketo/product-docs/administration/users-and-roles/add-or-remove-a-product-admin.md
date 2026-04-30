@@ -3,9 +3,9 @@ description: Procédure à suivre pour ajouter ou supprimer des administrateurs 
 title: Ajouter ou supprimer un administrateur ou une administratrice de produit
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '294'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**Système** Les administrateurs ne sont créés qu’au niveau de l’organisation Adobe. Si vous pensez en avoir besoin de plusieurs, contactez [l’assistance &#x200B;](https://experienceleague.adobe.com/fr/support).
+>**Système** Les administrateurs ne sont créés qu’au niveau de l’organisation Adobe. Si vous pensez en avoir besoin de plusieurs, contactez [l’assistance ](https://experienceleague.adobe.com/en/support).
 
 ## Ajouter un administrateur de produit {#add-a-product-admin}
 
@@ -22,11 +22,11 @@ ht-degree: 6%
 >
 >Un administrateur doit être ajouté à un profil de produit pour pouvoir accéder à Marketo Engage.
 
-1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -70,11 +70,11 @@ L’utilisateur recevra alors deux e-mails. Le premier e-mail les informe qu’i
 
 ## Supprimer un administrateur {#remove-a-user}
 
-1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 

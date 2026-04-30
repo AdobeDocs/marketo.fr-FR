@@ -3,10 +3,10 @@ description: Comment ajouter ou supprimer des utilisateurs Marketo Engage dans l
 title: Ajouter ou supprimer un utilisateur ou une utilisatrice
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '268'
+ht-degree: 10%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 6%
 
 ## Ajouter un utilisateur {#add-a-user}
 
-1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -54,7 +54,7 @@ L’utilisateur recevra alors un e-mail pour se connecter à Marketo Engage.
 
 >[!NOTE]
 >
->Lorsque l’utilisateur est ajouté à Marketo Engage via Adobe Admin Console, le rôle « Utilisateur standard » lui est attribué dans l’espace de travail Par défaut de l’abonnement. Si le rôle de l’utilisateur ou de l’utilisatrice dans l’espace de travail doit être ajusté, cela se fait dans Marketo Engage, [comme décrit ici](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Lorsque l’utilisateur est ajouté à Marketo Engage via Adobe Admin Console, le rôle « Utilisateur standard » lui est attribué dans l’espace de travail Par défaut de l’abonnement. Si le rôle de l’utilisateur ou de l’utilisatrice dans l’espace de travail doit être ajusté, cette opération est effectuée dans Marketo Engage, [comme décrit ici](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Supprimer un utilisateur {#remove-a-user}
 
@@ -62,11 +62,11 @@ L’utilisateur recevra alors un e-mail pour se connecter à Marketo Engage.
 >
 >Vous devez être un administrateur système pour supprimer un utilisateur.
 
-1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -90,5 +90,5 @@ L’utilisateur recevra alors un e-mail l’informant qu’il n’a plus accès 
 
 >[!MORELIKETHIS]
 >
->* [Utilisateurs &#x200B;](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
+>* [Utilisateurs ](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
 >* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html){target="_blank"}

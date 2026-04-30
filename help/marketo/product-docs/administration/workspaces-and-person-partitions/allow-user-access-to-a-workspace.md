@@ -4,16 +4,16 @@ description: Étapes pour accorder à un utilisateur l’accès à un ou plusieu
 title: Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 12%
+source-wordcount: '108'
+ht-degree: 13%
 
 ---
 
 # Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice {#allow-user-access-to-a-workspace}
 
-Les espaces de travail peuvent être utilisés pour n’importe quelle raison (séparation d’unités commerciales ou géographique, par exemple). Ils séparent les ressources (listes intelligentes, programmes, etc.) de chaque équipe. Voici comment donner à un utilisateur l&#39;accès à un ou plusieurs espaces de travail.
+Les espaces de travail peuvent être utilisés pour n’importe quelle raison (séparation d’unités commerciales ou géographique, par exemple). Ils séparent les ressources (listes dynamiques, programmes, etc.) de chaque équipe.
 
 >[!NOTE]
 >

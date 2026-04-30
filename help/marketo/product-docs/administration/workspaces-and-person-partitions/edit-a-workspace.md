@@ -4,16 +4,16 @@ description: Découvrez comment modifier la partition de prospect, la partition 
 title: Modifier un espace de travail
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
 # Modifier un espace de travail {#edit-a-workspace}
 
-Parfois, vous devez apporter des modifications dans un Workspace. C’est très simple.
+Parfois, vous devez apporter des modifications dans un Workspace.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Parfois, vous devez apporter des modifications dans un Workspace. C’est très 
 
 >[!NOTE]
 >
->Déplacez-vous vers les espaces de travail avec [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Pour plus d’informations sur les espaces de travail, voir [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -57,7 +57,7 @@ Parfois, vous devez apporter des modifications dans un Workspace. C’est très 
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas modifier la langue de l’espace de travail.
+   >La langue de l&#39;espace de travail ne peut pas être modifiée.
 
 >[!MORELIKETHIS]
 >

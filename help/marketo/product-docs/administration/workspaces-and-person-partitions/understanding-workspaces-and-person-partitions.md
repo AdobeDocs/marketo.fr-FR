@@ -4,10 +4,10 @@ description: Découvrez comment les espaces de travail organisent les ressources
 title: Présentation des espaces de travail et des répartitions de personnes
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 97%
+source-wordcount: '551'
+ht-degree: 78%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->La configuration des espaces de travail peut être complexe. Contactez le [support technique de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s’ils vous conviendraient.
+>La configuration des espaces de travail peut être complexe. Contactez le support technique de [](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
 
 Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des pages de destination, des e-mails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque personne a accès à un ou plusieurs espaces de travail.
 
@@ -34,11 +34,11 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 
 >[!NOTE]
 >
->Découvrez comment [créer un espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Découvrez comment [ créer un espace de travail ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Partage sur plusieurs espaces de travail {#sharing-across-workspaces}
 
-Découvrez comment partager des ressources sur plusieurs espaces de travail. Cela fonctionne de la même manière pour tout ce que vous souhaitez partager ; cet exemple illustre les segmentations.
+Les étapes suivantes expliquent comment partager des ressources sur plusieurs espaces de travail. Cela fonctionne de la même manière pour tout ce que vous souhaitez partager ; cet exemple illustre les segmentations.
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Vous pouvez partager ces éléments sur plusieurs espaces de travail.
 
 ## Clonage sur plusieurs espaces de travail {#cloning-across-workspaces}
 
-Pour les ressources qui ne sont pas des modèles, il est préférable de les cloner en tant que ressources locales dans un programme. Avec le niveau d’accès approprié, vous pouvez faire glisser ces ressources et les déposer dans un autre espace de travail :
+Pour les ressources qui ne sont pas des modèles, il est recommandé de les cloner en tant que ressources locales dans un programme. Avec le niveau d’accès approprié, vous pouvez faire glisser ces ressources et les déposer dans un autre espace de travail :
 
 * Programmes
 * E-mails
@@ -105,11 +105,11 @@ Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans 
 
 >[!NOTE]
 >
->Vous ne pouvez pas déplacer un programme qui contient des personnes membres d’un espace de travail à un autre.
+>Un programme contenant des membres ne peut pas être déplacé d&#39;un espace de travail à un autre.
 
 ## Répartitions de personnes {#person-partitions}
 
-Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque répartition a ses propres personnes qui ne sont pas dédupliquées ni mélangées avec d’autres répartitions. Si vous pensez avoir un cas d’utilisation professionnel qui peut nécessiter d’avoir des enregistrements en double avec la même adresse e-mail, contactez l’[assistance de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque répartition a ses propres personnes qui ne sont pas dédupliquées ni mélangées avec d’autres répartitions. Si votre cas d’utilisation professionnel nécessite des enregistrements en double avec la même adresse e-mail, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez affecter des répartitions de personne aux [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 
@@ -121,7 +121,7 @@ Vous pouvez affecter des répartitions de personne aux [espaces de travail](crea
 >
 >Motifs d’utilisation d’une répartition de personnes :
 >
->* Vos espaces de travail ne disposent pas seulement de ressources différentes, mais ils ne partagent pas les personnes non plus.
+>* Vos espaces de travail disposent de ressources différentes et ne partagent aucune personne
 >* Vous voulez des doublons pour d’autres raisons commerciales.
 
 >[!CAUTION]

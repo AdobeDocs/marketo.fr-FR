@@ -4,10 +4,10 @@ description: Liste de référence de toutes les autorisations de rôle dans Mark
 title: Descriptions des autorisations de rôles
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 18%
+source-wordcount: '1344'
+ht-degree: 19%
 
 ---
 
@@ -54,7 +54,7 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 * Accéder à la nouvelle expérience : donne aux utilisateurs accès à l’écran Nouvelle expérience.
 * Accéder à l’activité personnalisée Marketo - Permet aux utilisateurs d’accéder aux activités personnalisées Marketo dans Admin
 * Accéder à l’objet personnalisé Marketo - Permet aux utilisateurs d’accéder aux objets personnalisés Marketo dans Admin
-* [!DNL Munchkin] d’accès : permet aux utilisateurs d’accéder aux [!DNL Munchkin] dans Admin pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API
+* [!DNL Munchkin] d’accès : permet aux utilisateurs d’accéder à des [!DNL Munchkin] dans Admin pour définir le code de suivi, le suivi des personnes et activer la configuration de l’API
 * Accéder aux audiences prédictives : permet aux utilisateurs d’accéder à l’écran Audiences prédictives
 * Accéder à Revenue Cycle Analytics : permet aux utilisateurs d’accéder à Revenue Cycle Analytics dans Admin pour définir le résumé de la synchronisation et l’attribution.
 * Accéder aux rôles : permet aux utilisateurs et utilisatrices d’accéder à la gestion et à la modification des rôles, mais pas aux utilisateurs et utilisatrices
@@ -179,7 +179,7 @@ Affichez la base de données et affichez et modifiez les listes dynamiques/stati
    * Accès à la création d’une ressource de liste dynamique dans les activités de base de données et marketing
 * Supprimer une liste
 * Modifier une personne - Empêche la modification manuelle et l’exécution d’étapes de flux unique ; vous pouvez toujours modifier des personnes en exécutant des campagnes sur elles
-* Exporter des personnes : exportez des feuilles de calcul avec depuis vos listes de base de données.
+* Exporter des personnes : exportez des feuilles de calcul à partir des listes de votre base de données.
 * Importer l’objet personnalisé
 * Importer la liste
 * Fusionner les personnes

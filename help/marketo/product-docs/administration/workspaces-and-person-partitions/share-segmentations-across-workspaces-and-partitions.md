@@ -4,9 +4,9 @@ description: Règles et étapes de partage des segmentations entre les espaces d
 title: Partager des segmentations dans les espaces de travail et les partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '471'
 ht-degree: 4%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 4%
 
 ## Qu’est-ce qu’une segmentation ? {#whats-a-segmentation}
 
-Marketo est très efficace pour sélectionner les bonnes personnes pour un programme ou une campagne intelligente. Toutefois, pour les personnages plus permanents, vous devez utiliser des segmentations. Ils sont nécessaires pour utiliser du contenu dynamique avancé dans Marketo.
+Marketo identifie les personnes appropriées pour un programme ou une campagne intelligente. Toutefois, pour les personnages plus permanents, vous devez utiliser des segmentations. Ils sont nécessaires pour utiliser du contenu dynamique avancé dans Marketo.
 
 >[!NOTE]
 >
->Découvrez [&#x200B; comment créer des segmentations &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Découvrez [ comment créer des segmentations ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
 Une fois ces personnes configurées (_et_ vous utilisez des espaces de travail), vous souhaiterez les partager dans vos espaces de travail. Voici quelques bonnes choses à savoir :
 
@@ -31,7 +31,7 @@ Une fois ces personnes configurées (_et_ vous utilisez des espaces de travail),
 
 * Chaque abonnement Marketo peut contenir jusqu’à 20 segmentations « au total » sur plusieurs espaces de travail (**pas 20 par espace de travail**).
 * Vous pouvez uniquement partager une Segmentation avec les espaces de travail auxquels vous avez accès.
-* Veillez à créer et à utiliser un espace de travail **par défaut qui soit visible dans toutes les partitions**.
+* Créez et utilisez un espace de travail **par défaut qui est visible dans toutes les partitions**.
 
 * Le traitement de la segmentation s’exécute uniquement sur les personnes de l’espace de travail où la segmentation est créée.
 
@@ -41,12 +41,12 @@ Une fois ces personnes configurées (_et_ vous utilisez des espaces de travail),
       * La version partagée ne peut pas être modifiée. Vous pouvez uniquement modifier la segmentation d’origine à l’emplacement où elle a été créée.
 
    * Lorsque vous cliquez sur un segment (par exemple, Healthcare) dans une segmentation partagée, les personnes que vous voyez ne sont que des personnes dans la partition associée à l’espace de travail que vous consultez.
-      * Si vous créez une Segmentation dans Workspace 1 (WS1) et que vous la partagez avec WS2, et que WS1 n’a pas accès à la partition pour WS2, la Segmentation NE SERA PAS recalculée.
+      * Si vous créez une Segmentation dans Workspace 1 (WS1) et que vous la partagez avec WS2 et que WS1 n’a pas accès à la partition pour WS2, il NE RECALCULERA PAS la Segmentation.
       * Si vous créez une Segmentation dans un espace de travail qui comporte des partitions limitées, puis que vous la partagez avec un autre espace de travail, cet espace de travail qui a reçu la Segmentation partagée ne verra les personnes que si elles se chevauchent.
 
 >[!NOTE]
 >
->Certaines de ces règles sont un peu complexes. Le moyen le plus simple de commencer est de tester avec des personnes spécifiques. Vous pouvez toujours effectuer de nouvelles segmentations et vous débarrasser des anciennes.
+>Certaines de ces règles sont complexes. Il est recommandé d’effectuer des tests avec des personnes spécifiques. De nouvelles segmentations peuvent être créées et d’anciennes supprimées si nécessaire.
 
 ## Exemples de scénarios {#example-scenarios}
 
@@ -64,7 +64,7 @@ Une fois ces personnes configurées (_et_ vous utilisez des espaces de travail),
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Nommez le dossier que vous allez partager sur plusieurs espaces de travail (par exemple : Partager des segments) et cliquez sur **[!UICONTROL Créer]**.
+1. Nommez le dossier à partager dans les espaces de travail (par exemple : Partager des segmentations), puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 

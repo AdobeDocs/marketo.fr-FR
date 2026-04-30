@@ -4,16 +4,16 @@ description: Étapes de modification du nom de partition et des affectations d�
 title: Modifier une partition de personnes existante
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 12%
+source-wordcount: '96'
+ht-degree: 13%
 
 ---
 
 # Modifier une partition de personnes existante {#edit-an-existing-person-partition}
 
-Une partition de personne est semblable à une deuxième (ou troisième) base de données. Une partition peut être connectée à un ou plusieurs espaces de travail. Voici comment modifier les détails de la partition.
+Une partition de personne est semblable à une deuxième (ou troisième) base de données. Une partition peut être connectée à un ou plusieurs espaces de travail.
 
 >[!NOTE]
 >
@@ -39,6 +39,6 @@ Une partition de personne est semblable à une deuxième (ou troisième) base de
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-Après avoir enregistré les modifications, vous devriez voir la mise à jour !
+Après avoir enregistré les modifications, la mise à jour s’affiche.
 
 ![](assets/edit-an-existing-person-partition-5.png)
