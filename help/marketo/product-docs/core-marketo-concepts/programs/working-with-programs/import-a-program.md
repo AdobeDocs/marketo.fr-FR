@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Importer un programme {#import-a-program}
 
-Un programme peut être importé d’un abonnement Marketo Engage à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme préconfiguré à partir de la bibliothèque de programmes [](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Un programme peut être importé d’un abonnement Marketo Engage à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme préconfiguré à partir de la bibliothèque de programmes [&#128279;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -36,7 +36,7 @@ Un programme peut être importé d’un abonnement Marketo Engage à un autre. P
    >
    >* L’importation de programme est uniquement disponible pour les utilisateurs dont les rôles disposent de l’autorisation Importer un programme activée. En savoir plus sur la [gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >* Pour connecter un compte sandbox à votre abonnement en direct, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Pour connecter un compte sandbox à votre abonnement en direct, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Sélectionnez un Marketo **[!UICONTROL abonnement]** et un programme à importer. Cliquez sur **[!UICONTROL Suivant]**.
 

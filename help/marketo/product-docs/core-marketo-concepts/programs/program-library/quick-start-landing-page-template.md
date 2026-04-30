@@ -16,7 +16,7 @@ Certains des programmes de démarrage de la bibliothèque de référence Marketo
 
 >[!TIP]
 >
->En savoir plus sur les [ Modèles guidés de page de destination ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>En savoir plus sur les [&#x200B; Modèles guidés de page de destination &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
 Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
