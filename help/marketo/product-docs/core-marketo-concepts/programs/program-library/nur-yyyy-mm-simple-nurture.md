@@ -3,10 +3,10 @@ description: Modèle de programme Simple Nurture. Utilisez-le pour des campagnes
 title: NUR-AAAA-MM-Fidélisation simple
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 19%
+source-wordcount: '369'
+ht-degree: 20%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Il s’agit d’un exemple de programmes de formation simples, utilisant le programme d’engagement Marketo Engage, avec du contenu cadencé qui s’écoule au fil du temps vers votre base de données tout en utilisant des flux pour guider les enregistrements à travers les parcours en fonction du comportement.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
@@ -171,4 +171,4 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne « 04 - Engagé (succès du programme) » pour le suivi du succès ! Effectuez cette opération _avant_ l’envoi de vos e-mails.
+>Activez la campagne « 04 - Engagé (succès du programme) » pour suivre les succès avant que votre formulaire ne soit actif et que les e-mails ne soient envoyés.

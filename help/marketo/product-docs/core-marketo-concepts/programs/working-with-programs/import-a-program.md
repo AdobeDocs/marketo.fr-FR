@@ -4,16 +4,16 @@ description: Découvrez comment importer un programme dans Marketo. Importez un 
 title: Importer un programme
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 2%
+source-wordcount: '573'
+ht-degree: 3%
 
 ---
 
 # Importer un programme {#import-a-program}
 
-Un programme peut être importé d’un abonnement Marketo Engage à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme préconfiguré à partir de la bibliothèque de programmes [Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Un programme peut être importé d’un abonnement Marketo Engage à un autre. Par exemple, vous pouvez créer un programme dans un sandbox, puis l’importer dans votre abonnement en direct. Vous pouvez également importer un programme préconfiguré à partir de la bibliothèque de programmes [](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -36,7 +36,7 @@ Un programme peut être importé d’un abonnement Marketo Engage à un autre. P
    >
    >* L’importation de programme est uniquement disponible pour les utilisateurs dont les rôles disposent de l’autorisation Importer un programme activée. En savoir plus sur la [gestion des rôles utilisateur et des autorisations](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >* Pour connecter un compte sandbox à votre abonnement en direct, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Pour connecter un compte sandbox à votre abonnement en direct, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Sélectionnez un Marketo **[!UICONTROL abonnement]** et un programme à importer. Cliquez sur **[!UICONTROL Suivant]**.
 
@@ -62,7 +62,7 @@ Un programme peut être importé d’un abonnement Marketo Engage à un autre. P
 
    ![](assets/import-a-program-6.png)
 
-Vous recevrez une confirmation par e-mail une fois l’importation terminée.
+Une confirmation par e-mail est envoyée une fois l’importation terminée.
 
 >[!NOTE]
 >

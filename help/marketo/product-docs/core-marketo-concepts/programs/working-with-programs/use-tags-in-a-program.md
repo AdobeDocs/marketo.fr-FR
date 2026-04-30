@@ -4,10 +4,10 @@ description: Découvrez comment utiliser les balises dans un programme. Ajoutez 
 title: Utiliser des balises dans un programme
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 10%
+source-wordcount: '171'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. C&#39;est bon. La nouvelle balise s’affiche dans la zone de travail.
+1. La nouvelle balise s’affiche désormais dans la zone de travail.
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -55,7 +55,7 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. Fantastique ! Les modifications doivent être répercutées dans la zone de travail.
+1. Les modifications doivent maintenant être répercutées dans la zone de travail.
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -69,4 +69,4 @@ Les balises sont des attributs qui décrivent vos programmes et sont utilisés p
 
    ![](assets/use-tags-in-a-program-11.png)
 
-Beau travail ! Les programmes avec des balises cohérentes facilitent grandement les choses lorsque vous exécutez vos rapports.
+Les programmes avec des balises cohérentes rendent le reporting plus efficace.

@@ -4,10 +4,10 @@ description: Découvrez comment naviguer dans la vue Planning du programme. Se d
 title: Navigation dans la vue Planning du programme
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 7%
+source-wordcount: '171'
+ht-degree: 8%
 
 ---
 
@@ -25,7 +25,7 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Vous allez maintenant consulter la vue de planification de votre programme.
+   La vue de planification de votre programme s’affiche maintenant.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -38,8 +38,6 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 1. Dans les détails de l’entrée, cliquez sur les flèches pour passer à l’entrée planifiée suivante.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
-
-   Plutôt cool, hein ?
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
@@ -60,8 +58,6 @@ Voici les principes de base pour vous aider à naviguer dans la vue du planning 
 1. Vous pouvez cliquer sur l’icône d’écran dans le coin supérieur droit pour afficher le planning de votre programme en mode plein écran.
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
-
-Fantastique ! Maintenant que vous savez comment afficher votre programme, nous allons découvrir les autres choses intéressantes qu’il peut faire.
 
 >[!MORELIKETHIS]
 >

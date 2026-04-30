@@ -3,9 +3,9 @@ description: Modèle de programme opérationnel de gestion des leads. Utilisez-l
 title: OP-Gestion des leads
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '279'
 ht-degree: 16%
 
 ---
@@ -18,7 +18,7 @@ Il s’agit d’un exemple de workflow des bonnes pratiques de gestion de prospe
 >
 >Dans Marketo Engage, les enregistrements de votre base de données sont appelés personnes/personne. Dans cet exemple, la gestion des prospects se rapporte aux enregistrements de votre CRM.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html).
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Résumé du canal {#channel-summary}
 

@@ -4,9 +4,9 @@ description: Découvrez comment modifier les paramètres de comportement des ana
 title: Modifier les paramètres de comportement d’analyse
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '186'
 ht-degree: 8%
 
 ---
@@ -47,7 +47,7 @@ Vous pouvez définir le comportement d’[analyse au niveau de l’administratio
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Bien joué ! Vous savez maintenant comment remplacer le comportement d’analyse au niveau du programme.
+Le comportement d’analyse a été remplacé au niveau du programme.
 
 >[!NOTE]
 >

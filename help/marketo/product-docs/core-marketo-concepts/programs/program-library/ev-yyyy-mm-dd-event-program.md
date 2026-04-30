@@ -3,10 +3,10 @@ description: Modèle de programme d’événement. Utilisez-le pour exécuter de
 title: EV-AAAA-MM-JJ-Programme d’événement
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 21%
+source-wordcount: '600'
+ht-degree: 22%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 Voici un exemple de programme d’événement avec une page d’inscription, trois e-mails d’invitation et des e-mails de relance utilisant un programme d’événement Marketo Engage. Convient à tous les événements où vous avez besoin d&#39;inscriptions, y compris les tournées, les déjeuners, les dîners ou les présentations lors d&#39;événements de salon.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
@@ -204,7 +204,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>Texte complet</td>
+   <td>Texte enrichi</td>
    <td><code>{{my.Content-Description}}</code></td>
    <td>Double-cliquer pour plus de détails
 <br/><code><--My Content Description Here--></code>
@@ -262,7 +262,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
   <tr>
    <td>Texte</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.ThanksYouPageURL?without=http://</td>
   </tr>
   <tr>
    <td>Texte</td>
@@ -330,7 +330,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne « 06-Attended (Program Success) » pour assurer le suivi du succès ! Effectuez cette opération _avant_ votre formulaire est en ligne et des e-mails sont envoyés.
+>Activez la campagne « 06-Attended (Program Success) » pour assurer le suivi du succès avant la mise en ligne de votre formulaire et l’envoi des e-mails.
 
 >[!IMPORTANT]
 >

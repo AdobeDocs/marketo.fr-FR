@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Septembre 2025 - Documents Marketo - Docume
 title: Notes de mise à jour - Septembre 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 97%
+source-wordcount: '960'
+ht-degree: 85%
 
 ---
 
@@ -34,7 +34,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   <tr>
    <td><strong>Conservation des activités de webinaire à la demande</strong> : les utilisateurs et utilisatrices de webinaires interactifs disposent désormais de données de tableau de bord de webinaires à la demande disponibles pendant plus de 30 jours (auparavant, elles n’étaient disponibles que 30 jours maximum à compter de la date du webinaire).</td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Synchronisation manuelle</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -97,3 +97,5 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 * **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
+* **Obsolescence du flux de données d’activité de lead hérité** : d’ici la fin juin 2026, les utilisateurs devront migrer du flux de données d’activité de lead hérité vers le nouveau flux de données d’activité de lead (LADS) d’Adobe I/O. Cette obsolescence affecte uniquement un petit nombre d’utilisateurs qui ont été intégrés au flux de données d’activité du prospect avant son intégration à Adobe I/O Events. Si vous êtes un utilisateur de flux de données plus récent ou que vous gérez déjà le flux de données d’activité du prospect par le biais d’événements I/O, cela n’a aucun impact sur vous. Voir [cet article](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} pour plus d’informations sur la migration.

@@ -4,16 +4,16 @@ description: Découvrez comment cloner un programme et toutes ses ressources. Cr
 title: Cloner un programme
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '205'
 ht-degree: 2%
 
 ---
 
 # Cloner un programme {#clone-a-program}
 
-Clonez rapidement et facilement un programme entier et toutes ses ressources au lieu de tout reconstruire manuellement.
+Clonez un programme entier et toutes ses ressources au lieu de tout reconstruire manuellement.
 
 1. Recherchez et sélectionnez le programme à cloner. Dans la liste déroulante **[!UICONTROL Actions de programme]**, cliquez sur **[!UICONTROL Cloner]**.
 
@@ -23,7 +23,7 @@ Clonez rapidement et facilement un programme entier et toutes ses ressources au 
 
    >[!NOTE]
    >
-   >Les programmes peuvent être clonés dans [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assurez-vous de partager toutes les ressources dépendantes sous-jacentes (e-mails, fragments de code, modèles de page de destination, etc.) avec l’espace de travail de destination avant de cloner.
+   >Les programmes peuvent être clonés dans [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [dossiers](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) ou [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Vérifiez toutes les ressources dépendantes sous-jacentes (e-mails, fragments de code, modèles de page de destination, etc.) sont partagées avec l’espace de travail de destination avant le clonage.
 
    ![](assets/cloneto.png)
 
@@ -35,18 +35,18 @@ Clonez rapidement et facilement un programme entier et toutes ses ressources au 
 
    ![](assets/cloneprogramname.png)
 
-1. Choisissez le dossier vers lequel vous souhaitez cloner votre programme.
+1. Choisissez le dossier de destination.
 
    ![](assets/choosefolderclone.png)
 
-1. Ajoutez une description facultative, puis cliquez sur **[!UICONTROL Créer]**. Regardez à quelle vitesse vous avez pu créer un nouveau programme avec toutes ses ressources prêtes à l’emploi !
+1. Ajoutez une description facultative, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >Utilisez cette technique avec des jetons pour rendre la création de programme instantanée.
+   >Utilisez cette technique avec des jetons pour accélérer la création de nouveaux programmes.
 
    >[!CAUTION]
    >
-   >Les coûts de la période ne seront pas transférés. Veillez donc à ajouter cela à votre programme cloné si vous en aviez un défini dans l’original.
+   >Les coûts de la période ne seront pas transférés. Assurez-vous donc que est ajouté au programme cloné s’il a été défini dans l’original.

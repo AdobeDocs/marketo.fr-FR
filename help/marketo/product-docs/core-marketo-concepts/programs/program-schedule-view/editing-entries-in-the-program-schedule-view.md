@@ -4,10 +4,10 @@ description: Découvrez comment modifier des entrées dans la vue Planning du pr
 title: Modification d’entrées dans la vue Planning du programme
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ Vous pouvez apporter des modifications aux différents éléments de votre progr
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Fantastique ! Votre description a été modifiée.
+1. La description a été mise à jour.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,7 +49,7 @@ Vous pouvez apporter des modifications aux différents éléments de votre progr
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-Tu fais du rock ! La date de votre saisie a été déplacée vers une nouvelle date.
+La date de votre entrée a été mise à jour.
 
 >[!NOTE]
 >

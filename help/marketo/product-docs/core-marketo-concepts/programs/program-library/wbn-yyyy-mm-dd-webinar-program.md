@@ -3,10 +3,10 @@ description: Modèle de programme de webinaire. Utilisez-le pour les webinaires 
 title: WBN-AAAA-MM-JJ-Programme de webinaire
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 20%
+source-wordcount: '621'
+ht-degree: 21%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Voici un exemple de programme de webinaire avec gestion des inscriptions, trois e-mails d’invitation, un rappel pour assister et des e-mails de suivi utilisant un programme d’événement Marketo Engage.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
@@ -217,7 +217,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>Texte complet</td>
+   <td>Texte enrichi</td>
    <td><code>{{my.Event-Description}}</code></td>
    <td>Double-cliquer pour plus de détails
 <br/><code><--My Event Description Here--></code>
@@ -255,7 +255,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
    <tr>
    <td>Texte</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.ThanksYouPageURL?without=http://</td>
   </tr>
   <tr>
    <td>Texte</td>
@@ -310,7 +310,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 
 ## Meilleures pratiques {#best-practices}
 
-* Si vous utilisez un fournisseur de webinaires intégré, n’oubliez pas de connecter le programme Marketo Engage à votre webinaire dans le système d’hébergement.
+* Si vous utilisez un fournisseur de webinaires intégré, connectez le programme Marketo Engage à votre webinaire dans le système d’hébergement.
 
 * Après l’importation du programme de webinaire, déplacez le formulaire d’une ressource locale vers une ressource globale située dans Design Studio.
    * Réduire le nombre de formulaires et utiliser davantage de ressources globales à partir de Design Studio permet une plus grande évolutivité dans la conception de vos programmes et la gouvernance administrative. Il offre également une certaine flexibilité dans les mises à jour de conformité régulières pour les champs, la langue d’accord préalable, etc.
@@ -325,7 +325,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne « 05 - Participants (Succès du programme) » pour le suivi du succès. Effectuez cette opération _avant_ l’envoi de vos e-mails.
+>Activez la campagne « 05 - Participants (succès du programme) » pour suivre les succès avant l’envoi de vos e-mails.
 
 >[!IMPORTANT]
 >

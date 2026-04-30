@@ -3,9 +3,9 @@ description: Modèle de courrier électronique de démarrage rapide. Utilisez-la
 title: Modèle d’e-mail pour un démarrage rapide
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '576'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ L’éditeur d’e-mail de Marketo Engage est fourni avec des fonctions qui vous
 
 * **Variables** : lorsqu’un module est sélectionné, les variables s’affichent dans la partie droite de l’éditeur. Ils peuvent être utilisés pour ajuster les attributs du module qui ne sont pas facilement modifiables via des éléments d’image ou de texte.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé des modules {#modules-summary}
 

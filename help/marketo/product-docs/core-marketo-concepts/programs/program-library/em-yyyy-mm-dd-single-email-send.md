@@ -3,10 +3,10 @@ description: Modèle de programme d’envoi d’e-mail unique. Utilisez-le pour 
 title: EM-AAAA-MM-JJ-Envoi d’e-mail unique
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 18%
+source-wordcount: '309'
+ht-degree: 20%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Cet exemple envoie un seul e-mail à l’aide d’un programme de messagerie Marketo Engage. L’e-mail peut inclure ou non un test A/B.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
@@ -144,4 +144,4 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne « 01-Engaged » pour le suivi du succès ! Effectuez cette opération _avant_ votre formulaire est en ligne et des e-mails sont envoyés.
+>Activez la campagne « 01-Engaged » pour le suivi du succès avant que votre formulaire ne soit actif et que les e-mails ne soient envoyés.

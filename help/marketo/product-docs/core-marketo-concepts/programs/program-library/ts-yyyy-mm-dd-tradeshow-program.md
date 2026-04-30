@@ -3,10 +3,10 @@ description: Modèle de programme de salon professionnel. Utilisez-le pour les �
 title: TS-AAAA-MM-JJ-Programme de salon professionnel
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 17%
+source-wordcount: '440'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 17%
 
 Voici un exemple de programme de salon professionnel avec des invitations et des e-mails de suivi utilisant un programme d’événement Marketo Engage.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
@@ -146,7 +146,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>Texte complet</td>
+   <td>Texte enrichi</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
@@ -211,7 +211,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 
 >[!TIP]
 >
->N’oubliez pas d’activer la campagne « 03 - Engagement par e-mail de suivi (succès du programme) » pour le suivi du succès ! Effectuez cette opération _avant_ l’envoi de vos e-mails.
+>Activez la campagne « 03 - Engagement par e-mail de suivi (succès du programme) » pour suivre les succès avant l’envoi de vos e-mails.
 
 >[!IMPORTANT]
 >

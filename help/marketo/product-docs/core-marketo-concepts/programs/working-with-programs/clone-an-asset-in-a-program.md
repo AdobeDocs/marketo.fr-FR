@@ -4,10 +4,10 @@ description: Découvrez comment cloner une ressource dans un programme. Créez u
 title: Cloner une ressource dans un programme
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 14%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 
@@ -41,7 +41,7 @@ Cloner un programme clone _tout_. Parfois, vous souhaitez simplement cloner une 
    >
    >Vous pouvez également cloner une ressource vers un autre programme. Utilisez le menu déroulant **[!UICONTROL Programme]** pour effectuer votre sélection.
 
-1. Fantastique ! Vous devriez maintenant voir la nouvelle ressource clonée.
+1. La nouvelle ressource clonée doit maintenant être visible.
 
    ![](assets/report.jpg)
 

@@ -3,10 +3,10 @@ description: Modèle de programme opérationnel de l’API Acquisition. Utilisez
 title: OP-Acquisition-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 20%
+source-wordcount: '182'
+ht-degree: 21%
 
 ---
 
@@ -86,4 +86,4 @@ Cet exemple de programme concerne les processus opérationnels permettant de sui
 
 * Envisagez d’utiliser des programmes similaires pour garantir l’alignement sur les bonnes pratiques de toutes les sources d’entrée afin d’inclure vos intégrations de données ou CRM.
 
-* Dans le cadre des initiatives marketing spécifiques aux canaux, veillez à capturer l’acquisition en cas de besoin.
+* Dans les initiatives marketing de canal spécifiques, assurez-vous que l’acquisition est capturée si nécessaire.

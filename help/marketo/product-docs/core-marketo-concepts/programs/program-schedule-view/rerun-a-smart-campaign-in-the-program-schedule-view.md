@@ -4,16 +4,16 @@ description: Découvrez comment réexécuter une campagne intelligente à partir
 title: Exécuter à nouveau une campagne intelligente dans la vue Planning du programme
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 15%
 
 ---
 
 # Exécuter à nouveau une campagne intelligente dans la vue Planning du programme {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-Vous pouvez facilement créer de nouvelles exécutions d’une campagne dynamique existante directement à partir de la vue de planning du programme.
+Les nouvelles exécutions d’une campagne dynamique existante peuvent être créées directement à partir de la vue de planning du programme.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -27,7 +27,7 @@ Vous pouvez facilement créer de nouvelles exécutions d’une campagne dynamiqu
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. Sélectionnez la liste déroulante du menu Type d’entrée, puis sélectionnez la campagne intelligente à réexécuter.
+1. Sélectionnez le menu déroulant du type d’entrée, puis sélectionnez la campagne intelligente à réexécuter.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -35,4 +35,4 @@ Vous pouvez facilement créer de nouvelles exécutions d’une campagne dynamiqu
    >
    >Vous pouvez également effectuer cette opération à partir de l’[objectif du programme](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-Boum ! Comme ça, vous avez planifié une autre exécution pour cette campagne intelligente. Si cette campagne intelligente contenait des étapes d’envoi d’e-mail, vous les verrez également !
+La campagne intelligente est maintenant planifiée pour une autre exécution. S’il contient des étapes d’envoi d’e-mail, elles s’affichent également ici.
