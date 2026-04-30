@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: Obtenez de l’aide sur les raccourcis clavier de Marketo pour la navigation par zone, le calendrier, etc. Utilisez des raccourcis pour vous déplacer plus rapidement dans Marketo Engage.
+hide: true
+hidefromtoc: true
 title: Glossaire des raccourcis clavier
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 17%
 
 ---
 
 # Glossaire des raccourcis clavier {#keyboard-shortcuts-glossary}
 
-Êtes-vous un utilisateur de raccourcis clavier ? On t&#39;a couvert !
+Utilisez ces raccourcis clavier pour naviguer plus rapidement dans Marketo.
 
 ## Navigation de zone {#area-navigation}
 
@@ -41,4 +43,4 @@ ht-degree: 17%
 |---|---|
 | ÉCHAP | Fermer le pop-up |
 | Entrée/Retour | Envoyer le pop-up |
-| Ctrl + Alt/Opt + H | Masquer/Afficher un champ dans l’éditeur de formulaires |
+| Ctrl + Alt/Opt + H | Masquer ou afficher un champ dans l’éditeur de formulaires |

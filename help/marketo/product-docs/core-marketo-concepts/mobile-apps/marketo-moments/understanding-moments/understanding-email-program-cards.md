@@ -4,9 +4,9 @@ description: Découvrez les cartes de programme d’e-mail dans Marketo Moments.
 title: Présentation des vignettes de programme d’e-mail
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '386'
 ht-degree: 4%
 
 ---
@@ -51,7 +51,7 @@ Une fois l’e-mail envoyé, la carte affiche d’autres informations utiles, no
 
    >[!NOTE]
    >
-   >Maintenant, votre carte devient orange !
+   >La carte devient orange.
 
 ## Annulation de l’envoi d’une carte de messagerie {#canceling-an-email-card-send}
 
@@ -83,7 +83,7 @@ Vous pouvez reprogrammer des cartes e-mail confirmées ou non confirmées.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   Tant que vous disposez d&#39;un service sans fil, vous pouvez reprogrammer n&#39;importe où !
+   Avec une connexion sans fil, la replanification est possible depuis n&#39;importe quel endroit.
 
 ## Envoi d’un exemple {#sending-a-sample}
 
@@ -109,7 +109,7 @@ Cliquez avec le bouton droit sur une carte d’e-mail pour la prévisualiser.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   De cette façon, vous savez que votre e-mail est parfait avant de tirer sur la gâchette !
+   Cela permet de vérifier que l’e-mail s’affiche correctement avant envoi.
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 

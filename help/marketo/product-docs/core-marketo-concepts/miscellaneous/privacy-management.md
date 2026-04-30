@@ -2,9 +2,9 @@
 description: Découvrez les outils de gestion de la confidentialité dans Marketo Engage pour le RGPD, le CCPA, etc. Gérez les demandes d’accès et de suppression afin de respecter les réglementations.
 title: Gestion de la confidentialité
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '439'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage propose un ensemble d’outils pour vous aider à vous conformer 
 >
 >**-ou-**
 >
->* les utilisateurs de Marketo Engage qui utilisent un autre produit Experience Cloud déjà présent dans le système Adobe Identity Management (par exemple, les éditions RT-CDP, B2B et B2P, Audience Manager).
+>* les utilisateurs de Marketo Engage qui utilisent un autre produit Experience Cloud déjà sur le système Adobe Identity Management (par exemple, les éditions RT-CDP, B2B et B2P, Audience Manager).
 
 ## Règlements relatifs à la gestion de la confidentialité {#regulations-on-privacy-management}
 
@@ -40,6 +40,6 @@ Toutes les réglementations ci-dessus s’appliquent aux clients Marketo Engage 
 Pour faciliter la préparation à la protection des données, Marketo Engage permet désormais de gérer les demandes d’**accès** et de **suppression**.
 
 * Le **droit d’accès** permet au titulaire de données de demander au contrôleur de données si les données personnelles le concernant sont traitées ou non, et lorsqu’elles le sont, où et à quelles fins. Le contrôleur de données fournit gratuitement une copie des données à caractère personnel sous forme électronique.
-* Également appelé « effacement des données », le **droit à l’oubli** (demande de suppression) autorise le titulaire des données à demander au contrôleur de données d’effacer ses données personnelles, de cesser la diffusion des données et de faire cesser éventuellement le traitement des données par des tiers.
+* Également appelé « effacement des données », le **droit à l’oubli** (demande de suppression) autorise le titulaire des données à demander au contrôleur de données d’effacer ses données personnelles, de cesser la diffusion des données et de faire éventuellement cesser le traitement des données par des tiers.
 
-Pour découvrir comment créer des demandes d’accès/de suppression et comment nous les traitons, consultez [cet article](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Pour savoir comment créer des demandes d’accès ou de suppression et comment elles sont traitées, consultez [cet article](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

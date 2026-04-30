@@ -4,10 +4,10 @@ description: Découvrez comment filtrer le calendrier marketing par espace de tr
 title: Filtrage du calendrier marketing par espace de travail
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 16%
+source-wordcount: '79'
+ht-degree: 15%
 
 ---
 
@@ -19,11 +19,11 @@ Le calendrier marketing peut être filtré par objets dans des espaces de travai
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Dans le panneau de filtrage, sélectionnez la liste déroulante **[!UICONTROL Workspace]**. Choisissez l’espace de travail de votre choix.
+1. Dans le panneau de filtrage, sélectionnez la liste déroulante ****. Choisissez l’espace de travail de votre choix.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   Fantastique ! Désormais, seuls les objets créés dans cet espace de travail spécifique s’affichent.
+   Seuls les objets créés dans cet espace de travail seront désormais visibles.
 
    >[!NOTE]
    >

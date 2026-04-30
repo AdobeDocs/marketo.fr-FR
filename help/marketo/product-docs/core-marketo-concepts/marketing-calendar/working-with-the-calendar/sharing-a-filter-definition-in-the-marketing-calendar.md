@@ -4,10 +4,10 @@ description: Découvrez comment partager une définition de filtre dans le calen
 title: Partage d’une définition de filtre dans le calendrier marketing
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
@@ -22,9 +22,9 @@ Les filtres peuvent être partagés entre différents utilisateurs.
 
 >[!NOTE]
 >
-> Si vous apportez une modification à un filtre enregistré, veillez à le partager à nouveau ; vos modifications ne seront pas répercutées pour les autres utilisateurs tant que vous ne l’aurez pas fait.
+> Si vous apportez une modification à un filtre enregistré, partagez-le à nouveau ; vos modifications ne seront pas répercutées pour les autres utilisateurs tant que vous ne l’aurez pas fait.
 
-1. Sélectionnez le filtre que vous souhaitez partager.
+1. Sélectionnez le filtre à partager.
 
    ![](assets/image2014-9-24-11-3a31-3a19.png)
 

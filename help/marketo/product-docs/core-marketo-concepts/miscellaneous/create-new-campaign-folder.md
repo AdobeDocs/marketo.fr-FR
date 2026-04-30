@@ -3,16 +3,16 @@ unique-page-id: 2953207
 description: Découvrez comment créer un dossier de campagne dans les activités marketing. Organisez votre espace de travail avec des dossiers de campagne pour l’automatisation et les ressources.
 title: Créer un dossier de campagne
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 17%
+source-wordcount: '110'
+ht-degree: 20%
 
 ---
 
 # Créer un dossier de campagne {#create-new-campaign-folder}
 
-Les dossiers Campaign vous aident à garder un espace de travail propre. Suivez ces étapes simples et vous êtes sur la voie de la magie de l&#39;automatisation.
+Les dossiers Campaign vous aident à garder un espace de travail propre. Pour commencer, procédez comme suit.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -38,11 +38,11 @@ Les dossiers Campaign vous aident à garder un espace de travail propre. Suivez 
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Génial ! Vous venez de créer un dossier de campagne. Regarde dans l&#39;arbre.
+   Le dossier des campagnes apparaît dans l’arborescence.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Désormais, lorsque vous [créez un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), ce dossier de campagne s’affiche en tant qu’option.
+   Désormais, lors de la [création d’un programme](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), ce dossier de campagne apparaît comme une option.
 
 >[!MORELIKETHIS]
 >

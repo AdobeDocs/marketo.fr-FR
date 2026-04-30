@@ -4,9 +4,9 @@ description: Découvrez comment personnaliser une présentation de calendrier ma
 title: Personnaliser une présentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '284'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ Les présentations passent d&#39;une définition de filtre à l&#39;autre [défi
 
 ## Ajouter un objectif {#add-a-goal}
 
-Les présentations sont les plus impressionnantes quand elles affichent les objectifs de votre équipe. Faites simplement glisser sur différents [objectifs personnalisés](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} ou [objectifs de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Vous pouvez en utiliser jusqu’à 10.
+Les présentations sont plus efficaces lorsqu’elles affichent les objectifs de l’équipe. Faites glisser sur différents [objectifs personnalisés](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} ou [objectifs de liste dynamique](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Vous pouvez en utiliser jusqu’à 10.
 
 1. Dans l&#39;arborescence de droite, faites glisser les différents objectifs que vous souhaitez afficher dans votre présentation.
 
@@ -44,7 +44,7 @@ Les présentations sont les plus impressionnantes quand elles affichent les obje
 
 ## Régler la fréquence de rotation {#set-the-frequency-of-rotation}
 
-Une fois que vous avez extrait les vues souhaitées dans la présentation, définissez la fréquence de rotation entre les différentes vues.
+Une fois les vues extraites, définissez la fréquence de rotation entre les différentes vues.
 
 1. Cliquez sur **[!UICONTROL 5 minutes]** (cadence par défaut).
 
@@ -66,11 +66,9 @@ L’affichage du calendrier peut être remplacé par un affichage mensuel ou sur
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Génial ! Prêt à voir votre présentation ?
-
 >[!TIP]
 >
->Définissez une [image d’arrière-plan](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} pour votre présentation. Nous vous suggérons des chatons ou des arcs-en-ciel.
+>Définissez une [image d’arrière-plan](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} pour votre présentation.
 
 ## Prévisualisation d&#39;une présentation {#preview-a-presentation}
 
@@ -80,11 +78,11 @@ Une fois la présentation configurée, elle est prête à être prévisualisée 
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   Et voilà ! Voici à quoi pourrait ressembler votre présentation.
+   Voici à quoi pourrait ressembler votre présentation.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   Vous n&#39;aimez pas ce que vous voyez ? Revenez en arrière et utilisez différentes définitions de filtre pour créer la vue de votre choix.
+   Pour ajuster l’affichage, utilisez différentes définitions de filtre.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Découvrez comment supprimer une présentation de calendrier market
 title: Supprimer une présentation
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 11%
+source-wordcount: '44'
+ht-degree: 13%
 
 ---
 
 # Supprimer une présentation {#delete-a-presentation}
 
-Parfois, on peut avoir trop de bonnes choses. Supprimez les anciennes présentations pour faire de la place aux nouvelles !
+Supprimez les anciennes présentations pour en faire de nouvelles.
 
 1. Sélectionnez une présentation.
 

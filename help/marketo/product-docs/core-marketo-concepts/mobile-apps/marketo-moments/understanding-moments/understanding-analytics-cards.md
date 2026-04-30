@@ -4,9 +4,9 @@ description: En savoir plus sur les cartes Analytics dans les moments Marketo. A
 title: Présentation des vignettes d’analyse
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '311'
 ht-degree: 2%
 
 ---
@@ -33,11 +33,11 @@ Appuyez sur une carte Analytics pour afficher :
 * Comparaison mois par mois
 * Graphique à barres du maximum ou des trois premiers (selon la carte)
 
-Par exemple, examinons les détails de la carte Analytics [!UICONTROL Leads acquis] :
+Voici, par exemple, les détails de la carte Analytics [!UICONTROL Leads acquis] :
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-Dans cet exemple, le rouge indique que la valeur a diminué au cours de la période sélectionnée (oh !). Le vert indique que la valeur a augmenté (yay !).
+Dans cet exemple, la couleur rouge indique que la valeur a diminué au cours de la période sélectionnée. Le vert indique que la valeur a augmenté.
 
 ## [!UICONTROL Leads acquis] {#acquired-leads}
 

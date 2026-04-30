@@ -4,16 +4,16 @@ description: Découvrez comment intégrer des personnes à votre événement à 
 title: Enregistrer des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '880'
 ht-degree: 2%
 
 ---
 
 # Enregistrer des personnes dans votre événement à partir de votre tablette {#check-people-into-your-event-from-your-tablet}
 
-Lorsque les gens se présentent à votre événement, vous pouvez trouver leurs informations sur l&#39;application. Après l’enregistrement, ils sont promus au statut Participants lorsque vous effectuez une synchronisation avec Marketo.
+Lorsque les gens se présentent à votre événement, vous pouvez trouver leurs informations sur l&#39;application. Après l’enregistrement, ils sont promus au statut Participant lorsque vous effectuez une synchronisation avec Marketo.
 
 >[!IMPORTANT]
 >
@@ -81,7 +81,7 @@ L’invité possède désormais le statut Terminé et reçoit une coche. L’enr
 
 >[!TIP]
 >
->Si une personne est invitée mais ne s’est pas enregistrée, vous pouvez rechercher le nom en cliquant sur **[!UICONTROL Rechercher sur le serveur]**, juste en dessous de la zone de recherche. Le statut Invité passe à **[!UICONTROL Participé]** pour l’événement.
+>Si une personne est invitée mais ne s’est pas enregistrée, vous pouvez rechercher le nom en cliquant sur **[!UICONTROL Rechercher sur le serveur]**, sous la zone de recherche. Le statut Invité passe à **[!UICONTROL Participé]** pour l’événement.
 
 ## Créer une nouvelle personne sur la tablette {#create-a-new-person-on-the-tablet}
 
@@ -103,7 +103,7 @@ Vous pouvez ajouter manuellement des invités qui ne sont pas des personnes exis
 
    >[!NOTE]
    >
-   >Vous ne pouvez utiliser que les champs existants. Vous ne pouvez pas en créer de personnalisés.
+   >Seuls les champs existants sont disponibles. Impossible de créer les champs personnalisés.
 
    >[!CAUTION]
    >
@@ -119,11 +119,10 @@ Si vous avez archivé une personne par erreur, _avant la synchronisation avec Ma
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   Tout est arrangé !
 
 ## Modifier un enregistrement de personne lors de l’enregistrement {#edit-a-person-record-at-check-in}
 
-Vous pouvez ajouter et modifier des informations sur les invités, dès l&#39;événement !
+Vous pouvez ajouter et modifier des informations sur les invités à l’événement.
 
 1. Appuyez sur le nom dans la liste des personnes, puis sur **[!UICONTROL Modifier]**.
 
@@ -145,7 +144,7 @@ L’application Marketo Events fonctionne indépendamment jusqu’à ce que vous
 
 >[!CAUTION]
 >
->Une fois la synchronisation effectuée, vous ne pouvez pas annuler un enregistrement à partir de l’application.
+>Après la synchronisation, il n’est pas possible d’annuler un enregistrement à partir de l’application.
 
 1. Sur votre tablette, ouvrez l’application et accédez à votre événement.
 
@@ -157,7 +156,7 @@ L’application Marketo Events fonctionne indépendamment jusqu’à ce que vous
 
 ## Utilisation d’un accès Internet limité {#working-with-limited-internet-access}
 
-Certains établissements ont un accès internet de mauvaise qualité. Vous avez besoin d’une bonne connexion vers :
+Certains endroits ont un mauvais accès à Internet. Vous avez besoin d’une bonne connexion vers :
 
 * Télécharger et installer l’application
 * Se connecter
@@ -168,7 +167,7 @@ Si vous êtes préoccupé par l&#39;accès à Internet sur le site, vous pouvez 
 
 >[!TIP]
 >
->Si vous ne disposez pas d&#39;une connexion Internet, vous pouvez toujours créer une nouvelle personne pour une personne qui s&#39;enregistre. Il se réconciliera avec la personne existante lorsque vous synchroniserez l&#39;application.
+>S’il n’existe aucune connexion Internet, une nouvelle personne peut toujours être créée pour une personne qui s’enregistre. Il se réconciliera avec la personne existante lorsque vous synchroniserez l’application.
 
 >[!NOTE]
 >

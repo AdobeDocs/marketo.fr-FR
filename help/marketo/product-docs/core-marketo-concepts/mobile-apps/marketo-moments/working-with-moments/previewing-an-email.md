@@ -4,16 +4,16 @@ description: Découvrez comment prévisualiser un e-mail dans les moments Market
 title: Prévisualisation d’un e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
 
 # Prévisualisation d’un e-mail {#previewing-an-email}
 
-Cliquez avec le bouton droit de la souris sur une carte d’e-mail pour la prévisualiser, avant de tirer sur le déclencheur.
+Cliquez avec le bouton droit de la souris sur une carte d’e-mail pour la prévisualiser avant l’envoi.
 
 >[!IMPORTANT]
 >

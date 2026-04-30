@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: Découvrez les dossiers dans les programmes pour organiser des campagnes intelligentes et des ressources. Créer, renommer et supprimer des dossiers.
 title: Présentation des dossiers
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 5%
+source-wordcount: '274'
+ht-degree: 4%
 
 ---
 
@@ -28,11 +28,9 @@ Les dossiers d’un programme peuvent être utilisés pour organiser vos campagn
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-Fantastique ! Vous disposez désormais d’un nouveau dossier pour stocker vos ressources locales.
+Le nouveau dossier est maintenant prêt pour vos ressources locales.
 
 ## Renommer un dossier {#rename-a-folder}
-
-Ça ne me dérange pas de changer d&#39;avis.
 
 1. Cliquez avec le bouton droit sur le dossier et sélectionnez **[!UICONTROL Renommer le dossier]**.
 

@@ -4,9 +4,9 @@ description: En savoir plus sur les cartes de campagne intelligentes dans les mo
 title: Présentation des vignettes de campagne intelligente
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Utilisez les moments Marketo pour afficher chaque exécution de vos campagnes in
 >
 >Le 2 octobre 2023, Adobe a supprimé l’application Marketo Moments de tous les magasins d’applications. Si l’application est déjà installée sur votre tablette ou votre appareil mobile, vous pouvez continuer à l’utiliser pour le moment. Une fois votre instance Marketo Engage migrée vers Adobe Identity pour l’authentification de Marketo, vous ne pourrez plus accéder à l’application. [En savoir plus](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Pour les futures campagnes intelligentes qui sont planifiées, mais qui n’ont pas encore été exécutées, la carte Marketo Moments n’affiche pas encore de statistiques de campagne. Ils apparaîtront dans une prochaine version.
+Pour les futures campagnes intelligentes qui sont planifiées, mais qui n’ont pas encore été exécutées, la carte Marketo Moments n’affiche pas encore de statistiques de campagne. Elles apparaîtront dans une version ultérieure.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -43,7 +43,7 @@ Pour les futures campagnes intelligentes qui sont planifiées, mais qui n’ont 
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Maintenant, vous verrez le flux de la campagne intelligente. Cette campagne ne comporte qu’une seule étape de flux, mais il peut y en avoir plusieurs.
+1. Le flux de la campagne intelligente est affiché ici. Cette campagne ne comporte qu’une seule étape de flux, mais il peut y en avoir plusieurs.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -55,7 +55,7 @@ Pour les futures campagnes intelligentes qui sont planifiées, mais qui n’ont 
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Tu vois ces deux points en bas ? Elles indiquent que deux e-mails sont connectés à cette campagne intelligente. Pour afficher les résultats de l’autre e-mail, faites glisser l’écran vers la gauche. Voici les résultats du deuxième e-mail.
+1. Les deux points en bas indiquent que deux e-mails sont connectés à cette campagne intelligente. Pour afficher les résultats de l’autre e-mail, faites glisser l’écran vers la gauche. Voici les résultats du deuxième e-mail.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -65,7 +65,7 @@ Pour les futures campagnes intelligentes qui sont planifiées, mais qui n’ont 
 
 ## Création d’exemples et d’aperçus d’e-mails {#creating-email-samples-and-previews}
 
-C&#39;est une bonne idée de jeter un coup d&#39;œil à un courriel avant qu&#39;il soit envoyé. Ou, envoyez un échantillon à quelqu&#39;un d&#39;autre pour avoir un deuxième regard dessus.
+Il est préférable de consulter un e-mail avant qu’il ne soit envoyé. Ou, envoyez un échantillon à quelqu&#39;un d&#39;autre pour avoir un deuxième regard dessus.
 
 1. Appuyez sur le menu d’action à trois points d’un e-mail.
 
@@ -93,7 +93,7 @@ Les cartes des campagnes intelligentes non confirmées sont grises jusqu’à ce
 
    >[!NOTE]
    >
-   >Maintenant, votre carte devient orange !
+   >La carte devient orange.
 
 ## Annulation d’une exécution de campagne intelligente {#canceling-a-smart-campaign-run}
 
@@ -127,8 +127,6 @@ Vous pouvez replanifier une campagne dynamique confirmée qui n’a pas encore �
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   Un morceau de gâteau !
-
 ## Autres actions de campagne intelligente {#other-smart-campaign-actions}
 
 Comme pour les autres cartes Marketo Moments , vous pouvez appuyer sur les trois points d’une carte Smart Campaign ou d’une carte de détails pour :
@@ -145,4 +143,4 @@ Comme pour les autres cartes Marketo Moments , vous pouvez appuyer sur les trois
 
 ## Suppression rapide d’une carte Smart Campaign {#quickly-delete-a-smart-campaign-card}
 
-Si vous avez une carte dont vous n&#39;avez plus besoin, peut-être une que vous avez utilisée pour les tests, vous pouvez vous en débarrasser en balayant rapidement vers la gauche ou la droite.
+Si vous avez une carte dont vous n’avez plus besoin, par exemple une que vous avez utilisée pour les tests, vous pouvez la retirer en balayant rapidement vers la gauche ou la droite.

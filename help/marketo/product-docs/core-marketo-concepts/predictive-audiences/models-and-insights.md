@@ -3,10 +3,10 @@ description: Découvrez les modèles d’audiences prédictives et les facteurs 
 title: Modèles et insights
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 3%
+source-wordcount: '234'
+ht-degree: 5%
 
 ---
 
@@ -18,13 +18,13 @@ Les performances de vos modèles dépendent de la qualité et de l’exhaustivit
 >
 >Les comportements marqués d’un signe (+) influencent positivement les prédictions (et inversement).
 
-Voici comment évaluer la santé de votre modèle.
+Utilisez les éléments suivants pour évaluer l’intégrité de votre modèle.
 
-Accédez à la section **[!UICONTROL Modèles et intégrité des données]** sous **[!UICONTROL Audiences prédictives]** dans la zone **[!UICONTROL Admin]** de Marketo Engage. Vous trouverez ici tous vos modèles et leurs états.
+Accédez à la section **[!UICONTROL Modèles et intégrité des données]** sous **[!UICONTROL Audiences prédictives]** dans la zone **[!UICONTROL Admin]** de Marketo Engage. Tous les modèles et leurs statuts sont affichés ici.
 
 ![Image Un](assets/models-and-insights-1.png)
 
-* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les deux semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _en échec_, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les deux semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _Failed_, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Statut de notation** : indique si votre modèle calcule activement des prédictions (pourcentages de vraisemblance) pour les membres du programme.
 * **Performances** : catégorisation de l’intégrité de votre modèle en fonction de l’exhaustivité des données et de la qualité des données (voir ci-dessous).
 * **Exhaustivité des données** : pourcentage d’attributs de données présents/complets.

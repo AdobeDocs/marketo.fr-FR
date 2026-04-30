@@ -4,16 +4,16 @@ description: Découvrez comment confirmer les entrées provisoires de la campagn
 title: Confirmer des entrées directement dans le calendrier marketing
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 16%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 
 # Confirmer des entrées directement dans le calendrier marketing {#confirm-entries-directly-in-the-marketing-calendar}
 
-Les campagnes intelligentes et les programmes de messagerie peuvent être créés en tant qu’entrées provisoires et doivent être confirmés pour que tout se produise réellement. Voici comment faire.
+Les campagnes intelligentes et les programmes de messagerie peuvent être créés en tant qu’entrées provisoires et doivent être confirmés pour que tout se produise réellement.
 
 1. Accédez au **[!UICONTROL Calendrier]**.
 
@@ -23,7 +23,7 @@ Les campagnes intelligentes et les programmes de messagerie peuvent être créé
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
-1. Continuez et confirmez l’entrée.
+1. Confirmez l’entrée.
 
    ![](assets/image2014-10-20-13-3a22-3a26.png)
 

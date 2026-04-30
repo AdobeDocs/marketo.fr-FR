@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147255
 description: Découvrez comment émettre ou révoquer une licence de calendrier marketing pour les utilisateurs. Accorder ou supprimer l’accès au calendrier.
-title: Émettre et révoquer une licence de calendrier marketing
+title: Émettre ou révoquer une licence de calendrier marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 15%
+source-wordcount: '108'
+ht-degree: 2%
 
 ---
 
-# Émettre et révoquer une licence de calendrier marketing {#issue-revoke-a-marketing-calendar-license}
+# Émettre ou révoquer une licence de calendrier marketing {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**Autorisations d’administration requises**
 
-Pour utiliser vos places [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, vous devez attribuer des licences aux utilisateurs qui ont besoin d’un accès. Voici comment faire.
+Pour utiliser vos places [Calendrier marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, vous devez attribuer des licences aux utilisateurs qui ont besoin d’un accès.
 
 1. Accédez à la section **[!UICONTROL Admin]**.
 
@@ -39,10 +39,10 @@ Pour utiliser vos places [Calendrier marketing](/help/marketo/product-docs/core-
 
    >[!NOTE]
    >
-   >Il y a une limite de 5 licences. Pour en savoir plus, veuillez contacter votre représentant commercial.
+   >Il y a une limite de 5 licences. Pour en savoir plus, contactez votre représentant commercial.
 
    ![](assets/4.png)
 
-   Bien joué ! Voir la coche verte sous « [!UICONTROL Calendrier] ? »
+   La coche verte devrait maintenant apparaître sous &#39;[!UICONTROL Calendrier].&#39;
 
    ![](assets/5.png)

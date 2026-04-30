@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: Découvrez le sandbox Marketo Engage à des fins de test avant la production. Utilisez une instance sandbox pour effectuer des tests sans affecter la production.
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -29,12 +29,12 @@ Un sandbox Marketo ne peut pas être synchronisé avec votre CRM standard s’il
 
 >[!CAUTION]
 >
->Nous ne prenons pas en charge l’actualisation du sandbox pour la synchronisation de Marketo Dynamics _ou_ Salesforce pour le moment. Si vous devez actualiser votre sandbox CRM, un nouveau sandbox Marketo est requis. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>L’actualisation du sandbox pour la synchronisation de Marketo Dynamics _ou_ Salesforce n’est pas prise en charge pour le moment. Si vous devez actualiser votre sandbox CRM, un nouveau sandbox Marketo est requis. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 ## Copie d’instance {#instance-copy}
 
-Vous pouvez envoyer un dossier d’assistance demandant une copie d’instance unique pour remplir votre sandbox. Cependant, la copie d’instance ne transportera pas _tout_. Veuillez consulter le support technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) pour plus d&#39;informations.
+Vous pouvez envoyer un dossier d’assistance demandant une copie d’instance unique pour remplir votre sandbox. Cependant, la copie d’instance ne transportera pas _tout_. Pour plus d’informations, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >
->Si vous modifiez votre CRM natif, une nouvelle instance Marketo est nécessaire et une copie d’instance vers la nouvelle instance Marketo n’est pas possible. Au lieu de cela, veuillez travailler avec le support Marketo pour explorer la fonctionnalité du programme d’importation.
+>Si vous modifiez votre CRM natif, une nouvelle instance Marketo est nécessaire et une copie d’instance vers la nouvelle instance Marketo n’est pas possible. Au lieu de cela, travaillez avec la prise en charge de Marketo pour explorer la fonctionnalité de programme d’importation.

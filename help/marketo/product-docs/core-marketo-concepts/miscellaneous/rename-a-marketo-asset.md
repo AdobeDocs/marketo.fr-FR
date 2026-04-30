@@ -3,16 +3,16 @@ unique-page-id: 2952484
 description: Découvrez comment renommer des dossiers, des programmes et des ressources locales dans Marketo Engage.
 title: Renommer une ressource Marketo
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '85'
 ht-degree: 11%
 
 ---
 
 # Renommer une ressource Marketo {#rename-a-marketo-asset}
 
-Les dossiers, programmes et ressources locales peuvent tous être facilement renommés.
+Les dossiers, programmes et ressources locales peuvent tous être renommés.
 
 1. Sélectionnez une ressource à renommer, puis cliquez sur le bloc de nom du panneau de droite.
 

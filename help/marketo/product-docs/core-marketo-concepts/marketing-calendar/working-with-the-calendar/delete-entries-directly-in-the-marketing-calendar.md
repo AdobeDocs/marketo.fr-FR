@@ -4,16 +4,16 @@ description: Découvrez comment supprimer directement des entrées du calendrier
 title: Supprimer des entrées directement dans le calendrier marketing
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 19%
+source-wordcount: '79'
+ht-degree: 17%
 
 ---
 
 # Supprimer des entrées directement dans le calendrier marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Outre les entrées [création](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} et [modification](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, vous pouvez les supprimer directement dans le calendrier marketing. Voici comment faire.
+Outre les entrées [création](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} et [modification](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, vous pouvez les supprimer directement dans le calendrier marketing.
 
 1. Cliquez sur la mosaïque **MU**.
 
@@ -27,7 +27,7 @@ Outre les entrées [création](/help/marketo/product-docs/core-marketo-concepts/
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-Selon l’entrée, vous devrez peut-être confirmer la suppression. Mais c&#39;est tout !
+Selon l’entrée, vous devrez peut-être confirmer la suppression.
 
 >[!MORELIKETHIS]
 >

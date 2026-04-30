@@ -4,16 +4,16 @@ description: Découvrez comment accorder aux utilisateurs l’accès à l’appl
 title: Accorder à des utilisateurs et utilisatrices l’accès à l’application d’enregistrement
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '308'
 ht-degree: 5%
 
 ---
 
 # Accorder à des utilisateurs et utilisatrices l’accès à l’application d’enregistrement {#grant-users-access-to-the-check-in-app}
 
-Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’application d’enregistrement d’événement. Voici comment créer un rôle avec l’autorisation d’utiliser l’application.
+Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’application d’enregistrement d’événement. Suivez les étapes ci-dessous pour créer un rôle avec l’autorisation d’utiliser l’application.
 
 >[!IMPORTANT]
 >

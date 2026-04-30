@@ -2,10 +2,10 @@
 description: Découvrez comment gérer les demandes d’accès et de suppression relatives à la confidentialité dans Marketo. Envoyez les requêtes via l’interface utilisateur ou l’API Privacy Service et traitez les données des clients.
 title: Demandes d’accès à des informations personnelles
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 15%
+source-wordcount: '371'
+ht-degree: 21%
 
 ---
 
@@ -21,16 +21,14 @@ Ce document offre une vue d’ensemble de la gestion des demandes individuelles 
 >
 >**-ou-**
 >
->* les utilisateurs de Marketo Engage qui utilisent un autre produit Experience Cloud déjà présent dans le système Adobe Identity Management (par exemple, les éditions RT-CDP, B2B et B2P, Audience Manager).
+>* les utilisateurs de Marketo Engage qui utilisent un autre produit Experience Cloud déjà sur le système Adobe Identity Management (par exemple, les éditions RT-CDP, B2B et B2P, Audience Manager).
 
 Vous pouvez envoyer des requêtes individuelles pour accéder aux données des clients et les supprimer de Marketo Engage de deux manières :
 
 * Via l’interface utilisateur de Privacy Service : `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Consultez la documentation [ici](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=fr){target="_blank"}.
 * Via l’API Privacy Service. Consultez la documentation [ici](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} et les informations sur l’API [ici](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr){target="_blank"} prend en charge deux types de demandes : l&#39;accès aux données et la suppression des données.
-
-Voyons comment créer des demandes d’accès et de suppression.
+[](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr){target="_blank"} prend en charge deux types de demandes : l&#39;accès aux données et la suppression des données.
 
 ## Configuration requise pour envoyer des demandes pour Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
@@ -38,10 +36,10 @@ Pour envoyer des demandes d’accès et de suppression de données pour Marketo 
 
 1. Identifier les éléments suivants :
 
-   a. ID d’organisation IMS<br/>
+   a. Identifiant de l’organisation IMS<br/>
 b. Adresse e-mail de la personne sur laquelle vous souhaitez agir
 
-   Un identifiant de l’organisation IMS est une chaîne alphanumérique de 24 caractères à laquelle est ajouté @AdobeOrg. Si votre équipe marketing ou votre administrateur système interne Adobe ne connaît pas l’ID d’organisation IMS de votre organisation, contactez l’assistance clientèle d’Adobe à l’adresse `gdprsupport@adobe.com`. Vous avez besoin de l’identifiant d’organisation IMS pour envoyer des requêtes à l’API Privacy.
+   Un identifiant de l’organisation IMS est une chaîne alphanumérique de 24 caractères à laquelle est ajouté @AdobeOrg. Si votre équipe marketing ou votre administrateur système interne Adobe ne connaît pas l’ID d’organisation IMS de votre organisation, contactez l’assistance Adobe à l’adresse `gdprsupport@adobe.com`. Vous avez besoin de l’identifiant d’organisation IMS pour envoyer des requêtes à l’API Privacy.
 
 1. Dans Privacy Service, vous pouvez envoyer des demandes d’accès et de suppression à Marketo Engage et vérifier le statut des demandes existantes.
 

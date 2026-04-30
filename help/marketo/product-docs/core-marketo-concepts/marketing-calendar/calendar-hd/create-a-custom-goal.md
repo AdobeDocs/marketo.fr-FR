@@ -4,9 +4,9 @@ description: Découvrez comment créer un objectif personnalisé dans le calendr
 title: Créer un objectif personnalisé
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 6%
 
 ---
@@ -45,6 +45,6 @@ Comme pour les présentations, les objectifs sont spécifiques à [espace de tra
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
-   Votre objectif personnalisé a été créé !
+   Votre objectif personnalisé a été créé.
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)

@@ -4,16 +4,16 @@ description: Découvrez comment créer un objectif de liste dynamique dans le ca
 title: Créer un objectif de liste intelligente
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '155'
 ht-degree: 6%
 
 ---
 
 # Créer un objectif de liste intelligente {#create-a-smart-list-goal}
 
-Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Ils peuvent être associés à des listes intelligentes pour effectuer le suivi de toutes sortes de choses dans Marketo. De plus, une fois que vous avez configuré un objectif de liste dynamique, il sera automatiquement mis à jour toutes les 2 heures lorsqu’il sera utilisé dans une présentation.
+Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Elles peuvent être combinées à des listes intelligentes pour effectuer le suivi de diverses mesures dans Marketo. De plus, une fois qu’un objectif de liste dynamique a été configuré, il est automatiquement mis à jour toutes les 2 heures lorsqu’il est utilisé dans une présentation.
 
 Comme pour les présentations, les objectifs sont spécifiques à [espace de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
@@ -37,14 +37,14 @@ Comme pour les présentations, les objectifs sont spécifiques à [espace de tra
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Définissez la liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). Les possibilités sont infinies !
+1. [Définissez la liste dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
    ![](assets/mql.png)
 
-1. Une fois la liste dynamique définie, cliquez sur le bouton **[!UICONTROL Fermer]** et revenez à l’onglet précédent.
+1. Une fois la liste dynamique configurée, cliquez sur le bouton **[!UICONTROL Fermer]** et revenez à l’onglet précédent.
 
    ![](assets/mql2.png)
 
-   Regarde ça ! Votre objectif de liste dynamique a été créé.
+   L’objectif de liste dynamique a été créé.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)

@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: Découvrez les notifications Marketo Engage pour les échecs de campagne et la synchronisation CRM. Abonnez-vous pour recevoir des alertes par e-mail et rester à jour.
 title: Présentation des notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---
@@ -44,8 +44,8 @@ Vous pouvez vous abonner à des notifications pour les recevoir dans votre e-mai
 >
 >La zone _[!UICONTROL Envoyer à]_ vous permet uniquement de saisir une adresse e-mail ; elle n’affiche pas de liste des abonnés existants.
 
-Dans certains cas, une notification fournit un lien « Voir la liste complète » pour télécharger un fichier de valeurs séparées par des virgules (CSV), par exemple, le fichier des erreurs de synchronisation Microsoft Dynamics. Marketo Engage conserve ces fichiers CSV pendant 30 jours. Si vous tentez de télécharger le fichier après 30 jours, une erreur s’affiche.
+Dans certains cas, une notification fournit un lien « Voir la liste complète » pour télécharger un fichier de valeurs séparées par des virgules (CSV), par exemple, le fichier des erreurs de synchronisation Microsoft Dynamics. Marketo Engage conserve ces fichiers CSV pendant 30 jours. Si vous tentez de télécharger le fichier après 30 jours, une erreur se produit.
 
 >[!TIP]
 >
->Vous souhaitez vous désabonner des e-mails de notification ? Pas de problème. Il vous suffit de cliquer sur le lien **[!UICONTROL se désabonner des notifications]** au bas de l’e-mail de notification.
+>Pour vous désabonner des e-mails de notification, cliquez sur le lien **[!UICONTROL se désabonner des notifications]** au bas de l’e-mail de notification.

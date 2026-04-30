@@ -4,16 +4,16 @@ description: Découvrez comment marquer un moment comme terminé dans l’applic
 title: Marquage d’éléments comme terminés
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 5%
+source-wordcount: '171'
+ht-degree: 4%
 
 ---
 
 # Marquage d’éléments comme terminés {#marking-it-done}
 
-Marquez un programme de messagerie, un événement ou une carte d’analyse comme [!UICONTROL &#x200B; Terminé &#x200B;] pour le supprimer de votre flux. Il y a deux façons de le faire.
+Marquez un programme de messagerie, un événement ou une carte d’analyse comme [!UICONTROL  Terminé ] pour le supprimer de votre flux. Il y a deux façons de le faire.
 
 >[!IMPORTANT]
 >

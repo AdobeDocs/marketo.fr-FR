@@ -4,16 +4,16 @@ description: Découvrez les moments Marketo pour savoir ce qui compte quand c’
 title: Présentation des Moments Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 4%
+source-wordcount: '623'
+ht-degree: 2%
 
 ---
 
 # Présentation des Moments Marketo {#understanding-marketo-moments}
 
-La puissance de Marketo est désormais à votre disposition ! Prévisualiser et replanifier les e-mails directement depuis votre téléphone ou iPad.
+Le pouvoir de Marketo est désormais entre vos mains. Prévisualiser et replanifier les e-mails directement depuis votre téléphone ou iPad.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Voici les différents flux de Moments.
 >* [!UICONTROL Plus tard] : tout ce qui se passe après ce moment est placé ici.
 >* [!UICONTROL Terminé] : tout ce qui a terminé l’exécution ou que vous avez marqué comme terminé est placé ici.
 
-Bon, maintenant que nous avons réglé ce problème, jetons un coup d’œil à Marketo Moments sur un téléphone !
+Voici un aperçu de Marketo Moments sur un téléphone.
 
 ## Trois types de cartes {#three-kinds-of-cards}
 
@@ -48,11 +48,11 @@ Marketo Moments vous propose trois cartes différentes pour suivre la progressio
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heart-beat]** - Bonjour, cet e-mail est en cours de diffusion. Et voici aussi des statistiques. Allez-y et partagez-le.
+**[!UICONTROL Heart-beat]** - Cet e-mail est en cours de diffusion, y compris les statistiques. Partagez-le avec votre équipe.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Résultats]** - Voici comment l’e-mail s’est comporté. Une fois l’exécution de l’e-mail terminée, la carte Résultats affiche le score d’engagement et d’autres statistiques.
+**[!UICONTROL Résultats]** - Indique les performances de l’e-mail. Une fois l’exécution de l’e-mail terminée, la carte Résultats affiche le score d’engagement et d’autres statistiques.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -74,7 +74,7 @@ Appuyez sur les trois points pour ouvrir un menu d’action de carte.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Fantastique ! Vous pouvez maintenant faire bouger les choses en appuyant sur :
+Appuyez sur l’un des éléments suivants pour effectuer une action :
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -82,10 +82,10 @@ Fantastique ! Vous pouvez maintenant faire bouger les choses en appuyant sur :
 >
 >**Définition**
 >
->* [!UICONTROL Favori] : Il est facile de prêter attention aux choses les plus opportunes et les plus importantes si vous les faites préférées.
+>* [!UICONTROL Favori] : il est facile de prêter attention aux éléments les plus opportuns et importants si vous les faites favoris.
 >* [!UICONTROL Terminé] : Terminé permet de le supprimer de la vue Moments Marketo (mais en le laissant dans Marketo, sain et sauf).
 >* [!UICONTROL Partager] : envoyez une image pour motiver ou féliciter votre équipe.
->* [!UICONTROL Envoyer un exemple] (e-mail uniquement) : utilisez cette option pour permettre à d’autres personnes de vérifier l’aspect de vos e-mails avant de les envoyer.
+>* [!UICONTROL Envoyer un exemple] (e-mail uniquement) : utilisez cette option pour permettre à d’autres personnes de consulter l’aspect de vos e-mails avant de les envoyer.
 >* [!UICONTROL Prévisualiser l’e-mail] (e-mails uniquement) : il est toujours préférable de consulter vos e-mails à l’avance.
 
 ## Moments Ultérieurs {#later-moments}
@@ -106,13 +106,13 @@ La section Ultérieurement affiche les activités à venir.
 
 ## Cartes de programme d’e-mail {#email-program-cards}
 
-Les cartes de programme d’e-mail affichent des éléments importants tels que le planning, l’audience, le statut et d’autres éléments utiles, même lorsque vous êtes à midi.
+Les cartes de programme d’e-mail affichent des détails clés tels que le planning, l’audience, le statut et d’autres informations utiles, même lorsque vous êtes sorti pour le déjeuner.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
 ## Cartes d’événement {#event-cards}
 
-Pour les événements, vous verrez le nombre total de membres et leur statut.
+Pour les événements, la carte indique le nombre total de membres et leur statut.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
@@ -134,7 +134,7 @@ Les cartes de campagne intelligentes représentent une exécution unique d’une
 
 ## Confirmer ou annuler une action {#confirm-or-cancel-an-action}
 
-À chaque étape, vous pouvez confirmer ou annuler une action. Si vous changez d&#39;avis, appuyez simplement sur **[!UICONTROL Ne vous en faites pas]**.
+À chaque étape, vous pouvez confirmer ou annuler une action. Si vous changez d’avis, appuyez sur **[!UICONTROL Ne vous en faites pas]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -143,9 +143,7 @@ Les cartes de campagne intelligentes représentent une exécution unique d’une
 Marketo Moments prend en charge les versions suivantes du système d’exploitation :
 
 * [!DNL Apple] iOS 8.0 et versions ultérieures.
-* [!DNL Android] version 4.1 et ultérieure (essentiellement Jellybean et versions ultérieures).
-
-Prêt à en apprendre plus ?
+* [!DNL Android] version 4.1 et ultérieure.
 
 >[!MORELIKETHIS]
 >

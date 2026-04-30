@@ -4,16 +4,16 @@ description: Découvrez comment lancer une présentation de calendrier marketing
 title: Lancer une présentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 
 # Lancer une présentation {#launch-a-presentation}
 
-Une fois que vous avez défini les vues et la fréquence de rotation de votre présentation, il est temps de vous déliter !
+Une fois les vues et la fréquence de rotation définies, la présentation est prête à démarrer.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ Une fois que vous avez défini les vues et la fréquence de rotation de votre pr
 
 >[!TIP]
 >
->Veillez à _Prévisualiser une présentation_ avant de lancer.
+>Prévisualisez la présentation avant le lancement.
 
 1. Cliquez sur **[!UICONTROL Lancer]**.
 

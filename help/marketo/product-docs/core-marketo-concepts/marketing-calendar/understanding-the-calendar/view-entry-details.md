@@ -4,16 +4,14 @@ description: Découvrez comment afficher les détails des entrées dans le calen
 title: Afficher les détails d’une entrée
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
 # Afficher les détails d’une entrée {#view-entry-details}
-
-Lorsque vous affichez les détails d’une entrée dans le calendrier marketing, vous pouvez voir toutes sortes de choses intéressantes à propos d’une entrée.
 
 1. Sélectionnez une entrée dans le calendrier.
 
@@ -25,4 +23,4 @@ Lorsque vous affichez les détails d’une entrée dans le calendrier marketing,
 
 >[!TIP]
 >
->Essayez de cliquer avec le bouton droit sur les détails à droite. Vous pouvez afficher les menus pour parcourir ou faire apparaître les éditeurs. Bien, non ?
+>Cliquez avec le bouton droit sur le panneau des détails pour accéder aux menus de navigation ou ouvrir les éditeurs.

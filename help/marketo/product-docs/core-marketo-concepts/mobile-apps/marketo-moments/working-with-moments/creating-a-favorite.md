@@ -4,10 +4,10 @@ description: Découvrez comment créer un favori dans les moments Marketo. Épin
 title: Création d’un favori
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 6%
 
 ---
 
@@ -26,5 +26,3 @@ Préférez une carte pour une référence future facile.
 1. Appuyez sur **[!UICONTROL Favori]**.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
-
-   C&#39;est tout !

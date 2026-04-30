@@ -3,9 +3,9 @@ description: Découvrez l’enregistrement d’événement pour archiver les cli
 title: Vue d’ensemble de l’enregistrement à un événement
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '314'
 ht-degree: 4%
 
 ---
@@ -21,8 +21,6 @@ L’application Marketo Events pour tablette [!DNL iPad] ou [!DNL Android] facil
 Cet article décrit l’ensemble du processus. Les en-têtes sont liés à des articles séparés et certaines activités Marketo sont des liens dans cette composition.
 
 Certaines activités se déroulent avant l’événement, comme la création d’un nouveau rôle et l’invitation de participants. Certains événements se produisent au cours de l’événement, comme l’archivage des participants. Après l’événement, vous synchronisez vos données avec Marketo, en mettant à jour le statut de la personne.
-
-Passez un excellent événement !
 
 ## Préparer votre événement
 

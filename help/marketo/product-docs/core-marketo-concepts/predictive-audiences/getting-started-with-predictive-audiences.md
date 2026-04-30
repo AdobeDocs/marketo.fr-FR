@@ -3,10 +3,10 @@ description: Découvrez les audiences prédictives et le ciblage piloté par l�
 title: Prise en main des audiences prédictives
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
@@ -18,7 +18,7 @@ La SPA comprend les fonctionnalités suivantes :
 
 * Valeurs de probabilité d’inscription et de présence pour chaque prospect d’un programme d’événement
 * [Filtres prédictifs](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
-* [Modèles et facteurs d’influence](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
+* [Modèles et facteurs d&#39;influence](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * Informations basées sur l’IA/ML
 * Suivi des objectifs et enregistrements prévus - (le suivi des objectifs n’est disponible que pour les personnes dont le bouton (bascule) d’expérience utilisateur moderne est activé pour les programmes d’événement)
 

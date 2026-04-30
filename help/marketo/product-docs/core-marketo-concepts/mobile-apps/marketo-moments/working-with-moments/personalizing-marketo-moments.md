@@ -4,16 +4,16 @@ description: Découvrez comment personnaliser les moments Marketo. Personnalisez
 title: Personnalisation des Moments Marketo
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '158'
 ht-degree: 5%
 
 ---
 
 # Personnalisation des Moments Marketo {#personalizing-marketo-moments}
 
-Lorsque vous avez de nombreux programmes marketing et campagnes intelligentes en cours, c&#39;est formidable de tout voir, mais vous voudrez peut-être vous concentrer uniquement sur votre propre travail.
+Lorsqu’il existe de nombreux programmes marketing et campagnes intelligentes, il est utile de se concentrer uniquement sur votre propre travail.
 
 >[!IMPORTANT]
 >

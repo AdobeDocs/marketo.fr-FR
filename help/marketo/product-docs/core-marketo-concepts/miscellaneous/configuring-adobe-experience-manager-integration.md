@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '229'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources A
 
    ![](assets/one.png)
 
-1. Vous pouvez vous connecter à l’aide d’Adobe ou vous connecter localement. Dans cet exemple, nous nous connecterons localement.
+1. Vous pouvez vous connecter à l’aide d’Adobe ou vous connecter localement. Cet exemple utilise la connexion locale.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources A
 
    ![](assets/2a.png)
 
-1. Dans votre navigateur, recherchez « [!UICONTROL Politique de partage de ressources entre origines multiples Adobe Granite &#x200B;] » (ctrl+f sous Windows, cmd+f sous Mac).
+1. Dans votre navigateur, recherchez « [!UICONTROL Politique de partage de ressources entre origines multiples Adobe Granite ] » (ctrl+f sous Windows, cmd+f sous Mac).
 
    ![](assets/three.png)
 
@@ -67,7 +67,7 @@ Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources A
 
    ![](assets/nine.png)
 
-1. Sous Intégration, sélectionnez **[!UICONTROL Adobe Experience Manager]**.
+1. Sous Intégration, sélectionnez ****.
 
    ![](assets/ten.png)
 

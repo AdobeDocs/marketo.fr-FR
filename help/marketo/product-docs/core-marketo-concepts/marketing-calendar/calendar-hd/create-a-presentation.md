@@ -4,7 +4,7 @@ description: Découvrez comment créer une présentation de calendrier marketing
 title: Créer une présentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 7%
@@ -36,7 +36,7 @@ Créez une présentation pour projeter les vues du calendrier et les objectifs d
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   Joli travail ! Vous êtes maintenant prêt à personnaliser votre présentation.
+   La présentation est maintenant prête à être personnalisée.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Découvrez comment modifier des entrées directement dans le calend
 title: Modifier des entrées directement dans le calendrier marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 9%
+source-wordcount: '184'
+ht-degree: 7%
 
 ---
 
 # Modifier des entrées directement dans le calendrier marketing {#edit-entries-directly-in-the-marketing-calendar}
 
-Une fois en mode de ciblage du programme, vous pouvez rapidement apporter des modifications aux entrées du calendrier. Voici comment faire.
+Une fois en mode de ciblage du programme, vous pouvez rapidement apporter des modifications aux entrées du calendrier.
 
 ## Activer le focus du programme {#enable-program-focus}
 
@@ -27,7 +27,7 @@ Une fois en mode de ciblage du programme, vous pouvez rapidement apporter des mo
 
 ## Replanifier l&#39;entrée {#reschedule-entry}
 
-1. Il suffit de faire glisser et de déposer une entrée pour la replanifier.
+1. Effectuez un glisser-déposer d’une entrée pour la replanifier.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -63,7 +63,7 @@ Vous pouvez rapidement accéder à différentes zones de vos entrées pour les m
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-Vous avez terminé. Comme vous pouvez le constater, vous pouvez effectuer de nombreuses tâches directement à partir du calendrier marketing.
+Vous pouvez effectuer de nombreuses opérations directement à partir du calendrier marketing.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Découvrez comment préparer votre événement grâce à l’enregi
 title: Préparer votre événement
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '438'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Marketo dispose d’un rôle d’utilisateur spécial pour l’application d’e
 
 ## Spécifier les dates de l’événement {#specify-the-event-dates}
 
-Il est facile de fixer les dates de vos événements.
+La définition des dates d’événement est simple.
 
 1. Cliquez sur l’événement dans le planning et définissez la date et l’heure de début et de fin.
 

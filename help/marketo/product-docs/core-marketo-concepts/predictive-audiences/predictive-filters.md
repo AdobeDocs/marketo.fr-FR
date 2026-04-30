@@ -3,9 +3,9 @@ description: Découvrez les filtres prédictifs pour le ciblage des audiences av
 title: Filtres prédictifs
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
@@ -48,7 +48,7 @@ Ces deux filtres vous aident à élargir votre audience actuelle en ciblant des 
 
 Cliquez sur **[!UICONTROL Ajouter une contrainte]** pour choisir les critères de succès pour les membres du ou des programmes sélectionnés.
 
-Cliquez sur l’icône **+** pour ajouter facilement plusieurs programmes/listes dynamiques à un filtre.
+Cliquez sur l’icône **+** pour ajouter plusieurs programmes/listes dynamiques à un filtre.
 
 ![Image 5](assets/predictive-filters-5.png)
 
@@ -58,6 +58,6 @@ Cliquez sur l’icône **+** pour ajouter facilement plusieurs programmes/listes
 * Les filtres prédictifs ne sont pas disponibles pour les campagnes de déclenchement.
 * Le clonage ou le déplacement de campagnes contenant des filtres prédictifs n’est pas pris en charge.
 * Vous pouvez utiliser jusqu’à 5 filtres prédictifs dans une liste dynamique.
-* Si Marketo Engage rencontre une erreur dans l’évaluation des filtres prédictifs, l’exécution de la campagne s’interrompt automatiquement et vous recevez une notification dans le centre de notifications Marketo.
+* Si Marketo Engage rencontre une erreur dans l’évaluation des filtres prédictifs, l’exécution de la campagne est automatiquement abandonnée et une notification est envoyée au centre de notifications Marketo.
 * Les filtres prédictifs ont actuellement une limite d’entrée de 1 million de personnes qualifiées.
 * Vous pouvez avoir jusqu’à 50 programmes actifs avec des filtres prédictifs.
