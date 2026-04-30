@@ -25,7 +25,7 @@ Suivez les étapes ci-dessous pour modifier les affectations de partition de per
 
 >[!CAUTION]
 >
->Les espaces de travail et les partitions de personne peuvent être complexes. Contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur leur configuration.
+>Les espaces de travail et les partitions de personne peuvent être complexes. Contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur leur configuration.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
