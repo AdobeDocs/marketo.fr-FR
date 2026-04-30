@@ -28,7 +28,7 @@ Vous pouvez envoyer des requêtes individuelles pour accéder aux données des c
 * Via l’interface utilisateur de Privacy Service : `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Consultez la documentation [ici](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=fr){target="_blank"}.
 * Via l’API Privacy Service. Consultez la documentation [ici](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} et les informations sur l’API [ici](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-[](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr){target="_blank"} prend en charge deux types de demandes : l&#39;accès aux données et la suppression des données.
+[&#128279;](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr){target="_blank"} prend en charge deux types de demandes : l&#39;accès aux données et la suppression des données.
 
 ## Configuration requise pour envoyer des demandes pour Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 

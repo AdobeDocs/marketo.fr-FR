@@ -33,7 +33,7 @@ Un sandbox Marketo ne peut pas être synchronisé avec votre CRM standard s’il
 
 ## Copie d’instance {#instance-copy}
 
-Vous pouvez envoyer un dossier d’assistance demandant une copie d’instance unique pour remplir votre sandbox. Cependant, la copie d’instance ne transportera pas _tout_. Pour plus d’informations, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
+Vous pouvez envoyer un dossier d’assistance demandant une copie d’instance unique pour remplir votre sandbox. Cependant, la copie d’instance ne transportera pas _tout_. Pour plus d’informations, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >

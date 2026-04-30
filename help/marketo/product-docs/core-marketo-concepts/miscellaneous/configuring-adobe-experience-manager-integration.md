@@ -39,7 +39,7 @@ Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources A
 
    ![](assets/2a.png)
 
-1. Dans votre navigateur, recherchez « [!UICONTROL Politique de partage de ressources entre origines multiples Adobe Granite ] » (ctrl+f sous Windows, cmd+f sous Mac).
+1. Dans votre navigateur, recherchez « [!UICONTROL Politique de partage de ressources entre origines multiples Adobe Granite &#x200B;] » (ctrl+f sous Windows, cmd+f sous Mac).
 
    ![](assets/three.png)
 
@@ -67,7 +67,7 @@ Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources A
 
    ![](assets/nine.png)
 
-1. Sous Intégration, sélectionnez ****.
+1. Sous Intégration, sélectionnez **&#x200B;**.
 
    ![](assets/ten.png)
 
