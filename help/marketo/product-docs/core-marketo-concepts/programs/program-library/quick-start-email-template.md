@@ -24,7 +24,7 @@ L’éditeur d’e-mail de Marketo Engage est fourni avec des fonctions qui vous
 
 * **Variables** : lorsqu’un module est sélectionné, les variables s’affichent dans la partie droite de l’éditeur. Ils peuvent être utilisés pour ajuster les attributs du module qui ne sont pas facilement modifiables via des éléments d’image ou de texte.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé des modules {#modules-summary}
 

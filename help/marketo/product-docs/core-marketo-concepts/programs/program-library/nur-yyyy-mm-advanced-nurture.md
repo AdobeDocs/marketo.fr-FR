@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Il s’agit d’un exemple de programmes de formation avancés utilisant le programme d’engagement Marketo Engage. Les programmes d’e-mail imbriqués empêchent les personnes de recevoir du contenu qu’elles ont déjà consommé ou contrôlent le type de contenu qu’elles doivent consommer dans chaque flux. Les rapports d’attribution peuvent être exécutés pour chaque programme d’e-mail imbriqué individuel. Canaux : un canal « Cultiver » et un canal « Cultiver l’e-mail » dédié pour les programmes d’e-mail imbriqués envoient un e-mail de newsletter à l’aide d’un programme d’e-mail Marketo Engage. L’e-mail peut inclure ou non un test A/B.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 
