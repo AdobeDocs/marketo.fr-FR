@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [Abonnement aux notifications d’état du système](getting-started/things-to-know/system-status-notifications.md)
       + [Assistant IA pour la connaissance des produits](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Communauté de la nation marketing](getting-started/things-to-know/community.md)
+      + [Migration d’AWS](getting-started/things-to-know/aws-migration.md)
    + Solutions rapides {#quick-wins}
       + [Préparer sa configuration et ajouter une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Envoyer un e-mail](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [Activer les restrictions de personne pour les campagnes intelligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Suivi des ouvertures d’e-mails au niveau de la campagne](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Filtrage de l’activité des robots dans les e-mails](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Supprimer le texte de désabonnement](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Supprimer le texte de désabonnement](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + Gestion des champs {#field-management}
          + [Bloquer les mises à jour des champs lors de l’import de liste à partir de sources non approuvées](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloquer les mises à jour d’un champ](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -258,7 +259,7 @@ ht-degree: 99%
             + [Ajouter à la liste](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [Ajouter des données à un champ](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Appeler le Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
-            + [Modification de la valeur des données](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
+            + [Modifier valeur des données](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [Effacer les valeurs des champs](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md)
             + [Modifier répartition de l&#39;individu](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [Modifier l&#39;étape dans le cycle de vente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
@@ -271,7 +272,7 @@ ht-degree: 99%
             + [Créditer le référent ou la référente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Moment intéressant](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Supprimer des flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
-            + [Suppression de la liste](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
+            + [Supprimer de la liste](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [Réorganiser la section « Ajouter un choix » dans une étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
             + [Demander une campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Envoyer une alerte](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
@@ -281,7 +282,7 @@ ht-degree: 99%
             + [Utiliser un webhook dans une campagne intelligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Utiliser l’option Ajouter un choix dans une étape de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [Utiliser des jetons dans des étapes de flux](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-            + Attente {#wait}
+            + Attendre {#wait}
                + [Vue d’ensemble de l’étape Attendre](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
                + [Utiliser un jeton de date dans une étape de flux Attendre](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
                + [Utiliser une durée dans une étape de flux Attendre](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
@@ -625,7 +626,7 @@ ht-degree: 99%
          + [Comportement du chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Liste de réunions](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Activités de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analyse](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Questions fréquentes](product-docs/demand-generation/dynamic-chat/faq.md)
          + Installation et configuration {#setup-and-configuration}
             + [Configuration initiale](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [Synchronisation de tâches de rappel avec Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Synchronisation de tâches Sales Connect avec Salesforce pour la première fois](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Modèles {#templates}
-         + [Ajouter des désabonnements automatiques à un modèle](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [Gérer les modèles](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [Ajouter un lien hypertexte](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Archiver les modèles](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Créer une catégorie](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [Créer un modèle](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [Personnaliser la vue de modèle](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [Supprimer une catégorie de modèle](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [Supprimer un modèle](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [Modifier une catégorie de modèle](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Ajouter un modèle aux favoris](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [Supprimer les doublons et fusionner des catégories](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Modèles recommandés](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [Modèles partagés](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Engagement des modèles](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Utilisation du HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Afficher la liste des modèles en tant qu’un autre utilisateur ou une autre utilisatrice](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [Gérer les catégories de modèles](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + Champs dynamiques {#dynamic-fields}
             + [Créer des champs dynamiques personnalisés](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Glossaire des champs dynamiques](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
