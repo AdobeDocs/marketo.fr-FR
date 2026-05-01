@@ -4,10 +4,10 @@ description: Découvrez le rapport de performances des pages de destination dans
 title: Rapport de performances de la page de destination
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 4%
+source-wordcount: '216'
+ht-degree: 3%
 
 ---
 
@@ -17,11 +17,11 @@ Découvrez combien de personnes ont rempli les formulaires dans vos pages de des
 
 >[!NOTE]
 >
->Si vous constatez une incohérence dans les nombres entre votre liste dynamique et votre rapport de performances de page de destination, c’est probablement parce que les listes dynamiques filtrent uniquement les données sur les personnes, tandis que les rapports de performances de page de destination incluent les activités sociales (Facebook, Google Ads, etc.) et anonymes, en plus des données sur les personnes.
+>Si vous constatez une incohérence dans les nombres entre votre liste dynamique et votre rapport de performances de la page de destination, c’est probablement parce que les listes dynamiques filtrent uniquement les données sur les personnes, tandis que les rapports de performances des pages de destination incluent les réseaux sociaux (Facebook, Google Ads, etc.) et les activités anonymes, en plus des données Personnes.
 
 1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le [!UICONTROL Performances de la page de destination] [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) puis cliquez sur l’onglet [!UICONTROL Rapport].
-1. Vous avez terminé. Explorez votre rapport pour évaluer la performance de vos pages de destination.
+1. Explorez votre rapport pour évaluer la performance de vos pages de destination.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 

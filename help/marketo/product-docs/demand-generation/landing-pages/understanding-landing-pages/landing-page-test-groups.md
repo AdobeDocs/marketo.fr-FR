@@ -4,10 +4,10 @@ description: Découvrez les groupes de test de la page de destination dans Marke
 title: Groupes de test de page de destination
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 
@@ -46,10 +46,10 @@ Marketo effectue le suivi du nombre de pages vues et de formulaires remplis sur 
 
    ![](assets/four-1.png)
 
-   Vous avez terminé. Vous pourrez maintenant comparer les statistiques des pages de destination sélectionnées.
+   Vous pouvez maintenant comparer les statistiques des pages de destination sélectionnées.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Si vous souhaitez supprimer le groupe de test, il vous suffit de cliquer sur **[!UICONTROL Actions du groupe de test]** et de sélectionner **[!UICONTROL Supprimer le groupe de test]**.
+   >Si vous souhaitez supprimer le groupe de test, cliquez sur **[!UICONTROL Actions du groupe de test]** et sélectionnez **[!UICONTROL Supprimer le groupe de test]**.

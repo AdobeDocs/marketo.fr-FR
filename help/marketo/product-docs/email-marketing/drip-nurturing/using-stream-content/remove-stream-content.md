@@ -4,10 +4,10 @@ description: Découvrez comment supprimer du contenu de diffusion en continu lor
 title: Supprimer le contenu en flux
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -31,4 +31,4 @@ Vous pouvez supprimer ou archiver un élément de contenu. Contrairement à la s
    >
    >Supprimez du contenu uniquement si vous ne vous souciez pas de l’historique. Si vous souhaitez conserver l’historique, [archivez](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) à la place.
 
-   Vous avez terminé. Vous savez maintenant comment supprimer un élément de contenu.
+   Vous savez maintenant comment supprimer un élément de contenu.

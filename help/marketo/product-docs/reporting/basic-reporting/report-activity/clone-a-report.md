@@ -4,7 +4,7 @@ description: Découvrez comment cloner des rapports pour créer des doublons à 
 title: Cloner un rapport
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 6%
@@ -31,7 +31,7 @@ Créez un doublon de votre rapport pour le personnaliser davantage sans modifier
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
-   Voilà, vous êtes prêt à personnaliser votre clone !
+   Le clone peut désormais être personnalisé.
 
    >[!MORELIKETHIS]
    >

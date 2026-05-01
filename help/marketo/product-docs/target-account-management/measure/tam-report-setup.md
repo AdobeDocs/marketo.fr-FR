@@ -4,9 +4,9 @@ description: Découvrez comment configurer l’e-mail de rapport des ventes hebd
 title: Configuration du rapport TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Le rapport des ventes du gestionnaire de comptes techniques est un e-mail person
 
    ![](assets/tam-report-setup-2.png)
 
-1. Sous [!UICONTROL &#x200B; Rapport hebdomadaire &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
+1. Sous [!UICONTROL  Rapport hebdomadaire ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/three-3.png)
 
@@ -48,8 +48,6 @@ Le rapport des ventes du gestionnaire de comptes techniques est un e-mail person
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/seven-2.png)
-
-Et c&#39;est tout !
 
 ## Comment se désabonner {#how-to-unsubscribe}
 

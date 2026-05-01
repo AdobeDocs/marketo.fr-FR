@@ -3,9 +3,9 @@ description: Découvrez comment envoyer une liste statique à LinkedIn, Facebook
 title: Envoyer une liste à un réseau publicitaire
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '232'
 ht-degree: 7%
 
 ---
@@ -40,7 +40,7 @@ Découvrez comment envoyer une liste statique à [!DNL LinkedIn], [!DNL Facebook
    >
    >Si vous sélectionnez « [!UICONTROL Activer la synchronisation continue des audiences] », Marketo met à jour la liste sur le réseau publicitaire choisi au fur et à mesure que la liste change dans votre instance Marketo. Nous ajoutons **et** supprimons des personnes de l’audience si elles sont ajoutées ou supprimées de la liste statique.
 
-1. Et c&#39;est tout ! Cliquez sur **[!UICONTROL OK]** pour quitter.
+1. Cliquez sur **[!UICONTROL OK]** pour quitter.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

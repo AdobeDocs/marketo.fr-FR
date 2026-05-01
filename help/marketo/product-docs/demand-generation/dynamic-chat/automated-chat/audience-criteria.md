@@ -3,9 +3,9 @@ description: Découvrez les Critères d’audience pour le ciblage des personnes
 title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '624'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure « [!UICONTROL &#x200B; supérieure à &#x200B;] » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 
@@ -66,8 +66,6 @@ Vous pouvez choisir parmi de _nombreuses_ combinaisons d’attributs. Dans l&#39
 
    ![](assets/audience-criteria-11.png)
 
-Et c&#39;est tout !
-
 **Personnes anonymes**
 
 Il existe un moyen facile de cibler spécifiquement les personnes qui ne figurent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les personnes anonymes situées dans la région de New York.
@@ -86,7 +84,7 @@ Il existe un moyen facile de cibler spécifiquement les personnes qui ne figuren
 
    >[!NOTE]
    >
-   >Lorsqu&#39;une personne visite votre site web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Nous recherchons leur IP dans une base de données spéciale et déduisons toutes sortes de bonnes informations.
+   >Lorsqu&#39;une personne visite votre site web, [](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Nous recherchons leur IP dans une base de données spéciale et déduisons toutes sortes de bonnes informations.
 
 1. _[!UICONTROL Est]_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 

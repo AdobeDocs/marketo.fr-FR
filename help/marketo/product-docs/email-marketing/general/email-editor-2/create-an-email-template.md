@@ -4,9 +4,9 @@ description: Découvrez comment créer un modèle d’e-mail dans Email Editor 2
 title: Créer un modèle d’e-mail
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 12%
 
 ---
@@ -64,8 +64,6 @@ Si vous avez créé un e-mail que vous souhaitez enregistrer en tant que modèle
 1. Cliquez sur la liste déroulante **[!UICONTROL Dossier]**, sélectionnez l’emplacement où vous souhaitez que le modèle réside, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/five-1.png)
-
-   Et c&#39;est tout !
 
    >[!CAUTION]
    >

@@ -4,9 +4,9 @@ description: Découvrez comment créer des listes dynamiques de comptes pour ide
 title: Listes intelligentes de comptes
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '523'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Voici à quoi ressemblera le conteneur.
 >
 >La création d’un conteneur de filtres crée une règle « et », ce qui signifie qu’elle ne renverra que tous les résultats combinés. Dans cet exemple, possède des comptes dans un secteur de la santé, en plus d’être situé en Californie _et_ avec une personne répertoriée comme CFO. Si vous ne souhaitez pas utiliser de conteneurs, déposez simplement le filtre au-dessous/au-dessus du filtre existant.
 
-Et c&#39;est tout ! Consultez la section ci-dessous pour savoir comment tirer parti de votre [!UICONTROL liste dynamique de comptes].
+Consultez la section ci-dessous pour savoir comment tirer parti de votre [!UICONTROL liste dynamique de comptes].
 
 >[!TIP]
 >

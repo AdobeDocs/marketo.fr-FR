@@ -3,9 +3,9 @@ description: Découvrez comment gérer des groupes de contacts dans les actions 
 title: Gérer les groupes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 2%
 
 ---
@@ -54,8 +54,6 @@ Découvrez comment gérer vos groupes dans [!DNL Sales Insight Actions].
 1. Nommez votre groupe et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/manage-groups-2.png)
-
-   C&#39;est ça !
 
 ## Ajouter des contacts à un groupe {#add-contacts-to-a-group}
 

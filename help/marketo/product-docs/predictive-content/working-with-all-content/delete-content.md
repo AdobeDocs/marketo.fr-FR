@@ -4,7 +4,7 @@ description: Découvrez comment supprimer du contenu de la page Tout le contenu 
 title: Supprimer le contenu
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 5%
@@ -22,5 +22,3 @@ Lorsque vous n’avez plus besoin d’un élément de contenu, il est facile de 
 1. Cliquez sur la liste déroulante **[!UICONTROL Actions de contenu]** et sélectionnez **[!UICONTROL Supprimer le contenu]**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
-
-   C&#39;est ça.

@@ -4,9 +4,9 @@ description: Découvrez comment créer une audience personnalisée dans Facebook
 title: Créer une audience personnalisée dans Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '249'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->En savoir plus sur les [&#x200B; audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>En savoir plus sur les [ audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Recherchez et sélectionnez la liste dynamique ou statique qui contient les prospects à partir desquels vous souhaitez créer l’audience.
 
@@ -58,7 +58,7 @@ ht-degree: 3%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Et c&#39;est tout ! Dans Facebook, vous verrez la nouvelle audience dans **Gestionnaire de publicités** > **Audiences**.
+   Dans Facebook, vous verrez la nouvelle audience dans **Gestionnaire de publicités** > **Audiences**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 

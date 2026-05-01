@@ -4,9 +4,9 @@ description: Découvrez comment filtrer les comptes nommés pour réduire rapide
 title: Filtrage dans les comptes nommés
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ Le filtrage est un excellent moyen de réduire rapidement les données.
 
    ![](assets/four-2.png)
 
-   Et c&#39;est tout ! Les résultats filtrés apparaissent dans la partie gauche de l’écran.
+   Les résultats filtrés apparaissent dans la partie gauche de l’écran.
 
    >[!NOTE]
    >

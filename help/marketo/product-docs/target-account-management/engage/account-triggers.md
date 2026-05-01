@@ -4,10 +4,10 @@ description: Découvrez comment écouter et agir sur les activités comportement
 title: Déclencheurs de compte
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '119'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ Sélectionnez votre campagne dynamique et cliquez sur **[!UICONTROL Liste dynami
 
 ![](assets/one-1.png)
 
-Saisissez « [!UICONTROL &#x200B; Compte nommé &#x200B;] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
+Saisissez « [!UICONTROL  Compte nommé ] » dans la zone de recherche pour trouver les deux déclencheurs [!UICONTROL Compte nommé].
 
 ![](assets/two-1.png)
 
@@ -39,7 +39,7 @@ Cliquez sur le menu déroulant Compte nommé ...
 
 ![](assets/six-1.png)
 
-Vous avez terminé. Une fois que vous avez terminé le reste de votre campagne intelligente, pensez à l’activer.
+Une fois le reste de votre campagne intelligente terminé, veillez à l’activer.
 
 >[!MORELIKETHIS]
 >

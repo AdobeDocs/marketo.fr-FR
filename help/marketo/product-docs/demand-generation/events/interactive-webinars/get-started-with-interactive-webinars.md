@@ -3,16 +3,16 @@ description: Prise en main des webinaires interactifs dans Marketo. Découvrez l
 title: Prise en main des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
 
 # Prise en main des webinaires interactifs {#get-started-with-interactive-webinars}
 
-Vous avez donc lu la [&#x200B; Présentation des webinaires interactifs &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
+Vous avez donc lu la [ Présentation des webinaires interactifs ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
@@ -29,8 +29,6 @@ Vous avez donc lu la [&#x200B; Présentation des webinaires interactifs &#x200B;
 **Étape 5** : [Promouvoir votre webinaire](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — Découvrez de précieux conseils sur la façon de promouvoir votre événement à venir.
 
 **Étape 6** : [Diffuser votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - Tout ce que vous devez savoir sur la présentation de votre webinaire.
-
-C&#39;est ça !
 
 ## Documentation supplémentaire {#additional-documentation}
 

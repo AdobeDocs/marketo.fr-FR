@@ -4,10 +4,10 @@ description: Automatiser une alerte pour les personnes potentiellement en double
 title: Automatiser une alerte de personnes potentiellement en double
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 8%
 
 ---
 
@@ -44,7 +44,7 @@ Vous souhaitez recevoir une alerte chaque fois qu’un doublon est créé ? Voic
 
    ![](assets/automate-an-alert-3.png)
 
-Vous avez terminé. Cette campagne dynamique se déclenche chaque fois qu’une nouvelle personne portant un nom complet existant est créée dans Marketo.
+Cette campagne dynamique se déclenche chaque fois qu’une nouvelle personne portant un nom complet existant est créée dans Marketo.
 
 >[!MORELIKETHIS]
 >

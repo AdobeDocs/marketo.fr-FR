@@ -4,10 +4,10 @@ title: Création d’e-mails
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1783'
-ht-degree: 5%
+source-wordcount: '1819'
+ht-degree: 6%
 
 ---
 
@@ -67,7 +67,7 @@ Les e-mails du concepteur d’e-mail ne peuvent être créés que dans Design St
 
 >[!ENDTABS]
 
-C&#39;est ça. Il est maintenant temps de concevoir votre e-mail.
+Il est maintenant temps de concevoir votre e-mail.
 
 ## Choisir votre type de contenu {#choose-your-content-type}
 
@@ -235,7 +235,7 @@ L’exemple ci-dessous décrit les étapes à suivre pour ajuster la marge inté
 
 1. Dans la barre d’outils Colonne, cliquez sur l’outil _[!UICONTROL Sélectionner une colonne]_ et choisissez celle à modifier.
 
-   Vous pouvez également le sélectionner dans l’arborescence de la structure. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
+   Vous pouvez également la sélectionner dans l&#39;arborescence. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
@@ -332,7 +332,7 @@ Les avertissements se rapportent aux recommandations et aux bonnes pratiques tel
 
 >[!NOTE]
 >
->L’ajout d’une option de désabonnement n’est pas nécessaire pour les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
+>L’ajout d’une option de désabonnement n’est pas nécessaire pour les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
 
 * **Version texte d’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu d’HTML ne peut pas être affiché.
 

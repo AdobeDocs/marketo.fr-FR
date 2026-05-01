@@ -4,10 +4,10 @@ description: Découvrez comment ajouter des jetons à des liens d’e-mail. Ins�
 title: Ajouter des jetons à un lien d’e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 
@@ -34,8 +34,6 @@ Pour insérer des paramètres supplémentaires et spécifiques à une personne d
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/five.png)
-
-   Et c&#39;est tout !
 
 >[!MORELIKETHIS]
 >

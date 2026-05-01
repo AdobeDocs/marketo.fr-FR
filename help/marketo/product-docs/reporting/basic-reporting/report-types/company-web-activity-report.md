@@ -4,9 +4,9 @@ description: Découvrez les rapports Activité web de l’entreprise qui indique
 title: Rapport d’activité web de la société
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '275'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ Créez un [rapport d’activité de page web](/help/marketo/product-docs/reporti
 
 >[!PREREQUISITES]
 >
->Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [&#x200B; [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [ [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le [!UICONTROL Activité Web de l’entreprise] Rapport [type de rapport](report-type-overview.md).
 
@@ -27,7 +27,7 @@ Créez un [rapport d’activité de page web](/help/marketo/product-docs/reporti
 
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) puis cliquez sur l’onglet **[!UICONTROL Rapport]**.
 
-1. Vous avez terminé. Consultez votre rapport pour identifier les sociétés qui visitent votre site.
+1. Consultez votre rapport pour identifier les sociétés qui visitent votre site.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
@@ -47,11 +47,11 @@ Créez un [rapport d’activité de page web](/help/marketo/product-docs/reporti
  <tbody>
   <tr>
    <td>Société</td>
-   <td>L'entreprise des visiteurs.<br> <strong>Noms en gras</strong> sont confirmés comme étant le nom de la société par au moins une personne.</td>
+   <td>L'entreprise des visiteurs.<br> <strong>Les noms en gras</strong> sont confirmés comme étant le nom de la société par au moins une personne.</td>
   </tr>
   <tr>
    <td>Société ou fournisseur d'accès Internet inférés</td>
-   <td>La société, comme déduit de l’adresse IP des visiteurs. <br> <strong>Noms en gras</strong> indiquez qu’il s’agit de la société, et non du FAI. </td>
+   <td>La société, comme déduit de l’adresse IP des visiteurs. <br> <strong>Les noms en gras</strong> indiquent qu’il s’agit de la société, et non du FAI. </td>
   </tr>
   <tr>
    <td>Pages vues</td>

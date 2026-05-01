@@ -4,10 +4,10 @@ description: Découvrez comment réorganiser les colonnes des rapports en les fa
 title: Réorganiser les colonnes d’un rapport
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 7%
+source-wordcount: '109'
+ht-degree: 5%
 
 ---
 
@@ -27,7 +27,7 @@ Vous pouvez modifier l’ordre des colonnes d’un rapport.
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. Vous avez terminé. Les colonnes apparaissent désormais dans le nouvel ordre.
+1. Les colonnes apparaissent désormais dans le nouvel ordre.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

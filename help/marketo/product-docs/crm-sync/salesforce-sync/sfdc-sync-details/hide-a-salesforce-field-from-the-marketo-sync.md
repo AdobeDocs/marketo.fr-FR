@@ -4,10 +4,10 @@ description: Découvrez comment masquer un champ Salesforce de la synchronisatio
 title: Masquer un champ Salesforce dans la synchronisation Marketo
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 12%
+source-wordcount: '177'
+ht-degree: 11%
 
 ---
 
@@ -47,7 +47,7 @@ Tous les champs de Salesforce ne sont pas utiles pour le marketing. Vous pouvez 
    >
    >Si le champ que vous masquez dans [!DNL Salesforce] a déjà été synchronisé avec Marketo, vous devrez également le masquer dans Marketo si vous ne souhaitez pas l’utiliser.
 
-   Vous avez terminé. Ce champ n’apparaît plus dans Marketo une fois la synchronisation suivante terminée.
+   Ce champ n’apparaît plus dans Marketo une fois la synchronisation suivante terminée.
 
    >[!MORELIKETHIS]
    >

@@ -4,9 +4,9 @@ description: Découvrez comment supprimer une segmentation dont vous n’avez pl
 title: Supprimer une segmentation
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '104'
 ht-degree: 5%
 
 ---
@@ -36,5 +36,3 @@ Une segmentation peut être supprimée en suivant les étapes ci-dessous.
 1. Une fois la segmentation non approuvée, cliquez sur **[!UICONTROL Actions de segmentation]** et [!UICONTROL Supprimer] la segmentation.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-C&#39;est ça. Vous ne pouvez pas le récupérer, alors assurez-vous de ne plus en avoir besoin.

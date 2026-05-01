@@ -4,10 +4,10 @@ description: Découvrez comment approuver un fragment de code afin de l’utilis
 title: Approuver un extrait
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 10%
+source-wordcount: '76'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ Un fragment de code doit être approuvé avant utilisation.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-Vous avez terminé. Le statut de votre fragment de code passe de Brouillon à Approuvé .
+Le statut de votre fragment de code passe de Brouillon à Approuvé .
 
 >[!MORELIKETHIS]
 >

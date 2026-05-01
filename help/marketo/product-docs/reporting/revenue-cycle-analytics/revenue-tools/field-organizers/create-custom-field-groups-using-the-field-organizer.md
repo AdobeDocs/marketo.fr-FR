@@ -4,9 +4,9 @@ description: Découvrez comment créer des groupes de champs personnalisés à l
 title: Créer des groupes de champs personnalisés à l’aide de l’organisateur de champs
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1033'
 ht-degree: 4%
 
 ---
@@ -44,7 +44,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Pays &#x200B;] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Pays ] est utilisé ici.
 
    ![](assets/three.png)
 
@@ -154,7 +154,7 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
 
    ![](assets/two.png)
 
-1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL &#x200B; Date d’acquisition &#x200B;] est utilisé ici.
+1. Cliquez sur **[!UICONTROL Champ]** et sélectionnez un champ standard ou personnalisé avec un type de données qui correspond à l’éditeur de chaînes (voir le tableau dans la section précédente). [!UICONTROL  Date d’acquisition ] est utilisé ici.
 
    ![](assets/fourteen.png)
 
@@ -183,5 +183,3 @@ Les trois sections suivantes décrivent comment créer un groupe de champs perso
    L’exemple ci-dessous montre une entrée pour les prospects du 1er trimestre 2015 jusqu’au 3e trimestre.
 
    ![](assets/16.5.png)
-
-   Et c&#39;est tout ! Bon travail.

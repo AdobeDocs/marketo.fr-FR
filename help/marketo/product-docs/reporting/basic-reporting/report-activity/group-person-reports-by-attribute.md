@@ -4,10 +4,10 @@ description: Découvrez les rapports de groupe de personnes par attribut dans Ma
 title: Regrouper les rapports de personne par attribut
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -39,7 +39,7 @@ Vous pouvez regrouper vos rapports de personne par attribut de personne ou de so
    >
    >Si vous choisissez un attribut doté d’une valeur numérique, tel que _[!UICONTROL Créé à]_ ou _[!UICONTROL Chiffre d’affaires annuel]_, sélectionnez les mesures dans le menu déroulant **[!UICONTROL Unités]** à droite.
 
-   Vous avez terminé. Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport regroupé en conséquence.
+   Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport regroupé en conséquence.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 

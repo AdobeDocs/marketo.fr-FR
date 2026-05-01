@@ -4,10 +4,10 @@ description: Découvrez comment ajouter des personnes à un compte nommé à l�
 title: Ajouter des personnes à un compte nommé
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '200'
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ Il existe trois manières différentes d’ajouter manuellement des personnes à
 
    ![](assets/eight.png)
 
-   Vous avez terminé. Il vous suffit ensuite de planifier (ou d’activer) votre campagne intelligente, et l’étape de flux commencera à ajouter des personnes qualifiées au compte nommé désigné.
+   Ensuite, planifiez (ou activez) votre campagne intelligente afin que l’étape de flux commence à ajouter des personnes qualifiées au compte nommé désigné.
 
 ## Importer une liste {#list-import}
 

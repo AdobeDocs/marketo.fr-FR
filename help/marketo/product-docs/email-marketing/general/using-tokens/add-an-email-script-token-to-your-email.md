@@ -4,10 +4,10 @@ description: Découvrez comment ajouter un jeton de script d’e-mail à votre e
 title: Ajouter un jeton de script d’e-mail à votre e-mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 16%
+source-wordcount: '171'
+ht-degree: 15%
 
 ---
 
@@ -51,4 +51,4 @@ Après avoir [créé votre script d’e-mail](/help/marketo/product-docs/email-m
 >
 >N’oubliez pas de [approuver l’e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
-Vous avez terminé. Lorsque cet e-mail est envoyé, le script derrière le jeton s’exécute et renseigne le contenu.
+Lorsque cet e-mail est envoyé, le script derrière le jeton s’exécute et renseigne le contenu.

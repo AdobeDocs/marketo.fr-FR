@@ -4,10 +4,10 @@ description: Découvrez comment regrouper votre rapport sur les performances des
 title: Regrouper les rapports sur les e-mails par segmentation
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '128'
+ht-degree: 9%
 
 ---
 
@@ -35,7 +35,7 @@ Les segmentations ne sont pas réservées au contenu dynamique. Vous pouvez éga
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Vous avez terminé. Cliquez sur l’onglet **[!UICONTROL Rapport]**. Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
+1. Cliquez sur l’onglet **[!UICONTROL Rapport]**. Si vous utilisez une segmentation, votre rapport affiche une ligne pour chaque segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

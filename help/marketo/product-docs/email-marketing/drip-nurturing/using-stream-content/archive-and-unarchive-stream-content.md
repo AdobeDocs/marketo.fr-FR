@@ -4,10 +4,10 @@ description: Découvrez comment archiver ou désarchiver du contenu de flux pour
 title: Archiver et désarchiver du contenu en flux
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 7%
+source-wordcount: '151'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous po
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   Vous avez terminé. N&#39;oubliez pas d&#39;archiver si vous voulez préserver l&#39;histoire.
+   Archivez si vous souhaitez conserver l’historique.
 
 ## Désarchiver le contenu du flux {#unarchive-stream-content}
 

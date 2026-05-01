@@ -4,10 +4,10 @@ description: Découvrez comment utiliser une durée dans une étape de flux d’
 title: Utiliser une durée dans une étape de flux Attendre
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 9%
+source-wordcount: '216'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ Vous pouvez utiliser l’étape Flux d’attente pour suspendre le parcours d’
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. Vous avez terminé. Le flux s’interrompra pendant la durée que vous avez spécifiée. Pour les options avancées, cliquez sur l’icône en forme d’engrenage à droite.
+1. Le flux se met en pause pendant la durée que vous avez spécifiée. Pour les options avancées, cliquez sur l’icône en forme d’engrenage à droite.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 

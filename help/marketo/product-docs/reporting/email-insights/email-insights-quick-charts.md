@@ -4,7 +4,7 @@ description: Découvrez comment créer et enregistrer des graphiques rapides sou
 title: Graphiques rapides d’Email Insights
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 3%
@@ -55,11 +55,9 @@ Dans cet exemple, nous choisirons un taux d’ouverture pour les trois première
 
    ![](assets/8.png)
 
-   Et c&#39;est tout !
-
    >[!TIP]
    >
-   >Pour déplacer un graphique rapide, il vous suffit de cliquer dessus et de le faire glisser à l’emplacement souhaité.
+   >Pour déplacer un graphique rapide, cliquez dessus et faites-le glisser à l’emplacement souhaité.
 
 ## Supprimer un graphique rapide {#delete-a-quick-chart}
 

@@ -4,10 +4,10 @@ description: Découvrez comment installer et configurer Marketo Sales Insight da
 title: Installer et configurer Informations sur les ventes Marketo dans Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 6%
+source-wordcount: '370'
+ht-degree: 7%
 
 ---
 
@@ -77,11 +77,11 @@ ht-degree: 6%
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Dans la section **[!UICONTROL Insight des ventes]**, cliquez sur **[!UICONTROL Modifier la configuration de l’API]**.
+1. Dans la section Insight des ventes ]**, cliquez sur**[!UICONTROL  Modifier la configuration de l’API ]**.**[!UICONTROL 
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copiez l’**[!UICONTROL hôte Marketo]**, l’**[!UICONTROL URL de l’API]** et l’**[!UICONTROL ID d’utilisateur de l’API]** à utiliser à une étape ultérieure. Saisissez une **[!UICONTROL Clé secrète API]** de votre choix, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Copiez l’**[!UICONTROL hôte]**, l’**[!UICONTROL URL de l’API]** et l’**[!UICONTROL ID d’utilisateur de l’API]** à utiliser à une étape ultérieure. Saisissez une **[!UICONTROL Clé secrète API]** de votre choix, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    >[!CAUTION]
    >
@@ -103,7 +103,7 @@ ht-degree: 6%
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. Sélectionnez **[!UICONTROL Configuration de l’API Marketo]** dans l’arborescence.
+1. Sélectionnez **[!UICONTROL Configuration de l’API]** dans l’arborescence.
 
    ![](assets/image2015-5-4-11-3a22-3a41.png)
 
@@ -143,11 +143,9 @@ Configurez les rôles utilisateur pour permettre à des utilisateurs spécifique
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   Et c&#39;est tout ! Tous les utilisateurs ayant accès pourront désormais voir la section insight des ventes dans la vue des détails du prospect/contact.
+   Tous les utilisateurs autorisés d’accès pourront désormais voir la section insight des ventes dans la vue des détails du prospect/contact.
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   Félicitations. Vous avez maintenant libéré la puissance de la [!DNL Marketo Sales Insight].
 
 >[!MORELIKETHIS]
 >

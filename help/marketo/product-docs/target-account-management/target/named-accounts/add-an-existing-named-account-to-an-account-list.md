@@ -4,7 +4,7 @@ description: Découvrez comment ajouter un compte nommé existant à une liste d
 title: Ajouter un compte nommé existant à une liste de comptes
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 8%
@@ -30,8 +30,6 @@ L’ajout d’un compte nommé à une liste de comptes est simple.
 1. Cliquez sur la liste déroulante **[!UICONTROL Liste des comptes]**, sélectionnez la liste des comptes souhaitée, puis cliquez sur **[!UICONTROL Ajouter]**.
 
    ![](assets/six-1.png)
-
-   C&#39;est ça !
 
 >[!MORELIKETHIS]
 >

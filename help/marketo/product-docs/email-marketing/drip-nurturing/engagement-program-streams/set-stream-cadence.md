@@ -4,10 +4,10 @@ description: Découvrez comment définir le rythme du flux pour les programmes d
 title: Définir le rythme du flux
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 4%
+source-wordcount: '381'
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
 
    >[!TIP]
    >
-   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **[!UICONTROL Répétitions] : [!UICONTROL Hebdomadaire]** / **[!UICONTROL Tous les &#x200B;] : 1 [!UICONTROL Semaine]** / **[!UICONTROL Activé]** : tous les jours.
+   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **[!UICONTROL Répétitions] : [!UICONTROL Hebdomadaire]** / **[!UICONTROL Tous les ] : 1 [!UICONTROL Semaine]** / **[!UICONTROL Activé]** : tous les jours.
 
    Choisis maintenant l&#39;Heure. Cochez la case si vous souhaitez utiliser [Fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (c’est-à-dire diffuser selon les fuseaux horaires locaux), puis cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -68,8 +68,6 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
    >[!NOTE]
    >
    >Dans cet exemple, un e-mail sera envoyé le jeudi. Nous sauterons ensuite une semaine, puis nous l&#39;enverrons de nouveau mardi, mercredi et jeudi de la semaine suivante. Et puis nous bouclons à nouveau.
-
-Vous avez terminé. Continuez à lire si vous voulez configurer une cadence mensuelle.
 
 ## Mensuel {#monthly}
 

@@ -4,10 +4,10 @@ description: Découvrez les versions des plug-ins pour Microsoft Dynamics MSI. R
 title: Versions des plug-ins pour [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 1%
+source-wordcount: '496'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Lors de la première synchronisation avec [!DNL Microsoft Dynamics], vous téléchargez et installez la dernière version des plug-ins pour Marketo Sales Insight (MSI). Marketo met régulièrement à jour ces plug-ins afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
-Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [&#x200B; est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [ est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL
 
 >[!NOTE]
 >
->Exemple : si votre CRM [!DNL Dynamics] dispose de la version 2.0.0.20 et que la dernière version est 2.0.0.21, vous devez importer la version __ over2.0.0.20.
+>Exemple : si votre CRM [!DNL Dynamics] dispose de la version 2.0.0.20 et que la dernière version est 2.0.0.21, vous devez importer la version 2.0.0.20 _over_.
 
 1. Cliquez sur **[!UICONTROL Suivant]**.
 
@@ -47,7 +47,7 @@ Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-Et c&#39;est tout ! Après la mise à niveau, vous ne verrez qu&#39;une seule solution MSI.
+Après la mise à niveau, vous ne verrez qu&#39;une seule solution MSI.
 
 ## Mises à jour de version {#version-updates}
 
@@ -65,7 +65,7 @@ Et c&#39;est tout ! Après la mise à niveau, vous ne verrez qu&#39;une seule so
    <p>
    Chiffrez les informations de clé secrète à partir de la vue utilisateur. Le mot de passe doit être modifié après l’importation du nouveau package pour que le chiffrement s’effectue.
    <p>
-   Lors de la mise à jour du plug-in MSI pour Dynamics, il est recommandé de mettre à jour la clé secrète de l’API SOAP et les informations d’identification MSI sous la forme d’une actualisation afin de s’assurer qu’aucune autorisation d’accès n’est accordée avec le nouveau package en cours d’installation.</td>
+   Lors de la mise à jour du plug-in MSI pour Dynamics, il est recommandé de mettre à jour la clé secrète de l’API SOAP et les informations d’identification MSI sous la forme d’une actualisation afin de s’assurer qu’aucune autorisation d’accès n’a lieu avec le nouveau package en cours d’installation.</td>
   </tr>
   <tr>
    <td>10/18/23</td>
