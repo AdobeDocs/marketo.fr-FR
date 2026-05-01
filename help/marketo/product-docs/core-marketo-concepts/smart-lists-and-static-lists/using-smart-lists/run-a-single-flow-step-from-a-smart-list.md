@@ -39,7 +39,7 @@ Si vous souhaitez exécuter une seule étape de flux unique, vous pouvez utilise
    >
    >Si les résultats s’étendent sur plusieurs pages, le fait de cliquer sur **[!UICONTROL Tout sélectionner]** sélectionne toutes les personnes sur toutes les pages.
 
-1. Sous **[!UICONTROL Actions de personne]**, sélectionnez l’étape de flux de votre choix. Cet exemple utilise [ Modifier la valeur des données ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. Sous **[!UICONTROL Actions de personne]**, sélectionnez l’étape de flux de votre choix. Cet exemple utilise [&#x200B; Modifier la valeur des données &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 

@@ -31,8 +31,8 @@ Cette étape de flux peut être utilisée dans les campagnes Marketo Engage ou c
    >
    >Si une campagne Salesforce n’apparaît pas dans la liste des campagnes :
    >
-   > 1. Vérifiez que la [ synchronisation de la campagne est activée ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}.
-   > 1. Vérifiez que votre [utilisateur de synchronisation ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} est un [utilisateur marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} dans Salesforce.
+   > 1. Vérifiez que la [&#x200B; synchronisation de la campagne est activée &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}.
+   > 1. Vérifiez que votre [utilisateur de synchronisation &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} est un [utilisateur marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} dans Salesforce.
 
    >[!TIP]
    >

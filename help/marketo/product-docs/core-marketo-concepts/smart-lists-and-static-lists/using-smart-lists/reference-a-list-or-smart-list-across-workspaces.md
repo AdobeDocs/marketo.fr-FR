@@ -45,7 +45,7 @@ Les listes et les listes dynamiques peuvent être partagées et référencées d
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Choisissez un **** avec lequel partager et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Choisissez un **&#x200B;**&#x200B;avec lequel partager et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 

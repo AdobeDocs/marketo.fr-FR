@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # Filtres automatiques {#inferred-filters}
 
-Lorsqu&#39;une personne visite votre site web, [](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Le système recherche leur adresse IP dans une base de données spéciale et déduit toutes sortes d&#39;informations.
+Lorsqu&#39;une personne visite votre site web, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Le système recherche leur adresse IP dans une base de données spéciale et déduit toutes sortes d&#39;informations.
 
 >[!NOTE]
 >
 >Pour que les valeurs de champ déduites restent à jour, la base de données utilisée pour les recherches d’adresses IP est régulièrement mise à jour. Les mises à jour de la base de données peuvent introduire de nouvelles valeurs de champ déduites que vous devrez peut-être ajouter aux définitions de filtre de liste dynamique.
 >
->Des mises à jour de base de données peuvent se produire au cours d&#39;une version de produit [](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Lorsqu&#39;une mise à jour se produit, les notes de mise à jour de [](/help/marketo/release-notes/current.md){target="_blank"} contiennent une explication de toute modification apportée aux valeurs de champ déduites.
+>Des mises à jour de base de données peuvent se produire au cours d&#39;une version de produit [&#128279;](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Lorsqu&#39;une mise à jour se produit, les notes de mise à jour de [&#128279;](/help/marketo/release-notes/current.md){target="_blank"} contiennent une explication de toute modification apportée aux valeurs de champ déduites.
 
 ![](assets/inferred-filters-1.png)
 

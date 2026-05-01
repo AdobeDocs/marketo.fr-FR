@@ -94,7 +94,7 @@ Vous pouvez arrêter la synchronisation de votre liste à tout moment.
 
 ### Partage vers Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Pour les utilisateurs qui possèdent à la fois Adobe Audience Manager et Adobe Analytics, cette intégration permet le partage des audiences de Marketo vers vos suites de rapports Adobe Analytics. Toutefois, des étapes de configuration supplémentaires doivent être effectuées dans Adobe Audience Manager pour activer ce partage. Veuillez consulter la [documentation de ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} pour plus d&#39;informations sur la configuration.
+* Pour les utilisateurs qui possèdent à la fois Adobe Audience Manager et Adobe Analytics, cette intégration permet le partage des audiences de Marketo vers vos suites de rapports Adobe Analytics. Toutefois, des étapes de configuration supplémentaires doivent être effectuées dans Adobe Audience Manager pour activer ce partage. Veuillez consulter la [documentation de &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} pour plus d&#39;informations sur la configuration.
 
 * Une fois qu’une liste est téléchargée de Marketo vers Adobe Audience Manager, elle est également accessible par Adobe Target. Cette configuration [doit être activée dans Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
