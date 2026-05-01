@@ -4,9 +4,9 @@ description: Découvrez comment ajouter une personne à la place sur la liste bl
 title: Ajouter une personne à la liste bloquée
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 5%
 
 ---
@@ -53,7 +53,7 @@ L’ajout de personnes à votre Place sur la liste bloquée les empêche de rece
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. Sélectionnez la liste dynamique que vous venez de créer.
+1. Sélectionnez la liste dynamique que vous avez créée.
 
    ![](assets/add-person-to-blocklist-9.png)
 
@@ -81,4 +81,4 @@ Ces personnes ne recevront plus d’e-mails.
 
 >[!TIP]
 >
->Placer sur la liste bloquée Créez une [Campagne Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} à l’aide de **Modifier la valeur des données** avec **La liste bloquée est vraie** pour toutes les personnes qui auront à l’avenir des attributs pouvant être traités par.
+>Créez une [Campagne Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} à l’aide de **Modifier la valeur des données** avec **La liste bloquée est vraie** pour toutes les personnes qui auront à l’avenir des attributs pouvant être traités par.

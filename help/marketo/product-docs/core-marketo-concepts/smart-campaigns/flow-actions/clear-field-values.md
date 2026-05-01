@@ -4,9 +4,9 @@ description: Découvrez comment effacer les valeurs de champ dans une étape de 
 title: Effacer les valeurs des champs
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 5%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 5%
 
    >[!CAUTION]
    >
-   >Si vous laissez la nouvelle valeur vide ou si vous entrez simplement un ESPACE, le champ n’est pas vraiment vide. Vous devez saisir NULL. N’oubliez pas non plus que les étapes de flux ne peuvent pas être annulées après l’exécution.
+   >Si vous laissez la nouvelle valeur vide ou saisissez un ESPACE, le champ n’est pas vraiment vide. Vous devez saisir NULL. N’oubliez pas non plus que les étapes de flux ne peuvent pas être annulées après l’exécution.

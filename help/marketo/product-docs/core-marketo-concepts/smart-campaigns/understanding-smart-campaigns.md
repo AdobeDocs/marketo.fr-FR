@@ -4,16 +4,16 @@ description: Découvrez les campagnes intelligentes pour l’automatisation dans
 title: Présentation des campagnes intelligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 92%
+source-wordcount: '248'
+ht-degree: 85%
 
 ---
 
 # Présentation des campagnes intelligentes {#understanding-smart-campaigns}
 
-Si l’on considère que Marketo Engage est une voiture, alors la campagne intelligente est son moteur. Les campagnes intelligentes, simples d’utilisation, peuvent faire bien plus que vous ne pouvez l’imaginer.
+Si l’on considère que Marketo Engage est une voiture, alors la campagne intelligente est son moteur. Les campagnes intelligentes peuvent faire plus que ce que vous pouvez imaginer et il est facile de commencer à les utiliser.
 
 La campagne intelligente comporte trois zones principales : les onglets [Liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} et [Planning](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
@@ -51,7 +51,7 @@ Le flux comprend les étapes que vous souhaitez que la campagne intelligente ex�
 
 Enfin, cet élément contrôle le moment où vous exécutez votre campagne intelligente. Vous pouvez même configurer la périodicité afin qu’elle s’exécute selon un planning répété.
 
-Il y a énormément de choses que la campagne intelligente peut faire. Familiarisez-vous avec cette fonctionnalité et vous découvrirez que tout dans Marketo devient beaucoup plus simple à comprendre.
+Il y a énormément de choses que la campagne intelligente peut faire.
 
 >[!CAUTION]
 >

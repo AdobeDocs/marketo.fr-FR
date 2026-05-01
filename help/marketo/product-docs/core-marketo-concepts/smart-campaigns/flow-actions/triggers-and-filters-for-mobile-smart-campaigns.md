@@ -4,9 +4,9 @@ description: Découvrez les déclencheurs et les filtres pour les campagnes inte
 title: Déclencheurs et filtres pour les campagnes intelligentes mobiles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '849'
 ht-degree: 3%
 
 ---
@@ -75,7 +75,7 @@ Utilisez ce filtre pour identifier toutes les personnes qui ont déjà installé
 
 >[!TIP]
 >
->Il est recommandé de spécifier A une application mobile = true et Est activé pour les notifications push = true, ainsi que le nom de votre application mobile lors de la définition de la liste dynamique des personnes qui doivent recevoir une notification push.
+>il est recommandé de spécifier A une application mobile = true et Est activé pour les notifications push = true, ainsi que le nom de votre application mobile lors de la définition de la liste dynamique des personnes qui doivent recevoir une notification push.
 
 L’Application Mobile Est/A Été Installée
 
@@ -103,7 +103,7 @@ L&#39;Application Mobile Est/A Été Ouverte
 
 A/A Eu Une Activité D’Application Mobile
 
-Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Ils offrent un moyen puissant de suivre l’activité mobile personnalisée. Vous devrez travailler avec votre développeur pour configurer le suivi [pour Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} et [pour iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * A une activité d’application mobile - déclencheur
 

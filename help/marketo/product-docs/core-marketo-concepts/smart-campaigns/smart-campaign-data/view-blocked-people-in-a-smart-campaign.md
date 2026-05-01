@@ -4,16 +4,16 @@ description: Découvrez comment afficher les personnes bloquées dans une campag
 title: Afficher les personnes bloquées dans une campagne intelligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 10%
 
 ---
 
 # Afficher les personnes bloquées dans une campagne intelligente {#view-blocked-people-in-a-smart-campaign}
 
-Les personnes bloquées dans la base de données Marketo Engage placer sur la liste bloquée sont marquées comme étant bloquées, désabonnées, dont le marketing est suspendu et/ou ont un e-mail non valide ou vide.
+Les personnes bloquées dans la base de données Marketo Engage sont marquées comme étant bloquées, désabonnées, dont le marketing est suspendu, ou ont un e-mail non valide ou vide.
 
 1. Dans votre campagne dynamique, cliquez sur **[!UICONTROL Planifier]**. Sous **[!UICONTROL Statut de la liste dynamique]**, cliquez sur le deuxième lien.
 

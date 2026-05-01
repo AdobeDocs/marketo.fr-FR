@@ -4,10 +4,10 @@ description: Découvrez comment replanifier une campagne intelligente par lots d
 title: Replanifier une campagne intelligente par lots dans la vue Planning du programme
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 19%
+ht-degree: 18%
 
 ---
 
@@ -23,7 +23,7 @@ Vous souhaitez replanifier une exécution de campagne par lots ? Effectuez un gl
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Fantastique ! La campagne intelligente a été replanifiée. L’heure peut également être modifiée à partir de la liste déroulante **[!UICONTROL Date]** dans les détails de l’entrée.
+1. La campagne intelligente a été replanifiée. L’heure peut également être modifiée à partir de la liste déroulante **[!UICONTROL Date]** dans les détails de l’entrée.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

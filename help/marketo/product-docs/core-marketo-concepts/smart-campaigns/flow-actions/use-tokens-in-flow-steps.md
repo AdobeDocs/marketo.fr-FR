@@ -4,9 +4,9 @@ description: Découvrez comment utiliser des jetons dans les étapes de flux. In
 title: Utiliser des jetons dans des étapes de flux
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ Un jeton est une variable. Vous l’utilisez dans les e-mails, les landing pages
    >
    >Les jetons de champ personnalisé de membre de programme peuvent être utilisés dans les actions suivantes : Créer une tâche, Créer une tâche dans Microsoft, Moments significatifs, Modifier le flux de valeurs de données et Webhooks.
 
-   Cool ! Les données sont extraites du jeton lors de l’exécution de la campagne intelligente.
+   Les données sont extraites du jeton lors de l’exécution de la campagne intelligente.
 
    >[!MORELIKETHIS]
    >

@@ -4,10 +4,10 @@ description: Découvrez comment utiliser Ajouter un choix dans une étape de flu
 title: Utiliser l’option Ajouter un choix dans une étape de flux
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 7%
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 7%
    >
    >Seul le premier choix correspondant est appliqué à l’étape de flux. Découvrez comment [réorganiser « Ajouter un choix » dans une action de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Fantastique ! Vous pouvez désormais créer une seule campagne dynamique avec des choix d’étapes de flux au lieu de créer plusieurs campagnes dynamiques pour chaque choix.
+   Vous pouvez désormais créer une seule campagne dynamique avec des choix d’étapes de flux au lieu de créer plusieurs campagnes dynamiques pour chaque choix.
 
    >[!MORELIKETHIS]
    >

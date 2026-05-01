@@ -4,16 +4,16 @@ description: Découvrez comment utiliser la logique de règle de liste dynamique
 title: Utilisation de la logique avancée de règle de liste intelligente
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # Utilisation de la logique avancée de règle de liste intelligente {#using-advanced-smart-list-rule-logic}
 
-Vous pouvez trouver exactement les personnes dont vous avez besoin en appliquant la logique de règle de liste dynamique à plusieurs filtres d’une liste dynamique. Voici comment faire.
+Vous pouvez trouver exactement les personnes dont vous avez besoin en appliquant la logique de règle de liste dynamique à plusieurs filtres d’une liste dynamique.
 
 >[!PREREQUISITES]
 >

@@ -4,9 +4,9 @@ description: Obtenez de l’aide sur les opérateurs de filtres de liste dynamiq
 title: Glossaire des opérateurs de filtre de liste intelligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '614'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 Un opérateur/une opératrice fait partie de la liste dynamique qui vous permet d’être plus précis. Il vous permet de décrire votre filtre ou déclencheur dans un langage simple. Les opérateurs disponibles sont différents pour chaque type de champ.
 
-Voici un glossaire décrivant chaque ensemble d’opérateurs.
+Ce glossaire décrit chaque ensemble d’opérateurs.
 
 ## Champs de date {#date-fields}
 
@@ -102,7 +102,7 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
   </tr>
 </tbody></table>
 
-**&#42;** L’entrée en langage naturel est cool. Voici quelques-uns des modèles que vous pouvez entrer :
+**&#42;** saisie en langage naturel utilise les modèles suivants :
 
 * 1 heure
 * 82 jours
@@ -110,7 +110,7 @@ Lorsque vous choisissez un opérateur, le côté droit change dynamiquement.
 * 14 mois
 * 1 an
 
-Tapez simplement le numéro et l&#39;unité ensemble et cela fonctionnera !
+Saisissez le nombre et l’unité ensemble.
 
 >[!NOTE]
 >
@@ -236,4 +236,4 @@ Utilisez le diagramme suivant pour comprendre la différence entre les opérateu
 </tbody>
 </table>
 
-Comme vous pouvez le constater, ces opérateurs permettent de parler facilement le Marketo avec aisance !
+Comme vous pouvez le constater, ces opérateurs permettent de parler facilement le Marketo avec aisance.

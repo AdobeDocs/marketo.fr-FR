@@ -4,9 +4,9 @@ description: Découvrez comment ajouter une contrainte à un filtre de liste dyn
 title: Ajouter une contrainte à un filtre de liste intelligente
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '182'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Lors de la création d’une liste dynamique, certains filtres disposent d’options avancées appelées « contraintes ». Ce sont des conditions supplémentaires que vous pouvez ajouter aux filtres et aux déclencheurs pour vous aider à affiner davantage votre recherche.
 
-Dans cet exemple, ajoutons des contraintes à un filtre **[Valeur des données modifiées](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** pour rechercher les personnes dont le statut a été modifié de MQL à SQL.
+Dans cet exemple, ajoutez des contraintes à un filtre **[Valeur des données modifiées](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** pour rechercher les personnes dont le statut est passé de MQL à SQL.
 
 >[!PREREQUISITES]
 >
@@ -46,4 +46,4 @@ Dans cet exemple, ajoutons des contraintes à un filtre **[Valeur des données m
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. Bien joué ! Cliquez sur l’onglet **[!UICONTROL Personnes]** pour afficher toutes les personnes dont le statut est passé de « MQL » à « SQL » au cours des 30 derniers jours.
+1. Cliquez sur l’onglet **[!UICONTROL Personnes]** pour afficher toutes les personnes dont le statut est passé de « MQL » à « SQL » au cours des 30 derniers jours.

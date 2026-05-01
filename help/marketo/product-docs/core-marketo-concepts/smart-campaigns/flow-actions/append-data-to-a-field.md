@@ -4,16 +4,16 @@ description: Découvrez comment ajouter des données à un champ dans une étape
 title: Ajouter des données à un champ
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 8%
 
 ---
 
 # Ajouter des données à un champ {#append-data-to-a-field}
 
-Il existe un moyen facile d’ajouter des données à un champ. Voici comment faire.
+L’ajout de données à un champ est simple.
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ Il existe un moyen facile d’ajouter des données à un champ. Voici comment fa
 
    ![](assets/append-data-to-a-field-4.png)
 
-Vous avez terminé. Vous pouvez faire preuve de créativité et y ajouter plusieurs jetons.
+Vous pouvez ajouter plusieurs jetons dans le même champ.

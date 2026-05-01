@@ -4,10 +4,10 @@ description: Découvrez les dates provisoires et confirmées dans la vue Calendr
 title: Présentation des dates provisoires/confirmées
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 4%
+source-wordcount: '211'
+ht-degree: 5%
 
 ---
 
@@ -47,8 +47,8 @@ Les entrées confirmées s’exécuteront certainement. Ils disposent de règles
 
 ## Terminé  {#finished}
 
-Les entrées terminées ont déjà été exécutées. Elles ne peuvent être que dans le passé (évidemment). Une fois qu’une entrée a été exécutée et qu’elle est **[!UICONTROL Terminée]**, vous ne pouvez pas la déplacer ni la rendre provisoire. (Ne pas changer la réalité et perturber le continuum temporel.)
+Les entrées terminées ont déjà été exécutées. Ils ne peuvent être que dans le passé. Une fois qu’une entrée a été exécutée et qu’elle est **[!UICONTROL Terminée]**, vous ne pouvez pas la déplacer ni la rendre provisoire.
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Ces États sont des outils puissants. Lorsque vous clonez un programme, toutes les dates des campagnes intelligentes et des programmes par e-mail sont provisoires. Elles peuvent toutes être confirmées directement à partir de la vue du planning. Cool, non ?
+Ces États sont des outils puissants. Lorsque vous clonez un programme, toutes les dates des campagnes intelligentes et des programmes par e-mail sont provisoires. Elles peuvent toutes être confirmées directement à partir de la vue du planning.

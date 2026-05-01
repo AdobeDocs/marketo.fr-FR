@@ -4,16 +4,16 @@ description: Découvrez comment créer une liste statique dans Marketo. Ajouter 
 title: Créer une liste statique
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 7%
 
 ---
 
 # Créer une liste statique {#create-a-static-list}
 
-Les listes statiques sont un groupe de personnes déjà présentes dans votre base de données. Voici comment en créer un.
+Les listes statiques sont un groupe de personnes déjà présentes dans votre base de données.
 
 1. Accédez à **[!UICONTROL Base de données]**.
 

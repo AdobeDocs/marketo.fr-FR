@@ -4,16 +4,16 @@ description: Découvrez comment afficher les résultats des campagnes intelligen
 title: Afficher les résultats d’une campagne intelligente
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 6%
 
 ---
 
 # Afficher les résultats d’une campagne intelligente {#view-smart-campaign-results}
 
-Vous souhaitez voir une répartition de tout ce qui s’est passé dans une campagne intelligente ? Voici comment faire.
+Découvrez comment afficher les résultats de votre campagne intelligente.
 
 >[!TIP]
 >
@@ -35,7 +35,7 @@ Vous souhaitez voir une répartition de tout ce qui s’est passé dans une camp
    >
    >Affichez les détails de la personne en cliquant sur son nom.
 
-   Explorez les résultats pour voir ce qu’a réellement fait votre campagne ou [exportez simplement les résultats de campagne intelligente vers Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Explorez les résultats pour voir ce qu’a réellement fait votre campagne ou [exportez les résultats de campagne intelligente vers Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

@@ -4,10 +4,10 @@ description: Obtenez de l’aide sur la liste de contrôle de Campagne intellige
 title: Liste de contrôle de la campagne intelligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 3%
+source-wordcount: '257'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ Dans votre campagne dynamique, cliquez sur **[!UICONTROL Liste dynamique]**. Dé
 >
 >Des lignes pointilleuses rouges indiquent des erreurs ou des informations manquantes. Si elle n’est pas corrigée, la campagne ne sera pas valide et ne s’exécutera pas.
 >
->Aussi, gardez les choses simples. Si vous avez des dizaines ou des centaines de filtres, il est difficile de les gérer et d’en effectuer le suivi. Moins de filtres sont également plus rapides à charger.
+>Aussi, gardez les choses simples. Si vous disposez de dizaines ou de centaines de filtres, il est difficile de les gérer et d’en effectuer le suivi. Moins de filtres sont également plus rapides à charger.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Dans l’onglet **[!UICONTROL Planifier]**, vérifiez **[!UICONTROL Statut de la
 
 ## Vérifier La Limite Des Restrictions De Personne {#check-person-restrictions-limit}
 
-Dans l&#39;onglet **[!UICONTROL Planning]**, assurez-vous que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
+Dans l&#39;onglet **[!UICONTROL Planning]**, confirmez que le nombre de personnes qualifiées ne dépasse pas la limite de restriction de personne.
 
 ![](assets/smart-campaign-checklist-4.png)
 
@@ -63,4 +63,4 @@ Dans l&#39;onglet **[!UICONTROL Planning]**, assurez-vous que le nombre de perso
 >
 >Si votre campagne intelligente échoue toujours, apprenez à [comprendre les notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) pour comprendre ce qui s’est passé et comment le corriger.
 
-Très bon travail ! Conservez cette liste de contrôle à portée de main avant d’exécuter une campagne dynamique.
+Conservez cette liste de contrôle à portée de main avant d’exécuter une campagne dynamique.

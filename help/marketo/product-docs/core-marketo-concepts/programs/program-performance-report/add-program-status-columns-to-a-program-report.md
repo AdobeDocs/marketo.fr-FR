@@ -4,10 +4,10 @@ description: Découvrez comment ajouter des colonnes de statut de programme à u
 title: Ajouter des colonnes Statut des programmes à un rapport de programmes
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 13%
 
 ---
 
@@ -39,7 +39,7 @@ Ajoutez des statistiques sur le statut du programme à votre [rapport de perform
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. Tu l&#39;as fait ! Cliquez sur l’onglet [!UICONTROL Rapport] pour afficher votre rapport avec les colonnes de statut du programme.
+1. Cliquez sur l’onglet [!UICONTROL Rapport] pour afficher votre rapport avec les colonnes de statut du programme.
 
    ![](assets/programreport.jpg)
 

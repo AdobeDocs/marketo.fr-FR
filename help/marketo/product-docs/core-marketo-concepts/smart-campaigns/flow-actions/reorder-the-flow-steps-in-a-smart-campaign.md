@@ -4,16 +4,16 @@ description: Découvrez comment réorganiser les étapes de flux dans une campag
 title: Réorganiser les étapes de flux dans une campagne intelligente
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '85'
+ht-degree: 18%
 
 ---
 
 # Réorganiser les étapes de flux dans une campagne intelligente {#reorder-the-flow-steps-in-a-smart-campaign}
 
-Les étapes de flux s’exécutent de haut en bas. Voici comment réorganiser les étapes de flux en fonction de vos besoins.
+Les étapes de flux s’exécutent de haut en bas.
 
 >[!PREREQUISITES]
 >

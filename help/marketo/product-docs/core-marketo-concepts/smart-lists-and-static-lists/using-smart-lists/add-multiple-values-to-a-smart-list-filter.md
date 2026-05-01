@@ -4,9 +4,9 @@ description: Découvrez comment ajouter plusieurs valeurs à un filtre de liste 
 title: Ajouter plusieurs valeurs à un filtre de liste intelligente
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 14%
 
 ---
@@ -32,11 +32,10 @@ Supposons que vous souhaitiez trouver tout le monde en Californie, mais que vous
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
-1. Vous pouvez choisir des valeurs à gauche ou simplement les saisir à droite, puis cliquer sur **[!UICONTROL OK]**.
+1. Vous pouvez choisir des valeurs à gauche ou les saisir à droite, puis cliquer sur **[!UICONTROL OK]**.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
-Vite !
 
 >[!MORELIKETHIS]
 >

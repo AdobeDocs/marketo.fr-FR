@@ -4,16 +4,16 @@ description: Découvrez comment cloner une liste ou une liste dynamique. Créez 
 title: Cloner une liste ou une liste intelligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 19%
+source-wordcount: '88'
+ht-degree: 18%
 
 ---
 
 # Cloner une liste ou une liste intelligente {#clone-a-list-or-smart-list}
 
-Au lieu de créer une liste dynamique à partir de zéro, gagnez du temps en clonant une liste similaire et en y apportant des modifications. Voici comment faire.
+Au lieu de créer une liste dynamique à partir de zéro, gagnez du temps en clonant une liste similaire et en y apportant des modifications.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -27,4 +27,4 @@ Au lieu de créer une liste dynamique à partir de zéro, gagnez du temps en clo
 
    ![](assets/clone-a-list-or-smart-list-3.png)
 
-Joli travail ! Vous pouvez également cloner les listes normales de la même manière.
+Vous pouvez également cloner les listes normales de la même manière.

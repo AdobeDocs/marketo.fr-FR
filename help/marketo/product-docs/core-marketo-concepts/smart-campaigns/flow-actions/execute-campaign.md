@@ -3,9 +3,9 @@ description: Découvrez comment utiliser l’étape Exécuter le flux de campagn
 title: Exécuter la campagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '732'
 ht-degree: 2%
 
 ---
@@ -60,7 +60,7 @@ Lorsque la valeur est définie sur true, les contextes de jeton suivants seront 
 
 **Interaction API**
 
-Lors de l’utilisation de la planification ou de la requête de campagne [dans l’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), tous deux vous permettent de transmettre des valeurs pour Mes jetons, ce qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit « Utiliser le contexte parent sur Vrai », elle utilisera les valeurs transmises par l’intermédiaire de l’API, plutôt que les valeurs définies dans l’application.
+Lors de l’utilisation de la campagne Planifier ou Demander [dans l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), tous deux vous permettent de transmettre des valeurs pour Mes jetons, ce qui remplace les valeurs définies pour ces jetons dans la campagne que vous appelez. Si cette campagne exécute ensuite une autre campagne et définit « Utiliser le contexte parent sur Vrai », elle utilisera les valeurs transmises par l’intermédiaire de l’API, plutôt que les valeurs définies dans l’application.
 
 ## Éléments à noter {#things-to-note}
 
@@ -73,7 +73,7 @@ Lors de l’utilisation de la planification ou de la requête de campagne [dans 
 
 >[!CAUTION]
 >
->Ne laissez jamais vos listes intelligentes pour les campagnes exécutables invalides, sinon _personne_ ne sera éligible. Une bonne pratique consiste à créer des ressources de liste dynamique distinctes, à les définir complètement et à s’assurer qu’elles sont valides. Ensuite, utilisez le filtre « Membre de la liste dynamique » dans la campagne exécutable afin de pouvoir échanger votre définition de liste dynamique.
+>Ne laissez jamais vos listes intelligentes pour les campagnes exécutables invalides, sinon _personne_ ne sera éligible. Une bonne pratique consiste à créer des ressources de liste dynamique distinctes, à les définir complètement et à confirmer qu’elles sont valides. Ensuite, utilisez le filtre « Membre de la liste dynamique » dans la campagne exécutable afin de pouvoir échanger votre définition de liste dynamique.
 
 ## Exemple d’héritage de jeton {#token-inheritance-example}
 
@@ -89,7 +89,7 @@ La campagne enfant s&#39;appelle Mes jetons.
 
 ### Exemple 1 - Vrai {#example-one-true}
 
-Dans l’étape de flux Exécuter la campagne de la première campagne parent, la variable « [!UICONTROL &#x200B; Utiliser le contexte du jeton de campagne parent &#x200B;] » est définie sur **[!UICONTROL True]**.
+Dans l’étape de flux Exécuter la campagne de la première campagne parent, la variable « [!UICONTROL  Utiliser le contexte du jeton de campagne parent ] » est définie sur **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 

@@ -4,9 +4,9 @@ description: Découvrez les jetons de champ personnalisé des membres de program
 title: Jetons de champs personnalisés de personnes membres du programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '445'
 ht-degree: 5%
 
 ---
@@ -51,7 +51,7 @@ Vous pouvez insérer des jetons de champs personnalisés de membre de programme 
 
 >[!NOTE]
 >
->N’oubliez pas d’approuver votre e-mail.
+>N’oubliez pas d’approuver l’e-mail.
 
 **Landing pages**
 

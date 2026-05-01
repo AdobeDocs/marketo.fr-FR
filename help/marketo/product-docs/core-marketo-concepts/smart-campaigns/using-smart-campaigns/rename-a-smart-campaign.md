@@ -4,16 +4,16 @@ description: Découvrez comment renommer une campagne intelligente. Modifiez le 
 title: Renommer une campagne intelligente
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 14%
+source-wordcount: '96'
+ht-degree: 12%
 
 ---
 
 # Renommer une campagne intelligente {#rename-a-smart-campaign}
 
-Vous pouvez modifier le nom d’une campagne dynamique existante. Voici comment faire.
+Vous pouvez modifier le nom d’une campagne dynamique existante.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -35,4 +35,4 @@ Vous pouvez modifier le nom d’une campagne dynamique existante. Voici comment 
    >
    >L’ancien nom est visible dans l’onglet et il change lors de l’enregistrement.
 
-Rapide et facile ! Tout emplacement de référence de la campagne dynamique est également modifié.
+Chaque fois que la campagne intelligente est référencée, elle est également mise à jour.

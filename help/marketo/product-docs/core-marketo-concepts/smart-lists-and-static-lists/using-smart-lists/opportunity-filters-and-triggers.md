@@ -4,16 +4,16 @@ description: Découvrez les filtres et les triggers d’opportunité dans Market
 title: Filtres et déclencheurs d’opportunité
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '483'
 ht-degree: 6%
 
 ---
 
 # Filtres et déclencheurs d’opportunité {#opportunity-filters-and-triggers}
 
-Les filtres et triggers d’opportunité permettent d’effectuer le suivi des événements d’opportunité depuis [!DNL Salesforce]. Ils sont un peu différents des autres filtres et déclencheurs.
+Les filtres et triggers d’opportunité permettent d’effectuer le suivi des événements d’opportunité depuis [!DNL Salesforce]. Ils sont un peu différents des autres filtres et triggers.
 
 ## Filtres d’opportunités {#opportunity-filters}
 

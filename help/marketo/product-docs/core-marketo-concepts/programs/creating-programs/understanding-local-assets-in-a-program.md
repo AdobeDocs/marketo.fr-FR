@@ -4,16 +4,16 @@ description: Découvrez les ressources locales dans un programme. Découvrez com
 title: Présentation des ressources locales dans un programme
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 19%
+source-wordcount: '103'
+ht-degree: 30%
 
 ---
 
 # Présentation des ressources locales dans un programme {#understanding-local-assets-in-a-program}
 
-Les ressources locales sont le contenu qui compose votre programme. Les Assets sont personnalisables et vous permettent de créer des initiatives marketing automatisées. Voici un aperçu de la plupart des ressources locales que vous pouvez créer dans un programme :
+Les ressources locales sont le contenu qui compose votre programme. Les Assets sont personnalisables et vous permettent de créer des initiatives marketing automatisées. Vous trouverez ci-dessous la plupart des ressources locales que vous pouvez créer dans un programme :
 
 ![](assets/one.png)
 
@@ -23,12 +23,12 @@ Les ressources locales sont le contenu qui compose votre programme. Les Assets s
 
 * [Campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [Listes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
-* [Listes dynamiques](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-* [Rapports](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
-* [Programmes de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
+* [Listes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+* [Rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+* [Programmes d’e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
 * [E-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
 * [Notifications push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
 * [Page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
-* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
+* [Formulaires](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [Groupe de test](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
 * [Messages SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

@@ -4,16 +4,16 @@ description: Découvrez les listes statiques dans Marketo pour des groupes fixes
 title: Présentation des listes statiques
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '222'
 ht-degree: 5%
 
 ---
 
 # Présentation des listes statiques {#understanding-static-lists}
 
-Les listes statiques sont l’une des fonctionnalités les plus simples et utiles de Marketo. Il s’agit simplement d’une liste de noms provenant de votre base de données. Tu trouveras de nombreuses raisons de les utiliser.
+Les listes statiques sont l’une des fonctionnalités les plus simples et utiles de Marketo. Il s’agit d’une liste de noms provenant de votre base de données. Tu trouveras de nombreuses raisons de les utiliser.
 
 >[!NOTE]
 >
@@ -28,9 +28,9 @@ Il est essentiel de comprendre la différence entre une liste statique et une li
 
 >[!CAUTION]
 >
->L’une des erreurs les plus courantes consiste à penser que vous pouvez supprimer une personne d’une liste en la « supprimant » simplement. **C&#39;est faux**. La suppression de la personne la supprimera de **l’ensemble de la base de données** et pas seulement de la liste.
+>L’une des erreurs les plus courantes consiste à penser que vous pouvez supprimer une personne d’une liste en la « supprimant ». **C&#39;est faux**. La suppression de la personne la supprimera de **l’ensemble de la base de données** et pas seulement de la liste.
 
-## Méthodes d’ajout ou de suppression de personnes d’une liste {#ways-to-add-remove-people-from-a-list}
+## Comment ajouter ou supprimer des personnes d’une liste {#ways-to-add-remove-people-from-a-list}
 
 1. Étape de flux de campagne intelligente ([Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Supprimer de la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
@@ -43,8 +43,6 @@ Il est essentiel de comprendre la différence entre une liste statique et une li
 * Une liste qui a été présélectionnée pour recevoir un message marketing.
 * Une liste de « concurrents » que vous utilisez pour envoyer des messages de contre-espionnage malveillants.
 * Liste temporaire de personnes dans un état particulier, qui sont ensuite supprimées par les campagnes intelligentes lorsqu’elles quittent cet état.
-
-Profitez de la puissance de la LISTE !
 
 >[!MORELIKETHIS]
 >

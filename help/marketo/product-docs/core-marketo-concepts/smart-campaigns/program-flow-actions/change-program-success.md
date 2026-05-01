@@ -4,10 +4,10 @@ description: Découvrez comment modifier la réussite du programme dans une éta
 title: Modifier les succès du programme
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -41,4 +41,4 @@ Si un groupe de personnes est incorrectement marqué comme ayant réussi le prog
    >
    >Vous pouvez utiliser l’étape de flux deux fois pour définir l’indicateur de succès ainsi que la date.
 
-Fantastique ! Maintenant, vous savez comment annuler et forcer le succès.
+Maintenant, vous savez comment annuler et forcer le succès.

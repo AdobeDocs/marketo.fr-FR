@@ -4,9 +4,9 @@ description: Découvrez comment utiliser l’étape de flux de campagne Demander
 title: Demander une campagne
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
@@ -31,15 +31,13 @@ Vous pouvez placer des personnes dans une campagne spécifique à l’aide de l�
 
    ![](assets/request-campaign-3.png)
 
-1. Dans le coin supérieur droit de l’écran, vous verrez quand c’est terminé. Cliquez sur **[!UICONTROL Afficher les résultats]**.
+1. Dans le coin supérieur droit de l’écran, vous verrez quand cela sera fait. Cliquez sur **[!UICONTROL Afficher les résultats]**.
 
    ![](assets/request-campaign-4.png)
 
    Votre personne fait maintenant partie de la campagne demandée.
 
    ![](assets/request-campaign-5.png)
-
-   Un travail génial !
 
 >[!TIP]
 >

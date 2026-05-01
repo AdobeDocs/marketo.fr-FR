@@ -4,10 +4,10 @@ description: Découvrez comment utiliser la logique de règle de liste dynamique
 title: Utilisation de la logique standard de règle de liste intelligente
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ Vous avez peut-être remarqué l’option « Utiliser des filtres » lors de la 
 >
 >La modification de la logique de règle de liste dynamique s’applique uniquement aux filtres, _pas_ aux déclencheurs.
 
-Les Triggers sont toujours évalués en tant que OU même si le paramètre ci-dessus est défini sur ALL. Voici un exemple :
+Les Triggers sont toujours évalués en tant que OU même si le paramètre ci-dessus est défini sur ALL. Par exemple :
 
 ![](assets/using-standard-smart-list-rule-logic-2.png)
 

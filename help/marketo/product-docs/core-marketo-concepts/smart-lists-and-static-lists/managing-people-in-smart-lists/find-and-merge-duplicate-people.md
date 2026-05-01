@@ -4,16 +4,16 @@ description: Découvrez comment rechercher et fusionner des personnes en double.
 title: Rechercher et fusionner les personnes en double
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '436'
 ht-degree: 3%
 
 ---
 
 # Rechercher et fusionner les personnes en double {#find-and-merge-duplicate-people}
 
-Marketo Engage déduplique automatiquement les nouvelles personnes qui entrent dans le système. Cependant, votre CRM a peut-être initialement envoyé des doublons. Voici comment les fusionner.
+Marketo Engage déduplique automatiquement les nouvelles personnes qui entrent dans le système. Cependant, votre CRM a peut-être initialement envoyé des doublons.
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ Marketo Engage déduplique automatiquement les nouvelles personnes qui entrent d
 
    >[!CAUTION]
    >
-   >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne [!DNL Salesforce]. Si possible, fusionnez les enregistrements dans [!DNL Salesforce].
+   >La fusion de personnes dans Marketo peut ne pas fonctionner si vous utilisez un compte de personne [!DNL Salesforce]. Fusionner les enregistrements en [!DNL Salesforce] si possible.
 
 1. Sélectionnez la liste dynamique système **[!UICONTROL Doublons possibles]** puis cliquez sur l’onglet **[!UICONTROL Personnes]**.
 
@@ -49,7 +49,7 @@ Marketo Engage déduplique automatiquement les nouvelles personnes qui entrent d
 
 >[!CAUTION]
 >
->Lors de la fusion de personnes, si la personne perdante possède un objet personnalisé Marketo, celui-ci ne sera _pas_ associé à nouveau à la personne gagnante. Veuillez réinitialiser l&#39;objet personnalisé avant d&#39;effectuer la fusion.
+>Lors de la fusion de personnes, si la personne perdante possède un objet personnalisé Marketo, celui-ci ne sera _pas_ associé à nouveau à la personne gagnante. Ré-parents de l&#39;objet personnalisé avant d&#39;effectuer la fusion.
 
 1. Sélectionnez les doublons en maintenant la touche Ctrl/Cmd enfoncée et en cliquant sur **[!UICONTROL Fusionner les personnes]**.
 
@@ -82,7 +82,7 @@ Si vous disposez d’une intégration Salesforce, voici quelques remarques sur l
 
 Pour plus d’informations sur le comportement de Salesforce lors de la fusion de prospects ou de contacts, consultez les documents [!DNL Salesforce] suivants :
 
-* [Fusion des prospects en double](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Fusion des leads en double](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
 * [Fusion des contacts en double](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Fusion en bloc {#bulk-merging}

@@ -4,9 +4,9 @@ description: Découvrez comment abandonner une campagne intelligente. Arrêter u
 title: Arrêter une campagne intelligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 >
 >Réservé À Un Usage D’Urgence
 
-Parfois, vous lancez une campagne intelligente et réalisez immédiatement que c’était une erreur. Voici comment tirer le frein d&#39;urgence et arrêter la campagne intelligente à mi-parcours.
+Parfois, vous lancez une campagne intelligente et réalisez immédiatement que c’était une erreur. Suivez les étapes ci-dessous pour arrêter une campagne intelligente à mi-parcours.
 
 1. Sélectionnez la campagne intelligente souhaitée et cliquez sur l’onglet **[!UICONTROL Planifier]**.
 
@@ -33,7 +33,7 @@ Parfois, vous lancez une campagne intelligente et réalisez immédiatement que c
 
    >[!NOTE]
    >
-   >L’abandon n’annule pas les étapes déjà terminées, mais simplement une autre étape qui ne se produit pas (exemple : les e-mails ne peuvent pas être remis).
+   >L’abandon n’annule pas les étapes déjà terminées, mais il empêche plus d’événements de se produire (par exemple : les e-mails ne peuvent pas être remis).
 
    ![](assets/abort-a-smart-campaign-4.png)
 

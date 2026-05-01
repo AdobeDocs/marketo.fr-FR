@@ -4,16 +4,16 @@ description: Découvrez comment utiliser les listes dynamiques intégrées et sy
 title: Utiliser des listes intelligentes système ou intégrées
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 12%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
-# Utiliser des listes intelligentes système ou intégrées {#use-built-in-system-smart-lists}
+# Utilisation de listes dynamiques système intégrées {#use-built-in-system-smart-lists}
 
-Marketo Engage intègre des listes dynamiques très utiles. Allons les voir !
+Marketo Engage intègre des listes dynamiques qui sont utiles pour les tâches de segmentation courantes.
 
 1. Accédez à la **[!UICONTROL Base de données]**.
 

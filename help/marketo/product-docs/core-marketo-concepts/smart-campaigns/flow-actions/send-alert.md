@@ -4,16 +4,16 @@ description: Découvrez comment envoyer une alerte dans une étape de flux de ca
 title: Envoyer une alerte
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 2%
 
 ---
 
 # Envoyer une alerte {#send-alert}
 
-Marketo Engage peut envoyer une alerte par e-mail contenant des informations personnelles à n’importe qui : le commercial, un partenaire ou quelqu’un d’autre. Utilisez l’étape de flux « [!UICONTROL &#x200B; Envoyer l’alerte &#x200B;] ».
+Marketo Engage peut envoyer une alerte par e-mail contenant des informations personnelles à n’importe qui : le commercial, un partenaire ou quelqu’un d’autre. Utilisez l’étape de flux « [!UICONTROL  Envoyer l’alerte ] ».
 
 ![](assets/send-alert-1.png)
 
@@ -31,7 +31,7 @@ Marketo Engage peut envoyer une alerte par e-mail contenant des informations per
 
    >[!NOTE]
    >
-   >Veillez à utiliser le jeton « [!UICONTROL &#x200B; Envoyer les informations d’alerte &#x200B;] » dans votre e-mail.
+   >Utilisez le jeton « [!UICONTROL  Envoyer les informations d’alerte ] » dans votre e-mail.
 
 1. Sélectionnez le destinataire de l’alerte. Vous pouvez choisir [!UICONTROL Propriétaire de ventes] ou [!UICONTROL Propriétaire de compte].
 

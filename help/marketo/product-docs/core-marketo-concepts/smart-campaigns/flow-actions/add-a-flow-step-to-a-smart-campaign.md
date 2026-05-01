@@ -4,9 +4,9 @@ description: Découvrez comment ajouter une étape de flux à une campagne dynam
 title: Ajouter une étape de flux à une campagne intelligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '177'
 ht-degree: 11%
 
 ---
@@ -39,7 +39,7 @@ Les étapes de flux indiquent à Marketo Engage ce que vous souhaitez qu’il ar
 >
 >Une ligne rouge ondulée s’affiche en cas d’entrée non valide. Survolez la ligne pour voir comment la corriger.
 
-Génial ! Veillez à [examiner et valider la campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} avant de la planifier ou de l’activer.
+[Examinez et validez la campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} avant de la planifier ou de l’activer.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Découvrez comment activer un déclencheur de campagne intelligente
 title: Activer une campagne intelligente à déclencheur | Onglet Planning
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 
 # Activer une campagne intelligente à déclencheur | Onglet Planning {#activate-a-trigger-smart-campaign-schedule-tab}
 
-Activer un déclencheur de campagne dynamique, c’est comme l’activer. Voici ce qu&#39;il faut faire.
+Activer un déclencheur de campagne dynamique, c’est comme l’activer.
 
 1. Dans l’onglet **[!UICONTROL Planning]** de la campagne dynamique, cliquez sur **[!UICONTROL Activer]**.
 

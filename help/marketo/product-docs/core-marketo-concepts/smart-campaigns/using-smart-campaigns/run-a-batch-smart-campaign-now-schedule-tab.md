@@ -4,16 +4,16 @@ description: Découvrez comment exécuter une campagne intelligente par lots mai
 title: Exécuter immédiatement une campagne intelligente par lots | Onglet Planning
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Exécuter immédiatement une campagne intelligente par lots | Onglet Planning {#run-a-batch-smart-campaign-now-schedule-tab}
 
-Une fois la création de la campagne par lots terminée, vous pouvez choisir de l’exécuter maintenant ou plus tard. Voici comment l’exécuter immédiatement.
+Une fois la création de la campagne par lots terminée, vous pouvez choisir de l’exécuter maintenant ou plus tard.
 
 1. Sélectionnez la campagne par lots, accédez à l’onglet **[!UICONTROL Planning]**, puis cliquez sur **[!UICONTROL Exécuter une fois]**.
 
@@ -27,7 +27,7 @@ Une fois la création de la campagne par lots terminée, vous pouvez choisir de 
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Doucement ! Vous pouvez également [planifier des exécutions pour plus tard](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} si vous le souhaitez.
+   Vous pouvez également [planifier des exécutions pour plus tard](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} si vous le souhaitez.
 
    >[!NOTE]
    >

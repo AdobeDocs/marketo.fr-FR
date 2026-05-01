@@ -4,9 +4,9 @@ description: Découvrez comment appliquer des limites de communication à une ca
 title: Appliquer des limites de communication à une campagne intelligente
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '148'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 >
 >[Activer les limites de communication](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-Ce n&#39;est pas une bonne idée d&#39;envoyer plusieurs courriels par jour, ou trop de fois par semaine, n&#39;est-ce pas? Heureusement, Marketo Engage a des limites de communication pour vous aider.
+Ce n&#39;est pas une bonne idée d&#39;envoyer des courriels à quelqu&#39;un plusieurs fois par jour, ou trop de fois par semaine, n&#39;est-ce pas? Heureusement, Marketo Engage a des limites de communication pour vous aider.
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ Ce n&#39;est pas une bonne idée d&#39;envoyer plusieurs courriels par jour, ou 
 >
 >Pour définir ce paramètre comme valeur par défaut, modifiez vos [limites de communication](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} dans la section Admin.
 
-Vous pouvez maintenant être sûr de ne pas envoyer accidentellement trop d’e-mails à votre audience.
+Vous pouvez maintenant être assuré de ne pas envoyer accidentellement trop d’e-mails à votre audience.

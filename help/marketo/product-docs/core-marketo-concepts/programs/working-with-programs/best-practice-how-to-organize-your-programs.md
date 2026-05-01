@@ -4,9 +4,9 @@ description: Obtenez de l’aide sur les bonnes pratiques pour organiser vos pro
 title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '855'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Il existe de nombreuses façons d’organiser l’arborescence dans les activit�
 
 >[!TIP]
 >
->Un jour (lorsque vous obtiendrez une promotion !), quelqu&#39;un d&#39;autre essaiera de donner un sens à vos programmes. Une bonne organisation les aidera à être rapidement productifs.
+>Un jour, quelqu’un d’autre devra peut-être donner un sens à vos programmes. Une bonne organisation les aidera à être rapidement productifs.
 
 ## Dossiers {#folders}
 
@@ -105,20 +105,20 @@ Ils sont utilisés à des fins de nettoyage des données. Disposer de dossiers p
 
 ## Imbrication de programmes de messagerie {#nesting-email-programs}
 
-Les programmes de messagerie sont conçus pour être votre outil de sablage de courrier. Vous pouvez les placer dans des événements ou d’autres programmes pour des promotions, des invitations et des rappels. Ils sont fournis avec un tableau de bord utile et d’autres fonctionnalités de test A/B. En outre, ils sont facilement manipulés dans la vue de planning du programme.
+Les programmes de messagerie sont conçus pour être votre outil de sablage de courrier. Vous pouvez les placer dans des événements ou d’autres programmes pour des promotions, des invitations et des rappels. Ils sont fournis avec un tableau de bord et d’autres fonctionnalités de test A/B. Ils peuvent également être gérés dans la vue du planning du programme.
 
-Vous pouvez également créer un programme d’e-mail en tant que programme autonome. Les programmes de messagerie ne sont pas autorisés dans d&#39;autres programmes de messagerie. Ce serait fou !
+Vous pouvez également créer un programme d’e-mail en tant que programme autonome. Les programmes de messagerie ne sont pas autorisés dans d&#39;autres programmes de messagerie.
 
 ## Clonage {#cloning}
 
-L’une des fonctionnalités les plus intéressantes de Marketo est la possibilité de cloner des programmes. Cela signifie que vous pouvez configurer un « modèle » de programme qui contient toutes les campagnes intelligentes et tous les e-mails que vous souhaitez. Configurez-le à l’avance, puis clonez-le pour votre prochaine initiative marketing.
+L’une des fonctionnalités les plus utiles de Marketo est la possibilité de cloner des programmes. Cela signifie que vous pouvez configurer un « modèle » de programme qui contient toutes les campagnes intelligentes et tous les e-mails que vous souhaitez. Configurez-le à l’avance, puis clonez-le pour votre prochaine initiative marketing.
 
 >[!TIP]
 >
 >Remarquez les modèles d’événement dans l’exemple en haut. Insérez vos différents types d’événements pour un clonage facile.
 
-Certaines personnes convertissent même la plupart du texte des e-mails et des landing pages en jetons. Vous pouvez ainsi cloner, puis modifier les jetons. Enfin, accédez à la vue du planning du programme et ajustez les dates. Vous avez terminé. Voila !
+Certaines personnes convertissent même la plupart du texte des e-mails et des landing pages en jetons. Vous pouvez ainsi cloner, puis modifier les jetons. Enfin, accédez à la vue du planning du programme et ajustez les dates. Vous avez terminé.
 
 ## Résumé {#summary}
 
-Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Nous avons abordé les bases ici, mais envisagez des services supplémentaires de [experts Marketo Engage](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système pour réussir.
+Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Les principes de base sont abordés ici, mais envisagez des services supplémentaires de [experts ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système en vue du succès.

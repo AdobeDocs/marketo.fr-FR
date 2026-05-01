@@ -4,10 +4,10 @@ description: Découvrez comment utiliser les membres d’une liste dans un filtr
 title: Utiliser les personnes membres d’une liste dans une liste intelligente
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 12%
+source-wordcount: '144'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 12%
 >
 >Vous pouvez ajouter des personnes à une liste à l’aide du flux [Importer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou [Ajouter à la liste](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
-Avec ce filtre, vous pouvez extraire des membres d’une autre liste en y faisant référence dans vos règles de liste dynamique. Voici comment faire.
+Avec ce filtre, vous pouvez extraire des membres d’une autre liste en y faisant référence dans vos règles de liste dynamique.
 
 1. Sélectionnez une liste dynamique et cliquez sur l’onglet **[!UICONTROL Liste dynamique]**.
 
@@ -31,4 +31,4 @@ Avec ce filtre, vous pouvez extraire des membres d’une autre liste en y faisan
 
    ![](assets/memberoflist.png)
 
-   Terminé ! Dans cet exemple, la liste dynamique cible désormais uniquement les membres de cette liste et les évalue en fonction des autres règles que vous incluez.
+   Dans cet exemple, la liste dynamique cible désormais uniquement les membres de cette liste et les évalue en fonction des autres règles que vous incluez.

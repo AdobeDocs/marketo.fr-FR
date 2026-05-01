@@ -4,9 +4,9 @@ description: Découvrez comment supprimer une étape de flux d’une campagne dy
 title: Supprimer une étape de flux
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >La suppression d’étapes de flux, _en particulier d’étapes d’attente_ dans les campagnes dynamiques actives, peut avoir des résultats inattendus. Lisez attentivement cet article.
 
-Commençons par les principes de base. Voici comment supprimer une étape de flux indésirable d’une campagne dynamique.
+Pour supprimer une étape de flux indésirable d’une campagne dynamique, procédez comme suit :
 
 1. Dans le **[!UICONTROL Flux]** de campagne intelligente, cliquez sur l’icône **X** pour supprimer une étape de flux.
 
@@ -39,10 +39,10 @@ Commençons par les principes de base. Voici comment supprimer une étape de flu
 
    1. **Jamais couru**. Apportez toutes les modifications souhaitées. Cela n’affectera personne tant que vous n’aurez pas exécuté cette campagne.
    1. **Est une campagne intelligente récurrente**. Les modifications affecteront les personnes lors des exécutions suivantes, et non lors des exécutions précédentes.
-   1. **Déjà exécutée SANS étapes d’attente**.Aucune personne ne sera affectée, car la campagne est inactive après l’exécution.
+   1. **Déjà exécuté SANS étapes d’attente**.Aucune personne ne sera affectée, car la campagne est inactive après l’exécution.
    1. **Est en cours d’exécution**. Les modifications peuvent provoquer un comportement inattendu en fonction du timing et des détails de la suppression. Nous vous recommandons vivement de NE PAS modifier une campagne par lots en cours d’exécution. Pour les cas d’urgence, découvrez comment [abandonner une campagne intelligente en cours d’exécution](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-   1. **Déjà exécuté avec étapes d’attente.** Plusieurs détails sur celui-ci.
+   1. **Déjà exécuté AVEC étapes d’attente.** Plusieurs détails sur celui-ci.
 Lorsqu’une personne passe à une étape d’attente, elle note la durée et l’ÉTAPE NUMÉRIQUE à laquelle revenir. Voir l’exemple ci-dessous.
 
    **Déclencher des campagnes intelligentes**

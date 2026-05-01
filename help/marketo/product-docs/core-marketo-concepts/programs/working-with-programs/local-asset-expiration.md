@@ -3,9 +3,9 @@ description: Découvrez l’expiration des ressources locales dans les programme
 title: Expiration des ressources locales
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '277'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Avant de pouvoir planifier l’expiration d’une ressource, votre rôle Marketo
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Vérifiez la ou les ressources pour lesquelles vous souhaitez définir une date d’expiration, puis cliquez sur **[!UICONTROL Définir l’expiration]**.
+1. Cochez la ressource pour laquelle vous souhaitez définir une date d’expiration, puis cliquez sur **[!UICONTROL Définir l’expiration]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -48,7 +48,7 @@ Avant de pouvoir planifier l’expiration d’une ressource, votre rôle Marketo
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Définissez une heure. Vous devez planifier une heure au moins 15 minutes à l&#39;avenir (n&#39;oubliez pas d&#39;entrer AM/PM). Cliquez sur **[!UICONTROL Confirmer]** lorsque vous avez terminé.
+1. Définissez une heure. Vous devez planifier une heure au moins 15 minutes à l’avenir (pensez à entrer matin/après-midi). Cliquez sur **[!UICONTROL Confirmer]** lorsque vous avez terminé.
 
    ![](assets/local-asset-expiration-7.png)
 

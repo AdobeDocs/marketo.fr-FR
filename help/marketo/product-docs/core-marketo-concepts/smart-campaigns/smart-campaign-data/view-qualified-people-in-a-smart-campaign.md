@@ -4,9 +4,9 @@ description: Découvrez comment afficher les personnes qualifiées dans une camp
 title: Afficher les personnes qualifiées dans une campagne intelligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '171'
 ht-degree: 8%
 
 ---
@@ -35,7 +35,7 @@ Affichez les personnes qui remplissent les critères pour passer par le flux lor
    >
    >Le nombre de personnes qualifiées dépend également des règles de qualification de la campagne intelligente. Découvrez comment [modifier des règles de qualification](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Joli ! Vous pouvez utiliser cette liste pour vérifier quelles personnes peuvent passer par le flux avant d’exécuter une campagne intelligente.
+Utilisez cette liste pour vérifier quelles personnes peuvent passer par le flux avant d&#39;exécuter une campagne intelligente.
 
 >[!MORELIKETHIS]
 >

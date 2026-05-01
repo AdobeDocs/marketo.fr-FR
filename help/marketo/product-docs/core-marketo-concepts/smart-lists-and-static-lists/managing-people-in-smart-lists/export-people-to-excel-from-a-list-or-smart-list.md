@@ -4,16 +4,16 @@ description: Découvrez comment exporter des personnes vers Excel à partir d’
 title: Exporter des personnes vers Excel à partir d’une liste ou d’une liste intelligente
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 13%
+source-wordcount: '191'
+ht-degree: 12%
 
 ---
 
 # Exporter des personnes vers Excel à partir d’une liste ou d’une liste intelligente {#export-people-to-excel-from-a-list-or-smart-list}
 
-Si vous avez besoin de résultats de liste ou de liste dynamique en dehors de Marketo, vous pouvez facilement les exporter vers Excel. Voici comment faire.
+Si vous avez besoin de résultats de liste ou de liste dynamique en dehors de Marketo, vous pouvez les exporter vers Excel.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

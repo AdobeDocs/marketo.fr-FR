@@ -3,9 +3,9 @@ description: Découvrez comment ajouter ou supprimer des personnes d’une campa
 title: Ajouter ou supprimer des personnes de votre  [!DNL Dynamics]  Campaign
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Dans votre campagne intelligente, recherchez et sélectionnez la campagne Dynami
 
 >[!NOTE]
 >
->Si vous ne pouvez pas voir de campagne Dynamics dans la liste des campagnes :
+>Si une campagne Dynamics n’apparaît pas dans la liste des campagnes :
 >
->* Vérifiez que la synchronisation de la campagne est fonctionnelle
+>* Vérifier que la synchronisation de la campagne est fonctionnelle
 >* La campagne n’est pas active dans [!DNL Microsoft Dynamics]
 
 Le système crée automatiquement une liste marketing statique spécifique à une campagne, pour chaque prospect et contact, à laquelle ajouter la personne. Il s’agit d’une action unique, qui n’est utilisée qu’une seule fois pour les synchronisations suivantes de la campagne. La norme de dénomination adoptée pour le nom statique de la liste marketing est `Mkto-leads-<uniqueID>` pour les prospects et `Mkto-contacts-<uniqueID>` pour les contacts.
@@ -51,5 +51,5 @@ Dans votre campagne intelligente, recherchez et sélectionnez la campagne Dynami
 >
 >Si aucune campagne [!DNL Dynamics] n’apparaît dans la liste des campagnes :
 >
->* Vérifiez que la synchronisation de la campagne est fonctionnelle
+>* Vérifier que la synchronisation de la campagne est fonctionnelle
 >* La campagne n’est pas active dans [!DNL Microsoft Dynamics]
