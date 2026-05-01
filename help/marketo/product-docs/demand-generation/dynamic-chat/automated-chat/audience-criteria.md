@@ -28,7 +28,7 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL &#x200B; supérieure à &#x200B;] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 
@@ -84,7 +84,7 @@ Il existe un moyen facile de cibler spécifiquement les personnes qui ne figuren
 
    >[!NOTE]
    >
-   >Lorsqu&#39;une personne visite votre site web, [](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Nous recherchons leur IP dans une base de données spéciale et déduisons toutes sortes de bonnes informations.
+   >Lorsqu&#39;une personne visite votre site web, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Nous recherchons leur IP dans une base de données spéciale et déduisons toutes sortes de bonnes informations.
 
 1. _[!UICONTROL Est]_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
