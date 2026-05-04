@@ -4,16 +4,16 @@ description: Comment supprimer un statut de programme d’un canal dans Admin so
 title: Supprimer un statut de programme d’un canal de programme
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '131'
+ht-degree: 12%
 
 ---
 
 # Supprimer un statut de programme d’un canal de programme {#delete-a-program-status-from-a-program-channel}
 
-Les statuts de programme sont les points de contrôle via un chemin de programme (canal). Si vous créez un statut par erreur ou que vous n’en avez plus besoin, n’hésitez pas à le supprimer.
+Les statuts du programme sont les points de contrôle via le chemin d’accès (canal) d’un programme. Si vous créez un statut par erreur ou que vous n’en avez plus besoin, vous pouvez le supprimer.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -33,6 +33,6 @@ Les statuts de programme sont les points de contrôle via un chemin de programme
 
    >[!TIP]
    >
-   >Si une personne est actuellement affectée au statut en question, vous ne pouvez pas la supprimer, vous pouvez toutefois la masquer.
+   >Si une personne est actuellement affectée au statut en question, vous ne pouvez pas la supprimer, mais vous pouvez la masquer.
 
-Bien joué ! Vous pouvez également [supprimer un canal entier](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si nécessaire.
+Vous pouvez également [supprimer un canal entier](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si nécessaire.

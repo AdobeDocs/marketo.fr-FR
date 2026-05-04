@@ -4,7 +4,7 @@ description: Découvrez comment ajouter, masquer et afficher des valeurs de bali
 title: Gestion des valeurs de balises
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Gestion des valeurs de balises {#managing-tag-values}
 
-Les [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) sont utilisées pour décrire les programmes. Vous pouvez en faire autant que nécessaire, chacun avec des valeurs uniques. Voici comment gérer ces valeurs.
+Les [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) sont utilisées pour décrire les programmes. Vous pouvez en faire autant que nécessaire, chacun avec des valeurs uniques. Les étapes ci-dessous expliquent comment gérer ces valeurs.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Les [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-
 
    ![](assets/managing-tag-values-4.png)
 
-1. Saisissez une **[!UICONTROL Valeur]** puis cliquez sur **[!UICONTROL Ajouter autre]**. Vous pouvez ajouter autant de valeurs que vous le souhaitez.
+1. Saisissez une **[!UICONTROL Valeur]** puis cliquez sur **[!UICONTROL Ajouter autre]**. Vous pouvez ajouter autant de valeurs que nécessaire.
 
    ![](assets/managing-tag-values-5.png)
 
@@ -49,7 +49,7 @@ Les [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-
 
    ![](assets/managing-tag-values-6.png)
 
-Les modifications devraient s’afficher immédiatement.
+Les modifications apparaissent immédiatement.
 
 ![](assets/managing-tag-values-7.png)
 

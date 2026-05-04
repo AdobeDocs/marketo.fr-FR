@@ -4,9 +4,9 @@ description: Procédure à suivre pour masquer un canal de programme lorsqu’il
 title: Masquer/afficher un canal de programme
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 11%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 11%
 >
 >**Autorisations d’administration requises**
 
-Vous pouvez [supprimer un canal de programme](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) s’il n’est utilisé par aucun programme.  Cependant, une fois qu&#39;on l&#39;utilise, il faut la garder.  Cependant, vous pouvez le masquer si vous n’en avez plus besoin.
+Vous pouvez [supprimer un canal de programme](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) s’il n’est utilisé par aucun programme.  Cependant, une fois qu’il est utilisé, il doit rester dans le système. Vous pouvez le cacher si vous n&#39;en avez plus besoin.
 
 ## Masquer un canal de programme {#hide-a-program-channel}
 
@@ -36,8 +36,6 @@ Vous pouvez [supprimer un canal de programme](/help/marketo/product-docs/adminis
 1. Sous **[!UICONTROL Actions de balise]**, cliquez sur **[!UICONTROL Masquer]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
-
-Doucement, doucement !
 
 ## Afficher un canal de programme {#unhide-a-program-channel}
 

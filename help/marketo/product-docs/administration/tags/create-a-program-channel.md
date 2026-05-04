@@ -4,9 +4,9 @@ description: Procédure de création d’un canal de programme avec les statuts 
 title: Créer un canal de programme
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
    >[!NOTE]
    >
-   >Pourquoi les balises ? Un canal est une façon de décrire un programme, tout comme d’autres balises. La chaîne a juste des fonctions supplémentaires spéciales.
+   >Pourquoi les balises ? Un canal est une façon de décrire un programme, tout comme d’autres balises. Le canal a des caractéristiques spéciales supplémentaires.
 
 1. Cliquez sur le signe **+** en regard de [!UICONTROL Canal] pour développer et afficher les canaux existants.
 
@@ -50,7 +50,7 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
    >Canal : Billboard
    >
    >* Appliquer à : par défaut
-   >* Progression : membre, engagé (en cas de doute, ces tâches fonctionnent correctement)
+   >* Progression : Membre, Engagé (ces valeurs par défaut sont appropriées)
    >* Succès : Engagé
    >
    >Canal : Fête
@@ -59,15 +59,15 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
    >* Progression : Invité, Inscrit, Pas d’affichage et Participants
    >* Succès : Terminé
    >
-   >Consultez les Progressions des canaux existants pour avoir une idée de la manière de les utiliser.
+   >Consultez la section Progression des canaux existants pour obtenir des conseils sur la manière de les utiliser.
 
-1. Prenons l&#39;exemple de la chaîne Party. Nommez votre nouveau **[!UICONTROL canal]** et sélectionnez le type de programme auquel il s’appliquera.
+1. En prenant comme exemple le canal du tiers, nommez votre nouveau **[!UICONTROL canal]** et sélectionnez le type de programme auquel il s’appliquera.
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >Appliquer à quoi ? Il existe plusieurs types de programmes. Faites correspondre le canal au type approprié. En cas de doute, choisissez **[!UICONTROL Par défaut]**.
+   >Il existe plusieurs types de programmes. Faites correspondre le canal au type approprié. En cas de doute, choisissez **[!UICONTROL Par défaut]**.
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
    >[!TIP]
    >
-   >Le numéro **[!UICONTROL Step]** est utilisé pour trier les statuts de programme. Gardez à l’esprit que les personnes ne peuvent pas revenir en arrière dans ces étapes de progression. Ils peuvent uniquement changer de statut pour un statut supérieur ou égal à la valeur . Utilisez les valeurs égales lorsque les statuts sont destinés à basculer d’avant en arrière plutôt qu’à une progression.
+   >Le numéro **[!UICONTROL Step]** est utilisé pour trier les statuts de programme. Notez que les personnes ne peuvent pas revenir en arrière dans ces étapes de progression. Ils peuvent uniquement changer de statut pour un statut supérieur ou égal à la valeur . Utilisez les valeurs égales lorsque les statuts sont destinés à basculer d’avant en arrière plutôt qu’à une progression.
 
 1. Saisissez le dernier numéro de programme **[!UICONTROL Statut]** et **[!UICONTROL Étape]**.
 
@@ -117,4 +117,4 @@ Un programme est une initiative marketing spécifique. Le canal est conçu pour 
 
    ![](assets/create-a-program-channel-11.png)
 
-   Bien joué ! Lorsque vous faites une nouvelle émission de ce type, ce nouveau canal sera l&#39;un des choix.
+   Lorsque vous faites une nouvelle émission de ce type, ce nouveau canal sera l&#39;un des choix.

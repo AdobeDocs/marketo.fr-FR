@@ -4,7 +4,7 @@ description: Découvrez comment créer un type de balise avec des valeurs, chois
 title: Créer des balises personnalisées
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 4%
@@ -17,7 +17,7 @@ Les balises vous aident à organiser vos programmes, tandis que les canaux vous 
 
 >[!NOTE]
 >
->Consultez [Présentation des balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) pour plus d’informations.
+>Voir [Présentation des balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) pour plus d’informations.
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ Pour créer un type de balise, procédez comme suit :
 
    >[!TIP]
    >
-   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programme, mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programme, l’une avec « [!UICONTROL &#x200B; Obligatoire &#x200B;] sélectionné et l’autre avec « [!UICONTROL &#x200B; Obligatoire &#x200B;] non sélectionnée.
+   >Si vous souhaitez qu’une balise similaire soit requise pour certains types de programme, mais facultative pour d’autres, vous devez configurer deux balises distinctes, chacune s’appliquant à différents types de programme, avec une balise « [!UICONTROL Obligatoire ] sélectionnée et l’autre avec « [!UICONTROL Obligatoire ] non sélectionnée.
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 
