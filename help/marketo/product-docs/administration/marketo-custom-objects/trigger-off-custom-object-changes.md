@@ -4,10 +4,10 @@ description: 'Utilisation d’un objet personnalisé : ajouter ou modifier des d
 title: Déclencher des modifications d’objet personnalisé
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 5%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
@@ -18,9 +18,10 @@ ht-degree: 5%
 >Cette fonctionnalité est disponible uniquement :
 >
 >* À utiliser uniquement avec des objets personnalisés Marketo, et non avec des objets personnalisés synchronisés par le biais de l’intégration native [!DNL Salesforce] ou [!DNL Microsoft Dynamics]
+>
 >* Comme déclencheur, pas comme filtre
 >
->Contactez le support technique de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour activer les déclencheurs de changement d&#39;objet personnalisé.
+>Contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support) pour activer les déclencheurs de changement d’objet personnalisé.
 
 Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une action de flux lorsqu’un objet personnalisé est ajouté à une personne ou à une entreprise. Vous pouvez également créer une liste dynamique qui utilise une _modification_ dans un objet personnalisé comme déclencheur. Par exemple, utilisez-le pour envoyer un e-mail lorsqu’un nom de cours est mis à jour.
 
@@ -48,7 +49,7 @@ Dans la liste dynamique d’une campagne dynamique, vous pouvez déclencher une 
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. Et voilà. La modification est automatiquement enregistrée.
+1. La modification est automatiquement enregistrée.
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

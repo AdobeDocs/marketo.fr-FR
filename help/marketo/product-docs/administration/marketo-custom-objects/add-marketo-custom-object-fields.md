@@ -4,9 +4,9 @@ description: Procédure à suivre pour ajouter des champs à un objet personnali
 title: Ajouter des champs d’objet personnalisé Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '305'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour répondre aux besoins de votre entreprise.
 
-Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien comportent une tâche spéciale permettant de connecter des objets personnalisés et sont traités dans un [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont un objectif spécifique (connexion d’objets personnalisés) et sont traités dans un [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -43,9 +43,9 @@ Les champs définissent les informations spécifiques utilisées par un objet pe
 
    >[!NOTE]
    >
-   >Le [!UICONTROL nom de l’API] ne peut être modifié que jusqu’à ce qu’il soit approuvé.
+   >Le [!UICONTROL nom de l’API] ne peut être modifié que lorsqu’il est approuvé.
 
-1. Sélectionnez à présent un [!UICONTROL type de données] approprié dans la liste.
+1. Sélectionnez un [!UICONTROL type de données] approprié dans la liste.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 

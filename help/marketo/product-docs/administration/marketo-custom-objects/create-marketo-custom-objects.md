@@ -4,16 +4,16 @@ description: Procédure de création d’objets personnalisés Marketo pour les 
 title: Créer des objets personnalisés Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '711'
-ht-degree: 2%
+source-wordcount: '771'
+ht-degree: 4%
 
 ---
 
 # Créer des objets personnalisés Marketo {#create-marketo-custom-objects}
 
-Utilisez des objets personnalisés dans Marketo pour effectuer le suivi des mesures spécifiques à votre entreprise. Cela peut être n’importe quelle voiture, n’importe quel cours, n’importe quel modèle que vous souhaitez modéliser dans Marketo pour exécuter vos campagnes.
+Utilisez des objets personnalisés dans Marketo pour effectuer le suivi des mesures spécifiques à votre entreprise. Cela peut aller des voitures aux cours, en passant par tout ce que vous souhaitez modéliser dans Marketo pour exécuter vos campagnes.
 
 >[!NOTE]
 >
@@ -25,13 +25,13 @@ Utilisez des objets personnalisés dans Marketo pour effectuer le suivi des mesu
 
 ## Créer un objet personnalisé pour une structure de type « un à plusieurs » {#create-a-custom-object-for-a-one-to-many-structure}
 
-Cet exemple illustre un objet personnalisé Car à utiliser dans une structure de type « un à plusieurs ». Plus tard, vous allez créer un objet personnalisé de cours et un objet intermédiaire à utiliser dans une structure multiple-à-multiple.
+Cet exemple illustre un objet personnalisé Car à utiliser dans une structure de type « un à plusieurs ». Par la suite, vous allez créer un objet personnalisé de cours et un objet intermédiaire à utiliser dans une structure multiple-à-multiple.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
@@ -41,9 +41,9 @@ Cet exemple illustre un objet personnalisé Car à utiliser dans une structure d
 
    >[!NOTE]
    >
-   >L&#39;onglet [!UICONTROL Objets personnalisés Marketo] affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d&#39;enregistrements et de champs lors de la mise à jour la plus récente.
+   >L&#39;onglet [!UICONTROL Objets personnalisés ] affiche tous les objets personnalisés à droite, ainsi que les détails de tous les objets approuvés, y compris le nombre d&#39;enregistrements et de champs lors de la mise à jour la plus récente.
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
@@ -67,17 +67,17 @@ Cet exemple illustre un objet personnalisé Car à utiliser dans une structure d
 
 ## Création d’un objet personnalisé pour une structure multiple-à-multiple {#create-a-custom-object-for-a-many-to-many-structure}
 
-Cet exemple montre un objet personnalisé de cours que vous utiliserez pour créer une relation multiple-à-multiple entre des personnes/sociétés et des cours. Une fois que vous avez terminé, vous allez créer un objet intermédiaire pour le connecter aux personnes ou aux sociétés de votre base de données.
+Cet exemple montre un objet personnalisé de cours que vous utiliserez pour créer une relation multiple-à-multiple entre des personnes ou des entreprises et des cours. Une fois que vous avez terminé, vous allez créer un objet intermédiaire pour le connecter à des personnes ou des sociétés dans votre base de données.
 
 >[!NOTE]
 >
->Pour une relation multiple-à-multiple, il n’est pas nécessaire de créer un lien dans l’objet personnalisé. À la place, vous ajoutez deux liens à l’objet intermédiaire (voir ci-dessous).
+>Pour une relation multiple-à-multiple, il n’est pas nécessaire de créer un lien dans l’objet personnalisé. À la place, vous allez ajouter deux liens à l’objet intermédiaire (voir ci-dessous).
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
@@ -85,7 +85,7 @@ Cet exemple montre un objet personnalisé de cours que vous utiliserez pour cré
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
@@ -105,7 +105,7 @@ Cet exemple montre un objet personnalisé de cours que vous utiliserez pour cré
    >
    >Vous pouvez uniquement remplir les objets personnalisés Marketo par le biais d’un import de liste ou de l’[API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
 
-L’étape suivante consiste à créer votre objet intermédiaire (voir ci-dessous). Mais avant cela, vous devez créer un champ auquel créer un lien.
+L’étape suivante consiste à créer votre objet intermédiaire (voir ci-dessous). Avant cela, vous devez créer un champ auquel créer un lien.
 
 ## Créer un objet intermédiaire {#create-an-intermediary-object}
 
@@ -119,7 +119,7 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
@@ -127,7 +127,7 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL &#x200B; Description &#x200B;] (facultatif).
+1. Saisissez un [!UICONTROL Nom d’affichage]. Le [!UICONTROL nom de l’API] et le [!UICONTROL nom au pluriel] sont renseignés automatiquement. Saisissez une [!UICONTROL  Description ] (facultatif).
 
    ![](assets/create-marketo-custom-objects-16.png)
 
@@ -135,13 +135,13 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
    >
    >Vous pouvez modifier ces champs au moment de leur création, mais une fois enregistrés, vous ne pouvez modifier que le champ [!UICONTROL Nom au pluriel] et le curseur [!UICONTROL Afficher dans les détails du prospect].
 
-1. Faites glisser le curseur **[!UICONTROL Afficher dans les détails du prospect]** pour afficher **Afficher** si vous souhaitez afficher des données d’objet personnalisées sur la page Base de données. Cliquez sur **Enregistrer**
+1. Faites glisser le curseur **[!UICONTROL Afficher dans les détails du prospect]** pour afficher **[!UICONTROL Afficher]** si vous souhaitez afficher des données d’objet personnalisées sur la page Base de données. Cliquez sur **[!UICONTROL Enregistrer]**
 
    ![](assets/create-marketo-custom-objects-17.png)
 
 1. Les informations sur l’objet personnalisé affichent le contenu que vous avez saisi. Notez qu’il est à l’état **[!UICONTROL Brouillon]**.
 
-   L’étape suivante consiste à [ajouter des champs de lien](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) pour connecter votre objet intermédiaire à une personne/société et à un objet personnalisé.
+   L’étape suivante consiste à [ajouter des champs de lien](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) pour connecter votre objet intermédiaire à une personne ou une entreprise et à un objet personnalisé.
 
 >[!MORELIKETHIS]
 >

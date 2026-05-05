@@ -4,9 +4,9 @@ description: Comment modifier ou supprimer des champs sur un objet personnalisé
 title: Modifier et supprimer des champs d’objet personnalisé Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 12%
 
 ---
@@ -39,17 +39,17 @@ Parfois, vous devez modifier un champ qui n’est pas encore approuvé.
 
 ## Suppression d’un champ {#delete-a-field}
 
-Lorsque vous n’avez plus besoin d’un champ dans un objet personnalisé, vous pouvez le supprimer.
+Lorsqu’un champ d’un objet personnalisé n’est plus nécessaire, vous pouvez le supprimer.
 
 1. Dans l’onglet Champs , cliquez sur **[!UICONTROL Actions de champ]** et **[!UICONTROL Supprimer le champ]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Assurez-vous de vraiment vouloir supprimer le champ avant de tirer sur le déclencheur ! Cliquez sur **[!UICONTROL Supprimer]**.
+1. Confirmez la suppression du champ avant de continuer. Cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-C&#39;est parti !
+Le champ est supprimé.
 
 ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 

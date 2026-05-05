@@ -4,10 +4,10 @@ description: Procédure de modification ou de suppression d’un objet personnal
 title: Modifier et supprimer un objet personnalisé Marketo
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 5%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
@@ -25,7 +25,7 @@ Utilisez le menu Actions d’objet personnalisé pour modifier ou supprimer un o
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -41,11 +41,11 @@ Utilisez le menu Actions d’objet personnalisé pour modifier ou supprimer un o
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. Veillez à approuver [l’objet modifié](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
+1. Approuvez [l’objet modifié](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Suppression d’un objet personnalisé {#delete-a-custom-object}
 
-Il est facile de supprimer un objet personnalisé, mais vous devez faire attention. Les objets personnalisés peuvent être connectés à d’autres objets ou à des listes dynamiques. Ainsi, Marketo vous avertit avant de vous laisser cliquer sur **[!UICONTROL Supprimer]**.
+La suppression d’un objet personnalisé requiert une attention particulière. Les objets personnalisés peuvent être connectés à d’autres objets ou à des listes dynamiques. Marketo vous avertira avant de vous laisser cliquer sur **[!UICONTROL Supprimer]**.
 
 >[!CAUTION]
 >
@@ -55,7 +55,7 @@ Il est facile de supprimer un objet personnalisé, mais vous devez faire attenti
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -75,7 +75,7 @@ Il est facile de supprimer un objet personnalisé, mais vous devez faire attenti
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Si l’objet personnalisé est déjà approuvé, sa suppression présente un risque plus élevé. Donc, vous aurez cet avertissement plus sévère. Saisissez **[!UICONTROL Je comprends]**, cochez la case **[!UICONTROL Impossible d’annuler]**, puis cliquez sur **[!UICONTROL Supprimer]**.
+1. Si l’objet personnalisé est déjà approuvé, sa suppression présente un risque plus élevé. Par conséquent, vous obtiendrez cet avertissement de serveur. Saisissez **[!UICONTROL Je comprends]**, cochez la case **[!UICONTROL Impossible d’annuler]**, puis cliquez sur **[!UICONTROL Supprimer]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

@@ -4,9 +4,9 @@ description: Présentation des objets personnalisés pour le suivi des mesures s
 title: Présentation des objets personnalisés Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '736'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Les objets personnalisés multiples-à-multiples utilisent deux champs de lien, 
 
 >[!CAUTION]
 >
->Vous ne pouvez pas restaurer d&#39;objets personnalisés. Assurez-vous donc de ne plus en avoir besoin avant de les supprimer.
+>Les objets personnalisés ne peuvent pas être restaurés. Assurez-vous qu’ils ne sont plus nécessaires avant de les supprimer.
 
 ## Accès aux objets personnalisés Marketo {#accessing-marketo-custom-objects}
 
@@ -47,7 +47,7 @@ Les objets personnalisés multiples-à-multiples utilisent deux champs de lien, 
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -93,11 +93,11 @@ Après avoir créé la structure d’objet personnalisée, lorsque vous chargez 
 
 ## Utilisation d’objets personnalisés avec des sociétés {#using-custom-objects-with-companies}
 
-Un objet personnalisé lié à l’entreprise fonctionne mieux si vous synchronisez les entreprises à partir du CRM ou si vous créez explicitement des entreprises à l’aide de l’API. Nous vous recommandons également d’utiliser l’ID d’entreprise comme champ de lien.
+Un objet personnalisé lié à l’entreprise fonctionne mieux si vous synchronisez les entreprises à partir du CRM ou si vous créez explicitement des entreprises à l’aide de l’API. Marketo recommande également d’utiliser l’ID de société comme champ de lien.
 
 Si plusieurs personnes dans Marketo sont des enregistrements dans le CRM ou dans Marketo uniquement, un objet personnalisé lié à une société ne sera pas associé à plusieurs enregistrements individuels. Cela est dû au fait qu’une entreprise comprenant plusieurs personnes est prise en charge uniquement lorsque les entreprises sont synchronisées à partir du CRM ou si vous utilisez une API pour créer explicitement des entreprises.
 
-Les objets personnalisés ne peuvent être liés directement qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par un champ société, vous devez vous assurer que les enregistrements de votre personne sont associés à une société à l’aide de la conversion de contacts dans votre CRM ou à l’aide du champ externalCompanyId si vous gérez des sociétés à l’aide d’API REST Marketo. Pour les enregistrements de personne qui ne sont pas explicitement liés aux enregistrements d’entreprise, les objets personnalisés liés à l’aide de l’option entreprise seront aléatoirement liés à un seul enregistrement, même si la valeur du champ entreprise est partagée par de nombreuses personnes.
+Les objets personnalisés ne peuvent être liés directement qu’à un seul enregistrement. Cela signifie que lorsque votre type d’objet personnalisé est lié par un champ société, vous devez vous assurer que les enregistrements de votre personne sont associés à une société à l’aide de la conversion de contacts dans votre CRM ou à l’aide du champ externalCompanyId si vous gérez des sociétés à l’aide d’API REST Marketo. Pour les enregistrements de personne qui ne sont pas explicitement liés aux enregistrements d&#39;entreprise, les objets personnalisés liés à l&#39;aide de l&#39;option entreprise seront aléatoirement liés à un seul enregistrement, même si la valeur du champ entreprise est partagée entre de nombreuses personnes.
 
 Voir [Importer des données d’objet personnalisé](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) pour plus d’informations.
 

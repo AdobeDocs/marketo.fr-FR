@@ -4,10 +4,10 @@ description: Comment approuver des objets personnalisés nouveaux ou modifiés d
 title: Approuver un objet personnalisé
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 3%
+source-wordcount: '303'
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ Vous devez approuver un objet personnalisé avant de pouvoir l’utiliser. Le pr
 
 ## Approuver un nouvel objet personnalisé {#approve-a-new-custom-object}
 
-Vous avez créé un tout nouvel objet personnalisé. Voici comment l&#39;approuver.
+Un nouvel objet personnalisé a été créé. Suivez les étapes ci-dessous pour l’approuver.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Cliquez sur **[!UICONTROL Objets personnalisés Marketo]**.
+1. Cliquez sur **[!UICONTROL Objets personnalisés]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -43,13 +43,13 @@ Vous avez créé un tout nouvel objet personnalisé. Voici comment l&#39;approuv
    >
    >Un objet personnalisé utilisé dans une structure _un à plusieurs_ doit avoir au moins un champ de déduplication, un champ de lien, un nom d’objet lié et un nom de champ lié à approuver.
    >
-   >Un objet personnalisé utilisé dans une structure _plusieurs-à-plusieurs_ **n’a pas besoin** d’un champ de lien, d’un nom d’objet lié ou d’un nom de champ lié lorsque vous l’approuvez (car ils se trouvent dans l’objet intermédiaire).
+   >Un objet personnalisé utilisé dans une structure _plusieurs à plusieurs_ **ne nécessite pas** de champ de lien, de nom d’objet lié ou de nom de champ lié lorsque vous l’approuvez (car ils résident dans l’objet intermédiaire).
    >
    >Un objet personnalisé utilisé comme _objet intermédiaire_ nécessite un champ de lien, un nom d’objet lié et un nom de champ lié, mais **ne nécessite pas** un champ de déduplication.
    >
    >Voir [Présentation des objets personnalisés Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) pour plus d’informations.
 
-Vous avez terminé. Vous pouvez désormais sélectionner votre objet personnalisé dans les contraintes de vos filtres et triggers à utiliser dans vos campagnes.
+Vous pouvez maintenant sélectionner votre objet personnalisé dans les contraintes de vos filtres et triggers à utiliser dans vos campagnes.
 
 ## Approbation d’un objet personnalisé modifié {#approve-an-edited-custom-object}
 
