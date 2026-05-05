@@ -4,10 +4,10 @@ description: Exiger une authentification unique pour tous les utilisateurs afin 
 title: Limiter la connexion de l’utilisateur ou de l’utilisatrice aux connexions par authentification unique
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '273'
+ht-degree: 5%
 
 ---
 
@@ -41,17 +41,17 @@ Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-inte
 
 >[!NOTE]
 >
->Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL &#x200B; Exiger une authentification unique &#x200B;]. »
+>Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL  Exiger une authentification unique ]. »
 
 >[!TIP]
 >
->Si vous sélectionnez **[!UICONTROL Exiger une authentification unique]**, vous pouvez exclure un [rôle utilisateur](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de cette restriction en cochant l’option **[!UICONTROL Contourner l’authentification unique]** lors de la configuration du rôle. Cela permettra aux utilisateurs de se connecter normalement. Par exemple, les utilisateurs administrateurs peuvent toujours avoir besoin de se connecter à Marketo via l’écran de connexion. Si la connexion unique et l’identifiant universel sont activés, l’autorisation « Contourner l’authentification unique » doit être définie pour basculer entre les abonnements.
+>Si vous sélectionnez **[!UICONTROL Exiger une authentification unique]**, vous pouvez exclure un [rôle utilisateur](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de cette restriction en cochant l’option **[!UICONTROL Contourner l’authentification unique]** lors de la configuration du rôle. Cela permet aux utilisateurs de se connecter normalement. Par exemple, les utilisateurs administrateurs peuvent toujours avoir besoin de se connecter à Marketo via l’écran de connexion. Si la connexion unique et l’identifiant universel sont activés, l’autorisation « Contourner l’authentification unique » doit être définie pour basculer entre les abonnements.
 
 >[!CAUTION]
 >
->Lorsque de nouveaux utilisateurs sont invités, ils reçoivent des e-mails d’invitation. Cependant, si l’option **[!UICONTROL Exiger une authentification unique]** est sélectionnée, ils ne recevront pas ces e-mails, sauf s’ils sont affectés à un rôle défini sur **[!UICONTROL Contourner l’authentification unique]**.
+>Lorsque de nouveaux utilisateurs sont invités, ils reçoivent des e-mails d’invitation. Cependant, si l’option **[!UICONTROL Exiger une authentification unique]** est sélectionnée, ils ne reçoivent pas ces e-mails, sauf s’ils sont affectés à un rôle défini sur **[!UICONTROL Contourner l’authentification unique]**.
 
-Vous avez terminé. Désormais, tous les utilisateurs (à l’exception des utilisateurs autorisés à contourner l’authentification unique) ne pourront utiliser que la connexion SSO.
+Désormais, tous les utilisateurs (à l’exception des utilisateurs autorisés à contourner l’authentification unique) sont limités à l’utilisation de la connexion SSO uniquement.
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: Découvrez comment envoyer un e-mail suivi dans Sales Connect. Envo
 title: Envoi d’un e-mail suivi
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 3%
@@ -40,7 +40,7 @@ Lors de l’envoi d’un e-mail avec des [!DNL Marketo Sales Connect], les vues 
 
    >[!NOTE]
    >
-   >Si une personne qui a été mise en copie ou en copie (Cci) ouvre l’e-mail, cette ouverture est enregistrée comme une vue dans l’enregistrement de la personne dans le champ **[!UICONTROL À]**.
+   >Si une personne ayant été en copie (CC) ou en copie (Cci) ouvre l’e-mail, cette ouverture est enregistrée comme une vue dans l’enregistrement de la personne dans le champ **[!UICONTROL À]**.
 
 1. Ajoutez une ligne d’objet.
 
@@ -57,4 +57,4 @@ Lors de l’envoi d’un e-mail avec des [!DNL Marketo Sales Connect], les vues 
    >[!MORELIKETHIS]
    >
    >* [Planification d’un e-mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [Modèles](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [Modèles](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md)
