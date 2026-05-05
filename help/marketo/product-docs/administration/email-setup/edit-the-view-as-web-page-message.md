@@ -13,7 +13,7 @@ ht-degree: 24%
 
 # Modifier le message « Afficher en tant que page web » {#edit-the-view-as-web-page-message}
 
-Découvrez comment modifier le texte « [ Afficher en tant que page web ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) ».
+Découvrez comment modifier le texte « [&#x200B; Afficher en tant que page web &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) ».
 
 >[!NOTE]
 >

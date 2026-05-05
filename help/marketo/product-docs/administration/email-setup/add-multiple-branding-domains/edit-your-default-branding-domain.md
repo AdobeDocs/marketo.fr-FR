@@ -43,4 +43,4 @@ Vous pouvez désormais [ajouter des domaines de marque supplémentaires](/help/m
 
 >[!NOTE]
 >
->Si vous devez mettre à jour ou supprimer un SSL existant, contactez l’assistance technique de [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Si vous devez mettre à jour ou supprimer un SSL existant, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
