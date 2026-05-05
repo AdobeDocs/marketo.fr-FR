@@ -4,22 +4,22 @@ description: Découvrez comment modifier une activité personnalisée et en quoi
 title: Modifier une activité personnalisée
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 
 # Modifier une activité personnalisée {#edit-a-custom-activity}
 
-Vous devez apporter des modifications à une activité personnalisée que vous avez déjà créée ? Voici comment faire.
+Pour apporter des modifications à une activité personnalisée déjà créée, procédez comme suit.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Cliquez sur **[!UICONTROL Activités personnalisées Marketo]**.
+1. Cliquez sur **[!UICONTROL Activités personnalisées]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -31,15 +31,15 @@ Vous devez apporter des modifications à une activité personnalisée que vous a
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   Modifier le type d’activité s’affiche. Dans cet exemple, nous corrigeons une faute de frappe.
+   Modifier le type d’activité s’affiche. Dans cet exemple, une faute de frappe est en cours de correction.
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Saisissez vos nouvelles informations et cliquez sur **[!UICONTROL Soumettre]**.
+1. Saisissez les informations mises à jour et cliquez sur **[!UICONTROL Soumettre]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   Votre activité personnalisée est maintenant modifiée.
+   L’activité personnalisée a été mise à jour.
 
    >[!NOTE]
    >

@@ -3,10 +3,10 @@ description: Découvrez comment configurer l’intégration ON24 avec Marketo. C
 title: Configurer l’intégration d’ON24 à Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 8%
+source-wordcount: '299'
+ht-degree: 7%
 
 ---
 
@@ -52,7 +52,7 @@ Voici comment configurer votre intégration d’événement ON24.
 
 >[!NOTE]
 >
->Aucune invitation n’est requise pour les utilisateurs d’API uniquement.
+>Aucune invitation n’est requise pour les utilisateurs et utilisatrices de l’API uniquement.
 
 ## Configurer la connexion ON24 {#set-up-on24-connection}
 

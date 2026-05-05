@@ -4,9 +4,9 @@ description: Découvrez comment supprimer un formulaire dans Marketo. Supprimez 
 title: Supprimer un formulaire
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 8%
 
 ---

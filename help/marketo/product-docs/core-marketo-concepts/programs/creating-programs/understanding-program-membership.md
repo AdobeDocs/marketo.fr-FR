@@ -4,9 +4,9 @@ description: Découvrez l’adhésion au programme et comment les personnes rejo
 title: Présentation de l’appartenance à un programme
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ L&#39;objectif d&#39;un programme est de créer une interaction significative av
 
 >[!NOTE]
 >
->Dans le cas d’un webinaire, l’inscription n’est pas une interaction significative si les personnes ne regardent pas réellement le webinaire. La participation est une réussite dans ce cas.
+>Dans le cas d’un webinaire, l’inscription n’est pas une interaction significative si la personne ne regarde pas réellement le webinaire. La participation est une réussite dans ce cas.
 
 ## Programme d’acquisition {#acquisition-program}
 

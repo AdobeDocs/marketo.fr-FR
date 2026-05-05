@@ -4,9 +4,9 @@ description: Découvrez comment modifier un libellé de champ dans un formulaire
 title: Modifier un libellé de champ dans un formulaire
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 15%
 
 ---

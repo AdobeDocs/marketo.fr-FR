@@ -4,9 +4,9 @@ description: Comprenez le champ de type d'activité sur les tâches lors de la s
 title: Champ Type d’activité dans les tâches (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 5%
 
 ---
@@ -35,7 +35,7 @@ Vérifiez d’abord que vous avez mis en place les valeurs correctes dans la lis
 1. Cliquez sur **[!UICONTROL Activités]**.
 1. Cliquez sur **[!UICONTROL Champs de tâche]**.
 1. Cliquez sur **[!UICONTROL Type]**.
-1. Vous êtes maintenant dans la liste de sélection des types de tâches. Vérifiez qu&#39;aucun paramètre « Default » n&#39;est sélectionné.
+1. Vous êtes maintenant dans la liste de sélection des types de tâches. Assurez-vous que l’option « Par défaut » n’est pas sélectionnée.
 1. Assurez-vous qu’une valeur [!UICONTROL Type] est répertoriée pour [!UICONTROL E-mail], [!UICONTROL Appel] et [!UICONTROL Réponse].
 
 Maintenant que cela est en place, vous commencerez à voir le champ Type renseigner la valeur correspondante pour les e-mails, appels et réponses consignés. Ces valeurs ne seront _pas_ renseignées sur les tâches de rappel Sales Connect.

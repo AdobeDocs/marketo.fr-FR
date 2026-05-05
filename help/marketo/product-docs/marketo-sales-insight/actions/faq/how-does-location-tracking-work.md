@@ -3,9 +3,9 @@ description: Découvrez comment fonctionne le tracking pour les e-mails de vente
 title: Comment fonctionne le suivi de l’emplacement
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 4%
 
 ---

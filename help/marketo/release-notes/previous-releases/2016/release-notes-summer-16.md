@@ -3,10 +3,10 @@ unique-page-id: 11380218
 description: Notes De Mise À Jour -Été '16 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Été 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 4%
+source-wordcount: '799'
+ht-degree: 3%
 
 ---
 
@@ -52,7 +52,7 @@ Créez facilement des SMS directement dans Marketo. Personnalisez et ciblez votr
 
 **Variables au niveau du module**
 
-Auparavant, toutes les variables spécifiées dans les modèles d’e-mail 2.0 avaient une portée « globale ». Lorsque vous utilisez des variables dans des modules, cela n’est pas toujours souhaitable si vous prévoyez d’utiliser plusieurs instances du module. Avec cette version, les variables peuvent désormais être spécifiées comme « niveau du module », ce qui vous permet d’indiquer que l’utilisateur doit être en mesure de définir des valeurs uniques pour chaque module dans lequel elles sont utilisées.
+Auparavant, toutes les variables spécifiées dans les modèles d’e-mail 2.0 avaient une portée « globale ». L’utilisation de variables dans des modules n’est pas toujours souhaitable si vous envisagez d’utiliser plusieurs instances du module. Avec cette version, les variables peuvent désormais être spécifiées comme « niveau du module », ce qui vous permet d’indiquer que l’utilisateur doit être en mesure de définir des valeurs uniques pour chaque module dans lequel elles sont utilisées.
 
 ![](assets/module-level-variables.png)
 
@@ -103,7 +103,7 @@ Affichez les données d’analyse de contenu et de recommandations hors ligne.
 
 Les API de ressources préexistantes, auparavant uniquement compatibles avec les e-mails et les modèles v1.0, sont désormais activées pour les ressources de messagerie v2.0.
 
-## [Site des développeurs Marketo](https://developers.marketo.com/) {#marketo-developers-site}
+## [Site des développeurs ](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nouveau et amélioré !
 

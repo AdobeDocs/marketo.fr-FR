@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
 description: Comment ajouter, modifier ou supprimer des champs dans une activité personnalisée.
-title: Ajouter/Modifier/Supprimer des champs d’activité personnalisés Marketo
+title: Ajouter, modifier ou supprimer des champs d’activité personnalisés Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 6%
+source-wordcount: '288'
+ht-degree: 0%
 
 ---
 
-# Ajouter/Modifier/Supprimer des champs d’activité personnalisés Marketo {#add-edit-delete-marketo-custom-activity-fields}
+# Ajouter, modifier ou supprimer des champs d’activité personnalisés Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
-Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activité personnalisé. Voici comment faire.
+Découvrez comment ajouter, modifier ou supprimer un champ d’activité personnalisé.
 
 ## Ajouter un champ d’activité personnalisé {#add-a-custom-activity-field}
 
@@ -21,7 +21,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Cliquez sur **[!UICONTROL Activités personnalisées Marketo]**.
+1. Cliquez sur **[!UICONTROL Activités personnalisées]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
@@ -43,13 +43,13 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    >[!TIP]
    >
-   >Vous ne savez pas quoi sélectionner ? On t&#39;a couvert ! Tous les types de données disponibles sont définis dans [cet article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Pour connaître la définition de tous les types de données disponibles, voir [cet article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Nommez le champ . Le nom de l’Api est automatiquement renseigné. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Enregistrer]**.
+1. Nommez le champ . Le [!UICONTROL nom de l’API] est automatiquement renseigné. Lorsque vous avez terminé, cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   Vous avez terminé. Votre nouveau champ a été ajouté.
+   Votre nouveau champ a été ajouté.
 
 ## Modification d’un champ d’activité personnalisé {#edit-a-custom-activity-field}
 
@@ -57,7 +57,7 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Cliquez sur **[!UICONTROL Activités personnalisées Marketo]**.
+1. Cliquez sur **[!UICONTROL Activités personnalisées]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
@@ -73,27 +73,27 @@ Vous devrez peut-être ajouter, modifier ou même supprimer un champ d’activit
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   Le pop-up **[!UICONTROL Modifier le champ]** s’affiche. Dans cet exemple, nous allons modifier le nom du champ .
+   Le pop-up **[!UICONTROL Modifier le champ]** s’affiche. Dans cet exemple, le nom du champ est en cours de modification.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Saisissez le nouveau nom et le nouveau nom de l’Api, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez les nouveaux Nom et [!UICONTROL Nom de l’API], puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >Le [!UICONTROL nom de l’Api] n’est pas renseigné automatiquement lors de la modification d’un champ. Bien qu’il ne soit pas obligatoire que le champ [!UICONTROL Nom] et le [!UICONTROL Nom de l’API] correspondent, nous vous recommandons de les faire.
+   >Le [!UICONTROL nom de l’API] ne se remplit pas automatiquement lors de la modification d’un champ. Bien qu’il ne soit pas obligatoire que le champ [!UICONTROL Nom] et [!UICONTROL Nom de l’API] correspondent, Marketo recommande de les faire.
 
    >[!CAUTION]
    >
-   >Vous pouvez uniquement modifier le Nom de l’Api ou modifier le champ en Principal si l’activité personnalisée n’a jamais été publiée.
+   >Vous pouvez uniquement modifier le [!UICONTROL Nom de l’API] ou remplacer le champ par Principal si l’activité personnalisée n’a jamais été publiée.
 
    >[!NOTE]
    >
    >Si vous souhaitez modifier le champ par Principal, vous devez d’abord désélectionner le champ existant.
 
-Votre champ est maintenant modifié.
+Le champ a été mis à jour.
 
 ## Suppression d’un champ d’activité personnalisé {#delete-a-custom-activity-field}
 
@@ -101,7 +101,7 @@ Votre champ est maintenant modifié.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Cliquez sur **[!UICONTROL Activités personnalisées Marketo]**.
+1. Cliquez sur **[!UICONTROL Activités personnalisées]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 

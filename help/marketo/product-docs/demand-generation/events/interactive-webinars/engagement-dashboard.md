@@ -3,9 +3,9 @@ description: Découvrez le tableau de bord de l’engagement des webinaires inte
 title: Tableau de bord des engagements
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1781'
 ht-degree: 1%
 
 ---
@@ -301,9 +301,9 @@ Comprenez les critères de classification du niveau d’engagement de chaque par
     <li>Le participant a posé au moins une question dans la capsule Q&amp;R.</li></td>
   </tr>
   <tr>
-    <td>Moyen</td>
+    <td>Support</td>
     <td>Participants répondant à tous les critères suivants :
-    <li>Le niveau d'engagement de l'participant n'est pas considéré comme élevé.</li>
+    <li>Le niveau d'engagement du participant n'est pas considéré comme élevé.</li>
     <li>La durée de participation est d'au moins 60 % de la durée totale de l'événement.</li>
     <li>Au moins une des actions suivantes a été effectuée par le participant :
     <ul>

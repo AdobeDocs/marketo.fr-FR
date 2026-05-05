@@ -3,10 +3,10 @@ description: Résolution d’un problème lorsque l’activité de suivi ne s’
 title: Pourquoi l’activité de suivi ne s’affiche-t-elle pas dans l’activité Salesforce ?
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
