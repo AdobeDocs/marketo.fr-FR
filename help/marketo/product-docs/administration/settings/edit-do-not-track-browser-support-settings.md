@@ -27,7 +27,7 @@ ht-degree: 12%
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
