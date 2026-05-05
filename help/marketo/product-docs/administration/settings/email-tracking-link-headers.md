@@ -3,10 +3,10 @@ description: Comment personnaliser les en-têtes des liens de suivi des e-mails 
 title: En-têtes de lien de suivi des e-mails
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 9%
+source-wordcount: '119'
+ht-degree: 10%
 
 ---
 
@@ -35,4 +35,4 @@ Suivez les étapes ci-dessous pour personnaliser les en-têtes de lien de suivi 
 
 >[!CAUTION]
 >
->Il est important de passer en revue ces paramètres avec votre équipe informatique afin de déterminer la politique de votre entreprise à définir. Des paramètres incorrects peuvent empêcher certains visiteurs d’accéder à vos liens d’e-mail.
+>Il est important de passer en revue ces paramètres avec votre équipe informatique afin de déterminer la stratégie de votre entreprise. Des paramètres incorrects peuvent empêcher certains visiteurs d’accéder à vos liens d’e-mail.

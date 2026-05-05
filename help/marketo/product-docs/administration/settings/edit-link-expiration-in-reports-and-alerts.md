@@ -4,9 +4,9 @@ description: Comment modifier le nombre de jours pendant lesquels les liens dans
 title: Modifier l’expiration du lien dans les rapports et alertes
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '101'
 ht-degree: 18%
 
 ---

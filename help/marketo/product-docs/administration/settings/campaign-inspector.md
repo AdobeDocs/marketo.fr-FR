@@ -3,16 +3,16 @@ description: Comment activer et utiliser l’Inspecteur de campagne à partir d�
 title: Inspecteur de campagne
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
 # Inspecteur de campagne {#campaign-inspector}
 
-Utilisez l’Inspecteur de campagne pour afficher/rechercher toutes vos campagnes intelligentes au même endroit.
+Utilisez l’Inspecteur de campagne pour afficher et rechercher toutes vos campagnes intelligentes au même endroit.
 
 ## Activer l’inspecteur Campaign {#enable-campaign-inspector}
 
@@ -34,7 +34,7 @@ Utilisez l’Inspecteur de campagne pour afficher/rechercher toutes vos campagne
 
    >[!NOTE]
    >
-   >L’espace de travail souhaité doit être sélectionné dans l’arborescence pour afficher l’onglet Inspecteur de campagne une fois qu’il est activé.
+   >L’espace de travail souhaité doit être sélectionné dans l’arborescence pour afficher l’onglet Inspecteur de campagne après son activation.
 
 ## Utilisation de l’Inspecteur Campaign {#using-campaign-inspector}
 

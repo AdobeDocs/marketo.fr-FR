@@ -3,9 +3,9 @@ description: Comment activer l’autorisation Accès aux règles de validation d
 title: Règles générales de validation du formulaire
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez activer son autorisa
 
 >[!IMPORTANT]
 >
->Ces règles s’appliqueront à tous les formulaires de votre ou vos abonnements Marketo Engage.
+>Ces règles s’appliqueront à tous les formulaires de vos abonnements Marketo Engage.
 
 1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
@@ -62,15 +62,15 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez activer son autorisa
 
    >[!NOTE]
    >
-   >La liste déroulante [!UICONTROL &#x200B; Actions de règle de validation du formulaire &#x200B;] vous permet de supprimer ou de modifier des règles existantes.
+   >La liste déroulante [!UICONTROL  Actions de règle de validation du formulaire ] vous permet de supprimer ou de modifier des règles existantes.
 
-1. Nommez votre règle, donnez-lui une description facultative et saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez le ou les domaines à bloquer dans la zone des règles, sélectionnez **[!UICONTROL Activer la règle]**, puis cliquez sur **[!UICONTROL Créer]**.
+1. Nommez votre règle, donnez-lui une description facultative et saisissez le message d’erreur que vous souhaitez que les visiteurs de votre formulaire voient. Saisissez un ou plusieurs domaines à bloquer dans la zone des règles, sélectionnez **[!UICONTROL Activer la règle]**, puis cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engage a défini une placer sur la liste bloquée Place sur la liste bloquée de domaines d’e-mail gratuits pour les consommateurs qui sont bloqués lors de l’utilisation de notre règle « Domaine d’e-mail consommateur » préchargée. [Consultez cette liste ici](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (pour télécharger, vérifiez que votre navigateur est à jour et qu’il peut accepter les téléchargements).
+>Marketo Engage a défini une place sur la liste bloquée de domaines d’e-mail gratuits qui sont bloqués lors de l’utilisation de la règle « Domaine d’e-mail consommateur » préchargée. [Consultez cette liste ici](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (pour télécharger, vérifiez que votre navigateur est à jour et qu’il peut accepter les téléchargements).
 
 ## Comment désactiver l’accès par formulaire{#how-to-disable-access-per-form}
 

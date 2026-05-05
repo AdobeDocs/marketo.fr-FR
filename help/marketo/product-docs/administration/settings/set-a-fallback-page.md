@@ -4,16 +4,16 @@ description: Procédure à suivre pour définir une page de secours afin que les
 title: Définir une page de secours
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '81'
 ht-degree: 13%
 
 ---
 
 # Définir une page de secours {#set-a-fallback-page}
 
-Les pages de secours constituent la dernière ligne de défense si votre page de destination est hors ligne ou introuvable. Assurez-vous d&#39;en avoir un.
+Les pages de secours constituent la dernière ligne de défense si votre page de destination est hors ligne ou introuvable. Assurez-vous d’en avoir un configuré.
 
 >[!NOTE]
 >

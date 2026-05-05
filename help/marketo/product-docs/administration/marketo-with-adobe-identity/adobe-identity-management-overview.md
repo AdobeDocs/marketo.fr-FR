@@ -3,10 +3,10 @@ description: Présentation d’Adobe Identity Management for Marketo Engage, y c
 title: Vue d’ensemble d’Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ Tous les nouveaux abonnements Adobe Marketo Engage (31 juillet 2023 ou version u
 
 Pour les abonnements intégrés à Adobe identity, Adobe Admin Console est utilisé pour la gestion des utilisateurs. Les concepts liés à l’identité, tels que l’authentification SSO, sont également gérés dans Admin Console.
 
-* En savoir plus sur le [&#128279;](https://helpx.adobe.com/fr/enterprise/using/admin-console.html){target="_blank"}.
+* En savoir plus sur le [](https://helpx.adobe.com/fr/enterprise/using/admin-console.html){target="_blank"}.
 * Obtenez des informations supplémentaires sur [la configuration de votre organisation Adobe liée à votre abonnement Marketo](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
@@ -38,12 +38,12 @@ Les abonnements Adobe Marketo Engage intégrés au système Adobe Identity Manag
  </tr>
  <tr>
   <td><strong>Administrateur de profil de produit Adobe Admin Console</strong></td>
-  <td>Responsable de l’administration des utilisateurs dans un profil de produit. Ils ne peuvent pas gérer les utilisateurs en dehors de ce profil spécifique. Un administrateur de profil de produit n’a pas accès à l’application Marketo, sauf s’il est ajouté au profil de produit en tant qu’utilisateur. Leur rôle reste celui d’un utilisateur standard (espace de travail par défaut s’il existe plusieurs espaces de travail).
+  <td>Responsable de l’administration des utilisateurs dans un profil de produit. Ils ne peuvent pas gérer les utilisateurs en dehors de ce profil spécifique. Un administrateur de profil de produit n’a pas accès à l’application Marketo, sauf s’il est ajouté au profil de produit en tant qu’utilisateur. Leur rôle serait toujours celui d’un utilisateur standard (espace de travail par défaut s’il existe plusieurs espaces de travail).
 </td>
  </tr>
  <tr>
   <td><strong>Administrateur Marketo Engage</strong></td>
-  <td>Personne ayant reçu l’accès à Marketo Engage avec les privilèges d’administration. Rôle attribué dans Marketo Engage, et non dans Adobe Admin Console (apparaît simplement comme « Admin » dans la boîte de dialogue modale <b>Modifier l’utilisateur</b>).</td>
+  <td>Personne ayant reçu l’accès à Marketo Engage avec les privilèges d’administration. Rôle attribué dans Marketo Engage, et non dans Adobe Admin Console (s’affiche uniquement en tant qu’« administrateur » dans la boîte de dialogue modale <b>Modifier l’utilisateur</b>).</td>
  </tr>
  <tr>
   <td><strong>Utilisateur Marketo Engage</strong></td>

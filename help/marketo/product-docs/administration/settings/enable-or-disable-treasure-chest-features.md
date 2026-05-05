@@ -4,7 +4,7 @@ description: Comment activer ou désactiver les fonctionnalités expérimentales
 title: Activer ou désactiver les fonctionnalités du Coffre au trésor
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 17%
@@ -13,7 +13,7 @@ ht-degree: 17%
 
 # Activer ou désactiver les fonctionnalités du Coffre au trésor {#enable-or-disable-treasure-chest-features}
 
-Le coffre au trésor contient des fonctionnalités expérimentales amusantes qui ne sont pas entièrement prises en charge.
+Le coffre au trésor contient des fonctionnalités expérimentales qui ne sont pas entièrement prises en charge.
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ Le coffre au trésor contient des fonctionnalités expérimentales amusantes qui
 
    >[!TIP]
    >
-   >Vous devrez peut-être vous déconnecter puis revenir dans Marketo pour que les modifications soient prises en compte.
+   >Vous devrez peut-être vous déconnecter puis vous reconnecter à Marketo pour que les modifications soient prises en compte.

@@ -4,16 +4,16 @@ description: Procédure d’activation des URL personnalisées pour votre abonne
 title: Activer les URL personnalisées pour votre compte
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 19%
+source-wordcount: '96'
+ht-degree: 17%
 
 ---
 
 # Activer les URL personnalisées pour votre compte {#enable-personalized-urls-for-your-account}
 
-Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
+Les URL personnalisées sont utiles pour les campagnes par courrier imprimé.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Très bon travail ! Maintenant que vous avez activé les PURL pour votre compte, vous pouvez [les activer pour des pages de destination individuelles](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Maintenant que vous avez activé les PURL pour votre compte, vous pouvez [les activer pour des pages de destination individuelles](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

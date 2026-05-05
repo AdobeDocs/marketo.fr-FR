@@ -4,16 +4,16 @@ description: Comment créer une disposition personnalisée pour la page des dét
 title: Création d’un onglet personnalisé pour la page Détails de la personne
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 12%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
 # Création d’un onglet personnalisé pour la page Détails de la personne {#creating-a-custom-tab-for-the-person-detail-page}
 
-Si vous recherchez sans cesse un ensemble spécifique de champs dans les détails de la personne, pensez à créer une mise en page personnalisée pour faciliter les choses.
+Si vous avez fréquemment besoin d’accéder à un ensemble spécifique de champs dans la page des détails d’une personne, pensez à créer une mise en page personnalisée.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -43,6 +43,6 @@ Si vous recherchez sans cesse un ensemble spécifique de champs dans les détail
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Un travail génial ! Désormais, lorsque vous chargez les détails d’une personne, vous pouvez utiliser votre mise en page personnalisée pour accéder aux informations qui vous intéressent.
+   Lorsque vous chargez les détails d’une personne, vous pouvez utiliser votre mise en page personnalisée pour accéder aux informations qui vous intéressent.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

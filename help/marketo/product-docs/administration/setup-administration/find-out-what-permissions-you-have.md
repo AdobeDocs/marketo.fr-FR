@@ -4,16 +4,16 @@ description: Découvrez comment afficher vos autorisations Marketo actuelles.
 title: Découvrir les autorisations dont vous disposez.
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 21%
+source-wordcount: '67'
+ht-degree: 23%
 
 ---
 
 # Découvrir les autorisations dont vous disposez. {#find-out-what-permissions-you-have}
 
-Si vous vous demandez quelles autorisations vous avez ou n’avez pas dans Marketo, il existe un moyen facile de le savoir.
+Suivez les étapes ci-dessous pour afficher les autorisations dont vous disposez dans Marketo.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

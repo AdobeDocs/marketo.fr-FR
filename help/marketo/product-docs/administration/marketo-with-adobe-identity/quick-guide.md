@@ -3,10 +3,10 @@ description: Référence rapide avec des liens pour configurer Marketo Engage av
 title: Guide rapide
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 81%
+source-wordcount: '135'
+ht-degree: 69%
 
 ---
 
@@ -18,17 +18,17 @@ Les articles répertoriés ci-dessous vous aideront à configurer Marketo Engag
 
 Création d’un profil de produit et d’un administrateur ou d’une administratrice de produit.
 
-[Créer un profil de produits](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
+[Création d’un profil de produits](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
-[Ajouter un administrateur ou une administratrice de produit](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
+[Ajouter un administrateur de produit](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
 ## Gestion des utilisateurs {#user-management}
 
-Ajout et suppression d’utilisateurs et d’utilisatrices. À faire par l’administrateur ou l’administratrice de produit (ou l’administrateur ou l’administratrice système).
+Ajout et suppression d’utilisateurs. À faire par l’administrateur ou l’administratrice de produit (ou l’administrateur ou l’administratrice système).
 
-[Ajouter un utilisateur ou une utilisatrice](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
+[Ajouter un utilisateur](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
-[Supprimer un utilisateur ou une utilisatrice](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
+[Supprimer un utilisateur](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
 ## Utilisateur ou utilisatrice de l’API uniquement dans Marketo Engage {#api-only-user-in-marketo-engage}
 
@@ -38,7 +38,7 @@ Les utilisateurs et utilisatrices de l’API Marketo Engage uniquement doivent 
 
 ## Ajouter des utilisateurs et utilisatrices via CSV {#add-users-via-csv}
 
-[Importer un CSV](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importer un fichier CSV](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Connexion d’utilisateur ou d’utilisatrice {#user-sign-in}
 

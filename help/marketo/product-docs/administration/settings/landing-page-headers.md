@@ -3,9 +3,9 @@ description: Comment personnaliser les en-têtes HTTP pour les domaines de page 
 title: En-têtes de page de destination
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---
@@ -37,10 +37,10 @@ Suivez les étapes ci-dessous pour personnaliser certains des en-têtes HTTP sur
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Permet de définir si des ressources hébergées par Marketo Engage peuvent être incorporées dans des pages web externes</td>
+  <td>Permet de définir si les ressources hébergées par Marketo Engage peuvent être incorporées dans des pages web externes</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->Il est important de passer en revue ces paramètres avec votre équipe informatique afin de déterminer la politique de votre entreprise à définir. Des paramètres incorrects peuvent empêcher certains visiteurs d’accéder à vos pages de destination.
+>Il est important de passer en revue ces paramètres avec votre équipe informatique afin de déterminer la stratégie de votre entreprise. Des paramètres incorrects peuvent empêcher certains visiteurs d’accéder à vos pages de destination.

@@ -4,9 +4,9 @@ description: Présentation des options de confidentialité et de tracking, notam
 title: Présentation des paramètres de confidentialité
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Pour ce faire, vous devez ajouter un paramètre à un lien d’opt-out sur une p
 
 ?marketo_opt_out=true
 
-Vous trouverez ci-dessous des exemples de page web avec un lien d’opt-out et une page de destination pour une fois le lien cliqué. La vôtre varie.
+Vous trouverez ci-dessous des exemples de page web avec un lien d’opt-out et une page de destination pour une fois le lien cliqué. Celles-ci varient.
 
 Voici une page web comportant un bouton avec le paramètre «?marketo_opt_out=true » dans le lien d’exclusion.
 
@@ -66,9 +66,9 @@ Les marketeurs peuvent permettre aux utilisateurs de s’inscrire en utilisant l
 
 ## Tracking à l’aide d’une adresse IP anonymisée {#tracking-using-an-anonymized-ip}
 
-Les marketeurs peuvent préserver la confidentialité en suivant les utilisateurs avec une adresse IP anonymisée. Pour ce faire, ajoutez ce code au code RTP ou [!DNL Munchkin] JavaScript intégré au site web.
+Les marketeurs peuvent préserver la confidentialité en suivant les utilisateurs avec une adresse IP anonymisée. Pour ce faire, ajoutez ce code au RTP ou [!DNL Munchkin] JavaScript intégré au site web.
 
-* Par [!DNL Munchkin], ajoutez simplement des `{"anonymizeIP",true}` à la fonction [init](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Par [!DNL Munchkin], ajoutez des `{"anonymizeIP",true}` à la fonction [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Pour le Web Personalization (RTP), ajoutez ceci au javascript :
 

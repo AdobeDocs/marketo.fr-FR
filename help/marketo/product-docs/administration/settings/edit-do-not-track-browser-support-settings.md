@@ -4,9 +4,9 @@ description: Comment honorer ou ignorer la requête Ne pas suivre du navigateur 
 title: Modifier les paramètres de prise en charge du navigateur « Ne pas suivre »
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '138'
 ht-degree: 12%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->Par défaut, l’option « Ne pas effectuer de suivi » est définie sur **[!UICONTROL Ignorer]**. Si c’est ce que vous souhaitez, vous n’avez aucune mesure à prendre.
+>Par défaut, l’option « Ne pas suivre » est définie sur **[!UICONTROL Ignorer]**. Si c’est ce que vous souhaitez, vous n’avez aucune mesure à prendre.
 
 1. Cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Cliquez sur **[!UICONTROL Munchkin]**.
+1. Cliquez sur ****.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
@@ -45,8 +45,8 @@ ht-degree: 12%
 
    >[!NOTE]
    >
-   >Il est recommandé de prendre en charge la fonction « Ne pas suivre ». En Europe, c&#39;est la loi !
+   >Il est recommandé de prendre en charge la fonction « Ne pas suivre ». En Europe, c&#39;est la loi.
 
    >[!TIP]
    >
-   >Pour en savoir plus sur « Do Not Track » et son fonctionnement, consultez [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Pour en savoir plus sur « Ne pas suivre » et son fonctionnement, consultez [cette page](https://en.wikipedia.org/wiki/Do_Not_Track).

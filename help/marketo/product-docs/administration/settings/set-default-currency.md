@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: Comment les administrateurs affichent et modifient la devise par défaut de leur abonnement Marketo Engage.
+description: Permet aux administrateurs d’afficher et de modifier la devise par défaut de leur abonnement à Marketo Engage.
 title: Définir la devise par défaut
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
