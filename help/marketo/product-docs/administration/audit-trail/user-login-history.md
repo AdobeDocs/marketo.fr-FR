@@ -4,9 +4,9 @@ description: Afficher qui s’est connecté à votre abonnement et quand, y comp
 title: Historique des connexions d’utilisateur et d’utilisatrice
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Pour afficher l’historique de connexion de l’utilisateur :
 
    >[!NOTE]
    >
-   >L’interface utilisateur affiche jusqu’à 30 jours de données. Si vous en avez besoin, vous pouvez télécharger les six derniers mois de données dans un fichier CSV.
+   >L’interface utilisateur affiche jusqu’à 30 jours de données. Si vous en avez besoin de plus, vous pouvez télécharger les six derniers mois de données dans un fichier CSV.
 
    >[!MORELIKETHIS]
    >

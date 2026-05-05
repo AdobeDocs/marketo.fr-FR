@@ -4,9 +4,9 @@ description: Filtrez le journal d’audit par période, type de ressource, utili
 title: Filtrage dans le journal d’audit
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '146'
 ht-degree: 6%
 
 ---
@@ -29,7 +29,7 @@ Filtrez par période, type de ressource, utilisateurs, action effectuée, etc.
 
    >[!NOTE]
    >
-   >Il existe une multitude de combinaisons de paramètres de recherche possibles. Dans cet exemple, nous localisons : _tous les e-mails - modifiés par n’importe qui - au cours des sept jours précédents_.
+   >Il existe une multitude de combinaisons de paramètres de recherche possibles. Cet exemple localise : _tous les e-mails (modifiés par n’importe qui) au cours des sept jours précédents_.
 
 1. Cliquez sur le menu déroulant **[!UICONTROL Période]** et sélectionnez **[!UICONTROL 7 derniers jours]**.
 
@@ -39,7 +39,7 @@ Filtrez par période, type de ressource, utilisateurs, action effectuée, etc.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Cliquez sur la liste déroulante **Actions** et sélectionnez **[!UICONTROL Modifier]**.
+1. Cliquez sur la liste déroulante **[!UICONTROL Actions]** et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -50,8 +50,6 @@ Filtrez par période, type de ressource, utilisateurs, action effectuée, etc.
 1. Les résultats filtrés s’affichent à gauche.
 
    ![](assets/filtering-in-audit-trail-8.png)
-
-   C&#39;est ça !
 
    >[!NOTE]
    >

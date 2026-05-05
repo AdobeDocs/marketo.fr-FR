@@ -4,16 +4,16 @@ description: Référence pour les détails de modification des enregistrements d
 title: Modifier des détails dans le journal d’audit
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '1906'
+source-wordcount: '1910'
 ht-degree: 15%
 
 ---
 
 # Modifier des détails dans le journal d’audit {#change-details-in-audit-trail}
 
-Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi dans votre abonnement Marketo. Voici les détails.
+Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi dans votre abonnement Marketo.
 
 ## Journal d’audit de la ressource {#asset-audit-trail}
 
@@ -76,11 +76,11 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Ajouter la valeur de coût de la période « # » au mois de programme « aaaa-mm »</td>
+   <td colspan="1">Ajouter la valeur de coût de la période « # » mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois de programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois de programme « aaaa-mm »</td>
+   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois du programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
@@ -225,11 +225,11 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Ajouter la valeur de coût de la période « # » au mois de programme « aaaa-mm »</td>
+   <td colspan="1">Ajouter la valeur de coût de la période « # » mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois de programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois de programme « aaaa-mm »</td>
+   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois du programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
@@ -347,11 +347,11 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Ajouter la valeur de coût de la période « # » au mois de programme « aaaa-mm »</td>
+   <td colspan="1">Ajouter la valeur de coût de la période « # » mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois de programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois de programme « aaaa-mm »</td>
+   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois du programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
@@ -416,11 +416,11 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Ajouter la valeur de coût de la période « # » au mois de programme « aaaa-mm »</td>
+   <td colspan="1">Ajouter la valeur de coût de la période « # » mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois de programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois de programme « aaaa-mm »</td>
+   <td colspan="1">Modifier le coût de la période Nouvelle valeur de coût « # », Nouveau mois du programme « aaaa-mm », Ancienne valeur de coût « # », Ancien mois du programme « aaaa-mm »</td>
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
@@ -428,7 +428,7 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
   </tr>
   <tr>
    <td colspan="1">Modifier la configuration du programme</td>
-   <td colspan="1">Ajout de la mention « nom_partenaire » du partenaire d’événement</td>
+   <td colspan="1">Ajout du partenaire d’événement « nom_partenaire »</td>
   </tr>
   <tr>
    <td>Exporter</td>
@@ -630,7 +630,7 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
    <td>Cloné sur « Programmes » dans le programme « nom du programme » <br>Nom de la ressource clonée « nom »<br>ou <br> Cloné sur « Dossier » dans le dossier « nom du dossier »<br>Nom de la ressource clonée « nom »</td>
   </tr>
   <tr>
-   <td>Modifier le paramétrage de la liste dynamique</td>
+   <td>Modifier la configuration de la liste dynamique</td>
    <td>Affiche un instantané du statut actuel, y compris les noms et valeurs des filtres et des déclencheurs</td>
   </tr>
   <tr>
@@ -667,7 +667,7 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
    <td>Clonage de la « base de données des personnes » dans le dossier « nom du dossier » <br>Clonage du nom de la ressource « nom »<br> ou <br> Clonage de la « base de données des personnes » dans le programme « nom du programme » <br>Clonage du nom de la ressource « nom »</td>
   </tr>
   <tr>
-   <td>Modifier le paramétrage de la liste dynamique</td>
+   <td>Modifier la configuration de la liste dynamique</td>
    <td>Affiche un instantané du statut actuel, y compris les noms et valeurs des filtres et des déclencheurs </td>
   </tr>
   <tr>
@@ -749,7 +749,7 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
   <tr>
    <td>Niveau de sécurité du mot de passe</td>
    <td>Modifier</td>
-   <td>Sécurité du mot de passe remplacée par le modèle : Sécurité standard, longueur minimale : #, valeur inférieure-supérieure : #, nombre : #, casse mixte : # , expiration : #, délai d’expiration de la session : #</td>
+   <td>Sécurité du mot de passe remplacée par le modèle : Sécurité standard, longueur minimale : #, majuscule en bas : #, nombre : #, casse mixte : #, expiration : #, délai d'expiration de la session : #</td>
   </tr>
   <tr>
    <td rowspan="3">Rôle<br><br></td>
@@ -765,9 +765,9 @@ Le journal d&#39;audit offre beaucoup d&#39;insight pour savoir qui fait quoi da
    <td>Rôle modifié de « nom précédent » en « nouveau nom » (REMARQUE : si vous avez besoin de détails sur les autorisations modifiées, veuillez contacter le support) - <br>affiche un instantané des autorisations attribuées au rôle<br></td>
   </tr>
   <tr>
-   <td>Rapport des listes intelligentes</td>
+   <td>Rapport de liste dynamique</td>
    <td>Modifier</td>
-   <td>SmartList modifié pour la connexion à télécharger : « true ou false »</td>
+   <td>Liste dynamique modifiée pour la connexion à télécharger : « true ou false »</td>
   </tr>
   <tr>
    <td rowspan="7">Utilisateur ou utilisatrice<br><br><br><br></td>

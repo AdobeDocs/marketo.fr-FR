@@ -4,9 +4,9 @@ description: Présentation du journal d'audit et de la manière dont il capture 
 title: Vue d’ensemble du journal d’audit
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 2%
 
 ---
@@ -25,15 +25,15 @@ Le journal d&#39;audit vous permet d&#39;obtenir un historique complet (équival
 
 Le journal d&#39;audit capture, en temps réel, une liste complète d&#39;actions et d&#39;événements se produisant dans un abonnement Marketo. Il comprend un accès en libre-service à un historique de données de six mois pour aider à répondre à des questions telles que :
 
-Qu’est-il advenu de cette ressource ou de ce paramètre et qui l’a mis à jour pour la dernière fois ?
+« Qu’est-il advenu de cette ressource ou de ce paramètre et qui l’a mis à jour pour la dernière fois ? »
 
-Qu’a fait l’utilisateur X ?
+« Qu’a fait l’utilisateur X ? »
 
-Qui se connecte à notre compte ?
+« Qui se connecte à notre compte ? »
 
 ## Ce que nous vérifions {#what-we-audit}
 
-Marketo effectuera l’audit des actions [créer, modifier et supprimer](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) pour :
+Marketo effectue un audit des actions [créer, modifier et supprimer](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) pour :
 
 * Ressources Design Studio
 * Tous les programmes Marketo
@@ -62,11 +62,11 @@ Surveillez les détails relatifs à l’utilisateur.
 
 **3) [Historique de connexion de l’utilisateur](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Vérifiez qui s&#39;est connecté à votre abonnement et quand. Inclut également les tentatives de connexion ayant échoué.
+Vérifiez qui s’est connecté à votre abonnement et quand (y compris les tentatives de connexion ayant échoué).
 
 >[!TIP]
 >
->Il y a tant de choses que vous pouvez auditer à l&#39;aide du journal d&#39;audit, veillez à utiliser [Filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) !
+>Étant donné qu&#39;il y a tant de choses que vous pouvez auditer à l&#39;aide du journal d&#39;audit, [le filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) peut vous faire gagner beaucoup de temps.
 
 ## Exportation des données {#exporting-data}
 
@@ -78,7 +78,7 @@ Vous ne pouvez afficher que 30 jours de données dans votre instance. Pour obten
 >
 >**Définition**
 >
->**Inconnu :** dans [!DNL Webhook], il se peut que le nom et l’adresse électronique d’un utilisateur soient répertoriés comme « Inconnus ». Cela se produit lorsque vous modifiez les valeurs de votre liste de sélection dans votre CRM. Ces valeurs apparaissent dans les formulaires Marketo et les pages de destination. Cette mise à jour du côté du CRM crée automatiquement vos pages de destination qui font référence au formulaire. En [!DNL Webhook], nous allons capturer que la page de destination a été brouillée, mais le nom et l’adresse e-mail de l’utilisateur s’afficheront comme « Inconnu », car nous ne pouvons pas capturer les informations de l’utilisateur du côté du CRM.
+>**Inconnu :** dans [!DNL Webhook], il se peut que le nom et l’adresse électronique d’un utilisateur soient répertoriés comme « Inconnus ». Cela se produit lorsque vous modifiez les valeurs de votre liste de sélection dans votre CRM. Ces valeurs apparaissent dans les formulaires Marketo et les pages de destination. Cette mise à jour du côté du CRM crée automatiquement vos pages de destination qui font référence au formulaire. Dans [!DNL Webhook], Marketo capture que la page de destination a été brouillée, mais le nom et l’adresse e-mail de l’utilisateur s’affichent comme « Inconnu », car Marketo ne peut pas capturer les informations de l’utilisateur du côté du CRM.
 
 >[!MORELIKETHIS]
 >

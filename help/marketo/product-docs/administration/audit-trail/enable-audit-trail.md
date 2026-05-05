@@ -4,10 +4,10 @@ description: Activez le journal d'audit et l'historique de connexion pour un rô
 title: Activer le journal d’audit
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 3%
+source-wordcount: '244'
+ht-degree: 4%
 
 ---
 
@@ -67,13 +67,13 @@ Le journal d&#39;audit est disponible pour tous les clients et contrôlé par de
    >
    >Ce processus s’applique également lorsque vous créez un utilisateur.
 
-1. Sélectionnez les rôles de journal d’audit que vous avez créés. Dans cet exemple, nous avons créé « Journal d’audit - Ressource et administrateur » et « Journal d’audit - Avec historique de connexion ».
+1. Sélectionnez les rôles de journal d’audit que vous avez créés. Cet exemple illustre la création de « Journal d’audit - Ressource et administrateur » et « Journal d’audit - Avec historique de connexion ».
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >Si les espaces de travail sont activés, veillez à cocher la case du rôle qui sélectionne tous les espaces de travail. La désélection d’un espace de travail individuel masque le journal d’audit. Cela signifie que vous verrez les données du journal d’audit pour chaque espace de travail. Vous avez la possibilité de masquer les espaces de travail lors du [filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Si les espaces de travail sont activés, veillez à cocher la case du rôle qui sélectionne tous les espaces de travail. La désélection d’un espace de travail individuel masque le journal d’audit. Vous avez la possibilité de masquer les espaces de travail lors du [filtrage](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 
