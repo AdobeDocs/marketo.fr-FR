@@ -4,16 +4,16 @@ description: Définissez des limites d’e-mail par jour et par 7 jours pour év
 title: Activer les limites de communication
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 7%
 
 ---
 
 # Activer les limites de communication {#enable-communication-limits}
 
-Il est très important de ne pas trop communiquer avec vos employés. Définir des limites de communication aidera à empêcher votre organisation d’envoyer trop d’e-mails.
+Il est important de ne pas trop communiquer avec vos employés. Définir des limites de communication aidera à empêcher votre organisation d’envoyer trop d’e-mails.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
    >
    >Le [!UICONTROL par jour] est basé sur le jour calendaire dans le fuseau horaire de l&#39;abonnement (minuit-minuit).
 
-1. Cliquez sur le menu déroulant **[!UICONTROL Par jour]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 1.
+1. Cliquez sur le menu déroulant **[!UICONTROL Par jour]** et sélectionnez la limite souhaitée. Dans cet exemple, 1 est utilisé.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,7 +43,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
    >
    >Vous pouvez également choisir **[!UICONTROL Personnalisé]** si aucune des options prédéfinies ne fonctionne pour vous.
 
-1. Cliquez sur le menu déroulant **[!UICONTROL Par période de 7 jours]** et sélectionnez la limite souhaitée. Dans cet exemple, nous choisissons 5.
+1. Cliquez sur le menu déroulant **[!UICONTROL Par période de 7 jours]** et sélectionnez la limite souhaitée. Dans cet exemple, la valeur 5 est utilisée.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -53,7 +53,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
 
    >[!NOTE]
    >
-   >En savoir plus sur ce que sont les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+   >En savoir plus sur ce que sont les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 
@@ -63,7 +63,7 @@ Il est très important de ne pas trop communiquer avec vos employés. Définir d
    >
    >**Exemple**
    >
-   >Les paramètres ci-dessus signifient que les personnes ne recevront pas plus de **e-mails par jour** ou plus de **5 au cours d’une période de sept jours**.
+   >Les paramètres ci-dessus signifient que les personnes ne recevront pas plus de **1 e-mail par jour** ou plus de **5 sur une période de sept jours**.
 
    >[!NOTE]
    >

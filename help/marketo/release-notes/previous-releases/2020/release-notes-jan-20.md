@@ -4,9 +4,9 @@ description: Notes De Mise À Jour - Janvier 2020 - Documents Marketo - Document
 title: Notes De Mise À Jour - Janvier 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '844'
 ht-degree: 2%
 
 ---
@@ -25,11 +25,11 @@ Les fonctionnalités suivantes seront publiées le **17 janvier 2020**.
 
 ## Application Marketo Engage Adobe principale {#core-marketo-engage-adobe-application}
 
-* [Sélecteur de ressources Adobe Experience Manager &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) : accédez rapidement aux ressources alignées sur votre marque et aux ressources AEM disponibles directement dans Marketo Engage. Remarque : bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et Classic, les fonctionnalités administratives se trouvent dans notre expérience Classic. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou ultérieure.
+* [Sélecteur de ressources Adobe Experience Manager ](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) : accédez rapidement aux ressources alignées sur votre marque et aux ressources AEM disponibles directement dans Marketo Engage. Remarque : bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et Classic, les fonctionnalités administratives se trouvent dans notre expérience Classic. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou ultérieure.
 
 >[!NOTE]
 >
->Actuellement, le sélecteur de ressources AEM n’est entièrement pris en charge que dans Firefox. Il n’est pas pris en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome (v. 80), selon les paramètres de vos cookies SameSite.
+>Actuellement, le sélecteur de ressources AEM n’est entièrement pris en charge que dans Firefox. Il n’est pas pris en charge dans Safari et peut ne pas fonctionner dans la dernière version de Chrome (v. 80), en fonction des paramètres des cookies SameSite.
 
 * **[!DNL Microsoft Dynamics]- Synchroniser le prospect avec le CRM en temps réel** : synchronisation en temps réel des prospects et des contacts entre Marketo Engage et [!DNL Microsoft Dynamics]. Créez des prospects ou des contacts et affichez-les immédiatement dans [!DNL Microsoft Dynamics] avec l’action de flux « Synchroniser la personne avec Microsoft ».
 * **[!DNL LinkedIn]mappage de champ supplémentaire Forms de génération de leads** : capturez les données de lead à partir de [!DNL LinkedIn] Forms de génération de leads pour créer des expériences plus pertinentes pour les points de contact de vente et de marketing. Extrayez des champs masqués, des champs de consentement et le champ de prospects de test dans Marketo Engage.
@@ -52,12 +52,12 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 ![(étoile)](assets/yellow-star.png)
 
-* **Intégration des leads Marketo Engage** : associez les ventes et le marketing avec une vue unifiée des leads dans [!DNL Bizible] et Marketo Engage. Grâce à cette mise à jour, Marketo Engage peut désormais être utilisé comme source de données de prospect supplémentaire. Vous n’avez donc plus à attendre que les prospects se synchronisent avec le CRM pour générer des rapports sur la génération de prospects.
+* **Intégration des leads** : associez les ventes et le marketing avec une vue unifiée des leads dans [!DNL Bizible] et Marketo Engage. Grâce à cette mise à jour, Marketo Engage peut désormais être utilisé comme source de données de prospect supplémentaire. Vous n’avez donc plus à attendre que les prospects se synchronisent avec le CRM pour générer des rapports sur la génération de prospects.
 * **Améliorations de Discover** : tirez davantage parti de nos tableaux Discover en [!DNL Bizible] des améliorations développées à partir des commentaires des clients, comme la possibilité d’analyser en profondeur les enregistrements transactionnels à partir de mosaïques et d’attributs, d’ajouter des nombres d’enregistrements essentiels et des mesures de coût par personne correspondantes, et d’ajouter ou de supprimer des filtres de tableau de bord pour plusieurs tableaux de bord. Vous serez également redirigé directement vers le tableau de bord par défaut lors de la connexion.
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Modification d’images](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=fr#design-studio) : accédez aux fonctionnalités d’édition d’Adobe sans avoir à quitter Marketo Engage. Cette nouvelle fonctionnalité vous permet d’améliorer, de recadrer et d’ajouter facilement du texte aux images directement dans [!UICONTROL Design Studio].
+* [Modification d’images](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio) : accédez aux fonctionnalités d’édition d’Adobe sans avoir à quitter Marketo Engage. Cette nouvelle fonctionnalité vous permet d’améliorer, de recadrer et d’ajouter facilement du texte aux images directement dans [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 

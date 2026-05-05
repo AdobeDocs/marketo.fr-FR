@@ -3,9 +3,9 @@ description: Déterminer si les ouvertures d’e-mails sont suivies par campagne
 title: Suivi des ouvertures d’e-mails au niveau de la campagne
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 15%
 
 ---
@@ -18,19 +18,19 @@ Cette fonctionnalité vous permet de contrôler le suivi des ouvertures d’e-ma
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **Admin**.
+1. Accédez à la zone **[!UICONTROL Admin]**.
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 
-1. Cliquez sur **Campagne intelligente**.
+1. Cliquez sur **[!UICONTROL Campagne intelligente]**.
 
    ![](assets/email-open-tracking-at-campaign-level-2.png)
 
-1. En regard de _Paramètres des ouvertures d’e-mail_, cliquez sur **Modifier**.
+1. En regard de _Paramètres des ouvertures d’e-mail_, cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. Cliquez sur la liste déroulante, choisissez le paramètre souhaité, puis cliquez sur **Enregistrer**.
+1. Cliquez sur la liste déroulante, choisissez le paramètre souhaité, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 

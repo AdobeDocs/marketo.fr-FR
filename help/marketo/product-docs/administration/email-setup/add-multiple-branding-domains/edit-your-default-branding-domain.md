@@ -4,10 +4,10 @@ description: Remplacez le domaine de suivi générique par le domaine de marque 
 title: Modifier votre domaine de branding par défaut
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
@@ -27,7 +27,7 @@ La modification de votre domaine de marque par défaut est la première étape d
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Dans le tableau [!UICONTROL Domaines de marque], sélectionnez le domaine générique et cliquez sur Modifier pour le modifier en domaine de marque de votre société.
+1. Dans le tableau [!UICONTROL Domaines de marque], sélectionnez le domaine générique et cliquez sur **[!UICONTROL Modifier]** pour le modifier en domaine de marque de votre société.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -43,4 +43,4 @@ Vous pouvez désormais [ajouter des domaines de marque supplémentaires](/help/m
 
 >[!NOTE]
 >
->Si vous devez mettre à jour ou supprimer un protocole SSL existant, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Si vous devez mettre à jour ou supprimer un SSL existant, contactez l’assistance technique de [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

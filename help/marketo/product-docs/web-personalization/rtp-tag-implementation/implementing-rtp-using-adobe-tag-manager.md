@@ -4,9 +4,9 @@ description: Découvrez l’implémentation de rtp à l’aide d’adobe tag man
 title: Mise en œuvre de RTP à l’aide d’Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '230'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Connectez-vous à votre compte [!DNL Dynamic Tag Manager] ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Accédez à **[!UICONTROL Tableau de bord &#x200B;].** Cliquez sur la propriété web correspondante.
+1. Accédez à **[!UICONTROL Tableau de bord ].** Cliquez sur la propriété web correspondante.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
@@ -45,7 +45,7 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. Appelez la nouvelle balise : **Marketo RTP Tag**
 
-1. Supprimez le code suivant de la balise [!UICONTROL &#x200B; RTP &#x200B;]
+1. Supprimez le code suivant de la balise [!UICONTROL  RTP ]
 
    * `<script type='text/javascript'>`
    * `</script>`
@@ -66,4 +66,4 @@ Pour implémenter votre balise RTP, suivez les instructions d’installation ci-
 
 1. **[!UICONTROL Vérifiez]** qu’il apparaît sur toutes les pages, y compris les pages de destination et les sous-domaines.
 
-   Pour ce faire, cliquez avec le bouton droit de la souris sur les pages de votre site web. Accédez à **[!UICONTROL Inspecter l’élément]**, cliquez sur **[!UICONTROL Réseau]**, recherchez : **RTP**.
+   Pour ce faire, cliquez avec le bouton droit de la souris sur les pages de votre site Web. Accédez à **[!UICONTROL Inspecter l’élément]**, cliquez sur **[!UICONTROL Réseau]**, recherchez : **RTP**.

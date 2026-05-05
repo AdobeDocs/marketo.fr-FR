@@ -4,16 +4,16 @@ description: Personnalisez le texte du lien Afficher en tant que page web et HTM
 title: Modifier le message « Afficher en tant que page web »
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 13%
+source-wordcount: '182'
+ht-degree: 24%
 
 ---
 
 # Modifier le message « Afficher en tant que page web » {#edit-the-view-as-web-page-message}
 
-Si vous devez modifier le texte « [Afficher en tant que page web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) », procédez comme suit.
+Découvrez comment modifier le texte « [ Afficher en tant que page web ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) ».
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Si vous devez modifier le texte « [Afficher en tant que page web](/help/marketo
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >La deuxième partie `##MKT_TOK##` le cookie [!UICONTROL munchkin] de cette personne. Cela permet de s’assurer qu’ils sont correctement cookies lorsqu’ils cliquent sur le lien.
+   >La deuxième partie `##MKT_TOK##` est le cookie [!UICONTROL Munchkin] de cette personne. Cela permet de s’assurer qu’elles sont correctement suivies lorsqu’elles cliquent sur le lien.
 
 1. Modifiez les versions **[!UICONTROL Afficher en tant que page Web HTML]** et **[!UICONTROL Afficher en tant que texte de page Web]** selon vos besoins, puis cliquez sur **[!UICONTROL Enregistrer les modifications]**.
 
@@ -48,7 +48,7 @@ Si vous devez modifier le texte « [Afficher en tant que page web](/help/marketo
 >* Ajout d’URL supplémentaires à l’une des zones HTML
 >* Mise d’HTML dans la version texte
 
-Voilà, c&#39;est fait. Envoyez des e-mails de test pour garantir la mise en forme.
+Envoyez des e-mails de test pour vérifier la mise en forme.
 
 ## Texte « Afficher en tant que page web » par défaut {#default-view-as-web-page-text}
 
@@ -62,5 +62,3 @@ Si vous devez revenir au système par défaut « [!UICONTROL Afficher en tant qu
 
 Pour afficher cet e-mail en tant que page web, accédez à l’adresse suivante :
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`
-
-C&#39;est ça !

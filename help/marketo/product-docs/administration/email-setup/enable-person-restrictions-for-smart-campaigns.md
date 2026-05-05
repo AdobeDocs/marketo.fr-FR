@@ -4,10 +4,10 @@ description: Définissez un nombre maximal de personnes pouvant être qualifiée
 title: Activer les restrictions de personne pour les campagnes intelligentes
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 10%
+source-wordcount: '153'
+ht-degree: 11%
 
 ---
 
@@ -37,7 +37,7 @@ Marketo offre une fonctionnalité permettant de limiter le nombre _maximum_ de p
 
    >[!CAUTION]
    >
-   >Si le nombre de personnes pouvant être exécutées par une campagne intelligente dépasse la limite définie, cette campagne ne sera pas exécutée du tout.
+   >Si le nombre de personnes pouvant être exécutées par une campagne intelligente dépasse la limite définie, l’opération ne sera pas exécutée du tout.
 
 1. Saisissez une limite et cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -50,8 +50,6 @@ Marketo offre une fonctionnalité permettant de limiter le nombre _maximum_ de p
    >[!CAUTION]
    >
    >Cette limite est appliquée à toutes les campagnes intelligentes, mais peut être remplacée au niveau de la campagne. Découvrez comment [remplacer les restrictions de personne dans une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
-
-Terminé ! Vous venez d&#39;allumer l&#39;interrupteur de sécurité.
 
 >[!MORELIKETHIS]
 >

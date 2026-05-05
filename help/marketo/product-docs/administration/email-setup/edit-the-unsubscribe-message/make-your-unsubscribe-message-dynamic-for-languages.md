@@ -4,20 +4,20 @@ description: Utilisez le contenu dynamique et la segmentation pour afficher le m
 title: Rendre votre message de désabonnement dynamique pour les langues
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 7%
+source-wordcount: '472'
+ht-degree: 8%
 
 ---
 
 # Rendre votre message de désabonnement dynamique pour les langues {#make-your-unsubscribe-message-dynamic-for-languages}
 
-Le message et le lien de désabonnement par défaut sont en anglais. Vous pouvez utiliser du contenu dynamique pour l’afficher dans différentes langues.
+Le message et le lien de désabonnement par défaut sont en anglais. Vous pouvez utiliser du contenu dynamique pour les afficher dans différentes langues.
 
 >[!NOTE]
 >
->Cet article représente une bonne pratique, mais peut être réalisé d’autres façons.
+>Cet article représente une bonne pratique, mais il peut être réalisé d’autres façons.
 
 ## Préparation des données {#prepare-your-data}
 
@@ -53,7 +53,7 @@ Le message et le lien de désabonnement par défaut sont en anglais. Vous pouvez
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Accédez à l’onglet **[!UICONTROL Liste dynamique]**. Saisissez **[!UICONTROL Langue préférée]** dans le champ de recherche. Faites glisser et déposez le filtre sur la zone de travail.
+1. Accédez à l’onglet **[!UICONTROL Liste intelligente]**. Saisissez **[!UICONTROL Langue préférée]** dans le champ de recherche. Faites glisser et déposez le filtre sur la zone de travail.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -95,7 +95,7 @@ Le message et le lien de désabonnement par défaut sont en anglais. Vous pouvez
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Sélectionnez un segment dans l’arborescence. Cliquez sur votre désabonnement, puis sur l’icône de lien.
+1. Sélectionnez un segment dans l’arborescence. Cliquez sur le texte de désabonnement, puis sur l’icône de lien.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -107,11 +107,9 @@ Le message et le lien de désabonnement par défaut sont en anglais. Vous pouvez
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-Génial. Presque là !
+## Utilisation d’un fragment de code dans un e-mail {#use-a-snippet-in-an-email}
 
-## Utiliser un fragment de code dans un e-mail {#use-snippet-in-an-email}
-
-1. Dans l’éditeur d’e-mail, cliquez sur l’élément modifiable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **[!UICONTROL Remplacer par le fragment de code]**. Si vous sélectionnez un élément de fragment de code modifiable, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
+1. Dans l’éditeur d’e-mail, cliquez sur l’élément modifiable. Cliquez ensuite sur l’icône d’engrenage et sélectionnez **[!UICONTROL Remplacer par le fragment de code]**. Si vous sélectionnez un élément de fragment modifiable, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Modifier]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -119,7 +117,7 @@ Génial. Presque là !
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. Pour le tester, cliquez sur **[!UICONTROL Précédent]**...
+1. Pour tester, cliquez sur **[!UICONTROL Précédent]**...
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
@@ -133,9 +131,9 @@ Génial. Presque là !
 
    >[!TIP]
    >
-   >Bien sûr, vous pouvez également modifier le reste de votre e-mail pour le langage dynamique. Pendant que vous y êtes, procédez de la même manière sur la page de désabonnement.
+   >Vous pouvez également modifier le reste de votre e-mail pour la langue dynamique. Utilisez la même technique sur la page de désabonnement.
 
-## Personnalisation de votre page de désabonnement avec du contenu dynamique {#customizing-your-unsubscribe-page-with-dynamic-content}
+## Personnalisation de votre page de désabonnement avec du contenu dynamique {#customize-your-unsubscribe-page-with-dynamic-content}
 
 Si vous souhaitez que vos salariés visitent une page de désabonnement dans leur langue préférée, vous pouvez utiliser du contenu dynamique sur la page de destination et la page de confirmation.
 
@@ -159,8 +157,6 @@ Si vous souhaitez que vos salariés visitent une page de désabonnement dans leu
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Modifiez le contenu de chaque page de destination, approuvez-la et tout est prêt !
-
    >[!NOTE]
    >
-   >En savoir plus sur le [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) et sur tout ce que vous pouvez faire.
+   >En savoir plus sur le [contenu dynamique](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).

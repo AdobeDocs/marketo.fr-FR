@@ -4,9 +4,9 @@ description: Ajoutez des domaines de branding supplémentaires et attribuez un d
 title: Ajouter un domaine de branding supplémentaire avec des espaces de travail
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '131'
 ht-degree: 13%
 
 ---
@@ -17,9 +17,9 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter des domaines de bra
 
 >[!PREREQUISITES]
 >
->Vous devez d’abord [modifier votre domaine de marque par défaut](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
+>* [Modifiez votre domaine de branding par défaut](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->Vous devez d’abord [remplacer le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) par un domaine de branding avant d’ajouter d’autres domaines de branding.
+>* [Remplacez le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) par un domaine de branding avant d’ajouter d’autres domaines de branding.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -39,7 +39,7 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter des domaines de bra
 
    >[!NOTE]
    >
-   >Vous pouvez choisir d’en faire votre domaine de Principal pour un ou plusieurs espaces de travail, et tous les e-mails non envoyés existants définis sur « Par défaut » et tous les nouveaux e-mails créés seront définis par défaut sur le domaine principal. Vous pouvez modifier ce paramètre par e-mail.
+   >Vous pouvez choisir d’en faire votre domaine principal pour un ou plusieurs espaces de travail, et tous les e-mails non envoyés existants définis sur « Par défaut » et tous les nouveaux e-mails créés seront définis par défaut sur le domaine principal. Vous pouvez modifier ce paramètre par e-mail.
 
 1. Sélectionnez le nouveau domaine de branding et cliquez sur **[!UICONTROL Enregistrer]**.
 

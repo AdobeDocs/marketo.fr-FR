@@ -4,10 +4,10 @@ description: Remplacez le domaine de branding générique par le domaine de votr
 title: Modifier votre domaine de branding par défaut avec des espaces de travail
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 11%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 
@@ -28,8 +28,6 @@ ht-degree: 11%
    >[!NOTE]
    >
    >**[!UICONTROL Ajouter]** ne fonctionne pas tant que vous n’avez pas modifié le domaine générique. **[!UICONTROL Supprimer]** ne fonctionne pas tant que vous n’avez pas ajouté un second domaine.
-   >
-   >Vous ne pouvez pas ajouter de domaine supplémentaire tant que vous n’avez pas modifié le domaine générique pour la première fois.
 
 1. Saisissez le nom de votre domaine par défaut et cliquez sur **[!UICONTROL Suivant]**.
 
@@ -41,6 +39,6 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->Lors de l’ajout de domaines de branding supplémentaires, vous pouvez choisir de faire de ce domaine votre domaine principal pour un ou plusieurs espaces de travail, et tous les e-mails non envoyés existants définis sur « Par défaut » et tous les e-mails nouvellement créés seront définis par défaut sur le domaine principal. Vous pouvez modifier ce paramètre par e-mail.
+>Lors de l’ajout de domaines de branding supplémentaires, vous pouvez choisir d’en faire votre domaine principal pour un ou plusieurs espaces de travail, et tous les e-mails non envoyés existants définis sur « Par défaut » et tous les e-mails nouvellement créés seront définis par défaut sur le domaine principal. Vous pouvez modifier ce paramètre par e-mail.
 
 Vous pouvez désormais [ajouter des domaines de branding supplémentaires](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) dont vous avez besoin pour les espaces de travail.

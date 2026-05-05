@@ -4,9 +4,9 @@ title: Outils d’engagement dans les webinaires interactifs
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '1280'
+source-wordcount: '1285'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ CAPTURE D’ÉCRAN
 
 Fichiers
 
-Le pod de fichiers est utilisé pour partager du contenu téléchargeable. Vous pouvez l’utiliser pour partager des livres blancs de produit, des études de cas, des présentations, des vidéos, etc. avec les participants. Vous pouvez ajouter des fichiers en cliquant sur le bouton Plus ou en glissant-déposant des fichiers directement dans le pod. Pour en savoir plus sur le pod Fichiers, regardez cette vidéo.
+Le pod de fichiers est utilisé pour partager du contenu téléchargeable. Il peut être utilisé pour partager des livres blancs sur les produits, des études de cas, des présentations, des vidéos, etc. avec les participants. Vous pouvez ajouter des fichiers en cliquant sur le bouton Plus ou en glissant-déposant des fichiers directement dans le pod. Pour en savoir plus sur le pod Fichiers, regardez cette vidéo.
 
 CAPTURE D’ÉCRAN
 
@@ -131,7 +131,7 @@ Pour renommer une capsule, double-cliquez simplement sur son nom dans le titre d
 
 ### Switching pods {#switching-pods}
 
-Il existe un moyen facile pour les hôtes de passer d&#39;un pod à l&#39;autre tout en restant dans la même disposition. Pour changer de disposition, cliquez sur l’icône de liste déroulante dans le titre de la capsule et effectuez une sélection. Le changement sera immédiatement répercuté sur les participants. Cette option sera disponible sur tous les pods qui prennent en charge plusieurs instances : conversation, notes, sondage, partage, partage de fichiers, liens web et quiz.
+Il existe un moyen facile pour les hôtes de passer d&#39;un pod à l&#39;autre tout en restant dans la même disposition. Pour changer de disposition, cliquez sur l’icône déroulante dans le titre de la capsule et effectuez une sélection. Le changement sera immédiatement répercuté sur les participants. Cette option sera disponible sur tous les pods qui prennent en charge plusieurs instances : conversation, notes, sondage, partage, partage de fichiers, liens web et quiz.
 
 CAPTURE D’ÉCRAN
 

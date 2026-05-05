@@ -4,10 +4,10 @@ description: Modifiez le texte de désabonnement par défaut et les liens ajout�
 title: Modifier le message de désabonnement
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 10%
+source-wordcount: '140'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 >
 >**Autorisations d’administration requises**
 
-Lorsque vous envoyez des e-mails marketing (non [opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés en bas. Vous pouvez modifier les valeurs par défaut. Voici comment faire.
+Lorsque vous envoyez des e-mails marketing (non [opérationnels](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), le texte de désabonnement et les liens sont ajoutés en bas. Vous pouvez modifier les valeurs par défaut.
 
 ## Où effectuer la modification {#where-to-make-the-edit}
 
@@ -40,18 +40,20 @@ Lorsque vous envoyez des e-mails marketing (non [opérationnels](/help/marketo/p
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   Voilà, c&#39;est fait. _Veillez à effectuer le test._ Vous ne souhaitez pas que vos e-mails marketing aient des liens de désabonnement rompus.
-
 >[!TIP]
 >
->Vous pouvez personnaliser la position de l’HTML de désabonnement dans votre e-mail à l’aide de [jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>* N’oubliez pas de tester. Vous ne souhaitez pas que vos e-mails marketing aient des liens de désabonnement rompus.
+>
+>* Vous pouvez personnaliser la position de l’HTML de désabonnement dans votre e-mail à l’aide de [jetons](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Texte de désabonnement par défaut {#default-unsubscribe-text}
 
-Si vous devez revenir au désabonnement système par défaut, copiez/collez les éléments suivants :
+Si vous devez revenir au message de désabonnement système par défaut, copiez/collez les éléments suivants :
 
 [!UICONTROL Désabonnement d’HTML] :
-`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Texte de désabonnement] :
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>`
+<br>
+[!UICONTROL Texte de désabonnement] :
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]

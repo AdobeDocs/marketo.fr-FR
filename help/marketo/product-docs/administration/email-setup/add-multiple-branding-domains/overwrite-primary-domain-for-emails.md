@@ -4,9 +4,9 @@ description: Remplacez le domaine de branding principal pour les e-mails individ
 title: Remplacer le domaine principal pour les e-mails
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '97'
 ht-degree: 14%
 
 ---
