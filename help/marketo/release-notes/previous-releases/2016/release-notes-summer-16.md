@@ -103,7 +103,7 @@ Affichez les données d’analyse de contenu et de recommandations hors ligne.
 
 Les API de ressources préexistantes, auparavant uniquement compatibles avec les e-mails et les modèles v1.0, sont désormais activées pour les ressources de messagerie v2.0.
 
-## [Site des développeurs ](https://developers.marketo.com/) {#marketo-developers-site}
+## [Site des développeurs &#x200B;](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nouveau et amélioré !
 
