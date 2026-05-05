@@ -4,16 +4,16 @@ description: Créez et modifiez des alias de champ afin que les imports de liste
 title: Modifier les alias de champ pour l’import de liste
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 10%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
 # Modifier les alias de champ pour l’import de liste {#edit-field-aliases-for-list-import}
 
-Lorsque vous importez une liste dont les en-têtes sont inconnus, vous pouvez créer des alias de champ pour faciliter la tâche. Vous pouvez également modifier ces alias dans la gestion des champs. Regarde ça.
+Lorsque vous importez une liste dont les en-têtes sont inconnus, vous pouvez créer des alias de champ pour simplifier les futures importations. Vous pouvez également modifier ces alias dans la gestion des champs.
 
 >[!NOTE]
 >
@@ -43,6 +43,6 @@ Lorsque vous importez une liste dont les en-têtes sont inconnus, vous pouvez cr
 >
 >Cliquez sur **[!UICONTROL Ajouter autre]** et saisissez d’autres alias si vous en avez besoin.
 
-Regarde ça ! Désormais, si vous importez une feuille de calcul avec une colonne nommée « DOB », Marketo la reconnaîtra automatiquement comme étant sa « date de naissance » et importera les données dans le champ approprié.
+Désormais, si vous importez une feuille de calcul avec une colonne nommée « DOB », Marketo la reconnaîtra automatiquement comme étant sa « date de naissance » et importera les données dans le champ approprié.
 
 ![](assets/edit-field-aliases-for-list-import-6.png)

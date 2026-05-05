@@ -5,10 +5,10 @@ description: Découvrez Email Designer et son éditeur de glisser-déposer. Cré
 title: Vue d’ensemble
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 95%
+source-wordcount: '682'
+ht-degree: 89%
 
 ---
 
@@ -62,9 +62,9 @@ Pour accéder au nouveau concepteur d’e-mail, votre abonnement Marketo Engage
 
 ## Questions fréquentes {#faq}
 
-**L’ancien éditeur d’e-mail continuera-t-il à fonctionner ? Si oui, pour combien de temps ?**
+**Quand l’éditeur d’e-mail classique sera-t-il obsolète ?**
 
-Oui, l’ancien éditeur d’e-mail (classique) coexistera avec le nouveau concepteur d’e-mail. Les e-mails créés dans l’éditeur classique seront conservés. Il n’existe aucune date d’abandon de l’éditeur classique pour le moment, mais il continuera à fonctionner en 2026. Nous vous donnerons un préavis de plusieurs mois avant d’abandonner l’ancien éditeur.
+Bien que l’éditeur classique finisse par être abandonné, il n’existe aucune date spécifique pour le moment. Mais un préavis de _plusieurs_ mois sera donné avant l&#39;obsolescence.
 
 **Dans quels programmes puis-je utiliser les e-mails du nouveau concepteur d’e-mail ?**
 

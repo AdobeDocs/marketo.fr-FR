@@ -4,16 +4,16 @@ description: Empêchez le remplacement des champs clés lors des imports de list
 title: Bloquer les mises à jour des champs lors de l’import de liste à partir de sources non approuvées
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 11%
+source-wordcount: '205'
+ht-degree: 10%
 
 ---
 
 # Bloquer les mises à jour des champs lors de l’import de liste à partir de sources non approuvées {#block-field-updates-during-list-import-from-untrusted-sources}
 
-Vous pouvez faire davantage confiance aux données de certaines listes qu’à celles d’autres. Parfois, vous avez des données douteuses et vous voulez les utiliser si le champ est vide, mais pas s’il existe une valeur existante. Pour ce faire, vous pouvez bloquer les mises à jour des champs dans les champs clés.
+Vous pouvez faire davantage confiance aux données de certaines listes qu’à celles d’autres. Parfois, vous disposez de données douteuses et souhaitez accepter les données si le champ est vide, mais pas s’il existe une valeur existante. Pour ce faire, vous pouvez bloquer les mises à jour des champs dans les champs clés.
 
 >[!NOTE]
 >
@@ -51,4 +51,4 @@ Répétez les étapes ci-dessus pour tous les autres champs que vous souhaitez p
 
 Pour obtenir des instructions détaillées sur l’importation de listes, voir [Importer une liste de personnes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-Beau travail ! Vous savez maintenant comment protéger les champs clés des listes non approuvées.
+Les champs clés sont désormais protégés des imports de listes non approuvés.

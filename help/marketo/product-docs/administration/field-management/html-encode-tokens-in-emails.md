@@ -4,16 +4,16 @@ description: Activez ou désactivez le codage HTML pour les jetons de personne e
 title: Jetons d’encodage HTML dans les e-mails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 12%
+source-wordcount: '99'
+ht-degree: 13%
 
 ---
 
 # Jetons d’encodage HTML dans les e-mails {#html-encode-tokens-in-emails}
 
-Activez/désactivez les jetons de personne et d’entreprise utilisés dans les e-mails.
+Activez ou désactivez les jetons de personne et d’entreprise utilisés dans les e-mails.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Activez/désactivez les jetons de personne et d’entreprise utilisés dans les 
 
 >[!NOTE]
 >
->Le codage convertit les caractères dans leurs versions de code HTML pour éviter toute confusion lors de la transmission (c’est-à-dire que «&amp; » est remplacé par `&amp;`). Pour plus de détails, veuillez consulter votre développeur web.
+>Le codage convertit les caractères dans leurs versions de code HTML pour éviter toute confusion lors de la transmission (c’est-à-dire que «&amp; » est remplacé par `&amp;`). Pour plus de détails, consultez un développeur Web.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -39,4 +39,4 @@ Activez/désactivez les jetons de personne et d’entreprise utilisés dans les 
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 
-   Et c&#39;est tout ! Vous pouvez le faire pour autant de champs individuels que vous le souhaitez.
+   Répétez l’opération pour chaque champ supplémentaire selon vos besoins.

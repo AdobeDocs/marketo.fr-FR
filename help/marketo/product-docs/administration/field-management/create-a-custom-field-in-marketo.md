@@ -4,16 +4,16 @@ description: Procédure de création d’un champ personnalisé dans Marketo Eng
 title: Créer un champ personnalisé dans Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 6%
+source-wordcount: '203'
+ht-degree: 9%
 
 ---
 
 # Créer un champ personnalisé dans Marketo {#create-a-custom-field-in-marketo}
 
-Si vous avez besoin d’un nouveau champ personnalisé dans Marketo Engage pour stocker/capturer des données, voici comment en créer un.
+Découvrez comment créer un champ personnalisé dans Marketo Engage pour stocker et capturer des données.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

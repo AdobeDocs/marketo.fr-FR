@@ -1,13 +1,13 @@
 ---
-description: La description va ici.
+description: Découvrez comment définir un ensemble fixe de valeurs pour un champ afin de simplifier la gestion des données et des workflows.
 title: Gestion des listes de sélection
 hide: true
 hidefromtoc: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Vous pouvez voir le statut d’une liste de sélection sur sa page Gestion des c
 
 * **Prédéfini** : le champ comporte une liste définie par le système de valeurs suggérées à l’utilisateur.
 
-* **CRM** : le champ contient une valeur définie par le système CRM, Salesforce.com ou Microsoft Dynamics, synchronisée avec l’instance.
+* **CRM** : le champ comporte une valeur définie par le système CRM, Salesforce.com ou Microsoft Dynamics, qui est synchronisée avec l’instance.
 
   ![](assets/picklist-management-1.png)
 
@@ -36,11 +36,11 @@ Cliquez sur le menu déroulant _Actions de champ_ et sélectionnez **Gérer la l
 
 ![](assets/picklist-management-2.png)
 
-Dans la boîte de dialogue _Gérer la liste de sélection_ vous pouvez ajouter, modifier ou supprimer des valeurs. Vous pouvez également supprimer la liste de sélection gérée pour rétablir le statut d’origine du champ dans la liste de sélection, _Non géré_ ou _Prédéfini_.
+Dans la boîte de dialogue _Gérer la liste de sélection_, vous pouvez ajouter, modifier ou supprimer des valeurs. Vous pouvez également supprimer la liste de sélection gérée pour rétablir le statut d’origine du champ dans la liste de sélection, _Non géré_ ou _Prédéfini_.
 
 ![](assets/picklist-management-3.png)
 
-Chaque entrée de la liste de sélection possède une valeur d’affichage et une valeur envoyée. La valeur d’affichage est celle qui est suggérée à l’utilisateur lors de la création de listes intelligentes, de campagnes intelligentes ou de formulaires, tandis que la valeur envoyée est celle qui est stockée. Par exemple, votre cas d’utilisation Code de territoire peut suggérer le nom complet d’un territoire (par exemple, Alberta), tout en stockant le code à deux lettres (AB).
+Chaque entrée de la liste de sélection possède une valeur d’affichage et une valeur envoyée. La valeur d’affichage est celle qui est suggérée à l’utilisateur lors de la création de listes intelligentes, de campagnes intelligentes ou de formulaires, tandis que la valeur envoyée est celle qui est stockée. Par exemple, un cas d’utilisation Code de territoire peut suggérer le nom complet d’un territoire (par exemple, Alberta), tout en stockant le code à deux lettres (AB).
 
 ## Suggérer automatiquement {#autosuggest}
 
@@ -54,7 +54,7 @@ Lorsque le paramètre _Liste de sélection gérée_ est activé, les étapes Fil
 
 ### Basculer entre les listes de sélection gérées et non gérées {#switching}
 
-La plupart des abonnements Marketo Engage contiennent des données antérieures à l’introduction des listes de sélection gérées. Pour utiliser des valeurs dans des listes dynamiques ou des étapes de flux à partir de cette liste de sélection de version non gérée (par exemple, à partir du jeu complet de valeurs qui existe sur les enregistrements dans votre base de données), activez le paramètre Liste de sélection gérée dans votre liste dynamique ou votre vue Campagne. Lorsque cette option est activée, seules les valeurs de la liste de sélection gérée s’affichent. Lorsqu’elle est désactivée, la liste de sélection non gérée est utilisée et les valeurs sont suggérées automatiquement en fonction des valeurs existantes dans la base de données.
+La plupart des abonnements Marketo Engage contiennent des données antérieures à l’introduction des listes de sélection gérées. Pour utiliser des valeurs dans des listes dynamiques ou des étapes de flux à partir de cette version non gérée de la liste de sélection (par exemple, à partir de l’ensemble complet de valeurs qui existe sur les enregistrements de votre base de données), activez le paramètre Liste de sélection gérée dans votre liste dynamique ou votre vue Campagne. Lorsque cette option est activée, seules les valeurs de la liste de sélection gérée s’affichent. Lorsqu’elle est désactivée, la liste de sélection non gérée est utilisée et les valeurs sont suggérées automatiquement en fonction des valeurs existantes dans la base de données.
 
 ## Listes De Sélection De Formulaires (Sélectionner Des Champs De Type) {#form-picklists}
 

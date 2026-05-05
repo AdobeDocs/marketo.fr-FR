@@ -4,16 +4,16 @@ description: Exportez une liste des ressources qui utilisent un champ afin de po
 title: Exporter les données Utilisation par d’un champ
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 15%
 
 ---
 
 # Exporter les données Utilisation par d’un champ {#export-used-by-data-for-a-field}
 
-En tant qu’administrateur, vous avez la possibilité d’exporter les ressources associées d’un champ afin de pouvoir déléguer leur suppression à votre équipe.
+En tant qu’administrateur, vous pouvez exporter les ressources associées d’un champ afin de déléguer leur suppression à votre équipe.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ En tant qu’administrateur, vous avez la possibilité d’exporter les ressourc
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Un fichier [!DNL Excel] sera exporté. Ouvrez-le pour afficher son contenu.
+1. Un fichier [!DNL Excel] est exporté. Ouvrez-le pour afficher son contenu.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

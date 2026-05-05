@@ -4,9 +4,9 @@ description: Comment supprimer un champ personnalisé de l’utilisation en le m
 title: Supprimer un champ personnalisé dans Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 14%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 14%
 >
 >**Autorisations d’administration requises**
 
-Il se peut que vous souhaitiez vous débarrasser d’un champ que vous avez créé dans le passé si vous ne l’utilisez plus. Vous ne pouvez malheureusement pas supprimer des champs dans Marketo, mais vous _pouvez_ les masquer de l’interface utilisateur.
+Vous pouvez supprimer un champ que vous avez créé dans le passé si vous ne pouvez plus l’utiliser. Malheureusement, vous ne pouvez pas supprimer des champs dans Marketo, mais vous _pouvez_ les masquer de l’interface utilisateur.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

@@ -4,16 +4,16 @@ description: Découvrez les champs gérés par le système non modifiables sur l
 title: Présentation des champs gérés par le système
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '537'
 ht-degree: 17%
 
 ---
 
 # Présentation des champs gérés par le système {#understanding-system-managed-fields}
 
-Vous avez peut-être remarqué que la page [détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} comporte une série de champs non modifiables créés par Marketo. Ces données proviennent de diverses sources et d’innombrables valeurs peuvent s’afficher.
+Vous avez peut-être remarqué que la page [détails de la personne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} comporte une série de champs non modifiables créés par Marketo. Ces données proviennent de diverses sources et d’innombrables valeurs peuvent être affichées.
 
 ## Types de champs {#field-types}
 
@@ -129,7 +129,7 @@ Vous trouverez ci-dessous quelques valeurs possibles et leur signification.
   </tr>
   <tr>
     <td>Contact</td>
-    <td>La personne a été synchronisée à partir du Webhook en tant que contact</td>
+    <td>La personne a été synchronisée à partir de Salesforce en tant que contact</td>
   </tr>
   <tr>
     <td>API Munchkin</td>

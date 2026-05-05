@@ -4,16 +4,16 @@ description: Bloquer les mises à jour d’un champ afin que la première valeur
 title: Bloquer les mises à jour d’un champ
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 7%
 
 ---
 
 # Bloquer les mises à jour d’un champ {#block-updates-to-a-field}
 
-Le blocage des mises à jour d’un champ vous permet d’écrire dans le champ une seule fois, puis de conserver la valeur d’origine pour la durée de vie du champ. Cela peut s’avérer utile pour un champ comme [!UICONTROL Person Source].
+Le blocage des mises à jour d’un champ vous permet d’écrire dans le champ une seule fois, puis de conserver la valeur d’origine pendant la durée de vie de l’enregistrement. Cela peut s’avérer utile pour un champ comme [!UICONTROL Person Source].
 
 >[!NOTE]
 >

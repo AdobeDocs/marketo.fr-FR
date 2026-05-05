@@ -4,16 +4,16 @@ description: Comment modifier le type de données d’un champ personnalisé dan
 title: Modifier le type d’un champ personnalisé Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '113'
 ht-degree: 14%
 
 ---
 
 # Modifier le type d’un champ personnalisé Marketo {#change-the-type-of-a-marketo-custom-field}
 
-Voici comment modifier le type de champ d&#39;un champ personnalisé.
+Découvrez comment modifier le type d’un champ personnalisé.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -45,7 +45,7 @@ Voici comment modifier le type de champ d&#39;un champ personnalisé.
 
    >[!NOTE]
    >
-   >Le message d’avertissement qui s’affiche varie en fonction du type de champ que vous modifiez de/en.
+   >Le message d’avertissement qui s’affiche varie selon le type de champ que vous modifiez de et en.
 
    >[!MORELIKETHIS]
    >

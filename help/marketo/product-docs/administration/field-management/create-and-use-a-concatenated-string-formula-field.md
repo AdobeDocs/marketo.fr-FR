@@ -4,10 +4,10 @@ description: Combinez des valeurs provenant de plusieurs champs ou créez des va
 title: Créer et utiliser un champ de chaîne concaténée (formule)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '148'
+ht-degree: 10%
 
 ---
 
@@ -54,5 +54,3 @@ Vous pouvez combiner des valeurs provenant de plusieurs champs ou créer une val
 >[!NOTE]
 >
 >Les champs de formule peuvent être utilisés dans les colonnes Pages de destination, E-mails et Liste dynamique. Les e-mails avec des champs de formule ne peuvent _pas_ être envoyés à l’aide d’une campagne par lots. Utilisez un [jeton de script d’e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) dans ce scénario.
-
-Bon travail ! Vous disposez maintenant d’un champ intelligent qui sait quelle qualification inclure en fonction du genre. Amusez-vous avec ceci et soyez créatif.

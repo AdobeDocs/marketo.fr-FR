@@ -4,7 +4,7 @@ description: Référence pour les types de champs personnalisés dans Marketo, n
 title: Glossaire de type de champ personnalisé
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 3%
@@ -25,11 +25,11 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 >[!NOTE]
 >
->La plupart des champs ne dépassent pas le nombre de caractères, mais plutôt le nombre d’octets. Pour cette raison, nous ne sommes pas en mesure de fournir une limite de caractères définitive pour chaque champ. L’exception est **String**, qui atteint sa limite de 255 caractères.
+>La plupart des champs ne sont pas limités par le nombre de caractères, mais par le nombre d’octets. Pour cette raison, Marketo n’est pas en mesure de fournir une limite de caractères définitive pour chaque champ. L’exception est **String**, qui atteint sa limite de 255 caractères.
 
 ## Booléen {#boolean}
 
-**Exemple de nom :** Est client - Identifiez vos clients en tant que clients
+**Exemple de nom :** Est client - Identifiez les personnes comme des clients
 
 **Exemples de valeurs :** True (coché) / False (non coché)
 
@@ -61,7 +61,7 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 ## E-mail {#email}
 
-**Exemple de nom :** Autre adresse e-mail - Conservez une autre adresse e-mail pour vos salariés (vous ne pouvez pas envoyer d’e-mails à ce champ, comme le champ Adresse e-mail par défaut, qui est spécial)
+**Exemple de nom :** Autre adresse e-mail - Conservez une autre adresse e-mail pour les personnes (impossible d’envoyer réellement des e-mails à ce champ comme le champ Adresse e-mail par défaut)
 
 **Exemples de valeurs :** <name@company.com>
 
@@ -77,13 +77,13 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 ## Formule {#formula}
 
-**Exemple de nom : Salutations** - utilisez ce champ spécial dans une [solution pour obtenir la bonne salutation](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) en fonction du genre
+**Exemple de nom : Salutations** - Utilisez ce champ spécial dans une [solution pour obtenir la salutation appropriée](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) en fonction du sexe
 
-**Exemples de valeurs :** vérifier la solution liée
+**Exemples de valeurs :** Vérifier la solution liée
 
 ## Nombre entier {#integer}
 
-**Exemple de nom :** Nombre d’employés - stockez une valeur numérique qui ne nécessite pas de décimales
+**Exemple de nom :** Nombre d’employés - Stockez une valeur numérique qui ne nécessite pas de décimales
 
 **Exemples de valeurs :** 600
 
@@ -91,7 +91,7 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 ## Pourcentage {#percent}
 
-**Exemple de nom :** susceptible d’acheter - stockez une valeur de pourcentage (peut-être calculée côté CRM)
+**Exemple de nom :** susceptible d’acheter - Stocker une valeur en pourcentage (calculée dans le CRM)
 
 **Exemples de valeurs :** 85 %
 
@@ -99,7 +99,7 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 ## Téléphone {#phone}
 
-**Exemple de nom :** Autre téléphone - Stockez un numéro de téléphone supplémentaire pour vos salariés
+**Exemple de nom :** autre téléphone - Stocker un numéro de téléphone supplémentaire pour les personnes
 
 **Exemple de valeur :** 650-555-5555
 
@@ -107,7 +107,7 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 ## Score {#score}
 
-**Exemple de nom :** Score comportemental/score démographique : créez plusieurs champs de score pour effectuer le suivi de différents attributs
+**Exemple de nom :** score comportemental/score démographique - Créez plusieurs champs de score pour effectuer le suivi de différents attributs
 
 **Exemple de valeur :** 14
 
@@ -123,7 +123,7 @@ Lorsque vous créez un champ personnalisé dans Marketo, vous disposez d’une l
 
 ## Zone de texte {#text-area}
 
-**Exemple de nom :** Commentaires - ajoutez un champ de commentaires à vos formulaires pour autoriser la saisie de texte multiligne
+**Exemple de nom :** Commentaires - Ajoutez un champ de commentaires à vos formulaires pour autoriser la saisie de texte multiligne
 
 **Exemple de valeur :** cet article est fantastique !
 
