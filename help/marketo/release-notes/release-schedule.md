@@ -4,10 +4,10 @@ description: Calendrier des versions - Documents Marketo - Documentation du prod
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 39ea33ddb4827d1c0824ef871956a4357f0c9fa3
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 89%
+source-wordcount: '160'
+ht-degree: 79%
 
 ---
 
@@ -45,36 +45,36 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Mars 2026</td>
    <td>27 mars 2026</td>
-   <td>En cours</td>
+   <td>Terminée</td>
   </tr>
   <tr>
   <td>Mai 2026</td>
-   <td>samedi 15 mai 2026</td>
+   <td>22 Mai 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
   <td>26 juin</td>
-   <td>samedi 26 juin 2026</td>
+   <td>26 Juin 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
   <td>26 juillet</td>
-   <td>samedi 31 juillet 2026</td>
+   <td>31 juillet 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
   <td>26 août</td>
-   <td>samedi 28 août 2026</td>
+   <td>28 Août 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
   <td>Septembre '26</td>
-   <td>samedi 25 septembre 2026</td>
+   <td>25 septembre 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
   <td>Octobre 2026</td>
-   <td>samedi 30 octobre 2026</td>
+   <td>30 Octobre 2026</td>
    <td>Prévu</td>
   </tr>
  </tbody>

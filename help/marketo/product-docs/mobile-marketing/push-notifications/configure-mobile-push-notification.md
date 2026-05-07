@@ -3,10 +3,10 @@ description: Découvrez comment configurer une notification push mobile. Défini
 title: Configurer la notification push pour mobile
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 5%
+source-wordcount: '521'
+ht-degree: 4%
 
 ---
 
@@ -82,7 +82,19 @@ Un URI de lien profond est constitué de trois parties : nom du schéma, chemin 
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir des URI de liens profonds. Par conséquent, demandez à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent aux bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir des URI de liens profonds. Par conséquent, demandez à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent aux bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+
+## URI de redirection {#redirect-uris}
+
+Les URI de redirection configurés dans les messages de notification push prennent en charge les jetons Marketo. Applicable uniquement aux « URL de l’application Launch ».
+
+Exemple de format :
+
+* Format de l&#39;application existant :
+  `com.onboardmd://financing?FirstName={{lead.First Name}}&City={{lead.City}}`
+
+* Format avec valeurs de secours :
+  `com.onboardmd://financing?FirstName={{lead.First Name:default=edit me}}&City={{lead.City:default=edit me}}`
 
 >[!MORELIKETHIS]
 >
