@@ -53,7 +53,7 @@ Le paramètre URL externe vous permet de définir n’importe quelle URL comme p
 
 >[!TIP]
 >
->L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL  Envoyer ] » se comportera comme un bouton « [!UICONTROL  Télécharger ] ».
+>L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL &#x200B; Envoyer &#x200B;] » se comportera comme un bouton « [!UICONTROL &#x200B; Télécharger &#x200B;] ».
 
 ## Page de destination {#landing-page}
 

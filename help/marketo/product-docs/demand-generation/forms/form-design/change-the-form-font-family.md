@@ -35,7 +35,7 @@ Les polices Google sont intégrées à l’éditeur de formulaires.
 
    >[!TIP]
    >
-   >Un grand nombre de [polices ](https://fonts.google.com/){target="_blank"} sont disponibles.
+   >Un grand nombre de [polices &#x200B;](https://fonts.google.com/){target="_blank"} sont disponibles.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 

@@ -34,7 +34,7 @@ Pour l’étape 6 de la section Configuration initiale de [!UICONTROL reCAPTCHA 
 
 Les étapes suivantes sont effectuées en dehors de Marketo.
 
-1. Accédez à [](https://www.google.com/recaptcha/about/){target="_blank"} puis cliquez sur Admin Console v3.
+1. Accédez à [&#128279;](https://www.google.com/recaptcha/about/){target="_blank"} puis cliquez sur Admin Console v3.
 
 1. Connectez-vous/inscrivez-vous avec un compte Google.
 
