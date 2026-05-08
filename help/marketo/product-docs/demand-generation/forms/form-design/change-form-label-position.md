@@ -4,10 +4,10 @@ description: Découvrez comment modifier la position du libellé du formulaire d
 title: Modifier la position du libellé du formulaire
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '108'
+ht-degree: 14%
 
 ---
 
@@ -51,8 +51,6 @@ Lors de la [création d’un formulaire](/help/marketo/product-docs/demand-gener
    >[!NOTE]
    >
    >N’oubliez pas d’approuver le brouillon de page de destination créé par les modifications du formulaire.
-
-Bravo ! Vous avez pu voir à quel point il était facile de modifier la position des libellés dans un formulaire ? Voyons ce que nous pouvons faire pour modifier la police des libellés du formulaire.
 
 >[!MORELIKETHIS]
 >

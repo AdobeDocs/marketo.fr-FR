@@ -4,16 +4,16 @@ description: Découvrez comment rendre un champ de formulaire obligatoire dans M
 title: Créer un formulaire de champ obligatoire
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 15%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
 # Créer un formulaire de champ obligatoire {#make-a-form-field-required}
 
-Lors de l’ajout [&#x200B; champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} vous pouvez rendre certains d’entre eux obligatoires pour la personne qui les remplit. Voici comment faire.
+Lors de l’ajout [ champs à un formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} vous pouvez rendre certains d’entre eux obligatoires pour la personne qui les remplit.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -31,7 +31,7 @@ Lors de l’ajout [&#x200B; champs à un formulaire](/help/marketo/product-docs/
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. Bien joué ! Cliquez sur **[!UICONTROL Terminer]**.
+1. Cliquez sur **[!UICONTROL Terminer]**.
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -41,7 +41,7 @@ Lors de l’ajout [&#x200B; champs à un formulaire](/help/marketo/product-docs/
 
 >[!NOTE]
 >
->N’oubliez pas d’[approuver les pages de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} ce formulaire se conserve pour que les modifications soient mises en ligne.
+>N’oubliez pas d’[approuver toutes les pages de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} ce formulaire sera conservé pour que les modifications soient mises en ligne.
 
 >[!MORELIKETHIS]
 >

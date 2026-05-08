@@ -4,9 +4,9 @@ description: Découvrez comment ajouter des instructions d’info-bulle à un ch
 title: Ajouter des instructions d’info-bulle à un champ de formulaire
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '130'
 ht-degree: 15%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 15%
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-Un travail génial ! L’info-bulle s’affiche lorsqu’un visiteur survole le champ avec son curseur.
+L’info-bulle s’affiche lorsqu’un visiteur survole le champ avec son curseur.

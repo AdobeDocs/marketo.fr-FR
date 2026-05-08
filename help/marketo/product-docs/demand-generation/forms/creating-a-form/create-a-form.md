@@ -4,10 +4,10 @@ description: Découvrez comment créer un formulaire dans Marketo. Ajoutez des c
 title: Créer un formulaire
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ Créez et utilisez un formulaire sur une page de destination pour générer de n
 
 >[!TIP]
 >
->La plupart des utilisateurs créent un formulaire pour chaque page de destination, mais vous pouvez également créer un formulaire à utiliser avec plusieurs pages de destination. C&#39;est à toi de décider !
+>La plupart des utilisateurs créent un formulaire pour chaque page de destination, mais vous pouvez également créer un formulaire à utiliser avec plusieurs pages de destination.
 
 >[!MORELIKETHIS]
 >

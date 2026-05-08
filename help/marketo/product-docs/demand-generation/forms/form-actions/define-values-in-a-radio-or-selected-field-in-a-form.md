@@ -4,10 +4,10 @@ description: Découvrez comment définir des valeurs dans un champ radio ou dér
 title: Définir des valeurs dans une case d’option ou un champ sélectionné dans un formulaire
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 14%
+source-wordcount: '196'
+ht-degree: 15%
 
 ---
 
@@ -29,7 +29,7 @@ Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/adm
 
    >[!NOTE]
    >
-   >La première valeur et la valeur par défaut sont toujours « [!UICONTROL Sélectionner...] ». N’hésitez pas à la modifier. Si vous remplacez le bouton radio par défaut par une autre ligne, « [!UICONTROL Sélectionner...] » n’apparaît pas comme choix dans le formulaire.
+   >La première valeur et la valeur par défaut sont toujours « [!UICONTROL Sélectionner...] » N’hésitez pas à le modifier. Si vous modifiez le bouton radio par défaut pour une autre ligne, « [!UICONTROL Sélectionner...] » n’apparaîtra pas en tant que choix dans le formulaire.
 
 1. Cliquez pour ajouter votre valeur.
 
@@ -62,5 +62,3 @@ Une fois que vous avez [défini un type de champ](/help/marketo/product-docs/adm
 1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
-
-Super boulot ! Tu t&#39;en sors très bien.

@@ -4,9 +4,9 @@ description: Découvrez comment ajouter des images et des fichiers à Marketo. C
 title: Ajouter des images et des fichiers à Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 9%
 
 ---
@@ -41,7 +41,7 @@ Découvrez comment ajouter de nouvelles images ou de nouveaux fichiers à votre 
 
    >[!NOTE]
    >
-   >Bien que Marketo accepte tous les types de fichiers pour le téléchargement, seuls les types d’images principaux (JPG, PNG, GIF, etc.) fonctionneront dans notre éditeur d’e-mail.
+   >Marketo accepte tous les types de fichiers pour le chargement, mais uniquement les types d’images principaux (JPG, PNG, GIF, etc.) fonctionnera dans l’éditeur d’e-mail.
 
    >[!MORELIKETHIS]
    >

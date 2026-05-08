@@ -4,16 +4,16 @@ description: Découvrez comment rechercher l’URL d’une image ou d’un fichi
 title: Rechercher l’URL d’une image chargée ou d’un fichier chargé
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 21%
 
 ---
 
 # Rechercher l’URL d’une image chargée ou d’un fichier chargé {#find-the-url-of-an-uploaded-image-or-file}
 
-Vous recherchez l&#39;adresse Web (URL) d&#39;une image ou d&#39;un fichier que vous avez téléchargé ?
+Pour trouver l’URL d’une image ou d’un fichier chargé, procédez comme suit.
 
 1. Accédez au **[!UICONTROL Design Studio]**.
 

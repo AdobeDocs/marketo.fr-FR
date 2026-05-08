@@ -4,10 +4,10 @@ description: Découvrez comment modifier le texte du bouton Envoyer du formulair
 title: Modifier le texte du bouton Envoyer du formulaire
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 18%
+source-wordcount: '94'
+ht-degree: 19%
 
 ---
 
@@ -38,7 +38,5 @@ Vous pouvez remplacer rapidement et facilement le bouton « Envoyer » d’un fo
 1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
-
-   Bam !
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)

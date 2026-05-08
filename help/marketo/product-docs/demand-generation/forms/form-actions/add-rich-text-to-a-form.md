@@ -4,16 +4,16 @@ description: Découvrez comment ajouter du texte enrichi à un formulaire Market
 title: Ajouter du texte enrichi à un formulaire
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 17%
+source-wordcount: '105'
+ht-degree: 19%
 
 ---
 
 # Ajouter du texte enrichi à un formulaire {#add-rich-text-to-a-form}
 
-Utilisez le texte enrichi dans un formulaire pour ajouter des instructions ou d’autres informations entre les champs. Regarde ça.
+Utilisez le texte enrichi dans un formulaire pour ajouter des instructions ou d’autres informations entre les champs.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -50,8 +50,6 @@ Utilisez le texte enrichi dans un formulaire pour ajouter des instructions ou d�
 1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
-
-   Bien joué ! Regarde ça.
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 

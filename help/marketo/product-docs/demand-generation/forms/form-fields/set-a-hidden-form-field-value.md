@@ -4,9 +4,9 @@ description: Découvrez comment définir une valeur de champ de formulaire masqu
 title: Définir une valeur de champ de formulaire masquée
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ Si vous souhaitez capturer les paramètres d’URL (chaînes de requête) à par
 
 >[!NOTE]
 >
->Les paramètres sont un peu techniques, non ? Une fois qu&#39;on les a, ils sont puissants. Cette page [Wikipedia sur les chaînes de requête](https://en.wikipedia.org/wiki/Query_string) est quelque peu utile.
+>Les paramètres sont techniques. Une fois que vous les comprenez, ils sont puissants. Cette page [Wikipedia sur les chaînes de requête](https://en.wikipedia.org/wiki/Query_string) est quelque peu utile.
 
 1. Sélectionnez **[!UICONTROL Paramètre d’URL]** pour **[!UICONTROL Obtenir le type de valeur]**.
 

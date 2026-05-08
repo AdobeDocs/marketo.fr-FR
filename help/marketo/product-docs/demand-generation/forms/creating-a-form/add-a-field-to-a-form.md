@@ -4,16 +4,16 @@ description: Découvrez comment ajouter un champ à un formulaire dans Marketo. 
 title: Ajouter un champ à un formulaire
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 12%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
 # Ajouter un champ à un formulaire {#add-a-field-to-a-form}
 
-Une fois que vous avez [créé votre formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} et [sélectionné un thème](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, vous pouvez ajouter des champs supplémentaires à remplir par les personnes. Voici comment faire.
+Après avoir [créé votre formulaire](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} et [sélectionné un thème](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, vous pouvez ajouter des champs supplémentaires à remplir par les personnes.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -49,7 +49,7 @@ Une fois que vous avez [créé votre formulaire](/help/marketo/product-docs/dema
 
 >[!NOTE]
 >
->Veillez à approuver tous les brouillons de page de destination créés en raison des modifications apportées au formulaire.
+>Approuvez tous les brouillons de page de destination créés en raison des modifications apportées au formulaire.
 
 >[!MORELIKETHIS]
 >

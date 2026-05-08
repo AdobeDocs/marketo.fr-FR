@@ -4,10 +4,10 @@ description: Découvrez comment désactiver le remplissage de formulaires sociau
 title: Désactiver le remplissage du formulaire social
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '91'
+ht-degree: 15%
 
 ---
 
@@ -42,5 +42,3 @@ Parfois, vous ne souhaitez plus que les visiteurs et visiteuses du site envoient
 1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
-
-   C&#39;est tout ce que vous avez à faire.

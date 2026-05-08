@@ -4,10 +4,10 @@ description: Découvrez comment réorganiser les champs d’un formulaire Market
 title: Réorganiser les champs d’un formulaire
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 21%
+source-wordcount: '79'
+ht-degree: 20%
 
 ---
 
@@ -29,6 +29,5 @@ Il est facile de réorganiser les champs d’un formulaire Marketo. Voici commen
 
 >[!TIP]
 >
->Vous pouvez également faire glisser et déposer les champs les uns à côté des autres. Cela vous permet de créer des colonnes !
+>Vous pouvez également faire glisser et déposer les champs les uns à côté des autres. Vous pouvez ainsi créer des colonnes.
 
-Très bon travail ! Tu es en train de balancer ce truc.

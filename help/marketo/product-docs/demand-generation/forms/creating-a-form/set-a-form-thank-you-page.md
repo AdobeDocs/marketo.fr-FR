@@ -4,9 +4,9 @@ description: Découvrez comment définir une page de remerciement de formulaire 
 title: Définir un formulaire de page de remerciement
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 6%
 
 ---
@@ -53,7 +53,7 @@ Le paramètre URL externe vous permet de définir n’importe quelle URL comme p
 
 >[!TIP]
 >
->L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL &#x200B; Envoyer &#x200B;] » se comportera comme un bouton « [!UICONTROL &#x200B; Télécharger &#x200B;] ».
+>L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL  Envoyer ] » se comportera comme un bouton « [!UICONTROL  Télécharger ] ».
 
 ## Page de destination {#landing-page}
 
@@ -127,8 +127,6 @@ Vous pouvez ajouter plusieurs options et créer des choix pour montrer aux perso
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
-   OK, ça a l&#39;air bien !
-
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
 1. Cliquez sur **[!UICONTROL Terminer]**.
@@ -138,5 +136,3 @@ Vous pouvez ajouter plusieurs options et créer des choix pour montrer aux perso
 1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
-
-Bon boulot !

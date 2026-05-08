@@ -4,16 +4,16 @@ description: Découvrez comment modifier la famille de polices des formulaires d
 title: Modifier la famille de police du formulaire
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 10%
+source-wordcount: '116'
+ht-degree: 13%
 
 ---
 
 # Modifier la famille de police du formulaire {#change-the-form-font-family}
 
-Les polices Google sont incroyables et nous les avons directement intégrées à l’éditeur de formulaires. Allez voir !
+Les polices Google sont intégrées à l’éditeur de formulaires.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Les polices Google sont incroyables et nous les avons directement intégrées à
 
    >[!TIP]
    >
-   >Un grand nombre de [polices Google](https://fonts.google.com/){target="_blank"} sont disponibles.
+   >Un grand nombre de [polices ](https://fonts.google.com/){target="_blank"} sont disponibles.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -56,8 +56,6 @@ Les polices Google sont incroyables et nous les avons directement intégrées à
    >N’oubliez pas d’approuver le brouillon de page de destination créé par les modifications du formulaire.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
-
-Vous voyez à quel point il était facile de modifier la famille de polices d’un formulaire ? Cool, maintenant que c&#39;est fait, apprenons à changer la taille de police du formulaire.
 
 >[!MORELIKETHIS]
 >

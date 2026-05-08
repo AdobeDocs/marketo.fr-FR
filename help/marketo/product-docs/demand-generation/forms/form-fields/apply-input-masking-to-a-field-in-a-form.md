@@ -4,10 +4,10 @@ description: Découvrez comment appliquer un masquage de saisie à un champ de f
 title: Appliquer un masquage de saisie à un champ de formulaire
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 13%
+source-wordcount: '189'
+ht-degree: 12%
 
 ---
 
@@ -51,12 +51,10 @@ Vous pouvez restreindre la saisie de votre visiteur à l’aide d’un masque de
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Découvrez-le ! Vous demandez maintenant au visiteur de saisir des nombres dans un format spécifique.
+   Vous demandez maintenant au visiteur de saisir des nombres dans un format spécifique.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
    >Le champ peut ne pas afficher les régions prédéfinies comme illustré dans l’image ci-dessus. Il peut apparaître vide jusqu’à ce que le visiteur commence à saisir des nombres, qui adhèrent alors automatiquement au format de saisie que vous avez défini pour le champ.
-
-Plutôt cool, hein ?

@@ -4,9 +4,9 @@ description: Découvrez comment afficher des HTML personnalisées pour des perso
 title: Afficher un formulaire HTML personnalisé pour les personnes connues
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 8%
 
 ---
@@ -68,7 +68,7 @@ Si un visiteur a déjà indiqué son nom complet et son adresse e-mail et que vo
    >
    >N’oubliez pas de [approuver le brouillon de la page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) créé par les modifications du formulaire.
 
-   Un morceau de gâteau ! Découvrez ce qu’une personne verrait si elle revenait au même formulaire :
+   Vous trouverez ci-dessous ce qu’une personne verrait si elle revenait au même formulaire :
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

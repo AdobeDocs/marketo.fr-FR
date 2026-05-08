@@ -4,10 +4,10 @@ description: Découvrez comment modifier le style et la couleur du bouton Envoye
 title: Modifier le style et la couleur du bouton Envoyer
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 14%
+source-wordcount: '150'
+ht-degree: 13%
 
 ---
 
@@ -29,7 +29,7 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de 
 
    >[!TIP]
    >
-   >Saviez-vous que vous pouvez faire glisser le bouton d’envoi vers la gauche ou la droite pour modifier sa position ? C&#39;est aussi facile que ça. Essayez donc.
+   >Vous pouvez faire glisser le bouton d’envoi vers la gauche ou la droite pour modifier sa position.
 
 1. Choisissez le style de bouton de votre choix (défilement vers le haut/bas).
 
@@ -54,8 +54,6 @@ Si vous trouvez le bouton d’envoi standard ennuyeux ou si vous avez besoin de 
 1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   Et voilà !
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

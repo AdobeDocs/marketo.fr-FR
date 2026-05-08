@@ -4,16 +4,16 @@ description: Découvrez comment ajouter un jeu de champs à un formulaire Market
 title: Ajouter un FieldSet à un formulaire
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Ajouter un FieldSet à un formulaire {#add-a-fieldset-to-a-form}
 
-Les jeux de champs sont cool. Ils regroupent un groupe de champs. Vous pouvez contrôler un bloc entier en même temps !
+Les jeux de champs regroupent un ensemble de champs. Vous pouvez contrôler un bloc entier à la fois.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -35,12 +35,10 @@ Les jeux de champs sont cool. Ils regroupent un groupe de champs. Vous pouvez co
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. Voici à quoi il doit ressembler une fois terminé.
+1. Vous trouverez ci-dessous un aperçu de ce à quoi elle doit ressembler une fois cette opération terminée.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
-Voilà !
-
 >[!TIP]
 >
->Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [&#x200B; règles de visibilité &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [ règles de visibilité ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

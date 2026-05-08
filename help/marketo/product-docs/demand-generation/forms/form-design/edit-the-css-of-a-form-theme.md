@@ -4,7 +4,7 @@ description: Découvrez comment modifier le CSS d’un thème de formulaire dans
 title: Modifier le CSS d’un thème de formulaire
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 11%
@@ -17,7 +17,7 @@ Vous disposez de quelques [thèmes préconfigurés parmi lesquels vous pouvez ch
 
 >[!NOTE]
 >
->Assurez-vous de connaître la page CSS si vous souhaitez essayer, car la prise en charge de Marketo n’est pas configurée pour faciliter le codage personnalisé. En outre, toutes les modifications apportées s’appliqueront uniquement au formulaire que vous êtes en train de modifier.
+>Assurez-vous de connaître la page CSS si vous souhaitez essayer, car la prise en charge de Marketo n’est pas configurée pour faciliter le codage personnalisé. En outre, toute modification apportée s’appliquera uniquement au formulaire que vous êtes en train de modifier.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -39,7 +39,7 @@ Vous disposez de quelques [thèmes préconfigurés parmi lesquels vous pouvez ch
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. N’hésitez pas à couper/coller ce CSS dans votre propre éditeur. Il est en lecture seule, vous n’aurez donc besoin que du CSS de remplacement.
+1. Vous pouvez copier ce CSS dans votre propre éditeur. Il est en lecture seule, vous n’aurez donc besoin que du CSS de remplacement.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -62,5 +62,3 @@ Vous disposez de quelques [thèmes préconfigurés parmi lesquels vous pouvez ch
 1. Pour afficher le formulaire personnalisé, cliquez sur **[!UICONTROL Aperçu du brouillon]**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
-
-Et c&#39;est ça !

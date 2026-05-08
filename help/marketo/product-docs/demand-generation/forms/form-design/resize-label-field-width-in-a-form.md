@@ -4,10 +4,10 @@ description: Découvrez comment redimensionner le libellé et la largeur de cham
 title: Redimensionner la largeur d’une étiquette/d’un champ dans un formulaire
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 15%
+source-wordcount: '102'
+ht-degree: 13%
 
 ---
 
@@ -31,8 +31,7 @@ Il existe deux manières de redimensionner la largeur de l’étiquette du champ
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Saisissez une valeur en pixels pour [!UICONTROL Largeur du libellé] et/ou [!UICONTROL Largeur du champ].
+1. Saisissez une valeur en pixels pour la [!UICONTROL Largeur du libellé], la [!UICONTROL Largeur du champ] ou les deux.
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-Très bon travail ! Plutôt facile, non ?

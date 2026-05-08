@@ -4,10 +4,10 @@ description: Découvrez comment supprimer un champ d’un formulaire Marketo. Su
 title: Supprimer un champ dans un formulaire
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 22%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 

@@ -4,16 +4,16 @@ description: Découvrez comment sélectionner un thème de formulaire dans Marke
 title: Sélectionner un thème de formulaire
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 12%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
 # Sélectionner un thème de formulaire {#select-a-form-theme}
 
-Nous avons créé un tas de beaux thèmes pour vos formulaires. Lequel préfères-tu ?
+Plusieurs thèmes sont disponibles pour vos formulaires.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -53,8 +53,6 @@ Nous avons créé un tas de beaux thèmes pour vos formulaires. Lequel préfère
 1. Cliquez sur **[!UICONTROL Suivant]** pour configurer d’autres options de formulaire, ou cliquez sur **[!UICONTROL Terminer]** si vous souhaitez uniquement modifier le thème du formulaire.
 
    ![](assets/select-a-form-theme-5.png)
-
-Comme c&#39;était facile ?! Vous pouvez laisser votre livre HTML/CSS prendre de la poussière maintenant.
 
 >[!MORELIKETHIS]
 >

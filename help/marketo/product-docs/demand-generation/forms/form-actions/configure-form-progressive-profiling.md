@@ -4,9 +4,9 @@ description: Découvrez comment configurer le profilage progressif sur un formul
 title: Configurer un formulaire de création de profils utilisateur progressive
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '337'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Les formes courtes sont bonnes ! Lorsqu’une personne revient sur un formulaire
 
 >[!NOTE]
 >
->Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [&#x200B; désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
+>Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [ désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -94,6 +94,4 @@ Les formes courtes sont bonnes ! Lorsqu’une personne revient sur un formulaire
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-Joli travail ! Le travail que vous venez de faire sera payant.
-
-Testez cette fonctionnalité et veillez à la tester. Il est avancé, mais vous pouvez rendre vos formulaires très dynamiques de cette manière.
+Testez cette fonctionnalité. Il est avancé, mais vous pouvez rendre vos formulaires très dynamiques de cette manière.

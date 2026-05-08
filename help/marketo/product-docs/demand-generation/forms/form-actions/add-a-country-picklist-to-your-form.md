@@ -4,10 +4,10 @@ description: Découvrez comment ajouter une liste de sélection de pays à votre
 title: Ajouter une liste de sélection de pays à votre formulaire
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 11%
+source-wordcount: '156'
+ht-degree: 14%
 
 ---
 
@@ -69,11 +69,9 @@ Suivez ces instructions pour convertir le champ pays en liste déroulante avec u
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Bien joué ! Désormais, lorsqu’une personne remplit votre formulaire, elle peut choisir parmi les pays que vous avez fournis.
+   Désormais, lorsqu’une personne remplit votre formulaire, elle peut choisir parmi les pays que vous avez fournis.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
-
-Puisque c&#39;était si facile, pourquoi ne pas en faire plus ? Que diriez-vous d’afficher de manière dynamique le champ État lorsqu’un utilisateur sélectionne États-Unis comme pays dans la liste ? Consultez l’article connexe ci-dessous pour savoir comment procéder.
 
 >[!MORELIKETHIS]
 >

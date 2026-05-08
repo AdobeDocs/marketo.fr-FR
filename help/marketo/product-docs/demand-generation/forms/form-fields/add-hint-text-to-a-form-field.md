@@ -4,10 +4,10 @@ description: Découvrez comment ajouter du texte d’indice à un champ de formu
 title: Ajouter un texte d’indice à un champ de formulaire
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 17%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 
@@ -49,4 +49,4 @@ Conseils et [instructions](/help/marketo/product-docs/demand-generation/forms/fo
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Découvrez-le ! Allons-y et ajoutons quelques [instructions](add-tooltip-instructions-to-a-form-field.md) maintenant.
+Pour ajouter des instructions d’info-bulle à un champ de formulaire, voir [Ajouter des instructions d’info-bulle à un champ de formulaire](add-tooltip-instructions-to-a-form-field.md).

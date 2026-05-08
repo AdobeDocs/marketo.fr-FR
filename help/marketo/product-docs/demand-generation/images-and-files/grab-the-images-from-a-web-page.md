@@ -4,9 +4,9 @@ description: Découvrez comment récupérer des images d’une page web dans Mar
 title: Récupérer les images d’une page web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '177'
 ht-degree: 7%
 
 ---
@@ -42,8 +42,6 @@ Pour ajouter des images à partir d’une page web, copiez l’adresse web (URL)
 1. Toutes les images disponibles s’affichent dans **[!UICONTROL Images et fichiers]**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
-
-Beau travail, maître de l&#39;image !
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: Découvrez comment télécharger des images et des fichiers de Box 
 title: Charger des images et fichiers depuis Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 12%
@@ -43,4 +43,4 @@ Vous pouvez charger des fichiers depuis Box pour les utiliser sur les landing pa
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-Vos fichiers sont maintenant prêts à être utilisés sur vos landing pages et emails !
+Vos fichiers sont maintenant prêts à être utilisés sur vos pages de destination et dans vos e-mails.

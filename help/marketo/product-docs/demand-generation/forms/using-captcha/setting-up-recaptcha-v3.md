@@ -3,9 +3,9 @@ description: Découvrez comment configurer reCAPTCHA v3 pour les formulaires Mar
 title: Configuration de reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '372'
 ht-degree: 4%
 
 ---
@@ -34,7 +34,7 @@ Pour l’étape 6 de la section Configuration initiale de [!UICONTROL reCAPTCHA 
 
 Les étapes suivantes sont effectuées en dehors de Marketo.
 
-1. Accédez à [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} puis cliquez sur Admin Console v3.
+1. Accédez à [](https://www.google.com/recaptcha/about/){target="_blank"} puis cliquez sur Admin Console v3.
 
 1. Connectez-vous/inscrivez-vous avec un compte Google.
 
@@ -52,7 +52,7 @@ Les étapes suivantes sont effectuées en dehors de Marketo.
 
    >[!NOTE]
    >
-   >Placer sur la liste autorisée Par exemple, si le [!UICONTROL centre de données] de votre compte est « sjst », le domaine que vous souhaitez `app-sjst.marketo.com` sera utilisé. Si votre [!UICONTROL Munchkin placer sur la liste autorisée ID] est 123-ABC-789, le domaine que vous avez supprimé est `123-ABC-789.mktoweb.com`.
+   >Par exemple, si le [!UICONTROL centre de données] de votre compte est « sjst », le domaine que vous souhaitez `app-sjst.marketo.com` sera utilisé. Si votre [!UICONTROL Munchkin ID] est 123-ABC-789, le domaine que vous avez supprimé est `123-ABC-789.mktoweb.com`.
 
 1. Définissez un propriétaire et une adresse e-mail supplémentaire qui doit recevoir toutes les alertes sur ce service.
 
@@ -68,7 +68,7 @@ Les étapes suivantes sont effectuées en dehors de Marketo.
 
 >[!IMPORTANT]
 >
->Après avoir suivi ces étapes et [activé CAPTCHA dans votre premier formulaire Marketo](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, veillez à tester le formulaire immédiatement, car toute erreur de configuration dans la configuration reCAPTCHA peut rompre le formulaire.
+>Après avoir suivi ces étapes et [activé CAPTCHA dans votre premier formulaire Marketo](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, testez le formulaire immédiatement, car toute erreur de configuration dans la configuration reCAPTCHA peut l’interrompre.
 
 1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
