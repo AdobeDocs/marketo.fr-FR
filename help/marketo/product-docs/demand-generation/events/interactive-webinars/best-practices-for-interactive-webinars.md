@@ -3,9 +3,9 @@ description: Obtenez de l’aide sur les bonnes pratiques relatives aux webinair
 title: Bonnes pratiques relatives aux webinaires interactifs
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1713'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Lors de l’exécution d’événements virtuels, qu’ils soient destinés à une petite ou à une grande audience, il est essentiel que les choses se déroulent comme prévu. Les différentes étapes nécessaires à la planification et à l’exécution d’un événement, depuis la préparation jusqu’à la promotion, la diffusion et le suivi, peuvent parfois donner l’impression d’être beaucoup.
 
-Pour vous aider, nous avons compilé une liste de bonnes pratiques qui peuvent vous aider à planifier, concevoir et produire des webinaires attrayants et couronnés de succès. Ces conseils vous aideront à tirer le meilleur parti des webinaires interactifs optimisés par Adobe Connect.
+Les bonnes pratiques suivantes peuvent vous aider à planifier, concevoir et produire des webinaires attrayants et couronnés de succès. Ces conseils vous aideront à tirer le meilleur parti des webinaires interactifs optimisés par Adobe Connect.
 
 ## Préparation avant l’événement {#pre-event-preparation}
 
@@ -22,15 +22,15 @@ Pour vous aider, nous avons compilé une liste de bonnes pratiques qui peuvent v
 
 >[!TIP]
 >
->L’expérience web mobile des webinaires interactifs n’est pas réactive. Nous vous recommandons donc d’utiliser l’application Adobe Connect pour offrir une expérience de webinaire transparente sur votre appareil mobile. Veuillez noter que l’application Adobe Connect n’est actuellement pas disponible dans les App stores en Chine.
+>L’expérience web mobile des webinaires interactifs n’est pas réactive. Nous vous recommandons donc d’utiliser l’application Adobe Connect pour offrir une expérience de webinaire transparente sur votre appareil mobile. L’application Adobe Connect n’est actuellement pas disponible dans les App stores en Chine.
 
 * Créez un exemple de webinaire interactif (IW) et clonez-le à chaque fois, pour éviter de repartir de zéro.
 
-* Réutilisez les salles Adobe Connect si vous diffusez à nouveau le même contenu ultérieurement. Accédez à **Effacer le contenu des capsules** à partir du menu Capsules pour effacer l’historique de conversation et les résultats des sondages/quiz de la dernière session. Cela efface simplement le contenu de la salle. Toutes les données des sessions précédentes continueront d’être disponibles dans Marketo Engage.
+* Réutilisez les salles Adobe Connect si vous diffusez à nouveau le même contenu ultérieurement. Accédez à **Effacer le contenu des capsules** à partir du menu Capsules pour effacer l’historique de conversation et les résultats des sondages/quiz de la dernière session. Cela efface le contenu de la pièce. Toutes les données des sessions précédentes continueront d’être disponibles dans Marketo Engage.
 
 * Évitez de planifier des sessions consécutives. Assurez-vous de disposer d’au moins 30 minutes de temps de préparation avant le début de votre webinaire. Cela vous permettra de télécharger les modifications de présentation de dernière minute, d&#39;ajuster votre microphone et votre caméra, et de mettre les nouveaux présentateurs à l&#39;aise avec l&#39;interface.
 
-* Attribuez des rôles aux membres de votre équipe. Ajoutez-les en tant que co-hôtes et présentateurs. Les hôtes et les présentateurs peuvent entrer dans la salle avant les participants. Veillez toutefois à [concevoir votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _avant_ d’ajouter des co-hôtes et des présentateurs.
+* Attribuez des rôles aux membres de votre équipe. Ajoutez-les en tant que co-hôtes et présentateurs. Les hôtes et les présentateurs peuvent entrer dans la salle avant les participants. Mais [concevez votre webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _avant_ ajoutez des co-hôtes et des présentateurs.
 
 ### Promotion de votre événement {#promoting-your-event}
 
@@ -60,7 +60,7 @@ Pour vous aider, nous avons compilé une liste de bonnes pratiques qui peuvent v
 
 * Dans la mesure du possible, chargez le contenu dans une capsule de partage plutôt que de partager un écran. Les types de fichiers pris en charge qui peuvent être partagés et présentés dans une capsule de partage sont les suivants : PPT, PPTX, PDF, MP3, MP4, JPG, PNG, POD (pour les capsules personnalisées) et les packages compressés (ZIP) contenant du contenu valide. Le contenu persistera dans la salle et sera facilement disponible. Cela réduit également la bande passante Internet requise pour partager l’écran.
 
-* Si vous prévoyez plus de 100 participants, envisagez de passer d’un dialogue ouvert (capsule de conversation) à un dialogue modéré (capsule de questions/réponses). Avec des audiences plus importantes, un chat animé peut être difficile à surveiller pour un hôte.
+* Si vous prévoyez plus de 100 participants, envisagez de passer d’une boîte de dialogue ouverte (capsule de conversation) à une boîte de dialogue modérée (capsule de questions/réponses). Avec des audiences plus importantes, un chat animé peut être difficile à surveiller pour un hôte.
 
 * Ajoutez une capsule Fichiers sur la dernière disposition pour partager tous les fichiers (brochures, livres blancs, etc.) que vous souhaitez que les participants téléchargent.
 
@@ -93,7 +93,7 @@ Pour vous aider, nous avons compilé une liste de bonnes pratiques qui peuvent v
 
 ## Diffusion {#delivery}
 
-* Effectuez quelques essais pour tester la configuration audio/vidéo et vous familiariser avec Adobe Connect si vous ne l’avez pas utilisé auparavant. N&#39;oubliez pas d&#39;inclure vos présentateurs et co-animateurs lors de la répétition.
+* Effectuez quelques essais pour tester la configuration audio/vidéo et vous familiariser avec Adobe Connect si vous ne l’avez pas utilisé auparavant. Incluez également vos présentateurs et co-animateurs lors de la répétition.
 
 * Demandez aux hôtes et aux présentateurs d&#39;arriver au moins 30 minutes avant l&#39;heure de début et assurez-vous que tout fonctionne correctement.
    * Déterminez qui animera les capsules de questions/réponses et de conversation.

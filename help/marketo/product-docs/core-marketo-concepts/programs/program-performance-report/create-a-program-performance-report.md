@@ -4,10 +4,10 @@ description: Découvrez comment créer un rapport de performance de programme. C
 title: Créer un rapport sur les performances des programmes
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 14%
+source-wordcount: '136'
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ Voir des statistiques intéressantes sur vos programmes avec ce rapport.
 
 1. [Créez un rapport dans un programme](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} puis sélectionnez le **[!UICONTROL Performance du programme]** [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Cliquez sur l’onglet **[!UICONTROL Rapport]**.
-1. Le tour est joué. Explorez votre rapport pour voir comment se portent vos programmes.
+1. Vous êtes là ! Explorez votre rapport pour voir comment se portent vos programmes.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

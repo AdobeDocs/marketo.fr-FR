@@ -4,9 +4,9 @@ description: Découvrez le reciblage avec les données de personnalisation web d
 title: Reciblage avec des données de personnalisation web
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '416'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,7 @@ Web Personalization ajoute actuellement des données aux plateformes de remarket
    <th colspan="1">[!DNL Web Personalization] Données</th>
   </tr>
   <tr>
-   <th><p>Secteur industriel</p></th>
+   <th><p>Secteur</p></th>
   </tr>
   <tr>
    <th><p>Groupe (Entreprise, PME)</p></th>
@@ -76,7 +76,7 @@ Web Personalization ajoute actuellement des données aux plateformes de remarket
 
    >[!NOTE]
    >
-   >Pour que cette fonctionnalité fonctionne[[!DNL Facebook]  vous devez avoir installé &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Custom Audience Pixel sur votre site web.
+   >Pour que cette fonctionnalité fonctionne[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) vous devez avoir installé [!DNL Facebook] Custom Audience Pixel sur votre site web.
 
    ![](assets/three.png)
 

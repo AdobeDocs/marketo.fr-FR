@@ -4,9 +4,9 @@ description: En savoir plus sur les champs dynamiques dans Sales Connect. Utilis
 title: Glossaire des champs dynamiques
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -35,7 +35,7 @@ Cet outil est utilisé pour `auto-personalize your email` et vous faire gagner d
 * Si les informations d&#39;un contact ne sont pas saisies correctement ou sont absentes de la page Personnes, elles ne s&#39;afficheront pas correctement dans votre modèle.
 * La différence entre `{{company}}` et `{{company_friendly}}` est que `{{company_friendly}}` supprimera tout titre formel, tel que Inc., LLC., etc., du nom de la société de votre contact.
 * Lorsque vous utilisez `{{company_friendly}}`, veillez à séparer Inc. ou Co. par une virgule dans les coordonnées. C’est ainsi que Sales Connect sait ce qu’il faut supprimer lors de l’extraction de la valeur.
-* Le système ajoute automatiquement la signature de l’utilisateur à chaque e-mail envoyé. Si l’utilisateur utilise un modèle avec le champ dynamique `{{my_signature}}`, le système renseigne la signature dans laquelle le champ dynamique `{{my_signature}}` a été placé. On ne l&#39;ajoute que pour éviter le dédoublement. Le système `{{team_unsubscribe}}` gère de la même manière lorsque le paramètre de désabonnement d’ajout global est activé.
+* Le système ajoute automatiquement la signature de l’utilisateur à chaque e-mail envoyé. Si l’utilisateur utilise un modèle avec le champ dynamique `{{my_signature}}`, le système renseigne la signature dans laquelle le champ dynamique `{{my_signature}}` a été placé. Il est uniquement ajouté ici afin d’éviter les doublons. Le système `{{team_unsubscribe}}` gère de la même manière lorsque le paramètre de désabonnement d’ajout global est activé.
 
 >[!TIP]
 >

@@ -4,10 +4,10 @@ description: Découvrez comment ajouter des modules à votre email dans l’édi
 title: Ajouter des modules à votre e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 4%
+source-wordcount: '265'
+ht-degree: 7%
 
 ---
 
@@ -43,7 +43,7 @@ Dans [!DNL Email Editor 2.0], un module est une section de votre e-mail définie
 
 Il existe deux manières de déplacer un module.
 
-1. Identifiez le module que vous souhaitez déplacer. Si vous ne savez pas comment elle s’appelle, pointez la souris dessus et elle sera mise en surbrillance à droite.
+1. Identifiez le module que vous souhaitez déplacer. Si vous n’êtes pas sûr de son nom, pointez la souris sur celui-ci pour le mettre en surbrillance à droite.
 
    ![](assets/six-2.png)
 
@@ -63,7 +63,7 @@ Il existe deux manières de déplacer un module.
 
    ![](assets/ten-2.png)
 
-C&#39;est tout ce qu&#39;il y a à faire.
+C’est aussi simple que cela.
 
 >[!MORELIKETHIS]
 >

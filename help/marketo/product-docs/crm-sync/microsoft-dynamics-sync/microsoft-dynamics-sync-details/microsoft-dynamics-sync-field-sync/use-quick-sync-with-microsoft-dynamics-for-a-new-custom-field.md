@@ -4,9 +4,9 @@ description: Découvrez comment utiliser la synchronisation rapide avec Microsof
 title: Utiliser la synchronisation rapide avec Microsoft Dynamics pour un nouveau champ personnalisé
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '356'
 ht-degree: 4%
 
 ---
@@ -15,19 +15,17 @@ ht-degree: 4%
 
 Marketing ou Ventes souhaite un nouveau champ. Ou peut-être en avez-vous oublié un lors de la sélection initiale du champ. Ou vos besoins ont changé. Dans tous les cas, vous pouvez utiliser la synchronisation rapide pour resynchroniser des champs spécifiques.
 
-En règle générale, vous utiliserez la synchronisation rapide pour ajouter un nouveau champ et actualiser les valeurs. Cependant, il existe des cas où vous souhaiteriez synchroniser un champ existant. Vous pouvez restreindre la synchronisation des champs en fonction d’une période mise à jour ou créée. Consultez [Options de synchronisation avancées](#Advanced_Sync_Options) ci-dessous pour plus d’informations.
+En règle générale, la synchronisation rapide est utilisée pour ajouter un nouveau champ et actualiser les valeurs. Cependant, il existe des cas où vous souhaiteriez synchroniser un champ existant. Vous pouvez restreindre la synchronisation des champs en fonction d’une période mise à jour ou créée. Consultez [Options de synchronisation avancées](#Advanced_Sync_Options) ci-dessous pour plus d’informations.
 
 La synchronisation rapide peut synchroniser les valeurs nulles. Par exemple, si vous utilisez les valeurs A et B et modifiez une valeur B dans [!DNL Dynamics] sur null, la valeur null sera synchronisée sur Marketo.
 
 ## Synchronisation rapide pour tous les enregistrements {#quick-sync-for-all-records}
 
-Voici comment utiliser la synchronisation rapide pour resynchroniser de nouveaux champs.
-
 1. Dans Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Cliquez sur **[!UICONTROL Microsoft Dynamics]**.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -53,7 +51,7 @@ Voici comment utiliser la synchronisation rapide pour resynchroniser de nouveaux
 
 ## Options de synchronisation avancées {#advanced-sync-options}
 
-Que se passe-t-il si vous souhaitez synchroniser un champ existant, mais uniquement pour un ensemble limité de données ? Voici comment faire.
+Que se passe-t-il si vous souhaitez synchroniser un champ existant, mais uniquement pour un ensemble limité de données ?
 
 1. Décochez la case d’un champ existant. Cliquez sur **[!UICONTROL Enregistrer]**
 
@@ -75,7 +73,7 @@ Que se passe-t-il si vous souhaitez synchroniser un champ existant, mais uniquem
 
 ## Correction des champs non synchronisés {#fixing-out-of-sync-fields}
 
-Dans les rares cas où un champ [!DNL Dynamics] et Marketo ne sont pas synchronisés, il existe un moyen rapide et facile de les resynchroniser.
+Dans les rares cas où un champ [!DNL Dynamics] et Marketo ne sont pas synchronisés, il existe un moyen rapide de les resynchroniser.
 
 1. Désélectionnez le champ et cliquez sur **[!UICONTROL Enregistrer]**.
 

@@ -4,10 +4,10 @@ description: Notation Simple - Documents Marketo - Documentation Du Produit
 title: Évaluation simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 18%
+source-wordcount: '386'
+ht-degree: 16%
 
 ---
 
@@ -88,7 +88,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->Une fois active, cette campagne s’exécute chaque fois qu’une personne remplit le formulaire. La campagne sera opérationnelle jusqu’à ce qu’elle soit désactivée.
+>Une fois active, cette campagne s’exécute chaque fois qu’une personne remplit le formulaire. La campagne continue de s’exécuter jusqu’à ce qu’elle soit désactivée.
 
 ## Étape 2 : remplir le formulaire {#step-fill-out-the-form}
 

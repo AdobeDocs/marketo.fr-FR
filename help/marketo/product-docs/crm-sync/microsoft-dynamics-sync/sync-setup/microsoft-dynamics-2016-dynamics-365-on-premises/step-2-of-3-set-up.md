@@ -3,16 +3,16 @@ description: Découvrez comment configurer l'utilisateur de synchronisation Mark
 title: Installez Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Étape 2 sur 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
 # Étape 2 sur 3 Configuration de Marketo pour [!DNL Dynamics] (2016 On-Prem/[!DNL Dynamics] 365 On-Premise){#step-of-set-up-for-marketo-on-premises-2016}
 
-Excellent travail pour terminer les étapes précédentes. Continuons à avancer dans ce dossier.
+Les étapes précédentes sont terminées.
 
 >[!PREREQUISITES]
 >
@@ -66,7 +66,7 @@ Suivez les étapes décrites dans [cet article de Microsoft](https://docs.micros
 
 ## Affecter un rôle d&#39;utilisateur de synchronisation {#assign-sync-user-role}
 
-Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’utilisateur de synchronisation Marketo. Vous n’avez pas besoin de l’affecter à d’autres utilisateurs.
+Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’utilisateur de synchronisation Marketo. Il n’a pas besoin d’être affecté à d’autres utilisateurs.
 
 >[!NOTE]
 >
@@ -106,7 +106,7 @@ Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’util
 
 ## Configuration de la solution Marketo {#configure-marketo-solution}
 
-Presque terminé ! Nous avons juste quelques derniers éléments de configuration avant de passer à l’article suivant.
+Il reste quelques derniers éléments de configuration avant de passer à l’article suivant.
 
 1. Sous **[!UICONTROL Paramètres]**, cliquez sur **[!UICONTROL Configuration Marketo]**.
 
@@ -120,7 +120,7 @@ Presque terminé ! Nous avons juste quelques derniers éléments de configuratio
 
    ![](assets/configure2.png)
 
-1. Cliquez sur le champ **[!UICONTROL Utilisateur Marketo]** et sélectionnez l’utilisateur de synchronisation.
+1. Cliquez sur le champ **[!UICONTROL Utilisateur]** et sélectionnez l’utilisateur de synchronisation.
 
    ![](assets/configure3.png)
 

@@ -4,9 +4,9 @@ description: Découvrez comment ajouter un test d’e-mail Champion/Challenger. 
 title: Ajouter un e-mail Champion/Challenger
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '219'
 ht-degree: 7%
 
 ---

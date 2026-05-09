@@ -4,8 +4,8 @@ short-description: Découvrez les termes de Marketo Engage et leurs définition
 title: Glossaire Marketo Engage
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
+exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '6168'
 ht-degree: 63%
@@ -557,7 +557,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
    <td colspan="1">Une fonctionnalité Marketo Engage native pour l’hébergement de webinaires directement dans la plateforme, sans nécessiter d’intégration <strong>partenaire d’événement</strong> tierce. Les données des inscrits et des participants se synchronisent automatiquement avec la <strong>base de données</strong> de Marketo.</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Moment significatif</strong></a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Moment intéressant</strong></a></td>
    <td><p>Dans <strong>Marketo Sales Insight</strong>, une occurrence que vous jugez particulièrement pertinente (par exemple, lorsqu’une personne visite une page spécifique de votre site, clique sur un lien particulier dans un e-mail, etc.) que vous souhaitez que votre équipe commerciale connaisse.</p></td>
   </tr>
   <tr>

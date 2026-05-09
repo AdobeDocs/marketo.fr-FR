@@ -4,16 +4,16 @@ description: Découvrez comment la synchronisation Salesforce maintient les donn
 title: Présentation de la synchronisation Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 89%
+source-wordcount: '224'
+ht-degree: 81%
 
 ---
 
 # Présentation de la synchronisation [!DNL Salesforce] {#understanding-the-salesforce-sync}
 
-Marketo Engage et Salesforce fonctionnent très bien ensemble. Nous maintenons vos données de vente et de marketing synchronisées.
+Découvrez comment la synchronisation Salesforce maintient les données Marketo et Salesforce synchronisées.
 
 ## Fonctionnement de la synchronisation {#how-sync-works}
 

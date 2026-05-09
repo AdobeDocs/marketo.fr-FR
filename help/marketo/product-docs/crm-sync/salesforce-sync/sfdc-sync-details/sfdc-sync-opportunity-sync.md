@@ -4,9 +4,9 @@ description: Découvrez comment fonctionne la synchronisation des opportunités 
 title: Synchronisation de SFDC - Synchronisation des opportunités
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 11%
 
 ---
@@ -57,6 +57,6 @@ Filtres:
 
 >[!TIP]
 >
->Consultez les contraintes sur les filtres et les déclencheurs. Il y a plein de détails sympas.
+>Consultez les contraintes sur les filtres et les déclencheurs pour plus d’informations.
 >
->Créez simplement un nouveau champ dans l’objet d’opportunité en [!DNL Salesforce] et il deviendra automatiquement une contrainte.
+>Créez un nouveau champ dans l’objet d’opportunité en [!DNL Salesforce], il deviendra automatiquement une contrainte.

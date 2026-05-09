@@ -4,10 +4,10 @@ description: Découvrez les options de CC par e-mail dans Marketo. Ajoutez des d
 title: Copie carbone d’e-mail
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 1%
+source-wordcount: '572'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 La fonctionnalité E-mail CC permet l’envoi d’e-mails spécifiés via Marketo pour inclure les destinataires en copie.
 
-Cette fonctionnalité est disponible sur toutes les ressources de messagerie Marketo, quelle que soit la manière dont l’e-mail est envoyé (campagne par lots ou déclenchée). Le destinataire CC recevra une copie exacte de l’e-mail envoyé à la personne Marketo choisie. Ainsi, toute activité d’engagement (ouvertures, clics, etc.) sera consignée dans le journal d’activité de la personne Marketo dans la ligne « À » de l’e-mail. Cependant, l’activité de diffusion (envoyée, diffusée, hard bounce, etc.) _autre que le « soft bounce »_ ne s’enregistrera **pas**, car Marketo n’est pas en mesure de distinguer les événements de diffusion pour la personne Marketo des destinataires en copie (CC). Marketo ne peut mettre en cache que 100 000 personnes à la fois. Si votre liste dynamique dépasse les 100 000 et qu&#39;il est impératif que chaque personne y soit mise en copie conforme, nous vous recommandons de diviser votre liste.
+Cette fonctionnalité est disponible sur toutes les ressources de messagerie Marketo, quelle que soit la manière dont l’e-mail est envoyé (campagne par lots ou déclenchée). Le destinataire CC recevra une copie exacte de l’e-mail envoyé à la personne Marketo choisie. Ainsi, toute activité d’engagement (ouvertures, clics, etc.) sera consigné dans le journal d’activité de la personne Marketo dans la ligne « À » de l’e-mail. Cependant, l’activité de diffusion (envoyée, diffusée, hard bounce, etc.) Les _autres que les « soft bounces »_ ne s’enregistreront **pas**, car Marketo n’est pas en mesure de distinguer les événements de diffusion pour la personne Marketo des destinataires en copie (CC). Marketo ne peut mettre en cache que 100 000 personnes à la fois. Si votre liste dynamique dépasse les 100 000 et qu&#39;il est impératif que chaque personne y soit mise en copie conforme, nous vous recommandons de diviser votre liste.
 
 >[!NOTE]
 >

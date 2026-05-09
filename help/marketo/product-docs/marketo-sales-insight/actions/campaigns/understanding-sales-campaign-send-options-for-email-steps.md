@@ -3,10 +3,10 @@ description: Découvrez les options d’envoi des étapes des e-mails de la camp
 title: Présentation des options d’envoi de campagne de vente pour les étapes d’e-mails
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 4%
+source-wordcount: '758'
+ht-degree: 5%
 
 ---
 
@@ -74,6 +74,6 @@ Pour les jours/étapes suivants de votre campagne de ventes, vous disposez des o
 
 >[!MORELIKETHIS]
 >
->[Créer une campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[Types d&#39;étapes de campagne commerciale et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Créer une campagne de vente](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Types d’étapes de campagne de vente et tâches de rappel](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[Paramètres de la campagne de ventes](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

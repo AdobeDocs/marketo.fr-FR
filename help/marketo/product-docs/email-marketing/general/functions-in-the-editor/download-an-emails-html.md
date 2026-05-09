@@ -4,9 +4,9 @@ description: Découvrez comment télécharger HTML d’un e-mail. Exportez la so
 title: Télécharger la version HTML d’un e-mail
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 13%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 13%
 
    ![](assets/one-4.png)
 
-C&#39;est aussi facile que ça !
+C&#39;est aussi simple que ça !

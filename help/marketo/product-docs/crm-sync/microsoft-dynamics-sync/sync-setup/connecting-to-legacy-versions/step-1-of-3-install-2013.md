@@ -4,9 +4,9 @@ description: Découvrez comment installer la solution Marketo dans Dynamics 2013
 title: Étape 1 sur 3 - Installer la solution Marketo dans Dynamics (2013 On-Premise)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---

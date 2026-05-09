@@ -3,9 +3,9 @@ description: Découvrez la gestion des désabonnements dans les actions Sales In
 title: Vue d’ensemble du désabonnement
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---

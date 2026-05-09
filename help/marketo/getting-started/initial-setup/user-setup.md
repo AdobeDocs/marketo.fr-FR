@@ -4,10 +4,10 @@ short-description: Après avoir terminé les étapes de configuration initiales,
 title: Liste de contrôle de la configuration utilisateur
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 7%
+source-wordcount: '1138'
+ht-degree: 6%
 
 ---
 
@@ -47,9 +47,9 @@ Vos nouveaux abonnements Marketo Engage ont été intégrés à [Adobe Identity 
   </tr>
   <tr>
     <td>Utilisateurs et utilisatrices</td>
-    <td><li>Créez une politique sur le moment <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=fr">créer un utilisateur</a>.</li> <li>Créez une politique sur le moment où supprimer des utilisateurs et utilisatrices.</li>
+    <td><li>Créez une politique sur le moment <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">créer un utilisateur</a>.</li> <li>Créez une politique sur le moment où supprimer des utilisateurs et utilisatrices.</li>
     <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : vous devez être un administrateur système pour supprimer des utilisateurs.
-    <li>Déterminez qui doit disposer des autorisations d’administrateur système Adobe et d’administrateur de produit Marketo Engage <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=fr"></a>. <li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Ajoutez des utilisateurs</a> au profil de produit souhaité.</li>
+    <li>Déterminez qui doit disposer des autorisations d’administrateur système Adobe et d’administrateur de produit Marketo Engage <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=fr"></a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Ajoutez des utilisateurs</a> au profil de produit souhaité.</li>
     <li>Créez un utilisateur d’API pour chaque cas d’utilisation d’API.</li></td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ Vos nouveaux abonnements Marketo Engage ont été intégrés à [Adobe Identity 
 
 ## Configuration de Dynamic Chat sur Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Pour utiliser [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=fr), le canal d&#39;automatisation de conversation natif dans Marketo Engage, procédez à la configuration des autorisations utilisateur en suivant les étapes ci-dessous dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+Pour utiliser [&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=fr), le canal d&#39;automatisation de conversation natif dans Marketo Engage, procédez à la configuration des autorisations utilisateur en suivant les étapes ci-dessous dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>

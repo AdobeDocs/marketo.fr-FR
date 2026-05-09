@@ -6,10 +6,10 @@ description: Découvrez comment personnaliser vos directives de marque.
 role: User
 level: Beginner, Intermediate
 hide: true
-hidefromtoc: true
-source-git-commit: fb4439e79184be605dcca9b9ae122dbf73f8db44
+exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '901'
 ht-degree: 84%
 
 ---
@@ -171,7 +171,7 @@ Pour personnaliser votre **[!UICONTROL style d’écriture]** :
 
    CAPTURE D’ÉCRAN
 
-Vous pouvez désormais personnaliser davantage votre marque ou [la publier](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit).
+Vous pouvez maintenant [publier votre marque](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit) ou continuer à la personnaliser.
 
 ## Contenu visuel {#visual-content}
 

@@ -4,9 +4,9 @@ description: Découvrez comment modifier le statut d’une campagne Salesforce a
 title: Modifier le statut dans une campagne SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 9%
 
 ---
@@ -27,6 +27,6 @@ Si un prospect n’existe pas dans Salesforce ou n’est pas encore membre de la
 
    ![](assets/change-status-in-sfdc-campaign-2.png)
 
-1. Sélectionnez ensuite le **[!UICONTROL Nouveau statut]** à définir, et c’est terminé !
+1. Sélectionnez ensuite le **[!UICONTROL Nouveau statut]** que vous souhaitez définir, et c’est terminé !
 
    ![](assets/change-status-in-sfdc-campaign-3.png)

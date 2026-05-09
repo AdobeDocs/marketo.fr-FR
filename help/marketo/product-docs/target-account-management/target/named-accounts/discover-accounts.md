@@ -4,9 +4,9 @@ description: Découvrez comment découvrir des comptes cibles potentiels auprès
 title: Découvrir des comptes
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -101,13 +101,13 @@ Identifiez les entreprises appropriées pour le ciblage.
 
    ![](assets/disc-comp-seven.png)
 
-   Beau travail !
+   Beau travail !
 
    ![](assets/disc-co-six.png)
 
 >[!NOTE]
 >
->Si vous constatez une incohérence entre les comptes CRM que vous avez sélectionnés et le contenu de la grille Discover CRM, elle est probablement due à un ou plusieurs des éléments suivants :
+>Si vous constatez une incohérence entre les comptes CRM que vous avez sélectionnés et le contenu de la grille Discover CRM, elle est probablement due à un ou plusieurs des facteurs suivants :
 >
 >* Disposer de comptes CRM différents avec des noms similaires qui ont été dédupliqués
 >* La prochaine synchronisation planifiée n’a pas encore eu lieu

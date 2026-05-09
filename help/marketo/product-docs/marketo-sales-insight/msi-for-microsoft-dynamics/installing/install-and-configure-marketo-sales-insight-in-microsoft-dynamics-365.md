@@ -4,9 +4,9 @@ description: Découvrez comment installer et configurer Marketo Sales Insight da
 title: Installer et configurer Informations sur les ventes Marketo dans Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '437'
 ht-degree: 5%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. Génial ! Vous devriez voir la solution maintenant. S&#39;il n&#39;y en a pas, rafraîchissez votre écran.
+1. Génial ! Vous devriez voir la solution maintenant. S’il n’y en a pas, actualisez votre écran.
 
    ![](assets/image2015-5-13-15-3a42-3a29.png)
 
@@ -79,11 +79,11 @@ Lions votre instance Marketo à [!DNL Sales Insight] dans [!DNL Dynamics]. Voici
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Dans la section **[!UICONTROL Insight des ventes]**, cliquez sur **Modifier la configuration de l’API**.
+1. Dans la section Insight des ventes **, cliquez sur** Modifier la configuration de l’API **.**
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copiez l’**[!UICONTROL hôte Marketo]**, l’**[!UICONTROL URL de l’API]** et l’**[!UICONTROL ID d’utilisateur de l’API]** à utiliser à une étape ultérieure. Saisissez une **[!UICONTROL Clé secrète API]** de votre choix, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Copiez l’**[!UICONTROL hôte]**, l’**[!UICONTROL URL de l’API]** et l’**[!UICONTROL ID d’utilisateur de l’API]** à utiliser à une étape ultérieure. Saisissez une **[!UICONTROL Clé secrète API]** de votre choix, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    >[!CAUTION]
    >

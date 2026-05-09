@@ -3,14 +3,14 @@ description: Configurez la section Activités marketing pour votre nouvelle inst
 title: Bonnes Pratiques Relatives Aux Nouvelles Instances - Liste De Contrôle Des Activités Marketing
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '1387'
 ht-degree: 2%
 
 ---
 
-# Bonnes Pratiques Relatives Aux Nouvelles Instances : Liste De Contrôle Des Activités Marketing {#new-instance-best-practices-marketing-activities-checklist}
+# Bonnes pratiques relatives à une nouvelle instance : liste de contrôle des activités marketing {#new-instance-best-practices-marketing-activities-checklist}
 
 Les activités marketing hébergent toutes les ressources et tout le contenu qui composent vos programmes marketing automatisés. Lorsque vous configurez une nouvelle instance de Marketo Engage, une organisation claire et nette permet à tous les utilisateurs et toutes les utilisatrices de rechercher et de gérer facilement divers programmes.
 
@@ -118,7 +118,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 </thead>
 <tbody>
   <tr>
-    <td>Score de la personne</td>
+    <td>Score de personne</td>
     <td><li>Mettre en œuvre un programme de notation de prospect/personne segmenté en unités lexicales. Répartissez les scores <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.html?lang=fr" target="_blank">comportement</a> et <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.html?lang=fr" target="_blank">démographique</a> à partir du score général de la personne.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=fr" target="_blank">Importez un programme de notation</a> à partir de la bibliothèque de programmes Marketo pour démarrer.</li></td>
   </tr>
@@ -128,7 +128,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
     <li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management" target="_blank">Importez un programme de gestion des données opérationnelles</a> à partir de la bibliothèque de programmes Marketo pour démarrer.</li></td>
   </tr>
   <tr>
-    <td>Normalisation Des Données</td>
+    <td>Standardisation des données</td>
     <td><li>Créez un programme centralisé pour normaliser les données entrantes.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html?lang=fr">Importez un programme de gestion des données opérationnelles</a> à partir de la bibliothèque de programmes Marketo pour démarrer.</li></td>
   </tr>
@@ -139,7 +139,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Créez des programmes pour vous assurer de vous conformer aux lois sur la confidentialité des données et le pourriel telles que le <a href="https://business.adobe.com/fr/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD, la LCAP, le CAN-SPAM, le CCPA, etc.</a></li>
+    <td><li>Créez des programmes pour vous assurer de vous conformer aux lois sur la confidentialité des données et le spam, telles que le <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD, la LCAP, le CAN-SPAM, le CCPA, etc.</a></li>
     <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : N'oubliez jamais de consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes pour maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
   <tr>
@@ -154,7 +154,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   <tr>
     <td>Centre d’abonnements</td>
     <td><li>Découvrez les avantages de la configuration d’un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=fr" target="_blank">centre d’abonnement/de préférences</a>.</li>
-    <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : Comme il n’existe pas de méthode unique, il est recommandé de consulter la <a href="https://nation.marketo.com/" target="_blank">Communauté de la nation marketing</a> et de rechercher « Centre d’abonnement » pour voir les différentes méthodes utilisées par vos pairs et choisir celle qui convient le mieux à vos besoins.</td></td>
+    <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : Comme il n’existe pas de méthode unique pour configurer ce service, il est recommandé de visiter le <a href="https://nation.marketo.com/" target="_blank">Marketing Nation Community</a> et de rechercher « Subscription Center » pour voir les différentes méthodes utilisées par vos pairs et choisir celle qui convient le mieux à vos besoins.</td></td>
   </tr>
   <tr>
     <td>Délivrabilité des e-mails</td>

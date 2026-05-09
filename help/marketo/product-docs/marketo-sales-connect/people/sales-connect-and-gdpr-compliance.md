@@ -4,9 +4,9 @@ description: Découvrez Sales Connect et la conformité au RGPD. Découvrez comm
 title: Sales Connect et conformité au RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1363'
+source-wordcount: '1393'
 ht-degree: 8%
 
 ---

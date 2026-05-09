@@ -3,16 +3,16 @@ description: Découvrez comment fonctionne la synchronisation Veeva CRM entre Ma
 title: Comprendre la synchronisation  [!DNL Veeva]  CRM
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '251'
 ht-degree: 9%
 
 ---
 
 # Comprendre la synchronisation du CRM [!DNL Veeva] {#understanding-the-veeva-crm-sync}
 
-En quelques étapes simples, il est facile d’exécuter une synchronisation entre Adobe Marketo Engage et le CRM [!DNL Veeva].
+L’exécution d’une synchronisation entre Adobe Marketo Engage et le CRM [!DNL Veeva] ne prend que quelques étapes.
 
 ## Fonctionnement de la synchronisation {#how-the-sync-works}
 
@@ -30,7 +30,7 @@ La synchronisation entre [!DNL Veeva] et Marketo Engage est bidirectionnelle uni
 
 * [Comptes de personne](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Utilisateurs et utilisatrices
-* [Appeler et appeler des objets de clé](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [Objets de clé d’appel et d’appel](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 * [Objets personnalisés](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## Choses à savoir {#things-to-know}

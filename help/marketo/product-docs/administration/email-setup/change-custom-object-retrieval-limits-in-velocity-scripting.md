@@ -3,20 +3,20 @@ description: Augmentez ou réduisez la limite de récupération de l’objet per
 title: Modifier les limites de récupération d’objet personnalisé dans  [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 0%
+source-wordcount: '256'
+ht-degree: 1%
 
 ---
 
 # Modifier les limites de récupération d’objet personnalisé dans [!DNL Velocity Scripting] {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
-Si vous utilisez [!DNL Velocity Script] pour afficher des données d’objet personnalisé dans des e-mails, cette fonctionnalité peut être pour vous. Par défaut, vous êtes autorisé à accéder à 10 objets personnalisés parents à partir de Velocity Script. Si vous avez besoin d’accéder à plus d’informations, lisez la suite.
+Si vous utilisez [!DNL Velocity Script] pour afficher des données d’objet personnalisé dans des e-mails, cette fonctionnalité peut s’appliquer à votre cas d’utilisation. Par défaut, vous êtes autorisé à accéder à 10 objets personnalisés parents à partir du script Velocity. Si vous avez besoin d’un accès plus étendu, reportez-vous aux étapes ci-dessous.
 
 ## Qu’est-ce que [!DNL Velocity] {#what-is-velocity}
 
-[[!DNL Apache Velocity]](https://velocity.apache.org/) est un langage conçu sur [!DNL Java] pour créer des modèles et des scripts de contenu HTML. Marketo permet de l’utiliser dans le contexte des e-mails à l’aide de [&#x200B; jetons de script &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Cela permet, entre autres, d’accéder aux données stockées dans des objets personnalisés.
+[[!DNL Apache Velocity]](https://velocity.apache.org/) est un langage conçu sur [!DNL Java] pour créer des modèles et des scripts de contenu HTML. Marketo permet de l’utiliser dans le cadre d’e-mails à l’aide de [&#x200B; jetons de script &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Cela permet, entre autres, d’accéder aux données stockées dans des objets personnalisés.
 
 Vous pouvez référencer des objets personnalisés parents et enfants directement connectés au lead ou au contact, mais pas des objets personnalisés de troisième niveau. Pour chaque objet personnalisé, les 10 enregistrements mis à jour le plus récemment par personne/contact sont disponibles au moment de l’exécution et sont triés de la plus récente mise à jour (à 0) à la plus ancienne mise à jour (à 9).
 
@@ -38,4 +38,4 @@ Vous pouvez référencer des objets personnalisés parents et enfants directemen
 >
 >La valeur [!UICONTROL &#x200B; Limite de récupération parente &#x200B;] doit être comprise entre 10 et 100. La [!UICONTROL limite de récupération des enfants] est définie automatiquement pour vous. Pour ce faire, divisez 1 000 par la [!UICONTROL &#x200B; Limite de récupération du parent &#x200B;]. Par exemple, si vous définissez la limite Parent sur 50, la limite Enfant devient 20 (1 000 ÷ 50 = 20).
 
-Joli ! Vous pouvez désormais accéder à d’autres objets personnalisés à partir de [!DNL Velocity script].
+Vous pouvez désormais accéder à d’autres objets personnalisés à partir de [!DNL Velocity script].

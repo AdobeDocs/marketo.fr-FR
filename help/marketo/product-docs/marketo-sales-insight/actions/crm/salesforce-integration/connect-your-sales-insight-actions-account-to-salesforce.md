@@ -3,9 +3,9 @@ description: Découvrez comment connecter votre compte Sales Insight Actions à 
 title: Connecter votre compte Actions des informations sur les ventes à Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 9%
 
 ---

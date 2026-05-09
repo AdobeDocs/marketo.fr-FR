@@ -4,9 +4,9 @@ description: Découvrez comment filtrer les ressources d’un rapport sur les e-
 title: Filtrer les ressources dans un rapport des e-mails
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '190'
 ht-degree: 6%
 
 ---
@@ -43,7 +43,7 @@ Concentrez votre rapport [Performances des e-mails](/help/marketo/product-docs/e
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu’il contient au moment de son exécution.
 
-1. C&#39;est fini ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport filtré.
+1. Vous avez terminé ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

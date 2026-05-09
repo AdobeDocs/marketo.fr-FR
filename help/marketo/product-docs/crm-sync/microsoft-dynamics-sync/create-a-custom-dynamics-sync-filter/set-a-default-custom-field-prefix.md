@@ -4,16 +4,16 @@ description: Découvrez comment définir le préfixe de champ personnalisé par 
 title: Définir un préfixe de champ personnalisé par défaut
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '106'
+ht-degree: 11%
 
 ---
 
 # Définir un préfixe de champ personnalisé par défaut {#set-a-default-custom-field-prefix}
 
-Votre préfixe de [!DNL Microsoft Dynamics] par défaut pour les champs personnalisés doit être **nouveau** pour que les champs propriétaires de Marketo soient correctement synchronisés. Voici comment modifier le préfixe par défaut.
+Votre préfixe de [!DNL Microsoft Dynamics] par défaut pour les champs personnalisés doit être **nouveau** pour que les champs propriétaires de Marketo soient correctement synchronisés.
 
 1. Accédez à [!UICONTROL Paramètres] et sélectionnez **[!UICONTROL Personnalisations].**
 

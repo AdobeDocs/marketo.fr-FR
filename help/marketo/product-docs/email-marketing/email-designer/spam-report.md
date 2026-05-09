@@ -6,9 +6,9 @@ description: Découvrez comment utiliser SpamAssassin pour tester la probabilit�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '236'
 ht-degree: 8%
 
 ---
@@ -47,7 +47,7 @@ SpamAssassin analyse votre contenu et attribue un score en fonction de différen
 
    ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
 
-Lorsque le score est à votre goût, il est prêt à être envoyé.
+Lorsque le score vous convient, il est prêt à être envoyé.
 
 ![](assets/email-spam-report-5.png){width="800" zoomable="yes"}
 

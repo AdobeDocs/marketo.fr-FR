@@ -2,10 +2,9 @@
 description: Découvrez la création d’e-mails dans la nouvelle Designer d’e-mail. Créez, personnalisez et prévisualisez des e-mails dans Marketo Engage.
 title: Création d’e-mails
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '1548'
 ht-degree: 7%

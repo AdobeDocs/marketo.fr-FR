@@ -4,9 +4,9 @@ title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (En
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '437'
 ht-degree: 4%
 
 ---
@@ -92,7 +92,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans l
 
 1. Dans la page des détails du profil, accédez à la section Sécurité au niveau du champ . Cliquez sur Affichage pour modifier l’accessibilité des objets :
 
-   * Prospect
+   * Lead
    * Contact
    * Compte
    * Opportunité

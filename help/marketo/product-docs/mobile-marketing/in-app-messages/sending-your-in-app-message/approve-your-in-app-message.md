@@ -4,9 +4,9 @@ description: Découvrez comment approuver votre message in-app pour le lancer. S
 title: Approuver votre message in-app
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Vous devez approuver l’envoi avant que le message in-app ne soit envoyé.
 
    >[!NOTE]
    >
-   >Lorsque vous arrêtez un programme, il ne s’exécute plus et ne peut pas être repris. Si vous voulez l&#39;exécuter à nouveau, vous devrez le reconstruire. Ainsi, assurez-vous d&#39;avoir terminé avec un programme avant de cliquer sur **[!UICONTROL Arrêter le programme]** !
+   >Lorsque vous arrêtez un programme, il ne s’exécute plus et ne peut pas être repris. Si vous voulez l&#39;exécuter à nouveau, vous devrez le reconstruire. Assurez-vous d’avoir terminé avec un programme avant de cliquer sur **[!UICONTROL Arrêter le programme]** !
 
 ## Tableau De Bord In-App {#in-app-dashboard}
 

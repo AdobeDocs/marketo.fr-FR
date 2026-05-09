@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 0%
+source-wordcount: '206'
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ Bienvenue dans Marketo ! N’hésitez pas à utiliser la liste de contrôle suiv
 1. Demandez au service informatique de créer un enregistrement DNS pour votre CNAME de page de destination
 1. Une fois l’opération terminée, configurez le nom de domaine de votre page de destination dans Marketo
 
-## Garantir la délivrabilité des e-mails {#ensure-email-deliverability}
+## Assurer la délivrabilité des e-mails {#ensure-email-deliverability}
 
 1. Sélectionner un CNAME d’e-mail pour les liens de tracking de marque
 1. Demandez au service informatique de configurer un enregistrement DNS pour votre CNAME d&#39;e-mail

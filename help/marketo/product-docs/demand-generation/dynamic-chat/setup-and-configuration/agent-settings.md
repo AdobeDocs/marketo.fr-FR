@@ -3,10 +3,10 @@ description: Découvrez comment configurer le calendrier des agents et la dispon
 title: Paramètres de l’agent ou de l’agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 1%
+source-wordcount: '634'
+ht-degree: 3%
 
 ---
 
@@ -16,7 +16,7 @@ Configurez votre calendrier et définissez la disponibilité des réunions/conve
 
 >[!PREREQUISITES]
 >
->Assurez-vous que vos agents ont reçu les [autorisations](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} appropriées.
+>Vérifiez que vos agents ont reçu les [autorisations](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} appropriées.
 
 ![](assets/agent-settings-1.png)
 
@@ -90,7 +90,7 @@ Si vous êtes connecté à l’application, vous recevrez une notification in-ap
 
 >[!IMPORTANT]
 >
->* Le [bouton de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} de la boîte de réception de l’agent **remplacera** ce qui est saisi dans l’onglet _Disponibilité du chat en direct_. Ainsi, si l&#39;agent est planifié comme disponible à partir de 1p-5p mais a besoin de prendre une pause rapide à 3p, ils n&#39;ont pas besoin de modifier leurs paramètres d&#39;agent. Le statut de basculement de disponibilité restera jusqu&#39;à ce qu&#39;il soit modifié manuellement, jusqu&#39;à ce que le prochain bloc de temps dans la disponibilité de l&#39;agent soit atteint, ou jusqu&#39;à minuit du fuseau horaire spécifié par l&#39;agent (voir la puce suivante pour plus d&#39;informations).
+>* Le [bouton de disponibilité](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} de la boîte de réception de l’agent **remplacera** ce qui est saisi dans l’onglet _Disponibilité du chat en direct_. Ainsi, si l&#39;agent est planifié comme disponible à partir de 1p-5p mais a besoin de prendre une pause rapide à 3p, ils n&#39;ont pas besoin de modifier leurs paramètres d&#39;agent. Le statut de basculement de disponibilité reste inchangé jusqu&#39;à ce qu&#39;il soit modifié manuellement, jusqu&#39;à ce que le prochain bloc de temps de disponibilité de l&#39;agent soit atteint, ou jusqu&#39;à minuit du fuseau horaire spécifié par l&#39;agent (voir le point suivant pour plus d&#39;informations).
 >
 >* Lorsque l’agent utilise le bouton de disponibilité pour modifier son statut en « disponible », son statut se réinitialise automatiquement (passe à non disponible) à minuit du fuseau horaire spécifié dans son planning de disponibilité. Si aucun fuseau horaire n’est spécifié, la valeur par défaut est UTC (temps universel coordonné).
 

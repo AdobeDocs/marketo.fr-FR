@@ -4,9 +4,8 @@ description: Comparez votre classement par mot-clé et celui de vos concurrents 
 title: SEO - Utiliser le rapport des tendances des mots-clés de l’entité concurrente
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 5%

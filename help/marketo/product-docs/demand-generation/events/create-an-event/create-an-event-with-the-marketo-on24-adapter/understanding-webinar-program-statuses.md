@@ -4,9 +4,9 @@ description: Découvrez les statuts du programme de webinaire dans la section In
 title: Présentation des statuts du programme de webinaire
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '426'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Les statuts de programme représentent les différents statuts d&#39;un événem
 
 Les gens passent d&#39;un statut de programme à l&#39;autre de façon linéaire et ne reviennent pas dans leur statut. Par exemple, une personne dont le statut est **Terminé avec succès** ne peut pas revenir à **Inscrit**.
 
-Voici une brève description des statuts du programme associés au canal du webinaire.
+Vous trouverez ci-dessous une brève description des statuts du programme associés au canal du webinaire.
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Voici une brève description des statuts du programme associés au canal du webi
 
 >[!NOTE]
 >
->Pour que Marketo puisse afficher le statut Non affiché, les personnes doivent avoir été enregistrées *dans Marketo*. Nous ne sommes pas en mesure de capturer les Aucun affichage provenant du flux de données On24.
+>Pour que Marketo puisse afficher le statut Non affiché, les personnes doivent avoir été enregistrées *dans Marketo*. Aucun affichage provenant du flux de données On24 ne peut être capturé.
 
 >[!MORELIKETHIS]
 >

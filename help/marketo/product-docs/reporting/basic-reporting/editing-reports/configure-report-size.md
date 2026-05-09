@@ -4,9 +4,9 @@ description: Découvrez comment configurer la taille du rapport en modifiant la 
 title: Configurer la taille du rapport
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 9%
 
 ---
@@ -39,7 +39,7 @@ Par défaut, les rapports Marketo sont limités à un maximum de 5 000 lignes, m
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
-   C&#39;est fini ! Le rapport respectera la nouvelle limite.
+   Vous avez terminé ! Le rapport respectera la nouvelle limite.
 
    >[!MORELIKETHIS]
    >

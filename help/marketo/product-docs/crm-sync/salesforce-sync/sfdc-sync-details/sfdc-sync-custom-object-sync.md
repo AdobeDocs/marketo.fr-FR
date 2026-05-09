@@ -4,10 +4,10 @@ description: Découvrez comment configurer la synchronisation d’objets personn
 title: Synchronisation de SFDC - Synchronisation d’objet personnalisé
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 2%
+source-wordcount: '311'
+ht-degree: 5%
 
 ---
 
@@ -65,9 +65,9 @@ Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent 
 
    >[!NOTE]
    >
-   >N’oubliez pas de réactiver votre synchronisation globale.
+   >N’oubliez pas de réactiver la synchronisation globale.
 
-1. Revenez à l’onglet **[!UICONTROL Salesforce]**.
+1. Revenez à l’onglet **&#x200B;**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -87,6 +87,6 @@ Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent 
 
 ### Et après ? {#whats-next}
 
-[Ajouter/supprimer un champ d’objet personnalisé en tant que liste dynamique/contraintes de déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[Ajouter/supprimer un champ d’objet personnalisé en tant que contraintes de liste intelligente/déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans les campagnes et listes intelligentes.
+Vous pouvez désormais utiliser les données de cet objet personnalisé dans les campagnes et listes intelligentes.

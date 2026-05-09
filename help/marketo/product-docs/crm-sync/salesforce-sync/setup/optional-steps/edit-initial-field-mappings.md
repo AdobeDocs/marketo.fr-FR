@@ -4,9 +4,9 @@ description: Découvrez comment modifier les mappages de champs initiaux avant l
 title: Modifier les mappages d’origine des champs
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '297'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Si vous avez des champs aux noms similaires sur le prospect et l’objet de cont
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Joli ! La synchronisation initiale est presque terminée.
+   La synchronisation initiale est presque terminée.
 
 ## Réinitialiser le schéma {#reset-schema}
 

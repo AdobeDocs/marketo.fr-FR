@@ -3,9 +3,9 @@ description: Découvrez comment envoyer votre message in-app. Créez un programm
 title: Envoyer votre message in-app
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---

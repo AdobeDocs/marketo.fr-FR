@@ -4,9 +4,9 @@ description: Découvrez comment prévisualiser une notification push sur Android
 title: Prévisualiser une notification push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '266'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Sur l’écran Verrouiller , il s’affiche à mi-chemin vers le bas.
 
 ![](assets/image2015-9-17-17-3a2-3a1.png)
 
-Sur l’écran Centre de notifications , il se trouve près du haut.
+Sur l’écran Centre de notifications , il se trouve près du haut,
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 

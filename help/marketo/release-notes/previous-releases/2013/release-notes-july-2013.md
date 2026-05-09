@@ -4,9 +4,9 @@ description: Notes De Mise À Jour - Juillet 2013 - Documents Marketo - Document
 title: Notes De Mise À Jour - Juillet 2013
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '205'
 ht-degree: 4%
 
 ---

@@ -4,10 +4,10 @@ description: Découvrez les versions du plug-in Marketo pour Microsoft Dynamics.
 title: Versions du plug-in Marketo pour  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 0%
+source-wordcount: '519'
+ht-degree: 14%
 
 ---
 
@@ -103,7 +103,7 @@ Lors de la première synchronisation avec [!DNL Microsoft Dynamics], vous télé
   <tr>
    <td>4.0.0.17</td>
    <td>4/8/16</td>
-   <td>Correction de bug : lorsque le filtre de synchronisation du prospect était défini sur NON et que l’opportunité et le contact n’avaient pas de filtre de synchronisation, le journal de création n’était pas généré pour le contact et l’opportunité lorsque le prospect était qualifié.</td>
+   <td>Correction de bug : lorsqu’un filtre de synchronisation était défini sur NON pour le prospect et que l’opportunité et le contact n’avaient pas de filtre de synchronisation, le journal de création n’était pas généré pour le contact et l’opportunité lorsque le prospect était qualifié.</td>
   </tr>
   <tr>
    <td>4.0.0.16</td>
@@ -113,7 +113,7 @@ Lors de la première synchronisation avec [!DNL Microsoft Dynamics], vous télé
   <tr>
    <td>4.0.0.15</td>
    <td>3/3/16</td>
-   <td>Correction de bug : le client ne pouvait pas créer de prospect dans CRM, car l’utilisateur connecté ne disposait pas de l’autorisation Configuration Marketo.</td>
+   <td>Correction de bug : le client n’a pas pu créer de prospect dans CRM, car l’utilisateur connecté ne disposait pas de l’autorisation Configuration Marketo .</td>
   </tr>
   <tr>
    <td colspan="1">4.0.0.14</td>

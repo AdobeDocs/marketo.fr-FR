@@ -4,10 +4,10 @@ description: Découvrez la connexion par e-mail pour les utilisateurs de Gmail d
 title: Connexion des e-mails pour les utilisateurs et utilisatrices Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 

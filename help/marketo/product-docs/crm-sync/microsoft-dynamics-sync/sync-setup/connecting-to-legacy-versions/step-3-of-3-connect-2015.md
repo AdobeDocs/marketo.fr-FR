@@ -4,9 +4,9 @@ description: Découvrez comment connecter Marketo à Dynamics 2015 On-premise à
 title: Installez Marketo for Microsoft Dynamics 2015 On-Premise Étape 3 sur 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 4%
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Sélectionnez **[!UICONTROL Microsoft]**.
+1. Sélectionnez **&#x200B;**.
 
    ![](assets/image2015-3-16-9-50-6.png)
 
@@ -42,7 +42,7 @@ ht-degree: 4%
 
    >[!CAUTION]
    >
-   >Assurez-vous que vos informations d’identification sont correctes, car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si des informations d’identification incorrectes sont enregistrées, vous devrez obtenir un nouvel abonnement Marketo.
+   >Vérifiez que vos informations d’identification sont correctes. Les modifications de schéma suivantes ne peuvent pas être annulées après l’envoi. Si des informations d’identification incorrectes sont enregistrées, un nouvel abonnement Marketo sera nécessaire.
 
 1. Saisissez le **[!UICONTROL Nom d’utilisateur]**, **[!UICONTROL Mot de passe]** un [!DNL Microsoft Dynamics] **URL** et un **[!UICONTROL Identifiant client]/[!UICONTROL Secret client]**. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
@@ -74,7 +74,7 @@ ht-degree: 4%
 
 ## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
-Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélectionner les nouveaux champs à synchroniser avec Marketo.
+Si vous avez créé un filtre personnalisé, accédez à et sélectionnez les nouveaux champs à synchroniser avec Marketo.
 
 1. Accédez à [!UICONTROL Admin] et sélectionnez **[!UICONTROL Microsoft Dynamics]**.
 

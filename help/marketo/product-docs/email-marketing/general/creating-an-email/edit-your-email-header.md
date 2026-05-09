@@ -4,9 +4,9 @@ description: Découvrez comment modifier l’en-tête de votre e-mail (à partir
 title: Modifier l’en-tête de votre e-mail
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '213'
 ht-degree: 3%
 
 ---

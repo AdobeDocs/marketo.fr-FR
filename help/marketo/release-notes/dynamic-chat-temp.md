@@ -3,12 +3,11 @@ description: Notes de mise à jour de Dynamic Chat - Documents Marketo - Docum
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
@@ -63,8 +62,8 @@ La solution de secours round-robin n’est pas déclenchée parce qu’un agent 
 
 Si aucun agent ni aucune agente ne s’engage :
 
-* le système affiche le calendrier de la première personne tentée (si activé),
-ou
+* Le système affiche le calendrier du premier agent essayé (s&#39;il est activé),
+-ou-
 * affiche le message de secours par défaut.
 
 _&#x200B;**Transmission du round-robin**&#x200B;_
@@ -93,8 +92,8 @@ Les règles de routage au niveau de la carte (personnalisée, d’équipe, à to
 
 * Si aucun engagement ne réussit, la logique de secours est appliquée :
 
-   * calendrier de secours (si activé),
-ou
+   * Calendrier de secours (si activé),
+-ou-
    * message par défaut.
 
 La solution de secours du round-robin n’est prise en compte que lorsqu’aucun agent ni aucune agente éligible n’est disponible dans la règle de transmission principale, et non lorsque des agentes et agents individuels ne répondent pas.

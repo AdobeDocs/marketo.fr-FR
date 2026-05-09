@@ -4,9 +4,9 @@ description: Découvrez comment utiliser la recherche rapide dans une liste ou u
 title: Utiliser la recherche rapide dans une liste ou une liste intelligente
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '153'
 ht-degree: 14%
 
 ---

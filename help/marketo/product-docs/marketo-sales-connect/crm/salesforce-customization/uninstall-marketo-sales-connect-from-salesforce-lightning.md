@@ -2,10 +2,10 @@
 description: Découvrez comment désinstaller Marketo Sales Connect à partir de Salesforce Lightning. Supprimez les personnalisations et les boutons Sales Connect de Lightning.
 title: Désinstaller Marketo Sales Connect de Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1199'
-ht-degree: 11%
+source-wordcount: '1202'
+ht-degree: 10%
 
 ---
 
@@ -183,7 +183,7 @@ Une fois que vous avez supprimé tous les objets de votre compte Salesforce, pro
 
 1. Cliquez sur **Supprimer** en regard de toutes les entrées « MarketoSalesConnectionCustomization » ou « MarketoSalesEngageCustomization » de votre liste.
 
-Tout est prêt !
+Tout est prêt !
 
 Voici une liste de tous les objets qui doivent être supprimés de votre instance Salesforce :
 
@@ -289,7 +289,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -299,7 +299,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -309,7 +309,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -319,7 +319,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -329,7 +329,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -339,7 +339,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -349,7 +349,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -359,7 +359,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Texte</td>
  </tr>
@@ -369,7 +369,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Données et temps</td>
  </tr>
@@ -379,7 +379,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
   <td>Case à cocher</td>
  </tr>
@@ -397,7 +397,7 @@ Voici une liste de tous les objets qui doivent être supprimés de votre instanc
   <td>
   <p>Compte
   <p>Contact
-  <p>Prospect
+  <p>Lead
   <p>Opportunité</td>
  </tr>
  <tr>

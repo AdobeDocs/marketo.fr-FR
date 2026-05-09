@@ -4,9 +4,9 @@ description: Découvrez comment ajouter un jeton système sous la forme d’un l
 title: Ajouter un jeton système en tant que lien dans un e-mail
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 9%
 
 ---

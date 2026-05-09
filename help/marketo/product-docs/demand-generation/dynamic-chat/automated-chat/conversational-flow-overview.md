@@ -3,9 +3,9 @@ description: Découvrez les flux de conversation et en quoi ils diffèrent des b
 title: Vue d’ensemble du flux conversationnel
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Bien que les boîtes de dialogue et les flux de conversation aient plusieurs sim
   </tr>
   <tr>
    <td>Les conversations du bot conversationnel sont alimentées par des boîtes de dialogue.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms de conversation</a> dans Marketo Engage est optimisé par les flux de conversation.</td>
+   <td>Forms de conversation</a> dans Marketo Engage est optimisé par les flux de conversation.<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank"></td>
   </tr>
  </tbody>
 </table>

@@ -4,9 +4,9 @@ description: Découvrez comment la synchronisation Microsoft Dynamics maintient 
 title: Présentation de la synchronisation Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '230'
 ht-degree: 20%
 
 ---
@@ -21,7 +21,7 @@ Marketo et [!DNL Microsoft Dynamics] vont de pair. Nous maintenons vos données 
 
 ## Fonctionnement de la synchronisation {#how-sync-works}
 
-Marketo synchronise les données avec [!DNL Microsoft Dynamics] en permanence, tous les jours et toute la journée. Cela s’effectue à l’aide de la synchronisation en arrière-plan, par lots, et non en temps réel.
+Marketo synchronise les données avec [!DNL Microsoft Dynamics] en permanence, tous les jours et toute la journée. Cette opération s’effectue à l’aide de la synchronisation en arrière-plan, par lots, et non en temps réel.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Découvrez les comptes nommés et la manière dont ils détiennent 
 title: Présentation du [!UICONTROL Compte nommé]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '254'
 ht-degree: 10%
 
 ---

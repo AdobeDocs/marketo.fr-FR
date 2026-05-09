@@ -4,7 +4,7 @@ description: Découvrez comment tester votre intégration d’événement ON24 a
 title: Tester votre intégration d’événement ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Tester votre intégration d’événement ON24 {#test-your-on-event-integration}
 
-Veillez à tester minutieusement votre intégration d’événement.
+Testez minutieusement l’intégration de votre événement.
 
 ## Séquence De Test Recommandée Avant L’Exécution De Votre Première Campagne {#recommended-test-sequence-before-running-your-first-campaign}
 
@@ -28,7 +28,7 @@ Veillez à tester minutieusement votre intégration d’événement.
 
 ## Après l’événement {#after-the-event}
 
-Voici comment les données sont mises à jour après que l’événement a lieu :
+La section suivante décrit la manière dont les données sont mises à jour après que l’événement a lieu :
 
 * Marketo récupère les données des participants d’ON24 toutes les nuits.
 * Une fois que les données du participant se synchronisent entre Marketo et ON24, Marketo met à jour le statut d’abonnement sur [!UICONTROL Terminé], [!UICONTROL Terminé à la demande] ou [!UICONTROL Aucun affichage]. Dans l’onglet **[!UICONTROL Résumé]** de l’événement, le statut de l’événement est mis à jour sur **[!UICONTROL Événement terminé]**.

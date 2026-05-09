@@ -3,9 +3,9 @@ description: Découvrez le tableau de bord de l’engagement des webinaires inte
 title: Tableau de bord des engagements
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1781'
+source-wordcount: '1783'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Le tableau de bord effectue le suivi de diverses mesures, notamment les réponse
 Affichez l’engagement pour les types de sessions suivants dans un webinaire interactif.
 
 * **Session en direct** : session en ligne en temps réel au cours de laquelle les participants peuvent interagir activement.
-* **Session à la demande** : l’enregistrement de l’événement en direct est disponible en tant qu’événement à lui seul. Les nouveaux invités peuvent s’inscrire et regarder l’enregistrement. Après l&#39;inscription, ils recevront un lien de jonction à l&#39;événement, qui les mènera à l&#39;enregistrement de l&#39;événement après sa fin. Les participants inscrits à l’événement en direct peuvent également visionner l’enregistrement en utilisant le même lien de jonction.
+* **Session à la demande** : l’enregistrement de l’événement en direct est disponible en tant qu’événement à lui seul. Les nouveaux invités peuvent s’inscrire et regarder l’enregistrement. Après l’enregistrement, ils recevront un lien de jonction de l’événement qui les mènera à l’enregistrement de l’événement une fois celui-ci terminé. Les participants inscrits à l’événement en direct peuvent également visionner l’enregistrement en utilisant le même lien de jonction.
 
 ## Afficher le tableau de bord {#view-the-dashboard}
 

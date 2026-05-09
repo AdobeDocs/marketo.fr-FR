@@ -4,10 +4,10 @@ description: Découvrez les jetons pour personnaliser les pages de destination d
 title: Vue d’ensemble des jetons
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 94%
+source-wordcount: '313'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ Un jeton est une variable qui peut être utilisée dans les étapes de flux de c
 
 ## Présentation des valeurs par défaut {#understanding-default-values}
 
-Lorsque vous utilisez un jeton, vous devez également fournir une valeur par défaut. Il s’agit du texte qui indique si une personne ne dispose pas d’une valeur pour le champ que vous référencez.
+Lorsque vous utilisez un jeton, vous devez également fournir une valeur par défaut. Il s’agit du texte qui s’affiche si une personne ne dispose pas d’une valeur pour le champ que vous référencez.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 

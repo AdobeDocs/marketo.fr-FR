@@ -2,13 +2,12 @@
 description: Découvrez si Sales Insight Actions est compatible avec Salesforce Lightning. Utilisez les actions de l’expérience Foudre.
 title: Est-ce qu’Actions des informations sur les ventes est compatible avec Salesforce Lightning ?
 hide: true
-hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 14%
+source-wordcount: '66'
+ht-degree: 12%
 
 ---
 

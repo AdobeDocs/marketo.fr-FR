@@ -2,9 +2,9 @@
 description: Découvrez la carte de l’engagement pour visualiser vos campagnes intelligentes. Utilisez-la pour afficher de manière intuitive les déclencheurs, les filtres et les étapes de flux dans Marketo.
 title: Vue d’ensemble de la carte d’engagement
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Non. La carte d’engagement est entièrement rétrocompatible. En cliquant sur 
 
 **Est-ce que l’utilisation de la carte d’engagement dans Marketo Engage signifie que je perdrai l’accès à la structure de dossiers et que je devrai réapprendre à créer une campagne intelligente ?**
 
-Non. L’avantage de la carte d’engagement est qu’elle vous offre le meilleur des deux mondes. Elle complète la manière dont vous créez actuellement des campagnes. Tous les utilisateurs disposeront toujours d’un puissant ensemble de fonctionnalités de Marketo Engage, désormais complété par des visuels clairs.
+Non. La carte de l’engagement vous offre le meilleur des deux mondes. Elle complète la façon dont vous créez actuellement les campagnes. Tous les utilisateurs disposeront toujours d’un puissant ensemble de fonctionnalités de Marketo Engage, désormais complété par des visuels clairs.
 
 **La carte d’engagement est-elle un module complémentaire payant ?**
 
@@ -85,7 +85,7 @@ Non. Tous les utilisateurs Marketo Engage nouveaux et existants, quel que soit l
 
 **En tant qu’administrateur Marketo Engage, suis-je responsable de l’activation/la désactivation de la carte d’engagement ?**
 
-Non. La carte de l’engagement sera disponible pour tous les utilisateurs dans leurs instances. Vous ne pourrez pas l’activer/désactiver pour certains utilisateurs, espaces de travail, etc.
+Non. La carte de l’engagement sera disponible pour tous les utilisateurs dans leurs instances. Vous ne pourrez pas l’activer ou le désactiver pour certains utilisateurs, espaces de travail, etc.
 
 **En quoi est-ce différent des autres concepteurs visuels ?**
 
@@ -93,7 +93,7 @@ Il existe trois éléments clés qui distinguent Engagement Map :
 
 * Flexibilité : gérez et validez facilement des campagnes interconnectées ou profondément imbriquées avec la visualisation.
 
-* Fonctionnalité : tous les visuels sont prêts à l’emploi, ce qui facilite leur utilisation. La structure imbriquée vous permet de vous plonger et d’obtenir une vue d’ensemble.
+* Fonctionnalité : tous les visuels sont prêts à l’emploi, ce qui facilite leur utilisation. La structure imbriquée vous permet d’explorer en profondeur et de voir l’image complète.
 
 * Puissance : Vous conservez toute la sophistication de Marketo Engage, désormais dans un format visuel.
 

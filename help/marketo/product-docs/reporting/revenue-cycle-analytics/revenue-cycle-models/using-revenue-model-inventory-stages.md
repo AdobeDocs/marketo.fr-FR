@@ -4,9 +4,9 @@ description: Découvrez comment utiliser les étapes d’inventaire des modèles
 title: Utilisation d’étapes d’inventaire du modèle de revenu
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '287'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Tous les prospects et comptes connus se trouvent initialement à l’étape d’
 
 >[!TIP]
 >
->C&#39;est une excellente idée de créer un modèle pratique dans un programme graphique ou de présentation et de le confirmer d&#39;abord avec vos collègues.
+>c&#39;est une excellente idée de créer un modèle pratique dans un programme graphique ou de présentation et de le confirmer d&#39;abord avec vos collègues.
 
 ## Ajouter Une Étape D’Inventaire {#add-an-inventory-stage}
 

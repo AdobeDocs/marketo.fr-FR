@@ -4,9 +4,9 @@ description: Découvrez comment utiliser les étapes du contrat de niveau de ser
 title: Utilisation d’étapes SLA du modèle de revenu
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ SLA signifie « service level agreement ». Ces étapes sont utilisées lorsqu�
 
 >[!TIP]
 >
->C&#39;est une excellente idée de créer un modèle pratique dans un programme graphique ou de présentation et de le confirmer avec vos collègues.
+>c&#39;est une excellente idée de créer un modèle pratique dans un programme graphique ou de présentation et de le confirmer avec vos collègues.
 
 ## Ajouter Une Étape SLA {#add-an-sla-stage}
 

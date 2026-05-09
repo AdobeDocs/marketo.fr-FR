@@ -4,10 +4,10 @@ description: Découvrez comment activer ou désactiver la synchronisation de la 
 title: Activer/désactiver la synchronisation des campagnes
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 8%
+source-wordcount: '85'
+ht-degree: 9%
 
 ---
 
@@ -31,7 +31,7 @@ Cette option permet à Marketo Engage de synchroniser l’appartenance à un pro
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-Voilà, c&#39;est fait. Il vous suffit de laisser le temps à la synchronisation d’extraire les données de Salesforce et tout est prêt.
+La synchronisation peut prendre un certain temps pour extraire les données de Salesforce.
 
 >[!MORELIKETHIS]
 >

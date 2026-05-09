@@ -4,9 +4,9 @@ description: Découvrez comment envoyer un exemple de notification push pour vé
 title: Envoyer un exemple de notification push
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 3%
 
 ---

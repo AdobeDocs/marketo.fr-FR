@@ -2,12 +2,11 @@
 description: Découvrez comment exécuter une action de flux unique à partir de la page des détails de la personne. Exécutez une étape de flux pour une personne à la demande.
 title: Actions de flux uniques à partir de la page des détails d’une personne
 hide: true
-hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 12%
 
 ---

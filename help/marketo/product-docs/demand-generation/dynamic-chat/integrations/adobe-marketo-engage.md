@@ -3,10 +3,10 @@ description: Découvrez comment connecter Dynamic Chat à votre abonnement Marke
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 2%
+source-wordcount: '314'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
 
 >[!NOTE]
 >
->Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs[&#x200B; personnalisés et &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}Marketo.
+>Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs[&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} personnalisés et Marketo.
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Dynamic Chat]**.
 
@@ -52,9 +52,9 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
 
 ## Ajouter un attribut {#add-an-attribute}
 
-Après la synchronisation initiale, voici comment ajouter des attributs supplémentaires.
+Après la synchronisation initiale, procédez comme suit pour ajouter des attributs supplémentaires.
 
-1. Dans **[!UICONTROL Intégrations]**, assurez-vous que l’onglet **[!UICONTROL Adobe Marketo Engage]** est sélectionné, puis cliquez sur **[!UICONTROL Ajouter un attribut]**.
+1. Dans **[!UICONTROL Intégrations]**, vérifiez que l’onglet **[!UICONTROL Adobe Marketo Engage]** est sélectionné, puis cliquez sur **[!UICONTROL Ajouter un attribut]**.
 
    ![](assets/adobe-marketo-engage-6.png)
 
@@ -68,13 +68,13 @@ Après la synchronisation initiale, voici comment ajouter des attributs supplém
 
 ## Supprimer un attribut {#remove-an-attribute}
 
-Après la synchronisation initiale, voici comment supprimer un attribut.
+Après la synchronisation initiale, procédez comme suit pour supprimer un attribut.
 
 >[!NOTE]
 >
 >L’option permettant de supprimer un attribut n’apparaît que s’il n’est actuellement utilisé par aucune boîte de dialogue.
 
-1. Dans **[!UICONTROL Intégrations]**, assurez-vous que l’onglet **[!UICONTROL Adobe Marketo Engage]** est sélectionné, puis cliquez sur l’attribut à supprimer.
+1. Dans **[!UICONTROL Intégrations]**, vérifiez que l’onglet **[!UICONTROL Adobe Marketo Engage]** est sélectionné, puis cliquez sur l’attribut à supprimer.
 
    ![](assets/adobe-marketo-engage-9.png)
 

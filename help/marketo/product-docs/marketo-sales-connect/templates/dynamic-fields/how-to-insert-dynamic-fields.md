@@ -4,9 +4,9 @@ description: Découvrez comment insérer des champs dynamiques dans les modèles
 title: Comment insérer des champs dynamiques
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '246'
 ht-degree: 4%
 
 ---

@@ -4,9 +4,9 @@ description: Découvrez l’activité anonyme et les personnes dans Marketo. Dé
 title: Présentation des activités et des personnes anonymes
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ La première fois qu’une personne visite une page de destination de Marketo (o
 Une activité **Anonyme** est créée lorsque quelqu’un :
 
 * Première visite de votre page de destination Marketo.
-* Visite une page de votre site qui a un [suivi Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+* Visite une page de votre site qui a un [suivi &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 * Clique sur le lien [Afficher en tant que page web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} dans un e-mail Marketo.
 
 >[!NOTE]

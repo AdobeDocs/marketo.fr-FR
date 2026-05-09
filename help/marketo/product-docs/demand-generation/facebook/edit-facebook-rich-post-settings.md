@@ -4,11 +4,10 @@ description: Découvrez comment modifier les paramètres des publications riches
 title: Modifier les paramètres de publication enrichie Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
-hidefromtoc: true
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '313'
 ht-degree: 1%
 
 ---

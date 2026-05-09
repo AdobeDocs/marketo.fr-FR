@@ -2,10 +2,10 @@
 description: Découvrez comment configurer un sandbox Sales Insight Actions pour les tests. Demandez la mise en service, activez votre instance et connectez-vous à Salesforce Sandbox.
 title: Configurer un sandbox d’Actions des informations sur les ventes
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 2%
+source-wordcount: '693'
+ht-degree: 3%
 
 ---
 
@@ -43,7 +43,7 @@ Une fois que les actions sont activées pour votre sandbox Marketo, vous devez s
 
    >[!IMPORTANT]
    >
-   >Une adresse e-mail ne peut être utilisée que pour une seule instance Actions à la fois sur les instances Sandbox et de Production. Si vous êtes un administrateur qui devra accéder à plusieurs instances dans Production et Sandbox, vous devez utiliser une adresse e-mail différente pour chacune d’elles.
+   >Une adresse e-mail ne peut être utilisée que pour une seule instance Actions à la fois sur les instances Sandbox et de Production. Si vous êtes un administrateur qui devra accéder à plusieurs instances de production et Sandbox, vous devez utiliser une adresse e-mail différente pour chacune d’elles.
 
 1. Dans la carte de mise en service, sélectionnez l’utilisateur que vous souhaitez inviter à rejoindre votre instance Sales Insight Actions.
 
@@ -83,7 +83,7 @@ Les actions nécessitent que vous activiez d’abord une nouvelle instance avec 
    >
    >Si vous rencontrez des problèmes à ce stade, vous pouvez demander une réinitialisation du mot de passe et utiliser un mot de passe pour récupérer l’accès à votre compte.
 
-Votre instance est maintenant prête à être utilisée avec votre instance Salesforce Sandbox. Si vous souhaitez utiliser la connexion automatique [Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} depuis Salesforce, vous pouvez revenir à « Salesforce uniquement » dans vos [paramètres de gestion des connexions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+Votre instance est maintenant prête à être utilisée avec votre instance Salesforce Sandbox. Si vous souhaitez utiliser la connexion automatique [&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} depuis Salesforce, vous pouvez revenir à « Salesforce uniquement » dans vos [paramètres de gestion des connexions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
 >[!NOTE]
 >

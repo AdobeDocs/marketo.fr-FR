@@ -3,9 +3,9 @@ description: Obtenez de l’aide sur la synchronisation des comptes de personne 
 title: Questions fréquentes sur la synchronisation d’un compte de personne
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '488'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ La synchronisation des champs liés aux contacts du compte de personne est bidir
 
 **Que se passe-t-il si des modifications sont apportées simultanément dans les deux systèmes aux champs Contact du compte de personne ?**
 
-Nous serions gentils et laisserions [!DNL Veeva] CRM gagner. Il est toutefois rare que ce type de collision de données se produise.
+[!DNL Veeva] CRM gagne. Il est toutefois rare que ce type de collision de données se produise.
 
 **Les enregistrements de type Lead ou Contact sont-ils synchronisés avec [!DNL Veeva] CRM ?**
 
@@ -68,7 +68,7 @@ Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés
 >
 >Marketo synchronise uniquement les champs auxquels l’utilisateur de synchronisation Marketo a accès.
 
-**Marketo respectera-t-il les règles de validation [!DNL Veeva] ?**
+Marketo respectera-t-il les règles de validation [!DNL Veeva] ?**&#x200B;**
 
 Oui, en cas de conflit, nous consignerons le résultat dans le journal d’activité du prospect.
 

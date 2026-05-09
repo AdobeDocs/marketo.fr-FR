@@ -4,7 +4,7 @@ description: Découvrez comment fonctionne la synchronisation des prospects entr
 title: Synchronisation Microsoft Dynamics - Synchronisation des leads
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Synchronisation des [!DNL Microsoft Dynamics] : synchronisation des leads {#microsoft-dynamics-sync-lead-sync}
 
-La synchronisation de Marketo vers [!DNL Dynamics] est très puissante. Voici les détails :
+La synchronisation de Marketo vers [!DNL Dynamics] est puissante. Voici les détails :
 
 ## Comment les détails sont-ils synchronisés entre les deux systèmes ? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ La synchronisation est bidirectionnelle. Si vous apportez des modifications à u
 
 ## Que faire si des modifications sont apportées simultanément au même champ dans les deux systèmes ? (Collision de données) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Bien que cela soit rare, Marketo gagnera pour les personnes (prospects) et [!DNL Dynamics] gagnera pour les contacts. En effet, nous considérons que le service marketing fait autorité pour les personnes, alors que le système officiel d’enregistrement des contacts se trouve dans le service des ventes (CRM).
+Bien que cela soit rare, Marketo gagnera pour les personnes (prospects) et [!DNL Dynamics] gagnera pour les contacts. Cela est dû au fait que le service marketing est considéré comme faisant autorité pour les personnes, alors que le système officiel d’enregistrement des contacts se trouve dans le service des ventes (CRM).
 
 ## Puis-je créer un prospect dans [!DNL Dynamics] à l’aide de Marketo ? {#can-i-create-a-lead-in-dynamics-using-marketo}
 

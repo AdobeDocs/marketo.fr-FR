@@ -4,9 +4,9 @@ description: Découvrez comment annuler l’approbation d’un titre pour le con
 title: Annuler l’approbation d’un titre pour le contenu prédictif
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '159'
 ht-degree: 3%
 
 ---

@@ -4,10 +4,10 @@ short-description: Découvrez les termes de Marketo Engage et leurs définition
 title: Glossaire Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '4065'
-ht-degree: 100%
+source-wordcount: '4187'
+ht-degree: 92%
 
 ---
 
@@ -25,11 +25,11 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
  <tbody>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Tests A/B</a></strong></td>
-   <td colspan="1">Ils vous permettent de modifier des composants de votre e-mail (par exemple, l’objet, l’adresse de l’expéditeur ou de l’expéditrice, etc.) et de définir des critères de test pour déterminer quel jeu de contenu s’avère le plus performant.</td>
+   <td colspan="1">Permet de modifier des composants de votre e-mail (par exemple, l’objet, l’adresse d’expédition, etc.) et définissez des critères de test pour déterminer quel jeu de contenu s’avère le plus performant.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Compte</strong></td>
-   <td colspan="1">Ce terme peut avoir différentes significations :<br>- Votre instance Marketo elle-même peut être désignée comme votre compte Marketo.<br>- Dans <strong>TAM</strong>, un <strong>Compte nommé</strong> est un compte que la personne a déterminé comme étant un compte cible qu’elle souhaite rechercher.<br>- Dans TAM, un compte CRM est un compte mappé à partir de votre <strong>CRM</strong> lié (compte dans <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> ou <strong>API</strong>).<br>- Dans votre CRM, les comptes sont l’entreprise/la société à laquelle les leads et les contacts sont associés.</td>
+   <td colspan="1">Ce terme peut avoir différentes significations :<br>-Votre instance Marketo elle-même peut être appelée votre compte Marketo.<br>-Dans <strong>TAM</strong>, un <strong>Compte nommé</strong> est un compte que l’utilisateur a déterminé comme étant un compte cible qu’il souhaite rechercher.<br>-Dans TAM, un compte CRM est un compte mappé à partir de votre <strong>CRM</strong> lié (compte dans <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> ou <strong>API</strong>).<br>-Dans votre CRM, les comptes sont l’entreprise/la société à laquelle les prospects et les contacts sont associés.</td>
   </tr>
   <tr>
    <td><strong>Liste de comptes</strong></td>
@@ -41,7 +41,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Score du compte</a></strong></td>
-   <td colspan="1">Dans <strong>TAM</strong>, il s’agit d’un score affecté à un compte pour vous aider à déterminer son niveau d’engagement.</td>
+   <td colspan="1">Dans <strong>TAM</strong>, il s’agit d’un score attribué à un compte pour vous aider à déterminer son niveau d’engagement.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Date d’acquisition</strong></td>
@@ -241,7 +241,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
     <div>
      <p><strong> Programme par défaut</strong></p>
     </div></td>
-   <td colspan="1">Type de programme dans Marketo. Programme générique que vous utiliserez lorsqu’un programme d’e-mail, d’événement ou d’engagement n’est pas pertinent. <br></td>
+   <td colspan="1">Type de programme dans Marketo. Programme générique que vous utiliserez lorsqu’un e-mail, un événement ou un programme d’engagement n’est pas pertinent. <br></td>
   </tr>
   <tr>
    <td colspan="1"><strong>Délivrabilité</strong></td>
@@ -261,7 +261,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong>Docs</strong></td>
-   <td colspan="1">Forme abrégée de documents, les docs sont des articles d’aide permettant aux clientes et clients de mieux comprendre le produit. Marketo comporte différents types de docs : docs de Produit (le site sur lequel vous vous trouvez actuellement), docs de <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home" rel="nofollow">Développement</a> et docs de <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a>.</td>
+   <td colspan="1">Forme abrégée de documents, les docs sont des articles d’aide permettant aux clientes et clients de mieux comprendre le produit. Marketo comporte plusieurs types de documents : documents sur le produit (le site sur lequel vous vous trouvez actuellement), documents <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home" rel="nofollow">développeur</a> et documents <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">support</a>.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td>
@@ -285,7 +285,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Contenu dynamique</a></strong></td>
-   <td colspan="1">Contenu (images, fragments de code, texte, etc.) inclus dans un <strong>e-mail</strong> ou une <strong>page de destination</strong> selon les critères que vous spécifiez, ce qui vous permet de personnaliser l’expérience pour le lecteur ou la lectrice. </td>
+   <td colspan="1">Contenu (images, fragments de code, texte, etc.) qui est renseignée dans un <strong>e-mail</strong> ou une <strong>page de destination</strong> en fonction des critères que vous spécifiez, ce qui vous permet de personnaliser l’expérience pour le lecteur ou la lectrice. </td>
   </tr>
  </tbody>
 </table>
@@ -429,7 +429,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Moment intéressant</strong></a></td>
-   <td><p>Dans les <strong>informations sur les ventes Marketo</strong>, une occurrence que vous jugez particulièrement pertinente (par exemple, lorsqu’une personne visite une page spécifique de votre site, clique sur un lien particulier dans un e-mail, etc.) et dont vous souhaitez informer votre équipe des ventes.</p></td>
+   <td><p>Dans <strong>Marketo Sales Insight</strong>, une occurrence que vous jugez particulièrement pertinente (par exemple, lorsqu’une personne visite une page spécifique de votre site, clique sur un lien particulier dans un e-mail, etc.) que vous souhaitez que votre équipe commerciale connaisse.</p></td>
   </tr>
  </tbody>
 </table>
@@ -470,7 +470,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong>Lead</strong></td>
-   <td>Dans <strong>Adobe Marketo Engage</strong>, lead était le terme précédent (remplacé par <strong>personne</strong>) utilisé pour décrire une personne présente dans votre <strong>base de données</strong> Marketo avec laquelle vous interagissez dans le cadre de vos campagnes marketing. Dans votre <strong>CRM</strong>, un lead peut représenter un concept différent (c’est-à-dire une personne associée à une <strong>opportunité</strong>), sans rapport avec le fonctionnement de Marketo.</td>
+   <td>Dans <strong></strong>, le prospect est le terme précédent (remplacé par <strong>personne</strong>) utilisé pour décrire un individu dans votre base de données Marketo <strong>base de données</strong> avec lequel vous interagissez dans le cadre de vos campagnes marketing. Dans votre <strong>CRM</strong>, un lead peut représenter un concept différent (c’est-à-dire une personne associée à une <strong>opportunité</strong>), sans rapport avec le fonctionnement de Marketo.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Base de données des leads</strong></td>
@@ -481,7 +481,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
     <div>
      <p><strong> Liste</strong></p>
     </div></td>
-   <td colspan="1">Un ensemble de personnes. Dans Marketo, il existe des listes intelligentes et des listes statiques. Une <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">liste intelligente</a> est une liste dynamique de personnes qui peut changer en permanence, car elle est basée sur des filtres que vous définissez (par exemple, toutes les personnes de votre base de données qui vivent en Californie). Lorsque de nouvelles personnes répondent aux critères (ou que des personnes existantes ne répondent plus aux critères), la liste est modifiée. Une <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">liste statique</a> est, tout simplement, statique. Elle n’est modifiée que si vous ajoutez/supprimez manuellement une personne.</td>
+   <td colspan="1">Un ensemble de personnes. Dans Marketo, il existe des listes intelligentes et des listes statiques. Une <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">liste dynamique</a> est une liste dynamique de personnes qui peuvent changer en permanence, car elle repose sur les filtres que vous définissez (par exemple, toutes les personnes de votre base de données qui vivent en Californie). Lorsque de nouvelles personnes répondent aux critères (ou que des personnes existantes ne répondent plus aux critères), la liste est modifiée. Une <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">liste statique</a> est, tout simplement, statique. Elle n’est modifiée que si vous ajoutez/supprimez manuellement une personne.</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Ressources locales</strong></a></td>
@@ -624,7 +624,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong>Personne</strong></td>
-   <td>Personne dans votre <strong>base de données</strong> Marketo avec laquelle vous interagissez par le biais de campagnes marketing.</td>
+   <td>Un individu de votre base de données Marketo <strong>database</strong> avec lequel vous interagissez par le biais de campagnes marketing.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">Partition de personnes</a></strong></td>
@@ -728,7 +728,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">Segmentation</a></strong></td>
-   <td colspan="1">Regroupement de personnes dans votre <strong>base de données</strong> en fonction d’une règle de <strong>liste intelligente</strong> que vous désignez. Par exemple, vous pouvez avoir une segmentation appelée Secteur, et les catégories qu’elle contient peuvent être : Santé, Technologie, Financier, etc. La segmentation vous permet de commercialiser auprès de groupes entiers de personnes en fonction d’une démographie choisie.</td>
+   <td colspan="1">Regroupement de personnes dans votre <strong>base de données</strong> en fonction d’une règle de <strong>liste intelligente</strong> que vous désignez. Par exemple, vous pouvez avoir une segmentation appelée Secteur, et les catégories qu’elle contient peuvent être : Santé, Technologie, Financier, etc. La segmentation vous permet de commercialiser à des groupes entiers de personnes en fonction d’une démographie choisie.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Sender Policy Framework</a> (SPF)</strong></td>

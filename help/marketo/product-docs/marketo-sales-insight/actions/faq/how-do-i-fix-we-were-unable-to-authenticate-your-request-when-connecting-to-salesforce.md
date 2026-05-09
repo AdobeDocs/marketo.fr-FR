@@ -3,16 +3,16 @@ description: Correction des erreurs d’authentification lors de la connexion de
 title: Comment résoudre le problème « Nous n’avons pas pu authentifier votre demande » lors de la connexion à Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
 # Comment résoudre le problème « Nous n’avons pas pu authentifier votre demande » lors de la connexion à [!DNL Salesforce] {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Si vous tentez de connecter votre instance de vente Marketo à Salesforce et que l’erreur « Nous ne parvenons pas à authentifier votre demande » s’affiche, cela est probablement lié à la configuration de votre instance Salesforce.
+Si vous tentez de connecter votre instance de vente Marketo à Salesforce et que l’erreur « Nous ne parvenons pas à authentifier votre demande » s’affiche, elle est probablement liée à la configuration de votre instance Salesforce.
 
 Deux types d’erreurs peuvent générer cette page d’authentification ayant échoué.
 

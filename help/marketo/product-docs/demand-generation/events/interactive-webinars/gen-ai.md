@@ -3,9 +3,9 @@ description: Découvrez les fonctionnalités de GenAI dans les webinaires intera
 title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ Générez automatiquement des chapitres et des résumés pour vos webinaires enr
 
 * **Contenu modifiable** : modifiez les chapitres et les résumés générés si vous le souhaitez, à l’aide des fonctionnalités de modification manuelle et optimisée par l’IA.
 
-* **Intégration facile** : ajoutez facilement des chapitres et des résumés à vos pages de destination en copiant le code HTML dans l’éditeur de page web de votre choix.
+* **Intégration transparente** : ajoutez des chapitres et des résumés à vos pages de destination en copiant le code HTML dans l’éditeur de page web de votre choix.
 
 ## Activer GenAI {#enable-genai}
 
 >[!PREREQUISITES]
 >
->Avant d’utiliser ces fonctionnalités, vous devez d’abord accepter les conditions générales d’Adobe GenAI. Si vous ne l’avez pas encore fait, contactez l’équipe chargée de votre compte Adobe (votre gestionnaire de compte) pour plus d’informations.
+>Avant d’utiliser ces fonctionnalités, vous devez d’abord accepter les conditions générales d’Adobe GenAI. Si vous ne l’avez pas encore fait, contactez l’équipe du compte Adobe (votre gestionnaire de compte) pour plus d’informations.
 
 Après avoir accepté les conditions générales d’Adobe GenAI, l’étape suivante consiste à les activer pour les utilisateurs individuels. Pour ce faire, accédez à **[!UICONTROL Admin]** > **[!UICONTROL Webinaires interactifs]** et sélectionnez les utilisateurs qui doivent avoir accès à GenAI.
 

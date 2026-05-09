@@ -4,9 +4,9 @@ description: Trouvez des réponses aux questions fréquentes sur les Insights su
 title: Questions fréquentes sur Email Insights
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '636'
 ht-degree: 1%
 
 ---

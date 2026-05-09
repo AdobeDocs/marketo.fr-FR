@@ -2,10 +2,10 @@
 description: Découvrez comment connecter Outlook aux actions Sales Insight. Envoyez et suivez les e-mails de vente à partir d'Outlook avec l'intégration Actions.
 title: Se connecter à Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 4%
+source-wordcount: '577'
+ht-degree: 3%
 
 ---
 

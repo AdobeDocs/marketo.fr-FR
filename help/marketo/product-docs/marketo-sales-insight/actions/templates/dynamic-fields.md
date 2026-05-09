@@ -3,9 +3,9 @@ description: En savoir plus sur les champs dynamiques dans les modèles d’acti
 title: Champs dynamiques
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '554'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ Cet outil est utilisé pour `auto-personalize your email` et vous faire gagner d
 * La différence entre `{{company}}` et `{{company_friendly}}` est que `{{company_friendly}}` supprimera tout titre formel, tel que Inc., LLC., etc., du nom de la société de votre contact.
 * Lorsque vous utilisez `{{company_friendly}}`, veillez à séparer Inc. ou Co. par une virgule dans les coordonnées. C’est ainsi que [!DNL Sales Insight Actions] savez quoi supprimer lors de l’extraction de la valeur.
 * Nous vous permettons de personnaliser vos modèles d’e-mail avec des attributs prédéfinis tels que `{{my_name}}` ou `{{my_title}}`. Ces champs vous permettent de vous référencer rapidement dans vos modèles d’e-mail.
-* Le système ajoute automatiquement la signature de l’utilisateur à chaque e-mail envoyé. Si l’utilisateur utilise un modèle avec le champ dynamique `{{my_signature}}`, le système renseigne la signature dans laquelle le champ dynamique `{{my_signature}}` a été placé. On ne l&#39;ajoute que pour éviter le dédoublement. Le système `{{team_unsubscribe}}` gère de la même manière lorsque le paramètre de désabonnement d’ajout global est activé.
+* Le système ajoute automatiquement la signature de l’utilisateur à chaque e-mail envoyé. Si l’utilisateur utilise un modèle avec le champ dynamique `{{my_signature}}`, le système renseigne la signature dans laquelle le champ dynamique `{{my_signature}}` a été placé. Il est uniquement ajouté ici afin d’éviter les doublons. Le système `{{team_unsubscribe}}` gère de la même manière lorsque le paramètre de désabonnement d’ajout global est activé.
 
 >[!TIP]
 >

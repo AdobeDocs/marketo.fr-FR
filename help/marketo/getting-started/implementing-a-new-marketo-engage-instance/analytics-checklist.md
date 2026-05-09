@@ -3,14 +3,14 @@ description: Configurez la section Analytics pour votre nouvelle instance Market
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle Analytics
 feature: Getting Started
 exl-id: ddbb9bc7-d06a-4a2e-a560-9d308630ae3f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1393'
-ht-degree: 1%
+source-wordcount: '1869'
+ht-degree: 3%
 
 ---
 
-# Bonnes pratiques relatives aux nouvelles instances : liste de contrôle d’Analytics {#new-instance-best-practices-analytics-checklist}
+# Bonnes pratiques relatives à une nouvelle instance : liste de contrôle d’analyse {#new-instance-best-practices-analytics-checklist}
 
 La section Analytics propose des rapports globaux qui analysent la performance de vos efforts marketing. Découvrez les étapes nécessaires pour y accéder.
 
@@ -93,11 +93,11 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <td>Rapport des performances des e-mails</td>
     <td><li>Créez des rapports globaux, Workspace/au niveau de l’unité opérationnelle avec les e-mails corrects sélectionnés.</li>
     <li>Créez un rapport local sur les performances des e-mails dans tous vos modèles de programme clonables.</li>
-    <li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame">Utilisez un délai approprié</a> (par exemple, YTD, 90 derniers jours, etc.) pour que le rapport fournisse une vue précise de l’engagement des e-mails standard et des mesures de délivrabilité.</li>
+    <li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame">Utilisez un délai approprié</a> (par exemple, YTD, last 90 days, etc.) pour que le rapport fournisse une vue précise des mesures d’engagement et de délivrabilité des e-mails standard.</li>
     <p><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">Activez le filtrage 'Activité des robots' dans <strong>Admin &gt; E-mail</strong></a> pour éviter la journalisation ou déterminer si celle-ci est activée pour les activités des robots. Incluez le filtre pour autoriser uniquement les activités <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">Ouvertes/ayant fait l’objet d’un clic avec la contrainte « Est une activité de robot » définie sur « False »</a> dans la liste dynamique de vos rapports globaux pouvant être clonés.</td>
   </tr>
   <tr>
-    <td>Rapport sur les performances des personnes</td>
+    <td>Rapport de performances des personnes</td>
     <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : il est recommandé d’adopter une stratégie <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">canal et balises)</a> appropriée pour chaque implémentation de Marketo Engage avant de pouvoir suivre les personnes acquises et le retour sur investissement de vos investissements marketing par canal.
     <p>
     <li>Déterminez les critères que vous utiliserez pour mesurer les performances de vos programmes d’acquisition de prospects et créer vos rapports standard temporels (année en cours, vue des 12 derniers mois variable ou 180 derniers jours) en fonction de ces mesures : <ul><li>Programme d’acquisition : programme Marketo Engage crédité pour l’acquisition de la personne.</li>
@@ -108,7 +108,7 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <p><img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : créez des listes dynamiques pour les colonnes personnalisées que vous souhaitez ajouter au rapport Performances des personnes dans la base de données au lieu des activités marketing afin de voir correctement et clairement le nom de la liste dynamique lorsqu’il est sélectionné dans le rapport.</td>
   </tr>
   <tr>
-    <td>Rapport sur l'exécution du programme</td>
+    <td>Rapport de performances du programme</td>
     <td><p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : ce rapport nécessite que vos canaux, statuts de progression et étapes de succès soient définis dans <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/tags/create-a-program-channel"><strong>Admin</strong> &gt; <strong>Balises</strong></a>.
     <p>
     <li><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Mesurez l’efficacité de vos tactiques marketing</a> dans le cadre de programmes sélectifs.</li>
@@ -119,12 +119,12 @@ Identifiez les rapports qui doivent être partagés avec différents groupes d�
     <img src="assets/tip-icon.png" alt="icône de note"> CONSEIL : pour agréger et afficher les listes <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">importées</a> dans les rapports de performance du programme, assurez-vous que vos équipes sélectionnent le programme d’acquisition approprié pour le balisage. Pensez à <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">créer un programme par défaut</a> à sélectionner comme programme d’acquisition lorsque les listes importées ne s’appliquent à aucun canal. Cela permet de s’assurer qu’une personne importée dispose d’un programme d’acquisition valide lié à la source, à l’unité opérationnelle, au canal, etc., au lieu d’une valeur vide.</td>
   </tr>
   <tr>
-    <td>Rapport sur les performances des pages de destination</td>
+    <td>Rapport de performances de la page de destination</td>
     <td><li>Créez le <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">Rapport de performances sur les pages de destination</a> sous la forme d’un rapport global afin de <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report">filtrer et passer en revue les chiffres</a> de toutes vos pages de destination Design Studio/Activités marketing au même endroit.</li>
     <li>Pour les programmes dotés de page(s) de destination, pensez à <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">créer un rapport local dédié dans le modèle de programme</a> afin que vous puissiez examiner les performances au niveau du programme.</li></td>
   </tr>
   <tr>
-    <td>Rapport d’activité de la page web</td>
+    <td>Rapport d’activité de page web</td>
     <td><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : seules les pages web (pages de destination externes et Marketo) pour lesquelles le <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">JavaScript Munchkin</a> est activé seront suivies dans ce rapport. Pensez à placer le code JavaScript dans la plateforme Tag Management, par exemple dans le <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Gestionnaire de balises Google</a>, pour éviter de le coder en dur sur chaque page web.
     <p>
     <li>Créez le <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report">Rapport d’activité de la page web</a> en tant que rapport global afin de pouvoir consulter les numéros de toutes vos pages web au même endroit. Notez que les activités de vos pages web externes ne sont reflétées que dans les rapports Activité des pages web .</li></td>
@@ -145,7 +145,7 @@ Il est préférable de déployer certains rapports Marketo Engage en tant que re
 </thead>
 <tbody>
   <tr>
-    <td>Rapport sur les performances des liens d’e-mail</td>
+    <td>Rapport sur les performances des liens dans les e-mails</td>
     <td><li>Créez un <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report" target="_blank">Rapport de performances des liens d’e-mail</a> dans les programmes qui envoient des e-mails et vos campagnes drip pour obtenir des informations sur les liens sur lesquels les personnes cliquent dans votre e-mail envoyé.</li></td>
   </tr>
   <tr>

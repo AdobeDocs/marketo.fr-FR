@@ -3,9 +3,9 @@ description: Découvrez la gestion des salles pour les webinaires interactifs. C
 title: Gestion des salles
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---

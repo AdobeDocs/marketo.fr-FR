@@ -4,9 +4,9 @@ description: Découvrez la priorité, l’urgence, le score relatif et les meill
 title: Priorité, urgence, score relatif et meilleurs choix
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Elles sont dérivées du score du prospect, une mesure de l’intérêt de la pe
 
 ## Urgence {#urgency}
 
-Les flammes représentent l&#39;urgence — à quel point le score de cette personne a changé récemment. Une urgence élevée (plus de flammes) signifie que le score de ce prospect a augmenté par lots dernièrement ; c&#39;est un bon signe que ce prospect s&#39;intéresse à votre offre. Vous devriez faire un suivi rapide auprès de cette personne !
+Les flammes représentent l&#39;urgence — à quel point le score de cette personne a changé récemment. Une urgence élevée (plus de flammes) signifie que le score de ce prospect a augmenté par lots dernièrement ; c’est un bon signe que ce prospect s’intéresse à votre offre. Vous devriez faire un suivi rapide auprès de cette personne !
 
 Par exemple, un prospect qui a demandé une démonstration et visité plusieurs pages web aura probablement un degré d’urgence très élevé. Un prospect qui n’a pas consulté votre page web ou ouvert vos e-mails présente une faible urgence. Utilisez l’urgence pour établir la priorité des personnes à contacter ensuite.
 

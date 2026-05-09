@@ -4,9 +4,9 @@ description: Découvrez comment activer ou désactiver la balise JavaScript rtp 
 title: Activation ou désactivation de la balise JavaScript RTP
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 9%
 
 ---
@@ -17,7 +17,7 @@ La balise RTP JavaScript contrôle si Web Personalization suit ou non l’activi
 
 >[!NOTE]
 >
->**Il n’est pas nécessaire de supprimer la balise du code HTML de votre site web.** le contrôler via [!UICONTROL &#x200B; Paramètres du compte &#x200B;].
+>**il n’est pas nécessaire de supprimer la balise du code html de votre site web.** Contrôlez-le via [!UICONTROL Paramètres du compte].
 
 ## Activer ou désactiver la balise {#enable-or-disable-the-tag}
 

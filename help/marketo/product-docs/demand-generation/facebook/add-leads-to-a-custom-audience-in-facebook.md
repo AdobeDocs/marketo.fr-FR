@@ -4,16 +4,16 @@ description: Découvrez comment ajouter des prospects à une audience personnali
 title: Ajouter des leads à une audience personnalisée dans Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '165'
+ht-degree: 4%
 
 ---
 
 # Ajout de leads à une audience personnalisée dans [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Vous avez déjà une audience personnalisée en [!DNL Facebook] et vous souhaitez y ajouter d’autres prospects ? Voici comment faire.
+Pour ajouter des prospects à une audience personnalisée existante, procédez comme suit.
 
 >[!PREREQUISITES]
 >
@@ -46,7 +46,7 @@ Vous avez déjà une audience personnalisée en [!DNL Facebook] et vous souhaite
 
    ![](assets/five-1.png)
 
-   C&#39;est tout !
+   Le processus est terminé.
 
    >[!NOTE]
    >

@@ -3,9 +3,9 @@ description: Découvrez comment activer les autorisations de l’IA dédiée à 
 title: Paramètres et configuration
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '558'
 ht-degree: 4%
 
 ---

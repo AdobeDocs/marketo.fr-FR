@@ -3,9 +3,9 @@ description: Découvrez comment gérer les modèles d’e-mail dans les actions 
 title: Gérer les modèles
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/manage-templates-3.png)
 
-1. Dans l’éditeur de modèles, créez une ligne d’objet pour votre e-mail et saisissez le message souhaité. Utilisez les outils d’édition (police, taille du texte, etc.) pour personnaliser l’aspect. Cliquez sur **[!UICONTROL Enregistrer]** pour finaliser vos modifications.
+1. Dans l’éditeur de modèles, créez une ligne d’objet pour votre e-mail et saisissez le message souhaité. Utiliser les outils d&#39;édition (police, taille du texte, etc.) pour personnaliser l’apparence. Cliquez sur **[!UICONTROL Enregistrer]** pour finaliser vos modifications.
 
    ![](assets/manage-templates-4.png)
 
@@ -61,7 +61,7 @@ La zone Détails du modèle contient plusieurs onglets.
 
 ## Partage d’un modèle {#share-a-template}
 
-Si vous utilisez l&#39;un de nos comptes d&#39;équipe, tous vos modèles restent privés par défaut.
+Si vous utilisez l’un des comptes de notre équipe, tous vos modèles restent privés par défaut.
 
 1. Accédez à l’onglet **[!UICONTROL Modèles]**.
 
@@ -99,7 +99,7 @@ Vous pouvez ajouter des modèles de n’importe quelle catégorie à votre liste
 
    ![](assets/manage-templates-11.png)
 
-   Une fois qu&#39;elle sera mise en favori, l&#39;étoile restera.
+   Une fois qu&#39;elle aura été mise en favori, l&#39;étoile restera.
 
    ![](assets/manage-templates-12.png)
 

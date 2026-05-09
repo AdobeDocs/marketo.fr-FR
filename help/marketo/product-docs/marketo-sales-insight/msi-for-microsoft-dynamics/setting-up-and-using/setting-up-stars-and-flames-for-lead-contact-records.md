@@ -4,9 +4,9 @@ description: Découvrez comment configurer des étoiles et des flammes pour les 
 title: Configurer les étoiles et les flammes pour les enregistrements des leads/contacts
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '199'
 ht-degree: 9%
 
 ---

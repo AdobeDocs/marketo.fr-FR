@@ -4,9 +4,9 @@ description: Découvrez les éléments à configurer avant de créer des message
 title: Avant de créer des notifications push et des messages in-app
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '417'
 ht-degree: 4%
 
 ---
@@ -29,7 +29,7 @@ La création de notifications push et de messages in-app n’est pas difficile, 
 
 >[!TIP]
 >
->Il est facile pour un administrateur Marketo de vérifier si votre configuration push est vérifiée. Allez [ici](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md).
+>il est facile pour un administrateur Marketo de vérifier si votre configuration push est vérifiée. Allez [ici](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md).
 
 ## Événements personnalisés pour les messages In-App {#custom-events-for-in-app-messages}
 

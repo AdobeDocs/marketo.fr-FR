@@ -6,10 +6,10 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1295'
-ht-degree: 45%
+source-wordcount: '1342'
+ht-degree: 40%
 
 ---
 
@@ -88,7 +88,7 @@ Le convertisseur d’images en HTML est idéal pour :
 **Avant de commencer**
 
 * **Enregistrez le contenu existant** : la conversion d’une image en HTML remplacera tout le contenu existant de votre e-mail. Enregistrez toujours votre travail actuel avant d’utiliser cette fonctionnalité.
-* **Planifiez votre workflow** : utilisez le convertisseur d’images en HTML au début du processus de création d’e-mail ou assurez-vous que vous souhaitez remplacer tout le contenu actuel.
+* **Planifier votre workflow** : utilisez le convertisseur image vers HTML au début du processus de création d’e-mail ou assurez-vous que vous êtes prêt à remplacer tout le contenu actuel.
 
 **Préparation des images**
 
@@ -112,7 +112,7 @@ Le convertisseur d’images en HTML est idéal pour :
 * **Tester minutieusement** : tester l’e-mail sur différents clients de messagerie et appareils. Pour des résultats plus rapides, tirez parti de l’intégration [Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 * **Affiner manuellement** : effectuez les ajustements nécessaires à l’aide des fonctionnalités d’édition complète du Designer Email.
 * **Alignement de la marque** : vérifiez que les couleurs, les polices et le style correspondent à vos directives de marque.
-* **Personalization** : ajoutez du contenu dynamique et des jetons de personnalisation selon vos besoins.
+* **&#x200B;**&#x200B;: ajoutez du contenu dynamique et des jetons de personnalisation selon vos besoins.
 * **Accessibilité** : passez en revue et améliorez les fonctionnalités d’accessibilité si nécessaire.
 
 ## Limitations et considérations {#limitations}
@@ -137,7 +137,7 @@ Gardez à l’esprit les restrictions suivantes lorsque vous utilisez le convert
 
 +++Qu’advient-il du contenu existant de mon e-mail lorsque j’utilise le convertisseur d’images en HTML ?
 
-Tout le contenu existant de votre e-mail est supprimé et remplacé par le modèle nouvellement généré lorsque vous chargez une image pour la convertir. Assurez-vous d’enregistrer tout contenu important avant d’utiliser cette fonctionnalité. Il est préférable d’utiliser le convertisseur d’images en HTML au début de votre tâche de création d’e-mail.
+Tout le contenu existant de votre e-mail est supprimé et remplacé par le modèle nouvellement généré lorsque vous chargez une image pour la convertir. Assurez-vous d’enregistrer tout contenu important avant d’utiliser cette fonctionnalité. Il est préférable d’utiliser le convertisseur image vers HTML au début de votre processus de création d’e-mail.
 
 +++
 

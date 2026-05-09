@@ -4,10 +4,10 @@ description: Découvrez comment ajouter SSL à vos pages de destination Marketo.
 title: Ajouter SSL à vos pages de destination
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 2%
+source-wordcount: '875'
+ht-degree: 14%
 
 ---
 
@@ -21,7 +21,7 @@ Par défaut, Marketo Engage effectue le suivi de la « Page web visitée » et d
 
 >[!IMPORTANT]
 >
->Avant d’ajouter un protocole SSL, vérifiez le nombre total de domaines autorisés dans votre contrat. Dans le cas contraire, des frais peuvent être encourus. Si vous ne trouvez pas ces informations, contactez l’équipe chargée de votre compte Adobe (votre gestionnaire de compte) pour obtenir plus d’informations.
+>Avant d’ajouter un protocole SSL, vérifiez le nombre total de domaines que vous êtes autorisé à ajouter dans votre contrat. Dans le cas contraire, des frais peuvent être encourus. Si vous ne trouvez pas ces informations, contactez l’équipe chargée de votre compte Adobe (votre gestionnaire de compte) pour obtenir plus d’informations.
 
 ## Activer la certification SSL {#enable-ssl-certification}
 
@@ -113,7 +113,7 @@ Vous trouverez ci-dessous les messages d’erreur que vous pouvez recevoir, ains
   </tr>
   <tr>
     <td><i>Erreur inattendue lors de la création d'un domaine. Contactez l’assistance pour obtenir de l’aide.</i></td>
-    <td>Une erreur inattendue s’est produite. Veuillez rassembler les journaux et les détails de l'erreur, puis signaler le problème à l'assistance de <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo</a>.</td>
+    <td>Une erreur inattendue s’est produite. Veuillez rassembler les journaux et les détails de l'erreur, puis signaler le problème à l'assistance de <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank"></a>.</td>
   </tr>
 </tbody></table>
 

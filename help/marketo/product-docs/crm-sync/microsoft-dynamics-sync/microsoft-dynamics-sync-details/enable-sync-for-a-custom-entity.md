@@ -4,16 +4,16 @@ description: Découvrez comment activer la synchronisation pour une entité pers
 title: Activer la synchronisation pour une entité personnalisée
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '329'
 ht-degree: 3%
 
 ---
 
 # Activer la synchronisation pour une entité personnalisée {#enable-sync-for-a-custom-entity}
 
-Si vous avez besoin que les données d’entité personnalisées de [!DNL Dynamics] soient disponibles dans Marketo Engage, voici comment activer la synchronisation de ces données.
+Si vous avez besoin que les données d’entité personnalisées de [!DNL Dynamics] soient disponibles dans Marketo Engage, procédez comme suit.
 
 >[!PREREQUISITES]
 >
@@ -32,7 +32,7 @@ Si vous avez besoin que les données d’entité personnalisées de [!DNL Dynami
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Sélectionnez **[!UICONTROL Microsoft Dynamics]** puis cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
+1. Sélectionnez **&#x200B;**&#x200B;puis cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -64,7 +64,7 @@ Si vous avez besoin que les données d’entité personnalisées de [!DNL Dynami
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
-1. N’oubliez pas de réactiver la synchronisation globale.
+1. Réactivez la synchronisation globale.
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
 

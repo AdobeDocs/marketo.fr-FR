@@ -4,9 +4,9 @@ description: Découvrez comment modifier l’accessibilité des champs Salesforc
 title: Modifier l’accessibilité des champs Salesforce
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Si le journal d’activité des e-mails ne s’affiche pas sur [!DNL Salesforce], cela peut être dû à des restrictions sur l’accessibilité des champs de votre équipe.
 
-* La sécurité au niveau du champ de Salesforce permet aux administrateurs [!DNL Salesforce] de définir des restrictions quant aux informations visibles et modifiables par les utilisateurs. Lors de la définition de la sécurité au niveau du champ, assurez-vous que cela n’interfère pas avec la possibilité pour les utilisateurs et utilisatrices d’afficher les champs [!DNL Sales Connect].
+* La sécurité au niveau du champ de Salesforce permet aux administrateurs [!DNL Salesforce] de définir des restrictions quant aux informations visibles et modifiables par les utilisateurs. Lors de la définition de la sécurité au niveau du champ, assurez-vous que cela n’interfère pas avec la possibilité pour les utilisateurs et utilisatrices de voir les champs [!DNL Sales Connect].
 
 * Contactez votre administrateur [!DNL Salesforce] pour vous assurer que ces paramètres de sécurité n’interfèrent pas avec [!DNL Sales Connect].
 

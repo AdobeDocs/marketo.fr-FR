@@ -4,9 +4,9 @@ description: Découvrez comment définir une liste dynamique pour les activités
 title: Définir une liste intelligente pour les activités Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '307'
 ht-degree: 2%
 
 ---
@@ -57,10 +57,10 @@ Utilisez un déclencheur pour envoyer un e-mail ou une alerte, ou modifiez une v
    >
    >Avec plusieurs déclencheurs, une personne accède au flux si L’UN DES déclencheurs est activé.
 
-   Pour exécuter la campagne sur un ensemble de personnes en même temps, découvrez comment [&#x200B; Définir une liste dynamique pour une campagne dynamique | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Pour exécuter la campagne sur un ensemble de personnes en même temps, découvrez comment [Définir une liste dynamique pour une campagne intelligente | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Définir une liste dynamique pour une campagne dynamique | Lot &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Définir une liste dynamique pour une campagne intelligente | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Ajouter une étape de flux à une campagne dynamique](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Définir une liste dynamique pour les activités de contenu prédictif](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

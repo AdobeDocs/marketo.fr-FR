@@ -4,16 +4,16 @@ description: Découvrez les paramètres de consentement bipartite pour l’enreg
 title: Paramètres de consentement des deux parties
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '171'
+ht-degree: 7%
 
 ---
 
 # Paramètres de consentement des deux parties {#two-party-consent-settings}
 
-Afin de garantir la conformité aux lois américaines sur le consentement bipartite lors de l’enregistrement des appels, en tant qu’administrateur, vous pouvez activer la lecture d’un message préenregistré de votre choix au début de vos appels lors de l’enregistrement.
+Afin de garantir la conformité aux lois américaines sur le consentement bipartite lors de l’enregistrement des appels, en tant qu’administrateur, vous pouvez activer la lecture d’un message préenregistré de votre choix au début de vos appels lors de son enregistrement.
 
 >[!PREREQUISITES]
 >

@@ -3,9 +3,9 @@ description: Découvrez comment gérer la bibliothèque de réponse pour l’IA 
 title: Bibliothèque de réponses
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '385'
 ht-degree: 3%
 
 ---

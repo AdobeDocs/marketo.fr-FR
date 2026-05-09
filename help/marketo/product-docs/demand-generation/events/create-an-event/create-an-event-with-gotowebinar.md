@@ -4,9 +4,9 @@ description: Découvrez comment créer un événement avec GotoWebinar dans Mark
 title: Créez un événement avec  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Saisissez les informations suivantes pour votre webinaire. Elles seront extraite
 >
 >Si vous avez besoin d’aide [!DNL GoToWebinar] supplémentaire, consultez leur [site d’aide](https://support.logmeininc.com/gotowebinar).
 
-Maintenant, plongeons-nous dans Marketo !
+Passez maintenant à Marketo.
 
 1. Sélectionnez un événement. Cliquez sur **[!UICONTROL Actions d’événement]** et choisissez **[!UICONTROL Paramètres d’événement]**.
 
@@ -83,7 +83,7 @@ Maintenant, plongeons-nous dans Marketo !
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Excellent ! Désormais, l’événement est synchronisé et planifié par **[!DNL GoToWebinar]**.
+1. L’événement est maintenant synchronisé et planifié par **[!DNL GoToWebinar]**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -107,7 +107,7 @@ Maintenant, plongeons-nous dans Marketo !
    >
    >L’affichage des données dans Marketo peut prendre jusqu’à 48 heures. Si, après avoir attendu si longtemps, vous ne voyez toujours rien, sélectionnez **[!UICONTROL Actualiser à partir du fournisseur de webinaires]** dans le menu [!UICONTROL Actions d’événement] de l’onglet **[!UICONTROL Résumé]** de votre événement.
 
-Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL &#x200B; Modifier le statut du programme &#x200B;] #1 et [!UICONTROL &#x200B; Envoyer un e-mail &#x200B;] soient #2.
+Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. En outre, définissez [!UICONTROL Modifier le statut du programme] l’étape de flux #1 et [!UICONTROL Envoyer un e-mail] l’étape de flux #2.
 
 ## Affichage du planning  {#viewing-the-schedule}
 

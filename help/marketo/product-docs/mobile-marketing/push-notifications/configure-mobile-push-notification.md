@@ -3,7 +3,7 @@ description: Découvrez comment configurer une notification push mobile. Défini
 title: Configurer la notification push pour mobile
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 4%
@@ -86,7 +86,7 @@ Cela dit, la structure de lien profond de votre application peut être différen
 
 ## URI de redirection {#redirect-uris}
 
-Les URI de redirection configurés dans les messages de notification push prennent en charge les jetons Marketo. Applicable uniquement aux « URL de l’application Launch ».
+Les URI de redirection configurés dans les messages de notification push prennent en charge les jetons Marketo. Applicable uniquement aux URI de l’application Launch.
 
 Exemple de format :
 

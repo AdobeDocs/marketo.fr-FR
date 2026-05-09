@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1308'
-ht-degree: 86%
+source-wordcount: '1320'
+ht-degree: 78%
 
 ---
 
@@ -76,11 +76,11 @@ Utilisez le composant **[!UICONTROL Bouton]** pour insérer un ou plusieurs bout
 
    CAPTURE D’ÉCRAN
 
-1. Vous pouvez personnaliser davantage votre bouton en modifiant les attributs de style, tels que la **[!UICONTROL bordure]**, la **[!UICONTROL taille]**, la **[!UICONTROL marge]**, etc. à partir du volet **[!UICONTROL Paramètres des composants]**.
+1. Vous pouvez personnaliser davantage votre bouton en modifiant les attributs de style, tels que **[!UICONTROL Bordure]**, **[!UICONTROL Taille]**, **[!UICONTROL Marge]**, etc., à partir du volet **[!UICONTROL Paramètres des composants]**.
 
 ## Texte {#text}
 
-Utilisez le composant **[!UICONTROL Texte]** pour insérer du texte dans votre e-mail et ajustez le style (bordure, taille, marge intérieure, etc.) à l’aide de l’onglet **[!UICONTROL Styles]**.
+Utilisez le composant **[!UICONTROL Texte]** pour insérer du texte dans votre e-mail et ajuster le style (bordure, taille, marge intérieure, etc.) à l’aide de l’onglet **[!UICONTROL Styles]**.
 
 CAPTURE D’ÉCRAN
 
@@ -107,7 +107,7 @@ CAPTURE D’ÉCRAN
    * **[!UICONTROL Dupliquer]** : ajoutez une copie de votre composant de texte.
    * **[!UICONTROL Supprimer]** : supprimez le composant de texte sélectionné de votre e-mail.
 
-1. Ajustez les autres attributs de style, tels que la couleur du texte, la famille de polices, la bordure, la marge intérieure, la marge, etc. à partir de l’onglet **[!UICONTROL Styles]**.
+1. Ajustez les autres attributs de style, tels que la couleur du texte, la famille de polices, la bordure, la marge intérieure, la marge, etc., à partir de l’onglet **[!UICONTROL Styles]**.
 
    CAPTURE D’ÉCRAN
 
@@ -164,7 +164,7 @@ Utilisez le composant **[!UICONTROL Image]** pour insérer un fichier image de v
 
 1. Vous pouvez également choisir de **[!UICONTROL Trouver des photos Stock similaires]**. `[Learn more](../integrations/stock.md)`
 
-1. Dans l’onglet **[!UICONTROL Styles]**, ajustez les autres attributs de style, tels que la marge, la bordure, etc. ou ajoutez un lien pour rediriger votre audience vers un autre contenu à partir du volet **[!UICONTROL Paramètres des composants]**.
+1. Dans l’onglet **[!UICONTROL Styles]**, ajustez les autres attributs de style, tels que la marge, la bordure, etc., ou ajoutez un lien pour rediriger votre audience vers un autre contenu à partir du volet **[!UICONTROL Paramètres des composants]**.
 
 ## Social {#social}
 
@@ -186,7 +186,7 @@ Utilisez le composant **[!UICONTROL Social]** pour insérer des liens vers des p
 
 1. Vous pouvez également modifier les icônes de chacun de vos médias sociaux à partir de vos ressources, le cas échéant.
 
-1. Ajustez les autres attributs de style tels que le style, la marge, la bordure, etc. à partir de l’onglet **[!UICONTROL Styles]**.
+1. Ajustez les autres attributs de style, tels que le style, la marge, la bordure, etc., à partir de l’onglet **[!UICONTROL Styles]**.
 
 ## Décision d’offre {#offer-decision}
 
@@ -208,4 +208,4 @@ Découvrez comment ajouter des offres personnalisées dans un e-mail dans `[this
 
 >[!IMPORTANT]
 >
->Si des modifications sont apportées à une décision d’offres qui est utilisée dans le message d’un parcours, vous devez dépublier le parcours et le republier. Cela permet de s’assurer que les modifications sont intégrées au message du parcours et que le message est cohérent avec les dernières mises à jour.
+>Si des modifications sont apportées à une décision d’offres qui est utilisée dans le message d’un parcours, vous devez dépublier le parcours et le republier.  Cela permet de s’assurer que les modifications sont intégrées au message du parcours et que le message est cohérent avec les dernières mises à jour.

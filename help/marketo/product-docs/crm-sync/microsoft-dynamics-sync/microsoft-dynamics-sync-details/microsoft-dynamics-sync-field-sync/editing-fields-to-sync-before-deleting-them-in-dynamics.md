@@ -3,7 +3,7 @@ description: Découvrez comment modifier les champs à synchroniser dans Marketo
 title: Modification des champs à synchroniser avant leur suppression dans Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 4%

@@ -3,18 +3,17 @@ description: Découvrez comment utiliser le bouton (bascule) pour basculer entre
 title: Bouton (bascule)
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
-hidefromtoc: true
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 89%
+source-wordcount: '301'
+ht-degree: 86%
 
 ---
 
 # Bouton (bascule) {#toggle-switch}
 
-Le bouton (bascule) vous permet de basculer entre l’interface classique de Marketo et l’expérience d’utilisation moderne. Il est disponible dans toutes les zones mises en surbrillance ci-dessous.
+Le bouton (bascule) vous permet de basculer entre l’interface classique de Marketo et l’expérience d’utilisation moderne. Il est disponible dans tous les domaines mis en évidence ci-dessous.
 
 >[!NOTE]
 >

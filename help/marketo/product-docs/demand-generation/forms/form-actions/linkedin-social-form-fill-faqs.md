@@ -3,12 +3,11 @@ unique-page-id: 10098238
 description: Obtenez de l'aide sur LinkedIn social form fill with Marketo forms. Trouvez des réponses aux questions courantes sur l’intégration du remplissage de formulaire LinkedIn.
 title: Questions fréquentes sur le remplissage du formulaire social LinkedIn
 hide: true
-hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -63,15 +62,15 @@ Non, les formulaires dont nous avons supprimé cette fonctionnalité de sont res
 
 Non, nous supprimerons uniquement le bouton [!DNL LinkedIn] de votre formulaire. Lorsque le remplissage de formulaire social est appliqué à un formulaire, un conteneur créé au-dessus contient les boutons de remplissage de formulaire social. Avant le 28 avril 2016, si [!DNL LinkedIn] était la seule option, l&#39;apparence du conteneur ressemblait à celle-ci :
 
-![—](assets/one.png)
+![--](assets/one.png)
 
 Après le 28 avril 2016, il reste désormais un conteneur vide en haut de tout formulaire dans lequel [!DNL LinkedIn] remplissage de formulaire social a été supprimé :
 
-![—](assets/two.png)
+![--](assets/two.png)
 
 >[!NOTE]
 >
->Les images ci-dessus ne sont fournies qu’à titre d’exemple. Il se peut que le rendu du conteneur du bouton de remplissage du formulaire social ne soit pas exact. N’importe quelle couleur, style, etc. de la police vous avez choisi d’influencer l’apparence de votre conteneur.
+>Les images ci-dessus ne sont fournies qu’à titre d’exemple. Il se peut que le rendu du conteneur du bouton de remplissage du formulaire social ne soit pas exact. Toute couleur, tout style de police, etc. Vous avez choisi d’influencer l’aspect de votre conteneur.
 
 ## Si [!DNL LinkedIn] était mon seul réseau sélectionné, comment puis-je supprimer le conteneur vide au-dessus de mon formulaire ? {#if-linkedin-was-my-only-selected-network-how-can-i-remove-the-empty-container-above-my-form}
 

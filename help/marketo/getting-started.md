@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 91%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Qu’est-ce que Marketo Engage, demandez-vous ? Bonne question.
 
-[Découvrir Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Découvrir Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Configurer {#get-set-up}
 
@@ -125,6 +125,6 @@ Effectuez ces missions pour découvrir les principales fonctionnalités de Marke
 </tr>
 </table>
 
-## ÉTAPE 4 - Félicitations ! Nation n’attend plus que vous.  {#congrats-youre-ready-for-the-nation}
+## ÉTAPE 4 - Félicitations ! Vous êtes prêts pour la Nation  {#congrats-youre-ready-for-the-nation}
 
 Consultez [Marketing Nation](https://nation.marketo.com){target="_blank"}.

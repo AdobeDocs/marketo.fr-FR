@@ -3,9 +3,9 @@ description: Notes De Mise À Jour - Octobre 2024 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '575'
 ht-degree: 20%
 
 ---
@@ -96,7 +96,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Obsolescence du code QR** : le 4 octobre 2024, la fonctionnalité de code QR utilisée dans les notifications push et les ressources de messagerie in-app sera abandonnée. Cela inclut l’utilisation de codes QR pour un nouvel appareil de test et la création de nouvelles ressources avec des codes QR. L’obsolescence des fonctionnalités les moins utilisées nous permet de réaffecter leurs ressources à la maintenance globale de Marketo Engage.
 
-* **Modifications Munchkin**
+* **Modifications**
 
    * **Nouvelle version** : le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à être déployé sur les instances Marketo Engage dont le paramètre « Munchkin Beta » est activé dans **Admin** > **Coffre au trésor**. Son déploiement sur toutes les autres instances est prévu pour le 29 octobre. Cette version met à jour la création du cookie Munchkin. Aucune modification n’a été apportée aux fonctionnalités.
 

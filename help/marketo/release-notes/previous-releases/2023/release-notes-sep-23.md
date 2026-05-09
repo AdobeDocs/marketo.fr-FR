@@ -3,9 +3,9 @@ description: Notes De Mise À Jour - Septembre 2023 - Documents Marketo - Docume
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '972'
 ht-degree: 14%
 
 ---
@@ -117,7 +117,7 @@ Toutes les fonctionnalités ci-dessous suivent un format Agile et sont publiées
    <td> </td>
   </tr>
    <tr>
-   <td><strong>Forms de conversation avec Marketo Engage Forms</strong> : intégrez-les aux flux de conversation de Marketo Engage Forms Dynamic Chat. Qualifiez instantanément les prospects à l’aide des données de formulaire ou de l’abonnement à la liste dynamique pour les réservations de réunions, les liens vers des articles techniques ou les objectifs personnalisés.</td>
+   <td>Forms de conversation avec Marketo Engage Forms</strong> : intégrez-les aux flux de conversation de Marketo Engage Forms. <strong>Qualifiez instantanément les prospects à l’aide des données de formulaire ou de l’abonnement à la liste dynamique pour les réservations de réunions, les liens vers des articles techniques ou les objectifs personnalisés.</td>
    <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Formulaires conversationnels</a></td>
   </tr>

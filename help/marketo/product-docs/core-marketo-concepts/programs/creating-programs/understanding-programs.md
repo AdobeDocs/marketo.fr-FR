@@ -4,16 +4,16 @@ description: Découvrez les programmes de Marketo permettant d’organiser des c
 title: Présentation des programmes
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 87%
+source-wordcount: '165'
+ht-degree: 81%
 
 ---
 
 # Présentation des programmes {#understanding-programs}
 
-Les programmes constituent une initiative marketing unique. Vous pouvez l’envisager comme un conteneur avec tout ce dont vous avez besoin pour que le programme fonctionne : il s’agit de ressources locales qui incluent des **pages de destination**, des **e-mails**, des **campagnes intelligentes**, etc. Les programmes font beaucoup de choses mais sont faciles à prendre en main.
+Les programmes constituent une initiative marketing unique. Vous pouvez l’envisager comme un conteneur avec tout ce dont vous avez besoin pour que le programme fonctionne : il s’agit de ressources locales qui incluent des **pages de destination**, des **e-mails**, des **campagnes intelligentes**, etc. Les programmes font beaucoup, mais c&#39;est facile de démarrer.
 
 Il existe quatre types de programmes :
 
@@ -33,7 +33,7 @@ Les **[e-mails de masse classiques](/help/marketo/product-docs/email-marketing/e
 
 Un programme par défaut désigne tout élément qui n’est pas un programme d’événement, d’engagement ou d’e-mail. Faites preuve de créativité.
 
-C’est parti.
+C’est parti !
 
 >[!MORELIKETHIS]
 >

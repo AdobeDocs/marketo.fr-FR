@@ -3,9 +3,9 @@ description: Découvrez comment diffuser un webinaire interactif dans Marketo. E
 title: Diffuser un webinaire interactif
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1198'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Votre webinaire interactif est prêt à être lancé. Apprenez tout ce que vous 
 
    >[!NOTE]
    >
-   >Il est recommandé de le faire au moins 15 minutes avant l’heure de début prévue.
+   >il est recommandé de le faire au moins 15 minutes avant l’heure de début prévue.
 
 1. Si vous êtes co-animateur ou présentateur, cliquez sur le lien personnalisé dans l’e-mail que vous avez reçu pour le webinaire.
 
@@ -34,7 +34,7 @@ Votre webinaire interactif est prêt à être lancé. Apprenez tout ce que vous 
 
    >[!NOTE]
    >
-   >Les participants peuvent entrer dans la salle jusqu&#39;à 15 minutes avant le début prévu et verront la mise en page active. Nous vous recommandons de concevoir un aménagement «  Lobby «  pour eux.
+   >Les participants peuvent entrer dans la salle jusqu&#39;à 15 minutes avant le début prévu et verront la mise en page active. Il est recommandé de concevoir une disposition « Lobby » pour eux.
 
    >[!TIP]
    >
@@ -88,7 +88,7 @@ Pour y accéder, sélectionnez **Zone d’accueil et de présentation** dans le 
 
 ### Contrôles de diffusion {#broadcast-controls}
 
-Broadcast Control ajoute une salle verte virtuelle à votre session de webinaires interactifs. Il permet aux hôtes et aux présentateurs de parler et de se voir en privé sans diffuser aux participants dans la salle. C&#39;est un excellent moyen de tester votre microphone et votre webcam avant une session. Les présentateurs peuvent également collaborer dans la zone Hôte et présentateur jusqu’à ce qu’ils soient prêts à passer en ligne. Il permet au conférencier et aux producteurs de faire le point entre eux en privé après une séance, au cas où un participant oublierait de quitter le webinaire.
+Broadcast Control ajoute une salle verte virtuelle à votre session de webinaires interactifs. Il permet aux hôtes et aux présentateurs de parler et de se voir en privé sans diffuser aux participants dans la salle. Utilisez-le pour tester votre microphone et votre webcam avant une session. Les présentateurs peuvent également collaborer dans la zone Hôte et présentateur jusqu’à ce qu’ils soient prêts à passer en ligne. Il permet au conférencier et aux producteurs de faire le point entre eux en privé après une séance, au cas où un participant oublierait de quitter le webinaire.
 
 Les commandes de diffusion peuvent être configurées pour commencer automatiquement l&#39;enregistrement après que vous avez quitté la salle verte. Ainsi, les hôtes n’ont pas à se rappeler de démarrer et d’arrêter manuellement l’enregistrement. La suspension ou l’arrêt de la diffusion entraîne également la suspension ou l’arrêt de l’enregistrement. Tout est automatique.
 
@@ -127,7 +127,7 @@ En savoir plus sur le mode de préparation [dans cette vidéo](https://www.youtu
 >[!NOTE]
 >
 >* Toutes les modifications apportées aux capsules en direct sont immédiatement répercutées sur les participants.
->* Le [panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode Préparer et toute modification apportée sera immédiatement répercutée sur les participants.
+>* [Panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode Préparer et toute modification apportée sera immédiatement répercutée sur les participants.
 
 ### Accessibilité {#accessibility}
 

@@ -4,9 +4,8 @@ description: Exportez les problèmes d’optimisation de page dans un fichier CS
 title: SEO - Exporter des problèmes au format CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 4%

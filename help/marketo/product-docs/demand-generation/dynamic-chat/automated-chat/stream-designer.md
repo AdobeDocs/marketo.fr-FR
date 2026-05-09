@@ -3,9 +3,9 @@ description: Découvrez Stream Designer et des cartes pour créer des conversati
 title: Concepteur de flux
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1206'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Stream Designer contient plusieurs cartes que vous pouvez ajouter pour façonner
  </tr>
  <tr>
   <td style="width:25%"><strong>Objectif</strong></td>
-  <td>Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple, si la collecte de l’e-mail du visiteur est votre objectif, placez la carte d’objectif immédiatement après la capture d’informations dans le flux).</td>
+  <td>Il s’agit de la seule carte que les visiteurs ne verront pas. Il vous appartient de déterminer à quel moment un objectif est atteint dans le chat spécifique (par exemple, si la collecte de l’e-mail du visiteur est votre objectif, placez la carte Objectif immédiatement après la capture d’informations dans le flux).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Action*</strong></td>
@@ -76,7 +76,7 @@ Stream Designer contient plusieurs cartes que vous pouvez ajouter pour façonner
 
 ## Icônes de diffusion Designer {#stream-designer-icons}
 
-Dans le coin supérieur droit de Stream Designer, vous pouvez voir quelques icônes. Voici ce qu&#39;ils font.
+Dans le coin supérieur droit de Stream Designer, vous pouvez voir quelques icônes. Le contenu suivant décrit chaque icône.
 
 <table>
  <tr>
@@ -103,7 +103,7 @@ Dans le coin supérieur droit de Stream Designer, vous pouvez voir quelques icô
 
 ## Créer un flux {#create-a-stream}
 
-Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Dans cet exemple, nous allons en créer un pour une boîte de dialogue.
+Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Dans cet exemple, un flux est créé pour une boîte de dialogue.
 
 1. Après avoir [créé votre boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, cliquez sur l’onglet **[!UICONTROL Stream Designer]**.
 
@@ -119,7 +119,7 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
 
    >[!TIP]
    >
-   >Vous pouvez personnaliser l’expérience pour les visiteurs et visiteuses de chat !
+   >Vous pouvez personnaliser l’expérience des visiteurs et visiteuses du chat.
    >
    >* Cliquez sur le `</>` d’icône « insérer HTML » pour insérer votre propre HTML afin d’obtenir l’aspect souhaité de la conversation.
    >
@@ -137,7 +137,7 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
    >
    >**[!UICONTROL Modifier les valeurs stockées]** est une étape facultative pour ceux qui souhaitent stocker une valeur différente dans la base de données de celle qui est affichée aux visiteurs dans le chatbot pour les attributs mappés dans la carte Question (par exemple : le visiteur voit « Optimisation du moteur de recherche », vous stockez cette valeur en tant que « SEO »).
 
-1. Pour « Oui », nous voulons réserver une réunion. Faites glisser le pointeur de la souris au-dessous de cette option sur la carte _Réservation de réunion_.
+1. Pour « Oui », faites glisser sur la carte _Réservation de réunion_ sous cette option.
 
    ![](assets/stream-designer-10.png)
 
@@ -153,7 +153,7 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
 
    ![](assets/stream-designer-13.png)
 
-1. Pour « Non », nous voulons savoir s’ils rejoindront la liste de diffusion. Faites glisser cette option en dessous d’une autre carte [!UICONTROL Question].
+1. Pour « Non », faites glisser le pointeur sur une autre carte [!UICONTROL Question] sous cette option pour vérifier si le visiteur souhaite rejoindre la liste de diffusion.
 
    ![](assets/stream-designer-14.png)
 
@@ -185,11 +185,11 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
 
    ![](assets/stream-designer-20.png)
 
-1. N’oubliez pas d’ajouter une réponse s’ils disent « Non ». Une option consiste à faire glisser une carte Message ci-dessous et à dire « merci quand même ». Mais dans cet exemple, nous leur fournirons un document PDF gratuit à la place.
+1. N’oubliez pas d’ajouter une réponse s’ils disent « Non ». Une option consiste à faire glisser une carte Message ci-dessous et à dire « merci quand même ». Mais dans cet exemple, un document PDF gratuit est fourni à la place.
 
    ![](assets/stream-designer-21.png)
 
-1. Dans cet exemple, nous allons créer un nouveau document. Attribuez-lui un nom, saisissez l’URL du PDF que vous avez déjà hébergé, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Créez un document. Attribuez-lui un nom, saisissez l’URL du PDF que vous avez déjà hébergé, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -199,10 +199,10 @@ Vous pouvez créer des flux pour les boîtes de dialogue ou [Conversational Form
 
 >[!NOTE]
 >
->Avant de cliquer sur [!UICONTROL Publier], veillez à [saisir vos URL cibles)](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Avant de cliquer sur [!UICONTROL Publier], vérifiez que vous avez [saisi vos URL cibles](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
 >* [Créer une boîte de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
 >* [Critères d’audience](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [API incorporée Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [API incorporée &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}

@@ -2,9 +2,9 @@
 description: Découvrez comment envoyer des e-mails de vente en bloc depuis Salesforce. Sélectionnez les leads ou les contacts dans une vue Liste et utilisez le bouton Envoyer un e-mail de vente dans Lightning ou Classic.
 title: Utilisation de l’option Envoyer des e-mails de vente en masse dans Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '618'
 ht-degree: 2%
 
 ---

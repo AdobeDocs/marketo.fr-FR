@@ -4,9 +4,9 @@ description: Découvrez comment envoyer des e-mails à partir de l’adresse du 
 title: Envoyer des e-mails depuis l’entité propriétaire du lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '208'
 ht-degree: 6%
 
 ---

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571840
 description: Découvrez comment synchronise les données utilisateur de Microsoft Dynamics vers Marketo. Identifiez les champs de propriétaire qui se synchronisent et comment les utiliser dans les listes dynamiques et les actions de flux.
-title: Microsoft [!DNL Dynamics] Sync - Synchronisation des utilisateurs
+title: ' [!DNL Dynamics] Sync - Synchronisation des utilisateurs'
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
 # Microsoft [!DNL Dynamics] Sync : synchronisation des utilisateurs {#microsoft-dynamics-sync-user-sync}
 
-Saviez-vous que Marketo synchronise l’ensemble de votre base de données avec [!DNL Dynamics] ? Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les comptes [!DNL Dynamics].
+Marketo synchronise l’ensemble de la base de données avec [!DNL Dynamics]. Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la manière dont Marketo traite spécifiquement les comptes [!DNL Dynamics].
 
 Vous aurez besoin d’un utilisateur Microsoft [!DNL Dynamics] CRM dédié aux fins de l’intégration. Nous appelons cet utilisateur l’utilisateur de synchronisation.
 

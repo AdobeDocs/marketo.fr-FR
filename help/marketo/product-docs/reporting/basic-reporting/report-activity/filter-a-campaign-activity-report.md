@@ -4,9 +4,9 @@ description: Découvrez comment filtrer un rapport d’activité de campagne dan
 title: Filtrer un rapport d’activité de campagne
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 8%
 
 ---
@@ -35,7 +35,7 @@ Concentrez votre [rapport d’activité de campagne](/help/marketo/product-docs/
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu’il contient au moment de son exécution.
 
-1. C&#39;est fini ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher _uniquement_ les campagnes intelligentes sélectionnées dans votre rapport.
+1. Vous avez terminé ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher _uniquement_ les campagnes intelligentes sélectionnées dans votre rapport.
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

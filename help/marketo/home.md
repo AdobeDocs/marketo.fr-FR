@@ -2,10 +2,10 @@
 title: Documents de produit Marketo
 description: Découvrez comment booster votre marketing avec ces documents sur le produit Marketo. Commencez avec un tutoriel Marketo et lisez d’autres articles populaires.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 74%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Les stratégies modernes de marketing à la demande nécessitent un engagement de bout en bout afin d’offrir la meilleure expérience clientèle possible. Découvrez comment y parvenir avec Marketo Engage, qui fait partie d’Adobe Experience Cloud, en consultant notre gamme de documents, guides et tutoriels.
 
-Que vous débutiez et souhaitiez suivre un tutoriel d’introduction à Marketo Engage, ou que vous ayez de l’expérience mais cherchiez à tirer le meilleur parti de votre abonnement, vous trouverez toutes les réponses à vos questions dans les documents de produit Marketo Engage.
+Que vous débutiez et souhaitiez suivre un tutoriel d’introduction à Marketo Engage, ou que vous soyez un utilisateur expérimenté cherchant à tirer le meilleur parti de votre abonnement, vous trouverez toutes les réponses dont vous avez besoin dans la documentation du produit Marketo Engage.
 
 ## Commencer
 
@@ -26,9 +26,9 @@ Que vous débutiez et souhaitiez suivre un tutoriel d’introduction à Marketo�
 
 ## Articles Marketo Engage populaires
 
-* [Présentation de la synchronisation  [!DNL Salesforce] ](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Présentation de la synchronisation  [!DNL Salesforce] &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Présentation de la synchronisation  [!DNL Microsoft Dynamics] ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Présentation de la synchronisation  [!DNL Microsoft Dynamics] &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Présentation des campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

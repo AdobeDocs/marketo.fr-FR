@@ -2,12 +2,11 @@
 description: Découvrez comment ajouter des contacts à une campagne marketing Marketo à partir des actions Sales Insight. Sélectionnez des contacts et ajoutez-les à la campagne.
 title: Ajouter à la campagne marketing
 hide: true
-hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -40,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Puisque vous effectuez un ajout à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur [!UICONTROL Individus] et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
+1. Puisque vous ajoutez à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur [!UICONTROL Individus] et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -60,7 +59,7 @@ PICC
 
 PICC
 
-1. On vous montre les contacts qui remplissent les critères. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
+1. Les contacts qui remplissent les critères s’affichent. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
 
 PICC
 
@@ -78,7 +77,7 @@ PICC
 
 PICC
 
-1. Puisque vous effectuez un ajout à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur [!UICONTROL Individus] et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
+1. Puisque vous ajoutez à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur [!UICONTROL Individus] et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
 
 PICC
 
@@ -102,6 +101,6 @@ PICC
 
 PICC
 
-1. On vous montre les contacts qui remplissent les critères. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
+1. Les contacts qui remplissent les critères s’affichent. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
 
 PICC

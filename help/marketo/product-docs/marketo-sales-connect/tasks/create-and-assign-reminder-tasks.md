@@ -3,9 +3,9 @@ description: Découvrez comment créer et affecter des tâches de rappel dans Sa
 title: Créer et affecter des tâches de rappel
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '155'
 ht-degree: 6%
 
 ---

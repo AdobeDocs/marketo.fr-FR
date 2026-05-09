@@ -4,10 +4,10 @@ description: Obtenez de l’aide lorsque les champs dynamiques ne sont pas rense
 title: Mes champs dynamiques ne se remplissent pas.
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 4%
+source-wordcount: '302'
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Il existe trois types de champs dynamiques dans [!DNL Sales Connect] : De base, 
 
 Champs [!DNL Salesforce] : par exemple, `{{sfdc_account_name}}`
 
-* Assurez-vous qu&#39;il est correctement connecté à [!DNL Sales Connect]. Accédez à la page [Paramètres](https://toutapp.com/login) et cliquez sur **[!UICONTROL Gérer]** en regard de votre CRM.
+* Assurez-vous qu’il est correctement connecté à [!DNL Sales Connect]. Accédez à la page [Paramètres](https://toutapp.com/login) et cliquez sur **[!UICONTROL Gérer]** en regard de votre CRM.
 
 **Résolution des problèmes liés aux champs de base et personnalisés**
 

@@ -3,10 +3,10 @@ description: Découvrez le comportement du bot conversationnel Dynamic Chat dans
 title: Comportement du chatbot
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 3%
+source-wordcount: '1700'
+ht-degree: 1%
 
 ---
 
@@ -409,4 +409,4 @@ Voici différents scénarios possibles décrivant le comportement attendu du bot
 
 ## Résolution des leads en temps réel {#real-time-lead-resolution}
 
-Lors d’une conversation avec un lead anonyme et avec un ID d’e-mail fourni, nous déterminons si un enregistrement de lead connu existe avec cet ID d’e-mail et utilisons cet enregistrement pour la personnalisation en temps réel. Si nous trouvons plusieurs enregistrements, nous les fusionnons en temps réel. Ce comportement est implémenté pour les boîtes de dialogue et les flux conversationnels.
+Lors d’une conversation avec un prospect anonyme et qu’un ID d’e-mail est fourni, Dynamic Chat détermine si un enregistrement de prospect connu existe avec cet ID d’e-mail et utilise cet enregistrement pour la personnalisation en temps réel. Si plusieurs enregistrements sont trouvés, ils sont fusionnés en temps réel. Ce comportement est implémenté pour les boîtes de dialogue et les flux conversationnels.

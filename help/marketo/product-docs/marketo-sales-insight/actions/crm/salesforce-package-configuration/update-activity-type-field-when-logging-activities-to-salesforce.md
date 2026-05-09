@@ -2,10 +2,10 @@
 description: Découvrez comment mettre à jour le champ Type d’activité lors de la journalisation d’activités dans Salesforce. Ajoutez un type de réponse à la liste de sélection Type de tâche dans la configuration de Salesforce.
 title: Mettre à jour le champ Type d’activité lors de la journalisation des activités dans Salesforce
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 6%
+source-wordcount: '435'
+ht-degree: 5%
 
 ---
 

@@ -4,9 +4,9 @@ description: Découvrez comment personnaliser les URL des pages de destination a
 title: Personnaliser vos URL de page de destination avec un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '244'
 ht-degree: 9%
 
 ---
@@ -23,7 +23,7 @@ L’apparence souhaitée :
 
 ## Choisir un CNAME {#choose-a-cname}
 
-Choisissez un mot à placer au début de l’URL de vos pages de destination. Ce n&#39;est qu&#39;un mot et il devrait être relativement court. Exemples :
+Choisissez un mot à placer au début de l’URL de vos pages de destination. Ce n&#39;est qu&#39;un mot qui devrait être relativement court. Exemples :
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html

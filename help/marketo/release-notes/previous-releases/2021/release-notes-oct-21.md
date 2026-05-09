@@ -3,9 +3,9 @@ description: Notes De Mise À Jour - Octobre 2021 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---

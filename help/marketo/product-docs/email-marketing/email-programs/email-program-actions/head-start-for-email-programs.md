@@ -4,9 +4,9 @@ description: Découvrez le programme Bon départ pour les programmes de messager
 title: Démarrage rapide des programmes d’e-mail
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '430'
 ht-degree: 2%
 
 ---

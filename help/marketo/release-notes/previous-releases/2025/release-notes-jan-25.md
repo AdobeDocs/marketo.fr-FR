@@ -3,10 +3,10 @@ description: Notes De Mise À Jour - Janvier 2025 - Documents Marketo - Document
 title: Notes de mise à jour - Janvier 2025
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 35%
+source-wordcount: '635'
+ht-degree: 41%
 
 ---
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
     <tr>
    <td><strong>Nouveau Designer d’e-mail</strong> : créez des e-mails modernes et efficaces à l’aide du nouveau Designer d’e-mail natif de Marketo Engage. Accédez à l’un des modèles d’e-mail prêts à l’emploi préconçus ou créez facilement le vôtre. Utilisez du contenu dynamique et accédez aux images à partir des services cloud Adobe Experience Manager. Utilisez la fonctionnalité IA générative de l’accélérateur de contenu pour créer des e-mails innovants et performants à grande échelle.
-   <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : pour accéder au nouveau concepteur d’e-mail, votre abonnement Marketo Engage doit être migré vers le <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">système Adobe Identity Management (IMS)</a>. Si le vôtre n’a pas encore été envoyé et que vous souhaitez qu’il soit traité rapidement, veuillez contacter l’équipe du compte Adobe (votre gestionnaire de compte) ou l’assistance de <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo</a>. Pour accéder à la fonctionnalité IA généralisée de l’accélérateur de contenu, contactez l’équipe du compte Adobe.</td>
+   <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : pour accéder au nouveau concepteur d’e-mail, votre abonnement Marketo Engage doit être migré vers le <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">système Adobe Identity Management (IMS)</a>. Si votre compte n’a pas encore été migré et que vous souhaitez demander un traitement prioritaire, veuillez contacter l’équipe Adobe en charge des comptes (votre gestionnaire de compte) ou l’<a href="https://nation.marketo.com/t5/support/ct-p/Support">assistance de Marketo</a>. Pour accéder à la fonctionnalité IA généralisée de l’accélérateur de contenu, contactez l’équipe du compte Adobe.</td>
    <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Vue d’ensemble du concepteur d’e-mail</a></td>
   </tr>
@@ -75,6 +75,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Mise à jour de l’API Get Program Members** : nous avons amélioré l’API [&#x200B; Get Program Members](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} pour permettre de récupérer l’identifiant des membres du programme. Pour ce faire, ajoutez l’ID à la liste des champs spécifiés dans le paramètre fields de la requête API.
 
-* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le mercredi 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le 31 mars 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le 31 mars 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

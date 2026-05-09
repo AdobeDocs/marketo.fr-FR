@@ -4,9 +4,9 @@ description: Découvrez comment configurer le bouton Ignorer et approuver votre 
 title: Configurer le bouton Ignorer et approuver le message
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -65,13 +65,13 @@ Toutes vos sélections de graphiques, de texte et de boutons ont été enregistr
    >
    >Vous pouvez également sélectionner **[!UICONTROL Approuver et fermer]** directement dans le menu déroulant [!UICONTROL Actions de message] (voir l’étape 1), mais pourquoi ne pas d’abord prévisualiser le message, par souci de sécurité ?
 
-1. Pour fermer l’éditeur sans validation, il vous suffit de fermer l’onglet . Il est enregistré automatiquement, vous pouvez donc le renvoyer et l’approuver ultérieurement.
+1. Pour fermer l’éditeur sans validation, il vous suffit de fermer l’onglet . Il est enregistré automatiquement. Vous pouvez donc le renvoyer et l’approuver ultérieurement.
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 
 Il y a tellement de choix, mais vous avez maintenant un beau message in-app, prêt à l’emploi !
 
-Il est maintenant temps d&#39;[envoyer votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Il est maintenant temps d’[envoyer votre message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

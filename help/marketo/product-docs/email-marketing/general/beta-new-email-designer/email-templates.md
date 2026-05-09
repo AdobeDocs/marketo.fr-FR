@@ -2,13 +2,12 @@
 description: Découvrez les modèles d’e-mail dans la nouvelle Designer d’e-mail. Créez et réutilisez des modèles pour accélérer la création d’e-mails dans Marketo Engage.
 title: Modèles d’e-mail
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1745'
-ht-degree: 6%
+source-wordcount: '1786'
+ht-degree: 8%
 
 ---
 
@@ -184,7 +183,7 @@ L’exemple ci-dessous décrit les étapes à suivre pour ajuster la marge inté
 
 1. Dans la barre d’outils Colonne, cliquez sur l’outil _[!UICONTROL Sélectionner une colonne]_ et choisissez celle à modifier.
 
-   Vous pouvez également le sélectionner dans l’arborescence de la structure. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
+   Vous pouvez également la sélectionner dans l&#39;arborescence. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
 
    ![](assets/layers-settings-styles-2.png)
 

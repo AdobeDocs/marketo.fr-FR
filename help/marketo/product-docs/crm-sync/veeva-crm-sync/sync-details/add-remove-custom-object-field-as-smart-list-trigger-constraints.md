@@ -3,7 +3,7 @@ description: Découvrez comment ajouter ou supprimer des champs d’objet person
 title: Ajouter/supprimer un champ d’objet personnalisé en tant que contraintes de liste intelligente/déclencheur
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 11%
@@ -52,7 +52,7 @@ Marketo Engage offre un contrôle spécifique sur la synchronisation d’objets 
 
 >[!IMPORTANT]
 >
->N’oubliez pas de réactiver votre synchronisation globale.
+>N’oubliez pas de réactiver la synchronisation globale.
 
 Désormais, vos listes intelligentes et campagnes intelligentes ont encore plus de puissance.
 

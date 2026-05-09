@@ -2,9 +2,8 @@
 description: Détails de notification pour les utilisateurs de Marketo Engage qui ont reçu la notification Impossible d’établir une connexion Websocket
 title: Notification - Connexion Websocket
 hide: true
-hidefromtoc: true
 exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 30%

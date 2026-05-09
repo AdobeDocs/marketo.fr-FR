@@ -4,9 +4,9 @@ description: Découvrez les canaux de diffusion dans Sales Connect. Découvrez c
 title: Vue d’ensemble du canal de remise
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---

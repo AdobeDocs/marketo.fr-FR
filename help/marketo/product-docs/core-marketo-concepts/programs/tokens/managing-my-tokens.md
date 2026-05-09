@@ -4,9 +4,9 @@ description: Découvrez comment gérer Mes jetons dans un programme. Créez et u
 title: Gestion de Mes jetons
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '226'
 ht-degree: 7%
 
 ---
@@ -79,7 +79,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo Engage. Vous 
 
 >[!CAUTION]
 >
->Lorsque vous supprimez un jeton My, assurez-vous qu’il n’est actuellement référencé dans aucune ressource. Un espace vierge s’affiche à l’endroit qui y est référencé s’il est supprimé.
+>Lorsque vous supprimez un jeton My, assurez-vous qu’il n’est actuellement référencé dans aucune ressource. Un espace vierge s’affiche à tout emplacement auquel il est référencé s’il est supprimé.
 
 1. Sélectionnez le jeton que vous souhaitez supprimer, puis cliquez sur **[!UICONTROL Supprimer le jeton]**.
 

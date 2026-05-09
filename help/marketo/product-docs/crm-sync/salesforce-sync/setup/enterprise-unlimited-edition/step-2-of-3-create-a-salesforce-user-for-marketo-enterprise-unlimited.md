@@ -4,7 +4,7 @@ description: Découvrez comment créer un utilisateur Salesforce pour Marketo en
 title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 4%
@@ -47,7 +47,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Dans la section **[!UICONTROL Autorisations d’administration]**, assurez-vous que les cases suivantes sont cochées :
+1. Dans la section **[!UICONTROL Autorisations d’administration]**, vérifiez que les cases suivantes sont cochées :
 
    * [!UICONTROL API activé]
    * [!UICONTROL Modifier les modèles HTML]
@@ -58,9 +58,9 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    >[!TIP]
    >
-   >Veillez à cocher la case **[!UICONTROL Le mot de passe n’expire jamais]**.
+   >Cochez la case **[!UICONTROL Le mot de passe n’expire jamais]**.
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations générales des utilisateurs &#x200B;] , assurez-vous que les cases suivantes sont cochées :
+1. Dans la section [!UICONTROL &#x200B; Autorisations générales des utilisateurs &#x200B;] , vérifiez que les cases suivantes sont cochées :
 
    * [!UICONTROL Convertir les leads]
    * [!UICONTROL Modifier les événements]
@@ -68,7 +68,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
+1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], vérifiez que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
 
    * [!UICONTROL Comptes]
    * [!UICONTROL Campagnes]
@@ -111,7 +111,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Recherchez les champs inutiles et assurez-vous que les options **[!UICONTROL Accès en lecture]** et **[!UICONTROL Accès en modification]** ne sont pas cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
+1. Recherchez les champs inutiles et vérifiez que les options **[!UICONTROL Accès en lecture]** et **[!UICONTROL Accès en modification]** ne sont pas cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    >[!NOTE]
    >

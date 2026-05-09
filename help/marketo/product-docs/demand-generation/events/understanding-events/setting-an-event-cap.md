@@ -2,12 +2,11 @@
 description: Découvrez comment définir une limite d’événement dans Marketo. Limitez le nombre d'inscrits ou de participants à votre programme d'événement.
 title: Définition d’une limite d’événement
 hide: true
-hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '213'
 ht-degree: 3%
 
 ---

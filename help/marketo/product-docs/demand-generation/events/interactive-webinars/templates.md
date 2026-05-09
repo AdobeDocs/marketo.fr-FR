@@ -3,16 +3,16 @@ description: Découvrez comment créer et implémenter des modèles dans les web
 title: Modèles de webinaires interactifs
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 2%
+source-wordcount: '333'
+ht-degree: 3%
 
 ---
 
 # Modèles de webinaires interactifs {#templates-for-interactive-webinars}
 
-Créez des modèles faciles à utiliser dans les webinaires interactifs pour produire du contenu plus rapidement et respecter les directives de la marque lorsque vous travaillez au sein d’une équipe.
+Créez des modèles réutilisables dans les webinaires interactifs pour produire du contenu plus rapidement et respecter les directives de la marque lorsque vous travaillez en équipe.
 
 ## Octroi des autorisations {#grant-permissions}
 
@@ -68,7 +68,7 @@ Avant que des utilisateurs de votre organisation puissent accéder aux modèles 
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. Un nouvel onglet s’ouvre. Pour modifier/enregistrer votre modèle, vous devez entrer une salle. Comme il ne s’agit pas d’une salle de webinaire, il n’est pas nécessaire d’effectuer des sélections audio/vidéo. Cliquez sur **Entrer dans la chambre**.
+1. Un nouvel onglet s’ouvre. Pour modifier ou enregistrer votre modèle, vous devez entrer une salle. Comme il ne s’agit pas d’une salle de webinaire, il n’est pas nécessaire d’effectuer des sélections audio/vidéo. Cliquez sur **Entrer dans la chambre**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
@@ -106,7 +106,7 @@ Pour modifier un modèle existant, procédez comme suit.
 
    ![](assets/templates-for-interactive-webinars-19.png)
 
-1. Un nouvel onglet s’ouvre. Pour modifier votre modèle, vous devez entrer une salle. Comme il ne s’agit pas d’une salle de webinaire, il n’est pas nécessaire d’effectuer des sélections audio/vidéo. Cliquez sur **Entrer dans la chambre**.
+1. Un nouvel onglet s’ouvre. Pour modifier votre modèle, vous devez entrer dans une pièce. Comme il ne s’agit pas d’une salle de webinaire, il n’est pas nécessaire d’effectuer des sélections audio/vidéo. Cliquez sur **Entrer dans la chambre**.
 
    ![](assets/templates-for-interactive-webinars-20.png)
 

@@ -4,9 +4,9 @@ description: Découvrez comment ajouter des champs Marketo à l’édition profe
 title: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '767'
 ht-degree: 9%
 
 ---
@@ -254,7 +254,6 @@ Un champ personnalisé sur l’objet de prospect dans [!DNL Salesforce] doit êt
 1. Répétez les étapes ci-dessus pour tout autre champ que vous avez créé.
 1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
-Assez facile, non ?
 
 >[!MORELIKETHIS]
 >

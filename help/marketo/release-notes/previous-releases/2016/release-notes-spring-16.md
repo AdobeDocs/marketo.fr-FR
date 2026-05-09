@@ -4,9 +4,9 @@ description: Notes De Mise À Jour - Printemps 16 - Documents Marketo - Document
 title: Notes de mise à jour - Printemps 16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '819'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Les jours sont révolus où vous deviez tout approuver à nouveau chaque fois qu
 
 Les API REST Marketo prennent désormais en charge le contrôle des pages de destination, modèles de page de destination et formulaires Marketo. Les utilisateurs peuvent désormais créer, mettre à jour le contenu, approuver et supprimer ces ressources directement via l’API REST Marketo.
 
-## [Liste autorisée IP pour l’accès à l’API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## Liste autorisée IP pour l’accès à l’API[&#128279;](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
 Tout comme la fonction de limitation des adresses IP pour les connexions des utilisateurs de Marketo, les administrateurs de Marketo peuvent désormais configurer une place sur la liste autorisée d’adresses IP qui peut accéder aux API Marketo SOAP et REST, bloquant ainsi l’accès à partir d’adresses IP non autorisées. Cela ajoute une couche de sécurité à votre instance Marketo et garantit que l’accès à l’API ne peut se faire qu’à partir du réseau de votre entreprise. Des détails sur la configuration sont disponibles sur le site de documentation de [&#128279;](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
@@ -75,7 +75,7 @@ Le nouveau connecteur Dynamics à grande vitesse offre des vitesses jusqu’à 2
 
 ![](assets/sync-errors.png)
 
-**[!DNL Microsoft Dynamics]2016** Connector est entièrement certifié pour les versions [!DNL Dynamics] et [!DNL Online] de [!DNL On-premise] 2016.
+**[!DNL Microsoft Dynamics]2016** Connector est entièrement certifié pour les versions [!DNL Online] et [!DNL On-premise] de [!DNL Dynamics] 2016.
 
 **Les mises à jour des plug-ins sont désormais documentées :** consultez l’article [documentation des mises à jour des plug-ins](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 

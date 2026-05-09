@@ -4,9 +4,9 @@ description: Découvrez comment exécuter des tests A/B d’objet dans des progr
 title: Utiliser le test A/B « ligne d’objet »
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '255'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ Vous pouvez facilement tester A/B vos e-mails. L’un des tests les plus courant
 
    >[!CAUTION]
    >
-   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon sur 100 %**. Si vous utilisez une liste statique, définir la taille de l’échantillon sur 100 % enverrait l’e-mail à tous les membres de l’audience et le gagnant n’irait à personne. Si vous utilisez une liste dynamique, la définition de la taille de l’échantillon sur 100 % envoie l’e-mail à toutes les personnes de l’audience _à ce moment-là_. Et lorsque le programme de messagerie s’exécutera à nouveau à une date ultérieure, toutes les nouvelles personnes qui remplissent les critères de la liste dynamique recevront également le message électronique, car elles sont désormais incluses dans l’audience.
+   >**Nous vous recommandons d’éviter de définir la taille de l’échantillon sur 100 %**. Si vous utilisez une liste statique, définir la taille de l’échantillon sur 100 % enverrait l’e-mail à tous les membres de l’audience et le gagnant n’irait à personne. Si vous utilisez une liste dynamique, la définition de la taille d’échantillon sur 100 % envoie l’e-mail à toutes les personnes de l’audience _à ce moment-là_. Et lorsque le programme de messagerie s’exécutera à nouveau à une date ultérieure, toutes les nouvelles personnes qui remplissent les critères de la liste dynamique recevront également le message électronique, car elles sont désormais incluses dans l’audience.
 
    >[!NOTE]
    >

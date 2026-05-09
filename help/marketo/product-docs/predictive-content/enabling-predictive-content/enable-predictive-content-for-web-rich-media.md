@@ -4,9 +4,9 @@ description: Découvrez comment activer le contenu prédictif pour les modèles 
 title: Activer le contenu prédictif pour les médias riches web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '338'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Le contenu prédictif fait participer vos visiteurs et visiteuses web au contenu
 
 >[!NOTE]
 >
->Il est recommandé d’activer plus de cinq éléments de contenu par catégorie et par source (e-mail, média enrichi, barre) avant de tester et d’utiliser le contenu prédictif. Plus de contenu vous donne un meilleur résultat prédictif.
+>il est recommandé d’activer plus de cinq éléments de contenu par catégorie et par source (e-mail, médias riches, barre) avant de tester et d’utiliser le contenu prédictif. Plus de contenu vous donne un meilleur résultat prédictif.
 
 >[!PREREQUISITES]
 >

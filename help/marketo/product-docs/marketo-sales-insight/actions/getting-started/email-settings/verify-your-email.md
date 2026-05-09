@@ -3,10 +3,10 @@ description: Découvrez comment vérifier votre adresse e-mail dans les actions 
 title: Vérifier votre e-mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '124'
+ht-degree: 10%
 
 ---
 
@@ -36,4 +36,4 @@ Si votre identité n’est pas vérifiée, procédez comme suit.
 
 >[!NOTE]
 >
->Si vous ne recevez pas l’e-mail de vérification, vérifiez votre dossier de courriers indésirables. S&#39;il n&#39;est pas là, contactez l&#39;assistance de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si vous ne recevez pas l’e-mail de vérification, vérifiez votre dossier de courriers indésirables. S&#39;il n&#39;est pas là, contactez l&#39;assistance de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).

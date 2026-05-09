@@ -4,9 +4,9 @@ description: Découvrez comment créer un rapport de performances des personnes 
 title: Créer un rapport de performances des personnes avec des colonnes Mobile Platform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '308'
 ht-degree: 7%
 
 ---
@@ -65,7 +65,7 @@ Pour créer un rapport de performances des personnes avec des colonnes de platef
 
 ## Créer un rapport de performances des personnes {#create-a-people-performance-report}
 
-1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **[!UICONTROL iOS]** et **[!UICONTROL Android]**.
+1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **&#x200B;**&#x200B;et **[!UICONTROL Android]**.
 
    ![](assets/ten.png)
 

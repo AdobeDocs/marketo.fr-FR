@@ -4,9 +4,9 @@ description: Découvrez comment planifier votre programme de messagerie. Défini
 title: Planifier votre programme d’e-mail
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 9%
 
 ---
@@ -42,7 +42,7 @@ Une fois votre programme de messagerie créé, l’audience définie et l’e-ma
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   C&#39;était facile, non ? Il ne vous reste plus qu&#39;à [approuver un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) et tout est prêt.
+   C&#39;était facile, non ? Il ne reste plus qu’à [approuver un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) et tout est prêt.
 
 >[!MORELIKETHIS]
 >

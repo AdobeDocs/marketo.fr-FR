@@ -4,10 +4,10 @@ description: Configurer les protocoles pour Marketo Engage - Documents Marketo
 title: Configurer les protocoles pour Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '2129'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 83%
 
 ---
 
@@ -39,8 +39,8 @@ Ajoutez le CNAME de page de destination qui vous a été envoyé à votre enregi
 
 `2` **Ajouter un CNAME pour les liens de suivi des e-mails**
 
-Ajoutez le CNAME d’e-mail que le service marketing vous a envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo Engage, au format suivant :
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`.
+Ajoutez l’e-mail que le marketing CNAME vous a envoyé, de sorte que `[YourEmailCNAME]` pointe vers [MktoTrackingLink], le lien de suivi par défaut attribué par Marketo Engage, au format suivant :
+`[YourEmailCNAME].[YourDomain].com` DANS LE `[MktoTrackingLink]` CNAME
 
 Par exemple :
 
@@ -90,13 +90,13 @@ Votre équipe marketing doit également fournir les informations DKIM (Domain Ke
 
 1. Pour configurer SPF, ajoutez la ligne suivante aux entrées DNS :
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
-include: mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4 :`[CorpIP]`
+inclure : mktomail.com ~all
 
-   Si vous avez déjà un enregistrement SPF existant dans l’entrée DNS, ajoutez-y simplement ce qui suit :
-include: mktomail.com
+   Si nous avons déjà un enregistrement SPF existant dans notre entrée DNS, ajoutez-y simplement ce qui suit :
+inclure : mktomail.com
 
-   Remplacez CompanyDomain par le domaine principal de votre site web (par exemple, « `(company.com/)` ») et CorpIP par l’adresse IP du serveur de messagerie de votre entreprise (par exemple, « 255.255.255.255 »). Si vous prévoyez d’envoyer des e-mails à partir de plusieurs domaines via Marketo Engage, demandez à votre personnel informatique d’ajouter cette ligne pour chaque domaine (sur une seule ligne).
+   Remplacez CompanyDomain par le domaine principal de votre site web (par exemple, « `(company.com/)` ») et CorpIP par l’adresse IP du serveur de messagerie de votre entreprise (par exemple, &quot;255.255.255.255&quot;). Si vous prévoyez d’envoyer des e-mails à partir de plusieurs domaines via Marketo Engage, demandez à votre personnel informatique d’ajouter cette ligne pour chaque domaine (sur une seule ligne).
 
 1. Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que vous voulez configurer. Vous trouverez ci-dessous les enregistrements d’hôtes et les valeurs TXT pour chaque domaine soumis à une connexion :
 
@@ -117,11 +117,11 @@ Pour que DMARC fonctionne, vous devez disposer d’au moins l’un des enregistr
 
 En outre, vous devez disposer d’un enregistrement TXT de DNS spécifique à DMARC pour votre domaine FROM:. Vous pouvez éventuellement définir l’adresse e-mail de votre choix pour indiquer où les rapports DMARC doivent se trouver au sein de votre organisation, afin de pouvoir surveiller les rapports.
 
-Il est recommandé de déployer lentement l’implémentation de DMARC en faisant passer votre politique DMARC par les étapes p=none, p=quarantine, puis p=reject lorsque vous comprenez l’impact potentiel de DMARC. Définissez votre politique DMARC sur un alignement moins strict sur SPF et DKIM.
+Il est recommandé de déployer lentement l’implémentation de DMARC en faisant passer votre politique de DMARC de p=none, à p=quarantine, à p=reject lorsque vous comprenez l’impact potentiel de DMARC et définissez votre politique de DMARC sur un alignement moins strict sur SPF et DKIM.
 
 ### Exemple de workflow DMARC {#dmarc-example-workflow}
 
-1. Si votre configuration permet de recevoir des rapports DMARC, vous devez procéder comme suit…
+1. Si vous êtes configuré pour recevoir des rapports DMARC, procédez comme suit...
 
    I. Analysez les commentaires et les rapports que vous recevez et utilisez (p=none), ce qui indique à la personne destinataire de n’effectuer aucune action sur les messages dont l’authentification a échoué, mais d’envoyer tout de même des rapports par e-mail à l’expéditeur ou à l’expéditrice.
 
@@ -135,7 +135,7 @@ Il est recommandé de déployer lentement l’implémentation de DMARC en faisan
 
    I. Examinez les rapports pour vous assurer que les résultats sont conformes à vos attentes.
 
-1. Si le comportement des messages au niveau p=quarantine vous convient, vous pouvez ajuster la politique sur (p=reject). La politique p=reject indique à la personne destinataire de refuser complètement (rebond) tout e-mail pour le domaine qui ne réussit pas l’authentification. Lorsque cette politique est activée, seul un e-mail qui est vérifié comme étant authentifié à 100 % par votre domaine aura une chance d’être placé en boîte de réception.
+1. Si vous êtes satisfait(e) du comportement des messages au niveau p=quarantaine, vous pouvez ajuster la politique sur (p=rejeter). La politique p=reject indique à la personne destinataire de refuser complètement (rebond) tout e-mail pour le domaine qui ne réussit pas l’authentification. Lorsque cette politique est activée, seul un e-mail qui est vérifié comme étant authentifié à 100 % par votre domaine aura une chance d’être placé en boîte de réception.
 
 >[!CAUTION]
 >
@@ -147,7 +147,7 @@ DMARC permet de recevoir des rapports concernant les e-mails qui échouent l’a
 
 * Rapports agrégés (RUA) : ne contiennent aucune information d’identification personnelle (PII) susceptible d’être sensible au RGPD (Règlement général sur la protection des données).
 
-* Rapports d’analyse (RUF) : contiennent des adresses e-mail sensibles au RGPD. Avant de les utiliser, vérifiez en interne comment traiter les informations qui doivent être conformes au RGPD.
+* Rapports d’analyse (RUF) : contiennent des adresses e-mail sensibles au RGPD. Avant d’utiliser , il est préférable de vérifier en interne comment traiter les informations qui doivent être conformes au RGPD.
 
 Ces rapports sont principalement utilisés pour recevoir une vue d’ensemble des e-mails faisant l’objet de tentatives d’usurpation. Il s’agit de rapports hautement techniques qui sont mieux gérés par un outil tiers.
 
@@ -190,10 +190,10 @@ Les enregistrements DMARC comportent plusieurs composants appelés balises DMARC
     <td>fo</td>
     <td>Facultatif</td>
     <td>Permet à la personne propriétaire du domaine de spécifier des options de création de rapports.</td>
-    <td>0 : génération du rapport en cas d’échec total
-    <br>1 : génération du rapport en cas d’échec d’un élément
-    <br>d : génération du rapport en cas d’échec de DKIM
-    <br>s : génération du rapport en cas d’échec de SPF</td>
+    <td>0 : générer un rapport en cas d’échec ;
+    <br>1 : génération du rapport en cas d’échec
+    <br>d : génération du rapport en cas d’échec de DKIM
+    <br>s : générer un rapport en cas d’échec de SPF</td>
     <td>1 (recommandé pour les rapports DMARC)</td>
   </tr>
   <tr>
@@ -249,7 +249,7 @@ Il existe deux types d’alignement pour DMARC : l’alignement DKIM et l’al
 
 >[!NOTE]
 >
->Il est recommandé d’effectuer l’alignement de DMARC sur DKIM par rapport à SPF pour Marketo Engage.
+>il est recommandé d’effectuer l’alignement de DMARC sur DKIM par rapport à SPF pour Marketo Engage.
 
 * DMARC aligné sur DKIM : pour configurer un protocole DMARC aligné sur DKIM, vous devez effectuer les opérations suivantes :
 
@@ -264,19 +264,19 @@ Il existe deux types d’alignement pour DMARC : l’alignement DKIM et l’al
 
    * Configurer DMARC pour le domaine Return-Path de la marque
 
-* Si vous envoyez des e-mails depuis Marketo Engage via une adresse IP dédiée et que vous n’avez pas encore mis en place de chemin de retour personnalisé, ou si vous n’avez pas la certitude de l’avoir fait, ouvrez un ticket auprès de l’[assistance Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Si vous envoyez un e-mail à partir de Marketo Engage par le biais d’une adresse IP dédiée et que vous n’avez pas encore implémenté le chemin de retour de marque, ou si vous ne savez pas si vous l’avez fait, ouvrez un ticket auprès de l’[assistance d’Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Si vous envoyez des e-mails depuis Marketo Engage par le biais d’un pool partagé d’adresses IP, vous pouvez déterminer si vous remplissez les critères pour les adresses IP de confiance en vous [enregistrant ici](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Le cjemin de retour de marque est offert gratuitement aux personnes effectuant des envois à partir d’adresses IP de confiance Marketo Engage. Si votre demande est approuvée pour ce programme, contactez l’assistance Adobe pour configurer le chemin de retour de la marque.
+* Si vous envoyez des e-mails à partir de Marketo Engage par le biais d’un pool partagé d’adresses IP, vous pouvez déterminer si vous remplissez les critères pour les adresses IP de confiance en [appliquant ici](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Le cjemin de retour de marque est offert gratuitement aux personnes effectuant des envois à partir d’adresses IP de confiance Marketo Engage. Si votre demande est approuvée pour ce programme, contactez l’assistance Adobe pour configurer le chemin de retour de la marque.
 
    * Adresses IP de confiance : groupe partagé d’adresses IP qui sont réservées aux personnes dont le volume d’envoi est inférieur à 75 000 par mois et qui ne remplissent pas les critères pour une adresse IP dédiée. Ces personnes doivent également répondre aux exigences des bonnes pratiques.
 
-* Si vous envoyez des e-mails à partir de Marketo Engage par le biais d’adresses IP partagées et que vous ne remplissez pas les critères des adresses IP de confiance, mais que vous envoyez plus de 100 000 messages par mois, vous devez contacter l’équipe Adobe en charge des comptes (votre gestionnaire de compte) pour acheter une adresse IP dédiée.
+* Si vous envoyez des e-mails à partir de Marketo Engage par le biais d’adresses IP partagées et que vous ne remplissez pas les critères des adresses IP de confiance, mais que vous envoyez plus de 100 000 messages par mois, vous devez contacter l’équipe du compte Adobe (votre gestionnaire de compte) pour acheter une adresse IP dédiée.
 
 * L’alignement SPF strict n’est pas pris en charge ni recommandé pour Marketo Engage.
 
 ## Étape 5 : configurer des enregistrements MX pour votre domaine {#step-set-up-mx-records-for-your-domain}
 
-Un enregistrement MX vous permet de recevoir des e-mails du domaine depuis lequel vous envoyez des e-mails afin de traiter les réponses et les répondeurs automatiques. Si vous effectuez un envoi à partir de votre domaine d’entreprise, il est probable que ce paramètre soit déjà configuré. Si ce n’est pas le cas, vous pouvez généralement le configurer pour qu’il soit mappé à votre enregistrement MX de domaine d’entreprise.
+Un enregistrement MX vous permet de recevoir des e-mails du domaine depuis lequel vous envoyez des e-mails afin de traiter les réponses et les répondeurs automatiques. Si vous effectuez un envoi à partir de votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce paramètre. Si ce n’est pas le cas, vous pouvez généralement le configurer pour qu’il soit mappé à votre enregistrement MX de domaine d’entreprise.
 
 ## Adresses IP sortantes {#outbound-ip-addresses}
 
@@ -292,12 +292,12 @@ La [synchronisation CRM Salesforce](/help/marketo/product-docs/crm-sync/salesfo
 
 **Blocs d’adresses IP sortantes Marketo Engage**
 
-Les tableaux suivants couvrent tous les serveurs Marketo Engage qui effectuent des appels sortants. Utilisez les listes ci-dessous pour configurer une liste autorisée d’adresses IP, un serveur, un pare-feu, une liste de contrôle d’accès, un groupe de sécurité ou un service tiers afin de recevoir des connexions sortantes de Marketo Engage.
+Les tableaux suivants couvrent tous les serveurs Marketo Engage qui effectuent des appels sortants. Utilisez les listes ci-dessous si vous configurez une place sur la liste autorisée IP, un serveur, un pare-feu, une liste de contrôle d’accès, un groupe de sécurité ou un service tiers pour recevoir des connexions sortantes de Marketo Engage.
 
 <table>
  <tbody>
   <tr>
-   <th>Bloc d’adresses IP (notation CIDR)</th>
+   <th>Bloc d’adresses IP (notation CIDR)</th>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>

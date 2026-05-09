@@ -3,9 +3,9 @@ description: Découvrez les paramètres de gestion des connexions pour l’authe
 title: Paramètres de gestion des connexions
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---

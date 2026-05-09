@@ -4,16 +4,16 @@ description: Découvrez comment fonctionne la synchronisation des champs entre M
 title: Synchronisation Microsoft Dynamics - Synchronisation des champs
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
 # Synchronisation des [!DNL Microsoft Dynamics] : synchronisation des champs {#microsoft-dynamics-sync-field-sync}
 
-La synchronisation de Marketo vers [!DNL Dynamics] est très puissante. Voici les détails.
+La synchronisation de Marketo vers [!DNL Dynamics] est puissante. Voici les détails.
 
 ## Comment les détails des champs sont-ils synchronisés entre les deux systèmes ? {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
@@ -39,7 +39,7 @@ Vous pouvez [sélectionner les champs à synchroniser](/help/marketo/product-doc
 
 ## Que se passe-t-il si je dois ajouter un champ personnalisé après la synchronisation de Marketo et [!DNL Dynamics] ? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-Vous pouvez ajouter des champs à tout moment et vous attendre à ce que les données soient actualisées de [!DNL Dynamics] vers Marketo. Pour plus d’informations[&#x200B; consultez la section  [!DNL Microsoft Dynamics] Utiliser la synchronisation rapide avec pour un nouveau champ personnalisé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) .
+Vous pouvez ajouter des champs à tout moment et vous attendre à ce que les données soient actualisées de [!DNL Dynamics] vers Marketo. Pour plus d’informations [!DNL Microsoft Dynamics]  consultez la section [Utiliser la synchronisation rapide avec pour un nouveau champ personnalisé](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) .
 
 ## Que se passe-t-il si je souhaite supprimer un champ dans [!DNL Dynamics] après l’ajout du champ pour la synchronisation ? {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
 

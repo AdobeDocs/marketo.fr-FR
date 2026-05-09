@@ -4,10 +4,10 @@ description: Découvrez comment les champs de prospect et de propriétaire de co
 title: Synchronisation de SFDC - Synchronisation des prospects et des propriétaires de compte
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 14%
+source-wordcount: '218'
+ht-degree: 15%
 
 ---
 
@@ -48,4 +48,3 @@ Il existe de nombreuses raisons d’utiliser ces données, par exemple :
 * Règles d’affectation (et de réaffectation) dans Marketo
 * Utilisez-les dans les actions de flux [Modifier le propriétaire](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Synchroniser la personne avec SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} et [Créer une tâche](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
-Marketo a vraiment une synchronisation [!DNL Salesforce] impressionnante. Personne d&#39;autre ne le fait aussi bien !

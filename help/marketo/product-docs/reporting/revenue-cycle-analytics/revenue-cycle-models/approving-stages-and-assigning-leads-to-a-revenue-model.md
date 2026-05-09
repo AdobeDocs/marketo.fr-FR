@@ -4,9 +4,9 @@ description: Découvrez comment approuver des étapes et affecter des prospects 
 title: Approbation d’étapes et affectation de leads à un modèle de revenu
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '354'
 ht-degree: 5%
 
 ---
@@ -67,7 +67,7 @@ Fantastique ! Pour spécifier comment les nouveaux prospects sont affectés aux
 
 ## Nouveaux Leads : Créer Des Règles D&#39;Affectation  {#new-leads-create-assignment-rules}
 
-1. Cliquez de nouveau sur **Accueil Marketo** puis sélectionnez **[!UICONTROL Analytics]**.
+1. Cliquez de nouveau sur **Accueil** puis sélectionnez **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 

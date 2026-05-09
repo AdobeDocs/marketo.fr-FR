@@ -3,32 +3,32 @@ description: Découvrez l’interface Adobe Experience Cloud et le shell unifié
 title: Vue d’ensemble de l’interface d’Adobe Experience Cloud
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 89%
+source-wordcount: '312'
+ht-degree: 55%
 
 ---
 
 # Vue d’ensemble de l’interface d’Adobe Experience Cloud {#adobe-experience-cloud-interface-overview}
 
-L’interface d’Adobe Experience Cloud reflète l’aspect « conteneur » des applications et services Adobe Experience Cloud. Mais c’est bien plus qu’une nouvelle conception. Il s’agit d’une application monopage qui offre une expérience clientèle dans une seule instance.
+L’interface d’Adobe Experience Cloud reflète l’aspect « conteneur » des applications et services Adobe Experience Cloud. Mais c&#39;est plus qu&#39;une nouvelle conception. Il s’agit d’une application d’une seule page qui offre une expérience utilisateur dans une seule instance.
 
 ## Flux d’utilisateur et d’utilisatrice {#user-flow}
 
-Si vous ne disposez pas déjà d’une connexion à un produit Adobe Experience Cloud, connectez-vous directement à [!DNL Marketo Engage] ici : [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+Si vous n’êtes pas déjà connecté à un produit Adobe Experience Cloud, connectez-vous directement à [!DNL Marketo Engage] ici : [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Si vous _disposez_ déjà d’une connexion à un produit Adobe Experience Cloud, cliquez simplement sur l’icône de menu et sélectionnez **[!DNL Marketo Engage]**.
+Si vous _êtes_ déjà connecté à un produit Adobe Experience Cloud, cliquez sur l’icône de menu et sélectionnez **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
->Votre menu déroulant peut être différent en fonction des produits Adobe Experience Cloud pour lesquels vous disposez d’un abonnement.
+>Votre menu déroulant peut être différent selon les produits Adobe Experience Cloud auxquels vous êtes abonné.
 
 ## Nouvelles fonctionnalités {#new-features}
 
-Outre la mise à jour de l’aspect, vous remarquerez les fonctionnalités suivantes :
+Outre la mise à jour de l’aspect, les fonctionnalités suivantes sont disponibles :
 
 **Centre d’aide intégré**
 
@@ -56,9 +56,9 @@ Cliquez sur l’icône de votre profil pour modifier votre langue ou d’autres 
 
 ## Questions fréquentes {#faq}
 
-**Je ne peux pas me connecter à [!DNL Marketo Engage] via l’interface d’Experience Cloud. Quel pourrait être le problème ?**
+**Je ne peux pas me connecter à [!DNL Marketo Engage] via l’interface d’Experience Cloud. Quel pourrait être le problème ?**
 
-Si vous pouvez vous connecter à Adobe Experience Cloud, mais que l’erreur « Échec du chargement de la page » s’affiche, cela peut être dû à un problème côté [!DNL Marketo Engage]. Contactez le [support Marketo](https://nation.marketo.com/t5/support/ct-p/Support) pour obtenir de l’aide.
+Si vous pouvez vous connecter à Adobe Experience Cloud, mais que l’erreur « Échec du chargement de la page » s’affiche, cela peut être dû à un problème côté [!DNL Marketo Engage]. Contactez le support technique de Marketo [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support) pour obtenir de l&#39;aide.
 
 **Où sont passés l’historique des utilisateurs et utilisatrices, la recherche globale, les notifications Marketo et la barre des tâches ?**
 

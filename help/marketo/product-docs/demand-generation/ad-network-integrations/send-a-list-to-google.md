@@ -3,9 +3,9 @@ description: Découvrez comment envoyer une liste statique Marketo à Google pou
 title: Envoyer une liste à Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ Pour ceux qui utilisent le ciblage par correspondance des clients Google, suivez
 
    >[!NOTE]
    >
-   >* Si vous sélectionnez **Garder l’appartenance à l’audience synchronisée** la liste est actualisée au fur et à mesure qu’elle change dans votre instance. Nous ajoutons ou supprimons des personnes de l’audience lorsqu’elles sont ajoutées ou supprimées de la liste statique.
+   >* Si vous sélectionnez **Garder l’appartenance à l’audience synchronisée** la liste est actualisée au fur et à mesure qu’elle change dans votre instance. L’appartenance à une audience est mise à jour lorsque des personnes sont ajoutées ou supprimées de la liste statique.
    >
    >* Si vous cochez la case en bas, le statut de consentement est ACCORDÉ pour les données utilisateur envoyées à Google Ads à des fins publicitaires et de personnalisation des annonces. Si vous ne cochez pas cette option, le statut de consentement est Non spécifié. Pour ceux qui envisagent de télécharger des données pour les utilisateurs de l’Espace économique européen (EEE), Google a établi une liste de [FAQ](https://support.google.com/google-ads/answer/14310715){target="_blank"}, ainsi que des détails supplémentaires décrivant la [politique de l’UE en matière de consentement des utilisateurs](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 

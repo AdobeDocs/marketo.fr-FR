@@ -4,9 +4,9 @@ description: Découvrez comment enregistrer une application auprès d’Azure po
 title: Enregistrez une application sur Azure pour obtenir votre identifiant client ou identifiant d’application
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '355'
 ht-degree: 6%
 
 ---
@@ -28,7 +28,7 @@ Azure Active Directory étend vos répertoires locaux dans le cloud, fournissant
    >Si vous ne disposez pas d’un compte Azure, vous pouvez vous [inscrire](https://azure.microsoft.com/en-us/free/){target="_blank"} pour l’un d’eux. Reportez-vous à la documentation de Microsoft ou contactez votre représentant Microsoft pour plus d’informations. Une fois que vous avez créé un compte Azure, vous pouvez enregistrer une ou plusieurs applications en suivant la procédure décrite ci-dessous.
    >
    >
-   >Si vous disposez d’un compte Azure mais que votre abonnement [!DNL Office 365] avec [!DNL Microsoft Dynamics 365] n’est pas disponible dans votre abonnement Azure, suivez [ces instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} pour associer les deux comptes.
+   >Si vous disposez d’un compte Azure, mais que votre abonnement [!DNL Office 365] avec [!DNL Microsoft Dynamics 365] n’est pas disponible dans votre abonnement Azure, suivez [ces instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} pour associer les deux comptes.
 
 1. Recherchez **[!UICONTROL Azure Active Directory]** et cliquez dessus dans le volet de navigation de gauche.
 
@@ -84,6 +84,5 @@ Azure Active Directory étend vos répertoires locaux dans le cloud, fournissant
 
    ![](assets/fourteen.png)
 
-   Et c&#39;est fini !
 
    ![](assets/fifteen.png)

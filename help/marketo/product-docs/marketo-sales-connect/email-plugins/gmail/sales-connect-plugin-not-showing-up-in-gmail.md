@@ -4,10 +4,10 @@ description: Obtenez de l’aide lorsque le plug-in Sales Connect ne s’affiche
 title: Le plug-in Sales Connect ne s’affiche pas dans Gmail.
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 5%
+source-wordcount: '169'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 D’après notre expérience, voici quelques éléments à essayer si votre barre d’outils n’apparaît pas.
 
-- Vérifiez que votre extension a été correctement téléchargée. Si vous êtes en [!DNL Chrome], consultez votre liste d’extensions. Est-ce que [!DNL Sales Connect] (Tout) est répertorié ?
+- Vérifiez que votre extension a été correctement téléchargée. Si vous êtes en [!DNL Chrome], affichez votre liste d’extensions. Est-ce que [!DNL Sales Connect] (Tout) est répertorié ?
 
 - Quelle langue avez-vous définie comme dans Gmail ? Si c&#39;est autre chose que l&#39;anglais, essayez de le changer en anglais.
 
@@ -23,7 +23,7 @@ D’après notre expérience, voici quelques éléments à essayer si votre barr
 
 - Rendez-vous sur l’[application web](https://toutapp.com/login) et vérifiez que vous y êtes connecté.
 
-- Vérifiez que les cookies sont activés. Si vous utilisez [!DNL Chrome], accédez à [!UICONTROL Paramètres] > [!UICONTROL Afficher les paramètres avancés] > [!UICONTROL Paramètres de contenu] > Décocher « [!UICONTROL Bloquer les cookies tiers et les données du site]. »
+- Vérifiez que les cookies sont activés. Si vous utilisez [!DNL Chrome], accédez à [!UICONTROL Paramètres] > [!UICONTROL Afficher les paramètres avancés] > [!UICONTROL Paramètres de contenu] > Décocher « [!UICONTROL Bloquer les cookies tiers et les données de site]. »
 
 - Essayez de vous déconnecter puis de reconnecter l’extension de navigateur [!DNL Sales Connect].
 

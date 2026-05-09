@@ -4,9 +4,9 @@ description: Découvrez les programmes imbriqués dans les flux d’engagement e
 title: Ajouter un programme à un flux de programme d’engagement
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '477'
 ht-degree: 4%
 
 ---
@@ -53,7 +53,7 @@ Reporting des modifications avec l’emplacement des e-mails. Ainsi, par exemple
 
 >[!CAUTION]
 >
->Si vous souhaitez renvoyer quelque chose, il est préférable de créer un nouveau programme et une campagne intelligente.
+>Si vous souhaitez renvoyer quelque chose, il est plus sûr de créer un nouveau programme et une campagne intelligente.
 
 >[!MORELIKETHIS]
 >

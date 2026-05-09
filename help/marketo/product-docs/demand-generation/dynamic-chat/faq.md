@@ -3,10 +3,10 @@ description: Obtenez de l’aide sur l’accès, l’installation, la conservati
 title: FAQ sur Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 0%
+source-wordcount: '922'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Consultez ci-dessous les réponses à certaines questions fréquentes sur Dynami
 
 **Je n’ai apparemment pas accès à Dynamic Chat. Comment puis-je l&#39;avoir ?**
 
-Contactez votre administrateur Marketo Engage et assurez-vous qu’il vous a [ajouté en tant qu’utilisateur](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} dans le Adobe Admin Console.
+Contactez votre administrateur Marketo Engage et vérifiez qu’il vous a [ajouté en tant qu’utilisateur](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} dans Adobe Admin Console.
 
 **Puis-je installer Dynamic Chat n’importe où sur le site web de ma société ou est-ce que cela fonctionne uniquement sur les pages de destination de Marketo ?**
 
@@ -24,15 +24,15 @@ Le fragment de code Dynamic Chat JavaScript peut être installé sur n’importe
 
 **Pendant combien de temps les données sont-elles stockées pour la création de rapports ?**
 
-90 jours. Pour obtenir la liste complète des limites/paramètres, consultez la page Marketo Engage [Description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 jours. Pour obtenir la liste complète des limites/paramètres, reportez-vous à la page Marketo Engage [Description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
-**Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**
+Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**&#x200B;**
 
 Oui. Dynamic Chat prend en charge les langues suivantes : français, espagnol, allemand, japonais, néerlandais, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans [Modification de la langue](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Prenez-vous en charge les fonctionnalités AI/NLP ?**
 
-Nous ne prenons pas en charge les fonctionnalités d’IA/NLP.
+Dynamic Chat ne prend pas en charge les fonctionnalités AI/NLP.
 
 **Comment cibler des personnes anonymes ?**
 
@@ -62,7 +62,7 @@ La limite de conversation engagée est réinitialisée le premier de chaque mois
 
 Les boîtes de dialogue sont conçues pour n’être affichées qu’une seule fois pour un visiteur. Ainsi, dès qu’un visiteur atteint la fin d’une branche donnée dans une boîte de dialogue, celle-ci est considérée comme terminée et ne lui sera plus jamais présentée.
 
-**Lorsque je clique sur la mosaïque Dynamic Chat dans Mon Marketo et que je me connecte à Adobe Experience Cloud, pourquoi est-ce que j’obtiens le message suivant ?  »_Il semble que votre Adobe ID ne soit pas lié à vos comptes de solution Adobe Experience Cloud_. »**
+**Lorsque je clique sur la mosaïque Dynamic Chat dans Mon Marketo et que je me connecte à Adobe Experience Cloud, pourquoi est-ce que j’obtiens le message suivant ? « _Il semble que votre Adobe ID ne soit pas lié à vos comptes de solution Adobe Experience Cloud_.«**
 
 Cela indique probablement que vous n’avez pas été ajouté en tant qu’utilisateur Dynamic Chat dans le Adobe Admin Console. Contactez un administrateur système pour votre organisation Adobe ou un administrateur produit pour Dynamic Chat pour demander l’accès à Dynamic Chat.
 
@@ -74,13 +74,13 @@ Les transcriptions Dynamic Chat sont accessibles pour tout prospect connu qui a 
 
 Il n’existe actuellement aucun moyen systématique de relancer une conversation ou de revenir à un point précédent, mais celui-ci se trouve sur la feuille de route de Dynamic Chat.
 
-**Dynamic Chat s’intègre-t-il à Salesforce ?**
+Dynamic Chat s’intègre-t-il à Salesforce ?**&#x200B;**
 
 Dynamic Chat s’intègre à Salesforce via l’intégration de Marketo Engage Salesforce.
 
-**Mon calendrier est connecté à Dynamic Chat et je suis inclus dans les règles de routage, alors pourquoi n’ai-je aucune réunion ?**
+**Mon calendrier est connecté à Dynamic Chat et je suis inclus dans les règles de routage. Pourquoi n’ai-je aucune réunion ?**
 
-Cela indique probablement que votre connexion au calendrier doit être réauthentifiée. Cela se produit le plus souvent lorsque vous modifiez le mot de passe de votre fournisseur de calendrier et que Dynamic Chat perd la connexion. Vous pouvez simplement accéder à la page Paramètres d’agent dans Dynamic Chat et cliquer sur « Réauthentifier le calendrier ».
+Cela indique probablement que votre connexion au calendrier doit être réauthentifiée. Cela se produit le plus souvent lorsque vous modifiez le mot de passe de votre fournisseur de calendrier et que Dynamic Chat perd la connexion. Accédez à la page Paramètres d’agent dans Dynamic Chat et cliquez sur « Réauthentifier le calendrier ».
 
 **Quelle est la différence entre un dialogue et un flux de conversation ?**
 
@@ -88,7 +88,7 @@ Une boîte de dialogue est une conversation automatiquement affichée pour les v
 
 **Existe-t-il un moyen d’utiliser Dynamic Chat pour réserver des réunions directement à partir d’un e-mail ?**
 
-Oui ! [Découvrez comment procéder](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Oui. [Découvrez comment procéder](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Que signifient exactement des termes tels que « Engagé » ou « Personnes acquises » ?**
 

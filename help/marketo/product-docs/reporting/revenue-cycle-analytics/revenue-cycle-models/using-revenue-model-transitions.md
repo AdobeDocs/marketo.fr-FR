@@ -4,9 +4,9 @@ description: Découvrez comment utiliser des transitions de modèle de chiffre d
 title: Utilisation de transitions de modèle de revenu
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---
@@ -45,7 +45,7 @@ Lorsque vous créez votre modèle, sélectionnez et organisez vos étapes d’in
 
    ![](assets/five-2.png)
 
-1. Pour revenir à votre modèle, cliquez sur **[!UICONTROL Modeler]**.
+1. Pour revenir à votre modèle, cliquez sur **&#x200B;**.
 
    ![](assets/six.png)
 

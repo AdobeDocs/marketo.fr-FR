@@ -3,9 +3,9 @@ description: Découvrez comment concevoir des webinaires interactifs dans Market
 title: Concevoir des webinaires interactifs
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
    >
    >* Une salle est un espace en ligne qui est utilisé pour tenir des réunions.
    >
-   >* Si vous choisissez une salle de webinaires existante et que vous devez la renommer, cliquez simplement sur le bouton **Renommer la salle de webinaires** à droite.
+   >* Si vous choisissez une salle de webinaires existante et que vous devez la renommer, cliquez sur le bouton **Renommer la salle de webinaires** à droite.
    >
    >* La liste déroulante affiche uniquement les chambres existantes que vous avez créées précédemment, et non celles des autres hôtes.
 
@@ -50,7 +50,7 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. Vous pouvez affiner votre webinaire immédiatement ou ultérieurement. Faisons-le maintenant. Cliquez Sur **Affiner Votre Webinaire Maintenant**.
+1. Vous pouvez affiner votre webinaire immédiatement ou ultérieurement. Pour continuer, cliquez sur **Affiner votre webinaire maintenant**.
 
    ![](assets/designing-interactive-webinars-6.png)
 
@@ -62,7 +62,7 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Pour plus d’informations sur les salles et les modèles, consultez la section « Modèles et dispositions des salles de réunion » de [cet article d’aide d’Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Pour plus d&#39;informations sur les salles et les modèles, reportez-vous à la section Modèles et mises en page des salles de réunion de [cet article d&#39;aide d&#39;Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Une fois le webinaire conçu, cliquez sur **Quitter la salle**.
 

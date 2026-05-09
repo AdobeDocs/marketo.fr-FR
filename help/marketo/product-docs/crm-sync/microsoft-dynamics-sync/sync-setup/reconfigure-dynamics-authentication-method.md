@@ -3,7 +3,7 @@ description: Découvrez comment reconfigurer la méthode d’authentification Dy
 title: Reconfigure [!DNL Dynamics] Authentication Method
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 2%
@@ -25,7 +25,7 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. Cliquez sur **Microsoft Dynamics** puis **[!UICONTROL Désactiver la synchronisation]**.
+1. Cliquez sur **&#x200B;**&#x200B;puis **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 
@@ -37,7 +37,7 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. Sélectionnez la nouvelle méthode d’authentification souhaitée (dans cet exemple, nous choisissons API Web).
+1. Sélectionnez la nouvelle méthode d’authentification souhaitée (dans cet exemple, API Web est sélectionnée).
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 
@@ -48,7 +48,7 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
    >[!NOTE]
    >
    >* Les champs spécifiques varient selon la méthode d’authentification choisie et le formulaire est automatiquement mis à jour en fonction de la méthode d’authentification précédente.
-   >* Si vous avez déjà effectué une synchronisation, les données du formulaire ci-dessus peuvent être pré-renseignées. Saisissez à nouveau toutes les informations d’identification pour vous assurer que les valeurs sont correctes.
+   >* Si vous avez déjà effectué une synchronisation, les données du formulaire ci-dessus peuvent être pré-renseignées. Saisissez à nouveau toutes les informations d’identification pour garantir les valeurs correctes.
 
 1. Si tout est correct, la synchronisation de validation génère toutes les coches vertes ![](assets/green-check.png). Vérifiez le message et cliquez sur **[!UICONTROL Basculer]** pour mettre à jour la méthode d’authentification.
 

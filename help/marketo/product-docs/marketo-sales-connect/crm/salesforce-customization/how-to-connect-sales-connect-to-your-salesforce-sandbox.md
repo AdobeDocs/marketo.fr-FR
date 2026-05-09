@@ -4,9 +4,9 @@ description: Découvrez comment connecter Sales Connect à votre sandbox Salesfo
 title: Comment connecter Sales Connect à votre sandbox Salesforce
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '146'
 ht-degree: 12%
 
 ---

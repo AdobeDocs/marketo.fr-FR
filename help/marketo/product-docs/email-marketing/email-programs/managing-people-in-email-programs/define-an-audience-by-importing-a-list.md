@@ -4,9 +4,9 @@ description: Découvrez comment définir une audience de programme de messagerie
 title: Définir une audience en important une liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '387'
 ht-degree: 15%
 
 ---
@@ -77,7 +77,7 @@ Une fois que vous avez créé un programme de messagerie, vous pouvez lui indiqu
 >
 >Il n’est pas nécessaire d’attendre la fin de l’import de la liste. Tu peux continuer à travailler si tu veux.
 
-Fantastique ! Il est maintenant temps de choisir un e-mail existant ou de créer un e-mail à envoyer à ces personnes.
+Fantastique ! Il est maintenant temps de choisir un e-mail existant ou de créer un nouvel e-mail à envoyer à ces personnes.
 
 >[!MORELIKETHIS]
 >

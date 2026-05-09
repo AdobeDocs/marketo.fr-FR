@@ -4,9 +4,9 @@ description: Découvrez comment exécuter des tests A/B de l’ensemble des e-ma
 title: Utiliser le test A/B « E-mail complet »
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 4%
 
 ---

@@ -4,16 +4,16 @@ description: Découvrez comment créer un programme d’événement dans Marketo
 title: Créer un programme d’événement
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '196'
 ht-degree: 8%
 
 ---
 
 # Créer un programme d’événement {#create-a-new-event-program}
 
-Les événements vous permettent d’automatiser les événements en ligne et hors ligne ! Capturez le statut de vos employés à mesure qu’ils passent par différentes étapes et obtenez des mesures précises du retour sur investissement pour vos initiatives marketing.
+Les événements vous permettent d’automatiser les événements en ligne et hors ligne. Capturez le statut de vos employés à mesure qu’ils passent par différentes étapes et obtenez des mesures précises du retour sur investissement pour vos initiatives marketing.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -39,7 +39,7 @@ Les événements vous permettent d’automatiser les événements en ligne et ho
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   Et voilà ! Votre nouvel événement apparaît désormais dans l’arborescence.
+   Votre nouvel événement apparaît désormais dans l’arborescence.
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 

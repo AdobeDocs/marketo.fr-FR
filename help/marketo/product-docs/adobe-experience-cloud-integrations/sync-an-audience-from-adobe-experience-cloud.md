@@ -3,9 +3,9 @@ description: Découvrez comment synchroniser une audience de Adobe Experience Cl
 title: Synchroniser une audience à partir d’Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 5%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 5%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. Pour la destination , vous pouvez sélectionner une liste existante ou saisir le nom d’une nouvelle liste. Dans cet exemple, nous en créons un nouveau. Cliquez sur **[!UICONTROL Synchroniser]** lorsque vous avez terminé.
+1. Pour la destination , vous pouvez sélectionner une liste existante ou saisir le nom d’une nouvelle liste. Dans cet exemple, une nouvelle liste est en cours de création. Cliquez sur **[!UICONTROL Synchroniser]** lorsque vous avez terminé.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -56,7 +56,7 @@ Une étape supplémentaire est nécessaire pour associer le profil utilisateur a
 
 **Pourquoi la taille de la liste dans Marketo est-elle différente de celle dans Adobe ?**
 
-Une personne ne se synchronise pas non plus si nous ne parvenons pas à lier un ID de cookie ECID à une personne connue dans Marketo.
+Une personne ne se synchronise pas non plus si un identifiant de cookie ECID ne peut pas être lié à une personne connue dans Marketo.
 
 **S’agit-il d’une synchronisation unique ?**
 

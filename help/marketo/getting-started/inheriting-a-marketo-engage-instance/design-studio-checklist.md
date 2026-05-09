@@ -3,9 +3,9 @@ description: Liste de contrôle de conception d’instance héritée - Documents
 title: Liste de contrôle de Design Studio d’instance héritée
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
    <td>Pages de destination internationales</td>
    <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">landing pages</a> globales avez-vous ? Sont-ils utilisés par les programmes?</li>
    <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=fr" target="_blank">centre d’abonnement</a> configuré ?
-   <br/>     Sinon, envisagez d’en créer un.</li></td>
+   <br/> Dans le cas contraire, envisagez d’en créer un.</li></td>
   </tr>
   <tr>
    <td>Modèles</td>
@@ -88,14 +88,14 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
 </td>
   </tr>
   <tr>
-   <td>Normalisation Des Données</td>
+   <td>Standardisation des données</td>
    <td><li>Vos <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">champs de formulaire</a> sont-ils principalement des listes de sélection ou des champs de texte ouverts ?</li>
 <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : s’il s’agit de champs de texte ouverts, pensez à les remplacer par des listes de sélection pour éviter le désordre des données.</td>
   </tr>
   <tr>
    <td>Confidentialité et conformité</td>
    <td><li>Votre stratégie de formulaire est-elle conforme aux exigences de confidentialité et d’opt-in de vos données d’entreprise ?
-   <br/>     Tenez compte du <a href="https://business.adobe.com/fr/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> de la Loi canadienne anti-pourriel (LCAP), du Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), du California Consumer Privacy Act (CCPA), etc., pour la conformité à la réglementation.</li>
+   <br/> tenir compte du <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> de la Loi canadienne anti-pourriel (LCAP), de la Loi de 2003 sur la lutte contre les agressions liées à la pornographie non sollicitée et au marketing (CAN-SPAM), de la Loi sur la protection des renseignements personnels des consommateurs de Californie (CCPA), etc., pour la conformité à la réglementation.</li>
 <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : N'oubliez pas de toujours consulter votre équipe juridique sur ces questions. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes pour maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody>
@@ -124,7 +124,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
   </tr>
   <tr>
    <td>Confidentialité et conformité</td>
-   <td><li>Tous vos e-mails ont-ils le pied de page approprié ? Prenez le RGPD, la LCAP, le CAN-SPAM, le CCPA, etc. pour les implications de conformité.</li>
+   <td><li>Tous vos e-mails ont-ils le pied de page approprié ? Tenez compte du RGPD, de la LCAP, du CAN-SPAM, du CCPA, etc. pour les implications en matière de conformité.</li>
 <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : N’oubliez pas de toujours consulter votre équipe juridique sur ces problèmes de conformité. Renseignez-vous auprès de votre équipe au sujet des initiatives précédentes pour maintenir la conformité avant d’apporter des modifications.</td>
   </tr>
  </tbody>
@@ -141,7 +141,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
   <tr>
    <td>Extraits</td>
    <td><li>Combien de <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragments de code</a> y a-t-il ? Sont-ils utilisés?
-   <br/>     Dans le cas contraire, pensez à les utiliser pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">e-mail</a> <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">page de destination</a> contenu du pied de page, logos, etc.</li></td>
+   <br/> Dans le cas contraire, pensez à les utiliser pour <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">e-mail</a> <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">page de destination</a> contenu du pied de page, logos, etc.</li></td>
   </tr>
  </tbody>
 </table>
@@ -157,7 +157,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
   <tr>
    <td>Statut de la ressource</td>
    <td><li>Combien de ressources ont le statut <i>Brouillon</i> et <i>Approuvé avec le brouillon</i> (par exemple, <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">e-mails</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Landing Pages</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">forms</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">snippets</a>) ?
-   <br/>     S’il y en a plusieurs, pensez à les supprimer ou à les approuver.</li></td>
+   <br/> S’il y en a plusieurs, pensez à les supprimer ou à les approuver.</li></td>
   </tr>
   <tr>
    <td>Partage de ressources</td>
