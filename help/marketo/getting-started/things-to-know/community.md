@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Communauté Adobe Marketo Engage {#marketo-engage-community}
 
-La [Communauté ](https://nation.marketo.com/) (également appelée Nation marketing) est l’endroit où obtenir des informations supplémentaires sur votre instance Marketo Engage de la part des autres utilisateurs ainsi que des employés de Marketo. Avant de vous lancer, prenez un moment pour vous familiariser avec les [Directives communautaires](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+La [Communauté &#x200B;](https://nation.marketo.com/) (également appelée Nation marketing) est l’endroit où obtenir des informations supplémentaires sur votre instance Marketo Engage de la part des autres utilisateurs ainsi que des employés de Marketo. Avant de vous lancer, prenez un moment pour vous familiariser avec les [Directives communautaires](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Enregistrer votre nom d’utilisateur {#register-your-username}
 

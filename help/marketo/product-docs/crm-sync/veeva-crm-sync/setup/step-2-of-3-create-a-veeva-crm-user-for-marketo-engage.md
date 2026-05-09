@@ -110,11 +110,11 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
+1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Sous la section [!UICONTROL  Autorisations d’objet personnalisé ], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
+1. Sous la section [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 

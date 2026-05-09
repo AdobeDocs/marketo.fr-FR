@@ -14,7 +14,7 @@ ht-degree: 5%
 
 La carte de document vous permet d’incorporer des documents PDF dans des boîtes de dialogue et d’effectuer le suivi de l’activité d’engagement des documents des visiteurs. Procédez comme suit pour le configurer.
 
-1. Accédez à [l’API incorporée ](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. Accédez à [l’API incorporée &#x200B;](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
 1. Cliquez sur **[!UICONTROL Obtenir les informations d’identification]**.
 

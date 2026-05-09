@@ -65,7 +65,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 **Error:** EXPIRED_ACCESS
 **Category:** Authentification
 **Message:** invalid_grant : jeton d’accès/d’actualisation expiré
-**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [ dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [&#x200B; dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Étapes de dépannage :** vous devrez vous authentifier à nouveau. Déconnectez la connexion [!DNL Salesforce] et reconnectez-vous.
 
 <br> 

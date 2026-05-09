@@ -72,7 +72,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express :
 
 1. Cochez la case en regard de l’image à modifier. Dans la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]**, sélectionnez **[!UICONTROL Modifier dans Adobe Express]**.
 
-   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
+   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier &#x200B;](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >

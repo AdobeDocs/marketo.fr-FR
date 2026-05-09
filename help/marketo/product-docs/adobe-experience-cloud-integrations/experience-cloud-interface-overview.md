@@ -58,7 +58,7 @@ Cliquez sur l’icône de votre profil pour modifier votre langue ou d’autres 
 
 **Je ne peux pas me connecter à [!DNL Marketo Engage] via l’interface d’Experience Cloud. Quel pourrait être le problème ?**
 
-Si vous pouvez vous connecter à Adobe Experience Cloud, mais que l’erreur « Échec du chargement de la page » s’affiche, cela peut être dû à un problème côté [!DNL Marketo Engage]. Contactez le support technique de Marketo [](https://nation.marketo.com/t5/support/ct-p/Support) pour obtenir de l&#39;aide.
+Si vous pouvez vous connecter à Adobe Experience Cloud, mais que l’erreur « Échec du chargement de la page » s’affiche, cela peut être dû à un problème côté [!DNL Marketo Engage]. Contactez le support technique de Marketo [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support) pour obtenir de l&#39;aide.
 
 **Où sont passés l’historique des utilisateurs et utilisatrices, la recherche globale, les notifications Marketo et la barre des tâches ?**
 

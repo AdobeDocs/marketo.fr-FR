@@ -33,7 +33,7 @@ Lorsque vous choisissez une date/heure pour un programme d’e-mail, il détermi
    >
    >Le démarrage anticipé ne peut pas être utilisé avec les tests A/B.
 
-1. Dans la mosaïque [!UICONTROL  Planifier ], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
+1. Dans la mosaïque [!UICONTROL &#x200B; Planifier &#x200B;], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
 
    ![](assets/three-1.png)
 

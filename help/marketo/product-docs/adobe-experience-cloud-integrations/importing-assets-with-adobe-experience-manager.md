@@ -21,7 +21,7 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder aux ressourc
 
 >[!PREREQUISITES]
 >
->Vérifiez que la configuration [](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) a déjà été effectuée.
+>Vérifiez que la configuration [&#128279;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) a déjà été effectuée.
 
 >[!IMPORTANT]
 >

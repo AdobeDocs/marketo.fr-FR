@@ -182,13 +182,13 @@ En raison des améliorations apportées à la sécurité de Salesforce, les pack
    * Dernier moment significatif
    * Date dernier moment significatif
    * [!UICONTROL Desc Dernier moment intéressant]
-   * Source du dernier moment intéressant][!UICONTROL 
+   * Source du dernier moment intéressant
    * [!UICONTROL Type de dernier moment intéressant]
    * [!UICONTROL Dernière activité Marketo par ventes]
    * [!UICONTROL Dernier engagement Marketo par les ventes]
    * [!UICONTROL Score du lead MKTO]
-   * [!UICONTROL  Score relatif ]
-   * [!UICONTROL  Valeur de score relative ]
+   * [!UICONTROL &#x200B; Score relatif &#x200B;]
+   * [!UICONTROL &#x200B; Valeur de score relative &#x200B;]
    * [!UICONTROL Ventes Insight] - Ouvre la page de liste complète des contacts
    * [!UICONTROL Urgence]
    * [!UICONTROL Valeur d’urgence]
@@ -237,7 +237,7 @@ Les champs Personne de Marketo doivent être mappés aux champs Contact de Sales
 
 1. Copiez les informations d’identification depuis le panneau API Soap de la page d’administration [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration de [!DNL Salesforce] [!DNL Sales Insight] .
 
-1. Copiez les informations d’identification à partir du panneau API Rest de la page d’administration d’Insight de ventes [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration d’[!DNL Sales Insight] [!DNL Salesforce] .
+1. Copiez les informations d’identification à partir du panneau API Rest de la page d’administration d’Insight de ventes [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration d’[!DNL Sales Insight] [!DNL Salesforce] .
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
@@ -245,7 +245,7 @@ Vous devriez être en mesure de voir les champs Marketo Sales Insight pour les l
 
 >[!NOTE]
 >
->Si le test des diagnostics échoue, l’ajout [ champs supplémentaires à la mise en page ](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
+>Si le test des diagnostics échoue, l’ajout [&#x200B; champs supplémentaires à la mise en page &#x200B;](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
 
 >[!NOTE]
 >

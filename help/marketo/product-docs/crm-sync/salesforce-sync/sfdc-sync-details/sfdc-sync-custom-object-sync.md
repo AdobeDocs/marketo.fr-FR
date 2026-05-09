@@ -67,7 +67,7 @@ Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent 
    >
    >N’oubliez pas de réactiver la synchronisation globale.
 
-1. Revenez à l’onglet ****.
+1. Revenez à l’onglet **&#x200B;**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 

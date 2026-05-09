@@ -25,7 +25,7 @@ Cette fonctionnalité nécessite que vous utilisiez l’édition Enterprise/Unli
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **&#x200B;**.
 
    ![](assets/sync-sales-activities-to-salesforce-2.png)
 
@@ -55,7 +55,7 @@ Une fois que vous avez activé « E-mail à Salesforce (Cci) », vous recevez un
 
    ![](assets/sync-sales-activities-to-salesforce-6.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **&#x200B;**.
 
    ![](assets/sync-sales-activities-to-salesforce-7.png)
 
@@ -99,7 +99,7 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **&#x200B;**.
 
    ![](assets/sync-sales-activities-to-salesforce-11.png)
 

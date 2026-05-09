@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Désactiver le suivi d’un lien d’e-mail {#disable-tracking-for-an-email-link}
 
-Il arrive que vous ne souhaitiez pas activer l’URL de tracking **** sur un lien dans un e-mail. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture d’un lien.
+Il arrive que vous ne souhaitiez pas activer l’URL de tracking **&#x200B;**&#x200B;sur un lien dans un e-mail. Cela s’avère utile lorsque la page de destination ne prend pas en charge les paramètres d’URL et peut entraîner la rupture d’un lien.
 
 En outre, si un e-mail a été envoyé il y a plus de 365 jours **et que personne n’a cliqué sur l’un de ses liens au cours des 180 derniers jours** Marketo Engage élague l’itinéraire vers l’URL de notre base de données, ce qui entraîne la rupture du lien. Ainsi, si vous avez besoin que le lien soit permanent, vous devez désactiver le suivi.
 

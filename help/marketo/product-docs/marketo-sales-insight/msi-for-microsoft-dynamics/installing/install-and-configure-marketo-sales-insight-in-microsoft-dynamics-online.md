@@ -91,7 +91,7 @@ Lions votre instance Marketo à [!DNL Sales Insight] dans [!DNL Dynamics]. Proc�
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. Dans la section Insight des ventes], cliquez sur **[!UICONTROL Modifier la configuration de l’API]**.[!UICONTROL 
+1. Dans la section Insight des ventes, cliquez sur **[!UICONTROL Modifier la configuration de l’API]**.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
@@ -135,7 +135,7 @@ Lions votre instance Marketo à [!DNL Sales Insight] dans [!DNL Dynamics]. Proc�
 
    ![](assets/enable-one.png)
 
-1. Sous Intégration, sélectionnez ****.
+1. Sous Intégration, sélectionnez **&#x200B;**.
 
    ![](assets/enable-two.png)
 

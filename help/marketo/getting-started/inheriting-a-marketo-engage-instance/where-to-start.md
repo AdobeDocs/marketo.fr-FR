@@ -73,10 +73,10 @@ Vous pouvez également [télécharger les listes de contrôle](/help/marketo/get
 
 Besoin d&#39;aide supplémentaire ? Contactez-nous ou d’autres utilisateurs de Marketo Engage via les liens ci-dessous.
 
-* Pour toute assistance technique sur un problème qui ne fonctionne pas correctement, contactez le service clientèle de **[](https://experienceleague.adobe.com/en/support){target="_blank"}**.
+* Pour toute assistance technique sur un problème qui ne fonctionne pas correctement, contactez le service clientèle de **[&#128279;](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
 * Connectez-vous avec d’autres utilisateurs de Marketo Engage et apprenez-en plus grâce à la **[Communauté Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
 * Pour obtenir une aide pratique afin de tirer le meilleur parti de votre instance Marketo Engage, contactez **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Regardez **[tutoriels vidéo organisés sur ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** différents aspects de Marketo Engage.
+* Regardez **[tutoriels vidéo organisés sur &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** différents aspects de Marketo Engage.

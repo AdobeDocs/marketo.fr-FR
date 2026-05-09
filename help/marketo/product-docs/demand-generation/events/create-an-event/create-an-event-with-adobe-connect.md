@@ -20,7 +20,7 @@ La synchronisation avec Adobe Connect vous permet de gérer l’inscription et l
 >* [Lier Adobe Connect et Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Tout d’abord, vérifiez que vous avez créé votre réunion ou séminaire dans Adobe Connect. Si vous avez besoin d’aide, consultez le [Guide de l’utilisateur ](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+Tout d’abord, vérifiez que vous avez créé votre réunion ou séminaire dans Adobe Connect. Si vous avez besoin d’aide, consultez le [Guide de l’utilisateur &#x200B;](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans le dossier spécifié lors de la saisie des informations d&#39;identification dans Marketo. Après avoir créé votre réunion ou séminaire, notez toute information logistique pertinente (comme le numéro de téléphone), à utiliser dans votre e-mail de confirmation et votre fichier ICS.
 

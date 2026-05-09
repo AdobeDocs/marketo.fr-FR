@@ -17,7 +17,7 @@ Vue d’ensemble de l’éditeur d’e-mail classique.
 
 >[!IMPORTANT]
 >
->Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.[
+>Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.
 
 **Sélectionneur de modèle d’e-mail**
 
@@ -45,7 +45,7 @@ L’option permettant de basculer entre les versions HTML et Texte de votre e-ma
 
 **En-tête de l’e-mail**
 
-Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [ le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
+Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [&#x200B; le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
 
 ![](assets/email-editor-v2-overview-5.png)
 

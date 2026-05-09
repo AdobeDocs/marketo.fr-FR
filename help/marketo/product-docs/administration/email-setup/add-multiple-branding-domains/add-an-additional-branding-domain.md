@@ -39,7 +39,7 @@ Ajoutez un domaine de branding supplémentaire lorsque vous exécutez plusieurs 
 >
 >* _Faire du domaine de Principal_ : faites de ce domaine votre domaine principal et tous les e-mails non envoyés existants définis sur « Par défaut » et tous les nouveaux e-mails seront définis par défaut sur le domaine principal. Vous pouvez [remplacer ce paramètre par e-mail](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}.
 >
->* _Générer un certificat SSL_ : vous pouvez créer un protocole SSL (Secure Sockets Layer) avec la création du domaine. Le premier domaine de suivi lance une configuration unique de l’infrastructure qui peut prendre quelques heures. Vous recevrez une notification à la fin de l’opération, puis vous pourrez configurer le premier domaine. Pour ajouter SSL à vos domaines existants, contactez l’assistance technique de [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>* _Générer un certificat SSL_ : vous pouvez créer un protocole SSL (Secure Sockets Layer) avec la création du domaine. Le premier domaine de suivi lance une configuration unique de l’infrastructure qui peut prendre quelques heures. Vous recevrez une notification à la fin de l’opération, puis vous pourrez configurer le premier domaine. Pour ajouter SSL à vos domaines existants, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 ## Modifier les SSL pour les domaines existants
 
@@ -97,7 +97,7 @@ Pour activer SSL pour vos domaines existants, procédez comme suit.
 
 * **SSL préexistants** : lors de l’ajout d’un domaine, le système recherche les SSL préexistants, qui peuvent avoir été créés manuellement précédemment. Si vous rencontrez cette validation, créez votre domaine sans sélectionner la création SSL et contactez [l’assistance technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour les connecter.
 
-* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs utilisateur qui entraînent la suppression des certificats SSL d’un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs utilisateur qui entraînent la suppression des certificats SSL d’un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * Si le domaine que vous ajoutez est répertorié comme autre chose qu’un CNAME, la possibilité d’ajouter d’autres domaines de suivi de marque est verrouillée. Vous devez modifier tout domaine existant et vous assurer qu’il s’agit d’un enregistrement CNAME et non, par exemple, d’un enregistrement A. Le bouton Ajouter ne recherche dynamiquement que les CNAME.
 

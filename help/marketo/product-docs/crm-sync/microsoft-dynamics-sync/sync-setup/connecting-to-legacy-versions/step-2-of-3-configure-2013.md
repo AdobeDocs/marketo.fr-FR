@@ -69,7 +69,7 @@ Il reste quelques derniers éléments de configuration avant de passer à l’ar
 
    >[!NOTE]
    >
-   >Si la configuration **** est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez à nouveau la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) ou essayez de vous déconnecter puis de vous reconnecter.
+   >Si la configuration **&#x200B;**&#x200B;est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez à nouveau la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) ou essayez de vous déconnecter puis de vous reconnecter.
 
 1. Cliquez sur **[!UICONTROL Par défaut]**.
 

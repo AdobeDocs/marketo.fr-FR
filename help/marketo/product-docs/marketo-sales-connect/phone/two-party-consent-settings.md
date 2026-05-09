@@ -17,7 +17,7 @@ Afin de garantir la conformité aux lois américaines sur le consentement bipart
 
 >[!PREREQUISITES]
 >
->Avant de suivre les étapes ci-dessous, vous devez d’abord [ activer l’enregistrement des appels ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Avant de suivre les étapes ci-dessous, vous devez d’abord [&#x200B; activer l’enregistrement des appels &#x200B;](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Cliquez sur l’icône Paramètres et sélectionnez **[!UICONTROL Paramètres]**.
 

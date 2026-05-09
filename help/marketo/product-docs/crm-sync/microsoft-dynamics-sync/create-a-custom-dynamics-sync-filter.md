@@ -81,7 +81,7 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 
 Même si la synchronisation initiale est terminée, accédez à et sélectionnez les champs à synchroniser avec Marketo.
 
-1. Accédez à Admin et sélectionnez ****.
+1. Accédez à Admin et sélectionnez **&#x200B;**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 

@@ -95,7 +95,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
    >[!CAUTION]
    >
-   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [ publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
+   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [&#x200B; publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
 
    >[!NOTE]
    >

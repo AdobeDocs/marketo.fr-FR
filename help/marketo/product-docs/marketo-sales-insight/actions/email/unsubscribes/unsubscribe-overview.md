@@ -44,7 +44,7 @@ Si vous êtes un administrateur, vous pouvez accéder au groupe de désabonnemen
 
 ## Vignette d’historique de désabonnement {#unsubscribe-history-card}
 
-La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et aux utilisateurs d’obtenir des informations contextuelles sur l’historique de désabonnement de leurs contacts. Accédez-y en vous rendant dans l’onglet [!UICONTROL Personnes] et en sélectionnant une personne. Elle se trouve au bas de l’onglet [!UICONTROL  À propos ] dans la vue Détails de la personne.
+La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et aux utilisateurs d’obtenir des informations contextuelles sur l’historique de désabonnement de leurs contacts. Accédez-y en vous rendant dans l’onglet [!UICONTROL Personnes] et en sélectionnant une personne. Elle se trouve au bas de l’onglet [!UICONTROL &#x200B; À propos &#x200B;] dans la vue Détails de la personne.
 
 >[!NOTE]
 >

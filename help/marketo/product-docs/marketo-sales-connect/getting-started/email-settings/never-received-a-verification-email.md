@@ -17,4 +17,4 @@ Vous n&#39;avez pas reçu l&#39;e-mail de vérification de notre part ?
 
 Tout d’abord, assurez-vous qu’il ne se trouve pas dans votre dossier spam.
 
-Si vous ne trouvez pas l’adresse électronique, contactez l’assistance de [](https://nation.marketo.com/t5/Support/ct-p/Support).
+Si vous ne trouvez pas l’adresse électronique, contactez l’assistance de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).

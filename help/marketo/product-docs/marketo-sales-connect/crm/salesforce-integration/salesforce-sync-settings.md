@@ -111,6 +111,6 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 
    ![](assets/seven-2.png)
 
-1. Choisissez l’option souhaitée (la case « [!UICONTROL  Ne pas synchroniser avec les tâches Salesforce ] est sélectionnée par défaut).
+1. Choisissez l’option souhaitée (la case « [!UICONTROL &#x200B; Ne pas synchroniser avec les tâches Salesforce &#x200B;] est sélectionnée par défaut).
 
    ![](assets/eight.png)

@@ -25,7 +25,7 @@ CAPTURE D’ÉCRAN
 | **Qualification du programme** | Fournit des détails sur les raisons pour lesquelles un prospect ne s’est pas qualifié pour un programme d’éducation. |
 | **Progression du cycle de vie** | À utiliser pour comprendre pourquoi un prospect est bloqué dans une étape plus longtemps que prévu. |
 | **Analyse de l’engagement** | À utiliser lorsqu’un prospect a cessé d’ouvrir ou de cliquer sur des e-mails. |
-| Parcours de campagne **** | À utiliser pour afficher le chemin complet et les points de contact d’un prospect dans le Parcours. |
+| Parcours de campagne **&#x200B;**&#x200B;| À utiliser pour afficher le chemin complet et les points de contact d’un prospect dans le Parcours. |
 | **Qualité des données** | À utiliser lorsqu’il est possible que des données erronées entraînent un problème avec le prospect. |
 | **Remise des ventes** | A utiliser lorsque le service des ventes a rejeté un prospect et n&#39;a pas effectué de suivi. |
 | **Attribution** | À utiliser pour explorer ce qui a influencé un prospect et a conduit à la génération d’une opportunité. |

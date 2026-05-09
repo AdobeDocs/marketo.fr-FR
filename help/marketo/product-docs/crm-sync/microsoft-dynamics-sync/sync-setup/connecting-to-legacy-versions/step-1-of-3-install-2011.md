@@ -79,7 +79,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] On-Premise et Marketo, v
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. [!UICONTROL Gestion des prospects ] apparaît désormais sur la page **[!UICONTROL Toutes les solutions]**.
+1. [!UICONTROL Gestion des prospects &#x200B;] apparaît désormais sur la page **[!UICONTROL Toutes les solutions]**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 

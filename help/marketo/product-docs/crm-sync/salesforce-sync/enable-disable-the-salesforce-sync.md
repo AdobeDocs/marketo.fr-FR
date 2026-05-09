@@ -19,7 +19,7 @@ Lorsque vous apportez des modifications majeures à vos paramètres de synchroni
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Sous ****, cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
+1. Sous **&#x200B;**, cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

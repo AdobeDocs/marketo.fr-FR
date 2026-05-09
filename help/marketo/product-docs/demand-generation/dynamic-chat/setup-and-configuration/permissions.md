@@ -16,7 +16,7 @@ Vous pouvez modifier cinq profils par défaut avec des autorisations prédéfini
 
 ## Modifier les autorisations existantes {#edit-existing-permissions}
 
-1. Dans [](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
+1. Dans [&#128279;](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
@@ -50,7 +50,7 @@ Vous pouvez maintenant répéter ce processus pour toutes les autres zones de Dy
 
 ## Création d’un profil {#create-a-profile}
 
-1. Dans [](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
+1. Dans [&#128279;](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 

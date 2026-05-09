@@ -42,7 +42,7 @@ Il s’agit de la dernière étape de la synchronisation.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. Sélectionnez ****.
+1. Sélectionnez **&#x200B;**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
@@ -74,7 +74,7 @@ Il s’agit de la dernière étape de la synchronisation.
 
 >[!NOTE]
 >
->Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [ Sélectionner les champs à synchroniser ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [&#x200B; Sélectionner les champs à synchroniser &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 

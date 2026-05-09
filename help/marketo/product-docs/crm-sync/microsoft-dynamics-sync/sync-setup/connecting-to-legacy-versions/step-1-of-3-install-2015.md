@@ -55,7 +55,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 2015 On-Premise avec Mar
 
    ![](assets/step6.png)
 
-1. De retour sur la page [!UICONTROL  Informations sur la solution ], cliquez sur **[!UICONTROL Suivant]**.
+1. De retour sur la page [!UICONTROL &#x200B; Informations sur la solution &#x200B;], cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 

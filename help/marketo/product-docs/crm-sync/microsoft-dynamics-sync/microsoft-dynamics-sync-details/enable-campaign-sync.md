@@ -26,7 +26,7 @@ Cette option permet à Marketo d’ajouter et de supprimer des membres d’[!DNL
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/enable-campaign-sync-2.png)
 

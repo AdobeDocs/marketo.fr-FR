@@ -35,7 +35,7 @@ Pour configurer ce paramètre, procédez comme suit dans la zone LaunchPoint de 
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Comme auparavant, laissez les pages sélectionnées telles quelles, n’apportez **** modifications. Cliquez sur **[!UICONTROL Suivant]**.
+1. Comme auparavant, laissez les pages sélectionnées telles quelles, n’apportez **&#x200B;**&#x200B;modifications. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 

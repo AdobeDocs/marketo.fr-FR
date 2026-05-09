@@ -63,7 +63,7 @@ Avec cette intégration, vous pouvez envoyer des données d’audience à partir
 
    >[!CAUTION]
    >
-   >Avant d’utiliser votre intégration, les conditions relatives aux audiences personnalisées de [Accept [!DNL Facebook] sont ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook]. Sans cela, les mises à jour de l’audience échoueront.
+   >Avant d’utiliser votre intégration, les conditions relatives aux audiences personnalisées de [Accept [!DNL Facebook] sont &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook]. Sans cela, les mises à jour de l’audience échoueront.
 
 >[!MORELIKETHIS]
 >

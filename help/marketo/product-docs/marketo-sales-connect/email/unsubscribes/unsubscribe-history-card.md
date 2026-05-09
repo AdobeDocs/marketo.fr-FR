@@ -17,7 +17,7 @@ La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et
 
 >[!NOTE]
 >
->Pour y accéder, cliquez sur l’onglet [!UICONTROL Personnes] et sélectionnez une personne. Elle se trouve au bas de l’onglet [!UICONTROL  À propos ] dans la vue Détails de la personne (si elle est désabonnée).
+>Pour y accéder, cliquez sur l’onglet [!UICONTROL Personnes] et sélectionnez une personne. Elle se trouve au bas de l’onglet [!UICONTROL &#x200B; À propos &#x200B;] dans la vue Détails de la personne (si elle est désabonnée).
 
 ![](assets/1-1.jpg)
 

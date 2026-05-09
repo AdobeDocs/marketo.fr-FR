@@ -19,7 +19,7 @@ Après avoir créé des centaines de campagnes [!DNL Web Personalization], il es
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Sur la page [!UICONTROL  Campagnes web ], cliquez sur **[!UICONTROL Filtrer]**.
+1. Sur la page [!UICONTROL &#x200B; Campagnes web &#x200B;], cliquez sur **[!UICONTROL Filtrer]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 

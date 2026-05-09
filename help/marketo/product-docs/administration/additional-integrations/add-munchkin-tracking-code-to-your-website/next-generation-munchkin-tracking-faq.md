@@ -89,4 +89,4 @@ Consultez ces liens :
 
 ## J&#39;ai d&#39;autres questions ! Comment puis-je obtenir des réponses ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Visitez la [Communauté ](https://experienceleaguecommunities.adobe.com/?profile.language=fr){target="_blank"}. Vous pouvez également contacter le support technique de Marketo. Ils se feront un plaisir de répondre à vos questions.
+Visitez la [Communauté &#x200B;](https://experienceleaguecommunities.adobe.com/?profile.language=fr){target="_blank"}. Vous pouvez également contacter le support technique de Marketo. Ils se feront un plaisir de répondre à vos questions.

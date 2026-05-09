@@ -26,7 +26,7 @@ Le fragment de code Dynamic Chat JavaScript peut être installé sur n’importe
 
 90 jours. Pour obtenir la liste complète des limites/paramètres, reportez-vous à la page Marketo Engage [Description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
-Dynamic Chat prend-il en charge d’autres langues que l’anglais ?****
+Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**&#x200B;**
 
 Oui. Dynamic Chat prend en charge les langues suivantes : français, espagnol, allemand, japonais, néerlandais, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans [Modification de la langue](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
@@ -74,7 +74,7 @@ Les transcriptions Dynamic Chat sont accessibles pour tout prospect connu qui a 
 
 Il n’existe actuellement aucun moyen systématique de relancer une conversation ou de revenir à un point précédent, mais celui-ci se trouve sur la feuille de route de Dynamic Chat.
 
-Dynamic Chat s’intègre-t-il à Salesforce ?****
+Dynamic Chat s’intègre-t-il à Salesforce ?**&#x200B;**
 
 Dynamic Chat s’intègre à Salesforce via l’intégration de Marketo Engage Salesforce.
 

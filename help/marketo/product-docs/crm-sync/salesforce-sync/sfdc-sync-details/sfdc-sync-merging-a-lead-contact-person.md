@@ -16,7 +16,7 @@ ht-degree: 3%
 Parfois, il est préférable de simplement énumérer les règles. Et voilà :
 
 * Lorsque vous fusionnez deux prospects dans **[!DNL Salesforce]**, la synchronisation normale indique à Marketo que les prospects sont fusionnés automatiquement en tant que personnes dans Marketo.
-* La fusion de deux personnes dans **** appelle en fait le même processus que la fusion en tant que prospects dans [!DNL Salesforce]. Cela fonctionne toujours automatiquement.
+* La fusion de deux personnes dans **&#x200B;**&#x200B;appelle en fait le même processus que la fusion en tant que prospects dans [!DNL Salesforce]. Cela fonctionne toujours automatiquement.
 * La fusion d’un **prospect (personne) dans un contact** fonctionne de la même manière. Vous vous retrouvez avec un seul contact des deux côtés.
 * Lors de la fusion, le score par défaut est additionné.
 

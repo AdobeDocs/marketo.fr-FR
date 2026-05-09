@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Rassemblez les workflows marketing et créatifs à l’aide d’Adobe Experience Manager Assets. Il est nativement intégré à Marketo Engage, de sorte que vous puissiez facilement accéder à _Assets as a Cloud Service_ pour découvrir et utiliser des ressources numériques afin de renseigner vos messages.
 
-Adobe Experience Manager _Assets as a Cloud Service_ offre une solution cloud facile à utiliser pour une gestion efficace des ressources numériques et des opérations Dynamic Media. Pour en savoir plus, consultez la documentation d’[](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/overview).
+Adobe Experience Manager _Assets as a Cloud Service_ offre une solution cloud facile à utiliser pour une gestion efficace des ressources numériques et des opérations Dynamic Media. Pour en savoir plus, consultez la documentation d’[&#128279;](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/overview).
 
 >[!PREREQUISITES]
 >
@@ -51,7 +51,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier AEM C
    >
    >* Seuls les référentiels qui ont été associés dans la même organisation IMS que votre abonnement Marketo Engage sont répertoriés.
    >
-   >* Marketo Engage ne prend en charge que les référentiels du niveau Diffusion . Si vous utilisez le niveau Auteur et souhaitez le convertir, contactez l’assistance technique de [](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
+   >* Marketo Engage ne prend en charge que les référentiels du niveau Diffusion . Si vous utilisez le niveau Auteur et souhaitez le convertir, contactez l’assistance technique de [&#128279;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. Vous devez ajouter un [certificat d’identification de service](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) pour configurer le référentiel. Cliquez sur le bouton **+ Ajouter un certificat**.
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 >* [Étape 1 de 4 : installer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
 >* [Étape 2 de 4 : configurer la solution Marketo avec une connexion de contrôle de mot de passe du propriétaire de la ressource](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
-1. Accédez à cet article [](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
+1. Accédez à cet article [&#128279;](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
 1. Suivez toutes les étapes. Pour l&#39;étape 3, entrez un nom d&#39;application approprié (p. ex. « [!DNL Marketo Integration] »). Sous Types de compte pris en charge, sélectionnez Compte dans cet annuaire organisationnel uniquement.
 

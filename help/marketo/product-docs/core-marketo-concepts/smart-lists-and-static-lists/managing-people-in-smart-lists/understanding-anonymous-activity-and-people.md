@@ -22,7 +22,7 @@ La première fois qu’une personne visite une page de destination de Marketo (o
 Une activité **Anonyme** est créée lorsque quelqu’un :
 
 * Première visite de votre page de destination Marketo.
-* Visite une page de votre site qui a un [suivi ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+* Visite une page de votre site qui a un [suivi &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 * Clique sur le lien [Afficher en tant que page web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} dans un e-mail Marketo.
 
 >[!NOTE]

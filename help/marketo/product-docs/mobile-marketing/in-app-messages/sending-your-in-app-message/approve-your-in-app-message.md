@@ -31,7 +31,7 @@ Vous devez approuver l’envoi avant que le message in-app ne soit envoyé.
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. Le message est maintenant « [!UICONTROL  Actif ].
+1. Le message est maintenant « [!UICONTROL &#x200B; Actif &#x200B;].
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 

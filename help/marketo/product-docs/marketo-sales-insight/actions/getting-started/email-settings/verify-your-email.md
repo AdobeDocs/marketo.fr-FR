@@ -36,4 +36,4 @@ Si votre identité n’est pas vérifiée, procédez comme suit.
 
 >[!NOTE]
 >
->Si vous ne recevez pas l’e-mail de vérification, vérifiez votre dossier de courriers indésirables. S&#39;il n&#39;est pas là, contactez l&#39;assistance de [](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si vous ne recevez pas l’e-mail de vérification, vérifiez votre dossier de courriers indésirables. S&#39;il n&#39;est pas là, contactez l&#39;assistance de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).

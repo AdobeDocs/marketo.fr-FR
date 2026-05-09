@@ -69,7 +69,7 @@ Vos nouveaux abonnements Marketo Engage ont été intégrés à [Adobe Identity 
 
 ## Configuration de Dynamic Chat sur Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Pour utiliser [](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), le canal d&#39;automatisation de conversation natif dans Marketo Engage, procédez à la configuration des autorisations utilisateur en suivant les étapes ci-dessous dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+Pour utiliser [&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), le canal d&#39;automatisation de conversation natif dans Marketo Engage, procédez à la configuration des autorisations utilisateur en suivant les étapes ci-dessous dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -124,4 +124,4 @@ Pour utiliser [](https://experienceleague.adobe.com/docs/marketo/using/product-d
 
 <p>
 
-Maintenant que votre compte Marketo Engage est prêt, veuillez consulter notre section [ Bonnes pratiques pour une nouvelle instance Marketo Engage ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} pour tirer le meilleur parti de votre investissement et vous configurer pour une réussite à long terme.
+Maintenant que votre compte Marketo Engage est prêt, veuillez consulter notre section [&#x200B; Bonnes pratiques pour une nouvelle instance Marketo Engage &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} pour tirer le meilleur parti de votre investissement et vous configurer pour une réussite à long terme.

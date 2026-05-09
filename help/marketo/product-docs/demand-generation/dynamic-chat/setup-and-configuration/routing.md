@@ -72,7 +72,7 @@ Identifiez et chargez votre compte cible et les propriétaires de ventes respect
 
 +++ Activer les autorisations de routage de compte
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
 
 1. Sous _Produits_, sélectionnez **Dynamic Chat**.
 

@@ -47,7 +47,7 @@ Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’util
 
    ![](assets/assign4.png)
 
-1. Cochez [!UICONTROL Utilisateur de synchronisation ] puis cliquez sur **[!UICONTROL OK]**.
+1. Cochez [!UICONTROL Utilisateur de synchronisation &#x200B;] puis cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/assign5.png)
 

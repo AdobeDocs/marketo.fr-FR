@@ -64,4 +64,4 @@ Créez un webinaire interactif dans les étapes suivantes.
 >
 >Il est recommandé d’espacer de 30 minutes deux événements consécutifs (à moins que la licence ne prenne en charge les webinaires simultanés) sous forme de mémoire tampon au cas où le webinaire précédent s’exécuterait au-delà de son heure planifiée.
 
-Il est maintenant temps de [ concevoir votre webinaire ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Il est maintenant temps de [&#x200B; concevoir votre webinaire &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.

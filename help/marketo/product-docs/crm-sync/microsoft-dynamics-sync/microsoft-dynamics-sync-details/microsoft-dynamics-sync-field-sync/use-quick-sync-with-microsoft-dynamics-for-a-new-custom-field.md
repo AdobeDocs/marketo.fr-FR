@@ -25,7 +25,7 @@ La synchronisation rapide peut synchroniser les valeurs nulles. Par exemple, si 
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 

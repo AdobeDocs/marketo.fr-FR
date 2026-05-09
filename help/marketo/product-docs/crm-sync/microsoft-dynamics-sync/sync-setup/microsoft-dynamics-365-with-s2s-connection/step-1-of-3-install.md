@@ -78,7 +78,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics 365] et Marketo, vous dev
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. [!UICONTROL Gestion des leads ] s’affiche désormais dans la liste des solutions.
+1. [!UICONTROL Gestion des leads &#x200B;] s’affiche désormais dans la liste des solutions.
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 

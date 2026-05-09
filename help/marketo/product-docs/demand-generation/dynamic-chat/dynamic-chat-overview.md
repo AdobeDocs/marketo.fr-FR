@@ -117,4 +117,4 @@ Vous trouverez ci-dessous quelques-unes des limites/paramètres de Dynamic Chat.
 
 ## Questions fréquentes {#faq}
 
-Voir la [FAQ ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Voir la [FAQ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

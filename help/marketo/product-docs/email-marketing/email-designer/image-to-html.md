@@ -24,7 +24,7 @@ Grâce à la technologie d’IA générative, le convertisseur image en HTML ana
 >[!PREREQUISITES]
 >
 >* Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
->* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir une image {#convert-an-image}
 
@@ -112,7 +112,7 @@ Le convertisseur d’images en HTML est idéal pour :
 * **Tester minutieusement** : tester l’e-mail sur différents clients de messagerie et appareils. Pour des résultats plus rapides, tirez parti de l’intégration [Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 * **Affiner manuellement** : effectuez les ajustements nécessaires à l’aide des fonctionnalités d’édition complète du Designer Email.
 * **Alignement de la marque** : vérifiez que les couleurs, les polices et le style correspondent à vos directives de marque.
-* **** : ajoutez du contenu dynamique et des jetons de personnalisation selon vos besoins.
+* **&#x200B;**&#x200B;: ajoutez du contenu dynamique et des jetons de personnalisation selon vos besoins.
 * **Accessibilité** : passez en revue et améliorez les fonctionnalités d’accessibilité si nécessaire.
 
 ## Limitations et considérations {#limitations}

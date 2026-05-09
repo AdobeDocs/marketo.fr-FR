@@ -60,7 +60,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
    >
    >Cochez la case **[!UICONTROL Le mot de passe n’expire jamais]**.
 
-1. Dans la section [!UICONTROL  Autorisations générales des utilisateurs ] , vérifiez que les cases suivantes sont cochées :
+1. Dans la section [!UICONTROL &#x200B; Autorisations générales des utilisateurs &#x200B;] , vérifiez que les cases suivantes sont cochées :
 
    * [!UICONTROL Convertir les leads]
    * [!UICONTROL Modifier les événements]
@@ -68,7 +68,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Dans la section [!UICONTROL  Autorisations d’objet standard ], vérifiez que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
+1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], vérifiez que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
 
    * [!UICONTROL Comptes]
    * [!UICONTROL Campagnes]

@@ -14,7 +14,7 @@ ht-degree: 6%
 **Je ne vois pas les activités d’e-mail ou d’appel synchronisées avec Salesforce.**
 
 * Vérifiez que vous êtes connecté à Salesforce. Chaque utilisateur devra disposer d’une connexion pour consigner ses e-mails et appels vers Salesforce.
-* Vérifiez que vous avez configuré les [paramètres de synchronisation ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}.
+* Vérifiez que vous avez configuré les [paramètres de synchronisation &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}.
 * Les e-mails effectueront une recherche d’enregistrement en fonction de l’identifiant Salesforce comme recherche principale et de l’adresse e-mail comme adresse secondaire. Vous pouvez confirmer qu’un enregistrement de personne possède un Salesforce ID et une adresse e-mail qui lui sont associés dans l’application web [Actions](https://toutapp.com/next#command_center){target="_blank"}.
 * Les appels effectueront une recherche d’enregistrement en fonction de l’identifiant Salesforce uniquement. S’il n’existe aucun ID Salesforce dans l’enregistrement de personne dans Actions, l’appel ne se connecte pas. Vous pouvez confirmer qu’un enregistrement de personne est associé à un Salesforce ID dans l’application web [Actions](https://toutapp.com/next#command_center){target="_blank"}.
 

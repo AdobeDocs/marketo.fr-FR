@@ -70,7 +70,7 @@ Les rubriques abordées sont disponibles dans les déclencheurs de liste dynamiq
 
 >[!IMPORTANT]
 >
->Lorsque vous utilisez l’IA générative, vous devez respecter les [instructions d’utilisation de l’IA générative de ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) afin de vous assurer que les fonctionnalités de Adobe Experience Cloud qui intègrent l’IA générative sont utilisées de manière sûre et responsable.
+>Lorsque vous utilisez l’IA générative, vous devez respecter les [instructions d’utilisation de l’IA générative de &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) afin de vous assurer que les fonctionnalités de Adobe Experience Cloud qui intègrent l’IA générative sont utilisées de manière sûre et responsable.
 
 ## Questions fréquentes {#faq}
 

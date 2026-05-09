@@ -18,7 +18,7 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
 
 >[!NOTE]
 >
->Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} personnalisés et [Marketo.
+>Dynamic Chat prend en charge la synchronisation des champs de personne et d&#39;entreprise natifs[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} personnalisés et Marketo.
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Dynamic Chat]**.
 

@@ -20,11 +20,11 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs et util
 
 ## Ajouter un utilisateur ou une utilisatrice de conversation {#add-a-chat-user}
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -78,11 +78,11 @@ Si le rôle Marketo de l’utilisateur de conversation nouvellement ajouté ne d
 
 ## Supprimer un utilisateur de conversation {#remove-a-chat-user}
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -108,5 +108,5 @@ Si le rôle Marketo de l’utilisateur de conversation nouvellement ajouté ne d
 
 >[!MORELIKETHIS]
 >
->* [Utilisateurs ](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
+>* [Utilisateurs &#x200B;](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
 >* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html){target="_blank"}

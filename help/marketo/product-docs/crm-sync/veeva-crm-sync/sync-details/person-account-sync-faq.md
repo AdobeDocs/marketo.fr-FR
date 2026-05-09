@@ -68,7 +68,7 @@ Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés
 >
 >Marketo synchronise uniquement les champs auxquels l’utilisateur de synchronisation Marketo a accès.
 
-Marketo respectera-t-il les règles de validation [!DNL Veeva] ?****
+Marketo respectera-t-il les règles de validation [!DNL Veeva] ?**&#x200B;**
 
 Oui, en cas de conflit, nous consignerons le résultat dans le journal d’activité du prospect.
 

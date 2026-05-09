@@ -17,7 +17,7 @@ Azure Active Directory étend vos répertoires locaux dans le cloud, fournissant
 
 ## Enregistrement d’une nouvelle application {#registering-a-new-app}
 
-1. [ Connectez-vous ](https://login.microsoftonline.com/){target="_blank"} portail de gestion Microsoft Azure à l’aide d’un compte disposant d’autorisations d’administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d’administration Office 365 en développant l’élément **[!UICONTROL Admin]** dans le volet de navigation de gauche et en sélectionnant **[!UICONTROL Azure AD]**.
+1. [&#x200B; Connectez-vous &#x200B;](https://login.microsoftonline.com/){target="_blank"} portail de gestion Microsoft Azure à l’aide d’un compte disposant d’autorisations d’administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d’administration Office 365 en développant l’élément **[!UICONTROL Admin]** dans le volet de navigation de gauche et en sélectionnant **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >

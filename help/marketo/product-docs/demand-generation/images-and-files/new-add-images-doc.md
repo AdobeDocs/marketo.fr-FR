@@ -103,7 +103,7 @@ Texte
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Sélectionnez l&#39;option **** et cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez l&#39;option **&#x200B;**&#x200B;et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

@@ -65,7 +65,7 @@ Pour créer un rapport de performances des personnes avec des colonnes de platef
 
 ## Créer un rapport de performances des personnes {#create-a-people-performance-report}
 
-1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **** et **[!UICONTROL Android]**.
+1. Sous Activités marketing, sélectionnez le programme qui héberge vos listes dynamiques **&#x200B;**&#x200B;et **[!UICONTROL Android]**.
 
    ![](assets/ten.png)
 

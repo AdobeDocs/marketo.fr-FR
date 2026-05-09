@@ -25,7 +25,7 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. Cliquez sur **** puis **[!UICONTROL Désactiver la synchronisation]**.
+1. Cliquez sur **&#x200B;**&#x200B;puis **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 

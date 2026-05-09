@@ -35,7 +35,7 @@ Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospe
 
 1. Un e-mail du MSC s’affiche. Il comprend les fonctionnalités suivantes :
 
-   a. Le champ « [!UICONTROL  À ] » affiche « [!UICONTROL  Tous les destinataires ] » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste de prospects
+   a. Le champ « [!UICONTROL &#x200B; À &#x200B;] » affiche « [!UICONTROL &#x200B; Tous les destinataires &#x200B;] » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste de prospects
 b. Cette liste est visible dans le panneau de gauche sous le nom « [!UICONTROL Composition en bloc] ». Vous pouvez ajouter ou supprimer des destinataires ici
 c. Vous pouvez choisir un modèle ou créer votre propre e-mail
 d. Vous pouvez prévisualiser les champs dynamiques qui seront renseignés dans votre e-mail
@@ -53,7 +53,7 @@ e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi pour plu
 
    ![](assets/five-3.png)
 
-1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six.png)
 

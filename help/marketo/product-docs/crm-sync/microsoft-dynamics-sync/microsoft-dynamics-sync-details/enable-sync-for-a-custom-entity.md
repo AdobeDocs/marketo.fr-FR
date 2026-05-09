@@ -32,7 +32,7 @@ Si vous avez besoin que les données d’entité personnalisées de [!DNL Dynami
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Sélectionnez **** puis cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
+1. Sélectionnez **&#x200B;**&#x200B;puis cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 

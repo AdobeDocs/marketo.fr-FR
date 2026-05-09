@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNLBest Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
+>[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNL Best Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
 
 ## Activation de l’application mobile [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
@@ -65,11 +65,11 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. Sélectionnez **** et **[!UICONTROL Ajouter]** dans les éléments de menu **[!UICONTROL Sélectionné]**.
+1. Sélectionnez **&#x200B;**&#x200B;et **[!UICONTROL Ajouter]** dans les éléments de menu **[!UICONTROL Sélectionné]**.
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Sélectionnez ****, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **&#x200B;**, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
@@ -113,11 +113,11 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Sélectionnez **** et **[!UICONTROL Ajouter]** dans les onglets sélectionnés.
+1. Sélectionnez **&#x200B;**&#x200B;et **[!UICONTROL Ajouter]** dans les onglets sélectionnés.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Sélectionnez ****, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez **&#x200B;**, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 

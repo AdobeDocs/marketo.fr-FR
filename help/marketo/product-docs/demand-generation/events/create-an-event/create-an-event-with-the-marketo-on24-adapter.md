@@ -15,14 +15,14 @@ ht-degree: 22%
 
 Vous devez connaître les blocs de création et la séquence recommandée pour la création d’événements dans Marketo. Vous devez également avoir une connaissance pratique des concepts Marketo suivants :
 
-* [Programmes ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} ainsi que les événements, et les différences entre eux
+* [Programmes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} ainsi que les événements, et les différences entre eux
 * [Canaux](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [Ressources locales](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
 * [Campagnes enfants](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} et [Statuts des programmes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->Consultez la [documentation de l’API ](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} pour plus d’informations sur les API Marketo.
+>Consultez la [documentation de l’API &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} pour plus d’informations sur les API Marketo.
 
 ## Conditions préalables {#prerequisites}
 
