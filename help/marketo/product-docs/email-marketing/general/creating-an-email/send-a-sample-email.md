@@ -56,7 +56,7 @@ Il est rapide et facile d’envoyer des échantillons d’un e-mail. Pour envoye
 
    >[!NOTE]
    >
-   >Le champ déclencheur ne s’applique qu’à ceux qui utilisent le [script d’e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >Le champ déclencheur ne s’applique qu’à ceux qui utilisent le [script d’e-mail](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting).
 
 ## Envoyer un exemple d’e-mail en fonction d’un segment {#send-a-sample-email-based-on-a-segment}
 

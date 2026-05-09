@@ -20,10 +20,10 @@ Découvrez comment exporter les données relatives aux problèmes de page dans u
 >
 >Le 31 mars 2026, Marketo Engage [a abandonné la fonctionnalité Optimisation du moteur de recherche](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) est toujours disponible pour une durée limitée. Suivez les étapes décrites dans les articles ci-dessous pour exporter des données.
 >
->* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Accédez à la section **[!UICONTROL Pages]**.
 

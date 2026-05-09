@@ -47,7 +47,7 @@ Une fois que vous avez préparé le titre, la description et l’image du conten
 
 ## Personnaliser le code JavaScript et l’incorporer dans votre site web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
+Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
 
 Collez le code JavaScript dans votre site web à l’emplacement où vous souhaitez que le modèle apparaisse.
 

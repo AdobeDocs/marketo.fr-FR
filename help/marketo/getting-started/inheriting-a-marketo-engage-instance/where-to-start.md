@@ -18,11 +18,11 @@ Démarrez-vous un nouveau travail ou reprenez-vous une instance existante d’un
 
 Vérifiez que vous êtes correctement configuré dans la communauté Marketo Engage.
 
-* [**Configurez votre profil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} en remplissant les champs requis (société, spécialisations de solution, pays, etc.)
+* [**Configurez votre profil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"} en remplissant les champs requis (société, spécialisations de solution, pays, etc.)
 
-* Lisez les [**Directives de la communauté Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
+* Lisez les [**Directives de la communauté Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=fr){target="_blank"}.
 
-* Découvrez comment [**soumettre un cas d’assistance**](https://experienceleague.adobe.com/en/support#home){target="_blank"} et confirmer que vous êtes bien configuré en tant qu’[administrateur d’assistance](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Découvrez comment [**soumettre un cas d’assistance**](https://experienceleague.adobe.com/fr/support#home){target="_blank"} et confirmer que vous êtes bien configuré en tant qu’[administrateur d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Fusion De Vos Profils De La Communauté Marketo Engage {#merge-your-community-profiles}
 
@@ -73,10 +73,10 @@ Vous pouvez également [télécharger les listes de contrôle](/help/marketo/get
 
 Besoin d&#39;aide supplémentaire ? Contactez-nous ou d’autres utilisateurs de Marketo Engage via les liens ci-dessous.
 
-* Pour toute assistance technique sur un problème qui ne fonctionne pas correctement, contactez le service clientèle de **[&#128279;](https://experienceleague.adobe.com/en/support){target="_blank"}**.
+* Pour toute assistance technique sur un problème qui ne fonctionne pas correctement, contactez le service clientèle de **[&#128279;](https://experienceleague.adobe.com/fr/support){target="_blank"}**.
 
-* Connectez-vous avec d’autres utilisateurs de Marketo Engage et apprenez-en plus grâce à la **[Communauté Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
+* Connectez-vous avec d’autres utilisateurs de Marketo Engage et apprenez-en plus grâce à la **[Communauté Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"}**.
 
-* Pour obtenir une aide pratique afin de tirer le meilleur parti de votre instance Marketo Engage, contactez **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Pour obtenir une aide pratique afin de tirer le meilleur parti de votre instance Marketo Engage, contactez **[Adobe Professional Services](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"}**.
 
-* Regardez **[tutoriels vidéo organisés sur &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** différents aspects de Marketo Engage.
+* Regardez **[tutoriels vidéo organisés sur &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr){target="_blank"}** différents aspects de Marketo Engage.
