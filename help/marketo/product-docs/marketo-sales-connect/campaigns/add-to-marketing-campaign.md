@@ -4,9 +4,9 @@ description: Découvrez comment ajouter des individus ou des groupes à une camp
 title: Ajouter à la campagne marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/four-3.png)
 
-1. Puisque vous effectuez un ajout à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur **[!UICONTROL Individus]** et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
+1. Puisque vous ajoutez à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur **[!UICONTROL Individus]** et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
 
    ![](assets/five-2.png)
 
@@ -59,7 +59,7 @@ ht-degree: 2%
 
    ![](assets/eight.png)
 
-1. On vous montre les contacts qui remplissent les critères. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
+1. Les contacts qui remplissent les critères s’affichent. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
 
    ![](assets/nine.png)
 
@@ -77,7 +77,7 @@ ht-degree: 2%
 
    ![](assets/twelve.png)
 
-1. Puisque vous effectuez un ajout à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur **[!UICONTROL Individus]** et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
+1. Puisque vous ajoutez à une campagne marketing, ignorez la sélection d’une adresse « De ». Vous pouvez toutefois choisir d’ajouter d’autres contacts. Si vous le souhaitez, cliquez sur **[!UICONTROL Individus]** et saisissez-les. Cliquez sur **[!UICONTROL Suivant]** lorsque vous avez terminé.
 
    ![](assets/thirteen.png)
 
@@ -101,6 +101,6 @@ ht-degree: 2%
 
    ![](assets/eight.png)
 
-1. On vous montre les contacts qui remplissent les critères. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
+1. Les contacts qui remplissent les critères s’affichent. Cliquez sur **[!UICONTROL Démarrer]** pour les ajouter.
 
    ![](assets/nine.png)

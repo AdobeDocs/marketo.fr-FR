@@ -3,7 +3,7 @@ description: Découvrez les actions rapides dans le centre de commande pour les 
 title: Actions rapides dans le centre de contrôle
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 5%
@@ -16,7 +16,7 @@ La grille d’e-mail comporte deux types de colonnes d’action rapide. les acti
 
 ## Actions rapides {#quick-actions}
 
-Les actions rapides d’e-mail sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour le statut de l’e-mail que vous regardez. Deux actions rapides au maximum sont visibles par statut d’e-mail. Vous pouvez voir ci-dessous les actions rapides relatives aux e-mails qui seront disponibles pour chaque statut.
+Les actions rapides d’e-mail sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour le statut de l’e-mail que vous consultez. Deux actions rapides au maximum sont visibles par statut d’e-mail. Vous pouvez voir ci-dessous les actions rapides relatives aux e-mails qui seront disponibles pour chaque statut.
 
 **[!UICONTROL Délivrés]**
 

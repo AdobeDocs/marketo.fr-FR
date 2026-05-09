@@ -4,10 +4,10 @@ title: Centre d’aide
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 84%
+source-wordcount: '160'
+ht-degree: 85%
 
 ---
 

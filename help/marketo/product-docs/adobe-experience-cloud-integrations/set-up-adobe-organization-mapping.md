@@ -4,9 +4,9 @@ description: Découvrez comment configurer le mappage d’organisation Adobe dan
 title: Configurer le mappage d’organisation Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '247'
 ht-degree: 6%
 
 ---
@@ -28,7 +28,7 @@ Pour synchroniser avec les applications Adobe, telles qu’Audience Manager, le 
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Sous Intégration, cliquez sur **[!UICONTROL Mappage d’organisation Adobe]**.
+1. Sous Intégration, cliquez sur **[!UICONTROL Mappage d’organisation]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
@@ -36,7 +36,7 @@ Pour synchroniser avec les applications Adobe, telles qu’Audience Manager, le 
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Saisissez votre ID d’organisation Adobe IMS (apprenez à le trouver [ici](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=fr){target="_blank"}) et cliquez sur **[!UICONTROL OK]**.
+1. Saisissez votre [ID d’organisation Adobe IMS](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) et cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -52,6 +52,6 @@ Pour synchroniser avec les applications Adobe, telles qu’Audience Manager, le 
    >
    >Pour des raisons de sécurité, vous devez être un administrateur d’organisation pour l’organisation Adobe à laquelle vous souhaitez mapper. Si ce n’est pas le cas, l’action échoue. En outre, l’utilisateur Adobe et l’utilisateur Marketo doivent utiliser la même adresse e-mail lors de la connexion.
 
-1. Si vous n’êtes _pas_ déjà connecté, un pop-up s’affiche dans un nouvel onglet/une nouvelle fenêtre. Connectez-vous à votre organisation Adobe (cette action valide l’accès à l’organisation).
+1. Si vous n’êtes _pas_ déjà connecté, un pop-up s’affiche dans un nouvel onglet ou une nouvelle fenêtre. Connectez-vous à votre organisation Adobe (cette action valide l’accès à l’organisation).
 
 Vous pouvez désormais [partager des données d’audience](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} vers Adobe Experience Cloud ou [synchroniser une audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}.

@@ -4,9 +4,9 @@ description: Découvrez comment configurer Marketo Sales Insight dans les éditi
 title: Configurer Informations sur les ventes Marketo dans Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '946'
 ht-degree: 5%
 
 ---
@@ -63,7 +63,7 @@ Configurez Marketo Sales Insight dans les éditions Entreprise/Illimité de Sale
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5b.png){width="800" zoomable="yes"}
 
-1. Une fois les nouvelles informations d’identification renseignées, mettez-les à jour dans l’onglet _Configuration Marketo_ de votre instance Salesforce.
+1. Une fois les nouvelles informations d’identification renseignées, mettez-les à jour dans l’onglet _Configuration_ de votre instance Salesforce.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5c.png)
 
@@ -180,15 +180,15 @@ En raison des améliorations apportées à la sécurité de Salesforce, les pack
 1. Répétez les étapes 8 à 10 pour ajouter ces champs Sales Insight pour **[!UICONTROL Contact]**. Veillez à enregistrer les modifications.
 
    * Dernier moment significatif
-   * Date du dernier moment significatif
+   * Date dernier moment significatif
    * [!UICONTROL Desc Dernier moment intéressant]
-   * [!UICONTROL Source du dernier moment intéressant]
+   * Source du dernier moment intéressant][!UICONTROL 
    * [!UICONTROL Type de dernier moment intéressant]
    * [!UICONTROL Dernière activité Marketo par ventes]
    * [!UICONTROL Dernier engagement Marketo par les ventes]
    * [!UICONTROL Score du lead MKTO]
-   * [!UICONTROL &#x200B; Score relatif &#x200B;]
-   * [!UICONTROL &#x200B; Valeur de score relative &#x200B;]
+   * [!UICONTROL  Score relatif ]
+   * [!UICONTROL  Valeur de score relative ]
    * [!UICONTROL Ventes Insight] - Ouvre la page de liste complète des contacts
    * [!UICONTROL Urgence]
    * [!UICONTROL Valeur d’urgence]
@@ -237,7 +237,7 @@ Les champs Personne de Marketo doivent être mappés aux champs Contact de Sales
 
 1. Copiez les informations d’identification depuis le panneau API Soap de la page d’administration [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration de [!DNL Salesforce] [!DNL Sales Insight] .
 
-1. Marketo Copiez les informations d’identification à partir du panneau API Rest de la page d’administration d’Insight de ventes [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration d’[!DNL Salesforce] [!DNL Sales Insight] .
+1. Copiez les informations d’identification à partir du panneau API Rest de la page d’administration d’Insight de ventes [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration d’[!DNL Sales Insight] [!DNL Salesforce] .
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
@@ -245,7 +245,7 @@ Vous devriez être en mesure de voir les champs Marketo Sales Insight pour les l
 
 >[!NOTE]
 >
->Si le test des diagnostics échoue, l’ajout [&#x200B; champs supplémentaires à la mise en page &#x200B;](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
+>Si le test des diagnostics échoue, l’ajout [ champs supplémentaires à la mise en page ](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
 
 >[!NOTE]
 >

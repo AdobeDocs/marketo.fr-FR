@@ -4,9 +4,9 @@ description: Découvrez comment mettre à jour la solution Marketo pour Microsof
 title: Mettez à jour la solution Marketo pour  [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Lorsqu’une nouvelle solution [!DNL Microsoft Dynamics] est publiée, vous pouv
 
 >[!CAUTION]
 >
->Il est impératif de télécharger la dernière solution Marketo _avant d_ effectuer une mise à jour.
+>il est impératif de télécharger la dernière solution Marketo _avant d_ effectuer une mise à jour.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
@@ -39,7 +39,7 @@ Lorsqu’une nouvelle solution [!DNL Microsoft Dynamics] est publiée, vous pouv
 
    ![](assets/msd-online.png)
 
-   Génial ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil. Si vous ne connaissez pas les étapes d’installation, contactez votre administrateur [!UICONTROL Dynamics].
+   Un fichier zip de la solution sera désormais téléchargé sur votre appareil. Si vous ne connaissez pas les étapes d’installation, contactez votre administrateur [!UICONTROL Dynamics].
 
 ## Exécution de la mise à jour {#performing-the-update}
 
@@ -51,4 +51,4 @@ Lorsqu’une nouvelle solution [!DNL Microsoft Dynamics] est publiée, vous pouv
 
 >[!CAUTION]
 >
->Sélectionner Mettre à niveau au lieu de Mettre à jour peut entraîner une corruption des données dans votre environnement [!DNL Dynamics]. **Veillez à choisir Mettre à jour** sous [!UICONTROL Options d’importation].
+>Sélectionner Mettre à niveau au lieu de Mettre à jour peut entraîner une corruption des données dans votre environnement [!DNL Dynamics]. **Sélectionnez Mettre à jour** sous [!UICONTROL Options d’importation].

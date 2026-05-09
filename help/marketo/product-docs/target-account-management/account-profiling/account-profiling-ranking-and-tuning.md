@@ -4,10 +4,10 @@ description: Découvrez comment le profilage de compte classe les entreprises en
 title: Classement et réglage d’Account Profiling
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 6%
+source-wordcount: '426'
+ht-degree: 5%
 
 ---
 
@@ -158,7 +158,7 @@ Pointez sur les info-bulles pour obtenir une description de chaque colonne.
 
 ![](assets/tool-tip.png)
 
-Cliquez sur le menu déroulant [!UICONTROL &#x200B; Ajouter un indicateur ICP &#x200B;] pour insérer des indicateurs supplémentaires dans votre modèle.
+Cliquez sur le menu déroulant [!UICONTROL  Ajouter un indicateur ICP ] pour insérer des indicateurs supplémentaires dans votre modèle.
 
 ![](assets/add-icp.png)
 
@@ -178,6 +178,6 @@ Cliquez sur **[!UICONTROL Actualiser le modèle]** pour que ces modifications so
 
 ![](assets/refresh-button.png)
 
-Une fois le réglage du modèle terminé (après l&#39;actualisation), revenez à l&#39;onglet Résultats du modèle et cliquez sur **[!UICONTROL Enregistrer et appliquer des rangs]**.
+Lorsque vous avez terminé d&#39;ajuster votre modèle (après l&#39;avoir actualisé), revenez à l&#39;onglet Résultats du modèle et cliquez sur **[!UICONTROL Enregistrer et appliquer des rangs]**.
 
 ![](assets/ranks.png)

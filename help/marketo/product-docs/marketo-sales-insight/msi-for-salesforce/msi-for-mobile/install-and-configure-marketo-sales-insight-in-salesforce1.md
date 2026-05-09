@@ -4,9 +4,9 @@ description: Découvrez comment installer et configurer Marketo Sales Insight da
 title: Installer et configurer Informations sur les ventes Marketo dans Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 3%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNL Best Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
+>[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNLBest Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
 
 ## Activation de l’application mobile [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
@@ -65,11 +65,11 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. Sélectionnez **[!UICONTROL Marketo]** et **[!UICONTROL Ajouter]** dans les éléments de menu **[!UICONTROL Sélectionné]**.
+1. Sélectionnez **** et **[!UICONTROL Ajouter]** dans les éléments de menu **[!UICONTROL Sélectionné]**.
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Sélectionnez **[!UICONTROL Marketo]**, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez ****, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
@@ -113,11 +113,11 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Sélectionnez **[!UICONTROL Marketo]** et **[!UICONTROL Ajouter]** dans les onglets sélectionnés.
+1. Sélectionnez **** et **[!UICONTROL Ajouter]** dans les onglets sélectionnés.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Sélectionnez **[!UICONTROL Marketo]**, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez ****, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
@@ -131,7 +131,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >Répétez les étapes pour chaque mise en page que votre entreprise utilise (marketing, ventes, etc.) pour les objets Contact, Compte et Opportunité.
+   >Répétez les étapes pour chaque mise en page utilisée par votre entreprise (marketing, ventes, etc.) pour les objets Contact, Compte et Opportunité.
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
@@ -159,7 +159,7 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-Ouf ! Vous avez enfin fini d&#39;installer [!DNL Marketo Sales Insight] pour [!DNL Salesforce1] ! Vas-y et tape dans le dos.
+Ouf ! Vous avez enfin terminé d’installer [!DNL Marketo Sales Insight] pour [!DNL Salesforce1] ! Vas-y et tape dans le dos.
 
 >[!MORELIKETHIS]
 >

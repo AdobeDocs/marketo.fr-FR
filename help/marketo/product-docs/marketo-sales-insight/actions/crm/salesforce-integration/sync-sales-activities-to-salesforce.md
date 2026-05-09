@@ -2,9 +2,9 @@
 description: Découvrez comment synchroniser les activités de vente avec Salesforce via l’API ou la fonctionnalité Cci. Configurez la journalisation des appels et des e-mails.
 title: Synchroniser les activités de vente avec Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '775'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Cette fonctionnalité nécessite que vous utilisiez l’édition Enterprise/Unli
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **Salesforce**.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
 
    ![](assets/sync-sales-activities-to-salesforce-2.png)
 
@@ -37,7 +37,7 @@ Cette fonctionnalité nécessite que vous utilisiez l’édition Enterprise/Unli
 
    ![](assets/sync-sales-activities-to-salesforce-4.png)
 
-1. Cliquez sur l’onglet **API Salesforce**. Dans cette carte, vous pouvez configurer vos préférences de journalisation des informations dans Salesforce. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Cliquez sur l’onglet **API**. Dans cette carte, vous pouvez configurer vos préférences de journalisation des informations dans Salesforce. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
    ![](assets/sync-sales-activities-to-salesforce-5.png)
 
@@ -55,7 +55,7 @@ Une fois que vous avez activé « E-mail à Salesforce (Cci) », vous recevez un
 
    ![](assets/sync-sales-activities-to-salesforce-6.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **Salesforce**.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
 
    ![](assets/sync-sales-activities-to-salesforce-7.png)
 
@@ -99,7 +99,7 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **Salesforce**.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
 
    ![](assets/sync-sales-activities-to-salesforce-11.png)
 

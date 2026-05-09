@@ -3,9 +3,9 @@ description: Découvrez les autorisations et les profils de produits Dynamic Cha
 title: Autorisations
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 6%
 
 ---
@@ -16,11 +16,11 @@ Vous pouvez modifier cinq profils par défaut avec des autorisations prédéfini
 
 ## Modifier les autorisations existantes {#edit-existing-permissions}
 
-1. Dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
+1. Dans [](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
-1. Dans l’onglet **Profils de produit**, sélectionnez le profil à modifier. Dans cet exemple, nous choisissons **Agent en direct**.
+1. Dans l’onglet **Profils de produit**, sélectionnez le profil à modifier. Dans cet exemple, **Agent en direct** est sélectionné.
 
    ![](assets/permissions-2.png)
 
@@ -28,7 +28,7 @@ Vous pouvez modifier cinq profils par défaut avec des autorisations prédéfini
 
    ![](assets/permissions-3.png)
 
-1. Sélectionnez la zone du profil que vous souhaitez modifier. Dans cet exemple, nous choisissons le Module de conversation en direct. Cliquez sur l’icône en forme de crayon.
+1. Sélectionnez la zone du profil que vous souhaitez modifier. Dans cet exemple, **conversation en direct** est sélectionné. Cliquez sur l’icône en forme de crayon.
 
    ![](assets/permissions-4.png)
 
@@ -50,7 +50,7 @@ Vous pouvez maintenant répéter ce processus pour toutes les autres zones de Dy
 
 ## Création d’un profil {#create-a-profile}
 
-1. Dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
+1. Dans [](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 

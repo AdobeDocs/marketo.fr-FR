@@ -4,10 +4,10 @@ description: Découvrez comment ajouter des audiences personnalisées Facebook e
 title: Ajout  [!DNL Facebook] ’audiences personnalisées en tant que  [!DNL LaunchPoint]  service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 1%
+source-wordcount: '314'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Autorisations d’administration requises**
 
-Avec cette intégration, vous pouvez envoyer des données d’audience à partir de listes statiques et intelligentes de Marketo pour les [!DNL Facebook] à utiliser comme audiences personnalisées dans les campagnes publicitaires [!DNL Facebook]. Voici comment le configurer.
+Avec cette intégration, vous pouvez envoyer des données d’audience à partir de listes statiques et intelligentes de Marketo pour les [!DNL Facebook] à utiliser comme audiences personnalisées dans les campagnes publicitaires [!DNL Facebook]. Procédez comme suit pour le configurer.
 
 1. Accédez à Marketo **[!UICONTROL Admin]**.
 
@@ -59,11 +59,11 @@ Avec cette intégration, vous pouvez envoyer des données d’audience à partir
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Très bon travail ! Vous pouvez désormais accéder à n’importe quelle liste statique ou dynamique dans Marketo et envoyer les données d’audience à [!DNL Facebook].
+   Vous pouvez désormais accéder à n’importe quelle liste statique ou dynamique dans Marketo et envoyer des données d’audience à [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >Oh, avant de partir, assurez-vous d’[accepter les conditions personnalisées des audiences [!DNL Facebook] &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook] ! Sans cela, les mises à jour de l’audience échoueront.
+   >Avant d’utiliser votre intégration, les conditions relatives aux audiences personnalisées de [Accept [!DNL Facebook] sont ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook]. Sans cela, les mises à jour de l’audience échoueront.
 
 >[!MORELIKETHIS]
 >

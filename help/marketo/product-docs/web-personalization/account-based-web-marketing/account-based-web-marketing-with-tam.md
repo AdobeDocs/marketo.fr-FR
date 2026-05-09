@@ -4,10 +4,10 @@ description: Découvrez le marketing web basé sur les comptes avec l’équipe 
 title: Marketing web basé sur les comptes avec TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '218'
+ht-degree: 5%
 
 ---
 

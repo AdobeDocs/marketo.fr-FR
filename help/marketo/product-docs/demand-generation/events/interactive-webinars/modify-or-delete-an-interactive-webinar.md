@@ -3,9 +3,9 @@ description: Découvrez comment modifier ou supprimer un webinaire interactif da
 title: Modifier ou supprimer un webinaire interactif
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '330'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,7 @@ Découvrez comment apporter des modifications à votre webinaire interactif.
 
    >[!NOTE]
    >
-   >Pour le moment, vous ne pouvez enregistrer qu’un webinaire interactif cloné en tant que webinaire interactif. L’enregistrement d’un webinaire cloné en tant que webinaire partenaire (par exemple, Zoom, ON24, etc.) sera bientôt disponible.
+   >Pour le moment, vous ne pouvez enregistrer qu’un webinaire interactif cloné en tant que webinaire interactif. Enregistrement d’un webinaire cloné en tant que webinaire partenaire (par exemple, Zoom, ON24, etc.) sera bientôt disponible.
 
 1. Sélectionnez les paramètres du webinaire cloné, puis cliquez sur **Cloner**.
 

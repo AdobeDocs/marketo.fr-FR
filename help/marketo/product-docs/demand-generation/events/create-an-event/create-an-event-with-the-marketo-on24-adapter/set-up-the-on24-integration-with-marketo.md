@@ -3,7 +3,7 @@ description: Découvrez comment configurer l’intégration ON24 avec Marketo. C
 title: Configurer l’intégration d’ON24 à Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 7%
@@ -12,7 +12,7 @@ ht-degree: 7%
 
 # Configurer l’intégration d’ON24 à Marketo{#set-up-the-on24-integration-with-marketo}
 
-Voici comment configurer votre intégration d’événement ON24.
+Pour configurer votre intégration d’événement ON24, procédez comme suit.
 
 ## Créer un rôle API uniquement {#create-an-api-only-role}
 
@@ -42,7 +42,7 @@ Voici comment configurer votre intégration d’événement ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Sélectionnez le rôle [!UICONTROL API ON24 uniquement (tous les espaces de travail)] que vous venez de créer. Cochez la case **[!UICONTROL API uniquement]**. Cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez le rôle [!UICONTROL API ON24 uniquement (tous les espaces de travail)] que vous avez créé. Cochez la case **[!UICONTROL API uniquement]**. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -68,7 +68,7 @@ Voici comment configurer votre intégration d’événement ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. Recherchez le service de [!DNL LaunchPoint] personnalisé que vous venez de créer et cliquez sur [!UICONTROL Afficher les détails].
+1. Recherchez le service [!DNL LaunchPoint] personnalisé que vous avez créé et cliquez sur [!UICONTROL Afficher les détails].
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 

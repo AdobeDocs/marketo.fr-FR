@@ -4,10 +4,10 @@ description: Drip, Drip, Nurture - Documents Marketo - Documentation Du Produit
 title: Marketing goutte à goutte et fidélisation
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 8%
+source-wordcount: '471'
+ht-degree: 9%
 
 ---
 
@@ -48,7 +48,7 @@ Vous pouvez facilement créer un système de culture avancé et sophistiqué dan
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. Cliquez sur **[!UICONTROL Email]**.
+1. Cliquez sur **[!UICONTROL E-mail]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
@@ -130,7 +130,7 @@ Il est maintenant temps de créer un flux de contenu pour votre programme d’en
 
    >[!NOTE]
    >
-   >La personne chargée du test est la personne qui vérifie votre programme d’engagement pour s’assurer qu’il est correct avant de l’envoyer aux clients.
+   >La personne chargée du test est la personne qui vérifie votre programme d’engagement pour vérifier qu’il est correct avant de l’envoyer aux clients.
 
 ## Étape 6 : ajouter une personne test à votre programme d’engagement {#step-add-a-test-person-to-your-engagement-program}
 

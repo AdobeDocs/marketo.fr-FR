@@ -3,9 +3,9 @@ description: Découvrez comment configurer la personnalisation des détails de l
 title: Configurer la personnalisation des détails d’activité Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '680'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ La personnalisation des détails de l’activité permet aux administrateurs de 
 
 >[!NOTE]
 >
->* Les mises à jour apportées au champ objet en [!DNL Sales Connect] d’une tâche de rappel sont répercutées dans le champ objet de la tâche de [!DNL Salesforce] correspondante, si vous utilisez le champ dynamique `{{activity_subject}}` dans votre personnalisation des détails de l’activité.
+>* Les mises à jour apportées au champ objet en [!DNL Sales Connect] d’une tâche de rappel sont répercutées dans le champ objet de la tâche de [!DNL Salesforce] correspondante, si vous utilisez le champ dynamique `{{activity_subject}}` dans votre Personnalisation des détails de l’activité.
 >* Les sauts de ligne ne sont pas pris en charge lors de la journalisation des informations dans le champ objet [!DNL Salesforce]. Tous les sauts de ligne dans l’éditeur Personnalisation des détails de l’activité sont supprimés lorsqu’un objet de tâche de vente est mis à jour.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -111,7 +111,7 @@ Lors de la configuration des détails de votre activité, réfléchissez aux don
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 

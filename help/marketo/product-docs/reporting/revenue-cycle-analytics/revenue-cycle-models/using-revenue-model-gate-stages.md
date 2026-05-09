@@ -4,9 +4,9 @@ description: Découvrez comment utiliser les étapes de point de contrôle du mo
 title: Utilisation d’étapes de contrôle du modèle de revenu
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '292'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Une étape de barrière sert de contrôle de qualification.
 
 >[!TIP]
 >
->C&#39;est une excellente idée de créer un modèle pratique dans un programme graphique ou de présentation et de le confirmer avec vos collègues.
+>c&#39;est une excellente idée de créer un modèle pratique dans un programme graphique ou de présentation et de le confirmer avec vos collègues.
 
 ## Ajouter Une Étape De Point De Contrôle {#add-a-gate-stage}
 

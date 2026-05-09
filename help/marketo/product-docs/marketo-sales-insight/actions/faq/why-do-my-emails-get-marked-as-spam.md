@@ -2,10 +2,10 @@
 description: Obtenez de l’aide lorsque vos e-mails de vente sont marqués comme spam. Découvrez les causes courantes et comment améliorer la délivrabilité et la réputation de l'expéditeur.
 title: Pourquoi mes e-mails sont-ils marqués comme spam ?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 8%
+source-wordcount: '206'
+ht-degree: 7%
 
 ---
 
@@ -15,14 +15,14 @@ En tant qu&#39;entreprise, nous travaillons dur pour nous assurer que nos taux d
 
 **Vérifiez Vos Paramètres**
 
-* Suivi de domaine personnalisé : vous permet d’afficher tous vos liens de suivi au fur et à mesure. »votredomaine » au lieu de go.toutapp. Certaines mesures de sécurité des e-mails verront que l’e-mail provient de « votredomaine », mais le lien est réacheminé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisé, vos e-mails sembleront légitimes et auront une plus grande probabilité d’accéder à la boîte de réception du destinataire.
+* Suivi de domaine personnalisé : vous permet d’afficher tous vos liens de suivi comme allant. « votredomaine » au lieu de go.toutapp. Certaines mesures de sécurité des e-mails verront que l’e-mail provient de « votredomaine », mais le lien est réacheminé vers go.toutapp. En implémentant le suivi des liens de domaine personnalisé, vos e-mails sembleront légitimes et auront une plus grande probabilité d’accéder à la boîte de réception du destinataire.
 
 **Vérifier Les Comportements Des E-Mails**
 
 * Veillez à ce que vos e-mails soient courts et informels, et collez vos modèles en tant qu’e-mail que vous avez déjà écrit.
 
-* Évitez les e-mails surformatés ou les messages contenant des mots transnationaux.
+* Évitez les e-mails ou messages surformatés lorsque vous utilisez des mots transnationaux.
 
 * Vérifiez que vous disposez d’une signature e-mail complète avec une adresse physique.
 
-* Lisez-le et assurez-vous de vous conformer aux lois [CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* Vérifiez que vous respectez les lois [CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.

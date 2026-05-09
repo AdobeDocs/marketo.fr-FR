@@ -4,10 +4,10 @@ description: Découvrez les champs personnalisés des membres du programme. Stoc
 title: Champs personnalisés de personne membre du programme
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 4%
+source-wordcount: '436'
+ht-degree: 5%
 
 ---
 
@@ -51,7 +51,7 @@ Les champs personnalisés Membre du programme vous permettent de collecter des d
 |---|---|
 | Société | Nom de la société associée à la personne. |
 | Opportunité | Une opportunité peut être associée à une personne ou à un compte en tant que vente future potentielle. Ils accèdent généralement à Marketo par le biais d’un CRM ou d’une API. |
-| Personne | Un individu de votre base de données Marketo avec lequel vous interagissez par le biais de campagnes marketing. |
+| Personne | Personne de votre base de données Marketo avec laquelle vous interagissez par le biais de campagnes marketing. |
 | Membre du programme | Personne qui est également membre d’un programme |
 
 ## Déclencheurs et filtres {#triggers-and-filters}

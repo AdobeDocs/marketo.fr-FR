@@ -3,9 +3,9 @@ description: Découvrez comment tester un webinaire interactif avant sa mise en 
 title: Test d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '384'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Le workflow de création d’un webinaire de test reste identique à [création 
 >
 >Si vous définissez la date et l’heure de votre webinaire de test trop tôt dans le futur et que cette date/heure expire, les webinaires interactifs considèrent le webinaire diffusé et déduiraient un crédit de votre licence.
 
-Un crédit sera bloqué pour le webinaire de test, mais il peut être utilisé en replanifiant le programme pour l’utiliser avec un webinaire réel ou en supprimant simplement le programme du webinaire de test.
+Un crédit sera bloqué pour le webinaire de test, mais il peut être utilisé soit en replanifiant le programme pour l’utiliser avec un webinaire réel, soit en supprimant le programme du webinaire de test.
 
 Après avoir créé et conçu le webinaire, l’animateur, le co-animateur et/ou les présentateurs peuvent se joindre à eux pour répéter la diffusion. Des invités externes peuvent également être ajoutés en tant que co-hôtes pour pouvoir participer aux tests. Les tests peuvent être effectués de la même manière que le webinaire, afin que les évaluateurs aient une idée de la manière dont le webinaire se déroulera devant une audience réelle. Toutes les fonctionnalités du webinaire en direct seraient également disponibles dans le webinaire de test. Cette opération peut être effectuée jusqu’à 15 minutes avant l’heure de début du webinaire.
 

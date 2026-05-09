@@ -4,9 +4,9 @@ description: Découvrez comment planifier des programmes d’e-mail avec le fuse
 title: Planifier les programmes d’e-mail en fonction du fuseau horaire de la personne destinataire
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '854'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,7 @@ Vous disposez ainsi de deux options :
 >
 >[En savoir plus](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) sur la manière dont Marketo calcule les fuseaux horaires pour les destinataires.
 
-Examinons ce scénario plus en détail. Supposons que vous soyez à San Francisco et que vous planifiez un e-mail à 7 :00am pour un envoi de 9 **:00am**. Dans votre liste dynamique, il y a des personnes des régions suivantes :
+Examinons ce scénario plus en détail. Supposons que vous soyez à San Francisco et que vous planifiez un envoi par e-mail à 7 :00am pour une **9:00am**. Dans votre liste dynamique, il y a des personnes des régions suivantes :
 
 * San Francisco
 * Texas
@@ -87,7 +87,7 @@ En résumé, les programmes d’e-mail planifiés avec le fuseau horaire du dest
 
 >[!CAUTION]
 >
->Toute personne qui se désabonne entre le moment où vous commencez l’envoi de votre e-mail et celui où il est réellement envoyé recevra toujours l’e-mail. Nous vous recommandons d’ajuster votre notification de désabonnement pour expliquer que le traitement des désabonnements peut prendre entre 1 et 2 jours ouvrables.
+>Toute personne qui se désabonne entre le moment où vous commencez à envoyer votre e-mail et celui où il est réellement envoyé recevra toujours l’e-mail. Nous vous recommandons d’ajuster votre notification de désabonnement pour expliquer que le traitement des désabonnements peut prendre entre 1 et 2 jours ouvrables.
 
 >[!MORELIKETHIS]
 >

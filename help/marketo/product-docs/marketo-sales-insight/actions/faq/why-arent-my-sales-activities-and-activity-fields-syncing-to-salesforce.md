@@ -2,9 +2,9 @@
 description: Dépannage lorsque les activités et champs de vente ne sont pas synchronisés avec Salesforce. Vérifiez la journalisation de l’API, les champs personnalisés et les autorisations.
 title: Pourquoi mes activités de vente et mes champs d’activité ne sont-ils pas synchronisés avec Salesforce ?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '339'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 **Je ne vois pas les activités d’e-mail ou d’appel synchronisées avec Salesforce.**
 
 * Vérifiez que vous êtes connecté à Salesforce. Chaque utilisateur devra disposer d’une connexion pour consigner ses e-mails et appels vers Salesforce.
-* Vérifiez que vous avez configuré les [paramètres de synchronisation Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}.
+* Vérifiez que vous avez configuré les [paramètres de synchronisation ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}.
 * Les e-mails effectueront une recherche d’enregistrement en fonction de l’identifiant Salesforce comme recherche principale et de l’adresse e-mail comme adresse secondaire. Vous pouvez confirmer qu’un enregistrement de personne possède un Salesforce ID et une adresse e-mail qui lui sont associés dans l’application web [Actions](https://toutapp.com/next#command_center){target="_blank"}.
 * Les appels effectueront une recherche d’enregistrement en fonction de l’identifiant Salesforce uniquement. S’il n’existe aucun ID Salesforce dans l’enregistrement de personne dans Actions, l’appel ne se connecte pas. Vous pouvez confirmer qu’un enregistrement de personne est associé à un Salesforce ID dans l’application web [Actions](https://toutapp.com/next#command_center){target="_blank"}.
 

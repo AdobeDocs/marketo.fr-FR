@@ -4,9 +4,9 @@ description: Découvrez comment supprimer un programme dans Marketo. Supprimez l
 title: Supprimer un programme
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '187'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ Vous pouvez archiver un programme, mais parfois vous souhaitez simplement vous e
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Sélectionnez le bouton radio « Tout supprimer... ». Vérifiez les effets de la suppression du programme, puis cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
+1. Sélectionnez « Tout supprimer... » bouton radio. Vérifiez les effets de la suppression du programme, puis cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
 
 >[!TIP]
 >

@@ -3,9 +3,9 @@ description: Découvrez les workflows d’événement pour les webinaires intera
 title: Workflows d’événement
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '476'
 ht-degree: 4%
 
 ---
@@ -47,7 +47,7 @@ Accédez à l’onglet Présentation pour afficher le webinaire enregistré, obt
 >* Les webinaires interactifs ne sont pas enregistrés automatiquement. Une fois le webinaire commencé, cliquez sur la liste déroulante en regard du nom du webinaire et sélectionnez **Enregistrer la session**.
 >* Si la session est enregistrée, l’hôte doit mettre fin manuellement à l’enregistrement ou sélectionner « Terminer la session pour tous » pour arrêter l’enregistrement. Sinon, l&#39;enregistrement s&#39;arrêtera automatiquement dans les 10 minutes suivant le départ du dernier participant de la salle.
 >* L&#39;enregistrement est téléchargé au format MP4.
->* Lors du partage de l’enregistrement, celui-ci sera visible par toute personne disposant du lien. Assurez-vous donc qu’il est partagé avec l’audience visée.
+>* Lors du partage de l’enregistrement, toute personne disposant du lien pourra le voir. Assurez-vous donc qu’il est partagé avec l’audience visée.
 
 ## Déclencheurs et filtres {#triggers-and-filters}
 

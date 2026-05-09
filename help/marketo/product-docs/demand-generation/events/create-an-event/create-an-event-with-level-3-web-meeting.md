@@ -1,45 +1,45 @@
 ---
 unique-page-id: 7512328
-description: Learn how to create an event with Level 3 Web Meeting in Marketo. Set up the integration and sync web meeting registration with Marketo.
-title: ' [!DNL Level 3 Web Meeting]'
+description: Découvrez comment créer un événement avec une réunion web de niveau 3 dans Marketo. Configurez l’intégration et synchronisez l’enregistrement de la réunion web avec Marketo.
+title: Créez un événement avec  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
 
-# [!DNL Level 3 Web Meeting] {#create-an-event-with-level-web-meeting}
+# Créer un événement avec [!DNL Level 3 Web Meeting] {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
->* [&#x200B; [!DNL Level 3 Web Meeting]  [!DNL LaunchPoint] &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
->* [&#128279;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>* [Ajouter [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour suivre l’engagement
 
-[!DNL Level 3] [[!DNL Level 3] &#x200B;](https://www.level3.com/en/resource-library/) [!DNL BrightTalk]  [!DNL Level 3]
+Créez d’abord votre webinaire dans [!DNL Level 3]. Si vous avez besoin d’aide, consultez la [[!DNL Level 3]  Bibliothèque de ressources ](https://www.level3.com/en/resource-library/). C&#39;est très similaire à [!DNL BrightTalk].  Marketo utilise un petit sous-ensemble de champs [!DNL Level 3] :
 
-* **&#x200B;**
-* **&#x200B;**
-* **&#x200B;**
-* **&#x200B;**
-* **&#x200B;**
+* **Nom** - Nom de la diffusion web.
+* **Date de début** - Date de début de la diffusion web.
+* **Date de fin** - Date de fin de la diffusion web.
+* **Fuseau horaire** - Fuseau horaire défini pour la diffusion web.
+* **Description** - Description de la diffusion web.
 
-1. Sélectionnez votre nouvel événement. **&#x200B;**&#x200B;**&#x200B;**
+1. Sélectionnez votre nouvel événement. Cliquez sur **[!UICONTROL Actions d’événement],** puis **[!UICONTROL Paramètres d’événement].**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. **&#x200B;**
+1. Sous [!UICONTROL Partenaire de l’événement], sélectionnez **[!UICONTROL Réunion web de niveau 3]**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. [!DNL Level 3]
+1. Sous [!UICONTROL Connexion], sélectionnez votre connexion [!DNL Level 3].
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. [!DNL Level 3]
+1. Sous [!UICONTROL Événement], choisissez l’événement [!DNL Level 3] à utiliser.
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
@@ -47,10 +47,10 @@ ht-degree: 1%
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   Most excellent! [!DNL Level 3]
+   L’événement est maintenant connecté à [!DNL Level 3].
 
-## Viewing the Schedule  {#viewing-the-schedule}
+## Affichage du planning  {#viewing-the-schedule}
 
-In the program schedule view, click the calendar entry for your event. You can see the schedule on the right side of the screen!
+Dans la vue Planning du programme, cliquez sur l’entrée de calendrier de votre événement. Le planning s’affiche dans la partie droite de l’écran.
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)

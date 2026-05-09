@@ -4,9 +4,9 @@ description: Découvrez comment utiliser du contenu dynamique dans un email. Aff
 title: Utilisation du contenu dynamique dans un e-mail
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 5%
 
 ---

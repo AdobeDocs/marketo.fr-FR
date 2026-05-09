@@ -4,9 +4,9 @@ description: Découvrez comment créer une audience personnalisée dans Facebook
 title: Créer une audience personnalisée dans Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->En savoir plus sur les [&#x200B; audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>En savoir plus sur les [ audiences personnalisées dans  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Recherchez et sélectionnez la liste dynamique ou statique qui contient les prospects à partir desquels vous souhaitez créer l’audience.
 
@@ -52,7 +52,7 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >Vous souhaitez échanger une nouvelle audience avec une audience existante actuellement associée à une visionneuse d’annonces ou à un groupe ? Cochez la case **[!UICONTROL Remplacer une audience existante]**. Cela ne supprimera **pas** l’audience remplacée.
+   >Pour permuter une nouvelle audience avec une audience existante actuellement associée à une visionneuse d’annonces ou à un groupe, cochez la case **[!UICONTROL Remplacer une audience existante]**. Cela ne supprimera **pas** l’audience remplacée.
 
 1. Une fois cette opération terminée, la boîte de dialogue d’état est mise à jour.
 

@@ -3,21 +3,21 @@ description: Découvrez comment installer la solution Marketo dans Dynamics 365 
 title: Étape 1 sur 4 - Installer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 2%
+source-wordcount: '311'
+ht-degree: 3%
 
 ---
 
 # Étape 1 sur 4 : installer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource {#step-1-of-4-install-the-marketo-solution-ropc}
 
-Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 365 et Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics]. **[!DNL Dynamics]autorisations d’administrateur sont requises.**
+Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 365 et Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics]. **[!DNL Dynamics]Les autorisations d’administrateur sont requises.**
 
 >[!CAUTION]
 >
 >* N’activez pas la synchronisation d’entités personnalisées avant la fin de la synchronisation initiale. Vous serez averti par e-mail une fois la synchronisation initiale terminée.
->* Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 365 et Marketo, vous dev
    >
    >Vous devez activer les fenêtres contextuelles sur votre navigateur pour terminer le processus d’installation.
 
-1. Attendez maintenant la fin de l’importation. Lève-toi et fais des étirements.
+1. Attendez maintenant la fin de l’importation.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -87,7 +87,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 365 et Marketo, vous dev
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   Beau travail ! L&#39;installation est terminée.
+   L’installation est terminée.
 
    >[!MORELIKETHIS]
    >

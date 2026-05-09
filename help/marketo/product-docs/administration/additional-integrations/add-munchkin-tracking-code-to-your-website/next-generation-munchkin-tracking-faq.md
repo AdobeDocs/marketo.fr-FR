@@ -1,51 +1,50 @@
 ---
 unique-page-id: 10096583
-description: FAQ about the next-generation [!DNL Munchkin] tracking rollout and the Is Anonymous filter change.
-title: Next Generation [!DNL Munchkin] Tracking FAQ
+description: Questions fréquentes sur le déploiement du suivi  [!DNL Munchkin]  nouvelle génération et le changement de filtre Est anonyme.
+title: FAQ sur le tracking  [!DNL Munchkin]  nouvelle génération
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-hidefromtoc: true
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 0%
 
 ---
 
-# Next Generation [!DNL Munchkin] Tracking FAQ {#next-generation-munchkin-tracking-faq}
+# Questions fréquentes sur le suivi des [!DNL Munchkin] de nouvelle génération {#next-generation-munchkin-tracking-faq}
 
-Marketo is rolling out next-generation web tracking technology in phases.
+Marketo déploie la technologie de tracking web de nouvelle génération par phases.
 
-Here are the most important things to know:
+Voici les informations les plus importantes à connaître :
 
-* The &quot;Is Anonymous&quot; Smart List filter has been removed
-* The number of web events (Visit Web Page, Clicked Link on Web Page) Marketo can ingest is increasing
-* Your [!DNL Munchkin] code will not change, so no updates on your website are required
+* Le filtre de liste dynamique « Est anonyme » a été supprimé
+* Le nombre d’événements web (Visiter une page web, Lien cliqué sur la page web) que Marketo peut ingérer augmente
+* Votre code [!DNL Munchkin] ne changera pas. Aucune mise à jour de votre site web n’est donc requise
 
-## When will my Marketo subscription be on [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## Quand mon abonnement Marketo sera-t-il disponible sur [!DNL Munchkin] V2 ? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
-An exact date is not yet available. Check this page for updates.
+Aucune date exacte n’est encore disponible. Consultez cette page pour connaître les mises à jour.
 
-## Will I need to make any changes to my [!DNL Munchkin] tracking on my website? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Vais-je devoir apporter des modifications à mon suivi des [!DNL Munchkin] sur mon site web ? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Non. The [!DNL Munchkin] tracking code remains the same. No changes need to be made to your website.
-
->[!NOTE]
->
->This change does not affect Web Personalization (Real-Time Personalization). It continues to identify anonymous and known web visitors and personalize content in real time to these visitors.
-
-## Why did Marketo remove the &quot;Is Anonymous&quot; filter from Smart Lists? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
-
-Marketo changed how anonymous people interact with Smart Campaigns. Before, they flowed through a smart campaign, just like known people. The &quot;Is Anonymous&quot; filter was used to specify that only known or only anonymous people flow through the campaign.
-
-With [!DNL Munchkin] V2, Marketo will continue to track all anonymous activities; however, you are no longer able to apply filters to anonymous people. At the point of conversion (when the person becomes known in Marketo), all activities that occurred when the person was anonymous are appended to the person activity log and at this time they flow through the campaigns they qualify for.
-
-If you are already using this filter in a Smart List (for example, in a Smart Campaign or a Report), it is not automatically removed from the Smart List. See below for more details.
+Non. Le code de suivi [!DNL Munchkin] reste le même. Aucune modification ne doit être apportée à votre site web.
 
 >[!NOTE]
 >
->**Trigger**: Visits Web Page, Web Page is Pricing Page >**Flux** : Modifier le score de +10 et le moment intéressant >**Web** : Page Tarification affichée
+>Cette modification n’affecte pas Web Personalization (Real-Time Personalization). Il continue à identifier les visiteurs web anonymes et connus et à personnaliser le contenu en temps réel pour ces visiteurs.
+
+## Pourquoi Marketo a-t-il supprimé le filtre « Est anonyme » des listes dynamiques ? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
+
+Marketo a modifié la manière dont les personnes anonymes interagissent avec les campagnes intelligentes. Auparavant, ils suivaient une campagne intelligente, tout comme les gens connus. Le filtre « Est anonyme » a été utilisé pour spécifier que seules des personnes connues ou anonymes circulent dans la campagne.
+
+Avec [!DNL Munchkin] V2, Marketo continuera à suivre toutes les activités anonymes ; cependant, vous ne pouvez plus appliquer de filtres aux personnes anonymes. Au moment de la conversion (lorsque la personne est connue dans Marketo), toutes les activités qui se sont produites lorsque la personne était anonyme sont ajoutées au journal des activités de la personne et, à ce stade, elles traversent les campagnes pour lesquelles elles sont qualifiées.
+
+Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans une campagne dynamique ou un rapport), il n’est pas automatiquement supprimé de la liste dynamique. Voir ci-dessous pour plus de détails.
+
+>[!NOTE]
+>
+>**Déclencheur** : page Web Visites, page Web est page de tarification >**Flux** : Modifier le score de +10 et le moment intéressant >**Web** : Page Tarification affichée
 >
 >Avec [!DNL Munchkin] V2, si une personne anonyme visite la page de tarification, elle ne participe pas immédiatement à la campagne. Au moment où la personne anonyme est connue, Marketo exécute cette campagne sur elle. Ils :
 >
@@ -76,18 +75,18 @@ Consultez ces liens :
 
 [Présentation des mises à niveau des leads anonymes](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Anonymous Lead Upgrades - Changes Inside Marketo UI](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[Mises à niveau de leads anonymes - Modifications dans l’interface utilisateur de Marketo](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[Anonymous Lead Upgrades - Customer Action Needed](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
+[Mises à niveau de leads anonymes - Action du client nécessaire](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[Anonymous Lead Upgrades - Analytics Reports](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
+[Mises à niveau de leads anonymes - Rapports Analytics](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[Anonymous Lead Upgrades - Release Schedule](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
+[Mises à niveau de leads anonymes - Calendrier des versions](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Anonymous Lead Upgrades - Under The Hood](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[Mises à niveau de leads anonymes - En cours](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[Anonymous Lead Promotion to Known Lead - [!DNL Munchkin] V2 Behavior](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[Promotion de lead anonyme vers un comportement de lead connu - [!DNL Munchkin] V2](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
-## I have more questions! How do I get them answered? {#i-have-more-questions-how-do-i-get-them-answered}
+## J&#39;ai d&#39;autres questions ! Comment puis-je obtenir des réponses ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Visit the [Marketo Community](https://experienceleaguecommunities.adobe.com/?profile.language=fr){target="_blank"}. You can also contact Marketo Support. They are happy to answer your questions.
+Visitez la [Communauté ](https://experienceleaguecommunities.adobe.com/?profile.language=fr){target="_blank"}. Vous pouvez également contacter le support technique de Marketo. Ils se feront un plaisir de répondre à vos questions.

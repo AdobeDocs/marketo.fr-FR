@@ -3,10 +3,10 @@ description: Découvrez comment ajouter ou supprimer des utilisateurs Dynamic Ch
 title: Ajouter ou supprimer des utilisateurs et utilisatrices de conversation
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 5%
+source-wordcount: '289'
+ht-degree: 9%
 
 ---
 
@@ -20,11 +20,11 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs et util
 
 ## Ajouter un utilisateur ou une utilisatrice de conversation {#add-a-chat-user}
 
-1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Cliquez sur **[!UICONTROL Dynamic Chat]**.
+1. Cliquez sur ****.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -58,7 +58,7 @@ Suivez les étapes ci-dessous pour ajouter ou supprimer des utilisateurs et util
 
 ## Ajouter un accès Dynamic Chat au rôle Marketo {#add-dynamic-chat-access-to-marketo-role}
 
-Si le rôle Marketo de l’utilisateur de conversation nouvellement ajouté ne dispose pas déjà de l’autorisation [!DNL Dynamic Chat], voici comment l’ajouter.
+Si le rôle Marketo de l’utilisateur de conversation nouvellement ajouté ne dispose pas déjà de l’autorisation [!DNL Dynamic Chat], procédez comme suit pour l’ajouter.
 
 1. Dans Marketo, cliquez sur **[!UICONTROL Admin]** et sélectionnez **[!UICONTROL Utilisateurs et rôles]**.
 
@@ -78,11 +78,11 @@ Si le rôle Marketo de l’utilisateur de conversation nouvellement ajouté ne d
 
 ## Supprimer un utilisateur de conversation {#remove-a-chat-user}
 
-1. Connectez-vous à [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Cliquez sur **[!UICONTROL Dynamic Chat]**.
+1. Cliquez sur ****.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -108,5 +108,5 @@ Si le rôle Marketo de l’utilisateur de conversation nouvellement ajouté ne d
 
 >[!MORELIKETHIS]
 >
->* [Utilisateurs Adobe Admin Console](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
+>* [Utilisateurs ](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
 >* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html){target="_blank"}

@@ -3,9 +3,9 @@ description: Découvrez comment personnaliser l’aspect de la fenêtre de la bo
 title: Configuration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ Cliquez sur la liste déroulante pour sélectionner un son pour le visiteur chaq
 
 **Activer les messages poke sur mobile**
 
-Sélectionnez le curseur pour activer le « Poke », qui affiche la question d’ouverture à côté de l’icône de conversation sans que le visiteur ait à cliquer dessus pour la voir, pour les visiteurs qui discutent à partir d’un appareil mobile.
+Sélectionnez le curseur pour activer « Poke », qui affiche la question d’ouverture à côté de l’icône de conversation sans que le visiteur ait à cliquer dessus pour la voir, pour les visiteurs qui discutent à partir d’un appareil mobile.
 
 ![](assets/configuration-6.png)
 

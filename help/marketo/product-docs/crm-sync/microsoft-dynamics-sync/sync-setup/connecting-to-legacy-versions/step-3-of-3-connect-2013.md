@@ -4,16 +4,16 @@ description: Découvrez comment connecter Marketo et Dynamics 2013 On-premise à
 title: Étape 3 sur 3 - Connecter Marketo et Dynamics (2013 On-Premise)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '401'
 ht-degree: 3%
 
 ---
 
 # Étape 3 sur 3 : Connecter Marketo et [!DNL Dynamics] (2013 On-Premise) {#step-of-connect-marketo-and-dynamics-on-premises}
 
-D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de synchronisation. Ensuite, nous devons connecter Marketo et [!DNL Dynamics].
+La solution est installée et l’utilisateur de synchronisation est configuré. Ensuite, connectez Marketo et [!DNL Dynamics].
 
 >[!PREREQUISITES]
 >
@@ -44,7 +44,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de
 
    >[!CAUTION]
    >
-   >Assurez-vous que vos informations d’identification sont correctes, car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si des informations d’identification incorrectes sont enregistrées, vous devrez obtenir un nouvel abonnement Marketo.
+   >Vérifiez que vos informations d’identification sont correctes. Les modifications de schéma suivantes ne peuvent pas être annulées après l’envoi. Si des informations d’identification incorrectes sont enregistrées, un nouvel abonnement Marketo sera nécessaire.
 
 1. Saisissez les **[!UICONTROL Nom d’utilisateur]**, **[!UICONTROL Mot de passe]** et [!DNL Microsoft Dynamics] **URL** puis cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -57,7 +57,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
-Nous devons maintenant sélectionner les champs sur lesquels effectuer la synchronisation.
+Sélectionnez les champs à synchroniser.
 
 1. Cliquez sur **[!UICONTROL Modifier]** à l’étape **[!UICONTROL 2 : sélection des champs à synchroniser]**.
 
@@ -69,11 +69,11 @@ Nous devons maintenant sélectionner les champs sur lesquels effectuer la synchr
 
    >[!NOTE]
    >
-   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [[!UICONTROL &#x200B; Sélectionner les champs à synchroniser &#x200B;]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [[!UICONTROL  Sélectionner les champs à synchroniser ]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
-Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélectionner les nouveaux champs à synchroniser avec Marketo.
+Si vous avez créé un filtre personnalisé, accédez à et sélectionnez les nouveaux champs à synchroniser avec Marketo.
 
 1. Accédez à [!UICONTROL Admin] et sélectionnez **[!UICONTROL Microsoft Dynamics]**.
 
@@ -105,7 +105,7 @@ Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélect
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Excellent travail ! Vous venez de libérer la puissance de la synchronisation bidirectionnelle entre Marketo et [!DNL Microsoft Dynamics]. Si vous avez acheté [!DNL Marketo Sales Insight], il y a plus de plaisir à avoir :
+La synchronisation bidirectionnelle entre Marketo et [!DNL Microsoft Dynamics] est maintenant configurée. Si vous avez acheté [!DNL Marketo Sales Insight], consultez les informations suivantes :
 
 >[!MORELIKETHIS]
 >

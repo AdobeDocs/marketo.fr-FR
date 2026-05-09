@@ -6,9 +6,9 @@ description: Découvrez comment modifier des images dans la Designer Email à l�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '857'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express :
 
 1. Cochez la case en regard de l’image à modifier. Dans la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]**, sélectionnez **[!UICONTROL Modifier dans Adobe Express]**.
 
-   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier &#x200B;](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
+   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -84,7 +84,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express :
 
 ### Utilisateurs disposant d’une licence Enterprise {#users-with-an-enterprise-license}
 
-Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès à l’éditeur Express complet. Vous pouvez ajuster les paramètres d’image tels que la couleur, la luminosité, la netteté, le contraste, la taille, etc. L’option Magie de l’IA vous permet de supprimer des arrière-plans, d’insérer et de supprimer des objets, ainsi que d’effacer des parties d’une image. Consultez le [Guide de l’utilisateur d’Adobe Express](https://helpx.adobe.com/fr/express/user-guide.html){target="_blank"} pour en savoir plus sur chaque paramètre.
+Si vous disposez d’une licence Entreprise pour Adobe Express, vous avez accès à l’éditeur Express complet. Vous pouvez ajuster les paramètres d’image tels que la couleur, la luminosité, la netteté, le contraste, la taille, etc. L’option Magie de l’IA vous permet de supprimer des arrière-plans, d’insérer et de supprimer des objets, ainsi que d’effacer des parties d’une image. Consultez le [Guide de l’utilisateur d’](https://helpx.adobe.com/fr/express/user-guide.html){target="_blank"} pour en savoir plus sur chaque paramètre.
 
 >[!IMPORTANT]
 >

@@ -4,9 +4,8 @@ description: Affichez le classement de votre site par mots-clés au fil du temps
 title: SEO - Utiliser le rapport des tendances des mots-clés
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 5%
@@ -21,10 +20,10 @@ Affichez le classement de vos mots-clés au fil du temps.
 >
 >Le 31 mars 2026, Marketo Engage [a abandonné la fonctionnalité Optimisation du moteur de recherche](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) est toujours disponible pour une durée limitée. Suivez les étapes décrites dans les articles ci-dessous pour exporter des données.
 >
->* [Problèmes d’exportation](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problèmes d’exportation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Résultats de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendances de l’exportation des mots-clés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exporter les tendances des mots-clés des concurrents](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Charger le rapport {#load-report}
 
@@ -44,7 +43,7 @@ Affichez le classement de vos mots-clés au fil du temps.
    |---|---|
    | [!UICONTROL Mots-clés] | Nombre de mots-clés dont vous effectuez le suivi. |
    | [!UICONTROL URL de classement] | Le nombre d’URL de votre site se classant dans la plage que vous avez définie. |
-   | [!UICONTROL Moy. rang &#x200B;] | Rang moyen des mots-clés dans la plage que vous avez définie. |
+   | [!UICONTROL Moy. rang ] | Rang moyen des mots-clés dans la plage que vous avez définie. |
    | [!UICONTROL Moy. recherches] | Nombre moyen de recherches sur ces mots-clés qui se sont produites au cours de la plage que vous avez définie (au cours des 30 derniers jours) sur la recherche Google US |
 
 ## Filtrer les données {#filtering-data}

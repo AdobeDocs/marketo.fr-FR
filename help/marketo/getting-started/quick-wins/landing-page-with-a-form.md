@@ -4,9 +4,9 @@ description: Page de destination avec un formulaire - Documents Marketo - Docume
 title: Page de destination avec un formulaire
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '557'
 ht-degree: 8%
 
 ---
@@ -59,7 +59,7 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    >[!NOTE]
    >
-   >Veillez à cocher la case **[!UICONTROL Ouvrir dans l’éditeur]**. Dans le cas contraire, vous devez cliquer sur l’onglet **[!UICONTROL Modifier le formulaire]**.
+   >Veillez à cocher la case **[!UICONTROL Ouvrir dans l’éditeur]**. Si ce n&#39;est pas le cas, vous devez cliquer sur l&#39;onglet **[!UICONTROL Modifier le formulaire]**.
 
    >[!TIP]
    >
@@ -117,7 +117,7 @@ Bien joué ! Maintenant que nous avons créé un programme, passons à autre cho
 
    >[!NOTE]
    >
-   >Vous avez peut-être un modèle différent de celui de notre capture d&#39;écran, c&#39;est bon, choisissez-en un et continuez.
+   >Vous avez peut-être un modèle différent de celui de notre capture d’écran. Très bien, choisissez-en un et continuez.
 
    ![](assets/landing-page-with-a-form-17.png)
 

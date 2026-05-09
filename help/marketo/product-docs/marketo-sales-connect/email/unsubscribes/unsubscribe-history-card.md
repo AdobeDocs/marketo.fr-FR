@@ -4,9 +4,9 @@ description: Découvrez la carte d’historique de désabonnement dans Sales Con
 title: Vignette d’historique de désabonnement
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et
 
 >[!NOTE]
 >
->Pour y accéder, cliquez sur l’onglet [!UICONTROL Personnes] et sélectionnez une personne. Elle se trouve au bas de l’onglet [!UICONTROL &#x200B; À propos &#x200B;] dans la vue Détails de la personne (si elle est désabonnée).
+>Pour y accéder, cliquez sur l’onglet [!UICONTROL Personnes] et sélectionnez une personne. Elle se trouve au bas de l’onglet [!UICONTROL  À propos ] dans la vue Détails de la personne (si elle est désabonnée).
 
 ![](assets/1-1.jpg)
 

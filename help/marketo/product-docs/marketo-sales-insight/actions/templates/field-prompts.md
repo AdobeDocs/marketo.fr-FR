@@ -2,9 +2,9 @@
 description: Découvrez les invites de champ dans les modèles d’e-mail. Ajoutez des espaces réservés qui invitent l’expéditeur à renseigner du contenu personnalisé lors de l’envoi.
 title: Prompts de champs
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---

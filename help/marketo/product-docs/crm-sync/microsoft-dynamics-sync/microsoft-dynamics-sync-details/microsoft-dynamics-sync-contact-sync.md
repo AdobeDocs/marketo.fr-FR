@@ -4,16 +4,16 @@ description: Découvrez comment fonctionne la synchronisation des contacts entre
 title: Synchronisation Microsoft Dynamics - Synchronisation des contacts
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '279'
+ht-degree: 1%
 
 ---
 
 # Synchronisation des [!DNL Microsoft Dynamics] : synchronisation des contacts {#microsoft-dynamics-sync-contact-sync}
 
-Saviez-vous que Marketo synchronise l’ensemble de votre base de données avec [!DNL Dynamics] ? Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les contacts [!DNL Dynamics].
+Marketo synchronise l’ensemble de la base de données avec [!DNL Dynamics]. Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les contacts [!DNL Dynamics].
 
 ## Comment les détails sont-ils synchronisés entre les deux systèmes ? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ Bien que cela soit rare, Marketo gagnera pour les gens et [!DNL Dynamics] gagner
 
 ## Puis-je créer un contact à l’aide de Marketo ? {#can-i-create-a-contact-using-marketo}
 
-Oui. [Voici comment &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
+Oui. [Découvrez comment procéder](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
 
 >[!NOTE]
 >

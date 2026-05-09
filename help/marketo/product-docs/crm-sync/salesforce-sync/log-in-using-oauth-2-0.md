@@ -3,10 +3,10 @@ description: Découvrez comment connecter Marketo et Salesforce à l’aide d’
 title: Se connecter à l’aide d’OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 1%
+source-wordcount: '666'
+ht-degree: 2%
 
 ---
 
@@ -72,11 +72,11 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 >* L’utilisateur de la synchronisation Marketo doit être créé dans Salesforce.
 >* Pour les clients existants, la fonction « Activer OAuth pour la synchronisation SFDC » est activée sur l’abonnement du client.
 >* Les bloqueurs de fenêtres contextuelles sont désactivés.
->* L’application connectée est créée et nous disposons des clés [!UICONTROL Consumer Key] et [!UICONTROL Consumer Secret] disponibles.
+>* L’application connectée est créée et les clés [!UICONTROL Consumer Key] et [!UICONTROL Consumer Secret] peuvent être utilisées.
 
 >[!CAUTION]
 >
->Veillez à masquer tous les champs dont vous n’avez pas besoin dans Marketo à l’utilisateur de la synchronisation avant de cliquer sur **[!UICONTROL Synchroniser les champs]**. Une fois que vous avez cliqué sur Synchroniser les champs , tous les champs que l’utilisateur peut voir dans SFDC sont créés de manière permanente dans Marketo et ne peuvent pas être supprimés.
+>Masquez tous les champs dont vous n’avez pas besoin dans Marketo auprès de l’utilisateur de synchronisation avant de cliquer sur **[!UICONTROL Synchroniser les champs]**. Une fois que vous avez cliqué sur Synchroniser les champs , tous les champs que l’utilisateur peut voir dans SFDC sont créés de manière permanente dans Marketo et ne peuvent pas être supprimés.
 
 1. Dans la section Marketo Admin , cliquez sur **[!UICONTROL CRM]**, puis **[!UICONTROL Synchroniser avec Salesforce]**.
 
@@ -92,7 +92,7 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 
    >[!CAUTION]
    >
-   >Si les champs Nom d’utilisateur/Mot de passe/Jeton s’affichent et non un bouton « Se connecter avec Salesforce », votre abonnement Marketo est activé pour l’authentification de base. Reportez-vous à la section [Configuration de Marketo avec une authentification de base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Une fois que la synchronisation commence à utiliser un ensemble d’informations d’identification, il n’est plus possible de basculer sur les informations d’identification ou l’abonnement Salesforce. Pour qu’Oauth 2.0 soit configuré pour votre authentification Salesforce, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+   >Si les champs Nom d’utilisateur/Mot de passe/Jeton s’affichent et non un bouton « Se connecter avec Salesforce », votre abonnement Marketo est activé pour l’authentification de base. Reportez-vous à la section [Configuration de Marketo avec une authentification de base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Une fois que la synchronisation commence à utiliser un ensemble d’informations d’identification, il n’est plus possible de basculer sur les informations d’identification ou l’abonnement Salesforce. Pour qu’Oauth 2.0 soit configuré pour votre authentification Salesforce, contactez l’assistance Marketo [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 1. Un pop-up s’affiche avec la page de connexion à Salesforce. Saisissez vos informations d’identification « Utilisateur de synchronisation Marketo » et connectez-vous.
 

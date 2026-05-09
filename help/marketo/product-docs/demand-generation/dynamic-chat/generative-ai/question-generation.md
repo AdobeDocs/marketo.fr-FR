@@ -3,10 +3,10 @@ description: Découvrez comment générer des questions pour Dynamic Chat à l�
 title: Génération de questions
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 3%
+source-wordcount: '313'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ Affichez toutes vos tâches et leurs détails pertinents, tels que la date de g�
 
    ![](assets/question-generation-7.png)
 
-1. Dans le fichier Excel, **[!DNL Task details]** affiche uniquement ce détail, ainsi que divers détails sur la tâche, y compris des instructions sur la manière d’ajouter ou de modifier des questions et/ou des réponses.
+1. Dans le fichier Excel, **[!DNL Task details]** affiche divers détails sur la tâche, y compris des instructions sur la manière d’ajouter ou de modifier des questions et des réponses.
 
    ![](assets/question-generation-8.png)
 
@@ -74,7 +74,7 @@ Affichez toutes vos tâches et leurs détails pertinents, tels que la date de g�
 
 ## Adresses IP à Placer sur la liste autorisée {#ip-addresses-to-allowlist}
 
-Afin de permettre l&#39;extraction du contenu de vos URL web pendant la génération des questions et réponses, localisez votre région ci-dessous et assurez-vous que l&#39;adresse IP qui lui est associée est bien placée sur la liste autorisée par votre équipe web.
+Afin d’activer l’extraction de contenu de vos URL web lors de la génération de questions et de réponses, localisez votre région ci-dessous et vérifiez que l’adresse IP qui lui est associée est bien placée sur la liste autorisée par votre équipe web.
 
 <table width="450">
 <thead>

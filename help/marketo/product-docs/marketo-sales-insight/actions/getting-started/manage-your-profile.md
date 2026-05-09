@@ -1,10 +1,10 @@
 ---
 description: Découvrez comment gérer votre profil d’actions Sales Insight. Mettez à jour le nom, l’e-mail, la signature et les préférences de notification dans Paramètres.
 title: Gérer votre profil
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 6%
+source-wordcount: '279'
+ht-degree: 8%
 
 ---
 
@@ -26,7 +26,7 @@ Voici où vous pouvez mettre à jour votre nom et/ou votre mot de passe.
 
 >[!NOTE]
 >
->Votre adresse e-mail est définie pour affichage uniquement. Si vous avez besoin de modifier ce paramètre, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Votre adresse e-mail est définie pour affichage uniquement. Si vous avez besoin de modifier ce paramètre, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez également modifier votre mot de passe dans cette section. Les étapes sont décrites dans ce document.
 
@@ -38,7 +38,7 @@ Sur le côté droit de la page, la section Vos intégrations fournit le statut d
 
 >[!NOTE]
 >
->Si vous utilisez Exchange On Prem avec Marketo Sales, les contrôles de l’intégrité de l’intégration du canal de diffusion (1re ligne) ou du suivi des réponses (2e ligne) ne seront pas mis à jour. Nous nous efforçons de prendre en charge cette fonctionnalité dans une version ultérieure.
+>Si vous utilisez Exchange On Prem avec les ventes Marketo, les contrôles de l’intégrité de l’intégration Canal de diffusion (1re ligne) ou Suivi des réponses (2e ligne) ne seront pas mis à jour. Nous nous efforçons de prendre en charge cette fonctionnalité dans une version ultérieure.
 
 ## Fuseau horaire {#time-zone}
 

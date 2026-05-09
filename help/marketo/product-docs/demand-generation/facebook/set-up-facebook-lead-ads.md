@@ -4,9 +4,9 @@ description: Découvrez comment configurer les publicités de prospect Facebook 
 title: Configurer les publicités de lead Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 >
 >* **Autorisations d’administration requises**
 >
->* Lors de la création de formulaires de prospect publicitaire Facebook, assurez-vous que le nom du formulaire ne contient pas uniquement des caractères numériques. Le nom du formulaire doit être une lettre ou une lettre.
+>* Lors de la création de formulaires de publicités de leads Facebook, vérifiez que le nom du formulaire ne contient pas uniquement des caractères numériques. Le nom du formulaire doit être une lettre ou une lettre.
 
 >[!AVAILABILITY]
 >
@@ -65,7 +65,7 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Pour accepter les [!DNL Facebook] par défaut aux mappages de champs Marketo, cliquez simplement sur **[!UICONTROL Créer]**.
+1. Pour accepter les [!DNL Facebook] par défaut aux mappages de champs Marketo, cliquez sur **[!UICONTROL Créer]**.
 
    >[!TIP]
    >
@@ -77,7 +77,7 @@ Utilisez [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Bien joué ! Les leads commenceront à affluer dans Marketo lorsque vous exécuterez avec succès [!DNL Facebook] campagnes publicitaires de leads.
+   Les leads commenceront à affluer dans Marketo lorsque vous exécuterez avec succès [!DNL Facebook] campagnes publicitaires de leads.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

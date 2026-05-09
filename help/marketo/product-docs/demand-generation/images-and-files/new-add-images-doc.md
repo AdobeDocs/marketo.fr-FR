@@ -2,12 +2,11 @@
 description: Découvrez comment ajouter des images et des fichiers à Marketo Design Studio. Chargez, organisez et utilisez des ressources dans des campagnes et des landing pages.
 title: Nouveau document Ajouter des images
 hide: true
-hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '308'
 ht-degree: 8%
 
 ---
@@ -104,7 +103,7 @@ Texte
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Sélectionnez l&#39;option **[!UICONTROL Adobe Experience Manager]** et cliquez sur **[!UICONTROL Suivant]**.
+1. Sélectionnez l&#39;option **** et cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

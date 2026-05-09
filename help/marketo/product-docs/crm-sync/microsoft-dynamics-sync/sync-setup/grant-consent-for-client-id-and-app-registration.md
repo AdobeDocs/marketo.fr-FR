@@ -3,16 +3,16 @@ description: Découvrez comment accorder le consentement pour l’ID client et l
 title: Accorder le consentement pour l’enregistrement de l’ID client et de l’application
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '293'
 ht-degree: 5%
 
 ---
 
 # Accorder le consentement pour l’enregistrement de l’ID client et de l’application {#grant-consent-for-client-id-and-app-registration}
 
-Suivez les étapes ci-dessous pour savoir comment accorder le consentement/les autorisations nécessaires.
+Suivez les étapes ci-dessous pour savoir comment accorder le consentement et les autorisations nécessaires.
 
 ## Octroyer des autorisations d’utilisateur délégué pour l’utilisateur de synchronisation {#grant-delegated-user-permissions-for-the-sync-user}
 

@@ -3,10 +3,10 @@ description: Découvrez comment activer la synchronisation des campagnes entre M
 title: Activer la synchronisation de la campagne
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 7%
+source-wordcount: '111'
+ht-degree: 8%
 
 ---
 
@@ -26,7 +26,7 @@ Cette option permet à Marketo d’ajouter et de supprimer des membres d’[!DNL
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Cliquez sur **[!UICONTROL Microsoft Dynamics]**.
+1. Cliquez sur ****.
 
    ![](assets/enable-campaign-sync-2.png)
 
@@ -38,7 +38,7 @@ Cette option permet à Marketo d’ajouter et de supprimer des membres d’[!DNL
 
    ![](assets/enable-campaign-sync-4.png)
 
-Voilà, c&#39;est fait. Il vous suffit de laisser le temps à la synchronisation d’extraire les données de [!DNL Microsoft Dynamics] et tout est prêt.
+Laissez le temps à la synchronisation d’extraire les données de [!DNL Microsoft Dynamics].
 
 >[!NOTE]
 >

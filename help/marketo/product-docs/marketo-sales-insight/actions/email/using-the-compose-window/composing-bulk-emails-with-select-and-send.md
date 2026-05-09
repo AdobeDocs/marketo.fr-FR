@@ -2,12 +2,11 @@
 description: Découvrez comment composer et envoyer des e-mails en bloc avec Sélectionner et Envoyer. Choisissez des contacts dans la page Personnes et envoyez des e-mails personnalisés à grande échelle.
 title: Composition d’e-mails en masse avec les options Sélectionner et Envoyer
 hide: true
-hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 3%
 
 ---

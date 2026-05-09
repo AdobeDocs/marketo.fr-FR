@@ -2,13 +2,12 @@
 description: En savoir plus sur la nouvelle version bêta de Designer Email. Accédez à l’éditeur glisser-déposer et aux modèles du programme bêta Marketo Engage.
 title: Vue d’ensemble
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 30%
+source-wordcount: '240'
+ht-degree: 36%
 
 ---
 

@@ -4,9 +4,9 @@ description: Comprendre comment fonctionne le filtre de synchronisation Dynamics
 title: Filtre de synchronisation Microsoft Dynamics - Fusion
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La fusion des prospects dans [!DNL Microsoft Dynamics] utilise le type Deux opti
 
 Les enregistrements de leads deviennent true ou false en fonction des règles de workflow définies par l’administrateur pour déterminer le gagnant. Le filtre de synchronisation de l’enregistrement gagnant détermine en fin de compte si l’enregistrement [!DNL MS Dynamics] se synchronise avec Marketo.
 
-C&#39;est lorsqu&#39;un enregistrement est vrai et qu&#39;un autre est faux que ça devient compliqué.
+C&#39;est lorsqu&#39;un enregistrement est vrai et qu&#39;un autre est faux que les choses se compliquent.
 
 | Si le filtre de synchronisation de l’enregistrement perdu est : | et le filtre de synchronisation pour l’enregistrement gagnant est : | Ceci est le résultat dans Marketo |
 |---|---|---|

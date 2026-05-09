@@ -3,10 +3,10 @@ description: Découvrez comment gérer votre profil Sales Connect. Mettez à jou
 title: Gérer votre profil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 6%
+source-wordcount: '266'
+ht-degree: 8%
 
 ---
 
@@ -28,7 +28,7 @@ Voici où vous pouvez mettre à jour votre nom et/ou votre mot de passe.
 
 >[!NOTE]
 >
->Votre adresse e-mail est définie pour affichage uniquement. Si vous avez besoin de modifier ce paramètre, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Votre adresse e-mail est définie pour affichage uniquement. Si vous avez besoin de modifier ce paramètre, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez également modifier votre mot de passe dans cette section. Les étapes sont décrites dans ce document.
 

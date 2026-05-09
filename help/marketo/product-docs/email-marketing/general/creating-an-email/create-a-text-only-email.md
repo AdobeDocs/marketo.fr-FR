@@ -4,10 +4,10 @@ description: Découvrez comment créer un e-mail texte uniquement dans Marketo. 
 title: Créer un e-mail texte uniquement
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 9%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
@@ -67,4 +67,4 @@ Si vous souhaitez envoyer uniquement des e-mails textuels, voici comment créer 
 
    ![](assets/nine.png)
 
-C&#39;est aussi facile que ça.
+C&#39;est aussi simple que cela.

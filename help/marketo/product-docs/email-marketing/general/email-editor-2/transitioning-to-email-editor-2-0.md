@@ -4,11 +4,10 @@ description: Découvrez comment passer à l’éditeur d’e-mail 2.0. Découvre
 title: Transition vers l’éditeur d’e-mail 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
-hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---

@@ -4,10 +4,10 @@ description: Découvrez comment fonctionne la suppression des prospects et des c
 title: Suppression d’un lead ou d’un contact
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Il y a quelques choses à savoir lorsqu’il s’agit de supprimer des prospects/contacts dans [!DNL Microsoft Dynamics].
 
-* Marketo ne supprime pas automatiquement les personnes simplement parce que des prospects ont été supprimés en [!DNL Dynamics]. À la place, un indicateur de champ « Microsoft est supprimé » est défini sur « true ». Vous pouvez déclencher l’action hors de ce champ pour supprimer l’enregistrement dans Marketo, le cas échéant.
+* Marketo ne supprime pas automatiquement les personnes uniquement parce que les prospects ont été supprimés en [!DNL Dynamics]. À la place, un indicateur de champ « Microsoft est supprimé » est défini sur « true ». Vous pouvez déclencher l’action hors de ce champ pour supprimer l’enregistrement dans Marketo, le cas échéant.
 
 * Action de flux « Supprimer une personne » : supprime uniquement une personne dans Marketo (aucune option permettant de les supprimer également dans Dynamics n’est disponible).
 

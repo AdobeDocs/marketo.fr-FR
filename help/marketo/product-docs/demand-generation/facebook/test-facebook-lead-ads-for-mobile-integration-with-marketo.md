@@ -4,16 +4,16 @@ description: Découvrez comment tester l’intégration mobile des publicités d
 title: Tester les publicités de lead Facebook pour l’intégration mobile à Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 4%
 
 ---
 
 # Tester [!DNL Facebook] publicités de lead pour l’intégration mobile avec Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
-Après avoir créé votre annonce principale, vous devriez la tester !
+Après avoir créé votre annonce principale, vous devez la tester.
 
 >[!PREREQUISITES]
 >
@@ -43,9 +43,9 @@ Après avoir créé votre annonce principale, vous devriez la tester !
 
    >[!NOTE]
    >
-   >Ce n’est qu’un exemple, qui utilise un Call to action En savoir plus . Le Call to action de votre lead publicitaire peut être différent.
+   >Il s’agit d’un exemple qui utilise un Call to action En savoir plus . Le Call to action de votre lead publicitaire peut être différent.
 
-1. C&#39;est là que la magie opère ! Une fois le formulaire envoyé, [créez une liste dynamique dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données de prospects qui utilise le filtre **[!UICONTROL Formulaire de prospect publicitaire Facebook rempli]**. Insérez le nom du formulaire d’annonce de prospect que vous venez d’envoyer.
+1. Après avoir envoyé votre formulaire, [créez une liste dynamique dans Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dans le cadre d’un programme ou dans la base de données de prospects qui utilise le filtre **[!UICONTROL Formulaire de prospect publicitaire Facebook rempli]**. Insérez le nom du formulaire d’annonce de prospect du formulaire que vous avez envoyé.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -53,8 +53,6 @@ Après avoir créé votre annonce principale, vous devriez la tester !
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-C&#39;est cool ou quoi ?
-
 >[!NOTE]
 >
->[Activer/désactiver [!UICONTROL publicités de leads Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configuration [!UICONTROL Publicités de leads Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

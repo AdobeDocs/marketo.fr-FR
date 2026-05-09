@@ -4,16 +4,16 @@ description: Découvrez comment utiliser le flux de leads dans l’onglet Market
 title: Utilisation du flux de leads
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '351'
 ht-degree: 4%
 
 ---
 
 # Utilisation du flux de leads {#using-the-lead-feed}
 
-Le flux de leads est une liste à la minute près d’événements intéressants réalisés par vos leads. Vous le trouverez sur le côté droit lorsque vous cliquerez sur l&#39;onglet Marketo . C&#39;est comme un flux RSS ou [!DNL Twitter] - les mises à jour les plus récentes sont en haut de la liste. Utilisez ceci pour sauter sur les pistes alors que vous êtes encore frais dans leur esprit.
+Le flux de leads est une liste à la minute près d’événements intéressants réalisés par vos leads. Vous le trouverez sur le côté droit lorsque vous cliquerez sur l&#39;onglet Marketo . Comme un flux RSS ou [!DNL Twitter], les mises à jour les plus récentes sont en haut de la liste. Utilisez ceci pour sauter sur les pistes pendant que vous êtes encore frais dans leur esprit.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Lors de son affichage dans [!DNL Salesforce], chaque élément comporte :
   </tr>
   <tr>
    <td><p>C. Nom du compte</p></td>
-   <td><p>Nom de la société</p></td>
+   <td><p>Nom de l’entreprise</p></td>
   </tr>
   <tr>
    <td><p>D. Heure</p></td>

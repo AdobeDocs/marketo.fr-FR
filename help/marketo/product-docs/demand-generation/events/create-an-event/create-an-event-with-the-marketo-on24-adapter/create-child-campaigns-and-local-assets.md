@@ -4,9 +4,9 @@ description: Découvrez comment créer des campagnes enfants et des ressources l
 title: Créer des campagnes enfant et des ressources locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '688'
 ht-degree: 3%
 
 ---
@@ -65,7 +65,7 @@ Parmi les exemples de campagnes enfants, citons une campagne d’invitation, une
 **Enregistrement/Confirmation (Déclencher Une Campagne)**
 
 * Liste intelligente
-* Déclencheur basé sur **remplit le formulaire**. Veillez à inclure la page de destination sur laquelle réside le formulaire à l’aide de l’option **Ajouter une contrainte**, en particulier si le même formulaire est utilisé sur plusieurs pages de destination.
+* Déclencheur basé sur **remplit le formulaire**. Incluez la page de destination sur laquelle réside le formulaire à l’aide de l’option **Ajouter une contrainte**, en particulier si le même formulaire est utilisé sur plusieurs pages de destination.
 
 >[!CAUTION]
 >

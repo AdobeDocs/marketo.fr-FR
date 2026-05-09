@@ -4,16 +4,16 @@ description: Découvrez comment filtrer les ressources dans les rapports de camp
 title: Filtrer les ressources dans des rapports des e-mails de campagne
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 7%
 
 ---
 
 # Filtrer les ressources dans des rapports des e-mails de campagne {#filter-assets-in-a-campaign-email-reports}
 
-Concentrez votre rapport [&#x200B; Performances des e-mails de campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) spécifiques à vos programmes (« ressources locales ») ou sur celles qui ont été archivées.
+Concentrez votre rapport [ Performances des e-mails de campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sur des [campagnes intelligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) spécifiques à vos programmes (« ressources locales ») ou sur celles qui ont été archivées.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Concentrez votre rapport [&#x200B; Performances des e-mails de campagne &#x200B;
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu’il contient au moment de son exécution.
 
-1. C&#39;est fini ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport filtré.
+1. Vous avez terminé ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
    >[!MORELIKETHIS]
    >
-   >[Rapport sur les performances des emails de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Rapport sur les performances des e-mails de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
    >[Filtrer Assets dans un rapport d’e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

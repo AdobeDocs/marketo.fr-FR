@@ -3,9 +3,9 @@ description: Découvrez la gestion des utilisateurs et des licences pour les web
 title: Gestion des utilisateurs et utilisatrices et des licences
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '733'
 ht-degree: 4%
 
 ---
@@ -102,9 +102,9 @@ Les webinaires interactifs offrent des licences spécifiques pour créer des év
 
 * Chaque fois qu’un événement est créé, il est comptabilisé comme « consommé » à partir de sa licence respective (sauf s’il s’agit d’une licence de salle partagée). La préférence est donnée à la « licence d’événement partagée » s’il existe à la fois une « licence d’événement partagée » et une « licence de salle partagée » de même capacité. Si l&#39;événement n&#39;a pas été diffusé et que le programme d&#39;événement est supprimé avant l&#39;heure planifiée, le nombre d&#39;événements est réapprovisionné. Si l&#39;événement n&#39;est pas diffusé et que le programme d&#39;événement n&#39;est pas supprimé avant l&#39;heure planifiée, l&#39;événement n&#39;est pas réapprovisionné.
 
-* Le type « Licence de stockage supplémentaire » fournit uniquement du stockage. Par conséquent, la valeur dans chaque champ _en plus_ Capacité de stockage sera simplement répertoriée comme « - ».
+* Le type « Licence de stockage supplémentaire » fournit uniquement du stockage. Par conséquent, la valeur dans chaque champ _en plus_ Capacité de stockage sera répertoriée comme « - ».
 
-* Le type « Licence de salle partagée » comporte un nombre illimité d’événements et « Licence de stockage supplémentaire » fournit uniquement l’espace de stockage. Le champ Total des événements pour ces licences sera donc simplement répertorié comme « - ».
+* Le type « Licence de salle partagée » comporte un nombre illimité d&#39;événements et « Licence de stockage supplémentaire » fournit uniquement le stockage, de sorte que le champ Total des événements pour ces licences sera répertorié comme « - ».
 
 * Une fois qu’une licence est épuisée, sa mosaïque reste sur l’écran des webinaires interactifs dans la section Administration avec « Total des événements » et « Événements consommés » ayant la même valeur. Ce n’est qu’à l’expiration de la licence qu’elle sera supprimée de l’écran.
 

@@ -4,9 +4,9 @@ description: Découvrez comment exporter une liste avec des URL personnalisées 
 title: Exporter une liste avec des URL personnalisées
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '187'
 ht-degree: 6%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 6%
 >* [Activer les URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Activer des URL personnalisées pour une page de destination](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Sélectionnez votre liste ou votre liste dynamique, cliquez sur l’onglet **[!UICONTROL Leads]** pour obtenir les résultats, puis cliquez sur l’icône Excel. INLINE Vérifiez que vous avez **[!UICONTROL Code unique Marketo]** et **[!UICONTROL Nom unique Marketo]** [colonnes visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Sélectionnez votre liste ou votre liste dynamique, cliquez sur l’onglet **[!UICONTROL Leads]** pour obtenir les résultats, puis cliquez sur l’icône Excel. INLINE Vérifiez que vous avez **[!UICONTROL Code unique]** et **[!UICONTROL Nom unique Marketo]** [colonnes visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 

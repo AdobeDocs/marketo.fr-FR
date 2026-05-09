@@ -2,11 +2,10 @@
 description: Découvrez le comportement attendu des audiences prédictives dans Marketo Sky. comprendre la confidentialité des données, le délai d’activation et les limites de filtre ;
 title: Comportement attendu
 hide: true
-hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '394'
 ht-degree: 1%
 
 ---

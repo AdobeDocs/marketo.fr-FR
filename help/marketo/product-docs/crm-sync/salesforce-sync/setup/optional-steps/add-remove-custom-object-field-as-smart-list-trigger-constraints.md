@@ -4,9 +4,9 @@ description: Découvrez comment ajouter ou supprimer des champs d’objet person
 title: Ajouter/supprimer un champ d’objet personnalisé en tant que contraintes de liste intelligente/déclencheur
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '206'
 ht-degree: 11%
 
 ---
@@ -27,7 +27,7 @@ Marketo Engage offre un contrôle précis de la synchronisation d’objets perso
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Synchronisation des objets Salesforce]** apparaît dans la colonne de gauche.
+1. **[!UICONTROL Synchronisation des objets]** apparaît dans la colonne de gauche.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -61,7 +61,7 @@ Marketo Engage offre un contrôle précis de la synchronisation d’objets perso
 
    >[!NOTE]
    >
-   >N’oubliez pas de réactiver votre synchronisation globale.
+   >N’oubliez pas de réactiver la synchronisation globale.
 
 Désormais, vos listes intelligentes et campagnes intelligentes ont encore plus de puissance.
 

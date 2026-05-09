@@ -4,9 +4,9 @@ description: Trouvez des réponses aux questions fréquentes sur les Insights su
 title: Questions fréquentes sur Email Insights
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '636'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ## Existe-t-il des différences entre les mesures de ratio avec [!UICONTROL Informations sur les e-mails] et d’autres rapports sur les e-mails Marketo ? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-Oui. [!UICONTROL &#x200B; Insights sur les e-mails &#x200B;] met en corrélation les mesures d’engagement avec leurs mesures de diffusion correspondantes pour le même e-mail envoyé lors du calcul des ratios de mesures d’engagement (taux d’ouverture, taux de clic-ouverture, taux de désabonnement). Par exemple, dans [!UICONTROL Informations sur les e-mails], lorsque vous examiniez un graphique de série temporelle au cours de la semaine écoulée avec des répartitions quotidiennes du taux de clic sur ouverture, nous affichons désormais le véritable ratio corrélé d’événements d’ouverture/clic/désabonnement en fonction des mesures de diffusion correspondantes. Cela contraste avec le comportement de l’Explorateur de revenus, qui résume tout simplement. [!UICONTROL Informations sur les e-mails] offre une vue plus précise des taux d’engagement.
+Oui. [!UICONTROL  Insights sur les e-mails ] met en corrélation les mesures d’engagement avec leurs mesures de diffusion correspondantes pour le même e-mail envoyé lors du calcul des ratios de mesures d’engagement (taux d’ouverture, taux de clic-ouverture, taux de désabonnement). Par exemple, dans [!UICONTROL Informations sur les e-mails], lorsque vous examiniez un graphique de série temporelle au cours de la semaine écoulée avec des répartitions quotidiennes du taux de clic sur ouverture, nous affichons désormais le véritable ratio corrélé d’événements d’ouverture/clic/désabonnement en fonction des mesures de diffusion correspondantes. Cela contraste avec le comportement de l’Explorateur de revenus, qui résume tout simplement. [!UICONTROL Informations sur les e-mails] offre une vue plus précise des taux d’engagement.
 
 ## Pourquoi la fonction [!UICONTROL Insights sur les e-mails] ne prend-elle en charge que 10 dimensions personnalisées ? {#why-does-email-insights-only-support-custom-dimensions}
 

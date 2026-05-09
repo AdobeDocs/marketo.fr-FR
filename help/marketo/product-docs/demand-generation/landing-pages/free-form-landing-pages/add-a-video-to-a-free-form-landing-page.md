@@ -4,12 +4,11 @@ description: Découvrez comment ajouter une vidéo à une page de destination de
 title: Ajouter une vidéo à une page de destination à structure libre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
-hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 6%
+source-wordcount: '259'
+ht-degree: 7%
 
 ---
 
@@ -35,7 +34,7 @@ Placez des vidéos avec des options de partage sur les réseaux sociaux sur vos 
 
    >[!NOTE]
    >
-   >La fonction **[!UICONTROL Créer]** apparaît uniquement dans [!UICONTROL Activités marketing] ; elle n&#39;est pas disponible dans [!UICONTROL Design Studio]. Seules les vidéos déjà créées sont disponibles dans Design Studio. Cependant, vous pouvez créer un partage vidéo _dans un programme_ en sélectionnant **[!UICONTROL Nouveau]** > **[!UICONTROL Nouvelle ressource locale]**. Vous pouvez ensuite la sélectionner dans la liste déroulante, comme illustré ici.
+   >La fonction **[!UICONTROL Créer]** apparaît uniquement dans [!UICONTROL Activités marketing] ; elle n’est pas disponible dans [!UICONTROL Design Studio]. Seules les vidéos déjà créées sont disponibles dans Design Studio. Cependant, vous pouvez créer un partage vidéo _dans un programme_ en sélectionnant **[!UICONTROL Nouveau]** > **[!UICONTROL Nouvelle ressource locale]**. Vous pouvez ensuite la sélectionner dans la liste déroulante, comme illustré ici.
 
 1. Saisissez l’URL de la vidéo YouTube, puis nommez-la. Dans la liste déroulante **[!UICONTROL Cloner à partir de]** sélectionnez **[!UICONTROL Aucun]**, puis cliquez sur **[!UICONTROL Insérer]**.
 
@@ -49,4 +48,4 @@ Félicitations ! Vous avez ajouté un partage vidéo à votre page de destinati
 
 >[!MORELIKETHIS]
 >
->Vous avez terminé, mais vous pouvez modifier les paramètres de votre partage vidéo si nécessaire. Commencez par _personnaliser le flux de partage_ (quand et où s’ouvre l’invite de partage).
+>vous avez terminé, mais vous pouvez modifier les paramètres de votre partage vidéo si nécessaire. Commencez par _personnaliser le flux de partage_ (quand et où s’ouvre l’invite de partage).

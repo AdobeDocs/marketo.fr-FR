@@ -3,9 +3,9 @@ description: Découvrez comment octroyer l’accès à Marketo aux utilisateurs 
 title: Accorder un accès Marketo à des utilisateurs et à des utilisatrices
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '226'
 ht-degree: 5%
 
 ---
@@ -34,7 +34,7 @@ Vous devez inviter les utilisateurs à [[!DNL Sales Insight Actions]](/help/mark
 
    >[!NOTE]
    >
-   >Vous ne pouvez attribuer l’espace de travail qu’une seule fois au moment d’accorder l’accès aux utilisateurs. Une fois défini, vous devrez déconnecter l’utilisateur ou l’utilisatrice afin de le modifier.
+   >Vous ne pouvez attribuer l’espace de travail qu’une seule fois au moment d’accorder l’accès aux utilisateurs. Une fois défini, vous devez déconnecter l’utilisateur ou l’utilisatrice afin de le modifier.
 
 1. Si les espaces de travail sont activés pour votre abonnement à Marketo, vous pourrez affecter des espaces de travail en bloc à chaque utilisateur ou groupe d’utilisateurs. Si aucun espace de travail n’est sélectionné, nous l’affecterons à l’espace de travail Marketo par défaut.
 

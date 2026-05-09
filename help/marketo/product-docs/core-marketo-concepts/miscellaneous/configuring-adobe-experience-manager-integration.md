@@ -3,10 +3,9 @@ unique-page-id: 30081815
 description: Découvrez comment configurer l’intégration de Adobe Experience Manager à Marketo. Configurez AEM afin de pouvoir accéder aux ressources et les importer dans Design Studio.
 title: Configuration de l’intégration d’Adobe Experience Manager
 hide: true
-hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 8%
@@ -39,7 +38,7 @@ Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources A
 
    ![](assets/2a.png)
 
-1. Dans votre navigateur, recherchez « [!UICONTROL Politique de partage de ressources entre origines multiples Adobe Granite &#x200B;] » (ctrl+f sous Windows, cmd+f sous Mac).
+1. Dans votre navigateur, recherchez « [!UICONTROL Politique de partage de ressources entre origines multiples Adobe Granite ] » (ctrl+f sous Windows, cmd+f sous Mac).
 
    ![](assets/three.png)
 
@@ -67,7 +66,7 @@ Configurez Adobe Experience Manager (AEM) pour pouvoir accéder aux ressources A
 
    ![](assets/nine.png)
 
-1. Sous Intégration, sélectionnez **&#x200B;**.
+1. Sous Intégration, sélectionnez ****.
 
    ![](assets/ten.png)
 

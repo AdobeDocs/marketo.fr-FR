@@ -4,10 +4,10 @@ description: Découvrez comment exécuter l’outil de validation de la synchron
 title: Valider [!DNL Microsoft Dynamics] Sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 0%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Exécuter la synchronisation de validation dans Marketo {#run-validate-sync-in-marketo}
 
-Il est très important d’exécuter l’outil Valider la synchronisation pour vous assurer que la synchronisation [!DNL Microsoft Dynamics] avec Marketo est correctement configurée avant d’établir la connexion finale entre eux. Le processus génère une liste de contrôle de sept étapes de configuration qui identifient les problèmes éventuels. Vérifier que tout cela a été fait correctement peut vous faire gagner beaucoup de temps plus tard.
+Il est très important d’exécuter l’outil Valider la synchronisation pour vous assurer que la synchronisation [!DNL Microsoft Dynamics] avec Marketo est correctement configurée avant d’établir la connexion finale entre elles. Le processus génère une liste de contrôle de sept étapes de configuration qui identifient les problèmes éventuels. Vérifier que tout cela a été fait correctement peut vous faire gagner beaucoup de temps plus tard.
 
 1. Cliquez sur l’onglet **[!UICONTROL Admin]**, puis sur le lien **[!DNL Microsoft Dynamics]** dans la zone Intégration .
 
@@ -45,7 +45,7 @@ Il est très important d’exécuter l’outil Valider la synchronisation pour v
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Si vous voyez une ![&#x200B; — &#x200B;](assets/delete.png), alors cette étape pose un problème. Voir [Correction [!DNL Dynamics] des problèmes de synchronisation de validation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Réexécutez ensuite les étapes de validation de la synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
+1. Si vous voyez une ![ — ](assets/delete.png), alors cette étape pose un problème. Voir [Correction [!DNL Dynamics] des problèmes de synchronisation de validation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Réexécutez ensuite les étapes de validation de la synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
 
    >[!CAUTION]
    >

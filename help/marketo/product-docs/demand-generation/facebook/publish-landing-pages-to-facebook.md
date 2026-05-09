@@ -4,9 +4,9 @@ description: Découvrez comment publier des pages de destination Marketo sur Fac
 title: Publier des pages de destination sur Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Disons que vous lancez un nouveau livre, vous pourriez atteindre une partie de v
    >
    >Pour remplacer des pages de destination Marketo que vous avez précédemment publiées sur [!DNL Facebook], sélectionnez **[!UICONTROL Remplacer l’onglet existant]** et choisissez l’onglet à remplacer dans la liste déroulante. Notez que cela ne remplacera pas les onglets autres que Marketo.
 
-1. Les prospects peuvent désormais accéder à votre page de destination directement sur votre page de [!DNL Facebook]. Il vous suffit de cliquer sur le nom de l’onglet sous votre image de couverture.
+1. Les prospects peuvent désormais accéder à votre page de destination directement sur votre page de [!DNL Facebook]. Cliquez sur le nom de l’onglet sous votre image de couverture.
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

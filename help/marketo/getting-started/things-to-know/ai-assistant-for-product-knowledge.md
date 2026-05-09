@@ -3,12 +3,11 @@ description: Assistant AI pour la connaissance du produit - Documents Marketo En
 title: Assistant IA pour la connaissance des produits
 feature: Getting Started
 hide: true
-hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -42,4 +41,4 @@ Grâce à l’assistant d’IA dédiée à la connaissance des produits, vos éq
 
 Découvrez le fonctionnement de l’assistant d’IA pour la connaissance des produits, en une minute environ.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480117?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

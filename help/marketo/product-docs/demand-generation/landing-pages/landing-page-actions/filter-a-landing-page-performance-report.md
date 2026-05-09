@@ -4,9 +4,9 @@ description: Découvrez comment filtrer un rapport de performances de page de de
 title: Filtrer un rapport de performances de la page de destination
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '157'
 ht-degree: 7%
 
 ---
@@ -39,6 +39,6 @@ Concentrez votre [rapport sur les performances des pages de destination](/help/m
    >
    >Si vous sélectionnez un dossier, votre rapport inclura tout ce qu’il contient au moment de son exécution.
 
-1. C&#39;est fini ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport filtré.
+1. Vous avez terminé ! Cliquez sur l’onglet **[!UICONTROL Rapport]** pour afficher votre rapport filtré.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

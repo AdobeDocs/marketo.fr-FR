@@ -3,9 +3,9 @@ description: Découvrez la boîte de réception de l’agent où se tiennent les
 title: Boîte de réception de l’agent ou de l’agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '596'
 ht-degree: 1%
 
 ---
@@ -62,7 +62,7 @@ Les agents peuvent mettre fin manuellement à une session en cliquant simplement
 >
 >Cette fonctionnalité fait partie de l’IA générative, disponible via l’abonnement Dynamic Chat Prime. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
-Les raccourcis, optimisés par la [bibliothèque de réponse](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) d’IA générative, sont un excellent moyen d’obtenir de l’aide à la volée lorsque vous discutez avec un visiteur. Saisissez simplement une barre oblique (`/`) dans la zone de texte et choisissez `ask` ou `search`.
+Les raccourcis, optimisés par la [bibliothèque de réponse](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) d’IA générative, sont un moyen efficace d’obtenir de l’aide lors d’une conversation avec un visiteur ou une visiteuse. Saisissez une barre oblique (`/`) dans la zone de texte, puis choisissez `ask` ou `search`.
 
 ![](assets/agent-inbox-7.png)
 
@@ -90,7 +90,7 @@ La recherche **Search** sert à trouver des pages associées à un texte spécif
 
    ![](assets/agent-inbox-12.png)
 
-## Historique de l&#39;activité {#activity-history}
+## Historique des activités {#activity-history}
 
 Sous les informations sur le visiteur se trouve l’historique des activités. Affichez les types d’activité et les dates, et même les transcriptions des conversations.
 

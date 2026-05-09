@@ -4,7 +4,7 @@ description: Découvrez comment fonctionne la synchronisation des prospects entr
 title: Synchronisation Microsoft Dynamics - Synchronisation des leads
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Synchronisation des [!DNL Microsoft Dynamics] : synchronisation des leads {#microsoft-dynamics-sync-lead-sync}
 
-La synchronisation de Marketo vers [!DNL Dynamics] est très puissante. Voici les détails :
+La synchronisation de Marketo vers [!DNL Dynamics] est puissante. Voici les détails :
 
 ## Comment les détails sont-ils synchronisés entre les deux systèmes ? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,19 +25,19 @@ La synchronisation est bidirectionnelle. Si vous apportez des modifications à u
 
 ## Que faire si des modifications sont apportées simultanément au même champ dans les deux systèmes ? (Collision de données) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Bien que cela soit rare, Marketo gagnera pour les personnes (prospects) et [!DNL Dynamics] gagnera pour les contacts. En effet, nous considérons que le service marketing fait autorité pour les personnes, alors que le système officiel d’enregistrement des contacts se trouve dans le service des ventes (CRM).
+Bien que cela soit rare, Marketo gagnera pour les personnes (prospects) et [!DNL Dynamics] gagnera pour les contacts. Cela est dû au fait que le service marketing est considéré comme faisant autorité pour les personnes, alors que le système officiel d’enregistrement des contacts se trouve dans le service des ventes (CRM).
 
 ## Puis-je créer un prospect dans [!DNL Dynamics] à l’aide de Marketo ? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Oui, utiliser l’action de flux [[!UICONTROL &#x200B; Synchroniser la personne avec Microsoft &#x200B;]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cette opération crée un prospect dans [!DNL Dynamics] si le prospect n’existe pas. Si le prospect existe, l’étape de flux n’effectue aucune action.
+Oui, utiliser l’action de flux [[!UICONTROL  Synchroniser la personne avec Microsoft ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Cette opération crée un prospect dans [!DNL Dynamics] si le prospect n’existe pas. Si le prospect existe, l’étape de flux n’effectue aucune action.
 
 >[!NOTE]
 >
->Lors de l’utilisation de l’action de flux « [!UICONTROL &#x200B; Synchroniser la personne avec Microsoft &#x200B;] » (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans [!DNL Dynamics].
+>Lors de l’utilisation de l’action de flux « [!UICONTROL  Synchroniser la personne avec Microsoft ] » (dans une campagne de déclenchement uniquement), le prospect/contact est créé en temps réel dans [!DNL Dynamics].
 
 ## Puis-je forcer manuellement la synchronisation d’une personne de Marketo avec un prospect dans [!DNL Dynamics] ? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Non, la synchronisation en arrière-plan automatisée est la seule façon de synchroniser les mises à jour entre Marketo et [!DNL Dynamics]. L’action de flux [[!UICONTROL &#x200B; Synchroniser la personne avec Microsoft &#x200B;]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne force pas la synchronisation du prospect.
+Non, la synchronisation en arrière-plan automatisée est la seule façon de synchroniser les mises à jour entre Marketo et [!DNL Dynamics]. L’action de flux [[!UICONTROL  Synchroniser la personne avec Microsoft ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) ne force pas la synchronisation du prospect.
 
 ## Quels champs vont être synchronisés avec Marketo ? {#what-fields-will-sync-to-marketo}
 

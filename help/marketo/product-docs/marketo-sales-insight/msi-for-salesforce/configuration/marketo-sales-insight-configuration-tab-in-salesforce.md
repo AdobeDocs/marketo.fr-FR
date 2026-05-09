@@ -4,9 +4,9 @@ description: Découvrez l’onglet de configuration Marketo Sales Insight dans S
 title: Onglet Configuration d’Informations sur les ventes Marketo dans Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '626'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Les configurations s&#39;appliquent à tous les utilisateurs de MSI et ne sont p
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
-**Onglet Global Marketo**
+**Onglet Global**
 
 * Flux RSS activé : lorsqu’il est activé, les utilisateurs de MSI peuvent afficher leur flux de leads dans un flux RSS (en plus du flux de leads dans Salesforce). Le flux RSS ne peut fonctionner que si la fonction « Expiration du jeton » est désactivée. Ce paramètre est contrôlé dans la page Marketo Sales Insight Admin.
 * Mode de débogage des meilleurs paris
@@ -77,7 +77,7 @@ Si vous choisissez de le faire, toutes vos configurations seront effacées dans 
 
 >[!IMPORTANT]
 >
->Ne cochez pas la case « Activer les actions MSI » à moins que vous n’utilisiez les fonctionnalités d’actions Sales Insights.
+>Ne cochez pas la case « Activer les actions MSI », sauf si vous utilisez les fonctionnalités d’actions Sales Insights.
 
 >[!MORELIKETHIS]
 >

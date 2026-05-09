@@ -4,10 +4,10 @@ description: Découvrez comment activer la synchronisation d’objets personnali
 title: Activer la synchronisation des objets personnalisés dans des langues autres que l’anglais
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 8%
+source-wordcount: '175'
+ht-degree: 9%
 
 ---
 
@@ -61,4 +61,4 @@ Si votre utilisateur de synchronisation Marketo est défini sur une langue autre
 
 >[!NOTE]
 >
->N’oubliez pas d’actualiser le schéma une dernière fois pour récupérer les objets dans votre langue.
+>Actualisez le schéma une dernière fois pour récupérer les objets dans votre langue.

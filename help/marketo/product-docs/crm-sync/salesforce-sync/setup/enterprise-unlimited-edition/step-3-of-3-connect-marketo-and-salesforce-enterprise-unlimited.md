@@ -4,9 +4,9 @@ description: Découvrez comment connecter Marketo et Salesforce lors de l’éta
 title: Étape 3 sur 3 - Connecter Marketo et Salesforce (Entreprise/Illimité)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -48,15 +48,15 @@ Dans cet article, vous allez configurer Marketo pour qu’il se synchronise avec
 
    >[!NOTE]
    >
-   >Veillez à [masquer tous les champs dont vous n’avez pas besoin](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) dans Marketo à l’utilisateur de synchronisation avant de cliquer sur **[!UICONTROL Synchroniser les champs]**. Une fois que vous avez cliqué sur [!UICONTROL Synchroniser les champs] tous les champs visibles par l’utilisateur sont créés en permanence dans Marketo et ne peuvent pas être supprimés.
+   >[Masquez tous les champs dont vous n’avez pas besoin](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) dans Marketo, puis cliquez sur **[!UICONTROL Synchroniser les champs]**. Une fois que vous avez cliqué sur [!UICONTROL Synchroniser les champs] tous les champs visibles par l’utilisateur sont créés en permanence dans Marketo et ne peuvent pas être supprimés.
 
-1. Saisissez les informations d’identification de l’utilisateur de synchronisation [!DNL Salesforce] créées dans la partie 2 de la configuration [!DNL Salesforce] ([Professionnel](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) ou [Entreprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) et cliquez sur **[!UICONTROL Champs de synchronisation]** (cochez la case **[!UICONTROL Sandbox]** [!DNL Salesforce] uniquement si vous synchronisez un sandbox Marketo avec un autre sandbox).
+1. Saisissez les informations d’identification de l’utilisateur de synchronisation [!DNL Salesforce] créées dans la partie 2 de la configuration [!DNL Salesforce] ([Professionnel](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) ou [Entreprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) et cliquez sur **[!UICONTROL Synchroniser les champs]** (cochez la case **[!UICONTROL Sandbox]** [!DNL Salesforce] uniquement si vous synchronisez un sandbox Marketo avec un autre sandbox).
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!CAUTION]
    >
-   >Si un bouton « Se connecter à [!DNL Salesforce] » s’affiche à la place des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. Reportez-vous [&#x200B; cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **les informations d’identification [!DNL Salesforce] ou l’abonnement ne changent pas**. Si vous souhaitez utiliser l’authentification de base, contactez votre gestionnaire de compte.
+   >Si un bouton « Se connecter à [!DNL Salesforce] » s’affiche à la place des champs Nom d’utilisateur/Mot de passe/Jeton, votre abonnement Marketo est activé pour OAuth. [Voir cet article](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Dès que la synchronisation commence à utiliser un ensemble d’informations d’identification, **les informations d’identification [!DNL Salesforce] ou l’abonnement ne changent pas**. Si vous souhaitez utiliser l’authentification de base, contactez votre gestionnaire de compte.
 
 1. Lisez l’avertissement, puis cliquez sur **[!UICONTROL Confirmer les informations d’identification]**.
 
@@ -100,7 +100,7 @@ Marketo fournit des messages de statut pour la synchronisation [!DNL Salesforce]
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Vous venez de terminer la configuration de l’une des fonctionnalités les plus puissantes de Marketo, allez-y !
+Vous avez terminé de configurer l’une des fonctionnalités les plus puissantes de Marketo.
 
 >[!MORELIKETHIS]
 >

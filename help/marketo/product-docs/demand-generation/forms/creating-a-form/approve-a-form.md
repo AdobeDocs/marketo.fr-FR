@@ -4,9 +4,9 @@ description: Découvrez comment approuver un formulaire dans Marketo. Approuvez 
 title: Approuver un formulaire
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 10%
 
 ---

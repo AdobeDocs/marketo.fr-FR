@@ -3,7 +3,7 @@ description: Découvrez la synchronisation de la campagne entre Microsoft Dynami
 title: Vue d’ensemble de la synchronisation des campagnes
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%

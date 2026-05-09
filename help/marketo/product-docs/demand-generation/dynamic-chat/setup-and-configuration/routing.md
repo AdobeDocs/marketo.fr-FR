@@ -3,9 +3,9 @@ description: Découvrez le routage des réunions et le chat en direct dans Dynam
 title: Transmission
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Règle personnalisée : vous pouvez choisir des agents spécifiques pour recevoi
 
 ## Création d’une règle personnalisée {#create-a-custom-rule}
 
-Dans cet exemple, nous envoyons toutes les réunions des États présumés CA, OR et WA à l&#39;agent John.
+Dans cet exemple, toutes les réunions provenant des états déduits de CA, OR et WA sont acheminées à l&#39;agent John.
 
 1. Sous Configuration, cliquez sur **Règles de transmission**.
 
@@ -72,7 +72,7 @@ Identifiez et chargez votre compte cible et les propriétaires de ventes respect
 
 +++ Activer les autorisations de routage de compte
 
-1. Connectez-vous à [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
 
 1. Sous _Produits_, sélectionnez **Dynamic Chat**.
 
@@ -100,7 +100,7 @@ Identifiez et chargez votre compte cible et les propriétaires de ventes respect
 
 ### Ajouter un compte {#add-an-account}
 
-Dans cet exemple, nous allons acheminer tous les employés de Lego directement à l&#39;agent Steven.
+Dans cet exemple, tous les employés de Lego sont acheminés directement à l&#39;agent Steven.
 
 1. Dans l’onglet Routage du compte , cliquez sur **+ Ajouter un compte**.
 

@@ -4,10 +4,10 @@ description: Découvrez comment démarrer le suivi par compte dans la modélisat
 title: Commencer le tracking par compte dans Revenue Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '267'
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ Grâce au Modeler de l’étape de chiffre d’affaires et à l’[!UICONTROL ex
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Une fois la configuration du rapport terminée, cliquez avec le bouton droit de la souris sur **[!UICONTROL Est la société de suivi]** et sélectionnez **[!UICONTROL Filtrer]**. Nous l’utiliserons pour limiter le rapport aux seules étapes où le **suivi par compte** est sélectionné.
+1. Une fois la configuration du rapport terminée, cliquez avec le bouton droit de la souris sur **[!UICONTROL Est l’entreprise de suivi]** et sélectionnez **[!UICONTROL Filtrer]**. Nous l’utiliserons pour limiter le rapport aux seules étapes où le **suivi par compte** est sélectionné.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 

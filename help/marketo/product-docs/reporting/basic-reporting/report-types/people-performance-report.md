@@ -4,9 +4,9 @@ description: Découvrez les rapports Performances des personnes qui mesurent la 
 title: Rapport de performances des personnes
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '258'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ Utilisez un rapport [!UICONTROL Performances des personnes] pour mesurer la croi
 
 1. [Définissez la période de votre rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) puis cliquez sur l’onglet **[!UICONTROL Rapport]**.
 
-1. Fantastique ! Vous êtes maintenant prêt à explorer votre rapport [!UICONTROL &#x200B; Performances des personnes &#x200B;]. Découvrez comment en tirer le meilleur parti dans la liste ci-dessous.
+1. Fantastique ! Vous êtes maintenant prêt à explorer votre rapport [!UICONTROL  Performances des personnes ]. Découvrez comment en tirer le meilleur parti dans la liste ci-dessous.
 
    >[!NOTE]
    >

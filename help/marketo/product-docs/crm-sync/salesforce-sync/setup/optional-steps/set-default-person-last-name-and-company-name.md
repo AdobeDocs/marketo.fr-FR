@@ -4,9 +4,9 @@ description: Découvrez comment définir le nom de famille de la personne et le 
 title: Définir le nom de famille et le nom de la société par défaut d’une personne
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '149'
 ht-degree: 10%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 10%
    >
    >Marketo Engage n’affecte une valeur par défaut que lorsque l’enregistrement est initialement synchronisé avec Salesforce et uniquement si l’un des champs obligatoires est vide.
 
-Et c&#39;est ça ! Chaque fois qu’une personne n’a pas de nom et/ou de nom de société, Marketo ajoute la valeur par défaut lors de la synchronisation de l’enregistrement.
+Chaque fois qu&#39;une personne n&#39;a pas de nom ou de nom de société, Marketo ajoute la valeur par défaut lors de la synchronisation de l&#39;enregistrement.

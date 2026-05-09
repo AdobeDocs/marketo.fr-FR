@@ -2,10 +2,9 @@
 description: Comprendre la vue détaillée de la personne dans les actions Sales Insight. Voir les informations de contact, l’historique des activités et les actions rapides pour un prospect ou un contact.
 title: Vue des détails d’une personne
 hide: true
-hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 3%
@@ -67,7 +66,7 @@ Découvrez comment cette personne interagit avec vos activités de sensibilisati
 
 PICC
 
-**Activité de vente Marketo**
+**Activité de vente**
 
 * Voir les activités d’engagement de vos e-mails et campagnes de vente
 

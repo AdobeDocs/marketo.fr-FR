@@ -4,9 +4,9 @@ description: Découvrez comment rendre les images d’e-mail prédictives avec C
 title: Activer le contenu prédictif dans les e-mails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Rendez une ou plusieurs images de votre e-mail prédictives, en adaptant l’exp
 
 >[!NOTE]
 >
->Il est recommandé d’activer plus de cinq éléments de contenu par catégorie et par source (e-mail, média enrichi, barre) avant de tester et d’utiliser le contenu prédictif. Plus de contenu vous donne un meilleur résultat prédictif.
+>il est recommandé d’activer plus de cinq éléments de contenu par catégorie et par source (e-mail, médias riches, barre) avant de tester et d’utiliser le contenu prédictif. Plus de contenu vous donne un meilleur résultat prédictif.
 
 >[!PREREQUISITES]
 >

@@ -2,9 +2,9 @@
 description: Découvrez l’onglet Paramètres pour les règles de qualification de campagne intelligente, les exécutions et la périodicité. Définissez la fréquence à laquelle les utilisateurs parcourent votre flux de campagne.
 title: Onglet Paramètres
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '324'
 ht-degree: 3%
 
 ---
@@ -60,7 +60,7 @@ Tous les jeux d’autorisations existants s’appliqueront dans l’onglet Param
 
 >[!NOTE]
 >
->Si, après avoir cliqué sur l’icône d’aide, vous voyez « Autorisation supplémentaire requise », contactez votre administrateur Marketo.
+>Si, après avoir cliqué sur l’icône d’aide, vous voyez « Autorisation supplémentaire requise », contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 ![](assets/settings-tab-5.png)
 

@@ -2,19 +2,18 @@
 description: Communauté Marketo Engage - Documents Marketo Engage - Documentation du produit
 title: Communauté Marketo Engage
 hide: true
-hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
 
 # Communauté Adobe Marketo Engage {#marketo-engage-community}
 
-La [Communauté Adobe Marketo Engage](https://nation.marketo.com/) (également appelée Nation marketing) est l’endroit où obtenir des informations supplémentaires sur votre instance Marketo Engage de la part des autres utilisateurs ainsi que des employés de Marketo. Avant de vous lancer, prenez un moment pour vous familiariser avec les [Directives communautaires](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+La [Communauté ](https://nation.marketo.com/) (également appelée Nation marketing) est l’endroit où obtenir des informations supplémentaires sur votre instance Marketo Engage de la part des autres utilisateurs ainsi que des employés de Marketo. Avant de vous lancer, prenez un moment pour vous familiariser avec les [Directives communautaires](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Enregistrer votre nom d’utilisateur {#register-your-username}
 
@@ -68,7 +67,7 @@ CAPTURE D’ÉCRAN
 
 ## Groupes d&#39;utilisateurs Marketo {#marketo-user-groups}
 
-Les groupes d’utilisateurs Marketo sont des rencontres qui ont lieu dans différentes régions du monde. Ils vous offrent la possibilité de réseauter, de discuter des dernières tendances, d&#39;en apprendre plus sur les nouvelles fonctionnalités, et plus encore. Vérifiez s&#39;il y en a un dans votre région. S’il n’y en a pas, vous pouvez rejoindre un groupe d’utilisateurs virtuel !
+Les groupes d’utilisateurs Marketo sont des rencontres qui ont lieu dans différentes régions du monde. Ils vous offrent la possibilité de réseauter, de discuter des dernières tendances, d&#39;en apprendre plus sur les nouvelles fonctionnalités, et plus encore. Vérifiez s&#39;il y en a un dans votre région. Dans le cas contraire, vous pouvez rejoindre un groupe d’utilisateurs virtuel !
 
 CAPTURE D’ÉCRAN
 
@@ -84,7 +83,7 @@ CAPTURE D’ÉCRAN
 >
 >Ceci s’applique uniquement à ceux qui disposent de plusieurs abonnements Marketo Engage et qui ont créé par inadvertance plusieurs profils lors de leur connexion à la communauté Marketing Nation.
 
-Suivez les étapes ci-dessous pour fusionner l’historique de plusieurs profils de communauté. Il est recommandé de remplacer le profil de la communauté qui comporte moins d’activité de communauté, car les données de profil remplacées ne peuvent pas être récupérées.
+Suivez les étapes ci-dessous pour fusionner l’historique de plusieurs profils de communauté. Il est recommandé de remplacer le profil de la communauté qui comporte moins d’activité de la communauté, car les données de profil remplacées ne peuvent pas être récupérées.
 
 Envoyez un e-mail à `ccare@marketo.com` pour demander que les données de vos différents profils de communauté soient fusionnées dans le profil associé à votre abonnement de production principale. Lorsque les profils sont fusionnés, vous perdez l’activité historique du profil remplacé de votre choix.
 

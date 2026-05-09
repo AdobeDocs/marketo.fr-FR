@@ -3,9 +3,9 @@ description: Découvrez comment empêcher les autoévaluations de compter dans l
 title: Comment empêcher les autoévaluations ?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ L’obtention de faux positifs sur votre suivi des vues peut entraîner des inco
 
 * Vérifiez que les cookies sont activés sur votre ordinateur.
 
-* Si vous utilisez un nouvel ordinateur ou un nouvel appareil mobile, vérifiez que vous vous êtes connecté à l’application web. Cela nous permettra de reconnaître votre ordinateur/appareil à partir de maintenant.
+* Si vous utilisez un nouvel ordinateur ou appareil mobile, vérifiez que vous vous êtes connecté à l’application web. Cela nous permettra de reconnaître votre ordinateur/appareil à partir de maintenant.
 
 ## Bureau (Windows) {#desktop-windows}
 

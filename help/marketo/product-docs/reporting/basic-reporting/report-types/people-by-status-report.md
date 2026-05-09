@@ -4,16 +4,16 @@ description: Découvrez les rapports Personnes par statut qui indiquent le nombr
 title: Rapport des personnes par statut
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 7%
 
 ---
 
 # Rapport des personnes par statut {#people-by-status-report}
 
-Vérifiez à quel point vous faites passer les personnes par le processus en vérifiant le nombre d’entre elles qui apparaissent chaque mois dans chaque valeur _[!UICONTROL Statut de la personne]_.
+Vérifiez à quel point vous faites progresser les personnes tout au long du processus en vérifiant le nombre d’entre elles qui apparaissent chaque mois dans chaque valeur _[!UICONTROL Statut de la personne]_.
 
 1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le **[!UICONTROL Personnes par statut]** [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 

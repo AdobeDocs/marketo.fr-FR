@@ -3,9 +3,9 @@ description: Découvrez comment filtrer les enregistrements fusionnés/supprimé
 title: Filtrer les enregistrements fusionnés/supprimés dans un rapport sur les e-mails
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 6%
 
 ---
@@ -34,4 +34,4 @@ Concentrez votre rapport Performance des e-mails sur les e-mails dans vos progra
 
    ![](assets/filter-deleted-merged-records-in-an-email-performance-report-4.png)
 
-C&#39;est fini ! Cliquez sur l’onglet Rapport pour afficher le rapport filtré.
+Vous avez terminé ! Cliquez sur l’onglet Rapport pour afficher le rapport filtré.

@@ -3,7 +3,7 @@ description: Découvrez les Critères d’audience pour le ciblage des personnes
 title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 1%
@@ -22,13 +22,13 @@ La priorité détermine la boîte de dialogue qu’un prospect reçoit s’il r�
 
 ## Événements {#events}
 
-Les événements vous permettent de cibler les visiteurs et visiteuses en fonction de leur niveau de défilement ou de leur durée de présence sur votre page ou site. Dans l’exemple ci-dessous, nous ciblons les visiteurs et visiteuses qui se trouvent sur une page spécifique depuis plus de 20 secondes.
+Les événements vous permettent de cibler les visiteurs et visiteuses en fonction de leur niveau de défilement ou de la durée pendant laquelle ils se trouvent sur votre page ou site. Dans l’exemple ci-dessous, la configuration cible les visiteurs et visiteuses qui se trouvent sur une page spécifique depuis plus de 20 secondes.
 
 1. Saisissez l’événement **[!UICONTROL Temps passé sur la page]** et faites-le glisser vers la droite.
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure « [!UICONTROL &#x200B; supérieure à &#x200B;] » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 
@@ -40,7 +40,7 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
 **Personnes connues**
 
-Vous pouvez choisir parmi de _nombreuses_ combinaisons d’attributs. Dans l&#39;exemple ci-dessous, nous ciblons toutes les personnes connues en Californie qui travaillent dans une entreprise de plus de 50 employés.
+Vous pouvez choisir parmi de _nombreuses_ combinaisons d’attributs. Dans l’exemple ci-dessous, la configuration cible toutes les personnes connues en Californie qui travaillent dans une entreprise de plus de 50 employés.
 
 1. Saisissez l’attribut **[!UICONTROL État de la personne]** et faites-le glisser vers la droite.
 
@@ -68,7 +68,7 @@ Vous pouvez choisir parmi de _nombreuses_ combinaisons d’attributs. Dans l&#39
 
 **Personnes anonymes**
 
-Il existe un moyen facile de cibler spécifiquement les personnes qui ne figurent pas encore dans votre base de données. Dans cet exemple, nous ciblons toutes les personnes anonymes situées dans la région de New York.
+Le code suivant cible les personnes qui ne figurent pas encore dans votre base de données. Dans cet exemple, la configuration cible toutes les personnes anonymes situées dans la région de New York.
 
 1. Saisissez l’attribut **[!UICONTROL E-mail de la personne]** et faites-le glisser vers la droite.
 
@@ -84,7 +84,7 @@ Il existe un moyen facile de cibler spécifiquement les personnes qui ne figuren
 
    >[!NOTE]
    >
-   >Lorsqu&#39;une personne visite votre site web, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Nous recherchons leur IP dans une base de données spéciale et déduisons toutes sortes de bonnes informations.
+   >Lorsqu&#39;une personne visite votre site web, [](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. L’adresse IP est recherchée dans une base de données spéciale pour déduire l’emplacement et d’autres informations.
 
 1. _[!UICONTROL Est]_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 

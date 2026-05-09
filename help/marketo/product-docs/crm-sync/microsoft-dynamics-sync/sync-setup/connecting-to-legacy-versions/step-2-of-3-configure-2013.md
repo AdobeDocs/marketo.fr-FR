@@ -4,16 +4,16 @@ description: Découvrez comment configurer l'utilisateur de synchronisation pour
 title: Étape 2 sur 3 - Configuration de l’utilisateur de synchronisation pour Marketo (2013 On-Premise)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '383'
 ht-degree: 3%
 
 ---
 
 # Étape 2 sur 3 : configurer l’utilisateur ou l’utilisatrice de synchronisation pour Marketo (2013 On-Premise) {#step-of-configure-sync-user-for-marketo-on-premises}
 
-Excellent travail pour terminer les étapes précédentes, continuons à avancer dans ce dossier.
+Les étapes précédentes sont terminées.
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ Excellent travail pour terminer les étapes précédentes, continuons à avancer
 
 ## Affecter un rôle d&#39;utilisateur de synchronisation {#assign-sync-user-role}
 
-Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’utilisateur de synchronisation Marketo. Vous n’avez pas besoin de l’affecter à d’autres utilisateurs.
+Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’utilisateur de synchronisation Marketo. Il n’a pas besoin d’être affecté à d’autres utilisateurs.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’util
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 
-1. Cochez **[!UICONTROL Utilisateur de synchronisation Marketo]** puis cliquez sur **[!UICONTROL OK]**.
+1. Cochez **[!UICONTROL Utilisateur de synchronisation]** puis cliquez sur **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-11-11-3a14-3a52.png)
 
@@ -61,7 +61,7 @@ Attribuez le rôle Utilisateur de synchronisation Marketo uniquement à l’util
 
 ## Configuration de la solution Marketo {#configure-marketo-solution}
 
-Presque terminé ! Nous avons juste quelques derniers éléments de configuration avant de passer à l’article suivant.
+Il reste quelques derniers éléments de configuration avant de passer à l’article suivant.
 
 1. Sous **[!UICONTROL Paramètres]**, cliquez sur **[!UICONTROL Configuration Marketo]**.
 
@@ -69,13 +69,13 @@ Presque terminé ! Nous avons juste quelques derniers éléments de configuratio
 
    >[!NOTE]
    >
-   >Si la configuration **[!UICONTROL Marketo]** est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez à nouveau la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) ou essayez de vous déconnecter puis de vous reconnecter.
+   >Si la configuration **** est manquante, essayez d’actualiser la page. Si le problème persiste, [publiez à nouveau la solution Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) ou essayez de vous déconnecter puis de vous reconnecter.
 
 1. Cliquez sur **[!UICONTROL Par défaut]**.
 
    ![](assets/image2015-3-26-11-3a30-3a20.png)
 
-1. Cliquez sur le champ **[!UICONTROL Utilisateur Marketo]** et sélectionnez l’utilisateur de synchronisation.
+1. Cliquez sur le champ **[!UICONTROL Utilisateur]** et sélectionnez l’utilisateur de synchronisation.
 
    ![](assets/image2015-3-26-11-3a29-3a13.png)
 
@@ -93,7 +93,6 @@ Presque terminé ! Nous avons juste quelques derniers éléments de configuratio
 * Exécutez le processus [Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Il vérifie que vos configurations initiales ont été correctement effectuées.
 * Connectez-vous à l’utilisateur de synchronisation Marketo dans [!DNL Microsoft Dynamics] CRM.
 
-Bon boulot !
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ description: Découvrez comment configurer des actions Sales Insight en tant qu�
 title: Guide de configuration de l’administration pour Actions des informations sur les ventes
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '669'
 ht-degree: 4%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >Si vous ne voyez pas d’ID client et de secret client sur la carte Informations sur l’intégration , activez votre instance Actions en invitant le premier utilisateur. L’ID client et le secret client s’affichent alors.
+   >Si vous ne voyez pas d’ID client et de secret client sur la carte Informations d’intégration , activez votre instance Actions en invitant le premier utilisateur ; l’ID client et le secret client s’affichent alors.
 
 1. Cliquez sur **Ventes Insight**, puis sur **Configuration des actions**. Dans une liste d’administrateurs Marketo à inviter, sélectionnez-en un, puis cliquez sur **Envoyer l’invitation**.
 

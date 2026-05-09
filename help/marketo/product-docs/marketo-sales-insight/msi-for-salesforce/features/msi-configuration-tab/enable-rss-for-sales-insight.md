@@ -4,10 +4,10 @@ description: Découvrez comment activer RSS pour Marketo Sales Insight. Autorise
 title: Activer le RSS pour Informations sur les ventes
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 >
 >**Autorisations d’administration requises**
 
-Si les utilisateurs de Marketo souhaitent afficher leur flux de prospect non seulement dans [!DNL Salesforce], mais également dans un flux RSS, un administrateur Marketo doit d’abord l’activer. C’est très simple.
+Si les utilisateurs de Marketo souhaitent afficher leur flux de prospect non seulement dans [!DNL Salesforce], mais également dans un flux RSS, un administrateur Marketo doit d’abord l’activer. C&#39;est facile.
 
 1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]** puis **[!DNL Sales Insight]**.
 

@@ -3,9 +3,9 @@ description: Découvrez comment activer ou désactiver la synchronisation d’ob
 title: Activer/désactiver la synchronisation d’un objet personnalisé
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 4%
 
 ---
@@ -52,7 +52,7 @@ Sélectionnez l’objet à synchroniser et cliquez sur **[!UICONTROL Activer la 
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Revenez à l’onglet [!UICONTROL &#x200B; Veeva &#x200B;] et cliquez sur **[!UICONTROL Activer la synchronisation]**.
+1. Revenez à l’onglet [!UICONTROL  Veeva ] et cliquez sur **[!UICONTROL Activer la synchronisation]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -70,7 +70,7 @@ Sélectionnez l’objet à synchroniser et cliquez sur **[!UICONTROL Activer la 
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans [!UICONTROL Campagnes intelligentes] et [!UICONTROL Listes intelligentes].
+Vous pouvez désormais utiliser les données de cet objet personnalisé dans [!UICONTROL Campagnes intelligentes] et [!UICONTROL Listes intelligentes].
 
 >[!MORELIKETHIS]
 >

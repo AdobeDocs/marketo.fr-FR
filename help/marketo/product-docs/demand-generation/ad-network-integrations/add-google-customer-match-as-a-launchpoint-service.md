@@ -4,9 +4,9 @@ description: Découvrez comment ajouter Google Customer Match en tant que servic
 title: Ajout d’une correspondance client Google as a [!DNL LaunchPoint] Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,7 @@ Grâce à cette intégration, vous pouvez envoyer une audience Marketo à Google
 
    ![](assets/authorizesuccess.png)
 
-   Génial ! Les audiences Google Matched sont désormais répertoriées en tant que service [!DNL LaunchPoint] dans l’onglet Services installés .
+   Google Matched Audiences est désormais répertorié comme un service [!DNL LaunchPoint] dans l’onglet Services installés .
 
 >[!NOTE]
 >

@@ -4,10 +4,10 @@ description: Découvrez comment configurer Sales Insight pour les intégrations 
 title: '[!DNL Sales Insight] pour les intégrations  [!DNL Salesforce] '
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1214'
-ht-degree: 0%
+source-wordcount: '1480'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
 
 >[!PREREQUISITES]
 >
->* La fonction « MSI non natif » est activée pour votre instance Marketo avant que vous ne commenciez à configurer MSI. Si ce n’est pas le cas et que vous avez déjà acheté la fonctionnalité, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Si vous n’avez pas encore acheté cette fonctionnalité, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* La fonction « MSI non natif » est activée pour votre instance Marketo avant que vous ne commenciez à configurer MSI. Si ce n’est pas le cas et que vous avez déjà acheté la fonctionnalité, contactez l’assistance technique de [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Si vous n’avez pas encore acheté cette fonctionnalité, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >* Un compte Salesforce avec [configuration du package MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 >* API REST Marketo [configuration réussie](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Les API CRUD exposées seront la base de l’exécution de la synchronisation non native.
 >* Lisez [cet article de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} afin de mieux comprendre l’objet et les relations.
@@ -48,13 +48,13 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
      <tr>
       <td>externalSalesPersonId</td>
         <td><span class="dnl">Salesforce </span> Identifiant global unique non sensible à la casse pour l'utilisateur commercial</td>
-      <td><p>Identifie l'enregistrement Vendeur Marketo sur un objet Utilisateur commercial <span class="dnl">Salesforce</span> externe.</p><p>Il est obligatoire que le commercial soit synchronisé en premier avant de synchroniser les autres objets afin que les relations appropriées soient créées.</p></td>
+      <td><p>Identifie l'enregistrement Vendeur Marketo sur un objet Utilisateur commercial <span class="dnl">Salesforce</span> externe.</p><p>il est obligatoire que le commercial soit synchronisé en premier avant de synchroniser les autres objets afin que les relations appropriées soient créées.</p></td>
      </tr>
     </tbody>
    </table>
 
-   * Documentation de l’API pour le commercial : [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
-   * Documentation de l’API pour la synchronisation du commercial : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
+   * Documentation de l’API pour le commercial : [](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * Documentation de l’API pour la synchronisation du commercial : [](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchronisez les comptes [!DNL Salesforce] avec Marketo.
 
@@ -69,7 +69,7 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
     <tbody>
      <tr>
       <td><strong>Champ d’entreprise Marketo</strong></td>
-        <td><strong>Champ de compte <span class="dnl">Salesforce</span></strong></td>
+        <td><strong>Champ de compte <span class="dnl"></span></strong></td>
       <td><strong>Description</strong></td>
      </tr>
      <tr>
@@ -85,8 +85,8 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
     </tbody>
    </table>
 
-   * Documentation de l’API pour les entreprises : [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
-   * Documentation de l’API pour la synchronisation des entreprises : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
+   * Documentation de l’API pour les entreprises : [](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * Documentation de l’API pour la synchronisation des entreprises : [](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synchronisez les leads/contacts [!DNL Salesforce] à Marketo.
 
@@ -101,7 +101,7 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
     <tbody>
      <tr>
       <td><strong>Champ de lead Marketo</strong></td>
-        <td><strong><span class="dnl">Salesforce</span> Champ de lead/contact</strong></td>
+        <td><strong><span class="dnl"></span> Champ de lead/contact</strong></td>
       <td><strong>Description</strong></td>
      </tr>
      <tr>
@@ -112,18 +112,18 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
      <tr>
       <td>externalSalesPersonId</td>
         <td><span class="dnl">Salesforce </span> Identifiant global unique non sensible à la casse pour l'utilisateur commercial</td>
-        <td>Identifie l'objet externe <span class="dnl">Salesforce</span> Sales User propriétaire de ce lead/contact.<br><br> Associe également le prospect au commercial dans Marketo. Il est obligatoire que le commercial soit correctement synchronisé en premier.</td>
+        <td>Identifie l'objet externe <span class="dnl"></span> Sales User propriétaire de ce lead/contact.<br><br>Associe également le lead au commercial dans Marketo. Il est obligatoire que le commercial soit correctement synchronisé en premier.</td>
      </tr>
      <tr>
       <td>externalCompanyId</td>
         <td><span class="dnl">Salesforce </span> Identifiant global unique non sensible à la casse du compte</td>
-        <td>Identifie l'objet compte <span class="dnl">Salesforce</span> externe auquel le lead/contact appartient.<br><br>Associe également l’enregistrement de prospect à une société dans Marketo. Il est obligatoire que le compte Salesforce soit correctement synchronisé en premier.</td>
+        <td>Identifie l'objet compte <span class="dnl"></span> externe auquel le lead/contact appartient.<br><br>Associe également l’enregistrement de prospect à une société dans Marketo. Il est obligatoire que le compte Salesforce soit correctement synchronisé en premier.</td>
      </tr>
     </tbody>
    </table>
 
-   * Documentation de l’API pour les leads : [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/leads)
-   * Documentation de l’API pour la synchronisation des prospects : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
+   * Documentation de l’API pour les leads : [](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * Documentation de l’API pour la synchronisation des prospects : [](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synchronisez [!DNL Salesforce] opportunités avec Marketo.
 
@@ -138,7 +138,7 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
     <tbody>
      <tr>
       <td><strong>Champ d’objet de l’opportunité Marketo</strong></td>
-        <td><strong><span class="dnl">Salesforce</span> Champ D’Objet D’Opportunité</strong></td>
+        <td><strong><span class="dnl"></span> Champ D’Objet D’Opportunité</strong></td>
       <td><strong>Description</strong></td>
      </tr>
      <tr>
@@ -149,18 +149,18 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
      <tr>
       <td>externalCompanyId</td>
         <td><span class="dnl">Salesforce </span> Identifiant global unique non sensible à la casse du compte</td>
-        <td>Identifie l’objet Compte <span class="dnl">Salesforce</span> externe auquel cette opportunité appartient. <br><br>Il est obligatoire que le compte <span class="dnl">Salesforce</span> soit correctement synchronisé en premier.</td>
+        <td>Identifie l’objet Compte <span class="dnl"></span> externe auquel cette opportunité appartient. <br><br>Il est obligatoire que le compte <span class="dnl">Salesforce</span> soit correctement synchronisé en premier.</td>
      </tr>
      <tr>
       <td>externalSalesPersonId</td>
         <td><span class="dnl">Salesforce </span> Identifiant global unique non sensible à la casse pour l'utilisateur commercial</td>
-        <td>Identifie l'objet Utilisateur commercial <span class="dnl">Salesforce</span> externe propriétaire de cette opportunité. </td>
+        <td>Identifie l'objet Utilisateur commercial <span class="dnl"></span> externe propriétaire de cette opportunité. </td>
      </tr>
     </tbody>
    </table>
 
-   * Documentation de l’API pour Opportunité : [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
-   * Documentation de l’API pour la synchronisation des opportunités : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
+   * Documentation de l’API pour Opportunité : [](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentation de l’API pour la synchronisation des opportunités : [](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchronisez [!DNL Salesforce] rôles de contact avec Marketo.
 
@@ -186,18 +186,18 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
      <tr>
       <td>leadId</td>
       <td>S.O., il s’agirait d’un ID de lead Marketo</td>
-        <td>Il s’agit de l’ID de lead Marketo du contact <span class="dnl">Salesforce</span> synchronisé.<br><br>Une fois le contact synchronisé dans Marketo, vous pouvez utiliser l’identifiant global unique <span class="dnl">Salesforce</span> qui ne respecte pas la casse, en tant qu’externalPersonId et interroger le prospect Marketo à l’aide de l’API REST Marketo.</td>
+        <td>Il s’agirait de l’ID de lead Marketo du contact <span class="dnl">Salesforce</span> synchronisé.<br><br>Une fois le contact synchronisé dans Marketo, vous pouvez utiliser l’identifiant global unique <span class="dnl">Salesforce</span> qui ne respecte pas la casse, comme externalPersonId et interroger le lead Marketo à l’aide de l’API REST Marketo.</td>
      </tr>
      <tr>
       <td>Rôle</td>
-        <td>Champ Rôle du contact <span class="dnl">Salesforce</span></td>
+        <td>Champ Rôle du contact <span class="dnl"></span></td>
       <td>Décrit le rôle du contact pour cette opportunité.</td>
      </tr>
     </tbody>
    </table>
 
-   * Documentation de l’API pour Opportunité : [https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
-   * Documentation de l’API pour la synchronisation des opportunités : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
+   * Documentation de l’API pour Opportunité : [](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentation de l’API pour la synchronisation des opportunités : [](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchronisez les champs de dernier moment intéressant/Score MSI avec SFDC.
 
@@ -219,7 +219,7 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
     <tbody>
      <tr>
       <td><strong>Champ de lead Marketo</strong></td>
-        <td><strong><span class="dnl">Salesforce</span> Champ de lead/contact</strong></td>
+        <td><strong><span class="dnl"></span> Champ de lead/contact</strong></td>
       <td><strong>Description</strong></td>
      </tr>
      <tr>
@@ -239,7 +239,7 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
      </tr>
      <tr>
       <td>msiLastInterestingMomentSource</td>
-      <td><p>Libellé : Source du dernier moment intéressant</p><p>Nom : Last_Interesting_Moment_Source__c</p></td>
+      <td><p>Libellé : Source du dernier moment intéressant</p><p>Nom : Last_Interesting_Moment___c</p></td>
       <td>Source du dernier moment intéressant pour le lead</td>
      </tr>
      <tr>
@@ -260,6 +260,6 @@ Si votre compte Adobe Marketo Engage est connecté à [!DNL Salesforce] par le b
     </tbody>
    </table>
 
-   Documentation pour l’API REST de lead : [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
+   Documentation pour l’API REST de lead : [](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
 
    L’utilisation appropriée des champs externes est essentielle pour une synchronisation non native réussie. Si vous ne parvenez pas à voir les données dans certaines vues, il est probable qu’un certain champ n’ait pas été correctement synchronisé. Par exemple, si les activités et les moments intéressants d’un prospect ne s’affichent pas lors de la recherche dans le widget MSI sous son compte, il est probable que la société du prospect ou le compte n’ait pas été correctement synchronisé. L’exécution d’une requête GET pour ce prospect lors de la spécification des champs externes vous aidera à vérifier si le prospect a été correctement synchronisé. De plus, l’adresse e-mail du commercial externe dans Marketo doit correspondre à celle de cet utilisateur dans Salesforce. Les données peuvent ne pas s’afficher dans l’onglet Marketo de Salesforce si les e-mails ne correspondent pas.

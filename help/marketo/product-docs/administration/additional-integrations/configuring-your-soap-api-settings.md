@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: Définissez la clé de chiffrement de l’API SOAP et obtenez des détails sur les points d’entrée dans Admin Web Services pour les développeurs.
 title: Configuration des paramètres de votre API SOAP
 hide: true
-hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 16%
@@ -17,7 +16,7 @@ ht-degree: 16%
 
 >[!IMPORTANT]
 >
->L’API SOAP est [en cours d’obsolescence](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/soap/soap-api) depuis le 31 juillet 2026. Il est recommandé d’utiliser plutôt l’[API REST](https://developer.adobe.com/marketo-apis/).
+>L’API SOAP est [en cours d’obsolescence](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) depuis le 31 juillet 2026. Il est recommandé d’utiliser plutôt l’[API REST](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >

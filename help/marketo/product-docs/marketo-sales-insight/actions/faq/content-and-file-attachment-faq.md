@@ -3,9 +3,9 @@ description: Obtenez des réponses aux questions courantes sur le contenu et les
 title: Questions fréquentes relatives au contenu et aux pièces jointes
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 Une **pièce jointe** est identique à une pièce jointe que vous utiliseriez dans votre client de messagerie classique.
 
-**Contenu** nous utilisons pour décrire tous les fichiers (PPT, PDF, Word, etc.) que vous souhaitez voir suivis par [!DNL Sales Insight Actions].
+**Contenu** est ce que nous utilisons pour décrire tous les fichiers (PPT, PDF, Word doc, etc.) que vous souhaitez être suivi par [!DNL Sales Insight Actions].
 
 Après avoir cliqué sur ce bouton, vous pouvez choisir un fichier déjà chargé ou charger un nouveau fichier à suivre. Nous insérons ensuite un lien dans l’e-mail ou le modèle que vous utilisez.
 

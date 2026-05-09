@@ -4,9 +4,9 @@ description: Découvrez comment ajouter du contenu Highspot à votre e-mail Sale
 title: Ajout de contenu Highspot à votre e-mail
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

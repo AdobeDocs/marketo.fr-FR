@@ -4,11 +4,10 @@ description: Découvrez comment ajouter un bouton social à une page de destinat
 title: Ajouter un bouton Social à une page de destination à structure libre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
-hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '265'
 ht-degree: 7%
 
 ---
@@ -57,4 +56,4 @@ Félicitations ! Vous avez ajouté un bouton social à votre page de destinatio
 
 >[!MORELIKETHIS]
 >
->Vous avez terminé, mais vous pouvez modifier les paramètres de votre bouton de réseau social si nécessaire. Commencez par _personnaliser le style du bouton_ ou _modifier les messages de partage_ qui s’affichent.
+>vous avez terminé, mais vous pouvez modifier les paramètres de votre bouton social si nécessaire. Commencez par _personnaliser le style du bouton_ ou _modifier les messages de partage_ qui s’affichent.

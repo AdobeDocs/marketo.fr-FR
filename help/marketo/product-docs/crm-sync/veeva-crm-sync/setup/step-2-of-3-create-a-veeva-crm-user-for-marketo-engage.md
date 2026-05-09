@@ -3,9 +3,9 @@ description: Découvrez comment créer un utilisateur Veeva CRM pour la synchron
 title: Étape 2 sur 3 - Créer un utilisateur Veeva CRM pour Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '636'
 ht-degree: 6%
 
 ---
@@ -104,17 +104,17 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    >[!TIP]
    >
-   >Veillez à cocher la case [!UICONTROL &#x200B; Le mot de passe n’expire jamais &#x200B;].
+   >Cochez la case [!UICONTROL Le mot de passe n’expire jamais].
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations générales des utilisateurs &#x200B;], assurez-vous que les options [!UICONTROL Modifier les événements] et [!UICONTROL Modifier les tâches] sont sélectionnées.
+1. Dans la section [!UICONTROL Autorisations générales des utilisateurs], vérifiez que [!UICONTROL Modifier les événements] et [!UICONTROL Modifier les tâches] sont sélectionnés.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Sous la section [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
+1. Sous la section [!UICONTROL  Autorisations d’objet personnalisé ], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
@@ -197,7 +197,7 @@ Marketo nécessite des informations d’identification pour accéder à [!DNL Ve
 >
 >Vérifiez que l’adresse e-mail saisie est valide. Vous devrez vous connecter en tant qu’utilisateur de synchronisation pour réinitialiser le mot de passe.
 
-Excellent ! Vous disposez désormais d’un compte que Marketo Engage peut utiliser pour se connecter à [!DNL Veeva] CRM. Faisons-le.
+Vous disposez désormais d’un compte que Marketo Engage peut utiliser pour se connecter à [!DNL Veeva] CRM.
 
 >[!MORELIKETHIS]
 >

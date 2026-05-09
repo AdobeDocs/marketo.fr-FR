@@ -4,16 +4,16 @@ description: Découvrez comment configurer des conversions hors ligne Facebook d
 title: Configurer les conversions hors ligne Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '331'
 ht-degree: 5%
 
 ---
 
 # Configurer [!DNL Facebook] conversions hors ligne {#set-up-facebook-offline-conversions}
 
-En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les personnes créées par le biais d’annonces de leads, votre équipe publicitaire peut optimiser ses dépenses publicitaires mieux que jamais. Voici comment le configurer.
+En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les personnes créées par le biais d’annonces de leads, votre équipe publicitaire peut optimiser ses dépenses publicitaires mieux que jamais. Procédez comme suit pour le configurer.
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Doux ! Vous avez à mi-chemin de l’activation des conversions hors ligne [!DNL Facebook]. Passons à la Modeler du cycle de revenus pour mapper les étapes.
+   Vous avez à moitié terminé d’activer les conversions hors ligne [!DNL Facebook]. Accédez au Modeler du cycle du chiffre d’affaires pour mapper les étapes.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
    ![](assets/2.png)
 
-1. Approuvez votre modèle et vous avez terminé !
+1. Approuvez votre modèle et vous avez terminé.
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
@@ -95,7 +95,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
    >[!CAUTION]
    >
-   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [&#x200B; publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
+   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [ publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
 
    >[!NOTE]
    >

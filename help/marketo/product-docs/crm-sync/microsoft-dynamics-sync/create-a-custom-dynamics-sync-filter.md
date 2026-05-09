@@ -4,9 +4,9 @@ description: Découvrez comment créer un filtre de synchronisation Dynamics per
 title: Création d’un filtre  [!DNL Dynamics]  synchronisation personnalisé
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
@@ -79,9 +79,9 @@ Marketo recherche ce champ lors de la synchronisation automatique en arrière-pl
 
 ## Sélection du filtre dans Marketo {#select-the-filter-in-marketo}
 
-Même si vous avez déjà effectué votre synchronisation initiale, accédez à et sélectionnez les champs à synchroniser avec Marketo.
+Même si la synchronisation initiale est terminée, accédez à et sélectionnez les champs à synchroniser avec Marketo.
 
-1. Accédez à Admin et sélectionnez **[!UICONTROL Microsoft Dynamics]**.
+1. Accédez à Admin et sélectionnez ****.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -93,7 +93,7 @@ Même si vous avez déjà effectué votre synchronisation initiale, accédez à 
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
-Très bien. Vous avez maintenant activé le filtre de synchronisation pour Marketo.
+Maintenant que vous avez activé le filtre de synchronisation pour Marketo.
 
 ## Créer un workflow [!DNL Dynamics] pour affecter automatiquement des valeurs de filtre de synchronisation {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
@@ -135,7 +135,7 @@ Vous pouvez toujours attribuer manuellement une valeur aux champs SyncToMoto pou
 
 ## Détails du filtre de synchronisation {#sync-filter-details}
 
-Voici quelques détails d’implémentation que vous devriez connaître :
+Détails d’implémentation :
 
 * Démarrer une opération de synchronisation
 

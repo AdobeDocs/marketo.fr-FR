@@ -4,9 +4,9 @@ description: Découvrez comment activer ou désactiver la synchronisation d’ob
 title: Activer/désactiver la synchronisation d’un objet personnalisé
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 6%
 
 ---
@@ -25,7 +25,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Dans le menu Gestion de la base de données, cliquez sur **[!UICONTROL Synchronisation des objets Salesforce]**.
+1. Dans le menu Gestion de la base de données, cliquez sur **[!UICONTROL Synchronisation des objets]**.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
@@ -75,7 +75,7 @@ Les objets personnalisés créés dans votre instance Salesforce peuvent égalem
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   Excellent ! Vous pouvez désormais utiliser les données de cet objet personnalisé dans les campagnes et listes dynamiques.
+   Vous pouvez désormais utiliser les données de cet objet personnalisé dans les campagnes et listes dynamiques.
 
 >[!MORELIKETHIS]
 >

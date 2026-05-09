@@ -4,10 +4,10 @@ description: Découvrez comment créer un analyseur d’influence d’opportunit
 title: Créer un analyseur d’influence d’opportunité
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 5%
+source-wordcount: '227'
+ht-degree: 4%
 
 ---
 
@@ -52,13 +52,13 @@ Utilisez l’analyseur d’influence d’opportunité pour afficher la contribut
    >
    >Dans la plupart des cas, **[!UICONTROL Tout le temps]** est le choix le plus simple.
 
-1. Le tour est joué. Cliquez sur l’onglet principal pour voir les moments intéressants et les succès impliqués dans l’opportunité.
+1. Vous êtes là ! Cliquez sur l’onglet principal pour voir les moments intéressants et les succès impliqués dans l’opportunité.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 
 >[!TIP]
 >
->Vous pouvez également regarder une vidéo sur Opportunity Influence Analyzer à l’université [Marketo](https://learn.marketo.com). (Ça a l&#39;air un peu différent maintenant, mais il y a encore beaucoup à apprendre !)
+>Vous pouvez également regarder une vidéo sur Opportunity Influence Analyzer à l’université [](https://learn.marketo.com). (Ça a l&#39;air un peu différent maintenant, mais il y a encore beaucoup à apprendre !)
 
 >[!MORELIKETHIS]
 >

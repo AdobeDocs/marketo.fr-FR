@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 badge: Beta
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 28%
+source-wordcount: '453'
+ht-degree: 35%
 
 ---
 
@@ -84,7 +84,7 @@ Pour créer et gérer vos directives de marque, vous pouvez saisir vous-même le
 
    >[!NOTE]
    >
-   >Cela crée une copie temporaire en mode d’édition, qui remplace la version active après sa publication.
+   >Cela crée une copie temporaire en mode d’édition, qui remplace la version active une fois qu’elle a été publiée.
 
    ![](assets/create-and-manage-brands-11.png)
 
@@ -99,7 +99,7 @@ Pour créer et gérer vos directives de marque, vous pouvez saisir vous-même le
 
   ![](assets/create-and-manage-brands-12.png)
 
-Les directives relatives à votre marque sont désormais accessibles à partir de la liste déroulante **[!UICONTROL Marque]** du menu de l’assistant AI, ce qui lui permet de générer du contenu et des ressources conformes à vos spécifications.
+Les consignes de votre marque sont désormais accessibles à partir de la liste déroulante **[!UICONTROL Marque]** du menu de l’Assistant IA, ce qui lui permet de générer du contenu et des ressources dans le ton de votre marque.
 
 ### Définir une marque par défaut {#default-brand}
 

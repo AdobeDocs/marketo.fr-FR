@@ -3,9 +3,9 @@ description: Découvrez les actions de Sales Insight et la conformité au RGPD. 
 title: Actions des informations sur les ventes et conformité au RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1409'
 ht-degree: 9%
 
 ---
@@ -74,7 +74,7 @@ Là encore, les utilisateurs peuvent choisir parmi de nombreuses options de list
 * [!UICONTROL Synchronisation CRM]
 * [!UICONTROL Importer]
 * [!UICONTROL Chargement manuel]
-* [!UICONTROL Extension Chrome]
+* [!UICONTROL Extension ]
 * [!UICONTROL Other] (Autre)
 
 **Modification de la carte Conformité**
@@ -83,7 +83,7 @@ Lorsque la vue Détails de la personne est ouverte, cliquez sur **[!UICONTROL Mo
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Deux listes déroulantes s’affichent : [!UICONTROL &#x200B; Type d’autorisation &#x200B;] et [!UICONTROL Type de Source].
+Deux listes déroulantes s’affichent : [!UICONTROL  Type d’autorisation ] et [!UICONTROL Type de Source].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 

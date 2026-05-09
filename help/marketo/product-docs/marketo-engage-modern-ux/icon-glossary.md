@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 85%
 
 ---
@@ -48,7 +48,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>E-mail</td>
+   <td>Adresse e-mail</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -113,7 +113,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-form.png"></td>
    <td><img src="assets/form.png"></td>
-   <td>Form</td>
+   <td>Formulaire</td>
   </tr>
   <tr>
    <td><img src="assets/classic-images-and-files.png"></td>
@@ -153,7 +153,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-push-notification.png"></td>
    <td><img src="assets/push-notification.png"></td>
-   <td>Notification push</td>
+   <td>Notification Push</td>
   </tr>
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
@@ -168,7 +168,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/search.png"></td>
-   <td>Recherche</td>
+   <td>Rechercher</td>
   </tr>
   <tr>
    <td><img src="assets/classic-segment.png"></td>
@@ -198,7 +198,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Bouton social</td>
+   <td>Réseaux sociaux</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -260,7 +260,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>Jamais d’exécution</td>
+   <td>Ne jamais exécuter</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -329,7 +329,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td>
    <td><img src="assets/aborted.png"></td>
-   <td>Interrompu</td>
+   <td>Abandonné</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>
@@ -398,7 +398,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>Planifié</td>
+   <td>Programmé</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>

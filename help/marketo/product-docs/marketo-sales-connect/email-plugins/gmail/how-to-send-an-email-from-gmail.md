@@ -4,9 +4,9 @@ description: Découvrez comment envoyer un e-mail suivi à partir de Gmail à l�
 title: Comment envoyer un e-mail à partir de Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 9%
 
 ---

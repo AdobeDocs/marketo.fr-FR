@@ -2,10 +2,9 @@
 description: Comment accéder aux tableaux de bord d’utilisation du produit pour afficher l’utilisation par rapport aux limites, aux mesures d’activité et aux mesures d’abonnement clés.
 title: Tableaux de bord d’utilisation des produits
 hide: true
-hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 2%
@@ -58,7 +57,7 @@ Cette section fournit des décomptes des activités sur les sept jours précéde
 
 >[!NOTE]
 >
->* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **&#x200B;**&#x200B;le jour en cours. Considérez-le comme « hier + six jours avant ».
+>* Toutes les répartitions ci-dessous sont une somme mobile de sept jours et n’incluent **** le jour en cours. Considérez-le comme « hier + six jours avant ».
 >
 >* Le tableau de bord n’affiche que les 20 principaux types d’activité, les autres étant triés dans une catégorie intitulée « Autre ».
 

@@ -3,9 +3,9 @@ description: Découvrez comment personnaliser les webinaires interactifs dans Ma
 title: Personnalisation des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '807'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Vous pouvez utiliser le curseur dans l’écran Aperçu pour effectuer un zoom a
 
 1. Sélectionnez **[!UICONTROL Appliquer]** pour enregistrer les modifications. Pour rétablir les paramètres par défaut, cliquez sur **[!UICONTROL Réinitialiser aux paramètres par défaut]**.
 
-**Arrière-plans Adobe Connect**
+**Arrière-plans**
 
 Adobe Connect fournit neuf fonds d’écran par défaut prêts à l’emploi. Vous pouvez voir leur apparence dans l’aperçu.
 
@@ -141,4 +141,4 @@ Sélectionnez **Appliquer** pour enregistrer les modifications ou **Réinitialis
 
 * Les hôtes peuvent choisir des thèmes pendant la création de la salle ou les mettre à jour ultérieurement à partir de la page d&#39;informations de la salle (**Barre supérieure de la salle** > **Menu Plus** > **Afficher les informations de la salle**).
 
-En savoir plus sur les [thèmes](https://helpx.adobe.com/fr/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+En savoir plus sur les [thèmes](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

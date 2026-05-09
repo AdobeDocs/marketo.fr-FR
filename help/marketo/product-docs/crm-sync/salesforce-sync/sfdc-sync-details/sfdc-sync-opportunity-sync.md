@@ -4,9 +4,9 @@ description: Découvrez comment fonctionne la synchronisation des opportunités 
 title: Synchronisation de SFDC - Synchronisation des opportunités
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 11%
 
 ---
@@ -19,7 +19,7 @@ La synchronisation fonctionne dans un sens : de [!DNL Salesforce] à Marketo. Le
 
 >[!NOTE]
 >
->Les [&#x200B; informations d’identification que vous saisissez dans Marketo pour  [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
+>Les [ informations d’identification que vous saisissez dans Marketo pour  [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sont utilisées pour synchroniser les données. Seules les données auxquelles ces informations d’identification ont accès seront incluses.
 
 ## Puis-je lancer une synchronisation d’opportunité ? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +27,7 @@ Non, tu ne peux pas. Les modifications apportées à n’importe quelle opportun
 
 ## Le montant de l’opportunité prend-il en charge plusieurs devises ? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Non, Marketo ne prend en charge qu’une seule devise. Le montant de l’opportunité sera synchronisé à partir de [!DNL Salesforce], mais la devise sera la [&#x200B; devise par défaut](/help/marketo/product-docs/administration/settings/set-default-currency.md) dans votre abonnement Marketo.
+Non, Marketo ne prend en charge qu’une seule devise. Le montant de l’opportunité sera synchronisé à partir de [!DNL Salesforce], mais la devise sera la [ devise par défaut](/help/marketo/product-docs/administration/settings/set-default-currency.md) dans votre abonnement Marketo.
 
 ## Comment Marketo associe-t-il les opportunités et les contacts ? {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -57,6 +57,6 @@ Filtres:
 
 >[!TIP]
 >
->Consultez les contraintes sur les filtres et les déclencheurs. Il y a plein de détails sympas.
+>Consultez les contraintes sur les filtres et les déclencheurs pour plus d’informations.
 >
->Créez simplement un nouveau champ dans l’objet d’opportunité en [!DNL Salesforce] et il deviendra automatiquement une contrainte.
+>Créez un nouveau champ dans l’objet d’opportunité en [!DNL Salesforce], il deviendra automatiquement une contrainte.

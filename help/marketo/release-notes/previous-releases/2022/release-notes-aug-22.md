@@ -2,9 +2,9 @@
 description: Notes De Mise À Jour - Août 2022 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Août 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 7%
 
 ---

@@ -4,9 +4,9 @@ description: Découvrez comment configurer la solution Marketo avec une connexio
 title: Étape 2 sur 3 - Configurer la solution Marketo avec une connexion serveur à serveur
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '624'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Veillez à prendre note de la valeur Secret client (affichée dans la capture d’écran ci-dessous), car vous en aurez besoin ultérieurement. Il n’est affiché qu’une seule fois et vous ne pourrez plus le récupérer.
+>Notez la valeur Secret client (affichée dans la capture d’écran ci-dessous), car elle n’est affichée qu’une seule fois et ne peut pas être récupérée à nouveau.
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
@@ -51,18 +51,18 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >* Lors de l’octroi des autorisations à l’utilisateur de l’application, veillez à l’affecter au « rôle utilisateur de synchronisation Marketo ».
+   >* Lors de l’octroi d’autorisations à l’utilisateur de l’application, affectez-le au « rôle utilisateur de synchronisation Marketo ».
    >* Notez l’adresse e-mail de l’utilisateur de l’application dans l’option [afficher les détails](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) sur Power Platform. Cette adresse e-mail sera utilisée comme nom d’utilisateur lors de la configuration de la connexion à MS [!DNL Dynamics] dans Marketo.
 
 ## [!DNL Azure AD] Federated avec [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 
 Federated [!DNL Azure AD] to [!DNL ADFS Onprem] nécessite la création d’une politique de découverte de domaine d’accueil pour l’application spécifique. Avec cette politique, [!DNL Azure AD] redirigera la demande d’authentification vers le service de fédération. Pour cela, la synchronisation de hachage de mot de passe doit être activée dans [!DNL AD Connect]. Pour plus d’informations, consultez les sections [[!DNL OAuth] avec [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) et [Définir une politique Hrd pour une application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Des références supplémentaires [ici](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"} sont disponibles.
+Des références supplémentaires [ici](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"} sont disponibles.
 
 ## Configuration de la solution Marketo {#configure-marketo-solution}
 
-Presque là ! Il ne nous reste plus qu’à informer Marketo Solution de la création du nouvel utilisateur.
+Une dernière étape : informez la solution Marketo de la création du nouvel utilisateur.
 
 1. Revenez à la section [!UICONTROL Paramètres avancés] et cliquez sur l’icône ![](assets/image2015-5-13-15-3a49-3a19.png) en regard de [!UICONTROL Paramètres], puis sélectionnez **[!UICONTROL Configuration Marketo]**.
 
@@ -76,7 +76,7 @@ Presque là ! Il ne nous reste plus qu’à informer Marketo Solution de la cré
 
    ![](assets/fifteen.png)
 
-1. Cliquez sur le bouton de recherche dans le champ **[!UICONTROL Utilisateur Marketo]** et sélectionnez l’utilisateur de synchronisation que vous avez créé.
+1. Cliquez sur le bouton de recherche dans le champ **[!UICONTROL Utilisateur]** et sélectionnez l’utilisateur de synchronisation que vous avez créé.
 
    ![](assets/sixteen.png)
 

@@ -4,9 +4,9 @@ description: Ajouter manuellement du nouveau contenu à la page Tout le contenu 
 title: Ajouter un nouveau contenu
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '104'
 ht-degree: 7%
 
 ---

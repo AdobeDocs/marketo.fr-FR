@@ -4,16 +4,16 @@ description: Découvrez un exemple d’intégration d’événement ON24 à Mark
 title: Exemple d’intégration d’événement ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 2%
 
 ---
 
 # Exemple d’intégration d’événement ON24 {#example-on-event-integration}
 
-Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, veillez à tester vos campagnes avant de les exécuter.
+Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, testez vos campagnes avant de les exécuter.
 
 ## Créer un événement dans les activités marketing {#create-a-new-event-in-marketing-activities}
 
@@ -55,7 +55,7 @@ Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24
 
 * **Liste dynamique**
 
-   * Déclenchez la campagne en fonction de **[!UICONTROL Remplit le formulaire]**. Veillez à inclure la page de destination sur laquelle réside le formulaire à l’aide de l’option **[!UICONTROL Ajouter une contrainte]**, en particulier si le formulaire est utilisé sur plusieurs pages de destination.
+   * Déclenchez la campagne en fonction de **[!UICONTROL Remplit le formulaire]**. Incluez la page de destination sur laquelle réside le formulaire à l’aide de l’option **[!UICONTROL Ajouter une contrainte]**, en particulier si le formulaire est utilisé sur plusieurs pages de destination.
 
 >[!CAUTION]
 >

@@ -4,7 +4,7 @@ description: Découvrez comment télécharger la solution de gestion des prospec
 title: Télécharger la solution de gestion des leads Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 15%
@@ -21,7 +21,7 @@ Vous devrez télécharger et installer une solution Marketo dans votre compte [!
 
 >[!CAUTION]
 >
->Il est impératif de télécharger la dernière solution Marketo _avant d_ effectuer une mise à niveau.
+>il est impératif de télécharger la dernière solution Marketo _avant d_ effectuer une mise à niveau.
 
 >[!NOTE]
 >
@@ -47,4 +47,4 @@ Vous devrez télécharger et installer une solution Marketo dans votre compte [!
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-Génial ! Un fichier zip de la solution sera désormais téléchargé sur votre appareil.
+Un fichier zip de la solution sera désormais téléchargé sur votre appareil.

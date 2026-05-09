@@ -4,9 +4,9 @@ description: Découvrez comment utiliser des URL dans Mes jetons. Stocker et ré
 title: Utilisation d’URL dans Mes jetons
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '267'
 ht-degree: 4%
 
 ---

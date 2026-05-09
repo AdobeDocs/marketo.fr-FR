@@ -3,12 +3,11 @@ description: Notes de mise à jour de Dynamic Chat - Documents Marketo - Docum
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
@@ -36,7 +35,7 @@ Nous avons réorganisé la logique de transmission de la conversation en direct 
 
 * **Comportement spécifique à la règle de transmission**
 
-_&#x200B;**Transmission du compte**&#x200B;_
+_**Transmission du compte**_
 
 Si le domaine d’e-mail d’un visiteur ou d’une visiteuse est mappé à un compte connu, l’agent mappé ou l’agente mappée conserve toujours la priorité.
 
@@ -53,7 +52,7 @@ Au lieu de cela, il :
 
 La règle de routage au niveau de la carte (par exemple, Équipe, Personnalisé) n’est prise en compte que si le routage de compte n’est pas éligible (aucun domaine ou agent correspondant).
 
-_&#x200B;**Routage personnalisé/d’équipe**&#x200B;_
+_**Routage personnalisé/d’équipe**_
 
 Ces règles peuvent renvoyer plusieurs agentes et agents éligibles.
 
@@ -63,11 +62,11 @@ La solution de secours round-robin n’est pas déclenchée parce qu’un agent 
 
 Si aucun agent ni aucune agente ne s’engage :
 
-* le système affiche le calendrier de la première personne tentée (si activé),
-ou
+* Le système affiche le calendrier du premier agent essayé (s&#39;il est activé),
+-ou-
 * affiche le message de secours par défaut.
 
-_&#x200B;**Transmission du round-robin**&#x200B;_
+_**Transmission du round-robin**_
 
 Lorsqu’il est utilisé comme règle de transmission principale, le système :
 
@@ -77,7 +76,7 @@ Lorsqu’il est utilisé comme règle de transmission principale, le système :
 
 Si le round-robin est utilisé comme solution de secours, il n’est activé que si aucun agent ni aucune agente ne ressort à partir de la règle principale.
 
-_&#x200B;**Flux d’expérience du visiteur**&#x200B;_
+_**Flux d’expérience du visiteur**_
 
 Le système vérifie si la transmission du compte est applicable.
 
@@ -93,15 +92,15 @@ Les règles de routage au niveau de la carte (personnalisée, d’équipe, à to
 
 * Si aucun engagement ne réussit, la logique de secours est appliquée :
 
-   * calendrier de secours (si activé),
-ou
+   * Calendrier de secours (si activé),
+-ou-
    * message par défaut.
 
 La solution de secours du round-robin n’est prise en compte que lorsqu’aucun agent ni aucune agente éligible n’est disponible dans la règle de transmission principale, et non lorsque des agentes et agents individuels ne répondent pas.
 
 ##### Cas d’utilisation {#use-cases}
 
-_&#x200B;**Transmission du compte**&#x200B;_
+_**Transmission du compte**_
 
 <table><thead>
   <tr>
@@ -127,7 +126,7 @@ _&#x200B;**Transmission du compte**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission personnalisée**&#x200B;_
+_**Transmission personnalisée**_
 
 <table><thead>
   <tr>
@@ -153,7 +152,7 @@ _&#x200B;**Transmission personnalisée**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission d’équipe**&#x200B;_
+_**Transmission d’équipe**_
 
 <table><thead>
   <tr>
@@ -179,7 +178,7 @@ _&#x200B;**Transmission d’équipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission du round-robin**&#x200B;_
+_**Transmission du round-robin**_
 
 <table><thead>
   <tr>

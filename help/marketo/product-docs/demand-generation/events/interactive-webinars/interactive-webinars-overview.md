@@ -3,20 +3,20 @@ description: Découvrez les webinaires interactifs dans Marketo pour un engageme
 title: Vue d’ensemble des webinaires interactifs
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 96%
+source-wordcount: '555'
+ht-degree: 87%
 
 ---
 
 # Vue d’ensemble des webinaires interactifs {#interactive-webinars-overview}
 
-La fonctionnalité de webinaires interactifs est notre plateforme de webinaires intégrée à Marketo Engage. Il n’y a besoin d’aucun outil ou ni intégration supplémentaire.
+La fonctionnalité de webinaires interactifs est la plateforme de webinaires intégrée à Marketo Engage. Il n’y a besoin d’aucun outil ou ni intégration supplémentaire.
 
 >[!IMPORTANT]
 >
->Les webinaires interactifs optimisés par Adobe Connect sont une fonctionnalité dotée d’une intégration à Adobe Connect. Votre utilisation des webinaires interactifs sera soumise à des conditions générales supplémentaires. Veuillez consulter votre contrat ou [contacter Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour en savoir plus sur les conditions générales supplémentaires.
+>Les webinaires interactifs optimisés par Adobe Connect sont une fonctionnalité dotée d’une intégration à Adobe Connect. Votre utilisation des webinaires interactifs sera soumise à des conditions générales supplémentaires. Consultez votre contrat ou [contactez Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour en savoir plus sur les conditions générales supplémentaires.
 
 ## Que sont les webinaires interactifs ? {#what-is-interactive-webinars}
 
@@ -54,7 +54,7 @@ Si le champ « prénom » du prospect est vide, il ne peut pas s’inscrire au
 
 **Je rencontre des problèmes audio/vidéo lors de la présentation d’un webinaire au moment de l’accès au VPN de mon entreprise. Que dois-je faire ?**
 
-Adobe Connect, la plateforme de diffusion des webinaires interactifs, utilise WebRTC pour le partage audio/vidéo/d’écran. Il est probable que le pare-feu réseau de votre entreprise bloque les adresses IP/ports que nous utilisons pour la communication basée sur WebRTC. Votre équipe informatique doit autoriser ces ports pour que WebRTC fonctionne. [En savoir plus](https://helpx.adobe.com/fr/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+Adobe Connect, la plateforme de diffusion des webinaires interactifs, utilise WebRTC pour le partage audio/vidéo/d’écran. Il est probable que le pare-feu réseau de votre entreprise bloque les adresses IP et les ports utilisés pour la communication basée sur WebRTC. Votre équipe informatique doit autoriser ces ports pour que WebRTC fonctionne. [En savoir plus](https://helpx.adobe.com/fr/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Mes webinaires interactifs sont-ils enregistrés automatiquement ?**
 

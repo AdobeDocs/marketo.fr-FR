@@ -4,9 +4,9 @@ description: Découvrez comment partager un modèle sur plusieurs espaces de tra
 title: Partager un modèle dans plusieurs espaces de travail
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 9%
 
 ---
@@ -43,4 +43,4 @@ Marketo vous permet de partager un ou plusieurs modèles dans les espaces de tra
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-C&#39;est aussi facile que ça ! Désormais, les personnes d’autres espaces de travail peuvent se déplacer dans le modèle partagé.
+C&#39;est aussi simple que ça ! Désormais, les personnes d’autres espaces de travail peuvent se déplacer dans le modèle partagé.

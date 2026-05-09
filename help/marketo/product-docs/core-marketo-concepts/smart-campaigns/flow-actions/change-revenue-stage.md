@@ -4,9 +4,9 @@ description: Découvrez comment modifier l’étape du chiffre d’affaires dans
 title: Modifier l'étape dans le cycle de vente
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 6%
 
 ---
@@ -21,7 +21,7 @@ Si vous utilisez Revenue Cycle Modeler et que vous disposez d&#39;un modèle app
 
    ![](assets/change-revenue-stage-2.png)
 
-1. Sélectionnez la **[!UICONTROL Nouvelle étape]** que vous souhaitez affecter et c’est terminé !
+1. Sélectionnez l’**[!UICONTROL Nouvelle étape]** que vous souhaitez affecter et vous avez terminé.
 
    ![](assets/change-revenue-stage-3.png)
 

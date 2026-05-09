@@ -4,10 +4,10 @@ description: Découvrez comment ajouter des sous-domaines dans les paramètres d
 title: Ajouter des sous-domaines dans Paramètres de compte
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '168'
+ht-degree: 8%
 
 ---
 
@@ -37,4 +37,4 @@ Voici comment ajouter des sous-domaines à vos domaines principaux dans [!UICONT
 
    >[!NOTE]
    >
-   >Si vous souhaitez ajouter des domaines _principaux_ à votre compte, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si vous souhaitez ajouter des domaines _principaux_ à votre compte, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).

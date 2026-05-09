@@ -4,10 +4,10 @@ description: Découvrez comment activer ou désactiver la synchronisation Salesf
 title: Activer/désactiver la synchronisation Salesforce
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 5%
+source-wordcount: '102'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Lorsque vous apportez des modifications majeures à vos paramètres de synchroni
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Sous **[!UICONTROL Salesforce]**, cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
+1. Sous ****, cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

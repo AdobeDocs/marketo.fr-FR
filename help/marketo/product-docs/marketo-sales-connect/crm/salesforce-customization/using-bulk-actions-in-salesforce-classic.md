@@ -4,9 +4,9 @@ description: Découvrez comment utiliser des actions en bloc dans Salesforce Cla
 title: Utilisation d’actions en bloc dans  [!DNL Salesforce]  Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---
@@ -35,11 +35,11 @@ Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospe
 
 1. Un e-mail du MSC s’affiche. Il comprend les fonctionnalités suivantes :
 
-   a. Le champ « [!UICONTROL À] » affiche « [!UICONTROL Tous les destinataires] » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste des prospects
+   a. Le champ « [!UICONTROL  À ] » affiche « [!UICONTROL  Tous les destinataires ] » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste de prospects
 b. Cette liste est visible dans le panneau de gauche sous le nom « [!UICONTROL Composition en bloc] ». Vous pouvez ajouter ou supprimer des destinataires ici
 c. Vous pouvez choisir un modèle ou créer votre propre e-mail
-d. Vous pouvez prévisualiser les champs dynamiques qui seront renseignés dans votre e-mail.
-e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une date ultérieure
+d. Vous pouvez prévisualiser les champs dynamiques qui seront renseignés dans votre e-mail
+e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi pour plus tard
 
    ![](assets/three-4.png)
 
@@ -53,7 +53,7 @@ e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi à une d
 
    ![](assets/five-3.png)
 
-1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six.png)
 

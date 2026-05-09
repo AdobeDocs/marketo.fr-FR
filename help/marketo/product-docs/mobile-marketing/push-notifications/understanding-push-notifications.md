@@ -4,9 +4,9 @@ description: Découvrez les notifications push dans Marketo. Comprenez la config
 title: Présentation des notifications push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '232'
 ht-degree: 2%
 
 ---
@@ -29,11 +29,11 @@ L’administrateur Marketo et le développeur d’applications mobiles travaille
 
 ## Étape 2 : créer une notification push {#step-create-a-push-notification}
 
-[Concevez vos messages](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) et prévisualisez leur affichage sur les appareils Android et iOS.
+[Concevez votre messagerie](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) et prévisualisez son affichage sur les appareils Android et iOS.
 
 ## Étape 3 : envoyer ! {#step-send}
 
-[Vous pouvez envoyer des notifications push à l’aide &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) déclencheurs et de campagnes intelligentes par lots. Plutôt cool, hein ?
+[Vous pouvez envoyer des notifications push à l’aide ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) déclencheurs et de campagnes intelligentes par lots. Plutôt cool, hein ?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

@@ -3,9 +3,9 @@ description: Découvrez comment accorder l’accès Sales Connect aux utilisateu
 title: Octroi d’un accès à des utilisateurs et des utilisatrices
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '205'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Vous devez inviter les utilisateurs à [!DNL Sales Connect] [ici](/help/marketo/
 
    >[!NOTE]
    >
-   >Vous ne pouvez attribuer l’espace de travail qu’une seule fois au moment d’accorder l’accès aux utilisateurs. Une fois défini, vous devrez déconnecter l’utilisateur ou l’utilisatrice afin de le modifier.
+   >Vous ne pouvez attribuer l’espace de travail qu’une seule fois au moment d’accorder l’accès aux utilisateurs. Une fois défini, vous devez déconnecter l’utilisateur ou l’utilisatrice afin de le modifier.
 
    ![](assets/granting-access-to-users-1.png)
 

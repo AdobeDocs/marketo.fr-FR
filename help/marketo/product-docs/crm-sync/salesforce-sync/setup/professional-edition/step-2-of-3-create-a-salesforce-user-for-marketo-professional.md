@@ -4,9 +4,9 @@ description: Découvrez comment créer un utilisateur Salesforce pour Marketo av
 title: 'Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (professionnel)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -52,14 +52,14 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
    * [!UICONTROL Programme d’acquisition]
    * [!UICONTROL ID du programme d’acquisition]
    * [!UICONTROL Désinscription Aux E-Mails]
-   * [!UICONTROL &#x200B; Ville déduite &#x200B;]
+   * [!UICONTROL  Ville déduite ]
    * [!UICONTROL Société déduite]
    * [!UICONTROL Pays déduit]
    * [!UICONTROL Région métropolitaine déduite]
    * [!UICONTROL Indicatif téléphonique déduit]
    * [!UICONTROL Code postal déduit]
    * [!UICONTROL Région d’État déduite]
-   * [!UICONTROL &#x200B; Score du lead &#x200B;]
+   * [!UICONTROL  Score du lead ]
    * [!UICONTROL Référent original]
    * [!UICONTROL Moteur de recherche original]
    * [!UICONTROL Expression de recherche originale]
@@ -114,7 +114,7 @@ Marketo requiert des informations d’identification pour accéder à [!DNL Sale
    >
    >Vérifiez que l’adresse e-mail saisie est valide. Vous devrez vous connecter en tant qu’utilisateur de synchronisation pour réinitialiser le mot de passe.
 
-Excellent ! Vous disposez désormais d’un compte que Marketo peut utiliser pour se connecter à [!DNL Salesforce]. Faisons-le.
+Vous disposez désormais d’un compte que Marketo peut utiliser pour se connecter à [!DNL Salesforce].
 
 >[!MORELIKETHIS]
 >

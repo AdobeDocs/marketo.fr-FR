@@ -3,7 +3,7 @@ description: Découvrez comment rendre les formulaires Marketo conversationnels 
 title: Paramètres De Flux De Conversation Pour Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Rendez Marketo Engage Forms conversationnel en les intégrant aux flux de conver
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Une boîte de dialogue modale Choix par défaut s’affiche. Sélectionnez votre préférence. Dans cet exemple, nous choisissons **[!UICONTROL Utiliser le flux de conversation]**.
+1. Une boîte de dialogue modale Choix par défaut s’affiche. Sélectionnez votre préférence. Dans cet exemple, l’option **[!UICONTROL Utiliser le flux de conversation]** est sélectionnée.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,7 +54,7 @@ Rendez Marketo Engage Forms conversationnel en les intégrant aux flux de conver
    >
    >Le navigateur du visiteur doit être identifié comme une personne connue avant l’envoi du formulaire pour pouvoir être membre de la liste statique/dynamique.
 
-   **ÉTAPE FACULTATIVE** : cliquez sur le signe **+** dans chaque étape pour ajouter d’autres attributs, ce qui vous permet d’affiner votre audience ciblée (les attributs disponibles sont les champs que vous avez choisis pour le formulaire). Dans cet exemple, nous ciblons les rédacteurs techniques Adobe en Californie.
+   **ÉTAPE FACULTATIVE** : cliquez sur le signe **+** dans chaque étape pour ajouter d’autres attributs, ce qui vous permet d’affiner votre audience ciblée (les attributs disponibles sont les champs que vous avez choisis pour le formulaire). Dans cet exemple, la configuration cible les rédacteurs techniques Adobe en Californie.
 
    ![](assets/conversational-flow-settings-8.png)
 

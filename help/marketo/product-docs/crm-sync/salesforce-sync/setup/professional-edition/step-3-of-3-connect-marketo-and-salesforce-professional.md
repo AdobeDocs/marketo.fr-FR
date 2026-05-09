@@ -4,9 +4,9 @@ description: Découvrez comment connecter Marketo et Salesforce dans l’étape 
 title: Étape 3 sur 3 - Connecter Marketo et Salesforce (Professionnel)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Dans cet article, vous allez configurer Marketo Engage pour qu’il se synchroni
 
    >[!NOTE]
    >
-   >Veillez à [masquer tous les champs dont vous n’avez pas besoin](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} dans Marketo à l’utilisateur de synchronisation avant de cliquer sur **[!UICONTROL Synchroniser les champs]**. Une fois que vous avez cliqué sur Synchroniser les champs, tous les champs que l’utilisateur peut voir seront créés définitivement dans Marketo et ne peuvent pas être supprimés.
+   >[Masquez tous les champs dont vous n’avez pas besoin](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} dans Marketo, puis cliquez sur **[!UICONTROL Synchroniser les champs]**. Une fois que vous avez cliqué sur Synchroniser les champs, tous les champs que l’utilisateur peut voir seront créés définitivement dans Marketo et ne peuvent pas être supprimés.
 
 1. Saisissez les informations d’identification de l’utilisateur de synchronisation Salesforce créées dans la partie 2 de la configuration de Salesforce ([Professionnel](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Entreprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) et cliquez sur **[!UICONTROL Champs de synchronisation]**.
 
@@ -100,7 +100,7 @@ Marketo fournit des messages de statut pour la synchronisation [!DNL Salesforce]
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Vous venez de terminer la configuration de l’une des fonctionnalités les plus puissantes de Marketo, allez-y !
+Vous avez terminé de configurer l’une des fonctionnalités les plus puissantes de Marketo.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Découvrez la notation du compte et comment elle permet de donner l
 title: Score du compte
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '375'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ La notation de compte est une partie essentielle de la [!UICONTROL gestion des c
 
 ## Qu’est-ce que l’évaluation de compte ? {#what-is-account-scoring}
 
-Il s’agit d’une approche systématique conçue pour aider les équipes de vente et de marketing à identifier et à hiérarchiser les entreprises (y compris les prospects) les plus susceptibles de réaliser un achat.
+Il s’agit d’une approche systématique conçue pour aider les équipes commerciales et marketing à identifier et à hiérarchiser les entreprises (y compris les prospects) les plus susceptibles de réaliser un achat.
 
 Dans le monde complexe des processus d’achat B2B, il est rare qu’une seule personne prenne une décision d’achat. Il y a souvent différents rôles en jeu, chacun ayant ses propres besoins. La notation basée sur les comptes en tient compte en agrégeant les scores des prospects de plusieurs prospects et en fournissant un score au niveau du compte.
 
@@ -47,9 +47,7 @@ Dans le monde complexe des processus d’achat B2B, il est rare qu’une seule p
 >Pour calculer les scores du compte, vous devez d’abord créer les scores des prospects. Marketo TAM agrège automatiquement les scores de prospect aux scores de compte. Par exemple, nous allons prendre deux des exemples ci-dessus (_score de l’intérêt du produit du compte_ et _score de l’engagement sur le web du compte_).
 >
 >Créez tout d’abord des champs de score de prospect qui capturent les détails pertinents de chaque prospect d’un compte cible.
->Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :
->Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)
->Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
+>Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :>Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)>Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
 
 >[!NOTE]
 >

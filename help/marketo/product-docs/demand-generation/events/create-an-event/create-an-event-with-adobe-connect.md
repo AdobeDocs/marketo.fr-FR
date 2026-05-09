@@ -4,9 +4,9 @@ description: Découvrez comment créer un événement avec Adobe Connect dans Ma
 title: Créer un événement avec Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '425'
 ht-degree: 3%
 
 ---
@@ -20,17 +20,17 @@ La synchronisation avec Adobe Connect vous permet de gérer l’inscription et l
 >* [Lier Adobe Connect et Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Tout d’abord, assurez-vous d’avoir créé votre réunion ou séminaire dans Adobe Connect. Si vous avez besoin d’aide, consultez le [Guide de l’utilisateur d’Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+Tout d’abord, vérifiez que vous avez créé votre réunion ou séminaire dans Adobe Connect. Si vous avez besoin d’aide, consultez le [Guide de l’utilisateur ](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans le dossier spécifié lors de la saisie des informations d&#39;identification dans Marketo. Après avoir créé votre réunion ou séminaire, notez toute information logistique pertinente (comme le numéro de téléphone), à utiliser dans votre e-mail de confirmation et votre fichier ICS.
 
 >[!CAUTION]
 >
->En tant qu&#39;hôte de l&#39;événement, veillez à le rejoindre à partir de l&#39;application et **pas** via le lien envoyé aux participants.
+>En tant qu&#39;hôte de l&#39;événement, rejoignez-le depuis l&#39;application et **pas** via le lien envoyé aux participants.
 
 >[!NOTE]
 >
->Nous ne prenons pas en charge Adobe Connect On-Site pour le moment.
+>Adobe Connect On-Site n’est pas pris en charge pour le moment.
 
 1. Sur la page d&#39;accueil d&#39;un nouvel événement, sélectionnez **[!UICONTROL Actions d&#39;événement]**, puis **[!UICONTROL Paramètres d&#39;événement]**.
 
@@ -38,7 +38,7 @@ Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans
 
    >[!NOTE]
    >
-   >Si vous ne voyez pas l’option **[!UICONTROL Paramètres d’événement]** dans la liste déroulante, assurez-vous que le canal de l’événement comporte l’option **[!UICONTROL Événement avec webinaire]** sélectionnée sous « [!UICONTROL S’applique à] ».
+   >Si vous ne voyez pas l’option **[!UICONTROL Paramètres d’événement]** dans la liste déroulante, vérifiez que le canal de l’événement affiche **[!UICONTROL Événement avec webinaire]** sélectionné sous « [!UICONTROL S’applique à] ».
 
 1. Sous **[!UICONTROL Partenaire d’événement]**, sélectionnez **[!UICONTROL Adobe Connect]**.
 
@@ -52,7 +52,7 @@ Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans
 
    ![](assets/event-settings-overview.png)
 
-   Joli ! Votre événement Adobe Connect est maintenant synchronisé avec votre événement Marketo.
+   Votre événement Adobe Connect est maintenant synchronisé avec votre événement Marketo.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans
    >
    >Définissez votre e-mail de confirmation sur **Opérationnel** afin de vous assurer que les personnes qui s’inscrivent et peuvent se désinscrire reçoivent toujours leurs informations de confirmation.
 
-   Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. Veillez également à ce que les étapes de flux [!UICONTROL &#x200B; Modifier le statut du programme &#x200B;] #1 et [!UICONTROL &#x200B; Envoyer un e-mail &#x200B;] soient #2.
+   Les personnes qui s’inscrivent à votre webinaire sont redirigées vers votre fournisseur de webinaires via l’étape de flux [!UICONTROL Modifier le statut du programme] lorsque le [!UICONTROL Nouveau statut] est défini sur « Enregistré ». Aucun autre statut ne poussera la personne vers le serveur. En outre, définissez [!UICONTROL Modifier le statut du programme] l’étape de flux #1 et [!UICONTROL Envoyer un e-mail] l’étape de flux #2.
 
    ![](assets/adobe.png)
 

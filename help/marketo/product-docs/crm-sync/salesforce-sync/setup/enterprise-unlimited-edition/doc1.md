@@ -4,9 +4,9 @@ title: Étape 1 sur 3 - Ajouter des champs Marketo à Salesforce (Entreprise/Ill
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '670'
 ht-degree: 1%
 
 ---
@@ -92,7 +92,7 @@ Si vous avez créé un profil personnalisé pour l’utilisateur de synchronisat
 
    CAPTURE D’ÉCRAN
 
-1. Cliquez sur Enregistrer et Nouveau pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur Enregistrer avec vous. Vous avez terminé avec les trois.
+1. Cliquez sur Enregistrer et Nouveau pour revenir en arrière et créer chacun des deux autres champs personnalisés. Cliquez sur Enregistrer avec vous pour terminer les trois.
 
    CAPTURE D’ÉCRAN
 

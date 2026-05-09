@@ -2,9 +2,9 @@
 description: Découvrez l’onglet Carte de l’engagement et son déclencheur, son filtre et ses cartes de flux. Cliquez sur les cartes pour afficher les détails et modifier les éléments de la campagne.
 title: Onglet Carte d’engagement
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '968'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Filtre : cliquez sur cette carte pour afficher un panneau déroulant contenant l
    * Campagne à laquelle appartient l’étape de flux
    * Modifier l’étape de flux
    * Liste des attributs associés à l’étape de flux
-   * Le bouton « Afficher la liste », qui ouvre une liste des campagnes qui utilisent le campagne Demander/Exécuter spécifique
+   * Le bouton « Afficher la liste », qui ouvre une liste des campagnes qui utilisent la requête spécifique ou qui exécutent la campagne
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ Filtre : cliquez sur cette carte pour afficher un panneau déroulant contenant l
    * Campagne à laquelle appartient le choix
    * Modifier le choix
    * Liste des conditions de choix associées à l’étape de flux
-   * Afficher la liste, qui ouvre une liste des campagnes qui utilisent la requête/exécution de campagne spécifique
+   * Afficher la liste, qui ouvre une liste des campagnes qui utilisent la requête spécifique ou qui exécutent la campagne
 
   ![](assets/engagement-map-tab-10.png)
 
@@ -101,7 +101,7 @@ Vous pouvez cliquer sur l’étape Exécuter le flux de campagne dans « Campagn
 
 Les campagnes de demandes s’exécutent en parallèle de la campagne parent. Les personnes qui remplissent les critères d’une campagne de demande effectuent toutes les étapes de flux de la campagne, puis quittent la campagne. Simultanément, le même ensemble de personnes passe par les étapes de flux de la campagne principale.
 
-Voici un exemple de campagne intelligente, « Campagne A », qui inclut une étape de flux de campagne de requête. Considérez la « Campagne A » comme votre campagne principale.
+Vous trouverez ci-dessous un exemple de campagne intelligente, « Campagne A », qui inclut une étape de flux de campagne de requête . Considérez la « Campagne A » comme votre campagne principale.
 
 ![](assets/engagement-map-tab-14.png)
 
@@ -116,7 +116,7 @@ Vous pouvez approfondir vos campagnes imbriquées si l’une des étapes de flux
 
 ![](assets/engagement-map-tab-16.png)
 
-Voici un exemple de campagne de demandes avec des choix.
+Vous trouverez ci-dessous un exemple de campagne de requête avec des choix.
 
 ![](assets/engagement-map-tab-17.png)
 

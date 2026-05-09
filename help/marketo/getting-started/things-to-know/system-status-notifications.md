@@ -3,9 +3,9 @@ description: Abonnement aux notifications de statut du système - Documentation 
 title: Abonnement aux notifications d’état du système
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. Cliquez sur l’icône ![icône représentant un signe plus](assets/icon-plus-sign.png) située en regard de _Experience Cloud_ pour développer le menu. Faites de même pour _Adobe Marketo Engage_.
+1. Cliquez sur l’icône ![icône représentant un signe plus](assets/icon-plus-sign.png) située en regard de _Experience Cloud_ pour développer le menu. Faites de même pour __.
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
@@ -68,7 +68,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    >[!TIP]
    >
-   >Cochez _Adobe Marketo Engage_ pour tout sélectionner.
+   >Cochez __ pour tout sélectionner.
 
    ![](assets/subscribe-to-system-status-notifications-7.png){width="800"}
 
@@ -101,7 +101,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    >[!NOTE]
    >
-   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [&#x200B; Identifier votre centre de données &#x200B;](#identify).
+   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [ Identifier votre centre de données ](#identify).
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 

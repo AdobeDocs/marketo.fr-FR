@@ -3,16 +3,16 @@ description: Découvrez comment installer la solution Marketo dans Dynamics 365 
 title: Étape 1 sur 3 - Installer la solution Marketo avec une connexion de serveur à serveur
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 1%
 
 ---
 
 # Étape 1 sur 3 : installer la solution Marketo avec une connexion serveur à serveur {#step-1-of-3-install-the-marketo-solution-s2s}
 
-Avant de pouvoir synchroniser [!DNL Microsoft Dynamics 365] et Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics]. **[!DNL Dynamics]autorisations d’administrateur sont requises.**
+Avant de pouvoir synchroniser [!DNL Microsoft Dynamics 365] et Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics]. **[!DNL Dynamics]Les autorisations d’administrateur sont requises.**
 
 >[!CAUTION]
 >
@@ -78,7 +78,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics 365] et Marketo, vous dev
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. [!UICONTROL Gestion des leads Marketo] s’affiche désormais dans la liste des solutions.
+1. [!UICONTROL Gestion des leads ] s’affiche désormais dans la liste des solutions.
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
@@ -86,7 +86,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics 365] et Marketo, vous dev
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   Cinq ans ! L&#39;installation est terminée.
+   L’installation est terminée.
 
    >[!MORELIKETHIS]
    >

@@ -4,16 +4,16 @@ description: Découvrez comment connecter Microsoft Dynamics 2011 local à Marke
 title: Étape 3 sur 3 - Connexion  [!DNL Microsoft Dynamics]  Marketo (2011 On-Premise)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
 # Étape 3 sur 3 : Connexion de [!DNL Microsoft Dynamics] à Marketo (2011 On-Premise) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de synchronisation. Ensuite, nous devons connecter Marketo et [!DNL Dynamics].
+La solution est installée et l’utilisateur de synchronisation est configuré. Ensuite, connectez Marketo et [!DNL Dynamics].
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Cliquez sur **[!UICONTROL Microsoft]**.
+1. Cliquez sur ****.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
@@ -44,7 +44,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de
 
    >[!CAUTION]
    >
-   >Assurez-vous que vos informations d’identification sont correctes, car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si des informations d’identification incorrectes sont enregistrées, vous devrez obtenir un nouvel abonnement Marketo.
+   >Vérifiez que vos informations d’identification sont correctes. Les modifications de schéma suivantes ne peuvent pas être annulées après l’envoi. Si des informations d’identification incorrectes sont enregistrées, un nouvel abonnement Marketo sera nécessaire.
 
 1. Saisissez les **[!UICONTROL Nom d’utilisateur]**, **[!UICONTROL Mot de passe]** et CRM **[!UICONTROL URL]** puis cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -57,7 +57,7 @@ D&#39;accord ! Nous avons installé la solution et configuré l’utilisateur de
 
 ## Sélectionner les champs à synchroniser {#select-fields-to-sync}
 
-Nous devons maintenant sélectionner les champs sur lesquels effectuer la synchronisation.
+Sélectionnez les champs à synchroniser.
 
 1. Cliquez sur **[!UICONTROL Modifier]** à l’étape **[!UICONTROL 2 : sélection des champs à synchroniser]**.
 
@@ -69,13 +69,13 @@ Nous devons maintenant sélectionner les champs sur lesquels effectuer la synchr
 
    >[!NOTE]
    >
-   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [&#x200B; Sélectionner les champs à synchroniser &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [ Sélectionner les champs à synchroniser ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
-Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélectionner les nouveaux champs à synchroniser avec Marketo.
+Si vous avez créé un filtre personnalisé, accédez à et sélectionnez les nouveaux champs à synchroniser avec Marketo.
 
-1. Accédez à Admin et sélectionnez **[!UICONTROL Microsoft Dynamics]**.
+1. Accédez à Admin et sélectionnez ****.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 

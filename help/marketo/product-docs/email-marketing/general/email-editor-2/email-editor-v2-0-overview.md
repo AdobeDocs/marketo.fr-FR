@@ -4,10 +4,10 @@ description: Découvrez Email Editor v2.0 et ses fonctionnalités. Créez et mod
 title: Vue d’ensemble de l’éditeur d’e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 85%
+source-wordcount: '462'
+ht-degree: 79%
 
 ---
 
@@ -17,11 +17,11 @@ Vue d’ensemble de l’éditeur d’e-mail classique.
 
 >[!IMPORTANT]
 >
->Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail[&#x200B; avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}
+>Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.[
 
 **Sélectionneur de modèle d’e-mail**
 
-Lorsque vous créez un e-mail, vous accédez au [sélecteur de modèle d’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Lorsque vous créez un e-mail, vous êtes redirigé vers le [sélecteur de modèle d’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -45,7 +45,7 @@ L’option permettant de basculer entre les versions HTML et Texte de votre e-ma
 
 **En-tête de l’e-mail**
 
-Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé de [le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
+Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [ le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
 
 ![](assets/email-editor-v2-overview-5.png)
 

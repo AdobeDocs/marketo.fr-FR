@@ -4,9 +4,9 @@ description: Découvrez comment ajouter des audiences correspondantes LinkedIn e
 title: Ajout  [!DNL LinkedIn] ’audiences correspondantes en tant que  [!DNL LaunchPoint] service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '225'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn de Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint dans votre menu **Admin** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, afin d’éviter l’interruption du service. Pour plus d’informations, consultez le [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn met à niveau ses API marketing utilisées par les intégrations LinkedIn de Marketo Engage. Ces modifications nécessiteront une réauthentification de tous les services LinkedIn LaunchPoint dans votre menu **Admin** > **LaunchPoint** entre le 7 juin et le 15 décembre 2024, afin d’éviter l’interruption du service. Pour plus d’informations, voir la [FAQ sur la migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Connectez votre compte Marketo à [!DNL LinkedIn] audiences correspondantes pour
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Génial ! Les audiences correspondantes sont désormais répertoriées comme [!DNL LinkedIn] service [!DNL LaunchPoint] dans l’onglet Services installés .
+   [!DNL LinkedIn] audiences correspondantes sont désormais répertoriées en tant que service [!DNL LaunchPoint] dans l’onglet Services installés .
 
    ![](assets/bartholomew2.png)
 

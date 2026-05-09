@@ -4,9 +4,9 @@ description: Découvrez comment exécuter des tests A/B depuis l’adresse. Test
 title: Utiliser le test A/B « adresse de l’expéditeur ou de l’expéditrice »
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '277'
 ht-degree: 2%
 
 ---

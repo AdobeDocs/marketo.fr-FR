@@ -4,9 +4,9 @@ description: Découvrez la connexion par e-mail pour les utilisateurs Outlook da
 title: Connexion des e-mails pour les utilisateurs et les utilisatrices Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 5%
 
 ---
@@ -68,7 +68,7 @@ La connexion à [!DNL Outlook] signifie que vous recevrez le suivi des réponses
 
    ![](assets/seven-a.png)
 
-1. Si vous n&#39;êtes pas connecté à [!DNL Outlook], saisissez vos informations de connexion et cliquez sur **[!UICONTROL Suivant]**. Si vous l’êtes, sélectionnez le compte auquel vous souhaitez vous connecter et cliquez sur **[!UICONTROL Suivant]**. Dans cet exemple, nous sommes déjà connectés.
+1. Si vous n’êtes pas connecté à [!DNL Outlook], saisissez vos informations de connexion et cliquez sur **[!UICONTROL Suivant]**. Si vous l’êtes, sélectionnez le compte auquel vous souhaitez vous connecter et cliquez sur **[!UICONTROL Suivant]**. Dans cet exemple, nous sommes déjà connectés.
 
    ![](assets/eight-a.png)
 

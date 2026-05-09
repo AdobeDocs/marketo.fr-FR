@@ -4,16 +4,16 @@ description: Découvrez comment fonctionne la synchronisation des contacts entre
 title: Synchronisation de SFDC - Synchronisation des contacts
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
 
 # Synchronisation SFDC : synchronisation de contact {#sfdc-sync-contact-sync}
 
-Saviez-vous que Marketo synchronise l’ensemble de votre base de données avec [!DNL Salesforce] ? Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les contacts [!DNL Salesforce].
+Marketo synchronise l’ensemble de la base de données avec [!DNL Salesforce]. Il se synchronise, puis attend 5 minutes, puis se synchronise à nouveau, toute la journée, tous les jours. Voici quelques détails sur la façon dont Marketo traite spécifiquement les contacts [!DNL Salesforce].
 
 ## Direction de synchronisation {#sync-direction}
 
@@ -21,7 +21,7 @@ La synchronisation des contacts est bidirectionnelle. Si vous apportez des modif
 
 ## Que faire si des modifications sont apportées simultanément dans les deux systèmes ? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-Nous sommes gentils et laissons [!DNL Salesforce] gagner. Il est rare que ce genre de collision de données se produise.
+Nous sommes gentils et laissons [!DNL Salesforce] gagner. Il est rare que ce type de collision de données se produise.
 
 ## Puis-je convertir une personne en contact dans Marketo ? {#can-i-convert-a-person-into-a-contact-in-marketo}
 

@@ -4,10 +4,10 @@ description: Découvrez les diagnostics Salesforce pour Sales Connect. Résolvez
 title: Diagnostics Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1333'
-ht-degree: 1%
+source-wordcount: '1369'
+ht-degree: 2%
 
 ---
 
@@ -65,7 +65,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 **Error:** EXPIRED_ACCESS
 **Category:** Authentification
 **Message:** invalid_grant : jeton d’accès/d’actualisation expiré
-**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [&#x200B; dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [ dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Étapes de dépannage :** vous devrez vous authentifier à nouveau. Déconnectez la connexion [!DNL Salesforce] et reconnectez-vous.
 
 <br> 
@@ -150,7 +150,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 **Category:** Authentification
 **Message:** invalid_grant: ip restreint
 **Ce qui se passe** nous essayons d’accéder à vos [!DNL Salesforce], mais vous avez mis en place des restrictions en matière de PI qui nous empêchent de le faire.
-placer sur la liste autorisée **Étapes de dépannage :** votre administrateur [!DNL Salesforce] devra nos adresses IP. Les utilisateurs doivent contacter le support technique pour obtenir les adresses IP.
+**Étapes de dépannage :** votre administrateur [!DNL Salesforce] devra nos adresses IP. Les utilisateurs doivent contacter le support technique pour obtenir les adresses IP.
 
 **Error:** INVALID_TYPE
 **Category:** Access/Validation
@@ -166,11 +166,11 @@ placer sur la liste autorisée **Étapes de dépannage :** votre administrateur 
 
 **Error:** REQUEST_LIMIT_EXCEEDED
 **Category:** Intermittent
-**Message:**
+**Message :**
 1 - Limite de ConcurrentPerOrgLongTxn dépassée
 2 - Nombre maximal de demandes dépassé
 3 - DemandeConcurrente
-**Que se passe-t-il**
+**Que se passe-t-il :**
 1 - Limite de demandes simultanées dépassée, probablement en raison d’un code de déclencheur inefficace.
 2 - Trop d’intégrations placent l’organisation au-delà de la fenêtre dynamique de 24 heures.
 **Étapes de dépannage :**
@@ -179,7 +179,7 @@ placer sur la liste autorisée **Étapes de dépannage :** votre administrateur 
 
 **Error:** REQUIRED_FIELD_MISSING
 **Category:** Access/Validation
-**Message :** champs obligatoires manquants : `[Amount_Committed_Private_Capital__c]`
+**Message :** les champs obligatoires sont manquants : `[Amount_Committed_Private_Capital__c]`
 **Que se passe-t-il** : cela se produit généralement pour la journalisation de l’activité la plus récente. Les champs personnalisés ont été configurés pour être obligatoires, mais contiennent des valeurs vides. Cela peut se produire si l’enregistrement a été créé avec une valeur vide du champ personnalisé, puis rendu obligatoire. Le caractère obligatoire est appliqué lorsque nous tentons de mettre à jour l’enregistrement, même si nous ne touchons pas au champ personnalisé.
 **Étapes de dépannage :** mettez à jour manuellement les valeurs des champs manquants. Vous pouvez ensuite réessayer le message à partir de ToutApp.
 
@@ -191,7 +191,7 @@ placer sur la liste autorisée **Étapes de dépannage :** votre administrateur 
 
 **Error:** TXN_SECURITY_NO_ACCESS
 **Category:** Access/Validation
-**Message :** l’opération que vous avez demandée n’est pas autorisée en raison d’une politique de sécurité de votre organisation. Contactez l’administration.<br/>
+**Message :** l’opération que vous avez demandée n’est pas autorisée en raison d’une politique de sécurité dans votre organisation. Contactez l’administration.<br/>
 **Que se passe-t-il** une sorte de restriction de sécurité a été configurée (voir ID de <https://developer.salesforce.com/forums/?id="record>) ?
 **Étapes de dépannage :** adressez-vous à votre administrateur [!DNL Salesforce] et vérifiez quelle peut être la restriction spécifique.
 

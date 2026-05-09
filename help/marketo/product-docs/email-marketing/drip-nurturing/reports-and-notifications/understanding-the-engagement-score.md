@@ -4,9 +4,9 @@ description: Découvrez le score d’engagement (0 à 100) et comment il mesure 
 title: Présentation du score d’engagement
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ Le score d’engagement facilite l’évaluation de l’efficacité du contenu d
 
 ![](assets/highestengagementwidget.jpg)
 
-Le score est basé sur un algorithme propriétaire qui prend en compte le comportement engagé ([!UICONTROL Open], [!UICONTROL Click], [!UICONTROL Program Success]) et le comportement désengagé ([!UICONTROL Unsubscribe]). Il est comparé aux e-mails de style drip and nurture pour donner une moyenne de 50. Pour donner aux personnes la possibilité d’interagir avec votre contenu, le score d’engagement est calculé 72 heures après chaque casting. En outre, le score ne couvre que les données de **vos trois derniers lancements**.
+Le score est basé sur un algorithme propriétaire qui prend en compte le comportement engagé ([!UICONTROL Open], [!UICONTROL Click], [!UICONTROL Program Success]) et le comportement désengagé ([!UICONTROL Unsubscribe]). Il est comparé aux e-mails de type drip and nurture pour donner une moyenne de 50. Pour donner aux personnes la possibilité d’interagir avec votre contenu, le score d’engagement est calculé 72 heures après chaque casting. En outre, le score ne couvre que les données de **vos trois derniers lancements**.
 
 >[!NOTE]
 >

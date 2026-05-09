@@ -4,9 +4,9 @@ description: Découvrez comment filtrer un rapport de programme par coût de pé
 title: Filtrer un rapport de programmes par coût de la période
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '100'
 ht-degree: 14%
 
 ---
@@ -31,7 +31,7 @@ Concentrez votre [rapport sur le rendement du programme](/help/marketo/product-d
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. C&#39;est fini ! Cliquez sur l&#39;onglet **[!UICONTROL Rapport]** pour afficher uniquement les programmes qui se situent dans le délai de coût de la période spécifiée.
+1. Vous avez terminé ! Cliquez sur l&#39;onglet **[!UICONTROL Rapport]** pour afficher uniquement les programmes qui se situent dans le délai de coût de la période spécifiée.
 
    ![](assets/lm-86194-report-tab.png)
 

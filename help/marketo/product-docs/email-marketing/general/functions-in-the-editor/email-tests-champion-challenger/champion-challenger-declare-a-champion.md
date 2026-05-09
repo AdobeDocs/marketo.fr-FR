@@ -4,9 +4,9 @@ description: Découvrez comment déclarer champion pour votre test d’e-mail. C
 title: Champion/Challenger - Déclarer un champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '140'
 ht-degree: 6%
 
 ---

@@ -4,9 +4,9 @@ description: Obtenez des réponses aux questions relatives au contenu et aux pi�
 title: Questions fréquentes relatives au contenu et aux pièces jointes
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '273'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 Une **pièce jointe** est identique à une pièce jointe que vous utiliseriez dans votre client de messagerie classique.
 
-**Contenu** nous utilisons pour décrire tous les fichiers (PPT, PDF, Word, etc.) que vous souhaitez voir suivis par [!DNL Sales Connect].
+**Contenu** est ce que nous utilisons pour décrire tous les fichiers (PPT, PDF, Word doc, etc.) que vous souhaitez être suivi par [!DNL Sales Connect].
 
 Après avoir cliqué sur ce bouton, vous pouvez choisir un fichier déjà chargé ou charger un nouveau fichier à suivre. Nous insérons ensuite un lien dans l’e-mail ou le modèle que vous utilisez.
 

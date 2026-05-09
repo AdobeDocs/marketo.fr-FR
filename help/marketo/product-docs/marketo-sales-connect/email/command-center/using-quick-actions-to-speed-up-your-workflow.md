@@ -4,7 +4,7 @@ description: Découvrez comment utiliser des actions rapides dans Sales Connect 
 title: Utilisation des actions rapides pour accélérer votre workflow
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 8%
@@ -17,7 +17,7 @@ La grille d’e-mail comporte deux types de colonnes d’action rapide. les acti
 
 ## Actions d’e-mail {#email-actions}
 
-Les actions rapides d’e-mail sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour le statut de l’e-mail que vous regardez. Deux actions rapides au maximum sont visibles par statut d’e-mail. Vous pouvez voir ci-dessous les actions rapides relatives aux e-mails qui seront disponibles pour chaque statut.
+Les actions rapides d’e-mail sont dynamiques et mises à jour en fonction des actions les plus pertinentes pour le statut de l’e-mail que vous consultez. Deux actions rapides au maximum sont visibles par statut d’e-mail. Vous pouvez voir ci-dessous les actions rapides relatives aux e-mails qui seront disponibles pour chaque statut.
 
 **Délivrés**
 

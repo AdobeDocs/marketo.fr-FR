@@ -3,16 +3,16 @@ description: Découvrez Dynamic Chat pour le ciblage des visiteurs et la collect
 title: Vue d’ensemble de Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 96%
+source-wordcount: '627'
+ht-degree: 74%
 
 ---
 
 # Vue d’ensemble de [!DNL Dynamic Chat] {#dynamic-chat-overview}
 
-Dynamic Chat vous permet de tirer parti d’une interface conviviale pour cibler les personnes et les comptes qui visitent votre site web. Collectez le contenu pertinent, tel que le nom, les coordonnées et le texte libre. Les visiteurs et visiteuses du site peuvent également discuter avec un agent ou une agente en direct et même planifier des réunions avec votre équipe des ventes. Les données d’activité et d’engagement de Dynamic Chat peuvent être utilisées pour ajouter des personnes membres aux programmes Marketo et déclencher des activités cross-canal.
+Dynamic Chat vous permet de tirer parti d’une interface intuitive pour cibler les personnes et les comptes qui visitent votre site web. Collectez le contenu pertinent, tel que le nom, les coordonnées et le texte libre. Les visiteurs et visiteuses du site peuvent également discuter avec un agent ou une agente en direct et même planifier des réunions avec votre équipe des ventes. Les données d’activité et d’engagement de Dynamic Chat peuvent être utilisées pour ajouter des personnes membres aux programmes Marketo et déclencher des activités cross-canal.
 
 >[!TIP]
 >
@@ -42,11 +42,11 @@ Connectez votre calendrier Outlook ou Gmail pour l’utiliser dans la planificat
 
 ## Réunions {#meetings}
 
-C’est là que vous verrez tous les rendez-vous qui ont été programmés par les visiteurs et visiteuses du site par le biais de vos différentes boîtes de dialogue. [En savoir plus sur les réunions](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
+C’est là que vous verrez tous les rendez-vous qui ont été planifiés par les visiteurs et visiteuses du site web à travers vos différentes boîtes de dialogue. [En savoir plus sur les réunions](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## Routage {#routing}
 
-C’est là que vous pouvez voir une liste de tous les agents et agentes qui ont connecté leurs calendriers, l’ordre de présentation aux visiteurs et visiteuses du site web, mais aussi créer des règles de routage personnalisées. [En savoir plus sur le routage](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
+C’est là que vous pouvez voir la liste de tous les agents qui ont connecté leurs calendriers, l’ordre dans lequel ils seront présentés aux visiteurs du site web et créer des règles de routage personnalisées. [En savoir plus sur le routage](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
 
 ## Conversation en direct {#live-chat}
 
@@ -84,11 +84,11 @@ Suivez les étapes ci-dessous pour modifier la langue de Dynamic Chat.
    >
    >Il existe plusieurs dizaines de langues parmi lesquelles choisir, toutefois [!DNL Dynamic Chat] ne prend en charge que les langues suivantes : anglais, français, allemand, japonais, espagnol, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel.
 
-Lorsque vous mettez à jour la langue, tout ce qui se trouve dans l’application change, à l’exception des mots que vous avez personnellement renseignés (par exemple, réponses de flux).
+Lorsque vous mettez à jour la langue, tout ce qui se trouve dans l’application change, à l’exception des mots que vous avez personnellement renseignés (par exemple, réponses en flux continu).
 
 ## Limites de conservation des données de Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Vous trouverez ci-dessous quelques-unes des limites/paramètres de Dynamic Chat. Pour obtenir une liste complète, reportez-vous à la [page Description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} de Marketo Engage.
+Vous trouverez ci-dessous quelques-unes des limites/paramètres de Dynamic Chat. Pour obtenir la liste complète, voir la page Marketo Engage [Description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Type de données</th>
@@ -117,4 +117,4 @@ Vous trouverez ci-dessous quelques-unes des limites/paramètres de Dynamic Chat
 
 ## Questions fréquentes {#faq}
 
-Consultez les [questions fréquentes sur Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Voir la [FAQ ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

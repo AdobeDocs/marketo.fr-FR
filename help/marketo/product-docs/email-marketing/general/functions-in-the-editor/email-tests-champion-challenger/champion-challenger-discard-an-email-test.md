@@ -4,10 +4,10 @@ description: Découvrez comment ignorer un test d’e-mail Champion/Challenger. 
 title: Champion/Challenger - Ignorer un test par e-mail
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 
@@ -31,4 +31,4 @@ Si, à tout moment, vous décidez de ne pas continuer à exécuter votre test d�
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   C&#39;est fini ! Si vous décidez de configurer à nouveau un test, continuez et [ajoutez un champion/challenger d’e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   Vous avez terminé ! Si vous décidez de configurer à nouveau un test, continuez et [ajoutez un champion/challenger d’e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

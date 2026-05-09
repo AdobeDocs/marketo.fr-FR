@@ -3,9 +3,9 @@ description: Découvrez les déclencheurs et les filtres des activités de vente
 title: Déclencheurs et filtres des activités de vente
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 7%
 
 ---

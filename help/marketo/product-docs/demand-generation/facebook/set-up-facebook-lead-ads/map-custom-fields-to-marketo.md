@@ -4,9 +4,9 @@ description: Découvrez comment mapper les champs personnalisés des annonces de
 title: Mapper des champs personnalisés à Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '266'
 ht-degree: 7%
 
 ---
@@ -17,7 +17,7 @@ Vous pouvez collecter davantage d’informations que les informations standard s
 
 Cependant, **Marketo ne commencera pas automatiquement à collecter ces données**. Pour que Marketo puisse commencer à capturer des valeurs de champ personnalisées, vous **devez** mapper ces champs personnalisés à un champ dans Marketo.
 
-Voici comment configurer ce paramètre dans la zone LaunchPoint de l’administrateur.
+Pour configurer ce paramètre, procédez comme suit dans la zone LaunchPoint de l’administrateur.
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ Voici comment configurer ce paramètre dans la zone LaunchPoint de l’administr
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Laissez le compte autorisé tel quel, et n’apportez **de modifications**. Cliquez sur **[!UICONTROL Suivant]**.
+1. Laissez le compte autorisé tel quel, n’effectuez **aucune modification** Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Comme auparavant, laissez les pages sélectionnées telles quelles (n’apportez **de modifications**. Cliquez sur **[!UICONTROL Suivant]**.
+1. Comme auparavant, laissez les pages sélectionnées telles quelles, n’apportez **** modifications. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. C’est à ce stade que vous mappez le champ [!DNL Facebook] personnalisé à votre champ Marketo. Cliquez sur **[!UICONTROL Ajouter].**
+1. Mappez le champ [!DNL Facebook] personnalisé à votre champ Marketo. Cliquez sur **[!UICONTROL Ajouter].**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 
@@ -51,7 +51,7 @@ Voici comment configurer ce paramètre dans la zone LaunchPoint de l’administr
    >
    >Seuls les champs qui ont été enregistrés dans des modèles de formulaire [!DNL Facebook] s’affichent en tant qu’options ici.
 
-1. Cliquez dans la colonne **[!UICONTROL Champ Marketo]**. Saisissez pour rechercher le champ à mapper. Une fois le champ sélectionné, cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez dans la colonne **[!UICONTROL Champ]**. Saisissez pour rechercher le champ à mapper. Après avoir sélectionné un champ, cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2017-10-24-11-3a16-3a42.png)
 

@@ -4,9 +4,9 @@ description: Découvrez les conversions hors ligne Facebook et leur fonctionneme
 title: Présentation des conversions hors ligne Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '241'
 ht-degree: 2%
 
 ---
@@ -38,7 +38,7 @@ Les campagnes de publicités de leads Facebook génèrent des leads et les envoi
 
 Vous pouvez [configurer les conversions hors ligne Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) pour envoyer les performances publicitaires hors ligne à [!DNL Facebook].
 
-1. Assurez-vous que votre intégration [[!DNL Facebook] [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) est à jour.
+1. Vérifiez que votre intégration [[!DNL Facebook] [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) est à jour.
 1. Mappez les étapes de votre modèle de cycle du chiffre d’affaires sur les étapes de conversion hors ligne sur [!DNL Facebook].
 1. Lorsqu’un prospect [!DNL Facebook] est généré à partir d’une publicité de prospect [!DNL Facebook] et atteint une étape mappée, Marketo renvoie des données de conversion hors ligne à [!DNL Facebook] plusieurs fois par jour via une API automatisée et sécurisée. Les données apparaissent dans le rapport [!DNL Facebook] Ads Manager.
 

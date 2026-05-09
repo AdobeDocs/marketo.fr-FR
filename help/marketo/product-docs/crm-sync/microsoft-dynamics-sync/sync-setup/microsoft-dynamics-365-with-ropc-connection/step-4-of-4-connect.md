@@ -3,16 +3,16 @@ description: Découvrez comment connecter la solution Marketo à Dynamics 365 av
 title: Étape 4 sur 4 - Connexion de la solution Marketo à la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 4%
+source-wordcount: '429'
+ht-degree: 3%
 
 ---
 
 # Étape 4 de 4 : connecter la solution Marketo à la connexion de contrôle de mot de passe du propriétaire de la ressource {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-Il s’agit de la dernière étape de la synchronisation. Vous y êtes presque !
+Il s’agit de la dernière étape de la synchronisation.
 
 >[!PREREQUISITES]
 >
@@ -38,7 +38,7 @@ Il s’agit de la dernière étape de la synchronisation. Vous y êtes presque !
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. Sélectionnez **[!UICONTROL Microsoft]**.
+1. Sélectionnez ****.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
@@ -48,7 +48,7 @@ Il s’agit de la dernière étape de la synchronisation. Vous y êtes presque !
 
    >[!CAUTION]
    >
-   >Assurez-vous que l’URL de votre organisation est correcte, car nous ne pouvons pas annuler les modifications de schéma suivantes après l’envoi. Si une URL d’organisation incorrecte est utilisée, vous devrez obtenir un nouvel abonnement Marketo. Si vous ne connaissez pas l’URL, [apprenez à la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Vérifiez que l’URL de votre organisation est correcte. Les modifications de schéma suivantes ne peuvent pas être annulées après l’envoi. Si une URL d’organisation incorrecte est utilisée, un nouvel abonnement Marketo est requis. Si vous ne connaissez pas l’URL, [apprenez à la trouver ici](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!NOTE]
    >
@@ -74,11 +74,11 @@ Il s’agit de la dernière étape de la synchronisation. Vous y êtes presque !
 
 >[!NOTE]
 >
->Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [&#x200B; Sélectionner les champs à synchroniser &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [ Sélectionner les champs à synchroniser ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
-Si vous avez créé un filtre personnalisé, veillez à y accéder et à sélectionner les nouveaux champs à synchroniser avec Marketo.
+Si vous avez créé un filtre personnalisé, accédez à et sélectionnez les nouveaux champs à synchroniser avec Marketo.
 
 1. Accédez à [!UICONTROL Admin] et sélectionnez **[!UICONTROL Microsoft Dynamics]**.
 

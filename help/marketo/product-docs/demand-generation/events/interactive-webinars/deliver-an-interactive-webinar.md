@@ -3,9 +3,9 @@ description: Découvrez comment diffuser un webinaire interactif dans Marketo. E
 title: Diffuser un webinaire interactif
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1198'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Votre webinaire interactif est prêt à être lancé. Apprenez tout ce que vous 
 
    >[!NOTE]
    >
-   >Il est recommandé de le faire au moins 15 minutes avant l’heure de début prévue.
+   >il est recommandé de le faire au moins 15 minutes avant l’heure de début prévue.
 
 1. Si vous êtes co-animateur ou présentateur, cliquez sur le lien personnalisé dans l’e-mail que vous avez reçu pour le webinaire.
 
@@ -34,7 +34,7 @@ Votre webinaire interactif est prêt à être lancé. Apprenez tout ce que vous 
 
    >[!NOTE]
    >
-   >Les participants peuvent entrer dans la salle jusqu&#39;à 15 minutes avant le début prévu et verront la mise en page active. Nous vous recommandons de concevoir un aménagement «  Lobby «  pour eux.
+   >Les participants peuvent entrer dans la salle jusqu&#39;à 15 minutes avant le début prévu et verront la mise en page active. Il est recommandé de concevoir une disposition « Lobby » pour eux.
 
    >[!TIP]
    >
@@ -88,7 +88,7 @@ Pour y accéder, sélectionnez **Zone d’accueil et de présentation** dans le 
 
 ### Contrôles de diffusion {#broadcast-controls}
 
-Broadcast Control ajoute une salle verte virtuelle à votre session de webinaires interactifs. Il permet aux hôtes et aux présentateurs de parler et de se voir en privé sans diffuser aux participants dans la salle. C&#39;est un excellent moyen de tester votre microphone et votre webcam avant une session. Les présentateurs peuvent également collaborer dans la zone Hôte et présentateur jusqu’à ce qu’ils soient prêts à passer en ligne. Il permet au conférencier et aux producteurs de faire le point entre eux en privé après une séance, au cas où un participant oublierait de quitter le webinaire.
+Broadcast Control ajoute une salle verte virtuelle à votre session de webinaires interactifs. Il permet aux hôtes et aux présentateurs de parler et de se voir en privé sans diffuser aux participants dans la salle. Utilisez-le pour tester votre microphone et votre webcam avant une session. Les présentateurs peuvent également collaborer dans la zone Hôte et présentateur jusqu’à ce qu’ils soient prêts à passer en ligne. Il permet au conférencier et aux producteurs de faire le point entre eux en privé après une séance, au cas où un participant oublierait de quitter le webinaire.
 
 Les commandes de diffusion peuvent être configurées pour commencer automatiquement l&#39;enregistrement après que vous avez quitté la salle verte. Ainsi, les hôtes n’ont pas à se rappeler de démarrer et d’arrêter manuellement l’enregistrement. La suspension ou l’arrêt de la diffusion entraîne également la suspension ou l’arrêt de l’enregistrement. Tout est automatique.
 
@@ -104,7 +104,7 @@ Les discussions au sein du groupe de discussion ne sont pas enregistrées. Le pa
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-En savoir plus sur [le panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+En savoir plus sur [le panneau de conversation](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Mode de préparation {#prepare-mode}
 
@@ -127,22 +127,22 @@ En savoir plus sur le mode de préparation [dans cette vidéo](https://www.youtu
 >[!NOTE]
 >
 >* Toutes les modifications apportées aux capsules en direct sont immédiatement répercutées sur les participants.
->* Le [panneau de conversation](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode Préparer et toute modification apportée sera immédiatement répercutée sur les participants.
+>* [Panneau de conversation](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ne fait pas partie du mode Préparer et toute modification apportée sera immédiatement répercutée sur les participants.
 
 ### Accessibilité {#accessibility}
 
 Adobe s’efforce d’inclure les présentateurs et les participants présentant un handicap en améliorant l’accessibilité des webinaires interactifs. Le logiciel est continuellement amélioré pour répondre aux besoins de tous les types d&#39;utilisateurs et pour se conformer aux normes mondiales qui incluent les personnes ayant une déficience visuelle, auditive, de mobilité ou d&#39;autres déficiences.
 
-Découvrez comment Adobe Connect fournit une assistance pour les besoins [&#x200B; visuels, auditifs et de mobilité](https://helpx.adobe.com/fr/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Découvrez comment Adobe Connect fournit une assistance pour les besoins [ visuels, auditifs et de mobilité](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Sous-titres {#closed-captions}
 
 Les sous-titres sont une représentation textuelle de l’audio dans une salle Adobe Connect et aident les participants sourds ou malentendants à participer aux événements. Vous pouvez intégrer des sous-titres en temps réel du contenu audio dans les événements et présenter ces sous-titres dans l’affichage Sous-titrage.
 
-Découvrez comment [activer les sous-titres](https://helpx.adobe.com/fr/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Découvrez comment [activer les sous-titres](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
 
 ### Webinaires en direct simulés {#simulated-live-webinars}
 
 Présentez les webinaires préenregistrés comme s’ils étaient en direct à l’aide du format de webinaire en direct simulé . Les participants peuvent rejoindre la session à une heure planifiée et l’expérimenter en temps réel, en profitant de fonctionnalités interactives telles que le chat, les sondages et les questions/réponses. Les webinaires en direct simulés combinent la fiabilité du contenu enregistré à l’expérience interactive d’un événement en direct.
 
-En savoir plus sur les [webinaires en direct simulés](https://helpx.adobe.com/fr/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.
+En savoir plus sur les [webinaires en direct simulés](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

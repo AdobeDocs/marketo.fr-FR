@@ -4,9 +4,9 @@ description: Découvrez comment inviter des utilisateurs à accéder au compte I
 title: Inviter les utilisateurs à accéder à [!UICONTROL Compte Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---

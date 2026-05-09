@@ -4,9 +4,9 @@ description: Découvrez quels champs Salesforce se synchronisent avec Marketo et
 title: Synchronisation de SFDC - Synchronisation de champ
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Nous synchronisons la plupart des champs standard dans SFDC et tout champ person
 
 ## Comment déterminer si un enregistrement dans Marketo est un prospect ou un contact dans [!DNL Salesforce] ? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-Il existe un champ dans Marketo appelé Type de SFDC. Il a trois valeurs possibles : lead, contact, ou il est vide. S’il est vide, cela signifie que ce prospect Marketo n’existe pas dans SFDC.
+Il existe un champ dans Marketo appelé Type de SFDC. Il a trois valeurs possibles : lead, contact ou il est vide. S’il est vide, cela signifie que ce prospect Marketo n’existe pas dans SFDC.
 
 ## Comment déterminer si un prospect ou un contact est supprimé dans SFDC ? {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 
@@ -41,7 +41,7 @@ La modification du libellé du champ dans SFDC n’affecte pas le libellé du ch
 
 ## Que se passe-t-il si je modifie un type de champ dans SFDC ? {#what-if-i-change-a-field-type-in-sfdc}
 
-Lorsque vous modifiez un type de champ, Marketo supprime les données des champs si elles ne correspondent pas (mais affiche d’abord un avertissement). Pour conserver les données, veillez à les exporter et à les réimporter après avoir modifié le type de champ.
+Lorsque vous modifiez un type de champ, Marketo supprime les données des champs si elles ne correspondent pas (mais affiche d’abord un avertissement). Pour conserver les données, exportez-les et réimportez-les après avoir modifié le type de champ.
 
 ## Que se passe-t-il si je modifie le nom d’une API dans SFDC ? {#what-if-i-change-an-api-name-in-sfdc}
 
