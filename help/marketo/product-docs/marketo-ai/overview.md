@@ -42,7 +42,7 @@ L’assurance qualité du programme vérifie automatiquement votre configuration
 
 ### Importer les leads {#import-leads}
 
-Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur l’agent [ Importer des leads ](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
+Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur l’agent [&#x200B; Importer des leads &#x200B;](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
 
 ## Bientôt disponible {#coming-soon}
 
