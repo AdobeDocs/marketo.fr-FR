@@ -4,7 +4,7 @@ description: Notes De Mise À Jour - Février 2014 - Documents Marketo - Documen
 title: Notes De Mise À Jour - Février 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 3%
@@ -39,13 +39,13 @@ Les fonctionnalités suivantes sont incluses dans la version de février 2014. C
 
 ## [!UICONTROL score de l’engagement] dans le rapport [!UICONTROL performances du volet Engagement] {#engagement-score-in-engagement-stream-performance-report}
 
-Nous avons ajouté le score de l’engagement au rapport [[!UICONTROL Performances du flux d’engagement] &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour vous aider à évaluer l’efficacité du contenu de votre programme d’engagement.
+Nous avons ajouté le score de l’engagement au rapport [[!UICONTROL Performances du flux d’engagement] ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour vous aider à évaluer l’efficacité du contenu de votre programme d’engagement.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
 ## Détails des programmes dans l’analyse des e-mails {#program-details-in-email-analysis}
 
-[Vous pouvez désormais regrouper vos mesures par nom de programme, canal et balises](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). Le nom du programme est ajouté au champ Nom de l’e-mail lorsque l’e-mail est une ressource locale du programme. Le nouveau champ Nom du programme affiche le nom du programme de la campagne intelligente qui a envoyé l’e-mail. Elle peut être différente du programme dans le champ Nom de l’e-mail si l’e-mail est une ressource locale d’un autre programme.
+Vous pouvez désormais regrouper vos mesures d’e-mail par nom de programme, canal et balises. Le nom du programme est ajouté au champ Nom de l’e-mail lorsque l’e-mail est une ressource locale du programme. Le nouveau champ Nom du programme affiche le nom du programme de la campagne intelligente qui a envoyé l’e-mail. Elle peut être différente du programme dans le champ Nom de l’e-mail si l’e-mail est une ressource locale d’un autre programme.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 

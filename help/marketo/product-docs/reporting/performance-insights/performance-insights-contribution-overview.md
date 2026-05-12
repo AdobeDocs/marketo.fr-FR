@@ -4,7 +4,7 @@ description: Découvrez la vue Contribution des informations sur les performance
 title: Vue d’ensemble de contribution de Performance Insights
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 1%
@@ -20,10 +20,6 @@ Dans Marketo [!UICONTROL Performances Insights], la vue Contribution s’affiche
 Sélectionnez la mesure en fonction de laquelle vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via **[!UICONTROL Touche multiple]** dans le tableau de bord _[!UICONTROL Chiffre d’affaires]_.
 
 ![](assets/2.png)
-
->[!NOTE]
->
->Découvrez [[!UICONTROL Première touche] et [!UICONTROL Multitouche]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Choisissez la période pour laquelle vous souhaitez afficher les mesures. Dans cet exemple, nous examinons l’année en cours (cumul annuel jusqu’à ce jour).
 

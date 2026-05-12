@@ -4,10 +4,10 @@ description: Découvrez comment filtrer les personnes dans les rapports à l’a
 title: Filtrer des personnes dans un rapport avec une liste intelligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 34%
+source-wordcount: '143'
+ht-degree: 32%
 
 ---
 
@@ -19,7 +19,6 @@ Vous pouvez utiliser des listes dynamiques avec les types de rapports suivants :
 
 * [Performance des individus](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Individus par statut](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Individus par étape de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [Performance des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Performance du lien par e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Performance du stream d&#39;engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)

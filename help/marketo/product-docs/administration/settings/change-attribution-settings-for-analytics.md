@@ -4,9 +4,9 @@ description: Comment définir les options d’attribution première touche et mu
 title: Modifier les paramètres d’attribution dans Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '174'
 ht-degree: 5%
 
 ---
@@ -14,8 +14,6 @@ ht-degree: 5%
 # Modifier les paramètres d’attribution dans Analytics {#change-attribution-settings-for-analytics}
 
 Vous pouvez modifier la manière dont Marketo lie les contacts aux opportunités d’attribution première touche et multitouche, aux mesures de conversion des prospects et à l’indicateur d’opportunité influencé par le marketing.
-
-Ces paramètres auront un impact sur les rapports [!UICONTROL Explorateur de revenus] dans les zones [Analyse des opportunités du programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse des opportunités](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) et Analyse des prospects. Cela affectera également le rapport [!UICONTROL &#x200B; Analyseur de programmes &#x200B;].
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

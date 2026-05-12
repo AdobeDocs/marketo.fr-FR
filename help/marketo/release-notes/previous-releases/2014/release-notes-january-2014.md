@@ -4,16 +4,16 @@ description: Notes De Mise À Jour - Janvier 2014 - Documents Marketo - Document
 title: Notes De Mise À Jour - Janvier 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '301'
+ht-degree: 3%
 
 ---
 
 # Notes de mise à jour : janvier 2014 {#release-notes-january}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Vérifiez la disponibilité des fonctionnalités dans votre [édition Marketo](https://www.marketo.com/pricing/).
+Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Vérifiez la disponibilité des fonctionnalités dans votre [édition ](https://www.marketo.com/pricing/).
 
 ## Formulaires 2.0 {#forms}
 
@@ -23,7 +23,7 @@ Prenez le contrôle du processus de création de formulaires et offrez une pause
 
 **Donnez à votre Forms la retouche visuelle qu’elle mérite :**
 
-La conception des thèmes, la personnalisation des boutons et les mises en page flexibles vous permettent de concevoir des formulaires modernes qui s’adaptent parfaitement à l’aspect de votre site.
+La conception des thèmes, la personnalisation des boutons et les dispositions flexibles vous permettent de concevoir des formulaires d’aspect moderne qui s’adaptent parfaitement à l’aspect de votre site.
 
 **Logique de la visibilité conditionnelle et de la page de suivi :**
 
@@ -47,6 +47,6 @@ L’époque où l’on levait le code HTML des formulaires placés sur les pages
 
 ## Champs supplémentaires dans l&#39;analyse de l&#39;adhésion au programme {#additional-fields-in-program-membership-analysis}
 
-Vous pouvez maintenant ajouter et regrouper vos mesures [Analyse de l’appartenance à un programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) par attributs de prospect et d’entreprise. Par exemple, vous pouvez ajouter le champ Secteur pour afficher la répartition des membres et des succès de votre programme.
+Vous pouvez désormais ajouter et regrouper vos mesures d’analyse de l’appartenance à un programme par attributs de prospect et d’entreprise. Par exemple, vous pouvez ajouter le champ Secteur pour afficher la répartition des membres et des succès de votre programme.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

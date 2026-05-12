@@ -4,9 +4,9 @@ description: Découvrez la vue Tendance des informations sur les performances qu
 title: Vue d’ensemble de la tendance de Performance Insights
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Cliquez sur l&#39;onglet **[!UICONTROL Tendance]** pour accéder à cette vue.
 
 ![](assets/2-1.png)
 
-Sélectionnez la mesure en fonction de laquelle vous souhaitez afficher les performances. Dans cet exemple, nous allons examiner les opportunités gagnées via [[!UICONTROL Première touche]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Sélectionnez la mesure en fonction de laquelle vous souhaitez afficher les performances.
 
 ![](assets/3-2.png)
 

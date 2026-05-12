@@ -4,16 +4,16 @@ description: Découvrez comment modifier les paramètres de comportement des ana
 title: Modifier les paramètres de comportement d’analyse
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '174'
 ht-degree: 8%
 
 ---
 
 # Modifier les paramètres de comportement d’analyse {#edit-analytics-behavior-settings}
 
-Vous pouvez définir le comportement d’[analyse au niveau de l’administration sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mais vous pouvez également le modifier au niveau du programme. Voici comment faire.
+Découvrez comment modifier le comportement des analyses au niveau du programme.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

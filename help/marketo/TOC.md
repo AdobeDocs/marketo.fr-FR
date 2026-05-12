@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 9129e60d468173fc5f17a4acf8126f04a2183711
+source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
 workflow-type: tm+mt
-source-wordcount: '9238'
-ht-degree: 97%
+source-wordcount: '8827'
+ht-degree: 96%
 
 ---
 
@@ -30,14 +30,13 @@ ht-degree: 97%
       + [Bonnes pratiques relatives à une nouvelle instance : documenter votre configuration](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Choses à savoir {#things-to-know}
       + [Glossaire Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
-      + {hide-from-toc}[Nouveau glossaire](getting-started/things-to-know/new-glossary.md)
       + [Glossaire des icônes](getting-started/things-to-know/icon-glossary.md)
       + [Glossaire des icônes classiques](getting-started/things-to-know/classic-icon-glossary.md)
       + [Centre d’aide](getting-started/things-to-know/help-center.md)
       + [Abonnement aux notifications d’état du système](getting-started/things-to-know/system-status-notifications.md)
       + {hide-from-toc}[Assistant IA pour la connaissance des produits](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[Communauté Marketing Nation](getting-started/things-to-know/community.md)
-      + {hide-from-toc}[Migration &#x200B;](getting-started/things-to-know/aws-migration.md)
+      + {hide-from-toc}[Migration ](getting-started/things-to-know/aws-migration.md)
    + Solutions rapides {#quick-wins}
       + [Préparer sa configuration et ajouter une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Envoyer un e-mail](getting-started/quick-wins/send-an-email.md)
@@ -63,7 +62,7 @@ ht-degree: 97%
    + MARKETO AI {#marketo-ai}
       + [Vue d’ensemble](product-docs/marketo-ai/overview.md)
       + [Paramètres et configuration](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[&#x200B; Paramètres et configuration &#x200B;](product-docs/marketo-ai/settings-setup-old.md)
+      + {hide-from-toc}[ Paramètres et configuration ](product-docs/marketo-ai/settings-setup-old.md)
       + Agents {#agents}
          + [Importer les leads](product-docs/marketo-ai/agents/import-leads.md)
          + [AQ du programme](product-docs/marketo-ai/agents/program-qa.md)
@@ -655,7 +654,7 @@ ht-degree: 97%
          + Conversation en direct {#live-chat}
             + [Vue d’ensemble de la conversation en direct](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Boîte de réception de l’agent ou de l’agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
-            + {hide-from-toc}[Notifications &#x200B;](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
+            + {hide-from-toc}[Notifications ](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + IA générative {#generative-ai}
             + [Vue d’ensemble de l’IA générative](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
             + [Génération de questions](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
@@ -1009,7 +1008,7 @@ ht-degree: 97%
          + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
          + [Mode sombre](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Tester le rendu des e-mails avec Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
-         + {hide-from-toc}[Jetons &#x200B;](product-docs/email-marketing/email-designer/personalization-tokens.md)
+         + {hide-from-toc}[Jetons ](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Utiliser AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Modifier des images à l’aide d’Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
@@ -1727,81 +1726,6 @@ ht-degree: 97%
          + [Paramètres de Performance Insights](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [Vue d’ensemble de la tendance de Performance Insights](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [Configuration de Performance Insights](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-      + Analyse du cycle de revenu {#revenue-cycle-analytics}
-         + Analyse d’e-mail {#email-analysis}
-            + [Créer un rapport d’analyse d’e-mail répertoriant les leads](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
-            + [Créer un rapport d’analyse d’e-mail affichant les informations du programme](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
-            + [Présentation de la zone d’analyse d’e-mail](product-docs/reporting/revenue-cycle-analytics/email-analysis/understanding-the-email-analysis-area.md)
-         + Analyseur d’influence d’opportunité {#opportunity-influence-analyzer}
-            + [Présentation de l’analyseur d’influence d’opportunité](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
-            + [Configurer un analyseur d’influence d’opportunité](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
-            + [Créer un analyseur d’influence d’opportunité](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
-            + [Exporter les données d’analyseur d’influence d’opportunité](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
-            + [Raconter la story marketing avec un analyseur d’influence d’opportunité](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-         + Analyse du programme {#program-analytics}
-            + [Vue d’ensemble des rapports de programmes avancés](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
-            + [Créer un rapport d’analyse de l’abonnement à un programme répertoriant les leads](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
-            + [Cloner un analyseur de programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-            + [Comparer l’efficacité du canal avec l’analyseur de programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
-            + [Comparer l’efficacité du programme avec l’analyseur de programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
-            + [Créer un analyseur de programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
-            + [Explorer les détails du programme et du canal avec l’analyseur de programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
-            + [Rendre un programme sans coût de période disponible dans l’explorateur de revenu et les analyseurs](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
-            + [Remplacer le comportement d’analyse au niveau du programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
-            + [Présentation de la zone d’analyse du coût du programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)
-            + [Présentation de la zone d’analyse de l’abonnement au programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
-            + [Présentation de la zone d’analyse de l’opportunité du programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
-            + [Présentation de la zone d’analyse de l’étape de revenu du programme](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
-         + Modèles du cycle des revenus {#revenue-cycle-models}
-            + [Approuver/annuler l’approbation d’un modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
-            + [Modification de votre modèle approuvé](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
-            + [Approbation d’étapes et affectation de leads à un modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
-            + [Modification du nom d’une étape](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
-            + [Clonage d’un modèle d’exemple de revenu Marketo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
-            + [Créer un modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-            + [Créer un analyseur de voie du succès](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
-            + [Activer des groupes de champs personnalisés pour l’analyse des performances du modèle (leads)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
-            + [Rechercher tous les leads dans un modèle de cycle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
-            + [Fusionner deux étapes dans Revenue Modeler](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
-            + [Créer un rapport sur votre modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [Définir des conversions Google AdWords dans le modèle de revenu avec un compte de personne gestionnaire](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-            + [Définir des conversions Google AdWords dans le modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-            + [Commencer le tracking par compte dans Revenue Modeler](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
-            + [Présentation des phases du modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
-            + [Présentation de la voie du succès du modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
-            + [Présentation des modèles de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
-            + [Utilisation d’étapes de contrôle du modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
-            + [Utilisation d’étapes d’inventaire du modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Utilisation d’étapes SLA du modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
-            + [Utilisation de transitions de modèle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
-            + [Utilisation de l’analyseur de voie du succès](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
-         + Explorateur de revenu {#revenue-explorer}
-            + [Ajout de mesures personnalisées à un rapport de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
-            + [Ajout de champs à un rapport de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
-            + [Créer un rapport de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
-            + [Personnaliser et afficher des grilles thermiques](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/customize-and-display-heat-grids.md)
-            + [Suppression d’un champ dans un rapport de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
-            + [Export d’un rapport de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/exporting-a-revenue-explorer-report.md)
-            + [Représentation graphique des résultats de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/graphing-results-from-revenue-explorer.md)
-            + [Types de rapports de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/revenue-explorer-report-types.md)
-            + [Enregistrement d’un rapport de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
-            + [S’abonner à un rapport de l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-            + [Synchroniser les champs personnalisés avec l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
-            + [Présentation de l’analyse de l’opportunité dans l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
-            + [Utilisation de tableaux de bord dans l’explorateur de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
-         + Outils de revenu {#revenue-tools}
-            + [Définir les coûts de la période](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
-            + [Activation de la synchronisation de champ personnalisé pour l’analyse du cycle de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
-            + [Rapport des personnes par étape de revenu](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + Attribution {#attribution}
-               + [Présentation de l’attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
-               + [Exemple d’attribution 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
-               + [Exemple d’attribution 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
-               + [Exemple d’attribution 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
-               + [Exemple d’attribution 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-            + Organisateurs de champs {#field-organizers}
-               + [Utilisation des organisateurs de champs](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
-               + [Créer des groupes de champs personnalisés à l’aide de l’organisateur de champs](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
       + Analyse BI avancée {#advanced-bi-analytics}
          + [Vue d’ensemble de l’analyse BI avancée](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [Mesures et dimensions](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
@@ -1929,7 +1853,7 @@ ht-degree: 97%
    + [Version actuelle](release-notes/current.md)
    + {hide-from-toc}[Current Release TEMP](release-notes/current-temp.md)
    + [Version de Dynamic Chat](release-notes/dynamic-chat.md)
-   + {hide-from-toc}[TEMP de mise à jour de &#x200B;](release-notes/dynamic-chat-temp.md)
+   + {hide-from-toc}[TEMP de mise à jour de ](release-notes/dynamic-chat-temp.md)
    + Versions précédentes {#previous-releases}
       + 2026 {#2026}
          + [Notes De Mise À Jour : 26 Janvier](release-notes/previous-releases/2026/release-notes-jan-26.md)
