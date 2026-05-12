@@ -51,12 +51,12 @@ Pour rappel, ce paramètre modifie également les mesures d’attribution du pro
 
 ## Langue d&#39;utilisateur supplémentaire {#additional-user-language}
 
-Sélectionnez Votre [Langue D&#39;Application ](/help/marketo/product-docs/administration/settings/change-time-zone.md). Affichez l’interface de gestion des prospects de Marketo dans la langue de votre choix, désormais en japonais.
+Sélectionnez Votre [Langue D&#39;Application &#x200B;](/help/marketo/product-docs/administration/settings/change-time-zone.md). Affichez l’interface de gestion des prospects de Marketo dans la langue de votre choix, désormais en japonais.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Blog des développeurs Marketo {#marketo-developer-blog}
 
-Le blog du développeur de Marketo [](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
+Le blog du développeur de Marketo [&#128279;](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
 
 Le [premier article](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de cette série vous explique comment récupérer efficacement des informations sur les personnes (clients/contacts/prospects) stockées dans Marketo à l’aide de l’API.

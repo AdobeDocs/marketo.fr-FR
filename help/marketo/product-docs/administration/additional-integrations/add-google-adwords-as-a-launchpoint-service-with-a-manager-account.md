@@ -17,7 +17,7 @@ Liez votre compte [!DNL Google AdWords] à Marketo pour charger automatiquement 
 
 Si vous disposez de plusieurs comptes [!DNL Google Adwords], vous pouvez utiliser un [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (anciennement appelé [!DNL My Client Center]) pour les intégrer à Marketo.
 
-En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >

@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Notes de mise à jour : janvier 2014 {#release-notes-january}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Vérifiez la disponibilité des fonctionnalités dans votre [édition ](https://www.marketo.com/pricing/).
+Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Vérifiez la disponibilité des fonctionnalités dans votre [édition &#x200B;](https://www.marketo.com/pricing/).
 
 ## Formulaires 2.0 {#forms}
 
