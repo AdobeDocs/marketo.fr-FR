@@ -4,9 +4,9 @@ description: Intégrez plusieurs comptes  [!DNL Google AdWords]  Marketo à l’
 title: Ajouter [!DNL Google AdWords] as a [!DNL Launchpoint] Service avec un compte Manager
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Liez votre compte [!DNL Google AdWords] à Marketo pour charger automatiquement 
 
 Si vous disposez de plusieurs comptes [!DNL Google Adwords], vous pouvez utiliser un [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (anciennement appelé [!DNL My Client Center]) pour les intégrer à Marketo.
 
-En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -93,7 +93,3 @@ En savoir plus sur la fonctionnalité d’importation de conversions hors ligne 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
    Consultez l’article connexe ci-dessous pour savoir comment mapper [!DNL AdWords] conversions hors ligne dans votre modèle de chiffre d’affaires.
-
-   >[!MORELIKETHIS]
-   >
-   >[Set [!DNL Google AdWords] Conversions dans le modèle de chiffre d’affaires avec un compte Manager](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

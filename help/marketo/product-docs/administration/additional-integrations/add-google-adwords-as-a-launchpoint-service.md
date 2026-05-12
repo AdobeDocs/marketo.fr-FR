@@ -4,9 +4,9 @@ description: Lier  [!DNL Google AdWords]  Marketo via LaunchPoint pour charger d
 title: Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '284'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Liez votre compte [!DNL Google AdWords] à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir de l’interface utilisateur de [!DNL AdWords], vous pouvez voir quels clics ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toutes les étapes de revenus que vous souhaitez suivre) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target="_blank"} dans [!DNL AdWords]. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
 
-En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -91,7 +91,3 @@ En savoir plus sur la fonctionnalité d’importation de conversions hors ligne 
    >[Balisage automatique](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} doit être sélectionné pour que cette fonctionnalité fonctionne. La désactivation doit être effectuée dans [!DNL AdWords].
 
 Consultez l’article connexe ci-dessous pour savoir comment mapper [!DNL AdWords] conversions hors ligne dans votre modèle de chiffre d’affaires.
-
->[!MORELIKETHIS]
->
->[Set [!DNL Google AdWords] Conversions dans le modèle de revenu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

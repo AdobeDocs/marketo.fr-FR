@@ -4,7 +4,7 @@ description: Notes De Mise À Jour - Février 2013 - Documents Marketo - Documen
 title: Notes De Mise À Jour - Février 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 1%
@@ -33,4 +33,4 @@ Le point d’entrée préféré de l’API SOAP a été mis à jour. Il est affi
 
 ## Prochainement : prise en charge de plusieurs modèles {#coming-soon-support-for-multiple-models}
 
-Nous jetons les bases pour soutenir plusieurs modèles de cycle de revenus, avons voté #1 idée pour RCA dans la Communauté, dans une prochaine version. Dans cette version, vous remarquerez quelques modifications, notamment [filtres de liste dynamique et Ajouter des choix dans les étapes de flux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) pour prendre en charge la sélection d’un modèle et d’une étape. Nous déplaçons également les champs Étape de revenus de leads et Modèle de cycle de revenus de leads hors de l’onglet Grille de leads de liste dynamique.
+Nous jetons les bases pour soutenir de multiples modèles de cycle de revenus, avons voté #1 idée pour RCA dans la Communauté, dans une prochaine version. Dans cette version, vous remarquerez quelques modifications, y compris les filtres de liste dynamique et Ajouter des choix dans les étapes de flux pour prendre en charge la sélection d’un modèle et d’une étape. Nous déplaçons également les champs Étape de revenus de leads et Modèle de cycle de revenus de leads hors de l&#39;onglet Grille de leads de liste dynamique.

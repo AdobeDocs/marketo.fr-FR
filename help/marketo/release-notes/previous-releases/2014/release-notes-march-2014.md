@@ -4,9 +4,9 @@ description: Notes De Mise À Jour - Mars 2014 - Documents Marketo - Documentati
 title: Notes De Mise À Jour - Mars 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 4%
 
 ---
@@ -35,7 +35,7 @@ Lorsque vous utilisez le [rapport de performance du programme](/help/marketo/pro
 
 ## Programmes opérationnels et inclusifs pour les analyses {#inclusive-and-operational-programs-for-analytics}
 
-Vous pouvez désormais [inclure des programmes sans coûts de période](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) dans l’[!UICONTROL Explorateur de revenus] et les analyseurs en définissant l’option de comportement d’Analytics sur « Inclusif » lorsque vous modifiez les canaux de programme. Vous pouvez également exclure les programmes opérationnels du compte rendu des performances en sélectionnant « Opérationnel ».
+Vous pouvez désormais inclure des programmes sans coûts de période dans [!UICONTROL Revenue Explorer] et les analyseurs en définissant l’option de comportement d’Analytics sur « Inclusif » lorsque vous modifiez les canaux de programme. Vous pouvez également exclure les programmes opérationnels du compte rendu des performances en sélectionnant « Opérationnel ».
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

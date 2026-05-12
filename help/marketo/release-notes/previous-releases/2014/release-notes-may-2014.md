@@ -4,9 +4,9 @@ description: Notes De Mise À Jour - Mai 2014 - Documents Marketo - Documentatio
 title: Notes De Mise À Jour - Mai 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ Découvrez comment vos liens se comporteront dans les e-mails à l’avance. Les
 
 ## [!UICONTROL Abandonner la campagne] {#abort-campaign}
 
-Ne paniquez pas ! Si vous trouvez une erreur, utilisez le nouveau bouton [abandonner la campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) pour arrêter immédiatement les campagnes dont ils sont le siège. Vous recevrez une notification indiquant le nombre de leads en attente dans chaque étape de flux lorsque la campagne a été arrêtée.
+Pas de panique ! Si vous trouvez une erreur, utilisez le nouveau bouton [abandonner la campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) pour arrêter immédiatement les campagnes dont ils sont le siège. Vous recevrez une notification indiquant le nombre de leads en attente à chaque étape de flux lorsque la campagne a été arrêtée.
 
 ## [!UICONTROL Sales Insight] en japonais, portugais et espagnol {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Téléchargez la dernière version d’[!UICONTROL Sales Insight] depuis AppExch
 
 ## Statut du programme et calendrier de réussite dans l’analyse des adhésions au programme {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Affichez le nombre de [membres) présents dans chaque statut de programme](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) et le moment où ils sont passés à chaque statut, y compris la date à laquelle ils ont atteint le succès du programme.
+Affichez le nombre de membres présents dans chaque statut de programme et le moment où ils sont passés à chaque statut, y compris la date à laquelle ils ont atteint le succès du programme.
 
 ## E-mails de test A/B dans [!UICONTROL Analyse des e-mails] {#a-b-test-emails-in-email-analysis}
 
-Créez un rapport sur chacune de vos variantes d’e-mail de test A/B [A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) dans [!UICONTROL Analyse des e-mails].
+Générez un rapport sur chacune des variantes de vos e-mails de test A/B dans [!UICONTROL Analyse des e-mails].
 
 ## Modifications du package Analytics {#analytics-packaging-changes}
 

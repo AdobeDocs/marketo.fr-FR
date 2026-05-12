@@ -4,10 +4,10 @@ description: Découvrez les types de rapports disponibles, notamment les rapport
 title: Vue d’ensemble du type de rapport
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 15%
+source-wordcount: '235'
+ht-degree: 17%
 
 ---
 
@@ -46,16 +46,8 @@ Lorsque vous [créez un rapport dans un programme](/help/marketo/product-docs/re
    <td>Création de rapports automatique basée sur le champ Statut de la personne .</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport des personnes par étape de revenu</a></strong></td>
-   <td>Création de rapports de base pour votre modèle de chiffre d’affaires. Voir <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> pour obtenir des rapports plus détaillés.</td>
-  </tr>
-  <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Performance de la page de destination</a>  </strong></td>
    <td>Affichez les visites, les conversions et d’autres mesures pour vos pages de destination.</td>
-  </tr>
-  <tr>
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Performance du programme</a>  </strong></td>
-   <td>Mesures de programme de base telles que les membres et le succès. Voir <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> pour obtenir des rapports plus détaillés.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Activité Web de la société</a></strong></td>

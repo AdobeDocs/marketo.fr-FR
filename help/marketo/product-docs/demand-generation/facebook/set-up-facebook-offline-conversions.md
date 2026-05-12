@@ -4,9 +4,9 @@ description: Découvrez comment configurer des conversions hors ligne Facebook d
 title: Configurer les conversions hors ligne Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '321'
 ht-degree: 5%
 
 ---
@@ -17,8 +17,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
 >[!PREREQUISITES]
 >
->* Vous devez [configurer les publicités de lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Un modèle approuvé doit être présent dans [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>Vous devez [configurer les publicités de lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 ## Configuration d’administration {#admin-configuration}
 

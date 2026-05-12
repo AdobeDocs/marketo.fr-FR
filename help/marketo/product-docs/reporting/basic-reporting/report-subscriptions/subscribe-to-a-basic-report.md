@@ -4,20 +4,16 @@ description: Découvrez comment abonner des adresses e-mail à des rapports de b
 title: S’abonner à un rapport de base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
 # S’abonner à un rapport de base {#subscribe-to-a-basic-report}
 
 Pour recevoir les mises à jour automatiques d’un rapport de base ou les partager, vous pouvez abonner n’importe quelle adresse e-mail à un rapport existant.
-
->[!NOTE]
->
->Pour les abonnements à un rapport de l’Explorateur du cycle du chiffre d’affaires, voir [S’abonner à un rapport de l’Explorateur](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 
