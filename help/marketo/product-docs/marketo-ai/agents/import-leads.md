@@ -3,7 +3,7 @@ description: Découvrez comment utiliser l’agent Importer des prospects pour c
 title: Importer les leads
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 1%
