@@ -8,20 +8,14 @@ feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
 TQID: https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 8ba2ac1fa056e96aac50abbde16042e522779ab3
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: fdc003d7aed05d85687427d9455bb806eb33d0b2
 workflow-type: tm+mt
-source-wordcount: 1410
+source-wordcount: 1403
 ht-degree: 12%
 
 ---
@@ -40,7 +34,7 @@ Pour rendre des parties d’un fragment visuel modifiables, procédez comme suit
 
 >[!NOTE]
 >
->Des champs modifiables peuvent être ajoutés aux composants **image**, **texte** et **bouton**. Pour les composants **HTML**, les champs modifiables sont ajoutés à l’aide de l’éditeur de personnalisation, comme pour les fragments d’expression. [Découvrez comment ajouter des champs modifiables dans les composants HTML et les fragments d’expression](#expression)
+>Des champs modifiables peuvent être ajoutés aux composants **image**, **texte** et **bouton**. Pour les composants **HTML**, les champs modifiables sont ajoutés à l’aide de l’éditeur de personnalisation, comme pour les fragments d’expression. [En savoir plus sur les champs modifiables dans les composants HTML des fragments](#editable-html)
 
 1. Ouvrez l’écran d’édition du contenu du fragment.
 
@@ -64,7 +58,7 @@ Pour rendre des parties d’un fragment visuel modifiables, procédez comme suit
 
 Après avoir ajouté le fragment à un e-mail, les utilisateurs et utilisatrices peuvent personnaliser tous les champs modifiables configurés dans le fragment.
 
-## Ajouter des champs modifiables dans les composants HTML et les fragments d’expression {#expression}
+## Composants HTML modifiables dans les fragments {#editable-html}
 
 Dans un composant HTML, les types d’éléments suivants peuvent être rendus modifiables :
 
