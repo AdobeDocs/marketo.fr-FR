@@ -1,6 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Engage
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature-set: Marketo Engage
 landing-page-name: marketo-engage
 landing-page-breadcrumb-title: Marketo Engage
@@ -9,16 +11,16 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo.fr-FR
 index: true
-source-git-commit: b6b8bf02ac2dee68217e3de45f5411db3ce289d3
+source-git-commit: 7a3cf730c5709038260a04c3d184e791129d9296
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 98%
+source-wordcount: 70
+ht-degree: 94%
 
 ---
 
 
-# Métadonnées pour une utilisation interne
+# Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées de niveau référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour un guide de l’utilisateur, faites-le dans le fichier TOC.md.
+Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Pour obtenir la liste des valeurs valides pour **solution**, **product** et **type**, voir [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr).
+Consultez [&#x200B; Métadonnées &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**
