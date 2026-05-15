@@ -3,9 +3,9 @@ description: Utilisez l’IA dédiée au Marketo pour créer un programme Market
 title: Créer un programme
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ Décrivez une campagne marketing en langage clair et Marketo AI créera la struc
 
 >[!PREREQUISITES]
 >
->Vous devez disposer des autorisations nécessaires pour créer des programmes sur votre compte Marketo.
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>
+>* Vous devez disposer des autorisations nécessaires pour créer des programmes sur votre compte Marketo.
 
 ## Utilisation {#how-to-use}
 
@@ -48,8 +50,8 @@ Décrivez une campagne marketing en langage clair et Marketo AI créera la struc
 
 ## Éléments à noter {#things-to-note}
 
-* **Ayez une idée claire de ce que la campagne doit faire** : qui est l’audience, quelle action la déclenche (ou s’il s’agit d’un envoi par lots) et quel est l’objectif.
-* **Aucun modèle ni formulaire n’est requis au départ** : l’IA dédiée au Marketo crée la structure et vous pouvez ensuite connecter des ressources (vous êtes toujours chargé de rédiger une copie d’e-mail et de configurer les pages de destination).
-* **L’IA Marketo ne peut pas accéder automatiquement à vos listes d’audience existantes** : vous devez connecter les filtres de liste dynamique à vos segments réels une fois le programme créé.
-* **Les programmes complexes à plusieurs étapes** avec une logique de branchement avancée peuvent nécessiter un affinement manuel après leur création.
-* **Si votre environnement Marketo utilise des conventions de nommage ou des structures de dossiers** : spécifiez-les dans votre résumé afin que le programme soit créé au bon endroit.
+* Ayez une idée claire de ce que la campagne doit faire ; de l’audience, de l’action qui la déclenche (ou s’il s’agit d’un envoi par lots) et de l’objectif.
+* Aucun modèle ou formulaire n’est requis au préalable. L’IA dédiée à Marketo crée la structure et vous pouvez connecter les ressources par la suite (vous êtes toujours chargé de rédiger une copie d’e-mail et de configurer les pages de destination).
+* Marketo AI ne peut pas accéder automatiquement à vos listes d’audience existantes. Vous devez connecter les filtres de liste dynamique à vos segments réels une fois le programme créé.
+* Les programmes complexes à plusieurs étapes avec une logique de branchement avancée peuvent nécessiter un affinement manuel après leur création.
+* Si votre environnement Marketo utilise des conventions de nommage ou des structures de dossiers. Spécifiez-les dans votre mémoire afin que le programme soit créé au bon endroit.

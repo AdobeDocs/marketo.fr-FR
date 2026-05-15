@@ -3,9 +3,9 @@ description: Le programme de clonage duplique un programme Marketo existant dans
 title: Cloner le programme
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '458'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,10 @@ L’agent de programme Clone copie un programme opérationnel, y compris ses cam
 
 >[!PREREQUISITES]
 >
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>
 >* Vous devez disposer des autorisations nécessaires pour créer des programmes dans le dossier de destination.
+>
 >* Le programme source que vous souhaitez cloner doit déjà exister dans votre environnement Marketo.
 
 ## Utilisation {#how-to-use}
@@ -43,8 +46,8 @@ L’agent de programme Clone copie un programme opérationnel, y compris ses cam
 
 ## Éléments à noter {#things-to-note}
 
-* **Les programmes clonés sont créés à l’état désactivé** : rien ne passe en ligne tant que vous n’avez pas activé les campagnes intelligentes.
-* **Les ressources d’e-mail du clone sont des copies qui ne sont pas partagées avec l’original** : les modifications apportées aux e-mails du clone n’affecteront pas le programme source.
-* **Les jetons utilisés dans le programme source sont copiés dans le clone** : cependant, ils doivent toujours être mis à jour avec de nouvelles valeurs (dates, URL, noms d’événements).
-* **Les filtres de campagne intelligents du clone référencent les mêmes listes et champs que l’original** : vérifiez et mettez à jour le ciblage des audiences avant l’activation.
-* **Les ressources locales référençant d’autres programmes ou listes partagées sont copiées dans le clone** : ces références doivent être examinées avant l’activation.
+* Les programmes clonés sont créés dans un état désactivé. Rien ne passe en ligne tant que vous n’avez pas activé les campagnes intelligentes.
+* Les ressources d’e-mail dans le clone sont des copies et ne sont pas partagées avec l’original. Les modifications apportées aux e-mails du clone n’affecteront pas le programme source.
+* Les jetons utilisés dans le programme source sont copiés dans le clone. Cependant, elles doivent toujours être mises à jour avec de nouvelles valeurs (dates, URL, noms d’événement).
+* Les filtres de campagne intelligente du clone référencent les mêmes listes et champs que l’original. Examinez et mettez à jour le ciblage des audiences avant l’activation.
+* Les ressources locales référençant d’autres programmes ou listes partagées sont copiées dans le clone. Ces références doivent être examinées avant l’activation.
