@@ -3,9 +3,9 @@ description: Découvrez comment auditer vos programmes à la recherche des bonne
 title: AQ du programme
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '195'
 ht-degree: 2%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 2%
 
 Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les landing pages, les campagnes, etc.
 
+>[!PREREQUISITES]
+>
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+
 >[!NOTE]
 >
->Cette fonctionnalité est en version Beta ouverte et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque vous verrez une vignette _Créer avec l’IA_ sur votre écran Mon Marketo.
+>Cette fonctionnalité est en version bêta fermée et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque vous verrez une vignette _Créer avec l’IA_ sur votre écran Mon Marketo.
 
 ## Utilisation {#how-to-use}
 
@@ -34,7 +38,7 @@ Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les compo
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-   Un résumé du programme s’affiche dans le volet central, fournissant un aperçu du programme.
+   Un résumé du programme sélectionné s’affiche dans le volet central.
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
@@ -42,7 +46,7 @@ Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les compo
 
    ![](assets/program-qa-5.png)
 
-   L’assistant d’IA fournit un contrôle qualité du programme sélectionné vous montrant ce qui a réussi et ce qui a échoué.
+   L’assistant d’IA fournit un contrôle qualité du programme sélectionné, vous montrant ce qui a réussi et ce qui a échoué.
 
    ![](assets/program-qa-6.png)
 

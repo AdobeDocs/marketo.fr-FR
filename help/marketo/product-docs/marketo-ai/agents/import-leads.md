@@ -3,9 +3,9 @@ description: Découvrez comment utiliser l’agent Importer des prospects pour c
 title: Importer les leads
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '275'
 ht-degree: 1%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 1%
 
 Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs.
 
+>[!PREREQUISITES]
+>
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+
 >[!NOTE]
 >
->Cette fonctionnalité est en version Beta ouverte et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque vous verrez une vignette _Créer avec l’IA_ sur votre écran Mon Marketo.
+>Cette fonctionnalité est en version bêta fermée et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque vous verrez une vignette _Créer avec l’IA_ sur votre écran Mon Marketo.
 
 ## Utilisation {#how-to-use}
 
@@ -28,7 +32,7 @@ Importez et dédupliquez des listes de prospects dans votre base de données Mar
 
    ![](assets/import-leads-2.png)
 
-   Vous accédez à l’écran d’IA conversationnelle . Dans le volet de gauche, l’agent publie des conseils, des réponses et des options pour les fonctionnalités de normalisation des données à exécuter.
+   Vous accédez à l’écran d’IA conversationnelle . Le volet de gauche affiche des conseils, des réponses et les options de normalisation des données disponibles.
 
    ![](assets/import-leads-3.png)
 
@@ -36,7 +40,7 @@ Importez et dédupliquez des listes de prospects dans votre base de données Mar
 
    ![](assets/import-leads-4.png)
 
-1. Saisissez _Importer la liste_ et cliquez sur **Envoyer**.
+1. Saisissez « Importer la liste » et cliquez sur **Envoyer**.
 
    ![](assets/import-leads-5.png)
 
@@ -66,4 +70,4 @@ Importez et dédupliquez des listes de prospects dans votre base de données Mar
 
    ![](assets/import-leads-10.png)
 
-Une fois l’importation terminée, la vérification est fournie avec un résumé des prospects traités, les lignes ayant échoué et les avertissements éventuels.
+Une fois l’importation terminée, un résumé de vérification s’affiche. Il indique les prospects traités, les lignes ayant échoué et les avertissements éventuels.
