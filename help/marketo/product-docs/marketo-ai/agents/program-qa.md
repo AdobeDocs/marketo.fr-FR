@@ -3,9 +3,9 @@ description: Découvrez comment auditer vos programmes à la recherche des bonne
 title: AQ du programme
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 2%
 
 Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les landing pages, les campagnes, etc.
 
+>[!AVAILABILITY]
+>
+>Cette fonctionnalité est en disponibilité limitée. Pour demander l’accès à votre abonnement, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+
 >[!PREREQUISITES]
 >
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
-
->[!NOTE]
->
->Cette fonctionnalité est en version bêta fermée et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque vous verrez une vignette _Créer avec l’IA_ sur votre écran Mon Marketo.
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
 
 ## Utilisation {#how-to-use}
 
