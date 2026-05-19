@@ -41,7 +41,7 @@ Utilisez l’[!UICONTROL analyseur de programmes] pour comparer les coûts des c
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Utilisez le menu déroulant **[!UICONTROL Axe Y]** pour choisir **[!UICONTROL Pipeline MT créé]**.
 

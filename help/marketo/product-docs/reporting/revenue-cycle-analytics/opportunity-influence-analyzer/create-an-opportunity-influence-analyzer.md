@@ -58,7 +58,7 @@ Utilisez l’analyseur d’influence d’opportunité pour afficher la contribut
 
 >[!TIP]
 >
->Vous pouvez également regarder une vidéo sur Opportunity Influence Analyzer à l’université [](https://learn.marketo.com). (Ça a l&#39;air un peu différent maintenant, mais il y a encore beaucoup à apprendre !)
+>Vous pouvez également regarder une vidéo sur Opportunity Influence Analyzer à l’université [&#128279;](https://learn.marketo.com). (Ça a l&#39;air un peu différent maintenant, mais il y a encore beaucoup à apprendre !)
 
 >[!MORELIKETHIS]
 >
