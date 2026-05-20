@@ -14,7 +14,7 @@ ht-degree: 31%
 
 >[!NOTE]
 >
->Pour la version actuelle, voir [ Notes de mise à jour actuelles ](current.md). Pour obtenir l’historique des versions de Dynamic Chat, consultez les [Notes de mise à jour de Dynamic Chat](dynamic-chat.md).
+>Pour la version actuelle, voir [&#x200B; Notes de mise à jour actuelles &#x200B;](current.md). Pour obtenir l’historique des versions de Dynamic Chat, consultez les [Notes de mise à jour de Dynamic Chat](dynamic-chat.md).
 
 ## 2026
 
